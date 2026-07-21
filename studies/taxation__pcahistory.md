@@ -22,8 +22,8 @@ Christ (Ephesians 1:20-23; Colossians 1:18; WCF VIII, i; XXV, i; XXV, vi; BCO Pr
 
 11(8)); and
 
-<a id="ga11-p63"></a>
-<!-- PAGE ga=11 pdf_page=63 printed_page=null -->
+<a id="ga11-p61"></a>
+<!-- PAGE ga=11 pdf_page=63 printed_page=61 printed_page_source=inferred -->
 
 Whereas, the Church of Jesus Christ exists by divine right under the law and ordination of God; and
 
@@ -110,8 +110,8 @@ Only when the same Humanist Enlightenment reached the American shores in the lat
 
 ³³ "[T]he issue which divides, then, is that secularists do not give assent to the divine origin and nature of the Church... Thus, separation of church and state, which began in part to protect the church, ironically has turned on its head and become a tool for confining the Church." Carl H. Esbeck, "Toward a General Theory of Church-State Relations and the First Amendment," *IV Public Law Forum* (1985), pp. 328-29.
 
-<a id="ga15-p450"></a>
-<!-- PAGE ga=15 pdf_page=450 printed_page=null -->
+<a id="ga15-p448"></a>
+<!-- PAGE ga=15 pdf_page=450 printed_page=448 printed_page_source=inferred -->
 
 n. The Individual Christian is Subject to Two Jurisdictions
 There is no question that the individual Christian citizen is subject to both the civil government and
@@ -173,8 +173,8 @@ in the cities.
 amount of taxation that he considered the upward biblical limit, the passage indicates that in his thinking even a tithe or 10% of the
 income would be oppressive.
 
-<a id="ga15-p451"></a>
-<!-- PAGE ga=15 pdf_page=451 printed_page=null -->
+<a id="ga15-p449"></a>
+<!-- PAGE ga=15 pdf_page=451 printed_page=449 printed_page_source=inferred -->
 
 government by giving rise to tax evaluation of church property, tax liens, tax foreclosures and the direct confrontations and conflicts that follow in the train of those legal processes."³⁷
 
@@ -208,8 +208,8 @@ Because of opposition by churches to payment of the social security tax, Congres
 
 41 See Roland S. Barnes, "Forum: Taxing Question for the Church," PCA Messenger (October, 1984), p. 4.
 
-<a id="ga15-p452"></a>
-<!-- PAGE ga=15 pdf_page=452 printed_page=null -->
+<a id="ga15-p450"></a>
+<!-- PAGE ga=15 pdf_page=452 printed_page=450 printed_page_source=inferred -->
 
 representatives. Secondly, the law should be protested in the courts or through demonstrations. Finally, the citizen may flee to another jurisdiction, as our founding fathers did when they left England for America. If all these options fail or are not available, then civil disobedience or absolute refusal to pay the tax is appropriate. A Christian Manifesto, p.103 (Crossway Books, 1982).
 
@@ -235,8 +235,8 @@ However, in order for the income of a church to be exempt from taxation under th
 
 44 Roland Barnes, PCA Messenger (October, 1984), p. 5.
 
-<a id="ga15-p453"></a>
-<!-- PAGE ga=15 pdf_page=453 printed_page=null -->
+<a id="ga15-p451"></a>
+<!-- PAGE ga=15 pdf_page=453 printed_page=451 printed_page_source=inferred -->
 
 EDUCATION AND PARENTAL RESPONSIBILITY
 
@@ -297,8 +297,8 @@ result? He has also in the fifth Commandment connected the child proximately, no
 45 robert lewis d abney, discussions of robert lewis Dabney, vol. 1, p. 691 0 9 8 2 ).
 46 norman h arper, Making Disciples, the challenge of christian education at the end of the twentieth Century, p. 4 6 0981).
 
-<a id="ga15-p454"></a>
-<!-- PAGE ga=15 pdf_page=454 printed_page=null -->
+<a id="ga15-p452"></a>
+<!-- PAGE ga=15 pdf_page=454 printed_page=452 printed_page_source=inferred -->
 
 with either presbyter or magistrate, but with the parents, which, of course, confers on
 them the adequate and the prior authority. This argument appears again in the very
@@ -360,8 +360,8 @@ the parent should instruct his children in Biblical values, pointing out to them
 47 robert lewis d abney, discussions of robert lewis dabney , vol. 3, pp. 290-91 0 9 8 2 ).
 48 norman h arper, Making Disciples , the challenge of christian education at the end of the twentieth century , p. 7 5 0981).
 
-<a id="ga15-p455"></a>
-<!-- PAGE ga=15 pdf_page=455 printed_page=null -->
+<a id="ga15-p453"></a>
+<!-- PAGE ga=15 pdf_page=455 printed_page=453 printed_page_source=inferred -->
 
 school textbook. fora parent to send a child to a public school, he must be very careful, well-informed
 and involved.

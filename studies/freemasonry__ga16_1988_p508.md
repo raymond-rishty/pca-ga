@@ -52,7 +52,7 @@
 > We sincerely regret we left the impression with anyone that we are biased, divisive or picking on one organization. This committee was made up of men appointed either directly by the court or by the moderator of the General Assembly. Our study was specifically directed, by the overture, to do certain
 >
 > <a id="ga16-p509"></a>
-> <!-- PAGE ga=16 pdf_page=509 printed_page=null -->
+> <!-- PAGE ga=16 pdf_page=509 printed_page=507 printed_page_source=inferred -->
 >
 > things and then bring in our conclusions and recommendations. All was done in accord with that directive.
 >
@@ -80,7 +80,7 @@
 > At the same time, we believe that the denomination, now that it has considered the matter, cannot ignore its responsibility to warn those who have ventured into Freemasonry and exhort them to examine their lives and commitments anew in the light of God's Word (2 Cor. 4:2; Heb. 13:8,9; John 14:6; Acts 4:12; 1 Thess. 5:21-22; Matt. 6:22-24; Jas. 1:8).
 >
 > <a id="ga16-p510"></a>
-> <!-- PAGE ga=16 pdf_page=510 printed_page=null -->
+> <!-- PAGE ga=16 pdf_page=510 printed_page=508 printed_page_source=inferred -->
 >
 > In this instruction, such books of the Bible as Galatians and 1 John afford a good basis for warnings of dangers or pitfalls that lurk in membership in such organizations.
 >
@@ -104,7 +104,7 @@
 > TE Jack B. Scott, Chairman
 >
 > <a id="ga16-p511"></a>
-> <!-- PAGE ga=16 pdf_page=511 printed_page=null -->
+> <!-- PAGE ga=16 pdf_page=511 printed_page=509 printed_page_source=inferred -->
 
 ---
 

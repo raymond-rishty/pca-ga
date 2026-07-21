@@ -22,7 +22,7 @@
 > poverty of spirit, ethical turmoil and civilizational chaos; and
 >
 > <a id="ga15-p189"></a>
-> <!-- PAGE ga=15 pdf_page=189 printed_page=null -->
+> <!-- PAGE ga=15 pdf_page=189 printed_page=187 printed_page_source=inferred -->
 >
 > Whereas, Humanism or Secular Humanism has penetrated leadership in
 > public life in our own land, especially in the political, mass media, and

@@ -33,7 +33,7 @@
 > A second meeting was convened on January 27, 1978, in Atlanta, Georgia. The Rev. Morton Smith and The Rev. Charles Dunahoo reviewed the actions of the General Assembly and of the Constitutional Documents Committee which has prepared the original report (no. 1, above).
 >
 > <a id="ga07-p60"></a>
-> <!-- PAGE ga=7 pdf_page=60 printed_page=null -->
+> <!-- PAGE ga=7 pdf_page=60 printed_page=58 printed_page_source=inferred -->
 >
 > After a thorough discussion of the subject under consideration, the Committee adopted the following statement and recommendations for presentation to the Sixth General Assembly:
 >
@@ -70,7 +70,7 @@
 > 8. That the General Assembly answer Overture 12 from the Presbytery of North Georgia to the Fifth General Assembly, with regard to divorce and remarriage, by reference to the Westminster Confession of Faith, Chapter XXIV.
 >
 > <a id="ga07-p61"></a>
-> <!-- PAGE ga=7 pdf_page=61 printed_page=null -->
+> <!-- PAGE ga=7 pdf_page=61 printed_page=59 printed_page_source=inferred -->
 >
 > Teaching Elder James Campbell and Ruling Elder John Thompson are submitting a minority report so that the General Assembly will have opportunity to discuss a concept other than that espoused by the Committee as a whole.
 >

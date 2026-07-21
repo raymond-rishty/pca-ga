@@ -259,9 +259,10 @@
     setupRecordActions(header, collectionCitation(header));
   }
 
-  function pageMeta(ga, page, { printed = true } = {}) {
+  function pageMeta(ga, page, { printed = true, printedSource = null } = {}) {
     const short = `M${ga}GA ${printed ? 'p.' : 'PDF p.'}${page}`;
-    const url = `${pageUrl()}#ga${ga}-p${page}`;
+    const anchor = printed ? `ga${ga}-p${page}` : `ga${ga}-pdf-p${page}`;
+    const url = `${pageUrl()}#${anchor}`;
     const recordTitle = document.querySelector('.record-header h1, .reading-col > h1')?.textContent.trim() || 'PCA General Assembly Minutes';
     return {
       id: url,
@@ -273,6 +274,7 @@
       markdown: `[${short}](${url}) — ${recordTitle}.`,
       citation: short,
       printed,
+      printedSource,
     };
   }
 
@@ -310,7 +312,9 @@
     closeResearchSheets();
     sheet.querySelector('#pageActionTitle').textContent = meta.short;
     sheet.querySelector('#pageActionContext').textContent = meta.printed
-      ? 'Save, cite, or share a link that opens at this exact printed page.'
+      ? meta.printedSource === 'inferred'
+        ? 'Save, cite, or share a link that opens at this printed page, inferred from a verified pagination run.'
+        : 'Save, cite, or share a link that opens at this exact printed page.'
       : 'Save, cite, or share a link to this source PDF page; no printed folio was detected.';
     setPageSaveButton(sheet.querySelector('[data-page-action="save"]'), Boolean(store?.isSaved(meta)));
     sheet.hidden = false;
@@ -353,16 +357,17 @@
     const comments = [];
     while (walker.nextNode()) comments.push(walker.currentNode);
     comments.forEach((comment) => {
-      const match = comment.nodeValue.match(/\bPAGE\s+ga=(\d+)\s+pdf_page=(\d+)\s+printed_page=([^\s]+)/i);
+      const match = comment.nodeValue.match(/\bPAGE\s+ga=(\d+)\s+pdf_page=(\d+)\s+printed_page=([^\s]+)(?:\s+printed_page_source=([^\s]+))?/i);
       if (!match) return;
-      const [, ga, pdfPage, printedPage] = match;
+      const [, ga, pdfPage, printedPage, printedSource] = match;
       const printed = printedPage.toLowerCase() !== 'null';
       const page = printed ? printedPage : pdfPage;
-      const meta = pageMeta(ga, page, { printed });
+      const meta = pageMeta(ga, page, { printed, printedSource });
       const marker = document.createElement('div');
       marker.className = 'page-marker';
-      marker.id = `ga${ga}-p${page}`;
-      marker.innerHTML = `<a href="#ga${ga}-p${page}">${meta.short}</a><button type="button" class="page-marker__actions" aria-label="Actions for ${meta.short}">${ICONS.page()}<span>Page actions</span></button>`;
+      const anchor = printed ? `ga${ga}-p${page}` : `ga${ga}-pdf-p${page}`;
+      marker.id = anchor;
+      marker.innerHTML = `<a href="#${anchor}">${meta.short}</a><button type="button" class="page-marker__actions" aria-label="Actions for ${meta.short}">${ICONS.page()}<span>Page actions</span></button>`;
       marker.querySelector('button').addEventListener('click', () => openPageActions(meta));
       comment.replaceWith(marker);
     });

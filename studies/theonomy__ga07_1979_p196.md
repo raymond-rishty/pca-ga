@@ -86,7 +86,7 @@
 > the Old Testament to a more pointed division between church and state in the New Testament.
 >
 > <a id="ga07-p197"></a>
-> <!-- PAGE ga=7 pdf_page=197 printed_page=null -->
+> <!-- PAGE ga=7 pdf_page=197 printed_page=195 printed_page_source=inferred -->
 >
 > In light of this discussion, we believe that an Ad-Interim Committee to study theonomy as the original resolution suggested should not be appointed. There are any number of interesting divergent views held in different areas of theology, all within the Reformed position. We do not believe it to be a wise use of the Assembly's time and money to appoint committees to study every issue which might be of particular interest. It is also our understanding that such questions would best come before the Assembly only as court of final appeal — that is, if presbyteries are unable to handle such questions on their own, or if a particular case before them has been appealed to the Assembly.
 >

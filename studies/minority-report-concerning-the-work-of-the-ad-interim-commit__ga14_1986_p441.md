@@ -19,7 +19,7 @@
 > The reader of the Majority Report will discover that it contains not the slightest attempt to justify the radical innovations in our church structure which that Report proposes. The majority's approach seems to have been to assume that there are major, generally recognized problems, so that all that was necessary was to come up with specific suggested solutions. Even the philosophical paper (Exhibit A to the Majority
 >
 > <a id="ga14-p442"></a>
-> <!-- PAGE ga=14 pdf_page=442 printed_page=null -->
+> <!-- PAGE ga=14 pdf_page=442 printed_page=440 printed_page_source=inferred -->
 >
 > Report) is unrelated to the specific proposals now presented. Such an approach is fundamentally flawed.
 >
@@ -38,7 +38,7 @@
 > The majority seeks through Exhibit A to address the relationship between the visible church and the secular courts in dealing with two kinds of questions: property disputes arising when a congregation leaves a denomination, and enforcement of decisions of higher church bodies on lower bodies. Each question will be considered separately below, but it bears noting from the outset that no specific problems have been
 >
 > <a id="ga14-p443"></a>
-> <!-- PAGE ga=14 pdf_page=443 printed_page=null -->
+> <!-- PAGE ga=14 pdf_page=443 printed_page=441 printed_page_source=inferred -->
 >
 > identified. Vague generalities about possible problems are an inadequate basis for deviating from the tested system we already possess.
 >
@@ -55,7 +55,7 @@
 > The majority attempts to resolve this problem, of potentially throwing the spiritual baby out along with the civil bathwater, by defining the "civil authority" to be surrendered in a seemingly restrictive way. They would use the term "civil authority" to mean only such authority as would require recourse to the civil laws and courts for its enforcement. That is not really helpful, because it comes down to saying that the higher
 >
 > <a id="ga14-p444"></a>
-> <!-- PAGE ga=14 pdf_page=444 printed_page=null -->
+> <!-- PAGE ga=14 pdf_page=444 printed_page=442 printed_page_source=inferred -->
 >
 > courts will not be allowed to do anything that has an impact in this world (i.e., where money, property, etc. may somehow be involved). The fallacy of the majority position can be seen in an illustration. Suppose that some of the elders of a church become estranged from the pastor, so they refuse to meet as a session. There being too few faithful elders to constitute a quorum, the session cannot exercise its authority. The church cannot function without a session, so the presbytery assumes original jurisdiction (as provided for by BCO 13-9), and sends in a commission to act for the nonfunctioning session. Thus, the higher court is acting for the lower court, without the consent of the lower court (because the lower court refuses even to act like a court, let alone request presbytery help), and virtually anything which the commission does has the potential (just as it does for a regular session) for winding up in a civil court. For example, the treasurer in our hypothetical troubled church also is opposed to the pastor, so he decides to get rid of the whole church bank account so that the pastor can't be paid. The only way the commission, which is acting for the session, can effectuate its directive that the pastor be paid, is to obtain an injunction against the treasurer in the civil courts, but there is no time to call a congregational meeting to obtain approval to do so. Under the majority's proposal, the commission would have to stand by and allow the church to be looted.
 >
@@ -70,7 +70,7 @@
 > There is no question that invoking civil authority should be an extremely rare thing, done as a last resort. Paul called it shameful that church members should sue one another. (I Cor. 6:1-7) Nonetheless,
 >
 > <a id="ga14-p445"></a>
-> <!-- PAGE ga=14 pdf_page=445 printed_page=null -->
+> <!-- PAGE ga=14 pdf_page=445 printed_page=443 printed_page_source=inferred -->
 >
 > this same Paul repeatedly stood on his civil rights and invoked the Roman legal system to protect himself and his ministry. (See Acts 16:36-39; 22:25-29; 25:10-11) Under the inspiration of God he teaches us that the civil power “is a minister of God to you for good.” (Romans 13:3-4) Surely it is neither wise nor safe to assume to be evil that which God calls good and has given as a benefit. To adopt the view proposed by Exhibit A—that our church courts must forswear any action which may require involvement of the civil authorities—creates a grave risk that we will trade the church’s birthright of undiminished ecclesiastical authority for a mess of pottage.
 >
@@ -95,7 +95,7 @@
 > 1. Equalizing the RE/TE ratio. While this concept has a certain superficial democratic appeal, we must ask what end is really to be served by mere equality of numbers. It cannot be implementation of the parity of the eldership, because we have emphatically declared that such parity is not a numerical concept. “[B]oth historically and by definition, the concept of parity does not refer to equality of numbers but rather
 >
 > <a id="ga14-p446"></a>
-> <!-- PAGE ga=14 pdf_page=446 printed_page=null -->
+> <!-- PAGE ga=14 pdf_page=446 printed_page=444 printed_page_source=inferred -->
 >
 > equality of condition, rank, and value..." (M7GA at 83, Item 3.) Thus, since all elders are equal, regardless
 > of function, any alternate present at a PCA committee meeting is allowed to fill any vacancy which may
@@ -169,7 +169,7 @@
 > elder participation, but this proposal might well be counterproductive in just those areas:
 >
 > <a id="ga14-p447"></a>
-> <!-- PAGE ga=14 pdf_page=447 printed_page=null -->
+> <!-- PAGE ga=14 pdf_page=447 printed_page=445 printed_page_source=inferred -->
 >
 > 1. In our highly mobile society, ruling elders move much more often than used to be so; indeed, many
 > churches effectively have “rotating” rather than continuous sessions, regardless of what their by-laws say,
@@ -240,7 +240,7 @@
 > this had occurred (though not the reason for it) was recognized by the PCUS itself in a report presented to
 >
 > <a id="ga14-p448"></a>
-> <!-- PAGE ga=14 pdf_page=448 printed_page=null -->
+> <!-- PAGE ga=14 pdf_page=448 printed_page=446 printed_page_source=inferred -->
 >
 > its 1970 General Assembly, which is reprinted in Dim Gold at 379-380. Return to real Presbyterianism has
 > naturally created some stresses, which occasionally result in judicial cases.
@@ -321,7 +321,7 @@
 > take another step toward bureaucratizing the church and divesting itself of real control over the affairs of
 >
 > <a id="ga14-p449"></a>
-> <!-- PAGE ga=14 pdf_page=449 printed_page=null -->
+> <!-- PAGE ga=14 pdf_page=449 printed_page=447 printed_page_source=inferred -->
 >
 > the denomination as a whole. While a theoretical right of review by the Assembly is retained, strong but subtle pressure is arranged for the Assembly to say, "Our Permanent Commission has reached a judgment, and they are honorable men, so there is no need for us to do the work over and examine the matter carefully." This would be a dereliction of its duty which would transform our General Assembly into the sort of rubber stamp group found in the PCUS and the UP Church, both of which also went down the primrose path of the Permanent Judicial Commission approach.
 >
@@ -340,7 +340,7 @@
 > Though the "screening committee" (under whatever name might be given to it) bears a slight resemblance to the Permanent Judicial Commission suggested by the majority, the proposals clearly are very different. The screening committee acts in aid of the Assembly, not instead of it. The screening committee's proposed decision not only is completely reviewable, but is seen in advance by every commissioner, along with the factual summary and the briefs of the parties, and can be debated in full. Every decision is fully the decision of the Assembly because the proposed decision can be amended or even rejected on the floor. Since the committee members would serve for a period of years and thereby see a number of cases, they would have the sort of continuity and expertise which would be expected in the suggested Permanent Judicial Commission
 >
 > <a id="ga14-p450"></a>
-> <!-- PAGE ga=14 pdf_page=450 printed_page=null -->
+> <!-- PAGE ga=14 pdf_page=450 printed_page=448 printed_page_source=inferred -->
 >
 > (and far greater than that which could be developed on a rarely-meeting regional commission.)
 >
@@ -359,7 +359,7 @@
 > George W. Knight III (except for recommendation #3)
 >
 > <a id="ga14-p451"></a>
-> <!-- PAGE ga=14 pdf_page=451 printed_page=null -->
+> <!-- PAGE ga=14 pdf_page=451 printed_page=449 printed_page_source=inferred -->
 
 ---
 

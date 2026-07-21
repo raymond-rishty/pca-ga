@@ -39,7 +39,7 @@
 > Issue "b" raises the question of the PCA Foundation functioning solely as a "passive" organization in receiving funds, or whether it has an "active" function in attracting funds for deferred giving purposes. Once again, the General Assembly clearly has given to the PCA Foundation the powers "to solicit" gifts, etc., as well as to "receive and accept". (M4GA, p. 198, Article IIa) (M8GA, p. 217, Article II-2.2a). The Committee sees the PCA Foundation as a "service", rather than a "fund-raising" organization. This is reflected in the General Assembly's decision to make it a sub-committee under the Stewardship Committee, emphasizing stewardship, rather than fund-raising. The concept of stewardship is expressed in the Manual, Article I. (M4GA, p.198). The method of operation is that of "informing" and "educating" and "assisting" its constituency. We believe that the term "solicit", as it applies to the PCA Foundation, should be limited to the concept of "service" to those who are deeply concerned that their estates and assets will continue to serve Christ and His
 >
 > <a id="ga09-p361"></a>
-> <!-- PAGE ga=9 pdf_page=361 printed_page=null -->
+> <!-- PAGE ga=9 pdf_page=361 printed_page=359 printed_page_source=inferred -->
 >
 > Kingdom in a plan of deferred giving. The PCA Foundation, as all committees of the General Assembly, has "direct access to all the churches of this denomination by direct mail" (M1GA, p. 45-46, Recommendation 5), with the approval of the permanent committee to which it is related. Solicitation, therefore, is the acquainting of the supporters of the PCA through publications, direct mail, seminars, and other appropriate means, of the opportunities of deferred giving. Through this process of interpretation it will attract a response from concerned individuals and organizations. Direct asking for funds is not part of our interpretation of the word "solicit". (See Recommendation 2)
 >
@@ -61,7 +61,7 @@
 > - **c.** The Seventh General Assembly further refined this Committee, listing the membership to represent each of the permanent committees with a ruling and teaching elder; and the coordinators of the permanent committees together with the Director of Stewardship Ministries to be advisory members of the Committee. Its work is now enlarged to (a) promote Biblical Stewardship at all levels of the
 >
 > <a id="ga09-p362"></a>
-> <!-- PAGE ga=9 pdf_page=362 printed_page=null -->
+> <!-- PAGE ga=9 pdf_page=362 printed_page=360 printed_page_source=inferred -->
 >
 > Church, and (b) have the responsibility of "developing for, recommending to, and implementing for the General Assembly approved causes." This is to be accomplished by dividing Committee budgets into "committed" and "growth" budgets with the Sub-Committee on Stewardship Ministries (as it is now named) developing a plan for "askings" of the congregations to raise the "committed" portion of the budget. The "growth" portion of the budget is to be raised by the permanent committee which proposes it. (M7GA, Appendix I, p. 257, "Advisory Committee Recommendations").
 >
@@ -82,7 +82,7 @@
 > Each congregation has the right to designate any or all of its gifts, "without equalization". (M1GA, pp. 51-52, 4). This right must faithfully be upheld. In its prayerful designation of its gifts, each congregation will welcome the guidelines that the General Assembly carefully has considered and established, by which the whole Church may support the One Mission of the Church.
 >
 > <a id="ga09-p363"></a>
-> <!-- PAGE ga=9 pdf_page=363 printed_page=null -->
+> <!-- PAGE ga=9 pdf_page=363 printed_page=361 printed_page_source=inferred -->
 >
 > The inter-related work of the Coordinating, Planning and Stewardship Committee must be understood clearly. The One Mission of the Church is to fulfill Christ's Great Commission of evangelism and christian nurture (Matthew 28:19-20). The local church is the source from which the gifted persons and the Kingdom funds are supplied. "Interpretation" of the One Mission of the Church is the key to getting the job done. "Interpretation" is defined as the process of informing the members of local churches of the One Mission of the Church, and encouraging them to understand and support it. When Christians understand, they will respond with their lives and with their resources. This is the task of the Session, the Presbytery and the General Assembly. As local congregations see the denomination working together for the One Mission of the Church, they increasingly will respond to meet the General Assembly goals and budget percentages as they designate their gifts for God's Glory.
 >
@@ -95,7 +95,7 @@
 > If the above administrative plan is to function properly, the authority for administration must be well-defined. It is the Committee's intent that both the Coordinating, Planning and Stewardship Committee, as well as the PCA Foundation, will come under the direction of the Committee on Administration for reporting and administrative functions. The PCA Foundation will report to the Committee on Administration through the Coordinating, Planning and Stewardship Committee. After review and evaluation by the Committee on Administration, both sub-committees will report directly to the General Assembly through their respective Committee of Commissioners. However, the functional work of the Coordinating, Planning and Stewardship Committee and the PCA Foundation will continue to be done through its own Committee or Board of Directors respectively.
 >
 > <a id="ga09-p364"></a>
-> <!-- PAGE ga=9 pdf_page=364 printed_page=null -->
+> <!-- PAGE ga=9 pdf_page=364 printed_page=362 printed_page_source=inferred -->
 >
 > The proposed administrative flow chart will be as follows:
 >
@@ -116,7 +116,7 @@
 > 3. Any short-fall will be attributed to Stewardship and PCA Foundation.
 >
 > <a id="ga09-p365"></a>
-> <!-- PAGE ga=9 pdf_page=365 printed_page=null -->
+> <!-- PAGE ga=9 pdf_page=365 printed_page=363 printed_page_source=inferred -->
 >
 > 4. The short-fall will be billed to the other three committees in equal amounts.
 > 5. The billing will take place each month.
@@ -148,7 +148,7 @@
 > 5. That the funding of the PCA Foundation and the Coordinating, Planning and Stewardship Committee be through the Committee on Administration; and that to forestall a financial crisis for that Committee, the following plan be adopted:
 >
 > <a id="ga09-p366"></a>
-> <!-- PAGE ga=9 pdf_page=366 printed_page=null -->
+> <!-- PAGE ga=9 pdf_page=366 printed_page=364 printed_page_source=inferred -->
 >
 > - **a.** all un designated General Assembly income be shared equally by a ll permanent committees in 1982, 1983 with 25? allotted to each committee .
 > - **b.** the other three permanent committees temporarily support the funding of the
@@ -169,7 +169,7 @@
 > budge t, the billing will not take place .
 >
 > <a id="ga09-p367"></a>
-> <!-- PAGE ga=9 pdf_page=367 printed_page=null -->
+> <!-- PAGE ga=9 pdf_page=367 printed_page=365 printed_page_source=inferred -->
 
 ---
 

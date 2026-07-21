@@ -49,7 +49,7 @@
 > Based on 2 Corinthians 6:14-18 and other Scriptures dealing with separation of believers from unbelievers, all RPC/ES members were advised to separate from any unholy alliance with oath-bound societies. The Publication Committee was to make available materials on this subject, ruling and teaching elders were to study the whole matter, ministers were to inform their congregations about such societies, and the matter was to come before the Synod as an appeal from lower judicatories.
 >
 > <a id="ga15-p467"></a>
-> <!-- PAGE ga=15 pdf_page=467 printed_page=null -->
+> <!-- PAGE ga=15 pdf_page=467 printed_page=465 printed_page_source=inferred -->
 >
 > b. The British Methodist Church
 >
@@ -84,7 +84,7 @@
 > Any individual can order books explaining the rituals in the lodge. Many are considered "authoritative." John Ankerberg (A Christian T.V. talk show host who deals primarily with cults) sent a letter to the Grand Masters of all of the 50 Grand Lodges in America. He asked the question: "As an
 >
 > <a id="ga15-p468"></a>
-> <!-- PAGE ga=15 pdf_page=468 printed_page=null -->
+> <!-- PAGE ga=15 pdf_page=468 printed_page=466 printed_page_source=inferred -->
 >
 > official Masonic leader, which books and authors do you recommend as being authoritative on the
 > subject of Freemasonry?"
@@ -145,7 +145,7 @@
 > foundation of all religions...Masonry is a worship, but one in which all civilized men can unite; for it
 >
 > <a id="ga15-p469"></a>
-> <!-- PAGE ga=15 pdf_page=469 printed_page=null -->
+> <!-- PAGE ga=15 pdf_page=469 printed_page=467 printed_page_source=inferred -->
 >
 > does not undertake to explain or dogmadcally to settle those great mysteries, that are above the feeble
 > comprehension of our human intellect (Pike, Morals and Dogma, pp. 161,526).
@@ -208,7 +208,7 @@
 > part of the system (Encyclopedia of Freemasonry, pp. 409,410)
 >
 > <a id="ga15-p470"></a>
-> <!-- PAGE ga=15 pdf_page=470 printed_page=null -->
+> <!-- PAGE ga=15 pdf_page=470 printed_page=468 printed_page_source=inferred -->
 >
 > Some Masons identify God with His creation. Masonic authority J.D. Buck has said, "God never manifested himself to be seen of men. Creation is his manifestation...The whole manifestation of nature is the uttered word of divinity." (Buck, *Mystic Masonry*, p.113).
 >
@@ -233,7 +233,7 @@
 > Either Jesus Christ is divine and the only means of salvation for mankind (John 14:6; Acts 4:12) or he is a liar and a fraud. One can never leave it to individual choice as to whether Jesus was more than a good moral teacher. In essence, Freemasonry says that Jesus' divinity and his death on the cross for redemption is up for grabs, depending on one's own inclinations. The Bible never relegates Jesus Christ and his atoning work as an option for one to choose. All other so called ways to God are false (John 10:1-3; 14:6). In the Blue Lodge (the first three degrees, the essence of Freemasonry) Jesus Christ is not mentioned in the ritual whatsoever. The Lordship of Christ is thereby denied.
 >
 > <a id="ga15-p471"></a>
-> <!-- PAGE ga=15 pdf_page=471 printed_page=null -->
+> <!-- PAGE ga=15 pdf_page=471 printed_page=469 printed_page_source=inferred -->
 >
 > In the fifth place, their statements are incompatible with Christianity because their concept of salvation is opposed to what the Bible teaches and our standards affirm.
 >
@@ -258,7 +258,7 @@
 > They propose that God is the spiritual Father of good men regardless of their religious faith. But in the Bible, spiritual brotherhood is restricted to those who confess Jesus Christ as Lord and Savior (Matt. 12:48,49; Phil. 2:25; Col. 1:1; Philemon 16; Rom. 8:29; Heb. 3:1; Jas. 2:1). It is unthinkable in the light
 >
 > <a id="ga15-p472"></a>
-> <!-- PAGE ga=15 pdf_page=472 printed_page=null -->
+> <!-- PAGE ga=15 pdf_page=472 printed_page=470 printed_page_source=inferred -->
 >
 > of Scripture, that a man of another religious faith is a spiritual brother with a Christian; however this is
 > what Freemasonry declares.
@@ -318,7 +318,7 @@
 > Phil W. Barrett, D.D.:
 >
 > <a id="ga15-p473"></a>
-> <!-- PAGE ga=15 pdf_page=473 printed_page=null -->
+> <!-- PAGE ga=15 pdf_page=473 printed_page=471 printed_page_source=inferred -->
 >
 > "As we took our degrees, we acknowledged that we put our trust in God. In all references to the deity, we
 > use the designation of God, or ‘Supreme Grand Master of the Universe’ or ‘Great Architect of the
@@ -380,7 +380,7 @@
 > instituted by God himself...all superstitious devices, corrupting the worship of God, adding to it, or taking
 >
 > <a id="ga15-p474"></a>
-> <!-- PAGE ga=15 pdf_page=474 printed_page=null -->
+> <!-- PAGE ga=15 pdf_page=474 printed_page=472 printed_page_source=inferred -->
 >
 > from it, whether invented and taken up of ourselves, or received by traditions from others, though under
 > the title of antiquity, custom, devotion, good intent, or any other pretense whatsoever..."
@@ -443,7 +443,7 @@
 > brother free Mason To all of which I solemnly and sincerely promise and swear to keep and perform
 >
 > <a id="ga15-p475"></a>
-> <!-- PAGE ga=15 pdf_page=475 printed_page=null -->
+> <!-- PAGE ga=15 pdf_page=475 printed_page=473 printed_page_source=inferred -->
 >
 > the same, without any equivocation, mental reservation or secret evasion of mind in me whatever,
 > binding myself under no less a penalty than that of having my throat cut from ear to ear, my tongue tom
@@ -508,7 +508,7 @@
 > discussion pro and con of the committee’s final recommendations.
 >
 > <a id="ga15-p476"></a>
-> <!-- PAGE ga=15 pdf_page=476 printed_page=null -->
+> <!-- PAGE ga=15 pdf_page=476 printed_page=474 printed_page_source=inferred -->
 >
 > The committee would further express its opinion that
 > the desire of some Christians to be members of Freemasonry is symptomatic of a deeper problem in the
@@ -531,7 +531,7 @@
 > TE Jack B. Scott, Chairman
 >
 > <a id="ga15-p477"></a>
-> <!-- PAGE ga=15 pdf_page=477 printed_page=null -->
+> <!-- PAGE ga=15 pdf_page=477 printed_page=475 printed_page_source=inferred -->
 >
 > REPORT OF AD INTERIM COMMITTEE
 > TO STUDY AND MAKE RECOMMENDATIONS AS TO
@@ -587,7 +587,7 @@
 > with the four Permanent Committees and the Office of the Stated Clerk. In this latter area, the
 >
 > <a id="ga15-p478"></a>
-> <!-- PAGE ga=15 pdf_page=478 printed_page=null -->
+> <!-- PAGE ga=15 pdf_page=478 printed_page=476 printed_page_source=inferred -->
 >
 > Committee has engaged in many discussions and has made real progress toward a recommendation.
 > Your committee has been greatly assisted by the suggestions and cooperation of the present
@@ -648,7 +648,7 @@
 > eligible church would choose its commissioners.
 >
 > <a id="ga15-p479"></a>
-> <!-- PAGE ga=15 pdf_page=479 printed_page=null -->
+> <!-- PAGE ga=15 pdf_page=479 printed_page=477 printed_page_source=inferred -->
 >
 > The Committee believes this is a fair, simple and workable procedure that will improve
 > representation and participation at General Assembly - all consistent with the historic presbyterian polity
@@ -711,7 +711,7 @@
 > matter try the case in the General Assembly as a whole.
 >
 > <a id="ga15-p480"></a>
-> <!-- PAGE ga=15 pdf_page=480 printed_page=null -->
+> <!-- PAGE ga=15 pdf_page=480 printed_page=478 printed_page_source=inferred -->
 >
 > Your Committee’s recommendation provides for RAO changes (if the BCO changes are approved) which would permit the Standing Judicial Commission to appoint a panel of not less than three of its members to hear the case. Such a panel shall be chosen from its members who are geographically nearest to the locus of the case. Such a panel shall propose to the Standing Judicial Commission a recommended decision. We believe this will enable a panel to hear the case quickly when it arises and while all the facts are fresh on the minds of the witnesses. We believe it will work for quicker and fairer judgment.
 >
@@ -740,7 +740,7 @@
 > 2. In our present BCO there is no provision for any other source for a nominee other than those submitted by the presbyteries. There is presently no provision for the Nominating Committee to generate its own nominees. The only exception is that commissioners to a General Assembly may submit nominees as provided in the present RAO. Your Ad Interim Committee unanimously recommends that in addition to presbyteries, Board of Trustees and Permanent Committees be permitted to submit nominees to the Nominating Committee for its consideration. We believe this is consistent with our stated philosophy to seek the best qualified men for the job. The majority proposal provides that any Permanent Committee and/or Board of Trustees may submit as many nominees as vacancies; and the minority suggests they be permitted to submit only 1/2 number of vacancies. The minority's argument is that to allow the Permanent Committee and/or Board to
 >
 > <a id="ga15-p481"></a>
-> <!-- PAGE ga=15 pdf_page=481 printed_page=null -->
+> <!-- PAGE ga=15 pdf_page=481 printed_page=479 printed_page_source=inferred -->
 >
 > submit a full slate of nominees would permit the Nominating Committee to nominate an entire slate
 > without any one man having been first considered by a presbytery. The majority points out 6
@@ -802,7 +802,7 @@
 > committee seeks to clarify by these proposed amendments.
 >
 > <a id="ga15-p482"></a>
-> <!-- PAGE ga=15 pdf_page=482 printed_page=null -->
+> <!-- PAGE ga=15 pdf_page=482 printed_page=480 printed_page_source=inferred -->
 >
 > Your Committee’s majority feels that the present BCO contains at least three fundamental propositions in this areas, all of which are related to this principle, viz:
 >
@@ -842,7 +842,7 @@
 > We need to now address the distinction between such "civil authority-power" and "ecclesiastical authority-power". Civil authority carries with it the power to require or force certain actions or to
 >
 > <a id="ga15-p483"></a>
-> <!-- PAGE ga=15 pdf_page=483 printed_page=null -->
+> <!-- PAGE ga=15 pdf_page=483 printed_page=481 printed_page_source=inferred -->
 >
 > restrain from certain actions. The civil court system has been established with an enforcement arm. This
 > is essential if we are to have an orderly society. The civil authorities who exercise this power are known
@@ -905,7 +905,7 @@
 > local church, the presbytery, and the General Assembly are separate civil entities with civil powers. To
 >
 > <a id="ga15-p484"></a>
-> <!-- PAGE ga=15 pdf_page=484 printed_page=null -->
+> <!-- PAGE ga=15 pdf_page=484 printed_page=482 printed_page_source=inferred -->
 >
 > exist as legal entities in our society, they must be civil entities that can each own its own property, have
 > its own employees, and perform all separate civil functions. Perhaps the chart below will show the
@@ -966,7 +966,7 @@
 > "Congregational Meetings". They do not exactly fit in this chapter. BCO 25-1 through 25-7 deal with
 >
 > <a id="ga15-p485"></a>
-> <!-- PAGE ga=15 pdf_page=485 printed_page=null -->
+> <!-- PAGE ga=15 pdf_page=485 printed_page=483 printed_page_source=inferred -->
 >
 > such congregational meetings. BCO 25-8 through 25-12 deal with this property principle. In BCO 25-
 > 11, the language refers to "matters referred in this Chapter 25". In fact, it would be more accurate to say
@@ -1029,7 +1029,7 @@
 > 14th General Assembly. BCO 34-1 provides that process against a ministers hall be entered before the
 >
 > <a id="ga15-p486"></a>
-> <!-- PAGE ga=15 pdf_page=486 printed_page=null -->
+> <!-- PAGE ga=15 pdf_page=486 printed_page=484 printed_page_source=inferred -->
 >
 > presbytery of which he is a member; and if such presbytery refuses to act in doctrinal cases or in
 > instances of public scandal and other presbyteries request the Assembly to assume original jurisdiction,
@@ -1090,7 +1090,7 @@
 > (Representative Assembly).
 >
 > <a id="ga15-p487"></a>
-> <!-- PAGE ga=15 pdf_page=487 printed_page=null -->
+> <!-- PAGE ga=15 pdf_page=487 printed_page=485 printed_page_source=inferred -->
 >
 > 2. That the General Assembly approve and send to the Presbyteries for action the proposed
 > amendment to the Book of Church Order chapter 15 as set out in Exhibit "B" to this report (Judicial
@@ -1143,7 +1143,7 @@
 > by W. Jack Williamson, Chairman
 >
 > <a id="ga15-p488"></a>
-> <!-- PAGE ga=15 pdf_page=488 printed_page=null -->
+> <!-- PAGE ga=15 pdf_page=488 printed_page=486 printed_page_source=inferred -->
 >
 > EXHIBIT "A "
 >
@@ -1190,7 +1190,7 @@
 > - **c.** Any church which is eligible to send a Ruling Elder Commissioner and fails to do so shall be moved to the bottom of the roster; except if a church is entitled to send more than one ruling elder but cannot send its full quota because of its presbytery’s allotment limitation, it would be eligible in the succeeding year to complete that quota.
 >
 > <a id="ga15-p489"></a>
-> <!-- PAGE ga=15 pdf_page=489 printed_page=null -->
+> <!-- PAGE ga=15 pdf_page=489 printed_page=487 printed_page_source=inferred -->
 >
 > d. a newly organized church ora church being received from outside the PCA would start
 > at the bottom of the roster in the presbytery.
@@ -1246,7 +1246,7 @@
 > divided into four classes of two members each serving four year terms. Each class
 >
 > <a id="ga15-p490"></a>
-> <!-- PAGE ga=15 pdf_page=490 printed_page=null -->
+> <!-- PAGE ga=15 pdf_page=490 printed_page=488 printed_page_source=inferred -->
 >
 > shall be composed of one teaching elder an done ruling Elder.
 > The Committee on Constitutional Business shall, during the General Assembly
@@ -1308,7 +1308,7 @@
 > position for the nominee by stating the persons against whom the nominee is nominated. The
 >
 > <a id="ga15-p491"></a>
-> <!-- PAGE ga=15 pdf_page=491 printed_page=null -->
+> <!-- PAGE ga=15 pdf_page=491 printed_page=489 printed_page_source=inferred -->
 >
 > deadline for such nominations is the close of the afternoon session on the second day of the
 > Assembly. The Stated Clerk’s office shall issue a supplement to the Assembly’s Nominating
@@ -1321,7 +1321,7 @@
 > Clerk’s office. There may be no speech on behalf of any nominee.
 >
 > <a id="ga15-p492"></a>
-> <!-- PAGE ga=15 pdf_page=492 printed_page=null -->
+> <!-- PAGE ga=15 pdf_page=492 printed_page=490 printed_page_source=inferred -->
 >
 > # Minority Report*
 >
@@ -1344,7 +1344,7 @@
 > *This Minority Report was prepared when only the language and not the precise format of the Committee Report was known. It therefore has not been possible to key the Minority comments to particular pages or sections of the Committee Report. Moreover, the Committee is presenting such a large number of proposals, on so many different subjects, with such varying degrees of agreement by the Minority, that greater clarity demanded preparation of several Minority Reports, one for each major issue raised by the Committee. Therefore, four Minority Reports follow, each accompanied by its own specific recommendations.*
 >
 > <a id="ga15-p493"></a>
-> <!-- PAGE ga=15 pdf_page=493 printed_page=null -->
+> <!-- PAGE ga=15 pdf_page=493 printed_page=491 printed_page_source=inferred -->
 >
 > On the one hand, it was claimed, there is power "from the top down'', which is labeled "hierarchical" and
 > "prelatical". On the other hand, there is power "from the bottom up", which is labeled "grass roots" and
@@ -1406,7 +1406,7 @@
 > body as they faithfully declare the Word of God (compare for this principle 2 Cor. 2:9 and 7:12).
 >
 > <a id="ga15-p494"></a>
-> <!-- PAGE ga=15 pdf_page=494 printed_page=null -->
+> <!-- PAGE ga=15 pdf_page=494 printed_page=492 printed_page_source=inferred -->
 >
 > Jesus said that when two or three are gathered in His name, He is there present, and that their
 > bindings and loosing reflect what is occurring in Heaven. (Matt. 18:18-20.) Thus, we have God-given
@@ -1469,7 +1469,7 @@
 > which the Session as it exists is disqualified by the relations of its members to the
 >
 > <a id="ga15-p495"></a>
-> <!-- PAGE ga=15 pdf_page=495 printed_page=null -->
+> <!-- PAGE ga=15 pdf_page=495 printed_page=493 printed_page_source=inferred -->
 >
 > matter. Of its own ability the Session must judge, and of the need of assuming jurisdiction the Presbytery must judge.*** If the Session undertakes that for which it is not competent, the Presbytery does not have to wait for the Session to refer the question of its inability to the Presbytery, nor for some one to complain against the Session as unable; but the Presbytery may act upon its own information, and assume the functions of the Session at its discretion, whenever the Presbytery judges the Session to unable. This action of the Presbytery, as every other of its actions, is subject to review by the higher courts.*** In all cases where there is no Session, the Presbytery is the Session." (F.P. Ramsay, An Exposition of the Form of Government and the Rules of Discipline of the Presbyterian Church in the United States. Richmond, VA: The Presbyterian Committee of Publication, 1898, pp. 97-98 [emphasis added].)
 >
@@ -1490,7 +1490,7 @@
 > Tempting though such a characterization may be, however, the temptation must be resisted. It is quite clear that for American presbyterians, at least, the debate has been settled for some time, a clear consensus of our forefathers having affirmed the so-called "democratic" position (though this is a misnomer). The language of our Book of Church Order on this subject is over 100 years old: "The power which Christ has committed to His Church vests in the whole body, the rulers and the ruled, constituting it a spiritual commonwealth." (3-1. Emphasis added.) The comments of Ramsay are enlightening:
 >
 > <a id="ga15-p496"></a>
-> <!-- PAGE ga=15 pdf_page=496 printed_page=null -->
+> <!-- PAGE ga=15 pdf_page=496 printed_page=494 printed_page_source=inferred -->
 >
 > The Statement that Christ has committed power to his Church must not be pressed to
 > contradict [Christ’s sole authority]...; but neither must it be weakened down to the
@@ -1552,7 +1552,7 @@
 > right to rule and administer power lies with elders acting in presbyterial assemblies. These assemblies
 >
 > <a id="ga15-p497"></a>
-> <!-- PAGE ga=15 pdf_page=497 printed_page=null -->
+> <!-- PAGE ga=15 pdf_page=497 printed_page=495 printed_page_source=inferred -->
 >
 > (the session, the presbytery and the General Assembly), each inherently possessing all the rights and
 > powers belonging to the government of the church as conferred direcdy by Christ, are nevertheless
@@ -1615,7 +1615,7 @@
 > ambiguous reladonship between Session and Trustees. In a lengthy paper supporting the concepts
 >
 > <a id="ga15-p498"></a>
-> <!-- PAGE ga=15 pdf_page=498 printed_page=null -->
+> <!-- PAGE ga=15 pdf_page=498 printed_page=496 printed_page_source=inferred -->
 >
 > behind the proposed amendments ("The Powers and Jurisdiction of the Church Courts in the Presbyterian Church in America") Committee member Robert C. Cannada commented on the situation where civil and
 > ecclesiastical authority are divided in local congregations, by giving trustees power over property instead
@@ -1675,7 +1675,7 @@
 > accordance with the BCO. (Art. III.) The corporate committees are the church committees, chosen in
 >
 > <a id="ga15-p499"></a>
-> <!-- PAGE ga=15 pdf_page=499 printed_page=null -->
+> <!-- PAGE ga=15 pdf_page=499 printed_page=497 printed_page_source=inferred -->
 >
 > accordance with the BCO. (Art. FV.) If it is necessary for an Assembly agency to incorporate "for the
 > handling of civil matters," the agency remains a committee of the Assembly and its corporate charter
@@ -1737,7 +1737,7 @@
 > case, where the presbytery had to act in response to a session’s refusal to do so. Here the Committee’s
 >
 > <a id="ga15-p500"></a>
-> <!-- PAGE ga=15 pdf_page=500 printed_page=null -->
+> <!-- PAGE ga=15 pdf_page=500 printed_page=498 printed_page_source=inferred -->
 >
 > views are most clearly evidenced: they would allow the session to appeal to civil authorities to enforce
 > the civil implications of their ecclesiastical acdons, but they refuse to allow the same right to presbytery
@@ -1800,7 +1800,7 @@
 > Chapter 13, "The Presbytery"
 >
 > <a id="ga15-p501"></a>
-> <!-- PAGE ga=15 pdf_page=501 printed_page=null -->
+> <!-- PAGE ga=15 pdf_page=501 printed_page=499 printed_page_source=inferred -->
 >
 > revises 13-9, may not call upon civil power with regard to session
 > adds B., civil power as in civil laws
@@ -1863,7 +1863,7 @@
 > TE George W. Knight III
 >
 > <a id="ga15-p502"></a>
-> <!-- PAGE ga=15 pdf_page=502 printed_page=null -->
+> <!-- PAGE ga=15 pdf_page=502 printed_page=500 printed_page_source=inferred -->
 >
 > Appendix:
 > "But hasn’t the Assembly already decided this issue?”
@@ -1919,7 +1919,7 @@
 > adopted last year.
 >
 > <a id="ga15-p503"></a>
-> <!-- PAGE ga=15 pdf_page=503 printed_page=null -->
+> <!-- PAGE ga=15 pdf_page=503 printed_page=501 printed_page_source=inferred -->
 >
 > Minority Report Concerning Judicial Procedures
 > Ad Interim Committee on the General Assembly
@@ -1961,7 +1961,7 @@
 > TE George W. Knight III
 >
 > <a id="ga15-p504"></a>
-> <!-- PAGE ga=15 pdf_page=504 printed_page=null -->
+> <!-- PAGE ga=15 pdf_page=504 printed_page=502 printed_page_source=inferred -->
 >
 > minority report concerning nominating procedure
 > A d-Interim committee on the General Assembly
@@ -2024,7 +2024,7 @@
 > not meant to charge the conscious formation of any corrupt "ring-power". The
 >
 > <a id="ga15-p505"></a>
-> <!-- PAGE ga=15 pdf_page=505 printed_page=null -->
+> <!-- PAGE ga=15 pdf_page=505 printed_page=503 printed_page_source=inferred -->
 >
 > honorable disclaimers of secretaries and committeemen are fully allowed, when they
 > declare that they have made no overt compact to defend each other. Doubtless this is
@@ -2087,7 +2087,7 @@
 > multiple Committees or Agency Boards, be adopted.
 >
 > <a id="ga15-p506"></a>
-> <!-- PAGE ga=15 pdf_page=506 printed_page=null -->
+> <!-- PAGE ga=15 pdf_page=506 printed_page=504 printed_page_source=inferred -->
 >
 > 12. That the proposed amendment to RAO 13-5, which deals with floor nominations, be modified, by
 > deleting the phrase "and designating each by the letter (F)", and that the paragraph so modified be
@@ -2148,7 +2148,7 @@
 > effectively preclude many ruling elders from ever attending an assem bly-by the time they wait several
 >
 > <a id="ga15-p507"></a>
-> <!-- PAGE ga=15 pdf_page=507 printed_page=null -->
+> <!-- PAGE ga=15 pdf_page=507 printed_page=505 printed_page_source=inferred -->
 >
 > years for their turn to go, they will have moved, and even if placed immediately on the session of their
 > new church, will almost certainly beat the bottom of the list of potential attendees, doomed to wait some
@@ -2185,7 +2185,7 @@
 > RE Bruce M. Ferg
 >
 > <a id="ga15-p508"></a>
-> <!-- PAGE ga=15 pdf_page=508 printed_page=null -->
+> <!-- PAGE ga=15 pdf_page=508 printed_page=506 printed_page_source=inferred -->
 
 ---
 
