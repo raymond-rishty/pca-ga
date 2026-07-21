@@ -2,8 +2,6 @@
 
 *91 threaded exception(s) of substance across GA20–52 (1992–2025). Each row links to the full exception with its year-by-year text.*
 
-> **⚖️ Related Standing Judicial Commission case(s) (BCO 40-5):**  [Session of Harvestwood PCA vs. New River Presbytery (Co (1997-13)](../cases/ga26_1998__1997-13.md)
-
 | First raised | Provision(s) | Exception | Lifecycle | Final disposition |
 |---|---|---|---|---|
 | 20th (1992) |  | [Page 2, 53-1-4 / / . The minutes of a session's executive session were read in open court, which is impermissi…](exc/new-river__001.md) | raised (20th) | raised (open) |
