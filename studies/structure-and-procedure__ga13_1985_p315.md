@@ -53,7 +53,7 @@
 > Before any structure can be built, a foundation must be laid. Your Committee feels that the Church must first reach a consensus as to this foundation — we must first have a concept of what we are trying to build. Your Committee spent a great amount of its time discussing this concept and came to a unanimous agreement. William S. Barker has written a superb paper outlining this Committee’s position. It will be distributed to you for your study and comment. This Committee hopes to bring a final recommendation in this area for your action at the 14th General Assembly. In this respect, we will only highlight our thinking. We begin with the premise that our form of government must be that outlined in Scripture. We subscribe to the statement in our Book of Church Order that “The Scriptural form of Church government is representative or presbyterian . . .” (BCO 1-1). We believe that government by presbyters is Biblical, and we would insist that Scriptural principles be the basis of our structure. We have thoroughly studied the application of these principles in the history of the
 >
 > <a id="ga13-p316"></a>
-> <!-- PAGE ga=13 pdf_page=316 printed_page=null -->
+> <!-- PAGE ga=13 pdf_page=316 printed_page=314 printed_page_source=inferred -->
 >
 > Christian Church. We find variances in their application at different times, in different cultures, and by different christian thinkers. We feel that the Presbyterian Church in America should consider these historical applications but should not be ultimately bound by tradition but only by Biblical principles. Following a survey of Scriptural principles and historical examples, we listed these important Biblical concepts as our basis:
 >
@@ -92,7 +92,7 @@
 > The courts of the PCA have a spiritual/moral relationship with one another with regard to their separate responsibilities, authority, and accountability but they have no civil authority, responsibility, or accountability toward one another even though each of them does have a civil relationship with the state with regard to its property, charters of incorporation, or the state and/or federal laws. The higher courts may not proceed in such a way that would constitute civil action on behalf of a congregation without the formal vote of the congregation.
 >
 > <a id="ga13-p317"></a>
-> <!-- PAGE ga=13 pdf_page=317 printed_page=null -->
+> <!-- PAGE ga=13 pdf_page=317 printed_page=315 printed_page_source=inferred -->
 >
 > In order to be effective, any such civil action must be with the consent or approval of the congregation, which consent or approval is given in accordance with the civil laws under which the congregation is organized.¹
 >
@@ -119,7 +119,7 @@
 > If a higher court has authority to enforce compliance by the lower court by taking over and acting for the lower court, then a civil court has authority to enforce this compliance. For instance, if a presbytery can dissolve a local session and substitute a presbytery commission for that session, without the request and consent of the local congregation, then you have a civilly enforceable action. We want PCA to avoid civil courts. We believe the only civil authority should be to enforce a dismissal from the fellowship in the event all ecclesiastical efforts of discipline, moral or spiritual, failed. This has been the major problem with the development of Presbyterianism in the United States. The U.S. Supreme Court has found, in every presbyterian case before it, that the presbyterian denominations were “hierarchical”. Thus the civil courts have forced compliance by local congregation with the higher church court’s orders and taken the property of the local congregation if they refused to comply. We believe the Biblical model is one of voluntary association by mutual consent and the ultimate censure is the breaking of fellowship. Such will avoid civil court involvement.
 >
 > <a id="ga13-p318"></a>
-> <!-- PAGE ga=13 pdf_page=318 printed_page=null -->
+> <!-- PAGE ga=13 pdf_page=318 printed_page=316 printed_page_source=inferred -->
 >
 > Regional Judicial Commissions would be appointed by the Permanent Commission from a pool of teaching elders and ruling elders from nearby presbyteries. Presbyteries would be responsible to elect four elders (two teaching &amp; two ruling) to be available for service on Regional Commissions as needed. It stands to reason that men who are elected to the Permanent Judicial Commission or Regional Commissions should be men of integrity, knowledgeable in due process, and sensitive to the breadth of understanding in the church as a whole.
 >
@@ -161,7 +161,7 @@
 > The appointment of the number of commissioners to each presbytery is a simple process. At each General Assembly, the Stated Clerk would allot to each presbytery its number of commissioners for the next General Assembly. Let us illustrate: Suppose the total of eligible commissioners was 2500, and suppose Presbytery
 >
 > <a id="ga13-p319"></a>
-> <!-- PAGE ga=13 pdf_page=319 printed_page=null -->
+> <!-- PAGE ga=13 pdf_page=319 printed_page=317 printed_page_source=inferred -->
 >
 > "A" had a total of 250 eligible commissioners, then Presbytery "A's" allotment would be 1/10th (2500 divided by 250) x 800 or 80 commissioners.
 >
@@ -192,7 +192,7 @@
 > (b) General Assembly Nominating Committee — the GANC shall be made up of the seven most recently elected moderators who are capable of serving, any five of whom shall constitute a quorum. The Stated Clerk shall serve as the secretary for the committee but shall have no vote. All presbytery nominees (with copies of biographical data) shall be sent by the secretary to the respective Permanent Committees and
 >
 > <a id="ga13-p320"></a>
-> <!-- PAGE ga=13 pdf_page=320 printed_page=null -->
+> <!-- PAGE ga=13 pdf_page=320 printed_page=318 printed_page_source=inferred -->
 >
 > Agencies (not Special Committees) by November 15. Personal Committees and Agencies shall have their
 > recommendations to the Stated Clerk by February |. (See paragraph (c) for details.) The GANC shall meet
@@ -277,7 +277,7 @@
 > favorably, to wit:
 >
 > <a id="ga13-p321"></a>
-> <!-- PAGE ga=13 pdf_page=321 printed_page=null -->
+> <!-- PAGE ga=13 pdf_page=321 printed_page=319 printed_page_source=inferred -->
 >
 > ## BCO REVISION
 >
@@ -312,7 +312,7 @@
 > General Assembly would provide an expediter/secretary for each Committee of Commissioners. He would not have a vote nor a voice on the issues. His task would be to expedite Committee business and draft the
 >
 > <a id="ga13-p322"></a>
-> <!-- PAGE ga=13 pdf_page=322 printed_page=null -->
+> <!-- PAGE ga=13 pdf_page=322 printed_page=320 printed_page_source=inferred -->
 >
 > Committee report. His expenses to GA would be paid by the Assembly (many of these would be Stated Clerks of the presbyteries who have such experience).
 >
@@ -346,7 +346,7 @@
 > 1. That the Ad-Interim Committee be continued for an additional year to report to the 14th General Assembly.
 >
 > <a id="ga13-p323"></a>
-> <!-- PAGE ga=13 pdf_page=323 printed_page=null -->
+> <!-- PAGE ga=13 pdf_page=323 printed_page=321 printed_page_source=inferred -->
 >
 > 2. That the General Assembly approve and send to the Presbyteries for action the proposed amendments to Book of Church Order Chapter 15 attached in Exhibit “A” to this report.
 > 3. That the General Assembly approve and send to the Presbyteries for action the proposed amendment to Book of Church Order Section 14-2 as set out in Exhibit “B” of this report.

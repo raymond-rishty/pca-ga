@@ -46,6 +46,7 @@ MINUTES = os.path.join(ROOT, "minutes")
 PAGE_JSONL = os.path.join(ROOT, "build", "page_jsonl")
 MARKDOWN = os.path.join(ROOT, "markdown")
 MANIFEST = os.path.join(ROOT, "build", "source_manifest.csv")
+PAGINATION_RUNS = os.path.join(ROOT, "index", "pagination_runs.json")
 
 sys.path.insert(0, HERE)
 normalize = importlib.import_module("normalize")
@@ -192,6 +193,31 @@ def parse_printed_page(raw_text: str, pdf_page: int, page_count: int):
             if val and val <= pdf_page + 3 and val <= 40:
                 return m.group(1).lower()
     return None
+
+
+def load_pagination_runs():
+    """Load approved scanned-volume folio runs, keyed by GA ordinal.
+
+    The early embedded OCR sometimes mistakes an ordinary number near a page edge
+    for a folio.  The compact map is visual-scan verified and is applied at render
+    time so re-rendering a volume cannot silently discard its pagination repair.
+    """
+    if not os.path.exists(PAGINATION_RUNS):
+        return {}
+    data = json.load(open(PAGINATION_RUNS, encoding="utf-8"))
+    if data.get("schema_version") != 1:
+        raise ValueError(f"unsupported pagination-map schema: {data.get('schema_version')!r}")
+    return {int(v["ga"]): v.get("runs", []) for v in data.get("volumes", [])}
+
+
+def mapped_printed_page(runs, pdf_page: int):
+    """Return (printed_folio, provenance) for an approved run or (None, None)."""
+    for run in runs:
+        if int(run["pdf_start"]) <= pdf_page <= int(run["pdf_end"]):
+            if run.get("numbering") != "arabic":
+                return None, None
+            return str(pdf_page - int(run["offset"])), "inferred"
+    return None, None
 
 
 # --------------------------------------------------------------------------- GA-item tokens
@@ -519,6 +545,8 @@ def render(vol_id: str, manifest_by_file: dict, force: bool = False):
         return out_path, False
 
     page_count = len(rows)
+    approved_runs = load_pagination_runs()
+    is_mapped_volume = ordn in approved_runs
     fm = []
     fm.append("---")
     fm.append("doc_type: ga_minutes")
@@ -547,11 +575,17 @@ def render(vol_id: str, manifest_by_file: dict, force: bool = False):
     body = []
     for r in rows:
         printed = r.get("printed_page")
+        source = None
+        if is_mapped_volume:
+            # Map entries override legacy edge OCR; outside an approved run the
+            # renderer deliberately emits the explicit PDF-page fallback.
+            printed, source = mapped_printed_page(approved_runs[ordn], r["pdf_page"])
         anchor_id = f"ga{ordn:02d}-p{printed if printed not in (None, '') else r['pdf_page']}"
         body.append(f'<a id="{anchor_id}"></a>')
+        source_attr = f" printed_page_source={source}" if source else ""
         body.append(
             f"<!-- PAGE ga={ordn} pdf_page={r['pdf_page']} "
-            f"printed_page={printed if printed is not None else 'null'} -->"
+            f"printed_page={printed if printed is not None else 'null'}{source_attr} -->"
         )
         body.append("")
         if r["text"]:

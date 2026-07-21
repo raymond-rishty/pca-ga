@@ -45,7 +45,7 @@
 > Within the context of these generally agreed upon criteria for the validity of baptism we again raise the central question: Is regeneration to be added to our criteria as necessary for any baptism to be valid or real baptism? Must the “thing signified” (WC 27:2), “an inward and spiritual grace” (LC 163), which is only known to the heart-searching God, be known to be present by the recipient or the church before alleged baptism is really baptism? When the state of the question is thus formulated, it will not surprise us to find our
 >
 > <a id="ga13-p350"></a>
-> <!-- PAGE ga=13 pdf_page=350 printed_page=null -->
+> <!-- PAGE ga=13 pdf_page=350 printed_page=348 printed_page_source=inferred -->
 >
 > Westminster Standards maintaining a careful distinction between the sign — a valid sign — and the thing signified.
 >
@@ -74,7 +74,7 @@
 > One of these is I Corinthians 10:2-5. Referring to the children of Israel who departed Egypt, Paul writes: “All were baptized into Moses in the cloud and in the sea . . . Nevertheless, with most of them God was not well-pleased; for they were laid low in the wilderness.” Paul’s purpose is to dissuade us from a false security of salvation because of our privileges. We may receive the sacrament without receiving the thing signified. Baptism into Moses here alludes to “typical” baptism. They owned the obligations of Moses’ law and
 >
 > <a id="ga13-p351"></a>
-> <!-- PAGE ga=13 pdf_page=351 printed_page=null -->
+> <!-- PAGE ga=13 pdf_page=351 printed_page=349 printed_page_source=inferred -->
 >
 > covenant even as we are by baptism under the Christian law and covenant. One might have thought such privileges would save them and make them holy and acceptable to God. “Nevertheless, with most of them God was not well-pleased.” Men may enjoy great spiritual privileges and yet fall short of eternal life. As these ancient Israelites were “baptized” but never saw the promised land, so many Israelites (i.e. visible church members) today are baptized who will not see the promised land. They have the sign, but they are without the thing signified.
 >
@@ -95,7 +95,7 @@
 > Whereas God alone determines the efficacy (inward, spiritual grace) signified by the outward signs, it is the Church itself which must ministerially determine the validity of baptisms on the basis of proper objective criteria. The sacraments were given to the visible church of Jesus Christ. The church thus extends or withholds the sacraments in its declaratory and ministerial capacity as the God-appointed pillar and foundation of God’s truth (I Tim. 3:5). The church ministerially declares administration of the sacraments to be valid (or invalid) on
 >
 > <a id="ga13-p352"></a>
-> <!-- PAGE ga=13 pdf_page=352 printed_page=null -->
+> <!-- PAGE ga=13 pdf_page=352 printed_page=350 printed_page_source=inferred -->
 >
 > the basis of the presence (or absence) of outward, discernible elements which constitute the criteria for validity. It is not therefore, the prerogative or individual recipients of the sacrament to declare a baptism to be valid or invalid. Neither may the church declare a baptism to be no true baptism on the basis of what only God can see — regeneration.
 >
@@ -121,7 +121,7 @@
 > John G. Thompson
 >
 > <a id="ga13-p353"></a>
-> <!-- PAGE ga=13 pdf_page=353 printed_page=null -->
+> <!-- PAGE ga=13 pdf_page=353 printed_page=351 printed_page_source=inferred -->
 
 ---
 

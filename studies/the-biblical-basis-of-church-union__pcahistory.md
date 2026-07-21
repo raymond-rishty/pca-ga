@@ -57,7 +57,7 @@ This unity is brought to pass by the work of the Holy Spirit in uniting sinners 
 new birth is the work of the Spirit as He effectually calls men out of darkness into the marvelous
 
 <a id="ga06-p85"></a>
-<!-- PAGE ga=6 pdf_page=85 printed_page=null -->
+<!-- PAGE ga=6 pdf_page=85 printed_page=83 printed_page_source=inferred -->
 
 light of the Son of God (John 3:1-1 7; Ezekiel 36:25-28; Jeremiah 31:31 -34; I Corinthians 12:13;
 Romans 8:30). This work whereby sinners are called into union with the Son of God produces life
@@ -129,7 +129,7 @@ The second criterion of the true unity of the body then, will manifest itself in
 of the blessed fruits of the Protestant Reformation is the profusion of confessions. Those who had
 
 <a id="ga06-p86"></a>
-<!-- PAGE ga=6 pdf_page=86 printed_page=null -->
+<!-- PAGE ga=6 pdf_page=86 printed_page=84 printed_page_source=inferred -->
 
 come to understand the truth of the gospel wanted the world to understand what the Bible had to
 say. To that end they formulated concise statements of what they believed the Bible taught. Do we
@@ -195,7 +195,7 @@ C. Audit Report
 D. Overtures
 
 <a id="ga06-p87"></a>
-<!-- PAGE ga=6 pdf_page=87 printed_page=null -->
+<!-- PAGE ga=6 pdf_page=87 printed_page=85 printed_page_source=inferred -->
 
 1. Overture 20 from Covenant Presbytery
 2. Overture 21 from Covenant Presbytery
@@ -264,7 +264,7 @@ these in extraordinary need: the poor, the orphan, the widow, both within the
 church and in the world around them. Adopted.
 
 <a id="ga06-p88"></a>
-<!-- PAGE ga=6 pdf_page=88 printed_page=null -->
+<!-- PAGE ga=6 pdf_page=88 printed_page=86 printed_page_source=inferred -->
 
 - **d.** That the CE/P Committee emphasize the need for communication between local churches, presbyteries, and at the Assembly level regarding needs, resources, and activities in the area of diaconal concerns. Adopted.
 - **e.** That the CE/P Committee appoint two delegates to the NAPARC Conference on diaconal ministries to be held in October. 1978 in Chattanooga, Tennessee.

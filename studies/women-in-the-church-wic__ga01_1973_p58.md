@@ -67,7 +67,7 @@
 > 27. That The Circle Bible Study Booklets on Philippians and 1st Peter prepared by the subcommittee on Christian Education be recommended for use to the Women in the Church.
 >
 > <a id="ga01-p59"></a>
-> <!-- PAGE ga=1 pdf_page=59 printed_page=null -->
+> <!-- PAGE ga=1 pdf_page=59 printed_page=59 printed_page_source=inferred -->
 >
 > 28.That the following bibliography of suggested training materials used by other Reformed
 > Denominations in leadership training be published for study and possible adaptation by in

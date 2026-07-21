@@ -33,7 +33,7 @@
 > As this historical survey has indicated, the question of the non-validity of baptism has often become the question of the validity or non-validity of Roman Catholic baptism. In the question posed by the presbytery this is the group first named and this group was mentioned on the assembly floor as that which presents to our
 >
 > <a id="ga11-p305"></a>
-> <!-- PAGE ga=11 pdf_page=305 printed_page=null -->
+> <!-- PAGE ga=11 pdf_page=305 printed_page=303 printed_page_source=inferred -->
 >
 > churches at home and abroad through the conversions of previous members the most pressing pastoral concern. These historical and pastoral concerns, coupled with the unique historical and theological perspective that this church presents, convinced the Committee that its study should focus on the baptism of this group as a test case without presuming to restrict its study or the principles discovered to this group.
 >
@@ -50,7 +50,7 @@
 > As one step forward to this necessary larger perspective, one can see further the inadequacy and error of this three-element approach by comparing it with our confessional evaluation of the other sacrament, the Lord’s Supper, as it is administered in the Roman Catholic Church as the mass. Here also one can devise a formal and external description of the elements necessary for a valid Lord’s Supper which is properly analogous to that given for a valid baptism, i.e., the prescribed material, bread and wine, the prescribed formula, the words of institution, and the intent, “with the ostensible professed design to comply with the command of Christ” (Minutes, RPCES, 1981, p. 45). But notice, in spite of the fact that these three analogous elements are present, our confessional standard adjudge the Roman Catholic observance of the Lord’s Supper, the mass, to be invalid. The Westminster Confession of Faith (xxix, 2) says “that the Papist sacrifice of the mass (as they call it) is most abominably injurious to Christ’s one, only sacrifice, . . .” The Confession (xxix, 6) goes on to say that the doctrine of the mass “overthrowneth the nature of the sacrament, and hath been, and is the cause of manifold superstitions, yea, of gross idolatries” (underlining added).
 >
 > <a id="ga11-p306"></a>
-> <!-- PAGE ga=11 pdf_page=306 printed_page=null -->
+> <!-- PAGE ga=11 pdf_page=306 printed_page=304 printed_page_source=inferred -->
 >
 > With this question of doctrine we have come to a larger aspect of the question. It is not only the doctrine of the
 > sacrament itself that is in view, but also the question of the doctrine concerning the church as one faithful or
@@ -125,7 +125,7 @@
 > rite they call baptism, is not, in any sense, to be regarded as valid Christian baptism. '’ In making this appraisal,
 >
 > <a id="ga11-p307"></a>
-> <!-- PAGE ga=11 pdf_page=307 printed_page=null -->
+> <!-- PAGE ga=11 pdf_page=307 printed_page=305 printed_page_source=inferred -->
 >
 > the Committee reminded the Assembly that as long ago as 1790 the Assembly had made the correlation between true church and true ordinances with the correlative of a false church and invalid ordinances. Although Hodge vigorously challenged this appraisal of the Roman Catholic Church by the General Assemblies of 1835 and 1845, and insisting that even Rome's doctrine of salvation manifested that it was a church of Christ, the General Assembly held to its evaluation of 1845, and in the reaffirmation of 1879. The Southern Assembly of 1871 took the same position in regard to the Roman Catholic Church as these other assemblies did.
 >
@@ -146,7 +146,7 @@
 > The perspective of our Confession, which reflects the outcome of the early Donatist controversy, when it says that the efficacy of a sacrament does not depend upon the piety of the one that administers it (Westminster
 >
 > <a id="ga11-p308"></a>
-> <!-- PAGE ga=11 pdf_page=308 printed_page=null -->
+> <!-- PAGE ga=11 pdf_page=308 printed_page=306 printed_page_source=inferred -->
 >
 > Confession of Faith, xxvii, 3), is really dealing with a different situation. That earlier Donatist controversy
 >
@@ -279,7 +279,7 @@
 > the confessional standards as follows:
 >
 > <a id="ga11-p309"></a>
-> <!-- PAGE ga=11 pdf_page=309 printed_page=null -->
+> <!-- PAGE ga=11 pdf_page=309 printed_page=307 printed_page_source=inferred -->
 >
 > Q. May baptisms properly be administered to individuals making profession of faith, but who do not intend to become members of the requested congregation? If so, under what circumstances?
 >
@@ -321,7 +321,7 @@
 > “It is the unanimous opinion of all the Reformed churches, that the whole papal body, though once a branch of the visible church, has long since become utterly corrupt, and hopelessly apostate. It was a conviction of this which led to the reformation, and the complete separation of the reformed body from the papal communion. Luther and his coadjutors, being duly ordained presbyters at the time when they left the Romish communion,
 >
 > <a id="ga11-p310"></a>
-> <!-- PAGE ga=11 pdf_page=310 printed_page=null -->
+> <!-- PAGE ga=11 pdf_page=310 printed_page=308 printed_page_source=inferred -->
 >
 > which then, though fearfully corrupt, was the only visible church in the countries of their abode, were fully
 >
@@ -446,7 +446,7 @@
 > applicant for admission into the Church of Christ has, or has not been baptized: whether he has been christened
 >
 > <a id="ga11-p311"></a>
-> <!-- PAGE ga=11 pdf_page=311 printed_page=null -->
+> <!-- PAGE ga=11 pdf_page=311 printed_page=309 printed_page_source=inferred -->
 >
 > by a popish pastor or not. In all such doubtful cases the session of a church must act according to the light before them. But it is safer and more conducive to peace and edification, to embrace a well established principle for our guidance, and act upon it firmly in the fear of God, leaving all consequences with him than to suffer ourselves, without any fixed principles, to be at the mercy of circumstances.
 >
@@ -463,7 +463,7 @@
 > In view of the fact that several churches hold grace errors in connection with much saving truth, and that perhaps no church receives in everything the exact mind of the Spirit, it may be asked with what degree of strictness or liberality this mark of a true visible Church is to be applied. It seems to us consonant with the Scriptures and the judgment of charity to answer, that so long as any communion so retains the essential truths of God's Word and the aids of the Holy Ghost as to save souls by its ministrations, it shall be held a true, though imperfect, member of His visible body. Though it may omit or impugn some principles which we have received from God, and may even deny to our ordinances all recognition, and to our communion all church character, yet we may not imitate its uncharitableness; so long as Christ visibly entrusts it with His saving Word and Spirit, we are bound to recognize it as His visible body, notwithstanding its errors, and to pray for its attainment of a more peaceable unity in the bonds of the truth. But in judging the tendency of its ordinances to save souls, it is obviously proper that we shall estimate those ministrations as a consistent whole, as set forth by this communication. If their only tendency as a whole, taken as it expounds them to its members, is destructive to souls, then we cannot admit that it is a pillar and ground of saving truth, merely because of some disjointed fragments of the gospel verities, mixed with heresies which, if heartily accepted by the people as taught, must be fatal to souls; or because a few persons, through the special teaching of God's Spirit, leading them to select the spiritual meat and reject the poison, actually find Christ under those ministrations; for the proper function of a visible Church is instrumentally to communicate to its disciples spiritual discernment, and not to presuppose it; and the happy escape of these souls from damnable error is due to the special grace of God shielding them against the regular effect of these ministrations, rather than employing and blessing them. If this rule of judgment be denied, then might a valid church character possibly be established for an association of infidels investigating parts of God's Word only for purposes of evil, since the Almighty Spirit might, against these purposes, employ those parts of the Word to awaken and convert some member.
 >
 > <a id="ga11-p312"></a>
-> <!-- PAGE ga=11 pdf_page=312 printed_page=null -->
+> <!-- PAGE ga=11 pdf_page=312 printed_page=310 printed_page_source=inferred -->
 >
 > # MINORITY REPORT OF RULING ELDER JOHN THOMPSON
 >
@@ -494,7 +494,7 @@
 > There is another passage which has bearing on this issue. In Acts, Chapter 8, we read that Simon Magus professed faith in Christ and was baptized. Subsequently, Peter uncovered
 >
 > <a id="ga11-p313"></a>
-> <!-- PAGE ga=11 pdf_page=313 printed_page=null -->
+> <!-- PAGE ga=11 pdf_page=313 printed_page=311 printed_page_source=inferred -->
 >
 > Simon’s true spiritual condition and warned him: “Thy heart is not right in the sight of God. Repent!” Simon was apparently affected by this warning and apparently repented, saying to Peter: “Pray ye to the Lord for me, that none of these things which ye have spoken come upon me.” Here, then, is an explicit case of the baptism of a man later discovered to be unconverted. Peter’s counsel to him is not: “You need to be re-baptized.” but rather: “You need to repent!” What Simon Magus needed was not another external baptism, but a true internal baptism—true regeneration, repentance, conversion. He had already had the symbol; now he needed the thing signified. Our confessional standards reflect this counsel. Baptism is but once to be administered to any one person (WCF XXVIII, VII); if a professing believer desires to improve his baptism (as indeed all believers should), the means of improving it is not re-baptism, but rather seeking with all our heart to live up to the engagement to belong wholly to the Lord, which our baptism signifies (see LC 167).
 >
@@ -517,7 +517,7 @@
 > A. When parents present their child for “christening”, they should be instructed that “christening” is an inappropriate and unbiblical term for Christian baptism. However, historically “christening” in the name of the triune God, with water, by a duly authorized person constitutes Christian baptism. (See answer and grounds for answer to Question 3, Recommendation 9. for answer to Question 3, Recommendation 9.)
 >
 > <a id="ga11-p314"></a>
-> <!-- PAGE ga=11 pdf_page=314 printed_page=null -->
+> <!-- PAGE ga=11 pdf_page=314 printed_page=312 printed_page_source=inferred -->
 
 ---
 

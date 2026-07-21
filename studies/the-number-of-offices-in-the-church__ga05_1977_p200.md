@@ -15,7 +15,7 @@
 > Your Committee was charged with the task of presenting before the Fifth General Assembly a report on both the two and three office views of the Offices in the Church. Two members of your Committee are convinced that the Committee failed to fulfill the assigned task. We feel first of all, that the two office view was not adequately presented, and secondly, that the report submitted by
 >
 > <a id="ga05-p201"></a>
-> <!-- PAGE ga=5 pdf_page=201 printed_page=null -->
+> <!-- PAGE ga=5 pdf_page=201 printed_page=199 printed_page_source=inferred -->
 >
 > your Committee reflects a view of the office of Elder that is governed more by errant tradition than by Scripture. In one sense, it is unfortunate that the following report must be submitted as a minority report because it simply seeks to set forth the two office view as directed by the Assembly and neglected by the Committee. In another sense, however, it IS a minority report because its authors take strong exception to the conclusions of the Committee. It is the opinion of the minority that the majority has submitted a report that can only be described as a wolf in sheeps clothing. Namely, the so called two and one-half office view. Under the guise of a two office view, the Committee has adopted a report that clearly maintains and propagates the un-Biblical, hierarchical three office view of the Eldership. The Committee seeks to give lip service to the Scriptural view while maintaining the un-Scriptural distinctives between "Teaching" and "Ruling" Elders. Our plea to the Fifth General Assembly of the Presbyterian Church in America is that the Reformation principle of Sola Scriptura be the guiding principle in its inquiry into this matter of gravest importance. The clear teaching of the Scripture has been hopelessly obscured by the numerous confusing and superfluous papers submitted by the Committee. It is imperative that Christ's Church be true to the Scriptures in all that it does so that it may be the most effective channel possible for the administration of God's grace throughout His Kingdom. An implementation of the Biblical view of the Eldership is of utmost importance to the life and effectiveness of Christ's Church.
 >
@@ -38,7 +38,7 @@
 > That the two words "elders" and "bishops" refer to the same office is manifest from the following passages (Acts 20:17 and 28; Titus 1:5 and 7; and a comparison of I Tim. 3:1ff and I Tim. 5:17). In Acts 20:28 he designates that same group of elders as bishops or overseers (episkopoi). Paul directs Titus to appoint elders in every city (Titus 1:5), and then goes on to describe those same officers by the term bishops or overseers (Titus 1:7). In I Timothy 3:2, Paul uses the term "bishop" to speak of the office of those who teach and rule the Church (I Tim. 3:2 and 5), but then when he returns to the question of remuneration for those who rule and also
 >
 > <a id="ga05-p202"></a>
-> <!-- PAGE ga=5 pdf_page=202 printed_page=null -->
+> <!-- PAGE ga=5 pdf_page=202 printed_page=200 printed_page_source=inferred -->
 >
 > spend their full time in the occupation of teaching the church, he calls them elders or presbyters (I Tim. 5:17). Thus, we see that with these two terms, elders and bishops, we have two words to designate one and the same group of officers in the Church. The one term elder or presbyter, reflecting particularly the Old Testament background and usage, designates them in reference to their maturity and authority. The other term, bishop or overseer, more common to the Greek-speaking world, designates them in terms of their particular responsibility of having the oversight and care of the Church.
 >
@@ -61,7 +61,7 @@
 > Therefore, the Church which seeks to be faithful to the New Testament will seek to keep in perspective and balance the unity of the office of elders/bishops, which when joined by the deacons,
 >
 > <a id="ga05-p203"></a>
-> <!-- PAGE ga=5 pdf_page=203 printed_page=null -->
+> <!-- PAGE ga=5 pdf_page=203 printed_page=201 printed_page_source=inferred -->
 >
 > leads the New Testament to speak of the permanent offices of the Church as just these two. This
 > will mean that all the elders rule together, and are together responsible for the teaching of the
@@ -133,7 +133,7 @@
 > with the Scriptures.
 >
 > <a id="ga05-p204"></a>
-> <!-- PAGE ga=5 pdf_page=204 printed_page=null -->
+> <!-- PAGE ga=5 pdf_page=204 printed_page=202 printed_page_source=inferred -->
 >
 > Recommendation No. 7: That upon approval of this report the General Assembly be charged
 > with the responsibility of bringing the Westminster Standards into harmony with the teachings of
@@ -214,7 +214,7 @@
 > remainder as now printed).”
 >
 > <a id="ga05-p205"></a>
-> <!-- PAGE ga=5 pdf_page=205 printed_page=null -->
+> <!-- PAGE ga=5 pdf_page=205 printed_page=203 printed_page_source=inferred -->
 >
 > ##### Overture 4. From First Presbyterian Church, Belzoni, Mississippi
 >
@@ -250,7 +250,7 @@
 > Since the Book of Church Order states explicitly, in Section No. 17-2: "The government of the Church is by officers gifted to represent Christ, and the right of God's people to recognize by election to office those so gifted is inalienable. Therefore, no man can be placed over a church in any office without the election, or at least the consent of that church"; and since the present practice of allowing for the calling to office of an Assistant Pastor merely by vote of the Session of the Church is inconsistent with this section of the Book of Church Order, we would recommend that this practice be eliminated and that only the titles of Pastor and Associate Pastor be recognized. This does not preclude, however, the hiring of non-ordained personnel by the Session to carry out specific
 >
 > <a id="ga05-p206"></a>
-> <!-- PAGE ga=5 pdf_page=206 printed_page=null -->
+> <!-- PAGE ga=5 pdf_page=206 printed_page=204 printed_page_source=inferred -->
 >
 > functions within the church (e.g., youth ministries, Christian Education directors, Administrative Assistant, etc.). Such non-ordained personnel could well be seminary-trained men who are candidates for service as ‘Preaching Elders’.
 >
@@ -273,7 +273,7 @@
 > It is the thesis of this study, attempting to compare Scripture with Scripture and to harmonize all Scripture truths, that the solution to the seeming dilemma or impasse is to be found in a mutual and complementary recognition of the facts that there are indeed two titles or designations, elders (or bishops) and deacons, but also that within the office of elders there are two functions and that one of those functions, teaching, may be given in a heightened way or as a special gift to some, but not all the elders. Therefore, a distinction may be made within the office of elders designating some as teachers (or ministers) as the New Testament does. This is specially noteworthy in Ephesians 4:11 where within the larger circle of elders, all of whom are undershepherds or pastors, some are further designated as teachers. The study that follows seeks to unfold the Biblical truths and to demonstrate that the thesis proposed is indeed the truth of Scripture. The first portion of
 >
 > <a id="ga05-p207"></a>
-> <!-- PAGE ga=5 pdf_page=207 printed_page=null -->
+> <!-- PAGE ga=5 pdf_page=207 printed_page=205 printed_page_source=inferred -->
 >
 > the study will unfold the two offices in Scripture, that is, elders (or bishops) and deacons and emphasize that the term elders (or bishops) is used in the plural and embraces all the governors or rulers in the church. The second half of the study will then direct attention to the distinction within the one office of elder and will indicate that there are some who labor in the Word and teaching. Before focusing on these two aspects, a preliminary paragraph will distinguish the continuing offices from those extraordinary and non-continuing offices of apostles and prophets.
 >
@@ -292,7 +292,7 @@
 > When once we have observed that for the New Testament the terms elders and bishops serve as the embracee designation of one particular group of men or office and that another term (diakonos) has become a technical term for the ones who specifically have the task of service in the church, i.e., the deacons, we are impressed by the fact that the New Testament refers to the offices
 >
 > <a id="ga05-p208"></a>
-> <!-- PAGE ga=5 pdf_page=208 printed_page=null -->
+> <!-- PAGE ga=5 pdf_page=208 printed_page=206 printed_page_source=inferred -->
 >
 > in the church under only these two heads or two offices (Phil. 1:1; I Tim. 3:1, 2 and 12; compare Acts 6:1-6). When the Apostle Paul desires to address the officers of the church of Philippi, he does so using two terms and addresses two groups of officers — "the bishops (overseers) and deacons" (Phil. 1:1). In his letter especially written to order the life and government of the church, I Timothy (see I Tim. 3:13), a letter written near the end of his life when church government is evidently settled and fixed, the apostle again speaks of only two groups under these two words, bishops and deacons (I Tim. 3:1 and 2, and 12). Similarly, when the divisions of labor and of functions were accomplished in the early church at Jerusalem in Acts 6:1-6, we find the same two-fold division. The apostles (fellow-elders) continue in the oversight functions of ruling and teaching (Acts 6:2 and 4), while the seven are given the function of service (diakonein) at tables (Acts 6:2 and 3). In summary, we see the New Testament speaking of two offices, bishops (or elders) and deacons (Phil. 1:1; I Tim. 3:1 and 2, and 12), and the church of Jesus Christ today should follow that authoritative norm and pattern.
 >
@@ -311,7 +311,7 @@
 > To this clear evidence for the two offices of elders/bishops and deacons, and the task committed to the elders/bishops should be joined the emphasis upon one function for some, namely teach-
 >
 > <a id="ga05-p209"></a>
-> <!-- PAGE ga=5 pdf_page=209 printed_page=null -->
+> <!-- PAGE ga=5 pdf_page=209 printed_page=207 printed_page_source=inferred -->
 >
 > ing, that I Timothy 5:17 introduces among those who serve in the office which is there designated by the official term elders (or presbyters). With this passage we have now returned to the two functions found in the one office of elder, namely ruling and teaching, and to the fact that sometimes as here, the one function of teaching receives particular emphasis.
 >
@@ -326,7 +326,7 @@
 > These observations should not be surprising because these facts are quite in accord with I Timothy 5:17. There we noticed that among the elders, all of whom are to rule, are some "who work hard at preaching and teaching" (NASB). Paul in I Corinthians acknowledges the need for the gift of administrations or governments for the rule and oversight of the church. Alongside of that gift he recognizes some with the word teachers who also labor in the Word and teaching (again cf. I Tim. 5:17). The word "teachers" must not be regarded as an exclusive reference that separates them from those who have the gift of administrations because we have already seen that Paul can refer to himself as being not only an apostle, but also a preacher and teacher. Since therefore at least two of the gifts in the list in I Corinthians 12:28-31 can refer to one person, we must not let the fact that the gifts of teachers and administrations are distinguished lead us to think of them erroneously as separate offices. The evidence of the New Testament already considered has demonstrated the unity of the office of elder and the fact that it involves both functions, that is, that of teaching and of ruling (cf. again the passages cited in previous paragraphs of this study). On the other hand, we must give adequate weight to the fact that these functions can be distinguished and emphasized in both I Tim. 5:17 and now in I Cor. 12:28-31, particularly, the function of teaching. To do justice to such distinction and emphasis we may say, as Dabney has already done, that within the one office or class of elders there are embraced two orders, that of the preaching or teaching
 >
 > <a id="ga05-p210"></a>
-> <!-- PAGE ga=5 pdf_page=210 printed_page=null -->
+> <!-- PAGE ga=5 pdf_page=210 printed_page=208 printed_page_source=inferred -->
 >
 > elders and that of the ruling elders. Ephesians 4:11 provides in principle further insights into the proper correlation that this distinction brings.
 >
@@ -339,7 +339,7 @@
 > We must now turn our attention to the term “Teachers” and its relationship to pastors in Eph. 4:11. In the grammatical construction of the entire statement of Eph. 4:11 each of the positions named has the definite article “the” before it, except for the term teachers. The list would read in a literal translation as follows: “And he gave the apostles, and the prophets, and the evangelists, and the pastors and teachers.” The effect of omitting the definite article “the” before teachers is that it groups pastors and teachers together in one class or category. (In Greek grammars this is called the Granville Sharp rule). Rather than reading “the pastors, and the teachers,” the statement reads “the pastors-and-teachers.” In effect, we may say that the apostle regards the teachers as belonging to the class or category of pastors. But at the same time, and especially in the light of I Cor. 12:28-31, the teachers are a specialized and emphasized order within that larger class. And this is exactly how he has spoken of elders in I Tim. 5:17. I Tim. 5:17 states that among that larger group of elders, all of whom rule, there are those who labor in the Word and teaching. What the apostle Paul has said in I Tim. 5:17 is now said in Eph. 4:11 by the expression “the pastors and teachers.” All elders are pastors. Among the elders, all of whom have a pastoral or shepherding responsibility, there are some who labor in the Word and teaching whom the New Testament calls teachers as here, or as those who preach elsewhere. That pastor/elder is a preaching or teaching
 >
 > <a id="ga05-p211"></a>
-> <!-- PAGE ga=5 pdf_page=211 printed_page=null -->
+> <!-- PAGE ga=5 pdf_page=211 printed_page=209 printed_page_source=inferred -->
 >
 > pastor/elder. Here again, to use Dabney's terms, we have two orders and one class or office. The one class or office is that of pastor/elder/bishop. The two orders within that one class are teaching or preaching pastors/elders on the one hand and ruling pastors/elders on the other hand. The nonrepeated definite article "the" tightly joins the two orders together as one class or office. The word teachers added to that of pastors indicates a specialized ministry among that of the pastors/elders.
 >
@@ -362,7 +362,7 @@
 > In this paper I intend first to look at the order of Ministers of the Word in the Reformed tradition; second, to examine the scriptural basis for the conviction that such an order exists; and third, to draw certain conclusions for the present time.
 >
 > <a id="ga05-p212"></a>
-> <!-- PAGE ga=5 pdf_page=212 printed_page=null -->
+> <!-- PAGE ga=5 pdf_page=212 printed_page=210 printed_page_source=inferred -->
 >
 > MINISTERS OF THE WORD IN EARLY REFORMED CONFESSIONS
 >
@@ -436,7 +436,7 @@
 > that it is of the Lord.
 >
 > <a id="ga05-p213"></a>
-> <!-- PAGE ga=5 pdf_page=213 printed_page=null -->
+> <!-- PAGE ga=5 pdf_page=213 printed_page=211 printed_page_source=inferred -->
 >
 > As for the Ministers of God's Word, they have equally the same power and authority wheresoever they are, as they are all Ministers of Christ, the only universal Bishop, and the only Head of the Church.
 >
@@ -469,7 +469,7 @@
 > The Westminster Assembly also restricts reading the Scripture in public. Larger Catechism, answer 156, says, “Although all are not to be permitted to read the word publicly to the congregation, yet all sorts of people are bound to read it apart by themselves…”¹⁵ This is further
 >
 > <a id="ga05-p214"></a>
-> <!-- PAGE ga=5 pdf_page=214 printed_page=null -->
+> <!-- PAGE ga=5 pdf_page=214 printed_page=212 printed_page_source=inferred -->
 >
 > clarified by a statement in their *Directory for the Publick Worship of God*: “Reading of the word in the congregation, being part of the publick worship of God, (wherein we acknowledge our dependence upon him, and subjection to him,) and one mean sanctified by him for the edifying of his people, is to be performed by the pastors and teachers. Howbeit, such as intend the ministry, may occasionally both read the word, and exercise their gift in preaching in the congregation, if allowed by the presbytery thereunto.”¹⁶ One notes that both the reading and the preaching of the Word is reserved exclusively for Ministers or for those intending the Ministry and already gifted in preaching, and given permission by the Presbytery, who would correspond to our licentiates.
 >
@@ -492,7 +492,7 @@
 > As there were in the Jewish church elders of the people joined with the priests and Levites in the government of the church, so Christ, who hath instituted government, and governors ecclesiastical in the church, hath furnished some in his church beside the ministers of the word, with gifts for government, and with commission to execute the same when called thereunto, who are to join with the minister in the government of the church. Which officers reformed churches commonly called Elders.²¹
 >
 > <a id="ga05-p215"></a>
-> <!-- PAGE ga=5 pdf_page=215 printed_page=null -->
+> <!-- PAGE ga=5 pdf_page=215 printed_page=213 printed_page_source=inferred -->
 >
 > We see from the above that every Pastor, by virtue of being Pastor, is an Elder. We also see that there are Elders in the church “beside the ministers of the word” which have gifts for government but, since they are not Ministers of the Word, therefore, may not preach. *The Form of Church-Government* does not indicate whether Teachers are also Elders. Teachers are connected with schools rather than with congregations, so they have no flock to govern. It is very likely the view of the Westminster Assembly that the office of Minister of the Word is divided into the offices of Pastor and Teacher and that all Pastors are Elders, but Teachers are not necessarily Elders. The office of Elder is further divided into those Elders who are also Pastors and those Elders who are not Pastors.
 >
@@ -521,7 +521,7 @@
 > But what of laymen who seem gifted and called to preach? There were two prominent lay evangelists at the time that Dabney was writing. One was D. L. Moody, a man not of Reformed convictions, and the other was Brownlow North, a Scotsman of definitely Reformed convictions.²⁹ Dabney writes: “If, for instance, such laymen as the late Mr. Brownlow North and Mr. Moody have the qualifications and the seal of the divine blessing which their friends claim for them, this is,
 >
 > <a id="ga05-p216"></a>
-> <!-- PAGE ga=5 pdf_page=216 printed_page=null -->
+> <!-- PAGE ga=5 pdf_page=216 printed_page=214 printed_page_source=inferred -->
 >
 > to our mind, a demonstration that God calls them into the regular ministry, and they should seek a regular ordination like other ministers, each in that branch of the church which has his conscientious preference.”³⁰
 >
@@ -552,7 +552,7 @@
 > - “For Christ sent me not to baptize, but to preach the gospel. . . . For the preaching of the cross is to them that perish, foolishness; but unto us which are saved, it is the power of God. . . . It pleased God by the foolishness of preaching to save them that believe” (I Cor. 1:17,18,21).
 >
 > <a id="ga05-p217"></a>
-> <!-- PAGE ga=5 pdf_page=217 printed_page=null -->
+> <!-- PAGE ga=5 pdf_page=217 printed_page=215 printed_page_source=inferred -->
 >
 > - “For our gospel came not unto you in word only, but also in power, and in the Holy Ghost, and in much assurance” (I Thess. 1:5).
 >
@@ -587,7 +587,7 @@
 > 11. And he gave some, apostles; and some, evangelists; and some, pastors and teachers;
 >
 > <a id="ga05-p218"></a>
-> <!-- PAGE ga=5 pdf_page=218 printed_page=null -->
+> <!-- PAGE ga=5 pdf_page=218 printed_page=216 printed_page_source=inferred -->
 >
 > 12. For the perfecting of the saints, for the work of the ministry, for the edifying of the body of Christ:
 >
@@ -612,7 +612,7 @@
 > In Luke 1:2, it is used specifically of "ministers of the word." In Luke 4:20, when Jesus preached at the synagogue, the word is used when it says, "And he closed the book, and he gave it again to the minister, and sat down." It is used in Acts 13:5, which says that John was "their minister," speaking of the synagogues of the Jews at Salamis. So we see that the apostles use the word *huperetis* for their function as Ministers of the Word based on the use of that word of the Minister in the synagogue. *Huperetis* was also used by the Lord Jesus Christ when he called Paul
 >
 > <a id="ga05-p219"></a>
-> <!-- PAGE ga=5 pdf_page=219 printed_page=null -->
+> <!-- PAGE ga=5 pdf_page=219 printed_page=217 printed_page_source=inferred -->
 >
 > and said, “I have appeared unto thee for this purpose, to make thee a minister and a witness . . . delivering thee from the people, and from the Gentiles, unto whom I now send thee, to open their eyes, and to turn them from darkness to light, and from the power of Satan unto God, that they may receive forgiveness of sins, and inheritance among them that are sanctified by faith that is in me” (Acts 26:16-18).
 >
@@ -642,7 +642,7 @@
 > - “. . . Epaphras our dear fellow servant, who is for you a faithful minister of Christ” (Col. 1:7).
 >
 > <a id="ga05-p220"></a>
-> <!-- PAGE ga=5 pdf_page=220 printed_page=null -->
+> <!-- PAGE ga=5 pdf_page=220 printed_page=218 printed_page_source=inferred -->
 >
 > - “... the gospel, which ye have heard, and which was preached to every creature which is under heaven; whereof I Paul am made a minister; ... Whereof I am made a minister, according to the dispensation of God which is given to me for you, to fulfill the word of God” (Col. 1:23-25).
 > - “Timotheus, our brother, and minister of God, and our fellow laborer in the gospel of Christ” (I Thess. 3:2).
@@ -664,7 +664,7 @@
 > The devil delights in pendulum thinking. In a previous age, many Reformed Christians seemed to feel that they had no responsibility for the evangelization of their unconverted neighbors, ex-
 >
 > <a id="ga05-p221"></a>
-> <!-- PAGE ga=5 pdf_page=221 printed_page=null -->
+> <!-- PAGE ga=5 pdf_page=221 printed_page=219 printed_page_source=inferred -->
 >
 > cept to invite them to come to church to hear a gospel sermon. It was the Minister alone who had
 > the responsibility to evangelize the lost. Now it is properly recognized that every Christian is to be
@@ -728,7 +728,7 @@
 > by those who are called by God and licensed or ordained by His Church.
 >
 > <a id="ga05-p222"></a>
-> <!-- PAGE ga=5 pdf_page=222 printed_page=null -->
+> <!-- PAGE ga=5 pdf_page=222 printed_page=220 printed_page_source=inferred -->
 >
 > # FOOTNOTES
 >
@@ -773,7 +773,7 @@
 > This distinction is brought out in a most interesting way in Acts 8 in verses 4 and 5. There we are told in the first verse that a great persecution of the Church arose in Jerusalem, and that all the members of the Church were scattered abroad except the Apostles. Then we are told in verses 4 and 5, ‘therefore they that were scattered abroad went everywhere preaching the Word. Then Philip went down to the city of Samaria, and preached Christ unto them.’ That is the King James Version translation, and in both cases you have the word ‘preached’. But in the original the same word was not used in the two verses; and this is the vital distinction. What ‘the people’ who went everywhere did was, as someone has suggested it might be translated, ‘to gossip’ the Word, to talk about it in conversation. Philip on the other hand did something different: he was ‘heralding’ the Gospel. This is, strictly speaking, what is meant by preaching in the sense
 >
 > <a id="ga05-p223"></a>
-> <!-- PAGE ga=5 pdf_page=223 printed_page=null -->
+> <!-- PAGE ga=5 pdf_page=223 printed_page=221 printed_page_source=inferred -->
 >
 > that I have been using it. It is not accidental that such a distinction should be drawn there in the actual text.
 >
@@ -814,7 +814,7 @@
 > From the foregoing material, we can see that the New Testament does not offer us a specific, unitary term for office. Our task is made more difficult by the fact that no *connotative* definition of
 >
 > <a id="ga05-p224"></a>
-> <!-- PAGE ga=5 pdf_page=224 printed_page=null -->
+> <!-- PAGE ga=5 pdf_page=224 printed_page=222 printed_page_source=inferred -->
 >
 > office is provided for us. Consequently, we are left with no alternative but to seek our understanding of church office *denotatively*. That is, we must examine the examples of particular “offices” set down in the New Testament and draw our definition from such an examination. We must see the points of commonality and differences; we must extrapolate and individuate from the particulars if we are to construct a meaningful definition of ecclesiastical office.
 >
@@ -847,7 +847,7 @@
 > In our discussions concerning the number of offices in the church, a question has arisen regarding Paul’s injunction in I Timothy 3:2 concerning the qualification of the elder to be “apt” to teach. If all elders are required to be able to teach, what does this mean for our distinction between ruling elder and teaching elder? The purpose of this brief report is not to make a full analysis of this distinction and the reasons adjudged for it. Rather, this report is to give definition
 >
 > <a id="ga05-p225"></a>
-> <!-- PAGE ga=5 pdf_page=225 printed_page=null -->
+> <!-- PAGE ga=5 pdf_page=225 printed_page=223 printed_page_source=inferred -->
 >
 > to the Biblical meaning of teaching. I will rely heavily on Kittel’s Theological Dictionary of the New
 > Testament, as well as upon commentators, particularly from the Reformed tradition.
@@ -919,7 +919,7 @@
 > on the part of ruling elders than is normally found in teaching elders in this country.
 >
 > <a id="ga05-p226"></a>
-> <!-- PAGE ga=5 pdf_page=226 printed_page=null -->
+> <!-- PAGE ga=5 pdf_page=226 printed_page=224 printed_page_source=inferred -->
 >
 > I would urge the Committee on Number of Offices to recommend to the General Assembly
 > that ruling elders be required to take prescribed sessions in Biblical and theological matters before
@@ -989,7 +989,7 @@
 > Thus we have some evidence in the Acts passage that the coming into office of at least some church
 >
 > <a id="ga05-p227"></a>
-> <!-- PAGE ga=5 pdf_page=227 printed_page=null -->
+> <!-- PAGE ga=5 pdf_page=227 printed_page=225 printed_page_source=inferred -->
 >
 > officials involves election by the people. Aside from this nothing more specific can be derived from the use of this word.
 >
@@ -1033,7 +1033,7 @@
 > I make the meaning to be as follows. Timothy has been carefully instructed in the faith and trained in the didaskalia which he exercises; in that training it was clear that he was called
 >
 > <a id="ga05-p228"></a>
-> <!-- PAGE ga=5 pdf_page=228 printed_page=null -->
+> <!-- PAGE ga=5 pdf_page=228 printed_page=226 printed_page_source=inferred -->
 >
 > to the ministry, that the Word had imparted to him a gift for its ministry; at the same time that gift was regarded as imparted formally through the act of laying on of hands, authorising him as an accredited teacher and minister, but used by God as the means of imparting to him a spiritual gift from God, a *charisma* for the ministry; the act of laying on of hands was carried out by Timothy’s teacher, Paul, and by the Presbytery acting together (TFT, p. 238).
 >
@@ -1066,7 +1066,7 @@
 > But we must also apply this to the other extreme and say that self-ordination, or ordination by those with no qualifications within the church, is also not Biblical. Christ has passed the keys of
 >
 > <a id="ga05-p229"></a>
-> <!-- PAGE ga=5 pdf_page=229 printed_page=null -->
+> <!-- PAGE ga=5 pdf_page=229 printed_page=227 printed_page_source=inferred -->
 >
 > the kingdom to His church. His church must use them correctly and wisely. There must be order in the act of ordination, and therefore it is proper for the church to set forth specific requirements for ordination.
 >
@@ -1099,7 +1099,7 @@
 > To answer this question, we cannot turn to the New Testament to find a “little black Book of Church Order. None of the books of the New Testament have the form of the “Manual of Discipline” of the Dead Sea community. The New Testament teaching concerning church order is given in the course of the unfolding of revelation in the apostolic age. The inspired authors do not provide any rule-book, but deal with particular problems in the circumstances in which they arose. Nevertheless, they do express principles and commandments of Christ that have perpetual
 >
 > <a id="ga05-p230"></a>
-> <!-- PAGE ga=5 pdf_page=230 printed_page=null -->
+> <!-- PAGE ga=5 pdf_page=230 printed_page=228 printed_page_source=inferred -->
 >
 > authority in Christ's church. To understand their teaching we must interpret what they say about church order with the same exegetical care we would use for other passages of Scripture. We understand, for example, that the doctrinal topics treated by Paul in I Corinthians are chosen with a view to meeting the immediate needs of that church. We know that this epistle does not cover the whole range of Christian teaching. In the same way, what Paul says about the exercise of gifts is addressed to the situation at Corinth. The same applies to the Pastorals, although the situations in view are somewhat more general. When Paul lists the fruit of the Spirit in writing to the Galatians (Gal. 5:22f.), we cannot assume that he is giving an exhaustive list. He may be emphasizing those fruits that are particularly important for the Galatians to appropriate. So also when Paul lists the gifts exercised in the church, he may be thinking of the situation in Corinth. He is not necessarily listing all gifts or offices. The same would apply to his description of the requirements for a particular office in the Pastorals. Paul may be emphasizing those requirements that are most necessary in the situation. Just as doctrinal terms are used with flexibility of meaning — think of the use of "regeneration" in Matthew 19:28 and Titus 3:5, for example — so terms for gifts and functions are flexibly employed. The terms diakonos, for example, may be used to describe any disciple of Christ as his servant (Jn. 12:26), or it may be used of officers in general (I Pet. 4:10 — verb form, but note use of oikonomos), of deacons in a narrow sense, exclusive of bishops (Phil. 1:1; I Tim. 3:8), or of ministers of the gospel, with their ministry of the Word particularly in view (Rom. 12:7; Col. 1:23; I Cor. 3:5; I Thess. 3:2; II Tim. 4:5). Clearly the gifts that Paul exercised as a diakonos cannot be required of the diakonos of I Timothy 3:8.
 >
@@ -1124,7 +1124,7 @@
 > They are given a portion of the Spirit that is upon Moses to assist him in bearing the burden. With the resting of the spirit on them they prophesied, but it is noted that this gift was not continued. (We may compare this with Saul's prophesying when anointed with the Spirit.) When Joshua wanted to stop Eldad and Medad from prophesying in the camp, Moses replied: "Would that all Jehovah's people were prophets, that Jehovah would put his Spirit upon them" (Num. 11:29).
 >
 > <a id="ga05-p231"></a>
-> <!-- PAGE ga=5 pdf_page=231 printed_page=null -->
+> <!-- PAGE ga=5 pdf_page=231 printed_page=229 printed_page_source=inferred -->
 >
 > It is plain that these elders do not become prophets; they are not of those who will be raised up “like unto Moses.” Neither are they teaching priests or Levites. Yet they receive of the Spirit for their tasks of administration and judgment, and initially the presence of the Spirit is manifested through ecstatic utterance. At the same time, Moses longs for a future of universal prophetic blessing among the people of God.
 >
@@ -1145,7 +1145,7 @@
 > The new authority of the apostles does not remove representative disciplinary rule in the church. The process of discipline described by Jesus in Matthew 18:15-20 corresponds so closely to the synagogue procedure that some have supposed Jesus to be speaking of the current synagogue rather than the future church. This is not the case; the church that binds or looses with heavenly sanction is composed of disciples of Christ (“ye” v. 18). It is clear, then, that Jesus instituted disciplinary measures in a pattern close to the synagogue form. The two witnesses Jesus speaks of were required in the Old Testament law (Deut. 17:6; 19:15). The “two or three” gathered together in Christ’s name to judge of an offense would, in Jewish usage, most naturally be elders. When matters were brought for judgment to the “assembly” they would be determined not by popular vote, but by a session of elders of the people, carrying out judgment before God and the people (e.g. Deut. 19:17). Jesus does not isolate the apostles from the fellowship of brethren. Their unique calling as apostles does give them a distinctive role in founding the church. Yet in that church they also function with others to order the discipline of a community of brethren. Christ’s Word is their rule, they judge in his presence by the Spirit; but they follow familiar procedures of brotherly discipline and government. The association of apostles and elders in the Jerusalem church follows most consistently and naturally from the assumptions of our Lord’s teaching in Matthew 18.
 >
 > <a id="ga05-p232"></a>
-> <!-- PAGE ga=5 pdf_page=232 printed_page=null -->
+> <!-- PAGE ga=5 pdf_page=232 printed_page=230 printed_page_source=inferred -->
 >
 > Just as Christ’s teaching assumes the continuance of official witnesses and judges in the church after the synagogue model, so does his express instruction promise the function of scribes in his kingdom. He contrasts “their scribes” with teaching in the church, and promises the coming of “scribes of the kingdom” (Matt. 23:34, cf. 7:29 and 13:52).
 >
@@ -1170,7 +1170,7 @@
 > With respect to Christ’s prophetic work the situation is quite different. First, it is clear that the title or office of prophets is not directly assigned to Christ as is that of King and Priest. To be sure, God who spoke to the fathers through the prophets has also spoken through his Son, but mark the contrast of that very passage (Heb. 1:1). Christ speaks as did the prophets, but he is more than a prophet; he is the Son. The multitudes who regarded Christ as a prophet fell short of the distinctively Christian faith of Peter’s confession (Matt. 16:14-17). For Christ to call prophets in his church does not call in question his own mediatorial role as would be the case if he called kings or
 >
 > <a id="ga05-p233"></a>
-> <!-- PAGE ga=5 pdf_page=233 printed_page=null -->
+> <!-- PAGE ga=5 pdf_page=233 printed_page=231 printed_page_source=inferred -->
 >
 > high priests. Christ is the Unique Logos, the Light, the Son who knows and reveals the Father, but since he is so much more than a prophet it is not unfitting for him to endure prophets and apostles to give his Word to the church.
 >
@@ -1197,7 +1197,7 @@
 > The N.T. emphasis on the teaching function in no way detracts from this. The Ephesians 4 passage, for example, describes only those offices that minister the Word of Christ for the edification of the church, yet the passage presents a picture of the church that grows through the working in due measure of each several part, as a "joint of supply." In the mutual functioning of the whole body there is ample allowance for a rich diversity of ministrative and "administrative" gifts.
 >
 > <a id="ga05-p234"></a>
-> <!-- PAGE ga=5 pdf_page=234 printed_page=null -->
+> <!-- PAGE ga=5 pdf_page=234 printed_page=232 printed_page_source=inferred -->
 >
 > IV. Is the ruling function separable as a distinct “office” in the New Testament?
 >
@@ -1232,7 +1232,7 @@
 > Thus a man might be an “encourager,” able to exhort in the Word with much profit, rather than a teacher able to expound with skill the doctrines of the faith. He could properly be called a minister of the Word without being required to show the gift necessary for one who would be properly a teacher.
 >
 > <a id="ga05-p235"></a>
-> <!-- PAGE ga=5 pdf_page=235 printed_page=null -->
+> <!-- PAGE ga=5 pdf_page=235 printed_page=233 printed_page_source=inferred -->
 >
 > Again in I Corinthians 12:28 the ruling gift is distinguished. Here once more the apostle is relating the exercise of different gifts to the place in the church of those who minister them.
 >
@@ -1252,7 +1252,7 @@
 > Again we must remember that the issue is not the name of an office. Men engaged in quite different ministries could well be called “deacons” and be required to manifest the faithfulness
 >
 > <a id="ga05-p236"></a>
-> <!-- PAGE ga=5 pdf_page=236 printed_page=null -->
+> <!-- PAGE ga=5 pdf_page=236 printed_page=234 printed_page_source=inferred -->
 >
 > and personal holiness needed for all such ministry. The question is whether a man with gifts for rule who is not endued as a teacher can exercise his gift in the church. For him to do so, of course, he must have public recognition. The separate listing of the ruling gift in these two passages gives us the answer to this question. By giving these gifts and requiring that they be recognized and used, God hath set in the church apostles, prophets, teachers and the other stewards of his gifts.
 >
@@ -1277,7 +1277,7 @@
 > We may wonder — since many of the Corinthian Christians had come from the synagogue, since community discipline among the Jews of diaspora was regularly exercised by the elders of the place, since Paul ordained elders in the churches of his missionary labors, how was it that church government was still in such undeveloped form at Corinth? The answer seems to be two-fold: the issues involved seemed to the Corinthians to be “secular” rather than ecclesiastical — matters of
 >
 > <a id="ga05-p237"></a>
-> <!-- PAGE ga=5 pdf_page=237 printed_page=null -->
+> <!-- PAGE ga=5 pdf_page=237 printed_page=235 printed_page_source=inferred -->
 >
 > roperty and money. Also those with gifts for rule were for the most part richly endued teachers,
 > has with their labors (or concerned to demonstrate their gift of tongues!).
@@ -1351,7 +1351,7 @@
 > estament, Vol. 2. (Eerdmans Eng. Trans. p. 165), gives as the meaning “able to learn.”
 >
 > <a id="ga05-p238"></a>
-> <!-- PAGE ga=5 pdf_page=238 printed_page=null -->
+> <!-- PAGE ga=5 pdf_page=238 printed_page=236 printed_page_source=inferred -->
 >
 > ## Enpowered to Serve
 >
@@ -1392,7 +1392,7 @@
 > Another vital means of this empowering is prayer. At Pentecost, the disciples were praying when the blessing came. We can never expect to find the power we need if we neglect our prayer
 >
 > <a id="ga05-p239"></a>
-> <!-- PAGE ga=5 pdf_page=239 printed_page=null -->
+> <!-- PAGE ga=5 pdf_page=239 printed_page=237 printed_page_source=inferred -->
 >
 > life. But our prayers can, in themselves, be power-producing if we keep our lives clean and holy,
 > our spirits filled with Christ and our faith high. God gives us this sure promise in His Word, and it
@@ -1473,7 +1473,7 @@
 > had been in a large church.
 >
 > <a id="ga05-p240"></a>
-> <!-- PAGE ga=5 pdf_page=240 printed_page=null -->
+> <!-- PAGE ga=5 pdf_page=240 printed_page=238 printed_page_source=inferred -->
 >
 > In Christian charity, let us remember, “Man looketh on the outward appearance, but the Lord looketh on the heart”. (I Sam. 16:7).
 >

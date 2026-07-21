@@ -34,7 +34,7 @@
 > It is important to recognize that this question, which we naturally ask,
 >
 > <a id="ga03-p204"></a>
-> <!-- PAGE ga=3 pdf_page=204 printed_page=null -->
+> <!-- PAGE ga=3 pdf_page=204 printed_page=202 printed_page_source=inferred -->
 >
 > recognizes that Christ does not continually give to the Church those special and extraordinary offices of Apostles and Prophets, The Apostles of Jesus Christ are those personally and directly chosen by Him (Mk. 3:14; Lk. 6:13; Gal. 1:1), eye-witnesses of His resurrection (Acts 1:22; 1 Cor. 15:8-10), and with the prophets are the special recipients of revelation (Eph. 3:5) and thus form the non-repeatable foundation of the Church (Eph. 2-20). These two offices, since they have accomplished their unique and non-repeatable functions and tasks, occur only during the foundation days of the Church, the New Testament Age, and are not now found in the growing and continuing superstructure of the Church (cf 1 Peter 2:5ff).
 >
@@ -47,7 +47,7 @@
 > When we see that the term elders and bishops serve as the designation of one particular group of men or office and that the general term of servant (diakonos) has become a technical term for the ones who specifically have the task of service in the church, i.e., the deacons, we are impressed by the fact that the New Testament can refer to the offices in the church under these two heads or two offices (Phil. 1:1, 1 Tim. 3:1,2, and 12; compare Acts 6:1-6). When the Apostle Paul desires to address the officers of the church of Philippi, he does so using two terms and addresses two groups of officers — "the bishops (overseers) and
 >
 > <a id="ga03-p205"></a>
-> <!-- PAGE ga=3 pdf_page=205 printed_page=null -->
+> <!-- PAGE ga=3 pdf_page=205 printed_page=203 printed_page_source=inferred -->
 >
 > deacons" (Phil. 1:1). And in his letter especially written to order the life and government of the church, 1 Timothy, (see 1 Tim. 3:13), he again speaks of only two groups under these two words, bishop and deacons (1 Tim. 3:1 and 2, and 12). Similarly, when the divisions of labor and of functions is accomplished in the early church, we find the same two-fold division in Acts 6:1-6. The apostles (fellow-elders) continue in the oversight functions of ruling and teaching (Acts 6:2 and 4), while the seven are given the function of service (diakonein) at tables (Acts 6:2 and 3). Thus, we see the New Testament speaking of two offices, bishops (or elders) and deacons (Phil. 1:1; 1 Tim. 3:1 and 2, and 12), and the church of Jesus Christ today should follow that authoritative norm and pattern.
 >
@@ -56,7 +56,7 @@
 > The perspective of the New Testament that there are essentially only two permanent and ordinary offices that continue in the church, elders/bishops and deacons, is borne out not only by the fact that all the offices in the church are referred to by these two terms, but also by an awareness of the fact that the elders/bishops are always considered as a group of men who share together those two responsibilities involved in oversight, namely, teaching and ruling. These references to a plurality of elders in every church preclude these references from referring only to those whom we call ministers or preachers today and clearly include those whom we call ruling as well as teaching elders. The first churches established by Paul on his first missionary journey, small and persecuted as they may have been, each have a plurality of elders appointed for them (Acts 14:23). Elders (plural) are called from Ephesus to Miletus and all of them are called overseers (episkopoi) and are given the task of shepherding or pastoring (poimainein, Acts 20:28) the church of God and defending it (Acts 20:30,31). The Scripture gives a triple perspective on the function of the elders in the church in Ephesus. Not only is that function referred to in Acts 20:28ff, but also it is further described in 1 Tim. 3:1ff as caring for the church and being able to teach it (1 Tim. 3:2 and 5), and then in 1 Tim. 5:17 as ruling it and some among the elders so able to teach that they give their full time to that ministry. This combination and distinction of 1 Tim. 5:17 seems also to be reflected in Ephesians 4, where among those who are all called pastors or shepherds (poimenas, Eph. 4:11, cf. Acts 20:28), some are even more particularly called teachers. As in the case of Ephesus, so also the new congregations on the island of Crete located in the cities are to have a plurality of elders in every city. And, again, like the elders at Ephesus, these elders have their unified oversight function described in the two tasks of teaching and ruling (Titus 1:9-11 and 13). James similarly speaks of calling a group of men designated elders to minister to a particular need in a congregation (James 5:14). Peter also refers to elders in the plural (1 Peter 5:1, notice also all the plural references in verses 2-4) in each of the congregations addressed by his letter (cf. 1 Peter 1:1), and speaks of them as shepherding (poimanate) the particular flock among them (1 Peter 5:2). In 1 Thessalonians 5 and in Hebrews 13 the elders or bishops are not referred to by such names, but are referred to in both cases in the plural as a group which has the unified and shared responsibility of teaching and ruling (1 Thess. 5:12, 13; Heb. 13.7 and 17). Thus a uniform picture emerges from the New Testament. From the earliest days of the New Testament church to the last letter written by Paul (from Acts 11:30 and 14:23 to 1 Tim. 3:1ff, 5:17 and Titus 1:9) the various writers (Acts, Paul, Peter, James, the writer of Hebrews), there is agreement that there is one group of men who have the oversight, called elders or bishops, and that this oversight
 >
 > <a id="ga03-p206"></a>
-> <!-- PAGE ga=3 pdf_page=206 printed_page=null -->
+> <!-- PAGE ga=3 pdf_page=206 printed_page=204 printed_page_source=inferred -->
 >
 > includes both teaching and ruling. Such evidence is an overwhelming testimony
 >
@@ -124,7 +124,7 @@
 > Following the Biblical pattern set forth above, it is the finding of the committee that the Scriptures teach that there are only two ordinary and perpetual
 >
 > <a id="ga03-p207"></a>
-> <!-- PAGE ga=3 pdf_page=207 printed_page=null -->
+> <!-- PAGE ga=3 pdf_page=207 printed_page=205 printed_page_source=inferred -->
 >
 > offices in the Church today -- the office of Elder and the office of Deacon. Within the office of Elder there are some men who, because of additional gifts and calling from God, perform functions which have been historically performed by those called, at various times, Ministers, Pastors, Teaching Elders, and such other terms. It will be the consistent usage of the committee report to refer to Elders who are involved in the regular public preaching of the Word as 'Preaching Elders.' The usage of this terminology in no way implies that 'Preaching Elders' have a separate office, but is only used to identify those Elders who have special gifts, calling, and subsequent training to be used regularly in the public preaching of the Word and the administration of the Sacraments.
 >
@@ -147,7 +147,7 @@
 > **Recommendation #3:** That the General Assembly recognize that the Book of Church Order requires modification at some points, and therefore:
 >
 > <a id="ga03-p208"></a>
-> <!-- PAGE ga=3 pdf_page=208 printed_page=null -->
+> <!-- PAGE ga=3 pdf_page=208 printed_page=206 printed_page_source=inferred -->
 >
 > a) act at this Assembly upon the proposed changes to the Book of Church Order contained in Part V of this report; and
 >
@@ -188,7 +188,7 @@
 > (*References are the BOCO copyrighted by the PCUS in 1965, 12th printing 1969, paperback edition).
 >
 > <a id="ga03-p209"></a>
-> <!-- PAGE ga=3 pdf_page=209 printed_page=null -->
+> <!-- PAGE ga=3 pdf_page=209 printed_page=207 printed_page_source=inferred -->
 >
 > A. In response to the overture from the McIlwain Memorial Presbyterian Church of Pensacola, Florida, concerning the right of a local Session to elect its own moderator (Overture 11, 1st General Assembly; see 1974 minutes, 2-70); your committee recommends the following reply:
 >
@@ -221,7 +221,7 @@
 > In answer to request number two, we would again affirm that ordination is to an office, and not to a function. However, since the office of elder includes various functions, not limited to the ‘pastorate’, we would affirm that it is
 >
 > <a id="ga03-p210"></a>
-> <!-- PAGE ga=3 pdf_page=210 printed_page=null -->
+> <!-- PAGE ga=3 pdf_page=210 printed_page=208 printed_page_source=inferred -->
 >
 > proper for a “Preaching Elder” to be ordained upon satisfactory evidence of a call to one of the following functions: Missionary, Evangelist, Chaplain (military or institutional), Church executive or administrator, Seminary professor, Teacher of Bible or Religion in college or university, Headmaster or teacher in Christian Day School.
 >
@@ -240,7 +240,7 @@
 > Since the Book of Church Order states explicitly, in Section #17-2: “The government of the Church is by officers gifted to represent Christ, and the right of God’s people to recognize by election to office those so gifted is inalienable. Therefore no man can be placed over a church in any office without the election, or at least the consent of that church.”; and since the present practice of allowing for the calling to office of an Assistant Pastor merely by vote of the Session of the Church is inconsistent with this section of the Book of Church Order, we would recommend that this practice be eliminated and that only the titles of Pastor and Associate Pastor be recognized. This does not preclude,
 >
 > <a id="ga03-p211"></a>
-> <!-- PAGE ga=3 pdf_page=211 printed_page=null -->
+> <!-- PAGE ga=3 pdf_page=211 printed_page=209 printed_page_source=inferred -->
 >
 > however, the hiring of non-ordained personnel by the Session to carry out specific functions within the church (e.g., youth ministries, Christian Education directors, Administrative Assistants, etc.). Such non-ordained personnel could well be seminary-trained men who are candidates for service as 'Preaching Elders.'
 >
@@ -265,7 +265,7 @@
 > #8-4. As the Lord has given different gifts to the Elders and has commit-
 >
 > <a id="ga03-p212"></a>
-> <!-- PAGE ga=3 pdf_page=212 printed_page=null -->
+> <!-- PAGE ga=3 pdf_page=212 printed_page=210 printed_page_source=inferred -->
 >
 > ted to some special gifts and callings, the Church is authorized to call and appoint some to labor as ‘Preaching Elders.’
 >
@@ -298,7 +298,7 @@
 > (1) Do you, the members of this Church, acknowledge and receive this brother as a Deacon, and do you promise to yield to him all that honor, encouragement, and obedience in the Lord to which his office, according to the word of God and the constitution of this Church, entitles him?
 >
 > <a id="ga03-p213"></a>
-> <!-- PAGE ga=3 pdf_page=213 printed_page=null -->
+> <!-- PAGE ga=3 pdf_page=213 printed_page=211 printed_page_source=inferred -->
 
 ---
 

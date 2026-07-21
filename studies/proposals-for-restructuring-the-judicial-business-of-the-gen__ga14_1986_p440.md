@@ -19,7 +19,7 @@
 > Amended 15-1. A commission differs from an ordinary committee in that while a committee is appointed to examine, consider and report, a commission is authorized to deliberate upon and conclude the business referred to it. It shall keep a full record of its proceedings, which shall be submitted to the court appointing it, which if approved, shall then be entered on its minutes, and regarded and treated as the action of the court. In the event of complaint or appeal against an action of a commission, such complaint or appeal shall be made to the court appointing said commission, or the next higher,
 >
 > <a id="ga14-p441"></a>
-> <!-- PAGE ga=14 pdf_page=441 printed_page=null -->
+> <!-- PAGE ga=14 pdf_page=441 printed_page=439 printed_page_source=inferred -->
 >
 > except there may be no complaint or appeal by any party in the case from a final decision or judgment of the Permanent Judicial Commission of the General Assembly. Every commission must be appointed by the court which constitutes it, except the Permanent Judicial Commission of the General Assembly which shall be elected as provided in BCO 15-4 and the Regional Judicial Commissions may be constituted as provided in BCO 15-5.
 >

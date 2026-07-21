@@ -47,7 +47,7 @@
 > However, there is also value in referring to God's providential work in history as the third stage in His creative work. First, it keeps in the forefront of our minds the fact that God is actively working in history (John 5:17). The development of creation from a garden (Gen. 1) to a city (Rev. 22) is not first
 >
 > <a id="ga16-p468"></a>
-> <!-- PAGE ga=16 pdf_page=468 printed_page=null -->
+> <!-- PAGE ga=16 pdf_page=468 printed_page=466 printed_page_source=inferred -->
 >
 > the work of autonomous and creative man. God sovereignly develops His creation. A second reason for referring to history as God's third stage of creation is that it protects us a static idea of a frozen creation. It is not as if God made the world and then preserved and ruled over it as an unchanging relic in a bottle. God's creation is a movie not a photograph.
 >
@@ -76,7 +76,7 @@
 > We must remember that God's plan for development was in the original intention of the Creator for the Creation. God's plan was not for His creation to statically reflect His glory. Rather, the development of the creation was to further manifest the glory of God. To quote Bavinck again, "Man had to cultivate the earth so that it would more and more become a revelation of God's attributes" (Our Reasonable Faith, page 216, Herman Bavinck). There is no room for a romantic and rustic nostalgia that sets culture and society over against nature as God's good creation to man's bad development. All of man's social and cultural task was to the end that God's glorious character might more fully be revealed as His creation was opened up and society formed. Is there any truth that can give more dignity to man's calling?
 >
 > <a id="ga16-p469"></a>
-> <!-- PAGE ga=16 pdf_page=469 printed_page=null -->
+> <!-- PAGE ga=16 pdf_page=469 printed_page=467 printed_page_source=inferred -->
 >
 > # God's Purpose In Society
 >
@@ -109,7 +109,7 @@
 > We saw in our exposition of Genesis 1 that when man served God, he reflected God and also that he structured and formed a society and culture to reflect God. However, if man begins to serve an idol,
 >
 > <a id="ga16-p470"></a>
-> <!-- PAGE ga=16 pdf_page=470 printed_page=null -->
+> <!-- PAGE ga=16 pdf_page=470 printed_page=468 printed_page_source=inferred -->
 >
 > he will reflect and be transformed into the image of that idol. Further, the culture and society he develops will also reflect the god he serves.
 >
@@ -160,7 +160,7 @@
 > 1 Corinthians 6:9,10
 >
 > <a id="ga16-p471"></a>
-> <!-- PAGE ga=16 pdf_page=471 printed_page=null -->
+> <!-- PAGE ga=16 pdf_page=471 printed_page=469 printed_page_source=inferred -->
 >
 > Paul warns: "Do you not know that the wicked will not inherit the kingdom of God? Do not be
 > deceived: Neither the sexually immoral nor idolaters nor adulterers nor male prostitutes nor homosexual
@@ -235,7 +235,7 @@
 > according to the norms for marriage found in His Word to repentance and renewal in Jesus Christ.
 >
 > <a id="ga16-p472"></a>
-> <!-- PAGE ga=16 pdf_page=472 printed_page=null -->
+> <!-- PAGE ga=16 pdf_page=472 printed_page=470 printed_page_source=inferred -->
 >
 > The AIDS epidemic is not going to be stopped by legislation and education alone. It can only be checked as the renewing power of Jesus Christ restores the marriage relationship to its created and rightful place.
 >
@@ -272,7 +272,7 @@
 > The only possible foundation for fulfilling and meaningful sex -- a marriage relationship of love and faithfulness between husband and wife - cannot be taught. Technique and mechanics are taught under the pretense of scientific, rational neutrality. Children supposedly learn facts apart from values.
 >
 > <a id="ga16-p473"></a>
-> <!-- PAGE ga=16 pdf_page=473 printed_page=null -->
+> <!-- PAGE ga=16 pdf_page=473 printed_page=471 printed_page_source=inferred -->
 >
 > But since this is impossible, children learn these facts in the context of a humanistic world view. Homosexuality is presented as a legitimate option.
 >
@@ -307,7 +307,7 @@
 > In the case of AIDS, Christian strategy must not be limited to seeking more just legislation. But it must not ignore legislation either. Christians have a calling to pursue justice. This calling differs according to our gifts, situation, time, opportunities, etc. Each Christian must understand his/her calling to pursue justice. It may be as limited as voting for just candidates. It may be as involved as organizing and participating in political activism or running for office. In any case, the Christian must be concerned for justice, and the government is God's servant to maintain and promote a just order.
 >
 > <a id="ga16-p474"></a>
-> <!-- PAGE ga=16 pdf_page=474 printed_page=null -->
+> <!-- PAGE ga=16 pdf_page=474 printed_page=472 printed_page_source=inferred -->
 >
 > God calls all political authorities to pursue His justice and forsake a humanistic concept of justice. Those who have not must repent and seek justice. It is only as government again fulfills its God-given role to pursue justice that the AIDS epidemic will be stemmed.
 >
@@ -338,7 +338,7 @@
 > Consider the following facts reported by the Media Elite as we reflect on the accuracy of reporting on the AIDS issue. 85% of the journalism students questioned reported being political liberals. 46% reported no religion. 71% believe the structure of society causes alienation. 93% believe the government should not regulate sex in any way. 96% believe a woman has a right to an abortion. Only 18% believed homosexuality was wrong. Only 7% believed homosexuals ought not teach in public
 >
 > <a id="ga16-p475"></a>
-> <!-- PAGE ga=16 pdf_page=475 printed_page=null -->
+> <!-- PAGE ga=16 pdf_page=475 printed_page=473 printed_page_source=inferred -->
 >
 > schools. These are the journalists going into the world of the media to report the news in an unbiased manner! Do these statistics reflect the pluralistic viewpoints of our society?
 >
@@ -373,7 +373,7 @@
 > We have, in the first place, turned the institutional church into a resort where Christians retreat from the battle. The church is to be a "mobilization center and training ground" for God's people. Soldiers in battle need to be trained to do battle. Apart from the proper equipping they cannot effectively engage in combat. Further, Soldiers need a home base to be refreshed and encouraged so they may carry
 >
 > <a id="ga16-p476"></a>
-> <!-- PAGE ga=16 pdf_page=476 printed_page=null -->
+> <!-- PAGE ga=16 pdf_page=476 printed_page=474 printed_page_source=inferred -->
 >
 > on the battle. The church provides such a service for the spiritual warrior. They equip, encourage and refresh God's people by the teaching of the Word of God.
 >
@@ -404,7 +404,7 @@
 > We have touched on how marriage, family, education, the mass media and the institutional church have failed. Obviously this must be a sketch. It could not be exhaustive -- either in its consideration of all societal institutions nor in a thorough treatment of the ones considered. For example, business and the medical community should be considered in this issue.
 >
 > <a id="ga16-p477"></a>
-> <!-- PAGE ga=16 pdf_page=477 printed_page=null -->
+> <!-- PAGE ga=16 pdf_page=477 printed_page=475 printed_page_source=inferred -->
 >
 > But I do believe the sketch is sufficient for its purpose. We must see that the AIDS epidemic is a symptom of a sick society. All organs in the social organism have failed to some degree. Each must bear the responsibility and blame for their sin, repent and return to their calling. We cannot simplistically point at the homosexual and place all the blame on him. God's wrath is being revealed against all the godlessness and wickedness of man. North American culture has not seen it worthwhile to retain the knowledge of God and has instead suppressed the truth of God and replaced it with an idol. Therefore we have incurred God's wrath as a society.
 >
@@ -433,7 +433,7 @@
 > But this is taking a deistic view of things. Deism advocates a God who created the world like a watch. He created it with all its parts and left it to run independent of any further personal involvement, or at least minimal personal involvement. After all the watch might need to be fixed or even improved. In any case, it runs unattended according to ironclad impersonal laws established in the construction of the created order on the energy it was originally equipped with. So one violates the laws of creation, there is an impersonal backlash or recoiling on the offender.
 >
 > <a id="ga16-p478"></a>
-> <!-- PAGE ga=16 pdf_page=478 printed_page=null -->
+> <!-- PAGE ga=16 pdf_page=478 printed_page=476 printed_page_source=inferred -->
 >
 > But the Bible gives us a very different picture. "The Bible shows us a personalistic world, not impersonal law. What we call scientific law is an approximate human description of just how faithfully and consistently God acts in ruling the world by speaking. There is no mathematical, physical or theoretical "cosmic machinery" behind what we see and know, holding everything in place. Rather God rules and rules consistently." (Vern Poythress, *Symphonic Theology: The Validity of Multiple Perspectives in Theology.*)
 >
@@ -464,7 +464,7 @@
 > Individualism must be critiqued in the light of God's Word. God does not view individuals abstracted from their callings. I am a father, husband, citizen, elder etc. Further, these social institutions
 >
 > <a id="ga16-p479"></a>
-> <!-- PAGE ga=16 pdf_page=479 printed_page=null -->
+> <!-- PAGE ga=16 pdf_page=479 printed_page=477 printed_page_source=inferred -->
 >
 > are God’s creation with their own created integrity. Genesis 2 details for us the creation of the marriage
 > institution. In I Peter 2, Peter calls the state a KtLots (creation).
@@ -543,7 +543,7 @@
 > between God’s judgment and man’s actions.
 >
 > <a id="ga16-p480"></a>
-> <!-- PAGE ga=16 pdf_page=480 printed_page=null -->
+> <!-- PAGE ga=16 pdf_page=480 printed_page=478 printed_page_source=inferred -->
 >
 > John 9 is another helpful passage here. Jesus' disciples had been well trained in the current religious thinking of that time, that simplistically drew a direct link between God's judgment and man's actions. They ask Jesus in verse 2 "Rabbi, who sinned, this man or his parents, that he was born blind?" The very question evidences the only way the disciples could think. For there to be a tragedy of this proportion, someone must have sinned to bring down God's wrath. The only question was who was individually responsible, the parents or the man himself?
 >
@@ -570,7 +570,7 @@
 > This indictment of the homosexual is not a self-righteous slur. As has been shown the homosexual is a victim of a corrupt society as well as a responsible participant. The homosexual, like all other
 >
 > <a id="ga16-p481"></a>
-> <!-- PAGE ga=16 pdf_page=481 printed_page=null -->
+> <!-- PAGE ga=16 pdf_page=481 printed_page=479 printed_page_source=inferred -->
 >
 > members of society must be called to repentance where he has failed God in his calling. God's judgment of AIDS on a disobedient culture is a warning to the homosexual that God's judgment will fall on him in the last times if he does not repent.
 >
@@ -603,7 +603,7 @@
 > We noted earlier the dilemma of teaching sex education in a public school. Since the school is made up of different faith commitments who have differing conceptions of the nature of marriage, the school must seek to remain neutral. It must seek the lowest common denominator so that it does not discriminate or offend. The lowest common denominator under the guise of factuality and neutrality is
 >
 > <a id="ga16-p482"></a>
-> <!-- PAGE ga=16 pdf_page=482 printed_page=null -->
+> <!-- PAGE ga=16 pdf_page=482 printed_page=480 printed_page_source=inferred -->
 >
 > the mechanics and techniques of sex. Since one cannot discriminate against the homosexual, the techniques and mechanics of homosexual and all other perversions are taught. Under this guise of neutrality, the City of New York sexual education program teaches students to "identify and evaluate the choices involved in sexual expression." The choices range: abstinence, sexual fantasy, masturbation, hugging, kissing, petting, exploration, intercourse, nocturnal emission, homosexual preference, homosexual experience, gay, lesbian, bisexual, transvestite, transsexual!
 >
@@ -630,7 +630,7 @@
 > Some have criticized this saying that a good knowledge of contraceptives only serves to promote promiscuity. By the same token one could make the criticism against God's civil law that provision for legal divorce could serve to promote divorce. But a good knowledge of contraceptives does not logically lead to a pursuit of promiscuous sex. Often this is the case, but it does not have to be. It all depends on
 >
 > <a id="ga16-p483"></a>
-> <!-- PAGE ga=16 pdf_page=483 printed_page=null -->
+> <!-- PAGE ga=16 pdf_page=483 printed_page=481 printed_page_source=inferred -->
 >
 > the way and the context in which contraceptives are taught. If the detrimental consequences of bringing a child into the world were linked with a knowledge of contraceptives to be used in the marriage relationship, this kind of education would probably be most helpful.
 >
@@ -655,7 +655,7 @@
 > Closely tied to the safe sex question is the question of promoting condom use to curb the spread of AIDS. Koop supports the advertising of condoms in the mass media. Is this a legitimate route for striving against AIDS?
 >
 > <a id="ga16-p484"></a>
-> <!-- PAGE ga=16 pdf_page=484 printed_page=null -->
+> <!-- PAGE ga=16 pdf_page=484 printed_page=482 printed_page_source=inferred -->
 >
 > The role business is to play in God's creation is the manufacturing and distribution of goods to others. This is one way man may serve and love his neighbor. It would seem at first glance, that if condoms are a useful product and a product that would curb AIDS the distribution of such a good is a good thing.
 >
@@ -686,7 +686,7 @@
 > As usual, in our statist society, one of the first places we look for a solution is to the government for a legislative answer. Sadly, the state, because of its coercive power granted to it by God becomes the first place we look as a quick fix for our problem.
 >
 > <a id="ga16-p485"></a>
-> <!-- PAGE ga=16 pdf_page=485 printed_page=null -->
+> <!-- PAGE ga=16 pdf_page=485 printed_page=483 printed_page_source=inferred -->
 >
 > For example, anti-abortionist demonstrators have pinned excessive hope on government legislation to solve the problem. The state does have a role, in both the abortion issue and the AIDS issue because it must pursue justice. However, we must be warned that pinning all our hopes on the state is just a narrow sighted as pinning it all on education or condoms!
 >
@@ -717,7 +717,7 @@
 > The Christian conception of justice . . . is determined by the conception of God's order of creation. What corresponds to the Creator's ordinance is just -- to that ordinance which bestows on every creature, with its being, the law of its being and its relationship to other creatures. The "primal order" to which everyone refers in using the words
 >
 > <a id="ga16-p486"></a>
-> <!-- PAGE ga=16 pdf_page=486 printed_page=null -->
+> <!-- PAGE ga=16 pdf_page=486 printed_page=484 printed_page_source=inferred -->
 >
 > "just" and "unjust", the due which is rendered to each man, is the order of creation, which is the will of the Creator made manifest" (Emil Brunner, Justice and the Social Order, p. 89).
 >
@@ -746,7 +746,7 @@
 > The homosexual does recognize something genuinely creational when he understands he has a right to pursue his sexual calling and that the state must protect his freedom to do so. The state is not to judge
 >
 > <a id="ga16-p487"></a>
-> <!-- PAGE ga=16 pdf_page=487 printed_page=null -->
+> <!-- PAGE ga=16 pdf_page=487 printed_page=485 printed_page_source=inferred -->
 >
 > on the morals of sexuality and proclaim God's norms for sex. This is not within its scope of expertise and God-given authority. We would assert that the state has no right to limit the homosexual's freedom to practice homosexuality because he has defied God's norms for sex and has failed in his calling. All people violate God's norms for sex and fail in their sexual calling. It is not within the state's authority to step in and judge according to God's moral norms. We have argued above that public justice is the norm by which the state judges. Therefore, there must be an infringement, a conflict of public justice in homosexuality if the state is to act.
 >
@@ -771,7 +771,7 @@
 > This resolved their conflict. Government's power and authority was limited by the amount of power that was transferred to them by the citizens. The citizen's powers were defined and limited by these powers which they retained for themselves.
 >
 > <a id="ga16-p488"></a>
-> <!-- PAGE ga=16 pdf_page=488 printed_page=null -->
+> <!-- PAGE ga=16 pdf_page=488 printed_page=486 printed_page_source=inferred -->
 >
 > Modern Western philosophy of rights continues to be based on these original foundations. Now however, it is not God who originally granted those rights. Nevertheless, modern human rights notions spring from this idea of an abstract contract between individuals in a society and the governing authorities. This basis of human rights has led to numerous injustices in our culture. Let us note some of these.
 >
@@ -800,7 +800,7 @@
 > Conflicts can come between rights of an individual and rights of an institution to maintain their integrity as a certain kind of institution. Does the homosexual have a right to play the organ in an
 >
 > <a id="ga16-p489"></a>
-> <!-- PAGE ga=16 pdf_page=489 printed_page=null -->
+> <!-- PAGE ga=16 pdf_page=489 printed_page=487 printed_page_source=inferred -->
 >
 > evangelical church? This kind of battle is being waged all over. The way it has been dealt with (in Ontario at least) is by exempting certain institutions from discriminating. The Ontario Human Rights Code forbids discrimination in employment based on color, creed, religion, sex, age, etc. However the code excludes "religious, philanthropic, educational, fraternal and social organizations that are not operated for a private profit." Churches are allowed to "discriminate." They are a malfitting piece to the human rights puzzle. It is recognized that certain institutions like churches must discriminate on the basis of religion. This is allowed by way of an exception to the rule. It is not a matter of institutional rights to pursue their God-given calling in accordance with their created integrity.
 >
@@ -829,7 +829,7 @@
 > This problem could also be approached from the perspective of the first criteria offered. The right to freedom carries with it, the corresponding obligation to not endanger others with the way you use that
 >
 > <a id="ga16-p490"></a>
-> <!-- PAGE ga=16 pdf_page=490 printed_page=null -->
+> <!-- PAGE ga=16 pdf_page=490 printed_page=488 printed_page_source=inferred -->
 >
 > freedom. Is the public's right to life worth imposing the obligation of not endangering others through sexual activity or blood donation and even restricting his freedom if he does not comply? I think so.
 >
@@ -862,7 +862,7 @@
 > City officials will renew efforts to close gay bathhouses in an attempt to stop the spread of the fatal disease AIDS, Mayor Dianne Feinstein announced, "I am absolutely convinced that the public health -- not just of the people here but all over the world -- would be better served by closure of the bathhouses . . . The basic reason for bathhouses is to enable activity that results in the spread of the AIDS disease. It is hard to understand how people can have the right to spread a disease that is 100% fatal" (Los Angeles Time, November 10, 1985, Part I, page 30).
 >
 > <a id="ga16-p491"></a>
-> <!-- PAGE ga=16 pdf_page=491 printed_page=null -->
+> <!-- PAGE ga=16 pdf_page=491 printed_page=489 printed_page_source=inferred -->
 >
 > What about the final criterion? The last quote already touched on that. If the bathhouses are closed it affects few people in a minor way. On the other hand it protects many in a more important way. This criteria lines up with the others. Based on these three considerations it seems to be just to close homosexual bathhouses.
 >
@@ -895,7 +895,7 @@
 > First, they must pursue a cure for AIDS. Right now the prospects for a cure in the immediate future appears dim. This is due to at least three things.
 >
 > <a id="ga16-p492"></a>
-> <!-- PAGE ga=16 pdf_page=492 printed_page=null -->
+> <!-- PAGE ga=16 pdf_page=492 printed_page=490 printed_page_source=inferred -->
 >
 > 1. The AIDS virus has a tremendous capacity to mutate, that is modify and change its genetic structure. There are at least 18 and possibly as many as 100 different variants of the AIDS virus.
 > 2. The AIDS virus is a lentivirus (slow-acting virus). Lentiviruses have proved to be immune to treatment in the past.
@@ -926,7 +926,7 @@
 > The church does not only exist as an institution in society but also as the people of God, the new creation. We are united to one another in Jesus Christ. Each individual Christian has a responsibility to be salt and light in his/her community. We all have different callings. We are responsible to be salt in a world rotted by sin and light in a world shrouded in darkness in our diverse callings. The Christian
 >
 > <a id="ga16-p493"></a>
-> <!-- PAGE ga=16 pdf_page=493 printed_page=null -->
+> <!-- PAGE ga=16 pdf_page=493 printed_page=491 printed_page_source=inferred -->
 >
 > doctor is salt and light as he takes up his responsibility in the light of God's Word always fusing word with deed. The Christian teacher is salt and light as he takes up his responsibility in the light of God's Word again fusing word and deed. Each of these callings, with respect to the AIDS issue will have a different responsibility.
 >
@@ -955,7 +955,7 @@
 > cannot be silent where she sees men in bondage and slavery, spiritual, social, economical by their own sins, by the sins of other men, by the political system, by the materialistic structure of society, [we might add by the sexual revolution of our society], in short, by all the sinful and harmful powers which rule the world by the grace of Satan and by the harmful powers which rule the world by the grace of Satan and by the guilt of man. Here is at stake the obedience of the church to the infallible Word of God, to the opening of the gospel of the kingdom by the Word of Jesus. "The Spirit of the Lord is upon Me, because He has annointed Me to preach good news to
 >
 > <a id="ga16-p494"></a>
-> <!-- PAGE ga=16 pdf_page=494 printed_page=null -->
+> <!-- PAGE ga=16 pdf_page=494 printed_page=492 printed_page_source=inferred -->
 >
 > the poor. He has sent me to proclaim release to the captives and recovery of sight to the blind, to set at liberty those who are oppressed, to proclaim the acceptable year of the Lord" (Luke 4:18,19) (Herman Ridderbos, Church, World, Kingdom)
 >
@@ -986,7 +986,7 @@
 > The practical application of charity was probably the most potent single cause of Christian success. The pagan comment "See how these Christians love one another" (reported by Tertullian) was not irony. Christian charity expressed itself in care for the poor, for widows and orphans, in visits to brethren in prison or condemned to living
 >
 > <a id="ga16-p495"></a>
-> <!-- PAGE ga=16 pdf_page=495 printed_page=null -->
+> <!-- PAGE ga=16 pdf_page=495 printed_page=493 printed_page_source=inferred -->
 >
 > death in the mines, and in social action in time of calamity like famines, earthquakes, pestilence, or war. (The Early Church, p. 56).
 >
@@ -1011,7 +1011,7 @@
 > This can be done in the preaching and teaching ministry of the church at a local church level. It can be done by making statements within a denomination at presbytery or General Assembly levels to guide the people within a denomination. But it also can be done more ecumenically. Ministers in a local evangelical ministerium can prepare statements to guide their members on important issues. Surely the pooling of gifts in a ministerium can provide guidance for all the churches.
 >
 > <a id="ga16-p496"></a>
-> <!-- PAGE ga=16 pdf_page=496 printed_page=null -->
+> <!-- PAGE ga=16 pdf_page=496 printed_page=494 printed_page_source=inferred -->
 >
 > But in any case, God’s Word must be made to be a light on our path, not a light pointing up into the darkness where no one is walking!
 >
@@ -1042,7 +1042,7 @@
 > There will be no more sorrow, pain, disease or sin. There will be no more AIDS. Again all things will serve Him with the shalom of the original creation. However, when he comes will he find faith on the earth? (Luke 18:8)
 >
 > <a id="ga16-p497"></a>
-> <!-- PAGE ga=16 pdf_page=497 printed_page=null -->
+> <!-- PAGE ga=16 pdf_page=497 printed_page=495 printed_page_source=inferred -->
 >
 > # PART II -- A SUMMARY OF BIBLICAL REFERENCES, FACTS AND SUGGESTIONS CONCERNING AIDS
 >
@@ -1077,7 +1077,7 @@
 > Leviticus 20:10-13 -- "If a man commits adultery with another man's wife -- with the wife of his neighbor -- both the adulterer and the adulteress must be put to death. If a man sleeps with his father's
 >
 > <a id="ga16-p498"></a>
-> <!-- PAGE ga=16 pdf_page=498 printed_page=null -->
+> <!-- PAGE ga=16 pdf_page=498 printed_page=496 printed_page_source=inferred -->
 >
 > wife, he has dishonored his father. Both the man and the woman must be put to death; their blood will be on their own heads. If a man sleeps with his daughter-in-law, both of them must be put to death. What they have done is a perversion; their blood will be on their own heads. If a man lies with a man as one lies with a woman, both of them have done what is detestable. They must be put to death; their blood will be on their own heads."
 >
@@ -1106,7 +1106,7 @@
 > Ephesians 2:8-10 -- "For it is by grace you have been saved, through faith -- and this not from yourselves, it is the gift of God -- not by works, so that no one can boast, For we are God's workmanship, created in Christ Jesus to do good works, which God prepared in advance for us to do."
 >
 > <a id="ga16-p499"></a>
-> <!-- PAGE ga=16 pdf_page=499 printed_page=null -->
+> <!-- PAGE ga=16 pdf_page=499 printed_page=497 printed_page_source=inferred -->
 >
 > # WHAT IS AIDS?
 >
@@ -1138,7 +1138,7 @@
 > - **b.** Many of those found to be positive for HIV antibody would be fired from their jobs.
 >
 > <a id="ga16-p500"></a>
-> <!-- PAGE ga=16 pdf_page=500 printed_page=null -->
+> <!-- PAGE ga=16 pdf_page=500 printed_page=498 printed_page_source=inferred -->
 >
 > - **c.** It's more important for people to take precautions to avoid transmitting HIV than to know whether or not they're infected.
 > - **d.** Discovering that one is infected with HIV may be psychologically shattering.
@@ -1171,7 +1171,7 @@
 > From the homosexuals the disease has spread to drug addicts, to the blood banks, to hemophiliacs, to prostitutes, to those who have sexual intercourse with members of these groups, and to their children, both those born after their mothers became infected and, in some cases, those infected via breast milk. In surveys, nearly half of the
 >
 > <a id="ga16-p501"></a>
-> <!-- PAGE ga=16 pdf_page=501 printed_page=null -->
+> <!-- PAGE ga=16 pdf_page=501 printed_page=499 printed_page_source=inferred -->
 >
 > population admits to being unfaithful. Since we know that the virus is spread by normal, vaginal, heterosexual intercourse, the population now at risk is enormous. In this country the figures from the CDC show clearly that heterosexual infection is now increasing at the same rate as did homosexual infection in the early days of the disease.
 >
@@ -1200,7 +1200,7 @@
 > ¹ Power In the Blood, David Chilton, Wolgemuth &amp; Hyatt, Brentwood, TN 1986.
 >
 > <a id="ga16-p502"></a>
-> <!-- PAGE ga=16 pdf_page=502 printed_page=null -->
+> <!-- PAGE ga=16 pdf_page=502 printed_page=500 printed_page_source=inferred -->
 >
 > issue only at a distance. Any real interaction with the issue and the people involved has been, at best, minimal. In light of this and because AIDS is a highly emotional issue, due in part to the social, moral, and medical stigma attached, it would be expedient for church leaders to begin developing a philosophy of ministry to all concerned BEFORE they are actually faced with the task of ministry.
 >
@@ -1228,7 +1228,7 @@
 > ³ "Counseling Clients with AIDS", Richard Price, Journal of Counseling and Development, Oct. 1986, p. 96.
 >
 > <a id="ga16-p503"></a>
-> <!-- PAGE ga=16 pdf_page=503 printed_page=null -->
+> <!-- PAGE ga=16 pdf_page=503 printed_page=501 printed_page_source=inferred -->
 >
 > feelings and be internalized. Depression may result, not only over the present situation, but in view of impending death and never-to-be realized hopes and dreams.
 >
@@ -1255,7 +1255,7 @@
 > 4 Menz, op. cit. p. 16.
 >
 > <a id="ga16-p504"></a>
-> <!-- PAGE ga=16 pdf_page=504 printed_page=null -->
+> <!-- PAGE ga=16 pdf_page=504 printed_page=502 printed_page_source=inferred -->
 >
 > The insurance industry is alarmed by the AIDS problem, too. One company, The Presbyterian Minister’s Fund, has notified its clients and future applicants of the following policy --
 >
@@ -1287,7 +1287,7 @@
 > As you can see with these limited statistics and projections the economics of AIDS has a potentially devastating effect globally.
 >
 > <a id="ga16-p505"></a>
-> <!-- PAGE ga=16 pdf_page=505 printed_page=null -->
+> <!-- PAGE ga=16 pdf_page=505 printed_page=503 printed_page_source=inferred -->
 >
 > # THE LEGISLATIVE AND LEGAL RAMIFICATIONS OF AIDS
 >
@@ -1346,7 +1346,7 @@
 > The AIDS Cover Up? Gene Antonio, Ignatius Press, San Francisco, California, 1987.
 >
 > <a id="ga16-p506"></a>
-> <!-- PAGE ga=16 pdf_page=506 printed_page=null -->
+> <!-- PAGE ga=16 pdf_page=506 printed_page=504 printed_page_source=inferred -->
 >
 > ## What one church is doing
 > ## Providence Church of Ascension Presbytery
@@ -1365,7 +1365,7 @@
 > ☐ I do not know my blood type.
 >
 > <a id="ga16-p507"></a>
-> <!-- PAGE ga=16 pdf_page=507 printed_page=null -->
+> <!-- PAGE ga=16 pdf_page=507 printed_page=505 printed_page_source=inferred -->
 >
 > # WHAT CAN WE DO? -- (SUGGESTIONS)
 >
@@ -1405,7 +1405,7 @@
 > Rev. Paul Zetterholm
 >
 > <a id="ga16-p508"></a>
-> <!-- PAGE ga=16 pdf_page=508 printed_page=null -->
+> <!-- PAGE ga=16 pdf_page=508 printed_page=506 printed_page_source=inferred -->
 
 ---
 

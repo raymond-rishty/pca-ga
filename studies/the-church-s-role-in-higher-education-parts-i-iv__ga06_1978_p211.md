@@ -59,7 +59,7 @@
 > Every area of life must be seen through the eyes of the Word of God.
 >
 > <a id="ga06-p212"></a>
-> <!-- PAGE ga=6 pdf_page=212 printed_page=null -->
+> <!-- PAGE ga=6 pdf_page=212 printed_page=210 printed_page_source=inferred -->
 >
 > The system developed in Geneva led to the establishment of the College of Geneva. Educa
 > tion was compulsory. Ordinarily, people were fined for not sending their children to school. Much
@@ -128,7 +128,7 @@
 > economically responsible.
 >
 > <a id="ga06-p213"></a>
-> <!-- PAGE ga=6 pdf_page=213 printed_page=null -->
+> <!-- PAGE ga=6 pdf_page=213 printed_page=211 printed_page_source=inferred -->
 >
 > But if the church becomes involved in parochial education does that mean that she has in
 > vaded the parent's realm and has done what the government, today, is doing in its public (govern
@@ -199,7 +199,7 @@
 > firmly against state encroachment and compromise of that God-given parental authority and
 >
 > <a id="ga06-p214"></a>
-> <!-- PAGE ga=6 pdf_page=214 printed_page=null -->
+> <!-- PAGE ga=6 pdf_page=214 printed_page=212 printed_page_source=inferred -->
 >
 > responsibility. We must remember that state controlled public education is comparatively recent
 > (since early 1800’s) and parental authority over children s education has been an accepted princi
@@ -269,7 +269,7 @@
 > sound societal relationships in business, home, school, and state. To accomplish these ends.
 >
 > <a id="ga06-p215"></a>
-> <!-- PAGE ga=6 pdf_page=215 printed_page=null -->
+> <!-- PAGE ga=6 pdf_page=215 printed_page=213 printed_page_source=inferred -->
 >
 > Covenant bases its academic program on the Bible, the written Word of God.
 > Other materials produced by the College stress the same emphasis.
@@ -341,7 +341,7 @@
 > constant for purposes of calculation until such times as the PCA contributes $5,000,000, the
 >
 > <a id="ga06-p216"></a>
-> <!-- PAGE ga=6 pdf_page=216 printed_page=null -->
+> <!-- PAGE ga=6 pdf_page=216 printed_page=214 printed_page_source=inferred -->
 >
 > money received from dissolution would be divided pro-rata in accordance with how much the
 > PCA has contributed in relationship to the RPCES "asset base." After the PCA has contributed

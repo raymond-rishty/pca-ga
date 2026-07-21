@@ -27,7 +27,7 @@
 > approved methods of theological training.
 >
 > <a id="ga06-p217"></a>
-> <!-- PAGE ga=6 pdf_page=217 printed_page=null -->
+> <!-- PAGE ga=6 pdf_page=217 printed_page=215 printed_page_source=inferred -->
 >
 > The following is the proposed uniform curriculum for theological education of PCA
 > ministerial candidates.
@@ -96,7 +96,7 @@
 > the Mount, etc.)
 >
 > <a id="ga06-p218"></a>
-> <!-- PAGE ga=6 pdf_page=218 printed_page=null -->
+> <!-- PAGE ga=6 pdf_page=218 printed_page=216 printed_page_source=inferred -->
 >
 > GOAL: 1) To obtain a knowledge of, commitment to, and proficiency in communicating the
 > Reformed Faith (including such distinctives as the inerrancy of Scripture, the Sovereignty of
@@ -164,7 +164,7 @@
 > ministries, and the developing of spiritual gifts within the church.
 >
 > <a id="ga06-p219"></a>
-> <!-- PAGE ga=6 pdf_page=219 printed_page=null -->
+> <!-- PAGE ga=6 pdf_page=219 printed_page=217 printed_page_source=inferred -->
 >
 > VII. Pastoral Administration
 > A. Theology of Administration

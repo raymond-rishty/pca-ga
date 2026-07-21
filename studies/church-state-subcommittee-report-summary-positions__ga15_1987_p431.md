@@ -47,7 +47,7 @@
 > Attorney at Law, Montgomery, Alabama
 >
 > <a id="ga15-p432"></a>
-> <!-- PAGE ga=15 pdf_page=432 printed_page=null -->
+> <!-- PAGE ga=15 pdf_page=432 printed_page=430 printed_page_source=inferred -->
 >
 > SUMMARY POSITIONS
 >
@@ -108,7 +108,7 @@
 > clothing children, as well as educating them. Parents are held accountable by God for the education of
 >
 > <a id="ga15-p433"></a>
-> <!-- PAGE ga=15 pdf_page=433 printed_page=null -->
+> <!-- PAGE ga=15 pdf_page=433 printed_page=431 printed_page_source=inferred -->
 >
 > their children and Christian parents must make certain that their children obtain an education that is
 > consistent with God’s revelation of Himself in the Bible. Education must be grounded in truth!

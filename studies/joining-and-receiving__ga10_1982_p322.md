@@ -45,7 +45,7 @@
 > 7. That all records of RPCES Committees and Boards be deposited at Covenant Seminary until such time as permanent arrangements can be made;
 >
 > <a id="ga10-p323"></a>
-> <!-- PAGE ga=10 pdf_page=323 printed_page=null -->
+> <!-- PAGE ga=10 pdf_page=323 printed_page=321 printed_page_source=inferred -->
 >
 > 8. That the A d-Interim committee on joining and r eceiving...be dismissed, and all continuing
 > matters related to fraternal relations with other denominations be referred to the Permanent Committee
@@ -98,7 +98,7 @@
 > (19 votes required for approval)
 >
 > <a id="ga10-p324"></a>
-> <!-- PAGE ga=10 pdf_page=324 printed_page=null -->
+> <!-- PAGE ga=10 pdf_page=324 printed_page=322 printed_page_source=inferred -->
 >
 > REPORT OF THE STATED CLERK
 > ON THE
@@ -154,7 +154,7 @@
 > Louisiana - no see overture
 >
 > <a id="ga10-p325"></a>
-> <!-- PAGE ga=10 pdf_page=325 printed_page=null -->
+> <!-- PAGE ga=10 pdf_page=325 printed_page=323 printed_page_source=inferred -->
 >
 > Mid Atlantic - approved - see overture
 > Mississippi Valley - approved
