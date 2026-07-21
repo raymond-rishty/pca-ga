@@ -70,9 +70,11 @@ jobs:
           test -s _site/assets/constitution/standards/wlc.json
           test -s _site/assets/constitution/standards/wsc.json
           test -s _site/assets/constitution/packs/rao.json
+          test -s _site/assets/minutes-pages.json
           grep -R -q 'data-bco-ref=' _site
           grep -R -q 'class="constitution-ref"' _site
           grep -R -q 'data-constitution-book="rao"' _site
+          grep -R -q 'class="minutes-ref"' _site
       - uses: actions/upload-pages-artifact@v3
         with:
           path: _site
