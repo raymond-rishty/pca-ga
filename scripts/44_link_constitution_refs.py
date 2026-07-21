@@ -72,11 +72,13 @@ CATECHISM_CANON_RE = re.compile(r"(?:Q\.?\s*)?(\d{1,3})", re.IGNORECASE)
 RAO_CANON_RE = re.compile(rf"(\d{{1,2}})(?:\s*{RAO_SECTION_SEP}\s*(\d{{1,2}}))?", re.IGNORECASE)
 
 # Minutes citations are deliberately narrower than the loose formats accepted by
-# the research indexes.  A link should only be made when it names both a volume
-# and a single printed page; ranges and bare volume references remain plain text.
+# the research indexes. A link is made only when it names both a volume and a
+# verified opening printed page. Page ranges retain their complete visible text
+# but resolve to that opening page; bare volume references remain plain text.
 MINUTES_CITATION_RE = re.compile(
     r"\bM\s*(?P<ga>\d{1,2})\s*GA\s*,?\s*"
-    r"(?:p(?:age)?\.?\s*)(?P<page>\d{1,4})\b",
+    r"(?:p{1,2}\.?|pages?\.?)\s*(?P<page>\d{1,4})"
+    rf"(?:\s*{DASH}\s*\d{{1,4}})?\b",
     re.IGNORECASE,
 )
 MINUTES_PAGE_RE = re.compile(
@@ -746,7 +748,7 @@ def self_test() -> None:
         '<p>“RAO” 16:3; RAO § 14-10-D-2; RAO 14.4.C.2; RAO XVIII.</p>'
         '<p><em>RAO</em> 16-3.e.5</p>'
         '<p>See M14GA p. 330 for the original action.</p>'
-        '<p>M14GA p. 331 remains plain text when no printed folio is available.</p>'
+        '<p>M14GA pp. 330–332 cites a range from the same opening folio.</p><p>M14GA p. 331 remains plain text when no printed folio is available.</p>'
         '<a href="#">BCO 25-5</a><code>BCO 25-5</code>'
         '</article></body></html>'
     )
@@ -756,7 +758,7 @@ def self_test() -> None:
     linker = ConstitutionLinker(bco_refs, standard_refs, rao_refs, minutes_refs, "test.html")
     linker.feed(normalize_inline_citation_prefixes(sample))
     rendered = "".join(linker.output)
-    assert linker.link_count == 17
+    assert linker.link_count == 18
     assert 'data-bco-ref="5-9"' in rendered
     assert 'data-bco-ref="8-4"' in rendered
     assert f'{READER_BASE}#bco/5-9' in rendered
@@ -776,6 +778,7 @@ def self_test() -> None:
     assert '<code>BCO 25-5</code>' in rendered
     assert 'class="minutes-ref" href="markdown/ga14_1986.html#ga14-p330"' in rendered
     assert 'data-minutes-ga="14" data-minutes-page="330"' in rendered
+    assert '>M14GA pp. 330–332</a>' in rendered
     assert 'M14GA p. 331 remains plain text' in rendered
     assert 'data-minutes-page="331"' not in rendered
     assert minutes_href(
