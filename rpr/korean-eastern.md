@@ -2,7 +2,7 @@
 
 *127 threaded exception(s) of substance across GA19–52 (1991–2025). Each row links to the full exception with its year-by-year text.*
 
-> **⚖️ Cited to the Standing Judicial Commission (BCO 40-5)** at the 45th GA (2017).  Related case(s): [In re Korean Eastern Presbytery (2017-10)](../cases/ga46_2018__2017-10.md)
+> **⚖️ Cited to the Standing Judicial Commission (BCO 40-5)** at the [45th GA (2017)](../markdown/ga45_2017.md#ga45-p368).  Related case(s): [In re Korean Eastern Presbytery (2017-10)](../cases/ga46_2018__2017-10.md)
 
 | First raised | Provision(s) | Exception | Lifecycle | Final disposition |
 |---|---|---|---|---|
