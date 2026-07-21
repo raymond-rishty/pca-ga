@@ -23,8 +23,10 @@ import argparse
 import hashlib
 import html
 import json
+import posixpath
 import re
 import sys
+import tempfile
 from collections import Counter
 from html.parser import HTMLParser
 from pathlib import Path
@@ -68,6 +70,21 @@ BCO_CANON_RE = re.compile(rf"(\d{{1,2}})\s*{DASH}\s*(\d{{1,2}})", re.IGNORECASE)
 WCF_CANON_RE = re.compile(rf"(\d{{1,2}})\s*(?:\.|{DASH})\s*(\d{{1,2}})", re.IGNORECASE)
 CATECHISM_CANON_RE = re.compile(r"(?:Q\.?\s*)?(\d{1,3})", re.IGNORECASE)
 RAO_CANON_RE = re.compile(rf"(\d{{1,2}})(?:\s*{RAO_SECTION_SEP}\s*(\d{{1,2}}))?", re.IGNORECASE)
+
+# Minutes citations are deliberately narrower than the loose formats accepted by
+# the research indexes.  A link should only be made when it names both a volume
+# and a single printed page; ranges and bare volume references remain plain text.
+MINUTES_CITATION_RE = re.compile(
+    r"\bM\s*(?P<ga>\d{1,2})\s*GA\s*,?\s*"
+    r"(?:p(?:age)?\.?\s*)(?P<page>\d{1,4})\b",
+    re.IGNORECASE,
+)
+MINUTES_PAGE_RE = re.compile(
+    r'<a\s+id=["\'](?P<anchor>ga(?P<anchor_ga>\d+)-p[^"\']+)["\']></a>\s*'
+    r'<!--\s*PAGE\s+ga=(?P<ga>\d+)\s+pdf_page=(?P<pdf_page>\d+)\s+'
+    r'printed_page=(?P<printed_page>\d+)\s*-->',
+    re.IGNORECASE,
+)
 
 EXCLUDED_TAGS = {"a", "code", "pre", "script", "style", "textarea", "noscript"}
 VOID_TAGS = {
@@ -186,6 +203,88 @@ def citation_book(prefix: str) -> str:
     if compact in {"rao", "rulesofassemblyoperation", "rulesofassemblyoperations"}:
         return "rao"
     return compact
+
+
+def build_minutes_page_index(
+    site_dir: Path,
+) -> tuple[dict[str, dict[str, dict[str, str]]], dict[str, Any]]:
+    """Index printed-page anchors in rendered minute volumes.
+
+    The minutes themselves remain the source of truth.  This compact build
+    artifact records only reliable, detected printed folios and the rendered
+    anchor that represents each one.  It is used for citations now and gives a
+    future in-page reader a stable page locator without guessing PDF offsets.
+    """
+    refs: dict[str, dict[str, dict[str, str]]] = {}
+    volumes: dict[str, dict[str, Any]] = {}
+
+    for path in sorted((site_dir / "markdown").glob("ga*_*.html")):
+        rel_path = path.relative_to(site_dir).as_posix()
+        for match in MINUTES_PAGE_RE.finditer(path.read_text(encoding="utf-8")):
+            ga = str(int(match.group("ga")))
+            printed_page = str(int(match.group("printed_page")))
+            if ga != str(int(match.group("anchor_ga"))):
+                continue
+
+            entry = {
+                "path": rel_path,
+                "anchor": match.group("anchor"),
+                "pdf_page": match.group("pdf_page"),
+            }
+            # A volume's printed folio is expected to be unique.  Keep the
+            # first occurrence if a malformed source duplicates it.
+            refs.setdefault(ga, {}).setdefault(printed_page, entry)
+            volume = volumes.setdefault(ga, {"source": rel_path, "pages": {}})
+            volume["pages"].setdefault(printed_page, {
+                "anchor": entry["anchor"],
+                "pdf_page": int(entry["pdf_page"]),
+            })
+
+    payload = {
+        "version": 1,
+        "source": "rendered markdown minute volumes",
+        "volumes": volumes,
+    }
+    return refs, payload
+
+
+def minutes_href(file_name: str, target: dict[str, str]) -> str:
+    """Return a site-relative deep link from one rendered page to a minute page."""
+    source_dir = posixpath.dirname(file_name) or "."
+    target_path = posixpath.relpath(target["path"], start=source_dir)
+    return f"{target_path}#{target['anchor']}"
+
+
+def linkify_minutes_text(
+    text: str,
+    minutes_refs: dict[str, dict[str, dict[str, str]]],
+    file_name: str,
+) -> tuple[str, int]:
+    if not MINUTES_CITATION_RE.search(text):
+        return text, 0
+
+    pieces: list[str] = []
+    cursor = 0
+    linked = 0
+    for match in MINUTES_CITATION_RE.finditer(text):
+        pieces.append(text[cursor:match.start()])
+        ga = str(int(match.group("ga")))
+        page = str(int(match.group("page")))
+        target = minutes_refs.get(ga, {}).get(page)
+        label = match.group(0)
+        if target:
+            href = minutes_href(file_name, target)
+            pieces.append(
+                f'<a class="minutes-ref" href="{html.escape(href, quote=True)}" '
+                f'data-minutes-ga="{ga}" data-minutes-page="{page}" '
+                f'title="Open M{ga}GA printed page {page} in the minutes">{label}</a>'
+            )
+            linked += 1
+        else:
+            pieces.append(label)
+        cursor = match.end()
+    pieces.append(text[cursor:])
+    return "".join(pieces), linked
 
 
 def build_standard_refs(
@@ -455,12 +554,14 @@ class ConstitutionLinker(HTMLParser):
         bco_refs: dict[str, dict[str, str]],
         standard_refs: dict[str, set[str]],
         rao_refs: dict[str, dict[str, str]],
+        minutes_refs: dict[str, dict[str, dict[str, str]]],
         file_name: str,
     ) -> None:
         super().__init__(convert_charrefs=False)
         self.bco_refs = bco_refs
         self.standard_refs = standard_refs
         self.rao_refs = rao_refs
+        self.minutes_refs = minutes_refs
         self.file_name = file_name
         self.output: list[str] = []
         self.stack: list[dict[str, Any]] = []
@@ -506,8 +607,13 @@ class ConstitutionLinker(HTMLParser):
     def handle_data(self, data: str) -> None:
         state = self.state()
         if state["reading"] and not state["skip"]:
-            linked, count = linkify_text(
+            linked_minutes, minutes_count = linkify_minutes_text(
                 data,
+                self.minutes_refs,
+                self.file_name,
+            )
+            linked, count = linkify_text(
+                linked_minutes,
                 self.bco_refs,
                 self.standard_refs,
                 self.rao_refs,
@@ -515,7 +621,7 @@ class ConstitutionLinker(HTMLParser):
                 self.file_name,
             )
             self.output.append(linked)
-            self.link_count += count
+            self.link_count += count + minutes_count
         else:
             self.output.append(data)
 
@@ -576,15 +682,17 @@ def process_html(
     bco_refs: dict[str, dict[str, str]],
     standard_refs: dict[str, set[str]],
     rao_refs: dict[str, dict[str, str]],
+    minutes_refs: dict[str, dict[str, dict[str, str]]],
 ) -> tuple[int, list[dict[str, str]]]:
     source = normalize_inline_citation_prefixes(path.read_text(encoding="utf-8"))
-    if not PREFIX_RE.search(source):
+    if not PREFIX_RE.search(source) and not MINUTES_CITATION_RE.search(source):
         return 0, []
 
     linker = ConstitutionLinker(
         bco_refs,
         standard_refs,
         rao_refs,
+        minutes_refs,
         path.relative_to(site_dir).as_posix(),
     )
     linker.feed(source)
@@ -637,13 +745,18 @@ def self_test() -> None:
         '<p>WCF 3-3, 8-5 and 11-4; WLC 166B; WSC 95B; WCF 28.4; RAO 16-3.e.5 and RAO 20.</p>'
         '<p>“RAO” 16:3; RAO § 14-10-D-2; RAO 14.4.C.2; RAO XVIII.</p>'
         '<p><em>RAO</em> 16-3.e.5</p>'
+        '<p>See M14GA p. 330 for the original action.</p>'
+        '<p>M14GA p. 331 remains plain text when no printed folio is available.</p>'
         '<a href="#">BCO 25-5</a><code>BCO 25-5</code>'
         '</article></body></html>'
     )
-    linker = ConstitutionLinker(bco_refs, standard_refs, rao_refs, "test.html")
+    minutes_refs = {
+        "14": {"330": {"path": "markdown/ga14_1986.html", "anchor": "ga14-p330", "pdf_page": "332"}}
+    }
+    linker = ConstitutionLinker(bco_refs, standard_refs, rao_refs, minutes_refs, "test.html")
     linker.feed(normalize_inline_citation_prefixes(sample))
     rendered = "".join(linker.output)
-    assert linker.link_count == 16
+    assert linker.link_count == 17
     assert 'data-bco-ref="5-9"' in rendered
     assert 'data-bco-ref="8-4"' in rendered
     assert f'{READER_BASE}#bco/5-9' in rendered
@@ -661,6 +774,25 @@ def self_test() -> None:
     assert '>WLC 166B</a>' in rendered
     assert '<a href="#">BCO 25-5</a>' in rendered
     assert '<code>BCO 25-5</code>' in rendered
+    assert 'class="minutes-ref" href="markdown/ga14_1986.html#ga14-p330"' in rendered
+    assert 'data-minutes-ga="14" data-minutes-page="330"' in rendered
+    assert 'M14GA p. 331 remains plain text' in rendered
+    assert 'data-minutes-page="331"' not in rendered
+    assert minutes_href(
+        "cases/example.html", minutes_refs["14"]["330"]
+    ) == "../markdown/ga14_1986.html#ga14-p330"
+
+    with tempfile.TemporaryDirectory() as temp:
+        site_dir = Path(temp)
+        minute_dir = site_dir / "markdown"
+        minute_dir.mkdir()
+        (minute_dir / "ga14_1986.html").write_text(
+            '<a id="ga14-p330"></a><!-- PAGE ga=14 pdf_page=332 printed_page=330 -->',
+            encoding="utf-8",
+        )
+        indexed_refs, payload = build_minutes_page_index(site_dir)
+        assert indexed_refs["14"]["330"]["anchor"] == "ga14-p330"
+        assert payload["volumes"]["14"]["pages"]["330"]["pdf_page"] == 332
 
 
 def main() -> int:
@@ -695,13 +827,20 @@ def main() -> int:
     bco_refs = build_reference_data(bco, data_dir, digest)
     build_standard_preview_data(wcf, wlc, wsc, data_dir)
     rao_refs = build_rao_preview_data(rao, data_dir)
+    minutes_refs, minutes_payload = build_minutes_page_index(args.site_dir)
+    (args.site_dir / "assets" / "minutes-pages.json").write_text(
+        json.dumps(minutes_payload, ensure_ascii=False, separators=(",", ":")),
+        encoding="utf-8",
+    )
 
     total_links = 0
     changed_files = 0
     unresolved: list[dict[str, str]] = []
 
     for path in sorted(args.site_dir.rglob("*.html")):
-        linked, missing = process_html(path, args.site_dir, bco_refs, standard_refs, rao_refs)
+        linked, missing = process_html(
+            path, args.site_dir, bco_refs, standard_refs, rao_refs, minutes_refs
+        )
         total_links += linked
         unresolved.extend(missing)
         if linked:
@@ -727,11 +866,12 @@ def main() -> int:
     )
 
     print(
-        f"Constitution references: linked {total_links} citations "
+        f"References: linked {total_links} citations "
         f"across {changed_files} HTML files; "
         f"{len(bco_refs)} current BCO sections and "
         f"{sum(len(refs) for refs in standard_refs.values())} Westminster provisions available; "
         f"{len(rao_refs)} current RAO provisions available; "
+        f"{sum(len(pages) for pages in minutes_refs.values())} printed minute pages available; "
         f"{len(unresolved)} unresolved candidates."
     )
     if total_links == 0:
