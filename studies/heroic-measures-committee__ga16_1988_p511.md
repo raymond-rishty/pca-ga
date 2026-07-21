@@ -125,7 +125,7 @@
 > except in so far as the broader theological framework of the Bible has a direct bearing on the issues of
 >
 > <a id="ga16-p512"></a>
-> <!-- PAGE ga=16 pdf_page=512 printed_page=null -->
+> <!-- PAGE ga=16 pdf_page=512 printed_page=510 printed_page_source=inferred -->
 >
 > physical life and physical death. It is the latter with which we are concerned in addressing the question of the appropriateness or inappropriateness of "heroic measures" in the practice of medicine.
 >
@@ -150,7 +150,7 @@
 > The thing to notice is that Paul's longing for that "far better" estate did not undercut the value and significance of the present life. For Paul to live on in the flesh meant "fruitful labor" for him, and he regarded it "more necessary" for his fellow Christians for him to continue his earthly ministry. So he concludes, "I know that I shall remain and continue with you all for your progress and joy in the faith." (vs. 25). This passage, which, perhaps more than any other, presents the relative desirability of being with Christ in heaven, nevertheless regards the present life on earth as something to be lived to the full extent granted by God for fruitful labor in the service of others.
 >
 > <a id="ga16-p513"></a>
-> <!-- PAGE ga=16 pdf_page=513 printed_page=null -->
+> <!-- PAGE ga=16 pdf_page=513 printed_page=511 printed_page_source=inferred -->
 >
 > A second principle is that life is not be abandoned simply on account of suffering. Endurance as well as service finds its place among the purposes which God has for our lives in which He is glorified. This task is vividly set before us in Jesus' words to Peter following his resurrection.
 >
@@ -175,7 +175,7 @@
 > 5. On one side of the problem are measures that are "necessary means of preservation of life." First, food, air and water by natural routes, that is, without technical assistance, may not be denied by the
 >
 > <a id="ga16-p514"></a>
-> <!-- PAGE ga=16 pdf_page=514 printed_page=null -->
+> <!-- PAGE ga=16 pdf_page=514 printed_page=512 printed_page_source=inferred -->
 >
 > patient or anyone caring for him. Second, medical treatment that is clearly efficacious to heal or to restore may not be refused either.
 >
@@ -200,7 +200,7 @@
 > These dilemmas can usually be resolved by attention to other principles and suggestions here and elsewhere (see Resources). For example, we have seen that neither patients nor families have a moral obligation for medical care where its effectiveness is limited or it is simply prolonging death. In addition home care is often a real alternative to hospitals or nursing homes.
 >
 > <a id="ga16-p515"></a>
-> <!-- PAGE ga=16 pdf_page=515 printed_page=null -->
+> <!-- PAGE ga=16 pdf_page=515 printed_page=513 printed_page_source=inferred -->
 >
 > If these other principles do not resolve the issue of cost, families should be careful not to incur large amounts of debt for medical care. One exception could be treatment that would restore a person who is the primary provider for a family. Much counsel and prayer with elders of the church will be needed for these situations.
 >
@@ -225,7 +225,7 @@
 > "Do Not Resuscitate" orders are sometimes an appropriate way to avoid heroic measures because hospitals are required to resuscitate all patients who die suddenly unless such orders, written by the attending physician, are on the patient's chart. It is a recognized phenomenon, however, that health care workers and family members frequently avoid patients for whom these orders have been written, at the very time that time when they most need companionship.
 >
 > <a id="ga16-p516"></a>
-> <!-- PAGE ga=16 pdf_page=516 printed_page=null -->
+> <!-- PAGE ga=16 pdf_page=516 printed_page=514 printed_page_source=inferred -->
 >
 > For patients who have incurable diseases a discussion of "Do Not Resuscitate" orders with the attending physician is appropriate. Ideally, this discussion should take place prior to admission. If it has not been done then, however, the discussion should take place as soon as possible. Many heroic measures could be avoided in this way. Then, the medical staff and the family should be clearly instructed that the patient needs more support and interaction, not less. Physical contact (touching) is usually one extremely important way to communicate with patients. Rarely do these patients have a disease that could infect others to obviate this expression of caring.
 >
@@ -250,7 +250,7 @@
 > 3. Life, disability and health insurance policies should be reviewed and updated or changed where necessary. Special counsel should be sought from those who are familiar with expenses associated with
 >
 > <a id="ga16-p517"></a>
-> <!-- PAGE ga=16 pdf_page=517 printed_page=null -->
+> <!-- PAGE ga=16 pdf_page=517 printed_page=515 printed_page_source=inferred -->
 >
 > present medical practices. For example, nursing home care is rarely covered by insurance policies and is
 > covered only for a few weeks under Medicare. Medicaid will pay for nursing home care only after the

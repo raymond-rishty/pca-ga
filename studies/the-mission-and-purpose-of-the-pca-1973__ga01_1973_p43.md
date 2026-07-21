@@ -54,7 +54,7 @@
 > specialized fields, earnest in training our constituency to do the work of evangelism, eager in being
 >
 > <a id="ga01-p44"></a>
-> <!-- PAGE ga=1 pdf_page=44 printed_page=null -->
+> <!-- PAGE ga=1 pdf_page=44 printed_page=44 printed_page_source=inferred -->
 >
 > faithful witnesses for Jesus Christ to the end that God be glorified. For His glory the Committee on
 > Mission to the United States submits the following report to this historic General Assembly.

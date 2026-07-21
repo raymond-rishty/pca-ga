@@ -15,7 +15,7 @@
 > The Ad-Interim Committee on the Number of Offices in the Church has been assigned the task of determining whether the office of Elder is one office or two. Do Ruling and Teaching
 >
 > <a id="ga07-p53"></a>
-> <!-- PAGE ga=7 pdf_page=53 printed_page=null -->
+> <!-- PAGE ga=7 pdf_page=53 printed_page=51 printed_page_source=inferred -->
 >
 > Elders have the same office, or are they separate offices? Those who hold that Ruling Elders and Teaching Elders have two distinct offices hold to the “three-office view” that the officers in the church are Teaching Elders, Ruling Elders and Deacons. Those who hold that there is only one office of Elder hold to what is known as the “two-office view” that the officers in the church are simply Elders and Deacons.
 >
@@ -51,7 +51,7 @@
 > When some talk about two offices in the Church, they are thinking on the level of “class.” When others talk about three offices in the Church, they are thinking about the level of “order.” When some talk about additional offices in the church, such as Pastor, Teacher, and Evangelist, they are thinking on the level of “family.” This chart has put the subject into perspective for our Committee, and we would resolve the question of the number of offices in the words of Dabney:
 >
 > <a id="ga07-p54"></a>
-> <!-- PAGE ga=7 pdf_page=54 printed_page=null -->
+> <!-- PAGE ga=7 pdf_page=54 printed_page=52 printed_page_source=inferred -->
 >
 > "There is one class of presbyters embracing two orders, the preaching elder and the ruling elder."
 >
@@ -96,7 +96,7 @@
 > *Originally the italicized phrase read, "the first in the Church, both for."
 >
 > <a id="ga07-p55"></a>
-> <!-- PAGE ga=7 pdf_page=55 printed_page=null -->
+> <!-- PAGE ga=7 pdf_page=55 printed_page=53 printed_page_source=inferred -->
 >
 > 8-2. He that fills this office should possess a competency of human learning and be blameless
 > in life, sound in the faith and apt to teach. He should exhibit a sobriety and holiness of
@@ -162,7 +162,7 @@
 > serve as moderator.
 >
 > <a id="ga07-p56"></a>
-> <!-- PAGE ga=7 pdf_page=56 printed_page=null -->
+> <!-- PAGE ga=7 pdf_page=56 printed_page=54 printed_page_source=inferred -->
 >
 > Our Committee prefers the present situation for several reasons:
 >
@@ -197,7 +197,7 @@
 > 4. In answer to request No. 4, we would affirm that all unordained personnel, both men and women, such as administrative assistants, directors of Christian Education, secretaries, music directors, youth workers, teachers in the local church school, Session-operated Christian Day Schools, or employees or appointees of one of the Committees of the General Assembly or other court of the Church shall be approved by, and are under the jurisdiction of, the Court of the Church or committee by which they are employed, and
 >
 > <a id="ga07-p57"></a>
-> <!-- PAGE ga=7 pdf_page=57 printed_page=null -->
+> <!-- PAGE ga=7 pdf_page=57 printed_page=55 printed_page_source=inferred -->
 >
 > under the ecclesiastical discipline of their local church. The appropriate examination, certification, and regulation of their work shall be determined and administered by the court or committee under which they will be working. In the case of a committee employee or appointee, the type of examination, certification, and regulation will be subject to the approval of the court of jurisdiction.
 >
@@ -216,7 +216,7 @@
 > At the same time, it is felt that the practice of licensing men who are not in a period of testing their gifts leading toward ordination should be discontinued. If preaching is to be limited only to those who are gifted and called to that function, then licensure must be limited to those who are seeking ordination and are testing their gifts and calling. Therefore, your Committee makes the following recommendations in this category:
 >
 > <a id="ga07-p58"></a>
-> <!-- PAGE ga=7 pdf_page=58 printed_page=null -->
+> <!-- PAGE ga=7 pdf_page=58 printed_page=56 printed_page_source=inferred -->
 >
 > ## RECOMMENDATION NO. 9:
 >
@@ -263,7 +263,7 @@
 > A temporary statement was adopted to be placed at the beginning of the Directory of Worship until a more precise statement can be prepared by the Constitutional Documents Committee. The Constitutional Documents Committee was directed to prepare a statement on the relative authority of the Con-
 >
 > <a id="ga07-p59"></a>
-> <!-- PAGE ga=7 pdf_page=59 printed_page=null -->
+> <!-- PAGE ga=7 pdf_page=59 printed_page=57 printed_page_source=inferred -->
 >
 > stitutional documents, which is to be returned to the next Assembly.
 >

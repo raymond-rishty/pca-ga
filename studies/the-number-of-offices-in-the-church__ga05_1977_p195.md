@@ -37,7 +37,7 @@
 > The Committee has come to feel that the differences between two-office and three-office views may be reconciled by this analogy from biology. This analogy also helps us to clarify the confusion that exists when some speak also of Teacher and Evangelist as separate offices, which has been done in the Reformed tradition.
 >
 > <a id="ga05-p196"></a>
-> <!-- PAGE ga=5 pdf_page=196 printed_page=null -->
+> <!-- PAGE ga=5 pdf_page=196 printed_page=194 printed_page_source=inferred -->
 >
 > The following chart helped to clarify the situation for us:
 >
@@ -86,7 +86,7 @@
 > A. Change 7-2 to read as follows: The ordinary and perpetual classes of office in the Church are Elders and Deacons. Within the class of Elder are the two orders of Teaching Elders and Ruling Elders. The Elders jointly have the government and spiritual oversight of the church, including teaching. Only those elders who are specially gifted, called and trained by God to preach may serve as Teaching Elders. The office of Deacon is not one of rule, but rather of service both to the physical and spiritual needs of the people. In accord with Scripture, the office of Elder is given to men only.
 >
 > <a id="ga05-p197"></a>
-> <!-- PAGE ga=5 pdf_page=197 printed_page=null -->
+> <!-- PAGE ga=5 pdf_page=197 printed_page=195 printed_page_source=inferred -->
 >
 > Combine Chapters 8 and 9 as follows, and renumber the following chapters accordingly:
 >
@@ -178,7 +178,7 @@
 > from MclIlwain Memorial Presbyterian Church, Pensacola, Florida, is still before this Assembly awaiting answer (See page 38 for complete text of overture). It is to be noted that this
 >
 > <a id="ga05-p198"></a>
-> <!-- PAGE ga=5 pdf_page=198 printed_page=null -->
+> <!-- PAGE ga=5 pdf_page=198 printed_page=196 printed_page_source=inferred -->
 >
 > overture stems from a time when a church was required to have a presbytery-appointed Teaching Elder as moderator of the Session, which is no longer true in the PCA. This was the principal reason stated for submission of the overture. Now a church without a Pastor may have its Session moderated by one of its own Elders.
 >
@@ -215,7 +215,7 @@
 > 3. In answer to request No. 3, since both historically and by definition, the concept of parity does not refer to equality of numbers but rather equality of condition, rank, and value, and, therefore, since the office of Elder is not limited to the pastorate; therefore
 >
 > <a id="ga05-p199"></a>
-> <!-- PAGE ga=5 pdf_page=199 printed_page=null -->
+> <!-- PAGE ga=5 pdf_page=199 printed_page=197 printed_page_source=inferred -->
 >
 > the current practice of the church to permit Teaching Elders other than full-time Pastors to serve on committees of the higher courts and to have franchise in those courts is in keeping with the concept of parity.
 >
@@ -232,7 +232,7 @@
 > D. Stemming from this discussion of the administration of the Sacraments, the entire question of the nature and purpose of licensure arose. There is little in writing specifically on the history of licensure, and only dedicated searching of writers and church historical documents can shed much light on the subject. By implication, the Westminster Standards, Directories for Publick and Family Worship, and Form of Church Government indicate that there is a definite need and reason for the testing of the gifts of a man who may be called to preach. This testing period has developed into the current practice of licensure, whereby the Presbytery puts an official stamp on the man as he tests his gifts prior to ordination. Various Presbyterian communions in the United States utilize licensure in different ways. Some require a minimum period prior to ordination with no waivers granted. Others nearly ignore it by completing both the requirements for licensure and ordination at the same time. Even within the PCA, there is a difference in practice between the various Presbyteries at this time. In keeping with the stress on ordaining only those men who are truly gifted and called to preach to serve as Teaching Elders in the Church, it is imperative that licensure be utilized to the fullest degree possible. This Committee does not feel it has been mandated to make broad changes in the nature of licensure especially to the extent of setting a required period. However, we do believe there is a great need for study and discussion on this issue in the Church, and we would call upon local sessions, presbyteries, and other committees to examine this matter closely, with a view to the possibility of bringing an overture to a subse
 >
 > <a id="ga05-p200"></a>
-> <!-- PAGE ga=5 pdf_page=200 printed_page=null -->
+> <!-- PAGE ga=5 pdf_page=200 printed_page=198 printed_page_source=inferred -->
 >
 > quent General Assembly, thus maintaining the practice of effecting additional change from the grassroots and not simply from the top down.
 >

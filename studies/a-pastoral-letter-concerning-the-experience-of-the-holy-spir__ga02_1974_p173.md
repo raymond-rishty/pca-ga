@@ -43,7 +43,7 @@
 > ⁸"for he giveth not the Spirit by measure" Jn. 3:34. See Tit. 3:5,6.
 >
 > <a id="ga02-p174"></a>
-> <!-- PAGE ga=2 pdf_page=174 printed_page=null -->
+> <!-- PAGE ga=2 pdf_page=174 printed_page=172 printed_page_source=inferred -->
 >
 > ## II. Concerning Life in the Spirit.
 >
@@ -76,7 +76,7 @@
 > ²⁰“They then that receiveth his word were baptized: and there were added unto them in that day about three thousand souls. And they continued steadfastly in the apostles teaching and fellowship, in the breaking of bread and the prayers.” Acts 2:41,42. See also Matt. 28:18-20; Eph. 5-18.
 >
 > <a id="ga02-p175"></a>
-> <!-- PAGE ga=2 pdf_page=175 printed_page=null -->
+> <!-- PAGE ga=2 pdf_page=175 printed_page=173 printed_page_source=inferred -->
 >
 > or ignore His Word or are disobedient to it, we are guilty of quenching and grieving the Holy Spirit.¹⁷
 >
@@ -111,7 +111,7 @@
 > ²¹Jn. 16:14; I Cor. 10:31; 12:21; 13:1-3; Eph. 1:13-14.
 >
 > <a id="ga02-p176"></a>
-> <!-- PAGE ga=2 pdf_page=176 printed_page=null -->
+> <!-- PAGE ga=2 pdf_page=176 printed_page=174 printed_page_source=inferred -->
 >
 > truth or confirmed that the speaker indeed spoke from God. These miracles related to revelation have ceased, since revelation was completed with the closing of the Canon in the New Testament era.
 >
@@ -140,7 +140,7 @@
 > “Wherefore receive ye one another even as Christ also received you, to the glory of God. Now the God of hope fill you, to the glory of God. Now the God of hope fill you with all joy and peace in believing, that ye may abound in hope, in the power of the Holy Spirit.” Rom. 15:7. See also Rom. 12:3,16; I Cor. 7:7; I Cor. 13; Eph. 4:7; Phil. 2:2-4; I Pet. 4-8-11.
 >
 > <a id="ga02-p177"></a>
-> <!-- PAGE ga=2 pdf_page=177 printed_page=null -->
+> <!-- PAGE ga=2 pdf_page=177 printed_page=175 printed_page_source=inferred -->
 >
 > 2. Study of the church’s Standards on such areas as Scripture,
 > Trinity, Doctrines of Grace;
@@ -160,7 +160,7 @@
 > by the Second General Assembly of The Presbyterian Church in America.
 >
 > <a id="ga02-p176"></a>
-> <!-- PAGE ga=2 pdf_page=178 printed_page=176 -->
+> <!-- PAGE ga=2 pdf_page=178 printed_page=176 printed_page_source=inferred -->
 
 ---
 

@@ -62,7 +62,7 @@
 > 4. Nuclear Winter
 >
 > <a id="ga15-p520"></a>
-> <!-- PAGE ga=15 pdf_page=520 printed_page=null -->
+> <!-- PAGE ga=15 pdf_page=520 printed_page=518 printed_page_source=inferred -->
 >
 > A. This Age in Theological Perspective
 >
@@ -123,7 +123,7 @@
 > and people will stream to it.
 >
 > <a id="ga15-p521"></a>
-> <!-- PAGE ga=15 pdf_page=521 printed_page=null -->
+> <!-- PAGE ga=15 pdf_page=521 printed_page=519 printed_page_source=inferred -->
 >
 > Many nations will come and say,
 > "Come, let us go up to the mountain of the LORD
@@ -185,7 +185,7 @@
 > Christ, what are our political responsibilities with respect to the issues of war and peace in our time?
 >
 > <a id="ga15-p522"></a>
-> <!-- PAGE ga=15 pdf_page=522 printed_page=null -->
+> <!-- PAGE ga=15 pdf_page=522 printed_page=520 printed_page_source=inferred -->
 >
 > Does Christ require his disciples to renounce all use of the sword for the sake of his kingdom, or are there at least some uses of the sword that he requires his disciples to maintain for the sake of his kingdom?
 >
@@ -209,7 +209,7 @@
 > The sanction for the use of the sword to the extent of taking human life in retributive justice for human life sinfully taken is found in connection with God's covenant with Noah: "Whoever sheds the blood of man, by man shall his blood be shed." The ground for such an extreme measure immediately follows: "For in the image of god has God made man" (Gen. 9:6). It is the supreme value of human life as belonging to creatures made in God's image that, paradoxically to some, is enhanced and guarded by the institution of capital punishment for murder.
 >
 > <a id="ga15-p523"></a>
-> <!-- PAGE ga=15 pdf_page=523 printed_page=null -->
+> <!-- PAGE ga=15 pdf_page=523 printed_page=521 printed_page_source=inferred -->
 >
 > The authority to carry out this mandate has been given, not to individuals, but to the civil
 > government, a sis explicitly stated in Romans: "For he is God’s servant to do you good ... he does not
@@ -270,7 +270,7 @@
 > have become their God. (2 Sam. 7:23-24).
 >
 > <a id="ga15-p524"></a>
-> <!-- PAGE ga=15 pdf_page=524 printed_page=null -->
+> <!-- PAGE ga=15 pdf_page=524 printed_page=522 printed_page_source=inferred -->
 >
 > When God made his covenant with Abraham and promised his descendants possession of the land, it was with this word concerning the current inhabitants: "In the fourth generation your descendants will come back here, for the sin of the Amorites has not yet reached its full measure" (Gen. 15:16). When in God's eyes it reached its full measure, he summoned his servant Israel to execute his wrath. "Even the land was defiled: so I punished it for its sin, and the land vomited out its inhabitants" (Lev. 18:25). This provides the rationale for the warfare of utter destruction (herem) prescribed for Israel in such passages as Deuteronomy 7:1-6.
 >
@@ -299,7 +299,7 @@
 > This being the case, reliance on certain types of armaments, specifically horses and chariots, is incompatible with theocratic trust (Dt. 17:16, Is. 31:1), partly because the source of these weapons is Egypt. Why should the redeemed people of God look to their former oppressors for deliverance? To
 >
 > <a id="ga15-p525"></a>
-> <!-- PAGE ga=15 pdf_page=525 printed_page=null -->
+> <!-- PAGE ga=15 pdf_page=525 printed_page=523 printed_page_source=inferred -->
 >
 > show that he would always be their deliverer, instead of providing his people with chariots of iron, God
 > commissioned trumpets of hammered silver.
@@ -360,7 +360,7 @@
 > preventing their use. To qualify, a strategy must intend nothing intrinsically sinful, and promise a lesser
 >
 > <a id="ga15-p526"></a>
-> <!-- PAGE ga=15 pdf_page=526 printed_page=null -->
+> <!-- PAGE ga=15 pdf_page=526 printed_page=524 printed_page_source=inferred -->
 >
 > amount of harm than any available alternative. The major proposals may be categorized as strategies of
 > disarmament, deterrence, or defense.
@@ -422,7 +422,7 @@
 > escalation to an all-out nuclear war, on the one hand, and the near certainty of enslavement to a
 >
 > <a id="ga15-p527"></a>
-> <!-- PAGE ga=15 pdf_page=527 printed_page=null -->
+> <!-- PAGE ga=15 pdf_page=527 printed_page=525 printed_page_source=inferred -->
 >
 > totalitarian power, on the other, it is not clear that the nonuse of nuclear weapons is an absolute moral
 > obligation. The degree of risk must be weighed against the degree of threat; it is not certain that any use
@@ -484,7 +484,7 @@
 > retaliation as such poses an unacceptable risk.
 >
 > <a id="ga15-p528"></a>
-> <!-- PAGE ga=15 pdf_page=528 printed_page=null -->
+> <!-- PAGE ga=15 pdf_page=528 printed_page=526 printed_page_source=inferred -->
 >
 > Both strategies are intended to prevent the use of nuclear weapons by deterring the first strike; both
 > are prepared to use nuclear weapons in a retaliatory second strike should deterrence fail. Does the law of
@@ -545,7 +545,7 @@
 > wants all men to be saved and to come to a knowledge of the truth.
 >
 > <a id="ga15-p529"></a>
-> <!-- PAGE ga=15 pdf_page=529 printed_page=null -->
+> <!-- PAGE ga=15 pdf_page=529 printed_page=527 printed_page_source=inferred -->
 >
 > The primary task of the church in this age is the preaching of the gospel to all nations; since God controls the circumstances that are conducive to the fulfillment of this mandate, he bids us to pray especially for those who have been ordained to maintain piety, justice, and peace. The church in its intercession for peace appeals to God's mercy and patience to give further opportunity for evangelism (cf. 2 Pet. 3:9). We pray that the world may be spared either the enslavement or the killing of masses of people who should be the objects of evangelism, in which the church offers, on the authority of Christ, peace with God, reconciliation between people, and the hope of world redemption.
 >
