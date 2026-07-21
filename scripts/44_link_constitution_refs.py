@@ -72,9 +72,9 @@ CATECHISM_CANON_RE = re.compile(r"(?:Q\.?\s*)?(\d{1,3})", re.IGNORECASE)
 RAO_CANON_RE = re.compile(rf"(\d{{1,2}})(?:\s*{RAO_SECTION_SEP}\s*(\d{{1,2}}))?", re.IGNORECASE)
 
 # Minutes citations are deliberately narrower than the loose formats accepted by
-# the research indexes. A link is made only when it names both a volume and a
-# verified opening printed page. Page ranges retain their complete visible text
-# but resolve to that opening page; bare volume references remain plain text.
+# the research indexes.  A link should only be made when it names both a volume
+# and a printed page. For a page range, the whole citation links to the first
+# printed page; bare volume references remain plain text.
 MINUTES_CITATION_RE = re.compile(
     r"\bM\s*(?P<ga>\d{1,2})\s*GA\s*,?\s*"
     r"(?:p{1,2}\.?|pages?\.?)\s*(?P<page>\d{1,4})"
@@ -98,17 +98,26 @@ INLINE_CITATION_PREFIX_RE = re.compile(
     rf"(?=(?:\s|&nbsp;)*(?:§|&sect;)?(?:\s|&nbsp;)*(?:\d|(?:Article|Section)\s+{RAO_ROMAN_REF}\b))",
     re.IGNORECASE,
 )
+INLINE_MINUTES_CITATION_PREFIX_RE = re.compile(
+    r"<(?P<tag>em|i|strong|b)\b[^>]*>\s*"
+    r"(?P<prefix>M\s*\d{1,2}\s*GA)\s*</(?P=tag)>"
+    r"(?=(?:\s|&nbsp;)*,?\s*(?:p{1,2}\.?|pages?\.?)\s*\d)",
+    re.IGNORECASE,
+)
 
 
 def normalize_inline_citation_prefixes(rendered_html: str) -> str:
-    """Make an emphasized citation abbreviation available to the text linker.
+    """Make an emphasized citation prefix available to the text linker.
 
-    Markdown commonly renders ``_RAO_ 16-3`` as two separate HTML text nodes.
-    The linker works inside text nodes so it cannot otherwise see the prefix and
-    number as one citation. Citation abbreviations are normalized to plain text;
-    the generated citation link still preserves the visible wording.
+    Markdown commonly renders ``_RAO_ 16-3`` and ``_M20GA_, p. 635`` as
+    separate HTML text nodes. The linker works inside text nodes, so it cannot
+    otherwise see the prefix and number as one citation. Citation prefixes are
+    normalized to plain text; the generated citation link preserves the wording.
     """
     rendered_html = INLINE_CITATION_PREFIX_RE.sub(
+        lambda match: match.group("prefix"), rendered_html
+    )
+    rendered_html = INLINE_MINUTES_CITATION_PREFIX_RE.sub(
         lambda match: match.group("prefix"), rendered_html
     )
     return re.sub(
@@ -748,17 +757,20 @@ def self_test() -> None:
         '<p>“RAO” 16:3; RAO § 14-10-D-2; RAO 14.4.C.2; RAO XVIII.</p>'
         '<p><em>RAO</em> 16-3.e.5</p>'
         '<p>See M14GA p. 330 for the original action.</p>'
-        '<p>M14GA pp. 330–332 cites a range from the same opening folio.</p><p>M14GA p. 331 remains plain text when no printed folio is available.</p>'
+        '<p>See M14GA pp. 330–332 for the related proceedings.</p>'
+        '<p><em>M20GA</em>, p. 635</p>'
+        '<p>M14GA p. 331 remains plain text when no printed folio is available.</p>'
         '<a href="#">BCO 25-5</a><code>BCO 25-5</code>'
         '</article></body></html>'
     )
     minutes_refs = {
-        "14": {"330": {"path": "markdown/ga14_1986.html", "anchor": "ga14-p330", "pdf_page": "332"}}
+        "14": {"330": {"path": "markdown/ga14_1986.html", "anchor": "ga14-p330", "pdf_page": "332"}},
+        "20": {"635": {"path": "markdown/ga20_1992.html", "anchor": "ga20-p635", "pdf_page": "637"}},
     }
     linker = ConstitutionLinker(bco_refs, standard_refs, rao_refs, minutes_refs, "test.html")
     linker.feed(normalize_inline_citation_prefixes(sample))
     rendered = "".join(linker.output)
-    assert linker.link_count == 18
+    assert linker.link_count == 19
     assert 'data-bco-ref="5-9"' in rendered
     assert 'data-bco-ref="8-4"' in rendered
     assert f'{READER_BASE}#bco/5-9' in rendered
@@ -779,6 +791,8 @@ def self_test() -> None:
     assert 'class="minutes-ref" href="markdown/ga14_1986.html#ga14-p330"' in rendered
     assert 'data-minutes-ga="14" data-minutes-page="330"' in rendered
     assert '>M14GA pp. 330–332</a>' in rendered
+    assert 'class="minutes-ref" href="markdown/ga20_1992.html#ga20-p635"' in rendered
+    assert 'data-minutes-ga="20" data-minutes-page="635"' in rendered
     assert 'M14GA p. 331 remains plain text' in rendered
     assert 'data-minutes-page="331"' not in rendered
     assert minutes_href(
