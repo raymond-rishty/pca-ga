@@ -159,6 +159,16 @@ def main():
         if ma:
             anchor = f"ga{int(ma.group(1)):02d}-p{ma.group(2)}"
         sect = e0.get("ccb_section", "")
+        # Some inquiries reproduce the substantive question and answer in an appendix,
+        # while the journal records only the Assembly's later adopting action.  When
+        # supplied, this override makes the record's primary source link point to that
+        # substantive passage and retains the journal action as a distinct citation.
+        source_anchor = (r0.get("verbatim_page_anchor") or anchor).strip()
+        source_printed = r0.get("verbatim_printed_page", printed)
+        source_start = r0.get("posed_start") if r0.get("verbatim_page_anchor") else None
+        source_end = r0.get("posed_end") if r0.get("verbatim_page_anchor") else None
+        source_start = source_start or a
+        source_end = source_end or b
 
         # display subject
         subj = gen_subject or next((t for t in topics if not is_bare_provision(t)), "")
@@ -184,8 +194,8 @@ def main():
             hdr.append("**Provisions:** " + ", ".join(provs))
         if disp:
             hdr.append("**Disposition:** " + md_escape(disp))
-        srcline = (f"*Source: [{stem} lines {a}–{b}](../markdown/{stem}.md{'#' + anchor if anchor else ''})*"
-                   if a and b else f"*Source: {stem}*")
+        srcline = (f"*Source: [{stem} lines {source_start}–{source_end}](../markdown/{stem}.md{'#' + source_anchor if source_anchor else ''})*"
+                   if source_start and source_end else f"*Source: {stem}*")
 
         page = [f"# {label} — {subj}", ""]
         if synopsis:
@@ -204,7 +214,7 @@ def main():
                 page += ["**Key words:** " + ", ".join(provs), ""]
             if source:
                 page += ["**Inquiry from:** " + md_escape(source), ""]
-            page += ["**In the minutes:** " + deeplink(stem, anchor, printed), "", "---", ""]
+            page += ["**In the minutes:** " + deeplink(stem, source_anchor, source_printed), "", "---", ""]
         page += ["## Verbatim record", ""]
         if ratified_only:
             page += ["*The General Assembly ratified this advice by reference; the substantive answer "
@@ -212,6 +222,8 @@ def main():
                      "below.*", ""]
         if posed:
             page += ["### As referred / posed", "", posed, "", "### CCB advice", "", body, ""]
+            if r0.get("verbatim_page_anchor"):
+                page += [f"*Assembly action: {deeplink(stem, anchor, printed)}.*", ""]
         else:
             page += [body, ""]
         is_inq = (mtype == "Constitutional inquiry")
@@ -223,7 +235,7 @@ def main():
 
         row = (f"| {md_escape(label)} | [{md_escape(subj)}](../inquiries/{slug}.md) | "
                f"{md_escape(synopsis)} | {md_escape(', '.join(provs))} | {md_escape(disp)} | "
-               f"{md_escape(source)} | {deeplink(stem, anchor, printed)} |")
+               f"{md_escape(source)} | {deeplink(stem, source_anchor, source_printed)} |")
         (inq_rows if is_inq else adv_rows).setdefault(ordn, []).append((year, stem, row))
         search_rows.append({"type": "inquiry" if is_inq else "ccb-advice",
                             "title": subj, "sub": synopsis or "", "provisions": provs,
