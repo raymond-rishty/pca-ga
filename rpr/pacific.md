@@ -2,7 +2,7 @@
 
 *100 threaded exception(s) of substance across GA18–52 (1990–2025). Each row links to the full exception with its year-by-year text.*
 
-> **⚖️ Related Standing Judicial Commission case(s) (BCO 40-5):**  [Gulfstream Presbytery — Citation re: Review of Presbyte (2010-18)](../cases/ga39_2011__2010-18_2010-19_2010-20_2010-21_2010-22_2010-23.md)
+> **⚖️ Related Standing Judicial Commission case(s) (BCO 40-5):**  [Citation re: Pacific Presbytery (2010-23)](../cases/ga39_2011__2010-18_2010-19_2010-20_2010-21_2010-22_2010-23.md)
 
 | First raised | Provision(s) | Exception | Lifecycle | Final disposition |
 |---|---|---|---|---|

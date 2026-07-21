@@ -219,13 +219,35 @@ def main():
                            r"failing to submit|grossly unconstitutional|important delinquency)", re.I)
     def cases_for(presb):
         key = re.sub(r"[^a-z ]", "", presb.lower())
+        # A case title can contain several separately numbered citations that
+        # were heard together. Match a presbytery only where a case-title
+        # segment begins (or after the usual "v." / "In re" introducers), so
+        # an independent "Southwest" entry does not inherit Korean Southwest's
+        # case. When the title is a consolidated case, retain the particular
+        # presbytery and case number in the link label instead of exposing the
+        # first case's title for every row.
+        title_start = re.compile(
+            r"(?:^|/\s*|\b(?:PCA\s+v\.?|In\s+re|Citation\s+(?:of|re:)?)\s+)"
+            + re.escape(key) + r"(?:\s+Presbytery)?\s*(?:—|/|$)", re.I)
         seen, hits = set(), []
         for num, c in cases.items():
             title = c.get("title") or ""
-            if key and key in re.sub(r"[^a-z ]", "", title.lower()) and CITESTYLE.search(title):
+            if key and title_start.search(title) and CITESTYLE.search(title):
                 if c["file"] not in seen:
                     seen.add(c["file"])
-                    hits.append((num, c["file"], re.sub(r"\s*#+\s*$", "", title).strip()))
+                    if len(c.get("numbers") or []) > 1:
+                        # The compound title and its case-number list are in
+                        # the same order. Select the number for this title
+                        # segment, not simply the first number in the group.
+                        case_num = next(
+                            (n for n, segment in zip(c["numbers"], title.split(" / "))
+                             if title_start.search(segment)),
+                            num)
+                        label = f"Citation re: {presb} Presbytery"
+                    else:
+                        case_num = num
+                        label = re.sub(r"\s*#+\s*$", "", title).strip()
+                    hits.append((case_num, c["file"], label))
         return hits
     # presbyteries cited via the RPR section-IV scan OR named in a citation-style case
     allp = set(sjc_by_presb) | {p for p in by_presb if cases_for(p)}

@@ -2,7 +2,7 @@
 
 *141 threaded exception(s) of substance across GA23–52 (1995–2025). Each row links to the full exception with its year-by-year text.*
 
-> **⚖️ Cited to the Standing Judicial Commission (BCO 40-5)** at the [38th GA (2010)](../markdown/ga38_2010.md#ga38-p72); [44th GA (2016)](../markdown/ga44_2016.md#ga44-p385).  Related case(s): [Gulfstream Presbytery — Citation re: Review of Presbyte (2010-18)](../cases/ga39_2011__2010-18_2010-19_2010-20_2010-21_2010-22_2010-23.md), [In Re Korean Northwest (2016-10)](../cases/ga46_2018__2016-10.md)
+> **⚖️ Cited to the Standing Judicial Commission (BCO 40-5)** at the [38th GA (2010)](../markdown/ga38_2010.md#ga38-p72); [44th GA (2016)](../markdown/ga44_2016.md#ga44-p385).  Related case(s): [Citation re: Korean Northwest Presbytery (2010-20)](../cases/ga39_2011__2010-18_2010-19_2010-20_2010-21_2010-22_2010-23.md), [In Re Korean Northwest (2016-10)](../cases/ga46_2018__2016-10.md)
 
 | First raised | Provision(s) | Exception | Lifecycle | Final disposition |
 |---|---|---|---|---|
