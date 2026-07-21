@@ -1,6 +1,3 @@
-Warning: truncated output (original token count: 62352)
-Total output lines: 5200
-
 [
  {
   "ga_ordinal": 3,
@@ -2056,7 +2053,167 @@ Total output lines: 5200
     "posed_start": 3668,
     "posed_end": 3672,
     "page_anchor": "ga31-p161",
-    "notes": "Section VI, Overture 9 advice (lines 8517-8525) in the ma…2352 tokens truncated…onstitutional Inquiry 2 from the Committee on Review of Presbytery Records, section II.2 of the First Supplemental CCB Report (32-36). Runs from the Inquiry 2 heading (line 6826) through the CCB adoption (line 6838). The Digest indexes this under both 'Ordination and Installation (BCO 21)' and 'Review of Presbytery Records (RAO 16)' — both map to this same passage. Referred at 32-6 along with Inquiry 1."
+    "notes": "Section VI, Overture 9 advice (lines 8517-8525) in the main CCB Report. The page-161 anchor is at line 8502. Overture 9 index entry (posed) at lines 3668-3672."
+   },
+   {
+    "minute_para": "31-56",
+    "topic": "Ecclesiastical Commissions (BCO 15) (Standing Judicial Commission), Review of Specific Decisions of the SJC",
+    "located": true,
+    "advice_start": 8424,
+    "advice_end": 8431,
+    "posed_start": null,
+    "posed_end": null,
+    "page_anchor": "ga31-p159",
+    "notes": "Section III, Non-Judicial Reference 1 from Evangel Presbytery (lines 8424-8431) in the main CCB Report. Printed page 159; anchor at line 8404. No separate posed/referred paragraph for this non-judicial reference appears elsewhere in this volume."
+   },
+   {
+    "minute_para": "31-56",
+    "topic": "Ordination and Installation of Ministers (BCO 21), Specifying Procedure for Handling Exceptions",
+    "located": true,
+    "advice_start": 8483,
+    "advice_end": 8515,
+    "posed_start": 3653,
+    "posed_end": 3656,
+    "page_anchor": "ga31-p160",
+    "notes": "Section VI, Overture 6 advice (lines 8483-8515) in the main CCB Report. Includes the minority report (8490-8500) and concurring opinion (8505-8515). The page-160 anchor is at line 8452; Overture 6 itself appears after the page-161 anchor at line 8502 in the file but the printed page for this overture heading is 160. Overture 6 index entry (posed) at lines 3653-3656."
+   },
+   {
+    "minute_para": "31-56",
+    "topic": "Ruling Elders and Deacons (BCO 24), Stated Clerk of General Assembly Reporting All Exceptions Taken in All Presbyteries",
+    "located": true,
+    "advice_start": 8586,
+    "advice_end": 8614,
+    "posed_start": 3729,
+    "posed_end": 3733,
+    "page_anchor": "ga31-p162",
+    "notes": "Section VI, Overture 20 advice (lines 8586-8614) in the main CCB Report, including the majority opinion (8590-8599) and minority report (8604-8614). The page-162 anchor is at line 8549; Overture 20 heading begins at line 8586 (before page-163 anchor at 8601 but after page-162 anchor). Overture 20 index entry (posed) at lines 3729-3733."
+   },
+   {
+    "minute_para": "31-56",
+    "topic": "Ruling Elders and Deacons (BCO 24), Election of Ruling Elders and Deacons",
+    "located": true,
+    "advice_start": 8552,
+    "advice_end": 8567,
+    "posed_start": 3698,
+    "posed_end": 3701,
+    "page_anchor": "ga31-p162",
+    "notes": "Section VI, Overture 14 advice (lines 8552-8567) in the main CCB Report. The page-162 anchor is at line 8549. Overture 14 index entry (posed) at lines 3698-3701."
+   },
+   {
+    "minute_para": "31-56",
+    "topic": "Removal of Censure (BCO 37), Removal of Censure for Suspended or Deposed Teaching Elder",
+    "located": true,
+    "advice_start": 8805,
+    "advice_end": 8864,
+    "posed_start": 2779,
+    "posed_end": 2796,
+    "page_anchor": "ga31-p167",
+    "notes": "Second Supplemental CCB Report, Section III (lines 8805-8864). Covers both Constitutional Inquiry 1 (TE Randy Wilding, 8812-8838) and Constitutional Inquiry 2 (TE Frank J. Smith, 8843-8864). The Digest codes this as section III.1-2 and printed page 167; the page-167 anchor is at line 8792. The posed location (where the inquiry was referred to CCB) is: Inquiry 1 from TE Randy Wilding at journal paragraph 31-6 (lines 2779-2796) and Inquiry 2 from TE Frank J. Smith at journal paragraph 31-46 (lines 8132-8150). posed_start/end here captures the primary referral at 31-6."
+   },
+   {
+    "minute_para": "31-18",
+    "topic": "The Overtures Committee (RAO 15), Germane Amendments to Overtures and Resolutions by Overtures Committee",
+    "located": true,
+    "advice_start": 8704,
+    "advice_end": 8741,
+    "posed_start": 3858,
+    "posed_end": 3893,
+    "page_anchor": "ga31-p67",
+    "notes": "Duplicate Digest entry (same passage as the other 31-18 item above, indexed under a different topic heading). The formal CCB opinion on Overture 23 is in the First Supplemental Report section IV (lines 8704-8741). The posed/referred location is the 31-18 journal paragraph (lines 3858-3893, printed page 67). Page-67 anchor at line 3840."
+   },
+   {
+    "minute_para": "31-56",
+    "topic": "Review of Presbytery Records (RAO 16), Exceptions to Westminster Standards or BCO Recorded in Presbytery Minutes",
+    "located": true,
+    "advice_start": 8433,
+    "advice_end": 8441,
+    "posed_start": null,
+    "posed_end": null,
+    "page_anchor": "ga31-p159",
+    "notes": "Duplicate Digest entry for the same passage as the 'General Assembly (BCO 14)' item on page 159 — Section IV Constitutional Inquiry 1 (lines 8433-8441) in the main CCB Report. Both Digest entries point to the same CCB answer about whether the Constitution/RAO requires recording exceptions. Referred by 30th GA (prior volume); no posed paragraph in this volume."
+   },
+   {
+    "minute_para": "31-56",
+    "topic": "Review of Presbytery Records (RAO 16), Recording Doctrinal Exceptions; Not Setting Doctrinal Precedent",
+    "located": true,
+    "advice_start": 8460,
+    "advice_end": 8481,
+    "posed_start": 3647,
+    "posed_end": 3651,
+    "page_anchor": "ga31-p160",
+    "notes": "Duplicate Digest entry for the same passage as the 'General Assembly (BCO 14), Subscription and Exceptions of Substance' item — Section VI, Overture 5 advice (lines 8460-8481) in the main CCB Report. Both Digest entries point to the same CCB opinion on Overture 5 from Illiana Presbytery et al. Overture 5 index entry (posed) at lines 3647-3651."
+   },
+   {
+    "minute_para": "31-56",
+    "topic": "Review of Presbytery Records (RAO 16), Presbytery's Authority to Determine Candidate's Eligibility for Ordination",
+    "located": true,
+    "advice_start": 8569,
+    "advice_end": 8584,
+    "posed_start": 3718,
+    "posed_end": 3721,
+    "page_anchor": "ga31-p162",
+    "notes": "Duplicate Digest entry for the same passage as the 'General Assembly (BCO 14), Subscription and Exceptions of Substance' item on page 162 — Section VI, Overture 18 advice (lines 8569-8584) in the main CCB Report. Both Digest entries point to the same CCB opinion on Overture 18 from Covenant Presbytery. Overture 18 index entry (posed) at lines 3718-3721."
+   }
+  ]
+ },
+ {
+  "ga_ordinal": 32,
+  "stem": "ga32_2004",
+  "results": [
+   {
+    "minute_para": "32-36",
+    "topic": "The Definition of \"Papists\" in the WCF",
+    "located": true,
+    "advice_start": 6809,
+    "advice_end": 6824,
+    "posed_start": 2404,
+    "posed_end": 2407,
+    "page_anchor": "ga32-p132",
+    "notes": "Constitutional Inquiry 1 from the Committee on Review of Presbytery Records. Page anchor ga32-p132 is at line 6765, before the 32-36 minute paragraph; the actual inquiry and response fall on printed page 133 (anchor ga32-p133 at line 6815 is mid-passage). The inquiry was referred at 32-6 (lines 2404-2407) along with a second inquiry. posed_start/posed_end point to that referral journal entry."
+   },
+   {
+    "minute_para": "32-40",
+    "topic": "Nature and Extent of Church Power (BCO 3), Limit Voting in Presbytery and General Assembly to Pastors and Associate Pastors",
+    "located": true,
+    "advice_start": 7148,
+    "advice_end": 7175,
+    "posed_start": 7903,
+    "posed_end": 8263,
+    "page_anchor": "ga32-p139",
+    "notes": "Section II.D of the CCB Report (32-40). Advice begins at the 'D. Overture 6' heading (line 7148) and ends with the CCB adoption note including TE Chapell recusal (line 7175). Full overture text appears at lines 7903-8263 in the 32-48 B&O report (the posed passage). Page anchor ga32-p139 is at line 7111, before section II begins."
+   },
+   {
+    "minute_para": "32-54",
+    "topic": "Particular Church (BCO 4), Teaching Elders Serving as Officers or Trustees of the Corporation in an Incorporated Church",
+    "located": true,
+    "advice_start": 10334,
+    "advice_end": 10404,
+    "posed_start": 7519,
+    "posed_end": 7521,
+    "page_anchor": "ga32-p203",
+    "notes": "Section II of the Second Supplemental CCB Report (32-54). Advice section heading 'II. Constitutional Inquiries' at line 10334; inquiry question and full response runs through line 10404 ('Adopted by CCB'). The inquiry from TE Paul Hurst was posed/referred at 32-44 (lines 7519-7521). Page anchor ga32-p203 is at line 10302, just before 32-53/32-54 journal entries; the inquiry text straddles ga32-p204 (line 10351)."
+   },
+   {
+    "minute_para": "32-36",
+    "topic": "General Assembly (BCO 14) (Changes to the RAO), Documenting and Reporting a Minister's Stated Differences with the Standards",
+    "located": true,
+    "advice_start": 6840,
+    "advice_end": 6847,
+    "posed_start": 2862,
+    "posed_end": 2877,
+    "page_anchor": "ga32-p133",
+    "notes": "Section III of the First Supplemental CCB Report (32-36): 'Proposed Amendment to RAO 14-3.e.5 from the Committee on Review of Presbytery Records.' The proposed RAO amendment text was presented at 32-14 (lines 2862-2877). Page anchor ga32-p133 is at line 6815, within the advice section for Inquiry 1 just above. The Digest cross-indexes this item under both 'General Assembly (BCO 14)' and 'Review of Presbytery Records (RAO 16)' — both map to this same passage."
+   },
+   {
+    "minute_para": "32-36",
+    "topic": "Ordination and Installation of Ministers (BCO 21), CRPR Review of a Presbytery's Granting of Exceptions",
+    "located": true,
+    "advice_start": 6826,
+    "advice_end": 6838,
+    "posed_start": 2404,
+    "posed_end": 2407,
+    "page_anchor": "ga32-p133",
+    "notes": "Constitutional Inquiry 2 from the Committee on Review of Presbytery Records, section II.2 of the First Supplemental CCB Report (32-36). Runs from the Inquiry 2 heading (line 6826) through the CCB adoption (line 6838). The Digest indexes this under both 'Ordination and Installation (BCO 21)' and 'Review of Presbytery Records (RAO 16)' — both map to this same passage. Referred at 32-6 along with Inquiry 1."
    },
    {
     "minute_para": "32-40",
