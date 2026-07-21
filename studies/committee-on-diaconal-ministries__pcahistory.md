@@ -45,8 +45,8 @@ cordingly, the Committee has begun to compare and contrast the great range of vi
 various aspects of the office of deacon, as they are presented in denominational position papers
 and the writings of individuals. We have found that on many aspects of the office of deacon there is
 
-<a id="ga06-p175"></a>
-<!-- PAGE ga=6 pdf_page=175 printed_page=null -->
+<a id="ga06-p173"></a>
+<!-- PAGE ga=6 pdf_page=175 printed_page=173 printed_page_source=inferred -->
 
 general agreement as to Biblical teaching and practice. At the same time, however, our study un
 covered a rich variety of Biblical data, history, and tradition which is interpreted and applied in
@@ -118,8 +118,8 @@ explains, "The deacon himself only represents the intensification of the priesth
 For he himself principally attempts to intensify that priestly concern for the needy brethren in all
 of the members of the congregation."12
 
-<a id="ga06-p176"></a>
-<!-- PAGE ga=6 pdf_page=176 printed_page=null -->
+<a id="ga06-p174"></a>
+<!-- PAGE ga=6 pdf_page=176 printed_page=174 printed_page_source=inferred -->
 
 It is in this intensification that a Biblically proper interplay between individual Christians,
 the Church as a body, and the diaconate as such begins to make itself evident: "One major Biblical
@@ -188,8 +188,8 @@ sponded to; on that point there appears to be little disagreement. The extent to
 program has been developed in NAPARC churches even in that area, however, is not entirely
 clear. Beyond the confines of the church, the complexities of the theoretical issues are com
 
-<a id="ga06-p177"></a>
-<!-- PAGE ga=6 pdf_page=177 printed_page=null -->
+<a id="ga06-p175"></a>
+<!-- PAGE ga=6 pdf_page=177 printed_page=175 printed_page_source=inferred -->
 
 pounded by the reality of too little resources being available to meet all needs. Moreover, ques
 tions of stewardship and of one's responsibility to call for and demand righteousness from reci
@@ -264,8 +264,8 @@ response of obedience to Him.
 The BCO gives specific direction regarding the authority level of the diaconate and its rela
 tionship to the session of the church.™ The specific wording is open to interpretation, however, as
 
-<a id="ga06-p178"></a>
-<!-- PAGE ga=6 pdf_page=178 printed_page=null -->
+<a id="ga06-p176"></a>
+<!-- PAGE ga=6 pdf_page=178 printed_page=176 printed_page_source=inferred -->
 
 to the extent to which the deacons, both in authority level and practical function, are to be
 directed by the session and how much they are to function in a separate sphere close to the level of
@@ -334,8 +334,8 @@ issues which we have become convinced need to be spoken to at that level. We com
 sessions and diaconates all of the questions raised, with the hope that further study, prayer, and ac
 tivity relating to these vital areas will strengthen us further as a Church.
 
-<a id="ga06-p179"></a>
-<!-- PAGE ga=6 pdf_page=179 printed_page=null -->
+<a id="ga06-p177"></a>
+<!-- PAGE ga=6 pdf_page=179 printed_page=177 printed_page_source=inferred -->
 
 # FOOTNOTES
 
@@ -459,8 +459,8 @@ Lee, F. N. “The Triune God and the Triune Office” (paper).
 
 Meeter, H. H. “The Heavenly High Priesthood of Christ” (paper).
 
-<a id="ga06-p180"></a>
-<!-- PAGE ga=6 pdf_page=180 printed_page=null -->
+<a id="ga06-p178"></a>
+<!-- PAGE ga=6 pdf_page=180 printed_page=178 printed_page_source=inferred -->
 
 Moberg, D. O. In us much — Christian Social Responsibility in Twentieth Century America, (Grand
 Rapids: Eerdmans), 1965.
@@ -531,8 +531,8 @@ The work is defined according to the following:
 A. To receive and administer the offerings and contributions of the church for
 our work of relief and rehabilitation of the needy of the world.
 
-<a id="ga06-p181"></a>
-<!-- PAGE ga=6 pdf_page=181 printed_page=null -->
+<a id="ga06-p179"></a>
+<!-- PAGE ga=6 pdf_page=181 printed_page=179 printed_page_source=inferred -->
 
 B To collect and store items that may be used for emergency relief such as food,
 clothing, medical supplies, etc.
@@ -602,8 +602,8 @@ their reason for existence the prevention of the dilution and distraction of the
 from their primary responsibility. (2) Funds gathered for diaconal work must never
 siphon money from the cause of Gospel proclamation." The second priority of oppor-
 
-<a id="ga06-p182"></a>
-<!-- PAGE ga=6 pdf_page=182 printed_page=null -->
+<a id="ga06-p180"></a>
+<!-- PAGE ga=6 pdf_page=182 printed_page=180 printed_page_source=inferred -->
 
 tunity, "simply refers to what God lays before us by His providence. When, in the course
 of pursuing obedience to the great commission, the Church encounters benevolent
@@ -674,8 +674,8 @@ we operate a food and clothing distribution to the poor.
 This is a store front operation started by Grace and Peace Fellowship and funded
 by them using the Board of Home Ministries as the conduit of money.
 
-<a id="ga06-p183"></a>
-<!-- PAGE ga=6 pdf_page=183 printed_page=null -->
+<a id="ga06-p181"></a>
+<!-- PAGE ga=6 pdf_page=183 printed_page=181 printed_page_source=inferred -->
 
 The following are Diaconal Ministries which the Board of Home Ministries coordinates
 for the denomination:
@@ -742,8 +742,8 @@ The six classes include 102 diaconates, with an estimated 450 deacons. Begun in 
 the conference has seen steady growth in its ministries. The 1977 annual meeting
 recorded an attendance of 192 deacons, with 57 others attending. The proposed budget
 
-<a id="ga06-p184"></a>
-<!-- PAGE ga=6 pdf_page=184 printed_page=null -->
+<a id="ga06-p182"></a>
+<!-- PAGE ga=6 pdf_page=184 printed_page=182 printed_page_source=inferred -->
 
 for 1976-1977 totaled $10,000.00, most of which was designated for operational and
 publication expenses. $ I 26,000.00 was received by the conference as of October, 1977,
@@ -813,8 +813,8 @@ nants, and home and apartment owners, have helped to stabilize our community. Th
 church as a ministering body carries out a more active roll in serving our neighbors,
 seeking to manifest the character and love of God as a community of Christians within
 
-<a id="ga06-p185"></a>
-<!-- PAGE ga=6 pdf_page=185 printed_page=null -->
+<a id="ga06-p183"></a>
+<!-- PAGE ga=6 pdf_page=185 printed_page=183 printed_page_source=inferred -->
 
 the larger neighborhood. Besides the necessary ministries to youth and adults through
 Sunday school, clubs, camping programs, and home Bible studies, the church has carried
@@ -884,8 +884,8 @@ blacks with whom they deal primarily in a rural area in order to overcome psycho
 problems that they feel exist which inhibit Spiritual growth. They also developed the
 philosophy that they will seek in every way to avoid direct handouts and instead set their
 
-<a id="ga06-p186"></a>
-<!-- PAGE ga=6 pdf_page=186 printed_page=null -->
+<a id="ga06-p184"></a>
+<!-- PAGE ga=6 pdf_page=186 printed_page=184 printed_page_source=inferred -->
 
 goals at creating the capability for the low-income parties to buy the things that they
 need. They feel that direct giving to individuals is dehumanizing and does not promote
@@ -955,8 +955,8 @@ During 1976, a total of 561 dependent, neglected, or abused children received
 Christian FOSTER CARE. Bethany's caseworkers also extend help to the families of
 these children.
 
-<a id="ga06-p187"></a>
-<!-- PAGE ga=6 pdf_page=187 printed_page=null -->
+<a id="ga06-p185"></a>
+<!-- PAGE ga=6 pdf_page=187 printed_page=185 printed_page_source=inferred -->
 
 The Bethany DAY CARE CENTER in Grand Rapids, licensed for 40 children,
 offers Christian care to pre-schoolers 2-1/2 to 6.
@@ -1023,8 +1023,8 @@ those who answered question I A. 69.23'? answered question 3B and 30.77'? answer
 in these correlational numbers. It should be pointed out that the two-and-a-half office
 view was not represented on the questionnaire and those who indicated on the question-
 
-<a id="ga06-p188"></a>
-<!-- PAGE ga=6 pdf_page=188 printed_page=null -->
+<a id="ga06-p186"></a>
+<!-- PAGE ga=6 pdf_page=188 printed_page=186 printed_page_source=inferred -->
 
 naire that this was their view usually chose 3D (other). Some of those, however were split
 between 3A and 3B. with some comment to the effect that the two-and-a-half view was

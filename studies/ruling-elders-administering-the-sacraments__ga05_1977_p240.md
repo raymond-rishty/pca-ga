@@ -44,7 +44,7 @@
 > Note: For the official record, the vote to approve the statement and action above was 4 affirmative and 2 negative. The minority group consisted of Teaching Elder Basil Albert and Ruling
 >
 > <a id="ga05-p241"></a>
-> <!-- PAGE ga=5 pdf_page=241 printed_page=null -->
+> <!-- PAGE ga=5 pdf_page=241 printed_page=239 printed_page_source=inferred -->
 >
 > Elder James Francis Miller. They indicated that they would submit a minority report. As of this
 > date, this statement is not yet in the hands of the Chairman.
@@ -128,7 +128,7 @@
 > Chapter 20, Section 2, of the Confession says:
 >
 > <a id="ga05-p242"></a>
-> <!-- PAGE ga=5 pdf_page=242 printed_page=null -->
+> <!-- PAGE ga=5 pdf_page=242 printed_page=240 printed_page_source=inferred -->
 >
 > God alone is Lord of the conscience, and hath left it free from the doctrines and commandments of men, which are, in anything contrary to His Word, or beside it, in matters of faith or worship. (Emphasis added.)
 >

@@ -31,7 +31,7 @@
 > The office of elder is rooted in the family itself. The period of the patriarchs reflects a time of both rule and teaching as proper functions of the head of the family (Gen. 18:19; 24:2). Even before the exodus there is evidence of the office of elder in Israel. Moses was sent to “gather the elders of Israel together” (Ex. 3:16) and to announce the forthcoming exodus. They were thus the representatives of the people. After Israel came out of Egypt, Moses set up a graduated court system (Ex. 18:21). In Numbers 11:16-17 reference is made to seventy men of the elders, who were to “bear the burden of the people” with Moses. The promise of the gift of the Spirit to equip these elders was made, thus confirming the fact that this was of the Lord. (See also: Deut. 25:7-9; 29:10; 31:9,28.) These passages clearly indicate the establishment of the office of elder, with the specific function of ruling. The function of teaching in the Old Testament was generally in the hands of the prophets and priests.
 >
 > <a id="ga04-p208"></a>
-> <!-- PAGE ga=4 pdf_page=208 printed_page=null -->
+> <!-- PAGE ga=4 pdf_page=208 printed_page=206 printed_page_source=inferred -->
 >
 > In the exile the people were scattered, and the Temple was destroyed. This gave rise to the synagogue or Jewish congregations wherever there were at least ten Jewish families. Douglas Bannerman in his *Scripture Doctrine of the Church* points to Acts 15:21 as indicating that the synagogue had Divine approval, even though its particular institution is not described in the Old Testament. The basic elements found under the ministry of Ezra and Nehemiah, prior to the reestablishment of the Temple, are those found in the synagogue. Bannerman points out that the presbytery was found in the synagogue.
 >
@@ -56,7 +56,7 @@
 > The late Dr. R. C. Reed, Professor of Church History at Columbia Theological Seminary, held to only one class of elders. He wrote regarding this in the *Union Seminary Review*, Volume XXI, No. 3, April, 1920. His argument may be summarized as follows: First, there is no evidence for two classes of elders in early post-apostolic history. The reason for this, he maintains, is that the New Testament itself did not teach such. He indicates that the New Testament Epistles, which include addresses to the officers of the Church, makes no distinction such as, pastor and elders. They are addressed either simply to the elders or to the bishops, which are, of course, interchangeable terms. Secondly, he lays upon the whole body of elders of the Ephesian Church the full task of shepherding the flock (Acts 20:28). Peter in I Peter 5:1-3 does the same thing. Reed maintains that all of the elders then were under charges to feed the flock, which included preaching and the administering the sacraments, as well as ruling. Thirdly, the same qualifications are given for all (I Timothy 3:1-7; Titus 1:5-9).
 >
 > <a id="ga04-p209"></a>
-> <!-- PAGE ga=4 pdf_page=209 printed_page=null -->
+> <!-- PAGE ga=4 pdf_page=209 printed_page=207 printed_page_source=inferred -->
 >
 > We quote Reed's argument at this point:
 >
@@ -85,7 +85,7 @@
 > Among the best arguments given against the single eldership without any distinction, are the following by Dr. David King of the Church of Scotland. He deals with this as he seeks to treat the work of a Congregationalist, Dr. Samuel Davidson, Professor of Biblical Literature in the Leicestershire College, London, in his work entitled Ecclesiastical Polity of the New
 >
 > <a id="ga04-p210"></a>
-> <!-- PAGE ga=4 pdf_page=210 printed_page=null -->
+> <!-- PAGE ga=4 pdf_page=210 printed_page=208 printed_page_source=inferred -->
 >
 > **Testament Unfolded, and Its Points of Coincidence or Disagreement with Prevailing Systems Indicated.** King sets forth the position in these words:
 >
@@ -102,7 +102,7 @@
 > &gt; “Paul requires that a bishop be ‘apt to teach.’ Does not this show that all bishops should be teaching bishops? — I answer, first, that there are various kinds of teaching, and that all elders have need of aptness to communicate instructions in various ways. They should be apt to train the young, to comfort the sorrowful, to convince the gainsaying. I answer secondly, that Dr. Davidson, and others who think with him, have quite an urgent reason to understand the teaching in this modified sense as we can have. It is Dr. Davidson’s theory that though all the primitive elders had a right to preach, some of them did not exercise the right, because they wanted the requisite talent. Why then, if public teaching is meant, did Paul declare aptness to teach to be indispensable, and yet ordain men to the office by whom no such qualifications were possessed? The door of escape which will give Dr. Davidson relief from this difficulty will suffice for our release.” (Op. cit., page 35).
 >
 > <a id="ga04-p211"></a>
-> <!-- PAGE ga=4 pdf_page=211 printed_page=null -->
+> <!-- PAGE ga=4 pdf_page=211 printed_page=209 printed_page_source=inferred -->
 >
 > It is interesting that Dr. Thornwell in his treatment of the matter brings out the fact that the term pastor or shepherd does not necessarily involve the idea of teacher. He says,
 >
@@ -121,7 +121,7 @@
 > “Such then is the amount of the testimony of the early church fathers. They tell us, with a unanimity and frequency truly remarkable, that, in every church, there was a bench or college of elders: that they sat with the bishop or pastor, as an ecclesiastical judicatory, and with him ruled the church: that this bench or body of rulers was called by various names in different parts of the world; . . . that they were always present with the bishop or pastor when he presided in public worship: that he did nothing of importance without consulting them: that they seldom or never preached, unless in cases of necessity, or when especially requested to do so by the pastor: that they were more frequently than otherwise called clergymen, like the elders who ‘labored in the Word and doctrine,’ but sometimes distinguished from the clergy: that, however, whether called clergymen or not, they ‘ecclesiastical men,’ that is, set apart for ecclesiastical purposes, devoted to the spiritual rule and edification of the Church; that all questions of discipline, such as admitting members into the Church, inspecting their Christian deportment, and censuring, suspending, and excommunicating, were decided by these elders: and, finally, from all it
 >
 > <a id="ga04-p212"></a>
-> <!-- PAGE ga=4 pdf_page=212 printed_page=null -->
+> <!-- PAGE ga=4 pdf_page=212 printed_page=210 printed_page_source=inferred -->
 >
 > is apparent, that as discipline became unpopular, and ecclesiastics more aspiring, the ruling part of the elder's office was gradually laid aside, and the teaching part alone retained.” (An Essay on the Warrant, Nature, and Duties of the Office of the Ruling Elder in the Presbyterian Church, pp. 105-106)
 >
@@ -148,7 +148,7 @@
 > From this description of the Westminster Divines we see actually four offices. There are two classes of ministers of the Word, namely, pastors and teachers. The pastors minister the Word and rule, whereas the teachers only preach the Word and teach it. The other rulers, or elders, simply rule without being involved in the teaching function. The Christian Reformed Church maintains essentially this position today. Presbyterian Churches in America, and in
 >
 > <a id="ga04-p213"></a>
-> <!-- PAGE ga=4 pdf_page=213 printed_page=null -->
+> <!-- PAGE ga=4 pdf_page=213 printed_page=211 printed_page_source=inferred -->
 >
 > particular, Southern Presbyterian Churches, have not kept the professors separate from other teaching elders. Rather, they have subsumed them under the same general category, giving them the privileges of both teaching and ruling. The Southern Presbyterian Church also expanded the office of the deacon to include more than just ministry to the poor. It has taken the idea of all temporal functions legitimately belonging to this office, in order to allow the elders to devote themselves to the spiritual functions of prayer and ministry of the Word. This Southern Presbyterian position has been carried over into the PCA.
 >
@@ -159,7 +159,7 @@
 > (See paragraph 4-84 for recommendations adopted by the General Assembly.)
 >
 > <a id="ga04-p214"></a>
-> <!-- PAGE ga=4 pdf_page=214 printed_page=null -->
+> <!-- PAGE ga=4 pdf_page=214 printed_page=212 printed_page_source=inferred -->
 
 ---
 

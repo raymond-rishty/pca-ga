@@ -29,7 +29,7 @@
 > d. Your Ad-Interim Committee is sensitive to the need which prompts the request of the motion before us, namely the fact that small churches often lack the ordained ministry to have the sacraments administered and would be assisted by the allowance of ruling elders to so administer them. We would point out that the proper acknowledgement of this need by the presbytery and by its ministers and by the churches with ministers should result in the working out of the words of Romans 15:1, “We then that are strong ought to bear the infirmities of the weak . . .” by insuring the regular visit of teaching elders to all churches which are without this ministry.
 >
 > <a id="ga02-p179"></a>
-> <!-- PAGE ga=2 pdf_page=179 printed_page=null -->
+> <!-- PAGE ga=2 pdf_page=179 printed_page=177 printed_page_source=inferred -->
 >
 > Biobliographical Materials Considered in the Preparation of This Report:
 > 1. Papers submitted by Elders James Francis Miller and Walter Gwin
@@ -81,7 +81,7 @@
 > The amendment, as proposed, would not be fully effective unless
 >
 > <a id="ga02-p180"></a>
-> <!-- PAGE ga=2 pdf_page=180 printed_page=null -->
+> <!-- PAGE ga=2 pdf_page=180 printed_page=178 printed_page_source=inferred -->
 >
 > and until the Confession of Faith is amended at Chapter 27, Section 4, and Chapter 28, Section 2, in both cases to remove the limitation of sacramental administration to ministers. Also, certain concurrent alterations in the Directory of Worship would be required.
 >
@@ -108,7 +108,7 @@
 > A clearer statement of reliance on tradition could scarcely be found! Note particularly the parts of the General Note underlined in the light of the Confessional principles set out below. Chapter 20, Section 2, of the Confession says:
 >
 > <a id="ga02-p181"></a>
-> <!-- PAGE ga=2 pdf_page=181 printed_page=null -->
+> <!-- PAGE ga=2 pdf_page=181 printed_page=179 printed_page_source=inferred -->
 >
 > God alone is Lord of the conscience, and hath left it free from the doctrines and commandments of men, which are, in anything contrary to His Word, or beside it, in matters of faith or worship. (Emphasis added.)
 >
@@ -137,7 +137,7 @@
 > James Francis Miller
 >
 > <a id="ga02-p180"></a>
-> <!-- PAGE ga=2 pdf_page=182 printed_page=180 -->
+> <!-- PAGE ga=2 pdf_page=182 printed_page=180 printed_page_source=inferred -->
 >
 > Appendix P
 > AMENDMENT TO CERTIFICATION OF INCORPORATION
@@ -188,7 +188,7 @@
 > G. A. Biddle, Ass’t Secretary of State
 >
 > <a id="ga02-p181"></a>
-> <!-- PAGE ga=2 pdf_page=183 printed_page=181 -->
+> <!-- PAGE ga=2 pdf_page=183 printed_page=181 printed_page_source=inferred -->
 >
 > # PART IV
 > ## STATISTICS
@@ -241,7 +241,7 @@
 > When a minister's name is placed in parenthesis, it indicates that he is not a member of the presbytery.
 >
 > <a id="ga02-p184"></a>
-> <!-- PAGE ga=2 pdf_page=184 printed_page=null -->
+> <!-- PAGE ga=2 pdf_page=184 printed_page=182 printed_page_source=inferred -->
 >
 > CALVARY PRESBYTERY
 > (All towns are in South Carolina.)
@@ -298,7 +298,7 @@
 > number of ministers ____ 32
 >
 > <a id="ga02-p185"></a>
-> <!-- PAGE ga=2 pdf_page=185 printed_page=null -->
+> <!-- PAGE ga=2 pdf_page=185 printed_page=183 printed_page_source=inferred -->
 >
 > statistics 183
 >
@@ -357,7 +357,7 @@
 > 6,863 137 54 333 43 57 316 7,337 4,608
 >
 > <a id="ga02-p186"></a>
-> <!-- PAGE ga=2 pdf_page=186 printed_page=null -->
+> <!-- PAGE ga=2 pdf_page=186 printed_page=184 printed_page_source=inferred -->
 >
 > Calvary Presbytery
 > (c on tin u ed )
@@ -412,7 +412,7 @@
 > 20,049 63,287 25,717 24,228 66,021 50,957 796,637 147,236 1,165.779
 >
 > <a id="ga02-p187"></a>
-> <!-- PAGE ga=2 pdf_page=187 printed_page=null -->
+> <!-- PAGE ga=2 pdf_page=187 printed_page=185 printed_page_source=inferred -->
 >
 > STATISTICS 185
 >
@@ -456,7 +456,7 @@
 > Number of Ministers ... 13
 >
 > <a id="ga02-p188"></a>
-> <!-- PAGE ga=2 pdf_page=188 printed_page=null -->
+> <!-- PAGE ga=2 pdf_page=188 printed_page=186 printed_page_source=inferred -->
 >
 > Carolina Presbytery
 > (c on tin u ed )
@@ -500,7 +500,7 @@
 > 1.945 31 38 129 24 23 128 2,137 1,019
 >
 > <a id="ga02-p189"></a>
-> <!-- PAGE ga=2 pdf_page=189 printed_page=null -->
+> <!-- PAGE ga=2 pdf_page=189 printed_page=187 printed_page_source=inferred -->
 >
 > statistics
 >
@@ -547,7 +547,7 @@
 > 7,237 8,470 18,812 17,359 45,046 30,416 331,450 34,912
 >
 > <a id="ga02-p190"></a>
-> <!-- PAGE ga=2 pdf_page=190 printed_page=null -->
+> <!-- PAGE ga=2 pdf_page=190 printed_page=188 printed_page_source=inferred -->
 >
 > ## COVENANT PRESBYTERY
 >
@@ -577,7 +577,7 @@
 > Number of Ministers ... 10
 >
 > <a id="ga02-p191"></a>
-> <!-- PAGE ga=2 pdf_page=191 printed_page=null -->
+> <!-- PAGE ga=2 pdf_page=191 printed_page=189 printed_page_source=inferred -->
 >
 > statistics 189
 >
@@ -611,7 +611,7 @@
 > 1,123 24 13 36 7 11 106 1,315 761
 >
 > <a id="ga02-p192"></a>
-> <!-- PAGE ga=2 pdf_page=192 printed_page=null -->
+> <!-- PAGE ga=2 pdf_page=192 printed_page=190 printed_page_source=inferred -->
 >
 > Covenant Presbytery
 > (c on tin u ed )
@@ -640,7 +640,7 @@
 > 1,203 1,934 2,453 2,101 8,996 29,211 156,337 27,851 230,886
 >
 > <a id="ga02-p193"></a>
-> <!-- PAGE ga=2 pdf_page=193 printed_page=null -->
+> <!-- PAGE ga=2 pdf_page=193 printed_page=191 printed_page_source=inferred -->
 >
 > statistics
 >
@@ -702,7 +702,7 @@
 > number of ministers ___________________ 23
 >
 > <a id="ga02-p194"></a>
-> <!-- PAGE ga=2 pdf_page=194 printed_page=null -->
+> <!-- PAGE ga=2 pdf_page=194 printed_page=192 printed_page_source=inferred -->
 >
 > Evangel Presbytery
 > (c on tin u ed )
@@ -758,7 +758,7 @@
 > ,300 155 178 356 36 74 427 7,455
 >
 > <a id="ga02-p195"></a>
-> <!-- PAGE ga=2 pdf_page=195 printed_page=null -->
+> <!-- PAGE ga=2 pdf_page=195 printed_page=193 printed_page_source=inferred -->
 >
 > Line
 > No.
@@ -855,7 +855,7 @@
 > 1,478,153
 >
 > <a id="ga02-p196"></a>
-> <!-- PAGE ga=2 pdf_page=196 printed_page=null -->
+> <!-- PAGE ga=2 pdf_page=196 printed_page=194 printed_page_source=inferred -->
 >
 > GRACE PRESBYTERY
 > (A ll towns a rein mississippi except as indicated .)
@@ -911,7 +911,7 @@
 > number of ministers ........................................ 24
 >
 > <a id="ga02-p197"></a>
-> <!-- PAGE ga=2 pdf_page=197 printed_page=null -->
+> <!-- PAGE ga=2 pdf_page=197 printed_page=195 printed_page_source=inferred -->
 >
 > statistics 195
 >
@@ -966,7 +966,7 @@
 > 2,200 ~53 "39 '4 4 _ 15~ 43 241“ 4,200 M 60
 >
 > <a id="ga02-p198"></a>
-> <!-- PAGE ga=2 pdf_page=198 printed_page=null -->
+> <!-- PAGE ga=2 pdf_page=198 printed_page=196 printed_page_source=inferred -->
 >
 > Grace Presbytery
 > (c on tin u ed )
@@ -1020,7 +1020,7 @@
 > 12,829 11,708 3,564 5,085 67,849 15,285 315,117 45,952 460,026
 >
 > <a id="ga02-p199"></a>
-> <!-- PAGE ga=2 pdf_page=199 printed_page=null -->
+> <!-- PAGE ga=2 pdf_page=199 printed_page=197 printed_page_source=inferred -->
 >
 > STATISTICS 197
 >
@@ -1063,7 +1063,7 @@
 > Number of Ministers ... 11
 >
 > <a id="ga02-p7"></a>
-> <!-- PAGE ga=2 pdf_page=200 printed_page=7 -->
+> <!-- PAGE ga=2 pdf_page=200 printed_page=198 printed_page_source=inferred -->
 >
 > Presbytery of the Gulf Coast
 > (c on tin u ed )
@@ -1105,7 +1105,7 @@
 > 2,295 65 27 43 51 29 298 2,132
 >
 > <a id="ga02-p201"></a>
-> <!-- PAGE ga=2 pdf_page=201 printed_page=null -->
+> <!-- PAGE ga=2 pdf_page=201 printed_page=199 printed_page_source=inferred -->
 >
 > STATISTICS
 >
@@ -1147,7 +1147,7 @@
 > |   | 4,375 | 2,844 | 9,860 | 75 | 73,187 | 37,544 | 198,275 | 87,549 | 410,083  |
 >
 > <a id="ga02-p202"></a>
-> <!-- PAGE ga=2 pdf_page=202 printed_page=null -->
+> <!-- PAGE ga=2 pdf_page=202 printed_page=200 printed_page_source=inferred -->
 >
 > ## PRESBYTERY OF MISSISSIPPI VALLEY
 > (All towns are in Mississippi except as indicated.)
@@ -1218,7 +1218,7 @@
 > Number of Ministers ... 40
 >
 > <a id="ga02-p203"></a>
-> <!-- PAGE ga=2 pdf_page=203 printed_page=null -->
+> <!-- PAGE ga=2 pdf_page=203 printed_page=201 printed_page_source=inferred -->
 >
 > statistics
 > Presbytery of Mississippi Valley
@@ -1287,7 +1287,7 @@
 > ,023 90 61 249 22 78 453 7,441
 >
 > <a id="ga02-p204"></a>
-> <!-- PAGE ga=2 pdf_page=204 printed_page=null -->
+> <!-- PAGE ga=2 pdf_page=204 printed_page=202 printed_page_source=inferred -->
 >
 > Presbytery of Mississippi Valley
 > (c on tin u ed )
@@ -1358,7 +1358,7 @@
 > 3,325
 >
 > <a id="ga02-p205"></a>
-> <!-- PAGE ga=2 pdf_page=205 printed_page=null -->
+> <!-- PAGE ga=2 pdf_page=205 printed_page=203 printed_page_source=inferred -->
 >
 > STATISTICS 203
 >
@@ -1407,7 +1407,7 @@
 > Number of Ministers ... 21
 >
 > <a id="ga02-p206"></a>
-> <!-- PAGE ga=2 pdf_page=206 printed_page=null -->
+> <!-- PAGE ga=2 pdf_page=206 printed_page=204 printed_page_source=inferred -->
 >
 > New River Presbytery
 > (c on tin u ed )
@@ -1455,7 +1455,7 @@
 > No. Year of Faith Reaffirmation Transfer Baptisms Baptisms Losses Dec. 31,1973 Enrollment
 >
 > <a id="ga02-p207"></a>
-> <!-- PAGE ga=2 pdf_page=207 printed_page=null -->
+> <!-- PAGE ga=2 pdf_page=207 printed_page=205 printed_page_source=inferred -->
 >
 > STATISTICS
 >
@@ -1502,7 +1502,7 @@
 > |  2 | — | — | — | — | — | — | — | — | —  |
 >
 > <a id="ga02-p208"></a>
-> <!-- PAGE ga=2 pdf_page=208 printed_page=null -->
+> <!-- PAGE ga=2 pdf_page=208 printed_page=206 printed_page_source=inferred -->
 >
 > ## PRESBYTERY OF SOUTHERN FLORIDA
 > *(All towns are in Florida.)*
@@ -1553,7 +1553,7 @@
 > Number of Ministers ... 8
 >
 > <a id="ga02-p209"></a>
-> <!-- PAGE ga=2 pdf_page=209 printed_page=null -->
+> <!-- PAGE ga=2 pdf_page=209 printed_page=207 printed_page_source=inferred -->
 >
 > statistics 207
 >
@@ -1605,7 +1605,7 @@
 > 1,275 89 49 104 21 55 89 3,023 2,259
 >
 > <a id="ga02-p210"></a>
-> <!-- PAGE ga=2 pdf_page=210 printed_page=null -->
+> <!-- PAGE ga=2 pdf_page=210 printed_page=208 printed_page_source=inferred -->
 >
 > Presbytery of Southern Florida
 > (continued)
@@ -1652,7 +1652,7 @@
 > 58,142 17,944 2,950 2,708 105,484 270,740 502,521 15,259 938,987
 >
 > <a id="ga02-p211"></a>
-> <!-- PAGE ga=2 pdf_page=211 printed_page=null -->
+> <!-- PAGE ga=2 pdf_page=211 printed_page=209 printed_page_source=inferred -->
 >
 > STATISTICS 209
 >
@@ -1690,7 +1690,7 @@
 > Number of Ministers ... 6
 >
 > <a id="ga02-p212"></a>
-> <!-- PAGE ga=2 pdf_page=212 printed_page=null -->
+> <!-- PAGE ga=2 pdf_page=212 printed_page=210 printed_page_source=inferred -->
 >
 > Presbytery of Texas
 > (continued)
@@ -1722,7 +1722,7 @@
 > No. Year of Faith Reaffirmation Transfer Baptisms Baptisms Losses Dec. 31,1973 rollment
 >
 > <a id="ga02-p213"></a>
-> <!-- PAGE ga=2 pdf_page=213 printed_page=null -->
+> <!-- PAGE ga=2 pdf_page=213 printed_page=211 printed_page_source=inferred -->
 >
 > statistics 211
 >
@@ -1758,7 +1758,7 @@
 > 507 180 533 100 21,319 7,017 29,973
 >
 > <a id="ga02-p214"></a>
-> <!-- PAGE ga=2 pdf_page=214 printed_page=null -->
+> <!-- PAGE ga=2 pdf_page=214 printed_page=212 printed_page_source=inferred -->
 >
 > WARRIOR PRESBYTERY
 > (A ll towns are ina lab am a.)
@@ -1797,7 +1797,7 @@
 > number or ministers ................. - .. 11
 >
 > <a id="ga02-p215"></a>
-> <!-- PAGE ga=2 pdf_page=215 printed_page=null -->
+> <!-- PAGE ga=2 pdf_page=215 printed_page=213 printed_page_source=inferred -->
 >
 > statistics 213
 >
@@ -1838,7 +1838,7 @@
 > 1,649 26 15 48 10 13 84 1,705 1,108
 >
 > <a id="ga02-p216"></a>
-> <!-- PAGE ga=2 pdf_page=216 printed_page=null -->
+> <!-- PAGE ga=2 pdf_page=216 printed_page=214 printed_page_source=inferred -->
 >
 > Warrior Presbytery
 > (continued)
@@ -1875,7 +1875,7 @@
 > 512 721 3,160 11,774 16,357 14,441 203,142 23,574 270,824
 >
 > <a id="ga02-p217"></a>
-> <!-- PAGE ga=2 pdf_page=217 printed_page=null -->
+> <!-- PAGE ga=2 pdf_page=217 printed_page=215 printed_page_source=inferred -->
 >
 > statistics 215
 >
@@ -1928,7 +1928,7 @@
 > number of ministers _________________ 12
 >
 > <a id="ga02-p218"></a>
-> <!-- PAGE ga=2 pdf_page=218 printed_page=null -->
+> <!-- PAGE ga=2 pdf_page=218 printed_page=216 printed_page_source=inferred -->
 >
 > Presbytery of Western Carolinas
 > (continued)
@@ -1976,7 +1976,7 @@
 > 486 10 25 15 10- 6 15 934 739
 >
 > <a id="ga02-p219"></a>
-> <!-- PAGE ga=2 pdf_page=219 printed_page=null -->
+> <!-- PAGE ga=2 pdf_page=219 printed_page=217 printed_page_source=inferred -->
 >
 > STATISTICS 217
 >
@@ -2020,7 +2020,7 @@
 > |   | 426 | 1,113 | 23 | 1,015 | 1,599 | 6,230 | 63,030 | 1,896 | 81,169  |
 >
 > <a id="ga02-p220"></a>
-> <!-- PAGE ga=2 pdf_page=220 printed_page=null -->
+> <!-- PAGE ga=2 pdf_page=220 printed_page=218 printed_page_source=inferred -->
 >
 > Statistical Summaries by Presbyteries
 > for the Year 1973
@@ -2059,7 +2059,7 @@
 > that time . it is hoped that more accurate records maybe obtained at the end of 1974.
 >
 > <a id="ga02-p219"></a>
-> <!-- PAGE ga=2 pdf_page=221 printed_page=219 -->
+> <!-- PAGE ga=2 pdf_page=221 printed_page=219 printed_page_source=inferred -->
 >
 > membership
 >
@@ -2118,7 +2118,7 @@
 > 208,807 259,542 175,569 95,105 989,816 1,566,176 6,130,742 1,048,460 10,420,127
 >
 > <a id="ga02-p220"></a>
-> <!-- PAGE ga=2 pdf_page=222 printed_page=220 -->
+> <!-- PAGE ga=2 pdf_page=222 printed_page=220 printed_page_source=inferred -->
 >
 > DIRECTORY OF CHURCHES
 > town church and address presbytery
@@ -2185,7 +2185,7 @@
 > edge mont , 1013 edge mont ave . westminster
 >
 > <a id="ga02-p223"></a>
-> <!-- PAGE ga=2 pdf_page=223 printed_page=null -->
+> <!-- PAGE ga=2 pdf_page=223 printed_page=221 printed_page_source=inferred -->
 >
 > DIRECTORY OF CHURCHES 221
 > |  Town | Church and Address | Presbytery  |
@@ -2222,7 +2222,7 @@
 > |  Courtland, AL 35618 |  |   |
 >
 > <a id="ga02-p224"></a>
-> <!-- PAGE ga=2 pdf_page=224 printed_page=null -->
+> <!-- PAGE ga=2 pdf_page=224 printed_page=222 printed_page_source=inferred -->
 >
 > |  Town | Church and Address | Presbytery  |
 > | --- | --- | --- |
@@ -2290,7 +2290,7 @@
 > |   | Friendship, Black Mt., NC | Western Carolinas  |
 >
 > <a id="ga02-p225"></a>
-> <!-- PAGE ga=2 pdf_page=225 printed_page=null -->
+> <!-- PAGE ga=2 pdf_page=225 printed_page=223 printed_page_source=inferred -->
 >
 > DIRECTORY OF CHURCHES 223
 >
@@ -2644,7 +2644,7 @@
 > |   | Zion, Columbia, TN | Covenant  |
 >
 > <a id="ga02-p229"></a>
-> <!-- PAGE ga=2 pdf_page=231 printed_page=229 -->
+> <!-- PAGE ga=2 pdf_page=231 printed_page=null -->
 >
 > # MINISTERIAL DIRECTORY
 >
@@ -3238,7 +3238,7 @@
 > |  8445 Amigo Avenue, No. 10, Northridge, CA 91324 | Pacific  |
 >
 > <a id="ga02-p235"></a>
-> <!-- PAGE ga=2 pdf_page=237 printed_page=235 -->
+> <!-- PAGE ga=2 pdf_page=237 printed_page=null -->
 >
 > ## Ad-Interim Committees
 >

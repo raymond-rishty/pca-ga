@@ -23,7 +23,7 @@
 > further reaffirmed their adherance to the Reformed Faith as expressed in the Westminster Confession of
 >
 > <a id="ga01-p27"></a>
-> <!-- PAGE ga=1 pdf_page=27 printed_page=null -->
+> <!-- PAGE ga=1 pdf_page=27 printed_page=27 printed_page_source=inferred -->
 >
 > Faith and Catechisms; and have further declared their acceptance of the presbyterian representative form of
 > church government;

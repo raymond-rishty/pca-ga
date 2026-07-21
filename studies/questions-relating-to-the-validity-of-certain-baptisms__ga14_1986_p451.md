@@ -37,7 +37,7 @@
 > The committee approached this question constrained by the biblical teaching Eph. 4:5; cf. Westminster Confession of Faith xxviii, 7) that there is one baptism. Thus it addresses the question of valid or invalid baptism not as one of rebaptism. In approaching the subject of a valid or invalid baptism, the Committee was instructed by the analogy of Acts 19:1-7. In this account, the disciples of John the Baptist are not rebaptized with a second Christian baptism, even though of course one may speak in some sense of a
 >
 > <a id="ga14-p452"></a>
-> <!-- PAGE ga=14 pdf_page=452 printed_page=null -->
+> <!-- PAGE ga=14 pdf_page=452 printed_page=450 printed_page_source=inferred -->
 >
 > rebaptism, since they had been baptized into John the Baptist's baptism, but when baptized by Paul in the name of the Lord Jesus they were baptized for the first time with Christian baptism. Even though the baptism of John is not regarded as invalid but as not the baptism of Jesus, this passage does provide the church an example, by analogy, of evaluating a previous baptism and then proceeding to Christian baptism if that former baptism is not regarded as Christian. It should thus be agreed that it is an appropriate act to administer Christian baptism if a previous baptism is regarded as invalid, and it should also be agreed that this is not a second Christian baptism or a rebaptism.
 >
@@ -54,7 +54,7 @@
 > The Committee considered it one of its first responsibilities to ascertain what is involved in true Christian baptism. The form comprises water and the name of the Trinity (Mt. 28:19, sometimes expressed, however, by the name of the Savior Jesus alone as the mediatorial representative of the Trinity; cf. Acts 2:38 and elsewhere in Acts and the New Testament, Westminster Confession of Faith xxviii, 2; Larger Catechism 165; Shorter Catechism 94). The basic assumption, intention or design is that the Christian rite or sacrament of baptism is being performed. The Westminster Confession of Faith (xxviii, 1) summarizes the biblical truths in reference to baptism when it says that it is a sacrament "not only for the solemn admission of the party baptized into the visible Church; but also, to be unto him a sign and seal of the covenant of grace, of his ingrafting into Christ, of regeneration, of remission of sins, and of his giving up unto God through Jesus Christ, to walk in newness of life" (cf. Larger Catechism 165; Shorter Catechism 94). Thus baptism teaches the doctrine of union with Christ and its implications for the believer and also union with Christ's people, both His spiritual body and the visible Church ("for the solemn admission of the party baptized into the visible Church, Westminster Confession of Faith, xxxviii, 1, reflecting such biblical passages as Acts 2:38-42, cf. also Larger Catechism 165). Furthermore, baptism is given as a sacrament to Christ's Church to be administered by the Church in its ministry ("which sacrament is, by Christ's own appointment, to be continued in His Church until the end of the world" (Westminster Confession of Faith xviii, 1 reflecting Mt. 28:19, 20; cf. xxvii, 4, and xxviii, 2, and Larger Catechism 164). With this generally agreed upon
 >
 > <a id="ga14-p453"></a>
-> <!-- PAGE ga=14 pdf_page=453 printed_page=null -->
+> <!-- PAGE ga=14 pdf_page=453 printed_page=451 printed_page_source=inferred -->
 >
 > conception of what baptism is, according to the Scriptures and the summary of the Scriptural truth provided by the confessional documents, the committee examined the two approaches to the question of the validity of baptism using the Roman Catholic baptism as a test case as previously indicated.
 >
@@ -79,7 +79,7 @@
 > (2) The Romish priests are not ministers of Christ and therefore the rites administered by them cannot be regarded as the ordinances of Christ.
 >
 > <a id="ga14-p454"></a>
-> <!-- PAGE ga=14 pdf_page=454 printed_page=null -->
+> <!-- PAGE ga=14 pdf_page=454 printed_page=452 printed_page_source=inferred -->
 >
 > (3) The doctrine or meaning of the sacrament of baptism is so corrupted by the Romish communion that it invalidates the sacrament of baptism.
 >
@@ -100,7 +100,7 @@
 > The Apostle John says that the false teachers and leaders that he opposed "went out from us . . . in order that it might be shown that they all are not of us" (1 John 2:19). John's verdict covering a group existing alongside of his own fellowship as not part of the apostolic fellowship or communion, made us realize such a verdict would also have to be rendered on a group like that of the Galatian false teachers who were adjudged with equal severity by Paul, if and when they existed as a separate entity. The similarity
 >
 > <a id="ga14-p455"></a>
-> <!-- PAGE ga=14 pdf_page=455 printed_page=null -->
+> <!-- PAGE ga=14 pdf_page=455 printed_page=453 printed_page_source=inferred -->
 >
 > between the false teachers in the book of Galations and the Roman Catholic Church is so close that the committee was compelled by the Scripture to come to the same verdict on that group that the Apostle Paul had, and also by implication as the Apostle John had, in an analogous situation.
 >
@@ -123,7 +123,7 @@
 > The committee is persuaded that this argument like argument number (2) is really a sub-point or corollary of argument number (1). When the Gospel's doctrine of justification is repudiated, then the church, its ministry, and its sacraments, all stand under the judgment of the Apostle Paul of "no gospel," of distortion of the Gospel of Christ and of being accursed by God (Gal. 1:6-9). Although the doctrine of the mass can itself directly challenge the once-for-all sacrifice of Christ and its sufficiency and thus by itself be so
 >
 > <a id="ga14-p456"></a>
-> <!-- PAGE ga=14 pdf_page=456 printed_page=null -->
+> <!-- PAGE ga=14 pdf_page=456 printed_page=454 printed_page_source=inferred -->
 >
 > corrupting that it invalidates that sacrament, and although there are many erroneous features to the doctrine of baptism in the Roman Catholic Church (e.g., baptismal regeneration and forgiveness solely through the operation of the sacrament), in the case of the sacrament of baptism it is not these errors that invalidate the sacrament but rather the overarching repudiation of the Gospel of grace alone through faith alone that invalidates the Roman Catholic Church, its message, and its sacraments.
 >
@@ -155,7 +155,7 @@
 > Q. May infant baptism properly be administered to covenant children of persons who are not members of the particular congregation asked? (For personal reasons they have not joined Trinity, but hold membership in the CRC where they formerly resided.) If so, under what circumstances?
 >
 > <a id="ga14-p457"></a>
-> <!-- PAGE ga=14 pdf_page=457 printed_page=null -->
+> <!-- PAGE ga=14 pdf_page=457 printed_page=455 printed_page_source=inferred -->
 >
 > A. Ordinarily infant baptism should be administered only to covenant children of persons who are
 > members of the requested congregation. However, baptism is not to be unnecessarily delayed
@@ -231,7 +231,7 @@
 > deny this position, or who question her authority, she denounces with the bitterest curses.
 >
 > <a id="ga14-p458"></a>
-> <!-- PAGE ga=14 pdf_page=458 printed_page=null -->
+> <!-- PAGE ga=14 pdf_page=458 printed_page=456 printed_page_source=inferred -->
 >
 > “She thus perverts the truth of God: she rejects the doctrine of justification by faith; she substitutes
 > human merit for the righteousness of Christ; and self-inflicted punishment for gospel repentence: She
@@ -305,7 +305,7 @@
 > that this society is no true part of Christ's visible Church; or by the utter change of corruption of the element
 >
 > <a id="ga14-p459"></a>
-> <!-- PAGE ga=14 pdf_page=459 printed_page=null -->
+> <!-- PAGE ga=14 pdf_page=459 printed_page=457 printed_page_source=inferred -->
 >
 > and doctrine of the sacrament. And our Assemblies have correctly held, that the form called by the Popish communion “Christian baptism” has ceased, for both reasons, to be valid; because that society is declared in Scripture to be antichrist, and Babylon, and apostate, out of which the Lord requireth His “people to come, that they may not be partakers of her plagues;” and because she hath, with superstitious design, substituted a mixed element in place of water, which Christ ordained to be used as the emblem, and hath utterly corrupted the doctrine of holy baptism into an incantation working *ex opere operato*.
 >
@@ -330,7 +330,7 @@
 > As helpful as Church history may be on this issue, it is to the Scriptures and to our subordinate standards to which we should principally look for direction. When we consider biblical and Confessional teachings, we must give careful attention to the distinction which is central to resolution of this issue: whether a
 >
 > <a id="ga14-p460"></a>
-> <!-- PAGE ga=14 pdf_page=460 printed_page=null -->
+> <!-- PAGE ga=14 pdf_page=460 printed_page=458 printed_page_source=inferred -->
 >
 > baptism is irregular or improper (a matter of regularity or propriety) and the related question of whether the baptism was valid or efficacious. Confusion of these two matters has made more difficult the resolution of this baptismal controversy. Specifically, in order to establish that a certain baptism was invalid, it is not sufficient simply to demonstrate it to have been irregularly administered. For example, our Standards teach that a baptism administered by immersion is improper, yet valid. (WCF 28:3)
 >
@@ -361,7 +361,7 @@
 > ...Moreover, if we have rightly determined that a sacrament is not to be estimated by the
 >
 > <a id="ga14-p461"></a>
-> <!-- PAGE ga=14 pdf_page=461 printed_page=null -->
+> <!-- PAGE ga=14 pdf_page=461 printed_page=459 printed_page_source=inferred -->
 >
 > hand of him by whom it is administered, but is to be received as from the hand of God Himself, from Whom it undoubtedly proceeded, we may hence infer that its dignity neither gains nor loses by the administrator... This confutes the error of the Donatists, who measured the efficacy and worth of the sacrament by the dignity of the minister. Such in the present day are our catabaptists (rebaptizers) who deny that we are duly baptized, because we were baptized in the Papacy by wicked men and idolaters; hence, they furiously insist on anabaptism (rebaptism). Against these absurdities we shall be sufficiently fortified if we reflect that by baptism we were initiated not into the name of any man, but into the Name of the Father, and the Son, and the Holy Spirit; and, therefore, that baptism is not of man, but of God, by whomsoever it may have been administered. (Institutes, 1559 edition, IV:15:16-17)
 >
@@ -391,7 +391,7 @@
 > A session which wishes to carry out its God-given responsibilities with sensitivity and conscientiousness may find the task of investigating previous baptisms a heavy and, at times, an impracticable one. As noted in the aforementioned report adopted by the 159th General Synod of the RPCES,
 >
 > <a id="ga14-p462"></a>
-> <!-- PAGE ga=14 pdf_page=462 printed_page=null -->
+> <!-- PAGE ga=14 pdf_page=462 printed_page=460 printed_page_source=inferred -->
 >
 > “The process of investigation through the dim past, searching out such things as faith or
 > the lack of it in deceased priest or parents, will convince one that only God knows the heart.
@@ -463,7 +463,7 @@
 > proper for a minister to baptize the child of members of another church where those members
 >
 > <a id="ga14-p463"></a>
-> <!-- PAGE ga=14 pdf_page=463 printed_page=null -->
+> <!-- PAGE ga=14 pdf_page=463 printed_page=461 printed_page_source=inferred -->
 >
 > find it impossible or impracticable to return to their home church due to an occupational assignment (military, business, etc.). In every case such baptism should be administered only with the consent of the home church session, with proper notification of the baptism in order that due spiritual oversight may be given and accurate records kept. (This recommendation is identical to that of recommendation #4 of the Committee (Majority) Report.)
 >
@@ -478,7 +478,7 @@
 > J.G. Thompson
 >
 > <a id="ga14-p464"></a>
-> <!-- PAGE ga=14 pdf_page=464 printed_page=null -->
+> <!-- PAGE ga=14 pdf_page=464 printed_page=462 printed_page_source=inferred -->
 
 ---
 
