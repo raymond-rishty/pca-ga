@@ -37,7 +37,7 @@
 > Woman have special ministries. Even since Eve, they have been endowed with a capacity for sensitivity to others, for tender love, for self-giving, and for understanding. God put human lives into women's hands in special ways through childbirth and homemaking. Also, a woman's creativity expresses itself through her relationship to the outside world and she can refresh the world through her spiritual insight and service (Pr. 31:16-31, Tit. 2:3-5).
 >
 > <a id="ga09-p275"></a>
-> <!-- PAGE ga=9 pdf_page=275 printed_page=null -->
+> <!-- PAGE ga=9 pdf_page=275 printed_page=273 printed_page_source=inferred -->
 >
 > Not only our gifts but also our possessions must be managed to fulfill responsible stewardship. Here neither covetousness nor materialism may be allowed to block the proper use of our possessions and income. Paul warns, "The love of money is the root of all kinds of evil" (I. T1. 6:10) Paul was referring not to an occasional evil but to something that becomes an actual way of living, and which is a universal disease, having its roots in the ground of not believing God.
 >
@@ -60,7 +60,7 @@
 > The primary responsibilities of the church are the worship of God, the evangelization of the world and the edification of the church through the proclamation of God's Word
 >
 > <a id="ga09-p276"></a>
-> <!-- PAGE ga=9 pdf_page=276 printed_page=null -->
+> <!-- PAGE ga=9 pdf_page=276 printed_page=274 printed_page_source=inferred -->
 >
 > (Mt. 28:19-20, "Go ye therefore, and teach all nations, baptizing them in the name of the Father, and of the Son, and of the Holy Ghost: teaching them to observe all things whatsoever I have commanded you: and lo, I am with you alway, even unto the end of the world.")
 >
@@ -91,7 +91,7 @@
 > Corporately, the members of the Presbyterian Church in America exercise their stewardship through the denomination as it operates on four principles of stewardship adopted by the General Assembly: (1) The church is responsible for carrying out the Great Commission. (2) The work of the church as set forth in the Great Commission is one work, being implemented on the General Assembly level through our equally essential committees. (3) It is the responsibility of all member congregations to support the whole work of the denomination as they be led in their conscience held captive to the Word of God. (4) It is the responsibility of the General Assembly to evaluate needs and resources, and to act on
 >
 > <a id="ga09-p277"></a>
-> <!-- PAGE ga=9 pdf_page=277 printed_page=null -->
+> <!-- PAGE ga=9 pdf_page=277 printed_page=275 printed_page_source=inferred -->
 >
 > priorities for the most effective fulfillment of the Great Commission. We believe that this paper affirms the validity of these four principles as being a scripturally sound and worthy basis for corporate stewardship.
 >
@@ -118,7 +118,7 @@
 > Raising fund for the ongoing work of the church by the General Assembly's committees is a necessary part of stewardship, provided that the methods and messages employed are biblically based. The apostle Paul did not hesitate to mention the need for giving to his
 >
 > <a id="ga09-p278"></a>
-> <!-- PAGE ga=9 pdf_page=278 printed_page=null -->
+> <!-- PAGE ga=9 pdf_page=278 printed_page=276 printed_page_source=inferred -->
 >
 > "necessity" in his letter to the Philippians. Also, as believers, we are to "provoke one another unto love and good works" (Ph. 4, Heb. 10:24).
 >
@@ -137,7 +137,7 @@
 > It is incumbent upon all of God's people to exercise stewardship in every area of their lives. Our motivation for stewardship must be based upon a love for God and a desire to be obedient to His Word. "He that hath my commandments and keepeth them, he it is that loveth me: and he that loveth me, shall be loved of my Father, and I will love him and will manifest myself to him." (Jn. 14:21). Thus motivated, the church through its members, officers and courts must continue to teach and exhort one another in the area of
 >
 > <a id="ga09-p279"></a>
-> <!-- PAGE ga=9 pdf_page=279 printed_page=null -->
+> <!-- PAGE ga=9 pdf_page=279 printed_page=277 printed_page_source=inferred -->
 >
 > stewardship. Stewardship efforts exercised within the church and implemented through committees, programs and literature are an important part of the total ministry of the church as it seeks to reach into all the world through evangelism and edification.
 >

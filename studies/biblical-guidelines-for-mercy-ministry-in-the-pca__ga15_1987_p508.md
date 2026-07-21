@@ -66,7 +66,7 @@
 > the love of Christ through the Spirit. Visiting the prisoner is an example of this: we minister hope to the
 >
 > <a id="ga15-p509"></a>
-> <!-- PAGE ga=15 pdf_page=509 printed_page=null -->
+> <!-- PAGE ga=15 pdf_page=509 printed_page=507 printed_page_source=inferred -->
 >
 > prisoner, for we proclaim the liberty to the captives that Christ will bring (Lk. 4:18). While the final day of Christ's jubilee is yet to come, it is already present in the saving power of Christ's Spirit.
 >
@@ -109,7 +109,7 @@
 > "Abound in love on toward another, and toward all men" (1 Thes. 3:12; 5:15). "While we have opportunity, let us work that which is good toward all men, especially toward them that are of the household of faith" (Gal. 6:10). (Malista, "especially" sometimes defines a class more particularly rather than singling out a sub-class. It may then be translated, "that is," as in 1 Tim. 4:10; 5:8, and probably Acts 26:3. See T. C. Skeat, "Especially the Parchments": a Note on 2 Timothy IV. 13" Journal of Theological Studies, Vol. 30, April, 1979, pp.173-177. In view of the Thessalonians passages, however, the translation, "especially" seems better for Gal. 6:10). "Doing good" refers to deeds of benevolence (2 Cor. 9:8; Acts 9:36; Rom. 2:5-10; 2 Thes. 3:13). Benevolence toward those outside the
 >
 > <a id="ga15-p510"></a>
-> <!-- PAGE ga=15 pdf_page=510 printed_page=null -->
+> <!-- PAGE ga=15 pdf_page=510 printed_page=508 printed_page_source=inferred -->
 >
 > covenant is evident in the O.T. charge to care for "strangers" Lev. 19:18,34) and in the apostolic ministry (Acts 3:1-10; 14:8-10; 16:16-18; 19:11-13; 28:8-10; cf. Mk. 7:24-30).
 >
@@ -165,7 +165,7 @@
 > It is a spiritual ministry, not an impersonal provision of resources. It is performed without public fanfare, but with the loving acknowledgement of Christ's lordship and to the praise of his name.
 >
 > <a id="ga15-p511"></a>
-> <!-- PAGE ga=15 pdf_page=511 printed_page=null -->
+> <!-- PAGE ga=15 pdf_page=511 printed_page=509 printed_page_source=inferred -->
 >
 > 4. The church’s ministry of mercy must be conducted in spiritual wisdom, recognizing both priorities of ministry and urgency of need.
 >
@@ -214,7 +214,7 @@
 > Every Christian is bound to manifest the compassion of Christ in the love that he shows to others in Christ’s name. Every Christian is a priest (I Pet. 2:9) offering up deeds of mercy and service as a
 >
 > <a id="ga15-p512"></a>
-> <!-- PAGE ga=15 pdf_page=512 printed_page=null -->
+> <!-- PAGE ga=15 pdf_page=512 printed_page=510 printed_page_source=inferred -->
 >
 > pleasing sacrifice (Heb.13:15-16). All of us will have the reality of our faith judged by our mercy (Matt.25:35-36; James 2:12-13). Therefore, the work of benevolence is not primarily a work discharged by special officers on behalf of the church. It is primarily the loving action of the members of the church. This is the more evident when it is recognized that benevolence is a stewardship of grace, not simply of goods. The ministry of mercy is carried out by Christians individually; it is carried out by Christian households, particularly in showing hospitality. It is also carried out by groups of Christians acting corporately. The necessity of para-church groups being formed for the ministry of mercy is an irregularity that arises from the complications of denominational division rather than from any problem with the association of Christians to discharge the calling of the general office. Christians who are members of different denominations may and do unite in associations to carry out the ministry of mercy. In the unity of an undivided church, groups of Christians formed for ministries of mercy would properly be under the ruling office of the church, and would either cooperate with the deacons of the church or be supervised by them.
 >
@@ -237,7 +237,7 @@
 > How do we know, then, what the essence of diaconal ministry is? In favor of regarding diaconal ministry as focusing on works of mercy is the constant use of the verb to describe such ministry, often in connection with serving food (Mt. 4:11; 8:15; 25:44; 27:55; Mk. 1:13,31; 15:41; Lk. 4:39; 8:3; 10:40; 12:37; 17:8; 22:26,27; Jn. 12:2; Acts 6:2; Rom. 15:25; 2 Tim. 1:18; Philem. 13; Heb. 6:10). When the verb is widened to include the ministry of other gifts, this original force may still be felt (I Pet. 4:10,11). In a similar way the noun diakonia often refers to ministry to physical needs (Lk. 10:40; Acts 11:29; 12:25; I Cor. 16:15; 2 Cor. 8:4; 9:1,12,13). This is particularly the case when service to the saints is spoken of. When Paul writes of his ministering to the saints (diakoneo, diakonia), he has the ministry of
 >
 > <a id="ga15-p513"></a>
-> <!-- PAGE ga=15 pdf_page=513 printed_page=null -->
+> <!-- PAGE ga=15 pdf_page=513 printed_page=511 printed_page_source=inferred -->
 >
 > mercy in view (Rom. 15:25,31; 2 Cor. 8:4,19,20; 9:1,12,13). When, on the other hand, he thinks of his
 > apostolic ministry of the Word, he describes it as a ministry to God rather than a ministry to the saints (2
@@ -300,7 +300,7 @@
 > preserved, the kinds of service the deacon may render are varied indeed. Within spiritual norms, the
 >
 > <a id="ga15-p514"></a>
-> <!-- PAGE ga=15 pdf_page=514 printed_page=null -->
+> <!-- PAGE ga=15 pdf_page=514 printed_page=512 printed_page_source=inferred -->
 >
 > broad mandate of Scripture for the work of deacons opens the door to the development of forms of service to care for the varied needs of men and women in many times and places. Since deacons are called to comfort distress as well as to provide for physical needs, spiritual counselling is one form of diaconal ministry. It is consistent with the diaconal care of the sick to add physical means to our prayers. The Lord may bless our pouring in oil and wine and binding up wounds. Christian medical missions and services may be developed out of diaconal concern. The financial abilities required to manage funds given for the poor may be of service to the church in other ways. Then financial counselling and agricultural instruction can be as expressive of the care of deacons as the provision of seed in an area that has exhausted its supply through famine. No narrow boundaries can be put in the injunction to do good in Christ’s name.
 >
@@ -327,7 +327,7 @@
 > Presbyterians recognize that the church of Christ comes to expression at more than one level: in the house church and the city church as well as in the church throughout a province or country. It is appropriate that deacons as well as elders should benefit from mutual counsel and encouragement in seeking to fulfill their ministries. As the local diaconate is under the authority of the session, so, too, are broader conferences of deacons under the authority of presbyteries or general assemblies.
 >
 > <a id="ga15-p515"></a>
-> <!-- PAGE ga=15 pdf_page=515 printed_page=null -->
+> <!-- PAGE ga=15 pdf_page=515 printed_page=513 printed_page_source=inferred -->
 >
 > Resulting Guidelines:
 > 1. The work of benevolence in Christ’s name is the calling of every member of his church. In their
@@ -390,7 +390,7 @@
 > allowed to continue to distribute this work (Minutes, #14-43, III, 2C, page 114). in the light of this
 >
 > <a id="ga15-p516"></a>
-> <!-- PAGE ga=15 pdf_page=516 printed_page=null -->
+> <!-- PAGE ga=15 pdf_page=516 printed_page=514 printed_page_source=inferred -->
 >
 > action the committee considers that evaluation of this manual is not within the mandate of our
 > committee.
@@ -408,7 +408,7 @@
 > TE Jim Hatch
 >
 > <a id="ga15-p517"></a>
-> <!-- PAGE ga=15 pdf_page=517 printed_page=null -->
+> <!-- PAGE ga=15 pdf_page=517 printed_page=515 printed_page_source=inferred -->
 >
 > Appendix A
 >
@@ -471,7 +471,7 @@
 > elderly, schools, several clothing manufacturing shops and bakeries for distribution to the poor.
 >
 > <a id="ga15-p518"></a>
-> <!-- PAGE ga=15 pdf_page=518 printed_page=null -->
+> <!-- PAGE ga=15 pdf_page=518 printed_page=516 printed_page_source=inferred -->
 >
 > Deacons in the Dutch churches definitely wielded more authority and oversight over the congregation than deacons in the Presbyterian churches. They sat on the Church Council or consistory with the elders. Thus, deacons took part in the nomination procedure of both elders and had a regulative voice together with the elders in electing a pastor. No pastor could leave a field without consent of the consistory, which included deacons.
 >
@@ -492,7 +492,7 @@
 > As stated above, the Dutch Reformed churches have been much more inclined to encourage the ministry of deacons in their communities as well as their congregation. R.B.Kuiper of the Christian Reformed Church wrote: "Does it follow that deacons should never extend aid to needy persons outside the fold of the church? The answer must be negative. Did not the merciful Christ heal the daughter of a Syrophoenician woman and thus permit a Greek to eat the crumbs that fell from the table of God's covenant people (Mark 7:24-30)?"
 >
 > <a id="ga15-p519"></a>
-> <!-- PAGE ga=15 pdf_page=519 printed_page=null -->
+> <!-- PAGE ga=15 pdf_page=519 printed_page=517 printed_page_source=inferred -->
 
 ---
 

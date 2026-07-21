@@ -33,7 +33,7 @@
 > New 5-9. Upon receipt the Stated Clerk shall refer to the Permanent Judicial Commission all complaints appeals and/or references of judicial cases from the lower courts.
 >
 > <a id="ga13-p324"></a>
-> <!-- PAGE ga=13 pdf_page=324 printed_page=null -->
+> <!-- PAGE ga=13 pdf_page=324 printed_page=322 printed_page_source=inferred -->
 >
 > Amend 8-1 to include The Permanent Judicial Commission as another exception of committees reporting directly to General Assembly.
 >
@@ -104,7 +104,7 @@
 > #### I. Statement of the Facts
 >
 > <a id="ga13-p325"></a>
-> <!-- PAGE ga=13 pdf_page=325 printed_page=null -->
+> <!-- PAGE ga=13 pdf_page=325 printed_page=323 printed_page_source=inferred -->
 >
 > #### II. Statement of the Issue(s)
 >
@@ -185,7 +185,7 @@
 > IV. Minute Explanatory (if desired) and Opinion
 >
 > <a id="ga13-p326"></a>
-> <!-- PAGE ga=13 pdf_page=326 printed_page=null -->
+> <!-- PAGE ga=13 pdf_page=326 printed_page=324 printed_page_source=inferred -->
 >
 > The judgment in the summary report of the proceedings, when adopted by the Regional Judicial Commission, shall be final, binding and conclusive on all parties, unless appealed to the Permanent Judicial Commission. Such appeal shall be in accordance with the Rules of Discipline.
 >
@@ -234,7 +234,7 @@
 > 2. The Stated Clerk of each Presbytery shall maintain a roster of the churches in which each church’s position shall be determined by:
 >
 > <a id="ga13-p327"></a>
-> <!-- PAGE ga=13 pdf_page=327 printed_page=null -->
+> <!-- PAGE ga=13 pdf_page=327 printed_page=325 printed_page_source=inferred -->
 >
 > - **a.** The number of years since it was last represented.
 > - **b.** Alphabetical order of the church’s post office and within a post office where there is more than one church, by alphabetical order of the churches’ names therein.
@@ -262,7 +262,7 @@
 > 3. A pervasive Biblical principle is that we are to be in submission to one another. A mere listing of the frequent occurrences of this admonition in the Epistles shows the prevalence of this principle as an expression of the love that is to characterize Christians: Rom. 12:10; I Cor. 16:14-16; Eph. 5:21; Phil. 2:2-4; I Thess. 5:12-13; Heb. 13:17; I Pet. 2:9-3:9; 5:5. No one is autonomous in the Christian church, but everyone is subject to one another as we are all subject to Christ. While the individual’s conscience must be subject ultimately to the Word of God alone, he must respect the collective wisdom of his brethren. What is true of the individual person is true as well of the individual congregation.
 >
 > <a id="ga13-p328"></a>
-> <!-- PAGE ga=13 pdf_page=328 printed_page=null -->
+> <!-- PAGE ga=13 pdf_page=328 printed_page=326 printed_page_source=inferred -->
 >
 > 4. Christ has established officers in his church to whom he has bestowed keys of the kingdom (Matt. 16:15-19; cf. John 20:21-23). With the passing of the apostles, the power of the keys is to be exercised by elders, both teaching and ruling (I Tim. 3:1-7; 5:17; Titus 1:5-9).
 >
@@ -281,7 +281,7 @@
 > What happened in Acts 15 is that the church in Antioch was disturbed by teachers from Judea who said that circumcision was necessary for salvation. The ensuing debate resulted in the church of Antioch sending Paul, Barnabas, and some others to see the apostles and elders in Jerusalem about this question (Acts 15:2). Rather than resort merely to the authority of the apostles, including Paul, for a solution, the “apostles and elders met to consider this question” (v.6). After much discussion, with key speeches by Peter, Barnabas and Paul, and
 >
 > <a id="ga13-p329"></a>
-> <!-- PAGE ga=13 pdf_page=329 printed_page=null -->
+> <!-- PAGE ga=13 pdf_page=329 printed_page=327 printed_page_source=inferred -->
 >
 > James, making reference both to actions by the Holy Spirit and to Scripture, the council of apostles and elders reached a conclusion, with which the whole church concurred (vv. 22, 23). The council's letter to the churches in Antioch, Syria, and Cilicia (not to just one congregation in Antioch — cf. v.41) refers to "requirements" that they are to follow (vv. 28-29), and subsequently Paul, Silas, and Timothy delivered "the decisions (dogmata)" of the Jerusalem council "for the people to obey" (Acts 16:4). Some eight years later James and the elders in Jerusalem could recognize that "our decision" had been carried out in Paul's ministry (Acts 21:25). Here we have an example, then, of a local or regional church body submitting a problem to a more general council of the church's officers, whose decisions become the rule for all the churches being established. William Cunningham concludes: "It thus appears . . . that the first controversy which arose in the Christian church, and which broke out while the church enjoyed the guidance of inspired men, was taken up and disposed of in such a way as was fitted and intended to afford general lessons as to the mode in which the affairs of the church should be conducted, after the miraculous and supernatural gifts of the Spirit should be taken away" (Historical Theology I, 64). James Bannerman is even more positive: "The precedent recorded in the fifteenth chapter of Acts, gives warrant for more than the association in joint government of the office-bearers of neighboring congregations, — it proves, in addition the lawfulness of a subordination of courts in the Christian Church." (The Church of Christ, II, 326).
 >
@@ -296,7 +296,7 @@
 > In the midst of their debate on the propriety of boards or committees James Henley Thornwell and Charles Hodge nevertheless found much common ground on which they could agree. Thornwell said: "The essential features of our ecclesiastical polity are the parity of the ministry; the office of Ruling Elder; and, a series of church-courts, rising one above another, and cementing the whole body together as one harmonious whole. 'That,' says Dr. Miller, 'is a Presbyterian Church, in which the Presbytery is the radical and leading judicatory; in which Teaching and Ruling Presbyters or Elders have committed to them the watch and care of the whole flock; in which all ministers of the Word and sacraments are equal; in which Ruling Elders, as the representatives of the people, form a part of all ecclesiastical assemblies, and partake in all authoritative acts equally with the Teaching Elders; and in which, by a series of judicatories rising one above another, each individual church is under the watch and care of its appropriate judicatory; and the whole body, by a system of review and control, is bound together as one homogenous community. Wherever this system is found in operation in the Church of God, there is Presbyterianism.' The only permanent officers in the Church of God, which our Constitution recognizes, are Bishops, Elders, and Deacons; the only courts are Sessions, Presbyteries, Synods and the General Assembly. These officers and these courts are treated in our Constitution as abundantly adequate to meet all the exigencies of the church, and to do all that God requires her to do in her ecclesiastical capacity. We profess to trace this system to the Scriptures. We believe that it embodies the leading principles of church
 >
 > <a id="ga13-p330"></a>
-> <!-- PAGE ga=13 pdf_page=330 printed_page=null -->
+> <!-- PAGE ga=13 pdf_page=330 printed_page=328 printed_page_source=inferred -->
 >
 > government established by the Apostles of the Lord; and we cannot question its sufficiency without bringing a serious and blasphemous reproach upon the Spirit of inspiration” (The Collected Writings of J. H. Thornwell, IV, 148-149).
 >
@@ -311,7 +311,7 @@
 > In agreement with all these principles is Reformed Theologian Louis Berkhof; however, he develops more clearly the extent of church power that resides in the local congregation and describes more precisely the limits to the power of the more general courts. “It is one of the fundamental principles of Reformed or Presbyterian government,” he says, “that the power or authority of the Church does not reside first of all in the most general
 >
 > <a id="ga13-p331"></a>
-> <!-- PAGE ga=13 pdf_page=331 printed_page=null -->
+> <!-- PAGE ga=13 pdf_page=331 printed_page=329 printed_page_source=inferred -->
 >
 > assembly of any Church, and is only secondarily and by derivation from this assembly, vested in the governing body of the local Church; but that it has its original seat in the consistory or session of the local church, and is by this transferred to the major assemblies, such as classes (presbyteries) and synods or general assemblies. Thus the reformed system honors the autonomy of the local church, though it always regards this as subject to the limitations that may be put upon it as the result of its association with other churches in one denomination, and assures it the fullest right to govern its own internal affairs by means of its officers. At the same time it also maintains the right and duty of the local church to unite with other similar churches on a common confessional basis, and form a wider organization for doctrinal, judicial, and administrative purposes, with proper stipulations of mutual obligations and rights. Such a wider organization undoubtedly imposes certain limitations on the autonomy of the local churches, but also promotes the growth and welfare of the churches, guarantees the rights of the members of the Church, and serves to give fuller expression to the unity of the Church (Systematic Theology, 584).
 >
@@ -328,7 +328,7 @@
 > Recent Presbyterian history has evinced situations in which local congregations have felt compelled by conscience to renounce the authority of a denomination which has departed from Biblical truth in order that they might be faithful to their Lord. Kenneth Horner describes this modern situation: “When doctrinal or
 >
 > <a id="ga13-p332"></a>
-> <!-- PAGE ga=13 pdf_page=332 printed_page=null -->
+> <!-- PAGE ga=13 pdf_page=332 printed_page=330 printed_page_source=inferred -->
 >
 > moral evil exists in a church organization, it ought to be dealt with by proper disciplinary measures, but when that evil is so firmly entrenched in the organization that it is impossible to deal with it, the only Scriptural course for the believer is to ‘come . . . out from among them and be . . . separate,’ and to build anew (II Cor. 6:17). This is what happened at the Reformation led by Martin Luther in the sixteenth century; and this is what is happening in the twentieth century again as the great Protestant church organizations have been so completely taken over by modernistic unbelief that it is impossible to carry out effective disciplinary action against it. God is today calling His people to separate themselves from this apostasy and to build anew the testimony of the Lord.”
 >
@@ -349,7 +349,7 @@
 > Thomas Witherow in his The Apostolic Church: Which Is It? argues that the presbytery is the distinctive genius of the Presbyterian system of church government which is lacking in most other denominations: “In the Apostolic Church there was recognized the privilege of appeal and the right of government. This privilege is not only admitted, but it is one of the most distinguishing principles of Presbyterianism. Should any difference
 >
 > <a id="ga13-p333"></a>
-> <!-- PAGE ga=13 pdf_page=333 printed_page=null -->
+> <!-- PAGE ga=13 pdf_page=333 printed_page=331 printed_page_source=inferred -->
 >
 > arise in a congregation, the members are competent to settle the matter without appeal, if they please; but, should this fail, it is equally competent for them to refer the whole matter, either for advice or decision, to the assembly of elders met in presbytery. The highest ecclesiastical court known to the system is the *Presbytery*; the Synod being the name usually given to the presbytery of a province, and the General Assembly being the name that convenience has attached to the presbytery of a nation. The General Assembly has jurisdiction over a Synod only because it is a larger presbytery. Hence, that subordination of Church Courts, which some injudicious friends of Presbyterianism speak of as being a main feature of the system, is a mere accidental arrangement, which experience has proved conducive to union and strength, but which is by no means essential to the existence of the system. This is proved by the fact that a denomination, without either Synod or Assembly, and possessing no Church court whatever except a district presbytery, is, nevertheless, a complete Presbyterian body. Let there be only one assembly of elders to which a congregation can submit an appeal, and the apostolic principle is preserved. It is not even certain that representation is a main feature of the system, although a virtual representation is the result of existing arrangements. There is representation so far as that a few office-bearers, chosen by the people on their first admission to office, transact business for the many. Nor are all office-bearers privileged to find admission to the higher courts; for, although all elders are, in the abstract, equal in point of official power, and have, of course, equal right to sit in presbytery, yet, for convenience sake, it has been agreed upon that only a part of them shall at the same time exercise this right” (pp. 69-70).
 >
@@ -366,7 +366,7 @@
 > In I and II Timothy we may see a pattern in which the exercise of discipline in the church of Ephesus places Paul in a position analogous to that of the General Assembly of the PA and Timothy in a position analogous to
 >
 > <a id="ga13-p334"></a>
-> <!-- PAGE ga=13 pdf_page=334 printed_page=null -->
+> <!-- PAGE ga=13 pdf_page=334 printed_page=332 printed_page_source=inferred -->
 >
 > that of a presbytery. Timothy is told by Paul to command men no longer to teach false doctrine (I Tim. 1:3). He is to point things out against false teaching, but also to command and teach (I Tim. 4:1-2, 6, 11). He is to command the rich to be generous (I Tim. 6:17-18). He is to exhort with respect rather than rebuke harshly; nevertheless, elders who sin are to be rebuked publicly (I Tim. 5:1-2, 19-20). All of this is in context of Paul’s having “handed over to Satan” Hymenaeus and Alexander “to be taught not to blaspheme” (I Tim. 1:20). It is clear that discipline is to be conducted first by means of persuasion. Timothy is to furnish an example of gently instructing those who oppose (II Tim. 2:25), whose folly will become clear to everyone (II Tim. 3:8-9). Correction and rebuke are to be done through the Word (II Tim. 4:2, cf. 3:16). But those who oppose, like Hymenaeus and Alexander, are clearly regarded as outside the fellowship of believers (II Tim. 2:17, 4:14-15). Although no physical or material penalty is inflicted, obviously a spiritual authority is to be exercised.
 >
@@ -392,7 +392,7 @@
 > We would like to illustrate the principles of this paper as they apply to a judicial case. If a charge is brought by an individual against another individual, it is heard by the session of the accused. If the session inflicts a censure on the accused, the accused may (1) accept the censure, (2) appeal the judgment of the session to presbytery, or (3) withdraw his/her membership from the church, or (4) he/she might possibly do nothing. If the accused does nothing, what may the local session do? After seeking to counsel the accused to comply, the local session may terminate the membership of the accused in the local church and that is all. If the session acquits the accused, the accuser may (1) accept the judgment of (2) appeal the decision to presbytery. If a minister is accused of an offense, his presbytery shall have original jurisdiction of the case and similar options are open to the accused and accuser on the rendering of a judgment of the presbytery.
 >
 > <a id="ga13-p335"></a>
-> <!-- PAGE ga=13 pdf_page=335 printed_page=null -->
+> <!-- PAGE ga=13 pdf_page=335 printed_page=333 printed_page_source=inferred -->
 >
 > The BCO further provides, in chapters 39 to 43, modes in which the proceedings of lower courts come under the supervision of higher courts. These are:
 >
@@ -429,7 +429,7 @@
 > McPherson, John. *Presbyterianism*. (Edinburgh: T. &amp; T. Clark, n.d.).
 >
 > <a id="ga13-p336"></a>
-> <!-- PAGE ga=13 pdf_page=336 printed_page=null -->
+> <!-- PAGE ga=13 pdf_page=336 printed_page=334 printed_page_source=inferred -->
 >
 > Miller, Samuel. presbyterian the truly primitive and apostolic constitution of the church of Christ.
 > (Philadelphia: Presbyterian Board of Publication. 1840).
@@ -444,7 +444,7 @@
 > of 1881).
 >
 > <a id="ga13-p337"></a>
-> <!-- PAGE ga=13 pdf_page=337 printed_page=null -->
+> <!-- PAGE ga=13 pdf_page=337 printed_page=335 printed_page_source=inferred -->
 
 ---
 

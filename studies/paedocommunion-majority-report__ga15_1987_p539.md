@@ -34,7 +34,7 @@
 > ² Herman Bavinck, *Gereformeerde Dogmatiek*, Vol. IV (Kampen: Kok, 1911), p. 642.
 >
 > <a id="ga15-p540"></a>
-> <!-- PAGE ga=15 pdf_page=540 printed_page=null -->
+> <!-- PAGE ga=15 pdf_page=540 printed_page=538 printed_page_source=inferred -->
 >
 > These arguments for infant communion have been polemically applied by some. The Reformed
 > practice has been accused of admitting children to membership among the people of God only to
@@ -95,7 +95,7 @@
 > 11:2 2 ,34). He tells the hungry to eat at home, and to recognize the sacrament for what it is.
 >
 > <a id="ga15-p541"></a>
-> <!-- PAGE ga=15 pdf_page=541 printed_page=null -->
+> <!-- PAGE ga=15 pdf_page=541 printed_page=539 printed_page_source=inferred -->
 >
 > James B. Jordan, an advocate of infant communion, properly observes that his view is less sacramental. 3 He stresses the common meal aspect of the Supper to urge that children, as members of the community of the covenant should not be denied access to the covenantal table. In a similar fashion, it has been argued that the manna, the daily food of Israel in the wilderness, had a symbolic and sacramental force, understood by the interpretation Jesus gave when he presented himself as the true Bread, come down from heaven to give life to the world. Since children ate of manna (there was nothing else to eat), and drank the water from the rock (there was nothing else to drink), and since their food and drink symbolized the life that Christ gives, they may now come to the table where the bread and the cup offer the same symbolism. 4
 >
@@ -116,7 +116,7 @@
 > 5 Jordan, op. cit.; Glenn Davies, "The Concept of Covenantal Communion," an unpublished paper. The statements of Davies, in particular, raise the issue of the relation of faith to obedience in the covenant of grace. Is obedience the central response, so that faith can be inferred from it, or assumed to be an element in it, or is faith the leading response, with obedience as the fruit of it?
 >
 > <a id="ga15-p542"></a>
-> <!-- PAGE ga=15 pdf_page=542 printed_page=null -->
+> <!-- PAGE ga=15 pdf_page=542 printed_page=540 printed_page_source=inferred -->
 >
 > differ is also important. participation in the supper both manifests and requires an understanding of the
 > meaning of union with Christ in his death, an understanding that lies beyond the level of maturity that is
@@ -136,7 +136,7 @@
 > ability to examine themselves."
 >
 > <a id="ga15-p543"></a>
-> <!-- PAGE ga=15 pdf_page=543 printed_page=null -->
+> <!-- PAGE ga=15 pdf_page=543 printed_page=541 printed_page_source=inferred -->
 >
 > # MINORITY REPORT
 >
@@ -153,7 +153,7 @@
 > 3. This is strikingly demonstrated in the treatment of the question in two of the most thorough and authoritative dogmatics of the mature Reformed theology. Turretin merely assumes that the supper is for adults and makes mention of the matter only in his discussion of another question: 'An ex Dei praeceto omnibus et singulis fidelibus adultis utrumque Eucharistiae Symbolum administrari debeat? An vero usus Calicis Populo interdicendus sit?' The chapter thus titled is a defense of the communion in both kinds and infant communion enters the argument only incidentally. In rebutting a variety of arguments advanced in support of the practice of giving only the bread to the congregation, he notes that some have claimed the ancient practice of the communio infantium as evidence of the Father's support for the communion in one kind. Turretin admits that infant communion was common in the Latin church until the twelfth century but argues, citing Cyprian and Augustine, that it cannot at all be demonstrated that infants communicated in only one kind. *Instituto Theologiae Elencicae*, 1688, Locus XIX, Question XXV, xxx. Turretin's entire presentation of the Locus De Sacramentis is an illustration of the profound influence polemics exerted upon the treatment of this doctrine in the Reformed manuals. Mastricht, on the other hand, directly addresses the question of who should communicate, but takes but nine words and a nod at 1 Cor. 11:28-29 to answer in the negative regarding children. *Theoretico-Practica Theologia*, 1725, Liber VII, Caput V, xiii.
 >
 > <a id="ga15-p544"></a>
-> <!-- PAGE ga=15 pdf_page=544 printed_page=null -->
+> <!-- PAGE ga=15 pdf_page=544 printed_page=542 printed_page_source=inferred -->
 >
 > Witsius'⁴ comments regarding child communion appear in his discussion of the requirements for worthy communicating.
 >
@@ -168,7 +168,7 @@
 > ⁵ Metrophanes, a Greek theologian of the 17th century, was sent by his patriarch to England in 1616 in order that he might receive instruction at Oxford in the doctrine of the Church of England. It was hoped that this would better equip him to defend the Orthodox Church against the influence of the Jesuits, who were enjoying some success in the east due, so the patriarch supposed, to the inability of the ill-educated orthodox clergy to counter their teaching. Metrophanes also visited several Lutheran Universities. He later became patriarch of Alexandria.
 >
 > <a id="ga15-p545"></a>
-> <!-- PAGE ga=15 pdf_page=545 printed_page=null -->
+> <!-- PAGE ga=15 pdf_page=545 printed_page=543 printed_page_source=inferred -->
 >
 > Bavinck's⁶ discussion adds further considerations to those advanced by Witsius.
 >
@@ -188,7 +188,7 @@
 > While it is sometimes maintained that young children, children younger than the age of discretion did not eat the passover, it is generally acknowledged that they did. L. Berkhof, for example, writes: 'Children though they were allowed to eat the passover in the days of the Old Testament, cannot be permitted to partake of the table of the Lord...' Systematic Theology, 4th ed., Grand Rapids: 1949, p. 656. The texts listed above together with the instructions for the passover given in Ex. 12 seem clearly to require that young children did participate in the passover and these other sacral meals. Cf. Keidel, op. cit., pp. 307ff.
 >
 > <a id="ga15-p546"></a>
-> <!-- PAGE ga=15 pdf_page=546 printed_page=null -->
+> <!-- PAGE ga=15 pdf_page=546 printed_page=544 printed_page_source=inferred -->
 >
 > 2) An important argument advanced by both Witsius and Bavinck is that there is a great difference between the two sacraments: baptism being the sacrament of regeneration and thus in it the individual is passive; the supper being the sacrament of nourishment and thus requires intelligent participation on the part of anyone who receives it.
 >
@@ -215,7 +215,7 @@
 > ¹⁴ Cf. Calvin, Institutes, IV, xvi, 30 ["...the Supper is given to older persons who, having passed tender infancy, (qui superata teneriore infantia...), can now take solid food."]; DeMoor, op. cit., p. 643 ["...Infantes recens baptizati..."; and Murray, op. cit., pp.
 >
 > <a id="ga15-p547"></a>
-> <!-- PAGE ga=15 pdf_page=547 printed_page=null -->
+> <!-- PAGE ga=15 pdf_page=547 printed_page=545 printed_page_source=inferred -->
 >
 > 4) The appeal to I Cor. 11:27-29 cannot bear the weight which the opponents of paedocommunion place upon it. That the requirement of self-examination as stated here by Paul is, for our authorities, the principle argument against child communion is easy to demonstrate. It is the only argument advanced against the idea by many and is often presented as sufficient in itself to quell all debate.[15] The cumulative effect of this repeated rejection of paedocommunion on the sole basis of a perfunctory appeal to I Cor. 11:28 and without attention to possible objections to this argument is to establish two impressions: 1) the consensus against child communion was so complete and so much taken for granted that neither argument nor careful reflection was thought to be required and 2) the reformed consensus on this subject has never rested on a substantial biblical or theological foundation.
 >
@@ -228,7 +228,7 @@
 > 15 In the following collection of citations, the quoted material in every case (with the possible exception of Heidegger whose context I was unable to examine) represents the entire statement on paedocommunion to be found in the work in question. T. Beza, Quaestionum et Responsionum Christianarum Libellus, Pars altera, 1580, p. 137 'Deinde quos aetas ipsa ostendit non esse suae ipsorum probationi faciendae idoneos, non quidem ut indignos, sed ut nondum aptos commonefaciendos ne sibiipsis exitium accersant.' [Next those who by reason of their age show themselves to be unable to examine themselves, not indeed because they are unworthy, but because they are not yet able to be warned lest they should bring ruin upon themselves.]; Z. Ursinus, Commentary on the Heidelberg Catechism, ed. D. Pareus, ET: Columbus, 1851, p. 429. 'They are to be admitted to the Lord's Supper by the church, 1. Who are of a proper age to examine themselves, and to commemorate the Lord's death, according to the command: "This do ye in remembrance of me." "Let a man examine himself, and so let him eat of the bread." "Ye do shew the Lord's death till he come." (I Cor. 11:25, 26, 28.) The infant children of the church are therefore, not admitted to the use of the Lord's Supper even though they are included among the number of the faithful'; Voetius, op. cit., p. 220 'De Infantibus absolute Neg. hac una ratione, quod non possint seipsos probare et explorare, nec actualem habeant resipisceniam, fidem, novam obedientiam, mortis dominicae annuntiationem: super quibus se explorare debent. Atqui et istud et illud est requisitum necessarium a Cor. 11. v. 16. 28. 29. 30. 31.' [Regarding infants absolutely not for this one reason, that they would not be able to test and examine themselves, nor would they have actual repentance, faith, new obedience, proclamation of the Lord's death, concerning which things they ought to examine themselves. But, in fact, both the latter and the former are required in I Cor. 11: 16, 28-31.]; Synopsis Purioris Theologiae, op. cit., XLV, xiv, p. 507: 'Quod enim hic circa Apostolos gestum, post Apostolus non ad Pastores modo, sed et reliquam Ecclesiam retulit, I Cor. 11...iisque in pietatis statu consistentibus (quantum quidem humanitus sciri potest, occultis Deo relictis) non autem, non Baptizatis Catechumenis, aut Lapsis... Unde ait Apostolos, Probet unusquisque seipsum, etc.' [For what here happened with the apostles, afterwards the Apostle refers not only to pastors but also to the rest of the church, I Cor. 11...and to those living piously (so far indeed as it is possible humanly to know; the secret things being left to God) but on the other hand not to baptized catechumens, or to the lapsed... Whence the Apostle says, 'Let everyone examine himself', etc.]; M. F. Wendelinus, Christianae Theologiae, 1646, p. 549 'Igitur ab usurpatione sacrae carnae excluduntur. 1) Infantes: qui ad Domini caenam non sunt admittendi, 1. Quia memoriam mortis Domini non possunt recolere. 2. Quia se no possunt praeparare ad dignum huius sacramentis usum: Atqui utrumque requiritur a communicantibus. I Cor.11. v. 24. 25. 26. 29. Interim veteres doctores, ex traditione Apostolica, quam pratenderunt, etiam infantibus caenam dominicam ad salutem necessariam esse judicarunt.' [Then from the use of the holy supper are excluded 1) Infants: who are not to be admitted to the Lord's Supper, 1. Because they are not able to remember the history of the death of the Lord. 2. Because they are not able to prepare themselves for the worthy use of this sacrament: and both are required of communicants. I Cor. 11:24-26, 29. However, the Fathers, from the apostolic tradition, as they alleged, still judged, in the case of infants, the Lord's Supper to be necessary for salvation.] J. Heidegger in H. Heppe, Reformed Dogmatics, ET: 1950, p. 654 ['After the first Supper all believers and true Christians are added to the number of communicants who have duly examined themselves and have learned these mysteries and shewn themselves to be clean and upright in life. Let each one examine himself and so let him eat of that bread and drink of that cup, I Cor. 11.28. In the number of these infants are not included.'] B. Pictet, Theologia Christiana, Pars Secunda, 1733, p. 651; 'Coena non debet administrari nisi adultis, non vero infantibus, ut crediderunt multi ex veteribus; nam maximum est discrimen inter Baptismum et Coenam. 1. Baptismus est sacramentum initiationis in Ecclesia; at sacra Coena est sacramentum institutum ad nutriendum animam et confirmandam fidem, per commemorationem beneficiorum Christi; primi sunt capaces infantes; secundi tantum adulti. 2. Illud confirmatur ex eo quod Paulus exigit examen ab iis qui recipiunt sacram coenam, at examinis non sunt capaces infantes, non autem magis mirum videtur, Baptizatos infantes non admiti ad coenam, ac non mirandum erat, si circumcisi infantes olim Pascha non comedebant.' [The Supper ought not to be administered except to adults, especially not to infants, as many among the ancients thought; for there is a great difference between Baptism and the Supper. 1. Baptism is the sacrament of initiation into the church; but the holy Supper is the sacrament instituted for the nourishing of the soul and for confirming faith through the commemoration of the benefits of Christ. Of the first infants are capable, of the second only adults. 2. That is confirmed by the fact that Paul demands examination from those who receive the holy Supper, and infants are not capable of examination; moreover it does not seem more surprising that baptized infants should not be admitted to the Supper than it was surprising that formerly circumcised infants did not eat the passover.] J. a Marck, Medulla Christianae Theologiae, Edito Prima Americana, 1824, p. 290: 'Ad Communionem hanc admittendi sunt, non...infantes baptizati, cum hi se ipsos probare, corpus Domini discernere, et Mortem eius annunciare nequeant...' [Baptized infants are not to be admitted to this sacrament since these would not be able to examine themselves, discern the Lord's body, and proclaim his death...]. Cf. Mastricht, note 10 above; Kuyper, op. cit., p. 194; Berkhof, op. cit., pp. 656-657. Our American Presbyterian manuals (e.g. those of the Hodges, Dabney, and Shedd) do not devote even this negligible attention to the question.
 >
 > <a id="ga15-p548"></a>
-> <!-- PAGE ga=15 pdf_page=548 printed_page=null -->
+> <!-- PAGE ga=15 pdf_page=548 printed_page=546 printed_page_source=inferred -->
 >
 > would need to have been said before it could be concluded that Paul was speaking to the general question of who may come to the table, or to the question of children’s participation, or that he intended to exclude them from the supper. We do not understand Acts 2:38 to deny baptism to little children, Rom. 10:13-14 to deny them salvation, or 2 Thess. 3:10 to deny them food.
 >
@@ -245,7 +245,7 @@
 > ¹⁷ Cf. Psalm 22:9. Though in this case Murray is speaking of infant baptism, the following words may well be even more appropriate with respect to paedocommunion. ‘It is objected that infants cannot understand the meaning of that which is dispensed. Of course they cannot. But that they derive no benefit from baptism or that it is not the divine method of signifying and sealing blessings to them is by no means a proper inference. The same objection would apply to circumcision and would impinge upon the wisdom and grace of God who instituted it. The same objection, if valid, would apply to Christ’s blessing of little infants. This objection, in fact, rests upon the iniquitous assumption that all blessing is contingent upon conscious understanding of its import on our part. Are we to say, for example, that it is of no avail to the infant to be born and nurtured in a Christian family simply because the infant has no conscious understanding of the great blessing that belongs to him in the care, protection, devotion, and nurture of Christian parents?... The means of grace are the channels along which the saving and sanctifying grace of God flows. To be in the channel of grace by God’s appointment is of deepest consequence. It is only worldlywise calculation and not reasoning inspired by the recognition of the methods of divine grace that can find force in this type of objection.’ Op. cit., pp. 74-75.
 >
 > <a id="ga15-p549"></a>
-> <!-- PAGE ga=15 pdf_page=549 printed_page=null -->
+> <!-- PAGE ga=15 pdf_page=549 printed_page=547 printed_page_source=inferred -->
 >
 > 6) Certain practical consideration are further to be urged in support of the participation of young
 > children in the supper. First, the impression which the Word is intended to make in this tangible and
@@ -308,7 +308,7 @@
 > oft hew ord, and therefore to the measure of the grace received .’
 >
 > <a id="ga15-p550"></a>
-> <!-- PAGE ga=15 pdf_page=550 printed_page=null -->
+> <!-- PAGE ga=15 pdf_page=550 printed_page=548 printed_page_source=inferred -->
 >
 > answer the gravamen of the charges lodged against the practice of excluding our children from the supper.
 >
@@ -336,7 +336,7 @@
 > ²⁰ Cf. Beckwith, *op. cit.*, p. 148.
 >
 > <a id="ga15-p551"></a>
-> <!-- PAGE ga=15 pdf_page=551 printed_page=null -->
+> <!-- PAGE ga=15 pdf_page=551 printed_page=549 printed_page_source=inferred -->
 >
 > From the mouths of small children
 > And of all innocent babes
@@ -357,7 +357,7 @@
 > Liturgical Study N o. 27 (1981) pp. 9-15.
 >
 > <a id="ga15-p552"></a>
-> <!-- PAGE ga=15 pdf_page=552 printed_page=null -->
+> <!-- PAGE ga=15 pdf_page=552 printed_page=550 printed_page_source=inferred -->
 
 ---
 

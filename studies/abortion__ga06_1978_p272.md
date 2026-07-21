@@ -76,7 +76,7 @@
 > must govern the protection and care of that child both before and after birth.
 >
 > <a id="ga06-p273"></a>
-> <!-- PAGE ga=6 pdf_page=273 printed_page=null -->
+> <!-- PAGE ga=6 pdf_page=273 printed_page=271 printed_page_source=inferred -->
 >
 > Aparl from pro-abortion arguments which seek to place one command of God against
 > another, denying both the inerrancy of Scripture and the absolute ethic therein, the one argument
@@ -148,7 +148,7 @@
 > quately set forth in other studies.
 >
 > <a id="ga06-p274"></a>
-> <!-- PAGE ga=6 pdf_page=274 printed_page=null -->
+> <!-- PAGE ga=6 pdf_page=274 printed_page=272 printed_page_source=inferred -->
 >
 > 272 MINI TKS OK THK GENKRAl. ASSKMBI.Y
 >
@@ -221,7 +221,7 @@
 > touched, the fingers close into a small fist.
 >
 > <a id="ga06-p275"></a>
-> <!-- PAGE ga=6 pdf_page=275 printed_page=null -->
+> <!-- PAGE ga=6 pdf_page=275 printed_page=273 printed_page_source=inferred -->
 >
 > The sex hormones estrogen and androgen have been identified as early as nine weeks. At ten
 > weeks growth hormone is detectable, and at ten and one-half weeks the thyroid and adrenal glands
@@ -292,7 +292,7 @@
 > facilities.
 >
 > <a id="ga06-p276"></a>
-> <!-- PAGE ga=6 pdf_page=276 printed_page=null -->
+> <!-- PAGE ga=6 pdf_page=276 printed_page=274 printed_page_source=inferred -->
 >
 > Another complication centers around pelvic infection. Pelvic infection is a common sequel to
 > legal abortion. While the incidence varies from country to country, consensus reveals an astonish
@@ -362,7 +362,7 @@
 > us believe that unless an emotionally unstable woman's pregnancy is terminated her instability will
 >
 > <a id="ga06-p277"></a>
-> <!-- PAGE ga=6 pdf_page=277 printed_page=null -->
+> <!-- PAGE ga=6 pdf_page=277 printed_page=275 printed_page_source=inferred -->
 >
 > worsen. They fail to mention that there is a significant degree of emotional instability resulting
 > from the abortion.
@@ -433,7 +433,7 @@
 > times, was by no means universally approved and was indeed explicitly condemned as immoral,
 >
 > <a id="ga06-p278"></a>
-> <!-- PAGE ga=6 pdf_page=278 printed_page=null -->
+> <!-- PAGE ga=6 pdf_page=278 printed_page=276 printed_page_source=inferred -->
 >
 > dangerous, and harmful to the general welfare by the most important pre-Mosiac law codes and by
 > some of the most celebrated thinkers, philosophers, and moralists of pagan Greece and Rome.
@@ -504,7 +504,7 @@
 > age — relevant to the well being of the patient. All these factors may relate to health.”
 >
 > <a id="ga06-p279"></a>
-> <!-- PAGE ga=6 pdf_page=279 printed_page=null -->
+> <!-- PAGE ga=6 pdf_page=279 printed_page=277 printed_page_source=inferred -->
 >
 > The abortion laws of the United States are probably the most liberal in the world. This is evi
 > denced by the fact that about one third of the abortions performed in the United States are paid for
@@ -574,7 +574,7 @@
 > forth? The reason is that in so doing we obey God. "There is o authority except God," and in verse
 >
 > <a id="ga06-p280"></a>
-> <!-- PAGE ga=6 pdf_page=280 printed_page=null -->
+> <!-- PAGE ga=6 pdf_page=280 printed_page=278 printed_page_source=inferred -->
 >
 > 278 mi nites of the General Assembly
 >
@@ -647,7 +647,7 @@
 > tion is that the Church has the right and the duty to declare when necessary what God expects of
 >
 > <a id="ga06-p281"></a>
-> <!-- PAGE ga=6 pdf_page=281 printed_page=null -->
+> <!-- PAGE ga=6 pdf_page=281 printed_page=279 printed_page_source=inferred -->
 >
 > civil governments. The writings and practice of the authors of the Confession provide no support
 > for ecclesiastical isolationism.
@@ -715,7 +715,7 @@
 > plication in each of these cases is the consistent application of God's absolute prohibition and the
 >
 > <a id="ga06-p282"></a>
-> <!-- PAGE ga=6 pdf_page=282 printed_page=null -->
+> <!-- PAGE ga=6 pdf_page=282 printed_page=280 printed_page_source=inferred -->
 >
 > comfort derived from the knowledge that our greatest good is dependent upon our obedience to
 > God.
@@ -781,7 +781,7 @@
 > Reformed Presbyterian Church. Evangelical Synod. "Abortion: The Disruption of Continuity."
 >
 > <a id="ga06-p283"></a>
-> <!-- PAGE ga=6 pdf_page=283 printed_page=null -->
+> <!-- PAGE ga=6 pdf_page=283 printed_page=281 printed_page_source=inferred -->
 >
 > minutes of the 15 3rd General Synod. Lookout Mountain, TN., 1975.
 > Willkie, Dr. & Mrs. J. C. Handbook on Abortion. Cincinnati: Hiltz Publishing Co.. 1972.
@@ -844,7 +844,7 @@
 > grounds for Scriptural discipline.
 >
 > <a id="ga06-p284"></a>
-> <!-- PAGE ga=6 pdf_page=284 printed_page=null -->
+> <!-- PAGE ga=6 pdf_page=284 printed_page=282 printed_page_source=inferred -->
 >
 > SCRIPT FOR A SLIDE PRESENTATION
 > ABORTION
@@ -911,7 +911,7 @@
 > our cruxquestion of when life begins.
 >
 > <a id="ga06-p285"></a>
-> <!-- PAGE ga=6 pdf_page=285 printed_page=null -->
+> <!-- PAGE ga=6 pdf_page=285 printed_page=283 printed_page_source=inferred -->
 >
 > 12 In this passage from Job 3, Job curses the day of his birth and even that of his conception.
 > Here he refers to the life resulting from conception as human. His becoming a man began
@@ -982,7 +982,7 @@
 > where we see biologically as well as Scripturally that life begins.
 >
 > <a id="ga06-p286"></a>
-> <!-- PAGE ga=6 pdf_page=286 printed_page=null -->
+> <!-- PAGE ga=6 pdf_page=286 printed_page=284 printed_page_source=inferred -->
 >
 > 26 What happens at conception? First of all. it must be pointed out that genetically speaking
 > the human being is characterized primarily by the fact that within each of his body's cells
@@ -1054,7 +1054,7 @@
 > being destroyed; even World War I veterans with amputations were destroyed just because
 >
 > <a id="ga06-p287"></a>
-> <!-- PAGE ga=6 pdf_page=287 printed_page=null -->
+> <!-- PAGE ga=6 pdf_page=287 printed_page=285 printed_page_source=inferred -->
 >
 > Ihey couldn't produce. So what Hilter did was to logically extend the philosophy that a per
 > son’s right to life depended on his usefulness and productivity or depended on his being a

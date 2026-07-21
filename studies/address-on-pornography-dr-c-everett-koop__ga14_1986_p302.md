@@ -41,7 +41,7 @@
 > “Reexamination of the issue of pornography is long overdue. Its impact upon society was last assessed fully 15 years ago. Since then, the content of pornography has radically changed, with more and more emphasis upon extreme violence. Moreover, no longer must one go out of the way to find pornographic materials. With the advent of Cable T.V. and video recorders, pornography now is available at home to anyone — regardless of age — at the mere touch of a button.”
 >
 > <a id="ga14-p303"></a>
-> <!-- PAGE ga=14 pdf_page=303 printed_page=null -->
+> <!-- PAGE ga=14 pdf_page=303 printed_page=301 printed_page_source=inferred -->
 >
 > "It is abundantly clear that with pornography we are not dealing with one passing incident — one magazine, or one play, or one film. We are dealing with a general tendency that is pervading our entire culture including the culture known to our very young children.
 >
@@ -80,7 +80,7 @@
 > Now that is a difficult task because it is unethical to do studies in reference to pornography prospectively
 >
 > <a id="ga14-p304"></a>
-> <!-- PAGE ga=14 pdf_page=304 printed_page=null -->
+> <!-- PAGE ga=14 pdf_page=304 printed_page=302 printed_page_source=inferred -->
 >
 > on children. Lacking so-called scientific evidence, the scientific community — which tends anyway to
 > minimize the effects of pornography — are never satisfied with the results of any type of research.
@@ -162,7 +162,7 @@
 > deny our history and destroy the cohesion we feel as members of our own and of the whole human family.
 >
 > <a id="ga14-p305"></a>
-> <!-- PAGE ga=14 pdf_page=305 printed_page=null -->
+> <!-- PAGE ga=14 pdf_page=305 printed_page=303 printed_page_source=inferred -->
 >
 > These are the concerns that I believe should galvanize you into unity and bring you into the fellowship of those of like mind.
 >
