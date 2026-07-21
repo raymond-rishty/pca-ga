@@ -838,7 +838,20 @@
     "posed_start": 16813,
     "posed_end": 16823,
     "page_anchor": "ga14-p125",
-    "notes": "Recommendation 10 in the 14-52 report (lines 6690–6698). The Assembly answered CI #2 from Westminster Presbyterian Church (Godfrey, IL) by saying the matter should be left to the Session's spiritual discernment; a substitute motion to add further guidance was defeated. The posed text is Appendix I, CI #2 (lines 16813–16823). The digest gives page 125; rec 10 is at line 6690, after ga14-p126 in the markdown but the digest says page 125."
+    "notes": "Appendix I preserves the substantive Q&A for Constitutional Inquiry #2 (lines 16813–16823; p. 332). Recommendation 10 in the 14-52 report is the later Assembly action (lines 6690–6698; p. 125), which adopted a different, shorter answer and records the defeated substitute. Preserve the Appendix Q&A as the primary research source and the Assembly action as a distinct related citation.",
+    "substantive": {
+     "kind": "question_and_answer",
+     "start": 16813,
+     "end": 16823,
+     "page_anchor": "ga14-p332",
+     "printed_page": 332
+    },
+    "assembly_action": {
+     "start": 6690,
+     "end": 6698,
+     "page_anchor": "ga14-p125",
+     "printed_page": 125
+    }
    }
   ]
  },

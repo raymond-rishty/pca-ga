@@ -3,7 +3,10 @@
 
 Reads (from <ROOT>/index/):
   - inquiries_roster.json   : Digest Part II roster — identity + the Digest's summary prose (headnote)
-  - inquiries_located.json  : per-GA verbatim line-ranges in the minutes (advice + posed; page anchors)
+  - inquiries_located.json  : per-GA verbatim line-ranges in the minutes (advice + posed; page anchors).
+    A record may also give a first-class `substantive` Q&A source and a separate
+    `assembly_action` locator when the appendix preserves the actual inquiry and
+    answer while the journal records only a later Assembly action.
 
 Slices the verbatim record from <ROOT>/markdown/ and writes, mirroring CASES.md / cases/*:
   - <ROOT>/inquiries/<stem>__ci<NN>.md  : one page per inquiry (Digest headnote + verbatim record + deep-links)
@@ -92,6 +95,21 @@ def deeplink(stem: str, anchor: str, printed) -> str:
     return f"[{label}](../markdown/{stem}.md{frag})"
 
 
+def source_fields(source: dict, fallback: dict) -> tuple:
+    """Return a source span, retaining the legacy locator as a fallback.
+
+    `substantive` is intentionally a source *role*, rather than a page override:
+    it is the Q&A that readers are researching.  `assembly_action`, if present,
+    remains a separately rendered, secondary citation.
+    """
+    return (
+        source.get("start", fallback.get("advice_start")),
+        source.get("end", fallback.get("advice_end")),
+        source.get("page_anchor", fallback.get("page_anchor", "")),
+        source.get("printed_page", fallback.get("printed_page")),
+    )
+
+
 def main():
     roster = json.load(open(os.path.join(IDX, "inquiries_roster.json")))
     located = json.load(open(os.path.join(IDX, "inquiries_located.json")))
@@ -160,6 +178,17 @@ def main():
             anchor = f"ga{int(ma.group(1)):02d}-p{ma.group(2)}"
         sect = e0.get("ccb_section", "")
 
+        a, b = r0.get("advice_start"), r0.get("advice_end")
+        substantive = r0.get("substantive")
+        action = r0.get("assembly_action")
+        primary_start, primary_end, primary_anchor, primary_printed = source_fields(
+            substantive or {}, {**r0, "printed_page": printed}
+        )
+        primary_anchor = (primary_anchor or "").strip()
+        ma = re.match(r"ga(\d+)-p(.+)$", primary_anchor)
+        if ma:
+            primary_anchor = f"ga{int(ma.group(1)):02d}-p{ma.group(2)}"
+
         # display subject
         subj = gen_subject or next((t for t in topics if not is_bare_provision(t)), "")
         if not subj:
@@ -170,8 +199,11 @@ def main():
         per_vol[stem] = n
         slug = f"{stem}__ci{n:02d}"
 
-        a, b = r0.get("advice_start"), r0.get("advice_end")
         body = slice_md(stem, a, b) or "_(verbatim passage not located in this volume)_"
+        substantive_body = (slice_md(stem, primary_start, primary_end)
+                            if substantive else "")
+        action_body = (slice_md(stem, action.get("start"), action.get("end"))
+                       if action else "")
         posed = ""
         if r0.get("posed_start") and r0.get("posed_end"):
             posed = slice_md(stem, r0["posed_start"], r0["posed_end"])
@@ -184,8 +216,8 @@ def main():
             hdr.append("**Provisions:** " + ", ".join(provs))
         if disp:
             hdr.append("**Disposition:** " + md_escape(disp))
-        srcline = (f"*Source: [{stem} lines {a}–{b}](../markdown/{stem}.md{'#' + anchor if anchor else ''})*"
-                   if a and b else f"*Source: {stem}*")
+        srcline = (f"*Source: [{stem} lines {primary_start}–{primary_end}](../markdown/{stem}.md{'#' + primary_anchor if primary_anchor else ''})*"
+                   if primary_start and primary_end else f"*Source: {stem}*")
 
         page = [f"# {label} — {subj}", ""]
         if synopsis:
@@ -204,16 +236,27 @@ def main():
                 page += ["**Key words:** " + ", ".join(provs), ""]
             if source:
                 page += ["**Inquiry from:** " + md_escape(source), ""]
-            page += ["**In the minutes:** " + deeplink(stem, anchor, printed), "", "---", ""]
+            page += ["**In the minutes:** " + deeplink(stem, primary_anchor, primary_printed), "", "---", ""]
         page += ["## Verbatim record", ""]
         if ratified_only:
             page += ["*The General Assembly ratified this advice by reference; the substantive answer "
                      "is not printed as a separate passage in this volume. The ratifying action is quoted "
                      "below.*", ""]
-        if posed:
+        if substantive:
+            page += ["### Question and answer", "", substantive_body, ""]
+        elif posed:
             page += ["### As referred / posed", "", posed, "", "### CCB advice", "", body, ""]
         else:
             page += [body, ""]
+        if action:
+            action_anchor = (action.get("page_anchor") or "").strip()
+            ma = re.match(r"ga(\d+)-p(.+)$", action_anchor)
+            if ma:
+                action_anchor = f"ga{int(ma.group(1)):02d}-p{ma.group(2)}"
+            page += ["## Assembly action", "",
+                     "The General Assembly's later action is preserved separately from the substantive Q&A: "
+                     + deeplink(stem, action_anchor, action.get("printed_page")), "",
+                     action_body, ""]
         is_inq = (mtype == "Constitutional inquiry")
         back = ("[← Constitutional inquiry index](../index/INQUIRIES.md)" if is_inq
                 else "[← Overture/amendment advice index](../index/CCB-OVERTURE-ADVICE.md)")
@@ -223,7 +266,7 @@ def main():
 
         row = (f"| {md_escape(label)} | [{md_escape(subj)}](../inquiries/{slug}.md) | "
                f"{md_escape(synopsis)} | {md_escape(', '.join(provs))} | {md_escape(disp)} | "
-               f"{md_escape(source)} | {deeplink(stem, anchor, printed)} |")
+               f"{md_escape(source)} | {deeplink(stem, primary_anchor, primary_printed)} |")
         (inq_rows if is_inq else adv_rows).setdefault(ordn, []).append((year, stem, row))
         search_rows.append({"type": "inquiry" if is_inq else "ccb-advice",
                             "title": subj, "sub": synopsis or "", "provisions": provs,

@@ -32,6 +32,8 @@ for f in INDEX OVERTURES CASES; do sync_file "$BUILD/index/$f.md" "$PUB/index/$f
 for f in "$BUILD"/index/outlines/*.md; do sync_file "$f" "$PUB/index/outlines/$(basename "$f")"; done
 
 echo "[2/5] Constitutional inquiries + CCB advice (both trees)…"
+python3 "$S/check_inquiry_sources.py" "$BUILD"
+python3 "$S/check_inquiry_sources.py" "$PUB"
 python3 "$S/30_inquiry_pages.py" "$BUILD"
 python3 "$S/30_inquiry_pages.py" "$PUB"
 
