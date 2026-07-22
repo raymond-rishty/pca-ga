@@ -130,11 +130,12 @@
     const book = link.dataset.constitutionBook || 'bco';
     const ref = link.dataset.constitutionRef || link.dataset.bcoRef;
     const chapter = link.dataset.bcoChapter;
-    return { book, ref, chapter };
+    const chapterOnly = link.dataset.bcoKind === 'chapter';
+    return { book, ref, chapter, chapterOnly };
   }
 
   async function openSheet(link) {
-    const { book, ref, chapter } = linkDetails(link);
+    const { book, ref, chapter, chapterOnly } = linkDetails(link);
     if (!books[book] || !ref || (book === 'bco' && !chapter)) return;
 
     const current = ensureSheet();
@@ -167,10 +168,18 @@
     try {
       if (book === 'bco') {
         const payload = await loadBcoChapter(chapter);
-        const section = payload.sections?.[ref];
-        if (!section) throw new Error(`BCO ${ref} was not found in the current chapter data`);
         chapterLine.textContent = `Chapter ${chapter} · ${payload.title || ''}`.replace(/\s+·\s*$/, '');
-        body.innerHTML = section.body || '<p>No text is available for this section.</p>';
+        if (chapterOnly) {
+          const sections = Object.entries(payload.sections || {});
+          if (!sections.length) throw new Error(`BCO chapter ${chapter} was not found in the current chapter data`);
+          body.innerHTML = sections.map(([sectionRef, section]) => (
+            `<section class="constitution-sheet__section"><h3>BCO ${escapeHtml(sectionRef)}</h3>${section.body || '<p>No text is available for this section.</p>'}</section>`
+          )).join('');
+        } else {
+          const section = payload.sections?.[ref];
+          if (!section) throw new Error(`BCO ${ref} was not found in the current chapter data`);
+          body.innerHTML = section.body || '<p>No text is available for this section.</p>';
+        }
       } else if (book === 'rao') {
         const payload = await loadPack(book);
         const section = payload.sections?.[ref];
