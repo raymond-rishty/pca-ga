@@ -1,0 +1,78 @@
+:root {
+  --record-context-h: 38px;
+}
+
+.record-context-rail {
+  position: fixed;
+  top: var(--topbar-h);
+  right: 0;
+  left: 0;
+  z-index: 30;
+  height: var(--record-context-h);
+  border-bottom: 1px solid var(--parch-deep);
+  background: #FFFCF5;
+  box-shadow: 0 4px 10px rgba(27, 38, 64, .08);
+  opacity: 0;
+  visibility: hidden;
+  transform: translateY(-6px);
+  pointer-events: none;
+  transition: opacity var(--trans), transform var(--trans), visibility 0s linear var(--trans);
+}
+
+.record-context-rail.is-visible {
+  opacity: 1;
+  visibility: visible;
+  transform: none;
+  pointer-events: auto;
+  transition-delay: 0s;
+}
+
+.record-context-rail__button {
+  display: flex;
+  align-items: center;
+  gap: .75rem;
+  width: min(var(--col-max), calc(100% - 3rem));
+  height: 100%;
+  margin: 0 auto;
+  color: var(--ink);
+  text-align: left;
+}
+
+.record-context-rail__title {
+  min-width: 0;
+  overflow: hidden;
+  font: 500 14px/1.15 var(--serif);
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.record-context-rail__return {
+  flex: 0 0 auto;
+  margin-left: auto;
+  color: #80621F;
+  font: 500 13px/1 var(--sans);
+}
+
+body.has-sticky-record-context .page-marker {
+  top: calc(var(--topbar-h) + var(--record-context-h));
+}
+
+@media (max-width: 640px) {
+  :root {
+    --record-context-h: 36px;
+  }
+
+  .record-context-rail__button {
+    width: calc(100% - 2rem);
+  }
+
+  .record-context-rail__title {
+    font-size: 13.5px;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .record-context-rail {
+    transition: none;
+  }
+}
