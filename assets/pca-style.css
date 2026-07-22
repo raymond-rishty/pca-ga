@@ -821,8 +821,34 @@ button { cursor: pointer; background: none; border: none; color: inherit; font: 
 }
 
 
-/* ── Wide tables on phones ── */
+/* ── Wide catalogue tables ── */
 .table-scroll { max-width: 100%; }
+
+.table-scroll--case-index {
+  margin: 1.25rem 0;
+  overflow-x: auto;
+  overscroll-behavior-x: contain;
+  -webkit-overflow-scrolling: touch;
+  border: 1px solid var(--parch-deep);
+  border-radius: var(--radius);
+  background: #FFFCF5;
+}
+.reading-col .table-scroll--case-index table.case-index-table {
+  width: 1060px;
+  min-width: 1060px;
+  margin: 0;
+  table-layout: fixed;
+}
+.reading-col .table-scroll--case-index .case-index-table :is(th, td) {
+  overflow-wrap: normal;
+  word-break: normal;
+}
+.reading-col .table-scroll--case-index .case-index-table th { white-space: nowrap; }
+.reading-col .table-scroll--case-index .case-index-table :is(th, td):nth-child(1) { width: 9%; }
+.reading-col .table-scroll--case-index .case-index-table :is(th, td):nth-child(2) { width: 24%; }
+.reading-col .table-scroll--case-index .case-index-table :is(th, td):nth-child(3) { width: 21%; }
+.reading-col .table-scroll--case-index .case-index-table :is(th, td):nth-child(4) { width: 37%; }
+.reading-col .table-scroll--case-index .case-index-table :is(th, td):nth-child(5) { width: 9%; }
 
 .provision-jump { display: none; }
 .provision-jump[hidden] { display: none; }
