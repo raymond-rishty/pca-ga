@@ -360,15 +360,24 @@
       const match = comment.nodeValue.match(/\bPAGE\s+ga=(\d+)\s+pdf_page=(\d+)\s+printed_page=([^\s]+)(?:\s+printed_page_source=([^\s]+))?/i);
       if (!match) return;
       const [, ga, pdfPage, printedPage, printedSource] = match;
-      // Markdown renderers can put a standalone page comment in an otherwise
-      // empty paragraph. Promote that comment so its marker is a direct child
-      // of the reading column and can establish a sticky page boundary.
+      // Markdown renderers can put a standalone page comment and its empty
+      // deep-link anchor in a paragraph. Promote both as one page-break unit so
+      // the marker becomes a direct child of the reading column and can
+      // establish a sticky page boundary.
       const parent = comment.parentElement;
-      const isCommentOnlyParagraph = parent?.tagName === 'P'
+      const isEmptyPageAnchor = (node) => node.nodeType === Node.ELEMENT_NODE
+        && node.tagName === 'A'
+        && node.hasAttribute('id')
+        && !node.hasAttribute('href')
+        && !node.textContent.trim();
+      const isPageBreakParagraph = parent?.tagName === 'P'
         && [...parent.childNodes].every((node) => node === comment
-          || (node.nodeType === Node.TEXT_NODE && !node.nodeValue.trim()));
-      if (isCommentOnlyParagraph) {
-        parent.before(comment);
+          || (node.nodeType === Node.TEXT_NODE && !node.nodeValue.trim())
+          || isEmptyPageAnchor(node));
+      if (isPageBreakParagraph) {
+        const breakNodes = [...parent.childNodes]
+          .filter((node) => node === comment || isEmptyPageAnchor(node));
+        parent.before(...breakNodes);
         parent.remove();
       }
       const printed = printedPage.toLowerCase() !== 'null';
