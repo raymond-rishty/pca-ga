@@ -85,16 +85,17 @@ def main():
             titles = [(meta[x]["title"] if meta.get(x) and meta[x]["title"] else gtitles.get(x, ""))
                       for x in nums]
             tablet = " / ".join(dict.fromkeys(t for t in titles if t))
+            override = next((TITLE_OVERRIDES[x] for x in nums if x in TITLE_OVERRIDES), None)
             # trust the table title only if its parties actually appear in THIS decision; otherwise
             # the table mis-mapped the number (e.g. 91-5 'Stringer' on the Gunter page) — use the
             # case's own caption from the text.
             cap = b.get("caption") or ce.caption(b["text"])
             if tablet and ce.title_matches(tablet, b["text"]):
-                title = TITLE_OVERRIDES.get(x, tablet)
+                title = override or tablet
             elif cap:                       # table title rejected (parties not in the decision)
-                title = TITLE_OVERRIDES.get(x, cap)
+                title = override or cap
             else:
-                title = TITLE_OVERRIDES.get(x, tablet or b["parties"][:90] or "(untitled)")
+                title = override or tablet or b["parties"][:90] or "(untitled)"
             dispos = [meta[x]["disposition"] for x in nums if meta.get(x) and meta[x]["disposition"]]
             hdr = [f"**Court:** Standing Judicial Commission",
                    f"**Assembly:** {ordinal(ga)} ({year})"]
