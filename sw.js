@@ -1,4 +1,4 @@
-const CACHE = 'pca-ga-v11';
+const CACHE = 'pca-ga-v12';
 const STATIC = [
   './',
   './research.html',
@@ -9,6 +9,8 @@ const STATIC = [
   './icon-maskable-512.png',
   './assets/pca-style.css',
   './assets/pca-nav.js',
+  './assets/sticky-record-context.css',
+  './assets/sticky-record-context.js',
   './assets/constitution-links.css',
   './assets/constitution-links.js',
   './assets/research-store.js',
