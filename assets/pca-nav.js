@@ -371,6 +371,31 @@
       marker.querySelector('button').addEventListener('click', () => openPageActions(meta));
       comment.replaceWith(marker);
     });
+
+    // A page marker needs its own containing block for sticky positioning.  That
+    // lets the following marker naturally push it away at the next page break,
+    // rather than leaving every earlier page number pinned at the top of the
+    // entire minutes record.
+    const markers = [...column.children].filter((child) => child.classList.contains('page-marker'));
+    markers.forEach((marker) => {
+      const anchor = marker.previousElementSibling?.matches('a[id]')
+        ? marker.previousElementSibling
+        : null;
+      const page = document.createElement('div');
+      page.className = 'minutes-page';
+      (anchor || marker).before(page);
+      if (anchor) page.append(anchor);
+      page.append(marker);
+
+      let sibling = page.nextElementSibling;
+      while (sibling
+        && !sibling.classList.contains('page-marker')
+        && !(sibling.matches('a[id]') && sibling.nextElementSibling?.classList.contains('page-marker'))) {
+        const next = sibling.nextElementSibling;
+        page.append(sibling);
+        sibling = next;
+      }
+    });
   }
 
   const DISPS = {

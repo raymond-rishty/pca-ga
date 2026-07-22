@@ -670,11 +670,20 @@ button { cursor: pointer; background: none; border: none; color: inherit; font: 
 .record-actions button:hover,.record-actions button.is-saved { border-color: var(--gold); color: #755719; background: var(--gold-pale); }
 .record-actions button span { font-size: 15px; }
 .record-actions button .record-action__icon,.record-actions button .action-icon { width: 16px; height: 16px; flex: 0 0 auto; }
-.page-marker { display: flex; align-items: center; gap: .6rem; margin: 1.8rem 0 .8rem; padding-top: .45rem; border-top: 1px solid var(--parch-deep); color: var(--ink-muted); font-family: var(--sans); font-size: 10px; letter-spacing: .08em; text-transform: uppercase; }
+.minutes-page { position: relative; }
+.page-marker { position: sticky; top: var(--topbar-h); z-index: 20; display: flex; align-items: center; gap: .6rem; margin: 1.8rem 0 .8rem; padding: .35rem 0; border-top: 1px solid var(--parch-deep); background: var(--parch); color: var(--ink-muted); font-family: var(--sans); font-size: 10px; letter-spacing: .08em; text-transform: uppercase; }
 .page-marker a { color: #80621F; text-decoration: none; border: 0; }
-.page-marker__actions { display: inline-flex; align-items: center; gap: .35rem; min-height: 32px; margin-left: auto; padding: 0 .5rem; border: 1px solid transparent; border-radius: 3px; color: var(--ink-muted); font-size: 10px; letter-spacing: .04em; text-transform: none; }
+.page-marker__actions { display: inline-flex; align-items: center; gap: .35rem; min-width: 30px; min-height: 28px; margin-left: auto; padding: 0 .45rem; border: 1px solid transparent; border-radius: 3px; color: var(--ink-muted); font-size: 10px; letter-spacing: .04em; text-transform: none; }
 .page-marker__actions .action-icon { width: 15px; height: 15px; }
 .page-marker__actions:hover { border-color: var(--parch-deep); color: #80621F; background: #FFFCF5; }
+@media (hover: hover) and (pointer: fine) {
+  .page-marker__actions { opacity: 0; }
+  .page-marker:hover .page-marker__actions,
+  .page-marker:focus-within .page-marker__actions { opacity: 1; }
+  .page-marker__actions span { display: none; }
+  .page-marker:hover .page-marker__actions span,
+  .page-marker:focus-within .page-marker__actions span { display: inline; }
+}
 
 /* ── Citation sheet and notifications ── */
 .research-toast { position: fixed; right: 20px; bottom: 20px; z-index: 310; padding: .75rem 1rem; border: 1px solid rgba(232,200,130,.45); border-radius: 4px; background: var(--ink); color: var(--parch); font-size: 12px; opacity: 0; transform: translateY(10px); pointer-events: none; transition: opacity var(--trans), transform var(--trans); }
