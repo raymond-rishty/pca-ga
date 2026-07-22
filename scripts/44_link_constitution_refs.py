@@ -41,6 +41,11 @@ WSC_PREFIX = r"W\.?\s*S\.?\s*C\.?"
 RAO_PREFIX = r"(?:[\"“]\s*)?(?:R\.?\s*A\.?\s*O\.?|Rules?\s+of\s+Assembly\s+Operations?)(?:\s*[\"”])?"
 PREFIX = rf"(?:{BCO_PREFIX}|{WCF_PREFIX}|{WLC_PREFIX}|{WSC_PREFIX}|{RAO_PREFIX})"
 BCO_REF = rf"\d{{1,2}}\s*{DASH}\s*\d{{1,2}}(?:\s*(?:\.\s*[A-Za-z]|\(\s*[A-Za-z]\s*\)))?"
+# A whole BCO chapter is a useful citation in its own right.  Do not let this
+# alternative consume the opening number of a section citation such as 24-1,
+# nor legacy section spellings such as ``7.2`` and ``21 4``.
+BCO_CHAPTER_REF = rf"\d{{1,2}}(?!\s*{DASH}\s*\d)(?!\s*[.:]\s*\d)(?!\s+\d)"
+BCO_CITATION_REF = rf"(?:{BCO_REF}|{BCO_CHAPTER_REF})"
 WCF_REF = rf"\d{{1,2}}\s*(?:\.|{DASH})\s*\d{{1,2}}(?:\s*(?:\.\s*[A-Za-z]|\(\s*[A-Za-z]\s*\)))?"
 CATECHISM_REF = r"(?:Q\.?\s*)?\d{1,3}(?:\s*(?:[A-Za-z]|\(\s*[A-Za-z]\s*\)))?"
 RAO_SECTION_SEP = rf"(?:{DASH}|[.:])"
@@ -49,24 +54,26 @@ RAO_ROMAN_REF = r"[IVXLCDM]{1,7}"
 # Historical minutes vary between hyphens, dots, and colons; some also omit
 # punctuation before a lettered subparagraph (for example ``14-3c.8``).
 RAO_REF = rf"(?:{RAO_NUMERIC_REF}|(?:(?:Article|Section)\s+)?{RAO_ROMAN_REF})(?:\s*(?:[.\-]\s*|(?<=[0-9])(?=[A-Za-z]))[A-Za-z0-9]+|\s*\(\s*[A-Za-z0-9]+\s*\))*(?!\d)"
-OTHER_PREFIX = rf"(?:{BCO_PREFIX}|{WCF_PREFIX}|{WLC_PREFIX}|{WSC_PREFIX})"
-OTHER_REF = rf"(?:{BCO_REF}|{WCF_REF}|{CATECHISM_REF})"
-REF = rf"(?:{RAO_REF}|{OTHER_REF})"
+REF = rf"(?:{RAO_REF}|{BCO_CITATION_REF}|{WCF_REF}|{CATECHISM_REF})"
 SEP = r"(?:\s*,\s*|\s*;\s*|\s+(?:and|or)\s+)"
 CLUSTER_RE = re.compile(
     rf"\b(?:(?P<rao_prefix>{RAO_PREFIX})\s+(?:§\s*)?{RAO_REF}(?:{SEP}(?:§\s*)?{RAO_REF})*|"
-    rf"(?P<other_prefix>{OTHER_PREFIX})\s+{OTHER_REF}(?:{SEP}{OTHER_REF})*)",
+    rf"(?P<bco_prefix>{BCO_PREFIX})\s+{BCO_CITATION_REF}(?:{SEP}{BCO_CITATION_REF})*|"
+    rf"(?P<wcf_prefix>{WCF_PREFIX})\s+{WCF_REF}(?:{SEP}{WCF_REF})*|"
+    rf"(?P<wlc_prefix>{WLC_PREFIX})\s+{CATECHISM_REF}(?:{SEP}{CATECHISM_REF})*|"
+    rf"(?P<wsc_prefix>{WSC_PREFIX})\s+{CATECHISM_REF}(?:{SEP}{CATECHISM_REF})*)",
     re.IGNORECASE,
 )
 PREFIX_RE = re.compile(rf"\b{PREFIX}\b", re.IGNORECASE)
 REF_RE_BY_BOOK = {
-    "bco": re.compile(BCO_REF, re.IGNORECASE),
+    "bco": re.compile(BCO_CITATION_REF, re.IGNORECASE),
     "wcf": re.compile(WCF_REF, re.IGNORECASE),
     "wlc": re.compile(CATECHISM_REF, re.IGNORECASE),
     "wsc": re.compile(CATECHISM_REF, re.IGNORECASE),
     "rao": re.compile(RAO_REF, re.IGNORECASE),
 }
 BCO_CANON_RE = re.compile(rf"(\d{{1,2}})\s*{DASH}\s*(\d{{1,2}})", re.IGNORECASE)
+BCO_CHAPTER_CANON_RE = re.compile(r"\d{1,2}")
 WCF_CANON_RE = re.compile(rf"(\d{{1,2}})\s*(?:\.|{DASH})\s*(\d{{1,2}})", re.IGNORECASE)
 CATECHISM_CANON_RE = re.compile(r"(?:Q\.?\s*)?(\d{1,3})", re.IGNORECASE)
 RAO_CANON_RE = re.compile(rf"(\d{{1,2}})(?:\s*{RAO_SECTION_SEP}\s*(\d{{1,2}}))?", re.IGNORECASE)
@@ -174,7 +181,9 @@ def load_bundled_book_pack(path: Path, key: str) -> dict[str, Any]:
 def canonical_ref(book: str, token: str) -> str | None:
     if book == "bco":
         match = BCO_CANON_RE.search(token)
-        return f"{int(match.group(1))}-{int(match.group(2))}" if match else None
+        if match:
+            return f"{int(match.group(1))}-{int(match.group(2))}"
+        return str(int(token)) if BCO_CHAPTER_CANON_RE.fullmatch(token.strip()) else None
     if book == "wcf":
         match = WCF_CANON_RE.search(token)
         return f"{int(match.group(1))}.{int(match.group(2))}" if match else None
@@ -494,18 +503,42 @@ def linkify_text(
     pieces: list[str] = []
     cursor = 0
     linked = 0
+    bco_chapters = {record["chapter"] for record in bco_refs.values()}
 
     for cluster_match in CLUSTER_RE.finditer(text):
         pieces.append(text[cursor:cluster_match.start()])
         cluster = cluster_match.group(0)
-        prefix = cluster_match.group("rao_prefix") or cluster_match.group("other_prefix")
+        prefix = next(
+            value for value in (
+                cluster_match.group("rao_prefix"),
+                cluster_match.group("bco_prefix"),
+                cluster_match.group("wcf_prefix"),
+                cluster_match.group("wlc_prefix"),
+                cluster_match.group("wsc_prefix"),
+            ) if value
+        )
         book = citation_book(prefix)
         valid_refs: Any = bco_refs if book == "bco" else (rao_refs if book == "rao" else standard_refs.get(book, set()))
+        preceding_bco_section_chapter: str | None = None
         local_cursor = 0
 
         for index, ref_match in enumerate(REF_RE_BY_BOOK.get(book, re.compile(REF)).finditer(cluster)):
             token = ref_match.group(0)
             canonical = canonical_ref(book, token)
+
+            # Minutes often abbreviate a run of sections as ``BCO 13-5,6``.
+            # The continuation has no chapter of its own, so inherit the
+            # immediately preceding section's chapter only when that combined
+            # reference exists. A genuine chapter list (``BCO 24, 25``)
+            # remains chapter-level because no section preceded it.
+            if (
+                book == "bco"
+                and preceding_bco_section_chapter
+                and BCO_CHAPTER_CANON_RE.fullmatch(token.strip())
+            ):
+                continuation = f"{preceding_bco_section_chapter}-{canonical}"
+                if continuation in bco_refs:
+                    canonical = continuation
 
             if index == 0:
                 before = ""
@@ -516,16 +549,20 @@ def linkify_text(
 
             pieces.append(before)
 
-            if canonical and canonical in valid_refs:
+            is_bco_chapter = book == "bco" and canonical in bco_chapters
+            if canonical and (canonical in valid_refs or is_bco_chapter):
                 href = f"{READER_BASE}#{book}/{canonical}"
                 if book == "bco":
-                    chapter = valid_refs[canonical]["chapter"]
+                    chapter = canonical if is_bco_chapter else valid_refs[canonical]["chapter"]
+                    kind = "chapter" if is_bco_chapter else "section"
                     pieces.append(
                         f'<a class="bco-ref" href="{href}" '
                         f'data-bco-ref="{html.escape(canonical, quote=True)}" '
                         f'data-bco-chapter="{html.escape(chapter, quote=True)}" '
+                        f'data-bco-kind="{kind}" '
                         'aria-haspopup="dialog" '
-                        f'title="Read current BCO {html.escape(canonical, quote=True)} text">'
+                        f'title="Read current BCO {html.escape(canonical, quote=True)} '
+                        f'{"chapter" if is_bco_chapter else "text"}">'
                         f"{label}</a>"
                     )
                 else:
@@ -550,6 +587,11 @@ def linkify_text(
                     }
                 )
 
+            if book == "bco":
+                if canonical in bco_refs:
+                    preceding_bco_section_chapter = bco_refs[canonical]["chapter"]
+                elif BCO_CHAPTER_CANON_RE.fullmatch(token.strip()):
+                    preceding_bco_section_chapter = None
             local_cursor = ref_match.end()
 
         pieces.append(cluster[local_cursor:])
@@ -735,7 +777,14 @@ def self_test() -> None:
         "5-9": {"chapter": "5", "chapterTitle": "Organization"},
         "8-4": {"chapter": "8", "chapterTitle": "The Elder"},
         "13-2": {"chapter": "13", "chapterTitle": "The Presbytery"},
+        "13-5": {"chapter": "13", "chapterTitle": "The Presbytery"},
+        "13-6": {"chapter": "13", "chapterTitle": "The Presbytery"},
+        "19-2": {"chapter": "19", "chapterTitle": "Licensure"},
+        "19-3": {"chapter": "19", "chapterTitle": "Licensure"},
+        "7-1": {"chapter": "7", "chapterTitle": "Church Government"},
+        "21-1": {"chapter": "21", "chapterTitle": "Ordination"},
         "25-5": {"chapter": "25", "chapterTitle": "Congregational Meetings"},
+        "24-1": {"chapter": "24", "chapterTitle": "Election of Ruling Elders and Deacons"},
     }
     standard_refs = {
         "wcf": {"3.3", "8.5", "11.4", "28.4"},
@@ -753,6 +802,9 @@ def self_test() -> None:
         '<!DOCTYPE html><html><head></head><body>'
         '<article class="reading-col">'
         '<p>See also BCO 5-9.c, 8-4, 13-2.</p>'
+        '<p>See BCO 13-5,6, 19-2,3.</p>'
+        '<p>BCO 24, 24-1 and 99.</p>'
+        '<p>Legacy forms BCO 7.2 and BCO 21 4 remain unlinked.</p>'
         '<p>WCF 3-3, 8-5 and 11-4; WLC 166B; WSC 95B; WCF 28.4; RAO 16-3.e.5 and RAO 20.</p>'
         '<p>“RAO” 16:3; RAO § 14-10-D-2; RAO 14.4.C.2; RAO XVIII.</p>'
         '<p><em>RAO</em> 16-3.e.5</p>'
@@ -770,9 +822,21 @@ def self_test() -> None:
     linker = ConstitutionLinker(bco_refs, standard_refs, rao_refs, minutes_refs, "test.html")
     linker.feed(normalize_inline_citation_prefixes(sample))
     rendered = "".join(linker.output)
-    assert linker.link_count == 19
+    assert linker.link_count == 25
     assert 'data-bco-ref="5-9"' in rendered
     assert 'data-bco-ref="8-4"' in rendered
+    assert 'data-bco-ref="24" data-bco-chapter="24" data-bco-kind="chapter"' in rendered
+    assert 'data-bco-ref="24-1" data-bco-chapter="24" data-bco-kind="section"' in rendered
+    assert 'data-bco-ref="13-5"' in rendered
+    assert 'data-bco-ref="13-6"' in rendered
+    assert 'data-bco-ref="19-2"' in rendered
+    assert 'data-bco-ref="19-3"' in rendered
+    assert '>6</a>,' in rendered
+    assert '>3</a>.</p>' in rendered
+    assert 'data-bco-ref="6"' not in rendered
+    assert f'{READER_BASE}#bco/24' in rendered
+    assert ' and 99.</p>' in rendered
+    assert 'BCO 7.2 and BCO 21 4 remain unlinked.' in rendered
     assert f'{READER_BASE}#bco/5-9' in rendered
     assert f'{READER_BASE}#wcf/3.3' in rendered
     assert f'{READER_BASE}#wcf/8.5' in rendered
