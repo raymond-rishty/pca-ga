@@ -21,6 +21,7 @@ spec = importlib.util.spec_from_file_location("ce", f"{ROOT}/scripts/25_case_ext
 ce = importlib.util.module_from_spec(spec); spec.loader.exec_module(ce)
 
 OUT = f"{ROOT}/cases"
+TITLE_OVERRIDES = json.load(open(f"{ROOT}/index/case_title_overrides.json"))
 _OPIN = re.compile(r"^\**\s*((?:CONCURRING|DISSENTING|MAJORITY|SEPARATE)\s+OPINION[^*\n]*|"
                    r"OPINION OF THE COURT|DECISION(?: ON [A-Z ]+)?)\s*\**\s*$", re.I)
 
@@ -89,11 +90,11 @@ def main():
             # case's own caption from the text.
             cap = b.get("caption") or ce.caption(b["text"])
             if tablet and ce.title_matches(tablet, b["text"]):
-                title = tablet
+                title = TITLE_OVERRIDES.get(x, tablet)
             elif cap:                       # table title rejected (parties not in the decision)
-                title = cap
+                title = TITLE_OVERRIDES.get(x, cap)
             else:
-                title = tablet or b["parties"][:90] or "(untitled)"
+                title = TITLE_OVERRIDES.get(x, tablet or b["parties"][:90] or "(untitled)")
             dispos = [meta[x]["disposition"] for x in nums if meta.get(x) and meta[x]["disposition"]]
             hdr = [f"**Court:** Standing Judicial Commission",
                    f"**Assembly:** {ordinal(ga)} ({year})"]
