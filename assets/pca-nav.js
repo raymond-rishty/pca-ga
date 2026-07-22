@@ -424,6 +424,7 @@
   };
 
   function makeTablesResponsive() {
+    const isCaseIndex = /\/index\/CASES\.html$/i.test(location.pathname);
     const isProvisionIndex = /\/index\/CASES-BY-PROVISION\.html$/i.test(location.pathname);
     const isInquiryIndex = /\/index\/INQUIRIES\.html$/i.test(location.pathname);
     document.querySelectorAll('.reading-col table').forEach((table) => {
@@ -434,9 +435,13 @@
       const isProvisionAudit = isProvisionIndex
         && labels.includes('Tag sources')
         && labels.includes('Evidence lines');
+      const isCaseTable = isCaseIndex
+        && ['Case', 'Parties / Title', 'Disposition', 'Summary', 'Page']
+          .every((label) => labels.includes(label));
       const isInquiryTable = isInquiryIndex
         && ['Inquiry', 'Subject', 'Synopsis', 'Provisions', 'Outcome', 'From', 'Minutes']
           .every((label) => labels.includes(label));
+      if (isCaseTable) table.classList.add('case-index-table');
       if (isInquiryTable) table.classList.add('inquiry-table');
       if (isProvisionAudit) {
         table.classList.add('responsive-table');
@@ -450,12 +455,16 @@
         return;
       }
 
-      if (!table.parentElement?.classList.contains('table-scroll')) {
-        const scroller = document.createElement('div');
+      let scroller = table.parentElement?.classList.contains('table-scroll')
+        ? table.parentElement
+        : null;
+      if (!scroller) {
+        scroller = document.createElement('div');
         scroller.className = 'table-scroll';
         table.before(scroller);
         scroller.append(table);
       }
+      if (isCaseTable) scroller.classList.add('table-scroll--case-index');
     });
   }
 
