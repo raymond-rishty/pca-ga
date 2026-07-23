@@ -833,22 +833,28 @@ button { cursor: pointer; background: none; border: none; color: inherit; font: 
   border-radius: var(--radius);
   background: #FFFCF5;
 }
-.reading-col .table-scroll--case-index table.case-index-table {
+.reading-col .table-scroll--case-index :is(table.case-index-table, table.case-provision-table) {
   width: 1060px;
   min-width: 1060px;
   margin: 0;
   table-layout: fixed;
 }
-.reading-col .table-scroll--case-index .case-index-table :is(th, td) {
+.reading-col .table-scroll--case-index :is(.case-index-table, .case-provision-table) :is(th, td) {
   overflow-wrap: normal;
   word-break: normal;
 }
-.reading-col .table-scroll--case-index .case-index-table th { white-space: nowrap; }
+.reading-col .table-scroll--case-index :is(.case-index-table, .case-provision-table) th { white-space: nowrap; }
 .reading-col .table-scroll--case-index .case-index-table :is(th, td):nth-child(1) { width: 9%; }
 .reading-col .table-scroll--case-index .case-index-table :is(th, td):nth-child(2) { width: 24%; }
 .reading-col .table-scroll--case-index .case-index-table :is(th, td):nth-child(3) { width: 21%; }
 .reading-col .table-scroll--case-index .case-index-table :is(th, td):nth-child(4) { width: 37%; }
 .reading-col .table-scroll--case-index .case-index-table :is(th, td):nth-child(5) { width: 9%; }
+.reading-col .table-scroll--case-index .case-provision-table :is(th, td):nth-child(1) { width: 7%; }
+.reading-col .table-scroll--case-index .case-provision-table :is(th, td):nth-child(2) { width: 24%; }
+.reading-col .table-scroll--case-index .case-provision-table :is(th, td):nth-child(3) { width: 12%; }
+.reading-col .table-scroll--case-index .case-provision-table :is(th, td):nth-child(4) { width: 37%; }
+.reading-col .table-scroll--case-index .case-provision-table :is(th, td):nth-child(5) { width: 13%; }
+.reading-col .table-scroll--case-index .case-provision-table :is(th, td):nth-child(6) { width: 7%; }
 
 .provision-jump { display: none; }
 .provision-jump[hidden] { display: none; }
@@ -892,58 +898,6 @@ button { cursor: pointer; background: none; border: none; color: inherit; font: 
 }
 
 @media (max-width: 640px) {
-  /* The audit index is deliberately card-like: its six columns carry one case record. */
-  .reading-col table.responsive-table {
-    display: block;
-    width: 100%;
-    margin: 1.25rem 0;
-    font-size: 1rem;
-  }
-  .reading-col table.responsive-table > thead {
-    position: absolute;
-    width: 1px;
-    height: 1px;
-    padding: 0;
-    margin: -1px;
-    overflow: hidden;
-    clip: rect(0, 0, 0, 0);
-    white-space: nowrap;
-    border: 0;
-  }
-  .reading-col table.responsive-table > tbody {
-    display: grid;
-    gap: .85rem;
-  }
-  .reading-col table.responsive-table tr {
-    display: block;
-    padding: .9rem 1rem;
-    border: 1px solid var(--parch-deep);
-    border-left: 3px solid var(--gold);
-    border-radius: var(--radius);
-    background: #FFFCF5;
-  }
-  .reading-col table.responsive-table td {
-    display: grid;
-    grid-template-columns: minmax(6.25rem, .55fr) minmax(0, 1fr);
-    gap: .7rem;
-    padding: .42rem 0;
-    border: 0;
-    border-top: 1px solid var(--parch-mid);
-    overflow-wrap: break-word;
-    word-break: normal;
-  }
-  .reading-col table.responsive-table td:first-child { padding-top: 0; border-top: 0; }
-  .reading-col table.responsive-table td::before {
-    content: attr(data-label);
-    color: var(--ink-muted);
-    font: 500 9px/1.35 var(--sans);
-    letter-spacing: .1em;
-    text-transform: uppercase;
-  }
-  .reading-col table.responsive-table td:empty { display: none; }
-  .reading-col table.responsive-table td:nth-child(5),
-  .reading-col table.responsive-table td:nth-child(6) { display: none; }
-
   .provision-jump {
     position: sticky;
     top: calc(var(--topbar-h) + .65rem);
