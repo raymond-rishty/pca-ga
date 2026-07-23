@@ -442,18 +442,8 @@
         && ['Inquiry', 'Subject', 'Synopsis', 'Provisions', 'Outcome', 'From', 'Minutes']
           .every((label) => labels.includes(label));
       if (isCaseTable) table.classList.add('case-index-table');
+      if (isProvisionAudit) table.classList.add('case-provision-table');
       if (isInquiryTable) table.classList.add('inquiry-table');
-      if (isProvisionAudit) {
-        table.classList.add('responsive-table');
-        [...table.tBodies].forEach((body) => {
-          [...body.rows].forEach((row) => {
-            [...row.cells].forEach((cell, index) => {
-              cell.dataset.label = labels[index] || 'Detail';
-            });
-          });
-        });
-        return;
-      }
 
       let scroller = table.parentElement?.classList.contains('table-scroll')
         ? table.parentElement
@@ -464,7 +454,7 @@
         table.before(scroller);
         scroller.append(table);
       }
-      if (isCaseTable) scroller.classList.add('table-scroll--case-index');
+      if (isCaseTable || isProvisionAudit) scroller.classList.add('table-scroll--case-index');
     });
   }
 
