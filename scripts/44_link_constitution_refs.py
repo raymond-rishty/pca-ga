@@ -36,17 +36,19 @@ READER_BASE = "https://raymond-rishty.github.io/pca-constitution-reader/"
 DASH = r"[-\u2010\u2011\u2012\u2013\u2014\u2212]"
 BCO_PREFIX = r"(?:B\.?\s*C\.?\s*O\.?|Book\s+of\s+Church\s+Order)"
 WCF_PREFIX = r"W\.?\s*C\.?\s*F\.?"
+WCF_ROMAN_REF = r"[IVXLCDM]{1,7}"
 WLC_PREFIX = r"W\.?\s*L\.?\s*C\.?"
 WSC_PREFIX = r"W\.?\s*S\.?\s*C\.?"
 RAO_PREFIX = r"(?:[\"“]\s*)?(?:R\.?\s*A\.?\s*O\.?|Rules?\s+of\s+Assembly\s+Operations?)(?:\s*[\"”])?"
 PREFIX = rf"(?:{BCO_PREFIX}|{WCF_PREFIX}|{WLC_PREFIX}|{WSC_PREFIX}|{RAO_PREFIX})"
-BCO_REF = rf"\d{{1,2}}\s*{DASH}\s*\d{{1,2}}(?:\s*(?:\.\s*[A-Za-z]|\(\s*[A-Za-z]\s*\)))?"
+BCO_REF = rf"\d{{1,2}}\s*{DASH}\s*\d{{1,2}}(?:\s*(?:\.\s*[A-Za-z]|\(\s*[A-Za-z]\s*\))|(?<=[0-9])[A-Za-z])?"
 # A whole BCO chapter is a useful citation in its own right.  Do not let this
 # alternative consume the opening number of a section citation such as 24-1,
 # nor legacy section spellings such as ``7.2`` and ``21 4``.
 BCO_CHAPTER_REF = rf"\d{{1,2}}(?!\s*{DASH}\s*\d)(?!\s*[.:]\s*\d)(?!\s+\d)"
 BCO_CITATION_REF = rf"(?:{BCO_REF}|{BCO_CHAPTER_REF})"
-WCF_REF = rf"\d{{1,2}}\s*(?:\.|{DASH})\s*\d{{1,2}}(?:\s*(?:\.\s*[A-Za-z]|\(\s*[A-Za-z]\s*\)))?"
+WCF_SECTION_SEP = rf"(?:\.|:|{DASH})"
+WCF_REF = rf"(?:\d{{1,2}}|{WCF_ROMAN_REF})\s*{WCF_SECTION_SEP}\s*\d{{1,2}}(?:\s*(?:\.\s*[A-Za-z]|\(\s*[A-Za-z]\s*\)))?"
 CATECHISM_REF = r"(?:Q\.?\s*)?\d{1,3}(?:\s*(?:[A-Za-z]|\(\s*[A-Za-z]\s*\)))?"
 RAO_SECTION_SEP = rf"(?:{DASH}|[.:])"
 RAO_NUMERIC_REF = rf"\d{{1,2}}(?:\s*{RAO_SECTION_SEP}\s*\d{{1,2}})?"
@@ -58,7 +60,7 @@ REF = rf"(?:{RAO_REF}|{BCO_CITATION_REF}|{WCF_REF}|{CATECHISM_REF})"
 SEP = r"(?:\s*,\s*|\s*;\s*|\s+(?:and|or)\s+)"
 CLUSTER_RE = re.compile(
     rf"\b(?:(?P<rao_prefix>{RAO_PREFIX})\s+(?:§\s*)?{RAO_REF}(?:{SEP}(?:§\s*)?{RAO_REF})*|"
-    rf"(?P<bco_prefix>{BCO_PREFIX})\s+{BCO_CITATION_REF}(?:{SEP}{BCO_CITATION_REF})*|"
+    rf"(?P<bco_prefix>{BCO_PREFIX})\s+(?:§\s*)?{BCO_CITATION_REF}(?:{SEP}(?:§\s*)?{BCO_CITATION_REF})*|"
     rf"(?P<wcf_prefix>{WCF_PREFIX})\s+{WCF_REF}(?:{SEP}{WCF_REF})*|"
     rf"(?P<wlc_prefix>{WLC_PREFIX})\s+{CATECHISM_REF}(?:{SEP}{CATECHISM_REF})*|"
     rf"(?P<wsc_prefix>{WSC_PREFIX})\s+{CATECHISM_REF}(?:{SEP}{CATECHISM_REF})*)",
@@ -74,7 +76,7 @@ REF_RE_BY_BOOK = {
 }
 BCO_CANON_RE = re.compile(rf"(\d{{1,2}})\s*{DASH}\s*(\d{{1,2}})", re.IGNORECASE)
 BCO_CHAPTER_CANON_RE = re.compile(r"\d{1,2}")
-WCF_CANON_RE = re.compile(rf"(\d{{1,2}})\s*(?:\.|{DASH})\s*(\d{{1,2}})", re.IGNORECASE)
+WCF_CANON_RE = re.compile(rf"(\d{{1,2}}|{WCF_ROMAN_REF})\s*{WCF_SECTION_SEP}\s*(\d{{1,2}})", re.IGNORECASE)
 CATECHISM_CANON_RE = re.compile(r"(?:Q\.?\s*)?(\d{1,3})", re.IGNORECASE)
 RAO_CANON_RE = re.compile(rf"(\d{{1,2}})(?:\s*{RAO_SECTION_SEP}\s*(\d{{1,2}}))?", re.IGNORECASE)
 
@@ -186,7 +188,11 @@ def canonical_ref(book: str, token: str) -> str | None:
         return str(int(token)) if BCO_CHAPTER_CANON_RE.fullmatch(token.strip()) else None
     if book == "wcf":
         match = WCF_CANON_RE.search(token)
-        return f"{int(match.group(1))}.{int(match.group(2))}" if match else None
+        if not match:
+            return None
+        chapter = match.group(1)
+        number = int(chapter) if chapter.isdigit() else roman_to_int(chapter, maximum=33)
+        return f"{number}.{int(match.group(2))}" if number else None
     if book in {"wlc", "wsc"}:
         match = CATECHISM_CANON_RE.search(token)
         return f"Q.{int(match.group(1))}" if match else None
@@ -202,8 +208,8 @@ def canonical_ref(book: str, token: str) -> str | None:
     return None
 
 
-def roman_to_int(value: str) -> int | None:
-    """Convert the small Roman-numeral RAO article references found in minutes."""
+def roman_to_int(value: str, maximum: int = 20) -> int | None:
+    """Convert Roman-numeral references found in historical minutes."""
     numerals = {"I": 1, "V": 5, "X": 10, "L": 50, "C": 100, "D": 500, "M": 1000}
     total = 0
     previous = 0
@@ -213,7 +219,7 @@ def roman_to_int(value: str) -> int | None:
             return None
         total += -current if current < previous else current
         previous = max(previous, current)
-    return total if 1 <= total <= 20 else None
+    return total if 1 <= total <= maximum else None
 
 
 def citation_book(prefix: str) -> str:
@@ -779,6 +785,7 @@ def self_test() -> None:
         "13-2": {"chapter": "13", "chapterTitle": "The Presbytery"},
         "13-5": {"chapter": "13", "chapterTitle": "The Presbytery"},
         "13-6": {"chapter": "13", "chapterTitle": "The Presbytery"},
+        "13-9": {"chapter": "13", "chapterTitle": "The Presbytery"},
         "19-2": {"chapter": "19", "chapterTitle": "Licensure"},
         "19-3": {"chapter": "19", "chapterTitle": "Licensure"},
         "7-1": {"chapter": "7", "chapterTitle": "Church Government"},
@@ -787,7 +794,7 @@ def self_test() -> None:
         "24-1": {"chapter": "24", "chapterTitle": "Election of Ruling Elders and Deacons"},
     }
     standard_refs = {
-        "wcf": {"3.3", "8.5", "11.4", "28.4"},
+        "wcf": {"3.3", "8.5", "11.4", "19.4", "28.4"},
         "wlc": {"Q.166"},
         "wsc": {"Q.95"},
     }
@@ -803,9 +810,11 @@ def self_test() -> None:
         '<article class="reading-col">'
         '<p>See also BCO 5-9.c, 8-4, 13-2.</p>'
         '<p>See BCO 13-5,6, 19-2,3.</p>'
+        '<p>BCO §13- 9a and BCO §13-\n9a.</p>'
         '<p>BCO 24, 24-1 and 99.</p>'
         '<p>Legacy forms BCO 7.2 and BCO 21 4 remain unlinked.</p>'
         '<p>WCF 3-3, 8-5 and 11-4; WLC 166B; WSC 95B; WCF 28.4; RAO 16-3.e.5 and RAO 20.</p>'
+        '<p>WCF XIX:4</p><p>WCF XIX.4</p><p>WCF XIX-4</p>'
         '<p>“RAO” 16:3; RAO § 14-10-D-2; RAO 14.4.C.2; RAO XVIII.</p>'
         '<p><em>RAO</em> 16-3.e.5</p>'
         '<p>See M14GA p. 330 for the original action.</p>'
@@ -822,13 +831,14 @@ def self_test() -> None:
     linker = ConstitutionLinker(bco_refs, standard_refs, rao_refs, minutes_refs, "test.html")
     linker.feed(normalize_inline_citation_prefixes(sample))
     rendered = "".join(linker.output)
-    assert linker.link_count == 25
+    assert linker.link_count == 30
     assert 'data-bco-ref="5-9"' in rendered
     assert 'data-bco-ref="8-4"' in rendered
     assert 'data-bco-ref="24" data-bco-chapter="24" data-bco-kind="chapter"' in rendered
     assert 'data-bco-ref="24-1" data-bco-chapter="24" data-bco-kind="section"' in rendered
     assert 'data-bco-ref="13-5"' in rendered
     assert 'data-bco-ref="13-6"' in rendered
+    assert rendered.count('data-bco-ref="13-9"') == 2
     assert 'data-bco-ref="19-2"' in rendered
     assert 'data-bco-ref="19-3"' in rendered
     assert '>6</a>,' in rendered
@@ -840,6 +850,7 @@ def self_test() -> None:
     assert f'{READER_BASE}#bco/5-9' in rendered
     assert f'{READER_BASE}#wcf/3.3' in rendered
     assert f'{READER_BASE}#wcf/8.5' in rendered
+    assert rendered.count(f'{READER_BASE}#wcf/19.4') == 3
     assert f'{READER_BASE}#wlc/Q.166' in rendered
     assert f'{READER_BASE}#wsc/Q.95' in rendered
     assert 'data-constitution-book="wlc"' in rendered
