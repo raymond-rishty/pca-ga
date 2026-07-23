@@ -55,6 +55,7 @@ jobs:
         run: bundle exec jekyll build
       - name: Link constitutional references
         run: |
+          python3 scripts/build_bsb_assets.py --check
           python3 scripts/44_normalize_bco_prefixes.py _site
           python3 scripts/44_link_constitution_refs.py \
             _site \
@@ -71,10 +72,14 @@ jobs:
           test -s _site/assets/constitution/standards/wsc.json
           test -s _site/assets/constitution/packs/rao.json
           test -s _site/assets/minutes-pages.json
+          test -s _site/assets/scripture-audit.json
+          test -s _site/assets/scripture-audit-summary.json
+          test -s _site/assets/scripture/bsb/John/3.json
           grep -R -q 'data-bco-ref=' _site
           grep -R -q 'class="constitution-ref"' _site
           grep -R -q 'data-constitution-book="rao"' _site
           grep -R -q 'class="minutes-ref"' _site
+          grep -R -q 'class="scripture-ref"' _site
       - uses: actions/upload-pages-artifact@v3
         with:
           path: _site
