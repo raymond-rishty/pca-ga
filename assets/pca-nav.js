@@ -430,11 +430,13 @@
     document.querySelectorAll('.reading-col table').forEach((table) => {
       const header = table.tHead?.rows[0] || table.rows[0];
       const labels = header ? [...header.cells].map((cell) => cell.textContent.replace(/\s+/g, ' ').trim()) : [];
-      if (labels.length < 4) return;
+      if (labels.length < 4 && !isProvisionIndex) return;
 
-      const isProvisionAudit = isProvisionIndex
-        && labels.includes('Tag sources')
-        && labels.includes('Evidence lines');
+      // This index is generated entirely as provision-audit tables.  Do not
+      // depend on header text here: Markdown table parsing can normalize a
+      // header differently across renderers, leaving the table unwrapped on
+      // narrow screens.
+      const isProvisionAudit = isProvisionIndex;
       const isCaseTable = isCaseIndex
         && ['Case', 'Parties / Title', 'Disposition', 'Summary', 'Page']
           .every((label) => labels.includes(label));
