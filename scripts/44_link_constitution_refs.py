@@ -794,7 +794,7 @@ def self_test() -> None:
         "24-1": {"chapter": "24", "chapterTitle": "Election of Ruling Elders and Deacons"},
     }
     standard_refs = {
-        "wcf": {"3.3", "8.5", "11.4", "28.4"},
+        "wcf": {"3.3", "8.5", "11.4", "19.4", "28.4"},
         "wlc": {"Q.166"},
         "wsc": {"Q.95"},
     }
