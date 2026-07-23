@@ -1,4 +1,4 @@
-const CACHE = 'pca-ga-v12';
+const CACHE = 'pca-ga-v13';
 const STATIC = [
   './',
   './research.html',
@@ -13,6 +13,8 @@ const STATIC = [
   './assets/sticky-record-context.js',
   './assets/constitution-links.css',
   './assets/constitution-links.js',
+  './assets/scripture-links.css',
+  './assets/scripture-links.js',
   './assets/research-store.js',
   './assets/research-workspace.js',
   './assets/search-record.js',

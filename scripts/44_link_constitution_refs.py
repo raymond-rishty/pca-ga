@@ -32,6 +32,8 @@ from html.parser import HTMLParser
 from pathlib import Path
 from typing import Any
 
+from scripture_linker import load_metadata as load_scripture_metadata, mask_and_link, self_test as scripture_self_test
+
 READER_BASE = "https://raymond-rishty.github.io/pca-constitution-reader/"
 DASH = r"[-\u2010\u2011\u2012\u2013\u2014\u2212]"
 BCO_PREFIX = r"(?:B\.?\s*C\.?\s*O\.?|Book\s+of\s+Church\s+Order)"
@@ -96,6 +98,8 @@ MINUTES_PAGE_RE = re.compile(
     r'printed_page=(?P<printed_page>\d+)\s*-->',
     re.IGNORECASE,
 )
+SCRIPTURE_METADATA = Path(__file__).resolve().parent.parent / "scripture" / "bible-books.json"
+PAGE_MARKER_RE = re.compile(r"PAGE\s+ga=\d+\s+pdf_page=\d+\s+printed_page=(\d+)")
 
 EXCLUDED_TAGS = {"a", "code", "pre", "script", "style", "textarea", "noscript"}
 VOID_TAGS = {
@@ -615,6 +619,7 @@ class ConstitutionLinker(HTMLParser):
         rao_refs: dict[str, dict[str, str]],
         minutes_refs: dict[str, dict[str, dict[str, str]]],
         file_name: str,
+        scripture_metadata: dict[str, Any] | None = None,
     ) -> None:
         super().__init__(convert_charrefs=False)
         self.bco_refs = bco_refs
@@ -626,6 +631,12 @@ class ConstitutionLinker(HTMLParser):
         self.stack: list[dict[str, Any]] = []
         self.link_count = 0
         self.unresolved: list[dict[str, str]] = []
+        self.scripture_metadata = scripture_metadata
+        self.scripture_links: list[dict[str, Any]] = []
+        self.scripture_review: list[dict[str, Any]] = []
+        self.scripture_sequence = 0
+        self.current_anchor: str | None = None
+        self.current_folio: str | None = None
 
     def state(self) -> dict[str, Any]:
         if self.stack:
@@ -639,6 +650,8 @@ class ConstitutionLinker(HTMLParser):
         for key, value in attrs:
             if key == "class" and value:
                 classes.update(value.split())
+            if key == "id" and value:
+                self.current_anchor = value
 
         reading = parent["reading"] or (
             tag == "article" and "reading-col" in classes
@@ -666,8 +679,20 @@ class ConstitutionLinker(HTMLParser):
     def handle_data(self, data: str) -> None:
         state = self.state()
         if state["reading"] and not state["skip"]:
+            location = {
+                "file": self.file_name,
+                "url": f"{self.file_name}#{self.current_anchor}" if self.current_anchor else self.file_name,
+                "anchor": self.current_anchor,
+                "printedFolio": self.current_folio,
+            }
+            if self.scripture_metadata:
+                masked, replacements, scripture_count, scripture_links, scripture_review, self.scripture_sequence = mask_and_link(
+                    data, self.scripture_metadata, location, self.scripture_sequence
+                )
+            else:
+                masked, replacements, scripture_count, scripture_links, scripture_review = data, {}, 0, [], []
             linked_minutes, minutes_count = linkify_minutes_text(
-                data,
+                masked,
                 self.minutes_refs,
                 self.file_name,
             )
@@ -679,8 +704,12 @@ class ConstitutionLinker(HTMLParser):
                 self.unresolved,
                 self.file_name,
             )
+            for token, replacement in replacements.items():
+                linked = linked.replace(token, replacement)
             self.output.append(linked)
-            self.link_count += count + minutes_count
+            self.link_count += count + minutes_count + scripture_count
+            self.scripture_links.extend(scripture_links)
+            self.scripture_review.extend(scripture_review)
         else:
             self.output.append(data)
 
@@ -691,6 +720,9 @@ class ConstitutionLinker(HTMLParser):
         self.output.append(f"&#{name};")
 
     def handle_comment(self, data: str) -> None:
+        match = PAGE_MARKER_RE.search(data)
+        if match:
+            self.current_folio = match.group(1)
         self.output.append(f"<!--{data}-->")
 
     def handle_decl(self, decl: str) -> None:
@@ -713,15 +745,17 @@ def asset_prefix(rendered_html: str) -> str:
 
 
 def inject_assets(rendered_html: str) -> str:
-    if "constitution-links.css" in rendered_html:
+    if "constitution-links.css" in rendered_html and "scripture-links.css" in rendered_html:
         return rendered_html
 
     prefix = asset_prefix(rendered_html)
     stylesheet = (
         f'  <link rel="stylesheet" href="{prefix}constitution-links.css">\n'
+        f'  <link rel="stylesheet" href="{prefix}scripture-links.css">\n'
     )
     script = (
         f'  <script src="{prefix}constitution-links.js" defer></script>\n'
+        f'  <script src="{prefix}scripture-links.js" defer></script>\n'
     )
 
     if "</head>" in rendered_html:
@@ -742,10 +776,11 @@ def process_html(
     standard_refs: dict[str, set[str]],
     rao_refs: dict[str, dict[str, str]],
     minutes_refs: dict[str, dict[str, dict[str, str]]],
-) -> tuple[int, list[dict[str, str]]]:
+    scripture_metadata: dict[str, Any],
+) -> tuple[int, list[dict[str, str]], list[dict[str, Any]], list[dict[str, Any]]]:
     source = normalize_inline_citation_prefixes(path.read_text(encoding="utf-8"))
-    if not PREFIX_RE.search(source) and not MINUTES_CITATION_RE.search(source):
-        return 0, []
+    if not PREFIX_RE.search(source) and not MINUTES_CITATION_RE.search(source) and not scripture_metadata["alias_re"].search(source):
+        return 0, [], [], []
 
     linker = ConstitutionLinker(
         bco_refs,
@@ -753,16 +788,17 @@ def process_html(
         rao_refs,
         minutes_refs,
         path.relative_to(site_dir).as_posix(),
+        scripture_metadata,
     )
     linker.feed(source)
     linker.close()
 
     if not linker.link_count:
-        return 0, linker.unresolved
+        return 0, linker.unresolved, linker.scripture_links, linker.scripture_review
 
     rendered = inject_assets("".join(linker.output))
     path.write_text(rendered, encoding="utf-8")
-    return linker.link_count, linker.unresolved
+    return linker.link_count, linker.unresolved, linker.scripture_links, linker.scripture_review
 
 
 def self_test() -> None:
@@ -899,6 +935,9 @@ def main() -> int:
 
     self_test()
 
+    scripture_metadata = load_scripture_metadata(SCRIPTURE_METADATA)
+    scripture_self_test(scripture_metadata)
+
     if not args.site_dir.is_dir():
         parser.error(f"Site directory does not exist: {args.site_dir}")
     for label, path in (("BCO", args.bco_js), ("WCF", args.wcf_js), ("WLC", args.wlc_js), ("WSC", args.wsc_js), ("RAO", args.rao_js)):
@@ -928,15 +967,28 @@ def main() -> int:
     total_links = 0
     changed_files = 0
     unresolved: list[dict[str, str]] = []
+    scripture_links: list[dict[str, Any]] = []
+    scripture_review: list[dict[str, Any]] = []
 
     for path in sorted(args.site_dir.rglob("*.html")):
-        linked, missing = process_html(
-            path, args.site_dir, bco_refs, standard_refs, rao_refs, minutes_refs
+        linked, missing, found_scripture, reviewed_scripture = process_html(
+            path, args.site_dir, bco_refs, standard_refs, rao_refs, minutes_refs, scripture_metadata
         )
         total_links += linked
         unresolved.extend(missing)
+        scripture_links.extend(found_scripture)
+        scripture_review.extend(reviewed_scripture)
         if linked:
             changed_files += 1
+
+    (args.site_dir / "assets" / "scripture-audit.json").write_text(
+        json.dumps({"version": 1, "linked": scripture_links, "review": scripture_review}, ensure_ascii=False, separators=(",", ":")),
+        encoding="utf-8",
+    )
+    (args.site_dir / "assets" / "scripture-audit-summary.json").write_text(
+        json.dumps({"version": 1, "linked": len(scripture_links), "review": len(scripture_review), "reviewByClassification": dict(Counter(item["classification"] for item in scripture_review))}, ensure_ascii=False, separators=(",", ":")),
+        encoding="utf-8",
+    )
 
     counts = Counter(item["reference"] for item in unresolved)
     unresolved_payload = {
