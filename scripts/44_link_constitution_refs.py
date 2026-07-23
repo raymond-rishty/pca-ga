@@ -88,6 +88,7 @@ RAO_CANON_RE = re.compile(rf"(\d{{1,2}})(?:\s*{RAO_SECTION_SEP}\s*(\d{{1,2}}))?"
 # printed page; bare volume references remain plain text.
 MINUTES_CITATION_RE = re.compile(
     r"\bM\s*(?P<ga>\d{1,2})\s*GA\s*,?\s*"
+    r"(?:(?:19|20)\d{2}\s*,?\s*)?"
     r"(?:p{1,2}\.?|pages?\.?)\s*(?P<page>\d{1,4})"
     rf"(?:\s*{DASH}\s*\d{{1,4}})?\b",
     re.IGNORECASE,
@@ -114,7 +115,7 @@ INLINE_CITATION_PREFIX_RE = re.compile(
 INLINE_MINUTES_CITATION_PREFIX_RE = re.compile(
     r"<(?P<tag>em|i|strong|b)\b[^>]*>\s*"
     r"(?P<prefix>M\s*\d{1,2}\s*GA)\s*</(?P=tag)>"
-    r"(?=(?:\s|&nbsp;)*,?\s*(?:p{1,2}\.?|pages?\.?)\s*\d)",
+    r"(?=(?:\s|&nbsp;)*,?\s*(?:(?:19|20)\d{2}\s*,?\s*)?(?:p{1,2}\.?|pages?\.?)\s*\d)",
     re.IGNORECASE,
 )
 
@@ -856,6 +857,7 @@ def self_test() -> None:
         '<p>See M14GA p. 330 for the original action.</p>'
         '<p>See M14GA pp. 330–332 for the related proceedings.</p>'
         '<p><em>M20GA</em>, p. 635</p>'
+        '<p>M21GA, 1993 pp. 185–193</p>'
         '<p>M14GA p. 331 remains plain text when no printed folio is available.</p>'
         '<a href="#">BCO 25-5</a><code>BCO 25-5</code>'
         '</article></body></html>'
@@ -863,11 +865,12 @@ def self_test() -> None:
     minutes_refs = {
         "14": {"330": {"path": "markdown/ga14_1986.html", "anchor": "ga14-p330", "pdf_page": "332"}},
         "20": {"635": {"path": "markdown/ga20_1992.html", "anchor": "ga20-p635", "pdf_page": "637"}},
+        "21": {"185": {"path": "markdown/ga21_1993.html", "anchor": "ga21-p185", "pdf_page": "187"}},
     }
     linker = ConstitutionLinker(bco_refs, standard_refs, rao_refs, minutes_refs, "test.html")
     linker.feed(normalize_inline_citation_prefixes(sample))
     rendered = "".join(linker.output)
-    assert linker.link_count == 30
+    assert linker.link_count == 31
     assert 'data-bco-ref="5-9"' in rendered
     assert 'data-bco-ref="8-4"' in rendered
     assert 'data-bco-ref="24" data-bco-chapter="24" data-bco-kind="chapter"' in rendered
@@ -904,6 +907,9 @@ def self_test() -> None:
     assert '>M14GA pp. 330–332</a>' in rendered
     assert 'class="minutes-ref" href="markdown/ga20_1992.html#ga20-p635"' in rendered
     assert 'data-minutes-ga="20" data-minutes-page="635"' in rendered
+    assert 'class="minutes-ref" href="markdown/ga21_1993.html#ga21-p185"' in rendered
+    assert '>M21GA, 1993 pp. 185–193</a>' in rendered
+    assert 'data-minutes-ga="21" data-minutes-page="185"' in rendered
     assert 'M14GA p. 331 remains plain text' in rendered
     assert 'data-minutes-page="331"' not in rendered
     assert minutes_href(
