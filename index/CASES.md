@@ -217,7 +217,6 @@ This index is **structure-first**: every case listed links to a full-text page r
 | [1993-07](../cases/ga22_1994__1993-07.md) | Edward S. Kim v. Korean Southern Presbytery |  | Edward Kim's complaint against Korean Southern Presbytery was found out of order because it was untimely and the record did not show a presbytery action on the matter complained of. | [full text](../cases/ga22_1994__1993-07.md) |
 | [1993-08](../cases/ga22_1994__1993-08.md) | Ellisville Session v. Grace Presbytery |  | Ellisville Session challenged Grace Presbytery's handling of long-running Ellisville matters; the SJC sustained only the issue requiring corrective action and remanded. | [full text](../cases/ga22_1994__1993-08.md) |
 | [1993-09](../cases/ga22_1994__1993-09.md) | William A. Conrad, et al. v. Central Carolina Presbytery |  | Conrad and others challenged Central Carolina Presbytery's use and conduct of the Prosperity interim session commission; the SJC sustained the complaint and remanded for rehearing. | [full text](../cases/ga22_1994__1993-09.md) |
-| [1975-06](../cases/ga22_1994__stub_1975-06.md) | Judicial Case 75-6 | Rendered Moot | Complaint 75-6 was disposed of as moot in connection with the Ellisville/Grace Presbytery correspondence; no separate merits opinion was published. | [disposition](../cases/ga22_1994__stub_1975-06.md) |
 |  | SJC judicial decision (GA 22, p.81) | dismissed |  | _no separate decision located_ · [ga22_1994 p.81](../markdown/ga22_1994.md#ga22-p79) |
 
 ## 23rd General Assembly (1995)
