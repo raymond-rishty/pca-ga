@@ -130,7 +130,8 @@
     const book = link.dataset.constitutionBook || 'bco';
     const ref = link.dataset.constitutionRef || link.dataset.bcoRef;
     const chapter = link.dataset.bcoChapter;
-    const chapterOnly = link.dataset.bcoKind === 'chapter';
+    const chapterOnly = link.dataset.bcoKind === 'chapter'
+      || link.dataset.constitutionKind === 'chapter';
     return { book, ref, chapter, chapterOnly };
   }
 
@@ -188,6 +189,17 @@
         body.innerHTML = section.body || '<p>No text is available for this section.</p>';
       } else {
         const payload = await loadStandard(book);
+        if (book === 'wcf' && chapterOnly) {
+          const chapterPayload = payload.chapters?.[ref];
+          if (!chapterPayload) throw new Error(`${citationLabel} was not found in the current chapter data`);
+          chapterLine.textContent = `Chapter ${ref} · ${chapterPayload.title || ''}`.replace(/\s+·\s*$/, '');
+          const sections = Object.entries(chapterPayload.sections || {});
+          if (!sections.length) throw new Error(`${citationLabel} has no sections in the current chapter data`);
+          body.innerHTML = sections.map(([sectionRef, section]) => (
+            `<section class="constitution-sheet__section"><h3>WCF ${escapeHtml(sectionRef)}</h3>${standardSectionHtml(book, sectionRef, section)}</section>`
+          )).join('');
+          return;
+        }
         const section = payload.sections?.[ref];
         if (!section) throw new Error(`${citationLabel} was not found in the current preview data`);
         if (book === 'wcf') chapterLine.textContent = `Chapter ${section.chapter} · ${section.chapterTitle || ''}`.replace(/\s+·\s*$/, '');
