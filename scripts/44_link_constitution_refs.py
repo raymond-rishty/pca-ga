@@ -98,7 +98,10 @@ MINUTES_CITATION_RE = re.compile(
     r"\bM\s*(?P<ga>\d{1,2})\s*GA\s*,?\s*"
     r"(?:(?:19|20)\d{2}\s*,?\s*)?"
     r"(?:p{1,2}\.?|pages?\.?)\s*(?P<page>\d{1,4})"
-    rf"(?:\s*{DASH}\s*\d{{1,4}})?\b",
+    # ``ff.`` means "and following pages".  It still has a precise first
+    # printed folio, so preserve the suffix in the visible citation while
+    # linking to that first page just as we do for an explicit page range.
+    rf"(?:\s*{DASH}\s*\d{{1,4}})?(?:\s*f{{1,2}}\.?)?\b",
     re.IGNORECASE,
 )
 MINUTES_PAGE_RE = re.compile(
@@ -916,6 +919,14 @@ def self_test() -> None:
         '<p>See M14GA pp. 330–332 for the related proceedings.</p>'
         '<p><em>M20GA</em>, p. 635</p>'
         '<p>M21GA, 1993 pp. 185–193</p>'
+        # Exact source contexts from GA14 Constitutional Inquiry #4 and Case 6.
+        # Keep these as whole sentences: the citations occur inside parentheses,
+        # after a comma, beside emphasized references, and at different sentence
+        # positions in the historical record.
+        '<p>"add following the word \'Session.\' \'Sessions are to be guided in this matter by decisions of the Eleventh General Assembly (in Case 2, M11GA, p. 139ff) and the Twelfth General Assembly (in Cases 4, 5, and 7, M12GA, p. 173ff) which address this issue. Such actions of previous General Assemblies are to be understood in light of BCO 14-7 as it has been adopted by this Assembly."</p>'
+        '<p>5. The Presbytery has illegitimately interpreted <em>BCO</em> 58-4 (<em>M11GA</em>, p. 140).</p>'
+        '<p>“The General Assembly directs the Presbytery of the Ascension to correct the aspects of the trial for ordination which are contrary to the constitutional standards of the PCA” (<em>M11GA</em>, p. 141)</p>'
+        '<p>Under examination the candidate refused to affirm that he would deny baptism to an allegedly professing adult who would not become a member of the visible church upon baptism. The constitutionality of this is denied.” (<em>M11GA</em>, p. 140)</p>'
         '<p>M14GA p. 331 remains plain text when no printed folio is available.</p>'
         '<a href="#">BCO 25-5</a><code>BCO 25-5</code>'
         '</article></body></html>'
@@ -924,11 +935,17 @@ def self_test() -> None:
         "14": {"330": {"path": "markdown/ga14_1986.html", "anchor": "ga14-p330", "pdf_page": "332"}},
         "20": {"635": {"path": "markdown/ga20_1992.html", "anchor": "ga20-p635", "pdf_page": "637"}},
         "21": {"185": {"path": "markdown/ga21_1993.html", "anchor": "ga21-p185", "pdf_page": "187"}},
+        "11": {
+            "139": {"path": "markdown/ga11_1983.html", "anchor": "ga11-p139", "pdf_page": "141"},
+            "140": {"path": "markdown/ga11_1983.html", "anchor": "ga11-p140", "pdf_page": "142"},
+            "141": {"path": "markdown/ga11_1983.html", "anchor": "ga11-p141", "pdf_page": "143"},
+        },
+        "12": {"173": {"path": "markdown/ga12_1984.html", "anchor": "ga12-p173", "pdf_page": "175"}},
     }
     linker = ConstitutionLinker(bco_refs, standard_refs, rao_refs, minutes_refs, "test.html")
     linker.feed(normalize_inline_citation_prefixes(sample))
     rendered = "".join(linker.output)
-    assert linker.link_count == 34
+    assert linker.link_count == 39
     assert 'data-bco-ref="5-9"' in rendered
     assert 'data-bco-ref="8-4"' in rendered
     assert 'data-bco-ref="24" data-bco-chapter="24" data-bco-kind="chapter"' in rendered
@@ -974,6 +991,13 @@ def self_test() -> None:
     assert 'class="minutes-ref" href="markdown/ga21_1993.html#ga21-p185"' in rendered
     assert '>M21GA, 1993 pp. 185–193</a>' in rendered
     assert 'data-minutes-ga="21" data-minutes-page="185"' in rendered
+    assert 'Case 2, <a class="minutes-ref" href="markdown/ga11_1983.html#ga11-p139" data-minutes-ga="11" data-minutes-page="139" title="Open M11GA printed page 139 in the minutes">M11GA, p. 139ff</a>) and the Twelfth' in rendered
+    assert 'Cases 4, 5, and 7, <a class="minutes-ref" href="markdown/ga12_1984.html#ga12-p173" data-minutes-ga="12" data-minutes-page="173" title="Open M12GA printed page 173 in the minutes">M12GA, p. 173ff</a>) which address' in rendered
+    assert rendered.count('data-minutes-ga="11" data-minutes-page="140"') == 2
+    assert rendered.count('data-minutes-ga="11" data-minutes-page="141"') == 1
+    assert '58-4 (<a class="minutes-ref" href="markdown/ga11_1983.html#ga11-p140" data-minutes-ga="11" data-minutes-page="140" title="Open M11GA printed page 140 in the minutes">M11GA, p. 140</a>).</p>' in rendered
+    assert 'standards of the PCA” (<a class="minutes-ref" href="markdown/ga11_1983.html#ga11-p141" data-minutes-ga="11" data-minutes-page="141" title="Open M11GA printed page 141 in the minutes">M11GA, p. 141</a>)</p>' in rendered
+    assert 'constitutionality of this is denied.” (<a class="minutes-ref" href="markdown/ga11_1983.html#ga11-p140" data-minutes-ga="11" data-minutes-page="140" title="Open M11GA printed page 140 in the minutes">M11GA, p. 140</a>)</p>' in rendered
     assert 'M14GA p. 331 remains plain text' in rendered
     assert 'data-minutes-page="331"' not in rendered
     assert minutes_href(
