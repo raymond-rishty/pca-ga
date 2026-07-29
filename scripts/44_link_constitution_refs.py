@@ -12,6 +12,7 @@ Examples:
   B.C.O. 31–2 and 31-5
   See also BCO 5-9.c, 8-4, 13-2, 13-10
   WCF 28-4; WLC 166B; WSC 95B; RAO 16-3.e.5
+  WCF XXV; WLC Q&A 62 and 63
 
 Lettered subparagraphs retain their visible label but resolve to their enclosing
 chapter-and-section record (5-9.c -> 5-9).
@@ -51,19 +52,25 @@ BCO_CHAPTER_REF = rf"\d{{1,2}}(?!\s*{DASH}\s*\d)(?!\s*[.:]\s*\d)(?!\s+\d)"
 BCO_CITATION_REF = rf"(?:{BCO_REF}|{BCO_CHAPTER_REF})"
 WCF_SECTION_SEP = rf"(?:\.|:|{DASH})"
 WCF_REF = rf"(?:\d{{1,2}}|{WCF_ROMAN_REF})\s*{WCF_SECTION_SEP}\s*\d{{1,2}}(?:\s*(?:\.\s*[A-Za-z]|\(\s*[A-Za-z]\s*\)))?"
-CATECHISM_REF = r"(?:Q\.?\s*)?\d{1,3}(?:\s*(?:[A-Za-z]|\(\s*[A-Za-z]\s*\)))?"
+# Whole WCF chapters are useful citations in their own right. Keep the section
+# alternative first, and do not let a chapter consume the opening number of a
+# punctuated section citation.
+WCF_CHAPTER_REF = rf"(?:\d{{1,2}}|{WCF_ROMAN_REF})(?!\s*{WCF_SECTION_SEP}\s*\d)"
+WCF_CITATION_REF = rf"(?:{WCF_REF}|{WCF_CHAPTER_REF})"
+CATECHISM_QUESTION_PREFIX = r"(?:Q\.?|Q\s*(?:&amp;|&)\s*A\.?)"
+CATECHISM_REF = rf"(?:{CATECHISM_QUESTION_PREFIX}\s*)?\d{{1,3}}(?:[A-Za-z]|\s*\(\s*[A-Za-z]\s*\))?"
 RAO_SECTION_SEP = rf"(?:{DASH}|[.:])"
 RAO_NUMERIC_REF = rf"\d{{1,2}}(?:\s*{RAO_SECTION_SEP}\s*\d{{1,2}})?"
 RAO_ROMAN_REF = r"[IVXLCDM]{1,7}"
 # Historical minutes vary between hyphens, dots, and colons; some also omit
 # punctuation before a lettered subparagraph (for example ``14-3c.8``).
 RAO_REF = rf"(?:{RAO_NUMERIC_REF}|(?:(?:Article|Section)\s+)?{RAO_ROMAN_REF})(?:\s*(?:[.\-]\s*|(?<=[0-9])(?=[A-Za-z]))[A-Za-z0-9]+|\s*\(\s*[A-Za-z0-9]+\s*\))*(?!\d)"
-REF = rf"(?:{RAO_REF}|{BCO_CITATION_REF}|{WCF_REF}|{CATECHISM_REF})"
+REF = rf"(?:{RAO_REF}|{BCO_CITATION_REF}|{WCF_CITATION_REF}|{CATECHISM_REF})"
 SEP = r"(?:\s*,\s*|\s*;\s*|\s+(?:and|or)\s+)"
 CLUSTER_RE = re.compile(
     rf"\b(?:(?P<rao_prefix>{RAO_PREFIX})\s+(?:§\s*)?{RAO_REF}(?:{SEP}(?:§\s*)?{RAO_REF})*|"
     rf"(?P<bco_prefix>{BCO_PREFIX})\s+(?:§\s*)?{BCO_CITATION_REF}(?:{SEP}(?:§\s*)?{BCO_CITATION_REF})*|"
-    rf"(?P<wcf_prefix>{WCF_PREFIX})\s+{WCF_REF}(?:{SEP}{WCF_REF})*|"
+    rf"(?P<wcf_prefix>{WCF_PREFIX})\s+{WCF_CITATION_REF}(?:{SEP}{WCF_CITATION_REF})*|"
     rf"(?P<wlc_prefix>{WLC_PREFIX})\s+{CATECHISM_REF}(?:{SEP}{CATECHISM_REF})*|"
     rf"(?P<wsc_prefix>{WSC_PREFIX})\s+{CATECHISM_REF}(?:{SEP}{CATECHISM_REF})*)",
     re.IGNORECASE,
@@ -71,7 +78,7 @@ CLUSTER_RE = re.compile(
 PREFIX_RE = re.compile(rf"\b{PREFIX}\b", re.IGNORECASE)
 REF_RE_BY_BOOK = {
     "bco": re.compile(BCO_CITATION_REF, re.IGNORECASE),
-    "wcf": re.compile(WCF_REF, re.IGNORECASE),
+    "wcf": re.compile(WCF_CITATION_REF, re.IGNORECASE),
     "wlc": re.compile(CATECHISM_REF, re.IGNORECASE),
     "wsc": re.compile(CATECHISM_REF, re.IGNORECASE),
     "rao": re.compile(RAO_REF, re.IGNORECASE),
@@ -79,7 +86,8 @@ REF_RE_BY_BOOK = {
 BCO_CANON_RE = re.compile(rf"(\d{{1,2}})\s*{DASH}\s*(\d{{1,2}})", re.IGNORECASE)
 BCO_CHAPTER_CANON_RE = re.compile(r"\d{1,2}")
 WCF_CANON_RE = re.compile(rf"(\d{{1,2}}|{WCF_ROMAN_REF})\s*{WCF_SECTION_SEP}\s*(\d{{1,2}})", re.IGNORECASE)
-CATECHISM_CANON_RE = re.compile(r"(?:Q\.?\s*)?(\d{1,3})", re.IGNORECASE)
+WCF_CHAPTER_CANON_RE = re.compile(rf"(?:\d{{1,2}}|{WCF_ROMAN_REF})", re.IGNORECASE)
+CATECHISM_CANON_RE = re.compile(rf"(?:{CATECHISM_QUESTION_PREFIX}\s*)?(\d{{1,3}})", re.IGNORECASE)
 RAO_CANON_RE = re.compile(rf"(\d{{1,2}})(?:\s*{RAO_SECTION_SEP}\s*(\d{{1,2}}))?", re.IGNORECASE)
 
 # Minutes citations are deliberately narrower than the loose formats accepted by
@@ -193,11 +201,15 @@ def canonical_ref(book: str, token: str) -> str | None:
         return str(int(token)) if BCO_CHAPTER_CANON_RE.fullmatch(token.strip()) else None
     if book == "wcf":
         match = WCF_CANON_RE.search(token)
-        if not match:
+        if match:
+            chapter = match.group(1)
+            number = int(chapter) if chapter.isdigit() else roman_to_int(chapter, maximum=33)
+            return f"{number}.{int(match.group(2))}" if number else None
+        chapter = token.strip()
+        if not WCF_CHAPTER_CANON_RE.fullmatch(chapter):
             return None
-        chapter = match.group(1)
         number = int(chapter) if chapter.isdigit() else roman_to_int(chapter, maximum=33)
-        return f"{number}.{int(match.group(2))}" if number else None
+        return str(number) if number else None
     if book in {"wlc", "wsc"}:
         match = CATECHISM_CANON_RE.search(token)
         return f"Q.{int(match.group(1))}" if match else None
@@ -324,12 +336,15 @@ def build_standard_refs(
     wsc: list[dict[str, Any]],
 ) -> dict[str, set[str]]:
     return {
-        "wcf": {
-            str(section.get("ref"))
-            for chapter in wcf.values()
-            for section in chapter.get("sections") or []
-            if re.fullmatch(r"\d{1,2}\.\d{1,2}", str(section.get("ref") or ""))
-        },
+        "wcf": (
+            {
+                str(section.get("ref"))
+                for chapter in wcf.values()
+                for section in chapter.get("sections") or []
+                if re.fullmatch(r"\d{1,2}\.\d{1,2}", str(section.get("ref") or ""))
+            }
+            | {str(chapter) for chapter in wcf if str(chapter).isdigit()}
+        ),
         "wlc": {f"Q.{int(item['n'])}" for item in wlc if str(item.get("n", "")).isdigit()},
         "wsc": {f"Q.{int(item['n'])}" for item in wsc if str(item.get("n", "")).isdigit()},
     }
@@ -346,15 +361,24 @@ def build_standard_preview_data(
     standard_dir.mkdir(parents=True, exist_ok=True)
 
     wcf_sections: dict[str, dict[str, str]] = {}
+    wcf_chapters: dict[str, dict[str, Any]] = {}
     for chapter, record in wcf.items():
+        chapter_sections: dict[str, dict[str, str]] = {}
         for section in record.get("sections") or []:
             ref = str(section.get("ref") or "")
             if re.fullmatch(r"\d{1,2}\.\d{1,2}", ref):
-                wcf_sections[ref] = {
+                section_payload = {
                     "chapter": str(chapter),
                     "chapterTitle": str(record.get("title") or ""),
                     "body": str(section.get("body") or ""),
                 }
+                wcf_sections[ref] = section_payload
+                chapter_sections[ref] = section_payload
+        if str(chapter).isdigit() and chapter_sections:
+            wcf_chapters[str(chapter)] = {
+                "title": str(record.get("title") or ""),
+                "sections": chapter_sections,
+            }
 
     def catechism_sections(items: list[dict[str, Any]]) -> dict[str, dict[str, str]]:
         return {
@@ -367,7 +391,12 @@ def build_standard_preview_data(
         }
 
     payloads = {
-        "wcf": {"version": 1, "book": "wcf", "sections": wcf_sections},
+        "wcf": {
+            "version": 2,
+            "book": "wcf",
+            "chapters": wcf_chapters,
+            "sections": wcf_sections,
+        },
         "wlc": {"version": 1, "book": "wlc", "sections": catechism_sections(wlc)},
         "wsc": {"version": 1, "book": "wsc", "sections": catechism_sections(wsc)},
     }
@@ -532,8 +561,11 @@ def linkify_text(
         valid_refs: Any = bco_refs if book == "bco" else (rao_refs if book == "rao" else standard_refs.get(book, set()))
         preceding_bco_section_chapter: str | None = None
         local_cursor = 0
+        prefix_end = cluster_match.end(f"{book}_prefix") - cluster_match.start()
 
-        for index, ref_match in enumerate(REF_RE_BY_BOOK.get(book, re.compile(REF)).finditer(cluster)):
+        for index, ref_match in enumerate(
+            REF_RE_BY_BOOK.get(book, re.compile(REF)).finditer(cluster, prefix_end)
+        ):
             token = ref_match.group(0)
             canonical = canonical_ref(book, token)
 
@@ -579,10 +611,16 @@ def linkify_text(
                 else:
                     display_book = book.upper()
                     source_note = " (not part of the PCA Constitution)" if book == "rao" else ""
+                    kind = (
+                        "chapter"
+                        if book == "wcf" and WCF_CHAPTER_CANON_RE.fullmatch(canonical)
+                        else "section"
+                    )
                     pieces.append(
                         f'<a class="constitution-ref" href="{href}" '
                         f'data-constitution-book="{book}" '
                         f'data-constitution-ref="{html.escape(canonical, quote=True)}" '
+                        f'data-constitution-kind="{kind}" '
                         'aria-haspopup="dialog" '
                         f'title="Read current {display_book} {html.escape(canonical, quote=True)}{source_note} in the Constitution Reader">'
                         f"{label}</a>"
@@ -638,6 +676,7 @@ class ConstitutionLinker(HTMLParser):
         self.scripture_sequence = 0
         self.current_anchor: str | None = None
         self.current_folio: str | None = None
+        self.pending_text: list[str] = []
 
     def state(self) -> dict[str, Any]:
         if self.stack:
@@ -645,6 +684,7 @@ class ConstitutionLinker(HTMLParser):
         return {"reading": False, "skip": False, "tag": None}
 
     def handle_starttag(self, tag: str, attrs: list[tuple[str, str | None]]) -> None:
+        self.flush_text()
         tag = tag.lower()
         parent = self.state()
         classes: set[str] = set()
@@ -667,9 +707,11 @@ class ConstitutionLinker(HTMLParser):
         tag: str,
         attrs: list[tuple[str, str | None]],
     ) -> None:
+        self.flush_text()
         self.output.append(self.get_starttag_text())
 
     def handle_endtag(self, tag: str) -> None:
+        self.flush_text()
         self.output.append(f"</{tag}>")
         lowered = tag.lower()
         for index in range(len(self.stack) - 1, -1, -1):
@@ -677,7 +719,11 @@ class ConstitutionLinker(HTMLParser):
                 del self.stack[index:]
                 break
 
-    def handle_data(self, data: str) -> None:
+    def flush_text(self) -> None:
+        if not self.pending_text:
+            return
+        data = "".join(self.pending_text)
+        self.pending_text.clear()
         state = self.state()
         if state["reading"] and not state["skip"]:
             location = {
@@ -714,26 +760,37 @@ class ConstitutionLinker(HTMLParser):
         else:
             self.output.append(data)
 
+    def handle_data(self, data: str) -> None:
+        self.pending_text.append(data)
+
     def handle_entityref(self, name: str) -> None:
-        self.output.append(f"&{name};")
+        self.pending_text.append(f"&{name};")
 
     def handle_charref(self, name: str) -> None:
-        self.output.append(f"&#{name};")
+        self.pending_text.append(f"&#{name};")
 
     def handle_comment(self, data: str) -> None:
+        self.flush_text()
         match = PAGE_MARKER_RE.search(data)
         if match:
             self.current_folio = match.group(1)
         self.output.append(f"<!--{data}-->")
 
     def handle_decl(self, decl: str) -> None:
+        self.flush_text()
         self.output.append(f"<!{decl}>")
 
     def handle_pi(self, data: str) -> None:
+        self.flush_text()
         self.output.append(f"<?{data}>")
 
     def unknown_decl(self, data: str) -> None:
+        self.flush_text()
         self.output.append(f"<![{data}]>")
+
+    def close(self) -> None:
+        super().close()
+        self.flush_text()
 
 
 def asset_prefix(rendered_html: str) -> str:
@@ -831,8 +888,8 @@ def self_test() -> None:
         "24-1": {"chapter": "24", "chapterTitle": "Election of Ruling Elders and Deacons"},
     }
     standard_refs = {
-        "wcf": {"3.3", "8.5", "11.4", "19.4", "28.4"},
-        "wlc": {"Q.166"},
+        "wcf": {"3.3", "8.5", "11.4", "19.4", "25", "28.4"},
+        "wlc": {"Q.62", "Q.63", "Q.166"},
         "wsc": {"Q.95"},
     }
     rao_refs = {
@@ -852,6 +909,7 @@ def self_test() -> None:
         '<p>Legacy forms BCO 7.2 and BCO 21 4 remain unlinked.</p>'
         '<p>WCF 3-3, 8-5 and 11-4; WLC 166B; WSC 95B; WCF 28.4; RAO 16-3.e.5 and RAO 20.</p>'
         '<p>WCF XIX:4</p><p>WCF XIX.4</p><p>WCF XIX-4</p>'
+        '<p>See WCF XXV 2-3, WLC Q&amp;A 62 and 63.</p>'
         '<p>“RAO” 16:3; RAO § 14-10-D-2; RAO 14.4.C.2; RAO XVIII.</p>'
         '<p><em>RAO</em> 16-3.e.5</p>'
         '<p>See M14GA p. 330 for the original action.</p>'
@@ -870,7 +928,7 @@ def self_test() -> None:
     linker = ConstitutionLinker(bco_refs, standard_refs, rao_refs, minutes_refs, "test.html")
     linker.feed(normalize_inline_citation_prefixes(sample))
     rendered = "".join(linker.output)
-    assert linker.link_count == 31
+    assert linker.link_count == 34
     assert 'data-bco-ref="5-9"' in rendered
     assert 'data-bco-ref="8-4"' in rendered
     assert 'data-bco-ref="24" data-bco-chapter="24" data-bco-kind="chapter"' in rendered
@@ -890,6 +948,12 @@ def self_test() -> None:
     assert f'{READER_BASE}#wcf/3.3' in rendered
     assert f'{READER_BASE}#wcf/8.5' in rendered
     assert rendered.count(f'{READER_BASE}#wcf/19.4') == 3
+    assert f'{READER_BASE}#wcf/25' in rendered
+    assert 'data-constitution-ref="25" data-constitution-kind="chapter"' in rendered
+    assert '>WCF XXV</a> 2-3' in rendered
+    assert f'{READER_BASE}#wlc/Q.62' in rendered
+    assert f'{READER_BASE}#wlc/Q.63' in rendered
+    assert '>WLC Q&amp;A 62</a> and <a class="constitution-ref"' in rendered
     assert f'{READER_BASE}#wlc/Q.166' in rendered
     assert f'{READER_BASE}#wsc/Q.95' in rendered
     assert 'data-constitution-book="wlc"' in rendered
