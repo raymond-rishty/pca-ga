@@ -209,7 +209,12 @@
             </div>
           </section>
         {% elsif page_ga_num %}
-          <span class="eyebrow">{{ page_ga_num }}{{ page_ga_suffix }} General Assembly · {{ page_ga_year }}</span>
+          <div class="volume-meta">
+            <span class="eyebrow">{{ page_ga_num }}{{ page_ga_suffix }} General Assembly · {{ page_ga_year }}</span>
+            {% if page_type == 'volume' and page.source_pdf.file %}
+              <a class="source-pdf-link" href="https://www.pcahistory.org/pca/ga/{{ page.source_pdf.file }}" target="_blank" rel="noopener noreferrer">View source PDF <span aria-hidden="true">↗</span></a>
+            {% endif %}
+          </div>
         {% endif %}
 
         {{ content }}
