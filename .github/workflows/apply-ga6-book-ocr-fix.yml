@@ -1,0 +1,69 @@
+name: Apply GA6 Book OCR fix
+
+on:
+  push:
+    branches:
+      - agent/fix-ga6-book-ocr
+
+permissions:
+  contents: write
+
+jobs:
+  apply-fix:
+    if: github.actor != 'github-actions[bot]'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: ${{ github.ref_name }}
+          fetch-depth: 0
+
+      - name: Apply durable OCR correction and refresh committed outputs
+        shell: bash
+        run: |
+          python3 - <<'PY'
+          import json
+          from pathlib import Path
+
+          rules_path = Path("scripts/domain_terms.json")
+          rules = json.loads(rules_path.read_text())
+          corrections = rules.setdefault("corrections", {})
+          existing = corrections.get("B()()k")
+          assert existing in (None, "Book"), existing
+          corrections["B()()k"] = "Book"
+          rules_path.write_text(json.dumps(rules, indent=1, ensure_ascii=False) + "\n")
+
+          bad = "B()()k of Church Order"
+          good = "Book of Church Order"
+          targets = [
+              Path("markdown/ga06_1978.md"),
+              Path("cases/ga06_1978__case2.md"),
+              Path("llms-full.txt"),
+          ]
+          changed = []
+          for path in targets:
+              text = path.read_text()
+              count = text.count(bad)
+              if count:
+                  path.write_text(text.replace(bad, good))
+                  changed.append((str(path), count))
+
+          assert any(path == "markdown/ga06_1978.md" for path, _ in changed), changed
+          assert any(path == "cases/ga06_1978__case2.md" for path, _ in changed), changed
+
+          for path in targets:
+              assert bad not in path.read_text(), path
+          assert json.loads(rules_path.read_text())["corrections"]["B()()k"] == "Book"
+          print("Corrected:", changed)
+          PY
+
+      - name: Remove temporary workflow and commit result
+        shell: bash
+        run: |
+          rm .github/workflows/apply-ga6-book-ocr-fix.yml
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add scripts/domain_terms.json markdown/ga06_1978.md cases/ga06_1978__case2.md llms-full.txt .github/workflows/apply-ga6-book-ocr-fix.yml
+          git diff --cached --check
+          git commit -m "Correct GA6 Book OCR"
+          git push origin HEAD:${{ github.ref_name }}
