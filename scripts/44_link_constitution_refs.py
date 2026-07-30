@@ -107,7 +107,10 @@ MINUTES_CITATION_RE = re.compile(
 MINUTES_PAGE_RE = re.compile(
     r'<a\s+id=["\'](?P<anchor>ga(?P<anchor_ga>\d+)-p[^"\']+)["\']></a>\s*'
     r'<!--\s*PAGE\s+ga=(?P<ga>\d+)\s+pdf_page=(?P<pdf_page>\d+)\s+'
-    r'printed_page=(?P<printed_page>\d+)\s*-->',
+    # Page markers may also record how the printed folio was obtained, e.g.
+    # ``printed_page_source=inferred`` in the early volumes.  Those markers
+    # are just as linkable as directly detected folios.
+    r'printed_page=(?P<printed_page>\d+)(?:\s+[A-Za-z_][A-Za-z0-9_-]*=[^\s>]+)*\s*-->',
     re.IGNORECASE,
 )
 SCRIPTURE_METADATA = Path(__file__).resolve().parent.parent / "scripture" / "bible-books.json"
@@ -1012,9 +1015,41 @@ def self_test() -> None:
             '<a id="ga14-p330"></a><!-- PAGE ga=14 pdf_page=332 printed_page=330 -->',
             encoding="utf-8",
         )
+        (minute_dir / "ga11_1983.html").write_text(
+            '<a id="ga11-p139"></a><!-- PAGE ga=11 pdf_page=141 printed_page=139 printed_page_source=inferred -->'
+            '<a id="ga11-p140"></a><!-- PAGE ga=11 pdf_page=142 printed_page=140 printed_page_source=inferred -->'
+            '<a id="ga11-p141"></a><!-- PAGE ga=11 pdf_page=143 printed_page=141 printed_page_source=inferred -->',
+            encoding="utf-8",
+        )
+        (minute_dir / "ga12_1984.html").write_text(
+            '<a id="ga12-p173"></a><!-- PAGE ga=12 pdf_page=175 printed_page=173 printed_page_source=inferred -->',
+            encoding="utf-8",
+        )
         indexed_refs, payload = build_minutes_page_index(site_dir)
         assert indexed_refs["14"]["330"]["anchor"] == "ga14-p330"
         assert payload["volumes"]["14"]["pages"]["330"]["pdf_page"] == 332
+        assert indexed_refs["11"]["139"]["anchor"] == "ga11-p139"
+        assert indexed_refs["11"]["140"]["anchor"] == "ga11-p140"
+        assert indexed_refs["11"]["141"]["anchor"] == "ga11-p141"
+        assert indexed_refs["12"]["173"]["anchor"] == "ga12-p173"
+
+        actual_lookup_linker = ConstitutionLinker(
+            {}, {}, {}, indexed_refs, "cases/ga14_1986__case6.html"
+        )
+        actual_lookup_linker.feed(
+            normalize_inline_citation_prefixes(
+                '<article class="reading-col"><p>Case 2, M11GA, p. 139ff; Cases 4, 5, and 7, M12GA, p. 173ff; '
+                '<em>M11GA</em>, p. 140; <em>M11GA</em>, p. 141; '
+                '<em>M11GA</em>, p. 140.</p></article>'
+            )
+        )
+        actual_lookup_linker.close()
+        actual_lookup_rendered = "".join(actual_lookup_linker.output)
+        assert actual_lookup_linker.link_count == 5
+        assert 'href="../markdown/ga11_1983.html#ga11-p139"' in actual_lookup_rendered
+        assert 'href="../markdown/ga12_1984.html#ga12-p173"' in actual_lookup_rendered
+        assert actual_lookup_rendered.count('href="../markdown/ga11_1983.html#ga11-p140"') == 2
+        assert 'href="../markdown/ga11_1983.html#ga11-p141"' in actual_lookup_rendered
 
 
 def main() -> int:
