@@ -1,0 +1,27 @@
+{
+  "cases/ga03_1975__case1.md": [
+    {"page": 50, "start": "### 3-12 Judicial Complaint"},
+    {"page": 51, "through": 52},
+    {"page": 53, "end": "### 3-13 Report of the Constitutional Documents Committee"}
+  ],
+  "cases/ga04_1976__case1.md": [
+    {"page": 52, "start": "### 4-12 Complaint of Trinity Church against Grace Presbytery"},
+    {"page": 72, "start": "### 4-65 Complaint of the Trinity Church versus Grace Presbytery", "end": "### 4-66 Report of the Committee on Judicial Business"}
+  ],
+  "cases/ga04_1976__case2.md": [
+    {"page": 53, "start": "### 4-13 Complaint of Eastland Church against Covenant Presbytery"},
+    {"page": 71, "start": "### 4-64 Complaint of Eastland Church versus Covenant Presbytery"},
+    {"page": 72, "start": "### NAMES OF COMMISSION MEMBERS Teaching Elders", "end": "### 4-65 Complaint of the Trinity Church versus Grace Presbytery"}
+  ],
+  "cases/ga05_1977__case1.md": [
+    {"page": 55, "start": "### 5-13 Complaint No. 1 from the Rev. Paul L. Karlberg"},
+    {"page": 56, "through": 57},
+    {"page": 58, "end": "### 5-14 Complaint No. 2 of the Texas."},
+    {"page": 92, "start": "### 5-87 Judicial Commission to Adjudicate the Karlberg Complaint", "end": "### 5-88 Report of the Nominating Committee"}
+  ],
+  "cases/ga05_1977__case2.md": [
+    {"page": 58, "start": "### 5-14 Complaint No. 2 of the Texas."},
+    {"page": 59, "through": 60},
+    {"page": 91, "start": "### 5-86 Judicial Commission to Adjudicate the Kim Case"}
+  ]
+}

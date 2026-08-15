@@ -13,7 +13,7 @@ CLI:  24_case_pages.py
 from __future__ import annotations
 import glob, json, os, re, sqlite3
 
-ROOT = "/workspace"
+ROOT = os.environ.get("PCA_GA_ROOT", os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 DB = os.path.join(ROOT, "index", "pca_minutes.db")
 MD = os.path.join(ROOT, "markdown")
 OUT = os.path.join(ROOT, "cases")
