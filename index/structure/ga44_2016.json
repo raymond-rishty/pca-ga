@@ -6,1356 +6,475 @@
   {
    "type": "part",
    "label": "PART I",
-   "title": "DIRECTORY OF GENERAL ASSEMBLY COMMITTEES AND AGENCIES 2016-2017",
+   "title": "Directory",
    "pdf_page": 7,
-   "printed_page": "5",
-   "children": []
-  },
-  {
-   "type": "part",
-   "label": "PART II",
-   "title": "Journal",
-   "pdf_page": 19,
-   "printed_page": "17",
+   "printed_page": 5,
    "children": [
-    {
-     "type": "session",
-     "label": "First Session - Tuesday Evening",
-     "pdf_page": 19,
-     "printed_page": "17",
-     "children": [
-      {
-       "type": "action",
-       "label": "44-1",
-       "title": "Assembly Called to Order and Opening Worship",
-       "pdf_page": 19,
-       "printed_page": "17"
-      },
-      {
-       "type": "action",
-       "label": "44-2",
-       "title": "Declaration of Quorum and Enrollment",
-       "pdf_page": 19,
-       "printed_page": "17"
-      },
-      {
-       "type": "action",
-       "label": "44-3",
-       "title": "Election of Moderator",
-       "pdf_page": 19,
-       "printed_page": "17"
-      },
-      {
-       "type": "action",
-       "label": "44-4",
-       "title": "Election of Recording and Assistant Clerks",
-       "pdf_page": 20,
-       "printed_page": "18"
-      },
-      {
-       "type": "action",
-       "label": "44-5",
-       "title": "Appointment of Assistant Parliamentarians",
-       "pdf_page": 20,
-       "printed_page": "18"
-      },
-      {
-       "type": "action",
-       "label": "44-6",
-       "title": "Assembly Recessed",
-       "pdf_page": 20,
-       "printed_page": "18"
-      }
-     ]
-    },
-    {
-     "type": "session",
-     "label": "Second Session - Wednesday Morning",
-     "pdf_page": 20,
-     "printed_page": "18",
-     "children": [
-      {
-       "type": "action",
-       "label": "44-7",
-       "title": "Assembly Reconvened",
-       "pdf_page": 20,
-       "printed_page": "18"
-      },
-      {
-       "type": "action",
-       "label": "44-8",
-       "title": "Docket",
-       "pdf_page": 20,
-       "printed_page": "18"
-      },
-      {
-       "type": "action",
-       "label": "44-9",
-       "title": "Report of the Stated Clerk",
-       "pdf_page": 20,
-       "printed_page": "18"
-      },
-      {
-       "type": "action",
-       "label": "44-10",
-       "title": "Partial Report of CoC on Administrative Committee",
-       "pdf_page": 21,
-       "printed_page": "19"
-      },
-      {
-       "type": "action",
-       "label": "44-11",
-       "title": "Appointment of Committee on Thanks",
-       "pdf_page": 21,
-       "printed_page": "19"
-      },
-      {
-       "type": "action",
-       "label": "44-12",
-       "title": "Welcome from the Host Committee",
-       "pdf_page": 21,
-       "printed_page": "19"
-      },
-      {
-       "type": "action",
-       "label": "44-13",
-       "title": "Report of Committee of Commissioners on Interchurch",
-       "pdf_page": 21,
-       "printed_page": "19"
-      },
-      {
-       "type": "action",
-       "label": "44-14",
-       "title": "Assembly Recessed",
-       "pdf_page": 22,
-       "printed_page": "20"
-      }
-     ]
-    },
-    {
-     "type": "session",
-     "label": "Third Session - Wednesday Afternoon",
-     "pdf_page": 22,
-     "printed_page": "20",
-     "children": [
-      {
-       "type": "action",
-       "label": "44-15",
-       "title": "Assembly Reconvened",
-       "pdf_page": 22,
-       "printed_page": "20"
-      },
-      {
-       "type": "action",
-       "label": "44-16",
-       "title": "Report of CoC on Interchurch Relations and Fraternal Greetings",
-       "pdf_page": 22,
-       "printed_page": "20"
-      },
-      {
-       "type": "action",
-       "label": "44-17",
-       "title": "Report of Review of Presbytery Records Postponed",
-       "pdf_page": 24,
-       "printed_page": "22"
-      },
-      {
-       "type": "action",
-       "label": "44-18",
-       "title": "Cooperative Ministries Committee Report",
-       "pdf_page": 24,
-       "printed_page": "22"
-      },
-      {
-       "type": "action",
-       "label": "44-19",
-       "title": "Committee on Review of Presbytery Records",
-       "pdf_page": 24,
-       "printed_page": "22"
-      },
-      {
-       "type": "action",
-       "label": "44-20",
-       "title": "Report of the Theological Examining Committee",
-       "pdf_page": 25,
-       "printed_page": "23"
-      },
-      {
-       "type": "action",
-       "label": "44-21",
-       "title": "PCA Foundation (Informational and Committee of Commissioners",
-       "pdf_page": 25,
-       "printed_page": "23"
-      },
-      {
-       "type": "action",
-       "label": "44-22",
-       "title": "PCA Retirement & Benefits, Inc. (Informational and Committee of",
-       "pdf_page": 27,
-       "printed_page": "25"
-      },
-      {
-       "type": "action",
-       "label": "44-23",
-       "title": "Ridge Haven (Informational and Committee of Commissioners",
-       "pdf_page": 29,
-       "printed_page": "27"
-      },
-      {
-       "type": "action",
-       "label": "44-24",
-       "title": "Partial Report of Committee of Commissioners on Administrative",
-       "pdf_page": 31,
-       "printed_page": "29"
-      },
-      {
-       "type": "action",
-       "label": "44-25",
-       "title": "Report of Committee on Constitutional Business",
-       "pdf_page": 32,
-       "printed_page": "30"
-      },
-      {
-       "type": "action",
-       "label": "44-26",
-       "title": "Assembly Recessed",
-       "pdf_page": 32,
-       "printed_page": "30"
-      }
-     ]
-    },
-    {
-     "type": "session",
-     "label": "Fourth Session - Thursday Morning",
-     "pdf_page": 32,
-     "printed_page": "30",
-     "children": [
-      {
-       "type": "action",
-       "label": "44-27",
-       "title": "Assembly Reconvened",
-       "pdf_page": 32,
-       "printed_page": "30"
-      },
-      {
-       "type": "action",
-       "label": "44-28",
-       "title": "Report of the Standing Judicial Commission",
-       "pdf_page": 33,
-       "printed_page": "31"
-      },
-      {
-       "type": "action",
-       "label": "44-29",
-       "title": "Committee on Discipleship Ministries (Informational and",
-       "pdf_page": 33,
-       "printed_page": "31"
-      },
-      {
-       "type": "action",
-       "label": "44-30",
-       "title": "Special Order: Report of the Nominating Committee",
-       "pdf_page": 36,
-       "printed_page": "34"
-      },
-      {
-       "type": "action",
-       "label": "44-31",
-       "title": "Reformed University Ministries (Informational and Committee of",
-       "pdf_page": 37,
-       "printed_page": "35"
-      },
-      {
-       "type": "action",
-       "label": "44-32",
-       "title": "Mission to the World (Informational and Committee of",
-       "pdf_page": 39,
-       "printed_page": "37"
-      },
-      {
-       "type": "action",
-       "label": "44-33",
-       "title": "Mission to North America (Informational and Committee of",
-       "pdf_page": 43,
-       "printed_page": "41"
-      },
-      {
-       "type": "action",
-       "label": "44-34",
-       "title": "Assembly Recessed",
-       "pdf_page": 44,
-       "printed_page": "42"
-      }
-     ]
-    },
-    {
-     "type": "session",
-     "label": "Fifth Session \u2013 Thursday Afternoon",
-     "pdf_page": 44,
-     "printed_page": "42",
-     "children": [
-      {
-       "type": "action",
-       "label": "44-35",
-       "title": "Assembly Reconvened",
-       "pdf_page": 44,
-       "printed_page": "42"
-      },
-      {
-       "type": "action",
-       "label": "44-36",
-       "title": "Committee of Commissioners on Mission to North America",
-       "pdf_page": 44,
-       "printed_page": "42"
-      },
-      {
-       "type": "action",
-       "label": "44-44",
-       "title": ", p. 70.)",
-       "pdf_page": 44,
-       "printed_page": "42"
-      },
-      {
-       "type": "action",
-       "label": "44-37",
-       "title": "Covenant Theological Seminary (Informational and Committee of",
-       "pdf_page": 49,
-       "printed_page": "47"
-      },
-      {
-       "type": "action",
-       "label": "44-38",
-       "title": "Administrative Committee (Informational and Committee of",
-       "pdf_page": 52,
-       "printed_page": "50"
-      },
-      {
-       "type": "action",
-       "label": "44-39",
-       "title": "Covenant College (Informational and Committee of Commissioners",
-       "pdf_page": 67,
-       "printed_page": "65"
-      },
-      {
-       "type": "action",
-       "label": "44-40",
-       "title": "Report of Overtures Committee",
-       "pdf_page": 70,
-       "printed_page": "68"
-      },
-      {
-       "type": "action",
-       "label": "44-41",
-       "title": "Assembly Recessed",
-       "pdf_page": 71,
-       "printed_page": "69"
-      }
-     ]
-    },
-    {
-     "type": "session",
-     "label": "Sixth Session \u2013 Thursday Evening",
-     "pdf_page": 71,
-     "printed_page": "69",
-     "children": [
-      {
-       "type": "action",
-       "label": "44-42",
-       "title": "Assembly Reconvened",
-       "pdf_page": 71,
-       "printed_page": "69"
-      },
-      {
-       "type": "action",
-       "label": "44-43",
-       "title": "Protest",
-       "pdf_page": 71,
-       "printed_page": "69"
-      },
-      {
-       "type": "action",
-       "label": "44-44",
-       "title": "Report of Overtures Committee (continued)",
-       "pdf_page": 72,
-       "printed_page": "70"
-      },
-      {
-       "type": "action",
-       "label": "44-45",
-       "title": "Answer to Protest of TE Joseph Pipa",
-       "pdf_page": 93,
-       "printed_page": "91"
-      },
-      {
-       "type": "action",
-       "label": "44-46",
-       "title": "Report of the Committee on Thanks",
-       "pdf_page": 94,
-       "printed_page": "92"
-      },
-      {
-       "type": "action",
-       "label": "44-47",
-       "title": "Election of a Commission to Review the Minutes of the 2016",
-       "pdf_page": 94,
-       "printed_page": "92"
-      },
-      {
-       "type": "action",
-       "label": "44-48",
-       "title": "Moderator\u2019s Committee Appointments",
-       "pdf_page": 94,
-       "printed_page": "92"
-      },
-      {
-       "type": "action",
-       "label": "44-49",
-       "title": "Conclusion and Adjournment",
-       "pdf_page": 94,
-       "printed_page": "92"
-      }
-     ]
-    },
-    {
-     "type": "overture",
-     "number": 24,
-     "source": "Ohio Presbytery to \u201cForm Columbus Metropolitan",
-     "pdf_page": 46,
-     "printed_page": "44"
-    },
     {
      "type": "overture",
      "number": 44,
-     "source": "Potomac Presbytery (to MNA)",
+     "source": "Potomac Presbytery (to MNA) \"Creation of PCA Unity Fund\"",
      "pdf_page": 48,
-     "printed_page": "46"
+     "printed_page": 46
     },
     {
      "type": "overture",
      "number": 54,
-     "source": "1 Calvary Presbytery (to CC)",
+     "source": "1 Calvary Presbytery (to CC) \u201cCommend Covenant College for Forfeiting Championship Tennis ",
      "pdf_page": 69,
-     "printed_page": "67"
+     "printed_page": 67
     },
     {
      "type": "overture",
      "number": 1,
-     "source": "Heartland (\u201cSteps Toward Racial Reconciliation,\u201d",
+     "source": "Heartland (\u201cSteps Toward Racial Reconciliation,\"",
      "pdf_page": 76,
-     "printed_page": "74"
-    },
-    {
-     "type": "overture",
-     "number": 4,
-     "source": "Missouri (\u201cConfession of Sin and Commitment to",
-     "pdf_page": 76,
-     "printed_page": "74"
-    },
-    {
-     "type": "overture",
-     "number": 6,
-     "source": "Chesapeake (\u201cConfession of Sin and Commitment",
-     "pdf_page": 76,
-     "printed_page": "74"
-    },
-    {
-     "type": "overture",
-     "number": 8,
-     "source": "Eastern Carolina (\u201cConfession of Sin and",
-     "pdf_page": 76,
-     "printed_page": "74"
-    },
-    {
-     "type": "overture",
-     "number": 9,
-     "source": "Tennessee Valley (\u201cConfession of Sin and",
-     "pdf_page": 76,
-     "printed_page": "74"
-    },
-    {
-     "type": "overture",
-     "number": 10,
-     "source": "Metropolitan New York (\u201cIn Support of",
-     "pdf_page": 76,
-     "printed_page": "74"
-    },
-    {
-     "type": "overture",
-     "number": 11,
-     "source": "Calvary (\u201cCall for Repentance and",
-     "pdf_page": 76,
-     "printed_page": "74"
-    },
-    {
-     "type": "overture",
-     "number": 12,
-     "source": "Pacific Northwest (\u201cConfession of Sin and",
-     "pdf_page": 76,
-     "printed_page": "74"
-    },
-    {
-     "type": "overture",
-     "number": 13,
-     "source": "Providence (\u201cConfession of Sin and",
-     "pdf_page": 76,
-     "printed_page": "74"
-    },
-    {
-     "type": "overture",
-     "number": 15,
-     "source": "Covenant (\u201cConfession of Sin and Commitment",
-     "pdf_page": 76,
-     "printed_page": "74"
-    },
-    {
-     "type": "overture",
-     "number": 16,
-     "source": "Blue Ridge (\u201cRepentance, Racial Reconciliation,",
-     "pdf_page": 76,
-     "printed_page": "74"
-    },
-    {
-     "type": "overture",
-     "number": 17,
-     "source": "Metro Atlanta (\u201cIn Support of Overture 4 from",
-     "pdf_page": 76,
-     "printed_page": "74"
-    },
-    {
-     "type": "overture",
-     "number": 18,
-     "source": "Heritage (\u201cConfessing Covenantal and",
-     "pdf_page": 76,
-     "printed_page": "74"
-    },
-    {
-     "type": "overture",
-     "number": 19,
-     "source": "Chicago Metro (\u201cConfession of Sin and",
-     "pdf_page": 76,
-     "printed_page": "74"
-    },
-    {
-     "type": "overture",
-     "number": 23,
-     "source": "Nashville (\u201cConfession of Sin and Commitment",
-     "pdf_page": 76,
-     "printed_page": "74"
-    },
-    {
-     "type": "overture",
-     "number": 27,
-     "source": "Rocky Mountain (\u201cConfession of Sin and",
-     "pdf_page": 76,
-     "printed_page": "74"
-    },
-    {
-     "type": "overture",
-     "number": 28,
-     "source": "North Texas (\u201cConfession of Sin and",
-     "pdf_page": 77,
-     "printed_page": "75"
-    },
-    {
-     "type": "overture",
-     "number": 29,
-     "source": "Pittsburgh (\u201cConfession of Sin and Commitment",
-     "pdf_page": 77,
-     "printed_page": "75"
-    },
-    {
-     "type": "overture",
-     "number": 30,
-     "source": "Suncoast Florida (\u201cIn Support of Overture 4",
-     "pdf_page": 77,
-     "printed_page": "75"
-    },
-    {
-     "type": "overture",
-     "number": 31,
-     "source": "Southern New England (\u201cConfession of Sin and",
-     "pdf_page": 77,
-     "printed_page": "75"
-    },
-    {
-     "type": "overture",
-     "number": 33,
-     "source": "New York State (\u201cIn Support of Overture 4 from",
-     "pdf_page": 77,
-     "printed_page": "75"
-    },
-    {
-     "type": "overture",
-     "number": 34,
-     "source": "Westminster (\u201cCall for Repentance and",
-     "pdf_page": 77,
-     "printed_page": "75"
-    },
-    {
-     "type": "overture",
-     "number": 35,
-     "source": "New Jersey (\u201cIn Support of Overture 4 from",
-     "pdf_page": 77,
-     "printed_page": "75"
-    },
-    {
-     "type": "overture",
-     "number": 41,
-     "source": "Korean Southwest Orange County",
-     "pdf_page": 77,
-     "printed_page": "75"
-    },
-    {
-     "type": "overture",
-     "number": 42,
-     "source": "Philadelphia (\u201cConfession of Sin and",
-     "pdf_page": 77,
-     "printed_page": "75"
-    },
-    {
-     "type": "overture",
-     "number": 46,
-     "source": "Northern California (\u201cConfession of Sin and",
-     "pdf_page": 77,
-     "printed_page": "75"
-    },
-    {
-     "type": "overture",
-     "number": 47,
-     "source": "Savannah River (\u201cIn Support of Overture 4 from",
-     "pdf_page": 77,
-     "printed_page": "75"
-    },
-    {
-     "type": "overture",
-     "number": 48,
-     "source": "Susquehanna Valley (\u201cConfession and",
-     "pdf_page": 77,
-     "printed_page": "75"
-    },
-    {
-     "type": "overture",
-     "number": 49,
-     "source": "James River (\u201cConfession of Sin and",
-     "pdf_page": 77,
-     "printed_page": "75"
-    },
-    {
-     "type": "overture",
-     "number": 50,
-     "source": "North Florida (\u201cSteps Toward Racial",
-     "pdf_page": 77,
-     "printed_page": "75"
-    },
-    {
-     "type": "overture",
-     "number": 51,
-     "source": "Platte Valley (\u201cConfession of Sin and",
-     "pdf_page": 77,
-     "printed_page": "75"
-    },
-    {
-     "type": "overture",
-     "number": 52,
-     "source": "Lowcountry (\u201cConfession of Sin and",
-     "pdf_page": 77,
-     "printed_page": "75"
-    },
-    {
-     "type": "overture",
-     "number": 53,
-     "source": "Northwest Georgia (\u201cLeading by Example in",
-     "pdf_page": 77,
-     "printed_page": "75"
-    },
-    {
-     "type": "overture",
-     "number": 55,
-     "source": "Mississippi Valley (\u201cConfession of the Sin of",
-     "pdf_page": 77,
-     "printed_page": "75"
-    },
-    {
-     "type": "overture",
-     "number": 56,
-     "source": "Evangel (\u201cIn Support of Overture 55 from",
-     "pdf_page": 78,
-     "printed_page": "76"
-    },
-    {
-     "type": "overture",
-     "number": 57,
-     "source": "Central Indiana (\u201cConfession of Sin and",
-     "pdf_page": 78,
-     "printed_page": "76"
-    },
-    {
-     "type": "overture",
-     "number": 58,
-     "source": "Piedmont Triad (\u201cConfession of Sin and",
-     "pdf_page": 78,
-     "printed_page": "76"
-    },
-    {
-     "type": "overture",
-     "number": 59,
-     "source": "Gulf Coast (\u201cAcknowledgment of Sin and",
-     "pdf_page": 78,
-     "printed_page": "76"
-    },
-    {
-     "type": "overture",
-     "number": 63,
-     "source": "Ohio Valley (\u201cIn Support of Overture 4 from",
-     "pdf_page": 78,
-     "printed_page": "76"
+     "printed_page": 74
     }
    ]
   },
   {
    "type": "part",
+   "label": "PART II",
+   "title": "Journal",
+   "pdf_page": 731,
+   "printed_page": 729,
+   "children": []
+  },
+  {
+   "type": "part",
    "label": "PART III",
-   "title": "APPENDICES",
+   "title": "Appendices",
    "pdf_page": 95,
-   "printed_page": "93",
+   "printed_page": 93,
    "children": [
     {
      "type": "appendix",
      "label": "Appendix V",
-     "title": "presents the Overtures as originally submitted by the presbyteries",
+     "title": "presents the Overtures as originally submitted by the presbyteries. See the Overtures Committee report and other Committee of Commissioner reports for Assembly action on these overtures, including any amendments",
      "pdf_page": 96,
-     "printed_page": "94",
+     "printed_page": 94,
      "children": []
     },
     {
      "type": "appendix",
      "label": "Appendix A",
-     "title": "REPORT OF THE STATED CLERK TO THE FORTY-FOURTH GENERAL ASSEMBLY OF THE PRESBYTERIAN CHURCH IN AMERICA",
+     "title": "",
      "pdf_page": 97,
-     "printed_page": "95",
+     "printed_page": 95,
      "children": []
     },
     {
      "type": "appendix",
      "label": "Appendix B",
-     "title": "BOARD OF DIRECTORS",
+     "title": "",
      "pdf_page": 107,
-     "printed_page": "105",
+     "printed_page": 105,
      "children": []
     },
     {
      "type": "appendix",
      "label": "Appendix C",
-     "title": "REPORT OF THE ADMINISTRATIVE COMMITTEE TO THE FORTY-FOURTH GENERAL ASSEMBLY OF THE PRESBYTERIAN CHURCH IN AMERICA",
+     "title": "",
      "pdf_page": 113,
-     "printed_page": "111",
+     "printed_page": 111,
      "children": [
-      {
-       "type": "section",
-       "label": "I",
-       "title": "Economic Considerations and General Ministry Factors",
-       "pdf_page": 129,
-       "printed_page": "127"
-      },
       {
        "type": "section",
        "label": "II",
        "title": "Major Changes in the Budget",
        "pdf_page": 130,
-       "printed_page": "128"
+       "printed_page": 128
       },
       {
        "type": "section",
        "label": "III",
        "title": "Income Streams and Development Plans",
        "pdf_page": 131,
-       "printed_page": "129"
+       "printed_page": 129
       },
       {
        "type": "section",
        "label": "IV",
        "title": "Major Ministry Not Implemented in the Past Year",
        "pdf_page": 131,
-       "printed_page": "129"
-      },
-      {
-       "type": "section",
-       "label": "V",
-       "title": "Notes to Line Items",
-       "pdf_page": 131,
-       "printed_page": "129"
+       "printed_page": 129
       },
       {
        "type": "section",
        "label": "I",
        "title": "Economic Considerations and General Ministry Focus",
        "pdf_page": 139,
-       "printed_page": "137"
+       "printed_page": 137
       },
       {
        "type": "section",
        "label": "II",
        "title": "Major Changes in Budget",
        "pdf_page": 140,
-       "printed_page": "138"
+       "printed_page": 138
       },
       {
        "type": "section",
        "label": "III",
        "title": "Income Streams",
        "pdf_page": 141,
-       "printed_page": "139"
-      },
-      {
-       "type": "section",
-       "label": "IV",
-       "title": "Major Ministry Not Implemented in the Past Year",
-       "pdf_page": 141,
-       "printed_page": "139"
-      },
-      {
-       "type": "section",
-       "label": "V",
-       "title": "Notes to Budget \u201cline items\u201d",
-       "pdf_page": 141,
-       "printed_page": "139"
-      },
-      {
-       "type": "section",
-       "label": "I",
-       "title": "Economic Considerations and General Ministry Factors",
-       "pdf_page": 147,
-       "printed_page": "145"
+       "printed_page": 139
       },
       {
        "type": "section",
        "label": "II",
        "title": "Major Changes to Budget",
        "pdf_page": 148,
-       "printed_page": "146"
+       "printed_page": 146
       },
       {
        "type": "section",
        "label": "III",
        "title": "Income Streams",
        "pdf_page": 148,
-       "printed_page": "146"
+       "printed_page": 146
       },
       {
        "type": "section",
        "label": "IV",
        "title": "Major Ministry Not Implemented in the Last Year",
        "pdf_page": 149,
-       "printed_page": "147"
-      },
-      {
-       "type": "section",
-       "label": "V",
-       "title": "Accounting Format & Other Notes",
-       "pdf_page": 149,
-       "printed_page": "147"
-      },
-      {
-       "type": "section",
-       "label": "I",
-       "title": "Economic Considerations and General Ministry Factors",
-       "pdf_page": 154,
-       "printed_page": "152"
-      },
-      {
-       "type": "section",
-       "label": "II",
-       "title": "Major Changes in Budget",
-       "pdf_page": 155,
-       "printed_page": "153"
-      },
-      {
-       "type": "section",
-       "label": "III",
-       "title": "Income Streams",
-       "pdf_page": 155,
-       "printed_page": "153"
+       "printed_page": 147
       },
       {
        "type": "section",
        "label": "IV",
        "title": "Major Ministry Not Implemented in the Past Year",
        "pdf_page": 156,
-       "printed_page": "154"
-      },
-      {
-       "type": "section",
-       "label": "V",
-       "title": "Notes to Budget line items",
-       "pdf_page": 156,
-       "printed_page": "154"
-      },
-      {
-       "type": "section",
-       "label": "I",
-       "title": "Economic Considerations and General Ministry Factors",
-       "pdf_page": 160,
-       "printed_page": "158"
+       "printed_page": 154
       },
       {
        "type": "section",
        "label": "II",
        "title": "Major Changes in Budget",
        "pdf_page": 161,
-       "printed_page": "159"
+       "printed_page": 159
       },
       {
        "type": "section",
        "label": "III",
        "title": "Income Streams",
        "pdf_page": 161,
-       "printed_page": "159"
+       "printed_page": 159
       },
       {
        "type": "section",
        "label": "IV",
        "title": "Major Ministry Not Implemented in the Past Year",
        "pdf_page": 161,
-       "printed_page": "159"
-      },
-      {
-       "type": "section",
-       "label": "V",
-       "title": "Notes to Budget Line Items",
-       "pdf_page": 161,
-       "printed_page": "159"
-      },
-      {
-       "type": "section",
-       "label": "I",
-       "title": "Economic Considerations and General Ministry Focus",
-       "pdf_page": 166,
-       "printed_page": "164"
-      },
-      {
-       "type": "section",
-       "label": "II",
-       "title": "Major Changes in Budget",
-       "pdf_page": 166,
-       "printed_page": "164"
-      },
-      {
-       "type": "section",
-       "label": "III",
-       "title": "Income Streams",
-       "pdf_page": 167,
-       "printed_page": "165"
-      },
-      {
-       "type": "section",
-       "label": "IV",
-       "title": "Major Ministry Not Implemented in the Past Year",
-       "pdf_page": 169,
-       "printed_page": "167"
-      },
-      {
-       "type": "section",
-       "label": "V",
-       "title": "Notes to Budget",
-       "pdf_page": 169,
-       "printed_page": "167"
-      },
-      {
-       "type": "section",
-       "label": "I",
-       "title": "Economic Considerations and General Ministry Factors",
-       "pdf_page": 174,
-       "printed_page": "172"
+       "printed_page": 159
       },
       {
        "type": "section",
        "label": "II",
        "title": "Major Changes in Budget",
        "pdf_page": 175,
-       "printed_page": "173"
+       "printed_page": 173
       },
       {
        "type": "section",
        "label": "III",
        "title": "Income Streams",
        "pdf_page": 175,
-       "printed_page": "173"
+       "printed_page": 173
       },
       {
        "type": "section",
        "label": "IV",
        "title": "Major Ministry Not Implemented in the Past Year",
        "pdf_page": 175,
-       "printed_page": "173"
-      },
-      {
-       "type": "section",
-       "label": "V",
-       "title": "Notes to Budget \u201cline items\u201d",
-       "pdf_page": 175,
-       "printed_page": "173"
-      },
-      {
-       "type": "section",
-       "label": "I",
-       "title": "Economic Considerations and General Ministry Factors",
-       "pdf_page": 181,
-       "printed_page": "179"
+       "printed_page": 173
       },
       {
        "type": "section",
        "label": "II",
        "title": "Major Changes in Budget",
        "pdf_page": 181,
-       "printed_page": "179"
+       "printed_page": 179
       },
       {
        "type": "section",
        "label": "III",
        "title": "Income Stream",
        "pdf_page": 182,
-       "printed_page": "180"
+       "printed_page": 180
       },
       {
        "type": "section",
        "label": "IV",
        "title": "Major Ministry Not Implemented in the Past Year",
        "pdf_page": 182,
-       "printed_page": "180"
-      },
-      {
-       "type": "section",
-       "label": "V",
-       "title": "Notes to Budget Line Items",
-       "pdf_page": 182,
-       "printed_page": "180"
-      },
-      {
-       "type": "section",
-       "label": "I",
-       "title": "Economic Considerations and General Ministry Factors",
-       "pdf_page": 187,
-       "printed_page": "185"
-      },
-      {
-       "type": "section",
-       "label": "II",
-       "title": "Major Changes in Budget",
-       "pdf_page": 187,
-       "printed_page": "185"
+       "printed_page": 180
       },
       {
        "type": "section",
        "label": "III",
        "title": "Income Streams",
        "pdf_page": 188,
-       "printed_page": "186"
+       "printed_page": 186
       },
       {
        "type": "section",
        "label": "IV",
        "title": "Major Ministry Items Not Implemented",
        "pdf_page": 188,
-       "printed_page": "186"
-      },
-      {
-       "type": "section",
-       "label": "V",
-       "title": "Notes to Budget Line Items",
-       "pdf_page": 188,
-       "printed_page": "186"
-      },
-      {
-       "type": "section",
-       "label": "I",
-       "title": "Economic Considerations and General Ministry Factors",
-       "pdf_page": 193,
-       "printed_page": "191"
+       "printed_page": 186
       },
       {
        "type": "section",
        "label": "II",
        "title": "Major Changes in Budget",
        "pdf_page": 194,
-       "printed_page": "192"
+       "printed_page": 192
       },
       {
        "type": "section",
        "label": "III",
        "title": "Support/Revenue Streams",
        "pdf_page": 194,
-       "printed_page": "192"
+       "printed_page": 192
       },
       {
        "type": "section",
        "label": "IV",
        "title": "Major Ministry Not Implemented in the Past Year",
        "pdf_page": 194,
-       "printed_page": "192"
-      },
-      {
-       "type": "section",
-       "label": "V",
-       "title": "Budget Line Items Notes",
-       "pdf_page": 195,
-       "printed_page": "193"
-      },
-      {
-       "type": "overture",
-       "number": 45,
-       "source": "Potomac Presbytery, \u201cForm Racial Reconciliation Study",
-       "pdf_page": 115,
-       "printed_page": "113"
+       "printed_page": 192
       }
      ]
     },
     {
      "type": "appendix",
      "label": "Appendix D",
-     "title": "REPORT OF THE COMMITTEE ON DISCIPLESHIP MINISTRIES TO THE FORTY-FOURTH GENERAL ASSEMBLY OF THE PRESBYTERIAN CHURCH IN AMERICA",
+     "title": "",
      "pdf_page": 202,
-     "printed_page": "200",
+     "printed_page": 200,
      "children": []
     },
     {
      "type": "appendix",
      "label": "Appendix E",
-     "title": "REPORT OF COVENANT COLLEGE TO THE FORTY-FOURTH GENERAL ASSEMBLY OF THE PRESBYTERIAN CHURCH IN AMERICA",
+     "title": "",
      "pdf_page": 213,
-     "printed_page": "211",
+     "printed_page": 211,
      "children": []
     },
     {
      "type": "appendix",
      "label": "Appendix F",
-     "title": "REPORT OF COVENANT THEOLOGICAL SEMINARY TO THE FORTY-FOURTH GENERAL ASSEMBLY OF THE PRESBYTERIAN CHURCH IN AMERICA",
+     "title": "",
      "pdf_page": 219,
-     "printed_page": "217",
+     "printed_page": 217,
      "children": []
     },
     {
      "type": "appendix",
      "label": "Appendix G",
-     "title": "THE REPORT OF THE COMMITTEE ON MISSION TO NORTH AMERICA TO THE FORTY-FOURTH GENERAL ASSEMBLY OF THE PRESBYTERIAN CHURCH IN AMERICA",
+     "title": "",
      "pdf_page": 241,
-     "printed_page": "239",
+     "printed_page": 239,
      "children": [
       {
        "type": "section",
        "label": "II",
        "title": "MNA Stewardship and Finances: 2015 Progress",
        "pdf_page": 246,
-       "printed_page": "244"
+       "printed_page": 244
       },
       {
        "type": "overture",
        "number": 24,
-       "source": "Ohio Presbytery to \u201cForm Columbus Metropolitan",
-       "pdf_page": 247,
-       "printed_page": "245"
-      },
-      {
-       "type": "overture",
-       "number": 24,
-       "source": "Ohio Presbytery (to MNA)",
+       "source": "Ohio Presbytery (to MNA) \u201cForm Columbus Metropolitan Presbytery\"",
        "pdf_page": 261,
-       "printed_page": "259"
+       "printed_page": 259
       },
       {
        "type": "overture",
        "number": 44,
-       "source": "Potomac Presbytery (to MNA)",
+       "source": "Potomac Presbytery (to MNA) \"Creation of PCA Unity Fund\"",
        "pdf_page": 263,
-       "printed_page": "261"
+       "printed_page": 261
       },
       {
        "type": "overture",
        "number": 61,
-       "source": "Illiana Presbytery",
+       "source": "Illiana Presbytery \"Restructure Boundary of Illiana Presbytery\"",
        "pdf_page": 265,
-       "printed_page": "263"
+       "printed_page": 263
       },
       {
        "type": "overture",
        "number": 62,
-       "source": "Northern Illinois Presbytery (to MNA)",
+       "source": "Northern Illinois Presbytery (to MNA) \u201cRestructure Boundary of Presbytery of Northern Illi",
        "pdf_page": 266,
-       "printed_page": "264"
+       "printed_page": 264
       }
      ]
     },
     {
      "type": "appendix",
      "label": "Appendix H",
-     "title": "REPORT FROM THE COMMITTEE ON MISSION TO THE WORLD TO THE FORTY-FOURTH GENERAL ASSEMBLY PRESBYTERIAN CHURCH IN AMERICA",
+     "title": "",
      "pdf_page": 267,
-     "printed_page": "265",
+     "printed_page": 265,
      "children": []
     },
     {
      "type": "appendix",
      "label": "Appendix I",
-     "title": "PRESBYTERIAN CHURCH IN AMERICA FOUNDATION, INC. REPORT TO THE FORTY-FOURTH GENERAL ASSEMBLY OF THE PRESBYTERIAN CHURCH IN AMERICA",
+     "title": "",
      "pdf_page": 288,
-     "printed_page": "286",
+     "printed_page": 286,
      "children": []
     },
     {
      "type": "appendix",
      "label": "Appendix J",
-     "title": "REPORT OF THE BOARD OF DIRECTORS OF PCA RETIREMENT & BENEFITS, INC. TO THE FORTY-FOURTH GENERAL ASSEMBLY OF THE PRESBYTERIAN CHURCH IN AMERICA",
-     "pdf_page": 292,
-     "printed_page": "290",
+     "title": "",
+     "pdf_page": 293,
+     "printed_page": 291,
      "children": []
     },
     {
      "type": "appendix",
      "label": "Appendix K",
-     "title": "REPORT OF THE COMMITTEE ON REFORMED UNIVERSITY MINISTRIES TO THE FORTY-FOURTH GENERAL ASSEMBLY OF THE PRESBYTERIAN CHURCH IN AMERICA",
+     "title": "",
      "pdf_page": 301,
-     "printed_page": "299",
+     "printed_page": 299,
      "children": []
     },
     {
      "type": "appendix",
      "label": "Appendix L",
-     "title": "REPORT OF RIDGE HAVEN TO THE FORTY-FOURTH GENERAL ASSEMBLY OF THE PRESBYTERIAN CHURCH IN AMERICA",
+     "title": "",
      "pdf_page": 325,
-     "printed_page": "323",
+     "printed_page": 323,
      "children": []
     },
     {
      "type": "appendix",
      "label": "Appendix M",
-     "title": "COOPERATIVE MINISTRIES COMMITTEE REPORT TO THE FORTY-FOURTH GENERAL ASSEMBLY OF THE PRESBYTERIAN CHURCH IN AMERICA",
+     "title": "",
      "pdf_page": 329,
-     "printed_page": "327",
+     "printed_page": 327,
      "children": []
     },
     {
      "type": "appendix",
      "label": "Appendix N",
-     "title": "REPORT OF THE INTERCHURCH RELATIONS COMMITTEE TO THE FORTY-FOURTH GENERAL ASSEMBLY OF THE PRESBYTERIAN CHURCH IN AMERICA",
+     "title": "",
      "pdf_page": 339,
-     "printed_page": "337",
+     "printed_page": 337,
      "children": []
     },
     {
      "type": "appendix",
      "label": "Appendix O",
-     "title": "REPORT OF THE COMMITTEE ON CONSTITUTIONAL BUSINESS TO THE FORTY-FOURTH GENERAL ASSEMBLY OF THE PRESBYTERIAN CHURCH IN AMERICA",
+     "title": "",
      "pdf_page": 348,
-     "printed_page": "346",
+     "printed_page": 346,
      "children": [
-      {
-       "type": "section",
-       "label": "I",
-       "title": "Introduction",
-       "pdf_page": 348,
-       "printed_page": "346"
-      },
       {
        "type": "section",
        "label": "II",
        "title": "Advice on Overtures",
        "pdf_page": 348,
-       "printed_page": "346"
+       "printed_page": 346
       },
       {
        "type": "section",
        "label": "III",
        "title": "Advice to Stated Clerk",
        "pdf_page": 350,
-       "printed_page": "348"
+       "printed_page": 348
       },
       {
        "type": "section",
        "label": "IV",
        "title": "Non-Judicial References",
        "pdf_page": 350,
-       "printed_page": "348"
-      },
-      {
-       "type": "section",
-       "label": "V",
-       "title": "Minutes of the Standing Judicial Commission",
-       "pdf_page": 352,
-       "printed_page": "350"
+       "printed_page": 348
       },
       {
        "type": "section",
        "label": "VI",
        "title": "Election of Officers for 2013-2014",
        "pdf_page": 352,
-       "printed_page": "350"
+       "printed_page": 350
       }
      ]
     },
     {
      "type": "appendix",
      "label": "Appendix P",
-     "title": "MINUTES OF THE NOMINATING COMMITTEE OF THE GENERAL ASSEMBLY OF THE PRESBYTERIAN CHURCH IN AMERICA April 2, 2016",
+     "title": "",
      "pdf_page": 353,
-     "printed_page": "351",
+     "printed_page": 351,
      "children": []
     },
     {
      "type": "appendix",
      "label": "Appendix Q",
-     "title": "REPORT OF THE COMMITTEE ON REVIEW OF PRESBYTERY RECORDS TO THE FORTY-FOURTH GENERAL ASSEMBLY OF THE PRESBYTERIAN CHURCH IN AMERICA June 2016",
+     "title": "",
      "pdf_page": 387,
-     "printed_page": "385",
+     "printed_page": 385,
      "children": [
       {
        "type": "section",
        "label": "III",
        "title": "Special Citations",
        "pdf_page": 387,
-       "printed_page": "385"
+       "printed_page": 385
+      },
+      {
+       "type": "section",
+       "label": "IV",
+       "title": "General Recommendations",
+       "pdf_page": 388,
+       "printed_page": 386
       },
       {
        "type": "section",
        "label": "VI",
        "title": "Officers Elected for 2016-2017",
        "pdf_page": 459,
-       "printed_page": "457"
+       "printed_page": 457
       },
       {
        "type": "section",
        "label": "VII",
        "title": "Members Present",
        "pdf_page": 459,
-       "printed_page": "457"
+       "printed_page": 457
       }
      ]
     },
     {
      "type": "appendix",
      "label": "Appendix R",
-     "title": "REPORT OF THE THEOLOGICAL EXAMINING COMMITTEE TO THE FORTY-FOURTH GENERAL ASSEMBLY OF THE PRESBYTERIAN CHURCH IN AMERICA June, 2016",
+     "title": "",
      "pdf_page": 462,
-     "printed_page": "460",
+     "printed_page": 460,
      "children": [
       {
        "type": "section",
-       "label": "I",
-       "title": "Introduction to the Committee\u2019s Work",
-       "pdf_page": 462,
-       "printed_page": "460"
-      },
-      {
-       "type": "section",
        "label": "II",
-       "title": "Summary of the Committee\u2019s Work",
+       "title": "Summary of the Committee's Work",
        "pdf_page": 462,
-       "printed_page": "460"
+       "printed_page": 460
       },
       {
        "type": "section",
        "label": "III",
        "title": "Committee Correspondence",
        "pdf_page": 464,
-       "printed_page": "462"
+       "printed_page": 462
       }
      ]
     },
@@ -1364,636 +483,595 @@
      "label": "Appendix S",
      "title": "ATTENDANCE REPORT",
      "pdf_page": 465,
-     "printed_page": "463",
-     "children": []
-    },
-    {
-     "type": "appendix",
-     "label": "Appendix T",
-     "title": "REPORT OF THE STANDING JUDICIAL COMMISSION TO THE FORTY-FOURTH GENERAL ASSEMBLY OF THE PRESBYTERIAN CHURCH IN AMERICA",
-     "pdf_page": 499,
-     "printed_page": "497",
+     "printed_page": 463,
      "children": [
       {
        "type": "section",
        "label": "I",
        "title": "INTRODUCTION",
        "pdf_page": 499,
-       "printed_page": "497"
+       "printed_page": 497
       },
       {
        "type": "section",
        "label": "II",
        "title": "JUDICIAL CASES",
        "pdf_page": 499,
-       "printed_page": "497"
-      },
+       "printed_page": 497
+      }
+     ]
+    },
+    {
+     "type": "appendix",
+     "label": "Appendix T",
+     "title": "",
+     "pdf_page": 501,
+     "printed_page": 499,
+     "children": [
       {
        "type": "section",
        "label": "III",
        "title": "REPORT OF THE CASES",
        "pdf_page": 501,
-       "printed_page": "499"
+       "printed_page": 499
       },
       {
        "type": "section",
        "label": "I",
        "title": "SUMMARY OF THE FACTS",
        "pdf_page": 501,
-       "printed_page": "499"
+       "printed_page": 499
       },
       {
        "type": "section",
        "label": "III",
        "title": "STATEMENT OF THE ISSUE",
        "pdf_page": 505,
-       "printed_page": "503"
-      },
-      {
-       "type": "section",
-       "label": "IV",
-       "title": "JUDGMENT",
-       "pdf_page": 505,
-       "printed_page": "503"
+       "printed_page": 503
       },
       {
        "type": "section",
        "label": "V",
        "title": "REASONING",
        "pdf_page": 506,
-       "printed_page": "504"
+       "printed_page": 504
       },
       {
        "type": "section",
        "label": "I",
        "title": "SUMMARY OF THE FACTS",
        "pdf_page": 524,
-       "printed_page": "522"
+       "printed_page": 522
       },
       {
        "type": "section",
        "label": "II",
        "title": "STATEMENT OF THE ISSUE",
        "pdf_page": 526,
-       "printed_page": "524"
+       "printed_page": 524
       },
       {
        "type": "section",
        "label": "III",
        "title": "JUDGMENT",
        "pdf_page": 527,
-       "printed_page": "525"
+       "printed_page": 525
       },
       {
        "type": "section",
        "label": "IV",
        "title": "REASONING AND OPINION",
        "pdf_page": 527,
-       "printed_page": "525"
+       "printed_page": 525
       },
       {
        "type": "section",
        "label": "II",
        "title": "STATEMENT OF THE ISSUE",
        "pdf_page": 549,
-       "printed_page": "547"
+       "printed_page": 547
       },
       {
        "type": "section",
        "label": "III",
        "title": "JUDGMENT",
        "pdf_page": 549,
-       "printed_page": "547"
+       "printed_page": 547
       },
       {
        "type": "section",
        "label": "IV",
        "title": "REASONING",
        "pdf_page": 550,
-       "printed_page": "548"
+       "printed_page": 548
       },
       {
        "type": "section",
        "label": "I",
        "title": "SUMMARY OF THE FACTS",
        "pdf_page": 556,
-       "printed_page": "554"
+       "printed_page": 554
       },
       {
        "type": "section",
        "label": "II",
        "title": "STATEMENT OF THE ISSUE",
        "pdf_page": 557,
-       "printed_page": "555"
+       "printed_page": 555
       },
       {
        "type": "section",
        "label": "III",
        "title": "JUDGMENT",
        "pdf_page": 557,
-       "printed_page": "555"
+       "printed_page": 555
       },
       {
        "type": "section",
        "label": "IV",
        "title": "REASONING AND OPINION",
        "pdf_page": 557,
-       "printed_page": "555"
+       "printed_page": 555
       },
       {
        "type": "section",
        "label": "IV",
        "title": "PROPOSED MANUAL CHANGES",
        "pdf_page": 558,
-       "printed_page": "556"
+       "printed_page": 556
       },
       {
        "type": "section",
        "label": "V",
        "title": "ELECTION OF OFFICERS",
        "pdf_page": 562,
-       "printed_page": "560"
+       "printed_page": 560
       }
      ]
     },
     {
      "type": "appendix",
      "label": "Appendix U",
-     "title": "RESOLUTION OF THANKS",
+     "title": "",
      "pdf_page": 570,
-     "printed_page": "568",
+     "printed_page": 568,
      "children": [
-      {
-       "type": "section",
-       "label": "II",
-       "title": "Saints by profession are bound to maintain an holy",
-       "pdf_page": 680,
-       "printed_page": "678"
-      },
-      {
-       "type": "overture",
-       "number": 1,
-       "source": "Heartland Presbytery (to OC)",
-       "pdf_page": 572,
-       "printed_page": "570"
-      },
       {
        "type": "overture",
        "number": 3,
-       "source": "Chesapeake Presbytery (to CCB, OC)",
+       "source": "Chesapeake Presbytery (to CCB, OC) \u201cAmend BCO 15-3 to Allow Judicial Commission Minority R",
        "pdf_page": 577,
-       "printed_page": "575"
+       "printed_page": 575
       },
       {
        "type": "overture",
        "number": 4,
-       "source": "Missouri Presbytery (to OC)",
+       "source": "Missouri Presbytery (to OC) \u201cConfession of Sin and Commitment to Racial and Ethnic Diversi",
        "pdf_page": 580,
-       "printed_page": "578"
+       "printed_page": 578
       },
       {
        "type": "overture",
        "number": 5,
-       "source": "Pittsburgh Presbytery (to CCB, OC)",
+       "source": "Pittsburgh Presbytery (to CCB, OC) \u201cAmend BCO 15-5.a and RAO 17-1, Paragraph 4, to Allow t",
        "pdf_page": 582,
-       "printed_page": "580"
+       "printed_page": 580
       },
       {
        "type": "overture",
        "number": 6,
-       "source": "Chesapeake Presbytery (to OC)",
+       "source": "Chesapeake Presbytery (to OC) \u201cConfession of Sin and Commitment to Racial and Ethnic Diver",
        "pdf_page": 586,
-       "printed_page": "584"
+       "printed_page": 584
       },
       {
        "type": "overture",
        "number": 7,
-       "source": "Grace Presbytery (to OC)",
+       "source": "Grace Presbytery (to OC) \"Petition Government Leaders to Insure Religious Liberty in Light",
        "pdf_page": 588,
-       "printed_page": "586"
+       "printed_page": 586
       },
       {
        "type": "overture",
        "number": 8,
-       "source": "Eastern Carolina Presbytery (to OC)",
+       "source": "Eastern Carolina Presbytery (to OC) \u201cConfession of Sin and Commitment to Racial and Ethnic",
        "pdf_page": 592,
-       "printed_page": "590"
+       "printed_page": 590
       },
       {
        "type": "overture",
        "number": 9,
-       "source": "Tennessee Valley Presbytery (to OC)",
+       "source": "Tennessee Valley Presbytery (to OC) \u201cConfession of Sin and Commitment to Racial and Ethnic",
        "pdf_page": 594,
-       "printed_page": "592"
+       "printed_page": 592
       },
       {
        "type": "overture",
        "number": 10,
-       "source": "Metropolitan New York Presbytery (to OC)",
+       "source": "Metropolitan New York Presbytery (to OC) \u201cIn Support of Overture 4 from Missouri Presbyter",
        "pdf_page": 596,
-       "printed_page": "594"
-      },
-      {
-       "type": "overture",
-       "number": 4,
-       "source": "Missouri Presbytery on racism and the commitment to",
-       "pdf_page": 596,
-       "printed_page": "594"
+       "printed_page": 594
       },
       {
        "type": "overture",
        "number": 11,
-       "source": "Calvary Presbytery (to OC)",
+       "source": "Calvary Presbytery (to OC) \u201cCall for Repentance and Reconciliation\"",
        "pdf_page": 596,
-       "printed_page": "594"
+       "printed_page": 594
       },
       {
        "type": "overture",
        "number": 12,
-       "source": "Pacific Northwest Presbytery (to OC)",
+       "source": "Pacific Northwest Presbytery (to OC) \u201cConfession of Sin and Commitment to Racial and Ethni",
        "pdf_page": 598,
-       "printed_page": "596"
+       "printed_page": 596
       },
       {
        "type": "overture",
        "number": 13,
-       "source": "the Providence Presbytery (to OC)",
+       "source": "the Providence Presbytery (to OC) \u201cConfession of Sin and Commitment to Racial and Ethnic D",
        "pdf_page": 600,
-       "printed_page": "598"
+       "printed_page": 598
       },
       {
        "type": "overture",
        "number": 14,
-       "source": "Providence Presbytery (to CCB, OC)",
+       "source": "Providence Presbytery (to CCB, OC) \u201cAmend BCO 35-1 to Require Accused Officers to Testify\u201d",
        "pdf_page": 602,
-       "printed_page": "600"
+       "printed_page": 600
       },
       {
        "type": "overture",
        "number": 15,
-       "source": "Covenant Presbytery (to OC)",
+       "source": "Covenant Presbytery (to OC) \u201cConfession of Sin and Commitment to Racial and Ethnic Diversi",
        "pdf_page": 604,
-       "printed_page": "602"
-      },
-      {
-       "type": "overture",
-       "number": 16,
-       "source": "Blue Ridge Presbytery (to OC)",
-       "pdf_page": 606,
-       "printed_page": "604"
+       "printed_page": 602
       },
       {
        "type": "overture",
        "number": 17,
-       "source": "Metro Atlanta Presbytery (to OC)",
+       "source": "Metro Atlanta Presbytery (to OC) \"In Support of Overture 4 from Missouri Presbytery\" Where",
        "pdf_page": 609,
-       "printed_page": "607"
-      },
-      {
-       "type": "overture",
-       "number": 4,
-       "source": "Missouri Presbytery,",
-       "pdf_page": 609,
-       "printed_page": "607"
+       "printed_page": 607
       },
       {
        "type": "overture",
        "number": 18,
-       "source": "Heritage Presbytery (to OC)",
+       "source": "Heritage Presbytery (to OC) \u201cConfessing Covenantal and Generational Sins during the Civil ",
        "pdf_page": 610,
-       "printed_page": "608"
+       "printed_page": 608
       },
       {
        "type": "overture",
        "number": 19,
-       "source": "Chicago Metro Presbytery (to OC)",
+       "source": "Chicago Metro Presbytery (to OC) \u201cConfession of Sin and Commitment to Racial and Ethnic Di",
        "pdf_page": 613,
-       "printed_page": "611"
+       "printed_page": 611
       },
       {
        "type": "overture",
        "number": 20,
-       "source": "Southwest Florida Presbytery (to MTW)",
+       "source": "Southwest Florida Presbytery (to MTW) \u201cErect Provisional Presbytery in Nicaragua\"",
        "pdf_page": 615,
-       "printed_page": "613"
+       "printed_page": 613
       },
       {
        "type": "overture",
        "number": 21,
-       "source": "Southwest Florida Presbytery (to OC)",
+       "source": "Southwest Florida Presbytery (to OC) \u201cMemorial for Ruling Elder W. Diehl Evans\"",
        "pdf_page": 617,
-       "printed_page": "615"
+       "printed_page": 615
       },
       {
        "type": "overture",
        "number": 22,
-       "source": "Southwest Florida Presbytery (to OC)",
+       "source": "Southwest Florida Presbytery (to OC) \u201cMemorial for Ruling Elder Henry Richard \u201cRip\u201d Darden",
        "pdf_page": 618,
-       "printed_page": "616"
+       "printed_page": 616
       },
       {
        "type": "overture",
        "number": 23,
-       "source": "Nashville Presbytery (to OC)",
+       "source": "Nashville Presbytery (to OC) \u201cConfession of Sin and Commitment to Racial and Ethnic Divers",
        "pdf_page": 619,
-       "printed_page": "617"
+       "printed_page": 617
       },
       {
        "type": "overture",
        "number": 24,
-       "source": "Ohio Presbytery (to MNA)",
+       "source": "Ohio Presbytery (to MNA) \u201cForm Columbus Metropolitan Presbytery\" Whereas, a Presbytery's g",
        "pdf_page": 621,
-       "printed_page": "619"
+       "printed_page": 619
       },
       {
        "type": "overture",
        "number": 25,
-       "source": "Rocky Mountain Presbytery (to CCB, OC)",
+       "source": "Rocky Mountain Presbytery (to CCB, OC) \u201cAmend BCO 15-1; 15-2; Add new 15-4 and Renumber Su",
        "pdf_page": 622,
-       "printed_page": "620"
+       "printed_page": 620
       },
       {
        "type": "overture",
        "number": 26,
-       "source": "Rocky Mountain Presbytery (to OC)",
+       "source": "Rocky Mountain Presbytery (to OC) \u201cMemorial for TE Bill Leonard\u201d",
        "pdf_page": 625,
-       "printed_page": "623"
+       "printed_page": 623
       },
       {
        "type": "overture",
        "number": 27,
-       "source": "Rocky Mountain Presbytery (to OC)",
+       "source": "Rocky Mountain Presbytery (to OC) \u201cConfession of Sin and Commitment to Racial and Ethnic D",
        "pdf_page": 626,
-       "printed_page": "624"
+       "printed_page": 624
       },
       {
        "type": "overture",
        "number": 28,
-       "source": "North Texas Presbytery (to OC)",
+       "source": "North Texas Presbytery (to OC) \u201cConfession of Sin and Commitment to Racial and Ethnic Dive",
        "pdf_page": 628,
-       "printed_page": "626"
+       "printed_page": 626
       },
       {
        "type": "overture",
        "number": 29,
-       "source": "Pittsburgh Presbytery (to OC)",
+       "source": "Pittsburgh Presbytery (to OC) \u201cConfession of Sin and Commitment to Racial and Ethnic Diver",
        "pdf_page": 630,
-       "printed_page": "628"
+       "printed_page": 628
+      },
+      {
+       "type": "overture",
+       "number": 30,
+       "source": "Suncoast Florida Presbytery (to OC) \u201cIn Support of Overture 4 from Missouri Presbytery\u201d",
+       "pdf_page": 632,
+       "printed_page": 630
       },
       {
        "type": "overture",
        "number": 31,
-       "source": "Southern New England Presbytery (to OC)",
+       "source": "Southern New England Presbytery (to OC) \u201cConfession of Sin and Commitment to Racial and Et",
        "pdf_page": 632,
-       "printed_page": "630"
+       "printed_page": 630
       },
       {
        "type": "overture",
        "number": 32,
-       "source": "James River Presbytery (to OC)",
+       "source": "James River Presbytery (to OC) \u201cA Day of Prayer and Fasting\"",
        "pdf_page": 634,
-       "printed_page": "632"
+       "printed_page": 632
       },
       {
        "type": "overture",
        "number": 33,
-       "source": "New York State Presbytery (to OC)",
+       "source": "New York State Presbytery (to OC) \"In Support of Overture 4 from Missouri Presbytery\"",
        "pdf_page": 635,
-       "printed_page": "633"
-      },
-      {
-       "type": "overture",
-       "number": 4,
-       "source": "Missouri Presbytery on racism and racial reconciliation;",
-       "pdf_page": 635,
-       "printed_page": "633"
+       "printed_page": 633
       },
       {
        "type": "overture",
        "number": 34,
-       "source": "Westminster Presbytery (to OC)",
+       "source": "Westminster Presbytery (to OC) \"Call for Repentance and Reconciliation\"",
        "pdf_page": 635,
-       "printed_page": "633"
+       "printed_page": 633
       },
       {
        "type": "overture",
        "number": 35,
-       "source": "New Jersey Presbytery (to OC)",
+       "source": "New Jersey Presbytery (to OC) \"In Support of Overture 4 from Missouri Presbytery\"",
        "pdf_page": 637,
-       "printed_page": "635"
+       "printed_page": 635
       },
       {
        "type": "overture",
        "number": 36,
-       "source": "Pacific Northwest Presbytery (to CCB, OC)",
+       "source": "Pacific Northwest Presbytery (to CCB, OC) \u201cAmend RAO 13-2 on the Procedure for Considering",
        "pdf_page": 637,
-       "printed_page": "635"
+       "printed_page": 635
       },
       {
        "type": "overture",
        "number": 37,
-       "source": "Pacific Northwest Presbytery (to CCB, OC)",
+       "source": "Pacific Northwest Presbytery (to CCB, OC) \u201cAmend BCO 13-2 to Add Requirement for Annual Re",
        "pdf_page": 639,
-       "printed_page": "637"
+       "printed_page": 637
       },
       {
        "type": "overture",
        "number": 38,
-       "source": "Pacific Northwest Presbytery (to CCB, OC)",
+       "source": "Pacific Northwest Presbytery (to CCB, OC) \u201cAmend BCO 5-3 to Add an Explicit Requirement fo",
        "pdf_page": 640,
-       "printed_page": "638"
+       "printed_page": 638
       },
       {
        "type": "overture",
        "number": 39,
-       "source": "Pacific Northwest Presbytery (to CCB, OC)",
+       "source": "Pacific Northwest Presbytery",
        "pdf_page": 641,
-       "printed_page": "639"
+       "printed_page": 639
       },
       {
        "type": "overture",
        "number": 40,
-       "source": "Pacific Northwest Presbytery (to CCB, OC)",
+       "source": "Pacific Northwest Presbytery",
        "pdf_page": 643,
-       "printed_page": "641"
+       "printed_page": 641
       },
       {
        "type": "overture",
        "number": 41,
-       "source": "Korean Southwest Orange County Presbytery (to OC)",
+       "source": "Korean Southwest Orange County Presbytery (to OC) \u201cConfession of Sin and Commitment to Rac",
        "pdf_page": 644,
-       "printed_page": "642"
+       "printed_page": 642
       },
       {
        "type": "overture",
        "number": 42,
-       "source": "Philadelphia Presbytery (to OC)",
+       "source": "Philadelphia Presbytery (to OC) \u201cConfession of Sin and Commitment to Racial and Ethnic Div",
        "pdf_page": 646,
-       "printed_page": "644"
+       "printed_page": 644
       },
       {
        "type": "overture",
        "number": 43,
-       "source": "Potomac Presbytery (to OC)",
+       "source": "Potomac Presbytery (to OC) \"Pursuing Racial Reconciliation and the Advance of the Gospel\"",
        "pdf_page": 648,
-       "printed_page": "646"
+       "printed_page": 646
       },
       {
        "type": "overture",
        "number": 44,
-       "source": "Potomac Presbytery (to MNA)",
+       "source": "Potomac Presbytery (to MNA) \"Creation of PCA Unity Fund\"",
        "pdf_page": 650,
-       "printed_page": "648"
+       "printed_page": 648
       },
       {
        "type": "overture",
        "number": 45,
-       "source": "Potomac Presbytery (to OC, AC)",
+       "source": "Potomac Presbytery (to OC, AC) \"Form Racial Reconciliation Study Committee\"",
        "pdf_page": 651,
-       "printed_page": "649"
+       "printed_page": 649
       },
       {
        "type": "overture",
        "number": 46,
-       "source": "Northern California Presbytery (to OC)",
+       "source": "Northern California Presbytery (to OC) \u201cConfession of Sin and Commitment to Racial and Eth",
        "pdf_page": 652,
-       "printed_page": "650"
+       "printed_page": 650
       },
       {
        "type": "overture",
        "number": 47,
-       "source": "Savannah River Presbytery (to OC)",
+       "source": "Savannah River Presbytery (to OC) \u201cIn Support of Overture 4 from Missouri Presbytery\u201d",
        "pdf_page": 654,
-       "printed_page": "652"
+       "printed_page": 652
       },
       {
        "type": "overture",
        "number": 48,
-       "source": "Susquehanna Valley Presbytery (to OC)",
+       "source": "Susquehanna Valley Presbytery (to OC) \u201cConfession and Commitment to Action\u201d",
        "pdf_page": 655,
-       "printed_page": "653"
+       "printed_page": 653
       },
       {
        "type": "overture",
        "number": 49,
-       "source": "James River Presbytery (to OC)",
+       "source": "James River Presbytery (to OC) \u201cConfession of Sin and Commitment to Racial and Ethnic Dive",
        "pdf_page": 657,
-       "printed_page": "655"
+       "printed_page": 655
       },
       {
        "type": "overture",
        "number": 50,
-       "source": "North Florida Presbytery (to OC)",
+       "source": "North Florida Presbytery (to OC) \u201cSteps Toward Racial Reconciliation, North Florida Presby",
        "pdf_page": 660,
-       "printed_page": "658"
+       "printed_page": 658
       },
       {
        "type": "overture",
        "number": 51,
-       "source": "Platte Valley Presbytery (to OC)",
+       "source": "Platte Valley Presbytery (to OC) \u201cConfession of Sin and Commitment to Racial and Ethnic Di",
        "pdf_page": 662,
-       "printed_page": "660"
+       "printed_page": 660
       },
       {
        "type": "overture",
        "number": 52,
-       "source": "Lowcountry Presbytery (to OC)",
+       "source": "Lowcountry Presbytery (to OC) \u201cConfession of Sin and Commitment to Racial and Ethnic Diver",
        "pdf_page": 664,
-       "printed_page": "662"
+       "printed_page": 662
       },
       {
        "type": "overture",
        "number": 53,
-       "source": "Northwest Georgia Presbytery (to OC)",
+       "source": "Northwest Georgia Presbytery (to OC) \u201cLeading by Example in Repentance First\"",
        "pdf_page": 666,
-       "printed_page": "664"
+       "printed_page": 664
       },
       {
        "type": "overture",
        "number": 54,
-       "source": "Calvary Presbytery (to CC)",
+       "source": "Calvary Presbytery (to CC) \u201cCommend Covenant College for Forfeiting Championship Tennis Ma",
        "pdf_page": 670,
-       "printed_page": "668"
+       "printed_page": 668
       },
       {
        "type": "overture",
        "number": 55,
-       "source": "Mississippi Valley Presbytery (to OC)",
+       "source": "Mississippi Valley Presbytery (to OC) \u201cConfession of the Sin of Racism, and Commitment to ",
        "pdf_page": 671,
-       "printed_page": "669"
+       "printed_page": 669
       },
       {
        "type": "overture",
        "number": 56,
-       "source": "Evangel Presbytery (to OC)",
+       "source": "Evangel Presbytery (to OC) \u201cIn Support of Overture 55 from Mississippi Valley Presbytery\"",
        "pdf_page": 697,
-       "printed_page": "695"
+       "printed_page": 695
       },
       {
        "type": "overture",
        "number": 57,
-       "source": "Central Indiana Presbytery (to OC)",
+       "source": "Central Indiana Presbytery (to OC) \u201cConfession of Sin and Commitment to Racial and Ethnic ",
        "pdf_page": 698,
-       "printed_page": "696"
+       "printed_page": 696
       },
       {
        "type": "overture",
        "number": 58,
-       "source": "Piedmont Triad Presbytery (to OC)",
+       "source": "Piedmont Triad Presbytery (to OC) \u201cConfession of Sin and Commitment to Racial and Ethnic D",
        "pdf_page": 700,
-       "printed_page": "698"
+       "printed_page": 698
       },
       {
        "type": "overture",
        "number": 59,
-       "source": "Gulf Coast Presbytery (to OC)",
+       "source": "Gulf Coast Presbytery (to OC) \u201cAcknowledgment of Sin and Recommitment to Model our Unity i",
        "pdf_page": 702,
-       "printed_page": "700"
+       "printed_page": 700
       },
       {
        "type": "overture",
        "number": 60,
        "source": "the Session of Auburn Road Presbyterian",
        "pdf_page": 704,
-       "printed_page": "702"
+       "printed_page": 702
       },
       {
        "type": "overture",
        "number": 61,
-       "source": "Illiana Presbytery (to MNA)",
+       "source": "Illiana Presbytery (to MNA) \u201cRestructure Boundary of Illiana Presbytery\"",
        "pdf_page": 705,
-       "printed_page": "703"
+       "printed_page": 703
       },
       {
        "type": "overture",
        "number": 62,
-       "source": "Northern Illinois Presbytery (to MNA)",
+       "source": "Northern Illinois Presbytery (to MNA) \"Restructure Boundary of Presbytery of Northern Illi",
        "pdf_page": 706,
-       "printed_page": "704"
+       "printed_page": 704
       },
       {
        "type": "overture",
        "number": 63,
-       "source": "Ohio Valley Presbytery (to OC)",
+       "source": "Ohio Valley Presbytery (to OC) \u201cIn Support of Overture 4 from Missouri Presbytery\"",
        "pdf_page": 707,
-       "printed_page": "705"
+       "printed_page": 705
       }
      ]
     },
     {
      "type": "appendix",
      "label": "Appendix W",
-     "title": "COMMUNICATIONS TO THE FORTY-FOURTH GENERAL ASSEMBLY OF THE PRESBYTERIAN CHURCH IN AMERICA",
+     "title": "",
      "pdf_page": 708,
-     "printed_page": "706",
+     "printed_page": 706,
      "children": []
     },
     {
      "type": "appendix",
      "label": "Appendix X",
-     "title": "ORDER FOR THE WORSHIP OF GOD 44 [th] GENERAL ASSEMBLY June 21, 2016 7:30 pm",
+     "title": "",
      "pdf_page": 717,
-     "printed_page": "715",
+     "printed_page": 715,
      "children": []
     }
    ]
@@ -2001,1035 +1079,300 @@
   {
    "type": "part",
    "label": "PART IV",
-   "title": "CORRECTIONS TO PREVIOUS MINUTES OF THE GENERAL ASSEMBLY",
+   "title": "Corrections",
    "pdf_page": 723,
-   "printed_page": "721",
-   "children": []
-  },
-  {
-   "type": "part",
-   "label": "PART V",
-   "title": "REFERENCES AND INDEX",
-   "pdf_page": 725,
-   "printed_page": "723",
+   "printed_page": 721,
    "children": [
-    {
-     "type": "overture",
-     "number": 1,
-     "source": "Heartland Presbytery (to OC)",
-     "pdf_page": 741,
-     "printed_page": "739"
-    },
-    {
-     "type": "overture",
-     "number": 2,
-     "source": "Pacific Northwest Presbytery (Revised) (to SJC)",
-     "pdf_page": 741,
-     "printed_page": "739"
-    },
-    {
-     "type": "overture",
-     "number": 3,
-     "source": "Chesapeake Presbytery (to CCB, OC)",
-     "pdf_page": 741,
-     "printed_page": "739"
-    },
-    {
-     "type": "overture",
-     "number": 4,
-     "source": "Missouri Presbytery (to OC)",
-     "pdf_page": 741,
-     "printed_page": "739"
-    },
-    {
-     "type": "overture",
-     "number": 5,
-     "source": "Pittsburgh Presbytery (to CCB, OC)",
-     "pdf_page": 741,
-     "printed_page": "739"
-    },
-    {
-     "type": "overture",
-     "number": 6,
-     "source": "Chesapeake Presbytery (to OC)",
-     "pdf_page": 741,
-     "printed_page": "739"
-    },
-    {
-     "type": "overture",
-     "number": 7,
-     "source": "Grace Presbytery (to OC)",
-     "pdf_page": 741,
-     "printed_page": "739"
-    },
-    {
-     "type": "overture",
-     "number": 8,
-     "source": "Eastern Carolina Presbytery (to OC)",
-     "pdf_page": 741,
-     "printed_page": "739"
-    },
-    {
-     "type": "overture",
-     "number": 9,
-     "source": "Tennessee Valley Presbytery (to OC)",
-     "pdf_page": 741,
-     "printed_page": "739"
-    },
-    {
-     "type": "overture",
-     "number": 10,
-     "source": "Metropolitan New York Presbytery (to OC)",
-     "pdf_page": 741,
-     "printed_page": "739"
-    },
-    {
-     "type": "overture",
-     "number": 11,
-     "source": "Calvary Presbytery (to OC)",
-     "pdf_page": 741,
-     "printed_page": "739"
-    },
-    {
-     "type": "overture",
-     "number": 12,
-     "source": "Pacific Northwest Presbytery (to OC)",
-     "pdf_page": 742,
-     "printed_page": "740"
-    },
-    {
-     "type": "overture",
-     "number": 13,
-     "source": "Providence Presbytery (to OC)",
-     "pdf_page": 742,
-     "printed_page": "740"
-    },
-    {
-     "type": "overture",
-     "number": 14,
-     "source": "Providence Presbytery (to CCB, OC)",
-     "pdf_page": 742,
-     "printed_page": "740"
-    },
-    {
-     "type": "overture",
-     "number": 15,
-     "source": "Covenant Presbytery (to OC)",
-     "pdf_page": 742,
-     "printed_page": "740"
-    },
-    {
-     "type": "overture",
-     "number": 16,
-     "source": "Blue Ridge Presbytery (to OC)",
-     "pdf_page": 742,
-     "printed_page": "740"
-    },
-    {
-     "type": "overture",
-     "number": 17,
-     "source": "Metro Atlanta Presbytery (to OC)",
-     "pdf_page": 742,
-     "printed_page": "740"
-    },
-    {
-     "type": "overture",
-     "number": 18,
-     "source": "Heritage Presbytery (to OC)",
-     "pdf_page": 742,
-     "printed_page": "740"
-    },
-    {
-     "type": "overture",
-     "number": 19,
-     "source": "Chicago Metro Presbytery (to OC)",
-     "pdf_page": 742,
-     "printed_page": "740"
-    },
-    {
-     "type": "overture",
-     "number": 20,
-     "source": "Southwest Florida Presbytery (to MTW)",
-     "pdf_page": 742,
-     "printed_page": "740"
-    },
-    {
-     "type": "overture",
-     "number": 21,
-     "source": "Southwest Florida Presbytery (to OC)",
-     "pdf_page": 742,
-     "printed_page": "740"
-    },
-    {
-     "type": "overture",
-     "number": 22,
-     "source": "Southwest Florida Presbytery (to OC)",
-     "pdf_page": 742,
-     "printed_page": "740"
-    },
-    {
-     "type": "overture",
-     "number": 23,
-     "source": "Nashville Presbytery (to OC)",
-     "pdf_page": 742,
-     "printed_page": "740"
-    },
-    {
-     "type": "overture",
-     "number": 24,
-     "source": "Ohio Presbytery (to MNA)",
-     "pdf_page": 742,
-     "printed_page": "740"
-    },
-    {
-     "type": "overture",
-     "number": 25,
-     "source": "Rocky Mountain Presbytery (to CCB, OC)",
-     "pdf_page": 742,
-     "printed_page": "740"
-    },
-    {
-     "type": "overture",
-     "number": 26,
-     "source": "Rocky Mountain Presbytery (to OC",
-     "pdf_page": 742,
-     "printed_page": "740"
-    },
-    {
-     "type": "overture",
-     "number": 27,
-     "source": "Rocky Mountain Presbytery (to OC)",
-     "pdf_page": 742,
-     "printed_page": "740"
-    },
     {
      "type": "overture",
      "number": 28,
      "source": "North Texas Presbytery (to OC)",
      "pdf_page": 743,
-     "printed_page": "741"
+     "printed_page": 741
     },
     {
      "type": "overture",
      "number": 29,
      "source": "Pittsburgh Presbytery (to OC)",
      "pdf_page": 743,
-     "printed_page": "741"
+     "printed_page": 741
+    },
+    {
+     "type": "overture",
+     "number": 30,
+     "source": "Suncoast Florida Presbytery (to OC)",
+     "pdf_page": 743,
+     "printed_page": 741
     },
     {
      "type": "overture",
      "number": 31,
      "source": "Southern New England Presbytery (to OC)",
      "pdf_page": 743,
-     "printed_page": "741"
+     "printed_page": 741
     },
     {
      "type": "overture",
      "number": 32,
      "source": "James River Presbytery (to OC)",
      "pdf_page": 743,
-     "printed_page": "741"
+     "printed_page": 741
     },
     {
      "type": "overture",
      "number": 33,
      "source": "New York State Presbytery (to OC)",
      "pdf_page": 743,
-     "printed_page": "741"
+     "printed_page": 741
     },
     {
      "type": "overture",
      "number": 34,
      "source": "Westminster Presbytery (to OC)",
      "pdf_page": 743,
-     "printed_page": "741"
+     "printed_page": 741
     },
     {
      "type": "overture",
      "number": 35,
      "source": "New Jersey Presbytery (to OC)",
      "pdf_page": 743,
-     "printed_page": "741"
+     "printed_page": 741
     },
     {
      "type": "overture",
      "number": 36,
      "source": "Pacific Northwest Presbytery (to CCB, OC)",
      "pdf_page": 743,
-     "printed_page": "741"
+     "printed_page": 741
     },
     {
      "type": "overture",
      "number": 37,
      "source": "Pacific Northwest Presbytery (to CCB, OC)",
      "pdf_page": 743,
-     "printed_page": "741"
+     "printed_page": 741
     },
     {
      "type": "overture",
      "number": 38,
      "source": "Pacific Northwest Presbytery (to CCB, OC)",
      "pdf_page": 743,
-     "printed_page": "741"
+     "printed_page": 741
     },
     {
      "type": "overture",
      "number": 39,
      "source": "Pacific Northwest Presbytery (to CCB, OC)",
      "pdf_page": 743,
-     "printed_page": "741"
+     "printed_page": 741
     },
     {
      "type": "overture",
      "number": 40,
      "source": "Pacific Northwest Presbytery (to CCB, OC)",
      "pdf_page": 743,
-     "printed_page": "741"
+     "printed_page": 741
     },
     {
      "type": "overture",
      "number": 41,
      "source": "Korean Southwest Orange County Presbytery (to OC)",
      "pdf_page": 743,
-     "printed_page": "741"
-    },
-    {
-     "type": "overture",
-     "number": 42,
-     "source": "Philadelphia Presbytery (to OC)",
-     "pdf_page": 744,
-     "printed_page": "742"
-    },
-    {
-     "type": "overture",
-     "number": 43,
-     "source": "Potomac Presbytery (to OC)",
-     "pdf_page": 744,
-     "printed_page": "742"
-    },
-    {
-     "type": "overture",
-     "number": 44,
-     "source": "Potomac Presbytery (to MNA)",
-     "pdf_page": 744,
-     "printed_page": "742"
-    },
-    {
-     "type": "overture",
-     "number": 45,
-     "source": "Potomac Presbytery (to OC, AC)",
-     "pdf_page": 744,
-     "printed_page": "742"
-    },
-    {
-     "type": "overture",
-     "number": 46,
-     "source": "Northern California Presbytery (to OC)",
-     "pdf_page": 744,
-     "printed_page": "742"
-    },
-    {
-     "type": "overture",
-     "number": 47,
-     "source": "Savannah River Presbytery (to OC)",
-     "pdf_page": 744,
-     "printed_page": "742"
-    },
-    {
-     "type": "overture",
-     "number": 48,
-     "source": "Susquehanna Valley Presbytery (to OC)",
-     "pdf_page": 744,
-     "printed_page": "742"
-    },
-    {
-     "type": "overture",
-     "number": 49,
-     "source": "James River Presbytery (to OC)",
-     "pdf_page": 744,
-     "printed_page": "742"
-    },
-    {
-     "type": "overture",
-     "number": 50,
-     "source": "North Florida Presbytery (to OC)",
-     "pdf_page": 744,
-     "printed_page": "742"
-    },
-    {
-     "type": "overture",
-     "number": 51,
-     "source": "Platte Valley Presbytery (to OC)",
-     "pdf_page": 744,
-     "printed_page": "742"
-    },
-    {
-     "type": "overture",
-     "number": 52,
-     "source": "Lowcountry Presbytery (to OC)",
-     "pdf_page": 744,
-     "printed_page": "742"
-    },
-    {
-     "type": "overture",
-     "number": 53,
-     "source": "Northwest Georgia Presbytery (to OC)",
-     "pdf_page": 744,
-     "printed_page": "742"
-    },
-    {
-     "type": "overture",
-     "number": 54,
-     "source": "Calvary Presbytery (to CC)",
-     "pdf_page": 744,
-     "printed_page": "742"
-    },
-    {
-     "type": "overture",
-     "number": 55,
-     "source": "Mississippi Valley Presbytery (to OC)",
-     "pdf_page": 744,
-     "printed_page": "742"
-    },
-    {
-     "type": "overture",
-     "number": 56,
-     "source": "Evangel Presbytery (to OC)",
-     "pdf_page": 744,
-     "printed_page": "742"
+     "printed_page": 741
     },
     {
      "type": "overture",
      "number": 57,
      "source": "Central Indiana Presbytery (to OC)",
      "pdf_page": 745,
-     "printed_page": "743"
+     "printed_page": 743
     },
     {
      "type": "overture",
      "number": 58,
      "source": "Piedmont Triad Presbytery (to OC)",
      "pdf_page": 745,
-     "printed_page": "743"
+     "printed_page": 743
     },
     {
      "type": "overture",
      "number": 59,
      "source": "Gulf Coast Presbytery (to OC)",
      "pdf_page": 745,
-     "printed_page": "743"
+     "printed_page": 743
     },
     {
      "type": "overture",
      "number": 60,
      "source": "Session of Auburn Road Presbyterian",
      "pdf_page": 745,
-     "printed_page": "743"
+     "printed_page": 743
     },
     {
      "type": "overture",
      "number": 61,
      "source": "Illiana Presbytery (to MNA)",
      "pdf_page": 745,
-     "printed_page": "743"
+     "printed_page": 743
     },
     {
      "type": "overture",
      "number": 62,
      "source": "Northern Illinois Presbytery (to MNA)",
      "pdf_page": 745,
-     "printed_page": "743"
+     "printed_page": 743
     },
     {
      "type": "overture",
      "number": 63,
      "source": "Ohio Valley Presbytery (to OC)",
      "pdf_page": 745,
-     "printed_page": "743"
+     "printed_page": 743
     }
    ]
   }
  ],
  "overtures": [
   {
-   "number": 24,
-   "source": "Ohio Presbytery to \u201cForm Columbus Metropolitan",
-   "pdf_page": 46,
-   "printed_page": "44",
-   "in": "PART II",
-   "pages": [
-    46,
-    247
-   ]
-  },
-  {
    "number": 44,
-   "source": "Potomac Presbytery (to MNA)",
+   "source": "Potomac Presbytery (to MNA) \"Creation of PCA Unity Fund\"",
    "pdf_page": 48,
-   "printed_page": "46",
-   "in": "PART II",
+   "printed_page": 46,
+   "in": "PART I",
    "pages": [
     48,
     263,
-    650,
-    744
+    650
    ]
   },
   {
    "number": 54,
-   "source": "1 Calvary Presbytery (to CC)",
+   "source": "1 Calvary Presbytery (to CC) \u201cCommend Covenant College for Forfeiting Championship Tennis ",
    "pdf_page": 69,
-   "printed_page": "67",
-   "in": "PART II",
+   "printed_page": 67,
+   "in": "PART I",
    "pages": [
-    69,
-    670,
-    744
+    69
    ]
   },
   {
    "number": 1,
-   "source": "Heartland (\u201cSteps Toward Racial Reconciliation,\u201d",
+   "source": "Heartland (\u201cSteps Toward Racial Reconciliation,\"",
    "pdf_page": 76,
-   "printed_page": "74",
-   "in": "PART II",
+   "printed_page": 74,
+   "in": "PART I",
    "pages": [
     76
-   ]
-  },
-  {
-   "number": 4,
-   "source": "Missouri (\u201cConfession of Sin and Commitment to",
-   "pdf_page": 76,
-   "printed_page": "74",
-   "in": "PART II",
-   "pages": [
-    76
-   ]
-  },
-  {
-   "number": 6,
-   "source": "Chesapeake (\u201cConfession of Sin and Commitment",
-   "pdf_page": 76,
-   "printed_page": "74",
-   "in": "PART II",
-   "pages": [
-    76
-   ]
-  },
-  {
-   "number": 8,
-   "source": "Eastern Carolina (\u201cConfession of Sin and",
-   "pdf_page": 76,
-   "printed_page": "74",
-   "in": "PART II",
-   "pages": [
-    76
-   ]
-  },
-  {
-   "number": 9,
-   "source": "Tennessee Valley (\u201cConfession of Sin and",
-   "pdf_page": 76,
-   "printed_page": "74",
-   "in": "PART II",
-   "pages": [
-    76
-   ]
-  },
-  {
-   "number": 10,
-   "source": "Metropolitan New York (\u201cIn Support of",
-   "pdf_page": 76,
-   "printed_page": "74",
-   "in": "PART II",
-   "pages": [
-    76
-   ]
-  },
-  {
-   "number": 11,
-   "source": "Calvary (\u201cCall for Repentance and",
-   "pdf_page": 76,
-   "printed_page": "74",
-   "in": "PART II",
-   "pages": [
-    76
-   ]
-  },
-  {
-   "number": 12,
-   "source": "Pacific Northwest (\u201cConfession of Sin and",
-   "pdf_page": 76,
-   "printed_page": "74",
-   "in": "PART II",
-   "pages": [
-    76
-   ]
-  },
-  {
-   "number": 13,
-   "source": "Providence (\u201cConfession of Sin and",
-   "pdf_page": 76,
-   "printed_page": "74",
-   "in": "PART II",
-   "pages": [
-    76
-   ]
-  },
-  {
-   "number": 15,
-   "source": "Covenant (\u201cConfession of Sin and Commitment",
-   "pdf_page": 76,
-   "printed_page": "74",
-   "in": "PART II",
-   "pages": [
-    76
-   ]
-  },
-  {
-   "number": 16,
-   "source": "Blue Ridge (\u201cRepentance, Racial Reconciliation,",
-   "pdf_page": 76,
-   "printed_page": "74",
-   "in": "PART II",
-   "pages": [
-    76
-   ]
-  },
-  {
-   "number": 17,
-   "source": "Metro Atlanta (\u201cIn Support of Overture 4 from",
-   "pdf_page": 76,
-   "printed_page": "74",
-   "in": "PART II",
-   "pages": [
-    76
-   ]
-  },
-  {
-   "number": 18,
-   "source": "Heritage (\u201cConfessing Covenantal and",
-   "pdf_page": 76,
-   "printed_page": "74",
-   "in": "PART II",
-   "pages": [
-    76
-   ]
-  },
-  {
-   "number": 19,
-   "source": "Chicago Metro (\u201cConfession of Sin and",
-   "pdf_page": 76,
-   "printed_page": "74",
-   "in": "PART II",
-   "pages": [
-    76
-   ]
-  },
-  {
-   "number": 23,
-   "source": "Nashville (\u201cConfession of Sin and Commitment",
-   "pdf_page": 76,
-   "printed_page": "74",
-   "in": "PART II",
-   "pages": [
-    76
-   ]
-  },
-  {
-   "number": 27,
-   "source": "Rocky Mountain (\u201cConfession of Sin and",
-   "pdf_page": 76,
-   "printed_page": "74",
-   "in": "PART II",
-   "pages": [
-    76
-   ]
-  },
-  {
-   "number": 28,
-   "source": "North Texas (\u201cConfession of Sin and",
-   "pdf_page": 77,
-   "printed_page": "75",
-   "in": "PART II",
-   "pages": [
-    77
-   ]
-  },
-  {
-   "number": 29,
-   "source": "Pittsburgh (\u201cConfession of Sin and Commitment",
-   "pdf_page": 77,
-   "printed_page": "75",
-   "in": "PART II",
-   "pages": [
-    77
-   ]
-  },
-  {
-   "number": 30,
-   "source": "Suncoast Florida (\u201cIn Support of Overture 4",
-   "pdf_page": 77,
-   "printed_page": "75",
-   "in": "PART II",
-   "pages": [
-    77
-   ]
-  },
-  {
-   "number": 31,
-   "source": "Southern New England (\u201cConfession of Sin and",
-   "pdf_page": 77,
-   "printed_page": "75",
-   "in": "PART II",
-   "pages": [
-    77
-   ]
-  },
-  {
-   "number": 33,
-   "source": "New York State (\u201cIn Support of Overture 4 from",
-   "pdf_page": 77,
-   "printed_page": "75",
-   "in": "PART II",
-   "pages": [
-    77
-   ]
-  },
-  {
-   "number": 34,
-   "source": "Westminster (\u201cCall for Repentance and",
-   "pdf_page": 77,
-   "printed_page": "75",
-   "in": "PART II",
-   "pages": [
-    77
-   ]
-  },
-  {
-   "number": 35,
-   "source": "New Jersey (\u201cIn Support of Overture 4 from",
-   "pdf_page": 77,
-   "printed_page": "75",
-   "in": "PART II",
-   "pages": [
-    77
-   ]
-  },
-  {
-   "number": 41,
-   "source": "Korean Southwest Orange County Presbytery (to OC)",
-   "pdf_page": 77,
-   "printed_page": "75",
-   "in": "PART II",
-   "pages": [
-    77,
-    644,
-    743
-   ]
-  },
-  {
-   "number": 42,
-   "source": "Philadelphia (\u201cConfession of Sin and",
-   "pdf_page": 77,
-   "printed_page": "75",
-   "in": "PART II",
-   "pages": [
-    77
-   ]
-  },
-  {
-   "number": 46,
-   "source": "Northern California (\u201cConfession of Sin and",
-   "pdf_page": 77,
-   "printed_page": "75",
-   "in": "PART II",
-   "pages": [
-    77
-   ]
-  },
-  {
-   "number": 47,
-   "source": "Savannah River (\u201cIn Support of Overture 4 from",
-   "pdf_page": 77,
-   "printed_page": "75",
-   "in": "PART II",
-   "pages": [
-    77
-   ]
-  },
-  {
-   "number": 48,
-   "source": "Susquehanna Valley (\u201cConfession and",
-   "pdf_page": 77,
-   "printed_page": "75",
-   "in": "PART II",
-   "pages": [
-    77
-   ]
-  },
-  {
-   "number": 49,
-   "source": "James River (\u201cConfession of Sin and",
-   "pdf_page": 77,
-   "printed_page": "75",
-   "in": "PART II",
-   "pages": [
-    77
-   ]
-  },
-  {
-   "number": 50,
-   "source": "North Florida (\u201cSteps Toward Racial",
-   "pdf_page": 77,
-   "printed_page": "75",
-   "in": "PART II",
-   "pages": [
-    77
-   ]
-  },
-  {
-   "number": 51,
-   "source": "Platte Valley (\u201cConfession of Sin and",
-   "pdf_page": 77,
-   "printed_page": "75",
-   "in": "PART II",
-   "pages": [
-    77
-   ]
-  },
-  {
-   "number": 52,
-   "source": "Lowcountry (\u201cConfession of Sin and",
-   "pdf_page": 77,
-   "printed_page": "75",
-   "in": "PART II",
-   "pages": [
-    77
-   ]
-  },
-  {
-   "number": 53,
-   "source": "Northwest Georgia (\u201cLeading by Example in",
-   "pdf_page": 77,
-   "printed_page": "75",
-   "in": "PART II",
-   "pages": [
-    77
-   ]
-  },
-  {
-   "number": 55,
-   "source": "Mississippi Valley (\u201cConfession of the Sin of",
-   "pdf_page": 77,
-   "printed_page": "75",
-   "in": "PART II",
-   "pages": [
-    77
-   ]
-  },
-  {
-   "number": 56,
-   "source": "Evangel (\u201cIn Support of Overture 55 from",
-   "pdf_page": 78,
-   "printed_page": "76",
-   "in": "PART II",
-   "pages": [
-    78
-   ]
-  },
-  {
-   "number": 57,
-   "source": "Central Indiana (\u201cConfession of Sin and",
-   "pdf_page": 78,
-   "printed_page": "76",
-   "in": "PART II",
-   "pages": [
-    78
-   ]
-  },
-  {
-   "number": 58,
-   "source": "Piedmont Triad (\u201cConfession of Sin and",
-   "pdf_page": 78,
-   "printed_page": "76",
-   "in": "PART II",
-   "pages": [
-    78
-   ]
-  },
-  {
-   "number": 59,
-   "source": "Gulf Coast (\u201cAcknowledgment of Sin and",
-   "pdf_page": 78,
-   "printed_page": "76",
-   "in": "PART II",
-   "pages": [
-    78
-   ]
-  },
-  {
-   "number": 63,
-   "source": "Ohio Valley (\u201cIn Support of Overture 4 from",
-   "pdf_page": 78,
-   "printed_page": "76",
-   "in": "PART II",
-   "pages": [
-    78
-   ]
-  },
-  {
-   "number": 45,
-   "source": "Potomac Presbytery, \u201cForm Racial Reconciliation Study",
-   "pdf_page": 115,
-   "printed_page": "113",
-   "in": "Appendix C",
-   "pages": [
-    115
    ]
   },
   {
    "number": 24,
-   "source": "Ohio Presbytery (to MNA)",
+   "source": "Ohio Presbytery (to MNA) \u201cForm Columbus Metropolitan Presbytery\"",
    "pdf_page": 261,
-   "printed_page": "259",
+   "printed_page": 259,
    "in": "Appendix G",
    "pages": [
-    261,
-    621,
-    742
+    261
    ]
   },
   {
    "number": 61,
-   "source": "Illiana Presbytery (to MNA)",
+   "source": "Illiana Presbytery (to MNA) \u201cRestructure Boundary of Illiana Presbytery\"",
    "pdf_page": 265,
-   "printed_page": "263",
+   "printed_page": 263,
    "in": "Appendix G",
    "pages": [
     265,
-    705,
-    745
+    705
    ]
   },
   {
    "number": 62,
-   "source": "Northern Illinois Presbytery (to MNA)",
+   "source": "Northern Illinois Presbytery (to MNA) \u201cRestructure Boundary of Presbytery of Northern Illi",
    "pdf_page": 266,
-   "printed_page": "264",
+   "printed_page": 264,
    "in": "Appendix G",
    "pages": [
     266,
-    706,
-    745
-   ]
-  },
-  {
-   "number": 1,
-   "source": "Heartland Presbytery (to OC)",
-   "pdf_page": 572,
-   "printed_page": "570",
-   "in": "Appendix U",
-   "pages": [
-    572,
-    741
+    706
    ]
   },
   {
    "number": 3,
-   "source": "Chesapeake Presbytery (to CCB, OC)",
+   "source": "Chesapeake Presbytery (to CCB, OC) \u201cAmend BCO 15-3 to Allow Judicial Commission Minority R",
    "pdf_page": 577,
-   "printed_page": "575",
+   "printed_page": 575,
    "in": "Appendix U",
    "pages": [
-    577,
-    741
+    577
    ]
   },
   {
    "number": 4,
-   "source": "Missouri Presbytery (to OC)",
+   "source": "Missouri Presbytery (to OC) \u201cConfession of Sin and Commitment to Racial and Ethnic Diversi",
    "pdf_page": 580,
-   "printed_page": "578",
+   "printed_page": 578,
    "in": "Appendix U",
    "pages": [
-    580,
-    609,
-    741
+    580
    ]
   },
   {
    "number": 5,
-   "source": "Pittsburgh Presbytery (to CCB, OC)",
+   "source": "Pittsburgh Presbytery (to CCB, OC) \u201cAmend BCO 15-5.a and RAO 17-1, Paragraph 4, to Allow t",
    "pdf_page": 582,
-   "printed_page": "580",
+   "printed_page": 580,
    "in": "Appendix U",
    "pages": [
-    582,
-    741
+    582
    ]
   },
   {
    "number": 6,
-   "source": "Chesapeake Presbytery (to OC)",
+   "source": "Chesapeake Presbytery (to OC) \u201cConfession of Sin and Commitment to Racial and Ethnic Diver",
    "pdf_page": 586,
-   "printed_page": "584",
+   "printed_page": 584,
    "in": "Appendix U",
    "pages": [
-    586,
-    741
+    586
    ]
   },
   {
    "number": 7,
-   "source": "Grace Presbytery (to OC)",
+   "source": "Grace Presbytery (to OC) \"Petition Government Leaders to Insure Religious Liberty in Light",
    "pdf_page": 588,
-   "printed_page": "586",
+   "printed_page": 586,
    "in": "Appendix U",
    "pages": [
-    588,
-    741
+    588
    ]
   },
   {
    "number": 8,
-   "source": "Eastern Carolina Presbytery (to OC)",
+   "source": "Eastern Carolina Presbytery (to OC) \u201cConfession of Sin and Commitment to Racial and Ethnic",
    "pdf_page": 592,
-   "printed_page": "590",
+   "printed_page": 590,
    "in": "Appendix U",
    "pages": [
-    592,
-    741
+    592
    ]
   },
   {
    "number": 9,
-   "source": "Tennessee Valley Presbytery (to OC)",
+   "source": "Tennessee Valley Presbytery (to OC) \u201cConfession of Sin and Commitment to Racial and Ethnic",
    "pdf_page": 594,
-   "printed_page": "592",
+   "printed_page": 592,
    "in": "Appendix U",
    "pages": [
-    594,
-    741
+    594
    ]
   },
   {
    "number": 10,
-   "source": "Metropolitan New York Presbytery (to OC)",
+   "source": "Metropolitan New York Presbytery (to OC) \u201cIn Support of Overture 4 from Missouri Presbyter",
    "pdf_page": 596,
-   "printed_page": "594",
-   "in": "Appendix U",
-   "pages": [
-    596,
-    741
-   ]
-  },
-  {
-   "number": 4,
-   "source": "Missouri Presbytery on racism and the commitment to",
-   "pdf_page": 596,
-   "printed_page": "594",
+   "printed_page": 594,
    "in": "Appendix U",
    "pages": [
     596
@@ -3037,163 +1380,149 @@
   },
   {
    "number": 11,
-   "source": "Calvary Presbytery (to OC)",
+   "source": "Calvary Presbytery (to OC) \u201cCall for Repentance and Reconciliation\"",
    "pdf_page": 596,
-   "printed_page": "594",
+   "printed_page": 594,
    "in": "Appendix U",
    "pages": [
-    596,
-    741
+    596
    ]
   },
   {
    "number": 12,
-   "source": "Pacific Northwest Presbytery (to OC)",
+   "source": "Pacific Northwest Presbytery (to OC) \u201cConfession of Sin and Commitment to Racial and Ethni",
    "pdf_page": 598,
-   "printed_page": "596",
+   "printed_page": 596,
    "in": "Appendix U",
    "pages": [
-    598,
-    742
+    598
    ]
   },
   {
    "number": 13,
-   "source": "the Providence Presbytery (to OC)",
+   "source": "the Providence Presbytery (to OC) \u201cConfession of Sin and Commitment to Racial and Ethnic D",
    "pdf_page": 600,
-   "printed_page": "598",
+   "printed_page": 598,
    "in": "Appendix U",
    "pages": [
-    600,
-    742
+    600
    ]
   },
   {
    "number": 14,
-   "source": "Providence Presbytery (to CCB, OC)",
+   "source": "Providence Presbytery (to CCB, OC) \u201cAmend BCO 35-1 to Require Accused Officers to Testify\u201d",
    "pdf_page": 602,
-   "printed_page": "600",
+   "printed_page": 600,
    "in": "Appendix U",
    "pages": [
-    602,
-    742
+    602
    ]
   },
   {
    "number": 15,
-   "source": "Covenant Presbytery (to OC)",
+   "source": "Covenant Presbytery (to OC) \u201cConfession of Sin and Commitment to Racial and Ethnic Diversi",
    "pdf_page": 604,
-   "printed_page": "602",
+   "printed_page": 602,
    "in": "Appendix U",
    "pages": [
-    604,
-    742
-   ]
-  },
-  {
-   "number": 16,
-   "source": "Blue Ridge Presbytery (to OC)",
-   "pdf_page": 606,
-   "printed_page": "604",
-   "in": "Appendix U",
-   "pages": [
-    606,
-    742
+    604
    ]
   },
   {
    "number": 17,
-   "source": "Metro Atlanta Presbytery (to OC)",
+   "source": "Metro Atlanta Presbytery (to OC) \"In Support of Overture 4 from Missouri Presbytery\" Where",
    "pdf_page": 609,
-   "printed_page": "607",
+   "printed_page": 607,
    "in": "Appendix U",
    "pages": [
-    609,
-    742
+    609
    ]
   },
   {
    "number": 18,
-   "source": "Heritage Presbytery (to OC)",
+   "source": "Heritage Presbytery (to OC) \u201cConfessing Covenantal and Generational Sins during the Civil ",
    "pdf_page": 610,
-   "printed_page": "608",
+   "printed_page": 608,
    "in": "Appendix U",
    "pages": [
-    610,
-    742
+    610
    ]
   },
   {
    "number": 19,
-   "source": "Chicago Metro Presbytery (to OC)",
+   "source": "Chicago Metro Presbytery (to OC) \u201cConfession of Sin and Commitment to Racial and Ethnic Di",
    "pdf_page": 613,
-   "printed_page": "611",
+   "printed_page": 611,
    "in": "Appendix U",
    "pages": [
-    613,
-    742
+    613
    ]
   },
   {
    "number": 20,
-   "source": "Southwest Florida Presbytery (to MTW)",
+   "source": "Southwest Florida Presbytery (to MTW) \u201cErect Provisional Presbytery in Nicaragua\"",
    "pdf_page": 615,
-   "printed_page": "613",
+   "printed_page": 613,
    "in": "Appendix U",
    "pages": [
-    615,
-    742
+    615
    ]
   },
   {
    "number": 21,
-   "source": "Southwest Florida Presbytery (to OC)",
+   "source": "Southwest Florida Presbytery (to OC) \u201cMemorial for Ruling Elder W. Diehl Evans\"",
    "pdf_page": 617,
-   "printed_page": "615",
+   "printed_page": 615,
    "in": "Appendix U",
    "pages": [
-    617,
-    742
+    617
    ]
   },
   {
    "number": 22,
-   "source": "Southwest Florida Presbytery (to OC)",
+   "source": "Southwest Florida Presbytery (to OC) \u201cMemorial for Ruling Elder Henry Richard \u201cRip\u201d Darden",
    "pdf_page": 618,
-   "printed_page": "616",
+   "printed_page": 616,
    "in": "Appendix U",
    "pages": [
-    618,
-    742
+    618
    ]
   },
   {
    "number": 23,
-   "source": "Nashville Presbytery (to OC)",
+   "source": "Nashville Presbytery (to OC) \u201cConfession of Sin and Commitment to Racial and Ethnic Divers",
    "pdf_page": 619,
-   "printed_page": "617",
+   "printed_page": 617,
    "in": "Appendix U",
    "pages": [
-    619,
-    742
+    619
+   ]
+  },
+  {
+   "number": 24,
+   "source": "Ohio Presbytery (to MNA) \u201cForm Columbus Metropolitan Presbytery\" Whereas, a Presbytery's g",
+   "pdf_page": 621,
+   "printed_page": 619,
+   "in": "Appendix U",
+   "pages": [
+    621
    ]
   },
   {
    "number": 25,
-   "source": "Rocky Mountain Presbytery (to CCB, OC)",
+   "source": "Rocky Mountain Presbytery (to CCB, OC) \u201cAmend BCO 15-1; 15-2; Add new 15-4 and Renumber Su",
    "pdf_page": 622,
-   "printed_page": "620",
+   "printed_page": 620,
    "in": "Appendix U",
    "pages": [
-    622,
-    742
+    622
    ]
   },
   {
    "number": 26,
-   "source": "Rocky Mountain Presbytery (to OC)",
+   "source": "Rocky Mountain Presbytery (to OC) \u201cMemorial for TE Bill Leonard\u201d",
    "pdf_page": 625,
-   "printed_page": "623",
+   "printed_page": 623,
    "in": "Appendix U",
    "pages": [
     625
@@ -3201,75 +1530,69 @@
   },
   {
    "number": 27,
-   "source": "Rocky Mountain Presbytery (to OC)",
+   "source": "Rocky Mountain Presbytery (to OC) \u201cConfession of Sin and Commitment to Racial and Ethnic D",
    "pdf_page": 626,
-   "printed_page": "624",
+   "printed_page": 624,
    "in": "Appendix U",
    "pages": [
-    626,
-    742
+    626
    ]
   },
   {
    "number": 28,
-   "source": "North Texas Presbytery (to OC)",
+   "source": "North Texas Presbytery (to OC) \u201cConfession of Sin and Commitment to Racial and Ethnic Dive",
    "pdf_page": 628,
-   "printed_page": "626",
+   "printed_page": 626,
    "in": "Appendix U",
    "pages": [
-    628,
-    743
+    628
    ]
   },
   {
    "number": 29,
-   "source": "Pittsburgh Presbytery (to OC)",
+   "source": "Pittsburgh Presbytery (to OC) \u201cConfession of Sin and Commitment to Racial and Ethnic Diver",
    "pdf_page": 630,
-   "printed_page": "628",
+   "printed_page": 628,
    "in": "Appendix U",
    "pages": [
-    630,
-    743
+    630
+   ]
+  },
+  {
+   "number": 30,
+   "source": "Suncoast Florida Presbytery (to OC) \u201cIn Support of Overture 4 from Missouri Presbytery\u201d",
+   "pdf_page": 632,
+   "printed_page": 630,
+   "in": "Appendix U",
+   "pages": [
+    632
    ]
   },
   {
    "number": 31,
-   "source": "Southern New England Presbytery (to OC)",
+   "source": "Southern New England Presbytery (to OC) \u201cConfession of Sin and Commitment to Racial and Et",
    "pdf_page": 632,
-   "printed_page": "630",
+   "printed_page": 630,
    "in": "Appendix U",
    "pages": [
-    632,
-    743
+    632
    ]
   },
   {
    "number": 32,
-   "source": "James River Presbytery (to OC)",
+   "source": "James River Presbytery (to OC) \u201cA Day of Prayer and Fasting\"",
    "pdf_page": 634,
-   "printed_page": "632",
+   "printed_page": 632,
    "in": "Appendix U",
    "pages": [
-    634,
-    743
+    634
    ]
   },
   {
    "number": 33,
-   "source": "New York State Presbytery (to OC)",
+   "source": "New York State Presbytery (to OC) \"In Support of Overture 4 from Missouri Presbytery\"",
    "pdf_page": 635,
-   "printed_page": "633",
-   "in": "Appendix U",
-   "pages": [
-    635,
-    743
-   ]
-  },
-  {
-   "number": 4,
-   "source": "Missouri Presbytery on racism and racial reconciliation;",
-   "pdf_page": 635,
-   "printed_page": "633",
+   "printed_page": 633,
    "in": "Appendix U",
    "pages": [
     635
@@ -3277,64 +1600,59 @@
   },
   {
    "number": 34,
-   "source": "Westminster Presbytery (to OC)",
+   "source": "Westminster Presbytery (to OC) \"Call for Repentance and Reconciliation\"",
    "pdf_page": 635,
-   "printed_page": "633",
+   "printed_page": 633,
    "in": "Appendix U",
    "pages": [
-    635,
-    743
+    635
    ]
   },
   {
    "number": 35,
-   "source": "New Jersey Presbytery (to OC)",
+   "source": "New Jersey Presbytery (to OC) \"In Support of Overture 4 from Missouri Presbytery\"",
    "pdf_page": 637,
-   "printed_page": "635",
+   "printed_page": 635,
    "in": "Appendix U",
    "pages": [
-    637,
-    743
+    637
    ]
   },
   {
    "number": 36,
-   "source": "Pacific Northwest Presbytery (to CCB, OC)",
+   "source": "Pacific Northwest Presbytery (to CCB, OC) \u201cAmend RAO 13-2 on the Procedure for Considering",
    "pdf_page": 637,
-   "printed_page": "635",
+   "printed_page": 635,
    "in": "Appendix U",
    "pages": [
-    637,
-    743
+    637
    ]
   },
   {
    "number": 37,
-   "source": "Pacific Northwest Presbytery (to CCB, OC)",
+   "source": "Pacific Northwest Presbytery (to CCB, OC) \u201cAmend BCO 13-2 to Add Requirement for Annual Re",
    "pdf_page": 639,
-   "printed_page": "637",
+   "printed_page": 637,
    "in": "Appendix U",
    "pages": [
-    639,
-    743
+    639
    ]
   },
   {
    "number": 38,
-   "source": "Pacific Northwest Presbytery (to CCB, OC)",
+   "source": "Pacific Northwest Presbytery (to CCB, OC) \u201cAmend BCO 5-3 to Add an Explicit Requirement fo",
    "pdf_page": 640,
-   "printed_page": "638",
+   "printed_page": 638,
    "in": "Appendix U",
    "pages": [
-    640,
-    743
+    640
    ]
   },
   {
    "number": 39,
    "source": "Pacific Northwest Presbytery (to CCB, OC)",
    "pdf_page": 641,
-   "printed_page": "639",
+   "printed_page": 639,
    "in": "Appendix U",
    "pages": [
     641,
@@ -3345,7 +1663,7 @@
    "number": 40,
    "source": "Pacific Northwest Presbytery (to CCB, OC)",
    "pdf_page": 643,
-   "printed_page": "641",
+   "printed_page": 641,
    "in": "Appendix U",
    "pages": [
     643,
@@ -3353,186 +1671,190 @@
    ]
   },
   {
-   "number": 42,
-   "source": "Philadelphia Presbytery (to OC)",
-   "pdf_page": 646,
-   "printed_page": "644",
+   "number": 41,
+   "source": "Korean Southwest Orange County Presbytery (to OC) \u201cConfession of Sin and Commitment to Rac",
+   "pdf_page": 644,
+   "printed_page": 642,
    "in": "Appendix U",
    "pages": [
-    646,
-    744
+    644
+   ]
+  },
+  {
+   "number": 42,
+   "source": "Philadelphia Presbytery (to OC) \u201cConfession of Sin and Commitment to Racial and Ethnic Div",
+   "pdf_page": 646,
+   "printed_page": 644,
+   "in": "Appendix U",
+   "pages": [
+    646
    ]
   },
   {
    "number": 43,
-   "source": "Potomac Presbytery (to OC)",
+   "source": "Potomac Presbytery (to OC) \"Pursuing Racial Reconciliation and the Advance of the Gospel\"",
    "pdf_page": 648,
-   "printed_page": "646",
+   "printed_page": 646,
    "in": "Appendix U",
    "pages": [
-    648,
-    744
+    648
    ]
   },
   {
    "number": 45,
-   "source": "Potomac Presbytery (to OC, AC)",
+   "source": "Potomac Presbytery (to OC, AC) \"Form Racial Reconciliation Study Committee\"",
    "pdf_page": 651,
-   "printed_page": "649",
+   "printed_page": 649,
    "in": "Appendix U",
    "pages": [
-    651,
-    744
+    651
    ]
   },
   {
    "number": 46,
-   "source": "Northern California Presbytery (to OC)",
+   "source": "Northern California Presbytery (to OC) \u201cConfession of Sin and Commitment to Racial and Eth",
    "pdf_page": 652,
-   "printed_page": "650",
+   "printed_page": 650,
    "in": "Appendix U",
    "pages": [
-    652,
-    744
+    652
    ]
   },
   {
    "number": 47,
-   "source": "Savannah River Presbytery (to OC)",
+   "source": "Savannah River Presbytery (to OC) \u201cIn Support of Overture 4 from Missouri Presbytery\u201d",
    "pdf_page": 654,
-   "printed_page": "652",
+   "printed_page": 652,
    "in": "Appendix U",
    "pages": [
-    654,
-    744
+    654
    ]
   },
   {
    "number": 48,
-   "source": "Susquehanna Valley Presbytery (to OC)",
+   "source": "Susquehanna Valley Presbytery (to OC) \u201cConfession and Commitment to Action\u201d",
    "pdf_page": 655,
-   "printed_page": "653",
+   "printed_page": 653,
    "in": "Appendix U",
    "pages": [
-    655,
-    744
+    655
    ]
   },
   {
    "number": 49,
-   "source": "James River Presbytery (to OC)",
+   "source": "James River Presbytery (to OC) \u201cConfession of Sin and Commitment to Racial and Ethnic Dive",
    "pdf_page": 657,
-   "printed_page": "655",
+   "printed_page": 655,
    "in": "Appendix U",
    "pages": [
-    657,
-    744
+    657
    ]
   },
   {
    "number": 50,
-   "source": "North Florida Presbytery (to OC)",
+   "source": "North Florida Presbytery (to OC) \u201cSteps Toward Racial Reconciliation, North Florida Presby",
    "pdf_page": 660,
-   "printed_page": "658",
+   "printed_page": 658,
    "in": "Appendix U",
    "pages": [
-    660,
-    744
+    660
    ]
   },
   {
    "number": 51,
-   "source": "Platte Valley Presbytery (to OC)",
+   "source": "Platte Valley Presbytery (to OC) \u201cConfession of Sin and Commitment to Racial and Ethnic Di",
    "pdf_page": 662,
-   "printed_page": "660",
+   "printed_page": 660,
    "in": "Appendix U",
    "pages": [
-    662,
-    744
+    662
    ]
   },
   {
    "number": 52,
-   "source": "Lowcountry Presbytery (to OC)",
+   "source": "Lowcountry Presbytery (to OC) \u201cConfession of Sin and Commitment to Racial and Ethnic Diver",
    "pdf_page": 664,
-   "printed_page": "662",
+   "printed_page": 662,
    "in": "Appendix U",
    "pages": [
-    664,
-    744
+    664
    ]
   },
   {
    "number": 53,
-   "source": "Northwest Georgia Presbytery (to OC)",
+   "source": "Northwest Georgia Presbytery (to OC) \u201cLeading by Example in Repentance First\"",
    "pdf_page": 666,
-   "printed_page": "664",
+   "printed_page": 664,
    "in": "Appendix U",
    "pages": [
-    666,
-    744
+    666
+   ]
+  },
+  {
+   "number": 54,
+   "source": "Calvary Presbytery (to CC) \u201cCommend Covenant College for Forfeiting Championship Tennis Ma",
+   "pdf_page": 670,
+   "printed_page": 668,
+   "in": "Appendix U",
+   "pages": [
+    670
    ]
   },
   {
    "number": 55,
-   "source": "Mississippi Valley Presbytery (to OC)",
+   "source": "Mississippi Valley Presbytery (to OC) \u201cConfession of the Sin of Racism, and Commitment to ",
    "pdf_page": 671,
-   "printed_page": "669",
+   "printed_page": 669,
    "in": "Appendix U",
    "pages": [
-    671,
-    744
+    671
    ]
   },
   {
    "number": 56,
-   "source": "Evangel Presbytery (to OC)",
+   "source": "Evangel Presbytery (to OC) \u201cIn Support of Overture 55 from Mississippi Valley Presbytery\"",
    "pdf_page": 697,
-   "printed_page": "695",
+   "printed_page": 695,
    "in": "Appendix U",
    "pages": [
-    697,
-    744
+    697
    ]
   },
   {
    "number": 57,
-   "source": "Central Indiana Presbytery (to OC)",
+   "source": "Central Indiana Presbytery (to OC) \u201cConfession of Sin and Commitment to Racial and Ethnic ",
    "pdf_page": 698,
-   "printed_page": "696",
+   "printed_page": 696,
    "in": "Appendix U",
    "pages": [
-    698,
-    745
+    698
    ]
   },
   {
    "number": 58,
-   "source": "Piedmont Triad Presbytery (to OC)",
+   "source": "Piedmont Triad Presbytery (to OC) \u201cConfession of Sin and Commitment to Racial and Ethnic D",
    "pdf_page": 700,
-   "printed_page": "698",
+   "printed_page": 698,
    "in": "Appendix U",
    "pages": [
-    700,
-    745
+    700
    ]
   },
   {
    "number": 59,
-   "source": "Gulf Coast Presbytery (to OC)",
+   "source": "Gulf Coast Presbytery (to OC) \u201cAcknowledgment of Sin and Recommitment to Model our Unity i",
    "pdf_page": 702,
-   "printed_page": "700",
+   "printed_page": 700,
    "in": "Appendix U",
    "pages": [
-    702,
-    745
+    702
    ]
   },
   {
    "number": 60,
    "source": "the Session of Auburn Road Presbyterian",
    "pdf_page": 704,
-   "printed_page": "702",
+   "printed_page": 702,
    "in": "Appendix U",
    "pages": [
     704,
@@ -3541,33 +1863,192 @@
   },
   {
    "number": 63,
-   "source": "Ohio Valley Presbytery (to OC)",
+   "source": "Ohio Valley Presbytery (to OC) \u201cIn Support of Overture 4 from Missouri Presbytery\"",
    "pdf_page": 707,
-   "printed_page": "705",
+   "printed_page": 705,
    "in": "Appendix U",
    "pages": [
-    707,
+    707
+   ]
+  },
+  {
+   "number": 28,
+   "source": "North Texas Presbytery (to OC)",
+   "pdf_page": 743,
+   "printed_page": 741,
+   "in": "PART IV",
+   "pages": [
+    743
+   ]
+  },
+  {
+   "number": 29,
+   "source": "Pittsburgh Presbytery (to OC)",
+   "pdf_page": 743,
+   "printed_page": 741,
+   "in": "PART IV",
+   "pages": [
+    743
+   ]
+  },
+  {
+   "number": 30,
+   "source": "Suncoast Florida Presbytery (to OC)",
+   "pdf_page": 743,
+   "printed_page": 741,
+   "in": "PART IV",
+   "pages": [
+    743
+   ]
+  },
+  {
+   "number": 31,
+   "source": "Southern New England Presbytery (to OC)",
+   "pdf_page": 743,
+   "printed_page": 741,
+   "in": "PART IV",
+   "pages": [
+    743
+   ]
+  },
+  {
+   "number": 32,
+   "source": "James River Presbytery (to OC)",
+   "pdf_page": 743,
+   "printed_page": 741,
+   "in": "PART IV",
+   "pages": [
+    743
+   ]
+  },
+  {
+   "number": 33,
+   "source": "New York State Presbytery (to OC)",
+   "pdf_page": 743,
+   "printed_page": 741,
+   "in": "PART IV",
+   "pages": [
+    743
+   ]
+  },
+  {
+   "number": 34,
+   "source": "Westminster Presbytery (to OC)",
+   "pdf_page": 743,
+   "printed_page": 741,
+   "in": "PART IV",
+   "pages": [
+    743
+   ]
+  },
+  {
+   "number": 35,
+   "source": "New Jersey Presbytery (to OC)",
+   "pdf_page": 743,
+   "printed_page": 741,
+   "in": "PART IV",
+   "pages": [
+    743
+   ]
+  },
+  {
+   "number": 36,
+   "source": "Pacific Northwest Presbytery (to CCB, OC)",
+   "pdf_page": 743,
+   "printed_page": 741,
+   "in": "PART IV",
+   "pages": [
+    743
+   ]
+  },
+  {
+   "number": 37,
+   "source": "Pacific Northwest Presbytery (to CCB, OC)",
+   "pdf_page": 743,
+   "printed_page": 741,
+   "in": "PART IV",
+   "pages": [
+    743
+   ]
+  },
+  {
+   "number": 38,
+   "source": "Pacific Northwest Presbytery (to CCB, OC)",
+   "pdf_page": 743,
+   "printed_page": 741,
+   "in": "PART IV",
+   "pages": [
+    743
+   ]
+  },
+  {
+   "number": 41,
+   "source": "Korean Southwest Orange County Presbytery (to OC)",
+   "pdf_page": 743,
+   "printed_page": 741,
+   "in": "PART IV",
+   "pages": [
+    743
+   ]
+  },
+  {
+   "number": 57,
+   "source": "Central Indiana Presbytery (to OC)",
+   "pdf_page": 745,
+   "printed_page": 743,
+   "in": "PART IV",
+   "pages": [
     745
    ]
   },
   {
-   "number": 2,
-   "source": "Pacific Northwest Presbytery (Revised) (to SJC)",
-   "pdf_page": 741,
-   "printed_page": "739",
-   "in": "PART V",
+   "number": 58,
+   "source": "Piedmont Triad Presbytery (to OC)",
+   "pdf_page": 745,
+   "printed_page": 743,
+   "in": "PART IV",
    "pages": [
-    741
+    745
    ]
   },
   {
-   "number": 26,
-   "source": "Rocky Mountain Presbytery (to OC",
-   "pdf_page": 742,
-   "printed_page": "740",
-   "in": "PART V",
+   "number": 59,
+   "source": "Gulf Coast Presbytery (to OC)",
+   "pdf_page": 745,
+   "printed_page": 743,
+   "in": "PART IV",
    "pages": [
-    742
+    745
+   ]
+  },
+  {
+   "number": 61,
+   "source": "Illiana Presbytery (to MNA)",
+   "pdf_page": 745,
+   "printed_page": 743,
+   "in": "PART IV",
+   "pages": [
+    745
+   ]
+  },
+  {
+   "number": 62,
+   "source": "Northern Illinois Presbytery (to MNA)",
+   "pdf_page": 745,
+   "printed_page": 743,
+   "in": "PART IV",
+   "pages": [
+    745
+   ]
+  },
+  {
+   "number": 63,
+   "source": "Ohio Valley Presbytery (to OC)",
+   "pdf_page": 745,
+   "printed_page": 743,
+   "in": "PART IV",
+   "pages": [
+    745
    ]
   }
  ]

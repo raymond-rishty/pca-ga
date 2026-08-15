@@ -1,0 +1,22 @@
+{
+  "cases/ga50_2023__2022-08.md": [
+    {"page": 890, "start": "### CASE No. 2022-08"},
+    {"page": 891, "end": "### CASE No. 2022-09"}
+  ],
+  "cases/ga50_2023__2022-09.md": [
+    {"page": 891, "start": "### CASE No. 2022-09"},
+    {"page": 892, "end": "### CASE No. 2022-10"}
+  ],
+  "cases/ga50_2023__2022-11.md": [
+    {"page": 926, "start": "### CASE No. 2022-11"}
+  ],
+  "cases/ga50_2023__2022-14.md": [
+    {"page": 931, "start": "### CASE No. 2022-14"}
+  ],
+  "cases/ga50_2023__2022-15.md": [
+    {"page": 932, "start": "## CASE No. 2022-15", "end": "### CASE No. 2022-16"}
+  ],
+  "cases/ga50_2023__2022-17.md": [
+    {"page": 933, "start": "### CASE Nos. 2022-17, 18, and 19"}
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "cases/ga20_1992__1991-06.md": "The corrected page is a shared status/index paragraph containing both 91-6 and 92-1; the boundary cannot be isolated without inventing paragraph breaks.",
+  "cases/ga20_1992__1992-02.md": "The corrected page continues directly into the Lovelace judicial case; the Roberts status entry cannot be isolated deterministically from the merged OCR paragraph.",
+  "cases/ga21_1993__1993-01.md": "The corrected page continues directly into the next numbered case; the Smith status entry cannot be isolated deterministically from the merged OCR paragraph.",
+  "cases/ga21_1993__1993-02.md": "The corrected page continues directly into recommendations and the next judicial case; the Johnson status entry cannot be isolated deterministically from the merged OCR paragraph.",
+  "cases/ga26_1998__1996-06.md": "The corrected page is a merged case index list; the Williams entry cannot be isolated as a case document without structural evidence.",
+  "cases/ga28_2000__2000-02.md": "The corrected page is a merged case index/status report; the Adams entry cannot be isolated as a case document without structural evidence.",
+  "cases/ga30_2002__2002-02_2002-03.md": "The corrected pages are a merged judicial-case index/status report, not an isolated Nichols/Couch case document.",
+  "cases/ga38_2010__2010-05_2010-06.md": "The corrected pages are a merged SJC case-status report; the two indexed entries cannot be isolated as case documents from the surrounding case list.",
+  "cases/ga09_1981__case1.md": "The corrected middle page contains the next two case headings before the indexed case resumes on later pages; the case boundary cannot be isolated from the merged page text.",
+  "cases/ga10_1982__case5.md": "The corrected adjudication page contains Case 4 immediately before Case 5; the indexed Case 5 extract cannot safely include the shared page without importing Case 4.",
+  "cases/ga26_1998__1997-14_1997-15.md": "The corrected page contains Case 97-16 immediately after Cases 97-14 and 97-15; the indexed pair cannot be isolated from the merged page text.",
+  "cases/ga44_2016__2015-03.md": "The corrected page continues directly into Case 2015-04; the 2015-03 boundary cannot be isolated from the merged page text.",
+  "cases/ga46_2018__2016-10.md": "The corrected page continues directly into Case 2016-11; the 2016-10 boundary cannot be isolated from the merged page text."
+}

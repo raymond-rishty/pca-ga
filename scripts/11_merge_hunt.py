@@ -12,11 +12,12 @@ CLI:  11_merge_hunt.py            # merge found/*.json into cases.jsonl
 from __future__ import annotations
 import glob, importlib, json, os, re, sys
 
-sys.path.insert(0, "/workspace/scripts")
+HERE = os.path.dirname(os.path.abspath(__file__))
+sys.path.insert(0, HERE)
 conc = importlib.import_module("bco_concordance")
 rec09 = importlib.import_module("09_reconcile_roster")
 
-ROOT = "/workspace"
+ROOT = os.environ.get("PCA_GA_ROOT", os.path.dirname(HERE))
 CASES = ROOT + "/index/cases.jsonl"
 FOUND = ROOT + "/index/hunt/found"
 ROSTER = ROOT + "/index/sjc_official/roster.jsonl"

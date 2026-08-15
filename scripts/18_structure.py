@@ -20,7 +20,7 @@ PART dividers are anchored on CANONICAL titles so a committee report that intern
 from __future__ import annotations
 import glob, importlib.util, json, os, re, sys
 
-ROOT = "/workspace"
+ROOT = os.environ.get("PCA_GA_ROOT", os.getcwd())
 PJ = os.path.join(ROOT, "build", "page_jsonl")
 OUT = os.path.join(ROOT, "index", "structure")
 
@@ -114,7 +114,8 @@ _NUM_NAME = {v: k for k, v in _ROMAN.items()}
 
 
 def extract(vol):
-    rows = [json.loads(l) for l in open(os.path.join(PJ, f"{vol}.pages.jsonl"))]
+    rows = [json.loads(l) for l in open(
+        os.path.join(PJ, f"{vol}.pages.jsonl"), encoding="utf-8")]
     ordn, year = (int(x) for x in re.match(r"ga(\d+)_(\d+)", vol).groups())
     pnum = re.compile(r"^\s*#*\s*\**\s*%d-(\d+)\b[*\s.:—-]*(.*)$" % ordn)
 
