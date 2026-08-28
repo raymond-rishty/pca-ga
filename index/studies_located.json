@@ -302,10 +302,10 @@
     "title": "Interchurch Relations: A Resolution (1973)",
     "kind": "resolution",
     "level": 0,
-    "line_start": 1386,
-    "line_end": 1422,
-    "anchor_start": "ga01-p26",
-    "anchor_end": "ga01-p27",
+    "line_start": 1389,
+    "line_end": 1425,
+    "anchor_start": "ga01-p28",
+    "anchor_end": "ga01-p28",
     "printed_pages": [],
     "n_lines": 37,
     "is_minority": false,
@@ -313,7 +313,19 @@
     "needs_locate": false,
     "source": "roster_supplement",
     "provenance_class": "minutes_located",
-    "note": "Located via pcahistory fingerprint; verbatim in the minutes."
+    "note": "Located via pcahistory fingerprint; verbatim in the minutes.",
+    "legacy_locator": {
+      "line_start": 1386,
+      "line_end": 1422,
+      "anchor_start": "ga01-p26",
+      "anchor_end": "ga01-p27"
+    },
+    "relocation": {
+      "script": "46_relocate_sources.py",
+      "old_ref": "HEAD",
+      "method": "page_bounded_token_lcs",
+      "score": 1.0
+    }
   },
   {
     "vol": "ga01_1973",
@@ -322,10 +334,10 @@
     "title": "The Mission and Purpose of the PCA (1973)",
     "kind": "statement",
     "level": 0,
-    "line_start": 2348,
-    "line_end": 2396,
-    "anchor_start": "ga01-p43",
-    "anchor_end": "ga01-p44",
+    "line_start": 2350,
+    "line_end": 2398,
+    "anchor_start": "ga01-p67",
+    "anchor_end": "ga01-p67",
     "printed_pages": [],
     "n_lines": 49,
     "is_minority": false,
@@ -333,7 +345,19 @@
     "needs_locate": false,
     "source": "roster_supplement",
     "provenance_class": "minutes_located",
-    "note": "Located via pcahistory fingerprint."
+    "note": "Located via pcahistory fingerprint.",
+    "legacy_locator": {
+      "line_start": 2348,
+      "line_end": 2396,
+      "anchor_start": "ga01-p43",
+      "anchor_end": "ga01-p44"
+    },
+    "relocation": {
+      "script": "46_relocate_sources.py",
+      "old_ref": "HEAD",
+      "method": "page_bounded_token_lcs",
+      "score": 1.0
+    }
   },
   {
     "vol": "ga01_1973",
@@ -342,10 +366,10 @@
     "title": "Women in the Church (WIC)",
     "kind": "report",
     "level": 0,
-    "line_start": 3255,
-    "line_end": 3376,
-    "anchor_start": "ga01-p58",
-    "anchor_end": "ga01-p59",
+    "line_start": 3259,
+    "line_end": 3380,
+    "anchor_start": "ga01-p101",
+    "anchor_end": "ga01-p101",
     "printed_pages": [],
     "n_lines": 122,
     "is_minority": false,
@@ -353,7 +377,19 @@
     "needs_locate": false,
     "source": "roster_supplement",
     "provenance_class": "minutes_located",
-    "note": "1st GA 1973, action 1-77, p.58; located via pcahistory fingerprint."
+    "note": "1st GA 1973, action 1-77, p.58; located via pcahistory fingerprint.",
+    "legacy_locator": {
+      "line_start": 3255,
+      "line_end": 3376,
+      "anchor_start": "ga01-p58",
+      "anchor_end": "ga01-p59"
+    },
+    "relocation": {
+      "script": "46_relocate_sources.py",
+      "old_ref": "HEAD",
+      "method": "page_bounded_token_lcs",
+      "score": 1.0
+    }
   },
   {
     "vol": "ga02_1974",
@@ -362,16 +398,28 @@
     "title": "RESOLUTION ON THE BAPTISM OF THE HOLY SPIRIT",
     "kind": "resolution",
     "level": 3,
-    "line_start": 1532,
-    "line_end": 1562,
-    "anchor_start": "ga02-p26",
-    "anchor_end": "ga02-p26",
+    "line_start": 1533,
+    "line_end": 1563,
+    "anchor_start": "ga02-p42",
+    "anchor_end": "ga02-p42",
     "printed_pages": [],
     "n_lines": 31,
     "is_minority": false,
     "end_reason": "next_appendix",
     "needs_locate": false,
-    "provenance_class": "minutes_located"
+    "provenance_class": "minutes_located",
+    "legacy_locator": {
+      "line_start": 1532,
+      "line_end": 1562,
+      "anchor_start": "ga02-p26",
+      "anchor_end": "ga02-p26"
+    },
+    "relocation": {
+      "script": "46_relocate_sources.py",
+      "old_ref": "HEAD",
+      "method": "page_bounded_token_lcs",
+      "score": 1.0
+    }
   },
   {
     "vol": "ga02_1974",
@@ -463,8 +511,8 @@
     "level": 0,
     "line_start": 5150,
     "line_end": 5162,
-    "anchor_start": "ga05-p70",
-    "anchor_end": "ga05-p70",
+    "anchor_start": "ga05-p188",
+    "anchor_end": "ga05-p188",
     "printed_pages": [],
     "n_lines": 13,
     "is_minority": false,
@@ -472,7 +520,19 @@
     "needs_locate": false,
     "source": "roster_supplement",
     "provenance_class": "minutes_located",
-    "note": "Adopted as amended at the 5th GA (Rev. Fred Carr); the PCA's foundational homosexuality position."
+    "note": "Adopted as amended at the 5th GA (Rev. Fred Carr); the PCA's foundational homosexuality position.",
+    "legacy_locator": {
+      "line_start": 5150,
+      "line_end": 5162,
+      "anchor_start": "ga05-p70",
+      "anchor_end": "ga05-p70"
+    },
+    "relocation": {
+      "script": "46_relocate_sources.py",
+      "old_ref": "HEAD",
+      "method": "page_bounded_token_lcs",
+      "score": 1.0
+    }
   },
   {
     "vol": "ga05_1977",
@@ -667,16 +727,28 @@
     "title": "REPORT OF THE AD-INTERIM COMMITTEE TO STUDY THE QUESTION OF THE NUMBER OF OFFICES IN THE CHURCH TO THE FIFTH GENERAL ASSEMBLY",
     "kind": "report",
     "level": 2,
-    "line_start": 3816,
-    "line_end": 4096,
-    "anchor_start": "ga07-p52",
-    "anchor_end": "ga07-p59",
+    "line_start": 3817,
+    "line_end": 4097,
+    "anchor_start": "ga07-p138",
+    "anchor_end": "ga07-p138",
     "printed_pages": [],
     "n_lines": 281,
     "is_minority": false,
     "end_reason": "next_document",
     "needs_locate": false,
-    "provenance_class": "minutes_located"
+    "provenance_class": "minutes_located",
+    "legacy_locator": {
+      "line_start": 3816,
+      "line_end": 4096,
+      "anchor_start": "ga07-p52",
+      "anchor_end": "ga07-p59"
+    },
+    "relocation": {
+      "script": "46_relocate_sources.py",
+      "old_ref": "HEAD",
+      "method": "page_bounded_token_lcs",
+      "score": 1.0
+    }
   },
   {
     "vol": "ga07_1979",
@@ -685,16 +757,28 @@
     "title": "REPORT OF THE AD INTERIM THEOLOGICAL COMMITTEE ON DIVORCE",
     "kind": "report",
     "level": 2,
-    "line_start": 4097,
-    "line_end": 4208,
-    "anchor_start": "ga07-p59",
-    "anchor_end": "ga07-p61",
+    "line_start": 4103,
+    "line_end": 4214,
+    "anchor_start": "ga07-p151",
+    "anchor_end": "ga07-p151",
     "printed_pages": [],
     "n_lines": 112,
     "is_minority": false,
     "end_reason": "journal_resume",
     "needs_locate": false,
-    "provenance_class": "minutes_located"
+    "provenance_class": "minutes_located",
+    "legacy_locator": {
+      "line_start": 4097,
+      "line_end": 4208,
+      "anchor_start": "ga07-p59",
+      "anchor_end": "ga07-p61"
+    },
+    "relocation": {
+      "script": "46_relocate_sources.py",
+      "old_ref": "HEAD",
+      "method": "page_bounded_token_lcs",
+      "score": 0.9902
+    }
   },
   {
     "vol": "ga07_1979",
@@ -723,10 +807,10 @@
     "title": "Statement on the Beverage Use of Alcohol (Temperance)",
     "kind": "statement",
     "level": 0,
-    "line_start": 5600,
-    "line_end": 5611,
-    "anchor_start": "ga08-p100",
-    "anchor_end": "ga08-p100",
+    "line_start": 5601,
+    "line_end": 5612,
+    "anchor_start": "ga08-p193",
+    "anchor_end": "ga08-p193",
     "printed_pages": [],
     "n_lines": 12,
     "is_minority": false,
@@ -734,7 +818,19 @@
     "needs_locate": false,
     "source": "roster_supplement",
     "provenance_class": "minutes_located",
-    "note": "Adopted statement answering Overture 11; M8GA 8-69 III p.98. Start corrected to 5600 (body of statement); line 5598 was recommendation preamble '4b. That the General Assembly adopt…'."
+    "note": "Adopted statement answering Overture 11; M8GA 8-69 III p.98. Start corrected to 5600 (body of statement); line 5598 was recommendation preamble '4b. That the General Assembly adopt…'.",
+    "legacy_locator": {
+      "line_start": 5600,
+      "line_end": 5611,
+      "anchor_start": "ga08-p100",
+      "anchor_end": "ga08-p100"
+    },
+    "relocation": {
+      "script": "46_relocate_sources.py",
+      "old_ref": "HEAD",
+      "method": "page_bounded_token_lcs",
+      "score": 1.0
+    }
   },
   {
     "vol": "ga09_1981",
@@ -889,16 +985,28 @@
     "title": "A MESSAGE TO ALL CHURCHES OF JESUS CHRIST",
     "kind": "message",
     "level": 7,
-    "line_start": 1966,
-    "line_end": 2000,
-    "anchor_start": "ga14-p36",
-    "anchor_end": "ga14-p36",
+    "line_start": 1967,
+    "line_end": 2001,
+    "anchor_start": "ga14-p37",
+    "anchor_end": "ga14-p37",
     "printed_pages": [],
     "n_lines": 35,
     "is_minority": false,
     "end_reason": "next_appendix",
     "needs_locate": false,
-    "provenance_class": "minutes_located"
+    "provenance_class": "minutes_located",
+    "legacy_locator": {
+      "line_start": 1966,
+      "line_end": 2000,
+      "anchor_start": "ga14-p36",
+      "anchor_end": "ga14-p36"
+    },
+    "relocation": {
+      "script": "46_relocate_sources.py",
+      "old_ref": "HEAD",
+      "method": "page_bounded_token_lcs",
+      "score": 1.0
+    }
   },
   {
     "vol": "ga14_1986",
@@ -909,8 +1017,8 @@
     "level": 0,
     "line_start": 15426,
     "line_end": 15604,
-    "anchor_start": "ga14-p302",
-    "anchor_end": "ga14-p305",
+    "anchor_start": "ga14-p506",
+    "anchor_end": "ga14-p506",
     "printed_pages": [],
     "n_lines": 179,
     "is_minority": false,
@@ -918,7 +1026,19 @@
     "needs_locate": false,
     "source": "roster_supplement",
     "provenance_class": "minutes_located",
-    "note": "Koop's address delivered to the 14th GA, printed in the minutes."
+    "note": "Koop's address delivered to the 14th GA, printed in the minutes.",
+    "legacy_locator": {
+      "line_start": 15426,
+      "line_end": 15604,
+      "anchor_start": "ga14-p302",
+      "anchor_end": "ga14-p305"
+    },
+    "relocation": {
+      "script": "46_relocate_sources.py",
+      "old_ref": "HEAD",
+      "method": "page_bounded_token_lcs",
+      "score": 1.0
+    }
   },
   {
     "vol": "ga14_1986",
@@ -1001,8 +1121,8 @@
     "level": 0,
     "line_start": 11201,
     "line_end": 11271,
-    "anchor_start": "ga15-p188",
-    "anchor_end": "ga15-p189",
+    "anchor_start": "ga15-p379",
+    "anchor_end": "ga15-p379",
     "printed_pages": [],
     "n_lines": 71,
     "is_minority": false,
@@ -1010,7 +1130,19 @@
     "needs_locate": false,
     "source": "roster_supplement",
     "provenance_class": "minutes_located",
-    "note": "15th GA 1987, action 15-92, p.186; located via pcahistory fingerprint."
+    "note": "15th GA 1987, action 15-92, p.186; located via pcahistory fingerprint.",
+    "legacy_locator": {
+      "line_start": 11201,
+      "line_end": 11271,
+      "anchor_start": "ga15-p188",
+      "anchor_end": "ga15-p189"
+    },
+    "relocation": {
+      "script": "46_relocate_sources.py",
+      "old_ref": "HEAD",
+      "method": "page_bounded_token_lcs",
+      "score": 1.0
+    }
   },
   {
     "vol": "ga15_1987",
@@ -1021,14 +1153,26 @@
     "level": 1,
     "line_start": 11278,
     "line_end": 11297,
-    "anchor_start": "ga15-p190",
-    "anchor_end": "ga15-p190",
+    "anchor_start": "ga15-p379",
+    "anchor_end": "ga15-p379",
     "printed_pages": [],
     "n_lines": 20,
     "is_minority": false,
     "end_reason": "journal_resume",
     "needs_locate": false,
-    "provenance_class": "minutes_located"
+    "provenance_class": "minutes_located",
+    "legacy_locator": {
+      "line_start": 11278,
+      "line_end": 11297,
+      "anchor_start": "ga15-p190",
+      "anchor_end": "ga15-p190"
+    },
+    "relocation": {
+      "script": "46_relocate_sources.py",
+      "old_ref": "HEAD",
+      "method": "page_bounded_token_lcs",
+      "score": 1.0
+    }
   },
   {
     "vol": "ga15_1987",
@@ -1135,8 +1279,8 @@
     "level": 0,
     "line_start": 6997,
     "line_end": 7019,
-    "anchor_start": "ga16-p119",
-    "anchor_end": "ga16-p119",
+    "anchor_start": "ga16-p217",
+    "anchor_end": "ga16-p217",
     "printed_pages": [],
     "n_lines": 23,
     "is_minority": false,
@@ -1144,7 +1288,19 @@
     "needs_locate": false,
     "source": "roster_supplement",
     "provenance_class": "minutes_located",
-    "note": "16th GA 1988, action 16-25, p.116; located via pcahistory fingerprint."
+    "note": "16th GA 1988, action 16-25, p.116; located via pcahistory fingerprint.",
+    "legacy_locator": {
+      "line_start": 6997,
+      "line_end": 7019,
+      "anchor_start": "ga16-p119",
+      "anchor_end": "ga16-p119"
+    },
+    "relocation": {
+      "script": "46_relocate_sources.py",
+      "old_ref": "HEAD",
+      "method": "page_bounded_token_lcs",
+      "score": 1.0
+    }
   },
   {
     "vol": "ga16_1988",
@@ -1263,10 +1419,10 @@
     "title": "Report of the Ad Interim Committee on Fencing the Lord's Table",
     "kind": "report",
     "level": 0,
-    "line_start": 9202,
-    "line_end": 9468,
-    "anchor_start": "ga18-p171",
-    "anchor_end": "ga18-p176",
+    "line_start": 9208,
+    "line_end": 9474,
+    "anchor_start": "ga18-p338",
+    "anchor_end": "ga18-p338",
     "printed_pages": [
       "172",
       "173",
@@ -1280,7 +1436,19 @@
     "needs_locate": false,
     "source": "roster_supplement",
     "provenance_class": "minutes_located",
-    "note": "18th GA 1990, action 18-78, p.170; located via pcahistory fingerprint."
+    "note": "18th GA 1990, action 18-78, p.170; located via pcahistory fingerprint.",
+    "legacy_locator": {
+      "line_start": 9202,
+      "line_end": 9468,
+      "anchor_start": "ga18-p171",
+      "anchor_end": "ga18-p176"
+    },
+    "relocation": {
+      "script": "46_relocate_sources.py",
+      "old_ref": "HEAD",
+      "method": "page_bounded_token_lcs",
+      "score": 1.0
+    }
   },
   {
     "vol": "ga21_1993",
@@ -1289,10 +1457,10 @@
     "title": "A Declaration of Conscience Addressed to the President of the United States of America",
     "kind": "declaration",
     "level": 0,
-    "line_start": 6972,
-    "line_end": 7149,
-    "anchor_start": "ga21-p129",
-    "anchor_end": "ga21-p132",
+    "line_start": 6973,
+    "line_end": 7150,
+    "anchor_start": "ga21-p244",
+    "anchor_end": "ga21-p244",
     "printed_pages": [
       "130",
       "131",
@@ -1304,7 +1472,19 @@
     "needs_locate": false,
     "source": "roster_supplement",
     "provenance_class": "minutes_located",
-    "note": "Overture 16 (Potomac Presbytery), adopted as amended at the 21st GA; addressed to the President regarding homosexuals in the military."
+    "note": "Overture 16 (Potomac Presbytery), adopted as amended at the 21st GA; addressed to the President regarding homosexuals in the military.",
+    "legacy_locator": {
+      "line_start": 6972,
+      "line_end": 7149,
+      "anchor_start": "ga21-p129",
+      "anchor_end": "ga21-p132"
+    },
+    "relocation": {
+      "script": "46_relocate_sources.py",
+      "old_ref": "HEAD",
+      "method": "page_bounded_token_lcs",
+      "score": 1.0
+    }
   },
   {
     "vol": "ga21_1993",
@@ -1315,8 +1495,8 @@
     "level": 0,
     "line_start": 9361,
     "line_end": 9528,
-    "anchor_start": "ga21-p174",
-    "anchor_end": "ga21-p111",
+    "anchor_start": "ga21-p360",
+    "anchor_end": "ga21-p360",
     "printed_pages": [
       "175",
       "176"
@@ -1327,7 +1507,19 @@
     "needs_locate": false,
     "source": "roster_supplement",
     "provenance_class": "minutes_located",
-    "note": "21st GA 1993, action 21-64, p.174; located via pcahistory fingerprint."
+    "note": "21st GA 1993, action 21-64, p.174; located via pcahistory fingerprint.",
+    "legacy_locator": {
+      "line_start": 9361,
+      "line_end": 9528,
+      "anchor_start": "ga21-p174",
+      "anchor_end": "ga21-p111"
+    },
+    "relocation": {
+      "script": "46_relocate_sources.py",
+      "old_ref": "HEAD",
+      "method": "page_bounded_token_lcs",
+      "score": 1.0
+    }
   },
   {
     "vol": "ga21_1993",
@@ -1361,10 +1553,10 @@
     "title": "REPORT OF THE AD INTERIM COMMITTEE ON JUDICIAL PROCEDURE TO THE TWENTY-FOURTH GENERAL ASSEMBLY",
     "kind": "report",
     "level": 1,
-    "line_start": 3261,
-    "line_end": 6602,
-    "anchor_start": "ga24-p66",
-    "anchor_end": "ga24-p158",
+    "line_start": 3262,
+    "line_end": 6603,
+    "anchor_start": "ga24-p115",
+    "anchor_end": "ga24-p115",
     "printed_pages": [
       "67",
       "68",
@@ -1462,7 +1654,19 @@
     "is_minority": false,
     "end_reason": "journal_resume",
     "needs_locate": false,
-    "provenance_class": "minutes_located"
+    "provenance_class": "minutes_located",
+    "legacy_locator": {
+      "line_start": 3261,
+      "line_end": 6602,
+      "anchor_start": "ga24-p66",
+      "anchor_end": "ga24-p158"
+    },
+    "relocation": {
+      "script": "46_relocate_sources.py",
+      "old_ref": "HEAD",
+      "method": "page_bounded_token_lcs",
+      "score": 1.0
+    }
   },
   {
     "vol": "ga24_1996",
@@ -1473,8 +1677,8 @@
     "level": 2,
     "line_start": 8626,
     "line_end": 9096,
-    "anchor_start": "ga24-p207",
-    "anchor_end": "ga24-p218",
+    "anchor_start": "ga24-p322",
+    "anchor_end": "ga24-p322",
     "printed_pages": [
       "208",
       "209",
@@ -1492,7 +1696,19 @@
     "is_minority": false,
     "end_reason": "journal_resume",
     "needs_locate": false,
-    "provenance_class": "minutes_located"
+    "provenance_class": "minutes_located",
+    "legacy_locator": {
+      "line_start": 8626,
+      "line_end": 9096,
+      "anchor_start": "ga24-p207",
+      "anchor_end": "ga24-p218"
+    },
+    "relocation": {
+      "script": "46_relocate_sources.py",
+      "old_ref": "HEAD",
+      "method": "page_bounded_token_lcs",
+      "score": 1.0
+    }
   },
   {
     "vol": "ga24_1996",
@@ -1501,10 +1717,10 @@
     "title": "Opposition to the Legalization of Homosexual Marriage (Personal Resolution 7)",
     "kind": "resolution",
     "level": 0,
-    "line_start": 13465,
-    "line_end": 13637,
-    "anchor_start": "ga24-p315",
-    "anchor_end": "ga24-p320",
+    "line_start": 13467,
+    "line_end": 13639,
+    "anchor_start": "ga24-p544",
+    "anchor_end": "ga24-p544",
     "printed_pages": [
       "316",
       "317",
@@ -1516,7 +1732,19 @@
     "needs_locate": false,
     "source": "roster_supplement",
     "provenance_class": "minutes_located",
-    "note": "Adopted as amended at the 24th GA (RE Tom Leopard)."
+    "note": "Adopted as amended at the 24th GA (RE Tom Leopard).",
+    "legacy_locator": {
+      "line_start": 13465,
+      "line_end": 13637,
+      "anchor_start": "ga24-p315",
+      "anchor_end": "ga24-p320"
+    },
+    "relocation": {
+      "script": "46_relocate_sources.py",
+      "old_ref": "HEAD",
+      "method": "page_bounded_token_lcs",
+      "score": 1.0
+    }
   },
   {
     "vol": "ga27_1999",
@@ -1525,10 +1753,10 @@
     "title": "Warning Regarding the Homosexual Agenda (Overture 22)",
     "kind": "resolution",
     "level": 0,
-    "line_start": 7709,
-    "line_end": 7747,
-    "anchor_start": "ga27-p175",
-    "anchor_end": "ga27-p175",
+    "line_start": 7710,
+    "line_end": 7748,
+    "anchor_start": "ga27-p282",
+    "anchor_end": "ga27-p282",
     "printed_pages": [],
     "n_lines": 39,
     "is_minority": false,
@@ -1536,7 +1764,19 @@
     "needs_locate": false,
     "source": "roster_supplement",
     "provenance_class": "minutes_located",
-    "note": "Adopted as amended at the 27th GA (Westminster Presbytery)."
+    "note": "Adopted as amended at the 27th GA (Westminster Presbytery).",
+    "legacy_locator": {
+      "line_start": 7709,
+      "line_end": 7747,
+      "anchor_start": "ga27-p175",
+      "anchor_end": "ga27-p175"
+    },
+    "relocation": {
+      "script": "46_relocate_sources.py",
+      "old_ref": "HEAD",
+      "method": "page_bounded_token_lcs",
+      "score": 1.0
+    }
   },
   {
     "vol": "ga28_2000",
@@ -1547,8 +1787,8 @@
     "level": 2,
     "line_start": 5652,
     "line_end": 9142,
-    "anchor_start": "ga28-p122",
-    "anchor_end": "ga28-p212",
+    "anchor_start": "ga28-p237",
+    "anchor_end": "ga28-p237",
     "printed_pages": [
       "123",
       "124",
@@ -1645,7 +1885,19 @@
     "is_minority": false,
     "end_reason": "journal_resume",
     "needs_locate": false,
-    "provenance_class": "minutes_located"
+    "provenance_class": "minutes_located",
+    "legacy_locator": {
+      "line_start": 5652,
+      "line_end": 9142,
+      "anchor_start": "ga28-p122",
+      "anchor_end": "ga28-p212"
+    },
+    "relocation": {
+      "script": "46_relocate_sources.py",
+      "old_ref": "HEAD",
+      "method": "page_bounded_token_lcs",
+      "score": 1.0
+    }
   },
   {
     "vol": "ga29_2001",
@@ -1654,10 +1906,10 @@
     "title": "REPORT TO GENERAL ASSEMBLY AD INTERIM STUDY COMMITTEE ON WOMEN IN THE MILITARY",
     "kind": "report",
     "level": 1,
-    "line_start": 9881,
-    "line_end": 11494,
-    "anchor_start": "ga29-p259",
-    "anchor_end": "ga29-p321",
+    "line_start": 9882,
+    "line_end": 11495,
+    "anchor_start": "ga29-p375",
+    "anchor_end": "ga29-p375",
     "printed_pages": [
       "260",
       "261",
@@ -1726,7 +1978,19 @@
     "is_minority": false,
     "end_reason": "journal_resume",
     "needs_locate": false,
-    "provenance_class": "minutes_located"
+    "provenance_class": "minutes_located",
+    "legacy_locator": {
+      "line_start": 9881,
+      "line_end": 11494,
+      "anchor_start": "ga29-p259",
+      "anchor_end": "ga29-p321"
+    },
+    "relocation": {
+      "script": "46_relocate_sources.py",
+      "old_ref": "HEAD",
+      "method": "page_bounded_token_lcs",
+      "score": 1.0
+    }
   },
   {
     "vol": "ga32_2004",

@@ -14,9 +14,9 @@ titled from the cases table (authoritative identity). Emits:
 CLI:  26_case_pages_structured.py
 """
 from __future__ import annotations
-import importlib.util, json, os, re
+import importlib.util, json, os, re, sys
 
-ROOT = "/workspace"
+ROOT = os.environ.get("PCA_GA_ROOT", os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 spec = importlib.util.spec_from_file_location("ce", f"{ROOT}/scripts/25_case_extract.py")
 ce = importlib.util.module_from_spec(spec); spec.loader.exec_module(ce)
 
@@ -57,10 +57,13 @@ def main():
     cls = json.load(open(f"{ROOT}/index/case_volume_class.json"))
     passing = passing_volumes(cls)
     os.makedirs(OUT, exist_ok=True)
-    # clear any prior pages so cases/ contains ONLY verified structure pages
-    for f in os.listdir(OUT):
-        if f.endswith(".md"):
-            os.remove(os.path.join(OUT, f))
+    # Preserve existing pages by default.  `--clear` remains available for a deliberate
+    # full regeneration, but a re-OCR refresh must not remove pages whose source was not
+    # re-located in this run.
+    if "--clear" in sys.argv:
+        for f in os.listdir(OUT):
+            if f.endswith(".md"):
+                os.remove(os.path.join(OUT, f))
     gtitles = ce.global_titles()
     pages_map = {}
     n = 0; dropped = 0

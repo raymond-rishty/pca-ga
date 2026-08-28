@@ -61,7 +61,7 @@ import sqlite3
 import sys
 import time
 
-ROOT = "/workspace"
+ROOT = os.environ.get("PCA_GA_ROOT", os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 CHUNKS = os.path.join(ROOT, "index", "chunks.jsonl")
 DB_PATH = os.path.join(ROOT, "index", "pca_minutes.db")
 PAGE_JSONL_DIR = os.path.join(ROOT, "build", "page_jsonl")

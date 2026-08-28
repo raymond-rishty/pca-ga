@@ -16,7 +16,7 @@ CLI:  25_case_extract.py sjc <vol>     # prototype: print the cases a volume yie
 from __future__ import annotations
 import os, re, sys
 
-ROOT = "/workspace"
+ROOT = os.environ.get("PCA_GA_ROOT", os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 # Header recognizers, chosen per-volume by autotune (the case-header format drifts 1973-2025).
 #  STRICT (P1): a "[JUDICIAL] CASE [No.] NN" line — "**CASE 2009-25**", "JUDICIAL CASE 91-1".
 #  BROAD: P2 (the extended keyword family — SJC NN / STANDING JUDICIAL COMMISSION CASE NN /

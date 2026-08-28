@@ -35,11 +35,12 @@ import re
 import sys
 import collections
 
-sys.path.insert(0, "/workspace/scripts")
+HERE = os.path.dirname(os.path.abspath(__file__))
+sys.path.insert(0, HERE)
 idx = importlib.import_module("05_index")
 conc = importlib.import_module("bco_concordance")
 
-ROOT = "/workspace"
+ROOT = os.environ.get("PCA_GA_ROOT", os.path.dirname(HERE))
 CHUNKS = os.path.join(ROOT, "index", "chunks.jsonl")
 SEGDIR = os.path.join(ROOT, "index", "segments")
 OUT = os.path.join(ROOT, "index", "cases.jsonl")
@@ -592,7 +593,7 @@ def main():
     # manually confirmed from the minutes. They are a keeper, so a single `07` run folds
     # them back in (via 11_merge_hunt) and reproduces the full index on rebuild. Tagged
     # aux_source=true so they stay distinguishable from golden. Skip with --golden-only.
-    found_dir = os.path.join("/workspace", "index", "hunt", "found")
+    found_dir = os.path.join(ROOT, "index", "hunt", "found")
     if "--golden-only" not in sys.argv and glob.glob(found_dir + "/*.json"):
         print(f"        [aux] folding {len(glob.glob(found_dir + '/*.json'))} hunt-recovered "
               f"cases (auxiliary, not golden) via 11_merge_hunt ...")

@@ -1,0 +1,152 @@
+{
+  "cases/ga03_1975__case1.md": [
+    {"page": 50, "start": "### 3-12 Judicial Complaint"},
+    {"page": 51},
+    {"page": 52},
+    {"page": 53, "start": "Judicial Business in consultation with the Constitutional Documents Com-", "end": "(See 3-72 for Assembly's Action.)", "include_end": true},
+    {"page": 87, "start": "### 3-72 Report of the Committee of Commissioners on Judicial Business"},
+    {"page": 88, "start": "tution of the Church requiring a quorum of three teaching and three ruling elders.", "end": "### 3-73 Report of The Committee on Interchurch Relations"}
+  ],
+  "cases/ga04_1976__case1.md": [
+    {"page": 52, "start": "### 4-12 Complaint of Trinity Church against Grace Presbytery"},
+    {"page": 53, "start": "candidate, or the decision to sustain his examination may have been in order", "end": "See paragraph 4-65 for Assembly action.", "include_end": true},
+    {"page": 72, "start": "### 4-65 Complaint of the Trinity Church versus Grace Presbytery", "end": "### 4-66 Report of the Committee on Judicial Business"}
+  ],
+  "cases/ga04_1976__case2.md": [
+    {"page": 53, "start": "### 4-13 Complaint of Eastland Church against Covenant Presbytery"},
+    {"page": 54, "start": "Teaching Elders Frank Barker", "end": "See paragraph 4-64 for Assembly action.", "include_end": true},
+    {"page": 71, "start": "### 4-64 Complaint of Eastland Church versus Covenant Presbytery", "end": "(This decision in no way implies that if the Presbytery had employed Mr. McKeown in a ministerial capacity this would have involved a violation of the Constitution.)", "include_end": true},
+    {"page": 72, "start": "### NAMES OF COMMISSION MEMBERS Teaching Elders", "end": "The Assembly adopted the report as its action and judgment.", "include_end": true}
+  ],
+  "cases/ga05_1977__case2.md": [
+    {"page": 58, "start": "### 5-14 Complaint No. 2 of the Texas."},
+    {"page": 59},
+    {"page": 60, "end": "### , teaching elder See paragraph 5-86, p. 89 for Assembly action."},
+    {"page": 91, "start": "### 5-86 Judicial Commission to Adjudicate the Kim Case", "end": "ROLL ÓF THE COMMISSION"}
+  ],
+  "cases/ga05_1977__case3.md": [
+    {"page": 61, "start": "### 5-15 Complaint No. 3 of the Rev. Thomas Barnes et al against Evangel Presbytery"},
+    {"page": 91, "start": "### Commission Meeting — Church Chapel — 1:00 PM, September 14th", "end": "### 5-84 Evangel Presbytery Ordered to Meet"}
+  ],
+  "cases/ga06_1978__case2.md": [
+    {"page": 49, "start": "COMPLAINT 2. BY INDIVIDUAL MEMBERS OF SESSION OF WESTMINSTER PRES-"},
+    {"page": 50},
+    {"page": 51},
+    {"page": 52, "end": "### COMMITTEES OF COMMISSIONERS"},
+    {"page": 107, "start": "6-103 Report of the Judicial Commission to Adjudicate the Complaint of Luther L. Allin, Jr., et.a., against the Tennessee Valley Presbytery."},
+    {"page": 108}
+  ],
+  "cases/ga06_1978__case1.md": [
+    {"page": 47, "start": "### COMPLAINT 1. FROM RULING ELDER JAMES H. CAMPBELL, AGAINST MID- ATLANTIC PRESBYTERY"},
+    {"page": 48},
+    {"page": 49, "end": "COMPLAINT 2. BY INDIVIDUAL MEMBERS OF SESSION OF WESTMINSTER PRES-"},
+    {"page": 76, "start": "### 6-49 Partial Report of the Committee of Commissioners on Judicial Business"}
+  ],
+  "cases/ga08_1980__case1.md": [
+    {"page": 50, "start": "Case 3: Complaint of Teaching Elders Byron Snapp and James M. Hope against Calvary Presbytery."},
+    {"page": 51, "end": "### Case 4: Complaint of Ruling Elder James H. Campbell, et al Against Mid-Atlantic Presbytery"},
+    {"page": 79, "start": "### 8-36 Judicial Commission on Complaint of Byron Snapp and James Hope against Calvary Presbytery"},
+    {"page": 80}
+  ],
+  "cases/ga08_1980__case2.md": [
+    {"page": 51, "start": "### Case 4: Complaint of Ruling Elder James H. Campbell, et al Against Mid-Atlantic Presbytery"},
+    {"page": 92, "start": "### 8-60 Judicial Commission to Adjudicate Case No. 4"},
+    {"page": 93},
+    {"page": 94, "end": "### MINUTES — WEDNESDAY EVENING"}
+  ],
+  "cases/ga08_1980__case3.md": [
+    {"page": 52, "start": "### Case 5: Complaint of Teaching Elder Carl W. Bogue et al Against the Presbytery of the Ascension"},
+    {"page": 53, "end": "See § 8-13, 5; p. 63; § 8-63, p. 92.", "include_end": true},
+    {"page": 94, "start": "### 8-63 Judicial Commission to Adjudicate Case No. 5"},
+    {"page": 95},
+    {"page": 96, "end": "### 8-64 Committee on Nominations"}
+  ],
+  "cases/ga09_1981__case1.md": [
+    {"page": 57, "start": "### Case 2: Complaint of Ruling Elder Cooke Lewis et al Against Grace Presbytery"},
+    {"page": 58, "end": "### Case 3: Complaint of Ruling Elder Robert H. Zeigler Against the Presbytery of Texas"},
+    {"page": 152, "start": "### 9-76 Judicial Commission for Case 2, Complaint of RE Lewis et al. vs. Grace Presbytery"},
+    {"page": 153, "end": "9-77 Judicial Commission for Case 4, Complaint of TE King et al. vs. Western Carolinas Presbytery"}
+  ],
+  "cases/ga09_1981__case3.md": [
+    {"page": 58, "start": "### Case 4: Complaint of Teaching Elder Rodney King, et. al. Against the Presbytery of the Western Carolinas"},
+    {"page": 59, "end": "### F. PERSONAL RESOLUTIONS RECEIVED DURING THE ASSEMBLY"},
+    {"page": 153, "start": "9-77 Judicial Commission for Case 4, Complaint of TE King et al. vs. Western Carolinas Presbytery"},
+    {"page": 154},
+    {"page": 155},
+    {"page": 156, "end": "### 9-78 Committee of Commissioners on PCA Foundation"}
+  ],
+  "cases/ga10_1982__case1.md": [
+    {"page": 56, "start": "### Case 1: Complaint of Stephen M. Lee, et al., against Gulf Coast Presbytery"},
+    {"page": 57, "end": "Case 2: Complaint of Teaching Elder Charles H. Davis, et al., against the Presbytery of Central Georgia"},
+    {"page": 109, "start": "### CASE#1 REPORT OF COMMISSION TO HEAR COMPLAINT OF STEPHEN M. LEE, ET AL., AGAINST GULF COAST PRESBYTERY"},
+    {"page": 110, "end": "CASES #2 AND #3 REPORT OF COMMISSION TO HEAR COMPLAINTS OF CHARLES M. DAVIS"}
+  ],
+  "cases/ga10_1982__case2.md": [
+    {"page": 57, "start": "Case 2: Complaint of Teaching Elder Charles H. Davis, et al., against the Presbytery of Central Georgia"},
+    {"page": 58, "end": "Case 3: Complaint of Teaching Elder David H. Bryson, et al., against the Presbytery of Central Georgia"},
+    {"page": 110, "start": "CASES #2 AND #3 REPORT OF COMMISSION TO HEAR COMPLAINTS OF CHARLES M. DAVIS"},
+    {"page": 111, "end": "### CASE #4"}
+  ],
+  "cases/ga10_1982__case3.md": [
+    {"page": 58, "start": "Case 3: Complaint of Teaching Elder David H. Bryson, et al., against the Presbytery of Central Georgia", "end": "### Case 4: Complaint of TE Vaughn E. Hathaway, Jr., et al., against Grace Presbytery"},
+    {"page": 110, "start": "CASES #2 AND #3 REPORT OF COMMISSION TO HEAR COMPLAINTS OF CHARLES M. DAVIS"},
+    {"page": 111, "end": "### CASE #4"}
+  ],
+  "cases/ga10_1982__case4.md": [
+    {"page": 58, "start": "### Case 4: Complaint of TE Vaughn E. Hathaway, Jr., et al., against Grace Presbytery"},
+    {"page": 59, "end": "## Case 5: Complaint of the Session of the Peace Congregation, Cary, North Carolina, against the Presbytery of Eastern Carolina"},
+    {"page": 111, "start": "### CASE #4", "end": "### CASE #5"}
+  ],
+  "cases/ga10_1982__case5.md": [
+    {"page": 59, "start": "## Case 5: Complaint of the Session of the Peace Congregation, Cary, North Carolina, against the Presbytery of Eastern Carolina"},
+    {"page": 111, "start": "### CASE #5"},
+    {"page": 112},
+    {"page": 113, "end": "### CASE #6"}
+  ],
+  "cases/ga13_1985__case1.md": [
+    {"page": 129, "start": "### 13-63 Report of Judicial Commission Adjudicating Case #5."},
+    {"page": 130},
+    {"page": 131},
+    {"page": 132}
+  ],
+  "cases/ga14_1986__case1.md": [
+    {"page": 226, "start": "### 14-91 Report of the Commission Adjudicating Case #1"},
+    {"page": 227},
+    {"page": 228},
+    {"page": 229},
+    {"page": 230},
+    {"page": 231},
+    {"page": 232},
+    {"page": 233},
+    {"page": 234},
+    {"page": 235, "end": "14-92 Reading of the Minutes"}
+  ],
+  "cases/ga16_1988__case5.md": [
+    {"page": 203, "start": "### ADJUDICATION OF CASE #8"},
+    {"page": 204},
+    {"page": 205, "end": "16-90 Presbytery Directed to Meet"}
+  ],
+  "cases/ga17_1989__case7.md": [
+    {"page": 238, "start": "17-109 Commission to Adjudicate Case #3: First PCA, Session, Rowlett, Texas, vs. North Texas Presbytery"},
+    {"page": 239},
+    {"page": 240, "end": "17-110 Committee on Fencing the Lord's Table"}
+  ],
+  "cases/ga18_1990__case1.md": [
+    {"page": 164, "start": "### JUDICIAL CASE A"},
+    {"page": 165},
+    {"page": 166}
+  ],
+  "cases/ga18_1990__case2.md": [
+    {"page": 167, "start": "### JUDICIAL CASE B"},
+    {"page": 168, "end": "The report as a whole was adopted.", "include_end": true}
+  ],
+  "cases/ga09_1981__case2.md": [
+    {"page": 58, "start": "### Case 3: Complaint of Ruling Elder Robert H. Zeigler Against the Presbytery of Texas"},
+    {"page": 152, "start": "### 9-75 Judicial Commission for Case 3, Complaint of RE Zeigler vs. the Presbytery of Texas", "end": "Adopted", "include_end": true}
+  ],
+  "cases/ga10_1982__case4.md": [
+    {"page": 58, "start": "Case 4: Complaint of TE Vaughn E. Hathaway, Jr., et al., against Grace Presbytery"},
+    {"page": 59},
+    {"page": 111, "start": "### CASE #4", "end": "### CASE #5"}
+  ]
+}
