@@ -19,7 +19,7 @@ CLI:  09_reconcile_roster.py            # report coverage only
 from __future__ import annotations
 import json, os, re, sys, collections, difflib
 
-ROOT = "/workspace"
+ROOT = os.environ.get("PCA_GA_ROOT", os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 ROSTER = os.path.join(ROOT, "index", "sjc_official", "roster.jsonl")
 CASES = os.path.join(ROOT, "index", "cases.jsonl")
 MISSING = os.path.join(ROOT, "index", "sjc_official", "missing.jsonl")

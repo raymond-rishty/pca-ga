@@ -21,7 +21,10 @@ in the minutes, which is sliced unaltered below it.
 from __future__ import annotations
 import json, os, re, sys
 
-ROOT = sys.argv[1] if len(sys.argv) > 1 else "/workspace"
+ONLY_RELOCATED = "--only-relocated" in sys.argv[1:]
+ROOT_ARG = next((a for a in sys.argv[1:] if not a.startswith("--")), None)
+ROOT = ROOT_ARG if ROOT_ARG else os.environ.get(
+    "PCA_GA_ROOT", os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 MD = os.path.join(ROOT, "markdown")
 IDX = os.path.join(ROOT, "index")
 OUT = os.path.join(ROOT, "inquiries")
@@ -133,9 +136,10 @@ def main():
             grp["results"].append(r)
 
     os.makedirs(OUT, exist_ok=True)
-    for f in os.listdir(OUT):
-        if f.endswith(".md"):
-            os.remove(os.path.join(OUT, f))
+    if not ONLY_RELOCATED:
+        for f in os.listdir(OUT):
+            if f.endswith(".md"):
+                os.remove(os.path.join(OUT, f))
 
     per_vol = {}
     inq_rows, adv_rows = {}, {}   # ord -> list of (year, stem, row), split by Type
@@ -145,6 +149,10 @@ def main():
     for key in sorted(groups, key=lambda k: (k[0], k[1] or 0)):
         grp = groups[key]
         ordn, stem, results = grp["ord"], grp["stem"], grp["results"]
+        n = per_vol.get(stem, 0) + 1
+        per_vol[stem] = n
+        if ONLY_RELOCATED and not any(r.get("relocation") for r in results):
+            continue
         rents = []
         for r in results:
             e = (rmap.get((ordn, norm_mp(r.get("minute_para")), r.get("topic")))
@@ -195,8 +203,6 @@ def main():
             subj = (summaries[0][:80].rsplit(" ", 1)[0] + "…") if summaries else (topics[0] if topics else "Constitutional inquiry")
         label = ci or (f"{e0.get('minute_para','')} {sect}".strip()) or "Inquiry"
 
-        n = per_vol.get(stem, 0) + 1
-        per_vol[stem] = n
         slug = f"{stem}__ci{n:02d}"
 
         body = slice_md(stem, a, b) or "_(verbatim passage not located in this volume)_"
@@ -273,6 +279,10 @@ def main():
                             "year": year, "disposition": disp, "url": f"inquiries/{slug}.md"})
 
     import json as _json
+    if ONLY_RELOCATED:
+        print(f"[{ROOT}] refreshed {n_pages} relocated inquiry pages; left catalogues and other pages untouched")
+        return
+
     _json.dump(search_rows, open(os.path.join(IDX, "inquiries_search.json"), "w"), ensure_ascii=False)
 
     common = ("Each entry pairs a **Digest-level headnote** (the PCA Digest's editorial summary, Part II) "

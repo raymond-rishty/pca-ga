@@ -27,12 +27,13 @@ import re
 import sqlite3
 import sys
 
-sys.path.insert(0, "/workspace/scripts")
+HERE = os.path.dirname(os.path.abspath(__file__))
+sys.path.insert(0, HERE)
 build_cases = importlib.import_module("07_build_cases")
 norm_caseno = build_cases.norm_caseno
 looks_like_caseno = build_cases.looks_like_caseno
 
-ROOT = "/workspace"
+ROOT = os.environ.get("PCA_GA_ROOT", os.path.dirname(HERE))
 CASES = os.path.join(ROOT, "index", "cases.jsonl")
 DB_PATH = os.path.join(ROOT, "index", "pca_minutes.db")
 

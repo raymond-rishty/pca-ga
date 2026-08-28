@@ -16,7 +16,7 @@ Run AFTER the pipeline (…07/09/08). Re-runnable.  CLI: `19_export.py`  (writes
 from __future__ import annotations
 import glob, json, os, sqlite3
 
-ROOT = "/workspace"
+ROOT = os.environ.get("PCA_GA_ROOT", os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 DB = os.path.join(ROOT, "index", "pca_minutes.db")
 IDX = os.path.join(ROOT, "index")
 

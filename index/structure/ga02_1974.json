@@ -8,173 +8,427 @@
    "label": "PART I",
    "title": "Directory",
    "pdf_page": 5,
-   "printed_page": "3",
+   "printed_page": 3,
    "children": []
   },
   {
    "type": "part",
    "label": "PART II",
-   "title": "JOURNAL",
+   "title": "JOURNAL MINUTES FIRST DAY TUESDAY",
    "pdf_page": 13,
-   "printed_page": "11",
-   "children": []
-  },
-  {
-   "type": "part",
-   "label": "PART III",
-   "title": "Appendices",
-   "pdf_page": 89,
-   "printed_page": null,
-   "children": []
-  },
-  {
-   "type": "part",
-   "label": "PART IV",
-   "title": "Corrections",
-   "pdf_page": 3,
-   "printed_page": null,
+   "printed_page": 11,
    "children": [
     {
-     "type": "overture",
-     "number": 1,
-     "source": "Rev. William Rose",
-     "pdf_page": 25,
-     "printed_page": null
+     "type": "action",
+     "label": "2-1",
+     "title": "The Assembly Called to Order",
+     "pdf_page": 13,
+     "printed_page": 11
     },
     {
-     "type": "overture",
-     "number": 3,
-     "source": "Rev. Eurie Hayes Smith, III et al",
-     "pdf_page": 25,
-     "printed_page": null
+     "type": "action",
+     "label": "2-2",
+     "title": "Opening Worship",
+     "pdf_page": 13,
+     "printed_page": 11
+    },
+    {
+     "type": "action",
+     "label": "2-3",
+     "title": "Report on Enrollment and Determination of a Quorum The Stated Clerk announced th",
+     "pdf_page": 13,
+     "printed_page": 11
+    },
+    {
+     "type": "action",
+     "label": "2-15",
+     "title": "Assembly Reconvened The Assembly reconvened at 1:30 P.M., being opened with pray",
+     "pdf_page": 24,
+     "printed_page": 22
+    },
+    {
+     "type": "action",
+     "label": "2-19",
+     "title": "Excused for Absence The following excuses for absences were received and granted",
+     "pdf_page": 44,
+     "printed_page": 42
+    },
+    {
+     "type": "action",
+     "label": "2-23",
+     "title": "Assembly Reconvened The Assembly reconvened at 7:00 P.M. with prayer by the Rev.",
+     "pdf_page": 45,
+     "printed_page": 43
+    },
+    {
+     "type": "action",
+     "label": "2-36",
+     "title": "Constitutional Documents Committee Report (Continued From 2-29.) The Form of Gov",
+     "pdf_page": 47,
+     "printed_page": 45
+    },
+    {
+     "type": "action",
+     "label": "2-40",
+     "title": "Assembly Reconvened The Assembly was reconvened at 1:30 P.M. being opened with p",
+     "pdf_page": 49,
+     "printed_page": 47
+    },
+    {
+     "type": "action",
+     "label": "2-57",
+     "title": "Worship The Assembly reconvened at 8:30 A.M. and was led in worship by the Rev. ",
+     "pdf_page": 53,
+     "printed_page": 51
+    },
+    {
+     "type": "action",
+     "label": "2-63",
+     "title": "Report of the Committee of Commissioners on Insurance and Annuities(Continued fr",
+     "pdf_page": 54,
+     "printed_page": 52
+    },
+    {
+     "type": "action",
+     "label": "2-64",
+     "title": "Report of the Constitutional Documents Committee (Continued from 2-36) The Rev. ",
+     "pdf_page": 55,
+     "printed_page": 53
+    },
+    {
+     "type": "action",
+     "label": "2-67",
+     "title": "Recess The Assembly was recessed for lunch at 11:50 A.M. with prayer by Rev. Mic",
+     "pdf_page": 56,
+     "printed_page": 54
+    },
+    {
+     "type": "action",
+     "label": "2-68",
+     "title": "Special Address The Assembly met at the Opera House at 1:00 P.M. for a special a",
+     "pdf_page": 56,
+     "printed_page": 54
+    },
+    {
+     "type": "action",
+     "label": "2-71",
+     "title": "Office of Assistant Minister Referred to Ad Interim Committee The Ad Interim Com",
+     "pdf_page": 63,
+     "printed_page": 61
+    },
+    {
+     "type": "action",
+     "label": "2-74",
+     "title": "Report of the Presbytery Boundaries Committee The Rev. Dan McCown, Chairman of t",
+     "pdf_page": 64,
+     "printed_page": 62
+    },
+    {
+     "type": "action",
+     "label": "2-75",
+     "title": "Special Report of the Judicial Business Committee The Chairman of the Judicial B",
+     "pdf_page": 67,
+     "printed_page": 65
+    },
+    {
+     "type": "action",
+     "label": "2-78",
+     "title": "Mission Program The Permanent Committee on Mission to the World presented a miss",
+     "pdf_page": 67,
+     "printed_page": 65
+    },
+    {
+     "type": "action",
+     "label": "2-84",
+     "title": "Worship The Assembly reconvened for worship at 8:30 A.M. The worship service was",
+     "pdf_page": 69,
+     "printed_page": 67
+    },
+    {
+     "type": "action",
+     "label": "2-89",
+     "title": "Committee Excused",
+     "pdf_page": 71,
+     "printed_page": 69
+    },
+    {
+     "type": "action",
+     "label": "2-90",
+     "title": "Report of the Committee on Nominations (Continued From 2-76.)",
+     "pdf_page": 71,
+     "printed_page": 69
+    },
+    {
+     "type": "action",
+     "label": "2-102",
+     "title": "Report of the Committee of Commissioners on Christian Education and Publications",
+     "pdf_page": 79,
+     "printed_page": 77
+    },
+    {
+     "type": "jsection",
+     "label": "I",
+     "title": "ITEMS REFERRED AND CONSIDERED",
+     "pdf_page": 79,
+     "printed_page": 77,
+     "children": []
+    },
+    {
+     "type": "action",
+     "label": "2-105",
+     "title": "Report of the Committee of Commissioners on Review and Control of Presbyteries",
+     "pdf_page": 82,
+     "printed_page": 80
     },
     {
      "type": "overture",
      "number": 6,
      "source": "First Presbyterian Church, Belzoni, Mississippi",
      "pdf_page": 26,
-     "printed_page": null
+     "printed_page": 24
     },
     {
      "type": "overture",
      "number": 13,
-     "source": "Westminster Presbytery Adopted at its Meeting, July 20, 1974",
+     "source": "Westminster Presbytery Adopted at its Meeting, July 20, 1974 We, the members of Westminste",
      "pdf_page": 26,
-     "printed_page": null
-    },
-    {
-     "type": "overture",
-     "number": 4,
-     "source": "First Presbyterian Church, Belzoni, Mississippi",
-     "pdf_page": 26,
-     "printed_page": null
+     "printed_page": 24
     },
     {
      "type": "overture",
      "number": 5,
      "source": "First Presbyterian Church, Belzoni, Mississippi",
      "pdf_page": 27,
-     "printed_page": null
-    },
-    {
-     "type": "overture",
-     "number": 8,
-     "source": "the Presbytery of Mississippi Valley, adopted at its Adjourned",
-     "pdf_page": 27,
-     "printed_page": null
-    },
-    {
-     "type": "overture",
-     "number": 9,
-     "source": "the Presbytery of Mississippi Valley adopted at its adjourned Meeting, June 20, 1974",
-     "pdf_page": 28,
-     "printed_page": null
+     "printed_page": 25
     },
     {
      "type": "overture",
      "number": 11,
-     "source": "Westminster Presbytery, Adopted at its Meeting July 20, 1974",
+     "source": "Westminster Presbytery, Adopted at its Meeting July 20, 1974 We, the members of Westminste",
      "pdf_page": 29,
-     "printed_page": null
+     "printed_page": 27
     },
     {
      "type": "overture",
      "number": 12,
-     "source": "Westminster Presbytery Adopted at its Meeting, July 20, 1974",
+     "source": "Westminster Presbytery Adopted at its Meeting, July 20, 1974 We, the members of Westminste",
      "pdf_page": 29,
-     "printed_page": null
+     "printed_page": 27
+    }
+   ]
+  },
+  {
+   "type": "part",
+   "label": "PART III",
+   "title": "Appendices",
+   "pdf_page": 89,
+   "printed_page": 87,
+   "children": [
+    {
+     "type": "appendix",
+     "label": "Appendix A",
+     "title": "",
+     "pdf_page": 91,
+     "printed_page": 89,
+     "children": []
     },
     {
-     "type": "overture",
-     "number": 2,
-     "source": "the McIlwain Memorial Church, Pensacola",
-     "pdf_page": 31,
-     "printed_page": null
+     "type": "appendix",
+     "label": "Appendix B",
+     "title": "",
+     "pdf_page": 97,
+     "printed_page": 95,
+     "children": []
     },
     {
-     "type": "overture",
-     "number": 9,
-     "source": "Covenant Presbytery",
-     "pdf_page": 42,
-     "printed_page": null
+     "type": "appendix",
+     "label": "Appendix C",
+     "title": "",
+     "pdf_page": 111,
+     "printed_page": 109,
+     "children": []
     },
     {
-     "type": "overture",
-     "number": 11,
-     "source": "McIlwain Memorial Presbyterian Church, Pensacola, Florida",
-     "pdf_page": 42,
-     "printed_page": null
+     "type": "appendix",
+     "label": "Appendix D",
+     "title": "",
+     "pdf_page": 128,
+     "printed_page": 126,
+     "children": []
+    },
+    {
+     "type": "appendix",
+     "label": "Appendix E",
+     "title": "",
+     "pdf_page": 132,
+     "printed_page": 130,
+     "children": []
+    },
+    {
+     "type": "appendix",
+     "label": "Appendix F",
+     "title": "",
+     "pdf_page": 137,
+     "printed_page": 135,
+     "children": []
+    },
+    {
+     "type": "appendix",
+     "label": "Appendix G",
+     "title": "",
+     "pdf_page": 145,
+     "printed_page": 143,
+     "children": []
+    },
+    {
+     "type": "appendix",
+     "label": "Appendix H",
+     "title": "",
+     "pdf_page": 148,
+     "printed_page": 146,
+     "children": []
+    },
+    {
+     "type": "appendix",
+     "label": "Appendix I",
+     "title": "",
+     "pdf_page": 149,
+     "printed_page": 147,
+     "children": []
+    },
+    {
+     "type": "appendix",
+     "label": "Appendix J",
+     "title": "",
+     "pdf_page": 151,
+     "printed_page": 149,
+     "children": [
+      {
+       "type": "section",
+       "label": "I",
+       "title": "CURRICULUM BUILDING",
+       "pdf_page": 151,
+       "printed_page": 149
+      },
+      {
+       "type": "section",
+       "label": "II",
+       "title": "PUBLICATIONS",
+       "pdf_page": 153,
+       "printed_page": 151
+      },
+      {
+       "type": "section",
+       "label": "III",
+       "title": "LEADERSHIP TRAINING",
+       "pdf_page": 153,
+       "printed_page": 151
+      },
+      {
+       "type": "section",
+       "label": "IV",
+       "title": "FAMILY AND SERVICE MINISTRIES",
+       "pdf_page": 153,
+       "printed_page": 151
+      },
+      {
+       "type": "section",
+       "label": "V",
+       "title": "STAFF ENLISTMENT AND TRAINING",
+       "pdf_page": 154,
+       "printed_page": 152
+      },
+      {
+       "type": "section",
+       "label": "VI",
+       "title": "OFFICE FACILITIES AND EQUIPMENT",
+       "pdf_page": 154,
+       "printed_page": 152
+      },
+      {
+       "type": "section",
+       "label": "VII",
+       "title": "COOPERATION WITH DENOMINATION COMMITTEES",
+       "pdf_page": 155,
+       "printed_page": 153
+      },
+      {
+       "type": "section",
+       "label": "VIII",
+       "title": "FINANCIAL FOUNDATIONS",
+       "pdf_page": 155,
+       "printed_page": 153
+      }
+     ]
+    },
+    {
+     "type": "appendix",
+     "label": "Appendix K",
+     "title": "",
+     "pdf_page": 159,
+     "printed_page": 157,
+     "children": []
+    },
+    {
+     "type": "appendix",
+     "label": "Appendix L",
+     "title": "",
+     "pdf_page": 166,
+     "printed_page": 164,
+     "children": []
+    },
+    {
+     "type": "appendix",
+     "label": "Appendix M",
+     "title": "",
+     "pdf_page": 170,
+     "printed_page": 168,
+     "children": []
+    },
+    {
+     "type": "appendix",
+     "label": "Appendix N",
+     "title": "",
+     "pdf_page": 172,
+     "printed_page": 170,
+     "children": []
+    },
+    {
+     "type": "appendix",
+     "label": "Appendix O",
+     "title": "",
+     "pdf_page": 178,
+     "printed_page": 176,
+     "children": []
+    },
+    {
+     "type": "appendix",
+     "label": "Appendix P",
+     "title": "",
+     "pdf_page": 182,
+     "printed_page": 180,
+     "children": []
     }
    ]
   }
  ],
  "overtures": [
   {
-   "number": 1,
-   "source": "Rev. William Rose",
-   "pdf_page": 25,
-   "printed_page": null,
-   "in": "PART IV",
-   "pages": [
-    25
-   ]
-  },
-  {
-   "number": 3,
-   "source": "Rev. Eurie Hayes Smith, III et al",
-   "pdf_page": 25,
-   "printed_page": null,
-   "in": "PART IV",
-   "pages": [
-    25
-   ]
-  },
-  {
    "number": 6,
    "source": "First Presbyterian Church, Belzoni, Mississippi",
    "pdf_page": 26,
-   "printed_page": null,
-   "in": "PART IV",
+   "printed_page": 24,
+   "in": "PART II",
    "pages": [
     26
    ]
   },
   {
    "number": 13,
-   "source": "Westminster Presbytery Adopted at its Meeting, July 20, 1974",
+   "source": "Westminster Presbytery Adopted at its Meeting, July 20, 1974 We, the members of Westminste",
    "pdf_page": 26,
-   "printed_page": null,
-   "in": "PART IV",
-   "pages": [
-    26
-   ]
-  },
-  {
-   "number": 4,
-   "source": "First Presbyterian Church, Belzoni, Mississippi",
-   "pdf_page": 26,
-   "printed_page": null,
-   "in": "PART IV",
+   "printed_page": 24,
+   "in": "PART II",
    "pages": [
     26
    ]
@@ -183,80 +437,30 @@
    "number": 5,
    "source": "First Presbyterian Church, Belzoni, Mississippi",
    "pdf_page": 27,
-   "printed_page": null,
-   "in": "PART IV",
+   "printed_page": 25,
+   "in": "PART II",
    "pages": [
     27
-   ]
-  },
-  {
-   "number": 8,
-   "source": "the Presbytery of Mississippi Valley, adopted at its Adjourned",
-   "pdf_page": 27,
-   "printed_page": null,
-   "in": "PART IV",
-   "pages": [
-    27
-   ]
-  },
-  {
-   "number": 9,
-   "source": "the Presbytery of Mississippi Valley adopted at its adjourned Meeting, June 20, 1974",
-   "pdf_page": 28,
-   "printed_page": null,
-   "in": "PART IV",
-   "pages": [
-    28
    ]
   },
   {
    "number": 11,
-   "source": "Westminster Presbytery, Adopted at its Meeting July 20, 1974",
+   "source": "Westminster Presbytery, Adopted at its Meeting July 20, 1974 We, the members of Westminste",
    "pdf_page": 29,
-   "printed_page": null,
-   "in": "PART IV",
+   "printed_page": 27,
+   "in": "PART II",
    "pages": [
     29
    ]
   },
   {
    "number": 12,
-   "source": "Westminster Presbytery Adopted at its Meeting, July 20, 1974",
+   "source": "Westminster Presbytery Adopted at its Meeting, July 20, 1974 We, the members of Westminste",
    "pdf_page": 29,
-   "printed_page": null,
-   "in": "PART IV",
+   "printed_page": 27,
+   "in": "PART II",
    "pages": [
     29
-   ]
-  },
-  {
-   "number": 2,
-   "source": "the McIlwain Memorial Church, Pensacola",
-   "pdf_page": 31,
-   "printed_page": null,
-   "in": "PART IV",
-   "pages": [
-    31
-   ]
-  },
-  {
-   "number": 9,
-   "source": "Covenant Presbytery",
-   "pdf_page": 42,
-   "printed_page": null,
-   "in": "PART IV",
-   "pages": [
-    42
-   ]
-  },
-  {
-   "number": 11,
-   "source": "McIlwain Memorial Presbyterian Church, Pensacola, Florida",
-   "pdf_page": 42,
-   "printed_page": null,
-   "in": "PART IV",
-   "pages": [
-    42
    ]
   }
  ]

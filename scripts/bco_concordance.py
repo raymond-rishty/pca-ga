@@ -16,7 +16,7 @@ CLI:
 from __future__ import annotations
 import json, os, re, sys
 
-ROOT = "/workspace"
+ROOT = os.environ.get("PCA_GA_ROOT", os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 SRC_HTML = "/tmp/pcachanges.html"
 CHANGES = os.path.join(ROOT, "index", "bco_changes.jsonl")
 RENUM = os.path.join(ROOT, "index", "bco_renumberings.jsonl")
