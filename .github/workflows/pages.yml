@@ -42,8 +42,28 @@ jobs:
           python3 scripts/37_overture_pages.py .
       - name: Regenerate structure-first case pages and indexes
         run: |
+          # case_volume_class.json is an analysis cache and is not committed. Rebuild the
+          # minimal volume metadata needed by the structure-first publisher from the database.
+          python3 - <<'PY'
+          import json, sqlite3
+          from pathlib import Path
+
+          target = Path('index/case_volume_class.json')
+          if not target.exists():
+              db = sqlite3.connect('index/pca_minutes.db')
+              rows = db.execute(
+                  'SELECT DISTINCT vol, ga_ordinal, year FROM pages WHERE ga_ordinal >= 19'
+              ).fetchall()
+              db.close()
+              classes = {
+                  vol: {'ga': int(ga), 'year': int(year), 'class': 'SJC'}
+                  for vol, ga, year in rows
+              }
+              target.write_text(json.dumps(classes, indent=1) + '\n', encoding='utf-8')
+          PY
           python3 scripts/26_case_pages_structured.py
           python3 scripts/20_markdown_index.py
+          python3 scripts/27_case_index_reconcile.py
       - name: Regenerate LLM distribution
         run: python3 scripts/34_llm_pack.py .
       - name: Validate study catalogue
