@@ -174,8 +174,6 @@ This index is **structure-first**: every case listed links to a full-text page r
 | [1992-02](../cases/ga20_1992__1992-02.md) | Roberts v. New River Presbytery  ·  *dissent* |  |  | [full text](../cases/ga20_1992__1992-02.md) |
 | [1992-03](../cases/ga20_1992__1992-03.md) | Richard E. Olson, et al. v. Heritage Presbytery |  |  | [full text](../cases/ga20_1992__1992-03.md) |
 | [1992-04](../cases/ga20_1992__1992-04.md) | William A. Conrad, et al. v. Central Carolina Presbytery |  |  | [full text](../cases/ga20_1992__1992-04.md) |
-|  | SJC judicial decision (GA 20, p.160) | dismissed |  | _no separate decision located_ · [ga20_1992 p.160](../markdown/ga20_1992.md#ga20-p160) |
-|  | SJC judicial decision (GA 20, p.177) |  |  | _no separate decision located_ · [ga20_1992 p.177](../markdown/ga20_1992.md#ga20-p177) |
 
 ## 21st General Assembly (1993)
 
@@ -189,12 +187,7 @@ This index is **structure-first**: every case listed links to a full-text page r
 | [1992-10](../cases/ga21_1993__1992-10.md) | Mr. & Mrs. Matthew Bernard vs. Ascension Presbytery |  |  | [full text](../cases/ga21_1993__1992-10.md) |
 | [1993-01](../cases/ga21_1993__1993-01.md) | Frank J. Smith v. Northeast Presbytery |  |  | [full text](../cases/ga21_1993__1993-01.md) |
 | [1993-02](../cases/ga21_1993__1993-02.md) | Edgar Davis Johnson v. Evangel Presbytery |  |  | [full text](../cases/ga21_1993__1993-02.md) |
-|  | SJC judicial decision (GA 21, p.130) | dismissed |  | _no separate decision located_ · [ga21_1993 p.130](../markdown/ga21_1993.md#ga21-p130) |
-|  | SJC judicial decision (GA 21, p.135) |  |  | _no separate decision located_ · [ga21_1993 p.135](../markdown/ga21_1993.md#ga21-p135) |
-|  | SJC judicial decision (GA 21, p.143) |  |  | _no separate decision located_ · [ga21_1993 p.143](../markdown/ga21_1993.md#ga21-p143) |
-|  | SJC judicial decision (GA 21, p.166) |  |  | _no separate decision located_ · [ga21_1993 p.166](../markdown/ga21_1993.md#ga21-p166) |
 | 13-9 | Judicial Case 13-9 | dismissed |  | _disposed at 42nd GA_ · [disposition](../cases/ga42_2014__stub_2013-09.md) |
-|  | SJC judicial decision (GA 21, p.250) |  |  | _no separate decision located_ · [ga21_1993 p.250](../markdown/ga21_1993.md#ga21-p250) |
 
 ## 22nd General Assembly (1994)
 
@@ -208,13 +201,8 @@ This index is **structure-first**: every case listed links to a full-text page r
 | [1993-07](../cases/ga22_1994__1993-07.md) | Edward S. Kim v. Korean Southern Presbytery |  |  | [full text](../cases/ga22_1994__1993-07.md) |
 | [1993-08](../cases/ga22_1994__1993-08.md) | Ellisville Session v. Grace Presbytery |  |  | [full text](../cases/ga22_1994__1993-08.md) |
 | [1993-09](../cases/ga22_1994__1993-09.md) | William A. Conrad, et al. v. Central Carolina Presbytery | out_of_order |  | [full text](../cases/ga22_1994__1993-09.md) |
-|  | SJC judicial decision (GA 22, p.73) |  |  | _no separate decision located_ · [ga22_1994 p.73](../markdown/ga22_1994.md#ga22-p73) |
-|  | SJC judicial decision (GA 22, p.80) | dismissed |  | _no separate decision located_ · [ga22_1994 p.80](../markdown/ga22_1994.md#ga22-p80) |
 | 22-4 | Judicial Case 22-4 | dismissed |  | _decided at 50th GA_ · [full text](../cases/ga50_2023__2022-04.md) |
 | 75-6 | Complaint of Ellisville Session vs. Grace Presbytery | sustained |  | _reference (decided earlier)_ · [ga22_1994 p.156](../markdown/ga22_1994.md#ga22-p156) |
-|  | SJC judicial decision (GA 22, p.311) |  |  | _no separate decision located_ · [ga22_1994 p.311](../markdown/ga22_1994.md#ga22-p311) |
-|  | SJC judicial decision (GA 22, p.351) |  |  | _no separate decision located_ · [ga22_1994 p.351](../markdown/ga22_1994.md#ga22-p351) |
-|  | SJC judicial decision (GA 22, p.358) |  |  | _no separate decision located_ · [ga22_1994 p.358](../markdown/ga22_1994.md#ga22-p358) |
 
 ## 23rd General Assembly (1995)
 
@@ -244,15 +232,6 @@ This index is **structure-first**: every case listed links to a full-text page r
 | [1995-04](../cases/ga24_1996__1995-04.md) | Hugo Andrino v. Southern Florida Presbytery | sustained |  | [full text](../cases/ga24_1996__1995-04.md) |
 | [1995-06](../cases/ga24_1996__1995-06.md) | Session of West Springfield Covenant Community Church v. Northeast Presbytery |  |  | [full text](../cases/ga24_1996__1995-06.md) |
 | [1995-12](../cases/ga24_1996__1995-12.md) | Paul Jones v. Central Florida Presbytery |  |  | [full text](../cases/ga24_1996__1995-12.md) |
-|  | SJC judicial decision (GA 24, p.70) |  |  | _no separate decision located_ · [ga24_1996 p.70](../markdown/ga24_1996.md#ga24-p70) |
-|  | SJC judicial decision (GA 24, p.81) |  |  | _no separate decision located_ · [ga24_1996 p.81](../markdown/ga24_1996.md#ga24-p81) |
-|  | SJC judicial decision (GA 24, p.85) | dismissed |  | _no separate decision located_ · [ga24_1996 p.85](../markdown/ga24_1996.md#ga24-p85) |
-|  | SJC judicial decision (GA 24, p.117) |  |  | _no separate decision located_ · [ga24_1996 p.117](../markdown/ga24_1996.md#ga24-p117) |
-|  | SJC judicial decision (GA 24, p.126) | out_of_order |  | _no separate decision located_ · [ga24_1996 p.126](../markdown/ga24_1996.md#ga24-p126) |
-|  | SJC judicial decision (GA 24, p.138) | dismissed |  | _no separate decision located_ · [ga24_1996 p.138](../markdown/ga24_1996.md#ga24-p138) |
-|  | SJC judicial decision (GA 24, p.148) |  |  | _no separate decision located_ · [ga24_1996 p.148](../markdown/ga24_1996.md#ga24-p148) |
-|  | SJC judicial decision (GA 24, p.298) |  |  | _no separate decision located_ · [ga24_1996 p.298](../markdown/ga24_1996.md#ga24-p298) |
-|  | SJC judicial decision (GA 24, p.304) | dismissed |  | _no separate decision located_ · [ga24_1996 p.304](../markdown/ga24_1996.md#ga24-p304) |
 
 ## 25th General Assembly (1997)
 
@@ -269,11 +248,6 @@ This index is **structure-first**: every case listed links to a full-text page r
 | [1996-04](../cases/ga25_1997__1996-04.md) | Ray Larsen v. Pacific Presbytery |  |  | [full text](../cases/ga25_1997__1996-04.md) |
 | [1996-05](../cases/ga25_1997__1996-05.md) | Paul Jones vs. Central Florida Presbytery | denied |  | [full text](../cases/ga25_1997__1996-05.md) |
 | [1996-07](../cases/ga25_1997__1996-07.md) | Reference Re. Stuart Merriam from Tennessee Valley Presbytery |  |  | [full text](../cases/ga25_1997__1996-07.md) |
-|  | SJC judicial decision (GA 25, p.84) |  |  | _no separate decision located_ · [ga25_1997 p.84](../markdown/ga25_1997.md#ga25-p84) |
-|  | SJC judicial decision (GA 25, p.89) |  |  | _no separate decision located_ · [ga25_1997 p.89](../markdown/ga25_1997.md#ga25-p89) |
-|  | SJC judicial decision (GA 25, p.103) |  |  | _no separate decision located_ · [ga25_1997 p.103](../markdown/ga25_1997.md#ga25-p103) |
-|  | SJC judicial decision (GA 25, p.124) |  |  | _no separate decision located_ · [ga25_1997 p.124](../markdown/ga25_1997.md#ga25-p124) |
-|  | SJC judicial decision (GA 25, p.217) | dismissed |  | _no separate decision located_ · [ga25_1997 p.217](../markdown/ga25_1997.md#ga25-p217) |
 
 ## 26th General Assembly (1998)
 
@@ -296,12 +270,6 @@ This index is **structure-first**: every case listed links to a full-text page r
 | [1997-01](../cases/ga26_1998__stub_1997-01.md) | Felton v. Grace [ M26GA (1998): 103]. Withdrawn | Withdrawn |  | [disposition](../cases/ga26_1998__stub_1997-01.md) |
 | [1997-10](../cases/ga26_1998__stub_1997-10.md) | Raymond Larsen vs. Pacific Presbytery (Complaint) p. 103 | Withdrawn |  | [disposition](../cases/ga26_1998__stub_1997-10.md) |
 | [1997-12](../cases/ga26_1998__stub_1997-12.md) | Raymond Larsen vs. Pacific Presbytery (Complaint) p. 103 | Withdrawn |  | [disposition](../cases/ga26_1998__stub_1997-12.md) |
-|  | SJC judicial decision (GA 26, p.128) |  |  | _no separate decision located_ · [ga26_1998 p.128](../markdown/ga26_1998.md#ga26-p128) |
-|  | SJC judicial decision (GA 26, p.138) |  |  | _no separate decision located_ · [ga26_1998 p.138](../markdown/ga26_1998.md#ga26-p138) |
-|  | SJC judicial decision (GA 26, p.158) | dismissed |  | _no separate decision located_ · [ga26_1998 p.158](../markdown/ga26_1998.md#ga26-p158) |
-|  | SJC judicial decision (GA 26, p.196) |  |  | _no separate decision located_ · [ga26_1998 p.196](../markdown/ga26_1998.md#ga26-p196) |
-|  | SJC judicial decision (GA 26, p.205) |  |  | _no separate decision located_ · [ga26_1998 p.205](../markdown/ga26_1998.md#ga26-p205) |
-|  | SJC judicial decision (GA 26, p.212) |  |  | _no separate decision located_ · [ga26_1998 p.212](../markdown/ga26_1998.md#ga26-p212) |
 
 ## 27th General Assembly (1999)
 
@@ -314,11 +282,6 @@ This index is **structure-first**: every case listed links to a full-text page r
 | [1998-06](../cases/ga27_1999__1998-06.md) | Kim v. Korean Southwest Presbytery | dismissed |  | [full text](../cases/ga27_1999__1998-06.md) |
 | [1998-09/1998-10](../cases/ga27_1999__1998-09_1998-10.md) | Baer v. Illiana Presbytery / Curtis v. Eastern Carolina Presbytery  ·  *dissent* | denied | Teaching Elder David Baer appealed his suspension by Illiana Presbytery after being found guilty of violating the 9th commandment and ordination/installation vows by falsely telling his congregation that the session had 'demanded' his resignation for six weeks. The SJC denied the appeal, affirming the presbytery's… | [full text](../cases/ga27_1999__1998-09_1998-10.md) |
 | [1998-07](../cases/ga27_1999__stub_1998-07.md) | Chong Ho Yi Korean Capital Presbytery | Administratively Out of Order |  | [disposition](../cases/ga27_1999__stub_1998-07.md) |
-|  | SJC judicial decision (GA 27, p.61) |  |  | _no separate decision located_ · [ga27_1999 p.61](../markdown/ga27_1999.md#ga27-p61) |
-|  | SJC judicial decision (GA 27, p.63) |  |  | _no separate decision located_ · [ga27_1999 p.63](../markdown/ga27_1999.md#ga27-p63) |
-|  | SJC judicial decision (GA 27, p.166) |  |  | _no separate decision located_ · [ga27_1999 p.166](../markdown/ga27_1999.md#ga27-p166) |
-|  | SJC judicial decision (GA 27, p.170) |  |  | _no separate decision located_ · [ga27_1999 p.170](../markdown/ga27_1999.md#ga27-p170) |
-|  | SJC judicial decision (GA 27, p.176) |  |  | _no separate decision located_ · [ga27_1999 p.176](../markdown/ga27_1999.md#ga27-p176) |
 
 ## 28th General Assembly (2000)
 
@@ -329,10 +292,6 @@ This index is **structure-first**: every case listed links to a full-text page r
 | [1999-02](../cases/ga28_2000__1999-02.md) | Tan v. South Texas Presbytery | dismissed | TE Aureliano Tan's complaint against South Texas Presbytery was declared administratively out of order as not timely filed, because the complaint was dated and faxed on August 28 but not mailed until September 4, 1999, exceeding the 30-day filing period specified in BCO 43-3 and the SJC Manual. | [full text](../cases/ga28_2000__1999-02.md) |
 | [1999-04](../cases/ga28_2000__1999-04.md) | Appeal of Fitzsimmons v. Evangel |  |  | [full text](../cases/ga28_2000__1999-04.md) |
 | [2000-02](../cases/ga28_2000__2000-02.md) | of those, Cases 99-3, 99-5, 99-6, 99-7, 00-1, and 00-2 are in process with panels having b |  |  | [full text](../cases/ga28_2000__2000-02.md) |
-|  | SJC judicial decision (GA 28, p.116) |  |  | _no separate decision located_ · [ga28_2000 p.116](../markdown/ga28_2000.md#ga28-p116) |
-|  | SJC judicial decision (GA 28, p.279) | out_of_order |  | _no separate decision located_ · [ga28_2000 p.279](../markdown/ga28_2000.md#ga28-p279) |
-|  | SJC judicial decision (GA 28, p.293) |  |  | _no separate decision located_ · [ga28_2000 p.293](../markdown/ga28_2000.md#ga28-p293) |
-|  | SJC judicial decision (GA 28, p.298) | dismissed |  | _no separate decision located_ · [ga28_2000 p.298](../markdown/ga28_2000.md#ga28-p298) |
 
 ## 29th General Assembly (2001)
 
@@ -350,16 +309,6 @@ This index is **structure-first**: every case listed links to a full-text page r
 | [2000-03](../cases/ga29_2001__stub_2000-03.md) | South Coast Memorial | Withdrawn |  | [disposition](../cases/ga29_2001__stub_2000-03.md) |
 | [2000-05](../cases/ga29_2001__stub_2000-05.md) | King v. Evangel — M29GA, 2001 Dallas, p. 124. Abandoned. | Withdrawn |  | [disposition](../cases/ga29_2001__stub_2000-05.md) |
 | [2001-05](../cases/ga29_2001__stub_2001-05.md) | Ham v. Korean Capital | Withdrawn |  | [disposition](../cases/ga29_2001__stub_2001-05.md) |
-|  | SJC judicial decision (GA 29, p.84) | dismissed |  | _no separate decision located_ · [ga29_2001 p.84](../markdown/ga29_2001.md#ga29-p84) |
-|  | SJC judicial decision (GA 29, p.104) |  |  | _no separate decision located_ · [ga29_2001 p.104](../markdown/ga29_2001.md#ga29-p104) |
-|  | SJC judicial decision (GA 29, p.117) |  |  | _no separate decision located_ · [ga29_2001 p.117](../markdown/ga29_2001.md#ga29-p117) |
-|  | SJC judicial decision (GA 29, p.182) |  |  | _no separate decision located_ · [ga29_2001 p.182](../markdown/ga29_2001.md#ga29-p182) |
-|  | SJC judicial decision (GA 29, p.194) | dismissed |  | _no separate decision located_ · [ga29_2001 p.194](../markdown/ga29_2001.md#ga29-p194) |
-|  | SJC judicial decision (GA 29, p.212) |  |  | _no separate decision located_ · [ga29_2001 p.212](../markdown/ga29_2001.md#ga29-p212) |
-|  | SJC judicial decision (GA 29, p.216) |  |  | _no separate decision located_ · [ga29_2001 p.216](../markdown/ga29_2001.md#ga29-p216) |
-|  | SJC judicial decision (GA 29, p.241) | dismissed |  | _no separate decision located_ · [ga29_2001 p.241](../markdown/ga29_2001.md#ga29-p241) |
-|  | SJC judicial decision (GA 29, p.270) |  |  | _no separate decision located_ · [ga29_2001 p.270](../markdown/ga29_2001.md#ga29-p270) |
-|  | SJC judicial decision (GA 29, p.346) |  |  | _no separate decision located_ · [ga29_2001 p.346](../markdown/ga29_2001.md#ga29-p346) |
 
 ## 30th General Assembly (2002)
 
@@ -393,10 +342,6 @@ This index is **structure-first**: every case listed links to a full-text page r
 | [2001-26](../cases/ga30_2002__stub_2001-26.md) | Complaint RE David Scott Price vs. Northern Illinois Presbytery | Withdrawn |  | [disposition](../cases/ga30_2002__stub_2001-26.md) |
 | [2001-27](../cases/ga30_2002__stub_2001-27.md) | Complaint RE David Scott Price vs. Northern Illinois Presbytery | Withdrawn |  | [disposition](../cases/ga30_2002__stub_2001-27.md) |
 | [2001-29](../cases/ga30_2002__stub_2001-29.md) | Complaint TE Chris Yates, etal. vs. South Texas Presbytery | Withdrawn |  | [disposition](../cases/ga30_2002__stub_2001-29.md) |
-|  | SJC judicial decision (GA 30, p.189) | dismissed |  | _no separate decision located_ · [ga30_2002 p.189](../markdown/ga30_2002.md#ga30-p189) |
-|  | SJC judicial decision (GA 30, p.241) |  |  | _no separate decision located_ · [ga30_2002 p.241](../markdown/ga30_2002.md#ga30-p241) |
-|  | SJC judicial decision (GA 30, p.277) |  |  | _no separate decision located_ · [ga30_2002 p.277](../markdown/ga30_2002.md#ga30-p277) |
-|  | SJC judicial decision (GA 30, p.353) |  |  | _no separate decision located_ · [ga30_2002 p.353](../markdown/ga30_2002.md#ga30-p353) |
 
 ## 31st General Assembly (2003)
 
@@ -428,9 +373,6 @@ This index is **structure-first**: every case listed links to a full-text page r
 | [2003-01](../cases/ga32_2004__2003-01.md) | Appeal of RE Mark Chavalas vs. Northern Illinois Presbytery |  |  | [full text](../cases/ga32_2004__2003-01.md) |
 | [2003-06](../cases/ga32_2004__2003-06.md) | COMPLAINT OF RE PAUL M. WRIGHT VS. EASTERN CAROLINA PRESBYTERY Recommended Opinion: |  |  | [full text](../cases/ga32_2004__2003-06.md) |
 | [2003-07](../cases/ga32_2004__2003-07.md) | Tan v. South Texas  ·  *dissent* | out_of_order |  | [full text](../cases/ga32_2004__2003-07.md) |
-|  | SJC judicial decision (GA 32, p.49) |  |  | _no separate decision located_ · [ga32_2004 p.49](../markdown/ga32_2004.md#ga32-p49) |
-|  | SJC judicial decision (GA 32, p.86) |  |  | _no separate decision located_ · [ga32_2004 p.86](../markdown/ga32_2004.md#ga32-p86) |
-|  | SJC judicial decision (GA 32, p.230) | out_of_order |  | _no separate decision located_ · [ga32_2004 p.230](../markdown/ga32_2004.md#ga32-p230) |
 
 ## 33rd General Assembly (2005)
 
@@ -449,14 +391,6 @@ This index is **structure-first**: every case listed links to a full-text page r
 | [2004-09](../cases/ga33_2005__2004-09.md) | Appeal of RE Robar v. Central Carolina |  |  | [full text](../cases/ga33_2005__2004-09.md) |
 | [2004-11](../cases/ga33_2005__stub_2004-11.md) | Appeal of TE Robert J. Scott vs. Northern California Presbytery | Rendered Moot |  | [disposition](../cases/ga33_2005__stub_2004-11.md) |
 | [2004-12](../cases/ga33_2005__stub_2004-12.md) | Complaint of Mr. ME Hunt vs. Western Carolina Presbytery | Out of Order |  | [disposition](../cases/ga33_2005__stub_2004-12.md) |
-|  | SJC judicial decision (GA 33, p.58) |  |  | _no separate decision located_ · [ga33_2005 p.58](../markdown/ga33_2005.md#ga33-p58) |
-|  | SJC judicial decision (GA 33, p.112) | dismissed |  | _no separate decision located_ · [ga33_2005 p.112](../markdown/ga33_2005.md#ga33-p112) |
-|  | SJC judicial decision (GA 33, p.121) | sustained |  | _no separate decision located_ · [ga33_2005 p.121](../markdown/ga33_2005.md#ga33-p121) |
-|  | SJC judicial decision (GA 33, p.128) |  |  | _no separate decision located_ · [ga33_2005 p.128](../markdown/ga33_2005.md#ga33-p128) |
-|  | SJC judicial decision (GA 33, p.201) |  |  | _no separate decision located_ · [ga33_2005 p.201](../markdown/ga33_2005.md#ga33-p201) |
-|  | SJC judicial decision (GA 33, p.287) | dismissed |  | _no separate decision located_ · [ga33_2005 p.287](../markdown/ga33_2005.md#ga33-p287) |
-|  | SJC judicial decision (GA 33, p.300) | out_of_order |  | _no separate decision located_ · [ga33_2005 p.300](../markdown/ga33_2005.md#ga33-p300) |
-|  | SJC judicial decision (GA 33, p.408) |  |  | _no separate decision located_ · [ga33_2005 p.408](../markdown/ga33_2005.md#ga33-p408) |
 
 ## 34th General Assembly (2006)
 
@@ -480,10 +414,6 @@ This index is **structure-first**: every case listed links to a full-text page r
 | [2006-01](../cases/ga34_2006__stub_2006-01.md) | Complaint of RE Hugo Andrino vs. Southern Florida Presbytery | Out of Order |  | [disposition](../cases/ga34_2006__stub_2006-01.md) |
 | [2006-03](../cases/ga34_2006__stub_2006-03.md) | Request For Original Jurisdiction, Calvary Presbytery RE: S. Wilkins | Out of Order |  | [disposition](../cases/ga34_2006__stub_2006-03.md) |
 | [2006-04](../cases/ga34_2006__stub_2006-04.md) | Complaint of James Peffley, Et Altera vs. Heritage Presbytery | Out of Order |  | [disposition](../cases/ga34_2006__stub_2006-04.md) |
-|  | SJC judicial decision (GA 34, p.94) |  |  | _no separate decision located_ · [ga34_2006 p.94](../markdown/ga34_2006.md#ga34-p94) |
-|  | SJC judicial decision (GA 34, p.128) |  |  | _no separate decision located_ · [ga34_2006 p.128](../markdown/ga34_2006.md#ga34-p128) |
-|  | SJC judicial decision (GA 34, p.259) |  |  | _no separate decision located_ · [ga34_2006 p.259](../markdown/ga34_2006.md#ga34-p259) |
-|  | SJC judicial decision (GA 34, p.582) |  |  | _no separate decision located_ · [ga34_2006 p.582](../markdown/ga34_2006.md#ga34-p582) |
 
 ## 35th General Assembly (2007)
 
@@ -492,8 +422,6 @@ This index is **structure-first**: every case listed links to a full-text page r
 | [2006-06](../cases/ga35_2007__2006-06.md) | Complaint of Devin & Tracey Ehrlich vs. North Georgia Presbytery |  |  | [full text](../cases/ga35_2007__2006-06.md) |
 | [2006-07](../cases/ga35_2007__2006-07.md) | TE Michael Chastain v. Heritage Presbytery  ·  *dissent* | out_of_order |  | [full text](../cases/ga35_2007__2006-07.md) |
 | [2007-05](../cases/ga35_2007__stub_2007-05.md) | Appeal of Dr. George W. Mitchell vs. Evangel Presbytery | Withdrawn |  | [disposition](../cases/ga35_2007__stub_2007-05.md) |
-|  | SJC judicial decision (GA 35, p.150) |  |  | _no separate decision located_ · [ga35_2007 p.150](../markdown/ga35_2007.md#ga35-p150) |
-|  | SJC judicial decision (GA 35, p.178) |  |  | _no separate decision located_ · [ga35_2007 p.178](../markdown/ga35_2007.md#ga35-p178) |
 
 ## 36th General Assembly (2008)
 
@@ -508,12 +436,6 @@ This index is **structure-first**: every case listed links to a full-text page r
 | [2007-14](../cases/ga36_2008__2007-14.md) | Presbyterian Church in America v. Louisiana Presbytery  ·  *dissent* | dismissed |  | [full text](../cases/ga36_2008__2007-14.md) |
 | [2007-03](../cases/ga36_2008__stub_2007-03.md) | Segallis v. Central Florida | Out of Order |  | [disposition](../cases/ga36_2008__stub_2007-03.md) |
 | [2007-15](../cases/ga36_2008__stub_2007-15.md) | Complaint TE Sang Chul Choi vs. Korean Central Presbytery | Withdrawn |  | [disposition](../cases/ga36_2008__stub_2007-15.md) |
-|  | SJC judicial decision (GA 36, p.191) |  |  | _no separate decision located_ · [ga36_2008 p.191](../markdown/ga36_2008.md#ga36-p191) |
-|  | SJC judicial decision (GA 36, p.193) | dismissed |  | _no separate decision located_ · [ga36_2008 p.193](../markdown/ga36_2008.md#ga36-p193) |
-|  | SJC judicial decision (GA 36, p.218) | out_of_order |  | _no separate decision located_ · [ga36_2008 p.218](../markdown/ga36_2008.md#ga36-p218) |
-|  | SJC judicial decision (GA 36, p.232) |  |  | _no separate decision located_ · [ga36_2008 p.232](../markdown/ga36_2008.md#ga36-p232) |
-|  | SJC judicial decision (GA 36, p.248) | dismissed |  | _no separate decision located_ · [ga36_2008 p.248](../markdown/ga36_2008.md#ga36-p248) |
-|  | SJC judicial decision (GA 36, p.270) |  |  | _no separate decision located_ · [ga36_2008 p.270](../markdown/ga36_2008.md#ga36-p270) |
 
 ## 37th General Assembly (2009)
 
@@ -533,17 +455,6 @@ This index is **structure-first**: every case listed links to a full-text page r
 | [2008-07](../cases/ga37_2009__stub_2008-07.md) | Complaint of RE H. Lance Acree vs. Chesapeake Presbytery | Out of Order |  | [disposition](../cases/ga37_2009__stub_2008-07.md) |
 | [2008-08](../cases/ga37_2009__stub_2008-08.md) | Complaint of DE Joong Min Soh vs. Philadelphia Presbytery | Out of Order |  | [disposition](../cases/ga37_2009__stub_2008-08.md) |
 | [2008-12](../cases/ga37_2009__stub_2008-12.md) | Appeal of Malone v. Metro New York | Out of Order |  | [disposition](../cases/ga37_2009__stub_2008-12.md) |
-|  | SJC judicial decision (GA 37, p.127) |  |  | _no separate decision located_ · [ga37_2009 p.127](../markdown/ga37_2009.md#ga37-p127) |
-|  | SJC judicial decision (GA 37, p.150) |  |  | _no separate decision located_ · [ga37_2009 p.150](../markdown/ga37_2009.md#ga37-p150) |
-|  | SJC judicial decision (GA 37, p.164) |  |  | _no separate decision located_ · [ga37_2009 p.164](../markdown/ga37_2009.md#ga37-p164) |
-|  | SJC judicial decision (GA 37, p.166) |  |  | _no separate decision located_ · [ga37_2009 p.166](../markdown/ga37_2009.md#ga37-p166) |
-|  | SJC judicial decision (GA 37, p.171) |  |  | _no separate decision located_ · [ga37_2009 p.171](../markdown/ga37_2009.md#ga37-p171) |
-|  | SJC judicial decision (GA 37, p.174) | out_of_order |  | _no separate decision located_ · [ga37_2009 p.174](../markdown/ga37_2009.md#ga37-p174) |
-|  | SJC judicial decision (GA 37, p.184) |  |  | _no separate decision located_ · [ga37_2009 p.184](../markdown/ga37_2009.md#ga37-p184) |
-|  | SJC judicial decision (GA 37, p.200) |  |  | _no separate decision located_ · [ga37_2009 p.200](../markdown/ga37_2009.md#ga37-p200) |
-|  | SJC judicial decision (GA 37, p.211) |  |  | _no separate decision located_ · [ga37_2009 p.211](../markdown/ga37_2009.md#ga37-p211) |
-|  | SJC judicial decision (GA 37, p.259) |  |  | _no separate decision located_ · [ga37_2009 p.259](../markdown/ga37_2009.md#ga37-p259) |
-|  | SJC judicial decision (GA 37, p.265) |  |  | _no separate decision located_ · [ga37_2009 p.265](../markdown/ga37_2009.md#ga37-p265) |
 | 2005-14 | Judicial Case 2005-14 | out_of_order |  | _reference (decided earlier)_ · [ga37_2009 p.327](../markdown/ga37_2009.md#ga37-p327) |
 
 ## 38th General Assembly (2010)
@@ -571,20 +482,6 @@ This index is **structure-first**: every case listed links to a full-text page r
 | [2010-02](../cases/ga38_2010__stub_2010-02.md) | Cutler v. Platte Valley | Administratively Out of Order |  | [disposition](../cases/ga38_2010__stub_2010-02.md) |
 | [2010-05](../cases/ga38_2010__stub_2010-05.md) | Carpenter v. Siouxlands | Administratively Out of Order |  | [disposition](../cases/ga38_2010__stub_2010-05.md) |
 | [2010-06](../cases/ga38_2010__stub_2010-06.md) | Yuan: An appeal to the SJC alleging a "minister's heresy" | Administratively Out of Order |  | [disposition](../cases/ga38_2010__stub_2010-06.md) |
-|  | SJC judicial decision (GA 38, p.93) |  |  | _no separate decision located_ · [ga38_2010 p.93](../markdown/ga38_2010.md#ga38-p93) |
-|  | SJC judicial decision (GA 38, p.115) |  |  | _no separate decision located_ · [ga38_2010 p.115](../markdown/ga38_2010.md#ga38-p115) |
-|  | SJC judicial decision (GA 38, p.117) |  |  | _no separate decision located_ · [ga38_2010 p.117](../markdown/ga38_2010.md#ga38-p117) |
-|  | SJC judicial decision (GA 38, p.152) |  |  | _no separate decision located_ · [ga38_2010 p.152](../markdown/ga38_2010.md#ga38-p152) |
-|  | SJC judicial decision (GA 38, p.167) |  |  | _no separate decision located_ · [ga38_2010 p.167](../markdown/ga38_2010.md#ga38-p167) |
-|  | SJC judicial decision (GA 38, p.175) | sustained |  | _no separate decision located_ · [ga38_2010 p.175](../markdown/ga38_2010.md#ga38-p175) |
-|  | SJC judicial decision (GA 38, p.177) |  |  | _no separate decision located_ · [ga38_2010 p.177](../markdown/ga38_2010.md#ga38-p177) |
-|  | SJC judicial decision (GA 38, p.196) | sustained |  | _no separate decision located_ · [ga38_2010 p.196](../markdown/ga38_2010.md#ga38-p196) |
-|  | SJC judicial decision (GA 38, p.230) |  |  | _no separate decision located_ · [ga38_2010 p.230](../markdown/ga38_2010.md#ga38-p230) |
-|  | SJC judicial decision (GA 38, p.232) |  |  | _no separate decision located_ · [ga38_2010 p.232](../markdown/ga38_2010.md#ga38-p232) |
-|  | SJC judicial decision (GA 38, p.234) |  |  | _no separate decision located_ · [ga38_2010 p.234](../markdown/ga38_2010.md#ga38-p234) |
-|  | SJC judicial decision (GA 38, p.252) | denied |  | _no separate decision located_ · [ga38_2010 p.252](../markdown/ga38_2010.md#ga38-p252) |
-|  | SJC judicial decision (GA 38, p.392) |  |  | _no separate decision located_ · [ga38_2010 p.392](../markdown/ga38_2010.md#ga38-p392) |
-|  | SJC judicial decision (GA 38, p.411) |  |  | _no separate decision located_ · [ga38_2010 p.411](../markdown/ga38_2010.md#ga38-p411) |
 
 ## 39th General Assembly (2011)
 
@@ -606,11 +503,6 @@ This index is **structure-first**: every case listed links to a full-text page r
 | [2010-15](../cases/ga39_2011__stub_2010-15.md) | Case 2010-15: was withdrawn. The Standing Judicial Commission has completed its  | Withdrawn |  | [disposition](../cases/ga39_2011__stub_2010-15.md) |
 | [2010-17](../cases/ga39_2011__stub_2010-17.md) | Request to General Assembly/Standing Judicial Commission by | Administratively Out of Order |  | [disposition](../cases/ga39_2011__stub_2010-17.md) |
 | [2010-25](../cases/ga39_2011__stub_2010-25.md) | Mr. Peter Yuan vs. South Coast Presbytery | Administratively Out of Order |  | [disposition](../cases/ga39_2011__stub_2010-25.md) |
-|  | SJC judicial decision (GA 39, p.458) | dismissed |  | _no separate decision located_ · [ga39_2011 p.458](../markdown/ga39_2011.md#ga39-p458) |
-|  | SJC judicial decision (GA 39, p.486) |  |  | _no separate decision located_ · [ga39_2011 p.486](../markdown/ga39_2011.md#ga39-p486) |
-|  | SJC judicial decision (GA 39, p.547) |  |  | _no separate decision located_ · [ga39_2011 p.547](../markdown/ga39_2011.md#ga39-p547) |
-|  | SJC judicial decision (GA 39, p.559) |  |  | _no separate decision located_ · [ga39_2011 p.559](../markdown/ga39_2011.md#ga39-p559) |
-|  | SJC judicial decision (GA 39, p.608) |  |  | _no separate decision located_ · [ga39_2011 p.608](../markdown/ga39_2011.md#ga39-p608) |
 
 ## 40th General Assembly (2012)
 
@@ -691,21 +583,6 @@ This index is **structure-first**: every case listed links to a full-text page r
 | [2015-10](../cases/ga44_2016__2015-10.md) | Thompson v. South Florida Presbytery | dismissed | Thompson's BCO 40-5 application regarding South Florida Presbytery was found administratively out of order and dismissed because it dealt with proceedings in a judicial case in which a complaint had already been filed, precluding review and control under BCO 40-3. | [full text](../cases/ga44_2016__2015-10.md) |
 | [2015-11](../cases/ga44_2016__2015-11.md) | Thompson v. South Florida Presbytery | sustained | The SJC sustained Thompson's complaint, finding that the Granada Session's judicial commission procedurally erred in imposing excommunication for contumacy before trial because Thompson's behavior did not constitute the immediately censurable kind of contumacy under BCO 32-6.b, and that failing to reach a BCO 38-1… | [full text](../cases/ga44_2016__2015-11.md) |
 | [2015-12](../cases/ga44_2016__2015-12.md) | Wills v. Metro Atlanta Presbytery  ·  *dissent* | dismissed | The SJC ruled Wills's complaint against MAP's September 15, 2015 action declaring a prior complaint administratively out of order was itself administratively out of order, because BCO 43-2 requires a complaint to first be made to the court whose act is alleged to be in error, and MAP had not yet had the opportunity to… | [full text](../cases/ga44_2016__2015-12.md) |
-|  | SJC judicial decision (GA 44, p.391) |  |  | _no separate decision located_ · [ga44_2016 p.391](../markdown/ga44_2016.md#ga44-p391) |
-|  | SJC judicial decision (GA 44, p.396) |  |  | _no separate decision located_ · [ga44_2016 p.396](../markdown/ga44_2016.md#ga44-p396) |
-|  | SJC judicial decision (GA 44, p.414) |  |  | _no separate decision located_ · [ga44_2016 p.414](../markdown/ga44_2016.md#ga44-p414) |
-|  | SJC judicial decision (GA 44, p.417) |  |  | _no separate decision located_ · [ga44_2016 p.417](../markdown/ga44_2016.md#ga44-p417) |
-|  | SJC judicial decision (GA 44, p.431) |  |  | _no separate decision located_ · [ga44_2016 p.431](../markdown/ga44_2016.md#ga44-p431) |
-|  | SJC judicial decision (GA 44, p.442) |  |  | _no separate decision located_ · [ga44_2016 p.442](../markdown/ga44_2016.md#ga44-p442) |
-|  | SJC judicial decision (GA 44, p.505) |  |  | _no separate decision located_ · [ga44_2016 p.505](../markdown/ga44_2016.md#ga44-p505) |
-|  | SJC judicial decision (GA 44, p.533) |  |  | _no separate decision located_ · [ga44_2016 p.533](../markdown/ga44_2016.md#ga44-p533) |
-|  | SJC judicial decision (GA 44, p.561) | dismissed |  | _no separate decision located_ · [ga44_2016 p.561](../markdown/ga44_2016.md#ga44-p561) |
-|  | SJC judicial decision (GA 44, p.574) | dismissed |  | _no separate decision located_ · [ga44_2016 p.574](../markdown/ga44_2016.md#ga44-p574) |
-|  | SJC judicial decision (GA 44, p.578) | dismissed |  | _no separate decision located_ · [ga44_2016 p.578](../markdown/ga44_2016.md#ga44-p578) |
-|  | SJC judicial decision (GA 44, p.589) |  |  | _no separate decision located_ · [ga44_2016 p.589](../markdown/ga44_2016.md#ga44-p589) |
-|  | SJC judicial decision (GA 44, p.611) |  |  | _no separate decision located_ · [ga44_2016 p.611](../markdown/ga44_2016.md#ga44-p611) |
-|  | SJC judicial decision (GA 44, p.623) | dismissed |  | _no separate decision located_ · [ga44_2016 p.623](../markdown/ga44_2016.md#ga44-p623) |
-|  | SJC judicial decision (GA 44, p.670) |  |  | _no separate decision located_ · [ga44_2016 p.670](../markdown/ga44_2016.md#ga44-p670) |
 
 ## 45th General Assembly (2017)
 
@@ -720,17 +597,6 @@ This index is **structure-first**: every case listed links to a full-text page r
 | [2016-09](../cases/ga45_2017__2016-09.md) | Fordice v. Pacific Northwest Presbytery  ·  *dissent* | sustained | Fordice complained that Pacific Northwest Presbytery erred by allowing TE Nathan Lewis to confess under BCO 38-1 and closing the matter without adequate process, after its own investigative committee had found a strong presumption of guilt on 18 allegations. The SJC unanimously sustained the complaint and remanded the… | [full text](../cases/ga45_2017__2016-09.md) |
 | [2016-12](../cases/ga45_2017__2016-12.md) | Harwell et al. v. Nashville Presbytery | dismissed | The SJC dismissed this complaint as judicially out of order because the Harwell complainants had not first properly filed a complaint with Nashville Presbytery—what they filed with Presbytery was in fact a suggestion of charges or call for investigation under BCO 31-2, not a complaint against a court action—and then… | [full text](../cases/ga45_2017__2016-12.md) |
 | [2016-14](../cases/ga45_2017__2016-14.md) | Wills v. Metro Atlanta Presbytery  ·  *dissent* | denied | TE Tolivar Wills complained that Metro Atlanta Presbytery improperly dissolved Grace North Atlanta Church without following formal judicial process under BCO 40-6. The SJC denied the complaint, ruling that BCO 13-9(f) grants presbytery inherent authority to dissolve a church without mandating any specific procedure… | [full text](../cases/ga45_2017__2016-14.md) |
-|  | SJC judicial decision (GA 45, p.372) |  |  | _no separate decision located_ · [ga45_2017 p.372](../markdown/ga45_2017.md#ga45-p372) |
-|  | SJC judicial decision (GA 45, p.386) |  |  | _no separate decision located_ · [ga45_2017 p.386](../markdown/ga45_2017.md#ga45-p386) |
-|  | SJC judicial decision (GA 45, p.389) |  |  | _no separate decision located_ · [ga45_2017 p.389](../markdown/ga45_2017.md#ga45-p389) |
-|  | SJC judicial decision (GA 45, p.412) |  |  | _no separate decision located_ · [ga45_2017 p.412](../markdown/ga45_2017.md#ga45-p412) |
-|  | SJC judicial decision (GA 45, p.423) |  |  | _no separate decision located_ · [ga45_2017 p.423](../markdown/ga45_2017.md#ga45-p423) |
-|  | SJC judicial decision (GA 45, p.483) |  |  | _no separate decision located_ · [ga45_2017 p.483](../markdown/ga45_2017.md#ga45-p483) |
-|  | SJC judicial decision (GA 45, p.492) |  |  | _no separate decision located_ · [ga45_2017 p.492](../markdown/ga45_2017.md#ga45-p492) |
-|  | SJC judicial decision (GA 45, p.504) |  |  | _no separate decision located_ · [ga45_2017 p.504](../markdown/ga45_2017.md#ga45-p504) |
-|  | SJC judicial decision (GA 45, p.521) |  |  | _no separate decision located_ · [ga45_2017 p.521](../markdown/ga45_2017.md#ga45-p521) |
-|  | SJC judicial decision (GA 45, p.558) |  |  | _no separate decision located_ · [ga45_2017 p.558](../markdown/ga45_2017.md#ga45-p558) |
-|  | SJC judicial decision (GA 45, p.663) | dismissed |  | _no separate decision located_ · [ga45_2017 p.663](../markdown/ga45_2017.md#ga45-p663) |
 
 ## 46th General Assembly (2018)
 
@@ -755,16 +621,7 @@ This index is **structure-first**: every case listed links to a full-text page r
 | [2017-08](../cases/ga46_2018__stub_2017-08.md) | BCO 40-5 report of RE John B. Thompson. Ruled Out Of Order | Out of Order |  | [disposition](../cases/ga46_2018__stub_2017-08.md) |
 | [2017-09](../cases/ga46_2018__stub_2017-09.md) | BCO 40-5 report of RE John B. Thompson. Ruled Out Of Order | Out of Order |  | [disposition](../cases/ga46_2018__stub_2017-09.md) |
 | [2017-13](../cases/ga46_2018__stub_2017-13.md) | Complaint of RE Michael Tripp v. Ohio Valley Presbytery | Withdrawn |  | [disposition](../cases/ga46_2018__stub_2017-13.md) |
-|  | SJC judicial decision (GA 46, p.37) |  |  | _no separate decision located_ · [ga46_2018 p.37](../markdown/ga46_2018.md#ga46-p37) |
-|  | SJC judicial decision (GA 46, p.376) |  |  | _no separate decision located_ · [ga46_2018 p.376](../markdown/ga46_2018.md#ga46-p376) |
-|  | SJC judicial decision (GA 46, p.394) | out_of_order |  | _no separate decision located_ · [ga46_2018 p.394](../markdown/ga46_2018.md#ga46-p394) |
-|  | SJC judicial decision (GA 46, p.411) | dismissed |  | _no separate decision located_ · [ga46_2018 p.411](../markdown/ga46_2018.md#ga46-p411) |
-|  | SJC judicial decision (GA 46, p.452) |  |  | _no separate decision located_ · [ga46_2018 p.452](../markdown/ga46_2018.md#ga46-p452) |
 | 2018-1 | Appeal of TE James Bachmann v. Nashville Presbytery | out_of_order |  | _decided at 48th GA_ · [full text](../cases/ga48_2021__2018-01.md) |
-|  | SJC judicial decision (GA 46, p.530) | out_of_order |  | _no separate decision located_ · [ga46_2018 p.530](../markdown/ga46_2018.md#ga46-p530) |
-|  | SJC judicial decision (GA 46, p.554) |  |  | _no separate decision located_ · [ga46_2018 p.554](../markdown/ga46_2018.md#ga46-p554) |
-|  | SJC judicial decision (GA 46, p.563) |  |  | _no separate decision located_ · [ga46_2018 p.563](../markdown/ga46_2018.md#ga46-p563) |
-|  | SJC judicial decision (GA 46, p.586) |  |  | _no separate decision located_ · [ga46_2018 p.586](../markdown/ga46_2018.md#ga46-p586) |
 
 ## 47th General Assembly (2019)
 
