@@ -33,9 +33,6 @@ CASES = os.path.join(ROOT, "cases")
 
 PAGE_MARKER = re.compile(r"<!--\s*PAGE\b[^>]*\bpdf_page=(\d+)\b", re.I)
 CASE_NUM = re.compile(r"\b(\d{4})-(\d{1,3}[A-Za-z]?)\b")
-# We do not require the whole holding to fit one fragile regex.  First identify sentence-ish text
-# that contains a disposition verb, then collect case numbers only when the same sentence expressly
-# speaks of a Complaint/Appeal/Petition and Case No(s).  That excludes ordinary precedent cites.
 DISPOSITION = re.compile(
     r"(?i)\b(?:is|are|be|was|were)\s+(?:partially\s+|in\s+part\s+)?"
     r"(?:sustained|denied|dismissed|granted|affirmed|reversed|annulled|"
@@ -65,8 +62,6 @@ def expressly_decided_siblings(text: str, existing: list[str]) -> list[str]:
     if not existing:
         return []
     years = {int(n[:4]) for n in existing if re.match(r"\d{4}-", n)}
-    # Page comments and hard line wrapping can interrupt a holding.  Strip comments and collapse
-    # whitespace before splitting into sentence-ish chunks.
     flat = re.sub(r"<!--.*?-->", " ", text, flags=re.S)
     flat = re.sub(r"\s+", " ", flat)
     out: list[str] = []
@@ -75,8 +70,6 @@ def expressly_decided_siblings(text: str, existing: list[str]) -> list[str]:
             continue
         for raw in (m.group(0) for m in CASE_NUM.finditer(sentence)):
             n = norm_num(raw)
-            # Consolidated dockets are contemporaneous.  This guards against an older precedent
-            # mentioned in the same paragraph without needing the unavailable database roster.
             if years and all(abs(int(n[:4]) - y) > 2 for y in years):
                 continue
             if n not in out:
@@ -99,8 +92,6 @@ def page_identity(path: str, page_map: dict[str, dict]) -> tuple[str, list[str],
     if not fm:
         return None
     vol, tail = fm.groups()
-    nums = [norm_num(x) for x in CASE_NUM.findall(tail.replace("_", " "))]
-    # CASE_NUM.findall returns groups when used this way; recover from the filename explicitly.
     nums = [norm_num(m.group(0)) for m in CASE_NUM.finditer(tail.replace("_", " "))]
     if not nums:
         return None
@@ -135,7 +126,6 @@ def main() -> None:
         siblings = expressly_decided_siblings(text, nums)
         merged = sorted(dict.fromkeys(nums + siblings))
 
-        # Ensure even an incompletely mapped existing page has a canonical map entry.
         canonical = {"vol": vol, "file": case_file, "numbers": merged, "title": title}
         if merged != nums:
             joined = "/".join(merged)
@@ -143,7 +133,6 @@ def main() -> None:
             with open(path, "w", encoding="utf-8") as f:
                 f.write(text)
 
-            # Change the docket label wherever the index already links to this stable case URL.
             pat = re.compile(r"(\|\s*\[)[^\]]+(\]\(\.\./cases/" + re.escape(case_file) + r"\.md\))")
             index_text = pat.sub(lambda m: m.group(1) + joined + m.group(2), index_text)
             expanded.append((case_file, merged))
@@ -176,8 +165,6 @@ def main() -> None:
     if unique:
         print("resolved:", " ".join(f"{v}:p{p}" for v, p in unique))
 
-    # Regression guard for the defect that prompted this reconciliation.  If the known GA49
-    # consolidated decision is present, all three docket numbers must map to the same page.
     ga49 = [page_map.get(n) for n in ("2020-07", "2020-08", "2020-09")]
     if any(ga49) and not all(x and x.get("file") == "ga49_2022__2020-09" for x in ga49):
         raise SystemExit("GA49 consolidated decision reconciliation failed for 2020-07/08/09")
