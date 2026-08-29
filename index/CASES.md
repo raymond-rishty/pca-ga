@@ -176,7 +176,6 @@ This index is **structure-first**: every case listed links to a full-text page r
 | [1992-04](../cases/ga20_1992__1992-04.md) | William A. Conrad, et al. v. Central Carolina Presbytery |  |  | [full text](../cases/ga20_1992__1992-04.md) |
 |  | SJC judicial decision (GA 20, p.160) | dismissed |  | _no separate decision located_ · [ga20_1992 p.160](../markdown/ga20_1992.md#ga20-p160) |
 |  | SJC judicial decision (GA 20, p.177) |  |  | _no separate decision located_ · [ga20_1992 p.177](../markdown/ga20_1992.md#ga20-p177) |
-|  | SJC judicial decision (GA 20, p.195) | sustained |  | _no separate decision located_ · [ga20_1992 p.195](../markdown/ga20_1992.md#ga20-p195) |
 
 ## 21st General Assembly (1993)
 
@@ -297,7 +296,6 @@ This index is **structure-first**: every case listed links to a full-text page r
 | [1997-01](../cases/ga26_1998__stub_1997-01.md) | Felton v. Grace [ M26GA (1998): 103]. Withdrawn | Withdrawn |  | [disposition](../cases/ga26_1998__stub_1997-01.md) |
 | [1997-10](../cases/ga26_1998__stub_1997-10.md) | Raymond Larsen vs. Pacific Presbytery (Complaint) p. 103 | Withdrawn |  | [disposition](../cases/ga26_1998__stub_1997-10.md) |
 | [1997-12](../cases/ga26_1998__stub_1997-12.md) | Raymond Larsen vs. Pacific Presbytery (Complaint) p. 103 | Withdrawn |  | [disposition](../cases/ga26_1998__stub_1997-12.md) |
-| 23-29 | Judicial Case 23-29 | sustained |  | _no separate decision located_ · [ga26_1998 p.120](../markdown/ga26_1998.md#ga26-p120) |
 |  | SJC judicial decision (GA 26, p.128) |  |  | _no separate decision located_ · [ga26_1998 p.128](../markdown/ga26_1998.md#ga26-p128) |
 |  | SJC judicial decision (GA 26, p.138) |  |  | _no separate decision located_ · [ga26_1998 p.138](../markdown/ga26_1998.md#ga26-p138) |
 |  | SJC judicial decision (GA 26, p.158) | dismissed |  | _no separate decision located_ · [ga26_1998 p.158](../markdown/ga26_1998.md#ga26-p158) |
@@ -354,7 +352,6 @@ This index is **structure-first**: every case listed links to a full-text page r
 | [2001-05](../cases/ga29_2001__stub_2001-05.md) | Ham v. Korean Capital | Withdrawn |  | [disposition](../cases/ga29_2001__stub_2001-05.md) |
 |  | SJC judicial decision (GA 29, p.84) | dismissed |  | _no separate decision located_ · [ga29_2001 p.84](../markdown/ga29_2001.md#ga29-p84) |
 |  | SJC judicial decision (GA 29, p.104) |  |  | _no separate decision located_ · [ga29_2001 p.104](../markdown/ga29_2001.md#ga29-p104) |
-|  | SJC judicial decision (GA 29, p.108) | denied |  | _no separate decision located_ · [ga29_2001 p.108](../markdown/ga29_2001.md#ga29-p108) |
 |  | SJC judicial decision (GA 29, p.117) |  |  | _no separate decision located_ · [ga29_2001 p.117](../markdown/ga29_2001.md#ga29-p117) |
 |  | SJC judicial decision (GA 29, p.182) |  |  | _no separate decision located_ · [ga29_2001 p.182](../markdown/ga29_2001.md#ga29-p182) |
 |  | SJC judicial decision (GA 29, p.194) | dismissed |  | _no separate decision located_ · [ga29_2001 p.194](../markdown/ga29_2001.md#ga29-p194) |
@@ -396,7 +393,6 @@ This index is **structure-first**: every case listed links to a full-text page r
 | [2001-26](../cases/ga30_2002__stub_2001-26.md) | Complaint RE David Scott Price vs. Northern Illinois Presbytery | Withdrawn |  | [disposition](../cases/ga30_2002__stub_2001-26.md) |
 | [2001-27](../cases/ga30_2002__stub_2001-27.md) | Complaint RE David Scott Price vs. Northern Illinois Presbytery | Withdrawn |  | [disposition](../cases/ga30_2002__stub_2001-27.md) |
 | [2001-29](../cases/ga30_2002__stub_2001-29.md) | Complaint TE Chris Yates, etal. vs. South Texas Presbytery | Withdrawn |  | [disposition](../cases/ga30_2002__stub_2001-29.md) |
-|  | SJC judicial decision (GA 30, p.177) | dismissed |  | _no separate decision located_ · [ga30_2002 p.177](../markdown/ga30_2002.md#ga30-p177) |
 |  | SJC judicial decision (GA 30, p.189) | dismissed |  | _no separate decision located_ · [ga30_2002 p.189](../markdown/ga30_2002.md#ga30-p189) |
 |  | SJC judicial decision (GA 30, p.241) |  |  | _no separate decision located_ · [ga30_2002 p.241](../markdown/ga30_2002.md#ga30-p241) |
 |  | SJC judicial decision (GA 30, p.277) |  |  | _no separate decision located_ · [ga30_2002 p.277](../markdown/ga30_2002.md#ga30-p277) |
@@ -539,13 +535,11 @@ This index is **structure-first**: every case listed links to a full-text page r
 | [2008-12](../cases/ga37_2009__stub_2008-12.md) | Appeal of Malone v. Metro New York | Out of Order |  | [disposition](../cases/ga37_2009__stub_2008-12.md) |
 |  | SJC judicial decision (GA 37, p.127) |  |  | _no separate decision located_ · [ga37_2009 p.127](../markdown/ga37_2009.md#ga37-p127) |
 |  | SJC judicial decision (GA 37, p.150) |  |  | _no separate decision located_ · [ga37_2009 p.150](../markdown/ga37_2009.md#ga37-p150) |
-|  | SJC judicial decision (GA 37, p.154) | denied |  | _no separate decision located_ · [ga37_2009 p.154](../markdown/ga37_2009.md#ga37-p154) |
 |  | SJC judicial decision (GA 37, p.164) |  |  | _no separate decision located_ · [ga37_2009 p.164](../markdown/ga37_2009.md#ga37-p164) |
 |  | SJC judicial decision (GA 37, p.166) |  |  | _no separate decision located_ · [ga37_2009 p.166](../markdown/ga37_2009.md#ga37-p166) |
 |  | SJC judicial decision (GA 37, p.171) |  |  | _no separate decision located_ · [ga37_2009 p.171](../markdown/ga37_2009.md#ga37-p171) |
 |  | SJC judicial decision (GA 37, p.174) | out_of_order |  | _no separate decision located_ · [ga37_2009 p.174](../markdown/ga37_2009.md#ga37-p174) |
 |  | SJC judicial decision (GA 37, p.184) |  |  | _no separate decision located_ · [ga37_2009 p.184](../markdown/ga37_2009.md#ga37-p184) |
-|  | SJC judicial decision (GA 37, p.187) | denied |  | _no separate decision located_ · [ga37_2009 p.187](../markdown/ga37_2009.md#ga37-p187) |
 |  | SJC judicial decision (GA 37, p.200) |  |  | _no separate decision located_ · [ga37_2009 p.200](../markdown/ga37_2009.md#ga37-p200) |
 |  | SJC judicial decision (GA 37, p.211) |  |  | _no separate decision located_ · [ga37_2009 p.211](../markdown/ga37_2009.md#ga37-p211) |
 |  | SJC judicial decision (GA 37, p.259) |  |  | _no separate decision located_ · [ga37_2009 p.259](../markdown/ga37_2009.md#ga37-p259) |
@@ -768,7 +762,6 @@ This index is **structure-first**: every case listed links to a full-text page r
 |  | SJC judicial decision (GA 46, p.452) |  |  | _no separate decision located_ · [ga46_2018 p.452](../markdown/ga46_2018.md#ga46-p452) |
 | 2018-1 | Appeal of TE James Bachmann v. Nashville Presbytery | out_of_order |  | _decided at 48th GA_ · [full text](../cases/ga48_2021__2018-01.md) |
 |  | SJC judicial decision (GA 46, p.530) | out_of_order |  | _no separate decision located_ · [ga46_2018 p.530](../markdown/ga46_2018.md#ga46-p530) |
-|  | SJC judicial decision (GA 46, p.533) | sustained |  | _no separate decision located_ · [ga46_2018 p.533](../markdown/ga46_2018.md#ga46-p533) |
 |  | SJC judicial decision (GA 46, p.554) |  |  | _no separate decision located_ · [ga46_2018 p.554](../markdown/ga46_2018.md#ga46-p554) |
 |  | SJC judicial decision (GA 46, p.563) |  |  | _no separate decision located_ · [ga46_2018 p.563](../markdown/ga46_2018.md#ga46-p563) |
 |  | SJC judicial decision (GA 46, p.586) |  |  | _no separate decision located_ · [ga46_2018 p.586](../markdown/ga46_2018.md#ga46-p586) |
@@ -817,8 +810,6 @@ This index is **structure-first**: every case listed links to a full-text page r
 |  | SJC judicial decision (GA 48, p.675) |  |  | _no separate decision located_ · [ga48_2021 p.675](../markdown/ga48_2021.md#ga48-p675) |
 |  | SJC judicial decision (GA 48, p.677) |  |  | _no separate decision located_ · [ga48_2021 p.677](../markdown/ga48_2021.md#ga48-p677) |
 |  | SJC judicial decision (GA 48, p.680) |  |  | _no separate decision located_ · [ga48_2021 p.680](../markdown/ga48_2021.md#ga48-p680) |
-|  | SJC judicial decision (GA 48, p.693) | sustained |  | _no separate decision located_ · [ga48_2021 p.693](../markdown/ga48_2021.md#ga48-p693) |
-|  | SJC judicial decision (GA 48, p.697) | sustained |  | _no separate decision located_ · [ga48_2021 p.697](../markdown/ga48_2021.md#ga48-p697) |
 |  | SJC judicial decision (GA 48, p.733) |  |  | _no separate decision located_ · [ga48_2021 p.733](../markdown/ga48_2021.md#ga48-p733) |
 |  | SJC judicial decision (GA 48, p.797) |  |  | _no separate decision located_ · [ga48_2021 p.797](../markdown/ga48_2021.md#ga48-p797) |
 |  | SJC judicial decision (GA 48, p.811) |  |  | _no separate decision located_ · [ga48_2021 p.811](../markdown/ga48_2021.md#ga48-p811) |
@@ -832,7 +823,7 @@ This index is **structure-first**: every case listed links to a full-text page r
 |---|---|---|---|---|
 | [2020-05](../cases/ga49_2022__2020-05.md) | Speck v. Missouri Presbytery  ·  *dissent* | sustained | The SJC sustained in part and denied in part TE Ryan Speck's complaint against Missouri Presbytery's December 2019 adoption of six theological judgments regarding the 2018 Revoice Conference hosted by Memorial Presbyterian Church, ruling that MOP applied an incorrect constitutional standard (BCO 34-5 'vitals of… | [full text](../cases/ga49_2022__2020-05.md) |
 | [2020-06](../cases/ga49_2022__2020-06.md) | Gordon v. Southern New England Presbytery  ·  *dissent* | denied | Mr. Gordon was excommunicated by a PCA Session after his former OPC congregation joined the PCA against his expressed wishes; he contended the PCA Session lacked jurisdiction over him. The SJC majority denied his appeal affirming the excommunication, while a four-member dissent argued the SJC should have ruled the… | [full text](../cases/ga49_2022__2020-06.md) |
-| [2020-09](../cases/ga49_2022__2020-09.md) | RE SEAN OZBALT AND RE ERIN BARR V. PACIFIC PRESBYTERY | sustained | Session members of Pacific Crossroads Church filed a complaint against Pacific Presbytery's handling of TE Wilbourne's deposition. The SJC sustained the complaint by reference to its decision in Case 2020-07. | [full text](../cases/ga49_2022__2020-09.md) |
+| [2020-07/2020-08/2020-09](../cases/ga49_2022__2020-09.md) | RE SEAN OZBALT AND RE ERIN BARR V. PACIFIC PRESBYTERY | sustained | Session members of Pacific Crossroads Church filed a complaint against Pacific Presbytery's handling of TE Wilbourne's deposition. The SJC sustained the complaint by reference to its decision in Case 2020-07. | [2020-07/2020-08/2020-09](../cases/ga49_2022__2020-09.md) |
 | [2020-10](../cases/ga49_2022__2020-10.md) | Eagle v. Savannah River Presbytery | administrative | The SJC ruled Case 2020-10 administratively out of order as prematurely filed because Presbytery had not yet completed its hearing on the complaint; the complainant's time to elevate was reset. | [full text](../cases/ga49_2022__2020-10.md) |
 | [2020-12](../cases/ga49_2022__2020-12.md) | Speck v. Missouri Presbytery  ·  *dissent* | sustained | TE Ryan Speck complained that Missouri Presbytery erred in declining to find a strong presumption of guilt against TE Greg Johnson regarding four allegations arising from his involvement in and teaching at the Revoice 2018 conference; the SJC sustained the complaint in part on Issue 1 (particularly regarding… | [full text](../cases/ga49_2022__2020-12.md) |
 | [2020-14](../cases/ga49_2022__2020-14.md) | Myers v. Illiana Presbytery | denied | TE Aaron Myers appealed his conviction on charges of maltreatment of his wife and fits of anger by Illiana Presbytery; the SJC denied the appeal and upheld all four specifications of error arguments raised by the appellant, affirming the indefinite suspension from office and suspension from the sacraments. | [full text](../cases/ga49_2022__2020-14.md) |
