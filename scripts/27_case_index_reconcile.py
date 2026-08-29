@@ -46,8 +46,7 @@ FALLBACK = re.compile(
 FILE_VOL = re.compile(r"^(ga\d+_\d+)__(.+)$")
 
 # Rows individually checked against the underlying decision pages during the audit that prompted
-# this repair. Keeping this explicit prevents a mere page overlap from hiding a real, short matter
-# (notably GA49 2020-2 and 2021-7).
+# this repair. Keeping this explicit prevents a mere page overlap from hiding a real, short matter.
 AUDITED_DUPLICATE_PAGES = {
     ("ga20_1992", 195),
     ("ga26_1998", 120),
@@ -58,6 +57,12 @@ AUDITED_DUPLICATE_PAGES = {
     ("ga46_2018", 533),
     ("ga48_2021", 693),
     ("ga48_2021", 697),
+}
+# These are substantive short matters that happen to fall on pages occupied by a larger extracted
+# block. They must remain visible until they receive their own proper case/disposition pages.
+PRESERVE_FALLBACK_PAGES = {
+    ("ga49_2022", 842),  # 2020-2, BCO 34-1 original-jurisdiction requests
+    ("ga49_2022", 886),  # 2021-7, Acree complaint administratively out of order
 }
 
 
@@ -129,6 +134,7 @@ def main() -> None:
     index_text = open(INDEX, encoding="utf-8").read()
     occupied: set[tuple[str, int]] = set()
     expanded: list[tuple[str, list[str]]] = []
+    consolidated: dict[str, dict] = {}
 
     for path in sorted(glob.glob(os.path.join(CASES, "*.md"))):
         case_file = os.path.splitext(os.path.basename(path))[0]
@@ -156,9 +162,17 @@ def main() -> None:
             pat = re.compile(r"(\|\s*\[)[^\]]+(\]\(\.\./cases/" + re.escape(case_file) + r"\.md\))")
             index_text = pat.sub(lambda m: m.group(1) + joined + m.group(2), index_text)
             expanded.append((case_file, merged))
+            for n in merged:
+                consolidated[n] = dict(canonical)
 
         for n in merged:
-            page_map[n] = dict(canonical)
+            # Do not let a later, less-complete page overwrite a docket already claimed by an
+            # explicitly consolidated holding.
+            if n not in consolidated:
+                page_map[n] = dict(canonical)
+
+    # Explicit holdings are authoritative after the full scan.
+    page_map.update(consolidated)
 
     with open(PMAP, "w", encoding="utf-8") as f:
         json.dump(page_map, f, indent=1)
@@ -173,10 +187,10 @@ def main() -> None:
             kept.append(line)
             continue
         source = (m.group(1), int(m.group(2)))
+        if source in PRESERVE_FALLBACK_PAGES:
+            kept.append(line)
+            continue
         docket = row_docket(line)
-        # Suppress the specifically audited duplicates. For future rows, page overlap alone is not
-        # enough: only suppress when the row's docket already has a mapped decision. A valid yet
-        # unmapped docket remains visible for further extraction/review.
         safe_duplicate = source in AUDITED_DUPLICATE_PAGES or (docket is not None and docket in page_map)
         if source in occupied and safe_duplicate:
             removed.append(source)
