@@ -799,23 +799,6 @@ This index is **structure-first**: every case listed links to a full-text page r
 | [2020-04](../cases/ga48_2021__2020-04.md) | Marusich v. Central Indiana Presbytery  ·  *dissent* | other | The SJC remanded the case to Central Indiana Presbytery with instructions to appoint a committee to reinvestigate under BCO 31-2, after its non-judicial commission declined to find a strong presumption of guilt against an accused teaching elder. The dissent argued the SJC failed to give proper great deference under… | [full text](../cases/ga48_2021__2020-04.md) |
 | [2020-11](../cases/ga48_2021__2020-11.md) | McWilliams v. Southwest Florida Presbytery  ·  *dissent* | dismissed | The complainant requested to withdraw and abandon his complaint, which the SJC approved unanimously. | [full text](../cases/ga48_2021__2020-11.md) |
 | [2020-13](../cases/ga48_2021__2020-13.md) | Benyola v. Central Florida Presbytery | dismissed | The SJC dismissed this complaint as administratively out of order because Mr. Benyola lacked standing to complain against a presbytery action, as he was neither a teaching elder member of that presbytery nor a ruling elder commissioner representing a member church at the September 18, 2020 meeting where the presbytery… | [full text](../cases/ga48_2021__2020-13.md) |
-|  | SJC judicial decision (GA 48, p.546) |  |  | _no separate decision located_ · [ga48_2021 p.546](../markdown/ga48_2021.md#ga48-p546) |
-|  | SJC judicial decision (GA 48, p.548) |  |  | _no separate decision located_ · [ga48_2021 p.548](../markdown/ga48_2021.md#ga48-p548) |
-|  | SJC judicial decision (GA 48, p.550) |  |  | _no separate decision located_ · [ga48_2021 p.550](../markdown/ga48_2021.md#ga48-p550) |
-|  | SJC judicial decision (GA 48, p.576) |  |  | _no separate decision located_ · [ga48_2021 p.576](../markdown/ga48_2021.md#ga48-p576) |
-|  | SJC judicial decision (GA 48, p.580) |  |  | _no separate decision located_ · [ga48_2021 p.580](../markdown/ga48_2021.md#ga48-p580) |
-|  | SJC judicial decision (GA 48, p.651) |  |  | _no separate decision located_ · [ga48_2021 p.651](../markdown/ga48_2021.md#ga48-p651) |
-|  | SJC judicial decision (GA 48, p.657) |  |  | _no separate decision located_ · [ga48_2021 p.657](../markdown/ga48_2021.md#ga48-p657) |
-|  | SJC judicial decision (GA 48, p.660) | out_of_order |  | _no separate decision located_ · [ga48_2021 p.660](../markdown/ga48_2021.md#ga48-p660) |
-|  | SJC judicial decision (GA 48, p.675) |  |  | _no separate decision located_ · [ga48_2021 p.675](../markdown/ga48_2021.md#ga48-p675) |
-|  | SJC judicial decision (GA 48, p.677) |  |  | _no separate decision located_ · [ga48_2021 p.677](../markdown/ga48_2021.md#ga48-p677) |
-|  | SJC judicial decision (GA 48, p.680) |  |  | _no separate decision located_ · [ga48_2021 p.680](../markdown/ga48_2021.md#ga48-p680) |
-|  | SJC judicial decision (GA 48, p.733) |  |  | _no separate decision located_ · [ga48_2021 p.733](../markdown/ga48_2021.md#ga48-p733) |
-|  | SJC judicial decision (GA 48, p.797) |  |  | _no separate decision located_ · [ga48_2021 p.797](../markdown/ga48_2021.md#ga48-p797) |
-|  | SJC judicial decision (GA 48, p.811) |  |  | _no separate decision located_ · [ga48_2021 p.811](../markdown/ga48_2021.md#ga48-p811) |
-|  | SJC judicial decision (GA 48, p.1065) |  |  | _no separate decision located_ · [ga48_2021 p.1065](../markdown/ga48_2021.md#ga48-p1065) |
-|  | SJC judicial decision (GA 48, p.1068) | dismissed |  | _no separate decision located_ · [ga48_2021 p.1068](../markdown/ga48_2021.md#ga48-p1068) |
-|  | SJC judicial decision (GA 48, p.1115) |  |  | _no separate decision located_ · [ga48_2021 p.1115](../markdown/ga48_2021.md#ga48-p1115) |
 
 ## 49th General Assembly (2022)
 
