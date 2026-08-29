@@ -130,7 +130,6 @@ def normalize_consolidated_row(index_text: str, case_file: str, numbers: list[st
             out.append(line)
             continue
         cells = line.split("|")
-        # Leading/trailing pipes make cells 1 and 5 the Case and Page cells respectively.
         if len(cells) >= 7 and target in cells[1]:
             cells[1] = re.sub(
                 r"\[[^\]]+\](\(" + re.escape(target) + r"\))",
@@ -183,13 +182,14 @@ def main() -> None:
             with open(path, "w", encoding="utf-8") as f:
                 f.write(text)
             expanded.append((case_file, merged))
-            for n in merged:
-                consolidated[n] = dict(canonical)
 
-        # Existing consolidated pages also pass through here on later runs, so normalize the index
-        # links every time rather than only on the first discovery run.
+        # A multi-docket page is authoritative on every run, including after the first run has
+        # already persisted its expanded number list. Otherwise a later single-case page can
+        # overwrite one of these mappings and make reconciliation non-idempotent.
         if len(merged) > 1:
             index_text = normalize_consolidated_row(index_text, case_file, merged)
+            for n in merged:
+                consolidated[n] = dict(canonical)
 
         for n in merged:
             if n not in consolidated:
