@@ -3,21 +3,19 @@
 
 The structure-first publisher normally owns case pages and the case-page map, but a clean GitHub
 Pages checkout intentionally does not contain the analysis database/caches needed to rerun that
-publisher.  This small reconciliation pass therefore treats the checked-in ``cases/*.md`` pages as
-the evidence it can safely inspect during deployment.
+publisher. This pass therefore treats the checked-in ``cases/*.md`` pages as evidence it can safely
+inspect during deployment.
 
 It repairs two recurring extraction artefacts:
 
 1. A consolidated SJC decision may be printed under only one docket-number heading while its
-   holding expressly disposes of sibling dockets.  Add those sibling numbers to the existing
+   holding expressly disposes of sibling dockets. Add those sibling numbers to the existing
    case-page map and index row, and make the case-page heading reflect the consolidated decision.
-2. The cases table contains duplicate/mis-paged fallback rows.  A row labelled
-   ``no separate decision located`` is noise when its reported PDF page is already physically
-   present inside an extracted case page.  Suppress it.
+2. The cases table contains duplicate/mis-paged fallback rows. Suppress only rows we can safely
+   identify as duplicates; a valid docket that is not mapped to a decision is preserved for review.
 
-Discovery deliberately scans every checked-in case page instead of relying on case_pages_map.json.
-That is important because an omitted docket can coincide with an incomplete map: the very defect
-this script is meant to repair must not prevent the page from being inspected.
+Discovery scans every checked-in case page instead of relying on case_pages_map.json. An omitted
+docket can coincide with an incomplete map, so the defect itself must not prevent discovery.
 """
 from __future__ import annotations
 
@@ -39,13 +37,28 @@ DISPOSITION = re.compile(
     r"out\s+of\s+order|not\s+sustained)\b"
 )
 HOLDING_CASE = re.compile(
-    r"(?i)\b(?:complaints?|appeals?|petitions?)\b[^.!?]{0,260}?\bcase\s+nos?\.?(?:\s|$)"
+    r"(?i)\b(?:complaints?|appeals?|petitions?)\b[^.!?]{0,260}?\bcase\s+nos?(?:\s|$)"
 )
 FALLBACK = re.compile(
     r"_no separate decision located_\s*·\s*\[(ga\d+_\d+)\s+p\.(\d+)\]",
     re.I,
 )
 FILE_VOL = re.compile(r"^(ga\d+_\d+)__(.+)$")
+
+# Rows individually checked against the underlying decision pages during the audit that prompted
+# this repair. Keeping this explicit prevents a mere page overlap from hiding a real, short matter
+# (notably GA49 2020-2 and 2021-7).
+AUDITED_DUPLICATE_PAGES = {
+    ("ga20_1992", 195),
+    ("ga26_1998", 120),
+    ("ga29_2001", 108),
+    ("ga30_2002", 177),
+    ("ga37_2009", 154),
+    ("ga37_2009", 187),
+    ("ga46_2018", 533),
+    ("ga48_2021", 693),
+    ("ga48_2021", 697),
+}
 
 
 def norm_num(raw: str) -> str:
@@ -64,6 +77,8 @@ def expressly_decided_siblings(text: str, existing: list[str]) -> list[str]:
     years = {int(n[:4]) for n in existing if re.match(r"\d{4}-", n)}
     flat = re.sub(r"<!--.*?-->", " ", text, flags=re.S)
     flat = re.sub(r"\s+", " ", flat)
+    # Do not let the abbreviation in "Case No." / "Case Nos." become a sentence boundary.
+    flat = re.sub(r"(?i)\bCase\s+Nos?\.\s*", lambda m: m.group(0).replace(".", ""), flat)
     out: list[str] = []
     for sentence in re.split(r"(?<=[.!?])\s+", flat):
         if not DISPOSITION.search(sentence) or not HOLDING_CASE.search(sentence):
@@ -78,11 +93,7 @@ def expressly_decided_siblings(text: str, existing: list[str]) -> list[str]:
 
 
 def page_identity(path: str, page_map: dict[str, dict]) -> tuple[str, list[str], str] | None:
-    """Return (volume, known docket numbers, title) for a checked-in case page.
-
-    Prefer page-map metadata when present, but recover identity from the stable filename/heading
-    when the map itself is incomplete.
-    """
+    """Return (volume, known docket numbers, title) for a checked-in case page."""
     case_file = os.path.splitext(os.path.basename(path))[0]
     mapped = next((v for v in page_map.values() if v.get("file") == case_file), None)
     if mapped:
@@ -99,6 +110,15 @@ def page_identity(path: str, page_map: dict[str, dict]) -> tuple[str, list[str],
     title = re.sub(r"^#\s*", "", first)
     title = re.sub(r"^.*?\s+—\s+", "", title)
     return vol, nums, title
+
+
+def row_docket(line: str) -> str | None:
+    """Return a normalized 4-digit docket from the first CASES.md table cell, if present."""
+    cells = line.split("|")
+    if len(cells) < 3:
+        return None
+    m = CASE_NUM.search(cells[1])
+    return norm_num(m.group(0)) if m else None
 
 
 def main() -> None:
@@ -149,8 +169,17 @@ def main() -> None:
     removed: list[tuple[str, int]] = []
     for line in lines:
         m = FALLBACK.search(line)
-        if m and (m.group(1), int(m.group(2))) in occupied:
-            removed.append((m.group(1), int(m.group(2))))
+        if not m:
+            kept.append(line)
+            continue
+        source = (m.group(1), int(m.group(2)))
+        docket = row_docket(line)
+        # Suppress the specifically audited duplicates. For future rows, page overlap alone is not
+        # enough: only suppress when the row's docket already has a mapped decision. A valid yet
+        # unmapped docket remains visible for further extraction/review.
+        safe_duplicate = source in AUDITED_DUPLICATE_PAGES or (docket is not None and docket in page_map)
+        if source in occupied and safe_duplicate:
+            removed.append(source)
             continue
         kept.append(line)
 
@@ -166,7 +195,7 @@ def main() -> None:
         print("resolved:", " ".join(f"{v}:p{p}" for v, p in unique))
 
     ga49 = [page_map.get(n) for n in ("2020-07", "2020-08", "2020-09")]
-    if any(ga49) and not all(x and x.get("file") == "ga49_2022__2020-09" for x in ga49):
+    if not all(x and x.get("file") == "ga49_2022__2020-09" for x in ga49):
         raise SystemExit("GA49 consolidated decision reconciliation failed for 2020-07/08/09")
 
 
