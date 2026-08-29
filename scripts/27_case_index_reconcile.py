@@ -12,7 +12,8 @@ It repairs two recurring extraction artefacts:
    holding expressly disposes of sibling dockets. Add those sibling numbers to the existing
    case-page map and index row, and make the case-page heading reflect the consolidated decision.
 2. The cases table contains duplicate/mis-paged fallback rows. Suppress only rows we can safely
-   identify as duplicates; a valid docket that is not mapped to a decision is preserved for review.
+   identify as duplicates or audited false positives; a valid docket that is not mapped to a
+   decision is preserved for review.
 
 Discovery scans every checked-in case page instead of relying on case_pages_map.json. An omitted
 docket can coincide with an incomplete map, so the defect itself must not prevent discovery.
@@ -45,7 +46,10 @@ FALLBACK = re.compile(
 )
 FILE_VOL = re.compile(r"^(ga\d+_\d+)__(.+)$")
 
-AUDITED_DUPLICATE_PAGES = {
+# Manually verified fallback rows that are not separate judicial decisions. Some are extraction
+# false positives outside the SJC appendix; others are duplicate page hits inside an already
+# extracted decision page.
+AUDITED_FALSE_FALLBACK_PAGES = {
     ("ga20_1992", 195),
     ("ga26_1998", 120),
     ("ga29_2001", 108),
@@ -53,8 +57,27 @@ AUDITED_DUPLICATE_PAGES = {
     ("ga37_2009", 154),
     ("ga37_2009", 187),
     ("ga46_2018", 533),
+    # GA48: Appendix R / other non-SJC material misidentified as judicial decisions.
+    ("ga48_2021", 546),
+    ("ga48_2021", 548),
+    ("ga48_2021", 550),
+    ("ga48_2021", 576),
+    ("ga48_2021", 580),
+    ("ga48_2021", 651),
+    ("ga48_2021", 1065),
+    ("ga48_2021", 1068),
+    ("ga48_2021", 1115),
+    # GA48: duplicate hits inside already extracted SJC decisions.
+    ("ga48_2021", 657),
+    ("ga48_2021", 660),
+    ("ga48_2021", 675),
+    ("ga48_2021", 677),
+    ("ga48_2021", 680),
     ("ga48_2021", 693),
     ("ga48_2021", 697),
+    ("ga48_2021", 733),
+    ("ga48_2021", 797),
+    ("ga48_2021", 811),
 }
 PRESERVE_FALLBACK_PAGES = {
     ("ga49_2022", 842),  # 2020-2, BCO 34-1 original-jurisdiction requests
@@ -213,9 +236,11 @@ def main() -> None:
         if source in PRESERVE_FALLBACK_PAGES:
             kept.append(line)
             continue
+        if source in AUDITED_FALSE_FALLBACK_PAGES:
+            removed.append(source)
+            continue
         docket = row_docket(line)
-        safe_duplicate = source in AUDITED_DUPLICATE_PAGES or (docket is not None and docket in page_map)
-        if source in occupied and safe_duplicate:
+        if source in occupied and docket is not None and docket in page_map:
             removed.append(source)
             continue
         kept.append(line)
@@ -227,7 +252,7 @@ def main() -> None:
         print("expanded consolidated decisions:", " ".join(f"{f}={'/'.join(ns)}" for f, ns in expanded))
     unique = sorted(set(removed))
     print(f"suppressed {len(removed)} duplicate/mis-paged fallback rows "
-          f"({len(unique)} unique source pages) already contained in extracted case pages")
+          f"({len(unique)} unique source pages) already contained in extracted case pages or audited as false positives")
     if unique:
         print("resolved:", " ".join(f"{v}:p{p}" for v, p in unique))
 
