@@ -11,8 +11,9 @@ It repairs two recurring extraction artefacts:
 1. A consolidated SJC decision may be printed under only one docket-number heading while its
    holding expressly disposes of sibling dockets. Add those sibling numbers to the existing
    case-page map and index row, and make the case-page heading reflect the consolidated decision.
-2. The cases table contains duplicate/mis-paged fallback rows. Suppress only rows we can safely
-   identify as duplicates or audited false positives; a valid docket that is not mapped to a
+2. The cases table contains duplicate/mis-paged fallback rows. Suppress anonymous synthetic
+   ``SJC judicial decision (GA ..., p....)`` rows, plus other rows we can safely identify as
+   duplicates or audited false positives; a valid named/docketed matter that is not mapped to a
    decision is preserved for review.
 
 Discovery scans every checked-in case page instead of relying on case_pages_map.json. An omitted
@@ -44,11 +45,11 @@ FALLBACK = re.compile(
     r"_no separate decision located_\s*·\s*\[(ga\d+_\d+)\s+p\.(\d+)\]",
     re.I,
 )
+ANONYMOUS_SYNTHETIC = re.compile(r"\|\s*\|\s*SJC judicial decision \(GA \d+, p\.\d+\)\s*\|", re.I)
 FILE_VOL = re.compile(r"^(ga\d+_\d+)__(.+)$")
 
-# Manually verified fallback rows that are not separate judicial decisions. Some are extraction
-# false positives outside the SJC appendix; others are duplicate page hits inside an already
-# extracted decision page.
+# Manually verified fallback rows that are not separate judicial decisions. Most anonymous rows are
+# now removed by ANONYMOUS_SYNTHETIC; this set remains for any audited non-anonymous anomalies.
 AUDITED_FALSE_FALLBACK_PAGES = {
     ("ga20_1992", 195),
     ("ga26_1998", 120),
@@ -57,17 +58,12 @@ AUDITED_FALSE_FALLBACK_PAGES = {
     ("ga37_2009", 154),
     ("ga37_2009", 187),
     ("ga46_2018", 533),
-    # GA48: Appendix R / other non-SJC material misidentified as judicial decisions.
     ("ga48_2021", 546),
     ("ga48_2021", 548),
     ("ga48_2021", 550),
     ("ga48_2021", 576),
     ("ga48_2021", 580),
     ("ga48_2021", 651),
-    ("ga48_2021", 1065),
-    ("ga48_2021", 1068),
-    ("ga48_2021", 1115),
-    # GA48: duplicate hits inside already extracted SJC decisions.
     ("ga48_2021", 657),
     ("ga48_2021", 660),
     ("ga48_2021", 675),
@@ -78,6 +74,9 @@ AUDITED_FALSE_FALLBACK_PAGES = {
     ("ga48_2021", 733),
     ("ga48_2021", 797),
     ("ga48_2021", 811),
+    ("ga48_2021", 1065),
+    ("ga48_2021", 1068),
+    ("ga48_2021", 1115),
 }
 PRESERVE_FALLBACK_PAGES = {
     ("ga49_2022", 842),  # 2020-2, BCO 34-1 original-jurisdiction requests
@@ -206,9 +205,6 @@ def main() -> None:
                 f.write(text)
             expanded.append((case_file, merged))
 
-        # A multi-docket page is authoritative on every run, including after the first run has
-        # already persisted its expanded number list. Otherwise a later single-case page can
-        # overwrite one of these mappings and make reconciliation non-idempotent.
         if len(merged) > 1:
             index_text = normalize_consolidated_row(index_text, case_file, merged)
             for n in merged:
@@ -236,6 +232,11 @@ def main() -> None:
         if source in PRESERVE_FALLBACK_PAGES:
             kept.append(line)
             continue
+        # Anonymous generic rows are synthetic detector output, not usable case records. A real
+        # unresolved matter must retain some identity (docket, parties, or a substantive title).
+        if ANONYMOUS_SYNTHETIC.search(line):
+            removed.append(source)
+            continue
         if source in AUDITED_FALSE_FALLBACK_PAGES:
             removed.append(source)
             continue
@@ -251,8 +252,8 @@ def main() -> None:
     if expanded:
         print("expanded consolidated decisions:", " ".join(f"{f}={'/'.join(ns)}" for f, ns in expanded))
     unique = sorted(set(removed))
-    print(f"suppressed {len(removed)} duplicate/mis-paged fallback rows "
-          f"({len(unique)} unique source pages) already contained in extracted case pages or audited as false positives")
+    print(f"suppressed {len(removed)} anonymous/duplicate/mis-paged fallback rows "
+          f"({len(unique)} unique source pages)")
     if unique:
         print("resolved:", " ".join(f"{v}:p{p}" for v, p in unique))
 
