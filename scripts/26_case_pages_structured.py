@@ -101,13 +101,14 @@ def main():
         blocks = ce.extract_sjc(vol)
         # A decision can be captioned under only one case number while expressly deciding related
         # complaints in the same holding.  Add only those sibling numbers the block itself says it
-        # disposes of; ordinary citations to other decisions are left alone.
+        # disposes of; ordinary citations to other decisions are left alone.  Normalized docket
+        # numbers sort lexically, so a block printed under 2020-09 still renders as 07/08/09.
         for b in blocks:
             nums = list(b["numbers"])
             for x in decided_siblings(b["text"], meta):
                 if x not in nums:
                     nums.append(x)
-            b["numbers"] = nums
+            b["numbers"] = sorted(nums)
         # drop short, OLD blocks: a real case cited inside a later decision shows up as its own
         # header block (e.g. 1992-09b inside a 2025 opinion). A genuine decision is long; a citation
         # is short and its number predates this Assembly by years.
