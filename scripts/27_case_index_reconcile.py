@@ -45,8 +45,6 @@ FALLBACK = re.compile(
 )
 FILE_VOL = re.compile(r"^(ga\d+_\d+)__(.+)$")
 
-# Rows individually checked against the underlying decision pages during the audit that prompted
-# this repair. Keeping this explicit prevents a mere page overlap from hiding a real, short matter.
 AUDITED_DUPLICATE_PAGES = {
     ("ga20_1992", 195),
     ("ga26_1998", 120),
@@ -58,8 +56,6 @@ AUDITED_DUPLICATE_PAGES = {
     ("ga48_2021", 693),
     ("ga48_2021", 697),
 }
-# These are substantive short matters that happen to fall on pages occupied by a larger extracted
-# block. They must remain visible until they receive their own proper case/disposition pages.
 PRESERVE_FALLBACK_PAGES = {
     ("ga49_2022", 842),  # 2020-2, BCO 34-1 original-jurisdiction requests
     ("ga49_2022", 886),  # 2021-7, Acree complaint administratively out of order
@@ -82,7 +78,6 @@ def expressly_decided_siblings(text: str, existing: list[str]) -> list[str]:
     years = {int(n[:4]) for n in existing if re.match(r"\d{4}-", n)}
     flat = re.sub(r"<!--.*?-->", " ", text, flags=re.S)
     flat = re.sub(r"\s+", " ", flat)
-    # Do not let the abbreviation in "Case No." / "Case Nos." become a sentence boundary.
     flat = re.sub(r"(?i)\bCase\s+Nos?\.\s*", lambda m: m.group(0).replace(".", ""), flat)
     out: list[str] = []
     for sentence in re.split(r"(?<=[.!?])\s+", flat):
@@ -118,12 +113,41 @@ def page_identity(path: str, page_map: dict[str, dict]) -> tuple[str, list[str],
 
 
 def row_docket(line: str) -> str | None:
-    """Return a normalized 4-digit docket from the first CASES.md table cell, if present."""
     cells = line.split("|")
     if len(cells) < 3:
         return None
     m = CASE_NUM.search(cells[1])
     return norm_num(m.group(0)) if m else None
+
+
+def normalize_consolidated_row(index_text: str, case_file: str, numbers: list[str]) -> str:
+    """Normalize the two links in a consolidated CASES.md row without touching other columns."""
+    target = f"../cases/{case_file}.md"
+    joined = "/".join(numbers)
+    out = []
+    for line in index_text.splitlines():
+        if target not in line or not line.startswith("|"):
+            out.append(line)
+            continue
+        cells = line.split("|")
+        # Leading/trailing pipes make cells 1 and 5 the Case and Page cells respectively.
+        if len(cells) >= 7 and target in cells[1]:
+            cells[1] = re.sub(
+                r"\[[^\]]+\](\(" + re.escape(target) + r"\))",
+                lambda m: f"[{joined}]{m.group(1)}",
+                cells[1],
+                count=1,
+            )
+            if target in cells[5]:
+                cells[5] = re.sub(
+                    r"\[[^\]]+\](\(" + re.escape(target) + r"\))",
+                    lambda m: f"[full text]{m.group(1)}",
+                    cells[5],
+                    count=1,
+                )
+            line = "|".join(cells)
+        out.append(line)
+    return "\n".join(out) + ("\n" if index_text.endswith("\n") else "")
 
 
 def main() -> None:
@@ -151,27 +175,26 @@ def main() -> None:
         nums = sorted(dict.fromkeys(nums))
         siblings = expressly_decided_siblings(text, nums)
         merged = sorted(dict.fromkeys(nums + siblings))
-
         canonical = {"vol": vol, "file": case_file, "numbers": merged, "title": title}
+
         if merged != nums:
             joined = "/".join(merged)
             text = re.sub(r"^#\s+[^\n]+?(\s+—\s+)", lambda m: f"# {joined}{m.group(1)}", text, count=1)
             with open(path, "w", encoding="utf-8") as f:
                 f.write(text)
-
-            pat = re.compile(r"(\|\s*\[)[^\]]+(\]\(\.\./cases/" + re.escape(case_file) + r"\.md\))")
-            index_text = pat.sub(lambda m: m.group(1) + joined + m.group(2), index_text)
             expanded.append((case_file, merged))
             for n in merged:
                 consolidated[n] = dict(canonical)
 
+        # Existing consolidated pages also pass through here on later runs, so normalize the index
+        # links every time rather than only on the first discovery run.
+        if len(merged) > 1:
+            index_text = normalize_consolidated_row(index_text, case_file, merged)
+
         for n in merged:
-            # Do not let a later, less-complete page overwrite a docket already claimed by an
-            # explicitly consolidated holding.
             if n not in consolidated:
                 page_map[n] = dict(canonical)
 
-    # Explicit holdings are authoritative after the full scan.
     page_map.update(consolidated)
 
     with open(PMAP, "w", encoding="utf-8") as f:
