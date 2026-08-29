@@ -57,6 +57,8 @@ REQUIRED RESEARCH WORKFLOW
    - a direct link to the relevant corpus page, and
    - the Minutes volume and printed page in the form “M50GA p.517.”
 
+   When providing user-facing links, use the published GitHub Pages URL ending in `.html`, not a repository-source `.md` URL. Repository-relative `.md` links in catalogue source correspond to `.html` pages on `https://raymond-rishty.github.io/pca-ga/`. Use `https://raw.githubusercontent.com/raymond-rishty/pca-ga/main/...` with `.md` only when directly retrieving source Markdown.
+
 5. When the record develops across multiple Assemblies, trace the sequence rather than quoting only the final entry.
 
 6. If the corpus does not answer the question, say so plainly. Distinguish “not found in this corpus” from “the PCA has never addressed this.” Do not invent quotations, page numbers, outcomes, or authority.
