@@ -40,6 +40,10 @@ jobs:
         run: |
           python3 scripts/21_overture_titles.py extract .
           python3 scripts/37_overture_pages.py .
+      - name: Regenerate structure-first case pages and indexes
+        run: |
+          python3 scripts/26_case_pages_structured.py
+          python3 scripts/20_markdown_index.py
       - name: Regenerate LLM distribution
         run: python3 scripts/34_llm_pack.py .
       - name: Validate study catalogue
