@@ -24,11 +24,40 @@ OUT = f"{ROOT}/cases"
 TITLE_OVERRIDES = json.load(open(f"{ROOT}/index/case_title_overrides.json"))
 _OPIN = re.compile(r"^\**\s*((?:CONCURRING|DISSENTING|MAJORITY|SEPARATE)\s+OPINION[^*\n]*|"
                    r"OPINION OF THE COURT|DECISION(?: ON [A-Z ]+)?)\s*\**\s*$", re.I)
+# A consolidated decision may be printed under only one case-number header even though its holding
+# expressly disposes of sibling cases too.  Treat those expressly decided numbers as belonging to
+# the same block.  This is intentionally narrower than collecting every case citation in the text:
+# a sentence must contain both a case number and a disposition verb (e.g. "Case No. 2020-07 is
+# sustained" / "Case Nos. 2020-08 and 2020-09 are sustained and answered by reference...").
+_DECIDED = re.compile(r"(?i)\b(?:be|is|are|was|were)\s+(?:partially\s+|in\s+part\s+)?"
+                      r"(?:sustained|denied|dismissed|granted|affirmed|reversed|annulled|"
+                      r"out\s+of\s+order|not\s+sustained)\b")
+_CASE_NUM = re.compile(r"\b\d{4}-\d{1,3}[A-Za-z]?\b")
 
 
 def promote_opinions(s):
     return "\n".join((f"#### {_OPIN.match(ln.strip()).group(1).strip()}" if _OPIN.match(ln.strip()) else ln)
                      for ln in s.split("\n"))
+
+
+def decided_siblings(text, meta):
+    """Return case numbers explicitly disposed of in this decision block.
+
+    Do not infer siblings from narrative citations.  We inspect sentence-ish chunks containing a
+    disposition verb and keep only numbers that are real cases in this Assembly's case table.
+    """
+    out = []
+    # Paragraphs in the Minutes often wrap a holding over several physical lines; normalize those
+    # lines first, then split conservatively on sentence punctuation.
+    flat = re.sub(r"\s+", " ", text)
+    for sent in re.split(r"(?<=[.!?])\s+", flat):
+        if not _DECIDED.search(sent):
+            continue
+        for raw in _CASE_NUM.findall(sent):
+            n = ce.norm_num(raw)
+            if n in meta and n not in out:
+                out.append(n)
+    return out
 
 
 def ordinal(n):
@@ -70,6 +99,15 @@ def main():
     for vol in sorted(passing):
         ga = cls[vol]["ga"]; year = int(cls[vol]["year"]); meta = ce.table_meta(ga)
         blocks = ce.extract_sjc(vol)
+        # A decision can be captioned under only one case number while expressly deciding related
+        # complaints in the same holding.  Add only those sibling numbers the block itself says it
+        # disposes of; ordinary citations to other decisions are left alone.
+        for b in blocks:
+            nums = list(b["numbers"])
+            for x in decided_siblings(b["text"], meta):
+                if x not in nums:
+                    nums.append(x)
+            b["numbers"] = nums
         # drop short, OLD blocks: a real case cited inside a later decision shows up as its own
         # header block (e.g. 1992-09b inside a 2025 opinion). A genuine decision is long; a citation
         # is short and its number predates this Assembly by years.
