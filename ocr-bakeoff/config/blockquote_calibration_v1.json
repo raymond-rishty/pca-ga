@@ -1,0 +1,23 @@
+{
+  "schema": "pca-ga.blockquote-calibration-config.v1",
+  "render_dpi": 300,
+  "blockquote": {
+    "layout_dpi": 220,
+    "minimum_indent_px_220dpi": 38,
+    "maximum_interblock_gap_px_220dpi": 90,
+    "maximum_interline_gap_height_ratio": 1.6,
+    "line_left_edge_tolerance_px_220dpi": 20,
+    "minimum_preceding_baseline_lines": 2,
+    "minimum_quote_lines": 2,
+    "minimum_characters": 70,
+    "review_confidence": 0.72,
+    "recommended_confidence": 0.88,
+    "context": {
+      "authority_reference_bonus": 0.015,
+      "citation_context_bonus": 0.035,
+      "direct_quote_leadin_bonus": 0.035,
+      "enumerated_authority_leadin_bonus": 0.035,
+      "generic_colon_bonus": 0.015
+    }
+  }
+}
