@@ -1220,6 +1220,81 @@ def display_example(items: list[dict[str, Any]], form: str) -> str | None:
     return None
 
 
+def occurrence_target_options(item: dict[str, Any]) -> list[str]:
+    """Return all registered decision targets suggested by an occurrence.
+
+    The unresolved dataset keeps the evidence sources separate because a
+    docket, caption, fingerprint, and Minutes locator may disagree. For the
+    report, their union is the set of decision-level options a reviewer needs
+    to inspect.
+    """
+    ambiguity = item.get("ambiguity") or {}
+    target_keys = ("docket_targets", "caption_targets", "caption_fingerprint_targets", "minutes_targets", "surname_targets")
+    targets: set[str] = set()
+    for key in target_keys:
+        targets.update(ambiguity.get(key, []))
+    return sorted(targets)
+
+
+def is_observed_ambiguity(item: dict[str, Any]) -> bool:
+    """Whether an unresolved occurrence has competing evidence/options.
+
+    A one-target surname shorthand is intentionally unresolved by policy, but
+    it is not an ambiguity in the registry. A missing/unrecognized caption or
+    docket is unresolved without being a competing-target ambiguity.
+
+    Explicit lists such as ``Cases 92-7 and 92-8`` are kept out of this count
+    when docket evidence is the only issue. They are compound references that
+    need decomposition into multiple target occurrences, not a choice between
+    competing identities. A compound list with conflicting caption or Minutes
+    evidence remains an actual ambiguity.
+    """
+    match_type = item.get("match_type")
+    if is_compound_docket_occurrence(item) and item.get("match_type") != "docket_caption_conflict":
+        return False
+    if match_type in {"caption_ambiguous", "minutes_ambiguous", "docket_caption_conflict"}:
+        return True
+    if match_type == "docket_unresolved":
+        return len((item.get("ambiguity") or {}).get("docket_targets", [])) > 1
+    if match_type == "short_alias":
+        return len((item.get("ambiguity") or {}).get("surname_targets", [])) > 1
+    return False
+
+
+def is_compound_docket_occurrence(item: dict[str, Any]) -> bool:
+    """Whether an unresolved record is an explicit multi-docket reference."""
+    return (
+        item.get("match_type") in {"docket_unresolved", "docket_caption_conflict"}
+        and len((item.get("ambiguity") or {}).get("cited_dockets", [])) > 1
+    )
+
+
+def md_cell(value: Any) -> str:
+    return " ".join(str(value).split()).replace("|", r"\|")
+
+
+def ambiguity_options_text(item: dict[str, Any], by_id: dict[str, dict[str, Any]]) -> str:
+    ambiguity = item.get("ambiguity") or {}
+    groups = (
+        ("docket", "docket_targets"),
+        ("caption", "caption_targets"),
+        ("caption fingerprint", "caption_fingerprint_targets"),
+        ("Minutes", "minutes_targets"),
+        ("surname", "surname_targets"),
+    )
+    rendered: list[str] = []
+    for label, key in groups:
+        targets = ambiguity.get(key, [])
+        if not targets:
+            continue
+        labels = "; ".join(f"`{target}` — {entry_label(target, by_id)}" for target in sorted(targets))
+        rendered.append(f"{label}: {labels}")
+    missing = ambiguity.get("missing_dockets", [])
+    if missing:
+        rendered.append("missing docket(s): " + ", ".join(f"`{docket}`" for docket in missing))
+    return " / ".join(rendered) or "No registered target option"
+
+
 def write_report(registry: list[dict[str, Any]], candidates: list[dict[str, Any]], unresolved: list[dict[str, Any]], stats: dict[str, Any]) -> None:
     by_id = {entry["decision_id"]: entry for entry in registry}
     edges = graph_edges(candidates)
@@ -1242,6 +1317,13 @@ def write_report(registry: list[dict[str, Any]], candidates: list[dict[str, Any]
     collisions = [{"key": key, "decision_ids": sorted(decision_ids)} for key, decision_ids in sorted(collision_map.items())]
     unresolved_shapes = collections.Counter((x.get("match_type"), x.get("surface_text")) for x in unresolved)
     forms = collections.Counter(occurrence_form(x) for x in candidates + unresolved)
+    observed_ambiguities = [x for x in unresolved if is_observed_ambiguity(x)]
+    compound_docket_occurrences = [x for x in unresolved if is_compound_docket_occurrence(x)]
+    unresolved_without_competing_options = [
+        x for x in unresolved
+        if not is_observed_ambiguity(x) and not is_compound_docket_occurrence(x)
+    ]
+    observed_ambiguity_types = collections.Counter(x.get("match_type", "") for x in observed_ambiguities)
     consolidated = [x for x in registry if x.get("consolidated")]
     docket_owners: dict[str, list[str]] = collections.defaultdict(list)
     for entry in registry:
@@ -1337,13 +1419,42 @@ def write_report(registry: list[dict[str, Any]], candidates: list[dict[str, Any]
         "",
         "## Ambiguity and false-positive audit",
         "",
+        f"- **Observed ambiguous citation occurrences:** **{len(observed_ambiguities)}** of {len(unresolved)} unresolved occurrences ({pct(len(observed_ambiguities), total)} of all candidates). These have competing registered decision targets or explicitly conflicting docket/caption evidence.",
+        f"- Compound/multi-docket occurrences needing decomposition: **{len(compound_docket_occurrences)}**. **{sum(not is_observed_ambiguity(x) for x in compound_docket_occurrences)}** are explicit lists such as `Cases 92-7 and 92-8` and are not identity ambiguities; the remainder also have conflicting caption/Minutes evidence and are included above.",
+        f"- Unresolved occurrences without competing registered targets: **{len(unresolved_without_competing_options)}**. These are missing/unrecognized dockets or captions, or one-target shorthand withheld by policy.",
         f"- Unique normalized alias collision keys: **{len(collisions)}**",
         f"- Alias collision records across registry entries: **{sum(len(e.get('alias_collisions', [])) for e in registry)}**",
         f"- BCO-like non-case references observed and intentionally excluded: **{stats.get('bco_like_mentions', 0)}**",
         f"- Caption-like X-v-Y windows filtered because they did not look ecclesiastical and did not match an observed alias: **{stats.get('caption_like_filtered', 0)}**",
         f"- Caption-like filtered examples: {', '.join('`' + x + '`' for x in stats.get('caption_like_filtered_examples', [])[:8]) or '—'}",
         "",
-        "Alias collisions are not automatically resolved. The most important observed collision is the shortened `Benyola v. Central Florida` form, which occurs for multiple Benyola decisions; docket context is needed.",
+        "The next section lists actual citation occurrences needing review. The identity-collision section below is broader: it records registry aliases shared by multiple decision entities even when no ambiguous citation occurrence was observed.",
+        "",
+        "### Observed ambiguous citation occurrences",
+        "",
+        "These are occurrence-level ambiguities found in `cases/*.md`, not merely names that happen to collide in the registry. Every row preserves the source line, surface text, context, and the competing evidence/options. The complete machine-readable records remain in `case_reference_unresolved.json`.",
+        "",
+        "| Ambiguity type | Occurrences |",
+        "|---|---:|",
+    ]
+    for match_type, count in observed_ambiguity_types.most_common():
+        lines.append(f"| `{match_type}` | {count} |")
+    lines += [
+        "",
+        "| Source | Line | Match type | Surface text | Candidate options / conflicting evidence | Context |",
+        "|---|---:|---|---|---|---|",
+    ]
+    for item in observed_ambiguities:
+        lines.append(
+            f"| `{md_cell(item['source_file'])}` | {item['line']} | `{md_cell(item['match_type'])}` | `{md_cell(item['surface_text'])}` | {md_cell(ambiguity_options_text(item, by_id))} | {md_cell(item.get('context', ''))} |"
+        )
+    if not observed_ambiguities:
+        lines.append("| — | — | — | No observed competing-target ambiguity | — | — |")
+    lines += [
+        "",
+        "### Identity-level alias collisions (not necessarily observed citation ambiguities)",
+        "",
+        "These records show matching keys shared by multiple decision entities. They are useful for explaining why a future caption-only occurrence may need review, but they are not themselves evidence that such a citation occurred in the corpus.",
         "",
         "### Ambiguous docket mappings",
         "",

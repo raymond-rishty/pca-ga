@@ -78,6 +78,22 @@ class CaseCitationInventoryTests(unittest.TestCase):
         self.assertFalse(any(x["target_decision"] and x["surface_text"] in {"31-2", "40-5"} for x in candidates))
         self.assertFalse(any("Walter V Worsham" in x["surface_text"] and x["target_decision"] for x in candidates))
 
+    def test_report_surfaces_occurrence_ambiguities_separately_from_identity_collisions(self):
+        unresolved = read_json("case_reference_unresolved.json")["occurrences"]
+        observed = [x for x in unresolved if MODULE.is_observed_ambiguity(x)]
+        compound = [x for x in unresolved if MODULE.is_compound_docket_occurrence(x)]
+        self.assertEqual(len(observed), 111)
+        self.assertEqual(len(compound), 75)
+
+        report = (ROOT / "index" / "CASE-REFERENCE-REPORT.md").read_text(encoding="utf-8")
+        self.assertIn("### Observed ambiguous citation occurrences", report)
+        self.assertIn("**111**", report)
+        self.assertIn("Compound/multi-docket occurrences needing decomposition: **75**", report)
+        self.assertIn("cases/ga52_2025__2024-08.md", report)
+        self.assertIn("Case 2012-08", report)
+        self.assertIn("### Identity-level alias collisions (not necessarily observed citation ambiguities)", report)
+        self.assertIn("hugo andrino v southern florida", report)
+
     def test_inventory_is_reproducible(self):
         command = [sys.executable, str(ROOT / "scripts" / "48_case_citation_inventory.py"), "--root", str(ROOT)]
         paths = [
