@@ -147,8 +147,11 @@ def normalize_docket(raw: str, known_dockets: set[str] | None = None) -> str:
     """Return the comparison id for a docket token.
 
     Four-digit docket years are retained. Two-digit years from the SJC era
-    (85--99) expand to 19xx; small prefixes remain early-GA item numbers, so
-    ``3-12`` is not misread as 1903-12. Sequence zero padding is ignored.
+    (85--99) expand to 19xx; smaller two-digit prefixes expand to a 20xx year
+    only when that normalized docket is present in the known docket registry.
+    One-digit prefixes remain early-GA item numbers because forms such as
+    ``1-2`` and ``7-1`` are also common specification and BCO references.
+    Sequence zero padding is ignored.
     """
     value = clean_visible(raw).replace(" ", "")
     match = re.fullmatch(r"(\d{1,4})-(\d{1,3})([A-Za-z]?)", value)
@@ -171,21 +174,21 @@ def normalize_docket(raw: str, known_dockets: set[str] | None = None) -> str:
     return f"{prefix_text}-{int(sequence)}{suffix.lower()}"
 
 
-def docket_tokens(text: str) -> list[str]:
+def docket_tokens(text: str, known_dockets: set[str] | None = None) -> list[str]:
     """Return unique normalized docket tokens found in ``text``."""
     seen: list[str] = []
     for match in DOCKET_TOKEN_RE.finditer(clean_visible(text)):
-        value = normalize_docket(match.group(0))
+        value = normalize_docket(match.group(0), known_dockets)
         if value not in seen:
             seen.append(value)
     return seen
 
 
-def raw_docket_tokens(text: str) -> list[tuple[str, str, int, int]]:
+def raw_docket_tokens(text: str, known_dockets: set[str] | None = None) -> list[tuple[str, str, int, int]]:
     """Return (surface, normalized, start, end) docket matches."""
     visible = clean_visible(text)
     return [
-        (m.group(0), normalize_docket(m.group(0)), m.start(), m.end())
+        (m.group(0), normalize_docket(m.group(0), known_dockets), m.start(), m.end())
         for m in DOCKET_TOKEN_RE.finditer(visible)
     ]
 
@@ -965,8 +968,8 @@ def resolve_minutes(ga: int, start: int, end: int, page_map: dict[tuple[int, int
     return targets
 
 
-def split_docket_list(text: str) -> list[tuple[str, str]]:
-    return [(m.group(0), normalize_docket(m.group(0))) for m in DOCKET_TOKEN_RE.finditer(text)]
+def split_docket_list(text: str, known_dockets: set[str] | None = None) -> list[tuple[str, str]]:
+    return [(m.group(0), normalize_docket(m.group(0), known_dockets)) for m in DOCKET_TOKEN_RE.finditer(text)]
 
 
 def extract_caption_after_docket(line: str, match: re.Match[str], stop_at: int | None = None) -> tuple[str, int, int] | None:
@@ -1084,11 +1087,11 @@ def caption_candidates(line: str) -> list[tuple[str, int, int]]:
     return list(dict.fromkeys(sorted(out, key=lambda x: (x[1], -(x[2] - x[1])))))
 
 
-def is_identity_heading(line: str, source: str, by_id: dict[str, dict[str, Any]], line_no: int) -> bool:
+def is_identity_heading(line: str, source: str, by_id: dict[str, dict[str, Any]], line_no: int, known_dockets: set[str] | None = None) -> bool:
     if not line.lstrip().startswith("#") or line_no > 80:
         return False
     source_d = set(source_dockets(source, by_id))
-    if any(normalize_docket(x) in source_d for x in docket_tokens(line)):
+    if any(normalize_docket(x, known_dockets) in source_d for x in docket_tokens(line, known_dockets)):
         return True
     own_caption = by_id.get(source, {}).get("canonical_caption_provisional", "")
     if own_caption and caption_key(own_caption, remove_roles=True) in {
@@ -1099,7 +1102,7 @@ def is_identity_heading(line: str, source: str, by_id: dict[str, dict[str, Any]]
     return bool(re.search(r"^#+\s*(?:case|complaint|appeal|judicial case)\b", line, re.I))
 
 
-def is_identity_text(lines: list[str], index: int, source: str, by_id: dict[str, dict[str, Any]]) -> bool:
+def is_identity_text(lines: list[str], index: int, source: str, by_id: dict[str, dict[str, Any]], known_dockets: set[str] | None = None) -> bool:
     """Skip extracted printed title lines that are not citation prose.
 
     A few PDF-to-Markdown pages retain a printed case heading without a
@@ -1111,12 +1114,12 @@ def is_identity_text(lines: list[str], index: int, source: str, by_id: dict[str,
     if not source_d:
         return False
     if re.match(r"^\s*case\b", line, re.I) and line.upper() == line:
-        if source_d.intersection(set(docket_tokens(line))):
+        if source_d.intersection(set(docket_tokens(line, known_dockets))):
             return True
     if index + 1 > 18:
         return False
     local = " ".join(lines[max(0, index - 4):index + 1])
-    local_dockets = set(docket_tokens(local))
+    local_dockets = set(docket_tokens(local, known_dockets))
     if not source_d.intersection(local_dockets):
         return False
     if re.search(r"\b(?:DECISION|RULING|JUDGMENT|OPINION)\s+(?:ON|IN)\b", line):
@@ -1139,6 +1142,7 @@ def harvested_alias(entry: dict[str, Any], caption: str, source_file: str, line_
 
 def scan_references(registry: list[dict[str, Any]]) -> tuple[list[dict[str, Any]], list[dict[str, Any]], dict[str, Any]]:
     docket_map, alias_map, by_id = make_maps(registry)
+    known_dockets = set(docket_map)
     minutes_map = minutes_key_candidates(registry)
     initial_alias_map = alias_map
     surname_names = surname_alias_map(registry)
@@ -1172,9 +1176,9 @@ def scan_references(registry: list[dict[str, Any]]) -> tuple[list[dict[str, Any]
                 continue
             stats["lines_scanned"] += 1
             stats["bco_like_mentions"] += len(re.findall(r"\bBCO\s+\d{1,3}\s*-\s*\d{1,3}\b", line, re.I))
-            if is_identity_heading(line, source, by_id, line_no):
+            if is_identity_heading(line, source, by_id, line_no, known_dockets):
                 continue
-            if is_identity_text(lines, i, source, by_id):
+            if is_identity_text(lines, i, source, by_id, known_dockets):
                 continue
             # Markdown headings are document structure (case titles, opinions,
             # recommendation labels), not ordinary citation prose. Excluding
@@ -1187,7 +1191,7 @@ def scan_references(registry: list[dict[str, Any]]) -> tuple[list[dict[str, Any]
             structured: list[tuple[re.Match[str], list[tuple[str, str]], str | None, tuple[int, int] | None]] = []
             structured_matches = list(CASE_CITATION_RE.finditer(line))
             for match_index, match in enumerate(structured_matches):
-                dockets = split_docket_list(match.group("dockets"))
+                dockets = split_docket_list(match.group("dockets"), known_dockets)
                 next_citation_start = (
                     structured_matches[match_index + 1].start()
                     if match_index + 1 < len(structured_matches)
@@ -1324,7 +1328,7 @@ def scan_references(registry: list[dict[str, Any]]) -> tuple[list[dict[str, Any]
                 )
 
             # Docket-only forms not covered by a Case/SJC/Docket structured unit.
-            for surface, normalized, start, end in raw_docket_tokens(line):
+            for surface, normalized, start, end in raw_docket_tokens(line, known_dockets):
                 if any(a <= start < b or a < end <= b for a, b in occupied):
                     continue
                 targets = docket_map.get(normalized, set())

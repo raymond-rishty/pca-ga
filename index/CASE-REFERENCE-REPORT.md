@@ -24,16 +24,16 @@ A canonical `decision_id` identifies one adjudicated decision. `case_file` remai
 
 ## Candidate resolution
 
-- Candidate occurrences: **2435**
-- Resolved occurrences: **1618** (66.4%)
-- Resolved by docket signal: **1424** (58.5%)
-- Resolved by caption signal: **279** (11.5%)
+- Candidate occurrences: **4050**
+- Resolved occurrences: **3327** (82.1%)
+- Resolved by docket signal: **3133** (77.4%)
+- Resolved by caption signal: **283** (7.0%)
 - Caption-only occurrences resolved from aliases learned in docket citations: **5**
-- Resolved by minutes signal: **159** (6.5%)
-- Unresolved/ambiguous occurrences: **817** (33.6%)
-- Compound docket units decomposed into decision-level occurrences: **37**
-- Self-reference occurrences retained for audit: **543**
-- Unique non-self directed decision edges: **679**
+- Resolved by minutes signal: **159** (3.9%)
+- Unresolved/ambiguous occurrences: **723** (17.9%)
+- Compound docket units decomposed into decision-level occurrences: **56**
+- Self-reference occurrences retained for audit: **642**
+- Unique non-self directed decision edges: **1577**
 
 Percentages use candidate occurrences as the denominator; a combined docket/caption/minutes occurrence contributes to each applicable signal count.
 
@@ -41,7 +41,7 @@ Percentages use candidate occurrences as the denominator; a combined docket/capt
 
 | Form | Occurrences | Example |
 |---|---:|---|
-| docket-only | 1291 | `5-87` (cases/ga05_1977__case1.md:L163) |
+| docket-only | 2906 | `18-3` (cases/ga04_1976__case1.md:L25) |
 | docket + caption | 159 | `Case 90-4 (C. E. Chappell vs. East Carolina Presbytery)` (cases/ga20_1992__1991-02.md:L48) |
 | docket + caption + minutes | 64 | `Case 90-8, Bowen v. Eastern Carolina, M19GA, 1991 Birmingham, Vol. 2, p. 84)` (cases/ga32_2004__2003-06.md:L79) |
 | docket + minutes | 10 | `Case No. 90- 8, M19GA, 1991, p. 84` (cases/ga20_1992__1991-05.md:L101) |
@@ -56,10 +56,10 @@ Docket-only includes explicit `Case`/`SJC` forms and known docket tokens whose s
 
 | Classification | Occurrences |
 |---|---:|
-| resolved `docket` | 634 |
-| resolved `docket_known` | 340 |
-| resolved `docket_explicit` | 215 |
-| resolved `docket_caption` | 155 |
+| resolved `docket_known` | 1650 |
+| resolved `docket` | 851 |
+| resolved `docket_explicit` | 393 |
+| resolved `docket_caption` | 159 |
 | resolved `manual` | 68 |
 | resolved `docket_caption_minutes` | 64 |
 | resolved `alias` | 46 |
@@ -68,16 +68,21 @@ Docket-only includes explicit `Case`/`SJC` forms and known docket tokens whose s
 | resolved `docket_minutes` | 10 |
 | resolved `caption_learned` | 5 |
 | unresolved `caption_unresolved` | 710 |
-| unresolved `docket_unresolved` | 106 |
+| unresolved `docket_unresolved` | 12 |
 | unresolved `short_alias` | 1 |
 
 ## High-value QA examples
 
 ### Evans (2023-07)
+- `23-1` → `ga51_2024__2023-01` (docket_known, line 19)
+- `13-2` → `ga42_2014__stub_2013-02` (docket_known, line 23)
 - `SJC Cases 2019-10 & 2019-12 in M48GA, pp. 771-779` → `ga48_2021__2019-10_2019-12` (docket_minutes, line 27)
+- `13-2` → `ga42_2014__stub_2013-02` (docket_known, line 73)
+- `13-2` → `ga42_2014__stub_2013-02` (docket_known, line 113)
 - `Case No. 2023-07: Appeal of TE John Evans v. Arizona Presbytery` → `ga51_2024__2023-07` (docket_caption, line 167)
 - `Case No. 2023-07: Appeal of TE Evans v. Arizona` → `ga51_2024__2023-07` (docket_caption, line 181)
 - `Case No. 2023-07: Appeal of TE Evans v. Arizona` → `ga51_2024__2023-07` (docket_caption, line 243)
+- `13-2` → `ga42_2014__stub_2013-02` (docket_known, line 352)
 
 ### Bigelow (2024-08)
 - `Case 2023-01: Hann v. Pee Dee Presbytery (M51GA, 2024, p. 2024)` → `ga51_2024__2023-01` (docket_caption_minutes, line 21)
@@ -119,9 +124,9 @@ The Wills footnote in `cases/ga46_2018__2017-01.md:L334` is now decomposed into 
 
 ## Ambiguity and false-positive audit
 
-- **Observed ambiguous citation occurrences:** **0** of 817 unresolved occurrences (0.0% of all candidates). These have competing registered decision targets or explicitly conflicting docket/caption evidence.
-- Compound/multi-docket occurrences still needing decomposition: **32**. **32** are explicit lists such as `Cases 92-7 and 92-8` and are not identity ambiguities.
-- Unresolved occurrences without competing registered targets: **785**. These are missing/unrecognized dockets or captions, or shorthand that remains outside the automatic linker until further evidence is recorded.
+- **Observed ambiguous citation occurrences:** **0** of 723 unresolved occurrences (0.0% of all candidates). These have competing registered decision targets or explicitly conflicting docket/caption evidence.
+- Compound/multi-docket occurrences still needing decomposition: **9**. **9** are explicit lists such as `Cases 92-7 and 92-8` and are not identity ambiguities.
+- Unresolved occurrences without competing registered targets: **714**. These are missing/unrecognized dockets or captions, or shorthand that remains outside the automatic linker until further evidence is recorded.
 - Unique normalized alias collision keys: **202**
 - Alias collision records across registry entries: **486**
 - BCO-like non-case references observed and intentionally excluded: **5244**
@@ -211,23 +216,14 @@ These docket values are present on more than one page entity in the existing cor
 
 | Shape | Count |
 |---|---:|
-| `docket_unresolved: Case 02-03` | 31 |
-| `docket_unresolved: Case 01-34` | 20 |
-| `docket_unresolved: Cases 01-5, 01-20, 01-21, 01-22, 01-23, 01-24 and 01-29` | 7 |
 | `caption_unresolved: Gentry et al vs Calvary Presbytery` | 5 |
 | `docket_unresolved: Cases 2009-13, 2009-17, 2009-18, 2009-19, 2009-20` | 5 |
 | `caption_unresolved: 1986, Gentry et al vs Calvary Presbytery` | 4 |
-| `docket_unresolved: Judicial Case 02-03` | 4 |
 | `caption_unresolved: the case of William A. Conrad, et al vs Central Carolina Presbytery` | 3 |
 | `caption_unresolved: of William A. Conrad, et al vs Central Carolina Presbytery` | 3 |
 | `caption_unresolved: et al vs Central Carolina Presbytery` | 3 |
 | `caption_unresolved: 97-10 and 97-12 - both Raymond Larsen vs Pacific Presbytery were withdrawn by the complainants` | 3 |
-| `docket_unresolved: Cases 99-3 and 00-3` | 3 |
-| `docket_unresolved: Cases 00-9, 01-1, 01-2, 01-3, 01-4, 01-5, 01-7, 01-8, 01-9` | 3 |
 | `docket_unresolved: Cases 00-6, 01-6` | 3 |
-| `docket_unresolved: Cases 99-1, 99-5, 99-6, 99-7, 00-1, 00-2, 00-4, 00-7, 00-8 and 00-10` | 3 |
-| `docket_unresolved: Case 02-02` | 3 |
-| `docket_unresolved: Judicial Case 01-34` | 3 |
 | `caption_unresolved: et. al vs Missouri Presbytery` | 2 |
 | `caption_unresolved: 1992 by William A. Conrad, et al., Complainants vs the Interim Session of Prosperity Presbyterian Church` | 2 |
 | `caption_unresolved: et al., Complainants vs the Interim Session of Prosperity Presbyterian Church` | 2 |
@@ -241,39 +237,31 @@ These docket values are present on more than one page entity in the existing cor
 | `caption_unresolved: 2 See Bogue, et al v The Presbytery of the Ascension` | 2 |
 | `caption_unresolved: Bogue, et al v. The Presbytery of the Ascension (M8GA pp. 50-51); Gentry, et al v. Calvary Presbytery (M14GA, pp. 224-230); Rayburn, et al v Missouri Presbytery` | 2 |
 | `caption_unresolved: Bogue, et al v. The Presbytery of the Ascension (M8GA pp. 50-51); Gentry, et al v Calvary Presbytery` | 2 |
+| `caption_unresolved: Bogue, et al v The Presbytery of the Ascension` | 2 |
+| `caption_unresolved: et al v. The Presbytery of the Ascension (M8GA pp. 50-51); Gentry, et al v. Calvary Presbytery (M14GA, pp. 224-230); Rayburn, et al v Missouri Presbytery` | 2 |
+| `caption_unresolved: et al v. The Presbytery of the Ascension (M8GA pp. 50-51); Gentry, et al v Calvary Presbytery` | 2 |
+| `caption_unresolved: et al v The Presbytery of the Ascension` | 2 |
+| `caption_unresolved: the Ascension (M8GA pp. 50-51); Gentry, et al v. Calvary Presbytery (M14GA, pp. 224-230); Rayburn, et al v Missouri Presbytery` | 2 |
+| `caption_unresolved: the Ascension (M8GA pp. 50-51); Gentry, et al v Calvary Presbytery` | 2 |
+| `caption_unresolved: cension (M8GA pp. 50-51); Gentry, et al v. Calvary Presbytery (M14GA, pp. 224-230); Rayburn, et al v. Missouri Presbytery (M16GA, pp. 213-220); Serio v Palmetto Presbytery` | 2 |
+| `caption_unresolved: M8GA pp. 50-51); Gentry, et al v. Calvary Presbytery (M14GA, pp. 224-230); Rayburn, et al v. Missouri Presbytery (M16GA, pp. 213-220); Serio v Palmetto Presbytery` | 2 |
+| `caption_unresolved: M8GA pp. 50-51); Gentry, et al v. Calvary Presbytery (M14GA, pp. 224-230); Rayburn, et al v Missouri Presbytery` | 2 |
 
 ### Unresolved high-value candidates
 
 - `Case No. 88-3` — cases/ga23_1995__1994-02.md:L62 (docket_unresolved); ambiguity `{"caption_fingerprint_targets": [], "caption_targets": [], "cited_dockets": ["1988-3"], "docket_targets": [], "minutes_targets": [], "missing_dockets": ["1988-3"]}`
-- `Case 00-2 Philip J. Adams vs Northeast Presbytery` — cases/ga28_2000__2000-02.md:L11 (docket_unresolved); ambiguity `{"caption_fingerprint_targets": [], "caption_targets": [], "cited_dockets": ["0-2"], "docket_targets": [], "minutes_targets": [], "missing_dockets": ["0-2"]}`
-- `Cases 99-3, 99-5, 99-6, 99-7, 00-1` — cases/ga28_2000__2000-02.md:L13 (docket_unresolved); ambiguity `{"caption_fingerprint_targets": [], "caption_targets": [], "cited_dockets": ["1999-3", "1999-5", "1999-6", "1999-7", "0-1"], "docket_targets": ["ga29_2001__1999-05", "ga29_2001__1999-06", "ga29_2001__1999-07", "ga29_2001__stub_1999-03"], "minutes_targets": [], "missing_dockets": ["0-1"]}`
-- `Cases 99-3 and 00-3` — cases/ga29_2001__stub_2000-03.md:L9 (docket_unresolved); ambiguity `{"caption_fingerprint_targets": [], "caption_targets": [], "cited_dockets": ["1999-3", "0-3"], "docket_targets": ["ga29_2001__stub_1999-03"], "minutes_targets": [], "missing_dockets": ["0-3"]}`
-- `Cases 00-9, 01-1, 01-2, 01-3, 01-4, 01-5, 01-7, 01-8, 01-9` — cases/ga29_2001__stub_2000-03.md:L9 (docket_unresolved); ambiguity `{"caption_fingerprint_targets": [], "caption_targets": [], "cited_dockets": ["0-9", "1-1", "1-2", "1-3", "1-4", "1-5", "1-7", "1-8", "1-9"], "docket_targets": [], "minutes_targets": [], "missing_dockets": ["0-9", "1-1", "1-2", "1-3", "1-4", "1-5", "1-7", "1-8", "1-9"]}`
-- `Cases 00-6, 01-6` — cases/ga29_2001__stub_2000-03.md:L9 (docket_unresolved); ambiguity `{"caption_fingerprint_targets": [], "caption_targets": [], "cited_dockets": ["0-6", "1-6"], "docket_targets": [], "minutes_targets": [], "missing_dockets": ["0-6", "1-6"]}`
-- `Cases 99-1, 99-5, 99-6, 99-7, 00-1, 00-2, 00-4, 00-7, 00-8 and 00-10` — cases/ga29_2001__stub_2000-03.md:L9 (docket_unresolved); ambiguity `{"caption_fingerprint_targets": [], "caption_targets": [], "cited_dockets": ["1999-1", "1999-5", "1999-6", "1999-7", "0-1", "0-2", "0-4", "0-7", "0-8", "0-10"], "docket_targets": ["ga28_2000__1999-01", "ga29_2001__1999-05", "ga29_2001__1999-06", "ga29_2001__1999-07"], "minutes_targets": [], "missing_dockets": ["0-1", "0-2", "0-4", "0-7", "0-8", "0-10"]}`
-- `Cases 99-3 and 00-3` — cases/ga29_2001__stub_2000-05.md:L9 (docket_unresolved); ambiguity `{"caption_fingerprint_targets": [], "caption_targets": [], "cited_dockets": ["1999-3", "0-3"], "docket_targets": ["ga29_2001__stub_1999-03"], "minutes_targets": [], "missing_dockets": ["0-3"]}`
-- `Cases 00-9, 01-1, 01-2, 01-3, 01-4, 01-5, 01-7, 01-8, 01-9` — cases/ga29_2001__stub_2000-05.md:L9 (docket_unresolved); ambiguity `{"caption_fingerprint_targets": [], "caption_targets": [], "cited_dockets": ["0-9", "1-1", "1-2", "1-3", "1-4", "1-5", "1-7", "1-8", "1-9"], "docket_targets": [], "minutes_targets": [], "missing_dockets": ["0-9", "1-1", "1-2", "1-3", "1-4", "1-5", "1-7", "1-8", "1-9"]}`
-- `Cases 00-6, 01-6` — cases/ga29_2001__stub_2000-05.md:L9 (docket_unresolved); ambiguity `{"caption_fingerprint_targets": [], "caption_targets": [], "cited_dockets": ["0-6", "1-6"], "docket_targets": [], "minutes_targets": [], "missing_dockets": ["0-6", "1-6"]}`
-- `Cases 99-1, 99-5, 99-6, 99-7, 00-1, 00-2, 00-4, 00-7, 00-8 and 00-10` — cases/ga29_2001__stub_2000-05.md:L9 (docket_unresolved); ambiguity `{"caption_fingerprint_targets": [], "caption_targets": [], "cited_dockets": ["1999-1", "1999-5", "1999-6", "1999-7", "0-1", "0-2", "0-4", "0-7", "0-8", "0-10"], "docket_targets": ["ga28_2000__1999-01", "ga29_2001__1999-05", "ga29_2001__1999-06", "ga29_2001__1999-07"], "minutes_targets": [], "missing_dockets": ["0-1", "0-2", "0-4", "0-7", "0-8", "0-10"]}`
-- `Cases 99-3 and 00-3` — cases/ga29_2001__stub_2001-05.md:L9 (docket_unresolved); ambiguity `{"caption_fingerprint_targets": [], "caption_targets": [], "cited_dockets": ["1999-3", "0-3"], "docket_targets": ["ga29_2001__stub_1999-03"], "minutes_targets": [], "missing_dockets": ["0-3"]}`
-- `Cases 00-9, 01-1, 01-2, 01-3, 01-4, 01-5, 01-7, 01-8, 01-9` — cases/ga29_2001__stub_2001-05.md:L9 (docket_unresolved); ambiguity `{"caption_fingerprint_targets": [], "caption_targets": [], "cited_dockets": ["0-9", "1-1", "1-2", "1-3", "1-4", "1-5", "1-7", "1-8", "1-9"], "docket_targets": [], "minutes_targets": [], "missing_dockets": ["0-9", "1-1", "1-2", "1-3", "1-4", "1-5", "1-7", "1-8", "1-9"]}`
-- `Cases 00-6, 01-6` — cases/ga29_2001__stub_2001-05.md:L9 (docket_unresolved); ambiguity `{"caption_fingerprint_targets": [], "caption_targets": [], "cited_dockets": ["0-6", "1-6"], "docket_targets": [], "minutes_targets": [], "missing_dockets": ["0-6", "1-6"]}`
-- `Cases 99-1, 99-5, 99-6, 99-7, 00-1, 00-2, 00-4, 00-7, 00-8 and 00-10` — cases/ga29_2001__stub_2001-05.md:L9 (docket_unresolved); ambiguity `{"caption_fingerprint_targets": [], "caption_targets": [], "cited_dockets": ["1999-1", "1999-5", "1999-6", "1999-7", "0-1", "0-2", "0-4", "0-7", "0-8", "0-10"], "docket_targets": ["ga28_2000__1999-01", "ga29_2001__1999-05", "ga29_2001__1999-06", "ga29_2001__1999-07"], "minutes_targets": [], "missing_dockets": ["0-1", "0-2", "0-4", "0-7", "0-8", "0-10"]}`
-- `Case 02-2 Complaint RE Leland Nichols, et al. vs. James River Presbytery` — cases/ga30_2002__2002-02_2002-03.md:L11 (docket_unresolved); ambiguity `{"caption_fingerprint_targets": ["ga33_2005__2001-34_2002-02_2002-03"], "caption_targets": [], "cited_dockets": ["2-2"], "docket_targets": [], "minutes_targets": [], "missing_dockets": ["2-2"]}`
-- `Case 02-3 Complaint RE Leland Nichols, et al. vs. James River Presbytery` — cases/ga30_2002__2002-02_2002-03.md:L12 (docket_unresolved); ambiguity `{"caption_fingerprint_targets": ["ga33_2005__2001-34_2002-02_2002-03"], "caption_targets": [], "cited_dockets": ["2-3"], "docket_targets": [], "minutes_targets": [], "missing_dockets": ["2-3"]}`
-- `Cases 01-5, 01-20, 01-21, 01-22, 01-23, 01-24 and 01-29` — cases/ga30_2002__2002-02_2002-03.md:L16 (docket_unresolved); ambiguity `{"caption_fingerprint_targets": [], "caption_targets": [], "cited_dockets": ["1-5", "1-20", "1-21", "1-22", "1-23", "1-24", "1-29"], "docket_targets": [], "minutes_targets": [], "missing_dockets": ["1-5", "1-20", "1-21", "1-22", "1-23", "1-24", "1-29"]}`
-- `Cases 01-6, 01-30, 01-31, 01- 32, 01-33, 01-34, 02-1, 02-2 and 02-3` — cases/ga30_2002__2002-02_2002-03.md:L16 (docket_unresolved); ambiguity `{"caption_fingerprint_targets": [], "caption_targets": [], "cited_dockets": ["1-6", "1-30", "1-31", "1-32", "1-33", "1-34", "2-1", "2-2", "2-3"], "docket_targets": [], "minutes_targets": [], "missing_dockets": ["1-6", "1-30", "1-31", "1-32", "1-33", "1-34", "2-1", "2-2", "2-3"]}`
-- `Cases 00-9, 01-1, 01-2,01-3,01-4,01-7,01-8,01-9,01-10,01-11,01-12,01-13,01-14,01-15, 01-16, 01-17, 01-18, 01-19, 01-25, 01-28, 01-35, 01-36 and 01-37` — cases/ga30_2002__2002-02_2002-03.md:L16 (docket_unresolved); ambiguity `{"caption_fingerprint_targets": [], "caption_targets": [], "cited_dockets": ["0-9", "1-1", "1-2", "1-3", "1-4", "1-7", "1-8", "1-9", "1-10", "1-11", "1-12", "1-13", "1-14", "1-15", "1-16", "1-17", "1-18", "1-19", "1-25", "1-28", "1-35", "1-36", "1-37"], "docket_targets": [], "minutes_targets": [], "missing_dockets": ["0-9", "1-1", "1-2", "1-3", "1-4", "1-7", "1-8", "1-9", "1-10", "1-11", "1-12", "1-13", "1-14", "1-15", "1-16", "1-17", "1-18", "1-19", "1-25", "1-28", "1-35", "1-36", "1-37"]}`
-- `Cases 01-5, 01-20, 01-21, 01-22, 01-23, 01-24 and 01-29` — cases/ga30_2002__stub_2001-20.md:L9 (docket_unresolved); ambiguity `{"caption_fingerprint_targets": [], "caption_targets": [], "cited_dockets": ["1-5", "1-20", "1-21", "1-22", "1-23", "1-24", "1-29"], "docket_targets": [], "minutes_targets": [], "missing_dockets": ["1-5", "1-20", "1-21", "1-22", "1-23", "1-24", "1-29"]}`
-- `Cases 01-5, 01-20, 01-21, 01-22, 01-23, 01-24 and 01-29` — cases/ga30_2002__stub_2001-21.md:L9 (docket_unresolved); ambiguity `{"caption_fingerprint_targets": [], "caption_targets": [], "cited_dockets": ["1-5", "1-20", "1-21", "1-22", "1-23", "1-24", "1-29"], "docket_targets": [], "minutes_targets": [], "missing_dockets": ["1-5", "1-20", "1-21", "1-22", "1-23", "1-24", "1-29"]}`
-- `Cases 01-5, 01-20, 01-21, 01-22, 01-23, 01-24 and 01-29` — cases/ga30_2002__stub_2001-22.md:L9 (docket_unresolved); ambiguity `{"caption_fingerprint_targets": [], "caption_targets": [], "cited_dockets": ["1-5", "1-20", "1-21", "1-22", "1-23", "1-24", "1-29"], "docket_targets": [], "minutes_targets": [], "missing_dockets": ["1-5", "1-20", "1-21", "1-22", "1-23", "1-24", "1-29"]}`
-- `Cases 01-5, 01-20, 01-21, 01-22, 01-23, 01-24 and 01-29` — cases/ga30_2002__stub_2001-23.md:L9 (docket_unresolved); ambiguity `{"caption_fingerprint_targets": [], "caption_targets": [], "cited_dockets": ["1-5", "1-20", "1-21", "1-22", "1-23", "1-24", "1-29"], "docket_targets": [], "minutes_targets": [], "missing_dockets": ["1-5", "1-20", "1-21", "1-22", "1-23", "1-24", "1-29"]}`
-- `Cases 01-5, 01-20, 01-21, 01-22, 01-23, 01-24 and 01-29` — cases/ga30_2002__stub_2001-24.md:L9 (docket_unresolved); ambiguity `{"caption_fingerprint_targets": [], "caption_targets": [], "cited_dockets": ["1-5", "1-20", "1-21", "1-22", "1-23", "1-24", "1-29"], "docket_targets": [], "minutes_targets": [], "missing_dockets": ["1-5", "1-20", "1-21", "1-22", "1-23", "1-24", "1-29"]}`
-- `Cases 01-5, 01-20, 01-21, 01-22, 01-23, 01-24 and 01-29` — cases/ga30_2002__stub_2001-29.md:L9 (docket_unresolved); ambiguity `{"caption_fingerprint_targets": [], "caption_targets": [], "cited_dockets": ["1-5", "1-20", "1-21", "1-22", "1-23", "1-24", "1-29"], "docket_targets": [], "minutes_targets": [], "missing_dockets": ["1-5", "1-20", "1-21", "1-22", "1-23", "1-24", "1-29"]}`
-- `Case 02-9` — cases/ga32_2004__2002-09.md:L55 (docket_unresolved); ambiguity `{"caption_fingerprint_targets": [], "caption_targets": [], "cited_dockets": ["2-9"], "docket_targets": [], "minutes_targets": [], "missing_dockets": ["2-9"]}`
-- `Case 01-34` — cases/ga33_2005__2001-34_2002-02_2002-03.md:L67 (docket_unresolved); ambiguity `{"caption_fingerprint_targets": [], "caption_targets": [], "cited_dockets": ["1-34"], "docket_targets": [], "minutes_targets": [], "missing_dockets": ["1-34"]}`
-- `Case 01-34` — cases/ga33_2005__2001-34_2002-02_2002-03.md:L71 (docket_unresolved); ambiguity `{"caption_fingerprint_targets": [], "caption_targets": [], "cited_dockets": ["1-34"], "docket_targets": [], "minutes_targets": [], "missing_dockets": ["1-34"]}`
-- `Case 01-34` — cases/ga33_2005__2001-34_2002-02_2002-03.md:L75 (docket_unresolved); ambiguity `{"caption_fingerprint_targets": [], "caption_targets": [], "cited_dockets": ["1-34"], "docket_targets": [], "minutes_targets": [], "missing_dockets": ["1-34"]}`
+- `Cases 00-6, 01-6` — cases/ga29_2001__stub_2000-03.md:L9 (docket_unresolved); ambiguity `{"caption_fingerprint_targets": [], "caption_targets": [], "cited_dockets": ["0-6", "2001-6"], "docket_targets": ["ga31_2003__2001-06"], "minutes_targets": [], "missing_dockets": ["0-6"]}`
+- `Cases 00-6, 01-6` — cases/ga29_2001__stub_2000-05.md:L9 (docket_unresolved); ambiguity `{"caption_fingerprint_targets": [], "caption_targets": [], "cited_dockets": ["0-6", "2001-6"], "docket_targets": ["ga31_2003__2001-06"], "minutes_targets": [], "missing_dockets": ["0-6"]}`
+- `Cases 00-6, 01-6` — cases/ga29_2001__stub_2001-05.md:L9 (docket_unresolved); ambiguity `{"caption_fingerprint_targets": [], "caption_targets": [], "cited_dockets": ["0-6", "2001-6"], "docket_targets": ["ga31_2003__2001-06"], "minutes_targets": [], "missing_dockets": ["0-6"]}`
+- `Case 1-34` — cases/ga33_2005__2001-34_2002-02_2002-03.md:L97 (docket_unresolved); ambiguity `{"caption_fingerprint_targets": [], "caption_targets": [], "cited_dockets": ["1-34"], "docket_targets": [], "minutes_targets": [], "missing_dockets": ["1-34"]}`
+- `Case 1-34` — cases/ga33_2005__2001-34_2002-02_2002-03.md:L117 (docket_unresolved); ambiguity `{"caption_fingerprint_targets": [], "caption_targets": [], "cited_dockets": ["1-34"], "docket_targets": [], "minutes_targets": [], "missing_dockets": ["1-34"]}`
+- `Cases 2009-13, 2009-17, 2009-18, 2009-19, 2009-20` — cases/ga38_2010__stub_2009-13.md:L9 (docket_unresolved); ambiguity `{"caption_fingerprint_targets": [], "caption_targets": [], "cited_dockets": ["2009-13", "2009-17", "2009-18", "2009-19", "2009-20"], "docket_targets": ["ga38_2010__stub_2009-13", "ga38_2010__stub_2009-17"], "minutes_targets": [], "missing_dockets": ["2009-18", "2009-19", "2009-20"]}`
+- `Cases 2009-13, 2009-17, 2009-18, 2009-19, 2009-20` — cases/ga38_2010__stub_2009-17.md:L9 (docket_unresolved); ambiguity `{"caption_fingerprint_targets": [], "caption_targets": [], "cited_dockets": ["2009-13", "2009-17", "2009-18", "2009-19", "2009-20"], "docket_targets": ["ga38_2010__stub_2009-13", "ga38_2010__stub_2009-17"], "minutes_targets": [], "missing_dockets": ["2009-18", "2009-19", "2009-20"]}`
+- `Cases 2009-13, 2009-17, 2009-18, 2009-19, 2009-20` — cases/ga38_2010__stub_2009-29.md:L9 (docket_unresolved); ambiguity `{"caption_fingerprint_targets": [], "caption_targets": [], "cited_dockets": ["2009-13", "2009-17", "2009-18", "2009-19", "2009-20"], "docket_targets": ["ga38_2010__stub_2009-13", "ga38_2010__stub_2009-17"], "minutes_targets": [], "missing_dockets": ["2009-18", "2009-19", "2009-20"]}`
+- `Cases 2009-13, 2009-17, 2009-18, 2009-19, 2009-20` — cases/ga38_2010__stub_2009-32.md:L9 (docket_unresolved); ambiguity `{"caption_fingerprint_targets": [], "caption_targets": [], "cited_dockets": ["2009-13", "2009-17", "2009-18", "2009-19", "2009-20"], "docket_targets": ["ga38_2010__stub_2009-13", "ga38_2010__stub_2009-17"], "minutes_targets": [], "missing_dockets": ["2009-18", "2009-19", "2009-20"]}`
+- `Cases 2009-13, 2009-17, 2009-18, 2009-19, 2009-20` — cases/ga38_2010__stub_2010-02.md:L9 (docket_unresolved); ambiguity `{"caption_fingerprint_targets": [], "caption_targets": [], "cited_dockets": ["2009-13", "2009-17", "2009-18", "2009-19", "2009-20"], "docket_targets": ["ga38_2010__stub_2009-13", "ga38_2010__stub_2009-17"], "minutes_targets": [], "missing_dockets": ["2009-18", "2009-19", "2009-20"]}`
+- `Cases 2013-02 and 2013-05` — cases/ga42_2014__stub_2013-02.md:L9 (docket_unresolved); ambiguity `{"caption_fingerprint_targets": [], "caption_targets": [], "cited_dockets": ["2013-2", "2013-5"], "docket_targets": ["ga42_2014__stub_2013-02"], "minutes_targets": [], "missing_dockets": ["2013-5"]}`
+- `back 13` — cases/ga46_2018__2017-01.md:L172 (short_alias); ambiguity `{"surname_targets": ["ga29_2001__1999-07"]}`
 
 ### Reviewed false positives
 
@@ -315,61 +303,61 @@ These candidate shapes were excluded because the source context identifies them 
 
 | Decision | Caption | Distinct citing decisions | Occurrences |
 |---|---|---:|---:|
-| `ga34_2006__stub_2006-03` | Memorial of Calvary v. Louisiana | 11 | 11 |
-| `ga34_2006__stub_2005-06` | Complaint of RE Hugo Andrino vs. Southern Florida Presbytery | 10 | 10 |
-| `ga34_2006__stub_2005-07` | Complaint of RE Hugo Andrino vs. Southern Florida Presbytery | 10 | 10 |
-| `ga34_2006__stub_2005-10` | ga34_2006__stub_2005-10 | 10 | 10 |
-| `ga34_2006__stub_2005-11` | Complaint of RE Hugo Andrino vs. Southern Florida Presbytery | 10 | 10 |
-| `ga34_2006__stub_2005-12` | Complaint of TE Peter B. Kim vs. Korean Eastern Presbytery | 10 | 10 |
-| `ga34_2006__stub_2005-13` | Zaepfel v. Central Carolina | 10 | 10 |
-| `ga34_2006__stub_2006-01` | Complaint of RE Hugo Andrino vs. Southern Florida Presbytery | 10 | 10 |
-| `ga19_1991__1990-04` | Charles E. Chappell v. Eastern Carolina Presbytery | 8 | 26 |
-| `ga21_1993__1992-09b` | Overman v. Eastern Carolina Presbytery | 8 | 8 |
-| `ga34_2006__stub_2006-04` | Complaint of James Peffley, Et Altera vs. Heritage Presbytery | 8 | 8 |
-| `ga34_2006__stub_2005-05` | Witcher Memorial RE: 2004-5 Blevins vs. Westminster Presbytery | 8 | 8 |
-| `ga38_2010__2008-14` | White v. Siouxlands Presbytery | 8 | 10 |
-| `ga43_2015__2013-08` | Jackson v. Northwest Georgia Presbytery | 8 | 10 |
-| `ga19_1991__1990-08` | Bowen v. Eastern Carolina Presbytery | 7 | 8 |
-| `ga38_2010__2010-05_2010-06` | Carpenter v. Siouxlands / Yuan: An appeal to the SJC alleging a "minister's heresy" | 7 | 12 |
-| `ga41_2013__2012-06` | Bethel v. Southeast Alabama Presbytery | 7 | 7 |
-| `ga48_2021__2020-01` | COMPLAINT OF MR. PETER BENYOLA VS. CENTRAL FLORIDA PRESBYTERY | 7 | 7 |
-| `ga14_1986__case1` | Kenneth L. Gentry, Jr. et al. v. Calvary Presbytery | 6 | 9 |
-| `ga36_2008__2006-02` | Memorial of Central Carolina v. Louisiana — M36GA, 2008 Dallas, p. 75 | 6 | 23 |
-| `ga37_2009__stub_2008-06` | Complaint of RE H. Lance Acree vs. Chesapeake Presbytery | 6 | 6 |
-| `ga37_2009__stub_2008-07` | Complaint of RE H. Lance Acree vs. Chesapeake Presbytery | 6 | 6 |
-| `ga37_2009__stub_2008-08` | Complaint of DE Joong Min Soh vs. Philadelphia Presbytery | 6 | 6 |
-| `ga37_2009__stub_2008-12` | Appeal of Malone v. Metro New York | 6 | 6 |
-| `ga38_2010__2008-11` | Broadwater et al. v. Chesapeake Presbytery | 6 | 6 |
+| `ga42_2014__stub_2013-09` | Appeal: Mr. G. Rick Marshall vs. Pacific Presbytery .... Withdrawn | 52 | 138 |
+| `ga44_2016__2015-03` | Flesher and Weekly v. Metro Atlanta Presbytery | 41 | 67 |
+| `ga40_2012__2011-03_2011-04` | Sagan et al. v. Covenant Presbytery / Gunn et al. v. Covenant Presbytery | 38 | 100 |
+| `ga44_2016__2015-01` | Sanfacon v. Philadelphia Presbytery | 32 | 103 |
+| `ga49_2022__2021-05` | Eudaly and Light v. Southwest Florida Presbytery | 32 | 56 |
+| `ga41_2013__2012-05` | Hedman v. Pacific Northwest Presbytery | 29 | 46 |
+| `ga52_2025__2024-06` | Presbyterian Church in America v. South Coast Presbytery | 21 | 63 |
+| `ga44_2016__2015-02` | Gearhart v. Chicago Metro Presbytery | 20 | 35 |
+| `ga51_2024__2023-01` | Hann v. Pee Dee Presbytery | 18 | 42 |
+| `ga48_2021__2020-01` | COMPLAINT OF MR. PETER BENYOLA VS. CENTRAL FLORIDA PRESBYTERY | 18 | 28 |
+| `ga45_2017__2016-02` | Robertstad v. North Texas Presbytery | 18 | 29 |
+| `ga40_2012__2011-02` | Gonzales v. Great Lakes Presbytery | 17 | 24 |
+| `ga52_2025__2024-01` | Moehn v. Westminster Presbytery | 15 | 53 |
+| `ga44_2016__2015-04` | Thompson v. South Florida Presbytery | 13 | 40 |
+| `ga42_2014__2011-11_2011-12_2011-15_2011-16` | Steven Hahn v. Philadelphia Metro West Presbytery | 13 | 22 |
+| `ga48_2021__2019-01` | Dodson et al. v. Ohio Presbytery | 13 | 20 |
+| `ga43_2015__2013-06` | Gonzales v. Great Lakes Presbytery | 13 | 24 |
+| `ga42_2014__stub_2013-02` | Complaint: RE Warren Jackson vs. Northwest Georgia Presbytery | 12 | 34 |
+| `ga39_2011__2010-04` | Sartorious et al. v. Siouxlands Presbytery | 12 | 14 |
+| `ga44_2016__2015-05` | Application of Thompson v. South Florida | 12 | 16 |
+| `ga41_2013__2012-06` | Bethel v. Southeast Alabama Presbytery | 12 | 12 |
+| `ga49_2022__2021-01` | Michelson v. Northwest Georgia Presbytery | 11 | 22 |
+| `ga43_2015__2013-10` | Latimer v. Chicago Metro Presbytery | 11 | 16 |
+| `ga34_2006__stub_2006-01` | Complaint of RE Hugo Andrino vs. Southern Florida Presbytery | 11 | 11 |
+| `ga34_2006__stub_2005-07` | Complaint of RE Hugo Andrino vs. Southern Florida Presbytery | 11 | 11 |
 
 ## Decisions with the most outgoing edges
 
 | Decision | Caption | Distinct targets | Occurrences |
 |---|---|---:|---:|
-| `ga52_2025__2023-16` | Bulkeley & Gillikin v. Highlands Presbytery | 21 | 40 |
-| `ga50_2023__2022-02` | Herron & Baysinger v. Central Indiana Presbytery | 12 | 14 |
+| `ga33_2005__2001-34_2002-02_2002-03` | RE Leland Nichols and RE Sam Couch v. James River Presbytery | 58 | 88 |
+| `ga37_2009__2007-13` | Complaint of TE David Kniseley, et al. vs. Rocky Mountain Presbytery | 36 | 61 |
+| `ga52_2025__2023-16` | Bulkeley & Gillikin v. Highlands Presbytery | 26 | 46 |
+| `ga29_2001__stub_2000-03` | ga29_2001__stub_2000-03 | 23 | 23 |
+| `ga29_2001__stub_2000-05` | King v. Evangel | 23 | 23 |
+| `ga29_2001__stub_2001-05` | Ham v. Korean Capital | 23 | 23 |
+| `ga51_2024__2023-11` | Psiaki v. Pacific Northwest Presbytery | 21 | 53 |
+| `ga50_2023__2022-20` | Wilson et al. v. Pacific Northwest Presbytery | 19 | 41 |
+| `ga29_2001__1999-07` | Jeffrey M. Back v. Eastern Carolina Presbytery | 17 | 43 |
+| `ga46_2018__2017-01` | Dailey v. Heritage Presbytery | 17 | 23 |
+| `ga48_2021__2019-02` | Schrock et al. v. Philadelphia Presbytery | 16 | 24 |
+| `ga49_2022__2020-12` | Speck v. Missouri Presbytery | 16 | 26 |
+| `ga50_2023__2022-02` | Herron & Baysinger v. Central Indiana Presbytery | 16 | 18 |
+| `ga47_2019__2018-02` | Lewis v. Presbytery of the Mississippi Valley | 15 | 63 |
+| `ga51_2024__2023-13` | ga51_2024__2023-13 | 15 | 66 |
+| `ga34_2006__2004-08` | Thornton v. Westminster Presbytery | 13 | 42 |
+| `ga38_2010__2009-06` | James Bordwine et al. v. Pacific Northwest Presbytery | 13 | 24 |
+| `ga46_2018__2016-11` | Frazier v. Nashville Presbytery | 13 | 19 |
+| `ga39_2011__2009-25_2009-26` | Brown v. Northern California Presbytery / Session of Grace Presbyterian Church v. Northern California Presbytery | 12 | 24 |
+| `ga19_1991__1990-04` | Charles E. Chappell v. Eastern Carolina Presbytery | 11 | 34 |
+| `ga21_1993__1992-06` | Conrad et al. v. Central Carolina Presbytery. (Case #1) | 11 | 26 |
+| `ga25_1997__1995-11` | James Landrum vs. Mississippi Valley Presbytery 26-67, | 11 | 13 |
 | `ga34_2006__stub_2004-13` | Complaint of TE Wayne Zaepfel vs. Central Carolina Presbytery | 11 | 11 |
 | `ga34_2006__stub_2005-02` | Complaint of RE Hugo Andrino vs. Southern Florida Presbytery | 11 | 11 |
 | `ga34_2006__stub_2005-03` | Complaint of Session of Living Word PC vs. Pacific NW Presbytery | 11 | 11 |
-| `ga34_2006__stub_2005-04` | Complaint of Session of Hudson Korean American PC vs. Korean | 11 | 11 |
-| `ga47_2019__2018-02` | Lewis v. Presbytery of the Mississippi Valley | 10 | 28 |
-| `ga26_1998__1998-02` | St. Paul Session, et al. v. Central Florida Presbytery | 9 | 12 |
-| `ga34_2006__stub_2005-06` | Complaint of RE Hugo Andrino vs. Southern Florida Presbytery | 9 | 9 |
-| `ga34_2006__stub_2005-07` | Complaint of RE Hugo Andrino vs. Southern Florida Presbytery | 9 | 9 |
-| `ga34_2006__stub_2005-10` | ga34_2006__stub_2005-10 | 9 | 9 |
-| `ga34_2006__stub_2005-11` | Complaint of RE Hugo Andrino vs. Southern Florida Presbytery | 9 | 9 |
-| `ga34_2006__stub_2005-12` | Complaint of TE Peter B. Kim vs. Korean Eastern Presbytery | 9 | 9 |
-| `ga34_2006__stub_2005-13` | Zaepfel v. Central Carolina | 9 | 9 |
-| `ga34_2006__stub_2006-01` | Complaint of RE Hugo Andrino vs. Southern Florida Presbytery | 9 | 9 |
-| `ga38_2010__2010-05_2010-06` | Carpenter v. Siouxlands / Yuan: An appeal to the SJC alleging a "minister's heresy" | 9 | 17 |
-| `ga49_2022__2020-06` | Gordon v. Southern New England Presbytery | 9 | 10 |
-| `ga49_2022__2020-12` | Speck v. Missouri Presbytery | 9 | 15 |
-| `ga25_1997__1995-11` | James Landrum vs. Mississippi Valley Presbytery 26-67, | 8 | 9 |
-| `ga43_2015__2014-01` | Aven and Dively v. Ohio Valley Presbytery | 8 | 8 |
-| `ga48_2021__2019-10_2019-12` | Evans and Pitts et al. v. Arizona Presbytery / Pitts et al. v. Arizona Presbytery | 8 | 9 |
-| `ga37_2009__stub_2008-03` | Complaint of RE H. Lance Acree vs. Chesapeake Presbytery | 7 | 7 |
-| `ga37_2009__stub_2008-04` | Complaint of RE H. Lance Acree vs. Chesapeake Presbytery | 7 | 7 |
-| `ga37_2009__stub_2008-05` | Complaint of RE H. Lance Acree vs. Chesapeake Presbytery | 7 | 7 |
-| `ga38_2010__stub_2009-16` | Eliot Lee v. Korean Eastern | 7 | 8 |
 
 ## Recommendations for inline linking
 
@@ -381,6 +369,6 @@ These candidate shapes were excluded because the source context identifies them 
 
 ## Deterministic-resolution conclusion
 
-Most high-confidence PCA case references are deterministically resolvable from docket numbers once docket normalization and BCO guards are applied: **1424 of 2435 candidate occurrences (58.5%)** carry a resolved docket signal. Caption-only and shorthand references still require learned-alias collision checks and a modest manual/entity-resolution queue; the corpus should not treat the raw overall resolution percentage as permission to guess.
+Most high-confidence PCA case references are deterministically resolvable from docket numbers once docket normalization and BCO guards are applied: **3133 of 4050 candidate occurrences (77.4%)** carry a resolved docket signal. Caption-only and shorthand references still require learned-alias collision checks and a modest manual/entity-resolution queue; the corpus should not treat the raw overall resolution percentage as permission to guess.
 
 The current foundation is therefore suitable for an exploratory graph and a first inline-linking pass limited to high-confidence docket/unique-caption matches, but not yet for automatic resolution of all textual mentions.

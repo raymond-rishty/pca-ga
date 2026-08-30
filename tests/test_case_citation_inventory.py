@@ -27,6 +27,9 @@ class CaseCitationInventoryTests(unittest.TestCase):
         self.assertEqual(MODULE.normalize_docket("01-34", {"2001-34"}), "2001-34")
         self.assertEqual(MODULE.normalize_docket("95-4"), "1995-4")
         self.assertEqual(MODULE.normalize_docket("1995-04"), "1995-4")
+        self.assertEqual(MODULE.docket_tokens("Case 02-03", {"2002-3"}), ["2002-3"])
+        self.assertEqual(MODULE.docket_tokens("Case 01-34", {"2001-34"}), ["2001-34"])
+        self.assertEqual(MODULE.docket_tokens("Case 1-34", {"2001-34"}), ["1-34"])
 
     def test_caption_normalization_is_limited_to_demonstrated_variants(self):
         forms = [
@@ -186,12 +189,12 @@ class CaseCitationInventoryTests(unittest.TestCase):
         observed = [x for x in unresolved if MODULE.is_observed_ambiguity(x)]
         compound = [x for x in unresolved if MODULE.is_compound_docket_occurrence(x)]
         self.assertEqual(len(observed), 0)
-        self.assertEqual(len(compound), 32)
+        self.assertEqual(len(compound), 9)
 
         report = (ROOT / "index" / "CASE-REFERENCE-REPORT.md").read_text(encoding="utf-8")
         self.assertIn("### Observed ambiguous citation occurrences", report)
         self.assertIn("**0**", report)
-        self.assertIn("Compound/multi-docket occurrences still needing decomposition: **32**", report)
+        self.assertIn("Compound/multi-docket occurrences still needing decomposition: **9**", report)
         self.assertIn("Evidence-backed occurrence conflicts resolved with ambiguity evidence retained: **10**", report)
         self.assertIn("Line-addressed review overrides applied: **77** of 77", report)
         self.assertIn("cases/ga52_2025__2024-08.md", report)
