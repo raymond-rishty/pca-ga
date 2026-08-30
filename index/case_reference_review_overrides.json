@@ -685,6 +685,16 @@
       "confidence": 0.95,
       "review_kind": "conflict-resolution",
       "reason": "The same list item identifies docket 2022-16 and Michelson; the M50GA p. 924 locator overlaps other recorded entries and is retained as conflicting secondary evidence."
+    },
+    {
+      "source_file": "cases/ga42_2014__2011-11_2011-12_2011-15_2011-16.md",
+      "line": 462,
+      "surface_text": "the Lee Case",
+      "action": "resolve",
+      "target_decision": "ga40_2012__2010-26",
+      "confidence": 0.99,
+      "review_kind": "conflict-resolution",
+      "reason": "The same concurring opinion explicitly identifies Lee v. Korean Eastern Presbytery as Case 2010-26 at line 382 and repeatedly refers back to it as 'the Lee' before the hypothetical example at line 462."
     }
   ]
 }

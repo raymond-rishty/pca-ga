@@ -176,7 +176,8 @@ class CaseCitationInventoryTests(unittest.TestCase):
         self.assertTrue(any(x.get("self_reference") for x in candidates))
         self.assertFalse(any(edge["source"] == edge["target"] for edge in graph["edges"]))
         self.assertTrue(any(x["match_type"] == "alias" and "Chappell Case" in x["surface_text"] and x["target_decision"] == "ga19_1991__1990-04" for x in candidates))
-        self.assertTrue(any(x["match_type"] == "short_alias" and x["surface_text"] == "the Lee Case" for x in unresolved))
+        self.assertTrue(any(x["match_type"] == "manual" and x["surface_text"] == "the Lee Case" and x["target_decision"] == "ga40_2012__2010-26" for x in candidates))
+        self.assertFalse(any(x["surface_text"] == "the Lee Case" for x in unresolved))
         self.assertFalse(any(x["target_decision"] and x["surface_text"] in {"31-2", "40-5"} for x in candidates))
         self.assertFalse(any("Walter V Worsham" in x["surface_text"] and x["target_decision"] for x in candidates))
 
@@ -184,15 +185,15 @@ class CaseCitationInventoryTests(unittest.TestCase):
         unresolved = read_json("case_reference_unresolved.json")["occurrences"]
         observed = [x for x in unresolved if MODULE.is_observed_ambiguity(x)]
         compound = [x for x in unresolved if MODULE.is_compound_docket_occurrence(x)]
-        self.assertEqual(len(observed), 1)
+        self.assertEqual(len(observed), 0)
         self.assertEqual(len(compound), 32)
 
         report = (ROOT / "index" / "CASE-REFERENCE-REPORT.md").read_text(encoding="utf-8")
         self.assertIn("### Observed ambiguous citation occurrences", report)
-        self.assertIn("**1**", report)
+        self.assertIn("**0**", report)
         self.assertIn("Compound/multi-docket occurrences still needing decomposition: **32**", report)
-        self.assertIn("Evidence-backed occurrence conflicts resolved with ambiguity evidence retained: **9**", report)
-        self.assertIn("Line-addressed review overrides applied: **76** of 76", report)
+        self.assertIn("Evidence-backed occurrence conflicts resolved with ambiguity evidence retained: **10**", report)
+        self.assertIn("Line-addressed review overrides applied: **77** of 77", report)
         self.assertIn("cases/ga52_2025__2024-08.md", report)
         self.assertIn("Case 2012-08", report)
         self.assertIn("### Identity-level alias collisions (not necessarily observed citation ambiguities)", report)

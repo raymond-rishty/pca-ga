@@ -25,12 +25,12 @@ A canonical `decision_id` identifies one adjudicated decision. `case_file` remai
 ## Candidate resolution
 
 - Candidate occurrences: **2435**
-- Resolved occurrences: **1617** (66.4%)
+- Resolved occurrences: **1618** (66.4%)
 - Resolved by docket signal: **1424** (58.5%)
 - Resolved by caption signal: **279** (11.5%)
 - Caption-only occurrences resolved from aliases learned in docket citations: **5**
 - Resolved by minutes signal: **159** (6.5%)
-- Unresolved/ambiguous occurrences: **818** (33.6%)
+- Unresolved/ambiguous occurrences: **817** (33.6%)
 - Compound docket units decomposed into decision-level occurrences: **37**
 - Self-reference occurrences retained for audit: **543**
 - Unique non-self directed decision edges: **679**
@@ -60,7 +60,7 @@ Docket-only includes explicit `Case`/`SJC` forms and known docket tokens whose s
 | resolved `docket_known` | 340 |
 | resolved `docket_explicit` | 215 |
 | resolved `docket_caption` | 155 |
-| resolved `manual` | 67 |
+| resolved `manual` | 68 |
 | resolved `docket_caption_minutes` | 64 |
 | resolved `alias` | 46 |
 | resolved `minutes` | 41 |
@@ -69,7 +69,7 @@ Docket-only includes explicit `Case`/`SJC` forms and known docket tokens whose s
 | resolved `caption_learned` | 5 |
 | unresolved `caption_unresolved` | 710 |
 | unresolved `docket_unresolved` | 106 |
-| unresolved `short_alias` | 2 |
+| unresolved `short_alias` | 1 |
 
 ## High-value QA examples
 
@@ -119,7 +119,7 @@ The Wills footnote in `cases/ga46_2018__2017-01.md:L334` is now decomposed into 
 
 ## Ambiguity and false-positive audit
 
-- **Observed ambiguous citation occurrences:** **1** of 818 unresolved occurrences (0.0% of all candidates). These have competing registered decision targets or explicitly conflicting docket/caption evidence.
+- **Observed ambiguous citation occurrences:** **0** of 817 unresolved occurrences (0.0% of all candidates). These have competing registered decision targets or explicitly conflicting docket/caption evidence.
 - Compound/multi-docket occurrences still needing decomposition: **32**. **32** are explicit lists such as `Cases 92-7 and 92-8` and are not identity ambiguities.
 - Unresolved occurrences without competing registered targets: **785**. These are missing/unrecognized dockets or captions, or shorthand that remains outside the automatic linker until further evidence is recorded.
 - Unique normalized alias collision keys: **202**
@@ -127,8 +127,8 @@ The Wills footnote in `cases/ga46_2018__2017-01.md:L334` is now decomposed into 
 - BCO-like non-case references observed and intentionally excluded: **5244**
 - Caption-like X-v-Y windows filtered because they did not look ecclesiastical and did not match an observed alias: **462**
 - Caption-like filtered examples: `Walter V Worsham`, `April 12, 1977. changing the words "Judicial" to:"Pastoral", and changing the word "Adjudicate" to "investigate". Attested Walter V Worsham`, `1977. changing the words "Judicial" to:"Pastoral", and changing the word "Adjudicate" to "investigate". Attested Walter V Worsham`, `April 12, 1977. Attested: Walter V Worsham`, `1977. Attested: Walter V Worsham`, `Walter V Worsham`, `Sincerely, Walter V Worsham`, `Walter V Worsham`
-- Line-addressed review overrides applied: **76** of 76
-- Evidence-backed occurrence conflicts resolved with ambiguity evidence retained: **9**
+- Line-addressed review overrides applied: **77** of 77
+- Evidence-backed occurrence conflicts resolved with ambiguity evidence retained: **10**
 - Explicit false-positive exclusions: **29**
 
 The next section lists actual citation occurrences needing review. The identity-collision section below is broader: it records registry aliases shared by multiple decision entities even when no ambiguous citation occurrence was observed.
@@ -139,11 +139,10 @@ These are occurrence-level ambiguities found in `cases/*.md`, not merely names t
 
 | Ambiguity type | Occurrences |
 |---|---:|
-| `short_alias` | 1 |
 
 | Source | Line | Match type | Surface text | Candidate options / conflicting evidence | Context |
 |---|---:|---|---|---|---|
-| `cases/ga42_2014__2011-11_2011-12_2011-15_2011-16.md` | 462 | `short_alias` | `the Lee Case` | surname: `ga30_2002__2001-07` — COMPLAINT OF TE ANDY LEE VS. KOREAN CAPITAL PRESBYTERY; `ga30_2002__2001-08` — TE Andy Lee v. Korean Capital Presbytery; `ga30_2002__2001-12` — Appeal Deacon Peter Lee vs. Korean Capital Presbytery; `ga30_2002__2001-17` — Appeal RE Choon Soon Lee vs. Korean Capital Presbytery; `ga33_2005__2003-03` — Paul Lee v. Korean Southwest Presbytery; `ga37_2009__2007-09_2007-10` — Complaints of TE Eliot Lee vs. Korean Eastern Presbytery; `ga37_2009__2007-11` — Appeal of TE Eliot Lee vs. Korean Eastern Presbytery; `ga38_2010__stub_2009-16` — Eliot Lee v. Korean Eastern; `ga40_2012__2010-26` — Lee v. Korean Eastern Presbytery | o confess to the alleged offense, but there's a strong presumption of guilt because two Session members observed the incident. The younger brother "files charges," cites the Lee Case, accurately claims he meets the SAYS standards, and contends the Session is obligated to institute formal judicial process against his older brother. The Session reports |
+| — | — | — | No observed competing-target ambiguity | — | — |
 
 ### Reviewed occurrence conflicts
 
@@ -153,6 +152,7 @@ These occurrence-level conflicts were resolved after inspecting nearby PCA Minut
 |---|---:|---|---|---|---|
 | `cases/ga22_1994__1993-09.md` | 14 | `William A. Conrad, et al vs Central Carolina Presbytery` | `ga22_1994__1993-09` (William A. Conrad, et al. v. Central Carolina Presbytery) | `caption_ambiguous` | The same sentence identifies SJC Docket 93-9, and this line is the current decision's recording-in-Minutes self-reference. |
 | `cases/ga42_2014__2011-11_2011-12_2011-15_2011-16.md` | 402 | `McNeil vs Chesapeake Presbytery` | `ga39_2011__2009-22` (McNeil v. Chesapeake Presbytery) | `caption_ambiguous` | The same sentence explicitly introduces this caption as Case 2009-22; the caption-only candidate is a duplicate occurrence of that docketed reference. |
+| `cases/ga42_2014__2011-11_2011-12_2011-15_2011-16.md` | 462 | `the Lee Case` | `ga40_2012__2010-26` (Lee v. Korean Eastern Presbytery) | `short_alias` | The same concurring opinion explicitly identifies Lee v. Korean Eastern Presbytery as Case 2010-26 at line 382 and repeatedly refers back to it as 'the Lee' before the hypothetical example at line 462. |
 | `cases/ga48_2021__2020-01.md` | 19 | `Case 2012-08, Complaint of RE Warren Jackson v. Northwest Georgia (M43GA, 2015, p. 568)` | `ga43_2015__2013-08` (Jackson v. Northwest Georgia Presbytery) | `docket_caption_conflict` | The printed caption and M43GA p. 568 identify Jackson v. Northwest Georgia, which is the mapped 2013-08 decision; 2012-08 is a source-text docket typo for this occurrence. |
 | `cases/ga48_2021__2020-13.md` | 17 | `Case 2012-08, Complaint of RE Warren Jackson v. Northwest Georgia (M43GA, 2015, p. 568)` | `ga43_2015__2013-08` (Jackson v. Northwest Georgia Presbytery) | `docket_caption_conflict` | The printed caption and M43GA p. 568 identify Jackson v. Northwest Georgia, which is the mapped 2013-08 decision; 2012-08 is a source-text docket typo for this occurrence. |
 | `cases/ga49_2022__2020-09.md` | 194 | `Case 2020-04 Williams v. Chesapeake` | `ga48_2021__2019-04` (Williams v. Chesapeake Presbytery) | `docket_caption_conflict` | The caption is the Williams v. Chesapeake decision dated August 24, 2020, which is docket 2019-04; the source text's 2020-04 docket is inconsistent with both caption and date. |
