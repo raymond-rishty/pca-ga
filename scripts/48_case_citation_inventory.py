@@ -863,6 +863,7 @@ def scan_references(registry: list[dict[str, Any]]) -> tuple[list[dict[str, Any]
         "bco_like_mentions": 0,
         "structured_units": 0,
         "learned_aliases": 0,
+        "compound_docket_units_decomposed": 0,
     }
 
     for page in sorted(CASES_DIR.glob("*.md")):
@@ -911,6 +912,11 @@ def scan_references(registry: list[dict[str, Any]]) -> tuple[list[dict[str, Any]
                 cited_norm = list(dict.fromkeys(value for _, value in cited_dockets))
                 docket_targets = set().union(*(docket_map.get(value, set()) for value in cited_norm)) if cited_norm else set()
                 missing_dockets = [value for value in cited_norm if value not in docket_map]
+                docket_target_groups: dict[str, list[str]] = collections.defaultdict(list)
+                for docket in cited_norm:
+                    targets_for_docket = docket_map.get(docket, set())
+                    if len(targets_for_docket) == 1:
+                        docket_target_groups[next(iter(targets_for_docket))].append(docket)
                 caption_targets: set[str] = set()
                 if caption:
                     for key in caption_keys(caption):
@@ -972,6 +978,41 @@ def scan_references(registry: list[dict[str, Any]]) -> tuple[list[dict[str, Any]
                         before = len(entry["aliases_observed"])
                         harvested_alias(entry, caption, str(page.relative_to(ROOT)), line_no, cited_norm[0] if cited_norm else None)
                         stats["learned_aliases"] += int(len(entry["aliases_observed"]) > before)
+                    continue
+
+                # An explicit list can identify several distinct decisions.
+                # Decompose it into one resolved occurrence per uniquely mapped
+                # target when the caption, if present, agrees with that target
+                # set. Minutes ranges may still overlap other registry pages;
+                # retain that as secondary ambiguity evidence without allowing
+                # it to override explicit docket-plus-caption identity.
+                compound_targets = set(docket_target_groups)
+                compound_resolvable = bool(
+                    len(cited_norm) > 1
+                    and not missing_dockets
+                    and len(docket_target_groups) > 1
+                    and all(len(docket_map.get(docket, set())) == 1 for docket in cited_norm)
+                    and (not all_caption_targets or all_caption_targets == compound_targets)
+                )
+                if compound_resolvable:
+                    stats["compound_docket_units_decomposed"] += 1
+                    for target in sorted(compound_targets):
+                        ambiguity_details: dict[str, Any] = {}
+                        if minutes_targets and not minutes_targets <= compound_targets:
+                            ambiguity_details["minutes_targets"] = sorted(minutes_targets)
+                        add_occurrence(
+                            resolved, seen_resolved, source_decision=source, source_file=str(page.relative_to(ROOT)), source_ds=source_ds,
+                            target=target, target_dockets=source_dockets(target, by_id), cited_dockets=docket_target_groups[target], surface=surface,
+                            match_type="docket_caption_minutes" if caption and minutes_match else ("docket_caption" if caption else ("docket_minutes" if minutes_match else "docket")),
+                            signals=signals, confidence=0.98 if ambiguity_details else 1.0, line_no=line_no,
+                            context=context_window(line, match.start(), unit_end), ambiguity=ambiguity_details or None,
+                        )
+                        if caption:
+                            entry = by_id[target]
+                            before = len(entry["aliases_observed"])
+                            cited_docket = docket_target_groups[target][0]
+                            harvested_alias(entry, caption, str(page.relative_to(ROOT)), line_no, cited_docket)
+                            stats["learned_aliases"] += int(len(entry["aliases_observed"]) > before)
                     continue
 
                 ambiguity = {
@@ -1373,6 +1414,7 @@ def write_report(registry: list[dict[str, Any]], candidates: list[dict[str, Any]
         f"- Caption-only occurrences resolved from aliases learned in docket citations: **{stats.get('caption_resolved_from_learned_aliases', 0)}**",
         f"- Resolved by minutes signal: **{resolved_minutes}** ({pct(resolved_minutes, total)})",
         f"- Unresolved/ambiguous occurrences: **{len(unresolved)}** ({pct(len(unresolved), total)})",
+        f"- Compound docket units decomposed into decision-level occurrences: **{stats.get('compound_docket_units_decomposed', 0)}**",
         f"- Self-reference occurrences retained for audit: **{self_refs}**",
         f"- Unique non-self directed decision edges: **{len(edges)}**",
         "",
@@ -1428,14 +1470,14 @@ def write_report(registry: list[dict[str, Any]], candidates: list[dict[str, Any]
         "",
         "### Initial compound-reference triage",
         "",
-        "The first compound-conflict review found a scanner-boundary problem in three Herron records: an explicit pending-case list was followed by a separate `Case 2022-10 PCA v. Herron` citation on the same line. The scanner now stops a docket-plus-caption unit at the next structured case citation. Those records therefore remain as compound docket lists needing decomposition, while the later `Case 2022-10` occurrence resolves independently to `ga50_2023__2022-10`.",
+        "The first compound-conflict review found a scanner-boundary problem in three Herron records: an explicit pending-case list was followed by a separate `Case 2022-10 PCA v. Herron` citation on the same line. The scanner now stops a docket-plus-caption unit at the next structured case citation. Those records now produce one decision-level occurrence for each uniquely mapped pending docket, while the later `Case 2022-10` occurrence resolves independently to `ga50_2023__2022-10`.",
         "",
-        "The Wills footnote in `cases/ga46_2018__2017-01.md:L334` remains in the ambiguity queue. Its docket and caption evidence identify both `2015-12` and `2016-14`, while the extracted `M45GA` page range also overlaps the registered `2016-12` Minutes range; the surrounding source text additionally continues with an `M46GA` locator. This is retained for source review rather than guessed into one node.",
+        "The Wills footnote in `cases/ga46_2018__2017-01.md:L334` is now decomposed into two high-confidence decision-level occurrences. Its docket and caption evidence identify both `2015-12` and `2016-14`; the extracted `M45GA` page range also overlaps the registered `2016-12` Minutes range, and the surrounding source text continues with an `M46GA` locator. That locator overlap is retained as secondary evidence on both records rather than allowed to override the explicit docket/caption identity.",
         "",
         "## Ambiguity and false-positive audit",
         "",
         f"- **Observed ambiguous citation occurrences:** **{len(observed_ambiguities)}** of {len(unresolved)} unresolved occurrences ({pct(len(observed_ambiguities), total)} of all candidates). These have competing registered decision targets or explicitly conflicting docket/caption evidence.",
-        f"- Compound/multi-docket occurrences needing decomposition: **{len(compound_docket_occurrences)}**. **{sum(not is_observed_ambiguity(x) for x in compound_docket_occurrences)}** are explicit lists such as `Cases 92-7 and 92-8` and are not identity ambiguities; the remainder also have conflicting caption/Minutes evidence and are included above.",
+        f"- Compound/multi-docket occurrences still needing decomposition: **{len(compound_docket_occurrences)}**. **{sum(not is_observed_ambiguity(x) for x in compound_docket_occurrences)}** are explicit lists such as `Cases 92-7 and 92-8` and are not identity ambiguities.",
         f"- Unresolved occurrences without competing registered targets: **{len(unresolved_without_competing_options)}**. These are missing/unrecognized dockets or captions, or one-target shorthand withheld by policy.",
         f"- Unique normalized alias collision keys: **{len(collisions)}**",
         f"- Alias collision records across registry entries: **{sum(len(e.get('alias_collisions', [])) for e in registry)}**",
