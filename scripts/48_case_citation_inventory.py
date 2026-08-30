@@ -40,6 +40,7 @@ OUT_CANDIDATES = ROOT / "index" / "case_reference_candidates.json"
 OUT_UNRESOLVED = ROOT / "index" / "case_reference_unresolved.json"
 OUT_CITATIONS = ROOT / "index" / "case_citations.json"
 OUT_REPORT = ROOT / "index" / "CASE-REFERENCE-REPORT.md"
+REVIEW_OVERRIDES = ROOT / "index" / "case_reference_review_overrides.json"
 
 
 # The space after a hyphen is accepted because it occurs in OCR-derived case
@@ -449,6 +450,130 @@ def add_alias(entry: dict[str, Any], alias: str, source: str, *, observed_exact:
         entry["alias_provenance"].append(record)
 
 
+def load_review_overrides(path: Path) -> list[dict[str, Any]]:
+    if not path.exists():
+        return []
+    value = json.loads(path.read_text(encoding="utf-8"))
+    return value.get("overrides", []) if isinstance(value, dict) else []
+
+
+def review_key(source_file: str, line: int, surface_text: str) -> tuple[str, int, str]:
+    return source_file, int(line), surface_text
+
+
+def review_override_map(overrides: list[dict[str, Any]]) -> dict[tuple[str, int, str], dict[str, Any]]:
+    return {
+        review_key(item["source_file"], item["line"], item["surface_text"]): item
+        for item in overrides
+        if item.get("source_file") and item.get("line") and item.get("surface_text")
+    }
+
+
+def apply_review_overrides(
+    registry: list[dict[str, Any]],
+    resolved: list[Occurrence],
+    unresolved: list[Occurrence],
+    stats: dict[str, Any],
+) -> tuple[list[Occurrence], list[Occurrence]]:
+    """Apply only evidence-backed, line-addressed review decisions.
+
+    The review file is deliberately narrow: it is not a synonym table and it
+    cannot invent an alias globally. Every override identifies one exact source
+    file, line, and surface string, and records the reason in a versioned file
+    that is committed with the generated indexes.
+    """
+    overrides = load_review_overrides(REVIEW_OVERRIDES)
+    by_key = review_override_map(overrides)
+    by_id = {entry["decision_id"]: entry for entry in registry}
+    seen_resolved: set[tuple[Any, ...]] = {
+        (x.source_decision, x.target_decision, x.line, x.surface_text, x.match_type)
+        for x in resolved
+    }
+    kept: list[Occurrence] = []
+    applied: set[tuple[str, int, str]] = set()
+    exclusions: list[dict[str, Any]] = []
+    resolutions: list[dict[str, Any]] = []
+    for occurrence in unresolved:
+        key = review_key(occurrence.source_file, occurrence.line, occurrence.surface_text)
+        override = by_key.get(key)
+        if not override:
+            kept.append(occurrence)
+            continue
+        applied.add(key)
+        action = override.get("action")
+        reason = override.get("reason", "reviewed from corpus evidence")
+        if action == "exclude":
+            exclusions.append({
+                "source_file": occurrence.source_file,
+                "line": occurrence.line,
+                "surface_text": occurrence.surface_text,
+                "original_match_type": occurrence.match_type,
+                "reason": reason,
+            })
+            continue
+        if action != "resolve":
+            kept.append(occurrence)
+            continue
+        target_ids = override.get("target_decisions")
+        if not target_ids:
+            target_ids = [override.get("target_decision")]
+        target_ids = [target for target in target_ids if target in by_id]
+        if not target_ids:
+            kept.append(occurrence)
+            continue
+        for target in target_ids:
+            add_occurrence(
+                resolved, seen_resolved,
+                source_decision=occurrence.source_decision,
+                source_file=occurrence.source_file,
+                source_ds=occurrence.source_dockets,
+                target=target,
+                target_dockets=source_dockets(target, by_id),
+                cited_dockets=occurrence.cited_dockets,
+                surface=occurrence.surface_text,
+                match_type="manual",
+                signals=occurrence.signals + ["manual-review"],
+                confidence=float(override.get("confidence", 0.96)),
+                line_no=occurrence.line,
+                context=occurrence.context,
+                ambiguity=occurrence.ambiguity,
+            )
+            if occurrence.match_type == "short_alias":
+                alias = normalize_space(occurrence.surface_text)
+                if alias not in by_id[target].setdefault("aliases_observed", []):
+                    by_id[target]["aliases_observed"].append(alias)
+                record = {
+                    "alias": alias,
+                    "source": "case-reference-review",
+                    "observed_exact": True,
+                    "safe_for_matching": False,
+                    "source_file": occurrence.source_file,
+                    "line": occurrence.line,
+                    "reason": reason,
+                }
+                if record not in by_id[target].setdefault("alias_provenance", []):
+                    by_id[target]["alias_provenance"].append(record)
+        resolutions.append({
+            "source_file": occurrence.source_file,
+            "line": occurrence.line,
+            "surface_text": occurrence.surface_text,
+            "original_match_type": occurrence.match_type,
+            "target_decisions": target_ids,
+            "review_kind": override.get("review_kind", "contextual-resolution"),
+            "reason": reason,
+        })
+    stats["review_overrides_total"] = len(overrides)
+    stats["review_overrides_applied"] = len(applied)
+    stats["review_overrides_unmatched"] = [
+        {"source_file": item["source_file"], "line": item["line"], "surface_text": item["surface_text"]}
+        for item in overrides
+        if review_key(item["source_file"], item["line"], item["surface_text"]) not in applied
+    ]
+    stats["review_resolutions"] = resolutions
+    stats["false_positive_exclusions"] = exclusions
+    return resolved, kept
+
+
 def build_registry(rows: list[IndexRow], case_map: dict[str, dict[str, Any]], digest_rows: list[dict[str, Any]] | None = None) -> list[dict[str, Any]]:
     rows_by_file: dict[str, list[IndexRow]] = collections.defaultdict(list)
     for row in rows:
@@ -615,17 +740,113 @@ def build_registry(rows: list[IndexRow], case_map: dict[str, dict[str, Any]], di
     return registry
 
 
+def apply_identity_redirects(registry: list[dict[str, Any]], case_map: dict[str, dict[str, Any]]) -> None:
+    """Mark duplicate page records as aliases of the mapped decision page.
+
+    ``cases/*.md`` contains a few interim/status or placeholder pages that
+    repeat a docket later represented by a full decision page. The map already
+    points those dockets at the full page. When exactly one page entity owns a
+    duplicated docket in the map, use that page as the canonical decision
+    record and retain the extra page as an auditable related record.
+
+    This is intentionally structural rather than a case-specific synonym
+    table: it only applies when a duplicate docket has one mapped owner and
+    the other page is outside the map.
+    """
+    by_id = {entry["decision_id"]: entry for entry in registry}
+    all_mapped_files = {
+        record.get("file")
+        for record in case_map.values()
+        if record.get("file")
+    }
+    mapped_files_by_docket: dict[str, set[str]] = collections.defaultdict(set)
+    for map_key, record in case_map.items():
+        mapped_file = record.get("file")
+        if not mapped_file:
+            continue
+        for raw in record.get("numbers", []):
+            mapped_files_by_docket[normalize_docket(str(raw))].add(mapped_file)
+        mapped_files_by_docket[normalize_docket(str(map_key))].add(mapped_file)
+
+    owners_by_docket: dict[str, list[str]] = collections.defaultdict(list)
+    for entry in registry:
+        entry["canonical_decision_id"] = entry["decision_id"]
+        entry["identity_role"] = "canonical-page"
+        entry.setdefault("related_page_files", [])
+        for docket in entry.get("docket_numbers", []):
+            owners_by_docket[docket].append(entry["decision_id"])
+
+    redirects: dict[str, tuple[str, list[str]]] = {}
+    for docket, owners in owners_by_docket.items():
+        if len(owners) < 2:
+            continue
+        mapped_owners = {
+            owner for owner in owners
+            if owner in mapped_files_by_docket.get(docket, set())
+        }
+        if len(mapped_owners) != 1:
+            continue
+        canonical = next(iter(mapped_owners))
+        if canonical not in by_id:
+            continue
+        for owner in owners:
+            if owner == canonical or owner in all_mapped_files:
+                continue
+            previous = redirects.get(owner)
+            dockets = sorted(set((previous[1] if previous else []) + [docket]))
+            redirects[owner] = (canonical, dockets)
+
+    for page_id, (canonical, dockets) in sorted(redirects.items()):
+        entry = by_id[page_id]
+        target = by_id[canonical]
+        entry["canonical_decision_id"] = canonical
+        entry["identity_role"] = "related-page"
+        entry["identity_status"] = "redirected-record"
+        entry["identity_resolution"] = {
+            "method": "case_pages_map_shared_docket",
+            "canonical_decision_id": canonical,
+            "docket_numbers": dockets,
+            "reason": "case_pages_map.json identifies the other page as the mapped decision record; this page is an additional interim/status or placeholder record",
+        }
+        add_provenance(
+            entry,
+            "canonical_decision_id",
+            canonical,
+            "case_pages_map.json:shared-docket",
+            docket_numbers=dockets,
+        )
+        if entry["case_file"] not in target["related_page_files"]:
+            target["related_page_files"].append(entry["case_file"])
+        add_provenance(
+            target,
+            "related_page_files",
+            entry["case_file"],
+            "case_pages_map.json:shared-docket",
+            docket_numbers=dockets,
+        )
+
+
+def canonical_id(decision_id: str, by_id: dict[str, dict[str, Any]]) -> str:
+    """Return the canonical decision node for a page record."""
+    entry = by_id.get(decision_id)
+    if not entry:
+        return decision_id
+    return entry.get("canonical_decision_id", decision_id)
+
+
 def make_maps(registry: list[dict[str, Any]]) -> tuple[dict[str, set[str]], dict[str, set[str]], dict[str, dict[str, Any]]]:
     docket_map: dict[str, set[str]] = collections.defaultdict(set)
     alias_map: dict[str, set[str]] = collections.defaultdict(set)
     by_id: dict[str, dict[str, Any]] = {}
     for entry in registry:
         by_id[entry["decision_id"]] = entry
+    for entry in registry:
+        target = canonical_id(entry["decision_id"], by_id)
         for docket in entry["docket_numbers"]:
-            docket_map[docket].add(entry["decision_id"])
+            docket_map[docket].add(target)
         for alias in entry.get("aliases_used_for_matching", entry["aliases_observed"]):
             for key in caption_keys(alias):
-                alias_map[key].add(entry["decision_id"])
+                alias_map[key].add(target)
     return docket_map, alias_map, by_id
 
 
@@ -656,6 +877,7 @@ def caption_fingerprint_targets(caption: str, registry: list[dict[str, Any]]) ->
     source_left, source_right = caption_party_tokens(caption)
     if not source_left or not source_right:
         return set()
+    by_id = {entry["decision_id"]: entry for entry in registry}
     targets: set[str] = set()
     for entry in registry:
         for alias in entry.get("aliases_used_for_matching", []):
@@ -664,7 +886,7 @@ def caption_fingerprint_targets(caption: str, registry: list[dict[str, Any]]) ->
             # conflict signal. A single shared surname/word such as
             # ``Georgia`` or ``Presbytery`` is too broad for identity QA.
             if len(source_left & left) >= 2 and source_right & right:
-                targets.add(entry["decision_id"])
+                targets.add(canonical_id(entry["decision_id"], by_id))
                 break
     return targets
 
@@ -688,6 +910,40 @@ def source_dockets(decision_id: str, by_id: dict[str, dict[str, Any]]) -> list[s
 
 def context_window(line: str, start: int, end: int, width: int = 170) -> str:
     return normalize_space(line[max(0, start - width):min(len(line), end + width)])
+
+
+def short_alias_false_positive(line: str, match: re.Match[str]) -> bool:
+    """Reject common prose/signature shapes caught by surname-plus-number regexes."""
+    if match.group("qualifier"):
+        # Signatures such as ``James Campbell Ruling Elder`` are not case
+        # references, even though the surname is also present in case captions.
+        return bool(re.match(r"\s+elder\b", line[match.end():], re.I))
+
+    number = int(match.group("num") or 0)
+    after = line[match.end():]
+    before = line[:match.start()]
+    if number >= 1000:
+        return True
+    if re.match(r"\s*(?:-\s*)?page\b|\s*/\s*\d", after, re.I):
+        return True
+    if re.match(
+        r"\s+(?:Corinthians|Kings|Samuel|Chronicles|Peter|John|Matthew|Mark|Luke|Romans|Hebrews|Revelation)\b",
+        after,
+        re.I,
+    ):
+        return True
+    # A surname followed by a year/number in the right side of a civil or
+    # ecclesiastical caption is not a shortened PCA case reference.
+    if CAPTION_CONNECTOR_RE.search(before[-90:]):
+        return True
+    nearby = line[max(0, match.start() - 100):min(len(line), match.end() + 100)]
+    if not re.search(
+        r"\b(?:case|decision|ruling|opinion|docket|precedent|cited|cites|referred|sequel|previous|prior)\b",
+        nearby,
+        re.I,
+    ):
+        return True
+    return False
 
 
 def minutes_key_candidates(registry: list[dict[str, Any]]) -> dict[tuple[int, int], set[str]]:
@@ -843,6 +1099,40 @@ def is_identity_heading(line: str, source: str, by_id: dict[str, dict[str, Any]]
     return bool(re.search(r"^#+\s*(?:case|complaint|appeal|judicial case)\b", line, re.I))
 
 
+def is_identity_text(lines: list[str], index: int, source: str, by_id: dict[str, dict[str, Any]]) -> bool:
+    """Skip extracted printed title lines that are not citation prose.
+
+    A few PDF-to-Markdown pages retain a printed case heading without a
+    Markdown heading marker. Restrict this guard to front matter and nearby
+    case-heading text so later body references remain candidates.
+    """
+    line = lines[index]
+    source_d = set(source_dockets(source, by_id))
+    if not source_d:
+        return False
+    if re.match(r"^\s*case\b", line, re.I) and line.upper() == line:
+        if source_d.intersection(set(docket_tokens(line))):
+            return True
+    if index + 1 > 18:
+        return False
+    local = " ".join(lines[max(0, index - 4):index + 1])
+    local_dockets = set(docket_tokens(local))
+    if not source_d.intersection(local_dockets):
+        return False
+    if re.search(r"\b(?:DECISION|RULING|JUDGMENT|OPINION)\s+(?:ON|IN)\b", line):
+        return True
+    if not re.match(r"^\s*(?:case|complaint|appeal|judicial case)\b", line, re.I):
+        return False
+    if re.match(r"^\s*(?:case|cases)\b", line, re.I) and CAPTION_CONNECTOR_RE.search(line):
+        return True
+    return bool(
+        CAPTION_CONNECTOR_RE.search(line)
+        and not re.search(r"^\s*(?:decision|ruling)\s+on\s+", line, re.I)
+        and re.search(r"\b(?:case|cases)\b", local, re.I)
+        and re.search(r"\b(?:decision|ruling|judgment|opinion)\b", local, re.I)
+    )
+
+
 def harvested_alias(entry: dict[str, Any], caption: str, source_file: str, line_no: int, docket: str | None) -> None:
     add_alias(entry, caption, "case-reference", observed_exact=True, safe_for_matching=True, source_file=source_file, line=line_no, docket=docket)
 
@@ -867,7 +1157,7 @@ def scan_references(registry: list[dict[str, Any]]) -> tuple[list[dict[str, Any]
     }
 
     for page in sorted(CASES_DIR.glob("*.md")):
-        source = page.stem
+        source = canonical_id(page.stem, by_id)
         source_ds = source_dockets(source, by_id)
         lines = page.read_text(encoding="utf-8").splitlines()
         start_ix = 0
@@ -883,6 +1173,8 @@ def scan_references(registry: list[dict[str, Any]]) -> tuple[list[dict[str, Any]
             stats["lines_scanned"] += 1
             stats["bco_like_mentions"] += len(re.findall(r"\bBCO\s+\d{1,3}\s*-\s*\d{1,3}\b", line, re.I))
             if is_identity_heading(line, source, by_id, line_no):
+                continue
+            if is_identity_text(lines, i, source, by_id):
                 continue
             # Markdown headings are document structure (case titles, opinions,
             # recommendation labels), not ordinary citation prose. Excluding
@@ -1105,18 +1397,52 @@ def scan_references(registry: list[dict[str, Any]]) -> tuple[list[dict[str, Any]
                         line_no=line_no, context=context_window(line, m.start(), m.end()), ambiguity={"minutes_targets": sorted(targets)},
                     )
 
-            # Surname-plus-case/decision forms are retained as unresolved even
-            # when only one matching caption exists. This honors the rule that
-            # surname-only shorthand is not automatically safe.
+            # Surname-plus-case/decision forms are resolvable when the surname
+            # is unique in the observed caption registry. A qualifier such as
+            # ``case`` or ``decision`` is still required; bare surnames remain
+            # outside this pass. Exact line-addressed exceptions are handled by
+            # the review ledger below.
             for m in SHORT_CASE_REF_RE.finditer(line):
                 name = m.group("name") or m.group("name2")
                 if not name or name.casefold() not in surname_names:
                     continue
                 surface = m.group(0)
+                if short_alias_false_positive(line, m):
+                    stats.setdefault("false_positive_scan_exclusions", []).append({
+                        "source_file": str(page.relative_to(ROOT)),
+                        "line": line_no,
+                        "surface_text": surface,
+                        "reason": "signature, address, citation, page-count, date, or ordinary prose shape",
+                    })
+                    continue
+                targets = surname_names[name.casefold()]
+                if m.group("qualifier") and len(targets) == 1:
+                    target = next(iter(targets))
+                    add_occurrence(
+                        resolved, seen_resolved, source_decision=source, source_file=str(page.relative_to(ROOT)), source_ds=source_ds,
+                        target=target, target_dockets=source_dockets(target, by_id), cited_dockets=[], surface=surface,
+                        match_type="alias", signals=["alias"], confidence=0.9, line_no=line_no,
+                        context=context_window(line, m.start(), m.end()),
+                    )
+                    entry = by_id[target]
+                    alias = normalize_space(surface)
+                    if alias not in entry.setdefault("aliases_observed", []):
+                        entry["aliases_observed"].append(alias)
+                    record = {
+                        "alias": alias,
+                        "source": "case-reference-scan",
+                        "observed_exact": True,
+                        "safe_for_matching": False,
+                        "source_file": str(page.relative_to(ROOT)),
+                        "line": line_no,
+                    }
+                    if record not in entry.setdefault("alias_provenance", []):
+                        entry["alias_provenance"].append(record)
+                    continue
                 add_occurrence(
                     unresolved, seen_unresolved, source_decision=source, source_file=str(page.relative_to(ROOT)), source_ds=source_ds,
                     target=None, target_dockets=[], surface=surface, match_type="short_alias", signals=["alias"], confidence=0.2,
-                    line_no=line_no, context=context_window(line, m.start(), m.end()), ambiguity={"surname_targets": sorted(surname_names[name.casefold()])},
+                    line_no=line_no, context=context_window(line, m.start(), m.end()), ambiguity={"surname_targets": sorted(targets)},
                 )
 
     # A docket+caption occurrence can teach the registry a concise alias that
@@ -1161,11 +1487,13 @@ def scan_references(registry: list[dict[str, Any]]) -> tuple[list[dict[str, Any]
             if len(targets) > 1:
                 collisions.append({"key": key, "decision_ids": targets})
         entry["alias_collisions"] = collisions
+    resolved, unresolved = apply_review_overrides(registry, resolved, unresolved, stats)
     return [asdict(x) for x in resolved], [asdict(x) for x in unresolved], stats
 
 
 def surname_alias_map(registry: list[dict[str, Any]]) -> dict[str, set[str]]:
     out: dict[str, set[str]] = collections.defaultdict(set)
+    by_id = {entry["decision_id"]: entry for entry in registry}
     generic = {
         "appeal", "case", "commission", "complaint", "congregation", "decision",
         "docket", "judicial", "matter", "opinion", "pca", "petition", "reference",
@@ -1178,7 +1506,7 @@ def surname_alias_map(registry: list[dict[str, Any]]) -> dict[str, set[str]]:
                 continue
             left = key.split(" v ", 1)[0].split()
             if left and left[-1] not in generic and re.fullmatch(r"[a-z][a-z'’-]{2,}", left[-1], re.I):
-                out[left[-1]].add(entry["decision_id"])
+                out[left[-1]].add(canonical_id(entry["decision_id"], by_id))
     return out
 
 
@@ -1224,7 +1552,7 @@ def citation_graph(candidates: list[dict[str, Any]], decision_ids: Iterable[str]
     return {
         "version": 1,
         "status": "exploratory",
-        "identity_unit": "decision/page; consolidated dockets share one node",
+        "identity_unit": "canonical adjudicated decision; related page records share one node",
         "edges": edges,
         "forward": {key: value for key, value in sorted(forward.items())},
         "backward": {key: value for key, value in sorted(backward.items())},
@@ -1244,8 +1572,16 @@ def pct(n: int, denominator: int) -> str:
 
 def occurrence_form(item: dict[str, Any]) -> str:
     signals = set(item.get("signals", []))
-    if item.get("match_type") == "short_alias":
+    if item.get("match_type") in {"short_alias", "alias"} or (
+        "alias" in signals and not signals.intersection({"docket", "caption", "minutes"})
+    ):
         return "shortened reference"
+    ambiguity = item.get("ambiguity") or {}
+    if (
+        ambiguity.get("docket_targets")
+        and (ambiguity.get("caption_targets") or ambiguity.get("caption_fingerprint_targets"))
+    ):
+        return "docket + caption conflict"
     if item.get("match_type") == "docket_caption_conflict":
         return "docket + caption conflict"
     if signals == {"docket"}:
@@ -1374,12 +1710,23 @@ def write_report(registry: list[dict[str, Any]], candidates: list[dict[str, Any]
         if not is_observed_ambiguity(x) and not is_compound_docket_occurrence(x)
     ]
     observed_ambiguity_types = collections.Counter(x.get("match_type", "") for x in observed_ambiguities)
-    consolidated = [x for x in registry if x.get("consolidated")]
+    reviewed_conflicts = [
+        x for x in stats.get("review_resolutions", [])
+        if x.get("review_kind") == "conflict-resolution"
+    ]
+    consolidated = [x for x in registry if x.get("consolidated") and x.get("identity_role") == "canonical-page"]
+    decision_ids = {x.get("canonical_decision_id", x["decision_id"]) for x in registry}
+    redirects = [x for x in registry if x.get("identity_role") == "related-page"]
+    page_docket_owners: dict[str, list[str]] = collections.defaultdict(list)
     docket_owners: dict[str, list[str]] = collections.defaultdict(list)
     for entry in registry:
         for docket in entry.get("docket_numbers", []):
-            docket_owners[docket].append(entry["decision_id"])
+            page_docket_owners[docket].append(entry["decision_id"])
+            target = entry.get("canonical_decision_id", entry["decision_id"])
+            if target not in docket_owners[docket]:
+                docket_owners[docket].append(target)
     ambiguous_dockets = {docket: owners for docket, owners in docket_owners.items() if len(owners) > 1}
+    page_docket_collisions = {docket: owners for docket, owners in page_docket_owners.items() if len(owners) > 1}
 
     lines = [
         "# Case-reference exploratory report",
@@ -1390,20 +1737,21 @@ def write_report(registry: list[dict[str, Any]], candidates: list[dict[str, Any]
         "",
         f"- Case pages scanned: **{len(list(CASES_DIR.glob('*.md')))}**",
         f"- Existing `case_pages_map.json`: **{stats.get('case_map_docket_keys', 0)}** docket keys across **{stats.get('case_map_unique_files', 0)}** unique page files; pages outside the map: **{stats.get('case_pages_without_map_record', 0)}**",
-        f"- Decision entities: **{len(registry)}**",
+        f"- Decision entities (canonical nodes): **{len(decision_ids)}**",
+        f"- Registry page records: **{len(registry)}**",
         f"- Unique normalized docket values (matching keys): **{len({d for e in registry for d in e['docket_numbers']})}**",
         f"- Unique observed docket spellings/aliases: **{len({d for e in registry for d in e['docket_aliases_observed']})}**",
         f"- Docket slots across entities: **{sum(len(e['docket_numbers']) for e in registry)}**",
         f"- Entities with multiple dockets (consolidated): **{len(consolidated)}**",
         f"- Entities with no docket number: **{sum(not e['docket_numbers'] for e in registry)}**",
-        f"- Normalized docket values shared by multiple page entities (left ambiguous): **{len(ambiguous_dockets)}**",
+        f"- Normalized docket values shared by multiple page records: **{len(page_docket_collisions)}**; shared by multiple canonical nodes and left ambiguous: **{len(ambiguous_dockets)}**",
         f"- Entities with a provisional caption: **{sum(bool(e['canonical_caption_provisional']) for e in registry)}**",
         f"- Entities with observed aliases: **{sum(bool(e['aliases_observed']) for e in registry)}**",
         f"- Digest roster rows loaded: **{stats.get('digest_roster_rows', 0)}** ({stats.get('digest_roster_unique_dockets', 0)} unique normalized docket values)",
         f"- Digest docket values appearing on multiple roster rows: **{stats.get('digest_roster_duplicate_dockets', 0)}**",
         f"- Digest roster rows matched to case pages: **{stats.get('digest_roster_rows_matched_to_pages', 0)}**; unmatched/ambiguous rows retained as provenance: **{stats.get('digest_roster_rows_unmatched_to_pages', 0)}**",
         "",
-        "A `decision_id` is the case-page stem. `docket_numbers` are normalized comparison values; observed spellings are retained in `docket_aliases_observed` and provenance. The Digest roster is used as an identity aid and consolidated-docket enrichment only when its match is unambiguous; it does not replace verbatim Minutes text. The registry does not invent surname-only aliases.",
+        "A canonical `decision_id` identifies one adjudicated decision. `case_file` remains the evidence page for that registry record; interim/status and placeholder pages carry `canonical_decision_id` redirects and remain auditable as related page records. `docket_numbers` are normalized comparison values; observed spellings are retained in `docket_aliases_observed` and provenance. The Digest roster is used as an identity aid and consolidated-docket enrichment only when its match is unambiguous; it does not replace verbatim Minutes text. The registry does not invent surname-only aliases.",
         "",
         "## Candidate resolution",
         "",
@@ -1468,6 +1816,22 @@ def write_report(registry: list[dict[str, Any]], candidates: list[dict[str, Any]
         "",
         f"The registry contains **{len(consolidated)}** consolidated decision entities. A cited docket resolves to the shared `decision_id`; the occurrence preserves the docket spelling/list actually used. For example, `2019-10` and `2019-12` map to `{consolidated_label}`.",
         "",
+        "### Related page records and canonical redirects",
+        "",
+        "Some docket collisions are page duplication rather than competing decisions. The registry resolves these only when the existing case-page map has exactly one owner for the shared docket and the other page is outside that map. The related page remains in the registry with its exact file and redirect provenance.",
+        "",
+        "| Related page record | Canonical decision | Shared dockets |",
+        "|---|---|---|",
+    ]
+    for entry in redirects:
+        resolution = entry.get("identity_resolution", {})
+        lines.append(
+            f"| `{entry['case_file']}` | `{resolution.get('canonical_decision_id', entry.get('canonical_decision_id'))}` | {', '.join(f'`{docket}`' for docket in resolution.get('docket_numbers', []))} |"
+        )
+    if not redirects:
+        lines.append("| — | — | None recorded |")
+    lines += [
+        "",
         "### Initial compound-reference triage",
         "",
         "The first compound-conflict review found a scanner-boundary problem in three Herron records: an explicit pending-case list was followed by a separate `Case 2022-10 PCA v. Herron` citation on the same line. The scanner now stops a docket-plus-caption unit at the next structured case citation. Those records now produce one decision-level occurrence for each uniquely mapped pending docket, while the later `Case 2022-10` occurrence resolves independently to `ga50_2023__2022-10`.",
@@ -1478,12 +1842,15 @@ def write_report(registry: list[dict[str, Any]], candidates: list[dict[str, Any]
         "",
         f"- **Observed ambiguous citation occurrences:** **{len(observed_ambiguities)}** of {len(unresolved)} unresolved occurrences ({pct(len(observed_ambiguities), total)} of all candidates). These have competing registered decision targets or explicitly conflicting docket/caption evidence.",
         f"- Compound/multi-docket occurrences still needing decomposition: **{len(compound_docket_occurrences)}**. **{sum(not is_observed_ambiguity(x) for x in compound_docket_occurrences)}** are explicit lists such as `Cases 92-7 and 92-8` and are not identity ambiguities.",
-        f"- Unresolved occurrences without competing registered targets: **{len(unresolved_without_competing_options)}**. These are missing/unrecognized dockets or captions, or one-target shorthand withheld by policy.",
+        f"- Unresolved occurrences without competing registered targets: **{len(unresolved_without_competing_options)}**. These are missing/unrecognized dockets or captions, or shorthand that remains outside the automatic linker until further evidence is recorded.",
         f"- Unique normalized alias collision keys: **{len(collisions)}**",
         f"- Alias collision records across registry entries: **{sum(len(e.get('alias_collisions', [])) for e in registry)}**",
         f"- BCO-like non-case references observed and intentionally excluded: **{stats.get('bco_like_mentions', 0)}**",
         f"- Caption-like X-v-Y windows filtered because they did not look ecclesiastical and did not match an observed alias: **{stats.get('caption_like_filtered', 0)}**",
         f"- Caption-like filtered examples: {', '.join('`' + x + '`' for x in stats.get('caption_like_filtered_examples', [])[:8]) or '—'}",
+        f"- Line-addressed review overrides applied: **{stats.get('review_overrides_applied', 0)}** of {stats.get('review_overrides_total', 0)}",
+        f"- Evidence-backed occurrence conflicts resolved with ambiguity evidence retained: **{len(reviewed_conflicts)}**",
+        f"- Explicit false-positive exclusions: **{len(stats.get('false_positive_exclusions', [])) + len(stats.get('false_positive_scan_exclusions', []))}**",
         "",
         "The next section lists actual citation occurrences needing review. The identity-collision section below is broader: it records registry aliases shared by multiple decision entities even when no ambiguous citation occurrence was observed.",
         "",
@@ -1507,6 +1874,22 @@ def write_report(registry: list[dict[str, Any]], candidates: list[dict[str, Any]
         )
     if not observed_ambiguities:
         lines.append("| — | — | — | No observed competing-target ambiguity | — | — |")
+    lines += [
+        "",
+        "### Reviewed occurrence conflicts",
+        "",
+        "These occurrence-level conflicts were resolved after inspecting nearby PCA Minutes text, captions, dates, or page locators. The resolved candidate retains its original ambiguity options so the source inconsistency remains auditable; no case-page text was changed.",
+        "",
+        "| Source | Line | Surface text | Target | Original conflict | Reason |",
+        "|---|---:|---|---|---|---|",
+    ]
+    for item in reviewed_conflicts:
+        targets = "; ".join(f"`{target}` ({entry_label(target, by_id)})" for target in item.get("target_decisions", []))
+        lines.append(
+            f"| `{md_cell(item['source_file'])}` | {item['line']} | `{md_cell(item['surface_text'])}` | {targets} | `{md_cell(item.get('original_match_type', ''))}` | {md_cell(item.get('reason', ''))} |"
+        )
+    if not reviewed_conflicts:
+        lines.append("| — | — | None recorded | — | — | — |")
     lines += [
         "",
         "### Identity-level alias collisions (not necessarily observed citation ambiguities)",
@@ -1546,6 +1929,20 @@ def write_report(registry: list[dict[str, Any]], candidates: list[dict[str, Any]
         lines.append(f"- `{item['surface_text']}` — {item['source_file']}:L{item['line']} ({item['match_type']}); ambiguity `{json.dumps(item.get('ambiguity', {}), ensure_ascii=False, sort_keys=True)}`")
     if not high_value:
         lines.append("- None recorded.")
+    lines += [
+        "",
+        "### Reviewed false positives",
+        "",
+        "These candidate shapes were excluded because the source context identifies them as signatures, addresses, dates, page counts, Bible/legal citations, bibliographic references, or ordinary prose rather than PCA case references.",
+        "",
+        "| Source | Line | Surface text | Reason |",
+        "|---|---:|---|---|",
+    ]
+    false_positives = stats.get("false_positive_scan_exclusions", []) + stats.get("false_positive_exclusions", [])
+    for item in false_positives:
+        lines.append(f"| `{md_cell(item['source_file'])}` | {item['line']} | `{md_cell(item['surface_text'])}` | {md_cell(item.get('reason', ''))} |")
+    if not false_positives:
+        lines.append("| — | — | None recorded | — |")
 
     lines += [
         "",
@@ -1572,7 +1969,7 @@ def write_report(registry: list[dict[str, Any]], candidates: list[dict[str, Any]
         "1. Link explicit, uniquely mapped docket citations first; this is the most deterministic grammar and naturally handles consolidated decisions.",
         "2. Link full captions only when their normalized observed alias maps to one decision. Keep `v`/`v.`/`vs`/`versus` and role-prefix normalization as matching keys, not display rewrites.",
         "3. Use docket + caption + Minutes citations to learn aliases, but retain conflicts such as the Bigelow `2012-08`/Jackson citation for manual review.",
-        "4. Leave surname-only forms (`the Ruff case`, `the prior Evans decision`) unresolved until a semantic/context pass proves them safe.",
+        "4. Resolve a qualified surname form only when the observed corpus has one target or a line-addressed review decision supplies the necessary context; leave bare surnames and collisions unresolved.",
         "5. Preserve occurrence context and later classify majority reasoning, dissent/concurrence, procedural history, and quoted party material before presenting citations as precedent.",
         "",
         "## Deterministic-resolution conclusion",
@@ -1589,7 +1986,7 @@ def write_outputs(registry: list[dict[str, Any]], candidates: list[dict[str, Any
     OUT_REGISTRY.write_text(json.dumps({
         "version": 2,
         "status": "exploratory",
-        "identity_unit": "one adjudicated decision/page; consolidated dockets share one node",
+        "identity_unit": "one canonical adjudicated decision; related page records and consolidated dockets share one node",
         "entries": registry,
     }, indent=2, ensure_ascii=False) + "\n", encoding="utf-8")
     OUT_CANDIDATES.write_text(json.dumps({
@@ -1604,7 +2001,7 @@ def write_outputs(registry: list[dict[str, Any]], candidates: list[dict[str, Any
         "status": "exploratory",
         "occurrences": unresolved,
     }, indent=2, ensure_ascii=False) + "\n", encoding="utf-8")
-    decision_ids = [entry["decision_id"] for entry in registry]
+    decision_ids = sorted({entry.get("canonical_decision_id", entry["decision_id"]) for entry in registry})
     OUT_CITATIONS.write_text(json.dumps(citation_graph(candidates, decision_ids), indent=2, ensure_ascii=False) + "\n", encoding="utf-8")
     write_report(registry, candidates, unresolved, stats)
 
@@ -1613,7 +2010,7 @@ def main() -> int:
     parser = argparse.ArgumentParser()
     parser.add_argument("--root", help="Repository root; defaults to PCA_GA_ROOT or cwd")
     args = parser.parse_args()
-    global ROOT, CASES_INDEX, CASE_MAP, ROSTER_PATH, CASES_DIR, OUT_REGISTRY, OUT_CANDIDATES, OUT_UNRESOLVED, OUT_CITATIONS, OUT_REPORT
+    global ROOT, CASES_INDEX, CASE_MAP, ROSTER_PATH, CASES_DIR, OUT_REGISTRY, OUT_CANDIDATES, OUT_UNRESOLVED, OUT_CITATIONS, OUT_REPORT, REVIEW_OVERRIDES
     if args.root:
         ROOT = Path(args.root).resolve()
         CASES_INDEX = ROOT / "index" / "CASES.md"
@@ -1625,6 +2022,7 @@ def main() -> int:
         OUT_UNRESOLVED = ROOT / "index" / "case_reference_unresolved.json"
         OUT_CITATIONS = ROOT / "index" / "case_citations.json"
         OUT_REPORT = ROOT / "index" / "CASE-REFERENCE-REPORT.md"
+        REVIEW_OVERRIDES = ROOT / "index" / "case_reference_review_overrides.json"
     if not CASES_INDEX.exists():
         raise SystemExit(f"missing {CASES_INDEX}")
     if not CASES_DIR.is_dir():
@@ -1633,6 +2031,7 @@ def main() -> int:
     case_map = load_case_map(CASE_MAP)
     digest_rows = load_digest_roster(ROSTER_PATH)
     registry = build_registry(rows, case_map, digest_rows)
+    apply_identity_redirects(registry, case_map)
     candidates, unresolved, stats = scan_references(registry)
     digest_row_keys = {json.dumps(row, sort_keys=True) for row in digest_rows}
     matched_digest_row_keys = {

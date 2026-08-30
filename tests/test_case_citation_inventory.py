@@ -25,6 +25,8 @@ class CaseCitationInventoryTests(unittest.TestCase):
         self.assertEqual(MODULE.normalize_docket("92-09B"), "1992-9b")
         self.assertEqual(MODULE.normalize_docket("3 - 12"), "3-12")
         self.assertEqual(MODULE.normalize_docket("01-34", {"2001-34"}), "2001-34")
+        self.assertEqual(MODULE.normalize_docket("95-4"), "1995-4")
+        self.assertEqual(MODULE.normalize_docket("1995-04"), "1995-4")
 
     def test_caption_normalization_is_limited_to_demonstrated_variants(self):
         forms = [
@@ -61,7 +63,7 @@ class CaseCitationInventoryTests(unittest.TestCase):
         bigelow = [x for x in candidates if x["source_decision"] == "ga52_2025__2024-08"]
         for docket in ("2023-1", "2020-13", "2020-1", "2012-6", "1992-9b"):
             self.assertTrue(any(docket in x.get("cited_dockets", []) for x in bigelow), docket)
-        self.assertTrue(any("Case 2012-08" in x["surface_text"] for x in unresolved if x["source_decision"] == "ga52_2025__2024-08"))
+        self.assertTrue(any("Case 2012-08" in x["surface_text"] for x in candidates if x["source_file"] == "cases/ga52_2025__2024-08.md"))
 
         ruff = [x for x in candidates if x["source_decision"] == "ga41_2013__2011-18" and "2009-28" in x["surface_text"]]
         self.assertGreaterEqual(len(ruff), 5)
@@ -121,6 +123,51 @@ class CaseCitationInventoryTests(unittest.TestCase):
         self.assertTrue(all("ga45_2017__2016-12" in x["ambiguity"]["minutes_targets"] for x in wills))
         self.assertFalse(any(x["source_file"] == "cases/ga46_2018__2017-01.md" and x["line"] == 334 for x in unresolved))
 
+    def test_related_page_records_share_canonical_decision_nodes(self):
+        registry = read_json("case_identity_registry.json")["entries"]
+        by_id = {entry["decision_id"]: entry for entry in registry}
+
+        self.assertEqual(
+            by_id["ga30_2002__2002-02_2002-03"]["canonical_decision_id"],
+            "ga33_2005__2001-34_2002-02_2002-03",
+        )
+        self.assertEqual(
+            by_id["ga49_2022__stub_2020-07"]["canonical_decision_id"],
+            "ga49_2022__2020-09",
+        )
+        self.assertEqual(
+            by_id["ga49_2022__stub_2020-08"]["canonical_decision_id"],
+            "ga49_2022__2020-09",
+        )
+
+        candidates = read_json("case_reference_candidates.json")["occurrences"]
+        for surface in ("Case 2002-2", "Judicial Case 2002-02", "Case 2020-07", "Case No. 2020-07"):
+            self.assertTrue(
+                any(x["surface_text"] == surface and x["target_decision"] in {
+                    "ga33_2005__2001-34_2002-02_2002-03",
+                    "ga49_2022__2020-09",
+                } for x in candidates),
+                surface,
+            )
+
+    def test_review_ledger_is_fully_addressed_and_preserves_conflicts(self):
+        scan_stats = read_json("case_reference_candidates.json")["scan_stats"]
+        self.assertEqual(scan_stats["review_overrides_applied"], scan_stats["review_overrides_total"])
+        self.assertEqual(scan_stats["review_overrides_unmatched"], [])
+
+        candidates = read_json("case_reference_candidates.json")["occurrences"]
+        jackson = [x for x in candidates if x["surface_text"].startswith("Case 2012-08") and x["source_file"] in {
+            "cases/ga48_2021__2020-01.md",
+            "cases/ga48_2021__2020-13.md",
+            "cases/ga50_2023__2022-08.md",
+            "cases/ga52_2025__2023-16.md",
+            "cases/ga52_2025__2024-08.md",
+        }]
+        self.assertEqual({x["target_decision"] for x in jackson}, {"ga43_2015__2013-08"})
+        self.assertTrue(all(x["ambiguity"] for x in jackson))
+        self.assertTrue(any(x["surface_text"] == "Case 2020-04 Williams v. Chesapeake" and x["target_decision"] == "ga48_2021__2019-04" for x in candidates))
+        self.assertTrue(any(x["surface_text"] == "M50GA, 2023, p. 924" and x["target_decision"] == "ga50_2023__2022-16" for x in candidates))
+
     def test_ambiguous_shorthand_non_pca_and_self_references_are_not_guessed(self):
         candidates = read_json("case_reference_candidates.json")["occurrences"]
         unresolved = read_json("case_reference_unresolved.json")["occurrences"]
@@ -128,7 +175,8 @@ class CaseCitationInventoryTests(unittest.TestCase):
 
         self.assertTrue(any(x.get("self_reference") for x in candidates))
         self.assertFalse(any(edge["source"] == edge["target"] for edge in graph["edges"]))
-        self.assertTrue(any(x["match_type"] == "short_alias" and "Chappell Case" in x["surface_text"] for x in unresolved))
+        self.assertTrue(any(x["match_type"] == "alias" and "Chappell Case" in x["surface_text"] and x["target_decision"] == "ga19_1991__1990-04" for x in candidates))
+        self.assertTrue(any(x["match_type"] == "short_alias" and x["surface_text"] == "the Lee Case" for x in unresolved))
         self.assertFalse(any(x["target_decision"] and x["surface_text"] in {"31-2", "40-5"} for x in candidates))
         self.assertFalse(any("Walter V Worsham" in x["surface_text"] and x["target_decision"] for x in candidates))
 
@@ -136,13 +184,15 @@ class CaseCitationInventoryTests(unittest.TestCase):
         unresolved = read_json("case_reference_unresolved.json")["occurrences"]
         observed = [x for x in unresolved if MODULE.is_observed_ambiguity(x)]
         compound = [x for x in unresolved if MODULE.is_compound_docket_occurrence(x)]
-        self.assertEqual(len(observed), 106)
-        self.assertEqual(len(compound), 39)
+        self.assertEqual(len(observed), 1)
+        self.assertEqual(len(compound), 32)
 
         report = (ROOT / "index" / "CASE-REFERENCE-REPORT.md").read_text(encoding="utf-8")
         self.assertIn("### Observed ambiguous citation occurrences", report)
-        self.assertIn("**106**", report)
-        self.assertIn("Compound/multi-docket occurrences still needing decomposition: **39**", report)
+        self.assertIn("**1**", report)
+        self.assertIn("Compound/multi-docket occurrences still needing decomposition: **32**", report)
+        self.assertIn("Evidence-backed occurrence conflicts resolved with ambiguity evidence retained: **9**", report)
+        self.assertIn("Line-addressed review overrides applied: **76** of 76", report)
         self.assertIn("cases/ga52_2025__2024-08.md", report)
         self.assertIn("Case 2012-08", report)
         self.assertIn("### Identity-level alias collisions (not necessarily observed citation ambiguities)", report)
