@@ -123,7 +123,7 @@
     {
       "source_file": "cases/ga20_1992__1992-03.md",
       "line": 69,
-      "surface_text": "William A. Conrad, et al vs Central Carolina Presbytery",
+      "surface_text": "William A. Conrad, et al. vs. Central Carolina Presbytery",
       "action": "resolve",
       "target_decision": "ga20_1992__1992-04",
       "confidence": 0.99,
@@ -132,7 +132,7 @@
     {
       "source_file": "cases/ga21_1993__1992-06.md",
       "line": 165,
-      "surface_text": "William A. Conrad, et al vs Central Carolina Presbytery",
+      "surface_text": "William A. Conrad, et al. vs. Central Carolina Presbytery",
       "action": "resolve",
       "target_decision": "ga21_1993__1992-07",
       "confidence": 0.99,
@@ -141,7 +141,7 @@
     {
       "source_file": "cases/ga29_2001__1999-07.md",
       "line": 547,
-      "surface_text": "Robert M. Shive v Central Carolina Presbytery",
+      "surface_text": "Robert M. Shive v. Central Carolina Presbytery",
       "action": "resolve",
       "target_decision": "ga26_1998__1997-09",
       "confidence": 0.99,
@@ -150,7 +150,7 @@
     {
       "source_file": "cases/ga34_2006__2005-09.md",
       "line": 126,
-      "surface_text": "TE Peter B. Kim vs Korean Eastern Presbytery",
+      "surface_text": "TE Peter B. Kim vs. Korean Eastern Presbytery",
       "action": "resolve",
       "target_decision": "ga34_2006__2005-08",
       "confidence": 0.99,
@@ -159,7 +159,7 @@
     {
       "source_file": "cases/ga45_2017__2016-09.md",
       "line": 158,
-      "surface_text": "Ruff v Nashville",
+      "surface_text": "Ruff v. Nashville",
       "action": "resolve",
       "target_decision": "ga41_2013__2011-18",
       "confidence": 0.99,
@@ -168,7 +168,7 @@
     {
       "source_file": "cases/ga49_2022__2021-06.md",
       "line": 280,
-      "surface_text": "Marshall v Pacific",
+      "surface_text": "Marshall v. Pacific.",
       "action": "resolve",
       "target_decision": "ga43_2015__2013-03",
       "confidence": 0.99,
@@ -177,7 +177,7 @@
     {
       "source_file": "cases/ga49_2022__2021-06.md",
       "line": 308,
-      "surface_text": "Marshall v Pacific",
+      "surface_text": "Marshall v. Pacific",
       "action": "resolve",
       "target_decision": "ga43_2015__2013-03",
       "confidence": 0.97,
@@ -330,7 +330,7 @@
     {
       "source_file": "cases/ga22_1994__1993-09.md",
       "line": 14,
-      "surface_text": "William A. Conrad, et al vs Central Carolina Presbytery",
+      "surface_text": "William A. Conrad, et al. vs. Central Carolina Presbytery",
       "action": "resolve",
       "target_decision": "ga22_1994__1993-09",
       "confidence": 0.99,
@@ -609,7 +609,7 @@
     {
       "source_file": "cases/ga42_2014__2011-11_2011-12_2011-15_2011-16.md",
       "line": 402,
-      "surface_text": "McNeil vs Chesapeake Presbytery",
+      "surface_text": "McNeil vs. Chesapeake Presbytery",
       "action": "resolve",
       "target_decision": "ga39_2011__2009-22",
       "confidence": 0.98,

@@ -58,7 +58,7 @@ CASE_CITATION_RE = re.compile(
     re.I,
 )
 
-CAPTION_CONNECTOR_RE = re.compile(r"\b(?:v\.?|vs\.?|versus)\b", re.I)
+CAPTION_CONNECTOR_RE = re.compile(r"\b(?:v|vs|versus)\.?(?![A-Za-z])", re.I)
 MINUTES_REF_RE = re.compile(
     r"\b(?P<ga>M?\d{1,2})GA\b[^\n]{0,35}?\bpp?\.?\s*"
     r"(?P<start>\d{1,4})(?:\s*[-–—]\s*(?P<end>\d{1,4}))?",
@@ -1067,18 +1067,27 @@ def caption_candidates(line: str) -> list[tuple[str, int, int]]:
     for connector in CAPTION_CONNECTOR_RE.finditer(line):
         left_start = max(0, connector.start() - 150)
         left = line[left_start:connector.start()]
-        starts = {0}
-        for marker in re.finditer(r"[,;:(]|\b(?:of|in|see|case|decision)\b", left, re.I):
-            starts.add(marker.end())
+        # Choose the last actual citation boundary rather than every possible
+        # suffix. Commas are intentionally excluded because they commonly
+        # belong to party names (``Conrad, et al.``). The resulting one-window-
+        # per-connector rule prevents a single citation sentence from becoming
+        # a large family of nested unresolved candidates.
+        boundaries = list(re.finditer(
+            r"[;:(]|\b(?:see|case|decision)(?:\s+(?:of|in))?\b|"
+            r"\b(?:complaints?|appeals?)\s+of\b|\bin\s+(?=[A-Z])",
+            left,
+            re.I,
+        ))
+        starts = {boundaries[-1].end()} if boundaries else {0}
         right_limit = min(len(line), connector.end() + 160)
         right = line[connector.end():right_limit]
         right = re.split(r"\s*(?:\(|\)|;|,|\bM\d+GA\b|\bStatus\s*:|\bthe\s+\d+(?:st|nd|rd|th)\s+General\b|\s+(?:TE|RE|REV\.?|MR\.?|MRS\.?|MS\.?|DEACON)\s+[A-Z])", right, maxsplit=1, flags=re.I)[0]
         for start in sorted(starts):
-            left_part = left[start:].strip(" \t,:;–—-.()")
+            left_part = left[start:].strip(" \t,:;–—-()")
             left_part = re.sub(r"^(?:complaints?|appeals?)\s+of\s+", "", left_part, flags=re.I)
             if not left_part or not right.strip():
                 continue
-            surface = normalize_space(f"{left_part} {line[connector.start():connector.end()]} {right.strip(' \t,:;–—-.()')}")
+            surface = normalize_space(f"{left_part} {line[connector.start():connector.end()]} {right.strip(' \t,:;–—-()')}")
             actual_start = left_start + start
             actual_end = connector.end() + len(right.rstrip())
             if actual_end <= actual_start:
