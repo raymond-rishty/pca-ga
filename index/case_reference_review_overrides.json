@@ -1,0 +1,690 @@
+{
+  "version": 1,
+  "status": "exploratory",
+  "description": "Line-addressed, evidence-backed decisions made while reviewing case-reference conflicts. These entries do not create global aliases or rewrite case text.",
+  "overrides": [
+    {
+      "source_file": "cases/ga05_1977__case2.md",
+      "line": 141,
+      "surface_text": "the Kim Case",
+      "action": "resolve",
+      "target_decision": "ga05_1977__case2",
+      "confidence": 0.99,
+      "reason": "The surrounding section is the current page's printed 5-86 Kim case heading and says the Kim case was abandoned; this is a self-reference, not a choice among later Kim cases."
+    },
+    {
+      "source_file": "cases/ga23_1995__1993-10.md",
+      "line": 86,
+      "surface_text": "Clark case",
+      "action": "resolve",
+      "target_decision": "ga22_1994__1993-05",
+      "confidence": 0.98,
+      "reason": "The same sentence calls it the previous Clark case and gives docket 93-5."
+    },
+    {
+      "source_file": "cases/ga33_2005__2004-09.md",
+      "line": 31,
+      "surface_text": "the Plowman case",
+      "action": "resolve",
+      "target_decision": "ga32_2004__2002-05",
+      "confidence": 0.99,
+      "reason": "The preceding sentence explicitly identifies Judicial Case 2002-5 (Refiled), Complaint of Nancy J. Plowman."
+    },
+    {
+      "source_file": "cases/ga33_2005__2004-09.md",
+      "line": 31,
+      "surface_text": "The Plowman decision",
+      "action": "resolve",
+      "target_decision": "ga32_2004__2002-05",
+      "confidence": 0.99,
+      "reason": "The same paragraph is expressly comparing the current case with Judicial Case 2002-5 (Refiled), the Plowman decision."
+    },
+    {
+      "source_file": "cases/ga33_2005__2004-09.md",
+      "line": 33,
+      "surface_text": "the Plowman case",
+      "action": "resolve",
+      "target_decision": "ga32_2004__2002-05",
+      "confidence": 0.99,
+      "reason": "The surrounding comparison is the Plowman case identified as Judicial Case 2002-5 (Refiled)."
+    },
+    {
+      "source_file": "cases/ga33_2005__2004-09.md",
+      "line": 35,
+      "surface_text": "the Plowman case",
+      "action": "resolve",
+      "target_decision": "ga32_2004__2002-05",
+      "confidence": 0.99,
+      "reason": "The surrounding comparison is the Plowman case identified as Judicial Case 2002-5 (Refiled)."
+    },
+    {
+      "source_file": "cases/ga33_2005__2004-09.md",
+      "line": 44,
+      "surface_text": "the Plowman case",
+      "action": "resolve",
+      "target_decision": "ga32_2004__2002-05",
+      "confidence": 0.99,
+      "reason": "The surrounding comparison is the Plowman case identified as Judicial Case 2002-5 (Refiled)."
+    },
+    {
+      "source_file": "cases/ga45_2017__2016-09.md",
+      "line": 183,
+      "surface_text": "Ruff 2",
+      "action": "resolve",
+      "target_decision": "ga41_2013__2011-18",
+      "confidence": 0.99,
+      "reason": "The preceding text identifies Ruff v. Nashville as Case No. 2011-18; the footnote calls Ruff 2 its sequel to 2009-28."
+    },
+    {
+      "source_file": "cases/ga46_2018__2017-01.md",
+      "line": 323,
+      "surface_text": "Wills 2",
+      "action": "resolve",
+      "target_decision": "ga45_2017__2016-14",
+      "confidence": 0.99,
+      "reason": "The surrounding conclusion calls this the second of two Wills v. Metro Atlanta cases; footnote 38 explicitly identifies it as Case 2016-14."
+    },
+    {
+      "source_file": "cases/ga46_2018__2017-01.md",
+      "line": 323,
+      "surface_text": "Wills Case",
+      "action": "resolve",
+      "target_decision": "ga44_2016__2015-12",
+      "confidence": 0.99,
+      "reason": "The same conclusion contrasts Wills 2 with the first Wills v. Metro Atlanta case; footnote 38 identifies the first as Case 2015-12."
+    },
+    {
+      "source_file": "cases/ga46_2018__2017-02.md",
+      "line": 71,
+      "surface_text": "The Malone ruling",
+      "action": "resolve",
+      "target_decision": "ga36_2008__2007-02",
+      "confidence": 0.99,
+      "reason": "Footnote 39 on the next line gives Malone v. Metropolitan New York Presbytery as SJC 2007-02."
+    },
+    {
+      "source_file": "cases/ga48_2021__2019-11.md",
+      "line": 150,
+      "surface_text": "Crouse case",
+      "action": "resolve",
+      "target_decision": "ga48_2021__2019-03",
+      "confidence": 0.99,
+      "reason": "The sentence says first Crouse case and gives docket 2019-03."
+    },
+    {
+      "source_file": "cases/ga49_2022__2021-13.md",
+      "line": 568,
+      "surface_text": "the Crouse Decision",
+      "action": "resolve",
+      "target_decision": "ga48_2021__2019-03",
+      "confidence": 0.99,
+      "reason": "The immediately preceding discussion identifies the SJC Decision in Case 2019-03 as the Crouse Decision."
+    },
+    {
+      "source_file": "cases/ga20_1992__1992-03.md",
+      "line": 69,
+      "surface_text": "William A. Conrad, et al vs Central Carolina Presbytery",
+      "action": "resolve",
+      "target_decision": "ga20_1992__1992-04",
+      "confidence": 0.99,
+      "reason": "The parenthetical on the same source line identifies SJC Docket 92-4."
+    },
+    {
+      "source_file": "cases/ga21_1993__1992-06.md",
+      "line": 165,
+      "surface_text": "William A. Conrad, et al vs Central Carolina Presbytery",
+      "action": "resolve",
+      "target_decision": "ga21_1993__1992-07",
+      "confidence": 0.99,
+      "reason": "The parenthetical on the same source line identifies Case #2 and SJC Docket 92-7."
+    },
+    {
+      "source_file": "cases/ga29_2001__1999-07.md",
+      "line": 547,
+      "surface_text": "Robert M. Shive v Central Carolina Presbytery",
+      "action": "resolve",
+      "target_decision": "ga26_1998__1997-09",
+      "confidence": 0.99,
+      "reason": "The same sentence identifies the appeal as Case 97-9."
+    },
+    {
+      "source_file": "cases/ga34_2006__2005-09.md",
+      "line": 126,
+      "surface_text": "TE Peter B. Kim vs Korean Eastern Presbytery",
+      "action": "resolve",
+      "target_decision": "ga34_2006__2005-08",
+      "confidence": 0.99,
+      "reason": "The sentence explicitly calls this the Appeal and identifies it as 2005-8; the current page is the separate 2005-9 Complaint."
+    },
+    {
+      "source_file": "cases/ga45_2017__2016-09.md",
+      "line": 158,
+      "surface_text": "Ruff v Nashville",
+      "action": "resolve",
+      "target_decision": "ga41_2013__2011-18",
+      "confidence": 0.99,
+      "reason": "The next source line identifies Ruff v. Nashville as Case No. 2011-18."
+    },
+    {
+      "source_file": "cases/ga49_2022__2021-06.md",
+      "line": 280,
+      "surface_text": "Marshall v Pacific",
+      "action": "resolve",
+      "target_decision": "ga43_2015__2013-03",
+      "confidence": 0.99,
+      "reason": "The same sentence gives Case 2013-03."
+    },
+    {
+      "source_file": "cases/ga49_2022__2021-06.md",
+      "line": 308,
+      "surface_text": "Marshall v Pacific",
+      "action": "resolve",
+      "target_decision": "ga43_2015__2013-03",
+      "confidence": 0.97,
+      "reason": "The paragraph is continuing the immediately preceding 2015 Marshall discussion, which is identified as Case 2013-03 on line 280."
+    },
+    {
+      "source_file": "cases/ga32_2004__2002-16.md",
+      "line": 404,
+      "surface_text": "M28GA, Tampa 2000, pp. 238-241",
+      "action": "resolve",
+      "target_decision": "ga28_2000__1999-01",
+      "confidence": 0.99,
+      "reason": "The same sentence identifies Judicial Matter 99-1 and TE Wood, which is the 1999-01 Minutes item."
+    },
+    {
+      "source_file": "cases/ga32_2004__2002-16.md",
+      "line": 679,
+      "surface_text": "M28GA, Tampa 2000, pp. 238-241",
+      "action": "resolve",
+      "target_decision": "ga28_2000__1999-01",
+      "confidence": 0.99,
+      "reason": "The same sentence identifies Judicial Matter 99-1 and TE Wood, which is the 1999-01 Minutes item."
+    },
+    {
+      "source_file": "cases/ga31_2003__2001-06.md",
+      "line": 112,
+      "surface_text": "M19GA,1991, pp. 488-527",
+      "action": "resolve",
+      "target_decisions": ["ga19_1991__1990-04", "ga19_1991__1990-04a"],
+      "confidence": 0.99,
+      "reason": "The same sentence explicitly calls these twin cases Chappell and Wallace W. Marshall; the page range is shared evidence for both decision nodes."
+    },
+    {
+      "source_file": "cases/ga41_2013__2012-01.md",
+      "line": 68,
+      "surface_text": "M40GA, pp. 562-563",
+      "action": "resolve",
+      "target_decision": "ga40_2012__2011-08",
+      "confidence": 0.99,
+      "reason": "The preceding sentence identifies the Panel's Case 2011-08 recommendation."
+    },
+    {
+      "source_file": "cases/ga44_2016__2015-01.md",
+      "line": 35,
+      "surface_text": "M31GA, Charlotte 2003, pp. 107",
+      "action": "resolve",
+      "target_decision": "ga31_2003__2001-32",
+      "confidence": 0.99,
+      "reason": "The same citation names Case 2001-32 Christ Covenant v. Central Carolina."
+    },
+    {
+      "source_file": "cases/ga45_2017__2016-05.md",
+      "line": 209,
+      "surface_text": "M43GA, 2015 Chattanooga, p. 548-554",
+      "action": "resolve",
+      "target_decision": "ga43_2015__2013-03",
+      "confidence": 0.99,
+      "reason": "The footnote says the vote in Marshall was 13-3; the registry's Marshall decision is Case 2013-03."
+    },
+    {
+      "source_file": "cases/ga45_2017__2016-08.md",
+      "line": 110,
+      "surface_text": "M39GA, 2011 Virginia Beach, p. 594",
+      "action": "resolve",
+      "target_decision": "ga39_2011__2010-16",
+      "confidence": 0.99,
+      "reason": "The preceding paragraph explicitly identifies the cited decision as Case 2010-16 Lyons v. Western Carolina."
+    },
+    {
+      "source_file": "cases/ga45_2017__2016-08.md",
+      "line": 171,
+      "surface_text": "M39GA, 2011 Virginia Beach, p. 567",
+      "action": "resolve",
+      "target_decision": "ga39_2011__2009-28",
+      "confidence": 0.99,
+      "reason": "The preceding paragraph identifies the citation as Case 2009-28 Ruff v. Nashville."
+    },
+    {
+      "source_file": "cases/ga47_2019__2018-02.md",
+      "line": 284,
+      "surface_text": "M43GA, p.568",
+      "action": "resolve",
+      "target_decision": "ga43_2015__2013-08",
+      "confidence": 0.99,
+      "reason": "The same table cell identifies docket 2013-08 and Jackson v. Northwest Georgia."
+    },
+    {
+      "source_file": "cases/ga47_2019__2018-02.md",
+      "line": 284,
+      "surface_text": "M44GA, p. 518",
+      "action": "resolve",
+      "target_decision": "ga44_2016__2015-05",
+      "confidence": 0.99,
+      "reason": "The same table cell identifies docket 2015-05 and the Thompson application."
+    },
+    {
+      "source_file": "cases/ga47_2019__2018-02.md",
+      "line": 284,
+      "surface_text": "M44GA, p. 537",
+      "action": "resolve",
+      "target_decision": "ga44_2016__2015-09",
+      "confidence": 0.99,
+      "reason": "The same table cell identifies docket 2015-09 and the Bumgarner application."
+    },
+    {
+      "source_file": "cases/ga47_2019__2018-02.md",
+      "line": 284,
+      "surface_text": "M44GA, p. 539",
+      "action": "resolve",
+      "target_decision": "ga44_2016__2015-10",
+      "confidence": 0.99,
+      "reason": "The same table cell identifies docket 2015-10 and the Thompson application concerning South Florida Presbytery."
+    },
+    {
+      "source_file": "cases/ga48_2021__2019-10_2019-12.md",
+      "line": 346,
+      "surface_text": "M36GA, 2008, p. 99",
+      "action": "resolve",
+      "target_decision": "ga36_2008__2007-01_2007-06_2007-07",
+      "confidence": 0.97,
+      "reason": "The Minutes page is the opening page of the 2007-01/2007-06/2007-07 report; the citation concerns its BCO 38-1 treatment, not the overlapping Malone report."
+    },
+    {
+      "source_file": "cases/ga49_2022__2020-05.md",
+      "line": 333,
+      "surface_text": "M31GA, p. 107",
+      "action": "resolve",
+      "target_decision": "ga31_2003__2001-32",
+      "confidence": 0.99,
+      "reason": "The same line names Session of Christ Covenant v. Central Carolina."
+    },
+    {
+      "source_file": "cases/ga50_2023__2022-10.md",
+      "line": 123,
+      "surface_text": "M48GA, p. 803",
+      "action": "resolve",
+      "target_decision": "ga48_2021__2020-04",
+      "confidence": 0.99,
+      "reason": "The preceding paragraph explicitly identifies the quoted Decision as Complaint 2020-04 Marusich v. CIP."
+    },
+    {
+      "source_file": "cases/ga50_2023__2022-13.md",
+      "line": 25,
+      "surface_text": "M31GA, 2013, p. 107",
+      "action": "resolve",
+      "target_decision": "ga31_2003__2001-32",
+      "confidence": 0.99,
+      "reason": "The same sentence names Case 2001-32 Session of Christ Covenant v. Central Carolina."
+    },
+    {
+      "source_file": "cases/ga22_1994__1993-09.md",
+      "line": 14,
+      "surface_text": "William A. Conrad, et al vs Central Carolina Presbytery",
+      "action": "resolve",
+      "target_decision": "ga22_1994__1993-09",
+      "confidence": 0.99,
+      "review_kind": "conflict-resolution",
+      "reason": "The same sentence identifies SJC Docket 93-9, and this line is the current decision's recording-in-Minutes self-reference."
+    },
+    {
+      "source_file": "cases/ga52_2025__2023-16.md",
+      "line": 193,
+      "surface_text": "M47GA, 2019, p. 576",
+      "action": "resolve",
+      "target_decision": "ga47_2019__2018-04",
+      "confidence": 0.99,
+      "reason": "The same list identifies docket 2018-04 and Mapes."
+    },
+    {
+      "source_file": "cases/ga52_2025__2023-16.md",
+      "line": 193,
+      "surface_text": "M46GA, 2018, p. 523",
+      "action": "resolve",
+      "target_decision": "ga46_2018__2016-13",
+      "confidence": 0.99,
+      "reason": "The same list identifies docket 2016-13 and Daniels."
+    },
+    {
+      "source_file": "cases/ga10_1982__case6.md",
+      "line": 38,
+      "surface_text": "M9GA, p. 150",
+      "action": "resolve",
+      "target_decision": "ga09_1981__case1",
+      "confidence": 0.98,
+      "reason": "The same Minutes locator is identified elsewhere in the corpus as the Cooke Lewis / Grace Presbytery case, SJC Case 9-76."
+    },
+    {
+      "source_file": "cases/ga20_1992__1991-02.md",
+      "line": 146,
+      "surface_text": "M9GA (1981) 9-76, p. 150",
+      "action": "resolve",
+      "target_decision": "ga09_1981__case1",
+      "confidence": 0.99,
+      "reason": "The same sentence explicitly names Cooke Lewis et al. v. Grace Presbytery and docket 9-76."
+    },
+    {
+      "source_file": "cases/ga20_1992__1991-04.md",
+      "line": 449,
+      "surface_text": "M8GA, p. 93",
+      "action": "resolve",
+      "target_decision": "ga08_1980__case3",
+      "confidence": 0.99,
+      "reason": "The preceding sentence names the Bogue v. Ascension decision; its Minutes text is the case-3 report."
+    },
+    {
+      "source_file": "cases/ga25_1997__1995-11.md",
+      "line": 80,
+      "surface_text": "M8GA, 8-63, p. 93",
+      "action": "resolve",
+      "target_decision": "ga08_1980__case3",
+      "confidence": 0.99,
+      "reason": "The same paragraph explicitly identifies the 1980 Carl W. Bogue et al. v. Ascension case."
+    },
+    {
+      "source_file": "cases/ga49_2022__2021-13.md",
+      "line": 153,
+      "surface_text": "M44GA, p. 539",
+      "action": "resolve",
+      "target_decision": "ga44_2016__2015-11",
+      "confidence": 0.99,
+      "reason": "The same line explicitly identifies SJC 2015-11, Thompson v. South Florida."
+    },
+    {
+      "source_file": "cases/ga49_2022__2021-13.md",
+      "line": 340,
+      "surface_text": "M28GA, pp. 218",
+      "action": "resolve",
+      "target_decision": "ga28_2000__1998-08",
+      "confidence": 0.99,
+      "reason": "The same quotation explicitly identifies Beverly Smith v. Southwest, the 1998-08 case."
+    },
+    {
+      "source_file": "cases/ga50_2023__2022-02.md",
+      "line": 125,
+      "surface_text": "M8GA pp. 50-51",
+      "action": "resolve",
+      "target_decision": "ga08_1980__case3",
+      "confidence": 0.99,
+      "reason": "The same footnote identifies Bogue et al. v. the Presbytery of the Ascension."
+    },
+    {
+      "source_file": "cases/ga50_2023__2022-02.md",
+      "line": 125,
+      "surface_text": "M16GA, pp. 191- 197",
+      "action": "resolve",
+      "target_decision": "ga16_1988__case6",
+      "confidence": 0.99,
+      "reason": "The same footnote identifies Serio v. Palmetto Presbytery."
+    },
+    {
+      "source_file": "cases/ga50_2023__2022-03.md",
+      "line": 119,
+      "surface_text": "M8GA pp. 50-51",
+      "action": "resolve",
+      "target_decision": "ga08_1980__case3",
+      "confidence": 0.99,
+      "reason": "The same footnote identifies Bogue et al. v. the Presbytery of the Ascension."
+    },
+    {
+      "source_file": "cases/ga50_2023__2022-03.md",
+      "line": 119,
+      "surface_text": "M16GA, pp. 191- 197",
+      "action": "resolve",
+      "target_decision": "ga16_1988__case6",
+      "confidence": 0.99,
+      "reason": "The same footnote identifies Serio v. Palmetto Presbytery."
+    },
+    {
+      "source_file": "cases/ga50_2023__2022-10.md",
+      "line": 528,
+      "surface_text": "M43GA, 2015, p. 572",
+      "action": "resolve",
+      "target_decision": "ga43_2015__2013-10",
+      "confidence": 0.99,
+      "reason": "The same paragraph explicitly identifies SJC Case 2013-10 and Latimer v. Chicago Metro."
+    },
+    {
+      "source_file": "cases/ga52_2025__2023-22.md",
+      "line": 118,
+      "surface_text": "M21GA, 1993, pp. 218",
+      "action": "resolve",
+      "target_decision": "ga21_1993__1992-07",
+      "confidence": 0.99,
+      "reason": "The same paragraph identifies Case 92-7, William A. Conrad v. Central Carolina."
+    },
+    {
+      "source_file": "cases/ga52_2025__2023-22.md",
+      "line": 123,
+      "surface_text": "M26GA, 1998, pp. 134-135",
+      "action": "resolve",
+      "target_decision": "ga26_1998__1997-09",
+      "confidence": 0.99,
+      "reason": "The same paragraph identifies Case 97-9, Robert M. Shive v. Central Carolina."
+    },
+    {
+      "source_file": "cases/ga52_2025__2023-22.md",
+      "line": 133,
+      "surface_text": "M39GA, 2011, pp. 567-568",
+      "action": "resolve",
+      "target_decision": "ga39_2011__2009-28",
+      "confidence": 0.99,
+      "reason": "The same paragraph identifies Case 2009-28, Complaint of Matt Ruff v. Nashville."
+    },
+    {
+      "source_file": "cases/ga52_2025__2024-18.md",
+      "line": 165,
+      "surface_text": "M36GA, p. 128",
+      "action": "resolve",
+      "target_decision": "ga36_2008__2007-14",
+      "confidence": 0.99,
+      "reason": "The same line identifies Case 2007-14, PCA v. Louisiana Presbytery."
+    },
+    {
+      "source_file": "cases/ga52_2025__2024-18.md",
+      "line": 166,
+      "surface_text": "M39GA, p. 594",
+      "action": "resolve",
+      "target_decision": "ga39_2011__2010-16",
+      "confidence": 0.99,
+      "reason": "The preceding line identifies Case 2010-16, Lyons v. Western Carolina."
+    },
+    {
+      "source_file": "cases/ga16_1988__case4.md",
+      "line": 43,
+      "surface_text": "M5GA p. 68",
+      "action": "exclude",
+      "confidence": 0.99,
+      "reason": "This is a citation to the Fifth General Assembly's denomination-wide declaration, not a judicial case."
+    },
+    {
+      "source_file": "cases/ga16_1988__case4.md",
+      "line": 112,
+      "surface_text": "M5GA, p. 68",
+      "action": "exclude",
+      "confidence": 0.99,
+      "reason": "This is a citation to the Fifth General Assembly's denomination-wide declaration, not a judicial case."
+    },
+    {
+      "source_file": "cases/ga16_1988__case4.md",
+      "line": 143,
+      "surface_text": "M5GA, p. 68",
+      "action": "exclude",
+      "confidence": 0.99,
+      "reason": "This is a citation to the Fifth General Assembly's denomination-wide declaration, not a judicial case."
+    },
+    {
+      "source_file": "cases/ga16_1988__case5.md",
+      "line": 77,
+      "surface_text": "M5GA, p. 68",
+      "action": "exclude",
+      "confidence": 0.99,
+      "reason": "This is a citation to the Fifth General Assembly's denomination-wide declaration, not a judicial case."
+    },
+    {
+      "source_file": "cases/ga49_2022__2020-12.md",
+      "line": 675,
+      "surface_text": "M5GA, p. 67",
+      "action": "exclude",
+      "confidence": 0.99,
+      "reason": "This is a citation to the Fifth General Assembly's denomination-wide declaration, not a judicial case."
+    },
+    {
+      "source_file": "cases/ga19_1991__1990-03.md",
+      "line": 95,
+      "surface_text": "M10GA 10-25, p. 103",
+      "action": "exclude",
+      "confidence": 0.99,
+      "reason": "This is a citation to a General Assembly answer/overture, not a judicial case."
+    },
+    {
+      "source_file": "cases/ga19_1991__1990-08.md",
+      "line": 402,
+      "surface_text": "M10GA, p. 103",
+      "action": "exclude",
+      "confidence": 0.99,
+      "reason": "This is a citation to a General Assembly answer/overture, not a judicial case."
+    },
+    {
+      "source_file": "cases/ga39_2011__2009-25_2009-26.md",
+      "line": 127,
+      "surface_text": "M10GA (1982), p. 103",
+      "action": "exclude",
+      "confidence": 0.99,
+      "reason": "This is a citation to a General Assembly answer/overture, not a judicial case."
+    },
+    {
+      "source_file": "cases/ga26_1998__1997-05.md",
+      "line": 273,
+      "surface_text": "M4GA 4-71, III, A, p 72",
+      "action": "exclude",
+      "confidence": 0.99,
+      "reason": "This is a citation to a General Assembly recommendation, not a judicial case."
+    },
+    {
+      "source_file": "cases/ga51_2024__2023-11.md",
+      "line": 557,
+      "surface_text": "M10GA, 1982, p. 92",
+      "action": "exclude",
+      "confidence": 0.99,
+      "reason": "This is a citation to General Assembly statistics, not a judicial case."
+    },
+    {
+      "source_file": "cases/ga49_2022__2020-12.md",
+      "line": 785,
+      "surface_text": "M46GA, 2018 Atlanta, p. 500",
+      "action": "resolve",
+      "target_decision": "ga46_2018__2016-11",
+      "confidence": 0.99,
+      "reason": "The preceding lines explicitly identify Case 2016-11, Frazier v. Nashville."
+    },
+    {
+      "source_file": "cases/ga25_1997__1995-11.md",
+      "line": 126,
+      "surface_text": "M20GA, 20-69, p. 160",
+      "action": "resolve",
+      "target_decision": "ga20_1992__1991-04",
+      "confidence": 0.99,
+      "reason": "The same paragraph explicitly identifies Robert D. Hopper v. James River Presbytery, the 1991-04 case."
+    },
+    {
+      "source_file": "cases/ga45_2017__2016-14.md",
+      "line": 33,
+      "surface_text": "M44GA, p. 514",
+      "action": "resolve",
+      "target_decision": "ga44_2016__2015-03",
+      "confidence": 0.99,
+      "reason": "The preceding sentence explicitly says the matter eventually became Case 2015-03; M44GA p. 514 is the cited page for that case."
+    },
+    {
+      "source_file": "cases/ga42_2014__2011-11_2011-12_2011-15_2011-16.md",
+      "line": 402,
+      "surface_text": "McNeil vs Chesapeake Presbytery",
+      "action": "resolve",
+      "target_decision": "ga39_2011__2009-22",
+      "confidence": 0.98,
+      "review_kind": "conflict-resolution",
+      "reason": "The same sentence explicitly introduces this caption as Case 2009-22; the caption-only candidate is a duplicate occurrence of that docketed reference."
+    },
+    {
+      "source_file": "cases/ga48_2021__2020-01.md",
+      "line": 19,
+      "surface_text": "Case 2012-08, Complaint of RE Warren Jackson v. Northwest Georgia (M43GA, 2015, p. 568)",
+      "action": "resolve",
+      "target_decision": "ga43_2015__2013-08",
+      "confidence": 0.97,
+      "review_kind": "conflict-resolution",
+      "reason": "The printed caption and M43GA p. 568 identify Jackson v. Northwest Georgia, which is the mapped 2013-08 decision; 2012-08 is a source-text docket typo for this occurrence."
+    },
+    {
+      "source_file": "cases/ga48_2021__2020-13.md",
+      "line": 17,
+      "surface_text": "Case 2012-08, Complaint of RE Warren Jackson v. Northwest Georgia (M43GA, 2015, p. 568)",
+      "action": "resolve",
+      "target_decision": "ga43_2015__2013-08",
+      "confidence": 0.97,
+      "review_kind": "conflict-resolution",
+      "reason": "The printed caption and M43GA p. 568 identify Jackson v. Northwest Georgia, which is the mapped 2013-08 decision; 2012-08 is a source-text docket typo for this occurrence."
+    },
+    {
+      "source_file": "cases/ga50_2023__2022-08.md",
+      "line": 27,
+      "surface_text": "Case 2012-08 RE Warren Jackson v. NW Georgia (M43GA, 2015, p. 568)",
+      "action": "resolve",
+      "target_decision": "ga43_2015__2013-08",
+      "confidence": 0.97,
+      "review_kind": "conflict-resolution",
+      "reason": "The printed caption and M43GA p. 568 identify Jackson v. Northwest Georgia, which is the mapped 2013-08 decision; 2012-08 is a source-text docket typo for this occurrence."
+    },
+    {
+      "source_file": "cases/ga52_2025__2023-16.md",
+      "line": 193,
+      "surface_text": "Case 2012-08 RE Warren Jackson v. NW Georgia (M43GA, 2015, p. 568)",
+      "action": "resolve",
+      "target_decision": "ga43_2015__2013-08",
+      "confidence": 0.97,
+      "review_kind": "conflict-resolution",
+      "reason": "The printed caption and M43GA p. 568 identify Jackson v. Northwest Georgia, which is the mapped 2013-08 decision; 2012-08 is a source-text docket typo for this occurrence."
+    },
+    {
+      "source_file": "cases/ga52_2025__2024-08.md",
+      "line": 21,
+      "surface_text": "Case 2012-08: RE Warren Jackson v. Northwest Georgia (M43GA, 2015, p. 568)",
+      "action": "resolve",
+      "target_decision": "ga43_2015__2013-08",
+      "confidence": 0.97,
+      "review_kind": "conflict-resolution",
+      "reason": "The printed caption and M43GA p. 568 identify Jackson v. Northwest Georgia, which is the mapped 2013-08 decision; 2012-08 is a source-text docket typo for this occurrence."
+    },
+    {
+      "source_file": "cases/ga49_2022__2020-09.md",
+      "line": 194,
+      "surface_text": "Case 2020-04 Williams v. Chesapeake",
+      "action": "resolve",
+      "target_decision": "ga48_2021__2019-04",
+      "confidence": 0.97,
+      "review_kind": "conflict-resolution",
+      "reason": "The caption is the Williams v. Chesapeake decision dated August 24, 2020, which is docket 2019-04; the source text's 2020-04 docket is inconsistent with both caption and date."
+    },
+    {
+      "source_file": "cases/ga52_2025__2023-16.md",
+      "line": 193,
+      "surface_text": "M50GA, 2023, p. 924",
+      "action": "resolve",
+      "target_decision": "ga50_2023__2022-16",
+      "confidence": 0.95,
+      "review_kind": "conflict-resolution",
+      "reason": "The same list item identifies docket 2022-16 and Michelson; the M50GA p. 924 locator overlaps other recorded entries and is retained as conflicting secondary evidence."
+    }
+  ]
+}
