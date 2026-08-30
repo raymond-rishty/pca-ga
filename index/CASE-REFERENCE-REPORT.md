@@ -24,16 +24,16 @@ A canonical `decision_id` identifies one adjudicated decision. `case_file` remai
 
 ## Candidate resolution
 
-- Candidate occurrences: **4050**
-- Resolved occurrences: **3327** (82.1%)
-- Resolved by docket signal: **3133** (77.4%)
-- Resolved by caption signal: **283** (7.0%)
+- Candidate occurrences: **3496**
+- Resolved occurrences: **3322** (95.0%)
+- Resolved by docket signal: **3133** (89.6%)
+- Resolved by caption signal: **278** (8.0%)
 - Caption-only occurrences resolved from aliases learned in docket citations: **5**
-- Resolved by minutes signal: **159** (3.9%)
-- Unresolved/ambiguous occurrences: **723** (17.9%)
+- Resolved by minutes signal: **159** (4.5%)
+- Unresolved/ambiguous occurrences: **174** (5.0%)
 - Compound docket units decomposed into decision-level occurrences: **56**
-- Self-reference occurrences retained for audit: **642**
-- Unique non-self directed decision edges: **1577**
+- Self-reference occurrences retained for audit: **641**
+- Unique non-self directed decision edges: **1576**
 
 Percentages use candidate occurrences as the denominator; a combined docket/caption/minutes occurrence contributes to each applicable signal count.
 
@@ -45,7 +45,7 @@ Percentages use candidate occurrences as the denominator; a combined docket/capt
 | docket + caption | 159 | `Case 90-4 (C. E. Chappell vs. East Carolina Presbytery)` (cases/ga20_1992__1991-02.md:L48) |
 | docket + caption + minutes | 64 | `Case 90-8, Bowen v. Eastern Carolina, M19GA, 1991 Birmingham, Vol. 2, p. 84)` (cases/ga32_2004__2003-06.md:L79) |
 | docket + minutes | 10 | `Case No. 90- 8, M19GA, 1991, p. 84` (cases/ga20_1992__1991-05.md:L101) |
-| full/observed caption | 755 | `TE S. Michael Preg, Jr. et al vs Missouri Presbytery` (cases/ga13_1985__case1.md:L19) |
+| full/observed caption | 201 | `TE S. Michael Preg, Jr. et al. vs. Missouri Presbytery.` (cases/ga13_1985__case1.md:L19) |
 | minutes-only | 41 | `M11GA, p. 140` (cases/ga14_1986__case6.md:L91) |
 | shortened reference | 61 | `the Chappell Case` (cases/ga20_1992__1991-02.md:L50) |
 | docket + caption conflict | 6 | `Case 2012-08, Complaint of RE Warren Jackson v. Northwest Georgia (M43GA, 2015, p. 568)` (cases/ga48_2021__2020-01.md:L19) |
@@ -64,10 +64,10 @@ Docket-only includes explicit `Case`/`SJC` forms and known docket tokens whose s
 | resolved `docket_caption_minutes` | 64 |
 | resolved `alias` | 46 |
 | resolved `minutes` | 41 |
-| resolved `caption` | 40 |
+| resolved `caption` | 35 |
 | resolved `docket_minutes` | 10 |
 | resolved `caption_learned` | 5 |
-| unresolved `caption_unresolved` | 710 |
+| unresolved `caption_unresolved` | 161 |
 | unresolved `docket_unresolved` | 12 |
 | unresolved `short_alias` | 1 |
 
@@ -124,14 +124,14 @@ The Wills footnote in `cases/ga46_2018__2017-01.md:L334` is now decomposed into 
 
 ## Ambiguity and false-positive audit
 
-- **Observed ambiguous citation occurrences:** **0** of 723 unresolved occurrences (0.0% of all candidates). These have competing registered decision targets or explicitly conflicting docket/caption evidence.
+- **Observed ambiguous citation occurrences:** **0** of 174 unresolved occurrences (0.0% of all candidates). These have competing registered decision targets or explicitly conflicting docket/caption evidence.
 - Compound/multi-docket occurrences still needing decomposition: **9**. **9** are explicit lists such as `Cases 92-7 and 92-8` and are not identity ambiguities.
-- Unresolved occurrences without competing registered targets: **714**. These are missing/unrecognized dockets or captions, or shorthand that remains outside the automatic linker until further evidence is recorded.
+- Unresolved occurrences without competing registered targets: **165**. These are missing/unrecognized dockets or captions, or shorthand that remains outside the automatic linker until further evidence is recorded.
 - Unique normalized alias collision keys: **202**
 - Alias collision records across registry entries: **486**
 - BCO-like non-case references observed and intentionally excluded: **5244**
-- Caption-like X-v-Y windows filtered because they did not look ecclesiastical and did not match an observed alias: **462**
-- Caption-like filtered examples: `Walter V Worsham`, `April 12, 1977. changing the words "Judicial" to:"Pastoral", and changing the word "Adjudicate" to "investigate". Attested Walter V Worsham`, `1977. changing the words "Judicial" to:"Pastoral", and changing the word "Adjudicate" to "investigate". Attested Walter V Worsham`, `April 12, 1977. Attested: Walter V Worsham`, `1977. Attested: Walter V Worsham`, `Walter V Worsham`, `Sincerely, Walter V Worsham`, `Walter V Worsham`
+- Caption-like X-v-Y windows filtered because they did not look ecclesiastical and did not match an observed alias: **110**
+- Caption-like filtered examples: `Walter V. Worsham`, `Walter V. Worsham`, `Sincerely, Walter V. Worsham`, `TE James W. Truitt, TE Charles E. Turner, TE M. Steve Wallace, RE Charles Watson, TE Loren V. Watson`, `** V. ** Voting on Proposed Disposition: APPROVED by SJC`, `** V. ** Voting on Proposed Disposition: APPROVED by SJC`, `the original text of v. 29`, `his Works, 1979 V. 4`
 - Line-addressed review overrides applied: **77** of 77
 - Evidence-backed occurrence conflicts resolved with ambiguity evidence retained: **10**
 - Explicit false-positive exclusions: **29**
@@ -155,8 +155,8 @@ These occurrence-level conflicts were resolved after inspecting nearby PCA Minut
 
 | Source | Line | Surface text | Target | Original conflict | Reason |
 |---|---:|---|---|---|---|
-| `cases/ga22_1994__1993-09.md` | 14 | `William A. Conrad, et al vs Central Carolina Presbytery` | `ga22_1994__1993-09` (William A. Conrad, et al. v. Central Carolina Presbytery) | `caption_ambiguous` | The same sentence identifies SJC Docket 93-9, and this line is the current decision's recording-in-Minutes self-reference. |
-| `cases/ga42_2014__2011-11_2011-12_2011-15_2011-16.md` | 402 | `McNeil vs Chesapeake Presbytery` | `ga39_2011__2009-22` (McNeil v. Chesapeake Presbytery) | `caption_ambiguous` | The same sentence explicitly introduces this caption as Case 2009-22; the caption-only candidate is a duplicate occurrence of that docketed reference. |
+| `cases/ga22_1994__1993-09.md` | 14 | `William A. Conrad, et al. vs. Central Carolina Presbytery` | `ga22_1994__1993-09` (William A. Conrad, et al. v. Central Carolina Presbytery) | `caption_ambiguous` | The same sentence identifies SJC Docket 93-9, and this line is the current decision's recording-in-Minutes self-reference. |
+| `cases/ga42_2014__2011-11_2011-12_2011-15_2011-16.md` | 402 | `McNeil vs. Chesapeake Presbytery` | `ga39_2011__2009-22` (McNeil v. Chesapeake Presbytery) | `caption_ambiguous` | The same sentence explicitly introduces this caption as Case 2009-22; the caption-only candidate is a duplicate occurrence of that docketed reference. |
 | `cases/ga42_2014__2011-11_2011-12_2011-15_2011-16.md` | 462 | `the Lee Case` | `ga40_2012__2010-26` (Lee v. Korean Eastern Presbytery) | `short_alias` | The same concurring opinion explicitly identifies Lee v. Korean Eastern Presbytery as Case 2010-26 at line 382 and repeatedly refers back to it as 'the Lee' before the hypothetical example at line 462. |
 | `cases/ga48_2021__2020-01.md` | 19 | `Case 2012-08, Complaint of RE Warren Jackson v. Northwest Georgia (M43GA, 2015, p. 568)` | `ga43_2015__2013-08` (Jackson v. Northwest Georgia Presbytery) | `docket_caption_conflict` | The printed caption and M43GA p. 568 identify Jackson v. Northwest Georgia, which is the mapped 2013-08 decision; 2012-08 is a source-text docket typo for this occurrence. |
 | `cases/ga48_2021__2020-13.md` | 17 | `Case 2012-08, Complaint of RE Warren Jackson v. Northwest Georgia (M43GA, 2015, p. 568)` | `ga43_2015__2013-08` (Jackson v. Northwest Georgia Presbytery) | `docket_caption_conflict` | The printed caption and M43GA p. 568 identify Jackson v. Northwest Georgia, which is the mapped 2013-08 decision; 2012-08 is a source-text docket typo for this occurrence. |
@@ -216,36 +216,36 @@ These docket values are present on more than one page entity in the existing cor
 
 | Shape | Count |
 |---|---:|
-| `caption_unresolved: Gentry et al vs Calvary Presbytery` | 5 |
 | `docket_unresolved: Cases 2009-13, 2009-17, 2009-18, 2009-19, 2009-20` | 5 |
-| `caption_unresolved: 1986, Gentry et al vs Calvary Presbytery` | 4 |
-| `caption_unresolved: the case of William A. Conrad, et al vs Central Carolina Presbytery` | 3 |
-| `caption_unresolved: of William A. Conrad, et al vs Central Carolina Presbytery` | 3 |
-| `caption_unresolved: et al vs Central Carolina Presbytery` | 3 |
-| `caption_unresolved: 97-10 and 97-12 - both Raymond Larsen vs Pacific Presbytery were withdrawn by the complainants` | 3 |
 | `docket_unresolved: Cases 00-6, 01-6` | 3 |
-| `caption_unresolved: et. al vs Missouri Presbytery` | 2 |
-| `caption_unresolved: 1992 by William A. Conrad, et al., Complainants vs the Interim Session of Prosperity Presbyterian Church` | 2 |
-| `caption_unresolved: et al., Complainants vs the Interim Session of Prosperity Presbyterian Church` | 2 |
-| `caption_unresolved: Complainants vs the Interim Session of Prosperity Presbyterian Church` | 2 |
-| `caption_unresolved: This principle is found in Abshire v Pacific Northwest Presbytery` | 2 |
-| `caption_unresolved: Abshire v Pacific Northwest Presbytery` | 2 |
+| `caption_unresolved: 1986, Gentry et al vs. Calvary Presbytery` | 2 |
+| `caption_unresolved: Abshire v. Pacific Northwest Presbytery` | 2 |
 | `docket_unresolved: Case 1-34` | 2 |
-| `caption_unresolved: Aven/Dively v Ohio Valley Presbytery` | 2 |
-| `caption_unresolved: 2 See Bogue, et al v. The Presbytery of the Ascension (M8GA pp. 50-51); Gentry, et al v. Calvary Presbytery (M14GA, pp. 224-230); Rayburn, et al v Missouri Presbytery` | 2 |
-| `caption_unresolved: 2 See Bogue, et al v. The Presbytery of the Ascension (M8GA pp. 50-51); Gentry, et al v Calvary Presbytery` | 2 |
-| `caption_unresolved: 2 See Bogue, et al v The Presbytery of the Ascension` | 2 |
-| `caption_unresolved: Bogue, et al v. The Presbytery of the Ascension (M8GA pp. 50-51); Gentry, et al v. Calvary Presbytery (M14GA, pp. 224-230); Rayburn, et al v Missouri Presbytery` | 2 |
-| `caption_unresolved: Bogue, et al v. The Presbytery of the Ascension (M8GA pp. 50-51); Gentry, et al v Calvary Presbytery` | 2 |
-| `caption_unresolved: Bogue, et al v The Presbytery of the Ascension` | 2 |
-| `caption_unresolved: et al v. The Presbytery of the Ascension (M8GA pp. 50-51); Gentry, et al v. Calvary Presbytery (M14GA, pp. 224-230); Rayburn, et al v Missouri Presbytery` | 2 |
-| `caption_unresolved: et al v. The Presbytery of the Ascension (M8GA pp. 50-51); Gentry, et al v Calvary Presbytery` | 2 |
-| `caption_unresolved: et al v The Presbytery of the Ascension` | 2 |
-| `caption_unresolved: the Ascension (M8GA pp. 50-51); Gentry, et al v. Calvary Presbytery (M14GA, pp. 224-230); Rayburn, et al v Missouri Presbytery` | 2 |
-| `caption_unresolved: the Ascension (M8GA pp. 50-51); Gentry, et al v Calvary Presbytery` | 2 |
-| `caption_unresolved: cension (M8GA pp. 50-51); Gentry, et al v. Calvary Presbytery (M14GA, pp. 224-230); Rayburn, et al v. Missouri Presbytery (M16GA, pp. 213-220); Serio v Palmetto Presbytery` | 2 |
-| `caption_unresolved: M8GA pp. 50-51); Gentry, et al v. Calvary Presbytery (M14GA, pp. 224-230); Rayburn, et al v. Missouri Presbytery (M16GA, pp. 213-220); Serio v Palmetto Presbytery` | 2 |
-| `caption_unresolved: M8GA pp. 50-51); Gentry, et al v. Calvary Presbytery (M14GA, pp. 224-230); Rayburn, et al v Missouri Presbytery` | 2 |
+| `caption_unresolved: Aven/Dively v. Ohio Valley Presbytery` | 2 |
+| `caption_unresolved: Bogue, et al v. The Presbytery of the Ascension` | 2 |
+| `caption_unresolved: Gentry, et al v. Calvary Presbytery` | 2 |
+| `caption_unresolved: Rayburn, et al v. Missouri Presbytery` | 2 |
+| `caption_unresolved: Serio v. Palmetto Presbytery` | 2 |
+| `caption_unresolved: "Pastoral", and changing the word "Adjudicate" to "investigate". Attested Walter V. Worsham` | 1 |
+| `caption_unresolved: TE King et al. vs. Western Carolinas Presbytery` | 1 |
+| `caption_unresolved: Church, Cary, North Carolina vS. Eastern Carolina Presbytery` | 1 |
+| `caption_unresolved: Item 13-61 — "Preg et al. vs. Missouri Presbytery":... that the complaint be found in order and that the following judicial commission be elected to adjudicate the matter. The committee nom` | 1 |
+| `caption_unresolved: Kenneth L. Gentry, Jr. et al. vs. Calvary Presbytery WHEREAS` | 1 |
+| `caption_unresolved: the 8th GA Bogue vs. Ascension Presbytery case it was stated that "simply affirming that the canon is closed` | 1 |
+| `caption_unresolved: CA has declared that even the affirming, not just the practicing, of such a theological position is not permissible. The 8th General Assembly A Bogue vs. Ascension Presbytery case noted that "in his trial for ordination before the Presbytery` | 1 |
+| `caption_unresolved: Gentry, et al. vs. Calvary Presbytery. Grounds` | 1 |
+| `caption_unresolved: Bogue, et al. vs. Presbytery of the Ascension` | 1 |
+| `caption_unresolved: Gentry et al. vs. Calvary Presbytery` | 1 |
+| `caption_unresolved: RE David Lachman, et al. vs. the Session of Calvary Presbyterian Church` | 1 |
+| `caption_unresolved: Gentry versus Calvary Presbytery` | 1 |
+| `caption_unresolved: #5, Bogue et al. vs. the Presbytery of Ascension and 1986 Case #1 Gentry et al. vs Calvary Presbytery` | 1 |
+| `caption_unresolved: #1 Gentry et al. vs Calvary Presbytery` | 1 |
+| `caption_unresolved: 1980, Bogue et al. vs. Presbytery of Ascension` | 1 |
+| `caption_unresolved: 1986, Gentry et al. vs Calvary Presbytery` | 1 |
+| `caption_unresolved: 1986, Gentry et al. vs. Calvary Presbytery` | 1 |
+| `caption_unresolved: Rayburn, et al vs. Missouri Presbytery` | 1 |
+| `caption_unresolved: 1980, Bogue et al vs. Presbytery of the Ascension` | 1 |
+| `caption_unresolved: **W.** Bogue et al., vs. members of the Presbytery of the Ascension, Complainants vs. The Presbytery of the Ascension` | 1 |
 
 ### Unresolved high-value candidates
 
@@ -369,6 +369,6 @@ These candidate shapes were excluded because the source context identifies them 
 
 ## Deterministic-resolution conclusion
 
-Most high-confidence PCA case references are deterministically resolvable from docket numbers once docket normalization and BCO guards are applied: **3133 of 4050 candidate occurrences (77.4%)** carry a resolved docket signal. Caption-only and shorthand references still require learned-alias collision checks and a modest manual/entity-resolution queue; the corpus should not treat the raw overall resolution percentage as permission to guess.
+Most high-confidence PCA case references are deterministically resolvable from docket numbers once docket normalization and BCO guards are applied: **3133 of 3496 candidate occurrences (89.6%)** carry a resolved docket signal. Caption-only and shorthand references still require learned-alias collision checks and a modest manual/entity-resolution queue; the corpus should not treat the raw overall resolution percentage as permission to guess.
 
 The current foundation is therefore suitable for an exploratory graph and a first inline-linking pass limited to high-confidence docket/unique-caption matches, but not yet for automatic resolution of all textual mentions.

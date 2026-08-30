@@ -44,6 +44,17 @@ class CaseCitationInventoryTests(unittest.TestCase):
         )
         self.assertNotIn("x v y presbytery", MODULE.caption_keys("Presbytery of X versus Y Presbytery"))
 
+    def test_caption_candidates_do_not_emit_nested_suffixes(self):
+        line = "See earlier decisions (1980, Bogue et al. vs. Presbytery of Ascension; 1986, Gentry et al. vs Calvary Presbytery)."
+        surfaces = [surface for surface, _, _ in MODULE.caption_candidates(line)]
+        self.assertEqual(
+            surfaces,
+            [
+                "1980, Bogue et al. vs. Presbytery of Ascension",
+                "1986, Gentry et al. vs Calvary Presbytery",
+            ],
+        )
+
     def test_known_consolidated_and_conflicted_examples(self):
         registry = read_json("case_identity_registry.json")["entries"]
         by_docket = {
