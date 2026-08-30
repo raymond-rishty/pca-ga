@@ -1,0 +1,89 @@
+{
+  "schema": "pca-ga.case-formatting-repair-config.v1",
+  "render_dpi": 300,
+  "overlay": {
+    "maximum_width_px": 1400,
+    "jpeg_quality": 82
+  },
+  "inline": {
+    "threshold": 190,
+    "kernel_width_height_ratio": 0.65,
+    "minimum_width_height_ratio": 1.2,
+    "minimum_aspect_ratio": 8.0,
+    "maximum_thickness_height_ratio": 0.24,
+    "minimum_component_density": 0.70,
+    "minimum_horizontal_overlap": 0.72,
+    "underline_relative_y": [0.80, 1.18],
+    "strikethrough_relative_y": [0.30, 0.72],
+    "double_line_minimum_gap_px": 3,
+    "double_line_maximum_gap_px": 14,
+    "double_line_minimum_x_overlap": 0.80,
+    "review_confidence": 0.78,
+    "recommended_confidence": 0.90
+  },
+  "blockquote": {
+    "minimum_indent_px_220dpi": 38,
+    "maximum_interblock_gap_px_220dpi": 90,
+    "minimum_characters": 70,
+    "review_confidence": 0.72,
+    "recommended_confidence": 0.88
+  },
+  "auto_policy": {
+    "name": "conservative-v2",
+    "excluded_candidate_ids": [
+      "ga20-p0155-strikethrough_single-dcfa3038d0",
+      "ga20-p0155-strikethrough_single-f355d43323",
+      "ga20-p0167-underline_single-0154a2928a",
+      "ga20-p0167-underline_single-39ee4a48a3",
+      "ga20-p0167-underline_single-77b331e60c",
+      "ga20-p0167-underline_single-9d404b5e38",
+      "ga20-p0168-underline_single-003019d749",
+      "ga20-p0168-underline_single-a510585420",
+      "ga20-p0168-underline_single-b29d1c2d66",
+      "ga20-p0170-underline_single-2811bd718d",
+      "ga20-p0170-underline_single-3abe927378",
+      "ga20-p0170-underline_single-4c8c1f5b15",
+      "ga20-p0170-underline_single-5742c30afd",
+      "ga20-p0170-underline_single-e6221ab943",
+      "ga21-p0219-strikethrough_single-a05f60e5c9",
+      "ga22-p0150-strikethrough_double-06d34643fe"
+    ],
+    "stability_variants": [
+      {"threshold": 175, "kernel_width_height_ratio": 0.58},
+      {"threshold": 190, "kernel_width_height_ratio": 0.65},
+      {"threshold": 205, "kernel_width_height_ratio": 0.74}
+    ],
+    "inline": {
+      "required_variants": 3,
+      "minimum_confidence": 0.92,
+      "minimum_horizontal_overlap": 0.85,
+      "minimum_component_density": 0.85,
+      "allowed_source_status": ["unique_line_context"],
+      "require_only_underline_candidate_on_line": true,
+      "allowed_features": [
+        "underline_single"
+      ]
+    },
+    "blockquote": {
+      "enabled": false,
+      "minimum_confidence": 0.93,
+      "minimum_indent_px_220dpi": 55,
+      "minimum_blocks": 3,
+      "require_preceding_colon": true,
+      "allowed_source_status": ["unique_anchors"]
+    },
+    "calibration": {
+      "minimum_inline_labels": 300,
+      "minimum_blockquote_labels": 0,
+      "minimum_assemblies_per_family": 20,
+      "maximum_errors_per_family": 0,
+      "minimum_one_sided_95pct_precision_bound": 0.99
+    }
+  },
+  "markup": {
+    "underline_single": ["<u>", "</u>"],
+    "underline_double": ["<u class=\"double-underline\">", "</u>"],
+    "strikethrough_single": ["<del>", "</del>"],
+    "strikethrough_double": ["<del class=\"double-strikethrough\">", "</del>"]
+  }
+}

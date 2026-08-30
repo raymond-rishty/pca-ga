@@ -1,0 +1,21 @@
+{
+  "schema": "pca-ga.case-formatting-fixtures.v1",
+  "authority": "rendered_scan_visual_check",
+  "fixtures": [
+    {"ga": 42, "pdf_page": 527, "feature": "underline_single", "text": "and even then the"},
+    {"ga": 42, "pdf_page": 527, "feature": "underline_single", "text": "court may decline to allow process to commence"},
+    {"ga": 42, "pdf_page": 527, "feature": "underline_single", "text": "http://opc.org/BCO/BD.html#Chapter_III"},
+    {"ga": 42, "pdf_page": 527, "feature": "underline_single", "text": "whether"},
+    {"ga": 42, "pdf_page": 528, "feature": "underline_single", "text": "shall consider"},
+    {"ga": 42, "pdf_page": 528, "feature": "underline_single", "text": "serious enough"},
+    {"ga": 42, "pdf_page": 528, "feature": "underline_single", "text": "http://www.arpsynod.org/downloads/Book%20of%20discipline.pdf"},
+    {"ga": 42, "pdf_page": 528, "feature": "underline_single", "text": "http://www.epc.org/resources/download-epc-documents/"},
+    {"ga": 52, "pdf_page": 23, "feature": "underline_single", "text": "and RAO 16-4.c.1"},
+    {"ga": 52, "pdf_page": 23, "feature": "strikethrough_single", "text": "should"},
+    {"ga": 52, "pdf_page": 23, "feature": "underline_single", "text": "shall"},
+    {"ga": 52, "pdf_page": 23, "feature": "underline_single", "text": "single underline"},
+    {"ga": 52, "pdf_page": 23, "feature": "strikethrough_single", "text": "single strikethrough"},
+    {"ga": 52, "pdf_page": 23, "feature": "underline_double", "text": "double underline"},
+    {"ga": 52, "pdf_page": 23, "feature": "strikethrough_double", "text": "double strike through"}
+  ]
+}
