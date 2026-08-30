@@ -1,0 +1,23 @@
+{
+  "schema": "pca-ga.blockquote-auto-policy.v1",
+  "name": "context-gated-blockquotes-v1",
+  "minimum_confidence": 0.95,
+  "minimum_indent_px_220dpi": 55,
+  "minimum_ocr_lines": 3,
+  "required_source_alignment": "unique_anchors",
+  "reject_markdown_lists": true,
+  "required_context_signals": [
+    "authority_reference",
+    "citation_context",
+    "direct_quote_leadin",
+    "enumerated_authority_leadin",
+    "preceding_colon"
+  ],
+  "context": {
+    "authority_reference_bonus": 0.015,
+    "citation_context_bonus": 0.035,
+    "direct_quote_leadin_bonus": 0.035,
+    "enumerated_authority_leadin_bonus": 0.035,
+    "generic_colon_bonus": 0.015
+  }
+}
