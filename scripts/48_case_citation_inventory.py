@@ -1968,7 +1968,7 @@ def write_report(registry: list[dict[str, Any]], candidates: list[dict[str, Any]
         "",
         "1. Link explicit, uniquely mapped docket citations first; this is the most deterministic grammar and naturally handles consolidated decisions.",
         "2. Link full captions only when their normalized observed alias maps to one decision. Keep `v`/`v.`/`vs`/`versus` and role-prefix normalization as matching keys, not display rewrites.",
-        "3. Use docket + caption + Minutes citations to learn aliases, but retain conflicts such as the Bigelow `2012-08`/Jackson citation for manual review.",
+        "3. Use docket + caption + Minutes citations to learn aliases; when those fields disagree (for example the Bigelow `2012-08`/Jackson source typo), resolve only through explicit review and retain the conflict evidence.",
         "4. Resolve a qualified surname form only when the observed corpus has one target or a line-addressed review decision supplies the necessary context; leave bare surnames and collisions unresolved.",
         "5. Preserve occurrence context and later classify majority reasoning, dissent/concurrence, procedural history, and quoted party material before presenting citations as precedent.",
         "",
