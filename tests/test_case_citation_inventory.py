@@ -67,6 +67,46 @@ class CaseCitationInventoryTests(unittest.TestCase):
         self.assertGreaterEqual(len(ruff), 5)
         self.assertEqual({x["target_decision"] for x in ruff}, {"ga39_2011__2009-28"})
 
+    def test_sequential_structured_citations_are_not_swallowed(self):
+        candidates = read_json("case_reference_candidates.json")["occurrences"]
+        unresolved = read_json("case_reference_unresolved.json")["occurrences"]
+
+        herron_sources = {
+            "cases/ga50_2023__2021-14.md",
+            "cases/ga50_2023__2021-15.md",
+            "cases/ga50_2023__2022-11.md",
+        }
+        for source_file in herron_sources:
+            final_decision = [
+                x for x in candidates
+                if x["source_file"] == source_file
+                and x["match_type"] == "docket_caption"
+                and x["surface_text"] == "Case 2022-10 PCA v. Herron"
+            ]
+            self.assertEqual(len(final_decision), 1, source_file)
+            self.assertEqual(final_decision[0]["target_decision"], "ga50_2023__2022-10")
+
+            pending = [
+                x for x in unresolved
+                if x["source_file"] == source_file
+                and x["surface_text"] == "Cases 2021-14, 2021-15 & 2022-02"
+            ]
+            self.assertEqual(len(pending), 1, source_file)
+            self.assertEqual(pending[0]["match_type"], "docket_unresolved")
+            self.assertFalse(MODULE.is_observed_ambiguity(pending[0]))
+
+        wills = [
+            x for x in unresolved
+            if x["source_file"] == "cases/ga46_2018__2017-01.md" and x["line"] == 334
+        ]
+        self.assertEqual(len(wills), 1)
+        self.assertEqual(wills[0]["match_type"], "docket_caption_conflict")
+        self.assertEqual(
+            set(wills[0]["ambiguity"]["docket_targets"]),
+            {"ga44_2016__2015-12", "ga45_2017__2016-14"},
+        )
+        self.assertTrue(MODULE.is_observed_ambiguity(wills[0]))
+
     def test_ambiguous_shorthand_non_pca_and_self_references_are_not_guessed(self):
         candidates = read_json("case_reference_candidates.json")["occurrences"]
         unresolved = read_json("case_reference_unresolved.json")["occurrences"]
@@ -82,12 +122,12 @@ class CaseCitationInventoryTests(unittest.TestCase):
         unresolved = read_json("case_reference_unresolved.json")["occurrences"]
         observed = [x for x in unresolved if MODULE.is_observed_ambiguity(x)]
         compound = [x for x in unresolved if MODULE.is_compound_docket_occurrence(x)]
-        self.assertEqual(len(observed), 111)
+        self.assertEqual(len(observed), 107)
         self.assertEqual(len(compound), 75)
 
         report = (ROOT / "index" / "CASE-REFERENCE-REPORT.md").read_text(encoding="utf-8")
         self.assertIn("### Observed ambiguous citation occurrences", report)
-        self.assertIn("**111**", report)
+        self.assertIn("**107**", report)
         self.assertIn("Compound/multi-docket occurrences needing decomposition: **75**", report)
         self.assertIn("cases/ga52_2025__2024-08.md", report)
         self.assertIn("Case 2012-08", report)

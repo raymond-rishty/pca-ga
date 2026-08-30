@@ -713,10 +713,13 @@ def split_docket_list(text: str) -> list[tuple[str, str]]:
     return [(m.group(0), normalize_docket(m.group(0))) for m in DOCKET_TOKEN_RE.finditer(text)]
 
 
-def extract_caption_after_docket(line: str, match: re.Match[str]) -> tuple[str, int, int] | None:
+def extract_caption_after_docket(line: str, match: re.Match[str], stop_at: int | None = None) -> tuple[str, int, int] | None:
     """Extract a caption immediately following a structured case citation."""
     after_start = match.end()
-    tail = line[after_start:after_start + 240]
+    tail_end = after_start + 240
+    if stop_at is not None:
+        tail_end = min(tail_end, stop_at)
+    tail = line[after_start:tail_end]
     connector = CAPTION_CONNECTOR_RE.search(tail)
     if not connector:
         return None
@@ -889,9 +892,15 @@ def scan_references(registry: list[dict[str, Any]]) -> tuple[list[dict[str, Any]
 
             occupied: list[tuple[int, int]] = []
             structured: list[tuple[re.Match[str], list[tuple[str, str]], str | None, tuple[int, int] | None]] = []
-            for match in CASE_CITATION_RE.finditer(line):
+            structured_matches = list(CASE_CITATION_RE.finditer(line))
+            for match_index, match in enumerate(structured_matches):
                 dockets = split_docket_list(match.group("dockets"))
-                caption_info = extract_caption_after_docket(line, match)
+                next_citation_start = (
+                    structured_matches[match_index + 1].start()
+                    if match_index + 1 < len(structured_matches)
+                    else None
+                )
+                caption_info = extract_caption_after_docket(line, match, stop_at=next_citation_start)
                 caption = caption_info[0] if caption_info else None
                 caption_span = (caption_info[1], caption_info[2]) if caption_info else None
                 structured.append((match, dockets, caption, caption_span))
@@ -1416,6 +1425,12 @@ def write_report(registry: list[dict[str, Any]], candidates: list[dict[str, Any]
         "## Consolidated decisions",
         "",
         f"The registry contains **{len(consolidated)}** consolidated decision entities. A cited docket resolves to the shared `decision_id`; the occurrence preserves the docket spelling/list actually used. For example, `2019-10` and `2019-12` map to `{consolidated_label}`.",
+        "",
+        "### Initial compound-reference triage",
+        "",
+        "The first compound-conflict review found a scanner-boundary problem in three Herron records: an explicit pending-case list was followed by a separate `Case 2022-10 PCA v. Herron` citation on the same line. The scanner now stops a docket-plus-caption unit at the next structured case citation. Those records therefore remain as compound docket lists needing decomposition, while the later `Case 2022-10` occurrence resolves independently to `ga50_2023__2022-10`.",
+        "",
+        "The Wills footnote in `cases/ga46_2018__2017-01.md:L334` remains in the ambiguity queue. Its docket and caption evidence identify both `2015-12` and `2016-14`, while the extracted `M45GA` page range also overlaps the registered `2016-12` Minutes range; the surrounding source text additionally continues with an `M46GA` locator. This is retained for source review rather than guessed into one node.",
         "",
         "## Ambiguity and false-positive audit",
         "",
