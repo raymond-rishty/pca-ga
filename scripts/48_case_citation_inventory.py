@@ -58,7 +58,10 @@ CASE_CITATION_RE = re.compile(
     re.I,
 )
 
-CAPTION_CONNECTOR_RE = re.compile(r"\b(?:v|vs|versus)\.?(?![A-Za-z])", re.I)
+CAPTION_CONNECTOR_RE = re.compile(
+    r"\b(?:v|vs|versus)\.?(?![A-Za-z])(?!\s*\d)",
+    re.I,
+)
 MINUTES_REF_RE = re.compile(
     r"\b(?P<ga>M?\d{1,2})GA\b[^\n]{0,35}?\bpp?\.?\s*"
     r"(?P<start>\d{1,4})(?:\s*[-–—]\s*(?P<end>\d{1,4}))?",
@@ -91,6 +94,32 @@ HTML_TAG_RE = re.compile(r"<[^>]+>")
 ECCLESIASTICAL_WORD_RE = re.compile(
     r"\b(?:presbytery|session|church|pca|judicial\s+commission|"
     r"general\s+assembly|congregation)\b",
+    re.I,
+)
+ABBREVIATED_DOCKET_CONTEXT_RE = re.compile(
+    r"\b(?:case|cases|complaint|appeal|docket|sjc|decision|ruling|opinion|"
+    r"precedent|roc)\b|\bjudicial\s+(?:case|matter|reference)\b|"
+    r"\brecord\s+of\s+(?:the\s+)?case\b",
+    re.I,
+)
+LOW_YEAR_DOCKET_CONTEXT_RE = re.compile(
+    r"\b(?:case|cases|docket|sjc|decision|ruling(?!\s+elders?)|opinion|precedent|roc)\b|"
+    r"\bjudicial\s+(?:case|matter|reference)\b|"
+    r"\brecord\s+of\s+(?:the\s+)?case\b",
+    re.I,
+)
+NON_CASE_NUMBER_CONTEXT_RE = re.compile(
+    r"(?:\bBCO\b|B\.?\s*O\.?\s*C\.?\s*O\.?|\bBook\s+of\s+Church\s+Order\b|"
+    r"\bWCF\b|\bRAO\b|\bRPR\b|\b(?:OMSJC|SJCM)\b|\bWestminster\b|"
+    r"\b(?:chapter|section|paragraph|para\.?|par\.?|pages?|pp?\.?)\b|"
+    r"\b(?:item|specification)\b|"
+    r"\b(?:Genesis|Exodus|Leviticus|Numbers|Deuteronomy|Joshua|Judges|Ruth|"
+    r"Samuel|Kings|Chronicles|Ezra|Nehemiah|Esther|Job|Psalms?|Proverbs|"
+    r"Ecclesiastes|Isaiah|Jeremiah|Lamentations|Ezekiel|Daniel|Hosea|Joel|"
+    r"Amos|Obadiah|Jonah|Micah|Nahum|Habakkuk|Zephaniah|Haggai|Zechariah|"
+    r"Malachi|Matthew|Mark|Luke|John|Acts|Romans|Corinthians|Galatians|"
+    r"Ephesians|Philippians|Colossians|Thessalonians|Timothy|Titus|Philemon|"
+    r"Hebrews|James|Peter|Jude|Revelation)\b)",
     re.I,
 )
 SHORT_CASE_REF_RE = re.compile(
@@ -186,10 +215,13 @@ def docket_tokens(text: str, known_dockets: set[str] | None = None) -> list[str]
 
 def raw_docket_tokens(text: str, known_dockets: set[str] | None = None) -> list[tuple[str, str, int, int]]:
     """Return (surface, normalized, start, end) docket matches."""
-    visible = clean_visible(text)
+    # Keep offsets anchored to the original source line. Earlier versions
+    # scanned ``clean_visible(text)`` and then applied those shifted offsets to
+    # the Markdown line, so emphasis/link markup could make a nearby BCO/RAO
+    # guard inspect the wrong characters.
     return [
         (m.group(0), normalize_docket(m.group(0), known_dockets), m.start(), m.end())
-        for m in DOCKET_TOKEN_RE.finditer(visible)
+        for m in DOCKET_TOKEN_RE.finditer(text)
     ]
 
 
@@ -915,6 +947,55 @@ def context_window(line: str, start: int, end: int, width: int = 170) -> str:
     return normalize_space(line[max(0, start - width):min(len(line), end + width)])
 
 
+def raw_docket_is_case_reference(line: str, surface: str, start: int, end: int) -> bool:
+    """Require local case evidence for abbreviated, unstructured dockets.
+
+    Four-digit docket years are distinctive enough to stand alone. Shorter
+    forms overlap heavily with BCO/WCF/RAO provisions, Scripture, dates, vote
+    counts, and numbered items. Structured ``Case``/``SJC`` citations are
+    handled before this pass, so an abbreviated token reaching this function
+    must have nearby case-specific wording and no nearer non-case authority.
+    """
+    match = re.fullmatch(r"(\d{1,2})\s*-\s*\d{1,3}[A-Za-z]?", surface)
+    if not match:
+        return True
+
+    before = line[:start]
+    after = line[end:min(len(line), end + 35)]
+    context_re = LOW_YEAR_DOCKET_CONTEXT_RE if int(match.group(1)) < 85 else ABBREVIATED_DOCKET_CONTEXT_RE
+    case_matches = list(context_re.finditer(before))
+    non_case_matches = list(NON_CASE_NUMBER_CONTEXT_RE.finditer(before))
+    last_case_end = case_matches[-1].end() if case_matches else -1
+    last_non_case_end = non_case_matches[-1].end() if non_case_matches else -1
+    if last_case_end <= last_non_case_end or start - last_case_end > 100:
+        return False
+    local_before = before[max(0, start - 100):]
+    if re.search(r"\b(?:vote|voted|ballot|motion\s+carried)\b", local_before, re.I):
+        return False
+    if re.search(
+        r"\b(?:January|February|March|April|May|June|July|August|September|"
+        r"October|November|December)\b[^\n]{0,30}$",
+        local_before,
+        re.I,
+    ):
+        return False
+    if before.rstrip().endswith("/") or after.lstrip().startswith("/"):
+        return False
+    if start > 0 and line[start - 1] in ".:":
+        return False
+    if re.match(r"\s*vote\b", after, re.I):
+        return False
+    if re.search(r"\b(?:approved|denied|sustained|adopted|failed)\s*$", local_before, re.I):
+        return False
+    if re.search(r"(?:^|[^A-Za-z])C\s*$", local_before):
+        return False
+    if re.search(r"\baccording\s+to\s*$", local_before, re.I):
+        return False
+    if case_matches[-1].group().casefold() == "roc" and not re.match(r"\s*,\s*pp?\.?\s*\d", after, re.I):
+        return False
+    return True
+
+
 def short_alias_false_positive(line: str, match: re.Match[str]) -> bool:
     """Reject common prose/signature shapes caught by surname-plus-number regexes."""
     if match.group("qualifier"):
@@ -983,6 +1064,13 @@ def extract_caption_after_docket(line: str, match: re.Match[str], stop_at: int |
     if not connector:
         return None
     left = tail[:connector.start()]
+    # A caption belonging to this docket must precede any minutes locator or
+    # the next semicolon-delimited citation. Without this boundary, a bare
+    # docket can incorrectly consume a later case caption on the same OCR line.
+    if re.search(r"\bM\d+GA\b", left, re.I) or ";" in left:
+        return None
+    if re.search(r"\.\s+(?:also|the|this|see|similarly|however)\b", left, re.I):
+        return None
     left = re.sub(r"^[\s,:;–—-]+", "", left)
     left = re.sub(r"^(?:complaints?|appeals?)\s+of\s+", "", left, flags=re.I)
     left = re.sub(r"^(?:decision|ruling|judgment)\s+in\s+", "", left, flags=re.I)
@@ -1081,7 +1169,18 @@ def caption_candidates(line: str) -> list[tuple[str, int, int]]:
         starts = {boundaries[-1].end()} if boundaries else {0}
         right_limit = min(len(line), connector.end() + 160)
         right = line[connector.end():right_limit]
-        right = re.split(r"\s*(?:\(|\)|;|,|\bM\d+GA\b|\bStatus\s*:|\bthe\s+\d+(?:st|nd|rd|th)\s+General\b|\s+(?:TE|RE|REV\.?|MR\.?|MRS\.?|MS\.?|DEACON)\s+[A-Z])", right, maxsplit=1, flags=re.I)[0]
+        right = re.split(
+            r"\s*(?:\(|\)|;|,|\bM\d+GA\b|\bStatus\s*:|"
+            r"\bthe\s+\d+(?:st|nd|rd|th)\s+General\b|"
+            r"\s+(?:TE|RE|REV\.?|MR\.?|MRS\.?|MS\.?|DEACON)\s+[A-Z]|"
+            r"(?<!\b[A-Z])\.(?:\d+)?\s+(?=[A-Z])|"
+            r"\s+(?:WHEREAS|Grounds|concerned|stemmed|established|"
+            r"case\s+(?:it|was|noted|established)|was\s+(?:a|the)|"
+            r"(?:They|It|That|This)\s+(?:are|is|was)|but\b|while\b|can\b))",
+            right,
+            maxsplit=1,
+            flags=re.I,
+        )[0]
         for start in sorted(starts):
             left_part = left[start:].strip(" \t,:;–—-()")
             left_part = re.sub(r"^(?:complaints?|appeals?)\s+of\s+", "", left_part, flags=re.I)
@@ -1094,6 +1193,99 @@ def caption_candidates(line: str) -> list[tuple[str, int, int]]:
                 continue
             out.append((surface, actual_start, min(len(line), actual_end)))
     return list(dict.fromkeys(sorted(out, key=lambda x: (x[1], -(x[2] - x[1])))))
+
+
+def caption_candidate_is_case_like(line: str, start: int, surface: str) -> bool:
+    """Require case-shaped evidence on the caption's right side or just before it.
+
+    An ecclesiastical word anywhere in a 300-character candidate window is too
+    permissive: ordinary comparisons such as ``liberal vs. conservative`` can
+    occur in the same sentence as ``PCA`` or ``Session``. Actual captions in
+    this corpus ordinarily name the court on the right, while abbreviated
+    captions are introduced by explicit case language.
+    """
+    connector = CAPTION_CONNECTOR_RE.search(surface)
+    if not connector:
+        return False
+    right = surface[connector.end():]
+    if ECCLESIASTICAL_WORD_RE.search(right):
+        return True
+    before = line[max(0, start - 55):start]
+    return bool(re.search(r"\b(?:case|cases|sjc|judicial|docket)\b", before, re.I))
+
+
+def interval_distance(first_start: int, first_end: int, second_start: int, second_end: int) -> int:
+    if first_end < second_start:
+        return second_start - first_end
+    if second_end < first_start:
+        return first_start - second_end
+    return 0
+
+
+def nearby_caption_evidence(
+    line: str,
+    start: int,
+    end: int,
+    docket_map: dict[str, set[str]],
+    minutes_map: dict[tuple[int, int], set[str]],
+    known_dockets: set[str],
+    source_year: int | None,
+) -> tuple[str, list[str], list[str]] | None:
+    """Return a unique target supplied by the nearest docket/minutes locator.
+
+    This is intentionally local rather than line-wide. Some OCR paragraphs
+    contain several distinct citations on one physical line; assigning every
+    caption to the line's only resolved target can silently join unrelated
+    cases. The nearest evidence must be within 100 characters, resolve to one
+    registry decision, and beat any competing target at the same distance.
+    """
+    connectors = list(CAPTION_CONNECTOR_RE.finditer(line, start, end))
+    if len(connectors) != 1:
+        return None
+    connector = connectors[0]
+    anchor_start, anchor_end = connector.span()
+    evidence: list[tuple[int, str | None, str, str | None]] = []
+    for surface, normalized, evidence_start, evidence_end in raw_docket_tokens(line, known_dockets):
+        if not raw_docket_is_case_reference(line, surface, evidence_start, evidence_end):
+            continue
+        docket_year = int(normalized.split("-", 1)[0]) if re.match(r"^\d{4}-", normalized) else None
+        if docket_year and source_year and docket_year > source_year:
+            continue
+        targets = docket_map.get(normalized, set())
+        evidence.append((
+            interval_distance(anchor_start, anchor_end, evidence_start, evidence_end),
+            next(iter(targets)) if len(targets) == 1 else None,
+            "docket-context",
+            normalized,
+        ))
+
+    for match in MINUTES_REF_RE.finditer(line):
+        ga = int(match.group("ga").lstrip("Mm"))
+        first_page = int(match.group("start"))
+        last_page = int(match.group("end") or first_page)
+        targets = resolve_minutes(ga, first_page, last_page, minutes_map)
+        evidence.append((
+            interval_distance(anchor_start, anchor_end, match.start(), match.end()),
+            next(iter(targets)) if len(targets) == 1 else None,
+            "minutes-context",
+            None,
+        ))
+
+    if not evidence:
+        return None
+    nearest_distance = min(item[0] for item in evidence)
+    if nearest_distance > 100:
+        return None
+    nearest = [item for item in evidence if item[0] == nearest_distance]
+    if any(item[1] is None for item in nearest):
+        return None
+    targets = {item[1] for item in nearest}
+    if len(targets) != 1:
+        return None
+    target = next(iter(targets))
+    signals = list(dict.fromkeys(item[2] for item in nearest if item[1] == target))
+    cited_dockets = list(dict.fromkeys(item[3] for item in nearest if item[1] == target and item[3]))
+    return target, signals, cited_dockets
 
 
 def is_identity_heading(line: str, source: str, by_id: dict[str, dict[str, Any]], line_no: int, known_dockets: set[str] | None = None) -> bool:
@@ -1167,11 +1359,15 @@ def scan_references(registry: list[dict[str, Any]]) -> tuple[list[dict[str, Any]
         "structured_units": 0,
         "learned_aliases": 0,
         "compound_docket_units_decomposed": 0,
+        "abbreviated_docket_non_case_filtered": 0,
+        "abbreviated_docket_non_case_examples": [],
+        "future_docket_mentions_filtered": 0,
     }
 
     for page in sorted(CASES_DIR.glob("*.md")):
         source = canonical_id(page.stem, by_id)
         source_ds = source_dockets(source, by_id)
+        source_file = page.relative_to(ROOT).as_posix()
         lines = page.read_text(encoding="utf-8").splitlines()
         start_ix = 0
         for i, line in enumerate(lines):
@@ -1271,7 +1467,7 @@ def scan_references(registry: list[dict[str, Any]]) -> tuple[list[dict[str, Any]
                     if minutes_targets and minutes_targets != {target}:
                         ambiguity_details["minutes_targets"] = sorted(minutes_targets)
                     add_occurrence(
-                        resolved, seen_resolved, source_decision=source, source_file=str(page.relative_to(ROOT)), source_ds=source_ds,
+                        resolved, seen_resolved, source_decision=source, source_file=source_file, source_ds=source_ds,
                         target=target, target_dockets=source_dockets(target, by_id), cited_dockets=cited_norm, surface=surface,
                         match_type=match_type, signals=signals,
                         confidence=0.98 if ambiguity_details else (1.0 if caption_targets or minutes_targets else 0.98),
@@ -1281,7 +1477,7 @@ def scan_references(registry: list[dict[str, Any]]) -> tuple[list[dict[str, Any]
                     if caption:
                         entry = by_id[target]
                         before = len(entry["aliases_observed"])
-                        harvested_alias(entry, caption, str(page.relative_to(ROOT)), line_no, cited_norm[0] if cited_norm else None)
+                        harvested_alias(entry, caption, source_file, line_no, cited_norm[0] if cited_norm else None)
                         stats["learned_aliases"] += int(len(entry["aliases_observed"]) > before)
                     continue
 
@@ -1306,7 +1502,7 @@ def scan_references(registry: list[dict[str, Any]]) -> tuple[list[dict[str, Any]
                         if minutes_targets and not minutes_targets <= compound_targets:
                             ambiguity_details["minutes_targets"] = sorted(minutes_targets)
                         add_occurrence(
-                            resolved, seen_resolved, source_decision=source, source_file=str(page.relative_to(ROOT)), source_ds=source_ds,
+                            resolved, seen_resolved, source_decision=source, source_file=source_file, source_ds=source_ds,
                             target=target, target_dockets=source_dockets(target, by_id), cited_dockets=docket_target_groups[target], surface=surface,
                             match_type="docket_caption_minutes" if caption and minutes_match else ("docket_caption" if caption else ("docket_minutes" if minutes_match else "docket")),
                             signals=signals, confidence=0.98 if ambiguity_details else 1.0, line_no=line_no,
@@ -1316,7 +1512,7 @@ def scan_references(registry: list[dict[str, Any]]) -> tuple[list[dict[str, Any]
                             entry = by_id[target]
                             before = len(entry["aliases_observed"])
                             cited_docket = docket_target_groups[target][0]
-                            harvested_alias(entry, caption, str(page.relative_to(ROOT)), line_no, cited_docket)
+                            harvested_alias(entry, caption, source_file, line_no, cited_docket)
                             stats["learned_aliases"] += int(len(entry["aliases_observed"]) > before)
                     continue
 
@@ -1329,7 +1525,7 @@ def scan_references(registry: list[dict[str, Any]]) -> tuple[list[dict[str, Any]
                     "missing_dockets": missing_dockets,
                 }
                 add_occurrence(
-                    unresolved, seen_unresolved, source_decision=source, source_file=str(page.relative_to(ROOT)), source_ds=source_ds,
+                    unresolved, seen_unresolved, source_decision=source, source_file=source_file, source_ds=source_ds,
                     target=None, target_dockets=cited_norm, cited_dockets=cited_norm, surface=surface,
                     match_type="docket_caption_conflict" if caption and len(union) > 1 else "docket_unresolved",
                     signals=signals, confidence=0.35 if len(union) > 1 else 0.2,
@@ -1340,6 +1536,18 @@ def scan_references(registry: list[dict[str, Any]]) -> tuple[list[dict[str, Any]
             for surface, normalized, start, end in raw_docket_tokens(line, known_dockets):
                 if any(a <= start < b or a < end <= b for a, b in occupied):
                     continue
+                if not raw_docket_is_case_reference(line, surface, start, end):
+                    stats["abbreviated_docket_non_case_filtered"] += 1
+                    if len(stats["abbreviated_docket_non_case_examples"]) < 20:
+                        stats["abbreviated_docket_non_case_examples"].append(
+                            {"source_file": source_file, "line": line_no, "surface_text": surface}
+                        )
+                    continue
+                docket_year = int(normalized.split("-", 1)[0]) if re.match(r"^\d{4}-", normalized) else None
+                source_year = by_id.get(source, {}).get("year")
+                if docket_year and source_year and docket_year > int(source_year):
+                    stats["future_docket_mentions_filtered"] += 1
+                    continue
                 targets = docket_map.get(normalized, set())
                 if len(targets) != 1:
                     continue
@@ -1347,7 +1555,7 @@ def scan_references(registry: list[dict[str, Any]]) -> tuple[list[dict[str, Any]
                 prefix = line[max(0, start - 55):start]
                 explicit = bool(re.search(r"\b(?:case|cases|sjc|judicial|docket|decision|ruling|no\.?)\b", prefix, re.I))
                 add_occurrence(
-                    resolved, seen_resolved, source_decision=source, source_file=str(page.relative_to(ROOT)), source_ds=source_ds,
+                    resolved, seen_resolved, source_decision=source, source_file=source_file, source_ds=source_ds,
                     target=target, target_dockets=source_dockets(target, by_id), cited_dockets=[normalized], surface=surface, match_type="docket_explicit" if explicit else "docket_known",
                     signals=["docket"], confidence=0.99 if explicit else 0.95, line_no=line_no,
                     context=context_window(line, start, end),
@@ -1359,25 +1567,49 @@ def scan_references(registry: list[dict[str, Any]]) -> tuple[list[dict[str, Any]
             for surface, start, end in caption_candidates(line):
                 if any(start < b and end > a for a, b in occupied):
                     continue
+                case_like = caption_candidate_is_case_like(line, start, surface)
                 targets: set[str] = set()
                 for key in caption_keys(surface):
                     targets.update(alias_map.get(key, set()))
+                nearby = nearby_caption_evidence(
+                    line,
+                    start,
+                    end,
+                    docket_map,
+                    minutes_map,
+                    known_dockets,
+                    int(by_id[source]["year"]) if by_id.get(source, {}).get("year") else None,
+                ) if case_like and len(targets) != 1 else None
                 if len(targets) == 1:
                     target = next(iter(targets))
                     add_occurrence(
-                        resolved, seen_resolved, source_decision=source, source_file=str(page.relative_to(ROOT)), source_ds=source_ds,
+                        resolved, seen_resolved, source_decision=source, source_file=source_file, source_ds=source_ds,
                         target=target, target_dockets=source_dockets(target, by_id), surface=surface, match_type="caption",
                         signals=["caption"], confidence=0.96, line_no=line_no, context=context_window(line, start, end),
                     )
+                elif nearby:
+                    target, context_signals, cited_dockets = nearby
+                    add_occurrence(
+                        resolved, seen_resolved, source_decision=source, source_file=source_file, source_ds=source_ds,
+                        target=target, target_dockets=source_dockets(target, by_id), cited_dockets=cited_dockets,
+                        surface=surface, match_type="caption_contextual", signals=["caption", *context_signals],
+                        confidence=0.95, line_no=line_no, context=context_window(line, start, end),
+                        ambiguity={"caption_targets": sorted(targets)} if targets else None,
+                    )
+                    entry = by_id[target]
+                    before = len(entry["aliases_observed"])
+                    harvested_alias(entry, surface, source_file, line_no, cited_dockets[0] if cited_dockets else None)
+                    stats["learned_aliases"] += int(len(entry["aliases_observed"]) > before)
+                    stats["captions_resolved_from_local_evidence"] = stats.get("captions_resolved_from_local_evidence", 0) + 1
                 elif len(targets) > 1:
                     add_occurrence(
-                        unresolved, seen_unresolved, source_decision=source, source_file=str(page.relative_to(ROOT)), source_ds=source_ds,
+                        unresolved, seen_unresolved, source_decision=source, source_file=source_file, source_ds=source_ds,
                         target=None, target_dockets=[], surface=surface, match_type="caption_ambiguous", signals=["caption"], confidence=0.35,
                         line_no=line_no, context=context_window(line, start, end), ambiguity={"caption_targets": sorted(targets)},
                     )
-                elif ECCLESIASTICAL_WORD_RE.search(surface) or re.search(r"\b(?:case|sjc|judicial|docket)\b", line[max(0, start - 40):start], re.I):
+                elif case_like:
                     add_occurrence(
-                        unresolved, seen_unresolved, source_decision=source, source_file=str(page.relative_to(ROOT)), source_ds=source_ds,
+                        unresolved, seen_unresolved, source_decision=source, source_file=source_file, source_ds=source_ds,
                         target=None, target_dockets=[], surface=surface, match_type="caption_unresolved", signals=["caption"], confidence=0.25,
                         line_no=line_no, context=context_window(line, start, end),
                     )
@@ -1399,13 +1631,13 @@ def scan_references(registry: list[dict[str, Any]]) -> tuple[list[dict[str, Any]
                 if len(targets) == 1:
                     target = next(iter(targets))
                     add_occurrence(
-                        resolved, seen_resolved, source_decision=source, source_file=str(page.relative_to(ROOT)), source_ds=source_ds,
+                        resolved, seen_resolved, source_decision=source, source_file=source_file, source_ds=source_ds,
                         target=target, target_dockets=source_dockets(target, by_id), surface=surface, match_type="minutes",
                         signals=["minutes"], confidence=0.92, line_no=line_no, context=context_window(line, m.start(), m.end()),
                     )
                 elif targets:
                     add_occurrence(
-                        unresolved, seen_unresolved, source_decision=source, source_file=str(page.relative_to(ROOT)), source_ds=source_ds,
+                        unresolved, seen_unresolved, source_decision=source, source_file=source_file, source_ds=source_ds,
                         target=None, target_dockets=[], surface=surface, match_type="minutes_ambiguous", signals=["minutes"], confidence=0.3,
                         line_no=line_no, context=context_window(line, m.start(), m.end()), ambiguity={"minutes_targets": sorted(targets)},
                     )
@@ -1422,7 +1654,7 @@ def scan_references(registry: list[dict[str, Any]]) -> tuple[list[dict[str, Any]
                 surface = m.group(0)
                 if short_alias_false_positive(line, m):
                     stats.setdefault("false_positive_scan_exclusions", []).append({
-                        "source_file": str(page.relative_to(ROOT)),
+                        "source_file": source_file,
                         "line": line_no,
                         "surface_text": surface,
                         "reason": "signature, address, citation, page-count, date, or ordinary prose shape",
@@ -1432,7 +1664,7 @@ def scan_references(registry: list[dict[str, Any]]) -> tuple[list[dict[str, Any]
                 if m.group("qualifier") and len(targets) == 1:
                     target = next(iter(targets))
                     add_occurrence(
-                        resolved, seen_resolved, source_decision=source, source_file=str(page.relative_to(ROOT)), source_ds=source_ds,
+                        resolved, seen_resolved, source_decision=source, source_file=source_file, source_ds=source_ds,
                         target=target, target_dockets=source_dockets(target, by_id), cited_dockets=[], surface=surface,
                         match_type="alias", signals=["alias"], confidence=0.9, line_no=line_no,
                         context=context_window(line, m.start(), m.end()),
@@ -1446,14 +1678,14 @@ def scan_references(registry: list[dict[str, Any]]) -> tuple[list[dict[str, Any]
                         "source": "case-reference-scan",
                         "observed_exact": True,
                         "safe_for_matching": False,
-                        "source_file": str(page.relative_to(ROOT)),
+                        "source_file": source_file,
                         "line": line_no,
                     }
                     if record not in entry.setdefault("alias_provenance", []):
                         entry["alias_provenance"].append(record)
                     continue
                 add_occurrence(
-                    unresolved, seen_unresolved, source_decision=source, source_file=str(page.relative_to(ROOT)), source_ds=source_ds,
+                    unresolved, seen_unresolved, source_decision=source, source_file=source_file, source_ds=source_ds,
                     target=None, target_dockets=[], surface=surface, match_type="short_alias", signals=["alias"], confidence=0.2,
                     line_no=line_no, context=context_window(line, m.start(), m.end()), ambiguity={"surname_targets": sorted(targets)},
                 )
@@ -1772,6 +2004,7 @@ def write_report(registry: list[dict[str, Any]], candidates: list[dict[str, Any]
         f"- Resolved occurrences: **{len(candidates)}** ({pct(len(candidates), total)})",
         f"- Resolved by docket signal: **{resolved_docket}** ({pct(resolved_docket, total)})",
         f"- Resolved by caption signal: **{resolved_caption}** ({pct(resolved_caption, total)})",
+        f"- Caption occurrences resolved from a unique nearby docket or Minutes locator: **{stats.get('captions_resolved_from_local_evidence', 0)}**",
         f"- Caption-only occurrences resolved from aliases learned in docket citations: **{stats.get('caption_resolved_from_learned_aliases', 0)}**",
         f"- Resolved by minutes signal: **{resolved_minutes}** ({pct(resolved_minutes, total)})",
         f"- Unresolved/ambiguous occurrences: **{len(unresolved)}** ({pct(len(unresolved), total)})",
@@ -1790,7 +2023,7 @@ def write_report(registry: list[dict[str, Any]], candidates: list[dict[str, Any]
         lines.append(f"| {form} | {forms.get(form, 0)} | {display_example(candidates + unresolved, form) or '—'} |")
     lines += [
         "",
-        "Docket-only includes explicit `Case`/`SJC` forms and known docket tokens whose surrounding prose is less explicit. Ordinary BCO references such as `BCO 31-2` are not in the docket map and are therefore not resolved as cases.",
+        "Docket-only includes explicit `Case`/`SJC` forms and known docket tokens whose surrounding prose is less explicit. Abbreviated forms require local case-specific wording; BCO/WCF/RAO provisions, Scripture, page ranges, dates, vote counts, and numbered items are filtered even when their digits coincide with a registered docket.",
         "",
         "### Match classifications",
         "",
@@ -1859,6 +2092,8 @@ def write_report(registry: list[dict[str, Any]], candidates: list[dict[str, Any]
         f"- Unique normalized alias collision keys: **{len(collisions)}**",
         f"- Alias collision records across registry entries: **{sum(len(e.get('alias_collisions', [])) for e in registry)}**",
         f"- BCO-like non-case references observed and intentionally excluded: **{stats.get('bco_like_mentions', 0)}**",
+        f"- Abbreviated non-case numeric forms filtered before docket resolution: **{stats.get('abbreviated_docket_non_case_filtered', 0)}**",
+        f"- Numerically valid but chronologically impossible future-docket mentions filtered: **{stats.get('future_docket_mentions_filtered', 0)}**",
         f"- Caption-like X-v-Y windows filtered because they did not look ecclesiastical and did not match an observed alias: **{stats.get('caption_like_filtered', 0)}**",
         f"- Caption-like filtered examples: {', '.join('`' + x + '`' for x in stats.get('caption_like_filtered_examples', [])[:8]) or '—'}",
         f"- Line-addressed review overrides applied: **{stats.get('review_overrides_applied', 0)}** of {stats.get('review_overrides_total', 0)}",

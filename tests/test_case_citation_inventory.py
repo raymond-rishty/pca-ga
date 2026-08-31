@@ -31,6 +31,25 @@ class CaseCitationInventoryTests(unittest.TestCase):
         self.assertEqual(MODULE.docket_tokens("Case 01-34", {"2001-34"}), ["2001-34"])
         self.assertEqual(MODULE.docket_tokens("Case 1-34", {"2001-34"}), ["1-34"])
 
+    def test_abbreviated_dockets_require_local_case_context(self):
+        known = {"2001-34", "2002-3", "2018-3", "1990-9"}
+
+        def is_case_reference(line):
+            surface, _, start, end = MODULE.raw_docket_tokens(line, known)[-1]
+            return MODULE.raw_docket_is_case_reference(line, surface, start, end)
+
+        self.assertTrue(is_case_reference("See ROC 01-34, p. 4 for the underlying complaint."))
+        self.assertTrue(is_case_reference("The panel proceeded to consideration of complaint 90-9."))
+        self.assertFalse(is_case_reference("The Book of Church Order (B.O.C.O.) cites 18-3."))
+        self.assertFalse(is_case_reference("The vote on the motion was 18-3."))
+        self.assertFalse(is_case_reference("The SJC approved the Decision on the following 18-3 vote."))
+        self.assertFalse(is_case_reference("The meeting occurred January 16-17, 1978."))
+        self.assertFalse(is_case_reference("See 1 Timothy 2:11-12."))
+        self.assertFalse(is_case_reference("This judicial case discusses RAO 18-3."))
+        self.assertFalse(is_case_reference("- **B.** This case discusses BCO 18-3."))
+        self.assertFalse(is_case_reference("The case was assigned to a judicial commission according to 18-3."))
+        self.assertFalse(is_case_reference("See Decision at 6.18-3."))
+
     def test_caption_normalization_is_limited_to_demonstrated_variants(self):
         forms = [
             "Hann v. Pee Dee Presbytery",
@@ -54,6 +73,46 @@ class CaseCitationInventoryTests(unittest.TestCase):
                 "1986, Gentry et al. vs Calvary Presbytery",
             ],
         )
+
+    def test_caption_candidates_reject_numbered_abbreviations_and_generic_comparisons(self):
+        self.assertEqual(MODULE.caption_candidates("The Session of V7PC adopted the motion."), [])
+        self.assertEqual(MODULE.caption_candidates("The Session of V 7PC adopted the motion."), [])
+
+        evolution = "The Session discussed the matter of Evolution vs Creation."
+        surface, start, _ = MODULE.caption_candidates(evolution)[0]
+        self.assertFalse(MODULE.caption_candidate_is_case_like(evolution, start, surface))
+
+        case_line = "The decision in Smith v. Central Presbytery controls."
+        surface, start, _ = MODULE.caption_candidates(case_line)[0]
+        self.assertTrue(MODULE.caption_candidate_is_case_like(case_line, start, surface))
+
+        prose = "The decision in Smith v. Central Presbytery. The court affirmed it."
+        self.assertEqual(MODULE.caption_candidates(prose)[0][0], "Smith v. Central Presbytery")
+
+        trailer = "The decision in Smith v. Central Presbytery concerned an appeal."
+        self.assertEqual(MODULE.caption_candidates(trailer)[0][0], "Smith v. Central Presbytery")
+
+    def test_caption_context_uses_only_nearby_unique_evidence(self):
+        docket_map = {"1991-5": {"case-1991-5"}, "1995-11": {"case-1995-11"}}
+        known = set(docket_map)
+        line = "The judgment in Gunter v. Central Florida Presbytery (SJC Docket 91-5) was approved."
+        surface, start, end = MODULE.caption_candidates(line)[0]
+        self.assertEqual(
+            MODULE.nearby_caption_evidence(line, start, end, docket_map, {}, known, 1996),
+            ("case-1991-5", ["docket-context"], ["1991-5"]),
+        )
+
+        distant = "Decision Case 95-11. " + ("unrelated prose " * 10) + "Gentry v. Calvary Presbytery."
+        surface, start, end = MODULE.caption_candidates(distant)[0]
+        self.assertIsNone(MODULE.nearby_caption_evidence(distant, start, end, docket_map, {}, known, 1997))
+
+    def test_structured_caption_extraction_stops_before_later_citations(self):
+        line = (
+            "Lee v. Korean Eastern Presbytery (Case No. 2010-26). Also see a report "
+            "(M10GA, page 109); Lyons v. Western Carolina."
+        )
+        match = list(MODULE.CASE_CITATION_RE.finditer(line))[0]
+        self.assertIsNone(MODULE.extract_caption_after_docket(line, match))
 
     def test_known_consolidated_and_conflicted_examples(self):
         registry = read_json("case_identity_registry.json")["entries"]
@@ -193,6 +252,8 @@ class CaseCitationInventoryTests(unittest.TestCase):
         self.assertTrue(any(x["match_type"] == "manual" and x["surface_text"] == "the Lee Case" and x["target_decision"] == "ga40_2012__2010-26" for x in candidates))
         self.assertFalse(any(x["surface_text"] == "the Lee Case" for x in unresolved))
         self.assertFalse(any(x["target_decision"] and x["surface_text"] in {"31-2", "40-5"} for x in candidates))
+        self.assertFalse(any(x["surface_text"] == "18-3" and "B.O.C.O." in x["context"] for x in candidates))
+        self.assertFalse(any(x["surface_text"] == "21-1" and "B.O.C.O." in x["context"] for x in candidates))
         self.assertFalse(any("Walter V Worsham" in x["surface_text"] and x["target_decision"] for x in candidates))
 
     def test_report_surfaces_occurrence_ambiguities_separately_from_identity_collisions(self):
@@ -206,8 +267,8 @@ class CaseCitationInventoryTests(unittest.TestCase):
         self.assertIn("### Observed ambiguous citation occurrences", report)
         self.assertIn("**0**", report)
         self.assertIn("Compound/multi-docket occurrences still needing decomposition: **9**", report)
-        self.assertIn("Evidence-backed occurrence conflicts resolved with ambiguity evidence retained: **10**", report)
-        self.assertIn("Line-addressed review overrides applied: **77** of 77", report)
+        self.assertIn("Evidence-backed occurrence conflicts resolved with ambiguity evidence retained: **9**", report)
+        self.assertIn("Line-addressed review overrides applied: **74** of 74", report)
         self.assertIn("cases/ga52_2025__2024-08.md", report)
         self.assertIn("Case 2012-08", report)
         self.assertIn("### Identity-level alias collisions (not necessarily observed citation ambiguities)", report)
