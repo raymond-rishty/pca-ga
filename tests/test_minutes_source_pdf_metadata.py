@@ -30,7 +30,7 @@ Minutes body
         normalized, changed = module.normalize_text(source, "ga48_2021.md")
 
         self.assertTrue(changed)
-        self.assertIn('source_pdf:\n  file: "48th_pcaga_2021.pdf"\nextraction:', normalized)
+        self.assertIn("source_pdf:\n  file: 48th_pcaga_2021.pdf\nextraction:", normalized)
         self.assertTrue(normalized.endswith("\nMinutes body\n"))
 
     def test_preserves_existing_source_pdf_fields(self) -> None:
@@ -68,7 +68,7 @@ Body
         normalized, changed = module.normalize_text(source, "ga21_1993.md")
 
         self.assertTrue(changed)
-        self.assertIn('source_pdf:\n  file: "21st_pcaga_1993.pdf"\n  sha256: abc123', normalized)
+        self.assertIn("source_pdf:\n  file: 21st_pcaga_1993.pdf\n  sha256: abc123", normalized)
 
     def test_refuses_conflicting_source_pdf_filename(self) -> None:
         source = """---
