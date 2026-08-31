@@ -55,7 +55,7 @@ jobs:
       - name: Test source PDF metadata normalizer
         run: python3 tests/test_minutes_source_pdf_metadata.py
       - name: Test focused Node regressions
-        run: node --test tests/source-pdf-links.test.js tests/minutes-back-to-top.test.js
+        run: node --test tests/source-pdf-links.test.js tests/minutes-back-to-top.test.js tests/minutes-page-source-pdf.test.js
       - uses: ruby/setup-ruby@v1
         with:
           ruby-version: '3.3'
