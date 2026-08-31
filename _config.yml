@@ -9,6 +9,8 @@ commonmark:
   options:
     - SMART
     - FOOTNOTES
+    # The corpus intentionally uses raw HTML anchors and page metadata comments.
+    - UNSAFE
   extensions:
     - strikethrough
     - autolink
