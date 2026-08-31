@@ -4,10 +4,11 @@
   if (document.body?.dataset.pageType !== 'volume') return;
 
   const sourceLink = document.querySelector('.source-pdf-link[href]');
-  if (!sourceLink) return;
+  const column = document.querySelector('.reading-col');
+  if (!sourceLink || !column) return;
 
   const pdfByAnchor = new Map();
-  const walker = document.createTreeWalker(document.querySelector('.reading-col'), NodeFilter.SHOW_COMMENT);
+  const walker = document.createTreeWalker(column, NodeFilter.SHOW_COMMENT);
   while (walker.nextNode()) {
     const match = walker.currentNode.nodeValue.match(/\bPAGE\s+ga=(\d+)\s+pdf_page=(\d+)\s+printed_page=([^\s]+)/i);
     if (!match) continue;
