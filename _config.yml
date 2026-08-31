@@ -30,6 +30,268 @@ defaults:
       layout: default
       render_with_liquid: false
 
+  # Restore the canonical PCA Historical Center PDF provenance stripped by the re-OCR replacement.
+  - scope:
+      path: "markdown/ga01_1973.md"
+    values:
+      source_pdf:
+        file: "1st_pcaga_1973.pdf"
+  - scope:
+      path: "markdown/ga02_1974.md"
+    values:
+      source_pdf:
+        file: "2nd_pcaga_1974.pdf"
+  - scope:
+      path: "markdown/ga03_1975.md"
+    values:
+      source_pdf:
+        file: "3rd_pcaga_1975.pdf"
+  - scope:
+      path: "markdown/ga04_1976.md"
+    values:
+      source_pdf:
+        file: "4th_pcaga_1976.pdf"
+  - scope:
+      path: "markdown/ga05_1977.md"
+    values:
+      source_pdf:
+        file: "5th_pcaga_1977.pdf"
+  - scope:
+      path: "markdown/ga06_1978.md"
+    values:
+      source_pdf:
+        file: "6th_pcaga_1978.pdf"
+  - scope:
+      path: "markdown/ga07_1979.md"
+    values:
+      source_pdf:
+        file: "7th_pcaga_1979.pdf"
+  - scope:
+      path: "markdown/ga08_1980.md"
+    values:
+      source_pdf:
+        file: "8th_pcaga_1980.pdf"
+  - scope:
+      path: "markdown/ga09_1981.md"
+    values:
+      source_pdf:
+        file: "9th_pcaga_1981.pdf"
+  - scope:
+      path: "markdown/ga10_1982.md"
+    values:
+      source_pdf:
+        file: "10th_pcaga_1982.pdf"
+  - scope:
+      path: "markdown/ga11_1983.md"
+    values:
+      source_pdf:
+        file: "11th_pcaga_1983.pdf"
+  - scope:
+      path: "markdown/ga12_1984.md"
+    values:
+      source_pdf:
+        file: "12th_pcaga_1984.pdf"
+  - scope:
+      path: "markdown/ga13_1985.md"
+    values:
+      source_pdf:
+        file: "13th_pcaga_1985.pdf"
+  - scope:
+      path: "markdown/ga14_1986.md"
+    values:
+      source_pdf:
+        file: "14th_pcaga_1986.pdf"
+  - scope:
+      path: "markdown/ga15_1987.md"
+    values:
+      source_pdf:
+        file: "15th_pcaga_1987.pdf"
+  - scope:
+      path: "markdown/ga16_1988.md"
+    values:
+      source_pdf:
+        file: "16th_pcaga_1988.pdf"
+  - scope:
+      path: "markdown/ga17_1989.md"
+    values:
+      source_pdf:
+        file: "17th_pcaga_1989.pdf"
+  - scope:
+      path: "markdown/ga18_1990.md"
+    values:
+      source_pdf:
+        file: "18th_pcaga_1990.pdf"
+  - scope:
+      path: "markdown/ga19_1991.md"
+    values:
+      source_pdf:
+        file: "19th_pcaga_1991.pdf"
+  - scope:
+      path: "markdown/ga20_1992.md"
+    values:
+      source_pdf:
+        file: "20th_pcaga_1992.pdf"
+  - scope:
+      path: "markdown/ga21_1993.md"
+    values:
+      source_pdf:
+        file: "21st_pcaga_1993.pdf"
+  - scope:
+      path: "markdown/ga22_1994.md"
+    values:
+      source_pdf:
+        file: "22nd_pcaga_1994.pdf"
+  - scope:
+      path: "markdown/ga23_1995.md"
+    values:
+      source_pdf:
+        file: "23rd_pcaga_1995.pdf"
+  - scope:
+      path: "markdown/ga24_1996.md"
+    values:
+      source_pdf:
+        file: "24th_pcaga_1996.pdf"
+  - scope:
+      path: "markdown/ga25_1997.md"
+    values:
+      source_pdf:
+        file: "25th_pcaga_1997.pdf"
+  - scope:
+      path: "markdown/ga26_1998.md"
+    values:
+      source_pdf:
+        file: "26th_pcaga_1998.pdf"
+  - scope:
+      path: "markdown/ga27_1999.md"
+    values:
+      source_pdf:
+        file: "27th_pcaga_1999.pdf"
+  - scope:
+      path: "markdown/ga28_2000.md"
+    values:
+      source_pdf:
+        file: "28th_pcaga_2000.pdf"
+  - scope:
+      path: "markdown/ga29_2001.md"
+    values:
+      source_pdf:
+        file: "29th_pcaga_2001.pdf"
+  - scope:
+      path: "markdown/ga30_2002.md"
+    values:
+      source_pdf:
+        file: "30th_pcaga_2002.pdf"
+  - scope:
+      path: "markdown/ga31_2003.md"
+    values:
+      source_pdf:
+        file: "31st_pcaga_2003.pdf"
+  - scope:
+      path: "markdown/ga32_2004.md"
+    values:
+      source_pdf:
+        file: "32nd_pcaga_2004.pdf"
+  - scope:
+      path: "markdown/ga33_2005.md"
+    values:
+      source_pdf:
+        file: "33rd_pcaga_2005.pdf"
+  - scope:
+      path: "markdown/ga34_2006.md"
+    values:
+      source_pdf:
+        file: "34th_pcaga_2006.pdf"
+  - scope:
+      path: "markdown/ga35_2007.md"
+    values:
+      source_pdf:
+        file: "35th_pcaga_2007.pdf"
+  - scope:
+      path: "markdown/ga36_2008.md"
+    values:
+      source_pdf:
+        file: "36th_pcaga_2008.pdf"
+  - scope:
+      path: "markdown/ga37_2009.md"
+    values:
+      source_pdf:
+        file: "37th_pcaga_2009.pdf"
+  - scope:
+      path: "markdown/ga38_2010.md"
+    values:
+      source_pdf:
+        file: "38th_pcaga_2010.pdf"
+  - scope:
+      path: "markdown/ga39_2011.md"
+    values:
+      source_pdf:
+        file: "39th_pcaga_2011.pdf"
+  - scope:
+      path: "markdown/ga40_2012.md"
+    values:
+      source_pdf:
+        file: "40th_pcaga_2012.pdf"
+  - scope:
+      path: "markdown/ga41_2013.md"
+    values:
+      source_pdf:
+        file: "41st_pcaga_2013.pdf"
+  - scope:
+      path: "markdown/ga42_2014.md"
+    values:
+      source_pdf:
+        file: "42nd_pcaga_2014.pdf"
+  - scope:
+      path: "markdown/ga43_2015.md"
+    values:
+      source_pdf:
+        file: "43rd_pcaga_2015.pdf"
+  - scope:
+      path: "markdown/ga44_2016.md"
+    values:
+      source_pdf:
+        file: "44th_pcaga_2016.pdf"
+  - scope:
+      path: "markdown/ga45_2017.md"
+    values:
+      source_pdf:
+        file: "45th_pcaga_2017.pdf"
+  - scope:
+      path: "markdown/ga46_2018.md"
+    values:
+      source_pdf:
+        file: "46th_pcaga_2018.pdf"
+  - scope:
+      path: "markdown/ga47_2019.md"
+    values:
+      source_pdf:
+        file: "47th_pcaga_2019.pdf"
+  - scope:
+      path: "markdown/ga48_2021.md"
+    values:
+      source_pdf:
+        file: "48th_pcaga_2021.pdf"
+  - scope:
+      path: "markdown/ga49_2022.md"
+    values:
+      source_pdf:
+        file: "49th_pcaga_2022.pdf"
+  - scope:
+      path: "markdown/ga50_2023.md"
+    values:
+      source_pdf:
+        file: "50th_pcaga_2023.pdf"
+  - scope:
+      path: "markdown/ga51_2024.md"
+    values:
+      source_pdf:
+        file: "51st_pcaga_2024.pdf"
+  - scope:
+      path: "markdown/ga52_2025.md"
+    values:
+      source_pdf:
+        file: "52nd_pcaga_2025.pdf"
+
 # keep the rendered site to the readable corpus (data files stay in the repo, just not the site).
 # NB: Jekyll matches exclude globs against the *basename* too, so a bare "*.json" would also drop
 # the root catalogue search's data file — so we exclude the data JSON by its location instead.
