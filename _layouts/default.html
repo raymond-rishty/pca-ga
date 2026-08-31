@@ -58,6 +58,9 @@
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Crimson+Pro:ital,wght@0,300;0,400;0,500;0,600;1,300;1,400&family=DM+Sans:wght@300;400;500&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="{{ '/assets/pca-style.css' | relative_url }}">
+  {% if page_type == 'volume' %}
+    <link rel="stylesheet" href="{{ '/assets/minutes-back-to-top.css' | relative_url }}">
+  {% endif %}
   {% if page_type == 'case' %}
     <link rel="stylesheet" href="{{ '/assets/sticky-record-context.css' | relative_url }}">
   {% endif %}
@@ -230,6 +233,9 @@
 
   <script src="{{ '/assets/research-store.js' | relative_url }}"></script>
   <script src="{{ '/assets/pca-nav.js' | relative_url }}"></script>
+  {% if page_type == 'volume' %}
+    <script src="{{ '/assets/minutes-back-to-top.js' | relative_url }}"></script>
+  {% endif %}
   {% if page_type == 'case' %}
     <script src="{{ '/assets/sticky-record-context.js' | relative_url }}"></script>
   {% endif %}
