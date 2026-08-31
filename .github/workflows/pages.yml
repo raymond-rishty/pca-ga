@@ -2,6 +2,8 @@ name: Build and deploy Pages
 on:
   push:
     branches: [main]
+  pull_request:
+    branches: [main]
 
 permissions:
   contents: read
@@ -23,9 +25,9 @@ jobs:
         id: overture-source
         shell: bash
         env:
-          BEFORE: ${{ github.event.before }}
+          BEFORE: ${{ github.event.pull_request.base.sha || github.event.before }}
         run: |
-          if [[ "$BEFORE" == "0000000000000000000000000000000000000000" ]]; then
+          if [[ -z "$BEFORE" || "$BEFORE" == "0000000000000000000000000000000000000000" ]]; then
             echo "changed=true" >> "$GITHUB_OUTPUT"
             exit 0
           fi
@@ -114,6 +116,7 @@ jobs:
           path: _site
 
   deploy:
+    if: github.event_name == 'push'
     needs: build
     runs-on: ubuntu-latest
     environment:
