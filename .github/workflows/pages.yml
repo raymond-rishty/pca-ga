@@ -54,8 +54,12 @@ jobs:
           python3 scripts/ensure_minutes_source_pdf_metadata.py --check
       - name: Test source PDF metadata normalizer
         run: python3 tests/test_minutes_source_pdf_metadata.py
-      - name: Validate extracted source registry
-        run: python3 scripts/build_source_registry.py . --check
+      - name: Rebuild and validate extracted source registry
+        run: |
+          # Overture regeneration above can update the authoritative body index.
+          # Refresh the derived registry before validating and rendering links.
+          python3 scripts/build_source_registry.py . --write
+          python3 scripts/build_source_registry.py . --check
       - name: Test extracted source PDF metadata
         run: python3 tests/test_extracted_source_pdf_metadata.py
       - name: Test source registry

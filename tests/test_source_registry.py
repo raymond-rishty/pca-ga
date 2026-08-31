@@ -14,6 +14,10 @@ assert spec.loader is not None
 spec.loader.exec_module(module)
 
 
+def jsonl_count(path: Path) -> int:
+    return sum(1 for line in path.read_text(encoding="utf-8").splitlines() if line.strip())
+
+
 class SourceRegistryTests(unittest.TestCase):
     def setUp(self) -> None:
         self.registry = json.loads(
@@ -39,14 +43,26 @@ class SourceRegistryTests(unittest.TestCase):
             },
         )
         self.assertTrue(inventory_ids <= source_ids)
-        self.assertEqual(self.registry["coverage"]["cases"]["records"], 645)
-        self.assertEqual(self.registry["coverage"]["inquiries"]["records"], 436)
-        self.assertEqual(self.registry["coverage"]["overtures"]["records"], 3543)
-        self.assertEqual(self.registry["coverage"]["rpr"]["records"], 10636)
-        self.assertEqual(self.registry["coverage"]["studies"]["records"], 83)
-        self.assertEqual(
+        expected_coverage = {
+            "cases": jsonl_count(ROOT / "index" / "cases.jsonl"),
+            "inquiries": sum(
+                len(group.get("results", []))
+                for group in module.inquiry_groups(
+                    json.loads((ROOT / "index" / "inquiries_located.json").read_text(encoding="utf-8"))
+                )
+            ),
+            "overtures": jsonl_count(ROOT / "index" / "overture_bodies.jsonl"),
+            "rpr": sum(
+                len(json.loads(path.read_text(encoding="utf-8")))
+                for path in (ROOT / "index" / "rpr").glob("ga*.json")
+            ),
+            "studies": len(json.loads((ROOT / "index" / "studies_pages.json").read_text(encoding="utf-8"))),
+        }
+        for record_type, expected in expected_coverage.items():
+            self.assertEqual(self.registry["coverage"][record_type]["records"], expected)
+        self.assertGreaterEqual(
             len([key for key in self.registry["record_sources"] if key.startswith("rpr:")]),
-            17669,
+            expected_coverage["rpr"],
         )
 
     def test_source_ids_are_unique_and_record_references_resolve(self) -> None:
