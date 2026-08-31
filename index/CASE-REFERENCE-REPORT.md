@@ -24,16 +24,17 @@ A canonical `decision_id` identifies one adjudicated decision. `case_file` remai
 
 ## Candidate resolution
 
-- Candidate occurrences: **3496**
-- Resolved occurrences: **3322** (95.0%)
-- Resolved by docket signal: **3133** (89.6%)
-- Resolved by caption signal: **278** (8.0%)
-- Caption-only occurrences resolved from aliases learned in docket citations: **5**
-- Resolved by minutes signal: **159** (4.5%)
-- Unresolved/ambiguous occurrences: **174** (5.0%)
+- Candidate occurrences: **1998**
+- Resolved occurrences: **1897** (94.9%)
+- Resolved by docket signal: **1650** (82.6%)
+- Resolved by caption signal: **333** (16.7%)
+- Caption occurrences resolved from a unique nearby docket or Minutes locator: **57**
+- Caption-only occurrences resolved from aliases learned in docket citations: **2**
+- Resolved by minutes signal: **159** (8.0%)
+- Unresolved/ambiguous occurrences: **101** (5.1%)
 - Compound docket units decomposed into decision-level occurrences: **56**
-- Self-reference occurrences retained for audit: **641**
-- Unique non-self directed decision edges: **1576**
+- Self-reference occurrences retained for audit: **633**
+- Unique non-self directed decision edges: **834**
 
 Percentages use candidate occurrences as the denominator; a combined docket/caption/minutes occurrence contributes to each applicable signal count.
 
@@ -41,48 +42,44 @@ Percentages use candidate occurrences as the denominator; a combined docket/capt
 
 | Form | Occurrences | Example |
 |---|---:|---|
-| docket-only | 2906 | `18-3` (cases/ga04_1976__case1.md:L25) |
-| docket + caption | 159 | `Case 90-4 (C. E. Chappell vs. East Carolina Presbytery)` (cases/ga20_1992__1991-02.md:L48) |
+| docket-only | 1426 | `Judicial Case 90-3` (cases/ga19_1991__1990-03.md:L18) |
+| docket + caption | 156 | `Case 90-4 (C. E. Chappell vs. East Carolina Presbytery)` (cases/ga20_1992__1991-02.md:L48) |
 | docket + caption + minutes | 64 | `Case 90-8, Bowen v. Eastern Carolina, M19GA, 1991 Birmingham, Vol. 2, p. 84)` (cases/ga32_2004__2003-06.md:L79) |
 | docket + minutes | 10 | `Case No. 90- 8, M19GA, 1991, p. 84` (cases/ga20_1992__1991-05.md:L101) |
-| full/observed caption | 201 | `TE S. Michael Preg, Jr. et al. vs. Missouri Presbytery.` (cases/ga13_1985__case1.md:L19) |
+| full/observed caption | 132 | `TE S. Michael Preg, Jr. et al. vs. Missouri Presbytery.` (cases/ga13_1985__case1.md:L19) |
 | minutes-only | 41 | `M11GA, p. 140` (cases/ga14_1986__case6.md:L91) |
 | shortened reference | 61 | `the Chappell Case` (cases/ga20_1992__1991-02.md:L50) |
 | docket + caption conflict | 6 | `Case 2012-08, Complaint of RE Warren Jackson v. Northwest Georgia (M43GA, 2015, p. 568)` (cases/ga48_2021__2020-01.md:L19) |
 
-Docket-only includes explicit `Case`/`SJC` forms and known docket tokens whose surrounding prose is less explicit. Ordinary BCO references such as `BCO 31-2` are not in the docket map and are therefore not resolved as cases.
+Docket-only includes explicit `Case`/`SJC` forms and known docket tokens whose surrounding prose is less explicit. Abbreviated forms require local case-specific wording; BCO/WCF/RAO provisions, Scripture, page ranges, dates, vote counts, and numbered items are filtered even when their digits coincide with a registered docket.
 
 ### Match classifications
 
 | Classification | Occurrences |
 |---|---:|
-| resolved `docket_known` | 1650 |
-| resolved `docket` | 851 |
-| resolved `docket_explicit` | 393 |
-| resolved `docket_caption` | 159 |
-| resolved `manual` | 68 |
+| resolved `docket` | 854 |
+| resolved `docket_known` | 335 |
+| resolved `docket_explicit` | 225 |
+| resolved `docket_caption` | 156 |
+| resolved `manual` | 65 |
 | resolved `docket_caption_minutes` | 64 |
+| resolved `caption_contextual` | 57 |
 | resolved `alias` | 46 |
+| resolved `caption` | 42 |
 | resolved `minutes` | 41 |
-| resolved `caption` | 35 |
 | resolved `docket_minutes` | 10 |
-| resolved `caption_learned` | 5 |
-| unresolved `caption_unresolved` | 161 |
+| resolved `caption_learned` | 2 |
+| unresolved `caption_unresolved` | 88 |
 | unresolved `docket_unresolved` | 12 |
 | unresolved `short_alias` | 1 |
 
 ## High-value QA examples
 
 ### Evans (2023-07)
-- `23-1` → `ga51_2024__2023-01` (docket_known, line 19)
-- `13-2` → `ga42_2014__stub_2013-02` (docket_known, line 23)
 - `SJC Cases 2019-10 & 2019-12 in M48GA, pp. 771-779` → `ga48_2021__2019-10_2019-12` (docket_minutes, line 27)
-- `13-2` → `ga42_2014__stub_2013-02` (docket_known, line 73)
-- `13-2` → `ga42_2014__stub_2013-02` (docket_known, line 113)
 - `Case No. 2023-07: Appeal of TE John Evans v. Arizona Presbytery` → `ga51_2024__2023-07` (docket_caption, line 167)
 - `Case No. 2023-07: Appeal of TE Evans v. Arizona` → `ga51_2024__2023-07` (docket_caption, line 181)
 - `Case No. 2023-07: Appeal of TE Evans v. Arizona` → `ga51_2024__2023-07` (docket_caption, line 243)
-- `13-2` → `ga42_2014__stub_2013-02` (docket_known, line 352)
 
 ### Bigelow (2024-08)
 - `Case 2023-01: Hann v. Pee Dee Presbytery (M51GA, 2024, p. 2024)` → `ga51_2024__2023-01` (docket_caption_minutes, line 21)
@@ -124,16 +121,18 @@ The Wills footnote in `cases/ga46_2018__2017-01.md:L334` is now decomposed into 
 
 ## Ambiguity and false-positive audit
 
-- **Observed ambiguous citation occurrences:** **0** of 174 unresolved occurrences (0.0% of all candidates). These have competing registered decision targets or explicitly conflicting docket/caption evidence.
+- **Observed ambiguous citation occurrences:** **0** of 101 unresolved occurrences (0.0% of all candidates). These have competing registered decision targets or explicitly conflicting docket/caption evidence.
 - Compound/multi-docket occurrences still needing decomposition: **9**. **9** are explicit lists such as `Cases 92-7 and 92-8` and are not identity ambiguities.
-- Unresolved occurrences without competing registered targets: **165**. These are missing/unrecognized dockets or captions, or shorthand that remains outside the automatic linker until further evidence is recorded.
+- Unresolved occurrences without competing registered targets: **92**. These are missing/unrecognized dockets or captions, or shorthand that remains outside the automatic linker until further evidence is recorded.
 - Unique normalized alias collision keys: **202**
-- Alias collision records across registry entries: **486**
+- Alias collision records across registry entries: **490**
 - BCO-like non-case references observed and intentionally excluded: **5244**
-- Caption-like X-v-Y windows filtered because they did not look ecclesiastical and did not match an observed alias: **110**
-- Caption-like filtered examples: `Walter V. Worsham`, `Walter V. Worsham`, `Sincerely, Walter V. Worsham`, `TE James W. Truitt, TE Charles E. Turner, TE M. Steve Wallace, RE Charles Watson, TE Loren V. Watson`, `** V. ** Voting on Proposed Disposition: APPROVED by SJC`, `** V. ** Voting on Proposed Disposition: APPROVED by SJC`, `the original text of v. 29`, `his Works, 1979 V. 4`
-- Line-addressed review overrides applied: **77** of 77
-- Evidence-backed occurrence conflicts resolved with ambiguity evidence retained: **10**
+- Abbreviated non-case numeric forms filtered before docket resolution: **8423**
+- Numerically valid but chronologically impossible future-docket mentions filtered: **3**
+- Caption-like X-v-Y windows filtered because they did not look ecclesiastical and did not match an observed alias: **113**
+- Caption-like filtered examples: `Walter V. Worsham`, `Walter V. Worsham`, `Sincerely, Walter V. Worsham`, `TE James W. Truitt, TE Charles E. Turner, TE M. Steve Wallace, RE Charles Watson, TE Loren V. Watson`, `4. While the Session had obtained a promise that the particular matter of Evolution vs Creation would not be taught by this teacher`, `the PCUS, from which I came into the PCA, paedo-communion was a liberal vs. conservative issue`, `** V. ** Voting on Proposed Disposition: APPROVED by SJC`, `** V. ** Voting on Proposed Disposition: APPROVED by SJC`
+- Line-addressed review overrides applied: **74** of 74
+- Evidence-backed occurrence conflicts resolved with ambiguity evidence retained: **9**
 - Explicit false-positive exclusions: **29**
 
 The next section lists actual citation occurrences needing review. The identity-collision section below is broader: it records registry aliases shared by multiple decision entities even when no ambiguous citation occurrence was observed.
@@ -155,7 +154,6 @@ These occurrence-level conflicts were resolved after inspecting nearby PCA Minut
 
 | Source | Line | Surface text | Target | Original conflict | Reason |
 |---|---:|---|---|---|---|
-| `cases/ga22_1994__1993-09.md` | 14 | `William A. Conrad, et al. vs. Central Carolina Presbytery` | `ga22_1994__1993-09` (William A. Conrad, et al. v. Central Carolina Presbytery) | `caption_ambiguous` | The same sentence identifies SJC Docket 93-9, and this line is the current decision's recording-in-Minutes self-reference. |
 | `cases/ga42_2014__2011-11_2011-12_2011-15_2011-16.md` | 402 | `McNeil vs. Chesapeake Presbytery` | `ga39_2011__2009-22` (McNeil v. Chesapeake Presbytery) | `caption_ambiguous` | The same sentence explicitly introduces this caption as Case 2009-22; the caption-only candidate is a duplicate occurrence of that docketed reference. |
 | `cases/ga42_2014__2011-11_2011-12_2011-15_2011-16.md` | 462 | `the Lee Case` | `ga40_2012__2010-26` (Lee v. Korean Eastern Presbytery) | `short_alias` | The same concurring opinion explicitly identifies Lee v. Korean Eastern Presbytery as Case 2010-26 at line 382 and repeatedly refers back to it as 'the Lee' before the hypothetical example at line 462. |
 | `cases/ga48_2021__2020-01.md` | 19 | `Case 2012-08, Complaint of RE Warren Jackson v. Northwest Georgia (M43GA, 2015, p. 568)` | `ga43_2015__2013-08` (Jackson v. Northwest Georgia Presbytery) | `docket_caption_conflict` | The printed caption and M43GA p. 568 identify Jackson v. Northwest Georgia, which is the mapped 2013-08 decision; 2012-08 is a source-text docket typo for this occurrence. |
@@ -202,16 +200,16 @@ These docket values are present on more than one page entity in the existing cor
 | `sartorius v siouxlands` | `ga39_2011__2010-04` (Sartorious et al. v. Siouxlands Presbytery); `ga39_2011__stub_2010-14` (Sartorius v. Siouxlands Presbytery); `ga43_2015__2012-08` (Complaint: TE Art Sartorius vs. Siouxlands Presbytery); `ga46_2018__2016-16` (Sartorius v. Siouxlands Presbytery) |
 | `thompson v south florida` | `ga44_2016__2015-04` (Thompson v. South Florida Presbytery); `ga44_2016__2015-07` (Thompson v. South Florida Presbytery); `ga44_2016__2015-10` (Thompson v. South Florida Presbytery); `ga44_2016__2015-11` (Thompson v. South Florida Presbytery) |
 | `thompson v south florida presbytery` | `ga44_2016__2015-04` (Thompson v. South Florida Presbytery); `ga44_2016__2015-07` (Thompson v. South Florida Presbytery); `ga44_2016__2015-10` (Thompson v. South Florida Presbytery); `ga44_2016__2015-11` (Thompson v. South Florida Presbytery) |
+| `william a conrad et al v central carolina` | `ga20_1992__1992-04` (William A. Conrad, et al. v. Central Carolina Presbytery); `ga21_1993__1992-07` (Conrad et al. v. Central Carolina Presbytery (Case #2)); `ga22_1994__1993-09` (William A. Conrad, et al. v. Central Carolina Presbytery); `ga23_1995__1994-04` (William A. Conrad et al. vs. Central Carolina Presbytery) |
+| `william a conrad et al v central carolina presbytery` | `ga20_1992__1992-04` (William A. Conrad, et al. v. Central Carolina Presbytery); `ga21_1993__1992-07` (Conrad et al. v. Central Carolina Presbytery (Case #2)); `ga22_1994__1993-09` (William A. Conrad, et al. v. Central Carolina Presbytery); `ga23_1995__1994-04` (William A. Conrad et al. vs. Central Carolina Presbytery) |
 | `benyola v central florida presbytery` | `ga48_2021__2020-13` (Benyola v. Central Florida Presbytery); `ga50_2023__2022-09` (Benyola v. Central Florida Presbytery); `ga52_2025__2024-29` (Benyola v. Central Florida Presbytery) |
 | `charles kim v korean capital` | `ga30_2002__2001-01` (APPEAL OF RE CHARLES KIM VS. KOREAN CAPITAL PRESBYTERY); `ga30_2002__2001-09` (APPEAL OF RE CHARLES KIM VS. KOREAN CAPITAL PRESBYTERY); `ga30_2002__2001-10` (Charles C. Kim vs. Korean Capital Presbytery (Appeal)) |
 | `charles kim v korean capital presbytery` | `ga30_2002__2001-01` (APPEAL OF RE CHARLES KIM VS. KOREAN CAPITAL PRESBYTERY); `ga30_2002__2001-09` (APPEAL OF RE CHARLES KIM VS. KOREAN CAPITAL PRESBYTERY); `ga30_2002__2001-10` (Charles C. Kim vs. Korean Capital Presbytery (Appeal)) |
 | `eliot lee v korean eastern presbytery` | `ga36_2008__2007-01_2007-06_2007-07` (TE Eliot Lee & RE Sae H. Han v. Korean Eastern Presbytery); `ga37_2009__2007-09_2007-10` (Complaints of TE Eliot Lee vs. Korean Eastern Presbytery); `ga37_2009__2007-11` (Appeal of TE Eliot Lee vs. Korean Eastern Presbytery) |
+| `g rick marshall v pacific` | `ga42_2014__stub_2013-09` (Appeal: Mr. G. Rick Marshall vs. Pacific Presbytery .... Withdrawn); `ga43_2015__2013-03` (Marshall v. Pacific Presbytery); `ga43_2015__2013-12` (Marshall v. Pacific Presbytery) |
+| `g rick marshall v pacific presbytery` | `ga42_2014__stub_2013-09` (Appeal: Mr. G. Rick Marshall vs. Pacific Presbytery .... Withdrawn); `ga43_2015__2013-03` (Marshall v. Pacific Presbytery); `ga43_2015__2013-12` (Marshall v. Pacific Presbytery) |
 | `gonzales v great lakes` | `ga40_2012__2010-28` (Gonzales v. Great Lakes Presbytery); `ga40_2012__2011-02` (Gonzales v. Great Lakes Presbytery); `ga43_2015__2013-06` (Gonzales v. Great Lakes Presbytery) |
 | `gonzales v great lakes presbytery` | `ga40_2012__2010-28` (Gonzales v. Great Lakes Presbytery); `ga40_2012__2011-02` (Gonzales v. Great Lakes Presbytery); `ga43_2015__2013-06` (Gonzales v. Great Lakes Presbytery) |
-| `john b thompson v south florida` | `ga44_2016__2015-04` (Thompson v. South Florida Presbytery); `ga44_2016__2015-07` (Thompson v. South Florida Presbytery); `ga44_2016__2015-11` (Thompson v. South Florida Presbytery) |
-| `john b thompson v south florida presbytery` | `ga44_2016__2015-04` (Thompson v. South Florida Presbytery); `ga44_2016__2015-07` (Thompson v. South Florida Presbytery); `ga44_2016__2015-11` (Thompson v. South Florida Presbytery) |
-| `mcneil v chesapeake presbytery` | `ga39_2011__2009-22` (McNeil v. Chesapeake Presbytery); `ga39_2011__2010-03` (McNeil v. Chesapeake Presbytery); `ga40_2012__2010-01` (McNeil v. Chesapeake Presbytery) |
-| `mueller v south florida` | `ga48_2021__2019-09` (Mueller v. South Florida Presbytery); `ga52_2025__2023-23` (Complaint of Mueller v. South Florida Presbytery); `ga52_2025__2024-16` (Mueller v. South Florida Presbytery) |
 ### Common unresolved shapes
 
 | Shape | Count |
@@ -219,7 +217,6 @@ These docket values are present on more than one page entity in the existing cor
 | `docket_unresolved: Cases 2009-13, 2009-17, 2009-18, 2009-19, 2009-20` | 5 |
 | `docket_unresolved: Cases 00-6, 01-6` | 3 |
 | `caption_unresolved: 1986, Gentry et al vs. Calvary Presbytery` | 2 |
-| `caption_unresolved: Abshire v. Pacific Northwest Presbytery` | 2 |
 | `docket_unresolved: Case 1-34` | 2 |
 | `caption_unresolved: Aven/Dively v. Ohio Valley Presbytery` | 2 |
 | `caption_unresolved: Bogue, et al v. The Presbytery of the Ascension` | 2 |
@@ -229,16 +226,15 @@ These docket values are present on more than one page entity in the existing cor
 | `caption_unresolved: "Pastoral", and changing the word "Adjudicate" to "investigate". Attested Walter V. Worsham` | 1 |
 | `caption_unresolved: TE King et al. vs. Western Carolinas Presbytery` | 1 |
 | `caption_unresolved: Church, Cary, North Carolina vS. Eastern Carolina Presbytery` | 1 |
-| `caption_unresolved: Item 13-61 — "Preg et al. vs. Missouri Presbytery":... that the complaint be found in order and that the following judicial commission be elected to adjudicate the matter. The committee nom` | 1 |
-| `caption_unresolved: Kenneth L. Gentry, Jr. et al. vs. Calvary Presbytery WHEREAS` | 1 |
-| `caption_unresolved: the 8th GA Bogue vs. Ascension Presbytery case it was stated that "simply affirming that the canon is closed` | 1 |
-| `caption_unresolved: CA has declared that even the affirming, not just the practicing, of such a theological position is not permissible. The 8th General Assembly A Bogue vs. Ascension Presbytery case noted that "in his trial for ordination before the Presbytery` | 1 |
-| `caption_unresolved: Gentry, et al. vs. Calvary Presbytery. Grounds` | 1 |
+| `caption_unresolved: Item 13-61 — "Preg et al. vs. Missouri Presbytery":..` | 1 |
+| `caption_unresolved: the 8th GA Bogue vs. Ascension Presbytery` | 1 |
+| `caption_unresolved: CA has declared that even the affirming, not just the practicing, of such a theological position is not permissible. The 8th General Assembly A Bogue vs. Ascension Presbytery` | 1 |
+| `caption_unresolved: Gentry, et al. vs. Calvary Presbytery` | 1 |
 | `caption_unresolved: Bogue, et al. vs. Presbytery of the Ascension` | 1 |
 | `caption_unresolved: Gentry et al. vs. Calvary Presbytery` | 1 |
 | `caption_unresolved: RE David Lachman, et al. vs. the Session of Calvary Presbyterian Church` | 1 |
 | `caption_unresolved: Gentry versus Calvary Presbytery` | 1 |
-| `caption_unresolved: #5, Bogue et al. vs. the Presbytery of Ascension and 1986 Case #1 Gentry et al. vs Calvary Presbytery` | 1 |
+| `caption_unresolved: #5, Bogue et al. vs. the Presbytery of Ascension and 1986 Case #1 Gentry et al` | 1 |
 | `caption_unresolved: #1 Gentry et al. vs Calvary Presbytery` | 1 |
 | `caption_unresolved: 1980, Bogue et al. vs. Presbytery of Ascension` | 1 |
 | `caption_unresolved: 1986, Gentry et al. vs Calvary Presbytery` | 1 |
@@ -246,6 +242,8 @@ These docket values are present on more than one page entity in the existing cor
 | `caption_unresolved: Rayburn, et al vs. Missouri Presbytery` | 1 |
 | `caption_unresolved: 1980, Bogue et al vs. Presbytery of the Ascension` | 1 |
 | `caption_unresolved: **W.** Bogue et al., vs. members of the Presbytery of the Ascension, Complainants vs. The Presbytery of the Ascension` | 1 |
+| `caption_unresolved: **W.** Bogue et al. vs. members of the Presbytery of the Ascension` | 1 |
+| `caption_unresolved: Kenneth L. Gentry, Jr. et al. vs. Calvary Presbytery, Complainants vs. Calvary Presbytery` | 1 |
 
 ### Unresolved high-value candidates
 
@@ -303,61 +301,61 @@ These candidate shapes were excluded because the source context identifies them 
 
 | Decision | Caption | Distinct citing decisions | Occurrences |
 |---|---|---:|---:|
-| `ga42_2014__stub_2013-09` | Appeal: Mr. G. Rick Marshall vs. Pacific Presbytery .... Withdrawn | 52 | 138 |
-| `ga44_2016__2015-03` | Flesher and Weekly v. Metro Atlanta Presbytery | 41 | 67 |
-| `ga40_2012__2011-03_2011-04` | Sagan et al. v. Covenant Presbytery / Gunn et al. v. Covenant Presbytery | 38 | 100 |
-| `ga44_2016__2015-01` | Sanfacon v. Philadelphia Presbytery | 32 | 103 |
-| `ga49_2022__2021-05` | Eudaly and Light v. Southwest Florida Presbytery | 32 | 56 |
-| `ga41_2013__2012-05` | Hedman v. Pacific Northwest Presbytery | 29 | 46 |
-| `ga52_2025__2024-06` | Presbyterian Church in America v. South Coast Presbytery | 21 | 63 |
-| `ga44_2016__2015-02` | Gearhart v. Chicago Metro Presbytery | 20 | 35 |
-| `ga51_2024__2023-01` | Hann v. Pee Dee Presbytery | 18 | 42 |
-| `ga48_2021__2020-01` | COMPLAINT OF MR. PETER BENYOLA VS. CENTRAL FLORIDA PRESBYTERY | 18 | 28 |
-| `ga45_2017__2016-02` | Robertstad v. North Texas Presbytery | 18 | 29 |
-| `ga40_2012__2011-02` | Gonzales v. Great Lakes Presbytery | 17 | 24 |
-| `ga52_2025__2024-01` | Moehn v. Westminster Presbytery | 15 | 53 |
-| `ga44_2016__2015-04` | Thompson v. South Florida Presbytery | 13 | 40 |
-| `ga42_2014__2011-11_2011-12_2011-15_2011-16` | Steven Hahn v. Philadelphia Metro West Presbytery | 13 | 22 |
-| `ga48_2021__2019-01` | Dodson et al. v. Ohio Presbytery | 13 | 20 |
-| `ga43_2015__2013-06` | Gonzales v. Great Lakes Presbytery | 13 | 24 |
-| `ga42_2014__stub_2013-02` | Complaint: RE Warren Jackson vs. Northwest Georgia Presbytery | 12 | 34 |
-| `ga39_2011__2010-04` | Sartorious et al. v. Siouxlands Presbytery | 12 | 14 |
-| `ga44_2016__2015-05` | Application of Thompson v. South Florida | 12 | 16 |
-| `ga41_2013__2012-06` | Bethel v. Southeast Alabama Presbytery | 12 | 12 |
-| `ga49_2022__2021-01` | Michelson v. Northwest Georgia Presbytery | 11 | 22 |
-| `ga43_2015__2013-10` | Latimer v. Chicago Metro Presbytery | 11 | 16 |
-| `ga34_2006__stub_2006-01` | Complaint of RE Hugo Andrino vs. Southern Florida Presbytery | 11 | 11 |
-| `ga34_2006__stub_2005-07` | Complaint of RE Hugo Andrino vs. Southern Florida Presbytery | 11 | 11 |
+| `ga34_2006__stub_2006-03` | Memorial of Calvary v. Louisiana | 11 | 11 |
+| `ga34_2006__stub_2005-06` | Complaint of RE Hugo Andrino vs. Southern Florida Presbytery | 10 | 10 |
+| `ga34_2006__stub_2005-07` | Complaint of RE Hugo Andrino vs. Southern Florida Presbytery | 10 | 10 |
+| `ga34_2006__stub_2005-10` | ga34_2006__stub_2005-10 | 10 | 10 |
+| `ga34_2006__stub_2005-11` | Complaint of RE Hugo Andrino vs. Southern Florida Presbytery | 10 | 10 |
+| `ga34_2006__stub_2005-12` | Complaint of TE Peter B. Kim vs. Korean Eastern Presbytery | 10 | 10 |
+| `ga34_2006__stub_2005-13` | Zaepfel v. Central Carolina | 10 | 10 |
+| `ga34_2006__stub_2006-01` | Complaint of RE Hugo Andrino vs. Southern Florida Presbytery | 10 | 10 |
+| `ga29_2001__stub_2001-05` | Ham v. Korean Capital | 9 | 9 |
+| `ga21_1993__1992-09b` | Overman v. Eastern Carolina Presbytery | 8 | 10 |
+| `ga34_2006__stub_2006-04` | Complaint of James Peffley, Et Altera vs. Heritage Presbytery | 8 | 8 |
+| `ga34_2006__stub_2005-05` | Witcher Memorial RE: 2004-5 Blevins vs. Westminster Presbytery | 8 | 8 |
+| `ga38_2010__2008-14` | White v. Siouxlands Presbytery | 8 | 10 |
+| `ga43_2015__2013-08` | Jackson v. Northwest Georgia Presbytery | 8 | 11 |
+| `ga19_1991__1990-04` | Charles E. Chappell v. Eastern Carolina Presbytery | 7 | 26 |
+| `ga19_1991__1990-08` | Bowen v. Eastern Carolina Presbytery | 7 | 8 |
+| `ga30_2002__2000-09` | COMPLAINT OF TE SUNG KEON KIM VS. KOREAN CAPITAL PRESBYTERY | 7 | 7 |
+| `ga30_2002__stub_2001-26` | Complaint RE David Scott Price vs. Northern Illinois Presbytery | 7 | 7 |
+| `ga30_2002__stub_2001-27` | Complaint RE David Scott Price vs. Northern Illinois Presbytery | 7 | 7 |
+| `ga38_2010__2010-05_2010-06` | Carpenter v. Siouxlands / Yuan: An appeal to the SJC alleging a "minister's heresy" | 7 | 12 |
+| `ga41_2013__2012-06` | Bethel v. Southeast Alabama Presbytery | 7 | 7 |
+| `ga48_2021__2020-01` | COMPLAINT OF MR. PETER BENYOLA VS. CENTRAL FLORIDA PRESBYTERY | 7 | 7 |
+| `ga14_1986__case1` | Kenneth L. Gentry, Jr. et al. v. Calvary Presbytery | 6 | 10 |
+| `ga28_2000__1999-01` | Western Carolina v. Tennessee Valley — M28GA, 2000 Tampa, p. 238. AOO 17-3. M29GA, 2001 Dallas, p. 70. SJC declined to indict. 17-0. C-Op 6, C-Op 1, C-Op 1 Summary: Western Carolina, Calvary and Ascension Presbyteries requested SJC to assume original jurisdiction over TE John Wood in TVP whom they a | 6 | 11 |
+| `ga30_2002__2001-01` | APPEAL OF RE CHARLES KIM VS. KOREAN CAPITAL PRESBYTERY | 6 | 7 |
 
 ## Decisions with the most outgoing edges
 
 | Decision | Caption | Distinct targets | Occurrences |
 |---|---|---:|---:|
-| `ga33_2005__2001-34_2002-02_2002-03` | RE Leland Nichols and RE Sam Couch v. James River Presbytery | 58 | 88 |
-| `ga37_2009__2007-13` | Complaint of TE David Kniseley, et al. vs. Rocky Mountain Presbytery | 36 | 61 |
-| `ga52_2025__2023-16` | Bulkeley & Gillikin v. Highlands Presbytery | 26 | 46 |
+| `ga33_2005__2001-34_2002-02_2002-03` | RE Leland Nichols and RE Sam Couch v. James River Presbytery | 39 | 40 |
 | `ga29_2001__stub_2000-03` | ga29_2001__stub_2000-03 | 23 | 23 |
 | `ga29_2001__stub_2000-05` | King v. Evangel | 23 | 23 |
 | `ga29_2001__stub_2001-05` | Ham v. Korean Capital | 23 | 23 |
-| `ga51_2024__2023-11` | Psiaki v. Pacific Northwest Presbytery | 21 | 53 |
-| `ga50_2023__2022-20` | Wilson et al. v. Pacific Northwest Presbytery | 19 | 41 |
-| `ga29_2001__1999-07` | Jeffrey M. Back v. Eastern Carolina Presbytery | 17 | 43 |
-| `ga46_2018__2017-01` | Dailey v. Heritage Presbytery | 17 | 23 |
-| `ga48_2021__2019-02` | Schrock et al. v. Philadelphia Presbytery | 16 | 24 |
-| `ga49_2022__2020-12` | Speck v. Missouri Presbytery | 16 | 26 |
-| `ga50_2023__2022-02` | Herron & Baysinger v. Central Indiana Presbytery | 16 | 18 |
-| `ga47_2019__2018-02` | Lewis v. Presbytery of the Mississippi Valley | 15 | 63 |
-| `ga51_2024__2023-13` | ga51_2024__2023-13 | 15 | 66 |
-| `ga34_2006__2004-08` | Thornton v. Westminster Presbytery | 13 | 42 |
-| `ga38_2010__2009-06` | James Bordwine et al. v. Pacific Northwest Presbytery | 13 | 24 |
-| `ga46_2018__2016-11` | Frazier v. Nashville Presbytery | 13 | 19 |
-| `ga39_2011__2009-25_2009-26` | Brown v. Northern California Presbytery / Session of Grace Presbyterian Church v. Northern California Presbytery | 12 | 24 |
-| `ga19_1991__1990-04` | Charles E. Chappell v. Eastern Carolina Presbytery | 11 | 34 |
-| `ga21_1993__1992-06` | Conrad et al. v. Central Carolina Presbytery. (Case #1) | 11 | 26 |
-| `ga25_1997__1995-11` | James Landrum vs. Mississippi Valley Presbytery 26-67, | 11 | 13 |
+| `ga52_2025__2023-16` | Bulkeley & Gillikin v. Highlands Presbytery | 21 | 41 |
+| `ga50_2023__2022-02` | Herron & Baysinger v. Central Indiana Presbytery | 12 | 14 |
 | `ga34_2006__stub_2004-13` | Complaint of TE Wayne Zaepfel vs. Central Carolina Presbytery | 11 | 11 |
 | `ga34_2006__stub_2005-02` | Complaint of RE Hugo Andrino vs. Southern Florida Presbytery | 11 | 11 |
 | `ga34_2006__stub_2005-03` | Complaint of Session of Living Word PC vs. Pacific NW Presbytery | 11 | 11 |
+| `ga34_2006__stub_2005-04` | Complaint of Session of Hudson Korean American PC vs. Korean | 11 | 11 |
+| `ga28_2000__2000-02` | Adams v. Northeast — M29GA, 2001 Dallas, p. 122. AOO 18-1, C-Op Summary: SJC ruled AOO because "it is a complaint about a matter that is the subject of an appeal in another case (BCO 43-1) and because the complaint requests the relief that an accused be retried on matters he has been acquitted of by | 10 | 10 |
+| `ga47_2019__2018-02` | Lewis v. Presbytery of the Mississippi Valley | 10 | 29 |
+| `ga26_1998__1998-02` | St. Paul Session, et al. v. Central Florida Presbytery | 9 | 12 |
+| `ga34_2006__stub_2005-06` | Complaint of RE Hugo Andrino vs. Southern Florida Presbytery | 9 | 9 |
+| `ga34_2006__stub_2005-07` | Complaint of RE Hugo Andrino vs. Southern Florida Presbytery | 9 | 9 |
+| `ga34_2006__stub_2005-10` | ga34_2006__stub_2005-10 | 9 | 9 |
+| `ga34_2006__stub_2005-11` | Complaint of RE Hugo Andrino vs. Southern Florida Presbytery | 9 | 9 |
+| `ga34_2006__stub_2005-12` | Complaint of TE Peter B. Kim vs. Korean Eastern Presbytery | 9 | 9 |
+| `ga34_2006__stub_2005-13` | Zaepfel v. Central Carolina | 9 | 9 |
+| `ga34_2006__stub_2006-01` | Complaint of RE Hugo Andrino vs. Southern Florida Presbytery | 9 | 9 |
+| `ga38_2010__2010-05_2010-06` | Carpenter v. Siouxlands / Yuan: An appeal to the SJC alleging a "minister's heresy" | 9 | 17 |
+| `ga49_2022__2020-06` | Gordon v. Southern New England Presbytery | 9 | 11 |
+| `ga49_2022__2020-12` | Speck v. Missouri Presbytery | 9 | 15 |
+| `ga30_2002__stub_2001-20` | Complaint Deacon Dae Hee Lee, et al. vs. Korean Capital Presbytery | 8 | 8 |
+| `ga30_2002__stub_2001-21` | Complaint Deacon Ha Oak Kim, et al. vs. Korean Capital Presbytery | 8 | 8 |
 
 ## Recommendations for inline linking
 
@@ -369,6 +367,6 @@ These candidate shapes were excluded because the source context identifies them 
 
 ## Deterministic-resolution conclusion
 
-Most high-confidence PCA case references are deterministically resolvable from docket numbers once docket normalization and BCO guards are applied: **3133 of 3496 candidate occurrences (89.6%)** carry a resolved docket signal. Caption-only and shorthand references still require learned-alias collision checks and a modest manual/entity-resolution queue; the corpus should not treat the raw overall resolution percentage as permission to guess.
+Most high-confidence PCA case references are deterministically resolvable from docket numbers once docket normalization and BCO guards are applied: **1650 of 1998 candidate occurrences (82.6%)** carry a resolved docket signal. Caption-only and shorthand references still require learned-alias collision checks and a modest manual/entity-resolution queue; the corpus should not treat the raw overall resolution percentage as permission to guess.
 
 The current foundation is therefore suitable for an exploratory graph and a first inline-linking pass limited to high-confidence docket/unique-caption matches, but not yet for automatic resolution of all textual mentions.

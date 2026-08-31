@@ -121,42 +121,6 @@
       "reason": "The immediately preceding discussion identifies the SJC Decision in Case 2019-03 as the Crouse Decision."
     },
     {
-      "source_file": "cases/ga20_1992__1992-03.md",
-      "line": 69,
-      "surface_text": "William A. Conrad, et al. vs. Central Carolina Presbytery",
-      "action": "resolve",
-      "target_decision": "ga20_1992__1992-04",
-      "confidence": 0.99,
-      "reason": "The parenthetical on the same source line identifies SJC Docket 92-4."
-    },
-    {
-      "source_file": "cases/ga21_1993__1992-06.md",
-      "line": 165,
-      "surface_text": "William A. Conrad, et al. vs. Central Carolina Presbytery",
-      "action": "resolve",
-      "target_decision": "ga21_1993__1992-07",
-      "confidence": 0.99,
-      "reason": "The parenthetical on the same source line identifies Case #2 and SJC Docket 92-7."
-    },
-    {
-      "source_file": "cases/ga29_2001__1999-07.md",
-      "line": 547,
-      "surface_text": "Robert M. Shive v. Central Carolina Presbytery",
-      "action": "resolve",
-      "target_decision": "ga26_1998__1997-09",
-      "confidence": 0.99,
-      "reason": "The same sentence identifies the appeal as Case 97-9."
-    },
-    {
-      "source_file": "cases/ga34_2006__2005-09.md",
-      "line": 126,
-      "surface_text": "TE Peter B. Kim vs. Korean Eastern Presbytery",
-      "action": "resolve",
-      "target_decision": "ga34_2006__2005-08",
-      "confidence": 0.99,
-      "reason": "The sentence explicitly calls this the Appeal and identifies it as 2005-8; the current page is the separate 2005-9 Complaint."
-    },
-    {
       "source_file": "cases/ga45_2017__2016-09.md",
       "line": 158,
       "surface_text": "Ruff v. Nashville",
@@ -326,16 +290,6 @@
       "target_decision": "ga31_2003__2001-32",
       "confidence": 0.99,
       "reason": "The same sentence names Case 2001-32 Session of Christ Covenant v. Central Carolina."
-    },
-    {
-      "source_file": "cases/ga22_1994__1993-09.md",
-      "line": 14,
-      "surface_text": "William A. Conrad, et al. vs. Central Carolina Presbytery",
-      "action": "resolve",
-      "target_decision": "ga22_1994__1993-09",
-      "confidence": 0.99,
-      "review_kind": "conflict-resolution",
-      "reason": "The same sentence identifies SJC Docket 93-9, and this line is the current decision's recording-in-Minutes self-reference."
     },
     {
       "source_file": "cases/ga52_2025__2023-16.md",
@@ -695,6 +649,24 @@
       "confidence": 0.99,
       "review_kind": "conflict-resolution",
       "reason": "The same concurring opinion explicitly identifies Lee v. Korean Eastern Presbytery as Case 2010-26 at line 382 and repeatedly refers back to it as 'the Lee' before the hypothetical example at line 462."
+    },
+    {
+      "source_file": "cases/ga25_1997__1995-11.md",
+      "line": 76,
+      "surface_text": "Carl W. Bogue et al. vs. Presbytery of the Ascension",
+      "action": "resolve",
+      "target_decision": "ga08_1980__case3",
+      "confidence": 0.99,
+      "reason": "The source calls this the 1980 Bogue case, and the same paragraph cites its Eighth General Assembly minutes at line 80; the similarly captioned GA14 page is a later reproduction."
+    },
+    {
+      "source_file": "cases/ga34_2006__2005-09.md",
+      "line": 94,
+      "surface_text": "TE Peter B. Kim vs. Korean Eastern Presbytery",
+      "action": "resolve",
+      "target_decision": "ga34_2006__2005-09",
+      "confidence": 0.99,
+      "reason": "The concurring opinion says it concurs in the Complaint decision on the current 2005-09 page; the separate Appeal is identified and reviewed at line 126."
     }
   ]
 }
