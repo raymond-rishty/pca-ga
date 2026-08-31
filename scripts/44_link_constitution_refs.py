@@ -105,7 +105,7 @@ MINUTES_CITATION_RE = re.compile(
     re.IGNORECASE,
 )
 MINUTES_PAGE_RE = re.compile(
-    r'<a\s+id=["\'](?P<anchor>ga(?P<anchor_ga>\d+)-p[^"\']+)["\']></a>\s*'
+    r'<a\s+id=["\'](?P<anchor>ga(?P<anchor_ga>\d+)-p[^"\']+)["\']></a>(?:</p>)?\s*'
     r'<!--\s*PAGE\s+ga=(?P<ga>\d+)\s+pdf_page=(?P<pdf_page>\d+)\s+'
     # Page markers may also record how the printed folio was obtained, e.g.
     # ``printed_page_source=inferred`` in the early volumes.  Those markers
@@ -1012,7 +1012,7 @@ def self_test() -> None:
         minute_dir = site_dir / "markdown"
         minute_dir.mkdir()
         (minute_dir / "ga14_1986.html").write_text(
-            '<a id="ga14-p330"></a><!-- PAGE ga=14 pdf_page=332 printed_page=330 -->',
+            '<p><a id="ga14-p330"></a></p>\n<!-- PAGE ga=14 pdf_page=332 printed_page=330 -->',
             encoding="utf-8",
         )
         (minute_dir / "ga11_1983.html").write_text(
