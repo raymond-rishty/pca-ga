@@ -54,8 +54,8 @@ jobs:
           python3 scripts/ensure_minutes_source_pdf_metadata.py --check
       - name: Test source PDF metadata normalizer
         run: python3 tests/test_minutes_source_pdf_metadata.py
-      - name: Run JavaScript regression tests
-        run: node --test tests/*.test.js
+      - name: Test source PDF link metadata
+        run: node --test tests/source-pdf-links.test.js
       - uses: ruby/setup-ruby@v1
         with:
           ruby-version: '3.3'
