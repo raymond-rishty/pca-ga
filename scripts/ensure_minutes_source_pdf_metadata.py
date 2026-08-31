@@ -62,10 +62,10 @@ def normalize_text(text: str, filename: str) -> tuple[str, bool]:
             if actual != expected:
                 raise ValueError(f"{filename}: source_pdf.file is {actual!r}, expected {expected!r}")
             return text, False
-        insertion = f'\n  file: "{expected}"'
+        insertion = f"\n  file: {expected}"
         front = front[:block_start] + insertion + front[block_start:]
     else:
-        block = f'source_pdf:\n  file: "{expected}"\n'
+        block = f"source_pdf:\n  file: {expected}\n"
         extraction = re.search(r"(?m)^extraction:\s*$", front)
         schema = re.search(r"(?m)^schema_version:\s*", front)
         anchor = extraction.start() if extraction else (schema.start() if schema else len(front))
