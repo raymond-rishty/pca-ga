@@ -29,6 +29,11 @@ Partial full-text sample generation example:
 """
 from __future__ import annotations
 import argparse, json, os, re
+from pathlib import Path
+
+import sys
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+from source_links import line_to_pdf_page, pdf_page_for_anchor, source_entries_for_record, source_front_matter
 
 DEFAULT_ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 ROOT = DEFAULT_ROOT
@@ -331,7 +336,11 @@ def main():
             # roster-gap document not in the minutes corpus — link to its PCA Historical Center copy
             asm = f"{ordinal(r['ga_ordinal'])} ({r['year']})" if r.get("ga_ordinal") else \
                   (str(r["year"]) if r.get("year") else "—")
-            body = [
+            source_meta = source_front_matter(source_entries_for_record(
+                Path(ROOT), "study", r.get("file") or topic, r.get("vol"),
+                None, r.get("external_url") if str(r.get("external_url") or "").lower().endswith(".pdf") else None
+            ))
+            body = source_meta + [
                 f"# {topic}", "",
                 f"*{r['title']}*", "",
                 f"**Type:** {kind}  ·  **Assembly:** {asm}  ·  "
@@ -405,7 +414,14 @@ def main():
             text_heading = "## Opening of the report"
             text_body = preview(lines, r["line_start"], r["line_end"])
 
-        body = [
+        source_page = pdf_page_for_anchor(Path(ROOT), stem, anchor) if anchor else None
+        if source_page is None and r.get("line_start"):
+            source_page = line_to_pdf_page(Path(ROOT), stem, int(r["line_start"]))
+        source_meta = source_front_matter(source_entries_for_record(
+            Path(ROOT), "study", r.get("file") or topic, stem, source_page,
+            r.get("external_url") if str(r.get("external_url") or "").lower().endswith(".pdf") else None
+        ))
+        body = source_meta + [
             f"# {topic}" + (" — minority report" if r["is_minority"] else ""),
             "",
             f"*{r['title']}*",

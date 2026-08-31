@@ -1,0 +1,23 @@
+{% if page.source_links %}
+  <div class="record-source-links" aria-label="Source PDFs">
+    <span class="record-source-links__label">Source PDFs</span>
+    <div class="record-source-links__items">
+      {% for source in page.source_links %}
+        {% assign source_href = '' %}
+        {% assign source_page = source.pdf_page | default: source.page %}
+        {% if source.url %}
+          {% assign source_href = source.url %}
+        {% elsif source.type == 'minutes' and source.volume and source.file %}
+          {% assign source_href = 'https://www.pcahistory.org/pca/ga/' | append: source.file %}
+          {% if source_page %}
+            {% assign source_href = source_href | append: '#page=' | append: source_page %}
+          {% endif %}
+        {% endif %}
+        {% if source_href != '' %}
+          {% assign source_label = source.label | default: 'View source PDF' %}
+          <a class="source-pdf-link" href="{{ source_href }}" data-source-id="{{ source.source_id }}" data-pdf-page="{{ source_page }}" target="_blank" rel="noopener noreferrer">{{ source_label }} <span aria-hidden="true">↗</span></a>
+        {% endif %}
+      {% endfor %}
+    </div>
+  </div>
+{% endif %}

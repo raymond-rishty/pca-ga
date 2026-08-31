@@ -262,6 +262,32 @@ button { cursor: pointer; background: none; border: none; color: inherit; font: 
 .reading-col .source-pdf-link:hover,
 .reading-col .source-pdf-link:focus-visible { color: var(--gold); }
 
+.record-source-links {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  gap: .35rem .8rem;
+  margin: -.25rem 0 1.35rem;
+  padding: .65rem 0;
+  border-bottom: 1px solid var(--parch-mid);
+}
+.record-source-links__label {
+  flex: 0 0 auto;
+  color: var(--ink-muted);
+  font: 500 10px/1.4 var(--sans);
+  letter-spacing: .12em;
+  text-transform: uppercase;
+}
+.record-source-links__items {
+  display: flex;
+  flex-wrap: wrap;
+  gap: .35rem .8rem;
+}
+.record-source-links__items .source-pdf-link {
+  display: inline-flex;
+  align-items: baseline;
+}
+
 /* ── Disposition badges ── */
 .badge {
   display: inline-block; font-family: var(--sans); font-size: 11px;

@@ -25,6 +25,10 @@ Usage:  34_ga53_overtures.py [ROOT]      (ROOT defaults to /workspace)
 """
 from __future__ import annotations
 import os, re, sys, shutil, json
+from pathlib import Path
+
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+from source_links import source_id_for_url
 
 ROOT = sys.argv[1] if len(sys.argv) > 1 else "/workspace"
 SRC = os.environ.get("GA53_SRC", "/workspace/ga53")
@@ -158,7 +162,21 @@ def render_pages(overs):
         body = format_meta(normalize_links(body, "../"))
         title = (o["num"] + " \u2014 " + o["title"]).replace('"', "'")
         upd = UPDATED.get(o["num"], DEFAULT_UPDATED)
-        fm = f'---\nlayout: ga53-overture\ntitle: "{title}"\nupdated: "{upd}"\n---\n\n'
+        source_url = o.get("url", "").strip()
+        source_yaml = ""
+        if re.search(r"\.pdf(?:[?#]|$)", source_url, re.I):
+            source_id = source_id_for_url(Path(ROOT), source_url)
+            source_yaml = (
+                "source_links:\n"
+                '  - type: "dedicated"\n'
+                f'    source_id: "{source_id}"\n'
+                '    label: "Dedicated source PDF"\n'
+                f"    url: {json.dumps(source_url)}\n"
+            )
+        fm = (
+            f'---\nlayout: ga53-overture\ntitle: "{title}"\nupdated: "{upd}"\n'
+            f'{source_yaml}---\n\n'
+        )
         open(os.path.join(OUT_PAGES, f"{o['num']}.md"), "w", encoding="utf-8").write(fm + body + "\n")
         n += 1
     return n

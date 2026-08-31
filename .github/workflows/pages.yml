@@ -54,8 +54,20 @@ jobs:
           python3 scripts/ensure_minutes_source_pdf_metadata.py --check
       - name: Test source PDF metadata normalizer
         run: python3 tests/test_minutes_source_pdf_metadata.py
+      - name: Rebuild and validate extracted source registry
+        run: |
+          # Overture regeneration above can update the authoritative body index.
+          # Refresh the derived registry before validating and rendering links.
+          python3 scripts/build_source_registry.py . --write
+          python3 scripts/build_source_registry.py . --check
+      - name: Test extracted source PDF metadata
+        run: python3 tests/test_extracted_source_pdf_metadata.py
+      - name: Test source registry
+        run: python3 tests/test_source_registry.py
       - name: Test focused Node regressions
         run: node --test tests/source-pdf-links.test.js tests/minutes-back-to-top.test.js tests/minutes-page-source-pdf.test.js
+      - name: Add source PDF metadata to extracted documents
+        run: python3 scripts/add_extracted_source_pdf_metadata.py .
       - uses: ruby/setup-ruby@v1
         with:
           ruby-version: '3.3'
@@ -67,6 +79,37 @@ jobs:
           restore-keys: jekyll-${{ runner.os }}-
       - name: Build
         run: bundle exec jekyll build
+      - name: Validate rendered extracted source PDF links
+        shell: bash
+        run: |
+          shopt -s nullglob
+          extracted=(_site/cases/*.html _site/inquiries/*.html _site/overtures/*.html _site/rpr/exc/*.html _site/studies/*.html)
+          found=0
+          for page in "${extracted[@]}"; do
+            if grep -q 'class="source-pdf-link"' "$page"; then
+              found=$((found + 1))
+            fi
+          done
+          if [[ $found -lt 1 ]]; then
+            echo "No rendered extracted page exposes a source PDF link" >&2
+            exit 1
+          fi
+          if ! grep -R -q '51st_pcaga_2024.pdf#page=749' _site/cases; then
+            echo "Expected GA51 case source PDF page link was not rendered" >&2
+            exit 1
+          fi
+          if grep -R -Eq 'class="source-pdf-link" href=""' _site/cases _site/inquiries _site/overtures _site/rpr _site/studies; then
+            echo "An extracted source PDF link has an empty href" >&2
+            exit 1
+          fi
+          if ! grep -R -q 'data-source-id="case-pdf:' _site/cases; then
+            echo "No dedicated judicial source PDF was rendered" >&2
+            exit 1
+          fi
+          if ! grep -R -q 'data-source-id="study-pdf:' _site/studies; then
+            echo "No dedicated study source PDF was rendered" >&2
+            exit 1
+          fi
       - name: Validate rendered source PDF links
         shell: bash
         run: |
