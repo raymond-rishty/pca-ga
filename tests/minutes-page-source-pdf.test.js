@@ -15,11 +15,21 @@ test('source-PDF page action is a separate minutes enhancement', () => {
   assert.doesNotMatch(read('assets/minutes-back-to-top.js'), /source PDF|pdf_page|page-source-pdf/i);
 });
 
-test('source-PDF action maps printed anchors to PDF page coordinates', () => {
+test('source-PDF action maps each rendered marker to the PDF page at the same document position', () => {
   const script = read('assets/minutes-page-source-pdf.js');
-  assert.match(script, /pdf_page=\(\\d\+\)[\s\S]*printed_page=\(\[\^\\s\]\+\)/);
-  assert.match(script, /printed \? `ga\$\{ga\}-p\$\{printedPage\}` : `ga\$\{ga\}-pdf-p\$\{pdfPage\}`/);
+  assert.match(script, /const pdfPages = \[\]/);
+  assert.match(script, /pdfPages\.push\(match\[2\]\)/);
+  assert.match(script, /const markers = \[\.\.\.column\.querySelectorAll\('\.page-marker'\)\]/);
+  assert.match(script, /const markerIndex = markers\.indexOf\(marker\)/);
+  assert.match(script, /pdfPages\[markerIndex\]/);
+  assert.doesNotMatch(script, /pdfByAnchor|\.set\(anchor, pdfPage\)/);
   assert.match(script, /url\.hash = `page=\$\{pdfPage\}`/);
   assert.match(script, /Open source PDF/);
   assert.match(script, /window\.open\(sourceUrl, '_blank', 'noopener,noreferrer'\)/);
+});
+
+test('GA33 demonstrates why printed folio cannot be the lookup key', () => {
+  const minutes = read('markdown/ga33_2005.md');
+  assert.match(minutes, /PAGE ga=33 pdf_page=302 printed_page=300/);
+  assert.match(minutes, /PAGE ga=33 pdf_page=590 printed_page=300/);
 });
