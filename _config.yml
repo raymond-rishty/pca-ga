@@ -4,6 +4,17 @@ theme: jekyll-theme-cayman
 url: "https://raymond-rishty.github.io"
 baseurl: "/pca-ga"
 
+markdown: CommonMarkGhPages
+commonmark:
+  options:
+    - SMART
+    - FOOTNOTES
+  extensions:
+    - strikethrough
+    - autolink
+    - table
+    - tagfilter
+
 # the minutes are plain text, not Liquid templates — don't let stray braces break the build
 defaults:
   - scope:
