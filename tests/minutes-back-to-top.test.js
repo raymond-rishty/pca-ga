@@ -31,3 +31,14 @@ test('mobile back-to-top clears the fixed bottom navigation', () => {
   assert.match(css, /bottom: calc\(64px \+ \.75rem \+ env\(safe-area-inset-bottom\)\)/);
   assert.match(css, /\.minutes-back-to-top\[hidden\] \{ display: none; \}/);
 });
+
+test('page actions open the source PDF at the underlying PDF page, not the printed folio', () => {
+  const script = read('assets/minutes-back-to-top.js');
+  assert.match(script, /pdf_page=\(\\d\+\).*printed_page=/);
+  assert.match(script, /const \[, ga, pdfPage, printedPage\] = match/);
+  assert.match(script, /const anchor = printed \? `ga\$\{ga\}-p\$\{printedPage\}` : `ga\$\{ga\}-pdf-p\$\{pdfPage\}`/);
+  assert.match(script, /pages\.set\(anchor, pdfPage\)/);
+  assert.match(script, /url\.hash = `page=\$\{pdfPage\}`/);
+  assert.match(script, /Open source PDF/);
+  assert.match(script, /window\.open\(url, '_blank', 'noopener,noreferrer'\)/);
+});
