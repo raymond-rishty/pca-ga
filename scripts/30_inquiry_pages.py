@@ -20,6 +20,10 @@ in the minutes, which is sliced unaltered below it.
 """
 from __future__ import annotations
 import json, os, re, sys
+from pathlib import Path
+
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+from source_links import line_to_pdf_page, pdf_page_for_anchor, source_entries_for_record, source_front_matter
 
 ONLY_RELOCATED = "--only-relocated" in sys.argv[1:]
 ROOT_ARG = next((a for a in sys.argv[1:] if not a.startswith("--")), None)
@@ -225,7 +229,15 @@ def main():
         srcline = (f"*Source: [{stem} lines {primary_start}–{primary_end}](../markdown/{stem}.md{'#' + primary_anchor if primary_anchor else ''})*"
                    if primary_start and primary_end else f"*Source: {stem}*")
 
-        page = [f"# {label} — {subj}", ""]
+        source_page = pdf_page_for_anchor(Path(ROOT), stem, primary_anchor) if primary_anchor else None
+        if source_page is None and primary_start:
+            source_page = line_to_pdf_page(Path(ROOT), stem, int(primary_start))
+        if source_page is None and a:
+            source_page = line_to_pdf_page(Path(ROOT), stem, int(a))
+        source_meta = source_front_matter(source_entries_for_record(
+            Path(ROOT), "inquiry", f"{stem}:{n}", stem, source_page
+        ))
+        page = source_meta + [f"# {label} — {subj}", ""]
         if synopsis:
             page += [f"*{md_escape(synopsis)}*", ""]
         page += ["  ·  ".join(hdr), "", srcline, "", "---", ""]

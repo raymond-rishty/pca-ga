@@ -197,6 +197,7 @@
               <button type="button" data-record-share><span aria-hidden="true">↗</span> Share</button>
             </div>
           </section>
+          {% include source-pdf-links.html %}
         {% elsif page_type == 'rpr-exception' or page_type == 'overture' or page_type == 'study' %}
           {% assign record_kind = 'Review of Presbytery Records exception' %}
           {% assign record_class = 'rpr' %}
@@ -211,6 +212,7 @@
               <button type="button" data-record-share><span aria-hidden="true">↗</span> Share</button>
             </div>
           </section>
+          {% include source-pdf-links.html %}
         {% elsif page_ga_num %}
           <div class="volume-meta">
             <span class="eyebrow">{{ page_ga_num }}{{ page_ga_suffix }} General Assembly · {{ page_ga_year }}</span>
@@ -237,6 +239,7 @@
   {% endif %}
   <script src="{{ '/assets/pca-nav.js' | relative_url }}"></script>
   {% if page_type == 'volume' %}
+    <script src="{{ '/assets/minutes-page-source-pdf.js' | relative_url }}"></script>
     <script src="{{ '/assets/minutes-back-to-top.js' | relative_url }}"></script>
   {% endif %}
   {% if page_type == 'case' %}

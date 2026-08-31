@@ -11,7 +11,10 @@ labels to headings, and write cases/<case_id>.md. 20_markdown_index then links C
 CLI:  24_case_pages.py
 """
 from __future__ import annotations
-import glob, json, os, re, sqlite3
+import glob, json, os, re, sqlite3, sys
+
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+from source_links import source_entries_for_record, source_front_matter
 
 ROOT = os.environ.get("PCA_GA_ROOT", os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 DB = os.path.join(ROOT, "index", "pca_minutes.db")
@@ -201,7 +204,11 @@ def main():
             bits.append(f"**BCO cited:** {r['bco_cited_as_s'][:120]}")
         pr = f"pp. {start}–{end}" if end and int(end) != int(start) else f"p. {start}"
         title = f"# Case {num}" + (f" — {who}" if who else "")
-        page = [title, "", "  ·  ".join(bits), "",
+        source_page = int(start) if start else None
+        source_meta = source_front_matter(source_entries_for_record(
+            __import__("pathlib").Path(ROOT), "case", num, vol, source_page
+        ))
+        page = source_meta + [title, "", "  ·  ".join(bits), "",
                 f"*Source: [{vol} {pr}](../markdown/{vol}.md)*", "", "---", "", body, "", "---", "",
                 f"[← Judicial case index](../index/CASES.md)"]
         open(os.path.join(OUT, fname(r["case_id"]) + ".md"), "w").write("\n".join(page) + "\n")

@@ -14,7 +14,11 @@ Run AFTER 26/27/28 (skips any number that already has a full decision page). Emi
 CLI:  29_stub_pages.py
 """
 from __future__ import annotations
-import glob, json, os, re, sqlite3
+import glob, json, os, re, sqlite3, sys
+from pathlib import Path
+
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+from source_links import line_to_pdf_page, source_entries_for_record, source_front_matter
 
 ROOT = "/workspace"
 OUT = f"{ROOT}/cases"
@@ -131,13 +135,17 @@ def main():
             idx, text, disp = find_disposition(lines, vset, lo)
             if text:
                 yr = (re.search(r"_(\d{4})", vol) or [None, r["year"]])[1]
-                found = (gg, vol, yr, text, disp); break
+                found = (gg, vol, yr, text, disp, idx); break
         if not found:
             continue                                  # genuinely nothing recorded -> no stub
-        gg, vol, yr, text, disp = found
+        gg, vol, yr, text, disp, source_line = found
         who = (r["parties"] or r["title"] or "").strip()
         slug = f"{vol}__stub_{norm}"
-        page = [f"# {norm} — {who or '(parties not given)'}", "",
+        source_page = line_to_pdf_page(Path(ROOT), vol, source_line)
+        source_meta = source_front_matter(source_entries_for_record(
+            Path(ROOT), "case", norm, vol, source_page
+        ))
+        page = source_meta + [f"# {norm} — {who or '(parties not given)'}", "",
                 f"**Court:** Standing Judicial Commission  ·  **Assembly:** {ordinal(gg)} ({yr})"
                 f"  ·  **Disposition:** {disp}", "",
                 "*No separate merits opinion was published; the Assembly disposed of this matter as "

@@ -19,6 +19,10 @@ Usage:  37_overture_pages.py [ROOT]      (ROOT defaults to /workspace)
 """
 from __future__ import annotations
 import json, os, re, sys, glob
+from pathlib import Path
+
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+from source_links import source_entries_for_record, source_front_matter
 
 ROOT = sys.argv[1] if len(sys.argv) > 1 else "/workspace"
 IDX = os.path.join(ROOT, "index")
@@ -108,7 +112,10 @@ def main():
         rn = d.get("ratification_note")
         ratnote = [f"> *{rn.strip()}*", ""] if (rn or "").strip() else []
 
-        page_md = [f"# GA{ga} O{number} — {title}", "", "  ·  ".join(hdr), "", src, "", "---", ""]
+        source_meta = source_front_matter(source_entries_for_record(
+            Path(ROOT), "overture", f"{vol}:{number}", vol, int(page) if page else None
+        ))
+        page_md = source_meta + [f"# GA{ga} O{number} — {title}", "", "  ·  ".join(hdr), "", src, "", "---", ""]
         page_md += ratnote
         page_md += [para_clauses(body), "", "---", "", "[← Overture catalogue](../index/OVERTURES.md)"]
         slug = f"{vol}__o{number}"

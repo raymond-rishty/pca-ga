@@ -10,7 +10,11 @@ pages) and 27 (CJB).
 CLI:  28_sjc_located_pages.py
 """
 from __future__ import annotations
-import importlib.util, json, os, re
+import importlib.util, json, os, re, sys
+from pathlib import Path
+
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+from source_links import line_to_pdf_page, source_entries_for_record, source_front_matter
 
 ROOT = "/workspace"
 OUT = f"{ROOT}/cases"
@@ -67,7 +71,12 @@ def main():
             if c.get("has_dissent"):
                 hdr.append("**Dissent:** yes")
             spans = "; ".join(f"{s[0]}–{s[1]}" for s in c.get("spans", []) if len(s) == 2)
-            page = [f"# {'/'.join(nums)} — {title}", "", "  ·  ".join(hdr), "",
+            first_line = next((int(s[0]) for s in c.get("spans", []) if len(s) == 2), None)
+            source_page = line_to_pdf_page(Path(ROOT), vol, first_line) if first_line else None
+            source_meta = source_front_matter(source_entries_for_record(
+                Path(ROOT), "case", nums[0] if nums else slug, vol, source_page
+            ))
+            page = source_meta + [f"# {'/'.join(nums)} — {title}", "", "  ·  ".join(hdr), "",
                     f"*Source: [{vol} lines {spans}](../markdown/{vol}.md)*", "",
                     "---", "", body, "", "---", "", "[← Judicial case index](../index/CASES.md)"]
             open(f"{OUT}/{slug}.md", "w").write("\n".join(page) + "\n")
