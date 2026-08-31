@@ -7,20 +7,23 @@
   const column = document.querySelector('.reading-col');
   if (!sourceLink || !column) return;
 
-  const pdfByAnchor = new Map();
+  // Capture PDF coordinates in source-document order before pca-nav.js turns
+  // PAGE comments into rendered page markers. Printed folio numbers can repeat
+  // later in a volume (for example GA33 has two different printed page 300s),
+  // so the printed-page label is not a safe lookup key.
+  const pdfPages = [];
   const walker = document.createTreeWalker(column, NodeFilter.SHOW_COMMENT);
   while (walker.nextNode()) {
     const match = walker.currentNode.nodeValue.match(/\bPAGE\s+ga=(\d+)\s+pdf_page=(\d+)\s+printed_page=([^\s]+)/i);
     if (!match) continue;
-    const [, ga, pdfPage, printedPage] = match;
-    const printed = printedPage.toLowerCase() !== 'null';
-    const anchor = printed ? `ga${ga}-p${printedPage}` : `ga${ga}-pdf-p${pdfPage}`;
-    pdfByAnchor.set(anchor, pdfPage);
+    pdfPages.push(match[2]);
   }
 
   function sourceUrlFor(marker) {
-    if (!marker?.id) return null;
-    const pdfPage = pdfByAnchor.get(marker.id);
+    if (!marker) return null;
+    const markers = [...column.querySelectorAll('.page-marker')];
+    const markerIndex = markers.indexOf(marker);
+    const pdfPage = markerIndex >= 0 ? pdfPages[markerIndex] : null;
     if (!pdfPage) return null;
     const url = new URL(sourceLink.href, location.href);
     url.hash = `page=${pdfPage}`;
