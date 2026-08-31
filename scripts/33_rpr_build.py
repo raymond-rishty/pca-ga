@@ -12,6 +12,10 @@ Usage: 33_rpr_build.py [ROOT]   (ROOT defaults to /workspace)
 """
 from __future__ import annotations
 import glob, json, os, re, sys
+from pathlib import Path
+
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+from source_links import line_to_pdf_page, pdf_page_for_anchor, source_entries_for_record, source_front_matter
 
 ROOT = sys.argv[1] if len(sys.argv) > 1 else "/workspace"
 IDX = os.path.join(ROOT, "index")
@@ -299,7 +303,26 @@ def main():
     def write_exc_page(t, fname, presb_slug):
         a0 = t["appearances"][0]
         subj = md_escape(t["description"][:80]).rsplit(" ", 1)[0]
-        L = [f"# {t['canon']} Presbytery — {md_escape(', '.join(t['provisions']) or 'exception of substance')}", ""]
+        source_entries = []
+        for appearance in t["appearances"]:
+            appearance_vol = appearance.get("vol")
+            appearance_anchor = appearance.get("page_anchor") or ""
+            source_page = (
+                pdf_page_for_anchor(Path(ROOT), appearance_vol, appearance_anchor)
+                if appearance_vol and appearance_anchor else None
+            )
+            if source_page is None and appearance.get("line_start") and appearance_vol:
+                source_page = line_to_pdf_page(Path(ROOT), appearance_vol, int(appearance["line_start"]))
+            source_entries.extend(source_entries_for_record(
+                Path(ROOT), "rpr", appearance.get("id") or t.get("id") or "",
+                appearance_vol, source_page
+            ))
+        source_entries = list({
+            (entry["source_id"], entry.get("pdf_page")): entry
+            for entry in source_entries
+        }.values())
+        L = source_front_matter(source_entries) + [
+            f"# {t['canon']} Presbytery — {md_escape(', '.join(t['provisions']) or 'exception of substance')}", ""]
         if subj:
             L += [f"*{subj}…*", ""]
         hdr = [f"**Presbytery:** {md_escape(t['canon'])}", f"**First raised:** {ordinal(t['first_ga'])} ({t['first_year']})",

@@ -15,6 +15,10 @@ CLI:  26_case_pages_structured.py
 """
 from __future__ import annotations
 import importlib.util, json, os, re, sys
+from pathlib import Path
+
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+from source_links import line_to_pdf_page, source_entries_for_record, source_front_matter
 
 ROOT = os.environ.get("PCA_GA_ROOT", os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 spec = importlib.util.spec_from_file_location("ce", f"{ROOT}/scripts/25_case_extract.py")
@@ -144,7 +148,11 @@ def main():
             if dispos:
                 hdr.append(f"**Disposition:** {'; '.join(dict.fromkeys(dispos))}")
             body = promote_opinions(b["text"])
-            page = [f"# {'/'.join(nums)} — {title}", "", "  ·  ".join(hdr), "",
+            source_page = line_to_pdf_page(Path(ROOT), vol, int(b["lines"][0]))
+            source_meta = source_front_matter(source_entries_for_record(
+                Path(ROOT), "case", nums[0] if nums else slug, vol, source_page
+            ))
+            page = source_meta + [f"# {'/'.join(nums)} — {title}", "", "  ·  ".join(hdr), "",
                     f"*Source: [{vol} lines {b['lines'][0]}–{b['lines'][1]}](../markdown/{vol}.md)*",
                     "", "---", "", body, "", "---", "", "[← Judicial case index](../index/CASES.md)"]
             open(f"{OUT}/{slug}.md", "w").write("\n".join(page) + "\n")
