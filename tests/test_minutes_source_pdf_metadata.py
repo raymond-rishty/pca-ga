@@ -1,6 +1,7 @@
 from __future__ import annotations
 
 import importlib.util
+import unittest
 from pathlib import Path
 
 
@@ -12,8 +13,9 @@ assert spec.loader is not None
 spec.loader.exec_module(module)
 
 
-def test_adds_missing_source_pdf_before_extraction() -> None:
-    source = """---
+class MinutesSourcePdfMetadataTests(unittest.TestCase):
+    def test_adds_missing_source_pdf_before_extraction(self) -> None:
+        source = """---
 doc_type: ga_minutes
 ga_ordinal: 48
 year: 2021
@@ -25,15 +27,14 @@ schema_version: 2
 
 Minutes body
 """
-    normalized, changed = module.normalize_text(source, "ga48_2021.md")
+        normalized, changed = module.normalize_text(source, "ga48_2021.md")
 
-    assert changed is True
-    assert 'source_pdf:\n  file: "48th_pcaga_2021.pdf"\nextraction:' in normalized
-    assert normalized.endswith("\nMinutes body\n")
+        self.assertTrue(changed)
+        self.assertIn('source_pdf:\n  file: "48th_pcaga_2021.pdf"\nextraction:', normalized)
+        self.assertTrue(normalized.endswith("\nMinutes body\n"))
 
-
-def test_preserves_existing_source_pdf_fields() -> None:
-    source = """---
+    def test_preserves_existing_source_pdf_fields(self) -> None:
+        source = """---
 doc_type: ga_minutes
 ga_ordinal: 1
 year: 1973
@@ -47,15 +48,14 @@ schema_version: 1
 ---
 Body
 """
-    normalized, changed = module.normalize_text(source, "ga01_1973.md")
+        normalized, changed = module.normalize_text(source, "ga01_1973.md")
 
-    assert changed is False
-    assert normalized == source
-    assert "sha256: abc123" in normalized
+        self.assertFalse(changed)
+        self.assertEqual(normalized, source)
+        self.assertIn("sha256: abc123", normalized)
 
-
-def test_adds_file_to_existing_source_pdf_block() -> None:
-    source = """---
+    def test_adds_file_to_existing_source_pdf_block(self) -> None:
+        source = """---
 doc_type: ga_minutes
 ga_ordinal: 21
 year: 1993
@@ -65,14 +65,13 @@ schema_version: 2
 ---
 Body
 """
-    normalized, changed = module.normalize_text(source, "ga21_1993.md")
+        normalized, changed = module.normalize_text(source, "ga21_1993.md")
 
-    assert changed is True
-    assert 'source_pdf:\n  file: "21st_pcaga_1993.pdf"\n  sha256: abc123' in normalized
+        self.assertTrue(changed)
+        self.assertIn('source_pdf:\n  file: "21st_pcaga_1993.pdf"\n  sha256: abc123', normalized)
 
-
-def test_refuses_conflicting_source_pdf_filename() -> None:
-    source = """---
+    def test_refuses_conflicting_source_pdf_filename(self) -> None:
+        source = """---
 doc_type: ga_minutes
 ga_ordinal: 22
 year: 1994
@@ -82,20 +81,19 @@ schema_version: 2
 ---
 Body
 """
-    try:
-        module.normalize_text(source, "ga22_1994.md")
-    except ValueError as exc:
-        assert "expected '22nd_pcaga_1994.pdf'" in str(exc)
-    else:
-        raise AssertionError("expected conflicting source_pdf.file to be rejected")
+        with self.assertRaisesRegex(ValueError, "expected '22nd_pcaga_1994.pdf'"):
+            module.normalize_text(source, "ga22_1994.md")
+
+    def test_ordinal_suffixes(self) -> None:
+        self.assertEqual(module.ordinal_suffix(1), "st")
+        self.assertEqual(module.ordinal_suffix(2), "nd")
+        self.assertEqual(module.ordinal_suffix(3), "rd")
+        self.assertEqual(module.ordinal_suffix(11), "th")
+        self.assertEqual(module.ordinal_suffix(12), "th")
+        self.assertEqual(module.ordinal_suffix(13), "th")
+        self.assertEqual(module.ordinal_suffix(21), "st")
+        self.assertEqual(module.ordinal_suffix(52), "nd")
 
 
-def test_ordinal_suffixes() -> None:
-    assert module.ordinal_suffix(1) == "st"
-    assert module.ordinal_suffix(2) == "nd"
-    assert module.ordinal_suffix(3) == "rd"
-    assert module.ordinal_suffix(11) == "th"
-    assert module.ordinal_suffix(12) == "th"
-    assert module.ordinal_suffix(13) == "th"
-    assert module.ordinal_suffix(21) == "st"
-    assert module.ordinal_suffix(52) == "nd"
+if __name__ == "__main__":
+    unittest.main()
