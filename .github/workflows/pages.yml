@@ -2,6 +2,8 @@ name: Build and deploy Pages
 on:
   push:
     branches: [main]
+  pull_request:
+    branches: [main]
 
 permissions:
   contents: read
@@ -23,9 +25,9 @@ jobs:
         id: overture-source
         shell: bash
         env:
-          BEFORE: ${{ github.event.before }}
+          BEFORE: ${{ github.event.pull_request.base.sha || github.event.before }}
         run: |
-          if [[ "$BEFORE" == "0000000000000000000000000000000000000000" ]]; then
+          if [[ -z "$BEFORE" || "$BEFORE" == "0000000000000000000000000000000000000000" ]]; then
             echo "changed=true" >> "$GITHUB_OUTPUT"
             exit 0
           fi
@@ -46,6 +48,14 @@ jobs:
         run: python3 scripts/34_llm_pack.py .
       - name: Validate study catalogue
         run: python3 scripts/check_study_catalogue.py .
+      - name: Restore minutes source PDF provenance
+        run: |
+          python3 scripts/ensure_minutes_source_pdf_metadata.py
+          python3 scripts/ensure_minutes_source_pdf_metadata.py --check
+      - name: Test source PDF metadata normalizer
+        run: python3 tests/test_minutes_source_pdf_metadata.py
+      - name: Test source PDF link metadata
+        run: node --test tests/source-pdf-links.test.js
       - uses: ruby/setup-ruby@v1
         with:
           ruby-version: '3.3'
@@ -57,6 +67,21 @@ jobs:
           restore-keys: jekyll-${{ runner.os }}-
       - name: Build
         run: bundle exec jekyll build
+      - name: Validate rendered source PDF links
+        shell: bash
+        run: |
+          shopt -s nullglob
+          pages=(_site/markdown/ga??_????.html)
+          if [[ ${#pages[@]} -ne 52 ]]; then
+            echo "Expected 52 rendered minutes volumes, found ${#pages[@]}" >&2
+            exit 1
+          fi
+          for page in "${pages[@]}"; do
+            if ! grep -Eq 'class="source-pdf-link" href="https://www\.pcahistory\.org/pca/ga/[0-9]+(st|nd|rd|th)_pcaga_[0-9]{4}\.pdf"' "$page"; then
+              echo "Missing canonical source PDF link in $page" >&2
+              exit 1
+            fi
+          done
       - name: Install BSB importer dependency
         run: python3 -m pip install --disable-pip-version-check openpyxl
       - name: Link constitutional references
@@ -91,6 +116,7 @@ jobs:
           path: _site
 
   deploy:
+    if: github.event_name == 'push'
     needs: build
     runs-on: ubuntu-latest
     environment:
