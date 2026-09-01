@@ -1,0 +1,9 @@
+{
+  "schema": "pca-ga.footnote-gold.v1",
+  "volume": "ga14_1986",
+  "policy": "confirmed_only",
+  "verification": "source PDF and historical/current OCR evidence adjudicated",
+  "pages": [
+    {"page": 486, "label": "explicit Footnotes section 1-5", "expected_markers": ["1", "2", "3", "4", "5"], "expected_links": ["1", "2", "3", "4", "5"]}
+  ]
+}

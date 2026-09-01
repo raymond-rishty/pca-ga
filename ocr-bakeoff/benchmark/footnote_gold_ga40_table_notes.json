@@ -1,0 +1,14 @@
+{
+  "schema": "pca-ga.footnote-gold.v1",
+  "volume": "ga40_2012",
+  "policy": "confirmed_only",
+  "verification": "source PDF visual inspection and native/layout evidence adjudicated",
+  "pages": [
+    {
+      "page": 208,
+      "label": "table superscripts 1-2 with specific committee and agency notes",
+      "expected_markers": ["1", "2"],
+      "expected_links": ["1", "2"]
+    }
+  ]
+}

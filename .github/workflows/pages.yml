@@ -68,6 +68,8 @@ jobs:
         run: node --test tests/source-pdf-links.test.js tests/minutes-back-to-top.test.js tests/minutes-page-source-pdf.test.js
       - name: Add source PDF metadata to extracted documents
         run: python3 scripts/add_extracted_source_pdf_metadata.py .
+      - name: Validate footnote pairing
+        run: python3 scripts/81_validate_footnote_integrity.py
       - uses: ruby/setup-ruby@v1
         with:
           ruby-version: '3.3'

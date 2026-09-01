@@ -1,0 +1,15 @@
+{
+  "schema": "pca-ga.footnote-gold.v1",
+  "volume": "ga11_1983",
+  "policy": "confirmed_only",
+  "verification": "visually checked against rendered source PDF pages; numeric footnote scope",
+  "pages": [
+    {"page": 139, "label": "numbered case prose, no footnotes", "expected_markers": [], "expected_links": []},
+    {"page": 146, "label": "case headings and numbered items, no footnotes", "expected_markers": [], "expected_links": []},
+    {"page": 150, "label": "numbered recommendations, no footnotes", "expected_markers": [], "expected_links": []},
+    {"page": 156, "label": "numbered case issues, no footnotes", "expected_markers": [], "expected_links": []},
+    {"page": 159, "label": "numbered recommendations, no footnotes", "expected_markers": [], "expected_links": []},
+    {"page": 263, "label": "appendix/table-like numeric prose, no numeric footnotes", "expected_markers": [], "expected_links": []},
+    {"page": 303, "label": "budget table, numeric cells are not footnotes", "expected_markers": [], "expected_links": []}
+  ]
+}
