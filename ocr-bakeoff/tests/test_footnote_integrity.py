@@ -1,0 +1,48 @@
+import importlib.util
+import sys
+import unittest
+from pathlib import Path
+
+
+ROOT = Path(__file__).resolve().parents[2]
+MODULE_PATH = ROOT / "scripts" / "81_validate_footnote_integrity.py"
+SPEC = importlib.util.spec_from_file_location("validate_footnote_integrity", MODULE_PATH)
+assert SPEC and SPEC.loader
+integrity = importlib.util.module_from_spec(SPEC)
+sys.modules[SPEC.name] = integrity
+SPEC.loader.exec_module(integrity)
+
+
+class FootnoteIntegrityTests(unittest.TestCase):
+    def test_reference_without_definition_is_reported(self) -> None:
+        report = integrity.inventory("Text[^fn-ga14-p2-n1].")
+        self.assertEqual(report.missing_definitions, ["fn-ga14-p2-n1"])
+        self.assertEqual(report.orphan_definitions, [])
+
+    def test_definition_without_reference_is_reported(self) -> None:
+        report = integrity.inventory("[^fn-ga14-p2-n1]: Note text.")
+        self.assertEqual(report.missing_definitions, [])
+        self.assertEqual(report.orphan_definitions, ["fn-ga14-p2-n1"])
+
+    def test_duplicate_definition_is_reported(self) -> None:
+        report = integrity.inventory(
+            "Text[^fn-ga14-p2-n1].\n\n"
+            "[^fn-ga14-p2-n1]: First.\n"
+            "[^fn-ga14-p2-n1]: Duplicate."
+        )
+        self.assertEqual(report.duplicate_definitions, ["fn-ga14-p2-n1"])
+
+    def test_html_reference_and_definition_are_paired(self) -> None:
+        report = integrity.inventory(
+            '<sup id="fnref-fn-ga14-p2-n1"><a href="#fn-ga14-p2-n1">1</a></sup>'
+            '<a id="fn-ga14-p2-n1"></a><sup>1</sup> Note.'
+        )
+        self.assertEqual(report.issues, [])
+
+    def test_published_corpus_has_paired_footnotes(self) -> None:
+        paths = [ROOT / directory for directory in integrity.DEFAULT_DIRECTORIES]
+        self.assertEqual(integrity.validate_paths(paths), [])
+
+
+if __name__ == "__main__":
+    unittest.main()
