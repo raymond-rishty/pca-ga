@@ -10,6 +10,27 @@ index/disp_candidates/
 index/ratif_candidates/
 index/reocr/
 
+# OCR bakeoff generated data / environments
+ocr-bakeoff/envs/
+ocr-bakeoff/corpus/
+ocr-bakeoff/model-cache/
+ocr-bakeoff/logs/
+ocr-bakeoff/reports/
+ocr-bakeoff/source/
+ocr-bakeoff/benchmark/derived_images/
+ocr-bakeoff/benchmark/images/
+ocr-bakeoff/benchmark/normalized/
+ocr-bakeoff/benchmark/outputs/
+ocr-bakeoff/benchmark/gold/
+ocr-bakeoff/benchmark/metrics/
+ocr-bakeoff/benchmark/vlm-format-bakeoff/
+ocr-bakeoff/benchmark/pages.json
+ocr-bakeoff/benchmark/pdf_metadata.json
+ocr-bakeoff/.uv-cache*/
+ocr-bakeoff/tools/*/node_modules/
+*.traineddata
+tmp/
+
 # Python / Jekyll / OS
 __pycache__/
 *.pyc

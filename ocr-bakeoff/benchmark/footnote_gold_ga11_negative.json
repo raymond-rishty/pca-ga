@@ -1,0 +1,9 @@
+{
+  "schema": "pca-ga.footnote-gold.v1",
+  "volume": "ga11_1983",
+  "policy": "confirmed_only",
+  "verification": "visually checked negative control page",
+  "pages": [
+    {"page": 140, "label": "catechism/Confession references, no footnotes", "expected_markers": [], "expected_links": []}
+  ]
+}

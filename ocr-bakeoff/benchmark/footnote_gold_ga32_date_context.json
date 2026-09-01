@@ -1,0 +1,14 @@
+{
+  "schema": "pca-ga.footnote-gold.v1",
+  "volume": "ga32_2004",
+  "policy": "confirmed_only",
+  "verification": "source PDF visual inspection and native/Paddle/PP-Structure evidence adjudicated",
+  "pages": [
+    {
+      "page": 62,
+      "label": "case citation/date controls with one superscript marker linked to note 1",
+      "expected_markers": ["1"],
+      "expected_links": ["1"]
+    }
+  ]
+}
