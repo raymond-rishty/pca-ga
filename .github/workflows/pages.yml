@@ -68,6 +68,12 @@ jobs:
         run: node --test tests/source-pdf-links.test.js tests/minutes-back-to-top.test.js tests/minutes-page-source-pdf.test.js
       - name: Add source PDF metadata to extracted documents
         run: python3 scripts/add_extracted_source_pdf_metadata.py .
+      - name: Test footnote materialization
+        run: |
+          python3 -m unittest discover -s ocr-bakeoff/tests -p 'test_footnote_application.py'
+          python3 -m unittest discover -s ocr-bakeoff/tests -p 'test_footnote_integrity.py'
+          python3 -m unittest discover -s ocr-bakeoff/tests -p 'test_footnote_propagation.py'
+          python3 -m unittest discover -s ocr-bakeoff/tests -p 'test_footnote_false_positive_regressions.py'
       - name: Validate footnote pairing
         run: python3 scripts/81_validate_footnote_integrity.py
       - uses: ruby/setup-ruby@v1

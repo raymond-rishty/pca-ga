@@ -3,8 +3,8 @@
 The footnote detector works from PDF/OCR/layout evidence, while the files in
 ``markdown/`` are the published text.  This pass is the boundary between the
 two: it consumes a scan report, locates each marker using the OCR line/context
-witness retained in that report, and rewrites the matching note label as a
-CommonMark footnote definition.
+witness retained in that report, and rewrites the matching marker and note label
+as explicit HTML anchors that remain inside their PAGE chunks.
 
 The default is a dry run.  Use ``--apply`` only after reviewing the generated
 report::
@@ -37,6 +37,7 @@ from typing import Any, Iterable
 
 ROOT = Path(__file__).resolve().parents[1]
 PAGE = re.compile(r"<!-- PAGE ga=(\d+) pdf_page=(\d+)\b[^>]*-->")
+GENERATED_FOOTNOTE_ID = re.compile(r"fn-(?P<volume>ga\d{2})-p(?P<page>\d+)-n(?P<value>\d+)$")
 SUPERSCRIPT_TRANSLATION = str.maketrans("⁰¹²³⁴⁵⁶⁷⁸⁹", "0123456789")
 TYPOGRAPHIC_TRANSLATION = str.maketrans({
     "“": '"',
@@ -165,6 +166,70 @@ def citation_like_at(text: str, start: int, end: int) -> bool:
         re.search(r"\b(?:bco|rao|wcf)\s+\d+\s*[-.:]\s*\d", window)
         or re.search(r"(?:\d\s*[:/-]\s*[0-9lIi]|[0-9lIi]\s*[:/-]\s*\d)", window)
     )
+
+
+def footnote_value(footnote_id: str) -> str:
+    """Return the original printed number encoded in a generated ID."""
+    match = GENERATED_FOOTNOTE_ID.fullmatch(footnote_id)
+    if match:
+        return match.group("value")
+    return footnote_id.rsplit("-n", 1)[-1]
+
+
+def html_marker(footnote_id: str, value: str) -> str:
+    """Render an inline marker without invoking the renderer's global notes section."""
+    safe_id = html.escape(footnote_id, quote=True)
+    safe_value = html.escape(value, quote=False)
+    return f'<sup id="fnref-{safe_id}"><a href="#{safe_id}">{safe_value}</a></sup>'
+
+
+def html_definition(footnote_id: str, value: str) -> str:
+    """Render a page-local definition using the corpus's stable HTML anchors."""
+    safe_id = html.escape(footnote_id, quote=True)
+    safe_value = html.escape(value, quote=False)
+    return f'<a id="{safe_id}"></a><sup>{safe_value}</sup>'
+
+
+def migrate_native_footnotes(text: str) -> tuple[str, int, int]:
+    """Convert generated native Markdown footnotes to page-local HTML.
+
+    CommonMark's footnote extension collects native definitions into one
+    document-level section.  The corpus instead needs definitions to remain
+    inside the PAGE chunk where the source note was found.  This migration is
+    intentionally limited to the generated ``fn-gaNN-pN-nN`` namespace; other
+    Markdown footnotes are left untouched.
+    """
+    definition_pattern = re.compile(
+        r"(?m)^(?P<prefix>[ \t]*(?:>\s*)*)\[\^(?P<id>fn-[^\]\s]+)\]:"
+    )
+    migrated_definitions = 0
+
+    def replace_definition(match: re.Match[str]) -> str:
+        nonlocal migrated_definitions
+        migrated_definitions += 1
+        footnote_id = match.group("id")
+        replacement = match.group("prefix") + html_definition(
+            footnote_id, footnote_value(footnote_id)
+        )
+        following = text[match.end():]
+        if following and not following[0].isspace():
+            replacement += " "
+        return replacement
+
+    updated = definition_pattern.sub(replace_definition, text)
+    reference_pattern = re.compile(
+        r"\[\[\^(?P<double>fn-[^\]\s]+)\]\]|\[\^(?P<single>fn-[^\]\s]+)\]"
+    )
+    migrated_references = 0
+
+    def replace_reference(match: re.Match[str]) -> str:
+        nonlocal migrated_references
+        migrated_references += 1
+        footnote_id = match.group("double") or match.group("single")
+        return html_marker(footnote_id, footnote_value(footnote_id))
+
+    updated = reference_pattern.sub(replace_reference, updated)
+    return updated, migrated_references, migrated_definitions
 
 
 def page_chunks(text: str) -> dict[int, PageChunk]:
@@ -433,13 +498,11 @@ def marker_change(
         and not inside_standards_reference
     ):
         return None
-    if inside_html_table(page.text, start):
-        replacement = f'<sup id="fnref-{footnote_id}"><a href="#{footnote_id}">{value}</a></sup>'
-        kind = "marker_html"
-    else:
-        replacement = f"[^{footnote_id}]"
-        kind = "marker"
-    return Change(start, end, replacement, kind, link_key(link)[0])
+    # Native CommonMark footnotes are collected into one document-level
+    # section by the GitHub Pages renderer.  Use the same explicit HTML
+    # representation for prose and table markers so the link remains in the
+    # page chunk where the source marker occurs.
+    return Change(start, end, html_marker(footnote_id, value), "marker_html", link_key(link)[0])
 
 
 def note_change(
@@ -541,11 +604,9 @@ def note_change(
     if len(selected) != 1:
         return None
     _, start, end = selected[0]
-    replacement = (
-        f'<a id="{footnote_id}"></a><sup>{value}</sup>'
-        if html_style
-        else f"[^{footnote_id}]:"
-    )
+    # Keep definitions as inline HTML.  Native Markdown definitions are
+    # hoisted by CommonMarkGhPages, which breaks the PAGE-chunk contract.
+    replacement = html_definition(footnote_id, value)
     # The body-anchor path may consume the whitespace after the OCR label;
     # keep a separator so the definition remains readable and valid.
     if end > start and page.text[end - 1].isspace():
@@ -589,6 +650,7 @@ def apply_volume_text(
     links: list[dict[str, Any]],
     allow_gold_fallback: bool = False,
 ) -> tuple[str, dict[str, Any]]:
+    text, migrated_references, migrated_definitions = migrate_native_footnotes(text)
     pages = page_chunks(text)
     grouped: dict[tuple[str, int, str], list[dict[str, Any]]] = {}
     for link in links:
@@ -620,12 +682,6 @@ def apply_volume_text(
         definitions.setdefault((note_page, value), footnote_id)
 
     failed_definitions: set[tuple[int, str]] = set()
-    html_definitions: set[tuple[int, str]] = {
-        note_key
-        for pending in marker_changes.values()
-        for change, note_key in pending
-        if change.kind == "marker_html"
-    }
     for (note_page, value), footnote_id in definitions.items():
         # Pick the first link for this note target so its retained note text is
         # used as the textual anchor.  A different marker page can point to
@@ -640,7 +696,7 @@ def apply_volume_text(
             pages[note_page],
             link,
             footnote_id,
-            html_style=(note_page, value) in html_definitions,
+            html_style=True,
             allow_missing_label=allow_gold_fallback,
         )
         if definition is None:
@@ -688,6 +744,8 @@ def apply_volume_text(
         "changed_pages": applied_pages,
         "applied_markers": applied_markers,
         "applied_definitions": applied_definitions,
+        "migrated_references": migrated_references,
+        "migrated_definitions": migrated_definitions,
         "failures": failures,
         "skipped_ambiguous": skipped,
     }
@@ -871,13 +929,15 @@ def main() -> None:
         "definitions": sum(item["definitions"] for item in volume_results),
         "applied_markers": sum(item["applied_markers"] for item in volume_results),
         "applied_definitions": sum(item["applied_definitions"] for item in volume_results),
+        "migrated_references": sum(item.get("migrated_references", 0) for item in volume_results),
+        "migrated_definitions": sum(item.get("migrated_definitions", 0) for item in volume_results),
         "repaired_definitions": sum(item.get("repaired_definitions", 0) for item in volume_results),
         "failures": sum(len(item["failures"]) for item in volume_results),
         "skipped_ambiguous": sum(len(item["skipped_ambiguous"]) for item in volume_results),
     }
     args.output.parent.mkdir(parents=True, exist_ok=True)
     args.output.write_text(json.dumps(result, indent=2, ensure_ascii=False) + "\n", encoding="utf-8")
-    print(json.dumps({key: result[key] for key in ("reports", "links", "unique_markers", "definitions", "applied_markers", "applied_definitions", "repaired_definitions", "failures", "skipped_ambiguous")}, indent=2))
+    print(json.dumps({key: result[key] for key in ("reports", "links", "unique_markers", "definitions", "applied_markers", "applied_definitions", "migrated_references", "migrated_definitions", "repaired_definitions", "failures", "skipped_ambiguous")}, indent=2))
 
 
 if __name__ == "__main__":

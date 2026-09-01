@@ -41,12 +41,119 @@ The sentence ends here.3
 ### FOOTNOTES
 
 3 A supporting explanation.
-"""
+        """
         updated, summary = apply_footnotes.apply_volume_text("ga14", source, [link()])
-        self.assertIn("The sentence ends here.[^fn-ga14-p2-n3]", updated)
-        self.assertIn("[^fn-ga14-p2-n3]: A supporting explanation.", updated)
+        self.assertIn(
+            'The sentence ends here.<sup id="fnref-fn-ga14-p2-n3"><a href="#fn-ga14-p2-n3">3</a></sup>',
+            updated,
+        )
+        self.assertIn(
+            '<a id="fn-ga14-p2-n3"></a><sup>3</sup> A supporting explanation.',
+            updated,
+        )
+        self.assertNotIn("[^fn-ga14-p2-n3]", updated)
         self.assertEqual(summary["failures"], [])
         self.assertEqual(summary["skipped_ambiguous"], [])
+
+    def test_prose_definition_stays_inside_its_page_chunk(self):
+        source = """<!-- PAGE ga=14 pdf_page=2 printed_page=2 -->
+
+The sentence ends here.3
+
+3 A supporting explanation spanning
+the next source line.
+
+<!-- PAGE ga=14 pdf_page=3 printed_page=3 -->
+
+The next page starts here.
+"""
+        updated, summary = apply_footnotes.apply_volume_text("ga14", source, [link()])
+        page_two, page_three = updated.split(
+            '<!-- PAGE ga=14 pdf_page=3 printed_page=3 -->', maxsplit=1
+        )
+        self.assertIn('href="#fn-ga14-p2-n3">3</a>', page_two)
+        self.assertIn('<a id="fn-ga14-p2-n3"></a><sup>3</sup>', page_two)
+        self.assertNotIn("fn-ga14-p2-n3", page_three)
+        self.assertEqual(summary["failures"], [])
+
+    def test_cross_page_definition_remains_with_its_source_note_page(self):
+        source = """<!-- PAGE ga=14 pdf_page=2 printed_page=2 -->
+
+The sentence ends here.3
+
+<!-- PAGE ga=14 pdf_page=3 printed_page=3 -->
+
+3 A supporting explanation.
+"""
+        updated, summary = apply_footnotes.apply_volume_text(
+            "ga14",
+            source,
+            [link(marker_page=2, note_page=3)],
+        )
+        page_two, page_three = updated.split(
+            '<!-- PAGE ga=14 pdf_page=3 printed_page=3 -->', maxsplit=1
+        )
+        self.assertIn('href="#fn-ga14-p3-n3">3</a>', page_two)
+        self.assertNotIn('<a id="fn-ga14-p3-n3"></a>', page_two)
+        self.assertIn('<a id="fn-ga14-p3-n3"></a><sup>3</sup>', page_three)
+        self.assertEqual(summary["failures"], [])
+
+    def test_repeated_numbering_on_different_pages_has_distinct_ids(self):
+        source = """<!-- PAGE ga=14 pdf_page=2 printed_page=2 -->
+
+Alpha ends here.1
+
+1 First note.
+
+<!-- PAGE ga=14 pdf_page=3 printed_page=3 -->
+
+Beta ends here.1
+
+1 Second note.
+"""
+        updated, summary = apply_footnotes.apply_volume_text(
+            "ga14",
+            source,
+            [
+                link(
+                    marker_page=2,
+                    note_page=2,
+                    marker_value="1",
+                    marker_cluster_id="p2-m001",
+                    marker_line_text="Alpha ends here.1",
+                    marker_before_text="Alpha ends here.",
+                    note_text="1 First note.",
+                ),
+                link(
+                    marker_page=3,
+                    note_page=3,
+                    marker_value="1",
+                    marker_cluster_id="p3-m001",
+                    marker_line_text="Beta ends here.1",
+                    marker_before_text="Beta ends here.",
+                    note_text="1 Second note.",
+                ),
+            ],
+        )
+        self.assertIn('href="#fn-ga14-p2-n1">1</a>', updated)
+        self.assertIn('href="#fn-ga14-p3-n1">1</a>', updated)
+        self.assertIn('<a id="fn-ga14-p2-n1"></a><sup>1</sup> First note.', updated)
+        self.assertIn('<a id="fn-ga14-p3-n1"></a><sup>1</sup> Second note.', updated)
+        self.assertEqual(summary["failures"], [])
+
+    def test_migrates_existing_native_footnotes_to_page_local_html(self):
+        source = """<!-- PAGE ga=14 pdf_page=2 printed_page=2 -->
+
+Existing text[^fn-ga14-p2-n7]
+
+[^fn-ga14-p2-n7]: Existing note.
+"""
+        updated, summary = apply_footnotes.apply_volume_text("ga14", source, [])
+        self.assertIn('href="#fn-ga14-p2-n7">7</a>', updated)
+        self.assertIn('<a id="fn-ga14-p2-n7"></a><sup>7</sup> Existing note.', updated)
+        self.assertEqual(summary["migrated_references"], 1)
+        self.assertEqual(summary["migrated_definitions"], 1)
+        self.assertNotIn("[^fn-ga14-p2-n7]", updated)
 
     def test_strips_html_for_table_text_location(self):
         source = """<!-- PAGE ga=14 pdf_page=2 printed_page=2 -->
@@ -253,8 +360,8 @@ Ramsay supposed that debarment was an incitement to prompt prosecution.13
             )],
             allow_gold_fallback=True,
         )
-        self.assertIn("prosecution.[^fn-ga50-p853-n13]", updated)
-        self.assertIn("[^fn-ga50-p853-n13]: By this logic", updated)
+        self.assertIn('prosecution.<sup id="fnref-fn-ga50-p853-n13"><a href="#fn-ga50-p853-n13">13</a></sup>', updated)
+        self.assertIn('<a id="fn-ga50-p853-n13"></a><sup>13</sup> By this logic', updated)
         self.assertEqual(summary["failures"], [])
 
     def test_marker_after_context_disambiguates_trailing_superscript(self):
@@ -279,9 +386,9 @@ The cited essay ends at (Essay on Confessional Foundations, p. 23)23
             )],
             allow_gold_fallback=True,
         )
-        self.assertIn("p. 23)[^fn-ga49-p790-n23]", updated)
-        self.assertNotIn("p. [^fn-ga49-p790-n23])23", updated)
-        self.assertIn("[^fn-ga49-p790-n23]: PCA Statements", updated)
+        self.assertIn('p. 23)<sup id="fnref-fn-ga49-p790-n23"><a href="#fn-ga49-p790-n23">23</a></sup>', updated)
+        self.assertNotIn("p. <sup", updated)
+        self.assertIn('<a id="fn-ga49-p790-n23"></a><sup>23</sup> PCA Statements', updated)
         self.assertEqual(summary["failures"], [])
 
 

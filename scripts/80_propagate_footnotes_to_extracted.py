@@ -65,17 +65,35 @@ def root_has_footnote(text: str, footnote_id: str) -> bool:
 
 def root_definition_body(root_page: FOOTNOTES.PageChunk, footnote_id: str, value: str, html_style: bool) -> str:
     """Return the first-line note body from the already materialized root."""
-    if html_style:
-        pattern = rf'<a id="{footnote_id}"></a><sup>{re.escape(value)}</sup>\s*(?P<body>[^\r\n]*)'
-    else:
-        pattern = rf'^\[\^{re.escape(footnote_id)}\]:\s*(?P<body>[^\r\n]*)'
-    match = re.search(pattern, root_page.text, re.MULTILINE)
+    patterns = (
+        rf'<a id="{re.escape(footnote_id)}"></a><sup>{re.escape(value)}</sup>\s*(?P<body>[^\r\n]*)',
+        rf'^\[\^{re.escape(footnote_id)}\]:\s*(?P<body>[^\r\n]*)',
+    )
+    match = None
+    for pattern in patterns if html_style else patterns[::-1]:
+        match = re.search(pattern, root_page.text, re.MULTILINE)
+        if match:
+            break
     if not match:
         return ""
     body = match.group("body").strip()
     # Keep a concatenated following note out of the authoritative body
     # anchor (for example ``57 Ibid. p. 487. 58 Ibid...``).
     return re.split(r"\s+[1-9]\d{0,2}[,.)]?\s+(?=[A-Za-z\"'])", body, maxsplit=1)[0].strip()
+
+
+def has_materialized_marker(text: str, footnote_id: str) -> bool:
+    return (
+        f'id="fnref-{footnote_id}"' in text
+        and f'href="#{footnote_id}"' in text
+    )
+
+
+def has_materialized_definition(text: str, footnote_id: str) -> bool:
+    return (
+        f'<a id="{footnote_id}"></a>' in text
+        or f'[^{footnote_id}]:' in text
+    )
 
 def definition_change_from_root(
     page: FOOTNOTES.PageChunk,
@@ -96,6 +114,27 @@ def definition_change_from_root(
     body = root_definition_body(root_page, footnote_id, value, html_style)
     if len(FOOTNOTES.canonical(body)) < 8:
         return None
+
+    # A previous propagation pass could mistake the numeric label at the
+    # start of a concatenated note block for another marker, leaving a shape
+    # like ``<sup ...>11</sup>:Lauro Lines...``.  The authoritative root body
+    # makes this repair deterministic while avoiding a number-only rewrite.
+    misclassified = re.compile(
+        rf'<sup id="fnref-{re.escape(footnote_id)}"><a href="#{re.escape(footnote_id)}">'
+        rf'{re.escape(value)}</a></sup>[ \t]*:'
+    )
+    body_shadow = FOOTNOTES.canonical(body)
+    for match in misclassified.finditer(page.text):
+        following = FOOTNOTES.canonical(page.text[match.end():])
+        if following.startswith(body_shadow[:160]):
+            return FOOTNOTES.Change(
+                match.start(),
+                match.end(),
+                FOOTNOTES.html_definition(footnote_id, value) + " ",
+                "definition",
+                f"{page.page}:{value}",
+            )
+
     source = FOOTNOTES.CanonicalText(page.text)
     matches = list(source.find(body))
     candidates: list[tuple[int, int]] = []
@@ -141,11 +180,7 @@ def definition_change_from_root(
     if len(candidates) != 1:
         return None
     start, end = candidates[0]
-    replacement = (
-        f'<a id="{footnote_id}"></a><sup>{value}</sup>'
-        if html_style
-        else f"[^{footnote_id}]:"
-    )
+    replacement = FOOTNOTES.html_definition(footnote_id, value)
     return FOOTNOTES.Change(start, end, replacement, "definition", f"{page.page}:{value}")
 
 
@@ -177,7 +212,9 @@ def selected_links(
             row = dict(selected)
             row["volume"] = volume
             row["footnote_id"] = footnote_id
-            row["html_style"] = f'id="fnref-{footnote_id}"' in root_text
+            # HTML is the canonical representation for every generated
+            # footnote so definitions stay inside their PAGE chunk.
+            row["html_style"] = True
             result.setdefault(volume, []).append(row)
     return result
 
@@ -197,6 +234,7 @@ def propagate_file(
     apply: bool,
 ) -> dict[str, Any]:
     text = path.read_text(encoding="utf-8")
+    text, migrated_references, migrated_definitions = FOOTNOTES.migrate_native_footnotes(text)
     try:
         pages = FOOTNOTES.page_chunks(text)
     except ValueError:
@@ -213,13 +251,17 @@ def propagate_file(
         footnote_id = str(link["footnote_id"])
         if marker_page not in pages:
             continue
-        # The link is already gold-filtered and the authoritative root has the
-        # corresponding marker.  Allow the same context-only insertion here
-        # when an extracted document dropped the visible marker.
+        # Propagation carries definitions into extracted documents, but it must
+        # not invent another marker when a contextual number is present.  The
+        # source corpus can contain legitimate repeated numbers (roll calls,
+        # citations, and prose), so only a visible/materialized marker is an
+        # eligible propagation anchor.
         marker = FOOTNOTES.marker_change(
-            pages[marker_page], link, footnote_id, allow_missing_marker=True
+            pages[marker_page], link, footnote_id, allow_missing_marker=False
         )
-        if marker is None:
+        if marker is not None or not has_materialized_marker(
+            pages[marker_page].text, footnote_id
+        ):
             continue
         marker_links.append((link, note_page, footnote_id))
         definitions.setdefault(
@@ -232,6 +274,8 @@ def propagate_file(
         if note_page not in pages:
             failures.append({"kind": "definition", "page": note_page, "value": value})
             failed_definitions.add((note_page, value))
+            continue
+        if has_materialized_definition(pages[note_page].text, footnote_id):
             continue
         definition = definition_change_from_root(
             pages[note_page], root_pages[note_page], footnote_id, value, html_style
@@ -247,7 +291,7 @@ def propagate_file(
         if (note_page, value) not in failed_definitions:
             marker_page = int(link["marker_page"])
             marker = FOOTNOTES.marker_change(
-                pages[marker_page], link, footnote_id, allow_missing_marker=True
+                pages[marker_page], link, footnote_id, allow_missing_marker=False
             )
             if marker is not None:
                 changes.setdefault(marker_page, []).append(marker)
@@ -281,6 +325,8 @@ def propagate_file(
         "changed_pages": changed_pages,
         "applied_markers": applied_markers,
         "applied_definitions": applied_definitions,
+        "migrated_references": migrated_references,
+        "migrated_definitions": migrated_definitions,
         "failures": failures,
         "applied": apply,
     }
@@ -329,11 +375,13 @@ def main() -> None:
         "files_changed": len(changed),
         "applied_markers": sum(int(row.get("applied_markers", 0)) for row in results),
         "applied_definitions": sum(int(row.get("applied_definitions", 0)) for row in results),
+        "migrated_references": sum(int(row.get("migrated_references", 0)) for row in results),
+        "migrated_definitions": sum(int(row.get("migrated_definitions", 0)) for row in results),
         "results": results,
     }
     args.output.parent.mkdir(parents=True, exist_ok=True)
     args.output.write_text(json.dumps(payload, indent=2, ensure_ascii=False) + "\n", encoding="utf-8")
-    print(json.dumps({key: payload[key] for key in ("apply", "files_scanned", "files_changed", "applied_markers", "applied_definitions")}, indent=2))
+    print(json.dumps({key: payload[key] for key in ("apply", "files_scanned", "files_changed", "applied_markers", "applied_definitions", "migrated_references", "migrated_definitions")}, indent=2))
 
 
 if __name__ == "__main__":

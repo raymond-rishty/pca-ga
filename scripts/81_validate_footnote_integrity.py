@@ -18,6 +18,8 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
 DEFAULT_DIRECTORIES = ("markdown", "cases", "cases-rebuilt", "inquiries", "studies")
+PAGE = re.compile(r"<!-- PAGE ga=(\d+) pdf_page=(\d+)\b[^>]*-->")
+GENERATED_FOOTNOTE_ID = re.compile(r"fn-(?P<volume>ga\d{2})-p(?P<page>\d+)-n(?P<value>\d+)$")
 
 MARKDOWN_REFERENCE = re.compile(r"\[\^(fn-[^\]]+)\](?!:)")
 HTML_REFERENCE = re.compile(r'id="fnref-(fn-[^"]+)"')
@@ -90,6 +92,44 @@ def inventory(text: str) -> FootnoteInventory:
     return FootnoteInventory(tuple(references), tuple(definitions), concatenated_lines)
 
 
+def page_locality_issues(text: str) -> list[str]:
+    """Check that generated definitions remain in their encoded PAGE chunk."""
+    markers = list(PAGE.finditer(text))
+    if not markers:
+        return []
+
+    def page_at(offset: int) -> int | None:
+        for index, marker in enumerate(markers):
+            end = markers[index + 1].start() if index + 1 < len(markers) else len(text)
+            if marker.start() <= offset < end:
+                return int(marker.group(2))
+        return None
+
+    issues: list[str] = []
+    definition_patterns = (
+        re.compile(r"\[\^(fn-[^\]\s]+)\]:"),
+        re.compile(r'<a id="(fn-[^"]+)"></a>'),
+    )
+    seen: set[tuple[str, int]] = set()
+    for pattern in definition_patterns:
+        for match in pattern.finditer(text):
+            footnote_id = match.group(1)
+            parsed = GENERATED_FOOTNOTE_ID.fullmatch(footnote_id)
+            if not parsed:
+                continue
+            page = page_at(match.start())
+            if page is None:
+                issues.append(f"definition outside a PAGE chunk: {footnote_id}")
+                continue
+            expected_page = int(parsed.group("page"))
+            if page != expected_page and (footnote_id, page) not in seen:
+                issues.append(
+                    f"definition for {footnote_id} is in PAGE {page}, expected PAGE {expected_page}"
+                )
+                seen.add((footnote_id, page))
+    return issues
+
+
 def markdown_files(paths: list[Path]) -> list[Path]:
     files: list[Path] = []
     for path in paths:
@@ -105,9 +145,11 @@ def validate_paths(paths: list[Path]) -> list[tuple[Path, list[str]]]:
 
     failures: list[tuple[Path, list[str]]] = []
     for path in markdown_files(paths):
-        report = inventory(path.read_text(encoding="utf-8"))
-        if report.issues:
-            failures.append((path, report.issues))
+        text = path.read_text(encoding="utf-8")
+        report = inventory(text)
+        issues = report.issues + page_locality_issues(text)
+        if issues:
+            failures.append((path, issues))
     return failures
 
 
