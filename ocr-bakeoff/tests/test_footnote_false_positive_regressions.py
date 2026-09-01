@@ -71,6 +71,44 @@ class FootnoteFalsePositiveRegressionTests(unittest.TestCase):
             self.assertNotIn("dissenting, [^fn-ga40-p530-n1]", text, relative_path)
             self.assertIn("accepted as just or Constitutional.[^fn-ga40-p530-n1]", text)
 
+    def test_reviewed_ga36_ga45_and_ga46_markers_are_at_the_actual_references(self) -> None:
+        for relative_path in (
+            "markdown/ga36_2008.md",
+            "cases/ga36_2008__2006-02.md",
+        ):
+            text = read(relative_path)
+            self.assertIn("SJCM 16.1", text, relative_path)
+            self.assertNotIn("SJCM 16.[^fn-ga36-p85-n1]", text, relative_path)
+            self.assertIn("has no merit.[^fn-ga36-p85-n1]", text, relative_path)
+
+        for relative_path in (
+            "markdown/ga45_2017.md",
+            "cases/ga45_2017__2015-13.md",
+        ):
+            text = read(relative_path)
+            self.assertNotIn("almost [^fn-ga45-p484-n2] hours", text, relative_path)
+
+        for relative_path in (
+            "markdown/ga45_2017.md",
+            "cases/ga45_2017__2016-08.md",
+        ):
+            text = read(relative_path)
+            self.assertNotIn("and [^fn-ga45-p530-n21] others", text, relative_path)
+            self.assertIn("Larger Catechism... [^fn-ga45-p530-n21]", text, relative_path)
+
+        for relative_path in (
+            "markdown/ga46_2018.md",
+            "cases/ga46_2018__2016-11.md",
+        ):
+            text = read(relative_path)
+            self.assertNotIn("fn-ga46-p513-n4", text, relative_path)
+            self.assertNotIn("BCO 39-3.[^fn-ga46-p513-n1]", text, relative_path)
+            self.assertNotIn("Specifications 1 and [^fn-ga46-p520-n7]", text, relative_path)
+            self.assertNotIn("p. 658, [^fn-ga46-p523-n11]", text, relative_path)
+            self.assertIn("Specifications 1 and 7", text, relative_path)
+            self.assertIn("Robert's Rules.[^fn-ga46-p520-n7]", text, relative_path)
+            self.assertIn("institute process.[^fn-ga46-p523-n11]", text, relative_path)
+
 
 if __name__ == "__main__":
     unittest.main()
