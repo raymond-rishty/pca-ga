@@ -105,6 +105,53 @@ Deuteronomy 6:6-9.
         self.assertEqual(summary["applied_definitions"], 0)
         self.assertEqual(summary["failures"][0]["kind"], "marker")
 
+    def test_does_not_rewrite_dotted_bco_citation_number(self):
+        source = """<!-- PAGE ga=48 pdf_page=684 printed_page=667 -->
+
+BCO 34-5 stipulates this rule. Teaching should follow BCO 27.5.a.
+"""
+        updated, summary = apply_footnotes.apply_volume_text(
+            "ga48",
+            source,
+            [link(
+                marker_page=684,
+                note_page=684,
+                marker_value="5",
+                marker_line_text="BCO 34-5 stipulates this rule. Teaching should follow BCO 27.5.a.",
+                marker_before_text="BCO 34-",
+                marker_after_text=" stipulates",
+                note_text="5 A citation, not a footnote.",
+            )],
+        )
+        self.assertEqual(updated, source)
+        self.assertEqual(summary["applied_markers"], 0)
+        self.assertEqual(summary["applied_definitions"], 0)
+        self.assertEqual(summary["failures"][0]["kind"], "marker")
+
+    def test_gold_fallback_does_not_rewrite_dotted_bco_citation_number(self):
+        source = """<!-- PAGE ga=48 pdf_page=684 printed_page=667 -->
+
+Teaching should follow BCO 27.5.a.
+"""
+        updated, summary = apply_footnotes.apply_volume_text(
+            "ga48",
+            source,
+            [link(
+                marker_page=684,
+                note_page=684,
+                marker_value="5",
+                marker_line_text="BCO 27.5.a.",
+                marker_before_text="BCO 27.",
+                marker_after_text=".a.",
+                note_text="5 A citation, not a footnote.",
+            )],
+            allow_gold_fallback=True,
+        )
+        self.assertEqual(updated, source)
+        self.assertEqual(summary["applied_markers"], 0)
+        self.assertEqual(summary["applied_definitions"], 0)
+        self.assertEqual(summary["failures"][0]["kind"], "marker")
+
     def test_gold_filter_accepts_only_expected_marker_occurrences(self):
         with tempfile.TemporaryDirectory() as directory:
             path = Path(directory) / "gold.json"

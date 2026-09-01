@@ -159,8 +159,12 @@ def citation_like_at(text: str, start: int, end: int) -> bool:
     window = canonical(text[max(0, start - 8):end + 8])
     # This is deliberately narrower than the detector's citation model.  It is
     # a last-mile guard against turning forms such as ``Deuteronomy 6:6-9`` or
-    # ``BCO 40-5.2`` into Markdown footnote references.
-    return bool(re.search(r"(?:\d\s*[:/-]\s*[0-9lIi]|[0-9lIi]\s*[:/-]\s*\d)", window))
+    # ``BCO 40-5.2`` into Markdown footnote references.  BCO/RAO/WCF
+    # references also use dotted subsections (for example ``BCO 27.5.a``).
+    return bool(
+        re.search(r"\b(?:bco|rao|wcf)\s+\d+\s*[-.:]\s*\d", window)
+        or re.search(r"(?:\d\s*[:/-]\s*[0-9lIi]|[0-9lIi]\s*[:/-]\s*\d)", window)
+    )
 
 
 def page_chunks(text: str) -> dict[int, PageChunk]:
@@ -419,8 +423,14 @@ def marker_change(
     ):
         return None
     citation_boundary = page.text[max(0, start - 3):start].rstrip()
+    standards_prefix = canonical(page.text[max(0, start - 24):start])
+    inside_standards_reference = bool(
+        re.search(r"\b(?:bco|rao|wcf)\s+\d+\s*[-.:]\s*$", standards_prefix)
+    )
     if citation_like_at(page.text, start, end) and not (
-        allow_missing_marker and citation_boundary.endswith((".", ")", ",", ";"))
+        allow_missing_marker
+        and citation_boundary.endswith((".", ")", ",", ";"))
+        and not inside_standards_reference
     ):
         return None
     if inside_html_table(page.text, start):

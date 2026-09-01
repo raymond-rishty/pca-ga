@@ -2334,13 +2334,11 @@
       "label": "corpus-confirmed-or-adjudicated-footnote-markers",
       "expected_markers": [
         "3",
-        "4",
-        "5"
+        "4"
       ],
       "expected_links": [
         "3",
-        "4",
-        "5"
+        "4"
       ]
     },
     {
