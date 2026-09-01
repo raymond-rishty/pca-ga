@@ -2,7 +2,10 @@
 
 The renderer is run into a temporary directory for each requested GA.  Only
 successful layout pages replace their corresponding page chunks in markdown/;
-all non-layout pages and the document front matter remain unchanged.
+all non-layout pages and the document front matter remain unchanged.  When a
+footnote scan report is supplied, the confirmed links are then handed to
+``79_apply_footnotes.py`` so the same run can materialize native Markdown
+footnotes in the published text.
 """
 
 from __future__ import annotations
@@ -27,6 +30,17 @@ def parse_args() -> argparse.Namespace:
     parser.add_argument("--python", type=Path, default=Path(sys.executable), help="Python for the renderer.")
     parser.add_argument("--apply", action="store_true", help="Write updated minutes Markdown (default is report-only).")
     parser.add_argument("--report", type=Path, default=ROOT / "build" / "layout_minutes_apply_report.json")
+    parser.add_argument(
+        "--footnotes-report",
+        type=Path,
+        help="Optional v3 footnote scan report to apply after the layout render.",
+    )
+    parser.add_argument(
+        "--footnotes-output",
+        type=Path,
+        default=ROOT / "build" / "footnote_apply_report.json",
+        help="Audit report written by the optional footnote application pass.",
+    )
     return parser.parse_args()
 
 
@@ -103,7 +117,19 @@ def main() -> None:
                 source.write_text(prefix + "".join(proposed.get(page, current[page]) for page in current), encoding="utf-8")
             results.append({"assembly": f"ga{ga:02d}", "minutes": str(source.relative_to(ROOT)), "layout_pages": len(layout_pages), "replaced_pages": len(replace)})
             print(f"GA {ga:02d}: layout={len(layout_pages)} replace={len(replace)}", flush=True)
+    footnote_result = None
+    if args.footnotes_report:
+        command = [
+            str(interpreter), str(ROOT / "scripts" / "79_apply_footnotes.py"),
+            "--report", str(args.footnotes_report), "--ga", ",".join(f"ga{ga:02d}" for ga in sorted(numbers(args.ga))),
+            "--output", str(args.footnotes_output),
+        ]
+        if args.apply:
+            command.append("--apply")
+        subprocess.run(command, cwd=ROOT, check=True)
+        footnote_result = str(args.footnotes_output)
     report = {"apply": args.apply, "assemblies": results, "replaced_pages": sum(item["replaced_pages"] for item in results)}
+    report["footnotes_report"] = footnote_result
     args.report.parent.mkdir(parents=True, exist_ok=True)
     args.report.write_text(json.dumps(report, indent=2) + "\n", encoding="utf-8")
     print(json.dumps({"assemblies": len(results), "replaced_pages": report["replaced_pages"]}, indent=2))

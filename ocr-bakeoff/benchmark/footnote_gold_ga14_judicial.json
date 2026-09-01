@@ -1,0 +1,10 @@
+{
+  "schema": "pca-ga.footnote-gold.v1",
+  "volume": "ga14_1986",
+  "policy": "confirmed_only",
+  "verification": "visually checked against rendered source PDF pages and checkpoint/current OCR witnesses",
+  "pages": [
+    {"page": 106, "label": "inline marker 2, definition continues on page 107", "expected_markers": ["2"], "expected_links": ["2"]},
+    {"page": 107, "label": "inline marker 3 with explicit Footnotes block", "expected_markers": ["3"], "expected_links": ["3"]}
+  ]
+}

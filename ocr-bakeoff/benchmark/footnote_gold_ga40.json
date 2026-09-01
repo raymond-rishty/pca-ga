@@ -1,0 +1,12 @@
+{
+  "schema": "pca-ga.footnote-gold.v1",
+  "volume": "ga40_2012",
+  "policy": "confirmed_only",
+  "verification": "source PDF and native/layout evidence adjudicated",
+  "pages": [
+    {"page": 361, "label": "marker 1, note continues on page 362", "expected_markers": ["1"], "expected_links": ["1"]},
+    {"page": 538, "label": "footnotes 1-2", "expected_markers": ["1", "2"], "expected_links": ["1", "2"]},
+    {"page": 541, "label": "footnote 1", "expected_markers": ["1"], "expected_links": ["1"]},
+    {"page": 636, "label": "footnotes 123-128", "expected_markers": ["123", "124", "125", "126", "127", "128"], "expected_links": ["123", "124", "125", "126", "127", "128"]}
+  ]
+}

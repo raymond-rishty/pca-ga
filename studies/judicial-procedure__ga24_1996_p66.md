@@ -2143,7 +2143,7 @@
 > “higher” courts. They are courts themselves, with power to “resolve” matters brought
 > before them (BCO 11-4). Something settled in the lower court is settled. It is regarded
 > as settled and should bethought of as settled until and unless it is reversed by the
-> “higher” court.43 when a matter arises from a lower court to a higher court, then, the
+> “higher” court.[^fn-ga24-p124-n43] when a matter arises from a lower court to a higher court, then, the
 > presumption is always in favor of the lower court. the burden of proof rests upon the
 > individual complaining or appealing the action of the lower court.
 >
@@ -2152,7 +2152,7 @@
 > well review the actions of “lower” courts, but they do not ordinarily “retry” the same
 > matters themselves. When a matter resolved at the Sessional level comes before
 >
-> 4,The only exception to this rule is the provision regarding appeal of judicial decisions. If an individual
+> [^fn-ga24-p124-n43]:The only exception to this rule is the provision regarding appeal of judicial decisions. If an individual
 > is found guilty by a lower court, and if the individual appeals that ruling to a higher court, the lower
 > court’s decision is suspended (not over-ruled) until the hearing of the higher court: “Notice of appeal
 > shall have the effect of suspending the judgment of the lower court until the case has been finally decided
@@ -2171,9 +2171,9 @@
 >
 > Sadly, those who sit on the “higher” courts often become confused about their role, and misperceive their responsibility as though it consisted of re-trying the case from scratch. Nor is this sad misunderstanding new. Thomas E. Peck noticed the same tendency more than a century ago, and warned of its danger, which we believe is real in our day as well:
 >
-> They are the real enemies of the Assembly’s authority who would make its power absolute. If the Assembly assumes the powers of the sessions, then one of two things will almost certainly occur: either the sessions will rebel, in defence of their constitutional powers; or, they will consent to become ciphers, and their work will not be done at all. It is as certain as anything can be that the Assembly cannot discharge the judicial functions of the session. Why, then, attempt them?⁴⁴
+> They are the real enemies of the Assembly’s authority who would make its power absolute. If the Assembly assumes the powers of the sessions, then one of two things will almost certainly occur: either the sessions will rebel, in defence of their constitutional powers; or, they will consent to become ciphers, and their work will not be done at all. It is as certain as anything can be that the Assembly cannot discharge the judicial functions of the session. Why, then, attempt them?[^fn-ga24-p125-n44]
 >
-> ⁴⁴“The Action of the Assembly of 1879 on Worldly Amusements, or the Powers of Our Several Church Courts,” *Southern Presbyterian Review*, 1880, reprinted in *The Miscellanies of Thomas E. Peck*, ed. Thomas Cary Johnson, Richmond, 1895, vol. 2, pp. 331-60.
+> [^fn-ga24-p125-n44]:“The Action of the Assembly of 1879 on Worldly Amusements, or the Powers of Our Several Church Courts,” *Southern Presbyterian Review*, 1880, reprinted in *The Miscellanies of Thomas E. Peck*, ed. Thomas Cary Johnson, Richmond, 1895, vol. 2, pp. 331-60.
 >
 > <a id="ga24-p125"></a>
 > <!-- PAGE ga=24 pdf_page=126 printed_page=125 -->
@@ -2222,69 +2222,69 @@
 > handle a judicial case. At the same time the Assembly also approved a resolution stating
 > that in approving of the records, the Assembly "expressed] no opinion on the question
 > decided by the synod, in reference to the authority of the presbyteries . . . . to appoint
-> commissions in the case alluded to in the records of the synod."45 This apparently
+> commissions in the case alluded to in the records of the synod."[^fn-ga24-p127-n45] This apparently
 > resulted in a discussion in the Assembly, with the following resolution being presented
 > to the A ssem bly:"Resolved, that in the judgment of this Assembly, it is contrary to the
 > constitution and uniform practice of the presbyterian church in the united states for
 > any ecclesiastical judicatory to appoint a Commission to determine, judicially, any case
 >
-> 45Hodge, Charles, Church Polity\ (New York: Charles Scribner's Sons), 1878, p. 353.
+> [^fn-ga24-p127-n45]: Hodge, Charles, Church Polity\ (New York: Charles Scribner's Sons), 1878, p. 353.
 >
 > <a id="ga24-p127"></a>
 > <!-- PAGE ga=24 pdf_page=128 printed_page=127 -->
 >
-> whatever."⁴⁶ Rather than approve the resolution the Assembly referred it to a study committee composed of five members including Dr. Charles Hodge. The study committee saw that they had been presented with two questions to be answered, one a question of principle and the other a question of fact. First, is it contrary to the constitution of the Church to appoint commissions to handle judicial cases? Second, is the appointment of such commissions contrary to the historic practice of the Presbyterian Church. The report of this study committee will be particularly helpful to the Presbyterian Church in America since these two questions are ones that have been raised by elders in the PCA concerning the Standing Judicial Commission. Though the decision of the committee and the Assembly of 1847 is in no way binding on the Presbyterian Church in America in 1995, the reasoning may prove helpful in the evaluation of the current practice of the Church relating to the SJC.
+> whatever."[^fn-ga24-p128-n46] Rather than approve the resolution the Assembly referred it to a study committee composed of five members including Dr. Charles Hodge. The study committee saw that they had been presented with two questions to be answered, one a question of principle and the other a question of fact. First, is it contrary to the constitution of the Church to appoint commissions to handle judicial cases? Second, is the appointment of such commissions contrary to the historic practice of the Presbyterian Church. The report of this study committee will be particularly helpful to the Presbyterian Church in America since these two questions are ones that have been raised by elders in the PCA concerning the Standing Judicial Commission. Though the decision of the committee and the Assembly of 1847 is in no way binding on the Presbyterian Church in America in 1995, the reasoning may prove helpful in the evaluation of the current practice of the Church relating to the SJC.
 >
 > ## Are Judicial Commissions Unconstitutional?
 >
-> The committee, to the satisfaction of the Assembly, answered both questions. They answered the first question by stating that it was not contrary to the constitution. In answering they cited two reasons: "1st. Because the power in question is one of the inherent original powers of all primary Church courts. 2d. Because there is nothing in our constitution which forbids the exercise of that right."⁴⁷ The committee demonstrated that the powers of the courts of the Church are not granted to them by the constitution, but rather the constitution serves to limit the exercise of the inherent powers of the various courts. The various courts agree to this limitation when they adopt the constitution. There are two types of powers in the various Church courts, according to the committee: inherent powers and delegated powers. "The powers inherent in the people, they may exercise themselves, or delegate to those whom they choose to act in their stead."⁴⁸ The committee further noted that Presbyterians, in every country where they have established churches, have "acted on the assumption that they possessed the right of acting by commissions."⁴⁹ The committee further argued that since the use of commissions is an inherent right of Courts and since there is no particular prohibition against entrusting commissions with judicial procedures in the constitution then it is plainly constitutional to do so.
+> The committee, to the satisfaction of the Assembly, answered both questions. They answered the first question by stating that it was not contrary to the constitution. In answering they cited two reasons: "1st. Because the power in question is one of the inherent original powers of all primary Church courts. 2d. Because there is nothing in our constitution which forbids the exercise of that right."[^fn-ga24-p128-n47] The committee demonstrated that the powers of the courts of the Church are not granted to them by the constitution, but rather the constitution serves to limit the exercise of the inherent powers of the various courts. The various courts agree to this limitation when they adopt the constitution. There are two types of powers in the various Church courts, according to the committee: inherent powers and delegated powers. "The powers inherent in the people, they may exercise themselves, or delegate to those whom they choose to act in their stead."[^fn-ga24-p128-n48] The committee further noted that Presbyterians, in every country where they have established churches, have "acted on the assumption that they possessed the right of acting by commissions."[^fn-ga24-p128-n49] The committee further argued that since the use of commissions is an inherent right of Courts and since there is no particular prohibition against entrusting commissions with judicial procedures in the constitution then it is plainly constitutional to do so.
 >
 > ## Are Judicial Commissions Contrary to Presbyterian Practice?
 >
 > As to the second question of whether the use of commissions in such a way is contrary to the uniform practice of the Presbyterian Church in the United States, the committee offered ample proof that the Church had since its inception used commissions in such a way. Space does not allow the reproduction of all their citations but a few will be helpful. The committee cites an example from 1720 when a committee was appointed by a Synod to visit a church for the purpose of investigating a situation
 >
-> ⁴⁶ Ibid. p. 354.
-> ⁴⁷ Ibid. p. 354.
-> ⁴⁸ Ibid. p. 355.
-> ⁴⁹ Ibid. p. 355.
+> [^fn-ga24-p128-n46]: Ibid. p. 354.
+> [^fn-ga24-p128-n47]: Ibid. p. 354.
+> [^fn-ga24-p128-n48]: Ibid. p. 355.
+> [^fn-ga24-p128-n49]: Ibid. p. 355.
 >
 > <a id="ga24-p128"></a>
 > <!-- PAGE ga=24 pdf_page=129 printed_page=128 -->
 >
 > MINUTES OF GENERAL ASSEMBLY
 >
-> existing between the pastor and the church. The committee was given the full power of the Synod to "act in their name and by their authority."50 Several examples are cited when committees were empowered to remove censures from ministers if the examination of the committee indicated that it was proper. A standard practice in Presbyterian polity has been that only the court that inflicts a censure or a higher one can remove it. These examples give clear indications of a committee being empowered by a Synod or Presbytery (therefore a commission in our terminology) to act judicially. In 1766 an appeal filed by the Presbytery of Suffolk was referred to a committee empowered "to try and issue the whole affair."51
+> existing between the pastor and the church. The committee was given the full power of the Synod to "act in their name and by their authority."[^fn-ga24-p129-n50] Several examples are cited when committees were empowered to remove censures from ministers if the examination of the committee indicated that it was proper. A standard practice in Presbyterian polity has been that only the court that inflicts a censure or a higher one can remove it. These examples give clear indications of a committee being empowered by a Synod or Presbytery (therefore a commission in our terminology) to act judicially. In 1766 an appeal filed by the Presbytery of Suffolk was referred to a committee empowered "to try and issue the whole affair."[^fn-ga24-p129-n51]
 >
-> The committee cites many other examples showing clearly that the practice of the Presbyterian Church in the United States had always been to allow Courts to entrust judicial matters to commissions. Even though the Assembly did not eventually adopt the report of the committee it did express its agreement with the findings of the report by failing to adopt the recommendation that had resulted in the formation of the study committee. Hodge comments on this action by the Assembly by saying, "[t]he rejection of that resolution, or its indefinite postponement, was a refusal on the part of the Assembly to deny this right to our primary courts."52
+> The committee cites many other examples showing clearly that the practice of the Presbyterian Church in the United States had always been to allow Courts to entrust judicial matters to commissions. Even though the Assembly did not eventually adopt the report of the committee it did express its agreement with the findings of the report by failing to adopt the recommendation that had resulted in the formation of the study committee. Hodge comments on this action by the Assembly by saying, "[t]he rejection of that resolution, or its indefinite postponement, was a refusal on the part of the Assembly to deny this right to our primary courts."[^fn-ga24-p129-n52]
 >
 > ## Dr. Thornwell's Agreement
 >
-> It is interesting to note that Dr. James Henley Thornwell agreed with the findings of the committee and commented on it in a review of the 1847 Assembly.53 Dr. Thornwell states that Dr. Hodge and the committee were correct in their findings and that the report of the committee "furnished conclusive proof that the appointment of such Commissions is contrary neither to the Constitution nor the uniform practice of the Church."54 This agreement between Hodge and Thornwell is significant because of their disagreement on the propriety of boards and agencies in carrying on the work of the church. It is important, therefore, to understand Thornwell's reasoning in supporting the position of the committee that the use of commissions to handle judicial cases is both constitutionally acceptable and historically in step with Presbyterian polity.
+> It is interesting to note that Dr. James Henley Thornwell agreed with the findings of the committee and commented on it in a review of the 1847 Assembly.[^fn-ga24-p129-n53] Dr. Thornwell states that Dr. Hodge and the committee were correct in their findings and that the report of the committee "furnished conclusive proof that the appointment of such Commissions is contrary neither to the Constitution nor the uniform practice of the Church."[^fn-ga24-p129-n54] This agreement between Hodge and Thornwell is significant because of their disagreement on the propriety of boards and agencies in carrying on the work of the church. It is important, therefore, to understand Thornwell's reasoning in supporting the position of the committee that the use of commissions to handle judicial cases is both constitutionally acceptable and historically in step with Presbyterian polity.
 >
-> Thornwell did not believe that the use of commissions in judicial cases represented a situation of a court delegating its responsibility to another body. Rather Thornwell argues that the commission is nothing more that "the court itself, resolving to be constituted as such, with less than a majority of its members."55 Thornwell is quite emphatic in denying that the commission represents a delegation of powers. "It is quite a mistake to suppose, as some in the Assembly seem to apprehend, that the right to appoint a Commission is founded upon the right to delegate power. According to this view, there would be no necessity that the members of the Commission should be
+> Thornwell did not believe that the use of commissions in judicial cases represented a situation of a court delegating its responsibility to another body. Rather Thornwell argues that the commission is nothing more that "the court itself, resolving to be constituted as such, with less than a majority of its members."[^fn-ga24-p129-n55] Thornwell is quite emphatic in denying that the commission represents a delegation of powers. "It is quite a mistake to suppose, as some in the Assembly seem to apprehend, that the right to appoint a Commission is founded upon the right to delegate power. According to this view, there would be no necessity that the members of the Commission should be
 >
-> 50 *Ibid.* p. 357.
-> 51 *Ibid.* p. 358.
-> 52 *Ibid.* p. 359
-> 53 Thornwell, J.H. "The General Assembly of 1847." *Southern Presbyterian Review*. XIII; reprint, *Collected Writings of James Henley Thornwell*, IV, p. 486-88.
-> 54 *Ibid.* p. 486.
-> 55 *Ibid.* p. 487.
+> [^fn-ga24-p129-n50]: *Ibid.* p. 357.
+> [^fn-ga24-p129-n51]: *Ibid.* p. 358.
+> [^fn-ga24-p129-n52]: *Ibid.* p. 359
+> [^fn-ga24-p129-n53]: Thornwell, J.H. "The General Assembly of 1847." *Southern Presbyterian Review*. XIII; reprint, *Collected Writings of James Henley Thornwell*, IV, p. 486-88.
+> [^fn-ga24-p129-n54]: *Ibid.* p. 486.
+> [^fn-ga24-p129-n55]: *Ibid.* p. 487.
 >
 > <a id="ga24-p129"></a>
 > <!-- PAGE ga=24 pdf_page=130 printed_page=129 -->
 >
-> members of the court."⁵⁶ It is interesting to note that Thornwell argues that if one is to condemn the use of Commissions in judicial cases (or other matters it could be argued) then the same argument could be used against allowing a Court to establish a quorum for itself that was less than a majority of its members. This is the heart of Thornwell's argument. A commission appointed by a Church court can only contain members that are members of the court itself. That is why it is not delegation. Delegation of power means transference of power from those who have the power to those who do not ordinarily have it. There are some interesting implications of Thornwell's views that the PCA may want to consider at some time. He argues that because the commission is simply the court with a smaller quorum than normal, all members of the court are "de jure members of the Commission".⁵⁷ He also points out that since they are de jure members, they have a right to attend the meetings of the commission. "The appointment of certain persons by name precludes none others from attending; all members of the court are de jure members of the Commission; the only purpose of the appointment is to render it certain that some shall attend, by making it their duty to do so."⁵⁸
+> members of the court."[^fn-ga24-p130-n56] It is interesting to note that Thornwell argues that if one is to condemn the use of Commissions in judicial cases (or other matters it could be argued) then the same argument could be used against allowing a Court to establish a quorum for itself that was less than a majority of its members. This is the heart of Thornwell's argument. A commission appointed by a Church court can only contain members that are members of the court itself. That is why it is not delegation. Delegation of power means transference of power from those who have the power to those who do not ordinarily have it. There are some interesting implications of Thornwell's views that the PCA may want to consider at some time. He argues that because the commission is simply the court with a smaller quorum than normal, all members of the court are "de jure members of the Commission".[^fn-ga24-p130-n57] He also points out that since they are de jure members, they have a right to attend the meetings of the commission. "The appointment of certain persons by name precludes none others from attending; all members of the court are de jure members of the Commission; the only purpose of the appointment is to render it certain that some shall attend, by making it their duty to do so."[^fn-ga24-p130-n58]
 >
-> Though Thornwell and Hodge disagreed about the propriety of Church boards and agencies, it is clear that they agreed on the appropriateness of Commissions being used to handle judicial cases. This truth is helpful to the PCA as she examines her own Standing Judicial Commission at this point in time. It is clear from the report to the 1847 Assembly and Thornwell's article that this was not a Northern Presbyterian or Southern Presbyterian issue. The leaders of both sections of the church agreed as to the propriety of commissions being used to decide judicial cases. The same argument hold true today. It is not contrary to our constitution to appoint commissions to hear judicial cases. This has been the case from the foundation of the denomination. There have been, however, those who have argued that the use of commissions in this fashion is not in keeping with Presbyterian polity. According to this view, the Presbyterian practice should be that the entire court must hear and decide all judicial cases that come before it. Both Thornwell and Hodge argue effectively against this position. For those who argue for this position, the point made by Dr. Thornwell in 1847 is just as telling today: "[I]f Commissions are to be condemned, we are at a loss to determine upon what principle the provision of our government making the quorum of a court consist in many cases of a very small fraction of its members, can be defended."⁵⁹
+> Though Thornwell and Hodge disagreed about the propriety of Church boards and agencies, it is clear that they agreed on the appropriateness of Commissions being used to handle judicial cases. This truth is helpful to the PCA as she examines her own Standing Judicial Commission at this point in time. It is clear from the report to the 1847 Assembly and Thornwell's article that this was not a Northern Presbyterian or Southern Presbyterian issue. The leaders of both sections of the church agreed as to the propriety of commissions being used to decide judicial cases. The same argument hold true today. It is not contrary to our constitution to appoint commissions to hear judicial cases. This has been the case from the foundation of the denomination. There have been, however, those who have argued that the use of commissions in this fashion is not in keeping with Presbyterian polity. According to this view, the Presbyterian practice should be that the entire court must hear and decide all judicial cases that come before it. Both Thornwell and Hodge argue effectively against this position. For those who argue for this position, the point made by Dr. Thornwell in 1847 is just as telling today: "[I]f Commissions are to be condemned, we are at a loss to determine upon what principle the provision of our government making the quorum of a court consist in many cases of a very small fraction of its members, can be defended."[^fn-ga24-p130-n59]
 >
 > ## The Rights of the Parties
 >
 > In addition to the rights of the courts to hear appeals and complaints by commissions, the Presbyterian Church also believed that the parties in these cases also had rights in the matter. The most important of these in relationship to the proper use of commissions is that trial by commission was subject to approval by the parties involved. This is not clear from the Committee report and Thornwell's article but it is clearly
 >
-> ⁵⁶ Ibid. p. 487.
-> ⁵⁷ Ibid. p. 487.
-> ⁵⁸ Ibid p. 487.
-> ⁵⁹ Ibid. p. 487.
+> [^fn-ga24-p130-n56]:Ibid. p. 487.
+> [^fn-ga24-p130-n57]:Ibid. p. 487.
+> [^fn-ga24-p130-n58]: Ibid p. 487.
+> [^fn-ga24-p130-n59]:Ibid. p. 487.
 >
 > <a id="ga24-p130"></a>
 > <!-- PAGE ga=24 pdf_page=131 printed_page=130 -->
@@ -2777,11 +2777,11 @@
 >
 > "[W]e must repeat the ‘state of the question’ once more: Does the same force belong to the deliverances in thesi of the higher courts as to their judicial decisions? Do the two classes of decisions regulate and determine the administration of discipline in the same way and to the same extent? Or, to express the same thing in other words, does the interpretation of a law by an appellate court—the interpretation being given in thesis—bind a court of original jurisdiction in such a sense as to deprive it of its power of judgment as to the meaning of said law, and compel it to accept and act upon the interpretation of the appellate court as the law of the Church? . . . The General Assembly of 1879 answers it clearly and unanimously in the negative; and, we think, truly and righteously. . . .” [pp. 337-338.]
 >
-> "We confess to a great astonishment that brethren should insist that deliverances in thesi have the same force and judicial decisions. The two classes of acts are reached by processes wholly different. A deliverance in thesi may concern a subject which has never been before the church or any of its courts; may be ‘sprung’ upon the Assembly by some ardent and eloquent member, and be carried by his personal influence and eloquence. A judicial decision by that court necessarily implies discussion in a least two of the lower courts—in a cause originating in the session it is implied that the matter has been discussed in three—before it is called to decide. The cause is represented on both sides by counsel, who are fully heard; and the members of the court next below are heard, etc., etc.; all circumstances which give assurance that the matter has been fully discussed by those most competent to do it. Further, the deliverance in thesi is apt to be sweeping and general. The judicial decision is upon a case, is interpreted by it, and is applicable only to similar cases.73 The responsibility in delivering a judgment in a judicial case will be more sensibly felt by the members of the court, because they are not only interpreting the law, but are judging a brother, and are determining his ecclesiastical status. . . .” [pp. 344-345.]
+> "We confess to a great astonishment that brethren should insist that deliverances in thesi have the same force and judicial decisions. The two classes of acts are reached by processes wholly different. A deliverance in thesi may concern a subject which has never been before the church or any of its courts; may be ‘sprung’ upon the Assembly by some ardent and eloquent member, and be carried by his personal influence and eloquence. A judicial decision by that court necessarily implies discussion in a least two of the lower courts—in a cause originating in the session it is implied that the matter has been discussed in three—before it is called to decide. The cause is represented on both sides by counsel, who are fully heard; and the members of the court next below are heard, etc., etc.; all circumstances which give assurance that the matter has been fully discussed by those most competent to do it. Further, the deliverance in thesi is apt to be sweeping and general. The judicial decision is upon a case, is interpreted by it, and is applicable only to similar cases.[^fn-ga24-p145-n73] The responsibility in delivering a judgment in a judicial case will be more sensibly felt by the members of the court, because they are not only interpreting the law, but are judging a brother, and are determining his ecclesiastical status. . . .” [pp. 344-345.]
 >
 > "[I]f the idea of the unity of the church is to be realized on any larger scale than that of a single coetus fidelium, there must be appellate jurisdiction, and a power given to some higher court to ‘decide’ all controversies. This is the reason why a ‘judicial decision’ of the General Assembly becomes law and continues to be law until a contrary decision is rendered by the same court—law, in the sense of a regulator of the exercise of discipline in the courts below. . . . [T]he courts of
 >
-> 73 Emphasis added.
+> [^fn-ga24-p145-n73]:Emphasis added.
 >
 > <a id="ga24-p145"></a>
 > <!-- PAGE ga=24 pdf_page=146 printed_page=145 -->

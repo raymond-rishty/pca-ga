@@ -1,0 +1,20 @@
+{
+  "schema": "pca-ga.footnote-gold.v1",
+  "volume": "ga23_1995",
+  "policy": "confirmed_only",
+  "verification": "source PDF visual inspection and PP-Structure evidence adjudicated",
+  "pages": [
+    {
+      "page": 117,
+      "label": "footnotes 1-4",
+      "expected_markers": ["1", "2", "3", "4"],
+      "expected_links": ["1", "2", "3", "4"]
+    },
+    {
+      "page": 118,
+      "label": "footnotes 5-7 including marker after a closing quotation",
+      "expected_markers": ["5", "6", "7"],
+      "expected_links": ["5", "6", "7"]
+    }
+  ]
+}

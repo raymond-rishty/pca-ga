@@ -1,0 +1,12 @@
+{
+  "schema": "pca-ga.footnote-gold.v1",
+  "volume": "ga15_1987",
+  "policy": "confirmed_only",
+  "verification": "visually adjudicated against rendered source PDF pages",
+  "pages": [
+    {"page": 440, "label": "footnotes 11-14", "expected_markers": ["11", "12", "13", "14"], "expected_links": ["11", "12", "13", "14"]},
+    {"page": 456, "label": "footnotes 50-53", "expected_markers": ["50", "51", "52", "53"], "expected_links": ["50", "51", "52", "53"]},
+    {"page": 457, "label": "footnotes 54-59", "expected_markers": ["54", "55", "56", "57", "58", "59"], "expected_links": ["54", "55", "56", "57", "58", "59"]},
+    {"page": 459, "label": "footnotes 70-73", "expected_markers": ["70", "71", "72", "73"], "expected_links": ["70", "71", "72", "73"]}
+  ]
+}

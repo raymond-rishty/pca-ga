@@ -1,0 +1,14 @@
+{
+  "schema": "pca-ga.footnote-gold.v1",
+  "volume": "ga18_1990",
+  "policy": "confirmed_only",
+  "verification": "source PDF visual inspection and PP-Structure/native evidence adjudicated",
+  "pages": [
+    {
+      "page": 164,
+      "label": "terminal inline marker 76 paired with an unlabeled explicit footnote block",
+      "expected_markers": ["76"],
+      "expected_links": ["76"]
+    }
+  ]
+}
