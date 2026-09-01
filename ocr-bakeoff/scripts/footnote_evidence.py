@@ -480,8 +480,11 @@ def native_marker_candidates(
                 "value": "".join(SUPERSCRIPT_DIGITS.get(char["text"], char["text"]) for char in run),
                 "bbox": bbox,
                 "source": "pymupdf",
+                "line_index": line.get("line_index"),
                 "line_text": line.get("text", ""),
                 "line_bbox": line.get("bbox"),
+                "before_text": before,
+                "after_text": after,
                 "line_start": line_start,
                 "inline_after_word": inline_after_word,
                 "attached": bool(previous and not previous.isspace()),
@@ -788,6 +791,8 @@ def hocr_marker_candidates(hocr: dict[str, Any]) -> tuple[list[dict[str, Any]], 
                 "line_index": index,
                 "line_text": line["text"],
                 "line_bbox": line["box"],
+                "before_text": before,
+                "after_text": after,
                 "line_start": not before.strip(),
                 "inline_after_word": inline_after_word,
                 "attached": inline_after_word,
@@ -975,6 +980,7 @@ def make_ocr_candidate(
         "line_index": line.get("index"),
         "line_text": text,
         "line_bbox": line.get("box"),
+        "before_text": prefix,
         "ocr_score": line.get("score"),
         "line_start": line_start,
         "inline_after_word": inline_after_word,
@@ -2586,6 +2592,19 @@ def rebuild_marker_clusters(pages: list[dict[str, Any]]) -> None:
                     key = (entry.get("page"), entry.get("value"), tuple(entry.get("bbox") or []))
                     if not any((old.get("page"), old.get("value"), tuple(old.get("bbox") or [])) == key for old in entries):
                         entries.append(entry)
+            # The published Markdown is generated from the Paddle line text.
+            # Preserve one representative line/context witness in the compact
+            # link so the application pass can locate the marker after OCR and
+            # layout processing, without trying to recover a character offset
+            # from PDF geometry alone.
+            representative = next(
+                (
+                    marker
+                    for marker in group_markers
+                    if marker.get("source") == "paddle_ocr"
+                ),
+                group_markers[0],
+            )
             clusters.append(
                 {
                     "cluster_id": cluster_id,
@@ -2597,6 +2616,11 @@ def rebuild_marker_clusters(pages: list[dict[str, Any]]) -> None:
                     "sources": sorted({str(marker.get("source")) for marker in group_markers}),
                     "witness_count": len(group_markers),
                     "witness_indices": [marker_index for marker_index, _ in group],
+                    "marker_source": representative.get("source"),
+                    "marker_line_index": representative.get("line_index"),
+                    "marker_line_text": representative.get("line_text", ""),
+                    "marker_before_text": representative.get("before_text", ""),
+                    "marker_after_text": representative.get("after_text", ""),
                     "paired_note_entries": entries,
                 }
             )
@@ -2744,7 +2768,13 @@ def rebuild_links(pages: list[dict[str, Any]]) -> None:
                     "marker_sources": cluster.get("sources", []),
                     "marker_cluster_id": cluster.get("cluster_id"),
                     "marker_bbox": cluster.get("bbox"),
+                    "marker_line_index": cluster.get("marker_line_index"),
+                    "marker_line_text": cluster.get("marker_line_text", ""),
+                    "marker_before_text": cluster.get("marker_before_text", ""),
+                    "marker_after_text": cluster.get("marker_after_text", ""),
                     "note_bbox": entry.get("bbox"),
+                    "note_line_index": entry.get("line_index"),
+                    "note_text": entry.get("text", ""),
                     "classification": cluster.get("classification"),
                     "score": cluster.get("score"),
                     "scope_id": page.get("scope_id"),

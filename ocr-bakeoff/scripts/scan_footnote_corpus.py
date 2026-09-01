@@ -448,7 +448,7 @@ def main() -> None:
                 legacy_source=legacy_source,
             )
         )
-    output = {"schema": "pca-ga.footnote-corpus-scan.v2", "reports": reports}
+    output = {"schema": "pca-ga.footnote-corpus-scan.v3", "reports": reports}
     args.output.parent.mkdir(parents=True, exist_ok=True)
     args.output.write_text(json.dumps(output, indent=2, ensure_ascii=False) + "\n", encoding="utf-8")
     print(

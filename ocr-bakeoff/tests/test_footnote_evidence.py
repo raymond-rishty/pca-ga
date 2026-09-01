@@ -898,6 +898,7 @@ class FootnoteEvidenceTests(unittest.TestCase):
             },
             {
                 "value": "1", "source": "paddle_ocr", "bbox": [51, 99, 58, 110],
+                "line_index": 3, "line_text": "A sentence.1", "before_text": "A sentence.", "after_text": "",
                 "classification": "candidate", "score": 8,
                 "reasons": ["inline_after_word"], "paired_note_entries": [],
             },
@@ -909,6 +910,8 @@ class FootnoteEvidenceTests(unittest.TestCase):
         self.assertEqual(cluster["witness_count"], 2)
         self.assertEqual(cluster["classification"], "confirmed")
         self.assertEqual(cluster["sources"], ["paddle_ocr", "pymupdf"])
+        self.assertEqual(cluster["marker_line_text"], "A sentence.1")
+        self.assertEqual(cluster["marker_before_text"], "A sentence.")
 
     def test_hocr_character_boxes_supply_scan_geometry(self) -> None:
         self.assertTrue(footnote.inline_after_word_context('parent."'))

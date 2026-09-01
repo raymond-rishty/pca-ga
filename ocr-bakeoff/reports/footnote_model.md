@@ -1,12 +1,14 @@
 # Footnote identification model
 
-Status: experimental evidence model. It is suitable for measurement and review, not yet for automatically rewriting minutes.
+Status: experimental evidence model with a guarded Markdown materialization step. The detector remains suitable for measurement and review; only reviewed `v3` scan reports should be used to rewrite published minutes.
 
 ## Model contract
 
 The detector keeps independent witnesses and produces `confirmed`, `candidate`, or `ambiguous` classifications. It then clusters overlapping native/OCR observations into one logical marker, so corroboration increases confidence without double-counting markers or links. The classification layer is deterministic for a fixed PDF, OCR artifact, layout artifact, and legacy witness. It never treats a raw inline digit as a footnote solely because a footnote block exists. The `links` field contains accepted (`confirmed`) links only; paired candidates are retained in `review_links` and in the marker clusters.
 
-The implementation is [`scripts/footnote_evidence.py`](../scripts/footnote_evidence.py), with focused tests in [`tests/test_footnote_evidence.py`](../tests/test_footnote_evidence.py). The page-bounded evaluator is [`scripts/evaluate_footnote_evidence.py`](../scripts/evaluate_footnote_evidence.py), scope candidates are derived by [`scripts/derive_footnote_scopes.py`](../scripts/derive_footnote_scopes.py), corpus discovery is driven by [`scripts/scan_footnote_corpus.py`](../scripts/scan_footnote_corpus.py), and gold labels live under `benchmark/footnote_gold_*.json`.
+The evidence implementation is [`scripts/footnote_evidence.py`](../scripts/footnote_evidence.py), with focused tests in [`tests/test_footnote_evidence.py`](../tests/test_footnote_evidence.py). The page-bounded evaluator is [`scripts/evaluate_footnote_evidence.py`](../scripts/evaluate_footnote_evidence.py), scope candidates are derived by [`scripts/derive_footnote_scopes.py`](../scripts/derive_footnote_scopes.py), corpus discovery is driven by [`scripts/scan_footnote_corpus.py`](../scripts/scan_footnote_corpus.py), and gold labels live under `benchmark/footnote_gold_*.json`.
+
+The publication boundary is [`scripts/79_apply_footnotes.py`](../../scripts/79_apply_footnotes.py). It consumes only `confirmed` links from the scanner's `pca-ga.footnote-corpus-scan.v3` report, uses the retained OCR line/context witness to locate the corresponding text in `markdown/`, and writes native CommonMark references/definitions. Markers inside raw HTML tables use linked `<sup>`/`<a>` markup because native `[^...]` syntax is not parsed inside an HTML block. [`scripts/54_apply_layout_render_to_minutes.py`](../../scripts/54_apply_layout_render_to_minutes.py) can invoke this materializer after its layout render with `--footnotes-report`; without `--apply`, both stages remain dry-run/audit-only.
 
 All boxes in the output are normalized to PDF points. The sidecar records the original evidence source, marker text, line context, typography fields where available, note block, pairing, sequence support, score, and reasons.
 
@@ -109,7 +111,7 @@ These are behavioral checks, not precision/recall claims. A scan-adjudicated gol
 2. Keep the current Tesseract.js hOCR/`.box` path diagnostic-only: the 40-page extension added no recall and introduced 22 false positives. If the marker-recall gate requires improvement, test a higher-DPI/true-baseline OCR source or tightly cropped OpenCV/CV measurements on table-marker pages, always against the existing negative controls; do not treat word-only hOCR or ordinary reduced glyph height as sufficient evidence.
 3. Adjudicate the scoped `review_queue`, starting with the 59 baseline (58 checkpoint) note entries without marker pairs, the one legacy-only GA24 review item, and the highest-evidence marker items. Then expand the verified gold set beyond the current 42-page sample to cover GA14, GA18/23 context variants, GA32 date controls, GA40 judicial/table cases, ordinary numbered paragraphs, citations, vote totals, and pages with no notes. Use the measured false-positive list/table cases to refine note-block boundaries before changing marker thresholds.
 4. Measure marker precision/recall, note-block precision/recall, and marker-to-note pairing accuracy separately for vector and scanned pages.
-5. Render only confirmed links by default; preserve candidates and ambiguities for review rather than silently altering text.
+5. Apply only a reviewed `v3` report. The materializer preserves candidates, ambiguities, citation-shaped numbers, unlocated markers, and unlocated definitions for review rather than silently altering text; its audit records intended links separately from actually applied markers and definitions.
 6. Consider PP-Structure fine-tuning or a VLM only if the measured block/marker recall remains inadequate after the evidence model is complete.
 
 Example runs:
@@ -157,6 +159,21 @@ To measure the corpus-level note-block and note-label slice:
   --gold .\ocr-bakeoff\benchmark\footnote_gold_corpus_adjudicated_sample.json `
   --output .\ocr-bakeoff\reports\footnote_corpus_adjudicated_sample_eval.json
 ```
+
+To materialize reviewed links in the published Markdown:
+
+```powershell
+& .\ocr-bakeoff\envs\common\Scripts\python.exe `
+  .\scripts\79_apply_footnotes.py `
+  --report .\tmp\footnote_scan_reviewed_v3.json `
+  --ga ga14,ga40 `
+  --output .\tmp\footnote_apply_report.json `
+  --apply
+```
+
+The default is a dry run. Review the audit report and the Markdown diff before
+passing `--apply`; the wrapper in `54_apply_layout_render_to_minutes.py` uses
+the same rule when `--footnotes-report` is supplied.
 
 To derive reviewable scope candidates from the indexed case ranges and physical
 structure metadata:
