@@ -30,6 +30,7 @@ HTML_DEFINITION = re.compile(r'<a id="(fn-[^"]+)"></a>')
 class FootnoteInventory:
     references: tuple[str, ...]
     definitions: tuple[str, ...]
+    concatenated_definition_lines: tuple[int, ...]
 
     @property
     def reference_ids(self) -> set[str]:
@@ -64,6 +65,9 @@ class FootnoteInventory:
             issues.append("definitions without references: " + ", ".join(self.orphan_definitions))
         if self.duplicate_definitions:
             issues.append("duplicate definitions: " + ", ".join(self.duplicate_definitions))
+        if self.concatenated_definition_lines:
+            lines = ", ".join(str(line) for line in self.concatenated_definition_lines)
+            issues.append("multiple definitions on one line: " + lines)
         return issues
 
 
@@ -78,7 +82,12 @@ def inventory(text: str) -> FootnoteInventory:
     for pattern in (MARKDOWN_DEFINITION, HTML_DEFINITION):
         definitions.extend(match.group(1) for match in pattern.finditer(text))
 
-    return FootnoteInventory(tuple(references), tuple(definitions))
+    concatenated_lines = tuple(
+        line_number
+        for line_number, line in enumerate(text.splitlines(), start=1)
+        if sum(len(pattern.findall(line)) for pattern in (MARKDOWN_DEFINITION, HTML_DEFINITION)) > 1
+    )
+    return FootnoteInventory(tuple(references), tuple(definitions), concatenated_lines)
 
 
 def markdown_files(paths: list[Path]) -> list[Path]:

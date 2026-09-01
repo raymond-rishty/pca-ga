@@ -32,6 +32,13 @@ class FootnoteIntegrityTests(unittest.TestCase):
         )
         self.assertEqual(report.duplicate_definitions, ["fn-ga14-p2-n1"])
 
+    def test_concatenated_definitions_are_reported(self) -> None:
+        report = integrity.inventory(
+            "[^fn-ga14-p2-n1]: First. [^fn-ga14-p2-n2]: Second."
+        )
+        self.assertEqual(report.concatenated_definition_lines, (1,))
+        self.assertIn("multiple definitions on one line: 1", report.issues)
+
     def test_html_reference_and_definition_are_paired(self) -> None:
         report = integrity.inventory(
             '<sup id="fnref-fn-ga14-p2-n1"><a href="#fn-ga14-p2-n1">1</a></sup>'
