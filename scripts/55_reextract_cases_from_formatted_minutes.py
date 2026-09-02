@@ -27,6 +27,11 @@ SPEC.loader.exec_module(matcher)
 PAGE = re.compile(r"(?s)(<!-- PAGE ga=(\d+) pdf_page=(\d+)\b[^>]*-->)(.*?)(?=<!-- PAGE ga=|\Z)")
 ANCHOR = re.compile(r'^<a id="[^"]+"></a>\s*', re.M)
 SOURCE = re.compile(r"\*Source: \[([^ ]+) p{1,2}\. (\d+)(?:[–-](\d+))?")
+MARKDOWN_REFERENCE = re.compile(r"\[\^(fn-[^\]]+)\](?!:)")
+HTML_REFERENCE = re.compile(r'id="fnref-(fn-[^"]+)"')
+HTML_HREF_REFERENCE = re.compile(r'href="#(fn-[^"]+)"')
+MARKDOWN_DEFINITION = re.compile(r"\[\^(fn-[^\]]+)\]:")
+HTML_DEFINITION = re.compile(r'<a id="(fn-[^"]+)"></a>')
 ADDRESS_SIGNAL = re.compile(
     r"(?i)(^\s*(?:\d{1,6}\s+.*\b(?:road|street|lane|drive|avenue|boulevard|highway)|route\s+\d)\b"
     r"|\b(?:p\.?\s*o\.?\s+box|post office box|box)\s+\d"
@@ -81,6 +86,24 @@ def soft_wrap_case_text(text: str) -> str:
             content = line.rstrip("\r\n")
             result.append(re.sub(r"[ \t]+$", "", content) + line[len(content) :])
     return "".join(result)
+
+
+def footnote_issues(text: str) -> dict[str, list[str]]:
+    """Return generated footnote IDs that would be orphaned by extraction."""
+    references = {
+        match.group(1)
+        for pattern in (MARKDOWN_REFERENCE, HTML_REFERENCE, HTML_HREF_REFERENCE)
+        for match in pattern.finditer(text)
+    }
+    definitions = {
+        match.group(1)
+        for pattern in (MARKDOWN_DEFINITION, HTML_DEFINITION)
+        for match in pattern.finditer(text)
+    }
+    return {
+        "missing_definitions": sorted(references - definitions),
+        "orphan_definitions": sorted(definitions - references),
+    }
 
 
 def source_pages(vol: str) -> dict[int, dict]:
@@ -212,6 +235,14 @@ def candidate(row: dict, anchor_threshold: float, pages_cache: dict[str, dict[in
         text = pages[page]["text"] if page != last_page else pages[page]["text"][:end_offset]
         output.append(f"{pages[page]['marker']}\n\n{text}".strip())
     body = "\n\n".join(part.strip() for part in output if part.strip())
+    footnotes = footnote_issues(body)
+    if any(footnotes.values()):
+        return {
+            "case_file": row["path"],
+            "status": "footnote_integrity",
+            "span": [first_page, last_page],
+            **footnotes,
+        }, None
     score = matcher.whole_score(row["old_body"], body)
     return {
         "case_file": row["path"], "case_id": row["case_id"], "title": row["title"],
