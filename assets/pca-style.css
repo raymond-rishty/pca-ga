@@ -287,6 +287,24 @@ button { cursor: pointer; background: none; border: none; color: inherit; font: 
   display: inline-flex;
   align-items: baseline;
 }
+.source-pdf-link-wrap {
+  display: inline-flex;
+  align-items: baseline;
+  gap: .35rem;
+}
+.source-pdf-actions {
+  padding: 0;
+  border: 0;
+  background: transparent;
+  color: var(--ink-muted);
+  font: 500 10px/1.4 var(--sans);
+  letter-spacing: .04em;
+  text-decoration: underline dotted currentColor;
+  text-underline-offset: .18em;
+  cursor: pointer;
+}
+.source-pdf-actions:hover,
+.source-pdf-actions:focus-visible { color: var(--gold); }
 
 /* ── Disposition badges ── */
 .badge {
