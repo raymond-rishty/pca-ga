@@ -100,6 +100,9 @@ def main() -> None:
     ga, first = page_at_or_before(minutes, ordered[0][0])
     _, last = page_at_or_before(minutes, ordered[-1][1] - 1)
     body = "\n\n".join(minutes[begin:finish].strip() for begin, finish in ordered)
+    # Case pages are prose views; do not carry the source-minute hard-break
+    # markers that preserve physical OCR line wraps in the volume pages.
+    body = re.sub(r"[ \t]+(?=\r?$)", "", body, flags=re.MULTILINE)
     if body.startswith("Case #"):
         body = "## " + body
     if len(ordered) == 1:
