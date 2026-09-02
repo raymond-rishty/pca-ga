@@ -106,6 +106,11 @@ def footnote_issues(text: str) -> dict[str, list[str]]:
     }
 
 
+def non_whitespace(text: str) -> str:
+    """Return content for the re-extraction's whitespace-only safety check."""
+    return re.sub(r"\s+", "", text)
+
+
 def source_pages(vol: str) -> dict[int, dict]:
     path = ROOT / "markdown" / f"{vol}.md"
     text = path.read_text(encoding="utf-8")
@@ -242,6 +247,12 @@ def candidate(row: dict, anchor_threshold: float, pages_cache: dict[str, dict[in
             "status": "footnote_integrity",
             "span": [first_page, last_page],
             **footnotes,
+        }, None
+    if non_whitespace(row["old_body"]) != non_whitespace(body):
+        return {
+            "case_file": row["path"],
+            "status": "content_change",
+            "span": [first_page, last_page],
         }, None
     score = matcher.whole_score(row["old_body"], body)
     return {
