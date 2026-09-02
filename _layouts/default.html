@@ -234,12 +234,8 @@
   </nav>
 
   <script src="{{ '/assets/research-store.js' | relative_url }}"></script>
-  {% if page_type == 'volume' %}
-    <script src="{{ '/assets/minutes-page-source-pdf.js' | relative_url }}"></script>
-  {% endif %}
   <script src="{{ '/assets/pca-nav.js' | relative_url }}"></script>
   {% if page_type == 'volume' %}
-    <script src="{{ '/assets/minutes-page-source-pdf.js' | relative_url }}"></script>
     <script src="{{ '/assets/minutes-back-to-top.js' | relative_url }}"></script>
   {% endif %}
   {% if page_type == 'case' %}

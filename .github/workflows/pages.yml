@@ -104,6 +104,12 @@ jobs:
             echo "An extracted source PDF link has an empty href" >&2
             exit 1
           fi
+          for directory in cases inquiries overtures rpr/exc studies; do
+            if ! grep -R -q 'data-source-pdf-actions' "_site/$directory"; then
+              echo "No source-PDF page action rendered for $directory" >&2
+              exit 1
+            fi
+          done
           if ! grep -R -q 'data-source-id="case-pdf:' _site/cases; then
             echo "No dedicated judicial source PDF was rendered" >&2
             exit 1
