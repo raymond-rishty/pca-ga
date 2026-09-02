@@ -15,7 +15,14 @@
         {% endif %}
         {% if source_href != '' %}
           {% assign source_label = source.label | default: 'View source PDF' %}
-          <a class="source-pdf-link" href="{{ source_href }}" data-source-id="{{ source.source_id }}" data-pdf-page="{{ source_page }}" target="_blank" rel="noopener noreferrer">{{ source_label }} <span aria-hidden="true">↗</span></a>
+          <span class="source-pdf-link-wrap">
+            <a class="source-pdf-link" href="{{ source_href }}" data-source-id="{{ source.source_id }}" data-pdf-page="{{ source_page }}" target="_blank" rel="noopener noreferrer">{{ source_label }} <span aria-hidden="true">↗</span></a>
+            {% unless page.layout == 'ga53-overture' %}
+              {% if source_page != nil and source_page != '' %}
+                <button type="button" class="source-pdf-actions" data-source-pdf-actions data-source-url="{{ source_href | escape }}" data-source-label="{{ source_label | escape }}" aria-label="Actions for {{ source_label | escape }}">Page actions</button>
+              {% endif %}
+            {% endunless %}
+          </span>
         {% endif %}
       {% endfor %}
     </div>

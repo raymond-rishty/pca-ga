@@ -40,6 +40,10 @@ test('extracted pages use the shared registry-backed resolver and renderer', () 
   assert.match(resolver, /pdf_page:/);
   assert.match(include, /data-source-id/);
   assert.match(include, /source\.pdf_page \| default: source\.page/);
+  assert.match(include, /data-source-pdf-actions/);
+  assert.match(include, /data-source-url/);
+  assert.match(include, /source_page != nil and source_page != ''/);
+  assert.match(include, /page\.layout == 'ga53-overture'/);
   assert.match(layout, /include source-pdf-links\.html/);
   assert.match(inquiryLayout, /include source-pdf-links\.html/);
   assert.match(workflow, /build_source_registry\.py/);
