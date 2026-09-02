@@ -92,7 +92,15 @@ def page_chunks(vol: str, start: int, end: int) -> list[dict]:
     source = path.read_text(encoding="utf-8") if path.exists() else ""
     parts = re.split(r"<!--\s*PAGE\s+ga=\d+\s+pdf_page=(\w+)[^>]*-->", source)
     return [
-        {"pdf_page": int(parts[i]), "text": re.sub(r'<a id="[^"]*"></a>\s*', "", parts[i + 1]).strip()}
+        {
+            "pdf_page": int(parts[i]),
+            "text": re.sub(
+                r"[ \t]+(?=\r?$)",
+                "",
+                re.sub(r'<a id="[^"]*"></a>\s*', "", parts[i + 1]).strip(),
+                flags=re.MULTILINE,
+            ),
+        }
         for i in range(1, len(parts), 2)
         if parts[i].isdigit() and start <= int(parts[i]) <= end
     ]

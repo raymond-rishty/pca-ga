@@ -27,6 +27,12 @@ SPEC.loader.exec_module(matcher)
 PAGE = re.compile(r"(?s)(<!-- PAGE ga=(\d+) pdf_page=(\d+)\b[^>]*-->)(.*?)(?=<!-- PAGE ga=|\Z)")
 ANCHOR = re.compile(r'^<a id="[^"]+"></a>\s*', re.M)
 SOURCE = re.compile(r"\*Source: \[([^ ]+) p{1,2}\. (\d+)(?:[–-](\d+))?")
+ADDRESS_SIGNAL = re.compile(
+    r"(?i)(^\s*(?:\d{1,6}\s+.*\b(?:road|street|lane|drive|avenue|boulevard|highway)|route\s+\d)\b"
+    r"|\b(?:p\.?\s*o\.?\s+box|post office box|box)\s+\d"
+    r"|\b(?:phone|fax|telephone)\b\s*:?(?=\s*[+(\d])"
+    r"|\b(?:AL|AK|AZ|AR|CA|CO|CT|DE|DC|FL|GA|HI|ID|IL|IN|IA|KS|KY|LA|ME|MD|MA|MI|MN|MS|MO|MT|NE|NV|NH|NJ|NM|NY|NC|ND|OH|OK|OR|PA|RI|SC|SD|TN|TX|UT|VT|VA|WA|WV|WI|WY|Alabama|Alaska|Arizona|Arkansas|California|Colorado|Connecticut|Delaware|Florida|Georgia|Hawaii|Idaho|Illinois|Indiana|Iowa|Kansas|Kentucky|Louisiana|Maine|Maryland|Massachusetts|Michigan|Minnesota|Mississippi|Missouri|Montana|Nebraska|Nevada|New Hampshire|New Jersey|New Mexico|New York|North Carolina|North Dakota|Ohio|Oklahoma|Oregon|Pennsylvania|Rhode Island|South Carolina|South Dakota|Tennessee|Texas|Utah|Vermont|Virginia|Washington|West Virginia|Wisconsin|Wyoming)\s+\d{5}(?:-\d{4})?\b)"
+)
 
 
 def parse_args() -> argparse.Namespace:
@@ -46,13 +52,49 @@ def parse_args() -> argparse.Namespace:
     return parser.parse_args()
 
 
+def soft_wrap_case_text(text: str) -> str:
+    """Remove accidental hard breaks while preserving short address blocks."""
+    lines = text.splitlines(keepends=True)
+    contents = [line.rstrip("\r\n") for line in lines]
+    address_lines: set[int] = set()
+    position = 0
+    while position < len(contents):
+        if not contents[position].strip():
+            position += 1
+            continue
+        start = position
+        while position < len(contents) and contents[position].strip():
+            position += 1
+        block = contents[start:position]
+        if (
+            len(block) >= 2
+            and max(map(lambda line: len(line.rstrip()), block), default=0) <= 80
+            and any(ADDRESS_SIGNAL.search(line) for line in block)
+        ):
+            address_lines.update(range(start, position))
+
+    result = []
+    for index, line in enumerate(lines):
+        if index in address_lines:
+            result.append(line)
+        else:
+            content = line.rstrip("\r\n")
+            result.append(re.sub(r"[ \t]+$", "", content) + line[len(content) :])
+    return "".join(result)
+
+
 def source_pages(vol: str) -> dict[int, dict]:
     path = ROOT / "markdown" / f"{vol}.md"
     text = path.read_text(encoding="utf-8")
     result = {}
     for found in PAGE.finditer(text):
         marker, _ga, page, body = found.groups()
-        result[int(page)] = {"marker": marker, "text": ANCHOR.sub("", body).strip()}
+        # The source-minute Markdown preserves physical OCR line wraps with
+        # Markdown's two-space hard-break syntax. Case pages are prose views,
+        # so carry over those wraps as ordinary soft breaks instead.
+        prose = ANCHOR.sub("", body).strip()
+        prose = soft_wrap_case_text(prose)
+        result[int(page)] = {"marker": marker, "text": prose}
     return result
 
 
@@ -161,7 +203,11 @@ def candidate(row: dict, anchor_threshold: float, pages_cache: dict[str, dict[in
     end_offset = block_end(last, end_offset)
     if first_page == last_page and start_offset >= end_offset:
         return {"case_file": row["path"], "status": "reversed_boundary", "span": [first_page, last_page]}, None
-    output = [first[start_offset:] if first_page != last_page else first[start_offset:end_offset]]
+    first_body = first[start_offset:] if first_page != last_page else first[start_offset:end_offset]
+    # Preserve the first embedded source-page marker just as we do every
+    # continuation page.  Case files use these markers for provenance and
+    # downstream page-aware formatting checks.
+    output = [f"{pages[first_page]['marker']}\n\n{first_body}".strip()]
     for page in range(first_page + 1, last_page + 1):
         text = pages[page]["text"] if page != last_page else pages[page]["text"][:end_offset]
         output.append(f"{pages[page]['marker']}\n\n{text}".strip())
