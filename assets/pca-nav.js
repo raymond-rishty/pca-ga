@@ -273,9 +273,39 @@
       full: `${recordTitle} — ${short}. ${url}`,
       markdown: `[${short}](${url}) — ${recordTitle}.`,
       citation: short,
+      ga: Number(ga),
+      pdfPage: null,
       printed,
       printedSource,
     };
+  }
+
+  function sourcePdfUrlForMeta(meta) {
+    if (meta?.sourcePdfUrl) return meta.sourcePdfUrl;
+    if (!Number.isInteger(meta?.pdfPage) || meta.pdfPage < 1) return null;
+
+    const links = [...document.querySelectorAll('.source-pdf-link[href]')];
+    const link = links.find((candidate) => {
+      const sourceId = candidate.dataset.sourceId || '';
+      const sourceVolume = sourceId.match(/^minutes:ga0*(\d+)_\d{4}$/i)?.[1];
+      if (sourceVolume) return Number(sourceVolume) === meta.ga;
+
+      const filename = candidate.href.match(/\/(\d+)(?:st|nd|rd|th)_pcaga_\d{4}\.pdf(?:[#?]|$)/i)?.[1];
+      return filename ? Number(filename) === meta.ga : false;
+    });
+    if (!link) return null;
+
+    const url = new URL(link.href, location.href);
+    url.hash = `page=${meta.pdfPage}`;
+    return url.href;
+  }
+
+  function setSourcePdfAction(button, meta) {
+    if (!button) return;
+    const sourceUrl = sourcePdfUrlForMeta(meta);
+    button.hidden = !sourceUrl;
+    button.dataset.sourceUrl = sourceUrl || '';
+    button.innerHTML = '<span aria-hidden="true">↗</span><span>Open source PDF</span>';
   }
 
   function createPageActionSheet() {
@@ -293,6 +323,7 @@
           <button type="button" data-page-action="cite">${ICONS.cite}<span>Copy citation</span></button>
           <button type="button" data-page-action="link">${ICONS.link}<span>Copy page link</span></button>
           <button type="button" data-page-action="share">${ICONS.share}<span>Share page</span></button>
+          <button type="button" data-page-action="source-pdf" hidden></button>
         </div>
       </section>`;
     document.body.appendChild(sheet);
@@ -317,6 +348,7 @@
         : 'Save, cite, or share a link that opens at this exact printed page.'
       : 'Save, cite, or share a link to this source PDF page; no printed folio was detected.';
     setPageSaveButton(sheet.querySelector('[data-page-action="save"]'), Boolean(store?.isSaved(meta)));
+    setSourcePdfAction(sheet.querySelector('[data-page-action="source-pdf"]'), meta);
     sheet.hidden = false;
     document.body.classList.add('sheet-open');
     sheet.querySelector('[data-page-action="save"]')?.focus();
@@ -347,7 +379,33 @@
         if (navigator.share) await navigator.share({ title: activePage.title, text: activePage.short, url: activePage.url });
         else { await copyText(activePage.url); showToast('Page link copied'); }
       } catch (_) { /* A dismissed share sheet is not an error state. */ }
+      return;
     }
+    if (action === 'source-pdf') {
+      const sourceUrl = button.dataset.sourceUrl;
+      if (sourceUrl) window.open(sourceUrl, '_blank', 'noopener,noreferrer');
+    }
+  });
+
+  document.addEventListener('click', (event) => {
+    const button = event.target.closest('[data-source-pdf-actions]');
+    if (!button) return;
+    const sourceUrl = button.dataset.sourceUrl;
+    const label = button.dataset.sourceLabel || 'Source PDF page';
+    if (!sourceUrl) return;
+    const page = pageUrl();
+    const title = document.querySelector('.record-header h1, .reading-col > h1')?.textContent.trim() || 'PCA record';
+    openPageActions({
+      id: `${page}#source-pdf-${encodeURIComponent(label)}`,
+      url: page,
+      title: `${title} — ${label}`,
+      type: 'Source PDF page',
+      short: label,
+      full: `${title} — ${label}. ${page}`,
+      markdown: `[${label}](${page}) — ${title}.`,
+      sourcePdfUrl: new URL(sourceUrl, location.href).href,
+      printed: true,
+    });
   });
 
   function decoratePageMarkers() {
@@ -383,6 +441,8 @@
       const printed = printedPage.toLowerCase() !== 'null';
       const page = printed ? printedPage : pdfPage;
       const meta = pageMeta(ga, page, { printed, printedSource });
+      meta.pdfPage = Number(pdfPage);
+      meta.printedPage = printed ? printedPage : null;
       const marker = document.createElement('div');
       marker.className = 'page-marker';
       const anchor = printed ? `ga${ga}-p${page}` : `ga${ga}-pdf-p${page}`;
