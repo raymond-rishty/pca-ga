@@ -2,19 +2,19 @@
 layout: ask
 permalink: /ask.html
 title: Ask AI about the PCA General Assembly record
-description: A source-disciplined research prompt for finding and citing the PCA Minutes of the General Assembly.
+description: A research prompt for finding, checking, and citing the PCA Minutes of the General Assembly.
 ---
 
 # Ask AI about the PCA Constitution and history
 
-Use this prompt with any AI assistant that can browse the web. It first points the assistant to `llms.txt`, the compact map of the corpus, then requires it to use the relevant indexes, open the verbatim minutes, and distinguish different kinds of General Assembly records before drawing a conclusion.
+Use this prompt with any AI assistant that can browse the web. It directs the assistant to `llms.txt`, the compact map of the corpus, and requires it to use the relevant indexes, open the linked minutes, and distinguish among General Assembly record types before drawing a conclusion.
 
 ## Copy the research prompt
 
 Replace the final bracketed line with your question. You can also give the AI a known BCO provision, case number, presbytery, Assembly, or approximate year.
 
 <div class="prompt-toolbar">
-  <span>Source-disciplined PCA research prompt</span>
+  <span>PCA source-checking research prompt</span>
   <button type="button" id="copyPrompt">Copy prompt</button>
 </div>
 

@@ -1,6 +1,6 @@
 # CCB Advice on Overtures & Proposed Amendments
 
-The **Committee on Constitutional Business (CCB)**'s advice on whether a proposed overture or amendment is *in conflict* with the Constitution (its constitutional review of proposed changes, distinct from answering questions about what the Constitution means). Grouped by Assembly.
+This catalogue contains the **Committee on Constitutional Business (CCB)**'s advice on whether proposed overtures or amendments are *in conflict* with the Constitution. This review of proposed changes is distinct from the CCB's answers to questions about what the Constitution means. Entries are grouped by Assembly.
 
 Each entry pairs a **Digest-level headnote** (the PCA Digest's editorial summary, Part II) with the **verbatim record** sliced from the minutes; the **Minutes** column deep-links to the source page. **Subject** and **Synopsis** are distilled from the Digest's own text. The roster is drawn from the PCA Digest, Part II (1973–2018); later Assemblies are extracted directly from each volume's CCB report.
 
