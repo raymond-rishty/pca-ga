@@ -1,75 +1,41 @@
 ---
 layout: ask
 permalink: /ask.html
-title: Ask AI about the PCA General Assembly record
-description: A research prompt for finding, checking, and citing the PCA Minutes of the General Assembly.
+title: Ask AI about the PCA General Assembly record and Constitution
+description: A compact, source-disciplined research prompt for connecting PCA constitutional texts with General Assembly history.
 ---
 
 # Ask AI about the PCA Constitution and history
 
-Use this prompt with any AI assistant that can browse the web. It directs the assistant to `llms.txt`, the compact map of the corpus, and requires it to use the relevant indexes, open the linked minutes, and distinguish among General Assembly record types before drawing a conclusion.
+This prompt pairs two complementary sources. The PCA Constitution Reader supplies the text of the Westminster Standards and Book of Church Order; the PCA General Assembly Records corpus supplies the cases, inquiries, overtures, RPR findings, study reports, and Assembly actions that interpret, apply, amend, or resolve that text.
 
 ## Copy the research prompt
 
-Replace the final bracketed line with your question. You can also give the AI a known BCO provision, case number, presbytery, Assembly, or approximate year.
+Replace the final bracketed line with your question. Include a BCO or Westminster provision, case, presbytery, Assembly, or approximate year when you know one.
 
 <div class="prompt-toolbar">
-  <span>PCA source-checking research prompt</span>
+  <span>Source-disciplined PCA research prompt</span>
   <button type="button" id="copyPrompt">Copy prompt</button>
 </div>
 
 ```text
-Research the question below using the PCA General Assembly Minutes corpus:
-https://raymond-rishty.github.io/pca-ga/
+Research the question below using both the PCA General Assembly Records corpus and the PCA Constitution Reader.
 
-Base your answer on the corpus, not on memory or a generic web summary.
-
-Begin by opening the corpus guide:
+Open:
 https://raymond-rishty.github.io/pca-ga/llms.txt
+https://raymond-rishty.github.io/pca-constitution-reader/llms.txt
+https://raymond-rishty.github.io/pca-constitution-reader/
 
-Use llms.txt as the canonical map of the available catalogues and retrieval method. It is a finding aid, not the underlying evidence. When useful, the combined catalogue pack is available at https://raymond-rishty.github.io/pca-ga/llms-full.txt, but you must still follow catalogue links to the verbatim minutes before relying on a claim.
+Use the Constitution Reader for the exact Westminster Standards and BCO text; use the General Assembly corpus for historical actions, cases, inquiries, overtures, RPR findings, study reports, and Assembly minutes. When present BCO wording matters, check the official current BCO linked in the corpus map. If a provision is named, read it first, then search the historical record for interpretation, application, amendment, and later resolution, including predecessor numbers when relevant.
 
-REQUIRED RESEARCH WORKFLOW
+Treat indexes and summaries as finding aids. Verify material conclusions in the underlying record and distinguish source type and procedural status. For each material historical conclusion, provide a public HTML link and a printed-page citation such as “M50GA p.103”; cite constitutional text by book/provision and reader link. Derive Minutes citations from the underlying printed-page marker; minutes URL fragments and PDF pages are locators, not printed-page citations. Use a base URL for an extracted record unless its anchor is verified. Do not invent links, quotations, page numbers, outcomes, or authority.
 
-1. Use llms.txt to identify the relevant corpus indexes. Use as many as the question requires. Direct links include:
-   - Judicial cases: https://raymond-rishty.github.io/pca-ga/index/CASES.html
-   - Judicial cases by constitutional provision: https://raymond-rishty.github.io/pca-ga/index/CASES-BY-PROVISION.html
-   - Review of Presbytery Records exceptions by provision: https://raymond-rishty.github.io/pca-ga/index/RPR-BY-PROVISION.html
-   - Constitutional inquiries: https://raymond-rishty.github.io/pca-ga/index/INQUIRIES.html
-   - CCB advice on overtures and amendments: https://raymond-rishty.github.io/pca-ga/index/CCB-OVERTURE-ADVICE.html
-   - Overtures and their outcomes: https://raymond-rishty.github.io/pca-ga/index/OVERTURES.html
-   - Position papers and study committee reports: https://raymond-rishty.github.io/pca-ga/index/STUDIES.html
-   - Full corpus and per-volume outlines: https://raymond-rishty.github.io/pca-ga/index/INDEX.html
+For a negative result, say “Not found in this corpus,” briefly state the scope and terminology searched, and do not infer that the PCA never addressed the subject.
 
-2. Treat llms.txt, llms-full.txt, an index entry, or an editorial headnote only as a finding aid. Follow the relevant link and inspect the verbatim minutes before relying on it.
-
-3. Identify what kind of record you found and its procedural status. Do not flatten together:
-   - an adopted General Assembly action,
-   - a judicial decision or procedural disposition,
-   - non-binding CCB advice,
-   - an RPR exception and its later resolution,
-   - a committee recommendation,
-   - a minority report,
-   - an overture that was answered, declined, referred, or amended,
-   - and a study report with its particular adoption or commendation status.
-
-4. Quote only the language that directly bears on the question. For every material quotation or factual claim, give:
-   - a direct link to the relevant corpus page, and
-   - the Minutes volume and printed page in the form “M50GA p.517.”
-
-   When providing user-facing links, use the published GitHub Pages URL ending in `.html`, not a repository-source `.md` URL. Repository-relative `.md` links in catalogue source correspond to `.html` pages on `https://raymond-rishty.github.io/pca-ga/`. Use `https://raw.githubusercontent.com/raymond-rishty/pca-ga/main/...` with `.md` only when directly retrieving source Markdown.
-
-5. When the record develops across multiple Assemblies, trace the sequence rather than quoting only the final entry.
-
-6. If the corpus does not answer the question, say so plainly. Distinguish “not found in this corpus” from “the PCA has never addressed this.” Do not invent quotations, page numbers, outcomes, or authority.
-
-ANSWER FORMAT
-
-- Direct answer: State the best-supported conclusion first.
-- Evidence: Present the relevant records with brief quotations, links, and Minutes citations.
-- Authority and limits: Explain the source type, procedural posture, and any uncertainty or contrary material.
-
-The corpus records what the General Assembly did and said over time. It is not a substitute for checking the current text of the PCA Constitution when the question concerns present constitutional wording.
+Answer with:
+- Direct answer
+- Evidence and chronology
+- Authority and limits
 
 QUESTION
 
@@ -78,16 +44,16 @@ QUESTION
 
 ## Questions that work well
 
-- “What has the General Assembly said about withdrawal from church membership under BCO 38-4?”
-- “Find cases discussing the difference between an unconstitutional and a grossly unconstitutional proceeding.”
+- “What has the General Assembly said about withdrawal from church membership under BCO 38-4, and how does that compare with the current text?”
+- “Find cases discussing a confession or case handled without process under BCO 38-1.”
+- “Trace an elder’s perpetual inactivity under BCO 17-3 and 34-10, including relevant parts of Chapter 24, inquiries, overtures, and Assembly actions.”
 - “Trace RPR exceptions involving paedocommunion and explain how each was resolved.”
-- “Has the Assembly considered session judicial commissions under BCO 15-2?”
 
 ## Useful refinements
 
-- **Name the provision or case when you know it.** A concrete identifier sharply improves retrieval.
-- **Ask for a sequence when history matters.** Later Assemblies may answer, reverse, ratify, or close an earlier matter.
-- **Ask the AI to compare authority.** A judicial holding, CCB answer, RPR exception, and adopted study report do not perform the same function.
-- **Verify the quotation.** Follow the supplied link and check the printed-page marker before relying on the answer.
+- Name the provision or case when you know it; search both the Constitution Reader and the historical corpus.
+- Ask for a sequence when history matters. Later Assemblies may answer, reverse, ratify, or close an earlier matter.
+- Ask the AI to compare authorities. A constitutional text, judicial holding, CCB answer, RPR exception, and adopted study report do not perform the same function.
+- Follow each supplied link and check the printed-page marker before relying on the answer.
 
-For agents that prefer a compact site map, begin with [`llms.txt`](llms.txt). The combined catalogue pack is available as [`llms-full.txt`](llms-full.txt).
+For a compact site map, begin with [llms.txt](llms.txt). The combined catalogue pack is available as [llms-full.txt](llms-full.txt).
