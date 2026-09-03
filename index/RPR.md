@@ -1,6 +1,6 @@
 # Review of Presbytery Records (RPR) — Exceptions of Substance
 
-Each year the General Assembly's **Committee on Review of Presbytery Records** reviews every presbytery's minutes and flags **exceptions of substance** — apparent violations of the Constitution. This catalogue threads each exception across the years it was disputed (raised → the presbytery responds → a later GA finds the response **satisfactory** or **unsatisfactory**), drawn from the RPR appendix of every volume GA18–52 (1990–2025). The published appendix reflects the **adopted** state (floor strikes already removed); floor-action provenance is noted per row.
+Each year, the General Assembly's **Committee on Review of Presbytery Records** reviews presbytery minutes and records **exceptions of substance**, meaning apparent violations of the Constitution. This catalogue follows each exception from the original finding through the presbytery's response and a later Assembly's **satisfactory** or **unsatisfactory** disposition. It draws from the RPR appendix of every volume from GA18 through GA52 (1990–2025). The published appendix reflects the **adopted** report after floor deletions, and each affected row notes the relevant floor action.
 
 ## Corpus
 

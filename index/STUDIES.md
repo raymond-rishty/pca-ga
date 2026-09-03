@@ -1,6 +1,6 @@
 # PCA Position Papers & Study Committee Reports
 
-The denomination's **position papers** — study committee reports, reports of ad-interim committees, pastoral letters, declarations and statements of conscience, messages to the churches, and adopted position resolutions. Minutes-derived records link to the **full verbatim report** in the minutes. PCA Historical Center roster/PDF records are treated as locator/fingerprint material unless a reliable minutes range has been mapped. The roster follows the PCA Historical Center's [Studies & Reports](https://www.pcahistory.org/pca/digest/studies/) index.
+This catalogue covers the denomination's **position papers**, including study committee and ad-interim committee reports, pastoral letters, declarations, statements of conscience, messages to the churches, and adopted position resolutions. Records derived from the minutes link to the **full report** there. Records from the PCA Historical Center roster or PDFs serve only as location and identification aids unless they have been mapped to a reliable range in the minutes. The roster follows the PCA Historical Center's [Studies & Reports](https://www.pcahistory.org/pca/digest/studies/) index.
 
 *83 documents across 32 Assemblies. Most link to the **full verbatim report in the minutes**; roster topics not in the digitized corpus link to a **PCA Historical Center** copy and are labeled as PDF-only when no reliable minutes range exists.*
 

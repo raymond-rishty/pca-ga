@@ -1,6 +1,6 @@
 # Constitutional Inquiry Catalogue
 
-Questions of *constitutional interpretation* (Westminster Standards, *Book of Church Order*, *Rules of Assembly Operations*) referred to the **Committee on Constitutional Business (CCB)** — and, before the 18th General Assembly, the Committee on Judicial Business — answered with **non-binding advice**. Grouped by Assembly.
+This catalogue contains questions of *constitutional interpretation* involving the Westminster Standards, *Book of Church Order*, or *Rules of Assembly Operations*. The **Committee on Constitutional Business (CCB)** answers these questions with **non-binding advice**. Before the 18th General Assembly, the Committee on Judicial Business handled them. Entries are grouped by Assembly.
 
 Each entry pairs a **Digest-level headnote** (the PCA Digest's editorial summary, Part II) with the **verbatim record** sliced from the minutes; the **Minutes** column deep-links to the source page. **Subject** and **Synopsis** are distilled from the Digest's own text. The roster is drawn from the PCA Digest, Part II (1973–2018); later Assemblies are extracted directly from each volume's CCB report.
 
