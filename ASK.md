@@ -19,57 +19,25 @@ Replace the final bracketed line with your question. You can also give the AI a 
 </div>
 
 ```text
-Research the question below using the PCA General Assembly Minutes corpus:
-https://raymond-rishty.github.io/pca-ga/
+Research the question below using both the PCA General Assembly Records corpus and the PCA Constitution.
 
-Base your answer on the corpus, not on memory or a generic web summary.
-
-Begin by opening the corpus guide:
+Open:
 https://raymond-rishty.github.io/pca-ga/llms.txt
+https://raymond-rishty.github.io/pca-constitution-reader/llms.txt
+https://raymond-rishty.github.io/pca-constitution-reader/
+https://raymond-rishty.github.io/pca-ga/api/bco/index.json
 
-Use llms.txt as the canonical map of the available catalogues and retrieval method. It is a finding aid, not the underlying evidence. When useful, the combined catalogue pack is available at https://raymond-rishty.github.io/pca-ga/llms-full.txt, but you must still follow catalogue links to the verbatim minutes before relying on a claim.
+Use the Constitution Reader for the exact Westminster Standards and BCO text; use the General Assembly corpus for historical actions, cases, inquiries, overtures, RPR findings, study reports, and Assembly minutes. For present BCO wording, use the official current BCO linked in the corpus map and keep it separate from historical Minutes evidence. If a provision is named, read it first, then search the historical record for interpretation, application, amendment, and later resolution, including predecessor numbers when relevant.
 
-REQUIRED RESEARCH WORKFLOW
+When a BCO provision is named or identified, use the BCO authority manifest to retrieve the provision-scoped JSON record before scanning broad catalogues. Treat the manifest as a finding aid: select relevant artifacts from it, open the linked source records, and cite those underlying records rather than the manifest itself.
 
-1. Use llms.txt to identify the relevant corpus indexes. Use as many as the question requires. Direct links include:
-   - Judicial cases: https://raymond-rishty.github.io/pca-ga/index/CASES.html
-   - Judicial cases by constitutional provision: https://raymond-rishty.github.io/pca-ga/index/CASES-BY-PROVISION.html
-   - Review of Presbytery Records exceptions by provision: https://raymond-rishty.github.io/pca-ga/index/RPR-BY-PROVISION.html
-   - Constitutional inquiries: https://raymond-rishty.github.io/pca-ga/index/INQUIRIES.html
-   - CCB advice on overtures and amendments: https://raymond-rishty.github.io/pca-ga/index/CCB-OVERTURE-ADVICE.html
-   - Overtures and their outcomes: https://raymond-rishty.github.io/pca-ga/index/OVERTURES.html
-   - Position papers and study committee reports: https://raymond-rishty.github.io/pca-ga/index/STUDIES.html
-   - Full corpus and per-volume outlines: https://raymond-rishty.github.io/pca-ga/index/INDEX.html
+Use the narrowest relevant catalogue first. Treat indexes as finding aids. Use llms-full.txt only when no provision manifest or narrower catalogue applies, when the question spans several catalogues, or when the narrower links do not resolve. Search it for candidate records, then open and cite the underlying records rather than the pack itself. Before finalizing each material historical citation, verify the linked page's title or record identifier and disposition, then verify the claim in the cited passage. For a Minutes link, read its PAGE marker and derive the printed citation in the form M<GA>GA p.<page> from printed_page; keep URL fragments and PDF-page numbers as locators only. Use an external PDF only when the corpus record is unavailable or unclear. Cite constitutional text by book/provision and reader link. If any check fails, omit the citation or label the item unverified. State the source type and do not generalize beyond what the source supports.
 
-2. Treat llms.txt, llms-full.txt, an index entry, or an editorial headnote only as a finding aid. Follow the relevant link and inspect the verbatim minutes before relying on it.
-
-3. Identify what kind of record you found and its procedural status. Do not flatten together:
-   - an adopted General Assembly action,
-   - a judicial decision or procedural disposition,
-   - non-binding CCB advice,
-   - an RPR exception and its later resolution,
-   - a committee recommendation,
-   - a minority report,
-   - an overture that was answered, declined, referred, or amended,
-   - and a study report with its particular adoption or commendation status.
-
-4. Quote only the language that directly bears on the question. For every material quotation or factual claim, give:
-   - a direct link to the relevant corpus page, and
-   - the Minutes volume and printed page in the form “M50GA p.517.”
-
-   When providing user-facing links, use the published GitHub Pages URL ending in `.html`, not a repository-source `.md` URL. Repository-relative `.md` links in catalogue source correspond to `.html` pages on `https://raymond-rishty.github.io/pca-ga/`. Use `https://raw.githubusercontent.com/raymond-rishty/pca-ga/main/...` with `.md` only when directly retrieving source Markdown.
-
-5. When the record develops across multiple Assemblies, trace the sequence rather than quoting only the final entry.
-
-6. If the corpus does not answer the question, say so plainly. Distinguish “not found in this corpus” from “the PCA has never addressed this.” Do not invent quotations, page numbers, outcomes, or authority.
-
-ANSWER FORMAT
-
-- Direct answer: State the best-supported conclusion first.
-- Evidence: Present the relevant records with brief quotations, links, and Minutes citations.
-- Authority and limits: Explain the source type, procedural posture, and any uncertainty or contrary material.
-
-The corpus records what the General Assembly did and said over time. It is not a substitute for checking the current text of the PCA Constitution when the question concerns present constitutional wording.
+For a negative result, say “Not found in this corpus,” briefly state the scope and terminology searched, and do not infer that the PCA never addressed the subject.
+Answer with:
+- Direct answer
+- Evidence and chronology
+- Authority and limits
 
 QUESTION
 
