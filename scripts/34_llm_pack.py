@@ -21,6 +21,8 @@ ROOT = sys.argv[1] if len(sys.argv) > 1 else "/workspace"
 IDX = os.path.join(ROOT, "index")
 SITE = "https://raymond-rishty.github.io/pca-ga"
 RAW = "https://raw.githubusercontent.com/raymond-rishty/pca-ga/main"
+CONSTITUTION_SITE = "https://raymond-rishty.github.io/pca-constitution-reader"
+BCO_API = f"{SITE}/api/bco/index.json"
 
 # Catalogues compact enough to concatenate into the one-file pack; generated size varies with updates.
 PACK = ["INDEX.md", "RPR.md", "CASES.md", "INQUIRIES.md", "CCB-OVERTURE-ADVICE.md"]
@@ -125,6 +127,7 @@ For a negative or incomplete result, say “Not found in this corpus,” state t
 ## PCA General Assembly corpus
 
 - [Corpus index]({SITE}/index/INDEX.html) — map of the 52 Minutes volumes, catalogues, and outlines.
+- [BCO authority manifests]({BCO_API}) — machine-readable, provision-scoped manifests linking explicit BCO references to cases, constitutional inquiries, CCB advice, overtures, and RPR exceptions. Use a provision manifest to find source records; verify claims in those underlying records.
 - [Judicial cases]({SITE}/index/CASES.html) — SJC/CJB cases, parties, cited provisions, and dispositions.
 - [Judicial cases by provision]({SITE}/index/CASES-BY-PROVISION.html) — cases grouped by BCO, RAO, and Standards provision.
 - [Constitutional inquiries]({SITE}/index/INQUIRIES.html) — CCB advice about constitutional meaning and application.
@@ -157,6 +160,7 @@ def main():
         f"Generated index for AI ingestion. The corpus lives at {SITE} (raw markdown at {RAW}).",
         "This file concatenates the SMALL structured catalogues so you can load them in one fetch:",
         "the corpus index, the RPR hub, judicial cases, constitutional inquiries, and CCB advice.",
+        f"The provision-scoped BCO authority manifests are available at {BCO_API}; use them for provision-first retrieval.",
         "Each catalogue row deep-links to the verbatim minutes page; cite as `M<GA>GA p.<page>`.",
         "User-facing links in this pack are canonical GitHub Pages URLs ending in `.html`; source `.md` paths are for raw/repository retrieval only.",
         "",

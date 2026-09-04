@@ -25,13 +25,15 @@ Open:
 https://raymond-rishty.github.io/pca-ga/llms.txt
 https://raymond-rishty.github.io/pca-constitution-reader/llms.txt
 https://raymond-rishty.github.io/pca-constitution-reader/
+https://raymond-rishty.github.io/pca-ga/api/bco/index.json
 
 Use the Constitution Reader for the exact Westminster Standards and BCO text; use the General Assembly corpus for historical actions, cases, inquiries, overtures, RPR findings, study reports, and Assembly minutes. For present BCO wording, use the official current BCO linked in the corpus map and keep it separate from historical Minutes evidence. If a provision is named, read it first, then search the historical record for interpretation, application, amendment, and later resolution, including predecessor numbers when relevant.
+
+When a BCO provision is named or identified, use the BCO authority manifest to retrieve the provision-scoped JSON record before scanning broad catalogues. Treat the manifest as a finding aid: select relevant artifacts from it, open the linked source records, and cite those underlying records rather than the manifest itself.
 
 Use the narrowest relevant catalogue first. Treat indexes and llms-full.txt as finding aids, but do not load the full pack unless the question needs broader discovery. Open the underlying extracted record or page-anchored Minutes entry before citing it. Before finalizing each material historical citation, verify the linked page's title or record identifier and disposition, then verify the claim in the cited passage. For a Minutes link, read its PAGE marker and derive the printed citation in the form M<GA>GA p.<page> from printed_page; keep URL fragments and PDF-page numbers as locators only. Use an external PDF only when the corpus record is unavailable or unclear. Cite constitutional text by book/provision and reader link. If any check fails, omit the citation or label the item unverified. State the source type and do not generalize beyond what the source supports.
 
 For a negative result, say “Not found in this corpus,” briefly state the scope and terminology searched, and do not infer that the PCA never addressed the subject.
-
 Answer with:
 - Direct answer
 - Evidence and chronology
