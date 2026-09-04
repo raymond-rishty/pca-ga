@@ -530,43 +530,43 @@ Source: [ga15_1987 lines 27848–27927](../markdown/ga15_1987.md#ga15-p516).
     Deacon Frank Harder
     TE Jimmy Lyons
     TE Jim Hatch
-    Appendix A
-    A Historical Survey of the Diaconate
-    [This survey is based on a much longer documented article produced by the Study Committee and
-    available to commissioners.]
-    the early church
-    It can be seen from the earliest writings, such as the "Didache" (A.D.120), that each congregation
-    had multiple elders/bishops and deacons, all elected by the people. Deacons were ministers of mercy to
-    the poor and widows. They were clearly patterned after "the Seven" of Acts 6, even to the point that
-    many churches appointed only seven. Early deacons visited to find needs and meet them (see Pseudo-
-    Clement). They cared for the widows and supervised the "agape" fellowship meals. In addition, Justin
-    Martyr tells us they were helpers with the Eucharist and other worship meals, since they took the gifts to
-    the poor. Deacons were also assistants to the elders and especially the bishops. As time wore on, the
-    deacons’ main purpose becomes to serve the bishops as secretaries and helpers. In brief, the function of
-    "helps", which was always a purpose of the deacon, eventually came to eclipse all others. As the diaconal
-    office became deformed by the mid-3rd century, deacons became nothing more than liturgical assistants.
-    the reformation
-    Luther envisioned a diaconate in each town carrying on distribution to the city’s poor as its main
-    focus (see the babylonian captivity of the Church). For various reasons, however, the Lutherans did not
-    carry this out and the diaconate disappeared from the Lutheran scene.
-    John Calvin was the most clear in explaining the theological connection between almsgiving and
-    worship. he placed alms giving in the liturgy after the sermon and as part of the supper liturgy. He
-    stated categorically: "Thus we ought always to provide that no meeting of the church should take place
-    without the word, prayers, partaking of the supper, and almsgiving." Institutes IV. 17. 44.
-    The Catholic exegetes taught that deacons were primarily helpers who assisted the priest in his
-    work of teaching and worship. Calvin, however, was quite careful to say in his exegesis of I Tim.3:8ff.
-    that the deacon is a representative of the church, not of the pastor. Therefore, the diaconate has an
-    integrity all its own. They are not mere "domestic servants". For example, the diaconate should not
-    ordinarily be a stepping stone or trial arena for junior elders. They do not merely carry out orders, but
-    they are a holy office in which they look for needs and make decisions. Deacons are subordinate to
-    Elders, but they are not the immediate subordinates of the elders, ina chain of command. Calvin allows
-    that deacons are "Levites" and do give assistance to the elders and pastors, but he insists on the primacy
-    of mercy and on the distinctiveness of the office (Institutes IV. XIX. 32)
-    Calvin established two orders of deacons. First there were those who administered alms for the poor
-    ("procurators"). They were to receive, dispense, and hold funds, possessions, rents and pensions for the
-    poor. The second order ("hospitallers") consisted of deacons who actually ministered to the sick and to
-    the poor. their chief work was the administration of a ’’hospital” in which there were not only those too
-    sick to work, but also the aged, widows and orphans, and "other poor creatures".
+## Appendix A
+### A Historical Survey of the Diaconate
+[This survey is based on a much longer documented article produced by the Study Committee and
+available to commissioners.]
+**The early church**
+It can be seen from the earliest writings, such as the "Didache" (A.D.120), that each congregation
+had multiple elders/bishops and deacons, all elected by the people. Deacons were ministers of mercy to
+the poor and widows. They were clearly patterned after "the Seven" of Acts 6, even to the point that
+many churches appointed only seven. Early deacons visited to find needs and meet them (see Pseudo-
+Clement). They cared for the widows and supervised the "agape" fellowship meals. In addition, Justin
+Martyr tells us they were helpers with the Eucharist and other worship meals, since they took the gifts to
+the poor. Deacons were also assistants to the elders and especially the bishops. As time wore on, the
+deacons’ main purpose becomes to serve the bishops as secretaries and helpers. In brief, the function of
+"helps", which was always a purpose of the deacon, eventually came to eclipse all others. As the diaconal
+office became deformed by the mid-3rd century, deacons became nothing more than liturgical assistants.
+**The reformation**
+Luther envisioned a diaconate in each town carrying on distribution to the city’s poor as its main
+focus (see the babylonian captivity of the Church). For various reasons, however, the Lutherans did not
+carry this out and the diaconate disappeared from the Lutheran scene.
+John Calvin was the most clear in explaining the theological connection between almsgiving and
+worship. he placed alms giving in the liturgy after the sermon and as part of the supper liturgy. He
+stated categorically: "Thus we ought always to provide that no meeting of the church should take place
+without the word, prayers, partaking of the supper, and almsgiving." Institutes IV. 17. 44.
+The Catholic exegetes taught that deacons were primarily helpers who assisted the priest in his
+work of teaching and worship. Calvin, however, was quite careful to say in his exegesis of I Tim.3:8ff.
+that the deacon is a representative of the church, not of the pastor. Therefore, the diaconate has an
+integrity all its own. They are not mere "domestic servants". For example, the diaconate should not
+ordinarily be a stepping stone or trial arena for junior elders. They do not merely carry out orders, but
+they are a holy office in which they look for needs and make decisions. Deacons are subordinate to
+Elders, but they are not the immediate subordinates of the elders, ina chain of command. Calvin allows
+that deacons are "Levites" and do give assistance to the elders and pastors, but he insists on the primacy
+of mercy and on the distinctiveness of the office (Institutes IV. XIX. 32)
+Calvin established two orders of deacons. First there were those who administered alms for the poor
+("procurators"). They were to receive, dispense, and hold funds, possessions, rents and pensions for the
+poor. The second order ("hospitallers") consisted of deacons who actually ministered to the sick and to
+the poor. their chief work was the administration of a ’’hospital” in which there were not only those too
+sick to work, but also the aged, widows and orphans, and "other poor creatures".
 
 ---
 
