@@ -19,7 +19,7 @@ Replace the final bracketed line with your question. You can also give the AI a 
 </div>
 
 ```text
-Research the question below using both the PCA General Assembly Records corpus and the PCA Constitution Reader.
+Research the question below using both the PCA General Assembly Records corpus and the PCA Constitution.
 
 Open:
 https://raymond-rishty.github.io/pca-ga/llms.txt
@@ -31,7 +31,7 @@ Use the Constitution Reader for the exact Westminster Standards and BCO text; us
 
 When a BCO provision is named or identified, use the BCO authority manifest to retrieve the provision-scoped JSON record before scanning broad catalogues. Treat the manifest as a finding aid: select relevant artifacts from it, open the linked source records, and cite those underlying records rather than the manifest itself.
 
-Use the narrowest relevant catalogue first. Treat indexes and llms-full.txt as finding aids, but do not load the full pack unless the question needs broader discovery. Open the underlying extracted record or page-anchored Minutes entry before citing it. Before finalizing each material historical citation, verify the linked page's title or record identifier and disposition, then verify the claim in the cited passage. For a Minutes link, read its PAGE marker and derive the printed citation in the form M<GA>GA p.<page> from printed_page; keep URL fragments and PDF-page numbers as locators only. Use an external PDF only when the corpus record is unavailable or unclear. Cite constitutional text by book/provision and reader link. If any check fails, omit the citation or label the item unverified. State the source type and do not generalize beyond what the source supports.
+Use the narrowest relevant catalogue first. Treat indexes as finding aids. Use llms-full.txt only when no provision manifest or narrower catalogue applies, when the question spans several catalogues, or when the narrower links do not resolve. Search it for candidate records, then open and cite the underlying records rather than the pack itself. Before finalizing each material historical citation, verify the linked page's title or record identifier and disposition, then verify the claim in the cited passage. For a Minutes link, read its PAGE marker and derive the printed citation in the form M<GA>GA p.<page> from printed_page; keep URL fragments and PDF-page numbers as locators only. Use an external PDF only when the corpus record is unavailable or unclear. Cite constitutional text by book/provision and reader link. If any check fails, omit the citation or label the item unverified. State the source type and do not generalize beyond what the source supports.
 
 For a negative result, say “Not found in this corpus,” briefly state the scope and terminology searched, and do not infer that the PCA never addressed the subject.
 Answer with:
