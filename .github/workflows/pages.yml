@@ -88,7 +88,7 @@ jobs:
         run: |
           test -s _site/api/bco/index.json
           test -s _site/api/bco/38-1.json
-          grep -q '"provision": "BCO 38-1"' _site/api/bco/38-1.json
+          grep -Eq '"provision"[[:space:]]*:[[:space:]]*"BCO 38-1"' _site/api/bco/38-1.json
           grep -q '/api/bco/index.json' _site/llms.txt
       - name: Validate rendered extracted source PDF links
         shell: bash
