@@ -25,13 +25,13 @@ sync_file() {
   cp -f "$1" "$2"
 }
 
-echo "[1/5] INDEX + OVERTURES + CASES + per-volume outlines (DB-backed; build tree only)…"
+echo "[1/8] INDEX + OVERTURES + CASES + per-volume outlines (DB-backed; build tree only)…"
 python3 "$S/20_markdown_index.py"                       # ROOT hardcoded /workspace (needs pca_minutes.db)
 mkdir -p "$PUB/index/outlines"
 for f in INDEX OVERTURES CASES; do sync_file "$BUILD/index/$f.md" "$PUB/index/$f.md"; done
 for f in "$BUILD"/index/outlines/*.md; do sync_file "$f" "$PUB/index/outlines/$(basename "$f")"; done
 
-echo "[2/5] Constitutional inquiries + CCB advice (both trees)…"
+echo "[2/8] Constitutional inquiries + CCB advice (both trees)…"
 python3 "$S/check_inquiry_sources.py" "$BUILD"
 python3 "$S/check_inquiry_sources.py" "$PUB"
 python3 "$S/30_inquiry_pages.py" "$BUILD"
@@ -43,11 +43,11 @@ python3 "$S/30_inquiry_pages.py" "$PUB"
 python3 "$S/41_source_pagelinks.py" "$BUILD"
 python3 "$S/41_source_pagelinks.py" "$PUB"
 
-echo "[3/5] RPR parse — GA31-52 (31) + scanned GA18-30 (32); writes index/rpr/*.json to both trees…"
+echo "[3/8] RPR parse — GA31-52 (31) + scanned GA18-30 (32); writes index/rpr/*.json to both trees…"
 python3 "$S/31_rpr_parse.py" "$BUILD"
 python3 "$S/32_rpr_parse_scanned.py" "$BUILD"
 
-echo "[4/5] RPR build — RPR.md, RPR-BY-PROVISION.md, per-presbytery + per-exception pages (both trees)…"
+echo "[4/8] RPR build — RPR.md, RPR-BY-PROVISION.md, per-presbytery + per-exception pages (both trees)…"
 python3 "$S/33_rpr_build.py" "$BUILD"
 python3 "$S/33_rpr_build.py" "$PUB"
 
@@ -64,16 +64,20 @@ python3 "$S/38_link_overture_cites.py" "$BUILD"
 python3 "$S/42_link_overture_catalogue.py" "$BUILD"
 python3 "$S/42_link_overture_catalogue.py" "$PUB"
 
-echo "[5/7] GA53 (2026) overture analysis — per-overture pages + catalogue + combined doc (both trees)…"
+echo "[5/8] GA53 (2026) overture analysis — per-overture pages + catalogue + combined doc (both trees)…"
 # GA53 source (findings/, overtures_full.tsv, _header.md) lives in the BUILD tree (like 20's pca_minutes.db pin)
 GA53_SRC="$BUILD/ga53" python3 "$S/36_ga53_overtures.py" "$BUILD"
 GA53_SRC="$BUILD/ga53" python3 "$S/36_ga53_overtures.py" "$PUB"
 
-echo "[6/7] Authority map — cases + inquiries + RPR + overtures (both trees)…"
+echo "[6/8] Authority map — cases + inquiries + RPR + overtures (both trees)…"
 python3 "$S/43_authority_index.py" "$BUILD"
 python3 "$S/43_authority_index.py" "$PUB"
 
-echo "[7/7] LLM pack — llms.txt, llms-full.txt, ASK.md (both trees)…"
+echo "[7/8] BCO provision manifests — machine-readable per-provision JSON (both trees)…"
+python3 "$S/45_bco_manifests.py" "$BUILD" --out "$BUILD/api/bco"
+python3 "$S/45_bco_manifests.py" "$PUB" --out "$PUB/api/bco"
+
+echo "[8/8] LLM pack — llms.txt, llms-full.txt, ASK.md (both trees)…"
 python3 "$S/34_llm_pack.py" "$BUILD"
 python3 "$S/34_llm_pack.py" "$PUB"
 
