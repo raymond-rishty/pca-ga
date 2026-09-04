@@ -1,20 +1,20 @@
 ---
 layout: ask
 permalink: /ask.html
-title: Ask AI about the PCA General Assembly record and Constitution
-description: A compact, source-disciplined research prompt for connecting PCA constitutional texts with General Assembly history.
+title: Ask AI about the PCA General Assembly record
+description: A source-disciplined research prompt for finding and citing the PCA Minutes of the General Assembly.
 ---
 
 # Ask AI about the PCA Constitution and history
 
-This prompt pairs two complementary sources. The PCA Constitution Reader supplies the text of the Westminster Standards and Book of Church Order; the PCA General Assembly Records corpus supplies the cases, inquiries, overtures, RPR findings, study reports, and Assembly actions that interpret, apply, amend, or resolve that text.
+Use this prompt with any AI assistant that can browse the web. It first points the assistant to `llms.txt`, the compact map of the corpus, then requires it to use the relevant indexes, open the verbatim minutes, and distinguish different kinds of General Assembly records before drawing a conclusion.
 
 ## Copy the research prompt
 
-Replace the final bracketed line with your question. Include a BCO or Westminster provision, case, presbytery, Assembly, or approximate year when you know one.
+Replace the final bracketed line with your question. You can also give the AI a known BCO provision, case number, presbytery, Assembly, or approximate year.
 
 <div class="prompt-toolbar">
-  <span>Source-disciplined PCA research prompt</span>
+  <span>PCA source-checking research prompt</span>
   <button type="button" id="copyPrompt">Copy prompt</button>
 </div>
 
