@@ -2,12 +2,12 @@
 layout: ask
 permalink: /ask.html
 title: Ask AI about the PCA General Assembly record
-description: A source-disciplined research prompt for finding and citing the PCA Minutes of the General Assembly.
+description: A research prompt for finding, checking, and citing the PCA Minutes of the General Assembly.
 ---
 
 # Ask AI about the PCA Constitution and history
 
-Use this prompt with any AI assistant that can browse the web. It first points the assistant to `llms.txt`, the compact map of the corpus, then requires it to use the relevant indexes, open the verbatim minutes, and distinguish different kinds of General Assembly records before drawing a conclusion.
+Use this prompt with any AI assistant that can browse the web. It directs the assistant to `llms.txt`, the compact map of the corpus, and requires it to use the relevant indexes, open the linked minutes, and distinguish among General Assembly record types before drawing a conclusion.
 
 ## Copy the research prompt
 
@@ -46,16 +46,16 @@ QUESTION
 
 ## Questions that work well
 
-- “What has the General Assembly said about withdrawal from church membership under BCO 38-4, and how does that compare with the current text?”
-- “Find cases discussing a confession or case handled without process under BCO 38-1.”
-- “Trace an elder’s perpetual inactivity under BCO 17-3 and 34-10, including relevant parts of Chapter 24, inquiries, overtures, and Assembly actions.”
+- “What has the General Assembly said about withdrawal from church membership under BCO 38-4?”
+- “Find cases discussing the difference between an unconstitutional and a grossly unconstitutional proceeding.”
 - “Trace RPR exceptions involving paedocommunion and explain how each was resolved.”
+- “Has the Assembly considered session judicial commissions under BCO 15-2?”
 
 ## Useful refinements
 
-- Name the provision or case when you know it; search both the Constitution Reader and the historical corpus.
-- Ask for a sequence when history matters. Later Assemblies may answer, reverse, ratify, or close an earlier matter.
-- Ask the AI to compare authorities. A constitutional text, judicial holding, CCB answer, RPR exception, and adopted study report do not perform the same function.
-- Follow each supplied link and check the printed-page marker before relying on the answer.
+- **Name the provision or case when you know it.** A concrete identifier sharply improves retrieval.
+- **Ask for a sequence when history matters.** Later Assemblies may answer, reverse, ratify, or close an earlier matter.
+- **Ask the AI to compare authority.** A judicial holding, CCB answer, RPR exception, and adopted study report do not perform the same function.
+- **Verify the quotation.** Follow the supplied link and check the printed-page marker before relying on the answer.
 
-For a compact site map, begin with [llms.txt](llms.txt). The combined catalogue pack is available as [llms-full.txt](llms-full.txt).
+For agents that prefer a compact site map, begin with [`llms.txt`](llms.txt). The combined catalogue pack is available as [`llms-full.txt`](llms-full.txt).
