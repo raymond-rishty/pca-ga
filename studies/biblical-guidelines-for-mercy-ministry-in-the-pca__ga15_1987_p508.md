@@ -500,7 +500,7 @@ As stated above, the Dutch Reformed churches have been much more inclined to enc
 
 Source: [ga15_1987 lines 27848–27927](../markdown/ga15_1987.md#ga15-p516).
 
-recommendations
+**Recommendations:**
   - **1.** The attached document to be adopted by the Assembly as the Biblical Guideline for Mercy Ministry
     in the Presbyterian Church in America.
   - **2.** That the Committee on Mission to North America make the attached document available for
