@@ -21,6 +21,7 @@ For a negative or incomplete result, say “Not found in this corpus,” state t
 ## PCA General Assembly corpus
 
 - [Corpus index](https://raymond-rishty.github.io/pca-ga/index/INDEX.html) — map of the 52 Minutes volumes, catalogues, and outlines.
+- [BCO authority manifests](https://raymond-rishty.github.io/pca-ga/api/bco/index.json) — machine-readable, provision-scoped manifests linking explicit BCO references to cases, constitutional inquiries, CCB advice, overtures, and RPR exceptions. Use a provision manifest to find source records; verify claims in those underlying records.
 - [Judicial cases](https://raymond-rishty.github.io/pca-ga/index/CASES.html) — SJC/CJB cases, parties, cited provisions, and dispositions.
 - [Judicial cases by provision](https://raymond-rishty.github.io/pca-ga/index/CASES-BY-PROVISION.html) — cases grouped by BCO, RAO, and Standards provision.
 - [Constitutional inquiries](https://raymond-rishty.github.io/pca-ga/index/INQUIRIES.html) — CCB advice about constitutional meaning and application.
