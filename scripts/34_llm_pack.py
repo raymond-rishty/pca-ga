@@ -21,6 +21,8 @@ ROOT = sys.argv[1] if len(sys.argv) > 1 else "/workspace"
 IDX = os.path.join(ROOT, "index")
 SITE = "https://raymond-rishty.github.io/pca-ga"
 RAW = "https://raw.githubusercontent.com/raymond-rishty/pca-ga/main"
+CONSTITUTION_SITE = "https://raymond-rishty.github.io/pca-constitution-reader"
+BCO_API = f"{SITE}/api/bco/index.json"
 
 # catalogues compact enough to concatenate into the one-file pack (≈75k tokens total)
 PACK = ["INDEX.md", "RPR.md", "CASES.md", "INQUIRIES.md", "CCB-OVERTURE-ADVICE.md"]
@@ -122,6 +124,7 @@ To answer a question about the BCO or PCA history, do NOT answer from memory —
 
 ## Catalogues (structured indexes — start here)
 - [Corpus index]({SITE}/index/INDEX.html) — the map of all 52 volumes + every catalogue.
+- [BCO authority manifests]({BCO_API}) — machine-readable, provision-scoped manifests linking explicit BCO references to cases, constitutional inquiries, CCB advice, overtures, and RPR exceptions. Use a provision manifest to find source records; verify claims in those underlying records.
 - [Judicial cases]({SITE}/index/CASES.html) — SJC/CJB cases: parties, disposition, BCO cited.
 - [Judicial cases by constitutional provision]({SITE}/index/CASES-BY-PROVISION.html) — cases grouped under the BCO/WCF/RAO provisions they cite.
 - [Constitutional inquiries]({SITE}/index/INQUIRIES.html) — CCB advice on what the Constitution means.
@@ -145,13 +148,29 @@ To answer a question about the BCO or PCA history, do NOT answer from memory —
 
 
 def main():
-    open(os.path.join(ROOT, "llms.txt"), "w", encoding="utf-8").write(LLMS_TXT)
+    llms_path = os.path.join(ROOT, "llms.txt")
+    # Keep the hand-refined site map as the source template when it is already
+    # present.  This prevents a build from replacing the current compact map
+    # with an older fallback template while still making the new endpoint
+    # available on a clean checkout.
+    llms_text = LLMS_TXT
+    if os.path.exists(llms_path):
+        llms_text = open(llms_path, encoding="utf-8").read()
+        if BCO_API not in llms_text:
+            for heading in ("## PCA General Assembly corpus", "## Catalogues (structured indexes — start here)"):
+                marker = heading + "\n"
+                if marker in llms_text:
+                    line = f"- [BCO authority manifests]({BCO_API}) — machine-readable, provision-scoped manifests linking explicit BCO references to cases, constitutional inquiries, CCB advice, overtures, and RPR exceptions. Use a provision manifest to find source records; verify claims in those underlying records.\n"
+                    llms_text = llms_text.replace(marker, marker + "\n" + line, 1)
+                    break
+    open(llms_path, "w", encoding="utf-8").write(llms_text)
 
     parts = [
         "# PCA GA Minutes — LLM pack (compact catalogues, one file)\n",
         f"Generated index for AI ingestion. The corpus lives at {SITE} (raw markdown at {RAW}).",
         "This file concatenates the SMALL structured catalogues so you can load them in one fetch:",
         "the corpus index, the RPR hub, judicial cases, constitutional inquiries, and CCB advice.",
+        f"The provision-scoped BCO authority manifests are available at {BCO_API}; use them for provision-first retrieval.",
         "Each catalogue row deep-links to the verbatim minutes page; cite as `M<GA>GA p.<page>`.",
         "User-facing links in this pack are canonical GitHub Pages URLs ending in `.html`; source `.md` paths are for raw/repository retrieval only.",
         "",
