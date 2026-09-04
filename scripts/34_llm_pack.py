@@ -21,8 +21,6 @@ ROOT = sys.argv[1] if len(sys.argv) > 1 else "/workspace"
 IDX = os.path.join(ROOT, "index")
 SITE = "https://raymond-rishty.github.io/pca-ga"
 RAW = "https://raw.githubusercontent.com/raymond-rishty/pca-ga/main"
-CONSTITUTION_SITE = "https://raymond-rishty.github.io/pca-constitution-reader"
-BCO_API = f"{SITE}/api/bco/index.json"
 
 # Catalogues compact enough to concatenate into the one-file pack; generated size varies with updates.
 PACK = ["INDEX.md", "RPR.md", "CASES.md", "INQUIRIES.md", "CCB-OVERTURE-ADVICE.md"]
@@ -116,7 +114,7 @@ Use two sources together, but do not collapse their roles:
 
 When a question names a constitutional provision, do not stop at the text. Build a cross-corpus source plan: read the relevant BCO or Westminster text in the Constitution Reader, then search the PCA catalogues for cases, constitutional inquiries, overtures, RPR exceptions, study reports, and Assembly actions that interpret, apply, amend, or later resolve that provision.
 
-Start with the narrowest relevant catalogue, then expand only when another record type, Assembly, historical provision number, or semantic variant could change the conclusion. Treat indexes as finding aids. Use llms-full.txt only when no provision manifest or narrower catalogue applies, when the question spans several catalogues, or when the narrower links do not resolve. Search it for candidate records, then open and cite the underlying records rather than the pack itself. For a material historical claim, prefer the underlying extracted record or page-anchored Minutes entry over an index or headnote. Before finalizing each material historical citation, verify the linked page's title or record identifier and disposition, then verify the claim in the cited passage. For a Minutes link, read its PAGE marker and derive the printed citation in the form M<GA>GA p.<page> from printed_page; keep URL fragments and PDF-page numbers as locators only. Use an external PDF only when the corpus record is unavailable or unclear. If any check fails, omit the citation or label the item unverified. Distinguish adopted Assembly actions, SJC/CJB judgments and dispositions, non-binding CCB advice, RPR exceptions and later responses, committee recommendations, minority reports, overtures, proposed amendments, and study-report reception or adoption status.
+Start with the narrowest relevant catalogue, then expand only when another record type, Assembly, historical provision number, or semantic variant could change the conclusion. Treat indexes and llms-full.txt as finding aids, but do not load the full pack unless the question needs broader discovery. For a material historical claim, prefer the underlying extracted record or page-anchored Minutes entry over an index or headnote. Before finalizing each material historical citation, verify the linked page's title or record identifier and disposition, then verify the claim in the cited passage. For a Minutes link, read its PAGE marker and derive the printed citation in the form M<GA>GA p.<page> from printed_page; keep URL fragments and PDF-page numbers as locators only. Use an external PDF only when the corpus record is unavailable or unclear. If any check fails, omit the citation or label the item unverified. Distinguish adopted Assembly actions, SJC/CJB judgments and dispositions, non-binding CCB advice, RPR exceptions and later responses, committee recommendations, minority reports, overtures, proposed amendments, and study-report reception or adoption status.
 
 When a provision has been renumbered, search its current and predecessor numbers and check the BCO renumbering/change data below. For constitutional interpretation, search the relevant BCO and Westminster text in the Constitution Reader alongside the historical record.
 
@@ -127,7 +125,6 @@ For a negative or incomplete result, say “Not found in this corpus,” state t
 ## PCA General Assembly corpus
 
 - [Corpus index]({SITE}/index/INDEX.html) — map of the 52 Minutes volumes, catalogues, and outlines.
-- [BCO authority manifests]({BCO_API}) — machine-readable, provision-scoped manifests linking explicit BCO references to cases, constitutional inquiries, CCB advice, overtures, and RPR exceptions. Use a provision manifest to find source records; verify claims in those underlying records.
 - [Judicial cases]({SITE}/index/CASES.html) — SJC/CJB cases, parties, cited provisions, and dispositions.
 - [Judicial cases by provision]({SITE}/index/CASES-BY-PROVISION.html) — cases grouped by BCO, RAO, and Standards provision.
 - [Constitutional inquiries]({SITE}/index/INQUIRIES.html) — CCB advice about constitutional meaning and application.
@@ -149,7 +146,7 @@ For a negative or incomplete result, say “Not found in this corpus,” state t
 
 ## Optional bulk retrieval
 
-- [llms-full.txt]({SITE}/llms-full.txt) — optional fallback for corpus-wide or cross-catalogue discovery when no narrower map applies; search it for candidate records, then open and cite the underlying pages rather than the pack.
+- [llms-full.txt]({SITE}/llms-full.txt) — generated catalogue pack and locator aid; verify material claims against the underlying records because the pack is a finding aid, not a substitute for record pages.
 """
 
 def main():
@@ -160,11 +157,9 @@ def main():
         f"Generated index for AI ingestion. The corpus lives at {SITE} (raw markdown at {RAW}).",
         "This file concatenates the SMALL structured catalogues so you can load them in one fetch:",
         "the corpus index, the RPR hub, judicial cases, constitutional inquiries, and CCB advice.",
-        f"The provision-scoped BCO authority manifests are available at {BCO_API}; use them for provision-first retrieval.",
         "Each catalogue row deep-links to the verbatim minutes page; cite as `M<GA>GA p.<page>`.",
         "User-facing links in this pack are canonical GitHub Pages URLs ending in `.html`; source `.md` paths are for raw/repository retrieval only.",
         "",
-        "Use this pack only as a fallback for corpus-wide or cross-catalogue discovery when no narrower map applies; search it for candidate records, then open and cite the underlying pages.",
         "Two catalogues are too large to inline here — fetch them directly when a question needs them:",
     ] + [f"- {published_url('index/' + f)} — {desc}" for f, desc in BIG] + [""]
     for f in PACK:
