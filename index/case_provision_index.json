@@ -8000,6 +8000,27 @@
  {
   "provision": "BCO 12-6",
   "case_numbers": [
+   "2008-15"
+  ],
+  "title": "Judicial Case 2008-15",
+  "body": "SJC",
+  "year": 2010,
+  "disposition": "out_of_order",
+  "synopsis": "Complaint by TEs Hutchinson and Bulkeley against Western Carolina Presbytery, alleging that Presbytery erred by not suspending ruling elder RE Payne from the Sacraments when imposing indefinite suspension from office for scandalous conduct. The SJC sustained the Presbytery's decision, finding no error in…",
+  "url": "cases/ga38_2010__2008-15_2008-16_2008-17_2008-18_2009-01_2009-03.md",
+  "sources": [
+   "case_markdown_text"
+  ],
+  "evidence": [
+   {
+    "line": 147,
+    "snippet": "July 24 REs Linton & Pellom ask moderator TE Bulkeley to call a Session meeting for Sunday July 27 for purpose of considering call for congregational meeting “to discuss and address the financial concerns of FPC.\" Moderator declines to call Session meeting. Su"
+   }
+  ]
+ },
+ {
+  "provision": "BCO 12-6",
+  "case_numbers": [
    "2008-16"
   ],
   "title": "Judicial Case 2008-16",
@@ -8028,27 +8049,6 @@
   "year": 2010,
   "disposition": "sustained_in_part",
   "synopsis": "RE Henry Leissing complained that Presbytery erred when it voted on November 7, 2008 to reverse the Sealy Commission's October 23 decision and dissolve the calls of REs Linton and Pellom. The SJC sustained the complaint by reference to its decision in Case 2008-15, Issue 5, holding that Presbytery erred in appointing the Sealy Commission in the first place since the underlying August 7 congregational meeting was illegitimate.",
-  "url": "cases/ga38_2010__2008-15_2008-16_2008-17_2008-18_2009-01_2009-03.md",
-  "sources": [
-   "case_markdown_text"
-  ],
-  "evidence": [
-   {
-    "line": 147,
-    "snippet": "July 24 REs Linton & Pellom ask moderator TE Bulkeley to call a Session meeting for Sunday July 27 for purpose of considering call for congregational meeting “to discuss and address the financial concerns of FPC.\" Moderator declines to call Session meeting. Su"
-   }
-  ]
- },
- {
-  "provision": "BCO 12-6",
-  "case_numbers": [
-   "2008-15"
-  ],
-  "title": "Morton Smith v. Western Carolina — M38GA, 2010 Nashville, p. 156, 170. Sustained 21-0. Summary: Alleged five errors. SJC sustained two due to an illegitimate congregational meeting. Issue: 1. Did P err at its called meeting on June 17 when it appointed the Inman Commission to consider and handle the",
-  "body": "SJC",
-  "year": 2010,
-  "disposition": "sustained",
-  "synopsis": "Complaint by TEs Hutchinson and Bulkeley against Western Carolina Presbytery, alleging that Presbytery erred by not suspending ruling elder RE Payne from the Sacraments when imposing indefinite suspension from office for scandalous conduct. The SJC sustained the Presbytery's decision, finding no error in…",
   "url": "cases/ga38_2010__2008-15_2008-16_2008-17_2008-18_2009-01_2009-03.md",
   "sources": [
    "case_markdown_text"
@@ -10032,6 +10032,37 @@
  {
   "provision": "BCO 13-9",
   "case_numbers": [
+   "2008-15"
+  ],
+  "title": "Judicial Case 2008-15",
+  "body": "SJC",
+  "year": 2010,
+  "disposition": "out_of_order",
+  "synopsis": "Complaint by TEs Hutchinson and Bulkeley against Western Carolina Presbytery, alleging that Presbytery erred by not suspending ruling elder RE Payne from the Sacraments when imposing indefinite suspension from office for scandalous conduct. The SJC sustained the Presbytery's decision, finding no error in…",
+  "url": "cases/ga38_2010__2008-15_2008-16_2008-17_2008-18_2009-01_2009-03.md",
+  "sources": [
+   "case_markdown_text",
+   "cases.jsonl:bco_cited_as",
+   "cases.jsonl:bco_cited_current"
+  ],
+  "evidence": [
+   {
+    "line": 233,
+    "snippet": "3. To consider FPC request to dissolve calls of REs Linton and Pellom and to take original jurisdiction of the question of their relationship per BCO 13-9."
+   },
+   {
+    "line": 247,
+    "snippet": "Took original jurisdiction under BCO 13-9 to act on FPC request to dissolve the relationship of REs Linton and Pellom. Appointed a non-judicial commission per BCO 15-1 & 2 to “deliberate and act upon the congregation's request for the dissolution between REs L"
+   },
+   {
+    "line": 374,
+    "snippet": "Further, the Presbytery erred at its August 19 meeting in that it \"took original jurisdiction under BCO 13-9 to act on Friendship Presbyterian Church's request to dissolve the relationship of RE James Linton and John Pellom and conduct the review of BCO 24-7.\""
+   }
+  ]
+ },
+ {
+  "provision": "BCO 13-9",
+  "case_numbers": [
    "2008-16"
   ],
   "title": "Judicial Case 2008-16",
@@ -10178,37 +10209,6 @@
    {
     "line": 159,
     "snippet": "Took original jurisdiction under BCO 13-9 to act on FPC request to dissolve the relationship of REs Linton and"
-   }
-  ]
- },
- {
-  "provision": "BCO 13-9",
-  "case_numbers": [
-   "2008-15"
-  ],
-  "title": "Morton Smith v. Western Carolina — M38GA, 2010 Nashville, p. 156, 170. Sustained 21-0. Summary: Alleged five errors. SJC sustained two due to an illegitimate congregational meeting. Issue: 1. Did P err at its called meeting on June 17 when it appointed the Inman Commission to consider and handle the",
-  "body": "SJC",
-  "year": 2010,
-  "disposition": "sustained",
-  "synopsis": "Complaint by TEs Hutchinson and Bulkeley against Western Carolina Presbytery, alleging that Presbytery erred by not suspending ruling elder RE Payne from the Sacraments when imposing indefinite suspension from office for scandalous conduct. The SJC sustained the Presbytery's decision, finding no error in…",
-  "url": "cases/ga38_2010__2008-15_2008-16_2008-17_2008-18_2009-01_2009-03.md",
-  "sources": [
-   "case_markdown_text",
-   "cases.jsonl:bco_cited_as",
-   "cases.jsonl:bco_cited_current"
-  ],
-  "evidence": [
-   {
-    "line": 233,
-    "snippet": "3. To consider FPC request to dissolve calls of REs Linton and Pellom and to take original jurisdiction of the question of their relationship per BCO 13-9."
-   },
-   {
-    "line": 247,
-    "snippet": "Took original jurisdiction under BCO 13-9 to act on FPC request to dissolve the relationship of REs Linton and Pellom. Appointed a non-judicial commission per BCO 15-1 & 2 to “deliberate and act upon the congregation's request for the dissolution between REs L"
-   },
-   {
-    "line": 374,
-    "snippet": "Further, the Presbytery erred at its August 19 meeting in that it \"took original jurisdiction under BCO 13-9 to act on Friendship Presbyterian Church's request to dissolve the relationship of RE James Linton and John Pellom and conduct the review of BCO 24-7.\""
    }
   ]
  },
@@ -11747,6 +11747,27 @@
  {
   "provision": "BCO 13-9c",
   "case_numbers": [
+   "2008-15"
+  ],
+  "title": "Judicial Case 2008-15",
+  "body": "SJC",
+  "year": 2010,
+  "disposition": "out_of_order",
+  "synopsis": "Complaint by TEs Hutchinson and Bulkeley against Western Carolina Presbytery, alleging that Presbytery erred by not suspending ruling elder RE Payne from the Sacraments when imposing indefinite suspension from office for scandalous conduct. The SJC sustained the Presbytery's decision, finding no error in…",
+  "url": "cases/ga38_2010__2008-15_2008-16_2008-17_2008-18_2009-01_2009-03.md",
+  "sources": [
+   "case_markdown_text"
+  ],
+  "evidence": [
+   {
+    "line": 253,
+    "snippet": "Aug 29 TE Bulkeley filed Complaint against the July 30 final report of the Inman Commission, alleging the Presbytery, through its Commission, violated BCO 13-9c by \"failing to condemn erroneous opinions which injure the peace and purity of the Church,\" specifi"
+   }
+  ]
+ },
+ {
+  "provision": "BCO 13-9c",
+  "case_numbers": [
    "2008-16"
   ],
   "title": "Judicial Case 2008-16",
@@ -11775,27 +11796,6 @@
   "year": 2010,
   "disposition": "sustained_in_part",
   "synopsis": "RE Henry Leissing complained that Presbytery erred when it voted on November 7, 2008 to reverse the Sealy Commission's October 23 decision and dissolve the calls of REs Linton and Pellom. The SJC sustained the complaint by reference to its decision in Case 2008-15, Issue 5, holding that Presbytery erred in appointing the Sealy Commission in the first place since the underlying August 7 congregational meeting was illegitimate.",
-  "url": "cases/ga38_2010__2008-15_2008-16_2008-17_2008-18_2009-01_2009-03.md",
-  "sources": [
-   "case_markdown_text"
-  ],
-  "evidence": [
-   {
-    "line": 253,
-    "snippet": "Aug 29 TE Bulkeley filed Complaint against the July 30 final report of the Inman Commission, alleging the Presbytery, through its Commission, violated BCO 13-9c by \"failing to condemn erroneous opinions which injure the peace and purity of the Church,\" specifi"
-   }
-  ]
- },
- {
-  "provision": "BCO 13-9c",
-  "case_numbers": [
-   "2008-15"
-  ],
-  "title": "Morton Smith v. Western Carolina — M38GA, 2010 Nashville, p. 156, 170. Sustained 21-0. Summary: Alleged five errors. SJC sustained two due to an illegitimate congregational meeting. Issue: 1. Did P err at its called meeting on June 17 when it appointed the Inman Commission to consider and handle the",
-  "body": "SJC",
-  "year": 2010,
-  "disposition": "sustained",
-  "synopsis": "Complaint by TEs Hutchinson and Bulkeley against Western Carolina Presbytery, alleging that Presbytery erred by not suspending ruling elder RE Payne from the Sacraments when imposing indefinite suspension from office for scandalous conduct. The SJC sustained the Presbytery's decision, finding no error in…",
   "url": "cases/ga38_2010__2008-15_2008-16_2008-17_2008-18_2009-01_2009-03.md",
   "sources": [
    "case_markdown_text"
@@ -14064,6 +14064,37 @@
  {
   "provision": "BCO 15-1",
   "case_numbers": [
+   "2008-15"
+  ],
+  "title": "Judicial Case 2008-15",
+  "body": "SJC",
+  "year": 2010,
+  "disposition": "out_of_order",
+  "synopsis": "Complaint by TEs Hutchinson and Bulkeley against Western Carolina Presbytery, alleging that Presbytery erred by not suspending ruling elder RE Payne from the Sacraments when imposing indefinite suspension from office for scandalous conduct. The SJC sustained the Presbytery's decision, finding no error in…",
+  "url": "cases/ga38_2010__2008-15_2008-16_2008-17_2008-18_2009-01_2009-03.md",
+  "sources": [
+   "case_markdown_text",
+   "cases.jsonl:bco_cited_as",
+   "cases.jsonl:bco_cited_current"
+  ],
+  "evidence": [
+   {
+    "line": 153,
+    "snippet": "July 29 Final meeting of Inman Commission. Per BCO 15-1, the Commission thus “concluded the business referred to it.\""
+   },
+   {
+    "line": 177,
+    "snippet": "Aug 2 Presbytery Stated Meeting. Per BCO 15-1, the report of the Inman Commission is entered on the minutes."
+   },
+   {
+    "line": 247,
+    "snippet": "Took original jurisdiction under BCO 13-9 to act on FPC request to dissolve the relationship of REs Linton and Pellom. Appointed a non-judicial commission per BCO 15-1 & 2 to “deliberate and act upon the congregation's request for the dissolution between REs L"
+   }
+  ]
+ },
+ {
+  "provision": "BCO 15-1",
+  "case_numbers": [
    "2008-16"
   ],
   "title": "Judicial Case 2008-16",
@@ -14263,37 +14294,6 @@
    {
     "line": 244,
     "snippet": "Presbytery did not need to vote on these two decisions regarding presumption of guilt because the commission had been appointed as a commission under BCO 15-1, not under BCO 15-3, when it was empowered for this limited judicial task. Instead, the report of the"
-   }
-  ]
- },
- {
-  "provision": "BCO 15-1",
-  "case_numbers": [
-   "2008-15"
-  ],
-  "title": "Morton Smith v. Western Carolina — M38GA, 2010 Nashville, p. 156, 170. Sustained 21-0. Summary: Alleged five errors. SJC sustained two due to an illegitimate congregational meeting. Issue: 1. Did P err at its called meeting on June 17 when it appointed the Inman Commission to consider and handle the",
-  "body": "SJC",
-  "year": 2010,
-  "disposition": "sustained",
-  "synopsis": "Complaint by TEs Hutchinson and Bulkeley against Western Carolina Presbytery, alleging that Presbytery erred by not suspending ruling elder RE Payne from the Sacraments when imposing indefinite suspension from office for scandalous conduct. The SJC sustained the Presbytery's decision, finding no error in…",
-  "url": "cases/ga38_2010__2008-15_2008-16_2008-17_2008-18_2009-01_2009-03.md",
-  "sources": [
-   "case_markdown_text",
-   "cases.jsonl:bco_cited_as",
-   "cases.jsonl:bco_cited_current"
-  ],
-  "evidence": [
-   {
-    "line": 153,
-    "snippet": "July 29 Final meeting of Inman Commission. Per BCO 15-1, the Commission thus “concluded the business referred to it.\""
-   },
-   {
-    "line": 177,
-    "snippet": "Aug 2 Presbytery Stated Meeting. Per BCO 15-1, the report of the Inman Commission is entered on the minutes."
-   },
-   {
-    "line": 247,
-    "snippet": "Took original jurisdiction under BCO 13-9 to act on FPC request to dissolve the relationship of REs Linton and Pellom. Appointed a non-judicial commission per BCO 15-1 & 2 to “deliberate and act upon the congregation's request for the dissolution between REs L"
    }
   ]
  },
@@ -19696,6 +19696,27 @@
  {
   "provision": "BCO 20-5",
   "case_numbers": [
+   "2008-15"
+  ],
+  "title": "Judicial Case 2008-15",
+  "body": "SJC",
+  "year": 2010,
+  "disposition": "out_of_order",
+  "synopsis": "Complaint by TEs Hutchinson and Bulkeley against Western Carolina Presbytery, alleging that Presbytery erred by not suspending ruling elder RE Payne from the Sacraments when imposing indefinite suspension from office for scandalous conduct. The SJC sustained the Presbytery's decision, finding no error in…",
+  "url": "cases/ga38_2010__2008-15_2008-16_2008-17_2008-18_2009-01_2009-03.md",
+  "sources": [
+   "case_markdown_text"
+  ],
+  "evidence": [
+   {
+    "line": 165,
+    "snippet": "Questioned the advisability of TE Bulkeley continuing at FPC because of the slender margin of congregation's vote to retain him as pastor, on analogy with BCO 20-5 (without questioning his abilities as a pastor);"
+   }
+  ]
+ },
+ {
+  "provision": "BCO 20-5",
+  "case_numbers": [
    "2008-16"
   ],
   "title": "Judicial Case 2008-16",
@@ -19724,27 +19745,6 @@
   "year": 2010,
   "disposition": "sustained_in_part",
   "synopsis": "RE Henry Leissing complained that Presbytery erred when it voted on November 7, 2008 to reverse the Sealy Commission's October 23 decision and dissolve the calls of REs Linton and Pellom. The SJC sustained the complaint by reference to its decision in Case 2008-15, Issue 5, holding that Presbytery erred in appointing the Sealy Commission in the first place since the underlying August 7 congregational meeting was illegitimate.",
-  "url": "cases/ga38_2010__2008-15_2008-16_2008-17_2008-18_2009-01_2009-03.md",
-  "sources": [
-   "case_markdown_text"
-  ],
-  "evidence": [
-   {
-    "line": 165,
-    "snippet": "Questioned the advisability of TE Bulkeley continuing at FPC because of the slender margin of congregation's vote to retain him as pastor, on analogy with BCO 20-5 (without questioning his abilities as a pastor);"
-   }
-  ]
- },
- {
-  "provision": "BCO 20-5",
-  "case_numbers": [
-   "2008-15"
-  ],
-  "title": "Morton Smith v. Western Carolina — M38GA, 2010 Nashville, p. 156, 170. Sustained 21-0. Summary: Alleged five errors. SJC sustained two due to an illegitimate congregational meeting. Issue: 1. Did P err at its called meeting on June 17 when it appointed the Inman Commission to consider and handle the",
-  "body": "SJC",
-  "year": 2010,
-  "disposition": "sustained",
-  "synopsis": "Complaint by TEs Hutchinson and Bulkeley against Western Carolina Presbytery, alleging that Presbytery erred by not suspending ruling elder RE Payne from the Sacraments when imposing indefinite suspension from office for scandalous conduct. The SJC sustained the Presbytery's decision, finding no error in…",
   "url": "cases/ga38_2010__2008-15_2008-16_2008-17_2008-18_2009-01_2009-03.md",
   "sources": [
    "case_markdown_text"
@@ -21919,6 +21919,27 @@
  {
   "provision": "BCO 21-5",
   "case_numbers": [
+   "2008-15"
+  ],
+  "title": "Judicial Case 2008-15",
+  "body": "SJC",
+  "year": 2010,
+  "disposition": "out_of_order",
+  "synopsis": "Complaint by TEs Hutchinson and Bulkeley against Western Carolina Presbytery, alleging that Presbytery erred by not suspending ruling elder RE Payne from the Sacraments when imposing indefinite suspension from office for scandalous conduct. The SJC sustained the Presbytery's decision, finding no error in…",
+  "url": "cases/ga38_2010__2008-15_2008-16_2008-17_2008-18_2009-01_2009-03.md",
+  "sources": [
+   "case_markdown_text"
+  ],
+  "evidence": [
+   {
+    "line": 372,
+    "snippet": "Because the Session had voted 2-1 on August 6 to cancel the congregational meeting of August 7, the meeting was not legitimate. The Session had a right to cancel the meeting at any time prior to its convening. (The wisdom of doing so, however, is addressed in "
+   }
+  ]
+ },
+ {
+  "provision": "BCO 21-5",
+  "case_numbers": [
    "2008-16"
   ],
   "title": "Judicial Case 2008-16",
@@ -21947,27 +21968,6 @@
   "year": 2010,
   "disposition": "sustained_in_part",
   "synopsis": "RE Henry Leissing complained that Presbytery erred when it voted on November 7, 2008 to reverse the Sealy Commission's October 23 decision and dissolve the calls of REs Linton and Pellom. The SJC sustained the complaint by reference to its decision in Case 2008-15, Issue 5, holding that Presbytery erred in appointing the Sealy Commission in the first place since the underlying August 7 congregational meeting was illegitimate.",
-  "url": "cases/ga38_2010__2008-15_2008-16_2008-17_2008-18_2009-01_2009-03.md",
-  "sources": [
-   "case_markdown_text"
-  ],
-  "evidence": [
-   {
-    "line": 372,
-    "snippet": "Because the Session had voted 2-1 on August 6 to cancel the congregational meeting of August 7, the meeting was not legitimate. The Session had a right to cancel the meeting at any time prior to its convening. (The wisdom of doing so, however, is addressed in "
-   }
-  ]
- },
- {
-  "provision": "BCO 21-5",
-  "case_numbers": [
-   "2008-15"
-  ],
-  "title": "Morton Smith v. Western Carolina — M38GA, 2010 Nashville, p. 156, 170. Sustained 21-0. Summary: Alleged five errors. SJC sustained two due to an illegitimate congregational meeting. Issue: 1. Did P err at its called meeting on June 17 when it appointed the Inman Commission to consider and handle the",
-  "body": "SJC",
-  "year": 2010,
-  "disposition": "sustained",
-  "synopsis": "Complaint by TEs Hutchinson and Bulkeley against Western Carolina Presbytery, alleging that Presbytery erred by not suspending ruling elder RE Payne from the Sacraments when imposing indefinite suspension from office for scandalous conduct. The SJC sustained the Presbytery's decision, finding no error in…",
   "url": "cases/ga38_2010__2008-15_2008-16_2008-17_2008-18_2009-01_2009-03.md",
   "sources": [
    "case_markdown_text"
@@ -22524,6 +22524,27 @@
  {
   "provision": "BCO 21-5.7",
   "case_numbers": [
+   "2008-15"
+  ],
+  "title": "Judicial Case 2008-15",
+  "body": "SJC",
+  "year": 2010,
+  "disposition": "out_of_order",
+  "synopsis": "Complaint by TEs Hutchinson and Bulkeley against Western Carolina Presbytery, alleging that Presbytery erred by not suspending ruling elder RE Payne from the Sacraments when imposing indefinite suspension from office for scandalous conduct. The SJC sustained the Presbytery's decision, finding no error in…",
+  "url": "cases/ga38_2010__2008-15_2008-16_2008-17_2008-18_2009-01_2009-03.md",
+  "sources": [
+   "case_markdown_text"
+  ],
+  "evidence": [
+   {
+    "line": 119,
+    "snippet": "Found strong presumption of guilt of TE Bulkeley (BCO 21-5.7) & RE Payne (24-6.4)."
+   }
+  ]
+ },
+ {
+  "provision": "BCO 21-5.7",
+  "case_numbers": [
    "2008-16"
   ],
   "title": "Judicial Case 2008-16",
@@ -22652,27 +22673,6 @@
    {
     "line": 99,
     "snippet": "- **c.** Found a strong presumption of guilt for TE Bulkeley (BCO 21-5.7)"
-   }
-  ]
- },
- {
-  "provision": "BCO 21-5.7",
-  "case_numbers": [
-   "2008-15"
-  ],
-  "title": "Morton Smith v. Western Carolina — M38GA, 2010 Nashville, p. 156, 170. Sustained 21-0. Summary: Alleged five errors. SJC sustained two due to an illegitimate congregational meeting. Issue: 1. Did P err at its called meeting on June 17 when it appointed the Inman Commission to consider and handle the",
-  "body": "SJC",
-  "year": 2010,
-  "disposition": "sustained",
-  "synopsis": "Complaint by TEs Hutchinson and Bulkeley against Western Carolina Presbytery, alleging that Presbytery erred by not suspending ruling elder RE Payne from the Sacraments when imposing indefinite suspension from office for scandalous conduct. The SJC sustained the Presbytery's decision, finding no error in…",
-  "url": "cases/ga38_2010__2008-15_2008-16_2008-17_2008-18_2009-01_2009-03.md",
-  "sources": [
-   "case_markdown_text"
-  ],
-  "evidence": [
-   {
-    "line": 119,
-    "snippet": "Found strong presumption of guilt of TE Bulkeley (BCO 21-5.7) & RE Payne (24-6.4)."
    }
   ]
  },
@@ -25284,6 +25284,27 @@
  {
   "provision": "BCO 24-6",
   "case_numbers": [
+   "2008-15"
+  ],
+  "title": "Judicial Case 2008-15",
+  "body": "SJC",
+  "year": 2010,
+  "disposition": "out_of_order",
+  "synopsis": "Complaint by TEs Hutchinson and Bulkeley against Western Carolina Presbytery, alleging that Presbytery erred by not suspending ruling elder RE Payne from the Sacraments when imposing indefinite suspension from office for scandalous conduct. The SJC sustained the Presbytery's decision, finding no error in…",
+  "url": "cases/ga38_2010__2008-15_2008-16_2008-17_2008-18_2009-01_2009-03.md",
+  "sources": [
+   "case_markdown_text"
+  ],
+  "evidence": [
+   {
+    "line": 372,
+    "snippet": "Because the Session had voted 2-1 on August 6 to cancel the congregational meeting of August 7, the meeting was not legitimate. The Session had a right to cancel the meeting at any time prior to its convening. (The wisdom of doing so, however, is addressed in "
+   }
+  ]
+ },
+ {
+  "provision": "BCO 24-6",
+  "case_numbers": [
    "2008-16"
   ],
   "title": "Judicial Case 2008-16",
@@ -25312,27 +25333,6 @@
   "year": 2010,
   "disposition": "sustained_in_part",
   "synopsis": "RE Henry Leissing complained that Presbytery erred when it voted on November 7, 2008 to reverse the Sealy Commission's October 23 decision and dissolve the calls of REs Linton and Pellom. The SJC sustained the complaint by reference to its decision in Case 2008-15, Issue 5, holding that Presbytery erred in appointing the Sealy Commission in the first place since the underlying August 7 congregational meeting was illegitimate.",
-  "url": "cases/ga38_2010__2008-15_2008-16_2008-17_2008-18_2009-01_2009-03.md",
-  "sources": [
-   "case_markdown_text"
-  ],
-  "evidence": [
-   {
-    "line": 372,
-    "snippet": "Because the Session had voted 2-1 on August 6 to cancel the congregational meeting of August 7, the meeting was not legitimate. The Session had a right to cancel the meeting at any time prior to its convening. (The wisdom of doing so, however, is addressed in "
-   }
-  ]
- },
- {
-  "provision": "BCO 24-6",
-  "case_numbers": [
-   "2008-15"
-  ],
-  "title": "Morton Smith v. Western Carolina — M38GA, 2010 Nashville, p. 156, 170. Sustained 21-0. Summary: Alleged five errors. SJC sustained two due to an illegitimate congregational meeting. Issue: 1. Did P err at its called meeting on June 17 when it appointed the Inman Commission to consider and handle the",
-  "body": "SJC",
-  "year": 2010,
-  "disposition": "sustained",
-  "synopsis": "Complaint by TEs Hutchinson and Bulkeley against Western Carolina Presbytery, alleging that Presbytery erred by not suspending ruling elder RE Payne from the Sacraments when imposing indefinite suspension from office for scandalous conduct. The SJC sustained the Presbytery's decision, finding no error in…",
   "url": "cases/ga38_2010__2008-15_2008-16_2008-17_2008-18_2009-01_2009-03.md",
   "sources": [
    "case_markdown_text"
@@ -25554,6 +25554,29 @@
  {
   "provision": "BCO 24-6.4",
   "case_numbers": [
+   "2008-15"
+  ],
+  "title": "Judicial Case 2008-15",
+  "body": "SJC",
+  "year": 2010,
+  "disposition": "out_of_order",
+  "synopsis": "Complaint by TEs Hutchinson and Bulkeley against Western Carolina Presbytery, alleging that Presbytery erred by not suspending ruling elder RE Payne from the Sacraments when imposing indefinite suspension from office for scandalous conduct. The SJC sustained the Presbytery's decision, finding no error in…",
+  "url": "cases/ga38_2010__2008-15_2008-16_2008-17_2008-18_2009-01_2009-03.md",
+  "sources": [
+   "case_markdown_text",
+   "cases.jsonl:bco_cited_as",
+   "cases.jsonl:bco_cited_current"
+  ],
+  "evidence": [
+   {
+    "line": 139,
+    "snippet": "MSC that the Commission determines that there is a strong presumption of guilt on the part of RE Neill Payne in that he has failed to adorn the profession of the Gospel in his life, and to set a worthy example before the church of which God has made him an off"
+   }
+  ]
+ },
+ {
+  "provision": "BCO 24-6.4",
+  "case_numbers": [
    "2008-16"
   ],
   "title": "Judicial Case 2008-16",
@@ -25623,29 +25646,6 @@
    {
     "line": 125,
     "snippet": "<u>MSC</u> that the Commission determines that there is a strong presumption of guilt on the part of RE Neill Payne in that he has failed to adorn the profession of the Gospel in his life, and to set a worthy example before the church of which God has made him"
-   }
-  ]
- },
- {
-  "provision": "BCO 24-6.4",
-  "case_numbers": [
-   "2008-15"
-  ],
-  "title": "Morton Smith v. Western Carolina — M38GA, 2010 Nashville, p. 156, 170. Sustained 21-0. Summary: Alleged five errors. SJC sustained two due to an illegitimate congregational meeting. Issue: 1. Did P err at its called meeting on June 17 when it appointed the Inman Commission to consider and handle the",
-  "body": "SJC",
-  "year": 2010,
-  "disposition": "sustained",
-  "synopsis": "Complaint by TEs Hutchinson and Bulkeley against Western Carolina Presbytery, alleging that Presbytery erred by not suspending ruling elder RE Payne from the Sacraments when imposing indefinite suspension from office for scandalous conduct. The SJC sustained the Presbytery's decision, finding no error in…",
-  "url": "cases/ga38_2010__2008-15_2008-16_2008-17_2008-18_2009-01_2009-03.md",
-  "sources": [
-   "case_markdown_text",
-   "cases.jsonl:bco_cited_as",
-   "cases.jsonl:bco_cited_current"
-  ],
-  "evidence": [
-   {
-    "line": 139,
-    "snippet": "MSC that the Commission determines that there is a strong presumption of guilt on the part of RE Neill Payne in that he has failed to adorn the profession of the Gospel in his life, and to set a worthy example before the church of which God has made him an off"
    }
   ]
  },
@@ -25978,6 +25978,57 @@
  {
   "provision": "BCO 24-7",
   "case_numbers": [
+   "2008-15"
+  ],
+  "title": "Judicial Case 2008-15",
+  "body": "SJC",
+  "year": 2010,
+  "disposition": "out_of_order",
+  "synopsis": "Complaint by TEs Hutchinson and Bulkeley against Western Carolina Presbytery, alleging that Presbytery erred by not suspending ruling elder RE Payne from the Sacraments when imposing indefinite suspension from office for scandalous conduct. The SJC sustained the Presbytery's decision, finding no error in…",
+  "url": "cases/ga38_2010__2008-15_2008-16_2008-17_2008-18_2009-01_2009-03.md",
+  "sources": [
+   "case_markdown_text",
+   "cases.jsonl:bco_cited_as",
+   "cases.jsonl:bco_cited_current"
+  ],
+  "evidence": [
+   {
+    "line": 77,
+    "snippet": "At a Congregational Meeting of the Friendship Presbyterian Church held Sunday, June 1, 2008, action was taken to request the Session to dissolve the official relationship between the church and RE Neill Payne without censure, according to the provision of BCO "
+   },
+   {
+    "line": 99,
+    "snippet": "1. Deliberate and act upon the congregational request for dissolution of the relationship between RE Neill Payne and the Friendship Session under the provisions of BCO 24-7, paragraph 2;"
+   },
+   {
+    "line": 129,
+    "snippet": "Rationale - At the center of the current distress at Friendship PCA have been the views of RE Neill Payne related to race. It seems incumbent on Presbytery to at least take notice of Mr. Payne's views, and to give some account for how those views have come to "
+   },
+   {
+    "line": 225,
+    "snippet": "To substitute John Manchester for Mr. Payne as Treasurer To ask Presbytery \"to take original jurisdiction to conduct the review of ruling elder dissolution provided under BCO 24-7 given the Session's inability to exercise its authority in the matter (BCO Ch. 1"
+   },
+   {
+    "line": 247,
+    "snippet": "Took original jurisdiction under BCO 13-9 to act on FPC request to dissolve the relationship of REs Linton and Pellom. Appointed a non-judicial commission per BCO 15-1 & 2 to “deliberate and act upon the congregation's request for the dissolution between REs L"
+   },
+   {
+    "line": 350,
+    "snippet": "Reference to (1) fulfill the Session's duty of BCO 24-7 and consider the"
+   },
+   {
+    "line": 360,
+    "snippet": "from delegating its duties of BCO 24-7 or 31-2 to the Presbytery. And"
+   },
+   {
+    "line": 374,
+    "snippet": "Further, the Presbytery erred at its August 19 meeting in that it \"took original jurisdiction under BCO 13-9 to act on Friendship Presbyterian Church's request to dissolve the relationship of RE James Linton and John Pellom and conduct the review of BCO 24-7.\""
+   }
+  ]
+ },
+ {
+  "provision": "BCO 24-7",
+  "case_numbers": [
    "2008-16"
   ],
   "title": "Judicial Case 2008-16",
@@ -26190,57 +26241,6 @@
    {
     "line": 163,
     "snippet": "Pellom. Appointed a non-judicial commission per BCO 15-1 & 2 to “deliberate and act upon the congregation's request for the dissolution between REs Linton and Pellom under the provisions of BCO 24-7, paragraph 2.\" Six men were appointed: TEs Sealy, Bancroft, O"
-   }
-  ]
- },
- {
-  "provision": "BCO 24-7",
-  "case_numbers": [
-   "2008-15"
-  ],
-  "title": "Morton Smith v. Western Carolina — M38GA, 2010 Nashville, p. 156, 170. Sustained 21-0. Summary: Alleged five errors. SJC sustained two due to an illegitimate congregational meeting. Issue: 1. Did P err at its called meeting on June 17 when it appointed the Inman Commission to consider and handle the",
-  "body": "SJC",
-  "year": 2010,
-  "disposition": "sustained",
-  "synopsis": "Complaint by TEs Hutchinson and Bulkeley against Western Carolina Presbytery, alleging that Presbytery erred by not suspending ruling elder RE Payne from the Sacraments when imposing indefinite suspension from office for scandalous conduct. The SJC sustained the Presbytery's decision, finding no error in…",
-  "url": "cases/ga38_2010__2008-15_2008-16_2008-17_2008-18_2009-01_2009-03.md",
-  "sources": [
-   "case_markdown_text",
-   "cases.jsonl:bco_cited_as",
-   "cases.jsonl:bco_cited_current"
-  ],
-  "evidence": [
-   {
-    "line": 77,
-    "snippet": "At a Congregational Meeting of the Friendship Presbyterian Church held Sunday, June 1, 2008, action was taken to request the Session to dissolve the official relationship between the church and RE Neill Payne without censure, according to the provision of BCO "
-   },
-   {
-    "line": 99,
-    "snippet": "1. Deliberate and act upon the congregational request for dissolution of the relationship between RE Neill Payne and the Friendship Session under the provisions of BCO 24-7, paragraph 2;"
-   },
-   {
-    "line": 129,
-    "snippet": "Rationale - At the center of the current distress at Friendship PCA have been the views of RE Neill Payne related to race. It seems incumbent on Presbytery to at least take notice of Mr. Payne's views, and to give some account for how those views have come to "
-   },
-   {
-    "line": 225,
-    "snippet": "To substitute John Manchester for Mr. Payne as Treasurer To ask Presbytery \"to take original jurisdiction to conduct the review of ruling elder dissolution provided under BCO 24-7 given the Session's inability to exercise its authority in the matter (BCO Ch. 1"
-   },
-   {
-    "line": 247,
-    "snippet": "Took original jurisdiction under BCO 13-9 to act on FPC request to dissolve the relationship of REs Linton and Pellom. Appointed a non-judicial commission per BCO 15-1 & 2 to “deliberate and act upon the congregation's request for the dissolution between REs L"
-   },
-   {
-    "line": 350,
-    "snippet": "Reference to (1) fulfill the Session's duty of BCO 24-7 and consider the"
-   },
-   {
-    "line": 360,
-    "snippet": "from delegating its duties of BCO 24-7 or 31-2 to the Presbytery. And"
-   },
-   {
-    "line": 374,
-    "snippet": "Further, the Presbytery erred at its August 19 meeting in that it \"took original jurisdiction under BCO 13-9 to act on Friendship Presbyterian Church's request to dissolve the relationship of RE James Linton and John Pellom and conduct the review of BCO 24-7.\""
    }
   ]
  },
@@ -29379,6 +29379,91 @@
  {
   "provision": "BCO 27-5",
   "case_numbers": [
+   "2009-1"
+  ],
+  "title": "Complaint TE Morton Smith vs. Western Carolina Presbytery",
+  "body": "SJC",
+  "year": 2010,
+  "disposition": "out_of_order",
+  "synopsis": "Complaint by TEs Hutchinson and Bulkeley against Western Carolina Presbytery, alleging that Presbytery erred by not suspending ruling elder RE Payne from the Sacraments when imposing indefinite suspension from office for scandalous conduct. The SJC sustained the Presbytery's decision, finding no error in…",
+  "url": "cases/ga38_2010__2008-15_2008-16_2008-17_2008-18_2009-01_2009-03.md",
+  "sources": [
+   "cases.jsonl:bco_cited_as",
+   "cases.jsonl:bco_cited_current"
+  ],
+  "evidence": []
+ },
+ {
+  "provision": "BCO 27-5",
+  "case_numbers": [
+   "2008-17"
+  ],
+  "title": "Hutchinson & Bulkeley v. Western Carolina — M38GA, 2010 Nashville, p. 174. Not sustained 21-0. Summary: Alleged P erred by not suspending RE from sacraments in addition to imposing indefinite suspension from office (in a BCO 38-1 case without process). Issue: Did Presbytery err at its stated meeting",
+  "body": "SJC",
+  "year": 2010,
+  "disposition": "not_sustained",
+  "synopsis": "Complaint by TEs Hutchinson and Bulkeley against Western Carolina Presbytery, alleging that Presbytery erred by not suspending ruling elder RE Payne from the Sacraments when imposing indefinite suspension from office for scandalous conduct. The SJC sustained the Presbytery's decision, finding no error in constitutional interpretation and deferring to Presbytery's discretionary judgment regarding appropriate censure.",
+  "url": "cases/ga38_2010__2008-15_2008-16_2008-17_2008-18_2009-01_2009-03.md",
+  "sources": [
+   "cases.jsonl:bco_cited_as",
+   "cases.jsonl:bco_cited_current"
+  ],
+  "evidence": []
+ },
+ {
+  "provision": "BCO 27-5",
+  "case_numbers": [
+   "2008-18"
+  ],
+  "title": "Hutchinson & Bulkeley v. Western Carolina — M38GA, 2010 Nashville, p. 178. Not sustained 21-0. Summary: Alleged P erred in its Commission's opinion regarding an RE's views related to race and IQ in an email. Issue: Did Presbytery err in its Commission's opinion regarding the views of Mr. Payne, spec",
+  "body": "SJC",
+  "year": 2010,
+  "disposition": "not_sustained",
+  "synopsis": "Complaint by TEs Hutchinson and Bulkeley against Western Carolina Presbytery's Inman Commission opinion regarding views of RE Payne expressed in a November 26, 2007 e-mail. The SJC found that Presbytery did not err because it would be inappropriate for the SJC to render judgment on the Biblical character of a man's views expressed in an e-mail without a more complete statement of those views and proper due process.",
+  "url": "cases/ga38_2010__2008-15_2008-16_2008-17_2008-18_2009-01_2009-03.md",
+  "sources": [
+   "cases.jsonl:bco_cited_as",
+   "cases.jsonl:bco_cited_current"
+  ],
+  "evidence": []
+ },
+ {
+  "provision": "BCO 27-5",
+  "case_numbers": [
+   "2008-15"
+  ],
+  "title": "Judicial Case 2008-15",
+  "body": "SJC",
+  "year": 2010,
+  "disposition": "out_of_order",
+  "synopsis": "Complaint by TEs Hutchinson and Bulkeley against Western Carolina Presbytery, alleging that Presbytery erred by not suspending ruling elder RE Payne from the Sacraments when imposing indefinite suspension from office for scandalous conduct. The SJC sustained the Presbytery's decision, finding no error in…",
+  "url": "cases/ga38_2010__2008-15_2008-16_2008-17_2008-18_2009-01_2009-03.md",
+  "sources": [
+   "cases.jsonl:bco_cited_as",
+   "cases.jsonl:bco_cited_current"
+  ],
+  "evidence": []
+ },
+ {
+  "provision": "BCO 27-5",
+  "case_numbers": [
+   "2008-16"
+  ],
+  "title": "Judicial Case 2008-16",
+  "body": "SJC",
+  "year": 2010,
+  "disposition": "out_of_order",
+  "synopsis": "Complaint by TEs Hutchinson and Bulkeley against Western Carolina Presbytery, alleging that Presbytery erred by not suspending ruling elder RE Payne from the Sacraments when imposing indefinite suspension from office for scandalous conduct. The SJC sustained the Presbytery's decision, finding no error in…",
+  "url": "cases/ga38_2010__2008-15_2008-16_2008-17_2008-18_2009-01_2009-03.md",
+  "sources": [
+   "cases.jsonl:bco_cited_as",
+   "cases.jsonl:bco_cited_current"
+  ],
+  "evidence": []
+ },
+ {
+  "provision": "BCO 27-5",
+  "case_numbers": [
    "2009-5"
   ],
   "title": "Judicial Case 2009-05",
@@ -29402,6 +29487,23 @@
     "snippet": "Without in any way relinquishing my concern to correct error and dissociate both the gospel and the church from racism, with its ungodly contempt, disrespect and scorn for those of different tribes and tongues, I confess that I have published my disagreement w"
    }
   ]
+ },
+ {
+  "provision": "BCO 27-5",
+  "case_numbers": [
+   "2009-3"
+  ],
+  "title": "Leissing v. Western Carolina",
+  "body": "SJC",
+  "year": 2010,
+  "disposition": "sustained_in_part",
+  "synopsis": "RE Henry Leissing complained that Presbytery erred when it voted on November 7, 2008 to reverse the Sealy Commission's October 23 decision and dissolve the calls of REs Linton and Pellom. The SJC sustained the complaint by reference to its decision in Case 2008-15, Issue 5, holding that Presbytery erred in appointing the Sealy Commission in the first place since the underlying August 7 congregational meeting was illegitimate.",
+  "url": "cases/ga38_2010__2008-15_2008-16_2008-17_2008-18_2009-01_2009-03.md",
+  "sources": [
+   "cases.jsonl:bco_cited_as",
+   "cases.jsonl:bco_cited_current"
+  ],
+  "evidence": []
  },
  {
   "provision": "BCO 27-5",
@@ -32393,6 +32495,33 @@
  {
   "provision": "BCO 30-3",
   "case_numbers": [
+   "2008-15"
+  ],
+  "title": "Judicial Case 2008-15",
+  "body": "SJC",
+  "year": 2010,
+  "disposition": "out_of_order",
+  "synopsis": "Complaint by TEs Hutchinson and Bulkeley against Western Carolina Presbytery, alleging that Presbytery erred by not suspending ruling elder RE Payne from the Sacraments when imposing indefinite suspension from office for scandalous conduct. The SJC sustained the Presbytery's decision, finding no error in…",
+  "url": "cases/ga38_2010__2008-15_2008-16_2008-17_2008-18_2009-01_2009-03.md",
+  "sources": [
+   "case_markdown_text",
+   "cases.jsonl:bco_cited_as",
+   "cases.jsonl:bco_cited_current"
+  ],
+  "evidence": [
+   {
+    "line": 457,
+    "snippet": "Presbytery cites BCO 30-3 to support their contention they were constitutionally permitted to indefinitely suspend RE Payne from office without also suspending from the Sacraments:"
+   },
+   {
+    "line": 473,
+    "snippet": "accompanied by suspension from Sacraments (as opposed to vice versa, which is explicitly stipulated by BCO 30-3). But Complainants contend the underlined sentence is best understood in the context of the two succeeding paragraphs, which, they contend, explain "
+   }
+  ]
+ },
+ {
+  "provision": "BCO 30-3",
+  "case_numbers": [
    "2008-16"
   ],
   "title": "Judicial Case 2008-16",
@@ -32427,33 +32556,6 @@
   "year": 2010,
   "disposition": "sustained_in_part",
   "synopsis": "RE Henry Leissing complained that Presbytery erred when it voted on November 7, 2008 to reverse the Sealy Commission's October 23 decision and dissolve the calls of REs Linton and Pellom. The SJC sustained the complaint by reference to its decision in Case 2008-15, Issue 5, holding that Presbytery erred in appointing the Sealy Commission in the first place since the underlying August 7 congregational meeting was illegitimate.",
-  "url": "cases/ga38_2010__2008-15_2008-16_2008-17_2008-18_2009-01_2009-03.md",
-  "sources": [
-   "case_markdown_text",
-   "cases.jsonl:bco_cited_as",
-   "cases.jsonl:bco_cited_current"
-  ],
-  "evidence": [
-   {
-    "line": 457,
-    "snippet": "Presbytery cites BCO 30-3 to support their contention they were constitutionally permitted to indefinitely suspend RE Payne from office without also suspending from the Sacraments:"
-   },
-   {
-    "line": 473,
-    "snippet": "accompanied by suspension from Sacraments (as opposed to vice versa, which is explicitly stipulated by BCO 30-3). But Complainants contend the underlined sentence is best understood in the context of the two succeeding paragraphs, which, they contend, explain "
-   }
-  ]
- },
- {
-  "provision": "BCO 30-3",
-  "case_numbers": [
-   "2008-15"
-  ],
-  "title": "Morton Smith v. Western Carolina — M38GA, 2010 Nashville, p. 156, 170. Sustained 21-0. Summary: Alleged five errors. SJC sustained two due to an illegitimate congregational meeting. Issue: 1. Did P err at its called meeting on June 17 when it appointed the Inman Commission to consider and handle the",
-  "body": "SJC",
-  "year": 2010,
-  "disposition": "sustained",
-  "synopsis": "Complaint by TEs Hutchinson and Bulkeley against Western Carolina Presbytery, alleging that Presbytery erred by not suspending ruling elder RE Payne from the Sacraments when imposing indefinite suspension from office for scandalous conduct. The SJC sustained the Presbytery's decision, finding no error in…",
   "url": "cases/ga38_2010__2008-15_2008-16_2008-17_2008-18_2009-01_2009-03.md",
   "sources": [
    "case_markdown_text",
@@ -35149,6 +35251,41 @@
  {
   "provision": "BCO 31-2",
   "case_numbers": [
+   "2008-15"
+  ],
+  "title": "Judicial Case 2008-15",
+  "body": "SJC",
+  "year": 2010,
+  "disposition": "out_of_order",
+  "synopsis": "Complaint by TEs Hutchinson and Bulkeley against Western Carolina Presbytery, alleging that Presbytery erred by not suspending ruling elder RE Payne from the Sacraments when imposing indefinite suspension from office for scandalous conduct. The SJC sustained the Presbytery's decision, finding no error in…",
+  "url": "cases/ga38_2010__2008-15_2008-16_2008-17_2008-18_2009-01_2009-03.md",
+  "sources": [
+   "case_markdown_text",
+   "cases.jsonl:bco_cited_as",
+   "cases.jsonl:bco_cited_current"
+  ],
+  "evidence": [
+   {
+    "line": 87,
+    "snippet": "In making this reference, we specifically ask Presbytery to exercise the responsibilities described in BCO 31-2 regarding all relevant persons both within the membership of our congregation and the Presbytery, namely “with due diligence and great discretion de"
+   },
+   {
+    "line": 101,
+    "snippet": "2. Conduct whatever investigation is required under the provisions of BCO 31-2, inclusive of determining whether there is a strong presumption of guilt warranting judicial process, but exclusive of actually instituting such judicial process;"
+   },
+   {
+    "line": 352,
+    "snippet": "Session's duty to conduct a BCO 31-2 investigation regarding certain"
+   },
+   {
+    "line": 420,
+    "snippet": "A Presbytery Commission conducted a BCO 31-2 investigation, found a strong presumption of guilt, and assisted the accused in preparing his confession per BCO 38-1 Case Without Process (shown at August 2 in Summary of Facts). Presbytery then censured him with i"
+   }
+  ]
+ },
+ {
+  "provision": "BCO 31-2",
+  "case_numbers": [
    "2008-16"
   ],
   "title": "Judicial Case 2008-16",
@@ -35405,41 +35542,6 @@
    {
     "line": 284,
     "snippet": "Once a BCO 31-2 investigation has commenced, Presbytery cannot just"
-   }
-  ]
- },
- {
-  "provision": "BCO 31-2",
-  "case_numbers": [
-   "2008-15"
-  ],
-  "title": "Morton Smith v. Western Carolina — M38GA, 2010 Nashville, p. 156, 170. Sustained 21-0. Summary: Alleged five errors. SJC sustained two due to an illegitimate congregational meeting. Issue: 1. Did P err at its called meeting on June 17 when it appointed the Inman Commission to consider and handle the",
-  "body": "SJC",
-  "year": 2010,
-  "disposition": "sustained",
-  "synopsis": "Complaint by TEs Hutchinson and Bulkeley against Western Carolina Presbytery, alleging that Presbytery erred by not suspending ruling elder RE Payne from the Sacraments when imposing indefinite suspension from office for scandalous conduct. The SJC sustained the Presbytery's decision, finding no error in…",
-  "url": "cases/ga38_2010__2008-15_2008-16_2008-17_2008-18_2009-01_2009-03.md",
-  "sources": [
-   "case_markdown_text",
-   "cases.jsonl:bco_cited_as",
-   "cases.jsonl:bco_cited_current"
-  ],
-  "evidence": [
-   {
-    "line": 87,
-    "snippet": "In making this reference, we specifically ask Presbytery to exercise the responsibilities described in BCO 31-2 regarding all relevant persons both within the membership of our congregation and the Presbytery, namely “with due diligence and great discretion de"
-   },
-   {
-    "line": 101,
-    "snippet": "2. Conduct whatever investigation is required under the provisions of BCO 31-2, inclusive of determining whether there is a strong presumption of guilt warranting judicial process, but exclusive of actually instituting such judicial process;"
-   },
-   {
-    "line": 352,
-    "snippet": "Session's duty to conduct a BCO 31-2 investigation regarding certain"
-   },
-   {
-    "line": 420,
-    "snippet": "A Presbytery Commission conducted a BCO 31-2 investigation, found a strong presumption of guilt, and assisted the accused in preparing his confession per BCO 38-1 Case Without Process (shown at August 2 in Summary of Facts). Presbytery then censured him with i"
    }
   ]
  },
@@ -39772,6 +39874,27 @@
  {
   "provision": "BCO 31-7",
   "case_numbers": [
+   "2008-15"
+  ],
+  "title": "Judicial Case 2008-15",
+  "body": "SJC",
+  "year": 2010,
+  "disposition": "out_of_order",
+  "synopsis": "Complaint by TEs Hutchinson and Bulkeley against Western Carolina Presbytery, alleging that Presbytery erred by not suspending ruling elder RE Payne from the Sacraments when imposing indefinite suspension from office for scandalous conduct. The SJC sustained the Presbytery's decision, finding no error in…",
+  "url": "cases/ga38_2010__2008-15_2008-16_2008-17_2008-18_2009-01_2009-03.md",
+  "sources": [
+   "case_markdown_text"
+  ],
+  "evidence": [
+   {
+    "line": 159,
+    "snippet": "3. Assigned two members to converse with Payne and two with Bulkeley (BCO 31-7)"
+   }
+  ]
+ },
+ {
+  "provision": "BCO 31-7",
+  "case_numbers": [
    "2008-16"
   ],
   "title": "Judicial Case 2008-16",
@@ -39800,27 +39923,6 @@
   "year": 2010,
   "disposition": "sustained_in_part",
   "synopsis": "RE Henry Leissing complained that Presbytery erred when it voted on November 7, 2008 to reverse the Sealy Commission's October 23 decision and dissolve the calls of REs Linton and Pellom. The SJC sustained the complaint by reference to its decision in Case 2008-15, Issue 5, holding that Presbytery erred in appointing the Sealy Commission in the first place since the underlying August 7 congregational meeting was illegitimate.",
-  "url": "cases/ga38_2010__2008-15_2008-16_2008-17_2008-18_2009-01_2009-03.md",
-  "sources": [
-   "case_markdown_text"
-  ],
-  "evidence": [
-   {
-    "line": 159,
-    "snippet": "3. Assigned two members to converse with Payne and two with Bulkeley (BCO 31-7)"
-   }
-  ]
- },
- {
-  "provision": "BCO 31-7",
-  "case_numbers": [
-   "2008-15"
-  ],
-  "title": "Morton Smith v. Western Carolina — M38GA, 2010 Nashville, p. 156, 170. Sustained 21-0. Summary: Alleged five errors. SJC sustained two due to an illegitimate congregational meeting. Issue: 1. Did P err at its called meeting on June 17 when it appointed the Inman Commission to consider and handle the",
-  "body": "SJC",
-  "year": 2010,
-  "disposition": "sustained",
-  "synopsis": "Complaint by TEs Hutchinson and Bulkeley against Western Carolina Presbytery, alleging that Presbytery erred by not suspending ruling elder RE Payne from the Sacraments when imposing indefinite suspension from office for scandalous conduct. The SJC sustained the Presbytery's decision, finding no error in…",
   "url": "cases/ga38_2010__2008-15_2008-16_2008-17_2008-18_2009-01_2009-03.md",
   "sources": [
    "case_markdown_text"
@@ -49827,6 +49929,27 @@
  {
   "provision": "BCO 33-1",
   "case_numbers": [
+   "2008-15"
+  ],
+  "title": "Judicial Case 2008-15",
+  "body": "SJC",
+  "year": 2010,
+  "disposition": "out_of_order",
+  "synopsis": "Complaint by TEs Hutchinson and Bulkeley against Western Carolina Presbytery, alleging that Presbytery erred by not suspending ruling elder RE Payne from the Sacraments when imposing indefinite suspension from office for scandalous conduct. The SJC sustained the Presbytery's decision, finding no error in…",
+  "url": "cases/ga38_2010__2008-15_2008-16_2008-17_2008-18_2009-01_2009-03.md",
+  "sources": [
+   "case_markdown_text"
+  ],
+  "evidence": [
+   {
+    "line": 426,
+    "snippet": "jurisdiction. But BCO 33-1 and 34-1 stipulate the procedures to follow"
+   }
+  ]
+ },
+ {
+  "provision": "BCO 33-1",
+  "case_numbers": [
    "2008-16"
   ],
   "title": "Judicial Case 2008-16",
@@ -49884,27 +50007,6 @@
    {
     "line": 21,
     "snippet": "2. On December 11, 2007 Pasadena Evangelical Presbyterian Church and Aisquith Presbyterian Church in letters to Chesapeake Presbytery requested Presbytery to assume original jurisdiction under Book of Church Order 33-1 in the matter relating to Mr. and Mrs. Ar"
-   }
-  ]
- },
- {
-  "provision": "BCO 33-1",
-  "case_numbers": [
-   "2008-15"
-  ],
-  "title": "Morton Smith v. Western Carolina — M38GA, 2010 Nashville, p. 156, 170. Sustained 21-0. Summary: Alleged five errors. SJC sustained two due to an illegitimate congregational meeting. Issue: 1. Did P err at its called meeting on June 17 when it appointed the Inman Commission to consider and handle the",
-  "body": "SJC",
-  "year": 2010,
-  "disposition": "sustained",
-  "synopsis": "Complaint by TEs Hutchinson and Bulkeley against Western Carolina Presbytery, alleging that Presbytery erred by not suspending ruling elder RE Payne from the Sacraments when imposing indefinite suspension from office for scandalous conduct. The SJC sustained the Presbytery's decision, finding no error in…",
-  "url": "cases/ga38_2010__2008-15_2008-16_2008-17_2008-18_2009-01_2009-03.md",
-  "sources": [
-   "case_markdown_text"
-  ],
-  "evidence": [
-   {
-    "line": 426,
-    "snippet": "jurisdiction. But BCO 33-1 and 34-1 stipulate the procedures to follow"
    }
   ]
  },
@@ -53779,6 +53881,27 @@
  {
   "provision": "BCO 34-8",
   "case_numbers": [
+   "2008-15"
+  ],
+  "title": "Judicial Case 2008-15",
+  "body": "SJC",
+  "year": 2010,
+  "disposition": "out_of_order",
+  "synopsis": "Complaint by TEs Hutchinson and Bulkeley against Western Carolina Presbytery, alleging that Presbytery erred by not suspending ruling elder RE Payne from the Sacraments when imposing indefinite suspension from office for scandalous conduct. The SJC sustained the Presbytery's decision, finding no error in…",
+  "url": "cases/ga38_2010__2008-15_2008-16_2008-17_2008-18_2009-01_2009-03.md",
+  "sources": [
+   "case_markdown_text"
+  ],
+  "evidence": [
+   {
+    "line": 467,
+    "snippet": "Indefinite suspension is administered to the impenitent offender until he exhibits signs of repentance, or until by his conduct, the necessity of the greatest censure be made manifest. In the case of indefinite suspension from office imposed due to scandalous "
+   }
+  ]
+ },
+ {
+  "provision": "BCO 34-8",
+  "case_numbers": [
    "2008-16"
   ],
   "title": "Judicial Case 2008-16",
@@ -53807,27 +53930,6 @@
   "year": 2010,
   "disposition": "sustained_in_part",
   "synopsis": "RE Henry Leissing complained that Presbytery erred when it voted on November 7, 2008 to reverse the Sealy Commission's October 23 decision and dissolve the calls of REs Linton and Pellom. The SJC sustained the complaint by reference to its decision in Case 2008-15, Issue 5, holding that Presbytery erred in appointing the Sealy Commission in the first place since the underlying August 7 congregational meeting was illegitimate.",
-  "url": "cases/ga38_2010__2008-15_2008-16_2008-17_2008-18_2009-01_2009-03.md",
-  "sources": [
-   "case_markdown_text"
-  ],
-  "evidence": [
-   {
-    "line": 467,
-    "snippet": "Indefinite suspension is administered to the impenitent offender until he exhibits signs of repentance, or until by his conduct, the necessity of the greatest censure be made manifest. In the case of indefinite suspension from office imposed due to scandalous "
-   }
-  ]
- },
- {
-  "provision": "BCO 34-8",
-  "case_numbers": [
-   "2008-15"
-  ],
-  "title": "Morton Smith v. Western Carolina — M38GA, 2010 Nashville, p. 156, 170. Sustained 21-0. Summary: Alleged five errors. SJC sustained two due to an illegitimate congregational meeting. Issue: 1. Did P err at its called meeting on June 17 when it appointed the Inman Commission to consider and handle the",
-  "body": "SJC",
-  "year": 2010,
-  "disposition": "sustained",
-  "synopsis": "Complaint by TEs Hutchinson and Bulkeley against Western Carolina Presbytery, alleging that Presbytery erred by not suspending ruling elder RE Payne from the Sacraments when imposing indefinite suspension from office for scandalous conduct. The SJC sustained the Presbytery's decision, finding no error in…",
   "url": "cases/ga38_2010__2008-15_2008-16_2008-17_2008-18_2009-01_2009-03.md",
   "sources": [
    "case_markdown_text"
@@ -57611,6 +57713,23 @@
  {
   "provision": "BCO 36-5",
   "case_numbers": [
+   "2008-15"
+  ],
+  "title": "Judicial Case 2008-15",
+  "body": "SJC",
+  "year": 2010,
+  "disposition": "out_of_order",
+  "synopsis": "Complaint by TEs Hutchinson and Bulkeley against Western Carolina Presbytery, alleging that Presbytery erred by not suspending ruling elder RE Payne from the Sacraments when imposing indefinite suspension from office for scandalous conduct. The SJC sustained the Presbytery's decision, finding no error in…",
+  "url": "cases/ga38_2010__2008-15_2008-16_2008-17_2008-18_2009-01_2009-03.md",
+  "sources": [
+   "cases.jsonl:bco_cited_as",
+   "cases.jsonl:bco_cited_current"
+  ],
+  "evidence": []
+ },
+ {
+  "provision": "BCO 36-5",
+  "case_numbers": [
    "2008-16"
   ],
   "title": "Judicial Case 2008-16",
@@ -57635,23 +57754,6 @@
   "year": 2010,
   "disposition": "sustained_in_part",
   "synopsis": "RE Henry Leissing complained that Presbytery erred when it voted on November 7, 2008 to reverse the Sealy Commission's October 23 decision and dissolve the calls of REs Linton and Pellom. The SJC sustained the complaint by reference to its decision in Case 2008-15, Issue 5, holding that Presbytery erred in appointing the Sealy Commission in the first place since the underlying August 7 congregational meeting was illegitimate.",
-  "url": "cases/ga38_2010__2008-15_2008-16_2008-17_2008-18_2009-01_2009-03.md",
-  "sources": [
-   "cases.jsonl:bco_cited_as",
-   "cases.jsonl:bco_cited_current"
-  ],
-  "evidence": []
- },
- {
-  "provision": "BCO 36-5",
-  "case_numbers": [
-   "2008-15"
-  ],
-  "title": "Morton Smith v. Western Carolina — M38GA, 2010 Nashville, p. 156, 170. Sustained 21-0. Summary: Alleged five errors. SJC sustained two due to an illegitimate congregational meeting. Issue: 1. Did P err at its called meeting on June 17 when it appointed the Inman Commission to consider and handle the",
-  "body": "SJC",
-  "year": 2010,
-  "disposition": "sustained",
-  "synopsis": "Complaint by TEs Hutchinson and Bulkeley against Western Carolina Presbytery, alleging that Presbytery erred by not suspending ruling elder RE Payne from the Sacraments when imposing indefinite suspension from office for scandalous conduct. The SJC sustained the Presbytery's decision, finding no error in…",
   "url": "cases/ga38_2010__2008-15_2008-16_2008-17_2008-18_2009-01_2009-03.md",
   "sources": [
    "cases.jsonl:bco_cited_as",
@@ -58420,6 +58522,33 @@
  {
   "provision": "BCO 37-3",
   "case_numbers": [
+   "2008-15"
+  ],
+  "title": "Judicial Case 2008-15",
+  "body": "SJC",
+  "year": 2010,
+  "disposition": "out_of_order",
+  "synopsis": "Complaint by TEs Hutchinson and Bulkeley against Western Carolina Presbytery, alleging that Presbytery erred by not suspending ruling elder RE Payne from the Sacraments when imposing indefinite suspension from office for scandalous conduct. The SJC sustained the Presbytery's decision, finding no error in…",
+  "url": "cases/ga38_2010__2008-15_2008-16_2008-17_2008-18_2009-01_2009-03.md",
+  "sources": [
+   "case_markdown_text",
+   "cases.jsonl:bco_cited_as",
+   "cases.jsonl:bco_cited_current"
+  ],
+  "evidence": [
+   {
+    "line": 475,
+    "snippet": "Presbytery also argues BCO 37-3, a paragraph about removing censure,"
+   },
+   {
+    "line": 523,
+    "snippet": "as satisfies the church\" (BCO 37-3)."
+   }
+  ]
+ },
+ {
+  "provision": "BCO 37-3",
+  "case_numbers": [
    "2008-16"
   ],
   "title": "Judicial Case 2008-16",
@@ -58454,33 +58583,6 @@
   "year": 2010,
   "disposition": "sustained_in_part",
   "synopsis": "RE Henry Leissing complained that Presbytery erred when it voted on November 7, 2008 to reverse the Sealy Commission's October 23 decision and dissolve the calls of REs Linton and Pellom. The SJC sustained the complaint by reference to its decision in Case 2008-15, Issue 5, holding that Presbytery erred in appointing the Sealy Commission in the first place since the underlying August 7 congregational meeting was illegitimate.",
-  "url": "cases/ga38_2010__2008-15_2008-16_2008-17_2008-18_2009-01_2009-03.md",
-  "sources": [
-   "case_markdown_text",
-   "cases.jsonl:bco_cited_as",
-   "cases.jsonl:bco_cited_current"
-  ],
-  "evidence": [
-   {
-    "line": 475,
-    "snippet": "Presbytery also argues BCO 37-3, a paragraph about removing censure,"
-   },
-   {
-    "line": 523,
-    "snippet": "as satisfies the church\" (BCO 37-3)."
-   }
-  ]
- },
- {
-  "provision": "BCO 37-3",
-  "case_numbers": [
-   "2008-15"
-  ],
-  "title": "Morton Smith v. Western Carolina — M38GA, 2010 Nashville, p. 156, 170. Sustained 21-0. Summary: Alleged five errors. SJC sustained two due to an illegitimate congregational meeting. Issue: 1. Did P err at its called meeting on June 17 when it appointed the Inman Commission to consider and handle the",
-  "body": "SJC",
-  "year": 2010,
-  "disposition": "sustained",
-  "synopsis": "Complaint by TEs Hutchinson and Bulkeley against Western Carolina Presbytery, alleging that Presbytery erred by not suspending ruling elder RE Payne from the Sacraments when imposing indefinite suspension from office for scandalous conduct. The SJC sustained the Presbytery's decision, finding no error in…",
   "url": "cases/ga38_2010__2008-15_2008-16_2008-17_2008-18_2009-01_2009-03.md",
   "sources": [
    "case_markdown_text",
@@ -59628,6 +59730,41 @@
  {
   "provision": "BCO 38-1",
   "case_numbers": [
+   "2008-15"
+  ],
+  "title": "Judicial Case 2008-15",
+  "body": "SJC",
+  "year": 2010,
+  "disposition": "out_of_order",
+  "synopsis": "Complaint by TEs Hutchinson and Bulkeley against Western Carolina Presbytery, alleging that Presbytery erred by not suspending ruling elder RE Payne from the Sacraments when imposing indefinite suspension from office for scandalous conduct. The SJC sustained the Presbytery's decision, finding no error in…",
+  "url": "cases/ga38_2010__2008-15_2008-16_2008-17_2008-18_2009-01_2009-03.md",
+  "sources": [
+   "case_markdown_text",
+   "cases.jsonl:bco_cited_as",
+   "cases.jsonl:bco_cited_current"
+  ],
+  "evidence": [
+   {
+    "line": 179,
+    "snippet": "RE Payne confession - full statement of facts per BCO 38-1 as Case without Process"
+   },
+   {
+    "line": 183,
+    "snippet": "I, Neill Payne, intend to confess my guilt, and I approve this confession of guilt to be a full statement of the facts on the basis of which I intend to permit Presbytery to render judgment without process, per the provisions of BCO 38-1."
+   },
+   {
+    "line": 420,
+    "snippet": "A Presbytery Commission conducted a BCO 31-2 investigation, found a strong presumption of guilt, and assisted the accused in preparing his confession per BCO 38-1 Case Without Process (shown at August 2 in Summary of Facts). Presbytery then censured him with i"
+   },
+   {
+    "line": 514,
+    "snippet": "confesses his sin through a BCO 38-1 case without process. Definite"
+   }
+  ]
+ },
+ {
+  "provision": "BCO 38-1",
+  "case_numbers": [
    "2008-16"
   ],
   "title": "Judicial Case 2008-16",
@@ -59820,41 +59957,6 @@
    {
     "line": 139,
     "snippet": "I, Neill Payne, intend to confess my guilt, and I approve this confession of guilt to be a full statement of the facts on the basis of which I intend to permit Presbytery to render judgment without process, per the provisions of BCO 38-1."
-   }
-  ]
- },
- {
-  "provision": "BCO 38-1",
-  "case_numbers": [
-   "2008-15"
-  ],
-  "title": "Morton Smith v. Western Carolina — M38GA, 2010 Nashville, p. 156, 170. Sustained 21-0. Summary: Alleged five errors. SJC sustained two due to an illegitimate congregational meeting. Issue: 1. Did P err at its called meeting on June 17 when it appointed the Inman Commission to consider and handle the",
-  "body": "SJC",
-  "year": 2010,
-  "disposition": "sustained",
-  "synopsis": "Complaint by TEs Hutchinson and Bulkeley against Western Carolina Presbytery, alleging that Presbytery erred by not suspending ruling elder RE Payne from the Sacraments when imposing indefinite suspension from office for scandalous conduct. The SJC sustained the Presbytery's decision, finding no error in…",
-  "url": "cases/ga38_2010__2008-15_2008-16_2008-17_2008-18_2009-01_2009-03.md",
-  "sources": [
-   "case_markdown_text",
-   "cases.jsonl:bco_cited_as",
-   "cases.jsonl:bco_cited_current"
-  ],
-  "evidence": [
-   {
-    "line": 179,
-    "snippet": "RE Payne confession - full statement of facts per BCO 38-1 as Case without Process"
-   },
-   {
-    "line": 183,
-    "snippet": "I, Neill Payne, intend to confess my guilt, and I approve this confession of guilt to be a full statement of the facts on the basis of which I intend to permit Presbytery to render judgment without process, per the provisions of BCO 38-1."
-   },
-   {
-    "line": 420,
-    "snippet": "A Presbytery Commission conducted a BCO 31-2 investigation, found a strong presumption of guilt, and assisted the accused in preparing his confession per BCO 38-1 Case Without Process (shown at August 2 in Summary of Facts). Presbytery then censured him with i"
-   },
-   {
-    "line": 514,
-    "snippet": "confesses his sin through a BCO 38-1 case without process. Definite"
    }
   ]
  },
@@ -66166,6 +66268,33 @@
  {
   "provision": "BCO 39-3.3",
   "case_numbers": [
+   "2008-15"
+  ],
+  "title": "Judicial Case 2008-15",
+  "body": "SJC",
+  "year": 2010,
+  "disposition": "out_of_order",
+  "synopsis": "Complaint by TEs Hutchinson and Bulkeley against Western Carolina Presbytery, alleging that Presbytery erred by not suspending ruling elder RE Payne from the Sacraments when imposing indefinite suspension from office for scandalous conduct. The SJC sustained the Presbytery's decision, finding no error in…",
+  "url": "cases/ga38_2010__2008-15_2008-16_2008-17_2008-18_2009-01_2009-03.md",
+  "sources": [
+   "case_markdown_text",
+   "cases.jsonl:bco_cited_as",
+   "cases.jsonl:bco_cited_current"
+  ],
+  "evidence": [
+   {
+    "line": 404,
+    "snippet": "We do not find Presbytery violated the Constitution when it declined to adopt the motion to formally follow BCO 40-5, and therefore this specification of error is not sustained. No evidence is provided in the record to demonstrate the nature of the \"credible r"
+   },
+   {
+    "line": 455,
+    "snippet": "Complainants allege Presbytery is \"knowingly allowing an unrepentant sinner to be admitted to the Sacraments\" by not also suspending RE Payne from the Sacraments. They also assert an unrepentant man cannot be said to be “in good standing\" and therefore, should"
+   }
+  ]
+ },
+ {
+  "provision": "BCO 39-3.3",
+  "case_numbers": [
    "2008-16"
   ],
   "title": "Judicial Case 2008-16",
@@ -66306,33 +66435,6 @@
    {
     "line": 230,
     "snippet": "higher court must afford great deference (BCO 39-3.3). However, the"
-   }
-  ]
- },
- {
-  "provision": "BCO 39-3.3",
-  "case_numbers": [
-   "2008-15"
-  ],
-  "title": "Morton Smith v. Western Carolina — M38GA, 2010 Nashville, p. 156, 170. Sustained 21-0. Summary: Alleged five errors. SJC sustained two due to an illegitimate congregational meeting. Issue: 1. Did P err at its called meeting on June 17 when it appointed the Inman Commission to consider and handle the",
-  "body": "SJC",
-  "year": 2010,
-  "disposition": "sustained",
-  "synopsis": "Complaint by TEs Hutchinson and Bulkeley against Western Carolina Presbytery, alleging that Presbytery erred by not suspending ruling elder RE Payne from the Sacraments when imposing indefinite suspension from office for scandalous conduct. The SJC sustained the Presbytery's decision, finding no error in…",
-  "url": "cases/ga38_2010__2008-15_2008-16_2008-17_2008-18_2009-01_2009-03.md",
-  "sources": [
-   "case_markdown_text",
-   "cases.jsonl:bco_cited_as",
-   "cases.jsonl:bco_cited_current"
-  ],
-  "evidence": [
-   {
-    "line": 404,
-    "snippet": "We do not find Presbytery violated the Constitution when it declined to adopt the motion to formally follow BCO 40-5, and therefore this specification of error is not sustained. No evidence is provided in the record to demonstrate the nature of the \"credible r"
-   },
-   {
-    "line": 455,
-    "snippet": "Complainants allege Presbytery is \"knowingly allowing an unrepentant sinner to be admitted to the Sacraments\" by not also suspending RE Payne from the Sacraments. They also assert an unrepentant man cannot be said to be “in good standing\" and therefore, should"
    }
   ]
  },
@@ -68525,6 +68627,27 @@
  {
   "provision": "BCO 40",
   "case_numbers": [
+   "2008-15"
+  ],
+  "title": "Judicial Case 2008-15",
+  "body": "SJC",
+  "year": 2010,
+  "disposition": "out_of_order",
+  "synopsis": "Complaint by TEs Hutchinson and Bulkeley against Western Carolina Presbytery, alleging that Presbytery erred by not suspending ruling elder RE Payne from the Sacraments when imposing indefinite suspension from office for scandalous conduct. The SJC sustained the Presbytery's decision, finding no error in…",
+  "url": "cases/ga38_2010__2008-15_2008-16_2008-17_2008-18_2009-01_2009-03.md",
+  "sources": [
+   "case_markdown_text"
+  ],
+  "evidence": [
+   {
+    "line": 231,
+    "snippet": "2. Per BCO 40, to review FPC Session and Congregational records from Aug 2 to Aug 19"
+   }
+  ]
+ },
+ {
+  "provision": "BCO 40",
+  "case_numbers": [
    "2008-16"
   ],
   "title": "Judicial Case 2008-16",
@@ -68553,27 +68676,6 @@
   "year": 2010,
   "disposition": "sustained_in_part",
   "synopsis": "RE Henry Leissing complained that Presbytery erred when it voted on November 7, 2008 to reverse the Sealy Commission's October 23 decision and dissolve the calls of REs Linton and Pellom. The SJC sustained the complaint by reference to its decision in Case 2008-15, Issue 5, holding that Presbytery erred in appointing the Sealy Commission in the first place since the underlying August 7 congregational meeting was illegitimate.",
-  "url": "cases/ga38_2010__2008-15_2008-16_2008-17_2008-18_2009-01_2009-03.md",
-  "sources": [
-   "case_markdown_text"
-  ],
-  "evidence": [
-   {
-    "line": 231,
-    "snippet": "2. Per BCO 40, to review FPC Session and Congregational records from Aug 2 to Aug 19"
-   }
-  ]
- },
- {
-  "provision": "BCO 40",
-  "case_numbers": [
-   "2008-15"
-  ],
-  "title": "Morton Smith v. Western Carolina — M38GA, 2010 Nashville, p. 156, 170. Sustained 21-0. Summary: Alleged five errors. SJC sustained two due to an illegitimate congregational meeting. Issue: 1. Did P err at its called meeting on June 17 when it appointed the Inman Commission to consider and handle the",
-  "body": "SJC",
-  "year": 2010,
-  "disposition": "sustained",
-  "synopsis": "Complaint by TEs Hutchinson and Bulkeley against Western Carolina Presbytery, alleging that Presbytery erred by not suspending ruling elder RE Payne from the Sacraments when imposing indefinite suspension from office for scandalous conduct. The SJC sustained the Presbytery's decision, finding no error in…",
   "url": "cases/ga38_2010__2008-15_2008-16_2008-17_2008-18_2009-01_2009-03.md",
   "sources": [
    "case_markdown_text"
@@ -69432,6 +69534,29 @@
  {
   "provision": "BCO 40-2",
   "case_numbers": [
+   "2008-15"
+  ],
+  "title": "Judicial Case 2008-15",
+  "body": "SJC",
+  "year": 2010,
+  "disposition": "out_of_order",
+  "synopsis": "Complaint by TEs Hutchinson and Bulkeley against Western Carolina Presbytery, alleging that Presbytery erred by not suspending ruling elder RE Payne from the Sacraments when imposing indefinite suspension from office for scandalous conduct. The SJC sustained the Presbytery's decision, finding no error in…",
+  "url": "cases/ga38_2010__2008-15_2008-16_2008-17_2008-18_2009-01_2009-03.md",
+  "sources": [
+   "case_markdown_text",
+   "cases.jsonl:bco_cited_as",
+   "cases.jsonl:bco_cited_current"
+  ],
+  "evidence": [
+   {
+    "line": 243,
+    "snippet": "Motion was defeated that sought to cite Session to appear and answer questions per BCO 40-2 regarding a “credible report of disorder.\" Motion was also defeated that sought to have the moderator appoint a committee to review the church's records."
+   }
+  ]
+ },
+ {
+  "provision": "BCO 40-2",
+  "case_numbers": [
    "2008-16"
   ],
   "title": "Judicial Case 2008-16",
@@ -69561,29 +69686,6 @@
   "evidence": [
    {
     "line": 157,
-    "snippet": "Motion was defeated that sought to cite Session to appear and answer questions per BCO 40-2 regarding a “credible report of disorder.\" Motion was also defeated that sought to have the moderator appoint a committee to review the church's records."
-   }
-  ]
- },
- {
-  "provision": "BCO 40-2",
-  "case_numbers": [
-   "2008-15"
-  ],
-  "title": "Morton Smith v. Western Carolina — M38GA, 2010 Nashville, p. 156, 170. Sustained 21-0. Summary: Alleged five errors. SJC sustained two due to an illegitimate congregational meeting. Issue: 1. Did P err at its called meeting on June 17 when it appointed the Inman Commission to consider and handle the",
-  "body": "SJC",
-  "year": 2010,
-  "disposition": "sustained",
-  "synopsis": "Complaint by TEs Hutchinson and Bulkeley against Western Carolina Presbytery, alleging that Presbytery erred by not suspending ruling elder RE Payne from the Sacraments when imposing indefinite suspension from office for scandalous conduct. The SJC sustained the Presbytery's decision, finding no error in…",
-  "url": "cases/ga38_2010__2008-15_2008-16_2008-17_2008-18_2009-01_2009-03.md",
-  "sources": [
-   "case_markdown_text",
-   "cases.jsonl:bco_cited_as",
-   "cases.jsonl:bco_cited_current"
-  ],
-  "evidence": [
-   {
-    "line": 243,
     "snippet": "Motion was defeated that sought to cite Session to appear and answer questions per BCO 40-2 regarding a “credible report of disorder.\" Motion was also defeated that sought to have the moderator appoint a committee to review the church's records."
    }
   ]
@@ -71544,6 +71646,39 @@
  {
   "provision": "BCO 40-5",
   "case_numbers": [
+   "2008-15"
+  ],
+  "title": "Judicial Case 2008-15",
+  "body": "SJC",
+  "year": 2010,
+  "disposition": "out_of_order",
+  "synopsis": "Complaint by TEs Hutchinson and Bulkeley against Western Carolina Presbytery, alleging that Presbytery erred by not suspending ruling elder RE Payne from the Sacraments when imposing indefinite suspension from office for scandalous conduct. The SJC sustained the Presbytery's decision, finding no error in…",
+  "url": "cases/ga38_2010__2008-15_2008-16_2008-17_2008-18_2009-01_2009-03.md",
+  "sources": [
+   "case_markdown_text"
+  ],
+  "evidence": [
+   {
+    "line": 273,
+    "snippet": "Alleged Presbytery erred on Aug 19 by declining to adopt the motion to cite the Session to appear and answer per BCO 40-5"
+   },
+   {
+    "line": 337,
+    "snippet": "4. 1 Did Presbytery err at its called meeting August 19 when it declined to adopt a motion to cite the Session to appear and answer per BCO 40-5? No"
+   },
+   {
+    "line": 402,
+    "snippet": "Issue 4 Did Presbytery err at its called meeting August 19 when it declined to adopt a motion to cite the Session to appear and answer per BCO 40-5? No"
+   },
+   {
+    "line": 404,
+    "snippet": "We do not find Presbytery violated the Constitution when it declined to adopt the motion to formally follow BCO 40-5, and therefore this specification of error is not sustained. No evidence is provided in the record to demonstrate the nature of the \"credible r"
+   }
+  ]
+ },
+ {
+  "provision": "BCO 40-5",
+  "case_numbers": [
    "2008-16"
   ],
   "title": "Judicial Case 2008-16",
@@ -71584,39 +71719,6 @@
   "year": 2010,
   "disposition": "sustained_in_part",
   "synopsis": "RE Henry Leissing complained that Presbytery erred when it voted on November 7, 2008 to reverse the Sealy Commission's October 23 decision and dissolve the calls of REs Linton and Pellom. The SJC sustained the complaint by reference to its decision in Case 2008-15, Issue 5, holding that Presbytery erred in appointing the Sealy Commission in the first place since the underlying August 7 congregational meeting was illegitimate.",
-  "url": "cases/ga38_2010__2008-15_2008-16_2008-17_2008-18_2009-01_2009-03.md",
-  "sources": [
-   "case_markdown_text"
-  ],
-  "evidence": [
-   {
-    "line": 273,
-    "snippet": "Alleged Presbytery erred on Aug 19 by declining to adopt the motion to cite the Session to appear and answer per BCO 40-5"
-   },
-   {
-    "line": 337,
-    "snippet": "4. 1 Did Presbytery err at its called meeting August 19 when it declined to adopt a motion to cite the Session to appear and answer per BCO 40-5? No"
-   },
-   {
-    "line": 402,
-    "snippet": "Issue 4 Did Presbytery err at its called meeting August 19 when it declined to adopt a motion to cite the Session to appear and answer per BCO 40-5? No"
-   },
-   {
-    "line": 404,
-    "snippet": "We do not find Presbytery violated the Constitution when it declined to adopt the motion to formally follow BCO 40-5, and therefore this specification of error is not sustained. No evidence is provided in the record to demonstrate the nature of the \"credible r"
-   }
-  ]
- },
- {
-  "provision": "BCO 40-5",
-  "case_numbers": [
-   "2008-15"
-  ],
-  "title": "Morton Smith v. Western Carolina — M38GA, 2010 Nashville, p. 156, 170. Sustained 21-0. Summary: Alleged five errors. SJC sustained two due to an illegitimate congregational meeting. Issue: 1. Did P err at its called meeting on June 17 when it appointed the Inman Commission to consider and handle the",
-  "body": "SJC",
-  "year": 2010,
-  "disposition": "sustained",
-  "synopsis": "Complaint by TEs Hutchinson and Bulkeley against Western Carolina Presbytery, alleging that Presbytery erred by not suspending ruling elder RE Payne from the Sacraments when imposing indefinite suspension from office for scandalous conduct. The SJC sustained the Presbytery's decision, finding no error in…",
   "url": "cases/ga38_2010__2008-15_2008-16_2008-17_2008-18_2009-01_2009-03.md",
   "sources": [
    "case_markdown_text"
@@ -73229,6 +73331,27 @@
  {
   "provision": "BCO 40-5.a",
   "case_numbers": [
+   "2008-15"
+  ],
+  "title": "Judicial Case 2008-15",
+  "body": "SJC",
+  "year": 2010,
+  "disposition": "out_of_order",
+  "synopsis": "Complaint by TEs Hutchinson and Bulkeley against Western Carolina Presbytery, alleging that Presbytery erred by not suspending ruling elder RE Payne from the Sacraments when imposing indefinite suspension from office for scandalous conduct. The SJC sustained the Presbytery's decision, finding no error in…",
+  "url": "cases/ga38_2010__2008-15_2008-16_2008-17_2008-18_2009-01_2009-03.md",
+  "sources": [
+   "case_markdown_text"
+  ],
+  "evidence": [
+   {
+    "line": 404,
+    "snippet": "We do not find Presbytery violated the Constitution when it declined to adopt the motion to formally follow BCO 40-5, and therefore this specification of error is not sustained. No evidence is provided in the record to demonstrate the nature of the \"credible r"
+   }
+  ]
+ },
+ {
+  "provision": "BCO 40-5.a",
+  "case_numbers": [
    "2008-16"
   ],
   "title": "Judicial Case 2008-16",
@@ -73257,27 +73380,6 @@
   "year": 2010,
   "disposition": "sustained_in_part",
   "synopsis": "RE Henry Leissing complained that Presbytery erred when it voted on November 7, 2008 to reverse the Sealy Commission's October 23 decision and dissolve the calls of REs Linton and Pellom. The SJC sustained the complaint by reference to its decision in Case 2008-15, Issue 5, holding that Presbytery erred in appointing the Sealy Commission in the first place since the underlying August 7 congregational meeting was illegitimate.",
-  "url": "cases/ga38_2010__2008-15_2008-16_2008-17_2008-18_2009-01_2009-03.md",
-  "sources": [
-   "case_markdown_text"
-  ],
-  "evidence": [
-   {
-    "line": 404,
-    "snippet": "We do not find Presbytery violated the Constitution when it declined to adopt the motion to formally follow BCO 40-5, and therefore this specification of error is not sustained. No evidence is provided in the record to demonstrate the nature of the \"credible r"
-   }
-  ]
- },
- {
-  "provision": "BCO 40-5.a",
-  "case_numbers": [
-   "2008-15"
-  ],
-  "title": "Morton Smith v. Western Carolina — M38GA, 2010 Nashville, p. 156, 170. Sustained 21-0. Summary: Alleged five errors. SJC sustained two due to an illegitimate congregational meeting. Issue: 1. Did P err at its called meeting on June 17 when it appointed the Inman Commission to consider and handle the",
-  "body": "SJC",
-  "year": 2010,
-  "disposition": "sustained",
-  "synopsis": "Complaint by TEs Hutchinson and Bulkeley against Western Carolina Presbytery, alleging that Presbytery erred by not suspending ruling elder RE Payne from the Sacraments when imposing indefinite suspension from office for scandalous conduct. The SJC sustained the Presbytery's decision, finding no error in…",
   "url": "cases/ga38_2010__2008-15_2008-16_2008-17_2008-18_2009-01_2009-03.md",
   "sources": [
    "case_markdown_text"
@@ -73800,6 +73902,27 @@
  {
   "provision": "BCO 41",
   "case_numbers": [
+   "2008-15"
+  ],
+  "title": "Judicial Case 2008-15",
+  "body": "SJC",
+  "year": 2010,
+  "disposition": "out_of_order",
+  "synopsis": "Complaint by TEs Hutchinson and Bulkeley against Western Carolina Presbytery, alleging that Presbytery erred by not suspending ruling elder RE Payne from the Sacraments when imposing indefinite suspension from office for scandalous conduct. The SJC sustained the Presbytery's decision, finding no error in…",
+  "url": "cases/ga38_2010__2008-15_2008-16_2008-17_2008-18_2009-01_2009-03.md",
+  "sources": [
+   "case_markdown_text"
+  ],
+  "evidence": [
+   {
+    "line": 85,
+    "snippet": "Therefore, according to the provisions of BCO 41, the Session of Friendship PCA hereby makes reference to Western Carolina Presbytery for either advice or action, or both, regarding the request to dissolve the official relationship between RE Neill Payne and o"
+   }
+  ]
+ },
+ {
+  "provision": "BCO 41",
+  "case_numbers": [
    "2008-16"
   ],
   "title": "Judicial Case 2008-16",
@@ -73931,27 +74054,6 @@
    },
    {
     "line": 61,
-    "snippet": "Therefore, according to the provisions of BCO 41, the Session of Friendship PCA hereby makes reference to Western Carolina Presbytery for either advice or action, or both, regarding the request to dissolve the official relationship between RE Neill Payne and o"
-   }
-  ]
- },
- {
-  "provision": "BCO 41",
-  "case_numbers": [
-   "2008-15"
-  ],
-  "title": "Morton Smith v. Western Carolina — M38GA, 2010 Nashville, p. 156, 170. Sustained 21-0. Summary: Alleged five errors. SJC sustained two due to an illegitimate congregational meeting. Issue: 1. Did P err at its called meeting on June 17 when it appointed the Inman Commission to consider and handle the",
-  "body": "SJC",
-  "year": 2010,
-  "disposition": "sustained",
-  "synopsis": "Complaint by TEs Hutchinson and Bulkeley against Western Carolina Presbytery, alleging that Presbytery erred by not suspending ruling elder RE Payne from the Sacraments when imposing indefinite suspension from office for scandalous conduct. The SJC sustained the Presbytery's decision, finding no error in…",
-  "url": "cases/ga38_2010__2008-15_2008-16_2008-17_2008-18_2009-01_2009-03.md",
-  "sources": [
-   "case_markdown_text"
-  ],
-  "evidence": [
-   {
-    "line": 85,
     "snippet": "Therefore, according to the provisions of BCO 41, the Session of Friendship PCA hereby makes reference to Western Carolina Presbytery for either advice or action, or both, regarding the request to dissolve the official relationship between RE Neill Payne and o"
    }
   ]
@@ -79656,6 +79758,31 @@
  {
   "provision": "BCO 43",
   "case_numbers": [
+   "2008-15"
+  ],
+  "title": "Judicial Case 2008-15",
+  "body": "SJC",
+  "year": 2010,
+  "disposition": "out_of_order",
+  "synopsis": "Complaint by TEs Hutchinson and Bulkeley against Western Carolina Presbytery, alleging that Presbytery erred by not suspending ruling elder RE Payne from the Sacraments when imposing indefinite suspension from office for scandalous conduct. The SJC sustained the Presbytery's decision, finding no error in…",
+  "url": "cases/ga38_2010__2008-15_2008-16_2008-17_2008-18_2009-01_2009-03.md",
+  "sources": [
+   "case_markdown_text"
+  ],
+  "evidence": [
+   {
+    "line": 374,
+    "snippet": "Further, the Presbytery erred at its August 19 meeting in that it \"took original jurisdiction under BCO 13-9 to act on Friendship Presbyterian Church's request to dissolve the relationship of RE James Linton and John Pellom and conduct the review of BCO 24-7.\""
+   },
+   {
+    "line": 374,
+    "snippet": "Further, the Presbytery erred at its August 19 meeting in that it \"took original jurisdiction under BCO 13-9 to act on Friendship Presbyterian Church's request to dissolve the relationship of RE James Linton and John Pellom and conduct the review of BCO 24-7.\""
+   }
+  ]
+ },
+ {
+  "provision": "BCO 43",
+  "case_numbers": [
    "2008-16"
   ],
   "title": "Judicial Case 2008-16",
@@ -79688,31 +79815,6 @@
   "year": 2010,
   "disposition": "sustained_in_part",
   "synopsis": "RE Henry Leissing complained that Presbytery erred when it voted on November 7, 2008 to reverse the Sealy Commission's October 23 decision and dissolve the calls of REs Linton and Pellom. The SJC sustained the complaint by reference to its decision in Case 2008-15, Issue 5, holding that Presbytery erred in appointing the Sealy Commission in the first place since the underlying August 7 congregational meeting was illegitimate.",
-  "url": "cases/ga38_2010__2008-15_2008-16_2008-17_2008-18_2009-01_2009-03.md",
-  "sources": [
-   "case_markdown_text"
-  ],
-  "evidence": [
-   {
-    "line": 374,
-    "snippet": "Further, the Presbytery erred at its August 19 meeting in that it \"took original jurisdiction under BCO 13-9 to act on Friendship Presbyterian Church's request to dissolve the relationship of RE James Linton and John Pellom and conduct the review of BCO 24-7.\""
-   },
-   {
-    "line": 374,
-    "snippet": "Further, the Presbytery erred at its August 19 meeting in that it \"took original jurisdiction under BCO 13-9 to act on Friendship Presbyterian Church's request to dissolve the relationship of RE James Linton and John Pellom and conduct the review of BCO 24-7.\""
-   }
-  ]
- },
- {
-  "provision": "BCO 43",
-  "case_numbers": [
-   "2008-15"
-  ],
-  "title": "Morton Smith v. Western Carolina — M38GA, 2010 Nashville, p. 156, 170. Sustained 21-0. Summary: Alleged five errors. SJC sustained two due to an illegitimate congregational meeting. Issue: 1. Did P err at its called meeting on June 17 when it appointed the Inman Commission to consider and handle the",
-  "body": "SJC",
-  "year": 2010,
-  "disposition": "sustained",
-  "synopsis": "Complaint by TEs Hutchinson and Bulkeley against Western Carolina Presbytery, alleging that Presbytery erred by not suspending ruling elder RE Payne from the Sacraments when imposing indefinite suspension from office for scandalous conduct. The SJC sustained the Presbytery's decision, finding no error in…",
   "url": "cases/ga38_2010__2008-15_2008-16_2008-17_2008-18_2009-01_2009-03.md",
   "sources": [
    "case_markdown_text"
@@ -90524,6 +90626,29 @@
  {
   "provision": "BCO 58-2",
   "case_numbers": [
+   "2008-15"
+  ],
+  "title": "Judicial Case 2008-15",
+  "body": "SJC",
+  "year": 2010,
+  "disposition": "out_of_order",
+  "synopsis": "Complaint by TEs Hutchinson and Bulkeley against Western Carolina Presbytery, alleging that Presbytery erred by not suspending ruling elder RE Payne from the Sacraments when imposing indefinite suspension from office for scandalous conduct. The SJC sustained the Presbytery's decision, finding no error in…",
+  "url": "cases/ga38_2010__2008-15_2008-16_2008-17_2008-18_2009-01_2009-03.md",
+  "sources": [
+   "case_markdown_text",
+   "cases.jsonl:bco_cited_as",
+   "cases.jsonl:bco_cited_current"
+  ],
+  "evidence": [
+   {
+    "line": 455,
+    "snippet": "Complainants allege Presbytery is \"knowingly allowing an unrepentant sinner to be admitted to the Sacraments\" by not also suspending RE Payne from the Sacraments. They also assert an unrepentant man cannot be said to be “in good standing\" and therefore, should"
+   }
+  ]
+ },
+ {
+  "provision": "BCO 58-2",
+  "case_numbers": [
    "2008-16"
   ],
   "title": "Judicial Case 2008-16",
@@ -90554,29 +90679,6 @@
   "year": 2010,
   "disposition": "sustained_in_part",
   "synopsis": "RE Henry Leissing complained that Presbytery erred when it voted on November 7, 2008 to reverse the Sealy Commission's October 23 decision and dissolve the calls of REs Linton and Pellom. The SJC sustained the complaint by reference to its decision in Case 2008-15, Issue 5, holding that Presbytery erred in appointing the Sealy Commission in the first place since the underlying August 7 congregational meeting was illegitimate.",
-  "url": "cases/ga38_2010__2008-15_2008-16_2008-17_2008-18_2009-01_2009-03.md",
-  "sources": [
-   "case_markdown_text",
-   "cases.jsonl:bco_cited_as",
-   "cases.jsonl:bco_cited_current"
-  ],
-  "evidence": [
-   {
-    "line": 455,
-    "snippet": "Complainants allege Presbytery is \"knowingly allowing an unrepentant sinner to be admitted to the Sacraments\" by not also suspending RE Payne from the Sacraments. They also assert an unrepentant man cannot be said to be “in good standing\" and therefore, should"
-   }
-  ]
- },
- {
-  "provision": "BCO 58-2",
-  "case_numbers": [
-   "2008-15"
-  ],
-  "title": "Morton Smith v. Western Carolina — M38GA, 2010 Nashville, p. 156, 170. Sustained 21-0. Summary: Alleged five errors. SJC sustained two due to an illegitimate congregational meeting. Issue: 1. Did P err at its called meeting on June 17 when it appointed the Inman Commission to consider and handle the",
-  "body": "SJC",
-  "year": 2010,
-  "disposition": "sustained",
-  "synopsis": "Complaint by TEs Hutchinson and Bulkeley against Western Carolina Presbytery, alleging that Presbytery erred by not suspending ruling elder RE Payne from the Sacraments when imposing indefinite suspension from office for scandalous conduct. The SJC sustained the Presbytery's decision, finding no error in…",
   "url": "cases/ga38_2010__2008-15_2008-16_2008-17_2008-18_2009-01_2009-03.md",
   "sources": [
    "case_markdown_text",
@@ -90662,6 +90764,29 @@
  {
   "provision": "BCO 58-4",
   "case_numbers": [
+   "2008-15"
+  ],
+  "title": "Judicial Case 2008-15",
+  "body": "SJC",
+  "year": 2010,
+  "disposition": "out_of_order",
+  "synopsis": "Complaint by TEs Hutchinson and Bulkeley against Western Carolina Presbytery, alleging that Presbytery erred by not suspending ruling elder RE Payne from the Sacraments when imposing indefinite suspension from office for scandalous conduct. The SJC sustained the Presbytery's decision, finding no error in…",
+  "url": "cases/ga38_2010__2008-15_2008-16_2008-17_2008-18_2009-01_2009-03.md",
+  "sources": [
+   "case_markdown_text",
+   "cases.jsonl:bco_cited_as",
+   "cases.jsonl:bco_cited_current"
+  ],
+  "evidence": [
+   {
+    "line": 455,
+    "snippet": "Complainants allege Presbytery is \"knowingly allowing an unrepentant sinner to be admitted to the Sacraments\" by not also suspending RE Payne from the Sacraments. They also assert an unrepentant man cannot be said to be “in good standing\" and therefore, should"
+   }
+  ]
+ },
+ {
+  "provision": "BCO 58-4",
+  "case_numbers": [
    "2008-16"
   ],
   "title": "Judicial Case 2008-16",
@@ -90692,29 +90817,6 @@
   "year": 2010,
   "disposition": "sustained_in_part",
   "synopsis": "RE Henry Leissing complained that Presbytery erred when it voted on November 7, 2008 to reverse the Sealy Commission's October 23 decision and dissolve the calls of REs Linton and Pellom. The SJC sustained the complaint by reference to its decision in Case 2008-15, Issue 5, holding that Presbytery erred in appointing the Sealy Commission in the first place since the underlying August 7 congregational meeting was illegitimate.",
-  "url": "cases/ga38_2010__2008-15_2008-16_2008-17_2008-18_2009-01_2009-03.md",
-  "sources": [
-   "case_markdown_text",
-   "cases.jsonl:bco_cited_as",
-   "cases.jsonl:bco_cited_current"
-  ],
-  "evidence": [
-   {
-    "line": 455,
-    "snippet": "Complainants allege Presbytery is \"knowingly allowing an unrepentant sinner to be admitted to the Sacraments\" by not also suspending RE Payne from the Sacraments. They also assert an unrepentant man cannot be said to be “in good standing\" and therefore, should"
-   }
-  ]
- },
- {
-  "provision": "BCO 58-4",
-  "case_numbers": [
-   "2008-15"
-  ],
-  "title": "Morton Smith v. Western Carolina — M38GA, 2010 Nashville, p. 156, 170. Sustained 21-0. Summary: Alleged five errors. SJC sustained two due to an illegitimate congregational meeting. Issue: 1. Did P err at its called meeting on June 17 when it appointed the Inman Commission to consider and handle the",
-  "body": "SJC",
-  "year": 2010,
-  "disposition": "sustained",
-  "synopsis": "Complaint by TEs Hutchinson and Bulkeley against Western Carolina Presbytery, alleging that Presbytery erred by not suspending ruling elder RE Payne from the Sacraments when imposing indefinite suspension from office for scandalous conduct. The SJC sustained the Presbytery's decision, finding no error in…",
   "url": "cases/ga38_2010__2008-15_2008-16_2008-17_2008-18_2009-01_2009-03.md",
   "sources": [
    "case_markdown_text",
@@ -92779,6 +92881,27 @@
  {
   "provision": "WCF 20.2",
   "case_numbers": [
+   "2008-15"
+  ],
+  "title": "Judicial Case 2008-15",
+  "body": "SJC",
+  "year": 2010,
+  "disposition": "out_of_order",
+  "synopsis": "Complaint by TEs Hutchinson and Bulkeley against Western Carolina Presbytery, alleging that Presbytery erred by not suspending ruling elder RE Payne from the Sacraments when imposing indefinite suspension from office for scandalous conduct. The SJC sustained the Presbytery's decision, finding no error in…",
+  "url": "cases/ga38_2010__2008-15_2008-16_2008-17_2008-18_2009-01_2009-03.md",
+  "sources": [
+   "case_markdown_text"
+  ],
+  "evidence": [
+   {
+    "line": 129,
+    "snippet": "Rationale - At the center of the current distress at Friendship PCA have been the views of RE Neill Payne related to race. It seems incumbent on Presbytery to at least take notice of Mr. Payne's views, and to give some account for how those views have come to "
+   }
+  ]
+ },
+ {
+  "provision": "WCF 20.2",
+  "case_numbers": [
    "2008-16"
   ],
   "title": "Judicial Case 2008-16",
@@ -92836,27 +92959,6 @@
    {
     "line": 113,
     "snippet": "and in his estimation are easily misunderstood, especially when summarized by and for those who do not share those views. For the record, then, we have included a brief summary of the specific, explicit and direct statements Mr. Payne has made regarding race i"
-   }
-  ]
- },
- {
-  "provision": "WCF 20.2",
-  "case_numbers": [
-   "2008-15"
-  ],
-  "title": "Morton Smith v. Western Carolina — M38GA, 2010 Nashville, p. 156, 170. Sustained 21-0. Summary: Alleged five errors. SJC sustained two due to an illegitimate congregational meeting. Issue: 1. Did P err at its called meeting on June 17 when it appointed the Inman Commission to consider and handle the",
-  "body": "SJC",
-  "year": 2010,
-  "disposition": "sustained",
-  "synopsis": "Complaint by TEs Hutchinson and Bulkeley against Western Carolina Presbytery, alleging that Presbytery erred by not suspending ruling elder RE Payne from the Sacraments when imposing indefinite suspension from office for scandalous conduct. The SJC sustained the Presbytery's decision, finding no error in…",
-  "url": "cases/ga38_2010__2008-15_2008-16_2008-17_2008-18_2009-01_2009-03.md",
-  "sources": [
-   "case_markdown_text"
-  ],
-  "evidence": [
-   {
-    "line": 129,
-    "snippet": "Rationale - At the center of the current distress at Friendship PCA have been the views of RE Neill Payne related to race. It seems incumbent on Presbytery to at least take notice of Mr. Payne's views, and to give some account for how those views have come to "
    }
   ]
  },
@@ -92989,6 +93091,27 @@
  {
   "provision": "WCF 20.4",
   "case_numbers": [
+   "2008-15"
+  ],
+  "title": "Judicial Case 2008-15",
+  "body": "SJC",
+  "year": 2010,
+  "disposition": "out_of_order",
+  "synopsis": "Complaint by TEs Hutchinson and Bulkeley against Western Carolina Presbytery, alleging that Presbytery erred by not suspending ruling elder RE Payne from the Sacraments when imposing indefinite suspension from office for scandalous conduct. The SJC sustained the Presbytery's decision, finding no error in…",
+  "url": "cases/ga38_2010__2008-15_2008-16_2008-17_2008-18_2009-01_2009-03.md",
+  "sources": [
+   "case_markdown_text"
+  ],
+  "evidence": [
+   {
+    "line": 131,
+    "snippet": "However, with respect to the exercise of this liberty, our Constitution cautions against “such erroneous opinions or practices, as either in their own nature, or in the manner of publishing or maintaining them, are destructive to the external peace and order w"
+   }
+  ]
+ },
+ {
+  "provision": "WCF 20.4",
+  "case_numbers": [
    "2008-16"
   ],
   "title": "Judicial Case 2008-16",
@@ -93046,27 +93169,6 @@
    {
     "line": 115,
     "snippet": "However, with respect to the exercise of this liberty, our Constitution cautions against \"such erroneous opinions or practices, as either in their own nature, or in the manner of publishing or maintaining them, are destructive to the external peace and order w"
-   }
-  ]
- },
- {
-  "provision": "WCF 20.4",
-  "case_numbers": [
-   "2008-15"
-  ],
-  "title": "Morton Smith v. Western Carolina — M38GA, 2010 Nashville, p. 156, 170. Sustained 21-0. Summary: Alleged five errors. SJC sustained two due to an illegitimate congregational meeting. Issue: 1. Did P err at its called meeting on June 17 when it appointed the Inman Commission to consider and handle the",
-  "body": "SJC",
-  "year": 2010,
-  "disposition": "sustained",
-  "synopsis": "Complaint by TEs Hutchinson and Bulkeley against Western Carolina Presbytery, alleging that Presbytery erred by not suspending ruling elder RE Payne from the Sacraments when imposing indefinite suspension from office for scandalous conduct. The SJC sustained the Presbytery's decision, finding no error in…",
-  "url": "cases/ga38_2010__2008-15_2008-16_2008-17_2008-18_2009-01_2009-03.md",
-  "sources": [
-   "case_markdown_text"
-  ],
-  "evidence": [
-   {
-    "line": 131,
-    "snippet": "However, with respect to the exercise of this liberty, our Constitution cautions against “such erroneous opinions or practices, as either in their own nature, or in the manner of publishing or maintaining them, are destructive to the external peace and order w"
    }
   ]
  },
@@ -95107,6 +95209,27 @@
  {
   "provision": "WLC 129",
   "case_numbers": [
+   "2008-15"
+  ],
+  "title": "Judicial Case 2008-15",
+  "body": "SJC",
+  "year": 2010,
+  "disposition": "out_of_order",
+  "synopsis": "Complaint by TEs Hutchinson and Bulkeley against Western Carolina Presbytery, alleging that Presbytery erred by not suspending ruling elder RE Payne from the Sacraments when imposing indefinite suspension from office for scandalous conduct. The SJC sustained the Presbytery's decision, finding no error in…",
+  "url": "cases/ga38_2010__2008-15_2008-16_2008-17_2008-18_2009-01_2009-03.md",
+  "sources": [
+   "case_markdown_text"
+  ],
+  "evidence": [
+   {
+    "line": 141,
+    "snippet": "Rationale – Without in any way infringing upon the liberty of conscience RE Payne has to hold such views as he does concerning race, it is the opinion of the Commission that he has failed to do so in a way that dissociates his views from the opprobrium and odi"
+   }
+  ]
+ },
+ {
+  "provision": "WLC 129",
+  "case_numbers": [
    "2008-16"
   ],
   "title": "Judicial Case 2008-16",
@@ -95229,27 +95352,6 @@
    {
     "line": 131,
     "snippet": "Commission. In so doing he has favored his own Christian liberty and made his own interests a higher priority than the well-being of his flock and the reputation of Christ's church (Philippians 2:3-4). He has thus failed to avoid such things as procure an ill "
-   }
-  ]
- },
- {
-  "provision": "WLC 129",
-  "case_numbers": [
-   "2008-15"
-  ],
-  "title": "Morton Smith v. Western Carolina — M38GA, 2010 Nashville, p. 156, 170. Sustained 21-0. Summary: Alleged five errors. SJC sustained two due to an illegitimate congregational meeting. Issue: 1. Did P err at its called meeting on June 17 when it appointed the Inman Commission to consider and handle the",
-  "body": "SJC",
-  "year": 2010,
-  "disposition": "sustained",
-  "synopsis": "Complaint by TEs Hutchinson and Bulkeley against Western Carolina Presbytery, alleging that Presbytery erred by not suspending ruling elder RE Payne from the Sacraments when imposing indefinite suspension from office for scandalous conduct. The SJC sustained the Presbytery's decision, finding no error in…",
-  "url": "cases/ga38_2010__2008-15_2008-16_2008-17_2008-18_2009-01_2009-03.md",
-  "sources": [
-   "case_markdown_text"
-  ],
-  "evidence": [
-   {
-    "line": 141,
-    "snippet": "Rationale – Without in any way infringing upon the liberty of conscience RE Payne has to hold such views as he does concerning race, it is the opinion of the Commission that he has failed to do so in a way that dissociates his views from the opprobrium and odi"
    }
   ]
  },
@@ -95629,6 +95731,31 @@
  {
   "provision": "WLC 145",
   "case_numbers": [
+   "2008-15"
+  ],
+  "title": "Judicial Case 2008-15",
+  "body": "SJC",
+  "year": 2010,
+  "disposition": "out_of_order",
+  "synopsis": "Complaint by TEs Hutchinson and Bulkeley against Western Carolina Presbytery, alleging that Presbytery erred by not suspending ruling elder RE Payne from the Sacraments when imposing indefinite suspension from office for scandalous conduct. The SJC sustained the Presbytery's decision, finding no error in…",
+  "url": "cases/ga38_2010__2008-15_2008-16_2008-17_2008-18_2009-01_2009-03.md",
+  "sources": [
+   "case_markdown_text"
+  ],
+  "evidence": [
+   {
+    "line": 131,
+    "snippet": "However, with respect to the exercise of this liberty, our Constitution cautions against “such erroneous opinions or practices, as either in their own nature, or in the manner of publishing or maintaining them, are destructive to the external peace and order w"
+   },
+   {
+    "line": 141,
+    "snippet": "Rationale – Without in any way infringing upon the liberty of conscience RE Payne has to hold such views as he does concerning race, it is the opinion of the Commission that he has failed to do so in a way that dissociates his views from the opprobrium and odi"
+   }
+  ]
+ },
+ {
+  "provision": "WLC 145",
+  "case_numbers": [
    "2008-16"
   ],
   "title": "Judicial Case 2008-16",
@@ -95763,31 +95890,6 @@
    {
     "line": 131,
     "snippet": "Commission. In so doing he has favored his own Christian liberty and made his own interests a higher priority than the well-being of his flock and the reputation of Christ's church (Philippians 2:3-4). He has thus failed to avoid such things as procure an ill "
-   }
-  ]
- },
- {
-  "provision": "WLC 145",
-  "case_numbers": [
-   "2008-15"
-  ],
-  "title": "Morton Smith v. Western Carolina — M38GA, 2010 Nashville, p. 156, 170. Sustained 21-0. Summary: Alleged five errors. SJC sustained two due to an illegitimate congregational meeting. Issue: 1. Did P err at its called meeting on June 17 when it appointed the Inman Commission to consider and handle the",
-  "body": "SJC",
-  "year": 2010,
-  "disposition": "sustained",
-  "synopsis": "Complaint by TEs Hutchinson and Bulkeley against Western Carolina Presbytery, alleging that Presbytery erred by not suspending ruling elder RE Payne from the Sacraments when imposing indefinite suspension from office for scandalous conduct. The SJC sustained the Presbytery's decision, finding no error in…",
-  "url": "cases/ga38_2010__2008-15_2008-16_2008-17_2008-18_2009-01_2009-03.md",
-  "sources": [
-   "case_markdown_text"
-  ],
-  "evidence": [
-   {
-    "line": 131,
-    "snippet": "However, with respect to the exercise of this liberty, our Constitution cautions against “such erroneous opinions or practices, as either in their own nature, or in the manner of publishing or maintaining them, are destructive to the external peace and order w"
-   },
-   {
-    "line": 141,
-    "snippet": "Rationale – Without in any way infringing upon the liberty of conscience RE Payne has to hold such views as he does concerning race, it is the opinion of the Commission that he has failed to do so in a way that dissociates his views from the opprobrium and odi"
    }
   ]
  },
@@ -96398,6 +96500,27 @@
  {
   "provision": "WLC 173",
   "case_numbers": [
+   "2008-15"
+  ],
+  "title": "Judicial Case 2008-15",
+  "body": "SJC",
+  "year": 2010,
+  "disposition": "out_of_order",
+  "synopsis": "Complaint by TEs Hutchinson and Bulkeley against Western Carolina Presbytery, alleging that Presbytery erred by not suspending ruling elder RE Payne from the Sacraments when imposing indefinite suspension from office for scandalous conduct. The SJC sustained the Presbytery's decision, finding no error in…",
+  "url": "cases/ga38_2010__2008-15_2008-16_2008-17_2008-18_2009-01_2009-03.md",
+  "sources": [
+   "case_markdown_text"
+  ],
+  "evidence": [
+   {
+    "line": 455,
+    "snippet": "Complainants allege Presbytery is \"knowingly allowing an unrepentant sinner to be admitted to the Sacraments\" by not also suspending RE Payne from the Sacraments. They also assert an unrepentant man cannot be said to be “in good standing\" and therefore, should"
+   }
+  ]
+ },
+ {
+  "provision": "WLC 173",
+  "case_numbers": [
    "2008-16"
   ],
   "title": "Judicial Case 2008-16",
@@ -96426,27 +96549,6 @@
   "year": 2010,
   "disposition": "sustained_in_part",
   "synopsis": "RE Henry Leissing complained that Presbytery erred when it voted on November 7, 2008 to reverse the Sealy Commission's October 23 decision and dissolve the calls of REs Linton and Pellom. The SJC sustained the complaint by reference to its decision in Case 2008-15, Issue 5, holding that Presbytery erred in appointing the Sealy Commission in the first place since the underlying August 7 congregational meeting was illegitimate.",
-  "url": "cases/ga38_2010__2008-15_2008-16_2008-17_2008-18_2009-01_2009-03.md",
-  "sources": [
-   "case_markdown_text"
-  ],
-  "evidence": [
-   {
-    "line": 455,
-    "snippet": "Complainants allege Presbytery is \"knowingly allowing an unrepentant sinner to be admitted to the Sacraments\" by not also suspending RE Payne from the Sacraments. They also assert an unrepentant man cannot be said to be “in good standing\" and therefore, should"
-   }
-  ]
- },
- {
-  "provision": "WLC 173",
-  "case_numbers": [
-   "2008-15"
-  ],
-  "title": "Morton Smith v. Western Carolina — M38GA, 2010 Nashville, p. 156, 170. Sustained 21-0. Summary: Alleged five errors. SJC sustained two due to an illegitimate congregational meeting. Issue: 1. Did P err at its called meeting on June 17 when it appointed the Inman Commission to consider and handle the",
-  "body": "SJC",
-  "year": 2010,
-  "disposition": "sustained",
-  "synopsis": "Complaint by TEs Hutchinson and Bulkeley against Western Carolina Presbytery, alleging that Presbytery erred by not suspending ruling elder RE Payne from the Sacraments when imposing indefinite suspension from office for scandalous conduct. The SJC sustained the Presbytery's decision, finding no error in…",
   "url": "cases/ga38_2010__2008-15_2008-16_2008-17_2008-18_2009-01_2009-03.md",
   "sources": [
    "case_markdown_text"
