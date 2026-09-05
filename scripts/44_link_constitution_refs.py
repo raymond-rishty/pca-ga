@@ -40,7 +40,7 @@ DASH = r"[-\u2010\u2011\u2012\u2013\u2014\u2212]"
 BCO_PREFIX = r"(?:B\.?\s*C\.?\s*O\.?|Book\s+of\s+Church\s+Order)"
 WCF_PREFIX = r"W\.?\s*C\.?\s*F\.?"
 WCF_ROMAN_REF = r"[IVXLCDM]{1,7}"
-WLC_PREFIX = r"W\.?\s*L\.?\s*C\.?"
+WLC_PREFIX = r"(?:W\.?\s*L\.?\s*C\.?|Larger\s+Catechism|LC)"
 WSC_PREFIX = r"W\.?\s*S\.?\s*C\.?"
 RAO_PREFIX = r"(?:[\"“]\s*)?(?:R\.?\s*A\.?\s*O\.?|Rules?\s+of\s+Assembly\s+Operations?)(?:\s*[\"”])?"
 PREFIX = rf"(?:{BCO_PREFIX}|{WCF_PREFIX}|{WLC_PREFIX}|{WSC_PREFIX}|{RAO_PREFIX})"
@@ -251,6 +251,8 @@ def citation_book(prefix: str) -> str:
         return "bco"
     if compact in {"rao", "rulesofassemblyoperation", "rulesofassemblyoperations"}:
         return "rao"
+    if compact in {"wlc", "largercatechism", "lc"}:
+        return "wlc"
     return compact
 
 
@@ -656,6 +658,43 @@ def linkify_text(
     return "".join(pieces), linked
 
 
+CASE_REF_RE = re.compile(r"\bCase\s+(?P<number>\d{4}-\d{2})\b", re.IGNORECASE)
+
+
+def linkify_case_refs(
+    text: str,
+    case_refs: dict[str, str],
+    file_name: str,
+) -> tuple[str, int]:
+    """Link references to case pages that are present in the rendered site."""
+    if not case_refs or not CASE_REF_RE.search(text):
+        return text, 0
+
+    pieces: list[str] = []
+    cursor = 0
+    linked = 0
+    source_path = posixpath.dirname(file_name)
+    for match in CASE_REF_RE.finditer(text):
+        target = case_refs.get(match.group("number"))
+        if not target or target == file_name:
+            continue
+        pieces.append(text[cursor:match.start()])
+        href = posixpath.relpath(target, source_path or ".")
+        label = match.group(0)
+        pieces.append(
+            f'<a class="case-ref" href="{html.escape(href, quote=True)}" '
+            f'data-case-ref="{match.group("number")}" '
+            f'title="Open PCA judicial Case {match.group("number")}">{label}</a>'
+        )
+        cursor = match.end()
+        linked += 1
+
+    if not linked:
+        return text, 0
+    pieces.append(text[cursor:])
+    return "".join(pieces), linked
+
+
 class ConstitutionLinker(HTMLParser):
     def __init__(
         self,
@@ -663,6 +702,7 @@ class ConstitutionLinker(HTMLParser):
         standard_refs: dict[str, set[str]],
         rao_refs: dict[str, dict[str, str]],
         minutes_refs: dict[str, dict[str, dict[str, str]]],
+        case_refs: dict[str, str],
         file_name: str,
         scripture_metadata: dict[str, Any] | None = None,
     ) -> None:
@@ -671,6 +711,7 @@ class ConstitutionLinker(HTMLParser):
         self.standard_refs = standard_refs
         self.rao_refs = rao_refs
         self.minutes_refs = minutes_refs
+        self.case_refs = case_refs
         self.file_name = file_name
         self.output: list[str] = []
         self.stack: list[dict[str, Any]] = []
@@ -749,8 +790,13 @@ class ConstitutionLinker(HTMLParser):
                 self.minutes_refs,
                 self.file_name,
             )
-            linked, count = linkify_text(
+            linked_cases, case_count = linkify_case_refs(
                 linked_minutes,
+                self.case_refs,
+                self.file_name,
+            )
+            linked, count = linkify_text(
+                linked_cases,
                 self.bco_refs,
                 self.standard_refs,
                 self.rao_refs,
@@ -760,7 +806,7 @@ class ConstitutionLinker(HTMLParser):
             for token, replacement in replacements.items():
                 linked = linked.replace(token, replacement)
             self.output.append(linked)
-            self.link_count += count + minutes_count + scripture_count
+            self.link_count += count + minutes_count + case_count + scripture_count
             self.scripture_links.extend(scripture_links)
             self.scripture_review.extend(scripture_review)
         else:
@@ -840,10 +886,13 @@ def process_html(
     standard_refs: dict[str, set[str]],
     rao_refs: dict[str, dict[str, str]],
     minutes_refs: dict[str, dict[str, dict[str, str]]],
+    case_refs: dict[str, str],
     scripture_metadata: dict[str, Any],
 ) -> tuple[int, list[dict[str, str]], list[dict[str, Any]], list[dict[str, Any]]]:
     source = normalize_inline_citation_prefixes(path.read_text(encoding="utf-8"))
-    if not PREFIX_RE.search(source) and not MINUTES_CITATION_RE.search(source) and not scripture_metadata["alias_re"].search(source):
+    if (not PREFIX_RE.search(source) and not MINUTES_CITATION_RE.search(source)
+            and not CASE_REF_RE.search(source)
+            and not scripture_metadata["alias_re"].search(source)):
         return 0, [], [], []
 
     linker = ConstitutionLinker(
@@ -851,6 +900,7 @@ def process_html(
         standard_refs,
         rao_refs,
         minutes_refs,
+        case_refs,
         path.relative_to(site_dir).as_posix(),
         scripture_metadata,
     )
@@ -865,7 +915,39 @@ def process_html(
     return linker.link_count, linker.unresolved, linker.scripture_links, linker.scripture_review
 
 
+def build_case_refs(site_dir: Path) -> dict[str, str]:
+    """Return docket number -> rendered case-page path for cross-references."""
+    case_dir = site_dir / "cases"
+    refs: dict[str, str] = {}
+    if not case_dir.is_dir():
+        return refs
+    for path in case_dir.glob("*.html"):
+        match = re.search(r"__(\d{4}-\d{2})(?:[_-]|\.)", path.name)
+        if match:
+            refs[match.group(1)] = path.relative_to(site_dir).as_posix()
+    return refs
+
+
 def self_test() -> None:
+    case_rendered, case_count = linkify_case_refs(
+        "See Case 2014-01.",
+        {"2014-01": "cases/ga43_2015__2014-01.html"},
+        "cases/ga45_2017__2016-01.html",
+    )
+    assert case_count == 1
+    assert 'class="case-ref" href="ga43_2015__2014-01.html"' in case_rendered
+
+    catechism_rendered, catechism_count = linkify_text(
+        "LC 177; Larger Catechism 177",
+        {},
+        {"wlc": {"Q.177"}},
+        {},
+        [],
+        "test.html",
+    )
+    assert catechism_count == 2
+    assert catechism_rendered.count(f'{READER_BASE}#wlc/Q.177') == 2
+
     structured = render_section_body({
         "blocks": [
             ["p", 0, "The court shall have power:"],
@@ -945,7 +1027,7 @@ def self_test() -> None:
         },
         "12": {"173": {"path": "markdown/ga12_1984.html", "anchor": "ga12-p173", "pdf_page": "175"}},
     }
-    linker = ConstitutionLinker(bco_refs, standard_refs, rao_refs, minutes_refs, "test.html")
+    linker = ConstitutionLinker(bco_refs, standard_refs, rao_refs, minutes_refs, {}, "test.html")
     linker.feed(normalize_inline_citation_prefixes(sample))
     rendered = "".join(linker.output)
     assert linker.link_count == 39
@@ -1034,7 +1116,7 @@ def self_test() -> None:
         assert indexed_refs["12"]["173"]["anchor"] == "ga12-p173"
 
         actual_lookup_linker = ConstitutionLinker(
-            {}, {}, {}, indexed_refs, "cases/ga14_1986__case6.html"
+            {}, {}, {}, indexed_refs, {}, "cases/ga14_1986__case6.html"
         )
         actual_lookup_linker.feed(
             normalize_inline_citation_prefixes(
@@ -1088,6 +1170,7 @@ def main() -> int:
     build_standard_preview_data(wcf, wlc, wsc, data_dir)
     rao_refs = build_rao_preview_data(rao, data_dir)
     minutes_refs, minutes_payload = build_minutes_page_index(args.site_dir)
+    case_refs = build_case_refs(args.site_dir)
     (args.site_dir / "assets" / "minutes-pages.json").write_text(
         json.dumps(minutes_payload, ensure_ascii=False, separators=(",", ":")),
         encoding="utf-8",
@@ -1101,7 +1184,7 @@ def main() -> int:
 
     for path in sorted(args.site_dir.rglob("*.html")):
         linked, missing, found_scripture, reviewed_scripture = process_html(
-            path, args.site_dir, bco_refs, standard_refs, rao_refs, minutes_refs, scripture_metadata
+            path, args.site_dir, bco_refs, standard_refs, rao_refs, minutes_refs, case_refs, scripture_metadata
         )
         total_links += linked
         unresolved.extend(missing)
