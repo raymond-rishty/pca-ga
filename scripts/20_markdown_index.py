@@ -220,10 +220,10 @@ def main():
 
     # ---- INDEX.md (front door) ----
     L = ["# PCA General Assembly Minutes — Corpus Index", "",
-         "All **52 volumes** of the Presbyterian Church in America *Minutes of the General "
-         "Assembly*, **1973–2025**: cleaned, OCR-corrected, structurally-formatted markdown plus "
-         "structured catalogues. Everything here is plain markdown — readable, greppable, and "
-         "ingestible directly into your own research or tooling.", "",
+         "This corpus contains all **52 volumes** of the Presbyterian Church in America *Minutes "
+         "of the General Assembly*, **1973–2025**, as cleaned, OCR-corrected Markdown. It also "
+         "includes structured catalogues. You can read the files here, search them with "
+         "command-line tools, or use them in your own research tools.", "",
          "## Catalogues", "",
          "- **[Overtures](OVERTURES.md)** — every overture to every Assembly (number, source "
          "presbytery, page). *\"Has the PCA considered this before?\"*",
