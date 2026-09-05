@@ -935,7 +935,7 @@ def self_test() -> None:
         "cases/ga45_2017__2016-01.html",
     )
     assert case_count == 1
-        assert 'class="case-ref" href="ga44_2016__2014-01.html"' in case_rendered
+    assert 'class="case-ref" href="ga44_2016__2014-01.html"' in case_rendered
 
     catechism_rendered, catechism_count = linkify_text(
         "LC 177; Larger Catechism 177",

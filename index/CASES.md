@@ -168,10 +168,10 @@ Every case listed here links to a full-text page extracted from the volume, incl
 | [1991-03](../cases/ga20_1992__1991-03.md) | Te Daniel R. Morse v. Covenant Presbytery | sustained |  | [full text](../cases/ga20_1992__1991-03.md) |
 | [1991-04](../cases/ga20_1992__1991-04.md) | Robert D. Hopper v. James River Presbytery |  |  | [full text](../cases/ga20_1992__1991-04.md) |
 | [1991-05](../cases/ga20_1992__1991-05.md) | Herman Gunter III, et al. v. Central Florida Presbytery  ·  *dissent* | denied |  | [full text](../cases/ga20_1992__1991-05.md) |
-| [1991-06](../cases/ga20_1992__1991-06.md) | Lovelace v. Northeast Presbytery (Case #2)  ·  *dissent* | other | Mrs. Sandra Lovelace complained against Northeast Presbytery's decision not to proceed to trial against teaching and ruling elders, and its ruling that her subsequent complaints were out of order due to non-membership. The SJC (reversing the Judicial Panel) denied the first item but sustained the second, holding that… | [full text](../cases/ga20_1992__1991-06.md) |
+| [1991-06](../cases/ga21_1993__1991-06.md) | Lovelace v. Northeast Presbytery (Case #2)  ·  *dissent* | other | Mrs. Sandra Lovelace complained against Northeast Presbytery's decision not to proceed to trial against teaching and ruling elders, and its ruling that her subsequent complaints were out of order due to non-membership. The SJC (reversing the Judicial Panel) denied the first item but sustained the second, holding that… | [full text](../cases/ga21_1993__1991-06.md) |
 | [1991-07](../cases/ga20_1992__1991-07.md) | Complainants Filed A Complaint v. Potomac Presbytery | sustained |  | [full text](../cases/ga20_1992__1991-07.md) |
-| [1992-01](../cases/ga20_1992__1992-01.md) | Frank J. Smith v. Northeast Presbytery | out_of_order |  | [full text](../cases/ga20_1992__1992-01.md) |
-| [1992-02](../cases/ga20_1992__1992-02.md) | Roberts v. New River Presbytery  ·  *dissent* |  |  | [full text](../cases/ga20_1992__1992-02.md) |
+| [1992-01](../cases/ga21_1993__1992-01.md) | Frank J. Smith v. Northeast Presbytery | out_of_order |  | [full text](../cases/ga21_1993__1992-01.md) |
+| [1992-02](../cases/ga21_1993__1992-02.md) | Roberts v. New River Presbytery  ·  *dissent* | sustained |  | [full text](../cases/ga21_1993__1992-02.md) |
 | [1992-03](../cases/ga20_1992__1992-03.md) | Richard E. Olson, et al. v. Heritage Presbytery |  |  | [full text](../cases/ga20_1992__1992-03.md) |
 | [1992-04](../cases/ga20_1992__1992-04.md) | William A. Conrad, et al. v. Central Carolina Presbytery |  |  | [full text](../cases/ga20_1992__1992-04.md) |
 
@@ -185,8 +185,8 @@ Every case listed here links to a full-text page extracted from the volume, incl
 | [1992-08](../cases/ga21_1993__1992-08.md) | Reference from Central Carolina Presbytery |  |  | [full text](../cases/ga21_1993__1992-08.md) |
 | [1992-09b](../cases/ga21_1993__1992-09b.md) | Overman v. Eastern Carolina Presbytery |  |  | [full text](../cases/ga21_1993__1992-09b.md) |
 | [1992-10](../cases/ga21_1993__1992-10.md) | Mr. & Mrs. Matthew Bernard vs. Ascension Presbytery |  |  | [full text](../cases/ga21_1993__1992-10.md) |
-| [1993-01](../cases/ga21_1993__1993-01.md) | Frank J. Smith v. Northeast Presbytery |  |  | [full text](../cases/ga21_1993__1993-01.md) |
-| [1993-02](../cases/ga21_1993__1993-02.md) | Edgar Davis Johnson v. Evangel Presbytery |  |  | [full text](../cases/ga21_1993__1993-02.md) |
+| [1993-01](../cases/ga22_1994__1993-01.md) | Frank J. Smith v. Northeast Presbytery | out_of_order |  | [full text](../cases/ga22_1994__1993-01.md) |
+| [1993-02](../cases/ga22_1994__1993-02.md) | Edgar Davis Johnson v. Evangel Presbytery | not_sustained |  | [full text](../cases/ga22_1994__1993-02.md) |
 | 13-9 | Judicial Case 13-9 | dismissed |  | _disposed at 42nd GA_ · [disposition](../cases/ga42_2014__stub_2013-09.md) |
 
 ## 22nd General Assembly (1994)
@@ -253,7 +253,7 @@ Every case listed here links to a full-text page extracted from the volume, incl
 
 | Case | Parties / Title | Disposition | Summary | Page |
 |---|---|---|---|---|
-| [1996-06](../cases/ga26_1998__1996-06.md) | Williams v. South Texas Presbytery | dismissed | The panel action on Case 96-6 was approved, dismissing the complaint on the grounds that it was judicially out of order because the parties could not agree on the Record of the Case. | [full text](../cases/ga26_1998__1996-06.md) |
+| [1996-06](../cases/ga27_1999__1996-06.md) | Williams v. South Texas Presbytery | dismissed | The panel action on Case 96-6 was approved, dismissing the complaint on the grounds that it was judicially out of order because the parties could not agree on the Record of the Case. | [full text](../cases/ga27_1999__1996-06.md) |
 | [1997-02](../cases/ga26_1998__1997-02.md) | Bruce Nickoley vs. Rocky Mountain Presbytery |  |  | [full text](../cases/ga26_1998__1997-02.md) |
 | [1997-03](../cases/ga26_1998__1997-03.md) | Bruce Nickoley vs. Rocky Mountain Presbytery |  |  | [full text](../cases/ga26_1998__1997-03.md) |
 | [1997-04](../cases/ga26_1998__1997-04.md) | Mrs. Nancy A. Conrad, et al. vs. Central Carolina Presbytery |  |  | [full text](../cases/ga26_1998__1997-04.md) |
@@ -266,7 +266,7 @@ Every case listed here links to a full-text page extracted from the volume, incl
 | [1997-13](../cases/ga26_1998__1997-13.md) | Session of Harvestwood PCA vs. New River Presbytery (Complaint) p. 144 |  |  | [full text](../cases/ga26_1998__1997-13.md) |
 | [1997-14/1997-15](../cases/ga26_1998__1997-14_1997-15.md) | Onda George vs. Central Florida Presbytery (Complaint) p. 148 |  |  | [full text](../cases/ga26_1998__1997-14_1997-15.md) |
 | [1997-16](../cases/ga26_1998__1997-16.md) | Session, BPC, Concord, NC vs. Central Carolina Presbytery |  |  | [full text](../cases/ga26_1998__1997-16.md) |
-| [1998-02](../cases/ga26_1998__1998-02.md) | St. Paul Session, et al. v. Central Florida Presbytery  ·  *dissent* | denied | St. Paul Session and others complained that Central Florida Presbytery erred in sustaining the report of a commission that investigated but did not bring to trial charges against TE John Hutchinson, and also regarding a related complaint against the Session of Christ Church, Jacksonville. The SJC denied the complaint… | [full text](../cases/ga26_1998__1998-02.md) |
+| [1998-02](../cases/ga27_1999__1998-02.md) | St. Paul Session, et al. v. Central Florida Presbytery  ·  *dissent* | denied | St. Paul Session and others complained that Central Florida Presbytery erred in sustaining the report of a commission that investigated but did not bring to trial charges against TE John Hutchinson, and also regarding a related complaint against the Session of Christ Church, Jacksonville. The SJC denied the complaint… | [full text](../cases/ga27_1999__1998-02.md) |
 | [1997-01](../cases/ga26_1998__stub_1997-01.md) | Felton v. Grace [ M26GA (1998): 103]. Withdrawn | Withdrawn |  | [disposition](../cases/ga26_1998__stub_1997-01.md) |
 | [1997-10](../cases/ga26_1998__stub_1997-10.md) | Raymond Larsen vs. Pacific Presbytery (Complaint) p. 103 | Withdrawn |  | [disposition](../cases/ga26_1998__stub_1997-10.md) |
 | [1997-12](../cases/ga26_1998__stub_1997-12.md) | Raymond Larsen vs. Pacific Presbytery (Complaint) p. 103 | Withdrawn |  | [disposition](../cases/ga26_1998__stub_1997-12.md) |
@@ -280,7 +280,7 @@ Every case listed here links to a full-text page extracted from the volume, incl
 | [1998-03/1998-04](../cases/ga27_1999__1998-03_1998-04.md) | Williams v. South Texas Presbytery / Yelton v. Westminster Presbytery | dismissed | The panel action on Case 98-3 was approved, dismissing the appeal on the grounds that it was administratively out of order. | [full text](../cases/ga27_1999__1998-03_1998-04.md) |
 | [1998-05](../cases/ga27_1999__1998-05.md) | Long, et al. v. James River Presbytery  ·  *dissent* | denied | Harry Long and others complained that James River Presbytery erred by instructing ordained TE Andrew Conrad not to teach or preach his views on creation days after granting him an exception. The SJC denied the complaint, deferring to the Presbytery's discretion, with a dissent arguing that the liberty of conscience… | [full text](../cases/ga27_1999__1998-05.md) |
 | [1998-06](../cases/ga27_1999__1998-06.md) | Kim v. Korean Southwest Presbytery | dismissed |  | [full text](../cases/ga27_1999__1998-06.md) |
-| [1998-09/1998-10](../cases/ga27_1999__1998-09_1998-10.md) | Baer v. Illiana Presbytery / Curtis v. Eastern Carolina Presbytery  ·  *dissent* | denied | Teaching Elder David Baer appealed his suspension by Illiana Presbytery after being found guilty of violating the 9th commandment and ordination/installation vows by falsely telling his congregation that the session had 'demanded' his resignation for six weeks. The SJC denied the appeal, affirming the presbytery's… | [full text](../cases/ga27_1999__1998-09_1998-10.md) |
+| [1998-09/1998-10](../cases/ga28_2000__1998-09.md) | Baer v. Illiana Presbytery / Curtis v. Eastern Carolina Presbytery  ·  *dissent* | denied | Teaching Elder David Baer appealed his suspension by Illiana Presbytery after being found guilty of violating the 9th commandment and ordination/installation vows by falsely telling his congregation that the session had 'demanded' his resignation for six weeks. The SJC denied the appeal, affirming the presbytery's… | [full text](../cases/ga28_2000__1998-09.md) |
 | [1998-07](../cases/ga27_1999__stub_1998-07.md) | Chong Ho Yi Korean Capital Presbytery | Administratively Out of Order |  | [disposition](../cases/ga27_1999__stub_1998-07.md) |
 
 ## 28th General Assembly (2000)
@@ -291,7 +291,7 @@ Every case listed here links to a full-text page extracted from the volume, incl
 | [1999-01](../cases/ga28_2000__1999-01.md) | Request to General Assembly (re: Teaching Elder from Western Carolina Presbytery)  ·  *dissent* | other | The SJC conducted an investigative report pursuant to a 28th General Assembly mandate assuming original jurisdiction under BCO 34-1, examining whether TE John Wood should face judicial process related to a woman (Dr. Linda Eure) speaking at Cedar Springs Presbyterian Church evening services and his expressed views on… | [full text](../cases/ga28_2000__1999-01.md) |
 | [1999-02](../cases/ga28_2000__1999-02.md) | Tan v. South Texas Presbytery | dismissed | TE Aureliano Tan's complaint against South Texas Presbytery was declared administratively out of order as not timely filed, because the complaint was dated and faxed on August 28 but not mailed until September 4, 1999, exceeding the 30-day filing period specified in BCO 43-3 and the SJC Manual. | [full text](../cases/ga28_2000__1999-02.md) |
 | [1999-04](../cases/ga28_2000__1999-04.md) | Appeal of Fitzsimmons v. Evangel |  |  | [full text](../cases/ga28_2000__1999-04.md) |
-| [2000-02](../cases/ga28_2000__2000-02.md) | of those, Cases 99-3, 99-5, 99-6, 99-7, 00-1, and 00-2 are in process with panels having b |  |  | [full text](../cases/ga28_2000__2000-02.md) |
+| [2000-02](../cases/ga29_2001__2000-02.md) | of those, Cases 99-3, 99-5, 99-6, 99-7, 00-1, and 00-2 are in process with panels having b | out_of_order |  | [full text](../cases/ga29_2001__2000-02.md) |
 
 ## 29th General Assembly (2001)
 
