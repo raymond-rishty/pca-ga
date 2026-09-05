@@ -42,12 +42,17 @@ jobs:
         run: |
           python3 scripts/21_overture_titles.py extract .
           python3 scripts/37_overture_pages.py .
-      - name: Reconcile judicial case artifacts
-        run: python3 scripts/27_case_index_reconcile.py
-      - name: Generate BCO provision manifests
-        run: python3 scripts/45_bco_manifests.py . --out api/bco
-      - name: Regenerate LLM distribution
-        run: python3 scripts/34_llm_pack.py .
+      - name: Rebuild judicial case corpus and indexes
+        run: |
+          python3 scripts/07_build_cases.py
+          python3 scripts/27_case_index_reconcile.py
+          python3 scripts/08_index_cases.py build
+          python3 scripts/20_markdown_index.py
+          python3 scripts/44_case_provision_index.py .
+          python3 scripts/43_authority_index.py .
+          python3 scripts/35_search_index.py .
+          python3 scripts/45_bco_manifests.py . --out api/bco
+          python3 scripts/34_llm_pack.py .
       - name: Validate study catalogue
         run: python3 scripts/check_study_catalogue.py .
       - name: Restore minutes source PDF provenance

@@ -29,6 +29,7 @@ import re
 ROOT = os.environ.get("PCA_GA_ROOT", os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 INDEX = os.path.join(ROOT, "index", "CASES.md")
 PMAP = os.path.join(ROOT, "index", "case_pages_map.json")
+PMAP_OVERRIDES = os.path.join(ROOT, "index", "case_pages_overrides.json")
 CASES = os.path.join(ROOT, "cases")
 
 PAGE_MARKER = re.compile(r"<!--\s*PAGE\b[^>]*\bpdf_page=(\d+)\b", re.I)
@@ -215,6 +216,9 @@ def main() -> None:
                 page_map[n] = dict(canonical)
 
     page_map.update(consolidated)
+    if os.path.exists(PMAP_OVERRIDES):
+        with open(PMAP_OVERRIDES, encoding="utf-8") as f:
+            page_map.update(json.load(f))
 
     with open(PMAP, "w", encoding="utf-8") as f:
         json.dump(page_map, f, indent=1)

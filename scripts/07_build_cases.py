@@ -45,9 +45,68 @@ CHUNKS = os.path.join(ROOT, "index", "chunks.jsonl")
 SEGDIR = os.path.join(ROOT, "index", "segments")
 OUT = os.path.join(ROOT, "index", "cases.jsonl")
 EDGES = os.path.join(ROOT, "index", "case_citations.jsonl")
+OVERRIDES = os.path.join(ROOT, "index", "case_metadata_overrides.json")
 
 DECISION_TYPES = ("sjc_decision", "cjb_decision")
 ADDON_TYPES = ("sjc_dissent", "sjc_concurrence")
+
+
+def apply_metadata_overrides(cases):
+    """Apply audited case records after automated extraction.
+
+    The extraction pipeline is intentionally reproducible, but old minutes can split a
+    decision across OCR blocks or expose only a docket-status line.  This checked-in
+    layer is the durable source for corrections confirmed against the later decision.
+    It may also add a case that automated segmentation missed entirely.
+    """
+    if not os.path.exists(OVERRIDES):
+        return cases
+    with open(OVERRIDES, encoding="utf-8") as f:
+        overrides = json.load(f)
+    by_number = {c.get("case_number"): c for c in cases if c.get("case_number")}
+    for patch in overrides:
+        case_number = norm_caseno(patch.get("case_number"))
+        if not case_number:
+            raise ValueError("Every case metadata override requires case_number")
+        record = by_number.get(case_number)
+        if record is None:
+            record = {
+                "case_id": case_number, "case_number": case_number,
+                "title": None, "parties": None, "body": "SJC",
+                "ga_ordinal": None, "year": None,
+                "pdf_page_start": None, "pdf_page_end": None,
+                "printed_page_start": None, "printed_page_end": None,
+                "source_pdf": None, "disposition": None, "vote": None,
+                "has_dissent": False, "bco_cited_as": [],
+                "bco_cited_current": [], "bco_chapters_ascited": [],
+                "bco_chapters_current": [], "topics": [], "synopsis": None,
+                "description": None, "precedent_refs_raw": [],
+                "precedent_case_ids": [], "cited_by": [],
+                "provenance": {"chunk_ids": [], "window_ids": []},
+            }
+            cases.append(record)
+            by_number[case_number] = record
+        record.update({k: v for k, v in patch.items() if k != "case_number"})
+        record["case_id"] = case_number
+        record["case_number"] = case_number
+
+        cited_as = record.get("bco_cited_as") or []
+        cited_current = []
+        for cite in cited_as:
+            current = cite
+            if record.get("year"):
+                try:
+                    current, _ = conc.resolve(cite, record["year"])
+                except Exception:
+                    pass
+            if current not in cited_current:
+                cited_current.append(current)
+        record["bco_cited_current"] = cited_current
+        record["bco_chapters_ascited"] = sorted(
+            {str(c).split("-")[0] for c in cited_as}, key=lambda x: (len(x), x))
+        record["bco_chapters_current"] = sorted(
+            {str(c).split("-")[0] for c in cited_current}, key=lambda x: (len(x), x))
+    return cases
 
 
 # ---------------------------------------------------------------------------
@@ -414,7 +473,7 @@ def resolve_precedents(cases):
 # main
 # ---------------------------------------------------------------------------
 def main():
-    chunks = [json.loads(l) for l in open(CHUNKS) if l.strip()]
+    chunks = [json.loads(l) for l in open(CHUNKS, encoding="utf-8") if l.strip()]
     corr = idx.load_citation_corrections()
     for c in chunks:
         idx.apply_citation_corrections(c, corr)
@@ -425,7 +484,8 @@ def main():
     # --- source 1: segment files ---
     seg_body = {}
     for path in sorted(glob.glob(os.path.join(SEGDIR, "*.json"))):
-        d = json.load(open(path))
+        with open(path, encoding="utf-8") as f:
+            d = json.load(f)
         vol = d.get("vol")
         body = d.get("body")
         wid = d.get("window_id")
@@ -554,6 +614,8 @@ def main():
             },
         })
 
+    cases = apply_metadata_overrides(cases)
+
     # dedup case_ids that collide on the numberless fallback key (rare)
     seen_ids = {}
     for c in cases:
@@ -570,10 +632,10 @@ def main():
     edges = resolve_precedents(cases)
 
     cases.sort(key=lambda c: (c.get("ga_ordinal") or 0, str(c.get("case_id"))))
-    with open(OUT, "w") as f:
+    with open(OUT, "w", encoding="utf-8") as f:
         for c in cases:
             f.write(json.dumps(c, ensure_ascii=False) + "\n")
-    with open(EDGES, "w") as f:
+    with open(EDGES, "w", encoding="utf-8") as f:
         for e in edges:
             f.write(json.dumps(e, ensure_ascii=False) + "\n")
 

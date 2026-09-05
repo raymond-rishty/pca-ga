@@ -332,7 +332,8 @@ def main():
         nn = _norm(r["canonical_number"] or r["case_number"] or "")
         if nn and nn not in tmeta:
             tmeta[nn] = {"disp": r["disposition"] or "", "dissent": r["has_dissent"] in (1, "1"),
-                         "page": r["pdf_page_start"], "synopsis": r["synopsis"] or ""}
+                         "page": r["pdf_page_start"], "synopsis": r["synopsis"] or "",
+                         "title": r["title"] or r["parties"] or nn}
 
     # invert the SJC structure-page map to unique pages grouped by GA (page == one decision)
     sjc_by_ga = {}
@@ -409,6 +410,19 @@ def main():
         for p in sorted(sjc_by_ga.get(ga, []), key=lambda x: x["numbers"]):
             nums = p["numbers"]
             covered_nums.update(nums)
+            # A shared opinion can dispose of its dockets differently. Emit one
+            # metadata row per docket while linking each to the same decision page.
+            if len(nums) > 1 and all(tmeta.get(n) for n in nums):
+                for n in nums:
+                    meta = tmeta[n]
+                    who = md_escape(meta["title"])[:90] + ("  ·  *dissent*" if meta["dissent"] else "")
+                    numcell = f"[{md_escape(n)}](../cases/{p['file']}.md)"
+                    summary = meta.get("synopsis", "")
+                    L.append(f"| {numcell} | {who} | {md_escape(meta['disp'])} | "
+                             f"{case_summary(meta['title'], meta['disp'], summary)} | "
+                             f"[full text](../cases/{p['file']}.md) |")
+                    n_linked += 1
+                continue
             disp = next((tmeta[n]["disp"] for n in nums if tmeta.get(n) and tmeta[n]["disp"]), "")
             diss = any(tmeta.get(n, {}).get("dissent") for n in nums)
             who = md_escape(p["title"])[:90] + ("  ·  *dissent*" if diss else "")
