@@ -931,11 +931,11 @@ def build_case_refs(site_dir: Path) -> dict[str, str]:
 def self_test() -> None:
     case_rendered, case_count = linkify_case_refs(
         "See Case 2014-01.",
-        {"2014-01": "cases/ga43_2015__2014-01.html"},
+        {"2014-01": "cases/ga44_2016__2014-01.html"},
         "cases/ga45_2017__2016-01.html",
     )
     assert case_count == 1
-    assert 'class="case-ref" href="ga43_2015__2014-01.html"' in case_rendered
+        assert 'class="case-ref" href="ga44_2016__2014-01.html"' in case_rendered
 
     catechism_rendered, catechism_count = linkify_text(
         "LC 177; Larger Catechism 177",
