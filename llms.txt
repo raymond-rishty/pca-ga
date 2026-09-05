@@ -1,46 +1,59 @@
 # PCA General Assembly Records and Constitution
 
-> Page-anchored, OCR-derived Markdown of the Presbyterian Church in America (PCA) General Assembly minutes, GA1–GA52 (1973–2025), with structured catalogues of cases, overtures, constitutional inquiries, Review of Presbytery Records exceptions, and study reports. The RPR catalogue covers GA18–GA52.
+> Retrieval guide to the Presbyterian Church in America (PCA) Minutes, GA1–GA52 (1973–2025), and the BCO and Westminster Standards. The Minutes are page-anchored, OCR-derived Markdown with structured catalogues. RPR catalogue coverage begins at GA18 (1990). GA53 overture research is separate from the completed Minutes corpus.
 
-Use two sources together, but do not collapse their roles:
+## Start with the question
 
-- The PCA General Assembly corpus is the evidence for what an Assembly, committee, court, or presbytery record did or said, including its procedural status and later action.
-- The [PCA Constitution Reader](https://raymond-rishty.github.io/pca-constitution-reader/) is the constitutional-text source for the Westminster Confession, Larger and Shorter Catechisms, and BCO text and cross-references. Its [llms.txt](https://raymond-rishty.github.io/pca-constitution-reader/llms.txt) maps the reader's hash routes and machine-readable assets. Its text or editorial navigation is not itself an Assembly action.
-- The [official current PCA Book of Church Order](https://www.pcaac.org/book-of-church-order/) controls questions about present BCO wording. Separate it from historical Minutes evidence.
+Fetch only the sources needed for the question. A wording lookup needs verified constitutional text; interpretation or application also needs relevant Minutes evidence. A historical question needs the wording and numbering in force at the relevant date. The corpus cutoff does not establish the current rule.
 
-When a question names a constitutional provision, do not stop at the text. Build a cross-corpus source plan: read the relevant BCO or Westminster text in the Constitution Reader, then search the PCA catalogues for cases, constitutional inquiries, overtures, RPR exceptions, study reports, and Assembly actions that interpret, apply, amend, or later resolve that provision.
+- **Current BCO text:** open the [official BCO contents](https://www.pcaac.org/book-of-church-order/) and follow the relevant part/chapter link. Read the provision, qualifications, and cross-references; identify the edition checked. The official current BCO controls present wording.
+- **Known BCO provision and its history:** request the provision manifest directly, e.g. [BCO 38-4 records](https://raymond-rishty.github.io/pca-ga/api/bco/38-4.json). For a simple chapter-section reference, the path is `api/bco/<chapter>-<section>.json`. Use the [manifest index](https://raymond-rishty.github.io/pca-ga/api/bco/index.json) for available provisions, suffixes, parent sections, and related entries; follow its `manifest` URLs. Read selected underlying records.
+- **Known case, presbytery, overture, or Assembly:** use the corresponding catalogue below and follow its direct source links. An overture number needs its GA/year; a judicial docket year may differ from the year of the Minutes reporting it.
+- **Topic without a provision:** search distinctive phrases and synonyms in the relevant catalogues and constitutional text, identify candidate provisions, then follow their manifests. Include STUDIES for doctrinal and denominational-position questions.
 
-Start with the narrowest relevant catalogue, then expand only when another record type, Assembly, historical provision number, or semantic variant could change the conclusion. Treat indexes as finding aids. Use llms-full.txt only when no provision manifest or narrower catalogue applies, when the question spans several catalogues, or when the narrower links do not resolve. Search it for candidate records, then open and cite the underlying records rather than the pack itself. For a material historical claim, prefer the underlying extracted record or page-anchored Minutes entry over an index or headnote. Before finalizing each material historical citation, verify the linked page's title or record identifier and disposition, then verify the claim in the cited passage. For a Minutes link, read its PAGE marker and derive the printed citation in the form M<GA>GA p.<page> from printed_page; keep URL fragments and PDF-page numbers as locators only. Use an external PDF only when the corpus record is unavailable or unclear. If any check fails, omit the citation or label the item unverified. Distinguish adopted Assembly actions, SJC/CJB judgments and dispositions, non-binding CCB advice, RPR exceptions and later responses, committee recommendations, minority reports, overtures, proposed amendments, and study-report reception or adoption status.
+## Constitutional text retrieval
 
-When a provision has been renumbered, search its current and predecessor numbers and check the BCO renumbering/change data below. For constitutional interpretation, search the relevant BCO and Westminster text in the Constitution Reader alongside the historical record.
+- [Constitution Reader guide](https://raymond-rishty.github.io/pca-constitution-reader/llms.txt) — routes and data for BCO, WCF, WLC, and WSC.
+- [BCO text data](https://raymond-rishty.github.io/pca-constitution-reader/content/bco.js) — JavaScript assignments, not a JSON endpoint. `window.BCO` contains chapter objects with `sections` entries identified by `ref` (e.g. `38-4`) and text in `body`; read relevant chapter introductions too. Parse or search as data; no script execution is needed.
+- [WCF data](https://raymond-rishty.github.io/pca-constitution-reader/content/wcf.js), [WLC data](https://raymond-rishty.github.io/pca-constitution-reader/content/wlc.js), [WSC data](https://raymond-rishty.github.io/pca-constitution-reader/content/wsc.js) — fetch only the needed book. WCF sections use `ref` and `body`; catechism entries use `n`, `q`, and `a`.
+- [Reader and edition notes](https://raymond-rishty.github.io/pca-constitution-reader/#about) — check the displayed edition against the official BCO when current wording matters.
 
-For reader-facing links, use the published GitHub Pages `.html` URL. Raw Markdown is for machine retrieval. Derive the printed Minutes citation from the underlying `printed_page` marker; minutes URL fragments and PDF-page numbers are locators, not printed-page citations. Extracted cases, inquiries, overtures, RPR records, and studies often have no page anchor: use their base `.html` URL; use a fragment only when the page supplies it. If no direct record page is available, link the catalogue or Minutes page as a locator.
+The reader is a JavaScript app: a hash URL may return only its shell to a text-fetch tool. Use the content files above in that case. Reader-facing routes include `#bco/38-4`, `#wcf/20.2`, `#wlc/Q.135`, and `#wsc/Q.1`, appended to `https://raymond-rishty.github.io/pca-constitution-reader/`. These locate constitutional text, not Assembly actions. For current BCO claims, cite the official text actually checked; a reader link can accompany it. Check constitutional status for Directory for Worship provisions rather than treating every paragraph as binding. RAO and OMSJC texts are linked from the official BCO contents; they are separate from the constitutional text.
 
-For a negative or incomplete result, say “Not found in this corpus,” state the relevant catalogues, date scope, and terminology variants searched, and do not infer that the PCA never addressed the subject.
+## Using a provision manifest
 
-## PCA General Assembly corpus
+Each manifest supplies `provision`, `scope`, `counts`, and `artifacts`. Select by subject and record type using `title`, `matches`, `year`, and `disposition`; retrieve `url` (published page) or `raw_url` (Markdown). `matches` evidence and optional line numbers help locate a passage; `minutes_locators` are leads to verify. `authority_weight` is an editorial sorting aid, not a ruling about binding authority.
 
-- [Corpus index](https://raymond-rishty.github.io/pca-ga/index/INDEX.html) — map of the 52 Minutes volumes, catalogues, and outlines.
-- [BCO authority manifests](https://raymond-rishty.github.io/pca-ga/api/bco/index.json) — machine-readable, provision-scoped manifests linking explicit BCO references to cases, constitutional inquiries, CCB advice, overtures, and RPR exceptions. Use a provision manifest to find source records; verify claims in those underlying records.
-- [Judicial cases](https://raymond-rishty.github.io/pca-ga/index/CASES.html) — SJC/CJB cases, parties, cited provisions, and dispositions.
-- [Judicial cases by provision](https://raymond-rishty.github.io/pca-ga/index/CASES-BY-PROVISION.html) — cases grouped by BCO, RAO, and Standards provision.
-- [Constitutional inquiries](https://raymond-rishty.github.io/pca-ga/index/INQUIRIES.html) — CCB advice about constitutional meaning and application.
-- [CCB overture advice](https://raymond-rishty.github.io/pca-ga/index/CCB-OVERTURE-ADVICE.html) — CCB review of proposed overtures and amendments.
-- [Review of Presbytery Records](https://raymond-rishty.github.io/pca-ga/index/RPR.html) — exceptions and later statuses by presbytery.
-- [RPR by provision](https://raymond-rishty.github.io/pca-ga/index/RPR-BY-PROVISION.html) — RPR exceptions grouped by provision.
-- [Overtures and outcomes](https://raymond-rishty.github.io/pca-ga/index/OVERTURES.html) — proposals, Assembly actions, and ratification information.
-- [Study reports and position papers](https://raymond-rishty.github.io/pca-ga/index/STUDIES.html) — reports, declarations, pastoral letters, and recorded reception or adoption status.
+Coverage is explicit indexed references in cases, inquiries, CCB overture advice, overtures, and RPR exceptions. It excludes studies and does not infer topical relevance. A chapter manifest does not aggregate its sections, nor does a section necessarily include separately tagged subsections. Use the index to select related entries when the question spans them. A missing manifest, zero matches, or an incidental citation does not establish that no applicable record exists.
 
-## PCA constitutional texts
+## Catalogues by question
 
-- [PCA Constitution Reader](https://raymond-rishty.github.io/pca-constitution-reader/) — Westminster Standards and PCA BCO text, with constitutional cross-references; see its [llms.txt](https://raymond-rishty.github.io/pca-constitution-reader/llms.txt) for route syntax and data files.
-- [Official current PCA Book of Church Order](https://www.pcaac.org/book-of-church-order/) — current BCO authority for present-law questions.
+- [Judicial cases](https://raymond-rishty.github.io/pca-ga/index/CASES.html) — SJC/CJB docket, parties, disposition, and source records; search case number or party name.
+- [Cases by provision](https://raymond-rishty.github.io/pca-ga/index/CASES-BY-PROVISION.html) — BCO, Preliminary Principles, RAO, and Westminster references, with tag evidence. Useful beyond numbered BCO manifests.
+- [Constitutional inquiries](https://raymond-rishty.github.io/pca-ga/index/INQUIRIES.html) — interpretation questions and non-binding advice; verify the answering body and wording in the record, especially for early Assemblies.
+- [CCB overture advice](https://raymond-rishty.github.io/pca-ga/index/CCB-OVERTURE-ADVICE.html) — constitutional review of proposals; pair with the overture's actual Assembly outcome.
+- [RPR by presbytery](https://raymond-rishty.github.io/pca-ga/index/RPR.html) — exceptions of substance and response threads, GA18–GA52. [RPR by provision](https://raymond-rishty.github.io/pca-ga/index/RPR-BY-PROVISION.html) finds provision-tagged exceptions. Follow each exception's later responses and any SJC escalation.
+- [Overtures and outcomes](https://raymond-rishty.github.io/pca-ga/index/OVERTURES.html) — proposals, answers, and amendment ratification leads. Follow “answered by reference” to the referenced action; verify adoption and any later ratification in the Minutes.
+- [Studies and position papers](https://raymond-rishty.github.io/pca-ga/index/STUDIES.html) — topic-grouped reports, pastoral letters, declarations, and resolutions. Check which recommendations were adopted, received, commended, or recommitted. Some entries have only external PDF sources.
+- [Corpus index and volume outlines](https://raymond-rishty.github.io/pca-ga/index/INDEX.html) — full Minutes and per-volume outlines for floor actions, committee reports, appendices, and records missed by catalogues. Select the actual volume from this list; no GA met in 2020.
+- [GA53 overture research](https://raymond-rishty.github.io/pca-ga/index/GA53-OVERTURES.html) — 2026 proposals with prior-action leads; not a substitute for GA53 Minutes or verified final outcomes.
 
-## Reference data
+## Expand only where it can affect the answer
 
-- [BCO renumberings](https://raw.githubusercontent.com/raymond-rishty/pca-ga/main/index/bco_renumberings.jsonl) — recorded historical-to-current provision mappings.
-- [BCO changes](https://raw.githubusercontent.com/raymond-rishty/pca-ga/main/index/bco_changes.jsonl) — structured amendment-history references.
+Search topic terms as well as provision numbers in the relevant catalogues: records may discuss a rule without citing it. Try spelling, punctuation, party-name, and historical terminology variants. Check material contrary evidence and follow later dispositions, amendments, and cross-referenced actions before concluding.
 
-## Optional bulk retrieval
+- [BCO renumberings](https://raw.githubusercontent.com/raymond-rishty/pca-ga/main/index/bco_renumberings.jsonl) — date-specific predecessor mappings. Read `status` and notes; several mappings are partial or need Minutes verification.
+- [BCO changes](https://raw.githubusercontent.com/raymond-rishty/pca-ga/main/index/bco_changes.jsonl) — amendment-history leads. Verify historical wording and adoption in the underlying Minutes; do not apply a number mapping across all dates.
+- [llms-full.txt](https://raymond-rishty.github.io/pca-ga/llms-full.txt) — optional combined-catalogue fallback when narrower retrieval is insufficient. It contains selected catalogues, not the full Minutes; overtures, RPR-by-provision, and studies still need separate retrieval.
 
-- [llms-full.txt](https://raymond-rishty.github.io/pca-ga/llms-full.txt) — optional fallback for corpus-wide or cross-catalogue discovery when no narrower map applies; search it for candidate records, then open and cite the underlying pages rather than the pack.
+If the catalogues are insufficient, search the relevant full Minutes via the volume outlines. With a local checkout, use `rg` across `index/`, extracted records, and `markdown/`; do not depend on an unpublished database. A truncated fetch is not a complete search: use a raw download and text search, or report the access limit. Stop when the evidence supports the requested scope and material follow-up leads are resolved; an exhaustive historical survey requires broader searching than a wording lookup.
+
+## Verify and cite the evidence
+
+Read the underlying passage before making a material claim. Check the title/case or item identifier, speaker/body, disposition, and context. Separate the court's judgment and reasoning from parties' arguments, dissents, and concurrences; distinguish non-binding CCB advice, RPR findings and responses, committee recommendations, overtures, adopted Assembly actions, and a study report's reception/adoption. A catalogue headnote or provision mention does not establish a holding. Mark your inferences as such.
+
+Use published GitHub Pages `.html` links in answers. Raw Markdown is for retrieval: use a manifest's `raw_url`, or map a corpus path from `https://raymond-rishty.github.io/pca-ga/<path>.html` to `https://raw.githubusercontent.com/raymond-rishty/pca-ga/main/<path>.md`, dropping the fragment. This conversion applies to corpus Markdown pages, not app routes or JSON assets.
+
+For printed Minutes citations, inspect the `<!-- PAGE ga=… pdf_page=… printed_page=… -->` comment preceding the cited passage in raw Markdown. Rendered text may hide it. For example, `ga=52 pdf_page=885 printed_page=883` yields **M52GA p.883**, not p.885. Copy the source's existing URL anchor; its number need not be the printed page. Extracted records often have no page anchors: use their base `.html` URL. When the record lacks page metadata, follow its source link into the full Minutes. If `printed_page` is null or uncertain, state the available locator and pagination limit rather than inventing a printed citation. Consult the source PDF when OCR, formatting, or pagination affects the claim.
+
+Answer directly with the strongest relevant sources, chronology when needed, and material authority/coverage limits. State the edition and date scope relied on. For a negative result, say “Not found in this corpus,” specifying catalogues, years, provision variants, and topic terms searched. Distinguish an unsuccessful search from an inaccessible source; neither proves that the PCA never addressed the subject.
