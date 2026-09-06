@@ -3068,8 +3068,14 @@
     "case:13-61": [
       "minutes:ga13_1985"
     ],
-    "case:13-9": [
-      "minutes:ga21_1993"
+    "case:1975-1": [
+      "minutes:ga03_1975"
+    ],
+    "case:1976-1": [
+      "minutes:ga04_1976"
+    ],
+    "case:1976-2": [
+      "minutes:ga04_1976"
     ],
     "case:1977-1": [
       "minutes:ga05_1977"
@@ -3080,6 +3086,9 @@
     "case:1977-3": [
       "minutes:ga05_1977"
     ],
+    "case:1978-2": [
+      "minutes:ga06_1978"
+    ],
     "case:1980-1": [
       "minutes:ga08_1980"
     ],
@@ -3087,6 +3096,9 @@
       "minutes:ga08_1980"
     ],
     "case:1980-3": [
+      "minutes:ga08_1980"
+    ],
+    "case:1980-4": [
       "minutes:ga08_1980"
     ],
     "case:1980-5": [
@@ -3122,6 +3134,15 @@
     "case:1983-1": [
       "minutes:ga11_1983"
     ],
+    "case:1983-10": [
+      "minutes:ga11_1983"
+    ],
+    "case:1983-11": [
+      "minutes:ga19_1991"
+    ],
+    "case:1983-12": [
+      "minutes:ga11_1983"
+    ],
     "case:1983-13": [
       "case-pdf:1983-13_Codling_v_ECanada",
       "minutes:ga11_1983"
@@ -3134,6 +3155,18 @@
       "minutes:ga11_1983"
     ],
     "case:1983-2": [
+      "minutes:ga11_1983"
+    ],
+    "case:1983-3": [
+      "minutes:ga11_1983"
+    ],
+    "case:1983-4": [
+      "minutes:ga11_1983"
+    ],
+    "case:1983-5": [
+      "minutes:ga11_1983"
+    ],
+    "case:1983-6": [
       "minutes:ga11_1983"
     ],
     "case:1983-7": [
@@ -3179,6 +3212,9 @@
     "case:1985-5": [
       "minutes:ga13_1985"
     ],
+    "case:1985-6": [
+      "minutes:ga13_1985"
+    ],
     "case:1986-1": [
       "minutes:ga14_1986"
     ],
@@ -3201,6 +3237,12 @@
       "minutes:ga14_1986"
     ],
     "case:1987-1": [
+      "minutes:ga15_1987"
+    ],
+    "case:1987-2": [
+      "minutes:ga15_1987"
+    ],
+    "case:1987-3": [
       "minutes:ga15_1987"
     ],
     "case:1988-1": [
@@ -3298,19 +3340,41 @@
     "case:1992-1": [
       "minutes:ga21_1993"
     ],
+    "case:1992-10": [
+      "minutes:ga21_1993"
+    ],
     "case:1992-2": [
       "minutes:ga21_1993"
+    ],
+    "case:1992-3": [
+      "minutes:ga20_1992"
+    ],
+    "case:1992-4": [
+      "minutes:ga20_1992"
     ],
     "case:1992-5": [
       "minutes:ga21_1993"
     ],
+    "case:1992-6": [
+      "minutes:ga20_1992"
+    ],
     "case:1992-7": [
       "minutes:ga21_1993"
     ],
+    "case:1992-8": [
+      "minutes:ga21_1993"
+    ],
     "case:1992-9": [
-      "minutes:ga22_1994"
+      "minutes:ga22_1994",
+      "minutes:ga21_1993"
     ],
     "case:1992-9a": [
+      "minutes:ga22_1994"
+    ],
+    "case:1992-9b": [
+      "minutes:ga21_1993"
+    ],
+    "case:1993-1": [
       "minutes:ga22_1994"
     ],
     "case:1993-10": [
@@ -3351,7 +3415,7 @@
     ],
     "case:1995-11": [
       "case-pdf:1995-11_Landrum_v_MississippiValley",
-      "minutes:ga25_1997"
+      "minutes:ga26_1998"
     ],
     "case:1995-4": [
       "minutes:ga37_2009"
@@ -3377,21 +3441,60 @@
     "case:1996-6": [
       "minutes:ga27_1999"
     ],
+    "case:1997-1": [
+      "minutes:ga26_1998"
+    ],
+    "case:1997-10": [
+      "minutes:ga26_1998"
+    ],
+    "case:1997-11": [
+      "minutes:ga26_1998"
+    ],
+    "case:1997-12": [
+      "minutes:ga26_1998"
+    ],
     "case:1997-13": [
-      "case-pdf:1997-13_Harvestwood_v_NewRiver"
+      "case-pdf:1997-13_Harvestwood_v_NewRiver",
+      "minutes:ga26_1998"
+    ],
+    "case:1997-14": [
+      "minutes:ga26_1998"
+    ],
+    "case:1997-15": [
+      "minutes:ga26_1998"
+    ],
+    "case:1997-16": [
+      "minutes:ga26_1998"
     ],
     "case:1997-17": [
       "minutes:ga27_1999"
     ],
+    "case:1997-2": [
+      "minutes:ga26_1998"
+    ],
+    "case:1997-3": [
+      "minutes:ga26_1998"
+    ],
     "case:1997-4": [
-      "case-pdf:1997-04_Conrad_v_CentralCarolina"
+      "case-pdf:1997-04_Conrad_v_CentralCarolina",
+      "minutes:ga26_1998"
     ],
     "case:1997-5": [
       "minutes:ga26_1998"
     ],
+    "case:1997-6": [
+      "minutes:ga26_1998"
+    ],
+    "case:1997-7": [
+      "minutes:ga29_2001"
+    ],
+    "case:1997-8": [
+      "minutes:ga26_1998"
+    ],
     "case:1997-9": [
       "case-pdf:1997-09_Shive_v_CentralCarolina",
-      "minutes:ga29_2001"
+      "minutes:ga29_2001",
+      "minutes:ga26_1998"
     ],
     "case:1998-1": [
       "minutes:ga27_1999"
@@ -3424,13 +3527,44 @@
       "minutes:ga28_2000"
     ],
     "case:1999-1": [
-      "minutes:ga29_2001"
+      "minutes:ga28_2000"
     ],
     "case:1999-2": [
       "minutes:ga28_2000"
     ],
+    "case:1999-3": [
+      "minutes:ga28_2000"
+    ],
+    "case:1999-4": [
+      "minutes:ga26_1998"
+    ],
+    "case:1999-5": [
+      "minutes:ga29_2001"
+    ],
     "case:1999-6": [
-      "case-pdf:1997-09_Shive_v_CentralCarolina"
+      "case-pdf:1997-09_Shive_v_CentralCarolina",
+      "minutes:ga26_1998"
+    ],
+    "case:2000-10": [
+      "minutes:ga29_2001"
+    ],
+    "case:2000-2": [
+      "minutes:ga29_2001"
+    ],
+    "case:2000-3": [
+      "minutes:ga29_2001"
+    ],
+    "case:2000-4": [
+      "minutes:ga29_2001"
+    ],
+    "case:2000-5": [
+      "minutes:ga29_2001"
+    ],
+    "case:2000-7": [
+      "minutes:ga29_2001"
+    ],
+    "case:2000-8": [
+      "minutes:ga29_2001"
     ],
     "case:2000-9": [
       "minutes:ga30_2002"
@@ -3439,9 +3573,18 @@
       "minutes:ga31_2003"
     ],
     "case:2001-10": [
+      "minutes:ga29_2001"
+    ],
+    "case:2001-11": [
+      "minutes:ga30_2002"
+    ],
+    "case:2001-12": [
       "minutes:ga30_2002"
     ],
     "case:2001-13": [
+      "minutes:ga30_2002"
+    ],
+    "case:2001-14": [
       "minutes:ga30_2002"
     ],
     "case:2001-15": [
@@ -3453,14 +3596,47 @@
     "case:2001-17": [
       "minutes:ga30_2002"
     ],
+    "case:2001-18": [
+      "minutes:ga30_2002"
+    ],
     "case:2001-19": [
       "minutes:ga30_2002"
     ],
     "case:2001-2": [
       "minutes:ga30_2002"
     ],
+    "case:2001-20": [
+      "minutes:ga30_2002"
+    ],
+    "case:2001-21": [
+      "minutes:ga30_2002"
+    ],
+    "case:2001-22": [
+      "minutes:ga30_2002"
+    ],
+    "case:2001-23": [
+      "minutes:ga30_2002"
+    ],
+    "case:2001-24": [
+      "minutes:ga30_2002"
+    ],
     "case:2001-25": [
       "minutes:ga30_2002"
+    ],
+    "case:2001-26": [
+      "minutes:ga30_2002"
+    ],
+    "case:2001-27": [
+      "minutes:ga30_2002"
+    ],
+    "case:2001-28": [
+      "minutes:ga30_2002"
+    ],
+    "case:2001-29": [
+      "minutes:ga30_2002"
+    ],
+    "case:2001-3": [
+      "minutes:ga29_2001"
     ],
     "case:2001-30": [
       "minutes:ga31_2003"
@@ -3480,8 +3656,17 @@
     "case:2001-35": [
       "minutes:ga30_2002"
     ],
+    "case:2001-36": [
+      "minutes:ga30_2002"
+    ],
+    "case:2001-37": [
+      "minutes:ga30_2002"
+    ],
     "case:2001-4": [
       "minutes:ga30_2002"
+    ],
+    "case:2001-5": [
+      "minutes:ga29_2001"
     ],
     "case:2001-6": [
       "minutes:ga31_2003"
@@ -3491,6 +3676,9 @@
     ],
     "case:2001-8": [
       "minutes:ga30_2002"
+    ],
+    "case:2001-9": [
+      "minutes:ga29_2001"
     ],
     "case:2002-1": [
       "minutes:ga31_2003"
@@ -3502,8 +3690,17 @@
     "case:2002-11": [
       "minutes:ga31_2003"
     ],
+    "case:2002-12": [
+      "minutes:ga31_2003"
+    ],
+    "case:2002-13": [
+      "minutes:ga29_2001"
+    ],
     "case:2002-14": [
       "minutes:ga32_2004"
+    ],
+    "case:2002-15": [
+      "minutes:ga31_2003"
     ],
     "case:2002-16": [
       "minutes:ga32_2004"
@@ -3512,13 +3709,20 @@
       "minutes:ga32_2004"
     ],
     "case:2002-18": [
-      "minutes:ga32_2004"
+      "minutes:ga32_2004",
+      "minutes:ga31_2003"
     ],
     "case:2002-2": [
       "minutes:ga33_2005"
     ],
+    "case:2002-28": [
+      "minutes:ga31_2003"
+    ],
     "case:2002-3": [
       "minutes:ga33_2005"
+    ],
+    "case:2002-4": [
+      "minutes:ga31_2003"
     ],
     "case:2002-5": [
       "minutes:ga32_2004"
@@ -3526,24 +3730,51 @@
     "case:2002-9": [
       "minutes:ga32_2004"
     ],
+    "case:2003-1": [
+      "minutes:ga31_2003"
+    ],
+    "case:2003-2": [
+      "minutes:ga33_2005"
+    ],
     "case:2003-3": [
       "minutes:ga33_2005"
     ],
     "case:2003-4": [
+      "minutes:ga33_2005",
+      "minutes:ga32_2004"
+    ],
+    "case:2003-5": [
       "minutes:ga33_2005"
+    ],
+    "case:2003-6": [
+      "minutes:ga32_2004"
     ],
     "case:2003-7": [
       "minutes:ga32_2004"
     ],
-    "case:2004-2": [
+    "case:2004-11": [
       "minutes:ga33_2005"
+    ],
+    "case:2004-12": [
+      "minutes:ga33_2005"
+    ],
+    "case:2004-13": [
+      "minutes:ga34_2006"
+    ],
+    "case:2004-2": [
+      "minutes:ga32_2004"
     ],
     "case:2004-3": [
       "case-pdf:2004-03_Harris_v_Heritage",
+      "minutes:ga33_2005",
+      "minutes:ga32_2004"
+    ],
+    "case:2004-4": [
       "minutes:ga33_2005"
     ],
     "case:2004-5": [
-      "minutes:ga33_2005"
+      "minutes:ga33_2005",
+      "minutes:ga34_2006"
     ],
     "case:2004-6": [
       "minutes:ga33_2005"
@@ -3556,19 +3787,48 @@
       "case-pdf:2004-08_Thornton_v_Westminster",
       "minutes:ga34_2006"
     ],
+    "case:2004-9": [
+      "minutes:ga33_2005"
+    ],
     "case:2005-1": [
       "case-pdf:2005-01_Chastain_v_Heritage",
       "case-pdf:2006-07_Chastain_v_Heritage_appeal",
       "minutes:ga34_2006"
     ],
+    "case:2005-10": [
+      "minutes:ga34_2006"
+    ],
     "case:2005-11": [
-      "minutes:ga37_2009"
+      "minutes:ga37_2009",
+      "minutes:ga34_2006"
+    ],
+    "case:2005-12": [
+      "minutes:ga34_2006"
+    ],
+    "case:2005-13": [
+      "minutes:ga33_2005"
     ],
     "case:2005-14": [
       "minutes:ga37_2009"
     ],
     "case:2005-2": [
-      "minutes:ga36_2008"
+      "minutes:ga36_2008",
+      "minutes:ga34_2006"
+    ],
+    "case:2005-3": [
+      "minutes:ga34_2006"
+    ],
+    "case:2005-4": [
+      "minutes:ga34_2006"
+    ],
+    "case:2005-5": [
+      "minutes:ga34_2006"
+    ],
+    "case:2005-6": [
+      "minutes:ga34_2006"
+    ],
+    "case:2005-7": [
+      "minutes:ga34_2006"
     ],
     "case:2005-8": [
       "case-pdf:2005-08_Kim_v_KoreanEastern",
@@ -3579,21 +3839,34 @@
       "case-pdf:2005-09_Kim_v_KoreanEastern",
       "minutes:ga34_2006"
     ],
+    "case:2006-1": [
+      "minutes:ga34_2006"
+    ],
     "case:2006-2": [
       "case-pdf:2006-02_Memorial_of_Central_Carolina",
       "case-pdf:2007-14_PCA_v_Louisiana",
       "minutes:ga36_2008"
     ],
+    "case:2006-3": [
+      "minutes:ga34_2006"
+    ],
+    "case:2006-4": [
+      "minutes:ga34_2006"
+    ],
     "case:2006-6": [
-      "case-pdf:2006-06_Ehrlich_v_NorthGeorgia"
+      "case-pdf:2006-06_Ehrlich_v_NorthGeorgia",
+      "minutes:ga35_2007"
     ],
     "case:2006-7": [
       "case-pdf:2006-07_Chastain_v_Heritage_appeal",
-      "minutes:ga35_2007"
+      "minutes:ga35_2007",
+      "case-pdf:2005-01_Chastain_v_Heritage",
+      "minutes:ga34_2006"
     ],
     "case:2007-1": [
       "case-pdf:2007-01_Lee-Han_v_KoreanEastern",
-      "minutes:ga36_2008"
+      "minutes:ga36_2008",
+      "minutes:ga35_2007"
     ],
     "case:2007-10": [
       "case-pdf:2007-09-10_Lee_v_KoreanEastern",
@@ -3604,7 +3877,8 @@
       "minutes:ga40_2012"
     ],
     "case:2007-12": [
-      "case-pdf:2007-12_Grady_v_SouthwestFlorida"
+      "case-pdf:2007-12_Grady_v_SouthwestFlorida",
+      "minutes:ga36_2008"
     ],
     "case:2007-13": [
       "case-pdf:2007-13_Kniseley_v_RockyMountain"
@@ -3613,22 +3887,35 @@
       "case-pdf:2007-14_PCA_v_Louisiana",
       "minutes:ga36_2008"
     ],
+    "case:2007-15": [
+      "minutes:ga36_2008"
+    ],
     "case:2007-16": [
-      "case-pdf:2007-16_Grady_v_SWFlorida"
+      "case-pdf:2007-16_Grady_v_SWFlorida",
+      "minutes:ga37_2009"
     ],
     "case:2007-2": [
       "case-pdf:2007-02_Malone_v_MetropolitanNY",
       "minutes:ga48_2021"
     ],
+    "case:2007-3": [
+      "minutes:ga36_2008"
+    ],
     "case:2007-4": [
-      "case-pdf:2007-04_Engel_v_Evangel"
+      "case-pdf:2007-04_Engel_v_Evangel",
+      "minutes:ga35_2007"
+    ],
+    "case:2007-5": [
+      "minutes:ga35_2007"
     ],
     "case:2007-6": [
-      "case-pdf:2007-01_Lee-Han_v_KoreanEastern"
+      "case-pdf:2007-01_Lee-Han_v_KoreanEastern",
+      "minutes:ga35_2007"
     ],
     "case:2007-7": [
       "case-pdf:2007-01_Lee-Han_v_KoreanEastern",
-      "minutes:ga36_2008"
+      "minutes:ga36_2008",
+      "minutes:ga35_2007"
     ],
     "case:2007-8": [
       "case-pdf:2007-08_Jones_v_Louisiana",
@@ -3647,6 +3934,9 @@
       "case-pdf:2008-11_Broadwater_v_Chesapeake",
       "minutes:ga38_2010"
     ],
+    "case:2008-12": [
+      "minutes:ga36_2008"
+    ],
     "case:2008-13": [
       "case-pdf:2008-13_Meyerhoff_v_Chesapeake",
       "minutes:ga38_2010"
@@ -3662,13 +3952,41 @@
     "case:2008-16": [
       "minutes:ga38_2010"
     ],
+    "case:2008-17": [
+      "minutes:ga38_2010"
+    ],
     "case:2008-18": [
       "minutes:ga38_2010"
     ],
+    "case:2008-2": [
+      "minutes:ga36_2008"
+    ],
+    "case:2008-3": [
+      "minutes:ga37_2009"
+    ],
+    "case:2008-4": [
+      "minutes:ga37_2009"
+    ],
+    "case:2008-5": [
+      "minutes:ga37_2009"
+    ],
+    "case:2008-6": [
+      "minutes:ga37_2009"
+    ],
+    "case:2008-7": [
+      "minutes:ga37_2009"
+    ],
+    "case:2008-8": [
+      "minutes:ga37_2009"
+    ],
     "case:2008-9": [
-      "case-pdf:2008-09_RedMountain_v_Evangel"
+      "case-pdf:2008-09_RedMountain_v_Evangel",
+      "minutes:ga36_2008"
     ],
     "case:2009-1": [
+      "minutes:ga38_2010"
+    ],
+    "case:2009-10": [
       "minutes:ga38_2010"
     ],
     "case:2009-11": [
@@ -3678,8 +3996,21 @@
     "case:2009-12": [
       "minutes:ga39_2011"
     ],
+    "case:2009-13": [
+      "minutes:ga38_2010"
+    ],
+    "case:2009-14": [
+      "minutes:ga38_2010"
+    ],
+    "case:2009-15": [
+      "minutes:ga38_2010"
+    ],
     "case:2009-16": [
-      "minutes:ga40_2012"
+      "minutes:ga40_2012",
+      "minutes:ga37_2009"
+    ],
+    "case:2009-17": [
+      "minutes:ga38_2010"
     ],
     "case:2009-2": [
       "minutes:ga38_2010"
@@ -3702,10 +4033,22 @@
     "case:2009-26": [
       "minutes:ga39_2011"
     ],
+    "case:2009-27": [
+      "minutes:ga38_2010"
+    ],
     "case:2009-28": [
       "case-pdf:2009-28_Ruff_v_Nashville",
       "case-pdf:2011-18_Ruff_v_Nashville",
       "minutes:ga39_2011"
+    ],
+    "case:2009-29": [
+      "minutes:ga38_2010"
+    ],
+    "case:2009-3": [
+      "minutes:ga38_2010"
+    ],
+    "case:2009-32": [
+      "minutes:ga38_2010"
     ],
     "case:2009-5": [
       "case-pdf:2009-05-08-09-10_Payne_Linton_Lyons_Woodward_v_WesternCarolina",
@@ -3719,8 +4062,17 @@
       "case-pdf:2009-07_Urish_v_RockyMountain",
       "minutes:ga38_2010"
     ],
+    "case:2009-8": [
+      "minutes:ga38_2010"
+    ],
+    "case:2009-9": [
+      "minutes:ga38_2010"
+    ],
     "case:2010-1": [
       "minutes:ga40_2012"
+    ],
+    "case:2010-14": [
+      "minutes:ga38_2010"
     ],
     "case:2010-15": [
       "minutes:ga39_2011"
@@ -3728,11 +4080,17 @@
     "case:2010-16": [
       "minutes:ga39_2011"
     ],
+    "case:2010-17": [
+      "minutes:ga39_2011"
+    ],
     "case:2010-18": [
       "minutes:ga39_2011"
     ],
     "case:2010-19": [
       "minutes:ga39_2011"
+    ],
+    "case:2010-2": [
+      "minutes:ga38_2010"
     ],
     "case:2010-20": [
       "minutes:ga39_2011"
@@ -3749,6 +4107,9 @@
     "case:2010-24": [
       "minutes:ga40_2012"
     ],
+    "case:2010-25": [
+      "minutes:ga39_2011"
+    ],
     "case:2010-26": [
       "minutes:ga40_2012"
     ],
@@ -3764,6 +4125,18 @@
     ],
     "case:2010-4": [
       "case-pdf:2010-04_Sartorius_v_Siouxlands",
+      "minutes:ga39_2011"
+    ],
+    "case:2010-5": [
+      "minutes:ga38_2010"
+    ],
+    "case:2010-6": [
+      "minutes:ga38_2010"
+    ],
+    "case:2010-7": [
+      "minutes:ga39_2011"
+    ],
+    "case:2010-8": [
       "minutes:ga39_2011"
     ],
     "case:2011-1": [
@@ -3806,6 +4179,9 @@
     "case:2011-18": [
       "case-pdf:2011-18_Ruff_v_Nashville",
       "minutes:ga41_2013"
+    ],
+    "case:2011-19": [
+      "minutes:ga40_2012"
     ],
     "case:2011-2": [
       "minutes:ga40_2012"
@@ -3858,7 +4234,8 @@
       "minutes:ga42_2014"
     ],
     "case:2012-8": [
-      "minutes:ga41_2013"
+      "minutes:ga41_2013",
+      "minutes:ga43_2015"
     ],
     "case:2012-9": [
       "minutes:ga41_2013"
@@ -3875,6 +4252,9 @@
     "case:2013-12": [
       "minutes:ga43_2015"
     ],
+    "case:2013-2": [
+      "minutes:ga42_2014"
+    ],
     "case:2013-3": [
       "minutes:ga43_2015"
     ],
@@ -3889,6 +4269,9 @@
     ],
     "case:2013-8": [
       "minutes:ga43_2015"
+    ],
+    "case:2013-9": [
+      "minutes:ga42_2014"
     ],
     "case:2014-1": [
       "case-pdf:2014-01_Aven-Dively_v_OhioValley",
@@ -3952,7 +4335,7 @@
     ],
     "case:2016-10": [
       "case-pdf:2016-10_In_Re_Korean_Northwest",
-      "minutes:ga46_2018"
+      "minutes:ga10_1982"
     ],
     "case:2016-11": [
       "case-pdf:2016-11_Frazier_v_Nashville",
@@ -4021,8 +4404,20 @@
       "case-pdf:2017-12_In_Re_PlatteValley",
       "minutes:ga46_2018"
     ],
+    "case:2017-13": [
+      "minutes:ga46_2018"
+    ],
     "case:2017-2": [
       "case-pdf:2017-02_Postles_v_Heritage",
+      "minutes:ga46_2018"
+    ],
+    "case:2017-3": [
+      "minutes:ga46_2018"
+    ],
+    "case:2017-4": [
+      "minutes:ga46_2018"
+    ],
+    "case:2017-5": [
       "minutes:ga46_2018"
     ],
     "case:2017-6": [
@@ -4030,6 +4425,12 @@
       "minutes:ga46_2018"
     ],
     "case:2017-7": [
+      "minutes:ga46_2018"
+    ],
+    "case:2017-8": [
+      "minutes:ga46_2018"
+    ],
+    "case:2017-9": [
       "minutes:ga46_2018"
     ],
     "case:2018-1": [
@@ -4212,7 +4613,7 @@
     ],
     "case:2021-8": [
       "case-pdf:2021-08_Citation_Korean_SWOrange",
-      "minutes:ga49_2022"
+      "minutes:ga14_1986"
     ],
     "case:2021-9": [
       "minutes:ga49_2022"
@@ -4473,6 +4874,134 @@
     ],
     "case:75-6": [
       "minutes:ga22_1994"
+    ],
+    "case::p106": [
+      "minutes:ga32_2004"
+    ],
+    "case::p115": [
+      "minutes:ga33_2005"
+    ],
+    "case::p119": [
+      "minutes:ga33_2005"
+    ],
+    "case::p125": [
+      "minutes:ga33_2005"
+    ],
+    "case::p126": [
+      "minutes:ga30_2002"
+    ],
+    "case::p129": [
+      "minutes:ga13_1985",
+      "minutes:ga30_2002",
+      "case-pdf:2007-08_Jones_v_Louisiana",
+      "case-pdf:2007-14_PCA_v_Louisiana",
+      "minutes:ga36_2008"
+    ],
+    "case::p130": [
+      "case-pdf:2004-03_Harris_v_Heritage",
+      "minutes:ga33_2005"
+    ],
+    "case::p133": [
+      "minutes:ga33_2005"
+    ],
+    "case::p141": [
+      "minutes:ga30_2002"
+    ],
+    "case::p144": [
+      "minutes:ga33_2005"
+    ],
+    "case::p146": [
+      "minutes:ga30_2002"
+    ],
+    "case::p148": [
+      "minutes:ga05_1977",
+      "minutes:ga30_2002"
+    ],
+    "case::p151": [
+      "minutes:ga30_2002"
+    ],
+    "case::p153": [
+      "minutes:ga30_2002"
+    ],
+    "case::p156": [
+      "minutes:ga30_2002"
+    ],
+    "case::p162": [
+      "minutes:ga30_2002"
+    ],
+    "case::p174": [
+      "minutes:ga30_2002"
+    ],
+    "case::p184": [
+      "minutes:ga38_2010"
+    ],
+    "case::p193": [
+      "minutes:ga38_2010"
+    ],
+    "case::p217": [
+      "minutes:ga21_1993"
+    ],
+    "case::p220": [
+      "minutes:ga10_1982"
+    ],
+    "case::p237": [
+      "case-pdf:2009-07_Urish_v_RockyMountain",
+      "minutes:ga38_2010"
+    ],
+    "case::p244": [
+      "minutes:ga13_1985"
+    ],
+    "case::p283": [
+      "minutes:ga36_2008"
+    ],
+    "case::p502": [
+      "minutes:ga46_2018"
+    ],
+    "case::p533": [
+      "minutes:ga40_2012"
+    ],
+    "case::p553": [
+      "minutes:ga41_2013"
+    ],
+    "case::p589": [
+      "minutes:ga46_2018"
+    ],
+    "case::p590": [
+      "minutes:ga46_2018"
+    ],
+    "case::p591": [
+      "minutes:ga46_2018"
+    ],
+    "case::p704": [
+      "minutes:ga49_2022"
+    ],
+    "case::p72": [
+      "minutes:ga29_2001"
+    ],
+    "case::p73": [
+      "minutes:ga11_1983"
+    ],
+    "case::p74": [
+      "minutes:ga33_2005"
+    ],
+    "case::p79": [
+      "minutes:ga25_1997"
+    ],
+    "case::p82": [
+      "minutes:ga25_1997"
+    ],
+    "case::p83": [
+      "case-pdf:2006-07_Chastain_v_Heritage_appeal",
+      "minutes:ga35_2007"
+    ],
+    "case::p887": [
+      "minutes:ga49_2022"
+    ],
+    "case::p916": [
+      "minutes:ga51_2024"
+    ],
+    "case::p933": [
+      "minutes:ga51_2024"
     ],
     "case:Constitutional Inquiry 1": [
       "minutes:ga16_1988"
@@ -4738,9 +5267,6 @@
     "case:ga21_1993:p166": [
       "minutes:ga21_1993"
     ],
-    "case:ga21_1993:p217": [
-      "minutes:ga21_1993"
-    ],
     "case:ga21_1993:p229": [
       "minutes:ga21_1993"
     ],
@@ -4958,9 +5484,6 @@
       "minutes:ga33_2005"
     ],
     "case:ga33_2005:p58": [
-      "minutes:ga33_2005"
-    ],
-    "case:ga33_2005:p74": [
       "minutes:ga33_2005"
     ],
     "case:ga34_2006:p128": [
@@ -77172,8 +77695,8 @@
   },
   "coverage": {
     "cases": {
-      "records": 645,
-      "with_source": 645
+      "records": 827,
+      "with_source": 827
     },
     "inquiries": {
       "records": 436,
