@@ -51568,6 +51568,37 @@
  {
   "provision": "BCO 34-1",
   "case_numbers": [
+   "2020-2"
+  ],
+  "title": "In the Matter of BCO 34-1 Requests to Assume Original Jurisdiction",
+  "body": "SJC",
+  "year": 2022,
+  "disposition": "other",
+  "synopsis": "The SJC answered BCO 34-1 requests from three presbyteries to assume original jurisdiction by reference to the SJC's prior decisions in Case 2020-12 and Case 2020-05, both involving TE Ryan Speck v. Missouri Presbytery. RE Mel Duncan requested that his negative vote be recorded.",
+  "url": "cases/ga49_2022__2020-02.md",
+  "sources": [
+   "case_markdown_text",
+   "cases.jsonl:bco_cited_as",
+   "cases.jsonl:bco_cited_current"
+  ],
+  "evidence": [
+   {
+    "line": 17,
+    "snippet": "# 2020-02 — In the Matter of BCO 34-1 Requests to Assume Original Jurisdiction"
+   },
+   {
+    "line": 27,
+    "snippet": "### CASE NO. 2020-02 In the Matter of BCO 34-1 Requests to Assume Original Jurisdiction March 3, 2022"
+   },
+   {
+    "line": 29,
+    "snippet": "The SJC answers the BCO 34-1 requests from Central Georgia, Southeast Alabama, and Savannah River Presbyteries (2020 Overtures 2, 4 and 25), by reference to the SJC's October 21, 2021, Decision in Case 2020-12: TE Ryan Speck v. Missouri Presbytery and the SJC’"
+   }
+  ]
+ },
+ {
+  "provision": "BCO 34-1",
+  "case_numbers": [
    "2020-5"
   ],
   "title": "Speck v. Missouri Presbytery",
