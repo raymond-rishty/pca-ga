@@ -80,7 +80,6 @@ AUDITED_FALSE_FALLBACK_PAGES = {
     ("ga48_2021", 1115),
 }
 PRESERVE_FALLBACK_PAGES = {
-    ("ga49_2022", 842),  # 2020-2, BCO 34-1 original-jurisdiction requests
     ("ga49_2022", 886),  # 2021-7, Acree complaint administratively out of order
 }
 

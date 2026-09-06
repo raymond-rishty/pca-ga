@@ -10,5 +10,23 @@
     "file": "ga28_2000__1998-10",
     "numbers": ["1998-10"],
     "title": "Curtis v. Eastern Carolina Presbytery"
+  },
+  "2020-02": {
+    "vol": "ga49_2022",
+    "file": "ga49_2022__2020-02",
+    "numbers": ["2020-02"],
+    "title": "In the Matter of BCO 34-1 Requests to Assume Original Jurisdiction"
+  },
+  "2020-2": {
+    "vol": "ga49_2022",
+    "file": "ga49_2022__2020-02",
+    "numbers": ["2020-02"],
+    "title": "In the Matter of BCO 34-1 Requests to Assume Original Jurisdiction"
+  },
+  "2020-7": {
+    "vol": "ga49_2022",
+    "file": "ga49_2022__2020-09",
+    "numbers": ["2020-07", "2020-08", "2020-09"],
+    "title": "RE SEAN OZBALT AND RE ERIN BARR V. PACIFIC PRESBYTERY"
   }
 }

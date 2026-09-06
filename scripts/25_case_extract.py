@@ -60,6 +60,7 @@ _MARK = re.compile(r"(?i)summary of (the )?facts|statement of the (issue|facts|c
                    r"nature of the case|^\s*\**\s*(?:I|1)\.\s|the following decision|"
                    r"^\s*\**\s*decision\b|recommendation|on the merits|judgment|"
                    r"reasoning and opinion|out of order|the (standing judicial )?commission finds|"
+                   r"the (?:SJC|standing judicial commission) (?:answers|finds|rules|approves|advises)\b|"
                    r"the case is dismiss|the (complaint|appeal) is (dismiss|denied|sustain)|"
                    r"roll call vote")
 
