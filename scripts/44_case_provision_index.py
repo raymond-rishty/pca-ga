@@ -393,19 +393,25 @@ def main() -> None:
             by_prov[prov]["sources"].add("case_markdown_text")
             by_prov[prov]["evidence"].extend(hits[:8])
 
+        targets = case_records if len(case_records) > 1 else [None]
         for prov, audit in sorted(by_prov.items(), key=lambda kv: prov_sort_key(kv[0])):
-            rows.append({
-                "provision": prov,
-                "case_numbers": nums,
-                "title": title,
-                "body": body,
-                "year": year,
-                "disposition": disposition,
-                "synopsis": synopsis,
-                "url": f"cases/{file_stem}.md",
-                "sources": sorted(audit["sources"]),
-                "evidence": audit["evidence"],
-            })
+            for target in targets:
+                target_nums = [norm_case_num(target["case_number"])] if target else nums
+                target_title = (target.get("title") if target else title) or title
+                target_disposition = (target.get("disposition") if target else disposition) or ""
+                target_synopsis = (target.get("synopsis") if target else synopsis) or synopsis
+                rows.append({
+                    "provision": prov,
+                    "case_numbers": target_nums,
+                    "title": target_title,
+                    "body": (target.get("body") if target else body) or body,
+                    "year": (target.get("year") if target else year) or year,
+                    "disposition": target_disposition,
+                    "synopsis": target_synopsis,
+                    "url": f"cases/{file_stem}.md",
+                    "sources": sorted(audit["sources"]),
+                    "evidence": audit["evidence"],
+                })
 
     rows.sort(key=lambda r: (prov_sort_key(r["provision"]), r.get("year") or 0, r["title"]))
     (IDX / "case_provision_index.json").write_text(json.dumps(rows, ensure_ascii=False, indent=1) + "\n", encoding="utf-8")

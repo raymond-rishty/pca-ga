@@ -921,10 +921,17 @@ def build_case_refs(site_dir: Path) -> dict[str, str]:
     refs: dict[str, str] = {}
     if not case_dir.is_dir():
         return refs
-    for path in case_dir.glob("*.html"):
+    for path in sorted(case_dir.glob("*.html")):
         match = re.search(r"__(\d{4}-\d{2})(?:[_-]|\.)", path.name)
         if match:
-            refs[match.group(1)] = path.relative_to(site_dir).as_posix()
+            candidate = path.relative_to(site_dir).as_posix()
+            ga_match = re.match(r"cases/ga(\d+)_", candidate)
+            candidate_ga = int(ga_match.group(1)) if ga_match else -1
+            existing = refs.get(match.group(1))
+            existing_match = re.match(r"cases/ga(\d+)_", existing or "")
+            existing_ga = int(existing_match.group(1)) if existing_match else -1
+            if existing is None or candidate_ga > existing_ga:
+                refs[match.group(1)] = candidate
     return refs
 
 

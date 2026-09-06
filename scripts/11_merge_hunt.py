@@ -1,9 +1,11 @@
 #!/usr/bin/env python3
 """
 11_merge_hunt.py — fold hunt results (index/hunt/found/*.json) into the case index.
-Each found case carries its canonical identity from the official roster; we add it as a
-real case record (decision) or a findable mention (mention_only/withdrawn), resolve its
-BCO cites to current numbers, and dedup against cases already present. Run AFTER 07.
+Each located case carries its canonical identity from the official roster; we add it as
+a real case record (decision) or a findable mention (mention_only/withdrawn), resolve its
+BCO cites to current numbers, and dedup against cases already present. ``not_found``
+results remain audit evidence under ``index/hunt/found`` but are not canonical cases.
+Run AFTER 07.
 
 Pipeline:  07_build_cases.py  ->  11_merge_hunt.py  ->  09_reconcile_roster.py --enrich  ->  08_index_cases.py build
 
@@ -112,8 +114,12 @@ def main():
         except Exception:
             pass
 
-    added = skipped = mentions = demoted = 0
+    added = skipped = mentions = demoted = unresolved = 0
     for f in found:
+        status = f.get("status")
+        if status == "not_found":
+            unresolved += 1
+            continue
         cn = f.get("case_number")
         key = rec09.norm(cn)
         if not key:
@@ -149,7 +155,6 @@ def main():
         for b in bco_as:
             cur, _ = conc.resolve(b, year) if year else (b, [])
             bco_cur.append(cur); chap_cur.add(cur.split("-")[0])
-        status = f.get("status")
         rec = {
             "case_id": key, "case_number": key,
             "case_number_raw": cn,
@@ -183,7 +188,8 @@ def main():
         for c in cases:
             f.write(json.dumps(c, ensure_ascii=False) + "\n")
     print(f"[merge-hunt] found={len(found)}  added={added} (mention/withdrawn={mentions})  "
-          f"skipped-correct={skipped}  demoted-misnumbered={demoted}")
+          f"not-found={unresolved}  skipped-correct={skipped}  "
+          f"demoted-misnumbered={demoted}")
     print(f"             cases.jsonl now {len(cases)} rows")
 
 

@@ -1,0 +1,238 @@
+[
+  {
+    "case_number": "1992-1",
+    "title": "Smith v. Northeast Presbytery",
+    "parties": {
+      "complainant_or_appellant": "Frank J. Smith",
+      "respondent_or_court": "Northeast Presbytery"
+    },
+    "body": "SJC",
+    "ga_ordinal": 21,
+    "year": 1993,
+    "pdf_page_start": 196,
+    "pdf_page_end": 200,
+    "printed_page_start": 194,
+    "printed_page_end": 198,
+    "disposition": "sustained",
+    "vote": "unanimous",
+    "has_dissent": false,
+    "bco_cited_as": ["5-1", "11-4", "13-1", "15-5", "25-12", "43-2"],
+    "topics": [
+      "standing to complain",
+      "membership after dissolution",
+      "pastoral care of dissolved congregation",
+      "presbytery jurisdiction",
+      "remand"
+    ],
+    "synopsis": "Frank J. Smith complained against Northeast Presbytery after Grace Presbyterian Church was dissolved and its members were placed under Presbytery's care. The SJC ruled the complaint in order, sustained it, and returned the matter to Presbytery for adjudication, holding that dissolution did not eliminate Presbytery's pastoral responsibility or Smith's standing in the pending case."
+  },
+  {
+    "case_number": "1992-2",
+    "title": "Roberts v. New River Presbytery",
+    "parties": {
+      "complainant_or_appellant": "Virgil B. Roberts",
+      "respondent_or_court": "New River Presbytery"
+    },
+    "body": "SJC",
+    "ga_ordinal": 21,
+    "year": 1993,
+    "pdf_page_start": 201,
+    "pdf_page_end": 211,
+    "printed_page_start": 199,
+    "printed_page_end": 209,
+    "disposition": "sustained",
+    "vote": "16-3",
+    "has_dissent": true,
+    "bco_cited_as": ["13-9", "15-5", "16-2", "21-1", "23-1", "24-6"],
+    "topics": [
+      "dissolution of pastoral relationship",
+      "presbytery authority",
+      "congregational request",
+      "ministerial call",
+      "pastoral care"
+    ],
+    "synopsis": "Virgil B. Roberts complained that New River Presbytery delayed dissolving his pastoral relationship after he resigned and the congregation concurred. The SJC sustained the complaint, concluding that Presbytery should have acted on the agreed request rather than withholding dissolution; three commissioners dissented concerning Presbytery's constitutional authority and pastoral discretion."
+  },
+  {
+    "case_number": "1993-1",
+    "title": "Smith v. Northeast Presbytery",
+    "parties": {
+      "complainant_or_appellant": "Frank J. Smith",
+      "respondent_or_court": "Northeast Presbytery"
+    },
+    "body": "SJC",
+    "ga_ordinal": 22,
+    "year": 1994,
+    "pdf_page_start": 98,
+    "pdf_page_end": 108,
+    "printed_page_start": 96,
+    "printed_page_end": 106,
+    "source_pdf": null,
+    "disposition": "denied",
+    "vote": "20-2",
+    "has_dissent": true,
+    "bco_cited_as": ["Preliminary Principle 2", "3-2", "3-4", "5-2", "5-3", "11-1", "11-4", "25-12", "31-1", "43-3", "45-5"],
+    "topics": [
+      "dissolved congregation",
+      "presbytery administrative commission",
+      "church membership",
+      "jurisdiction",
+      "complaint procedure",
+      "constitutional rights"
+    ],
+    "synopsis": "Frank J. Smith challenged Northeast Presbytery's actions surrounding the dissolution of Grace Presbyterian Church and the administration of its former members. The SJC denied the complaint by a 20-2 vote, with a dissent disputing the majority's treatment of the complainant's constitutional and procedural claims.",
+    "description": "Decision of the Standing Judicial Commission in Case 93-1, Frank J. Smith v. Northeast Presbytery, including the statement of facts, issues, judgment, reasoning, roll-call vote, and dissent."
+  },
+  {
+    "case_number": "1993-2",
+    "title": "Johnson v. Evangel Presbytery",
+    "parties": {
+      "complainant_or_appellant": "Edgar Davis Johnson",
+      "respondent_or_court": "Evangel Presbytery"
+    },
+    "body": "SJC",
+    "ga_ordinal": 22,
+    "year": 1994,
+    "pdf_page_start": 109,
+    "pdf_page_end": 111,
+    "printed_page_start": 107,
+    "printed_page_end": 109,
+    "disposition": "not_sustained",
+    "vote": "21-1",
+    "has_dissent": true,
+    "bco_cited_as": ["26-1", "30-3"],
+    "topics": [
+      "appeal",
+      "divorce",
+      "spiritual desertion",
+      "church discipline",
+      "Westminster Confession 24.6"
+    ],
+    "synopsis": "Edgar Davis Johnson appealed Evangel Presbytery's judgment in a disciplinary case arising from his pursuit of divorce on a claim of spiritual desertion. The SJC did not sustain the appeal, approving the proposed decision by a 21-1 vote."
+  },
+  {
+    "case_number": "1996-6",
+    "description": "Case 96-6 was dismissed as judicially out of order because the parties could not agree on the Record of the Case."
+  },
+  {
+    "case_number": "1998-10",
+    "pdf_page_end": 239,
+    "printed_page_end": 237,
+    "vote": "14-5 (3 recused, 2 absent)",
+    "bco_cited_as": ["43-1", "43-2"]
+  },
+  {
+    "case_number": "2000-2",
+    "title": "Adams v. Northeast Presbytery",
+    "parties": {
+      "complainant_or_appellant": "TE Philip J. Adams",
+      "respondent_or_court": "Northeast Presbytery"
+    },
+    "body": "SJC",
+    "ga_ordinal": 29,
+    "year": 2001,
+    "pdf_page_start": 124,
+    "pdf_page_end": 126,
+    "printed_page_start": 122,
+    "printed_page_end": 124,
+    "source_pdf": null,
+    "disposition": "out_of_order",
+    "vote": "17 concur; 1 concur in part and dissent in part; 5 absent",
+    "has_dissent": true,
+    "bco_cited_as": ["32-13", "32-17", "32-19", "35-4", "35-5", "35-11", "43-1"],
+    "topics": [
+      "complaint during appeal",
+      "appellate review",
+      "acquittal",
+      "retrial",
+      "administratively out of order",
+      "judicial procedure"
+    ],
+    "synopsis": "TE Philip J. Adams complained about a Northeast Presbytery judicial matter while a related appeal was pending and sought a retrial of charges on which the accused had been acquitted. The SJC ruled the complaint administratively out of order under BCO 43-1 and because the requested relief was unavailable. A separate opinion concurred in the result but dissented from part of the reasoning and urged clarification of appellate review after an acquittal.",
+    "description": "Decision and separate opinion in Case 00-2, TE Philip J. Adams v. Northeast Presbytery, addressing complaints during an appeal and the scope of appellate review following acquittal."
+  },
+  {
+    "case_number": "2002-2",
+    "title": "Nichols and Couch v. James River Presbytery (Case 2002-02)",
+    "parties": {
+      "complainant_or_appellant": "RE Leland Nichols and RE Sam Couch",
+      "respondent_or_court": "James River Presbytery"
+    },
+    "ga_ordinal": 33,
+    "year": 2005,
+    "pdf_page_start": 74,
+    "pdf_page_end": 100,
+    "printed_page_start": 72,
+    "printed_page_end": 98,
+    "vote": "13-3 (1 disqualified, 2 recused, 5 absent)",
+    "has_dissent": true,
+    "bco_cited_as": ["13-9.f", "13-9c", "14-7", "16-2", "20-4", "23-1", "25-11", "43-1", "43-2", "43-2-2"],
+    "topics": [
+      "complaint in order",
+      "pastoral relationship",
+      "presbytery jurisdiction",
+      "lower court process",
+      "consolidated judicial cases"
+    ],
+    "synopsis": "Case 2002-02 was adjudicated with Cases 2001-34 and 2002-03 in the dispute over James River Presbytery's handling of the requested dissolution of a pastoral relationship. The SJC held that all complaints assigned to this docket were judicially out of order and addressed the related in-order complaints under the companion dockets in a consolidated judgment."
+  },
+  {
+    "case_number": "2001-34",
+    "title": "Nichols and Couch v. James River Presbytery (Case 2001-34)",
+    "parties": {
+      "complainant_or_appellant": "RE Leland Nichols and RE Sam Couch",
+      "respondent_or_court": "James River Presbytery"
+    },
+    "body": "SJC",
+    "ga_ordinal": 33,
+    "year": 2005,
+    "pdf_page_start": 74,
+    "pdf_page_end": 100,
+    "printed_page_start": 72,
+    "printed_page_end": 98,
+    "source_pdf": null,
+    "disposition": "partially_sustained",
+    "vote": "13-3 (1 disqualified, 2 recused, 5 absent)",
+    "has_dissent": true,
+    "bco_cited_as": ["13-9.f", "13-9c", "14-7", "16-2", "20-4", "23-1", "25-11", "43-1", "43-2", "43-2-2"],
+    "topics": [
+      "dissolution of pastoral relationship",
+      "presbytery delay",
+      "complaint procedure",
+      "salary gift",
+      "consolidated judicial cases"
+    ],
+    "synopsis": "Case 2001-34 was decided with Cases 2002-02 and 2002-03. The SJC ruled one constituent complaint out of order, sustained the central challenge to James River Presbytery's delay in acting on a proper congregational request to dissolve a pastoral relationship, and denied the challenge to Presbytery's salary gift. The consolidated decision drew concurring and dissenting opinions.",
+    "description": "Consolidated Standing Judicial Commission decision in Cases 2001-34, 2002-02, and 2002-03 concerning James River Presbytery's handling of a requested pastoral dissolution and related complaints."
+  },
+  {
+    "case_number": "2002-3",
+    "title": "Nichols and Couch v. James River Presbytery (Case 2002-03)",
+    "parties": {
+      "complainant_or_appellant": "RE Leland Nichols and RE Sam Couch",
+      "respondent_or_court": "James River Presbytery"
+    },
+    "body": "SJC",
+    "ga_ordinal": 33,
+    "year": 2005,
+    "pdf_page_start": 74,
+    "pdf_page_end": 100,
+    "printed_page_start": 72,
+    "printed_page_end": 98,
+    "source_pdf": null,
+    "disposition": "partially_sustained",
+    "vote": "13-3 (1 disqualified, 2 recused, 5 absent)",
+    "has_dissent": true,
+    "bco_cited_as": ["13-9.f", "13-9c", "14-7", "16-2", "20-4", "23-1", "25-11", "43-1", "43-2", "43-2-2"],
+    "topics": [
+      "dissolution of pastoral relationship",
+      "presbytery delay",
+      "complaint procedure",
+      "salary gift",
+      "pastoral discretion",
+      "consolidated judicial cases"
+    ],
+    "synopsis": "Case 2002-03 was decided with Cases 2001-34 and 2002-02. The SJC ruled some constituent complaints out of order but sustained the central complaint that James River Presbytery unduly delayed acting on a congregation's proper request to dissolve its pastoral relationship; it denied a related complaint concerning a salary gift. The consolidated decision drew concurring and dissenting opinions.",
+    "description": "Consolidated Standing Judicial Commission decision in Cases 2001-34, 2002-02, and 2002-03 concerning James River Presbytery's handling of a requested pastoral dissolution and related complaints."
+  }
+]
