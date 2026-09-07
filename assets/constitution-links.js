@@ -164,7 +164,7 @@
 
     current.hidden = false;
     document.body.classList.add('constitution-sheet-open');
-    current.querySelector('[data-constitution-close]')?.focus();
+    current.querySelector('.constitution-sheet__close')?.focus();
 
     try {
       if (book === 'bco') {
