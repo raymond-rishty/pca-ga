@@ -72,13 +72,14 @@
   <title>{% if page_type == 'home' %}PCA General Assembly Minutes{% elsif page_ga_num %}{{ page_ga_num }}{{ page_ga_suffix }} GA ({{ page_ga_year }}){% if page_case_id %} — Case {{ page_case_id }}{% endif %} · PCA General Assembly Minutes{% elsif page.title %}{{ page.title }} · PCA General Assembly Minutes{% else %}PCA General Assembly Minutes{% endif %}</title>
 </head>
 <body data-page-type="{{ page_type }}">
+  <a class="skip-link" href="#content">Skip to main content</a>
   <div class="sidebar-overlay" id="sidebarOverlay"></div>
 
   <nav class="sidebar" id="sidebar" aria-label="Research menu">
     <div class="sb-header">
       <a class="sb-title" href="{{ '/' | relative_url }}">Research Menu</a>
       <button class="sb-close" id="sidebarClose" aria-label="Close navigation">
-        <svg width="14" height="14" viewBox="0 0 16 16" fill="none">
+        <svg width="14" height="14" viewBox="0 0 16 16" fill="none" aria-hidden="true">
           <path d="M2 2L14 14M14 2L2 14" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/>
         </svg>
       </button>
@@ -87,31 +88,31 @@
     <form class="sb-search" action="{{ '/' | relative_url }}" method="get" role="search">
       <label class="visually-hidden" for="menu-search-input">Search records</label>
       <svg width="19" height="19" viewBox="0 0 24 24" fill="none" aria-hidden="true"><circle cx="11" cy="11" r="6.5" stroke="currentColor" stroke-width="1.8"/><path d="m16 16 4 4" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/></svg>
-      <input id="menu-search-input" name="q" type="search" placeholder="Search records…">
+      <input id="menu-search-input" name="q" type="search" autocomplete="off" placeholder="Search records…">
     </form>
 
     <div class="sb-section-label">Browse</div>
     <ul class="sb-list">
-      <li><a href="{{ '/browse.html#provisions' | relative_url }}"><span class="sb-icon">§</span>By constitutional provision</a></li>
-      <li><a href="{{ '/index/CASES.html' | relative_url }}"><span class="sb-icon">⚖</span>Judicial cases</a></li>
-      <li><a href="{{ '/index/OVERTURES.html' | relative_url }}"><span class="sb-icon">▤</span>Overtures &amp; amendments</a></li>
-      <li><a href="{{ '/index/RPR.html' | relative_url }}"><span class="sb-icon">✓</span>RPR exceptions</a></li>
-      <li><a href="{{ '/index/INQUIRIES.html' | relative_url }}"><span class="sb-icon">?</span>Constitutional inquiries</a></li>
-      <li><a href="{{ '/index/STUDIES.html' | relative_url }}"><span class="sb-icon">▭</span>Studies &amp; position papers</a></li>
-      <li><a href="{{ '/index/INDEX.html' | relative_url }}"><span class="sb-icon">▣</span>Assemblies &amp; minutes</a></li>
+      <li><a href="{{ '/browse.html#provisions' | relative_url }}"><span class="sb-icon" aria-hidden="true">§</span>By constitutional provision</a></li>
+      <li><a href="{{ '/index/CASES.html' | relative_url }}"><span class="sb-icon" aria-hidden="true">⚖</span>Judicial cases</a></li>
+      <li><a href="{{ '/index/OVERTURES.html' | relative_url }}"><span class="sb-icon" aria-hidden="true">▤</span>Overtures &amp; amendments</a></li>
+      <li><a href="{{ '/index/RPR.html' | relative_url }}"><span class="sb-icon" aria-hidden="true">✓</span>RPR exceptions</a></li>
+      <li><a href="{{ '/index/INQUIRIES.html' | relative_url }}"><span class="sb-icon" aria-hidden="true">?</span>Constitutional inquiries</a></li>
+      <li><a href="{{ '/index/STUDIES.html' | relative_url }}"><span class="sb-icon" aria-hidden="true">▭</span>Studies &amp; position papers</a></li>
+      <li><a href="{{ '/index/INDEX.html' | relative_url }}"><span class="sb-icon" aria-hidden="true">▣</span>Assemblies &amp; minutes</a></li>
     </ul>
 
     <div class="sb-section-label sb-divider">Research tools</div>
     <ul class="sb-list">
-      <li><a href="{{ '/ask.html' | relative_url }}"><span class="sb-icon">✦</span>AI research prompt</a></li>
-      <li><a href="{{ '/research.html' | relative_url }}"><span class="sb-icon">▱</span>My research</a></li>
+      <li><a href="{{ '/ask.html' | relative_url }}"><span class="sb-icon" aria-hidden="true">✦</span>AI research prompt</a></li>
+      <li><a href="{{ '/research.html' | relative_url }}"><span class="sb-icon" aria-hidden="true">▱</span>My research</a></li>
     </ul>
 
     <div class="sb-section-label sb-divider">About &amp; access</div>
     <ul class="sb-list">
-      <li><a href="{{ '/about.html' | relative_url }}"><span class="sb-icon">i</span>About this corpus</a></li>
-      <li><a href="{{ '/llms.txt' | relative_url }}"><span class="sb-icon">&lt;/&gt;</span>Data &amp; agent access</a></li>
-      <li><button class="sb-share" type="button" data-share-app><span class="sb-icon">↗</span>Share this app</button></li>
+      <li><a href="{{ '/about.html' | relative_url }}"><span class="sb-icon" aria-hidden="true">i</span>About this corpus</a></li>
+      <li><a href="{{ '/llms.txt' | relative_url }}"><span class="sb-icon" aria-hidden="true">&lt;/&gt;</span>Data &amp; agent access</a></li>
+      <li><button class="sb-share" type="button" data-share-app><span class="sb-icon" aria-hidden="true">↗</span>Share this app</button></li>
     </ul>
   </nav>
 

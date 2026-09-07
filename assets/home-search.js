@@ -125,7 +125,10 @@
     renderResults();
     section.hidden = false;
     updateUrl(query);
-    if (scroll) section.scrollIntoView({ behavior: 'smooth', block: 'start' });
+    if (scroll) {
+      const behavior = window.matchMedia?.('(prefers-reduced-motion: reduce)').matches ? 'auto' : 'smooth';
+      section.scrollIntoView({ behavior, block: 'start' });
+    }
   }
 
   async function ensureData() {

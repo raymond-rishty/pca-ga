@@ -18,8 +18,8 @@ permalink: /research.html
   .bookshelf-preview h3 { margin: 0; color: var(--ink); font: 500 1.35rem/1.15 var(--serif); }
   .bookshelf-preview > p:not(.research-sheet__label) { margin: .65rem 0 0; color: var(--ink-muted); font-size: .85rem; line-height: 1.5; }
   .bookshelf-preview small { display: block; margin-top: .75rem; color: var(--ink-muted); font-size: 10px; }
-  .page-action-list button.is-primary { border-color: var(--ink); background: var(--ink); color: var(--parch); }
-  .page-action-list button.is-primary:hover { border-color: #2A3A5C; background: #2A3A5C; color: var(--parch); }
+  .page-action-list :is(button, a).is-primary { border-color: var(--ink); background: var(--ink); color: var(--parch); }
+  .page-action-list :is(button, a).is-primary:hover { border-color: #2A3A5C; background: #2A3A5C; color: var(--parch); }
   .page-action-list button.is-destructive { margin-top: .25rem; color: #8A2F29; }
   .page-action-list button.is-destructive:hover { border-color: #B96A62; background: #F9EDEC; color: #7A211C; }
   @media (max-width: 640px) {
@@ -40,7 +40,7 @@ permalink: /research.html
 </div>
 
 <section class="research-panel" id="saved-panel" role="tabpanel" aria-labelledby="saved-tab" data-research-panel="saved">
-  <label class="workspace-filter"><span aria-hidden="true">⌕</span><input type="search" id="savedFilter" placeholder="Filter bookshelf…"></label>
+  <label class="workspace-filter"><span class="visually-hidden">Filter bookshelf</span><span aria-hidden="true">⌕</span><input type="search" id="savedFilter" name="bookshelf-filter" autocomplete="off" placeholder="Filter bookshelf…"></label>
   <div class="research-list" id="savedList"></div>
   <div class="research-empty" id="savedEmpty" hidden>
     <strong>Your bookshelf is empty.</strong>
