@@ -1,8 +1,16 @@
-# Catalogue search
+# Federated catalogue and full-text search
 
-The home-page search is a static, client-side catalogue search. It loads the compact
-`app/search_index.json` file and ranks matching records in the browser, so it does not require
-an external search service, database, API key, or server-side query endpoint.
+The home-page search is a federated, static client-side search. One query runs against two
+indexes without requiring an external search service, database, API key, or server-side query
+endpoint:
+
+- The compact `app/search_index.json` catalogue ranks structured records in the browser.
+- Pagefind searches the rendered primary-source text and returns the best matching anchored
+  passage from each document.
+
+Use the **All**, **Catalogue**, and **Full text** controls to select both result groups or one of
+them. Record-type filters apply to both indexes, and the query, filters, and scope are retained
+in the URL.
 
 ## Search behavior
 
@@ -31,7 +39,10 @@ the record.
 | Overture | title, overture identifier, Assembly/year, sponsoring body, BCO references, subject/topic, outcome |
 | Study / position paper | title/topic, document identifier, Assembly/year, document kind |
 
-The index is intentionally a catalogue index rather than a full-text Minutes index. For a
-passage-level search across every page, the next useful step would be a generated static
-full-text index (for example Pagefind or a small SQLite/FTS build), while keeping the same
-record-level catalogue search as the first pass.
+## Full-text passage index
+
+Pagefind runs after Jekyll and the corpus-linking build steps, indexing the final HTML under
+`_site`. Shared navigation, search controls, and other page furniture are excluded; only marked
+primary-source content is indexed. Results link to the highest-ranked heading or section when
+the rendered document provides an anchor. The generated Pagefind files are included in the
+GitHub Pages artifact and loaded only when a full-text search is requested.

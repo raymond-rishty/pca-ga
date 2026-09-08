@@ -29,6 +29,14 @@
   {% assign page_type = 'record' %}
 {% endif %}
 
+{% assign pagefind_type = '' %}
+{% if page_type == 'volume' %}{% assign pagefind_type = 'General Assembly minutes' %}{% endif %}
+{% if page_type == 'case' %}{% assign pagefind_type = 'Judicial case' %}{% endif %}
+{% if page.layout == 'inquiry' %}{% assign pagefind_type = 'Constitutional inquiry' %}{% endif %}
+{% if page_type == 'rpr-exception' %}{% assign pagefind_type = 'RPR exception' %}{% endif %}
+{% if page_type == 'overture' %}{% assign pagefind_type = 'Overture' %}{% endif %}
+{% if page_type == 'study' %}{% assign pagefind_type = 'Position paper' %}{% endif %}
+
 {% comment %} Parse GA number and year from vol_slug (e.g. ga19_1991) {% endcomment %}
 {% if vol_slug %}
   {% assign vol_parts = vol_slug | split: '_' %}
@@ -54,6 +62,11 @@
   <link rel="icon" href="{{ '/icon.svg' | relative_url }}" type="image/svg+xml">
   <link rel="apple-touch-icon" href="{{ '/icon-192.png' | relative_url }}">
   <meta name="description" content="{{ site.description }}">
+  {% if pagefind_type != '' %}
+    <meta data-pagefind-meta="type[content]" data-pagefind-filter="type[content]" content="{{ pagefind_type }}">
+    {% if page.title %}<meta data-pagefind-meta="title[content]" content="{{ page.title | escape }}">{% endif %}
+    {% if page_ga_year %}<meta data-pagefind-meta="year[content]" data-pagefind-filter="year[content]" content="{{ page_ga_year }}">{% endif %}
+  {% endif %}
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Crimson+Pro:ital,wght@0,300;0,400;0,500;0,600;1,300;1,400&family=DM+Sans:wght@300;400;500&display=swap" rel="stylesheet">
@@ -183,7 +196,7 @@
     </header>
 
     <main class="page-main{% if page_type == 'home' %} page-main--home{% endif %}{% if page_type == 'browse' or page_type == 'research' %} page-main--workspace{% endif %}" id="content">
-      <article class="reading-col{% if page_type == 'home' %} reading-col--home{% endif %}{% if page_type == 'browse' or page_type == 'research' %} reading-col--workspace{% endif %}">
+      <article class="reading-col{% if page_type == 'home' %} reading-col--home{% endif %}{% if page_type == 'browse' or page_type == 'research' %} reading-col--workspace{% endif %}"{% if pagefind_type != '' %} data-pagefind-body{% endif %}>
         {% if page_type == 'case' %}
           <div class="record-return" id="recordReturn" hidden>
             <a id="recordReturnLink" href="#">← Back to results</a>
@@ -245,6 +258,7 @@
   {% if page_type == 'home' %}
     <script src="{{ '/assets/search-record.js' | relative_url }}" defer></script>
     <script src="{{ '/assets/search-engine.js' | relative_url }}" defer></script>
+    <script src="{{ '/assets/pagefind-search.js' | relative_url }}" defer></script>
     <script src="{{ '/assets/home-search.js' | relative_url }}" defer></script>
   {% endif %}
   {% if page_type == 'research' %}
