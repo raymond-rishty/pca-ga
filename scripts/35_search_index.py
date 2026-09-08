@@ -5,7 +5,7 @@ Combines the compact per-catalogue exports into one client-side search index:
   - RPR exceptions of substance      (index/rpr_search.json, written by 33_rpr_build)
   - Constitutional inquiries         (index/inquiries_search.json, written by 30_inquiry_pages)
   - Judicial cases                   (index/case_pages_map.json)
-  - Overtures                        (parsed from index/OVERTURES.md; each links to the verbatim minutes)
+  - Overtures                        (from curated title/disposition/body metadata, with catalogue fallback)
 Each record has display metadata plus explicit searchable fields. The browser search consumes
 title, identifiers, assembly/year, parties, BCO references, topics, summaries, status, and
 record context. CCB advice on overtures is deliberately NOT indexed (low value for the app
@@ -28,14 +28,22 @@ def load(name):
     return json.load(open(p, encoding="utf-8")) if os.path.exists(p) else []
 
 
+def load_jsonl(name):
+    p = os.path.join(IDX, name)
+    if not os.path.exists(p):
+        return []
+    with open(p, encoding="utf-8") as source:
+        return [json.loads(line) for line in source if line.strip()]
+
+
 _HEAD = re.compile(r"^##\s+.*General Assembly\s*\((\d{4})\)")
 _LINK = re.compile(r"\]\(\.\./([^)#]+(?:#[^)]+)?)\)")   # first ../<path>[#anchor]
 _PROV = re.compile(r"BCO\s+\d+-\d+(?:\.[0-9a-z]+)*", re.I)
 _CASE_PAGE = re.compile(r"\.\./cases/([^)]+\.md)")
 
 
-def parse_overtures():
-    """Parse index/OVERTURES.md into search records, each linked to the verbatim minutes page."""
+def parse_overture_catalogue():
+    """Parse index/OVERTURES.md when the structured overture artifacts are unavailable."""
     p = os.path.join(IDX, "OVERTURES.md")
     if not os.path.exists(p):
         return []
@@ -67,6 +75,70 @@ def parse_overtures():
                     "provisions": sorted({m.split()[-1] for m in _PROV.findall(subject)}),
                     "year": year, "disposition": outcome, "url": url})
     return out
+
+
+def curated_overtures():
+    """Build the complete overture search set from page-keyed curated artifacts.
+
+    OVERTURES.md is currently derived from OCR heading detection and can omit records when a
+    heading is missed. The disposition, title, and body artifacts preserve the pre-render
+    occurrence set and exact Minutes page, so they are the authoritative search-index input.
+    """
+    dispositions = load_jsonl("overture_dispositions.jsonl")
+    titles = load_jsonl("overture_titles.jsonl")
+    bodies = load_jsonl("overture_bodies.jsonl")
+    if not dispositions or not titles or not bodies:
+        return []
+
+    def occurrence_key(record):
+        return (record.get("vol"), str(record.get("number")), record.get("pdf_page"))
+
+    title_by_occurrence = {
+        occurrence_key(record): (record.get("title") or "").strip()
+        for record in titles
+    }
+    source_by_occurrence = {
+        occurrence_key(record): (record.get("source") or "").strip()
+        for record in bodies
+    }
+
+    def sort_key(record):
+        volume = str(record.get("vol") or "")
+        assembly = re.match(r"ga(\d+)", volume)
+        return (int(assembly.group(1)) if assembly else 999,
+                int(record.get("number") or 0), int(record.get("pdf_page") or 0))
+
+    out = []
+    for record in sorted(dispositions, key=sort_key):
+        key = occurrence_key(record)
+        title = title_by_occurrence.get(key, "")
+        if not title:
+            continue
+        volume = str(record.get("vol") or "")
+        volume_match = re.match(r"ga\d+_(\d{4})$", volume)
+        year = int(volume_match.group(1)) if volume_match else None
+        number = int(record["number"])
+        page = record.get("pdf_page")
+        source = source_by_occurrence.get(key, "")
+        url = f"markdown/{volume}.md"
+        if page:
+            url += f"#{volume.split('_')[0]}-p{page}"
+        provisions = {f"BCO {value}" for value in (record.get("bco") or []) if value}
+        provisions.update(match.upper() for match in _PROV.findall(title))
+        out.append({"type": "Overture", "title": title,
+                    "sub": f"Overture {number}" + (f" · {source}" if source else ""),
+                    "identifier": f"Overture {number}",
+                    "identifiers": [f"Overture {number}"],
+                    "topics": [title], "provisions": sorted(provisions),
+                    "year": year,
+                    "disposition": record.get("final_disposition") or record.get("disposition") or "",
+                    "url": url})
+    return out
+
+
+def overture_records():
+    """Prefer complete curated metadata, retaining the Markdown catalogue as a portable fallback."""
+    return curated_overtures() or parse_overture_catalogue()
 
 
 def case_index_summaries():
@@ -115,7 +187,7 @@ def main():
                      "topics": [r["title"]], "provisions": r.get("provisions", []),
                      "year": r.get("year"), "disposition": r.get("disposition", ""), "url": r["url"]})
 
-    rows.extend(parse_overtures())
+    rows.extend(overture_records())
 
     # Build case_number -> BCO provisions lookup from cases.jsonl
     def _norm_num(n):
