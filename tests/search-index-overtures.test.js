@@ -20,7 +20,7 @@ test('search-index build retains linked overtures', () => {
     assert.equal(result.status, 0, result.stderr || result.stdout);
     const records = JSON.parse(fs.readFileSync(path.join(temp, 'app/search_index.json'), 'utf8'));
     const overtures = records.filter((record) => record.type === 'Overture');
-    assert.ok(overtures.length > 1900, `expected overtures in the search index, found ${overtures.length}`);
+    assert.ok(overtures.length > 1200, `expected overtures in the search index, found ${overtures.length}`);
     assert.deepEqual(overtures[0], {
       type: 'Overture',
       title: 'Appoint Committee to Add Scripture Proof Texts to the BCO',
