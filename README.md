@@ -20,6 +20,7 @@ You don't have to browse this by hand. Point **any AI assistant that can browse 
 - **[Review of Presbytery Records](index/RPR.md)** — every **exception of substance** taken to a presbytery's minutes (the constitutional-compliance record), threaded across the years it was disputed (raised → satisfactory/unsatisfactory), with the full verbatim text, deep links, and SJC escalations. Also **[by provision](index/RPR-BY-PROVISION.md)**. *"Which presbyteries were cited under this BCO provision, and was it resolved?"*
 - **[Position papers & study committee reports](index/STUDIES.md)** — the denomination's position papers: study-committee / ad-interim reports, pastoral letters, declarations, and adopted resolutions, each linking to the **full verbatim report** in the minutes (grouped by topic, following the PCA Historical Center's *Studies & Reports* index). *"What has the PCA officially said on this topic?"*
 - **[Per-volume outlines](index/outlines/)** + the full **[corpus index](index/INDEX.md)**.
+- **[Search behavior and indexed fields](docs/search.md)** — how keyword, phrase, and identifier searches are matched.
 
 ## The volumes
 

@@ -10,12 +10,12 @@ description: Search 52 volumes of PCA General Assembly minutes, judicial cases, 
     <p class="home-deck">Search the denomination’s recorded decisions, debates, judicial cases, constitutional advice, and study reports. Then open the related minutes and read them in context.</p>
 
     <form class="home-search" action="./" method="get" role="search">
-      <label class="visually-hidden" for="home-search-input">Search corpus records</label>
+      <label class="visually-hidden" for="home-search-input">Search catalogue records and full-text passages</label>
       <svg class="home-search__icon" width="20" height="20" viewBox="0 0 24 24" fill="none" aria-hidden="true">
         <circle cx="11" cy="11" r="6.5" stroke="currentColor" stroke-width="1.7"/>
         <path d="m16 16 4 4" stroke="currentColor" stroke-width="1.7" stroke-linecap="round"/>
       </svg>
-      <input id="home-search-input" name="q" type="search" enterkeyhint="search" autocomplete="off" placeholder="Search records: a BCO provision, case, presbytery, or topic…">
+      <input id="home-search-input" name="q" type="search" enterkeyhint="search" autocomplete="off" placeholder="Search records and full text: a provision, phrase, case, or topic…">
       <button type="submit">Search</button>
     </form>
 
@@ -38,15 +38,37 @@ description: Search 52 volumes of PCA General Assembly minutes, judicial cases, 
   <section class="home-results" id="search-results" aria-labelledby="search-results-title" hidden>
     <div class="home-results__heading">
       <div>
-        <p class="section-kicker">Catalogue search</p>
+        <p class="section-kicker">Catalogue + full text</p>
         <h2 id="search-results-title">Search results</h2>
       </div>
       <button class="home-results__clear" type="button" id="clear-search">Clear search</button>
     </div>
     <p class="home-results__meta" id="search-meta" role="status"></p>
+    <p class="home-results__scope" id="search-scope"></p>
+    <div class="home-results__modes" id="search-modes" role="group" aria-label="Choose the search scope">
+      <button type="button" data-search-mode="all" aria-pressed="true">All</button>
+      <button type="button" data-search-mode="catalogue" aria-pressed="false">Catalogue</button>
+      <button type="button" data-search-mode="fulltext" aria-pressed="false">Full text</button>
+    </div>
     <div class="home-results__filters" id="search-filters" role="group" aria-label="Filter results by record type"></div>
-    <div class="home-results__list" id="search-result-list"></div>
-    <p class="home-results__more" id="search-more" hidden><button type="button" id="show-more-results">Show more results</button></p>
+    <section class="home-results__group" id="catalogue-results-group" aria-labelledby="catalogue-results-title">
+      <div class="home-results__subheading">
+        <h3 id="catalogue-results-title">Catalogue records</h3>
+        <p id="catalogue-results-meta"></p>
+      </div>
+      <div class="home-results__list" id="search-result-list"></div>
+      <div class="home-results__empty" id="search-empty" hidden></div>
+      <p class="home-results__more" id="search-more" hidden><button type="button" id="show-more-results">Show more records</button></p>
+    </section>
+    <section class="home-results__group home-results__group--passages" id="passage-results-group" aria-labelledby="passage-results-title">
+      <div class="home-results__subheading">
+        <h3 id="passage-results-title">Matching passages</h3>
+        <p id="passage-results-meta" role="status"></p>
+      </div>
+      <div class="home-results__list" id="passage-result-list"></div>
+      <div class="home-results__empty" id="passage-results-empty" hidden></div>
+      <p class="home-results__more" id="passage-results-more" hidden><button type="button" id="show-more-passages">Show more passages</button></p>
+    </section>
   </section>
 
   <section class="home-section" id="catalogues" aria-labelledby="catalogues-title">
