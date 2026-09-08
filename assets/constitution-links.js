@@ -52,8 +52,9 @@
   function closeSheet() {
     const current = ensureSheet();
     current.hidden = true;
+    window.PCAFocus?.closeModal(current);
     document.body.classList.remove('constitution-sheet-open');
-    lastTrigger?.focus?.();
+    if (lastTrigger?.isConnected) lastTrigger.focus();
   }
 
   function loadBcoChapter(chapter) {
@@ -163,8 +164,9 @@
     copy.onclick = () => copyCitation(citationLabel, copy);
 
     current.hidden = false;
+    window.PCAFocus?.openModal(current);
     document.body.classList.add('constitution-sheet-open');
-    current.querySelector('[data-constitution-close]')?.focus();
+    current.querySelector('.constitution-sheet__close')?.focus();
 
     try {
       if (book === 'bco') {

@@ -43,32 +43,102 @@
     showToast.timeout = window.setTimeout(() => toast.classList.remove('visible'), 2200);
   }
 
+  const FOCUSABLE = 'a[href], area[href], button:not([disabled]), input:not([disabled]), select:not([disabled]), textarea:not([disabled]), [tabindex]:not([tabindex="-1"])';
+  let activeModal = null;
+  let modalBackground = new Map();
+
+  function focusableIn(container) {
+    return [...container.querySelectorAll(FOCUSABLE)].filter((element) => !element.closest('[hidden]') && !element.closest('[inert]'));
+  }
+
+  function openModal(element) {
+    if (activeModal && activeModal !== element) closeModal(activeModal);
+    activeModal = element;
+    modalBackground = new Map();
+    document.querySelectorAll('body > *').forEach((sibling) => {
+      if (sibling === element) return;
+      modalBackground.set(sibling, sibling.inert);
+      sibling.inert = true;
+    });
+  }
+
+  function closeModal(element) {
+    if (element && activeModal !== element) return;
+    modalBackground.forEach((wasInert, sibling) => { sibling.inert = wasInert; });
+    modalBackground.clear();
+    activeModal = null;
+  }
+
+  function trapFocus(element, event) {
+    if (event.key !== 'Tab') return false;
+    const items = focusableIn(element);
+    if (!items.length) {
+      event.preventDefault();
+      return true;
+    }
+    const first = items[0];
+    const last = items[items.length - 1];
+    if (!element.contains(document.activeElement)) {
+      event.preventDefault();
+      first.focus();
+    } else if (event.shiftKey && document.activeElement === first) {
+      event.preventDefault();
+      last.focus();
+    } else if (!event.shiftKey && document.activeElement === last) {
+      event.preventDefault();
+      first.focus();
+    }
+    return true;
+  }
+
+  window.PCAFocus = { openModal, closeModal, trapFocus };
+
   function openSidebar() {
+    sidebar?.removeAttribute('inert');
     sidebar?.classList.add('open');
     overlay?.classList.add('active');
     menuBtn?.setAttribute('aria-expanded', 'true');
     document.body.style.overflow = 'hidden';
+    sbClose?.focus();
   }
 
   function closeSidebar() {
+    const wasOpen = sidebar?.classList.contains('open');
     sidebar?.classList.remove('open');
+    sidebar?.setAttribute('inert', '');
     overlay?.classList.remove('active');
     menuBtn?.setAttribute('aria-expanded', 'false');
     document.body.style.overflow = '';
+    if (wasOpen) menuBtn?.focus();
   }
 
   menuBtn?.addEventListener('click', () => sidebar?.classList.contains('open') ? closeSidebar() : openSidebar());
   sbClose?.addEventListener('click', closeSidebar);
   overlay?.addEventListener('click', closeSidebar);
   document.addEventListener('keydown', (event) => {
-    if (event.key !== 'Escape') return;
-    if (!document.getElementById('pageFind')?.hidden) { closePageFind(); return; }
-    if ([...document.querySelectorAll('.research-sheet')].some((sheet) => !sheet.hidden)) closeResearchSheets();
-    else closeSidebar();
+    const pageFind = document.getElementById('pageFind');
+    if (event.key === 'Escape') {
+      if (pageFind && !pageFind.hidden) { closePageFind(); return; }
+      const openSheet = [...document.querySelectorAll('.research-sheet, .constitution-sheet, .scripture-sheet')].find((sheet) => !sheet.hidden);
+      if (openSheet) {
+        openSheet.querySelector('button[data-sheet-close], button[data-constitution-close], button[data-scripture-close]')?.click();
+        return;
+      }
+      if (sidebar?.classList.contains('open')) { closeSidebar(); return; }
+    }
+    if (event.key === 'Tab') {
+      const openSheet = [...document.querySelectorAll('.research-sheet, .constitution-sheet, .scripture-sheet')].find((sheet) => !sheet.hidden);
+      if (openSheet && trapFocus(openSheet.querySelector('[role="dialog"]') || openSheet, event)) return;
+      if (sidebar?.classList.contains('open')) trapFocus(sidebar, event);
+    }
   });
 
   function pageUrl() {
     return `${location.origin}${location.pathname}`;
+  }
+
+  function scrollBehavior() {
+    return window.matchMedia?.('(prefers-reduced-motion: reduce)').matches ? 'auto' : 'smooth';
   }
 
   function sourceCitation(header) {
@@ -113,14 +183,16 @@
   }
 
   let activeCitation;
+  let activeSheetOpener;
   let activePage;
   let citationFormat = 'full';
 
-  function openCitation(meta) {
+  function openCitation(meta, opener) {
     activeCitation = meta;
     citationFormat = 'full';
     const sheet = document.getElementById('citationSheet') || createSheet();
     closeResearchSheets();
+    activeSheetOpener = opener;
     sheet.hidden = false;
     document.body.classList.add('sheet-open');
     updateCitationSheet();
@@ -132,8 +204,12 @@
   }
 
   function closeResearchSheets() {
+    const opener = activeSheetOpener;
+    activeSheetOpener = null;
     document.querySelectorAll('.research-sheet').forEach((sheet) => sheet.setAttribute('hidden', ''));
+    closeModal();
     document.body.classList.remove('sheet-open');
+    if (opener?.isConnected) opener.focus();
   }
 
   function updateCitationSheet() {
@@ -175,7 +251,7 @@
       setSave(saved);
       showToast(saved ? 'Added to your bookshelf' : 'Removed from your bookshelf');
     });
-    header.querySelector('[data-record-cite]')?.addEventListener('click', () => openCitation(meta));
+    header.querySelector('[data-record-cite]')?.addEventListener('click', (event) => openCitation(meta, event.currentTarget));
     header.querySelector('[data-record-share]')?.addEventListener('click', async () => {
       try {
         if (navigator.share) await navigator.share({ title: meta.title, text: meta.short, url: meta.url });
@@ -305,6 +381,8 @@
     const sourceUrl = sourcePdfUrlForMeta(meta);
     button.hidden = !sourceUrl;
     button.dataset.sourceUrl = sourceUrl || '';
+    if (sourceUrl) button.setAttribute('href', sourceUrl);
+    else button.removeAttribute('href');
     button.innerHTML = '<span aria-hidden="true">↗</span><span>Open source PDF</span>';
   }
 
@@ -323,7 +401,7 @@
           <button type="button" data-page-action="cite">${ICONS.cite}<span>Copy citation</span></button>
           <button type="button" data-page-action="link">${ICONS.link}<span>Copy page link</span></button>
           <button type="button" data-page-action="share">${ICONS.share}<span>Share page</span></button>
-          <button type="button" data-page-action="source-pdf" hidden></button>
+          <a href="#" data-page-action="source-pdf" target="_blank" rel="noopener noreferrer" hidden></a>
         </div>
       </section>`;
     document.body.appendChild(sheet);
@@ -337,10 +415,11 @@
     button.innerHTML = `${ICONS.page(saved)}<span>${saved ? 'Saved to bookshelf' : 'Save to bookshelf'}</span>`;
   }
 
-  function openPageActions(meta) {
+  function openPageActions(meta, opener) {
     activePage = meta;
     const sheet = document.getElementById('pageActionSheet') || createPageActionSheet();
     closeResearchSheets();
+    activeSheetOpener = opener;
     sheet.querySelector('#pageActionTitle').textContent = meta.short;
     sheet.querySelector('#pageActionContext').textContent = meta.printed
       ? meta.printedSource === 'inferred'
@@ -382,8 +461,10 @@
       return;
     }
     if (action === 'source-pdf') {
+      // Keep a fallback for an older cached sheet; the current path is the anchor href.
       const sourceUrl = button.dataset.sourceUrl;
-      if (sourceUrl) window.open(sourceUrl, '_blank', 'noopener,noreferrer');
+      if (sourceUrl && !button.getAttribute('href')) window.open(sourceUrl, '_blank', 'noopener,noreferrer');
+      return;
     }
   });
 
@@ -405,7 +486,7 @@
       markdown: `[${label}](${page}) — ${title}.`,
       sourcePdfUrl: new URL(sourceUrl, location.href).href,
       printed: true,
-    });
+    }, button);
   });
 
   function decoratePageMarkers() {
@@ -448,7 +529,7 @@
       const anchor = printed ? `ga${ga}-p${page}` : `ga${ga}-pdf-p${page}`;
       marker.id = anchor;
       marker.innerHTML = `<a href="#${anchor}">${meta.short}</a><button type="button" class="page-marker__actions" aria-label="Actions for ${meta.short}">${ICONS.page()}<span>Page actions</span></button>`;
-      marker.querySelector('button').addEventListener('click', () => openPageActions(meta));
+      marker.querySelector('button').addEventListener('click', (event) => openPageActions(meta, event.currentTarget));
       comment.replaceWith(marker);
     });
 
@@ -534,8 +615,12 @@
     jump.innerHTML = `<label for="provisionJump">Jump to</label><select id="provisionJump"><option value="">Choose a provision…</option>${options}</select>`;
     provisions[0].before(jump);
     jump.querySelector('select').addEventListener('change', (event) => {
+      if (!event.target.value) return;
       const target = document.querySelector(event.target.value);
-      if (target) target.scrollIntoView({ behavior: 'smooth', block: 'start' });
+      if (target) {
+        history.pushState({}, '', `#${target.id}`);
+        target.scrollIntoView({ behavior: scrollBehavior(), block: 'start' });
+      }
     });
   }
 
@@ -634,6 +719,7 @@
   renderBrowseRecent();
 
   const pageFindState = { matches: [], index: -1, query: '' };
+  let pageFindOpener;
 
   function pageFindRoots() {
     return [...document.querySelectorAll('.reading-col')];
@@ -648,7 +734,7 @@
     finder.setAttribute('aria-label', 'Find in page');
     finder.innerHTML = `<label class="visually-hidden" for="pageFindInput">Find in page</label>
       <svg width="18" height="18" viewBox="0 0 24 24" fill="none" aria-hidden="true"><circle cx="11" cy="11" r="6.5" stroke="currentColor" stroke-width="1.8"/><path d="m16 16 4 4" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/></svg>
-      <input id="pageFindInput" type="search" autocomplete="off" enterkeyhint="search" placeholder="Find in this page">
+      <input id="pageFindInput" name="page-find" type="search" autocomplete="off" enterkeyhint="search" placeholder="Find in this page…">
       <output id="pageFindCount" aria-live="polite"></output>
       <button type="button" class="page-find__step" data-page-find-previous aria-label="Previous match">‹</button>
       <button type="button" class="page-find__step" data-page-find-next aria-label="Next match">›</button>
@@ -712,7 +798,7 @@
     }
     finder?.classList.remove('page-find--empty');
     count.textContent = `${pageFindState.index + 1} of ${total}`;
-    if (scroll) active.startContainer.parentElement?.scrollIntoView({ behavior: 'smooth', block: 'center' });
+    if (scroll) active.startContainer.parentElement?.scrollIntoView({ behavior: scrollBehavior(), block: 'center' });
   }
 
   function updatePageFind(query) {
@@ -727,8 +813,9 @@
     showPageFindMatch(0);
   }
 
-  function openPageFind() {
+  function openPageFind(opener) {
     const finder = document.getElementById('pageFind') || createPageFind();
+    pageFindOpener = opener || document.querySelector('[data-page-find-open]');
     finder.hidden = false;
     const input = finder.querySelector('input');
     input.focus();
@@ -738,15 +825,18 @@
   function closePageFind() {
     const finder = document.getElementById('pageFind');
     if (!finder) return;
+    const opener = pageFindOpener;
+    pageFindOpener = null;
     finder.hidden = true;
     clearPageFindHighlights();
     pageFindState.query = '';
     const selection = getSelection();
     selection.removeAllRanges();
+    if (opener?.isConnected) opener.focus();
   }
 
   document.addEventListener('click', (event) => {
-    if (event.target.closest('[data-page-find-open]')) { openPageFind(); return; }
+    if (event.target.closest('[data-page-find-open]')) { openPageFind(event.target.closest('[data-page-find-open]')); return; }
     if (event.target.closest('[data-page-find-close]')) { closePageFind(); return; }
     if (event.target.closest('[data-page-find-previous]')) { showPageFindMatch(pageFindState.index - 1); return; }
     if (event.target.closest('[data-page-find-next]')) { showPageFindMatch(pageFindState.index + 1); }
