@@ -9,7 +9,14 @@ test('search-index build retains linked overtures', () => {
   const root = path.resolve(__dirname, '..');
   const temp = fs.mkdtempSync(path.join(os.tmpdir(), 'pca-ga-search-index-'));
   fs.mkdirSync(path.join(temp, 'index'));
-  fs.copyFileSync(path.join(root, 'index/OVERTURES.md'), path.join(temp, 'index/OVERTURES.md'));
+  for (const filename of [
+    'OVERTURES.md',
+    'overture_bodies.jsonl',
+    'overture_dispositions.jsonl',
+    'overture_titles.jsonl',
+  ]) {
+    fs.copyFileSync(path.join(root, 'index', filename), path.join(temp, 'index', filename));
+  }
   fs.mkdirSync(path.join(temp, 'app'));
 
   try {
