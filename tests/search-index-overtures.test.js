@@ -8,7 +8,15 @@ const { test } = require('node:test');
 test('search-index build retains linked overtures', () => {
   const root = path.resolve(__dirname, '..');
   const temp = fs.mkdtempSync(path.join(os.tmpdir(), 'pca-ga-search-index-'));
-  fs.symlinkSync(path.join(root, 'index'), path.join(temp, 'index'), 'dir');
+  fs.mkdirSync(path.join(temp, 'index'));
+  for (const filename of [
+    'OVERTURES.md',
+    'overture_bodies.jsonl',
+    'overture_dispositions.jsonl',
+    'overture_titles.jsonl',
+  ]) {
+    fs.copyFileSync(path.join(root, 'index', filename), path.join(temp, 'index', filename));
+  }
   fs.mkdirSync(path.join(temp, 'app'));
 
   try {
@@ -24,6 +32,9 @@ test('search-index build retains linked overtures', () => {
       type: 'Overture',
       title: 'Leave Presbytery Boundaries Fluid Through 1974 and Consult Before Changes',
       sub: 'Overture 1 · LF Coast Presbytery',
+      identifier: 'Overture 1',
+      identifiers: ['Overture 1'],
+      topics: ['Leave Presbytery Boundaries Fluid Through 1974 and Consult Before Changes'],
       provisions: [],
       year: 1973,
       disposition: 'Adopted (final)',
