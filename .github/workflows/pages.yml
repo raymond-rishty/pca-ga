@@ -44,6 +44,8 @@ jobs:
           python3 scripts/37_overture_pages.py .
       - name: Reconcile judicial case artifacts
         run: python3 scripts/27_case_index_reconcile.py
+      - name: Rebuild catalogue search index
+        run: python3 scripts/35_search_index.py .
       - name: Generate BCO provision manifests
         run: python3 scripts/45_bco_manifests.py . --out api/bco
       - name: Regenerate LLM distribution
@@ -67,7 +69,7 @@ jobs:
       - name: Test source registry
         run: python3 tests/test_source_registry.py
       - name: Test focused Node regressions
-        run: node --test tests/source-pdf-links.test.js tests/minutes-back-to-top.test.js tests/minutes-page-source-pdf.test.js
+        run: node --test tests/source-pdf-links.test.js tests/minutes-back-to-top.test.js tests/minutes-page-source-pdf.test.js tests/search-engine.test.js tests/search-record.test.js tests/search-index-overtures.test.js
       - name: Add source PDF metadata to extracted documents
         run: python3 scripts/add_extracted_source_pdf_metadata.py .
       - name: Validate footnote pairing

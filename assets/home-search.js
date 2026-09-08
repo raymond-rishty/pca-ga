@@ -1,26 +1,29 @@
 (() => {
   const PAGE_SIZE = 30;
   const VISIBLE_PROVISIONS = 4;
-  const CASE_SUMMARY_FILES = ['app/case_summaries_1.json', 'app/case_summaries_2.json'];
   const presenter = window.PcaSearchRecord;
+  const engine = window.PcaSearchEngine;
   const TAGS = presenter?.CATEGORIES || {};
 
   const form = document.querySelector('.home-search');
   const input = document.querySelector('#home-search-input');
   const section = document.querySelector('#search-results');
   const meta = document.querySelector('#search-meta');
+  const scope = document.querySelector('#search-scope');
   const filters = document.querySelector('#search-filters');
   const list = document.querySelector('#search-result-list');
+  const empty = document.querySelector('#search-empty');
   const more = document.querySelector('#search-more');
   const moreButton = document.querySelector('#show-more-results');
   const clearButton = document.querySelector('#clear-search');
-  if (!form || !input || !section || !presenter) return;
+  if (!form || !input || !section || !presenter || !engine) return;
 
   let data;
   let shown = 0;
   let activeTypes = new Set();
   let results = [];
   let terms = [];
+  let currentSearch;
 
   const esc = (value) => String(value || '').replace(/[&<>]/g, (character) => ({
     '&': '&amp;', '<': '&lt;', '>': '&gt;'
@@ -34,16 +37,6 @@
       text = text.replace(new RegExp(`(${escaped})`, 'ig'), '<mark>$1</mark>');
     }
     return text;
-  }
-
-  function score(record) {
-    let score = 0;
-    for (const term of terms) {
-      const position = record._searchText.indexOf(term);
-      if (position < 0) return -1;
-      score += position < (record.title || '').length ? 3 : 1;
-    }
-    return score;
   }
 
   function updateUrl(query) {
@@ -74,9 +67,19 @@
     });
   }
 
+  function renderEmptyState() {
+    if (!empty || !currentSearch || currentSearch.total) {
+      if (empty) empty.hidden = true;
+      return;
+    }
+    empty.innerHTML = `<p>${esc(currentSearch.emptyReason)}</p>${currentSearch.suggestions.length
+      ? `<ul>${currentSearch.suggestions.map((suggestion) => `<li>${esc(suggestion)}</li>`).join('')}</ul>` : ''}`;
+    empty.hidden = false;
+  }
+
   function renderResults() {
     const slice = results.slice(0, shown);
-    list.innerHTML = slice.map((record) => {
+    list.innerHTML = slice.map(({ record, matchedFields }) => {
       const view = presenter.formatRecord(record);
       const allProvisions = view.provisions;
       const provisions = allProvisions.slice(0, VISIBLE_PROVISIONS).map((provision) =>
@@ -94,6 +97,7 @@
       const facts = [
         view.status ? `<span class="home-result__fact"><b>${esc(view.statusLabel)}:</b> ${highlight(view.status)}</span>` : '',
         provisions ? `<span class="home-result__fact home-result__fact--provisions"><b>Cites:</b> ${provisions}${moreProvisions}</span>` : '',
+        matchedFields?.length ? `<span class="home-result__fact home-result__fact--matched"><b>Matched:</b> ${esc(matchedFields.map((field) => engine.FIELD_LABELS[field] || field).join(', '))}</span>` : '',
       ].filter(Boolean).join('');
       return `<a class="home-result home-result--${esc(view.category.className)}" href="${esc(view.href)}">
         <span class="home-result__metadata">${metadata}</span>
@@ -107,22 +111,16 @@
 
   function search(scroll) {
     const query = input.value.trim();
-    terms = query.toLowerCase().split(/\s+/).filter(Boolean);
-    let pool = data;
-    if (activeTypes.size) pool = pool.filter((record) => activeTypes.has(record.type));
-    if (terms.length) {
-      results = pool.map((record) => [score(record), record])
-        .filter(([recordScore]) => recordScore >= 0)
-        .sort((a, b) => b[0] - a[0] || (b[1].year || 0) - (a[1].year || 0))
-        .map(([, record]) => record);
-    } else {
-      results = pool.slice().sort((a, b) => (b.year || 0) - (a.year || 0));
-    }
+    currentSearch = engine.search(data, query, { types: activeTypes });
+    results = currentSearch.results;
+    terms = query.replace(/"/g, '').split(/\s+/).filter(Boolean);
     shown = PAGE_SIZE;
-    meta.textContent = results.length
-      ? `${results.length.toLocaleString()} result${results.length === 1 ? '' : 's'}${terms.length ? '' : ' (most recent first)'}`
-      : 'No matches. Try a presbytery, BCO provision, case party, or topic.';
+    meta.textContent = query
+      ? `Search for “${query}”: ${currentSearch.total.toLocaleString()} result${currentSearch.total === 1 ? '' : 's'}`
+      : `${currentSearch.total.toLocaleString()} records (most recent first)`;
+    scope.textContent = `Scope: ${currentSearch.scope} · fields: title, identifiers, Assembly/year, parties, BCO references, topics, summaries, status, and catalogue context`;
     renderResults();
+    renderEmptyState();
     section.hidden = false;
     updateUrl(query);
     if (scroll) {
@@ -137,24 +135,9 @@
     meta.textContent = 'Loading the catalogue…';
     list.innerHTML = '';
     try {
-      const responses = await Promise.all([
-        fetch('app/search_index.json'),
-        ...CASE_SUMMARY_FILES.map((path) => fetch(path))
-      ]);
-      if (responses.some((response) => !response.ok)) throw new Error('Search index unavailable');
-      data = await responses[0].json();
-      const summaries = Object.assign({}, ...(await Promise.all(responses.slice(1).map((response) => response.json()))));
-      data = data.filter((record) => {
-        if (record.type === 'Judicial case') {
-          const number = (record.sub || '').replace(/^SJC\/CJB case\s+/, '');
-          record.summary = summaries[number] || '';
-          return Boolean(record.summary);
-        }
-        return true;
-      });
-      data.forEach((record) => {
-        record._searchText = `${record.title || ''} ${record.summary || ''} ${record.sub || ''} ${record.disposition || ''} ${(record.provisions || []).join(' ')}`.toLowerCase();
-      });
+      const response = await fetch('app/search_index.json');
+      if (!response.ok) throw new Error('Search index unavailable');
+      data = await response.json();
       renderFilters();
     } catch {
       meta.textContent = 'The search catalogue could not be loaded. Please check your connection and try again.';
@@ -182,6 +165,7 @@
   clearButton.addEventListener('click', () => {
     input.value = '';
     activeTypes = new Set();
+    currentSearch = null;
     section.hidden = true;
     if (data) renderFilters();
     updateUrl('');
