@@ -5,10 +5,11 @@ Combines the compact per-catalogue exports into one client-side search index:
   - RPR exceptions of substance      (index/rpr_search.json, written by 33_rpr_build)
   - Constitutional inquiries         (index/inquiries_search.json, written by 30_inquiry_pages)
   - Judicial cases                   (index/case_pages_map.json)
-  - Overtures                        (parsed from index/OVERTURES.md; each links to the verbatim minutes)
-Each record: {type, title, sub, provisions, year, disposition, url} where url is relative to the
-site root (the root page links directly to <url>). CCB advice on overtures is deliberately
-NOT indexed (low value for the app audience); the overtures themselves are.
+  - Overtures                        (from curated title/disposition/body metadata, with catalogue fallback)
+Each record has display metadata plus explicit searchable fields. The browser search consumes
+title, identifiers, assembly/year, parties, BCO references, topics, summaries, status, and
+record context. CCB advice on overtures is deliberately NOT indexed (low value for the app
+audience); the overtures themselves are.
 
 Usage: 35_search_index.py [ROOT]   (default /workspace)
 """
@@ -27,14 +28,22 @@ def load(name):
     return json.load(open(p, encoding="utf-8")) if os.path.exists(p) else []
 
 
+def load_jsonl(name):
+    p = os.path.join(IDX, name)
+    if not os.path.exists(p):
+        return []
+    with open(p, encoding="utf-8") as source:
+        return [json.loads(line) for line in source if line.strip()]
+
+
 _HEAD = re.compile(r"^##\s+.*General Assembly\s*\((\d{4})\)")
 _LINK = re.compile(r"\]\(\.\./([^)#]+(?:#[^)]+)?)\)")   # first ../<path>[#anchor]
 _PROV = re.compile(r"BCO\s+\d+-\d+(?:\.[0-9a-z]+)*", re.I)
 _CASE_PAGE = re.compile(r"\.\./cases/([^)]+\.md)")
 
 
-def parse_overtures():
-    """Parse index/OVERTURES.md into search records, each linked to the verbatim minutes page."""
+def parse_overture_catalogue():
+    """Parse index/OVERTURES.md when the structured overture artifacts are unavailable."""
     p = os.path.join(IDX, "OVERTURES.md")
     if not os.path.exists(p):
         return []
@@ -47,8 +56,10 @@ def parse_overtures():
         if not line.startswith("| "):
             continue
         cells = [c.strip() for c in line.strip().strip("|").split("|")]
-        number_match = re.search(r"\[(\d+)\]", cells[0]) if cells else None
-        number = number_match.group(1) if number_match else None
+        number_cell = cells[0] if cells else ""
+        number_match = re.search(r"\[(\d+)\]", number_cell)
+        number = number_match.group(1) if number_match else number_cell
+        number = number if number.isdigit() else None
         if len(cells) < 5 or not number:   # skip header/separator/malformed
             continue
         num, subject, outcome, source, pages = number, cells[1], cells[2], cells[3], cells[4]
@@ -58,9 +69,76 @@ def parse_overtures():
         url = m.group(1) if m else "index/OVERTURES.md"
         out.append({"type": "Overture", "title": subject,
                     "sub": f"Overture {num}" + (f" · {source}" if source else ""),
+                    "identifier": f"Overture {int(num)}",
+                    "identifiers": [f"Overture {int(num)}"],
+                    "topics": [subject],
                     "provisions": sorted({m.split()[-1] for m in _PROV.findall(subject)}),
                     "year": year, "disposition": outcome, "url": url})
     return out
+
+
+def curated_overtures():
+    """Build the complete overture search set from page-keyed curated artifacts.
+
+    OVERTURES.md is currently derived from OCR heading detection and can omit records when a
+    heading is missed. The disposition, title, and body artifacts preserve the pre-render
+    occurrence set and exact Minutes page, so they are the authoritative search-index input.
+    """
+    dispositions = load_jsonl("overture_dispositions.jsonl")
+    titles = load_jsonl("overture_titles.jsonl")
+    bodies = load_jsonl("overture_bodies.jsonl")
+    if not dispositions or not titles or not bodies:
+        return []
+
+    def occurrence_key(record):
+        return (record.get("vol"), str(record.get("number")), record.get("pdf_page"))
+
+    title_by_occurrence = {
+        occurrence_key(record): (record.get("title") or "").strip()
+        for record in titles
+    }
+    source_by_occurrence = {
+        occurrence_key(record): (record.get("source") or "").strip()
+        for record in bodies
+    }
+
+    def sort_key(record):
+        volume = str(record.get("vol") or "")
+        assembly = re.match(r"ga(\d+)", volume)
+        return (int(assembly.group(1)) if assembly else 999,
+                int(record.get("number") or 0), int(record.get("pdf_page") or 0))
+
+    out = []
+    for record in sorted(dispositions, key=sort_key):
+        key = occurrence_key(record)
+        title = title_by_occurrence.get(key, "")
+        if not title:
+            continue
+        volume = str(record.get("vol") or "")
+        volume_match = re.match(r"ga\d+_(\d{4})$", volume)
+        year = int(volume_match.group(1)) if volume_match else None
+        number = int(record["number"])
+        page = record.get("pdf_page")
+        source = source_by_occurrence.get(key, "")
+        url = f"markdown/{volume}.md"
+        if page:
+            url += f"#{volume.split('_')[0]}-p{page}"
+        provisions = {f"BCO {value}" for value in (record.get("bco") or []) if value}
+        provisions.update(match.upper() for match in _PROV.findall(title))
+        out.append({"type": "Overture", "title": title,
+                    "sub": f"Overture {number}" + (f" · {source}" if source else ""),
+                    "identifier": f"Overture {number}",
+                    "identifiers": [f"Overture {number}"],
+                    "topics": [title], "provisions": sorted(provisions),
+                    "year": year,
+                    "disposition": record.get("final_disposition") or record.get("disposition") or "",
+                    "url": url})
+    return out
+
+
+def overture_records():
+    """Prefer complete curated metadata, retaining the Markdown catalogue as a portable fallback."""
+    return curated_overtures() or parse_overture_catalogue()
 
 
 def case_index_summaries():
@@ -87,19 +165,29 @@ def main():
     case_summaries = {}
 
     for r in load("rpr_search.json"):
+        exception = re.search(r"__(\d+)\.md$", r["url"])
+        identifier = f"Exception {int(exception.group(1))}" if exception else ""
         rows.append({"type": "RPR exception", "title": f"{r['presbytery']}: {r['title']}",
                      "sub": f"{r['presbytery']} Presbytery" + (" · ⚖️ SJC" if r.get("sjc") else ""),
+                     "identifier": identifier,
+                     "identifiers": [identifier] if identifier else [],
+                     "topics": [r["title"]],
                      "provisions": r.get("provisions", []), "year": r.get("year"),
                      "disposition": r.get("disposition", ""), "url": r["url"]})
 
     for r in load("inquiries_search.json"):
         if r["type"] == "ccb-advice":
             continue   # CCB advice on overtures — not indexed for the app
+        inquiry = re.search(r"__ci(\d+)\.md$", r["url"])
+        identifier = f"CCB inquiry {int(inquiry.group(1))}" if inquiry else ""
         rows.append({"type": "Constitutional inquiry",
-                     "title": r["title"], "sub": r.get("sub", ""), "provisions": r.get("provisions", []),
+                     "title": r["title"], "sub": r.get("sub", ""),
+                     "identifier": identifier,
+                     "identifiers": [identifier] if identifier else [],
+                     "topics": [r["title"]], "provisions": r.get("provisions", []),
                      "year": r.get("year"), "disposition": r.get("disposition", ""), "url": r["url"]})
 
-    rows.extend(parse_overtures())
+    rows.extend(overture_records())
 
     # Build case_number -> BCO provisions lookup from cases.jsonl
     def _norm_num(n):
@@ -110,6 +198,8 @@ def main():
     case_provs: dict = {}       # norm_num -> list of "BCO X-Y" strings
     case_disps: dict = {}       # norm_num -> disposition string
     case_synopses: dict = {}    # norm_num -> editorial case headnote
+    case_topics: dict = {}      # norm_num -> topics from the case metadata
+    case_parties: dict = {}     # norm_num -> party/court names from the case metadata
     case_synopses_by_title: dict = {}
     case_synopses_by_file = case_index_summaries()
     if os.path.exists(cases_jsonl_p):
@@ -128,6 +218,18 @@ def main():
                 case_provs[key] = sorted(set(case_provs.get(key, []) + bco))
             if c.get("disposition"):
                 case_disps[key] = c["disposition"]
+            topics = [str(topic) for topic in (c.get("topics") or []) if topic]
+            if topics:
+                case_topics[key] = sorted(set(case_topics.get(key, []) + topics))
+            parties = c.get("parties") or {}
+            if isinstance(parties, dict):
+                party_values = [parties.get(name) for name in (
+                    "raw", "complainant_or_appellant", "respondent_or_court")]
+            else:
+                party_values = [parties]
+            party_values = [str(value) for value in party_values if value]
+            if party_values:
+                case_parties[key] = sorted(set(case_parties.get(key, []) + party_values))
             if c.get("synopsis"):
                 case_synopses[key] = c["synopsis"]
                 case_synopses_by_title.setdefault(c.get("title"), c["synopsis"])
@@ -145,9 +247,13 @@ def main():
         # Gather provisions and disposition from all case numbers sharing this file
         file_provs: list = []
         file_disp = ""
+        file_topics: list = []
+        file_parties: list = []
         for n in c.get("numbers", [num]):
             key = _norm_num(n)
             file_provs.extend(case_provs.get(key, []))
+            file_topics.extend(case_topics.get(key, []))
+            file_parties.extend(case_parties.get(key, []))
             if not file_disp:
                 file_disp = case_disps.get(key, "")
         summary = case_synopses.get(_norm_num(num), "")
@@ -159,6 +265,11 @@ def main():
             summary = case_synopses_by_file.get(f"{c['file']}.md", "")
         row = {"type": "Judicial case", "title": c.get("title") or num,
                "sub": f"SJC/CJB case {num}",
+               "identifier": f"Case {num}",
+               "identifiers": [f"Case {n}" for n in c.get("numbers", [num])],
+               "parties": sorted(set(file_parties)),
+               "topics": sorted(set(file_topics)),
+               "summary": summary,
                "provisions": sorted(set(file_provs)),
                "year": int(m.group(1)) if m else None,
                "disposition": file_disp,
@@ -168,9 +279,13 @@ def main():
         rows.append(row)
 
     for r in load("studies_pages.json"):
+        topic = r.get("roster_topic") or r.get("topic") or r["title"]
         rows.append({"type": "Position paper",
-                     "title": r.get("roster_topic") or r.get("topic") or r["title"],
+                     "title": topic,
                      "sub": r.get("kind_label", ""), "provisions": [],
+                     "identifier": topic,
+                     "identifiers": [topic],
+                     "topics": [topic],
                      "year": r.get("year"), "disposition": "",
                      "url": f"studies/{r['file']}"})
 
