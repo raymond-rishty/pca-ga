@@ -1,29 +1,50 @@
 (() => {
-  const PAGE_SIZE = 30;
+  const RECORD_PAGE_SIZE = 30;
+  const PASSAGE_PAGE_SIZE = 10;
   const VISIBLE_PROVISIONS = 4;
-  const CASE_SUMMARY_FILES = ['app/case_summaries_1.json', 'app/case_summaries_2.json'];
   const presenter = window.PcaSearchRecord;
+  const engine = window.PcaSearchEngine;
+  const pageSearch = window.PcaPagefindSearch;
   const TAGS = presenter?.CATEGORIES || {};
+  const siteRoot = new URL('../', document.currentScript?.src || window.location.href);
 
   const form = document.querySelector('.home-search');
   const input = document.querySelector('#home-search-input');
   const section = document.querySelector('#search-results');
   const meta = document.querySelector('#search-meta');
+  const scope = document.querySelector('#search-scope');
+  const modes = document.querySelector('#search-modes');
   const filters = document.querySelector('#search-filters');
+  const catalogueGroup = document.querySelector('#catalogue-results-group');
+  const catalogueMeta = document.querySelector('#catalogue-results-meta');
   const list = document.querySelector('#search-result-list');
+  const empty = document.querySelector('#search-empty');
   const more = document.querySelector('#search-more');
   const moreButton = document.querySelector('#show-more-results');
+  const passageGroup = document.querySelector('#passage-results-group');
+  const passageMeta = document.querySelector('#passage-results-meta');
+  const passageList = document.querySelector('#passage-result-list');
+  const passageEmpty = document.querySelector('#passage-results-empty');
+  const passageMore = document.querySelector('#passage-results-more');
+  const passageMoreButton = document.querySelector('#show-more-passages');
   const clearButton = document.querySelector('#clear-search');
-  if (!form || !input || !section || !presenter) return;
+  if (!form || !input || !section || !presenter || !engine || !pageSearch) return;
 
   let data;
-  let shown = 0;
+  let recordShown = 0;
   let activeTypes = new Set();
-  let results = [];
+  let recordResults = [];
   let terms = [];
+  let currentSearch;
+  let searchMode = 'all';
+  let pagefindPromise;
+  let pagefindRefs = [];
+  let passageResults = [];
+  let passageLoaded = 0;
+  let searchSequence = 0;
 
-  const esc = (value) => String(value || '').replace(/[&<>]/g, (character) => ({
-    '&': '&amp;', '<': '&lt;', '>': '&gt;'
+  const esc = (value) => String(value || '').replace(/[&<>"']/g, (character) => ({
+    '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;'
   }[character]));
 
   function highlight(value) {
@@ -36,23 +57,23 @@
     return text;
   }
 
-  function score(record) {
-    let score = 0;
-    for (const term of terms) {
-      const position = record._searchText.indexOf(term);
-      if (position < 0) return -1;
-      score += position < (record.title || '').length ? 3 : 1;
-    }
-    return score;
-  }
-
   function updateUrl(query) {
     const url = new URL(window.location.href);
     if (query) url.searchParams.set('q', query);
     else url.searchParams.delete('q');
     if (activeTypes.size) url.searchParams.set('type', [...activeTypes].sort().join('|'));
     else url.searchParams.delete('type');
+    if (searchMode !== 'all') url.searchParams.set('scope', searchMode);
+    else url.searchParams.delete('scope');
     history.replaceState({}, '', `${url.pathname}${url.search}${url.hash}`);
+  }
+
+  function renderMode() {
+    catalogueGroup.hidden = searchMode === 'fulltext';
+    passageGroup.hidden = searchMode === 'catalogue';
+    modes.querySelectorAll('[data-search-mode]').forEach((button) => {
+      button.setAttribute('aria-pressed', String(button.dataset.searchMode === searchMode));
+    });
   }
 
   function renderFilters() {
@@ -74,9 +95,19 @@
     });
   }
 
-  function renderResults() {
-    const slice = results.slice(0, shown);
-    list.innerHTML = slice.map((record) => {
+  function renderRecordEmptyState() {
+    if (!currentSearch || currentSearch.total) {
+      empty.hidden = true;
+      return;
+    }
+    empty.innerHTML = `<p>${esc(currentSearch.emptyReason)}</p>${currentSearch.suggestions.length
+      ? `<ul>${currentSearch.suggestions.map((suggestion) => `<li>${esc(suggestion)}</li>`).join('')}</ul>` : ''}`;
+    empty.hidden = false;
+  }
+
+  function renderRecordResults() {
+    const slice = recordResults.slice(0, recordShown);
+    list.innerHTML = slice.map(({ record, matchedFields }) => {
       const view = presenter.formatRecord(record);
       const allProvisions = view.provisions;
       const provisions = allProvisions.slice(0, VISIBLE_PROVISIONS).map((provision) =>
@@ -94,6 +125,7 @@
       const facts = [
         view.status ? `<span class="home-result__fact"><b>${esc(view.statusLabel)}:</b> ${highlight(view.status)}</span>` : '',
         provisions ? `<span class="home-result__fact home-result__fact--provisions"><b>Cites:</b> ${provisions}${moreProvisions}</span>` : '',
+        matchedFields?.length ? `<span class="home-result__fact home-result__fact--matched"><b>Matched:</b> ${esc(matchedFields.map((field) => engine.FIELD_LABELS[field] || field).join(', '))}</span>` : '',
       ].filter(Boolean).join('');
       return `<a class="home-result home-result--${esc(view.category.className)}" href="${esc(view.href)}">
         <span class="home-result__metadata">${metadata}</span>
@@ -102,56 +134,125 @@
         ${facts ? `<span class="home-result__facts">${facts}</span>` : ''}
       </a>`;
     }).join('');
-    more.hidden = shown >= results.length;
+    more.hidden = recordShown >= recordResults.length;
+  }
+
+  function renderPassageResults() {
+    passageList.innerHTML = passageResults.map((result) => {
+      const metadata = [
+        '<span class="home-result__category">Full-text passage</span>',
+        result.type ? `<span>${esc(result.type)}</span>` : '',
+        result.year ? `<span>${esc(result.year)}</span>` : '',
+        result.pageTitle ? `<span>${esc(result.pageTitle)}</span>` : '',
+      ].filter(Boolean).join('<span class="home-result__separator" aria-hidden="true">•</span>');
+      return `<a class="home-result home-result--${esc(result.className)} home-result--passage" href="${esc(result.href)}">
+        <span class="home-result__metadata">${metadata}</span>
+        <span class="home-result__title">${esc(result.title)}</span>
+        ${result.excerpt ? `<span class="home-result__summary">${result.excerpt}</span>` : ''}
+      </a>`;
+    }).join('');
+    passageMore.hidden = passageLoaded >= pagefindRefs.length;
+  }
+
+  async function ensurePagefind() {
+    if (!pagefindPromise) {
+      const moduleUrl = new URL('pagefind/pagefind.js', siteRoot).href;
+      pagefindPromise = import(moduleUrl).then(async (pagefind) => {
+        await pagefind.options({
+          baseUrl: siteRoot.pathname,
+          excerptLength: 45,
+          metaCacheTag: 'pca-ga-v17',
+          ranking: { metaWeights: { title: 6, type: 1 } },
+        });
+        return pagefind;
+      });
+    }
+    return pagefindPromise;
+  }
+
+  async function loadMorePassages(target, sequence) {
+    const end = Math.min(target, pagefindRefs.length);
+    const refs = pagefindRefs.slice(passageLoaded, end);
+    const loaded = await Promise.all(refs.map(async (result) => {
+      try { return pageSearch.bestPassage(await result.data()); }
+      catch { return null; }
+    }));
+    if (sequence !== searchSequence) return;
+    passageResults.push(...loaded.filter(Boolean));
+    passageLoaded = end;
+    renderPassageResults();
+  }
+
+  async function searchPassages(query, sequence) {
+    pagefindRefs = [];
+    passageResults = [];
+    passageLoaded = 0;
+    passageList.innerHTML = '';
+    passageEmpty.hidden = true;
+    passageMore.hidden = true;
+    passageMeta.textContent = 'Searching the full text…';
+    try {
+      const pagefind = await ensurePagefind();
+      const options = {};
+      const typeFilters = pageSearch.filtersForTypes(activeTypes);
+      if (typeFilters) options.filters = typeFilters;
+      const response = await pagefind.search(query, options);
+      if (sequence !== searchSequence) return;
+      pagefindRefs = response.results || [];
+      passageMeta.textContent = `${pagefindRefs.length.toLocaleString()} document${pagefindRefs.length === 1 ? '' : 's'} with matching passages`;
+      if (!pagefindRefs.length) {
+        passageEmpty.innerHTML = '<p>No indexed passage contains this search in the selected record types. Try fewer terms or switch to All record types.</p>';
+        passageEmpty.hidden = false;
+        return;
+      }
+      await loadMorePassages(PASSAGE_PAGE_SIZE, sequence);
+    } catch {
+      if (sequence !== searchSequence) return;
+      passageMeta.textContent = 'Full-text passage search is unavailable.';
+      passageEmpty.innerHTML = '<p>Pagefind is generated by the deployed site build. Catalogue search remains available.</p>';
+      passageEmpty.hidden = false;
+    }
   }
 
   function search(scroll) {
     const query = input.value.trim();
-    terms = query.toLowerCase().split(/\s+/).filter(Boolean);
-    let pool = data;
-    if (activeTypes.size) pool = pool.filter((record) => activeTypes.has(record.type));
-    if (terms.length) {
-      results = pool.map((record) => [score(record), record])
-        .filter(([recordScore]) => recordScore >= 0)
-        .sort((a, b) => b[0] - a[0] || (b[1].year || 0) - (a[1].year || 0))
-        .map(([, record]) => record);
-    } else {
-      results = pool.slice().sort((a, b) => (b.year || 0) - (a.year || 0));
-    }
-    shown = PAGE_SIZE;
-    meta.textContent = results.length
-      ? `${results.length.toLocaleString()} result${results.length === 1 ? '' : 's'}${terms.length ? '' : ' (most recent first)'}`
-      : 'No matches. Try a presbytery, BCO provision, case party, or topic.';
-    renderResults();
+    const sequence = ++searchSequence;
+    currentSearch = engine.search(data, query, { types: activeTypes });
+    recordResults = currentSearch.results;
+    terms = query.replace(/"/g, '').split(/\s+/).filter(Boolean);
+    recordShown = RECORD_PAGE_SIZE;
+    meta.textContent = `Search for “${query}” across catalogue records and full-text passages.`;
+    catalogueMeta.textContent = `${currentSearch.total.toLocaleString()} catalogue record${currentSearch.total === 1 ? '' : 's'}`;
+    const modeLabel = searchMode === 'all' ? 'catalogue and full text' : searchMode === 'catalogue' ? 'catalogue only' : 'full text only';
+    scope.textContent = `Scope: ${modeLabel} · ${currentSearch.scope}`;
+    renderMode();
+    renderRecordResults();
+    renderRecordEmptyState();
     section.hidden = false;
     updateUrl(query);
-    if (scroll) section.scrollIntoView({ behavior: 'smooth', block: 'start' });
+    if (searchMode === 'catalogue') {
+      passageMeta.textContent = '';
+      passageList.innerHTML = '';
+      passageEmpty.hidden = true;
+      passageMore.hidden = true;
+    } else {
+      searchPassages(query, sequence);
+    }
+    if (scroll) {
+      const behavior = window.matchMedia?.('(prefers-reduced-motion: reduce)').matches ? 'auto' : 'smooth';
+      section.scrollIntoView({ behavior, block: 'start' });
+    }
   }
 
   async function ensureData() {
     if (data) return;
     section.hidden = false;
-    meta.textContent = 'Loading the catalogue…';
+    meta.textContent = 'Loading the search catalogue…';
     list.innerHTML = '';
     try {
-      const responses = await Promise.all([
-        fetch('app/search_index.json'),
-        ...CASE_SUMMARY_FILES.map((path) => fetch(path))
-      ]);
-      if (responses.some((response) => !response.ok)) throw new Error('Search index unavailable');
-      data = await responses[0].json();
-      const summaries = Object.assign({}, ...(await Promise.all(responses.slice(1).map((response) => response.json()))));
-      data = data.filter((record) => {
-        if (record.type === 'Judicial case') {
-          const number = (record.sub || '').replace(/^SJC\/CJB case\s+/, '');
-          record.summary = summaries[number] || '';
-          return Boolean(record.summary);
-        }
-        return true;
-      });
-      data.forEach((record) => {
-        record._searchText = `${record.title || ''} ${record.summary || ''} ${record.sub || ''} ${record.disposition || ''} ${(record.provisions || []).join(' ')}`.toLowerCase();
-      });
+      const response = await fetch('app/search_index.json');
+      if (!response.ok) throw new Error('Search index unavailable');
+      data = await response.json();
       renderFilters();
     } catch {
       meta.textContent = 'The search catalogue could not be loaded. Please check your connection and try again.';
@@ -171,14 +272,31 @@
     } catch { /* The message is already shown beside the search results. */ }
   });
 
+  modes.addEventListener('click', (event) => {
+    const button = event.target.closest('[data-search-mode]');
+    if (!button) return;
+    searchMode = button.dataset.searchMode;
+    renderMode();
+    if (data && input.value.trim()) search(false);
+    else updateUrl(input.value.trim());
+  });
+
   moreButton.addEventListener('click', () => {
-    shown += PAGE_SIZE;
-    renderResults();
+    recordShown += RECORD_PAGE_SIZE;
+    renderRecordResults();
+  });
+
+  passageMoreButton.addEventListener('click', () => {
+    loadMorePassages(passageLoaded + PASSAGE_PAGE_SIZE, searchSequence);
   });
 
   clearButton.addEventListener('click', () => {
+    searchSequence += 1;
     input.value = '';
     activeTypes = new Set();
+    currentSearch = null;
+    pagefindRefs = [];
+    passageResults = [];
     section.hidden = true;
     if (data) renderFilters();
     updateUrl('');
@@ -188,7 +306,10 @@
   const initialParams = new URLSearchParams(window.location.search);
   const initialQuery = initialParams.get('q');
   const initialTypes = initialParams.get('type');
+  const initialScope = initialParams.get('scope');
   if (initialTypes) activeTypes = new Set(initialTypes.split('|').filter(Boolean));
+  if (['all', 'catalogue', 'fulltext'].includes(initialScope)) searchMode = initialScope;
+  renderMode();
   if (initialQuery) {
     input.value = initialQuery;
     ensureData().then(() => search(false)).catch(() => {});
