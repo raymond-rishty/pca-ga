@@ -7,6 +7,15 @@
 html { scroll-behavior:smooth; }
 body { margin:0; background:var(--parch); color:var(--ink); font:15px/1.65 var(--sans); -webkit-font-smoothing:antialiased; }
 a { color:inherit; }
+a:focus-visible,
+button:focus-visible,
+input:focus-visible,
+select:focus-visible,
+textarea:focus-visible { outline:2px solid var(--gold-light); outline-offset:3px; }
+.skip-link { position:absolute; top:.75rem; left:1rem; z-index:1000; transform:translateY(-200%); padding:.65rem .85rem; border-radius:3px; background:var(--gold-light); color:var(--ink); font:500 12px/1.2 var(--sans); text-decoration:none; }
+.skip-link:focus-visible { transform:none; }
+button, a, input, select, textarea { touch-action:manipulation; }
+h1,h2,h3,h4,h5,h6 { text-wrap:balance; }
 
 .ask-topbar { position:sticky; top:0; z-index:20; background:var(--ink); color:var(--parch); border-bottom:1px solid rgba(255,255,255,.08); }
 .ask-topbar__inner { display:flex; align-items:center; justify-content:space-between; max-width:1120px; height:62px; margin:0 auto; padding:0 24px; }

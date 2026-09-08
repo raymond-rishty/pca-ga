@@ -22,6 +22,7 @@
   };
 
   let activeRecord = null;
+  let activeOpener = null;
   let savedFilter = '';
 
   function copyText(value) {
@@ -81,9 +82,21 @@
     empty.hidden = Boolean(visible.length);
   }
 
-  function select(tab) {
-    document.querySelectorAll('[data-research-tab]').forEach((button) => button.setAttribute('aria-selected', String(button.dataset.researchTab === tab)));
+  function updateTabUrl(tab) {
+    const url = new URL(window.location.href);
+    if (tab === 'saved') url.searchParams.delete('tab');
+    else url.searchParams.set('tab', tab);
+    history.replaceState({}, '', `${url.pathname}${url.search}${url.hash}`);
+  }
+
+  function select(tab, { updateUrl = true } = {}) {
+    document.querySelectorAll('[data-research-tab]').forEach((button) => {
+      const selected = button.dataset.researchTab === tab;
+      button.setAttribute('aria-selected', String(selected));
+      button.tabIndex = selected ? 0 : -1;
+    });
     document.querySelectorAll('[data-research-panel]').forEach((panel) => { panel.hidden = panel.dataset.researchPanel !== tab; });
+    if (updateUrl) updateTabUrl(tab);
   }
 
   function createBookshelfSheet() {
@@ -102,7 +115,7 @@
           <small id="bookshelfPreviewSaved"></small>
         </div>
         <div class="page-action-list" aria-label="Bookshelf item actions">
-          <button type="button" class="is-primary" data-bookshelf-action="open">${ICONS.open}<span>Open page</span></button>
+          <a class="is-primary" href="#" data-bookshelf-action="open">${ICONS.open}<span>Open page</span></a>
           <button type="button" data-bookshelf-action="cite">${ICONS.cite}<span>Copy citation</span></button>
           <button type="button" data-bookshelf-action="link">${ICONS.link}<span>Copy link</span></button>
           <button type="button" data-bookshelf-action="share">${ICONS.share}<span>Share</span></button>
@@ -115,25 +128,57 @@
 
   function closeBookshelfSheet() {
     const sheet = document.getElementById('bookshelfItemSheet');
+    const opener = activeOpener;
     if (sheet) sheet.hidden = true;
+    window.PCAFocus?.closeModal(sheet);
     document.body.classList.remove('sheet-open');
     activeRecord = null;
+    activeOpener = null;
+    if (opener?.isConnected) opener.focus();
+    else document.getElementById('savedFilter')?.focus();
   }
 
-  function openBookshelfSheet(record) {
+  function openBookshelfSheet(record, opener) {
     activeRecord = record;
+    activeOpener = opener;
     const sheet = document.getElementById('bookshelfItemSheet') || createBookshelfSheet();
     document.querySelectorAll('.research-sheet').forEach((candidate) => { candidate.hidden = true; });
     sheet.querySelector('#bookshelfPreviewType').textContent = record.type;
     sheet.querySelector('#bookshelfPreviewTitle').textContent = record.title;
     sheet.querySelector('#bookshelfPreviewCitation').textContent = record.short || record.citation || 'PCA General Assembly Minutes';
     sheet.querySelector('#bookshelfPreviewSaved').textContent = record.savedAt ? `Saved ${when(record.savedAt)}` : '';
+    sheet.querySelector('[data-bookshelf-action="open"]')?.setAttribute('href', record.url);
     sheet.hidden = false;
+    window.PCAFocus?.openModal(sheet);
     document.body.classList.add('sheet-open');
     sheet.querySelector('[data-bookshelf-action="open"]')?.focus();
   }
 
-  document.querySelectorAll('[data-research-tab]').forEach((button) => button.addEventListener('click', () => select(button.dataset.researchTab)));
+  const researchTabs = [...document.querySelectorAll('[data-research-tab]')];
+  function focusResearchTab(index) {
+    const next = (index + researchTabs.length) % researchTabs.length;
+    const button = researchTabs[next];
+    select(button.dataset.researchTab);
+    button.focus();
+  }
+  researchTabs.forEach((button, index) => {
+    button.addEventListener('click', () => select(button.dataset.researchTab));
+    button.addEventListener('keydown', (event) => {
+      if (event.key === 'ArrowRight' || event.key === 'ArrowDown') {
+        event.preventDefault();
+        focusResearchTab(index + 1);
+      } else if (event.key === 'ArrowLeft' || event.key === 'ArrowUp') {
+        event.preventDefault();
+        focusResearchTab(index - 1);
+      } else if (event.key === 'Home') {
+        event.preventDefault();
+        focusResearchTab(0);
+      } else if (event.key === 'End') {
+        event.preventDefault();
+        focusResearchTab(researchTabs.length - 1);
+      }
+    });
+  });
   document.getElementById('savedFilter')?.addEventListener('input', (event) => {
     savedFilter = event.target.value;
     render('saved', savedFilter);
@@ -143,7 +188,7 @@
     const opener = event.target.closest('[data-open-bookshelf]');
     if (opener) {
       const record = store.listSaved().find((entry) => entry.id === opener.dataset.openBookshelf);
-      if (record) openBookshelfSheet(record);
+      if (record) openBookshelfSheet(record, opener);
       return;
     }
 
@@ -155,10 +200,7 @@
     const button = event.target.closest('[data-bookshelf-action]');
     if (!button || !activeRecord) return;
     const action = button.dataset.bookshelfAction;
-    if (action === 'open') {
-      location.assign(activeRecord.url);
-      return;
-    }
+    if (action === 'open') return;
     if (action === 'cite') {
       await copyText(activeRecord.full || activeRecord.citation || activeRecord.short || activeRecord.url);
       showToast('Citation copied');
@@ -177,6 +219,7 @@
       return;
     }
     if (action === 'remove') {
+      if (!window.confirm(`Remove “${activeRecord.title}” from your bookshelf?`)) return;
       store.remove('saved', activeRecord.id);
       render('saved', savedFilter);
       closeBookshelfSheet();
@@ -184,6 +227,8 @@
     }
   });
 
+  const initialTab = new URLSearchParams(window.location.search).get('tab');
+  select(initialTab === 'recent' ? 'recent' : 'saved', { updateUrl: false });
   render('saved');
   render('recent');
 })();

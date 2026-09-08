@@ -30,7 +30,13 @@
   }
 
   function ensure() { return sheet ||= document.getElementById('scriptureSheet') || make(); }
-  function close() { ensure().hidden = true; document.body.classList.remove('scripture-sheet-open'); trigger?.focus(); }
+  function close() {
+    const current = ensure();
+    current.hidden = true;
+    window.PCAFocus?.closeModal(current);
+    document.body.classList.remove('scripture-sheet-open');
+    if (trigger?.isConnected) trigger.focus();
+  }
   function load(book, chapter) {
     const key = `${book}/${chapter}`;
     if (!cache.has(key)) cache.set(key, fetch(new URL(`${encodeURIComponent(book)}/${chapter}.json`, base)).then(r => {
@@ -58,8 +64,9 @@
     title.textContent = button.dataset.scriptureTitle || button.dataset.scriptureRef || button.textContent;
     body.innerHTML = '<p class="scripture-sheet__loading">Loading Scripture…</p>';
     current.hidden = false;
+    window.PCAFocus?.openModal(current);
     document.body.classList.add('scripture-sheet-open');
-    current.querySelector('[data-scripture-close]').focus();
+    current.querySelector('.scripture-sheet__close')?.focus();
     try {
       const chapters = await Promise.all(refs.map(item => load(item.book, item.chapter).then(payload => ({item, payload}))));
       body.innerHTML = chapters.map(({item, payload}) => renderSection(payload, item)).join('');
