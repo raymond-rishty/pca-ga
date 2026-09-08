@@ -789,8 +789,9 @@ textarea:focus-visible {
 .research-toast.visible { opacity: 1; transform: none; }
 .research-sheet[hidden] { display: none; }
 .research-sheet { position: fixed; inset: 0; z-index: 300; display: grid; align-items: end; justify-items: center; }
+.research-sheet { overflow-y: auto; overscroll-behavior: contain; }
 .research-sheet__backdrop { position: absolute; inset: 0; background: rgba(20,30,52,.42); backdrop-filter: blur(2px); }
-.research-sheet__panel { position: relative; width: 100%; max-width: 640px; min-width: 0; margin: 0; padding: 1.1rem 1.25rem max(1.35rem, env(safe-area-inset-bottom)); border: 1px solid var(--parch-deep); border-radius: 12px 12px 0 0; background: #FFFCF5; box-shadow: 0 -12px 30px rgba(27,38,64,.16); }
+.research-sheet__panel { position: relative; width: 100%; max-width: 640px; max-height: min(82dvh, 760px); min-width: 0; margin: 0; overflow-y: auto; overscroll-behavior: contain; padding: 1.1rem 1.25rem max(1.35rem, env(safe-area-inset-bottom)); border: 1px solid var(--parch-deep); border-radius: 12px 12px 0 0; background: #FFFCF5; box-shadow: 0 -12px 30px rgba(27,38,64,.16); }
 .research-sheet__handle { width: 40px; height: 4px; margin: 0 auto 1rem; border-radius: 999px; background: var(--parch-deep); }
 .research-sheet header { display: flex; align-items: center; justify-content: space-between; margin-bottom: 1.35rem; }
 .research-sheet h2 { margin: 0; font: 500 1.8rem/1 var(--serif); }

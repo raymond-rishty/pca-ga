@@ -43,16 +43,69 @@
     showToast.timeout = window.setTimeout(() => toast.classList.remove('visible'), 2200);
   }
 
+  const FOCUSABLE = 'a[href], area[href], button:not([disabled]), input:not([disabled]), select:not([disabled]), textarea:not([disabled]), [tabindex]:not([tabindex="-1"])';
+  let activeModal = null;
+  let modalBackground = new Map();
+
+  function focusableIn(container) {
+    return [...container.querySelectorAll(FOCUSABLE)].filter((element) => !element.closest('[hidden]') && !element.closest('[inert]'));
+  }
+
+  function openModal(element) {
+    if (activeModal && activeModal !== element) closeModal(activeModal);
+    activeModal = element;
+    modalBackground = new Map();
+    document.querySelectorAll('body > *').forEach((sibling) => {
+      if (sibling === element) return;
+      modalBackground.set(sibling, sibling.inert);
+      sibling.inert = true;
+    });
+  }
+
+  function closeModal(element) {
+    if (element && activeModal !== element) return;
+    modalBackground.forEach((wasInert, sibling) => { sibling.inert = wasInert; });
+    modalBackground.clear();
+    activeModal = null;
+  }
+
+  function trapFocus(element, event) {
+    if (event.key !== 'Tab') return false;
+    const items = focusableIn(element);
+    if (!items.length) {
+      event.preventDefault();
+      return true;
+    }
+    const first = items[0];
+    const last = items[items.length - 1];
+    if (!element.contains(document.activeElement)) {
+      event.preventDefault();
+      first.focus();
+    } else if (event.shiftKey && document.activeElement === first) {
+      event.preventDefault();
+      last.focus();
+    } else if (!event.shiftKey && document.activeElement === last) {
+      event.preventDefault();
+      first.focus();
+    }
+    return true;
+  }
+
+  window.PCAFocus = { openModal, closeModal, trapFocus };
+
   function openSidebar() {
+    sidebar?.removeAttribute('inert');
     sidebar?.classList.add('open');
     overlay?.classList.add('active');
     menuBtn?.setAttribute('aria-expanded', 'true');
     document.body.style.overflow = 'hidden';
+    sbClose?.focus();
   }
 
   function closeSidebar() {
     const wasOpen = sidebar?.classList.contains('open');
     sidebar?.classList.remove('open');
+    sidebar?.setAttribute('inert', '');
     overlay?.classList.remove('active');
     menuBtn?.setAttribute('aria-expanded', 'false');
     document.body.style.overflow = '';
@@ -63,11 +116,21 @@
   sbClose?.addEventListener('click', closeSidebar);
   overlay?.addEventListener('click', closeSidebar);
   document.addEventListener('keydown', (event) => {
-    if (event.key !== 'Escape') return;
-    if (!document.getElementById('pageFind')?.hidden) { closePageFind(); return; }
-    const openSheet = [...document.querySelectorAll('.research-sheet')].find((sheet) => !sheet.hidden);
-    if (openSheet) openSheet.querySelector('[data-sheet-close]')?.click();
-    else closeSidebar();
+    const pageFind = document.getElementById('pageFind');
+    if (event.key === 'Escape') {
+      if (pageFind && !pageFind.hidden) { closePageFind(); return; }
+      const openSheet = [...document.querySelectorAll('.research-sheet, .constitution-sheet, .scripture-sheet')].find((sheet) => !sheet.hidden);
+      if (openSheet) {
+        openSheet.querySelector('button[data-sheet-close], button[data-constitution-close], button[data-scripture-close]')?.click();
+        return;
+      }
+      if (sidebar?.classList.contains('open')) { closeSidebar(); return; }
+    }
+    if (event.key === 'Tab') {
+      const openSheet = [...document.querySelectorAll('.research-sheet, .constitution-sheet, .scripture-sheet')].find((sheet) => !sheet.hidden);
+      if (openSheet && trapFocus(openSheet.querySelector('[role="dialog"]') || openSheet, event)) return;
+      if (sidebar?.classList.contains('open')) trapFocus(sidebar, event);
+    }
   });
 
   function pageUrl() {
@@ -144,6 +207,7 @@
     const opener = activeSheetOpener;
     activeSheetOpener = null;
     document.querySelectorAll('.research-sheet').forEach((sheet) => sheet.setAttribute('hidden', ''));
+    closeModal();
     document.body.classList.remove('sheet-open');
     if (opener?.isConnected) opener.focus();
   }

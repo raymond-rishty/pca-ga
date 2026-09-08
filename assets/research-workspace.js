@@ -90,7 +90,11 @@
   }
 
   function select(tab, { updateUrl = true } = {}) {
-    document.querySelectorAll('[data-research-tab]').forEach((button) => button.setAttribute('aria-selected', String(button.dataset.researchTab === tab)));
+    document.querySelectorAll('[data-research-tab]').forEach((button) => {
+      const selected = button.dataset.researchTab === tab;
+      button.setAttribute('aria-selected', String(selected));
+      button.tabIndex = selected ? 0 : -1;
+    });
     document.querySelectorAll('[data-research-panel]').forEach((panel) => { panel.hidden = panel.dataset.researchPanel !== tab; });
     if (updateUrl) updateTabUrl(tab);
   }
@@ -126,6 +130,7 @@
     const sheet = document.getElementById('bookshelfItemSheet');
     const opener = activeOpener;
     if (sheet) sheet.hidden = true;
+    window.PCAFocus?.closeModal(sheet);
     document.body.classList.remove('sheet-open');
     activeRecord = null;
     activeOpener = null;
@@ -144,11 +149,36 @@
     sheet.querySelector('#bookshelfPreviewSaved').textContent = record.savedAt ? `Saved ${when(record.savedAt)}` : '';
     sheet.querySelector('[data-bookshelf-action="open"]')?.setAttribute('href', record.url);
     sheet.hidden = false;
+    window.PCAFocus?.openModal(sheet);
     document.body.classList.add('sheet-open');
     sheet.querySelector('[data-bookshelf-action="open"]')?.focus();
   }
 
-  document.querySelectorAll('[data-research-tab]').forEach((button) => button.addEventListener('click', () => select(button.dataset.researchTab)));
+  const researchTabs = [...document.querySelectorAll('[data-research-tab]')];
+  function focusResearchTab(index) {
+    const next = (index + researchTabs.length) % researchTabs.length;
+    const button = researchTabs[next];
+    select(button.dataset.researchTab);
+    button.focus();
+  }
+  researchTabs.forEach((button, index) => {
+    button.addEventListener('click', () => select(button.dataset.researchTab));
+    button.addEventListener('keydown', (event) => {
+      if (event.key === 'ArrowRight' || event.key === 'ArrowDown') {
+        event.preventDefault();
+        focusResearchTab(index + 1);
+      } else if (event.key === 'ArrowLeft' || event.key === 'ArrowUp') {
+        event.preventDefault();
+        focusResearchTab(index - 1);
+      } else if (event.key === 'Home') {
+        event.preventDefault();
+        focusResearchTab(0);
+      } else if (event.key === 'End') {
+        event.preventDefault();
+        focusResearchTab(researchTabs.length - 1);
+      }
+    });
+  });
   document.getElementById('savedFilter')?.addEventListener('input', (event) => {
     savedFilter = event.target.value;
     render('saved', savedFilter);
