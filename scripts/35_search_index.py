@@ -48,8 +48,10 @@ def parse_overtures():
         if not line.startswith("| "):
             continue
         cells = [c.strip() for c in line.strip().strip("|").split("|")]
-        number_match = re.search(r"\[(\d+)\]", cells[0]) if cells else None
-        number = number_match.group(1) if number_match else None
+        number_cell = cells[0] if cells else ""
+        number_match = re.search(r"\[(\d+)\]", number_cell)
+        number = number_match.group(1) if number_match else number_cell
+        number = number if number.isdigit() else None
         if len(cells) < 5 or not number:   # skip header/separator/malformed
             continue
         num, subject, outcome, source, pages = number, cells[1], cells[2], cells[3], cells[4]

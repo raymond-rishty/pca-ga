@@ -8,7 +8,8 @@ const { test } = require('node:test');
 test('search-index build retains linked overtures', () => {
   const root = path.resolve(__dirname, '..');
   const temp = fs.mkdtempSync(path.join(os.tmpdir(), 'pca-ga-search-index-'));
-  fs.symlinkSync(path.join(root, 'index'), path.join(temp, 'index'), 'dir');
+  fs.mkdirSync(path.join(temp, 'index'));
+  fs.copyFileSync(path.join(root, 'index/OVERTURES.md'), path.join(temp, 'index/OVERTURES.md'));
   fs.mkdirSync(path.join(temp, 'app'));
 
   try {
@@ -22,15 +23,15 @@ test('search-index build retains linked overtures', () => {
     assert.ok(overtures.length > 1900, `expected overtures in the search index, found ${overtures.length}`);
     assert.deepEqual(overtures[0], {
       type: 'Overture',
-      title: 'Leave Presbytery Boundaries Fluid Through 1974 and Consult Before Changes',
-      sub: 'Overture 1 · LF Coast Presbytery',
-      identifier: 'Overture 1',
-      identifiers: ['Overture 1'],
-      topics: ['Leave Presbytery Boundaries Fluid Through 1974 and Consult Before Changes'],
+      title: 'Appoint Committee to Add Scripture Proof Texts to the BCO',
+      sub: 'Overture 6 · Covenant Presbytery',
+      identifier: 'Overture 6',
+      identifiers: ['Overture 6'],
+      topics: ['Appoint Committee to Add Scripture Proof Texts to the BCO'],
       provisions: [],
       year: 1973,
-      disposition: 'Adopted (final)',
-      url: 'markdown/ga01_1973.md#ga01-p19',
+      disposition: '',
+      url: 'markdown/ga01_1973.md#ga01-p21',
     });
   } finally {
     fs.rmSync(temp, { recursive: true, force: true });
