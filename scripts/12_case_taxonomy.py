@@ -41,6 +41,7 @@ STANDARD_OF_REVIEW_CODES = (
     "clear_error_facts",
     "clear_error_discretion",
     "independent_constitutional",
+    "bco_40_5",
     "mixed",
     "not_reached",
     "not_applicable",
@@ -52,7 +53,10 @@ REVIEW_STANDARD_CODES = (
     "clear_error_facts",
     "clear_error_discretion",
     "independent_constitutional",
+    "bco_40_5",
 )
+
+BCO_40_5_REVIEW_DETAIL = "BCO 40-5: important delinquency or grossly unconstitutional proceedings."
 
 
 def canonical_id(raw):
@@ -227,14 +231,14 @@ def classify_proceeding_type(*values):
     return "other"
 
 
-def supervisory_ground(*values):
-    """Return the distinct BCO 40-5 intervention ground, when present."""
+def contextual_review_standard(*values):
+    """Return the BCO 40-5 review standard when the context identifies it."""
     text = " ".join(str(v or "") for v in values).lower()
     if re.search(r"\bbco\s*40\s*[-.]\s*5\b", text) or re.search(
         r"\b(?:important\s+delinquency|grossly\s+unconstitutional\s+proceedings)\b",
         text,
     ):
-        return "bco_40_5", "Important delinquency or grossly unconstitutional proceedings"
+        return "bco_40_5", BCO_40_5_REVIEW_DETAIL
     return None, None
 
 
@@ -406,6 +410,8 @@ def _review_standard_from_override(raw, outcome=None):
         return ["clear_error_facts", "clear_error_discretion"]
     if text == "constitutional_interpretation_no_deference":
         return ["independent_constitutional"]
+    if text == "bco_40_5":
+        return ["bco_40_5"]
     if text == "mixed":
         return list(REVIEW_STANDARD_CODES)
     if text in REVIEW_STANDARD_CODES:
@@ -430,6 +436,7 @@ def _review_detail(standards, code, outcome=None, proceeding_type=None):
         "clear_error_facts": "BCO 39-3.2: factual findings receive great deference; reversal requires clear error.",
         "clear_error_discretion": "BCO 39-3.3: matters of discretion and judgment receive great deference; reversal requires clear error.",
         "independent_constitutional": "BCO 39-3.4: the higher court interprets and applies the Church Constitution according to its best ability, without the same deference to the lower court.",
+        "bco_40_5": BCO_40_5_REVIEW_DETAIL,
     }
     if code == "mixed":
         return "Issue-level standards: " + "; ".join(details[x] for x in standards)
@@ -444,8 +451,8 @@ def _review_detail(standards, code, outcome=None, proceeding_type=None):
     return "The available decision does not state a distinct standard of review."
 
 
-def standard_of_review(file, outcome, proceeding_type=None, override=None):
-    """Return display code, explanation, and issue-level standards.
+def standard_of_review(file, outcome, proceeding_type=None, override=None, contextual_standard=None):
+    """Return the display code, explanation, and applicable review standards.
 
     The list is authoritative. ``standard_of_review`` is retained as a compact
     compatibility/display field and is derived from that list.
@@ -474,6 +481,8 @@ def standard_of_review(file, outcome, proceeding_type=None, override=None):
         standards = _review_standard_from_override(override["standard_of_review"], outcome)
     else:
         standards = []
+        if contextual_standard and outcome not in {"out_of_order", "abandoned", "dismissed", "administrative", "in_order", "referred"}:
+            standards.append(contextual_standard)
         if re.search(
             r"\b39\s*[-.]\s*3\s*[.(]?\s*2\b|"
             r"\b(?:factual\s+(?:finding|matter)|finding\s+of\s+fact)\b[^.!?]{0,180}\bclear\s+error\b|"
@@ -571,24 +580,16 @@ def main():
         posture = override.get("proceeding_type") or classify_proceeding_type(
             raw_title, title, record.get("title"), page_headings
         )
-        ground, ground_detail = supervisory_ground(
+        contextual_standard, _contextual_detail = contextual_review_standard(
             raw_title, title, record.get("title"), page_headings
         )
-        if posture != "review_and_control" and not override.get("supervisory_ground"):
-            ground, ground_detail = None, None
-        elif posture == "review_and_control" and not ground and re.search(
-            r"\bmemorial\b", " ".join((raw_title, title, record.get("title") or "")), re.I
-        ):
-            ground, ground_detail = "bco_40_5", "Important delinquency or grossly unconstitutional proceedings"
         detail = page_disposition(page_file) or record.get("disposition") or (cjb or {}).get("disposition") or (raw_title if matches else "")
         detail = override.get("disposition_detail") or detail
         outcome = override.get("outcome") or select_outcome(detail, summary, raw_title)
         review_code, review_detail, review_standards = standard_of_review(
-            page_file, outcome, posture, override
+            page_file, outcome, posture, override, contextual_standard
         )
         review_detail = override.get("standard_of_review_detail") or review_detail
-        ground = override.get("supervisory_ground") or ground
-        ground_detail = override.get("supervisory_ground_detail") or ground_detail
         bco = []
         for raw_code in (record.get("bco_cited_as") or []):
             normalized = normalize_bco_code(raw_code)
@@ -621,8 +622,6 @@ def main():
             "standard_of_review": review_code,
             "standard_of_review_detail": review_detail,
             "review_standards": review_standards,
-            "supervisory_ground": ground,
-            "supervisory_ground_detail": ground_detail,
             "summary": summary,
             "summary_review_status": override.get("summary_review_status") or audit.get("summary_review_status") or ("audited" if override.get("summary") else "pending_audit"),
             "bco_provisions": bco,

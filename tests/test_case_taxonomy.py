@@ -32,8 +32,8 @@ def test_proceeding_type_and_disposition_are_controlled_codes():
     assert MODULE.normalize_bco_code("38-3(a)") == "38-3.a"
     assert set(MODULE.PROCEEDING_TYPES) == {"complaint", "appeal", "reference", "review_and_control", "original_jurisdiction_request", "other"}
     assert set(MODULE.OUTCOMES) == {"sustained", "partially_sustained", "not_sustained", "denied", "dismissed", "out_of_order", "in_order", "administrative", "referred", "granted", "abandoned", "other"}
-    assert set(MODULE.REVIEW_STANDARD_CODES) == {"clear_error_facts", "clear_error_discretion", "independent_constitutional"}
-    assert set(MODULE.STANDARD_OF_REVIEW_CODES) == {"clear_error_facts", "clear_error_discretion", "independent_constitutional", "mixed", "not_reached", "not_applicable", "not_stated", "unknown"}
+    assert set(MODULE.REVIEW_STANDARD_CODES) == {"clear_error_facts", "clear_error_discretion", "independent_constitutional", "bco_40_5"}
+    assert set(MODULE.STANDARD_OF_REVIEW_CODES) == {"clear_error_facts", "clear_error_discretion", "independent_constitutional", "bco_40_5", "mixed", "not_reached", "not_applicable", "not_stated", "unknown"}
 
 
 def test_review_standard_is_issue_level_and_excludes_separate_opinions():
@@ -46,9 +46,9 @@ def test_review_standard_is_issue_level_and_excludes_separate_opinions():
     assert standards == ["clear_error_discretion"]
 
 
-def test_bco_40_5_is_a_supervisory_basis_not_a_review_standard():
-    ground, detail = MODULE.supervisory_ground("BCO 40-5 Matter re NW Georgia")
-    assert ground == "bco_40_5"
+def test_bco_40_5_is_one_review_standard():
+    standard, detail = MODULE.contextual_review_standard("BCO 40-5 Matter re NW Georgia")
+    assert standard == "bco_40_5"
     assert "important delinquency" in detail.lower()
 
 
@@ -63,7 +63,7 @@ def test_appended_manual_text_does_not_change_case_vehicle():
 """
     headings = MODULE.case_page_headings(page)
     assert MODULE.classify_proceeding_type(headings) == "complaint"
-    assert MODULE.supervisory_ground(headings) == (None, None)
+    assert MODULE.contextual_review_standard(headings) == (None, None)
 
 
 def test_non_merits_dispositions_do_not_receive_appellate_standards():
