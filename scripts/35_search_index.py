@@ -317,6 +317,8 @@ def main():
                "standard_of_review": tax.get("standard_of_review"),
                "standard_of_review_detail": tax.get("standard_of_review_detail"),
                "review_standards": tax.get("review_standards") or [],
+               "supervisory_ground": tax.get("supervisory_ground"),
+               "supervisory_ground_detail": tax.get("supervisory_ground_detail"),
                "classification_status": tax.get("classification_status"),
                "url": f"cases/{c['file']}.md"}
         if summary:

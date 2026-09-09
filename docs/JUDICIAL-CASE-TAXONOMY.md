@@ -35,7 +35,7 @@ matter belongs in `topic_tags`.
 | `complaint` | A complaint challenging an action or decision of a lower court. This is the default for an ordinary `v.` case without another posture. |
 | `appeal` | An appeal from a lower-court judgment, including an appeal of censure or discipline. |
 | `reference` | A BCO 41 reference submitted by a lower court for advice, other action, or a requested original adjudication. The purpose/stage belongs in the summary and provisions, not in a competing primary type. |
-| `review_and_control` | A BCO 40 supervisory matter, including a memorial or citation proceeding under BCO 40-5. |
+| `review_and_control` | A BCO 40 supervisory matter, including a memorial or citation proceeding under BCO 40-5. The specific intervention ground is recorded separately in `supervisory_ground`. |
 | `original_jurisdiction_request` | A BCO 34-1 request or petition asking the General Assembly/SJC to assume original jurisdiction. The later trial or judgment remains part of that proceeding. |
 | `other` | A genuine judicial matter that does not fit the categories above; explain it in `disposition_detail`. |
 
@@ -89,21 +89,25 @@ stronger merits result is present. The original wording is not discarded.
   references remain in prose or topics.
 - `topic_tags` is a small set of subject tags, not a list of every noun in the
   record.
-- `review_standards` is the authoritative review-standard list. Its controlled
-  values are `clear_error_facts`, `clear_error_discretion`,
-  `independent_constitutional`, and `bco_40_5`. A case may have more than one
-  because different issues or procedural stages can receive different treatment.
-- `standard_of_review` is a compact derived/display value for that same facet:
-  one applicable standard, `mixed` when there are several, `not_reached` when
-  the matter ended before merits review, `not_applicable` for a non-appellate
-  proceeding such as an original-jurisdiction request, `not_stated` when the
-  court reviewed the matter but did not state a distinct standard, or `unknown`
-  when the decision text is unavailable. Its values also include `bco_40_5` for
-  a merits-level BCO 40-5 supervisory review.
+- `review_standards` is the authoritative issue-level list. Its controlled
+  values are `clear_error_facts`, `clear_error_discretion`, and
+  `independent_constitutional`. A case may have more than one because different
+  issues can receive different treatment.
+- `standard_of_review` is a compact derived/display value: one of those three
+  values when there is one applicable standard, `mixed` when there are several,
+  `not_reached` when the matter ended before merits review, `not_applicable` for
+  a non-appellate proceeding such as an original-jurisdiction request,
+  `not_stated` when the court reviewed the matter but did not state a distinct
+  standard, or `unknown` when the decision text is unavailable.
 - `standard_of_review_detail` gives the short human-readable explanation and
   the relevant BCO subsection where the source identifies one. The generator
   examines the adopted decision only; a dissent's proposed standard is not
   silently combined with the court's standard.
+- `supervisory_ground` records the special BCO 40-5 basis separately from the
+  standard of review. Its current value is `bco_40_5`, with
+  `supervisory_ground_detail` preserving “important delinquency or grossly
+  unconstitutional proceedings.” This is a ground for supervisory
+  intervention, not another level of appellate deference.
 - `classification_status` is `classified`, `needs_review`, or `roster_only`.
   `roster_only` means the official case is known but the local Minutes
   extraction has not yet supplied enough metadata; it is not permission to

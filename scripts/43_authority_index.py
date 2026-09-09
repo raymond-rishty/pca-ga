@@ -216,6 +216,9 @@ def build_case_rows() -> list[dict]:
                 'review_standards': next((taxonomy_by_num.get(norm_case_num(n), {}).get('review_standards')
                                           for n in entry.get('numbers', [num])
                                           if taxonomy_by_num.get(norm_case_num(n), {}).get('review_standards')), []),
+                'supervisory_ground': next((taxonomy_by_num.get(norm_case_num(n), {}).get('supervisory_ground')
+                                             for n in entry.get('numbers', [num])
+                                             if taxonomy_by_num.get(norm_case_num(n), {}).get('supervisory_ground')), None),
                 'url': url,
                 'snippet': snippet_for(raw_text, prov) if raw_text else '',
                 'topics': topics,

@@ -31,7 +31,6 @@
     clear_error_facts: 'Clear error — factual findings',
     clear_error_discretion: 'Clear error — discretion and judgment',
     independent_constitutional: 'Independent review — constitutional interpretation',
-    bco_40_5: 'BCO 40-5 — important delinquency or grossly unconstitutional proceedings',
     mixed: 'Mixed',
     not_reached: 'Not reached',
     not_applicable: 'Not applicable',
@@ -134,6 +133,7 @@
       statusLabel: statusLabel(record.type),
       proceedingType: PROCEEDING_LABELS[record.proceeding_type] || clean(record.proceeding_type),
       reviewStandard: issueStandards.join('; ') || REVIEW_LABELS[record.standard_of_review] || clean(record.standard_of_review),
+      reviewBasis: clean(record.supervisory_ground_detail || record.supervisory_ground),
       provisions: Array.isArray(record.provisions) ? record.provisions.filter(Boolean) : [],
       href: href(record),
     };

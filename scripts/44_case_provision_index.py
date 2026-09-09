@@ -419,6 +419,9 @@ def main() -> None:
                     "review_standards": (target.get("review_standards") if target else next(
                         (c.get("review_standards") for c in canonical_records if c.get("review_standards") is not None), []
                     )) or [],
+                    "supervisory_ground": (target.get("supervisory_ground") if target else next(
+                        (c.get("supervisory_ground") for c in canonical_records if c.get("supervisory_ground")), None
+                    )),
                     "synopsis": target_synopsis,
                     "url": f"cases/{file_stem}.md",
                     "sources": sorted(audit["sources"]),
