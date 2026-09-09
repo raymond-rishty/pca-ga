@@ -231,7 +231,8 @@ def main():
          "90 overtures to the 53rd General Assembly, the prior judicial cases, constitutional "
          "inquiries, overtures, and RPR exceptions that bear on it (deep-linked).",
          "- **[Judicial cases](CASES.md)** — SJC/CCB cases with parties, disposition, and the "
-         "BCO / Westminster Standards provisions cited; also **[by constitutional provision]"
+         "BCO / Westminster Standards provisions cited; the canonical metadata view is "
+         "**[JUDICIAL-CASES.md](JUDICIAL-CASES.md)**; also **[by constitutional provision]"
          "(CASES-BY-PROVISION.md)** with auditable tag sources and line evidence.",
          "- **[Constitutional inquiries](INQUIRIES.md)** — questions of constitutional "
          "interpretation answered by the CCB, each with a Digest-level headnote and the verbatim "
@@ -310,7 +311,9 @@ def main():
 
     L = ["# Judicial Case Index", "",
          "Cases decided by the Standing Judicial Commission (SJC) and its predecessor the "
-         "Committee on Judicial Business (CJB), grouped by Assembly.", "",
+         "Committee on Judicial Business (CJB), grouped by Assembly. For canonical case IDs, "
+         "proceeding types, review standards, editorial summaries, BCO provisions, and topic "
+         "tags, see **[JUDICIAL-CASES.md](JUDICIAL-CASES.md)**.", "",
          "This index is **structure-first**: every case listed links to a full-text page "
          "re-extracted verbatim from the volume (with its opinions). After the decided cases, an "
          "Assembly may list extra rows from the underlying case table: *decided at Nth GA* — the "

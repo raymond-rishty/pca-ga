@@ -19,6 +19,26 @@
   const OVERTURE_IN_SUB = /\boverture\s+(\d+)/i;
   const OVERTURE_IN_URL = /__o(\d+)/i;
   const RPR_IN_URL = /\/([^/]+)__([0-9]+)\.md(?:$|[?#])/i;
+  const PROCEEDING_LABELS = {
+    complaint: 'Complaint',
+    appeal: 'Appeal',
+    reference: 'Reference',
+    original_jurisdiction_request: 'Original-jurisdiction request',
+    constitutional_matter: 'Constitutional matter',
+    petition: 'Petition',
+    citation: 'Citation',
+    memorial: 'Memorial',
+    administrative_review: 'Administrative review',
+    other: 'Other',
+  };
+  const REVIEW_LABELS = {
+    great_deference_clear_error: 'Great deference / clear error',
+    constitutional_interpretation_no_deference: 'Constitutional interpretation / no deference',
+    mixed: 'Mixed',
+    not_applicable: 'Not applicable',
+    not_stated: 'Not stated',
+    unknown: 'Unknown',
+  };
 
   function ordinal(value) {
     const number = Number(value);
@@ -107,6 +127,8 @@
       sourcePage: sourcePage(record),
       status: clean(record.disposition),
       statusLabel: statusLabel(record.type),
+      proceedingType: PROCEEDING_LABELS[record.proceeding_type] || clean(record.proceeding_type),
+      reviewStandard: REVIEW_LABELS[record.standard_of_review] || clean(record.standard_of_review),
       provisions: Array.isArray(record.provisions) ? record.provisions.filter(Boolean) : [],
       href: href(record),
     };

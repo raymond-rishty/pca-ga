@@ -9,6 +9,7 @@ test('formats case metadata from the record link instead of the case-year field'
     sub: 'SJC/CJB case 2022-23',
     summary: 'The SJC denied the complaint after considering BCO 38-4.',
     provisions: ['BCO 38-4'],
+    proceeding_type: 'appeal',
     year: 2022,
     disposition: 'denied',
     url: 'cases/ga51_2024__2022-23.md',
@@ -17,6 +18,8 @@ test('formats case metadata from the record link instead of the case-year field'
   assert.equal(view.identifier, 'Case 2022-23');
   assert.equal(view.assembly, '51st GA (2024)');
   assert.equal(view.statusLabel, 'Disposition');
+  assert.equal(view.proceedingType, 'Appeal');
+  assert.equal(view.reviewStandard, '');
   assert.equal(view.href, 'cases/ga51_2024__2022-23.html');
   assert.match(view.excerpt, /BCO 38-4/);
 });

@@ -137,6 +137,11 @@ def build_case_rows() -> list[dict]:
     p = os.path.join(IDX, 'case_pages_map.json')
     if os.path.exists(p):
         cmap = json.load(open(p, encoding='utf-8'))
+    taxonomy_by_num = {
+        norm_case_num(c.get('case_id')): c
+        for c in load_jsonl(os.path.join(IDX, 'judicial_cases.jsonl'))
+        if c.get('case_id')
+    }
 
     rows = []
     seen_files: set[str] = set()
@@ -154,18 +159,20 @@ def build_case_rows() -> list[dict]:
         topics: list[str] = []
 
         for n in entry.get('numbers', [num]):
-            c = cases_by_num.get(norm_case_num(n))
+            key = norm_case_num(n)
+            c = cases_by_num.get(key)
+            canonical = taxonomy_by_num.get(key, {})
             if not c:
-                continue
-            for b in (c.get('bco_cited_as') or []):
+                c = {}
+            for b in (canonical.get('bco_provisions') or c.get('bco_cited_as') or []):
                 if re.match(r'^[\d]', b):           # skip "Preface II-(7)" etc.
                     provs.add(f'BCO {b}')
-            if not disposition and c.get('disposition'):
-                disposition = c['disposition']
-            if not year and c.get('year'):
-                year = c['year']
-            if not topics and c.get('topics'):
-                topics = c['topics']
+            if not disposition and (canonical.get('outcome') or c.get('disposition')):
+                disposition = canonical.get('outcome') or c['disposition']
+            if not year and (canonical.get('decision_year') or c.get('year')):
+                year = canonical.get('decision_year') or c['year']
+            if not topics and (canonical.get('topic_tags') or c.get('topics')):
+                topics = canonical.get('topic_tags') or c['topics']
 
         # Fallback year from case number or vol
         if not year:
@@ -190,7 +197,9 @@ def build_case_rows() -> list[dict]:
         if not provs:
             continue
 
-        title = entry.get('title') or num
+        canonical_titles = [taxonomy_by_num.get(norm_case_num(n), {}).get('title')
+                            for n in entry.get('numbers', [num])]
+        title = next((t for t in canonical_titles if t), None) or entry.get('title') or num
         url = f'cases/{fname}.md'
 
         for prov in sorted(provs, key=prov_sort_key):
@@ -201,6 +210,9 @@ def build_case_rows() -> list[dict]:
                 'title': title,
                 'year': year,
                 'disposition': disposition or '',
+                'standard_of_review': next((taxonomy_by_num.get(norm_case_num(n), {}).get('standard_of_review')
+                                            for n in entry.get('numbers', [num])
+                                            if taxonomy_by_num.get(norm_case_num(n), {}).get('standard_of_review')), None),
                 'url': url,
                 'snippet': snippet_for(raw_text, prov) if raw_text else '',
                 'topics': topics,

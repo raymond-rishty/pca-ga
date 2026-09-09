@@ -362,6 +362,7 @@ def text_hits(path: Path) -> dict[str, list[dict[str, Any]]]:
 
 def main() -> None:
     cases = {norm_case_num(c.get("case_number")): c for c in load_jsonl(IDX / "cases.jsonl") if c.get("case_number")}
+    taxonomy = {norm_case_num(c.get("case_id")): c for c in load_jsonl(IDX / "judicial_cases.jsonl") if c.get("case_id")}
     page_map = load_json(IDX / "case_pages_map.json", {})
 
     rows: list[dict[str, Any]] = []
@@ -374,11 +375,12 @@ def main() -> None:
         case_path = CASES_DIR / f"{file_stem}.md"
         nums = [norm_case_num(n) for n in entry.get("numbers", [map_num])]
         case_records = [cases[n] for n in nums if n in cases]
-        title = entry.get("title") or next((c.get("title") for c in case_records if c.get("title")), map_num)
-        year = next((c.get("year") for c in case_records if c.get("year")), None)
-        disposition = next((c.get("disposition") for c in case_records if c.get("disposition")), "")
+        canonical_records = [taxonomy[n] for n in nums if n in taxonomy]
+        title = next((c.get("title") for c in canonical_records if c.get("title")), None) or entry.get("title") or next((c.get("title") for c in case_records if c.get("title")), map_num)
+        year = next((c.get("decision_year") for c in canonical_records if c.get("decision_year")), None) or next((c.get("year") for c in case_records if c.get("year")), None)
+        disposition = next((c.get("outcome") for c in canonical_records if c.get("outcome")), None) or next((c.get("disposition") for c in case_records if c.get("disposition")), "")
         body = next((c.get("body") for c in case_records if c.get("body")), "SJC/CJB")
-        synopsis = SUMMARY_OVERRIDES.get(file_stem) or case_summary(title, disposition, next((c.get("synopsis") for c in case_records if c.get("synopsis")), ""))
+        synopsis = SUMMARY_OVERRIDES.get(file_stem) or next((c.get("summary") for c in canonical_records if c.get("summary")), None) or case_summary(title, disposition, next((c.get("synopsis") for c in case_records if c.get("synopsis")), ""))
 
         by_prov: dict[str, dict[str, Any]] = collections.defaultdict(lambda: {"sources": set(), "evidence": []})
         for c in case_records:
@@ -388,6 +390,10 @@ def main() -> None:
             for raw in c.get("bco_cited_current") or []:
                 for prov in norm_metadata(raw):
                     by_prov[prov]["sources"].add("cases.jsonl:bco_cited_current")
+        for c in canonical_records:
+            for raw in c.get("bco_provisions") or []:
+                for prov in norm_metadata(raw):
+                    by_prov[prov]["sources"].add("judicial_cases.jsonl:bco_provisions")
 
         for prov, hits in text_hits(case_path).items():
             by_prov[prov]["sources"].add("case_markdown_text")
@@ -407,6 +413,9 @@ def main() -> None:
                     "body": (target.get("body") if target else body) or body,
                     "year": (target.get("year") if target else year) or year,
                     "disposition": target_disposition,
+                    "standard_of_review": (target.get("standard_of_review") if target else next(
+                        (c.get("standard_of_review") for c in canonical_records if c.get("standard_of_review")), None
+                    )),
                     "synopsis": target_synopsis,
                     "url": f"cases/{file_stem}.md",
                     "sources": sorted(audit["sources"]),

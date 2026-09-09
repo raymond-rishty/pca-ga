@@ -123,6 +123,8 @@
         view.sourcePage ? `<span>${esc(view.sourcePage)}</span>` : '',
       ].filter(Boolean).join('<span class="home-result__separator" aria-hidden="true">•</span>');
       const facts = [
+        view.category.label === 'Judicial case' && (view.proceedingType || view.reviewStandard)
+          ? `<span class="home-result__fact home-result__fact--judicial"><b>Case:</b> ${view.proceedingType ? esc(view.proceedingType) : ''}${view.proceedingType && view.reviewStandard ? ' · ' : ''}${view.reviewStandard ? `<b>Review:</b> ${esc(view.reviewStandard)}` : ''}</span>` : '',
         view.status ? `<span class="home-result__fact"><b>${esc(view.statusLabel)}:</b> ${highlight(view.status)}</span>` : '',
         provisions ? `<span class="home-result__fact home-result__fact--provisions"><b>Cites:</b> ${provisions}${moreProvisions}</span>` : '',
         matchedFields?.length ? `<span class="home-result__fact home-result__fact--matched"><b>Matched:</b> ${esc(matchedFields.map((field) => engine.FIELD_LABELS[field] || field).join(', '))}</span>` : '',
