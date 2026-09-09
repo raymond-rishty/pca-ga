@@ -18,6 +18,47 @@ IDX = os.path.join(ROOT, "index")
 SOURCE = os.path.join(IDX, "judicial_cases.jsonl")
 OUTPUT = os.path.join(IDX, "JUDICIAL-CASES.md")
 
+PROCEEDING_LABELS = {
+    "complaint": "Complaint",
+    "appeal": "Appeal",
+    "reference": "Reference",
+    "review_and_control": "Review and control",
+    "original_jurisdiction_request": "Original-jurisdiction request",
+    "other": "Other",
+}
+OUTCOME_LABELS = {
+    "sustained": "Sustained",
+    "partially_sustained": "Partially sustained",
+    "not_sustained": "Not sustained",
+    "denied": "Denied",
+    "dismissed": "Dismissed",
+    "out_of_order": "Out of order",
+    "in_order": "In order",
+    "administrative": "Administrative",
+    "referred": "Referred",
+    "granted": "Granted",
+    "abandoned": "Abandoned",
+    "other": "Other",
+}
+REVIEW_BASIS_LABELS = {
+    "factual_findings": "Factual findings — great deference; clear error",
+    "discretion_and_judgment": "Discretion and judgment — great deference; clear error",
+    "constitutional_interpretation": "Constitutional interpretation — independent review",
+    "important_delinquency_or_grossly_unconstitutional_proceeding": (
+        "BCO 40-5 — important delinquency or grossly unconstitutional proceeding"
+    ),
+    "mixed": "Multiple review bases",
+    "not_reached": "Not reached",
+    "not_applicable": "Not applicable",
+    "not_stated": "Not stated",
+    "unknown": "Unknown",
+}
+STATUS_LABELS = {
+    "classified": "Classified",
+    "needs_review": "Needs review",
+    "roster_only": "Roster only",
+}
+
 
 def md(value):
     """Keep generated table rows valid when source metadata contains pipes."""
@@ -44,6 +85,14 @@ def aliases(row):
     return "; ".join(values) or "—"
 
 
+def review_basis(row):
+    values = row.get("review_standards") or []
+    if values:
+        return "; ".join(md(REVIEW_BASIS_LABELS.get(value, value)) for value in values)
+    value = row.get("standard_of_review")
+    return md(REVIEW_BASIS_LABELS.get(value, value)) or "—"
+
+
 def main():
     with open(SOURCE, encoding="utf-8") as source:
         rows = [json.loads(line) for line in source if line.strip()]
@@ -66,14 +115,14 @@ def main():
     for row in rows:
         bco = ", ".join(f"`BCO {x}`" for x in row.get("bco_provisions") or []) or "—"
         topics = ", ".join(f"`{md(x)}`" for x in row.get("topic_tags") or []) or "—"
-        standards = ", ".join(f"`{md(x)}`" for x in row.get("review_standards") or []) or f"`{md(row.get('standard_of_review'))}`"
+        standards = review_basis(row)
         title = md(row.get("title")) or "—"
         summary = md(row.get("summary")) or "—"
         case_id = f"`{row['case_id']}`" if row.get("case_id") else f"`{row.get('roster_id')}`"
         lines.append(
-            f"| {case_id} | {title} | `{md(row.get('proceeding_type'))}` | "
-            f"`{md(row.get('outcome'))}` | {standards} | {aliases(row)} | {summary} | {bco} | {topics} | "
-            f"`{md(row.get('classification_status'))}` | {linked_source(row)} |"
+            f"| {case_id} | {title} | {md(PROCEEDING_LABELS.get(row.get('proceeding_type'), row.get('proceeding_type'))) or '—'} | "
+            f"{md(OUTCOME_LABELS.get(row.get('outcome'), row.get('outcome'))) or '—'} | {standards} | {aliases(row)} | {summary} | {bco} | {topics} | "
+            f"{md(STATUS_LABELS.get(row.get('classification_status'), row.get('classification_status'))) or '—'} | {linked_source(row)} |"
         )
     with open(OUTPUT, "w", encoding="utf-8", newline="\n") as target:
         target.write("\n".join(lines) + "\n")

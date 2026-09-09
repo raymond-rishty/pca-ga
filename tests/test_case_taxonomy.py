@@ -186,3 +186,6 @@ def test_human_index_is_generated_from_the_canonical_layer():
     assert "Review basis" in index
     assert "| `2023-07` | Evans v. Arizona Presbytery |" in index
     assert "| `1986-01` | Kenneth L. Gentry, Jr. et al. v. Calvary Presbytery |" in index
+    assert "Factual findings — great deference; clear error" in index
+    assert "factual_findings" not in index
+    assert "partially_sustained" not in index
