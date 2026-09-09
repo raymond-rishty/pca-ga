@@ -58,7 +58,7 @@ def audit(row):
     procedural = row.get("outcome") in {"abandoned", "out_of_order", "dismissed", "administrative", "in_order"} or "moot" in summary.lower()
     if len(summary) < (80 if procedural or source_recovery else 180):
         flags.append("short")
-    administrative_record = row.get("outcome") in {"administrative", "referred"} or row.get("proceeding_type") == "citation"
+    administrative_record = row.get("outcome") in {"administrative", "referred"} or row.get("proceeding_type") == "review_and_control"
     if not procedural and not source_recovery and not administrative_record and not ISSUE_RE.search(summary):
         flags.append("no_issue_signal")
     if not DISPOSITION_RE.search(summary):

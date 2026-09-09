@@ -24,6 +24,32 @@ test('formats case metadata from the record link instead of the case-year field'
   assert.match(view.excerpt, /BCO 38-4/);
 });
 
+test('preserves letter suffixes in split case identifiers', () => {
+  const view = presenter.formatRecord({
+    type: 'Judicial case',
+    title: 'Case 1992-09a',
+    sub: 'SJC/CJB case 1992-09a',
+  });
+
+  assert.equal(view.identifier, 'Case 1992-09a');
+});
+
+test('surfaces issue-level review standards and a separate 40-5 basis', () => {
+  const view = presenter.formatRecord({
+    type: 'Judicial case',
+    title: 'Wills v. Metro Atlanta Presbytery',
+    sub: 'SJC/CJB case 2016-14',
+    proceeding_type: 'complaint',
+    standard_of_review: 'mixed',
+    review_standards: ['clear_error_discretion', 'independent_constitutional'],
+    supervisory_ground_detail: 'Important delinquency or grossly unconstitutional proceedings',
+  });
+
+  assert.match(view.reviewStandard, /Clear error — discretion and judgment/);
+  assert.match(view.reviewStandard, /Independent review — constitutional interpretation/);
+  assert.equal(view.reviewBasis, 'Important delinquency or grossly unconstitutional proceedings');
+});
+
 test('turns an RPR exception into a readable document title while retaining its source text as context', () => {
   const view = presenter.formatRecord({
     type: 'RPR exception',

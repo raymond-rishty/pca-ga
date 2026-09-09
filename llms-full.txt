@@ -25,7 +25,7 @@ This corpus contains all **52 volumes** of the Presbyterian Church in America *M
 ## Catalogues
 
 - **[Overtures](https://raymond-rishty.github.io/pca-ga/index/OVERTURES.html)** — every overture to every Assembly (number, source presbytery, page). *"Has the PCA considered this before?"*
-- **[Judicial cases](https://raymond-rishty.github.io/pca-ga/index/CASES.html)** — SJC/CCB cases with parties, disposition, and the BCO / Westminster Standards provisions cited; also **[by constitutional provision](https://raymond-rishty.github.io/pca-ga/index/CASES-BY-PROVISION.html)** with auditable tag sources and line evidence.
+- **[Judicial cases](https://raymond-rishty.github.io/pca-ga/index/CASES.html)** — SJC/CCB cases with parties, disposition, and the BCO / Westminster Standards provisions cited; the canonical metadata view is **[JUDICIAL-CASES.md](https://raymond-rishty.github.io/pca-ga/index/JUDICIAL-CASES.html)**; also **[by constitutional provision](https://raymond-rishty.github.io/pca-ga/index/CASES-BY-PROVISION.html)** with auditable tag sources and line evidence.
 - **[Constitutional inquiries](https://raymond-rishty.github.io/pca-ga/index/INQUIRIES.html)** — questions of constitutional interpretation answered by the CCB, each with a Digest-level headnote and the verbatim record. *"What has the CCB said about this provision?"*
 - **[CCB advice on overtures & amendments](https://raymond-rishty.github.io/pca-ga/index/CCB-OVERTURE-ADVICE.html)** — the CCB's constitutional review of proposed changes (whether an overture is *in conflict* with the Constitution).
 - **[Review of Presbytery Records](https://raymond-rishty.github.io/pca-ga/index/RPR.html)** — exceptions of substance taken to each presbytery's minutes (the constitutional-compliance record), threaded across years with their satisfactory/unsatisfactory outcome; also **[by provision](https://raymond-rishty.github.io/pca-ga/index/RPR-BY-PROVISION.html)**. *"Which presbyteries were cited under this BCO provision, and was it resolved?"*
@@ -261,7 +261,7 @@ Presbyteries cited to the SJC for repeated failure to submit minutes/responses o
 
 # Judicial Case Index
 
-Cases decided by the Standing Judicial Commission (SJC) and its predecessor the Committee on Judicial Business (CJB), grouped by Assembly.
+Cases decided by the Standing Judicial Commission (SJC) and its predecessor the Committee on Judicial Business (CJB), grouped by Assembly. For canonical case IDs, proceeding types, review standards, editorial summaries, BCO provisions, and topic tags, see **[JUDICIAL-CASES.md](https://raymond-rishty.github.io/pca-ga/index/JUDICIAL-CASES.html)**.
 
 This index is **structure-first**: every case listed links to a full-text page re-extracted verbatim from the volume (with its opinions). After the decided cases, an Assembly may list extra rows from the underlying case table: *decided at Nth GA* — the case was only listed here (deferred to a later Assembly, or cited from an earlier one) and links to where it was actually decided; *reference / no separate decision* — a cross-reference, roll-up, or out-of-order/withdrawn matter with no published decision; *not yet re-extracted* — the volume is still pending.
 

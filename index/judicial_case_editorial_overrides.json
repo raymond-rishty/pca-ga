@@ -1,4 +1,45 @@
 {
+  "2006-02": {
+    "proceeding_type": "review_and_control",
+    "supervisory_ground": "bco_40_5",
+    "supervisory_ground_detail": "Important delinquency or grossly unconstitutional proceedings"
+  },
+  "2007-14": {
+    "proceeding_type": "review_and_control",
+    "standard_of_review": "not_stated",
+    "standard_of_review_detail": "This was a BCO 40-5/40-6 trial arising from the related memorial, not an appellate review of a lower-court judgment; the decision does not state a distinct BCO 39-3 appellate standard.",
+    "supervisory_ground": "bco_40_5",
+    "supervisory_ground_detail": "Important delinquency or grossly unconstitutional proceedings",
+    "summary_review_status": "audited"
+  },
+  "2016-14": {
+    "proceeding_type": "complaint",
+    "review_standards": ["clear_error_discretion", "independent_constitutional"],
+    "standard_of_review_detail": "Issue 1 applies BCO 39-3.4 to constitutional interpretation; Issue 2 applies BCO 39-3.3 to discretion and judgment.",
+    "summary_review_status": "audited"
+  },
+  "2019-11": {
+    "proceeding_type": "complaint",
+    "review_standards": ["clear_error_discretion"],
+    "standard_of_review_detail": "The adopted opinion applies BCO 39-3.3 to the Session's exercise of discretion and judgment; the dissent argues for BCO 39-3.4 but does not alter the majority holding.",
+    "summary_review_status": "audited"
+  },
+  "2020-05": {
+    "proceeding_type": "complaint",
+    "review_standards": [],
+    "standard_of_review_detail": "The adopted opinion resolves the complaint on the constitutional criteria and procedural errors identified, without stating a distinct BCO 39-3 standard of review.",
+    "summary_review_status": "audited"
+  },
+  "2023-14": {
+    "proceeding_type": "review_and_control",
+    "outcome": "other",
+    "disposition_detail": "BCO 40-5 ruling found egregious constitutional error; proceedings were stayed and terminated, but requested annulment was denied.",
+    "standard_of_review": "not_stated",
+    "standard_of_review_detail": "The SJC reviewed the presbytery's action under BCO 40-5 but did not state one of the BCO 39-3 appellate standards.",
+    "supervisory_ground": "bco_40_5",
+    "supervisory_ground_detail": "Important delinquency or grossly unconstitutional proceedings",
+    "summary_review_status": "audited"
+  },
   "1991-01": {
     "title": "Sandra Lovelace v. Northeast Presbytery",
     "summary": "Sandra Lovelace submitted two letters challenging actions of Northeast Presbytery; the SJC found both administratively and judicially out of order because the first had not been presented first to the lower court and the second lacked supporting reasons and identified no complainable presbytery action under BCO 43-2 and 43-3.",
