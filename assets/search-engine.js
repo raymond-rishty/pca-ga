@@ -11,7 +11,7 @@
     bco: 'BCO reference',
     topics: 'topic',
     proceeding: 'proceeding type',
-    review: 'review standard',
+      review: 'review basis',
     summary: 'summary',
     status: 'status',
     context: 'record context',

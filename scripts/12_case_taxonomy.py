@@ -38,10 +38,10 @@ OUTCOMES = (
     "abandoned", "other",
 )
 STANDARD_OF_REVIEW_CODES = (
-    "clear_error_facts",
-    "clear_error_discretion",
-    "independent_constitutional",
-    "bco_40_5",
+    "factual_findings",
+    "discretion_and_judgment",
+    "constitutional_interpretation",
+    "important_delinquency_or_grossly_unconstitutional_proceeding",
     "mixed",
     "not_reached",
     "not_applicable",
@@ -50,11 +50,15 @@ STANDARD_OF_REVIEW_CODES = (
 )
 
 REVIEW_STANDARD_CODES = (
-    "clear_error_facts",
-    "clear_error_discretion",
-    "independent_constitutional",
-    "bco_40_5",
+    "factual_findings",
+    "discretion_and_judgment",
+    "constitutional_interpretation",
+    "important_delinquency_or_grossly_unconstitutional_proceeding",
 )
+
+NON_MERITS_OUTCOMES = {
+    "out_of_order", "abandoned", "dismissed", "administrative", "in_order", "referred",
+}
 
 BCO_40_5_REVIEW_DETAIL = "BCO 40-5: important delinquency or grossly unconstitutional proceedings."
 
@@ -217,7 +221,7 @@ def classify_proceeding_type(*values):
     if re.search(r"assume original jurisdiction|original jurisdiction", text):
         return "original_jurisdiction_request"
     if re.search(
-        r"\b(?:bco\s*40\s*[-.]\s*5|review\s+and\s+control|"
+        r"\b(?:bco\s*40\s*[-.]\s*5|review\s+and\s+control|memorial|"
         r"important\s+delinquency|grossly\s+unconstitutional\s+proceedings)\b",
         text,
     ):
@@ -238,7 +242,7 @@ def contextual_review_standard(*values):
         r"\b(?:important\s+delinquency|grossly\s+unconstitutional\s+proceedings)\b",
         text,
     ):
-        return "bco_40_5", BCO_40_5_REVIEW_DETAIL
+        return "important_delinquency_or_grossly_unconstitutional_proceeding", BCO_40_5_REVIEW_DETAIL
     return None, None
 
 
@@ -382,7 +386,75 @@ def case_page_headings(body):
     )
 
 
-def decision_text(file):
+def _case_docket_pattern(case_id):
+    """Match one docket without matching a neighboring docket in a bundle."""
+    cid = canonical_id(case_id)
+    if not cid:
+        return None
+    year, number = cid.split("-", 1)
+    number_match = re.fullmatch(r"(\d+)([a-z]?)", number, re.I)
+    if not number_match:
+        return None
+    suffix = re.escape(number_match.group(2))
+    return re.compile(
+        rf"(?<!\d){re.escape(year)}\s*[-–]\s*0*{int(number_match.group(1))}{suffix}(?!\d)",
+        re.I,
+    )
+
+
+def _case_specific_text(body, case_id):
+    """Limit a consolidated decision to the requested docket's adopted section.
+
+    The corpus contains several pages that publish multiple decisions together.
+    Scanning the whole page makes a standard stated for one docket appear on all
+    of them. When the Markdown has docket-specific headings, retain that section
+    through the next docket heading. If no such heading exists, keep the full
+    adopted body rather than guessing at a split.
+    """
+    pattern = _case_docket_pattern(case_id)
+    if not pattern:
+        return body
+    headings = list(re.finditer(r"(?im)^#{2,6}\s+.+$", body))
+    candidates = [
+        heading for heading in headings
+        if pattern.search(heading.group(0))
+        and body.count("\n", 0, heading.start()) + 1 > 30
+        and not re.match(
+            r"(?is)\s*(?:DISSENT(?:ING)?|CONCURRING|CONCURRENCE|"
+            r"OBJECTION|PROTEST|SEPARATE\s+OPINION)\b",
+            body[heading.end(): heading.end() + 300],
+        )
+        and not (
+            not body[heading.end():].strip()
+            and pattern.search(body[:heading.start()])
+        )
+    ]
+    if not candidates:
+        # A few bundled decisions state that a docket is identical to the
+        # reasoning for another docket (notably 2011-16 and 2011-15).
+        cid = canonical_id(case_id)
+        if cid == "2011-16" and re.search(r"identical\s+to\s+Case\s+2011[-–]15", body[:2500], re.I):
+            return _case_specific_text(body, "2011-15")
+        return body
+
+    start = candidates[0].start()
+    target = canonical_id(case_id)
+    end = len(body)
+    for heading in headings:
+        if heading.start() <= start:
+            continue
+        docket_ids = {
+            canonical_id(f"{match.group(1)}-{match.group(2)}{match.group(3) or ''}")
+            for match in re.finditer(r"(?<!\d)(\d{4})\s*[-–]\s*(\d{1,3})([a-z]?)", heading.group(0), re.I)
+        }
+        docket_ids.discard(None)
+        if docket_ids and any(docket_id != target for docket_id in docket_ids):
+            end = heading.start()
+            break
+    return body[start:end]
+
+
+def decision_text(file, case_id=None):
     """Return the adopted decision, excluding separately labeled opinions.
 
     Separate opinions commonly restate BCO 39-3 while arguing for a different
@@ -400,23 +472,8 @@ def decision_text(file):
         r"^\s*(?:DISSENT(?:ING)?|CONCURRING|CONCURRENCE)\s+OPINION\b.*$",
         body,
     )
-    return body[:boundary.start()] if boundary else body
-
-
-def _review_standard_from_override(raw, outcome=None):
-    """Translate the pre-issue-level vocabulary used by older overrides."""
-    text = str(raw or "").strip().lower()
-    if text == "great_deference_clear_error":
-        return ["clear_error_facts", "clear_error_discretion"]
-    if text == "constitutional_interpretation_no_deference":
-        return ["independent_constitutional"]
-    if text == "bco_40_5":
-        return ["bco_40_5"]
-    if text == "mixed":
-        return list(REVIEW_STANDARD_CODES)
-    if text in REVIEW_STANDARD_CODES:
-        return [text]
-    return []
+    adopted = body[:boundary.start()] if boundary else body
+    return _case_specific_text(adopted, case_id)
 
 
 def _review_code(standards, body_available=True, outcome=None, proceeding_type=None):
@@ -433,10 +490,10 @@ def _review_code(standards, body_available=True, outcome=None, proceeding_type=N
 
 def _review_detail(standards, code, outcome=None, proceeding_type=None):
     details = {
-        "clear_error_facts": "BCO 39-3.2: factual findings receive great deference; reversal requires clear error.",
-        "clear_error_discretion": "BCO 39-3.3: matters of discretion and judgment receive great deference; reversal requires clear error.",
-        "independent_constitutional": "BCO 39-3.4: the higher court interprets and applies the Church Constitution according to its best ability, without the same deference to the lower court.",
-        "bco_40_5": BCO_40_5_REVIEW_DETAIL,
+        "factual_findings": "BCO 39-3.2: factual findings receive great deference; reversal requires clear error.",
+        "discretion_and_judgment": "BCO 39-3.3: matters of discretion and judgment receive great deference; reversal requires clear error.",
+        "constitutional_interpretation": "BCO 39-3.4: the higher court interprets and applies the Church Constitution according to its best ability, without the same deference to the lower court.",
+        "important_delinquency_or_grossly_unconstitutional_proceeding": BCO_40_5_REVIEW_DETAIL,
     }
     if code == "mixed":
         return "Issue-level standards: " + "; ".join(details[x] for x in standards)
@@ -451,67 +508,75 @@ def _review_detail(standards, code, outcome=None, proceeding_type=None):
     return "The available decision does not state a distinct standard of review."
 
 
-def standard_of_review(file, outcome, proceeding_type=None, override=None, contextual_standard=None):
+def _detected_review_standards(body, contextual_standard=None):
+    """Detect only bases stated in the adopted decision text."""
+    standards = []
+    if re.search(
+        r"\b(?:BCO\s*40\s*[-.]\s*5|important\s+delinquency|"
+        r"grossly\s+unconstitutional\s+proceedings?)\b",
+        body,
+        re.I,
+    ):
+        standards.append(
+            contextual_standard
+            or "important_delinquency_or_grossly_unconstitutional_proceeding"
+        )
+    if re.search(
+        r"\b39\s*[-.]\s*3\s*[.(]?\s*2\b[^.!?]{0,220}\b(?:factual|finding|great\s+deference|clear\s+error)\b|"
+        r"\b(?:factual\s+findings?|factual\s+matters?|findings?\s+of\s+fact)\b[^.!?]{0,180}\b(?:great\s+deference|clear\s+error)\b|"
+        r"\b(?:great\s+deference|clear\s+error)\b[^.!?]{0,180}\b(?:factual\s+findings?|factual\s+matters?|findings?\s+of\s+fact)\b|"
+        r"\b(?:factual\s+findings?|factual\s+matters?|findings?\s+of\s+fact)\b[^.!?]{0,220}\b39\s*[-.]\s*3\s*[.(]?\s*2\b|"
+        r"\b(?:great\s+deference|clear\s+error)\b[\s\S]{0,500}\b39\s*[-.]\s*3\s*[.(]?\s*2\b",
+        body,
+        re.I,
+    ):
+        standards.append("factual_findings")
+    if re.search(
+        r"\b39\s*[-.]\s*3\s*[.(]?\s*3\b[^.!?]{0,220}\b(?:discretion|judgment|great\s+deference|clear\s+error)\b|"
+        r"\b(?:matters?\s+of\s+discretion\s+and\s+judgment|discretion\s+and\s+judgment)\b[^.!?]{0,180}\b(?:great\s+deference|clear\s+error|review)\b|"
+        r"\b(?:great\s+deference|clear\s+error)\b[^.!?]{0,180}\b(?:discretion\s+and\s+judgment|discretionary\s+judgment)\b|"
+        r"\b(?:great\s+deference|clear\s+error|review)\b[^.!?]{0,220}\b39\s*[-.]\s*3\s*[.(]?\s*3\b|"
+        r"\bdefer(?:ence)?\b[^.!?]{0,220}\b(?:judgments?|discretion)\b[^.!?]{0,220}\b(?:clear\s+error|39\s*[-.]\s*3)\b|"
+        r"\b(?:great\s+deference|clear\s+error)\b[\s\S]{0,500}\b39\s*[-.]\s*3\s*[.(]?\s*3\b",
+        body,
+        re.I,
+    ):
+        standards.append("discretion_and_judgment")
+    if re.search(
+        r"\b39\s*[-.]\s*3\s*[.(]?\s*4\b[^.!?]{0,220}\b(?:constitutional|interpret|deference|review)\b|"
+        r"\bconstitutional\s+interpretation\s+(?:standard|review)\b|"
+        r"\bwithout\s+(?:the\s+same\s+|great\s+)?deference\b[^.!?]{0,180}\b(?:constitutional|interpretation)\b|"
+        r"\b(?:constitutional|interpretation)\b[^.!?]{0,180}\bwithout\s+(?:the\s+same\s+|great\s+)?deference\b",
+        body,
+        re.I,
+    ):
+        standards.append("constitutional_interpretation")
+    return list(dict.fromkeys(standards))
+
+
+def standard_of_review(file, outcome, proceeding_type=None, override=None, contextual_standard=None, case_id=None):
     """Return the display code, explanation, and applicable review standards.
 
     The list is authoritative. ``standard_of_review`` is retained as a compact
     compatibility/display field and is derived from that list.
     """
-    body = decision_text(file)
+    if outcome in NON_MERITS_OUTCOMES:
+        return "not_reached", _review_detail([], "not_reached"), []
+
+    body = decision_text(file, case_id)
     if not body:
-        if override and (override.get("review_standards") is not None or override.get("standard_of_review")):
-            standards = [x for x in (override.get("review_standards") or []) if x in REVIEW_STANDARD_CODES]
-            if not standards:
-                standards = _review_standard_from_override(override.get("standard_of_review"), outcome)
-            raw_code = str(override.get("standard_of_review") or "").lower()
-            if raw_code == "not_applicable" and outcome in {"out_of_order", "abandoned", "dismissed"}:
-                code = "not_reached"
-            elif raw_code in STANDARD_OF_REVIEW_CODES:
-                code = raw_code
-            elif standards:
-                code = _review_code(standards, True, outcome, proceeding_type)
-            else:
-                code = _review_code(standards, True, outcome, proceeding_type)
-            return code, override.get("standard_of_review_detail") or _review_detail(standards, code), standards
         return "unknown", _review_detail([], "unknown"), []
 
+    detected = _detected_review_standards(body, contextual_standard)
     if override and override.get("review_standards") is not None:
-        standards = [x for x in override["review_standards"] if x in REVIEW_STANDARD_CODES]
-    elif override and override.get("standard_of_review"):
-        standards = _review_standard_from_override(override["standard_of_review"], outcome)
+        requested = [x for x in override["review_standards"] if x in REVIEW_STANDARD_CODES]
+        # Editorial data may narrow an automatic match, including an explicit
+        # empty list, but it may not assert a basis absent from the adopted text.
+        standards = [x for x in requested if x in detected]
     else:
-        standards = []
-        if contextual_standard and outcome not in {"out_of_order", "abandoned", "dismissed", "administrative", "in_order", "referred"}:
-            standards.append(contextual_standard)
-        if re.search(
-            r"\b39\s*[-.]\s*3\s*[.(]?\s*2\b|"
-            r"\b(?:factual\s+(?:finding|matter)|finding\s+of\s+fact)\b[^.!?]{0,180}\bclear\s+error\b|"
-            r"\bclear\s+error\b[^.!?]{0,180}\b(?:factual\s+(?:finding|matter)|finding\s+of\s+fact)\b",
-            body, re.I,
-        ):
-            standards.append("clear_error_facts")
-        if re.search(
-            r"\b(?:39\s*[-.]\s*3\s*[.(]?\s*3|great\s+deference|"
-            r"matters?\s+of\s+discretion\s+and\s+judgment)\b",
-            body, re.I,
-        ) and re.search(r"\b(?:clear\s+error|deference|39\s*[-.]\s*3)\b", body, re.I):
-            standards.append("clear_error_discretion")
-        if re.search(
-            r"\b(?:39\s*[-.]\s*3\s*[.(]?\s*4|constitutional\s+interpretation|"
-            r"without\s+(?:the\s+same\s+|great\s+)?deference)\b",
-            body, re.I,
-        ):
-            standards.append("independent_constitutional")
-
-    standards = list(dict.fromkeys(standards))
+        standards = detected
 
     code = _review_code(standards, True, outcome, proceeding_type)
-    if override and not standards:
-        raw_code = str(override.get("standard_of_review") or "").lower()
-        if raw_code == "not_applicable":
-            code = "not_reached" if outcome in {"out_of_order", "abandoned", "dismissed"} else "not_applicable"
-        elif raw_code in {"not_reached", "not_stated", "unknown"}:
-            code = raw_code
     return code, _review_detail(standards, code, outcome, proceeding_type), standards
 
 
@@ -587,9 +652,13 @@ def main():
         detail = override.get("disposition_detail") or detail
         outcome = override.get("outcome") or select_outcome(detail, summary, raw_title)
         review_code, review_detail, review_standards = standard_of_review(
-            page_file, outcome, posture, override, contextual_standard
+            page_file, outcome, posture, override, contextual_standard, cid
         )
-        review_detail = override.get("standard_of_review_detail") or review_detail
+        if (
+            override.get("review_standards") is not None
+            and set(override.get("review_standards") or []) == set(review_standards)
+        ):
+            review_detail = override.get("standard_of_review_detail") or review_detail
         bco = []
         for raw_code in (record.get("bco_cited_as") or []):
             normalized = normalize_bco_code(raw_code)

@@ -1,25 +1,24 @@
 {
   "2006-02": {
     "proceeding_type": "review_and_control",
-    "standard_of_review": "bco_40_5",
-    "standard_of_review_detail": "BCO 40-5: important delinquency or grossly unconstitutional proceedings."
+    "standard_of_review_detail": "BCO 40-5: important delinquency or grossly unconstitutional proceedings.",
+    "review_standards": ["important_delinquency_or_grossly_unconstitutional_proceeding"]
   },
   "2007-14": {
     "proceeding_type": "review_and_control",
-    "standard_of_review": "bco_40_5",
     "standard_of_review_detail": "BCO 40-5: important delinquency or grossly unconstitutional proceedings; this was a 40-5/40-6 trial rather than an ordinary appeal.",
-    "review_standards": ["bco_40_5"],
+    "review_standards": ["important_delinquency_or_grossly_unconstitutional_proceeding"],
     "summary_review_status": "audited"
   },
   "2016-14": {
     "proceeding_type": "complaint",
-    "review_standards": ["clear_error_discretion", "independent_constitutional"],
+    "review_standards": ["discretion_and_judgment", "constitutional_interpretation"],
     "standard_of_review_detail": "Issue 1 applies BCO 39-3.4 to constitutional interpretation; Issue 2 applies BCO 39-3.3 to discretion and judgment.",
     "summary_review_status": "audited"
   },
   "2019-11": {
     "proceeding_type": "complaint",
-    "review_standards": ["clear_error_discretion"],
+    "review_standards": ["discretion_and_judgment"],
     "standard_of_review_detail": "The adopted opinion applies BCO 39-3.3 to the Session's exercise of discretion and judgment; the dissent argues for BCO 39-3.4 but does not alter the majority holding.",
     "summary_review_status": "audited"
   },
@@ -33,17 +32,15 @@
     "proceeding_type": "review_and_control",
     "outcome": "other",
     "disposition_detail": "BCO 40-5 ruling found egregious constitutional error; proceedings were stayed and terminated, but requested annulment was denied.",
-    "standard_of_review": "bco_40_5",
     "standard_of_review_detail": "BCO 40-5: important delinquency or grossly unconstitutional proceedings; the SJC found egregious constitutional error and addressed the requested relief.",
-    "review_standards": ["bco_40_5"],
+    "review_standards": ["important_delinquency_or_grossly_unconstitutional_proceeding"],
     "summary_review_status": "audited"
   },
   "1991-01": {
     "title": "Sandra Lovelace v. Northeast Presbytery",
     "summary": "Sandra Lovelace submitted two letters challenging actions of Northeast Presbytery; the SJC found both administratively and judicially out of order because the first had not been presented first to the lower court and the second lacked supporting reasons and identified no complainable presbytery action under BCO 43-2 and 43-3.",
     "outcome": "out_of_order",
-    "disposition_detail": "Both letters found administratively and judicially out of order",
-    "standard_of_review": "not_applicable"
+    "disposition_detail": "Both letters found administratively and judicially out of order"
   },
   "1991-03": {
     "title": "Daniel R. Morse v. Covenant Presbytery",
@@ -60,7 +57,6 @@
     "title": "Herman Gunter III et al. v. Central Florida Presbytery",
     "summary": "Herman Gunter III and Donald Monroe challenged their Session's refusal to approve them for examination as ruling elders based on its assessment of their theonomic views and alleged divisiveness. The SJC denied the complaint, holding that the Session could evaluate theological and character issues affecting eligibility for office and could exercise judgment for the church's peace and purity.",
     "outcome": "denied",
-    "standard_of_review": "great_deference_clear_error",
     "standard_of_review_detail": "The Session's eligibility judgment was to be sustained absent capricious action or bad faith."
   },
   "1991-07": {
@@ -68,7 +64,6 @@
     "summary": "Complainants challenged Potomac Presbytery's handling of a dispute over the dissolution of pastoral relationships at Timonium Presbyterian Church. The SJC did not sustain the timely complaint, dismissed two related complaints as untimely under BCO 43-2, and deferred to the lower court's judgment absent demonstrated constitutional error.",
     "outcome": "other",
     "disposition_detail": "Timely complaint not sustained; two related complaints dismissed as untimely",
-    "standard_of_review": "great_deference_clear_error",
     "standard_of_review_detail": "The SJC would not overturn a competent lower court absent a clear constitutional violation or other demonstrated error."
   },
   "1992-05": {
@@ -85,90 +80,77 @@
     "title": "Ed Stadick v. Northern Illinois Presbytery",
     "summary": "RE Ed Stadick filed a complaint against Northern Illinois Presbytery, but the SJC found the case out of order because it was not filed within the applicable time limit.",
     "outcome": "out_of_order",
-    "disposition_detail": "Found out of order because not timely filed",
-    "standard_of_review": "not_applicable"
+    "disposition_detail": "Found out of order because not timely filed"
   },
   "2002-17": {
     "title": "Sung K. Kim v. Korean Capital Presbytery",
     "summary": "TE Sung K. Kim appealed his deposition by Korean Capital Presbytery, but the SJC found the appeal judicially out of order because he had not submitted to a regular trial as required by BCO 42-2; the underlying contumacy finding and deposition were therefore not reviewed on the merits.",
     "outcome": "out_of_order",
-    "disposition_detail": "Appeal found judicially out of order under BCO 42-2",
-    "standard_of_review": "not_applicable"
+    "disposition_detail": "Appeal found judicially out of order under BCO 42-2"
   },
   "2002-18": {
     "title": "Mark Herzor and Erwin Morrison v. Philadelphia Presbytery",
     "summary": "TEs Mark Herzor and Erwin Morrison challenged a Philadelphia Presbytery matter arising from a judicial commission's actions. The SJC found the complaint judicially out of order because it targeted the commission rather than completed presbytery action under BCO 15-3 and 43-1.",
     "outcome": "out_of_order",
-    "disposition_detail": "Complaint found judicially out of order under BCO 15-3 and 43-1",
-    "standard_of_review": "not_applicable"
+    "disposition_detail": "Complaint found judicially out of order under BCO 15-3 and 43-1"
   },
   "2003-07": {
     "title": "Aureliano Tan v. South Texas Presbytery",
     "summary": "TE Aureliano Tan complained against South Texas Presbytery, but the SJC found the complaint administratively out of order because the presbytery had not yet heard it; the matter was premature and received no merits review.",
     "outcome": "out_of_order",
-    "disposition_detail": "Complaint found administratively out of order because prematurely filed",
-    "standard_of_review": "not_applicable"
+    "disposition_detail": "Complaint found administratively out of order because prematurely filed"
   },
   "2004-06": {
     "title": "Aureliano Tan Jr. v. Houston Metro Presbytery",
     "summary": "TE Aureliano Tan Jr. appealed Houston Metro Presbytery's action, but the SJC found the appeal judicially out of order because he had not submitted to a regular trial as required by BCO 42-2.",
     "outcome": "out_of_order",
-    "disposition_detail": "Appeal found judicially out of order under BCO 42-2",
-    "standard_of_review": "not_applicable"
+    "disposition_detail": "Appeal found judicially out of order under BCO 42-2"
   },
   "2008-10": {
     "title": "Mark Grasso et al. v. Philadelphia Presbytery",
     "summary": "RE Mark Grasso and others challenged Philadelphia Presbytery's licensure and ordination of Jason Hsu, who held a stated difference concerning women deacons but affirmed willingness to follow the BCO. The SJC denied the complaint and affirmed the presbytery's actions, holding that the stated difference did not bar licensure or ordination; a dissent was recorded.",
-    "outcome": "denied",
-    "standard_of_review": "great_deference_clear_error"
+    "outcome": "denied"
   },
   "2009-01": {
     "title": "Morton H. Smith v. Western Carolina Presbytery",
     "summary": "TE Morton H. Smith challenged Western Carolina Presbytery's ruling that his complaint was filed too late. The SJC disposed of the matter by reference to its decision in Case 2008-15, without a separate merits analysis in the 2009-01 section.",
     "outcome": "referred",
-    "disposition_detail": "Answered by reference to the SJC decision in Case 2008-15",
-    "standard_of_review": "not_applicable"
+    "disposition_detail": "Answered by reference to the SJC decision in Case 2008-15"
   },
   "2011-16": {
     "title": "Steven Hahn v. Philadelphia Metro West Presbytery (duplicate of Case 2011-15)",
     "summary": "Case 2011-16 duplicated Case 2011-15 in Steven Hahn's consolidated complaints against Philadelphia Metro West Presbytery's refusal to institute process against Lisa Ridenour, RE Glen Ridenour, and TE Eric Huber. The SJC denied the complaint, deferring to the presbytery's judgment under BCO 31-8 absent clear error.",
-    "outcome": "denied",
-    "standard_of_review": "great_deference_clear_error"
+    "outcome": "denied"
   },
   "2016-10": {
     "title": "Korean Northwest Presbytery",
     "summary": "The SJC reviewed Korean Northwest Presbytery's amended and corrected response to exceptions in the review of its records and accepted the response by roll-call vote, with one dissent and one abstention recorded.",
     "outcome": "administrative",
-    "disposition_detail": "Amended and corrected responses accepted",
-    "standard_of_review": "not_applicable"
+    "disposition_detail": "Amended and corrected responses accepted"
   },
   "2018-01": {
     "title": "Glen Mapes v. Metropolitan New York Presbytery",
     "summary": "RE Glen Mapes appealed his conviction and censures by a temporary session of New Hope Christian Church. The SJC sustained the appeal in part, affirming the finding that he failed to submit to church government but reversing the excessive suspension and deposition and replacing them with admonition; the related complaint was moot after the church left the PCA.",
     "outcome": "partially_sustained",
-    "disposition_detail": "Appeal sustained in part; censures reversed and replaced with admonition; related complaint moot",
-    "standard_of_review": "great_deference_clear_error"
+    "disposition_detail": "Appeal sustained in part; censures reversed and replaced with admonition; related complaint moot"
   },
   "2021-08": {
     "title": "Korean Southwest Orange County Presbytery",
     "summary": "The SJC cited Korean Southwest Orange County Presbytery to respond to an exception in the review of its records. When no adopted response had arrived by the March 3, 2022 meeting, the SJC allowed time for the presbytery to adopt and file one and warned that failure could lead to a further appearance; no merits disposition appears in this record.",
     "outcome": "administrative",
-    "disposition_detail": "Citation and response process; no merits disposition in this record",
-    "standard_of_review": "not_applicable"
+    "disposition_detail": "Citation and response process; no merits disposition in this record"
   },
   "2022-17": {
     "title": "Peter Benyola v. Central Florida Presbytery (three complaints)",
     "summary": "Peter Benyola's three complaints against Central Florida Presbytery were found administratively out of order because he was no longer a member of a PCA congregation and therefore lacked standing; the SJC did not reach the merits.",
     "outcome": "out_of_order",
-    "disposition_detail": "Complaints administratively out of order and incapable of being put in order for lack of standing",
-    "standard_of_review": "not_applicable"
+    "disposition_detail": "Complaints administratively out of order and incapable of being put in order for lack of standing"
   },
   "1983-03": {
     "title": "James Hope v. Calvary Presbytery",
     "summary": "The SJC catalog records James Hope v. Calvary Presbytery as withdrawn before a merits decision. No opinion text has been located in the local case corpus.",
     "outcome": "abandoned",
     "disposition_detail": "Withdrawn before merits decision",
-    "standard_of_review": "not_applicable",
     "summary_source": "official_catalog"
   },
   "1983-04": {
@@ -176,7 +158,6 @@
     "summary": "The SJC catalog records Finn v. Delmarva Presbytery as withdrawn before a merits decision. No opinion text has been located in the local case corpus.",
     "outcome": "abandoned",
     "disposition_detail": "Withdrawn before merits decision",
-    "standard_of_review": "not_applicable",
     "summary_source": "official_catalog"
   },
   "1983-05": {
@@ -184,7 +165,6 @@
     "summary": "The SJC catalog records Knight et al. v. St. Louis Presbytery as withdrawn before a merits decision. No opinion text has been located in the local case corpus.",
     "outcome": "abandoned",
     "disposition_detail": "Withdrawn before merits decision",
-    "standard_of_review": "not_applicable",
     "summary_source": "official_catalog"
   },
   "1983-11": {
@@ -192,49 +172,42 @@
     "summary": "The SJC catalog records Morrison v. Philadelphia Presbytery as withdrawn before a merits decision. No opinion text has been located in the local case corpus.",
     "outcome": "abandoned",
     "disposition_detail": "Withdrawn before merits decision",
-    "standard_of_review": "not_applicable",
     "summary_source": "official_catalog"
   },
   "1985-01": {
     "title": "Session of Faith Presbyterian Church, Akron, Ohio v. Ascension Presbytery",
     "summary": "The SJC catalog identifies this complaint concerning the Session of Faith Presbyterian Church in Akron and Ascension Presbytery, but the available official catalog and local corpus provide no final disposition or merits opinion. This remains a source-recovery item.",
     "outcome": "other",
-    "standard_of_review": "unknown",
     "summary_source": "official_catalog"
   },
   "1985-04": {
     "title": "Mayfield v. Siouxlands Presbytery",
     "summary": "The SJC catalog identifies Mayfield v. Siouxlands Presbytery, but the available official catalog and local corpus provide no final disposition or merits opinion. This remains a source-recovery item.",
     "outcome": "other",
-    "standard_of_review": "unknown",
     "summary_source": "official_catalog"
   },
   "1989-04": {
     "title": "Morrison v. Philadelphia Presbytery",
     "summary": "The SJC catalog identifies Morrison v. Philadelphia Presbytery, but the available official catalog and local corpus provide no final disposition or merits opinion. This remains a source-recovery item.",
     "outcome": "other",
-    "standard_of_review": "unknown",
     "summary_source": "official_catalog"
   },
   "1989-06": {
     "title": "Debardeleben v. Philadelphia Presbytery",
     "summary": "The SJC catalog identifies Debardeleben v. Philadelphia Presbytery, but the available official catalog and local corpus provide no final disposition or merits opinion. This remains a source-recovery item.",
     "outcome": "other",
-    "standard_of_review": "unknown",
     "summary_source": "official_catalog"
   },
   "1989-09": {
     "title": "Morrison v. Philadelphia Presbytery",
     "summary": "The SJC catalog identifies Morrison v. Philadelphia Presbytery, but the available official catalog and local corpus provide no final disposition or merits opinion. This remains a source-recovery item.",
     "outcome": "other",
-    "standard_of_review": "unknown",
     "summary_source": "official_catalog"
   },
   "1991-08": {
     "title": "Hathaway v. Grace Presbytery",
     "summary": "The SJC catalog identifies Hathaway v. Grace Presbytery, but the available official catalog and local corpus provide no final disposition or merits opinion. This remains a source-recovery item.",
     "outcome": "other",
-    "standard_of_review": "unknown",
     "summary_source": "official_catalog"
   },
   "1997-01": {
@@ -242,7 +215,6 @@
     "summary": "The SJC catalog records Felton v. Grace Presbytery as withdrawn before a merits decision. No opinion text has been located in the local case corpus.",
     "outcome": "abandoned",
     "disposition_detail": "Withdrawn before merits decision",
-    "standard_of_review": "not_applicable",
     "summary_source": "official_catalog"
   },
   "1999-03": {
@@ -250,7 +222,6 @@
     "summary": "The SJC catalog records Gatis v. Northeast Presbytery as withdrawn before a merits decision. No opinion text has been located in the local case corpus.",
     "outcome": "abandoned",
     "disposition_detail": "Withdrawn before merits decision",
-    "standard_of_review": "not_applicable",
     "summary_source": "official_catalog"
   },
   "2001-05": {
@@ -258,7 +229,6 @@
     "summary": "The SJC catalog records Ham v. Korean Capital Presbytery as withdrawn before a merits decision. No opinion text has been located in the local case corpus.",
     "outcome": "abandoned",
     "disposition_detail": "Withdrawn before merits decision",
-    "standard_of_review": "not_applicable",
     "summary_source": "official_catalog"
   },
   "2001-20": {
@@ -266,7 +236,6 @@
     "summary": "The SJC catalog records Dae Hee Lee et al. v. Korean Capital Presbytery as withdrawn before a merits decision. No opinion text has been located in the local case corpus.",
     "outcome": "abandoned",
     "disposition_detail": "Withdrawn before merits decision",
-    "standard_of_review": "not_applicable",
     "summary_source": "official_catalog"
   },
   "2001-21": {
@@ -274,7 +243,6 @@
     "summary": "The SJC catalog records Ha Oak Kim et al. v. Korean Capital Presbytery as withdrawn before a merits decision. No opinion text has been located in the local case corpus.",
     "outcome": "abandoned",
     "disposition_detail": "Withdrawn before merits decision",
-    "standard_of_review": "not_applicable",
     "summary_source": "official_catalog"
   },
   "2001-22": {
@@ -282,7 +250,6 @@
     "summary": "The SJC catalog records Moon Ham v. Korean Capital Presbytery as withdrawn before a merits decision. No opinion text has been located in the local case corpus.",
     "outcome": "abandoned",
     "disposition_detail": "Withdrawn before merits decision",
-    "standard_of_review": "not_applicable",
     "summary_source": "official_catalog"
   },
   "2001-23": {
@@ -290,7 +257,6 @@
     "summary": "The SJC catalog records Dae Hee Lee et al. v. Korean Capital Presbytery as withdrawn before a merits decision. No opinion text has been located in the local case corpus.",
     "outcome": "abandoned",
     "disposition_detail": "Withdrawn before merits decision",
-    "standard_of_review": "not_applicable",
     "summary_source": "official_catalog"
   },
   "2001-26": {
@@ -298,7 +264,6 @@
     "summary": "The SJC catalog records Price v. Northern Illinois Presbytery as abandoned before a merits decision. No opinion text has been located in the local case corpus.",
     "outcome": "abandoned",
     "disposition_detail": "Abandoned before merits decision",
-    "standard_of_review": "not_applicable",
     "summary_source": "official_catalog"
   },
   "2001-27": {
@@ -306,7 +271,6 @@
     "summary": "The SJC catalog records Price v. Northern Illinois Presbytery as abandoned before a merits decision. No opinion text has been located in the local case corpus.",
     "outcome": "abandoned",
     "disposition_detail": "Abandoned before merits decision",
-    "standard_of_review": "not_applicable",
     "summary_source": "official_catalog"
   },
   "2001-29": {
@@ -314,7 +278,6 @@
     "summary": "The SJC catalog records Yates et al. v. South Texas Presbytery as withdrawn before a merits decision. No opinion text has been located in the local case corpus.",
     "outcome": "abandoned",
     "disposition_detail": "Withdrawn before merits decision",
-    "standard_of_review": "not_applicable",
     "summary_source": "official_catalog"
   },
   "2002-12": {
@@ -322,7 +285,6 @@
     "summary": "The SJC catalog records Gardner v. North Georgia Presbytery as out of order, without a merits opinion. The local corpus contains no fuller decision text.",
     "outcome": "out_of_order",
     "disposition_detail": "Found out of order; no merits opinion located",
-    "standard_of_review": "not_applicable",
     "summary_source": "official_catalog"
   },
   "2002-26": {
@@ -330,7 +292,6 @@
     "summary": "The SJC catalog records Wright v. Northern California Presbytery as judicially out of order and withdrawn before a merits decision. No opinion text has been located in the local case corpus.",
     "outcome": "abandoned",
     "disposition_detail": "Judicially out of order and withdrawn",
-    "standard_of_review": "not_applicable",
     "summary_source": "official_catalog"
   },
   "2002-27": {
@@ -338,7 +299,6 @@
     "summary": "The SJC catalog records Nichols v. James River Presbytery as judicially out of order, without a merits opinion. The local corpus contains no fuller decision text.",
     "outcome": "out_of_order",
     "disposition_detail": "Judicially out of order; no merits opinion located",
-    "standard_of_review": "not_applicable",
     "summary_source": "official_catalog"
   },
   "2002-28": {
@@ -346,7 +306,6 @@
     "summary": "The SJC catalog records Gardiner v. North Georgia Presbytery as judicially out of order, without a merits opinion. The local corpus contains no fuller decision text.",
     "outcome": "out_of_order",
     "disposition_detail": "Judicially out of order; no merits opinion located",
-    "standard_of_review": "not_applicable",
     "summary_source": "official_catalog"
   },
   "2004-01": {
@@ -354,7 +313,6 @@
     "summary": "The SJC catalog records Westminster Presbyterian Church v. Westminster Presbytery as withdrawn before a merits decision. No opinion text has been located in the local case corpus.",
     "outcome": "abandoned",
     "disposition_detail": "Withdrawn before merits decision",
-    "standard_of_review": "not_applicable",
     "summary_source": "official_catalog"
   },
   "2004-10": {
@@ -362,7 +320,6 @@
     "summary": "The SJC catalog records Merriam v. Tennessee Valley Presbytery as withdrawn before a merits decision. No opinion text has been located in the local case corpus.",
     "outcome": "abandoned",
     "disposition_detail": "Withdrawn before merits decision",
-    "standard_of_review": "not_applicable",
     "summary_source": "official_catalog"
   },
   "2004-11": {
@@ -370,7 +327,6 @@
     "summary": "The SJC catalog records Scott v. Northern California Presbytery as moot, so no merits opinion is identified in the available catalog or local corpus.",
     "outcome": "other",
     "disposition_detail": "Moot; no merits opinion located",
-    "standard_of_review": "not_applicable",
     "summary_source": "official_catalog"
   },
   "2004-13": {
@@ -378,7 +334,6 @@
     "summary": "The SJC catalog records Zaepfel v. Central Carolina Presbytery as abandoned before a merits decision. No opinion text has been located in the local case corpus.",
     "outcome": "abandoned",
     "disposition_detail": "Abandoned before merits decision",
-    "standard_of_review": "not_applicable",
     "summary_source": "official_catalog"
   },
   "2005-02": {
@@ -386,7 +341,6 @@
     "summary": "The SJC catalog records Andrino v. Southern Florida Presbytery as out of order, without a merits opinion. The local corpus contains no fuller decision text.",
     "outcome": "out_of_order",
     "disposition_detail": "Found out of order; no merits opinion located",
-    "standard_of_review": "not_applicable",
     "summary_source": "official_catalog"
   },
   "2005-07": {
@@ -394,7 +348,6 @@
     "summary": "The SJC catalog records Andrino v. Southern Florida Presbytery as out of order, without a merits opinion. The local corpus contains no fuller decision text.",
     "outcome": "out_of_order",
     "disposition_detail": "Found out of order; no merits opinion located",
-    "standard_of_review": "not_applicable",
     "summary_source": "official_catalog"
   },
   "2005-11": {
@@ -402,7 +355,6 @@
     "summary": "RE Hugo Andrino challenged disciplinary actions following his refusal to appear before the Session, including his deposition and excommunication for contumacy. The SJC found the complaint administratively out of order because Andrino was not a member in good standing with a right to complain under BCO 43-1, so it did not review the merits.",
     "outcome": "out_of_order",
     "disposition_detail": "Administratively out of order for lack of standing under BCO 43-1",
-    "standard_of_review": "not_applicable",
     "summary_source": "official_minutes"
   },
   "2005-13": {
@@ -410,7 +362,6 @@
     "summary": "The SJC catalog records Zaepfel v. Central Carolina Presbytery as out of order, without a merits opinion. The local corpus contains no fuller decision text.",
     "outcome": "out_of_order",
     "disposition_detail": "Found out of order; no merits opinion located",
-    "standard_of_review": "not_applicable",
     "summary_source": "official_catalog"
   },
   "2006-01": {
@@ -418,7 +369,6 @@
     "summary": "The SJC catalog records Andrino v. Southern Florida Presbytery as out of order, without a merits opinion. The local corpus contains no fuller decision text.",
     "outcome": "out_of_order",
     "disposition_detail": "Found out of order; no merits opinion located",
-    "standard_of_review": "not_applicable",
     "summary_source": "official_catalog"
   },
   "2008-02": {
@@ -426,7 +376,6 @@
     "summary": "The SJC catalog records Hofland v. Eastern Carolina Presbytery as withdrawn before a merits decision. No opinion text has been located in the local case corpus.",
     "outcome": "abandoned",
     "disposition_detail": "Withdrawn before merits decision",
-    "standard_of_review": "not_applicable",
     "summary_source": "official_catalog"
   },
   "2008-03": {
@@ -434,7 +383,6 @@
     "summary": "The SJC catalog records Acree v. Chesapeake Presbytery as judicially out of order, without a merits opinion. The local corpus contains no fuller decision text.",
     "outcome": "out_of_order",
     "disposition_detail": "Judicially out of order; no merits opinion located",
-    "standard_of_review": "not_applicable",
     "summary_source": "official_catalog"
   },
   "2008-12": {
@@ -442,7 +390,6 @@
     "summary": "The SJC catalog records Malone v. Metropolitan New York Presbytery as out of order, without a merits opinion. The local corpus contains no fuller decision text.",
     "outcome": "out_of_order",
     "disposition_detail": "Found out of order; no merits opinion located",
-    "standard_of_review": "not_applicable",
     "summary_source": "official_catalog"
   },
   "2009-15": {
@@ -450,7 +397,6 @@
     "summary": "The SJC catalog records Robinson v. Metropolitan New York Presbytery as judicially out of order, without a merits opinion. The local corpus contains no fuller decision text.",
     "outcome": "out_of_order",
     "disposition_detail": "Judicially out of order; no merits opinion located",
-    "standard_of_review": "not_applicable",
     "summary_source": "official_catalog"
   },
   "2009-17": {
@@ -458,7 +404,6 @@
     "summary": "The SJC catalog records McNeil v. Chesapeake Presbytery and related Cases 2009-18 through 2009-20 as administratively out of order, without a merits opinion. The local corpus contains no fuller decision text for Case 2009-17.",
     "outcome": "out_of_order",
     "disposition_detail": "Administratively out of order; no merits opinion located",
-    "standard_of_review": "not_applicable",
     "summary_source": "official_catalog"
   },
   "2013-05": {
@@ -466,7 +411,6 @@
     "summary": "Steven Hahn asked the SJC to assume original jurisdiction over Philadelphia Metro West Presbytery. The SJC catalog records the matter as administratively out of order, and no merits opinion has been located in the local corpus.",
     "outcome": "out_of_order",
     "disposition_detail": "Administratively out of order; request to assume original jurisdiction not heard",
-    "standard_of_review": "not_applicable",
     "summary_source": "official_catalog"
   },
   "2023-06": {
@@ -488,7 +432,6 @@
     "summary": "TEs Felipe Assis and Carter Brown appealed South Florida Presbytery's decision to divest them without censure after their churches left the PCA and they remained without transferred credentials. The SJC sustained the appeal, holding that BCO 13-2 and 34-10 did not authorize the divestiture on these facts, returned the ministers to good standing, and directed Presbytery to dissolve the existing calls and pursue a constitutionally appropriate course; two specifications could not be judged on the record.",
     "outcome": "sustained",
     "disposition_detail": "Appeal sustained; divestiture reversed and ministers returned to good standing",
-    "standard_of_review": "great_deference_clear_error",
     "summary_source": "official_decision_pdf"
   },
   "1977-01": {
@@ -503,7 +446,6 @@
     "disposition_detail": "New hearing ordered under BCO 44-5; judicial commission appointed for a potential further appeal",
     "bco_provisions": ["44-5"],
     "topic_tags": ["judicial process", "charges", "new hearing", "ministerial discipline", "notice and record"],
-    "standard_of_review": "not_applicable",
     "summary_source": "case_page"
   },
   "1980-03": {
@@ -519,7 +461,6 @@
     "outcome": "not_sustained",
     "disposition_detail": "Items 1–3 and the complaint as a whole not sustained; no BCO violation found",
     "topic_tags": ["administrative commission", "pastoral relationship", "congregational vote", "presbytery authority", "reconciliation"],
-    "standard_of_review": "great_deference_clear_error",
     "standard_of_review_detail": "The complaint expressly challenged presbytery judgment and discretion; no constitutional violation was found.",
     "summary_source": "case_page"
   },
@@ -529,7 +470,6 @@
     "disposition_detail": "Complaint not sustained conditionally; Western Carolinas Presbytery directed to proceed under BCO 32-3 and following",
     "bco_provisions": ["32-3", "32-20", "31-7"],
     "topic_tags": ["original jurisdiction", "institution of process", "statute of limitations", "presbytery jurisdiction"],
-    "standard_of_review": "not_applicable",
     "summary_source": "case_page"
   },
   "1982-05": {
@@ -538,7 +478,6 @@
     "disposition_detail": "Complaint sustained; total-abstinence resolution held to bind conscience beyond Scripture",
     "bco_provisions": [],
     "topic_tags": ["alcohol", "total abstinence", "Christian liberty", "binding conscience", "Westminster Confession"],
-    "standard_of_review": "constitutional_interpretation_no_deference",
     "standard_of_review_detail": "The judgment interpreted the constitutional prohibition against binding conscience by human commands in WCF 20-2.",
     "summary_source": "case_page"
   },
@@ -548,7 +487,6 @@
     "disposition_detail": "Complaint sustained in all parts; case remanded for a new trial under proper BCO procedure",
     "bco_provisions": ["34-7"],
     "topic_tags": ["ministerial discipline", "adultery", "censure", "new trial", "judicial procedure"],
-    "standard_of_review": "great_deference_clear_error",
     "standard_of_review_detail": "The judgment reviewed the lower court's disciplinary procedure and proportionality against BCO 34-7.",
     "summary_source": "case_page"
   },
@@ -558,7 +496,6 @@
     "disposition_detail": "Complaint sustained; ordination-trial action annulled, with corrective and pastoral directions; protest recorded",
     "bco_provisions": ["21-5", "56-6", "58-4", "7-2", "9-3"],
     "topic_tags": ["ordination", "doctrinal subscription", "Lord's Supper", "baptism", "Sabbath", "women deacons"],
-    "standard_of_review": "constitutional_interpretation_no_deference",
     "standard_of_review_detail": "The judgment determined whether stated exceptions conformed to the PCA's constitutional standards.",
     "summary_source": "case_page"
   },
@@ -568,7 +505,6 @@
     "disposition_detail": "Complaint sustained; action sustaining the transfer-license examination annulled; instruction and re-examination directed",
     "bco_provisions": [],
     "topic_tags": ["licensure", "transfer of license", "Christian Sabbath", "Westminster Confession", "doctrinal examination"],
-    "standard_of_review": "constitutional_interpretation_no_deference",
     "standard_of_review_detail": "The judgment interpreted the Sabbath doctrine required by the Westminster Confession and Catechisms.",
     "summary_source": "case_page"
   },
@@ -578,7 +514,6 @@
     "disposition_detail": "Items 2 and 3 sustained; Items 1, 4, and 5 not sustained",
     "bco_provisions": ["13-10", "40-3", "42-4", "43-1"],
     "topic_tags": ["judicial commission", "called meeting", "parliamentary procedure", "church membership", "standing"],
-    "standard_of_review": "not_applicable",
     "standard_of_review_detail": "The judgment primarily resolved procedural and jurisdictional questions.",
     "summary_source": "official_decision_pdf"
   },
@@ -588,7 +523,6 @@
     "disposition_detail": "Complaint abandoned for nonappearance under BCO 42-10; interim advice on Reference 8 confirmed",
     "bco_provisions": ["42-10", "43-4", "25-2"],
     "topic_tags": ["abandonment", "nonappearance", "table motion", "judicial procedure", "reference for advice"],
-    "standard_of_review": "not_applicable",
     "summary_source": "case_page"
   },
   "1983-12": {
@@ -597,7 +531,6 @@
     "disposition_detail": "Items 1–3 sustained; judgment on Item 4 reserved",
     "bco_provisions": ["13-1", "40-3"],
     "topic_tags": ["moderator", "conflict of interest", "voting privileges", "church membership", "presbytery authority"],
-    "standard_of_review": "not_applicable",
     "summary_source": "official_decision_pdf"
   },
   "1983-13": {
@@ -606,7 +539,6 @@
     "disposition_detail": "Specifications 1, 4, 5, and 6 sustained; specifications 2 and 3 not sustained; re-examination urged",
     "bco_provisions": [],
     "topic_tags": ["licensure", "standing rules", "notice", "ministerial examination", "preaching", "pastoral qualification"],
-    "standard_of_review": "great_deference_clear_error",
     "standard_of_review_detail": "The judgment evaluated the presbytery's examination and licensure judgment for procedural and evidentiary error.",
     "summary_source": "case_page"
   },
@@ -616,14 +548,12 @@
     "disposition_detail": "Complaint not sustained as improperly framed; matter treated as a protest, with substance addressed in related cases",
     "bco_provisions": ["13-9", "27-5", "46-5"],
     "topic_tags": ["protest", "church membership", "presbytery oversight", "pastoral relationship", "New Life conflict"],
-    "standard_of_review": "not_applicable",
     "summary_source": "official_decision_pdf"
   },
   "1980-02": {
     "summary": "TE Rod Mays brought an appeal against New River Presbytery alleging that it failed to address reported scandalous activity involving one of its ministers. The official case catalog preserves only that issue description and no final merits judgment, so this record remains a source-recovery item rather than a substantive holding.",
     "outcome": "other",
     "disposition_detail": "Issue recorded in the official catalog; final merits disposition not located",
-    "standard_of_review": "unknown",
     "summary_source": "official_catalog"
   },
   "1983-14": {
@@ -631,56 +561,48 @@
     "summary": "RE Truman Swain and others brought a complaint against Eastern Carolina Presbytery. The official SJC catalog records the matter as abandoned, with no merits judgment published in the available record.",
     "outcome": "abandoned",
     "disposition_detail": "Complaint abandoned; no merits judgment located",
-    "standard_of_review": "not_applicable",
     "summary_source": "official_catalog"
   },
   "1997-12": {
     "summary": "Raymond Larsen's complaint against Pacific Presbytery was withdrawn before the Standing Judicial Commission reached the merits. The matter appears only as a docket entry in the 1998 proceedings.",
     "outcome": "abandoned",
     "disposition_detail": "Withdrawn before merits decision",
-    "standard_of_review": "not_applicable",
     "summary_source": "official_catalog"
   },
   "1997-14": {
     "summary": "Onda George's complaint against Central Florida Presbytery was abandoned after the complainant died without heirs. No merits judgment was rendered.",
     "outcome": "abandoned",
     "disposition_detail": "Abandoned after death of complainant without heirs",
-    "standard_of_review": "not_applicable",
     "summary_source": "official_catalog"
   },
   "1997-15": {
     "summary": "A second docket entry for Onda George's complaint against Central Florida Presbytery records the same abandonment after the complainant's death without heirs. It is retained as a separate rostered identifier but has no independent merits decision.",
     "outcome": "abandoned",
     "disposition_detail": "Docket entry recording abandonment after death of complainant without heirs",
-    "standard_of_review": "not_applicable",
     "summary_source": "official_catalog"
   },
   "1998-03": {
     "summary": "Williams appealed an action of South Texas Presbytery. The SJC approved the panel's dismissal because the appeal was administratively out of order, and therefore did not reach the merits.",
     "outcome": "out_of_order",
     "disposition_detail": "Appeal dismissed as administratively out of order",
-    "standard_of_review": "not_applicable",
     "summary_source": "case_page"
   },
   "1998-07": {
     "summary": "Yi challenged Korean Capital Presbytery after the presbytery acted in a called meeting, but did not file the required complaint against that completed action. The SJC found the matter administratively out of order and did not review the merits.",
     "outcome": "out_of_order",
     "disposition_detail": "Administratively out of order because no complaint was filed after lower-court action",
-    "standard_of_review": "not_applicable",
     "summary_source": "official_catalog"
   },
   "2000-03": {
     "summary": "South Coast Presbytery's memorial was withdrawn before the SJC issued a merits decision. The record therefore preserves no substantive holding.",
     "outcome": "abandoned",
     "disposition_detail": "Memorial withdrawn before merits decision",
-    "standard_of_review": "not_applicable",
     "summary_source": "official_catalog"
   },
   "2000-05": {
     "summary": "Robert H. King filed a complaint against Evangel Presbytery, but abandoned it before adjudication. The matter appears only as a docket entry and has no merits holding.",
     "outcome": "abandoned",
     "disposition_detail": "Complaint abandoned before adjudication",
-    "standard_of_review": "not_applicable",
     "summary_source": "official_catalog"
   },
   "2001-35": {
@@ -688,14 +610,12 @@
     "outcome": "out_of_order",
     "disposition_detail": "Allegations not presented in the form of a complaint against presbytery action under BCO 43-1",
     "bco_provisions": ["43-1"],
-    "standard_of_review": "not_applicable",
     "summary_source": "case_page"
   },
   "2001-36": {
     "summary": "Moo S. Lim and others' complaint against Korean Capital Presbytery became moot after related Cases 2000-09 and 2001-08 were decided. The SJC issued no independent opinion or merits findings.",
     "outcome": "dismissed",
     "disposition_detail": "Moot in light of related cases; no independent opinion or findings",
-    "standard_of_review": "not_applicable",
     "summary_source": "case_page"
   },
   "2007-06": {
@@ -704,7 +624,6 @@
     "disposition_detail": "Complaint denied; Korean Eastern Presbytery's decision affirmed",
     "bco_provisions": ["15-2"],
     "topic_tags": ["stated supply", "interim pastor", "pastoral relationship", "judicial commission"],
-    "standard_of_review": "great_deference_clear_error",
     "standard_of_review_detail": "The SJC reviewed presbytery judgment concerning the pastoral relationship with deference.",
     "summary_source": "case_page"
   },
@@ -714,7 +633,6 @@
     "disposition_detail": "Complaint denied; appointment and scope of stated-supply commission affirmed under BCO 15-2",
     "bco_provisions": ["15-2"],
     "topic_tags": ["stated supply", "judicial commission", "presbytery authority"],
-    "standard_of_review": "constitutional_interpretation_no_deference",
     "standard_of_review_detail": "The SJC interpreted BCO 15-2's authority to appoint commissions.",
     "summary_source": "case_page"
   },
@@ -724,7 +642,6 @@
     "disposition_detail": "Complaints denied; Philadelphia Presbytery's licensing and ordination decisions affirmed; dissent recorded",
     "bco_provisions": ["7-2", "9-3", "21-4", "39-3"],
     "topic_tags": ["ordination", "licensure", "women deacons", "stated difference", "confessional subscription"],
-    "standard_of_review": "mixed",
     "standard_of_review_detail": "Constitutional interpretation was combined with deferential review of presbytery judgment under BCO 39-3.",
     "summary_source": "case_page"
   },
@@ -734,7 +651,6 @@
     "disposition_detail": "Complaint denied; pastoral restriction and lower-court judgment affirmed",
     "bco_provisions": ["39-3"],
     "topic_tags": ["pastoral guidance", "worship attendance", "session authority", "complaint", "clear error"],
-    "standard_of_review": "great_deference_clear_error",
     "standard_of_review_detail": "The SJC applied deferential review to the lower court's judgment and found no clear error.",
     "summary_source": "case_page"
   },
@@ -744,7 +660,6 @@
     "disposition_detail": "Appeal denied; disciplinary judgment affirmed because no clear error was shown",
     "bco_provisions": ["39-3"],
     "topic_tags": ["appeal", "discipline", "indefinite suspension", "trial", "clear error"],
-    "standard_of_review": "great_deference_clear_error",
     "standard_of_review_detail": "The SJC stated that it would not reverse a lower-court judgment absent clear error.",
     "summary_source": "case_page"
   },
@@ -754,7 +669,6 @@
     "disposition_detail": "Complaint denied; refusal to institute process affirmed; concurring opinion recorded",
     "bco_provisions": ["31-2", "31-8", "39-3"],
     "topic_tags": ["institution of process", "charges", "discretion", "pastoral discipline", "clear error"],
-    "standard_of_review": "great_deference_clear_error",
     "standard_of_review_detail": "The SJC treated institution of process as a matter of discretion and judgment reviewable for clear error under BCO 39-3.",
     "summary_source": "case_page"
   },
@@ -764,7 +678,6 @@
     "disposition_detail": "Excommunication reversed; remanded for indefinite suspension from the sacraments under BCO 36-5",
     "bco_provisions": ["30-4", "31-7", "32-17", "32-19", "33-3", "36-5", "42-9"],
     "topic_tags": ["appeal", "excommunication", "indefinite suspension", "ministerial discipline", "sexual misconduct", "censure"],
-    "standard_of_review": "great_deference_clear_error",
     "standard_of_review_detail": "The SJC described deferential review of lower-court factual and discretionary judgments and found the highest censure unsupported by the record.",
     "summary_source": "case_page"
   },
@@ -774,7 +687,6 @@
     "disposition_detail": "Presbytery action and subsequent commission acts annulled for unauthorized replacement of the Session",
     "bco_provisions": ["13-9", "41-1"],
     "topic_tags": ["original jurisdiction", "Session", "administrative commission", "congregational consent", "church governance"],
-    "standard_of_review": "constitutional_interpretation_no_deference",
     "standard_of_review_detail": "The SJC interpreted the BCO and Preliminary Principle Six to define presbytery authority over a local Session.",
     "summary_source": "case_page"
   },
@@ -784,7 +696,6 @@
     "disposition_detail": "Presbytery and commission action reversed; original jurisdiction belonged to the local Session",
     "bco_provisions": ["13-9"],
     "topic_tags": ["appeal", "original jurisdiction", "Session", "censure", "church governance"],
-    "standard_of_review": "constitutional_interpretation_no_deference",
     "standard_of_review_detail": "The SJC interpreted constitutional jurisdiction over communicant members and the authority of the local Session.",
     "summary_source": "case_page"
   },
@@ -794,7 +705,6 @@
     "disposition_detail": "Procedural error sustained; remanded for a new trial under BCO 32 and 34",
     "bco_provisions": ["32-3", "32-4", "34-5"],
     "topic_tags": ["appeal", "due process", "indictment", "trial procedure", "ministerial discipline"],
-    "standard_of_review": "great_deference_clear_error",
     "standard_of_review_detail": "The SJC reviewed the trial record for procedural error and found the process constitutionally inadequate.",
     "summary_source": "case_page"
   },
@@ -804,7 +714,6 @@
     "disposition_detail": "Presbytery and commission action reversed; original jurisdiction belonged to the local Session",
     "bco_provisions": ["13-9"],
     "topic_tags": ["appeal", "original jurisdiction", "Session", "suspension", "church governance"],
-    "standard_of_review": "constitutional_interpretation_no_deference",
     "standard_of_review_detail": "The SJC interpreted the constitutional allocation of original jurisdiction over communicant members.",
     "summary_source": "case_page"
   },
@@ -814,7 +723,6 @@
     "disposition_detail": "Both specifications sustained; intervention and subsequent commission acts annulled",
     "bco_provisions": ["13-9", "41-1"],
     "topic_tags": ["complaint", "original jurisdiction", "Session", "administrative commission", "congregational consent"],
-    "standard_of_review": "constitutional_interpretation_no_deference",
     "standard_of_review_detail": "The SJC interpreted BCO 13-9 in relation to the BCO's protections for local church governance.",
     "summary_source": "case_page"
   },
@@ -824,7 +732,6 @@
     "disposition_detail": "Presbytery and commission action reversed for lack of original jurisdiction",
     "bco_provisions": ["13-9"],
     "topic_tags": ["appeal", "original jurisdiction", "Session", "church discipline", "censure"],
-    "standard_of_review": "constitutional_interpretation_no_deference",
     "standard_of_review_detail": "The SJC interpreted which court constitutionally held original jurisdiction over the member.",
     "summary_source": "case_page"
   },
@@ -834,7 +741,6 @@
     "disposition_detail": "Excommunication and related lower-court action reversed for lack of original jurisdiction",
     "bco_provisions": ["13-9"],
     "topic_tags": ["appeal", "original jurisdiction", "Session", "excommunication", "church discipline"],
-    "standard_of_review": "constitutional_interpretation_no_deference",
     "standard_of_review_detail": "The SJC interpreted the constitutional allocation of original jurisdiction over communicant members.",
     "summary_source": "case_page"
   },
@@ -844,7 +750,6 @@
     "disposition_detail": "Presbytery and commission action reversed for lack of original jurisdiction",
     "bco_provisions": ["13-9"],
     "topic_tags": ["appeal", "original jurisdiction", "Session", "deacon", "church discipline"],
-    "standard_of_review": "constitutional_interpretation_no_deference",
     "standard_of_review_detail": "The SJC interpreted the constitutional allocation of original jurisdiction over a communicant member.",
     "summary_source": "case_page"
   },
@@ -854,7 +759,6 @@
     "disposition_detail": "Excommunication and related lower-court action reversed for lack of original jurisdiction",
     "bco_provisions": ["13-9"],
     "topic_tags": ["appeal", "original jurisdiction", "Session", "excommunication", "church discipline"],
-    "standard_of_review": "constitutional_interpretation_no_deference",
     "standard_of_review_detail": "The SJC interpreted the constitutional allocation of original jurisdiction over the member.",
     "summary_source": "case_page"
   },
@@ -864,7 +768,6 @@
     "disposition_detail": "Procedural error sustained; deposition matter remanded for a new trial under BCO 32 and 34",
     "bco_provisions": ["32-3", "34-5"],
     "topic_tags": ["appeal", "deposition", "due process", "indictment", "trial procedure"],
-    "standard_of_review": "great_deference_clear_error",
     "standard_of_review_detail": "The SJC reviewed the lower-court record for procedural error and found it constitutionally inadequate.",
     "summary_source": "case_page"
   },
@@ -874,7 +777,6 @@
     "disposition_detail": "Complaint not sustained; BCO ambiguity and lack of PCA consensus supported presbytery's position",
     "bco_provisions": ["21-1", "20-6"],
     "topic_tags": ["ordination", "associate pastor", "ruling elder", "ministerial office", "BCO interpretation"],
-    "standard_of_review": "constitutional_interpretation_no_deference",
     "summary_source": "case_page"
   },
   "1997-16": {
@@ -889,7 +791,6 @@
     "disposition_detail": "Out of order; no unconstitutional proceeding found and BCO 40-5 memorial procedure upheld",
     "bco_provisions": ["40-5"],
     "topic_tags": ["memorial", "constitutional procedure", "commission", "BCO 40-5", "presbytery authority"],
-    "standard_of_review": "constitutional_interpretation_no_deference",
     "summary_source": "case_page"
   },
   "2007-04": {
@@ -898,7 +799,6 @@
     "disposition_detail": "Complaint sustained in part on remand duty; matter returned for proper process or dismissal under BCO 42-9",
     "bco_provisions": ["42-9", "43-10"],
     "topic_tags": ["appeal", "suspension from sacraments", "due process", "trial", "censure"],
-    "standard_of_review": "great_deference_clear_error",
     "standard_of_review_detail": "The SJC deferred on the absence of a trial record but found constitutional error in the failure to remand.",
     "summary_source": "case_page"
   },
@@ -908,7 +808,6 @@
     "disposition_detail": "Complaint denied; BCO meaning and generic use of title distinguished; dissent recorded",
     "bco_provisions": ["1-4", "7-2", "9-3", "40-2", "39-3"],
     "topic_tags": ["minister title", "non-ordained staff", "women", "constitutional interpretation", "presbytery judgment"],
-    "standard_of_review": "mixed",
     "standard_of_review_detail": "The SJC interpreted BCO terminology and reserved generic-title propriety to lower-court judgment under BCO 40-2(3).",
     "summary_source": "case_page"
   },
@@ -918,7 +817,6 @@
     "disposition_detail": "Complaint denied; presbytery's handling of confession and indefinite suspension affirmed",
     "bco_provisions": ["31-2", "33-1", "34-1", "38-1", "39-3"],
     "topic_tags": ["case without process", "confession", "indefinite suspension", "institution of process", "discipline"],
-    "standard_of_review": "great_deference_clear_error",
     "standard_of_review_detail": "The SJC treated the presbytery's disciplinary judgment as discretionary and did not find clear error.",
     "summary_source": "case_page"
   },
@@ -928,7 +826,6 @@
     "disposition_detail": "Specifications not sustained; BCO 31-2 investigation and no-strong-presumption finding affirmed",
     "bco_provisions": ["31-2", "39-3", "43-1", "11-4"],
     "topic_tags": ["BCO 31-2 investigation", "strong presumption of guilt", "standing", "due process", "presbytery discretion"],
-    "standard_of_review": "great_deference_clear_error",
     "standard_of_review_detail": "The SJC expressly applied great deference to the lower court's investigative discretion under BCO 39-3(3).",
     "summary_source": "case_page"
   },
@@ -938,7 +835,6 @@
     "disposition_detail": "Complaint sustained; presbytery's declaration reversed and matter remanded for counsel or BCO 31-2 action",
     "bco_provisions": ["29-1", "29-2", "31-2", "31-7", "34-5", "34-6", "39-3"],
     "topic_tags": ["Federal Vision", "doctrinal standards", "strong presumption of guilt", "BCO 31-2", "pastoral counsel"],
-    "standard_of_review": "mixed",
     "standard_of_review_detail": "The case combined constitutional interpretation of doctrinal conformity with deferential review of investigative procedure.",
     "summary_source": "case_page"
   },
@@ -948,7 +844,6 @@
     "disposition_detail": "Complaint not sustained 19–1; concurring and dissenting opinions recorded",
     "bco_provisions": ["31-2", "39-3"],
     "topic_tags": ["BCO 31-2 investigation", "strong presumption of guilt", "Christian character", "presbytery discretion"],
-    "standard_of_review": "great_deference_clear_error",
     "standard_of_review_detail": "The issue concerned factual and discretionary investigative judgments under BCO 31-2 and 39-3.",
     "summary_source": "official_catalog"
   },
@@ -957,7 +852,6 @@
     "outcome": "out_of_order",
     "disposition_detail": "Out of order; matter not heard on the merits",
     "topic_tags": ["procedural disposition", "jurisdiction", "no merits decision"],
-    "standard_of_review": "not_applicable",
     "standard_of_review_detail": "The matter ended procedurally before a merits standard of review was required.",
     "summary_source": "official_catalog"
   },
@@ -966,7 +860,6 @@
     "outcome": "out_of_order",
     "disposition_detail": "Administratively out of order; no merits decision",
     "topic_tags": ["procedural disposition", "administrative ruling", "no merits decision"],
-    "standard_of_review": "not_applicable",
     "standard_of_review_detail": "The matter ended procedurally before a merits standard of review was required.",
     "summary_source": "official_catalog"
   },
@@ -975,7 +868,6 @@
     "outcome": "out_of_order",
     "disposition_detail": "Administratively out of order; no merits decision",
     "topic_tags": ["procedural disposition", "administrative ruling", "no merits decision"],
-    "standard_of_review": "not_applicable",
     "standard_of_review_detail": "The matter ended procedurally before a merits standard of review was required.",
     "summary_source": "official_catalog"
   },
@@ -984,7 +876,6 @@
     "outcome": "abandoned",
     "disposition_detail": "Withdrawn before decision; no merits disposition",
     "topic_tags": ["withdrawal", "procedural disposition", "no merits decision"],
-    "standard_of_review": "not_applicable",
     "standard_of_review_detail": "The matter ended before the SJC reached the merits.",
     "summary_source": "official_catalog"
   },
@@ -993,7 +884,6 @@
     "outcome": "dismissed",
     "disposition_detail": "Complaint withdrawn; dismissed without merits decision",
     "topic_tags": ["withdrawal", "procedural disposition", "no merits decision"],
-    "standard_of_review": "not_applicable",
     "standard_of_review_detail": "The complaint ended by withdrawal before merits review was required.",
     "summary_source": "case_page"
   }

@@ -90,20 +90,29 @@ stronger merits result is present. The original wording is not discarded.
 - `topic_tags` is a small set of subject tags, not a list of every noun in the
   record.
 - `review_standards` is the single authoritative review facet. Its controlled
-  values are `clear_error_facts`, `clear_error_discretion`,
-  `independent_constitutional`, and `bco_40_5`. A case may have more than one
-  because different issues or procedural stages can receive different treatment.
+  values are `factual_findings`, `discretion_and_judgment`,
+  `constitutional_interpretation`, and
+  `important_delinquency_or_grossly_unconstitutional_proceeding`. These are
+  basis labels, not conclusions about whether the court was correct. A case may
+  have more than one only when the adopted decision applies different bases to
+  distinct issues.
+- Older `standard_of_review` override values are migration residue and are
+  ignored by the generator. A substantive basis must be recorded in
+  `review_standards` or supported by the adopted decision text; the generator
+  does not translate legacy labels into new ones.
 - `standard_of_review` is a compact derived/display value for that same facet:
-  one applicable standard, `mixed` when there are several, `not_reached` when
+  one applicable basis, `mixed` when there are several, `not_reached` when
   the matter ended before merits review, `not_applicable` for a non-appellate
   proceeding such as an original-jurisdiction request, `not_stated` when the
   court reviewed the matter but did not state a distinct standard, or `unknown`
-  when the decision text is unavailable. Its `bco_40_5` value identifies the
-  BCO 40-5 threshold rather than an appellate level of deference.
-- `standard_of_review_detail` gives the short human-readable explanation and
-  the relevant BCO subsection where the source identifies one. The generator
-  examines the adopted decision only; a dissent's proposed standard is not
-  silently combined with the court's standard.
+  when the decision text is unavailable. Its
+  `important_delinquency_or_grossly_unconstitutional_proceeding` value
+  identifies the BCO 40-5 threshold rather than an appellate level of deference.
+- `standard_of_review_detail` gives the high-fidelity explanation and the
+  relevant BCO subsection where the source identifies one. The generator
+  examines the adopted decision only; a dissent's proposed basis, a generic
+  citation, or a boilerplate quotation is not silently promoted to a case
+  classification.
 - `classification_status` is `classified`, `needs_review`, or `roster_only`.
   `roster_only` means the official case is known but the local Minutes
   extraction has not yet supplied enough metadata; it is not permission to

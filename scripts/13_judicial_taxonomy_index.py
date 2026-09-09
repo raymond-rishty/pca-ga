@@ -60,7 +60,7 @@ def main():
         f"**{len(rows)} records** · classified {statuses['classified']} · "
         f"needs review {statuses['needs_review']} · roster only {statuses['roster_only']}",
         "",
-        "| Case ID | Title | Proceeding | Outcome | Review standard | Aliases | Summary | BCO provisions | Topic tags | Status | Source |",
+        "| Case ID | Title | Proceeding | Outcome | Review basis | Aliases | Summary | BCO provisions | Topic tags | Status | Source |",
         "|---|---|---|---|---|---|---|---|---|---|---|",
     ]
     for row in rows:

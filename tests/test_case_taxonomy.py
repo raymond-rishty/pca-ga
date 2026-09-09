@@ -32,23 +32,82 @@ def test_proceeding_type_and_disposition_are_controlled_codes():
     assert MODULE.normalize_bco_code("38-3(a)") == "38-3.a"
     assert set(MODULE.PROCEEDING_TYPES) == {"complaint", "appeal", "reference", "review_and_control", "original_jurisdiction_request", "other"}
     assert set(MODULE.OUTCOMES) == {"sustained", "partially_sustained", "not_sustained", "denied", "dismissed", "out_of_order", "in_order", "administrative", "referred", "granted", "abandoned", "other"}
-    assert set(MODULE.REVIEW_STANDARD_CODES) == {"clear_error_facts", "clear_error_discretion", "independent_constitutional", "bco_40_5"}
-    assert set(MODULE.STANDARD_OF_REVIEW_CODES) == {"clear_error_facts", "clear_error_discretion", "independent_constitutional", "bco_40_5", "mixed", "not_reached", "not_applicable", "not_stated", "unknown"}
+    assert set(MODULE.REVIEW_STANDARD_CODES) == {"factual_findings", "discretion_and_judgment", "constitutional_interpretation", "important_delinquency_or_grossly_unconstitutional_proceeding"}
+    assert set(MODULE.STANDARD_OF_REVIEW_CODES) == {"factual_findings", "discretion_and_judgment", "constitutional_interpretation", "important_delinquency_or_grossly_unconstitutional_proceeding", "mixed", "not_reached", "not_applicable", "not_stated", "unknown"}
 
 
 def test_review_standard_is_issue_level_and_excludes_separate_opinions():
     code, _, standards = MODULE.standard_of_review("ga45_2017__2016-14", "denied", "complaint")
     assert code == "mixed"
-    assert standards == ["clear_error_discretion", "independent_constitutional"]
+    assert standards == ["discretion_and_judgment", "constitutional_interpretation"]
 
-    code, _, standards = MODULE.standard_of_review("ga48_2021__2019-11", "denied", "complaint")
-    assert code == "clear_error_discretion"
-    assert standards == ["clear_error_discretion"]
+    code, _, standards = MODULE.standard_of_review(
+        "ga48_2021__2019-11", "denied", "complaint", case_id="2019-11"
+    )
+    assert code == "discretion_and_judgment"
+    assert standards == ["discretion_and_judgment"]
+
+    code, _, standards = MODULE.standard_of_review(
+        "ga37_2009__2007-13",
+        "denied",
+        "complaint",
+        {"review_standards": ["constitutional_interpretation"]},
+        case_id="2007-13",
+    )
+    assert code == "not_stated"
+    assert standards == []
+
+    code, _, standards = MODULE.standard_of_review(
+        "ga36_2008__2006-02",
+        "sustained",
+        "review_and_control",
+        case_id="2006-02",
+    )
+    assert code == "important_delinquency_or_grossly_unconstitutional_proceeding"
+    assert standards == ["important_delinquency_or_grossly_unconstitutional_proceeding"]
+
+    code, _, standards = MODULE.standard_of_review(
+        "ga38_2010__2008-15_2008-16_2008-17_2008-18_2009-01_2009-03",
+        "denied",
+        "complaint",
+        case_id="2008-17",
+    )
+    assert code == "discretion_and_judgment"
+    assert standards == ["discretion_and_judgment"]
+
+    code, _, standards = MODULE.standard_of_review(
+        "ga38_2010__2008-15_2008-16_2008-17_2008-18_2009-01_2009-03",
+        "out_of_order",
+        "complaint",
+        case_id="2009-01",
+    )
+    assert code == "not_reached"
+    assert standards == []
+
+    code, _, standards = MODULE.standard_of_review(
+        "ga42_2014__2011-11_2011-12_2011-15_2011-16",
+        "denied",
+        "complaint",
+        case_id="2011-15",
+    )
+    assert code == "discretion_and_judgment"
+    assert standards == ["discretion_and_judgment"]
+
+
+def test_legacy_review_values_do_not_infer_basis_labels():
+    code, _, standards = MODULE.standard_of_review(
+        "ga37_2009__2007-13",
+        "denied",
+        "complaint",
+        {"standard_of_review": "mixed", "standard_of_review_detail": "legacy"},
+    )
+    assert code == "not_stated"
+    assert standards == []
 
 
 def test_bco_40_5_is_one_review_standard():
     standard, detail = MODULE.contextual_review_standard("BCO 40-5 Matter re NW Georgia")
-    assert standard == "bco_40_5"
+    assert standard == "important_delinquency_or_grossly_unconstitutional_proceeding"
     assert "important delinquency" in detail.lower()
 
 
@@ -69,6 +128,11 @@ def test_appended_manual_text_does_not_change_case_vehicle():
 def test_non_merits_dispositions_do_not_receive_appellate_standards():
     assert MODULE._review_code([], True, "administrative", "review_and_control") == "not_reached"
     assert MODULE._review_code([], True, "referred", "review_and_control") == "not_reached"
+    code, _, standards = MODULE.standard_of_review(
+        "ga45_2017__2016-08", "out_of_order", "complaint", case_id="2016-08"
+    )
+    assert code == "not_reached"
+    assert standards == []
 
 
 def test_generated_catalog_carries_stable_evans_identity_and_all_roster_rows():
@@ -119,6 +183,6 @@ def test_editorial_overrides_fill_source_grounded_summaries():
 def test_human_index_is_generated_from_the_canonical_layer():
     index = (ROOT / "index" / "JUDICIAL-CASES.md").read_text(encoding="utf-8")
     assert "# Canonical judicial cases" in index
-    assert "Review standard" in index
+    assert "Review basis" in index
     assert "| `2023-07` | Evans v. Arizona Presbytery |" in index
     assert "| `1986-01` | Kenneth L. Gentry, Jr. et al. v. Calvary Presbytery |" in index

@@ -34,24 +34,24 @@ test('preserves letter suffixes in split case identifiers', () => {
   assert.equal(view.identifier, 'Case 1992-09a');
 });
 
-test('surfaces one review-standard facet across ordinary and BCO 40-5 matters', () => {
+test('surfaces one review-basis facet across ordinary and BCO 40-5 matters', () => {
   const view = presenter.formatRecord({
     type: 'Judicial case',
     title: 'Wills v. Metro Atlanta Presbytery',
     sub: 'SJC/CJB case 2016-14',
     proceeding_type: 'complaint',
     standard_of_review: 'mixed',
-    review_standards: ['clear_error_discretion', 'independent_constitutional'],
+    review_standards: ['discretion_and_judgment', 'constitutional_interpretation'],
   });
 
-  assert.match(view.reviewStandard, /Clear error — discretion and judgment/);
-  assert.match(view.reviewStandard, /Independent review — constitutional interpretation/);
+  assert.match(view.reviewStandard, /Discretion and judgment — great deference; clear error/);
+  assert.match(view.reviewStandard, /Constitutional interpretation — independent review/);
   const supervisory = presenter.formatRecord({
     type: 'Judicial case',
     title: 'BCO 40-5 Matter re NW Georgia',
     proceeding_type: 'review_and_control',
-    standard_of_review: 'bco_40_5',
-    review_standards: ['bco_40_5'],
+    standard_of_review: 'important_delinquency_or_grossly_unconstitutional_proceeding',
+    review_standards: ['important_delinquency_or_grossly_unconstitutional_proceeding'],
   });
   assert.match(supervisory.reviewStandard, /BCO 40-5/);
 });
