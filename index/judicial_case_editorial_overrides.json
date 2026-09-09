@@ -1,15 +1,14 @@
 {
   "2006-02": {
     "proceeding_type": "review_and_control",
-    "supervisory_ground": "bco_40_5",
-    "supervisory_ground_detail": "Important delinquency or grossly unconstitutional proceedings"
+    "standard_of_review": "bco_40_5",
+    "standard_of_review_detail": "BCO 40-5: important delinquency or grossly unconstitutional proceedings."
   },
   "2007-14": {
     "proceeding_type": "review_and_control",
-    "standard_of_review": "not_stated",
-    "standard_of_review_detail": "This was a BCO 40-5/40-6 trial arising from the related memorial, not an appellate review of a lower-court judgment; the decision does not state a distinct BCO 39-3 appellate standard.",
-    "supervisory_ground": "bco_40_5",
-    "supervisory_ground_detail": "Important delinquency or grossly unconstitutional proceedings",
+    "standard_of_review": "bco_40_5",
+    "standard_of_review_detail": "BCO 40-5: important delinquency or grossly unconstitutional proceedings; this was a 40-5/40-6 trial rather than an ordinary appeal.",
+    "review_standards": ["bco_40_5"],
     "summary_review_status": "audited"
   },
   "2016-14": {
@@ -34,10 +33,9 @@
     "proceeding_type": "review_and_control",
     "outcome": "other",
     "disposition_detail": "BCO 40-5 ruling found egregious constitutional error; proceedings were stayed and terminated, but requested annulment was denied.",
-    "standard_of_review": "not_stated",
-    "standard_of_review_detail": "The SJC reviewed the presbytery's action under BCO 40-5 but did not state one of the BCO 39-3 appellate standards.",
-    "supervisory_ground": "bco_40_5",
-    "supervisory_ground_detail": "Important delinquency or grossly unconstitutional proceedings",
+    "standard_of_review": "bco_40_5",
+    "standard_of_review_detail": "BCO 40-5: important delinquency or grossly unconstitutional proceedings; the SJC found egregious constitutional error and addressed the requested relief.",
+    "review_standards": ["bco_40_5"],
     "summary_review_status": "audited"
   },
   "1991-01": {

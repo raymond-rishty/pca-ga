@@ -34,7 +34,7 @@ test('preserves letter suffixes in split case identifiers', () => {
   assert.equal(view.identifier, 'Case 1992-09a');
 });
 
-test('surfaces issue-level review standards and a separate 40-5 basis', () => {
+test('surfaces one review-standard facet across ordinary and BCO 40-5 matters', () => {
   const view = presenter.formatRecord({
     type: 'Judicial case',
     title: 'Wills v. Metro Atlanta Presbytery',
@@ -42,12 +42,20 @@ test('surfaces issue-level review standards and a separate 40-5 basis', () => {
     proceeding_type: 'complaint',
     standard_of_review: 'mixed',
     review_standards: ['clear_error_discretion', 'independent_constitutional'],
-    supervisory_ground_detail: 'Important delinquency or grossly unconstitutional proceedings',
   });
 
   assert.match(view.reviewStandard, /Clear error — discretion and judgment/);
   assert.match(view.reviewStandard, /Independent review — constitutional interpretation/);
-  assert.equal(view.reviewBasis, 'Important delinquency or grossly unconstitutional proceedings');
+  assert.equal('reviewBasis' in view, false);
+
+  const supervisory = presenter.formatRecord({
+    type: 'Judicial case',
+    title: 'BCO 40-5 Matter re NW Georgia',
+    proceeding_type: 'review_and_control',
+    standard_of_review: 'bco_40_5',
+    review_standards: ['bco_40_5'],
+  });
+  assert.match(supervisory.reviewStandard, /BCO 40-5/);
 });
 
 test('turns an RPR exception into a readable document title while retaining its source text as context', () => {

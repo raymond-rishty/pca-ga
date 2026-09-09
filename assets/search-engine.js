@@ -11,7 +11,7 @@
     bco: 'BCO reference',
     topics: 'topic',
     proceeding: 'proceeding type',
-    review: 'review standard or basis',
+    review: 'review standard',
     summary: 'summary',
     status: 'status',
     context: 'record context',
@@ -143,9 +143,7 @@
       proceeding: asArray(record.proceeding_type),
       review: asArray(record.standard_of_review)
         .concat(asArray(record.review_standards))
-        .concat(asArray(record.standard_of_review_detail))
-        .concat(asArray(record.supervisory_ground))
-        .concat(asArray(record.supervisory_ground_detail)),
+        .concat(asArray(record.standard_of_review_detail)),
       summary: asArray(record.summary),
       status: asArray(record.disposition),
       context: asArray(record.sub),

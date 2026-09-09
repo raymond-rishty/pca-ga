@@ -60,20 +60,19 @@ def main():
         f"**{len(rows)} records** · classified {statuses['classified']} · "
         f"needs review {statuses['needs_review']} · roster only {statuses['roster_only']}",
         "",
-        "| Case ID | Title | Proceeding | Outcome | Review standards | Review basis | Aliases | Summary | BCO provisions | Topic tags | Status | Source |",
+        "| Case ID | Title | Proceeding | Outcome | Review standard | Aliases | Summary | BCO provisions | Topic tags | Status | Source |",
         "|---|---|---|---|---|---|---|---|---|---|---|---|",
     ]
     for row in rows:
         bco = ", ".join(f"`BCO {x}`" for x in row.get("bco_provisions") or []) or "—"
         topics = ", ".join(f"`{md(x)}`" for x in row.get("topic_tags") or []) or "—"
         standards = ", ".join(f"`{md(x)}`" for x in row.get("review_standards") or []) or f"`{md(row.get('standard_of_review'))}`"
-        review_basis = md(row.get("supervisory_ground_detail") or row.get("supervisory_ground")) or "—"
         title = md(row.get("title")) or "—"
         summary = md(row.get("summary")) or "—"
         case_id = f"`{row['case_id']}`" if row.get("case_id") else f"`{row.get('roster_id')}`"
         lines.append(
             f"| {case_id} | {title} | `{md(row.get('proceeding_type'))}` | "
-            f"`{md(row.get('outcome'))}` | {standards} | {review_basis} | {aliases(row)} | {summary} | {bco} | {topics} | "
+            f"`{md(row.get('outcome'))}` | {standards} | {aliases(row)} | {summary} | {bco} | {topics} | "
             f"`{md(row.get('classification_status'))}` | {linked_source(row)} |"
         )
     with open(OUTPUT, "w", encoding="utf-8", newline="\n") as target:
