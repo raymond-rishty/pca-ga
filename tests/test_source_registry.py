@@ -91,6 +91,16 @@ class SourceRegistryTests(unittest.TestCase):
                 module.PDF_URL_RE,
             )
 
+    def test_consolidated_case_shorthand_inherits_the_primary_year(self) -> None:
+        self.assertEqual(
+            module.case_numbers({
+                "case_number": "2025-12",
+                "case_number_raw": "2025-12",
+                "title": ", -13_Assis_and_Brown_v_SFL_final",
+            }),
+            ["2025-12", "2025-13"],
+        )
+
 
 if __name__ == "__main__":
     unittest.main()

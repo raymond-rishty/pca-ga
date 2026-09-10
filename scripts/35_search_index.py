@@ -202,6 +202,12 @@ def main():
     case_parties: dict = {}     # norm_num -> party/court names from the case metadata
     case_synopses_by_title: dict = {}
     case_synopses_by_file = case_index_summaries()
+    # Prefer the canonical editorial/search layer when it has been built, while
+    # retaining cases.jsonl as a portable fallback for older worktrees.
+    taxonomy_rows = load_jsonl("judicial_cases.jsonl")
+    taxonomy_by_key = {
+        _norm_num(r["case_id"]): r for r in taxonomy_rows if r.get("case_id")
+    }
     if os.path.exists(cases_jsonl_p):
         for line in open(cases_jsonl_p, encoding="utf-8"):
             line = line.strip()
@@ -256,23 +262,62 @@ def main():
             file_parties.extend(case_parties.get(key, []))
             if not file_disp:
                 file_disp = case_disps.get(key, "")
-        summary = case_synopses.get(_norm_num(num), "")
+        tax_rows = [taxonomy_by_key[key] for key in dict.fromkeys(
+            _norm_num(n) for n in c.get("numbers", [num])
+        ) if key in taxonomy_by_key]
+        tax = tax_rows[0] if tax_rows else taxonomy_by_key.get(_norm_num(num), {})
+        tax_title = tax.get("title") or ""
+        tax_summary = tax.get("summary") or ""
+        tax_matter_type = tax.get("matter_type") or ""
+        tax_dispositions = tax.get("final_dispositions") or []
+        tax_provisions = [f"BCO {b}" for item in tax_rows
+                          for b in (item.get("bco_provisions") or [])
+                          if re.match(r"^[\d]", str(b))]
+        tax_topics = [str(topic) for item in tax_rows
+                      for topic in (item.get("topic_tags") or []) if topic]
+        tax_identifiers = []
+        for item in tax_rows:
+            for value in (item.get("case_id"), item.get("legacy_case_id"), item.get("era_label")):
+                if value and value not in tax_identifiers:
+                    tax_identifiers.append(value)
+            for value in item.get("minute_ids") or []:
+                if value and value not in tax_identifiers:
+                    tax_identifiers.append(value)
+        title = tax_title or c.get("title") or num
+        identifiers = [f"Case {n}" for n in c.get("numbers", [num])]
+        identifiers.extend(
+            f"Case {value}" if re.match(r"^\d{4}-", str(value)) else str(value)
+            for value in tax_identifiers
+        )
+        identifiers = list(dict.fromkeys(identifiers))
+        summary = tax_summary or case_synopses.get(_norm_num(num), "")
         if not summary:
             summary = next((case_synopses.get(_norm_num(n), "") for n in c.get("numbers", []) if case_synopses.get(_norm_num(n))), "")
         if not summary:
             summary = case_synopses_by_title.get(c.get("title"), "")
         if not summary:
             summary = case_synopses_by_file.get(f"{c['file']}.md", "")
-        row = {"type": "Judicial case", "title": c.get("title") or num,
-               "sub": f"SJC/CJB case {num}",
-               "identifier": f"Case {num}",
-               "identifiers": [f"Case {n}" for n in c.get("numbers", [num])],
+        row = {"type": "Judicial case", "title": title,
+               "sub": f"SJC/CJB case {tax.get('case_id') or num}",
+               "identifier": identifiers[0] if identifiers else f"Case {num}",
+               "identifiers": identifiers,
                "parties": sorted(set(file_parties)),
-               "topics": sorted(set(file_topics)),
+               "topics": sorted(set(file_topics + tax_topics)),
                "summary": summary,
-               "provisions": sorted(set(file_provs)),
+               "provisions": sorted(set(file_provs + tax_provisions)),
                "year": int(m.group(1)) if m else None,
-               "disposition": file_disp,
+               "disposition": tax_dispositions[0] if tax_dispositions else file_disp,
+               "case_id": tax.get("case_id"),
+               "legacy_case_id": tax.get("legacy_case_id"),
+               "era_id": tax.get("era_id"),
+               "era_label": tax.get("era_label"),
+               "minute_ids": tax.get("minute_ids") or [],
+               "matter_type": tax_matter_type,
+               "final_dispositions": tax_dispositions,
+               "standard_of_review": tax.get("standard_of_review"),
+               "standard_of_review_detail": tax.get("standard_of_review_detail"),
+               "review_standards": tax.get("review_standards") or [],
+               "classification_status": tax.get("classification_status"),
                "url": f"cases/{c['file']}.md"}
         if summary:
             case_summaries[num] = summary

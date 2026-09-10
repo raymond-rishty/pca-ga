@@ -81,3 +81,18 @@ test('reports the selected scope and filter-specific empty state', () => {
   assert.equal(result.scope, 'overtures');
   assert.ok(result.suggestions.some((text) => text.includes('record-type filter')));
 });
+
+test('searches judicial cases by matter type, disposition, and review basis', () => {
+  const caseRecord = [{
+    type: 'Judicial case',
+    title: 'Evans v. Arizona Presbytery',
+    identifier: 'Case 2023-07',
+    matter_type: 'appeal',
+    final_dispositions: ['sustained', 'remanded'],
+    review_standards: ['discretion_and_judgment'],
+  }];
+
+  assert.equal(engine.search(caseRecord, 'appeal').total, 1);
+  assert.equal(engine.search(caseRecord, 'remanded').total, 1);
+  assert.equal(engine.search(caseRecord, 'discretion and judgment').total, 1);
+});

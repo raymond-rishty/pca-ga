@@ -41,6 +41,32 @@ SUMMARY_OVERRIDES = {
     ),
 }
 
+FINAL_DISPOSITION_LABELS = {
+    "sustained": "Sustained",
+    "partially_sustained": "Partially sustained",
+    "not_sustained": "Not sustained",
+    "denied": "Denied",
+    "granted": "Granted",
+    "guilty": "Guilty",
+    "not_guilty": "Not guilty",
+    "administratively_out_of_order": "Administratively out of order",
+    "judicially_out_of_order": "Judicially out of order",
+    "out_of_order": "Out of order (type not stated)",
+    "dismissed": "Dismissed",
+    "withdrawn": "Withdrawn",
+    "abandoned": "Abandoned",
+    "moot": "Moot",
+    "affirmed": "Affirmed",
+    "reversed": "Reversed",
+    "vacated": "Vacated",
+    "annulled": "Annulled",
+    "remanded": "Remanded",
+    "referred": "Referred",
+    "in_order": "In order",
+    "no_final_disposition": "No final disposition in available record",
+    "other": "Other",
+}
+
 
 def md_escape(s):
     return (s or "").replace("|", "\\|").replace("\n", " ").strip()
@@ -167,6 +193,18 @@ def case_summary(title, disposition="", synopsis=""):
     return md_summary(synopsis) if synopsis and meaningful_summary(synopsis) else ""
 
 
+def canonical_disposition(row):
+    return "; ".join(
+        FINAL_DISPOSITION_LABELS.get(value, value)
+        for value in (row or {}).get("final_dispositions") or []
+    )
+
+
+def canonical_summary(row, fallback=""):
+    summary = (row or {}).get("summary")
+    return md_summary(summary) if summary else case_summary("", "", fallback)
+
+
 def ordinal(n):
     n = int(n)
     suf = "th" if 10 <= n % 100 <= 20 else {1: "st", 2: "nd", 3: "rd"}.get(n % 10, "th")
@@ -231,7 +269,8 @@ def main():
          "90 overtures to the 53rd General Assembly, the prior judicial cases, constitutional "
          "inquiries, overtures, and RPR exceptions that bear on it (deep-linked).",
          "- **[Judicial cases](CASES.md)** — SJC/CCB cases with parties, disposition, and the "
-         "BCO / Westminster Standards provisions cited; also **[by constitutional provision]"
+         "BCO / Westminster Standards provisions cited; the canonical metadata view is "
+         "**[JUDICIAL-CASES.md](JUDICIAL-CASES.md)**; also **[by constitutional provision]"
          "(CASES-BY-PROVISION.md)** with auditable tag sources and line evidence.",
          "- **[Constitutional inquiries](INQUIRIES.md)** — questions of constitutional "
          "interpretation answered by the CCB, each with a Digest-level headnote and the verbatim "
@@ -308,9 +347,32 @@ def main():
     if os.path.exists(stub_path):
         stub_pages = json.load(open(stub_path))
 
+    # CASES.md keeps its Assembly-grouped layout, but overlapping identity,
+    # title, disposition, and summary fields come from the same audited layer
+    # as JUDICIAL-CASES.md. This prevents the two public catalogues from giving
+    # contradictory answers while preserving their different navigation roles.
+    judicial_by_id = {}
+    judicial_by_page_all = {}
+    judicial_path = os.path.join(ROOT, "index", "judicial_cases.jsonl")
+    if os.path.exists(judicial_path):
+        with open(judicial_path, encoding="utf-8") as source:
+            for line in source:
+                if not line.strip():
+                    continue
+                judicial = json.loads(line)
+                if judicial.get("case_id"):
+                    judicial_by_id[_norm(judicial["case_id"])] = judicial
+                if judicial.get("case_page"):
+                    judicial_by_page_all.setdefault(judicial["case_page"], []).append(judicial)
+    judicial_by_page = {
+        page: matches[0] for page, matches in judicial_by_page_all.items() if len(matches) == 1
+    }
+
     L = ["# Judicial Case Index", "",
          "Cases decided by the Standing Judicial Commission (SJC) and its predecessor the "
-         "Committee on Judicial Business (CJB), grouped by Assembly.", "",
+         "Committee on Judicial Business (CJB), grouped by Assembly. For canonical case IDs, "
+         "proceeding types, review standards, editorial summaries, BCO provisions, and topic "
+         "tags, see **[JUDICIAL-CASES.md](JUDICIAL-CASES.md)**.", "",
          "This index is **structure-first**: every case listed links to a full-text page "
          "re-extracted verbatim from the volume (with its opinions). After the decided cases, an "
          "Assembly may list extra rows from the underlying case table: *decided at Nth GA* — the "
@@ -401,10 +463,15 @@ def main():
         covered_nums = set()
         # 1) structure-first: the decided cases we extracted (CJB located + SJC structure pages)
         for p in sorted(cjb_pages.get(ga, []), key=lambda x: x["file"]):
-            who = md_escape(p["parties"])[:80] + ("  ·  *dissent*" if p["has_dissent"] else "")
+            canonical = judicial_by_page.get(p["file"])
+            title = canonical.get("title") if canonical else p["parties"]
+            has_dissent = canonical.get("dissent") if canonical else p["has_dissent"]
+            who = md_escape(title) + ("  ·  *dissent*" if has_dissent else "")
             numcell = f"[{md_escape(p['number'] or 'case')}](../cases/{p['file']}.md)"
-            summary = SUMMARY_OVERRIDES.get(p.get("file")) or tmeta.get(_norm(p.get("number") or ""), {}).get("synopsis", "")
-            L.append(f"| {numcell} | {who} | {md_escape(p['disposition'])} | {case_summary(p.get('parties') or p.get('number'), p.get('disposition'), summary)} | "
+            fallback_summary = SUMMARY_OVERRIDES.get(p.get("file")) or tmeta.get(_norm(p.get("number") or ""), {}).get("synopsis", "")
+            disposition = canonical_disposition(canonical) or p["disposition"]
+            summary = canonical_summary(canonical, fallback_summary)
+            L.append(f"| {numcell} | {who} | {md_escape(disposition)} | {summary} | "
                      f"[full text](../cases/{p['file']}.md) |")
             n_linked += 1
         for p in sorted(sjc_by_ga.get(ga, []), key=lambda x: x["numbers"]):
@@ -412,31 +479,43 @@ def main():
             covered_nums.update(nums)
             # A shared opinion can dispose of its dockets differently. Emit one
             # metadata row per docket while linking each to the same decision page.
-            if len(nums) > 1 and all(tmeta.get(n) for n in nums):
+            if len(nums) > 1 and all(tmeta.get(n) or judicial_by_id.get(n) for n in nums):
                 for n in nums:
-                    meta = tmeta[n]
-                    who = md_escape(meta["title"])[:90] + ("  ·  *dissent*" if meta["dissent"] else "")
+                    meta = tmeta.get(n, {})
+                    canonical = judicial_by_id.get(n)
+                    title = canonical.get("title") if canonical else meta.get("title", n)
+                    has_dissent = canonical.get("dissent") if canonical else meta.get("dissent")
+                    who = md_escape(title) + ("  ·  *dissent*" if has_dissent else "")
                     numcell = f"[{md_escape(n)}](../cases/{p['file']}.md)"
-                    summary = meta.get("synopsis", "")
-                    L.append(f"| {numcell} | {who} | {md_escape(meta['disp'])} | "
-                             f"{case_summary(meta['title'], meta['disp'], summary)} | "
+                    disposition = canonical_disposition(canonical) or meta.get("disp", "")
+                    summary = canonical_summary(canonical, meta.get("synopsis", ""))
+                    L.append(f"| {numcell} | {who} | {md_escape(disposition)} | "
+                             f"{summary} | "
                              f"[full text](../cases/{p['file']}.md) |")
                     n_linked += 1
                 continue
-            disp = next((tmeta[n]["disp"] for n in nums if tmeta.get(n) and tmeta[n]["disp"]), "")
-            diss = any(tmeta.get(n, {}).get("dissent") for n in nums)
-            who = md_escape(p["title"])[:90] + ("  ·  *dissent*" if diss else "")
+            canonical = next((judicial_by_id.get(n) for n in nums if judicial_by_id.get(n)), None)
+            canonical = canonical or judicial_by_page.get(p["file"])
+            disp = canonical_disposition(canonical) or next((tmeta[n]["disp"] for n in nums if tmeta.get(n) and tmeta[n]["disp"]), "")
+            diss = canonical.get("dissent") if canonical else any(tmeta.get(n, {}).get("dissent") for n in nums)
+            title = canonical.get("title") if canonical else p["title"]
+            who = md_escape(title) + ("  ·  *dissent*" if diss else "")
             numcell = f"[{md_escape('/'.join(nums))}](../cases/{p['file']}.md)"
-            summary = SUMMARY_OVERRIDES.get(p.get("file")) or next((tmeta[n]["synopsis"] for n in nums if tmeta.get(n) and tmeta[n].get("synopsis")), "")
-            L.append(f"| {numcell} | {who} | {md_escape(disp)} | {case_summary(p.get('title'), disp, summary)} | [full text](../cases/{p['file']}.md) |")
+            fallback_summary = SUMMARY_OVERRIDES.get(p.get("file")) or next((tmeta[n]["synopsis"] for n in nums if tmeta.get(n) and tmeta[n].get("synopsis")), "")
+            summary = canonical_summary(canonical, fallback_summary)
+            L.append(f"| {numcell} | {who} | {md_escape(disp)} | {summary} | [full text](../cases/{p['file']}.md) |")
             n_linked += 1
         # stub pages: matters DISPOSED here without a published opinion (out of order / withdrawn)
         for s in sorted(stub_by_ga.get(ga, []), key=lambda x: x["num"]):
             covered_nums.add(s["num"])
-            who = md_escape(s.get("parties") or "")[:80]
-            summary = SUMMARY_OVERRIDES.get(s.get("file")) or s.get("synopsis") or s.get("note") or ""
+            canonical = judicial_by_id.get(_norm(s["num"])) or judicial_by_page.get(s.get("file"))
+            title = canonical.get("title") if canonical else s.get("parties") or ""
+            who = md_escape(title)
+            fallback_summary = SUMMARY_OVERRIDES.get(s.get("file")) or s.get("synopsis") or s.get("note") or ""
+            summary = canonical_summary(canonical, fallback_summary)
+            disposition = canonical_disposition(canonical) or s["disposition"]
             L.append(f"| [{md_escape(s['num'])}](../cases/{s['file']}.md) | {who} | "
-                     f"{md_escape(s['disposition'])} | {case_summary(s.get('parties') or s.get('num'), s.get('disposition'), summary)} | [disposition](../cases/{s['file']}.md) |")
+                     f"{md_escape(disposition)} | {summary} | [disposition](../cases/{s['file']}.md) |")
             n_linked += 1
         # 2) leftover table rows (not a decided/extracted case here) — honest noise/pending labels
         structured = ga in cjb_pages or ga in sjc_by_ga or ga in stub_by_ga

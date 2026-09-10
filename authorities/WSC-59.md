@@ -1,0 +1,13 @@
+# WSC 59
+
+*All PCA authorities bearing on **WSC 59**.*
+
+## Low-but-important
+
+| Year | Type | Title | Disposition |
+|------|------|-------|-------------|
+| 2001 | RPR exception | [Metropolitan New York: approval of the examination for ordination of a candidate who states as part of his except](../rpr/exc/metropolitan-new-york__003.md) | satisfactory |
+| 2012 | RPR exception | [Metropolitan New York: Presbytery approved the licensure of a man who stated that he believed that Scripture does](../rpr/exc/metropolitan-new-york__033.md) | satisfactory |
+
+---
+*[← Authority Index](../index/AUTHORITY-BY-PROVISION.md)*
