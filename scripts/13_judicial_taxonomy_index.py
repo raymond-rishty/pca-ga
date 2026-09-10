@@ -18,26 +18,38 @@ IDX = os.path.join(ROOT, "index")
 SOURCE = os.path.join(IDX, "judicial_cases.jsonl")
 OUTPUT = os.path.join(IDX, "JUDICIAL-CASES.md")
 
-PROCEEDING_LABELS = {
+MATTER_TYPE_LABELS = {
     "complaint": "Complaint",
     "appeal": "Appeal",
-    "reference": "Reference",
-    "review_and_control": "Review and control",
+    "judicial_reference": "Judicial reference",
     "original_jurisdiction_request": "Original-jurisdiction request",
+    "bco_40_5_matter": "BCO 40-5 matter",
+    "review_and_control": "Review and control",
     "other": "Other",
 }
-OUTCOME_LABELS = {
+FINAL_DISPOSITION_LABELS = {
     "sustained": "Sustained",
     "partially_sustained": "Partially sustained",
     "not_sustained": "Not sustained",
     "denied": "Denied",
-    "dismissed": "Dismissed",
-    "out_of_order": "Out of order",
-    "in_order": "In order",
-    "administrative": "Administrative",
-    "referred": "Referred",
     "granted": "Granted",
+    "guilty": "Guilty",
+    "not_guilty": "Not guilty",
+    "administratively_out_of_order": "Administratively out of order",
+    "judicially_out_of_order": "Judicially out of order",
+    "out_of_order": "Out of order (type not stated)",
+    "dismissed": "Dismissed",
+    "withdrawn": "Withdrawn",
     "abandoned": "Abandoned",
+    "moot": "Moot",
+    "affirmed": "Affirmed",
+    "reversed": "Reversed",
+    "vacated": "Vacated",
+    "annulled": "Annulled",
+    "remanded": "Remanded",
+    "referred": "Referred",
+    "in_order": "In order",
+    "no_final_disposition": "No final disposition in available record",
     "other": "Other",
 }
 REVIEW_BASIS_LABELS = {
@@ -93,6 +105,13 @@ def review_basis(row):
     return md(REVIEW_BASIS_LABELS.get(value, value)) or "—"
 
 
+def final_disposition(row):
+    values = row.get("final_dispositions") or []
+    return "; ".join(
+        md(FINAL_DISPOSITION_LABELS.get(value, value)) for value in values
+    ) or "—"
+
+
 def main():
     with open(SOURCE, encoding="utf-8") as source:
         rows = [json.loads(line) for line in source if line.strip()]
@@ -109,7 +128,7 @@ def main():
         f"**{len(rows)} records** · classified {statuses['classified']} · "
         f"needs review {statuses['needs_review']} · roster only {statuses['roster_only']}",
         "",
-        "| Case ID | Title | Proceeding | Outcome | Review basis | Aliases | Summary | BCO provisions | Topic tags | Status | Source |",
+        "| Case ID | Title | Matter type | Final disposition | Review basis | Aliases | Summary | BCO provisions | Topic tags | Status | Source |",
         "|---|---|---|---|---|---|---|---|---|---|---|",
     ]
     for row in rows:
@@ -120,8 +139,8 @@ def main():
         summary = md(row.get("summary")) or "—"
         case_id = f"`{row['case_id']}`" if row.get("case_id") else f"`{row.get('roster_id')}`"
         lines.append(
-            f"| {case_id} | {title} | {md(PROCEEDING_LABELS.get(row.get('proceeding_type'), row.get('proceeding_type'))) or '—'} | "
-            f"{md(OUTCOME_LABELS.get(row.get('outcome'), row.get('outcome'))) or '—'} | {standards} | {aliases(row)} | {summary} | {bco} | {topics} | "
+            f"| {case_id} | {title} | {md(MATTER_TYPE_LABELS.get(row.get('matter_type'), row.get('matter_type'))) or '—'} | "
+            f"{final_disposition(row)} | {standards} | {aliases(row)} | {summary} | {bco} | {topics} | "
             f"{md(STATUS_LABELS.get(row.get('classification_status'), row.get('classification_status'))) or '—'} | {linked_source(row)} |"
         )
     with open(OUTPUT, "w", encoding="utf-8", newline="\n") as target:

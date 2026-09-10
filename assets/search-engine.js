@@ -140,12 +140,12 @@
       parties: asArray(record.parties),
       bco: asArray(record.provisions),
       topics: asArray(record.topics).concat(asArray(record.topic)),
-      proceeding: asArray(record.proceeding_type),
+      proceeding: asArray(record.matter_type),
       review: asArray(record.standard_of_review)
         .concat(asArray(record.review_standards))
         .concat(asArray(record.standard_of_review_detail)),
       summary: asArray(record.summary),
-      status: asArray(record.disposition),
+      status: asArray(record.disposition).concat(asArray(record.final_dispositions)),
       context: asArray(record.sub),
     };
   }

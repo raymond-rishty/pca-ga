@@ -19,12 +19,38 @@
   const OVERTURE_IN_SUB = /\boverture\s+(\d+)/i;
   const OVERTURE_IN_URL = /__o(\d+)/i;
   const RPR_IN_URL = /\/([^/]+)__([0-9]+)\.md(?:$|[?#])/i;
-  const PROCEEDING_LABELS = {
+  const MATTER_TYPE_LABELS = {
     complaint: 'Complaint',
     appeal: 'Appeal',
-    reference: 'Reference',
+    judicial_reference: 'Judicial reference',
     original_jurisdiction_request: 'Original-jurisdiction request',
+    bco_40_5_matter: 'BCO 40-5 matter',
     review_and_control: 'Review and control',
+    other: 'Other',
+  };
+  const FINAL_DISPOSITION_LABELS = {
+    sustained: 'Sustained',
+    partially_sustained: 'Partially sustained',
+    not_sustained: 'Not sustained',
+    denied: 'Denied',
+    granted: 'Granted',
+    guilty: 'Guilty',
+    not_guilty: 'Not guilty',
+    administratively_out_of_order: 'Administratively out of order',
+    judicially_out_of_order: 'Judicially out of order',
+    out_of_order: 'Out of order (type not stated)',
+    dismissed: 'Dismissed',
+    withdrawn: 'Withdrawn',
+    abandoned: 'Abandoned',
+    moot: 'Moot',
+    affirmed: 'Affirmed',
+    reversed: 'Reversed',
+    vacated: 'Vacated',
+    annulled: 'Annulled',
+    remanded: 'Remanded',
+    referred: 'Referred',
+    in_order: 'In order',
+    no_final_disposition: 'No final disposition in available record',
     other: 'Other',
   };
   const REVIEW_LABELS = {
@@ -117,6 +143,20 @@
     return 'Status';
   }
 
+  function finalDisposition(record) {
+    const values = Array.isArray(record.final_dispositions)
+      ? record.final_dispositions.filter(Boolean)
+      : [];
+    if (!values.length) return clean(record.disposition);
+    const labels = values.map((value) => FINAL_DISPOSITION_LABELS[value] || clean(value));
+    const contextual = new Set(['sustained', 'partially_sustained', 'not_sustained', 'denied', 'granted']);
+    const matter = MATTER_TYPE_LABELS[record.matter_type] || clean(record.matter_type);
+    if (matter && contextual.has(values[0])) {
+      labels[0] = `${matter} ${labels[0].toLowerCase()}`;
+    }
+    return labels.join('; ');
+  }
+
   function formatRecord(record) {
     const category = CATEGORIES[record.type] || { className: 'minutes', label: clean(record.type) || 'General Assembly minutes' };
     const rpr = record.type === 'RPR exception' ? rprDetails(record) : null;
@@ -130,9 +170,9 @@
       excerpt: rpr?.excerpt || excerpt(record),
       assembly: assembly(record),
       sourcePage: sourcePage(record),
-      status: clean(record.disposition),
+      status: finalDisposition(record),
       statusLabel: statusLabel(record.type),
-      proceedingType: PROCEEDING_LABELS[record.proceeding_type] || clean(record.proceeding_type),
+      matterType: MATTER_TYPE_LABELS[record.matter_type] || clean(record.matter_type),
       reviewStandard: issueStandards.join('; ') || REVIEW_LABELS[record.standard_of_review] || clean(record.standard_of_review),
       provisions: Array.isArray(record.provisions) ? record.provisions.filter(Boolean) : [],
       href: href(record),

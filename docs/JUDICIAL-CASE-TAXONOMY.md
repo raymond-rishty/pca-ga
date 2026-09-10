@@ -8,9 +8,9 @@ metadata when it has been reconciled to the roster.
 ## Identity
 
 `index/judicial_cases.jsonl` contains one record per unique rostered case. The
-current saved roster has 480 entries but repeats six canonical IDs; the
-generator collapses those repeats to 473 numbered cases plus one explicit
-unknown-number audit row.
+current saved roster has 480 entries; after source duplicates are collapsed and
+expressly consolidated dockets are expanded, the generator emits 476 records:
+475 canonical IDs plus one era-only record.
 
 - `case_id` is the stable, human-facing canonical ID: `YYYY-NN` (for example,
   `2023-07` or `1985-06`). A letter suffix is retained for split matters,
@@ -25,30 +25,38 @@ unknown-number audit row.
 - `title` is the clean editorial caption. Roster text, citation brackets,
   disposition notes, and `Summary:` material do not belong in the title.
 
-## Proceeding types
+## Matter types
 
-`proceeding_type` is the procedural posture, not the subject matter. Subject
-matter belongs in `topic_tags`.
+`matter_type` is the procedural vehicle, not the subject matter. Subject matter
+belongs in `topic_tags`. BCO 39-1 supplies the broad appellate categories of
+review and control, reference, appeal, and complaint; this taxonomy also names
+BCO 34-1 requests and BCO 40-5 matters when the source identifies those more
+specific vehicles.
 
 | Code | Use |
 |---|---|
 | `complaint` | A complaint challenging an action or decision of a lower court. This is the default for an ordinary `v.` case without another posture. |
 | `appeal` | An appeal from a lower-court judgment, including an appeal of censure or discipline. |
-| `reference` | A BCO 41 reference submitted by a lower court for advice, other action, or a requested original adjudication. The purpose/stage belongs in the summary and provisions, not in a competing primary type. |
-| `review_and_control` | A BCO 40 supervisory matter, including a memorial or citation proceeding under BCO 40-5. The review-standard field records the applicable BCO 40-5 threshold. |
+| `judicial_reference` | A BCO 41 reference submitted by a lower court for advice, other action, or a requested original adjudication. |
 | `original_jurisdiction_request` | A BCO 34-1 request or petition asking the General Assembly/SJC to assume original jurisdiction. The later trial or judgment remains part of that proceeding. |
+| `bco_40_5_matter` | A memorial, report, citation, or resulting judicial matter expressly proceeding under BCO 40-5. Its review basis is the important-delinquency-or-grossly-unconstitutional-proceeding threshold. |
+| `review_and_control` | Another BCO 40 supervisory matter, including a citation arising from review of presbytery records, that the source does not identify as a BCO 40-5 matter. |
 | `other` | A genuine judicial matter that does not fit the categories above; explain it in `disposition_detail`. |
 
-Do not create separate proceeding types for discipline, ordination, divorce,
+Do not create separate matter types for discipline, ordination, divorce,
 church property, or other subjects. Those are topic tags.
 
-## Outcomes / dispositions
+## Final dispositions
 
-`outcome` and `disposition` use the same canonical code. `disposition` is the
-compatibility name used by the existing catalogue; `outcome` is the explicit
-facet for search and analysis. `disposition_detail` retains the useful nuance
-that cannot be represented by one code, including remand, annulment,
-affirmance, specification-level votes, or mootness.
+`final_dispositions` is an ordered list because a decision can contain more
+than one terminal ruling or action. An appeal may be sustained and remanded; a
+complaint may be judicially out of order and dismissed. `disposition_detail`
+preserves the source wording and specification-level detail.
+
+Matter type and final disposition remain independent. The combination
+`matter_type: complaint` plus `final_dispositions: [sustained]` renders as
+“Complaint sustained”; it does not require a redundant
+`complaint_sustained` code.
 
 | Code | Meaning |
 |---|---|
@@ -56,20 +64,29 @@ affirmance, specification-level votes, or mootness.
 | `partially_sustained` | At least one material specification succeeded and at least one failed or was otherwise unresolved. |
 | `not_sustained` | The complaint/specification failed, or the lower court's action was confirmed. |
 | `denied` | The court expressly denied the complaint, appeal, or request. |
+| `granted` | A request was expressly granted where `sustained` is not the source's formulation. |
+| `guilty` | The deciding body rendered a guilty verdict in a matter within its trial jurisdiction. |
+| `not_guilty` | The deciding body rendered a not-guilty verdict or acquitted the accused. This does not describe a lower-court acquittal merely mentioned in procedural history. |
+| `administratively_out_of_order` | The matter failed an administrative filing, standing, timing, or form requirement. |
+| `judicially_out_of_order` | The judicial body expressly found the matter judicially out of order. |
+| `out_of_order` | The source says only that the matter was out of order and does not identify which kind. |
 | `dismissed` | The matter was dismissed without a merits determination or by an express dismissal order. |
-| `out_of_order` | The matter was not properly before the court, including an administratively out-of-order matter. |
+| `withdrawn` | The initiating party withdrew the matter. |
+| `abandoned` | The matter was deemed abandoned or ended through nonappearance or another failure to prosecute. |
+| `moot` | The deciding body treated the matter, or a distinct part of it, as moot. |
+| `affirmed` | A lower-court judgment or action was expressly affirmed or confirmed. |
+| `reversed` | A lower-court judgment, censure, or action was expressly reversed. |
+| `vacated` | A judgment, censure, or action was expressly vacated. |
+| `annulled` | A judgment, censure, or action was expressly annulled. |
+| `remanded` | The matter was sent back or remitted for further proceedings or correction. |
+| `referred` | The matter or materials were referred to another body without a remand ruling. |
 | `in_order` | The matter was found in order, without this record supplying the final merits disposition. |
-| `administrative` | An administrative judicial-business action, such as appointing or receiving a commission. |
-| `referred` | The matter was referred/remanded to another court or commission for further action. |
-| `granted` | A request or petition was granted where the record does not use a more specific merits code. |
-| `abandoned` | The complainant/appellant withdrew, failed to appear, or otherwise abandoned the matter. |
+| `no_final_disposition` | The available record reports only an administrative or interlocutory action and supplies no final disposition. |
 | `other` | A real disposition that cannot safely be mapped to the controlled vocabulary; explain it in `disposition_detail`. |
 
-`withdrawn`, `deemed_abandoned`, and equivalent wording normalize to
-`abandoned`; `administratively_out_of_order` normalizes to `out_of_order`;
-`sustained_in_part` and mixed specification results normalize to
-`partially_sustained`; and remand/remission normalizes to `referred` when no
-stronger merits result is present. The original wording is not discarded.
+Only the deciding body's action is classified. A summary's reference to a
+lower-court acquittal, a requested remand, or a party's allegation does not
+become a final disposition. The original wording is not discarded.
 
 ## Metadata facets
 

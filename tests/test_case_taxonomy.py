@@ -23,18 +23,25 @@ def test_clean_title_removes_roster_metadata_and_normalizes_caption():
     assert MODULE.clean_title(raw) == "Evans v. Arizona"
 
 
-def test_proceeding_type_and_disposition_are_controlled_codes():
-    assert MODULE.classify_proceeding_type("Appeal of TE Evans v. Arizona") == "appeal"
-    assert MODULE.classify_proceeding_type("BCO 40-5 Matter re Metropolitan NY") == "review_and_control"
-    assert MODULE.classify_proceeding_type("Citation of Korean Southwest Presbytery") == "other"
-    assert MODULE.classify_proceeding_type("Wichter Memorial re Case 2004-05") == "review_and_control"
-    assert MODULE.classify_proceeding_type("In re Korean Eastern Presbytery") == "other"
-    assert MODULE.normalize_disposition("administratively out of order") == "out_of_order"
+def test_matter_type_and_final_disposition_are_controlled_codes():
+    assert MODULE.classify_matter_type("Appeal of TE Evans v. Arizona") == "appeal"
+    assert MODULE.classify_matter_type("BCO 40-5 Matter re Metropolitan NY") == "bco_40_5_matter"
+    assert MODULE.classify_matter_type("Citation of Korean Southwest Presbytery") == "review_and_control"
+    assert MODULE.classify_matter_type("Wichter Memorial re Case 2004-05") == "bco_40_5_matter"
+    assert MODULE.classify_matter_type("Judicial Reference from Evangel Presbytery") == "judicial_reference"
+    assert MODULE.normalize_disposition("administratively out of order") == "administratively_out_of_order"
+    assert MODULE.normalize_disposition("judicially out of order") == "judicially_out_of_order"
     assert MODULE.normalize_disposition("mixed: specs 1 and 3 sustained") == "partially_sustained"
+    assert MODULE.classify_final_dispositions(
+        "Appeal sustained; remanded for a new trial"
+    ) == ["sustained", "remanded"]
+    assert MODULE.classify_final_dispositions(
+        "Both letters found administratively and judicially out of order"
+    ) == ["administratively_out_of_order", "judicially_out_of_order"]
     assert MODULE.normalize_bco_code("I-14-4") == "14-4"
     assert MODULE.normalize_bco_code("38-3(a)") == "38-3.a"
-    assert set(MODULE.PROCEEDING_TYPES) == {"complaint", "appeal", "reference", "review_and_control", "original_jurisdiction_request", "other"}
-    assert set(MODULE.OUTCOMES) == {"sustained", "partially_sustained", "not_sustained", "denied", "dismissed", "out_of_order", "in_order", "administrative", "referred", "granted", "abandoned", "other"}
+    assert set(MODULE.MATTER_TYPES) == {"complaint", "appeal", "judicial_reference", "original_jurisdiction_request", "bco_40_5_matter", "review_and_control", "other"}
+    assert {"not_guilty", "administratively_out_of_order", "judicially_out_of_order", "remanded", "no_final_disposition"}.issubset(MODULE.FINAL_DISPOSITIONS)
     assert set(MODULE.REVIEW_STANDARD_CODES) == {"factual_findings", "discretion_and_judgment", "constitutional_interpretation", "important_delinquency_or_grossly_unconstitutional_proceeding"}
     assert set(MODULE.STANDARD_OF_REVIEW_CODES) == {"factual_findings", "discretion_and_judgment", "constitutional_interpretation", "important_delinquency_or_grossly_unconstitutional_proceeding", "mixed", "not_reached", "not_applicable", "not_stated", "unknown"}
 
@@ -63,7 +70,7 @@ def test_review_standard_is_issue_level_and_excludes_separate_opinions():
     code, _, standards = MODULE.standard_of_review(
         "ga36_2008__2006-02",
         "sustained",
-        "review_and_control",
+        "bco_40_5_matter",
         case_id="2006-02",
     )
     assert code == "important_delinquency_or_grossly_unconstitutional_proceeding"
@@ -132,13 +139,13 @@ def test_appended_manual_text_does_not_change_case_vehicle():
 ### 16. PROCEDURE FOR HEARING A MEMORIAL (BCO 40-5)
 """
     headings = MODULE.case_page_headings(page)
-    assert MODULE.classify_proceeding_type(headings) == "complaint"
+    assert MODULE.classify_matter_type(headings) == "complaint"
     assert MODULE.contextual_review_standard(headings) == (None, None)
 
 
 def test_non_merits_dispositions_do_not_receive_appellate_standards():
-    assert MODULE._review_code([], True, "administrative", "review_and_control") == "not_reached"
-    assert MODULE._review_code([], True, "referred", "review_and_control") == "not_reached"
+    assert MODULE._review_code([], True, ["no_final_disposition"], "review_and_control") == "not_reached"
+    assert MODULE._review_code([], True, ["referred"], "review_and_control") == "not_reached"
     code, _, standards = MODULE.standard_of_review(
         "ga45_2017__2016-08", "out_of_order", "complaint", case_id="2016-08"
     )
@@ -156,15 +163,17 @@ def test_generated_catalog_carries_stable_evans_identity_and_all_roster_rows():
     evans = next(row for row in rows if row["case_id"] == "2023-07")
     assert evans["title"] == "Evans v. Arizona Presbytery"
     assert evans["legacy_case_id"] == "2023-7"
-    assert evans["proceeding_type"] == "appeal"
-    assert evans["outcome"] == "sustained"
+    assert evans["matter_type"] == "appeal"
+    assert "sustained" in evans["final_dispositions"]
     assert isinstance(evans["review_standards"], list)
     assert len({row["case_id"] for row in rows if row["case_id"]}) == 475
     assert {"2023-06", "2023-08", "2023-15", "2023-17", "2025-12", "2025-13"}.issubset(
         {row["case_id"] for row in rows}
     )
-    assert all(row["outcome"] in MODULE.OUTCOMES for row in rows)
-    assert all(row["proceeding_type"] in MODULE.PROCEEDING_TYPES for row in rows)
+    assert all(row["matter_type"] in MODULE.MATTER_TYPES for row in rows)
+    assert all(row["final_dispositions"] for row in rows)
+    assert all(set(row["final_dispositions"]).issubset(MODULE.FINAL_DISPOSITIONS) for row in rows)
+    assert all("outcome" not in row and "proceeding_type" not in row for row in rows)
     assert all(row["standard_of_review"] in MODULE.STANDARD_OF_REVIEW_CODES for row in rows)
     assert all(set(row["review_standards"]).issubset(MODULE.REVIEW_STANDARD_CODES) for row in rows)
     assert all(row["summary_review_status"] in {"audited", "pending_audit"} for row in rows)
@@ -183,7 +192,7 @@ def test_previously_unresolved_cases_have_source_grounded_classifications():
         for row in [__import__("json").loads(line)]
     }
     expected = {
-        "1978-01": ("complaint", "referred"),
+        "1978-01": ("complaint", "remanded"),
         "1980-02": ("complaint", "sustained"),
         "1981-02": ("complaint", "not_sustained"),
         "1985-01": ("complaint", "out_of_order"),
@@ -191,20 +200,20 @@ def test_previously_unresolved_cases_have_source_grounded_classifications():
         "1992-09a": ("complaint", "partially_sustained"),
         "2000-08": ("complaint", "out_of_order"),
         "2004-11": ("appeal", "dismissed"),
-        "2016-10": ("review_and_control", "administrative"),
+        "2016-10": ("review_and_control", "no_final_disposition"),
         "2016-13": ("complaint", "dismissed"),
         "2017-10": ("review_and_control", "referred"),
         "2017-11": ("review_and_control", "referred"),
         "2017-12": ("review_and_control", "referred"),
         "2020-02": ("original_jurisdiction_request", "referred"),
-        "2020-04": ("complaint", "referred"),
-        "2021-08": ("review_and_control", "administrative"),
+        "2020-04": ("complaint", "remanded"),
+        "2021-08": ("review_and_control", "no_final_disposition"),
         "2022-11": ("original_jurisdiction_request", "referred"),
         "2022-12": ("original_jurisdiction_request", "dismissed"),
-        "2023-14": ("review_and_control", "partially_sustained"),
+        "2023-14": ("bco_40_5_matter", "partially_sustained"),
     }
     assert {
-        case_id: (rows[case_id]["proceeding_type"], rows[case_id]["outcome"])
+        case_id: (rows[case_id]["matter_type"], rows[case_id]["final_dispositions"][0])
         for case_id in expected
     } == expected
 
@@ -222,9 +231,9 @@ def test_editorial_overrides_fill_source_grounded_summaries():
     assert all(by_id[cid]["summary"] == override["summary"] for cid, override in editorial.items() if "summary" in override)
     assert all(by_id[cid]["summary_review_status"] == "audited" for cid in editorial)
     mapes = next(row for row in rows if row["case_id"] == "2018-01")
-    assert mapes["outcome"] == "partially_sustained"
+    assert mapes["final_dispositions"][0] == "partially_sustained"
     assert "admonition" in mapes["summary"].lower()
-    assert next(row for row in rows if row["case_id"] == "2003-07")["outcome"] == "out_of_order"
+    assert "administratively_out_of_order" in next(row for row in rows if row["case_id"] == "2003-07")["final_dispositions"]
     assert next(row for row in rows if row["case_id"] == "2023-06")["summary_source"] == "official_decision_pdf"
     assert next(row for row in rows if row["case_id"] == "2023-06")["summary_review_status"] == "audited"
 
@@ -233,8 +242,11 @@ def test_human_index_is_generated_from_the_canonical_layer():
     index = (ROOT / "index" / "JUDICIAL-CASES.md").read_text(encoding="utf-8")
     assert "# Canonical judicial cases" in index
     assert "Review basis" in index
+    assert "Matter type" in index
+    assert "Final disposition" in index
     assert "| `2023-07` | Evans v. Arizona Presbytery |" in index
     assert "| `1986-01` | Kenneth L. Gentry, Jr. et al. v. Calvary Presbytery |" in index
     assert "Factual findings — great deference; clear error" in index
     assert "factual_findings" not in index
     assert "partially_sustained" not in index
+    assert "administratively_out_of_order" not in index

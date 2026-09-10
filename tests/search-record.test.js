@@ -9,7 +9,8 @@ test('formats case metadata from the record link instead of the case-year field'
     sub: 'SJC/CJB case 2022-23',
     summary: 'The SJC denied the complaint after considering BCO 38-4.',
     provisions: ['BCO 38-4'],
-    proceeding_type: 'appeal',
+    matter_type: 'appeal',
+    final_dispositions: ['denied', 'affirmed'],
     year: 2022,
     disposition: 'denied',
     url: 'cases/ga51_2024__2022-23.md',
@@ -18,7 +19,8 @@ test('formats case metadata from the record link instead of the case-year field'
   assert.equal(view.identifier, 'Case 2022-23');
   assert.equal(view.assembly, '51st GA (2024)');
   assert.equal(view.statusLabel, 'Disposition');
-  assert.equal(view.proceedingType, 'Appeal');
+  assert.equal(view.matterType, 'Appeal');
+  assert.equal(view.status, 'Appeal denied; Affirmed');
   assert.equal(view.reviewStandard, '');
   assert.equal(view.href, 'cases/ga51_2024__2022-23.html');
   assert.match(view.excerpt, /BCO 38-4/);
@@ -39,7 +41,7 @@ test('surfaces one review-basis facet across ordinary and BCO 40-5 matters', () 
     type: 'Judicial case',
     title: 'Wills v. Metro Atlanta Presbytery',
     sub: 'SJC/CJB case 2016-14',
-    proceeding_type: 'complaint',
+    matter_type: 'complaint',
     standard_of_review: 'mixed',
     review_standards: ['discretion_and_judgment', 'constitutional_interpretation'],
   });
@@ -49,7 +51,7 @@ test('surfaces one review-basis facet across ordinary and BCO 40-5 matters', () 
   const supervisory = presenter.formatRecord({
     type: 'Judicial case',
     title: 'BCO 40-5 Matter re NW Georgia',
-    proceeding_type: 'review_and_control',
+    matter_type: 'bco_40_5_matter',
     standard_of_review: 'important_delinquency_or_grossly_unconstitutional_proceeding',
     review_standards: ['important_delinquency_or_grossly_unconstitutional_proceeding'],
   });

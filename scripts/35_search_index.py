@@ -268,8 +268,8 @@ def main():
         tax = tax_rows[0] if tax_rows else taxonomy_by_key.get(_norm_num(num), {})
         tax_title = tax.get("title") or ""
         tax_summary = tax.get("summary") or ""
-        tax_proceeding = tax.get("proceeding_type") or ""
-        tax_outcome = tax.get("outcome") or ""
+        tax_matter_type = tax.get("matter_type") or ""
+        tax_dispositions = tax.get("final_dispositions") or []
         tax_provisions = [f"BCO {b}" for item in tax_rows
                           for b in (item.get("bco_provisions") or [])
                           if re.match(r"^[\d]", str(b))]
@@ -306,14 +306,14 @@ def main():
                "summary": summary,
                "provisions": sorted(set(file_provs + tax_provisions)),
                "year": int(m.group(1)) if m else None,
-               "disposition": tax_outcome or file_disp,
+               "disposition": tax_dispositions[0] if tax_dispositions else file_disp,
                "case_id": tax.get("case_id"),
                "legacy_case_id": tax.get("legacy_case_id"),
                "era_id": tax.get("era_id"),
                "era_label": tax.get("era_label"),
                "minute_ids": tax.get("minute_ids") or [],
-               "proceeding_type": tax_proceeding,
-               "outcome": tax_outcome or file_disp,
+               "matter_type": tax_matter_type,
+               "final_dispositions": tax_dispositions,
                "standard_of_review": tax.get("standard_of_review"),
                "standard_of_review_detail": tax.get("standard_of_review_detail"),
                "review_standards": tax.get("review_standards") or [],

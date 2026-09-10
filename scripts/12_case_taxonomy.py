@@ -28,14 +28,39 @@ EDITORIAL_OVERRIDES = os.path.join(IDX, "judicial_case_editorial_overrides.json"
 SUMMARY_AUDITS = os.path.join(IDX, "judicial_case_summary_audits.json")
 OUT = os.path.join(IDX, "judicial_cases.jsonl")
 
-PROCEEDING_TYPES = (
-    "complaint", "appeal", "reference", "review_and_control",
-    "original_jurisdiction_request", "other",
+MATTER_TYPES = (
+    "complaint",
+    "appeal",
+    "judicial_reference",
+    "original_jurisdiction_request",
+    "bco_40_5_matter",
+    "review_and_control",
+    "other",
 )
-OUTCOMES = (
-    "sustained", "partially_sustained", "not_sustained", "denied", "dismissed",
-    "out_of_order", "in_order", "administrative", "referred", "granted",
-    "abandoned", "other",
+FINAL_DISPOSITIONS = (
+    "sustained",
+    "partially_sustained",
+    "not_sustained",
+    "denied",
+    "granted",
+    "guilty",
+    "not_guilty",
+    "administratively_out_of_order",
+    "judicially_out_of_order",
+    "out_of_order",
+    "dismissed",
+    "withdrawn",
+    "abandoned",
+    "moot",
+    "affirmed",
+    "reversed",
+    "vacated",
+    "annulled",
+    "remanded",
+    "referred",
+    "in_order",
+    "no_final_disposition",
+    "other",
 )
 STANDARD_OF_REVIEW_CODES = (
     "factual_findings",
@@ -56,8 +81,9 @@ REVIEW_STANDARD_CODES = (
     "important_delinquency_or_grossly_unconstitutional_proceeding",
 )
 
-NON_MERITS_OUTCOMES = {
-    "out_of_order", "abandoned", "dismissed", "administrative", "in_order", "referred",
+MERITS_DISPOSITIONS = {
+    "sustained", "partially_sustained", "not_sustained", "denied", "granted",
+    "guilty", "not_guilty", "affirmed", "reversed", "vacated", "annulled",
 }
 
 BCO_40_5_REVIEW_DETAIL = "BCO 40-5: important delinquency or grossly unconstitutional proceedings."
@@ -147,18 +173,24 @@ def clean_title(roster_title, extracted_title=None):
 
 
 def normalize_disposition(raw):
-    """Map observed legacy/editorial wording to the controlled outcome code."""
+    """Map observed wording to one controlled primary disposition code."""
     text = str(raw or "").strip().lower().replace("-", " ").replace("_", " ")
     if not text:
         return None
     if "sustained in part" in text or "partially sustained" in text or "mixed" in text:
         return "partially_sustained"
-    if "administratively out of order" in text or "found out of order" in text:
-        return "out_of_order"
+    if "administratively out of order" in text:
+        return "administratively_out_of_order"
+    if "judicially out of order" in text or "not judicially in order" in text:
+        return "judicially_out_of_order"
     if "not in order" in text or "out of order" in text:
         return "out_of_order"
-    if "deemed abandoned" in text or "abandoned" in text or "withdrawn" in text:
+    if "withdrawn" in text:
+        return "withdrawn"
+    if "deemed abandoned" in text or "abandoned" in text:
         return "abandoned"
+    if "not guilty" in text or "acquitted" in text:
+        return "not_guilty"
     if "not sustained" in text:
         return "not_sustained"
     if "declared invalid" in text or "invalid" in text:
@@ -169,14 +201,20 @@ def normalize_disposition(raw):
         return "denied"
     if "dismissed" in text:
         return "dismissed"
-    if "remanded" in text or "remitted" in text or "referred back" in text:
-        return "referred"
+    if (
+        "remanded" in text
+        or "remitted" in text
+        or "referred back" in text
+        or "new hearing ordered" in text
+        or re.search(r"\breturned\s+to\b[^.;]{0,100}\b(?:with\s+instructions|for\s+(?:a\s+)?(?:new\s+)?(?:trial|hearing|further\s+proceedings)|to\s+reinvestigate)\b", text)
+    ):
+        return "remanded"
     if "referred" in text:
         return "referred"
     if "in order" in text:
         return "in_order"
     if "administrative" in text:
-        return "administrative"
+        return "no_final_disposition"
     if "granted" in text:
         return "granted"
     if "not acceded" in text:
@@ -184,7 +222,7 @@ def normalize_disposition(raw):
     return "other"
 
 
-def select_outcome(raw_disposition, summary, roster_title):
+def select_primary_disposition(raw_disposition, summary, roster_title):
     """Resolve generic/stale extracted labels with a clear editorial holding.
 
     The extractor sometimes records ``granted`` for an appeal whose judgment says
@@ -201,6 +239,10 @@ def select_outcome(raw_disposition, summary, roster_title):
     if raw_code in generic and title_code and title_code != "other":
         raw_code = title_code
     if raw_code in generic and re.search(r"\b(?:not\s+in\s+order|out\s+of\s+order|not\s+in\s+the\s+form\s+of\s+a\s+complaint|AOO)\b", summary_text, re.I):
+        if re.search(r"\badministratively\s+(?:found\s+|ruled\s+|held\s+)?(?:out\s+of\s+order|not\s+in\s+order)\b", summary_text, re.I):
+            return "administratively_out_of_order"
+        if re.search(r"\bjudicially\s+(?:found\s+|ruled\s+|held\s+)?(?:out\s+of\s+order|not\s+in\s+order)\b|\bnot\s+judicially\s+in\s+order\b", summary_text, re.I):
+            return "judicially_out_of_order"
         return "out_of_order"
     if re.search(r"\b(?:partially\s+)?sustained\b", summary_text, re.I) and re.search(
             r"\b(?:denied|dismissed|moot|remand|referred|vacat|revers|acquit)", summary_text, re.I):
@@ -210,17 +252,20 @@ def select_outcome(raw_disposition, summary, roster_title):
     if raw_code in generic and re.search(r"\bsustained\b", summary_text, re.I):
         return "sustained"
     if raw_code in generic and re.search(r"\bacquit(?:ted|s)\b|\bnot guilty\b", summary_text, re.I):
-        return "not_sustained"
+        return "not_guilty"
     if raw_code in generic and re.search(r"\bfound\s+in\s+order\b", summary_text, re.I):
         return "in_order"
-    if raw_code in generic and re.search(r"\b(?:remand|remitted|returned|referred back|sent back)\b", summary_text, re.I):
-        return "referred"
+    if raw_code in generic and _action_stated(
+        summary_text,
+        r"(?:remand(?:ed)?|remitt(?:ed|al)|returned\s+[^.!?]{0,80}\b(?:for|with)|referred\s+back|sent\s+back)",
+    ):
+        return "remanded"
     if raw_code in generic and re.search(r"\b(?:decided|answered)\s+by\s+reference\b", summary_text, re.I):
         return "referred"
     if raw_code in generic and re.search(r"\b(?:citation|responses?\s+(?:were\s+)?(?:acceptable|satisfactory)|resolved the citation)\b", summary_text, re.I):
-        return "administrative"
+        return "no_final_disposition"
     if raw_code in generic and re.search(r"\b(?:appointed|inspect|investigate|docket listing|judgment .* approved|special committee)\b", summary_text, re.I):
-        return "administrative"
+        return "no_final_disposition"
     if raw_code in generic and re.search(r"\bnot\s+sustained\s+the\s+(?:appeal|complaint)\b", summary_text, re.I):
         return "not_sustained"
     if raw_code in generic and re.search(r"\bpartially\s+sustained\s+the\s+(?:appeal|complaint)\b", summary_text, re.I):
@@ -228,15 +273,142 @@ def select_outcome(raw_disposition, summary, roster_title):
     if raw_code in generic and re.search(r"\bsustained\s+the\s+(?:appeal|complaint)\b", summary_text, re.I):
         return "sustained"
     if raw_code in generic | {"dismissed"} and re.search(
-            r"\b(?:administratively\s+)?(?:found|ruled|held|determined|declared|dismissed)"
+            r"\b(?:(?:administratively|judicially)\s+)?(?:found|ruled|held|determined|declared|dismissed)"
             r"\b[^.!?]{0,100}\b(?:out\s+of\s+order|not\s+in\s+order)\b", summary_text, re.I):
+        if re.search(r"\badministratively\b", summary_text, re.I):
+            return "administratively_out_of_order"
+        if re.search(r"\bjudicially\b|\bnot\s+judicially\s+in\s+order\b", summary_text, re.I):
+            return "judicially_out_of_order"
         return "out_of_order"
     if raw_code:
         return raw_code
     return title_code or "other"
 
 
-def classify_proceeding_type(*values):
+def _action_stated(text, action):
+    """Return whether editorial text states an action as the court's result."""
+    source = str(text or "")
+    patterns = (
+        rf"\b(?:SJC|CJB|Commission|General\s+Assembly|Assembly|court|Panel)\b"
+        rf"[^.!?]{{0,180}}\b{action}\b",
+        rf"\b(?:case|matter|appeal|complaint|judgment|decision|action|censure|verdict)\b"
+        rf"\s+(?:was|were|is|are|be)\s+\b{action}\b",
+        rf"\b{action}\b[^.!?]{{0,100}}\b(?:to\s+(?:the\s+)?Presbytery|"
+        rf"for\s+(?:a\s+)?new\s+(?:trial|hearing)|in\s+(?:the\s+)?whole)\b",
+    )
+    for pattern in patterns:
+        for match in re.finditer(pattern, source, re.I):
+            window = source[max(0, match.start() - 80):match.end() + 40]
+            if re.search(
+                rf"\b(?:not|no\s+(?:substantive\s+)?reason\s+to|declined\s+to|"
+                rf"refused\s+to|denied\s+(?:the\s+)?(?:request|motion)[^.!?]{{0,40}}to|"
+                rf"sought\s+to|requested\s+that\s+[^.!?]{{0,50}}be|recommended\s+for)"
+                rf"[^.!?]{{0,100}}\b{action}\b",
+                window,
+                re.I,
+            ):
+                continue
+            return True
+    return False
+
+
+def _unnegated_action(text, action):
+    """Match a short disposition phrase while rejecting requested/declined acts."""
+    source = str(text or "")
+    for match in re.finditer(rf"\b{action}\b", source, re.I):
+        window = source[max(0, match.start() - 100):match.end()]
+        if re.search(
+            rf"\b(?:not|neither[^.;]{{0,80}}\bnor|no\s+(?:substantive\s+)?reason\s+to|declined\s+to|"
+            rf"refused\s+to|sought\s+to|requested\s+(?:an?\s+)?|recommended\s+for)"
+            rf"[^.;]{{0,90}}\b{action}\b$",
+            window,
+            re.I,
+        ):
+            continue
+        return True
+    return False
+
+
+def classify_final_dispositions(raw_disposition, summary="", roster_title="", primary_hint=None):
+    """Return every source-supported final action in canonical display order.
+
+    A disposition is intentionally multi-valued. For example, sustaining an
+    appeal and remanding it are distinct facts and neither should erase the
+    other. The short disposition field and audited editorial summary are the
+    only inputs; the full opinion is not mined for stray procedural history.
+    """
+    detail = str(raw_disposition or "")
+    editorial = str(summary or "")
+    combined = " ".join((detail, editorial, str(roster_title or "")))
+    primary = select_primary_disposition(primary_hint or detail, editorial, roster_title)
+    detail_code = normalize_disposition(detail)
+    # Legacy overrides used deliberately coarse values. Let more specific
+    # source wording win during migration to the high-fidelity vocabulary.
+    if primary == "abandoned" and detail_code == "withdrawn":
+        primary = "withdrawn"
+    elif primary == "referred" and detail_code == "remanded":
+        primary = "remanded"
+    elif primary in {"out_of_order", "in_order"} and detail_code in {
+        "administratively_out_of_order", "judicially_out_of_order"
+    }:
+        primary = detail_code
+    found = []
+
+    def add(value):
+        if value in FINAL_DISPOSITIONS and value not in found:
+            found.append(value)
+
+    if primary in {
+        "administratively_out_of_order", "judicially_out_of_order", "out_of_order"
+    }:
+        if re.search(r"\badministratively\s+(?:and\s+judicially\s+)?out\s+of\s+order\b", combined, re.I):
+            add("administratively_out_of_order")
+        if re.search(r"\bjudicially\s+out\s+of\s+order\b|\bnot\s+judicially\s+in\s+order\b", combined, re.I):
+            add("judicially_out_of_order")
+        if not found:
+            add(primary)
+    else:
+        add(primary)
+
+    # Preserve additional terminal acts that can coexist with the primary
+    # result. Strong phrasing in the audited headnote may supplement a generic
+    # page-header disposition such as merely "sustained."
+    if _unnegated_action(detail, r"withdrawn"):
+        add("withdrawn")
+    if _unnegated_action(detail, r"abandoned"):
+        add("abandoned")
+    if _unnegated_action(detail, r"moot") or _action_stated(editorial, r"moot"):
+        add("moot")
+    if primary != "dismissed" and (
+        _unnegated_action(detail, r"dismissed")
+        or _action_stated(editorial, r"dismissed")
+    ):
+        add("dismissed")
+    if primary != "denied" and _unnegated_action(detail, r"denied"):
+        add("denied")
+    if primary != "not_sustained" and _unnegated_action(detail, r"not[ _-]+sustained"):
+        add("not_sustained")
+    if _unnegated_action(detail, r"(?:remand(?:ed)?|remitt(?:ed|al)|referred\s+back)") or _action_stated(
+        editorial, r"(?:remand(?:ed)?|remitt(?:ed|al)|referred\s+back)"
+    ):
+        add("remanded")
+    if re.search(r"\b(?:render(?:ed|ing)\s+(?:a\s+)?(?:verdict\s+of\s+)?not\s+guilty|acquitted\s+[^.!?]{0,60}\ball\s+charges)\b", editorial, re.I):
+        add("not_guilty")
+    for code, pattern in (
+        ("affirmed", r"(?:affirmed|confirmed)"),
+        ("reversed", r"reversed"),
+        ("vacated", r"vacated"),
+        ("annulled", r"annulled"),
+    ):
+        if _unnegated_action(detail, pattern) or _action_stated(editorial, pattern):
+            add(code)
+    if re.search(r"\bpartial\s+reversal\b", detail, re.I):
+        add("reversed")
+
+    return [code for code in FINAL_DISPOSITIONS if code in found] or ["other"]
+
+
+def classify_matter_type(*values):
     """Classify the BCO vehicle from caption/header-level metadata.
 
     Do not search the synopsis or the whole decision: a reference, memorial,
@@ -250,13 +422,18 @@ def classify_proceeding_type(*values):
     if re.search(r"assume original jurisdiction|original jurisdiction", text):
         return "original_jurisdiction_request"
     if re.search(
-        r"\b(?:bco\s*40\s*[-.]\s*5|review\s+and\s+control|memorial|"
-        r"important\s+delinquency|grossly\s+unconstitutional\s+proceedings)\b",
+        r"\b(?:bco\s*40\s*[-.]\s*5|memorial|important\s+delinquency|"
+        r"grossly\s+unconstitutional\s+proceedings)\b",
+        text,
+    ):
+        return "bco_40_5_matter"
+    if re.search(
+        r"\b(?:review\s+and\s+control|bco\s*40\s*[-.]\s*[1-4]|citation)\b",
         text,
     ):
         return "review_and_control"
     if re.search(r"\b(?:reference|referenced|judicial\s+reference)\b", text):
-        return "reference"
+        return "judicial_reference"
     if re.search(r"\b(?:complaint|complainant|complained)\b|\bv\.\s*", text):
         return "complaint"
     if re.search(r"\bpetition\b", text) and re.search(r"\b(?:jurisdiction|assume|request)\b", text):
@@ -505,19 +682,29 @@ def decision_text(file, case_id=None):
     return _case_specific_text(adopted, case_id)
 
 
-def _review_code(standards, body_available=True, outcome=None, proceeding_type=None):
+def _disposition_values(dispositions):
+    if isinstance(dispositions, str):
+        return {dispositions}
+    return set(dispositions or [])
+
+
+def _has_merits_disposition(dispositions):
+    return bool(_disposition_values(dispositions) & MERITS_DISPOSITIONS)
+
+
+def _review_code(standards, body_available=True, dispositions=None, matter_type=None):
     if not body_available:
         return "unknown"
     if standards:
         return standards[0] if len(standards) == 1 else "mixed"
-    if outcome in {"out_of_order", "abandoned", "dismissed", "administrative", "in_order", "referred"}:
+    if dispositions and not _has_merits_disposition(dispositions):
         return "not_reached"
-    if proceeding_type == "original_jurisdiction_request":
+    if matter_type == "original_jurisdiction_request":
         return "not_applicable"
     return "not_stated"
 
 
-def _review_detail(standards, code, outcome=None, proceeding_type=None):
+def _review_detail(standards, code, dispositions=None, matter_type=None):
     details = {
         "factual_findings": "BCO 39-3.2: factual findings receive great deference; reversal requires clear error.",
         "discretion_and_judgment": "BCO 39-3.3: matters of discretion and judgment receive great deference; reversal requires clear error.",
@@ -540,12 +727,7 @@ def _review_detail(standards, code, outcome=None, proceeding_type=None):
 def _detected_review_standards(body, contextual_standard=None):
     """Detect only bases stated in the adopted decision text."""
     standards = []
-    if re.search(
-        r"\b(?:BCO\s*40\s*[-.]\s*5|important\s+delinquency|"
-        r"grossly\s+unconstitutional\s+proceedings?)\b",
-        body,
-        re.I,
-    ):
+    if contextual_standard:
         standards.append(
             contextual_standard
             or "important_delinquency_or_grossly_unconstitutional_proceeding"
@@ -585,14 +767,17 @@ def _detected_review_standards(body, contextual_standard=None):
     return list(dict.fromkeys(standards))
 
 
-def standard_of_review(file, outcome, proceeding_type=None, override=None, contextual_standard=None, case_id=None):
+def standard_of_review(file, dispositions, matter_type=None, override=None, contextual_standard=None, case_id=None):
     """Return the display code, explanation, and applicable review standards.
 
     The list is authoritative. ``standard_of_review`` is retained as a compact
     compatibility/display field and is derived from that list.
     """
-    if outcome in NON_MERITS_OUTCOMES:
+    if dispositions and not _has_merits_disposition(dispositions):
         return "not_reached", _review_detail([], "not_reached"), []
+
+    if matter_type == "bco_40_5_matter" and not contextual_standard:
+        contextual_standard = "important_delinquency_or_grossly_unconstitutional_proceeding"
 
     body = decision_text(file, case_id)
     if not body:
@@ -607,8 +792,8 @@ def standard_of_review(file, outcome, proceeding_type=None, override=None, conte
     else:
         standards = detected
 
-    code = _review_code(standards, True, outcome, proceeding_type)
-    return code, _review_detail(standards, code, outcome, proceeding_type), standards
+    code = _review_code(standards, True, dispositions, matter_type)
+    return code, _review_detail(standards, code, dispositions, matter_type), standards
 
 
 def main():
@@ -684,17 +869,33 @@ def main():
         page_body = page_text(page_file)
         page_header = page_body[:2400]
         page_headings = case_page_headings(page_body)
-        posture = override.get("proceeding_type") or classify_proceeding_type(
+        inferred_matter_type = classify_matter_type(
             raw_title, title, record.get("title"), page_headings
+        )
+        legacy_matter_type = override.get("proceeding_type")
+        matter_type = override.get("matter_type") or (
+            inferred_matter_type
+            if inferred_matter_type == "bco_40_5_matter"
+            else legacy_matter_type or inferred_matter_type
         )
         contextual_standard, _contextual_detail = contextual_review_standard(
             raw_title, title, record.get("title"), page_headings
         )
+        if matter_type == "bco_40_5_matter" and not contextual_standard:
+            contextual_standard = "important_delinquency_or_grossly_unconstitutional_proceeding"
         detail = page_disposition(page_file) or record.get("disposition") or (cjb or {}).get("disposition") or (raw_title if matches else "")
         detail = override.get("disposition_detail") or detail
-        outcome = override.get("outcome") or select_outcome(detail, summary, raw_title)
+        requested_dispositions = override.get("final_dispositions")
+        if requested_dispositions is not None:
+            final_dispositions = [
+                value for value in requested_dispositions if value in FINAL_DISPOSITIONS
+            ]
+        else:
+            final_dispositions = classify_final_dispositions(
+                detail, summary, raw_title, override.get("outcome")
+            )
         review_code, review_detail, review_standards = standard_of_review(
-            page_file, outcome, posture, override, contextual_standard, cid
+            page_file, final_dispositions, matter_type, override, contextual_standard, cid
         )
         if (
             override.get("review_standards") is not None
@@ -716,7 +917,7 @@ def main():
             classification_status = "roster_only"
         elif cid and not matches and not cjb:
             classification_status = "roster_only"
-        elif outcome == "other" or posture == "other":
+        elif "other" in final_dispositions or matter_type == "other":
             classification_status = "needs_review"
         rows.append({
             "roster_id": official.get("_roster_id") or official.get("case_number_raw") or official.get("case_number"),
@@ -726,9 +927,8 @@ def main():
             "era_label": era_label,
             "minute_ids": minute_ids,
             "title": title,
-            "proceeding_type": posture,
-            "outcome": outcome,
-            "disposition": outcome,
+            "matter_type": matter_type,
+            "final_dispositions": final_dispositions,
             "disposition_detail": detail or None,
             "standard_of_review": review_code,
             "standard_of_review_detail": review_detail,
@@ -757,8 +957,10 @@ def main():
     for row in rows:
         counts[row["classification_status"]] += 1
     print("           status=" + ", ".join(f"{k}:{counts[k]}" for k in sorted(counts)))
-    print("           proceeding_types=" + ", ".join(f"{k}:{sum(r['proceeding_type'] == k for r in rows)}" for k in PROCEEDING_TYPES))
-    print("           outcomes=" + ", ".join(f"{k}:{sum(r['outcome'] == k for r in rows)}" for k in OUTCOMES))
+    print("           matter_types=" + ", ".join(f"{k}:{sum(r['matter_type'] == k for r in rows)}" for k in MATTER_TYPES))
+    print("           final_dispositions=" + ", ".join(
+        f"{k}:{sum(k in r['final_dispositions'] for r in rows)}" for k in FINAL_DISPOSITIONS
+    ))
 
 
 if __name__ == "__main__":

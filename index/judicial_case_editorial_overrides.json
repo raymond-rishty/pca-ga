@@ -1,11 +1,11 @@
 {
   "2006-02": {
-    "proceeding_type": "review_and_control",
+    "matter_type": "bco_40_5_matter",
     "standard_of_review_detail": "BCO 40-5: important delinquency or grossly unconstitutional proceedings.",
     "review_standards": ["important_delinquency_or_grossly_unconstitutional_proceeding"]
   },
   "2007-14": {
-    "proceeding_type": "review_and_control",
+    "matter_type": "bco_40_5_matter",
     "standard_of_review_detail": "BCO 40-5: important delinquency or grossly unconstitutional proceedings; this was a 40-5/40-6 trial rather than an ordinary appeal.",
     "review_standards": ["important_delinquency_or_grossly_unconstitutional_proceeding"],
     "summary_review_status": "audited"
@@ -29,11 +29,16 @@
     "summary_review_status": "audited"
   },
   "2023-14": {
-    "proceeding_type": "review_and_control",
+    "matter_type": "bco_40_5_matter",
     "outcome": "partially_sustained",
     "disposition_detail": "BCO 40-5 ruling found egregious constitutional error and fully redressed the reported matter, but denied the requested annulment of the installations.",
     "standard_of_review_detail": "BCO 40-5: important delinquency or grossly unconstitutional proceedings; the SJC found egregious constitutional error and addressed the requested relief.",
     "review_standards": ["important_delinquency_or_grossly_unconstitutional_proceeding"],
+    "summary_review_status": "audited"
+  },
+  "2022-10": {
+    "matter_type": "judicial_reference",
+    "final_dispositions": ["not_guilty"],
     "summary_review_status": "audited"
   },
   "1991-01": {

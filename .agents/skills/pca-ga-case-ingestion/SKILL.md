@@ -37,10 +37,17 @@ For every docket, update all of these:
   disposition, vote, dissent flag, BCO citations, topics, synopsis,
   description, precedent relationships, and provenance where available.
 
-Use the repository's disposition vocabulary:
-`sustained`, `partially_sustained`, `not_sustained`, `denied`, `dismissed`,
-`out_of_order`, `in_order`, `administrative`, `referred`, `granted`,
-`abandoned`, or `other`. Put finer detail in the synopsis.
+Use the canonical matter types in `docs/JUDICIAL-CASE-TAXONOMY.md`: `complaint`,
+`appeal`, `judicial_reference`, `original_jurisdiction_request`,
+`bco_40_5_matter`, `review_and_control`, or `other`.
+
+Record every source-supported terminal action in `final_dispositions`; do not
+collapse a composite ruling such as “appeal sustained and remanded” into one
+coarse outcome. Distinguish administrative from judicial out-of-order rulings,
+withdrawal from abandonment, remand from referral, and a not-guilty verdict
+from a complaint that was merely not sustained. Preserve the source wording in
+`disposition_detail` and follow the complete controlled vocabulary in the
+taxonomy document.
 
 Record only provisions actually belonging to the case. Normalize bare BCO
 references, preserve non-BCO constitutional references in topics or prose, and
