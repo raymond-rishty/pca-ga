@@ -7,6 +7,11 @@ ROOT = Path(__file__).resolve().parents[1]
 SPEC = importlib.util.spec_from_file_location("case_taxonomy", ROOT / "scripts" / "12_case_taxonomy.py")
 MODULE = importlib.util.module_from_spec(SPEC)
 SPEC.loader.exec_module(MODULE)
+INDEX_SPEC = importlib.util.spec_from_file_location(
+    "judicial_taxonomy_index", ROOT / "scripts" / "13_judicial_taxonomy_index.py"
+)
+INDEX_MODULE = importlib.util.module_from_spec(INDEX_SPEC)
+INDEX_SPEC.loader.exec_module(INDEX_MODULE)
 
 
 def test_canonical_and_legacy_ids_preserve_aliases():
@@ -302,10 +307,25 @@ def test_human_index_is_generated_from_the_canonical_layer():
     assert "Final disposition" in index
     assert "| `2023-07` | Evans v. Arizona Presbytery |" in index
     assert "| `1986-01` | Kenneth L. Gentry, Jr. et al. v. Calvary Presbytery |" in index
-    assert "Factual findings — great deference; clear error" in index
+    assert "Great deference unless clear error (factual findings)" in index
     assert "factual_findings" not in index
     assert "partially_sustained" not in index
     assert "administratively_out_of_order" not in index
+
+
+def test_review_basis_groups_shared_deference_language():
+    assert INDEX_MODULE.review_basis({"review_standards": ["factual_findings"]}) == (
+        "Great deference unless clear error (factual findings)"
+    )
+    assert INDEX_MODULE.review_basis({
+        "review_standards": ["factual_findings", "discretion_and_judgment"]
+    }) == "Great deference unless clear error (factual findings; discretion and judgment)"
+    assert INDEX_MODULE.review_basis({
+        "review_standards": ["discretion_and_judgment", "constitutional_interpretation"]
+    }) == (
+        "Great deference unless clear error (discretion and judgment); "
+        "Independent review (constitutional interpretation)"
+    )
 
 
 def test_assembly_index_uses_canonical_answers_with_friendly_labels():

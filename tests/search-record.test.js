@@ -46,8 +46,18 @@ test('surfaces one review-basis facet across ordinary and BCO 40-5 matters', () 
     review_standards: ['discretion_and_judgment', 'constitutional_interpretation'],
   });
 
-  assert.match(view.reviewStandard, /Discretion and judgment — great deference; clear error/);
-  assert.match(view.reviewStandard, /Constitutional interpretation — independent review/);
+  assert.equal(
+    view.reviewStandard,
+    'Great deference unless clear error (discretion and judgment); Independent review (constitutional interpretation)',
+  );
+  const combinedDeference = presenter.formatRecord({
+    type: 'Judicial case',
+    review_standards: ['factual_findings', 'discretion_and_judgment'],
+  });
+  assert.equal(
+    combinedDeference.reviewStandard,
+    'Great deference unless clear error (factual findings; discretion and judgment)',
+  );
   const supervisory = presenter.formatRecord({
     type: 'Judicial case',
     title: 'BCO 40-5 Matter re NW Georgia',

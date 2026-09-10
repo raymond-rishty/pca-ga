@@ -130,6 +130,10 @@ become a final disposition. The original wording is not discarded.
   examines the adopted decision only; a dissent's proposed basis, a generic
   citation, or a boilerplate quotation is not silently promoted to a case
   classification.
+- Human-readable views group the shared BCO 39-3 deference rule before naming
+  its applications. For example, a case invoking both subsections (2) and (3)
+  displays “Great deference unless clear error (factual findings; discretion
+  and judgment)” rather than repeating the deference language for each basis.
 - `classification_status` is `classified`, `needs_review`, or `roster_only`.
   `roster_only` means the official case is known but the local Minutes
   extraction has not yet supplied enough metadata; it is not permission to

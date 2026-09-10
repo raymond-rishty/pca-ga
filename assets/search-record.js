@@ -54,9 +54,9 @@
     other: 'Other',
   };
   const REVIEW_LABELS = {
-    factual_findings: 'Factual findings — great deference; clear error',
-    discretion_and_judgment: 'Discretion and judgment — great deference; clear error',
-    constitutional_interpretation: 'Constitutional interpretation — independent review',
+    factual_findings: 'Great deference unless clear error (factual findings)',
+    discretion_and_judgment: 'Great deference unless clear error (discretion and judgment)',
+    constitutional_interpretation: 'Independent review (constitutional interpretation)',
     important_delinquency_or_grossly_unconstitutional_proceeding: 'BCO 40-5 — important delinquency or grossly unconstitutional proceeding',
     mixed: 'Mixed',
     not_reached: 'Not reached',
@@ -157,12 +157,24 @@
     return labels.join('; ');
   }
 
+  function reviewBasis(values, fallback) {
+    const standards = [...new Set(Array.isArray(values) ? values.filter(Boolean) : [])];
+    if (!standards.length) return REVIEW_LABELS[fallback] || clean(fallback);
+    const contexts = [];
+    if (standards.includes('factual_findings')) contexts.push('factual findings');
+    if (standards.includes('discretion_and_judgment')) contexts.push('discretion and judgment');
+    const labels = contexts.length
+      ? [`Great deference unless clear error (${contexts.join('; ')})`]
+      : [];
+    standards
+      .filter((value) => !['factual_findings', 'discretion_and_judgment'].includes(value))
+      .forEach((value) => labels.push(REVIEW_LABELS[value] || clean(value)));
+    return labels.join('; ');
+  }
+
   function formatRecord(record) {
     const category = CATEGORIES[record.type] || { className: 'minutes', label: clean(record.type) || 'General Assembly minutes' };
     const rpr = record.type === 'RPR exception' ? rprDetails(record) : null;
-    const issueStandards = Array.isArray(record.review_standards)
-      ? record.review_standards.filter(Boolean).map((value) => REVIEW_LABELS[value] || clean(value))
-      : [];
     return {
       category,
       identifier: rpr?.identifier || identifier(record),
@@ -173,7 +185,7 @@
       status: finalDisposition(record),
       statusLabel: statusLabel(record.type),
       matterType: MATTER_TYPE_LABELS[record.matter_type] || clean(record.matter_type),
-      reviewStandard: issueStandards.join('; ') || REVIEW_LABELS[record.standard_of_review] || clean(record.standard_of_review),
+      reviewStandard: reviewBasis(record.review_standards, record.standard_of_review),
       provisions: Array.isArray(record.provisions) ? record.provisions.filter(Boolean) : [],
       href: href(record),
     };

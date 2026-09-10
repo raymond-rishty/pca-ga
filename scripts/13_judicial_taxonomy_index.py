@@ -53,9 +53,9 @@ FINAL_DISPOSITION_LABELS = {
     "other": "Other",
 }
 REVIEW_BASIS_LABELS = {
-    "factual_findings": "Factual findings — great deference; clear error",
-    "discretion_and_judgment": "Discretion and judgment — great deference; clear error",
-    "constitutional_interpretation": "Constitutional interpretation — independent review",
+    "factual_findings": "Great deference unless clear error (factual findings)",
+    "discretion_and_judgment": "Great deference unless clear error (discretion and judgment)",
+    "constitutional_interpretation": "Independent review (constitutional interpretation)",
     "important_delinquency_or_grossly_unconstitutional_proceeding": (
         "BCO 40-5 — important delinquency or grossly unconstitutional proceeding"
     ),
@@ -98,9 +98,23 @@ def aliases(row):
 
 
 def review_basis(row):
-    values = row.get("review_standards") or []
+    values = list(dict.fromkeys(row.get("review_standards") or []))
     if values:
-        return "; ".join(md(REVIEW_BASIS_LABELS.get(value, value)) for value in values)
+        parts = []
+        deferential = [
+            label for value, label in (
+                ("factual_findings", "factual findings"),
+                ("discretion_and_judgment", "discretion and judgment"),
+            ) if value in values
+        ]
+        if deferential:
+            parts.append(f"Great deference unless clear error ({'; '.join(deferential)})")
+        parts.extend(
+            md(REVIEW_BASIS_LABELS.get(value, value))
+            for value in values
+            if value not in {"factual_findings", "discretion_and_judgment"}
+        )
+        return "; ".join(parts)
     value = row.get("standard_of_review")
     return md(REVIEW_BASIS_LABELS.get(value, value)) or "—"
 
