@@ -154,10 +154,45 @@ def test_generated_catalog_carries_stable_evans_identity_and_all_roster_rows():
     assert all(row["standard_of_review"] in MODULE.STANDARD_OF_REVIEW_CODES for row in rows)
     assert all(set(row["review_standards"]).issubset(MODULE.REVIEW_STANDARD_CODES) for row in rows)
     assert all(row["summary_review_status"] in {"audited", "pending_audit"} for row in rows)
+    assert not [row for row in rows if row["classification_status"] == "needs_review"]
     assert all(
         re.fullmatch(r"\d{1,2}-\d{1,2}(?:\.[a-z0-9]+)*", provision)
         for row in rows for provision in row["bco_provisions"]
     )
+
+
+def test_previously_unresolved_cases_have_source_grounded_classifications():
+    rows = {
+        row["case_id"]: row
+        for line in (ROOT / "index" / "judicial_cases.jsonl").read_text(encoding="utf-8").splitlines()
+        if line.strip()
+        for row in [__import__("json").loads(line)]
+    }
+    expected = {
+        "1978-01": ("complaint", "referred"),
+        "1980-02": ("complaint", "sustained"),
+        "1981-02": ("complaint", "not_sustained"),
+        "1985-01": ("complaint", "out_of_order"),
+        "1991-07": ("complaint", "not_sustained"),
+        "1992-09a": ("complaint", "partially_sustained"),
+        "2000-08": ("complaint", "out_of_order"),
+        "2004-11": ("appeal", "dismissed"),
+        "2016-10": ("review_and_control", "administrative"),
+        "2016-13": ("complaint", "dismissed"),
+        "2017-10": ("review_and_control", "referred"),
+        "2017-11": ("review_and_control", "referred"),
+        "2017-12": ("review_and_control", "referred"),
+        "2020-02": ("original_jurisdiction_request", "referred"),
+        "2020-04": ("complaint", "referred"),
+        "2021-08": ("review_and_control", "administrative"),
+        "2022-11": ("original_jurisdiction_request", "referred"),
+        "2022-12": ("original_jurisdiction_request", "dismissed"),
+        "2023-14": ("review_and_control", "partially_sustained"),
+    }
+    assert {
+        case_id: (rows[case_id]["proceeding_type"], rows[case_id]["outcome"])
+        for case_id in expected
+    } == expected
 
 
 def test_editorial_overrides_fill_source_grounded_summaries():

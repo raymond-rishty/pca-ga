@@ -30,8 +30,8 @@
   },
   "2023-14": {
     "proceeding_type": "review_and_control",
-    "outcome": "other",
-    "disposition_detail": "BCO 40-5 ruling found egregious constitutional error; proceedings were stayed and terminated, but requested annulment was denied.",
+    "outcome": "partially_sustained",
+    "disposition_detail": "BCO 40-5 ruling found egregious constitutional error and fully redressed the reported matter, but denied the requested annulment of the installations.",
     "standard_of_review_detail": "BCO 40-5: important delinquency or grossly unconstitutional proceedings; the SJC found egregious constitutional error and addressed the requested relief.",
     "review_standards": ["important_delinquency_or_grossly_unconstitutional_proceeding"],
     "summary_review_status": "audited"
@@ -62,7 +62,7 @@
   "1991-07": {
     "title": "Complainants v. Potomac Presbytery",
     "summary": "Complainants challenged Potomac Presbytery's handling of a dispute over the dissolution of pastoral relationships at Timonium Presbyterian Church. The SJC did not sustain the timely complaint, dismissed two related complaints as untimely under BCO 43-2, and deferred to the lower court's judgment absent demonstrated constitutional error.",
-    "outcome": "other",
+    "outcome": "not_sustained",
     "disposition_detail": "Timely complaint not sustained; two related complaints dismissed as untimely",
     "standard_of_review_detail": "The SJC would not overturn a competent lower court absent a clear constitutional violation or other demonstrated error."
   },
@@ -125,6 +125,7 @@
   "2016-10": {
     "title": "Korean Northwest Presbytery",
     "summary": "The SJC reviewed Korean Northwest Presbytery's amended and corrected response to exceptions in the review of its records and accepted the response by roll-call vote, with one dissent and one abstention recorded.",
+    "proceeding_type": "review_and_control",
     "outcome": "administrative",
     "disposition_detail": "Amended and corrected responses accepted"
   },
@@ -137,6 +138,7 @@
   "2021-08": {
     "title": "Korean Southwest Orange County Presbytery",
     "summary": "The SJC cited Korean Southwest Orange County Presbytery to respond to an exception in the review of its records. When no adopted response had arrived by the March 3, 2022 meeting, the SJC allowed time for the presbytery to adopt and file one and warned that failure could lead to a further appearance; no merits disposition appears in this record.",
+    "proceeding_type": "review_and_control",
     "outcome": "administrative",
     "disposition_detail": "Citation and response process; no merits disposition in this record"
   },
@@ -176,9 +178,11 @@
   },
   "1985-01": {
     "title": "Session of Faith Presbyterian Church, Akron, Ohio v. Ascension Presbytery",
-    "summary": "The SJC catalog identifies this complaint concerning the Session of Faith Presbyterian Church in Akron and Ascension Presbytery, but the available official catalog and local corpus provide no final disposition or merits opinion. This remains a source-recovery item.",
-    "outcome": "other",
-    "summary_source": "official_catalog"
+    "summary": "The Session of Faith Presbyterian Church complained against Ascension Presbytery's alleged failure to comply with earlier Assembly directions concerning Kurt Lutjens. Although the Committee on Judicial Business recommended finding the complaint in order, the moderator ruled that motion out of order, and the Thirteenth General Assembly sustained the ruling; a dissent objected that the complaint had been timely filed.",
+    "outcome": "out_of_order",
+    "disposition_detail": "Motion to find the complaint in order ruled out of order; moderator's ruling sustained by the Assembly",
+    "topic_tags": ["complaint procedure", "timeliness", "Assembly directions", "ministerial examination", "moderator ruling"],
+    "summary_source": "official_minutes"
   },
   "1985-04": {
     "title": "Mayfield v. Siouxlands Presbytery",
@@ -325,7 +329,7 @@
   "2004-11": {
     "title": "Scott v. Northern California Presbytery",
     "summary": "The SJC catalog records Scott v. Northern California Presbytery as moot, so no merits opinion is identified in the available catalog or local corpus.",
-    "outcome": "other",
+    "outcome": "dismissed",
     "disposition_detail": "Moot; no merits opinion located",
     "summary_source": "official_catalog"
   },
@@ -442,7 +446,7 @@
   },
   "1978-01": {
     "summary": "RE James Campbell challenged Mid-Atlantic Presbytery's approval of a commission report that rejected charges against Rev. Robert Schoof as inadmissible and limited the investigation. The Assembly directed the presbytery to hold a new hearing on the original charges under BCO 44-5, conform to the BCO, and keep the principals informed; it also appointed a judicial commission for any further appeal before the next Assembly.",
-    "outcome": "other",
+    "outcome": "referred",
     "disposition_detail": "New hearing ordered under BCO 44-5; judicial commission appointed for a potential further appeal",
     "bco_provisions": ["44-5"],
     "topic_tags": ["judicial process", "charges", "new hearing", "ministerial discipline", "notice and record"],
@@ -551,10 +555,15 @@
     "summary_source": "official_decision_pdf"
   },
   "1980-02": {
-    "summary": "TE Rod Mays brought an appeal against New River Presbytery alleging that it failed to address reported scandalous activity involving one of its ministers. The official case catalog preserves only that issue description and no final merits judgment, so this record remains a source-recovery item rather than a substantive holding.",
-    "outcome": "other",
-    "disposition_detail": "Issue recorded in the official catalog; final merits disposition not located",
-    "summary_source": "official_catalog"
+    "summary": "TE Rod Mays complained that New River Presbytery failed to address reported scandalous conduct by one of its ministers. The judicial commission sustained the specification of error by a 9-8 vote, explaining that required procedures concerning public offenses had not been followed, the responsible presbytery committee had not reported, and the proceedings had not been properly recorded.",
+    "proceeding_type": "complaint",
+    "outcome": "sustained",
+    "disposition_detail": "Specification of error sustained 9-8; procedural failures identified",
+    "bco_provisions": ["32-2", "32-7", "39-1"],
+    "topic_tags": ["public offense", "presbytery procedure", "ministerial discipline", "record of proceedings"],
+    "review_standards": [],
+    "standard_of_review_detail": "The commission identified procedural failures but did not state a distinct standard of review.",
+    "summary_source": "official_minutes"
   },
   "1983-14": {
     "title": "RE Truman Swain et al. v. Eastern Carolina Presbytery",
@@ -885,6 +894,75 @@
     "disposition_detail": "Complaint withdrawn; dismissed without merits decision",
     "topic_tags": ["withdrawal", "procedural disposition", "no merits decision"],
     "standard_of_review_detail": "The complaint ended by withdrawal before merits review was required.",
+    "summary_source": "case_page"
+  },
+  "1981-02": {
+    "summary": "RE Robert H. Zeigler and other complainants challenged Texas Presbytery's handling of their complaint concerning the Session of North Dallas Presbyterian Church, including its use of a committee rather than the requested commission and the sequence in which the committee interviewed the parties. The General Assembly judicial commission unanimously confirmed the lower court's judgment, 10-0.",
+    "proceeding_type": "complaint",
+    "outcome": "not_sustained",
+    "disposition_detail": "Lower court judgment unanimously confirmed, 10-0",
+    "bco_provisions": ["15-1", "42-4"],
+    "topic_tags": ["complaint procedure", "committee and commission", "order of interviews", "lower court judgment"],
+    "summary_source": "case_page"
+  },
+  "1992-09a": {
+    "proceeding_type": "complaint",
+    "outcome": "partially_sustained",
+    "disposition_detail": "Licensure challenge not sustained; complaint sustained as to the unlicensed stated-supply service",
+    "summary_source": "case_page"
+  },
+  "2000-08": {
+    "proceeding_type": "complaint",
+    "outcome": "out_of_order",
+    "disposition_detail": "Complaint prematurely filed before Presbytery completed its action",
+    "summary_source": "case_page"
+  },
+  "2016-13": {
+    "proceeding_type": "complaint",
+    "outcome": "dismissed",
+    "disposition_detail": "Complaint dismissed as moot, 13-6",
+    "summary_source": "case_page"
+  },
+  "2017-10": {
+    "proceeding_type": "review_and_control",
+    "outcome": "referred",
+    "disposition_detail": "Citation response accepted and materials referred to the Review of Presbytery Records Committee",
+    "summary_source": "case_page"
+  },
+  "2017-11": {
+    "proceeding_type": "review_and_control",
+    "outcome": "referred",
+    "disposition_detail": "Citation responses accepted and forwarded to the Review of Presbytery Records Committee",
+    "summary_source": "case_page"
+  },
+  "2017-12": {
+    "proceeding_type": "review_and_control",
+    "outcome": "referred",
+    "disposition_detail": "Citation responses accepted and forwarded to the Review of Presbytery Records Committee",
+    "summary_source": "case_page"
+  },
+  "2020-02": {
+    "proceeding_type": "original_jurisdiction_request",
+    "outcome": "referred",
+    "disposition_detail": "BCO 34-1 requests answered by reference to Cases 2020-12 and 2020-05",
+    "summary_source": "case_page"
+  },
+  "2020-04": {
+    "proceeding_type": "complaint",
+    "outcome": "referred",
+    "disposition_detail": "Complaint returned to Central Indiana Presbytery with instructions to reinvestigate under BCO 31-2",
+    "summary_source": "case_page"
+  },
+  "2022-11": {
+    "proceeding_type": "original_jurisdiction_request",
+    "outcome": "referred",
+    "disposition_detail": "BCO 34-1 petitions answered and decided by reference to the final decision in Case 2022-10",
+    "summary_source": "case_page"
+  },
+  "2022-12": {
+    "proceeding_type": "original_jurisdiction_request",
+    "outcome": "dismissed",
+    "disposition_detail": "BCO 34-1 petitions dismissed for lack of jurisdiction after the minister and congregation left the PCA",
     "summary_source": "case_page"
   }
 }
