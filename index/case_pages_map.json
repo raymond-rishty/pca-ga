@@ -1074,7 +1074,7 @@
    "2008-01",
    "2008-10"
   ],
-  "title": "Complaint of Crossroads Community Church Session and Complaints of RE Mark Grasso, et al. vs. Philadelphia Presbytery"
+  "title": "Crossroads Community Church Session and Mark Grasso et al. v. Philadelphia Presbytery"
  },
  "2008-10": {
   "vol": "ga37_2009",
@@ -1083,7 +1083,7 @@
    "2008-01",
    "2008-10"
   ],
-  "title": "Complaint of Crossroads Community Church Session and Complaints of RE Mark Grasso, et al. vs. Philadelphia Presbytery"
+  "title": "Crossroads Community Church Session and Mark Grasso et al. v. Philadelphia Presbytery"
  },
  "1997-08": {
   "vol": "ga26_1998",
@@ -1766,7 +1766,7 @@
   "numbers": [
    "2007-13"
   ],
-  "title": "Complaint of TE David Kniseley, et al. vs. Rocky Mountain Presbytery"
+  "title": "David Kniseley et al. v. Rocky Mountain Presbytery"
  },
  "2022-08": {
   "vol": "ga50_2023",
@@ -2041,7 +2041,7 @@
   "numbers": [
    "2022-17"
   ],
-  "title": "Benyola v. Central Florida Presbytery (three complaints)"
+  "title": "Peter Benyola v. Central Florida Presbytery"
  },
  "2019-13": {
   "vol": "ga48_2021",
@@ -3805,19 +3805,21 @@
  },
  "2023-06": {
   "vol": "ga51_2024",
-  "file": "ga51_2024__stub_2023-06",
+  "file": "ga51_2024__2023-06_2023-08",
   "numbers": [
-   "2023-06"
+   "2023-06",
+   "2023-08"
   ],
-  "title": "TE Knox Baird et al. (Session members of First Presbyterian Church, Hattiesburg, MS) Grace Presbytery"
+  "title": "Knox Baird et al. v. Grace Presbytery"
  },
  "2023-15": {
   "vol": "ga51_2024",
-  "file": "ga51_2024__stub_2023-15",
+  "file": "ga51_2024__2023-15_2023-17",
   "numbers": [
-   "2023-15"
+   "2023-15",
+   "2023-17"
   ],
-  "title": "Mr. Tom Turner South Florida Presbytery"
+  "title": "Tom Turner v. South Florida Presbytery"
  },
  "2025-07": {
   "vol": "ga52_2025",
@@ -3864,5 +3866,115 @@
    "2020-09"
   ],
   "title": "RE SEAN OZBALT AND RE ERIN BARR V. PACIFIC PRESBYTERY"
+ },
+ "1985-04": {
+  "vol": "ga13_1985",
+  "file": "ga13_1985__1985-04",
+  "numbers": [
+   "1985-04"
+  ],
+  "title": "Appeal of Jack Mayfield v. Siouxlands Presbytery"
+ },
+ "2002-06": {
+  "vol": "ga31_2003",
+  "file": "ga31_2003__2002-06",
+  "numbers": [
+   "2002-06"
+  ],
+  "title": "Appeal of Randall Wright v. Northern California Presbytery"
+ },
+ "2002-07": {
+  "vol": "ga31_2003",
+  "file": "ga31_2003__2002-07",
+  "numbers": [
+   "2002-07"
+  ],
+  "title": "Leland Nichols and Sam Couch v. James River Presbytery"
+ },
+ "2013-05": {
+  "vol": "ga42_2014",
+  "file": "ga42_2014__2013-05",
+  "numbers": [
+   "2013-05"
+  ],
+  "title": "Stephen Hahn request concerning Philadelphia Metro West Presbytery"
+ },
+ "2004-01": {
+  "vol": "ga33_2005",
+  "file": "ga33_2005__2004-01_2004-10",
+  "numbers": [
+   "2004-01",
+   "2004-10"
+  ],
+  "title": "Westminster Presbyterian Church v. Westminster Presbytery / Stuart Merriam v. Tennessee Valley Presbytery"
+ },
+ "2004-10": {
+  "vol": "ga33_2005",
+  "file": "ga33_2005__2004-01_2004-10",
+  "numbers": [
+   "2004-01",
+   "2004-10"
+  ],
+  "title": "Westminster Presbyterian Church v. Westminster Presbytery / Stuart Merriam v. Tennessee Valley Presbytery"
+ },
+ "2023-08": {
+  "vol": "ga51_2024",
+  "file": "ga51_2024__2023-06_2023-08",
+  "numbers": [
+   "2023-06",
+   "2023-08"
+  ],
+  "title": "Knox Baird et al. v. Grace Presbytery"
+ },
+ "2023-17": {
+  "vol": "ga51_2024",
+  "file": "ga51_2024__2023-15_2023-17",
+  "numbers": [
+   "2023-15",
+   "2023-17"
+  ],
+  "title": "Tom Turner v. South Florida Presbytery"
+ },
+ "2025-12": {
+  "vol": "ga52_2025",
+  "file": "ga52_2025__2025-12_2025-13",
+  "numbers": [
+   "2025-12",
+   "2025-13"
+  ],
+  "title": "Felipe Assis and Carter Brown v. South Florida Presbytery"
+ },
+ "2025-13": {
+  "vol": "ga52_2025",
+  "file": "ga52_2025__2025-12_2025-13",
+  "numbers": [
+   "2025-12",
+   "2025-13"
+  ],
+  "title": "Felipe Assis and Carter Brown v. South Florida Presbytery"
+ },
+ "1989-04": {
+  "vol": "ga17_1989",
+  "file": "ga17_1989__case2",
+  "numbers": [
+   "1989-04"
+  ],
+  "title": "Morrison v. Philadelphia Presbytery"
+ },
+ "1989-06": {
+  "vol": "ga17_1989",
+  "file": "ga17_1989__case3",
+  "numbers": [
+   "1989-06"
+  ],
+  "title": "DeBardeleben v. Philadelphia Presbytery"
+ },
+ "1989-09": {
+  "vol": "ga17_1989",
+  "file": "ga17_1989__case4",
+  "numbers": [
+   "1989-09"
+  ],
+  "title": "Morrison v. Philadelphia Presbytery"
  }
 }

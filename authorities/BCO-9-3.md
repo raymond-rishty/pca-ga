@@ -6,8 +6,8 @@
 
 | Year | Type | Title | Disposition |
 |------|------|-------|-------------|
-| 2007 | Judicial case | [Kniseley v. Rocky Mountain](../cases/ga37_2009__2007-13.md) | denied |
-| 2008 | Judicial case | [Session of Crossroads Community v. Philadelphia](../cases/ga37_2009__2008-01_2008-10.md) | denied |
+| 2009 | Judicial case | [Session of Crossroads Community Church v. Philadelphia Presbytery](../cases/ga37_2009__2008-01_2008-10.md) | denied |
+| 2009 | Judicial case | [David Kniseley et al. v. Rocky Mountain Presbytery](../cases/ga37_2009__2007-13.md) | denied |
 | 2011 | Judicial case | [Brown v. Northern California Presbytery](../cases/ga39_2011__2009-25_2009-26.md) | sustained |
 | 2021 | Judicial case | [Crouse v. Northwest Georgia Presbytery](../cases/ga48_2021__2019-11.md) | denied |
 

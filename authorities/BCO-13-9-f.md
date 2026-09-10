@@ -24,6 +24,7 @@
 | 2022 | Judicial case | [Speck v. Missouri Presbytery](../cases/ga49_2022__2020-05.md) | partially_sustained |
 | 2024 | Judicial case | [Martinez & Cook v. Pacific Presbytery](../cases/ga51_2024__2023-10.md) | partially_sustained |
 | 2024 | Judicial case | [Turner v. South Florida Presbytery](../cases/ga51_2024__2022-22.md) | partially_sustained |
+| 2024 | Judicial case | [Knox Baird et al. v. Grace Presbytery](../cases/ga51_2024__2023-06_2023-08.md) | partially_sustained |
 
 ## Low-but-important
 

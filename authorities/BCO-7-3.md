@@ -2,6 +2,12 @@
 
 *All PCA authorities bearing on **BCO 7-3**.*
 
+## High authority
+
+| Year | Type | Title | Disposition |
+|------|------|-------|-------------|
+| 1989 | Judicial case | [Debardeleben v. Philadelphia Presbytery](../cases/ga17_1989__case3.md) | sustained |
+
 ## Medium authority
 
 | Year | Type | Title | Disposition |

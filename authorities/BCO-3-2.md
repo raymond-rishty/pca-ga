@@ -11,6 +11,7 @@
 | 1994 | Judicial case | [Smith v. Northeast Presbytery](../cases/ga22_1994__1993-01.md) | denied |
 | 2021 | Judicial case | [Crouse v. Northwest Georgia Presbytery](../cases/ga48_2021__2019-03.md) | sustained |
 | 2024 | Judicial case | [Biese et al. v. Tennessee Valley Presbytery](../cases/ga51_2024__2023-04.md) | denied |
+| 2024 | Judicial case | [Knox Baird et al. v. Grace Presbytery](../cases/ga51_2024__2023-06_2023-08.md) | partially_sustained |
 | 2025 | Judicial case | [Gleason v. Houston Metro Presbytery](../cases/ga52_2025__2024-02.md) | dismissed |
 
 ## Medium authority

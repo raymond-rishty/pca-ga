@@ -186,33 +186,37 @@
   },
   "1985-04": {
     "title": "Mayfield v. Siouxlands Presbytery",
-    "summary": "The SJC catalog identifies Mayfield v. Siouxlands Presbytery, but the available official catalog and local corpus provide no final disposition or merits opinion. This remains a source-recovery item.",
-    "outcome": "other",
-    "summary_source": "official_catalog"
+    "proceeding_type": "appeal",
+    "summary": "Jack Mayfield appealed against Siouxlands Presbytery nearly a year and a half after the matter had been adjudicated. The General Assembly found the appeal not in order under BCO 42-4 because it was untimely and directed him to BCO 37-4 for the procedure to seek removal of censure.",
+    "outcome": "out_of_order",
+    "disposition_detail": "Appeal found not in order as untimely under BCO 42-4",
+    "bco_provisions": ["37-4", "42-4"],
+    "topic_tags": ["untimely appeal", "removal of censure", "appellate procedure"],
+    "summary_source": "case_page"
   },
   "1989-04": {
     "title": "Morrison v. Philadelphia Presbytery",
-    "summary": "The SJC catalog identifies Morrison v. Philadelphia Presbytery, but the available official catalog and local corpus provide no final disposition or merits opinion. This remains a source-recovery item.",
-    "outcome": "other",
-    "summary_source": "official_catalog"
+    "summary": "The complaint challenged Philadelphia Presbytery's debate and instruction that Christ Church, Oreland transfer three members. The commission did not sustain the debate specification but held that Presbytery lacked constitutional authority to command the transfers, sustained that specification, and annulled the instruction by an 18-0 vote.",
+    "outcome": "partially_sustained",
+    "disposition_detail": "Transfer instruction annulled; one specification sustained and one not sustained",
+    "topic_tags": ["transfer of membership", "session authority", "improper debate", "church court jurisdiction"],
+    "summary_source": "case_page"
   },
   "1989-06": {
     "title": "Debardeleben v. Philadelphia Presbytery",
-    "summary": "The SJC catalog identifies Debardeleben v. Philadelphia Presbytery, but the available official catalog and local corpus provide no final disposition or merits opinion. This remains a source-recovery item.",
-    "outcome": "other",
-    "summary_source": "official_catalog"
+    "summary": "Complainants challenged Philadelphia Presbytery's disposition of indictments arising from the division of Christ Reformed Presbyterian Church, Oreland. The commission sustained the principal specifications, annulled Presbytery's adoption of its judicial commission report, tried the matters de novo, and imposed censures on ministers and former ruling elders.",
+    "outcome": "sustained",
+    "disposition_detail": "Presbytery action annulled; matters tried de novo and censures imposed",
+    "topic_tags": ["judicial commission", "trial de novo", "church division", "ministerial discipline", "censure"],
+    "summary_source": "case_page"
   },
   "1989-09": {
     "title": "Morrison v. Philadelphia Presbytery",
-    "summary": "The SJC catalog identifies Morrison v. Philadelphia Presbytery, but the available official catalog and local corpus provide no final disposition or merits opinion. This remains a source-recovery item.",
-    "outcome": "other",
-    "summary_source": "official_catalog"
-  },
-  "1991-08": {
-    "title": "Hathaway v. Grace Presbytery",
-    "summary": "The SJC catalog identifies Hathaway v. Grace Presbytery, but the available official catalog and local corpus provide no final disposition or merits opinion. This remains a source-recovery item.",
-    "outcome": "other",
-    "summary_source": "official_catalog"
+    "summary": "The complaint challenged Philadelphia Presbytery's reception of a complaint that had not first been filed with the primary court, its judgment of members without process, and its attempt to act for a Session. The commission sustained the errors, annulled the March 12, 1988 actions, and directed corrective action by an 18-0 vote.",
+    "outcome": "sustained",
+    "disposition_detail": "Presbytery's March 12, 1988 actions annulled and corrective action directed",
+    "topic_tags": ["complaint procedure", "due process", "session authority", "separation of powers", "transfer of membership"],
+    "summary_source": "case_page"
   },
   "1997-01": {
     "title": "Felton v. Grace Presbytery",
@@ -291,19 +295,21 @@
     "disposition_detail": "Found out of order; no merits opinion located",
     "summary_source": "official_catalog"
   },
-  "2002-26": {
+  "2002-06": {
     "title": "Wright v. Northern California Presbytery",
-    "summary": "The SJC catalog records Wright v. Northern California Presbytery as judicially out of order and withdrawn before a merits decision. No opinion text has been located in the local case corpus.",
-    "outcome": "abandoned",
-    "disposition_detail": "Judicially out of order and withdrawn",
-    "summary_source": "official_catalog"
-  },
-  "2002-27": {
-    "title": "Nichols v. James River Presbytery",
-    "summary": "The SJC catalog records Nichols v. James River Presbytery as judicially out of order, without a merits opinion. The local corpus contains no fuller decision text.",
+    "proceeding_type": "appeal",
+    "summary": "The Standing Judicial Commission reported that Wright's appeal against Northern California Presbytery was judicially out of order and therefore could not be put in order. Wright then withdrew the case, so the Assembly recorded no merits disposition.",
     "outcome": "out_of_order",
-    "disposition_detail": "Judicially out of order; no merits opinion located",
-    "summary_source": "official_catalog"
+    "disposition_detail": "Judicially out of order and withdrawn without a merits decision",
+    "summary_source": "case_page"
+  },
+  "2002-07": {
+    "title": "Nichols and Couch v. James River Presbytery",
+    "proceeding_type": "complaint",
+    "summary": "The Standing Judicial Commission reported that Nichols and Couch's complaint against James River Presbytery was judicially out of order and could not be put in order. The Assembly therefore recorded no merits decision.",
+    "outcome": "out_of_order",
+    "disposition_detail": "Judicially out of order and incapable of being put in order",
+    "summary_source": "case_page"
   },
   "2002-28": {
     "title": "Gardiner v. North Georgia Presbytery",
@@ -410,6 +416,16 @@
     "disposition_detail": "Administratively out of order; no merits opinion located",
     "summary_source": "official_catalog"
   },
+  "2012-03": {
+    "title": "Charles Tarter v. Evangel Presbytery",
+    "proceeding_type": "appeal",
+    "summary": "TE Charles Tarter appealed Evangel Presbytery's guilty verdict and censure after it convicted him of teaching a view of the creation days contrary to the Westminster Standards. The SJC sustained the appeal, vacated the judgment and censure, and remanded the matter because Presbytery had not followed the constitutional process for examining and recording a minister's stated differences; Presbytery was directed either to conduct that process or dismiss the case.",
+    "outcome": "sustained",
+    "disposition_detail": "Appeal sustained; judgment and censure vacated and matter remanded for constitutionally compliant proceedings or dismissal",
+    "review_standards": ["discretion_and_judgment"],
+    "standard_of_review_detail": "The SJC expressly applied BCO 39-3.3: it owed great deference to the lower court on matters of discretion and judgment, but held that the judicial commission clearly erred in its judgment.",
+    "summary_source": "case_page"
+  },
   "2013-05": {
     "title": "Steven Hahn v. Philadelphia Metro West Presbytery",
     "summary": "Steven Hahn asked the SJC to assume original jurisdiction over Philadelphia Metro West Presbytery. The SJC catalog records the matter as administratively out of order, and no merits opinion has been located in the local corpus.",
@@ -424,6 +440,17 @@
     "disposition_detail": "Complaints sustained in the main; one specification denied and one not reached",
     "summary_source": "official_decision_pdf"
   },
+  "2023-08": {
+    "title": "Knox Baird et al. v. Grace Presbytery",
+    "proceeding_type": "complaint",
+    "summary": "Case 2023-08 was heard and decided with Case 2023-06 because the complaints involved the same parties and interconnected facts. TE Knox Baird and other elders challenged Grace Presbytery's handling of complaints, BCO 40-5 review requests, document demands, and a stay of pending trials. The SJC sustained the complaints in the main, rejected one specification, and did not reach another.",
+    "outcome": "partially_sustained",
+    "disposition_detail": "Complaints sustained in the main; one specification denied and one not reached",
+    "review_standards": ["important_delinquency_or_grossly_unconstitutional_proceeding"],
+    "standard_of_review_detail": "The consolidated decision applied BCO 40-5's threshold of an important delinquency or grossly unconstitutional proceeding.",
+    "topic_tags": ["complaint procedure", "BCO 40-5 review", "document production", "stay of judicial proceedings", "mootness"],
+    "summary_source": "official_decision_pdf"
+  },
   "2023-15": {
     "title": "Tom Turner v. South Florida Presbytery",
     "summary": "RE Tom Turner challenged South Florida Presbytery's handling of matters involving Cross Community Church and the discipline of its pastor after the church voted to disaffiliate from the PCA. The SJC ruled the complaints administratively out of order for lack of standing because the church had already disaffiliated, a conclusion opposed by two dissenting commissioners.",
@@ -431,12 +458,40 @@
     "disposition_detail": "Administratively out of order and incapable of being put in order for lack of standing",
     "summary_source": "official_decision_pdf"
   },
+  "2023-17": {
+    "title": "Tom Turner v. South Florida Presbytery",
+    "proceeding_type": "complaint",
+    "summary": "Case 2023-17 was decided with Case 2023-15 on RE Tom Turner's complaints concerning South Florida Presbytery and Cross Community Church. The SJC held both complaints administratively out of order and incapable of being put in order for lack of standing because the congregation had already disaffiliated from the PCA; two commissioners dissented.",
+    "outcome": "out_of_order",
+    "disposition_detail": "Administratively out of order and incapable of being put in order for lack of standing",
+    "topic_tags": ["standing", "church disaffiliation", "administratively out of order", "complaint procedure"],
+    "summary_source": "official_decision_pdf"
+  },
   "2025-12": {
     "title": "Felipe Assis and Carter Brown v. South Florida Presbytery",
-    "summary": "TEs Felipe Assis and Carter Brown appealed South Florida Presbytery's decision to divest them without censure after their churches left the PCA and they remained without transferred credentials. The SJC sustained the appeal, holding that BCO 13-2 and 34-10 did not authorize the divestiture on these facts, returned the ministers to good standing, and directed Presbytery to dissolve the existing calls and pursue a constitutionally appropriate course; two specifications could not be judged on the record.",
+    "proceeding_type": "appeal",
+    "summary": "TEs Felipe Assis and Carter Brown appealed South Florida Presbytery's decision to divest them without censure after their churches left the PCA and their credentials had not transferred. The SJC sustained the appeal, holding that Presbytery clearly erred in judgment and acted unconstitutionally under BCO 34-10. It reversed the divestitures, restored both ministers to good standing, directed Presbytery to dissolve the former calls, and required a constitutionally appropriate disposition; two specifications could not be decided on the record.",
     "outcome": "sustained",
-    "disposition_detail": "Appeal sustained; divestiture reversed and ministers returned to good standing",
-    "summary_source": "official_decision_pdf"
+    "disposition_detail": "Appeal sustained; divestitures reversed and both ministers restored to good standing",
+    "review_standards": ["discretion_and_judgment", "constitutional_interpretation"],
+    "standard_of_review_detail": "The SJC held that Presbytery clearly erred in judgment and acted unconstitutionally under BCO 34-10; it construed BCO 13-2 and 34-10 while declining to resolve disputed factual matters outside the record.",
+    "bco_provisions": ["8-7", "13-2", "20-8", "21-1", "23-1", "34-10", "38-3.a", "46-7"],
+    "topic_tags": ["divestiture without censure", "ministerial status", "dissolution of pastoral call", "church withdrawal", "transfer of credentials", "presbytery jurisdiction"],
+    "summary_source": "official_decision_pdf",
+    "summary_audit_basis": "official-decision-2025-12-13"
+  },
+  "2025-13": {
+    "title": "Felipe Assis and Carter Brown v. South Florida Presbytery",
+    "proceeding_type": "appeal",
+    "summary": "Case 2025-13 was consolidated with Case 2025-12 in the appeals of TEs Felipe Assis and Carter Brown from South Florida Presbytery's divestiture of them without censure. The SJC sustained the appeals, held that Presbytery clearly erred in judgment and acted unconstitutionally under BCO 34-10, reversed the divestitures, and restored both ministers to good standing.",
+    "outcome": "sustained",
+    "disposition_detail": "Appeal sustained; divestitures reversed and both ministers restored to good standing",
+    "review_standards": ["discretion_and_judgment", "constitutional_interpretation"],
+    "standard_of_review_detail": "The SJC held that Presbytery clearly erred in judgment and acted unconstitutionally under BCO 34-10; it construed BCO 13-2 and 34-10 while declining to resolve disputed factual matters outside the record.",
+    "bco_provisions": ["8-7", "13-2", "20-8", "21-1", "23-1", "34-10", "38-3.a", "46-7"],
+    "topic_tags": ["divestiture without censure", "ministerial status", "dissolution of pastoral call", "church withdrawal", "transfer of credentials", "presbytery jurisdiction"],
+    "summary_source": "official_decision_pdf",
+    "summary_audit_basis": "official-decision-2025-12-13"
   },
   "1977-01": {
     "summary": "Rev. Paul Karlberg and RE James Luce challenged Central Georgia Presbytery's handling of conflict at Faith Presbyterian Church, alleging that its commission had been biased and improperly constituted as a judicial commission. The Assembly's judicial commission did not sustain the complaint after the presbytery changed the body to a pastoral commission, rescinded most recommendations, and ended the investigation; it found no substantive reason to remand the matter.",

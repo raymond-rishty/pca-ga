@@ -13,6 +13,9 @@ def test_canonical_and_legacy_ids_preserve_aliases():
     assert MODULE.canonical_id("2023-7") == "2023-07"
     assert MODULE.legacy_id("1985-06") == "1985-6"
     assert MODULE.canonical_id("Case #6") is None
+    assert MODULE.roster_canonical_id({"case_number": "2002-26", "case_number_raw": "2002-26"}) == "2002-06"
+    assert MODULE.roster_canonical_id({"case_number": "2012-13", "case_number_raw": "2012-13"}) == "2012-03"
+    assert MODULE.ROSTER_COMPANION_IDS["2023-06"] == ("2023-08",)
 
 
 def test_clean_title_removes_roster_metadata_and_normalizes_caption():
@@ -105,6 +108,14 @@ def test_legacy_review_values_do_not_infer_basis_labels():
     assert standards == []
 
 
+def test_explicit_clear_error_and_unconstitutional_language_maps_to_astra_taxonomy():
+    body = "It was a clear error of judgment to do so, and unconstitutional to do so per BCO 34-10."
+    assert MODULE._detected_review_standards(body) == [
+        "discretion_and_judgment",
+        "constitutional_interpretation",
+    ]
+
+
 def test_bco_40_5_is_one_review_standard():
     standard, detail = MODULE.contextual_review_standard("BCO 40-5 Matter re NW Georgia")
     assert standard == "important_delinquency_or_grossly_unconstitutional_proceeding"
@@ -141,14 +152,17 @@ def test_generated_catalog_carries_stable_evans_identity_and_all_roster_rows():
         for line in (ROOT / "index" / "judicial_cases.jsonl").read_text(encoding="utf-8").splitlines()
         if line.strip()
     ]
-    assert len(rows) == 474
+    assert len(rows) == 476
     evans = next(row for row in rows if row["case_id"] == "2023-07")
     assert evans["title"] == "Evans v. Arizona Presbytery"
     assert evans["legacy_case_id"] == "2023-7"
     assert evans["proceeding_type"] == "appeal"
     assert evans["outcome"] == "sustained"
     assert isinstance(evans["review_standards"], list)
-    assert len({row["case_id"] for row in rows if row["case_id"]}) == 473
+    assert len({row["case_id"] for row in rows if row["case_id"]}) == 475
+    assert {"2023-06", "2023-08", "2023-15", "2023-17", "2025-12", "2025-13"}.issubset(
+        {row["case_id"] for row in rows}
+    )
     assert all(row["outcome"] in MODULE.OUTCOMES for row in rows)
     assert all(row["proceeding_type"] in MODULE.PROCEEDING_TYPES for row in rows)
     assert all(row["standard_of_review"] in MODULE.STANDARD_OF_REVIEW_CODES for row in rows)

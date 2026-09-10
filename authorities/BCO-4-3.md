@@ -6,8 +6,9 @@
 
 | Year | Type | Title | Disposition |
 |------|------|-------|-------------|
+| 1989 | Judicial case | [Debardeleben v. Philadelphia Presbytery](../cases/ga17_1989__case3.md) | sustained |
 | 1991 | Judicial case | [Charles E. Chappell v. Eastern Carolina Presbytery](../cases/ga19_1991__1990-04.md) | sustained |
-| 2007 | Judicial case | [Kniseley v. Rocky Mountain](../cases/ga37_2009__2007-13.md) | denied |
+| 2009 | Judicial case | [David Kniseley et al. v. Rocky Mountain Presbytery](../cases/ga37_2009__2007-13.md) | denied |
 | 2025 | Judicial case | [Martinez v. Pacific Presbytery](../cases/ga52_2025__2023-20.md) | sustained |
 
 ## Medium authority

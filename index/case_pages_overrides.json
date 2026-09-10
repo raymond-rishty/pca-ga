@@ -28,5 +28,125 @@
     "file": "ga49_2022__2020-09",
     "numbers": ["2020-07", "2020-08", "2020-09"],
     "title": "RE SEAN OZBALT AND RE ERIN BARR V. PACIFIC PRESBYTERY"
+  },
+  "1985-04": {
+    "vol": "ga13_1985",
+    "file": "ga13_1985__1985-04",
+    "numbers": ["1985-04"],
+    "title": "Appeal of Jack Mayfield v. Siouxlands Presbytery"
+  },
+  "1989-04": {
+    "vol": "ga17_1989",
+    "file": "ga17_1989__case2",
+    "numbers": ["1989-04"],
+    "title": "Morrison v. Philadelphia Presbytery"
+  },
+  "1989-06": {
+    "vol": "ga17_1989",
+    "file": "ga17_1989__case3",
+    "numbers": ["1989-06"],
+    "title": "DeBardeleben v. Philadelphia Presbytery"
+  },
+  "1989-09": {
+    "vol": "ga17_1989",
+    "file": "ga17_1989__case4",
+    "numbers": ["1989-09"],
+    "title": "Morrison v. Philadelphia Presbytery"
+  },
+  "1991-01": {
+    "vol": "ga20_1992",
+    "file": "ga20_1992__1991-01",
+    "numbers": ["1991-01"],
+    "title": "Sandra Lovelace v. Northeast Presbytery"
+  },
+  "2002-06": {
+    "vol": "ga31_2003",
+    "file": "ga31_2003__2002-06",
+    "numbers": ["2002-06"],
+    "title": "Appeal of Randall Wright v. Northern California Presbytery"
+  },
+  "2002-07": {
+    "vol": "ga31_2003",
+    "file": "ga31_2003__2002-07",
+    "numbers": ["2002-07"],
+    "title": "Leland Nichols and Sam Couch v. James River Presbytery"
+  },
+  "2004-01": {
+    "vol": "ga33_2005",
+    "file": "ga33_2005__2004-01_2004-10",
+    "numbers": ["2004-01", "2004-10"],
+    "title": "Westminster Presbyterian Church v. Westminster Presbytery / Stuart Merriam v. Tennessee Valley Presbytery"
+  },
+  "2004-10": {
+    "vol": "ga33_2005",
+    "file": "ga33_2005__2004-01_2004-10",
+    "numbers": ["2004-01", "2004-10"],
+    "title": "Westminster Presbyterian Church v. Westminster Presbytery / Stuart Merriam v. Tennessee Valley Presbytery"
+  },
+  "2007-13": {
+    "vol": "ga37_2009",
+    "file": "ga37_2009__2007-13",
+    "numbers": ["2007-13"],
+    "title": "David Kniseley et al. v. Rocky Mountain Presbytery"
+  },
+  "2008-01": {
+    "vol": "ga37_2009",
+    "file": "ga37_2009__2008-01_2008-10",
+    "numbers": ["2008-01", "2008-10"],
+    "title": "Crossroads Community Church Session and Mark Grasso et al. v. Philadelphia Presbytery"
+  },
+  "2008-10": {
+    "vol": "ga37_2009",
+    "file": "ga37_2009__2008-01_2008-10",
+    "numbers": ["2008-01", "2008-10"],
+    "title": "Crossroads Community Church Session and Mark Grasso et al. v. Philadelphia Presbytery"
+  },
+  "2013-05": {
+    "vol": "ga42_2014",
+    "file": "ga42_2014__2013-05",
+    "numbers": ["2013-05"],
+    "title": "Stephen Hahn request concerning Philadelphia Metro West Presbytery"
+  },
+  "2022-17": {
+    "vol": "ga50_2023",
+    "file": "ga50_2023__2022-17",
+    "numbers": ["2022-17"],
+    "title": "Peter Benyola v. Central Florida Presbytery"
+  },
+  "2023-06": {
+    "vol": "ga51_2024",
+    "file": "ga51_2024__2023-06_2023-08",
+    "numbers": ["2023-06", "2023-08"],
+    "title": "Knox Baird et al. v. Grace Presbytery"
+  },
+  "2023-08": {
+    "vol": "ga51_2024",
+    "file": "ga51_2024__2023-06_2023-08",
+    "numbers": ["2023-06", "2023-08"],
+    "title": "Knox Baird et al. v. Grace Presbytery"
+  },
+  "2023-15": {
+    "vol": "ga51_2024",
+    "file": "ga51_2024__2023-15_2023-17",
+    "numbers": ["2023-15", "2023-17"],
+    "title": "Tom Turner v. South Florida Presbytery"
+  },
+  "2023-17": {
+    "vol": "ga51_2024",
+    "file": "ga51_2024__2023-15_2023-17",
+    "numbers": ["2023-15", "2023-17"],
+    "title": "Tom Turner v. South Florida Presbytery"
+  },
+  "2025-12": {
+    "vol": "ga52_2025",
+    "file": "ga52_2025__2025-12_2025-13",
+    "numbers": ["2025-12", "2025-13"],
+    "title": "Felipe Assis and Carter Brown v. South Florida Presbytery"
+  },
+  "2025-13": {
+    "vol": "ga52_2025",
+    "file": "ga52_2025__2025-12_2025-13",
+    "numbers": ["2025-12", "2025-13"],
+    "title": "Felipe Assis and Carter Brown v. South Florida Presbytery"
   }
 }

@@ -8,6 +8,7 @@
 |------|------|-------|-------------|
 | 2021 | Judicial case | [Gendy v. Central Florida Presbytery](../cases/ga48_2021__2019-13.md) | sustained |
 | 2024 | Judicial case | [Evans v. Arizona Presbytery](../cases/ga51_2024__2023-07.md) | sustained |
+| 2025 | Judicial case | [Felipe Assis and Carter Brown v. South Florida Presbytery](../cases/ga52_2025__2025-12_2025-13.md) | sustained |
 
 ## Medium authority
 

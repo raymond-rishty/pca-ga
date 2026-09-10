@@ -6,8 +6,9 @@
 
 | Year | Type | Title | Disposition |
 |------|------|-------|-------------|
-| 2014 | Judicial case | [Charles Tarter v. Evangel Presbytery](../cases/ga42_2014__2012-03.md) | referred |
+| 2014 | Judicial case | [Charles Tarter v. Evangel Presbytery](../cases/ga42_2014__2012-03.md) | sustained |
 | 2025 | Judicial case | [Gleason v. Houston Metro Presbytery](../cases/ga52_2025__2024-02.md) | dismissed |
+| 2025 | Judicial case | [Felipe Assis and Carter Brown v. South Florida Presbytery](../cases/ga52_2025__2025-12_2025-13.md) | sustained |
 
 ## Medium authority
 

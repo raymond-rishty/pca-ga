@@ -62,11 +62,40 @@ NON_MERITS_OUTCOMES = {
 
 BCO_40_5_REVIEW_DETAIL = "BCO 40-5: important delinquency or grossly unconstitutional proceedings."
 
+# The Historical Center roster contains a handful of transcription/catalog
+# identifiers that do not match the docket number printed in the decision.
+# Preserve ``case_number_raw`` for provenance, but join these rows to the
+# canonical identifier used by the minutes and later citations.
+ROSTER_CANONICAL_ALIASES = {
+    "1991-08": "1990-10",  # decision heading: Judicial Case No. 90-10
+    "2002-26": "2002-06",  # GA31 docket and disposition list
+    "2002-27": "2002-07",  # GA31 docket and disposition list
+    "2012-13": "2012-03",  # GA42 decision heading and index
+}
+
+# The roster presents these consolidated decisions as one line headed by the
+# first docket.  Expand the expressly named companion dockets so the canonical
+# taxonomy remains one row per case while both rows point to the shared opinion.
+ROSTER_COMPANION_IDS = {
+    "2023-06": ("2023-08",),
+    "2023-15": ("2023-17",),
+    "2025-12": ("2025-13",),
+}
+
 
 def canonical_id(raw):
     """Return a zero-padded canonical docket id, or None for a non-docket label."""
     m = re.fullmatch(r"\s*(\d{4})-(\d{1,3})([a-z]?)\s*", str(raw or ""), re.I)
     return f"{m.group(1)}-{int(m.group(2)):02d}{m.group(3).lower()}" if m else None
+
+
+def roster_canonical_id(official):
+    explicit = canonical_id(official.get("_canonical_case_id"))
+    if explicit:
+        return explicit
+    raw = official.get("case_number_raw") or official.get("case_number")
+    alias = ROSTER_CANONICAL_ALIASES.get(str(raw or "").strip())
+    return canonical_id(alias or official.get("case_number") or raw)
 
 
 def legacy_id(raw):
@@ -537,7 +566,8 @@ def _detected_review_standards(body, contextual_standard=None):
         r"\b(?:great\s+deference|clear\s+error)\b[^.!?]{0,180}\b(?:discretion\s+and\s+judgment|discretionary\s+judgment)\b|"
         r"\b(?:great\s+deference|clear\s+error|review)\b[^.!?]{0,220}\b39\s*[-.]\s*3\s*[.(]?\s*3\b|"
         r"\bdefer(?:ence)?\b[^.!?]{0,220}\b(?:judgments?|discretion)\b[^.!?]{0,220}\b(?:clear\s+error|39\s*[-.]\s*3)\b|"
-        r"\b(?:great\s+deference|clear\s+error)\b[\s\S]{0,500}\b39\s*[-.]\s*3\s*[.(]?\s*3\b",
+        r"\b(?:great\s+deference|clear\s+error)\b[\s\S]{0,500}\b39\s*[-.]\s*3\s*[.(]?\s*3\b|"
+        r"\bclear\s+error\s+of\s+judgment\b",
         body,
         re.I,
     ):
@@ -546,7 +576,8 @@ def _detected_review_standards(body, contextual_standard=None):
         r"\b39\s*[-.]\s*3\s*[.(]?\s*4\b[^.!?]{0,220}\b(?:constitutional|interpret|deference|review)\b|"
         r"\bconstitutional\s+interpretation\s+(?:standard|review)\b|"
         r"\bwithout\s+(?:the\s+same\s+|great\s+)?deference\b[^.!?]{0,180}\b(?:constitutional|interpretation)\b|"
-        r"\b(?:constitutional|interpretation)\b[^.!?]{0,180}\bwithout\s+(?:the\s+same\s+|great\s+)?deference\b",
+        r"\b(?:constitutional|interpretation)\b[^.!?]{0,180}\bwithout\s+(?:the\s+same\s+|great\s+)?deference\b|"
+        r"\bunconstitutional\b[^.!?]{0,120}\b(?:per|under)\s+BCO\s+\d",
         body,
         re.I,
     ):
@@ -588,7 +619,7 @@ def main():
     unique_roster = {}
     unknown_roster = []
     for official in roster:
-        key = canonical_id(official.get("case_number") or official.get("case_number_raw"))
+        key = roster_canonical_id(official)
         if not key:
             unknown_roster.append(official)
             continue
@@ -596,6 +627,17 @@ def main():
         if previous is None or len(str(official.get("title") or "")) > len(str(previous.get("title") or "")):
             unique_roster[key] = official
     roster = list(unique_roster.values()) + unknown_roster
+    expanded_roster = []
+    for official in roster:
+        expanded_roster.append(official)
+        primary_id = roster_canonical_id(official)
+        for companion_id in ROSTER_COMPANION_IDS.get(primary_id, ()):
+            expanded_roster.append({
+                **official,
+                "_canonical_case_id": companion_id,
+                "_roster_id": companion_id,
+            })
+    roster = expanded_roster
     extracted = load_jsonl(CASES)
     cjb_pages = json.load(open(CJB_PAGES, encoding="utf-8")) if os.path.exists(CJB_PAGES) else []
     cjb_cases = []
@@ -625,7 +667,7 @@ def main():
 
     rows = []
     for official in roster:
-        cid = canonical_id(official.get("case_number") or official.get("case_number_raw"))
+        cid = roster_canonical_id(official)
         matches = sorted(by_key.get(cid, []), key=record_score, reverse=True) if cid else []
         record = matches[0] if matches else {}
         raw_title = official.get("title") or record.get("title") or ""
@@ -670,14 +712,14 @@ def main():
         topics = list(override.get("topic_tags") or record.get("topics") or [])
         bco = list(override.get("bco_provisions") or bco)
         classification_status = "classified"
-        if not cid:
+        if not cid and not (cjb or era_file):
             classification_status = "roster_only"
-        elif not matches and not cjb:
+        elif cid and not matches and not cjb:
             classification_status = "roster_only"
         elif outcome == "other" or posture == "other":
             classification_status = "needs_review"
         rows.append({
-            "roster_id": official.get("case_number_raw") or official.get("case_number"),
+            "roster_id": official.get("_roster_id") or official.get("case_number_raw") or official.get("case_number"),
             "case_id": cid,
             "legacy_case_id": legacy_id(cid),
             "era_id": era,

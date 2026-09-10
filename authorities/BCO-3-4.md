@@ -13,6 +13,7 @@
 | 2009 | Judicial case | [Lee v. Korean Eastern Presbytery (2007-09 & 2007-10)](../cases/ga37_2009__2007-09_2007-10.md) | sustained |
 | 2009 | Judicial case | [Eliot Lee v. Korean Eastern](../cases/ga38_2010__stub_2009-16.md) | out_of_order |
 | 2024 | Judicial case | [Biese et al. v. Tennessee Valley Presbytery](../cases/ga51_2024__2023-04.md) | denied |
+| 2024 | Judicial case | [Knox Baird et al. v. Grace Presbytery](../cases/ga51_2024__2023-06_2023-08.md) | partially_sustained |
 
 ---
 *[← Authority Index](../index/AUTHORITY-BY-PROVISION.md)*
