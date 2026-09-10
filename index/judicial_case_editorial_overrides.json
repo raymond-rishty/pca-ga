@@ -1,4 +1,60 @@
 {
+  "1976-01": {
+    "final_dispositions": ["not_sustained"],
+    "disposition_detail": "Complaint found invalid because McKeown was not employed in a ministerial capacity",
+    "summary_review_status": "audited",
+    "summary_source": "case_page"
+  },
+  "1984-04": {
+    "final_dispositions": ["partially_sustained"],
+    "disposition_detail": "Continued non-compliance and constitutional violation sustained 12-3; contumacy not sustained 1-14; remedial recommendations adopted",
+    "summary": "TE Carl Bogue and others complained against Ascension Presbytery's March 10, 1984 resolution refusing to comply with directives in the prior Lutjens ordination case and seeking to retry that case by reference. The judicial commission sustained the specifications of continued non-compliance and constitutional violation, did not sustain contumacy, directed that the March resolution be expunged, and applied the remedial directions adopted in Case 7.",
+    "summary_review_status": "audited",
+    "summary_source": "minutes_decision"
+  },
+  "1984-07": {
+    "final_dispositions": ["partially_sustained"],
+    "disposition_detail": "Continued non-compliance sustained 15-0; constitutional violation not sustained 5-8-2; contumacy not sustained 0-13-2; remedial recommendations adopted",
+    "summary": "The Session of Faith Presbyterian Church and others complained against Ascension Presbytery's May 5, 1984 reference and its failure to carry out the prior Assembly's directives in the Lutjens ordination case. The judicial commission sustained continued non-compliance, did not sustain the constitutional-violation or contumacy specifications, and directed reexamination, pastoral counsel, and orderly discipline if Lutjens's views remained out of accord.",
+    "summary_review_status": "audited",
+    "summary_source": "minutes_decision"
+  },
+  "1997-07": {
+    "title": "Steve Farris v. Central Florida Presbytery",
+    "final_dispositions": ["judicially_out_of_order"],
+    "disposition_detail": "Complaint judicially out of order because the complainant was not a member of a PCA church and lacked standing",
+    "summary": "The full Standing Judicial Commission found Steve Farris's complaint against Central Florida Presbytery judicially out of order because he was not a member of a PCA church and therefore lacked standing before the Commission.",
+    "bco_provisions": [],
+    "topic_tags": ["standing", "church membership", "judicial order"],
+    "dissent": false,
+    "summary_review_status": "audited",
+    "summary_source": "case_page"
+  },
+  "1999-04": {
+    "title": "Ed Fitzsimmons v. Evangel Presbytery",
+    "final_dispositions": ["administratively_out_of_order"],
+    "disposition_detail": "Appeal administratively out of order because it was not filed with the Stated Clerk within thirty days as required by BCO 42-2",
+    "summary": "The SJC found Ed Fitzsimmons's appeal against Evangel Presbytery administratively out of order because it was not filed with the Stated Clerk of the General Assembly within the thirty-day period required by BCO 42-2. The merits were not reached.",
+    "bco_provisions": ["42-2"],
+    "topic_tags": ["timeliness", "appeal procedure", "administrative order"],
+    "dissent": false,
+    "summary_review_status": "audited",
+    "summary_source": "case_page"
+  },
+  "1999-07": {
+    "title": "Jeffrey M. Black v. Eastern Carolina Presbytery",
+    "final_dispositions": ["not_sustained"],
+    "disposition_detail": "Complaint not sustained; Eastern Carolina Presbytery did not err on either issue",
+    "summary": "TE Jeffrey Black complained that Eastern Carolina Presbytery failed to decide his complaint expressly and erred in ruling that a licentiate's view on the length of the creation days was not an exception to the Westminster Standards. The SJC held that the presbytery had effectively denied the complaint and did not err on the confessional question; a dissent was recorded.",
+    "summary_review_status": "audited",
+    "summary_source": "case_page"
+  },
+  "2006-06": {
+    "final_dispositions": ["denied"],
+    "disposition_detail": "Complaint denied; North Georgia Presbytery did not err in sustaining the Session's instruction against distributing the open letter",
+    "summary_review_status": "audited",
+    "summary_source": "case_page"
+  },
   "2006-02": {
     "matter_type": "bco_40_5_matter",
     "standard_of_review_detail": "BCO 40-5: important delinquency or grossly unconstitutional proceedings.",
@@ -6,9 +62,30 @@
   },
   "2007-14": {
     "matter_type": "bco_40_5_matter",
+    "final_dispositions": ["guilty", "dismissed"],
+    "disposition_detail": "Specification 1 dismissed after trial; Louisiana Presbytery's guilty plea to Specification 2 accepted and censure of admonition imposed",
+    "summary": "In the BCO 40-5 and 40-6 proceeding against Louisiana Presbytery, the SJC dismissed Specification 1 after trial because the prosecution had not established a constitutional requirement for the investigative steps alleged. Louisiana Presbytery had pleaded guilty to Specification 2—failing to find a strong presumption that some of TE Steve Wilkins's views were out of accord and failing to proceed to trial—and the SJC imposed the censure of admonition.",
     "standard_of_review_detail": "BCO 40-5: important delinquency or grossly unconstitutional proceedings; this was a 40-5/40-6 trial rather than an ordinary appeal.",
     "review_standards": ["important_delinquency_or_grossly_unconstitutional_proceeding"],
     "summary_review_status": "audited"
+  },
+  "2010-08": {
+    "final_dispositions": ["judicially_out_of_order"],
+    "disposition_detail": "Judicially out of order",
+    "summary_review_status": "audited",
+    "summary_source": "official_minutes"
+  },
+  "2022-22": {
+    "final_dispositions": ["partially_sustained", "annulled", "remanded"],
+    "disposition_detail": "Issue 1 denied; Issue 2 sustained; findings of guilt and censures annulled; matter returned to South Florida Presbytery for constitutionally appropriate proceedings",
+    "summary_review_status": "audited",
+    "summary_source": "case_page"
+  },
+  "2023-09": {
+    "final_dispositions": ["sustained", "reversed"],
+    "disposition_detail": "Appeal sustained 21-1; Presbytery's action reversed in whole and prior suspensions restored pending constitutionally adequate process",
+    "summary_review_status": "audited",
+    "summary_source": "case_page"
   },
   "2016-14": {
     "proceeding_type": "complaint",
@@ -70,6 +147,24 @@
     "outcome": "not_sustained",
     "disposition_detail": "Timely complaint not sustained; two related complaints dismissed as untimely",
     "standard_of_review_detail": "The SJC would not overturn a competent lower court absent a clear constitutional violation or other demonstrated error."
+  },
+  "1992-03": {
+    "title": "Richard E. Olson, et al. v. Heritage Presbytery",
+    "summary": "Richard E. Olson and others complained against Heritage Presbytery's response to a request for advice concerning officer abstinence from beverage alcohol. The SJC found the complaint administratively out of order because it was untimely and held that a court's response to a non-judicial reference seeking advice is not a complainable action.",
+    "matter_type": "complaint",
+    "final_dispositions": ["administratively_out_of_order"],
+    "disposition_detail": "Administratively out of order as untimely; response to a non-judicial reference held not complainable",
+    "bco_provisions": ["41-3"],
+    "topic_tags": ["timeliness", "non-judicial reference", "complaint procedure", "jurisdiction"]
+  },
+  "1992-04": {
+    "title": "William A. Conrad, et al. v. Central Carolina Presbytery",
+    "summary": "William A. Conrad and others complained that Central Carolina Presbytery failed to act when it sent their complaints to its commission serving as Prosperity Presbyterian Church's Interim Session. The SJC held that Presbytery had acted, found the complaint administratively out of order, and remanded the underlying complaints to the Interim Session as the court of original jurisdiction for timely adjudication.",
+    "matter_type": "complaint",
+    "final_dispositions": ["administratively_out_of_order", "remanded"],
+    "disposition_detail": "Complaint administratively out of order; underlying complaints remanded to the Interim Session for adjudication",
+    "bco_provisions": [],
+    "topic_tags": ["court of original jurisdiction", "interim session", "complaint procedure", "remand"]
   },
   "1992-05": {
     "title": "Parks et al. v. Central Carolina Presbytery",
@@ -514,7 +609,7 @@
   },
   "1980-03": {
     "summary": "TEs Byron Snapp and James Hope challenged Calvary Presbytery's use of the extraordinary clause to examine a candidate for ordination who had taken only one quarter of Hebrew and had no demonstrated extraordinary circumstance or gift. The Assembly sustained the error, held that the presbytery had not justified the exception, and remanded the matter for correction while directing preparation of guidance on the proper use of the extraordinary clause.",
-    "outcome": "partially_sustained",
+    "final_dispositions": ["sustained", "remanded"],
     "disposition_detail": "Error sustained; ordination matter remanded to Calvary Presbytery for correction",
     "bco_provisions": ["22-4"],
     "topic_tags": ["ordination", "extraordinary clause", "ministerial examination", "Hebrew requirement"],

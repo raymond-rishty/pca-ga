@@ -99,6 +99,12 @@ ROSTER_CANONICAL_ALIASES = {
     "2012-13": "2012-03",  # GA42 decision heading and index
 }
 
+# A few roster rows carry a docket number that belongs to a different case.
+# Use the caption as the disambiguator so both cases survive de-duplication.
+ROSTER_CAPTION_ALIASES = {
+    ("1997-07", "black v. eastern carolina"): "1999-07",
+}
+
 # The roster presents these consolidated decisions as one line headed by the
 # first docket.  Expand the expressly named companion dockets so the canonical
 # taxonomy remains one row per case while both rows point to the shared opinion.
@@ -120,6 +126,11 @@ def roster_canonical_id(official):
     if explicit:
         return explicit
     raw = official.get("case_number_raw") or official.get("case_number")
+    normalized_raw = canonical_id(raw)
+    title = str(official.get("title") or "").lower()
+    for (source_id, caption), corrected_id in ROSTER_CAPTION_ALIASES.items():
+        if normalized_raw == source_id and caption in title:
+            return corrected_id
     alias = ROSTER_CANONICAL_ALIASES.get(str(raw or "").strip())
     return canonical_id(alias or official.get("case_number") or raw)
 
@@ -191,9 +202,16 @@ def normalize_disposition(raw):
         return "abandoned"
     if "not guilty" in text or "acquitted" in text:
         return "not_guilty"
+    if re.search(r"\b(?:complaint|appeal|petition)\b[^.;]{0,80}\b(?:found|declared|held)\s+invalid\b", text):
+        return "not_sustained"
+    if (
+        re.search(r"(?<!not )\bsustained\b", text)
+        and re.search(r"\b(?:not sustained|denied)\b", text)
+    ):
+        return "partially_sustained"
     if "not sustained" in text:
         return "not_sustained"
-    if "declared invalid" in text or "invalid" in text:
+    if re.search(r"\b(?:action|judgment|censure|decision|resolution)\b[^.;]{0,80}\b(?:declared|held)\s+invalid\b", text):
         return "sustained"
     if "sustained" in text:
         return "sustained"
@@ -386,7 +404,9 @@ def classify_final_dispositions(raw_disposition, summary="", roster_title="", pr
         add("dismissed")
     if primary != "denied" and _unnegated_action(detail, r"denied"):
         add("denied")
-    if primary != "not_sustained" and _unnegated_action(detail, r"not[ _-]+sustained"):
+    if primary not in {"not_sustained", "partially_sustained"} and _unnegated_action(
+        detail, r"not[ _-]+sustained"
+    ):
         add("not_sustained")
     if _unnegated_action(detail, r"(?:remand(?:ed)?|remitt(?:ed|al)|referred\s+back)") or _action_stated(
         editorial, r"(?:remand(?:ed)?|remitt(?:ed|al)|referred\s+back)"
@@ -910,8 +930,16 @@ def main():
         for code in bco_codes(raw_title, summary, record.get("topics")):
             if code not in bco:
                 bco.append(code)
-        topics = list(override.get("topic_tags") or record.get("topics") or [])
-        bco = list(override.get("bco_provisions") or bco)
+        topics = list(
+            (override.get("topic_tags") or [])
+            if "topic_tags" in override
+            else (record.get("topics") or [])
+        )
+        bco = list(
+            (override.get("bco_provisions") or [])
+            if "bco_provisions" in override
+            else bco
+        )
         classification_status = "classified"
         if not cid and not (cjb or era_file):
             classification_status = "roster_only"
@@ -940,7 +968,7 @@ def main():
             "body": record.get("body") or ("CJB" if int(official.get("year") or 9999) <= 1987 else "SJC"),
             "decision_year": record.get("year") or official.get("year"),
             "assembly": record.get("ga_ordinal"),
-            "dissent": bool(record.get("has_dissent")),
+            "dissent": override.get("dissent") if "dissent" in override else bool(record.get("has_dissent")),
             "case_page": page_file,
             "official_pdf_url": official.get("pdf_url"),
             "classification_status": classification_status,

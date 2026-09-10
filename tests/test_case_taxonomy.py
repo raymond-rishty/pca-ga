@@ -16,6 +16,10 @@ def test_canonical_and_legacy_ids_preserve_aliases():
     assert MODULE.roster_canonical_id({"case_number": "2002-26", "case_number_raw": "2002-26"}) == "2002-06"
     assert MODULE.roster_canonical_id({"case_number": "2012-13", "case_number_raw": "2012-13"}) == "2012-03"
     assert MODULE.ROSTER_COMPANION_IDS["2023-06"] == ("2023-08",)
+    assert MODULE.roster_canonical_id({
+        "case_number_raw": "1997-07",
+        "title": "Black v. Eastern Carolina",
+    }) == "1999-07"
 
 
 def test_clean_title_removes_roster_metadata_and_normalizes_caption():
@@ -32,6 +36,10 @@ def test_matter_type_and_final_disposition_are_controlled_codes():
     assert MODULE.normalize_disposition("administratively out of order") == "administratively_out_of_order"
     assert MODULE.normalize_disposition("judicially out of order") == "judicially_out_of_order"
     assert MODULE.normalize_disposition("mixed: specs 1 and 3 sustained") == "partially_sustained"
+    assert MODULE.normalize_disposition("Complaint found invalid") == "not_sustained"
+    assert MODULE.normalize_disposition(
+        "specifications 1 and 2 sustained; specification 3 not sustained"
+    ) == "partially_sustained"
     assert MODULE.classify_final_dispositions(
         "Appeal sustained; remanded for a new trial"
     ) == ["sustained", "remanded"]
@@ -159,14 +167,14 @@ def test_generated_catalog_carries_stable_evans_identity_and_all_roster_rows():
         for line in (ROOT / "index" / "judicial_cases.jsonl").read_text(encoding="utf-8").splitlines()
         if line.strip()
     ]
-    assert len(rows) == 476
+    assert len(rows) == 477
     evans = next(row for row in rows if row["case_id"] == "2023-07")
     assert evans["title"] == "Evans v. Arizona Presbytery"
     assert evans["legacy_case_id"] == "2023-7"
     assert evans["matter_type"] == "appeal"
     assert "sustained" in evans["final_dispositions"]
     assert isinstance(evans["review_standards"], list)
-    assert len({row["case_id"] for row in rows if row["case_id"]}) == 475
+    assert len({row["case_id"] for row in rows if row["case_id"]}) == 476
     assert {"2023-06", "2023-08", "2023-15", "2023-17", "2025-12", "2025-13"}.issubset(
         {row["case_id"] for row in rows}
     )
@@ -238,6 +246,54 @@ def test_editorial_overrides_fill_source_grounded_summaries():
     assert next(row for row in rows if row["case_id"] == "2023-06")["summary_review_status"] == "audited"
 
 
+def test_source_checked_disagreements_use_the_decisions_dispositions():
+    json = __import__("json")
+    rows = {
+        row["case_id"]: row
+        for line in (ROOT / "index" / "judicial_cases.jsonl").read_text(encoding="utf-8").splitlines()
+        if line.strip()
+        for row in [json.loads(line)]
+    }
+    expected = {
+        "1976-01": ["not_sustained"],
+        "1980-03": ["sustained", "remanded"],
+        "1984-04": ["partially_sustained"],
+        "1984-07": ["partially_sustained"],
+        "1992-03": ["administratively_out_of_order"],
+        "1992-04": ["administratively_out_of_order", "remanded"],
+        "1997-07": ["judicially_out_of_order"],
+        "1999-04": ["administratively_out_of_order"],
+        "1999-07": ["not_sustained"],
+        "2006-06": ["denied"],
+        "2007-14": ["guilty", "dismissed"],
+        "2010-08": ["judicially_out_of_order"],
+        "2022-22": ["partially_sustained", "annulled", "remanded"],
+        "2023-09": ["sustained", "reversed"],
+    }
+    assert {case_id: rows[case_id]["final_dispositions"] for case_id in expected} == expected
+    assert rows["1997-07"]["title"] == "Steve Farris v. Central Florida Presbytery"
+    assert rows["1997-07"]["bco_provisions"] == []
+    assert rows["1997-07"]["dissent"] is False
+    assert rows["1999-04"]["bco_provisions"] == ["42-2"]
+    assert rows["1999-07"]["title"] == "Jeffrey M. Black v. Eastern Carolina Presbytery"
+
+
+def test_audited_identity_corrections_survive_auxiliary_case_merge():
+    json = __import__("json")
+    rows = {
+        row["case_number"]: row
+        for line in (ROOT / "index" / "cases.jsonl").read_text(encoding="utf-8").splitlines()
+        if line.strip()
+        for row in [json.loads(line)]
+        if row.get("case_number")
+    }
+    assert rows["1992-3"]["title"] == "Richard E. Olson, et al. v. Heritage Presbytery"
+    assert rows["1992-4"]["title"] == "William A. Conrad, et al. v. Central Carolina Presbytery"
+    assert rows["1997-7"]["title"] == "Steve Farris v. Central Florida Presbytery"
+    assert rows["1999-4"]["disposition"] == "administratively_out_of_order"
+    assert rows["1999-7"]["title"] == "Jeffrey M. Black v. Eastern Carolina Presbytery"
+
+
 def test_human_index_is_generated_from_the_canonical_layer():
     index = (ROOT / "index" / "JUDICIAL-CASES.md").read_text(encoding="utf-8")
     assert "# Canonical judicial cases" in index
@@ -249,4 +305,14 @@ def test_human_index_is_generated_from_the_canonical_layer():
     assert "Factual findings — great deference; clear error" in index
     assert "factual_findings" not in index
     assert "partially_sustained" not in index
+    assert "administratively_out_of_order" not in index
+
+
+def test_assembly_index_uses_canonical_answers_with_friendly_labels():
+    index = (ROOT / "index" / "CASES.md").read_text(encoding="utf-8")
+    assert "| [1992-03](../cases/ga20_1992__1992-03.md) | Richard E. Olson, et al. v. Heritage Presbytery | Administratively out of order |" in index
+    assert "| [1992-04](../cases/ga20_1992__1992-04.md) | William A. Conrad, et al. v. Central Carolina Presbytery  ·  *dissent* | Administratively out of order; Remanded |" in index
+    assert "| [1997-07](../cases/ga26_1998__1997-07.md) | Steve Farris v. Central Florida Presbytery | Judicially out of order |" in index
+    assert "| [1999-07](../cases/ga29_2001__1999-07.md) | Jeffrey M. Black v. Eastern Carolina Presbytery  ·  *dissent* | Not sustained |" in index
+    assert "factual_findings" not in index
     assert "administratively_out_of_order" not in index

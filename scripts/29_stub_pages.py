@@ -24,7 +24,7 @@ ROOT = "/workspace"
 OUT = f"{ROOT}/cases"
 DB = f"{ROOT}/index/pca_minutes.db"
 # the disposing phrase (also becomes the corrected disposition label)
-_CUE = re.compile(r"(administratively\s+out\s+of\s+order|out\s+of\s+order|withdraw\w*|withdrew|"
+_CUE = re.compile(r"(administratively\s+out\s+of\s+order|judicially\s+out\s+of\s+order|out\s+of\s+order|withdraw\w*|withdrew|"
                   r"abandoned|dismiss\w*|rendered?\s+moot|made\s+moot|moot|not\s+acceded\w*|"
                   r"not\s+(?:administratively\s+)?in\s+order|prematurely\s+filed|premature|"
                   r"\bOO\b|\bWD\b)", re.I)             # OO/WD = docket-table abbrevs for out-of-order/withdrawn
@@ -62,7 +62,11 @@ def _disp_label(phrase):
     if "acceded" in p:
         return "Not Acceded to by the SJC"
     if "out of order" in p or "not" in p and "in order" in p:
-        return "Administratively Out of Order" if "administ" in p else "Out of Order"
+        if "administ" in p:
+            return "Administratively Out of Order"
+        if "judicial" in p:
+            return "Judicially Out of Order"
+        return "Out of Order"
     if "withdraw" in p or "withdrew" in p or "premature" in p:
         return "Withdrawn"
     if "abandon" in p:
@@ -85,9 +89,25 @@ def find_disposition(lines, vset, region_lo):
             continue
         nxt = lines[i + 1] if i + 1 < len(lines) else ""
         combined = re.sub(r"\s+", " ", _ANCHOR.sub("", ln + " " + nxt)).strip()
-        cue = _CUE.search(combined)                       # leftmost cue across the wrap
-        if not cue:
+        target_matches = list(pat.finditer(combined))
+        cue_matches = list(_CUE.finditer(combined))
+        if not target_matches or not cue_matches:
             continue
+        # Roll-up sentences often list one group of dockets as administratively
+        # out of order and a later group as judicially out of order. Associate
+        # the docket with the first disposition cue following its occurrence,
+        # rather than the sentence's leftmost cue.
+        pairs = [
+            (cue.start() - target.end(), target, cue)
+            for target in target_matches
+            for cue in cue_matches
+            if cue.start() >= target.end()
+        ]
+        if pairs:
+            _, _, cue = min(pairs, key=lambda item: item[0])
+        else:
+            target = target_matches[-1]
+            cue = min(cue_matches, key=lambda item: abs(item.start() - target.start()))
         score = (1 if i >= region_lo else 0, len(ln))
         if best is None or score > best[0]:
             best = (score, i, combined, _disp_label(cue.group(0)))
