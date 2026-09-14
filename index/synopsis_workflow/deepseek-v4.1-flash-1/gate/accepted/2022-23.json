@@ -1,0 +1,50 @@
+{
+  "case_id": "2022-23",
+  "title": "Woodham v. South Florida Presbytery",
+  "matter_type": "complaint",
+  "final_dispositions": [
+    "denied"
+  ],
+  "disposition_detail": "Complaint denied. The SJC rejected the claim that South Florida Presbytery lacked jurisdiction to excommunicate a Teaching Elder it had deposed and suspended; it also found no clear error in Presbytery's BCO 46-8 assignment efforts under BCO 39-3 deference. The requested annulment of the excommunication and order to assign the minister to a particular church were refused.",
+  "first_summary": "The complainant challenged South Florida Presbytery's excommunication of a Teaching Elder after deposition but before assignment to a particular church under BCO 46-8. The SJC denied the complaint, holding Presbytery retained jurisdiction and did not clearly err in its BCO 46-8 efforts. Concurrences agreed in result but disputed the majority's reasoning.",
+  "summary": "South Florida Presbytery deposed a Teaching Elder, suspended him from the sacraments, and later excommunicated him without first assigning him to a particular church under BCO 46-8. The complainant argued that omission stripped Presbytery of jurisdiction. The SJC denied the complaint: BCO 46-8 requires assignment but fixes no timeframe or mechanism; a deposed minister remains under Presbytery's jurisdiction until transfer, and BCO 37-9(a) preserves censure authority. Deferring under BCO 39-3, the SJC found no clear error in Presbytery's efforts. Two concurrences agreed in result but disputed the majority's broad reasoning and deference.",
+  "sources": [
+    {
+      "path": "cases/ga51_2024__2022-23.md",
+      "sha256": "3a5c5a92c49df2a4a2c0053d36a269cbde97a7dc6d0da51e2de16a276825b4bc",
+      "locator": "lines 1-3, 57-63, 77-189, 191-194, 198-427",
+      "supports": "Case identity, issue, judgment, adopted reasoning, vote, and separate concurrences."
+    }
+  ],
+  "evidence_notes": {
+    "identity_and_adoption": "Title and disposition appear at lines 1-3; decision on complaint dated Oct. 20, 2023, lines 13-17. The Panel's proposed decision by TE Guy Prentiss Waters was amended and adopted 2-1 on 7/7/23; the SJC approved the amended decision 18-2 with four absent, lines 191-194.",
+    "dispute": "Complainant TE Michael Woodham challenged South Florida Presbytery's August 2022 excommunication of a previously deposed and sacramentally suspended Teaching Elder without first assigning him to membership in some particular church under BCO 46-8; see lines 43-45 and issue at lines 57-59.",
+    "outcomes_and_reasons": "Judgment answered 'No' at lines 61-63. The adopted reasoning held Presbytery retained jurisdiction over a deposed minister, lines 77-133, and found no clear error in Presbytery's BCO 46-8 efforts under BCO 39-3 deference, lines 137-174; complaint denied at lines 176-189.",
+    "qualifications": "The SJC discussed and set aside the Stringer precedent in light of the later adoption of BCO 37-9, lines 112-141, and expressly made no comment on the process for excommunication, lines 120-125. Concurring opinions by RE Howie Donahoe and RE Jim Eggert are separate and not the adopted reasoning, lines 198-427.",
+    "incorporated_decisions": "No decision is incorporated by reference. Randy C. Stringer v. Mississippi Valley Presbytery, Case No. 90-7, is cited and distinguished, lines 112-114."
+  },
+  "source_limits": "Synopsis is based solely on the supplied markdown opinion. It does not independently verify BCO texts, the cited 1990 Stringer decision, or omitted record materials. Separate concurrences are identified as separate and are not treated as adopted reasoning.",
+  "benchmark_examples": [
+    "C01: preserve mixed procedural merits, unsuccessful claims, and remand relief.",
+    "C20: separate opinions do not supply the adopted rationale and should not be used to explain an otherwise unexplained disposition."
+  ],
+  "scores": {
+    "concrete_dispute": 2,
+    "decision": 2,
+    "decisive_reason": 2,
+    "distinctive_value": 2,
+    "fidelity": 2,
+    "economy": 2
+  },
+  "score_reasons": {
+    "concrete_dispute": "Identifies the challenged action: excommunication after deposition without a BCO 46-8 assignment.",
+    "decision": "States the complaint was denied and that the requested annulment and assignment were refused.",
+    "decisive_reason": "Explains the adopted grounds: retained jurisdiction, BCO 37-9(a), no BCO 46-8 timeframe or mechanism, and BCO 39-3 deference.",
+    "distinctive_value": "Captures the jurisdictional rule and the separate concurrences disputing the majority's breadth and deference.",
+    "fidelity": "Keeps the adopted majority decision distinct from the two concurrences and does not treat Stringer as incorporated.",
+    "economy": "Uses only details needed to explain the dispute, holding, reasoning, and separate-opinion qualifications."
+  },
+  "verification_notes": "Corrected the first summary to state that BCO 46-8 fixes no timeframe or mechanism and that the SJC applied BCO 39-3 deference; rechecked that denial rested on both jurisdiction and no clear error in Presbytery's BCO 46-8 efforts. Rechecked identity/adoption and vote at lines 1-3 and 191-194, issue and judgment at lines 57-63, adopted reasoning at lines 77-189, and concurrences at lines 198-427.",
+  "repair_needed": false,
+  "repair_notes": "None."
+}

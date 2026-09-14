@@ -1,0 +1,50 @@
+{
+  "case_id": "2010-04",
+  "title": "Sartorious et al. v. Siouxlands Presbytery",
+  "matter_type": "complaint",
+  "final_dispositions": [
+    "denied"
+  ],
+  "disposition_detail": "Issue 1: Yes, Siouxlands Presbytery was sufficiently diligent and careful in complying with its BCO 31-2 responsibilities concerning reports about TE Joshua Moon. Issue 2: No, the presbytery did not err in finding TE Moon's testimony a satisfactory explanation and finding no strong presumption of guilt. The complaint was therefore denied. The SJC expressly declined to decide whether the Foothills Overture should have been treated as BCO 32-2 charges because complainants had not objected to the presbytery's method below or in the complaint. The concurrence recommended a future BCO 32-2 charge; the dissent would have found clear error and remanded for further proceedings.",
+  "first_summary": "The SJC denied a complaint alleging Siouxlands Presbytery failed to conduct a proper BCO 31-2 investigation into TE Joshua Moon and erred by finding no strong presumption of guilt. It held the presbytery was sufficiently diligent and that BCO 39-3 deference barred reversal absent clear error. The SJC also said any procedural error in treating the Overture as a report was not preserved. A concurrence urged BCO 32-2 charges; the dissent would have found clear error.",
+  "summary": "The SJC denied a complaint alleging Siouxlands Presbytery failed properly to conduct a BCO 31-2 investigation and wrongly found no strong presumption of guilt in TE Joshua Moon. Applying BCO 39-3 deference to the presbytery's credibility judgment, it found sufficient diligence and no clear error. It declined to decide whether the Foothills Overture should have been treated as BCO 32-2 charges, because that issue was not raised below, while noting future proper charges remained possible. A concurrence advised BCO 32-2 charges; the dissent would have found error and remanded.",
+  "sources": [
+    {
+      "path": "cases/ga39_2011__2010-04.md",
+      "sha256": "bd3c23b48206bcd449fc7e97e8689ec17eba7b135d8477bdddaf05f43f48ae6a",
+      "locator": "lines 1–127 (adopted case, judgment, reasoning, roll call); lines 129–238 (concurring opinion); lines 242–410 (dissenting opinion); printed pp. 578–594",
+      "supports": "Identity and disposition; majority judgment and adopted reasoning; roll call; separate concurring and dissenting opinions, which are not adopted."
+    }
+  ],
+  "evidence_notes": {
+    "identity_and_adoption": "Case 2010-04 is titled at lines 1 and 13; the SJC decision is reported at lines 59–127, with the adopted Reasoning and Opinion noted as written by David Coffin with amendments from the full SJC at line 115. The roll call and adoption tally appear at lines 117–127 (19 concurred, 1 dissent, 4 absent).",
+    "dispute": "The complaint challenged Siouxlands Presbytery's handling of an Overture concerning TE Joshua Moon, alleging failure to comply with BCO 31-2 and error in finding no strong presumption of guilt. The factual background and complaint filing appear at lines 17–51; the statement of issues is at lines 55–57; the quoted BCO 31-2 provision is at lines 66–74.",
+    "outcomes_and_reasons": "Judgment at lines 59–63 answers Issue 1 Yes and Issue 2 No. The majority reasoned that the presbytery was sufficiently diligent under BCO 31-2 (lines 84–85), that BCO 39-3 requires great deference absent clear error (lines 88–91, 104–113), and that the complainants' inferences from TE Moon's defense of another or from possible heterodox interpretations did not establish clear error (lines 95–103). The procedural question whether the Overture should have proceeded under BCO 32-2 was expressly not properly before the SJC (lines 76–80).",
+    "qualifications": "The concurring opinion (lines 129–238) concurred only in the narrow result, described the Record as limited, and recommended proceeding under BCO 32-2 rather than BCO 31-2. The dissenting opinion (lines 242–410) would have found clear error and remanded along the lines of prior Federal Vision cases, and disputed the majority's BCO 32-2 analysis. Neither separate opinion is the adopted judgment.",
+    "incorporated_decisions": "The source references prior SJC matters, including Wilkins (SJC 2007-14) and Bordwine/Leithart (SJC 2009-6), in the separate opinions at lines 277, 287–325, and 338. Their full texts are not supplied, and they are not incorporated into the adopted judgment in this case."
+  },
+  "source_limits": "The supplied source contains the SJC majority judgment, concurrence, dissent, and roll call, but not the full lower-court Record, the FCC Overture, or the full texts of prior SJC cases cited in the separate opinions. Separate opinions are not adopted reasons.",
+  "benchmark_examples": [
+    "C01 (mixed complaint outcomes; preserve both the successful procedural claim and the unsuccessful merits claim).",
+    "C20 (separate opinions must remain separate from the adopted ruling; do not import dissent or concurrence into the disposition)."
+  ],
+  "scores": {
+    "concrete_dispute": 2,
+    "decision": 2,
+    "decisive_reason": 2,
+    "distinctive_value": 2,
+    "fidelity": 2,
+    "economy": 2
+  },
+  "score_reasons": {
+    "concrete_dispute": "The synopsis identifies the challenged presbytery action: alleged failure to conduct a proper BCO 31-2 investigation and the finding of no strong presumption of guilt as to TE Moon.",
+    "decision": "It states the operative disposition—complaint denied—and preserves both issue-level results: Issue 1 Yes, Issue 2 No.",
+    "decisive_reason": "It explains the adopted reasons: BCO 39-3 deference to presbytery credibility judgment, sufficient diligence, and no clear error.",
+    "distinctive_value": "It preserves the key limitation that the BCO 32-2 procedural objection was not decided because it was not raised below, and notes the future-charge possibility.",
+    "fidelity": "It keeps the majority judgment distinct from the concurrence and dissent, and does not treat their reasoning as adopted.",
+    "economy": "The summary is concise and includes only details needed to understand the dispute, result, reason, and procedural limit."
+  },
+  "verification_notes": "Initial draft treated the procedural mispath as if decided; corrected it to reflect the adopted holding at lines 76–80 that the question was not properly before the SJC. Rechecked the Judgment at lines 59–63 confirming Issue 1 Yes and Issue 2 No, and the roll call at lines 117–127 confirming adoption by 19 concurrences, 1 dissent, and 4 absences. Confirmed that the concurrence and dissent at lines 129–410 are separate opinions and not the adopted disposition.",
+  "repair_needed": false,
+  "repair_notes": ""
+}

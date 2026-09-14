@@ -1,0 +1,51 @@
+{
+  "case_id": "2021-02",
+  "title": "Tippins v. Northwest Georgia Presbytery",
+  "matter_type": "bco_40_5_matter",
+  "final_dispositions": [
+    "referred"
+  ],
+  "disposition_detail": "The SJC advised the Stated Clerk that the matter should be referred to the General Assembly's Review of Presbytery Records Committee; the decision was approved 19-3-0, with three dissents. The supplied text contains no merits ruling or reasons.",
+  "first_summary": "In a BCO 40-5 request, Tippins v. Northwest Georgia Presbytery, the SJC advised the Stated Clerk that the matter should be referred to the General Assembly's Review of Presbytery Records Committee. The decision was approved 19-3-0, with three dissents. The source gives no underlying facts or reasons for the referral.",
+  "summary": "In this BCO 40-5 request, the SJC advised the Stated Clerk that Tippins v. Northwest Georgia Presbytery should be referred to the General Assembly's Review of Presbytery Records Committee. The SJC approved that action 19-3-0; three commissioners dissented. The sparse record supplies no underlying facts, merits analysis, or reason for the referral.",
+  "sources": [
+    {
+      "path": "cases/ga49_2022__2021-02.md",
+      "sha256": "6fa6c4b92ecc38730ebfe14f02fb8fb3c64961d9cd6e111d4020a8704a61b3e2",
+      "locator": "lines 13–20 (printed pp. 727–728)",
+      "supports": "Identity, BCO 40-5 procedural posture, operative referral to the Review of Presbytery Records Committee, and 19-3-0 vote with dissents."
+    }
+  ],
+  "evidence_notes": {
+    "identity_and_adoption": "Lines 13–15 identify the case as 'CASE NO.2021-02 RE LINDSEY TIPPINS V. NORTHWEST GEORGIA PRESBYTERY DECISION ON BCO 40-5 REQUEST October 21, 2021.' Line 17 states the SJC approved the decision on roll call.",
+    "dispute": "Line 13 identifies a BCO 40-5 request in Tippins v. Northwest Georgia Presbytery, but the supplied text gives no underlying facts or challenged conduct.",
+    "outcomes_and_reasons": "Line 15: the SJC advised the Stated Clerk that the matter should be referred to the General Assembly's Review of Presbytery Records Committee. Line 20 records approval 19-3-0. The source states no reasons for the referral.",
+    "qualifications": "Line 20 notes dissents by Lee, Donahoe, and Wilson; no separate reasons are supplied. No merits ruling or lower-court action appears in the text.",
+    "incorporated_decisions": "None identified in the supplied text."
+  },
+  "source_limits": "The supplied source is a short decision plus roll call. It does not include the underlying request, facts, record, reasoning, or separate opinions.",
+  "benchmark_examples": [
+    "B03. 2023-14: distinguish adverse findings from refused relief and make the operative ruling clear.",
+    "A20. 2013-12: a disposition label alone can be misleading; describe the practical effect.",
+    "Sparse-record synopses: use a short status summary and do not infer missing merits."
+  ],
+  "scores": {
+    "concrete_dispute": 1,
+    "decision": 2,
+    "decisive_reason": 2,
+    "distinctive_value": 1,
+    "fidelity": 2,
+    "economy": 2
+  },
+  "score_reasons": {
+    "concrete_dispute": "The case title and BCO 40-5 posture identify a matter involving Northwest Georgia Presbytery, but the source omits the underlying challenged conduct.",
+    "decision": "The synopsis states the only operative outcome, referral to the Review of Presbytery Records Committee, and the 19-3-0 vote.",
+    "decisive_reason": "No reason is given in the text; the summary faithfully says the record supplies none.",
+    "distinctive_value": "The referral-to-RPRC step and sparse record are preserved, though the case's substantive value is limited by the source.",
+    "fidelity": "The synopsis keeps the SJC's adopted action distinct from absent merits reasoning, lower-court action, and dissenting explanations.",
+    "economy": "Only identity, operative referral, vote, and the source limitation are retained."
+  },
+  "verification_notes": "Reread lines 13–20. Corrected 'directed' to 'advised the Stated Clerk that the matter should be referred' because the text does not say the SJC itself referred the matter. Rechecked the vote (19-3-0), the named dissents (Lee, Donahoe, Wilson), and the absence of any merits reasoning or underlying facts.",
+  "repair_needed": false,
+  "repair_notes": "None."
+}

@@ -1,0 +1,51 @@
+{
+  "case_id": "1984-01",
+  "title": "Elder Roy J. Wuckovich v. Central Carolina Presbytery",
+  "matter_type": "complaint",
+  "final_dispositions": [
+    "not_sustained",
+    "affirmed"
+  ],
+  "disposition_detail": "Point 1 not sustained 11–0; Point 2 not sustained 11–0; Point 3 not sustained 10–1; Point 4 not sustained 11–0; Point 5 not sustained 11–0; general complaint against Central Carolina Presbytery not sustained 11–0; lower court decision confirmed 11–0. The adopted explanatory opinion noted commission disagreement on the Sabbath/subscription position and that the action was largely because the specifications did not substantiate the complaint.",
+  "first_summary": "A ruling elder complained that Central Carolina Presbytery failed to comply with the BCO in examining and ordaining Rick Downs. The judicial commission did not sustain the complaint and confirmed the lower court. It classified only one specification as substantive—the Sabbath exception—and decided largely because the specifications did not substantiate the complaint, while the commission disagreed about the Sabbath/subscription position.",
+  "summary": "A ruling elder complained that Central Carolina Presbytery violated the BCO in examining and approving Rick Downs for ordination, citing five specifications about the call, Downs’s Sabbath exception, the revote after an initial disapproval, lack of Scriptural search, and ordination questions. The judicial commission held points 1, 2, 4, and 5 not sustained 11–0 and point 3 not sustained 10–1; the general complaint was not sustained 11–0, and the lower court decision was confirmed. Its explanatory opinion said the commission disagreed on the Sabbath/subscription question and acted largely because the specifications did not substantiate the complaint.",
+  "sources": [
+    {
+      "path": "cases/ga12_1984__case1.md",
+      "sha256": "71f987a5693244a75b3ab7f64222f89a728a48b62d300826c629145663a00322",
+      "locator": "lines 15–69, 169; printed pp. 157–161",
+      "supports": "Complaint, adjudication, point-by-point votes, adopted explanatory opinion, and lower-court confirmation."
+    }
+  ],
+  "evidence_notes": {
+    "identity_and_adoption": "Header at lines 1–5 identifies Case 1 as Wuckovich v. Central Carolina Presbytery, 12th Assembly (1984), Court: Committee on Judicial Business (CJB), disposition complaint not sustained and lower court confirmed. Adjudication begins line 51; explanatory opinion marked 'Adopted' at line 69.",
+    "dispute": "Complaint at lines 15–47 alleges Central Carolina Presbytery violated the BCO in the examination and ordination of Rick Downs, listing five specifications: no call read, Downs’s Sabbath/ Fourth Commandment exception, revote after initial disapproval, no Scriptural search, and inability to answer ordination questions truthfully.",
+    "outcomes_and_reasons": "Lines 59–66 classify points 1 and 3 as procedural, 4 and 5 as personal opinions/observations, and 2 as substantive. Line 63 records point votes: 1,2,4,5 not sustained 11–0; point 3 not sustained 10–1. Lines 65–66 record general complaint not sustained 11–0 and confirmation of lower court. Line 69 gives adopted reason: disagreement on Sabbath/subscription and action largely because specifications did not substantiate the complaint.",
+    "qualifications": "The commission did not resolve the Sabbath/subscription merits; the adopted explanatory opinion expressly notes disagreement on that question and rests the decision on failure of the specifications. Point 3 alone was split 10–1. The minutes at line 169 include procedural steps and the same vote/confirmation sequence.",
+    "incorporated_decisions": "The only incorporated result is confirmation of the lower court decision at lines 66 and 169 (11–0). No separate prior General Assembly decision is incorporated by reference; the reference at line 164 to General Assembly #10 Minutes p. 103, #25 appears in respondent’s argument, not as an adopted incorporated decision."
+  },
+  "source_limits": "The adopted explanatory opinion is brief and gives no detailed per-specification reasoning beyond classifying the points and stating that the specifications did not substantiate the complaint. The source includes commission minutes and member lists but not the full lower-court record or a merits ruling on the Sabbath/subscription question.",
+  "benchmark_examples": [
+    "C01 Allin v. Tennessee Valley Presbytery (preserve successful and unsuccessful claims; mixed disposition and remand).",
+    "C20 Daniels v. Nashville Presbytery (unexplained disposition must remain unexplained; short-record treatment)."
+  ],
+  "scores": {
+    "concrete_dispute": 2,
+    "decision": 2,
+    "decisive_reason": 2,
+    "distinctive_value": 2,
+    "fidelity": 2,
+    "economy": 2
+  },
+  "score_reasons": {
+    "concrete_dispute": "Identifies the challenged presbytery examination and ordination of Rick Downs and the five BCO-based specifications.",
+    "decision": "States each specification’s outcome, the general complaint’s failure, and confirmation of the lower court decision.",
+    "decisive_reason": "Explains the adopted basis: the specifications did not substantiate the complaint, with the commission divided on the Sabbath/subscription position.",
+    "distinctive_value": "Captures the procedural/substantive classification and the refusal to resolve the Sabbath subscription merits.",
+    "fidelity": "Separates the complaint, adjudication, adopted explanatory opinion, and minutes, and does not treat party argument or lower-court action as the commission’s merits holding.",
+    "economy": "Keeps the synopsis focused on the challenged action, the five point results, the adopted reason, and the confirmation remedy."
+  },
+  "verification_notes": "Rechecked lines 59–66 for the point-by-point votes and lower-court confirmation, and line 169 for the minutes’ parallel record. Corrected first_summary to include the 10–1 vote on point 3, the 11–0 vote on the general complaint, and the confirmation of the lower court. Rechecked line 69 and confirmed the adopted explanatory opinion rested on failure of the specifications rather than a merits ruling on the Sabbath exception.",
+  "repair_needed": false,
+  "repair_notes": "None."
+}

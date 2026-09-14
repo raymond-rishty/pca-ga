@@ -1,0 +1,62 @@
+{
+  "case_id": "2009-05",
+  "title": "Martin Payne, James Linton, Kirk Lyons, and Robert Woodward v. Western Carolina Presbytery",
+  "matter_type": "complaint",
+  "final_dispositions": [
+    "denied"
+  ],
+  "disposition_detail": "The SJC answered both stated issues “No,” denying the consolidated complaints: Presbytery did not err either in conducting the BCO 31-2 investigation or in finding no strong presumption of guilt. Lyons and Woodward additionally lacked standing because they were not under Presbytery’s jurisdiction. No further investigation, process, or other relief was ordered.",
+  "first_summary": "Four complainants challenged Presbytery’s investigation of accusations against a minister and its finding that no strong presumption of guilt existed. The SJC denied the complaints, holding that BCO 31-2 grants investigating courts great procedural discretion and does not require interviews or a particular timetable. Finding no clear constitutional error, it deferred to Presbytery’s superior familiarity with the facts and parties.",
+  "summary": "Four complainants challenged Presbytery’s BCO 31-2 investigation and its finding of no strong presumption of guilt, citing delayed action and failure to interview accusers. The SJC denied the complaints: BCO 31-2 requires due diligence but grants great discretion and prescribes neither interviews nor a timetable, and the record showed no clear constitutional error overcoming deference to Presbytery. Lyons and Woodward also lacked standing because they were not under Presbytery’s jurisdiction. No renewed investigation or process was ordered.",
+  "sources": [
+    {
+      "path": "cases/ga38_2010__2009-05_2009-08_2009-09_2009-10.md",
+      "sha256": "f75fec3c911e712536ce35f11c1706b8f54dab3e8e3b5a1cc4c8579b386e4d61",
+      "locator": "lines 195–227, printed page 205",
+      "supports": "Issues, judgments, and discretion afforded under BCO 31-2."
+    },
+    {
+      "path": "cases/ga38_2010__2009-05_2009-08_2009-09_2009-10.md",
+      "sha256": "f75fec3c911e712536ce35f11c1706b8f54dab3e8e3b5a1cc4c8579b386e4d61",
+      "locator": "lines 231–272, printed pages 206–207",
+      "supports": "Investigation/process distinction, timeliness reasoning, standing rulings, and deference to Presbytery."
+    },
+    {
+      "path": "cases/ga38_2010__2009-05_2009-08_2009-09_2009-10.md",
+      "sha256": "f75fec3c911e712536ce35f11c1706b8f54dab3e8e3b5a1cc4c8579b386e4d61",
+      "locator": "lines 274–278, printed page 207",
+      "supports": "Full SJC amendment and adoption, concurrence, disqualifications, and absence."
+    }
+  ],
+  "evidence_notes": {
+    "identity_and_adoption": "The consolidated caption and SJC disposition appear at lines 1–3 and 11; the panel decision was amended by the full SJC, with 21 concurring, at lines 274–278.",
+    "dispute": "The stated issues challenge the investigation’s conduct and Presbytery’s no-strong-presumption finding (lines 195–205); the asserted defects were omitted interviews and delay (lines 207–214).",
+    "outcomes_and_reasons": "Both issues were answered “No” (lines 201–205). BCO 31-2 prescribes no interviews or timetable, and no clear error displaced lower-court deference (lines 211–227, 266–272).",
+    "qualifications": "Lyons and Woodward lacked standing because they were not under Presbytery’s jurisdiction (lines 261–264). The investigation phase was distinguished from instituted process (lines 231–245).",
+    "incorporated_decisions": "No separate decision was incorporated by reference. The record notes that the investigating committee’s Attachment G was absent, but states its finding and Presbytery’s acceptance (lines 121–123)."
+  },
+  "source_limits": "The investigating committee’s report, Attachment G, is absent from the record, but the source supplies its result and the SJC’s adopted reasoning. No separate opinions appear.",
+  "benchmark_examples": [
+    "C01",
+    "C20"
+  ],
+  "scores": {
+    "concrete_dispute": 2,
+    "decision": 2,
+    "decisive_reason": 2,
+    "distinctive_value": 2,
+    "fidelity": 2,
+    "economy": 2
+  },
+  "score_reasons": {
+    "concrete_dispute": "Identifies the challenged investigation, alleged delay, omitted interviews, and no-strong-presumption finding.",
+    "decision": "States denial on both issues and the additional standing defect affecting Lyons and Woodward.",
+    "decisive_reason": "Explains BCO 31-2 discretion, absence of mandatory procedures, lack of clear error, and deference.",
+    "distinctive_value": "Preserves the distinction between flexible investigation and formal process, plus the jurisdictional standing limit.",
+    "fidelity": "Separates allegations, Presbytery’s action, and the SJC’s adopted holdings and reasons.",
+    "economy": "Retains only details needed to explain the dispute, result, governing distinction, and limitation."
+  },
+  "verification_notes": "Rechecked the two operative “No” judgments, the BCO 31-2 reasoning, and the final deference analysis. The first summary was corrected to add the distinct standing rulings for Lyons and Woodward and to clarify that no renewed investigation or process was ordered.",
+  "repair_needed": false,
+  "repair_notes": "The absent Attachment G does not require repair because its finding, Presbytery’s action, and the SJC’s operative reasoning are supplied."
+}

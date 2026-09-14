@@ -1,0 +1,51 @@
+{
+  "case_id": "2017-12",
+  "title": "In re Platte Valley Presbytery",
+  "matter_type": "review_and_control",
+  "final_dispositions": [
+    "in_order",
+    "referred"
+  ],
+  "disposition_detail": "Responses accepted as complying with the SJC citation; responses and requested minutes referred to the Committee on Review of Presbytery Records. No merits determination on the underlying records or exceptions.",
+  "first_summary": "The SJC accepted Platte Valley Presbytery's responses to its citation and referred them, with requested minutes, to the Committee on Review of Presbytery Records.",
+  "summary": "The SJC unanimously accepted Platte Valley Presbytery's responses, which the Presbytery had approved, as complying with the SJC's citation. It noted that those responses and the requested minutes were forwarded to the Committee on Review of Presbytery Records. The entry does not disclose the underlying citation grounds or evaluate the presbytery's records on the merits; it confirms citation compliance and sends the materials on for ordinary records review.",
+  "sources": [
+    {
+      "path": "cases/ga46_2018__2017-12.md",
+      "sha256": "03588706a46479355a063fe20ec756ee43e954d7779b0caa55bde027f5728394",
+      "locator": "lines 12-16; printed p. 589",
+      "supports": "SJC action accepting responses as complying with its citation and noting referral of responses and requested minutes to the Review of Presbytery Records Committee; disposition line at line 3."
+    }
+  ],
+  "evidence_notes": {
+    "identity_and_adoption": "Case 2017-12, In re Platte Valley Presbytery, decided by the Standing Judicial Commission at the 46th General Assembly (2018); source lines 1-3, 12-16; adopted action appears at printed p. 589.",
+    "dispute": "The matter is an SJC citation to Platte Valley Presbytery; the source does not state the underlying citation grounds or the specific records at issue.",
+    "outcomes_and_reasons": "The SJC unanimously accepted the Presbytery's approved responses as complying with the citation, and noted the responses and requested minutes were forwarded to the Committee on Review of Presbytery Records; the stated reason is compliance with the citation.",
+    "qualifications": "No merits ruling on the underlying records or exceptions appears. The Review Committee review remains outstanding. The roll call lists concurrences and absences, with no recorded dissent.",
+    "incorporated_decisions": "None. No incorporated decision or lower-court judgment is supplied. The referral to the Review Committee is not an adopted merits decision."
+  },
+  "source_limits": "Sparse one-paragraph order; it omits the citation grounds, response contents, any exceptions, and the Review Committee's later action.",
+  "benchmark_examples": [
+    "R01. 2017-10 In re Korean Eastern Presbytery - citation complied with; materials referred for records review (comparison only).",
+    "R04. 2015-06 PCA v. South Florida Presbytery - supervisory review can have a descriptive outcome with continuing obligations (comparison only)."
+  ],
+  "scores": {
+    "concrete_dispute": 1,
+    "decision": 2,
+    "decisive_reason": 2,
+    "distinctive_value": 1,
+    "fidelity": 2,
+    "economy": 2
+  },
+  "score_reasons": {
+    "concrete_dispute": "Identifies the SJC citation compliance action, but the source does not disclose the underlying citation grounds or conduct.",
+    "decision": "States the sole material SJC action: accepting responses as complying and referring the materials to the Review of Presbytery Records Committee.",
+    "decisive_reason": "The adopted reason is expressly compliance with the SJC citation; no further merits reasoning is given.",
+    "distinctive_value": "Confirms that citation compliance does not equal substantive approval and forwards materials to ordinary records review; value is modest because the record is sparse.",
+    "fidelity": "Distinguishes SJC acceptance from a merits decision, referral from adjudication, and does not treat the Review Committee referral as a final merits outcome.",
+    "economy": "Concise; every retained detail concerns the citation compliance, referral, or limits of the record."
+  },
+  "verification_notes": "Rechecked lines 12-16 and line 3 against the supplied source and hash. Corrected first_summary to specify that the acceptance was as complying with the citation, not a merits affirmance. Confirmed operative dispositions are in_order and referred; confirmed no merits ruling, incorporated decision, or separate opinion appears.",
+  "repair_needed": false,
+  "repair_notes": "No source or catalog defect identified."
+}

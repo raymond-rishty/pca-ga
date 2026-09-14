@@ -1,0 +1,51 @@
+{
+  "case_id": "1982-01",
+  "title": "Stephen M. Lee, et al. v. Gulf Coast Presbytery",
+  "matter_type": "complaint",
+  "final_dispositions": [
+    "partially_sustained",
+    "remanded"
+  ],
+  "disposition_detail": "Specifications 1, 2, and 5 were sustained; specifications 3 and 4 were not sustained. Gulf Coast Presbytery was instructed to re-examine Fell after giving him direct guidance, without any instruction to pass or fail him.",
+  "first_summary": "The General Assembly partially sustained a complaint challenging Gulf Coast Presbytery’s rejection of Raymond Bradford Fell’s ordination examination on account of his theonomic view. It ordered Presbytery to re-examine Fell after identifying specific biblical and confessional deficiencies, but did not direct the examination’s result. The Assembly urged adherence to its prior statement that no particular view of the judicial law’s present application should define orthodoxy or heresy, and faulted Donald Graham for circulating intemperate materials.",
+  "summary": "A Session challenged Gulf Coast Presbytery’s refusal to sustain Raymond Bradford Fell’s ordination examination, contending that his theonomic view was improperly treated as disqualifying and that prejudicial materials affected the process. The General Assembly sustained specifications 1, 2, and 5, but not 3 and 4. It ordered re-examination after direct guidance on specific biblical and confessional deficiencies, while expressly refusing to dictate the result. It also urged that no view of the judicial law’s present application should itself define orthodoxy or heresy.",
+  "sources": [
+    {
+      "path": "cases/ga10_1982__case1.md",
+      "sha256": "ca567f659be39dcb6693518f539022532fca51332a3b6ca1140a3306f0e7f9f5",
+      "locator": "lines 49–81; printed pp. 107–108",
+      "supports": "Adoption by the General Assembly, specification-level rulings, re-examination directive, theological qualification, and findings concerning intemperate materials and deficient records."
+    }
+  ],
+  "evidence_notes": {
+    "identity_and_adoption": "The commission report was approved as the General Assembly’s action and judgment: lines 49–53, printed p. 107.",
+    "dispute": "The complaint challenged Presbytery’s failure to sustain Fell’s theological examination: lines 11–16 and 49–54, printed pp. 54 and 107.",
+    "outcomes_and_reasons": "Specifications 1, 2, and 5 were sustained; 3 and 4 were not. Re-examination, prior guidance, and consideration of the Seventh Assembly statement were directed: lines 55–79, printed pp. 107–108.",
+    "qualifications": "Re-examination was expressly not an instruction to sustain or reject Fell; the commission also noted inadequate records: lines 67–81, printed pp. 107–108.",
+    "incorporated_decisions": "No decision was incorporated by reference. The relevant Seventh General Assembly statement was quoted in the adopted judgment: lines 71–75, printed pp. 107–108."
+  },
+  "source_limits": "The source supplies the complaint and adopted report but no fuller explanatory opinion for each specification.",
+  "benchmark_examples": [
+    "C01",
+    "C02"
+  ],
+  "scores": {
+    "concrete_dispute": 2,
+    "decision": 2,
+    "decisive_reason": 2,
+    "distinctive_value": 2,
+    "fidelity": 2,
+    "economy": 2
+  },
+  "score_reasons": {
+    "concrete_dispute": "Identifies the challenged ordination-examination decision and alleged treatment of theonomy.",
+    "decision": "States every specification result and the ordered re-examination.",
+    "decisive_reason": "Reports the adopted theological limitation while acknowledging the absence of fuller specification-by-specification reasoning.",
+    "distinctive_value": "Preserves the distinction between requiring re-examination and directing its outcome.",
+    "fidelity": "Frames disputed causation as the complainants’ contention and separates it from adopted findings.",
+    "economy": "Retains only facts needed to understand the dispute, mixed result, and remedy."
+  },
+  "verification_notes": "Rechecked lines 49–81. The final summary corrects the initial summary by framing the alleged theonomic basis as the complainants’ contention, stating the exact 3–2 specification split, and emphasizing that the Assembly did not dictate the re-examination result.",
+  "repair_needed": false,
+  "repair_notes": ""
+}

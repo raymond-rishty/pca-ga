@@ -1,0 +1,49 @@
+{
+  "case_id": "2002-07",
+  "title": "Leland Nichols and Sam Couch v. James River Presbytery",
+  "matter_type": "complaint",
+  "final_dispositions": [
+    "out_of_order"
+  ],
+  "disposition_detail": "The Standing Judicial Commission listed the complaint as found out of order. The source does not identify a subtype, rationale, merits ruling, or relief.",
+  "first_summary": "Leland Nichols and Sam Couch complained against James River Presbytery. The SJC found the case out of order, without issuing a merits opinion.",
+  "summary": "The SJC found Nichols and Couch’s complaint against James River Presbytery out of order. The docket report does not identify the challenged Presbytery action, the grounds for the ruling, or an administrative or judicial subtype. No merits opinion followed under this docket number.",
+  "sources": [
+    {
+      "path": "cases/ga31_2003__2002-07.md",
+      "sha256": "ec106a90813684f66264605222694531dbfbf95267cfa238ac2e768a34cfd281",
+      "locator": "lines 1–9",
+      "supports": "Case identity, parties, tribunal, complaint classification, out-of-order disposition, and absence of a merits opinion."
+    }
+  ],
+  "evidence_notes": {
+    "identity_and_adoption": "Lines 1–3 and 9 identify Case 2002-07, the parties, and the SJC.",
+    "dispute": "Line 9 identifies a complaint against James River Presbytery but does not describe the challenged action.",
+    "outcomes_and_reasons": "Lines 3 and 9 state that the case was found out of order; no rationale or merits opinion is supplied.",
+    "qualifications": "Line 9 does not specify whether the ruling was administratively or judicially out of order.",
+    "incorporated_decisions": "No incorporated decision is identified; line 9 states that no merits opinion followed under this docket number."
+  },
+  "source_limits": "The source is a brief docket summary and supports only a procedural-status synopsis; it supplies no underlying allegations, rationale, or relief.",
+  "benchmark_examples": [
+    "C20"
+  ],
+  "scores": {
+    "concrete_dispute": 1,
+    "decision": 2,
+    "decisive_reason": 2,
+    "distinctive_value": 1,
+    "fidelity": 2,
+    "economy": 2
+  },
+  "score_reasons": {
+    "concrete_dispute": "The parties and complaint are identified, but the challenged Presbytery action is not.",
+    "decision": "The out-of-order disposition is stated without adding an unsupported subtype.",
+    "decisive_reason": "The synopsis faithfully reports that no reason is given.",
+    "distinctive_value": "It preserves the important limitation that no merits ruling or subtype appears.",
+    "fidelity": "It distinguishes the docket disposition from an unavailable merits opinion and invents no facts.",
+    "economy": "Every detail explains the limited record or disposition."
+  },
+  "verification_notes": "Rechecked lines 3 and 9 for the deciding body and disposition, and corrected the final summary to state expressly that neither the challenged action nor an administrative or judicial subtype is supplied.",
+  "repair_needed": false,
+  "repair_notes": "No source or catalog defect is apparent; the record is merely sparse."
+}

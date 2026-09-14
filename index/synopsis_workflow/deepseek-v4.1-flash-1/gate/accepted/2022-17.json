@@ -1,0 +1,50 @@
+{
+  "case_id": "2022-17",
+  "title": "Benyola v. Central Florida Presbytery (three complaints)",
+  "matter_type": "complaint",
+  "final_dispositions": [
+    "administratively_out_of_order"
+  ],
+  "disposition_detail": "The SJC found each of the three complaints (Case Nos. 2022-17, 2022-18, and 2022-19) administratively out of order and incapable of being put in order because Mr. Benyola was no longer a member of any PCA congregation and thus lacked standing; the decision was approved 23-0 on March 2, 2023.",
+  "first_summary": "The SJC found three complaints by Peter Benyola against Central Florida Presbytery administratively out of order because Benyola was no longer a member of any PCA congregation and lacked standing. The SJC approved the decision 23-0.",
+  "summary": "Standing to complain: The SJC found three complaints by Peter Benyola against Central Florida Presbytery administratively out of order and incapable of being put in order because Benyola was no longer a member of any PCA congregation and thus lacked standing. The SJC approved the ruling 23-0 on March 2, 2023; the supplied record does not describe the underlying allegations.",
+  "sources": [
+    {
+      "path": "cases/ga50_2023__2022-17.md",
+      "sha256": "7844b56179f64c27c98643104092585e57ecb8781bab9bcb74612a80c37aa64a",
+      "locator": "lines 14-20; printed pp. 925-926",
+      "supports": "Case identity, three-complaint scope, disposition, sole adopted reason, and approval vote."
+    }
+  ],
+  "evidence_notes": {
+    "identity_and_adoption": "Lines 14-20 identify Case Nos. 2022-17, 18, and 19; title as Mr. Peter Benyola v. Central Florida Presbytery; decision on complaints dated March 2, 2023; SJC approved by vote of 23-0.",
+    "dispute": "Line 18 states the matter concerns complaints by Mr. Benyola against Central Florida Presbytery. The supplied source does not describe the underlying allegations or the challenged presbytery action.",
+    "outcomes_and_reasons": "Line 18: the complaints are administratively out of order and cannot be put in order because Mr. Benyola is no longer a member of any congregation of the PCA and thus lacks standing.",
+    "qualifications": "Line 20 and line 22 record SJC approval by 23-0 roll call; the roll call lists concurrences only. No merits determination, dissent, or separate opinion appears in the adopted ruling.",
+    "incorporated_decisions": "None supplied; no incorporated decision or lower-court ruling is identified in the source."
+  },
+  "source_limits": "Sparse record: the source supplies only the SJC decision page. It lacks the complaints, lower-court record, underlying facts, and any merits analysis, so the synopsis cannot describe what conduct was challenged beyond the fact of complaints against Central Florida Presbytery.",
+  "benchmark_examples": [
+    "C20 (2016-13): sparse-record disposition example; do not invent an unstated rationale beyond the adopted ruling.",
+    "C01 (1978-02): mixed-outcome example; not applicable here because only one disposition is adopted."
+  ],
+  "scores": {
+    "concrete_dispute": 1,
+    "decision": 2,
+    "decisive_reason": 2,
+    "distinctive_value": 2,
+    "fidelity": 2,
+    "economy": 2
+  },
+  "score_reasons": {
+    "concrete_dispute": "The source identifies the complaints and the standing defect, but not the underlying presbytery action or allegations challenged.",
+    "decision": "States that all three complaints were administratively out of order and incapable of being put in order; no other issue was resolved.",
+    "decisive_reason": "Gives the sole adopted reason: Benyola's non-membership in any PCA congregation and resulting lack of standing.",
+    "distinctive_value": "Clarifies that lack of standing rendered the complaints administratively out of order and unable to be cured, not a merits dismissal.",
+    "fidelity": "Keeps the SJC's adopted ruling separate from the vote count and does not infer merits findings.",
+    "economy": "The synopsis includes only case identity, disposition, reason, vote, and the record limitation."
+  },
+  "verification_notes": "Rechecked line 18 for disposition and reason and line 20 for the 23-0 approval vote. Corrected first_summary by adding that the complaints 'cannot be put in order' and confirmed the source does not call the ruling a dismissal or reach the merits. Confirmed no incorporated decision is supplied.",
+  "repair_needed": false,
+  "repair_notes": "No source or catalog defect identified."
+}

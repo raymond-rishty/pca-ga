@@ -1,0 +1,50 @@
+{
+  "case_id": "2023-05",
+  "title": "Hyland v. Chicago Metro Presbytery",
+  "matter_type": "complaint",
+  "final_dispositions": [
+    "denied"
+  ],
+  "disposition_detail": "The SJC's final vote on the proposed decision was 12–12–0; under the stated rule, Chicago Metro Presbytery's ruling that Hyland's complaint was out of order for lack of standing stands. The proposed panel decision, adopted 2–1, would have answered the issue 'No' and held the complaint judicially out of order because the complainant lacked standing under BCO 43-1; it made no amendments. Concurrences and dissents are recorded.",
+  "first_summary": "The SJC denied Emily Hyland's complaint against Chicago Metro Presbytery's ruling that her complaint was out of order, holding that she lacked standing under BCO 43-1.",
+  "summary": "Former church employee Emily Hyland complained to the SJC after Chicago Metro Presbytery ruled her BCO 43 complaint out of order because, as a local-church member, she was not subject to Presbytery's jurisdiction. The SJC was equally divided 12–12–0 on the proposed panel decision, so CMP's ruling stands. That proposed decision would have answered that CMP did not err: Hyland lacked standing to file a BCO 43-1 complaint with Presbytery. No amendments were made. An evenly divided SJC thus leaves the lower ruling in place without a majority rationale.",
+  "sources": [
+    {
+      "path": "cases/ga52_2025__2023-05.md",
+      "sha256": "44d7b63c818145f04a91f66bc2fcc59eb8fd47cc75acae4cbecdc99ba05c72cf",
+      "locator": "lines 1–151; printed pages 810–818",
+      "supports": "Entire case record, including the SJC decision, facts, issue, proposed judgment, reasoning, final vote, and concurrences/dissents."
+    }
+  ],
+  "evidence_notes": {
+    "identity_and_adoption": "Source: cases/ga52_2025__2023-05.md (SHA256 44d7b63c818145f04a91f66bc2fcc59eb8fd47cc75acae4cbecdc99ba05c72cf), lines 1–3, 13–17, 149–151. The deciding body is the SJC; the proposed decision was drafted by RE Dowling, adopted 2–1 by the panel, and failed on an evenly divided 12–12–0 SJC vote, leaving Presbytery's decision standing.",
+    "dispute": "Source same path/hash, lines 21, 97, 115, 129. Hyland's employment termination led to a BCO 43 complaint to Chicago Metro Presbytery; CMP ruled it out of order because she was not under its jurisdiction, and the issue before the SJC was whether CMP erred in that standing ruling.",
+    "outcomes_and_reasons": "Source same path/hash, lines 133–137, 149. The proposed panel judgment answered 'No' and reasoned that the complainant lacked standing to file a BCO 43-1 complaint with Presbytery; the SJC final vote was 12–12–0, so no majority adopted that rationale. No amendments were made at lines 139–141.",
+    "qualifications": "Source same path/hash, lines 121, 23, 101. The first panel's out-of-order basis is described inconsistently: line 23 cites OMSJC 10.5 defects; line 121 cites an employment matter escalated to civil authorities and belonging to the civil rather than spiritual sphere. Line 101 also references a 'November 27th, 2023' query after the 11/30/22 chronology. The final result remains the tied vote leaving CMP's ruling in place.",
+    "incorporated_decisions": "Source same path/hash, lines 97, 115, 121, 133. No separate decision is incorporated by reference. CMP's earlier out-of-order ruling and the SJC panel/panel-hearing history are described, but the final SJC action is the 12–12–0 vote on the proposed decision."
+  },
+  "source_limits": "The SJC's final vote was evenly divided 12–12–0, so no majority rationale was adopted. The source gives conflicting descriptions of the first panel's out-of-order grounds and a likely date inconsistency at line 101. These do not alter the final effect: CMP's out-of-order standing ruling stands and the complaint to the SJC is denied.",
+  "benchmark_examples": [
+    "C01. 1978-02: Allin et al. v. Tennessee Valley Presbytery — preserve mixed outcomes and procedural details.",
+    "C20. 2016-13: Daniels et al. v. Nashville Presbytery — keep a limited or unexplained adopted rationale precise."
+  ],
+  "scores": {
+    "concrete_dispute": 2,
+    "decision": 2,
+    "decisive_reason": 2,
+    "distinctive_value": 2,
+    "fidelity": 2,
+    "economy": 2
+  },
+  "score_reasons": {
+    "concrete_dispute": "Identifies CMP's out-of-order ruling and Hyland's BCO 43 complaint as the challenged action.",
+    "decision": "States the proposed panel outcome, the 12–12–0 tie, the resulting standing of CMP's ruling, and the absence of amendments.",
+    "decisive_reason": "Faithfully reports that no majority rationale was adopted and identifies the proposed no-standing reason without treating it as the SJC's holding.",
+    "distinctive_value": "Preserves the rule/effect of an equally divided SJC and the distinction between a proposed panel decision and the adopted result.",
+    "fidelity": "Keeps the lower court ruling, proposed panel decision, final tie, and separate votes distinct.",
+    "economy": "Concise; every detail explains the dispute, result, or the limited adopted reasoning."
+  },
+  "verification_notes": "Rechecked lines 13–17, 21–23, 97, 115, 121, 129–137, and 149–151. Corrected the first_summary's implication that the SJC adopted a no-standing holding: the final vote was 12–12–0, so only CMP's ruling stands and the panel's no-standing reason remained a proposed decision. Confirmed no amendments and the recorded concurrences/dissents. Noted the source conflict between line 23 (OMSJC 10.5 defects) and line 121 (employment/civil-sphere grounds) for the first panel's out-of-order determination.",
+  "repair_needed": false,
+  "repair_notes": "No repair needed; source limitations are noted in source_limits and evidence_notes."
+}

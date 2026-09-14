@@ -1,0 +1,50 @@
+{
+  "case_id": "2010-16",
+  "title": "Lyons v. Western Carolina Presbytery",
+  "matter_type": "complaint",
+  "final_dispositions": [
+    "denied"
+  ],
+  "disposition_detail": "Issue 1: No—Presbytery did not err in dismissing the charges; no clear error shown on BCO 31-8, 34-2, or 32-20 grounds. Issue 2: Yes—Presbytery erred in ruling Lyons's complaint administratively out of order because filing charges brought him under its jurisdiction and gave him standing under BCO 32-2 and BCO 43-1; however, the error was not prejudicial. Complaint denied. The panel's decision was not adopted; the full SJC adopted an amended decision, with 23 concurring, 1 disqualified, and 0 absent.",
+  "first_summary": "Kirk Lyons filed charges against TE Craig Bulkeley with Western Carolina Presbytery, which dismissed them and later ruled his complaint administratively out of order for lack of standing. The SJC held the dismissal was not clear error under BCO 31-8, 34-2, and 32-20, but that WCP erred in denying standing because filing charges brought Lyons under its jurisdiction. The error was not prejudicial, so the complaint was denied.",
+  "summary": "Kirk Lyons filed BCO 32-2 charges against TE Craig Bulkeley with Western Carolina Presbytery. WCP dismissed the charges, then ruled Lyons's complaint administratively out of order for lack of standing. The SJC answered that the dismissal was not erroneous—Presbytery had discretion under BCO 31-8, 34-2, and 32-20, and the record showed no clear error—but that WCP erred on standing because Lyons's filing brought him under its jurisdiction. Because that error was not prejudicial, the SJC denied the complaint.",
+  "sources": [
+    {
+      "path": "cases/ga39_2011__2010-16.md",
+      "sha256": "161ac32738fad4999f68b047ca296425b904421a5b90c4ced864b026b95309cb",
+      "locator": "lines 13–81 (identity, facts, issues, judgment, adopted reasoning, adoption/vote); lines 85–204 (separate concurring opinion); printed pp. 594–601",
+      "supports": "Canonical case identity, procedural history, issues, judgment, adopted reasoning, adoption vote, disqualification, and separate concurring opinion."
+    }
+  ],
+  "evidence_notes": {
+    "identity_and_adoption": "Case 2010-16, Lyons v. Western Carolina Presbytery, is a Standing Judicial Commission decision from the 39th General Assembly (2011), disposition denied (lines 1–3). The full SJC adopted the amended decision, not the panel's decision; it was written by TE David Coffin with amendments by the full SJC, and adopted 23 concurring, 1 disqualified, 0 absent (lines 73–81). TE D. Jeffrey Hutchinson was disqualified because he was a member of Western Carolina Presbytery (lines 77–81).",
+    "dispute": "Lyons filed charges against TE Craig Bulkeley with WCP on November 9, 2009 (lines 17–19). WCP dismissed the charges on February 27, 2010, and on May 4, 2010 ruled Lyons's complaint administratively out of order for lack of standing, citing SJC Case 2009-9 (lines 21–35). The SJC framed two issues: whether WCP erred in dismissing the charges and whether WCP erred in ruling the complaint administratively out of order (lines 37–41).",
+    "outcomes_and_reasons": "Issue 1 answered No: although BCO 32-2 generally requires process, courts have discretion under BCO 31-8, BCO 34-2, and BCO 32-20, WCP found grounds in all three categories, and the SJC must defer absent clear error under BCO 39-3; no such showing appeared (lines 51–69). Issue 2 answered Yes: WCP erred because Lyons gained standing by filing charges under BCO 32-2 and met BCO 43-1, but the error was not prejudicial because the underlying dismissal was not clear error; therefore the complaint was denied (lines 71–73).",
+    "qualifications": "The panel's decision was not adopted; the full SJC amended and adopted the decision (line 73). One member was disqualified under SJCM 2.10(e) because of presbytery membership (lines 79–81). A separate concurring opinion by RE Samuel J. Duncan and RE Daniel Carrell agrees in the result but adds procedural views on BCO 32-2 charges, standing, and WCP's findings; its reasoning and admonitions are not the adopted majority reasoning (lines 85–204).",
+    "incorporated_decisions": "The adopted decision cites Case 2010-04 Sartorius and Case 2009-22 McNeil as authorities (lines 57–62), and the WCP ruling relied on prior SJC Case 2009-9, which the source describes as holding Lyons lacked standing because he was not under the court's jurisdiction (lines 27–31). The source distinguishes Case 2009-9; no separate incorporated decision is necessary to supply the SJC's result."
+  },
+  "source_limits": "The source does not reproduce Lyons's charges, WCP's five specified dismissal reasons, or the full concurring-opinion footnote, and it describes but does not supply prior Case 2009-9. The concurring opinion's procedural proposals and admonitions are separate from the adopted judgment.",
+  "benchmark_examples": [
+    "C01 guides preserving mixed issue-level results; here the SJC found error on standing but denied the complaint because the error was not prejudicial.",
+    "C20 is not applicable because the adopted disposition here states reasons rather than resting on an unexplained mootness ruling."
+  ],
+  "scores": {
+    "concrete_dispute": 2,
+    "decision": 2,
+    "decisive_reason": 2,
+    "distinctive_value": 2,
+    "fidelity": 2,
+    "economy": 2
+  },
+  "score_reasons": {
+    "concrete_dispute": "Identifies WCP's dismissal of Lyons's charges and its later administrative-out-of-order ruling on his complaint.",
+    "decision": "States both issue-level results: No on the dismissal, Yes on the standing/out-of-order ruling, and the overall denial of the complaint.",
+    "decisive_reason": "Explains the adopted reasons: deference/no clear error on the dismissal, standing error from filing charges, and nonprejudicial error.",
+    "distinctive_value": "Preserves the distinction that a court may err on administrative standing yet still deny the complaint when no clear error affects the underlying dismissal.",
+    "fidelity": "Keeps adopted judgment, separate concurring opinion, prior-case references, vote, and disqualification distinct.",
+    "economy": "Includes only details needed to explain the dispute, result, and useful limitation."
+  },
+  "verification_notes": "Rechecked lines 43–71: issue 1 is 'No'; issue 2 is 'Yes, but the error was not prejudicial'; the decision states 'Therefore, the Complaint is denied.' Corrected the first summary to specify BCO 32-2 charges and to tie the standing error to WCP's May 4 ruling, not to the underlying dismissal. Rechecked lines 73–81 and confirmed the full SJC adopted an amended decision, not the panel's, with 23 concurring, 1 disqualified, and 0 absent; the concurring opinion at lines 85–204 remains separate.",
+  "repair_needed": false,
+  "repair_notes": "No source or catalog defect identified. The source's silence on WCP's five specified dismissal reasons and the full concurring footnote is a source limitation, not a repair defect."
+}

@@ -1,0 +1,35 @@
+{
+  "case_id": "2022-22",
+  "title": "Turner v. South Florida Presbytery",
+  "matter_type": "complaint",
+  "dispositions": ["partially_sustained", "annulled", "remanded"],
+  "summary": "Presbytery investigated a Session's handling of sexual-misconduct allegations and found it guilty of delinquencies without a trial. The SJC upheld Presbytery's authority to receive credible reports and investigate, but annulled the findings of guilt, censures, and corrective mandates because BCO 40-6 required formal process or an admission before censure. It returned the matter for records review, informal resolution, or formal process and declined interim mandates that would assume the disputed allegations were true.",
+  "sources": [
+    {
+      "path": "cases/ga51_2024__2022-22.md",
+      "sha256": "31ef135272ac0920d5d434f07d120b64fbdfeec7e744a3efe8ecf920cfab3cf7",
+      "locator": "lines 147-170, 211-282, and 327-348; printed pp. 733-741, issues, judgments, reasoning, and final amends",
+      "supported_claims": "Supports the mixed judgment, lawful investigation, formal-process requirement, annulment, return options, and refusal of interim relief based on unproven assumptions."
+    }
+  ],
+  "source_limits": "The underlying sexual-misconduct reports and Session failures remained disputed; the SJC did not decide their truth in this complaint.",
+  "evidence_notes": [
+    "Procedurally defective complaints could still supply credible reports supporting investigation under BCO 40-5.",
+    "Presbytery could not enter guilt, censure, or mandatory corrective action without indictment, plea, and trial under BCO 40-6 or an admission.",
+    "The annulled rulings did not end the matter; Presbytery had to choose among specified constitutionally available paths.",
+    "The SJC declined requested interim orders because they assumed facts requiring proof."
+  ],
+  "benchmark_examples": ["C02 Turner", "C01 Allin"],
+  "scores": {"concrete_dispute": 2, "decision": 2, "decisive_reason": 2, "distinctive_value": 2, "fidelity": 2, "economy": 2},
+  "score_reasons": {
+    "concrete_dispute": "Identifies investigation and discipline over disputed allegations.",
+    "decision": "Preserves both the unsuccessful and successful issues and resulting relief.",
+    "decisive_reason": "Explains the distinction between investigation and censure requiring process.",
+    "distinctive_value": "Includes remaining routes and refusal to assume disputed facts.",
+    "fidelity": "Does not treat allegations as proven or annulment as acquittal.",
+    "economy": "Condenses a complex mixed outcome without losing qualifications."
+  },
+  "verification_notes": "Separate source-checking pass by the same reviewer re-read the two issues, judgments, BCO 40-5/40-6 reasoning, amends, and declined interim relief; mixed outcomes and unresolved allegations were confirmed sentence by sentence.",
+  "repair_needed": true,
+  "repair_notes": "The case-page generated header labels the disposition 'not_sustained,' contradicting the adopted mixed judgment. The canonical catalog is materially closer, but the maintained case-page metadata should be reconciled through the ingestion workflow if authorized."
+}

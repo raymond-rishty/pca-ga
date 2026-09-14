@@ -1,0 +1,57 @@
+{
+  "case_id": "2022-07",
+  "title": "Harrell et al. v. Covenant Presbytery",
+  "matter_type": "appeal",
+  "final_dispositions": [
+    "sustained",
+    "reversed"
+  ],
+  "disposition_detail": "Appeal sustained as to Specifications 1–3 (indictment specificity; refusal of particulars; guilty verdicts), and not sustained as to Specifications 4–8 (disqualification of Session members/witnesses, TE Wreyford, TE Norton; venue; refusal to refer to Presbytery). The SJC reversed the lower courts' judgments and the guilty verdicts; no remand or further proceedings are specified.",
+  "first_summary": "The SJC sustained an appeal by seven members of a mission church convicted by their temporary Session for opposing the organizing minister's expected election as pastor. It reversed the guilty verdicts and the Presbytery's affirmance, holding the indictments lacked BCO 32-5 specificity, the Session had no authority over pastoral selection, and no Fifth or Ninth Commandment offense was proved. The SJC rejected challenges to witness-judges, venue, and refusal to refer the trial.",
+  "summary": "The SJC sustained an appeal by seven members of a 38-member mission church who were convicted by their temporary Session of opposing the organizing minister's expected election as pastor. Reversing the Presbytery's affirmance and the guilty verdicts underlying indefinite suspensions, the SJC held the indictments fatally lacked BCO 32-5 specificity; Presbytery used the wrong standard of review; the Session had no authority to control pastoral selection; and no Fifth or Ninth Commandment offense was proved. Challenges to witness-judges, venue, and refusal to refer were rejected.",
+  "sources": [
+    {
+      "path": "cases/ga50_2023__2022-07.md",
+      "sha256": "6ba63d4ef947a75c66bcff05ea0840b2b5a58563618fed26d3aa627293c306c3",
+      "locator": "lines 3, 17, 27, 179–190, 196–235, 297–391, 393–425, 429–432",
+      "supports": "Canonical case identity, disposition, issues, judgment, adopted reasoning, and vote."
+    },
+    {
+      "path": "cases/ga50_2023__2022-07.md",
+      "sha256": "6ba63d4ef947a75c66bcff05ea0840b2b5a58563618fed26d3aa627293c306c3",
+      "locator": "lines 434–606",
+      "supports": "Separate concurring opinion by RE Jim Eggert; not part of the majority judgment."
+    }
+  ],
+  "evidence_notes": {
+    "identity_and_adoption": "Case 2022-07, Harrell et al. v. Covenant Presbytery, SJC Decision on Appeal, 50th GA (2023); adopted by 22-0 vote, with one recusal, lines 3, 17, 429–432.",
+    "dispute": "Seven members of Christ Redeemer PCA mission church were indicted and convicted by the temporary Session for opposing TE Wreyford's expected election as pastor; Presbytery denied their appeal in whole, lines 25–29, 61–65, 127–133, 151–153.",
+    "outcomes_and_reasons": "SJC sustained Specifications 1–3 and did not sustain 4–8; guilty verdicts reversed. Reasons: BCO 32-5 indictment specificity, BCO 39/43 rather than BCO 40-5 standard of review, no Fifth or Ninth Commandment violations, and no Sessional authority over pastoral selection, lines 179–190, 194–235, 297–391, 393–425.",
+    "qualifications": "The majority decision is distinct from RE Jim Eggert's separate concurrence at lines 434–606. TE Kooistra recused at line 432. The source states no remand or later proceedings.",
+    "incorporated_decisions": "Presbytery's 05/17/22 denial in whole adopted its judicial commission's proposed judgment; that result is supplied at lines 151–153. No other material incorporated decision is missing."
+  },
+  "source_limits": "The supplied source contains the SJC majority decision and one concurring opinion; it does not include later compliance or enforcement materials, nor the full lower-court record.",
+  "benchmark_examples": [
+    "A01. 2007-16: Grady v. Southwest Florida Presbytery",
+    "A19. 2011-13: Spann v. Oak Mountain Presbyterian Church"
+  ],
+  "scores": {
+    "concrete_dispute": 2,
+    "decision": 2,
+    "decisive_reason": 2,
+    "distinctive_value": 2,
+    "fidelity": 2,
+    "economy": 2
+  },
+  "score_reasons": {
+    "concrete_dispute": "Identifies the challenged Session convictions and the Presbytery appeal decision.",
+    "decision": "States the appeal sustained as to Specifications 1–3, not sustained as to 4–8, and the reversal of the guilty verdicts.",
+    "decisive_reason": "Explains the adopted reasons: BCO 32-5 specificity, wrong standard of review, no Fifth/Ninth Commandment offenses, and no authority over pastoral selection.",
+    "distinctive_value": "Preserves the rules on indictment specificity, appeal review standards, and mission-church congregational selection rights.",
+    "fidelity": "Distinguishes the majority judgment, separate concurrence, rejected assignments, and lower-court history.",
+    "economy": "Every retained detail relates to the dispute, disposition, or adopted reasoning."
+  },
+  "verification_notes": "Rechecked the operative judgment at lines 179–190 and corrected the draft to state expressly that Specifications 1–3 were sustained and 4–8 were not sustained, and that the SJC reversed the guilty verdicts/lower-court judgments rather than remanding. Reread adopted reasoning at lines 194–235, 297–391, and 393–425; confirmed the Eggert concurrence at lines 434–606 is separate and not adopted majority reasoning. Confirmed source path/hash and the 22-0 vote with TE Kooistra recused.",
+  "repair_needed": false,
+  "repair_notes": "No source or catalog defect identified."
+}

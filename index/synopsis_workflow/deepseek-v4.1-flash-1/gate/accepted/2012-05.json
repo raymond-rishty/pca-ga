@@ -1,0 +1,50 @@
+{
+  "case_id": "2012-05",
+  "title": "Hedman v. Pacific Northwest Presbytery",
+  "matter_type": "complaint",
+  "final_dispositions": [
+    "denied"
+  ],
+  "disposition_detail": "Complaint denied. The sole issue was answered \"No\": Complainant did not show that Pacific Northwest Presbytery violated the Constitution or clearly erred in adopting five not-guilty judgments on the Leithart charges. The SJC found no procedural violation and left the verdicts undisturbed; it did not annul, remand, or refer, and it urged continued clarification of Leithart's terminology. Separate dissent would have sustained the complaint, found Presbytery erred, annulled the not-guilty verdicts, and directed a new trial or BCO 41 reference.",
+  "first_summary": "The SJC denied Hedman's complaint, effectively upholding Pacific Northwest Presbytery's not-guilty verdicts on charges that TE Peter Leithart's views conflicted with the Westminster Standards. The SJC deferred to the Presbytery's factual findings because the Complainant failed to show clear error and urged Leithart to clarify his terminology. A dissent would have reversed and remanded.",
+  "summary": "The SJC denied RE Gerald Hedman's complaint against Pacific Northwest Presbytery, which had adopted five not-guilty judgments on charges that TE Peter Leithart's baptism, covenant, imputation, justification, and union-with-Christ views contradicted the Westminster Standards. Bound to the record and clear-error review, the SJC found no procedural violation and insufficient evidence that Presbytery clearly erred. It left the verdicts undisturbed, declined to endorse Leithart's views generally, and urged continued clarification of his non-standard terminology. A separate dissent would have found error and ordered a new trial or reference.",
+  "sources": [
+    {
+      "path": "cases/ga41_2013__2012-05.md",
+      "sha256": "00068110d74fcf601bf56926a2af652d66205841ab896740590ad339430696f7",
+      "locator": "lines 1-3, 13-63, 67-69, 73-140, 142-148",
+      "supports": "Identity and adopted disposition; complaint history and issue; adopted judgment and reasoning; roll call and separate-opinion status."
+    }
+  ],
+  "evidence_notes": {
+    "identity_and_adoption": "Source cases/ga41_2013__2012-05.md, sha256 00068110d74fcf601bf56926a2af652d66205841ab896740590ad339430696f7, lines 1-3 (case ID, SJC, 41st Assembly, disposition denied), line 13 (complaint title), lines 142-148 (adoption vote: 15 concur, 2 dissent, 1 disqualified, 1 recused, 5 absent).",
+    "dispute": "Lines 17-63: PNW Presbytery adopted five not-guilty judgments on TE Leithart (lines 35-47); Hedman complaint challenged Presbytery's April 27, 2012 denial of the Witt Complaint (lines 49-53); issue at lines 61-63 asks whether Complainant showed unconstitutional action.",
+    "outcomes_and_reasons": "Lines 67-69 (Judgment: No), lines 73-89 (record-bound review; no procedural concerns; ROD compliance), lines 91-132 (confusing or contradictory examples not clear error; not convinced subscription statements were incredible), lines 134-140 (urges clarification; no endorsement of Leithart's views generally).",
+    "qualifications": "Lines 154-339 are concurring opinions; lines 341-638 are a dissent, which would find guilt (lines 417-419) and would annul and direct a new trial or reference (lines 610-636). Line 150 notes separate opinions and possible answers; adopted decision is lines 67-140.",
+    "incorporated_decisions": "Lines 19, 158, 181, and 597-606 reference Bordwine v. PNW, Case 2009-06, as history; no incorporated decision supplies this case's result. The adopted opinion cites BCO 39-3, 39-4, 42-5, 43-10, and RAO 17-1."
+  },
+  "source_limits": "The source includes the adopted decision and separate concurrence/dissent; only lines 67-140 and the roll call at lines 142-148 are the adopted disposition. The 722-page record is summarized, not reproduced; the SJC noted possible supplemental opinions or answers at line 150.",
+  "benchmark_examples": [
+    "C01 1978-02 Allin v. Tennessee Valley Presbytery — preserve both sustained procedural errors and the unsuccessful claim; complaint sustained in part and remanded.",
+    "C20 2016-13 Daniels v. Nashville Presbytery — an unexplained disposition should remain unexplained; short-record example."
+  ],
+  "scores": {
+    "concrete_dispute": 2,
+    "decision": 2,
+    "decisive_reason": 2,
+    "distinctive_value": 2,
+    "fidelity": 2,
+    "economy": 2
+  },
+  "score_reasons": {
+    "concrete_dispute": "Identifies the challenged action: Presbytery's five not-guilty verdicts on Leithart and its denial of the Witt Complaint.",
+    "decision": "States the sole issue answered No and the complaint denied; notes no annulment, remand, or reference, and identifies separate dissent.",
+    "decisive_reason": "Explains the clear-error, record-bound review and lack of evidence that the not-guilty verdicts were clearly erroneous.",
+    "distinctive_value": "Preserves the limits: the SJC did not endorse Leithart's views generally and only urged clarification of his terminology.",
+    "fidelity": "Keeps the adopted denial, concurrences, and dissent distinct; avoids treating dissent relief as adopted.",
+    "economy": "The synopsis covers issue, denial, reason, relief, and dissent without unnecessary procedural history."
+  },
+  "verification_notes": "Reread adopted judgment (lines 67-69), reasoning (lines 73-140), and roll call (lines 142-148). Corrected first_summary: the adopted decision did not \"effectively uphold\" or declare Leithart's views constitutional; it denied the complaint for failure to show clear error and expressly disclaimed any general endorsement (lines 136-140). Also corrected \"reversed and remanded\" to the separate dissent's proposed relief, not the adopted result; the dissent would have annulled the verdicts and directed a new trial or BCO 41 reference (lines 417-419, 610-636). Checked that no procedural violation was found (line 89).",
+  "repair_needed": false,
+  "repair_notes": "No source or catalog defect identified."
+}

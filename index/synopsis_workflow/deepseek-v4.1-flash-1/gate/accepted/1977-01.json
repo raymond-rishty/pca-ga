@@ -1,0 +1,50 @@
+{
+  "case_id": "1977-01",
+  "title": "5-13 / 5-87 — Rev. Paul L. Karlberg and Ruling Elder James G. Luce v. Central Georgia Presbytery",
+  "matter_type": "complaint",
+  "final_dispositions": [
+    "not_sustained"
+  ],
+  "disposition_detail": "The Judicial Commission unanimously did not sustain Complaint No. 1. Only reason one remained after complainants dropped reasons two through six; the Commission considered that surviving bias claim and declined remand.",
+  "first_summary": "Complaint by Karlberg and Luce against Central Georgia Presbytery over its commission's investigation of Faith Presbyterian Church was not sustained by a General Assembly judicial commission. The commission found both sides acted in good faith and that remanding would not advance Christ's cause.",
+  "summary": "Complainants Karlberg and Luce challenged Central Georgia Presbytery’s commission as biased—it heard the Faith Church minority but not the majority—and challenged its judicial designation and recommendations. After Presbytery rescinded recommendations 2–6, complainants dropped those reasons, leaving only the bias claim. A General Assembly judicial commission heard both sides and unanimously declined to sustain. It reasoned both parties acted in good faith, mistakes were inadvertent, and remand would not further Christ’s cause. The rescinded recommendations and designation were not adjudicated.",
+  "sources": [
+    {
+      "path": "cases/ga05_1977__case1.md",
+      "sha256": "4ed829ca088f391216e890e6485cc768f7337da537168aa567fc18f467bba7f4",
+      "locator": "lines 1–3, 11–31, 47, 163–171, 185–205",
+      "supports": "Identity, complaint grounds, amendment dropping reasons 2–6, referral/adoption, and the not-sustained disposition with explanatory reasons."
+    }
+  ],
+  "evidence_notes": {
+    "identity_and_adoption": "Case 5-13/5-87, Karlberg and Luce v. Central Georgia Presbytery, 5th General Assembly (1977); complaint referred to the Committee of Commissioners on Judicial Business, constituted as a Judicial Commission; its report was admitted to record with an explanatory statement. Lines 1–3, 163–171.",
+    "dispute": "Complaint challenged Central Georgia Presbytery’s January 8, 1977 adoption of commission recommendations and alleged the commission was biased and wrongly constituted as judicial; complainants later dropped reasons 2–6 after Presbytery rescinded recommendations 2–6, leaving reason 1. Lines 11–31, 47, 59–69, 87, 127–139, 185.",
+    "outcomes_and_reasons": "The Judicial Commission unanimously moved not to sustain the complaint. Its adopted explanatory statement cited that neither side was fully prepared, both acted in good faith with inadvertent mistakes or inexperience, and there was no substantive reason to remand to Central Georgia Presbytery. Lines 193–205.",
+    "qualifications": "Only the bias claim in reason 1 survived; the Commission did not adjudicate the rescinded recommendations or the judicial/pastoral designation after those grounds were dropped. Lines 47, 131–139, 185.",
+    "incorporated_decisions": "The January 8, 1977 commission report and recommendations and the April 12, 1977 rescission are quoted/attached historical materials, not separately adjudicated decisions; no separate opinion is supplied. Lines 91–125, 127–145."
+  },
+  "source_limits": "The supplied source is the only authority used. It contains the complaint, attached minutes and report, and the 5-87 disposition, but not a full transcript or complete General Assembly minutes. Line 173 is a truncated sentence, but it does not affect the disposition or reasons.",
+  "benchmark_examples": [
+    "C01 — preserve mixed procedural claims and refused relief without overstating the holding.",
+    "C20 — keep a sparse or unexplained disposition faithful to the adopted ruling."
+  ],
+  "scores": {
+    "concrete_dispute": 2,
+    "decision": 2,
+    "decisive_reason": 2,
+    "distinctive_value": 2,
+    "fidelity": 2,
+    "economy": 2
+  },
+  "score_reasons": {
+    "concrete_dispute": "Identifies the challenged Presbytery commission action and the surviving bias claim.",
+    "decision": "States the unanimous not-sustained result and notes the dropped reasons 2–6.",
+    "decisive_reason": "Reports the adopted good-faith, inadvertence, and no-substantive-reason-to-remand rationale.",
+    "distinctive_value": "Captures the limit that only the bias claim survived and that rescinded recommendations were not adjudicated.",
+    "fidelity": "Distinguishes the complaint grounds, amendment, adopted commission statement, and disposition; no lower-court verdict or separate opinion is misattributed.",
+    "economy": "Keeps only details needed to explain the dispute, surviving issue, result, and rationale."
+  },
+  "verification_notes": "Reread lines 47, 185, and 193–205. The first_summary implied all original grounds were reviewed; the summary was corrected to state that reasons 2–6 were dropped and only reason 1 was before the Judicial Commission. Also confirmed the operative result is not_sustained, not dismissal or remand, and that the explanatory statement itself declined remand.",
+  "repair_needed": false,
+  "repair_notes": "No source or catalog defect requiring repair. The metadata label 'Committee on Judicial Business' is consistent with the source's reference to the Committee of Commissioners on Judicial Business constituted as a Judicial Commission."
+}

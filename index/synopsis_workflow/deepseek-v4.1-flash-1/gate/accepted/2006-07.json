@@ -1,0 +1,50 @@
+{
+  "case_id": "2006-07",
+  "title": "TE Michael Chastain v. Heritage Presbytery",
+  "matter_type": "appeal",
+  "final_dispositions": [
+    "judicially_out_of_order"
+  ],
+  "disposition_detail": "SJC declared the appeal judicially out of order; all proceedings after Chastain's May 8, 2006 renunciation of PCA jurisdiction are moot; SJC 2005-1 remains in effect; no merits ruling on the excommunication/deposition.",
+  "first_summary": "TE Chastain appealed Heritage Presbytery’s 2006 excommunication and deposition. The SJC ruled the appeal judicially out of order because Chastain had renounced PCA jurisdiction on May 8, 2006. That made later Presbytery proceedings moot and left SJC 2005-1 in effect. The majority did not decide the merits. A concurrence and dissent disputed whether the discipline process could continue and whether the majority could recognize the renunciation.",
+  "summary": "Chastain appealed Heritage Presbytery’s 2006 excommunication and deposition. The SJC held the appeal judicially out of order because Chastain had renounced PCA jurisdiction on May 8, 2006. Consequently, Presbytery’s later proceedings were moot and SJC 2005-1 remained in effect. The SJC did not reach the merits. A concurrence questioned the discipline process after renunciation; a dissent argued the majority lacked constitutional authority to recognize unilateral withdrawal and thereby undercut discipline.",
+  "sources": [
+    {
+      "path": "cases/ga35_2007__2006-07.md",
+      "sha256": "139c727bdcb9e84a57290edb62e36b18e536db762ac7ad093e46ab44bc29876e",
+      "locator": "lines 13–15, 19–29, 43, 83–89, 155–163, 167–173, 335–337, 345–482",
+      "supports": "SJC judgment, vote, facts, issue, and separate concurring and dissenting opinions."
+    }
+  ],
+  "evidence_notes": {
+    "identity_and_adoption": "Case 2006-07, TE Michael Chastain v. Heritage Presbytery; SJC majority judgment at lines 13–15, adopted by recorded vote 15 concur, 6 absent, 3 dissent at lines 19–29.",
+    "dispute": "Chastain appealed Heritage Presbytery’s May 9, 2006 excommunication and deposition for contumacy and impenitence after his May 8, 2006 letter renouncing PCA jurisdiction; the prior HP conviction and indefinite suspension had been upheld in SJC 2005-1 (lines 43, 83–89, 155–163).",
+    "outcomes_and_reasons": "SJC held the appeal judicially out of order because Chastain renounced jurisdiction; all proceedings after May 8, 2006, were moot, and SJC 2005-1 remains in effect (line 15). The majority gave no merits decision. The concurrence explored BCO 38-3, 42-2, 43-1, and trial requirements (lines 31–343); the dissent argued lack of constitutional authority, inconsistency with ordination, and undermining of discipline (lines 345–482).",
+    "qualifications": "The disposition rests on jurisdictional/standing grounds, not acquittal or merits vindication. The case was designated an appeal, although the concurrence noted it might be treated as appeal or complaint (line 243). Post-renunciation proceedings were moot; the underlying conviction and 2005-1 decision were not overturned.",
+    "incorporated_decisions": "SJC 2005-1: full text not supplied; source states it rejected Chastain’s appeal and remains in effect (lines 15, 43, 89). The lower court’s January 8, 2005 judgment and May 9, 2006 action are described, not adopted as SJC rulings except as moot."
+  },
+  "source_limits": "The source includes the SJC’s two-sentence judgment, the concurrence, and the dissent; it does not include the full SJC 2005-1 decision, the full lower-court record, or any extended majority reasoning. Separate opinions are not adopted.",
+  "benchmark_examples": [
+    "A01: distinguish conviction, censure, dissolution, and suspension.",
+    "A20: a disposition label alone may not show practical effect; explain what remains in force."
+  ],
+  "scores": {
+    "concrete_dispute": 2,
+    "decision": 2,
+    "decisive_reason": 2,
+    "distinctive_value": 2,
+    "fidelity": 2,
+    "economy": 2
+  },
+  "score_reasons": {
+    "concrete_dispute": "Identifies the challenged action as Heritage Presbytery’s 2006 excommunication/deposition and Chastain’s renunciation.",
+    "decision": "States the sole operative disposition—appeal judicially out of order—plus mootness of later proceedings and persistence of SJC 2005-1.",
+    "decisive_reason": "Explains the adopted reason: Chastain’s May 8, 2006 renunciation of PCA jurisdiction.",
+    "distinctive_value": "Shows a jurisdictional/standing-based disposition without a merits ruling and distinguishes the separate concurrence and dissent.",
+    "fidelity": "Keeps the majority judgment, mootness rationale, incorporated 2005-1 result, and separate opinions distinct.",
+    "economy": "Retains issue, disposition, reason, and practical effect while noting only necessary separate-opinion context."
+  },
+  "verification_notes": "Rechecked the majority judgment at lines 13–15 and the vote at lines 19–29; confirmed the disposition is judicially out of order, not a merits dismissal, and that mootness applies to proceedings after May 8, 2006. Corrected the first_summary to avoid implying the excommunication/deposition merits were decided and to state that SJC 2005-1 remains in effect. Checked the dissent at lines 345–482 so its constitutional arguments are attributed to the minority, not the majority.",
+  "repair_needed": false,
+  "repair_notes": "No source or catalog defect identified."
+}

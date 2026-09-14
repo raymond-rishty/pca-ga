@@ -1,0 +1,50 @@
+{
+  "case_id": "2012-09",
+  "title": "Bennett v. Missouri Presbytery",
+  "matter_type": "complaint",
+  "final_dispositions": [
+    "administratively_out_of_order"
+  ],
+  "disposition_detail": "The SJC held Case 2012-09 administratively out of order for lack of standing; it reached no merits determination. Vote: 15 concurring, 2 dissenting, 1 disqualified, 1 not qualified, 1 recused, 4 absent.",
+  "first_summary": "The SJC held TE M. Jay Bennett’s complaint against Missouri Presbytery administratively out of order because he lacked standing, having been received into the OPC before filing with the SJC. The vote was 15 concurring, 2 dissenting, 1 disqualified, 1 not qualified, 1 recused, and 4 absent. No merits ruling or dissent rationale is stated.",
+  "summary": "The SJC held TE M. Jay Bennett’s complaint against Missouri Presbytery administratively out of order for lack of standing. Bennett was a PCA member when he complained to Presbytery on April 16, 2012, but was received by the OPC on April 28, 2012; when he filed with the SJC on August 16, 2012, he was no longer a PCA member. The SJC reached no merits issue. The vote was 15 concurring, 2 dissenting, 1 disqualified, 1 not qualified, 1 recused, and 4 absent; no dissent rationale is stated.",
+  "sources": [
+    {
+      "path": "cases/ga41_2013__2012-09.md",
+      "sha256": "cc1cd9fd0f1d70d47a59e91bbba19964c8b1f568bcb8047fe3d8d61e689443b5",
+      "locator": "lines 11–21 (printed pp. 615–616)",
+      "supports": "Adopted administrative out-of-order ruling, standing rationale, roll-call vote, and disqualification/recusal notes."
+    }
+  ],
+  "evidence_notes": {
+    "identity_and_adoption": "Case 2012-09, Bennett v. Missouri Presbytery, SJC at the 41st General Assembly. The adopted vote appears at line 17. Source: cases/ga41_2013__2012-09.md, sha256 cc1cd9fd0f1d70d47a59e91bbba19964c8b1f568bcb8047fe3d8d61e689443b5, lines 1–3, 11–17.",
+    "dispute": "The source states only that Bennett filed his original complaint with Missouri Presbytery on April 16, 2012, and filed with the SJC on August 16, 2012; it does not describe the underlying presbytery action. Lines 13.",
+    "outcomes_and_reasons": "SJC held the case administratively out of order because Bennett was received by the OPC on April 28, 2012 and therefore lacked standing to bring the SJC complaint on August 16, 2012. Line 13. No merits issue was decided.",
+    "qualifications": "Two dissents are recorded without stated reasons. The record also notes one disqualified member, one not qualified member, one voluntary recusal, and four absent members; the disqualification and recusal explanations appear at lines 19–21.",
+    "incorporated_decisions": "None identified; the ruling does not incorporate another decision by reference."
+  },
+  "source_limits": "The supplied record is a short administrative ruling. It does not describe the underlying complaint against Missouri Presbytery, any merits analysis, or the dissent’s reasoning. The vote and OMSJC disqualification/recusal notes are the only additional details.",
+  "benchmark_examples": [
+    "C20 — short-record example: keep a sparse administrative disposition unexplained beyond the source and do not invent a merits or mootness rationale.",
+    "C01 — preserve procedural and merits outcomes separately; here no merits outcome is available."
+  ],
+  "scores": {
+    "concrete_dispute": 1,
+    "decision": 2,
+    "decisive_reason": 2,
+    "distinctive_value": 2,
+    "fidelity": 2,
+    "economy": 2
+  },
+  "score_reasons": {
+    "concrete_dispute": "Identifies the standing dispute and filing dates, but the source never describes the underlying conduct complained of against Missouri Presbytery.",
+    "decision": "States the sole disposition—administratively out of order—and that no merits issue was reached.",
+    "decisive_reason": "Explains the adopted reason: Bennett lost PCA membership before filing with the SJC, so he lacked standing.",
+    "distinctive_value": "Preserves the useful standing rule that PCA membership at the time of the SJC complaint matters, even if the complainant was PCA when first complaining to Presbytery.",
+    "fidelity": "Keeps the adopted holding, vote, disqualification/recusal details, and absent dissent rationale distinct; no invented merits or separate-opinion reasoning.",
+    "economy": "Concise for a sparse record; every retained detail explains the standing ruling, vote, or source limits."
+  },
+  "verification_notes": "Rechecked lines 11–21 against the adopted ruling. Corrected first_summary by adding the original Presbytery complaint date (April 16, 2012), OPC reception date (April 28, 2012), and SJC filing date (August 16, 2012), which are the source’s actual standing basis. Rechecked the vote breakdown and confirmed no merits ruling or dissent rationale appears; confirmed no incorporated decision is present.",
+  "repair_needed": false,
+  "repair_notes": "None."
+}

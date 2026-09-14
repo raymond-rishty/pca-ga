@@ -1,0 +1,51 @@
+{
+  "case_id": "1996-06",
+  "title": "Williams v. South Texas Presbytery",
+  "matter_type": "complaint",
+  "final_dispositions": [
+    "dismissed",
+    "judicially_out_of_order"
+  ],
+  "disposition_detail": "The SJC approved the panel's action: the complaint was dismissed as judicially out of order, with no merits disposition. The source attributes the dismissal to the parties' inability to agree on the Record of the Case.",
+  "first_summary": "In Case 1996-06, the SJC approved the panel's dismissal of Robert Williams's complaint against South Texas Presbytery as judicially out of order because the parties could not agree on the Record of the Case. The underlying complaint and its merits are not described in the sparse source.",
+  "summary": "The Standing Judicial Commission approved the panel's action dismissing Robert Williams's complaint against South Texas Presbytery as judicially out of order. The adopted reason was that the parties could not agree on the Record of the Case. The source does not describe the challenged Presbytery action, the complaint's specifications, or any merits ruling.",
+  "sources": [
+    {
+      "path": "cases/ga27_1999__1996-06.md",
+      "sha256": "21946cba65a297edfab79a1269e9d66355744c26c2248504eaa370561d5aee79",
+      "locator": "lines 1–3, 9–11",
+      "supports": "Case identity, deciding body, disposition label, approval of panel action, dismissal ground, and complaint caption."
+    }
+  ],
+  "evidence_notes": {
+    "identity_and_adoption": "Lines 1–5 identify Case 1996-06, Williams v. South Texas Presbytery, SJC, 27th Assembly (1999); line 3 states disposition as dismissed judicially out of order; line 9 records approval of the panel's action. Source: cases/ga27_1999__1996-06.md, hash 21946cba65a297edfab79a1269e9d66355744c26c2248504eaa370561d5aee79.",
+    "dispute": "Line 11 identifies the Complaint of Robert Williams vs. South Texas Presbytery; the source does not state what Presbytery action was challenged or the complaint grounds.",
+    "outcomes_and_reasons": "Line 9 states the panel's action was approved, that the case was dismissed as judicially out of order, and that the parties could not agree on the Record of the Case. No merits outcome or additional reasoning is supplied.",
+    "qualifications": "The source is a very short status note. It contains no separate opinion, no merits analysis, and no list of complaint specifications; dismissal is not a merits acquittal.",
+    "incorporated_decisions": "Line 9 incorporates the panel's Case 96-6 action by reference. The supplied source gives only the incorporated result—dismissal as judicially out of order—and not the panel's reasoning."
+  },
+  "source_limits": "The supplied source does not identify the Presbytery action complained of, the complaint specifications, the panel's reasoning, or any record materials. It supports only a short status synopsis.",
+  "benchmark_examples": [
+    "C20 (short-record example: an unexplained or sparse disposition should remain unexplained rather than reconstructed).",
+    "C01 (example of preserving procedural outcomes and refused merits relief; not applicable here because no merits ruling appears)."
+  ],
+  "scores": {
+    "concrete_dispute": 1,
+    "decision": 2,
+    "decisive_reason": 2,
+    "distinctive_value": 1,
+    "fidelity": 2,
+    "economy": 2
+  },
+  "score_reasons": {
+    "concrete_dispute": "The source identifies the complaint and the procedural dispute over agreeing on the Record of the Case, but not the underlying challenged Presbytery conduct.",
+    "decision": "It states the material outcome: dismissal as judicially out of order, approved by the SJC.",
+    "decisive_reason": "It gives the adopted reason—failure of the parties to agree on the Record of the Case—without adding uncorroborated merits reasons.",
+    "distinctive_value": "It preserves the narrow procedural value: a complaint can be dismissed as judicially out of order when the parties cannot agree on the Record of the Case.",
+    "fidelity": "The synopsis separates the panel action, SJC approval, complaint caption, and absent merits ruling; it does not treat the dismissal as a merits determination.",
+    "economy": "Every retained detail relates to identity, dismissal, or the stated record-disagreement ground."
+  },
+  "verification_notes": "Rechecked line 3 for the disposition label, line 9 for the adopted approval and stated dismissal ground, and line 11 for the complaint caption. Corrected the first_summary to attribute the dismissal to the SJC's approval of the panel's action and to state expressly that the underlying merits are not disclosed. Confirmed final_dispositions as dismissed and judicially out of order rather than a merits verdict.",
+  "repair_needed": false,
+  "repair_notes": "No source or catalog defect identified; the supplied record is simply sparse."
+}

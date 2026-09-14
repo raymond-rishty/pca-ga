@@ -1,0 +1,52 @@
+{
+  "case_id": "2023-09",
+  "title": "Myers v. Illiana Presbytery",
+  "matter_type": "appeal",
+  "final_dispositions": [
+    "granted",
+    "reversed",
+    "remanded"
+  ],
+  "disposition_detail": "The SJC granted the appeal, reversed Presbytery’s deposition and excommunication action in whole, restored Myers to suspension from office and the Sacraments, and remanded for any further proceedings consistent with its required process.",
+  "first_summary": "An elder appealed Presbytery’s elevation, without additional process, of his suspensions from office and the Sacraments to deposition and excommunication. The SJC reversed the action and remanded, restoring his prior disciplinary status because due process was required before increasing the censures.",
+  "summary": "An elder appealed Presbytery’s elevation, without additional process, of suspensions from office and the Sacraments to deposition and excommunication. The SJC granted the appeal, reversed in whole, and remanded, restoring the prior suspensions. Elevation required a hearing on incorrigibility and contumacy—with a charge, evidence, plea, and defense—but not a full de novo trial; disagreement with the original verdict alone was insufficient. The SJC left unresolved deposition from office when excommunication is absent.",
+  "sources": [
+    {
+      "path": "cases/ga51_2024__2023-09.md",
+      "sha256": "f62f5d96583d976a8337f3602e84b81a5e5f0c8a05060316429e50e8455c5dcd",
+      "locator": "lines 13–25, 95–120, 174–274 (printed pp. 824–833)",
+      "supports": "Case identity, appeal, challenged elevation of censures, judgment, relief, governing process, and adoption vote."
+    }
+  ],
+  "evidence_notes": {
+    "identity_and_adoption": "Case number, caption, and decision date appear at lines 13–17; the SJC approved the decision 21–1 at line 274 (printed pp. 824, 833).",
+    "dispute": "Presbytery imposed deposition and excommunication without additional process; the stated appellate issue is at lines 95–105 (printed pp. 828–829).",
+    "outcomes_and_reasons": "The judgment reverses the action in whole, restores both prior suspensions, rejects full de novo process, and requires due process; lines 107–120 and 260–272 (printed pp. 829, 833). Remand is stated at lines 23–25 (printed p. 824).",
+    "qualifications": "The majority reserved elevation from suspension of office to deposition absent excommunication, line 23; it also held verdict disagreement is not per se incorrigibility or contumacy, line 120. Separate opinions favored full Rules of Discipline process, lines 283–398 and 404–922.",
+    "incorporated_decisions": "No decision was incorporated by reference. Dallison was cited as precedent but not adopted wholesale, lines 182–211 and 475–487."
+  },
+  "source_limits": "The source supplies the SJC decision and separate opinions but not the complete underlying trial record.",
+  "benchmark_examples": [
+    "A01",
+    "A19"
+  ],
+  "scores": {
+    "concrete_dispute": 2,
+    "decision": 2,
+    "decisive_reason": 2,
+    "distinctive_value": 2,
+    "fidelity": 2,
+    "economy": 2
+  },
+  "score_reasons": {
+    "concrete_dispute": "Identifies the process-free elevation of two suspensions to deposition and excommunication.",
+    "decision": "States grant, complete reversal, remand, and restoration of prior suspensions.",
+    "decisive_reason": "Explains that additional due process, but not a full de novo trial, was required.",
+    "distinctive_value": "Preserves the required hearing elements, verdict-disagreement limitation, and reserved question.",
+    "fidelity": "Distinguishes the adopted majority rule from separate opinions advocating full judicial process.",
+    "economy": "Retains only facts necessary to understand the issue, ruling, remedy, and limitation."
+  },
+  "verification_notes": "Rechecked the operative judgment and majority reasoning. The final summary adds the first summary’s omitted distinction that full de novo process was rejected, specifies the required hearing protections, and adds the expressly reserved office-deposition question.",
+  "repair_needed": false,
+  "repair_notes": ""
+}

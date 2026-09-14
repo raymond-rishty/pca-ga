@@ -1,0 +1,50 @@
+{
+  "case_id": "2005-05",
+  "title": "Witcher Memorial re: 2004-05 Blevins v. Westminster Presbytery",
+  "matter_type": "other",
+  "final_dispositions": [
+    "in_order",
+    "other"
+  ],
+  "disposition_detail": "Case 2005-05 was found in order, but SJC officers determined not to hear it. It is classified as “other” because the sparse record identifies a memorial but no governing procedural provision.",
+  "first_summary": "The Witcher Memorial concerning 2004-05 Blevins v. Westminster Presbytery was found in order but was not heard. The docket gives no reason and contains no merits ruling.",
+  "summary": "A memorial concerning 2004-05 Blevins v. Westminster Presbytery was found in order, but SJC officers decided not to hear it. The docket gives no reason and publishes no merits opinion; it therefore establishes procedural regularity and non-hearing, not a ruling on the memorial’s allegations or the underlying case.",
+  "sources": [
+    {
+      "path": "cases/ga34_2006__stub_2005-05.md",
+      "sha256": "4d965453649f7d17ed94d342580fa805ad3174d5f0ec66e96745b95d9505e8ad",
+      "locator": "lines 1–7, 11–13 (GA report p. 84)",
+      "supports": "Case identity, SJC status, finding that the case was in order, officers’ decision not to hear it, and absence of a published merits opinion."
+    }
+  ],
+  "evidence_notes": {
+    "identity_and_adoption": "Lines 1–3 identify case 2005-05, its title, and the Standing Judicial Commission; line 13 lists it among judicial cases.",
+    "dispute": "Lines 1 and 13 identify only a Witcher Memorial concerning 2004-05 Blevins v. Westminster Presbytery; no allegations or challenged action are stated.",
+    "outcomes_and_reasons": "Line 13 says the case was found in order but SJC officers determined not to hear it; no reason is supplied.",
+    "qualifications": "Lines 3 and 7 state “In order; not heard” and that no separate merits opinion was published.",
+    "incorporated_decisions": "The title references case 2004-05, but lines 1–13 neither incorporate nor state that case’s decision."
+  },
+  "source_limits": "The source is a short docket/report entry. It does not state the memorial’s grounds, procedural authority, reason for non-hearing, requested relief, or underlying case result.",
+  "benchmark_examples": [
+    "B08"
+  ],
+  "scores": {
+    "concrete_dispute": 0,
+    "decision": 2,
+    "decisive_reason": 2,
+    "distinctive_value": 2,
+    "fidelity": 2,
+    "economy": 2
+  },
+  "score_reasons": {
+    "concrete_dispute": "The record does not describe the memorial’s substantive challenge.",
+    "decision": "The synopsis preserves both the in-order finding and the decision not to hear the case.",
+    "decisive_reason": "It accurately states that no reason was given.",
+    "distinctive_value": "It distinguishes procedural regularity from a merits ruling.",
+    "fidelity": "It attributes the non-hearing decision specifically to SJC officers and does not infer a merits outcome.",
+    "economy": "Only facts needed to explain the sparse procedural result are retained."
+  },
+  "verification_notes": "Rechecked line 13 for actor and sequence. The final summary clarifies that SJC officers made the non-hearing decision and that the in-order finding was not a merits ruling.",
+  "repair_needed": false,
+  "repair_notes": "No source or catalog defect identified; the underlying case is referenced but not incorporated as the basis of this disposition."
+}

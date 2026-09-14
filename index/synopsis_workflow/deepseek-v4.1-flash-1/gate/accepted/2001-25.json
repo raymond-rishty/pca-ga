@@ -1,0 +1,50 @@
+{
+  "case_id": "2001-25",
+  "title": "Complaint of TE Anthony Dallison vs. North Florida Presbytery",
+  "matter_type": "complaint",
+  "final_dispositions": [
+    "not_sustained"
+  ],
+  "disposition_detail": "Issue 1: Did North Florida Presbytery err by deposing Dallison and suspending him from the sacraments without fresh process? No. Issue 2: Did it err by determining him impenitent and increasing the censure? No. The complaint was denied/not sustained.",
+  "first_summary": "TE Anthony Dallison complained that North Florida Presbytery deposed him and suspended him from the sacraments without a new trial after his earlier confession of spousal abuse. The SJC held that the presbytery acted within its disciplinary authority and denied the complaint.",
+  "summary": "After TE Anthony Dallison confessed spousal abuse and received an indefinite suspension, North Florida Presbytery later found him impenitent and deposed him and suspended him from the sacraments. Dallison complained that increasing the censure required fresh charges and trial. The SJC disagreed: his BCO 38-1 confession waived trial rights as to the original charge; the offender then had to satisfy the court of repentance, and the presbytery could investigate and impose higher censure under BCO 37-3, 37-4, 37-8, and 34-4b. The complaint was not sustained.",
+  "sources": [
+    {
+      "path": "cases/ga30_2002__2001-25.md",
+      "sha256": "4c33c27368a5a3643155c1a3bba972801338f8b126bf0e9a833d33b330fdebb6",
+      "locator": "lines 1-3, 14, 61-71, 77-118",
+      "supports": "Case identity and adopted disposition; statement of issues; judgment; reasoning and opinion; adoption roll call."
+    }
+  ],
+  "evidence_notes": {
+    "identity_and_adoption": "SJC Case 2001-25, 30th General Assembly (2002); title and disposition at lines 1-3; case heading at line 14; adoption/roll call at line 118 shows 15 concurred, 0 dissented, 4 disqualified, 5 absent.",
+    "dispute": "Dallison challenged North Florida Presbytery's Jan. 12, 2001 action deposing him from the teaching office and suspending him from the sacraments without fresh process after his 1997 confession of spousal abuse; issues stated at lines 61-65, with complaint history at lines 55-59.",
+    "outcomes_and_reasons": "Judgment answers both issues No at lines 67-71; reasoning at lines 77-114 holds that Dallison's confession waived trial rights as to the original charge, that the offender bears the burden to show repentance, and that the presbytery could investigate and impose higher censure under BCO 37-3, 37-4, 37-8, and 34-4b; complaint denied at line 114.",
+    "qualifications": "The 1997 Central Florida censure is stated not to be at issue and cannot be reconsidered (line 77); the presbytery did not proffer new charges (lines 95-99); roll call shows no dissent but four disqualified and five absent (line 118).",
+    "incorporated_decisions": "No separate incorporated decision is supplied; the 1997 Central Florida censure is described as historical and not under review (lines 20-27, 77)."
+  },
+  "source_limits": "Only the adopted GA case text is supplied. The ROC and lower-court record are cited but not included, so the investigation facts appear only as summarized in the adopted opinion. No separate concurrence or dissent is present.",
+  "benchmark_examples": [
+    "C01 (Allin v. Tennessee Valley Presbytery): preserve each material issue-level result; here both issues were resolved against the complainant, so the synopsis states each No.",
+    "C20 (Daniels v. Nashville Presbytery): do not supply reasons the adopted ruling did not give; here the adopted reasons are stated and are summarized only from the judgment and opinion."
+  ],
+  "scores": {
+    "concrete_dispute": 2,
+    "decision": 2,
+    "decisive_reason": 2,
+    "distinctive_value": 2,
+    "fidelity": 2,
+    "economy": 2
+  },
+  "score_reasons": {
+    "concrete_dispute": "Identifies the challenged presbytery action: deposition and sacramental suspension without fresh process after a confessed offense.",
+    "decision": "States that both issues were answered No and that the complaint was denied/not sustained.",
+    "decisive_reason": "Explains the adopted reasoning: confession waived trial rights as to the original charge, offender bears the repentance burden, and higher censure was within presbytery authority.",
+    "distinctive_value": "Preserves the rule that a confessed offender may be subjected to increased censure without new charges or trial, based on investigation and disciplinary discretion.",
+    "fidelity": "Distinguishes the historical 1997 Central Florida censure from the challenged 2001 North Florida action and treats the adopted opinion and vote as the operative judgment.",
+    "economy": "Uses only details needed to explain the dispute, ruling, decisive BCO basis, and procedural outcome."
+  },
+  "verification_notes": "Rechecked lines 61-71 and 77-114: corrected the first_summary's general statement that the presbytery 'acted within its disciplinary authority' by specifying that Dallison's BCO 38-1 confession waived trial rights as to the original charge and that increased censure did not require fresh process; added the BCO 37-3, 37-4, 37-8, and 34-4b basis and the offender's repentance burden. Confirmed the 1997 Central Florida censure was not at issue (line 77), no new charges were proffered (lines 95-99), and the adopted vote was 15 concurring, 0 dissenting, 4 disqualified, 5 absent (line 118). No material incorporated result was missing.",
+  "repair_needed": false,
+  "repair_notes": ""
+}

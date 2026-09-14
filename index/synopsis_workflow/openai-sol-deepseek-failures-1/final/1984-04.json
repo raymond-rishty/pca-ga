@@ -1,0 +1,50 @@
+{
+  "case_id": "1984-04",
+  "title": "TE Carl W. Bogue, et al. v. Presbytery of Ascension",
+  "matter_type": "complaint",
+  "final_dispositions": [
+    "partially_sustained"
+  ],
+  "disposition_detail": "Specifications of continued noncompliance and constitutional violation were sustained; contumacy was not sustained; recommendations for remedial action were adopted.",
+  "first_summary": "The complainants challenged Ascension Presbytery’s resolution refusing to comply with directions from the Eleventh General Assembly concerning an ordination examination. The case record reports that continued noncompliance and constitutional violation were sustained, but contumacy was not sustained, and remedial recommendations were adopted.",
+  "summary": "Ascension Presbytery was challenged for resolving not to comply with prior General Assembly directions concerning an ordination examination. The case was sustained as to continued noncompliance and constitutional violation, but not as to contumacy; remedial recommendations were adopted. The supplied text contains the complaint rather than the operative judgment, so it does not disclose the adjudicative reasoning or the specific remedial measures.",
+  "sources": [
+    {
+      "path": "cases/ga12_1984__case5.md",
+      "sha256": "e941d553506356d8d35b13e166b86f5b5bd19cedd20dc8f4cc28c3f99ed56b52",
+      "locator": "lines 1–5, 13–15, 19–25, 43–65; printed pp. 169–171",
+      "supports": "Case identity, complaint posture, challenged refusal to comply, prior Assembly directions, requested redress, and reported disposition."
+    }
+  ],
+  "evidence_notes": {
+    "identity_and_adoption": "The heading identifies Bogue et al. v. Presbytery of Ascension and the CJB/12th Assembly; the complaint caption appears at lines 1–5 and 13–15 (printed p. 169).",
+    "dispute": "The complaint attacks Presbytery’s March 10, 1984 resolution refusing compliance with specified directions from the Eleventh General Assembly (lines 15, 19–25, 43–49; printed pp. 169–170).",
+    "outcomes_and_reasons": "The source header reports that noncompliance and constitutional-violation specifications were sustained, contumacy was not sustained, and remedial recommendations were adopted (line 3). No operative reasoning appears.",
+    "qualifications": "The contumacy allegation failed even though the other specifications succeeded; the specific remedy is omitted (line 3).",
+    "incorporated_decisions": "The complaint describes the Eleventh General Assembly’s earlier annulment and corrective directions in Judicial Case #2 (lines 19–25), but that incorporated decision is not supplied."
+  },
+  "source_limits": "The file reproduces the complaint and a catalog-style disposition header, but omits the operative judgment, its reasoning, and the adopted remedial recommendations.",
+  "benchmark_examples": [
+    "C01",
+    "C02"
+  ],
+  "scores": {
+    "concrete_dispute": 2,
+    "decision": 2,
+    "decisive_reason": 1,
+    "distinctive_value": 1,
+    "fidelity": 2,
+    "economy": 2
+  },
+  "score_reasons": {
+    "concrete_dispute": "Identifies Presbytery’s refusal to comply with prior Assembly directions.",
+    "decision": "States both sustained specifications, the failed contumacy claim, and adoption of remedial recommendations.",
+    "decisive_reason": "Faithfully notes that the operative reasoning is absent.",
+    "distinctive_value": "Preserves the distinction between unconstitutional noncompliance and unproven contumacy.",
+    "fidelity": "Separates complainants’ allegations from the disposition reported only in the header.",
+    "economy": "Includes only the dispute, mixed result, remedy status, and source limitation."
+  },
+  "verification_notes": "Rechecked the complaint’s challenged action at lines 15 and 43–49 and the disposition at line 3. The final summary was qualified to avoid attributing the complainants’ arguments as adopted reasoning and to note that the remedial measures are unavailable.",
+  "repair_needed": true,
+  "repair_notes": "The operative judgment and adopted remedial recommendations are missing; the earlier Judicial Case #2 incorporated into the dispute is also not supplied."
+}

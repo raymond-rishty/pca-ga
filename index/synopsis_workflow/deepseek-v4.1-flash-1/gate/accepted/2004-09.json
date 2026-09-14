@@ -1,0 +1,51 @@
+{
+  "case_id": "2004-09",
+  "title": "Appeal of RE Scott Robar v. Central Carolina Presbytery",
+  "matter_type": "appeal",
+  "final_dispositions": [
+    "judicially_out_of_order",
+    "dismissed"
+  ],
+  "disposition_detail": "Adopted: the SJC found Case 2004-9 judicially out of order because it was not properly filed under BCO 42-4; the appeal was therefore dismissed without merits review. Vote: 17 concurring, 4 dissenting, 2 recused, 1 absent. The four dissenters would excuse the filing defect because the presbytery clerk gave incorrect advice, Robar relied on it, and Presbytery requested that the appeal be considered timely, citing Plowman as comparable.",
+  "first_summary": "The SJC dismissed RE Robar's appeal from Central Carolina Presbytery because he filed his notice of appeal with the presbytery's clerk but not with the General Assembly's stated clerk under BCO 42-4. The dissent argued that the presbytery clerk's bad advice and Presbytery's request to treat the appeal as timely should excuse the defect.",
+  "summary": "The SJC found RE Scott Robar's appeal from Central Carolina Presbytery judicially out of order and dismissed it because he filed his notice of appeal only with Presbytery's stated clerk, not also with the General Assembly's stated clerk as BCO 42-4 requires. No merits review of his conviction occurred. Four commissioners dissented, arguing that the presbytery clerk's admittedly incorrect advice, Robar's reliance, and Presbytery's request to treat the appeal as timely should excuse the filing defect under the Plowman precedent and equity or estoppel principles.",
+  "sources": [
+    {
+      "path": "cases/ga33_2005__2004-09.md",
+      "sha256": "79620771388055a5b5ee223140e77b5d9198e9ff59bee4b7f1e12ec1f43a0dab",
+      "locator": "lines 1–3, 13–19, 25–54; printed pp. 144–146",
+      "supports": "Case identity, stated disposition, SJC vote, operative judicial out-of-order ruling, and dissenting reasons."
+    }
+  ],
+  "evidence_notes": {
+    "identity_and_adoption": "Lines 1–3, 13–19: SJC Judicial Case 2004-9, 33rd General Assembly (2005), adopted by the SJC; the header states disposition dismissed and dissent yes, and the operative text records the SJC action and vote.",
+    "dispute": "Lines 17, 27: Robar had been found guilty by Central Carolina Presbytery; he filed a notice of appeal with Presbytery's stated clerk but not with the General Assembly's stated clerk, as BCO 42-4 requires. Presbytery's clerk confirmed erroneous advice and Presbytery asked that the appeal be treated as timely.",
+    "outcomes_and_reasons": "Line 17: the SJC concurred in finding the case judicially out of order because it was not properly filed under BCO 42-4; no merits ruling appears. Line 19 records the vote. Lines 25–54 give the dissent's reliance on bad advice, Plowman, equity, and Presbytery's request.",
+    "qualifications": "Lines 19, 25–54: four commissioners dissented; two were recused and one was absent. The only reasoning supplied is the BCO 42-4 filing defect and the dissent; there is no discussion of the underlying conviction's merits. The Plowman reference appears only in dissent.",
+    "incorporated_decisions": "None adopted. The dissent cites Judicial Case 2002-5 (Refiled), Complaint of Nancy J. Plowman v. Philadelphia Presbytery, 32 Gen. Assem. Minutes, p. 59, but the majority did not incorporate or apply that decision."
+  },
+  "source_limits": "The supplied record is sparse: it contains the SJC action and vote plus a dissenting opinion, but not the lower-court record, a fuller majority opinion, or the full Plowman decision. The header labels the disposition dismissed, while the operative text identifies the case as judicially out of order under BCO 42-4.",
+  "benchmark_examples": [
+    "A20 — the dismissal/out-of-order label does not fully convey effect; here it denied appellate merits review on a filing defect.",
+    "A01 — distinguishes conviction, censure, and procedural disposition; here the appeal was not heard on the merits of the conviction."
+  ],
+  "scores": {
+    "concrete_dispute": 2,
+    "decision": 2,
+    "decisive_reason": 2,
+    "distinctive_value": 2,
+    "fidelity": 2,
+    "economy": 2
+  },
+  "score_reasons": {
+    "concrete_dispute": "Identifies the challenged lower-court conviction and the specific filing defect that defeated Robar's appeal.",
+    "decision": "States the SJC's judicial out-of-order/dismissal ruling, the absence of merits review, and the dissent's position.",
+    "decisive_reason": "Explains the adopted ground: failure to file the notice of appeal with both required clerks under BCO 42-4.",
+    "distinctive_value": "Preserves the tension between strict BCO 42-4 filing and the dissent's bad-advice, reliance, and Plowman arguments.",
+    "fidelity": "Separates the adopted SJC action from the dissenting opinion, metadata label, and lower-court conviction.",
+    "economy": "Uses only details needed to explain the dispute, procedural result, and dissent."
+  },
+  "verification_notes": "Rechecked lines 1–3, 13–19, and 25–54. Corrected the first summary's bare dismissed language to reflect that the operative adopted action was a judicial out-of-order finding under BCO 42-4, with dismissal as the procedural effect. Rechecked that Plowman is cited only in dissent, not incorporated by the majority. Rechecked the vote: 17 concurring, 4 dissenting, 2 recused, 1 absent. Confirmed no source conflict requiring repair.",
+  "repair_needed": false,
+  "repair_notes": "No source or catalog defect identified; the header's dismissed label and the operative judicial out-of-order ruling are consistent with the record."
+}

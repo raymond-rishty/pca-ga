@@ -1,0 +1,68 @@
+{
+  "case_id": "2020-08",
+  "title": "2020-08 — TEs Gendall, Hightower & Lien v. Pacific Presbytery",
+  "matter_type": "complaint",
+  "final_dispositions": [
+    "sustained"
+  ],
+  "disposition_detail": "The SJC sustained the 2020-08 complaint and answered it by reference to its decision in Case No. 2020-07. That incorporated decision sustained Wilbourne's complaint, annulled his deposition, and recommended treating his 17-month suspension as sufficient definite suspension. No separate merits analysis or independent censure annulment was issued for 2020-08.",
+  "first_summary": "The SJC sustained the complaint of TEs Gendall, Hightower, and Lien against Pacific Presbytery. The complaint alleged that Presbytery mishandled a BCO 38-1 confession by TE Rankin Wilbourne, including by allowing a prejudicial Judicial Commission report before the agreed statement of facts. The SJC answered the 2020-08 complaint by reference to its decision in Case 2020-07, which sustained Wilbourne's complaint and annulled his deposition.",
+  "summary": "The SJC sustained the complaint of TEs Gendall, Hightower, and Lien against Pacific Presbytery's handling of a BCO 38-1 confession by TE Rankin Wilbourne. Presbytery had denied the complaint. The SJC held that reading a prejudicial six-page judicial-commission report before the agreed statement of facts violated BCO 38-1 and tainted the censure. It answered the 2020-08 complaint by reference to its decision in Case 2020-07, which annulled Wilbourne's deposition and recommended treating his 17-month suspension as sufficient definite suspension.",
+  "sources": [
+    {
+      "path": "cases/ga49_2022__2020-09.md",
+      "sha256": "b1dab4f156d35f7d3866c4f8babaa9910a92a4a3b13b63544806adb8f4f8a140",
+      "locator": "lines 1, 13, 192 (printed pp. 687, 696)",
+      "supports": "Identity and caption: combined 2020-07/2020-08/2020-09 matter; Case 2020-08 is identified as TEs Gendall, Hightower & Lien."
+    },
+    {
+      "path": "cases/ga49_2022__2020-09.md",
+      "sha256": "b1dab4f156d35f7d3866c4f8babaa9910a92a4a3b13b63544806adb8f4f8a140",
+      "locator": "lines 156–182 (printed pp. 693–695)",
+      "supports": "Dispute: 2020-08 complaint grounds and Presbytery's denial."
+    },
+    {
+      "path": "cases/ga49_2022__2020-09.md",
+      "sha256": "b1dab4f156d35f7d3866c4f8babaa9910a92a4a3b13b63544806adb8f4f8a140",
+      "locator": "lines 212–228, 367–373 (printed pp. 696–697, 702)",
+      "supports": "Outcome: issue framed; SJC sustained and answered 2020-08 by reference to 2020-07; roll-call adoption."
+    },
+    {
+      "path": "cases/ga49_2022__2020-09.md",
+      "sha256": "b1dab4f156d35f7d3866c4f8babaa9910a92a4a3b13b63544806adb8f4f8a140",
+      "locator": "lines 218, 242–262, 367 (printed pp. 697–698, 702)",
+      "supports": "Incorporated relief: Case 2020-07 sustained, deposition annulled, 17-month suspension treated as definite suspension, matter recommended closed."
+    }
+  ],
+  "evidence_notes": {
+    "identity_and_adoption": "Source is a combined decision for Cases 2020-07, 2020-08, and 2020-09 (line 1). Case 2020-08 is identified at line 192 as TEs Gendall, Hightower & Lien. The Panel decision was drafted by RE Howie Donahoe, amended and unanimously approved by the Panel, further amended by the full SJC, and adopted 19-0-0 (lines 369–373).",
+    "dispute": "The 2020-08 complaint alleged six constitutional concerns about Pacific Presbytery's BCO 38-1 process, including BCO 40-4, 38-1, 34-7, 32-20, 27-5 & 31-5, and 31-8 (lines 156–178). Presbytery denied the complaint 13-21 on July 18, 2020 (line 182), and the complainants carried it to the SJC on August 4, 2020 (line 184).",
+    "outcomes_and_reasons": "The SJC asked whether Presbytery clearly erred in handling a BCO 38-1 case without process and in the prior BCO 31-2 investigation (lines 212–214). It held yes because the six-page Judicial Commission report contained new and prejudicial assertions beyond the agreed statement, violating BCO 38-1 (lines 220–241). The operative final line states that the 2020-08 complaint is sustained and answered by reference to the decision (line 367).",
+    "qualifications": "The detailed merits discussion and censure relief are expressly framed for Case 2020-07; 2020-08 is disposed by reference. The SJC did not separately re-annul a censure in 2020-08. The roll call shows several absent members and one disqualification, with the decision approved 19-0-0 (lines 371–373).",
+    "incorporated_decisions": "Case 2020-07 is incorporated by reference within the same source: the SJC sustained Wilbourne's complaint, annulled the deposition, recommended treating the past 17-month suspension as definite suspension, stated no further censure or indictment was recommended, and recommended Presbytery consider the matter closed (lines 218, 242–262, 367)."
+  },
+  "source_limits": "The source is a combined three-complaint decision. Case 2020-08's own complaint is summarized but not separately argued in the reasoning; the SJC applies the 2020-07 analysis by reference. The synopsis therefore treats the 2020-07 censure relief as incorporated by reference and does not infer separate rulings on each of the six 2020-08 constitutional concerns. The source heading at line 13 names only Case 2020-09, while Case 2020-08 appears at line 192 and is disposed at line 367.",
+  "benchmark_examples": [
+    "C01 Allin: preserve procedural errors and mixed or unsuccessful claims rather than collapsing them into one result.",
+    "C20 Daniels: do not supply a rationale that the adopted ruling does not contain."
+  ],
+  "scores": {
+    "concrete_dispute": 2,
+    "decision": 2,
+    "decisive_reason": 2,
+    "distinctive_value": 2,
+    "fidelity": 2,
+    "economy": 2
+  },
+  "score_reasons": {
+    "concrete_dispute": "Identifies the challenged conduct: Pacific Presbytery's handling of the BCO 38-1 confession and the prejudicial report.",
+    "decision": "States the material outcome for 2020-08—sustained and answered by reference—and preserves the incorporated 2020-07 relief.",
+    "decisive_reason": "Explains the adopted reason: the six-page report introduced prejudicial material beyond the agreed statement, violating BCO 38-1.",
+    "distinctive_value": "Captures the useful rule that a BCO 38-1 court should see only the agreed statement before censure, plus the by-reference disposition.",
+    "fidelity": "Keeps the 2020-08 disposition distinct from the 2020-07 censure annulment and notes the by-reference incorporation.",
+    "economy": "Includes only details needed to identify the dispute, the shared BCO 38-1 error, and the practical result."
+  },
+  "verification_notes": "Rechecked line 367 to confirm the operative 2020-08 disposition is 'sustained and answered by reference,' not 'referred.' Rechecked lines 218 and 242–262 to separate Case 2020-07's annulment of deposition from Case 2020-08's by-reference disposition. Confirmed adoption, amendment, and 19-0-0 vote at lines 369–373. Corrected the first summary so it does not state that the SJC separately annulled a censure in Case 2020-08.",
+  "repair_needed": false,
+  "repair_notes": "None."
+}

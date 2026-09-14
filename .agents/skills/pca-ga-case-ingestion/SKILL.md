@@ -23,6 +23,12 @@ derived index.
 
 ## Complete the case artifacts
 
+When writing or revising editorial synopses, use
+[pca-ga-case-synopses](../pca-ga-case-synopses/SKILL.md) for the source checks,
+benchmark examples, and scoring rubric. Its drafting workflow supplements the
+ingestion requirements below; it does not replace the case text or complete
+the dependent-output updates.
+
 For every docket, update all of these:
 
 - `cases/*.md`: accurate caption, court, deciding Assembly, disposition,

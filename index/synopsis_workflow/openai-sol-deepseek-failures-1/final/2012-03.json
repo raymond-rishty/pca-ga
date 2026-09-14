@@ -1,0 +1,64 @@
+{
+  "case_id": "2012-03",
+  "title": "Appeal of TE Charles Tarter vs. Evangel Presbytery",
+  "matter_type": "appeal",
+  "final_dispositions": [
+    "partially_sustained",
+    "vacated",
+    "remanded"
+  ],
+  "disposition_detail": "Specifications 2, 3, 4, 5, and 9 were sustained; specifications 1, 6, and 7 were not sustained; specification 8 repeated part of specification 2. The censure was vacated, and the case was remanded for constitutionally compliant proceedings or dismissal.",
+  "first_summary": "A teaching elder appealed his conviction and deposition for failing to submit to Presbytery. The SJC held that Presbytery’s committee lacked authority to impose several requirements, found due-process and evidentiary defects, vacated the censure, and remanded for further proceedings or dismissal.",
+  "summary": "A teaching elder appealed his judgment and deposition for refusing Presbytery committee directives and allegedly avoiding accountability. The SJC sustained five of nine specifications, holding that the committee could not impose requirements lacking constitutional warrant or control an independent mission board; vague allegations and testimony unavailable for cross-examination also impaired the trial. Because the record did not prove an ongoing pattern of insubordination, it vacated the censure and remanded for a constitutionally compliant proceeding or dismissal. Three specifications failed, while one duplicated another.",
+  "sources": [
+    {
+      "path": "cases/ga42_2014__2012-03.md",
+      "sha256": "fe11b45261239cf95e7abc9d483f7b2de8b8e4c66c8ed1dcf2086849a3df74dd",
+      "locator": "lines 61–68; printed pp. 541–542",
+      "supports": "Issue, judgment, and remand."
+    },
+    {
+      "path": "cases/ga42_2014__2012-03.md",
+      "sha256": "fe11b45261239cf95e7abc9d483f7b2de8b8e4c66c8ed1dcf2086849a3df74dd",
+      "locator": "lines 71–115; printed pp. 542–544",
+      "supports": "Specification-level outcomes, adopted reasons, vacatur, and possible further proceedings."
+    },
+    {
+      "path": "cases/ga42_2014__2012-03.md",
+      "sha256": "fe11b45261239cf95e7abc9d483f7b2de8b8e4c66c8ed1dcf2086849a3df74dd",
+      "locator": "lines 117–123; printed p. 544",
+      "supports": "Authorship, adoption, vote, and recusals or disqualification."
+    }
+  ],
+  "evidence_notes": {
+    "identity_and_adoption": "Case heading identifies Case 2012-03 and the parties; the full SJC adopted the amended decision (lines 13, 117–119; printed pp. 539, 544).",
+    "dispute": "The appeal challenged Presbytery’s approval of its commission’s judgment against Tarter (lines 43–67; printed pp. 540–541).",
+    "outcomes_and_reasons": "Specifications 2–5 and 9 were sustained; 1, 6, and 7 failed; 8 duplicated specification 2. The censure was vacated and the matter remanded for compliant process or dismissal (lines 71–115; printed pp. 542–544).",
+    "qualifications": "The SJC allowed that a sufficiently detailed indictment and compliant examination might produce a different record; it did not require dismissal (lines 109–115; printed pp. 543–544).",
+    "incorporated_decisions": "No external decision was incorporated by reference."
+  },
+  "source_limits": "The supplied decision summarizes the record but does not reproduce the complete trial record or indictment.",
+  "benchmark_examples": [
+    "A01",
+    "A03"
+  ],
+  "scores": {
+    "concrete_dispute": 2,
+    "decision": 2,
+    "decisive_reason": 2,
+    "distinctive_value": 2,
+    "fidelity": 2,
+    "economy": 2
+  },
+  "score_reasons": {
+    "concrete_dispute": "Identifies the committee directives and alleged pattern of avoiding accountability.",
+    "decision": "States the sustained, unsuccessful, and duplicative specifications, vacatur, and remand options.",
+    "decisive_reason": "Explains the committee’s lack of authority, trial defects, and insufficient proof.",
+    "distinctive_value": "Preserves the limits on committee authority and the possibility of a constitutionally compliant new proceeding.",
+    "fidelity": "Separates the lower commission’s judgment from the SJC’s adopted holdings and qualifications.",
+    "economy": "Retains only facts needed to understand the dispute, mixed outcome, and remedy."
+  },
+  "verification_notes": "Rechecked the operative judgment and reasoning. The final summary adds the unsuccessful and duplicative specifications, clarifies that only the censure is expressly vacated, and preserves Presbytery’s choice between compliant proceedings and dismissal.",
+  "repair_needed": false,
+  "repair_notes": ""
+}

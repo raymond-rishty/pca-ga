@@ -1,0 +1,51 @@
+{
+  "case_id": "2009-06",
+  "title": "James Bordwine et al. v. Pacific Northwest Presbytery",
+  "matter_type": "complaint",
+  "final_dispositions": [
+    "sustained",
+    "remanded"
+  ],
+  "disposition_detail": "Complaint sustained. The SJC held that Pacific Northwest Presbytery erred by declaring TE Peter Leithart's views were not out of accord with the Standards, but the SJC did not grant complainants' request for a declaration that those views were out of accord. The case was remanded to PNW with instructions to proceed according to the Reasoning and Opinion, including possible pastoral counsel under BCO 31-7 and, if that advice failed before the Fall Stated Meeting, compliance with BCO 31-2.",
+  "first_summary": "Pacific Northwest Presbytery found TE Peter Leithart's views not out of accord with the fundamentals of the system of doctrine. The SJC sustained the complaint, holding PNW erred by making that negative declaration without formal judicial process; complainants were not entitled to a declaration that his views were out of accord. The matter was remanded for further action, including possible pastoral counsel and BCO 31-2 compliance.",
+  "summary": "Pacific Northwest Presbytery adopted a report finding TE Peter Leithart's views not out of accord with the fundamentals of the system of doctrine. The SJC sustained a complaint, holding PNW erred because, without formal judicial process, it lacked authority to declare either that the views were out of accord or that they were not. The record still suggested a strong presumption of guilt. The SJC refused complainants' affirmative declaration and remanded with directions for pastoral counsel under BCO 31-7 and possible BCO 31-2 compliance.",
+  "sources": [
+    {
+      "path": "cases/ga38_2010__2009-06.md",
+      "sha256": "d41ff1ad572994cc7302b743731689319dc55f22597086c52de2a7424764b038",
+      "locator": "lines 1–3, 13, 88–92, 96–112",
+      "supports": "Canonical case identity, SJC/38th GA posture, complaint issue, judgment, adopted reasoning, and remand directions."
+    }
+  ],
+  "evidence_notes": {
+    "identity_and_adoption": "Case 2009-06, James Bordwine et al. v. Pacific Northwest Presbytery, before the Standing Judicial Commission, 38th General Assembly (2010), disposition sustained and dissent noted: lines 1–3, 13. Decision amended by full SJC: line 114; roll call: lines 118–122.",
+    "dispute": "PNW adopted a committee report finding TE Leithart's views not out of accord with the fundamentals of the system of doctrine; complainants alleged PNW erred by rejecting the Minority Report and affirming that negative finding: lines 60–68, 82–84. Issue: whether PNW erred in handling the reports: line 88.",
+    "outcomes_and_reasons": "Judgment: complaint sustained and case sent back to PNW: line 92. Reasoning: record suggested conflict and strong presumption of guilt, but without formal process PNW could not definitively declare the views out of accord or not out of accord; complainants were not entitled to an affirmative declaration: lines 96–102. Remand directives under BCO 31-7 and BCO 31-2: lines 104–112.",
+    "qualifications": "Separate concurrence would have made stronger findings: lines 124–214. Dissent by Duncan would have required judicial process on a strong presumption of guilt: lines 216–316. Donahoe's Objection, not a vote, criticizes partial denial and the majority's analysis: lines 318–624. These are not adopted majority reasons.",
+    "incorporated_decisions": "The majority does not adopt another decision's result. Prior SJC Case 2007-8, Jones v. Louisiana Presbytery, is quoted in the concurrence and dissent as precedent, and the Objection lists prior cases; no incorporated result supplies this disposition: lines 138–150, 234–246, 532–564."
+  },
+  "source_limits": "The supplied source contains the SJC decision, concurring opinion, dissenting opinion, and an objection; it does not include the underlying committee reports, Leithart's response, complaint filings, or the full record. The synopsis relies on the SJC's stated facts and adopted reasoning, not on separate opinions for the disposition.",
+  "benchmark_examples": [
+    "C01 Allin v. Tennessee Valley Presbytery: preserve both procedural errors and unsuccessful substantive claims in a complaint synopsis.",
+    "C02 Turner v. South Florida Presbytery: distinguish legitimate investigation from censure or judgment requiring formal judicial process."
+  ],
+  "scores": {
+    "concrete_dispute": 2,
+    "decision": 2,
+    "decisive_reason": 2,
+    "distinctive_value": 2,
+    "fidelity": 2,
+    "economy": 2
+  },
+  "score_reasons": {
+    "concrete_dispute": "Identifies PNW's adoption of the committee report finding Leithart's views not out of accord as the challenged action.",
+    "decision": "States the sustained complaint, the remand, and the refused affirmative declaration that the views were out of accord.",
+    "decisive_reason": "Explains the adopted reason: without formal judicial process, PNW could not make a definitive negative or positive declaration about the views.",
+    "distinctive_value": "Preserves the limit on presbytery declarations and the mixed relief: error in negative declaration but no affirmative declaration for complainants.",
+    "fidelity": "Keeps the formal judgment, adopted reasoning, and separate opinions distinct; does not treat concurrence, dissent, or objection as the decision.",
+    "economy": "Each retained detail explains the dispute, holding, remedy, or limitation."
+  },
+  "verification_notes": "Rechecked line 92 formal judgment ('Complaint is sustained' and 'sent back to PNW'), lines 96–112 adopted reasoning and directives, and lines 100–102 refusal of an affirmative declaration. Corrected the first_summary framing to state the formal disposition as sustained and remanded, not partially sustained, while preserving the refused affirmative relief. Confirmed separate opinions, roll call, dissent, and objection status at lines 114–122, 124–214, 216–316, and 318–624.",
+  "repair_needed": false,
+  "repair_notes": "No source or catalog defect found."
+}

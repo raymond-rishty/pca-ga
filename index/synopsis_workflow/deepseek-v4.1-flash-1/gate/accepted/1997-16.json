@@ -1,0 +1,50 @@
+{
+  "case_id": "1997-16",
+  "title": "Session, BPC, Concord, NC vs. Central Carolina Presbytery",
+  "matter_type": "complaint",
+  "final_dispositions": [
+    "not_sustained"
+  ],
+  "disposition_detail": "Complaint not sustained. Issue 1 (whether Central Carolina Presbytery erred in accepting the moderator's ruling declaring RE Dollar's confirmation null and void absent sessional approval): No. Issue 2 (whether the record shows an appearance of prejudice against RE Dollar): No. SJC vote: 11 concurring, 7 dissenting, 6 absent.",
+  "first_summary": "The Session of Bible Presbyterian Church, Concord, complained that Central Carolina Presbytery improperly let Christ Covenant Session block RE Chris Dollar's appointment to the Candidates Committee. The SJC affirmed the Presbytery's action, holding the moderator properly declared the appointment null and void. It also found no appearance of prejudice. The vote was 11-7, with a dissent arguing the case should be remanded.",
+  "summary": "The Session of Bible Presbyterian Church, Concord, complained that Central Carolina Presbytery wrongly accepted its moderator's ruling making RE Chris Dollar's interim Candidates Committee appointment \"null and void\" because Christ Covenant Session never approved it. The SJC answered both issues no and did not sustain the complaint, leaving Presbytery's action undisturbed. It reasoned that approval was conditional under CCP rules, the moderator expressed Presbytery's intention, Presbytery did not surrender jurisdiction, and BCO 39-3 required deference; it found no appearance of prejudice. Vote 11-7, with dissents urging remand and challenging sessional control over committee eligibility.",
+  "sources": [
+    {
+      "path": "cases/ga26_1998__1997-16.md",
+      "sha256": "39bad4983c7b36966cb76f9aef6f4bdcb764d95161f638cdf9de57a9c1bfc28a",
+      "locator": "lines 14–72 (majority and vote); lines 74–178 (Dissenting Opinions Nos. 1 and 2)",
+      "supports": "Case identity, complaint issues, SJC judgment and reasons, vote, and dissent qualifications."
+    }
+  ],
+  "evidence_notes": {
+    "identity_and_adoption": "Case 1997-16, Session, BPC, Concord, NC v. Central Carolina Presbytery; SJC, 26th GA (1998); source cases/ga26_1998__1997-16.md, SHA256 39bad4983c7b36966cb76f9aef6f4bdcb764d95161f638cdf9de57a9c1bfc28a; adopted judgment at lines 42–72.",
+    "dispute": "Complaint challenged CCP's April 26, 1997 moderator ruling making RE Chris Dollar's interim Candidates Committee appointment null and void after Christ Covenant Session failed to approve; issue 2 alleged an appearance of prejudice. Lines 20–40.",
+    "outcomes_and_reasons": "SJC answered both issues No (lines 42–46); reasons at lines 50–66: conditional approval under CCP rules, moderator expressed Presbytery's intention, no surrender of jurisdiction, BCO 39-3 deference, and no abuse or appearance of prejudice; vote 11-7 at line 72.",
+    "qualifications": "Majority reasoning is adopted; Dissenting Opinion No. 1 (lines 74–166) would remand and objected to sessional policy; Dissenting Opinion No. 2 (lines 168–178) concurred on facts and issue 2 but disagreed on issue 1 and the judgment. Dissents are not adopted.",
+    "incorporated_decisions": "None in the supplied source. The file ends within Dissenting Opinion No. 2 after its issue statement (lines 176–178), so no later dissent reasoning is available."
+  },
+  "source_limits": "The majority judgment and Dissenting Opinion No. 1 are complete in the supplied excerpt. The excerpt ends within Dissenting Opinion No. 2 after its statement of issue 1 (lines 176–178), so its promised attached reasoning and opinion are unavailable. No incorporated decision is supplied.",
+  "benchmark_examples": [
+    "C01 (1978-02 Allin v. Tennessee Valley Presbytery): preserve mixed issue-level outcomes and refused relief in a complaint synopsis.",
+    "C20 (2016-13 Daniels v. Nashville Presbytery): keep the adopted disposition separate from dissent and do not attribute dissent reasoning to the deciding body."
+  ],
+  "scores": {
+    "concrete_dispute": 2,
+    "decision": 2,
+    "decisive_reason": 2,
+    "distinctive_value": 2,
+    "fidelity": 2,
+    "economy": 2
+  },
+  "score_reasons": {
+    "concrete_dispute": "Identifies the challenged moderator ruling and the failed sessional approval.",
+    "decision": "States both issue-level No answers, the not-sustained disposition, vote, and dissents.",
+    "decisive_reason": "Summarizes the adopted CCP-rules, jurisdiction, BCO 39-3, and no-prejudice reasons.",
+    "distinctive_value": "Preserves the deference-to-lower-court rule and the dissent's competing view of presbytery committee selection.",
+    "fidelity": "Keeps majority adopted reasoning separate from the two dissenting opinions; no incorporated decision is treated as adopted.",
+    "economy": "No filing chronology, addresses, or unnecessary detail; every sentence explains dispute, result, or value."
+  },
+  "verification_notes": "Rechecked the adopted judgment at lines 42–46 and reasons at lines 50–66; corrected the first draft's loose \"affirmed/null and void\" phrasing to the source's more precise holding that the complaint was not sustained and the moderator's ruling expressed Presbytery's intention under conditional approval. Confirmed the vote at line 72, the two dissents at lines 74–82 and 168–178, and that no incorporated decision appears. Also confirmed the source excerpt ends within Dissenting Opinion No. 2.",
+  "repair_needed": false,
+  "repair_notes": "No source or catalog defect affecting the adopted judgment; the separate-opinion truncation is noted in source_limits."
+}

@@ -1,0 +1,49 @@
+{
+  "case_id": "1995-10",
+  "title": "Stuart Merriam v. Tennessee Valley Presbytery",
+  "matter_type": "appeal",
+  "final_dispositions": [
+    "remanded"
+  ],
+  "disposition_detail": "The SJC remanded the case to Tennessee Valley Presbytery for a new trial complying with the PCA Book of Church Order's due-process provisions; it did not decide Merriam's guilt or prohibit a new ecclesiastical trial.",
+  "first_summary": "After Tennessee Valley Presbytery deposed a minister without conducting a church trial, he appealed, alleging denial of PCA due process. The SJC remanded for a new trial. It held that Presbytery could bring charges but could not substitute the Papua New Guinea criminal proceedings for ecclesiastical process, especially when it neither served an indictment and charges nor appointed counsel for an accused unable to attend. The remand permitted a constitutionally compliant trial; it did not resolve guilt or bar discipline.",
+  "summary": "After Tennessee Valley Presbytery deposed a minister without conducting a church trial, he appealed, alleging denial of PCA due process. The SJC remanded for a new trial. It held that Presbytery could bring charges but could not substitute the Papua New Guinea criminal proceedings for ecclesiastical process, especially when it neither served an indictment and charges nor appointed counsel for an accused unable to attend. The remand permitted a constitutionally compliant trial; it did not resolve guilt or bar discipline.",
+  "sources": [
+    {
+      "path": "cases/ga25_1997__1995-10.md",
+      "sha256": "cf656adee94b8ac73a94cb0a442d2f053b6038ba2262a33a732e71b7ad92e223",
+      "locator": "original lines 14-16, 58-75, 85-91, 95-141 (printed pp. 76-80)",
+      "supports": "Caption and docket; Presbytery's deposition procedure; appellate issue, remand judgment, due-process rationale, limits on Presbytery's authority, and SJC approval."
+    }
+  ],
+  "evidence_notes": {
+    "identity_and_adoption": "Original lines 14-16 identify Stuart Merriam v. Tennessee Valley Presbytery as Case 95-10; lines 75-79 identify the appeal and SJC referral; lines 133-141 record the panel decision and approval by the SJC.",
+    "dispute": "Original lines 46-75 show that Presbytery charged, suspended, and then deposed Merriam through a commission without an indictment, service, plea, trial, or appointed counsel, prompting his appeal.",
+    "outcomes_and_reasons": "Original lines 85-129 hold that Presbytery denied BCO due process and require a new trial. The SJC found reliance on Papua New Guinea criminal process no substitute for a church trial and emphasized the failure to appoint counsel for an absent accused.",
+    "qualifications": "Original line 129 recognizes Presbytery's authority to bring charges and conduct a trial; lines 91 and 129 order a new trial, so the decision neither determines guilt nor forecloses discipline.",
+    "incorporated_decisions": "Not applicable; the SJC gives its own judgment and reasoning at original lines 85-129."
+  },
+  "source_limits": "Complete adopted SJC opinion with facts, issue, judgment, reasoning, and approval vote; the record excerpt does not reproduce the underlying trial record, which is unnecessary to state the appellate holding.",
+  "benchmark_examples": [
+    "A03"
+  ],
+  "scores": {
+    "concrete_dispute": 2,
+    "decision": 2,
+    "decisive_reason": 2,
+    "distinctive_value": 2,
+    "fidelity": 2,
+    "economy": 2
+  },
+  "score_reasons": {
+    "concrete_dispute": "Identifies deposition without a church trial and the due-process challenge.",
+    "decision": "States the remand and the new-trial remedy.",
+    "decisive_reason": "Explains why foreign criminal process could not replace BCO procedure and names the central omissions.",
+    "distinctive_value": "Preserves both Presbytery's charging authority and the mandatory ecclesiastical safeguards.",
+    "fidelity": "Treats the criminal case as procedural history and does not decide guilt.",
+    "economy": "Each detail explains the procedural defect or the scope of remand."
+  },
+  "verification_notes": "Separate same-reviewer pass reopened original lines 85-141. Sentence 1 maps to the due-process issue and lower procedure at lines 87 and 108-127; sentences 2-3 map to the remand and rationale at lines 91 and 112-129; sentence 4 preserves the authority and retrial limits at line 129. No wording correction was needed. The check confirmed that remand, rather than reversal, vacatur, or a ruling on guilt, is the only express final disposition.",
+  "repair_needed": false,
+  "repair_notes": "No source, identity, boundary, or catalog defect blocks the synopsis."
+}

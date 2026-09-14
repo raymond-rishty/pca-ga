@@ -1,0 +1,49 @@
+{
+  "case_id": "2005-12",
+  "title": "Complaint of TE Peter B. Kim vs. Korean Eastern Presbytery",
+  "matter_type": "complaint",
+  "final_dispositions": [
+    "out_of_order"
+  ],
+  "disposition_detail": "The complaint was found out of order. The record does not classify the ruling as administrative or judicial, provide a rationale, or specify further proceedings.",
+  "first_summary": "TE Peter B. Kim’s complaint against Korean Eastern Presbytery was found out of order. The published record gives no challenged action, rationale, merits ruling, or further relief.",
+  "summary": "The 34th General Assembly recorded TE Peter B. Kim’s complaint against Korean Eastern Presbytery as out of order. The sparse published record does not identify the challenged presbytery action, classify the ruling as administrative or judicial, give a rationale, or reach the merits; it specifies no further relief or proceedings.",
+  "sources": [
+    {
+      "path": "cases/ga34_2006__stub_2005-12.md",
+      "sha256": "fc6fbf265452d547bf7fa7ba7c336a315992141a1abb9e2c8c0016945e9b3643",
+      "locator": "lines 1–5, 9",
+      "supports": "Case identity, court and Assembly metadata, out-of-order disposition, and absence of a separate merits opinion."
+    }
+  ],
+  "evidence_notes": {
+    "identity_and_adoption": "The heading identifies case 2005-12 and the parties (line 1); metadata identifies the SJC and 34th Assembly, while the note attributes disposition to the Assembly (lines 3–5).",
+    "dispute": "Only a complaint by TE Peter B. Kim against Korean Eastern Presbytery is identified; the challenged action is not stated (line 1).",
+    "outcomes_and_reasons": "Case 2005-12 was found out of order (line 9). No separate merits opinion was published (line 5), and no rationale or relief is stated.",
+    "qualifications": "The source does not designate the ruling as administratively or judicially out of order and supplies no merits determination (lines 3–5, 9).",
+    "incorporated_decisions": "No decision is incorporated by reference; line 9 merely lists this case with other matters found out of order."
+  },
+  "source_limits": "The authoritative source is a short disposition stub and does not describe the challenged conduct, rationale, or subsequent proceedings.",
+  "benchmark_examples": [
+    "C20"
+  ],
+  "scores": {
+    "concrete_dispute": 0,
+    "decision": 2,
+    "decisive_reason": 2,
+    "distinctive_value": 1,
+    "fidelity": 2,
+    "economy": 2
+  },
+  "score_reasons": {
+    "concrete_dispute": "The source names the complainant and presbytery but not the challenged action.",
+    "decision": "The out-of-order disposition is stated without adding an unsupported subtype.",
+    "decisive_reason": "The synopsis faithfully states that no rationale is supplied.",
+    "distinctive_value": "It preserves the important limits that the ruling is unclassified and does not reach the merits.",
+    "fidelity": "It distinguishes the recorded disposition from absent merits reasoning and avoids inferring relief.",
+    "economy": "Every detail explains either the disposition or the record’s limitations."
+  },
+  "verification_notes": "Rechecked the operative entry at line 9 and corrected the final synopsis to attribute the recorded disposition to the 34th General Assembly rather than solely to the SJC. Also confirmed that the source gives no administrative or judicial subtype, challenged action, rationale, merits ruling, or further proceedings.",
+  "repair_needed": false,
+  "repair_notes": "The record is sparse but sufficient to establish the case identity and final disposition; no material catalog conflict requires repair."
+}

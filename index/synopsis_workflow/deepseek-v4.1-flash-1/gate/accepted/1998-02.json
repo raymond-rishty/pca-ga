@@ -1,0 +1,68 @@
+{
+  "case_id": "1998-02",
+  "title": "St. Paul Session, et al. v. Central Florida Presbytery",
+  "matter_type": "complaint",
+  "final_dispositions": [
+    "denied"
+  ],
+  "disposition_detail": "Issue A (commission report as to Christ Church): CFP did not err; complaint denied. Issue B (commission report as to TE John Hutchinson): CFP did not err; complaint denied. The SJC upheld CFP’s approval of the commission’s BCO 31-2 investigation and its procedural choices, finding no clear error under BCO 39-3. A separate dissent would have remanded for further consideration.",
+  "first_summary": "The St. Paul Session and other Central Florida presbyters complained that Presbytery wrongly affirmed a commission report clearing Christ Church and Pastor John Hutchinson. The SJC denied the complaint on both issues. It held CFP permissibly chose an investigation under BCO 31-2, and that procedural irregularities and possible bias did not show clear error under BCO 39-3. The lone dissent would remand for failure to investigate the substance of the charges.",
+  "summary": "The St. Paul Session and other Central Florida presbyters complained that Presbytery wrongly sustained a commission report denying the Session complaint and declining to find a strong presumption of guilt against Pastor John Hutchinson. The SJC denied the complaint on both issues. It held CFP permissibly directed a BCO 31-2 investigation and chose its own procedures; procedural irregularities and possible bias did not show BCO 39-3 clear error, though the panel criticized CFP’s handling. A lone dissent would remand, alleging the commission ignored the substance of 41 of 45 specifications.",
+  "sources": [
+    {
+      "path": "cases/ga27_1999__1998-02.md",
+      "sha256": "8d43c726bbc52d5cee59810a4fe507af7aae5a923107b1f48302e872a5976742",
+      "locator": "lines 1–5, 9–11, 189, 231",
+      "supports": "Case identity, title, SJC adoption, disposition header, vote, and signature."
+    },
+    {
+      "path": "cases/ga27_1999__1998-02.md",
+      "sha256": "8d43c726bbc52d5cee59810a4fe507af7aae5a923107b1f48302e872a5976742",
+      "locator": "lines 13–85, 87–102",
+      "supports": "Factual history, issues A and B, and operative judgment that CFP did not err on either issue."
+    },
+    {
+      "path": "cases/ga27_1999__1998-02.md",
+      "sha256": "8d43c726bbc52d5cee59810a4fe507af7aae5a923107b1f48302e872a5976742",
+      "locator": "lines 104–187",
+      "supports": "Majority reasoning: BCO 31-2 investigation, CFP’s procedural discretion, BCO 39-3 clear-error standard, and panel criticisms."
+    },
+    {
+      "path": "cases/ga27_1999__1998-02.md",
+      "sha256": "8d43c726bbc52d5cee59810a4fe507af7aae5a923107b1f48302e872a5976742",
+      "locator": "lines 191–231",
+      "supports": "Separate dissenting opinion by Van Voorhis, not adopted, urging remand for failure to address the substance of the specifications."
+    }
+  ],
+  "evidence_notes": {
+    "identity_and_adoption": "Case 98-2 / 1998-02 is titled St. Paul Session, et al. v. Central Florida Presbytery. The deciding body was the Standing Judicial Commission at the 27th General Assembly (1999); vote: 17 concurring, 1 dissenting (lines 3, 189). Source: cases/ga27_1999__1998-02.md, hash 8d43c726bbc52d5cee59810a4fe507af7aae5a923107b1f48302e872a5976742.",
+    "dispute": "The complaint challenged CFP’s action sustaining the report of the commission that denied the complaint against Christ Church Session and declined to find a strong presumption of guilt against TE John Hutchinson (lines 69–85, 89–91).",
+    "outcomes_and_reasons": "The SJC answered both issues “No” (lines 98–102). It found CFP did not err: the commission could conduct a BCO 31-2 investigation, CFP could set investigation procedure, and the complainants’ procedural and bias claims did not establish the BCO 39-3 clear error needed to overturn Presbytery; the panel nevertheless criticized CFP’s handling (lines 104–187). The complaint was denied.",
+    "qualifications": "The majority expressly said CFP could have improved its procedures, communication, and appearance of fairness, but found no BCO violation or clear error (lines 185–187). The dissent by Van Voorhis argued CFP ignored the substance of most specifications under the guise of procedure and would have returned the case to CFP (lines 191–231). The dissent is separate and not adopted.",
+    "incorporated_decisions": "No separate decision was incorporated by reference. The majority cites Judicial Case 91-6 only as precedent (line 156)."
+  },
+  "source_limits": "The supplied source is the SJC decision text with majority reasoning and a dissenting opinion; it does not include the full Record of the Case, briefs, or the complete 45 specifications, so those underlying details are only summarized. The dissent is not adopted reasoning. No source or catalog defect is apparent.",
+  "benchmark_examples": [
+    "C01 — preserve each material issue-level complaint result and the adopted procedural ruling.",
+    "C20 — keep a separate dissent distinct from the adopted disposition and do not attribute its rationale to the court."
+  ],
+  "scores": {
+    "concrete_dispute": 2,
+    "decision": 2,
+    "decisive_reason": 2,
+    "distinctive_value": 2,
+    "fidelity": 2,
+    "economy": 2
+  },
+  "score_reasons": {
+    "concrete_dispute": "Identifies the challenged CFP action and the commission report at issue.",
+    "decision": "States that the complaint was denied on both issues and notes the separate dissent’s contrary remand position.",
+    "decisive_reason": "Explains the adopted BCO 31-2 procedural-discretion and BCO 39-3 clear-error grounds.",
+    "distinctive_value": "Preserves the limit that procedural irregularities and possible bias did not meet the clear-error threshold, while noting the dissent’s procedure-versus-substance objection.",
+    "fidelity": "Distinguishes the SJC majority, panel findings, lower-court actions, and separate dissent; no incorporated decision is treated as adopted.",
+    "economy": "Keeps the summary focused on the dispute, both issue results, the decisive reason, and the dissent."
+  },
+  "verification_notes": "Initial first_summary said CFP “affirmed” a report “clearing” Hutchinson; corrected to “sustained” the report that denied the Session complaint and declined to find a strong presumption of guilt. Rechecked the operative judgment (lines 98–102), adopted reasoning (lines 104–187), vote (line 189), and dissent (lines 191–231). Confirmed the disposition is denied, not affirmed, and the dissent was not adopted. Verified source path, hash, and locators.",
+  "repair_needed": false,
+  "repair_notes": "No source or catalog defect detected; case_id, title, disposition, and citation match the supplied source."
+}

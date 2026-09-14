@@ -1,0 +1,50 @@
+{
+  "case_id": "2022-08",
+  "title": "RE David Snoke v. Pittsburgh Presbytery",
+  "matter_type": "complaint",
+  "final_dispositions": [
+    "administratively_out_of_order"
+  ],
+  "disposition_detail": "Complaint found administratively out of order and not capable of being put in order; no merits ruling. Reason: RE Snoke lacked standing to complain against Pittsburgh Presbytery's January 29, 2022 action because he was not a commissioner from his church to that meeting. Presbytery's April 2, 2022 adoption of a motion to find the complaint in order (20-16-3) was contrary to that procedural bar. SJC vote: 20-1, three absent; concurrences noted without separate reasoning.",
+  "first_summary": "The SJC found RE David Snoke's complaint against Pittsburgh Presbytery administratively out of order. Snoke lacked standing because he was not a commissioner from his church to the January 29, 2022 meeting; Presbytery's later 20-16-3 vote to find the complaint in order did not cure that defect. The SJC cited similar procedural cases and voted 20-1, with three absent.",
+  "summary": "The SJC held that RE David Snoke's complaint against Pittsburgh Presbytery's January 29, 2022 action was administratively out of order and could not be put in order because Snoke, not a commissioner from his church to that meeting, lacked standing to complain. Although Presbytery later voted 20-16-3 to find the complaint in order, the SJC said it should have been ruled out of order. The SJC did not reach the merits. Its vote was 20-1, with three absent.",
+  "sources": [
+    {
+      "path": "cases/ga50_2023__2022-08.md",
+      "sha256": "472405fdad1aa6fa19178a397e17ffd42a0b46f4db15b67da16c7d86a962d6e4",
+      "locator": "lines 15–33 (printed pp. 882–883)",
+      "supports": "Identity, procedural posture, challenged Presbytery action, standing reason, Presbytery vote, SJC vote, cited prior cases, and concurrence/absence notation."
+    }
+  ],
+  "evidence_notes": {
+    "identity_and_adoption": "Lines 1, 11–17: SJC decision on Complaint No. 2022-08, dated October 20, 2022, published in the 50th GA (2023) record at printed pp. 882–883. The operative decision is the SJC's decision on complaint.",
+    "dispute": "Lines 15–25: Snoke complained against Pittsburgh Presbytery's January 29, 2022 action. He filed with Presbytery in mid-March; Presbytery considered and denied it on April 2, but also adopted a motion to find the complaint in order, 20-16-3.",
+    "outcomes_and_reasons": "Lines 17–25, 29: SJC found the complaint administratively out of order and incapable of being put in order because Snoke did not have standing—he was not a commissioner from his church to the January 29 meeting. It said Presbytery should have ruled it out of order. SJC vote: 20-1, three absent.",
+    "qualifications": "Lines 19, 21, 25, 29–32: standing fact confirmed by Snoke email Sept. 8, 2022 and Pittsburgh Clerk email Sept. 9, 2022; Presbytery's in-order vote was 20-16-3; no merits ruling; concurrences listed without separate reasoning.",
+    "incorporated_decisions": "Line 27: six prior cases are listed only as examples of similar SJC procedural rulings; no decision is incorporated by reference, so no incorporated result is needed."
+  },
+  "source_limits": "Sparse record: the underlying complaint, Presbytery minutes, and separate concurrence reasoning are not supplied; the report addresses only the administrative standing/procedural defect, not the merits.",
+  "benchmark_examples": [
+    "C20 (2016-13 Daniels): sparse-record example; keep the adopted ruling's silence rather than infer reasons. Here, unlike C20, the record states the administrative-out-of-order reason.",
+    "C01 (1978-02 Allin): preserve procedural errors and unsuccessful claims; here the only decided issue is a standing/procedural bar, with no merits ruling."
+  ],
+  "scores": {
+    "concrete_dispute": 2,
+    "decision": 2,
+    "decisive_reason": 2,
+    "distinctive_value": 2,
+    "fidelity": 2,
+    "economy": 2
+  },
+  "score_reasons": {
+    "concrete_dispute": "Identifies the challenged Pittsburgh Presbytery action and Snoke's complaint.",
+    "decision": "States the sole operative disposition: administratively out of order and incapable of being put in order.",
+    "decisive_reason": "States the adopted reason: Snoke was not a commissioner from his church to the January 29, 2022 meeting and thus lacked standing.",
+    "distinctive_value": "Preserves the rule that a presbytery's later vote to find a complaint in order does not cure the complainant's lack of standing.",
+    "fidelity": "Keeps the SJC ruling distinct from Presbytery's denial/in-order votes and notes no merits ruling.",
+    "economy": "Uses only facts needed to show the dispute, procedural bar, vote, and absence of merits ruling."
+  },
+  "verification_notes": "Reread lines 15–33. Corrected the final summary from the first version by adding that the complaint 'could not be put in order' and by explicitly stating that the SJC did not reach the merits. Rechecked that Presbytery's April 2 denial is separate from its 20-16-3 vote to find the complaint in order, that standing is the only stated reason, and that the cited prior cases are examples rather than incorporated decisions.",
+  "repair_needed": false,
+  "repair_notes": "No source or catalog defect requiring repair. The header's 'Disposition: administrative' is imprecise shorthand; the operative text supplies the administratively-out-of-order ruling."
+}

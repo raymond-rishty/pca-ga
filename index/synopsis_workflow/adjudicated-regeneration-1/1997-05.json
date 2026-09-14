@@ -1,0 +1,34 @@
+{
+  "case_id": "1997-05",
+  "title": "Mt. Carmel Session v. New Jersey Presbytery",
+  "matter_type": "complaint",
+  "final_dispositions": ["not_sustained", "denied"],
+  "disposition_detail": "General Assembly defeated the minority report, adopted the SJC majority report, and denied the complaint.",
+  "first_summary": "Mt. Carmel Session challenged New Jersey Presbytery's creation-days resolution, arguing that the Westminster Standards require six consecutive twenty-four-hour days. The SJC majority concluded that Presbytery could resolve the doctrinal question under BCO 11-4 and that prior Assembly actions permitted latitude on the length of the creation days. The General Assembly rejected the minority report, adopted the majority report, and denied the complaint.",
+  "summary": "Mt. Carmel Session challenged New Jersey Presbytery's creation-days resolution, arguing that the Westminster Standards require six consecutive twenty-four-hour days. The SJC majority concluded that Presbytery could resolve the doctrinal question under BCO 11-4 and that prior Assembly actions permitted latitude on the length of the creation days. The General Assembly rejected the minority report, adopted the majority report, and denied the complaint.",
+  "sources": [
+    {"path":"cases/ga26_1998__1997-05.md","sha256":"b77e26ceb4f24d34a6fa8f1b1f18ea76a64f095c4dcd58f7c9a72f0d70cd33a7","locator":"Majority Report on Case 97-5","supports":"Dispute, SJC majority judgment, constitutional reasoning, and minority-report posture."},
+    {"path":"markdown/ga26_1998.md","sha256":"cb4718bab74ae41d40ce0c5628c65896f333e6670f4a7ac02e984ec8913d9f0d","locator":"lines 2990-3000 and 3007-3161","supports":"Final Assembly action defeating the minority, adopting the majority, and denying the complaint."}
+  ],
+  "evidence_notes": {
+    "identity_and_adoption": "The SJC case was referred because nine members filed a minority report; the 26th Assembly defeated that report and adopted the majority.",
+    "dispute": "Mt. Carmel Session contended that New Jersey Presbytery's creation-days resolution contradicted the Westminster Standards.",
+    "outcomes_and_reasons": "The majority denied the complaint, reasoning that BCO 11-4 permitted Presbytery to resolve the doctrinal question and prior Assembly actions allowed interpretive latitude; the Assembly made that result final.",
+    "qualifications": "The minority argued for the twenty-four-hour-day reading, but its report was defeated and is not the holding.",
+    "incorporated_decisions": "Prior Assembly creation-days actions are discussed as supporting context, not substituted for the operative Case 97-5 judgment."
+  },
+  "source_limits": "The full minutes preserve the majority and minority materials and the final Assembly action; vote-registration details do not alter the operative disposition.",
+  "benchmark_examples": ["C13"],
+  "scores": {"concrete_dispute":2,"decision":2,"decisive_reason":2,"distinctive_value":2,"fidelity":2,"economy":2},
+  "score_reasons": {
+    "concrete_dispute":"Identifies the precise creation-days resolution and constitutional objection.",
+    "decision":"States the SJC recommendation and final Assembly adoption sequence.",
+    "decisive_reason":"Preserves BCO 11-4 and prior-Assembly latitude as the majority's grounds.",
+    "distinctive_value":"Explains the case's useful distinction between constitutional latitude and the minority's exclusive reading.",
+    "fidelity":"Does not mistake the minority's proposed remand for the final holding.",
+    "economy":"Omits procedural particulars that do not explain the issue, reason, or final disposition."
+  },
+  "verification_notes": "Compared the candidate with both the SJC majority judgment and the Assembly journal. Corrected the former candidate's material reversal of the result: the minority remand proposal was defeated, and the majority denial was adopted.",
+  "repair_needed": false,
+  "repair_notes": "No further source repair is needed; the final Assembly vote and majority judgment are both available in ga26_1998.md."
+}

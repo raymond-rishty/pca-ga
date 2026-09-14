@@ -1,0 +1,62 @@
+{
+  "case_id": "2003-06",
+  "title": "Complaint of RE Paul M. Wright v. Eastern Carolina Presbytery",
+  "matter_type": "complaint",
+  "final_dispositions": [
+    "judicially_out_of_order"
+  ],
+  "disposition_detail": "The SJC adopted the panel recommendation and found Case 2003-6 judicially out of order under SJC Manual 11.6. It did not reach the merits of the complaint or the underlying atonement dispute. Adopted vote: 17 concurring, 1 dissenting, 1 abstaining, 4 absent.",
+  "first_summary": "The SJC dismissed RE Paul M. Wright's complaint against Eastern Carolina Presbytery over its response to White Oak Session's reference on the atonement. It held that the Presbytery's action was advice only and not a binding doctrinal position. No merits ruling was made on the atonement dispute.",
+  "summary": "The SJC found Case 2003-6 judicially out of order because the challenged Eastern Carolina Presbytery action was only advice in response to a BCO 41-1 reference from White Oak Session, not a binding or complainable doctrinal decision under BCO 41-3. The underlying dispute—whether elders could hold and teach a broader atonement view—was therefore not reached. The adopted vote was 17 concurring, 1 dissenting, with 1 abstention and 4 absent. The dissent argued Presbytery's 'not allowed' language read as compulsory final disposition.",
+  "sources": [
+    {
+      "path": "cases/ga32_2004__2003-06.md",
+      "sha256": "ca9930dce56b39606420e419527a8e713f390559a3af9a370d0bf72122eef0c5",
+      "locator": "lines 13–21, 35–37",
+      "supports": "Case identity, adopted recommended opinion, judicially-out-of-order disposition, BCO 41-3 advice-only reasoning, and full SJC adoption."
+    },
+    {
+      "path": "cases/ga32_2004__2003-06.md",
+      "sha256": "ca9930dce56b39606420e419527a8e713f390559a3af9a370d0bf72122eef0c5",
+      "locator": "lines 39–43, 75, 89–93",
+      "supports": "Dissenting opinion’s contrary view that Presbytery’s language read as compulsory final disposition, not advice only."
+    },
+    {
+      "path": "cases/ga32_2004__2003-06.md",
+      "sha256": "ca9930dce56b39606420e419527a8e713f390559a3af9a370d0bf72122eef0c5",
+      "locator": "lines 19–21, 67–73",
+      "supports": "Description of the underlying BCO 41-1 reference and Presbytery’s 'not allowed' answer by 29-3 vote."
+    }
+  ],
+  "evidence_notes": {
+    "identity_and_adoption": "Case 2003-6, Complaint of RE Paul M. Wright v. Eastern Carolina Presbytery; the recommended opinion was adopted by the full SJC on March 4, 2004 (lines 13–17, 35–37).",
+    "dispute": "White Oak Session sought Presbytery advice via a BCO 41-1 reference on whether elders could hold and teach a broader atonement view; Presbytery answered 'not allowed' by a 29-3 vote (lines 19–21, 67–73).",
+    "outcomes_and_reasons": "The SJC found the complaint judicially out of order under SJC Manual 11.6 because a BCO 41-3 advice-only response is not a complainable or binding act; adopted vote was 17 concurring, 1 dissenting, 1 abstaining, 4 absent (lines 17–21, 35).",
+    "qualifications": "The dissent argued the 'not allowed' wording was compulsory final disposition and should be reviewable, but that view was not adopted (lines 39–43, 75, 89–93). No merits ruling was made on the atonement question (lines 21, 190).",
+    "incorporated_decisions": "None. The underlying reference and Presbytery’s answer are described in the adopted opinion, but no separate judicial decision is incorporated by reference."
+  },
+  "source_limits": "Only the supplied case text is available. It includes the adopted panel opinion, vote, and dissent, but not the full Record of the Case, BCO, Presbytery minutes, briefs, or lower-court filings.",
+  "benchmark_examples": [
+    "J01: refusal of a reference is not a denial of the underlying complaint on the merits; here, a complaint ruled judicially out of order likewise left the underlying dispute undecided.",
+    "A20: a disposition label can obscure practical effect; here 'judicially out of order' is not a merits rejection of the complaint’s theological objection."
+  ],
+  "scores": {
+    "concrete_dispute": 2,
+    "decision": 2,
+    "decisive_reason": 2,
+    "distinctive_value": 2,
+    "fidelity": 2,
+    "economy": 2
+  },
+  "score_reasons": {
+    "concrete_dispute": "Identifies the challenged Presbytery action: its 'not allowed' answer to White Oak Session’s BCO 41-1 reference on the atonement.",
+    "decision": "States the adopted disposition—judicially out of order—and that no merits ruling was made; also preserves the vote and dissent.",
+    "decisive_reason": "Explains the adopted basis: the Presbytery action was advice only under BCO 41-3, not a binding or complainable act.",
+    "distinctive_value": "Captures the rule that an advice-only response to a reference is not complainable and the dissent’s limit that compulsory-sounding language may still be treated as binding.",
+    "fidelity": "Distinguishes the adopted opinion from the dissent and avoids treating the complaint’s allegations or the dissent’s position as the SJC’s holding.",
+    "economy": "Keeps the dispute, disposition, decisive reason, vote, and dissent in a compact synopsis without unnecessary procedural detail."
+  },
+  "verification_notes": "Reread the adopted opinion at lines 13–21 and the adoption/vote at line 35. Corrected the first draft’s 'dismissed' to 'found judicially out of order,' added the 17-1-1-4 vote, and preserved the dissent as a non-adopted view. Rechecked that the underlying reference was treated as advice only under BCO 41-3 and that no merits ruling on the atonement was made.",
+  "repair_needed": false,
+  "repair_notes": "No source or catalog defect identified."
+}

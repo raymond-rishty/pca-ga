@@ -1,0 +1,50 @@
+{
+  "case_id": "2020-12",
+  "title": "Speck v. Missouri Presbytery",
+  "matter_type": "complaint",
+  "final_dispositions": [
+    "denied"
+  ],
+  "disposition_detail": "The SJC answered “No” to Issue 1 and each of Issues 2.a–2.d, denying the complaint in full. Missouri Presbytery’s investigation and its decisions not to commence process on any of the four allegations remained undisturbed; no trial was ordered.",
+  "first_summary": "Ryan Speck challenged Missouri Presbytery’s BCO 31-2 investigation and refusal to commence process against Greg Johnson on four allegations concerning same-sex attraction as sin, identity in Christ, sanctification, and fitness for office. The SJC denied the complaint, finding no clear procedural error and concluding that Presbytery reasonably accepted Johnson’s explanations. Its non-indictment decisions therefore remained in effect.",
+  "summary": "Ryan Speck challenged Missouri Presbytery’s BCO 31-2 investigation and its refusal to commence process against Greg Johnson on four allegations concerning same-sex attraction as sin, identity in Christ, sanctification, and fitness for office. The SJC denied the complaint in full. It found no clear procedural error and held that Johnson’s explanations and clarifications made Presbytery’s non-indictment judgments reasonable. No trial was ordered. The ruling neither adjudged Johnson guilty nor endorsed every statement or broader constitutional position concerning same-sex attraction.",
+  "sources": [
+    {
+      "path": "cases/ga49_2022__2020-12.md",
+      "sha256": "d5008e75cfa4932ab0710ec9ce1e0e22e5b6d41db6b775f84517f23507421e59",
+      "locator": "lines 13–27, 266–313, 335–607, 1383–1515; printed pp. 730–731, 744–767, 807–811",
+      "supports": "Case identity, issues, judgment, adopted reasoning, denial of the complaint, and the SJC’s clarification of the ruling’s limits."
+    }
+  ],
+  "evidence_notes": {
+    "identity_and_adoption": "The caption identifies Case 2020-12 and the SJC decision dated October 21, 2021 (lines 13–14); the roll-call approval was 16–7 (lines 609–611; printed p. 767).",
+    "dispute": "The issues challenged the BCO 31-2 investigation and refusal to commence process on four allegations involving sin, identity, sanctification, and qualification for office (lines 266–280; printed pp. 744–745).",
+    "outcomes_and_reasons": "Every issue was answered “No” (lines 282–284). The SJC found no clear procedural error and deemed Presbytery’s acceptance of Johnson’s explanations reasonable (lines 288–313, 607; printed pp. 745–746, 767).",
+    "qualifications": "The SJC clarified that it found only that the record did not establish error in declining to indict, not a new constitutional position; a complaint also could not adjudge Johnson guilty without trial (lines 1405–1426, 1499–1513; printed pp. 808–811). Concurring opinions expressing continuing concerns were separate opinions.",
+    "incorporated_decisions": "No other decision supplied the operative result by incorporation. Prior cases were cited only as precedent or comparison."
+  },
+  "source_limits": "The synopsis relies solely on the supplied case text. Its header incorrectly labels the disposition “sustained,” while the operative judgment and reasoning repeatedly show that the complaint was denied.",
+  "benchmark_examples": [
+    "C01",
+    "C02"
+  ],
+  "scores": {
+    "concrete_dispute": 2,
+    "decision": 2,
+    "decisive_reason": 2,
+    "distinctive_value": 2,
+    "fidelity": 2,
+    "economy": 2
+  },
+  "score_reasons": {
+    "concrete_dispute": "Identifies both the investigation challenge and the four grounds for seeking process.",
+    "decision": "States that all five issues failed and that no trial was ordered.",
+    "decisive_reason": "Explains the absence of clear procedural error and the reasonableness of accepting the clarified views.",
+    "distinctive_value": "Preserves the distinction between reviewing a non-indictment and adjudicating guilt or endorsing broader doctrine.",
+    "fidelity": "Separates the SJC judgment from allegations and concerns expressed in separate opinions.",
+    "economy": "Retains only facts necessary to understand the dispute, result, reasoning, and limitation."
+  },
+  "verification_notes": "Rechecked the issue statement, the five-part “No” judgment, conclusion, roll call, and the SJC’s answer to the dissent. The final summary was revised to avoid implying substantive endorsement of Presbytery’s theology or adjudication of Johnson’s guilt, and to state expressly that no trial was ordered.",
+  "repair_needed": true,
+  "repair_notes": "Correct the source header at line 3 from “Disposition: sustained” to “Disposition: denied.” The operative judgment answers every issue “No,” and the decision expressly says the complaint was denied."
+}

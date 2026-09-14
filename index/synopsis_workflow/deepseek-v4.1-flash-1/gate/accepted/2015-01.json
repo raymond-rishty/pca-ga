@@ -1,0 +1,50 @@
+{
+  "case_id": "2015-01",
+  "title": "Sanfacon v. Philadelphia Presbytery",
+  "matter_type": "complaint",
+  "final_dispositions": [
+    "administratively_out_of_order"
+  ],
+  "disposition_detail": "Complaint held administratively out of order and unable to be put in order under OMSJC 9.1.a. because the original complaint was not timely filed under BCO 43-2; the ruling voided every action taken on the complaint(s) by the lower courts.",
+  "first_summary": "The SJC found Sanfacon's complaint administratively out of order because it was untimely filed. His original complaint came 78 days after the Session action, beyond the 60-day window. A later complaint was tied to the first. The SJC voided lower-court actions and cited a similar 2001 decision.",
+  "summary": "The SJC held that a ruling elder’s complaint was administratively out of order and could not be put in order because the original complaint was filed 78 days after the challenged Session action—18 days beyond BCO 43-2’s 60-day window. A second complaint was merely an extension of the untimely first. Even though Session and Presbytery recognized the untimeliness but addressed it anyway, the SJC voided all lower-court actions on the complaints. A cited 2001 case was similar.",
+  "sources": [
+    {
+      "path": "cases/ga44_2016__2015-01.md",
+      "sha256": "48bf362775ca3e2b4dcfcf55d7b23351d2abf9bc93d25709e44dc1b45afbbf66",
+      "locator": "lines 14–36 (printed pp. 512–513)",
+      "supports": "SJC decision on complaint; administrative out-of-order disposition; BCO 43-2 timeliness rationale; voiding of lower-court actions; citation to 2001-32 as similar precedent."
+    }
+  ],
+  "evidence_notes": {
+    "identity_and_adoption": "SJC decision on complaint, D. G. Sanfacon v. Philadelphia Presbytery, April 29, 2015, 44th GA (2016), at cases/ga44_2016__2015-01.md lines 14–17; source header line 3.",
+    "dispute": "Inactive ruling elder/member challenged a March 30, 2014 Session action; original complaint filed June 16, 2014, 78 days later; later August 7 complaint purportedly against July 13 action (lines 21–29).",
+    "outcomes_and_reasons": "SJC found the complaint administratively out of order and unable to be put in order under OMSJC 9.1.a. because the original complaint was untimely under BCO 43-2; it voided every lower-court action on the complaint(s); the second complaint was tied directly to the first (lines 17, 21–30).",
+    "qualifications": "Session and Presbytery recognized the complaint was untimely but addressed it anyway; the SJC held that did not cure the defect (lines 29–31).",
+    "incorporated_decisions": "No decision incorporated by reference; 2001-32 Christ Covenant v. Central Carolina Presbytery is cited only as similar precedent (lines 31–36)."
+  },
+  "source_limits": "Short decision; the complaint and lower-court records are not reproduced, and no merits review occurred because the complaint was administratively out of order.",
+  "benchmark_examples": [
+    "C01 (Allin): preserve procedural defects and issue-level outcomes; here the sole disposition is administrative out-of-order.",
+    "C20 (Daniels): sparse record; do not supply an adopted rationale; here the untimeliness rationale is express."
+  ],
+  "scores": {
+    "concrete_dispute": 2,
+    "decision": 2,
+    "decisive_reason": 2,
+    "distinctive_value": 2,
+    "fidelity": 2,
+    "economy": 2
+  },
+  "score_reasons": {
+    "concrete_dispute": "Identifies the challenged Session action and the complaint’s untimeliness.",
+    "decision": "States the administrative out-of-order ruling and the voiding of lower-court actions.",
+    "decisive_reason": "Explains the adopted BCO 43-2 60-day filing deadline and the 78-day delay.",
+    "distinctive_value": "Preserves the rule that a later complaint tied to an untimely original is also out of order and that lower-court consideration does not cure the defect.",
+    "fidelity": "Distinguishes the SJC ruling from lower-court actions and the cited 2001 case.",
+    "economy": "Includes only facts and consequences needed to explain the disposition."
+  },
+  "verification_notes": "Reread lines 14–36. Confirmed the SJC, not a lower court, decided; the complaint was held administratively out of order, not denied on the merits; the original complaint was filed June 16, 2014, 78 days after the March 30, 2014 Session action, 18 days past the 60-day BCO 43-2 window; the second complaint was tied to the first; lower-court actions on the complaint(s) were voided; and 2001-32 is cited only as similar precedent, not incorporated.",
+  "repair_needed": false,
+  "repair_notes": "None."
+}

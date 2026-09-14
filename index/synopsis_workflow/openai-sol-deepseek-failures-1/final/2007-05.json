@@ -1,0 +1,49 @@
+{
+  "case_id": "2007-05",
+  "title": "Appeal of Dr. George W. Mitchell vs. Evangel Presbytery",
+  "matter_type": "appeal",
+  "final_dispositions": [
+    "withdrawn"
+  ],
+  "disposition_detail": "The 35th General Assembly record states that Case 2007-05 was withdrawn. No merits ruling or relief is reported.",
+  "first_summary": "Dr. George W. Mitchell’s appeal against Evangel Presbytery was withdrawn. No separate merits opinion was published.",
+  "summary": "Dr. George W. Mitchell’s appeal against Evangel Presbytery was withdrawn. The 35th General Assembly record reports no merits decision, reason for the withdrawal, or ruling on the unidentified underlying dispute.",
+  "sources": [
+    {
+      "path": "cases/ga35_2007__stub_2007-05.md",
+      "sha256": "02edc35a700b7d3125d2af9220b3cb9235e719add3e37f5a9a968d56be8125d3",
+      "locator": "lines 1–5, 9",
+      "supports": "Case identity, appeal classification, withdrawal, and absence of a separate merits opinion."
+    }
+  ],
+  "evidence_notes": {
+    "identity_and_adoption": "The caption identifies Case 2007-05 as Mitchell’s appeal against Evangel Presbytery; the metadata names the SJC and 35th Assembly (lines 1–3).",
+    "dispute": "The source does not identify the challenged action or underlying dispute (lines 1–11).",
+    "outcomes_and_reasons": "The Assembly record states that Case 2007-05 was withdrawn; no reason is supplied (lines 5, 9).",
+    "qualifications": "No separate merits opinion was published, so the record supports no merits ruling or relief (line 5).",
+    "incorporated_decisions": "No incorporated decision is identified."
+  },
+  "source_limits": "The supplied source is a short disposition notice and does not describe the underlying controversy, withdrawal rationale, or subsequent proceedings.",
+  "benchmark_examples": [
+    "A20"
+  ],
+  "scores": {
+    "concrete_dispute": 0,
+    "decision": 2,
+    "decisive_reason": 2,
+    "distinctive_value": 1,
+    "fidelity": 2,
+    "economy": 2
+  },
+  "score_reasons": {
+    "concrete_dispute": "The source does not disclose the challenged conduct or lower-court action.",
+    "decision": "The withdrawal is stated without implying a merits result.",
+    "decisive_reason": "The synopsis accurately notes that no reason was reported.",
+    "distinctive_value": "It preserves the important limitation that withdrawal produced no reported merits ruling.",
+    "fidelity": "It distinguishes the recorded withdrawal from any unreported underlying dispute.",
+    "economy": "Only the parties, procedural status, disposition, and source limitations are retained."
+  },
+  "verification_notes": "Rechecked the caption, appeal designation, Assembly disposition, and publication note; clarified that neither the underlying dispute nor a withdrawal rationale is supplied.",
+  "repair_needed": false,
+  "repair_notes": ""
+}

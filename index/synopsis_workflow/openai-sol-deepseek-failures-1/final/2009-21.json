@@ -1,0 +1,51 @@
+{
+  "case_id": "2009-21",
+  "title": "Armes v. Southwest Florida Presbytery",
+  "matter_type": "complaint",
+  "final_dispositions": [
+    "sustained",
+    "remanded"
+  ],
+  "disposition_detail": "The SJC sustained Armes's complaint and remanded with directions for Presbytery, or an appointed commission, to hear it under BCO 43-8.",
+  "first_summary": "Armes challenged Presbytery's refusal to hear his second complaint about Session's trespass notice and threat of arrest, which Presbytery deemed duplicative of his pending excommunication complaint. The SJC sustained the complaint because the trespass action occurred later and was distinct, although the related matters could be heard together. It remanded for Presbytery or a commission to hear the complaint under BCO 43-8.",
+  "summary": "Armes challenged Presbytery's refusal to hear his second complaint about Session's trespass notice and threat of arrest, which Presbytery treated as duplicating his pending excommunication complaint. The SJC sustained the complaint because the trespass action occurred later and was distinct, although the matters could be heard together. It remanded for Presbytery or a commission to hear the complaint under BCO 43-8. The SJC did not decide whether Session could issue such a notice; review remained subject to timely filing and standing.",
+  "sources": [
+    {
+      "path": "cases/ga39_2011__2009-12_2009-21.md",
+      "sha256": "09d4cd1be5954de5fa1a6ce2af50c693013d1da13ba4991822fce14010ef21ca",
+      "locator": "lines 45–109; printed pp. 531–533",
+      "supports": "Case identity, dispute, judgment, reasoning, remand instructions, qualifications, adoption, and vote."
+    }
+  ],
+  "evidence_notes": {
+    "identity_and_adoption": "Case 2009-21 begins at lines 45–47; the panel decision was adopted and amended by the full SJC at lines 103–109 (printed p. 533).",
+    "dispute": "The second complaint challenged Session's trespass notice and threat of arrest; Presbytery rejected it as duplicative of case 2009-12. Lines 49–85 (printed pp. 531–532).",
+    "outcomes_and_reasons": "The SJC held Presbytery erred, sustained the complaint, and remanded for a BCO 43-8 hearing because the later trespass action was not the same substance as the excommunication dispute. Lines 87–101 (printed pp. 532–533).",
+    "qualifications": "The matters could be heard simultaneously; the SJC did not imply that sessions may never issue trespass notices, and review required timely filing and standing. Lines 95–101. The contrary standing analysis at lines 113–163 is a dissent, not adopted reasoning.",
+    "incorporated_decisions": "No decision is incorporated by reference; case 2009-12 is discussed only as the related pending complaint."
+  },
+  "source_limits": "The supplied report contains the operative majority decision and a dissent but not the underlying filings. Although line 81 calls the submission an appeal, the operative headings, issue, and judgment treat it as a complaint.",
+  "benchmark_examples": [
+    "C01",
+    "C02"
+  ],
+  "scores": {
+    "concrete_dispute": 2,
+    "decision": 2,
+    "decisive_reason": 2,
+    "distinctive_value": 2,
+    "fidelity": 2,
+    "economy": 2
+  },
+  "score_reasons": {
+    "concrete_dispute": "Identifies the refusal to hear the trespass-related complaint as duplicative.",
+    "decision": "States both sustaining the complaint and remanding for a hearing.",
+    "decisive_reason": "Explains that the later trespass action was distinct from excommunication.",
+    "distinctive_value": "Preserves possible joint hearings and the no-merits-ruling qualification.",
+    "fidelity": "Separates the majority ruling from the dissent and procedural nomenclature.",
+    "economy": "Retains only facts needed to explain the dispute, result, and limits."
+  },
+  "verification_notes": "Rechecked the judgment and reasoning at lines 87–101. The final summary adds that simultaneous hearings remained possible, that the SJC did not decide whether the notice itself was permissible, and that timely filing and standing still governed review.",
+  "repair_needed": false,
+  "repair_notes": ""
+}

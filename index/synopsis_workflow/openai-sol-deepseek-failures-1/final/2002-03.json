@@ -1,0 +1,59 @@
+{
+  "case_id": "2002-03",
+  "title": "RE Leland Nichols and RE Sam Couch v. James River Presbytery",
+  "matter_type": "complaint",
+  "final_dispositions": [
+    "judicially_out_of_order",
+    "in_order",
+    "sustained",
+    "not_sustained"
+  ],
+  "disposition_detail": "Complaints 16-01, 18-01, and 19-01 were judicially out of order; the other consolidated complaints were in order. The challenge to Presbytery’s delay in granting West End’s valid dissolution request was sustained, while the challenge to Presbytery’s three-month salary gift was not sustained. The judgment did not separately resolve every remaining complaint by number.",
+  "first_summary": "Ruling elders challenged James River Presbytery’s delay in honoring West End’s congregational vote to dissolve its pastoral relationship and its three-month salary gift to the pastor. The SJC held that Presbytery lacked a constitutional basis to delay a valid dissolution request but could use its own civil funds for benevolent giving. Several complaints were judicially out of order; the others were in order.",
+  "summary": "Ruling elders challenged James River Presbytery’s delay in honoring West End’s valid congregational vote to dissolve its pastoral relationship and a three-month salary gift to the pastor. The SJC held that Presbytery lacked a constitutional basis to delay the dissolution, but rejected the challenge to its benevolent use of its own civil funds. Complaints 16-01, 18-01, and 19-01 were judicially out of order; the others were in order. No remand or repayment was ordered. A concurrence cautioned that prompt dissolution is not automatic when objective, justifiable findings support refusal.",
+  "sources": [
+    {
+      "path": "cases/ga33_2005__2001-34_2002-02_2002-03.md",
+      "sha256": "52e813b92c9768e97716c84fe3a88bdbe80f7ec6b4773e108b4afb253cb5e938",
+      "locator": "lines 292–324, 328–358, 360–436, 592–641; printed pp. 84–97",
+      "supports": "Issues, judgment, procedural rulings, dissolution reasoning, and salary-gift ruling."
+    },
+    {
+      "path": "cases/ga33_2005__2001-34_2002-02_2002-03.md",
+      "sha256": "52e813b92c9768e97716c84fe3a88bdbe80f7ec6b4773e108b4afb253cb5e938",
+      "locator": "lines 645–671; printed pp. 97–98",
+      "supports": "Adoption by the full SJC and the separate concurrence’s qualification."
+    }
+  ],
+  "evidence_notes": {
+    "identity_and_adoption": "The consolidated caption identifies Case 2002-03 and the parties (lines 13–25); the full SJC approved the decision October 22, 2004 (lines 645–655).",
+    "dispute": "The stated issues concern delayed dissolution and Presbytery’s salary gift (lines 292–299, printed p. 84).",
+    "outcomes_and_reasons": "The judgment identifies out-of-order and in-order complaints, finds no constitutional basis for delay, and upholds the gift (lines 300–324); reasons appear at lines 328–641.",
+    "qualifications": "The separate concurrence says dissolution need not be automatic if objective, justifiable findings support refusal (lines 659–671, printed p. 98).",
+    "incorporated_decisions": "The majority invoked Cases 91-2 and 92-2 for the principle that BCO 23-1 discretion cannot prevent implementation of a valid congregational decision (lines 494–570, printed pp. 91–94)."
+  },
+  "source_limits": "The opinion consolidates three cases and seventeen complaints; its formal judgment addresses grouped issues rather than giving a separate merits disposition for every in-order complaint.",
+  "benchmark_examples": [
+    "C01",
+    "C02"
+  ],
+  "scores": {
+    "concrete_dispute": 2,
+    "decision": 2,
+    "decisive_reason": 2,
+    "distinctive_value": 2,
+    "fidelity": 2,
+    "economy": 2
+  },
+  "score_reasons": {
+    "concrete_dispute": "Identifies the delayed dissolution and salary gift.",
+    "decision": "States the successful, unsuccessful, and out-of-order results.",
+    "decisive_reason": "Explains both the valid congregational request and Presbytery’s control of its civil funds.",
+    "distinctive_value": "Preserves the concurrence’s limitation on automatic dissolution.",
+    "fidelity": "Separates the majority judgment from the concurrence and avoids assigning unstated issue-level results.",
+    "economy": "Retains only facts needed to explain the dispute and outcome."
+  },
+  "verification_notes": "Rechecked the formal judgment and corrected the synopsis to identify only the three Case 2002-03 complaints expressly ruled judicially out of order, to distinguish the salary-gift ruling from the dissolution ruling, and to label the nonautomatic-dissolution qualification as a separate concurrence. Confirmed that no remand or repayment was ordered.",
+  "repair_needed": false,
+  "repair_notes": "No source or catalog repair is required."
+}

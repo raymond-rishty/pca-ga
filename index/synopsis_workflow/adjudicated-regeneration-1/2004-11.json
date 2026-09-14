@@ -1,0 +1,31 @@
+{
+  "case_id": "2004-11",
+  "title": "Appeal of TE Robert J. Scott v. Northern California Presbytery",
+  "matter_type": "appeal",
+  "final_dispositions": ["moot"],
+  "disposition_detail": "The 33rd General Assembly minutes record the appeal as found moot; no merits ruling or further relief is published.",
+  "first_summary": "A teaching elder's appeal against Northern California Presbytery was found moot. The published entry on page 71 identifies neither the challenged ruling nor the reason for mootness, and no separate merits opinion was published.",
+  "summary": "A teaching elder's appeal against Northern California Presbytery was found moot. The published entry on page 71 identifies neither the challenged ruling nor the reason for mootness, and no separate merits opinion was published.",
+  "sources": [{"path":"cases/ga33_2005__stub_2004-11.md","sha256":"630a621cec5d7e82c81bf5ec91838cf6ae93ec2a6f1e94612ad654fbd5011214","locator":"M33GA p. 71; case-page lines 1-11","supports":"Case identity, appellate posture, mootness, printed-page locator, and absence of a published merits opinion."}],
+  "evidence_notes": {
+    "identity_and_adoption":"The SJC case list identifies Appeal 2004-11, Robert J. Scott v. Northern California Presbytery.",
+    "dispute":"The source does not disclose the challenged Presbytery ruling.",
+    "outcomes_and_reasons":"The minutes state that Case 2004-11 was found moot but supply no reason.",
+    "qualifications":"No separate merits decision is published.",
+    "incorporated_decisions":"No incorporated decision is identified."
+  },
+  "source_limits":"M33GA p. 71 is a sparse final-status entry; it gives no underlying dispute or mootness rationale.",
+  "benchmark_examples":["A14"],
+  "scores":{"concrete_dispute":0,"decision":2,"decisive_reason":2,"distinctive_value":1,"fidelity":2,"economy":2},
+  "score_reasons":{
+    "concrete_dispute":"The published record does not reveal the challenged action.",
+    "decision":"States the supported mootness disposition.",
+    "decisive_reason":"Accurately reports that no reason is published rather than inventing one.",
+    "distinctive_value":"Preserves the limits of the historical record.",
+    "fidelity":"Does not attach neighboring withdrawal or abandonment language to this docket.",
+    "economy":"The short synopsis matches the sparse source."
+  },
+  "verification_notes":"Rechecked the SJC case list and index at M33GA p. 71. Added the printed-page locator and confirmed that mootness—not dismissal or abandonment—is the only supported disposition.",
+  "repair_needed":false,
+  "repair_notes":"The case page now links directly to the M33GA p. 71 source location."
+}

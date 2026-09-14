@@ -1,0 +1,50 @@
+{
+  "case_id": "2022-13",
+  "title": "Miller v. Hills & Plains Presbytery",
+  "matter_type": "complaint",
+  "final_dispositions": [
+    "administratively_out_of_order"
+  ],
+  "disposition_detail": "Complaint found administratively out of order and incapable of being put in order; no merits determination. The case-file header labels the disposition “dismissed,” but the adopted SJC decision specifies administrative out-of-order.",
+  "first_summary": "Miller’s complaint against Hills & Plains Presbytery was dismissed by the SJC because he filed his BCO 43-1 complaint with his Session more than 60 days after the Session’s May 19, 2021 letter standing by its decision to allow a non-church yoga class to meet on church property. The SJC cited an earlier one-day-late filing precedent and did not reach the merits.",
+  "summary": "Wade Miller challenged his Session’s May 19, 2021 letter standing by its decision to permit a non-church yoga class to meet on church property. The SJC held the complaint administratively out of order and incapable of being put in order: that letter triggered BCO 43-1’s 60-day deadline, but Miller filed with the Session on November 20, 2021, and no new Session action occurred within the preceding 60 days. Citing a one-day-late precedent, the SJC reached no merits.",
+  "sources": [
+    {
+      "path": "cases/ga50_2023__2022-13.md",
+      "sha256": "4c028acc1b8a391ba6ebabfce88de1572c04652aba602ec3390054724dfbb293",
+      "locator": "lines 1–29; pdf pp. 930–931 / printed pp. 922–923",
+      "supports": "Case identity, adopted decision, reasoning, vote, and cited precedent."
+    }
+  ],
+  "evidence_notes": {
+    "identity_and_adoption": "Lines 1–3 identify the SJC, 50th General Assembly (2023), case 2022-13, Miller v. Hills & Plains Presbytery. Lines 27–29 record that the SJC Officers recommended the decision and the SJC approved it 22–0 with two absent, all concurring; ruling elders are marked R. No separate opinion appears.",
+    "dispute": "Lines 19–21: complainant challenged the Session’s May 19, 2021 letter standing by its prior decision to permit a certain non-church yoga class to meet on church property; Miller filed his BCO 43-1 complaint with the Session on November 20, 2021.",
+    "outcomes_and_reasons": "Lines 19–21: the SJC finds the complaint administratively out of order and unable to be put in order because it was filed after BCO 43-1’s 60-day deadline. The May 19, 2021 letter triggered the deadline, and no new Session action occurred in the 60 days before November 20, 2021. Line 25 cites Case 2001-32.",
+    "qualifications": "Lines 21, 27–29: the decision is purely threshold and reaches no merits; no lower-court or Presbytery merits finding is adopted. The vote was 22–0 with two absent and all concurring. Source covers pdf pp. 930–931 / printed pp. 922–923.",
+    "incorporated_decisions": "Line 25 cites SJC Case 2001-32, Session of Christ Covenant v. Central Carolina (M31GA, 2013, p. 107), as precedent: there the original complaint to Session was one day late but was considered by Session and Presbytery, and the SJC still ruled it out of order. It is cited, not incorporated as the decision here."
+  },
+  "source_limits": "Sparse record: only the SJC decision and vote are supplied, without the full complaint, Session or Presbytery record, or merits analysis. The case-file header’s “dismissed” label is broader than the adopted ruling’s precise administrative out-of-order finding; the synopsis follows the adopted decision.",
+  "benchmark_examples": [
+    "C01 Allin: comparison for preserving threshold procedural defect and refused relief; here the SJC addressed only timeliness.",
+    "C20 Daniels: comparison for a short-record disposition; do not supply a rationale or merits discussion absent from the adopted ruling."
+  ],
+  "scores": {
+    "concrete_dispute": 2,
+    "decision": 2,
+    "decisive_reason": 2,
+    "distinctive_value": 2,
+    "fidelity": 2,
+    "economy": 2
+  },
+  "score_reasons": {
+    "concrete_dispute": "Identifies the challenged Session letter standing by permission for a non-church yoga class and the untimely BCO 43-1 filing.",
+    "decision": "States the SJC’s sole operative result: administrative out-of-order and incapable of being put in order, with no merits ruling.",
+    "decisive_reason": "Explains the adopted reason: the 60-day deadline ran from May 19, 2021, but Miller filed November 20, 2021, with no new Session action in the preceding 60 days.",
+    "distinctive_value": "Preserves the threshold rule that original filing timeliness controls and cites the one-day-late precedent.",
+    "fidelity": "Distinguishes the adopted decision from the case-file header label and does not invent a merits ruling, lower-court verdict, or separate opinion.",
+    "economy": "Keeps only the Session action, filing dates, BCO 43-1 deadline, no-new-action finding, and vote needed to explain the result."
+  },
+  "verification_notes": "Rechecked the adopted decision at lines 19–21 and corrected the first summary’s generic “dismissed” label to the SJC’s precise administrative out-of-order finding. Rechecked the May 19, 2021 trigger date, November 20, 2021 Session filing, absence of any new Session action in the preceding 60 days, citation to Case 2001-32, and the 22–0 vote with two absent. Confirmed that no merits determination or separate opinion is present.",
+  "repair_needed": false,
+  "repair_notes": "No repair needed. The only inconsistency is the case-file header’s broad “dismissed” label versus the adopted decision’s precise administrative out-of-order finding; the synopsis resolves that from the decision text."
+}

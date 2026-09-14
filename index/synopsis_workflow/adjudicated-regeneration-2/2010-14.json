@@ -1,0 +1,18 @@
+{
+  "case_id": "2010-14",
+  "title": "Michael A. McNeil v. Chesapeake Presbytery",
+  "matter_type": "complaint",
+  "final_dispositions": ["judicially_out_of_order"],
+  "disposition_detail": "The SJC reported the complaint judicially out of order without a published reason or merits decision.",
+  "first_summary": "The SJC reported McNeil’s complaint against Chesapeake Presbytery as judicially out of order. The published status notice supplies no explanation for that ruling or substantive account of the dispute.",
+  "summary": "The SJC reported McNeil’s complaint against Chesapeake Presbytery as judicially out of order. The published status notice supplies no explanation for that ruling or substantive account of the dispute.",
+  "sources": [{"path":"cases/ga39_2011__stub_2010-14.md","sha256":"c64749ca9218affc65431cd1bd9cacb6f92e92b1459fa97824ba461f0e390908","locator":"M39GA pp. 527-528; judicial-case list and status paragraph","supports":"McNeil/Chesapeake identity and judicially-out-of-order status."}],
+  "evidence_notes": {"identity_and_adoption":"The SJC report identifies 2010-14 as Michael A. McNeil v. Chesapeake Presbytery.","dispute":"The status notice gives no substantive account of the complaint.","outcomes_and_reasons":"The report lists 2010-14 among complaints found judicially out of order and supplies no reason.","qualifications":"No merits decision is published.","incorporated_decisions":"Not applicable."},
+  "source_limits": "Sparse final-status notice; the prior stub incorrectly borrowed facts from 2010-04.",
+  "benchmark_examples": ["C20"],
+  "scores": {"concrete_dispute":0,"decision":2,"decisive_reason":2,"distinctive_value":1,"fidelity":2,"economy":2},
+  "score_reasons": {"concrete_dispute":"Unavailable in the source.","decision":"States judicially out of order.","decisive_reason":"Accurately reports that no explanation is published.","distinctive_value":"Separates this docket from 2010-04.","fidelity":"No Sartorius facts remain attached to McNeil.","economy":"Appropriately brief."},
+  "verification_notes": "Astra identified and removed the 2010-04/2010-14 hybrid, then verified the replacement against the case list and status paragraph.",
+  "repair_needed": false,
+  "repair_notes": "Identity, source stub, and durable metadata were repaired."
+}

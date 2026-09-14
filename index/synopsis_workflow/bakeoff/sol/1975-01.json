@@ -1,0 +1,34 @@
+{
+  "case_id": "1975-01",
+  "title": "Rev. Harold L. Webb & Rev. Thomas Miller v. Pacific Presbytery",
+  "matter_type": "complaint",
+  "dispositions": ["dismissed"],
+  "summary": "Ministers complained that Pacific Presbytery conducted nonroutine business without the constitutionally required quorum of three teaching and three ruling elders. The Assembly agreed that the August 4, 1975 actions were irregular, but dismissed the complaint because Presbytery later met with a quorum and ratified those actions. The dismissal therefore reflected correction of the defect, not approval of proceeding without a quorum.",
+  "sources": [
+    {
+      "path": "cases/ga03_1975__case1.md",
+      "sha256": "d9fbaf3a0038ae20fa5b8144a15935333b675691eda94964f5009dd37f7a4565",
+      "locator": "lines 129-143; printed pp. 85-86, adopted report 3-72",
+      "supported_claims": "The Assembly adopted the report finding nonroutine actions unconstitutional for lack of quorum and dismissing because a later quorate meeting ratified them."
+    }
+  ],
+  "source_limits": "The adopted report states the constitutional defect and curative ratification but does not separately analyze the legal effect of ratification.",
+  "evidence_notes": [
+    "Canonical 1975-01 corresponds to printed item 3-12, adjudicated through adopted report 3-72.",
+    "The deciding body found an irregularity but dismissed after the complained-of actions were rectified.",
+    "The merits of each item transacted at the August meeting were not adjudicated."
+  ],
+  "benchmark_examples": ["C16 Avery and Lewelling", "C19 Crouse"],
+  "scores": {"concrete_dispute": 2, "decision": 2, "decisive_reason": 2, "distinctive_value": 2, "fidelity": 2, "economy": 2},
+  "score_reasons": {
+    "concrete_dispute": "Identifies the challenged lack of quorum for nonroutine business.",
+    "decision": "States both the irregularity and dismissal.",
+    "decisive_reason": "Explains that later ratification cured the defect.",
+    "distinctive_value": "Preserves why dismissal did not validate quorumless action.",
+    "fidelity": "Tracks the adopted report and does not convert dismissal into a merits rejection.",
+    "economy": "Keeps only the dispute, ruling, reason, and limiting effect."
+  },
+  "verification_notes": "Separate source-checking pass by the same reviewer re-read the adopted report at lines 129-143 and confirmed each substantive sentence, the corrective event, and the non-merits implication.",
+  "repair_needed": false,
+  "repair_notes": "No source or identity defect prevents this synopsis."
+}

@@ -1,0 +1,35 @@
+{
+  "case_id": "2023-07",
+  "title": "Evans v. Arizona Presbytery",
+  "matter_type": "appeal",
+  "dispositions": ["sustained", "reversed"],
+  "summary": "Arizona Presbytery divested a minister without censure for prolonged lack of call after he had joined an EPCEW congregation and notified Presbytery of his withdrawal. The SJC sustained his appeal and reversed the divestiture because BCO 38-3(a) had already ended Presbytery's jurisdiction while he was in good standing and under no investigation or charges. It directed Presbytery to record the irregular withdrawal, acknowledge his new membership, and remove him from its roll.",
+  "sources": [
+    {
+      "path": "cases/ga51_2024__2023-07.md",
+      "sha256": "b20821726c97c901011fd76167350fea4acbfbb799a9459a48cf71ecb5042b9a",
+      "locator": "lines 33-77, 89-109, and 125-157; printed pp. 809-815, facts, issue, judgment, reasoning, and remedy",
+      "supported_claims": "Supports affiliation and notice, divestiture, sustained appeal, loss of jurisdiction under BCO 38-3(a), conditions of good standing/no process, reversal, and required roll actions."
+    }
+  ],
+  "source_limits": "Separate concurrences argued the appeal should have been out of order; the synopsis follows the unanimously adopted decision, which sustained and reversed.",
+  "evidence_notes": [
+    "Evans affiliated with the EPCEW before Presbytery began BCO 34-10 proceedings and was in good standing with no investigation or charges pending.",
+    "Under the adopted decision, withdrawal was an act rather than a request requiring further approval or receiving-body documentation.",
+    "The SJC reversed the divestiture and directed the three BCO 38-3(a) record actions.",
+    "Separate opinions' standing objections were not the holding."
+  ],
+  "benchmark_examples": ["A05 Dudt", "A04 Mapes", "C17 Wilson"],
+  "scores": {"concrete_dispute": 2, "decision": 2, "decisive_reason": 2, "distinctive_value": 2, "fidelity": 2, "economy": 2},
+  "score_reasons": {
+    "concrete_dispute": "Identifies withdrawal followed by divestiture.",
+    "decision": "States sustained appeal, complete reversal, and directions.",
+    "decisive_reason": "Explains why jurisdiction had ended under BCO 38-3(a).",
+    "distinctive_value": "Preserves the conditions and mandatory record steps.",
+    "fidelity": "Uses the adopted ruling rather than concurring standing theories.",
+    "economy": "Avoids unnecessary chronology while retaining the jurisdictional sequence."
+  },
+  "verification_notes": "Separate source-checking pass by the same reviewer re-read the issue, judgment, BCO 38-3(a) analysis, and remedy and confirmed that concurring out-of-order theories were excluded.",
+  "repair_needed": false,
+  "repair_notes": "No source or catalog defect prevents this synopsis."
+}

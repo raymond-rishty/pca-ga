@@ -1,0 +1,51 @@
+{
+  "case_id": "2010-28",
+  "title": "Gonzales v. Great Lakes Presbytery",
+  "matter_type": "complaint",
+  "final_dispositions": [
+    "sustained",
+    "annulled"
+  ],
+  "disposition_detail": "The complaint was sustained only as to Presbytery’s approval of recommendation five, and that action was annulled under BCO 43-10. Approval of recommendations one through four was not annulled; a separate concurrence states that only one of nine alleged errors was sustained.",
+  "first_summary": "Gonzales challenged Great Lakes Presbytery’s approval of recommendations arising from a BCO 31-2 investigation, including a warning that disregarding its pastoral advice could affect his recommendation or transfer. The SJC sustained the complaint as to that warning and annulled its approval. Although Presbytery could provide pastoral counsel, it could not, without judicial process, use that counsel to diminish a minister’s good standing.",
+  "summary": "Gonzales challenged Great Lakes Presbytery’s approval of recommendations following a BCO 31-2 investigation that found no basis for charges. The SJC sustained the complaint only as to recommendation five—which threatened adverse consequences for his recommendation or transfer if he rejected pastoral advice—and annulled its approval. Presbytery could offer pastoral oversight and counsel, including the other recommendations, but without judicial process that counsel could not expressly or implicitly diminish his good standing.",
+  "sources": [
+    {
+      "path": "cases/ga40_2012__2010-28.md",
+      "sha256": "b03ca2eeb57a62f25c54fb0a48624f3a51eb9dd027c1d68107d2aa65e2428e6b",
+      "locator": "lines 85–117, printed pp. 546–547; lines 127–192, printed pp. 548–550",
+      "supports": "Issue, judgment sustaining the complaint as to recommendation five, annulment, adopted reasoning, and the separate concurrence’s qualifications."
+    }
+  ],
+  "evidence_notes": {
+    "identity_and_adoption": "Lines 1–3 identify the case and SJC; lines 117–123 state that the full SJC adopted the decision, 23 concurring and one absent.",
+    "dispute": "Lines 57–67 describe the five recommendations; lines 77–87 identify the complaint and challenged approval.",
+    "outcomes_and_reasons": "Lines 89–115 sustain the complaint as to recommendation five, annul its approval, and explain that pastoral counsel cannot diminish good standing without due process.",
+    "qualifications": "Lines 127–137 and 169–192 are a separate concurrence offering a procedural rationale and stressing that annulment does not require approval of a future call or transfer.",
+    "incorporated_decisions": "No decision is incorporated by reference."
+  },
+  "source_limits": "The adopted decision does not enumerate all nine alleged errors mentioned by the separate concurrence, so their individual grounds cannot be summarized.",
+  "benchmark_examples": [
+    "C01",
+    "C20"
+  ],
+  "scores": {
+    "concrete_dispute": 2,
+    "decision": 2,
+    "decisive_reason": 2,
+    "distinctive_value": 2,
+    "fidelity": 2,
+    "economy": 2
+  },
+  "score_reasons": {
+    "concrete_dispute": "Identifies Presbytery’s approval of recommendation five after a charge-free investigation.",
+    "decision": "States the limited sustainment and annulment while preserving recommendations one through four.",
+    "decisive_reason": "Gives the adopted due-process and good-standing rationale.",
+    "distinctive_value": "Preserves the distinction between permissible pastoral counsel and an impermissible impairment of good standing.",
+    "fidelity": "Separates the adopted rationale from the concurrence and does not reconstruct unspecified allegations.",
+    "economy": "Retains only facts needed to explain the dispute, ruling, and limitation."
+  },
+  "verification_notes": "Rechecked the judgment and adopted reasoning at lines 89–117. The final summary clarifies that only recommendation five was annulled, that recommendations one through four remained undisturbed, and that the concurrence’s future-transfer discussion was not the adopted rationale.",
+  "repair_needed": false,
+  "repair_notes": ""
+}

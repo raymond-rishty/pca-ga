@@ -1,0 +1,63 @@
+{
+  "case_id": "2023-02",
+  "title": "Reynolds v. Pee Dee Presbytery",
+  "matter_type": "complaint",
+  "final_dispositions": [
+    "judicially_out_of_order",
+    "dismissed"
+  ],
+  "disposition_detail": "The SJC ruled the complaint judicially out of order because it was not timely filed under BCO 43-2 and dismissed it. It expressly declined to decide whether Mrs. Reynolds could bring a personal-offense charge as an injured party under BCO 31-5 or whether the Session had jurisdiction over claims outside the confession it received.",
+  "first_summary": "The SJC dismissed Mrs. Kappie Reynolds's complaint against Pee Dee Presbytery because it was untimely under BCO 43-2, since it challenged a Session's confession-related action taken more than six months before filing. The ruling did not decide whether Reynolds could bring an injured-party charge or whether the Session had jurisdiction over the confession.",
+  "summary": "The SJC dismissed Mrs. Kappie Reynolds's complaint against Pee Dee Presbytery as judicially out of order. The complaint challenged a Session's reception of and action on a confession at a meeting more than six months before filing, far outside BCO 43-2's sixty-day period; the SJC held the untimeliness was not demonstrated curable. The ruling expressly reserved whether Reynolds could proceed as an injured party under BCO 31-5 and whether the Session had jurisdiction over claims outside the received confession.",
+  "sources": [
+    {
+      "path": "cases/ga51_2024__2023-02.md",
+      "sha256": "a86fb6f8bf4184eb8fbd785e2f56bb9731cbb7f12941046d54c38e2160f48f20",
+      "locator": "lines 13–17, 29 (printed pp. 767–768)",
+      "supports": "Case identity, Ruling on Complaint date, panel composition, and SJC adoption by 18-1 vote."
+    },
+    {
+      "path": "cases/ga51_2024__2023-02.md",
+      "sha256": "a86fb6f8bf4184eb8fbd785e2f56bb9731cbb7f12941046d54c38e2160f48f20",
+      "locator": "lines 19–25 (printed p. 767)",
+      "supports": "Judicially out-of-order ruling, BCO 43-2 sixty-day timeliness ground, incurability, and dismissal."
+    },
+    {
+      "path": "cases/ga51_2024__2023-02.md",
+      "sha256": "a86fb6f8bf4184eb8fbd785e2f56bb9731cbb7f12941046d54c38e2160f48f20",
+      "locator": "lines 27, 31, 36 (printed pp. 767–768)",
+      "supports": "Reserved BCO 31-5 injured-party and Session jurisdiction issues; dissent and recusal details."
+    }
+  ],
+  "evidence_notes": {
+    "identity_and_adoption": "Lines 13–17 identify Case No. 2023-02, Mrs. Kappie Reynolds v. Pee Dee Presbytery, Ruling on Complaint dated October 20, 2023. Line 29 shows the SJC approved the Panel's 6/30/23 proposed Ruling by an 18-1 vote, with four absent and one recused.",
+    "dispute": "Lines 19–23 state that the complaint sought to redress acts or decisions of a Session that received and acted upon a confession at a meeting more than six months before the complaint was filed, placing it outside BCO 43-2's sixty-day period.",
+    "outcomes_and_reasons": "Lines 19–25 hold the complaint not demonstrated timely and not curable, declare it judicially out of order, and direct dismissal. No merits ruling is made.",
+    "qualifications": "Line 27 expressly reserves opinion on whether Mrs. Reynolds can proceed as an injured party under BCO 31-5 or whether the Session had jurisdiction over claims outside the received confession. Line 31 records Donahoe's dissent; line 36 records Ross's recusal for personal advice and prior knowledge.",
+    "incorporated_decisions": "The adopted Ruling appears at lines 19–27 and was approved after review of the Panel's 6/30/23 proposed Ruling (line 29). No material incorporated result is missing."
+  },
+  "source_limits": "The source supplies the adopted Ruling, vote tally, dissent notation, and recusal explanation. It does not include the full complaint, the Panel's proposed ruling, or the dissent's reasoning.",
+  "benchmark_examples": [
+    "C20 short-record example: do not invent a rationale for a disposition; here the untimeliness rationale is expressly stated.",
+    "C01 mixed-outcome example: preserve issue-level refusals; here the SJC expressly reserved two issues instead of deciding them."
+  ],
+  "scores": {
+    "concrete_dispute": 2,
+    "decision": 2,
+    "decisive_reason": 2,
+    "distinctive_value": 2,
+    "fidelity": 2,
+    "economy": 2
+  },
+  "score_reasons": {
+    "concrete_dispute": "Identifies the challenged Session action and the timeliness defect.",
+    "decision": "States the judicially out-of-order ruling, dismissal, and reserved issues.",
+    "decisive_reason": "Explains BCO 43-2's sixty-day period and the incurable untimeliness.",
+    "distinctive_value": "Preserves the express reservation of the BCO 31-5 and jurisdiction questions.",
+    "fidelity": "Keeps the adopted ruling distinct from the vote, dissent, and recusal; does not treat reserved issues as decided.",
+    "economy": "All retained details explain the dispute, result, or limitations."
+  },
+  "verification_notes": "Rechecked lines 19–29 against the first summary: corrected it to name the operative judicially out-of-order ruling and the exact BCO 43-2 sixty-day basis. Confirmed that the complaint challenged a Session's confession-related action, not merely a Presbytery filing step; confirmed the 18-1 adoption, Donahoe dissent, and Ross recusal; and confirmed that line 27 reserves rather than decides the BCO 31-5 and jurisdiction questions.",
+  "repair_needed": false,
+  "repair_notes": "No source or catalog defect identified."
+}

@@ -1,0 +1,50 @@
+{
+  "case_id": "1981-03",
+  "title": "Teaching Elder Rodney King, et al. v. Presbytery of Western Carolinas",
+  "matter_type": "complaint",
+  "final_dispositions": [
+    "not_sustained"
+  ],
+  "disposition_detail": "Sole material issue: complaint that Presbytery's one-year wait before receiving a petition for organization was unjust, arbitrary, prejudicial, and beyond the BCO—not sustained. The General Assembly adopted the Judicial Commission's report (10 for, 1 abstaining); the vote on sustaining the complaint was 1 for, 12 against. The dissent recommending sustain and annulment was admitted but not adopted.",
+  "first_summary": "A complaint alleged Presbytery's one-year delay before accepting a petition to organize a mission congregation was unjust, arbitrary, and beyond the BCO. The Judicial Commission did not sustain the complaint, citing BCO 5-1(1) discretion, the group's mission-only application, and the availability of Presbytery reconsideration. A dissent recommended sustain and annulment, but was not adopted.",
+  "summary": "A complaint challenged Presbytery's one-year delay before accepting a petition to organize a mission congregation. The General Assembly adopted the Judicial Commission's report and did not sustain the complaint. It reasoned BCO 5-1(1) gives Presbytery discretion over the time for organization, the group had sought only mission status, and the dispute was best handled at Presbytery, where complainants could seek reconsideration. A dissent recommending sustain and annulment was admitted but not adopted.",
+  "sources": [
+    {
+      "path": "cases/ga09_1981__case3.md",
+      "sha256": "64c71871ddf171442e7bf913f6a2fab461d3cca9411952ed83aca67f1b744172",
+      "locator": "lines 1–5, 9–83, 91–133; printed pp. 56–154",
+      "supports": "Case caption, complaint, adopted Judicial Commission report, vote and reasons, dissent, and recorded negative votes."
+    }
+  ],
+  "evidence_notes": {
+    "identity_and_adoption": "Source lines 1–5, 11, 41–43, 83. Caption: Teaching Elder Rodney King, et al. v. Presbytery of Western Carolinas; this is Complaint #4. The 9th General Assembly approved and accepted the Judicial Commission's statement and judgment as the Assembly's action and ordered it entered (lines 43, 83).",
+    "dispute": "Source lines 13–35, 99. The complaint targets the April 25, 1981 Presbytery action imposing a one-year wait before Presbytery could receive a petition for organization after receiving the Covenant Reformation Fellowship as a mission; complainants alleged the action was unjust, judgmental, arbitrary, prejudicial, and beyond the BCO.",
+    "outcomes_and_reasons": "Source lines 69, 73–83. Vote on sustaining the complaint: 1 for, 12 against. Adopted explanation: BCO 5-1(1) gives Presbytery discretionary authority over the time and date for organization; the group had applied only to be a mission; complainants could ask Presbytery to reconsider; and the matter was best handled at Presbytery. The report was adopted 10 for, 1 abstaining.",
+    "qualifications": "Source lines 93–127, 131–133. The dissent was admitted to record but not adopted; it recommends sustaining the complaint and annulling the action. Several commissioners requested that their negative votes be recorded. No adopted merits rationale appears beyond the majority explanation.",
+    "incorporated_decisions": "No incorporated judicial decision. Attachment A/Appendix A and Presbytery minutes are referenced (lines 21–23, 55, 61, 97) but are not included in the supplied source."
+  },
+  "source_limits": "One supplied case file only. Referenced Attachment A/Appendix A and the Presbytery minute extract are not included, so their contents cannot be independently checked. The dissent is recorded but not adopted. Header metadata labels the court as Committee on Judicial Business, while the source report is a Judicial Commission adopted by the Assembly.",
+  "benchmark_examples": [
+    "C01: preserve successful and unsuccessful issue-level outcomes; here the sole complaint issue failed while the dissent's contrary recommendation was not adopted.",
+    "C20: keep an admitted but unadopted separate opinion distinct from the adopted ruling."
+  ],
+  "scores": {
+    "concrete_dispute": 2,
+    "decision": 2,
+    "decisive_reason": 2,
+    "distinctive_value": 2,
+    "fidelity": 2,
+    "economy": 2
+  },
+  "score_reasons": {
+    "concrete_dispute": "Identifies the challenged Presbytery action: a one-year wait before receiving a petition for organization after mission reception.",
+    "decision": "States that the complaint was not sustained and that the dissent recommending sustain and annulment was not adopted.",
+    "decisive_reason": "Gives the adopted reasons: BCO 5-1(1) discretion, mission-only application, and Presbytery-level reconsideration and handling.",
+    "distinctive_value": "Shows the distinction between discretionary timing for organization and refusal to receive a petition, while preserving the non-adopted dissent and negative votes.",
+    "fidelity": "Attributes the ruling to the Assembly adopting the Commission report and separates the dissent from the adopted action; notes unavailable attachments.",
+    "economy": "Every retained detail explains the dispute, adopted reasoning, relief, or next step."
+  },
+  "verification_notes": "Reread lines 41–43, 69, 73–83, 93–127, and 131–133. Corrected first_summary's actor to identify the General Assembly's adoption of the Judicial Commission report as the decision, not the Commission alone, and confirmed the dissent was admitted but not adopted. Rechecked that Attachment A/Appendix A and Presbytery minutes are referenced but not supplied, and that no additional merits disposition appears.",
+  "repair_needed": false,
+  "repair_notes": "No source or catalog defect identified."
+}

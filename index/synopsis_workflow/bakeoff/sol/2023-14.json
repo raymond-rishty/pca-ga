@@ -1,0 +1,35 @@
+{
+  "case_id": "2023-14",
+  "title": "BCO 40-5 Matter re Northwest Georgia Presbytery",
+  "matter_type": "bco_40_5_matter",
+  "dispositions": ["partially_sustained", "denied"],
+  "summary": "Presbytery approved calls and installed three associate pastors after a constitutionally deficient election. The SJC found egregious error, including slate voting, a standing rather than ballot vote, and failure to determine and record the number of voters present under the then-current rule. It nevertheless denied the requested annulment of the installations because PCA judicial proceedings supplied no precedent and the remedy's legitimacy was doubtful. The SJC stayed further proceedings and declared the report concluded.",
+  "sources": [
+    {
+      "path": "cases/ga51_2024__2023-14.md",
+      "sha256": "91146679232316958f820d9179a613315f0b29b7dc7693c3f2dac968aeec9af3",
+      "locator": "lines 19-59; printed pp. 941-944, citation, operative ruling, reasons, and adoption",
+      "supported_claims": "Supports the BCO 40-5 posture, egregious-error finding, election defects, historical voting rule, denial of annulment, remedy rationale, stay, and conclusion of proceedings."
+    }
+  ],
+  "source_limits": "The source does not label the result 'partially sustained'; that controlled disposition is used to represent the adverse finding coupled with denial of requested relief. The detailed moderator-duty error is omitted for economy, while the principal defects and remedy are preserved.",
+  "evidence_notes": [
+    "The SJC directly reviewed Presbytery's delinquency in approving calls and proceeding with installations, not the congregation or moderator as such.",
+    "Election defects included combined slate voting, standing vote, failure to ascertain voters present, and inadequate moderator action concerning a large minority.",
+    "The voting-presence requirement was the historical BCO 20-4 language before a 2022 revision.",
+    "The requested annulment was refused despite the constitutional-error finding; proceedings were stayed and concluded."
+  ],
+  "benchmark_examples": ["B03 Northwest Georgia", "B01 Central Carolina"],
+  "scores": {"concrete_dispute": 2, "decision": 2, "decisive_reason": 2, "distinctive_value": 2, "fidelity": 2, "economy": 2},
+  "score_reasons": {
+    "concrete_dispute": "Identifies the defective election, calls, and installations.",
+    "decision": "States both the adverse finding and denied remedy, plus final procedural effect.",
+    "decisive_reason": "Explains the defects and why annulment was unavailable.",
+    "distinctive_value": "Preserves the historical voting rule and error/remedy distinction.",
+    "fidelity": "Does not collapse the result into denial or imply installations were annulled.",
+    "economy": "Selects the principal defects while retaining the practical result."
+  },
+  "verification_notes": "Separate source-checking pass by the same reviewer re-read the operative ruling and enumerated election errors at lines 31-59; the final candidate preserves the historical rule, refused relief, and termination of proceedings.",
+  "repair_needed": true,
+  "repair_notes": "The generated case-page header says only disposition 'other,' while the canonical catalog uses partially_sustained and denied. The source itself uses an egregious-error finding, refuses annulment, and concludes proceedings; disposition detail should be reconciled so readers do not mistake the report as simply denied."
+}

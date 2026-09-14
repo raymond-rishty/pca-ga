@@ -1,0 +1,49 @@
+{
+  "case_id": "2001-22",
+  "title": "Complaint RE Moon K. Ham vs. Korean Capital Presbytery",
+  "matter_type": "complaint",
+  "final_dispositions": [
+    "withdrawn"
+  ],
+  "disposition_detail": "Complaint 01-22 was withdrawn; the 30th General Assembly record lists no merits ruling or issue-level disposition.",
+  "first_summary": "Complaint 01-22, brought by Moon K. Ham against Korean Capital Presbytery, was withdrawn according to the 30th General Assembly record. No separate merits opinion was published explaining the withdrawal or the underlying dispute.",
+  "summary": "This sparse record concerns Complaint 01-22 by Moon K. Ham against Korean Capital Presbytery. The 30th General Assembly record lists the complaint as withdrawn, with no separate merits opinion and no stated reasons; the source does not describe the challenged lower-court action, the allegations, or any relief. It should be cited only as a withdrawal disposition, not as a merits precedent or an abandonment.",
+  "sources": [
+    {
+      "path": "cases/ga30_2002__stub_2001-22.md",
+      "sha256": "67bc5095828fd9414832a1b43c21127f0ca7e4dd365bbd3b8ce8d99f59cd7ccb",
+      "locator": "lines 1–11, especially lines 3 and 9",
+      "supports": "Identifies case 2001-22, its parties and court, the withdrawal disposition, and the absence of a separate merits opinion."
+    }
+  ],
+  "evidence_notes": {
+    "identity_and_adoption": "Source lines 1–3 identify 2001-22 as a complaint by Moon K. Ham against Korean Capital Presbytery before the SJC/30th Assembly and state the disposition as “Withdrawn.”",
+    "dispute": "Source line 1 supplies only the case title and parties; the challenged lower-court action and complaint allegations are not described.",
+    "outcomes_and_reasons": "Source line 3 records the disposition as “Withdrawn,” and line 9 lists 01-22 among withdrawn cases; no reasons or merits ruling are given.",
+    "qualifications": "Source line 5 states no separate merits opinion was published; line 9’s group-disposition excerpt ends mid-sentence (“Since the cases”), limiting context.",
+    "incorporated_decisions": "No incorporated decision or merits opinion is supplied; the record is a group notation that 01-22 was withdrawn."
+  },
+  "source_limits": "Only a sparse stub is supplied. It does not describe the lower-court action, the complaint grounds, any hearing, any merits analysis, or the reason for withdrawal; the line 9 excerpt is truncated after “Since the cases.”",
+  "benchmark_examples": [
+    "C20 2016-13 Daniels et al. v. Nashville Presbytery — an unexplained disposition must remain unexplained in an editorial synopsis."
+  ],
+  "scores": {
+    "concrete_dispute": 1,
+    "decision": 2,
+    "decisive_reason": 2,
+    "distinctive_value": 1,
+    "fidelity": 2,
+    "economy": 2
+  },
+  "score_reasons": {
+    "concrete_dispute": "Identifies the complaint parties and vehicle but not the challenged conduct or lower-court action.",
+    "decision": "States the sole material disposition: withdrawal.",
+    "decisive_reason": "Faithfully reports that no adopted reason or merits explanation appears.",
+    "distinctive_value": "Preserves the distinction between withdrawal and abandonment and warns against treating the stub as a merits precedent.",
+    "fidelity": "Keeps the withdrawal notation separate from merits, allegations, and any incorporated reasoning.",
+    "economy": "Every retained detail concerns identity, withdrawal, or the absence of merits explanation."
+  },
+  "verification_notes": "Rechecked source line 3 (“Withdrawn”), line 5 (no separate merits opinion), and line 9 (01-22 listed among withdrawn cases). Confirmed the excerpt gives no reason or issue-level ruling and ends mid-sentence; the synopsis was corrected to avoid implying abandonment, adjudication, or an unavailable rationale.",
+  "repair_needed": false,
+  "repair_notes": "No source or catalog defect requiring repair; the sparse record is accurately labeled as a stub."
+}

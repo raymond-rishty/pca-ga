@@ -1,0 +1,50 @@
+{
+  "case_id": "2001-28",
+  "title": "Complaint of TE Larry Ball vs. Westminster Presbytery",
+  "matter_type": "complaint",
+  "final_dispositions": [
+    "not_sustained"
+  ],
+  "disposition_detail": "Issue answered no; complaint denied; no specification sustained. Adopted 17 concur, 1 dissent, 1 recused, 5 absent.",
+  "first_summary": "A complaint challenged Westminster Presbytery's denial of a challenge to its May 15, 2001 withdrawal plan. The SJC held that the Presbytery did not err because BCO 25 and the BCO Preface give a presbytery a right to withdraw and it did not act for local churches. The complaint was denied; the SJC did not sustain the specifications.",
+  "summary": "A complaint challenged Westminster Presbytery's denial of a challenge to its May 15, 2001 plan to withdraw from the PCA. The SJC answered no: the Presbytery did not err, and denied the complaint. BCO 25's local-church withdrawal right and the BCO Preface's grassroots principles extend to presbyteries unless expressly excluded, so a presbytery may determine its own membership and affiliation. The plan did not 'act for' local churches; they retained rights to remain in the PCA or leave, and retained property and internal operations.",
+  "sources": [
+    {
+      "path": "cases/ga30_2002__2001-28.md",
+      "sha256": "79cc6e5fd0caf59ae63775ce13bfb7bdbd271281de94e158ed522979f11f108f",
+      "locator": "lines 12–179 (printed pp. 162–172)",
+      "supports": "Case identity, complaint issue, judgment, adopted reasoning, adoption vote, and limitations."
+    }
+  ],
+  "evidence_notes": {
+    "identity_and_adoption": "Case 2001-28, lines 1–5, 12–14; Standing Judicial Commission of the 30th General Assembly. Adopted at line 179: 17 concur, 1 dissent, 1 recused, 5 absent.",
+    "dispute": "Lines 18–24, 30–38, 46–52: Ball complained that Westminster Presbytery erred in denying his complaint against the May 15, 2001 withdrawal plan; the SJC framed the issue as whether the Presbytery erred and answered no, denying the complaint.",
+    "outcomes_and_reasons": "Lines 52, 125–27, 141–52, 154–75: complaint denied; adopted reason extends BCO 25/Preface withdrawal rights to a presbytery unless expressly excluded, allows presbytery to determine its own membership and affiliation, and rejects the 'acting for' local-church theory.",
+    "qualifications": "Lines 58–66, 131–33, 177–79: prior GA and CCB advice described; SJC treated the complaint as one issue, not eight; separate dissent appears only in roll call, with no dissent opinion text supplied.",
+    "incorporated_decisions": "Lines 66, 74, 158–75: cites the 2nd General Assembly enrollment proviso, the 1986 Ad Interim Committee on Structure, and Case 1995-7 Edgemont Session v. Westminster Presbytery for reasoning; full prior decisions are not supplied and no operative result is incorporated."
+  },
+  "source_limits": "The source supplies the SJC's adopted judgment and reasoning plus roll-call vote. It does not include the ROC, party briefs, full prior GA minutes, or the full Edgemont decision; no separate dissent opinion text is provided.",
+  "benchmark_examples": [
+    "C01 (1978-02 Allin): preserve complaint outcomes and distinguish rejected claims.",
+    "C20 (2016-13 Daniels): do not supply a rationale the adopted ruling omits."
+  ],
+  "scores": {
+    "concrete_dispute": 2,
+    "decision": 2,
+    "decisive_reason": 2,
+    "distinctive_value": 2,
+    "fidelity": 2,
+    "economy": 2
+  },
+  "score_reasons": {
+    "concrete_dispute": "Identifies the challenged action: Westminster Presbytery's denial of the complaint against its May 15, 2001 withdrawal plan.",
+    "decision": "States the SJC answered no and denied the complaint, with no specification sustained.",
+    "decisive_reason": "Explains the adopted BCO 25/Preface reasoning and the 'act for' local-church analysis.",
+    "distinctive_value": "Preserves the presbytery withdrawal right and limits on higher-court action against lower courts.",
+    "fidelity": "Separates adopted reasoning, party arguments, prior decisions, and the separate vote; no separate opinion is invented.",
+    "economy": "The 84-word synopsis includes only dispute, holding, decisive reason, and relief."
+  },
+  "verification_notes": "Rechecked the judgment at line 52 and adopted reasoning at lines 125–27, 141–52, and 154–75. Corrected the initial draft's implication that BCO 25 itself directly grants a presbytery right: the adopted reasoning extends the local-church right unless expressly excluded. Rechecked the roll call at line 179 and the disposition line at line 3; coded the complaint as not_sustained while noting the judgment's wording that it was denied. Confirmed no separate dissent text appears.",
+  "repair_needed": false,
+  "repair_notes": "No repair needed."
+}

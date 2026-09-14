@@ -1,0 +1,50 @@
+{
+  "case_id": "1988-02",
+  "title": "Carl Fox v. Mississippi Valley Presbytery et al.",
+  "matter_type": "complaint",
+  "final_dispositions": [
+    "partially_sustained",
+    "remanded"
+  ],
+  "disposition_detail": "Complaints #1, #3, and #4 were sustained. Complaints #1 and #4 were remanded for rectification, with relief on #3 to follow the action on #1. Complaint #2 was neither sustained nor denied and was remanded for investigation and necessary action.",
+  "first_summary": "Fox challenged a Session’s acceptance of his resignation while censured, refusal to restore his membership, denial of relevant records, and allegedly uneven discipline concerning his marital difficulties. The Assembly sustained the first, third, and fourth complaints and remanded them for relief. It did not decide the uneven-discipline claim because the evidence was insufficient, instead remanding it for investigation.",
+  "summary": "Fox challenged a Session’s acceptance of his resignation while censured, refusal to restore him, denial of relevant records, and allegedly uneven discipline in his marital dispute. The Assembly adopted the commission’s judgment sustaining the first, third, and fourth complaints: he remained a member, so his removal and nonrestoration were improper and he was entitled to relevant records. Those matters were remanded for rectification. The uneven-discipline claim was neither sustained nor denied because the evidence was insufficient; it too was remanded for investigation and necessary action.",
+  "sources": [
+    {
+      "path": "cases/ga16_1988__case1.md",
+      "sha256": "4e6ed82975cd9326b400a23e2ff91174a49782a63789d8c5f9bf8a74dd4050c7",
+      "locator": "lines 11–15, 23–31, 90–112; printed pp. 220, 222",
+      "supports": "Assembly adoption, case identity, four complaints, judgments, reasons, and remands."
+    }
+  ],
+  "evidence_notes": {
+    "identity_and_adoption": "The Assembly adopted the adjudicating commission’s report (lines 11–15; printed p. 220).",
+    "dispute": "The four complaints concerned removal while censured, uneven discipline, nonrestoration, and denial of records (lines 23–31, 80–88; printed pp. 220, 222).",
+    "outcomes_and_reasons": "Complaints #1, #3, and #4 were sustained; #2 was neither sustained nor denied for insufficient evidence. Rectification or investigation was ordered on remand (lines 90–112; printed p. 222).",
+    "qualifications": "The commission lacked pertinent Sessional records, limiting verification and contributing to the evidentiary qualification (lines 70–72, 100; printed pp. 221–222).",
+    "incorporated_decisions": "No external decision was incorporated; complaint #3 merely cross-referenced relief under complaint #1 (lines 102–106; printed p. 222)."
+  },
+  "source_limits": "The record lacked pertinent Sessional records. The source supplies the adopted judgment but not the underlying BCO provisions beyond citations.",
+  "benchmark_examples": [
+    "C01"
+  ],
+  "scores": {
+    "concrete_dispute": 2,
+    "decision": 2,
+    "decisive_reason": 2,
+    "distinctive_value": 2,
+    "fidelity": 2,
+    "economy": 2
+  },
+  "score_reasons": {
+    "concrete_dispute": "Identifies all four challenged Session actions.",
+    "decision": "Preserves three sustained complaints, the undecided second complaint, and each remand.",
+    "decisive_reason": "States continued membership and insufficient evidence as the operative reasons.",
+    "distinctive_value": "Shows that sustained membership and records claims could coexist with an evidentially unresolved discipline claim.",
+    "fidelity": "Distinguishes adopted findings from allegations and notes the missing records.",
+    "economy": "Every detail explains an issue, result, reason, or remedy."
+  },
+  "verification_notes": "Rechecked Assembly adoption, all four issue-level judgments, the distinct relief for complaints #1, #3, and #4, and the investigative remand for complaint #2. The final summary clarifies that complaint #2 was neither sustained nor denied rather than simply rejected.",
+  "repair_needed": true,
+  "repair_notes": "The source header labels the court as the Committee on Judicial Business, but the operative text identifies a Commission to Adjudicate Case #2 whose report the Assembly adopted (lines 11–15). Catalog deciding-body metadata should be corrected or clarified."
+}

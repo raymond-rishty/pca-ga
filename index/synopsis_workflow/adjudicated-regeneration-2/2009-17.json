@@ -1,0 +1,18 @@
+{
+  "case_id": "2009-17",
+  "title": "Michael McNeil v. Chesapeake Presbytery",
+  "matter_type": "complaint",
+  "final_dispositions": ["administratively_out_of_order"],
+  "disposition_detail": "The SJC reported the complaint administratively out of order without a published reason or merits decision.",
+  "first_summary": "The SJC reported that Michael McNeil’s complaint against Chesapeake Presbytery was found administratively out of order. The published notice does not identify the challenged action or the reason for that ruling, and reports no merits determination, additional relief, or further proceedings for this docket.",
+  "summary": "The SJC reported that Michael McNeil’s complaint against Chesapeake Presbytery was found administratively out of order. The published notice does not identify the challenged action or the reason for that ruling, and reports no merits determination, additional relief, or further proceedings for this docket.",
+  "sources": [{"path":"cases/ga38_2010__stub_2009-17.md","sha256":"f278d5c1a08b0a7b3ad24033945044ee324c0a2a1e29df561078ea89b0a61b67","locator":"M38GA p. 129; judicial-case list and status paragraph","supports":"Complaint identity, SJC actor, and administratively-out-of-order status."}],
+  "evidence_notes": {"identity_and_adoption":"The SJC report identifies Cases 2009-17 through 20 as McNeil complaints against Chesapeake Presbytery.","dispute":"The notice does not state the challenged action.","outcomes_and_reasons":"The SJC reported Case 2009-17 administratively out of order without a reason.","qualifications":"No merits determination, relief, or further proceeding is published for this docket.","incorporated_decisions":"Not applicable."},
+  "source_limits": "Sparse final-status notice.",
+  "benchmark_examples": ["C20"],
+  "scores": {"concrete_dispute":0,"decision":2,"decisive_reason":2,"distinctive_value":1,"fidelity":2,"economy":2},
+  "score_reasons": {"concrete_dispute":"Unavailable in the source.","decision":"States the exact procedural disposition.","decisive_reason":"Reports the absence of a published reason.","distinctive_value":"Preserves the record limit.","fidelity":"Correctly identifies complaint and SJC actor.","economy":"Brief and source-proportional."},
+  "verification_notes": "Astra corrected the procedural vehicle and actor and verified the complete status paragraph.",
+  "repair_needed": false,
+  "repair_notes": "Stub now contains a complete case-specific notice."
+}

@@ -1,0 +1,71 @@
+{
+  "case_id": "2012-07",
+  "title": "RE William G. Mitchell v. The Presbytery of the Ascension",
+  "matter_type": "appeal",
+  "final_dispositions": [
+    "vacated",
+    "remanded",
+    "reversed",
+    "dismissed"
+  ],
+  "disposition_detail": "The judgment sustaining Specification No. 2 was vacated and remanded for Presbytery to consider whether a new trial was warranted. The judgment sustaining Specification No. 6 was reversed, and that specification was dismissed.",
+  "first_summary": "A ruling elder appealed judgments concerning an alleged broken promise to take a sabbatical and deficient performance as Session clerk. The SJC vacated the first judgment because the pivotal email was missing from the record and remanded for consideration of a new trial. It reversed and dismissed the clerk-duty specification because the brief delay in submitting minutes did not justify judicial process. Thus, one specification remained potentially triable while the other ended.",
+  "summary": "A ruling elder appealed judgments concerning an alleged broken promise to take a sabbatical and deficient performance as Session clerk. Because the pivotal email was absent from the record, the SJC vacated the sabbatical-related judgment and remanded for Presbytery only to consider whether a new trial was warranted. It reversed and dismissed the clerk-duty specification because the four-month delay in submitting minutes was attributable to the Session and did not justify a trial. Only the first specification remained potentially triable.",
+  "sources": [
+    {
+      "path": "cases/ga42_2014__2012-07.md",
+      "sha256": "b634bf2ddd21478f2f6bd32a51d98e69c5e87b0cd8167f6f6586979faca5e4f2",
+      "locator": "lines 13–15, 210–213; printed pp. 544, 553",
+      "supports": "Case identity, appellate posture, and SJC adoption."
+    },
+    {
+      "path": "cases/ga42_2014__2012-07.md",
+      "sha256": "b634bf2ddd21478f2f6bd32a51d98e69c5e87b0cd8167f6f6586979faca5e4f2",
+      "locator": "lines 81–83, 91–101; printed pp. 548–549",
+      "supports": "Specifications appealed and operative judgments."
+    },
+    {
+      "path": "cases/ga42_2014__2012-07.md",
+      "sha256": "b634bf2ddd21478f2f6bd32a51d98e69c5e87b0cd8167f6f6586979faca5e4f2",
+      "locator": "lines 153–168; printed pp. 551–552",
+      "supports": "Missing-email rationale and limited remand on Specification No. 2."
+    },
+    {
+      "path": "cases/ga42_2014__2012-07.md",
+      "sha256": "b634bf2ddd21478f2f6bd32a51d98e69c5e87b0cd8167f6f6586979faca5e4f2",
+      "locator": "lines 180–209; printed pp. 553",
+      "supports": "Reasons for reversing and dismissing Specification No. 6."
+    }
+  ],
+  "evidence_notes": {
+    "identity_and_adoption": "The heading identifies Case 2012-07 and the parties; the SJC adopted the panel decision 20–0 among votes cast (lines 13–15, 210–213; printed pp. 544, 553).",
+    "dispute": "The appeal challenged judgments sustaining the sabbatical-promise and clerk-duty specifications (lines 81–83, 91–101; printed pp. 548–549).",
+    "outcomes_and_reasons": "Specification 2 was vacated and remanded because its pivotal email was missing; Specification 6 was reversed and dismissed because the limited minutes delay did not warrant trial (lines 163–168, 180–209; printed pp. 552–553).",
+    "qualifications": "The SJC reached no definitive conclusion on Specification 2 and directed Presbytery only to consider a new trial, with the complete email required if retried (lines 168–169; printed p. 552).",
+    "incorporated_decisions": "No decision was incorporated by reference; the opinion recounts an earlier complaint judgment only as procedural background (lines 49–53, 168)."
+  },
+  "source_limits": "The supplied source contains the adopted decision but does not expressly state the post-appeal status of the previously imposed indefinite suspension; the synopsis therefore does not infer that status.",
+  "benchmark_examples": [
+    "A03",
+    "A01"
+  ],
+  "scores": {
+    "concrete_dispute": 2,
+    "decision": 2,
+    "decisive_reason": 2,
+    "distinctive_value": 2,
+    "fidelity": 2,
+    "economy": 2
+  },
+  "score_reasons": {
+    "concrete_dispute": "Identifies both challenged disciplinary specifications.",
+    "decision": "States the distinct disposition and next step for each specification.",
+    "decisive_reason": "Explains the missing evidence and the insufficiency of the clerk-duty allegation.",
+    "distinctive_value": "Preserves the distinction between possible retrial and final dismissal.",
+    "fidelity": "Separates lower-court judgments from the SJC’s rulings and avoids inferring the censure’s status.",
+    "economy": "Retains only facts necessary to explain the mixed remedies."
+  },
+  "verification_notes": "Rechecked the judgments at lines 97–101 and the adopted reasoning at lines 153–209. The final summary clarifies that Presbytery was directed only to consider a new trial, identifies the Session’s responsibility for the minutes delay, and avoids asserting that the prior suspension was vacated.",
+  "repair_needed": false,
+  "repair_notes": ""
+}

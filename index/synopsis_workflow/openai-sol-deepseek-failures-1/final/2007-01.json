@@ -1,0 +1,50 @@
+{
+  "case_id": "2007-01",
+  "title": "TE Eliot Lee v. Korean Eastern Presbytery",
+  "matter_type": "complaint",
+  "final_dispositions": [
+    "moot",
+    "annulled"
+  ],
+  "disposition_detail": "The SJC held Case 2007-01 moot and declared all actions taken at Korean Eastern Presbytery’s October 3, 2006 meeting null and void for lack of an ascertainable quorum.",
+  "first_summary": "Lee challenged Presbytery’s actions affecting his interim pastoral relationship, alleging that its October 3, 2006 meeting lacked a quorum. The SJC held the complaint moot and voided the meeting’s actions because the minutes did not establish a quorum.",
+  "summary": "Lee challenged Korean Eastern Presbytery’s actions affecting his interim pastoral relationship, alleging that its October 3, 2006 meeting lacked a quorum. The SJC held the complaint moot and declared every action taken at that meeting null and void—not merely those concerning his church. The meeting opened with only two ruling elders when three were required, and the minutes did not establish when a quorum was later achieved; its presence therefore could not be presumed.",
+  "sources": [
+    {
+      "path": "cases/ga36_2008__2007-01_2007-06_2007-07.md",
+      "sha256": "434aba461fe18da7d1c2a938b6755c46c28efa015bb636e39d3408ca85aefef1",
+      "locator": "lines 13, 38–56, 88–102, 112–117; printed pp. 92–96",
+      "supports": "Case identity, quorum dispute, mootness, nullification of all meeting actions, and the SJC’s reasoning."
+    }
+  ],
+  "evidence_notes": {
+    "identity_and_adoption": "The heading identifies Case 2007-1 and the parties; the SJC judgment and opinion appear at lines 98–117 (printed pp. 95–96).",
+    "dispute": "Lee complained that Presbytery dissolved his interim relationship and appointed a temporary moderator at a meeting lacking a quorum (lines 38–56); Issue 1 addresses whether only HKPC-related actions were invalid (lines 88–92).",
+    "outcomes_and_reasons": "The SJC held the case moot and all October 3 meeting actions null and void (lines 100, 114–117). The minutes showed only two ruling elders when three were required and did not show when quorum was achieved.",
+    "qualifications": "The source jointly reports Cases 2007-1, 2007-6, and 2007-7. This synopsis covers only 2007-01; the denials and affirmances at lines 119–170 concern the other complaints.",
+    "incorporated_decisions": "No decision was incorporated by reference."
+  },
+  "source_limits": "The supplied text combines three cases and provides a summarized record rather than underlying minutes or filings.",
+  "benchmark_examples": [
+    "C01"
+  ],
+  "scores": {
+    "concrete_dispute": 2,
+    "decision": 2,
+    "decisive_reason": 2,
+    "distinctive_value": 2,
+    "fidelity": 2,
+    "economy": 2
+  },
+  "score_reasons": {
+    "concrete_dispute": "Identifies the challenged meeting actions and quorum defect.",
+    "decision": "States both mootness and nullification of every meeting action.",
+    "decisive_reason": "Explains why quorum could neither be determined nor presumed.",
+    "distinctive_value": "Preserves the distinction between invalidating only HKPC matters and invalidating all meeting business.",
+    "fidelity": "Separates Case 2007-01 from the two complaints decided in the combined opinion.",
+    "economy": "Retains only facts necessary to explain the dispute, result, and scope."
+  },
+  "verification_notes": "Rechecked the operative judgment and Part A of the opinion. Corrected the first summary to specify that every action at the meeting—not merely church-related actions—was null and void, and added the required three-ruling-elder quorum detail.",
+  "repair_needed": false,
+  "repair_notes": ""
+}

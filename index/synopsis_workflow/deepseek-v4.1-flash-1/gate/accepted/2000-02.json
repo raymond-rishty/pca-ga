@@ -1,0 +1,50 @@
+{
+  "case_id": "2000-02",
+  "title": "Adams v. Northeast Presbytery",
+  "matter_type": "complaint",
+  "final_dispositions": [
+    "administratively_out_of_order"
+  ],
+  "disposition_detail": "SJC found the complaint administratively out of order on two grounds: (1) BCO 43-1 barred a complaint about a matter that was the subject of an appeal in another case; and (2) the complaint requested the accused be retried on matters of which his presbytery had acquitted him, relief not within the SJC's power. The related appeal was later withdrawn and the withdrawal approved, but the SJC still ruled the complaint out of order on BCO 43-1. No merits ruling was made.",
+  "first_summary": "Adams complained after Northeast Presbytery ruled his complaint out of order in a judicial case. The SJC dismissed the complaint as out of order because BCO 43-1 barred a complaint about a matter then on appeal, and because Adams sought retrial on acquitted charges. The related appeal was later withdrawn, but the SJC still treated the complaint as barred. A concurrence disagreed with the first ground and discussed appellate review of acquittals.",
+  "summary": "A prosecutor's complaint relating to Northeast Presbytery's judicial case was held administratively out of order by the SJC. The SJC adopted two grounds: BCO 43-1 bars a complaint about a matter subject to an appeal in another case, and the complaint sought retrial of an accused on charges of which he had been acquitted, relief the SJC could not grant. Although the related appeal was later withdrawn and the withdrawal approved, the SJC still applied BCO 43-1. A concurrence disputed that first ground and urged BCO clarification of appellate review of acquittals. No merits ruling was made.",
+  "sources": [
+    {
+      "path": "cases/ga29_2001__2000-02.md",
+      "sha256": "1711f9ae555a7d736247b5b722ad30b4c6497d6c167532039ead222aa499138e",
+      "locator": "lines 1-5, 17, 21, 31-39, 43-49, 73",
+      "supports": "canonical case ID and title, SJC adopted judgment, two out-of-order grounds, separate concurrence, partial dissent notation"
+    }
+  ],
+  "evidence_notes": {
+    "identity_and_adoption": "Case 2000-02, Adams v. Northeast Presbytery; SJC, 29th GA (2001); header gives disposition administratively out of order and partial dissent. Source: cases/ga29_2001__2000-02.md, sha256 1711f9ae555a7d736247b5b722ad30b4c6497d6c167532039ead222aa499138e. Adopted judgment is at line 17; Donahoe concurrence begins line 29 and is separate; roll call line 21 records Miller concurring in part and dissenting in part.",
+    "dispute": "Prosecutor Adams filed a complaint after a Northeast Presbytery judicial commission found a minister guilty on 3 of 12 charges and Presbytery approved the judgment; the minister appealed (Case 99-3), and Presbytery ruled Adams's complaint out of order under BCO 43-1 (lines 35-37).",
+    "outcomes_and_reasons": "SJC found the complaint administratively out of order on two grounds: BCO 43-1 because it concerned a matter subject to an appeal in another case, and because Adams sought retrial on matters of which the accused had been acquitted, relief outside SJC power (lines 17, 31, 39, 43-49).",
+    "qualifications": "The related appeal was later withdrawn and the withdrawal approved, yet the SJC still considered the complaint out of order on BCO 43-1 (line 37). The concurrence agreed with the judgment but disputed the first ground and urged BCO clarification on appellate review of acquittals (lines 31, 39, 51-73); no merits ruling on acquittal review was adopted.",
+    "incorporated_decisions": "Case 99-3 is referenced only as an appeal that was withdrawn and approved; no incorporated decision text is supplied. Lower court and presbytery actions are procedural history, not adopted reasons (lines 35-37)."
+  },
+  "source_limits": "Official report excerpt only; it does not include the full complaint, the lower court record, or the text of Case 99-3. The only supplied separate opinion is Donahoe's concurrence; Miller's partial dissent appears only in the roll call. No merits review of the acquittal issue is supplied.",
+  "benchmark_examples": [
+    "A01: distinguish conviction, censure, dissolution, and suspension; preserve mixed outcomes.",
+    "A20: a disposition label alone can obscure the practical effect; dismissal-type labels may not mean an unsuccessful merits challenge."
+  ],
+  "scores": {
+    "concrete_dispute": 2,
+    "decision": 2,
+    "decisive_reason": 2,
+    "distinctive_value": 2,
+    "fidelity": 2,
+    "economy": 2
+  },
+  "score_reasons": {
+    "concrete_dispute": "Identifies Adams's complaint and the presbytery judicial case and acquittal-retrial request.",
+    "decision": "States the SJC's administrative out-of-order ruling and the two adopted grounds.",
+    "decisive_reason": "Explains BCO 43-1 and the lack of power to order retrial on acquittals.",
+    "distinctive_value": "Preserves that the appeal withdrawal did not remove the BCO 43-1 bar and that acquittal-review concerns were only a concurrence.",
+    "fidelity": "Separates adopted judgment from concurrence, procedural history, and no merits ruling.",
+    "economy": "Keeps only necessary dispute, grounds, procedural qualification, and limitation."
+  },
+  "verification_notes": "Rechecked the adopted judgment at line 17 against the header at line 3 and the concurrence's description at line 31; corrected first_summary's 'dismissed' to 'administratively out of order' because the source identifies that subtype. Confirmed the SJC's two grounds at lines 17, 31, and 39, and that the appeal withdrawal at line 37 did not change the BCO 43-1 ruling. Distinguished Donahoe's concurrence (lines 29-73) from the adopted judgment and noted Miller's partial dissent in the roll call at line 21 rather than treating it as an adopted reason.",
+  "repair_needed": false,
+  "repair_notes": "None."
+}

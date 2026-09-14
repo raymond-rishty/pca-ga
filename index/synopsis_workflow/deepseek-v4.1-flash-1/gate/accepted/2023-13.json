@@ -1,0 +1,74 @@
+{
+  "case_id": "2023-13",
+  "title": "BCO 40-5 MATTER re: METRO NEW YORK PRESBYTERY",
+  "matter_type": "bco_40_5_matter",
+  "final_dispositions": [
+    "remanded"
+  ],
+  "disposition_detail": "The SJC adopted its Ruling on Report 16-2. Operatively, it remitted the BCO 40-5 matter to Metro New York Presbytery under OMSJC 15.6.c with the injunction to take up and dispose of the matter in a constitutional manner, to complete its work with TE Higgins and the Session of Trinity Presbyterian Church, Rye, NY, and to report the results to the Committee on Review of Presbytery Records for the 51st General Assembly. The SJC did not finally conclude the matter or declare the referral out of order. A separate 'Further Note on Procedure' questioned the 50th General Assembly's direct referral to the SJC, but the operative relief was remittitur; M. Duncan and Eggert dissented, while Greco and Coffin filed concurrences addressing the procedural note.",
+  "first_summary": "Metro New York Presbytery was cited under BCO 40-5 for failing to redress a session that allowed a woman to expound Scripture in place of a sermon before the Lord's Supper and other worship irregularities. The SJC found the presbytery erred and remitted the matter for further proceedings, requiring it to deal with TE Higgins and Trinity's session and report to the 51st General Assembly. The SJC also held that the 50th General Assembly exceeded its authority in referring the case directly to the SJC.",
+  "summary": "A BCO 40-5 citation arose from Metro New York Presbytery's failure to redress a session that allowed a woman to expound Scripture in place of the sermon preceding the Lord's Supper, held services without preaching, and celebrated the Supper without a preceding sermon. The SJC remitted the matter to the presbytery for constitutional resolution because the session's later no-exception response was clearly inadequate and the unapproved minutes were unclear. Presbytery must complete its work with TE Higgins and Trinity Presbyterian Church's session and report to the 51st General Assembly. A separate procedural note questioned the Assembly's direct referral but did not void it.",
+  "sources": [
+    {
+      "path": "cases/ga51_2024__2023-13.md",
+      "sha256": "737eecf72ff6036614d3beb41ea1a374d90179db5238c266a595f2ad26b86d9d",
+      "locator": "lines 1–17 (title and ruling date; printed p. 909)",
+      "supports": "Identity, case number, BCO 40-5 matter, and SJC ruling on report."
+    },
+    {
+      "path": "cases/ga51_2024__2023-13.md",
+      "sha256": "737eecf72ff6036614d3beb41ea1a374d90179db5238c266a595f2ad26b86d9d",
+      "locator": "lines 19–38, 64–66 (printed pp. 909–912)",
+      "supports": "50th GA citation, operative remittitur under OMSJC 15.6.c, inadequate session response, and directive to report to RPR for the 51st GA."
+    },
+    {
+      "path": "cases/ga51_2024__2023-13.md",
+      "sha256": "737eecf72ff6036614d3beb41ea1a374d90179db5238c266a595f2ad26b86d9d",
+      "locator": "lines 40–58 (printed pp. 910–912)",
+      "supports": "Presbytery's August 8 and September 19 minutes and its findings on the underlying worship practices and TE views."
+    },
+    {
+      "path": "cases/ga51_2024__2023-13.md",
+      "sha256": "737eecf72ff6036614d3beb41ea1a374d90179db5238c266a595f2ad26b86d9d",
+      "locator": "lines 72–114, 142–148, 150–154 (printed pp. 913–916)",
+      "supports": "Further Note on Procedure, RAO 16-10.c analysis, authorship, and 16-2 adoption vote."
+    },
+    {
+      "path": "cases/ga51_2024__2023-13.md",
+      "sha256": "737eecf72ff6036614d3beb41ea1a374d90179db5238c266a595f2ad26b86d9d",
+      "locator": "lines 162–361, 555–601 (printed pp. 917–940)",
+      "supports": "Concurring and dissenting opinions on the procedural note and referral, including the distinction between the remittitur and the critique."
+    }
+  ],
+  "evidence_notes": {
+    "identity_and_adoption": "Source: cases/ga51_2024__2023-13.md (SHA256 737eecf72ff6036614d3beb41ea1a374d90179db5238c266a595f2ad26b86d9d). Title and case number at lines 1–17. The SJC's Ruling on Report is dated January 12, 2024. The first section was adopted unanimously by the drafting committee; the second section, 'A Further Note on Procedure in the Matter,' was authored only by RE Neikirk and TE Lucas, and the SJC approved the Ruling 16-2 at lines 150–154.",
+    "dispute": "50th GA cited Metro New York Presbytery under BCO 40-5 on RPR's credible report. The underlying allegations were that a Session permitted a woman to expound Scripture during Lord's Day worship in place of preaching, held many services without preaching, served the Lord's Supper without a preceding sermon, and that a TE approved those proceedings. Lines 19–25, 40–58.",
+    "outcomes_and_reasons": "The SJC remitted the matter under OMSJC 15.6.c with an injunction to dispose of it constitutionally; Presbytery must complete work with TE Higgins and the Trinity Session and report to RPR for the 51st GA. The adopted reason was that the Session's post-citation response was clearly inadequate—it acknowledged no error and stated no specific differences—and the unapproved minutes were unclear. Lines 33–38, 64–66, 142–148.",
+    "qualifications": "No final conclusion or acquittal was entered on all allegations; the matter remains with Presbytery and the 51st GA review. The procedural note questioned the constitutionality of the Assembly's direct referral but did not declare it out of order. M. Duncan and Eggert dissented; Greco and Coffin concurred while addressing the note. Lines 150–154, 162–188, 327–361, 555–601.",
+    "incorporated_decisions": "The ruling quotes and relies on the 50th GA resolution (lines 19–25), Presbytery minutes of August 8, 2023 and September 19, 2023 (lines 40–58), and RPR's proposal (lines 72–84). It does not incorporate another SJC decision; references to 2023-14 and 2005–06 GA materials appear in separate opinions/historical discussion."
+  },
+  "source_limits": "Only the SJC ruling and appended opinions are supplied; the full lower-court record, RPR report, and 51st GA action are not in the source. Some quoted Presbytery minutes are expressly unapproved.",
+  "benchmark_examples": [
+    "B03 (2023-14): BCO 40-5 report—distinguish an adverse finding from refused relief; here distinguish the adopted remittitur from the separate procedural critique.",
+    "A03 (2012-07): mixed outcomes with different remedies; here preserve the difference between a remanded matter, unresolved allegations, and separate opinions."
+  ],
+  "scores": {
+    "concrete_dispute": 2,
+    "decision": 2,
+    "decisive_reason": 2,
+    "distinctive_value": 2,
+    "fidelity": 2,
+    "economy": 2
+  },
+  "score_reasons": {
+    "concrete_dispute": "Identifies the BCO 40-5 citation, the underlying worship practices, and Presbytery's failure to redress the Session.",
+    "decision": "States the operative remittitur and the absence of any final merits or out-of-order ruling, while noting the separate procedural note and dissents.",
+    "decisive_reason": "Explains the SJC's adopted reason: the Session's inadequate, no-error response and the unclear unapproved minutes; separately identifies the procedural-note rationale.",
+    "distinctive_value": "Preserves the distinction between the adopted remittitur, the contested procedural critique, and the unresolved status of some allegations.",
+    "fidelity": "Separates the GA resolution, Presbytery minutes, RPR proposal, adopted SJC ruling, and separate opinions.",
+    "economy": "Keeps the summary focused on the dispute, result, reason, and key procedural distinction."
+  },
+  "verification_notes": "Rechecked the operative ruling at lines 33–38 and 64–66: the SJC's action is remittitur under OMSJC 15.6.c, not a final merits judgment. Corrected first_summary's overstatement that the SJC 'held' the 50th GA exceeded authority; that critique appears in the separate Further Note, authored by two members and contested by dissents, though included in the 16-2 approved Ruling. Confirmed that 'remitted' maps to the disposition code 'remanded.' Also confirmed the underlying allegations and that the inadequate Session response was the adopted reason for remittal.",
+  "repair_needed": false,
+  "repair_notes": ""
+}

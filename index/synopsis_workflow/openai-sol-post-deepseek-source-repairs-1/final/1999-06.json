@@ -1,0 +1,49 @@
+{
+  "case_id": "1999-06",
+  "title": "Robert M. Shive v. Central Carolina Presbytery",
+  "matter_type": "appeal",
+  "final_dispositions": [
+    "not_sustained"
+  ],
+  "disposition_detail": "The SJC rejected both claimed errors: the prior decision had not reversed Shive’s four guilty verdicts, and Presbytery properly affirmed Session’s later imposition of excommunication. The appeal was not sustained, leaving the excommunication in effect.",
+  "first_summary": "A member appealed Presbytery’s affirmance of his excommunication, arguing that an earlier SJC decision had reversed his guilt and barred the increased censure. The SJC did not sustain either issue. It held that the earlier decision reversed only the original excommunication, not the guilty verdicts, and deferred to Session’s determination that he had not provided satisfactory evidence of repentance. The later excommunication therefore remained in effect.",
+  "summary": "A member challenged Presbytery’s affirmance of his excommunication, contending that SJC Case 97-9 had reversed his four guilty verdicts and precluded increased censure. The SJC did not sustain either issue. Case 97-9 had reversed only the original censure, leaving guilt intact. Because the offender bore the burden of showing repentance, and Session’s contrary factual determination received great deference absent clear error, the later excommunication remained in effect.",
+  "sources": [
+    {
+      "path": "cases/ga29_2001__1999-06.md",
+      "sha256": "20186a18d95e000566c983d47c3d67e25e92cded4f9e483031e10d426f56149e",
+      "locator": "lines 1–3, 167–187, 191–257, 259–365, 381–388; printed pp. 92–98",
+      "supports": "Case identity, appellate issues, judgments, adopted reasoning, relief, and adoption vote."
+    }
+  ],
+  "evidence_notes": {
+    "identity_and_adoption": "The caption and SJC/Assembly metadata appear at lines 1–3 and 9; the adoption roll records 13 concurring and one dissent at lines 381–388 (printed p. 98).",
+    "dispute": "The two appellate issues—whether Case 97-9 reversed guilt and whether Session could increase censure to excommunication—are stated at lines 167–173 (printed p. 92).",
+    "outcomes_and_reasons": "Both issues were answered no at lines 174–187. Lines 243–257 explain that Case 97-9 reversed only the censure; lines 259–365 apply clear-error deference and place the burden of demonstrating repentance on the offender.",
+    "qualifications": "Filing timeliness was expressly not made an issue, lines 131–137 (printed p. 91). The adoption roll shows one dissent but supplies no dissenting opinion, lines 381–388.",
+    "incorporated_decisions": "The material judgment in SJC Case 97-9 is reproduced at lines 33–45 and interpreted at lines 235–257; it reversed excommunication but left the four guilty verdicts intact."
+  },
+  "source_limits": "The supplied source contains the operative judgment and reasoning and reproduces the material result of Case 97-9. It provides no separate reasoning for the recorded dissent.",
+  "benchmark_examples": [
+    "A01"
+  ],
+  "scores": {
+    "concrete_dispute": 2,
+    "decision": 2,
+    "decisive_reason": 2,
+    "distinctive_value": 2,
+    "fidelity": 2,
+    "economy": 2
+  },
+  "score_reasons": {
+    "concrete_dispute": "Identifies both challenges: the meaning of Case 97-9 and the renewed excommunication.",
+    "decision": "States that neither issue was sustained and that excommunication remained effective.",
+    "decisive_reason": "Explains the limited prior reversal, burden of showing repentance, and deferential review.",
+    "distinctive_value": "Preserves the distinction between reversal of censure and continued validity of guilty verdicts.",
+    "fidelity": "Separates the prior judgment, lower-court findings, and SJC’s adopted conclusions.",
+    "economy": "Retains only facts needed to explain the dispute, result, and governing distinctions."
+  },
+  "verification_notes": "Rechecked the operative issues and judgments at lines 167–187 and the prior-decision analysis at lines 235–257. The final summary clarifies that all four guilty verdicts remained intact and adds the adopted burden-of-repentance and clear-error rationale from lines 259–365.",
+  "repair_needed": false,
+  "repair_notes": ""
+}

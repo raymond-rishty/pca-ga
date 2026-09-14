@@ -1,0 +1,49 @@
+{
+  "case_id": "2021-01",
+  "title": "2021-01 — Michelson v. Northwest Georgia Presbytery",
+  "matter_type": "complaint",
+  "final_dispositions": [
+    "administratively_out_of_order"
+  ],
+  "disposition_detail": "SJC found the complaint administratively out of order as prematurely filed because Presbytery had not completed its hearing on the complaint when Michelson filed with the SJC. It reset the complainant's time to elevate the complaint to begin on the later of notification of the SJC action or Presbytery's ruling on the complaint. No merits ruling.",
+  "first_summary": "The SJC found Michelson's complaint against Northwest Georgia Presbytery administratively out of order because it was filed before Presbytery completed its hearing. It reset the complainant's time to elevate the complaint to run from the later of notice of the SJC action or Presbytery's ruling. Approved 22-0-0.",
+  "summary": "The SJC held that Stuart Michelson's complaint against Northwest Georgia Presbytery was administratively out of order because he filed it with the SJC before Presbytery had completed its hearing on the complaint. The SJC did not reach the merits. It reset Michelson's time to elevate the complaint to run from the later of notification of the SJC's action or Presbytery's ruling on the complaint. Approved 22-0-0.",
+  "sources": [
+    {
+      "path": "cases/ga49_2022__2021-01.md",
+      "sha256": "d4d9db9956fcc0041a95595ff2d5fdd6a30745d5b425315f2358db19c58d927f",
+      "locator": "lines 13–24 (printed pp. 726–727)",
+      "supports": "SJC decision on complaint, administrative out-of-order finding, reset of time to elevate, and roll-call approval."
+    }
+  ],
+  "evidence_notes": {
+    "identity_and_adoption": "Source lines 13 and 21–24 identify the SJC decision on complaint, dated October 21, 2021, and record its approval on a 22-0-0 roll call.",
+    "dispute": "Source lines 15–19 state the dispute: the complaint was prematurely filed with the SJC before Presbytery completed its hearing on the complaint.",
+    "outcomes_and_reasons": "Source lines 15–19 give the adopted reason and result: administratively out of order as prematurely filed, with the complainant's time to elevate reset to the later of notice of the SJC action or Presbytery's ruling.",
+    "qualifications": "Source lines 15–19 show a procedural disposition only; no merits determination or underlying complaint grounds appear.",
+    "incorporated_decisions": "No incorporated decision is supplied; the SJC ruling is the operative decision at lines 13–24."
+  },
+  "source_limits": "The source is a short decision excerpt only, with no underlying complaint allegations, Presbytery ruling, or merits analysis.",
+  "benchmark_examples": [
+    "C20. 2016-13 Daniels: sparse-record synopsis should remain short and not supply missing merits reasoning."
+  ],
+  "scores": {
+    "concrete_dispute": 2,
+    "decision": 2,
+    "decisive_reason": 2,
+    "distinctive_value": 2,
+    "fidelity": 2,
+    "economy": 2
+  },
+  "score_reasons": {
+    "concrete_dispute": "The synopsis identifies the procedural dispute: a complaint filed with the SJC before Presbytery completed its hearing.",
+    "decision": "The synopsis states the SJC's administrative out-of-order ruling and the reset of the complainant's time to elevate.",
+    "decisive_reason": "The synopsis gives the adopted reason: premature filing because Presbytery had not completed its hearing.",
+    "distinctive_value": "The synopsis preserves the procedural rule and remedy: administrative out-of-order treatment with a reset filing/elevation clock, not a merits ruling.",
+    "fidelity": "The synopsis distinguishes the SJC's adopted procedural action from the absent merits and does not infer dismissal.",
+    "economy": "Every retained detail explains the procedural dispute, the SJC action, or the reset timing."
+  },
+  "verification_notes": "Rechecked lines 15–19 and roll call lines 21–24. Corrected the draft to specify that the disposition was administrative out of order rather than a merits ruling and that the reset runs from the later of notification of the SJC action or Presbytery's ruling. Confirmed no underlying complaint grounds or Presbytery decision is supplied.",
+  "repair_needed": false,
+  "repair_notes": "No source or catalog defect identified."
+}

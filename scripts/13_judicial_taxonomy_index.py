@@ -7,16 +7,14 @@ rostered-case editorial view produced by scripts/12_case_taxonomy.py.
 """
 from __future__ import annotations
 
+import argparse
 import json
 import os
 import sys
 from collections import Counter
 
 
-ROOT = sys.argv[1] if len(sys.argv) > 1 else os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-IDX = os.path.join(ROOT, "index")
-SOURCE = os.path.join(IDX, "judicial_cases.jsonl")
-OUTPUT = os.path.join(IDX, "JUDICIAL-CASES.md")
+DEFAULT_ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
 MATTER_TYPE_LABELS = {
     "complaint": "Complaint",
@@ -97,6 +95,54 @@ def aliases(row):
     return "; ".join(values) or "—"
 
 
+def candidate_overlays(root, registry_name):
+    if not registry_name:
+        return {}, None
+    registry_path = os.path.abspath(
+        registry_name if os.path.isabs(registry_name)
+        else os.path.join(root, registry_name)
+    )
+    root_path = os.path.abspath(root)
+    if os.path.commonpath([root_path, registry_path]) != root_path:
+        raise ValueError("Candidate registry is outside the repository")
+    with open(registry_path, encoding="utf-8") as source:
+        registry = json.load(source)
+    if registry.get("publication_authorized") is not False:
+        raise ValueError("Candidate registry must explicitly deny publication")
+    overlays = {}
+    for item in registry.get("candidates") or []:
+        case_id = item["case_id"]
+        if case_id in overlays:
+            raise ValueError(f"Duplicate candidate registry case: {case_id}")
+        selected = item["selected"]
+        candidate_path = os.path.abspath(os.path.join(root, selected["path"]))
+        if os.path.commonpath([root_path, candidate_path]) != root_path:
+            raise ValueError(f"Candidate is outside the repository: {case_id}")
+        with open(candidate_path, encoding="utf-8") as source:
+            candidate = json.load(source)
+        candidate_case_id = candidate.get("case_id")
+        if candidate_case_id != case_id:
+            if selected.get("identity_remapped_from") != candidate_case_id:
+                raise ValueError(f"Candidate identity mismatch: {case_id}")
+        overlays[case_id] = {
+            "summary": candidate["summary"],
+            "matter_type": candidate.get("matter_type"),
+            "final_dispositions": candidate.get("final_dispositions"),
+            "provider": selected["provider"],
+            "model": selected["model"],
+            "path": selected["path"],
+        }
+    return overlays, registry_path
+
+
+def candidate_review_label(candidate):
+    path = candidate["path"]
+    # JUDICIAL-CASES.md is in index/, so keep its candidate links relative.
+    link = path[len("index/"):] if path.startswith("index/") else "../" + path
+    provider = "Sol" if candidate["provider"] == "openai" else "DeepSeek"
+    return f"[Candidate — {provider}; needs source audit]({link})"
+
+
 def review_basis(row):
     values = list(dict.fromkeys(row.get("review_standards") or []))
     if values:
@@ -126,8 +172,20 @@ def final_disposition(row):
     ) or "—"
 
 
-def main():
-    with open(SOURCE, encoding="utf-8") as source:
+def main(argv=None):
+    parser = argparse.ArgumentParser(description=__doc__)
+    parser.add_argument("root", nargs="?", default=DEFAULT_ROOT)
+    parser.add_argument(
+        "--candidate-registry",
+        help="Overlay unapproved candidates for a working-tree review rendering",
+    )
+    args = parser.parse_args(argv)
+    root = os.path.abspath(args.root)
+    source_path = os.path.join(root, "index", "judicial_cases.jsonl")
+    output_path = os.path.join(root, "index", "JUDICIAL-CASES.md")
+    overlays, registry_path = candidate_overlays(root, args.candidate_registry)
+
+    with open(source_path, encoding="utf-8") as source:
         rows = [json.loads(line) for line in source if line.strip()]
     rows.sort(key=lambda row: (row.get("case_id") is None, row.get("case_id") or row.get("roster_id") or ""))
     statuses = Counter(row.get("classification_status") for row in rows)
@@ -142,24 +200,66 @@ def main():
         f"**{len(rows)} records** · classified {statuses['classified']} · "
         f"needs review {statuses['needs_review']} · roster only {statuses['roster_only']}",
         "",
-        "| Case ID | Title | Matter type | Final disposition | Review basis | Aliases | Summary | BCO provisions | Topic tags | Status | Source |",
-        "|---|---|---|---|---|---|---|---|---|---|---|",
     ]
+    if overlays:
+        registry_display = os.path.relpath(registry_path, os.path.dirname(output_path)).replace("\\", "/")
+        lines.extend([
+            "> **Candidate review rendering:** "
+            f"{len(overlays)} model-generated candidates from "
+            f"[{os.path.basename(registry_path)}]({registry_display}) overlay the maintained "
+            "summary, matter type, and disposition for review. They have not been source-audited, "
+            "approved, or published to the canonical editorial overrides. Follow the "
+            "[audit instructions](synopsis_workflow/AUDIT-INSTRUCTIONS.md).",
+            "",
+            "| Case ID | Title | Matter type | Final disposition | Review basis | Aliases | Candidate synopsis | Synopsis review | BCO provisions | Topic tags | Status | Source |",
+            "|---|---|---|---|---|---|---|---|---|---|---|---|",
+        ])
+    else:
+        lines.extend([
+            "| Case ID | Title | Matter type | Final disposition | Review basis | Aliases | Summary | BCO provisions | Topic tags | Status | Source |",
+            "|---|---|---|---|---|---|---|---|---|---|---|",
+        ])
     for row in rows:
+        row = dict(row)
+        record_id = row.get("case_id") or row.get("roster_id")
+        candidate = overlays.get(record_id)
+        if not candidate and not row.get("case_id") and row.get("roster_id"):
+            candidate = overlays.get("roster:" + row["roster_id"])
+        if candidate:
+            row["summary"] = candidate["summary"]
+            if candidate["matter_type"]:
+                row["matter_type"] = candidate["matter_type"]
+            if candidate["final_dispositions"]:
+                row["final_dispositions"] = candidate["final_dispositions"]
         bco = ", ".join(f"`BCO {x}`" for x in row.get("bco_provisions") or []) or "—"
         topics = ", ".join(f"`{md(x)}`" for x in row.get("topic_tags") or []) or "—"
         standards = review_basis(row)
         title = md(row.get("title")) or "—"
         summary = md(row.get("summary")) or "—"
         case_id = f"`{row['case_id']}`" if row.get("case_id") else f"`{row.get('roster_id')}`"
-        lines.append(
-            f"| {case_id} | {title} | {md(MATTER_TYPE_LABELS.get(row.get('matter_type'), row.get('matter_type'))) or '—'} | "
-            f"{final_disposition(row)} | {standards} | {aliases(row)} | {summary} | {bco} | {topics} | "
-            f"{md(STATUS_LABELS.get(row.get('classification_status'), row.get('classification_status'))) or '—'} | {linked_source(row)} |"
+        prefix = (
+            f"| {case_id} | {title} | "
+            f"{md(MATTER_TYPE_LABELS.get(row.get('matter_type'), row.get('matter_type'))) or '—'} | "
+            f"{final_disposition(row)} | {standards} | {aliases(row)} | {summary} |"
         )
-    with open(OUTPUT, "w", encoding="utf-8", newline="\n") as target:
+        if overlays:
+            synopsis_review = (
+                candidate_review_label(candidate) if candidate
+                else md(row.get("summary_review_status") or "No candidate")
+            )
+            lines.append(
+                f"{prefix} {synopsis_review} | {bco} | {topics} | "
+                f"{md(STATUS_LABELS.get(row.get('classification_status'), row.get('classification_status'))) or '—'} | {linked_source(row)} |"
+            )
+        else:
+            lines.append(
+                f"{prefix} {bco} | {topics} | "
+                f"{md(STATUS_LABELS.get(row.get('classification_status'), row.get('classification_status'))) or '—'} | {linked_source(row)} |"
+            )
+    with open(output_path, "w", encoding="utf-8", newline="\n") as target:
         target.write("\n".join(lines) + "\n")
-    print(f"[taxonomy-index] wrote {len(rows)} rows -> {OUTPUT}")
+    mode = f" with {len(overlays)} candidate overlays" if overlays else ""
+    print(f"[taxonomy-index] wrote {len(rows)} rows{mode} -> {output_path}")
 
 
 if __name__ == "__main__":

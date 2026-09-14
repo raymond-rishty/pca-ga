@@ -1,0 +1,51 @@
+{
+  "case_id": "2011-06",
+  "title": "Sawyers et al. v. Missouri Presbytery",
+  "matter_type": "complaint",
+  "final_dispositions": [
+    "sustained",
+    "moot"
+  ],
+  "disposition_detail": "Complaint found judicially in order; the SJC answered the issue “Yes” and found Missouri Presbytery erred under BCO 34-5 in its BCO 31-2 investigation by not finding a strong presumption of guilt that TE Jeffrey Meyers held views contrary to the Westminster Standards. Further action was held moot because MOP had already tried TE Meyers on April 13–14, 2012, so no remand or additional relief was ordered. Vote: 14 concurring, 1 dissenting, 3 recused, 6 absent.",
+  "first_summary": "Elders complained that Missouri Presbytery erred in finding insufficient evidence to raise a strong presumption of guilt against TE Jeffrey Meyers for Federal Vision views. The SJC answered yes, finding MOP erred under BCO 34-5 in its BCO 31-2 investigation and remanding for compliance with BCO 31-2.",
+  "summary": "Elders complained that Missouri Presbytery erred in its BCO 31-2 investigation by finding insufficient evidence to raise a strong presumption of guilt that TE Jeffrey Meyers held Federal Vision views contrary to the Westminster Standards. The SJC answered yes: MOP erred under BCO 34-5, and the ordinary remedy was compliance with BCO 31-2. But because MOP had already tried Meyers on April 13–14, 2012, the SJC held further action moot, ordering no additional relief. Adopted by the SJC as a whole, with one dissent.",
+  "sources": [
+    {
+      "path": "cases/ga41_2013__2011-06.md",
+      "sha256": "eeb6fe7ae1d3ef02b78e838d52981686174eb41413fef3a22960637ad549f80b",
+      "locator": "lines 1–90; printed pp. 552–555",
+      "supports": "Canonical identity, facts, issue, judgment, reasoning, vote, recusals, and source limits."
+    }
+  ],
+  "evidence_notes": {
+    "identity_and_adoption": "Source cases/ga41_2013__2011-06.md (sha256 eeb6fe7ae1d3ef02b78e838d52981686174eb41413fef3a22960637ad549f80b), lines 1–5, 80–90: case title, SJC/41st Assembly, adoption by the SJC as a whole, vote, and recusal disclosures.",
+    "dispute": "Lines 38–70: a letter of concern alleged TE Jeffrey Meyers taught Federal Vision views contrary to the Standards; MOP found insufficient evidence to raise a strong presumption of guilt; Sawyers et al. complained against that determination; the issue asks whether MOP erred in its BCO 31-2 investigation.",
+    "outcomes_and_reasons": "Lines 64–78: complaint found judicially in order; SJC heard it October 18, 2011; issue answered “Yes”; MOP erred under BCO 34-5 in its BCO 31-2 investigation; the ordinary remedy would be compliance with BCO 31-2, but MOP’s April 13–14, 2012 trial made further action moot and no remand was ordered.",
+    "qualifications": "Lines 80–90: opinion adopted by the SJC as a whole; roll call was 14 concurring, 1 dissenting, 3 recused, 6 absent; recusals were disclosed under OMSJC 2.10(e); no separate dissenting opinion is included in the supplied source.",
+    "incorporated_decisions": "Line 78 cites SJC 2009-06 for the ordinary remedy, but its text is not supplied and the current opinion states the relied-on proposition. MOP’s April 13–14, 2012 trial is a later presbytery action and supervening fact, not an incorporated decision."
+  },
+  "source_limits": "The source supplies the SJC opinion and vote but not the separate dissenting opinion or the full record of the April 2012 trial; the cross-cited SJC 2009-06 is not included. Synopsis is limited to the supplied text.",
+  "benchmark_examples": [
+    "C01 — editorial form for a complaint with mixed procedural and merits outcomes.",
+    "C02 — distinction between legitimate investigation and later judicial action; here the key distinction is finding error while holding further relief moot."
+  ],
+  "scores": {
+    "concrete_dispute": 2,
+    "decision": 2,
+    "decisive_reason": 2,
+    "distinctive_value": 2,
+    "fidelity": 2,
+    "economy": 2
+  },
+  "score_reasons": {
+    "concrete_dispute": "Identifies the challenged MOP determination and the BCO 31-2 investigation into TE Meyers’s alleged Federal Vision views.",
+    "decision": "States the SJC’s “Yes” judgment, the finding of error, the mootness of further action, and the absence of remand or additional relief.",
+    "decisive_reason": "Explains the adopted reasoning: error under BCO 34-5, ordinary BCO 31-2 remedy, and mootness because MOP already tried Meyers.",
+    "distinctive_value": "Preserves the useful rule that a lower court’s later compliance can moot further relief even after the SJC finds error.",
+    "fidelity": "Keeps the party complaint, MOP actions, SJC judgment, adopted reasoning, vote, and lack of separate opinion distinct.",
+    "economy": "Includes only details needed to explain the dispute, outcome, reason, and qualification."
+  },
+  "verification_notes": "First draft assumed a remand for compliance with BCO 31-2. On rereading the operative judgment and reasoning at lines 74–78, corrected the summary: the SJC found MOP erred but held further action moot because MOP had already tried TE Meyers on April 13–14, 2012, so no remand was ordered. Rechecked the issue at lines 68–74, the adopted opinion at lines 76–80, and the vote/recusals at lines 82–90.",
+  "repair_needed": false,
+  "repair_notes": "None."
+}

@@ -1,0 +1,50 @@
+{
+  "case_id": "1984-06",
+  "title": "TE Warren Gardner, et al. v. Presbytery of North Georgia",
+  "matter_type": "complaint",
+  "final_dispositions": [
+    "not_sustained"
+  ],
+  "disposition_detail": "The Judicial Commission unanimously voted that the specification of error not be sustained, leaving the presbytery's transfer action undisturbed; no remand or other relief was ordered.",
+  "first_summary": "A complaint challenged North Georgia Presbytery's transfer of Trinity Mission, Elberton, Georgia, to Central Georgia Presbytery, alleging insufficient debate and failure to examine discipline issues. The Judicial Commission denied the complaint. It found extensive prior discussions had done as much as possible to clear misunderstanding and address injuries, while noting concerns about the presbytery's inadequate explanation and the complainants' lack of information.",
+  "summary": "A complaint challenged North Georgia Presbytery's transfer of Trinity Mission, Elberton, Georgia, to Central Georgia Presbytery, alleging insufficient debate and failure to examine discipline issues. The Judicial Commission unanimously did not sustain the specification of error. Its adopted explanation found that two years of contact and discussions had done as much as possible to clear misunderstanding. It nevertheless noted the presbytery's inadequate explanation and the complainants' failure to secure adequate information; no relief was granted, and the listed questions about congregational choice and transfer power were not answered.",
+  "sources": [
+    {
+      "path": "cases/ga12_1984__case3.md",
+      "sha256": "0f2a4d69a5144c642f1eb1d33f7e10f7cb43da89d420b693bd6d60a6db25437d",
+      "locator": "lines 13–15, 19–49, 57–83",
+      "supports": "Complaint grounds, adopted adjudication, explanatory opinion, not-sustained disposition, and procedural minutes excerpt."
+    }
+  ],
+  "evidence_notes": {
+    "identity_and_adoption": "Case 6, complaint of Warren Gardner et al. v. North Georgia Presbytery, before Judicial Commission #3/Committee on Judicial Business; the adjudication and explanatory opinion are marked 'Adopted' at line 49, with commission personnel listed at lines 65–83.",
+    "dispute": "Complainants alleged North Georgia Presbytery transferred Trinity Mission, Elberton, Georgia, to Central Georgia Presbytery without sufficient debate or thorough examination of the issues and possible church discipline; they also cited disregard of the congregation's feelings and raised questions about a congregation's right to choose its presbytery (lines 13–15, 23–37).",
+    "outcomes_and_reasons": "The commission unanimously did not sustain the specification of error (lines 41–43). Its adopted opinion concluded the dispute arose mainly from inadequate information and that, given two years' contact and discussions, as much as possible had been done to clear misunderstanding (lines 47–49). It also expressed concern about the presbytery's inadequate explanation and the complainants' failure to secure adequate information (line 49).",
+    "qualifications": "The concerns noted did not produce relief; no remand or directive appears. The adopted opinion does not answer the listed secondary questions about congregational choice or presbytery transfer power (lines 35–37, 47–49).",
+    "incorporated_decisions": "None. The source supplies no incorporated decision or separate opinion; the minutes excerpt at lines 57–83 is procedural and incomplete."
+  },
+  "source_limits": "The provided source contains the complaint, adopted adjudication and explanatory opinion, and partial minutes; it lacks a fuller transcript, post-June 19 minutes, and any separate opinions.",
+  "benchmark_examples": [
+    "C01: preserve both the procedural criticisms and the unsuccessful claim rather than treating every concern as relief.",
+    "C20: where the adopted ruling is sparse or omits a rationale, do not invent one."
+  ],
+  "scores": {
+    "concrete_dispute": 2,
+    "decision": 2,
+    "decisive_reason": 2,
+    "distinctive_value": 2,
+    "fidelity": 2,
+    "economy": 2
+  },
+  "score_reasons": {
+    "concrete_dispute": "Identifies the challenged presbytery action and the alleged procedural and disciplinary deficiencies.",
+    "decision": "States the unanimous not-sustained result and the absence of relief.",
+    "decisive_reason": "Gives the adopted explanation: prior contact and discussions had done as much as possible to clear misunderstanding.",
+    "distinctive_value": "Preserves that the commission noted faults on both sides but still rejected the complaint, and that listed secondary questions remained unanswered.",
+    "fidelity": "Separates the complainants' grounds and listed issues from the commission's adopted judgment and explanatory opinion.",
+    "economy": "Includes only the facts, outcome, adopted reason, and limits needed to assess the case."
+  },
+  "verification_notes": "Initial draft called the result 'denied'; on rereading lines 41–43 and 49 I corrected it to the adopted formulation 'specification of error not be sustained.' I also rechecked lines 13–15 against lines 47–49 to distinguish the complainants' grounds from the commission's adopted reasons, and confirmed there was no remand, relief, or incorporated decision.",
+  "repair_needed": false,
+  "repair_notes": "None."
+}

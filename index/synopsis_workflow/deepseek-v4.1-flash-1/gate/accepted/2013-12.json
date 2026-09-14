@@ -1,0 +1,50 @@
+{
+  "case_id": "2013-12",
+  "title": "Marshall v. Pacific Presbytery",
+  "matter_type": "appeal",
+  "final_dispositions": [
+    "dismissed"
+  ],
+  "disposition_detail": "Appeal dismissed under BCO 42-7; lower judgment suspended indefinitely because Pacific Presbytery failed to send a material part of the Record of the Case, an injury to Appellant that cannot be remedied; Pacific Presbytery rebuked and urged to take greater care to preserve, transcribe, and transmit all testimony in subsequent judicial proceedings.",
+  "first_summary": "G. Rick Marshall appealed Pacific Presbytery after it failed to send a material part of the Record of the Case. The SJC suspended the lower judgment indefinitely, dismissed the appeal under BCO 42-7, and rebuked Pacific Presbytery, urging greater care in preserving, transcribing, and transmitting testimony. A concurrence suggested recording testimony or hiring a court reporter.",
+  "summary": "G. Rick Marshall appealed Pacific Presbytery, which failed to transmit a material part of the Record of the Case, causing irremediable injury. The SJC did not reach the merits; it suspended the lower judgment indefinitely, dismissed the appeal under BCO 42-7, rebuked Pacific Presbytery, and urged greater care in preserving, transcribing, and transmitting testimony. Dismissal therefore did not leave the challenged judgment enforceable. A separate concurrence suggested recording testimony or hiring a court reporter and questioned imprudent prosecutions.",
+  "sources": [
+    {
+      "path": "cases/ga43_2015__2013-12.md",
+      "sha256": "88a9cd91fb92947623190614909a2e0293004ad51d4331960d5aca514b3309c9",
+      "locator": "lines 19–24 (adopted decision); line 3 (disposition label); line 26 (adoption vote); lines 32–61 (Donahoe concurrence)",
+      "supports": "Adopted judgment, dismissal/suspension/rebuke, vote, and separate concurrence."
+    }
+  ],
+  "evidence_notes": {
+    "identity_and_adoption": "Case 2013-12, Marshall v. Pacific Presbytery, appeal decided Oct. 16, 2014; adopted 18 concurring, 0 dissenting, 0 recused, 0 abstaining, 6 absent (lines 13–28).",
+    "dispute": "Appellant G. Rick Marshall appealed Pacific Presbytery; the lower court failed to send up a material part of the Record of the Case, causing injury to Appellant that cannot be remedied (lines 15, 19–21).",
+    "outcomes_and_reasons": "SJC suspended the lower judgment indefinitely and dismissed under BCO 42-7; it rebuked Pacific Presbytery and urged greater care to preserve, transcribe, and transmit all testimony (lines 19–24). The stated reason was the lower court's material and unremediable failure to transmit the record (lines 19–21).",
+    "qualifications": "No merits ruling on the appeal; the challenged judgment was suspended indefinitely, so dismissal did not leave it enforceable. RE Howard Donahoe's concurrence separately suggested recording testimony or hiring a court reporter and questioned imprudent prosecutions; that is not the adopted majority reasoning (lines 32–61).",
+    "incorporated_decisions": "None. The concurrence cites Case 2011-15 Hahn v. Philadelphia Metro West only in a footnote for a separate point (line 61)."
+  },
+  "source_limits": "The supplied source contains the SJC decision, concurring opinion, and proposed OMSJC amendments; it does not include the lower-court record or briefs, so the synopsis cannot detail the underlying facts or the merits of the appeal.",
+  "benchmark_examples": [
+    "A20. 2013-12: Marshall v. Pacific Presbytery — dismissal with lower judgment suspended indefinitely; disposition label alone does not capture relief.",
+    "A01. 2007-16: Grady v. Southwest Florida Presbytery — illustrative for separating conviction, censure, and suspension."
+  ],
+  "scores": {
+    "concrete_dispute": 2,
+    "decision": 2,
+    "decisive_reason": 2,
+    "distinctive_value": 2,
+    "fidelity": 2,
+    "economy": 2
+  },
+  "score_reasons": {
+    "concrete_dispute": "Identifies the missing material part of the Record of the Case and the irremediable injury to Appellant.",
+    "decision": "States dismissal, indefinite suspension of the lower judgment, rebuke, and the separate concurrence's suggestions.",
+    "decisive_reason": "Gives the adopted reason: lower court's failure to transmit a material part of the record could not be remedied.",
+    "distinctive_value": "Preserves that dismissal under BCO 42-7 suspended the challenged judgment and did not reach the merits.",
+    "fidelity": "Keeps adopted judgment, separate concurrence, and procedural history distinct; no merits result invented.",
+    "economy": "Includes only details needed to explain the dispute, result, and practical consequence."
+  },
+  "verification_notes": "Rechecked adopted decision at lines 19–24: suspension and dismissal are in the SJC's operative judgment; rebuke is included in disposition_detail rather than as a code. Confirmed no merits affirmance/reversal and no incorporated decision. Compared first_summary to source and corrected summary to state the SJC did not reach the merits and that dismissal did not leave the lower judgment enforceable; separated Donahoe concurrence's practical suggestions from adopted reasoning.",
+  "repair_needed": false,
+  "repair_notes": "No source or catalog defect identified."
+}

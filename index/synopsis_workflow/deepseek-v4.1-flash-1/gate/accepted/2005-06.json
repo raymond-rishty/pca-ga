@@ -1,0 +1,49 @@
+{
+  "case_id": "2005-06",
+  "title": "Complaint of RE Hugo Andrino vs. Southern Florida Presbytery",
+  "matter_type": "complaint",
+  "final_dispositions": [
+    "out_of_order"
+  ],
+  "disposition_detail": "Complaint 2005-06 was found out of order; no merits ruling, adopted reasons, or relief is recorded.",
+  "first_summary": "The SJC found RE Hugo Andrino's complaint against Southern Florida Presbytery out of order. No separate merits opinion was published, and no reasons or relief are stated.",
+  "summary": "The Standing Judicial Commission, as recorded in the 34th Assembly, found RE Hugo Andrino's complaint against Southern Florida Presbytery out of order. The supplied record includes no separate merits opinion, no adopted reason, and no relief; it does not identify the challenged presbytery action or classify the out-of-order ruling.",
+  "sources": [
+    {
+      "path": "cases/ga34_2006__stub_2005-06.md",
+      "sha256": "97465a7920bc8f561530c262777568df29c967c82280ef3165ff3d4a12283379",
+      "locator": "lines 1-5, 9-10",
+      "supports": "Identifies case 2005-06, title/parties, SJC/34th Assembly, Out of Order disposition, no merits opinion, and the out-of-order grouping; also shows the truncated excerpt."
+    }
+  ],
+  "evidence_notes": {
+    "identity_and_adoption": "cases/ga34_2006__stub_2005-06.md lines 1-3: case id 2005-06; title and parties; Court Standing Judicial Commission; Assembly 34th (2006); Disposition Out of Order. Line 5 states the Assembly disposed of it as recorded and no separate merits opinion was published.",
+    "dispute": "Line 1 identifies a complaint by RE Hugo Andrino against Southern Florida Presbytery. The source gives no facts, lower-court action, or specifications.",
+    "outcomes_and_reasons": "Lines 3 and 9-10: 2005-06 was found out of order. No merits ruling, adopted reason, or relief is supplied.",
+    "qualifications": "Line 3 labels the disposition Out of Order; line 5 says no separate merits opinion; lines 9-10 group it with other cases and the excerpt is truncated after 'but the'.",
+    "incorporated_decisions": "None. The source does not incorporate another decision's result for 2005-06; the mention of Case 2005-05 is unrelated and incomplete."
+  },
+  "source_limits": "Sparse stub/minutes excerpt only. It omits the challenged action, issue, adopted reasoning, out-of-order subtype, and relief. The quoted sentence is truncated after 'but the' and references another case; no merits record is supplied.",
+  "benchmark_examples": [
+    "C20 (2016-13 Daniels): an unexplained short-record disposition must remain unexplained; do not infer a rationale."
+  ],
+  "scores": {
+    "concrete_dispute": 1,
+    "decision": 2,
+    "decisive_reason": 2,
+    "distinctive_value": 1,
+    "fidelity": 2,
+    "economy": 2
+  },
+  "score_reasons": {
+    "concrete_dispute": "Names the complainant and respondent presbytery, but the source never states the challenged action or conduct.",
+    "decision": "States the only recorded disposition—out of order—and notes that no merits success or failure appears in the source.",
+    "decisive_reason": "Faithfully reports that no adopted reason is supplied rather than inferring one.",
+    "distinctive_value": "Preserves the sparse-record limit: an out-of-order ruling with no merits opinion, rationale, subtype, or remedy.",
+    "fidelity": "Keeps the SJC/Assembly disposition distinct from missing merits reasoning and does not treat the unrelated Case 2005-05 reference as this case's result.",
+    "economy": "Uses only identity, disposition, and the absence of merits/reasons; no filing history or irrelevant details."
+  },
+  "verification_notes": "Rechecked cases/ga34_2006__stub_2005-06.md lines 1-10. Confirmed line 1 title/parties, line 3 SJC/34th Assembly/Out of Order, line 5 no separate merits opinion, and lines 9-10 grouping. In the corrected summary, attributed the absence of a merits opinion to the supplied record and avoided inferring any out-of-order subtype or reason. Confirmed no incorporated decision for 2005-06.",
+  "repair_needed": false,
+  "repair_notes": "No repair needed. The absence of merits detail and the truncated neighboring sentence are limitations of the stub, not a defect in the disposition record for 2005-06."
+}

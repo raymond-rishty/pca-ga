@@ -1,0 +1,18 @@
+{
+  "case_id": "2018-02",
+  "title": "Anna Lewis v. Presbytery of the Mississippi Valley",
+  "matter_type": "bco_40_5_matter",
+  "final_dispositions": ["out_of_order"],
+  "disposition_detail": "The SJC held the BCO 40-5 filing out of order because Chapter 40 matters reached it only upon General Assembly referral.",
+  "first_summary": "After her session erased her from the roll, Anna Lewis filed a BCO 40-5 report directly with the SJC, alleging the Presbytery of the Mississippi Valley failed to redress the session's alleged failure to give BCO 38-4 notice. The SJC held the filing out of order: under RAO 16-10.c and OMSJC Chapter 15, BCO Chapter 40 matters come to it only by General Assembly referral. It did not decide the merits, but noted that without proper notice Lewis remains a member unless she joined another church. Dissents disputed that limitation and cited past direct reviews.",
+  "summary": "After her session erased her from the roll, Anna Lewis filed a BCO 40-5 report directly with the SJC, alleging the Presbytery of the Mississippi Valley failed to redress the session's alleged failure to give BCO 38-4 notice. The SJC held the filing out of order: under RAO 16-10.c and OMSJC Chapter 15, BCO Chapter 40 matters come to it only by General Assembly referral. It did not decide the merits, but noted that without proper notice Lewis remains a member unless she joined another church. Dissents disputed that limitation and cited past direct reviews.",
+  "sources": [{"path":"cases/ga47_2019__2018-02.md","sha256":"d44c3b351625ac143e9be3263a6e9c9448c45b1d384425c19a3b2a35a92bf1c9","locator":"M47GA pp. 562-575; adopted decision and separate opinions","supports":"BCO 40-5 posture, referral holding, conditional membership observation, vote, and dissents."}],
+  "evidence_notes": {"identity_and_adoption":"The case page records the SJC decision and 17 concurring, six dissenting, and one disqualified vote.","dispute":"Lewis challenged Presbytery's failure to redress her Session's erasure of her name without alleged BCO 38-4 notice.","outcomes_and_reasons":"The decision itself calls this a filing with the SJC and found it out of order because Chapter 40 matters reached the SJC only by General Assembly referral.","qualifications":"The merits were not decided; the majority conditionally observed that absent notice Lewis remained a member unless she joined another church.","incorporated_decisions":"Not applicable; prior direct reviews appear in the dissents and are attributed accordingly."},
+  "source_limits": "Complete adopted decision and separate opinions are present; the filing route appears in procedural background rather than an adopted factual finding.",
+  "benchmark_examples": ["B05", "C17"],
+  "scores": {"concrete_dispute":2,"decision":2,"decisive_reason":2,"distinctive_value":2,"fidelity":2,"economy":2},
+  "score_reasons": {"concrete_dispute":"Identifies erasure and notice issue.","decision":"States the exact out-of-order ruling.","decisive_reason":"Explains the referral requirement.","distinctive_value":"Preserves conditional membership observation and dispute in dissents.","fidelity":"Does not say Lewis filed directly with the SJC and attributes dissenting views.","economy":"Keeps only outcome-relevant details."},
+  "verification_notes": "Astra rechecked the majority holding, qualification, and separate opinions. On user review, the original 'directly with the SJC' wording was retained because the decision and concurrence themselves characterize the posture that way; 'directly' distinguishes the absence of General Assembly referral, not the report's mailing addressee.",
+  "repair_needed": false,
+  "repair_notes": "Case-page disposition header and durable metadata were corrected."
+}

@@ -1,0 +1,50 @@
+{
+  "case_id": "1992-09b",
+  "title": "Overman v. Eastern Carolina Presbytery",
+  "matter_type": "complaint",
+  "final_dispositions": [
+    "out_of_order"
+  ],
+  "disposition_detail": "SJC adopted the officers' recommendation that complaint 92-9b be found not in order because Overman lacked standing as not subject to the jurisdiction of Eastern Carolina Presbytery (BCO 43-1; MSJC 6.2). It made no merits determination on the licensing of Arthur Peterson; the same basic issue was cross-referenced to a complaint by the Session of Antioch Presbyterian Church. The source header labels the disposition 'dismissed.'",
+  "first_summary": "Overman complained to the General Assembly after the Eastern Carolina Presbytery licensed Arthur Peterson and denied his complaint. The SJC dismissed the complaint, holding that Overman lacked standing because he was not subject to the presbytery's jurisdiction. The merits of the licensing issue were left to a separate complaint by the Antioch Presbyterian Church session.",
+  "summary": "Overman carried to the General Assembly his complaint that Eastern Carolina Presbytery improperly licensed Arthur Peterson, after the presbytery denied it. The SJC found the complaint not in order for lack of standing: Overman was not subject to the presbytery's jurisdiction (BCO 43-1; MSJC 6.2). It made no merits ruling; the same basic issue was noted as pending in a complaint by the Antioch Presbyterian Church session. The source header labels the disposition 'dismissed.'",
+  "sources": [
+    {
+      "path": "cases/ga21_1993__1992-09b.md",
+      "sha256": "9aab86d6d4a7970067931fa0af1bad6d6491e9d461e988a8da3d568804a5dd28",
+      "locator": "lines 14–34 (printed pp. 223–224)",
+      "supports": "Facts, SJC disposition, standing reason, voting, and related Antioch complaint reference."
+    }
+  ],
+  "evidence_notes": {
+    "identity_and_adoption": "Lines 1, 14: case no. 1992-09b / Judicial Case No. 92-9b, Overman v. Eastern Carolina Presbytery, SJC, 21st Assembly; line 32 records that the proposed disposition was approved unanimously by the SJC. Source path/hash as supplied.",
+    "dispute": "Lines 18–20: complaint arose when Eastern Carolina Presbytery licensed Mr. Arthur Peterson on July 18, 1992; Overman's complaint was adjudicated by ECP on October 17, 1992 and not sustained; Overman carried the complaint to the General Assembly.",
+    "outcomes_and_reasons": "Lines 24–26: SJC officers reviewed the complaint on December 10, 1992 and found 92-9b not in order; recommendation was lack of standing because the complainant was not subject to ECP's jurisdiction (BCO 43-1; MSJC 6.2). Line 26 notes the basic issue is being addressed in the Antioch Presbyterian Church session complaint. Line 32: full SJC approved the proposed disposition unanimously. No merits ruling on licensure appears.",
+    "qualifications": "Lines 3, 26, 34: the source header says disposition 'dismissed,' but the operative SJC action was 'found not in order'; the related Antioch complaint is only noted as to be adjudicated; a protest by TE Frank J. Smith under 21-79, page 258 is noted but not supplied.",
+    "incorporated_decisions": "None. Line 26 references the Antioch Presbyterian Church session complaint as a separate matter that would be adjudicated; no incorporated decision or supplied result is present."
+  },
+  "source_limits": "Sparse record: only a short fact summary and the SJC disposition. No full complaint, no ECP record, no merits analysis, no protest text, and no Antioch decision are supplied. The source header's 'dismissed' label is not an operative merits ruling.",
+  "benchmark_examples": [
+    "C01 (mixed procedural outcome; preserve successful and unsuccessful issues)",
+    "C20 (sparse record; do not supply missing rationales)"
+  ],
+  "scores": {
+    "concrete_dispute": 2,
+    "decision": 2,
+    "decisive_reason": 2,
+    "distinctive_value": 2,
+    "fidelity": 2,
+    "economy": 2
+  },
+  "score_reasons": {
+    "concrete_dispute": "Identifies the challenged presbytery licensure of Arthur Peterson and Overman's complaint carried to the General Assembly.",
+    "decision": "States the SJC's operative disposition: complaint 92-9b found not in order; no merits ruling on licensure.",
+    "decisive_reason": "Gives the adopted reason: lack of standing because Overman was not subject to ECP's jurisdiction under BCO 43-1 and MSJC 6.2.",
+    "distinctive_value": "Preserves the standing threshold and the cross-reference to the Antioch complaint as the forum for the basic issue.",
+    "fidelity": "Distinguishes ECP's denial, Overman's complaint, the SJC's out-of-order finding, the header's 'dismissed' label, and the related Antioch matter.",
+    "economy": "Every retained detail explains the dispute, the standing disposition, or the related-matter limitation."
+  },
+  "verification_notes": "Rechecked the operative SJC action at lines 24–32 and corrected the first draft's 'dismissed' characterization to the source's 'found not in order' for lack of standing; the header label at line 3 is noted separately. Rechecked that the SJC made no merits ruling on licensure and that the Antioch complaint is only cross-referenced, not incorporated. Confirmed the unanimous approval, the standing reason, and the BCO 43-1 / MSJC 6.2 citations.",
+  "repair_needed": false,
+  "repair_notes": ""
+}

@@ -1,0 +1,49 @@
+{
+  "case_id": "2004-01",
+  "title": "Westminster Presbyterian Church v. Westminster Presbytery",
+  "matter_type": "complaint",
+  "final_dispositions": [
+    "withdrawn"
+  ],
+  "disposition_detail": "The complaint was withdrawn; the SJC issued no merits opinion.",
+  "first_summary": "Westminster Presbyterian Church’s complaint against Westminster Presbytery was withdrawn without a merits opinion.",
+  "summary": "Westminster Presbyterian Church’s complaint against Westminster Presbytery was withdrawn. The SJC docket report gives no reason for the withdrawal, identifies no merits determination, and records no further relief or proceedings.",
+  "sources": [
+    {
+      "path": "cases/ga33_2005__2004-01_2004-10.md",
+      "sha256": "b7c6e3faaf82b04fdf28cbc7869db7dc6f85e9fe357b2eb833ecfabda71fa95f",
+      "locator": "lines 1–9",
+      "supports": "Case identity, parties, complaint classification, withdrawal, and absence of a merits opinion."
+    }
+  ],
+  "evidence_notes": {
+    "identity_and_adoption": "The heading and docket description identify 2004-01 as Westminster Presbyterian Church’s complaint against Westminster Presbytery (lines 1, 9).",
+    "dispute": "The source identifies the proceeding only as a complaint and does not describe the challenged action or allegations (line 9).",
+    "outcomes_and_reasons": "The report states that the case was withdrawn and that no merits opinion followed; no reason is supplied (lines 3, 9).",
+    "qualifications": "The source is a brief docket report and provides no substantive ruling, relief, or further proceedings (line 9).",
+    "incorporated_decisions": "No incorporated decision is identified (lines 1–9)."
+  },
+  "source_limits": "The supplied source is a sparse docket entry combining two cases; only its statements concerning 2004-01 support this synopsis.",
+  "benchmark_examples": [
+    "C20"
+  ],
+  "scores": {
+    "concrete_dispute": 1,
+    "decision": 2,
+    "decisive_reason": 2,
+    "distinctive_value": 2,
+    "fidelity": 2,
+    "economy": 2
+  },
+  "score_reasons": {
+    "concrete_dispute": "Identifies the complaint and parties, but the source does not disclose the challenged conduct.",
+    "decision": "States the withdrawal and absence of a merits decision.",
+    "decisive_reason": "Faithfully notes that no reason for withdrawal is given.",
+    "distinctive_value": "Preserves the limitation that the docket entry supplies no merits ruling or relief.",
+    "fidelity": "Does not attribute the separate 2004-10 appeal or any unsupported reasoning to this case.",
+    "economy": "Includes only information needed to identify the proceeding and its status."
+  },
+  "verification_notes": "Rechecked line 9 to separate 2004-01 from the accompanying 2004-10 appeal and confirmed that withdrawal—not a merits disposition—was the only recorded outcome.",
+  "repair_needed": false,
+  "repair_notes": ""
+}

@@ -1,0 +1,50 @@
+{
+  "case_id": "2022-15",
+  "title": "Murdock v. South Florida Presbytery",
+  "matter_type": "complaint",
+  "final_dispositions": [
+    "administratively_out_of_order"
+  ],
+  "disposition_detail": "The complaint was found administratively out of order because the complainant died on November 15, 2022, and no other person joined the original complaint; the SJC approved that decision 23-0. No merits ruling was made.",
+  "first_summary": "The SJC found the complaint in Murdock v. South Florida Presbytery out of order because the complainant died on November 15, 2022, and no other person joined the complaint. The Commission approved the decision 23-0. The source provides no merits analysis.",
+  "summary": "A complaint against South Florida Presbytery was held administratively out of order because its sole complainant died on November 15, 2022, and no other person joined the original complaint. The SJC adopted that disposition by a 23–0 roll-call vote. The sparse record states no underlying complaint issue, merits analysis, or further proceedings; the ruling turns on the absence of a surviving or joined complainant.",
+  "sources": [
+    {
+      "path": "cases/ga50_2023__2022-15.md",
+      "sha256": "70380d91439b03b6b36f47b7a7c6bb9852398418542fe4ae862afcb479f55d34",
+      "locator": "lines 12–18 (printed p. 924)",
+      "supports": "Case identity, procedural vehicle, adopted disposition, vote, and reason."
+    }
+  ],
+  "evidence_notes": {
+    "identity_and_adoption": "Lines 12–18 identify Case No. 2022-15, Murdock v. South Florida Presbytery, a Decision on Complaint dated March 2, 2023, approved by the SJC 23–0.",
+    "dispute": "Lines 16–18 show a complaint against South Florida Presbytery; the SJC Officers recommended it be found out of order.",
+    "outcomes_and_reasons": "Line 18 states the complainant died on November 15, 2022, no other person joined the original complaint, and therefore it is administratively out of order; the SJC approved the decision 23–0.",
+    "qualifications": "The source is a sparse disposition excerpt; it gives no underlying merits issue, no merits analysis, and no later proceedings. Metadata labels the disposition “administrative,” while the adopted text says “administratively out of order.”",
+    "incorporated_decisions": "None. No incorporated decision or adopted separate ruling is supplied."
+  },
+  "source_limits": "The supplied source is a one-page case excerpt. It identifies only the procedural outcome and reason; it does not describe the underlying complaint allegations, the presbytery action challenged, briefing, or merits.",
+  "benchmark_examples": [
+    "C20 (2016-13): short-record disposition should remain sparse; do not infer an unstated merits rationale.",
+    "C01 (1978-02): preserve procedural rulings precisely and distinguish them from merits outcomes."
+  ],
+  "scores": {
+    "concrete_dispute": 1,
+    "decision": 2,
+    "decisive_reason": 2,
+    "distinctive_value": 2,
+    "fidelity": 2,
+    "economy": 2
+  },
+  "score_reasons": {
+    "concrete_dispute": "The source identifies the complaint proceeding and the procedural defect, but not the underlying challenged presbytery conduct.",
+    "decision": "It states the sole adopted outcome: the complaint was administratively out of order and approved 23–0.",
+    "decisive_reason": "The adopted reason is explicit: the complainant died, no other person joined, and the complaint was therefore administratively out of order.",
+    "distinctive_value": "It preserves the operative rule that a sole complainant’s death with no joinder leaves the complaint administratively out of order.",
+    "fidelity": "It keeps the adopted SJC action distinct from the officer recommendation and does not convert the administrative ruling into a merits judgment.",
+    "economy": "It retains only the procedural posture, adopted reason, vote, and absence of merits or further proceedings."
+  },
+  "verification_notes": "Rechecked lines 12–18: case number/title, decision date, SJC approval vote, and reason. Corrected the initial wording to use the exact disposition code administratively_out_of_order rather than the metadata label “administrative,” and confirmed that no merits disposition or incorporated decision appears.",
+  "repair_needed": false,
+  "repair_notes": "None."
+}

@@ -1,0 +1,50 @@
+{
+  "case_id": "1998-05",
+  "title": "Long, et al. v. James River Presbytery",
+  "matter_type": "complaint",
+  "final_dispositions": [
+    "denied"
+  ],
+  "disposition_detail": "SJC denied the complaint. On the parties' sole stipulated issue, it answered 'No' to whether JRP erred by instructing TE Andrew Conrad not to teach or preach his views on creation and anthropomorphic days, leaving the instruction in effect. The adopted decision was approved 13 concurring, 8 dissenting, 1 recused, and 2 absent.",
+  "first_summary": "James River Presbytery instructed a newly ordained teaching elder not to teach or preach his views on creation and anthropomorphic days. The SJC denied the complaint, holding the complainants failed to prove procedural or constitutional error and that deference was owed to the presbytery. The dissent argued the presbytery exceeded its discretion by restricting views on creation that the PCA has historically allowed.",
+  "summary": "At issue was whether James River Presbytery erred by instructing TE Andrew Conrad not to teach or preach his views that the Genesis days were not necessarily six twenty-four-hour days, after JRP treated the views as an exception. The SJC denied the complaint, leaving JRP's instruction in effect. It deferred under BCO 39-3, finding no significant procedural or constitutional error and no clear error of discretion; the parties had stipulated that instruction as the sole issue. The eight dissenters would have found JRP exceeded its discretion.",
+  "sources": [
+    {
+      "path": "cases/ga27_1999__1998-05.md",
+      "sha256": "f6f8d2754613d91f26358fc9e7d1d6ea8a3eaa7e51a4d10d1e597c86b3724ff4",
+      "locator": "pp. 73-77 (lines 14-112)",
+      "supports": "Caption, facts, stipulated issue, judgment, majority reasoning, vote, and separate dissent."
+    }
+  ],
+  "evidence_notes": {
+    "identity_and_adoption": "Lines 1-5 identify SJC Case 1998-05 from the 27th General Assembly (1999) and the header says disposition denied. Lines 14, 47-49, and 73 locate the adopted caption, judgment, and SJC vote approving the decision 13 concurring, 8 dissenting, 1 recused, 2 absent.",
+    "dispute": "Lines 18-41 summarize JRP's October 1997 ordination exam, the Harrell complaint, JRP's instruction that TE Conrad not teach or preach the views, the Griffith complaint, and the Long complaint to the SJC. Line 41 states the parties stipulated the sole issue: whether JRP erred in giving that instruction.",
+    "outcomes_and_reasons": "Lines 47-49 give the judgment 'No.' Lines 53-71 give the adopted reasoning: no errors of process or unconstitutional acts, no proof of clear error of discretion or judgment, and deference to the lower court under BCO 39-3. Line 73 records the split vote.",
+    "qualifications": "Lines 75-112 are a dissenting opinion, not the adopted ruling. Its liberty-of-conscience, historical creation-freedom, and prior-GA arguments are dissent positions; the majority did not adopt them. Lines 114-122 concern unrelated other-case dispositions and are not part of this case.",
+    "incorporated_decisions": "No incorporated decision supplies a material result for this case. The dissent cites prior decisions such as Case 95-7, Bowen, and Case 97-5, but they are referenced only in dissent and are not adopted in the SJC judgment."
+  },
+  "source_limits": "The source is a digest excerpt, not the full Record of the Case. The full record, exhibits, and the prior decisions cited in dissent are not supplied; references to those matters are limited to what the source states.",
+  "benchmark_examples": [
+    "C01: preserve both successful and unsuccessful issue-level outcomes in a complaint synopsis.",
+    "C20: keep a separate dissent distinct from the adopted ruling and do not supply an explanation the majority did not adopt."
+  ],
+  "scores": {
+    "concrete_dispute": 2,
+    "decision": 2,
+    "decisive_reason": 2,
+    "distinctive_value": 2,
+    "fidelity": 2,
+    "economy": 2
+  },
+  "score_reasons": {
+    "concrete_dispute": "Identifies the challenged JRP instruction and the exact stipulated issue.",
+    "decision": "States the denial, the 'No' judgment, the left-in-effect remedy, and the dissenting vote.",
+    "decisive_reason": "Gives the adopted BCO 39-3 deference and no-clear-error rationale, while treating dissent reasons separately.",
+    "distinctive_value": "Shows the limit on SJC reversal where lower-court discretion is involved and no clear error is shown.",
+    "fidelity": "Separates facts, stipulated issue, adopted judgment/reasoning, vote, and dissent; does not treat cited prior decisions as adopted.",
+    "economy": "Uses about 86 words in the synopsis and only details that explain the dispute, result, or qualification."
+  },
+  "verification_notes": "First draft was corrected to state that the parties stipulated the teaching/preaching instruction as the sole issue (line 41) and that the SJC answered 'No' (line 49). I also moved the liberty-of-conscience and creation-history points to the dissent (lines 75-112) rather than the majority, and rechecked the vote at line 73 and the absence of an adopted incorporated decision.",
+  "repair_needed": false,
+  "repair_notes": "No source or catalog defect identified. Adjacent 'Disposition of Other Cases' material (lines 114-122) was excluded as unrelated."
+}

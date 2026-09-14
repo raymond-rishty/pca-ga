@@ -1,0 +1,51 @@
+{
+  "case_id": "2001-31",
+  "title": "Deacon Neil Jeansonne v. Eastern Carolina Presbytery",
+  "matter_type": "appeal",
+  "final_dispositions": [
+    "denied",
+    "remanded"
+  ],
+  "disposition_detail": "The SJC answered no to whether Jeansonne's appeal was properly before the General Assembly. Because the incorporated decision in Case 2001-33 held that Eastern Carolina Presbytery erred in hearing and sustaining RE Williams's complaint, ECP's April 21, 2001 judgment reversing the Session's verdict and removing the censures stands. The case was remanded to the Session of Christ Presbyterian Church, which may retry using the prior indictment or decide not to pursue the matter; this was not a merits acquittal.",
+  "first_summary": "Deacon Neil Jeansonne appealed to the General Assembly after Eastern Carolina Presbytery affirmed the Session's conviction and censures. The SJC held the appeal was not properly before it because its prior decision in Case 2001-33 had found ECP erred in rescinding its April 21, 2001 reversal. The April 21 judgment reversing the Session and removing censures stands; the case is remanded to the Session for possible new hearing or withdrawal of charges.",
+  "summary": "After Deacon Neil Jeansonne was convicted by his Session of causing dissension and strife, Eastern Carolina Presbytery reversed, then reinstated the conviction; the SJC asked whether his General Assembly appeal was properly before it. It was not. Because Case 2001-33 held ECP erred in hearing RE Williams's complaint, ECP's April 21, 2001 reversal and removal of censures stand. The case is remanded to the Session, which may retry using the prior indictment or not pursue the matter. BCO 43-1 barred the complaint once appeal was taken.",
+  "sources": [
+    {
+      "path": "cases/ga31_2003__2001-31.md",
+      "sha256": "4bbca3aaac6cdac4b0801ddf226c4fcaedbe1cf404e4c2c2c3ca9256b77995bf",
+      "locator": "lines 1–70 (printed pp. 105–107)",
+      "supports": "Identity, procedural facts, issue, judgment, reasoning, incorporation of Case 2001-33, roll call, and adoption."
+    }
+  ],
+  "evidence_notes": {
+    "identity_and_adoption": "Case 2001-31, Deacon Neil Jeansonne v. Eastern Carolina Presbytery, SJC, 31st GA (2003), at lines 1–3, 14; adopted 19 concur, 0 dissent, 4 absent, lines 70.",
+    "dispute": "Session convicted Jeansonne of public offense and imposed deposition plus indefinite suspension, lines 18, 50; ECP reversed April 21, 2001, lines 22, 52; ECP sustained RE Williams's complaint July 21, 2001, rescinding that reversal, lines 26, 54; ECP affirmed the Session October 13, 2001, line 36; Jeansonne appealed to GA October 30, 2001, line 38.",
+    "outcomes_and_reasons": "Judgment: appeal not properly before GA; April 21, 2001 ECP judgment stands; remanded to Session, lines 42–46. Reason: incorporated Case 2001-33 held ECP erred under BCO 43-1 because no complaint is allowable once an appeal 'is taken,' lines 56–60; Session may retry using prior indictment or not pursue, line 62.",
+    "qualifications": "The BCO 43-1 word 'taken' was later changed to 'pending' at the 30th GA but was not in effect when this appeal was filed, line 60. Header's 'appeal denied' is catalog shorthand; operative judgment is no/not properly before plus remand, lines 3, 42–46.",
+    "incorporated_decisions": "Case 2001-33 (TE W. W. Marshall Jr. v. Eastern Carolina Presbytery) is incorporated; the source supplies its material result that ECP erred in hearing and acting on RE Williams's complaint, lines 30–34, 46, 56."
+  },
+  "source_limits": "The supplied source is the SJC synopsis at ga31_2003 pp. 105–107, not the full filings, lower-court records, or full text of incorporated Case 2001-33. The header's 'appeal denied' does not by itself show the remand or the effective reinstatement of the April 21, 2001 reversal.",
+  "benchmark_examples": [
+    "A01. 2007-16 Grady v. Southwest Florida Presbytery — distinguish conviction, censure, and suspension remedies.",
+    "A03. 2012-07 Mitchell v. Presbytery of the Ascension — preserve issue-level outcomes and distinct remedies."
+  ],
+  "scores": {
+    "concrete_dispute": 2,
+    "decision": 2,
+    "decisive_reason": 2,
+    "distinctive_value": 2,
+    "fidelity": 2,
+    "economy": 2
+  },
+  "score_reasons": {
+    "concrete_dispute": "Identifies the Session conviction for dissension/strife and the ECP reversal, rescission, and reinstatement that led to the appeal.",
+    "decision": "States the SJC's no/not-properly-before ruling, the standing of the April 21, 2001 ECP judgment, and the remand to Session.",
+    "decisive_reason": "Gives the adopted reason: Case 2001-33 and BCO 43-1 bar a complaint after an appeal is taken.",
+    "distinctive_value": "Preserves the older 'is taken' wording, the remand/retrial option, and the distinction between procedural denial and effective relief.",
+    "fidelity": "Separates Session conviction, ECP actions, SJC judgment, and incorporated Case 2001-33; does not turn the ruling into a merits acquittal.",
+    "economy": "All retained details explain the dispute, procedural bar, or remedy."
+  },
+  "verification_notes": "Reread judgment lines 42–46 and reasoning lines 50–62. Corrected the first summary to make clear the General Assembly appeal was not properly before the SJC and that the April 21, 2001 ECP judgment, not the October 13, 2001 affirmance, stands. Added the BCO 43-1 'is taken' limitation and the qualification that later wording 'pending' was not in effect. Rechecked the remand command and that Case 2001-33 is incorporated, not independently decided. Verified adoption at line 70.",
+  "repair_needed": false,
+  "repair_notes": "No source or catalog defect identified. The header's 'appeal denied' is a shorthand for the SJC's no/not-properly-before ruling; the operative judgment and remand are clear at lines 42–46."
+}

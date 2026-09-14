@@ -1,0 +1,50 @@
+{
+  "case_id": "1997-10",
+  "title": "Raymond Larsen vs. Pacific Presbytery (Complaint)",
+  "matter_type": "complaint",
+  "final_dispositions": [
+    "withdrawn"
+  ],
+  "disposition_detail": "Case 97-10, Raymond Larsen's complaint against Pacific Presbytery, was withdrawn by the complainant, and the withdrawal was recorded together with the companion matter 97-12 (also Larsen vs. Pacific Presbytery), likewise withdrawn. No merits ruling, findings, or reasons appear; no separate merits opinion was published.",
+  "first_summary": "Raymond Larsen's complaint against Pacific Presbytery (Case 97-10) was withdrawn by the complainant, and the Assembly recorded the withdrawal along with that of his companion Case 97-12. No merits opinion was published.",
+  "summary": "Raymond Larsen's complaint against Pacific Presbytery (Case 97-10) was withdrawn by the complainant before any merits ruling, and the Assembly recorded that withdrawal at its next stated meeting. His companion Case 97-12, also against Pacific Presbytery, was withdrawn at the same time. No separate merits opinion was published, so the record supplies only the disposition and no reasons, facts, or relief.",
+  "sources": [
+    {
+      "path": "cases/ga26_1998__stub_1997-10.md",
+      "sha256": "a1d89605d139003b73ee7078361d92363b594a098fb7a4b18cea8e85ca81e4ab",
+      "locator": "lines 1-9 (title line 1; disposition line 3; no-opinion note line 5; quoted Assembly record line 9)",
+      "supports": "Identity of the case and parties, matter type as a complaint, the 'Withdrawn' disposition, the absence of a published merits opinion, and the exact wording recording the withdrawal of 97-10 together with 97-12."
+    }
+  ],
+  "evidence_notes": {
+    "identity_and_adoption": "Line 1 gives case 1997-10, 'Raymond Larsen vs. Pacific Presbytery (Complaint)', at 26th Assembly printed p. 103; line 3 assigns it to the Standing Judicial Commission with disposition 'Withdrawn'; line 5 states no separate merits opinion was published.",
+    "dispute": "The record identifies only that Larsen filed a complaint against Pacific Presbytery; the challenged action or decision is not described anywhere in the stub.",
+    "outcomes_and_reasons": "Line 9, the quoted Assembly record, states that 97-10 and 97-12 'were withdrawn by the complainants.' No adopted reasoning, findings, or relief are stated; the withdrawal is recorded, not adjudicated on the merits.",
+    "qualifications": "Withdrawal is complainant-initiated and is not a merits ruling, dismissal, or acquittal; the stub's 'no separate merits opinion' note confirms nothing further is available. The header line 3 labels the court as the Standing Judicial Commission while the operative quotation describes the disposition as recorded at the Assembly's next stated meeting; both are preserved without harmonizing them.",
+    "incorporated_decisions": "None. No decision is incorporated by reference; the only operative text is the Assembly minute quoted at line 9, which is reproduced in full."
+  },
+  "source_limits": "The source is a three-sentence stub. It supplies no facts, no specification of the challenged Presbytery action, no reasoning, and no relief, and it does not explain whether case 97-12 was identical to 97-10 beyond sharing parties and Presbytery. Nothing supports characterizing the underlying dispute or its merits.",
+  "benchmark_examples": [
+    "C20 (2016-13, Daniels et al. v. Nashville Presbytery): short-record example where the adopted ruling states a disposition without explaining it; the synopsis must remain equally unexplained.",
+    "C01 (1978-02, Allin et al. v. Tennessee Valley Presbytery): contrast case showing how a reasoned decision's mixed outcomes are preserved; not applicable here because no merits reasoning exists."
+  ],
+  "scores": {
+    "concrete_dispute": 1,
+    "decision": 2,
+    "decisive_reason": 2,
+    "distinctive_value": 1,
+    "fidelity": 2,
+    "economy": 2
+  },
+  "score_reasons": {
+    "concrete_dispute": "The stub identifies a complaint by Larsen against Pacific Presbytery but never states the challenged action, so the dispute is only partially concrete.",
+    "decision": "The disposition is fully stated: 97-10 was withdrawn, and the companion 97-12 was withdrawn at the same time; no other outcome exists to report.",
+    "decisive_reason": "No reason is given in the source, and the synopsis says so rather than supplying one, which is the faithful treatment of an unexplained disposition.",
+    "distinctive_value": "Value is limited to a status record: it shows that a complaint against Pacific Presbytery terminated by complainant withdrawal with no published merits opinion, useful mainly for index completeness.",
+    "fidelity": "Withdrawal is kept distinct from dismissal or a merits ruling; the header's court designation and the Assembly-minute quotation are both reported without inventing harmonization or reasoning.",
+    "economy": "Every retained detail—case number, parties, withdrawal, companion case, absence of opinion—bears directly on the disposition; nothing extraneous is added."
+  },
+  "verification_notes": "Rechecked line 9 to confirm the withdrawal is attributed to 'the complainants' and covers both 97-10 and 97-12, both captioned Raymond Larsen vs. Pacific Presbytery, so the withdrawal is complainant-initiated rather than an SJC or Assembly dismissal. Rechecked line 5 and confirmed no merits opinion was published, so no reasoning, findings, or relief may be reported. Confirmed the disposition code 'withdrawn' rather than 'dismissed' or 'moot'. Confirmed matter_type 'complaint' from the caption and from the fact that the document records a challenge to a presbytery rather than a reference, original-jurisdiction request, or BCO 40-5 matter. Noted, without resolving, the tension between line 3's 'Court: Standing Judicial Commission' and line 9's description of the record as taken at the Assembly's stated meeting.",
+  "repair_needed": false,
+  "repair_notes": "None. The stub is sparse by design but internally consistent; the only shortfall is the absence of underlying detail, which is a source limitation rather than a catalog defect."
+}

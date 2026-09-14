@@ -17,7 +17,11 @@ import sys
 from collections import defaultdict
 
 
-ROOT = sys.argv[1] if len(sys.argv) > 1 else os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+DEFAULT_ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+# Do not consume pytest, importlib, or another caller's argv when this module is
+# imported for tests or reuse.  The positional ROOT override belongs only to
+# direct command-line execution.
+ROOT = sys.argv[1] if __name__ == "__main__" and len(sys.argv) > 1 else DEFAULT_ROOT
 IDX = os.path.join(ROOT, "index")
 ROSTER = os.path.join(IDX, "sjc_official", "roster.jsonl")
 CASES = os.path.join(IDX, "cases.jsonl")
@@ -26,6 +30,7 @@ CJB_CASES = os.path.join(IDX, "cjb_cases.json")
 PAGE_MAP = os.path.join(IDX, "case_pages_map.json")
 EDITORIAL_OVERRIDES = os.path.join(IDX, "judicial_case_editorial_overrides.json")
 SUMMARY_AUDITS = os.path.join(IDX, "judicial_case_summary_audits.json")
+IDENTITY_OVERRIDES = os.path.join(IDX, "case_identity_overrides.json")
 OUT = os.path.join(IDX, "judicial_cases.jsonl")
 
 MATTER_TYPES = (
@@ -121,18 +126,41 @@ def canonical_id(raw):
     return f"{m.group(1)}-{int(m.group(2)):02d}{m.group(3).lower()}" if m else None
 
 
-def roster_canonical_id(official):
+def roster_canonical_id(official, identity_overrides=()):
     explicit = canonical_id(official.get("_canonical_case_id"))
     if explicit:
         return explicit
     raw = official.get("case_number_raw") or official.get("case_number")
     normalized_raw = canonical_id(raw)
     title = str(official.get("title") or "").lower()
+    for rule in identity_overrides:
+        if canonical_id(rule.get("roster_id")) != normalized_raw:
+            continue
+        caption = str(rule.get("title_contains") or "").strip().lower()
+        if caption and caption not in title:
+            continue
+        corrected = canonical_id(rule.get("canonical_id"))
+        if corrected:
+            return corrected
     for (source_id, caption), corrected_id in ROSTER_CAPTION_ALIASES.items():
         if normalized_raw == source_id and caption in title:
             return corrected_id
     alias = ROSTER_CANONICAL_ALIASES.get(str(raw or "").strip())
     return canonical_id(alias or official.get("case_number") or raw)
+
+
+def roster_title(official, identity_overrides=()):
+    title = str(official.get("title") or "")
+    raw = canonical_id(official.get("case_number_raw") or official.get("case_number"))
+    for rule in identity_overrides:
+        if canonical_id(rule.get("roster_id")) != raw:
+            continue
+        discriminator = str(rule.get("title_contains") or "").strip().lower()
+        if discriminator and discriminator not in title.lower():
+            continue
+        if rule.get("corrected_title"):
+            return str(rule["corrected_title"])
+    return title
 
 
 def legacy_id(raw):
@@ -612,6 +640,15 @@ def case_page_headings(body):
     )
 
 
+def page_era_info(body, fallback_era, fallback_label):
+    """Prefer the explicit number in the selected case page over fuzzy matching."""
+    match = re.search(r"(?im)^\s*#\s*(\d{1,2})\s*(?:\([^\n]*\))?\s+[—-]", str(body or "")[:1800])
+    if not match:
+        return fallback_era, fallback_label
+    number = int(match.group(1))
+    return f"case-{number}", f"Case #{number}"
+
+
 def _case_docket_pattern(case_id):
     """Match one docket without matching a neighboring docket in a bundle."""
     cid = canonical_id(case_id)
@@ -817,14 +854,43 @@ def standard_of_review(file, dispositions, matter_type=None, override=None, cont
 
 
 def main():
+    identity_overrides = []
+    supplemental_cases = []
+    if os.path.exists(IDENTITY_OVERRIDES):
+        with open(IDENTITY_OVERRIDES, encoding="utf-8") as source:
+            payload = json.load(source)
+        rules = payload.get("overrides", []) if isinstance(payload, dict) else payload
+        identity_overrides = [rule for rule in rules if rule.get("status") == "approved"]
+        if isinstance(payload, dict):
+            supplemental_cases = [
+                case for case in payload.get("supplemental_cases", [])
+                if case.get("status") == "approved" and canonical_id(case.get("canonical_id"))
+            ]
     roster = load_jsonl(ROSTER)
+    # The Historical Center roster is a useful checklist, not a complete docket.
+    # Add cases that the minutes expressly number but the roster omits.  These
+    # synthetic roster rows retain their minutes evidence in the durable override
+    # file and otherwise follow the same extraction/page matching path.
+    roster.extend({
+        "case_number": legacy_id(case["canonical_id"]),
+        "case_number_raw": case["canonical_id"],
+        "_canonical_case_id": case["canonical_id"],
+        "_identity_source": "minutes_supplement",
+        "_ignore_extracted": bool(case.get("ignore_extracted")),
+        "year": case.get("decision_year") or int(case["canonical_id"][:4]),
+        "title": case.get("title") or case["canonical_id"],
+        "citation_raw": case.get("evidence", [None])[0] if case.get("evidence") else None,
+        "has_pdf": False,
+        "pdf_url": None,
+        "source": "minutes_supplement",
+    } for case in supplemental_cases)
     # The saved Historical Center pages repeat a small number of rows. Collapse
     # those source duplicates before producing the one-row-per-case layer; keep
     # the richer/longer title because it may carry the only editorial summary.
     unique_roster = {}
     unknown_roster = []
     for official in roster:
-        key = roster_canonical_id(official)
+        key = roster_canonical_id(official, identity_overrides)
         if not key:
             unknown_roster.append(official)
             continue
@@ -835,7 +901,7 @@ def main():
     expanded_roster = []
     for official in roster:
         expanded_roster.append(official)
-        primary_id = roster_canonical_id(official)
+        primary_id = roster_canonical_id(official, identity_overrides)
         for companion_id in ROSTER_COMPANION_IDS.get(primary_id, ()):
             expanded_roster.append({
                 **official,
@@ -872,11 +938,17 @@ def main():
 
     rows = []
     for official in roster:
-        cid = roster_canonical_id(official)
+        cid = roster_canonical_id(official, identity_overrides)
         matches = sorted(by_key.get(cid, []), key=record_score, reverse=True) if cid else []
+        if official.get("_ignore_extracted"):
+            matches = []
         record = matches[0] if matches else {}
-        raw_title = official.get("title") or record.get("title") or ""
+        raw_title = roster_title(official, identity_overrides) or record.get("title") or ""
         cjb = cjb_match(raw_title, official.get("year"), cjb_cases)
+        if official.get("_identity_source") == "minutes_supplement":
+            # A supplemental caption is already transcribed from the minutes;
+            # do not let fuzzy early-case matching replace it with a nearby case.
+            cjb = None
         title = clean_title(raw_title, (cjb or {}).get("parties") or record.get("title"))
         summary = record.get("synopsis") or roster_summary(raw_title) or (cjb or {}).get("notes") or None
         override = editorial_overrides.get(cid, {}) if cid else {}
@@ -889,6 +961,7 @@ def main():
         page_body = page_text(page_file)
         page_header = page_body[:2400]
         page_headings = case_page_headings(page_body)
+        era, era_label = page_era_info(page_body, era, era_label)
         inferred_matter_type = classify_matter_type(
             raw_title, title, record.get("title"), page_headings
         )
@@ -943,7 +1016,7 @@ def main():
         classification_status = "classified"
         if not cid and not (cjb or era_file):
             classification_status = "roster_only"
-        elif cid and not matches and not cjb:
+        elif cid and not matches and not cjb and not page_file:
             classification_status = "roster_only"
         elif "other" in final_dispositions or matter_type == "other":
             classification_status = "needs_review"
@@ -965,9 +1038,9 @@ def main():
             "summary_review_status": override.get("summary_review_status") or audit.get("summary_review_status") or ("audited" if override.get("summary") else "pending_audit"),
             "bco_provisions": bco,
             "topic_tags": topics,
-            "body": record.get("body") or ("CJB" if int(official.get("year") or 9999) <= 1987 else "SJC"),
-            "decision_year": record.get("year") or official.get("year"),
-            "assembly": record.get("ga_ordinal"),
+            "body": override.get("body") or record.get("body") or ("CJB" if int(official.get("year") or 9999) <= 1987 else "SJC"),
+            "decision_year": override.get("decision_year") or record.get("year") or official.get("year"),
+            "assembly": override.get("assembly") or record.get("ga_ordinal"),
             "dissent": override.get("dissent") if "dissent" in override else bool(record.get("has_dissent")),
             "case_page": page_file,
             "official_pdf_url": official.get("pdf_url"),

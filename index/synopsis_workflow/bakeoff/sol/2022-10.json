@@ -1,0 +1,35 @@
+{
+  "case_id": "2022-10",
+  "title": "Presbyterian Church in America v. TE Daniel Herron",
+  "matter_type": "judicial_reference",
+  "dispositions": ["not_guilty"],
+  "summary": "On a BCO 41 reference, the SJC tried a minister on seven charges arising from allegations of sexual misconduct, bullying, dishonesty, a civil defamation suit, contumacy, doctrinal error, and lack of fitness. It found him not guilty on every charge because the prosecution failed to meet its burden, removed all censures and administrative suspensions, and restored him to good standing. For the lawsuit charge, it rejected a categorical ban on civil suits between Christians and required proof that this suit was sinful.",
+  "sources": [
+    {
+      "path": "cases/ga50_2023__2022-10.md",
+      "sha256": "65a48ecd11dc794f99002adb6a73a9ab60e29d1f9663aa088c21525b2ad63aa2",
+      "locator": "lines 13-25, 390-450, 596-622; printed pp. 884-885, 903-905, and 914-916",
+      "supported_claims": "Supports the BCO 41 trial posture, seven charges, all not-guilty verdicts, failure of proof, civil-lawsuit analysis, removal of censures and suspensions, and restoration."
+    }
+  ],
+  "source_limits": "The decision is lengthy; the synopsis groups the charges and highlights the distinctive lawsuit ruling without attempting to reproduce the full evidentiary analysis. Allegations are not presented as facts.",
+  "evidence_notes": [
+    "The SJC acted as original finder of fact after accepting a BCO 41 reference, not as an appellate court.",
+    "All seven charges ended in not-guilty verdicts because no charge was credibly sustained and the prosecution did not meet its burden.",
+    "The suit's filing was undisputed, but sinfulness required case-specific proof; the prosecution did not supply it.",
+    "The SJC removed both censures and administrative suspensions and restored Herron to good standing."
+  ],
+  "benchmark_examples": ["J04 Herron", "A05 Dudt"],
+  "scores": {"concrete_dispute": 2, "decision": 2, "decisive_reason": 2, "distinctive_value": 2, "fidelity": 2, "economy": 2},
+  "score_reasons": {
+    "concrete_dispute": "Summarizes the seven-charge trial without turning allegations into findings.",
+    "decision": "States acquittal on every charge and resulting restoration.",
+    "decisive_reason": "Identifies failure to meet the burden of proof.",
+    "distinctive_value": "Preserves the case-specific constitutional analysis of civil lawsuits.",
+    "fidelity": "Correctly presents an original trial and distinguishes undisputed filing from proven sin.",
+    "economy": "Compresses a long opinion while retaining the central evidentiary and constitutional reasons."
+  },
+  "verification_notes": "Separate source-checking pass by the same reviewer re-read the trial posture, each verdict, general burden finding, lawsuit summary, and conclusion; every grouped allegation remains attributed as a charge rather than fact.",
+  "repair_needed": false,
+  "repair_notes": "No source or catalog defect prevents this synopsis."
+}

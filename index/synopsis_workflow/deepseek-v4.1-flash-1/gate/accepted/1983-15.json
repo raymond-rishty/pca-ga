@@ -1,0 +1,55 @@
+{
+  "case_id": "1983-15",
+  "title": "TE W. Ted Smith Jr. v. Central Carolina Presbytery",
+  "matter_type": "complaint",
+  "final_dispositions": [
+    "not_sustained"
+  ],
+  "disposition_detail": "The Committee on Judicial Business did not sustain TE W. Ted Smith Jr.'s complaint against Central Carolina Presbytery. The supplied excerpt states only that disposition and contains no issue-level rulings, adopted reasons, or remedial order.",
+  "first_summary": "A presbytery was complained against for allegedly failing to enforce General Assembly orders restoring dismissed New Life congregation members and for tolerating the pastor’s evasions; the complainant asked for dissolution of the pastoral relation and censure. The Committee on Judicial Business rejected the complaint. No adopted reasons or remedial order appear in the supplied excerpt.",
+  "summary": "A presbytery was challenged for allegedly failing to carry out General Assembly directives restoring dismissed New Life congregation members and for allowing the pastor and session to evade compliance; the complainant asked the Committee on Judicial Business to dissolve the pastoral relation and impose censure. The CJB did not sustain the complaint. The supplied record states that disposition but contains no adopted reasoning, findings, or remedial order, so the basis for the ruling cannot be stated.",
+  "sources": [
+    {
+      "path": "cases/ga11_1983__case8.md",
+      "sha256": "20c7e3679989cc21c3236c262245dd56cca53c41d86c5ae9f6b8ce07d04cd1a3",
+      "locator": "lines 1-5, 11-13; source note pp. 157–158 (printed pp. 155-156)",
+      "supports": "Identity of Case 15, parties, deciding body, General Assembly year, and the stated disposition not sustained."
+    },
+    {
+      "path": "cases/ga11_1983__case8.md",
+      "sha256": "20c7e3679989cc21c3236c262245dd56cca53c41d86c5ae9f6b8ce07d04cd1a3",
+      "locator": "lines 15-41; printed pp. 155-156",
+      "supports": "Complaint allegations about presbytery inaction, restoration of New Life members, Pastor Eubanks/session conduct, and requested dissolution and censure under BCO 13:9."
+    }
+  ],
+  "evidence_notes": {
+    "identity_and_adoption": "Lines 1-5 and 11-13 identify Case 15, TE W. Ted Smith Jr. v. Central Carolina Presbytery, before the Committee on Judicial Business of the 11th General Assembly (1983), with disposition stated as not sustained. No adoption clause or fuller opinion appears in the excerpt.",
+    "dispute": "Lines 15-41 contain the complaint: Central Carolina Presbytery allegedly failed to restore dismissed New Life congregation members as directed, allowed Pastor Eubanks and the session to evade compliance, and should dissolve the pastoral relation and censure Eubanks under BCO 13:9.",
+    "outcomes_and_reasons": "Line 3 states the only outcome: not sustained. Lines 15-41 are the complainant's allegations, not adopted findings; no adopted reasons, issue-level results, or order appear in the supplied excerpt.",
+    "qualifications": "The complaint text is party advocacy; it includes characterizations and requested relief. It cannot be treated as the CJB's findings. The source is short on the deciding body's reasoning.",
+    "incorporated_decisions": "No incorporated decision or referenced adopted result is supplied in the excerpt. The General Assembly directives and prior actions mentioned in the complaint are not themselves reproduced."
+  },
+  "source_limits": "The supplied markdown includes the case header and complaint letter only; it lacks the CJB opinion or order. The 'not sustained' header is therefore the only dispositional fact available, and reasons or relief beyond it cannot be stated.",
+  "benchmark_examples": [
+    "C20. 2016-13 Daniels et al. v. Nashville Presbytery (short-record example: an unexplained disposition should remain unexplained in synopsis)."
+  ],
+  "scores": {
+    "concrete_dispute": 2,
+    "decision": 1,
+    "decisive_reason": 2,
+    "distinctive_value": 1,
+    "fidelity": 2,
+    "economy": 2
+  },
+  "score_reasons": {
+    "concrete_dispute": "Identifies the challenged conduct: alleged presbytery failure to enforce restoration directions and its handling of Pastor Eubanks and the session.",
+    "decision": "States the only given outcome—complaint not sustained—but the excerpt supplies no issue-level rulings or remedial order.",
+    "decisive_reason": "No adopted reason is present; the synopsis expressly limits itself to that absence rather than inferring a basis.",
+    "distinctive_value": "Preserves the short-record limitation: a stated not-sustained disposition without an opinion.",
+    "fidelity": "Keeps complainant allegations separate from the CJB disposition and avoids treating requested censure or dissolution as granted.",
+    "economy": "All details go to the challenged conduct, single disposition, or source limitation."
+  },
+  "verification_notes": "Rechecked lines 1-45: line 3 supplies not sustained; lines 15-41 are complaint allegations only. Confirmed no CJB reasoning, findings, relief, or incorporated decision appears. Corrected the initial draft's 'rejected' wording to the exact 'not sustained' disposition and avoided implying any rationale or issue-level judgment.",
+  "repair_needed": false,
+  "repair_notes": "None."
+}

@@ -1,0 +1,51 @@
+{
+  "case_id": "2009-28",
+  "title": "Ruff v. Nashville Presbytery",
+  "matter_type": "complaint",
+  "final_dispositions": [
+    "sustained",
+    "remanded"
+  ],
+  "disposition_detail": "Judgment on two issues: (1) inadequate BCO 31-2 investigation—Yes; (2) failure to find a strong presumption of guilt on the evidence—Yes. The complaint was sustained and remanded to Nashville Presbytery for further proceedings consistent with the opinion (BCO 43-10). The separate complaint assertion that the August 4 letter was an inadequate private response was not separately answered. The concurrence concurred only in the remand result, not the majority rationale.",
+  "first_summary": "The SJC sustained Matt Ruff's complaint that Nashville Presbytery failed adequately to investigate alleged offenses by TE George Grant and failed to find a strong presumption of guilt. It held the investigation record incomplete and contradictory and remanded for further proceedings. A concurrence agreed only in the remand.",
+  "summary": "Nashville Presbytery's BCO 31-2 investigation of reports against TE George Grant was inadequately documented and internally inconsistent, and the evidence before Presbytery raised a strong presumption of guilt, the SJC held. It sustained the complaint, ruling that pastoral reconciliation does not displace the duty to institute judicial process, and remanded for further proceedings; it did not adjudicate Grant guilty. A concurrence agreed only in remanding to supplement the record under BCO 42-5 & 7.",
+  "sources": [
+    {
+      "path": "cases/ga39_2011__2009-28.md",
+      "sha256": "8fc768055536cda0dde2eaab1334d6e50c8f2b6eb404845bf8df4f53bd6ea86b",
+      "locator": "lines 13–56, 58–144, 148–156, 158–174; printed pp. 567–574",
+      "supports": "Identity, procedural history, issues, judgment, adopted reasoning, disposition, concurrence, and adoption vote."
+    }
+  ],
+  "evidence_notes": {
+    "identity_and_adoption": "Case 2009-28, Ruff v. Nashville Presbytery; SJC, 39th GA (2011); proposed panel decision by TE Howie Burkhalter amended and adopted by panel and full SJC; 20 concurred, 1 disqualified, 3 absent (lines 1–3, 148–156; pp. 567, 573).",
+    "dispute": "Matt Ruff complained that Nashville Presbytery failed adequately to investigate July 2008 reports about TE George Grant and wrongly found no chargeable offenses; his Sept. 9, 2009 complaint was denied Nov. 10, 2009, then taken to GA (lines 13–38; pp. 567–569).",
+    "outcomes_and_reasons": "Both issues answered Yes; complaint sustained and remanded. The adopted opinion held the BCO 31-2 investigation was inadequately documented and internally inconsistent and that evidence raised a strong presumption of guilt requiring process; pastoral reconciliation did not excuse judicial duty (lines 42–56, 58–144; pp. 569–573).",
+    "qualifications": "Concurring opinion agreed only in remand to supplement the record under BCO 42-5 & 7, not the majority rationale; it noted BCO 34 discretion over seriousness and lacked specific allegations (lines 158–174; pp. 573–574). The prior May 11, 2009 complaint is not the matter before the SJC (line 21; p. 567).",
+    "incorporated_decisions": "No separate incorporated decision; the adopted SJC decision and concurrence are in this source."
+  },
+  "source_limits": "Supplied source contains the adopted majority opinion, concurrence, and roll call, but not the full record, lower-court filings, the January 2010 timeline, or later proceedings; underlying facts were not independently verified.",
+  "benchmark_examples": [
+    "C01 Allin et al. v. Tennessee Valley Presbytery: mixed complaint result with procedural error and unsuccessful claim, remanded for proper hearing.",
+    "C02 Turner et al. v. South Florida Presbytery: separates permissible investigation from invalid censure; useful for distinguishing investigation from judicial process."
+  ],
+  "scores": {
+    "concrete_dispute": 2,
+    "decision": 2,
+    "decisive_reason": 2,
+    "distinctive_value": 2,
+    "fidelity": 2,
+    "economy": 2
+  },
+  "score_reasons": {
+    "concrete_dispute": "Identifies the challenged Presbytery actions: inadequate BCO 31-2 investigation and failure to find a strong presumption of guilt on reports about Grant.",
+    "decision": "States both issues answered Yes, complaint sustained, remand, and concurrence limited to remand.",
+    "decisive_reason": "Explains adopted reasons: incomplete and internally inconsistent investigation record and evidence raising strong presumption; pastoral duty does not displace judicial process.",
+    "distinctive_value": "Preserves the rule that BCO 31-2 investigations must be documented and that strong presumption requires process; notes no guilt adjudication and concurrence rationale.",
+    "fidelity": "Keeps adopted majority, separate concurrence, lower-court history, and relief distinct; no lower-court verdict or party argument is treated as the SJC holding.",
+    "economy": "Concise 74-word synopsis; every retained detail supports the issue, holding, or qualification."
+  },
+  "verification_notes": "Initial draft omitted the documentation holding and the concurrence's BCO 42-5 & 7 rationale; final summary adds both. Reread lines 42–56 and 110–144: both issues answered Yes, complaint sustained, and matter expressly remanded. Checked lines 148–156 for adoption/vote and line 156 for disqualification. Confirmed line 21 that the earlier May 11, 2009 complaint was denied and is not the pending matter. Confirmed no incorporated decision; concurrence is separate.",
+  "repair_needed": false,
+  "repair_notes": "No material source or catalog defect found. The source header's shorthand 'Disposition: sustained' omits the remand relief, but the source text clearly supplies it and no repair is required."
+}

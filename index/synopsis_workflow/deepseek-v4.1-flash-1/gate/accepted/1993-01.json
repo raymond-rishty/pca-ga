@@ -1,0 +1,50 @@
+{
+  "case_id": "1993-01",
+  "title": "Smith v. Northeast Presbytery",
+  "matter_type": "complaint",
+  "final_dispositions": [
+    "denied"
+  ],
+  "disposition_detail": "The SJC rejected Presbytery's two grounds for holding the complaint judicially out of order (insufficient supporting reasons under BCO 43-3 and preclusion by Smith's BCO 45-5 protest) and held the complaint in order. On the merits it denied the complaint: Issue 1 answered no, the Constitution does not require or permit a presbytery to retain jurisdiction over individual members of a particular church it dissolved at the congregation's unanimous request; Issue 2 answered that the Constitution neither requires nor prohibits presbytery pastoral care for members of a dissolved congregation; Issue 3 answered no, Presbytery did not fail to take proper pastoral care before or after dissolution.",
+  "first_summary": "The SJC denied Frank J. Smith's complaint against Northeast Presbytery over pastoral care of former members of Grace Presbyterian Church. It ruled that the PCA Constitution does not require presbyteries to take pastoral care of a dissolved congregation's members and that Presbytery did not fail to provide proper pastoral care.",
+  "summary": "Smith complained that Northeast Presbytery failed to provide pastoral care after dissolving Grace Presbyterian Church. The SJC rejected Presbytery's objections that the complaint lacked supporting reasons or was barred by Smith's protest, held it in order, but denied it on the merits. Distinguishing the pastoral 'power of order' from judicial 'power of jurisdiction,' the SJC ruled that the Constitution neither requires nor permits a presbytery to retain jurisdiction over individual members of a dissolved particular church, and that pastoral care of former members is generally discretionary; on these facts, Presbytery's efforts satisfied any duty.",
+  "sources": [
+    {
+      "path": "cases/ga22_1994__1993-01.md",
+      "sha256": "815e2df2dd8192bd8f1de17eacad76d9c4008effac651fb624a398991d00a0d3",
+      "locator": "lines 1–286; especially lines 79–97, 133–230, 234–268, 270–282; printed pp. 96–106",
+      "supports": "Canonical case identity, procedural posture, issues, SJC judgment, adopted reasoning, vote, and limited dissent notation."
+    }
+  ],
+  "evidence_notes": {
+    "identity_and_adoption": "Case ID and title at line 1; SJC/Judicial Case No. 93-1 at lines 3, 9–11; panel signatures and decision date at lines 270–276; SJC approval vote of 20 concurring, 2 dissenting at lines 280–281 (printed p. 106).",
+    "dispute": "Smith's complaint concerned Northeast Presbytery's alleged failure to take pastoral care of former members of Grace Presbyterian Church, Braintree, after its April 6, 1991 dissolution; procedural history and the January 25, 1993 complaint are at lines 52–71, and the three issues are stated at lines 73–79.",
+    "outcomes_and_reasons": "SJC held the complaint in order, rejecting the BCO 43-3 and BCO 45-5 objections at lines 93–95. The merits denial and issue answers appear at lines 79–86. Issue 1 reasoning on power of order versus power of jurisdiction is at lines 133–199; Issue 2 on pastoral care neither required nor prohibited is at lines 203–230; Issue 3 findings that Presbytery provided extensive care are at lines 234–268.",
+    "qualifications": "The source notes a dissent but supplies no dissent text (line 3; lines 280–281). The decision says its facts overlap with Cases 91-6 and 92-1 (lines 15–17) and clarifies Case 92-1's special-circumstances reasoning (lines 116, 205–230). The opinion was written by W. Jack Williamson with concurrence by Dewey Roberts and John Montgomery (line 276).",
+    "incorporated_decisions": "Case 92-1 is incorporated: it held Smith's earlier complaint timely and in order, sent it back to Presbytery for adjudication, and was adopted by the 20th General Assembly (lines 63, 97–116, 205–230). Case 91-1, Sandra Lovelace v. Northeast Presbytery, is cited for a BCO 43-3 out-of-order ruling (line 93). The 16th General Assembly's answer that visible-church membership dissolves upon dissolution absent prior transfer is quoted at lines 120–124."
+  },
+  "source_limits": "The supplied source contains the SJC decision but no separate dissent text, so the dissent's reasoning cannot be described. Earlier incorporated cases and General Assembly answers are summarized by reference rather than supplied in full; their results are used only as provided in this record.",
+  "benchmark_examples": [
+    "C01 (1978-02 Allin v. Tennessee Valley Presbytery): mixed disposition preserving procedural success and an unsuccessful merits claim; here the SJC likewise held the complaint in order but denied the substantive complaint.",
+    "C20 (2016-13 Daniels v. Nashville Presbytery): short-record unexplained disposition; by contrast this record supplies full SJC reasoning, while still noting a dissent whose text is absent."
+  ],
+  "scores": {
+    "concrete_dispute": 2,
+    "decision": 2,
+    "decisive_reason": 2,
+    "distinctive_value": 2,
+    "fidelity": 2,
+    "economy": 2
+  },
+  "score_reasons": {
+    "concrete_dispute": "Identifies the challenged presbytery action—denying Smith's complaint over pastoral care after Grace Church's dissolution—and the procedural objections to that complaint.",
+    "decision": "States the SJC's in-order ruling, merits denial, and all three issue answers, including mixed procedural success and merits failure.",
+    "decisive_reason": "Explains the adopted power-of-order/power-of-jurisdiction distinction and factual findings that Presbytery provided adequate pastoral care.",
+    "distinctive_value": "Preserves the rule that dissolution ends presbytery jurisdiction over individual members absent an express provision and that pastoral care is generally discretionary.",
+    "fidelity": "Separates the SJC's adopted judgment from Presbytery's prior denial, the incorporated Case 92-1 reasoning, and the noted but unrecorded dissent.",
+    "economy": "All retained details explain the dispute, procedural disposition, merits rule, or limits of the source."
+  },
+  "verification_notes": "Rechecked the canonical case ID/title at line 1; procedural history and challenged action at lines 52–71; SJC in-order ruling and denial at lines 79–97; issue answers and reasoning at lines 133–230; factual pastoral-care findings at lines 234–268; and adoption/vote at lines 270–281. Ensured the separate dissent is noted but not described, because no dissent text is supplied.",
+  "repair_needed": false,
+  "repair_notes": "No repair needed."
+}

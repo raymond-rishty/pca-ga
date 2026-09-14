@@ -1,0 +1,49 @@
+{
+  "case_id": "2010-08",
+  "title": "Mr. Michael A. McNeil vs. Chesapeake Presbytery",
+  "matter_type": "complaint",
+  "final_dispositions": [
+    "judicially_out_of_order"
+  ],
+  "disposition_detail": "Found judicially out of order; no merits ruling, issue-level results, or reasons stated in the available report.",
+  "first_summary": "Mr. Michael A. McNeil's case against Chesapeake Presbytery was found judicially out of order by the Standing Judicial Commission. No separate merits opinion was published, and the report gives no issue-level results or reasons.",
+  "summary": "The SJC report lists Case 2010-08, Mr. Michael A. McNeil v. Chesapeake Presbytery, among cases found judicially out of order. No separate merits opinion was published, and the available report does not identify the challenged action, procedural vehicle, or reasons. The only usable result is the judicial out-of-order classification; no merits determination or relief is stated.",
+  "sources": [
+    {
+      "path": "cases/ga39_2011__stub_2010-08.md",
+      "sha256": "85fb5d2d8c29b95805c14268d8924da068dd07aae324532d7775de2cd7f39f60",
+      "locator": "lines 1, 3, 5, 9",
+      "supports": "Confirms case number/title, SJC and 39th Assembly context, judicially-out-of-order disposition, absence of separate merits opinion, and report listing of 2010-08."
+    }
+  ],
+  "evidence_notes": {
+    "identity_and_adoption": "Line 1 supplies case number/title; line 3 states SJC, 39th Assembly (2011), and disposition Judicially Out of Order; line 5 states no separate merits opinion was published; line 9 lists 2010-08 among cases found judicially out of order.",
+    "dispute": "The source identifies only McNeil v. Chesapeake Presbytery; it does not state the challenged presbytery action, procedural vehicle, or grounds.",
+    "outcomes_and_reasons": "Line 3 and line 9 state the only outcome: judicially out of order. No adopted reasons, issue-level results, or merits ruling appear.",
+    "qualifications": "This is a stub/report excerpt, not a merits opinion; line 5 expressly notes no separate merits opinion was published, and the judicially-out-of-order classification appears unexplained in a list alongside other cases.",
+    "incorporated_decisions": "None. No incorporated merits decision or lower-court result is supplied; line 5 states no separate merits opinion was published."
+  },
+  "source_limits": "Only the supplied stub is available. It does not identify the challenged action, vehicle, facts, issues, or reasons. The procedural vehicle 'complaint' is inferred from the case style and SJC docket context, not stated in the source.",
+  "benchmark_examples": [
+    "C20. 2016-13: short-record/unexplained disposition; an editorial synopsis must not supply a rationale the adopted ruling omits."
+  ],
+  "scores": {
+    "concrete_dispute": 1,
+    "decision": 2,
+    "decisive_reason": 2,
+    "distinctive_value": 2,
+    "fidelity": 2,
+    "economy": 2
+  },
+  "score_reasons": {
+    "concrete_dispute": "The case style and posture appear, but the source does not identify the challenged presbytery action or underlying facts.",
+    "decision": "States the sole material outcome—judicially out of order—and notes no merits or issue-level successes/failures are supplied.",
+    "decisive_reason": "The source gives no reasons, and the synopsis says so rather than inventing one.",
+    "distinctive_value": "Preserves the only useful distinction: a judicial out-of-order classification with no published merits opinion.",
+    "fidelity": "Keeps the report listing, absence of a merits opinion, and the vehicle inference distinct; no relief or rationale is invented.",
+    "economy": "Short; each retained detail describes the sparse record or its limits."
+  },
+  "verification_notes": "Rechecked line 1 (case ID/title), line 3 (SJC, 39th Assembly, disposition), line 5 (no separate merits opinion), and line 9 (report listing 2010-08 as judicially out of order). Corrected first_summary by adding the express caveat that the source does not identify the challenged action, vehicle, or reasons; confirmed the disposition is judicial out of order, not administrative dismissal, and that no merits or issue-level outcomes are available. Inferred 'complaint' only from the case style and SJC docket context, and flagged that in source_limits.",
+  "repair_needed": false,
+  "repair_notes": "No source or catalog defect identified; the source is a sparse stub, which limits detail but is not a defect."
+}

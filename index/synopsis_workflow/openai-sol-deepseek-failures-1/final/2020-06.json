@@ -1,0 +1,64 @@
+{
+  "case_id": "2020-06",
+  "title": "Gordon v. Southern New England Presbytery",
+  "matter_type": "appeal",
+  "final_dispositions": [
+    "not_sustained",
+    "affirmed",
+    "denied"
+  ],
+  "disposition_detail": "The SJC did not sustain any of Gordon’s four specifications of error, affirmed Southern New England Presbytery’s decision, and denied the appeal. The conviction and excommunication therefore remained in effect; no remand or other relief was granted.",
+  "first_summary": "A church member appealed Presbytery’s affirmance of his conviction and excommunication for failing to heed Session admonition and membership vows. The SJC denied the appeal because his specifications of error were vague and unsupported, he admitted the charges were true, and an appellate court could not evaluate evidence he had not presented at trial.",
+  "summary": "A church member appealed Presbytery’s affirmance of his conviction and excommunication for failing to heed Session admonition and membership vows, including prolonged absence from that church. The SJC affirmed and denied the appeal, holding that all four specifications—lack of reasonable indulgence, haste, prejudice, and injustice—were nonspecific and unsupported. It emphasized his admissions that the charges were true, the adequate timeline, and the bar on considering evidence not offered at trial. A dissent disputed his PCA membership, standing, and the Session’s jurisdiction.",
+  "sources": [
+    {
+      "path": "cases/ga49_2022__2020-06.md",
+      "sha256": "281bfd12809b77c2add558ae6ef8c3dd60d183e6f15d153cb8853e5b647a20f2",
+      "locator": "lines 13–24; printed pp. 702–703",
+      "supports": "Case identity, appeal posture, charges, conviction, and Presbytery’s affirmance."
+    },
+    {
+      "path": "cases/ga49_2022__2020-06.md",
+      "sha256": "281bfd12809b77c2add558ae6ef8c3dd60d183e6f15d153cb8853e5b647a20f2",
+      "locator": "lines 66–126; printed pp. 705–706",
+      "supports": "Judgment, rejection of all four specifications, adopted reasoning, affirmance, and denial."
+    },
+    {
+      "path": "cases/ga49_2022__2020-06.md",
+      "sha256": "281bfd12809b77c2add558ae6ef8c3dd60d183e6f15d153cb8853e5b647a20f2",
+      "locator": "lines 128–146, 337–341; printed pp. 706–707, 719",
+      "supports": "SJC adoption vote and dissent’s standing and jurisdiction objections."
+    }
+  ],
+  "evidence_notes": {
+    "identity_and_adoption": "Caption identifies Case 2020-06 and an SJC decision on appeal; the amended decision was approved 18-4-0 (lines 13, 128–132; printed pp. 702, 706–707).",
+    "dispute": "Gordon challenged Presbytery’s denial of his appeal from Session’s conviction and excommunication (lines 17–24, 48–68; printed pp. 702–705).",
+    "outcomes_and_reasons": "All four specifications were unsupported; the majority cited adequate indulgence and timing, no identified prejudice, admissions of truth, and the inability to consider unoffered evidence. It affirmed Presbytery and denied the appeal (lines 76–126; printed pp. 705–706).",
+    "qualifications": "The dissent would have ruled the appeal administratively out of order and the PCA proceedings void for lack of standing and jurisdiction; that view was not adopted (lines 134–146, 337–341; printed pp. 707, 719).",
+    "incorporated_decisions": "No decision was incorporated by reference. The majority cited Goggan only as precedent concerning specificity, while the dissent quoted Case 2019-06; neither supplied the operative result here (lines 76, 304–320; printed pp. 705, 717–718)."
+  },
+  "source_limits": "The supplied source contains the adopted decision and dissent but not the underlying record; factual assertions about the trial are therefore reported only as the decision describes them.",
+  "benchmark_examples": [
+    "A01",
+    "A19"
+  ],
+  "scores": {
+    "concrete_dispute": 2,
+    "decision": 2,
+    "decisive_reason": 2,
+    "distinctive_value": 2,
+    "fidelity": 2,
+    "economy": 2
+  },
+  "score_reasons": {
+    "concrete_dispute": "Identifies the challenged affirmance, underlying charges, and excommunication.",
+    "decision": "States that every specification failed and that Presbytery was affirmed and the appeal denied.",
+    "decisive_reason": "Summarizes the majority’s specificity, record-support, admission, timing, and appellate-evidence grounds.",
+    "distinctive_value": "Preserves the limitation on new appellate evidence and the unadopted jurisdictional dissent.",
+    "fidelity": "Separates the majority holding, underlying adjudication, and dissent.",
+    "economy": "Retains only facts necessary to understand the dispute, outcome, reasons, and qualification."
+  },
+  "verification_notes": "Rechecked the operative judgment and conclusion at lines 70–76 and 124–126. The final summary was corrected to identify all four rejected specifications, clarify that the SJC both affirmed and denied, and label the membership, standing, and jurisdiction analysis as dissenting rather than adopted.",
+  "repair_needed": false,
+  "repair_notes": ""
+}

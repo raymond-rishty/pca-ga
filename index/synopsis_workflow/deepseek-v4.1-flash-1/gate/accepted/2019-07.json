@@ -1,0 +1,50 @@
+{
+  "case_id": "2019-07",
+  "title": "Fozard v. North Texas Presbytery",
+  "matter_type": "complaint",
+  "final_dispositions": [
+    "denied"
+  ],
+  "disposition_detail": "Complaint denied on the merits; the SJC answered the issue “No” and granted no relief. The panel’s proposed opinion was adopted after amendments by a vote of 20-1, with three absent; the lower-court actions remained in effect.",
+  "first_summary": "The SJC denied a complaint asking whether North Texas Presbytery erred in denying a challenge to Fort Worth Presbyterian Church’s “Special Case Felons” policy. The Commission held that the complainant failed to demonstrate that the Session violated Scripture or the Constitution in adopting or applying the policy, so BCO 39-3.3 required deference to the lower court.",
+  "summary": "At issue was whether North Texas Presbytery wrongly denied a complaint challenging Fort Worth Presbyterian Church’s “Special Case Felons” integration policy as contrary to Scripture. The SJC denied the complaint, holding that the complainant did not show the Session violated Scripture or the Constitution and that BCO 39-3.3 required deference absent clear error, leaving the lower-court actions in effect. The decision, adopted 20-1, expressly did not endorse the Respondents’ Preliminary Principles arguments; a concurrence disclaimed approval of the policy, and one member dissented.",
+  "sources": [
+    {
+      "path": "cases/ga48_2021__2019-07.md",
+      "sha256": "85ad4a85f804cf12ab7078b19075338845f6c942f998479d2aa65c8e0c9cdf9d",
+      "locator": "lines 1–66 (majority/adoption), 68–129 (Coffin concurrence), 130–158 (Neikirk dissent); printed pp. 719–729",
+      "supports": "Identity, dispute, disposition, adopted reasoning, vote, and separate opinions."
+    }
+  ],
+  "evidence_notes": {
+    "identity_and_adoption": "Case 2019-07, Fozard v. North Texas Presbytery, SJC Decision on Complaint dated February 6, 2020, 48th General Assembly (2021); adopted by the SJC after amendments, 20-1 with three absent (lines 1–13, 64–66; printed pp. 719, 722).",
+    "dispute": "Fozard, an FWPC member, challenged FWPC’s “General Policy—Integration of Special Case Felons” and NTP’s denial of his complaint; the framed issue was whether NTP erred in denying the complaint against the FWPC Session (lines 17–27, 35–37; printed pp. 719–721).",
+    "outcomes_and_reasons": "The SJC answered “No” and denied the complaint; its adopted reason was that the complainant did not show the FWPC Session violated Scripture or the Constitution in formulating and applying the SCF policy, and that BCO 39-3.3 required deference absent clear error; the decision also disclaimed endorsement of some Respondents’ Preliminary Principles arguments (lines 29–62; printed pp. 721–722).",
+    "qualifications": "The Coffin concurrence, joined by Bankson and Dowling, concurred narrowly and did not approve the policy; Neikirk’s dissent would have upheld the complaint and found error; neither separate opinion is adopted majority reasoning (lines 66–79, 130–158; printed pp. 722–729).",
+    "incorporated_decisions": "No incorporated decision is relied on; the lower-court actions by FWPC (03/05/19 denial) and NTP (08/03/19 denial) are recited in the factual summary (line 21; printed pp. 719–720)."
+  },
+  "source_limits": "The Record of the Case, complaint, briefs, and full lower-court opinions are not reproduced; the source notes that the exact NTP filing date is unknown because the ROC lacks a copy of the Complaint (line 21).",
+  "benchmark_examples": [
+    "C01 — preserve distinct issue outcomes and procedural context; here the adopted denial is kept separate from the dissent’s contrary view.",
+    "C20 — do not supply a rationale absent from an adopted ruling; here the majority does give a rationale, so the dissent is labeled as dissent rather than majority reasoning."
+  ],
+  "scores": {
+    "concrete_dispute": 2,
+    "decision": 2,
+    "decisive_reason": 2,
+    "distinctive_value": 2,
+    "fidelity": 2,
+    "economy": 2
+  },
+  "score_reasons": {
+    "concrete_dispute": "Identifies the challenged NTP denial and the SCF policy at issue.",
+    "decision": "States the sole adopted disposition, denial, and does not treat the dissent as an outcome.",
+    "decisive_reason": "Explains the adopted no-violation and BCO 39-3.3 deference rationale, plus the express non-endorsement disclaimer.",
+    "distinctive_value": "Captures the narrowness of the denial, the refusal to endorse the Preliminary Principles arguments, and the separate dissent.",
+    "fidelity": "Distinguishes the adopted majority from concurrence, dissent, and lower-court actions without inventing findings.",
+    "economy": "Keeps to issue, disposition, reason, and material qualifications in about 80 words."
+  },
+  "verification_notes": "Initial draft omitted the 20-1 vote, the express disclaimer of the Respondents’ Preliminary Principles arguments, and the separate concurrence and dissent. After rereading lines 57, 64–66, and 68–158, I added those qualifications and confirmed that the adopted disposition is denial, not partial relief; Neikirk’s contrary view is dissent only. I also confirmed that no incorporated decision is relied on and that the lower-court actions appear only in the factual recital.",
+  "repair_needed": false,
+  "repair_notes": ""
+}

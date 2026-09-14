@@ -1,0 +1,50 @@
+{
+  "case_id": "2002-06",
+  "title": "Appeal of Randall Wright v. Northern California Presbytery",
+  "matter_type": "appeal",
+  "final_dispositions": [
+    "out_of_order",
+    "withdrawn"
+  ],
+  "disposition_detail": "The SJC docket report states that Case 2002-06 was found out of order and withdrawn; no merits opinion followed.",
+  "first_summary": "The SJC docket says Randall Wright’s appeal against Northern California Presbytery was out of order and withdrawn, with no merits opinion. The source does not identify the lower-court action, issues, or relief.",
+  "summary": "The SJC docket reports that Randall Wright’s appeal against Northern California Presbytery “was found out of order and withdrawn.” No merits opinion followed. The sparse record does not disclose the challenged lower-court action, the grounds, or any relief; it establishes only procedural termination of the appeal.",
+  "sources": [
+    {
+      "path": "cases/ga31_2003__2002-06.md",
+      "sha256": "c8e1958605363fe337616a2e612f907d78b0276a948817655fa6df30c5ad9bf2",
+      "locator": "lines 1-3, 9 (GA31 p. 93)",
+      "supports": "Identifies the appeal, parties, deciding SJC/31st Assembly, and the dispositions out of order and withdrawn with no merits opinion."
+    }
+  ],
+  "evidence_notes": {
+    "identity_and_adoption": "Cases/ga31_2003__2002-06.md (sha256 c8e195...), lines 1-3, 9: SJC docket for the 31st Assembly (2003) identifies Case 2002-06 as Randall Wright’s appeal against Northern California Presbytery and lists the disposition as out of order and withdrawn.",
+    "dispute": "Line 9: The source states only that Wright appealed against Northern California Presbytery; it does not describe the challenged lower-court judgment, allegations, or grounds.",
+    "outcomes_and_reasons": "Line 9: The report says the case “was found out of order and withdrawn.” No merits opinion followed, and no reason for the out-of-order ruling or withdrawal terms is supplied.",
+    "qualifications": "Lines 7-9: This is a sparse docket excerpt, not a merits opinion; it reports no issue-level outcomes, relief, or remaining proceedings.",
+    "incorporated_decisions": "None identified; no incorporated decision or separate opinion appears in the supplied source."
+  },
+  "source_limits": "The supplied source is a short docket excerpt only. It lacks the lower-court record, issue list, reasons for the out-of-order finding, withdrawal terms, and any merits ruling or relief.",
+  "benchmark_examples": [
+    "A20 — disposition labels alone can be inadequate; this docket entry likewise records only procedural termination without merits detail."
+  ],
+  "scores": {
+    "concrete_dispute": 1,
+    "decision": 2,
+    "decisive_reason": 2,
+    "distinctive_value": 1,
+    "fidelity": 2,
+    "economy": 2
+  },
+  "score_reasons": {
+    "concrete_dispute": "Identifies Wright’s appeal against Northern California Presbytery, but the source never states the challenged lower-court action or underlying conduct.",
+    "decision": "Reports both material dispositions—found out of order and withdrawn—and notes that no merits decision followed.",
+    "decisive_reason": "No reason is given in the source; the synopsis says so rather than inventing one.",
+    "distinctive_value": "The useful limitation is that the docket entry is procedural only and produced no merits ruling or relief, though it yields little doctrinal guidance.",
+    "fidelity": "Keeps the docket report separate from any alleged dispute and does not turn procedural termination into a merits disposition.",
+    "economy": "The record is sparse; each retained detail explains the termination or identifies a source limit."
+  },
+  "verification_notes": "First summary used the broad phrase “was out of order”; after rereading source line 9, corrected it to the exact docket language “was found out of order and withdrawn” and avoided saying the appeal was dismissed. Rechecked line 3 and line 9: no lower-court action, grounds, relief, merits analysis, or incorporated decision is stated.",
+  "repair_needed": false,
+  "repair_notes": "No repair needed."
+}

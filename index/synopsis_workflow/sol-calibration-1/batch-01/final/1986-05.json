@@ -1,0 +1,57 @@
+{
+  "case_id": "1986-05",
+  "title": "Ruling Elder D. Keith Abee et al. v. James River Presbytery",
+  "matter_type": "appeal",
+  "final_dispositions": [
+    "sustained",
+    "reversed",
+    "remanded"
+  ],
+  "disposition_detail": "All six appeal specifications were sustained for procedural deficiencies, the censures were reversed and ordered publicly removed, and the matter was remanded for the Session to address any properly specified charges with Presbytery assistance if requested.",
+  "first_summary": "Five elders appealed censures imposed after a Presbytery commission treated a Session's request for assistance as authority to initiate judicial process. The Assembly sustained all six specifications, holding that the commission lacked authority to proceed before charges were approved and that original jurisdiction remained with the Session. It reversed the censures, ordered their public removal, and remanded for the Session to address any properly specified charges. The ruling expressly did not determine the appellants' guilt or innocence.",
+  "summary": "Five appellants challenged censures imposed after a Presbytery commission treated a Session's request for assistance as authority to initiate judicial process. The Assembly sustained all six specifications, holding that the commission lacked authority to proceed before charges were approved and that original jurisdiction remained with the Session. It reversed the censures, ordered their public removal, and remanded for the Session to address any properly specified charges. The ruling expressly did not determine the appellants' guilt or innocence.",
+  "sources": [
+    {
+      "path": "cases/ga14_1986__case5.md",
+      "sha256": "4bd5f65818733677df40f75ad80b2d779aeccdf334600c77609d03f11a0974f4",
+      "locator": "lines 65-161 (printed pp. 179-184)",
+      "supports": "Appeal identity, facts, procedural defects, six sustained specifications, non-exoneration qualification, reversal and public removal of censures, remand, and adoption."
+    }
+  ],
+  "evidence_notes": {
+    "identity_and_adoption": "Lines 65-67 identify Case #5 as the appeal of Ruling Elder D. Keith Abee and others against James River Presbytery; line 161 records adoption of the commission's adjudication.",
+    "dispute": "Lines 69-83 state that a Session requested assistance, Presbytery appointed a commission, that commission constituted itself judicially, tried the appellants, and publicly censured them; the appeal challenged that process.",
+    "outcomes_and_reasons": "Lines 87-147 hold that the commission lacked specified judicial authority, original jurisdiction remained with the Session absent charges and inability to try, all six specifications were sustained, censures were reversed and ordered publicly removed, and the matter was remanded for constitutionally proper proceedings.",
+    "qualifications": "Lines 125-127 and 145-147 say the ruling did not exonerate the appellants or decide guilt or innocence; properly specified charges could still proceed through the Session.",
+    "incorporated_decisions": "Not applicable; a constitutional-inquiry answer is quoted as supporting authority, not used to incorporate another case's disposition."
+  },
+  "source_limits": "Complete adopted adjudication with facts, issues, judgment, and opinion.",
+  "benchmark_examples": [
+    "A03",
+    "A05"
+  ],
+  "scores": {
+    "concrete_dispute": 2,
+    "decision": 2,
+    "decisive_reason": 2,
+    "distinctive_value": 2,
+    "fidelity": 2,
+    "economy": 2
+  },
+  "score_reasons": {
+    "concrete_dispute": "Explains how the Presbytery commission assumed judicial power and imposed censures.",
+    "decision": "Preserves all sustained specifications, reversal, public removal, and remand.",
+    "decisive_reason": "States the authority and original-jurisdiction defects.",
+    "distinctive_value": "Retains the difference between procedural vindication and exoneration.",
+    "fidelity": "Does not convert reversal for flawed process into acquittal.",
+    "economy": "Compresses the lengthy record to the operative defects, remedies, and limitation."
+  },
+  "verification_notes": {
+    "pass_kind": "separate_pass_same_reviewer",
+    "outcome_coverage": "Sentence 2 covers all six sustained specifications and the controlling authority defects; sentence 3 covers reversal, public removal, and remand; sentence 4 preserves the no-exoneration qualification.",
+    "corrections": "Changed 'Five elders' to the source-supported 'Five appellants.'",
+    "remaining_limits": "The judgment rests on procedural defects and does not decide guilt or innocence."
+  },
+  "repair_needed": false,
+  "repair_notes": "No blocking source defect identified."
+}

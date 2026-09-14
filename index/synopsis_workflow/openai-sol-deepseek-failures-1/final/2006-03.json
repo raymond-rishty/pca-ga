@@ -1,0 +1,50 @@
+{
+  "case_id": "2006-03",
+  "title": "Request for Original Jurisdiction, Calvary Presbytery re: S. Wilkins",
+  "matter_type": "original_jurisdiction_request",
+  "final_dispositions": [
+    "out_of_order"
+  ],
+  "disposition_detail": "The 34th General Assembly found Calvary Presbytery’s request for original jurisdiction out of order. The record does not identify an administrative or judicial subtype, give reasons, or specify further proceedings.",
+  "first_summary": "The 34th General Assembly found Calvary Presbytery’s request for original jurisdiction concerning S. Wilkins out of order. No separate merits opinion or reasoning was published.",
+  "summary": "Calvary Presbytery asked that original jurisdiction be assumed concerning S. Wilkins. The 34th General Assembly found the request out of order, but the supplied record gives no reason, merits ruling, relief, or next step. It also does not classify the ruling as administratively or judicially out of order.",
+  "sources": [
+    {
+      "path": "cases/ga34_2006__stub_2006-03.md",
+      "sha256": "d9bafc2ff938d78401894b3e6c2a5b605365e78841a63da8b67914e7107db79b",
+      "locator": "lines 1–5, 9–11",
+      "supports": "Case identity, original-jurisdiction request, deciding context, out-of-order disposition, and absence of a separate merits opinion."
+    }
+  ],
+  "evidence_notes": {
+    "identity_and_adoption": "Lines 1–5 identify case 2006-03, the SJC context, the 34th Assembly, and the recorded Assembly disposition.",
+    "dispute": "Lines 1 and 9 identify Calvary Presbytery’s request for original jurisdiction concerning S. Wilkins.",
+    "outcomes_and_reasons": "Lines 3, 5, and 9 state that the request was found out of order and that no separate merits opinion was published.",
+    "qualifications": "The stub does not provide reasons, relief, further proceedings, or an administrative/judicial subtype (lines 3–5, 9).",
+    "incorporated_decisions": "No incorporated decision is identified in the supplied text."
+  },
+  "source_limits": "The source is a sparse case-index stub rather than a merits opinion; it supports only the recorded status and disposition.",
+  "benchmark_examples": [
+    "O04",
+    "A20"
+  ],
+  "scores": {
+    "concrete_dispute": 2,
+    "decision": 2,
+    "decisive_reason": 2,
+    "distinctive_value": 1,
+    "fidelity": 2,
+    "economy": 2
+  },
+  "score_reasons": {
+    "concrete_dispute": "Identifies the request to assume original jurisdiction concerning S. Wilkins.",
+    "decision": "States the sole recorded disposition without inventing a subtype.",
+    "decisive_reason": "Faithfully reports that no reason was supplied.",
+    "distinctive_value": "Preserves the limitation that the sparse record contains no merits ruling or subtype.",
+    "fidelity": "Distinguishes the recorded Assembly disposition from the SJC catalog context and avoids unsupported conclusions.",
+    "economy": "Includes only the request, disposition, and material source limitations."
+  },
+  "verification_notes": "Rechecked lines 3, 5, and 9 for the operative result. The summary was corrected to attribute the recorded disposition to the 34th General Assembly and to avoid classifying it as administratively or judicially out of order.",
+  "repair_needed": false,
+  "repair_notes": "No source or catalog defect is apparent; the record is merely sparse."
+}

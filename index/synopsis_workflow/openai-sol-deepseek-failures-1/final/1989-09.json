@@ -1,0 +1,51 @@
+{
+  "case_id": "1989-09",
+  "title": "Three former Ruling Elders v. Philadelphia Presbytery",
+  "matter_type": "complaint",
+  "final_dispositions": [
+    "partially_sustained",
+    "annulled"
+  ],
+  "disposition_detail": "Specifications 1, 3, 4, and 6 were sustained; Specifications 2 and 5 were not sustained. Presbytery’s March 12, 1988 actions concerning Christ Church, Oreland, items 2 and 3, were annulled, and specified language was expunged. Presbytery also received corrective directives concerning constitutional inquiries and training.",
+  "first_summary": "The case challenged Philadelphia Presbytery’s handling of a letter concerning Christ Church, Oreland, and its efforts to facilitate membership transfers. Four specifications were sustained and two were not. The Commission annulled the challenged March 12 actions because Presbytery received a complaint not first filed with the Session, judged the Session without due process, exceeded constitutional limits, and disregarded the Session’s authority over dismissal letters.",
+  "summary": "Philadelphia Presbytery treated a letter as a complaint although it had not first been filed with the Session, judged the Session without proper process, and asked its clerk to facilitate membership transfers despite the Session’s authority over dismissal letters. Those and a constitutional-limits specification were sustained; claims that Presbytery neglected underlying questions and acted for the Session were not. The March 12 actions were annulled, specified language expunged, and Presbytery directed to adopt safeguards for constitutional inquiries and review relevant church-law materials.",
+  "sources": [
+    {
+      "path": "cases/ga17_1989__case4.md",
+      "sha256": "1f682bd51b8d43f95a984eee7c9d2a7f84303336d1fa0cda6090b88390347a6f",
+      "locator": "printed pp. 229–231, lines 27–114",
+      "supports": "Case identity, six specification results, reasons, annulment, expungement, and corrective directives."
+    }
+  ],
+  "evidence_notes": {
+    "identity_and_adoption": "The heading identifies Case #9 and the parties; the Commission adopted the adjudication and amends by recorded votes (lines 1–3, 27, 42–97; printed pp. 228–230).",
+    "dispute": "The issues concerned improper reception of a complaint, judgment without process, action for the Session, and membership-transfer authority (lines 31–40; printed pp. 228–229).",
+    "outcomes_and_reasons": "Specifications 1, 3, 4, and 6 were sustained, while 2 and 5 were not; the March 12 actions were annulled and language expunged (lines 44–97; printed pp. 229–230).",
+    "qualifications": "The judgment did not sustain claims that Presbytery failed to decide the underlying constitutional questions or acted for a Session able to act for itself (lines 64–70, 87; printed pp. 229–230).",
+    "incorporated_decisions": "The report referenced a 1987 decision and echoed Case #3, but did not incorporate either decision’s disposition by reference (lines 82–84, 110–112; printed pp. 230–231)."
+  },
+  "source_limits": "The supplied excerpt contains the Commission’s adjudication and adopted remedies but no separate full-Assembly ratification language for Case #9.",
+  "benchmark_examples": [
+    "C01",
+    "C02"
+  ],
+  "scores": {
+    "concrete_dispute": 2,
+    "decision": 2,
+    "decisive_reason": 2,
+    "distinctive_value": 2,
+    "fidelity": 2,
+    "economy": 2
+  },
+  "score_reasons": {
+    "concrete_dispute": "Identifies the improperly received complaint, judgment against the Session, and transfer-letter action.",
+    "decision": "Reports all six specification outcomes and the operative relief.",
+    "decisive_reason": "States the filing, due-process, jurisdictional, and Session-authority grounds.",
+    "distinctive_value": "Preserves the distinction between sustained procedural violations and rejected broader claims.",
+    "fidelity": "Separates the Commission’s findings from referenced earlier decisions and rejected specifications.",
+    "economy": "Retains only facts needed to explain the mixed judgment and remedies."
+  },
+  "verification_notes": "Rechecked all six specification votes, corrected the final synopsis to state both unsuccessful specifications expressly, and confirmed that the remedy annulled March 12 items 2 and 3, expunged specified language, and imposed constitutional-inquiry safeguards.",
+  "repair_needed": false,
+  "repair_notes": ""
+}

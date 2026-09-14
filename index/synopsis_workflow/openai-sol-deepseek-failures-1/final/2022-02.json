@@ -1,0 +1,49 @@
+{
+  "case_id": "2022-02",
+  "title": "Herron & Baysinger v. Central Indiana Presbytery",
+  "matter_type": "complaint",
+  "final_dispositions": [
+    "other"
+  ],
+  "disposition_detail": "The SJC, without objection, answered and decided the complaint by reference to its April 5, 2023 final decision in Case 2022-10. The supplied source does not state the incorporated substantive disposition or relief.",
+  "first_summary": "After postponing this complaint pending the Herron trial, the SJC resolved it by reference to the April 5, 2023 final decision in Case 2022-10. The notice provides no independent reasoning or relief.",
+  "summary": "The SJC postponed this complaint, concerning an unspecified matter related to TE Daniel Herron or related judicial proceedings, until the Herron trial concluded. Without objection, it then answered and decided the complaint by reference to the April 5, 2023 final decision in Case 2022-10. Because that incorporated decision is not supplied, the complaint’s substantive outcome, reasoning, and relief cannot be stated.",
+  "sources": [
+    {
+      "path": "cases/ga50_2023__2022-02.md",
+      "sha256": "5db929a49f819ebda5cf09c56d633ea6dc984f7d9f945c650979be4c3d47a23c",
+      "locator": "lines 11–17; printed p. 812",
+      "supports": "Case identity, complaint posture, postponement, and decision by reference to Case 2022-10."
+    }
+  ],
+  "evidence_notes": {
+    "identity_and_adoption": "Lines 11–17 (printed p. 812) identify Case 2022-02, the parties, the SJC decision on complaint, and the SJC’s ruling.",
+    "dispute": "Line 17 describes only a complaint involving a matter related to TE Daniel Herron or related judicial matters; no specific challenged action is stated.",
+    "outcomes_and_reasons": "Line 17 states that consideration was postponed pending Case 2022-10 and that the complaint was answered and decided by reference to that case’s final decision.",
+    "qualifications": "Line 17 records that the ruling was made without objection; it supplies no independent merits analysis or relief.",
+    "incorporated_decisions": "Line 17 incorporates the April 5, 2023 final decision in Case 2022-10, but that decision is absent from the supplied source."
+  },
+  "source_limits": "The record is a one-paragraph notice. The incorporated Case 2022-10 decision is unavailable, preventing classification of the substantive disposition, reasons, or relief.",
+  "benchmark_examples": [
+    "C20"
+  ],
+  "scores": {
+    "concrete_dispute": 0,
+    "decision": 1,
+    "decisive_reason": 1,
+    "distinctive_value": 1,
+    "fidelity": 2,
+    "economy": 2
+  },
+  "score_reasons": {
+    "concrete_dispute": "The source does not identify the particular action challenged.",
+    "decision": "It states decision by reference, but the incorporated substantive result is unavailable.",
+    "decisive_reason": "The reason for postponement and reference is stated; the merits rationale is absent.",
+    "distinctive_value": "The synopsis preserves the distinction between decision by reference and referral.",
+    "fidelity": "It does not infer Case 2022-10’s result or treat the prior postponement as the disposition.",
+    "economy": "Only facts needed to explain the limited record and missing result are retained."
+  },
+  "verification_notes": "Rechecked line 17 for actor, posture, timing, and operative language. Revised “resolved” to the source’s narrower “answered and decided by reference” and expressly noted that the incorporated outcome and relief are unavailable.",
+  "repair_needed": true,
+  "repair_notes": "Supply the April 5, 2023 final decision in Case 2022-10 so Case 2022-02’s incorporated substantive disposition, reasons, and relief can be reported and coded."
+}

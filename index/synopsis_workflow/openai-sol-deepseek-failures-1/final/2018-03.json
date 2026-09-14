@@ -1,0 +1,49 @@
+{
+  "case_id": "2018-03",
+  "title": "Durand v. Central Florida Presbytery",
+  "matter_type": "other",
+  "final_dispositions": [
+    "administratively_out_of_order"
+  ],
+  "disposition_detail": "This was a BCO 31-2 report affecting Christian character submitted directly to the SJC. The SJC ruled it administratively out of order and incapable of being put in order.",
+  "first_summary": "The SJC held that a BCO 31-2 report affecting Christian character submitted directly to it was administratively out of order because no constitutional provision authorized direct receipt of such a report.",
+  "summary": "The SJC considered whether it could receive directly a BCO 31-2 report affecting Christian character. It ruled the matter administratively out of order and incapable of being put in order because no constitutional provision authorizes such direct receipt. The order did not address the report’s substance or direct further proceedings.",
+  "sources": [
+    {
+      "path": "cases/ga47_2019__2018-03.md",
+      "sha256": "f54985b7fd194d4254bfd938a71115471049f454a2de4f11e63dc7b565eac109",
+      "locator": "printed p. 575, lines 11–19",
+      "supports": "Case identity, procedural character, disposition, reason, and concurrence vote."
+    }
+  ],
+  "evidence_notes": {
+    "identity_and_adoption": "The case heading identifies Case 2018-03 and the parties; the SJC’s ruling and vote appear at printed p. 575, lines 11–19.",
+    "dispute": "The matter was a BCO 31-2 report affecting Christian character presented directly to the SJC (lines 13–17).",
+    "outcomes_and_reasons": "The SJC held it administratively out of order and incapable of being put in order because no constitutional provision permits direct receipt (line 17).",
+    "qualifications": "The brief order gives no substantive allegations or merits determination; the vote was 23 concurring, none dissenting, one absent (line 19).",
+    "incorporated_decisions": "No decision was incorporated by reference."
+  },
+  "source_limits": "The source is a short administrative ruling and does not describe the report’s substance or any subsequent proceedings.",
+  "benchmark_examples": [
+    "C20"
+  ],
+  "scores": {
+    "concrete_dispute": 2,
+    "decision": 2,
+    "decisive_reason": 2,
+    "distinctive_value": 2,
+    "fidelity": 2,
+    "economy": 2
+  },
+  "score_reasons": {
+    "concrete_dispute": "Identifies the attempted direct submission of a BCO 31-2 report.",
+    "decision": "States the exact administrative disposition and inability to cure it.",
+    "decisive_reason": "Gives the SJC’s stated constitutional-procedure rationale.",
+    "distinctive_value": "Preserves the limitation on direct SJC receipt of BCO 31-2 reports.",
+    "fidelity": "Does not infer the report’s substance, merits, or subsequent action.",
+    "economy": "Includes only the procedural issue, ruling, reason, and limitation."
+  },
+  "verification_notes": "Rechecked that the ruling concerns direct SJC receipt, uses the administrative subtype, says the matter cannot be put in order, and orders no referral, remand, or merits relief.",
+  "repair_needed": false,
+  "repair_notes": ""
+}

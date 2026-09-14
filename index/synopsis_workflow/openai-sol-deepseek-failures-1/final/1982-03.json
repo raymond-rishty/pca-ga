@@ -1,0 +1,50 @@
+{
+  "case_id": "1982-03",
+  "title": "David H. Bryson, et al. v. Presbytery of Central Georgia",
+  "matter_type": "complaint",
+  "final_dispositions": [
+    "sustained"
+  ],
+  "disposition_detail": "The General Assembly adopted the Commission’s judgment sustaining the complaint against Central Georgia Presbytery for not sustaining Charles H. Davis’s complaint against the Session. It requested Presbytery to assist the Session with appropriate corrections or further action. The complainants’ requested affirmations were not expressly ordered.",
+  "first_summary": "Teaching elders challenged Central Georgia Presbytery’s refusal to sustain a complaint against Liberty Presbyterian Church’s Session for closing a disciplinary matter before taking judicial action. The General Assembly sustained the complaint, finding that counseling, Session discussion, and instruction concerning discipline had preceded the decision to close the matter. It requested Presbytery to assist the Session with appropriate corrections or further action.",
+  "summary": "Teaching elders challenged Central Georgia Presbytery’s refusal to sustain a complaint against Liberty Presbyterian Church’s Session for closing a disciplinary matter before taking judicial action. The General Assembly sustained the complaint, adopting findings that counseling, Session discussion, and instruction on discipline were underway before the Session closed the matter and refused to reopen it. It requested Presbytery to assist the Session with appropriate corrections or further action and said both courts should heed confessional teaching on marriage and repentance. The complainants’ requested affirmations were not expressly ordered.",
+  "sources": [
+    {
+      "path": "cases/ga10_1982__case3.md",
+      "sha256": "4c12d1a1e61643ef2e19ca58360c951eb3348c666f83810c7f2a713fa69f1c31",
+      "locator": "printed pp. 108–109, lines 37–63",
+      "supports": "Assembly adoption, central dispute, sustained disposition, factual grounds, and requested corrective assistance."
+    }
+  ],
+  "evidence_notes": {
+    "identity_and_adoption": "The joint Commission report identifies Case 3 and was accepted as the General Assembly’s action and judgment (printed p. 108, lines 37–41); it is marked adopted at lines 63–64.",
+    "dispute": "The complaint challenged Presbytery’s failure to sustain Davis’s complaint concerning the Session’s closure of a disciplinary matter before judicial action; the parties agreed closure was the central issue (printed p. 108, lines 41–42).",
+    "outcomes_and_reasons": "The Commission sustained Case 3 and recited minutes showing prior counseling, discussion, disciplinary instruction, closure, and refusal to reopen; it requested Presbytery’s assistance and identified pertinent confessional teachings (printed pp. 108–109, lines 41–59).",
+    "qualifications": "The original complaint requested several affirmations (printed p. 56, lines 23–29), but the adopted amends instead requested assistance and said the courts should give special heed to specified teachings (printed p. 109, lines 53–59).",
+    "incorporated_decisions": "Cases 2 and 3 share a report, but the adopted text independently states Case 3’s result and reasoning; no unavailable incorporated decision is needed (printed p. 108, lines 37–45)."
+  },
+  "source_limits": "The supplied text contains the adopted joint report but not the complete underlying record; its factual account is therefore limited to the Commission’s summary of documented evidence.",
+  "benchmark_examples": [
+    "C01",
+    "C20"
+  ],
+  "scores": {
+    "concrete_dispute": 2,
+    "decision": 2,
+    "decisive_reason": 2,
+    "distinctive_value": 2,
+    "fidelity": 2,
+    "economy": 2
+  },
+  "score_reasons": {
+    "concrete_dispute": "Identifies Presbytery’s refusal and the underlying Session closure.",
+    "decision": "States the sustained complaint, corrective request, and absence of express orders granting the broader prayers.",
+    "decisive_reason": "Reports the adopted documentary findings supporting the ruling without adding a new rule.",
+    "distinctive_value": "Preserves the distinction between sustaining the complaint, requesting corrective assistance, and ordering affirmations.",
+    "fidelity": "Separates the complainants’ prayers from the Assembly’s adopted judgment and distinguishes Presbytery’s action from the Session’s underlying action.",
+    "economy": "Retains only facts needed to explain the dispute, disposition, reasons, and remedy."
+  },
+  "verification_notes": "Rechecked lines 37–63 as the operative adopted judgment. The final summary clarifies that the immediate challenge was to Presbytery’s refusal, not directly to the Session, and adds that the requested affirmations were not expressly ordered.",
+  "repair_needed": false,
+  "repair_notes": ""
+}

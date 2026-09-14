@@ -1,0 +1,49 @@
+{
+  "case_id": "2011-10",
+  "title": "Testa v. South Florida Presbytery",
+  "matter_type": "complaint",
+  "final_dispositions": [
+    "administratively_out_of_order"
+  ],
+  "disposition_detail": "Complaint held administratively out of order because South Florida Presbytery had not yet acted on the matter; no merits decision. Adopted 19 concurring, 1 not qualified, 4 absent.",
+  "first_summary": "The SJC ruled Frank Testa's complaint against South Florida Presbytery administratively out of order because the presbytery had not yet acted on the matter. The adopted vote was 19 concurring, 1 not qualified, and 4 absent.",
+  "summary": "The SJC held Frank Testa's complaint against South Florida Presbytery administratively out of order because the presbytery had not yet acted on the underlying matter, so no merits decision was reached. The case thus turns on prematurity rather than the complaint's substance; the sparse record does not describe the underlying dispute. The adopted vote was 19 concurring, 1 not qualified, and 4 absent. RE Donohoe was not qualified because he could not certify that he had read the necessary portions of the Record (OMSJC 2.3.b).",
+  "sources": [
+    {
+      "path": "cases/ga40_2012__2011-10.md",
+      "sha256": "9f4f936d260bb710b24e3e894d413808e7798c1ed2ae7875471d17d41b350da7",
+      "locator": "lines 1-25; printed p. 580 (pdf p. 582)",
+      "supports": "Case identity, SJC adoption, challenged complaint, administrative out-of-order disposition, vote count, and qualification note."
+    }
+  ],
+  "evidence_notes": {
+    "identity_and_adoption": "Lines 1-3 identify SJC case 2011-10 from the 40th General Assembly (2012); lines 11, 15-17 show the complaint title and the adopted roll-call vote (19 concurring, 1 not qualified, 4 absent).",
+    "dispute": "Lines 11-13: Frank Testa filed a complaint against South Florida Presbytery; the only stated basis for the administrative ruling is that the presbytery had not yet acted on the matter. The underlying dispute is not described in this source.",
+    "outcomes_and_reasons": "Lines 13-17: the SJC held the complaint administratively out of order because South Florida Presbytery had not yet acted on the matter, with no merits determination or merits reasoning.",
+    "qualifications": "Lines 19-23: RE Donohoe was not qualified under OMSJC 2.3.b because he could not certify that he had read the necessary Record portions; four members were absent.",
+    "incorporated_decisions": "None. The supplied source contains no incorporated decision, lower-court ruling, or separate opinion."
+  },
+  "source_limits": "Sparse record: it gives only the administrative disposition, vote, and a qualification note. It does not state the underlying allegations, the presbytery's action, or any merits analysis.",
+  "benchmark_examples": [
+    "C20 (2016-13): short-record example used only to calibrate editorial form for a sparse disposition; not evidence for this case."
+  ],
+  "scores": {
+    "concrete_dispute": 1,
+    "decision": 2,
+    "decisive_reason": 2,
+    "distinctive_value": 2,
+    "fidelity": 2,
+    "economy": 2
+  },
+  "score_reasons": {
+    "concrete_dispute": "Identifies the complaint and the prematurity problem, but the source does not describe the underlying conduct or dispute.",
+    "decision": "States the sole disposition and preserves the adopted vote count and qualification.",
+    "decisive_reason": "Gives the source's express reason: the matter had not yet been acted on by South Florida Presbytery.",
+    "distinctive_value": "Shows that a complaint can be ruled administratively out of order as premature before lower-court action, without a merits decision.",
+    "fidelity": "Keeps the adopted administrative ruling distinct from any merits result; correctly notes the absence of underlying facts and incorporated decisions.",
+    "economy": "Includes only the case identity, disposition, reason, vote, and qualification note needed to understand the sparse record."
+  },
+  "verification_notes": "Rechecked the case ID/title at lines 1 and 11; the adopted disposition and reason at lines 13-17; the vote and qualification at lines 19-23; and the absence of any incorporated decision. Final summary was refined from first_summary to add that no merits decision was reached and to note the sparse record; no source conflict found.",
+  "repair_needed": false,
+  "repair_notes": "None."
+}

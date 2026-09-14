@@ -1,0 +1,49 @@
+{
+  "case_id": "2022-09",
+  "title": "Benyola v. Central Florida Presbytery",
+  "matter_type": "complaint",
+  "final_dispositions": [
+    "administratively_out_of_order"
+  ],
+  "disposition_detail": "The SJC found the complaint administratively out of order and unable to be put in order because Benyola was no longer a member of any PCA congregation and therefore lacked standing (line 19). The decision was approved 23-0 on a roll call, with one absent (line 21).",
+  "first_summary": "The SJC held Benyola's complaint against Central Florida Presbytery administratively out of order because he was no longer a PCA member and lacked standing; the vote was 23-0, one absent. The underlying complaint and any merits are not described.",
+  "summary": "The SJC declared Benyola's complaint against Central Florida Presbytery administratively out of order and incapable of being put in order, because Benyola was no longer a member of any PCA congregation and thus lacked standing. The decision was adopted 23-0 on a roll call, one absent, on the officers' recommendation. The record does not identify the underlying presbytery action or reach the complaint's merits, so the case's value is its threshold standing ruling, not any complaint determination.",
+  "sources": [
+    {
+      "path": "cases/ga50_2023__2022-09.md",
+      "sha256": "a0e40e819117b7b5a3558b23f62ff8b238d31169eb1f18e7c94b032b50224f69",
+      "locator": "lines 15–21 (printed pp. 883–884; PDF pp. 891–892)",
+      "supports": "Caption, decision on complaint, administrative out-of-order disposition, standing reason, vote, and absence."
+    }
+  ],
+  "evidence_notes": {
+    "identity_and_adoption": "Case No. 2022-09, Benyola v. Central Florida Presbytery, Decision on Complaint dated October 20, 2022; the SJC approved it 23-0 on roll call, one absent (lines 13–21, printed pp. 883–884).",
+    "dispute": "The complaint was against Central Florida Presbytery, but the source does not identify the underlying presbytery action, allegations, or requested relief (line 15; line 19).",
+    "outcomes_and_reasons": "The SJC found the complaint administratively out of order and incapable of being put in order because Benyola was no longer a member of any PCA congregation and thus lacked standing; no merits determination appears (line 19).",
+    "qualifications": "Vote was 23-0 on roll call with one absent (line 21). The source lists concurring entries but gives no separate reasoning or opinions (lines 23–24).",
+    "incorporated_decisions": "None; the decision does not incorporate or refer to another decision or lower-court result."
+  },
+  "source_limits": "Sparse record. It states only the threshold standing disposition and vote; it does not describe the challenged presbytery action, complaint allegations, relief sought, or merits. No incorporated decision is supplied.",
+  "benchmark_examples": [
+    "C20 (2016-13): short-record example—keep a sparse administrative disposition sparse and do not infer a merits rationale."
+  ],
+  "scores": {
+    "concrete_dispute": 1,
+    "decision": 2,
+    "decisive_reason": 2,
+    "distinctive_value": 2,
+    "fidelity": 2,
+    "economy": 2
+  },
+  "score_reasons": {
+    "concrete_dispute": "Identifies the complaint and the SJC's threshold action, but the source never states what Central Florida Presbytery did or what conduct was challenged.",
+    "decision": "States the sole disposition—administratively out of order—and the vote and absence; no other material issue was decided.",
+    "decisive_reason": "Gives the adopted reason: Benyola was no longer a PCA member and lacked standing, and the complaint could not be put in order.",
+    "distinctive_value": "Preserves the threshold standing rule and the distinction between administrative out-of-order and a merits dismissal.",
+    "fidelity": "Separates the SJC's ruling from the unstated underlying complaint and avoids treating the absence of merits as a merits finding; no party argument is reported as adopted.",
+    "economy": "All retained details—standing, inability to cure, vote—explain the disposition or its sparse record."
+  },
+  "verification_notes": "Rechecked operative judgment at lines 19–21 (printed pp. 883–884). Corrected/refined the catalog label 'administrative' into matter_type complaint and final disposition administratively_out_of_order, because the deciding action was on a complaint and the source does not use 'dismissed.' Confirmed the 'cannot be put in order' language, 23-0 vote with one absent, and that no underlying presbytery action, merits ruling, or incorporated decision appears. The concurrence list was treated as vote information, not as separate opinions.",
+  "repair_needed": false,
+  "repair_notes": "No source or catalog defect requiring repair; the record is simply sparse."
+}

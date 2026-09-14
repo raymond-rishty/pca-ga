@@ -1,0 +1,52 @@
+{
+  "case_id": "2003-05",
+  "title": "TE James Thornton v. Westminster Presbytery",
+  "matter_type": "complaint",
+  "final_dispositions": [
+    "partially_sustained",
+    "moot",
+    "remanded"
+  ],
+  "disposition_detail": "The SJC sustained Issue 1 and remanded for a new BCO 31-2 investigation of TE Frank Smith’s secret taping. It did not sustain Issues 2–4 concerning alleged lying and threats, partiality, and an allegedly unbiblical taping policy. The voluntary-prosecutor issue was moot because TE Dewey Roberts declined the invitation.",
+  "first_summary": "Thornton challenged Westminster Presbytery’s investigation and refusal to institute process against Smith over secretly recording Roberts, alleged lying and threats, partiality, and its taping policy. The SJC sustained only the challenge to the secret-taping investigation because the committee failed to interview Roberts before reporting and examine the implications of transcription and destruction. It remanded for a new BCO 31-2 investigation and rejected the remaining claims for insufficient proof.",
+  "summary": "Thornton challenged Presbytery’s investigation and refusal to institute process against Smith over secretly recording Roberts, alleged lying and threats, partiality, and its taping policy. The SJC sustained only the challenge to the secret-taping investigation: the committee failed to interview Roberts before reporting and examine the legal and confessional implications of transcription and destruction. It remanded for a new BCO 31-2 investigation. The other claims lacked sufficient proof; the voluntary-prosecutor issue was moot because Roberts declined.",
+  "sources": [
+    {
+      "path": "cases/ga33_2005__2003-02_2003-05.md",
+      "sha256": "648b6748e49ebaddf4d0f6efe67fbcfdcc4117eec201179d28a7bcfda037412e",
+      "locator": "lines 71–151; printed pp. 101–104",
+      "supports": "Issues, judgment, majority reasoning, remand instructions, rejected claims, and mootness ruling."
+    }
+  ],
+  "evidence_notes": {
+    "identity_and_adoption": "Joined Cases 2003-2 and 2003-5 are captioned Thornton v. Westminster Presbytery; the judgment was adopted 18–1. Lines 13, 157–159; printed pp. 99, 104.",
+    "dispute": "The four issues concern the Smith investigations, refusal to institute process, alleged partiality, and Presbytery’s secret-taping standard. Lines 71–80; printed p. 101.",
+    "outcomes_and_reasons": "Issue 1 was sustained and remanded for further witness, legal, and confessional inquiry; Issues 2–4 were rejected for lack of corroboration or proof and with deference to Presbytery. Lines 81–145; printed pp. 101–104.",
+    "qualifications": "The invitation to Roberts to prosecute was moot because he declined. A separate concurrence—not the majority judgment—would have found the invitation erroneous. Lines 147–151, 161–184; printed pp. 104–105.",
+    "incorporated_decisions": "No external decision is incorporated by reference."
+  },
+  "source_limits": "The source jointly adjudicates Cases 2003-02 and 2003-05 and does not separately assign each issue between the two case numbers.",
+  "benchmark_examples": [
+    "C01",
+    "C02"
+  ],
+  "scores": {
+    "concrete_dispute": 2,
+    "decision": 2,
+    "decisive_reason": 2,
+    "distinctive_value": 2,
+    "fidelity": 2,
+    "economy": 2
+  },
+  "score_reasons": {
+    "concrete_dispute": "Identifies the challenged investigations, refusal of process, partiality claim, and taping policy.",
+    "decision": "States the sustained issue, three rejected issues, moot issue, and remand.",
+    "decisive_reason": "Gives the investigative omissions and the evidentiary deficiencies underlying the mixed result.",
+    "distinctive_value": "Shows that an incomplete BCO 31-2 inquiry can require remand without requiring process or proving partiality.",
+    "fidelity": "Separates the majority’s mootness ruling from the concurrence’s view that the prosecutor invitation was erroneous.",
+    "economy": "Retains only facts needed to explain the dispute, mixed outcome, and remedy."
+  },
+  "verification_notes": "Rechecked the four numbered judgments, remand instructions, and further reasoning. The final summary adds the majority’s mootness ruling, identifies both legal and confessional investigative omissions, and avoids adopting the separate concurrence’s prosecutor analysis.",
+  "repair_needed": false,
+  "repair_notes": ""
+}

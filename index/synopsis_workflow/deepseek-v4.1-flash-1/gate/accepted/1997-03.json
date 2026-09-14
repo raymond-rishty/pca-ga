@@ -1,0 +1,50 @@
+{
+  "case_id": "1997-03",
+  "title": "Bruce Nickoley vs. Rocky Mountain Presbytery",
+  "matter_type": "complaint",
+  "final_dispositions": [
+    "administratively_out_of_order"
+  ],
+  "disposition_detail": "The complaint was administratively out of order under SJC Manual 10.1 because the Presbytery action complained of—dissolution of its relationship with Evergreen Church—was also the subject of an appeal already granted and docketed for the January 22–24, 1997, meeting of Presbytery; BCO 43-1 bars a complaint in a judicial case in which an appeal is taken.",
+  "first_summary": "Bruce Nickoley complained against Rocky Mountain Presbytery over its dissolution of the relationship with Evergreen Church. The SJC determined the complaint out of order: the same matter was already on appeal, and BCO 43-1 forbids a complaint in a judicial case in which an appeal is taken. The appeal was docketed for Presbytery's January 22–24, 1997 meeting. The record gives no merits ruling.",
+  "summary": "Bruce Nickoley complained against Rocky Mountain Presbytery over its action dissolving the relationship with Evergreen Church. The SJC held the complaint administratively out of order under SJC Manual 10.1. The same matter was already the subject of an appeal granted to Evergreen Church and docketed for Presbytery's January 22–24, 1997 meeting, and BCO 43-1 provides that no complaint is allowable in a judicial case in which an appeal is taken. No merits ruling was reached.",
+  "sources": [
+    {
+      "path": "cases/ga26_1998__1997-03.md",
+      "sha256": "4fc2652e0d46e4cb6a5ccbf9b3d04c01abd1ac1ea3ec6aee6a6753881d5dc72e",
+      "locator": "lines 12–16 (printed p. 129)",
+      "supports": "Identity, procedural vehicle, unanimous SJC finding, administrative out-of-order disposition, BCO 43-1 reason, and underlying Evergreen Church appeal timing."
+    }
+  ],
+  "evidence_notes": {
+    "identity_and_adoption": "Case 97-3 / 1997-03, Bruce Nickoley vs. Rocky Mountain Presbytery, before the SJC of the 26th General Assembly (1998); the finding was unanimously approved by the full SJC (lines 12–16).",
+    "dispute": "Complaint concerning Rocky Mountain Presbytery's action dissolving its relationship with Evergreen Church (lines 14–16).",
+    "outcomes_and_reasons": "The Chairman and Secretary determined the case administratively out of order because the complained-of matter was also the subject of an appeal; BCO 43-1 provides that no complaint is allowable in a judicial case in which an appeal is taken; the appeal was docketed for the January 22–24, 1997, Presbytery meeting (line 16).",
+    "qualifications": "No merits determination is reported; only an administrative out-of-order disposition. The appeal's outcome is not stated in this excerpt (lines 12–16).",
+    "incorporated_decisions": "None expressly incorporated; the source reports a determination under SJC Manual 10.1 and BCO 43-1, not an adopted prior decision (line 16)."
+  },
+  "source_limits": "Sparse record: only the approved finding is supplied. It does not include the full complaint, the appeal record, party arguments, or any merits disposition.",
+  "benchmark_examples": [
+    "A01 Grady v. Southwest Florida Presbytery — distinguishes conviction, censure, and suspension; the useful comparison is preserving the specific procedural disposition rather than implying a merits ruling.",
+    "A03 Mitchell v. Presbytery of the Ascension — shows issue-level precision in remedies; here the single administrative ruling is stated without adding relief not given."
+  ],
+  "scores": {
+    "concrete_dispute": 2,
+    "decision": 2,
+    "decisive_reason": 2,
+    "distinctive_value": 1,
+    "fidelity": 2,
+    "economy": 2
+  },
+  "score_reasons": {
+    "concrete_dispute": "Identifies the challenged Presbytery action: dissolving its relationship with Evergreen Church.",
+    "decision": "States the sole adopted disposition: the complaint was administratively out of order.",
+    "decisive_reason": "Explains the adopted basis: parallel appeal pending and BCO 43-1 bar on complaint in a judicial case in which appeal is taken.",
+    "distinctive_value": "Preserves the administrative out-of-order rule, but the sparse record limits broader instructional value.",
+    "fidelity": "Keeps the SJC's adopted finding distinct from the underlying appeal and does not infer merits or additional relief.",
+    "economy": "Uses only details needed to explain the complaint, procedural bar, and outcome."
+  },
+  "verification_notes": "Rechecked source lines 12–16. Corrected first_summary's general 'out of order' to the source's specific 'administratively out of order' in final_dispositions and summary; confirmed the only adopted reason is SJC Manual 10.1/BCO 43-1 because the same matter was on appeal, and that no merits relief was granted.",
+  "repair_needed": false,
+  "repair_notes": "None."
+}

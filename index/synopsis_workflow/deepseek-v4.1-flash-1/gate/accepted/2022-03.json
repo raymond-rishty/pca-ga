@@ -1,0 +1,51 @@
+{
+  "case_id": "2022-03",
+  "title": "Klett et al. v. Philadelphia Presbytery",
+  "matter_type": "complaint",
+  "final_dispositions": [
+    "sustained",
+    "annulled"
+  ],
+  "disposition_detail": "Complaint sustained: the SJC answered the issue \"Yes\" and held that Philadelphia Presbytery erred by failing to find TE Smith's written views out of accord with, and hostile to, the system of doctrine under BCO 21-4.f. The Presbytery's May 15, 2021 action stating that it did not find Smith's views out of accord or hostile was annulled. No further action against Smith was possible because he and his congregation had left the PCA; the matter was concluded. The decision was limited to the written views presented and BCO 14-7 precedent.",
+  "first_summary": "Philadelphia Presbytery declined to find TE Larry Smith's continuationist views on prophecy and tongues out of accord with the fundamentals of the system of doctrine. Klett et al. complained. The SJC held that Presbytery erred because Smith affirmed a continuing non-general revelation and treated tongues and prophecy as corporate worship elements, contrary to WCF 1 and 21. It sustained the complaint, annulled Presbytery's May 2021 action, and remanded for Presbytery to act.",
+  "summary": "Philadelphia Presbytery declared that TE Larry Smith's views on continuing prophecy and tongues were not out of accord or hostile to the system of doctrine. Klett et al. complained. The SJC sustained the complaint: Smith's written views affirmed continuing non-general revelation and treated prophecy and tongues as public-worship elements, contrary to WCF 1 and 21, so Presbytery erred under BCO 21-4.f. The SJC annulled Presbytery's May 15, 2021 action. No further action was possible because Smith and his congregation had left the PCA; the matter was concluded, with precedent limited to the written views reviewed.",
+  "sources": [
+    {
+      "path": "cases/ga50_2023__2022-03.md",
+      "sha256": "26cda2c2413d0e20c6559b4ecd2d144b3d3292887df523bfa6f9c4ed039f34de",
+      "locator": "lines 13–33, 83–95, 161–173; printed pp. 812–825",
+      "supports": "Case identity, procedural history, issue, judgment, reasoning, annulment, no further action, and SJC adoption vote."
+    }
+  ],
+  "evidence_notes": {
+    "identity_and_adoption": "Case No. 2022-03, Klett et al. v. Philadelphia Presbytery; SJC Decision on Complaint dated Oct. 20, 2022 (lines 13–17). Panel proposed decision written by RE Frederick (Jay) Neikirk and TE Guy Prentiss Waters, adopted by the Panel 3–0, and approved as amended by the full SJC 22–0 (lines 171–173).",
+    "dispute": "TE Larry Smith was examined for transfer; the Credentialing Committee did not recommend him because of his views on prophecy and tongues. Presbytery approved the theological exam and later found his views atypical but not out of accord or hostile (lines 21–29, 47–55). Klett et al. complained and carried the complaint to General Assembly (lines 55, 71).",
+    "outcomes_and_reasons": "The SJC answered the issue \"Yes\" (lines 89–91), agreed with the Complainants, and held that Smith's written views affirmed continuing non-general revelation and treated prophecy and tongues as elements of public worship, contrary to WCF 1.1, 1.6, and 21 (lines 95, 133–163). Presbytery's May 15, 2021 action was annulled, and the matter was concluded (line 165).",
+    "qualifications": "No action could be taken against Smith because he and his congregation had left the PCA (line 165). The decision was limited to the written views presented and to precedent under BCO 14-7 (line 169). Prior SJC case 2019-02 had held that Presbytery erred by failing to judge and record Smith's views (line 33).",
+    "incorporated_decisions": "Prior SJC case 2019-02 is described at line 33. Cited prior GA/SJC decisions in footnotes at lines 119 and 145 are historical support, not incorporated dispositions."
+  },
+  "source_limits": "The supplied source is the SJC decision text only; no briefs, full record, or underlying Presbytery minutes were provided. No separate opinions appear in the roll call.",
+  "benchmark_examples": [
+    "C01: preserve both procedural errors and an unsuccessful merits claim in a mixed complaint outcome.",
+    "C20: do not supply a rationale where the adopted ruling gives none."
+  ],
+  "scores": {
+    "concrete_dispute": 2,
+    "decision": 2,
+    "decisive_reason": 2,
+    "distinctive_value": 2,
+    "fidelity": 2,
+    "economy": 2
+  },
+  "score_reasons": {
+    "concrete_dispute": "Identifies Presbytery's judgment about Smith's prophecy and tongues views and the complaint challenging it.",
+    "decision": "States that the complaint was sustained and Presbytery's action annulled, with no remand or discipline.",
+    "decisive_reason": "Explains the adopted reason: continuing non-general revelation and public-worship practice contrary to WCF 1 and 21.",
+    "distinctive_value": "Preserves the limited precedent and the no-further-action conclusion because Smith left the PCA.",
+    "fidelity": "Separates the adopted ruling from prior SJC case 2019-02, Presbytery history, and committee reports.",
+    "economy": "Uses only details needed to explain the dispute, result, and limitation."
+  },
+  "verification_notes": "Rechecked the operative judgment (lines 89–95) and amends (lines 163–169). Corrected first_summary's erroneous \"remanded\" to \"no further action/concluded,\" because the source says Presbytery cannot or should not act after Smith left the PCA. Verified adoption: panel 3–0, full SJC 22–0 (lines 171–173). Confirmed final dispositions are complaint sustained and Presbytery action annulled, not a merits acquittal or remand.",
+  "repair_needed": false,
+  "repair_notes": "None."
+}

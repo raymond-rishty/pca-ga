@@ -1,0 +1,50 @@
+{
+  "case_id": "2012-10",
+  "title": "PCA v. Korean Capital Presbytery",
+  "matter_type": "bco_40_5_matter",
+  "final_dispositions": [
+    "in_order"
+  ],
+  "disposition_detail": "The SJC found Korean Capital Presbytery's submitted, presbytery-approved responses acceptable (in order); the source does not state a dismissal, acquittal, or other formal merits disposition.",
+  "first_summary": "The SJC dismissed the BCO 40 citation against Korean Capital Presbytery after the Presbytery submitted responses, approved by Presbytery under BCO 10-4, addressing the cited failure to respond to exceptions of substance in October 6, 2008 minutes.",
+  "summary": "The 40th General Assembly cited Korean Capital Presbytery for failing to respond to substantive exceptions in its October 6, 2008 minutes. The SJC noted that the Presbytery had submitted responses approved by the Presbytery under BCO 10-4 and found those responses acceptable. The record does not state a dismissal, acquittal, or other formal merits disposition; the matter is an administrative BCO 40-5 citation resolved by acceptance of the Presbytery's responses.",
+  "sources": [
+    {
+      "path": "cases/ga41_2013__2012-10.md",
+      "sha256": "55f975a15d89f8d024be2b9d79dab95d7aa95d0f8579f6f728766cbbbe81520c",
+      "locator": "lines 1-20 (printed p. 616; PDF p. 618)",
+      "supports": "Identity, citation, accepted responses, and roll-call adoption."
+    }
+  ],
+  "evidence_notes": {
+    "identity_and_adoption": "Lines 1-14 identify case 2012-10, PCA v. Korean Capital Presbytery, before the SJC at the 41st GA; line 14 records the 40th GA's citation. Lines 18-20 show adoption by 20 concurring and 4 absent.",
+    "dispute": "Line 14 states the citation was for failure to respond to exceptions of substance in minutes of meetings of October 6, 2008 (M39GA, pp. 434, 489-490).",
+    "outcomes_and_reasons": "Line 14 states KCP submitted responses approved by the Presbytery under BCO 10-4 and the SJC found those responses acceptable. No separate reasoning or formal merits disposition term appears.",
+    "qualifications": "Line 14 cites RAO 16-4 e. and BCO 40-1, 4, 5. No dissent or minority is noted; lines 18-20 report only 20 concurring and 4 absent.",
+    "incorporated_decisions": "No incorporated decision is supplied. Line 14 references M39GA pp. 434, 489-490 and BCO 10-4, but those materials are not in the source."
+  },
+  "source_limits": "Sparse administrative record. It gives only the citation's subject, the SJC's acceptance of responses, and the roll call; it does not reproduce the underlying exceptions, the responses, or any merits analysis. No formal dismissal term is used.",
+  "benchmark_examples": [
+    "C20 (2016-13) — sparse-record restraint; not evidence.",
+    "C01 (1978-02) — mixed-outcome example; not applicable and not evidence."
+  ],
+  "scores": {
+    "concrete_dispute": 2,
+    "decision": 2,
+    "decisive_reason": 2,
+    "distinctive_value": 2,
+    "fidelity": 2,
+    "economy": 2
+  },
+  "score_reasons": {
+    "concrete_dispute": "Identifies the specific ground: failure to respond to substantive exceptions in the October 6, 2008 minutes.",
+    "decision": "States the SJC's only material ruling—responses acceptable—without asserting an unsupported dismissal.",
+    "decisive_reason": "Records the adopted basis: responses were submitted and approved by the Presbytery under BCO 10-4.",
+    "distinctive_value": "Shows a BCO 40-5 citation resolved by acceptance of presbytery-approved responses rather than merits adjudication.",
+    "fidelity": "Keeps the limited ruling separate from an unsupported dismissal and notes absent incorporated materials.",
+    "economy": "Uses the sparse record without adding background or speculation."
+  },
+  "verification_notes": "Rechecked line 14 and roll call lines 18-20. Corrected first_summary's unsupported statement that the SJC 'dismissed' the citation; the source says only that the responses were acceptable. Confirmed no merits reasoning, no dissent noted, and no incorporated decision supplied.",
+  "repair_needed": false,
+  "repair_notes": "No source or catalog defect identified; the record is simply sparse."
+}

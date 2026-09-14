@@ -1,0 +1,49 @@
+{
+  "case_id": "2009-27",
+  "title": "2009-27 — Complaint of Dale Cutler vs. Platte Valley Presbytery",
+  "matter_type": "complaint",
+  "final_dispositions": [
+    "administratively_out_of_order"
+  ],
+  "disposition_detail": "Ruled administratively out of order, 38-31, p. 129; no separate merits opinion published.",
+  "first_summary": "Dale Cutler's complaint against Platte Valley Presbytery was ruled administratively out of order by the Standing Judicial Commission, ending the case without a merits decision.",
+  "summary": "A complaint against Platte Valley Presbytery was ruled administratively out of order by the Standing Judicial Commission at the 38th Assembly (2010), 38-31, p. 129. The published record is only a stub: it gives no merits opinion, no allegations, and no rationale for the administrative ruling, and it states no further proceedings.",
+  "sources": [
+    {
+      "path": "cases/ga38_2010__stub_2009-27.md",
+      "sha256": "5459b8cfb31961b53508aeaba1e93ce49d3832cd61613db5819c161e394b16a7",
+      "locator": "lines 1-5, 9",
+      "supports": "Case identity, SJC/38th Assembly, administrative out-of-order disposition, and absence of a separate merits opinion."
+    }
+  ],
+  "evidence_notes": {
+    "identity_and_adoption": "cases/ga38_2010__stub_2009-27.md, sha256 5459b8cfb31961b53508aeaba1e93ce49d3832cd61613db5819c161e394b16a7, lines 1-5, 9: identifies case 2009-27, SJC, 38th Assembly (2010), and the disposition quote.",
+    "dispute": "Lines 1 and 9 identify a complaint by Dale Cutler against Platte Valley Presbytery; no allegations or challenged action are stated.",
+    "outcomes_and_reasons": "Lines 3 and 9: ruled administratively out of order, 38-31, p. 129. Lines 5 and 9 give no adopted reason or merits opinion.",
+    "qualifications": "Line 5 expressly says no separate merits opinion was published; the source states no further proceedings, remand, or relief.",
+    "incorporated_decisions": "None identified; line 5 indicates no separate merits decision incorporated by reference."
+  },
+  "source_limits": "Sparse stub only. It supplies the disposition and citation but no complaint allegations, merits reasoning, or subsequent proceedings; it cannot show why the matter was administratively out of order or whether the dispute ended.",
+  "benchmark_examples": [
+    "C20 (2016-13): short-record example; where the adopted ruling lacks an explanation, the synopsis leaves it unexplained rather than inventing a rationale."
+  ],
+  "scores": {
+    "concrete_dispute": 1,
+    "decision": 2,
+    "decisive_reason": 2,
+    "distinctive_value": 1,
+    "fidelity": 2,
+    "economy": 2
+  },
+  "score_reasons": {
+    "concrete_dispute": "The stub identifies a complaint against Platte Valley Presbytery but not the challenged conduct or lower-court action.",
+    "decision": "It states the only material disposition: administratively out of order.",
+    "decisive_reason": "The source gives no reason, and the synopsis faithfully says no rationale is published.",
+    "distinctive_value": "It preserves that an administrative out-of-order ruling has no published merits or reasoning, while noting the sparse record limits usefulness.",
+    "fidelity": "It does not attribute allegations, merits, or reasons to the deciding body and separates the disposition from the absence of an opinion.",
+    "economy": "It uses only identity, disposition, citation, and source-limitation facts."
+  },
+  "verification_notes": "Rechecked lines 1-5 and 9. Corrected first_summary's phrase 'ending the case' because the source does not state that no proceedings remained; changed it to the stated administrative ruling and added the express absence of a merits opinion and rationale.",
+  "repair_needed": false,
+  "repair_notes": ""
+}

@@ -1,0 +1,57 @@
+{
+  "case_id": "1983-01",
+  "title": "TE Robert L. Reymond et al. v. Illiana Presbytery",
+  "matter_type": "complaint",
+  "final_dispositions": [
+    "sustained",
+    "remanded"
+  ],
+  "disposition_detail": "Complaint sustained in all parts: Item 1 (failure to take appropriate BCO 34-7 action concerning a teaching elder) sustained; Item 2 (improper reduction of charges from original findings and the final Presbytery action) sustained. The case was sent back to Illiana Presbytery for a new trial. The recommendation was adopted, directing Presbytery to follow BCO disciplinary procedures because the record showed inconsistencies in applying BCO Part II.",
+  "first_summary": "A complaint challenged Illiana Presbytery's handling of a teaching elder: after he confessed adultery, Presbytery charged him only with ninth-commandment violations, admonished him, and required him to reconsider his call. The complaint alleged failure to follow BCO 34-7 and improper reduction of charges. The Commission sustained both complaint items and sent the case back for a new trial. It reasoned that confessed sins were not considered and the censure was not commensurate with the offenses charged, and directed BCO compliance.",
+  "summary": "A teaching elder confessed adultery, but Presbytery charged him only with ninth-commandment violations, admonished him, and required him to reconsider his call. The complaint alleged Presbytery failed to take BCO 34-7 action and improperly reduced the charges. The Commission sustained both items and remanded for a new trial, reasoning that the confessed sins were not considered and the censure was not commensurate with the offenses charged; it did not itself convict or sentence him. It adopted a recommendation directing Presbytery to follow BCO disciplinary procedures.",
+  "sources": [
+    {
+      "path": "cases/ga11_1983__case1.md",
+      "sha256": "09a9546360f091e03d30b689800a5f2ea6f37449946cd0c51663ddbed848c03a",
+      "locator": "lines 15–41",
+      "supports": "Complaint allegations against Illiana Presbytery concerning BCO 34-7, reduced charges, and final action."
+    },
+    {
+      "path": "cases/ga11_1983__case1.md",
+      "sha256": "09a9546360f091e03d30b689800a5f2ea6f37449946cd0c51663ddbed848c03a",
+      "locator": "lines 75–93",
+      "supports": "Adjudication: sustained complaint, sustained Items 1 and 2, remand for new trial, explanation, and adopted recommendation."
+    }
+  ],
+  "evidence_notes": {
+    "identity_and_adoption": "Source cases/ga11_1983__case1.md SHA256 09a9546360f091e03d30b689800a5f2ea6f37449946cd0c51663ddbed848c03a; header line 3 identifies Committee on Judicial Business (CJB), 11th Assembly (1983), disposition sustained in all parts; adjudication signed at line 95.",
+    "dispute": "Lines 15–41: complaint alleges Illiana Presbytery failed to take BCO 34-7 action and improperly reduced charges after defeating a motion to charge adultery; lines 49–65 state the teaching elder confessed adultery, was not charged with that offense, and was admonished plus required to reconsider his call.",
+    "outcomes_and_reasons": "Lines 75–83: complaint sustained in all its parts; Item 1 and Item 2 sustained; case sent back for a new trial. Lines 87–89: confessed sins were not considered, and the censure was not commensurate with the gravity of the offenses. Lines 91–93: recommendation adopted directing BCO disciplinary compliance.",
+    "qualifications": "Lines 75–93 are the adopted judgment, explanation, and recommendation. No separate opinion appears. Remand for new trial does not itself enter a guilt finding or impose censure; the adopted explanation notes record inconsistencies in applying BCO Part II.",
+    "incorporated_decisions": "None identified in the supplied source; the adjudication appears self-contained, with no incorporated decision or attachment relied on for the result."
+  },
+  "source_limits": "The excerpt contains the complaint and adjudication but not the full trial record, the text of BCO 34-7, or the outcome of the new trial. It reports no separate opinion.",
+  "benchmark_examples": [
+    "C01: complaint sustained in part with remand; preserve mixed procedural and substantive outcomes.",
+    "C02: investigation may be upheld while censure is annulled; distinguish investigative and judicial action."
+  ],
+  "scores": {
+    "concrete_dispute": 2,
+    "decision": 2,
+    "decisive_reason": 2,
+    "distinctive_value": 2,
+    "fidelity": 2,
+    "economy": 2
+  },
+  "score_reasons": {
+    "concrete_dispute": "Identifies the challenged Presbytery action: charging only ninth-commandment violations and imposing an allegedly inadequate admonition after a confessed adultery offense.",
+    "decision": "States both material complaint items were sustained and the case was remanded for a new trial; no material requested relief is misreported.",
+    "decisive_reason": "Gives the adopted reasons: confessed sins were not considered and the censure was not commensurate with the offenses charged.",
+    "distinctive_value": "Preserves the rule that a Presbytery must address confessed offenses and impose commensurate discipline, with remand for a new trial rather than direct conviction by the reviewing body.",
+    "fidelity": "Distinguishes the complaint allegations, Presbytery's factual findings, the adopted judgment, the explanation, and the recommendation; does not turn remand into reversal or acquittal.",
+    "economy": "Keeps only details necessary to explain the dispute, result, adopted reasons, and practical next step."
+  },
+  "verification_notes": "Rechecked the operative judgment at lines 75–83 and explanation/recommendation at lines 87–93. Confirmed final_dispositions are sustained and remanded, not reversed or vacated. Refined the summary to avoid implying the Commission itself convicted or sentenced the teaching elder, and to attribute the BCO-procedure direction to the adopted recommendation. Also confirmed the source reports no separate opinion or incorporated decision.",
+  "repair_needed": false,
+  "repair_notes": "No source or catalog defect identified."
+}

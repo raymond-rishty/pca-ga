@@ -1,0 +1,57 @@
+{
+  "case_id": "2005-09",
+  "title": "Kim v. Korean Eastern Presbytery",
+  "matter_type": "complaint",
+  "final_dispositions": [
+    "sustained",
+    "moot"
+  ],
+  "disposition_detail": "The SJC answered both issues yes, holding that Korean Eastern Presbytery erred in denying Kim’s complaints. It granted no remedy because Kim’s deposition in Case 2005-8 made further action moot; the Presbytery’s errors did not justify his refusal to obey its directives.",
+  "first_summary": "A minister challenged Presbytery’s handling of a congregational petition and its Administrative Commission’s resulting actions. The SJC sustained his complaint, holding that the petition should first have gone to the Session and that the Commission improperly exercised judicial authority. Nevertheless, those errors did not justify his refusal to obey Presbytery. Because he had since been deposed in Case 2005-8, the SJC deemed further action moot and provided no remedy.",
+  "summary": "A minister challenged Presbytery’s denial of his complaints concerning a congregational petition and an Administrative Commission’s actions. The SJC sustained both issues: the petition should first have gone to the Session, and Presbytery and its Commission committed additional constitutional errors. Those errors did not excuse his refusal to obey Presbytery, however. Because he had been deposed in Case 2005-8, further action was moot; the SJC granted no remedy, vacatur, or remand.",
+  "sources": [
+    {
+      "path": "cases/ga34_2006__2005-09.md",
+      "sha256": "8d36d9945ae483e25bc871058666ed50407f5076ce2830128421315a70f814ad",
+      "locator": "lines 13–78, printed pp. 139–141",
+      "supports": "Case identity, facts, issues, operative judgments, adopted reasoning, and absence of relief."
+    },
+    {
+      "path": "cases/ga34_2006__2005-09.md",
+      "sha256": "8d36d9945ae483e25bc871058666ed50407f5076ce2830128421315a70f814ad",
+      "locator": "lines 88–225, printed pp. 142–148",
+      "supports": "Adoption vote and the distinct concurring and dissenting opinions."
+    }
+  ],
+  "evidence_notes": {
+    "identity_and_adoption": "The caption identifies Case 2005-9 as Kim’s complaint against Korean Eastern Presbytery; the full SJC authored the judgment and reasoning, adopted 17-1 (lines 13, 78–88; printed pp. 139, 141–142).",
+    "dispute": "Kim challenged Presbytery’s denial of complaints arising from its treatment of a congregational petition and its Administrative Commission’s intervention (lines 17–46; printed pp. 139–140).",
+    "outcomes_and_reasons": "Both issues were answered yes. The petition bypassed the Session, and the Commission and Presbytery committed enumerated constitutional errors; nevertheless, disobedience was not justified and deposition made further relief moot (lines 48–76; printed pp. 140–141).",
+    "qualifications": "A concurrence offered different constitutional reasoning, while a dissent disputed the denial of relief and characterized the process more broadly as unlawful; neither replaces the adopted majority reasoning (lines 90–225; printed pp. 142–148).",
+    "incorporated_decisions": "Case 2005-8 is referenced only for the supplied fact that Kim had been deposed, which the majority treated as making further action moot (lines 50, 76; printed pp. 140–141)."
+  },
+  "source_limits": "The source does not reproduce Case 2005-8, so no grounds or details of that deposition are inferred beyond the fact expressly stated here.",
+  "benchmark_examples": [
+    "A01",
+    "A03"
+  ],
+  "scores": {
+    "concrete_dispute": 2,
+    "decision": 2,
+    "decisive_reason": 2,
+    "distinctive_value": 2,
+    "fidelity": 2,
+    "economy": 2
+  },
+  "score_reasons": {
+    "concrete_dispute": "Identifies the challenged complaint denials, petition procedure, and Commission conduct.",
+    "decision": "States both sustained issues, mootness, and the refusal of any remedy.",
+    "decisive_reason": "Explains the required initial filing with the Session, constitutional errors, and deposition-based mootness.",
+    "distinctive_value": "Preserves the distinction between finding Presbytery in error and treating disobedience as justified or granting relief.",
+    "fidelity": "Attributes only the adopted judgment to the SJC majority and keeps separate opinions distinct.",
+    "economy": "Each detail explains the dispute, ruling, governing distinction, or practical result."
+  },
+  "verification_notes": "Rechecked the operative judgments at lines 48–52 and majority reasoning at lines 54–76. The final summary clarifies that both issues were sustained, that mootness concerned further action, and that the SJC ordered no vacatur or remand; it does not adopt the concurrence’s or dissent’s reasoning.",
+  "repair_needed": false,
+  "repair_notes": ""
+}

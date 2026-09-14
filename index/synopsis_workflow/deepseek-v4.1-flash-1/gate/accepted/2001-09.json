@@ -1,0 +1,50 @@
+{
+  "case_id": "2001-09",
+  "title": "Appeal of RE Charles Kim v. Korean Capital Presbytery",
+  "matter_type": "appeal",
+  "final_dispositions": [
+    "reversed"
+  ],
+  "disposition_detail": "Issue: Whether Korean Capital Presbytery or its January 8, 2001 Special Judicial Commission was the proper court to assume original jurisdiction over charges against the appellant. Held: No; original jurisdiction lay with the Session. The Presbytery's and Commission's actions in the matter were reversed. The reversal did not adjudicate the merits of the schism and contumacy charges.",
+  "first_summary": "On appeal from an excommunication, the SJC reversed because Korean Capital Presbytery and its special judicial commission were not the proper court of original jurisdiction over charges against a communicant member. Original jurisdiction belonged to the local Session. The SJC reversed the excommunication.",
+  "summary": "On appeal from an excommunication, the SJC held that Korean Capital Presbytery and its special judicial commission were not the proper court of original jurisdiction to adjudicate charges against a communicant member. Because original jurisdiction belonged to the local session, the Presbytery/commission proceedings against the member were unconstitutional and reversed. The ruling turned only on jurisdiction; it did not decide the truth of the schism and contumacy charges. The excommunication therefore could not stand on that record.",
+  "sources": [
+    {
+      "path": "cases/ga30_2002__2001-09.md",
+      "sha256": "843272dfb97bb2b0e2ff6595af46708eb6d209c0203d8fcebbabb04ec396422e",
+      "locator": "lines 14–63 (printed pp. 137–139); judgment at lines 40–46; reasoning at lines 48–57; vote at lines 61–63",
+      "supports": "Canonical case ID/title, SJC adoption, issue, judgment, reasoning, and roll call vote."
+    }
+  ],
+  "evidence_notes": {
+    "identity_and_adoption": "Case 2001-9, Appeal of RE Charles Kim v. Korean Capital Presbytery; SJC for the 30th General Assembly (2002), adopted by 17 concurrences, 0 dissents, 1 recused, 1 disqualified, 5 absent: cases/ga30_2002__2001-09.md (sha256 843272dfb97bb2b0e2ff6595af46708eb6d209c0203d8fcebbabb04ec396422e), lines 1, 14, 44–46, 59–63.",
+    "dispute": "Same source, lines 18–32: KCP suspended the KPCW session and appointed a commission; Kim was charged with participating in an unconstitutional meeting; the commission found him guilty of schism and contumacy and excommunicated him; KCP approved; Kim appealed.",
+    "outcomes_and_reasons": "Same source, lines 40–57: issue framed; held that Presbytery and its Special Judicial Commission were not the proper court of original jurisdiction; original jurisdiction over communicant members belonged to the Session; the lower actions in the matter were reversed.",
+    "qualifications": "Same source, lines 48–59, 61–63: the ruling is jurisdictional only; it made no merits finding on schism or contumacy and ordered no remand; the record notes panel roles in preparing facts, issue/judgment, and reasoning, with no separate opinion and no dissent.",
+    "incorporated_decisions": "Same source, lines 1–67: no incorporated decision by reference appears in the supplied source."
+  },
+  "source_limits": "The supplied source is the SJC's adopted case report. It does not include the full lower-court record, the 16 petitions and charges, the evidence received by the commission, or any later proceedings. It contains no merits finding on the schism and contumacy charges.",
+  "benchmark_examples": [
+    "A01 (2007-16: separate conviction, censure, dissolution, and suspension; mixed relief).",
+    "A19 (2011-13: conditional dismissal and separate request for a response; preserve procedural posture)."
+  ],
+  "scores": {
+    "concrete_dispute": 2,
+    "decision": 2,
+    "decisive_reason": 2,
+    "distinctive_value": 2,
+    "fidelity": 2,
+    "economy": 2
+  },
+  "score_reasons": {
+    "concrete_dispute": "Identifies the challenged action: KCP and its commission adjudicating charges and excommunicating Kim without original jurisdiction.",
+    "decision": "States the SJC's disposition: answer No to the jurisdictional issue and reversal of the Presbytery/Commission actions in the matter.",
+    "decisive_reason": "Explains the adopted reason: original jurisdiction over communicant members belongs to the local Session.",
+    "distinctive_value": "Preserves the jurisdictional limit and the qualification that reversal did not decide the merits of the underlying charges.",
+    "fidelity": "Keeps the adopted judgment and reasoning distinct from the factual history and party/commission actions; no separate opinion is attributed.",
+    "economy": "Uses only details needed to explain the dispute, the jurisdictional ruling, the relief, and its limitation."
+  },
+  "verification_notes": "Rechecked the operative judgment at lines 44–46, the reasoning at lines 48–57, and the roll call at lines 61–63. Corrected first_summary's loose statement that the SJC 'reversed the excommunication' to the source's broader phrase that the Presbytery/Commission actions in the matter were reversed, and added the no-merits qualification. Confirmed matter_type appeal, final disposition reversed only, and no incorporated decision supplied.",
+  "repair_needed": false,
+  "repair_notes": "No source or catalog defect identified."
+}

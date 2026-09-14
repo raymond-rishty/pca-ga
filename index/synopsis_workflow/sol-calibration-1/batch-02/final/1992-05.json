@@ -1,0 +1,56 @@
+{
+  "case_id": "1992-05",
+  "title": "Charles \u201cGene\u201d Parks Jr. et al. v. Central Carolina Presbytery",
+  "matter_type": "complaint",
+  "final_dispositions": [
+    "denied"
+  ],
+  "disposition_detail": "The SJC denied all four complaint items concerning multiple elder resignations, pastoral severance and benefits, a plan involving about twelve months with an interim pastor, and contemplated revision of local bylaws. The Assembly adopted the judgment; a procedural dissent did not alter it.",
+  "first_summary": "Complainants challenged a Session plan under which most elders voluntarily resigned, the Session granted severance and benefits to its former pastor, proposed about a year with an interim pastor before a permanent call, and contemplated revising local bylaws. The SJC denied all four items. It held that the BCO permitted jointly considered voluntary resignations, that severance concerned resignation and the budget rather than a pastoral call, and that the plan and bylaw proposal were not themselves unconstitutional. Any later call still had to follow the BCO without undue delay, and local bylaws had to remain consistent with it.",
+  "summary": "Complainants challenged a Session plan under which most elders voluntarily resigned, the Session granted severance and benefits to its former pastor, proposed about a year with an interim pastor before a permanent call, and contemplated revising local bylaws. The SJC denied all four items. It held that the BCO permitted jointly considered voluntary resignations, that severance concerned resignation and the budget rather than a pastoral call, and that the plan and bylaw proposal were not themselves unconstitutional. Any later call still had to follow the BCO without undue delay, and local bylaws had to remain consistent with it.",
+  "sources": [
+    {
+      "path": "cases/ga21_1993__1992-05.md",
+      "sha256": "133100f5082ddf4f5704ab19f7b0e92ed85fb523823297084af8b68848c5045f",
+      "locator": "original lines 14-86 (printed pp. 210-212)",
+      "supports": "Docket, dispute, four judgments and reasons, limitations on the pastoral plan and bylaws, SJC vote, inquiry denial, and dissent boundary."
+    },
+    {
+      "path": "markdown/ga21_1993.md",
+      "sha256": "a663dc3cf6aeaf1f2ba6b7dffea59719b10610c7f32a498206c2e985439d5383",
+      "locator": "lines 5950-5957 (printed p. 210)",
+      "supports": "Assembly adoption, full Parks caption, and SJC Docket 92-5 identity omitted from the extracted case body's preserved source block."
+    }
+  ],
+  "evidence_notes": {
+    "identity_and_adoption": "Minutes lines 5953-5957 identify Charles \u201cGene\u201d Parks Jr. et al. v. Central Carolina Presbytery as SJC Docket 92-5 and record Assembly adoption. Original case lines 64-66 identify the signed decision and SJC approval by 23 concurring votes.",
+    "dispute": "Original lines 18-38 identify four challenges: coordinated elder resignations, severance and insurance benefits, a plan for about twelve months before a permanent call, and contemplated bylaw revision.",
+    "outcomes_and_reasons": "Original lines 40-62 deny all four items. Multiple resignations were compatible with BCO 24-6 when a Session deliberated together; severance followed resignation and fell within budget authority; the plan did not itself call a pastor and permissibly contemplated interim stated supply; local bylaws were envisioned by the BCO and no intended conflict appeared.",
+    "qualifications": "Original line 56 requires any actual pastoral call to comply with BCO 20-2 without undue delay and limits stated supply to a year unless renewed at the Session's request and Presbytery's review. Lines 58-62 rest the bylaw result on no indicated intent to conflict with the BCO. Lines 68-72 record denial of a constitutional inquiry; lines 74-86 are a dissent about adjudicative procedure, not adopted reasoning.",
+    "incorporated_decisions": "Not applicable; the SJC decision supplies its own four judgments and reasons. The Assembly's adoption in the Minutes incorporates this same judgment rather than a different docket's decision."
+  },
+  "source_limits": "Complete reasoned SJC decision and Assembly adoption are available. The preserved case block omits the caption and Assembly-adoption sentence found immediately before it in the full Minutes, so the Minutes context supplies identity. The official roster separately contains an erroneous duplicate 1992-05 entry for Gunter and Monroe, but the Minutes resolve this decision as Parks.",
+  "benchmark_examples": [
+    "C12",
+    "C17"
+  ],
+  "scores": {
+    "concrete_dispute": 2,
+    "decision": 2,
+    "decisive_reason": 2,
+    "distinctive_value": 2,
+    "fidelity": 2,
+    "economy": 2
+  },
+  "score_reasons": {
+    "concrete_dispute": "Names all four challenged components of the Session plan.",
+    "decision": "States that every complaint item was denied.",
+    "decisive_reason": "Condenses the distinct constitutional reason for each issue.",
+    "distinctive_value": "Preserves the decision's difference between adopting a plan and later executing a pastoral call, plus the bylaw limitation.",
+    "fidelity": "Separates adopted reasoning from the later inquiry and procedural dissent.",
+    "economy": "The extra length is warranted by four independently reasoned issues and two material qualifications."
+  },
+  "verification_notes": "Separate same-reviewer pass reopened original lines 40-86 and Minutes lines 5953-5957. Summary sentence 1 maps to the four issues at original lines 30-38; sentence 2 maps to four denials at lines 42-48; sentences 3-4 map to the distinct reasons and qualifications at lines 52-62. No synopsis wording changed. The final title restores the source's quoted nickname from the Assembly-adoption line. The pass confirmed that the constitutional inquiry was separately denied and the dissent's procedural objections were not adopted reasoning.",
+  "repair_needed": true,
+  "repair_notes": "The official roster has two distinct captions at lines 89-90 assigned to 1992-05. Minutes lines 5953-5957 establish this decision as Parks; the duplicate Gunter and Monroe row requires separate catalog repair but does not block this synopsis."
+}

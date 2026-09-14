@@ -1,0 +1,50 @@
+{
+  "case_id": "1995-11",
+  "title": "James Landrum, et al. vs. Mississippi Valley Presbytery",
+  "matter_type": "complaint",
+  "final_dispositions": [
+    "sustained",
+    "not_sustained"
+  ],
+  "disposition_detail": "Issue A was sustained 3-0: Presbytery erred by failing to recognize and note Blaha’s views as constitutional exceptions. Issue B was not sustained 2-1: Presbytery did not err by approving his theological examination. The SJC expressly declined reexamination or remand.",
+  "first_summary": "Complainants challenged Mississippi Valley Presbytery’s approval of James Blaha’s ordination examination because of his views on tongues and prophecy. The SJC held that Presbytery should have recognized and noted those views as constitutional exceptions, but upheld the examination because the complainants had not proved that Presbytery crossed the limits established by prior Assembly guidance. The majority deferred to Presbytery’s judgment on this unsettled issue.",
+  "summary": "Complainants challenged Mississippi Valley Presbytery’s approval of James Blaha’s ordination examination, arguing that his views on tongues and prophecy were constitutional exceptions and precluded approval. The SJC agreed that Presbytery should have acknowledged and noted the exceptions, but upheld the examination. It found no proof that Blaha’s denial that the gifts conveyed revelation crossed prior Assembly limits and deferred to Presbytery on an unsettled issue. It expressly declined reexamination or remand; a substantial partial dissent would have set the examination aside.",
+  "sources": [
+    {
+      "path": "cases/ga25_1997__1995-11.md",
+      "sha256": "8584d90afeb647d354ef6c2aa790294aa72c80c24b809018aca4856e760ec125",
+      "locator": "lines 14–16, 34–70, 74–177, 185–201; printed pp. 81–87",
+      "supports": "Case identity, issues, mixed judgment, adopted reasoning, refusal to remand, approval vote, and partial dissent."
+    }
+  ],
+  "evidence_notes": {
+    "identity_and_adoption": "The heading identifies Case 95-11 and the parties (lines 14–16). The SJC approved the proposed decision 11-7 on March 8, 1997 (lines 185–191; printed p. 86).",
+    "dispute": "The complaint challenged Presbytery’s failure to note exceptions and its approval of Blaha’s examination despite his views on tongues and prophecy (lines 20–38; printed pp. 81–82).",
+    "outcomes_and_reasons": "Issue A was answered yes and Issue B no (lines 42–59). The majority emphasized the complainants’ burden, prior Assembly boundaries, and deference on unsettled issues (lines 61–171), and refused reexamination or remand (lines 173–177).",
+    "qualifications": "The decision was closely approved and accompanied by an eight-member partial concurrence and dissent seeking vacatur, reexamination, and remand (lines 189–201, 302–306; printed pp. 86–91). Those remedies were not adopted.",
+    "incorporated_decisions": "No other decision was incorporated as the operative judgment. The majority discussed earlier Bogue, Gentry, Rayburn, Serio, Hopper, and Gunter decisions as guidance (lines 74–170; printed pp. 82–85)."
+  },
+  "source_limits": "The supplied source contains the adopted decision and dissent but not the underlying record of the case beyond quotations and summaries included in those opinions.",
+  "benchmark_examples": [
+    "C01"
+  ],
+  "scores": {
+    "concrete_dispute": 2,
+    "decision": 2,
+    "decisive_reason": 2,
+    "distinctive_value": 2,
+    "fidelity": 2,
+    "economy": 2
+  },
+  "score_reasons": {
+    "concrete_dispute": "Identifies both challenged actions and the disputed theological views.",
+    "decision": "States the successful noting issue, unsuccessful examination challenge, and refusal to remand.",
+    "decisive_reason": "Explains the burden-of-proof, prior-guidance, and deference grounds adopted by the majority.",
+    "distinctive_value": "Preserves the distinction between recognizing an exception and permitting Presbytery to accept it.",
+    "fidelity": "Separates the adopted majority decision from the dissent’s proposed relief.",
+    "economy": "Retains only details needed to explain the mixed result and its limitation."
+  },
+  "verification_notes": "Rechecked the issue-by-issue judgment at lines 34–47, the majority’s conclusion at lines 158–177, and the approval and dissent at lines 185–201. The final summary adds the express refusal of reexamination or remand and identifies the proposed set-aside remedy as dissenting rather than operative.",
+  "repair_needed": false,
+  "repair_notes": ""
+}

@@ -1,0 +1,51 @@
+{
+  "case_id": "2001-16",
+  "title": "Appeal of RE Joo Bok Suh vs. Korean Capital Presbytery",
+  "matter_type": "appeal",
+  "final_dispositions": [
+    "sustained",
+    "reversed"
+  ],
+  "disposition_detail": "Appeal sustained. The SJC answered the sole issue “No”: neither Korean Capital Presbytery nor its January 8, 2001 Special Judicial Commission was the proper court to assume original jurisdiction over the charges against RE Joo Bok Suh; the Presbytery’s and/or commission’s actions in the matter were reversed. No merits ruling on contumacy or false statement and no acquittal. RE Howard Donahoe dissented; adoption roll call was 16 concurred, 1 dissented, 1 recused, 1 disqualified, 5 absent.",
+  "first_summary": "The SJC sustained RE Joo Bok Suh's appeal from Korean Capital Presbytery's excommunication because the Presbytery's special judicial commission, not his local session, handled the charges. It reversed the Presbytery and commission action. It did not decide the underlying charges on the merits.",
+  "summary": "In this SJC appeal, RE Joo Bok Suh challenged Korean Capital Presbytery's excommunication after its special judicial commission, rather than his local session, received and adjudicated charges that he had committed contumacy and made a false statement in a civil-court filing. The SJC sustained the appeal and reversed the Presbytery/commission action because the court of original jurisdiction over a communicant member is the local session. The reversal was jurisdictional; the SJC did not rule on the truth of the charges, so it was not an acquittal.",
+  "sources": [
+    {
+      "path": "cases/ga30_2002__2001-16.md",
+      "sha256": "716176734acd0a1c5b6bcaf2b85610209ca9419aae338e32395cfef273a8183c",
+      "locator": "lines 1–68; printed pp. 147–149, especially lines 1–5, 44–50, 54–64, 66–68",
+      "supports": "Identity, procedural history, issue, adopted judgment, reasoning, vote, and adoption of the SJC decision."
+    }
+  ],
+  "evidence_notes": {
+    "identity_and_adoption": "Case 2001-16, Appeal of RE Joo Bok Suh vs. Korean Capital Presbytery, SJC, 30th GA (2002); source lines 1–5, 40, 66–68. The issue and judgment were adopted by a five-member panel; the reasoning was written by TE Jim Smith with concurrences; the roll call shows adoption with 16 concurred, 1 dissented, 1 recused, 1 disqualified, 5 absent.",
+    "dispute": "Lines 18–38: after turmoil in Korean Presbyterian Church Washington, Korean Capital Presbytery suspended the session and appointed a commission; a commission later received charges that RE Suh and others had improperly replaced/registered church trustees and that Suh made a false statement in a civil-court filing. The commission found Suh guilty of contumacy and false statement, excommunicated him, and Presbytery approved; Suh appealed.",
+    "outcomes_and_reasons": "Lines 44–64: the sole issue was whether Presbytery and/or its January 8, 2001 Special Judicial Commission was the proper court to assume original jurisdiction over the charges. The SJC held no, because the court of original jurisdiction for a communicant member is the local session; therefore the Presbytery/commission actions were contrary to constitutional standards and reversed.",
+    "qualifications": "Lines 48–64: reversal rested on lack of original jurisdiction, not on the merits of contumacy or false statement; the decision is not an acquittal. Lines 66–68 record the concurrences, RE Howard Donahoe’s dissent, and the roll-call absences/recusal/disqualification.",
+    "incorporated_decisions": "None; no separate incorporated decision is cited or adopted by reference. The SJC adopted its own issue, judgment, and reasoning at lines 44–64."
+  },
+  "source_limits": "Moderate but limited record: the source supplies facts, issue, judgment, reasoning, and roll call, but no full dissent opinion, no merits record, and no later proceedings.",
+  "benchmark_examples": [
+    "A01: mixed or partial relief; preserve what was and was not decided.",
+    "A19: procedural posture and conditional relief contrast; not applicable here because this appeal was decided on jurisdiction."
+  ],
+  "scores": {
+    "concrete_dispute": 2,
+    "decision": 2,
+    "decisive_reason": 2,
+    "distinctive_value": 2,
+    "fidelity": 2,
+    "economy": 2
+  },
+  "score_reasons": {
+    "concrete_dispute": "Identifies the challenged action: Presbytery/commission handling of charges and excommunication despite local-session original jurisdiction.",
+    "decision": "States the sustained appeal and reversal of the Presbytery/commission action, plus the dissent and no merits ruling.",
+    "decisive_reason": "Explains the adopted rule that the local session is the court of original jurisdiction for a communicant member, making the Presbytery/commission action unconstitutional.",
+    "distinctive_value": "Preserves the jurisdictional reversal and the limit that reversal did not decide the underlying charges or acquit Suh.",
+    "fidelity": "Keeps the SJC’s adopted judgment and reasoning distinct from lower-court actions, the dissent, and the roll-call details.",
+    "economy": "The summary is about 86 words and omits nonessential background while retaining issue, rule, result, and no-merits qualification."
+  },
+  "verification_notes": "Reread lines 44–64 and corrected the draft to avoid suggesting the SJC made a merits finding or acquitted Suh; the judgment is expressly jurisdictional and reverses the Presbytery/commission action. Rechecked line 66–68 to distinguish the panel’s adopted issue/judgment and reasoning from the full roll-call vote and dissent. Confirmed no incorporated decision and no later proceedings appear in the source.",
+  "repair_needed": false,
+  "repair_notes": "None."
+}

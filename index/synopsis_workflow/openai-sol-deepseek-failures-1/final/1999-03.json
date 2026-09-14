@@ -1,0 +1,49 @@
+{
+  "case_id": "1999-03",
+  "title": "Appeal of Gatis v. Northeast",
+  "matter_type": "appeal",
+  "final_dispositions": [
+    "withdrawn"
+  ],
+  "disposition_detail": "The full SJC approved the appellant’s request to withdraw Case 99-3. The SJC separately considered Adams’s related complaint out of order under BCO 43-1; that ruling did not dispose of the withdrawn appeal.",
+  "first_summary": "A minister appealed an unidentified Presbytery judgment but later requested withdrawal. The full SJC approved the request, ending the appeal without a merits decision. A related complaint was held out of order under BCO 43-1.",
+  "summary": "A minister appealed an unidentified Presbytery judgment, then requested withdrawal. The full SJC approved the request, ending Case 99-3 without a merits decision. The source also records that Adams’s related complaint was considered out of order under BCO 43-1, but that complaint was distinct from the withdrawn appeal.",
+  "sources": [
+    {
+      "path": "cases/ga29_2001__stub_1999-03.md",
+      "sha256": "ddbbb3c7dff2d7f582c9299c4fc20b5b286e01770f36ec11f8cd12ae2ae3139e",
+      "locator": "lines 1–11, especially 3–5 and 9",
+      "supports": "Case identity, absence of a merits opinion, approval of the appeal’s withdrawal, and disposition of the related complaint."
+    }
+  ],
+  "evidence_notes": {
+    "identity_and_adoption": "The heading identifies Case 1999-03 as “Appeal of Gatis v. Northeast”; the full SJC approved withdrawal. Lines 1, 9.",
+    "dispute": "The source says a minister appealed a judgment but does not identify the judgment or substantive dispute. Line 9.",
+    "outcomes_and_reasons": "The full SJC approved the withdrawal request; no reason is stated. Adams’s separate complaint was considered out of order under BCO 43-1. Line 9.",
+    "qualifications": "No separate merits opinion was published, and the appeal’s underlying judgment is not described. Lines 5, 9.",
+    "incorporated_decisions": "No decision is incorporated by reference."
+  },
+  "source_limits": "The stub begins mid-narrative and omits the challenged judgment and substantive grounds of appeal, permitting only a procedural-status synopsis.",
+  "benchmark_examples": [
+    "A20"
+  ],
+  "scores": {
+    "concrete_dispute": 0,
+    "decision": 2,
+    "decisive_reason": 2,
+    "distinctive_value": 1,
+    "fidelity": 2,
+    "economy": 2
+  },
+  "score_reasons": {
+    "concrete_dispute": "The source does not identify the underlying dispute.",
+    "decision": "The synopsis states withdrawal of the appeal and separately identifies the complaint ruling.",
+    "decisive_reason": "It accurately states that no reason for approving withdrawal is supplied.",
+    "distinctive_value": "It preserves the distinction between the withdrawn appeal and the related out-of-order complaint.",
+    "fidelity": "It does not attribute the complaint’s disposition to the appeal or invent merits findings.",
+    "economy": "Only facts needed to explain the procedural result and limitation are retained."
+  },
+  "verification_notes": "Rechecked line 9 to distinguish Case 99-3 from Adams’s related complaint and corrected the summary so the complaint’s out-of-order ruling is not treated as the appeal’s disposition; also confirmed lines 3–5 report no merits opinion.",
+  "repair_needed": true,
+  "repair_notes": "The stub’s metadata labels the appeal “Out of Order,” but line 9 states that the full SJC approved withdrawal of Case 99-3 and treated a separate complaint as out of order. The omitted preceding text also prevents identification of the appealed judgment."
+}

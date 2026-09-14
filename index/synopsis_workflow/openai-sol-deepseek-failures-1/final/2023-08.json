@@ -1,0 +1,64 @@
+{
+  "case_id": "2023-08",
+  "title": "Knox Baird et al. v. Grace Presbytery",
+  "matter_type": "complaint",
+  "final_dispositions": [
+    "partially_sustained",
+    "vacated",
+    "denied",
+    "annulled"
+  ],
+  "disposition_detail": "Complaints sustained on Issues 1–2 and 4; sustained in part on Issue 3, with the overbroad document directive vacated; denied on Issue 5; sustained on Issue 6, with the trial stay annulled; Issue 7 was not reached. Session trials were to proceed.",
+  "first_summary": "Session elders challenged Presbytery’s handling of a mediation complaint, its document and congregational-notice directives, its review of BCO 40-5 reports, and its stay of Session trials. The SJC sustained the complaints in the main, vacated the document directive, upheld appointment of a review committee, and annulled the stay because Presbytery had not first cited the Session.",
+  "summary": "Session elders challenged Presbytery’s handling of a withdrawn mediation complaint, document and congregational-notice directives, BCO 40-5 reports, and a stay of Session trials. The SJC sustained the complaints in the main: the mediation complaint was never formally filed and became moot; Presbytery could require official record materials but not compel personal communications or force the Session to address its congregation; and the stay lacked a prior BCO 40-5 citation. It upheld appointing a committee to examine the reports, did not reach alleged partiality, vacated the overbroad directive, annulled the stay, and returned the trials to Session.",
+  "sources": [
+    {
+      "path": "cases/ga51_2024__2023-06_2023-08.md",
+      "sha256": "8b72317ddc66289d5d5ccae8c42fe5d66c5f666a63870470fb7be39a31e58782",
+      "locator": "lines 9–17, 406; printed pp. 789, 805",
+      "supports": "Combined case identity, complaint posture, and unanimous SJC adoption."
+    },
+    {
+      "path": "cases/ga51_2024__2023-06_2023-08.md",
+      "sha256": "8b72317ddc66289d5d5ccae8c42fe5d66c5f666a63870470fb7be39a31e58782",
+      "locator": "lines 139–181, 214–324; printed pp. 795–802",
+      "supports": "Issues, judgments, moot mediation complaint, and limits on document demands."
+    },
+    {
+      "path": "cases/ga51_2024__2023-06_2023-08.md",
+      "sha256": "8b72317ddc66289d5d5ccae8c42fe5d66c5f666a63870470fb7be39a31e58782",
+      "locator": "lines 326–404; printed pp. 802–805",
+      "supports": "Congregational-notice ruling, proper committee appointment, annulled stay, and continuation of trials."
+    }
+  ],
+  "evidence_notes": {
+    "identity_and_adoption": "Case Nos. 2023-06 and 2023-08 were jointly decided as Baird et al. v. Grace Presbytery; the SJC adopted the decision 17-0 (lines 9–17, 406).",
+    "dispute": "Seven issues challenged the Blue Hen complaint proceedings, information and notice directives, committee appointment, and trial stay (lines 139–157; printed pp. 795–796).",
+    "outcomes_and_reasons": "Issue-level judgments appear at lines 158–166; operative reasons and relief appear at lines 179–181, 214–324, and 326–404.",
+    "qualifications": "Official records could be required, but extra personal correspondence could only be requested, not compelled; use of communications obtained by a prosecutor was not decided. Partiality was not reached (lines 243–324, 396–404). The concurrence addressed unredacted language in a brief, not the merits (lines 423–446).",
+    "incorporated_decisions": "No external decision was incorporated by reference."
+  },
+  "source_limits": "The supplied source is a combined decision for Cases 2023-06 and 2023-08. No external authorities were used as case-specific evidence.",
+  "benchmark_examples": [
+    "C02"
+  ],
+  "scores": {
+    "concrete_dispute": 2,
+    "decision": 2,
+    "decisive_reason": 2,
+    "distinctive_value": 2,
+    "fidelity": 2,
+    "economy": 2
+  },
+  "score_reasons": {
+    "concrete_dispute": "Identifies each principal Presbytery action challenged.",
+    "decision": "Preserves sustained, partial, denied, vacated, annulled, and unaddressed issues.",
+    "decisive_reason": "States mootness, limits on compulsion, and the missing BCO 40-5 citation.",
+    "distinctive_value": "Distinguishes official records from personal correspondence and examination of reports from intervention.",
+    "fidelity": "Separates the adopted judgment, unreviewed partiality claim, and concurrence.",
+    "economy": "Retains only details needed to understand the mixed result and next step."
+  },
+  "verification_notes": "Rechecked all seven judgments and operative relief. The final summary clarifies that official-record requests were proper despite vacatur of the overbroad directive, that committee appointment was upheld, and that Issue 7 was not reached.",
+  "repair_needed": false,
+  "repair_notes": "No material source or catalog defect requires repair."
+}

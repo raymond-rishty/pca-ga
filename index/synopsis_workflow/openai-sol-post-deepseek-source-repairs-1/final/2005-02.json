@@ -1,0 +1,49 @@
+{
+  "case_id": "2005-02",
+  "title": "Complaint of RE Hugo Andrino v. Southern Florida Presbytery",
+  "matter_type": "complaint",
+  "final_dispositions": [
+    "out_of_order"
+  ],
+  "disposition_detail": "The complaint was found out of order. The record does not identify an administrative or judicial subtype, provide reasons, or report further proceedings.",
+  "first_summary": "RE Hugo Andrino’s complaint against Southern Florida Presbytery was found out of order. The published record does not describe the challenged action, explain the ruling, or report a merits determination or further proceedings.",
+  "summary": "The SJC found RE Hugo Andrino’s complaint against Southern Florida Presbytery out of order. The published record neither identifies the challenged action nor explains the ruling, and it reports no merits determination or further proceedings.",
+  "sources": [
+    {
+      "path": "cases/ga34_2006__stub_2005-02.md",
+      "sha256": "53c3eeab9cca2715fd142c28f680c65cd20e709a5a13cfdca3984f0e80dcd7ad",
+      "locator": "lines 1–7, 11–13",
+      "supports": "Case identity, court, procedural classification, out-of-order disposition, and absence of a separate merits opinion."
+    }
+  ],
+  "evidence_notes": {
+    "identity_and_adoption": "The heading identifies case 2005-02 and the parties; the metadata names the SJC, and the report lists the matter among cases before the Commission (lines 1–3, 11–13).",
+    "dispute": "The source identifies only a complaint against Southern Florida Presbytery; it does not describe the challenged action (lines 1, 13).",
+    "outcomes_and_reasons": "Case 2005-02 was found out of order, without a stated subtype or rationale (line 13).",
+    "qualifications": "No separate merits opinion was published, and the record supplies no further proceedings (line 7; lines 11–13).",
+    "incorporated_decisions": "No incorporated decision is identified (lines 1–13)."
+  },
+  "source_limits": "The source is a short annual-report entry. It provides the procedural disposition but no allegations, reasoning, relief analysis, or merits opinion.",
+  "benchmark_examples": [
+    "C20"
+  ],
+  "scores": {
+    "concrete_dispute": 1,
+    "decision": 2,
+    "decisive_reason": 2,
+    "distinctive_value": 2,
+    "fidelity": 2,
+    "economy": 2
+  },
+  "score_reasons": {
+    "concrete_dispute": "Identifies the complaint and respondent, but the source does not disclose the challenged conduct.",
+    "decision": "States the sole reported disposition and does not infer a merits result.",
+    "decisive_reason": "Faithfully states that no reason was published.",
+    "distinctive_value": "Preserves the important limitation that this was an unexplained procedural disposition.",
+    "fidelity": "Distinguishes the reported ruling from any unreported merits determination or rationale.",
+    "economy": "Includes only identity, disposition, and source limitations."
+  },
+  "verification_notes": "Rechecked line 13 for the exact case number and out-of-order result; confirmed that the source gives no subtype, rationale, merits ruling, or further proceedings. The final summary expressly attributes the ruling to the SJC and avoids implying dismissal.",
+  "repair_needed": false,
+  "repair_notes": ""
+}

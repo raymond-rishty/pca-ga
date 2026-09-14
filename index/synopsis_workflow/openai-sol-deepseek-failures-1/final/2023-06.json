@@ -1,0 +1,71 @@
+{
+  "case_id": "2023-06",
+  "title": "Knox Baird et al. v. Grace Presbytery",
+  "matter_type": "complaint",
+  "final_dispositions": [
+    "partially_sustained",
+    "denied",
+    "vacated",
+    "annulled"
+  ],
+  "disposition_detail": "The jointly decided complaints in Cases 2023-06 and 2023-08 were sustained on Issues 1 and 2, sustained in part on Issue 3, sustained on Issue 4, denied on Issue 5, and sustained on Issue 6; Issue 7 was not reached. The directive for additional personal communications was vacated, the trial stay was annulled, and the Session trials were to proceed.",
+  "first_summary": "Session elders challenged Presbytery’s handling of a moot mediation complaint, document and congregational-notice directives, BCO 40-5 reports, and a stay of pending trials. The SJC sustained the complaints in the main, holding that the mediation complaint was never formally filed and became moot, Presbytery could not compel personal communications or require the Session to address the congregation, and the stay lacked the required prior citation. It denied the challenge to assigning the BCO 40-5 reports to a committee and did not reach alleged partiality.",
+  "summary": "Session elders challenged Presbytery’s handling of a mediation complaint, investigative directives, BCO 40-5 reports, and a trial stay. The SJC held that the mediation complaint was never formally filed and became moot; official-record requests were proper, but compelling nonrecord personal communications and requiring the Session to address its congregation exceeded Presbytery’s authority. It vacated the communications directive and annulled the stay for lack of the required prior citation. It upheld committee examination of the BCO 40-5 reports and did not reach alleged partiality; the Session trials were to proceed.",
+  "sources": [
+    {
+      "path": "cases/ga51_2024__2023-06_2023-08.md",
+      "sha256": "8b72317ddc66289d5d5ccae8c42fe5d66c5f666a63870470fb7be39a31e58782",
+      "locator": "lines 1–17, 133–166 (printed pp. 789, 795–796)",
+      "supports": "Case identity, joint adjudication, procedural vehicle, issues, and judgments."
+    },
+    {
+      "path": "cases/ga51_2024__2023-06_2023-08.md",
+      "sha256": "8b72317ddc66289d5d5ccae8c42fe5d66c5f666a63870470fb7be39a31e58782",
+      "locator": "lines 170–181, 214–324 (printed pp. 796–802)",
+      "supports": "Mootness of the Blue Hen complaint, limits on record production, and vacatur of the personal-communications directive."
+    },
+    {
+      "path": "cases/ga51_2024__2023-06_2023-08.md",
+      "sha256": "8b72317ddc66289d5d5ccae8c42fe5d66c5f666a63870470fb7be39a31e58782",
+      "locator": "lines 326–404 (printed pp. 802–805)",
+      "supports": "Congregational-notice ruling, denial concerning committee examination of BCO 40-5 reports, annulment of the stay, and continuation of Session trials."
+    },
+    {
+      "path": "cases/ga51_2024__2023-06_2023-08.md",
+      "sha256": "8b72317ddc66289d5d5ccae8c42fe5d66c5f666a63870470fb7be39a31e58782",
+      "locator": "lines 406–427 (printed pp. 805–806)",
+      "supports": "Unanimous adoption of the decision and the separate concurrence."
+    }
+  ],
+  "evidence_notes": {
+    "identity_and_adoption": "Cases 2023-06 and 2023-08 were complaints jointly heard and decided by the SJC; the final decision was approved 17-0. Lines 9–17, 29, 406–408.",
+    "dispute": "The elders challenged the Blue Hen commission proceedings, information and congregational-notice directives, committee review of BCO 40-5 reports, and the stay of Session trials. Lines 139–157.",
+    "outcomes_and_reasons": "Issue-level judgments appear at lines 158–166; reasons and relief appear at lines 170–181, 214–324, and 326–404.",
+    "qualifications": "Official court-record requests were proper; the ruling did not address use of correspondence obtained by a prosecutor or demands unrelated to pending charges. Issue 7 was not reached. Lines 214–225, 310–324, 396–404. The concurrence concerned brief decorum, not the merits. Lines 423–446.",
+    "incorporated_decisions": "No external decision was incorporated by reference; the panel’s reasoning was unanimously adopted by the SJC. Lines 406–408."
+  },
+  "source_limits": "The supplied source contains the complete decision and concurrence, but some footnote references and numbering in the Issue 5 discussion are malformed. They do not obscure the operative judgments or relief.",
+  "benchmark_examples": [
+    "C01",
+    "C02"
+  ],
+  "scores": {
+    "concrete_dispute": 2,
+    "decision": 2,
+    "decisive_reason": 2,
+    "distinctive_value": 2,
+    "fidelity": 2,
+    "economy": 2
+  },
+  "score_reasons": {
+    "concrete_dispute": "Identifies each challenged category of Presbytery action.",
+    "decision": "States the sustained, partly sustained, denied, and unreviewed issues and resulting relief.",
+    "decisive_reason": "Gives the controlling mootness, coercion, record-scope, and citation grounds.",
+    "distinctive_value": "Preserves the distinction between requesting official information and compelling personal correspondence.",
+    "fidelity": "Separates adopted holdings, unresolved partiality, and the concurrence’s decorum objection.",
+    "economy": "Retains only facts needed to explain the mixed result and practical next step."
+  },
+  "verification_notes": "Rechecked the seven judgments against lines 158–166 and the relief against lines 324 and 398–404. The final summary adds the omitted qualification that official-record requests were proper, specifies that committee examination—not premature intervention—was upheld, and limits vacatur to the communications directive.",
+  "repair_needed": false,
+  "repair_notes": ""
+}

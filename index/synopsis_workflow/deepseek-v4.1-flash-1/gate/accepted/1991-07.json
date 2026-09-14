@@ -1,0 +1,51 @@
+{
+  "case_id": "1991-07",
+  "title": "Complainants Filed A Complaint v. Potomac Presbytery",
+  "matter_type": "complaint",
+  "final_dispositions": [
+    "not_sustained",
+    "dismissed"
+  ],
+  "disposition_detail": "Issue 1 (whether Potomac Presbytery erred in its 11/12/91 adjudication): complaint not sustained. Complaints #2 and #3: dismissed as not timely filed (Panel had found them 'not judicially in order' on 2/28/92; SJC ratified the dismissal on 3/7/92). The timely 12/11/91 complaint (#1) was heard 3/6/92. Judgment and Disposition approved 21-0, 1 disqualified.",
+  "first_summary": "Complainants challenged Potomac Presbytery's handling of the Timonium Presbyterian Church pastoral dispute, arguing the Presbytery gave too little time and explanation before denying their complaint. The SJC affirmed Presbytery, holding that a higher court may not overturn a competent lower court merely because complainants are dissatisfied with the deliberation or input given. Two related complaints were dismissed as untimely. Complaint not sustained.",
+  "summary": "Complainants challenged Potomac Presbytery's 11/12/91 adjudication denying their complaint over the Timonium Presbyterian Church pastoral dispute, arguing they received too little time, deliberation, and explanation. The SJC held the complaint not sustained: a higher court may not overturn a competent lower court merely because complainants are dissatisfied with the amount of input or time spent, and no constitutional defect was demonstrated. Two earlier complaints were dismissed as not timely filed. The timely 12/11/91 complaint was heard 3/6/92.",
+  "sources": [
+    {
+      "path": "cases/ga20_1992__1991-07.md",
+      "sha256": "38df28d6d0e77be626d56a2415dc6f0718f6edd55be1148dcf5cedd43a0f9e72",
+      "locator": "lines 14–83 (printed pp. 214–216)",
+      "supports": "SJC panel's statement of facts, issues, judgment, disposition, reasoning, and vote"
+    }
+  ],
+  "evidence_notes": {
+    "identity_and_adoption": "Case 91-7, Standing Judicial Commission, 20th General Assembly (1992); source lines 1, 5, 14; Judgment and Disposition approved by SJC 21-0, 1 disqualified, line 83.",
+    "dispute": "Complaint against Potomac Presbytery's 11/12/91 denial and its 9/21/91 ruling that complaints #2 and #3 were untimely (BCO 43-2); issues framed at lines 34–40, judgment/disposition lines 44–50.",
+    "outcomes_and_reasons": "Judgment line 44 (complaint not sustained); disposition lines 48–50 (#2, #3 dismissed as not timely filed); reasoning lines 54–79 (each court presumed competent; no clear constitutional violation shown; sufficient deliberation); vote line 83.",
+    "qualifications": "Panel's 2/28/92 ruling and SJC's 3/7/92 ratification of the #2/#3 dismissal, lines 30–31; briefs at lines 85–579 are party argument, not adopted reasoning; the opinion's wording shifts between 'not sustained' and 'denied' (lines 44, 77).",
+    "incorporated_decisions": "Lower-court actions referenced: TPC Session's denial of the 8/9/90 complaint (line 18), Potomac Presbytery Commission's denial (lines 20–22), and Presbytery's denials (lines 22, 28); the SJC panel's own judgment controls."
+  },
+  "source_limits": "Source supplies the SJC panel statement, judgment, disposition, and reasoning (lines 14–83) plus the Complainant's and Respondent's briefs (lines 85–579); the briefs are argument, not adopted reasoning. No separate concurrence or dissent appears.",
+  "benchmark_examples": [
+    "C01 (1978-02) — preserve mixed issue-level results and procedural rulings",
+    "C20 (2016-13) — keep the adopted disposition's scope faithful and do not import party arguments"
+  ],
+  "scores": {
+    "concrete_dispute": 2,
+    "decision": 2,
+    "decisive_reason": 2,
+    "distinctive_value": 2,
+    "fidelity": 2,
+    "economy": 2
+  },
+  "score_reasons": {
+    "concrete_dispute": "Identifies the challenged Presbytery adjudication and the timeliness rulings on complaints #2 and #3.",
+    "decision": "States the not-sustained judgment on issue 1 and the dismissals of #2 and #3 with the vote.",
+    "decisive_reason": "Gives the adopted rationale: higher court may not overturn a competent lower court absent a clear constitutional violation.",
+    "distinctive_value": "Preserves the deference rule and the separate treatment of untimely specifications.",
+    "fidelity": "Keeps the SJC judgment distinct from the lower-court actions and party briefs; notes the not-sustained/denied wording.",
+    "economy": "All retained details bear on the dispute, result, or rationale."
+  },
+  "verification_notes": "Reread lines 14–83: corrected 'affirmed Presbytery' to the operative 'not sustained' judgment (line 44) while noting the reasoning also says 'Denied' (line 77); confirmed complaint #2 and #3 were dismissed as not timely filed (lines 48–50) with the Panel's 2/28/92 out-of-order ruling and 3/7/92 ratification (lines 30–31); confirmed the timely 12/11/91 complaint was heard 3/6/92; confirmed the 21-0 vote with one disqualified (line 83); separated briefs (lines 85–579) from adopted reasoning.",
+  "repair_needed": false,
+  "repair_notes": ""
+}

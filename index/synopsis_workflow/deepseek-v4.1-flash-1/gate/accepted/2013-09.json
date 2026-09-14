@@ -1,0 +1,49 @@
+{
+  "case_id": "2013-09",
+  "title": "2013-09 — Appeal: Mr. G. Rick Marshall vs. Pacific Presbytery .... Withdrawn",
+  "matter_type": "appeal",
+  "final_dispositions": [
+    "withdrawn"
+  ],
+  "disposition_detail": "Withdrawn; no merits opinion published.",
+  "first_summary": "Mr. G. Rick Marshall's appeal against Pacific Presbytery was withdrawn. No separate merits opinion was published, so the source does not disclose the underlying dispute, reasons, or any relief beyond the withdrawal.",
+  "summary": "The 42nd Assembly (2014) disposed of Mr. G. Rick Marshall's appeal against Pacific Presbytery by withdrawal. No separate merits opinion was published, so the source does not disclose the challenged conduct, adopted reasoning, or relief beyond the withdrawal.",
+  "sources": [
+    {
+      "path": "cases/ga42_2014__stub_2013-09.md",
+      "sha256": "25f2f975ae105e1a672e584c02b61a06ec08e120d269a5eaef68f05f9ec4ce15",
+      "locator": "lines 1-5, 9",
+      "supports": "Identifies case 2013-09, the appeal parties, the Standing Judicial Commission / 42nd Assembly (2014), disposition Withdrawn, and no separate merits opinion."
+    }
+  ],
+  "evidence_notes": {
+    "identity_and_adoption": "Lines 1-3 identify case_id 2013-09 as an appeal by Mr. G. Rick Marshall against Pacific Presbytery; deciding/adopting body is the Standing Judicial Commission / 42nd Assembly (2014); disposition is Withdrawn.",
+    "dispute": "Lines 1 and 9 show an appeal against Pacific Presbytery, but line 5 states no separate merits opinion was published, so the challenged lower-court action is not disclosed.",
+    "outcomes_and_reasons": "Lines 3, 5, and 9 record the disposition as Withdrawn and state no separate merits opinion was published; no adopted reasons or issue-level outcomes are stated.",
+    "qualifications": "Line 5 qualifies the source as a disposal record only; it supplies no merits reasoning, relief, or lower-court history.",
+    "incorporated_decisions": "None identified in lines 1-15; no incorporated decision or supplied result appears."
+  },
+  "source_limits": "The supplied source is a short stub/index entry. It states the withdrawal and the absence of a separate merits opinion but omits the record, issues, lower-court action, reasons, and any relief. Only a status synopsis is supportable.",
+  "benchmark_examples": [
+    "A20 — the disposition label alone is inadequate; here the sparse record supplies no merits or effect detail."
+  ],
+  "scores": {
+    "concrete_dispute": 1,
+    "decision": 2,
+    "decisive_reason": 2,
+    "distinctive_value": 1,
+    "fidelity": 2,
+    "economy": 2
+  },
+  "score_reasons": {
+    "concrete_dispute": "Identifies an appeal against Pacific Presbytery but not the challenged conduct or lower-court action.",
+    "decision": "States the only operative disposition, withdrawal, and notes the absence of a merits opinion.",
+    "decisive_reason": "No adopted reason is given; the summary expressly says so rather than inventing one.",
+    "distinctive_value": "Useful mainly as a limit: a withdrawal stub supplies no merits rule or remedy.",
+    "fidelity": "Keeps the SJC/Assembly disposal, withdrawal label, and absence of merits opinion distinct from unknown allegations or lower-court actions.",
+    "economy": "Short synopsis uses only identity, vehicle, withdrawal, and source limitation."
+  },
+  "verification_notes": "Rechecked lines 1-5 and 9: case_id 2013-09; title and parties as an appeal; Standing Judicial Commission / 42nd Assembly (2014); disposition Withdrawn; line 5 expressly says no separate merits opinion. Confirmed no issue-level outcomes, reasons, or incorporated decisions appear in the stub, and did not infer any.",
+  "repair_needed": false,
+  "repair_notes": "No catalog or source defect shown; the source is explicit that no separate merits opinion was published."
+}

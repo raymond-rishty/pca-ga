@@ -1,0 +1,50 @@
+{
+  "case_id": "2019-06",
+  "title": "Presbyterian Church in America v. Presbytery of the Mississippi Valley",
+  "matter_type": "bco_40_5_matter",
+  "final_dispositions": [
+    "sustained"
+  ],
+  "disposition_detail": "On the Statement of the Issue—whether Presbytery erred in its response to the Petitioner's BCO 40-5 letter—the SJC answered “Yes.” It found the Session erred by treating failure to follow divorce counsel as failure to submit, by conflating a not-guilty plea with intent not to fulfill membership vows, by not determining whether the member would fulfill membership duties in another branch under BCO 38-4, by not notifying her of erasure under BCO 38-4, and by proceeding as a case without process after dropping the charges. The SJC directed the Session to note in its Minutes that notice was not properly given and, because she had joined a Baptist church, to remove her from the roll under BCO 38-3(a). No express reversal, vacatur, or annulment of Presbytery's judgment appears in the adopted decision.",
+  "first_summary": "The SJC sustained a BCO 40-5 report against the Presbytery of the Mississippi Valley, holding that a session improperly erased a member after she pled not guilty to failing to submit and pursued divorce. The session treated her plea and divorce as refusal to submit, failed to consider another branch, failed to notify her, and proceeded without process. The SJC reversed the presbytery and directed the session to remove her under BCO 38-3(a).",
+  "summary": "In a BCO 40-5 matter, the SJC held that a presbytery erred in upholding a session's erasure of a member who pled not guilty to failing to submit and pursued divorce. The session wrongly equated declining divorce counsel with refusing submission, failed to assess membership duties in another branch, failed to notify her of erasure, and proceeded without process after dropping charges. The SJC sustained the challenge, directed the session to note the notice failure and remove her under BCO 38-3(a), but ordered no express reversal.",
+  "sources": [
+    {
+      "path": "cases/ga48_2021__2019-06.md",
+      "sha256": "50d48d7261f67dfc5849376a7ba033577fee7a673cc3d8f5d098c60ecbdf1eb6",
+      "locator": "lines 13–356; printed pp. 701–719 (GA 48)",
+      "supports": "Entire synopsis: identity, issue, adopted judgment, reasoning A–E, directives, vote, and incorporated 2018-02 ruling."
+    }
+  ],
+  "evidence_notes": {
+    "identity_and_adoption": "Case 2019-06, PCA v. Presbytery of the Mississippi Valley, Decision on BCO 40-5 Referral, SJC, 48th GA (2021); header disposition “sustained” (line 3); SJC approved the amended Decision 16-0-0, with three absent and five disqualified (lines 338–356). Source: cases/ga48_2021__2019-06.md, SHA256 50d48d7261f67dfc5849376a7ba033577fee7a673cc3d8f5d098c60ecbdf1eb6.",
+    "dispute": "A member of Pear Orchard PCA pled not guilty to “failing to submit to the government and discipline of the church” after filing for divorce; the Session later rescinded the indictment and erased her under BCO 38-4. She filed a BCO 40-5 report with PMV, which upheld the Session; she then filed with GA; the SJC initially ruled it administratively out of order and referred it to RPR; GA adopted RPR’s recommendation citing PMV to the SJC (lines 17–43, 49–98, 118–154). Issue at lines 166–168.",
+    "outcomes_and_reasons": "SJC answered “Yes” to whether Presbytery erred (lines 172–174). It found errors: indictment equated failure to follow counsel with failure to submit; conflating the not-guilty plea with intent not to fulfill vows; failing to assess another branch under BCO 38-4; failing to notify erasure under BCO 38-4; and case without process after dropping charges (lines 178–336). It directed the Session to note the notice failure in its Minutes and remove her under BCO 38-3(a) after she joined a Baptist church (line 336).",
+    "qualifications": "The decision relies on disputed recollections and notes Record silence on notice and attendance; the prior Case 2018-02 ruling was out of order and is incorporated history; no express reversal/annulment is stated; vote was 16-0-0 with disqualifications (lines 112–116, 260–290, 336, 338–356).",
+    "incorporated_decisions": "The February 2019 Decision in SJC Case 2018-02 [Petitioner v. PMV] is cited: the BCO 40-5 filing with the SJC was out of order, the Record lacked evidence of notice, and if notice was not properly given the petitioner remained a member in good standing unless she joined another church (lines 112–116, 336). The 47th GA adopted RPR’s recommendation and directed the SJC to act (lines 120–154)."
+  },
+  "source_limits": "The supplied text is the SJC decision and selected record summary, not the full 48-page Record or party briefs. Factual assertions about what was said at the 2016 arraignment remain disputed recollections; the SJC relied on the Record as supplied. The decision does not state a formal reversal of PMV’s judgment.",
+  "benchmark_examples": [
+    "B03 (2023-14): distinguish a finding of constitutional error from the remedy requested or refused.",
+    "B08 (2017-04): a short docket record supports only a status synopsis, not merits reasoning."
+  ],
+  "scores": {
+    "concrete_dispute": 2,
+    "decision": 2,
+    "decisive_reason": 2,
+    "distinctive_value": 2,
+    "fidelity": 2,
+    "economy": 2
+  },
+  "score_reasons": {
+    "concrete_dispute": "Identifies the Session’s erasure and Presbytery’s upholding of it as the challenged action, with the not-guilty plea and divorce as the factual core.",
+    "decision": "States the SJC’s Yes, the five errors, the directive, and that no express reversal was ordered.",
+    "decisive_reason": "Explains the adopted reasons: disagreement with counsel is not refusal to submit; no demonstrated intent; BCO 38-4 branch and notification failures; and no case without process.",
+    "distinctive_value": "Preserves the limit that the SJC found error but did not expressly reverse, and the BCO 38-3(a) remedy after the member joined another church.",
+    "fidelity": "Separates the prior 2018-02 out-of-order ruling, disputed recollections, adopted reasoning, and current disposition.",
+    "economy": "Every detail serves the dispute, result, or BCO 40-5 procedural posture."
+  },
+  "verification_notes": "Reread the operative Judgment at lines 166–174 and Reasoning A–E at lines 178–336. Corrected first_summary’s statement that the SJC “reversed” Presbytery; the adopted decision answers the issue “Yes” and directs the Session, without using reversal or vacatur. Rechecked that this is a BCO 40-5 referral adjudicated after GA adoption, not a direct appeal or complaint (lines 35–43, 118–154). Confirmed that prior Case 2018-02’s out-of-order ruling and notice/jurisdiction statement are incorporated history, not the current disposition (lines 112–116), and checked the 16-0-0 vote and disqualifications (lines 338–356).",
+  "repair_needed": false,
+  "repair_notes": "No source or catalog defect identified."
+}

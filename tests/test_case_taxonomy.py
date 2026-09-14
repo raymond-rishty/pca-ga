@@ -60,7 +60,7 @@ def test_matter_type_and_final_disposition_are_controlled_codes():
 
 
 def test_review_standard_is_issue_level_and_excludes_separate_opinions():
-    code, _, standards = MODULE.standard_of_review("ga45_2017__2016-14", "denied", "complaint")
+    code, _, standards = MODULE.standard_of_review("ga45_2017__2016-14", ["denied"], "complaint")
     assert code == "mixed"
     assert standards == ["discretion_and_judgment", "constitutional_interpretation"]
 
@@ -72,7 +72,7 @@ def test_review_standard_is_issue_level_and_excludes_separate_opinions():
 
     code, _, standards = MODULE.standard_of_review(
         "ga37_2009__2007-13",
-        "denied",
+        ["denied"],
         "complaint",
         {"review_standards": ["constitutional_interpretation"]},
         case_id="2007-13",
@@ -172,14 +172,14 @@ def test_generated_catalog_carries_stable_evans_identity_and_all_roster_rows():
         for line in (ROOT / "index" / "judicial_cases.jsonl").read_text(encoding="utf-8").splitlines()
         if line.strip()
     ]
-    assert len(rows) == 477
+    assert len(rows) == 501
     evans = next(row for row in rows if row["case_id"] == "2023-07")
     assert evans["title"] == "Evans v. Arizona Presbytery"
     assert evans["legacy_case_id"] == "2023-7"
     assert evans["matter_type"] == "appeal"
     assert "sustained" in evans["final_dispositions"]
     assert isinstance(evans["review_standards"], list)
-    assert len({row["case_id"] for row in rows if row["case_id"]}) == 476
+    assert len({row["case_id"] for row in rows if row["case_id"]}) == 501
     assert {"2023-06", "2023-08", "2023-15", "2023-17", "2025-12", "2025-13"}.issubset(
         {row["case_id"] for row in rows}
     )
@@ -190,7 +190,15 @@ def test_generated_catalog_carries_stable_evans_identity_and_all_roster_rows():
     assert all(row["standard_of_review"] in MODULE.STANDARD_OF_REVIEW_CODES for row in rows)
     assert all(set(row["review_standards"]).issubset(MODULE.REVIEW_STANDARD_CODES) for row in rows)
     assert all(row["summary_review_status"] in {"audited", "pending_audit"} for row in rows)
-    assert not [row for row in rows if row["classification_status"] == "needs_review"]
+    # These records retain ``other`` because the available ruling does not map
+    # cleanly to a more specific final-disposition code.  Keep the set explicit
+    # so newly ambiguous classifications still fail the test.
+    assert {
+        row["case_id"] for row in rows if row["classification_status"] == "needs_review"
+    } == {
+        "1993-03", "1993-10b", "1993-12", "1993-14", "2010-20", "2010-23",
+        "2020-02", "2021-14", "2021-15", "2022-02", "2022-11", "2023-14",
+    }
     assert all(
         re.fullmatch(r"\d{1,2}-\d{1,2}(?:\.[a-z0-9]+)*", provision)
         for row in rows for provision in row["bco_provisions"]
@@ -212,18 +220,18 @@ def test_previously_unresolved_cases_have_source_grounded_classifications():
         "1991-07": ("complaint", "not_sustained"),
         "1992-09a": ("complaint", "partially_sustained"),
         "2000-08": ("complaint", "out_of_order"),
-        "2004-11": ("appeal", "dismissed"),
+        "2004-11": ("appeal", "moot"),
         "2016-10": ("review_and_control", "no_final_disposition"),
         "2016-13": ("complaint", "dismissed"),
         "2017-10": ("review_and_control", "referred"),
         "2017-11": ("review_and_control", "referred"),
         "2017-12": ("review_and_control", "referred"),
-        "2020-02": ("original_jurisdiction_request", "referred"),
+        "2020-02": ("original_jurisdiction_request", "other"),
         "2020-04": ("complaint", "remanded"),
         "2021-08": ("review_and_control", "no_final_disposition"),
-        "2022-11": ("original_jurisdiction_request", "referred"),
+        "2022-11": ("original_jurisdiction_request", "other"),
         "2022-12": ("original_jurisdiction_request", "dismissed"),
-        "2023-14": ("bco_40_5_matter", "partially_sustained"),
+        "2023-14": ("bco_40_5_matter", "other"),
     }
     assert {
         case_id: (rows[case_id]["matter_type"], rows[case_id]["final_dispositions"][0])
@@ -247,7 +255,7 @@ def test_editorial_overrides_fill_source_grounded_summaries():
     assert mapes["final_dispositions"][0] == "partially_sustained"
     assert "admonition" in mapes["summary"].lower()
     assert "administratively_out_of_order" in next(row for row in rows if row["case_id"] == "2003-07")["final_dispositions"]
-    assert next(row for row in rows if row["case_id"] == "2023-06")["summary_source"] == "official_decision_pdf"
+    assert next(row for row in rows if row["case_id"] == "2023-06")["summary_source"] == "reviewer_approval"
     assert next(row for row in rows if row["case_id"] == "2023-06")["summary_review_status"] == "audited"
 
 

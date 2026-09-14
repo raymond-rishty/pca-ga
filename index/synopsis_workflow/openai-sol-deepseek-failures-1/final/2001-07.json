@@ -1,0 +1,51 @@
+{
+  "case_id": "2001-07",
+  "title": "Complaint of TE Andy Lee v. Korean Capital Presbytery",
+  "matter_type": "complaint",
+  "final_dispositions": [
+    "sustained",
+    "annulled"
+  ],
+  "disposition_detail": "The SJC sustained the complaint, holding that Presbytery erred by suspending the Session and appointing a commission to act for it without prior congregational consent. All subsequent actions of the commission acting as the Session were annulled insofar as the commission was not constituted according to the BCO.",
+  "first_summary": "A complaint challenged Presbytery’s suspension of a church Session and installation of a commission to perform Session functions without prior congregational consent. The SJC sustained the complaint and annulled the commission’s subsequent actions as the Session. It held that a higher court could not suspend elected officers and replace them without prior consent, and that later attempts by the Session and congregation to recognize the commission did not cure the defect.",
+  "summary": "A complaint challenged Presbytery’s suspension of a church Session and installation of a commission to perform Session functions without prior congregational consent. The SJC sustained the complaint and annulled all subsequent commission actions as the Session insofar as the commission was improperly constituted. Presbytery could not suspend elected officers and replace them without prior consent; later recognition could not cure the defect. The SJC also rejected Presbytery’s objection that a related appeal barred the complaint because the cases presented fundamentally different issues.",
+  "sources": [
+    {
+      "path": "cases/ga30_2002__2001-07.md",
+      "sha256": "6d7491f99acb2de90a289a8160110437b634ff58156995d1706912d87f5a4ad6",
+      "locator": "printed pp. 129–133, lines 14–114",
+      "supports": "Case identity, facts, issues, judgment, adopted reasoning, authorship, and roll-call adoption."
+    }
+  ],
+  "evidence_notes": {
+    "identity_and_adoption": "The caption identifies Case 2001-7 and the parties at printed p. 129, line 14; the SJC’s authorship, concurrence, and adoption vote appear at printed p. 133, lines 110–114.",
+    "dispute": "The issues were whether Presbytery erred by suspending the Session and appointing a replacement commission without prior congregational consent, and whether the commission’s subsequent actions complied with the BCO (printed p. 130, lines 44–48).",
+    "outcomes_and_reasons": "The judgment answered the first issue yes and the second no, annulling subsequent actions (printed pp. 130–131, lines 50–54). The decisive consent-based reasoning appears at printed pp. 131–132, lines 68–100.",
+    "qualifications": "Annulment applied insofar as the commission was improperly constituted; subsequent recognition did not supply prior consent, and the commission-called congregational meeting was void (printed pp. 132–133, lines 98–106). The related-appeal objection was rejected because the issues differed (printed p. 133, line 108).",
+    "incorporated_decisions": "No decision was incorporated by reference. Case 2001-1 was mentioned only in Presbytery’s unsuccessful procedural objection (printed p. 133, line 108)."
+  },
+  "source_limits": "The supplied record contains the adopted judgment and reasoning but no separate dissenting opinions despite two recorded dissents.",
+  "benchmark_examples": [
+    "C01",
+    "C02"
+  ],
+  "scores": {
+    "concrete_dispute": 2,
+    "decision": 2,
+    "decisive_reason": 2,
+    "distinctive_value": 2,
+    "fidelity": 2,
+    "economy": 2
+  },
+  "score_reasons": {
+    "concrete_dispute": "Identifies the suspension of the Session and appointment of a replacement commission without prior consent.",
+    "decision": "States that the complaint was sustained and the commission’s subsequent Session actions annulled.",
+    "decisive_reason": "Explains that elected officers could not be suspended and replaced without prior consent.",
+    "distinctive_value": "Preserves the limits on higher-court intervention, the ineffectiveness of later consent, and the distinct-issues answer to the appeal objection.",
+    "fidelity": "Distinguishes the adopted holding from Presbytery’s arguments and accurately limits the annulment.",
+    "economy": "Every detail explains the dispute, result, governing distinction, or procedural objection."
+  },
+  "verification_notes": "Rechecked the two issue-level judgments, the scope of annulment, and the consent analysis. The final summary adds the SJC’s rejection of Presbytery’s related-appeal objection and expressly preserves the judgment’s qualification that annulment rested on the commission’s improper constitution.",
+  "repair_needed": false,
+  "repair_notes": "No source or catalog defect requires repair; the assigned zero-padded case ID corresponds to the source’s Case 2001-7 designation."
+}

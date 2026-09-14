@@ -1,0 +1,63 @@
+{
+  "case_id": "1983-09",
+  "title": "Session of Village Chapel Presbyterian Church v. Presbytery of Eastern Carolina",
+  "matter_type": "complaint",
+  "final_dispositions": [
+    "abandoned",
+    "affirmed"
+  ],
+  "disposition_detail": "Complaint adjudged abandoned: after public notice and a two-day recess, the complainant did not appear in person or by counsel and gave no satisfactory explanation under BCO 42-10, incorporated for complaints by BCO 43-4; the three complaint grounds were not reached. Reference 8: SCJB interim advice confirmed and adopted; six of seven questions were properly declined because they could be redressed through complaint or review and control, and the seventh required only referring the applicant to the BCO.",
+  "first_summary": "The Session of Village Chapel Presbyterian Church complained that Eastern Carolina Presbytery improperly lifted its matter from the table, alleging refusal of reasonable indulgence, improper evidence, and haste. When the complainant did not appear, the Commission dismissed the complaint and confirmed the SCJB's Reference 8 advice: six questions should be pressed through complaint or review and control, and the seventh merely required referring the applicant to the BCO.",
+  "summary": "The Session of Village Chapel Presbyterian Church complained that Eastern Carolina Presbytery improperly lifted its matter from the table, alleging refusal of reasonable indulgence, improper evidence, and haste. The Commission adjudged the complaint abandoned: after public notice and a two-day recess, the complainant neither appeared nor sent counsel and gave no satisfactory explanation, as BCO 42-10 requires for complaints. Separately, it confirmed the SCJB's Reference 8 advice—six questions belonged in complaint or review and control; the seventh only required referring the applicant to the BCO.",
+  "sources": [
+    {
+      "path": "cases/ga11_1983__case9.md",
+      "sha256": "881a6ec5829594bd15f8a5165248de61047f9db007b0c05c1460a8737f78381d",
+      "locator": "lines 1–3, 11–13, 31–33",
+      "supports": "case identity, deciding body, and disposition metadata."
+    },
+    {
+      "path": "cases/ga11_1983__case9.md",
+      "sha256": "881a6ec5829594bd15f8a5165248de61047f9db007b0c05c1460a8737f78381d",
+      "locator": "lines 17–29, 39–49",
+      "supports": "complaint action challenged, grounds, and referral to the Commission."
+    },
+    {
+      "path": "cases/ga11_1983__case9.md",
+      "sha256": "881a6ec5829594bd15f8a5165248de61047f9db007b0c05c1460a8737f78381d",
+      "locator": "lines 51–96",
+      "supports": "Commission proceedings, abandonment judgment, and Reference 8 adoption."
+    }
+  ],
+  "evidence_notes": {
+    "identity_and_adoption": "Source cases/ga11_1983__case9.md (sha256 881a6ec5829594bd15f8a5165248de61047f9db007b0c05c1460a8737f78381d), lines 1–3: title, Committee on Judicial Business/CJB, 11th Assembly (1983), disposition abandoned; lines 31–33, 79–100: adopted adjudication and judgment.",
+    "dispute": "Source lines 17–29: Session complaint against Eastern Carolina Presbytery's Jan. 22, 1983 action lifting the Village Chapel matter from the table, with grounds under BCO 42-3, improper evidence, and haste/BCO 31-8. Lines 39–49 recite the tabled matter and General Assembly referral.",
+    "outcomes_and_reasons": "Source lines 79–92: complaint adjudged abandoned because complainant did not appear in person or by counsel after public notice and a recess, with no satisfactory explanation; BCO 43-4 applies BCO 42-10. Lines 94–100: Reference 8 advice confirmed and adopted; six questions declined as redressable by complaint or review and control, seventh only required BCO reference.",
+    "qualifications": "Source lines 41–43: SCJB earlier recommended receiving the complaint not as an appeal, not suspending Presbytery action, and finding it not in order for lack of supporting reasons; this did not become the final merits disposition. Lines 45–47: undated complaint letter had not been received at the SCJB February meeting. Lines 55, 83, 92: nonappearance, no satisfactory explanation, notice, and two-day recess. No merits ruling on the three complaint grounds appears.",
+    "incorporated_decisions": "Source lines 63–67: SCJB advice on Reference 8 (six questions improper; seventh cites BCO 25-2). Lines 96–100: Commission confirms and adopts that advice. Lines 41–43: SCJB recommendation on the complaint is referenced but final disposition remains abandonment. No separate opinions appear."
+  },
+  "source_limits": "Only the supplied case text is available; no full General Assembly minutes, original complaint letter, or SCJB report. The source uses Commission/SCJB/CJB labels, and the Reference 8 advice is summarized rather than reproduced. No separate opinions are included.",
+  "benchmark_examples": [
+    "C01 — preserve both procedural rulings and unsuccessful or unreached claims.",
+    "C20 — a short-record disposition must not be given reasons absent from the adopted ruling; here the abandonment reason is stated, while Reference 8 advice is only summarized."
+  ],
+  "scores": {
+    "concrete_dispute": 2,
+    "decision": 2,
+    "decisive_reason": 2,
+    "distinctive_value": 2,
+    "fidelity": 2,
+    "economy": 2
+  },
+  "score_reasons": {
+    "concrete_dispute": "Identifies the challenged Presbytery action—lifting the Village Chapel matter from the table—and the complaint's three grounds.",
+    "decision": "States the complaint's abandonment and the separate Reference 8 outcome, including six declined questions and one BCO referral.",
+    "decisive_reason": "Gives the BCO 42-10/43-4 nonappearance and no-satisfactory-explanation basis for abandonment, and the SCJB reasons adopted for Reference 8.",
+    "distinctive_value": "Preserves the abandonment rule for absent complainants and the refusal to give advice on questions redressable through complaint or review and control.",
+    "fidelity": "Separates the abandoned complaint from the confirmed SCJB advice; does not treat the earlier SCJB in-order recommendation or merits allegations as final dispositions.",
+    "economy": "Concise synopsis; every retained detail explains the dispute, result, or refused/remaining step."
+  },
+  "verification_notes": "Rechecked line 83: the Commission adjudged the complaint abandoned, not dismissed; corrected first_summary accordingly. Lines 85–90 supply the decisive BCO 42-10/43-4 basis; line 92 shows notice and the two-day recess; line 83 confirms no satisfactory explanation. Lines 96–100 show Reference 8 advice confirmed and adopted, with six questions declined and the seventh referred to the BCO. Lines 41–43 and 47–49 keep the SCJB recommendation and GA referral distinct from the final judgment. No separate opinions or merits rulings on the complaint grounds appear.",
+  "repair_needed": false,
+  "repair_notes": ""
+}

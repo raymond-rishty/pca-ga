@@ -1,0 +1,51 @@
+{
+  "case_id": "2017-01",
+  "title": "Dailey v. Heritage Presbytery",
+  "matter_type": "complaint",
+  "final_dispositions": [
+    "sustained",
+    "annulled"
+  ],
+  "disposition_detail": "The SJC sustained RE Scott Dailey's complaint against Heritage Presbytery's November 12, 2016 action treating Mrs. Hubbard's filing as a BCO 43-3 complaint and beginning adjudication. The SJC annulled any and all actions taken by Presbytery in adjudicating the issues raised in Hubbard's document after November 12, 2016. It did not rule on the merits of Hubbard's underlying complaint and noted possible avenues under BCO 31-2 and 40-5.",
+  "first_summary": "Heritage Presbytery allowed a member's filing against her session to proceed as a BCO 43-3 complaint. The SJC sustained Scott Dailey's complaint, holding that BCO 43-3 did not apply because the session had not denied or failed to consider the filing, and annulled Presbytery's actions. The SJC noted possible disciplinary avenues under BCO 31-2 and 40-5.",
+  "summary": "Heritage Presbytery treated a member's September 2016 filing against her session as a BCO 43-3 complaint and began adjudicating it. The SJC sustained RE Scott Dailey's complaint against that action. BCO 43-3 allows higher-court review only if the lower court denies a complaint or fails to consider it by its next stated meeting. The session timely ruled the filing did not meet BCO 43-1 and did consider it, so neither condition applied. Presbytery's post-November 12, 2016 adjudicative actions were annulled; possible underlying disciplinary matters were left to BCO 31-2 and 40-5.",
+  "sources": [
+    {
+      "path": "cases/ga46_2018__2017-01.md",
+      "sha256": "88e8f8f71fba3cd2e88f94886736471a9ae05054d08dc73e6533fbf64adba22a",
+      "locator": "lines 1–3, 11, 45–49, 53–98, 102–104, 106–338",
+      "supports": "Identifies the case, issue, judgment, reasoning, SJC vote, and dissenting opinion."
+    }
+  ],
+  "evidence_notes": {
+    "identity_and_adoption": "Source lines 1–3 and 11 identify Case 2017-01, Dailey v. Heritage Presbytery, an SJC decision on complaint dated March 1, 2018. Lines 102–104 state the decision was written by the Panel and amended and approved by the SJC on roll call.",
+    "dispute": "Lines 15–45 summarize the Hubbard filing, the session's September 23, 2016 response that it did not meet BCO 43-1, Heritage Presbytery's November 12, 2016 action authorizing a commission, Dailey's complaint, and the issue whether Presbytery erred in treating the document as an administratively in-order BCO 43-3 complaint.",
+    "outcomes_and_reasons": "Lines 47–49 sustain the complaint and annul Presbytery's adjudicative actions after November 12, 2016. Lines 53–98 hold BCO 43-3 permits transfer only if the lower court denies the complaint or fails to consider it by the next stated meeting; the session's ruling that the document did not meet BCO 43-1 was not a denial, and it timely considered and responded to the filing. The proper course was a complaint against the session under BCO 43-2. Lines 84–98 note possible BCO 31-2 and 40-5 avenues without adjudicating them.",
+    "qualifications": "Lines 102–104 record concurrences and dissents; lines 106–338 set out the dissenting opinion. The dissent's broader BCO 43-3 interpretation and procedural-history examples are not the adopted judgment. The majority does not rule on the merits of Hubbard's underlying allegations or the session's AOO ruling, and its serious-errors comment is a noted possibility, not a formal finding.",
+    "incorporated_decisions": "None. No decision is incorporated by reference into the SJC judgment. The dissent cites Wills v. Metro Atlanta and other cases, but those citations are not adopted in the majority reasoning."
+  },
+  "source_limits": "The supplied source is the case report containing the SJC majority decision and dissenting opinion; it does not include the full Record of the Case, briefs, the Hubbard document, or the lower court record. Underlying disciplinary matters are therefore unresolvable from this source.",
+  "benchmark_examples": [
+    "C01: show the concrete challenged court action and preserve any mixed procedural/merits outcomes; here the merits of Hubbard's underlying complaint are expressly not decided.",
+    "C02: distinguish legitimate higher-court steps from invalid ones; here the SJC accepted that Presbytery could address possible delinquency only through proper BCO 31-2/40-5 avenues, not by treating the filing as a BCO 43-3 complaint."
+  ],
+  "scores": {
+    "concrete_dispute": 2,
+    "decision": 2,
+    "decisive_reason": 2,
+    "distinctive_value": 2,
+    "fidelity": 2,
+    "economy": 2
+  },
+  "score_reasons": {
+    "concrete_dispute": "Identifies the challenged November 12, 2016 Presbytery action accepting and beginning adjudication of Hubbard's filing under BCO 43-3.",
+    "decision": "States the sustained complaint and the annulment of post-November 12, 2016 adjudicative actions, and notes no merits ruling on the underlying complaint.",
+    "decisive_reason": "Explains the adopted BCO 43-3 holding: only denial or failure to consider by next stated meeting permits transfer; the session timely ruled the filing did not meet BCO 43-1 and considered it.",
+    "distinctive_value": "Preserves the distinction between a lower court's ruling that a filing does not meet BCO 43-1 and a denial, and between annulment of Presbytery's process and the untried underlying allegations.",
+    "fidelity": "Keeps majority holding, lower-court action, and dissent separate; does not treat the dissent's hypotheticals or the serious-errors comment as adopted findings.",
+    "economy": "Summary focuses on issue, BCO 43-3 rule, result, and remedy."
+  },
+  "verification_notes": "Rechecked judgment at lines 45–49 and reasoning at lines 53–98. Corrected first_summary to specify the two BCO 43-3 predicates—denial or failure to consider by the next stated meeting—and that the session's BCO 43-1 ruling was not a denial and the session did timely consider the filing. Also limited annulment to Presbytery's actions after November 12, 2016 and confirmed the dissent at lines 106–338 is not adopted.",
+  "repair_needed": false,
+  "repair_notes": "No source or catalog defect identified."
+}

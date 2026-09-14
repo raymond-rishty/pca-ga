@@ -1,0 +1,51 @@
+{
+  "case_id": "2001-12",
+  "title": "Case 2001-12 — Appeal of Deacon Peter Lee vs. Korean Capital Presbytery",
+  "matter_type": "appeal",
+  "final_dispositions": [
+    "sustained",
+    "reversed"
+  ],
+  "disposition_detail": "Appeal sustained; the Presbytery’s and its Special Judicial Commission’s actions in adjudicating the charges against Deacon Peter Lee are reversed because original jurisdiction belonged to the local Session. The SJC did not decide the merits of the underlying charges and did not order remand.",
+  "first_summary": "The SJC sustained Deacon Peter Lee’s appeal from Korean Capital Presbytery, reversing the Presbytery and its special judicial commission for adjudicating charges against him. Lee, a church member, had received a five-year suspension from the sacraments, which Presbytery approved. The SJC held that original jurisdiction over a member belongs to the local Session, not Presbytery or its commission, so the lower proceedings were reversed.",
+  "summary": "The SJC sustained Deacon Peter Lee’s appeal from Korean Capital Presbytery’s censure and reversed the Presbytery and its special judicial commission for adjudicating charges that belonged to the local Session. Lee, a communicant member, had been suspended from the sacraments for five years after the commission found contumacy and a false statement; Presbytery approved. The SJC held that original jurisdiction over a member’s judicial action or censure rests with the Session, not Presbytery or its commission. The reversal was jurisdictional and did not decide the underlying charges.",
+  "sources": [
+    {
+      "path": "cases/ga30_2002__2001-12.md",
+      "sha256": "bad9c35271937ab1a1762343cec7d32f870fb27ad97cdb47b010aeebdc3d55d5",
+      "locator": "lines 1–63 (printed pp. 141–142)",
+      "supports": "Identity, procedural posture, facts, issue, judgment, adopted reasoning, adoption, and roll call for Case 2001-12."
+    }
+  ],
+  "evidence_notes": {
+    "identity_and_adoption": "The source identifies Case 2001-12 as the appeal of Deacon Peter Lee against Korean Capital Presbytery, decided by the SJC at the 30th General Assembly (2002) (lines 1–5). The Statement of the Issue and Judgment were prepared and adopted by a five-man panel; the Reasoning and Opinion was written by TE Jim Smith with concurrence by TE Charles McGowan, RE Grant McCabe, RE John White, and RE Jack Williamson (lines 61–62). The roll call records adoption with 16 concurred, 1 dissented, 1 disqualified, 1 recused, and 5 absent (line 63).",
+    "dispute": "Korean Capital Presbytery suspended the KPCW session and appointed a commission after internal division; the commission later adjudicated charges against Deacon Lee for his role in a civil-court trustee petition and for contumacy, imposing a five-year suspension from the sacraments (lines 18–32). Presbytery approved the report and suspension (line 32), and Lee appealed (line 34).",
+    "outcomes_and_reasons": "The issue was whether Presbytery and/or its January 8, 2001 Special Judicial Commission was the proper court to assume original jurisdiction over the charges (lines 40–42). The SJC answered no, holding that the court of original jurisdiction for communicant members is the local Session, so the Presbytery and commission acted contrary to constitutional standards; their actions were reversed (lines 44–59).",
+    "qualifications": "The reversal was jurisdictional, not a merits determination of the charges, and the decision contains no remand or acquittal order (lines 44–59). The source includes a dissenting vote by RE Howard Donahoe but no written dissent; other commissioners were absent, disqualified, or recused (line 63). The Statement of Facts was prepared by RE John White, separate from the panel-adopted issue and judgment (line 61).",
+    "incorporated_decisions": "No incorporated decision is used; the SJC’s own judgment and reasoning supply the result. The roll call and authorship notes appear at lines 61–63, with no separate opinion text attached."
+  },
+  "source_limits": "The supplied source is a concise report of the adopted decision, not the full record. It lacks briefs, full testimony, and any written dissent, and it does not state a remand, acquittal, or later history.",
+  "benchmark_examples": [
+    "A01: distinguishes conviction, censure, and status on appeal; useful here for separating reversal of the Presbytery/commission action from any merits verdict.",
+    "A19: illustrates conditional dismissal and preserved next steps; contrast with this merits-adjacent jurisdictional reversal, where no remand is ordered."
+  ],
+  "scores": {
+    "concrete_dispute": 2,
+    "decision": 2,
+    "decisive_reason": 2,
+    "distinctive_value": 2,
+    "fidelity": 2,
+    "economy": 2
+  },
+  "score_reasons": {
+    "concrete_dispute": "Identifies the challenged action: Presbytery and its special judicial commission adjudicating charges against a member and imposing censure.",
+    "decision": "States both operative results: appeal sustained and the Presbytery/commission actions reversed, with no merits determination or remand.",
+    "decisive_reason": "Explains the adopted reason: original jurisdiction over a communicant member belongs to the local Session.",
+    "distinctive_value": "Preserves the jurisdictional limit and the distinction between reversal of the proceeding and adjudication of guilt.",
+    "fidelity": "Keeps the adopted judgment and reasoning distinct from factual history, party posture, roll call, and absent dissent.",
+    "economy": "The summary stays within a compact reasoned-decision synopsis and includes only details useful to the dispute, result, and value."
+  },
+  "verification_notes": "Rechecked the judgment at line 46 and reasoning at lines 52–59: the SJC answered the jurisdictional issue “No” and reversed the Presbytery and/or Special Judicial Commission actions. Corrected the first draft to make clear the reversal was jurisdictional, did not decide the underlying charges, and did not order remand. Rechecked adoption at lines 61–63: the issue/judgment were panel-adopted, the reasoning was authored by TE Jim Smith with concurrence, and the roll call shows 16 concurred, 1 dissented, 1 disqualified, 1 recused, and 5 absent.",
+  "repair_needed": false,
+  "repair_notes": ""
+}

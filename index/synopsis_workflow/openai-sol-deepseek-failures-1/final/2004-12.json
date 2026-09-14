@@ -1,0 +1,49 @@
+{
+  "case_id": "2004-12",
+  "title": "Complaint of Mr. ME Hunt vs. Western Carolina Presbytery",
+  "matter_type": "complaint",
+  "final_dispositions": [
+    "out_of_order"
+  ],
+  "disposition_detail": "Case 2004-12 was found out of order. The record does not identify an administrative or judicial subtype, provide a reason, reach the merits, or record further relief.",
+  "first_summary": "Mr. M. E. Hunt’s complaint against Western Carolina Presbytery was found out of order. The published record provides no merits opinion or explanation.",
+  "summary": "Mr. M. E. Hunt sought review of an unidentified action by Western Carolina Presbytery. The Assembly record reports that his complaint was found out of order, without identifying an administrative or judicial subtype. It provides no reason, merits determination, relief, or further proceedings.",
+  "sources": [
+    {
+      "path": "cases/ga33_2005__stub_2004-12.md",
+      "sha256": "078c8a82df9bd856612b3f23abc2861d04c13a07cb8aa61197171d7c7c2b3d62",
+      "locator": "lines 1–11",
+      "supports": "Case identity, court and Assembly metadata, out-of-order disposition, and absence of a separate merits opinion."
+    }
+  ],
+  "evidence_notes": {
+    "identity_and_adoption": "The heading identifies case 2004-12 and the parties; metadata identifies the Standing Judicial Commission and 33rd Assembly (lines 1–3).",
+    "dispute": "The title establishes a complaint against Western Carolina Presbytery, but the challenged action is not described (line 1).",
+    "outcomes_and_reasons": "The case was found out of order; no reason or merits opinion is supplied (lines 3, 5, 9).",
+    "qualifications": "The source does not specify whether the ruling was administratively or judicially out of order, nor does it record relief or further proceedings (lines 3–9).",
+    "incorporated_decisions": "Line 9 groups this case with other matters but does not incorporate another decision or its reasoning."
+  },
+  "source_limits": "The source is a brief disposition record rather than an opinion and does not identify the challenged action or rationale.",
+  "benchmark_examples": [
+    "C20"
+  ],
+  "scores": {
+    "concrete_dispute": 1,
+    "decision": 2,
+    "decisive_reason": 2,
+    "distinctive_value": 1,
+    "fidelity": 2,
+    "economy": 2
+  },
+  "score_reasons": {
+    "concrete_dispute": "The parties and complaint are identified, but the challenged Presbytery action is not.",
+    "decision": "The sole recorded disposition—out of order—is stated without adding a subtype.",
+    "decisive_reason": "The synopsis faithfully states that no reason was published.",
+    "distinctive_value": "It preserves the important limitation that neither a subtype nor merits ruling appears.",
+    "fidelity": "It distinguishes the recorded disposition from absent merits reasoning and avoids inferred facts.",
+    "economy": "Only details necessary to describe the sparse record and its limits are retained."
+  },
+  "verification_notes": "Rechecked the heading, court metadata, operative disposition, and no-opinion qualification. The final summary clarifies that the challenged action is unidentified and avoids classifying the ruling as administratively or judicially out of order.",
+  "repair_needed": false,
+  "repair_notes": "The record is sparse but supplies the case identity and final disposition; no material incorporated result is missing."
+}

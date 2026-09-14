@@ -1,0 +1,50 @@
+{
+  "case_id": "2019-09",
+  "title": "Mueller v. South Florida Presbytery",
+  "matter_type": "complaint",
+  "final_dispositions": [
+    "denied"
+  ],
+  "disposition_detail": "The SJC denied the complaint on the sole issue of whether the Redlands Community Church Session erred on January 14, 2019 by allegedly reaffirming its practice of fencing the Lord's Table contrary to BCO 58-4. The adopted decision held that the only relevant motion failed for lack of a second, so the Session took no action and could not have erred. The SJC noted the case could have been ruled out of order earlier, left BCO 40-5 recourse open, and made no merits ruling on BCO 58-4; a concurring opinion is separate from the adopted reasoning.",
+  "first_summary": "The SJC denied RE William F. Mueller's complaint against South Florida Presbytery over the Redlands Session's fencing of the Lord's Table. The SJC held that the January 14, 2019 motion failed for lack of a second, so there was no action to review. It noted possible BCO 40-5 recourse.",
+  "summary": "On complaint by RE William F. Mueller, the SJC reviewed whether the Redlands Community Church Session erred on January 14, 2019 by allegedly reaffirming its practice of fencing the Lord's Table contrary to BCO 58-4. The SJC denied the complaint: the only relevant motion failed for lack of a second, so the Session took no action and did not reaffirm anything. It noted the case could have been ruled out of order earlier and that Mueller could pursue relief under BCO 40-5; a concurrence stressed BCO 58-4 remains binding and criticized Presbytery's handling.",
+  "sources": [
+    {
+      "path": "cases/ga48_2021__2019-09.md",
+      "sha256": "07d806cbb26b556596b12708df98b312df2a8090edd1773c7a06559664d1360e",
+      "locator": "lines 13–15, 51–57, 61–90, 94–131; printed pp. 766–771",
+      "supports": "Case identity, complaint issue, judgment denying complaint, adopted reasoning, roll call, BCO 40-5 recourse, and separate concurring opinion."
+    }
+  ],
+  "evidence_notes": {
+    "identity_and_adoption": "Heading at lines 13–15 identifies the complaint of RE William F. Mueller v. South Florida Presbytery and the SJC Decision on Complaint, October 15, 2020; roll call at lines 88–90 records adoption 20-1-0, with a concurring opinion at lines 94–100.",
+    "dispute": "Lines 29–31 and 51–53 show the complaint alleged the Redlands Community Church Session on January 14, 2019 reaffirmed fencing the Lord's Table contrary to BCO 58-4.",
+    "outcomes_and_reasons": "Lines 55–57 deny the complaint. Lines 61–69 reason that the only relevant motion failed for lack of a second, so the Session took no action and could not have erred. Lines 71–86 note the case could have been ruled out of order earlier and preserve BCO 40-5 recourse.",
+    "qualifications": "Line 71 says out-of-order treatment was only hindsight, not the adopted disposition. Lines 75–86 preserve BCO 40-5 recourse. The concurrence at lines 94–119, especially lines 104–115, is separate and states BCO 58-4 remains binding and criticizes Presbytery’s BCO 43 handling; line 43 notes Presbytery rescinded its prior denial on November 12, 2019.",
+    "incorporated_decisions": "No decision is incorporated by reference. Lines 33–45 summarize lower-court actions: Session denial April 8, 2019; Presbytery commission decision August 13, 2019; Presbytery rescission November 12, 2019; Record of the Case received May 13, 2020."
+  },
+  "source_limits": "The supplied source is a single SJC decision with concurrence; it does not include the full Record of the Case or verbatim BCO texts. The concurrence’s BCO 58-4 and Presbytery-handling observations are not adopted majority reasoning, and the SJC expressly made no merits ruling on the fencing practice.",
+  "benchmark_examples": [
+    "C01 Allin v. Tennessee Valley Presbytery — preserve procedural and substantive outcomes separately and distinguish adopted rulings from remaining claims.",
+    "C20 Daniels v. Nashville Presbytery — do not supply reasoning the adopted ruling does not give; separate opinions remain separate."
+  ],
+  "scores": {
+    "concrete_dispute": 2,
+    "decision": 2,
+    "decisive_reason": 2,
+    "distinctive_value": 2,
+    "fidelity": 2,
+    "economy": 2
+  },
+  "score_reasons": {
+    "concrete_dispute": "Identifies the challenged Session action on January 14, 2019 and the BCO 58-4 fencing issue.",
+    "decision": "States the only material adopted result: complaint denied.",
+    "decisive_reason": "Explains the adopted reason: the motion failed for lack of a second, so no Session action or error occurred.",
+    "distinctive_value": "Captures the no-action rationale, the BCO 40-5 recourse, and the separate concurrence’s BCO 58-4 qualification.",
+    "fidelity": "Distinguishes adopted decision, hindsight out-of-order comment, BCO 40-5 recourse, and separate concurrence; no merits holding on BCO 58-4 is claimed.",
+    "economy": "Retains only the issue, disposition, rationale, recourse, and qualifications needed to assess the case."
+  },
+  "verification_notes": "Rechecked actor and adoption: the deciding body is the SJC, not the General Assembly plenary, and the decision passed 20-1-0. Corrected the challenged action to the RCC Session’s alleged January 14, 2019 reaffirmation, not merely the later Presbytery denial. Confirmed denial is the only adopted disposition; the out-of-order language is expressly hindsight, BCO 40-5 recourse is preserved, and the concurrence’s BCO 58-4 and BCO 43 criticism are not adopted merits reasons. Rechecked the separate concurrence and lower-court chronology.",
+  "repair_needed": false,
+  "repair_notes": "No material source or catalog defect requiring repair was identified."
+}

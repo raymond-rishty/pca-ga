@@ -1,0 +1,51 @@
+{
+  "case_id": "1992-06",
+  "title": "Conrad et al. v. Central Carolina Presbytery (Case #1)",
+  "matter_type": "complaint",
+  "final_dispositions": [
+    "not_sustained",
+    "denied"
+  ],
+  "disposition_detail": "Issue 1 (May the Session dissolve the official relationship between the church and all ruling elders, without censure, when requested by the congregation?) answered affirmative. Issue 2 (May the Session concur and request Presbytery to appoint a Commission as interim Session?) answered affirmative. The complaint is therefore not sustained. TE Morton Smith's constitutional inquiry concerning Judgment 1 was denied. TE Charles L. Wilson's separate objection was ordered spread on the minutes; dissenters signed it, but it was not adopted. SJC approval: 21 concurring, 3 abstentions.",
+  "first_summary": "The SJC answered two questions about a session's dissolution of its ruling elders and request for an interim session. It said a session may dissolve the official relationship with all ruling elders when a congregational majority asks, because BCO 24-6b extends by good and necessary deduction to multiple identified elders. Such action does not divest office. BCO 13-9 and 15-2 allow an interim session. The complaint was denied; a constitutional inquiry was also denied.",
+  "summary": "Can a session dissolve the official relationship between the church and all its ruling elders, and request an interim session, when a congregational majority asks it to do so? The SJC answered both issues yes. It held that BCO 24-6b's provision for an elder/congregation dissolution extends by good and necessary deduction to identified elders collectively, and that such action removes the official relationship without censure but does not divest the elder's office. BCO 13-9 and 15-2 authorize the interim session. The complaints failed; Smith's constitutional inquiry was denied. 21 concurred, 3 abstained.",
+  "sources": [
+    {
+      "path": "cases/ga21_1993__1992-06.md",
+      "sha256": "c11a1515515838b0f50e5f62f9f7b0ad2950877353d16a2011f6c39ddee0d371",
+      "locator": "lines 14, 18-34, 38-51, 53-71, 73-81, 87-163 (printed pp. 213-218)",
+      "supports": "Case identity, facts, issues, adopted judgment, adopted reasoning, SJC approval vote, Smith inquiry denial, and Wilson separate objection."
+    }
+  ],
+  "evidence_notes": {
+    "identity_and_adoption": "Case No. 92-6, Conrad et al. v. Central Carolina Presbytery (Case #1), source lines 14-16; adopted judgment at lines 50-51; SJC approval vote at lines 73-75 (21 concurring, 3 abstentions).",
+    "dispute": "Session dissolved the official relationships of all ruling elders and requested an interim session after February 2, 1992 congregational votes; Presbytery denied complaints on May 21, 1992. The SJC framed two issues at lines 38-46; complainants' arguments appear at lines 55-57.",
+    "outcomes_and_reasons": "Judgment answered both issues affirmatively (lines 50-51). Adopted reasoning at lines 59-71: BCO 24-6b's individual-elder procedure extends by good and necessary deduction to multiple identified elders; dissolution does not divest office; BCO 13-9 and 15-2 authorize an interim session. Smith's constitutional inquiry was denied at line 81.",
+    "qualifications": "Wilson's objection and the dissenters (lines 87-163) were ordered spread on the minutes, not adopted; the prior General Assembly rulings cited there are party argument only. No adopted explanation is given for denying Smith's inquiry. The vote was 21 concurring, 3 abstentions (line 75).",
+    "incorporated_decisions": "None. Cases 92-7 and 92-8 are mentioned at line 30 for panel assignment, not incorporated. The separate approval of Case 92-7 at line 165 is not part of this case."
+  },
+  "source_limits": "The excerpt contains the adopted judgment and reasoning, the approval vote, a denied constitutional inquiry, and a separate objection, but not the full record, panel proceedings, or Presbytery's full decision. It supplies no adopted rationale for denying Smith's inquiry or for the abstentions.",
+  "benchmark_examples": [
+    "C01: preserves mixed complaint outcomes and partial relief; here the complainants obtained no relief, so the synopsis must not manufacture a mixed merits result.",
+    "C20: an unexplained disposition remains unexplained; here Smith's inquiry was denied without an adopted reason."
+  ],
+  "scores": {
+    "concrete_dispute": 2,
+    "decision": 2,
+    "decisive_reason": 2,
+    "distinctive_value": 2,
+    "fidelity": 2,
+    "economy": 2
+  },
+  "score_reasons": {
+    "concrete_dispute": "Identifies the challenged session actions: dissolving the official relationships with all ruling elders and requesting an interim session.",
+    "decision": "States both affirmative answers, the failed complaint, and the denial of Smith's constitutional inquiry.",
+    "decisive_reason": "Reports the adopted BCO 24-6b good-and-necessary-deduction rationale and the BCO 13-9/15-2 basis for the interim session.",
+    "distinctive_value": "Preserves the rule that dissolution removes the official relationship without censure but does not divest office, and permits an interim session.",
+    "fidelity": "Keeps the adopted judgment and reasoning distinct from complainants' arguments, Wilson's objection, and the dissent.",
+    "economy": "Uses only facts and reasons needed to explain the dispute, result, and limit."
+  },
+  "verification_notes": "Re-read lines 50-51 and 59-71 and corrected the initial draft: the complaint was not sustained, and both issues were answered against the complainants, with no partial relief. Rechecked Smith's inquiry at line 81 and confirmed its denial is a separate disposition. Rechecked lines 73-75 for the 21-3 vote and lines 87-163 to confirm Wilson's objection was only spread on the minutes and not adopted. Confirmed no incorporated decision supplies the result; Cases 92-7/92-8 and line 165's Case 92-7 action are separate.",
+  "repair_needed": false,
+  "repair_notes": "None."
+}

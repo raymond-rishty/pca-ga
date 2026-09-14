@@ -1,0 +1,51 @@
+{
+  "case_id": "1991-02",
+  "title": "Nickoley and Stephens v. Southwest Presbytery",
+  "matter_type": "complaint",
+  "final_dispositions": [
+    "not_sustained",
+    "affirmed"
+  ],
+  "disposition_detail": "The complaint was not sustained. The SJC affirmed Southwest Presbytery's determinations that it lacked constitutional authority to suspend Covenant PC's session or to act as a Session pro tem without formal congregational consent; that the charges against ruling elders Farrington and Flye were properly withdrawn because BCO 31-1 placed original jurisdiction in the session; and that the challenge to dissolving TE Pollock's pastoral relationship was moot after Pollock left the PCA, though the Presbytery had acted correctly on a valid congregational request. The panel was unanimous; SJC approved 23-0, 1 disqualified.",
+  "first_summary": "The SJC did not sustain a complaint by TE Bruce Nickoley and David Stephens against Southwest Presbytery's withdrawal of charges against two ruling elders, dissolution of TE Mike Pollock's pastoral relationship, and rescission of its suspension of Covenant PC's session. The SJC affirmed Presbytery's decisions, reasoning that a presbytery lacks authority to suspend a session or act as a Session pro tem without congregational consent and that the charges were properly withdrawn.",
+  "summary": "Complainants challenged Southwest Presbytery's January 1991 actions: withdrawing charges against two ruling elders, dissolving Pastor Pollock's pastoral relationship, and rescinding its suspension of Covenant PC's session. The SJC did not sustain the complaint and affirmed. It held the BCO gives no presbytery authority to suspend a session or act as a Session pro tem without formal congregational consent; BCO 31-1 left the elder charges with the session, so they were never validly before Presbytery; the dissolution challenge was moot after Pollock left the PCA, though Presbytery acted correctly on the congregation's request.",
+  "sources": [
+    {
+      "path": "cases/ga20_1992__1991-02.md",
+      "sha256": "3f61d4c27f3ee43fc38cc7070a6cab32960252f383fdcbc0a0be5f2f64def2e5",
+      "locator": "lines 1–315 (printed pp. 142–154)",
+      "supports": "Identity, adopted SJC judgment, statement of issues, reasoning, disposition, panel signatures, SJC vote, and party briefs."
+    }
+  ],
+  "evidence_notes": {
+    "identity_and_adoption": "Case No. 91-2, SJC, 20th General Assembly; title and disposition at lines 1–3. Unanimous panel of Brown, Ferguson, and Spencer signed June 13, 1991 at lines 156–158; SJC approved 23-0, 1 disqualified at lines 160–162.",
+    "dispute": "Complainants challenged Southwest Presbytery's Jan. 31–Feb. 1, 1991 adoption of a commission report concerning Covenant PC, Wheat Ridge: withdrawing charges against REs Farrington and Flye, dissolving TE Pollock's pastoral relationship, and rescinding the suspension of the session. Lines 18–22, 30–40, 60–80.",
+    "outcomes_and_reasons": "SJC did not sustain the complaint and affirmed Presbytery. It adopted Chappell principles: no BCO authority to suspend a session or act as a Session pro tem without congregational consent; BCO 31-1 placed the ruling-elder charges originally with the session, so Presbytery properly withdrew; dissolution issue moot after Pollock left PCA, though Presbytery acted correctly on the congregation's request. Lines 92–106, 110–146.",
+    "qualifications": "Panel was unanimous; no separate opinions appear. Issue 4 was moot by party agreement and Pollock's departure, but the SJC still stated Presbytery acted correctly on dissolution. Party briefs at lines 164–315 are argument, not adopted reasoning. Apparent internal date inconsistencies appear in the source at lines 34, 36, and 48.",
+    "incorporated_decisions": "SJC relied on Case 90-4, C. E. Chappell v. East Carolina Presbytery, quoting M19GA, Exhibit B, IV, 2 and IV, 4, p. 492; no separate copy of Chappell is supplied, but its relevant principles are stated in this case at lines 48, 110–124, and 128–132."
+  },
+  "source_limits": "The supplied source contains the adopted SJC judgment plus party briefs. It does not include the lower court/presbytery record or the full Chappell decision. Some internal dates appear inconsistent in the source, but the adopted disposition and reasoning are clear.",
+  "benchmark_examples": [
+    "C01 — preserve issue-level outcomes; here the complaint wholly failed, but the SJC still affirmed four distinct Presbytery determinations.",
+    "C20 — unexplained mootness must remain unexplained; here the SJC explained the dissolution issue was moot because Pollock left the PCA and the parties agreed."
+  ],
+  "scores": {
+    "concrete_dispute": 2,
+    "decision": 2,
+    "decisive_reason": 2,
+    "distinctive_value": 2,
+    "fidelity": 2,
+    "economy": 2
+  },
+  "score_reasons": {
+    "concrete_dispute": "Identifies the challenged Presbytery actions: charge withdrawal, pastoral-relationship dissolution, and rescission of the session suspension.",
+    "decision": "States the complaint was not sustained and that Presbytery's decisions were affirmed, while preserving the moot dissolution issue in disposition_detail.",
+    "decisive_reason": "Explains the adopted reasons: no authority to suspend a session or act as Session pro tem without congregational consent; BCO 31-1 jurisdiction; dissolution moot but correctly handled.",
+    "distinctive_value": "Captures the rule that presbytery actions taken as a Session pro tem without constitutional authority are of no effect and that ruling-elder charges belong first to the session.",
+    "fidelity": "Distinguishes adopted SJC reasoning from party briefs, notes unanimous panel and SJC vote, and does not treat mootness as a merits reversal.",
+    "economy": "Keeps the summary focused on the challenged actions, the adopted reasoning, and the practical result."
+  },
+  "verification_notes": "Rechecked the operative judgment at lines 92–106, the reasoning at lines 110–146, and the adoption vote at lines 156–162. Corrected the initial summary to state that the dissolution issue was moot after Pollock left the PCA and that the SJC nevertheless held Presbytery acted correctly on the dissolution request. Confirmed the complaint was not sustained and Presbytery's decisions were affirmed; confirmed the unanimous panel and 23–0 SJC approval with 1 disqualified; no separate opinions appear.",
+  "repair_needed": false,
+  "repair_notes": "No repair needed. The source supplies the adopted judgment and reasoning; the incorporated Chappell principles are quoted and summarized within the case."
+}

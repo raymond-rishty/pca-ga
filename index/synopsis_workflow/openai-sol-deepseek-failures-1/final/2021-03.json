@@ -1,0 +1,52 @@
+{
+  "case_id": "2021-03",
+  "title": "DeJong v. Session of Village Seven Presbyterian Church",
+  "matter_type": "complaint",
+  "final_dispositions": [
+    "partially_sustained",
+    "denied",
+    "annulled"
+  ],
+  "disposition_detail": "The SJC denied the challenges concerning elder term limits and the Judicial Commission, sustained the challenge concerning the Governance Commission, and annulled Session’s third motion creating that commission under the adopted document.",
+  "first_summary": "A ruling elder challenged Session’s proposed removal of an elder term-limit restriction and its creation of Judicial and Governance Commissions. The SJC upheld the term proposal because the Constitution is silent on terms and upheld the Judicial Commission because its assigned business was clearly defined. It sustained the Governance Commission challenge because two provisions allowed that commission to function as Session itself. The third motion was annulled, without preventing Session from adopting a constitutionally narrower plan.",
+  "summary": "A ruling elder challenged Session’s elder-term proposal and its creation of Judicial and Governance Commissions. The SJC denied the first two claims: the Constitution does not regulate elder terms, and the Judicial Commission’s assigned business was sufficiently defined. It sustained the Governance Commission claim because sweeping authority and reversed delegation allowed that body to function as Session itself, contrary to BCO 15-1. Session’s third motion was annulled, but Session remained free to adopt a narrower, constitutionally compliant plan.",
+  "sources": [
+    {
+      "path": "cases/ga49_2022__2021-03.md",
+      "sha256": "230a86faa22a23e4b1d2087c138f109cf3ff60e69fe3e8ec970b77c0eec2570c",
+      "locator": "lines 11–15, 21, 29–43, 45–99; printed pp. 864–869",
+      "supports": "Case identity, issues, mixed judgment, adopted reasoning, annulment, qualification, and SJC adoption."
+    }
+  ],
+  "evidence_notes": {
+    "identity_and_adoption": "The caption and SJC proceeding appear at lines 11–15; full-SJC adoption and vote appear at lines 96–99 (printed pp. 864, 869).",
+    "dispute": "The three challenges are stated at lines 29–35 and elaborated at lines 47–53 (printed pp. 866–867).",
+    "outcomes_and_reasons": "Issue-level judgments appear at lines 37–43; reasons for denying the first two claims and sustaining the third appear at lines 55–94 (printed pp. 867–869).",
+    "qualifications": "Standing or governance commissions are not categorically barred (lines 63–69), and annulment did not preclude a revised document (line 94), printed pp. 868–869.",
+    "incorporated_decisions": "None; the SJC supplied its own judgment and reasoning at lines 37–94."
+  },
+  "source_limits": "The supplied source contains the operative SJC decision and adopted reasoning but not the full record or commission documents beyond quoted provisions.",
+  "benchmark_examples": [
+    "C01",
+    "C02"
+  ],
+  "scores": {
+    "concrete_dispute": 2,
+    "decision": 2,
+    "decisive_reason": 2,
+    "distinctive_value": 2,
+    "fidelity": 2,
+    "economy": 2
+  },
+  "score_reasons": {
+    "concrete_dispute": "Identifies all three challenged Session actions.",
+    "decision": "States both denied claims, the sustained claim, and annulment.",
+    "decisive_reason": "Explains constitutional silence, defined delegated business, and impermissibly sweeping authority.",
+    "distinctive_value": "Preserves the distinction between permissible commissions generally and an overbroad delegation.",
+    "fidelity": "Separates the complainant’s challenges from the SJC’s holdings and qualifications.",
+    "economy": "Retains only facts needed to understand the mixed result and governing distinction."
+  },
+  "verification_notes": "Rechecked the three numbered issues against the judgment and corrected the final synopsis to emphasize that standing governance commissions are not inherently barred; the defect was the adopted commission’s sweeping scope and reversed delegation. Confirmed that only the third motion was annulled and that no remand was ordered.",
+  "repair_needed": false,
+  "repair_notes": ""
+}

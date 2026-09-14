@@ -1,0 +1,49 @@
+{
+  "case_id": "2022-14",
+  "title": "Oh v. Korean Southeast Presbytery",
+  "matter_type": "complaint",
+  "final_dispositions": [
+    "dismissed"
+  ],
+  "disposition_detail": "The complaint was dismissed after the complainant withdrew it on August 29, 2022.",
+  "first_summary": "The SJC dismissed Oh’s complaint against Korean Southeast Presbytery after he withdrew it. The decision provides no description of the challenged action or merits ruling.",
+  "summary": "The SJC dismissed Oh’s complaint against Korean Southeast Presbytery following his withdrawal of it. The brief decision does not identify the challenged presbytery action, address the merits, or grant substantive relief.",
+  "sources": [
+    {
+      "path": "cases/ga50_2023__2022-14.md",
+      "sha256": "db3e0c3299622a2b8e5a171eebe3e958683bb7be83ae4c40fd4c6f12abfdba13",
+      "locator": "printed p. 923, lines 14–20",
+      "supports": "Case identity, complaint procedure, dismissal metadata, and withdrawal."
+    }
+  ],
+  "evidence_notes": {
+    "identity_and_adoption": "The SJC caption and decision identify Case 2022-14, Te Sung Bok Oh v. Korean Southeast Presbytery (printed p. 923, lines 14–18).",
+    "dispute": "The source identifies a complaint but does not describe the challenged action or allegations (printed p. 923, lines 16–20).",
+    "outcomes_and_reasons": "The source labels the disposition dismissed and states that the complainant withdrew his complaint on August 29, 2022 (lines 3, 18–20).",
+    "qualifications": "No merits analysis, substantive relief, or remaining proceedings are stated (printed p. 923, lines 18–20).",
+    "incorporated_decisions": "No decision is incorporated by reference."
+  },
+  "source_limits": "This sparse decision records only the withdrawal and dismissal; it does not describe the underlying dispute or provide merits reasoning.",
+  "benchmark_examples": [
+    "C20"
+  ],
+  "scores": {
+    "concrete_dispute": 0,
+    "decision": 2,
+    "decisive_reason": 2,
+    "distinctive_value": 1,
+    "fidelity": 2,
+    "economy": 2
+  },
+  "score_reasons": {
+    "concrete_dispute": "The source does not identify the challenged presbytery action.",
+    "decision": "The synopsis states the dismissal following withdrawal.",
+    "decisive_reason": "It faithfully identifies withdrawal as the only stated basis and claims no merits rationale.",
+    "distinctive_value": "It clarifies that the disposition was procedural rather than a merits determination.",
+    "fidelity": "It distinguishes the complainant’s withdrawal from the recorded dismissal.",
+    "economy": "Every detail explains the limited procedural disposition."
+  },
+  "verification_notes": "Rechecked the caption, decision heading, dismissal metadata, and operative statement. The final summary distinguishes the complainant’s withdrawal from the case’s recorded dismissal and confirms that no merits ruling appears.",
+  "repair_needed": false,
+  "repair_notes": ""
+}

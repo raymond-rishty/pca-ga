@@ -1,0 +1,50 @@
+{
+  "case_id": "2002-10",
+  "title": "Carolyn Goerig v. Pacific Northwest Presbytery",
+  "matter_type": "complaint",
+  "final_dispositions": [
+    "sustained"
+  ],
+  "disposition_detail": "Complaint sustained. The SJC held that Pacific Northwest Presbytery erred in denying Carolyn Goerig's December 23, 2001 complaint. Because Faith Presbyterian Church (Tacoma) Session did not follow BCO 38-4 regarding her membership, the Presbytery should have remanded the case to the Session. No separate issue-level dispositions appear.",
+  "first_summary": "Carolyn Goerig complained that Pacific Northwest Presbytery wrongly denied her complaint against Faith Presbyterian Church (Tacoma) Session, which had banned her from attending and treated her membership as subject to retroactive erasure. The SJC sustained the complaint, reasoning that she remained a member under BCO 46-3 and that the Session failed to follow BCO 38-4. The Presbytery should have remanded the case to the Session.",
+  "summary": "A church member challenged Pacific Northwest Presbytery's denial of her complaint that Faith Presbyterian Church (Tacoma) Session had banned her from worship and sought to erase her membership retroactively under BCO 38-4. The SJC sustained the complaint. Because she never joined Covenant PCA, BCO 46-3 left her membership under Faith's Session; the Session's proposed retroactive erasure did not comply with BCO 38-4's pastoral-oversight steps. The Presbytery therefore erred and should have remanded the matter to the Session. No separate merits relief beyond that remand directive appears.",
+  "sources": [
+    {
+      "path": "cases/ga31_2003__2002-10.md",
+      "sha256": "aeb9b0df1bd067dcacd5ed44a922b8b6795b87b57c5c85025e3594dcb69f7038",
+      "locator": "lines 52–73 (printed pp. 118–119); header line 3",
+      "supports": "matter type, adopted decision, reasoning, and disposition"
+    }
+  ],
+  "evidence_notes": {
+    "identity_and_adoption": "Standing Judicial Commission case 2002-10; header line 3 states disposition sustained; judgment and reasoning at lines 54–76; adopted roll call at lines 77–81.",
+    "dispute": "Lines 20–48: complainant was a Faith Presbyterian Church (Tacoma) member who was told not to attend, denied resumption of worship, and faced proposed retroactive erasure; Presbytery denied her complaint at lines 46–48.",
+    "outcomes_and_reasons": "Lines 54–73: SJC sustained complaint; BCO 46-3 left membership with Faith Session because transfer to Covenant PCA never completed; proposed BCO 38-4 retroactive erasure did not follow required procedures; Presbytery should have remanded.",
+    "qualifications": "Lines 18, 75–81: opinion by TE G. Dewey Roberts, concurred in by Aquila and Lehn; final roll call reports 17 concurred, 0 dissented, 1 disqualified, 4 absent, while line 18 and line 14 table give conflicting counts/dissent.",
+    "incorporated_decisions": "Lines 38–46: Session denial and Presbytery denial are described but their full records are not supplied; no separate incorporated decision is available."
+  },
+  "source_limits": "Only the SJC opinion excerpt is supplied; the full Record of the Case, lower-court records, and any separate dissent text are absent. The roll-call data are internally inconsistent (lines 14, 18, 79–81).",
+  "benchmark_examples": [
+    "C01. 1978-02: Allin et al. v. Tennessee Valley Presbytery — preserve mixed procedural and merits outcomes and remand relief.",
+    "C20. 2016-13: Daniels et al. v. Nashville Presbytery — do not explain an unexplained disposition."
+  ],
+  "scores": {
+    "concrete_dispute": 2,
+    "decision": 2,
+    "decisive_reason": 2,
+    "distinctive_value": 2,
+    "fidelity": 2,
+    "economy": 2
+  },
+  "score_reasons": {
+    "concrete_dispute": "Identifies the challenged ban from worship, membership-status action, and Presbytery denial.",
+    "decision": "States complaint sustained and the required remand to the Session; no other issues.",
+    "decisive_reason": "Explains BCO 46-3 retention of membership and BCO 38-4 noncompliance.",
+    "distinctive_value": "Preserves rule that uncompleted transfer leaves membership intact and that retroactive erasure requires BCO 38-4 procedures.",
+    "fidelity": "Separates SJC holding from Session and Presbytery actions and notes source's roll-call inconsistency.",
+    "economy": "Synopsis is 86 words and omits nonessential chronology."
+  },
+  "verification_notes": "Rechecked lines 54–73 and 77–81. Confirmed the adopted judgment says the Presbytery erred and should have remanded because BCO 38-4 was not followed. Corrected the draft to avoid listing remand as the SJC's separate final disposition and to note the conflicting roll-call records. Confirmed no other material issue dispositions.",
+  "repair_needed": false,
+  "repair_notes": "No repair needed."
+}

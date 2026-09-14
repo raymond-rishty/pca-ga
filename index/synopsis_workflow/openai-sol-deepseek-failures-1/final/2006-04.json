@@ -1,0 +1,49 @@
+{
+  "case_id": "2006-04",
+  "title": "Complaint of James Peffley, Et Altera vs. Heritage Presbytery",
+  "matter_type": "complaint",
+  "final_dispositions": [
+    "out_of_order"
+  ],
+  "disposition_detail": "The Assembly record reports that case 2006-04 was found out of order. It does not identify an administrative or judicial subtype or decide the merits.",
+  "first_summary": "The SJC found James Peffley and others’ complaint against Heritage Presbytery out of order. No separate merits opinion was published, and the record gives no reason, challenged action, or relief.",
+  "summary": "The Assembly record reports that complaint 2006-04 against Heritage Presbytery was found out of order. The published stub does not identify the challenged presbytery action, classify the ruling as administrative or judicial, state a reason, or provide a merits determination or relief. The case therefore supports only that procedural disposition, not a substantive rule.",
+  "sources": [
+    {
+      "path": "cases/ga34_2006__stub_2006-04.md",
+      "sha256": "4dc7f7c507e0e1f0a121df34ba45e15ae8492aa66230a7bfa58f32d312341db9",
+      "locator": "lines 1–5, 9",
+      "supports": "Case identity, court and Assembly metadata, out-of-order disposition, and absence of a published merits opinion."
+    }
+  ],
+  "evidence_notes": {
+    "identity_and_adoption": "The heading identifies case 2006-04 and the parties (line 1); metadata identifies the SJC and 34th Assembly (line 3), while the editorial note attributes the recorded disposition to the Assembly (line 5).",
+    "dispute": "The title identifies a complaint against Heritage Presbytery, but the challenged action is not stated (line 1).",
+    "outcomes_and_reasons": "Case 2006-04 was found out of order; no reason or subtype is supplied (line 9).",
+    "qualifications": "No separate merits opinion was published (line 5). The surrounding fragment concerning other cases supplies no facts about this complaint (line 9).",
+    "incorporated_decisions": "No incorporated decision is identified."
+  },
+  "source_limits": "The source is a short catalog stub and fragment rather than an operative judgment. It provides no allegations, reasoning, relief, or subtype of the out-of-order ruling.",
+  "benchmark_examples": [
+    "C20"
+  ],
+  "scores": {
+    "concrete_dispute": 1,
+    "decision": 2,
+    "decisive_reason": 2,
+    "distinctive_value": 1,
+    "fidelity": 2,
+    "economy": 2
+  },
+  "score_reasons": {
+    "concrete_dispute": "The parties and procedural vehicle are known, but the challenged conduct is not.",
+    "decision": "The sole recorded disposition—out of order—is stated without adding a subtype.",
+    "decisive_reason": "The synopsis faithfully states that no reason appears.",
+    "distinctive_value": "It preserves the important limitation that no merits rule can be drawn from the stub.",
+    "fidelity": "It distinguishes the recorded disposition from unsupported merits, reasons, or relief.",
+    "economy": "Every detail explains either the disposition or the source’s limitations."
+  },
+  "verification_notes": "Rechecked lines 3, 5, and 9. The final summary replaces the first summary’s direct attribution to the SJC with the more precise phrase “Assembly record reports,” and avoids inferring an administrative or judicial subtype.",
+  "repair_needed": false,
+  "repair_notes": "The sparse record limits the synopsis but does not reveal a source or catalog defect."
+}

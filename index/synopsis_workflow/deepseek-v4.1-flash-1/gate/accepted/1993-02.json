@@ -1,0 +1,50 @@
+{
+  "case_id": "1993-02",
+  "title": "Johnson v. Evangel Presbytery",
+  "matter_type": "appeal",
+  "final_dispositions": [
+    "not_sustained"
+  ],
+  "disposition_detail": "Appeal not sustained as to all alleged procedural and judgment errors (irregularities, refusal of evidence, haste, prejudice, mistaken censure); Evangel Presbytery's judgment and its indefinite suspension were left in force. One commissioner dissented.",
+  "first_summary": "The SJC denied an appeal from Evangel Presbytery's finding that a teaching elder wrongly pursued divorce. It found no material procedural irregularity, no refusal of evidence, no haste or prejudice, and held the 'spiritual desertion' defense unsupported; the 1992 study did not change confessional standards. The Presbytery's judgment and suspension were affirmed, with one dissent.",
+  "summary": "An appeal challenged Evangel Presbytery's judgment that a teaching elder wrongfully pursued divorce without biblical grounds, alleging procedural irregularities, refused evidence, haste, prejudice, and mistaken censure. The SJC rejected each claim: failure to swear two minor witnesses was acknowledged and nonprejudicial, notices and defense opportunity were adequate, and the guilty finding rested on Scripture, WCF 24:6, BCO 26-1, and 30-3; the 1992 study did not authorize divorce for alleged spiritual desertion. The appeal was not sustained, leaving the indefinite suspension in force; one commissioner dissented.",
+  "sources": [
+    {
+      "path": "cases/ga22_1994__1993-02.md",
+      "sha256": "9a56342a3d39e4e3fc357e625c69db6a63f20c5725c04cbb0bd6ed851ea0e8fe",
+      "locator": "pp. 107–109 (lines 1–91)",
+      "supports": "Case identity, SJC approval, procedural history, appeal issues, judgment, adopted reasoning, and dissent vote."
+    }
+  ],
+  "evidence_notes": {
+    "identity_and_adoption": "Case No. 93-2, Johnson v. Evangel Presbytery; SJC, 22nd General Assembly (1994); adopted decision approved 21 concurring, 1 dissenting (lines 1–5, 90).",
+    "dispute": "TE Edgar Davis Johnson appealed Evangel Presbytery's 1/26/93 approval of a commission judgment finding him guilty of wrongfully pursuing divorce without biblical grounds and imposing indefinite suspension; he alleged five procedural and judgment errors (lines 17–25, 32–40).",
+    "outcomes_and_reasons": "Appeal not sustained. The SJC found no material procedural irregularity; the unsworn minor witnesses were acknowledged and nonprejudicial, notices and defense opportunity were adequate, no proper evidence was declined, no haste or prejudice was shown, and the censure was supported by BCO 30-3. It rejected the 'spiritual desertion' defense, citing 1 Cor. 7:10–15, BCO 26-1, WCF 24:6, and the 1992 study's limited porneia/desertion conclusions (lines 42–79).",
+    "qualifications": "The court noted one minor procedural omission—failure to swear two minor witnesses—but found no prejudice because it was acknowledged and neither party objected. The record reports one dissent but does not include dissent reasons (lines 51–54, 90).",
+    "incorporated_decisions": "The reasoning references the 1992 Ad Interim study and M20GA pp. 558, 563, 633–636 as interpretive materials; no incorporated decision supplies the result in this case (lines 64–77)."
+  },
+  "source_limits": "The supplied record contains a summary of facts, statement of issues, judgment, reasoning, and vote, but not the full trial record, the Presbytery's Pastoral Letter, or the dissent's reasoning. No separate incorporated decision provides the disposition.",
+  "benchmark_examples": [
+    "C01 (1978-02 Allin): preserve mixed procedural and merits outcomes and the effect of remand.",
+    "C20 (2016-13 Daniels): keep an unexplained disposition unexplained where the adopted ruling gives no rationale; not directly analogous because this case supplies adopted reasoning."
+  ],
+  "scores": {
+    "concrete_dispute": 2,
+    "decision": 2,
+    "decisive_reason": 2,
+    "distinctive_value": 2,
+    "fidelity": 2,
+    "economy": 2
+  },
+  "score_reasons": {
+    "concrete_dispute": "Identifies the challenged Presbytery judgment, the underlying divorce/biblical-grounds dispute, and all five alleged appellate errors.",
+    "decision": "States the operative judgment not sustained, rejection of every appellate claim, and that the suspension remained in force.",
+    "decisive_reason": "Explains the adopted reasoning: no material procedural irregularity or prejudice, guilt supported, and spiritual desertion not established under the 1992 study and constitutional standards.",
+    "distinctive_value": "Preserves the distinction that the 1992 study did not amend the Confession or broaden divorce grounds, and notes the minor unsworn-witness issue that did not require reversal.",
+    "fidelity": "Separates the lower court's finding, the SJC's adopted reasoning, and the reported dissent; does not attribute dissent reasons not in the source.",
+    "economy": "Includes the concrete issues, outcome, decisive standards, remedy, and the one meaningful qualification without unnecessary filing chronology."
+  },
+  "verification_notes": "Rechecked lines 17–25 and 42–79: the operative judgment is 'Not Sustained,' and the reasoning expressly sustains Evangel Presbytery's judgment. Corrected first_summary's 'denied/affirmed' phrasing to 'not sustained' and added that the indefinite suspension remained in force. Confirmed the only acknowledged procedural exception was the unsworn minor witnesses (lines 51–54) and that all five appeal grounds (lines 32–40) were rejected. Confirmed one dissent but no dissent reasons are supplied (line 90).",
+  "repair_needed": false,
+  "repair_notes": "No source or catalog defect identified."
+}

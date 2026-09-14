@@ -1,0 +1,51 @@
+{
+  "case_id": "2002-05",
+  "title": "Plowman v. Philadelphia Presbytery",
+  "matter_type": "complaint",
+  "final_dispositions": [
+    "sustained",
+    "remanded"
+  ],
+  "disposition_detail": "Complaint sustained on both issues. Issue 1 sustained: Philadelphia Presbytery erred under BCO 42-2 by not accepting Plowman's July 31, 2002 appeal; she had submitted to regular trial, so the appeal was in order and was remanded to Presbytery for adjudication. Issue 2 sustained: Presbytery erred under BCO 43-1 in finding her October 19, 2002 complaint untimely because, once the pending appeal was renamed as a complaint on Presbytery's advice, the complaint was timely. Relief: remand to Philadelphia Presbytery to hear the appeal as originally filed. The SJC also noted that under BCO 42-6 the appeal suspended the lower court's judgment and the Lord's Table censure pending final adjudication.",
+  "first_summary": "A church session suspended a member from the Lord's Table and later found her guilty of contumacy. Philadelphia Presbytery refused to accept her appeal and denied her complaint as untimely. The SJC sustained her complaint, held her appeal in order because she had submitted to regular trial, and remanded for Presbytery to adjudicate the appeal.",
+  "summary": "A church session suspended a member from the Lord's Table and found her guilty of contumacy. Philadelphia Presbytery's committee advised her appeal was out of order, then ruled her complaint untimely. The SJC sustained her complaint: she had submitted to regular trial, making her appeal in order under BCO 42-2, and her complaint was timely after Presbytery's advice caused the appeal to be renamed. It remanded for Presbytery to adjudicate the appeal. Filing the appeal suspended the Lord's Table censure pending final adjudication; the SJC questioned the contumacy ruling.",
+  "sources": [
+    {
+      "path": "cases/ga32_2004__2002-05.md",
+      "sha256": "a8648bee51c2bc9d1f8070aeba3c0bfb56ca0b198b9c7a8f2fab0b13b3e3b2d5",
+      "locator": "lines 14–190 (printed pp. 59–66); concurring opinion lines 192–218 (printed pp. 66–67)",
+      "supports": "Canonical case title, procedural history, statement of issues, judgment, majority reasoning, adoption vote, and separate concurring opinion."
+    }
+  ],
+  "evidence_notes": {
+    "identity_and_adoption": "Case 2002-5 (Refiled), Complaint of Nancy J. Plowman vs. Philadelphia Presbytery, lines 14, 184–190. Report by TE Dominic Aquila, with concurrence of RE Frank Brock and TE Charles McGowan; adopted 18 concurring, 0 dissenting, 1 disqualified, 1 recused, and 3 absent; approved by the full SJC on October 16, 2003. Source: cases/ga32_2004__2002-05.md, SHA256 a8648bee51c2bc9d1f8070aeba3c0bfb56ca0b198b9c7a8f2fab0b13b3e3b2d5.",
+    "dispute": "Lines 18–54, 58–60. The Session of Lehigh Valley Presbyterian Church suspended Plowman from the Sacraments on December 21, 2001 and later found her guilty of contumacy on July 1, 2002. She filed an appeal on July 31, 2002; Philadelphia Presbytery's Judicial Business Committee chairman told her it was out of order. She then filed a complaint on August 18, 2002. Presbytery denied the complaint on January 18, 2003 as untimely. The SJC framed issues under BCO 42-2 and BCO 43-1.",
+    "outcomes_and_reasons": "Judgment lines 62–66: both issues answered Yes; the appeal was remanded to Philadelphia Presbytery to be heard as originally filed. Reasoning lines 72–167: Plowman submitted to regular trial by heeding citations and attending sessions; the Session's act of ending the trial did not negate her appeal right under BCO 42-2. The Judicial Business Committee chairman acted without full committee or Presbytery authority, and a committee cannot conclude a matter under BCO 15-1. The complaint was timely under BCO 43-1 once the appeal was renamed. Lines 179–182 note BCO 42-6's suspension of judgment and censure pending final adjudication.",
+    "qualifications": "Lines 169–175: the SJC said it was not persuaded that the Session properly interpreted and applied BCO 32-6.b and BCO 33-2 and noted questions about quorum and teaching elder presence; these were additional concerns, not a final merits adjudication of the contumacy charge. Concurring opinion lines 192–216 concurs in result but relies on equity, fair play, and estoppel because Presbytery's incorrect advice caused Plowman to withdraw her timely appeal and file an untimely complaint. The concurrence is not the majority's adopted reasoning.",
+    "incorporated_decisions": "Footnote line 40 and refiling notes lines 32 and 54: the earlier Case 2002-5 was found administratively out of order by the SJC because the matter was still before the Session. No separate incorporated decision text is supplied. The Record of the Case (ROC) and lower-court minutes are cited in the source but are not included."
+  },
+  "source_limits": "The supplied source contains the SJC report, adoption vote, and concurring opinion. The Record of the Case, Session minutes, Presbytery minutes, and prior administrative ruling are referenced but not supplied; their contents are taken from the SJC's recitals. No independent verification of the lower-court record was possible.",
+  "benchmark_examples": [
+    "A01 (Grady v. Southwest Florida Presbytery) as a model for distinguishing conviction, censure, and suspension and for stating what relief did not follow.",
+    "A19 (Spann v. Oak Mountain Presbyterian Church) as a model for preserving procedural postures and avoiding treating allegations as found facts."
+  ],
+  "scores": {
+    "concrete_dispute": 2,
+    "decision": 2,
+    "decisive_reason": 2,
+    "distinctive_value": 2,
+    "fidelity": 2,
+    "economy": 2
+  },
+  "score_reasons": {
+    "concrete_dispute": "Identifies the challenged Presbytery actions: advising the appeal was out of order and denying the complaint as untimely.",
+    "decision": "States both issue-level successes and the operative relief: sustained and remanded for adjudication of the appeal.",
+    "decisive_reason": "Explains the adopted grounds: Plowman submitted to regular trial under BCO 42-2, and the complaint was timely under BCO 43-1 after the appeal was renamed.",
+    "distinctive_value": "Preserves the BCO 42-6 suspension effect and the SJC's questioning of the contumacy ruling without converting those into final merits relief.",
+    "fidelity": "Separates the SJC's adopted judgment from the lower-court actions, the concurring opinion's estoppel rationale, and the unsupplied ROC materials.",
+    "economy": "Every retained detail explains the procedural dispute, the SJC's reasoning, or the practical relief."
+  },
+  "verification_notes": "Rechecked the operative Judgment at lines 62–66 and the majority reasoning at lines 72–167. Corrected the final summary from the first_summary to add the BCO 42-6 suspension effect and to avoid implying the SJC reversed or acquitted on the contumacy finding; the SJC remanded and left final adjudication to Presbytery. Confirmed the concurring opinion at lines 192–216 relies on equity and estoppel and is separate from the majority's adopted basis. Rechecked the adoption vote at lines 184–190: 18 concurring, 0 dissenting.",
+  "repair_needed": false,
+  "repair_notes": "None."
+}

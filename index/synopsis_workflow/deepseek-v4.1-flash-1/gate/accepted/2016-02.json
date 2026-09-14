@@ -1,0 +1,50 @@
+{
+  "case_id": "2016-02",
+  "title": "Robertstad v. North Texas Presbytery",
+  "matter_type": "complaint",
+  "final_dispositions": [
+    "administratively_out_of_order"
+  ],
+  "disposition_detail": "Complaint found administratively out of order and unable to be put in order for failure to comply with BCO 43-3: initial e-mail filing was not permitted, and hard-copy filing was after the 30-day deadline. No merits determination. The SJC approved by roll call, 21 concur, 3 absent.",
+  "first_summary": "Robertstad's complaint against North Texas Presbytery was dismissed by the SJC because he filed by e-mail rather than hard copy. The SJC did not reach the merits; a concurrence explained BCO 43-3 and suggested an amendment.",
+  "summary": "The SJC found TE Arnold Robertstad's complaint against North Texas Presbytery administratively out of order and incapable of being put in order under BCO 43-3. Robertstad initially filed by e-mail—not an allowed filing—and his hard-copy filing arrived after the thirty-day deadline. The SJC reasoned that BCO 42-4/43-3 notification language concerns a lower court notifying parties, not party e-filing, and OMSJC 18.10.b bars e-mail filing. The merits were not reached; a concurrence urged later clarification by amendment, and no further proceedings are indicated.",
+  "sources": [
+    {
+      "path": "cases/ga45_2017__2016-02.md",
+      "sha256": "c4761d3d5671d5522ee220aaa72bc66303990f98872c837556707989dc02ce49",
+      "locator": "lines 13–43 (adopted decision and roll call); lines 45–189 (concurrence); printed pp. 509–514",
+      "supports": "Identity, SJC disposition, adopted reasons, roll-call adoption, and concurring-opinion qualification."
+    }
+  ],
+  "evidence_notes": {
+    "identity_and_adoption": "Case 2016-02, Robertstad v. North Texas Presbytery; SJC decision on complaint dated Oct. 20, 2016, adopted by 21 concur/3 absent roll call. Source: cases/ga45_2017__2016-02.md, sha256 c4761d3d5671d5522ee220aaa72bc66303990f98872c837556707989dc02ce49, lines 13–43; printed pp. 509–510.",
+    "dispute": "The adopted decision addresses a complaint against North Texas Presbytery that was administratively out of order for BCO 43-3 filing defects: initial e-mail filing and late hard-copy filing; the underlying merits are not described. Same source, lines 15–19; printed p. 509.",
+    "outcomes_and_reasons": "SJC found the complaint administratively out of order and incapable of being put in order; it reasoned BCO 42-4/43-3 notification language concerns a court notifying parties, not electronic party filing, and OMSJC 18.10.b bars e-mail filings. Same source, lines 15–40; printed pp. 509–510.",
+    "qualifications": "No merits determination; concurrence by Donahoe, joined by Barker and Carrell, concurs but proposes a future BCO 43-3 clarification; roll call has three absences. Same source, lines 41–43, 45–83, 187–189; printed pp. 510–514.",
+    "incorporated_decisions": "No incorporated decision supplied. The adopted ruling cites M40GA pp. 72–73, 697–698, M41GA p. 17, and OMSJC 18.10.b/c, but the source only quotes some of that material in the concurrence. Same source, lines 20–40, 83–147; printed pp. 509–513."
+  },
+  "source_limits": "The supplied text does not describe the underlying merits or subject of Robertstad's complaint against North Texas Presbytery, the lower court's action date, or the notification facts beyond the filing defect. It includes the SJC decision and a concurring opinion but no full record or incorporated decisions.",
+  "benchmark_examples": [
+    "C01: preserve procedural errors and mixed or unsuccessful claims.",
+    "C20: keep sparse or unexplained adopted rulings within their stated bounds."
+  ],
+  "scores": {
+    "concrete_dispute": 2,
+    "decision": 2,
+    "decisive_reason": 2,
+    "distinctive_value": 2,
+    "fidelity": 2,
+    "economy": 2
+  },
+  "score_reasons": {
+    "concrete_dispute": "Identifies the concrete SJC filing-defect dispute—initial e-mail filing and late hard-copy filing—while noting the underlying merits are not in the source.",
+    "decision": "States the sole disposition: administratively out of order and incapable of being put in order; notes no merits ruling.",
+    "decisive_reason": "Explains the adopted BCO 43-3 and OMSJC 18.10.b reasoning for disallowing e-mail filing.",
+    "distinctive_value": "Captures the administrative filing rule and the distinction between notification of a court decision and party e-filing.",
+    "fidelity": "Separates the adopted ruling from the concurrence and does not convert the proposed amendment into relief.",
+    "economy": "Brief; every detail bears on the filing defect, disposition, or source limits."
+  },
+  "verification_notes": "Rechecked the operative SJC ruling at lines 15–19 and 30–40, the roll call at lines 41–43, and the concurrence at lines 45–83 and 85–189. Corrected first_summary's 'dismissed by e-mail' to the source's exact administrative-out-of-order ruling based on both initial e-mail filing and late hard-copy filing; confirmed no merits ruling, no incorporated decision in the supplied text, and that the concurrence's proposed amendment is not adopted relief.",
+  "repair_needed": false,
+  "repair_notes": ""
+}

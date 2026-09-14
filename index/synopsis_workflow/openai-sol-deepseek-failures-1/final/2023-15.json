@@ -1,0 +1,50 @@
+{
+  "case_id": "2023-15",
+  "title": "Tom Turner v. South Florida Presbytery",
+  "matter_type": "complaint",
+  "final_dispositions": [
+    "administratively_out_of_order"
+  ],
+  "disposition_detail": "The SJC ruled both complaints administratively out of order for lack of standing and held that they could not be put in order. It did not decide the merits of either challenge.",
+  "first_summary": "Turner challenged South Florida Presbytery Judicial Commission actions deposing TE Tommy Boland and dissolving Cross Community Church’s relationship with Presbytery. The SJC ruled both complaints administratively out of order for lack of standing because the congregation had already voted to disaffiliate. It treated the first withdrawal motion as immediately effective and the second, timing-related motion as out of order, concluding that no Presbytery action was required.",
+  "summary": "Turner complained against Presbytery Judicial Commission actions deposing TE Tommy Boland and dissolving Cross Community Church’s relationship with Presbytery. The SJC ruled both complaints administratively out of order for lack of standing and incapable of being put in order. Cross Community had already disaffiliated through its first congregational motion; the second motion, which contemplated later implementation, was out of order as contingent. Because no Presbytery action was required to effect disaffiliation, Turner was no longer a PCA member. The underlying challenges were not decided.",
+  "sources": [
+    {
+      "path": "cases/ga51_2024__2023-15_2023-17.md",
+      "sha256": "332a914c781fddfda250dae3edbe76e5ff093cd29f03a00df80da9b2a93e3124",
+      "locator": "lines 9–30; printed pp. 946–947",
+      "supports": "Case identity, joint ruling, disposition, standing rationale, treatment of the congregational motions, and adoption vote."
+    }
+  ],
+  "evidence_notes": {
+    "identity_and_adoption": "The source identifies Case Nos. 2023-15 and 2023-17, Turner v. South Florida Presbytery, and an SJC ruling dated March 7, 2024; the final ruling was approved 19-2 (lines 9–15, 30–33; printed pp. 946–947).",
+    "dispute": "The dissent’s procedural account identifies complaints against the deposition of Boland and dissolution of Cross Community Church’s relationship with Presbytery (lines 44–56; printed pp. 948–949).",
+    "outcomes_and_reasons": "The adopted ruling holds both complaints administratively out of order for lack of standing and incapable of being put in order because Cross Community had disaffiliated; it treats the first motion as effective and the second as contingent and out of order (lines 15–28; printed pp. 946–947).",
+    "qualifications": "The dissent disputed the standing ruling but expressly took no position on the underlying issues; that view was not adopted (lines 38–42, 111–115; printed pp. 948, 951).",
+    "incorporated_decisions": "No decision was incorporated into the majority ruling. Prior SJC cases 2013-07 and 2019-06 appear only in the dissent (lines 86–109; printed pp. 950–951)."
+  },
+  "source_limits": "The supplied text combines Cases 2023-15 and 2023-17 and does not expressly map each number to one of the two complaints; the synopsis therefore preserves the SJC’s joint treatment.",
+  "benchmark_examples": [
+    "C01",
+    "C20"
+  ],
+  "scores": {
+    "concrete_dispute": 2,
+    "decision": 2,
+    "decisive_reason": 2,
+    "distinctive_value": 2,
+    "fidelity": 2,
+    "economy": 2
+  },
+  "score_reasons": {
+    "concrete_dispute": "Identifies both challenged Judicial Commission actions.",
+    "decision": "States the administrative out-of-order ruling for both complaints and absence of a merits decision.",
+    "decisive_reason": "Explains the standing determination and treatment of both congregational motions.",
+    "distinctive_value": "Preserves the distinction between an effective withdrawal vote and a contingent implementation motion.",
+    "fidelity": "Separates the adopted ruling from the dissent and procedural account.",
+    "economy": "Retains only details necessary to understand the dispute, result, and rationale."
+  },
+  "verification_notes": "Rechecked the operative ruling at lines 15–30. The final summary clarifies that the challenged acts were those of Presbytery’s Judicial Commission, identifies both complaints, adds that they could not be put in order, and states that no underlying merits issue was decided.",
+  "repair_needed": false,
+  "repair_notes": ""
+}

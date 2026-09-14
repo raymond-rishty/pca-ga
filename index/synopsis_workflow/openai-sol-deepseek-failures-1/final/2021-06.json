@@ -1,0 +1,56 @@
+{
+  "case_id": "2021-06",
+  "title": "Herron et al. v. Central Indiana Presbytery",
+  "matter_type": "complaint",
+  "final_dispositions": [
+    "partially_sustained"
+  ],
+  "disposition_detail": "Specifications A, B, and D were denied; Specification C was sustained, subject to the qualification that Herron was not necessarily entitled to every investigative-committee document. Presbytery was instructed to proceed to trial. Censure decisions were temporarily suspended, and related complaints were postponed through the judicial process and any appeal. The SJC separately accepted Presbytery’s request to reference the trial.",
+  "first_summary": "Herron and others challenged Presbytery’s decision to proceed to trial, suspend him from official functions, restrict his access to records and meetings, and issue a public statement. The SJC sustained only the access issue, holding that administrative suspension did not remove his membership rights. It found no clear error on the remaining issues, instructed Presbytery to proceed to trial, temporarily suspended censure decisions, and postponed related complaints.",
+  "summary": "Herron and others challenged Presbytery’s decision to proceed to trial after a BCO 31-2 finding, his administrative suspension, denial of access to Presbytery records and meetings, and a public statement. The SJC sustained only the access issue: suspension from official functions did not remove his membership rights, though it did not entitle him to every investigative-committee document. Finding no clear error on the other issues, it ordered trial to proceed, temporarily stayed censure decisions, and postponed related complaints through trial and any appeal.",
+  "sources": [
+    {
+      "path": "cases/ga49_2022__2021-06.md",
+      "sha256": "0ae4d7f45453f87dee89e8405a8af62c90d311f5aa1026d11a17d3ca626db875",
+      "locator": "lines 87–102, 104–192, 194–265 (printed pp. 921–927)",
+      "supports": "Issues, judgments, majority reasoning, trial instruction, temporary suspension of censure decisions, and postponement of related complaints."
+    },
+    {
+      "path": "cases/ga49_2022__2021-06.md",
+      "sha256": "0ae4d7f45453f87dee89e8405a8af62c90d311f5aa1026d11a17d3ca626db875",
+      "locator": "lines 267–275, 453–455 (printed pp. 927–928, 934)",
+      "supports": "SJC adoption, separate partial dissent, and subsequent acceptance of the trial reference."
+    }
+  ],
+  "evidence_notes": {
+    "identity_and_adoption": "The caption identifies Case 2021-06 and the SJC decision on complaint (lines 1–11); the SJC approved the revised panel decision 18-0-0 (lines 267–271).",
+    "dispute": "The four issues concerned proceeding after the investigation, suspension, access restrictions, and the public statement (lines 87–95, printed p. 921).",
+    "outcomes_and_reasons": "Judgments were No, No, Yes, No (lines 97–102). The majority applied lower-court deference and found no clear error on investigation, suspension, or publicity, but held suspension did not remove membership-based access rights (lines 118–192).",
+    "qualifications": "Access did not necessarily extend to every investigative document (lines 176–178). Trial was required, censure decisions were temporarily suspended, and related complaints postponed (lines 231–265). Donahoe dissented only on Issue D (lines 273–275).",
+    "incorporated_decisions": "Case 2020-04 appears as procedural history and the source supplies its investigative directive (lines 15–19); no unavailable incorporated merits decision controls this judgment. The later trial reference was separately accepted (lines 453–455)."
+  },
+  "source_limits": "The source contains the complete complaint decision and a separate acceptance of the ensuing trial reference, but no trial verdict or later appellate result.",
+  "benchmark_examples": [
+    "C01",
+    "C02"
+  ],
+  "scores": {
+    "concrete_dispute": 2,
+    "decision": 2,
+    "decisive_reason": 2,
+    "distinctive_value": 2,
+    "fidelity": 2,
+    "economy": 2
+  },
+  "score_reasons": {
+    "concrete_dispute": "Identifies all four challenged Presbytery actions.",
+    "decision": "States the single sustained issue, three rejected issues, qualifications, and next proceedings.",
+    "decisive_reason": "Explains deference and the distinction between suspension of functions and continued membership rights.",
+    "distinctive_value": "Preserves the limits on both administrative suspension and access to investigative materials.",
+    "fidelity": "Separates the majority judgment, Donahoe’s partial dissent, and the later reference request.",
+    "economy": "Retains only facts needed to explain the mixed result and practical consequences."
+  },
+  "verification_notes": "Rechecked the four judgments against lines 87–102 and the operative directions at lines 231–265. The revised summary adds the limitation on investigative-document access and avoids treating the separately accepted trial reference as a disposition of the complaint.",
+  "repair_needed": false,
+  "repair_notes": ""
+}

@@ -1,0 +1,54 @@
+{
+  "case_id": "1985-04",
+  "title": "Appeal of Jack Mayfield v. Siouxlands Presbytery",
+  "matter_type": "appeal",
+  "final_dispositions": [
+    "out_of_order"
+  ],
+  "disposition_detail": "The Assembly adopted the recommendation finding the appeal not in order under BCO 42-4 because it was filed nearly eighteen months after adjudication; Mayfield was directed to BCO 37-4's procedure for removing censure.",
+  "first_summary": "The Assembly found Jack Mayfield's appeal not in order under BCO 42-4 because he filed it nearly a year and a half after the matter had been adjudicated, and his reasons did not justify disregarding the filing requirement. The ruling did not reach the underlying merits and directed him instead to BCO 37-4's procedure for removing censure.",
+  "summary": "The Assembly found Jack Mayfield's appeal not in order under BCO 42-4 because he filed it nearly a year and a half after the matter had been adjudicated, and his reasons did not justify disregarding the filing requirement. The ruling did not reach the underlying merits and directed him instead to BCO 37-4's procedure for removing censure.",
+  "sources": [
+    {
+      "path": "cases/ga13_1985__1985-04.md",
+      "sha256": "8fd4d2f4a63b916ec74c4fc1e53d53f15e314cbdc61b4d4dbdd60c42dc717145",
+      "locator": "lines 9-13 (printed pp. 101-102)",
+      "supports": "Case identity, adopted out-of-order ruling, BCO 42-4 timeliness ground, and BCO 37-4 alternative procedure."
+    }
+  ],
+  "evidence_notes": {
+    "identity_and_adoption": "Lines 9-13 identify Case 4 as Mayfield's appeal against Siouxlands Presbytery and state that the committee recommendation was adopted.",
+    "dispute": "The record concerns an attempted appeal from a matter adjudicated nearly one and a half years earlier; it does not describe the underlying merits beyond indicating an existing censure.",
+    "outcomes_and_reasons": "Lines 11-13 find the appeal not in order under BCO 42-4 because it was untimely and the stated reasons did not justify overruling the filing requirements; BCO 37-4 was identified as the proper censure-removal procedure.",
+    "qualifications": "The source says only 'not in order' and does not label the ruling administratively or judicially out of order. It does not decide the underlying adjudication.",
+    "incorporated_decisions": "Not applicable."
+  },
+  "source_limits": "Complete but brief adopted procedural ruling; the underlying adjudication and censure are not described.",
+  "benchmark_examples": [
+    "A09"
+  ],
+  "scores": {
+    "concrete_dispute": 1,
+    "decision": 2,
+    "decisive_reason": 2,
+    "distinctive_value": 2,
+    "fidelity": 2,
+    "economy": 2
+  },
+  "score_reasons": {
+    "concrete_dispute": "Identifies the late appeal and censure context, but the source omits the underlying controversy.",
+    "decision": "States the exact out-of-order result and alternative route.",
+    "decisive_reason": "Names the nearly eighteen-month delay and rejected excuse.",
+    "distinctive_value": "Preserves the distinction between appeal and censure-removal procedure.",
+    "fidelity": "Does not invent an out-of-order subtype or merits ruling.",
+    "economy": "The concise paragraph uses only source-supported procedural details."
+  },
+  "verification_notes": {
+    "pass_kind": "separate_pass_same_reviewer",
+    "outcome_coverage": "Sentence 1 covers the out-of-order ruling and timeliness reason; sentence 2 covers the absence of merits review and the BCO 37-4 route.",
+    "corrections": "No correction required.",
+    "remaining_limits": "The source does not describe the underlying adjudication or state an administrative/judicial subtype."
+  },
+  "repair_needed": false,
+  "repair_notes": "No blocking source defect identified."
+}

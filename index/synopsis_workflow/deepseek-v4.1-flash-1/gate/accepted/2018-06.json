@@ -1,0 +1,50 @@
+{
+  "case_id": "2018-06",
+  "title": "Edwards v. North Texas Presbytery",
+  "matter_type": "complaint",
+  "final_dispositions": [
+    "administratively_out_of_order"
+  ],
+  "disposition_detail": "Complaint found administratively out of order and incapable of being put in order because the matter was never filed with the presbytery or adjudicated below (BCO 42-4 & 43-2). 23 concurring, 0 dissenting, 1 disqualified (TE Fowler, a member of the respondent presbytery, OMSJC 2.10(d)(3)(iii)).",
+  "first_summary": "The SJC held that Jared Edwards's complaint against North Texas Presbytery was administratively out of order and could not be put in order, because the case had never been filed with the presbytery or adjudicated below (BCO 42-4 & 43-2). The Commission concurred 23-0, with one member disqualified as a member of the respondent presbytery.",
+  "summary": "The SJC held that Jared Edwards's complaint against North Texas Presbytery was administratively out of order and could not be put in order, because the case had never been filed with the presbytery or adjudicated below (BCO 42-4 & 43-2). No merits were reached. The ruling drew 23 concurrences and no dissent; TE Fowler was disqualified as a member of the presbytery party (OMSJC 2.10(d)(3)(iii)). The decision illustrates the SJC's threshold filing requirement: a complaint that bypassed the lower court cannot proceed.",
+  "sources": [
+    {
+      "path": "cases/ga47_2019__2018-06.md",
+      "sha256": "f37e0c7cb7198d9fd846a27640d34fcc737f991f572ac30960c0aecbd9a39b54",
+      "locator": "lines 13-23 (printed pp. 577-578)",
+      "supports": "Captioned decision on complaint; administrative out-of-order ruling and its BCO 42-4 & 43-2 basis; concurrence tally and disqualification note."
+    }
+  ],
+  "evidence_notes": {
+    "identity_and_adoption": "cases/ga47_2019__2018-06.md lines 13-15 identify Case 2018-06, Jared Edwards v. North Texas Presbytery, as an SJC 'Decision on Complaint' dated February 7, 2019 (printed p. 577).",
+    "dispute": "The source states only that the matter was never filed with the presbytery or adjudicated below (line 19); it does not describe the underlying allegations or the presbytery action complained of.",
+    "outcomes_and_reasons": "Line 19: the SJC finds the case administratively out of order and incapable of being put in order, citing BCO 42-4 and 43-2. Line 21 records 23 concurring, 0 dissenting, 1 disqualified.",
+    "qualifications": "Line 23 explains TE Fowler's disqualification: he is a member of the presbytery that is a party, under OMSJC 2.10(d)(3)(iii). Line 3 label 'Disposition: administrative' is consistent with the out-of-order ruling; no merits ruling appears.",
+    "incorporated_decisions": "None. The decision contains no incorporation by reference of another decision; lines 27-35 concern unrelated 2019-2020 officer elections and an SJC Manual recommendation and are not part of this case."
+  },
+  "source_limits": "Sparse record: the underlying complaint, its allegations, and the presbytery action challenged are not stated. The synopsis is limited to the administrative disposition, its BCO basis, the vote, and the disqualification.",
+  "benchmark_examples": [
+    "C01 (mixed outcomes and procedural framing)",
+    "C20 (short-record, unexplained-disposition restraint)"
+  ],
+  "scores": {
+    "concrete_dispute": 1,
+    "decision": 2,
+    "decisive_reason": 2,
+    "distinctive_value": 2,
+    "fidelity": 2,
+    "economy": 2
+  },
+  "score_reasons": {
+    "concrete_dispute": "The source states the defect (never filed with presbytery or adjudicated below) but gives no facts of the underlying dispute, so the concrete controversy is only partly identifiable.",
+    "decision": "The single operative disposition (administratively out of order, cannot be put in order) is stated with the vote tally and disqualification.",
+    "decisive_reason": "The adopted reason is precise: the case was never filed with the presbytery or adjudicated below, per BCO 42-4 & 43-2.",
+    "distinctive_value": "Preserves the threshold rule that an unadjudicated-below complaint cannot be cured before the SJC.",
+    "fidelity": "Keeps the adopted ruling, concurrence tally, disqualification, and unrelated following items distinct; no merits or allegations are invented.",
+    "economy": "Three sentences cover the issue, ruling, basis, vote, and limitation without extraneous detail."
+  },
+  "verification_notes": "Rechecked lines 13-23: actor is the SJC (not a presbytery or committee), challenged action is a complaint against North Texas Presbytery, and the operative ruling is administrative out-of-order under BCO 42-4 & 43-2, with no merits reached. Confirmed the 23-0 tally and that Fowler's disqualification rests on presbytery membership, not on the merits. Verified lines 27-41 are unrelated GA/SJC business and excluded them. Confirmed no incorporated decision exists and no facts of the underlying dispute are supplied.",
+  "repair_needed": false,
+  "repair_notes": ""
+}

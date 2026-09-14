@@ -1,0 +1,51 @@
+{
+  "case_id": "2023-10",
+  "title": "Martinez & Cook v. Pacific Presbytery",
+  "matter_type": "complaint",
+  "final_dispositions": [
+    "denied",
+    "sustained"
+  ],
+  "disposition_detail": "The SJC denied the claim that Presbytery violated the BCO by tasking its Shepherding Committee to visit the Session, but sustained the claim that Presbytery clearly erred by giving the Committee only a vague instruction to “follow up.” No remand, annulment, or other relief was ordered.",
+  "first_summary": "Elders challenged Presbytery’s decision to send its Shepherding Committee to their Session with instructions merely to “follow up.” The SJC upheld Presbytery’s authority to visit because the record reasonably suggested risks to the church’s peace and spiritual welfare. It nevertheless sustained the challenge to the vague instructions and deficient communications, which created uncertainty about the visit’s purpose and whether it was compulsory.",
+  "summary": "Elders challenged Presbytery’s authority and vague instruction for its Shepherding Committee to “follow up” with their Session. The SJC denied the constitutional challenge because the record reasonably supported concern for the church’s peace and spiritual welfare, but sustained the challenge to Presbytery’s lack of specific direction and poor communication. The decision distinguishes prohibited mandatory visitation without cause from a reasonably justified visit, while requiring clarity about its objectives. It did not decide the underlying doxology dispute or order further relief.",
+  "sources": [
+    {
+      "path": "cases/ga51_2024__2023-10.md",
+      "sha256": "3dae6f478c4c82a434f2b7af1253c241d37c76a44dd62b9f5b806d398929dbc6",
+      "locator": "printed pp. 856–866, especially pp. 860–866 (lines 94–236)",
+      "supports": "Case identity, issues, judgment, adopted reasoning, scope limitation, and unanimous approval."
+    }
+  ],
+  "evidence_notes": {
+    "identity_and_adoption": "Caption and decision date: printed p. 856, lines 13–17. The SJC approved the final decision 22-0: printed p. 866, lines 232–238.",
+    "dispute": "The two issues challenge Presbytery’s authority to order the Shepherding Committee to follow up and its failure to provide specific direction: printed p. 860, lines 94–99.",
+    "outcomes_and_reasons": "Issue 1 was denied and Issue 2 sustained: printed p. 860, lines 100–116. The record reasonably supported a visit, but vague objectives and communications were clear errors of judgment: printed pp. 864–866, lines 202–234.",
+    "qualifications": "The decision expressly did not address doxologies, benedictions, or final authority over worship elements: printed p. 860, lines 108–114. No additional relief appears in the judgment or conclusion.",
+    "incorporated_decisions": "Preg v. Missouri was quoted and distinguished, not incorporated by reference; it barred mandatory visitation without cause while leaving cause to judgment and discretion: printed pp. 862–864, lines 163–206."
+  },
+  "source_limits": "The supplied decision states issue-level judgments but orders no remand, annulment, or other affirmative relief.",
+  "benchmark_examples": [
+    "C01",
+    "C02"
+  ],
+  "scores": {
+    "concrete_dispute": 2,
+    "decision": 2,
+    "decisive_reason": 2,
+    "distinctive_value": 2,
+    "fidelity": 2,
+    "economy": 2
+  },
+  "score_reasons": {
+    "concrete_dispute": "Identifies both the asserted lack of authority and the vague follow-up instruction.",
+    "decision": "States the denied constitutional claim and sustained judgment-and-discretion claim.",
+    "decisive_reason": "Explains the reasonable basis for visitation and the defects in instructions and communication.",
+    "distinctive_value": "Preserves the distinction between causeless mandatory visitation and a justified but poorly directed visit.",
+    "fidelity": "Separates the SJC’s holdings from party contentions and excludes the underlying doxology dispute.",
+    "economy": "Retains only facts needed to understand the mixed result and governing distinction."
+  },
+  "verification_notes": "Rechecked the judgment and conclusion. The final summary clarifies that the constitutional challenge failed, the vagueness challenge succeeded, the doxology controversy was outside the decision, and no further relief was ordered.",
+  "repair_needed": false,
+  "repair_notes": ""
+}

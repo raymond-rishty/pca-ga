@@ -1,0 +1,46 @@
+{
+  "case_id": "2020-02",
+  "title": "In the Matter of BCO 34-1 Requests to Assume Original Jurisdiction",
+  "matter_type": "original_jurisdiction_request",
+  "dispositions": ["other"],
+  "summary": "The SJC answered three presbyteries' BCO 34-1 requests concerning Missouri Presbytery by reference to two Speck complaint decisions. One had upheld Missouri's decision not to indict on four allegations; the other had partly sustained a procedural and supervisory complaint and ordered a focused new hearing. The brief ruling gave no separate judgment or reasoning on the original-jurisdiction requests and did not transfer them to another court.",
+  "sources": [
+    {
+      "path": "cases/ga49_2022__2020-02.md",
+      "sha256": "2291b735e61225e9daee65d3f41568679ea47b0d629b2cebe1a6c65aee8d5324",
+      "locator": "lines 27-29; printed p. 825, March 3, 2022 decision",
+      "supported_claims": "Identifies the three BCO 34-1 requests and the two decisions incorporated as the answer."
+    },
+    {
+      "path": "cases/ga49_2022__2020-12.md",
+      "sha256": "d5008e75cfa4932ab0710ec9ce1e0e22e5b6d41db6b775f84517f23507421e59",
+      "locator": "lines 266-288 and 605-611; printed pp. 745 and 768, issues, judgment, and conclusion",
+      "supported_claims": "The incorporated decision found no reversible error in Missouri's investigation and decisions declining to indict on four allegations."
+    },
+    {
+      "path": "cases/ga49_2022__2020-05.md",
+      "sha256": "1135f7afbdc6f124e74f38a2ba42e614521287b254ae5c11dd98a42865bd1496",
+      "locator": "lines 117-135 and 281-287; printed pp. 833 and 843, issues, judgments, and amends",
+      "supported_claims": "The incorporated decision sustained one issue particularly as to three theological judgments, denied two issues, and remanded for a focused new hearing."
+    }
+  ],
+  "source_limits": "The 2020-02 decision answers by incorporation and states no independent disposition such as grant or denial. The synopsis characterizes the incorporated decisions without equating their complaint rulings to a direct disposition of the petitions.",
+  "evidence_notes": [
+    "Three presbyteries submitted the BCO 34-1 requests.",
+    "Case 2020-12 found no reversible error in the decisions declining to indict; Case 2020-05 partly sustained a separate complaint and ordered a focused hearing.",
+    "'By reference to' is incorporation, not referral to another body."
+  ],
+  "benchmark_examples": ["O04 Missouri", "O05 Central Indiana"],
+  "scores": {"concrete_dispute": 2, "decision": 2, "decisive_reason": 2, "distinctive_value": 2, "fidelity": 2, "economy": 2},
+  "score_reasons": {
+    "concrete_dispute": "Identifies the original-jurisdiction requests and Missouri matter.",
+    "decision": "Accurately describes the answer by incorporation.",
+    "decisive_reason": "Preserves the two incorporated outcomes while noting no independent rationale.",
+    "distinctive_value": "Explains incorporation without inventing a referral.",
+    "fidelity": "Keeps the complaint holdings distinct from the petitions' procedural disposition.",
+    "economy": "Summarizes two long incorporated decisions only as needed."
+  },
+  "verification_notes": "Separate source-checking pass by the same reviewer re-read the 2020-02 disposition and the issues, judgments, conclusions, and amends of both incorporated decisions; the final wording avoids converting incorporation into transfer or an unstated grant/denial.",
+  "repair_needed": true,
+  "repair_notes": "The canonical catalog disposition 'referred' is contradicted by the source and benchmark discrepancy note. The requests were answered by reference to incorporated decisions, not referred to another body; disposition metadata needs reconciliation, likely using a descriptive 'other' outcome."
+}

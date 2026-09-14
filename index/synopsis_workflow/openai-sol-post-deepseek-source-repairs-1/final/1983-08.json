@@ -1,0 +1,50 @@
+{
+  "case_id": "1983-08",
+  "title": "TE Jack Eubanks et al. v. Central Carolina Presbytery",
+  "matter_type": "complaint",
+  "final_dispositions": [
+    "partially_sustained"
+  ],
+  "disposition_detail": "Items 2 and 3 were sustained; Items 1, 4, and 5 were not sustained. No express remedial order was stated.",
+  "first_summary": "Complainants challenged the legality of Presbytery’s called meeting and its actions concerning a judicial commission and church membership. The adopted adjudication sustained the objections to dissolving the commission by a 14–12 vote and ordering it to reassemble and revote. It rejected the challenges to the called meeting, Presbytery’s involvement in membership, and its consideration of David Alexander’s complaint. No express remedy was ordered.",
+  "summary": "Complainants challenged Presbytery’s called meeting and its actions concerning a judicial commission and church membership. The adopted adjudication sustained the objection to dissolving the commission by a 14–12 vote because Robert’s Rules required a two-thirds vote, and sustained without stated grounds the objection to ordering the dissolved commission to reassemble and revote. It rejected the challenges to the called meeting, Presbytery’s membership action, and its consideration of David Alexander’s complaint; the membership claim failed because church membership is not itself a court. No express remedy was ordered.",
+  "sources": [
+    {
+      "path": "cases/ga11_1983__case5.md",
+      "sha256": "7e4632d1a8e53a567b5fafa9e955701b3eee8c8f9ac3c8aa4b54299521ae7cb5",
+      "locator": "lines 69–89; printed pages 151–152",
+      "supports": "Adopted adjudication, issues, item-level judgments, and stated grounds."
+    }
+  ],
+  "evidence_notes": {
+    "identity_and_adoption": "The caption identifies Case 8 and the parties; the judgment entries are marked adopted (lines 1, 11, 79–89).",
+    "dispute": "The complaint questioned the called meeting, dissolution and reassembly of the judicial commission, membership action, and receipt of Alexander’s complaint (lines 13–65, 71–77).",
+    "outcomes_and_reasons": "Items 2 and 3 were sustained; Items 1, 4, and 5 were not. Item 2 relied on the two-thirds requirement under Robert’s Rules; Item 4 failed because church membership is not a court (lines 79–89, printed page 152).",
+    "qualifications": "No grounds are supplied for Items 1, 3, or 5, and no express remedy follows the judgments. The header notes a dissent, but its text is not supplied (line 3; lines 79–89).",
+    "incorporated_decisions": "No decision is incorporated by reference."
+  },
+  "source_limits": "The supplied excerpt contains no dissenting opinion and gives no reasoning for Items 1, 3, or 5 or express remedial directive.",
+  "benchmark_examples": [
+    "C01",
+    "C02"
+  ],
+  "scores": {
+    "concrete_dispute": 2,
+    "decision": 2,
+    "decisive_reason": 2,
+    "distinctive_value": 2,
+    "fidelity": 2,
+    "economy": 2
+  },
+  "score_reasons": {
+    "concrete_dispute": "Identifies each category of challenged Presbytery action.",
+    "decision": "Preserves both sustained and unsuccessful items.",
+    "decisive_reason": "States the supplied grounds and identifies where none were given.",
+    "distinctive_value": "Preserves the two-thirds rule and the court-membership distinction.",
+    "fidelity": "Does not convert sustained objections into unstated vacatur or other relief.",
+    "economy": "Retains only facts needed to explain the mixed judgment."
+  },
+  "verification_notes": "Rechecked all five item-level judgments, clarified that Item 3 had no stated grounds, added Item 4’s court-membership rationale, and confirmed that the adjudication stated no vacatur, remand, or other express remedy.",
+  "repair_needed": false,
+  "repair_notes": "No source or catalog defect requiring repair; omissions in reasoning and dissent text are disclosed as source limits."
+}

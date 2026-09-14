@@ -1,0 +1,51 @@
+{
+  "case_id": "2019-01",
+  "title": "Dodson et al. v. Ohio Presbytery",
+  "matter_type": "complaint",
+  "final_dispositions": [
+    "partially_sustained",
+    "moot"
+  ],
+  "disposition_detail": "The SJC found error on issues 1 and 3 but rejected issue 2. Presbytery wrongly treated indefinite suspension as a prerequisite to excommunication, properly found excommunication too severe for lack of record evidence of contumacy, but erred by leaving the unappealed heresy convictions uncensured and mandating transfer. Because the members had joined another church, further proceedings were moot; no remand was ordered.",
+  "first_summary": "Grace PCA’s Session challenged Ohio Presbytery’s reversal of two members’ excommunication for heresy. The SJC held that indefinite suspension need not precede excommunication, but agreed that excommunication was too severe because the trial record lacked evidence of contumacy. Presbytery nevertheless erred by imposing no lesser censure and ordering the members transferred. Their heresy convictions remained, but their subsequent membership in another church rendered further proceedings moot.",
+  "summary": "Grace PCA’s Session challenged Ohio Presbytery’s reversal of excommunication for two members convicted of heresy. The SJC partially sustained the complaint: prior indefinite suspension was not constitutionally required, but Presbytery properly found excommunication too severe because the trial record contained no evidence of contumacy. Presbytery nevertheless had to impose an appropriate lesser censure or remand for one, and lacked authority to mandate transfer to another church. The unappealed heresy convictions remained, but because the members had joined another church, further proceedings were moot.",
+  "sources": [
+    {
+      "path": "cases/ga48_2021__2019-01.md",
+      "sha256": "cbf76c01b2fb2e930ace16e0709aec8baae39693968e0ffb223e570e2630cafe",
+      "locator": "lines 13–15, 173–187, 202–224, 228–322, 324–326; printed pp. 649, 658–664",
+      "supports": "Case identity, three complaint issues and judgments, adopted reasoning, consequences, mootness, and SJC adoption."
+    }
+  ],
+  "evidence_notes": {
+    "identity_and_adoption": "The caption and procedural vehicle appear at lines 13–15; unanimous SJC approval appears at lines 324–326 (printed pp. 649, 664).",
+    "dispute": "The three issues challenge Presbytery’s interpretation of censure sequencing, its rejection of excommunication, its failure to substitute a censure, and its transfer mandate: lines 173–180 (printed p. 658).",
+    "outcomes_and_reasons": "Mixed judgments are at lines 181–187. Sequencing is addressed at lines 202–224; lack of contumacy evidence at lines 228–281; required censure and lack of transfer authority at lines 285–320 (printed pp. 659–664).",
+    "qualifications": "The heresy convictions were not appealed, and further proceedings became moot after the members joined another church: lines 287–305, 322. Donahoe’s separate concurrence begins at line 332 and is not treated as adopted reasoning.",
+    "incorporated_decisions": "No decision is incorporated by reference. Presbytery’s earlier judgments are reproduced at lines 143–157 and reviewed directly by the SJC."
+  },
+  "source_limits": "The source contains the full adopted decision and a separately identified concurrence. It does not specify any additional relief after declaring further proceedings moot.",
+  "benchmark_examples": [
+    "C01",
+    "C20"
+  ],
+  "scores": {
+    "concrete_dispute": 2,
+    "decision": 2,
+    "decisive_reason": 2,
+    "distinctive_value": 2,
+    "fidelity": 2,
+    "economy": 2
+  },
+  "score_reasons": {
+    "concrete_dispute": "Identifies the challenged reversal of excommunication, absence of a substitute censure, and transfer mandate.",
+    "decision": "States both sustained issues, the rejected issue, the continuing convictions, and mootness of further proceedings.",
+    "decisive_reason": "Explains censure sequencing, the evidentiary deficiency concerning contumacy, and Presbytery’s limited authority.",
+    "distinctive_value": "Preserves the distinction between guilt of heresy and the additional showing required for excommunication.",
+    "fidelity": "Separates the SJC’s holdings from Presbytery’s action and the separate concurrence.",
+    "economy": "Retains only facts needed to understand the mixed result and practical consequence."
+  },
+  "verification_notes": "Rechecked the three numbered judgments against the reasoning and corrected the final synopsis to clarify that Presbytery’s reversal of excommunication was not itself undone, the guilty verdicts remained unappealed, no remand was ordered, and mootness applied to further proceedings.",
+  "repair_needed": true,
+  "repair_notes": "The source header labels the disposition merely as “other” (line 3), but the operative judgment supports a mixed partial-sustain disposition followed by mootness of further proceedings."
+}

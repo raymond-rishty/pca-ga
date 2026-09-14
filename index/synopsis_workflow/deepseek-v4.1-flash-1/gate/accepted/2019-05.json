@@ -1,0 +1,51 @@
+{
+  "case_id": "2019-05",
+  "title": "Goggan v. Missouri Presbytery",
+  "matter_type": "appeal",
+  "final_dispositions": [
+    "denied",
+    "not_sustained"
+  ],
+  "disposition_detail": "The SJC denied Goggan's appeal and answered 'No' to whether the specifications of error should be sustained; no specification was sustained. The lower excommunication remained in effect. The Panel Decision was not approved by the SJC, and the Final Decision was approved by the SJC as a whole.",
+  "first_summary": "The SJC denied an appeal by an excommunicated church member from Missouri Presbytery. It did not sustain any specifications of error, holding that the appellant failed to demonstrate sufficient reason; the excommunication remained in effect. The decision is brief and does not explain the alleged errors, the dissents, or the effect of Presbytery's failure to vote on the commission report.",
+  "summary": "An excommunicated member appealed the Missouri Presbytery judicial commission's guilty verdict and excommunication, alleging specifications of error. The SJC denied the appeal and did not sustain any specification, holding only that the appellant failed to demonstrate sufficient reason to sustain the alleged errors; the excommunication thus remained in effect. The record noted Presbytery dismissed the commission without the BCO 15-3 vote to approve its report, but the adopted reasoning gave no further explanation and did not address that fact.",
+  "sources": [
+    {
+      "path": "cases/ga48_2021__2019-05.md",
+      "sha256": "7a6ff468fd2a0f0357ea4bc9d77942022cd221bc61b2d37d97d3294db3f1c56e",
+      "locator": "pp. 762–766 (lines 1–86; esp. lines 13–15, 39–64, 68–82)",
+      "supports": "Canonical case ID/title, procedural posture, issue, judgment, adopted reasoning, vote, and underlying trial/excommunication facts."
+    }
+  ],
+  "evidence_notes": {
+    "identity_and_adoption": "Lines 1–15 (printed pp. 762–763) identify 2019-05, Goggan v. Missouri Presbytery, an SJC decision on appeal dated October 15, 2020, with header disposition 'denied.' Lines 66 and 80–82 show the SJC Panel hearing and that the Panel Decision was not approved by the SJC, while the Final Decision was approved by the SJC as a whole.",
+    "dispute": "Lines 19–64 (printed pp. 762–765) summarize Goggan's conflict with New Port Presbyterian Church leadership, the Session's admonition, Missouri Presbytery's judicial commission trial, the guilty verdict on all charges, excommunication by email vote, and Goggan's appeal. Lines 68–70 state the issue: whether the specifications of error should be sustained.",
+    "outcomes_and_reasons": "Lines 72–78 (printed p. 765) record the Judgment 'No' and the adopted reasoning that the appellant failed to demonstrate sufficient reason to sustain any alleged errors. Thus no specification was sustained, the appeal was denied, and the excommunication remained in effect.",
+    "qualifications": "Line 60 notes that Presbytery dismissed the judicial commission without the BCO 15-3 vote to approve or disapprove its report, but the adopted reasoning does not mention that fact. Lines 80–82 show three dissents (Duncan M., Carrell, White) with no stated reasons in the supplied text and two commissioners listed absent.",
+    "incorporated_decisions": "No separate incorporated decision supplies the merits. Lines 66 and 80 refer to the Panel Decision, but it is not reproduced; this synopsis relies on the adopted Final Decision/Judgment and Reasoning, not on the unavailable Panel Decision or lower commission report."
+  },
+  "source_limits": "The source is a compact report. It omits the specifications of error, the commission's charge sheet and full trial record, the Panel Decision text, and explanations of the dissents. It therefore supports only a limited synopsis of the denial, its sparse reason, and its effect.",
+  "benchmark_examples": [
+    "A01 — distinguish conviction, censure, and remaining discipline; here the appeal denial left the excommunication in effect.",
+    "A19 — an appeal disposition may turn on procedural posture and need not adjudicate underlying allegations; here the denial is merits-based but reasoned only in general terms."
+  ],
+  "scores": {
+    "concrete_dispute": 2,
+    "decision": 2,
+    "decisive_reason": 2,
+    "distinctive_value": 2,
+    "fidelity": 2,
+    "economy": 2
+  },
+  "score_reasons": {
+    "concrete_dispute": "Identifies the challenged action: the appeal from the judicial commission's guilty verdict and excommunication.",
+    "decision": "States the denial, that no specification was sustained, and that the excommunication remained in effect.",
+    "decisive_reason": "Faithfully reports the SJC's adopted one-sentence reason that the appellant failed to demonstrate sufficient reason.",
+    "distinctive_value": "Preserves the limited reasoning, the noted but unaddressed BCO 15-3 non-approval, and the practical effect of denial.",
+    "fidelity": "Separates party facts, lower commission action, adopted SJC judgment/reasoning, and separate votes/dissents without treating them as merits reasons.",
+    "economy": "Brief synopsis includes only the dispute, result, reason, and source limitation."
+  },
+  "verification_notes": "Rechecked lines 68–78 for the issue, judgment, and reasoning, and lines 80–82 for adoption and vote. Corrected the draft not to present the line 60 BCO 15-3 non-approval fact as an adopted ground; the reasoning does not mention it. Confirmed the header disposition 'denied,' the issue wording concerning specifications of error, and the lower excommunication. Also confirmed that no list of specifications is supplied, so the summary does not purport to detail individual errors.",
+  "repair_needed": false,
+  "repair_notes": "No source or catalog defect identified; omitted specifications and Panel Decision are source limitations, not repair items."
+}

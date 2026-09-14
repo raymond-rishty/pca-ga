@@ -1,0 +1,50 @@
+{
+  "case_id": "2001-35",
+  "title": "Complaint RE Moon K. Ham, et al. vs. Korean Capital Presbytery",
+  "matter_type": "complaint",
+  "final_dispositions": [
+    "administratively_out_of_order"
+  ],
+  "disposition_detail": "The SJC ruled Case 2001-35 administratively out of order because it dealt with allegations presented to Presbytery but was not in the form of a complaint against presbytery action or inaction. No merits determination or relief is stated.",
+  "first_summary": "The SJC ruled the complaint out of order because it concerned allegations presented to Presbytery rather than a complaint against presbytery action or inaction.",
+  "summary": "A complaint that presented allegations to Presbytery, rather than challenging presbytery action or inaction, was ruled administratively out of order by the Standing Judicial Commission. The SJC did not reach the merits and granted no relief. The source is a short status ruling only.",
+  "sources": [
+    {
+      "path": "cases/ga30_2002__2001-35.md",
+      "sha256": "24696247c3a96727c9855fda00a03cc388c62cea5c1d32884cc76717d05f3845",
+      "locator": "lines 1–5, 11–13",
+      "supports": "Canonical case title, SJC and 30th Assembly metadata, and the administrative out-of-order ruling."
+    }
+  ],
+  "evidence_notes": {
+    "identity_and_adoption": "Source title and case number at lines 1 and 11; deciding body identified as the Standing Judicial Commission, 30th Assembly, at line 3; ruling text at lines 11–13.",
+    "dispute": "Complaint of Moon K. Ham et al. against Korean Capital Presbytery (lines 1, 11). The source identifies the defect as allegations presented to Presbytery, not a complaint against presbytery action or inaction (line 13).",
+    "outcomes_and_reasons": "Line 13: ruled administratively out of order because the matter dealt with allegations presented to Presbytery but not in the form of a complaint against presbytery action or inaction. No merits ruling or relief is stated.",
+    "qualifications": "Sparse status entry only; it gives no underlying facts, no Presbytery action detail, and no remedy beyond the administrative out-of-order ruling. Lines 15–21 are separate cases 2001-36 and 2001-37.",
+    "incorporated_decisions": "None. No decision is incorporated by reference. Cases 2000-9 and 2001-8 mentioned in the separate 2001-36 entry at line 17 are not part of Case 2001-35."
+  },
+  "source_limits": "The supplied text is a short status entry. It does not describe the underlying allegations, the Presbytery action or inaction, any merits analysis, or any relief.",
+  "benchmark_examples": [
+    "C20 (2016-13) short-record disposition: keep the synopsis to what the adopted ruling states and do not supply missing rationale.",
+    "C01 (1978-02) complaint example: preserve procedural disposition and refused relief, but only where the source states them."
+  ],
+  "scores": {
+    "concrete_dispute": 1,
+    "decision": 2,
+    "decisive_reason": 2,
+    "distinctive_value": 2,
+    "fidelity": 2,
+    "economy": 2
+  },
+  "score_reasons": {
+    "concrete_dispute": "Identifies the complaint and the procedural defect, but the source does not describe the underlying allegations or presbytery action closely enough for a full concrete dispute.",
+    "decision": "States the only material disposition: administrative out-of-order ruling, with no merits success or failure.",
+    "decisive_reason": "Gives the adopted reason: the filing was not in the form of a complaint against presbytery action or inaction.",
+    "distinctive_value": "Preserves the procedural limit that presenting allegations to Presbytery is not the same as complaining of presbytery action or inaction.",
+    "fidelity": "Keeps the administrative out-of-order ruling distinct from dismissal or merits denial and does not import adjacent cases.",
+    "economy": "Comprises only the necessary procedural disposition, reason, and source limitation."
+  },
+  "verification_notes": "Rechecked lines 11–13 and corrected the first summary's generic 'out of order' to the source's exact subtype, 'administratively out of order.' Confirmed the source states no merits disposition or relief. Confirmed lines 15–21 are separate cases and not incorporated decisions.",
+  "repair_needed": false,
+  "repair_notes": ""
+}

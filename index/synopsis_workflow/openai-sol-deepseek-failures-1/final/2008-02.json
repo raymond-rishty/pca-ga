@@ -1,0 +1,49 @@
+{
+  "case_id": "2008-02",
+  "title": "TE Fred Hofland et al. v. Eastern Carolina Presbytery",
+  "matter_type": "complaint",
+  "final_dispositions": [
+    "withdrawn"
+  ],
+  "disposition_detail": "The 37th General Assembly record lists the complaint as withdrawn. No merits decision or relief was published.",
+  "first_summary": "The complaint by TE Fred Hofland and others against Eastern Carolina Presbytery was withdrawn. The published record provides no merits opinion, description of the challenged action, or reason for the withdrawal.",
+  "summary": "The 37th General Assembly recorded this complaint by TE Fred Hofland and others against Eastern Carolina Presbytery as withdrawn. No merits opinion was published, and the record does not identify the challenged action, explain the withdrawal, or grant relief.",
+  "sources": [
+    {
+      "path": "cases/ga37_2009__stub_2008-02.md",
+      "sha256": "6a8217fd1ac0f7120e99187457a321b07f563490e91403d1ad2b2d870c5f09a4",
+      "locator": "lines 1–11; GA 37-28, p. 131",
+      "supports": "Case identity, SJC/Assembly metadata, withdrawal, and absence of a separate merits opinion."
+    }
+  ],
+  "evidence_notes": {
+    "identity_and_adoption": "The caption identifies case 2008-02 and the parties (line 1); the metadata identifies the SJC and 37th Assembly (line 3).",
+    "dispute": "The source identifies a complaint against Eastern Carolina Presbytery but does not describe the challenged action (lines 1, 9).",
+    "outcomes_and_reasons": "The disposition is “Withdrawn” (lines 3, 9); no reason or merits ruling is supplied (line 5).",
+    "qualifications": "Only a brief Assembly record is available, cited as GA 37-28, p. 131 (lines 5, 9).",
+    "incorporated_decisions": "No incorporated decision is identified."
+  },
+  "source_limits": "The source is a sparse disposition record without pleadings, factual allegations, reasoning, or a merits opinion.",
+  "benchmark_examples": [
+    "C20"
+  ],
+  "scores": {
+    "concrete_dispute": 0,
+    "decision": 2,
+    "decisive_reason": 2,
+    "distinctive_value": 1,
+    "fidelity": 2,
+    "economy": 2
+  },
+  "score_reasons": {
+    "concrete_dispute": "The challenged Presbytery action is not stated in the source.",
+    "decision": "The synopsis states the sole recorded disposition: withdrawal.",
+    "decisive_reason": "It faithfully reports that no reason was published.",
+    "distinctive_value": "It preserves the important limitation that withdrawal produced no merits ruling or relief.",
+    "fidelity": "It does not infer allegations, reasons, or adjudication from the sparse record.",
+    "economy": "Every detail explains the proceeding, disposition, or record limitation."
+  },
+  "verification_notes": "Rechecked the caption, tribunal and Assembly metadata, operative “Withdrawn” entry, page citation, and express statement that no separate merits opinion was published. The final summary avoids implying a merits determination or known reason for withdrawal.",
+  "repair_needed": false,
+  "repair_notes": "The sparse record is sufficient to establish withdrawal; the absence of a merits opinion is a source limitation, not a defect requiring repair."
+}

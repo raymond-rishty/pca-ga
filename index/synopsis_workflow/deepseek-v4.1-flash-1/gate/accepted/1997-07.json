@@ -1,0 +1,50 @@
+{
+  "case_id": "1997-07",
+  "title": "Steve Farris vs. Central Florida Presbytery",
+  "matter_type": "complaint",
+  "final_dispositions": [
+    "judicially_out_of_order"
+  ],
+  "disposition_detail": "The full Standing Judicial Commission judicially declared the complaint out of order because the complainant was not a member of a PCA church and lacked standing; no merits disposition, relief, or remand is stated.",
+  "first_summary": "The SJC found Case 97-7 judicially out of order because Steve Farris lacked standing before the Commission. The record states no merits ruling or relief.",
+  "summary": "The Standing Judicial Commission held Steve Farris's complaint against Central Florida Presbytery judicially out of order because Farris was not a member of a PCA church and therefore lacked standing before the Commission. The Commission reached no merits issue and granted no relief; the only stated ground was the complainant's lack of standing. The case illustrates a threshold standing bar for SJC complainants, but the sparse record does not identify the underlying presbytery action complained of.",
+  "sources": [
+    {
+      "path": "cases/ga26_1998__1997-07.md",
+      "sha256": "26730ebcad990890c1d2e27b9e0863d683f80a5411d3978c3899ac6c03631b01",
+      "locator": "lines 1–15, especially line 15; printed pp. 133–134",
+      "supports": "Identifies the case, parties, deciding body, disposition, and sole stated standing reason."
+    }
+  ],
+  "evidence_notes": {
+    "identity_and_adoption": "Lines 1–3 identify Case 1997-07, Steve Farris vs. Central Florida Presbytery, Standing Judicial Commission, 26th Assembly (1998), disposition out of order; line 15 states the full Standing Judicial Commission's finding.",
+    "dispute": "Lines 11–15 show this was Complaint, Case 97-7, but the supplied source does not identify the underlying presbytery action or the complaint's specifications.",
+    "outcomes_and_reasons": "Line 15 states that the full Standing Judicial Commission found the case judicially out of order because the complainant was not a member of a PCA church and therefore lacked standing before the Commission.",
+    "qualifications": "No merits determination, relief, remand, or separate opinion appears; the adopted ruling is a threshold standing disposition only.",
+    "incorporated_decisions": "None; the one-sentence SJC ruling at line 15 is the operative decision in the supplied source."
+  },
+  "source_limits": "The supplied excerpt is only a short notice; it omits the challenged presbytery action, complaint specifications, briefing, any merits analysis, and any separate opinions.",
+  "benchmark_examples": [
+    "C20: short-record example; preserves a disposition without inventing an unstated merits rationale.",
+    "C01: mixed-outcome example; not directly comparable because this record contains no merits ruling."
+  ],
+  "scores": {
+    "concrete_dispute": 1,
+    "decision": 2,
+    "decisive_reason": 2,
+    "distinctive_value": 2,
+    "fidelity": 2,
+    "economy": 2
+  },
+  "score_reasons": {
+    "concrete_dispute": "Identifies a complaint by Steve Farris, but the source does not state the challenged presbytery action.",
+    "decision": "States the sole disposition—judicially out of order—and notes that no merits ruling or relief appears.",
+    "decisive_reason": "Gives the SJC's stated reason: the complainant was not a PCA church member and lacked standing.",
+    "distinctive_value": "Captures the threshold standing rule for complaints before the SJC.",
+    "fidelity": "Keeps the one-sentence adopted ruling distinct from metadata and does not infer merits, relief, or procedural facts absent from the source.",
+    "economy": "Every retained detail supports the standing disposition; the sparse record is kept sparse."
+  },
+  "verification_notes": "Reread lines 1–15. Corrected the preliminary summary to specify the full Standing Judicial Commission and the adopted ground that the complainant was not a member of a PCA church. Rechecked that the source contains no merits ruling, relief, remand, separate opinion, or incorporated decision, and matched metadata 'out of order' to the source's exact 'judicially out of order.'",
+  "repair_needed": false,
+  "repair_notes": "No source or catalog defect identified."
+}

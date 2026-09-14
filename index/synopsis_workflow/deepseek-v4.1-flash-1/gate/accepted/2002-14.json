@@ -1,0 +1,51 @@
+{
+  "case_id": "2002-14",
+  "title": "Lachman v. Philadelphia Presbytery",
+  "matter_type": "appeal",
+  "final_dispositions": [
+    "denied",
+    "affirmed"
+  ],
+  "disposition_detail": "The SJC denied Lachman's appeal and upheld Philadelphia Presbytery's affirmance of Calvary Session's judgment finding him guilty on all fifth-, sixth-, and ninth-commandment charges and suspending him from the ruling eldership. No other relief was granted; the concurrence only suggested future change-of-venue practice.",
+  "first_summary": "A ruling elder appealed his Session conviction for fifth-, sixth-, and ninth-commandment violations, arguing the prosecution used only documentary evidence without witnesses. The SJC denied the appeal, finding sufficient evidence in his letters and admissions and that the Session followed Matthew 18.",
+  "summary": "A ruling elder convicted by his Session of fifth-, sixth-, and ninth-commandment violations challenged the conviction because the prosecution presented no live witness and relied on his own letters. The SJC denied the appeal and upheld Presbytery's affirmance, holding that the documents, Lachman's acknowledgments of writing them, and defense witnesses supplied sufficient proof; the Session also followed Matthew 18 with patience. A concurrence urged change-of-venue procedures for small-Session bias cases, but noted Lachman never requested a reference or challenged the court before trial.",
+  "sources": [
+    {
+      "path": "cases/ga32_2004__2002-14.md",
+      "sha256": "16dff04bdfaa2c7497510393df060bb2af356e24e7a64545f2ab1b78a5d9518b",
+      "locator": "lines 1–5, 84–90, 98–116, 122–132, 134–184, 92",
+      "supports": "Case identity, issue, judgment, adopted reasoning, vote/adoption, separate concurrence, and footnote companion dispositions."
+    }
+  ],
+  "evidence_notes": {
+    "identity_and_adoption": "Header identifies Case 2002-14, Lachman v. Philadelphia Presbytery, SJC, 32nd Assembly (2004), disposition denied (lines 1–5). Adoption and vote appear at lines 122–132, including 19 concurring, 0 dissenting, 1 recused, and 3 absent.",
+    "dispute": "Facts describe Lachman's conflict with Calvary Presbyterian Church Session and a trial on fifth-, sixth-, and ninth-commandment charges (lines 17–82). The stated issue asks whether Philadelphia Presbytery erred in sustaining the Session's ruling (lines 84–86).",
+    "outcomes_and_reasons": "The judgment answers No (lines 88–90). The adopted reasoning rejects the claim that no witness supported guilt because the documents, Lachman's acknowledgments, and defense witnesses supplied evidence, and finds the Session followed Matthew 18 with patience (lines 98–116).",
+    "qualifications": "The change-of-venue discussion is a separate concurring opinion, not the SJC's adopted judgment (lines 134–184); it expressly notes Lachman made no pre-trial request for reference or challenge to the whole Session. The vote line confirms concurrence without dissent (line 130).",
+    "incorporated_decisions": "Footnote 92 reports that related Complaint #2002-13 and Complaint #2002-18 were ruled administratively out of order on 3/7/03. No incorporated decision supplies a material result for this appeal."
+  },
+  "source_limits": "The supplied case text is the only authority; no underlying trial record, briefs, or materials beyond the printed concurrence were independently reviewed.",
+  "benchmark_examples": [
+    "A01. 2007-16: separate conviction, censure, dissolution, and administrative suspension when reporting mixed appellate relief.",
+    "A19. 2011-13: preserve dismissal conditions and requested responses, and do not treat allegations as findings."
+  ],
+  "scores": {
+    "concrete_dispute": 2,
+    "decision": 2,
+    "decisive_reason": 2,
+    "distinctive_value": 2,
+    "fidelity": 2,
+    "economy": 2
+  },
+  "score_reasons": {
+    "concrete_dispute": "Identifies the challenged Session conviction and the documentary-evidence objection.",
+    "decision": "States the denied appeal, Presbytery affirmance, and lack of other relief.",
+    "decisive_reason": "Reports the adopted reasoning that documents, acknowledgments, and defense witnesses established guilt.",
+    "distinctive_value": "Preserves the separate concurrence's change-of-venue point and its no-pre-trial-challenge limitation.",
+    "fidelity": "Keeps adopted judgment, facts, and concurrence distinct and accurately labels the footnote companion rulings.",
+    "economy": "Uses only details needed to explain the dispute, result, reasoning, and concurrence."
+  },
+  "verification_notes": "Rechecked the issue and judgment at lines 84–90 and the reasoning at 98–116 to confirm the SJC's basis was documentary evidence plus Lachman's admissions, with defense witnesses also supporting the charges. Confirmed the source header disposition is denied and the vote/adoption appears at lines 122–132. Added the separate concurrence's change-of-venue point, noting it was not part of the adopted judgment, and confirmed footnote 92's companion out-of-order rulings.",
+  "repair_needed": false,
+  "repair_notes": "No source or catalog defect identified."
+}

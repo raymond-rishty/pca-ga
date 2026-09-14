@@ -1,0 +1,50 @@
+{
+  "case_id": "1983-13",
+  "title": "Donald A. Codling et al. v. Presbytery of Eastern Canada",
+  "matter_type": "complaint",
+  "final_dispositions": [
+    "partially_sustained"
+  ],
+  "disposition_detail": "The complaint was sustained on grounds 1, 4, 5, and 6, but not sustained on grounds 2 and 3. The General Assembly adopted a recommendation strongly urging Presbytery to reexamine Harris for licensure.",
+  "first_summary": "Presbytery members challenged Eastern Canada Presbytery’s denial of Ron Harris’s licensure. The complaint was sustained in part because Presbytery improperly changed its voting rule during the meeting and its objections concerning counseling, evangelistic preaching, and sovereign grace did not justify denial. Claims that pertinent data was excluded and that requests to hear Harris preach were blocked were not sustained. The Assembly urged Presbytery to reexamine Harris.",
+  "summary": "Presbytery members challenged Eastern Canada Presbytery’s denial of Ron Harris’s licensure. The complaint was sustained regarding the improperly adopted supermajority rule and the insufficiency of objections concerning counseling, evangelistic preaching, and sovereign grace; claims that pertinent data was excluded and requests to hear Harris preach were blocked were not sustained. Citing the fragmented examination and sharply differing views, the Assembly urged a complete reexamination at one meeting. It did not order Harris licensed or formally remand the matter.",
+  "sources": [
+    {
+      "path": "cases/ga11_1983__case10.md",
+      "sha256": "098daada063ebce1a50a895877b06825dd06e25da9b55d3e63f1725668823f1f",
+      "locator": "lines 53–93; printed pp. 147–148",
+      "supports": "Adopted judgment on all six grounds, recommendation for reexamination, and explanatory reasons."
+    }
+  ],
+  "evidence_notes": {
+    "identity_and_adoption": "The complaint and parties are identified at lines 11–17 (printed p. 146); the adjudication, adopted judgment, recommendation, and Assembly explanation appear at lines 53–93 (printed pp. 147–148).",
+    "dispute": "The challenged action was Presbytery’s April 1983 denial of Harris’s licensure; lines 17–47 and 55–57 (printed pp. 146–147).",
+    "outcomes_and_reasons": "Grounds 1, 4, 5, and 6 were sustained, while grounds 2 and 3 were not; lines 59–73. Reexamination and its reasons appear at lines 75–93 (printed pp. 147–148).",
+    "qualifications": "The adopted relief only strongly urged and requested reexamination; it neither ordered licensure nor expressly remanded the case. Lines 75–89.",
+    "incorporated_decisions": "No separate decision was incorporated by reference."
+  },
+  "source_limits": "The supplied extract does not include underlying Presbytery minutes, examination materials, or evidence beyond their description in the Assembly record.",
+  "benchmark_examples": [
+    "C01",
+    "C02"
+  ],
+  "scores": {
+    "concrete_dispute": 2,
+    "decision": 2,
+    "decisive_reason": 2,
+    "distinctive_value": 2,
+    "fidelity": 2,
+    "economy": 2
+  },
+  "score_reasons": {
+    "concrete_dispute": "Identifies the denial of Harris’s licensure and the challenged grounds.",
+    "decision": "States all four sustained and both unsuccessful grounds, plus the adopted recommendation.",
+    "decisive_reason": "Explains the invalid voting-rule change, inadequate substantive objections, and need for a unified reexamination.",
+    "distinctive_value": "Preserves the distinction between urging reexamination and ordering licensure or remand.",
+    "fidelity": "Separates complainants’ allegations, adopted rulings, explanatory reasons, and recommendatory relief.",
+    "economy": "Retains only facts needed to understand the mixed result and next step."
+  },
+  "verification_notes": "Rechecked all six issue-level votes, the adopted recommendation, and the explanatory minute. The final summary clarifies that the Assembly merely urged reexamination and did not order licensure or formally remand the matter.",
+  "repair_needed": false,
+  "repair_notes": ""
+}

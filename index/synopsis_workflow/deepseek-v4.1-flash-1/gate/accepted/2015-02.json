@@ -1,0 +1,51 @@
+{
+  "case_id": "2015-02",
+  "title": "Gearhart v. Chicago Metro Presbytery",
+  "matter_type": "complaint",
+  "final_dispositions": [
+    "administratively_out_of_order",
+    "dismissed"
+  ],
+  "disposition_detail": "SJC found the complaint administratively out of order under OMSJC 9.1.a because the minister with standing failed to notify the PCA Clerk within BCO 43-3’s 30-day window and did not later give an unqualified ratification; because the complaint could not be put in order, it was dismissed. No merits disposition was reached.",
+  "first_summary": "The SJC dismissed the complaint against Chicago Metro Presbytery as administratively out of order because the minister with standing did not file or ratify it within the required time. The SJC reached no merits.",
+  "summary": "An unsigned complaint challenging a January 21 presbytery action was sent to the PCA Clerk by someone without standing. The SJC held the complaint administratively out of order under OMSJC 9.1.a and dismissed it: the minister with standing failed to notify the Clerk within BCO 43-3’s 30-day window, and his later e-mail was not an unqualified ratification. Because the complaint could not be put in order, the SJC reached no merits. The decision illustrates strict filing and ratification requirements.",
+  "sources": [
+    {
+      "path": "cases/ga44_2016__2015-02.md",
+      "sha256": "a4481ecb1930229d314b1500a0079e8f7affe8634184515872e6cf771bd0c48f",
+      "locator": "lines 3, 13–21",
+      "supports": "Identity as case 2015-02; SJC decision on complaint dated April 29, 2015; administrative disposition; filing defect, BCO 43-3 deadline, no unqualified ratification, and dismissal."
+    }
+  ],
+  "evidence_notes": {
+    "identity_and_adoption": "Source lines 1–3 and 13 identify case 2015-02, Gearhart v. Chicago Metro Presbytery, as an SJC decision on complaint dated April 29, 2015; line 3 labels the disposition administrative. No separate opinion or incorporation is shown.",
+    "dispute": "Lines 15 and 17: an unsigned document alleged to be a complaint from TE Gearhart was sent to the PCA Clerk on February 19, 2015 by an individual without standing, and it concerned a January 21 Presbytery action.",
+    "outcomes_and_reasons": "Lines 15, 17, and 21: SJC found the complaint Administratively Out of Order under OMSJC 9.1.a because the minister with standing did not notify the Clerk within the BCO 43-3 30-day window and did not subsequently give an unqualified ratification; it could not be put in order and was dismissed. No merits ruling appears.",
+    "qualifications": "Lines 17 and 21: Gearhart’s April 8 e-mail said he wanted to submit the complaint in his name, but he also expressed uncertainty about the wording and said he had not reviewed it before filing; the SJC treated the filing as untimely and not ratified.",
+    "incorporated_decisions": "None. The source does not incorporate another decision, attachment, or adopted reasoning beyond the SJC decision itself."
+  },
+  "source_limits": "Short administrative decision only. The source gives no full record or merits discussion and does not describe the underlying January 21 Presbytery action beyond its date.",
+  "benchmark_examples": [
+    "C01: preserve each material success and failure and the procedural basis for disposition, but here no merits issue succeeded or failed.",
+    "C20: keep an administrative or unexplained short-record disposition within the source’s stated rationale; do not supply omitted reasoning."
+  ],
+  "scores": {
+    "concrete_dispute": 2,
+    "decision": 2,
+    "decisive_reason": 2,
+    "distinctive_value": 2,
+    "fidelity": 2,
+    "economy": 2
+  },
+  "score_reasons": {
+    "concrete_dispute": "Identifies the challenged January 21 presbytery action and the defective complaint filing.",
+    "decision": "States both the administrative out-of-order finding and the resulting dismissal, and notes that no merits were reached.",
+    "decisive_reason": "Explains the adopted basis: failure to notify the PCA Clerk within BCO 43-3’s 30-day window and no unqualified ratification.",
+    "distinctive_value": "Shows strict filing, standing, and ratification requirements and that an administratively out-of-order complaint cannot be cured.",
+    "fidelity": "Distinguishes the SJC’s administrative ruling from the underlying filing allegations and avoids attributing any merits finding.",
+    "economy": "Retains only the filing defect, disposition, adopted reason, and no-merits limit."
+  },
+  "verification_notes": "Initial draft treated the filing as by the minister and omitted the unsigned-document/by-person-without-standing facts and the unqualified-ratification problem. Rechecked lines 15–21 and corrected the summary to state that an unsigned document was sent by someone without standing and that the later e-mail was not an unqualified ratification; final_dispositions now preserve both administratively_out_of_order and dismissed.",
+  "repair_needed": false,
+  "repair_notes": "No repair needed."
+}

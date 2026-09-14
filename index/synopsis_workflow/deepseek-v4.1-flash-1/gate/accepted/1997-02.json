@@ -1,0 +1,51 @@
+{
+  "case_id": "1997-02",
+  "title": "Bruce Nickoley vs. Rocky Mountain Presbytery",
+  "matter_type": "appeal",
+  "final_dispositions": [
+    "sustained",
+    "remanded"
+  ],
+  "disposition_detail": "SJC sustained Nickoley's appeal on the due-process issue, holding that Rocky Mountain Presbytery erred in treating his refusal to obey its instructions as an admission of contumacy under BCO 38-1 and in relying on BCO 34-4, 32-6, and 35-12; he did not confess, fail to appear, or refuse to testify. The SJC recognized a presbytery's general powers under BCO 13-9a but held that serious charges and deposition required due process. It remanded with the recommendation that RMP either institute a case under process beginning with BCO 32-3 or revoke the deposition and reinstate Nickoley. RMP had already declared further proceedings on the ordination-vows charges moot.",
+  "first_summary": "Pastor Bruce Nickoley appealed after Rocky Mountain Presbytery convicted him of contumacy and immediately deposed him for refusing to tell his congregation to stop picketing during his trial. The SJC agreed that the Presbytery denied him due process and reversed the deposition, holding that the BCO provisions cited did not authorize summary judgment. It remanded for a new trial on contumacy and his ordination vows.",
+  "summary": "Rocky Mountain Presbytery cited Pastor Bruce Nickoley for contumacy during his trial, after he allegedly refused to tell his congregation to stop picketing, and immediately deposed him without a hearing. On appeal, the SJC sustained the appeal, holding the Presbytery misapplied BCO provisions on confession, citation, refusal to testify, and deposition; Nickoley neither confessed nor refused to appear. Although presbyteries have general authority to maintain order, serious charges require due process. The SJC remanded, recommending either a new process beginning with BCO §32-3 or revocation of the deposition and reinstatement.",
+  "sources": [
+    {
+      "path": "cases/ga26_1998__1997-02.md",
+      "sha256": "4d9876ac2b50602a5056d06de833f3e56d0ebb8400b6f0f16888f3eadf089281",
+      "locator": "lines 14-188 (printed pp. 122-128)",
+      "supports": "SJC appeal decision, facts, issue, judgment, adopted reasoning, and adopting vote."
+    }
+  ],
+  "evidence_notes": {
+    "identity_and_adoption": "Lines 1-3, 14-16, 184-188: SJC case 97-2, 26th General Assembly (1998), appeal; the preliminary decision was written by W. Jack Williamson with concurrence of Bolus and Miller and adopted by the SJC, 17 concurring, 1 recused, 6 absent.",
+    "dispute": "Lines 20-38, 42-56: after disputes involving Evergreen Presbyterian Church, RMP dissolved the EPC relationship, tried Nickoley on ordination-vows charges, then during trial cited him for contumacy after alleged picketing and his refusal to instruct the congregation; RMP immediately deposed him and later declared further ordination-vows proceedings moot.",
+    "outcomes_and_reasons": "Lines 60-64, 68, 88-103, 109, 119-139, 163-181: SJC answered the issue yes, found due-process error, and rejected RMP's reliance on BCO 38-1, 34-4, 32-6, and 35-12; it recognized general presbytery powers under BCO 13-9a but held that the serious charge and deposition required trial; it remanded with two recommended courses.",
+    "qualifications": "Lines 163-165, 169-178, 184-188: no specific BCO provision authorized immediate contumacy deposition; the SJC did not deny RMP's right to judge its members or to later try contumacy; the decision is the adopted preliminary decision and the vote is recorded.",
+    "incorporated_decisions": "None: no incorporated decision is supplied or relied on; the SJC decision itself is the operative judgment."
+  },
+  "source_limits": "The supplied source is the SJC text at GA 26 printed pp. 122-128. It summarizes the record and includes party arguments but not the full ROC, briefs, or lower-court filings; no other source was consulted.",
+  "benchmark_examples": [
+    "A01. 2007-16: preserve distinctions among conviction, censure, dissolution, and administrative suspension in multi-part dispositions.",
+    "A03. 2012-07: avoid collapsing separate specifications with different remedies into a bare 'partially sustained' label."
+  ],
+  "scores": {
+    "concrete_dispute": 2,
+    "decision": 2,
+    "decisive_reason": 2,
+    "distinctive_value": 2,
+    "fidelity": 2,
+    "economy": 2
+  },
+  "score_reasons": {
+    "concrete_dispute": "Identifies RMP's immediate contumacy citation and deposition of Nickoley without a due-process trial.",
+    "decision": "States that the SJC sustained the appeal and remanded with two recommended courses; notes the ordination-vows trial was declared moot.",
+    "decisive_reason": "Explains the adopted reasoning: cited BCO provisions did not fit; no specific authorization for summary deposition; due process was required.",
+    "distinctive_value": "Captures the rule that a presbytery's BCO 13-9a order-maintenance power is limited by due process for serious charges and deposition.",
+    "fidelity": "Distinguishes party arguments, record facts, adopted reasoning, and recommendations; no lower-court result is treated as the SJC disposition.",
+    "economy": "Concise while retaining the challenged action, BCO errors, and remedy."
+  },
+  "verification_notes": "Rechecked final disposition against lines 62-64 and 180-181: the SJC did not directly reverse but remanded with recommendations to prosecute under BCO 32-3 or revoke the deposition and reinstate. Corrected first_summary's 'reversed the deposition and remanded for a new trial' to sustained and remanded with two options. Rechecked actor and adoption at lines 184-188, RMP's challenged actions at lines 24-56, the rejected BCO provisions at lines 68-139 and 163-181, and confirmed no incorporated decision appears. No source or catalog defect found.",
+  "repair_needed": false,
+  "repair_notes": "No repair needed; source and catalog metadata align."
+}

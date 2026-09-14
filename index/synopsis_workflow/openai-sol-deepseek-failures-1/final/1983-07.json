@@ -1,0 +1,57 @@
+{
+  "case_id": "1983-07",
+  "title": "TE Stark Wilbor et al. v. North Georgia Presbytery",
+  "matter_type": "complaint",
+  "final_dispositions": [
+    "sustained",
+    "annulled"
+  ],
+  "disposition_detail": "The General Assembly sustained the specification of error and annulled Presbytery’s approval of John Parrish’s theological examination for transfer of license. It directed Presbytery to instruct him and, if his view conformed to Scripture, the doctrinal standards, and the BCO, re-examine him on the issue.",
+  "first_summary": "Complainants challenged North Georgia Presbytery’s approval of John Parrish’s transfer examination because he denied that Sunday is the Christian Sabbath. The General Assembly sustained the complaint and annulled Presbytery’s action, treating the doctrine as fundamental. It directed Presbytery to instruct Parrish and to re-examine him if his view was brought into conformity with the church’s standards.",
+  "summary": "Complainants challenged North Georgia Presbytery’s approval of John Parrish’s transfer examination after he denied that the first day of the week is the Christian Sabbath. The General Assembly sustained the specification of error and annulled Presbytery’s action, characterizing the teaching as a fundamental element of doctrine. Presbytery was directed to instruct Parrish and, only if his view conformed to Scripture, the doctrinal standards, and the BCO, re-examine him in that area.",
+  "sources": [
+    {
+      "path": "cases/ga11_1983__case3.md",
+      "sha256": "4211559aa7b450c8a14050c82435bb1a0e86f8bc069bf47257f52b02a875a603",
+      "locator": "lines 27–57; printed p. 138",
+      "supports": "Facts, issue, adopted judgment, annulment, remedial direction, and adoption as the Eleventh General Assembly’s action."
+    },
+    {
+      "path": "cases/ga11_1983__case3.md",
+      "sha256": "4211559aa7b450c8a14050c82435bb1a0e86f8bc069bf47257f52b02a875a603",
+      "locator": "lines 13–25; printed pp. 137–138",
+      "supports": "Case identity and the complainants’ stated confessional basis."
+    }
+  ],
+  "evidence_notes": {
+    "identity_and_adoption": "Case heading identifies Wilbor et al. against North Georgia Presbytery; the report was adopted as the Eleventh General Assembly’s judgment (lines 11–15, 53–57).",
+    "dispute": "The complaint challenged approval of Parrish’s transfer examination despite his stated denial that Sunday is the Christian Sabbath (lines 29–37).",
+    "outcomes_and_reasons": "The specification was sustained and Presbytery’s action annulled; instruction and conditional re-examination were ordered concerning what the adopted recommendation called a fundamental doctrine (lines 39–51).",
+    "qualifications": "Re-examination was conditional upon conformity with Scripture, doctrinal standards, and the BCO; seven commissioners recorded negative votes, but no dissenting rationale appears (lines 47–59).",
+    "incorporated_decisions": "No decision was incorporated by reference."
+  },
+  "source_limits": "The source supplies the complaint, adjudication, and adopted recommendation, but no examination transcript or explanatory majority or dissenting opinion.",
+  "benchmark_examples": [
+    "C01",
+    "C02"
+  ],
+  "scores": {
+    "concrete_dispute": 2,
+    "decision": 2,
+    "decisive_reason": 2,
+    "distinctive_value": 2,
+    "fidelity": 2,
+    "economy": 2
+  },
+  "score_reasons": {
+    "concrete_dispute": "Identifies Presbytery’s approval and Parrish’s disputed Sabbath view.",
+    "decision": "States both sustaining the specification and annulling Presbytery’s action, plus the remedial direction.",
+    "decisive_reason": "Faithfully ties the result to the adopted characterization of the teaching as fundamental without inventing further analysis.",
+    "distinctive_value": "Preserves the conditional instruction-and-re-examination remedy.",
+    "fidelity": "Distinguishes the complainants’ confessional allegation from the Assembly’s adopted judgment and recommendation.",
+    "economy": "All details explain the dispute, outcome, or remaining process."
+  },
+  "verification_notes": "Rechecked lines 39–55 for the operative judgment and adoption. The final summary specifies the first day of the week, adds the complete conformity standard—Scripture, doctrinal standards, and BCO—and clarifies that re-examination was conditional.",
+  "repair_needed": false,
+  "repair_notes": ""
+}

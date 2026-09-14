@@ -1,0 +1,51 @@
+{
+  "case_id": "2012-01",
+  "title": "Sherfey v. James River Presbytery",
+  "matter_type": "complaint",
+  "final_dispositions": [
+    "judicially_out_of_order",
+    "dismissed"
+  ],
+  "disposition_detail": "Dismissed as judicially out of order; the SJC found that the action complained against was not in the Record of the Case (BCO 43-1; OMSJC 10.6). Vote: 13 concurring, 5 dissenting, 1 abstaining, 1 disqualified, and 4 absent. A separate dissent argued the record did contain an adjudicable Session action and that the cited OMSJC provision did not supply the ground used; a written objection challenged TE Aquila's participation. No merits ruling was made.",
+  "first_summary": "The SJC dismissed Mr. Sherfey's complaint against James River Presbytery as judicially out of order because the action complained of was not in the Record of the Case. The adopted ruling does not reach the merits. A dissent and written objection were filed.",
+  "summary": "The SJC dismissed a complaint against James River Presbytery without reaching the merits, holding it judicially out of order because the action complained against was not in the Record of the Case (BCO 43-1; OMSJC 10.6). The adopted ruling gives no further rationale and carried 13 concurring, 5 dissenting, 1 abstaining, 1 disqualified, and 4 absent. A dissent argued the record did contain an adjudicable Session action and that the cited OMSJC provision did not list the ground used; a separate written objection challenged a panel member's participation.",
+  "sources": [
+    {
+      "path": "cases/ga41_2013__2012-01.md",
+      "sha256": "8934d0ebf486a618b0126abb351ee4f729540c1229539253835530e6b19a9df3",
+      "locator": "lines 13-19, 23, 25-30, 32-74, 78-102",
+      "supports": "Adopted dismissal and out-of-order ground, vote, disqualification note, dissenting opinion, and written objection."
+    }
+  ],
+  "evidence_notes": {
+    "identity_and_adoption": "Case 2012-01, Sherfey v. James River Presbytery, SJC, 41st GA (2013); adopted disposition and vote at lines 13-19; roll-call list at line 23; disqualification explanation at lines 25-28.",
+    "dispute": "The adopted ruling states the action complained against was not in the Record of the Case (lines 13-15). The dissent frames the underlying dispute as the Session of Stony Point Reformed Presbyterian Church's handling of a 2007 agreement and the pastor's call/status change (lines 34-48); the written objection describes the complaint as alleging irregularities in that Session action (lines 82-84).",
+    "outcomes_and_reasons": "The SJC dismissed the case as judicially out of order because the complained-of action did not appear in the Record of the Case, citing BCO 43-1 and OMSJC 10.6 (lines 13-15). The vote was 13 concurring, 5 dissenting, 1 abstaining, 1 disqualified, and 4 absent (line 19). No merits determination appears in the adopted ruling.",
+    "qualifications": "The dissenting opinion (lines 32-74) and written objection (lines 78-102) are separate from the adopted ruling and do not alter it. The report also notes a special meeting to decide whether the dissent meets OMSJC 18.12b and whether to adopt an Answer (line 30); no Answer appears in this source.",
+    "incorporated_decisions": "The adopted ruling cites BCO 43-1 and OMSJC 10.6 only. References to prior Case 2011-08 and an earlier SJC ruling appear only in the dissenting opinion (lines 50-68), not as incorporated adopted reasoning."
+  },
+  "source_limits": "The source contains the SJC's one-sentence adopted ruling, roll-call vote, disqualification note, full dissenting opinion, and written objection. It does not include the Record of the Case or any Answer to the dissent; the report says an Answer may be filed later (line 30).",
+  "benchmark_examples": [
+    "C20 (short-record/unexplained adopted disposition): keep the adopted ruling's silence and separate dissent distinct.",
+    "C01 (mixed-outcome complaint): preserve issue-level results; here the SJC avoided all merits issues by dismissing."
+  ],
+  "scores": {
+    "concrete_dispute": 2,
+    "decision": 2,
+    "decisive_reason": 2,
+    "distinctive_value": 2,
+    "fidelity": 2,
+    "economy": 2
+  },
+  "score_reasons": {
+    "concrete_dispute": "Identifies the challenged Session action and the SJC's stated reason that it was absent from the Record of the Case.",
+    "decision": "States the dismissal, the judicial-out-of-order basis, the vote, and the presence of separate dissent and written objection.",
+    "decisive_reason": "Explains the adopted reason: the action complained against was not in the Record of the Case under BCO 43-1 and OMSJC 10.6.",
+    "distinctive_value": "Preserves the procedural limit that an out-of-order dismissal avoids merits review and that the dissent disputed the application of the cited OMSJC provision.",
+    "fidelity": "Keeps the adopted ruling distinct from the dissenting opinion and written objection; no merits result is attributed to the SJC.",
+    "economy": "Uses only the details needed to understand the dispute, dismissal, basis, vote, and separate objections."
+  },
+  "verification_notes": "Rechecked lines 13-19 (adopted dismissal and vote), line 23 (vote list), lines 25-28 (disqualification), line 30 (special meeting/Answer note), lines 32-74 (dissent), and lines 78-102 (written objection). Corrected the first summary to specify the judicial-out-of-order basis and full vote and to distinguish the dissent and objection from the adopted ruling. Confirmed the adopted decision cites no incorporated case decision; references to Case 2011-08 appear only in the dissent.",
+  "repair_needed": false,
+  "repair_notes": "No source or catalog defect detected."
+}

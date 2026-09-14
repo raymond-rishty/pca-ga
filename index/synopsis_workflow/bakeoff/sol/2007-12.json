@@ -1,0 +1,34 @@
+{
+  "case_id": "2007-12",
+  "title": "TE John Grady v. Southwest Florida Presbytery",
+  "matter_type": "complaint",
+  "dispositions": ["sustained"],
+  "summary": "A minister complained that Presbytery placed a shepherding committee report containing findings of his alleged “sins and errors” in its minutes and directed that it be read to his congregation. The SJC sustained the complaint and ordered the report expunged. Although a committee may form and record an opinion without judicial process, Presbytery's endorsement and public dissemination effectively admonished the minister on unsubstantiated and unproven opinions without due process.",
+  "sources": [
+    {
+      "path": "cases/ga36_2008__2007-12.md",
+      "sha256": "ae7802af00be20e258a3386bcc9d3c8d5de4755c73738b075dc27237b40119bd",
+      "locator": "lines 15-49; printed pp. 125-127, facts, issue, judgment, and reasoning",
+      "supported_claims": "Supports the report's contents and publication, the sustained complaint, expungement, and the due-process distinction between committee opinion and effective presbytery admonition."
+    }
+  ],
+  "source_limits": "A separate concurrence questioned the framing of the issue; the synopsis relies only on the adopted majority decision.",
+  "evidence_notes": [
+    "Presbytery's report contained allegations; the SJC described the operative opinions as unsubstantiated and unproven.",
+    "The error was not merely recording a committee opinion, but endorsing and publicizing it so as effectively to impose admonition without process.",
+    "The remedy was expungement from the May 8, 2007 minutes."
+  ],
+  "benchmark_examples": ["C03 Workman", "C04 Delhi", "C17 Wilson"],
+  "scores": {"concrete_dispute": 2, "decision": 2, "decisive_reason": 2, "distinctive_value": 2, "fidelity": 2, "economy": 2},
+  "score_reasons": {
+    "concrete_dispute": "Identifies the report, presbytery action, and public reading.",
+    "decision": "States sustained complaint and expungement.",
+    "decisive_reason": "Explains why endorsement and dissemination amounted to admonition without process.",
+    "distinctive_value": "Preserves the committee-opinion versus court-action distinction.",
+    "fidelity": "Keeps allegations distinct from proven facts and excludes the concurrence's framing.",
+    "economy": "Retains the constitutional distinction without chronology."
+  },
+  "verification_notes": "Separate source-checking pass by the same reviewer re-read lines 33-55 and confirmed that the summary attributes only the adopted majority's judgment and reasoning, not the concurrence.",
+  "repair_needed": false,
+  "repair_notes": "No source or catalog defect prevents this synopsis."
+}

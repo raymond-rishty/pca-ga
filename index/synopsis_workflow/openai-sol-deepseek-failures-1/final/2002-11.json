@@ -1,0 +1,51 @@
+{
+  "case_id": "2002-11",
+  "title": "TE Brian Abshire v. Pacific Northwest Presbytery",
+  "matter_type": "complaint",
+  "final_dispositions": [
+    "partially_sustained",
+    "remanded"
+  ],
+  "disposition_detail": "Issues 1–3 and 5 were denied. Issue 4 was sustained because the Lynch and Rooney complaint was decided without BCO 43 procedures, and that complaint was remanded to Presbytery. A sixth issue was not properly before the SJC.",
+  "first_summary": "Abshire challenged Presbytery’s commission for its appointment, scope, exhortation, summary handling of two elders’ complaint, and other actions. The SJC sustained only the challenge to deciding the elders’ complaint without the procedures required by BCO 43 and remanded that complaint. It denied the remaining issues, holding that the commission could conduct the required investigation and that its exhortation and report were pastoral rather than formal discipline.",
+  "summary": "Abshire challenged Presbytery’s commission for its appointment, scope, exhortation, summary disposition of two elders’ complaint, and other actions. The SJC sustained only the challenge to deciding the elders’ complaint without BCO 43 procedures and remanded that complaint. It denied the other issues: the commission could conduct the required investigation, the scope objection was untimely, and its exhortation and report were pastoral rather than formal discipline. A separate sixth issue remained before Presbytery and was not decided.",
+  "sources": [
+    {
+      "path": "cases/ga31_2003__2002-11.md",
+      "sha256": "20d623e0386219e6e1e75544d10e371570e2ab448bff55ce2f109c2c81cdd06f",
+      "locator": "printed pp. 119–124, lines 14–127",
+      "supports": "Case identity, facts, issues, judgment, reasoning, remand, qualification, and adoption vote."
+    }
+  ],
+  "evidence_notes": {
+    "identity_and_adoption": "The caption identifies Case 2002-11 and the parties (printed p. 119, line 14); the SJC adopted the decision 16–0 (printed p. 124, lines 123–127).",
+    "dispute": "The five issues challenge the commission’s appointment, authority, exhortation, immediate ruling without argument, and other actions (printed pp. 120–121, lines 46–60).",
+    "outcomes_and_reasons": "Issues 1–3 and 5 were denied; issue 4 was sustained and the elders’ complaint remanded (printed p. 121, lines 62–71). The reasons appear at printed pp. 121–123, lines 73–117.",
+    "qualifications": "The sixth issue was excluded because it was a separate complaint on which Presbytery had not acted (printed p. 121, line 60).",
+    "incorporated_decisions": "No decision was incorporated by reference."
+  },
+  "source_limits": "The supplied report does not reproduce the underlying complaints or commission report. Its operative judgment nevertheless provides all material dispositions and reasons.",
+  "benchmark_examples": [
+    "C01",
+    "C02"
+  ],
+  "scores": {
+    "concrete_dispute": 2,
+    "decision": 2,
+    "decisive_reason": 2,
+    "distinctive_value": 2,
+    "fidelity": 2,
+    "economy": 2
+  },
+  "score_reasons": {
+    "concrete_dispute": "Identifies each category of challenged commission action.",
+    "decision": "States the sole sustained issue, all denied issues, the remand, and the excluded sixth issue.",
+    "decisive_reason": "Explains the BCO 43 violation and the principal reasons for denying the other issues.",
+    "distinctive_value": "Preserves the distinction between pastoral advice and formal discipline, along with the timeliness limitation.",
+    "fidelity": "Separates the SJC’s holdings from Abshire’s arguments and limits the remand to the elders’ complaint.",
+    "economy": "Retains only details needed to understand the mixed result and its limits."
+  },
+  "verification_notes": "Rechecked the five numbered judgments and corresponding reasoning. The final summary clarifies that only the Lynch and Rooney complaint was remanded, adds the untimely scope objection, and notes that the separate sixth issue was not decided.",
+  "repair_needed": true,
+  "repair_notes": "The source header labels the disposition “partial reversal” (line 3), but the operative judgment instead sustains one complaint issue, denies the others, and remands the underlying complaint (lines 62–71). Catalog disposition metadata should be corrected accordingly."
+}

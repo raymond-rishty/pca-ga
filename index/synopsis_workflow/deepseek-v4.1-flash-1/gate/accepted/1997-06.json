@@ -1,0 +1,62 @@
+{
+  "case_id": "1997-06",
+  "title": "E. L. Fitzsimmons vs. Evangel Presbytery",
+  "matter_type": "appeal",
+  "final_dispositions": [
+    "remanded"
+  ],
+  "disposition_detail": "The SJC found Evangel Presbytery erred in two respects: (a) failing to notify the appellant of the time, date, and place for hearing the appeal, and (b) failing to adjudicate the appeal once it had been found in order. It remanded to Presbytery under BCO 42-9. The SJC expressly made no ruling on appellant's Issues 2, 3, 4, and 5 concerning the Session's alleged haste, refusal to set a trial date, prejudice, and excommunication.",
+  "first_summary": "Fitzsimmons appealed his excommunication by his session to Evangel Presbytery. After Presbytery found the appeal in order but then rescinded that action without adjudicating it, the SJC reversed and remanded. It held that Presbytery failed to give notice of the appeal hearing and failed to decide the appeal, and made no ruling on the remaining session-related issues.",
+  "summary": "After a church member and deacon was excommunicated by his session, he appealed to Evangel Presbytery. Presbytery found the appeal in order and appointed a commission, but then rescinded that action and never adjudicated the appeal. The SJC held Presbytery erred by failing to notify the appellant of the appeal hearing and by failing to adjudicate an appeal properly before it. It remanded under BCO 42-9 for proper adjudication and made no ruling on the remaining session-related merits issues.",
+  "sources": [
+    {
+      "path": "cases/ga26_1998__1997-06.md",
+      "sha256": "91ad3d1855f0dfddfa82f717e1550b3847d6e87c92f4b962a1fd8a0567f6b4f7",
+      "locator": "lines 1–5, 14–36",
+      "supports": "Canonical case ID and title; SJC, 26th Assembly (1998), disposition remanded; facts of the dispute and Presbytery proceedings."
+    },
+    {
+      "path": "cases/ga26_1998__1997-06.md",
+      "sha256": "91ad3d1855f0dfddfa82f717e1550b3847d6e87c92f4b962a1fd8a0567f6b4f7",
+      "locator": "lines 52–82",
+      "supports": "Operative judgment and adopted reasoning: Presbytery erred by failing to notify appellant of appeal hearing and failing to adjudicate; remand under BCO 42-9; no ruling on Issues 2–5."
+    },
+    {
+      "path": "cases/ga26_1998__1997-06.md",
+      "sha256": "91ad3d1855f0dfddfa82f717e1550b3847d6e87c92f4b962a1fd8a0567f6b4f7",
+      "locator": "lines 84–88",
+      "supports": "Authorship, approval, and adoption of the SJC decision."
+    }
+  ],
+  "evidence_notes": {
+    "identity_and_adoption": "Header lines 1–3 identify Case 1997-06, E. L. Fitzsimmons vs. Evangel Presbytery, before the Standing Judicial Commission, 26th Assembly (1998), disposition remanded. Lines 84–88 show the opinion authored by RE Belz and approved by TEs Ferguson and Konopa, and adopted by the SJC 17 concurring, 1 recused, 6 absent.",
+    "dispute": "Lines 20–24: Fitzsimmons, a deacon, publicly disputed the Session's missions budget handling; the Session charged him with bearing false witness, temporarily suspended him, tried him without his appearance, found him guilty, and imposed excommunication. Lines 26–36: he appealed to Evangel Presbytery; Presbytery found the appeal in order and appointed a commission, but the commission met without notice or presence of appellant, voted the appeal out of order, and Presbytery later rescinded its in-order action.",
+    "outcomes_and_reasons": "Lines 54–56: judgment found Presbytery erred in failing to notify appellant of the appeal hearing and in failing to adjudicate the appeal once found in order; remanded under BCO 42-9; no ruling on Issues 2–5. Lines 62–66: Presbytery properly initiated the appeal and appointed a commission. Lines 70–72 and 79–82: due process requires notice or waiver, and BCO 42-8 makes adjudication mandatory after an appeal is found in order.",
+    "qualifications": "Line 56 expressly declines to rule on Issues 2–5, including the merits of the Session's alleged haste, refusal to set a trial date, prejudice, and excommunication. Lines 24 and 34 note record gaps about notice and presence, while the SJC's notice holding concerns the appeal hearing before Presbytery. Lines 84–88 distinguish the signed and adopted SJC decision from lower-court actions.",
+    "incorporated_decisions": "No decision is incorporated by reference. The Session's and Presbytery's actions are lower-court and background proceedings described in the record; the SJC's own judgment and reasoning control."
+  },
+  "source_limits": "Only the supplied SJC opinion/markdown is available. The underlying record of the case and full BCO excerpts are cited indirectly, and the source does not report any later Presbytery action on remand or any merits ruling on the excommunication.",
+  "benchmark_examples": [
+    "A01 (Grady) separates conviction, censure, and administrative suspension; here the SJC remanded without reaching the excommunication merits.",
+    "A03 (Mitchell) shows separately treated specifications with different remedies; here the only operative disposition is remand, with Issues 2–5 expressly reserved."
+  ],
+  "scores": {
+    "concrete_dispute": 2,
+    "decision": 2,
+    "decisive_reason": 2,
+    "distinctive_value": 2,
+    "fidelity": 2,
+    "economy": 2
+  },
+  "score_reasons": {
+    "concrete_dispute": "Identifies the challenged Presbytery action: failure to notify appellant of the appeal hearing and failure to adjudicate the appeal after finding it in order.",
+    "decision": "States the SJC's error findings and remand, and expressly notes that it made no ruling on Issues 2–5.",
+    "decisive_reason": "Explains the due process notice requirement and BCO 42-8's mandatory adjudication once an appeal is found in order.",
+    "distinctive_value": "Clarifies that remand followed procedural failures in Presbytery's handling of the appeal, not a merits ruling on the Session's excommunication.",
+    "fidelity": "Distinguishes the Session's and Presbytery's actions from the SJC's judgment and adopted reasoning; no separate opinion or incorporated decision is treated as the holding.",
+    "economy": "Keeps the material facts and procedural posture while omitting nonessential names and filing chronology."
+  },
+  "verification_notes": "Rechecked the header, operative judgment, and adopted reasoning. Corrected the draft's 'reversed' to the source's precise holding that Presbytery erred and the case was remanded under BCO 42-9. Confirmed the SJC made no ruling on Issues 2–5 and that the remand concerns Presbytery's appeal handling rather than acquittal from excommunication. Verified authorship, approval, adoption vote, and source hash.",
+  "repair_needed": false,
+  "repair_notes": "No source or catalog defect found."
+}

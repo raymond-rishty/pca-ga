@@ -1,0 +1,51 @@
+{
+  "case_id": "2010-24",
+  "title": "Wood v. Northwest Georgia Presbytery",
+  "matter_type": "complaint",
+  "final_dispositions": [
+    "judicially_out_of_order",
+    "dismissed"
+  ],
+  "disposition_detail": "Complaint declared judicially out of order under OMSJC 10.5.c because Northwest Georgia Presbytery rescinded the action complained against; dismissed because the defects could not be cured and no grounds remained. No merits determination. Dissent would have found the complaint judicially in order and directed panel adjudication.",
+  "first_summary": "Laura Wood’s complaint against Northwest Georgia Presbytery was dismissed as judicially out of order because Presbytery rescinded the action complained of, leaving no grounds. The SJC reached no merits. A dissent argued the complaint should have proceeded.",
+  "summary": "A complaint challenging Northwest Georgia Presbytery’s denial of Laura Wood’s complaint against a session was declared judicially out of order and dismissed because Presbytery later rescinded the challenged action; the SJC said the defects could not be cured and no grounds remained. It reached no merits. The dissent argued rescission did not automatically defeat a complaint and that her complaint also alleged Presbytery’s failure to act.",
+  "sources": [
+    {
+      "path": "cases/ga40_2012__2010-24.md",
+      "sha256": "4edfa9f6cdb55127c660df5da74d2de14d29ac4e8a45fb5bfd036218aa7e64a4",
+      "locator": "lines 11-31, 40-122; printed pp. 525-530",
+      "supports": "Adopted majority judgment, rescission rationale, dismissal, roll call, and separate dissent."
+    }
+  ],
+  "evidence_notes": {
+    "identity_and_adoption": "Case 2010-24, Wood v. Northwest Georgia Presbytery, before the SJC of the 40th GA (2012). The opinion by RE John White was adopted, as amended, as the full SJC decision; vote was 16 concurring, 6 dissenting, 1 recused, 1 absent (lines 1-3, 25-31; printed pp. 525-526).",
+    "dispute": "Wood complained to the SJC after Northwest Georgia Presbytery acted on her earlier complaint against the Session of Grace Covenant PCA; the dissent records Presbytery’s September 11, 2010, negative answer to Complaint #2 and its January 29, 2011, rescission (lines 13-21, 71-74, 97-118; printed pp. 525, 527-529).",
+    "outcomes_and_reasons": "The SJC held the case judicially out of order under OMSJC 10.5.c because Presbytery had rescinded the action complained against; it said the defects could not be cured and dismissed because no grounds remained (lines 13-22; printed pp. 525-526). The dissent, not the adopted decision, argued rescission did not automatically make the complaint out of order and that a failure-to-act specification remained (lines 40-60, 88-122; printed pp. 526-530).",
+    "qualifications": "The majority made no merits determination. The dissent expressly expressed no view on the merits and rested on the asserted invalidity of the out-of-order ruling and the continuing failure-to-act claim (lines 40-44, 120-130; printed pp. 526, 529-530). TE McGowan’s recusal explanation appears separately (lines 33-36; printed p. 526).",
+    "incorporated_decisions": "No incorporated decision is supplied; the majority refers to OMSJC 10.5.c and BCO 43-8, but those texts are not reproduced in the source (lines 13-21, 48-52; printed pp. 525, 527)."
+  },
+  "source_limits": "The source contains the brief adopted majority opinion, roll call, and dissenting opinion, but not the full complaint, Presbytery minutes beyond quoted excerpts, or the cited OMSJC/BCO provisions. The record therefore supports the procedural disposition but not a merits assessment.",
+  "benchmark_examples": [
+    "C01: preserve both procedural rulings and refused relief; here the adopted decision grants no merits relief and dismisses on procedural grounds.",
+    "C20: do not supply an explanation absent from the adopted ruling; here the majority did state a rescission-based reason, while the dissent’s contrary rationale remains separate."
+  ],
+  "scores": {
+    "concrete_dispute": 2,
+    "decision": 2,
+    "decisive_reason": 2,
+    "distinctive_value": 2,
+    "fidelity": 2,
+    "economy": 2
+  },
+  "score_reasons": {
+    "concrete_dispute": "The synopsis identifies the challenged Presbytery action and the complaint context without dwelling on names or filing chronology.",
+    "decision": "It states the sole material outcome: judicially out of order and dismissed, with no merits ruling.",
+    "decisive_reason": "It accurately gives the adopted reason: Presbytery’s rescission removed the grounds for the complaint and left defects incurable.",
+    "distinctive_value": "It preserves the procedural distinction that rescission of the challenged action can produce an out-of-order dismissal, while noting the dissent’s contrary view.",
+    "fidelity": "It distinguishes the adopted majority holding from the separate dissent and does not convert dissent arguments into the SJC’s decision.",
+    "economy": "Every retained detail explains the dispute, the dismissal, or the limiting procedural reason."
+  },
+  "verification_notes": "Rechecked the adopted majority at lines 11-25 and the roll call at lines 25-31, then corrected the first summary to identify the challenged action more precisely as Presbytery’s action later rescinded and to avoid implying a merits ruling. Also rechecked that the failure-to-act argument and criticism of OMSJC 10.5 appear only in the dissenting opinion, not in the adopted majority.",
+  "repair_needed": false,
+  "repair_notes": "No source or catalog defect found; the sparse record is consistent with the reported disposition."
+}

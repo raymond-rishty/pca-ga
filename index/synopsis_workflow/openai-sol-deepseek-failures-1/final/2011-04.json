@@ -1,0 +1,56 @@
+{
+  "case_id": "2011-04",
+  "title": "Gunn et al. v. Covenant Presbytery",
+  "matter_type": "complaint",
+  "final_dispositions": [
+    "denied"
+  ],
+  "disposition_detail": "The SJC held that Covenant Presbytery did not err by receiving and acting on its MNA Committee’s report and recommendations; Gunn’s complaint was denied, with no corrective relief ordered.",
+  "first_summary": "Ministers challenged Covenant Presbytery’s receipt of and action on its MNA Committee report concerning the Mississippi Joint Committee on Campus Work, arguing that the committee exceeded its assigned authority. The SJC denied the complaint because the study extended the assigned salary inquiry, the committee had oversight responsibility for MJCCW, its recommendations proposed discussion rather than structural change, and Presbytery had ruled the matters properly before it.",
+  "summary": "Ministers challenged Covenant Presbytery’s receipt of and action on its MNA Committee report concerning the Mississippi Joint Committee on Campus Work, contending that the committee exceeded its assigned authority. The SJC denied the complaint. It held that the study naturally extended the salary inquiry, the committee had oversight of MJCCW, the recommendations sought discussion rather than structural change, and Presbytery had ruled the matters properly before it. The record could not establish claimed traditional limits on oversight, and no corrective relief issued.",
+  "sources": [
+    {
+      "path": "cases/ga40_2012__2011-03_2011-04.md",
+      "sha256": "69dfd27e7964efd443f6aa1b11e3ceb829d63a9ce4ddb1d1a72e8f424fd13a0e",
+      "locator": "printed pp. 554, 557–558, lines 11–16, 51–69, 73–77",
+      "supports": "Case identity, combined hearing, challenged action, judgment, and committee-authority issue."
+    },
+    {
+      "path": "cases/ga40_2012__2011-03_2011-04.md",
+      "sha256": "69dfd27e7964efd443f6aa1b11e3ceb829d63a9ce4ddb1d1a72e8f424fd13a0e",
+      "locator": "printed pp. 559–560, lines 87–97",
+      "supports": "Decisive reasons, evidentiary qualification, denial, and adoption by the full SJC."
+    }
+  ],
+  "evidence_notes": {
+    "identity_and_adoption": "Case 2011-04 is Grover Gunn et al. v. Covenant Presbytery; it was combined with identical Case 2011-03 and heard by an expanded panel. The full SJC adopted the amended reasoning. Printed pp. 554, 557, 560; lines 15, 51–61, 97.",
+    "dispute": "The issue was whether Presbytery erred by receiving and acting on its MNA Committee’s report and recommendations concerning MJCCW. Printed p. 557; lines 63–65.",
+    "outcomes_and_reasons": "The complaints were denied because the study extended the salary inquiry, MNA-CP had MJCCW oversight, the recommendations sought discussion rather than structural change, and Presbytery ruled the matters properly before it. Printed pp. 557–560; lines 67–69, 91–95.",
+    "qualifications": "The SJC said the record could not establish respondents’ assertions about the traditional scope of oversight and treated Presbytery as best positioned to judge conformity with its wishes. Printed p. 560; line 93.",
+    "incorporated_decisions": "No decision was incorporated by reference; the Moderator’s ruling and Presbytery vote were procedural history considered in the reasoning. Printed pp. 556, 559; lines 31–49, 91."
+  },
+  "source_limits": "The supplied opinion adjudicates Cases 2011-03 and 2011-04 together and describes their complaints as identical; it does not separately reproduce Gunn’s complete pleading or enumerate additional specifications.",
+  "benchmark_examples": [
+    "C01",
+    "C20"
+  ],
+  "scores": {
+    "concrete_dispute": 2,
+    "decision": 2,
+    "decisive_reason": 2,
+    "distinctive_value": 2,
+    "fidelity": 2,
+    "economy": 2
+  },
+  "score_reasons": {
+    "concrete_dispute": "Identifies the challenge to receiving and acting on the committee report.",
+    "decision": "States the denial and absence of corrective relief.",
+    "decisive_reason": "Includes all four reasons expressly stated by the SJC.",
+    "distinctive_value": "Preserves the distinction between unauthorized committee direction and a report naturally extending assigned oversight.",
+    "fidelity": "Separates the adopted holding from respondents’ historical assertions and procedural rulings below.",
+    "economy": "Retains only facts necessary to explain the authority dispute, result, and limitation."
+  },
+  "verification_notes": "Rechecked the operative judgment at lines 67–69 and adopted reasoning at lines 91–97. The final summary adds the opinion’s evidentiary qualification concerning traditional oversight and clarifies that the recommendations sought discussion rather than structural change.",
+  "repair_needed": false,
+  "repair_notes": ""
+}

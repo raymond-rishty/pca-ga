@@ -1,0 +1,49 @@
+{
+  "case_id": "2001-20",
+  "title": "Deacon Dae Hee Lee, et al. v. Korean Capital Presbytery",
+  "matter_type": "complaint",
+  "final_dispositions": [
+    "withdrawn"
+  ],
+  "disposition_detail": "The 30th General Assembly recorded Case 01-20 as withdrawn. It issued no merits determination or relief.",
+  "first_summary": "The complaint against Korean Capital Presbytery was withdrawn, without a published merits opinion.",
+  "summary": "This complaint against Korean Capital Presbytery was withdrawn. The published record does not identify the challenged action, explain the withdrawal, decide the merits, or award relief.",
+  "sources": [
+    {
+      "path": "cases/ga30_2002__stub_2001-20.md",
+      "sha256": "6226bd2276253e7bd355e4ce210a9e8b0fa42086587ecb3f61c9460a2e2c60fd",
+      "locator": "lines 1–5, 9–11",
+      "supports": "Case identity, complaint classification, Assembly, withdrawal, and absence of a separate merits opinion."
+    }
+  ],
+  "evidence_notes": {
+    "identity_and_adoption": "The heading identifies Case 2001-20 and the parties; metadata identifies the Standing Judicial Commission and 30th Assembly (lines 1–3).",
+    "dispute": "The record identifies a complaint against Korean Capital Presbytery but gives no challenged action or grounds (lines 1–5).",
+    "outcomes_and_reasons": "Case 01-20 was withdrawn; no reason or merits opinion is supplied (lines 5, 9–11).",
+    "qualifications": "The notice provides only status information and no merits ruling, relief, or factual account (lines 5, 9–11).",
+    "incorporated_decisions": "No decision is incorporated by reference."
+  },
+  "source_limits": "The source is a short docket-style notice; it does not include the complaint, withdrawal circumstances, or merits reasoning.",
+  "benchmark_examples": [
+    "C20"
+  ],
+  "scores": {
+    "concrete_dispute": 1,
+    "decision": 2,
+    "decisive_reason": 2,
+    "distinctive_value": 1,
+    "fidelity": 2,
+    "economy": 2
+  },
+  "score_reasons": {
+    "concrete_dispute": "Identifies the complaint and respondent, but the source omits the challenged conduct.",
+    "decision": "Accurately states the sole disposition: withdrawn.",
+    "decisive_reason": "Faithfully states that no reason was published.",
+    "distinctive_value": "Clarifies that withdrawal was not a merits determination, but the record supplies no substantive distinction.",
+    "fidelity": "Does not infer allegations, reasons, or relief from the withdrawal.",
+    "economy": "Retains only information necessary to explain the sparse status record."
+  },
+  "verification_notes": "Rechecked that the operative list specifically includes 01-20 among withdrawn cases, while 01-26 and 01-27—not this case—were abandoned; also confirmed that no merits opinion was published.",
+  "repair_needed": false,
+  "repair_notes": "No repair is required; although sparse and textually truncated after the disposition list, the source clearly supplies this case’s final status."
+}

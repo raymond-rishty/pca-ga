@@ -1,0 +1,64 @@
+{
+  "case_id": "1990-10",
+  "title": "Vaughn E. Hathaway, Jr. v. Grace Presbytery",
+  "matter_type": "complaint",
+  "final_dispositions": [
+    "partially_sustained",
+    "denied",
+    "moot"
+  ],
+  "disposition_detail": "Specifications 1–5 were denied. Specification 6, challenging refusal to provide financial reports authorized for Session members, was sustained but declared moot because Hathaway’s pastoral relationship and Session membership had ended. No present access or further relief was granted.",
+  "first_summary": "The SJC partially sustained a pastor’s complaint concerning his Session’s refusal to provide financial reports prepared for Session members. It held that, as pastor and a Session member, he had been entitled to the reports even though other elders did not collect copies. Because his pastoral relationship had ended, however, his claim was moot and gave him no current right of access. The remaining specifications were denied.",
+  "summary": "A pastor complained that Presbytery upheld his Session’s refusal to give him financial reports prepared for Session members, while also alleging record-transmission, circularization, factual, and constitutional errors. The SJC denied Specifications 1–5 but sustained Specification 6: because the pastor was a Session member, the Session’s authorization made the reports available to him regardless of whether other elders collected copies. His pastoral relationship had ended, however, so the access claim was moot and conferred no present right to the reports. Reasons for Specifications 1–2 were adopted from Case 90-9.",
+  "sources": [
+    {
+      "path": "cases/ga19_1991__1990-10.md",
+      "sha256": "76e3e71fcfda60390783543c72cb0b51b69a17850f6055f720664515810ec169",
+      "locator": "lines 1–3, 16–22, 109–113; printed pp. 578, 581",
+      "supports": "Case identity, SJC decision, concurrence, dissents, and full-Commission revisions."
+    },
+    {
+      "path": "cases/ga19_1991__1990-10.md",
+      "sha256": "76e3e71fcfda60390783543c72cb0b51b69a17850f6055f720664515810ec169",
+      "locator": "lines 43–79; printed pp. 578–580",
+      "supports": "Session’s financial-report action, refusal, Presbytery’s denial, and issue presented."
+    },
+    {
+      "path": "cases/ga19_1991__1990-10.md",
+      "sha256": "76e3e71fcfda60390783543c72cb0b51b69a17850f6055f720664515810ec169",
+      "locator": "lines 81–105; printed pp. 580–581",
+      "supports": "Denial of Specifications 1–5, sustaining and mootness of Specification 6, and reasons concerning Session membership and present access."
+    }
+  ],
+  "evidence_notes": {
+    "identity_and_adoption": "Caption and case number appear at lines 16–22. Twenty SJC members concurred; two dissented without opinion, and the full Commission made consented minor revisions (lines 109–113; printed p. 581).",
+    "dispute": "The Session refused Hathaway copies of financial reports authorized for Session members; Presbytery denied his complaint (lines 45–71), producing the stated issue at lines 75–79 (printed pp. 578–580).",
+    "outcomes_and_reasons": "Specifications 1–5 were denied and Specification 6 sustained but moot (lines 81–105). BCO 12 made the pastor a Session member entitled to the reports, but termination of that relationship eliminated present access (printed pp. 580–581).",
+    "qualifications": "The disputed date correction was deemed nonprejudicial (line 53). Two members dissented without written reasons, and one was disqualified (lines 109–113).",
+    "incorporated_decisions": "The rationale denying Specifications 1–2 was adopted from Judicial Case 90-9 (lines 83, 95). That opinion is not included here, although the denials are expressly stated."
+  },
+  "source_limits": "The supplied extract does not include Case 90-9’s incorporated reasoning or written dissents; it nevertheless states the outcomes for all specifications and the complete reasoning for Specification 6.",
+  "benchmark_examples": [
+    "C01",
+    "C02"
+  ],
+  "scores": {
+    "concrete_dispute": 2,
+    "decision": 2,
+    "decisive_reason": 2,
+    "distinctive_value": 2,
+    "fidelity": 2,
+    "economy": 2
+  },
+  "score_reasons": {
+    "concrete_dispute": "Identifies the refusal to provide Session-authorized financial reports and the related procedural objections.",
+    "decision": "States the denial of Specifications 1–5 and the sustained-but-moot result on Specification 6.",
+    "decisive_reason": "Explains Session membership, equal entitlement to the reports, and mootness after termination; notes the incorporated rationale’s absence.",
+    "distinctive_value": "Preserves the distinction between entitlement when serving on the Session and lack of present access after membership ended.",
+    "fidelity": "Separates the SJC’s holdings from Presbytery’s action, party contentions, and unwritten dissents.",
+    "economy": "Retains only details needed to explain the mixed result, governing distinction, and absence of relief."
+  },
+  "verification_notes": "Rechecked the judgment and reasoning at lines 81–105. The final summary was corrected to specify that Specifications 1–5 were denied, that only Specification 6 was sustained, that it was moot, and that Case 90-9 supplied the unavailable rationale for Specifications 1–2.",
+  "repair_needed": false,
+  "repair_notes": "No catalog or source defect requires repair; the cross-referenced reasoning is absent, but this source expressly supplies the incorporated decision’s result."
+}

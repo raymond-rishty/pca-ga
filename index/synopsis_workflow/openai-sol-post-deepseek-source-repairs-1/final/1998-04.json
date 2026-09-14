@@ -1,0 +1,49 @@
+{
+  "case_id": "1998-04",
+  "title": "Jeffrey Yelton v. Westminster Presbytery",
+  "matter_type": "complaint",
+  "final_dispositions": [
+    "out_of_order"
+  ],
+  "disposition_detail": "The SJC declared the complaint no longer in order after receiving documentation that Yelton had joined the Presbytery of the Alleghenies of the Reformed Presbyterian Church of North America.",
+  "first_summary": "The SJC declared Yelton’s complaint against Westminster Presbytery no longer in order because documentation showed that he had joined another denomination’s presbytery. It made no merits determination.",
+  "summary": "The SJC declared Yelton’s complaint against Westminster Presbytery no longer in order after documentation showed that he had joined the Presbytery of the Alleghenies of the Reformed Presbyterian Church of North America. The brief ruling does not identify the conduct challenged in the complaint or decide its merits.",
+  "sources": [
+    {
+      "path": "cases/ga27_1999__1998-04.md",
+      "sha256": "4728b63894a5ac51be4ba7418a5fa2a2d31a229e83a618b25abe518fdaf6aeba",
+      "locator": "lines 1–15, especially 9–11",
+      "supports": "Case identity, complaint posture, out-of-order disposition, stated reason, and vote."
+    }
+  ],
+  "evidence_notes": {
+    "identity_and_adoption": "The caption identifies Case 98-4 as Jeffrey Yelton v. Westminster Presbytery; the SJC approved the decision 19–0, with recusals and absences (lines 1–3, 11–15).",
+    "dispute": "The record identifies a complaint against Westminster Presbytery but does not state the underlying challenged conduct (lines 13–15).",
+    "outcomes_and_reasons": "The SJC declared the case no longer in order because documentation showed that Yelton had joined the Alleghenies Presbytery of the RPCNA (lines 9–11).",
+    "qualifications": "The excerpt contains no merits ruling, relief, or explanation beyond Yelton’s changed presbytery affiliation (lines 9–11).",
+    "incorporated_decisions": "No decision is incorporated by reference."
+  },
+  "source_limits": "The source is a brief disposition and does not provide the complaint’s allegations or any merits analysis.",
+  "benchmark_examples": [
+    "C20"
+  ],
+  "scores": {
+    "concrete_dispute": 0,
+    "decision": 2,
+    "decisive_reason": 2,
+    "distinctive_value": 1,
+    "fidelity": 2,
+    "economy": 2
+  },
+  "score_reasons": {
+    "concrete_dispute": "The underlying conduct challenged by the complaint is absent from the source.",
+    "decision": "The synopsis states the sole operative disposition and that no merits issue was decided.",
+    "decisive_reason": "It gives the SJC’s stated reason: documentation of Yelton’s new presbytery affiliation.",
+    "distinctive_value": "It preserves the limited procedural significance of the affiliation change.",
+    "fidelity": "It does not invent allegations or convert the procedural ruling into a merits decision.",
+    "economy": "Only the posture, result, reason, and source limitation are retained."
+  },
+  "verification_notes": "Rechecked lines 9–11 for the deciding actor, exact disposition, stated reason, and approval vote; corrected the summary to name the receiving presbytery and expressly note that the underlying challenged conduct is not identified.",
+  "repair_needed": false,
+  "repair_notes": ""
+}

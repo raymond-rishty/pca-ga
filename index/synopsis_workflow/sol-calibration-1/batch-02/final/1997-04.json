@@ -1,0 +1,49 @@
+{
+  "case_id": "1997-04",
+  "title": "Nancy A. Conrad et al. v. Central Carolina Presbytery",
+  "matter_type": "appeal",
+  "final_dispositions": [
+    "not_sustained"
+  ],
+  "disposition_detail": "The SJC answered that Central Carolina Presbytery had not acted unconstitutionally in denying the members' complaint; the challenge therefore was not sustained and the Presbytery's denial remained effective.",
+  "first_summary": "After a Session corrected an earlier unauthorized removal from its rolls, then formally voted to remove the same members, the members challenged Presbytery's denial of their complaint, arguing that the new removal defied the prior decision. The SJC upheld Presbytery's action. It concluded that the record showed no unconstitutional procedure or BCO violation and that it could consider only facts properly in the record, not material from earlier cases offered in oral argument. The ruling left the later membership removal undisturbed.",
+  "summary": "After a Session corrected an earlier unauthorized removal from its rolls, then formally voted to remove the same members, the members challenged Presbytery's denial of their complaint, arguing that the new removal defied the prior decision. The SJC upheld Presbytery's action. It concluded that the record showed no unconstitutional procedure or BCO violation and that it could consider only facts properly in the record, not material from earlier cases offered in oral argument. The ruling left the later membership removal undisturbed.",
+  "sources": [
+    {
+      "path": "cases/ga26_1998__1997-04.md",
+      "sha256": "5817e20ebfe8d5107b7bf84789bb7c29d59f3034a19b3f1f3e2ca4592cde81dd",
+      "locator": "original lines 14-16, 20-62 (printed pp. 129-131)",
+      "supports": "Printed appeal heading and caption; successive membership-roll actions; challenge, judgment, record-limitation rationale, and SJC approval."
+    }
+  ],
+  "evidence_notes": {
+    "identity_and_adoption": "Original lines 14-16 identify Appeal Case 97-4 and the caption; lines 44-56 identify the SJC proceeding and decision; line 62 records SJC approval by a 21-0 vote.",
+    "dispute": "Original lines 20-44 distinguish the first unauthorized removal, its nullification, the Session's later formal removal vote, and the members' claim that the later action defied Presbytery's earlier decision.",
+    "outcomes_and_reasons": "Original lines 48-56 answer that Presbytery did not act unconstitutionally. The panel found no BCO or constitutional violation in the record and declined to consider material from earlier cases that was not properly in the record.",
+    "qualifications": "The judgment addresses Presbytery's denial of the complaint about the May 1996 removal; it does not broadly approve every interpretation disputed by the parties. The practical effect is to leave the later removal and Presbytery's denial undisturbed.",
+    "incorporated_decisions": "Not applicable; earlier proceedings are procedural history, and the SJC supplies its own judgment and reasoning at original lines 46-56."
+  },
+  "source_limits": "Complete adopted SJC decision with factual summary, issue, judgment, brief reasoning, and approval vote. The heading calls the SJC matter an appeal, while the underlying filings are repeatedly called complaints; the structured matter type follows the source's express docket heading.",
+  "benchmark_examples": [
+    "C02"
+  ],
+  "scores": {
+    "concrete_dispute": 2,
+    "decision": 2,
+    "decisive_reason": 2,
+    "distinctive_value": 2,
+    "fidelity": 2,
+    "economy": 2
+  },
+  "score_reasons": {
+    "concrete_dispute": "Distinguishes the corrected first removal from the challenged later vote.",
+    "decision": "States that the SJC upheld Presbytery's denial and its practical effect.",
+    "decisive_reason": "Identifies both the failure of proof and the record boundary.",
+    "distinctive_value": "Preserves the evidentiary limit on material offered only in oral argument.",
+    "fidelity": "Does not conflate the two removal actions or turn disagreement into a constitutional violation.",
+    "economy": "Uses only chronology needed to explain why the second removal was challenged."
+  },
+  "verification_notes": "Separate same-reviewer pass reopened original lines 46-62. The first sentence maps the disputed action to lines 48 and the two-step history at lines 20-42; sentences 2-3 map the negative judgment and record-based rationale at lines 52-56; the final sentence states the practical effect of leaving Presbytery's denial intact. No synopsis correction was needed. The pass retained not_sustained rather than adding affirmed or denied because the SJC's own judgment is phrased as a negative answer to unconstitutionality.",
+  "repair_needed": false,
+  "repair_notes": "No blocking defect. The judgment says the complaint of June 27 although the issue identifies the July 22 complaint; the synopsis avoids relying on that inconsistent date, and the case's challenged Presbytery action remains clear from original lines 40-52."
+}

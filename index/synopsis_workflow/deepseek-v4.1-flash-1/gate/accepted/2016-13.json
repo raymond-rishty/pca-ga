@@ -1,0 +1,62 @@
+{
+  "case_id": "2016-13",
+  "title": "Daniels et al. v. Nashville Presbytery",
+  "matter_type": "complaint",
+  "final_dispositions": [
+    "moot"
+  ],
+  "disposition_detail": "Complaint found moot by the SJC; no merits ruling or relief. A six-member dissent would not declare mootness, noting no record evidence of abandonment or withdrawal and that a disputed filing-timeliness question should have been handled by a panel; the majority supplied no rationale.",
+  "first_summary": "The SJC declared Case 2016-13 moot because circumstances had changed, so it did not answer the complaint against Nashville Presbytery over its ruling that a session erred and had to redress its actions. Six commissioners dissented, arguing complainants had not abandoned their complaint, the filing-timeliness question should have been resolved by a panel, and mootness without record support was improper. No merits relief was granted.",
+  "summary": "The dissent describes the underlying dispute: session and congregation members complained that Nashville Presbytery improperly ruled their session had erred and had to redress its actions. The SJC, without explaining its reasoning, declared the complaint moot because circumstances had changed, leaving the merits unanswered. The dissent objected that the record showed no withdrawal or abandonment, that any filing-timeliness dispute should go to a panel, and that unexplained mootness undermines review. No relief was granted.",
+  "sources": [
+    {
+      "path": "cases/ga46_2018__2016-13.md",
+      "sha256": "1dcb0b20384f856215e1c68c04758cc270515c914e6a57e629946351df761bba",
+      "locator": "lines 15-17 (printed p. 523)",
+      "supports": "Case identity, deciding body, complaint decision, and majority moot disposition."
+    },
+    {
+      "path": "cases/ga46_2018__2016-13.md",
+      "sha256": "1dcb0b20384f856215e1c68c04758cc270515c914e6a57e629946351df761bba",
+      "locator": "lines 19-23 (printed p. 523)",
+      "supports": "Roll-call vote, concurrences/dissents, and McGowan disqualification."
+    },
+    {
+      "path": "cases/ga46_2018__2016-13.md",
+      "sha256": "1dcb0b20384f856215e1c68c04758cc270515c914e6a57e629946351df761bba",
+      "locator": "lines 29-65 (printed pp. 524-526)",
+      "supports": "Dissenting opinion: underlying dispute, lack of abandonment evidence, filing-timeliness/panel argument, and objections to unexplained mootness."
+    }
+  ],
+  "evidence_notes": {
+    "identity_and_adoption": "SJC decision on complaint, Case 2016-13, dated August 30, 2017, published at GA46 pp. 523-526; approved by roll call with multiple dissents, source lines 15-23.",
+    "dispute": "The majority states only mootness. The dissent describes a dispute over session powers and a Nashville Presbytery ruling that the session erred and had to redress its actions, with some session and congregation members complaining; source lines 29-37.",
+    "outcomes_and_reasons": "The SJC found circumstances rendered the complaint moot, source line 17, and gave no rationale in the majority order. The dissent says there was no record evidence of abandonment or withdrawal, that a filing-timeliness question should have been paneled, and that unexplained mootness would undermine the SJC; source lines 35-65.",
+    "qualifications": "The final disposition is mootness, not abandonment, dismissal, or a merits ruling. The dispute background and objections are from the dissent, not the adopted majority. McGowan disqualified himself as a Presbytery member; source lines 21-23, 35-65.",
+    "incorporated_decisions": "None. No incorporated decision is supplied or relied on; related cases are mentioned only as the dissent's speculation about possible mootness rationales, source lines 45-47."
+  },
+  "source_limits": "The source is a short majority order; it does not include the complaint, the record, or the lower-court decision. The only description of the underlying dispute appears in the dissent, and the majority's mootness rationale is absent. The roll call lists concurrences and dissents, but there is no separate majority opinion.",
+  "benchmark_examples": [
+    "C01. Allin et al. v. Tennessee Valley Presbytery — preserve both successful procedural claims and an unsuccessful merits claim, with remand.",
+    "C02. Turner et al. v. South Florida Presbytery — distinguish legitimate investigation from illegitimate censure and preserve separate adopted outcomes."
+  ],
+  "scores": {
+    "concrete_dispute": 2,
+    "decision": 2,
+    "decisive_reason": 2,
+    "distinctive_value": 2,
+    "fidelity": 2,
+    "economy": 2
+  },
+  "score_reasons": {
+    "concrete_dispute": "Identifies the challenged Presbytery ruling and session dispute, while attributing that background to the dissent.",
+    "decision": "States the sole adopted disposition, mootness, and explains that no merits issue was reached; notes dissent would not have found mootness.",
+    "decisive_reason": "Faithfully says the majority supplied no rationale and identifies the dissent's record-based objections without treating them as adopted reasons.",
+    "distinctive_value": "Preserves the mootness-versus-abandonment distinction and the dissent's warning about unexplained mootness and panel procedure.",
+    "fidelity": "Keeps the majority order, lower-court background, party dispute, and dissenting opinion distinct and does not convert dissent arguments into the SJC's holding.",
+    "economy": "Every retained detail explains the dispute, the mootness ruling, the dissent, or the absence of merits relief."
+  },
+  "verification_notes": "Rechecked the majority order and roll call at lines 15-23: the final action is mootness, not abandonment, dismissal, or a merits ruling. Rechecked the dissent at lines 29-65: the underlying dispute, no-evidence-of-abandonment objection, panel/timeliness argument, and mootness concerns are dissent only, not adopted. Corrected the first_summary's implication that changed circumstances explained mootness and attributed dispute details to the dissent. Confirmed no incorporated decision appears in the source.",
+  "repair_needed": false,
+  "repair_notes": "No source or catalog defect identified."
+}

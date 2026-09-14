@@ -1,0 +1,51 @@
+{
+  "case_id": "2009-12",
+  "title": "Armes v. Southwest Florida Presbytery",
+  "matter_type": "complaint",
+  "final_dispositions": [
+    "sustained",
+    "remanded"
+  ],
+  "disposition_detail": "The SJC held that Presbytery erred in ruling Armes’s complaint out of order and denying him a hearing, and remanded the case to Presbytery.",
+  "first_summary": "After Armes was excommunicated, Presbytery refused to hear his complaint, first reasoning that excommunication deprived him of standing and later ruling the complaint untimely. Presbytery conceded that it had erred, and the parties stipulated to remand. The SJC sustained the complaint and remanded it to Presbytery for a hearing.",
+  "summary": "Presbytery refused to hear Armes’s complaint against his excommunication, initially reasoning that excommunication deprived him of standing and later ruling the complaint untimely. Presbytery conceded its error on the standing ground, and all parties stipulated to remand for a hearing. The SJC confirmed that stipulation, sustained the complaint, and remanded the case without deciding the validity of the excommunication itself.",
+  "sources": [
+    {
+      "path": "cases/ga39_2011__2009-12_2009-21.md",
+      "sha256": "09d4cd1be5954de5fa1a6ce2af50c693013d1da13ba4991822fce14010ef21ca",
+      "locator": "lines 11–35; printed pp. 529–530",
+      "supports": "Case identity, Presbytery’s refusal to hear the complaint, concession, judgment, remand, reasoning, and adoption."
+    }
+  ],
+  "evidence_notes": {
+    "identity_and_adoption": "Case 2009-12 is identified at lines 11–15; the panel decision, amended by the full SJC, is described at lines 35–43 (printed p. 530).",
+    "dispute": "The excommunication, successive complaint proceedings, standing and timeliness rulings, and stated issue appear at lines 17–21 (printed p. 529).",
+    "outcomes_and_reasons": "The judgment answers that Presbytery erred and remands; the opinion rests on the parties’ stipulation, lines 23–35 (printed pp. 529–530).",
+    "qualifications": "The source provides no merits decision concerning the excommunication; its judgment addresses denial of a complaint hearing, lines 19–33.",
+    "incorporated_decisions": "No decision is incorporated by reference. Case 2009-21 begins separately at line 45."
+  },
+  "source_limits": "The supplied decision gives only stipulated reasoning and does not adjudicate the merits of the excommunication complaint.",
+  "benchmark_examples": [
+    "C01",
+    "C02"
+  ],
+  "scores": {
+    "concrete_dispute": 2,
+    "decision": 2,
+    "decisive_reason": 2,
+    "distinctive_value": 2,
+    "fidelity": 2,
+    "economy": 2
+  },
+  "score_reasons": {
+    "concrete_dispute": "Identifies the refusal to hear the excommunication complaint and both stated grounds.",
+    "decision": "States that the complaint was sustained and remanded for a hearing.",
+    "decisive_reason": "Accurately identifies the concession and parties’ stipulation as the adopted basis.",
+    "distinctive_value": "Clarifies that the ruling secured a hearing but did not decide the excommunication’s validity.",
+    "fidelity": "Distinguishes Presbytery’s concession from the SJC’s stipulated judgment and excludes Case 2009-21.",
+    "economy": "Retains only facts necessary to explain the dispute, result, and limitation."
+  },
+  "verification_notes": "Rechecked that Case 2009-12—not the separately reported Case 2009-21—was summarized; corrected the synopsis to specify that only the standing ground was expressly conceded and that the SJC did not decide the excommunication’s merits.",
+  "repair_needed": false,
+  "repair_notes": ""
+}

@@ -1,0 +1,50 @@
+{
+  "case_id": "2011-13",
+  "title": "Spann v. Oak Mountain Presbyterian Church",
+  "matter_type": "appeal",
+  "final_dispositions": [
+    "dismissed"
+  ],
+  "disposition_detail": "Appeal dismissed as premature: no record of a judicial decision by Oak Mountain Presbyterian Church or of an appeal to Evangel Presbytery. Dismissal was conditioned on Appellant providing evidence of such a lower decision and appeal. The SJC requested that Evangel Presbytery obtain a written response from the OMPC Session. No merits reached. Adopted as amended; 18 concurring, 1 dissenting, 1 not qualified, 1 recused, 3 absent.",
+  "first_summary": "An individual appealed to the SJC after her church allegedly excommunicated her without process and violated Matthew 18. The SJC dismissed the appeal as premature because there was no record of a judicial decision by the church or of an appeal to Evangel Presbytery. It noted excommunication's severity and asked Evangel Presbytery to obtain a written response from the session.",
+  "summary": "An individual appealed directly to the SJC, alleging her church effectively excommunicated her without process, failed the Matthew 18 process, and spiritually abused her by social isolation. The SJC dismissed as premature, without reaching the merits, because there was no record of a judicial decision by the church or of an appeal to Evangel Presbytery, the next higher court; it stated she could proceed only by providing such evidence. The severity of excommunication did not excuse that prerequisite. The SJC asked Presbytery to obtain the session's written response to her letter.",
+  "sources": [
+    {
+      "path": "cases/ga40_2012__2011-13.md",
+      "sha256": "f2feeae5091c0f57be09f58e207da5761fc6775fd038a47b7e0d906144981317",
+      "locator": "lines 11-29, 35; printed pp. 580-582",
+      "supports": "Canonical identity, SJC appeal, allegations, BCO 42-2 prematurity rationale, conditional dismissal, Presbytery request, adoption and vote."
+    }
+  ],
+  "evidence_notes": {
+    "identity_and_adoption": "Header and decision, lines 1-3, 11, 29, 35: Case 2011-13, Spann v. Oak Mountain Presbyterian Church, an SJC appeal; drafted by RE E.C. Burnett and adopted as amended by the full SJC; 18 concurring, 1 dissenting, 1 not qualified, 1 recused, 3 absent.",
+    "dispute": "Lines 13, 17-21: Spann alleged OMPC effectively excommunicated her without process, failed Matthew 18, and spiritually abused her by socially isolating her. The SJC found no record of a judicial decision by OMPC or of an appeal to Evangel Presbytery.",
+    "outcomes_and_reasons": "Lines 23-27: Excommunication is a severe censure under BCO 30-4 and should follow BCO 36-6, but the SJC held the appeal premature under BCO 42-2 and dismissed it unless Appellant provides evidence of the lower judicial decision and Presbytery appeal. It requested Evangel Presbytery to seek a written response from OMPC's Session. Line 27 states the appeal is dismissed.",
+    "qualifications": "Line 29 says adopted as amended; lines 33-35 record the vote, dissent, recusal, absences, and not-qualified member. Lines 39-97 are proposed OMSJC amendments, not part of the Spann judgment.",
+    "incorporated_decisions": "None. No incorporated decision or unavailable incorporated result appears in the supplied source."
+  },
+  "source_limits": "Sparse record: no lower court judgment, full record, or dissent text is supplied. The source also contains unrelated proposed amendments to the OMSJC at lines 39-97, which were not treated as case disposition.",
+  "benchmark_examples": [
+    "A01 - distinguish each procedural and merits ruling and preserve refused relief.",
+    "A20 - a dismissal label does not by itself mean an unsuccessful merits challenge; here it reflects prematurity."
+  ],
+  "scores": {
+    "concrete_dispute": 2,
+    "decision": 2,
+    "decisive_reason": 2,
+    "distinctive_value": 2,
+    "fidelity": 2,
+    "economy": 2
+  },
+  "score_reasons": {
+    "concrete_dispute": "Identifies the alleged effective excommunication without process, Matthew 18 failure, and social isolation.",
+    "decision": "States the dismissal, the condition for evidence, the Presbytery request, and that no merits were reached.",
+    "decisive_reason": "Gives BCO 42-2's next-higher-court requirement and the absence of any lower judicial decision or Presbytery appeal.",
+    "distinctive_value": "Preserves the rule that the severity of excommunication does not excuse the next-higher-court prerequisite in a direct SJC appeal.",
+    "fidelity": "Separates allegations, SJC reasoning, dismissal, and the ancillary request; notes adoption vote and unrelated amendments.",
+    "economy": "The synopsis includes only the dispute, jurisdictional reason, conditional dismissal, and Presbytery request."
+  },
+  "verification_notes": "Rechecked the operative judgment, especially lines 23-27 and 29: the SJC dismissed the appeal as premature unless evidence of an OMPC judicial decision and Evangel Presbytery appeal appeared; line 27 states the appeal is dismissed. Corrected first_summary to add the conditional-evidence language, the next-higher-court basis, and the Presbytery request. Confirmed no merits ruling, no incorporated decision, and that lines 39-97 are OMSJC amendment proposals rather than the case disposition. Confirmed adoption and vote counts at lines 29 and 35.",
+  "repair_needed": false,
+  "repair_notes": "No source or catalog defect identified; the metadata disposition dismissed matches the adopted decision."
+}

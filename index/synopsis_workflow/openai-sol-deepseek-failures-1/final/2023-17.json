@@ -1,0 +1,62 @@
+{
+  "case_id": "2023-17",
+  "title": "Tom Turner v. South Florida Presbytery",
+  "matter_type": "complaint",
+  "final_dispositions": [
+    "administratively_out_of_order"
+  ],
+  "disposition_detail": "In a combined ruling for Cases 2023-15 and 2023-17, the SJC ruled both complaints administratively out of order for lack of standing and held that they could not be put in order. It granted no merits relief.",
+  "first_summary": "Turner filed two complaints challenging South Florida Presbytery Judicial Commission actions concerning TE Tommy Boland and Cross Community Church. The SJC ruled both complaints administratively out of order because the church had already disaffiliated from the PCA, leaving Turner without standing. It treated the congregation’s first withdrawal motion as immediately effective and its second, timing-related motion as out of order. The merits were not reached.",
+  "summary": "Turner’s two complaints challenged the deposition of TE Tommy Boland and the dissolution of Cross Community Church’s relationship with Presbytery, although the record does not identify which challenge was Case 2023-17. In a combined ruling, the SJC held both complaints administratively out of order for lack of standing. The congregation’s first withdrawal vote immediately satisfied BCO 25-11; its second, contingent timing motion was out of order. Because the church had already left the PCA, Turner was no longer a member, and no merits relief was available.",
+  "sources": [
+    {
+      "path": "cases/ga51_2024__2023-15_2023-17.md",
+      "sha256": "332a914c781fddfda250dae3edbe76e5ff093cd29f03a00df80da9b2a93e3124",
+      "locator": "lines 9–30; printed pp. 946–947",
+      "supports": "Combined case identity, adopted ruling, lack of standing, immediate disaffiliation, and treatment of the two congregational motions."
+    },
+    {
+      "path": "cases/ga51_2024__2023-15_2023-17.md",
+      "sha256": "332a914c781fddfda250dae3edbe76e5ff093cd29f03a00df80da9b2a93e3124",
+      "locator": "lines 44–58; printed pp. 948–949",
+      "supports": "Dissent’s procedural history describing the two complaints and Presbytery’s challenged actions."
+    },
+    {
+      "path": "cases/ga51_2024__2023-15_2023-17.md",
+      "sha256": "332a914c781fddfda250dae3edbe76e5ff093cd29f03a00df80da9b2a93e3124",
+      "locator": "lines 86–113; printed pp. 950–951",
+      "supports": "Dissent’s contrary access-to-process analysis and express refusal to address the underlying merits."
+    }
+  ],
+  "evidence_notes": {
+    "identity_and_adoption": "The heading identifies combined Cases 2023-15 and 2023-17, Tom Turner v. South Florida Presbytery; the SJC approved the ruling 19–2 (lines 9–15, 30–33; printed pp. 946–947).",
+    "dispute": "The dissent’s history identifies complaints against Boland’s deposition and dissolution of the church-Presbytery relationship, but does not assign either complaint to 2023-17 (lines 44–56; printed pp. 948–949).",
+    "outcomes_and_reasons": "The adopted ruling held both complaints administratively out of order and incurable for lack of standing because the first congregational vote effected disaffiliation; the second motion was out of order as contingent (lines 15–28; printed pp. 946–947).",
+    "qualifications": "The dissent argued Turner and the church should have received judicial process but expressly took no position on the underlying issues (lines 100–113; printed pp. 950–951).",
+    "incorporated_decisions": "No decision was incorporated by reference. Cases 2013-07 and 2019-06 appear only as authorities in the dissent (lines 86–109; printed pp. 950–951)."
+  },
+  "source_limits": "The source combines Cases 2023-15 and 2023-17 and does not state which case number corresponds to which of Turner’s two complaints.",
+  "benchmark_examples": [
+    "C20",
+    "C01"
+  ],
+  "scores": {
+    "concrete_dispute": 2,
+    "decision": 2,
+    "decisive_reason": 2,
+    "distinctive_value": 2,
+    "fidelity": 2,
+    "economy": 2
+  },
+  "score_reasons": {
+    "concrete_dispute": "Identifies both challenged Presbytery actions while disclosing the case-number ambiguity.",
+    "decision": "States the combined administrative out-of-order ruling and absence of merits relief.",
+    "decisive_reason": "Explains that immediate disaffiliation eliminated Turner’s standing and that the second motion was ineffective.",
+    "distinctive_value": "Preserves the distinction between the effectual withdrawal vote and the contingent timing motion.",
+    "fidelity": "Separates the adopted ruling from procedural history and the dissent’s contrary analysis.",
+    "economy": "Retains only facts necessary to understand the dispute, standing ruling, and limitation."
+  },
+  "verification_notes": "Rechecked the operative ruling at lines 15–30 against the dissent’s procedural history. The final summary clarifies that both complaints were resolved together, avoids assigning either underlying challenge specifically to 2023-17, and distinguishes the majority’s standing rationale from the dissent’s process argument.",
+  "repair_needed": true,
+  "repair_notes": "The combined source does not map the deposition and dissolution complaints individually to Case 2023-15 or Case 2023-17. An individual case record or docket designation is needed to identify Case 2023-17’s precise challenged action."
+}

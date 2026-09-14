@@ -1,0 +1,4 @@
+interface:
+  display_name: "PCA Judicial Case Synopses"
+  short_description: "Write and assess source-grounded judicial synopses"
+  default_prompt: "Use $pca-ga-case-synopses to write or revise a judicial case synopsis against the repository benchmarks, checking the holding and qualifications against the case text."

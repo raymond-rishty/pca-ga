@@ -1,0 +1,50 @@
+{
+  "case_id": "2015-06",
+  "title": "Presbyterian Church in America v. South Florida Presbytery",
+  "matter_type": "review_and_control",
+  "final_dispositions": [
+    "other"
+  ],
+  "disposition_detail": "The SJC found Presbytery had responded to the citation and all outstanding exceptions of substance. It found all responses satisfactory except the response concerning charges against a teaching elder. It approved previously unsubmitted 2009 executive-session minutes with a new exception of substance, required amended minutes to be submitted for review, and directed Presbytery to complete or plan overdue Session-record reviews and report to the 45th General Assembly.",
+  "first_summary": "South Florida Presbytery complied with a General Assembly citation by submitting properly adopted responses to outstanding exceptions. The SJC accepted most responses but rejected one because it did not address BCO 32-2’s requirement to begin process when a charge is made. It also approved previously unsubmitted minutes with an exception concerning the divestiture of a teaching elder and directed Presbytery to complete overdue Session-record reviews.",
+  "summary": "Reviewing South Florida Presbytery’s response to a General Assembly citation, the SJC found most responses satisfactory but rejected one because it did not address BCO 32-2’s requirement to proceed once a charge is made. It approved previously unsubmitted 2009 executive-session minutes with an exception because their treatment of a teaching elder appeared to violate BCO 46-8. Presbytery also had to submit amended minutes and complete, or formally plan, overdue Session-record reviews for report to the 45th General Assembly.",
+  "sources": [
+    {
+      "path": "cases/ga44_2016__2015-06.md",
+      "sha256": "843065a8ec286aa213657d3d58b029b388299a39b2386050fa2875a6948dbca1",
+      "locator": "lines 11–53; printed pp. 519–521",
+      "supports": "Case identity, citation response, findings on exceptions, reasons, directives, and approval vote."
+    }
+  ],
+  "evidence_notes": {
+    "identity_and_adoption": "Lines 11–17 identify Case 2015-06, the parties, citation, and SJC report; lines 49–53 record SJC approval and vote.",
+    "dispute": "Lines 17–19 concern Presbytery’s response to the prior citation and outstanding exceptions; lines 21–49 identify the records and responses reviewed.",
+    "outcomes_and_reasons": "Lines 21–27 approve the 2009 minutes with a BCO 46-8 exception; lines 27–45 find all but one response satisfactory and give the BCO 32-2 reason; lines 47–49 impose further record-review duties.",
+    "qualifications": "Lines 25 and 47–49 require later review or reporting to the 45th General Assembly; approval therefore did not end all supervisory review.",
+    "incorporated_decisions": "No decision is incorporated by reference. Attachment 1 is mentioned at line 27, but the operative ruling reproduces the material unsatisfactory response and grounds at lines 29–45."
+  },
+  "source_limits": "The source contains the operative SJC report and vote but not Attachment 1 in full; it does not assign a conventional merits disposition label.",
+  "benchmark_examples": [
+    "R01",
+    "A20"
+  ],
+  "scores": {
+    "concrete_dispute": 2,
+    "decision": 2,
+    "decisive_reason": 2,
+    "distinctive_value": 2,
+    "fidelity": 2,
+    "economy": 2
+  },
+  "score_reasons": {
+    "concrete_dispute": "Identifies the citation response and specific record-review deficiencies.",
+    "decision": "Preserves satisfactory and unsatisfactory responses, conditional approval, and continuing directives.",
+    "decisive_reason": "States the adopted BCO 32-2 and BCO 46-8 grounds.",
+    "distinctive_value": "Shows that citation compliance and approval of most responses did not eliminate exceptions or future review duties.",
+    "fidelity": "Separates Presbytery’s response from the SJC’s findings and directions.",
+    "economy": "Retains only facts needed to explain the mixed supervisory result and next steps."
+  },
+  "verification_notes": "Rechecked lines 17–49 for actor, mixed outcomes, grounds, and continuing relief. The final summary clarifies that the SJC rejected only one response, that the 2009 minutes were approved subject to a new exception, and that reporting obligations remained.",
+  "repair_needed": false,
+  "repair_notes": ""
+}

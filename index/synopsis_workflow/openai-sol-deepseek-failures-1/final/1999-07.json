@@ -1,0 +1,52 @@
+{
+  "case_id": "1999-07",
+  "title": "Jeffrey M. Black v. Eastern Carolina Presbytery",
+  "matter_type": "complaint",
+  "final_dispositions": [
+    "denied",
+    "administratively_out_of_order",
+    "not_sustained"
+  ],
+  "disposition_detail": "The SJC denied remand, ruled the newly raised procedural objection administratively out of order, and held that Presbytery did not err in treating the licentiate’s non-Calendar-Day view as no exception to the Westminster Standards.",
+  "first_summary": "Black challenged Presbytery’s handling of his complaint and its ruling that a licentiate’s non-24-hour creation-day view was not an exception to the Westminster Standards. The SJC denied remand, treated Presbytery’s failed motions as an effective denial, and found no constitutional requirement that Black be present. It also upheld Presbytery’s ruling because the Standards did not require every non-Calendar-Day view to be recorded as an exception.",
+  "summary": "Black challenged Presbytery’s handling of his complaint and its ruling that a licentiate’s non-24-hour creation-day view was not an exception to the Westminster Standards. The SJC denied remand because Presbytery had effectively adjudicated the complaint; the separate objection to proceeding without Black was not first filed below and was administratively out of order. It upheld Presbytery’s ruling that not every non-Calendar-Day view constitutes an exception. Because the record did not identify the licentiate’s precise view, the decision did not determine its acceptability or whether it could be taught.",
+  "sources": [
+    {
+      "path": "cases/ga29_2001__1999-07.md",
+      "sha256": "5d8497dd5e3ff8ce1ee03e41d8003590af3279ff97f449c2575366b7d8c15cf3",
+      "locator": "lines 232–250, 278–288 (printed pp. 101–100); lines 132–145 (printed pp. 104–103)",
+      "supports": "Issues, judgments, remand ruling, scope limitation, and reasoning concerning non-Calendar-Day views."
+    }
+  ],
+  "evidence_notes": {
+    "identity_and_adoption": "Title and SJC identity appear at lines 1–3; the panel’s operative judgments appear at lines 278–288.",
+    "dispute": "Lines 168–186 and 278–283 identify the complaint resolutions and the two issues reviewed.",
+    "outcomes_and_reasons": "Lines 242–250 treat Presbytery’s action as an effective denial; lines 198–228 reject remand and deem the unfiled procedural complaint administratively out of order; lines 284–288 uphold the non-exception ruling.",
+    "qualifications": "Lines 232–236 state that the licentiate’s exact view was unknown and that acceptability for office and teachability were not decided; lines 188–194 decline to adjudicate undefined ‘modern revisionism.’",
+    "incorporated_decisions": "No decision was incorporated by reference. Antioch Session is used only as an analogy at lines 250–250."
+  },
+  "source_limits": "The supplied file is page-reversed in places and includes unrelated Shive material beginning at line 335; that material was not used. The operative judgment and relevant reasoning are nevertheless available.",
+  "benchmark_examples": [
+    "C01",
+    "C20"
+  ],
+  "scores": {
+    "concrete_dispute": 2,
+    "decision": 2,
+    "decisive_reason": 2,
+    "distinctive_value": 2,
+    "fidelity": 2,
+    "economy": 2
+  },
+  "score_reasons": {
+    "concrete_dispute": "Identifies both the handling of the complaint and the creation-days exception ruling.",
+    "decision": "States the denied remand, administrative defect, and unsuccessful merits challenge.",
+    "decisive_reason": "Explains effective adjudication, failure to complain below, and the rejection of a categorical exception rule.",
+    "distinctive_value": "Preserves the distinction between every non-Calendar-Day view and the unidentified particular view.",
+    "fidelity": "Separates adopted rulings, lower-court actions, and matters expressly left undecided.",
+    "economy": "Retains only facts needed to explain the outcomes and limitations."
+  },
+  "verification_notes": "Rechecked the operative issues and judgments at lines 278–288. The final summary was corrected to distinguish the administratively out-of-order absence objection from the independently denied remand request and to clarify that the licentiate’s precise view, acceptability, and teachability were not decided.",
+  "repair_needed": false,
+  "repair_notes": ""
+}

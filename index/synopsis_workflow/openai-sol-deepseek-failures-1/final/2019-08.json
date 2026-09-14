@@ -1,0 +1,52 @@
+{
+  "case_id": "2019-08",
+  "title": "Ganzel v. Central Florida Presbytery",
+  "matter_type": "appeal",
+  "final_dispositions": [
+    "partially_sustained",
+    "sustained",
+    "reversed"
+  ],
+  "disposition_detail": "The SJC sustained the BCO 32-20 error as to Indictment Specifications 1, 2, and 4, but not ongoing Specification 3. It sustained the constitutional-process error, reversed the whole censure, declined to impose Presbytery’s requested harsher sentence, and concluded the matter.",
+  "first_summary": "A minister appealed his conviction and six-month suspension arising from allegations about his pastoral conduct. The SJC held that most charges were untimely under BCO 32-20 and that Presbytery’s disciplinary process was constitutionally flawed and prejudicial. It reversed the entire censure, declined Presbytery’s request for indefinite suspension, and concluded the matter.",
+  "summary": "A minister appealed a judgment finding him guilty on most charges and imposing six months’ suspension. The SJC held BCO 32-20 barred Specifications 1, 2, and 4 because Presbytery lacked extraordinary justification for prosecuting old allegations, but did not bar ongoing Specification 3. It separately found the entire process constitutionally flawed and prejudicial. The SJC reversed the whole censure, declined Presbytery’s requested harsher sentence, and concluded the matter. A concurrence disputed the majority’s BCO 32-20 interpretation while agreeing with the result.",
+  "sources": [
+    {
+      "path": "cases/ga48_2021__2019-08.md",
+      "sha256": "8d24748e9bfc143fca1554f98d30ab3e6effecdfc9af4cedf2d990aa4c57b40f",
+      "locator": "printed pp. 742–752, lines 169–411",
+      "supports": "Issues, judgments, adopted reasoning, relief, vote, and concurring qualification."
+    }
+  ],
+  "evidence_notes": {
+    "identity_and_adoption": "Case caption and appeal designation: lines 13–15. The SJC adopted the amended decision 21-0: lines 341–345.",
+    "dispute": "Ganzel appealed his conviction and censure; the issues challenged timeliness under BCO 32-20 and failures in required judicial process: lines 161–179.",
+    "outcomes_and_reasons": "The limitations issue was sustained for Specifications 1, 2, and 4 but not ongoing Specification 3: lines 229–269. Numerous procedural defects rendered the process flawed and prejudicial; the whole censure was reversed and the matter concluded: lines 273–339.",
+    "qualifications": "The SJC refused Presbytery’s request for a harsher sentence: lines 315–329. Donahoe concurred in the result but rejected parts of the majority’s BCO 32-20 reasoning: lines 349–411.",
+    "incorporated_decisions": "No decision was incorporated by reference. Troxell was cited and its pertinent result described as precedent: lines 194–202."
+  },
+  "source_limits": "The source supplies the full adopted decision and concurrence. It expressly reverses the whole censure but does not separately state that every underlying guilty finding was reversed or vacated.",
+  "benchmark_examples": [
+    "A01",
+    "A19"
+  ],
+  "scores": {
+    "concrete_dispute": 2,
+    "decision": 2,
+    "decisive_reason": 2,
+    "distinctive_value": 2,
+    "fidelity": 2,
+    "economy": 2
+  },
+  "score_reasons": {
+    "concrete_dispute": "Identifies the challenged disciplinary judgment, suspension, timeliness issue, and procedural defects.",
+    "decision": "Preserves the mixed limitations ruling, sustained process error, reversed censure, refused harsher sentence, and conclusion of the matter.",
+    "decisive_reason": "States both the absence of justification for delayed prosecution and the prejudicial constitutional defects.",
+    "distinctive_value": "Preserves the ongoing-offense exception and the concurrence’s interpretive disagreement.",
+    "fidelity": "Distinguishes the SJC’s ruling from Presbytery’s findings and requested relief.",
+    "economy": "Retains only details needed to explain the dispute, mixed ruling, relief, and qualification."
+  },
+  "verification_notes": "Rechecked lines 175–179, 267–269, and 327–339. The final summary clarifies that Specification 3 was not time-barred, that only the censure was expressly reversed, and that the requested harsher sentence was refused; it also identifies the concurrence’s limited disagreement.",
+  "repair_needed": false,
+  "repair_notes": ""
+}

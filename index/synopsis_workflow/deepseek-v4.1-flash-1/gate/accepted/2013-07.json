@@ -1,0 +1,50 @@
+{
+  "case_id": "2013-07",
+  "title": "Session of First Presbyterian Church North Port v. The Presbytery of Southwest Florida",
+  "matter_type": "complaint",
+  "final_dispositions": [
+    "sustained"
+  ],
+  "disposition_detail": "Judgments: Issue 1 (whether Presbytery erred on September 8, 2012, by remanding the matter after declaring the Original CM Complaint administratively out of order) answered Yes; Issue 2 (whether Presbytery erred by directing and instructing the Session under BCO 40-4 apart from BCO 40-5 and 40-6 due process) answered Yes. The Complaint is sustained. Presbytery's instruction or direction to the FPC Session to initiate and prosecute formal process against CM was declared null and void because Presbytery failed to follow BCO 40-5.",
+  "first_summary": "The SJC sustained the Session's complaint challenging Presbytery's handling of a member complaint. Presbytery wrongly remanded an untimely original complaint after declaring it out of order, and wrongly directed the Session to initiate formal process without following BCO 40-5. The complaint was sustained.",
+  "summary": "The SJC sustained the Session's complaint against Presbytery. Presbytery had ruled a member's original complaint administratively out of order as untimely but then remanded the matter to the Session; the SJC held that once out of order, no complaint remained to remand. It also held Presbytery could not direct or instruct the Session to initiate formal process without BCO 40-5's required citation step, so those directions were null and void. The member remained under the Session's jurisdiction; the civil trespass order was not ecclesiastical discipline and did not alter membership.",
+  "sources": [
+    {
+      "path": "cases/ga42_2014__2013-07.md",
+      "sha256": "4fe9390246a6f4ff94c0fd03d2d2c5685030465362ffb34f639196101a2e745b",
+      "locator": "lines 13–184 (printed pp. 566–573)",
+      "supports": "Full case text: caption, facts, issues, judgments, reasoning, and adoption vote."
+    }
+  ],
+  "evidence_notes": {
+    "identity_and_adoption": "Caption and source at lines 1–13; Summary of Facts by TE Steve Meyerhoff, issues/judgment/reasoning by TE Fred Greco and amended by the SJC, adopted 20 concurring, 1 recused, 3 absent (lines 180–184), source cases/ga42_2014__2013-07.md sha256 4fe9390246a6f4ff94c0fd03d2d2c5685030465362ffb34f639196101a2e745b; printed pp. 566–573.",
+    "dispute": "FPC Session challenged Presbytery's September 8, 2012 remand of an untimely member complaint and its actions directing or instructing the Session to initiate formal process against CM (lines 63–85, 91–93; printed pp. 568–570).",
+    "outcomes_and_reasons": "Issues 1 and 2 answered Yes; Complaint sustained (lines 95–99, 178). Reasons: the original complaint was untimely under BCO 43-2 and out of order, leaving nothing for Presbytery to remand (lines 135–161); BCO 40-5's first citation step was not followed before Presbytery supervised or directed the Session (lines 165–172); directions were null and void (line 178).",
+    "qualifications": "CM remained a member under the FPC Session's jurisdiction; the civil trespass order was not a judicial or ecclesiastical action and did not change her membership (lines 163, 174; printed pp. 572–573). No separate opinion text appears; only a concurrence/absence table is supplied (lines 182–184).",
+    "incorporated_decisions": "None incorporated. The reasoning cites BCO provisions and general SJC practice but supplies no incorporated case result (lines 103–134)."
+  },
+  "source_limits": "Full SJC opinion and adoption vote are supplied; no separate opinion texts or complete lower-court record are included, only the summarized facts. Party positions and lower-court actions are not treated as adopted reasons.",
+  "benchmark_examples": [
+    "C01: preserve both successful and refused procedural claims; here both issues succeeded but the procedural posture is similarly central.",
+    "C02: distinguish legitimate investigation or supervision from formal censure; here BCO 40-5 supervision could not skip the required citation step."
+  ],
+  "scores": {
+    "concrete_dispute": 2,
+    "decision": 2,
+    "decisive_reason": 2,
+    "distinctive_value": 2,
+    "fidelity": 2,
+    "economy": 2
+  },
+  "score_reasons": {
+    "concrete_dispute": "Identifies Presbytery's out-of-order ruling and remand, and its direction to the Session to initiate formal process.",
+    "decision": "States that both issues were answered Yes and that the complaint was sustained, with null-and-void relief.",
+    "decisive_reason": "Explains untimeliness under BCO 43-2 and failure to follow BCO 40-5's first citation step.",
+    "distinctive_value": "Preserves the rule that an out-of-order complaint leaves nothing to remand and that BCO 40-5 citation is a prerequisite to supervision.",
+    "fidelity": "Keeps the SJC's adopted judgment distinct from lower-court actions, party positions, and the vote table.",
+    "economy": "Retains only the material procedural history, adopted reasons, and relief."
+  },
+  "verification_notes": "Reread the operative Judgment and Reasoning: corrected the draft to state that the error was not Presbytery's finding of the CM complaint out of order but its remand after that ruling, and added that BCO 40-5's first citation step was absent. Checked that CM remained under the Session's jurisdiction and that the civil trespass order was not ecclesiastical discipline. Confirmed the adoption vote and that no separate opinions are supplied.",
+  "repair_needed": false,
+  "repair_notes": "No source or catalog defect identified."
+}

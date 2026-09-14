@@ -1,0 +1,49 @@
+{
+  "case_id": "1992-10",
+  "title": "Mr. & Mrs. Matthew Bernard vs. Ascension Presbytery",
+  "matter_type": "appeal",
+  "final_dispositions": [
+    "administratively_out_of_order"
+  ],
+  "disposition_detail": "The SJC ruled the direct appeal administratively out of order because Ascension Presbytery, as the next higher court, had not heard it. The propriety of the excommunication remained undecided.",
+  "first_summary": "The SJC dismissed the Bernards’ direct appeal from excommunication because they had bypassed Ascension Presbytery, the next higher court.",
+  "summary": "The Bernards appealed directly to the General Assembly from their excommunication by a Presbytery commission acting as the congregation’s Session. The SJC ruled the appeal administratively out of order because an appeal must first go to the next higher court—Ascension Presbytery—not to the court of original jurisdiction. It did not decide whether the excommunication was proper; that issue remained for Presbytery to hear.",
+  "sources": [
+    {
+      "path": "cases/ga21_1993__1992-10.md",
+      "sha256": "e2c77e5cc07a87731c8865c54f8568f70f16b9bcf94d051d0efdf859075f28d1",
+      "locator": "lines 14–39, 48–50; printed pp. 224–225",
+      "supports": "Case identity, excommunication and appeal, administrative out-of-order ruling, reason, unresolved merits, and adoption."
+    }
+  ],
+  "evidence_notes": {
+    "identity_and_adoption": "Case number and parties appear at lines 1 and 14; unanimous SJC approval and Assembly adoption appear at lines 39 and 48–50.",
+    "dispute": "Lines 18 and 24–37 identify the excommunication and direct appeal to the General Assembly.",
+    "outcomes_and_reasons": "Lines 22–37 rule the appeal administratively out of order because Ascension Presbytery was the next higher court and leave the excommunication’s propriety for determination.",
+    "qualifications": "The supplied text contains no merits ruling. A dissent is cross-referenced but not supplied (line 46).",
+    "incorporated_decisions": "None; no decision is incorporated by reference."
+  },
+  "source_limits": "The source provides only a factual summary and short disposition. The separately cross-referenced dissent is unavailable but is unnecessary to identify the adopted result.",
+  "benchmark_examples": [
+    "A20"
+  ],
+  "scores": {
+    "concrete_dispute": 2,
+    "decision": 2,
+    "decisive_reason": 2,
+    "distinctive_value": 2,
+    "fidelity": 2,
+    "economy": 2
+  },
+  "score_reasons": {
+    "concrete_dispute": "Identifies the excommunication and bypassed intermediate court.",
+    "decision": "States the administrative ruling and absence of a merits decision.",
+    "decisive_reason": "Explains that appeals must proceed first to the next higher court.",
+    "distinctive_value": "Preserves the distinction between a Presbytery commission acting as Session and Presbytery acting as the appellate court.",
+    "fidelity": "Separates the lower censure from the SJC’s procedural ruling and does not rely on the unavailable dissent.",
+    "economy": "Includes only facts needed to explain the procedural result and remaining issue."
+  },
+  "verification_notes": "Rechecked lines 22–37 and corrected the initial/catalog characterization of “dismissed” to the operative ruling “administratively out of order.” Also confirmed that the SJC did not decide the excommunication’s merits or expressly transfer the case.",
+  "repair_needed": true,
+  "repair_notes": "The source header labels the disposition “dismissed” at line 3, but the adopted operative text classifies the appeal as “administratively out of order” at lines 24–27."
+}

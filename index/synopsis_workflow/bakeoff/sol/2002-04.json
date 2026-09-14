@@ -1,0 +1,39 @@
+{
+  "case_id": "2002-04",
+  "title": "Judicial Reference from Evangel Presbytery for Adjudication",
+  "matter_type": "judicial_reference",
+  "dispositions": ["denied"],
+  "summary": "Evangel Presbytery asked the SJC to accept and adjudicate a judicial reference. The SJC did not accede to the request. The published report gives no reason for declining the reference and no judgment on the underlying matter.",
+  "sources": [
+    {
+      "path": "cases/ga31_2003__stub_2002-04.md",
+      "sha256": "2fbbe7b4b18ee09d490151d2ba5446eb0bc42a27f01782d1c2a9c3ef78db4672",
+      "locator": "lines 1-11, docket excerpt",
+      "supported_claims": "Identifies the judicial reference and records that the SJC did not accede to the request."
+    },
+    {
+      "path": "markdown/ga31_2003.md",
+      "sha256": "e682b0bcd7f8c734e5e77317e35709d094a4acb6ed2d01cf3641bc3e37684448",
+      "locator": "line 1552, SJC report at printed p. 93; line 11583, judicial-case index",
+      "supported_claims": "The full Minutes confirm the same final docket disposition and supply no explanatory opinion."
+    }
+  ],
+  "source_limits": "Only a docket-level final notice is published. It does not identify the underlying controversy or explain why the SJC declined the reference.",
+  "evidence_notes": [
+    "The source supports refusal to accept and act on the reference, not rejection of any underlying claim.",
+    "No later merits decision for this docket was located in the repository Minutes or case pages."
+  ],
+  "benchmark_examples": ["J02 Evangel", "J05 Eastern Canada"],
+  "scores": {"concrete_dispute": 1, "decision": 2, "decisive_reason": 2, "distinctive_value": 2, "fidelity": 2, "economy": 2},
+  "score_reasons": {
+    "concrete_dispute": "The source identifies the procedural request but not its underlying subject.",
+    "decision": "Accurately states that the SJC did not accede.",
+    "decisive_reason": "Correctly preserves that no reason was published.",
+    "distinctive_value": "Distinguishes refusal of the reference from a merits ruling.",
+    "fidelity": "Adds no unsupported facts or rationale.",
+    "economy": "Appropriately short for a sparse notice."
+  },
+  "verification_notes": "Separate source-checking pass by the same reviewer compared the stub with the full Minutes report and index; both support only the refusal and no merits explanation.",
+  "repair_needed": true,
+  "repair_notes": "The canonical title includes disposition and cross-reference text ('Not acceded to by the SJC, See 31-35, II, p. 93'). It should be cleaned to the source caption without changing the source-limited disposition."
+}

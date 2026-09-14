@@ -1,0 +1,62 @@
+{
+  "case_id": "2007-02",
+  "title": "TE Patrick Malone v. Metropolitan New York Presbytery",
+  "matter_type": "complaint",
+  "final_dispositions": [
+    "partially_sustained",
+    "vacated"
+  ],
+  "disposition_detail": "The complaint was sustained in part. The Presbytery’s judgment and censure were vacated without prejudice to further proceedings. The SJC upheld Presbytery’s ability to offer noncompulsory pastoral advice about evidence of repentance.",
+  "first_summary": "Malone challenged Presbytery’s approval of a commission’s judgment and indefinite suspension imposed without process. The SJC sustained the complaint and vacated the judgment and censure because the commission had authority only to investigate and Malone’s general acknowledgments did not establish a confession or intent to waive process under BCO 38-1. Presbytery could begin proper proceedings anew.",
+  "summary": "Malone challenged Presbytery’s approval of a commission’s judgment and indefinite suspension imposed without process. The SJC sustained the complaint in part and vacated the judgment and censure: the commission had authority only to investigate, and Malone’s general acknowledgments neither confessed specific charges nor showed intent to waive process under BCO 38-1. Presbytery could begin anew under proper procedures. The SJC rejected Malone’s claim that suggested steps evidencing repentance improperly bound him, treating them as noncompulsory pastoral advice.",
+  "sources": [
+    {
+      "path": "cases/ga36_2008__2007-02.md",
+      "sha256": "59fdea87a1388768e799c1b441a0b42cbfa86419ff302fbe3ea937a5db68c47e",
+      "locator": "lines 13–15, printed p. 99; lines 63–73, printed p. 102",
+      "supports": "Case identity, complaint posture, judgments, partial sustention, vacatur, and permission for further proceedings."
+    },
+    {
+      "path": "cases/ga36_2008__2007-02.md",
+      "sha256": "59fdea87a1388768e799c1b441a0b42cbfa86419ff302fbe3ea937a5db68c47e",
+      "locator": "lines 77–145, printed pp. 102–106",
+      "supports": "Commission’s limited investigative authority and insufficiency of the record for a case without process under BCO 38-1."
+    },
+    {
+      "path": "cases/ga36_2008__2007-02.md",
+      "sha256": "59fdea87a1388768e799c1b441a0b42cbfa86419ff302fbe3ea937a5db68c47e",
+      "locator": "lines 147–192, printed pp. 106–107",
+      "supports": "Rejection of the claim that suggested evidence of repentance improperly compelled Malone’s conduct."
+    }
+  ],
+  "evidence_notes": {
+    "identity_and_adoption": "The heading identifies SJC 2007-02 and the parties; the SJC issued the judgments and opinion. Lines 13–15, 63–73 (printed pp. 99, 102).",
+    "dispute": "Malone challenged a judgment and censure entered without process by a commission and approved by Presbytery. Lines 15, 43–51, 55–61 (printed pp. 99–102).",
+    "outcomes_and_reasons": "The complaint was sustained in part and discipline vacated because the commission lacked adjudicatory authority and the record did not satisfy BCO 38-1; the repentance-guidance claim failed. Lines 63–73, 77–145, 147–192 (printed pp. 102–107).",
+    "qualifications": "Vacatur was without prejudice; Presbytery could begin anew, and the investigative materials might support instituting process under BCO 31-2. Lines 69–73, 141–145 (printed pp. 102, 105–106).",
+    "incorporated_decisions": "No decision was incorporated by reference; cited BCO provisions supplied governing standards only."
+  },
+  "source_limits": "The synopsis relies solely on the supplied case text. No separate opinion or unavailable incorporated judgment appears.",
+  "benchmark_examples": [
+    "C02"
+  ],
+  "scores": {
+    "concrete_dispute": 2,
+    "decision": 2,
+    "decisive_reason": 2,
+    "distinctive_value": 2,
+    "fidelity": 2,
+    "economy": 2
+  },
+  "score_reasons": {
+    "concrete_dispute": "Identifies the unauthorized judgment, censure, and use of process without trial.",
+    "decision": "States partial sustention, vacatur, possible renewed proceedings, and the unsuccessful repentance-guidance claim.",
+    "decisive_reason": "Explains both the commission’s limited authority and failure to satisfy BCO 38-1.",
+    "distinctive_value": "Preserves the distinction between compulsory conduct and pastoral advice about evidence of repentance.",
+    "fidelity": "Separates the SJC’s holdings from Presbytery’s actions and Malone’s contentions.",
+    "economy": "Retains only facts needed to explain the mixed result and remedy."
+  },
+  "verification_notes": "Rechecked the three stated issues and operative judgment. Corrected the draft from “sustained” to “sustained in part” and added the rejected claim concerning suggested evidence of repentance.",
+  "repair_needed": true,
+  "repair_notes": "The source header at line 3 labels the disposition merely “sustained,” but the operative judgment at line 69 says “sustained in part” and vacates the judgment and censure."
+}

@@ -1,0 +1,50 @@
+{
+  "case_id": "2020-09",
+  "title": "Re Sean Ozbalt and Re Erin Barr v. Pacific Presbytery",
+  "matter_type": "complaint",
+  "final_dispositions": [
+    "sustained",
+    "annulled"
+  ],
+  "disposition_detail": "The SJC sustained Case 2020-09 and answered it by reference to the consolidated decision, which annulled the minister’s deposition. No specifications were separately denied. The SJC recommended treating the elapsed 17 months as definite suspension and closing the matter; it did not annul dissolution of the minister’s call.",
+  "first_summary": "Pacific Crossroads Church’s Session challenged Presbytery’s use of an adverse investigative report outside a minister’s agreed BCO 38-1 confession before deposing him. The SJC sustained the complaint by reference to its consolidated decision, holding that the additional material prejudiced the accused and violated BCO 38-1. It annulled the deposition and recommended treating the minister’s elapsed 17 months under censure as definite suspension and closing the matter.",
+  "summary": "Pacific Crossroads Church’s Session challenged Presbytery’s handling of a minister’s BCO 38-1 confession, particularly its hearing an adverse investigative report outside the agreed statement before imposing deposition. The SJC sustained Case 2020-09 by reference to its consolidated decision and annulled the deposition: BCO 38-1 permits censure to rest only on the mutually approved statement, not additional adverse material. It recommended treating the elapsed 17 months as definite suspension and closing the matter. The minister returned to good standing without call; dissolution of his call remained intact.",
+  "sources": [
+    {
+      "path": "cases/ga49_2022__2020-09.md",
+      "sha256": "b1dab4f156d35f7d3866c4f8babaa9910a92a4a3b13b63544806adb8f4f8a140",
+      "locator": "printed pp. 687–702, especially lines 13–23, 212–262, 292–307, and 351–371",
+      "supports": "Case identity, complaint, judgment, adopted reasoning, relief, qualifications, and adoption by the SJC."
+    }
+  ],
+  "evidence_notes": {
+    "identity_and_adoption": "Case 2020-09 and title appear at lines 13–15 (printed p. 687); unanimous SJC approval appears at lines 367–371 (p. 702).",
+    "dispute": "The Session’s allegations appear at lines 144–154 (pp. 693–694); the consolidated issue is stated at lines 212–215 (p. 696).",
+    "outcomes_and_reasons": "Sustaining and annulment appear at lines 216–228; the decisive BCO 38-1 violation at lines 232–241; incorporated disposition at lines 367–368 (pp. 696–702).",
+    "qualifications": "Recommended suspension, possible further proceedings, closure, restoration status, and preservation of call dissolution appear at lines 242–263 (p. 697).",
+    "incorporated_decisions": "Lines 367–368 state that Case 2020-09 was sustained and answered by reference to the supplied consolidated decision; its judgment and reasoning are available at lines 216–365."
+  },
+  "source_limits": "The source consolidates three complaints and does not separately resolve every specification in Case 2020-09; its result is expressly supplied by reference to the consolidated reasoning.",
+  "benchmark_examples": [
+    "C02"
+  ],
+  "scores": {
+    "concrete_dispute": 2,
+    "decision": 2,
+    "decisive_reason": 2,
+    "distinctive_value": 2,
+    "fidelity": 2,
+    "economy": 2
+  },
+  "score_reasons": {
+    "concrete_dispute": "Identifies the adverse report, confession procedure, and deposition.",
+    "decision": "States sustaining, annulment, recommendations, and relief left intact.",
+    "decisive_reason": "Explains that BCO 38-1 barred adverse material beyond the agreed statement.",
+    "distinctive_value": "Preserves the rule governing case-without-process evidence and the limited relief.",
+    "fidelity": "Distinguishes operative relief from recommendations and notes incorporation by reference.",
+    "economy": "Retains only facts necessary to explain the violation and remedy."
+  },
+  "verification_notes": "Rechecked the operative judgment and lines 367–368. The final summary clarifies that Case 2020-09 was answered by reference, that suspension and closure were recommendations, and that dissolution of the minister’s call was not annulled.",
+  "repair_needed": false,
+  "repair_notes": ""
+}

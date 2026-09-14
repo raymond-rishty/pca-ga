@@ -1,0 +1,50 @@
+{
+  "case_id": "2011-14",
+  "title": "Reese and Bech v. Philadelphia Presbytery",
+  "matter_type": "complaint",
+  "final_dispositions": [
+    "sustained",
+    "denied"
+  ],
+  "disposition_detail": "The SJC answered the stated issue Yes: Philadelphia Presbytery erred when it declared the complaint of RE Reese and TE Bech out of order, and the complaint is sustained. The SJC also concurred that the complainants' requested amends—removing TE Jason Hsu and requiring Presbytery to conform its practices—were not appropriate; it noted Hsu's installation cannot now be rescinded and identified four constitutional means of redress. No remand is stated.",
+  "first_summary": "Philadelphia Presbytery declared Reese and Bech's complaint out of order because some supporting reasons and requested amends allegedly conflicted with the BCO. The SJC sustained the complaint in part, holding that Presbytery misapplied Robert's Rules by rejecting the whole complaint merely because parts were objectionable; however, it agreed the requested amends were inappropriate and could not rescind TE Hsu's installation.",
+  "summary": "Philadelphia Presbytery declared Reese and Bech's complaint out of order because some supporting reasons and requested amends allegedly violated the BCO. The SJC sustained the complaint, holding Presbytery misapplied Robert's Rules: objectionable parts do not justify rejecting an entire complaint, and a court need not adopt requested amends. It also said pertinent questions about whether a call is for the good of the Church may be asked, but agreed the amends—including removing TE Hsu—were inappropriate and could not rescind his installation.",
+  "sources": [
+    {
+      "path": "cases/ga42_2014__2011-14.md",
+      "sha256": "ce5241de1a77028f22977034bc8ed53889a1f44b5a540e2c67878fe6cf3cf144",
+      "locator": "lines 1–211; adopted issue, judgment, and reasoning at lines 104–171; concurrence lines 175–200; dissent lines 202–211",
+      "supports": "Canonical case identity, SJC adoption, complaint disposition, decisive reasons, refused amends, relief discussion, and separate opinions."
+    }
+  ],
+  "evidence_notes": {
+    "identity_and_adoption": "Lines 1–5 identify Case 2011-14 as an SJC decision of the 42nd Assembly (2014). Lines 167–171 record panel adoption 3-0-0 and final SJC vote of 18 concurring, 1 dissenting, 5 absent.",
+    "dispute": "Lines 68–102 describe Reese and Bech's complaint against Presbytery's June 3, 2011 rulings and Presbytery's later ruling that their complaint was out of order. The stated issue at lines 104–106 asks whether Presbytery erred in declaring the complaint out of order.",
+    "outcomes_and_reasons": "Lines 108–155 state the judgment Yes and sustain the complaint. The adopted reasoning at lines 114–151 finds a misapplication of Robert's Rules, says objectionable parts of a complaint do not justify rejecting the whole, and says a court is not bound by requested amends. Lines 153–165 concur that the requested amends were not appropriate and list redress options.",
+    "qualifications": "Lines 155–165 note that TE Hsu's installation cannot now be rescinded. The concurring opinion at lines 175–200 and dissenting opinion at lines 202–211 are separate expressions and not the adopted judgment.",
+    "incorporated_decisions": "Lines 17–36 discuss SJC Cases 2008-1 and 2008-10 as background and quote their relevant deference and promise-to-follow-the-BCO holdings; the full decisions are not included in this source."
+  },
+  "source_limits": "The source contains the adopted case text, a concurring opinion, a dissenting opinion, and the vote table. It does not reproduce the full text of cited Cases 2008-1 and 2008-10, though their relevant holdings are quoted in the case text.",
+  "benchmark_examples": [
+    "C01: preserves mixed procedural/merits rulings and refused relief while stating the adopted disposition accurately."
+  ],
+  "scores": {
+    "concrete_dispute": 2,
+    "decision": 2,
+    "decisive_reason": 2,
+    "distinctive_value": 2,
+    "fidelity": 2,
+    "economy": 2
+  },
+  "score_reasons": {
+    "concrete_dispute": "Identifies the challenged action: Presbytery's ruling that the Reese/Bech complaint was out of order.",
+    "decision": "States the complaint sustained and separately preserves the SJC's refusal of the requested amends.",
+    "decisive_reason": "Explains the adopted reason: misapplication of Robert's Rules and improper rejection of the whole complaint because parts were objectionable.",
+    "distinctive_value": "Preserves the rule that a court need not adopt requested amends, that objectionable parts do not justify dismissing the whole complaint, and that installation cannot be rescinded.",
+    "fidelity": "Distinguishes adopted judgment and reasoning from the concurrence, dissent, and incorporated background cases.",
+    "economy": "Each retained detail explains the dispute, result, refused relief, or practical limit."
+  },
+  "verification_notes": "Corrected first_summary's 'sustained in part' to sustained: the SJC answered the single stated issue Yes and expressly sustained the complaint; the refusal of requested amends is issue-level detail, not a partial disposition. Rechecked lines 108–171 for the judgment, vote, and reasons, lines 153–165 for the refused amends and redress options, and lines 175–211 to keep the concurrence and dissent separate from the adopted ruling.",
+  "repair_needed": false,
+  "repair_notes": "No source or catalog defect identified."
+}

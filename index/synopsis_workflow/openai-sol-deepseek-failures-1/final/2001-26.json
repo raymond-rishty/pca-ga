@@ -1,0 +1,49 @@
+{
+  "case_id": "2001-26",
+  "title": "Complaint RE David Scott Price vs. Northern Illinois Presbytery",
+  "matter_type": "complaint",
+  "final_dispositions": [
+    "abandoned"
+  ],
+  "disposition_detail": "The operative Assembly record specifically states that case 01-26 was abandoned. No merits ruling or relief was published.",
+  "first_summary": "David Scott Price’s complaint against Northern Illinois Presbytery was withdrawn without a published merits opinion.",
+  "summary": "David Scott Price’s complaint against Northern Illinois Presbytery was abandoned. The surviving record does not identify the challenged action, explain the abandonment, or provide a merits ruling or relief. Although the source header labels the case “Withdrawn,” the operative Assembly record specifically lists 01-26 as abandoned.",
+  "sources": [
+    {
+      "path": "cases/ga30_2002__stub_2001-26.md",
+      "sha256": "d7cab8570c04b14811d319a96ee2873578371eb44b8f91f1f23377c1bea607e8",
+      "locator": "lines 1–5, 9",
+      "supports": "Case identity, court and Assembly metadata, absence of a merits opinion, and the operative abandonment notation."
+    }
+  ],
+  "evidence_notes": {
+    "identity_and_adoption": "The title identifies the parties; the header identifies the Standing Judicial Commission and 30th Assembly (2002), while the editorial note attributes disposition to the Assembly (lines 1–5).",
+    "dispute": "Only the existence of a complaint against Northern Illinois Presbytery is shown; the challenged action is not described (line 1).",
+    "outcomes_and_reasons": "The operative fragment says cases 01-26 and 01-27 were abandoned; no reason or merits ruling appears (lines 5, 9).",
+    "qualifications": "The header’s “Withdrawn” label conflicts with the operative notation that 01-26 was abandoned (lines 3, 9).",
+    "incorporated_decisions": "No incorporated decision is identified; no separate merits opinion was published (line 5)."
+  },
+  "source_limits": "The source is a sparse stub containing a mid-sentence Assembly excerpt. It does not disclose the complaint’s allegations, reasons for abandonment, or any merits analysis.",
+  "benchmark_examples": [
+    "C20"
+  ],
+  "scores": {
+    "concrete_dispute": 0,
+    "decision": 2,
+    "decisive_reason": 2,
+    "distinctive_value": 1,
+    "fidelity": 2,
+    "economy": 2
+  },
+  "score_reasons": {
+    "concrete_dispute": "The challenged conduct is absent from the source.",
+    "decision": "The operative abandonment is stated, with no merits disposition inferred.",
+    "decisive_reason": "The synopsis faithfully reports that no reason is supplied.",
+    "distinctive_value": "It preserves the distinction between abandonment and the conflicting withdrawal label.",
+    "fidelity": "It distinguishes operative text from header metadata and does not invent merits facts.",
+    "economy": "Every detail explains the limited record or disposition conflict."
+  },
+  "verification_notes": "Rechecked the header against the operative excerpt and corrected the first summary’s “withdrawn” characterization to “abandoned”; also confirmed that no challenged action, reason, merits ruling, or relief is supplied.",
+  "repair_needed": true,
+  "repair_notes": "The source header labels the disposition “Withdrawn,” but the operative Assembly excerpt expressly states that 01-26 was abandoned. The catalog/header should be corrected to “Abandoned.”"
+}

@@ -1,0 +1,51 @@
+{
+  "case_id": "2001-14",
+  "title": "Appeal of RE Moon K. Ham vs. Korean Capital Presbytery",
+  "matter_type": "appeal",
+  "final_dispositions": [
+    "sustained",
+    "reversed"
+  ],
+  "disposition_detail": "Appeal sustained; the SJC reversed Korean Capital Presbytery's and its Special Judicial Commission's actions adjudicating charges against Ham and imposing indefinite suspension from the sacraments. The ground was that original jurisdiction over a communicant member lay in his Session, not Presbytery or its commission. No remand, acquittal, or merits ruling was stated.",
+  "first_summary": "Ruling Elder Moon K. Ham appealed his excommunication to the SJC after Korean Capital Presbytery approved a Special Judicial Commission's guilty findings and indefinite suspension from the sacraments. The SJC sustained the appeal and reversed the Presbytery and Commission's actions, holding that the Session, not Presbytery or its commission, was the proper court of original jurisdiction. The decision did not acquit Ham or remand for further proceedings.",
+  "summary": "Ruling Elder Moon K. Ham appealed to the SJC after Korean Capital Presbytery approved a Special Judicial Commission's guilty findings for contumacy, church division/destruction, and a false statement, imposing indefinite suspension from the sacraments (called excommunication in the appeal). The SJC sustained the appeal and reversed Presbytery's and the Commission's actions. Because Ham was a church member, the Session, not Presbytery or its commission, was the proper court of original jurisdiction. The ruling did not remand, acquit, or address the merits.",
+  "sources": [
+    {
+      "path": "cases/ga30_2002__2001-14.md",
+      "sha256": "de7f06d7643009a9dd66acd221400bace54df7d3c72bb28885474e785058a20d",
+      "locator": "lines 1–75, especially lines 3, 14–15, 18–36, 40–54, 56–65, 67–71",
+      "supports": "Identifies the case, deciding body, facts, issue, judgment, reasoning, authorship/adoption, and roll-call result."
+    }
+  ],
+  "evidence_notes": {
+    "identity_and_adoption": "Case ID/title at lines 1, 14; SJC, 30th GA (2002), disposition 'sustained' at line 3. Issue and judgment adopted by a five-member panel; reasoning written by TE Jim Smith with concurrence by McGowan, McCabe, White, and Williamson (line 67); adopted 15 concurred, 1 dissented, 1 recused, 2 disqualified, 5 absent (line 71).",
+    "dispute": "Lines 18–28: KCP suspended the KPCW session and appointed a commission amid division; Ham participated in a non-quorum Sept. 7, 2000 session meeting that replaced trustees and in a civil-court trustee petition. Lines 24–40: accusations followed; the commission summoned Ham, he did not respond, and on Mar. 12, 2001 it found him guilty and imposed indefinite suspension from the sacraments, later approved by KCP on Apr. 2, 2001; Ham appealed (line 42).",
+    "outcomes_and_reasons": "Lines 48–54: the issue was whether KCP and/or its Jan. 8, 2001 Special Judicial Commission was the proper court to assume original jurisdiction; judgment: 'No,' original jurisdiction should be with the Session, and Presbytery's and the Commission's actions were reversed. Lines 58–65: reasoning that the Session is the court of original jurisdiction for communicant members, so KCP/Commission adjudication was contrary to constitutional standards. No merits ruling on the charges is given.",
+    "qualifications": "Lines 42–44: Ham's appeal called the censure 'excommunication'; the parties waived hearing and a five-man panel decided on Dec. 5, 2001. Lines 67–71: separate authorship and a roll-call dissent by Howard Donahoe, but no dissenting opinion text is supplied. Lines 54, 65: the reversal is jurisdictional; no remand, acquittal, or further relief is stated.",
+    "incorporated_decisions": "None. The civil-court petition and lower-court/court actions are referenced as facts, not incorporated decisions, and no earlier decision is adopted by reference."
+  },
+  "source_limits": "The supplied source is a compact General Assembly report containing the SJC's statement of facts, issue, judgment, reasoning, authorship note, and roll call. It does not include the parties' briefs, the full lower-court record, the commission record, the civil-court petition, or any dissenting opinion. The statement of facts was prepared by RE John White (line 67).",
+  "benchmark_examples": [
+    "A01 (2007-16): distinguish conviction, censure, and procedural relief; a reversal on a threshold ground does not itself equal acquittal.",
+    "A19 (2011-13): state procedural posture and what was not decided, preserving limits on the ruling."
+  ],
+  "scores": {
+    "concrete_dispute": 2,
+    "decision": 2,
+    "decisive_reason": 2,
+    "distinctive_value": 2,
+    "fidelity": 2,
+    "economy": 2
+  },
+  "score_reasons": {
+    "concrete_dispute": "The summary identifies the challenged KCP/Commission adjudication and censure of Ham.",
+    "decision": "It states the appeal was sustained and KCP/Commission actions were reversed, while noting no remand or acquittal.",
+    "decisive_reason": "It gives the adopted reason: the Session, not Presbytery or its commission, was the proper original-jurisdiction court for a member.",
+    "distinctive_value": "It preserves the jurisdictional rule and avoids treating reversal as a merits acquittal.",
+    "fidelity": "It distinguishes source facts, the appeal's 'excommunication' wording, the SJC's judgment, adopted reasoning, and the roll-call dissent.",
+    "economy": "It includes only facts, issue, result, and limits needed to understand the ruling."
+  },
+  "verification_notes": "Rechecked lines 1–75. Corrected first_summary's use of 'excommunication' to identify the approved censure as indefinite suspension from the sacraments, while noting the appeal's own wording. Corrected any implication of merits review or acquittal by tying the reversal solely to original jurisdiction in the Session. Confirmed the operative result was appeal sustained and KCP/Commission actions reversed, not remanded. Rechecked the authorship/adoption note and roll call, including the one dissent without an opinion, and confirmed no incorporated decision is supplied.",
+  "repair_needed": false,
+  "repair_notes": "No source or catalog defect identified."
+}

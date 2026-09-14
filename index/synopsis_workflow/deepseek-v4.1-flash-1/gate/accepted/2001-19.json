@@ -1,0 +1,51 @@
+{
+  "case_id": "2001-19",
+  "title": "2001-19 — Appeal TE Sung Keon Kim vs. Korean Capital Presbytery",
+  "matter_type": "appeal",
+  "final_dispositions": [
+    "sustained",
+    "remanded"
+  ],
+  "disposition_detail": "The SJC sustained the appeal from the Judicial Commission’s finding of guilt and deposition, holding that BCO 32 and 34 procedures were not followed, and remanded to Presbytery for a new trial. It did not pass on the adequacy of the citations or comment on the merits.",
+  "first_summary": "A minister appealed his deposition after a Korean Capital Presbytery commission found him guilty of participating in an unconstitutional presbytery meeting and of contumacy. The SJC sustained the appeal, reversed the deposition, and remanded for a new trial because the commission had not followed BCO procedures. It did not reach the merits.",
+  "summary": "On appeal from a minister’s deposition in a conflicted Korean Capital Presbytery church, the SJC asked whether the commission followed BCO procedures in instituting and conducting judicial process. It sustained the appeal, holding that no indictment appears to have been served and the record lacked minutes showing a trial, contrary to BCO 32-3’s writing, indictment, and service requirements. The SJC remanded to Presbytery for a new trial under BCO 32 and 34. It expressly did not rule on the adequacy of the citations or the merits.",
+  "sources": [
+    {
+      "path": "cases/ga30_2002__2001-19.md",
+      "sha256": "4f2a5e9c9e808f0db521100d34d445a8b9ef439f49eb26a03d86fa480e2c2cfc",
+      "locator": "lines 1–5, 48–54, 58–76, 84",
+      "supports": "Canonical identity, issue, judgment, adopted reasoning, qualifications, and roll-call vote."
+    }
+  ],
+  "evidence_notes": {
+    "identity_and_adoption": "Case ID and title at line 1; court, assembly, and disposition at line 3; source citation at line 5; adoption vote at line 84 (18 concurred, 0 dissented, 1 recused, 5 absent).",
+    "dispute": "Lines 18–44: TE Kim was called as assistant pastor, conflict divided KPCW, a commission handled petitions and acted judicially, charges were filed over participation in a special meeting call, and the commission found guilt and contumacy, deposing him. Issue at line 50: whether the Judicial Commission followed BCO procedures in instituting and conducting judicial process.",
+    "outcomes_and_reasons": "Lines 52–54: judgment “No” and remand to Presbytery for a new trial under BCO 32, 34. Lines 58–72: no indictment was served, the record lacked minutes, and BCO 32-3’s indictment-and-witness-service requirement made remand necessary. Lines 74–76: no ruling on citation adequacy and no comment on the merits.",
+    "qualifications": "The SJC expressly reserved the citation-adequacy question (line 74) and did not review the merits (line 76). The Record left unclear whether an indictment was prepared or a prosecutor formally appointed (lines 58, 72). Opinion by RE Grant McCabe with concurrences; no dissent, one recused, five absent (lines 78–84).",
+    "incorporated_decisions": "None; no incorporated decision by reference appears. The SJC’s own judgment and reasoning control (lines 52–76)."
+  },
+  "source_limits": "Single SJC report. It does not include the underlying record, indictment, minutes, full BCO text, or lower-court filings; charge details and procedural omissions are known only through the SJC’s summary and opinion.",
+  "benchmark_examples": [
+    "A01: separate conviction, censure, dissolution, and suspension when stating outcomes.",
+    "A03: distinguish different remedies for separate specifications in one appeal."
+  ],
+  "scores": {
+    "concrete_dispute": 2,
+    "decision": 2,
+    "decisive_reason": 2,
+    "distinctive_value": 2,
+    "fidelity": 2,
+    "economy": 2
+  },
+  "score_reasons": {
+    "concrete_dispute": "Identifies the procedural challenge to the Judicial Commission’s institution and conduct of process against the appellant.",
+    "decision": "States that the appeal was sustained and remanded for a new trial, while noting the refusal to decide citation adequacy or the merits.",
+    "decisive_reason": "Explains the adopted basis: no served indictment and missing record minutes, contrary to BCO 32-3.",
+    "distinctive_value": "Preserves the procedural-error-only remand and the express limits on the ruling.",
+    "fidelity": "Keeps the SJC judgment and reasoning distinct from the lower-court guilt finding and deposition; it does not claim an express reversal or vacatur.",
+    "economy": "Uses only the facts needed to explain the defect, the result, and the decision’s limits."
+  },
+  "verification_notes": "First summary said the SJC “reversed the deposition”; corrected because the operative judgment sustains the procedural appeal and remands for a new trial without an express reversal or vacatur (lines 52–54). Rechecked the header disposition (line 3), the BCO 32-3 reasoning (lines 58–72), the citations/merits reservations (lines 74–76), and the concurrence/vote (lines 78–84).",
+  "repair_needed": false,
+  "repair_notes": "No source or catalog defect identified; the source supplies the adopted judgment, reasoning, qualifications, and vote."
+}

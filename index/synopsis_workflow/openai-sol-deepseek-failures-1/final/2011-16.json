@@ -1,0 +1,50 @@
+{
+  "case_id": "2011-16",
+  "title": "Steven Hahn v. Philadelphia Metro West Presbytery",
+  "matter_type": "complaint",
+  "final_dispositions": [
+    "denied"
+  ],
+  "disposition_detail": "Case 2011-16, a duplicate of 2011-15, was denied. The SJC upheld Presbytery’s refusal to institute process against Lisa Ridenour, RE Glen Ridenour, and TE Eric Huber.",
+  "first_summary": "Hahn challenged Presbytery’s refusal to appoint a prosecutor and institute process against three people he had accused. The SJC denied the complaint because Presbytery found BCO 31-8 applicable to Hahn’s accusations and found insufficient evidence of a strong presumption of guilt. The record showed no clear error warranting reversal of those judgments.",
+  "summary": "Hahn challenged Presbytery’s refusal to appoint a prosecutor and institute process against Lisa Ridenour, RE Glen Ridenour, and TE Eric Huber. The SJC denied the complaint because Presbytery found BCO 31-8 applicable to Hahn’s accusations and found insufficient evidence of a strong presumption of guilt; the record showed no clear error. A separate concurrence agreed with the result but cautioned against implying that filing charges generally compels process, emphasizing a church court’s broader discretion to investigate and decline prosecution.",
+  "sources": [
+    {
+      "path": "cases/ga42_2014__2011-11_2011-12_2011-15_2011-16.md",
+      "sha256": "74f7f03e22f318e4bea66f0d85580a0e6200b5315ecbe4341d3d2cd55aed3fe5",
+      "locator": "lines 13–17, 228–261 (printed pp. 500, 515–516); lines 269–299 (printed p. 517)",
+      "supports": "Identity of 2011-16 as a duplicate of 2011-15; challenged refusal to institute process; denial and adopted reasons; adoption vote; separate concurrence’s qualification."
+    }
+  ],
+  "evidence_notes": {
+    "identity_and_adoption": "Lines 13–17 identify 2011-16 as identical to 2011-15; lines 261–265 record adoption by an 18-0 vote.",
+    "dispute": "Lines 228–242 (printed pp. 515–516) identify the complaint against Presbytery’s refusal to institute process against three accused persons.",
+    "outcomes_and_reasons": "Lines 232–257 give the negative judgment and rely on BCO 31-8, insufficient evidence of a strong presumption of guilt, and absence of clear error.",
+    "qualifications": "Lines 269–299 identify a separate concurrence agreeing with the judgment while disputing the majority’s broad description of BCO 32-2.",
+    "incorporated_decisions": "The source expressly makes 2011-16 a duplicate of 2011-15 (lines 13–17), whose complete judgment and reasoning appear at lines 228–257."
+  },
+  "source_limits": "The operative decision for 2011-16 appears through its express incorporation of 2011-15. The supplied text truncates the concurrence’s final sentence, but preserves its material qualification and does not impair the adopted judgment.",
+  "benchmark_examples": [
+    "C01",
+    "C20"
+  ],
+  "scores": {
+    "concrete_dispute": 2,
+    "decision": 2,
+    "decisive_reason": 2,
+    "distinctive_value": 2,
+    "fidelity": 2,
+    "economy": 2
+  },
+  "score_reasons": {
+    "concrete_dispute": "Identifies the refusal to institute process and the persons accused.",
+    "decision": "States that the complaint was denied and the refusal upheld.",
+    "decisive_reason": "States BCO 31-8, insufficient evidence, and no clear error.",
+    "distinctive_value": "Preserves the concurrence’s caution about courts’ discretion without treating it as adopted reasoning.",
+    "fidelity": "Distinguishes the adopted decision from the separate concurrence and lower-court findings.",
+    "economy": "Retains only facts necessary to explain the dispute, result, and qualification."
+  },
+  "verification_notes": "Rechecked that 2011-16 is expressly a duplicate of 2011-15, not a separate appeal; confirmed the sole operative disposition was denial. The final summary clarifies that the broader view of discretion came from a separate concurrence, while the adopted decision rested on BCO 31-8, evidentiary insufficiency, and deferential clear-error review.",
+  "repair_needed": false,
+  "repair_notes": ""
+}

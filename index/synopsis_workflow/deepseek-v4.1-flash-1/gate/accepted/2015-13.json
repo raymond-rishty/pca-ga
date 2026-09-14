@@ -1,0 +1,51 @@
+{
+  "case_id": "2015-13",
+  "title": "Barnes v. Heartland Presbytery",
+  "matter_type": "complaint",
+  "final_dispositions": [
+    "sustained",
+    "remanded"
+  ],
+  "disposition_detail": "Complaint sustained; the SJC held Heartland Presbytery clearly erred in its August 8, 2015 action granting an exception to TE Geoff Smith's WCF 19 differences because it failed to develop a sufficient record, and remanded for action consistent with the decision. The SJC did not rule on whether the exception judgment was substantively correct.",
+  "first_summary": "The SJC sustained the complaint, reversed Heartland Presbytery's grant of an exception to a transferring OPC teaching elder's WCF 19 differences, and remanded for further proceedings because the presbytery failed to consider critical information. Four commissioners dissented.",
+  "summary": "Heartland Presbytery granted a transferring OPC teaching elder an exception to WCF 19, judging his stated differences 'more than semantic but not out of accord with any fundamental.' The SJC sustained a complaint not against the merits of that judgment but against the sufficiency of the record supporting it. It held Presbytery clearly erred by failing to develop a sufficient record: the presbyters as a whole did not receive OPCUS's adverse actions, its teaching restriction, or the elder's longer paper. Remanded for those materials and release documentation to be included in the minutes. A concurrence addressed deference; four dissenters found no clear error.",
+  "sources": [
+    {
+      "path": "cases/ga45_2017__2015-13.md",
+      "sha256": "da95885ed8c9568e53ea23f01bf205988b22e645a97b8caadd641fcbe05f7d43",
+      "locator": "lines 1-357; esp. lines 13-15, 67-75, 79-85, 123-145, 199-207, 209-269, 273-355",
+      "supports": "Identity, issue, judgment, reasoning, concurrence, dissent, and vote."
+    }
+  ],
+  "evidence_notes": {
+    "identity_and_adoption": "Source lines 1-15 identify case 2015-13, TE Andrew Barnes v. Heartland Presbytery, SJC decision on complaint dated Oct. 20, 2016; lines 205-207 record adoption, as amended by the panel, by 18 concur, 4 dissent, 2 absent.",
+    "dispute": "Issue at lines 67-69: whether Heartland clearly erred on Aug. 8, 2015 by granting an exception to TE Geoff Smith's WCF 19 differences without considering critical evidence or developing a sufficient record. Fact chronology lines 19-65; complaint carried to GA line 49.",
+    "outcomes_and_reasons": "Judgment lines 73-75: yes, remanded. Reasoning lines 79-85, 123-145, 153-203: clear error under BCO 39-3(3); record lacked evidence the Presbytery as a whole received key information, including OPCUS's adverse declaration, its teaching restriction, and TE Smith's longer paper; only minutes are official, and speculation is insufficient. Concurrence lines 209-269; dissent lines 273-355.",
+    "qualifications": "Complainant did not challenge the correctness of Presbytery's judgment (line 79); the remedy is inclusion of materials, not reversal of the exception. If Presbytery already received attestation and received TE Smith, that action cannot be undone; further action could come only through a BCO 31-2 investigation or charges (line 203).",
+    "incorporated_decisions": "References BCO 21-4(e)-(f), 39-3(3)-(4), and 40-2; cites case 2014-01 for analysis of unfamiliar stated differences (lines 189-195, 217-269); no incorporated decision supplies the SJC's result. Concurring and dissenting opinions are separate, not adopted majority reasoning."
+  },
+  "source_limits": "Single source is the SJC decision and appended opinions; no full record, briefs, lower-court minutes, or OPCUS documents are supplied. The dissent's factual characterizations are noted as separate opinion, not adopted findings. The decision's references to OPCUS actions rest on the quoted record summarized in the opinion.",
+  "benchmark_examples": [
+    "C01 (complaint sustained in part; preserve successful and unsuccessful procedural claims and remand relief).",
+    "C02 (separate legitimate investigation from unauthorized censure; analogous to distinguishing procedural record failure from substantive judgment)."
+  ],
+  "scores": {
+    "concrete_dispute": 2,
+    "decision": 2,
+    "decisive_reason": 2,
+    "distinctive_value": 2,
+    "fidelity": 2,
+    "economy": 2
+  },
+  "score_reasons": {
+    "concrete_dispute": "Identifies the challenged action: Presbytery's Aug. 8, 2015 exception judgment and alleged failure to develop a sufficient record.",
+    "decision": "States sustained and remanded, and notes the absence of a merits reversal.",
+    "decisive_reason": "States the clear-error holding and the key missing information.",
+    "distinctive_value": "Preserves the distinction between substantive exception review and sufficiency of the record, the remand instructions, and the limitation on further action.",
+    "fidelity": "Keeps majority, concurrence, dissent, and procedural history distinct and avoids treating dissent facts as adopted.",
+    "economy": "Concise; details serve the dispute, disposition, and governing rule."
+  },
+  "verification_notes": "Rechecked source: corrected first_summary's 'reversed' to sustained/remanded, because the SJC did not reverse the substance of the exception judgment; confirmed operative judgment at lines 73-75, adoption vote at 205-207, issue at 67-69, remedy and limitations at 199-203, and separate concurrence/dissent at 209-269 and 273-355. Confirmed no incorporated decision supplies the result.",
+  "repair_needed": false,
+  "repair_notes": "None."
+}

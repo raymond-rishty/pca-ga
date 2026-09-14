@@ -1,0 +1,51 @@
+{
+  "case_id": "1983-02",
+  "title": "RE Val H. Barleman et al. v. Presbytery of Ascension",
+  "matter_type": "complaint",
+  "final_dispositions": [
+    "sustained",
+    "annulled"
+  ],
+  "disposition_detail": "Overall complaint sustained; Presbytery's Sept. 11, 1982 action sustaining the ordination trials was annulled. Issue-level: A (Lord's Supper church-membership exception) sustained 7-4-0; B (refusal to affirm denial of baptism to non-member) sustained 6-4-1; C (Sabbath recreation/worship exceptions) not sustained 1-9-1; D (immersion) not sustained 2-8-1; E (women deacons) sustained 9-2-0, after an initial 4-6-1 vote not to sustain. Recommendations adopted: pastoral care, instruction in PCA standards, a five-member pastoral committee, correction of the trial's constitutional defects, and possible orderly discipline. Annulment did not annul the ordination or remove Lutjens from the roll.",
+  "first_summary": "Presbytery sustained ordination trials for a candidate who held exceptions to PCA standards. The General Assembly sustained a complaint and annulled the Presbytery's action, finding several exceptions contrary to the BCO while rejecting others. It ordered correction and pastoral follow-up, but did not annul the ordination itself.",
+  "summary": "The General Assembly sustained a complaint against Ascension Presbytery for sustaining a candidate's ordination trials despite exceptions to PCA constitutional standards. The Commission upheld specifications that his Lord's Supper and baptism views denied required visible-church membership and that his women-deacons view conflicted with the BCO; it rejected specifications on Sabbath recreation and immersion. The Assembly annulled the Presbytery's sustaining action, but not the ordination itself, so the candidate remained on the roll. It directed correction of the trial and pastoral instruction, with possible discipline if his views persisted.",
+  "sources": [
+    {
+      "path": "cases/ga11_1983__case2.md",
+      "sha256": "676c25616db98f69d93c1fe40b0b91ff68813e0ec1e3bfcbacfc54e9a6ae80cd",
+      "locator": "lines 1-13, 75-111, 157-173; printed pp. 139-143",
+      "supports": "Case identity, complaint, adjudication, judgments, recommendations, and response to protest."
+    }
+  ],
+  "evidence_notes": {
+    "identity_and_adoption": "Case 2, 11th GA (1983), Committee on Judicial Business report; complaint of Val H. Barleman et al. against Presbytery of Ascension, presented by TE Timothy D. Rott. Source lines 1-13 (printed p. 139). Adjudication and judgment adopted at lines 75-93; recommendations adopted at lines 97-111.",
+    "dispute": "Complainants challenged Presbytery's Sept. 11, 1982 action sustaining ordination trials of Mr. Kurt Lutjens despite his exceptions to the Confession/BCO on Lord's Supper admission, baptism/church membership, Sabbath, immersion, and women deacons. Source lines 15-71 (printed pp. 139-140).",
+    "outcomes_and_reasons": "The Commission sustained specifications A, B, and E (Lord's Supper church-membership exception 7-4-0; refusal to deny baptism to non-member 6-4-1; women deacons 9-2-0 after initial 4-6-1 rejection) and did not sustain C and D (Sabbath 1-9-1; immersion 2-8-1). The Assembly sustained the complaint and annulled the Presbytery's action sustaining trials, but not the ordination itself; it adopted recommendations for pastoral care, instruction, a pastoral committee, correction of trial, and possible discipline. Source lines 79-111, 169-171 (printed pp. 140-143).",
+    "qualifications": "Judgment expressly states annulment does not annul Presbytery's act of ordination or remove Lutjens from the roll. A protest and concurrences were received, and the chairman responded; the response notes an 8-3 vote to sustain the complaint and the Commission's changed vote on women deacons. Source lines 93, 113-173 (printed pp. 141-143). Separate protest is not adopted reasoning.",
+    "incorporated_decisions": "None. No incorporated decision supplied; the source contains the adopted adjudication, recommendations, protest, and response, not a separate lower-court record."
+  },
+  "source_limits": "Source is a GA extract containing the adopted adjudication, recommendations, protest, and response. It does not include the full ordination trial record, exhibits, or the Commission's complete deliberation transcript; issue vote margins are only those printed.",
+  "benchmark_examples": [
+    "C01",
+    "C02"
+  ],
+  "scores": {
+    "concrete_dispute": 2,
+    "decision": 2,
+    "decisive_reason": 2,
+    "distinctive_value": 2,
+    "fidelity": 2,
+    "economy": 2
+  },
+  "score_reasons": {
+    "concrete_dispute": "Identifies the challenged Presbytery action and the specific constitutional exceptions at issue.",
+    "decision": "States overall complaint sustained and annulment, plus every material issue-level success and failure.",
+    "decisive_reason": "Explains adopted reasons for sustaining A/B/E and rejecting C/D.",
+    "distinctive_value": "Preserves the limited effect of annulment and the mixed specification outcomes.",
+    "fidelity": "Distinguishes complaint, adopted adjudication, recommendations, and separate protest/response.",
+    "economy": "Concise while retaining the facts, mixed results, and remedy needed to assess the case."
+  },
+  "verification_notes": "Rechecked the operative judgment and adopted recommendations. Corrected first_summary to include issue-level mixed results and the limited effect of annulment; confirmed C and D were not sustained and that the protest/response is separate from adopted reasoning. Rechecked that the annulment did not remove Lutjens from the roll and that the response notes an 8-3 vote to sustain the complaint.",
+  "repair_needed": false,
+  "repair_notes": "No repair needed."
+}

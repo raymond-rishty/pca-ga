@@ -1,0 +1,49 @@
+{
+  "case_id": "2005-10",
+  "title": "Memorial of Southern Florida Presbytery",
+  "matter_type": "other",
+  "final_dispositions": [
+    "out_of_order"
+  ],
+  "disposition_detail": "The Standing Judicial Commission found the memorial out of order. The published record does not identify an administrative or judicial subtype, give reasons, or state further relief.",
+  "first_summary": "The SJC found Southern Florida Presbytery’s memorial out of order. No separate merits opinion was published.",
+  "summary": "Southern Florida Presbytery submitted a memorial, but the published record does not identify the challenged action or requested relief. The SJC found the case out of order. No separate merits opinion or reason was published, so the record supports no merits holding or further relief.",
+  "sources": [
+    {
+      "path": "cases/ga34_2006__stub_2005-10.md",
+      "sha256": "ec278f5b8684029a67d2e41b121bbcbde02fa1318a49d17c3567323ce84c3071",
+      "locator": "lines 1–7, 11–13",
+      "supports": "Case identity, SJC and Assembly metadata, out-of-order disposition, and absence of a separate merits opinion."
+    }
+  ],
+  "evidence_notes": {
+    "identity_and_adoption": "Lines 1–3 identify Case 2005-10, the memorial, the SJC, and the 34th Assembly; lines 11–13 place it among judicial cases.",
+    "dispute": "Lines 1 and 13 call the filing a memorial but do not disclose its subject, challenged action, or requested relief.",
+    "outcomes_and_reasons": "Line 13 states that Case 2005-10 was found out of order; line 7 confirms that no separate merits opinion was published.",
+    "qualifications": "The source does not classify the ruling as administratively or judicially out of order and supplies no merits reasoning.",
+    "incorporated_decisions": "No incorporated decision is identified."
+  },
+  "source_limits": "This is a sparse status record. Because it does not expressly invoke BCO 40-5, the memorial is classified as other rather than bco_40_5_matter.",
+  "benchmark_examples": [
+    "B03"
+  ],
+  "scores": {
+    "concrete_dispute": 0,
+    "decision": 2,
+    "decisive_reason": 2,
+    "distinctive_value": 1,
+    "fidelity": 2,
+    "economy": 2
+  },
+  "score_reasons": {
+    "concrete_dispute": "The source does not reveal the memorial’s substantive dispute.",
+    "decision": "The out-of-order disposition is stated without adding an unsupported subtype.",
+    "decisive_reason": "The synopsis accurately states that no reason was published.",
+    "distinctive_value": "It preserves the important limit that the record establishes only a procedural disposition, not a merits holding.",
+    "fidelity": "It distinguishes the recorded disposition from unavailable merits reasoning and relief.",
+    "economy": "Every detail explains either the disposition or the record’s limitations."
+  },
+  "verification_notes": "Rechecked line 13 for the exact case-specific disposition and line 7 for the absence of a merits opinion. The final summary adds that the challenged action and relief are unidentified and avoids treating the ruling as a merits decision or assigning an unsupported out-of-order subtype.",
+  "repair_needed": false,
+  "repair_notes": "The record is sparse but internally sufficient to report the status disposition; no source or catalog defect is evident."
+}

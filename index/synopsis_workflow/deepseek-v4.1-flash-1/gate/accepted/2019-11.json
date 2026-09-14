@@ -1,0 +1,62 @@
+{
+  "case_id": "2019-11",
+  "title": "Complaint of Dan and Angelia Crouse v. Northwest Georgia Presbytery",
+  "matter_type": "complaint",
+  "final_dispositions": [
+    "denied"
+  ],
+  "disposition_detail": "The SJC denied the complaint. Its judgment answered 'No' to whether Northwest Georgia Presbytery erred by adopting its Judicial Commission's judgment that the Session had not erred in finding the complainant ineligible for re-election to the Diaconate. The majority rejected the de facto-deposition and formal-charge theories, found no clear error or unconstitutional action, and declined to attribute one elder's questionable rationale to the Session as a whole. The Carrell/Nusbaum dissent would have applied BCO 39-3.4 and sustained the complaint.",
+  "first_summary": "Dan and Angelia Crouse complained that Northwest Georgia Presbytery wrongly adopted a judicial commission judgment sustaining the Session's refusal to advance Deacon Crouse's nomination for re-election. The SJC affirmed the Presbytery, deferring under BCO 39-3(3) to the Session's discretionary eligibility judgment and finding no clear error. The Court said one elder's questionable retaliation rationale could not be attributed to the Session. A dissent would have applied BCO 39-3.4 and sustained the complaint.",
+  "summary": "A complaint challenging a session's refusal to advance an ordained deacon's nomination for re-election to the diaconate was denied by the SJC. Northwest Georgia Presbytery had adopted its judicial commission's judgment that the session did not err; applying BCO 39-3(3)'s deference to discretionary judgments, the SJC found no clear error, held formal charges were unnecessary and re-election was not guaranteed, and refused to attribute one elder's questionable retaliation rationale to the session. The majority encouraged prompt communication of reasons. A dissent would apply BCO 39-3.4 and sustain.",
+  "sources": [
+    {
+      "path": "cases/ga48_2021__2019-11.md",
+      "sha256": "98fe3ed0d33a6fe11bfb87bdf896e6c9620d5fd2d7679b26b6178f5dd8d8f990",
+      "locator": "lines 13–35, 89–91 (printed pp. 787–792)",
+      "supports": "Identity, procedural vehicle, issue, judgment ('No'), adopting vote (18-2-9), and denial."
+    },
+    {
+      "path": "cases/ga48_2021__2019-11.md",
+      "sha256": "98fe3ed0d33a6fe11bfb87bdf896e6c9620d5fd2d7679b26b6178f5dd8d8f990",
+      "locator": "lines 39–88 (printed pp. 789–792)",
+      "supports": "Adopted reasoning: BCO 39-3(3) deference, no clear error, no required formal charges, no guaranteed re-election, no de facto deposition, attribution limits, and hortatory communication suggestion."
+    },
+    {
+      "path": "cases/ga48_2021__2019-11.md",
+      "sha256": "98fe3ed0d33a6fe11bfb87bdf896e6c9620d5fd2d7679b26b6178f5dd8d8f990",
+      "locator": "lines 95–158 (printed pp. 793–796)",
+      "supports": "Separate dissent only: BCO 39-3.4, extra-Biblical standards, inadequate examination, and proposed sustainment."
+    }
+  ],
+  "evidence_notes": {
+    "identity_and_adoption": "Case 2019-11, Complaint of Dan and Angelia Crouse v. Northwest Georgia Presbytery; SJC decision on complaint dated July 21, 2020, adopted by full SJC 18-2-9 (lines 13, 89–91; pp. 787, 792).",
+    "dispute": "Crouse, an ordained deacon, was nominated for re-election; the Session declined to advance his nomination; after adverse Session and Presbytery rulings, he carried his complaint to the General Assembly. Issue: whether Presbytery erred in adopting its Judicial Commission's judgment that the Session had not erred (lines 17–29; pp. 787–789).",
+    "outcomes_and_reasons": "SJC answered No and denied the complaint. Adopted reason: BCO 39-3(3) deference to discretionary judgments; no clear error or unconstitutional action; no formal charges required; no guaranteed re-election; no de facto deposition; one elder's questionable rationale not attributable to the Session (lines 33–88; pp. 789–792).",
+    "qualifications": "Majority noted the Record lacked formal Session reasons and a hearing transcript, and its communication suggestion was hortatory ('fairness and equity suggest'). The Carrell/Nusbaum dissent is separate and not adopted; it would apply BCO 39-3.4 and sustain (lines 70–87, 95–158; pp. 791–796).",
+    "incorporated_decisions": "Citations to 2019-03, Crouse v. NWGP (complaint prevailed/sustained), and 2019-07, Fozard v. Northwest Texas Presbytery (deference despite improper supporting arguments); full texts are not supplied in this source (lines 70, 81–83, 150; pp. 791–795)."
+  },
+  "source_limits": "The source includes the majority decision and the dissenting opinion but not the full incorporated decisions 2019-03 (Crouse v. NWGP) or 2019-07 (Fozard v. Northwest Texas Presbytery); it supplies only their cited results or propositions. The majority also notes no transcript of the Presbytery commission hearing and no formal testimony.",
+  "benchmark_examples": [
+    "C01 (1978-02): complaint synopsis preserving issue-level outcomes and remanded relief.",
+    "C20 (2016-13): adopted disposition controls, and a dissent does not supply the majority's rationale."
+  ],
+  "scores": {
+    "concrete_dispute": 2,
+    "decision": 2,
+    "decisive_reason": 2,
+    "distinctive_value": 2,
+    "fidelity": 2,
+    "economy": 2
+  },
+  "score_reasons": {
+    "concrete_dispute": "Identifies the challenged action: a session's refusal to advance an ordained deacon's nomination and the presbytery's adoption of a judicial commission judgment upholding it.",
+    "decision": "States the sole controlling outcome—complaint denied—and distinguishes the dissent's contrary proposal.",
+    "decisive_reason": "Explains the adopted BCO 39-3(3) deference/no-clear-error ground and the alternative theories rejected.",
+    "distinctive_value": "Preserves rules that re-election is not guaranteed, formal charges are not always required, filing a complaint alone is not a disqualifier, and questionable individual rationale is not necessarily attributable to the court.",
+    "fidelity": "Keeps the majority's adopted reasoning distinct from the dissent and from lower-court actions; notes hortatory and record limitations.",
+    "economy": "Uses only details needed to explain the dispute, denial, reasoning, and dissent."
+  },
+  "verification_notes": "First draft called the SJC action an 'affirmance'; corrected to 'denied' because the judgment was 'No' to whether Presbytery erred and the header disposition is denied. Rechecked the vote line (18-2-9) and treated Carrell/Nusbaum as dissent only. Rechecked that the majority's communication statement was prefaced by 'fairness and equity suggest,' not a constitutional command, and that the footnote's no-transcript/no-testimony point is record characterization, not a merits ruling.",
+  "repair_needed": false,
+  "repair_notes": "No source or catalog defect identified."
+}

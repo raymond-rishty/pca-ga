@@ -90,6 +90,11 @@ become a final disposition. The original wording is not discarded.
 
 ## Metadata facets
 
+See [Judicial synopsis benchmarks](JUDICIAL-SYNOPSIS-BENCHMARKS.md) for the
+editorial scoring model, source-checked examples, and coverage by matter type
+and disposition. Its discrepancy notes identify catalog assignments that must
+not be treated as authoritative examples without reconciliation.
+
 - `summary` is a concise editorial headnote: dispute, higher-court action, and
   decisive limiting detail where available. It is never substituted for the
   verbatim case page.

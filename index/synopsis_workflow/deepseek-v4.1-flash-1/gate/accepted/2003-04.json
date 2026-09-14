@@ -1,0 +1,50 @@
+{
+  "case_id": "2003-04",
+  "title": "Dr. and Mrs. Frank Chin v. Covenant Presbytery",
+  "matter_type": "complaint",
+  "final_dispositions": [
+    "not_sustained"
+  ],
+  "disposition_detail": "Issue 1: No—the Session did not err in its understanding and application of BCO 57-2 in denying the Chins' request to examine their young children for admission to the sealing ordinances. Issue 2: No—Covenant Presbytery did not err in denying the Chins' complaint. The complaint was not sustained; six members dissented.",
+  "first_summary": "The Chins complained that Covenant Presbytery wrongly denied their complaint against the Covenant Presbyterian Church Session's refusal to examine their young children for admission to the Lord's Supper. The SJC denied the complaint. It held that BCO 57-2 gives the Session discretion over when to examine a child and does not require examination of every child; if examination occurs, it must be careful. A dissent argued BCO 57-1 required examination of covenant children seeking admission.",
+  "summary": "The Chins complained to the SJC after Covenant Presbytery denied their complaint against Covenant Presbyterian Church Session's refusal to examine their young children for admission to the Lord's Supper. The SJC did not sustain the complaint. Its adopted reasoning held that BCO 57-2 leaves the time for examining young persons to the Session's prudence and imposes no mandate to examine every child put forward; if the Session decides the time has come, careful examination is required. The dissent read BCO 57-1 as requiring examination of covenant children seeking admission.",
+  "sources": [
+    {
+      "path": "cases/ga33_2005__2003-04.md",
+      "sha256": "2f0512771cfc560f3179d8aca50f058c64e5a2d031af7da116b8f17cfa54abd8",
+      "locator": "lines 1–5, 11–19, 68–94, 98–147; printed pp. 113–118",
+      "supports": "Identity, adopted judgment, issue-level outcomes, BCO 57-2 reasoning, vote, and dissent."
+    }
+  ],
+  "evidence_notes": {
+    "identity_and_adoption": "Case 2003-04, SJC, 33rd GA (2005), adopted judgment at lines 74–94; reasoning by RE Terry Jones at line 92; vote 14 concur/7 dissent/1 recused/2 absent at line 94.",
+    "dispute": "The Chins asked the CPC Session to examine their young children for admission to the Lord's Supper; the Session declined (lines 36–38), Presbytery denied the complaint (lines 44–52), and the Chins filed with the SJC (lines 54–72).",
+    "outcomes_and_reasons": "Judgment answers No to both issues (lines 74–78); adopted reasoning holds BCO 57-2 does not mandate examination of every young person and leaves timing to Session prudence, but requires careful examination if the Session determines the time has come (lines 84–90).",
+    "qualifications": "Six members dissented (lines 98–147), arguing BCO 57-1 requires the Session to honor covenant children's desire to seek admission by examining them; the dissent was not adopted.",
+    "incorporated_decisions": "No decision is incorporated by reference; the Presbytery's denial is summarized in the chronology and issues (lines 44–52, 72)."
+  },
+  "source_limits": "The source contains the SJC's adopted judgment, reasoning, vote, and dissenting opinion; underlying Session and Presbytery records are summarized, not reproduced.",
+  "benchmark_examples": [
+    "C01 Allin: preserve both successful and unsuccessful issue-level results and any procedural remedy.",
+    "C20 Daniels: do not supply a rationale when the adopted ruling gives none."
+  ],
+  "scores": {
+    "concrete_dispute": 2,
+    "decision": 2,
+    "decisive_reason": 2,
+    "distinctive_value": 2,
+    "fidelity": 2,
+    "economy": 2
+  },
+  "score_reasons": {
+    "concrete_dispute": "Identifies the Session's refusal to examine the Chin children and Presbytery's denial of the complaint.",
+    "decision": "States not sustained on both issue-level questions.",
+    "decisive_reason": "Recites the adopted BCO 57-2 prudence/no-mandate holding and the careful-examination limit.",
+    "distinctive_value": "Captures the distinction between Session discretion over timing and the duty of careful examination once the time is determined, plus the dissent's BCO 57-1 contextual reading.",
+    "fidelity": "Keeps the majority holding separate from the dissent and from lower court/Presbytery actions.",
+    "economy": "Concise; all details support the dispute, holding, or qualification."
+  },
+  "verification_notes": "Rechecked the adopted judgment and reasoning at lines 74–94, the vote at line 94, and the dissent at lines 98–147. Corrected first_summary to say the SJC did not sustain the complaint and to identify Covenant Presbytery's denial as the second issue. Confirmed the dissent's BCO 57-1 argument is separate and not adopted and that no material incorporated decision is missing.",
+  "repair_needed": false,
+  "repair_notes": ""
+}

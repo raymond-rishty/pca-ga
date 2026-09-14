@@ -1,0 +1,64 @@
+{
+  "case_id": "2020-05",
+  "title": "Speck v. Missouri Presbytery",
+  "matter_type": "complaint",
+  "final_dispositions": [
+    "partially_sustained",
+    "denied",
+    "remanded"
+  ],
+  "disposition_detail": "Issue 1 was sustained, particularly regarding Theological Judgments 2, 3, and 5; Issues 2 and 3 were denied. The matter was remanded for a focused new hearing on clarification and protective steps concerning identified errors.",
+  "first_summary": "Speck challenged Missouri Presbytery’s approval of six theological judgments concerning Revoice 18, its denial of his procedural point of order, and its refusal to debate gay-couple adoption. The SJC sustained the first issue because Presbytery used an incorrect constitutional standard and inadequately addressed errors it had identified. It denied the other issues and remanded for a new hearing on steps needed to clarify those errors and protect the broader Church’s peace and purity.",
+  "summary": "Speck challenged Missouri Presbytery’s approval of six theological judgments concerning teachings at Revoice 18, its rejection of his procedural point of order, and its refusal to debate gay-couple adoption. The SJC sustained only the first issue, particularly as to Judgments 2, 3, and 5: Presbytery improperly imported BCO 34-5’s ministerial-process standard into court review and then inadequately addressed identified errors affecting church peace and purity. It rejected the procedural and adoption claims and remanded for a focused new hearing under BCO 11-3, 11-4, and 13-9(f).",
+  "sources": [
+    {
+      "path": "cases/ga49_2022__2020-05.md",
+      "sha256": "1135f7afbdc6f124e74f38a2ba42e614521287b254ae5c11dd98a42865bd1496",
+      "locator": "lines 11–17, printed pp. 826–827",
+      "supports": "Case identity, deciding body, procedural vehicle, and mixed disposition."
+    },
+    {
+      "path": "cases/ga49_2022__2020-05.md",
+      "sha256": "1135f7afbdc6f124e74f38a2ba42e614521287b254ae5c11dd98a42865bd1496",
+      "locator": "lines 117–141, 175–199, 215–247, printed pp. 832–840",
+      "supports": "Three issues, judgments, incorrect constitutional criterion, and inadequate response to identified errors."
+    },
+    {
+      "path": "cases/ga49_2022__2020-05.md",
+      "sha256": "1135f7afbdc6f124e74f38a2ba42e614521287b254ae5c11dd98a42865bd1496",
+      "locator": "lines 249–291, printed pp. 840–843",
+      "supports": "Reasons for denying Issues 2 and 3, limited remand, qualification concerning the AIC report, and adoption vote."
+    }
+  ],
+  "evidence_notes": {
+    "identity_and_adoption": "The caption identifies Case 2020-05 and the SJC decision on complaint; the final decision was adopted 22–2–0 (lines 11, 287–291; printed pp. 826, 843).",
+    "dispute": "The three issues challenged six theological judgments, denial of a point of order, and refusal to debate gay-couple adoption (lines 117–125; printed p. 832).",
+    "outcomes_and_reasons": "Issue 1 was sustained and Issues 2–3 denied; the majority found conflation of BCO 34-5 with BCO 40-5 and inadequate action under BCO 11-3, 11-4, and 13-9(f), then ordered a focused new hearing (lines 127–141, 175–199, 215–247, 249–283; printed pp. 832–843).",
+    "qualifications": "The remand need address particularly Judgments 2, 3, and 5. Interaction with the AIC report was encouraged, but that report lacked constitutional status (lines 281–287; printed p. 843). Separate concurrences and dissents were not treated as the court’s holding.",
+    "incorporated_decisions": "No decision was incorporated by reference. The AIC report was merely suggested for consideration and expressly lacked constitutional status (lines 283–285; printed p. 843)."
+  },
+  "source_limits": "The synopsis relies solely on the supplied case text. It distinguishes the adopted majority decision from the panel recommendation and separate opinions.",
+  "benchmark_examples": [
+    "C01",
+    "C02"
+  ],
+  "scores": {
+    "concrete_dispute": 2,
+    "decision": 2,
+    "decisive_reason": 2,
+    "distinctive_value": 2,
+    "fidelity": 2,
+    "economy": 2
+  },
+  "score_reasons": {
+    "concrete_dispute": "Identifies all three challenged Presbytery actions.",
+    "decision": "States the sustained issue, both denied issues, and remand.",
+    "decisive_reason": "Explains the incorrect standard and resulting inadequate response.",
+    "distinctive_value": "Preserves the distinction between ministerial-process standards and standards governing a church court’s response to erroneous opinions.",
+    "fidelity": "Separates the majority holding from committee findings, the panel proposal, and separate opinions.",
+    "economy": "Retains only facts needed to explain the dispute, result, and limited remand."
+  },
+  "verification_notes": "Rechecked the operative judgments and amends at lines 127–133 and 281–287. The final summary was tightened to specify that only Issue 1 succeeded, emphasize Judgments 2, 3, and 5, identify the competing BCO standards, and avoid implying that the SJC annulled the six judgments or ordered debate on adoption.",
+  "repair_needed": false,
+  "repair_notes": ""
+}

@@ -1,0 +1,50 @@
+{
+  "case_id": "1997-08",
+  "title": "Theresa Bridie vs. Central Florida Presbytery",
+  "matter_type": "complaint",
+  "final_dispositions": [
+    "judicially_out_of_order"
+  ],
+  "disposition_detail": "The full Standing Judicial Commission found the complaint judicially out of order because the complainant was not a member of a PCA church and therefore lacked standing before the Commission. No merits disposition was reached.",
+  "first_summary": "The SJC found Theresa Bridie's complaint against Central Florida Presbytery out of order because she was not a PCA church member and lacked standing. The source does not describe the challenged action or any merits review.",
+  "summary": "Whether a non-PCA church member may bring a complaint against a presbytery? The full Standing Judicial Commission held no, finding Theresa Bridie's complaint against Central Florida Presbytery judicially out of order because she was not a member of a PCA church and therefore lacked standing. No merits issue was reached, and the sparse record does not identify the challenged presbytery action.",
+  "sources": [
+    {
+      "path": "cases/ga26_1998__1997-08.md",
+      "sha256": "df33f2d55c6f37fa5616f92e4b283452322109ae04516e0ff51bb2b305f36ac5",
+      "locator": "lines 11-15 (printed p. 134 / PDF p. 136)",
+      "supports": "Adopted ruling: the full SJC found the case judicially out of order because the complainant was not a member of a PCA church and lacked standing."
+    }
+  ],
+  "evidence_notes": {
+    "identity_and_adoption": "Source lines 1-5 identify case 1997-08, Theresa Bridie vs. Central Florida Presbytery, before the Standing Judicial Commission, 26th Assembly (1998), disposition out of order. Lines 11-15 provide the adopted ruling and name the deciding body as the full Commission.",
+    "dispute": "Line 15 states the complaint was judicially out of order because the complainant is not a member of a PCA church and therefore lacks standing before the Commission. The source does not identify the underlying presbytery action or complaint grounds.",
+    "outcomes_and_reasons": "Line 15 supplies the sole disposition and reason: judicially out of order for lack of standing due to non-membership in a PCA church. No merits determination appears.",
+    "qualifications": "The record is a one-paragraph summary; it contains no separate opinions, lower-court decision, briefing, or remedy beyond the threshold ruling.",
+    "incorporated_decisions": "None. The source does not incorporate another decision by reference."
+  },
+  "source_limits": "The source is a sparse, single-paragraph report. It does not describe the challenged presbytery action, the complaint's allegations, any lower-court proceedings, or arguments of the parties.",
+  "benchmark_examples": [
+    "C20 (2016-13 Daniels): short-record example; do not supply an unstated rationale for a threshold or unexplained disposition.",
+    "C01 (1978-02 Allin): preserve mixed outcomes and issue-level results when present; not applicable here because the source reports a single threshold disposition."
+  ],
+  "scores": {
+    "concrete_dispute": 1,
+    "decision": 2,
+    "decisive_reason": 2,
+    "distinctive_value": 2,
+    "fidelity": 2,
+    "economy": 2
+  },
+  "score_reasons": {
+    "concrete_dispute": "The standing challenge is concrete, but the source does not identify the challenged presbytery action or the complaint's subject.",
+    "decision": "The sole dispositionâ€”judicially out of orderâ€”is stated accurately and completely for this sparse record.",
+    "decisive_reason": "The source expressly gives the adopted reason: non-membership in a PCA church and lack of standing.",
+    "distinctive_value": "The case illustrates the threshold standing requirement for complainants before the Commission.",
+    "fidelity": "The synopsis distinguishes the adopted threshold ruling from absent merits or lower-court action and does not invent facts.",
+    "economy": "Every retained detail explains the issue, disposition, or reason; no unnecessary procedural detail is added."
+  },
+  "verification_notes": "Rechecked lines 1-5 and 11-15. Corrected first_summary to use the source's exact 'judicially out of order' phrasing and to identify the deciding body as the full Standing Judicial Commission. Confirmed line 15 states the sole reason as non-membership in a PCA church/lack of standing and that no merits result or remedy is stated. Confirmed no incorporated decision.",
+  "repair_needed": false,
+  "repair_notes": "None. The source supports the sparse synopsis; no catalog or source defect identified."
+}

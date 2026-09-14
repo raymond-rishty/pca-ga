@@ -1,0 +1,51 @@
+{
+  "case_id": "2009-25",
+  "title": "Brown v. Northern California Presbytery",
+  "matter_type": "complaint",
+  "final_dispositions": [
+    "sustained",
+    "annulled"
+  ],
+  "disposition_detail": "The complaint, consolidated with Case 2009-26, was sustained, and Presbytery’s challenged actions were annulled. The SJC expressly declined to decide whether any of the six diaconal views were faithful to the Constitution.",
+  "first_summary": "Brown challenged Presbytery’s approval of six views concerning diaconal practice. The SJC sustained the consolidated complaints and annulled Presbytery’s action because a church court cannot issue an authoritative decree abstractly, apart from a proper exercise of jurisdiction over specific persons. Constitutional conformity must instead be determined through authorized processes subject to review, complaint, and appeal.",
+  "summary": "Brown challenged Presbytery’s abstract approval of six views concerning diaconal practice. The SJC sustained the consolidated complaints and annulled Presbytery’s action because a church court cannot issue a binding decree apart from properly exercising jurisdiction over specific persons. Constitutional conformity must instead be determined through authorized examination or judicial processes. The judgment deliberately left unresolved whether any of the six views themselves were faithful to the Constitution; the detailed view-by-view analysis appeared only in a concurring opinion.",
+  "sources": [
+    {
+      "path": "cases/ga39_2011__2009-25_2009-26.md",
+      "sha256": "46d3bc356825b639b87660e529c85fd43dbfb4fc782be71a0b030242e91ab254",
+      "locator": "printed pp. 548–552, lines 13–145",
+      "supports": "Case identity, consolidated complaints, challenged action, judgment, majority reasoning, annulment, qualification, and adoption vote."
+    }
+  ],
+  "evidence_notes": {
+    "identity_and_adoption": "Case 2009-25 was Brown’s complaint against Northern California Presbytery and was combined with Case 2009-26; the judgment was adopted 20-0 with four absent (printed pp. 548, 552; lines 13–17, 143–145).",
+    "dispute": "Presbytery declared six views concerning the diaconate permissible and conforming to biblical polity; Brown challenged views 5 and 6 (printed pp. 548–550; lines 17, 41–67, 79–85).",
+    "outcomes_and_reasons": "The SJC answered that Presbytery erred, holding that courts cannot issue binding abstract decrees without jurisdiction over specific persons and proper constitutional process; it annulled the challenged actions (printed pp. 550–552; lines 83–141).",
+    "qualifications": "The majority expressly rendered no judgment on the fidelity of any of the six views. The subsequent view-by-view discussion was a concurring opinion only (printed pp. 552–553, 566; lines 141–149, 400–410).",
+    "incorporated_decisions": "No decision was incorporated by reference as the operative judgment. Authorities and prior cases were cited, especially in the separate concurrence, but their results were not adopted as issue-level rulings here."
+  },
+  "source_limits": "The source combines Cases 2009-25 and 2009-26. Its lengthy substantive analysis of individual diaconal practices is expressly labeled a concurring opinion and cannot be attributed to the majority judgment.",
+  "benchmark_examples": [
+    "C01",
+    "C02"
+  ],
+  "scores": {
+    "concrete_dispute": 2,
+    "decision": 2,
+    "decisive_reason": 2,
+    "distinctive_value": 2,
+    "fidelity": 2,
+    "economy": 2
+  },
+  "score_reasons": {
+    "concrete_dispute": "Identifies Presbytery’s abstract approval of six diaconal views.",
+    "decision": "States both sustention and annulment, together with the issue deliberately left undecided.",
+    "decisive_reason": "Explains the jurisdictional and procedural defect adopted by the majority.",
+    "distinctive_value": "Preserves the distinction between abstract declarations and determinations arising through authorized proceedings.",
+    "fidelity": "Separates the majority judgment from the concurring opinion’s substantive analysis.",
+    "economy": "Retains only facts needed to explain the challenge, result, reason, and limitation."
+  },
+  "verification_notes": "Rechecked the judgment and annulment at lines 83–141. The final summary was corrected to state expressly that the majority did not decide the constitutional fidelity of the six views and that the detailed practice-specific analysis belonged only to the concurrence.",
+  "repair_needed": false,
+  "repair_notes": ""
+}

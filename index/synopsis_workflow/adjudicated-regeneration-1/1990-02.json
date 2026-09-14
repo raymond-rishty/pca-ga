@@ -1,0 +1,31 @@
+{
+  "case_id": "1990-02",
+  "title": "First Presbyterian Church of Rowlett, Texas v. North Texas Presbytery",
+  "matter_type": "appeal",
+  "final_dispositions": ["abandoned", "affirmed"],
+  "disposition_detail": "Appeal abandoned under BCO 43-7; North Texas Presbytery's judgment affirmed.",
+  "first_summary": "First Presbyterian Church of Rowlett appealed after North Texas Presbytery reversed the Session's indefinite suspension of two members who had begun attending other churches. The SJC did not reach the asserted procedural errors because the Session advised that it would start over and would not pursue the appeal. Under BCO 43-7, the appeal was abandoned and Presbytery's judgment was affirmed.",
+  "summary": "First Presbyterian Church of Rowlett appealed after North Texas Presbytery reversed the Session's indefinite suspension of two members who had begun attending other churches. The SJC did not reach the asserted procedural errors because the Session advised that it would start over and would not pursue the appeal. Under BCO 43-7, the appeal was abandoned and Presbytery's judgment was affirmed.",
+  "sources": [{"path":"cases/ga18_1990__case2.md","sha256":"2b6e306aa02225e3f999a071190c42f3e8d5104535bfba6c8776aed50422bbc6","locator":"Summary of Facts and Judgment, lines 29-70","supports":"Correct docket identity, underlying discipline, withdrawal communication, abandonment, affirmance, and BCO 43-7 reason."}],
+  "evidence_notes": {
+    "identity_and_adoption": "The source identifies SJC Docket 2, the Rowlett church as appellant, and North Texas Presbytery as appellee; the report was adopted.",
+    "dispute": "The Session appealed Presbytery's reversal of its indefinite suspension of the Joneses.",
+    "outcomes_and_reasons": "The Session stated it would start over and not pursue the appeal; BCO 43-7 therefore made the appeal abandoned, and Presbytery was affirmed.",
+    "qualifications": "The SJC did not decide the asserted gross-irregularity and evidentiary issues on their merits.",
+    "incorporated_decisions": "No separate decision is incorporated."
+  },
+  "source_limits": "The decision fully states the procedural disposition but does not adjudicate the merits of the appellate allegations.",
+  "benchmark_examples": ["A19", "A20"],
+  "scores": {"concrete_dispute":2,"decision":2,"decisive_reason":2,"distinctive_value":2,"fidelity":2,"economy":2},
+  "score_reasons": {
+    "concrete_dispute":"Identifies the discipline and Presbytery reversal that produced the appeal.",
+    "decision":"States both abandonment and affirmance.",
+    "decisive_reason":"Explains the appellant's nonpursuit and BCO 43-7.",
+    "distinctive_value":"Shows why affirmance followed without merits review.",
+    "fidelity":"Does not borrow the neighboring confessional-exception complaint.",
+    "economy":"Retains only the background needed to understand the procedural outcome."
+  },
+  "verification_notes": "Reopened Docket 2 and checked the parties, underlying action, November 10 letter, judgment, and BCO 43-7 reasoning. The prior candidate was based entirely on neighboring Case 1990-01 and has been replaced.",
+  "repair_needed": false,
+  "repair_notes": "No source repair is needed; the corrected candidate now uses cases/ga18_1990__case2.md."
+}

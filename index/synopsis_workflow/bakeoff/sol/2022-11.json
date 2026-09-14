@@ -1,0 +1,40 @@
+{
+  "case_id": "2022-11",
+  "title": "BCO 34-1 Petitions re: Central Indiana Presbytery",
+  "matter_type": "original_jurisdiction_request",
+  "dispositions": ["other"],
+  "summary": "The SJC had postponed BCO 34-1 petitions concerning Central Indiana Presbytery until the Herron trial concluded. After acquitting Herron on all charges and restoring him to good standing, the SJC answered and decided the petitions by reference to that final trial decision. The petitions were thus resolved through incorporation of the trial result, not transferred to another court; the trial itself arose from a distinct BCO 41 reference.",
+  "sources": [
+    {
+      "path": "cases/ga50_2023__2022-11.md",
+      "sha256": "da8f26519640af3a7d529a5a5c25623f47bf46fcfefca39cd36b0c1b60bbb8e1",
+      "locator": "lines 11-15; printed p. 918, April 5, 2023 decision on petitions",
+      "supported_claims": "Supports postponement pending the Herron trial and the answer and decision by reference to the final trial decision."
+    },
+    {
+      "path": "cases/ga50_2023__2022-10.md",
+      "sha256": "65a48ecd11dc794f99002adb6a73a9ab60e29d1f9663aa088c21525b2ad63aa2",
+      "locator": "lines 13-25, 410-446, and 620-622; printed pp. 884-885, 903-905, and 916",
+      "supported_claims": "The incorporated final decision establishes the distinct BCO 41 trial posture, all not-guilty verdicts, and restoration."
+    }
+  ],
+  "source_limits": "The petition decision gives no separate petition-by-petition judgment or rationale beyond incorporation of Case 2022-10; the synopsis does not infer an express grant or denial.",
+  "evidence_notes": [
+    "The BCO 34-1 petitions and the BCO 41 trial are distinct procedural vehicles.",
+    "The petitions were answered and decided by reference to the trial decision after that decision issued.",
+    "The phrase 'by reference to' does not describe referral to another court."
+  ],
+  "benchmark_examples": ["O05 Central Indiana", "O04 Missouri", "J04 Herron"],
+  "scores": {"concrete_dispute": 2, "decision": 2, "decisive_reason": 2, "distinctive_value": 2, "fidelity": 2, "economy": 2},
+  "score_reasons": {
+    "concrete_dispute": "Identifies the petitions and related completed trial.",
+    "decision": "States the exact incorporated disposition without inventing grant or denial.",
+    "decisive_reason": "Explains the final trial result that supplied the incorporated answer.",
+    "distinctive_value": "Separates incorporation from transfer and BCO 34-1 from BCO 41.",
+    "fidelity": "Keeps the petition and trial dockets distinct.",
+    "economy": "Adds only enough trial detail to make the answer intelligible."
+  },
+  "verification_notes": "Separate source-checking pass by the same reviewer re-read the complete petition decision and the incorporated trial's posture, verdicts, and conclusion; no unstated petition outcome was added.",
+  "repair_needed": true,
+  "repair_notes": "The canonical catalog uses disposition 'referred,' but the decision says the petitions were answered and decided by reference to Case 2022-10. This was incorporation, not transfer; disposition metadata requires reconciliation, likely as a descriptive 'other' outcome."
+}

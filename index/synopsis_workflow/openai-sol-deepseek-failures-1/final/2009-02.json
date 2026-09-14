@@ -1,0 +1,64 @@
+{
+  "case_id": "2009-02",
+  "title": "Morton Smith v. Western Carolina Presbytery",
+  "matter_type": "complaint",
+  "final_dispositions": [
+    "partially_sustained",
+    "annulled",
+    "remanded"
+  ],
+  "disposition_detail": "The complaint was sustained only as to procedure. The SJC did not disturb Presbytery’s reversal of its earlier finding that there was no strong presumption of guilt, but annulled Presbytery’s immediate declaration against Payne’s views and remanded for Presbytery either to commence judicial process or rescind its strong-presumption finding and drop the matter.",
+  "first_summary": "Smith challenged Presbytery’s reversal of a finding that an elder’s race-and-IQ views did not create a strong presumption of guilt and its declaration that those views violated the Constitution and Christian liberty. The SJC deferred to Presbytery’s discretionary strong-presumption determination but held that it denied the elder due process by immediately judging his views without trial. It annulled the declaration and remanded for formal process or rescission of the strong-presumption finding.",
+  "summary": "Smith challenged Presbytery’s reversal of a finding that an elder’s race-and-IQ views did not create a strong presumption of guilt and its immediate judgment against those views. The SJC upheld the reversal as a discretionary determination, without addressing its merits, but annulled the declaration against the views because a strong-presumption finding required judicial process. On remand, Presbytery was to commence process against the elder or rescind that finding and drop the matter. The ruling did not restrict Presbytery’s ability to adopt general position statements outside an investigation.",
+  "sources": [
+    {
+      "path": "cases/ga38_2010__2009-02.md",
+      "sha256": "02b65b009efdb712b9e454db9cf7dd89b369e4bf375b3eb2dacd6c438bf6a144",
+      "locator": "lines 1–3, 305–313; printed pp. 182, 196–197",
+      "supports": "Case identity, deciding body, adoption, and vote."
+    },
+    {
+      "path": "cases/ga38_2010__2009-02.md",
+      "sha256": "02b65b009efdb712b9e454db9cf7dd89b369e4bf375b3eb2dacd6c438bf6a144",
+      "locator": "lines 207–236; printed pp. 193–194",
+      "supports": "Complaint grounds, issue, mixed judgment, annulment, and remand."
+    },
+    {
+      "path": "cases/ga38_2010__2009-02.md",
+      "sha256": "02b65b009efdb712b9e454db9cf7dd89b369e4bf375b3eb2dacd6c438bf6a144",
+      "locator": "lines 240–303; printed pp. 194–196",
+      "supports": "Due-process reasoning, required next steps, and limits concerning general position statements."
+    }
+  ],
+  "evidence_notes": {
+    "identity_and_adoption": "The heading identifies Case 2009-2 and the parties; the panel decision was amended by the full SJC (lines 13, 305; printed pp. 182, 196).",
+    "dispute": "Smith contested Presbytery’s reversal of the no-strong-presumption finding and its ruling that Payne’s summarized views violated the Constitution and Christian liberty (lines 207–221; printed p. 193).",
+    "outcomes_and_reasons": "The SJC deferred to the strong-presumption determination but annulled the immediate declaration for lack of process and remanded for process or rescission (lines 223–240, 303; printed pp. 193–196).",
+    "qualifications": "The SJC expressed no view on the merits and distinguished statements adopted outside an investigation of alleged sin (lines 234, 284–303; printed pp. 194, 196).",
+    "incorporated_decisions": "No external decision was incorporated by reference; the operative judgment and reasoning are supplied in full (lines 223–305; printed pp. 193–196)."
+  },
+  "source_limits": "The synopsis relies solely on the supplied SJC case text; it does not assess the merits of Payne’s views or any later proceedings.",
+  "benchmark_examples": [
+    "C01",
+    "C02"
+  ],
+  "scores": {
+    "concrete_dispute": 2,
+    "decision": 2,
+    "decisive_reason": 2,
+    "distinctive_value": 2,
+    "fidelity": 2,
+    "economy": 2
+  },
+  "score_reasons": {
+    "concrete_dispute": "Identifies both the reversed presumption finding and the immediate judgment against the elder’s views.",
+    "decision": "Preserves the unsuccessful merits-related challenge, successful procedural challenge, annulment, and remand.",
+    "decisive_reason": "Explains that a strong-presumption finding required judicial process before judgment.",
+    "distinctive_value": "States both remand options and the limitation concerning general position statements.",
+    "fidelity": "Separates Presbytery’s action from the SJC’s ruling and notes that the SJC gave no merits opinion.",
+    "economy": "Retains only facts needed to explain the mixed result, remedy, and limiting distinction."
+  },
+  "verification_notes": "Rechecked the judgments and reasoning at lines 223–303. The final summary clarifies that deference applied only to the discretionary strong-presumption determination, adds the express no-merits qualification, states both remand alternatives, and preserves the distinction for general statements outside judicial investigations.",
+  "repair_needed": false,
+  "repair_notes": ""
+}

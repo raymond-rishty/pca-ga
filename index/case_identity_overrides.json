@@ -1,0 +1,63 @@
+{
+  "schema_version": 2,
+  "description": "Minutes-verified, caption-sensitive corrections to Historical Center roster IDs, plus dockets expressly present in the minutes but omitted from that roster.",
+  "overrides": [
+    {"status":"approved","roster_id":"1980-05","title_contains":"bogue","canonical_id":"1980-04","evidence":["cases/ga08_1980__case3.md:1"]},
+    {"status":"approved","roster_id":"1986-07","title_contains":"dye","canonical_id":"1986-08","evidence":["markdown/ga14_1986.md:3167","markdown/ga14_1986.md:6755"]},
+    {"status":"approved","roster_id":"1987-02","title_contains":"bogue","canonical_id":"1986-06","evidence":["markdown/ga14_1986.md:3163","markdown/ga14_1986.md:5073"]},
+    {"status":"approved","roster_id":"1988-03","title_contains":"rayburn","canonical_id":"1988-05","evidence":["markdown/ga16_1988.md:3055"]},
+    {"status":"approved","roster_id":"1988-04","title_contains":"jamison","canonical_id":"1988-07","evidence":["markdown/ga16_1988.md:3066","markdown/ga16_1988.md:6746"]},
+    {"status":"approved","roster_id":"1988-05","title_contains":"neville","canonical_id":"1988-08","evidence":["markdown/ga16_1988.md:3070","markdown/ga16_1988.md:6896"]},
+    {"status":"approved","roster_id":"1988-06","title_contains":"serio","canonical_id":"1988-10","evidence":["markdown/ga16_1988.md:3078","markdown/ga16_1988.md:6514"]},
+    {"status":"approved","roster_id":null,"title_contains":"lachman","canonical_id":"1988-03","evidence":["markdown/ga16_1988.md:3047","cases/ga16_1988__case2.md:1"]},
+    {"status":"approved","roster_id":"1989-01","title_contains":"mccre","canonical_id":"1988-01","evidence":["markdown/ga16_1988.md:5759","cases/ga17_1989__case1.md:1"]},
+    {"status":"approved","roster_id":"1989-04","title_contains":"morrison","canonical_id":"1988-04","evidence":["markdown/ga16_1988.md:5759","cases/ga17_1989__case2.md:1"]},
+    {"status":"approved","roster_id":"1989-06","title_contains":"debardeleben","canonical_id":"1988-06","evidence":["markdown/ga16_1988.md:5759","cases/ga17_1989__case3.md:1"]},
+    {"status":"approved","roster_id":"1989-09","title_contains":"morrison","canonical_id":"1988-09","evidence":["markdown/ga16_1988.md:5759","cases/ga17_1989__case4.md:1"]},
+    {"status":"approved","roster_id":"1989-10","title_contains":"stine","canonical_id":"1989-01","evidence":["markdown/ga17_1989.md:6701","markdown/ga17_1989.md:8985"]},
+    {"status":"approved","roster_id":"1989-11","title_contains":"grace presbyterian","canonical_id":"1989-02","evidence":["markdown/ga17_1989.md:8987","cases/ga17_1989__case6.md:1"]},
+    {"status":"approved","roster_id":"1989-12","title_contains":"rowlett","canonical_id":"1990-01","evidence":["cases/ga18_1990__case1.md:10","cases/ga18_1990__case1.md:16"]},
+    {"status":"approved","roster_id":"1991-01","title_contains":"grace covenant","canonical_id":"1990-03","evidence":["markdown/ga19_1991.md:12694","markdown/ga19_1991.md:12799"]},
+    {"status":"approved","roster_id":"1991-02","title_contains":"chappell","canonical_id":"1990-04","evidence":["markdown/ga19_1991.md:12696","markdown/ga19_1991.md:13069"]},
+    {"status":"approved","roster_id":"1991-03","title_contains":"marshall","canonical_id":"1990-04a","evidence":["markdown/ga19_1991.md:12698","markdown/ga19_1991.md:13660"]},
+    {"status":"approved","roster_id":"1991-04","title_contains":"melton","canonical_id":"1990-05","evidence":["markdown/ga19_1991.md:12700","markdown/ga19_1991.md:14155"]},
+    {"status":"approved","roster_id":"1991-05","title_contains":"stringer","canonical_id":"1990-07","evidence":["markdown/ga19_1991.md:12702"]},
+    {"status":"approved","roster_id":"1991-07","title_contains":"hathaway","canonical_id":"1990-09","evidence":["markdown/ga19_1991.md:12706","markdown/ga19_1991.md:12750"]},
+    {"status":"approved","roster_id":"1991-08","title_contains":"hathaway","canonical_id":"1990-10","evidence":["markdown/ga19_1991.md:12708","markdown/ga19_1991.md:12757"]},
+    {"status":"approved","roster_id":"1992-02","title_contains":"nickoley","canonical_id":"1991-02","evidence":["cases/ga20_1992__1991-02.md:1","cases/ga20_1992__1991-02.md:209"]}
+    ,{"status":"approved","roster_id":"1992-03","title_contains":"morse","canonical_id":"1991-03","evidence":["markdown/ga20_1992.md:4752","cases/ga20_1992__1991-03.md:1"]}
+    ,{"status":"approved","roster_id":"1992-04","title_contains":"hopper","canonical_id":"1991-04","evidence":["markdown/ga20_1992.md:4754","cases/ga20_1992__1991-04.md:1"]}
+    ,{"status":"approved","roster_id":"1992-05","title_contains":"gunter","canonical_id":"1991-05","evidence":["markdown/ga20_1992.md:4756","cases/ga20_1992__1991-05.md:1"]}
+    ,{"status":"approved","roster_id":"1995-10","title_contains":"sought to reference","canonical_id":"1995-10","corrected_title":"Stuart Merriam v. Tennessee Valley Presbytery (Appeal)","evidence":["markdown/ga25_1997.md:2548","markdown/ga25_1997.md:2950"]}
+    ,{"status":"approved","roster_id":"2010-14","title_contains":"sartorius","canonical_id":"2010-14","corrected_title":"Michael A. McNeil v. Chesapeake Presbytery","evidence":["markdown/ga39_2011.md:9337","markdown/ga39_2011.md:12354"],"note":"The Historical Center row duplicates the caption and merits description of Case 2010-04; the 2011 minutes identify 2010-14 as McNeil and judicially out of order."}
+  ],
+  "supplemental_cases": [
+    {"status":"approved","canonical_id":"1986-07","decision_year":1986,"title":"William A. Shell v. Great Lakes Presbytery","ignore_extracted":true,"evidence":["markdown/ga14_1986.md:3165","markdown/ga14_1986.md:4201"]},
+    {"status":"approved","canonical_id":"1988-11","decision_year":1988,"title":"Korean Church of Washington Complaint","evidence":["markdown/ga16_1988.md:3080"]},
+    {"status":"approved","canonical_id":"1991-01","decision_year":1992,"title":"Sandra Lovelace v. Northeast Presbytery","evidence":["markdown/ga20_1992.md:4748","cases/ga20_1992__1991-01.md:1"]},
+    {"status":"approved","canonical_id":"1991-03","decision_year":1992,"title":"Daniel R. Morse v. Covenant Presbytery","evidence":["markdown/ga20_1992.md:4752","cases/ga20_1992__1991-03.md:1"]},
+    {"status":"approved","canonical_id":"1991-04","decision_year":1992,"title":"Robert D. Hopper v. James River Presbytery","evidence":["markdown/ga20_1992.md:4754","cases/ga20_1992__1991-04.md:1"]},
+    {"status":"approved","canonical_id":"1991-05","decision_year":1992,"title":"Herman Gunter III and Donald Monroe v. Central Florida Presbytery","evidence":["markdown/ga20_1992.md:4756","cases/ga20_1992__1991-05.md:1"]},
+    {"status":"approved","canonical_id":"1991-07","decision_year":1992,"title":"W. Austin Kenly v. Potomac Presbytery","evidence":["markdown/ga20_1992.md:4760","cases/ga20_1992__1991-07.md:1"]},
+    {"status":"approved","canonical_id":"1992-03","decision_year":1992,"title":"Richard E. Olson et al. v. Heritage Presbytery","evidence":["markdown/ga20_1992.md:4766","cases/ga20_1992__1992-03.md:1"]},
+    {"status":"approved","canonical_id":"1992-04","decision_year":1992,"title":"William A. Conrad et al. v. Central Carolina Presbytery","evidence":["markdown/ga20_1992.md:4768","cases/ga20_1992__1992-04.md:1"]},
+    {"status":"approved","canonical_id":"1993-03","decision_year":1994,"title":"Chen v. Ascension Presbytery","evidence":["markdown/ga22_1994.md:2896","cases/ga22_1994__1993-03.md:1"]},
+    {"status":"approved","canonical_id":"1993-04","decision_year":1994,"title":"George L. Cox v. Mid-America Presbytery","evidence":["markdown/ga22_1994.md:2898","cases/ga22_1994__1993-04.md:1"]},
+    {"status":"approved","canonical_id":"1993-05","decision_year":1994,"title":"Clark v. Southwest Presbytery (Request for Clarification)","evidence":["markdown/ga22_1994.md:2900","cases/ga22_1994__1993-05.md:1"]},
+    {"status":"approved","canonical_id":"1993-06","decision_year":1994,"title":"Robert J. Borger v. Tennessee Valley Presbytery","evidence":["markdown/ga22_1994.md:2902","cases/ga22_1994__1993-06.md:1"]},
+    {"status":"approved","canonical_id":"1993-07","decision_year":1994,"title":"Edward S. Kim v. Korean Southern Presbytery","evidence":["markdown/ga22_1994.md:2904","cases/ga22_1994__1993-07.md:1"]},
+    {"status":"approved","canonical_id":"1993-08","decision_year":1994,"title":"Ellisville Session v. Grace Presbytery","evidence":["markdown/ga22_1994.md:2906","cases/ga22_1994__1993-08.md:1"]},
+    {"status":"approved","canonical_id":"1993-09","decision_year":1994,"title":"William A. Conrad et al. v. Central Carolina Presbytery","evidence":["markdown/ga22_1994.md:2908","cases/ga22_1994__1993-09.md:1"]},
+    {"status":"approved","canonical_id":"1993-10","decision_year":1995,"title":"Clark v. Southwest Presbytery","evidence":["markdown/ga23_1995.md:3519","cases/ga23_1995__1993-10.md:1"]},
+    {"status":"approved","canonical_id":"1993-10b","decision_year":1995,"title":"Clark v. Southwest Presbytery (Case 93-10B)","evidence":["markdown/ga23_1995.md:3549","cases/ga23_1995__1993-10b.md:1"]},
+    {"status":"approved","canonical_id":"1993-11","decision_year":1995,"title":"McDade v. Susquehanna Valley Presbytery","evidence":["markdown/ga23_1995.md:3481","cases/ga23_1995__1993-11.md:1"]},
+    {"status":"approved","canonical_id":"1993-12","decision_year":1995,"title":"Steve Newton v. Heartland Presbytery","evidence":["markdown/ga23_1995.md:3481","cases/ga23_1995__1993-12_1993-14.md:1"]},
+    {"status":"approved","canonical_id":"1993-13","decision_year":1995,"title":"David L. Thoburn v. Potomac Presbytery","evidence":["markdown/ga23_1995.md:3481","cases/ga23_1995__1993-13.md:1"]},
+    {"status":"approved","canonical_id":"1993-14","decision_year":1995,"title":"Grace RPC Session v. Heartland Presbytery","evidence":["markdown/ga23_1995.md:3481","cases/ga23_1995__1993-12_1993-14.md:1"]},
+    {"status":"approved","canonical_id":"1995-04","decision_year":1996,"title":"Hugo Andrino v. Southern Florida Presbytery","ignore_extracted":true,"evidence":["markdown/ga24_1996.md:4708","markdown/ga24_1996.md:5158","cases/ga24_1996__1995-04.md:1"]},
+    {"status":"approved","canonical_id":"1995-07","decision_year":1997,"title":"Edgemont Session v. Westminster Presbytery","evidence":["markdown/ga25_1997.md:2545","markdown/ga25_1997.md:2704"]},
+    {"status":"approved","canonical_id":"1995-09","decision_year":1997,"title":"David Stockment v. Southern Florida Presbytery","evidence":["markdown/ga25_1997.md:2547","markdown/ga25_1997.md:2869"]},
+    {"status":"approved","canonical_id":"1996-01","decision_year":1997,"title":"Hugo Andrino v. Southern Florida Presbytery","evidence":["markdown/ga25_1997.md:2551","markdown/ga25_1997.md:3417"]},
+    {"status":"approved","canonical_id":"1996-05","decision_year":1997,"title":"Paul Jones v. Central Florida Presbytery","evidence":["markdown/ga25_1997.md:2556","markdown/ga25_1997.md:3996"]}
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "case_id": "2004-05",
+  "title": "Philip Blevins v. Westminster Presbytery",
+  "matter_type": "complaint",
+  "final_dispositions": [
+    "sustained",
+    "remanded"
+  ],
+  "disposition_detail": "Complaint sustained on the sole issue that the Blevins/Seufert complaint was timely filed; the February 3, 2004 commission ruling and Presbytery's denial of Blevins's complaint were held erroneous. Remanded to Westminster Presbytery to rehear the Westminster Session and Warhurst complaints with the merits of the Blevins/Seufert complaint duly considered. The SJC did not decide the merits of the wife's divorce grounds or whether the Session erred in May 2003.",
+  "first_summary": "SJC sustained TE Philip Blevins's complaint against Westminster Presbytery, holding the Blevins/Seufert complaint was timely and reversing the commission's untimeliness ruling. It reasoned that the wife's April 2003 letter was essentially a BCO 35-13 request based on new evidence (Presbytery's adultery ruling), and the Session's May 2003 denial was a new complaintable decision. The SJC remanded for Presbytery to rehear the matter and decide the wife's divorce grounds.",
+  "summary": "SJC sustained TE Philip Blevins's complaint against Westminster Presbytery, holding the Blevins/Seufert complaint was timely despite the commission's February 3, 2004 untimeliness ruling. The wife's April 2003 letter was essentially a BCO 35-13 request to review new evidence, and the Session's May 2003 denial was a new complaintable decision. The SJC did not decide the wife's divorce grounds or the Session's merits; it remanded for Presbytery to rehear the Session and Warhurst complaints with the Blevins/Seufert merits considered. A concurrence added that no full new trial is required.",
+  "sources": [
+    {
+      "path": "cases/ga33_2005__2004-05.md",
+      "sha256": "5e993b269a8425bffd89abfcba7141c842dbf8fd750e3ff3fb8e71f9326ca55f",
+      "locator": "lines 1-5 (identity); lines 53-57 (issue and judgment); lines 63-106 (majority reasoning); lines 112-114 (adoption vote); lines 116-160 (concurring opinion)",
+      "supports": "Case identity, adopted judgment, majority reasoning, vote, and separate concurring opinion."
+    }
+  ],
+  "evidence_notes": {
+    "identity_and_adoption": "Case ID/title at lines 1-3; SJC, 33rd GA, disposition listed as sustained. Adopted 20 concurring, 0 dissenting, 2 disqualified, 2 absent at lines 112-114. The judgment is at lines 55-57.",
+    "dispute": "Blevins complained of Westminster Presbytery's handling of the Blevins/Seufert complaint, specifically the commission's Feb. 3, 2004 ruling (received Apr. 17, 2004) that it was untimely under BCO 42.4/43.2; see lines 31-47 and the issue at line 53.",
+    "outcomes_and_reasons": "SJC answered yes to the issue at line 57; reasoning at lines 102-106: the wife's April 2003 letter was essentially a BCO 35-13 request, the new evidence was Presbytery's February 2003 ruling, and the Session's May 2003 denial was a new decision, so the June 2003 complaint was timely. Relief: Presbytery should rehear Session and Warhurst complaints with Blevins/Seufert merits considered (line 57).",
+    "qualifications": "SJC expressly did not review or decide whether the wife had biblical grounds for divorce (line 104) and did not rule whether the Session erred in denying her request (lines 104-106; concurrence lines 150-156). Concurring opinion by RE Howard Donahoe is separate (lines 116-160).",
+    "incorporated_decisions": "Presbytery's February 2003 ruling (lines 23-26), October 2003 ruling (lines 31-34), January 2004 Warhurst ruling (lines 35-36), and February 3, 2004 commission ruling (lines 37-40) are described in the record; no material incorporated decision appears unavailable."
+  },
+  "source_limits": "The source is a case report with majority opinion, vote table, and a concurring opinion only; no separate dissent or full record is included. The summary relies on the printed case report and does not infer facts beyond the text.",
+  "benchmark_examples": [
+    "C01 (complaint sustained in part; remanded) - comparative guide for separating procedural error from merits and stating remand relief."
+  ],
+  "scores": {
+    "concrete_dispute": 2,
+    "decision": 2,
+    "decisive_reason": 2,
+    "distinctive_value": 2,
+    "fidelity": 2,
+    "economy": 2
+  },
+  "score_reasons": {
+    "concrete_dispute": "Identifies the challenged commission ruling that the Blevins/Seufert complaint was untimely.",
+    "decision": "States the sustained complaint and the remand to Presbytery; notes the refused merits determination.",
+    "decisive_reason": "Explains the adopted BCO 35-13/new-decision reasoning for timeliness.",
+    "distinctive_value": "Preserves the limitation that the merits were not decided and notes the concurrence's no-full-new-trial clarification.",
+    "fidelity": "Keeps majority judgment, adopted reasoning, merits limitation, and separate concurrence distinct.",
+    "economy": "All details serve the dispute, result, or qualification."
+  },
+  "verification_notes": "Rechecked the judgment at lines 53-57: corrected the first draft's 'reversing' to Presbytery 'erred' and added the remand to rehear the Session and Warhurst complaints. Rechecked lines 104-106 and 150-156: confirmed the SJC did not decide the wife's divorce grounds or the Session's merits. Rechecked lines 112-114 for the adoption vote and lines 116-160 for the separate concurring opinion.",
+  "repair_needed": false,
+  "repair_notes": "No source or catalog defect identified."
+}

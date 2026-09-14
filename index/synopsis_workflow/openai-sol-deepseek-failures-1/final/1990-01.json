@@ -1,0 +1,52 @@
+{
+  "case_id": "1990-01",
+  "title": "First Presbyterian Church of Rowlett, Texas v. North Texas Presbytery",
+  "matter_type": "complaint",
+  "final_dispositions": [
+    "not_sustained",
+    "denied",
+    "affirmed"
+  ],
+  "disposition_detail": "The Standing Judicial Commission did not sustain and denied the complaint, affirming North Texas Presbytery’s approval of Rev. C. Don Darling to minister within its bounds.",
+  "first_summary": "First Presbyterian Church challenged North Texas Presbytery’s approval of a minister who excepted to the Westminster Confession’s teaching on remarriage after divorce. The Standing Judicial Commission denied the complaint and affirmed Presbytery. It reasoned that ministerial acceptance ordinarily lies within presbytery jurisdiction and that this disclosed exception neither concerned a fundamental of the doctrinal system nor struck at the vitals of religion. Requiring conformity in this matter would improperly violate liberty of conscience.",
+  "summary": "A church challenged North Texas Presbytery’s approval of Rev. C. Don Darling, who disclosed that he could not conscientiously accept or conduct remarriage after divorce. The Standing Judicial Commission did not sustain and denied the complaint, affirming Presbytery. Ministerial acceptance ordinarily rests within a presbytery’s jurisdiction, and Darling’s exception neither concerned a fundamental of the doctrinal system nor struck at the vitals of religion or threatened much injury. Overriding Presbytery would therefore improperly impair liberty of conscience.",
+  "sources": [
+    {
+      "path": "cases/ga18_1990__case1.md",
+      "sha256": "88d89187c54a9b87994ac2ce75af47d3256858a1e4cc71752c29389583130e17",
+      "locator": "printed pp. 163–164, lines 34–87",
+      "supports": "Case identity, challenged action, issues, judgment, adopted reasoning, vote, concurrence, and disqualification."
+    }
+  ],
+  "evidence_notes": {
+    "identity_and_adoption": "The caption and SJC designation appear at lines 12–28; all eligible voting members adopted the judgment, with one concurrence on different grounds, at lines 82–87.",
+    "dispute": "Presbytery approved Darling despite his disclosed exception concerning remarriage; the church complained against that action (lines 34–46). The stated issues concern presbytery discretion and whether the exception struck at the vitals of religion (lines 54–59).",
+    "outcomes_and_reasons": "The complaint was not sustained and was denied, and Presbytery’s action was affirmed (lines 62–66). Presbytery ordinarily controls ministerial acceptance; the exception was not fundamental, did not strike at religion’s vitals, and implicated liberty of conscience (lines 68–80).",
+    "qualifications": "The record contained no evidence that Darling would be divisive (line 36). John W. Lane concurred in the judgment for different reasons, and William N. Brown was disqualified (lines 84–87).",
+    "incorporated_decisions": "No decision was incorporated by reference."
+  },
+  "source_limits": "The supplied excerpt contains the adopted judgment and reasoning but not the parties’ full filings or Lane’s separate reasons.",
+  "benchmark_examples": [
+    "C01",
+    "C20"
+  ],
+  "scores": {
+    "concrete_dispute": 2,
+    "decision": 2,
+    "decisive_reason": 2,
+    "distinctive_value": 2,
+    "fidelity": 2,
+    "economy": 2
+  },
+  "score_reasons": {
+    "concrete_dispute": "Identifies the approval challenged and the minister’s doctrinal exception.",
+    "decision": "States that the complaint was not sustained and denied and that Presbytery was affirmed.",
+    "decisive_reason": "Explains presbytery discretion, the nonfundamental nature of the exception, and liberty of conscience.",
+    "distinctive_value": "Preserves the distinction between a confessional exception and one striking at religion’s vitals.",
+    "fidelity": "Separates the adopted judgment from the concurrence and does not treat allegations as findings.",
+    "economy": "Retains only facts necessary to explain the issue, result, and governing distinction."
+  },
+  "verification_notes": "Rechecked lines 62–80 against the synopsis. The final version clarifies that Darling disclosed both his doctrinal exception and inability to conduct remarriages, and it omits the catalog’s unsupported characterization of the complaint as dismissed.",
+  "repair_needed": true,
+  "repair_notes": "The source metadata at line 3 labels the complaint “dismissed,” but the operative judgment at lines 62–66 says it was not sustained, denied, and Presbytery’s action affirmed. The catalog disposition should be corrected."
+}

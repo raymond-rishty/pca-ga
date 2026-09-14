@@ -1,0 +1,63 @@
+{
+  "case_id": "2016-05",
+  "title": "Thomas E. Troxell v. Presbytery of the Southwest",
+  "matter_type": "complaint",
+  "final_dispositions": [
+    "partially_sustained",
+    "annulled"
+  ],
+  "disposition_detail": "Specifications A and D were sustained; B, C, and E were not sustained. The household-management charge was annulled. The elder remained in good standing, but his properly imposed suspension remained effective, and the submission charge could proceed to adjudication.",
+  "first_summary": "Troxell challenged Presbytery’s institution of two charges and related pretrial actions. The SJC annulled the household-management charge as untimely under BCO 32-20 and held that declaring the accused not in good standing improperly removed rights without process. It rejected objections to Presbytery’s discussions, questioning, and submission charge. The properly imposed suspension remained effective, and the submission charge could proceed without any determination of guilt.",
+  "summary": "A complaint challenged Presbytery’s institution of two charges against a teaching elder and related pretrial actions. The SJC annulled the household-management charge because process began fifteen months after the alleged offense and the record showed no recently flagrant, newly evident, or continuing offense under BCO 32-20. It also held that declaring the elder not in good standing removed rights without process, but left his properly imposed suspension effective. It rejected objections to discussion, questioning, and the timely submission charge, which could proceed without any determination of guilt.",
+  "sources": [
+    {
+      "path": "cases/ga45_2017__2016-05.md",
+      "sha256": "c8aa138a140c9ef0d61fe8725a426af2ef52a3a66ee34e28ab5f2b9fbc7f2002",
+      "locator": "lines 13–15, 146–148; printed pp. 514, 520",
+      "supports": "Case identity, decision date, and SJC adoption."
+    },
+    {
+      "path": "cases/ga45_2017__2016-05.md",
+      "sha256": "c8aa138a140c9ef0d61fe8725a426af2ef52a3a66ee34e28ab5f2b9fbc7f2002",
+      "locator": "lines 70–96; printed pp. 516–517",
+      "supports": "Five specifications and their mixed dispositions, annulment, good-standing ruling, and continuing suspension."
+    },
+    {
+      "path": "cases/ga45_2017__2016-05.md",
+      "sha256": "c8aa138a140c9ef0d61fe8725a426af2ef52a3a66ee34e28ab5f2b9fbc7f2002",
+      "locator": "lines 100–144; printed pp. 517–520",
+      "supports": "Reasons concerning timeliness, discussion, questioning, good standing, and adjudication of the submission charge."
+    }
+  ],
+  "evidence_notes": {
+    "identity_and_adoption": "The heading identifies Case 2016-05 and the parties; the panel opinion was adopted and approved by the SJC (lines 13–15, 146–148; printed pp. 514, 520).",
+    "dispute": "The complaint raised five errors concerning two charges, Presbytery discussion and questioning, and a declaration that the accused lacked good standing (lines 70–82; printed pp. 516–517).",
+    "outcomes_and_reasons": "A and D were sustained; B, C, and E were denied. Charge 1 was untimely under BCO 32-20, while Charge 2 remained triable (lines 84–144; printed pp. 517–520).",
+    "qualifications": "The good-standing error did not annul other actions; the BCO 31-10 suspension remained effective, and the SJC did not decide guilt on Charge 2 (lines 94–96, 142–144; printed pp. 517, 520).",
+    "incorporated_decisions": "No decision was incorporated by reference. The concurrence discussed Marshall as an analogy and proposed a BCO amendment, but neither formed the adopted judgment (lines 152–221; printed pp. 521–523)."
+  },
+  "source_limits": "The supplied record decides the complaint only; it does not provide the later trial result on the remaining submission charge. The concurrence is not adopted reasoning.",
+  "benchmark_examples": [
+    "C01",
+    "C02"
+  ],
+  "scores": {
+    "concrete_dispute": 2,
+    "decision": 2,
+    "decisive_reason": 2,
+    "distinctive_value": 2,
+    "fidelity": 2,
+    "economy": 2
+  },
+  "score_reasons": {
+    "concrete_dispute": "Identifies the two charges and challenged pretrial actions.",
+    "decision": "States both sustained specifications, rejected objections, annulment, continuing suspension, and remaining charge.",
+    "decisive_reason": "Explains the BCO 32-20 timing defect and the due-process defect in removing good-standing rights.",
+    "distinctive_value": "Preserves the distinction between good standing, suspension of official functions, and guilt.",
+    "fidelity": "Separates the complainant from the accused, the adopted judgment from the concurrence, and adjudicability from guilt.",
+    "economy": "Retains only details needed to understand the mixed result and remaining proceedings."
+  },
+  "verification_notes": "Rechecked all five specifications against the judgment and corrected the synopsis to avoid identifying Troxell as the accused, because the record distinguishes the complainant from the charged elder. Also confirmed that only Charge 1 was annulled, Charge 2 remained triable, and the suspension remained effective.",
+  "repair_needed": true,
+  "repair_notes": "The source header labels the disposition “other,” but the operative judgment is a partially sustained complaint with annulment. The concurrence also inconsistently calls the accused “TE Hammons,” while the caption names Troxell and the operative record distinguishes complainant from accused."
+}

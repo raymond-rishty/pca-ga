@@ -1,0 +1,49 @@
+{
+  "case_id": "2008-04",
+  "title": "Complaint of RE H. Lance Acree vs. Chesapeake Presbytery",
+  "matter_type": "complaint",
+  "final_dispositions": [
+    "out_of_order"
+  ],
+  "disposition_detail": "Case 2008-04 was found out of order. The record does not identify an administrative or judicial subtype.",
+  "first_summary": "Acree’s complaint against Chesapeake Presbytery was found out of order. The published record provides no merits opinion, identifies neither the challenged action nor the reason for the ruling, and grants no substantive relief.",
+  "summary": "The recorded disposition found Acree’s complaint against Chesapeake Presbytery out of order. The sparse record does not identify the challenged presbytery action, give a reason for the ruling, or designate it as administratively or judicially out of order. No merits determination or substantive relief appears.",
+  "sources": [
+    {
+      "path": "cases/ga37_2009__stub_2008-04.md",
+      "sha256": "5de894ccb575245411cc2bb1c824ed67269adc28e6858c7169ff4bfe9289435f",
+      "locator": "lines 1–5, 9–11",
+      "supports": "Case identity, complaint posture, recorded out-of-order disposition, and absence of a separate merits opinion."
+    }
+  ],
+  "evidence_notes": {
+    "identity_and_adoption": "The caption identifies case 2008-04 and the parties; the metadata identifies the SJC and 37th Assembly (lines 1–3).",
+    "dispute": "Only a complaint against Chesapeake Presbytery is identified; the challenged action and grounds are absent (lines 1–5).",
+    "outcomes_and_reasons": "The operative excerpt lists 2008-04 among cases found out of order, without reasons or subtype (lines 9–10).",
+    "qualifications": "No separate merits opinion was published (line 5). The header’s designation “Withdrawn” conflicts with the case-specific operative listing (lines 3, 9–10).",
+    "incorporated_decisions": "No incorporated decision is identified."
+  },
+  "source_limits": "This is a sparse status record. It does not disclose the underlying controversy, reasoning, subtype of out-of-order ruling, or further proceedings.",
+  "benchmark_examples": [
+    "C20"
+  ],
+  "scores": {
+    "concrete_dispute": 1,
+    "decision": 2,
+    "decisive_reason": 2,
+    "distinctive_value": 2,
+    "fidelity": 2,
+    "economy": 2
+  },
+  "score_reasons": {
+    "concrete_dispute": "The parties and complaint posture are known, but the challenged action is not stated.",
+    "decision": "The operative listing expressly says case 2008-04 was out of order.",
+    "decisive_reason": "The synopsis faithfully states that no reason was supplied.",
+    "distinctive_value": "It preserves the limits of the record and avoids assigning an unsupported subtype.",
+    "fidelity": "It distinguishes the operative case listing from conflicting header metadata and makes no merits inference.",
+    "economy": "Every detail explains the disposition or the record’s limitations."
+  },
+  "verification_notes": "Rechecked the caption, publication note, and operative listing. The final summary follows lines 9–10 rather than the conflicting line-3 “Withdrawn” metadata and does not infer an administrative or judicial subtype.",
+  "repair_needed": true,
+  "repair_notes": "The source header labels the disposition “Withdrawn,” but the operative excerpt says 2008-02 was withdrawn and 2008-04 was found out of order. The catalog/header disposition should be corrected to “Out of order.”"
+}

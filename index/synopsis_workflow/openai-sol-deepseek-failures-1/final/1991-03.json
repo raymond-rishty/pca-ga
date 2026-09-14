@@ -1,0 +1,52 @@
+{
+  "case_id": "1991-03",
+  "title": "TE Daniel R. Morse v. Covenant Presbytery",
+  "matter_type": "judicial_reference",
+  "final_dispositions": [
+    "other",
+    "abandoned",
+    "moot"
+  ],
+  "disposition_detail": "The SJC directed Presbytery to erase Morse and Crenshaw from its rolls under BCO 38-3 and to erase Grace Presbyterian Church after its congregational withdrawal. Grace’s three complaints were abandoned and deemed moot. The SJC nevertheless opined that recording a protest under BCO 45-5 is not subject to complaint.",
+  "first_summary": "The SJC held that Morse and Crenshaw could not resign unilaterally and that joining another evangelical church required their removal under BCO 38-3. Grace Church could withdraw by congregational vote without notifying Presbytery. Its complaints were moot, and recording a protest was not subject to complaint under BCO 45-5.",
+  "summary": "On Covenant Presbytery’s mixed BCO 41 reference, the SJC held that ministers Morse and Crenshaw could not resign unilaterally; joining another evangelical church invoked BCO 38-3, requiring their names erased, with notice that they were in good standing and faced no pending charges. Grace Church’s withdrawal required a congregational vote, not notice to Presbytery, so its name also was to be erased. Grace had abandoned its complaints, rendering them moot; the SJC nevertheless opined that recording a protest is insulated from complaint by BCO 45-5.",
+  "sources": [
+    {
+      "path": "cases/ga20_1992__1991-03.md",
+      "sha256": "8a03f469fbbf6763ab1a58c362394d8deafabfd88a026ad45b38fc2c179e610e",
+      "locator": "printed pp. 154–160, especially pp. 157–159; lines 14–199",
+      "supports": "Case identity, jurisdiction, dispositions, reasoning, instructions, and 23-0 approval."
+    }
+  ],
+  "evidence_notes": {
+    "identity_and_adoption": "SJC case 91-3; the Commission accepted the mixed reference and approved the disposition 23-0 (printed pp. 154, 157, 159; lines 14–18, 93–120, 195–199).",
+    "dispute": "The reference asked how to treat ministers who purported to resign and joined another church, whether congregational withdrawal required notice, and whether receiving a protest was complainable (printed p. 156; lines 85–92).",
+    "outcomes_and_reasons": "BCO 38-3 required erasing the ministers; congregational withdrawal required only a duly called vote; the complaints were abandoned and moot; BCO 45-5 made receipt of protests final (printed pp. 157–159; lines 122–128, 132–193).",
+    "qualifications": "Issues 1–2 were largely nonjudicial but accepted with judicial issue 3 because they were intertwined. A records-review exception had earlier taken the contrary view on complainability (printed pp. 156–157; lines 79–120).",
+    "incorporated_decisions": "No decision was incorporated by reference; the Hopper matter appearing after the vote is unrelated (printed p. 160; lines 201–203)."
+  },
+  "source_limits": "The supplied case text is the sole authority. It records both abandonment/mootness and a merits opinion on complainability, but no separate relief on the abandoned complaints.",
+  "benchmark_examples": [
+    "C01",
+    "C02"
+  ],
+  "scores": {
+    "concrete_dispute": 2,
+    "decision": 2,
+    "decisive_reason": 2,
+    "distinctive_value": 2,
+    "fidelity": 2,
+    "economy": 2
+  },
+  "score_reasons": {
+    "concrete_dispute": "Identifies all three referred questions.",
+    "decision": "States the roll-removal instructions and the abandonment/mootness of all complaints.",
+    "decisive_reason": "Gives the controlling BCO provisions and factual predicates.",
+    "distinctive_value": "Preserves the distinction between congregational voting and notice, and BCO 45-5’s specific limitation on complaints.",
+    "fidelity": "Separates the formal abandonment judgment from the SJC’s additional merits opinion and the contrary records-review exception.",
+    "economy": "Retains only details needed to explain the rulings and practical consequences."
+  },
+  "verification_notes": "Rechecked the jurisdiction, issue-by-issue disposition, roll-removal instructions, and 23-0 vote. The final summary corrects the first by stating that the complaints were both abandoned and moot and by characterizing the BCO 45-5 discussion as an additional opinion rather than relief on the abandoned complaints.",
+  "repair_needed": false,
+  "repair_notes": "No material source or catalog defect requires repair; the heading’s “Te” was normalized to “TE.”"
+}

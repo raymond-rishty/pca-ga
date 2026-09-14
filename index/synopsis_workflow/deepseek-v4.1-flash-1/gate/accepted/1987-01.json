@@ -1,0 +1,51 @@
+{
+  "case_id": "1987-01",
+  "title": "TE Erwin Morrison et al. v. Philadelphia Presbytery",
+  "matter_type": "complaint",
+  "final_dispositions": [
+    "sustained",
+    "denied"
+  ],
+  "disposition_detail": "Specifications #1–#3 sustained (13-0; 11-1-1; 13-0); complaint upheld. Presbytery directed to find a temporary system of government for Church Without Walls conforming to the BCO, and to refrain from future ordination of Ruling Elders not duly elected by a particular church. Requested annulment of Lester Porter's ordination was denied; instead Presbytery was directed to establish proper ecclesiastical connections to bring the ordination into full conformity with the BCO. Presbytery was also encouraged to be more discerning in handling complaints as a court of original jurisdiction.",
+  "first_summary": "Philadelphia Presbytery ordained Lester Porter as a Ruling Elder of Presbytery for its cross-cultural Church Without Walls mission despite the lack of a particular-church membership. The Judicial Commission sustained the complaint and directed Presbytery to conform the mission's government and Porter's ordination to the BCO, while declining to annul the ordination.",
+  "summary": "Philadelphia Presbytery ordained Lester Porter as a Ruling Elder of Presbytery to serve a cross-cultural mission church with no particular-church members. The Assembly, adopting the Judicial Commission's adjudication, sustained all three specifications and upheld the complaint: the ordination lacked BCO compliance and the Presbytery mishandled the complaint. It refused to annul Porter's ordination—reasoning Presbytery may ordain Ruling Elders in organizing churches—but directed Presbytery to find a BCO-conforming temporary government for Church Without Walls, stop ordaining Ruling Elders not duly elected by a particular church, and bring Porter's ordination into conformity.",
+  "sources": [
+    {
+      "path": "cases/ga15_1987__case1.md",
+      "sha256": "b50b98185c7fd2554cec341fe0dc3025121d81ed9cf798b2b2607016d5c924d8",
+      "locator": "lines 11–13, 142–152, 156–162, 194, 218–228",
+      "supports": "Adoption by the Assembly, issue statements, sustained specifications, judgment, explanatory opinion, record-sufficiency note, and commission vote counts."
+    }
+  ],
+  "evidence_notes": {
+    "identity_and_adoption": "GA15 (1987), Case #1 / 15-73. The Assembly voted to approve the Judicial Commission's full statement of the case and judgment and to treat it as the Assembly's action and judgment (lines 11–13).",
+    "dispute": "Complainants challenged Philadelphia Presbytery's Nov. 15, 1986 action ordaining Lester Porter as a Ruling Elder of Presbytery to serve the borrowed session of Church Without Walls, and allowing a man to hold the RE office without membership in a particular PCA congregation; Presbytery denied the complaint on Jan. 10, 1987 (lines 25–39, 70–74, 122–132).",
+    "outcomes_and_reasons": "Specifications #1–#3 sustained (lines 144–148, 220–224). Judgment directed a BCO-conforming temporary government for Church Without Walls, no future ordination of Ruling Elders not duly elected by a particular church, no annulment of Porter's ordination, and establishment of proper connections to bring it into conformity (lines 150–152). Explanatory opinion reasoned the ordination should stand because Presbytery may ordain Ruling Elders in organizing churches and Porter had been examined and sustained for a specific ministry; it encouraged better handling of complaints and commended evangelistic zeal (lines 156–162).",
+    "qualifications": "The Commission noted the Philadelphia clerk failed to forward a proper record, but both parties agreed the materials presented were sufficient and correct (line 194). Vote counts show one dissent/abstention on Specification #2 (lines 146, 222). No separate dissent text appears.",
+    "incorporated_decisions": "No incorporated decision by reference; the Assembly adopted the Commission's adjudication as its own action and judgment (line 13)."
+  },
+  "source_limits": "The source contains the complaint, adopted adjudication, explanatory opinion, and Judicial Commission minutes, but not the full Philadelphia Presbytery record. The Commission noted the missing proper record but accepted the submitted materials as sufficient and correct (line 194). No separate opinion text is included; only vote counts are given.",
+  "benchmark_examples": [
+    "C01 Allin: a mixed-relief complaint synopsis should preserve procedural error, sustained claims, and refused relief.",
+    "C20 Daniels: where an adopted ruling gives no rationale, an editorial synopsis should not supply one."
+  ],
+  "scores": {
+    "concrete_dispute": 2,
+    "decision": 2,
+    "decisive_reason": 2,
+    "distinctive_value": 2,
+    "fidelity": 2,
+    "economy": 2
+  },
+  "score_reasons": {
+    "concrete_dispute": "Identifies the challenged ordination and the Presbytery's mishandling of the original complaint.",
+    "decision": "States all three specifications sustained, complaint upheld, refused annulment, and the directives issued.",
+    "decisive_reason": "Explains the adopted reason: ordination not in strict BCO compliance, but allowed to stand because Presbytery may ordain Ruling Elders in organizing churches and Porter was examined and sustained for a specific ministry.",
+    "distinctive_value": "Preserves the rule that Ruling Elders of Presbytery must be duly elected by a particular church, while allowing regularization rather than annulment.",
+    "fidelity": "Distinguishes the complaint, Assembly adoption, adjudication, explanatory opinion, and commission minutes without treating allegations as findings.",
+    "economy": "Keeps only facts, outcomes, reasons, and relief needed to understand the case."
+  },
+  "verification_notes": "First draft omitted the Presbytery's mishandling of the original complaint and the exact specification vote counts; the corrected summary adds all three sustained specifications, the refusal to annul, and the conformity directive. Rechecked Assembly adoption at lines 11–13; specification outcomes and judgment at lines 142–152; explanatory opinion at lines 156–162; record-sufficiency note at line 194; and Commission minutes and vote counts at lines 218–228. Confirmed no separate dissent text appears, only one dissent/abstention on Specification #2.",
+  "repair_needed": false,
+  "repair_notes": "None."
+}

@@ -1,0 +1,49 @@
+{
+  "case_id": "2010-06",
+  "title": "Peter Yuan, An Appeal to the Standing Judicial Commission of PCA Regarding Samuel Ling's Heresy",
+  "matter_type": "appeal",
+  "final_dispositions": [
+    "administratively_out_of_order"
+  ],
+  "disposition_detail": "The Standing Judicial Commission found Case 2010-06 administratively out of order.",
+  "first_summary": "Peter Yuan appealed to the SJC regarding alleged heresy by Samuel Ling. The Commission found the appeal administratively out of order but reported no reason or further relief.",
+  "summary": "Peter Yuan appealed to the SJC regarding alleged heresy by Samuel Ling. The Commission found Case 2010-06 administratively out of order. This brief status report supplies no reason for that ruling and identifies no further relief or proceedings.",
+  "sources": [
+    {
+      "path": "cases/ga38_2010__2010-05_2010-06.md",
+      "sha256": "a8b7409848d0a9717f5ae01c17fc3e24488f8623b35e79100bd55f2052f4d7f9",
+      "locator": "printed p. 129, lines 9–11",
+      "supports": "Case identity, characterization as an appeal concerning Samuel Ling's alleged heresy, and administrative-out-of-order disposition."
+    }
+  ],
+  "evidence_notes": {
+    "identity_and_adoption": "The SJC report names Case 2010-06 as Peter Yuan's appeal regarding Samuel Ling's heresy (printed p. 129, line 11).",
+    "dispute": "The record describes only an appeal concerning alleged heresy; it gives no underlying judgment or detailed allegations (printed p. 129, line 11).",
+    "outcomes_and_reasons": "The SJC found Case 2010-06 administratively out of order, without stating a reason (printed p. 129, line 11).",
+    "qualifications": "This is a sparse annual-report status entry; it states no relief, merits ruling, or remaining proceedings (printed pp. 129–130, lines 11–15).",
+    "incorporated_decisions": "No decision is incorporated by reference."
+  },
+  "source_limits": "The source provides only a one-line case identification and status; it contains no opinion, factual record, reasoning, or remedy.",
+  "benchmark_examples": [
+    "A19"
+  ],
+  "scores": {
+    "concrete_dispute": 2,
+    "decision": 2,
+    "decisive_reason": 2,
+    "distinctive_value": 2,
+    "fidelity": 2,
+    "economy": 2
+  },
+  "score_reasons": {
+    "concrete_dispute": "Identifies the appeal as concerning alleged heresy by Samuel Ling.",
+    "decision": "States the sole reported disposition and its administrative subtype.",
+    "decisive_reason": "Faithfully notes that the report provides no reason.",
+    "distinctive_value": "Preserves the distinction between an administrative ruling and a merits determination.",
+    "fidelity": "Does not treat the heresy allegation as established or infer an underlying judgment.",
+    "economy": "Includes only the issue, disposition, and source limitation."
+  },
+  "verification_notes": "Rechecked the operative case list at printed page 129: Case 2010-06—not Case 2010-05—was expressly found administratively out of order. Confirmed that no reason, merits ruling, or relief appears in the supplied text.",
+  "repair_needed": true,
+  "repair_notes": "The source front matter labels the disposition “sustained” and uses a conflated Carpenter/Siouxlands/Yuan heading, but the operative report identifies Case 2010-06 as Yuan's appeal and expressly finds it administratively out of order."
+}

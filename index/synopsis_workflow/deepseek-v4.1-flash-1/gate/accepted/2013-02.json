@@ -1,0 +1,67 @@
+{
+  "case_id": "2013-02",
+  "title": "Complaint: RE Warren Jackson vs. Northwest Georgia Presbytery",
+  "matter_type": "complaint",
+  "final_dispositions": [
+    "administratively_out_of_order"
+  ],
+  "disposition_detail": "Case 2013-02 was found Administratively Out of Order; no merits ruling, reasoning, or relief is recorded in the available text.",
+  "first_summary": "In Case 2013-02, a complaint by RE Warren Jackson against Northwest Georgia Presbytery, the 42nd General Assembly (2014) found the matter Administratively Out of Order. No separate merits opinion was published, so the record supplies no facts, allegations, reasoning, or relief. Companion Case 2013-05 was likewise found Administratively Out of Order, and Case 2013-09 was withdrawn as prematurely filed.",
+  "summary": "The 42nd General Assembly (2014) found Case 2013-02, a complaint by RE Warren Jackson against Northwest Georgia Presbytery, Administratively Out of Order. No merits opinion was published, and the surviving record gives no facts, grounds, adopted reasoning, or relief. The same disposition was entered in companion Case 2013-05, while Case 2013-09 was withdrawn as prematurely filed.",
+  "sources": [
+    {
+      "path": "cases/ga42_2014__stub_2013-02.md",
+      "sha256": "9731657f916f1bedd207dee315fae5472fb7c36d2e21d87f37adf5b4f4ca5f38",
+      "locator": "line 1 (case title)",
+      "supports": "canonical case ID 2013-02 and description as a complaint by RE Warren Jackson against Northwest Georgia Presbytery"
+    },
+    {
+      "path": "cases/ga42_2014__stub_2013-02.md",
+      "sha256": "9731657f916f1bedd207dee315fae5472fb7c36d2e21d87f37adf5b4f4ca5f38",
+      "locator": "line 3",
+      "supports": "deciding body (Standing Judicial Commission, 42nd Assembly 2014) and disposition Administratively Out of Order"
+    },
+    {
+      "path": "cases/ga42_2014__stub_2013-02.md",
+      "sha256": "9731657f916f1bedd207dee315fae5472fb7c36d2e21d87f37adf5b4f4ca5f38",
+      "locator": "line 5",
+      "supports": "no separate merits opinion was published; Assembly disposed as recorded"
+    },
+    {
+      "path": "cases/ga42_2014__stub_2013-02.md",
+      "sha256": "9731657f916f1bedd207dee315fae5472fb7c36d2e21d87f37adf5b4f4ca5f38",
+      "locator": "lines 9-10 (quoted Assembly minutes)",
+      "supports": "Cases 2013-02 and 2013-05 found Administratively Out of Order; Case 2013-09 withdrawn as prematurely filed"
+    }
+  ],
+  "evidence_notes": {
+    "identity_and_adoption": "Line 1 gives case ID 2013-02 and title; line 3 attributes the matter to the Standing Judicial Commission at the 42nd Assembly (2014). The stub states at line 5 that no separate merits opinion was published and that the Assembly disposed of the matter as recorded, so the quoted minute excerpt at lines 9-10 is the operative source.",
+    "dispute": "The only dispute information is the title at line 1: a complaint by RE Warren Jackson against Northwest Georgia Presbytery. The stub records no underlying allegations, challenged presbytery action, or procedural history.",
+    "outcomes_and_reasons": "Line 3 and lines 9-10 record a single disposition: Administratively Out of Order as to Case 2013-02 (with the same disposition for companion Case 2013-05). The source states no reason for the out-of-order ruling and reports no merits determination.",
+    "qualifications": "Line 5 expressly notes the absence of a published merits opinion. The adjacent minute text at lines 9-10 concerns other cases (2013-05 administratively out of order; 2013-09 withdrawn as prematurely filed) and should not be merged with the disposition of 2013-02.",
+    "incorporated_decisions": "None. The stub incorporates no referenced or adopted decision; it only quotes the Assembly minutes at lines 9-10."
+  },
+  "source_limits": "The assigned source is a one-paragraph stub. It supplies only the case ID, caption, deciding body, and the administrative out-of-order disposition. No facts, party allegations, adopted reasoning, relief, or separate opinions are available, so the synopsis is limited to status information and claims no more.",
+  "benchmark_examples": [
+    "C20 (2016-13 Daniels et al. v. Nashville Presbytery): short-record example showing that an unexplained disposition must be left unexplained in the editorial synopsis."
+  ],
+  "scores": {
+    "concrete_dispute": 1,
+    "decision": 2,
+    "decisive_reason": 2,
+    "distinctive_value": 1,
+    "fidelity": 2,
+    "economy": 2
+  },
+  "score_reasons": {
+    "concrete_dispute": "The caption identifies a complaint by RE Warren Jackson against Northwest Georgia Presbytery, but the stub gives no challenged conduct or court action, so the dispute is only nominally identified.",
+    "decision": "The sole operative disposition (administratively out of order) is stated exactly, with the companion cases noted separately as the source presents them.",
+    "decisive_reason": "The source gives no reason, and the synopsis faithfully says none was published rather than supplying one.",
+    "distinctive_value": "Limited: the item's value is chiefly that a complaint can be resolved administratively out of order without any published merits opinion or reasoning.",
+    "fidelity": "The synopsis distinguishes the disposition at lines 3 and 9-10 from the absence of an opinion at line 5, and does not convert other cases' dispositions into this one's or invent allegations.",
+    "economy": "Only the caption, deciding body, disposition, and the no-opinion qualification are retained; no filler."
+  },
+  "verification_notes": "Rechecked line 1 for the canonical ID, caption, and complaint characterization; line 3 for the deciding body (Standing Judicial Commission, 42nd Assembly 2014) and the disposition string 'Administratively Out of Order'; line 5 for the express statement that no separate merits opinion was published; and lines 9-10 for the quoted minutes. Confirmed the quote treats 2013-02 and 2013-05 as administratively out of order and 2013-09 as withdrawn as prematurely filed, and that none of those other cases' facts or reasons are attributed to 2013-02. Removed any draft implication of underlying facts, grounds, or relief, since the stub supplies none.",
+  "repair_needed": false,
+  "repair_notes": "No catalog or source defect identified: the assigned path and sha256 match the supplied authoritative text, and its sparse content is a stated source limit rather than an error."
+}

@@ -1,0 +1,69 @@
+{
+  "case_id": "1992-04",
+  "title": "William A. Conrad, et al. v. Central Carolina Presbytery",
+  "matter_type": "complaint",
+  "final_dispositions": [
+    "administratively_out_of_order",
+    "remanded"
+  ],
+  "disposition_detail": "Issue: whether Central Carolina Presbytery failed to act by remanding the complaints to the commission acting as Interim Session of Prosperity Presbyterian Church. The SJC answered no; it judged the complaint administratively out of order and remanded it to the Interim Session for adjudication, noting the complainants' right to carry complaints to a higher court.",
+  "first_summary": "Complainants challenged Central Carolina Presbytery's decision to remand their complaints to a commission acting as Interim Session of Prosperity Presbyterian Church. The SJC denied the complaint, finding Presbytery did not fail to act and that the Interim Session was the court of original jurisdiction. The case was remanded for adjudication.",
+  "summary": "Complainants alleged Central Carolina Presbytery failed to act when it remanded their complaints against the Prosperity Presbyterian Church Session to the commission acting as Interim Session. The SJC held Presbytery did not fail to act: that Interim Session was the court of original jurisdiction and should adjudicate the complaints timely. The SJC judged the complaint administratively out of order and remanded it to the Interim Session, reminding complainants of their right to appeal to a higher court.",
+  "sources": [
+    {
+      "path": "cases/ga20_1992__1992-04.md",
+      "sha256": "24f5b5b3ce28f9f2fe14a92786f05347e461ca6631a638d8f621a4ca1f44a5c3",
+      "locator": "lines 1–3",
+      "supports": "Case identity and disposition metadata: SJC, 20th General Assembly, 1992; administratively out of order; remanded."
+    },
+    {
+      "path": "cases/ga20_1992__1992-04.md",
+      "sha256": "24f5b5b3ce28f9f2fe14a92786f05347e461ca6631a638d8f621a4ca1f44a5c3",
+      "locator": "lines 18–38 (printed pp. 232–233)",
+      "supports": "Dispute facts and issue: Session dissolution, refusal to convene, Presbytery's remand of complaints to Interim Session, and question whether Presbytery failed to act."
+    },
+    {
+      "path": "cases/ga20_1992__1992-04.md",
+      "sha256": "24f5b5b3ce28f9f2fe14a92786f05347e461ca6631a638d8f621a4ca1f44a5c3",
+      "locator": "lines 40–50 (printed p. 233)",
+      "supports": "Holding and relief: Presbytery did not fail to act; Interim Session is court of original jurisdiction; complaint administratively out of order; remand for adjudication; right to complain to higher court."
+    },
+    {
+      "path": "cases/ga20_1992__1992-04.md",
+      "sha256": "24f5b5b3ce28f9f2fe14a92786f05347e461ca6631a638d8f621a4ca1f44a5c3",
+      "locator": "lines 58–60",
+      "supports": "SJC confirmation vote: 19 concurring, 1 dissenting."
+    }
+  ],
+  "evidence_notes": {
+    "identity_and_adoption": "Case No. 92-4, William A. Conrad, et al. v. Central Carolina Presbytery; decided by the SJC of the 20th General Assembly (1992), lines 1–3. The signed disposition is at lines 52–55 and was confirmed by the SJC 19–1 at lines 58–60.",
+    "dispute": "The complainants first challenged the Prosperity Presbyterian Church Session's dissolution and its failure/refusal to convene a Session meeting; those complaints were carried to Central Carolina Presbytery, which remanded them to the commission acting as Interim Session. The complainants then alleged to the General Assembly that Presbytery failed to act, lines 18–38.",
+    "outcomes_and_reasons": "The SJC held Presbytery did not fail to act when it remanded the complaints, because the Interim Session was the court of original jurisdiction and should adjudicate them timely. The complaint was judged administratively out of order and remanded to the Interim Session, lines 40–50.",
+    "qualifications": "The SJC reminded complainants of their right to carry complaints to the next higher court if necessary, lines 47–48. The confirmation vote was 19 concurring with 1 dissenting, line 60; no separate opinion is included.",
+    "incorporated_decisions": "None. The Session and Presbytery actions are procedural background, not incorporated decisions; the underlying complaints were remanded for adjudication, lines 26–32, 50."
+  },
+  "source_limits": "The source is a short judicial report. It gives the facts, issue, disposition, and vote, but not a full record, detailed merits reasoning, or the dissenting opinion. The additional informational items at lines 62–77 concern the SJC Manual and officers, not the judicial disposition.",
+  "benchmark_examples": [
+    "C01: preserve both procedural errors and unsuccessful claims; comparison only, not evidence.",
+    "C02: distinguish legitimate investigation from illegitimate censure; comparison only, not evidence."
+  ],
+  "scores": {
+    "concrete_dispute": 2,
+    "decision": 2,
+    "decisive_reason": 2,
+    "distinctive_value": 2,
+    "fidelity": 2,
+    "economy": 2
+  },
+  "score_reasons": {
+    "concrete_dispute": "Identifies the challenged Presbytery action: remanding complaints to the Interim Session instead of adjudicating them directly.",
+    "decision": "States the only material outcome: complaint administratively out of order and remanded, with no relief for complainants.",
+    "decisive_reason": "Explains the adopted reason: Presbytery did not fail to act because the Interim Session was the court of original jurisdiction.",
+    "distinctive_value": "Preserves the useful distinction between failure to act and a remand to the body with original jurisdiction, plus the appeal reminder.",
+    "fidelity": "Separates the underlying Session/Presbytery history from the SJC's adopted judgment and notes the 19–1 vote.",
+    "economy": "Includes only details needed to explain the dispute, ruling, and remedy."
+  },
+  "verification_notes": "Initial draft said the SJC 'denied' the complaint; rereading lines 40–50 shows the SJC judged it administratively out of order and remanded it to the Interim Session. Corrected the disposition detail and final summary. Rechecked the actor (SJC), challenged action (Presbytery's remand), issue answer (no failure to act), relief (remand for adjudication), vote (19–1), and the absence of any incorporated decision.",
+  "repair_needed": false,
+  "repair_notes": "No source or catalog defect identified."
+}

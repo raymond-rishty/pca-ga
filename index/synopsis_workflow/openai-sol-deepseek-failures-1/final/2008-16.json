@@ -1,0 +1,56 @@
+{
+  "case_id": "2008-16",
+  "title": "Hutchinson & Bulkeley v. Western Carolina Presbytery",
+  "matter_type": "complaint",
+  "final_dispositions": [
+    "not_sustained"
+  ],
+  "disposition_detail": "The SJC held that Presbytery did not err in handling RE Payne’s confession as a BCO 38-1 case without process. It declined to direct Presbytery to treat the confession as incomplete, find a strong presumption of additional sins, or institute further process.",
+  "first_summary": "Hutchinson and Bulkeley challenged Presbytery’s acceptance of RE Payne’s confession, seeking investigation and prosecution of additional alleged sins. The SJC did not sustain the complaint because such relief would effectively assume original jurisdiction and bypass the procedures prescribed by BCO 33-1 and 34-1. Additional allegations could instead be presented as formal charges to Payne’s Session, which could investigate, prosecute, or refer them to a higher court.",
+  "summary": "Ministers challenged Presbytery’s handling of RE Payne’s confession as a BCO 38-1 case without process, asking the SJC to declare it incomplete and require prosecution of additional alleged sins. The SJC did not sustain the complaint. It held that a complaint cannot bypass the BCO 33-1 and 34-1 procedures by seeking relief akin to original jurisdiction. Further allegations could be filed as formal charges with Payne’s Session, which could investigate, prosecute, or reference the matter to a higher court.",
+  "sources": [
+    {
+      "path": "cases/ga38_2010__2008-15_2008-16_2008-17_2008-18_2009-01_2009-03.md",
+      "sha256": "158c45613aa35c6dcf54c2262c79a0beaf4d2dcf7d33983f4db79f24df72b944",
+      "locator": "lines 410–443; printed p. 174",
+      "supports": "Case identity, issue, judgment, requested relief, decisive reasoning, and available procedure for additional charges."
+    },
+    {
+      "path": "cases/ga38_2010__2008-15_2008-16_2008-17_2008-18_2009-01_2009-03.md",
+      "sha256": "158c45613aa35c6dcf54c2262c79a0beaf4d2dcf7d33983f4db79f24df72b944",
+      "locator": "lines 594–598; printed p. 180",
+      "supports": "Panel drafting, amendment by the full Standing Judicial Commission, and recorded vote information."
+    }
+  ],
+  "evidence_notes": {
+    "identity_and_adoption": "The case heading and judgment identify Case 2008-16 as Hutchinson and Bulkeley’s complaint against WCP (lines 410–414, printed p. 174); the combined decision was drafted by the Panel and amended by the full SJC (line 594, printed p. 180).",
+    "dispute": "Complainants sought to have Payne’s confession deemed not a full statement and to require findings and process concerning additional alleged sins (lines 420–422, printed p. 174).",
+    "outcomes_and_reasons": "The SJC answered that Presbytery did not err; the requested relief resembled original jurisdiction and could not circumvent BCO 33-1 and 34-1 (lines 414, 424–429, printed p. 174).",
+    "qualifications": "Additional alleged sins could still be charged before Payne’s Session, which could investigate, prosecute, or reference the matter; Presbytery’s prior action did not prohibit further process (lines 431–443, printed p. 174).",
+    "incorporated_decisions": "No decision was incorporated by reference in Case 2008-16."
+  },
+  "source_limits": "The supplied source contains the operative issue, judgment, and reasoning for Case 2008-16 within a combined record of several related cases.",
+  "benchmark_examples": [
+    "C01",
+    "C20"
+  ],
+  "scores": {
+    "concrete_dispute": 2,
+    "decision": 2,
+    "decisive_reason": 2,
+    "distinctive_value": 2,
+    "fidelity": 2,
+    "economy": 2
+  },
+  "score_reasons": {
+    "concrete_dispute": "Identifies the challenge to Presbytery’s treatment of Payne’s confession and the demand for further process.",
+    "decision": "States that the complaint was not sustained and identifies the refused relief.",
+    "decisive_reason": "Explains that a complaint could not circumvent the prescribed original-jurisdiction procedures.",
+    "distinctive_value": "Preserves the distinction between complaint procedure and formal charges or original-jurisdiction procedures.",
+    "fidelity": "Separates the complainants’ requests, Presbytery’s prior action, and the SJC’s adopted ruling.",
+    "economy": "Retains only facts needed to explain the dispute, result, reason, and remaining avenue."
+  },
+  "verification_notes": "Rechecked that the operative judgment answers “No,” making the complaint not sustained rather than a grant of further process; also confirmed that this case concerns the completeness and handling of the confession, not the separate sacramental-censure issue in Case 2008-17.",
+  "repair_needed": false,
+  "repair_notes": ""
+}

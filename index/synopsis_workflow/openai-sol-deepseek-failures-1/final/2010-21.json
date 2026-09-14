@@ -1,0 +1,50 @@
+{
+  "case_id": "2010-21",
+  "title": "Korean Southeastern Presbytery — Citation regarding Assignment from GA/Review of Presbytery Records",
+  "matter_type": "bco_40_5_matter",
+  "final_dispositions": [
+    "other",
+    "referred"
+  ],
+  "disposition_detail": "The SJC found that Korean Southeastern Presbytery had submitted its previously missing Minutes and directed that they be forwarded to the Committee on Review of Presbytery Records.",
+  "first_summary": "After citing Korean Southeastern Presbytery under BCO 40-5 for failing to submit its Minutes, the SJC found that the Minutes had been submitted and ordered them forwarded to the Committee on Review of Presbytery Records. The ruling resolved the citation’s production issue but did not approve the Minutes substantively.",
+  "summary": "Korean Southeastern Presbytery was cited under BCO 40-5 for failing to submit its Minutes. The SJC found that Presbytery had since submitted them and directed that they be forwarded to the Committee on Review of Presbytery Records. The decision established compliance with the submission requirement; it did not report substantive exceptions or approve the Minutes on review.",
+  "sources": [
+    {
+      "path": "cases/ga39_2011__2010-18_2010-19_2010-20_2010-21_2010-22_2010-23.md",
+      "sha256": "41b8748bcd164a778a9130894f99b3c0bd7274505043ec66a02b5050cdfe6a9b",
+      "locator": "lines 21–23, 33, 37–53, 55–59; printed pp. 601–602",
+      "supports": "Case identity, collective adoption, BCO 40-5 citation for failure to submit Minutes, subsequent submission, and forwarding to the records-review committee."
+    }
+  ],
+  "evidence_notes": {
+    "identity_and_adoption": "Lines 21–23 identify case 2010-21; lines 33 and 55–59 show the collective decision was adopted.",
+    "dispute": "Lines 37–45 (printed p. 602) identify the BCO 40-5 citation and Korean Southeastern Presbytery’s failure to submit Minutes.",
+    "outcomes_and_reasons": "Lines 49 and 53 state that Presbytery responded, submitted its Minutes, and would have them forwarded to the Committee on Review of Presbytery Records.",
+    "qualifications": "Unlike several companion cases, 2010-21 is not identified as involving exceptions of substance (lines 39–47). The source records submission and forwarding, not substantive approval.",
+    "incorporated_decisions": "No decision is incorporated by reference."
+  },
+  "source_limits": "The source provides a short collective administrative ruling and no additional reasoning concerning the contents of this Presbytery’s Minutes.",
+  "benchmark_examples": [
+    "R01"
+  ],
+  "scores": {
+    "concrete_dispute": 2,
+    "decision": 2,
+    "decisive_reason": 2,
+    "distinctive_value": 2,
+    "fidelity": 2,
+    "economy": 2
+  },
+  "score_reasons": {
+    "concrete_dispute": "Identifies the failure to submit Minutes that prompted the citation.",
+    "decision": "States both the compliance finding and forwarding of the Minutes.",
+    "decisive_reason": "The operative reason was that Presbytery had submitted the missing Minutes.",
+    "distinctive_value": "Distinguishes compliance with production from substantive records approval.",
+    "fidelity": "Separates this case’s missing-Minutes issue from substantive exceptions in companion cases.",
+    "economy": "Retains only the citation, compliance finding, referral, and limiting distinction."
+  },
+  "verification_notes": "Rechecked the collective judgment and corrected the synopsis to specify that 2010-21 concerned only failure to submit Minutes, not exceptions of substance; also clarified that forwarding enabled further records review rather than constituting substantive approval.",
+  "repair_needed": false,
+  "repair_notes": ""
+}

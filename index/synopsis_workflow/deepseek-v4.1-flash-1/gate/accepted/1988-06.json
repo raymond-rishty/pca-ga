@@ -1,0 +1,51 @@
+{
+  "case_id": "1988-06",
+  "title": "TE James Serio et al. v. Palmetto Presbytery",
+  "matter_type": "complaint",
+  "final_dispositions": [
+    "sustained",
+    "annulled"
+  ],
+  "disposition_detail": "Complaint sustained. Specification #1 was sustained 17-0 and Specification #2 sustained 11-6. The adopted judgment found Palmetto Presbytery in error for sustaining John Tomlinson's licensure examination and granting licensure because his views on continuing noncanonical revelation were unconstitutional. It directed Presbytery to annul the theology portion of the examination and suspend licensure, appoint at least two men to counsel and instruct Tomlinson, re-examine him in theology, exercise greater care in licensure examinations, and report to the 17th General Assembly through the Committee on Review and Control. The Commission also admonished Presbytery to prepare and examine candidates more diligently.",
+  "first_summary": "Palmetto Presbytery sustained John Tomlinson's licensure examination despite his views that God continues special revelation through prophecy, tongues, dreams, and visions. The Judicial Commission sustained the complaint, holding those views unconstitutional under WCF I.1, I.6, and BCO 7-1. It annulled the theology portion of the examination, suspended Tomlinson's licensure, directed counseling and re-examination in theology, and required the presbytery to report to the 17th General Assembly.",
+  "summary": "Complaint sustained. Palmetto Presbytery had sustained John Tomlinson's licensure examination though he affirmed continuing noncanonical revelation through prophecy, tongues, dreams, and visions. The Committee on Judicial Business, adopted by the 16th General Assembly, held those views fundamentally contrary to WCF I.1, I.6, and BCO 7-1 and sustained both specifications. It directed Presbytery to annul the theology portion and suspend licensure, appoint two men to counsel him, re-examine him, exercise greater care in licensure, and report to the 17th General Assembly.",
+  "sources": [
+    {
+      "path": "cases/ga16_1988__case6.md",
+      "sha256": "7b121f5249306fabf21f3306540da362819a88decfc0fcba9e88187fb50d1f6a",
+      "locator": "lines 11–19, 106–174, 214–218, 228–236",
+      "supports": "Canonical case identity, adoption, complaint facts, adjudication, specifications, explanatory opinion, and commission minutes."
+    }
+  ],
+  "evidence_notes": {
+    "identity_and_adoption": "Case #10, TE James Serio et al. v. Palmetto Presbytery, was presented by the Commission, whose judgment was approved and report adopted at the 16th General Assembly (lines 11–19). Commission membership and minutes appear at lines 176–236; negative votes on adoption are recorded at line 15.",
+    "dispute": "Palmetto Presbytery sustained John Tomlinson's licensure examination on April 28, 1988, then refused to sustain the complaint against that action on May 31, 1988. Complainants alleged Tomlinson's views on continuing revelation contradicted WCF I.1, I.6, BCO 7-1, BCO 19-3, and prior GA positions (lines 19, 27–45, 106–136).",
+    "outcomes_and_reasons": "Specification #1 sustained 17-0 and Specification #2 sustained 11-6 (lines 214–218). The judgment found error in sustaining the examination and granting licensure because Tomlinson's views were unconstitutional and fundamentally out of accord with PCA doctrine (lines 140–142). The explanatory opinion held WCF I.1 and I.6, BCO 7-1, and the sufficiency of Scripture exclude noncanonical continuing revelation (lines 162–170). Relief directed annulment of the theology examination, suspension of licensure, counseling, re-examination, greater care, and report to the 17th General Assembly (lines 146–158).",
+    "qualifications": "The Commission admonished Palmetto Presbytery to prepare and examine candidates more diligently (line 174). The directive to annul is relief ordered to Presbytery, not an independent acquittal or criminal finding. Negative votes were recorded without separate reasons (line 15).",
+    "incorporated_decisions": "The complaint cites prior Bogue and Gentry explanatory opinions and Digest Judicial Case No. 50 as authority (lines 69–78, 170). Those decisions are not reproduced and are not adopted by reference for the result; no material incorporated result is missing."
+  },
+  "source_limits": "The source supplies the adopted adjudication, complaint, explanatory opinion, and commission minutes, but not full texts of prior cited decisions or the complete lower-court record beyond summarized facts. Negative votes are listed without reasons.",
+  "benchmark_examples": [
+    "C01 Allin et al. v. Tennessee Valley Presbytery: preserve both procedural errors and an unsuccessful claim while sustaining in part.",
+    "C02 Turner et al. v. South Florida Presbytery: distinguish legitimate investigation from illegitimate censure and identify the precise relief."
+  ],
+  "scores": {
+    "concrete_dispute": 2,
+    "decision": 2,
+    "decisive_reason": 2,
+    "distinctive_value": 2,
+    "fidelity": 2,
+    "economy": 2
+  },
+  "score_reasons": {
+    "concrete_dispute": "Identifies Palmetto Presbytery's licensure action and refusal of the complaint.",
+    "decision": "States the sustained complaint, both specifications, and all material relief.",
+    "decisive_reason": "Explains the adopted constitutional holding under WCF I.1/I.6 and BCO 7-1.",
+    "distinctive_value": "Preserves the rule against continuing noncanonical revelation and the counseling/re-examination remedy.",
+    "fidelity": "Keeps complaint allegations, adopted judgment, prior citations, and negative-vote qualification distinct.",
+    "economy": "Uses about 80 words while retaining issue, reason, result, and next step."
+  },
+  "verification_notes": "Rechecked the adopted judgment at lines 138–158 and commission minutes at lines 214–218. Corrected the first summary's statement that the Commission itself annulled licensure; the judgment directs Palmetto Presbytery to annul the theology portion and suspend licensure. Added the exact specification votes and clarified that Bogue, Gentry, and Digest Case No. 50 are cited authority, not incorporated decisions. Verified all relief items, the admonition, and the recorded negative votes.",
+  "repair_needed": false,
+  "repair_notes": "No repair needed."
+}

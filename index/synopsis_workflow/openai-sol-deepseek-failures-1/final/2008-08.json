@@ -1,0 +1,49 @@
+{
+  "case_id": "2008-08",
+  "title": "Complaint of DE Joong Min Soh vs. Philadelphia Presbytery",
+  "matter_type": "complaint",
+  "final_dispositions": [
+    "out_of_order"
+  ],
+  "disposition_detail": "The complaint was found out of order. The record gives no subtype, rationale, merits determination, or relief.",
+  "first_summary": "The SJC found DE Joong Min Soh’s complaint against Philadelphia Presbytery out of order. The published record provides no explanation, merits ruling, or relief.",
+  "summary": "The 37th General Assembly record reports that DE Joong Min Soh’s complaint against Philadelphia Presbytery was found out of order. It does not identify the challenged action, specify an administrative or judicial subtype, explain the ruling, reach the merits, or record any relief.",
+  "sources": [
+    {
+      "path": "cases/ga37_2009__stub_2008-08.md",
+      "sha256": "4d0fada1c8ac5b7d75aae1b1ecdeafa7874d8576c3e511f0db9b1142cf0963ab",
+      "locator": "lines 1–11",
+      "supports": "Case identity, court and Assembly metadata, out-of-order disposition, and absence of a separate merits opinion."
+    }
+  ],
+  "evidence_notes": {
+    "identity_and_adoption": "Lines 1–5 identify case 2008-08, the parties, the SJC, and the 37th Assembly record.",
+    "dispute": "Line 1 identifies a complaint against Philadelphia Presbytery; the challenged action and grounds are not stated.",
+    "outcomes_and_reasons": "Lines 3, 5, and 9 report that the matter was out of order and provide no merits opinion or rationale.",
+    "qualifications": "Line 9 groups this case with several others; it does not specify an administrative or judicial out-of-order subtype.",
+    "incorporated_decisions": "No decision is incorporated by reference; line 11 merely cites the Assembly source."
+  },
+  "source_limits": "This sparse record supplies only the status disposition. It does not disclose the underlying controversy, reasoning, relief, or further proceedings.",
+  "benchmark_examples": [
+    "C20"
+  ],
+  "scores": {
+    "concrete_dispute": 0,
+    "decision": 2,
+    "decisive_reason": 2,
+    "distinctive_value": 1,
+    "fidelity": 2,
+    "economy": 2
+  },
+  "score_reasons": {
+    "concrete_dispute": "The source identifies the complainant and Presbytery but not the challenged conduct.",
+    "decision": "The sole recorded disposition—out of order—is stated without adding a subtype.",
+    "decisive_reason": "The synopsis faithfully states that no reason was published.",
+    "distinctive_value": "It preserves the important limitation that the record contains no merits ruling or procedural subtype.",
+    "fidelity": "It distinguishes the recorded disposition from absent reasoning and avoids attributing unsupported findings.",
+    "economy": "Every detail explains either the disposition or the record’s limits."
+  },
+  "verification_notes": "Rechecked lines 1–11. The final summary replaces the first summary’s direct attribution to the SJC with the more precise statement that the General Assembly record reports the result, and it expressly avoids inferring a subtype, merits ruling, or relief.",
+  "repair_needed": false,
+  "repair_notes": "No source or catalog defect is apparent; the record is merely sparse."
+}

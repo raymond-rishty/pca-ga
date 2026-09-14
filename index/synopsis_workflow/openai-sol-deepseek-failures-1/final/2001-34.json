@@ -1,0 +1,64 @@
+{
+  "case_id": "2001-34",
+  "title": "RE Leland Nichols and RE Sam Couch v. James River Presbytery",
+  "matter_type": "complaint",
+  "final_dispositions": [
+    "judicially_out_of_order",
+    "in_order",
+    "sustained",
+    "not_sustained"
+  ],
+  "disposition_detail": "In the consolidated decision, seven complaints—07-01, 10-01, 13-01, the unnumbered 2002-02 complaint, 16-01, 18-01, and 19-01—were judicially out of order; the others were in order. The SJC sustained the challenge to Presbytery’s delay in dissolving the pastoral relationship but did not sustain the challenge to Presbytery’s three-month gift equivalent to the pastor’s salary and allowances. No remand or additional relief was ordered.",
+  "first_summary": "Church members challenged Presbytery’s repeated delay in granting their congregation’s properly adopted request to dissolve its pastoral relationship and its later gift equivalent to three months of the pastor’s compensation. The SJC found seven of the consolidated complaints judicially out of order but held that Presbytery lacked a constitutional basis to delay the valid dissolution request. It rejected the compensation challenge because Presbytery controlled its own benevolent giving. The judgment ordered no further relief.",
+  "summary": "Church members challenged Presbytery’s repeated delay in granting a properly adopted congregational request to dissolve its pastoral relationship and its gift equivalent to three months of the pastor’s compensation. The SJC found seven complaints judicially out of order, sustained the dissolution-delay challenge, and rejected the gift challenge because Presbytery controlled its own civil property. No further relief was ordered. A concurrence would permit delay based on objective, justifiable findings, but concluded that Presbytery’s stated grounds were insufficient.",
+  "sources": [
+    {
+      "path": "cases/ga33_2005__2001-34_2002-02_2002-03.md",
+      "sha256": "52e813b92c9768e97716c84fe3a88bdbe80f7ec6b4773e108b4afb253cb5e938",
+      "locator": "lines 292–325; printed pp. 84–85",
+      "supports": "Issues and operative judgment, including procedural and merits outcomes."
+    },
+    {
+      "path": "cases/ga33_2005__2001-34_2002-02_2002-03.md",
+      "sha256": "52e813b92c9768e97716c84fe3a88bdbe80f7ec6b4773e108b4afb253cb5e938",
+      "locator": "lines 328–418, 592–641; printed pp. 85–97",
+      "supports": "Reasons for the out-of-order rulings, dissolution decision, and rejection of the gift challenge."
+    },
+    {
+      "path": "cases/ga33_2005__2001-34_2002-02_2002-03.md",
+      "sha256": "52e813b92c9768e97716c84fe3a88bdbe80f7ec6b4773e108b4afb253cb5e938",
+      "locator": "lines 645–671; printed pp. 97–98",
+      "supports": "Full-SJC adoption and the concurrence’s qualification."
+    }
+  ],
+  "evidence_notes": {
+    "identity_and_adoption": "The consolidated caption identifies Cases 2001-34/2002-02/2002-03 (lines 1, 13–25); the full SJC approved the decision October 22, 2004 (lines 645–655).",
+    "dispute": "The stated issues concern delayed dissolution and Presbytery’s compensation gift (lines 292–299, printed p. 84).",
+    "outcomes_and_reasons": "The judgment lists seven out-of-order complaints, finds the dissolution delay erroneous, and upholds the gift (lines 300–325); supporting reasons appear at lines 328–418 and 592–641.",
+    "qualifications": "The separate concurrence rejected automatic acquiescence and would allow objective, justifiable grounds for delay, though none existed here (lines 659–671, printed p. 98).",
+    "incorporated_decisions": "The majority invoked principles from Cases 91-2 and 92-2 concerning implementation of valid congregational decisions; neither supplied the disposition by reference (lines 494–570, printed pp. 91–94)."
+  },
+  "source_limits": "The source consolidates three cases and seventeen complaints but does not expressly map every in-order complaint to a separate merits disposition or order additional relief.",
+  "benchmark_examples": [
+    "C01"
+  ],
+  "scores": {
+    "concrete_dispute": 2,
+    "decision": 2,
+    "decisive_reason": 2,
+    "distinctive_value": 2,
+    "fidelity": 2,
+    "economy": 2
+  },
+  "score_reasons": {
+    "concrete_dispute": "Identifies both challenged Presbytery actions.",
+    "decision": "States the procedural split and both merits outcomes.",
+    "decisive_reason": "Explains the valid congregational request and Presbytery’s control of its civil property.",
+    "distinctive_value": "Preserves the majority rule and the concurrence’s narrower qualification.",
+    "fidelity": "Separates the adopted judgment from the concurrence and avoids implying unawarded relief.",
+    "economy": "Retains only facts needed to explain the mixed result."
+  },
+  "verification_notes": "Rechecked the judgment’s seven-item out-of-order list, the ruling that all remaining complaints were in order, both merits answers, and the absence of remand or rescission. The final summary adds the separate concurrence’s qualification and characterizes the monetary action as control of Presbytery’s civil property rather than merely benevolent discretion.",
+  "repair_needed": false,
+  "repair_notes": ""
+}

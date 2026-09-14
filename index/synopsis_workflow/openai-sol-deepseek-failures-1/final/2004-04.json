@@ -1,0 +1,49 @@
+{
+  "case_id": "2004-04",
+  "title": "Appeal of Jerguson v. Western Carolina",
+  "matter_type": "appeal",
+  "final_dispositions": [
+    "judicially_out_of_order"
+  ],
+  "disposition_detail": "The SJC held the appeal judicially out of order under BCO 42-2 because Presbytery was rehearing the case, leaving it unready for higher-court review.",
+  "first_summary": "The SJC declined to review Jerguson’s appeal while Western Carolina Presbytery was rehearing the case, finding higher-court review premature under BCO 42-2.",
+  "summary": "The SJC held Jerguson’s appeal judicially out of order under BCO 42-2 because Western Carolina Presbytery was rehearing the case. The matter therefore was not ready for higher-court review. The decision did not reach the merits or dismiss the underlying Presbytery proceedings.",
+  "sources": [
+    {
+      "path": "cases/ga33_2005__2004-04.md",
+      "sha256": "32d871964cebce207ab1f52597da98bd304fcb9b783aea73846cce04afb48998",
+      "locator": "printed p. 130, lines 12–20",
+      "supports": "Case identity, SJC adoption, judicially-out-of-order disposition, BCO 42-2 basis, and pending Presbytery rehearing."
+    }
+  ],
+  "evidence_notes": {
+    "identity_and_adoption": "Printed p. 130, lines 12–20 identifies Case 2004-4 and records the full SJC’s concurrence with the panel, adopted 20-0.",
+    "dispute": "Printed p. 130, lines 16–18 addresses whether the appeal was ready for higher-court review while Presbytery reheard it.",
+    "outcomes_and_reasons": "Printed p. 130, lines 16–18 holds the case judicially out of order under BCO 42-2 because it was being reheard by Presbytery.",
+    "qualifications": "The notice gives no merits ruling or description of the underlying dispute; printed p. 130, lines 16–18.",
+    "incorporated_decisions": "No external decision is incorporated; the full SJC expressly concurred with the panel’s stated ruling, printed p. 130, lines 16–18."
+  },
+  "source_limits": "The source is a sparse disposition notice and does not describe the underlying claims, Presbytery’s prior ruling, or the rehearing’s eventual result.",
+  "benchmark_examples": [
+    "A20"
+  ],
+  "scores": {
+    "concrete_dispute": 2,
+    "decision": 2,
+    "decisive_reason": 2,
+    "distinctive_value": 2,
+    "fidelity": 2,
+    "economy": 2
+  },
+  "score_reasons": {
+    "concrete_dispute": "Identifies the timing question created by the pending Presbytery rehearing.",
+    "decision": "States the exact judicially-out-of-order ruling and absence of merits review.",
+    "decisive_reason": "Gives the adopted BCO 42-2 prematurity rationale.",
+    "distinctive_value": "Preserves the distinction between premature appellate review and dismissal of underlying proceedings.",
+    "fidelity": "Attributes the ruling to the SJC and does not infer underlying facts or merits.",
+    "economy": "Includes only the procedural issue, ruling, reason, and consequence."
+  },
+  "verification_notes": "Rechecked lines 16–18 and corrected the catalog disposition “dismissed” to the operative ruling “judicially out of order”; also confirmed that Presbytery rehearing, not referral or remand by the SJC, was the stated reason review was premature.",
+  "repair_needed": true,
+  "repair_notes": "The source front matter at line 3 labels the disposition “dismissed,” but the operative judgment at lines 16–18 says “judicially out of order.” The catalog metadata should be corrected."
+}

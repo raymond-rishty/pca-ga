@@ -1,0 +1,50 @@
+{
+  "case_id": "2015-07",
+  "title": "Thompson v. South Florida Presbytery",
+  "matter_type": "complaint",
+  "final_dispositions": [
+    "administratively_out_of_order",
+    "dismissed"
+  ],
+  "disposition_detail": "Complaint found administratively out of order under OMSJC 9.1.a. and dismissed as prematurely filed; the SJC held it could not be put in order because BCO 43-2 did not require South Florida Presbytery to consider the complaint before its next stated meeting. The approved officers' recommendation also stated that the petitioner's BCO 40-5 application was prematurely filed with the SJC. No merits determination was made.",
+  "first_summary": "A complaint filed with the SJC before South Florida Presbytery had considered it was found administratively out of order and dismissed as premature. The SJC relied on BCO 43-2, which does not require a court to consider a complaint until its next stated meeting, and concluded the case could not be put in order. No merits were reached.",
+  "summary": "The SJC dismissed John B. Thompson's complaint against South Florida Presbytery as administratively out of order and prematurely filed. Because BCO 43-2 did not require the presbytery to consider the complaint until its next stated meeting, and that meeting had not yet occurred, the SJC held the case could not be put in order under the BCO or OMSJC. The unanimous officers' recommendation also called Thompson's BCO 40-5 application premature. No merits were reached.",
+  "sources": [
+    {
+      "path": "cases/ga44_2016__2015-07.md",
+      "sha256": "3fda208e28a50cbc8a68f8eb0fe838f390116dfc4632a29d077cdb416b9e0f44",
+      "locator": "lines 13–28 (printed pp. 521–522)",
+      "supports": "Caption, SJC decision on complaint, administrative out-of-order and dismissal reasoning, unanimous roll call."
+    }
+  ],
+  "evidence_notes": {
+    "identity_and_adoption": "Case 2015-07, Thompson v. South Florida Presbytery; SJC decision on complaint dated Aug. 12, 2015, with roll call concurrences except three absent members. Source lines 13–28 (printed pp. 521–522).",
+    "dispute": "Petitioner filed a complaint/BCO 40-5 application with the SJC before South Florida Presbytery's next stated meeting (Aug. 11, 2015) had considered the complaint. Source lines 18–24, 26.",
+    "outcomes_and_reasons": "SJC found the complaint administratively out of order under OMSJC 9.1.a. and dismissed it as prematurely filed; BCO 43-2 does not require consideration until the lower court's next stated meeting, and the case could not be put in order. Source lines 17–26.",
+    "qualifications": "No merits review; dismissal rests on prematurity. The formal decision addresses the complaint under BCO 43-2, while the approved officers' recommendation refers to a prematurely filed BCO 40-5 application. Source lines 17–26.",
+    "incorporated_decisions": "None identified; no incorporated decision appears in the supplied source. Source lines 13–28."
+  },
+  "source_limits": "Sparse administrative decision, two printed pages; no lower-court record, no merits analysis, and no separate opinions. The only adopted reasoning appears in the decision and the approved officers' recommendation.",
+  "benchmark_examples": [
+    "C20. 2016-13 Daniels et al. v. Nashville Presbytery — short-record example; do not supply reasons beyond the adopted ruling."
+  ],
+  "scores": {
+    "concrete_dispute": 2,
+    "decision": 2,
+    "decisive_reason": 2,
+    "distinctive_value": 2,
+    "fidelity": 2,
+    "economy": 2
+  },
+  "score_reasons": {
+    "concrete_dispute": "Identifies the premature complaint/application to the SJC before the presbytery's next stated meeting.",
+    "decision": "States the administrative out-of-order finding and dismissal; notes that no merits were reached.",
+    "decisive_reason": "Explains the BCO 43-2 next-stated-meeting requirement and the SJC's inability to put the case in order.",
+    "distinctive_value": "Captures the rule that a complaint is premature if filed before the lower court's next stated meeting.",
+    "fidelity": "Separates the formal decision, officers' recommendation, and roll call; does not convert dismissal into a merits ruling.",
+    "economy": "Short synopsis limited to dispute, disposition, reason, and the key qualification."
+  },
+  "verification_notes": "Rechecked the source caption, date, and roll call (lines 13–28); confirmed the operative disposition is administrative out-of-order followed by dismissal, not a merits denial or acquittal. Corrected first_summary to add the approved officers' recommendation's BCO 40-5 language and to distinguish it from the formal BCO 43-2 rationale. Confirmed no incorporated decision or separate opinion appears.",
+  "repair_needed": false,
+  "repair_notes": "No source or catalog defect identified."
+}

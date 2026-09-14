@@ -1,0 +1,51 @@
+{
+  "case_id": "2021-13",
+  "title": "Dudt v. Northwest Georgia Presbytery",
+  "matter_type": "appeal",
+  "final_dispositions": [
+    "sustained",
+    "reversed",
+    "not_guilty"
+  ],
+  "disposition_detail": "The SJC sustained the appeal, reversed the Session and Presbytery decisions in whole, rendered a not-guilty judgment on both charges, removed Dudt's conviction and indefinite suspension, and restored him fully to office. Fourteen of 40 Session specifications—including one in part—and eight of 15 Presbytery specifications were sustained; the others were not sustained.",
+  "first_summary": "A ruling elder appealed convictions for distributing an SJC decision contrary to Session's will and for allegedly false statements in an email opposing a pastoral-election proposal. The SJC sustained the appeal, reversed Session and Presbytery in whole, rendered not guilty, removed the indefinite suspension, and restored him to office. It found no lawful basis for forbidding distribution, no express prohibition, no proof of falsity, and multiple procedural errors.",
+  "summary": "A ruling elder appealed convictions for distributing an SJC decision contrary to Session's will and for allegedly false, divisive statements in an email opposing a pastoral-election proposal. The SJC sustained the appeal, reversed Session and Presbytery in whole, rendered not guilty, removed the indefinite suspension, and restored him to office. Session could not bind conscience without scriptural authority, and no express prohibition or proof of falsity existed. Many other specifications were rejected; a concurrence cautioned that such emails are rarely wise.",
+  "sources": [
+    {
+      "path": "cases/ga49_2022__2021-13.md",
+      "sha256": "28377ed413fd0d56f089fdb51945734eaf3cf1c548a9b03ac30206daebade8ff",
+      "locator": "printed pp. 896–916, lines 65–568, especially judgment at lines 83–97 and reasons at lines 115–145",
+      "supports": "Charges, appeal, mixed specification results, controlling reasons, complete relief, adoption, and concurring qualification."
+    }
+  ],
+  "evidence_notes": {
+    "identity_and_adoption": "Caption identifies Case 2021-13 and the SJC appeal decision (printed p. 892, line 11); the SJC modified and approved the panel decision 19-0-0 (p. 914, lines 533–537).",
+    "dispute": "The indictment charged disobedience for distributing SJC 2019-03 and violation of the ninth commandment through the July 12 email (p. 895, lines 65–69); the appellate issue encompassed both convictions, censure, and Presbytery's affirmance (p. 896, lines 83–85).",
+    "outcomes_and_reasons": "The decisions were reversed in whole, a not-guilty judgment rendered, and Dudt restored fully to office (p. 896, lines 87–89). Fourteen Session and eight Presbytery specifications were sustained (pp. 896–897, lines 93–97). Principal merits reasons appear at pp. 897–899, lines 115–145.",
+    "qualifications": "Numerous specifications were not sustained, including challenges concerning investigation, recusals, executive session, and independent moderation. The concurrence warned that elders' public disagreement emails are rarely wise, while agreeing that these charges were unproved (pp. 915–916, lines 560–568).",
+    "incorporated_decisions": "No prior decision was incorporated as the operative judgment. Earlier SJC decisions were used as background or authority, including 2019-03, 2015-11, and 1998-08 (lines 29, 153, 336–340)."
+  },
+  "source_limits": "The supplied text contains the operative judgment, detailed reasoning, adoption vote, and concurrence, but not the underlying record of the case beyond quoted or summarized portions.",
+  "benchmark_examples": [
+    "A01"
+  ],
+  "scores": {
+    "concrete_dispute": 2,
+    "decision": 2,
+    "decisive_reason": 2,
+    "distinctive_value": 2,
+    "fidelity": 2,
+    "economy": 2
+  },
+  "score_reasons": {
+    "concrete_dispute": "Identifies both charges and the challenged lower-court judgments.",
+    "decision": "States the sustained appeal, whole reversal, not-guilty judgment, relief, and mixed specification outcomes.",
+    "decisive_reason": "Gives the controlling constitutional and evidentiary deficiencies.",
+    "distinctive_value": "Preserves the conscience-binding limitation and the concurrence's caution.",
+    "fidelity": "Separates the adopted decision from the concurrence and distinguishes successful from rejected specifications.",
+    "economy": "Retains only facts needed to explain the dispute, result, reasons, and limitation."
+  },
+  "verification_notes": "Rechecked the judgment at lines 87–89, aggregate specification results at lines 93–97, principal merits rulings at lines 115–145, and concurrence at lines 539–568. The final summary adds the rejected specifications and labels the caution as concurring rather than adopted reasoning.",
+  "repair_needed": false,
+  "repair_notes": ""
+}

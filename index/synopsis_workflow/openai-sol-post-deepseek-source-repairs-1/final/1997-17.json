@@ -1,0 +1,49 @@
+{
+  "case_id": "1997-17",
+  "title": "Dennis Lebo v. Susquehanna Valley Presbytery",
+  "matter_type": "complaint",
+  "final_dispositions": [
+    "denied"
+  ],
+  "disposition_detail": "The Standing Judicial Commission upheld the Panel’s ruling and denied the complaint, answering no to both whether Presbytery erred and whether it affirmed that Session had ceded budget approval to the congregation.",
+  "first_summary": "A member challenged Presbytery’s approval of a congregational motion supplementing an assistant-pastor fund, arguing that Session had surrendered its exclusive budget authority. The SJC denied the complaint. It held that the motion addressed a special circumstance rather than approval of the budget and expressly left the salary figure to the elders and deacons. Session had already approved the budget and retained full control of church funds, so the congregation’s action did not violate BCO 12-5b.",
+  "summary": "A member challenged Presbytery’s approval of a congregational motion supplementing an assistant-pastor fund, alleging that Session had ceded its budget authority. The SJC denied both issues. The motion addressed a special circumstance, not approval of the budget, and left the salary figure to the elders and deacons; Session had already approved the budget and retained control of church funds. The ruling was confined to the congregation’s particular circumstances and did not approve congregational budget adoption.",
+  "sources": [
+    {
+      "path": "cases/ga27_1999__1997-17.md",
+      "sha256": "badf13e583e9041d8abe4f28f0d0dc4d7857a1597e71394f3defe6c59e78528b",
+      "locator": "lines 1-75; printed pp. 78-79",
+      "supports": "Case identity, issues, judgment, adopted reasoning, denial, and vote."
+    }
+  ],
+  "evidence_notes": {
+    "identity_and_adoption": "The caption identifies Case 97-17 and the parties; the SJC approved the decision 19-1, with one recusal (lines 1-13, 73-75).",
+    "dispute": "The complaint challenged Presbytery’s denial concerning the congregation’s transfer of carry-over funds and alleged cession of Session’s budget authority (lines 21-35; printed p. 78).",
+    "outcomes_and_reasons": "Both questions were answered no. The motion concerned a special circumstance, preserved elders’ and deacons’ salary-setting role, and left Session in control of the budget and funds (lines 37-71; printed pp. 78-79).",
+    "qualifications": "The reasoning was expressly limited to the church’s particular circumstances; one member dissented, but no dissenting opinion is supplied (lines 59-69, 75; printed p. 79).",
+    "incorporated_decisions": "No external decision was incorporated by reference; the document contains the operative judgment and reasoning."
+  },
+  "source_limits": "The source reports a dissenting vote but provides no dissenting opinion or grounds.",
+  "benchmark_examples": [
+    "C01"
+  ],
+  "scores": {
+    "concrete_dispute": 2,
+    "decision": 2,
+    "decisive_reason": 2,
+    "distinctive_value": 2,
+    "fidelity": 2,
+    "economy": 2
+  },
+  "score_reasons": {
+    "concrete_dispute": "Identifies the challenged fund transfer and alleged surrender of budget authority.",
+    "decision": "States the denial and rejection of both framed issues.",
+    "decisive_reason": "Explains why the motion was not congregational budget approval and why Session retained control.",
+    "distinctive_value": "Preserves the decision’s fact-specific limitation and refusal to endorse congregational budget adoption.",
+    "fidelity": "Separates the complainant’s allegation from the SJC’s findings and does not infer the dissent’s grounds.",
+    "economy": "Retains only facts needed to understand the dispute, ruling, rationale, and limitation."
+  },
+  "verification_notes": "Rechecked the two formal issues and their separate “No” answers, the final denial, and the adopted reasoning. The final summary clarifies that both issues failed and adds the court’s express fact-specific limitation, avoiding any suggestion that congregational budget approval was authorized.",
+  "repair_needed": false,
+  "repair_notes": ""
+}

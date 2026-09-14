@@ -1,0 +1,50 @@
+{
+  "case_id": "2002-02",
+  "title": "RE Leland Nichols and RE Sam Couch v. James River Presbytery",
+  "matter_type": "complaint",
+  "final_dispositions": [
+    "judicially_out_of_order"
+  ],
+  "disposition_detail": "Complaints 10-01, 13-01, and the unnumbered complaint in Case 2002-02 were all judicially out of order. Complaints 10-01 and the unnumbered complaint were filed directly with the SJC without first being filed with James River Presbytery; Complaint 13-01 challenged an action that Presbytery never took.",
+  "first_summary": "The SJC ruled all three complaints in Case 2002-02 judicially out of order. Complaints 10-01 and the unnumbered complaint bypassed James River Presbytery, while Complaint 13-01 challenged a motion that had been ruled out of order and thus never became Presbytery action. The merits were not reached.",
+  "summary": "Three complaints arising from Presbytery’s treatment of Session actions toward its pastor were judicially out of order. Complaints 10-01 and the unnumbered complaint were filed directly with the SJC without first being presented to James River Presbytery, contrary to BCO 43-2. Complaint 13-01 challenged an action never taken because the motion was ruled out of order. The SJC did not reach their merits. The combined decision’s pastoral-dissolution and benevolent-gift rulings concerned the other consolidated cases, not Case 2002-02.",
+  "sources": [
+    {
+      "path": "cases/ga33_2005__2001-34_2002-02_2002-03.md",
+      "sha256": "52e813b92c9768e97716c84fe3a88bdbe80f7ec6b4773e108b4afb253cb5e938",
+      "locator": "printed pp. 84–86, lines 292–356; adoption at printed p. 97, lines 645–655",
+      "supports": "Case-specific judgment, procedural reasons, and full-SJC adoption."
+    }
+  ],
+  "evidence_notes": {
+    "identity_and_adoption": "The combined caption identifies Case 2002-02 and the parties (printed p. 72, lines 13–25); the full SJC approved the decision October 22, 2004 (printed p. 97, lines 645–655).",
+    "dispute": "The case arose from complaints concerning Session actions toward TE Robert Wilson and Presbytery’s treatment of those complaints (printed pp. 75–76, lines 83–95).",
+    "outcomes_and_reasons": "The judgment lists all three Case 2002-02 complaints as not judicially in order; the opinion applies BCO 43-2 to the directly filed complaints and finds no Presbytery action underlying C13-01 (printed pp. 84–86, lines 300–356).",
+    "qualifications": "The published concurrence expressly addresses Cases 2001-34 and 2002-03, not 2002-02; three members dissented, but no dissenting opinion is supplied (printed pp. 97–98, lines 653–671).",
+    "incorporated_decisions": "No incorporated decision supplies a material result for Case 2002-02."
+  },
+  "source_limits": "The source reports three consolidated cases and gives little description of the unnumbered Case 2002-02 complaint beyond its procedural defect. No dissenting reasoning is included.",
+  "benchmark_examples": [
+    "C01",
+    "C02"
+  ],
+  "scores": {
+    "concrete_dispute": 2,
+    "decision": 2,
+    "decisive_reason": 2,
+    "distinctive_value": 2,
+    "fidelity": 2,
+    "economy": 2
+  },
+  "score_reasons": {
+    "concrete_dispute": "Identifies the challenged Presbytery handling of Session-related complaints.",
+    "decision": "States the disposition of all three Case 2002-02 complaints.",
+    "decisive_reason": "Gives both defects: failure to file first with Presbytery and absence of an underlying action.",
+    "distinctive_value": "Shows two distinct grounds for judicial disorder without importing the consolidated merits rulings.",
+    "fidelity": "Separates Case 2002-02 from the other consolidated cases and does not treat lower-court action as the SJC disposition.",
+    "economy": "Retains only facts needed to explain the procedural ruling."
+  },
+  "verification_notes": "Rechecked the judgment’s complete Case 2002-02 list and the separate reasoning for C10-01, C13-01, and the unnumbered complaint. The final summary was corrected to clarify that the consolidated pastoral-dissolution and gift rulings did not decide Case 2002-02.",
+  "repair_needed": false,
+  "repair_notes": ""
+}

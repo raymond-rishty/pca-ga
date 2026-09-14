@@ -1,0 +1,49 @@
+{
+  "case_id": "2004-06",
+  "title": "Appeal of Tan v. Houston Metro Presbytery",
+  "matter_type": "appeal",
+  "final_dispositions": [
+    "judicially_out_of_order"
+  ],
+  "disposition_detail": "The Standing Judicial Commission found the appeal judicially out of order because Tan had not submitted to a regular trial as required by BCO 42-2. It did not decide the merits.",
+  "first_summary": "The SJC dismissed Tan’s appeal because he had not submitted to a regular trial as required by BCO 42-2. The brief decision did not address the merits.",
+  "summary": "Tan attempted to appeal without first submitting to a regular trial. The SJC found the appeal judicially out of order under BCO 42-2 and therefore did not reach its merits. Although the source header labels the disposition “dismissed,” the adopted judgment expressly classifies it as judicially out of order.",
+  "sources": [
+    {
+      "path": "cases/ga33_2005__2004-06.md",
+      "sha256": "dcc7612123c71db43a12d5614ab374553999352529cb5ed9b2caf9eb88d297a1",
+      "locator": "printed pp. 137–138, lines 13–21",
+      "supports": "Case identity, judicially-out-of-order ruling, BCO 42-2 reason, vote, and adoption."
+    }
+  ],
+  "evidence_notes": {
+    "identity_and_adoption": "The case caption identifies Judicial Case 2004-6 and the parties (printed p. 137, line 13); the vote records adoption (printed p. 138, line 21).",
+    "dispute": "The proceeding was an appeal, but the appellant had not submitted to a regular trial (printed p. 137, lines 13–15).",
+    "outcomes_and_reasons": "The SJC found the case judicially out of order because BCO 42-2 required submission to a regular trial (printed p. 137, line 15).",
+    "qualifications": "The sparse ruling gives no underlying facts, merits determination, or additional relief (printed pp. 137–138, lines 13–21).",
+    "incorporated_decisions": "No decision is incorporated by reference."
+  },
+  "source_limits": "The source contains only a caption, one-sentence ruling, and adoption vote; it does not describe the underlying controversy or lower-court action.",
+  "benchmark_examples": [
+    "A20"
+  ],
+  "scores": {
+    "concrete_dispute": 2,
+    "decision": 2,
+    "decisive_reason": 2,
+    "distinctive_value": 2,
+    "fidelity": 2,
+    "economy": 2
+  },
+  "score_reasons": {
+    "concrete_dispute": "Identifies the attempted appeal without a prior regular trial.",
+    "decision": "States the judicially-out-of-order ruling and absence of a merits decision.",
+    "decisive_reason": "Gives the express BCO 42-2 ground.",
+    "distinctive_value": "Preserves the prerequisite-trial limitation and correct disposition subtype.",
+    "fidelity": "Distinguishes the adopted judgment from the conflicting header label.",
+    "economy": "Includes only the procedural defect, ruling, reason, and material qualification."
+  },
+  "verification_notes": "Rechecked the operative sentence and adoption vote at lines 15 and 21. Corrected the first summary’s “dismissed” characterization to “judicially out of order,” because the adopted judgment uses that express subtype; also confirmed that no merits ruling or relief appears.",
+  "repair_needed": true,
+  "repair_notes": "The source header at line 3 labels the disposition “dismissed,” but the adopted operative judgment at line 15 says “judicially out of order.” The catalog disposition should be corrected to the operative classification."
+}

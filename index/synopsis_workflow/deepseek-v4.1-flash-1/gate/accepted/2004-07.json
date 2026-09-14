@@ -1,0 +1,68 @@
+{
+  "case_id": "2004-07",
+  "title": "Session of 1st Presbyterian Church, Augusta, GA v. Savannah River Presbytery",
+  "matter_type": "complaint",
+  "final_dispositions": [
+    "sustained"
+  ],
+  "disposition_detail": "Both specifications were sustained: the SJC answered yes to whether the Presbytery erred under BCO 25-2 and BCO 24-6. The Presbytery's contrary findings that the Session erred by adding its BCO 24-6 recommendation and by dissolving official relationships, and its annulment of the Session's subsequent actions, were set aside in effect; the Session's original actions were reinstated. Remaining relief sought by the complaint was held moot. One member recorded a dissent; no dissent text is supplied.",
+  "first_summary": "Savannah River Presbytery found that the Session of First Presbyterian Church, Augusta erred by adding a BCO 24-6 recommendation to a petition-called congregational meeting and by acting on the congregation's vote. The SJC sustained the Session's complaint, holding that BCO 25-2 and BCO 24-6 do not bar those actions, and reinstated the Session's actions. Other relief was moot. One member dissented.",
+  "summary": "A presbytery annulled a session's actions after the session added to a petition-called congregational meeting a recommendation that the congregation invoke BCO 24-6 against eleven elders. The SJC sustained the session's complaint: BCO 25-2 permits a session to add agenda items, and BCO 24-6 does not require a member-initiated motion; the congregation's own 503–229 vote began the process. It reinstated the session's actions, declared remaining relief moot, and noted one recorded dissent; no dissent text appears.",
+  "sources": [
+    {
+      "path": "cases/ga33_2005__2004-07.md",
+      "sha256": "5e3dc59e80cc172a9b7686c15838d1774ceb337e0db5788dc70821fbce5b2943",
+      "locator": "lines 1–13 (printed p. 138)",
+      "supports": "Identity, title, deciding court and assembly, disposition, and dissent flag."
+    },
+    {
+      "path": "cases/ga33_2005__2004-07.md",
+      "sha256": "5e3dc59e80cc172a9b7686c15838d1774ceb337e0db5788dc70821fbce5b2943",
+      "locator": "lines 17–65 (printed pp. 138–140)",
+      "supports": "Dispute history, petition, Session actions, congregational vote, Presbytery findings, and referral to the SJC."
+    },
+    {
+      "path": "cases/ga33_2005__2004-07.md",
+      "sha256": "5e3dc59e80cc172a9b7686c15838d1774ceb337e0db5788dc70821fbce5b2943",
+      "locator": "lines 67–128 (printed pp. 140–143)",
+      "supports": "Issues, judgment, adopted BCO 25-2 and BCO 24-6 reasoning, deference rule, vote count, reinstatement, and moot remaining relief."
+    },
+    {
+      "path": "cases/ga33_2005__2004-07.md",
+      "sha256": "5e3dc59e80cc172a9b7686c15838d1774ceb337e0db5788dc70821fbce5b2943",
+      "locator": "lines 130–134 (printed pp. 143–144)",
+      "supports": "Panel adoption, recorded concurrences, recusals, absence, and one recorded dissent."
+    }
+  ],
+  "evidence_notes": {
+    "identity_and_adoption": "Source cases/ga33_2005__2004-07.md, SHA256 5e3dc59e80cc172a9b7686c15838d1774ceb337e0db5788dc70821fbce5b2943, lines 1–5 and 130–134: SJC Case 2004-7, 33rd Assembly; judgment adopted by panel with 18 concurring, 1 dissenting, 4 recused, 1 absent.",
+    "dispute": "Lines 17–65: the Session received a member petition, called a congregational meeting, added a BCO 24-6 recommendation, the congregation voted 503–229, and Savannah River Presbytery later found the Session erred and annulled the resulting actions. Lines 65–67 identify the complaint and referral to the SJC.",
+    "outcomes_and_reasons": "Lines 67–78: both issues answered yes. Lines 81–128: BCO 25-2 allows the Session to add agenda items; BCO 24-6 does not limit initiation to a member motion; higher courts must defer to a lower court's discretion absent clear violation. The Session's actions were reinstated and remaining relief held moot.",
+    "qualifications": "Lines 128 and 134: the opinion text calls the judgment unanimous, while the vote tally records TE Michael M. Rico as dissenting. No dissent opinion or reasoning is supplied. Recusals, absence, and concurrences appear only in the tally.",
+    "incorporated_decisions": "None. The opinion cites 1983 General Assembly advice at line 95 but does not incorporate another decision by reference. No separate opinion is reproduced."
+  },
+  "source_limits": "The supplied source is the SJC's adopted judgment and vote tally, not the full record or any dissenting opinion. The opinion text at line 128 says the judgment was unanimous, while the tally at line 134 records one dissent; this synopsis treats the tally as the operative procedural record and does not characterize the decision as unanimous. The cited ROC record is unavailable.",
+  "benchmark_examples": [
+    "C01 Allin: preserve procedural rulings, mixed issue results, and operative relief without overreading the lower court's action.",
+    "C20 Daniels: keep separate opinions distinct from the adopted ruling and do not supply reasons the source does not give."
+  ],
+  "scores": {
+    "concrete_dispute": 2,
+    "decision": 2,
+    "decisive_reason": 2,
+    "distinctive_value": 2,
+    "fidelity": 2,
+    "economy": 2
+  },
+  "score_reasons": {
+    "concrete_dispute": "Identifies the Presbytery's BCO 25-2/24-6 findings and annulment as the challenged action.",
+    "decision": "States that both specifications were sustained, the Session's actions were reinstated, remaining relief was moot, and one dissent was recorded.",
+    "decisive_reason": "Explains the adopted BCO 25-2 and BCO 24-6 grounds and the deference owed to a session's discretionary judgment.",
+    "distinctive_value": "Captures the rule that a session may add agenda items and recommend BCO 24-6 action without a member-initiated motion.",
+    "fidelity": "Distinguishes the adopted judgment from the referral, vote tally, and absent dissent; notes the source's unanimity/dissent tension without resolving it.",
+    "economy": "Keeps the synopsis to the petition, challenged findings, decisive constitutional provisions, vote, relief, and dissent notation."
+  },
+  "verification_notes": "Rechecked the header disposition 'sustained' against the Judgment lines 73–78 and the adopted reasoning at lines 81–128. Confirmed matter_type remains complaint because the challenged action is the Presbytery's finding and annulment, despite the BCO 41-3 referral. Corrected first_summary to include the BCO 25-2/24-6 grounds, the congregation's 503–229 vote, reinstatement, moot remaining relief, and the one recorded dissent. Verified the vote tally at lines 130–134 and noted its conflict with the 'unanimous' phrase at line 128.",
+  "repair_needed": false,
+  "repair_notes": "No source or catalog defect requiring repair was identified; the unanimity/dissent tension and absent dissent text are noted as source limits."
+}

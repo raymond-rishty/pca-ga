@@ -1,0 +1,51 @@
+{
+  "case_id": "2001-13",
+  "title": "Appeal Deacon Samuel Hong vs. Korean Capital Presbytery",
+  "matter_type": "appeal",
+  "final_dispositions": [
+    "sustained",
+    "reversed"
+  ],
+  "disposition_detail": "The SJC sustained Deacon Samuel Hong's appeal and reversed the actions of Korean Capital Presbytery and its Special Judicial Commission, holding that original jurisdiction over charges against a communicant member belonged to the local Session, not Presbytery or its commission. The merits of the underlying charges were not decided.",
+  "first_summary": "Deacon Samuel Hong appealed after Korean Capital Presbytery's commission found him guilty of contumacy and making a false statement and suspended him from the sacraments for two years. The SJC sustained the appeal, holding that the local Session, not Presbytery or its commission, had original jurisdiction over charges against a communicant member, and reversed the Presbytery/commission actions. The merits of the charges were not decided.",
+  "summary": "Deacon Samuel Hong appealed after Korean Capital Presbytery's special judicial commission convicted him of contumacy and making a false statement and imposed a two-year suspension from the sacraments. The SJC sustained the appeal, holding that original jurisdiction over charges against a communicant member belongs to the local Session, not Presbytery or its commission, and reversed the Presbytery/commission actions. The SJC did not decide the underlying charges; the reversal was jurisdictional, not an acquittal. One recorded dissent gave no reasons.",
+  "sources": [
+    {
+      "path": "cases/ga30_2002__2001-13.md",
+      "sha256": "fd88e6f5392b28133f1cb2fe237c6f01c57a96095a283f69e6e6f483150811a2",
+      "locator": "lines 14-69; printed pp. 142-144",
+      "supports": "Canonical title, SJC adoption, issue, judgment, reasoning, and roll-call vote for case 2001-13."
+    }
+  ],
+  "evidence_notes": {
+    "identity_and_adoption": "Source line 14 identifies case 2001-13 as the appeal of Deacon Samuel Hong vs. Korean Capital Presbytery; line 3 states the SJC disposition as sustained; lines 63 and 69 show adoption by the five-member panel and the roll-call vote.",
+    "dispute": "Lines 44-46 state the issue: whether Presbytery and/or its Special Judicial Commission appointed January 8, 2001 was the proper court to assume original jurisdiction over the charges against Hong.",
+    "outcomes_and_reasons": "Lines 48-50 sustain the appeal in substance by answering no and reversing Presbytery/commission actions; lines 54-61 reason that original jurisdiction for communicant members lies with the local Session, not Presbytery or its commission. Lines 34, 36 record the commission's conviction and two-year suspension from the sacraments, approved by Presbytery.",
+    "qualifications": "Line 69 records 16 concurred, 1 dissented, 1 recused, 1 disqualified, and 5 absent; RE Howard Donahoe's dissent is noted without reasons. Line 38 calls the censure 'excommunication,' while line 34 identifies it as a two-year suspension from the sacraments. The judgment is jurisdictional and does not decide guilt on the merits.",
+    "incorporated_decisions": "No separate decision is incorporated by reference. Line 63 states that RE John White prepared the Statement of Facts, the five-member panel prepared and adopted the Statement of the Issue and Judgment, and TE Jim Smith wrote the Reasoning and Opinion with concurrences."
+  },
+  "source_limits": "The source is the adopted SJC decision and vote only. It includes no briefs, full record, or dissent reasoning, and its line 38 reference to 'excommunication' is imprecise compared with the two-year suspension from sacraments described at line 34.",
+  "benchmark_examples": [
+    "A01 (2007-16): distinguishes conviction, censure, and administrative status; here the SJC reversed on jurisdiction without deciding the merits.",
+    "A19 (2011-13): preserves procedural posture and conditional or limited relief; not directly analogous but useful for separating dismissal/prematurity from merits findings."
+  ],
+  "scores": {
+    "concrete_dispute": 2,
+    "decision": 2,
+    "decisive_reason": 2,
+    "distinctive_value": 2,
+    "fidelity": 2,
+    "economy": 2
+  },
+  "score_reasons": {
+    "concrete_dispute": "Identifies the challenged action: Presbytery and its commission assuming original jurisdiction over a communicant member and imposing censure.",
+    "decision": "States both operative outcomes: the appeal was sustained and the Presbytery/commission actions were reversed.",
+    "decisive_reason": "Explains the adopted reason: original jurisdiction over communicant members belongs to the local Session.",
+    "distinctive_value": "Preserves the jurisdictional limit and the key distinction that reversal was not a merits acquittal.",
+    "fidelity": "Keeps the adopted judgment distinct from the commission's findings, the source's imprecise 'excommunication' wording, and the unreasoned dissent.",
+    "economy": "Uses only facts needed to explain the dispute, holding, remedy, and limitation."
+  },
+  "verification_notes": "Rechecked line 50 against the header 'sustained' at line 3; confirmed the SJC both sustained the appeal and reversed the Presbytery/commission actions. Corrected the first_summary to avoid implying the reversal resolved the underlying charges, and added the jurisdictional-not-acquittal limitation. Confirmed line 34 describes a two-year suspension from the sacraments despite line 38's 'excommunication' phrasing. Confirmed the vote at line 69.",
+  "repair_needed": false,
+  "repair_notes": "None."
+}

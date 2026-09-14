@@ -1,0 +1,49 @@
+{
+  "case_id": "1997-12",
+  "title": "Raymond Larsen vs. Pacific Presbytery",
+  "matter_type": "complaint",
+  "final_dispositions": [
+    "withdrawn"
+  ],
+  "disposition_detail": "The complaint was withdrawn by the complainant; no merits ruling, issue-level disposition, or relief was issued.",
+  "first_summary": "The Standing Judicial Commission disposed of Raymond Larsen’s complaint against Pacific Presbytery by withdrawal, with no separate merits opinion. The record identifies case 97-12 and companion case 97-10.",
+  "summary": "The SJC record shows that Raymond Larsen’s complaints against Pacific Presbytery—case 97-12, with 97-10—were withdrawn by the complainants. No separate merits opinion was published, and the source supplies no underlying issue, adopted reasoning, issue-level ruling, or relief. The operative disposition is therefore withdrawal, not a merits determination.",
+  "sources": [
+    {
+      "path": "cases/ga26_1998__stub_1997-12.md",
+      "sha256": "7030bd7383ae2fcb6d9371a68b7652937cec0707355de0f4099c842291b5af57",
+      "locator": "lines 1–9 (line 3 disposition; line 9 withdrawal quote)",
+      "supports": "Identifies case ID 1997-12, court and assembly, the withdrawn disposition, and the quoted statement that 97-10 and 97-12 were withdrawn by the complainants; also states no separate merits opinion."
+    }
+  ],
+  "evidence_notes": {
+    "identity_and_adoption": "Stub line 1 gives case ID 1997-12, title “Raymond Larsen vs. Pacific Presbytery (Complaint) p. 103”; line 3 states Court: Standing Judicial Commission, Assembly: 26th (1998), Disposition: Withdrawn.",
+    "dispute": "Line 1 identifies the matter only as a complaint against Pacific Presbytery; no challenged conduct, lower-court ruling, or specifications appear.",
+    "outcomes_and_reasons": "Line 9 quotes the record that cases 97-10 and 97-12, both Raymond Larsen vs Pacific Presbytery, “were withdrawn by the complainants.” Line 3 confirms Withdrawn; line 5 states no separate merits opinion. No adopted reason is given.",
+    "qualifications": "The source is a stub with a quoted minutes entry; it provides no merits rationale, relief, or issue-level results. The quote pairs 97-10 with 97-12, while this assignment is 1997-12.",
+    "incorporated_decisions": "None. No decision is incorporated by reference; 97-10 is a separately listed complaint, not an adopted decision relied on here."
+  },
+  "source_limits": "Only lines 1–9 are available. The source lacks the complaint text, the Presbytery action challenged, grounds for withdrawal, any merits analysis, and any relief beyond withdrawal.",
+  "benchmark_examples": [
+    "C20 2016-13 (unexplained short-record disposition; do not invent a rationale)."
+  ],
+  "scores": {
+    "concrete_dispute": 1,
+    "decision": 2,
+    "decisive_reason": 2,
+    "distinctive_value": 1,
+    "fidelity": 2,
+    "economy": 2
+  },
+  "score_reasons": {
+    "concrete_dispute": "Identifies a complaint against Pacific Presbytery but supplies no challenged conduct or lower-court action.",
+    "decision": "Records the sole material outcome: withdrawal of case 97-12 (and 97-10) by complainants; no merits relief.",
+    "decisive_reason": "The source gives no adopted reason; synopsis says so rather than inventing one.",
+    "distinctive_value": "Preserves the limited but useful distinction that the matter ended by withdrawal with no merits determination.",
+    "fidelity": "Keeps the quoted withdrawal, metadata, and absence of merits opinion distinct; does not attribute withdrawal to the SJC.",
+    "economy": "All retained details bear on the disposition or the sparse-record limitation."
+  },
+  "verification_notes": "Rechecked lines 1–9. Corrected first_summary’s implication that the SJC disposed by withdrawal: line 9 says the complainants withdrew 97-10 and 97-12. Confirmed line 3 labels the disposition Withdrawn and line 5 says no separate merits opinion, so no issue-level ruling or relief may be reported.",
+  "repair_needed": false,
+  "repair_notes": "No source or catalog defect found."
+}

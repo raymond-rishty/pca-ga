@@ -1,0 +1,63 @@
+{
+  "case_id": "2025-13",
+  "title": "Felipe Assis and Carter Brown v. South Florida Presbytery",
+  "matter_type": "appeal",
+  "final_dispositions": [
+    "sustained",
+    "reversed"
+  ],
+  "disposition_detail": "Specification 1 was sustained. Specifications 2 and 3 were not sustained because the SJC was unable to judge them. The appeal was sustained, the divestitures reversed, and the ministers restored to good standing.",
+  "first_summary": "Two ministers appealed South Florida Presbytery’s decision to divest them of office without censure after their congregations left the PCA. The SJC sustained the appeal and reversed the divestitures because the ministers continued serving their churches and BCO 34-10 did not apply. They were restored to good standing, and Presbytery was directed to address their calls under a constitutionally proper procedure.",
+  "summary": "Two ministers appealed Presbytery’s decision to divest them of office without censure after their congregations left the PCA. The SJC sustained the BCO-violation specification and reversed the divestitures: their calls had never been formally dissolved, and BCO 34-10 did not apply because they continued performing ministerial functions and remained accepted by their churches. It declined as unable to judge claims that Presbytery disregarded their emails or used the procedure as discriminatory pretext. The ministers returned to good standing; Presbytery must dissolve their existing PCA calls and then pursue a BCO-consistent option.",
+  "sources": [
+    {
+      "path": "cases/ga52_2025__2025-12_2025-13.md",
+      "sha256": "0c5439a49966e2cfefa6c2504e669767590cec8005bb7d42cb58f94044b2cd33",
+      "locator": "official pp. 1, 4–5, lines 14–21, 155–194",
+      "supports": "Caption, appeal posture, challenged divestiture, and specification judgments."
+    },
+    {
+      "path": "cases/ga52_2025__2025-12_2025-13.md",
+      "sha256": "0c5439a49966e2cfefa6c2504e669767590cec8005bb7d42cb58f94044b2cd33",
+      "locator": "official pp. 5–8, lines 231–361",
+      "supports": "Reasons BCO 13-2 and 34-10 did not authorize divestiture and reasons the remaining claims could not be judged."
+    },
+    {
+      "path": "cases/ga52_2025__2025-12_2025-13.md",
+      "sha256": "0c5439a49966e2cfefa6c2504e669767590cec8005bb7d42cb58f94044b2cd33",
+      "locator": "official pp. 8–9, lines 364–397",
+      "supports": "Reversal, restoration to good standing, required further action, adoption vote, and noted dissents."
+    }
+  ],
+  "evidence_notes": {
+    "identity_and_adoption": "The caption identifies combined Cases 2025-12 and 2025-13 and an SJC appeal decision (official p. 1, lines 14–21); the SJC approved it 19-2-0 (p. 9, lines 384–397).",
+    "dispute": "Presbytery divested both ministers without censure under BCO 13-2 and 34-10 after their churches left the PCA (official p. 4, lines 155–160).",
+    "outcomes_and_reasons": "Specification 1 succeeded; Specifications 2 and 3 were unjudgeable (official pp. 4–5, lines 182–194). The calls had not been dissolved, and the ministers remained active and accepted in their churches, making BCO 34-10 inapplicable (pp. 5–6, lines 231–280). Relief appears at p. 8, lines 364–370.",
+    "qualifications": "The SJC made no finding about disregarded emails, motives, discrimination, or pretext because the record was inadequate (official p. 8, lines 341–361). Presbytery retains BCO-consistent options after dissolving the calls (lines 368–370).",
+    "incorporated_decisions": "No other decision was incorporated by reference. The source notes two dissents but does not supply their text (official p. 9, lines 384–397)."
+  },
+  "source_limits": "The supplied text omits the dissenting opinions and therefore supports no account of their reasoning.",
+  "benchmark_examples": [
+    "A01",
+    "A19"
+  ],
+  "scores": {
+    "concrete_dispute": 2,
+    "decision": 2,
+    "decisive_reason": 2,
+    "distinctive_value": 2,
+    "fidelity": 2,
+    "economy": 2
+  },
+  "score_reasons": {
+    "concrete_dispute": "Identifies the divestiture without censure following the churches’ departure.",
+    "decision": "States the successful BCO claim, both unjudgeable claims, reversal, restoration, and required further action.",
+    "decisive_reason": "Explains both the absence of formal call dissolution and BCO 34-10’s unmet conditions.",
+    "distinctive_value": "Preserves the distinction between a congregation’s departure and formal dissolution of a pastoral call.",
+    "fidelity": "Separates the SJC’s holdings from allegations it declined to adjudicate and from possible future options.",
+    "economy": "Retains only facts needed to explain the mixed outcome and remedy."
+  },
+  "verification_notes": "Rechecked the judgments, reasoning, and amends. The final summary adds the two unable-to-judge specifications omitted from the first draft, clarifies that the calls were never formally dissolved, and states Presbytery’s mandatory next step without presenting optional courses as ordered relief.",
+  "repair_needed": true,
+  "repair_notes": "The source contains apparent year errors: lines 233 and 341–347 refer to February 2024 meetings or emails, while the chronology places those events on February 14–15, 2025 (lines 119–148)."
+}

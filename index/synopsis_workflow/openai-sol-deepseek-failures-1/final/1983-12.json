@@ -1,0 +1,49 @@
+{
+  "case_id": "1983-12",
+  "title": "TE Jack Eubanks et al. v. Central Carolina Presbytery",
+  "matter_type": "complaint",
+  "final_dispositions": [
+    "partially_sustained"
+  ],
+  "disposition_detail": "Items 2 and 3 were sustained; Items 1, 4, and 5 were not sustained. No express relief was stated.",
+  "first_summary": "Complainants challenged a called Presbytery meeting and its actions concerning a judicial commission and church membership. The adjudication sustained objections to dissolving the commission by a 14–12 vote and ordering the dissolved commission to reconvene and reconsider an earlier action. It rejected challenges to the called meeting, Presbytery's involvement with membership, and its receipt of another complaint.",
+  "summary": "Complainants challenged a called Presbytery meeting and its actions concerning a judicial commission and church membership. The adjudication sustained objections to dissolving the commission by a 14–12 vote and ordering the dissolved commission to reconvene and revote. A commission with power could be dismissed only by a two-thirds vote under Robert’s Rules; no separate ground was stated for the reconvening issue. Challenges to the meeting, Presbytery’s membership action, and its receipt of another complaint were not sustained. No relief was specified.",
+  "sources": [
+    {
+      "path": "cases/ga11_1983__case5.md",
+      "sha256": "7e4632d1a8e53a567b5fafa9e955701b3eee8c8f9ac3c8aa4b54299521ae7cb5",
+      "locator": "lines 1–3, 69–91; printed pages 151–152",
+      "supports": "Case identity, complaint issues, adopted judgments, stated grounds, and mixed disposition."
+    }
+  ],
+  "evidence_notes": {
+    "identity_and_adoption": "The heading identifies Case 8 and the parties; metadata identifies the CJB and 11th Assembly (lines 1–3, 9–11). The adjudication and adoption markers appear at lines 69–89.",
+    "dispute": "The complaint challenged the January 8 called meeting, dissolution and reconstitution of the judicial commission, Presbytery’s membership action, and receipt of Alexander’s complaint (lines 13–65, 71–77).",
+    "outcomes_and_reasons": "Items 2 and 3 were sustained; Items 1, 4, and 5 were not sustained (lines 79–89). Item 2 rested on the two-thirds rule; Item 4 failed because church membership is not a court. No grounds or relief were stated for the other judgments.",
+    "qualifications": "The source notes a dissent but supplies no dissenting opinion (line 3). It specifies no remedial order or further proceedings.",
+    "incorporated_decisions": "No decision is incorporated by reference. Earlier Assembly directions and commission actions appear only in the complaint’s procedural allegations (lines 29–53)."
+  },
+  "source_limits": "The excerpt provides concise judgments and grounds for only Items 2 and 4; it contains no dissent text or express remedial order.",
+  "benchmark_examples": [
+    "C01"
+  ],
+  "scores": {
+    "concrete_dispute": 2,
+    "decision": 2,
+    "decisive_reason": 2,
+    "distinctive_value": 2,
+    "fidelity": 2,
+    "economy": 2
+  },
+  "score_reasons": {
+    "concrete_dispute": "Identifies the meeting, commission actions, membership issue, and outside complaint.",
+    "decision": "Preserves all sustained and unsuccessful items and notes the absence of specified relief.",
+    "decisive_reason": "States the two-thirds rule and the membership-is-not-a-court rationale while acknowledging unstated grounds.",
+    "distinctive_value": "Highlights the voting requirement for dismissing a commission with power.",
+    "fidelity": "Separates complainants’ allegations from the adjudication’s adopted grounds and does not infer relief.",
+    "economy": "Retains only facts needed to understand the mixed disposition and governing distinction."
+  },
+  "verification_notes": "Rechecked lines 79–89 against the complaint allegations. The final summary clarifies that Item 3 had no separately stated ground, identifies Item 4’s express rationale, and avoids inferring relief or adopting the complainants’ BCO arguments.",
+  "repair_needed": false,
+  "repair_notes": ""
+}

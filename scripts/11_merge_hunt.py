@@ -60,7 +60,7 @@ def minutes_caption(vol, cn_raw):
                      % "|".join(re.escape(n) for n in nums), re.I)
     best = None
     try:
-        for l in open(f"{ROOT}/build/page_jsonl/{vol}.pages.jsonl"):
+        for l in open(f"{ROOT}/build/page_jsonl/{vol}.pages.jsonl", encoding="utf-8"):
             r = json.loads(l)
             for line in r.get("text", "").split("\n"):
                 mm = pat.match(line.strip())
@@ -89,8 +89,8 @@ def main():
     roster = {}
     if os.path.exists(ROSTER):
         roster = {rec09.norm(r.get("case_number") or r.get("case_number_raw")): r
-                  for r in (json.loads(l) for l in open(ROSTER))}
-    cases = [json.loads(l) for l in open(CASES)]
+                  for r in (json.loads(l) for l in open(ROSTER, encoding="utf-8"))}
+    cases = [json.loads(l) for l in open(CASES, encoding="utf-8")]
     gavol = build_ga_vol_map()
 
     def norm_vol(v):
@@ -110,7 +110,8 @@ def main():
     found = []
     for fp in glob.glob(FOUND + "/*.json"):
         try:
-            found.append(json.load(open(fp)))
+            with open(fp, encoding="utf-8") as source:
+                found.append(json.load(source))
         except Exception:
             pass
 
@@ -175,7 +176,7 @@ def main():
             "precedent_refs_raw": [], "precedent_case_ids": [], "cited_by": [],
             "in_official_roster": True, "source": "hunt:" + (status or "?"),
             "aux_source": True,            # auxiliary (hunt-recovered), NOT a golden segment/chunk
-            "needs_location": status != "decision",
+            "needs_location": f.get("needs_location", status != "decision"),
             "provenance": {"hunt_vol": f.get("vol")},
         }
         cases.append(rec)
@@ -184,7 +185,7 @@ def main():
         if status != "decision":
             mentions += 1
 
-    with open(CASES, "w") as f:
+    with open(CASES, "w", encoding="utf-8", newline="\n") as f:
         for c in cases:
             f.write(json.dumps(c, ensure_ascii=False) + "\n")
     print(f"[merge-hunt] found={len(found)}  added={added} (mention/withdrawn={mentions})  "

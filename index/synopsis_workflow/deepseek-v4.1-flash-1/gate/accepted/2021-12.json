@@ -1,0 +1,51 @@
+{
+  "case_id": "2021-12",
+  "title": "Michelson v. Northwest Georgia Presbytery",
+  "matter_type": "complaint",
+  "final_dispositions": [
+    "judicially_out_of_order",
+    "dismissed"
+  ],
+  "disposition_detail": "The SJC dismissed the complaint as not judicially in order and incurable under the Rules of Discipline because it failed to identify any act or decision of the lower court under BCO 43-1; the objections concerned congregational actions, and the BCO has no provision for complaint against a congregation. The dissent would have found the complaint judicially in order as to the Session’s calling and recommending the congregational meeting and assigned it to a panel.",
+  "first_summary": "The SJC dismissed the Michelsons’ complaint against Northwest Georgia Presbytery as not judicially in order. The complaint challenged the congregational meeting’s election of three assistant pastors as associate pastors without a pulpit committee, ballots, or abstention counting. The SJC held the complaint failed BCO 43-1 because it did not identify any act or decision of the Session; the only Session act was calling the meeting, and the BCO allows no complaint against congregational action. The dissent would find the Session’s calling and recommendation justiciable.",
+  "summary": "The Michelsons’ complaint challenged a congregational meeting’s procedure for electing three assistant pastors as associate pastors—allegedly without a pulpit committee, ballots, counted abstentions, or protection for a substantial minority. The SJC dismissed it as not judicially in order: BCO 43-1 requires complaint against an act or decision of a court, but the complaint attacked congregational actions, while the Session’s only act was calling the meeting and was not objected to. The SJC noted other possible redress; the dissent found the Session’s call and recommendation justiciable.",
+  "sources": [
+    {
+      "path": "cases/ga49_2022__2021-12.md",
+      "sha256": "ffacc9d8d8cfb9c2eda87d728fa6298d6004bf37d4d053165e114fd562e0c2d4",
+      "locator": "lines 1–13, 17–42, 44–66, 68–91 (printed pp. 822–825)",
+      "supports": "SJC dismissal, rationale, roll-call vote, and dissent."
+    }
+  ],
+  "evidence_notes": {
+    "identity_and_adoption": "cases/ga49_2022__2021-12.md (sha256 ffacc9d8d8cfb9c2eda87d728fa6298d6004bf37d4d053165e114fd562e0c2d4), lines 1–13, 63–66: SJC, 49th Assembly (2022), case No. 2021-12; panel approved and SJC amended/approved by roll call 12-8-1.",
+    "dispute": "Lines 17–42 (printed pp. 822–823): complaint concerned a July 19, 2020 congregational meeting and its election/call procedure; the only Midway Session act identified was the July 8, 2020 call of the meeting (line 26–29), which the complaint did not object to.",
+    "outcomes_and_reasons": "Lines 13, 17–42, 44–61 (printed pp. 822–824): dismissed as judicially out of order under BCO 43-1 because no act or decision of a court was identified; complaint against congregational action is unavailable; possible redress noted via later court action, presbytery review of records, or BCO 13-9.f visitation.",
+    "qualifications": "Lines 44–61 (printed pp. 823–824): alternative remedies are stated, not decided. Dissent, lines 68–91 (printed pp. 824–825), found at least one justiciable issue and expressly expressed no opinion on the merits.",
+    "incorporated_decisions": "None. Only BCO and ROC provisions are referenced, at lines 18–26, 28–29, and 55–57; no incorporated decision supplies a separate result."
+  },
+  "source_limits": "The source contains the SJC’s adopted decision, rationale, roll-call vote, and dissent. It does not include the underlying complaint, the Record of the Case, lower-court records, or full BCO text; no merits determination was made.",
+  "benchmark_examples": [
+    "C01: preserve procedural rulings and refused claims separately from merits; here the SJC made no merits ruling.",
+    "C20: do not supply an explanation the adopted ruling omits; here the SJC’s rationale is stated and should be reported."
+  ],
+  "scores": {
+    "concrete_dispute": 2,
+    "decision": 2,
+    "decisive_reason": 2,
+    "distinctive_value": 2,
+    "fidelity": 2,
+    "economy": 2
+  },
+  "score_reasons": {
+    "concrete_dispute": "Identifies the challenged congregational election/call procedure and the Session action that the SJC found was not objected to.",
+    "decision": "States the dismissal, the judicial-out-of-order basis, and the dissent’s contrary view on justiciability.",
+    "decisive_reason": "Explains the adopted BCO 43-1 reasoning: complaint must target an act or decision of a court, not congregational action.",
+    "distinctive_value": "Preserves the rule that the BCO provides no complaint against a congregation per se, plus the noted alternative remedies and the no-merits qualification.",
+    "fidelity": "Keeps allegations, the SJC’s adopted ruling, and the dissent distinct; does not treat the constitutional allegations as findings.",
+    "economy": "Includes only the facts, ruling, reason, and qualification needed to decide whether to retrieve the case."
+  },
+  "verification_notes": "Re-read lines 13–42 after first_summary: corrected matter type to complaint, added judicially_out_of_order before dismissed, and clarified that the challenged conduct was congregational action while the only Session act—calling the July 8, 2020 meeting—was not objected to. Rechecked roll call at lines 63–66 (12-8-1) and dissent at lines 68–91; confirmed no merits ruling and no incorporated decision. Confirmed source hash and locators.",
+  "repair_needed": false,
+  "repair_notes": "None."
+}

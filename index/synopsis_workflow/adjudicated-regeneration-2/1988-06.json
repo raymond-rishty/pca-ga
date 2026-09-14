@@ -1,0 +1,24 @@
+{
+  "case_id": "1988-06",
+  "title": "TE John T. DeBardeleben v. Philadelphia Presbytery",
+  "matter_type": "complaint",
+  "final_dispositions": ["sustained", "annulled", "guilty", "not_guilty"],
+  "disposition_detail": "The complaint was sustained and Presbytery's action annulled; incorporated trials de novo produced mixed guilty and not-guilty verdicts and censures.",
+  "first_summary": "A complaint challenged Philadelphia Presbytery’s approval of proceedings that cleared teaching and ruling elders without properly trying serious public accusations arising from Christ Church’s division. All three specifications were sustained because plea bargaining, dropped charges, and failure to hear necessary witnesses left the accusations unresolved. Presbytery’s action was annulled and de novo trials produced mixed convictions and acquittals. Harold Burkhart received six months’ suspension, Douglas McCready an admonition, and six former ruling elders three-month suspensions. The decision stressed taking such conflicts to Presbytery or judicial process rather than the congregation.",
+  "summary": "A complaint challenged Philadelphia Presbytery’s approval of proceedings that cleared teaching and ruling elders without properly trying serious public accusations arising from Christ Church’s division. All three specifications were sustained because plea bargaining, dropped charges, and failure to hear necessary witnesses left the accusations unresolved. Presbytery’s action was annulled and de novo trials produced mixed convictions and acquittals. Harold Burkhart received six months’ suspension, Douglas McCready an admonition, and six former ruling elders three-month suspensions. The decision stressed taking such conflicts to Presbytery or judicial process rather than the congregation.",
+  "sources": [{"path":"cases/ga17_1989__case3.md","sha256":"1eae3924dc3cba6aef3c01c5aa50dd8e335a50ed553e12d52e3a79bc61c4d65a","locator":"M17GA pp. 209-227; complaint judgment, trials de novo, amends, and adoption","supports":"Complaint grounds, sustained specifications, annulment, trial verdicts, censures, and adopted reasoning."}],
+  "evidence_notes": {
+    "identity_and_adoption": "The 16th Assembly identified Case #6 as DeBardeleben's complaint; the 17th Assembly adopted the special Judicial Commission's work.",
+    "dispute": "The complaint challenged Presbytery's approval of proceedings that had not properly adjudicated serious public accusations.",
+    "outcomes_and_reasons": "All complaint specifications were sustained; the incorporated trials yielded mixed verdicts because the earlier plea bargain, withdrawn charges, and missing witnesses had left accusations unresolved.",
+    "qualifications": "The synopsis preserves the separate censures without treating withdrawn trial specifications as withdrawal of the complaint.",
+    "incorporated_decisions": "The commission's trials de novo were incorporated into the Assembly-adopted action and are summarized separately from the complaint judgment."
+  },
+  "source_limits": "The adopted commission report, trials, modifications, and censures are present.",
+  "benchmark_examples": ["A05", "J04"],
+  "scores": {"concrete_dispute":2,"decision":2,"decisive_reason":2,"distinctive_value":2,"fidelity":2,"economy":2},
+  "score_reasons": {"concrete_dispute":"Identifies the defective proceedings.","decision":"Preserves complaint and trial outcomes.","decisive_reason":"Explains why prior proceedings were inadequate.","distinctive_value":"Retains the process lesson and censures.","fidelity":"Does not confuse withdrawn specifications with a withdrawn complaint.","economy":"Complex outcomes are compressed without losing distinctions."},
+  "verification_notes": "Astra threshold audit accepted the synopsis and removed only the unsupported whole-case withdrawal label.",
+  "repair_needed": false,
+  "repair_notes": "Case-page heading and durable metadata were corrected."
+}

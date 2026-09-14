@@ -1,0 +1,50 @@
+{
+  "case_id": "1998-03",
+  "title": "Robert Williams v. South Texas Presbytery",
+  "matter_type": "appeal",
+  "final_dispositions": [
+    "dismissed",
+    "administratively_out_of_order"
+  ],
+  "disposition_detail": "The SJC approved the panel's action dismissing the appeal because it was administratively out of order.",
+  "first_summary": "The SJC dismissed Robert Williams's appeal against South Texas Presbytery as administratively out of order. The record gives no further reason or description of the challenged Presbytery action.",
+  "summary": "The SJC approved a panel action dismissing Robert Williams's appeal against South Texas Presbytery as administratively out of order. The sparse record does not identify the challenged Presbytery action or explain the administrative defect, so it supports no conclusion about the merits.",
+  "sources": [
+    {
+      "path": "cases/ga27_1999__1998-03.md",
+      "sha256": "39d3bc333318dfb5cee5b12abe80572844f5f082ee56906daa75860a8861d35a",
+      "locator": "lines 1–3, 9–13",
+      "supports": "Case identity, appeal classification, SJC approval of the panel action, and dismissal as administratively out of order."
+    }
+  ],
+  "evidence_notes": {
+    "identity_and_adoption": "Lines 1–3 identify the case and SJC; line 9 states that the panel action was approved.",
+    "dispute": "Lines 11–13 identify an appeal against South Texas Presbytery but do not describe the challenged action.",
+    "outcomes_and_reasons": "Line 9 orders dismissal on the ground that the case was administratively out of order; no underlying defect is specified.",
+    "qualifications": "The heading misspells Williams as “Willians” (line 11); the canonical title appears at line 1. The record does not reach the merits.",
+    "incorporated_decisions": "Line 9 approves the panel action and supplies its result; no separate panel opinion or additional reasoning is provided."
+  },
+  "source_limits": "The source is a brief disposition notice without facts, issues, relief requested, or an explanation of the administrative defect.",
+  "benchmark_examples": [
+    "A20"
+  ],
+  "scores": {
+    "concrete_dispute": 0,
+    "decision": 2,
+    "decisive_reason": 1,
+    "distinctive_value": 1,
+    "fidelity": 2,
+    "economy": 2
+  },
+  "score_reasons": {
+    "concrete_dispute": "The source does not identify the Presbytery action challenged.",
+    "decision": "The synopsis states both dismissal and its administrative-out-of-order classification.",
+    "decisive_reason": "It gives the stated ground while acknowledging that no explanation appears.",
+    "distinctive_value": "It preserves the limitation that the disposition was administrative rather than merits-based.",
+    "fidelity": "It distinguishes the SJC's approval from the panel action and does not invent facts.",
+    "economy": "Only details necessary to explain the limited disposition are retained."
+  },
+  "verification_notes": "Rechecked line 9 to clarify that the SJC approved the panel's dismissal rather than issuing an independently explained merits ruling; also corrected the heading's “Willians” typo using the canonical title at line 1.",
+  "repair_needed": false,
+  "repair_notes": "No repair is required; the minor heading typo is resolvable from the canonical case title."
+}

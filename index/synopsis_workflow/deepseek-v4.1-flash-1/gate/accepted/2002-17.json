@@ -1,0 +1,50 @@
+{
+  "case_id": "2002-17",
+  "title": "Appeal of TE Sung K. Kim vs. Korean Capital Presbytery",
+  "matter_type": "appeal",
+  "final_dispositions": [
+    "judicially_out_of_order"
+  ],
+  "disposition_detail": "The appeal was declared judicially out of order, not decided on its merits: the record showed the appellant never submitted to a regular trial, so he was not entitled to appeal under BCO 42-2. The catalog header labels the disposition 'dismissed,' but the adopted judgment's operative language is 'judicially out of order.' The Presbytery's underlying contumacy finding and deposition under BCO 34-4 were left undisturbed. Adopted by the full SJC October 16, 2003: 18 concurring, 0 dissenting, 2 disqualified, 3 absent.",
+  "first_summary": "The appeal of TE Sung K. Kim against Korean Capital Presbytery was declared judicially out of order because Kim had not submitted to a regular trial; the Presbytery had instead found him guilty of contumacy and deposed him. No merits of the appeal were reached.",
+  "summary": "TE Sung K. Kim appealed his deposition by Korean Capital Presbytery, but the SJC declared the appeal judicially out of order. Because Kim had not submitted to a regular trial, he was not entitled to appeal under BCO 42-2; the Presbytery had instead found him guilty of contumacy and deposed him from office under BCO 34-4. The ruling disposes of the appeal without reaching its merits and leaves the deposition in force.",
+  "sources": [
+    {
+      "path": "cases/ga32_2004__2002-17.md",
+      "sha256": "a465af9bd66c07adaea42bddc7df1ac449bb82099786b177e210d60b15257941",
+      "locator": "lines 13-29 (printed pp. 103-104)",
+      "supports": "Panel recommendation that Case 2002-17 be declared judicially out of order under BCO 42-2/34-4; adoption vote and approval date."
+    }
+  ],
+  "evidence_notes": {
+    "identity_and_adoption": "Lines 13-19: 'JUDICIAL CASE 2002-17 APPEAL OF TE SUNG K. KIM VS. KOREAN CAPITAL PRESBYTERY'; panel recommendation signed by TE Dominic Aquila (chairman), RE Frank Brock, RE Collie Lehn, dated May 9, 2003. Line 29: 'Adopted: 18 concurring, 0 dissenting, 2 disqualified, 0 recused and 3 absent. Approved by the full Standing Judicial Commission on October 16, 2003.' So the panel's recommendation became the SJC's adopted judgment.",
+    "dispute": "Lines 15, 17: the appeal challenged Korean Capital Presbytery's action against TE Sung K. Kim; the record showed he 'did not submit to a regular trial before Korean Capital Presbytery, was found guilty of contumacy by the Presbytery, and was deposed from office (BCO 34-4).'",
+    "outcomes_and_reasons": "Line 17: 'Case 2002-17 ... is declared to be judicially out of order because the Record of the Case demonstrates that the Appellant did not submit to a trial (\"Only those who have submitted to a regular trial are entitled to an Appeal\" BCO 42-2).' No merits issue was decided; the deposition and contumacy finding were not disturbed. Line 3 header supplies the catalog label 'dismissed.'",
+    "qualifications": "Line 3 header/metadata calls the disposition 'dismissed,' which is catalog shorthand; the adopted text's operative ruling is judicially out of order. The listed concurrences and the two disqualifications and three absences (lines 21-29) are vote records, not separate opinions; no dissent or separate reasoning appears. Assembly is the 32nd (2004); the SJC approved the case October 16, 2003.",
+    "incorporated_decisions": "None. The only incorporated material is the Presbytery's own contumacy finding and deposition of Kim under BCO 34-4, reported as record content at line 17; no GA or SJC decision is incorporated by reference."
+  },
+  "source_limits": "The record is a short panel recommendation plus a vote tally (printed pp. 103-104). It gives no facts behind the contumacy charge, no transcript, and no discussion of any merits issue, so the synopsis is necessarily brief. The catalog header's 'dismissed' label conflicts with the adopted operative ruling and was resolved in favor of the text.",
+  "benchmark_examples": [
+    "A01 (2007-16, Grady v. Southwest Florida Presbytery): distinguish labels and remedy components rather than treating one disposition word as the whole result.",
+    "A20 (2013-12, Marshall v. Pacific Presbytery): a dismissal-type label can dispose of an appeal without any merits determination, so the label alone is inadequate."
+  ],
+  "scores": {
+    "concrete_dispute": 2,
+    "decision": 2,
+    "decisive_reason": 2,
+    "distinctive_value": 2,
+    "fidelity": 2,
+    "economy": 2
+  },
+  "score_reasons": {
+    "concrete_dispute": "Identifies the challenged action (Kim's deposition by Korean Capital Presbytery) and the appeal against it.",
+    "decision": "States the single material outcome — the appeal declared judicially out of order — and notes the undisturbed deposition; no other relief was sought or granted.",
+    "decisive_reason": "Gives the adopted reason verbatim in substance: no regular trial, so no right of appeal under BCO 42-2, with contumacy/deposition under BCO 34-4.",
+    "distinctive_value": "Preserves the rule that only one who submitted to a regular trial may appeal, and that an out-of-order ruling ends the appeal without merits review.",
+    "fidelity": "Keeps the panel recommendation, the full SJC's adoption, the vote records, the catalog header label, and the Presbytery's underlying action distinct; no reasons or results invented.",
+    "economy": "All retained detail (BCO citations, contumacy/deposition, adoption vote) bears on why the appeal ended or on the status left in force."
+  },
+  "verification_notes": "Rechecked lines 13-29 against the draft. Correction made: the first_summary treated the ruling as simply stated; the final summary adds the BCO 42-2 basis, the BCO 34-4 contumacy/deposition background, and the fact that the deposition remains in force. Confirmed the actor is the full SJC (panel recommendation adopted October 16, 2003, 18 concurring, 0 dissenting, 2 disqualified, 3 absent), not the panel acting alone. Confirmed the operative ruling is 'judicially out of order,' and that the header's 'dismissed' (line 3) is catalog metadata only; also confirmed the concurrence/disqualification/absence entries are vote records, not separate opinions, and that no merits issue or incorporated decision exists.",
+  "repair_needed": false,
+  "repair_notes": "No source defect requiring repair. The only discrepancy is the catalog header's 'dismissed' label versus the adopted text's 'judicially out of order'; this is a metadata imprecision corrected in the synopsis and disposition_detail, not a missing or corrupted source. All required content is present at lines 13-29."
+}

@@ -1,0 +1,50 @@
+{
+  "case_id": "2002-16",
+  "title": "Session of Delhi Presbyterian Church v. Louisiana Presbytery",
+  "matter_type": "complaint",
+  "final_dispositions": [
+    "sustained"
+  ],
+  "disposition_detail": "Complaint sustained. Issue 1 (timeliness of complaint against censure): yes. Issue 2 (SJC appellate review of LAP's exercise of original jurisdiction): yes. Issue 3 (LAP erred in finding contumacy): yes. Relief: LAP's judgment, for lack of jurisdiction, is a nullity; Mike Holland is subject to Delhi Presbyterian Church Session and its decisions. Three dissents (Donahoe, Duncan, Harrell); vote 18 concurring, 3 dissenting, 2 absent.",
+  "first_summary": "The SJC reversed Louisiana Presbytery's judgment finding Mike Holland guilty of contumacy, because the Delhi session had investigated and did not refuse to act under BCO 33-1, so the presbytery's assumption of original jurisdiction was invalid. The court held the complaint timely and the jurisdictional issue reviewable. Three commissioners dissented.",
+  "summary": "The SJC sustained a session's timely complaint that Louisiana Presbytery barred one of its members from the Lord's Table after assuming original jurisdiction. Under BCO 33-1, a presbytery may assume jurisdiction only when the session 'refuses to act'; because the session had investigated and found no strong presumption of guilt, it acted, so LAP never acquired jurisdiction. The censure was therefore a nullity, and the member remained under his session. The SJC also held the jurisdictional assumption reviewable despite no timely complaint against it. Three commissioners dissented.",
+  "sources": [
+    {
+      "path": "cases/ga32_2004__2002-16.md",
+      "sha256": "c1e20aff947bfffd03f61eae606a6810ef3313074618558b6a122373ee6f5749",
+      "locator": "lines 1, 11-13, 125-139, 243-247, 249-719",
+      "supports": "Canonical case ID/title, SJC adoption and vote, complaint judgment, majority reasoning, and dissenting opinions."
+    }
+  ],
+  "evidence_notes": {
+    "identity_and_adoption": "Canonical case ID/title at line 1; SJC, 32nd Assembly (2004), printed pp. 78-103; adopted by the full SJC on October 17, 2003, vote 18 concurring, 3 dissenting, 2 absent (line 247).",
+    "dispute": "Delhi Presbyterian Church Session complained that Louisiana Presbytery, after assuming original jurisdiction over member Mike Holland, indicted and convicted him of contumacy and barred him from the Lord's Table; DPC asserted LAP lacked jurisdiction because DPC had investigated and concluded no process was warranted (lines 17-123).",
+    "outcomes_and_reasons": "The SJC answered all three issues yes, sustained the complaint, declared LAP's judgment a nullity for lack of jurisdiction, and left Holland subject to DPC Session. Decisive reason: DPC's investigation and no-strong-presumption finding was 'action' under BCO 33-1, so LAP had no basis to assume original jurisdiction; jurisdictional boundaries are constitutionally preset and reviewable through the timely complaint against the censure (lines 125-239).",
+    "qualifications": "The adopted majority reasoning is distinct from three dissents (Donahoe, Duncan, Harrell), which dispute reviewability, the 'refuses to act' interpretation, and disposition; vote 18 concur, 3 dissent, 2 absent (lines 243-247, 249-719).",
+    "incorporated_decisions": "Dissents cite Abshire v. Pacific Northwest Presbytery, 2002-11, and Tampa 2000 Judicial Matter 99-1 (TE Wood) (M28GA pp. 238-241, 310; M29GA pp. 70-82); these are not majority-adopted results (lines 404-424, 527-539, 675-685)."
+  },
+  "source_limits": "The source is the SJC report with majority and dissenting opinions, not the full Record of the Case, briefs, transcripts, or independent copies of the cited Abshire/Tampa matters. Quoted incorporated decisions appear only in the dissenting opinions.",
+  "benchmark_examples": [
+    "O04: an answer 'by reference to' another decision is not a referral; here the SJC issued a merits judgment, so O04 is not applicable.",
+    "O05: keep distinct procedural vehicles separate; analogously distinguish the timely complaint against the censure from the untimely challenge to the January 19 assumption of original jurisdiction."
+  ],
+  "scores": {
+    "concrete_dispute": 2,
+    "decision": 2,
+    "decisive_reason": 2,
+    "distinctive_value": 2,
+    "fidelity": 2,
+    "economy": 2
+  },
+  "score_reasons": {
+    "concrete_dispute": "Identifies the challenged censure/bar from the Lord's Table and the jurisdictional assumption underlying it.",
+    "decision": "States the complaint was sustained and all three issue-level yes answers; notes the nullity remedy, remaining jurisdiction, and dissents.",
+    "decisive_reason": "Explains the BCO 33-1 'refuses to act' rationale and the constitutional reviewability of jurisdiction despite the untimely challenge to the assumption.",
+    "distinctive_value": "Preserves the rule that jurisdiction is constitutionally fixed and reviewable through a timely complaint against a later censure, plus the nullity remedy.",
+    "fidelity": "Keeps the majority holding, relief, and dissenting positions distinct and does not treat cited Abshire/Tampa material as adopted majority precedent.",
+    "economy": "All retained details explain the dispute, result, or limitation; no unnecessary filing chronology or names are included."
+  },
+  "verification_notes": "Rechecked the case header/title (line 1), the judgment and reasoning (lines 125-239), and adoption/vote (lines 243-247). Corrected the first draft's 'reversed' to 'sustained' and added that the complaint was timely, that LAP's judgment was a nullity for lack jurisdiction, and that Holland remained subject to DPC Session. Confirmed issue 2's reviewability holding despite no timely complaint against the January 19 assumption. Confirmed three dissents and the 18-3 vote. Confirmed the incorporated Abshire/Tampa material appears only in dissents.",
+  "repair_needed": false,
+  "repair_notes": "No source or catalog defect material to the synopsis was found."
+}

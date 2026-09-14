@@ -1,0 +1,56 @@
+{
+  "case_id": "1992-07",
+  "title": "Conrad et al. v. Central Carolina Presbytery (Case #2)",
+  "matter_type": "complaint",
+  "final_dispositions": [
+    "denied"
+  ],
+  "disposition_detail": "Issue #1 (whether Central Carolina Presbytery could constitutionally adopt its Investigative Committee report and not institute judicial process against TE Stephen O. Stout) answered in the affirmative; complaint denied. Issue #2 (whether the Presbytery could constitutionally refuse the original accusers voluntary-prosecutor status) answered in the affirmative; complaint denied.",
+  "first_summary": "The SJC denied a complaint against Central Carolina Presbytery’s actions concerning accusations against TE Stephen O. Stout. The Presbytery adopted an Investigative Committee report finding no strong presumption of guilt and did not institute process; it also refused voluntary-prosecutor status to the accusers. The SJC held that BCO 31-1, 31-2, and 31-3 gave the Presbytery jurisdiction and approval authority, so both constitutional issues were answered affirmatively and the complaint was denied.",
+  "summary": "A complaint arising from Central Carolina Presbytery’s refusal to prosecute TE Stephen O. Stout and to recognize his accusers as voluntary prosecutors was denied. The SJC framed two issues and answered both yes: the Presbytery could constitutionally adopt its Investigative Committee report and decline judicial process, because the Committee found no “strong presumption of guilt” under BCO 31-2; and it could refuse voluntary-prosecutor status, because BCO 31-1/31-3 left discipline to the Presbytery and made any voluntary prosecutor subject to its approval. The complaint was denied on both issues.",
+  "sources": [
+    {
+      "path": "cases/ga21_1993__1992-07.md",
+      "sha256": "23c8e7aa8f8f028772b133d71ad87531313f1cee87c7825cdb2d4afd37b449df",
+      "locator": "lines 14–54 (printed pp. 218–220)",
+      "supports": "Adopted statement of issues, judgment, and reasoning; complaint denied on both issues."
+    },
+    {
+      "path": "cases/ga21_1993__1992-07.md",
+      "sha256": "23c8e7aa8f8f028772b133d71ad87531313f1cee87c7825cdb2d4afd37b449df",
+      "locator": "lines 58–95 (printed pp. 220–221)",
+      "supports": "Approval vote and separate objection/dissent, not adopted reasoning."
+    }
+  ],
+  "evidence_notes": {
+    "identity_and_adoption": "Lines 1–5 identify the SJC, 21st GA (1993), and disposition “denied.” Lines 44–60 contain the adopted judgment and reasoning and the Jan. 15, 1993 approval by the SJC (21 concurring, 3 abstentions). Lines 62–95 are a separate Wilson objection and dissenters, not adopted.",
+    "dispute": "Lines 18–32 describe the complaint arising from 1992 Presbytery actions concerning Prosperity Presbyterian Church. Lines 36–40 state the two issues: adopting the Investigative Committee report and not instituting process against TE Stout, and refusing the original accusers voluntary-prosecutor status.",
+    "outcomes_and_reasons": "Lines 44–48 answer both issues in the affirmative and deny the complaint. Lines 50–54 give the adopted reasons: BCO 31-1/31-2 gave the Presbytery jurisdiction and care; the Committee found no strong presumption of guilt; BCO 31-3 made any voluntary prosecutor subject to Presbytery approval, and no just cause existed.",
+    "qualifications": "Lines 58–60 record the approval vote with concurrences and abstentions. Lines 62–95 show Wilson’s objection and dissenters Smith/Russell are separate; line 95 references a Coffin dissent at 21-77 p. 228. The adopted ruling gives no procedural response to the objection.",
+    "incorporated_decisions": "Line 26 mentions Case 92-6 only as a related constitutional question. Line 95 refers to a dissent in Case 92-7 at 21-77 p. 228. Neither incorporated decision is supplied, so no result is used from them."
+  },
+  "source_limits": "Only the assigned excerpt is supplied. Case 92-6, the 21-77 p. 228 Coffin dissent, the record, SJC Manual, and RAO are not included. The Wilson objection’s procedural criticisms are therefore noted only as separate, unadopted allegations.",
+  "benchmark_examples": [
+    "C01 — issue-level disposition clarity for a complaint with multiple constitutional questions.",
+    "C20 — separate or unadopted opinions are not attributed to the deciding body."
+  ],
+  "scores": {
+    "concrete_dispute": 2,
+    "decision": 2,
+    "decisive_reason": 2,
+    "distinctive_value": 2,
+    "fidelity": 2,
+    "economy": 2
+  },
+  "score_reasons": {
+    "concrete_dispute": "Identifies the Presbytery decisions on TE Stout and voluntary-prosecutor status as the challenged action.",
+    "decision": "States that both issues were answered affirmatively and the complaint was denied on each.",
+    "decisive_reason": "Recites the adopted BCO 31-1/31-2/31-3 rationale: no strong presumption of guilt and voluntary prosecutors remain subject to Presbytery approval.",
+    "distinctive_value": "Clarifies that a voluntary prosecutor is always a PCA representative subject to Presbytery approval and that the separate objection/dissent is not the court’s ruling.",
+    "fidelity": "Uses the adopted judgment and reasoning; treats the May 21/July 16 history, Case 92-6, and separate opinions as context only.",
+    "economy": "Compact summary; omits the objection’s detailed procedural claims because they were not adopted and no merits ruling was entered on them."
+  },
+  "verification_notes": "Rechecked adopted judgment lines 44–48 and reasoning lines 50–54; corrected the draft to state both affirmative issue answers and issue-specific denials rather than a general denial of Presbytery’s “handling.” Confirmed the deciding body is the SJC, not the GA, and that Wilson’s objection/dissent is separate and not adopted. Checked references to Case 92-6 and the Coffin dissent; neither supplies an incorporated result for this case. Metadata “denied” matches the adopted complaint denials.",
+  "repair_needed": false,
+  "repair_notes": "None."
+}

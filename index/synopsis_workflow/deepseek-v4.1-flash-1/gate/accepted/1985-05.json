@@ -1,0 +1,62 @@
+{
+  "case_id": "1985-05",
+  "title": "TE S. Michael Preg, Jr., et al. v. Missouri Presbytery",
+  "matter_type": "complaint",
+  "final_dispositions": [
+    "sustained"
+  ],
+  "disposition_detail": "The judicial commission voted 16-0 to sustain the complaint against Missouri Presbytery and to instruct the presbytery, by its normal process, to bring its Standing Rules and procedures into conformity with the BCO as interpreted by the ruling. The adopted grounds invoked BCO 11-4’s limit of higher-court jurisdiction to express constitutional provisions; the explanatory opinion held BCO 13-9 contained no clear, undebatable authorization for presbytery to require a committee visit absent a session/congregation request or specific problem, while encouraging voluntary pastoral oversight.",
+  "first_summary": "Missouri Presbytery required an annual committee visit to each session and congregation and adopted a plan to implement it. The Westminster session's complaint that this exceeded BCO 13-9 was denied by presbytery, then sustained by the judicial commission, which held BCO 11-4 limits higher-court jurisdiction to express constitutional provisions. The commission instructed presbytery to conform its rules and procedures and encouraged voluntary pastoral oversight.",
+  "summary": "Can a presbytery require an annual committee visit to every session and congregation absent a request or evident problem? The judicial commission sustained the complaint against Missouri Presbytery 16-0, holding BCO 11-4 limits higher-court jurisdiction to express constitutional provisions and BCO 13-9 contains no clear authorization for such required visits. It instructed presbytery to conform its Standing Rules and visitation procedures to the BCO, while encouraging voluntary pastoral oversight; several commissioners recorded negative votes without stated reasons.",
+  "sources": [
+    {
+      "path": "cases/ga13_1985__case1.md",
+      "sha256": "83b10b0ab36c008fcb6a92b14e6889189eba0b64c3e618cc865c2f9da9e308c7",
+      "locator": "source lines 11, 19–48, 85–97 (printed pp. 102, 127–129)",
+      "supports": "Identity of Case #5, complaint and overture context, presbytery denials, and referral to the judicial commission."
+    },
+    {
+      "path": "cases/ga13_1985__case1.md",
+      "sha256": "83b10b0ab36c008fcb6a92b14e6889189eba0b64c3e618cc865c2f9da9e308c7",
+      "locator": "source lines 99–120 (printed p. 129)",
+      "supports": "Issue, 16-0 judgment sustaining the complaint, instruction to conform, BCO 11-4 ground, and BCO 13-9 explanatory opinion; report marked Adopted."
+    },
+    {
+      "path": "cases/ga13_1985__case1.md",
+      "sha256": "83b10b0ab36c008fcb6a92b14e6889189eba0b64c3e618cc865c2f9da9e308c7",
+      "locator": "source lines 133–134 and 203 (printed pp. 129–130)",
+      "supports": "Recorded negative votes and commission minutes confirming sustained vote."
+    }
+  ],
+  "evidence_notes": {
+    "identity_and_adoption": "Case #5, TE S. Michael Preg, Jr., et al. v. Missouri Presbytery, is a complaint to the 13th General Assembly (1985). The judicial commission's report is headed 'ADJUDICATION OF CASE #5' and concludes 'Adopted' at source line 120. The commission minutes at lines 203–207 record the 16-0 sustained vote and final report approval.",
+    "dispute": "Missouri Presbytery adopted a Plan for Church Visitation and maintained a Standing Rule requiring its Committee on Care of the Churches to conduct yearly visits. The Westminster session's overture and complaint argued this exceeded BCO 13-9 because no problem or request justified required visits, and presbytery denied both the overture and complaint (lines 23–48, 89–95). The adjudication framed the issue as whether a presbytery may require a committee visit against the session's wishes and absent evident problem (lines 99–105).",
+    "outcomes_and_reasons": "The commission voted 16-0 to sustain the complaint and instruct presbytery to bring its Standing Rules and procedures into conformity with the BCO as interpreted (lines 107–109). Its ground was that BCO 11-4 limits higher-court jurisdiction to express constitutional provisions (lines 111–112). The explanatory opinion held BCO 13-9 has no clear, undebatable express provision allowing presbytery to require such a visit without request or specific problem; it commended pastoral concern but protected lower courts from higher-court encroachment and encouraged voluntary oversight (lines 114–120).",
+    "qualifications": "The source records that named commissioners requested their negative votes be recorded, but gives no dissent reasons (line 134); the header's 'Dissent: yes' is metadata. The complaint concerned presbytery's failure to delete a rule and rescind the plan, not personal guilt. The report says presbytery acted from pastoral concern and encourages voluntary action (line 118).",
+    "incorporated_decisions": "No decision is incorporated by reference. The minutes note Constitutional Inquiry 12, p. 245, as relevant and say a Twelfth General Assembly decision about a Northeast Presbytery visitation committee was distributed (lines 189, 199), but neither text nor result is supplied, and the adopted judgment does not rely on an incorporated result."
+  },
+  "source_limits": "The record contains the complaint, adjudication, explanatory opinion, and minutes, but not the full attachments, Assembly debate, or dissent reasons. The prior Twelfth GA decision and Constitutional Inquiry 12 are mentioned without their text or results. No lower-court merits verdict beyond denial is available.",
+  "benchmark_examples": [
+    "C01 — complaint partly sustained; preserve procedural rulings and unsuccessful claims.",
+    "C20 — unexplained separate opinion; do not supply a rationale not adopted."
+  ],
+  "scores": {
+    "concrete_dispute": 2,
+    "decision": 2,
+    "decisive_reason": 2,
+    "distinctive_value": 2,
+    "fidelity": 2,
+    "economy": 2
+  },
+  "score_reasons": {
+    "concrete_dispute": "Identifies the challenged presbytery rule and plan requiring annual committee visits absent request or evident problem.",
+    "decision": "States the 16-0 sustained complaint and the instruction to conform, and notes recorded negative votes without treating presbytery's denial as the disposition.",
+    "decisive_reason": "Gives the adopted BCO 11-4 jurisdictional limit and BCO 13-9 no-clear-authorization rationale.",
+    "distinctive_value": "Preserves the rule protecting lower courts from implied higher-court encroachment and the voluntary-oversight qualification.",
+    "fidelity": "Keeps complaint allegations, presbytery denial, adopted judgment, explanatory opinion, and unexplained negative votes distinct.",
+    "economy": "Concise synopsis; no addresses, filing chronology, or unsupported historical claims."
+  },
+  "verification_notes": "Rechecked source lines 99–120 for the issue, 16-0 vote, relief, BCO 11-4 ground, BCO 13-9 explanatory opinion, and the report's 'Adopted' notation; confirmed the sustained vote at line 203. Rechecked line 134 and kept the recorded negative votes as unexplained. Corrected first_summary to add the recorded negative votes and the voluntary-oversight qualification; confirmed no disposition is attributed to Missouri Presbytery's denials. Confirmed no incorporated decision result is relied on.",
+  "repair_needed": false,
+  "repair_notes": "None."
+}

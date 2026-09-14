@@ -1,0 +1,50 @@
+{
+  "case_id": "1997-11",
+  "title": "Raymond Larsen v. Pacific Presbytery",
+  "matter_type": "appeal",
+  "final_dispositions": [
+    "administratively_out_of_order"
+  ],
+  "disposition_detail": "The SJC unanimously approved the chair and secretary's finding that Larsen's appeal was administratively out of order under BCO 42-2 because he had not submitted to a regular trial.",
+  "first_summary": "A member sought to appeal a Session judgment deposing him for contumacy after he failed to appear for trial. The SJC unanimously found the appeal administratively out of order because BCO 42-2 permits an appeal only by a person who submitted to a regular trial. The notice does not review the merits of the deposition.",
+  "summary": "Raymond Larsen sought to appeal a Session judgment deposing him for contumacy after he failed to appear for trial. The SJC unanimously found the appeal administratively out of order because BCO 42-2 permits an appeal only by a person who submitted to a regular trial. The notice does not review the merits of the deposition.",
+  "sources": [
+    {
+      "path": "cases/ga26_1998__1997-11.md",
+      "sha256": "45411282e0ebd67bb29e80c6c56a0f7357227c3bbe7fb29ed8316f43fff4d881",
+      "locator": "original lines 12-16 (printed p. 144)",
+      "supports": "Appeal docket and caption, challenged deposition, administrative out-of-order finding, and BCO 42-2 reason."
+    }
+  ],
+  "evidence_notes": {
+    "identity_and_adoption": "Original lines 12-16 identify Appeal Case 97-11, Raymond Larsen v. Pacific Presbytery, and state that the Standing Judicial Commission unanimously approved the finding.",
+    "dispute": "Original line 16 says Larsen appealed the Session judgment deposing him for contumacy arising from his failure to appear for trial.",
+    "outcomes_and_reasons": "Original line 16 finds the appeal administratively out of order because BCO 42-2 restricts appeal to those who submitted to regular trial.",
+    "qualifications": "The notice gives a filing-eligibility ruling only and does not decide whether the deposition was substantively correct; it does not add an express dismissal.",
+    "incorporated_decisions": "Not applicable; original line 16 contains the complete operative finding."
+  },
+  "source_limits": "Sparse final procedural notice containing the SJC's adopted finding and stated reason, but no merits opinion or separate remedial order.",
+  "benchmark_examples": [
+    "A10",
+    "C23"
+  ],
+  "scores": {
+    "concrete_dispute": 2,
+    "decision": 2,
+    "decisive_reason": 2,
+    "distinctive_value": 2,
+    "fidelity": 2,
+    "economy": 2
+  },
+  "score_reasons": {
+    "concrete_dispute": "Identifies the appealed deposition and the nonappearance underlying contumacy.",
+    "decision": "States the exact administrative out-of-order disposition.",
+    "decisive_reason": "Gives BCO 42-2's regular-trial prerequisite.",
+    "distinctive_value": "Shows that failure to submit to trial foreclosed appeal.",
+    "fidelity": "Does not add dismissal or imply merits review.",
+    "economy": "Matches the brevity of the one-paragraph notice."
+  },
+  "verification_notes": "Separate same-reviewer pass reopened original lines 12-16. Sentence 1 maps to the appealed judgment and contumacy facts in line 16; sentence 2 maps to the approved administrative ruling and quoted BCO 42-2 requirement; sentence 3 records the notice's merits limit. The final replaces the first draft's generic 'A member' with Larsen's name because the notice does not state his membership status. No dismissal was added.",
+  "repair_needed": false,
+  "repair_notes": "No source, identity, boundary, or catalog defect blocks the synopsis."
+}

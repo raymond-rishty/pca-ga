@@ -1,0 +1,51 @@
+{
+  "case_id": "2009-11",
+  "title": "TE Larry Edison, et al. v. Southwest Florida Presbytery",
+  "matter_type": "complaint",
+  "final_dispositions": [
+    "partially_sustained",
+    "annulled"
+  ],
+  "disposition_detail": "Issue 1 was not sustained: Presbytery could hear and sustain the earlier complaint. Issues 2 and 3 were sustained. The SJC annulled the March 14 order for reexamination and the March 24 actions, then directed Presbytery to meet and consider appropriate remedies.",
+  "first_summary": "Ministers complained that Southwest Florida Presbytery improperly reexamined Bryan Gregory and reversed its approval of his examination, membership, and call after previously receiving him. The SJC upheld Presbytery’s authority to hear and sustain the earlier complaint but sustained the present complaint concerning its remedial actions. Sustaining a complaint did not itself undo the challenged acts, and Gregory’s membership rights could be removed only through disciplinary due process. The reexamination and March 24 actions were annulled.",
+  "summary": "Ministers complained that Southwest Florida Presbytery improperly reexamined Bryan Gregory and reversed his examination, membership, and call after previously receiving him. The SJC upheld Presbytery’s authority to hear and sustain the earlier complaint but sustained the present complaint on the remedial actions. Sustaining a complaint did not itself undo prior acts; once Presbytery had treated Gregory as a member, his membership rights could be removed only through disciplinary due process. The SJC annulled the reexamination and March 24 actions and directed Presbytery to consider appropriate remedies. Gregory’s theology was not before it.",
+  "sources": [
+    {
+      "path": "cases/ga38_2010__2009-11.md",
+      "sha256": "598ba7c2a28769ba40dd562581cc6a6452723a2503bd67d7076de58c7d028ff2",
+      "locator": "printed pp. 242–248, lines 13–164",
+      "supports": "Case identity, facts, issues, judgments, majority reasoning, relief, adoption, and vote."
+    }
+  ],
+  "evidence_notes": {
+    "identity_and_adoption": "The caption identifies SJC Case 2009-11 (printed p. 242, line 13). The panel decision was amended by the full SJC; the vote was 15–3 with one abstention (printed p. 248, lines 160–164).",
+    "dispute": "The complaint challenged the March 14 and 24 reexamination and reversal of Gregory’s examination, membership, and call (printed pp. 243–244, lines 28–42).",
+    "outcomes_and_reasons": "Judgments were No, Yes, Yes (printed p. 244, lines 44–50). A sustained complaint did not itself invalidate prior action, and membership could be removed only through disciplinary due process; specified actions were annulled (printed pp. 244–248, lines 73–115, 152–158).",
+    "qualifications": "The theological correctness of either examination was not raised and was not before the SJC (printed p. 244, lines 68–71). A dissent disputed whether Gregory had completed his transfer and acquired membership rights (printed pp. 250–252, lines 188–244).",
+    "incorporated_decisions": "No decision was incorporated by reference as the operative judgment. The majority discussed SJC 23 only as supporting precedent (printed pp. 246–247, lines 117–150)."
+  },
+  "source_limits": "The supplied text contains a garbled sentence at line 154, but the operative judgments, reasoning, and relief remain clear.",
+  "benchmark_examples": [
+    "C01",
+    "C02"
+  ],
+  "scores": {
+    "concrete_dispute": 2,
+    "decision": 2,
+    "decisive_reason": 2,
+    "distinctive_value": 2,
+    "fidelity": 2,
+    "economy": 2
+  },
+  "score_reasons": {
+    "concrete_dispute": "Identifies the challenged reexamination and reversal of examination, membership, and call.",
+    "decision": "States the unsuccessful first issue, successful remaining issues, annulment, and direction to Presbytery.",
+    "decisive_reason": "Explains both that sustaining a complaint is not self-executing and that membership requires disciplinary due process.",
+    "distinctive_value": "Preserves the distinction between sustaining a complaint and lawfully undoing completed membership action.",
+    "fidelity": "Separates the majority holding, excluded theological merits, and dissenting membership theory.",
+    "economy": "Retains only facts needed to explain the mixed result, governing distinction, and relief."
+  },
+  "verification_notes": "Rechecked the three judgments and operative relief. The final summary adds the direction that Presbytery consider appropriate remedies and clarifies that Gregory’s theology was not before the SJC; it does not characterize that direction as a remand.",
+  "repair_needed": false,
+  "repair_notes": ""
+}

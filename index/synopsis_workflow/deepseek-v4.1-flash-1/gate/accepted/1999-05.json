@@ -1,0 +1,51 @@
+{
+  "case_id": "1999-05",
+  "title": "Lawrence Rountree v. Covenant Presbytery",
+  "matter_type": "appeal",
+  "final_dispositions": [
+    "denied",
+    "sustained"
+  ],
+  "disposition_detail": "SJC denied the appeal and sustained Covenant Presbytery's divestiture without censure. The single issue was whether Presbytery erred under BCO 34-10; the SJC held it did not. No censure was imposed, no other relief was granted, and the divestiture remained in effect.",
+  "first_summary": "A minister appealed Covenant Presbytery's decision to divest him without censure after he remained on its rolls without call and outside its bounds for more than seven years. The SJC denied the appeal, holding that BCO 13-2 and 34-10 allowed Presbytery to proceed because the three-year limit had long passed and he had no call to a particular ministry. The divestiture remained in place.",
+  "summary": "After a minister remained on his presbytery's rolls without call and outside its bounds for more than seven years, the presbytery completed involuntary divestiture without censure. He appealed. The SJC denied the appeal and sustained the divestiture, reasoning that BCO 13-2 and 34-10 allowed the presbytery to follow that procedure once the constitutional three-year limit had long passed and no call to a particular ministry was available. The action therefore left the divestiture without censure in force.",
+  "sources": [
+    {
+      "path": "cases/ga29_2001__1999-05.md",
+      "sha256": "7dab918de21e0264a8cc84d570b94013cd067906a02626b0d2494f04e87662d5",
+      "locator": "lines 1-5, 48-56, 60-70, 72-82 (printed pp. 82-85)",
+      "supports": "Case identity, procedural posture, issue, judgment, adopted reasoning, concurrence, and vote."
+    }
+  ],
+  "evidence_notes": {
+    "identity_and_adoption": "Source: cases/ga29_2001__1999-05.md; SHA 7dab918de21e0264a8cc84d570b94013cd067906a02626b0d2494f04e87662d5; lines 1-5, 48, 54-56, 72-82. SJC case 1999-05, 29th GA (2001); panel heard Nov. 27, 2000; opinion by John B. White Jr., concurred in by TEs Konopa and Aquila; roll call 15 concur, 0 dissent, 9 absent.",
+    "dispute": "Lines 16-44, 50-52: TE Rountree appealed Covenant Presbytery's Oct. 1999 vote divesting him without censure after prolonged absence of call; issue was whether Presbytery erred under BCO 34-10.",
+    "outcomes_and_reasons": "Lines 54-70: Judgment 'No'; SJC held Presbytery acted within constitutional prerogatives under BCO 13-2 and 34-10 because Rountree had been on the rolls without call and out of bounds since May 1993, over seven years, four beyond the BCO limit, and had no call prospects.",
+    "qualifications": "Lines 56, 66-68, 82: divestiture was 'without censure'; Presbytery had denied his retirement/emeritus request; no separate opinion; 15 concur, 0 dissent, 9 absent. The appeal denial granted no affirmative relief.",
+    "incorporated_decisions": "No incorporated decision. The presbytery actions in lines 16-44 are the challenged historical actions, not adopted SJC reasoning; no lower-court judgment is incorporated by reference."
+  },
+  "source_limits": "The supplied source is the SJC decision and roll call. It does not include the full presbytery record, BCO text, or any separate opinions. The decision is reasoned but brief.",
+  "benchmark_examples": [
+    "A01: used the distinction between an underlying action and censure/penalty; here the SJC sustained divestiture without censure and imposed no censure.",
+    "A03: used its lesson that mixed outcomes must be separated; this case has a single issue and single result, so no partial-sustain language applies."
+  ],
+  "scores": {
+    "concrete_dispute": 2,
+    "decision": 2,
+    "decisive_reason": 2,
+    "distinctive_value": 2,
+    "fidelity": 2,
+    "economy": 2
+  },
+  "score_reasons": {
+    "concrete_dispute": "Identifies Covenant Presbytery's divestiture without censure after prolonged no-call and out-of-bounds status, not just parties.",
+    "decision": "States the SJC denied the appeal and sustained the divestiture without censure; no other relief was granted.",
+    "decisive_reason": "Gives the adopted BCO 13-2 and 34-10 reasoning: over three years without call, over seven years total, out of bounds, and no call prospects.",
+    "distinctive_value": "Preserves that divestiture without censure is constitutional and distinct from censure; no penalty was imposed.",
+    "fidelity": "Keeps the SJC's judgment separate from the presbytery's historical actions; notes no separate opinions and no incorporated decisions.",
+    "economy": "About 77 words; each detail supports the issue, holding, reason, or remaining effect."
+  },
+  "verification_notes": "Rechecked lines 52, 54-56, 60, 70, 72-82. Corrected first_summary by expressly adding that the SJC sustained the divestiture, not merely denied the appeal, and by specifying 'involuntary' divestiture without censure. Confirmed actor is the SJC, challenged action is Covenant Presbytery's Oct. 1999 divestiture, adopted reason is BCO 13-2 and 34-10, and relief is none: the no-censure divestiture remained in force. The presbytery's earlier denial of emeritus/retirement and rescission of transfer were lower-body actions, not SJC dispositions; no separate opinions or incorporated decisions appear.",
+  "repair_needed": false,
+  "repair_notes": "No source or catalog defect identified."
+}
