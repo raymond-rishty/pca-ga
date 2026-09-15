@@ -6,7 +6,7 @@
 
 | Year | Type | Title | Disposition |
 |------|------|-------|-------------|
-| 2019 | Judicial case | [Lewis v. Presbytery of the Mississippi Valley](../cases/ga47_2019__2018-02.md) | administrative |
+| 2019 | Judicial case | [Anna Lewis v. Presbytery of the Mississippi Valley](../cases/ga47_2019__2018-02.md) | out_of_order |
 
 ---
 *[← Authority Index](../index/AUTHORITY-BY-PROVISION.md)*

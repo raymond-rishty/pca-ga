@@ -6,8 +6,8 @@
 
 | Year | Type | Title | Disposition |
 |------|------|-------|-------------|
-| 1991 | Judicial case | [Grace Covenant Presbyterian Church, Blacksburg, VA v. New River Presbytery](../cases/ga19_1991__1990-03.md) | other |
-| 2006 | Judicial case | [Chastain v. Heritage Presbytery](../cases/ga34_2006__2005-01.md) | not_sustained |
+| 1991 | Judicial case | [Grace Covenant Presbyterian Church v. New River Presbytery](../cases/ga19_1991__1990-03.md) | other |
+| 2006 | Judicial case | [Chastain v. Heritage Presbytery](../cases/ga34_2006__2005-01.md) | denied |
 
 ## Medium authority
 

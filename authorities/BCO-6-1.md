@@ -6,8 +6,8 @@
 
 | Year | Type | Title | Disposition |
 |------|------|-------|-------------|
-| 2008 | Judicial case | [Memorial of Central Carolina v. Louisiana](../cases/ga36_2008__2006-02.md) | sustained |
-| 2023 | Judicial case | [Wilson et al. v. Pacific Northwest Presbytery](../cases/ga50_2023__2022-20.md) | out_of_order |
+| 2008 | Judicial case | [Memorial of Central Carolina v. Louisiana](../cases/ga36_2008__2006-02.md) | other |
+| 2023 | Judicial case | [Wilson et al. v. Pacific Northwest Presbytery](../cases/ga50_2023__2022-20.md) | dismissed |
 
 ## Low-but-important
 

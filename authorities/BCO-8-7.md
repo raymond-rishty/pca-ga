@@ -78,11 +78,16 @@
 | 2013 | RPR exception | [Central Carolina: No record in the minutes of any of the four 2012 stated meetings of an annual report from](../rpr/exc/central-carolina__013.md) | raised |
 | 2013 | RPR exception | [Chicago Metro: No record in the minutes of any of the four 2012 stated meetings of an annual report from](../rpr/exc/chicago-metro__023.md) | satisfactory |
 | 2013 | RPR exception | [Evangel: no record in the minutes of any stated meetings of an annual report from TEs working out o](../rpr/exc/evangel__056.md) | satisfactory |
+| 2013 | RPR exception | [Gulf Coast: TE laboring out of bounds; no annual report.](../rpr/exc/gulf-coast__030.md) | raised |
 | 2013 | RPR exception | [Iowa: No record in the minutes of any stated meetings of an annual report from TEs working out o](../rpr/exc/iowa__005.md) | raised |
 | 2013 | RPR exception | [James River: No record in the minutes of any stated meetings of an annual report from TEs working out o](../rpr/exc/james-river__041.md) | raised |
+| 2013 | RPR exception | [Metropolitan New York: TE laboring out of bounds; no annual report.](../rpr/exc/metropolitan-new-york__034.md) | satisfactory |
 | 2013 | RPR exception | [New Jersey: No record of some annual reports of TEs laboring out of bounds.](../rpr/exc/new-jersey__029.md) | raised |
 | 2013 | RPR exception | [Ohio Valley: No record of review of church Session records. Exception: General ( BCO 8-7) – No record i](../rpr/exc/ohio-valley__020.md) | raised |
+| 2013 | RPR exception | [Platte Valley: No record in the minutes of any stated meetings of an annual report from TEs working out o](../rpr/exc/platte-valley__003.md) | raised |
 | 2013 | RPR exception | [Rocky Mountain: No record in the minutes of any Stated Meetings of an annual report from TEs working out o](../rpr/exc/rocky-mountain__023.md) | satisfactory |
+| 2013 | RPR exception | [South Florida: No record in the minutes of any stated meetings of an annual report from TEs working out o](../rpr/exc/south-florida__010.md) | unsatisfactory |
+| 2013 | RPR exception | [Suncoast Florida: TE laboring out of bounds; no annual report.](../rpr/exc/suncoast-florida__019.md) | satisfactory |
 | 2014 | RPR exception | [Central Carolina: No record in the minutes of any of the four 2012 stated meetings of an annual report from](../rpr/exc/central-carolina__014.md) | satisfactory |
 | 2014 | RPR exception | [Gulf Coast: TE laboring out of bounds; no annual report. Response : Gulf Coast Presbytery acknowledges](../rpr/exc/gulf-coast__032.md) | satisfactory |
 | 2014 | RPR exception | [Iowa: No record in the minutes of any stated meetings of an annual report from TEs working out o](../rpr/exc/iowa__007.md) | satisfactory |

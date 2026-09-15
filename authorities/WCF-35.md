@@ -6,7 +6,7 @@
 
 | Year | Type | Title | Disposition |
 |------|------|-------|-------------|
-| 2022 | Judicial case | [Speck v. Missouri Presbytery](../cases/ga49_2022__2020-05.md) | partially_sustained |
+| 2022 | Judicial case | [Speck v. Missouri Presbytery](../cases/ga49_2022__2020-05.md) | sustained |
 
 ---
 *[← Authority Index](../index/AUTHORITY-BY-PROVISION.md)*

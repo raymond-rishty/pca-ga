@@ -6,7 +6,7 @@
 
 | Year | Type | Title | Disposition |
 |------|------|-------|-------------|
-| 1989 | Judicial case | [Debardeleben v. Philadelphia Presbytery](../cases/ga17_1989__case3.md) | sustained |
+| 1989 | Judicial case | [DeBardeleben v. Philadelphia Presbytery](../cases/ga17_1989__case3.md) | sustained |
 
 ## Medium authority
 

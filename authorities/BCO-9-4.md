@@ -7,7 +7,7 @@
 | Year | Type | Title | Disposition |
 |------|------|-------|-------------|
 | 2011 | Judicial case | [Brown v. Northern California Presbytery](../cases/ga39_2011__2009-25_2009-26.md) | sustained |
-| 2023 | Judicial case | [Wilson et al. v. Pacific Northwest Presbytery](../cases/ga50_2023__2022-20.md) | out_of_order |
+| 2023 | Judicial case | [Wilson et al. v. Pacific Northwest Presbytery](../cases/ga50_2023__2022-20.md) | dismissed |
 
 ## Medium authority
 

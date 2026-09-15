@@ -6,7 +6,7 @@
 
 | Year | Type | Title | Disposition |
 |------|------|-------|-------------|
-| 1991 | Judicial case | [Charles E. Chappell v. Eastern Carolina Presbytery](../cases/ga19_1991__1990-04.md) | sustained |
+| 1991 | Judicial case | [Chappell v. Eastern Carolina Presbytery](../cases/ga19_1991__1990-04.md) | sustained |
 | 2009 | Judicial case | [Session of Crossroads Community Church v. Philadelphia Presbytery](../cases/ga37_2009__2008-01_2008-10.md) | denied |
 | 2009 | Judicial case | [David Kniseley et al. v. Rocky Mountain Presbytery](../cases/ga37_2009__2007-13.md) | denied |
 

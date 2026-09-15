@@ -6,7 +6,6 @@
 
 | Year | Type | Title | Disposition |
 |------|------|-------|-------------|
-| 1991 | Judicial case | [M/M Bryan Melton, et al. v. Tennessee Valley Presbytery](../cases/ga19_1991__1990-05.md) | denied |
 | 2012 | Judicial case | [Kim v. Korean Capital Presbytery](../cases/ga40_2012__2011-05.md) | administrative |
 | 2025 | Judicial case | [Gleason v. Houston Metro Presbytery](../cases/ga52_2025__2024-02.md) | dismissed |
 | 2025 | Judicial case | [Colquitt v. Houston Metro Presbytery](../cases/ga52_2025__2024-13.md) | denied |

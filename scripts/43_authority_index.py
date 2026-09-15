@@ -53,6 +53,12 @@ def norm_prov(s: str) -> str:
     s = re.sub(r'(-\d+)([a-zA-Z])$', lambda m: f'{m.group(1)}.{m.group(2).lower()}', s)
     # Strip trailing punctuation and stray brackets: "BCO 21-7:" / "BCO 21-4)" -> clean
     s = s.rstrip(':;.,)')
+    # Canonical provision numbers do not retain OCR/source padding: BCO 08-7 -> BCO 8-7.
+    s = re.sub(
+        r'^(BCO|WCF|WLC|WSC|RAO) (\d+)(.*)$',
+        lambda m: f'{m.group(1)} {int(m.group(2))}{m.group(3)}',
+        s,
+    )
     return s
 
 def extract_provisions(text: str) -> list[str]:

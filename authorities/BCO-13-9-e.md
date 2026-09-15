@@ -6,7 +6,7 @@
 
 | Year | Type | Title | Disposition |
 |------|------|-------|-------------|
-| 2024 | Judicial case | [Turner v. South Florida Presbytery](../cases/ga51_2024__2022-22.md) | partially_sustained |
+| 2024 | Judicial case | [Turner v. South Florida Presbytery](../cases/ga51_2024__2022-22.md) | not_sustained |
 
 ---
 *[← Authority Index](../index/AUTHORITY-BY-PROVISION.md)*

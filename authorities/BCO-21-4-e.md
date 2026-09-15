@@ -6,13 +6,13 @@
 
 | Year | Type | Title | Disposition |
 |------|------|-------|-------------|
-| 2016 | Judicial case | [Aven and Dively v. Ohio Valley Presbytery](../cases/ga44_2016__2014-01.md) | partially_sustained |
+| 2016 | Judicial case | [Aven and Dively v. Ohio Valley Presbytery](../cases/ga44_2016__2014-01.md) | other |
 | 2017 | Judicial case | [Barnes v. Heartland Presbytery](../cases/ga45_2017__2015-13.md) | sustained |
 | 2017 | Judicial case | [Aven v. Ohio Valley Presbytery](../cases/ga45_2017__2016-01.md) | denied |
 | 2021 | Judicial case | [Schrock et al. v. Philadelphia Presbytery](../cases/ga48_2021__2019-02.md) | sustained |
-| 2023 | Judicial case | [Herron & Baysinger v. Central Indiana Presbytery](../cases/ga50_2023__2022-02.md) | referred |
+| 2023 | Judicial case | [Herron & Baysinger v. Central Indiana Presbytery](../cases/ga50_2023__2022-02.md) | other |
 | 2023 | Judicial case | [Klett et al. v. Philadelphia Presbytery](../cases/ga50_2023__2022-03.md) | sustained |
-| 2024 | Judicial case | [Senters v. Savannah River Presbytery](../cases/ga51_2024__2022-21.md) | partially_sustained |
+| 2024 | Judicial case | [Senters v. Savannah River Presbytery](../cases/ga51_2024__2022-21.md) | not_sustained |
 
 ## Low-but-important
 

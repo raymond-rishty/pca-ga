@@ -7,11 +7,12 @@
 | Year | Type | Title | Disposition |
 |------|------|-------|-------------|
 | 2006 | Judicial case | [Chastain v. Heritage](../cases/ga35_2007__2006-07.md) | out_of_order |
-| 2008 | Judicial case | [Memorial of Central Carolina v. Louisiana](../cases/ga36_2008__2006-02.md) | sustained |
+| 2008 | Judicial case | [Memorial of Central Carolina v. Louisiana](../cases/ga36_2008__2006-02.md) | other |
 | 2016 | Judicial case | [Thompson v. South Florida Presbytery](../cases/ga44_2016__2015-11.md) | sustained |
 | 2021 | Judicial case | [Gendy v. Central Florida Presbytery](../cases/ga48_2021__2019-13.md) | sustained |
+| 2021 | Judicial case | [Presbyterian Church in America v. Presbytery of the Mississippi Valley](../cases/ga48_2021__2019-06.md) | sustained |
 | 2023 | Judicial case | [BCO 34-1 Petitions re: Missouri Presbytery](../cases/ga50_2023__2022-12.md) | dismissed |
-| 2024 | Judicial case | [Evans v. Arizona Presbytery](../cases/ga51_2024__2023-07.md) | sustained |
+| 2024 | Judicial case | [Evans v. Arizona Presbytery](../cases/ga51_2024__2023-07.md) | granted |
 | 2025 | Judicial case | [Felipe Assis and Carter Brown v. South Florida Presbytery](../cases/ga52_2025__2025-12_2025-13.md) | sustained |
 
 ## Low-but-important

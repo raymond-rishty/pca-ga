@@ -7,7 +7,7 @@
 | Year | Type | Title | Disposition |
 |------|------|-------|-------------|
 | 2006 | Judicial case | [Chastain v. Heritage](../cases/ga35_2007__2006-07.md) | out_of_order |
-| 2024 | Judicial case | [Evans v. Arizona Presbytery](../cases/ga51_2024__2023-07.md) | sustained |
+| 2024 | Judicial case | [Evans v. Arizona Presbytery](../cases/ga51_2024__2023-07.md) | granted |
 
 ## Low-but-important
 

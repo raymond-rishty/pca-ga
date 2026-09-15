@@ -6,9 +6,9 @@
 
 | Year | Type | Title | Disposition |
 |------|------|-------|-------------|
-| 1992 | Judicial case | [Robert D. Hopper v. James River Presbytery](../cases/ga20_1992__1991-04.md) | denied |
-| 2010 | Judicial case | [Urish v. Rocky Mountain Presbytery](../cases/ga38_2010__2009-07.md) | denied |
-| 2024 | Judicial case | [BCO 40-5 Matter re Metropolitan NY](../cases/ga51_2024__2023-13.md) | referred |
+| 1992 | Judicial case | [Robert D. Hopper v. James River Presbytery](../cases/ga20_1992__1991-04.md) |  |
+| 2010 | Judicial case | [Urish v. Rocky Mountain Presbytery](../cases/ga38_2010__2009-07.md) | not_sustained |
+| 2024 | Judicial case | [BCO 40-5 Matter re Metropolitan NY](../cases/ga51_2024__2023-13.md) | remitted |
 | 2025 | Judicial case | [Bigelow v. North Florida Presbytery](../cases/ga52_2025__2024-05.md) | granted |
 | 2025 | Judicial case | [Martinez v. Pacific Presbytery](../cases/ga52_2025__2023-20.md) | sustained |
 

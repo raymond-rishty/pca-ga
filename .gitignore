@@ -9,6 +9,46 @@ minutes/
 index/disp_candidates/
 index/ratif_candidates/
 index/reocr/
+index/synopsis_workflow/
+
+# Local synopsis evaluation tooling
+.agents/skills/pca-ga-case-synopses/
+scripts/14_judicial_summary_audit.py
+scripts/67_audit_case_regressions.py
+scripts/68_repair_case_markdown_structure.py
+scripts/69_reextract_case_overrides.py
+scripts/78_audit_case_identities.py
+scripts/79_prioritize_synopsis_review.py
+scripts/80_publish_synopsis_reviews.py
+scripts/run-openai-sol-batches.ps1
+scripts/run-openai-sol-reviews.ps1
+scripts/run-synopses-compact.ps1
+scripts/run-synopses.ps1
+scripts/run-synopsis-review.ps1
+scripts/run_synopses.py
+scripts/run_synopses_compact.py
+scripts/synopsis_batch_api.py
+scripts/synopsis_candidate_ingest.py
+scripts/synopsis_deepseek_api.py
+scripts/synopsis_deepseek_gate.py
+scripts/synopsis_preflight.py
+scripts/synopsis_queue.py
+scripts/synopsis_review_offline.py
+scripts/synopsis_review_server.py
+scripts/synopsis_sol_review_api.py
+tests/test_deepseek_review_plan.py
+tests/test_case_identity_audit.py
+tests/test_publish_synopsis_reviews.py
+tests/test_synopsis_batch.py
+tests/test_synopsis_batch_api.py
+tests/test_synopsis_candidate_ingest.py
+tests/test_synopsis_compact.py
+tests/test_synopsis_deepseek_api.py
+tests/test_synopsis_deepseek_gate.py
+tests/test_synopsis_queue.py
+tests/test_synopsis_review_server.py
+tests/test_synopsis_sol_review_api.py
+tests/test_synopsis_runner.py
 
 # OCR bakeoff generated data / environments
 ocr-bakeoff/envs/

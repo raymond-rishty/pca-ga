@@ -6,7 +6,7 @@
 
 | Year | Type | Title | Disposition |
 |------|------|-------|-------------|
-| 1998 | Judicial case | [Mt. Carmel Session v. New Jersey Presbytery](../cases/ga26_1998__1997-05.md) | sustained |
+| 1998 | Judicial case | [Mt. Carmel Session v. New Jersey Presbytery](../cases/ga26_1998__1997-05.md) | denied |
 
 ---
 *[← Authority Index](../index/AUTHORITY-BY-PROVISION.md)*

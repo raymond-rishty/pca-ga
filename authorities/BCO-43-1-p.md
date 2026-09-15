@@ -6,7 +6,7 @@
 
 | Year | Type | Title | Disposition |
 |------|------|-------|-------------|
-| 1992 | Judicial case | [Daniel R. Morse v. Covenant Presbytery](../cases/ga20_1992__1991-03.md) | abandoned |
+| 1992 | Judicial case | [Daniel R. Morse v. Covenant Presbytery](../cases/ga20_1992__1991-03.md) | sustained |
 
 ## Low-but-important
 

@@ -7,7 +7,7 @@
 | Year | Type | Title | Disposition |
 |------|------|-------|-------------|
 | 2003 | Judicial case | [Carolyn Goerig v. Pacific Northwest Presbytery](../cases/ga31_2003__2002-10.md) | sustained |
-| 2003 | Judicial case | [Brian Abshire v. Pacific Northwest Presbytery](../cases/ga31_2003__2002-11.md) | partially_sustained |
+| 2003 | Judicial case | [Brian Abshire v. Pacific Northwest Presbytery](../cases/ga31_2003__2002-11.md) | not_sustained |
 | 2016 | Judicial case | [Thompson v. South Florida Presbytery](../cases/ga44_2016__2015-11.md) | sustained |
 
 ## Medium authority

@@ -6,8 +6,9 @@
 
 | Year | Type | Title | Disposition |
 |------|------|-------|-------------|
-| 1998 | Judicial case | [Nickoley v. Rocky Mountain](../cases/ga26_1998__1997-02.md) | referred |
-| 1998 | Judicial case | [Nickoley v. Rocky Mountain](../cases/ga26_1998__1997-03.md) | out_of_order |
+| 1995 | Judicial case | [Newton v. Heartland Presbytery](../cases/ga23_1995__1993-12_1993-14.md) | denied |
+| 1998 | Judicial case | [Nickoley v. Rocky Mountain](../cases/ga26_1998__1997-02.md) | sustained |
+| 1998 | Judicial case | [Nickoley v. Rocky Mountain](../cases/ga26_1998__1997-03.md) | administratively_out_of_order |
 | 2012 | Judicial case | [Gonzales v. Great Lakes Presbytery](../cases/ga40_2012__2010-28.md) | sustained |
 
 ## Low-but-important

@@ -6,10 +6,11 @@
 
 | Year | Type | Title | Disposition |
 |------|------|-------|-------------|
+| 1995 | Judicial case | [Newton v. Heartland Presbytery](../cases/ga23_1995__1993-12_1993-14.md) | denied |
 | 2005 | Judicial case | [Session of First Presbyterian Augusta v. Savannah River Presbytery](../cases/ga33_2005__2004-07.md) | sustained |
 | 2016 | Judicial case | [Thompson v. South Florida Presbytery](../cases/ga44_2016__2015-11.md) | sustained |
-| 2016 | Judicial case | [Presbyterian Church in America v. South Florida Presbytery (Citation)](../cases/ga44_2016__2015-06.md) | administrative |
-| 2022 | Judicial case | [Michelson v. Northwest Georgia Presbytery](../cases/ga49_2022__2021-12.md) | out_of_order |
+| 2016 | Judicial case | [Presbyterian Church in America v. South Florida Presbytery (Citation)](../cases/ga44_2016__2015-06.md) | other |
+| 2022 | Judicial case | [Michelson v. Northwest Georgia Presbytery](../cases/ga49_2022__2021-12.md) | dismissed |
 
 ## Low-but-important
 

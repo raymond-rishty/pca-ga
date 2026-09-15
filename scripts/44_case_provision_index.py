@@ -261,7 +261,12 @@ def norm_num(num: str) -> str:
             out.append(part)
             continue
         val = ROMAN.get(part.lower())
-        out.append(str(val) if val is not None else part.lower())
+        if val is not None:
+            out.append(str(val))
+        elif part.isdigit():
+            out.append(str(int(part)))
+        else:
+            out.append(part.lower())
     return "".join(out).strip(".;,):]")
 
 

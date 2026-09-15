@@ -68,7 +68,8 @@
     "disposition_detail": "Items 2 and part of 5 sustained; Items 1, 3, 4, 6, and 7 not sustained",
     "summary": "Members of New Life Presbyterian Church challenged Central Carolina Presbytery's commission over its handling of membership dismissals and compliance with earlier Assembly directions. The General Assembly commission held that the presbytery commission exceeded BCO 57-5 membership requirements and sustained a related item in part, but did not sustain the remaining claims, including that the commission had failed to act or caused the entire conflict.",
     "summary_review_status": "audited",
-    "summary_source": "minutes_decision"
+    "summary_source": "reviewer_approval",
+    "matter_type": "complaint"
   },
   "1983-10": {
     "final_dispositions": [
@@ -78,7 +79,8 @@
     "disposition_detail": "Item 4 sustained in part; Items 1, 2, 3, and 5 not sustained",
     "summary": "David Lockwood Jr. and Evan Holyfield challenged Central Carolina Presbytery's commission for allegedly failing to act and mishandling discipline and reconciliation at New Life Presbyterian Church. The General Assembly commission rejected the failure-to-act claims, citing twenty-three meetings, and found that the complainants had not followed the reconciliation plan; it nevertheless sustained one overlapping membership-discipline item in part by reference to its ruling in Case 6.",
     "summary_review_status": "audited",
-    "summary_source": "minutes_decision"
+    "summary_source": "reviewer_approval",
+    "matter_type": "complaint"
   },
   "1990-02": {
     "matter_type": "appeal",
@@ -144,7 +146,8 @@
     "disposition_detail": "Assembly rejected the minority report, adopted the majority report, and denied the complaint",
     "summary": "Mt. Carmel Session challenged New Jersey Presbytery's creation-days resolution, arguing that the Westminster Standards require six consecutive twenty-four-hour days. The SJC majority concluded that Presbytery could resolve the doctrinal question under BCO 11-4 and that prior Assembly actions permitted latitude on the length of the creation days. The General Assembly rejected the minority report, adopted the majority report, and denied the complaint.",
     "summary_review_status": "audited",
-    "summary_source": "minutes_decision"
+    "summary_source": "reviewer_approval",
+    "matter_type": "complaint"
   },
   "1999-01": {
     "final_dispositions": [
@@ -438,7 +441,7 @@
       "judicially_out_of_order"
     ],
     "disposition_detail": "Complaint judicially out of order because the complainant was not a member of a PCA church and lacked standing",
-    "summary": "The full Standing Judicial Commission found Steve Farris's complaint against Central Florida Presbytery judicially out of order because he was not a member of a PCA church and therefore lacked standing before the Commission.",
+    "summary": "The Standing Judicial Commission held Steve Farris's complaint against Central Florida Presbytery judicially out of order because Farris was not a member of a PCA church and therefore lacked standing before the Commission. The Commission reached no merits issue and granted no relief; the only stated ground was the complainant's lack of standing. The case illustrates a threshold standing bar for SJC complainants, but the sparse record does not identify the underlying presbytery action complained of.",
     "bco_provisions": [],
     "topic_tags": [
       "standing",
@@ -447,7 +450,8 @@
     ],
     "dissent": false,
     "summary_review_status": "audited",
-    "summary_source": "case_page"
+    "summary_source": "reviewer_approval",
+    "matter_type": "complaint"
   },
   "1999-04": {
     "title": "Ed Fitzsimmons v. Evangel Presbytery",
@@ -495,6 +499,12 @@
     "standard_of_review_detail": "BCO 40-5: important delinquency or grossly unconstitutional proceedings.",
     "review_standards": [
       "important_delinquency_or_grossly_unconstitutional_proceeding"
+    ],
+    "summary": "In a BCO 40-5 memorial, Central Carolina Presbytery alleged that Louisiana Presbytery had exonerated TE J. Steven Wilkins despite his published views on election, the church, perseverance, assurance, and baptism allegedly contradicting the Westminster Standards. The SJC sustained the memorial’s gravity and found Presbytery failed to show due diligence, ordering a recorded examination, formal responses, and report. Presbytery later met the procedural directives, but the SJC relied on Case 2007-8’s substantive finding, cited Presbytery under BCO 40-5, and appointed a prosecutor for Case 2007-14.",
+    "summary_review_status": "audited",
+    "summary_source": "reviewer_approval",
+    "final_dispositions": [
+      "sustained"
     ]
   },
   "2007-14": {
@@ -518,7 +528,9 @@
     ],
     "disposition_detail": "Judicially out of order",
     "summary_review_status": "audited",
-    "summary_source": "official_minutes"
+    "summary_source": "reviewer_approval",
+    "summary": "The SJC report lists Case 2010-08, Mr. Michael A. McNeil v. Chesapeake Presbytery, among cases found judicially out of order. No separate merits opinion was published, and the available report does not identify the challenged action, procedural vehicle, or reasons. The only usable result is the judicial out-of-order classification; no merits determination or relief is stated.",
+    "matter_type": "complaint"
   },
   "2022-22": {
     "final_dispositions": [
@@ -550,7 +562,13 @@
       "constitutional_interpretation"
     ],
     "standard_of_review_detail": "Issue 1 applies BCO 39-3.4 to constitutional interpretation; Issue 2 applies BCO 39-3.3 to discretion and judgment.",
-    "summary_review_status": "audited"
+    "summary_review_status": "audited",
+    "summary": "Did a presbytery violate the BCO or clearly err by dissolving a congregation without its consent? The SJC said no and denied the complaint. On the constitutional issue, it held that BCO 13-9.f grants dissolution power and BCO 40-6 does not impose formal process for it. On the discretionary issue, it found no clear error in the record. The denial left dissolution in place and warned that such action still requires sufficient justification and prudent, reviewable procedure.",
+    "summary_source": "reviewer_approval",
+    "matter_type": "complaint",
+    "final_dispositions": [
+      "denied"
+    ]
   },
   "2019-11": {
     "proceeding_type": "complaint",
@@ -558,7 +576,13 @@
       "discretion_and_judgment"
     ],
     "standard_of_review_detail": "The adopted opinion applies BCO 39-3.3 to the Session's exercise of discretion and judgment; the dissent argues for BCO 39-3.4 but does not alter the majority holding.",
-    "summary_review_status": "audited"
+    "summary_review_status": "audited",
+    "summary": "A complaint challenging a session's refusal to advance an ordained deacon's nomination for re-election to the diaconate was denied by the SJC. Northwest Georgia Presbytery had adopted its judicial commission's judgment that the session did not err; applying BCO 39-3(3)'s deference to discretionary judgments, the SJC found no clear error, held formal charges were unnecessary and re-election was not guaranteed, and refused to attribute one elder's questionable retaliation rationale to the session. The majority encouraged prompt communication of reasons. A dissent would apply BCO 39-3.4 and sustain.",
+    "summary_source": "reviewer_approval",
+    "matter_type": "complaint",
+    "final_dispositions": [
+      "denied"
+    ]
   },
   "2020-05": {
     "proceeding_type": "complaint",
@@ -626,8 +650,14 @@
   },
   "1991-04": {
     "title": "Robert D. Hopper v. James River Presbytery",
-    "summary": "TE Robert Hopper challenged James River Presbytery's restriction on teaching and preaching about present-day prophecy and tongues. The SJC denied the complaint, holding that presbytery may limit such teaching for the welfare of the church when it determines the views threaten the church's peace or purity, while declining to issue a comprehensive doctrinal ruling.",
-    "outcome": "denied"
+    "summary": "The SJC denied Hopper's complaint against James River Presbytery's April 13, 1991 order barring him from teaching or preaching his views on prophecy and tongues. It rejected all five specifications: Scripture did not forbid the order; the 1974 Pastoral Letter did not address presbytery's power to enjoin such teaching; forbearance did not preclude protecting peace and purity; presbytery could restrict preaching short of a heresy finding without binding conscience; and allowing presbyteral discussion while restricting congregational teaching was not inconsistent. The action remained in force.",
+    "outcome": "denied",
+    "summary_review_status": "audited",
+    "summary_source": "reviewer_approval",
+    "matter_type": "complaint",
+    "final_dispositions": [
+      "denied"
+    ]
   },
   "1991-05": {
     "title": "Herman Gunter III et al. v. Central Florida Presbytery",
@@ -643,14 +673,21 @@
   },
   "1991-07": {
     "title": "Complainants v. Potomac Presbytery",
-    "summary": "Complainants challenged Potomac Presbytery's handling of a dispute over the dissolution of pastoral relationships at Timonium Presbyterian Church. The SJC did not sustain the timely complaint, dismissed two related complaints as untimely under BCO 43-2, and deferred to the lower court's judgment absent demonstrated constitutional error.",
+    "summary": "Complainants challenged Potomac Presbytery's 11/12/91 adjudication denying their complaint over the Timonium Presbyterian Church pastoral dispute, arguing they received too little time, deliberation, and explanation. The SJC held the complaint not sustained: a higher court may not overturn a competent lower court merely because complainants are dissatisfied with the amount of input or time spent, and no constitutional defect was demonstrated. Two earlier complaints were dismissed as not timely filed. The timely 12/11/91 complaint was heard 3/6/92.",
     "outcome": "not_sustained",
     "disposition_detail": "Timely complaint not sustained; two related complaints dismissed as untimely",
-    "standard_of_review_detail": "The SJC would not overturn a competent lower court absent a clear constitutional violation or other demonstrated error."
+    "standard_of_review_detail": "The SJC would not overturn a competent lower court absent a clear constitutional violation or other demonstrated error.",
+    "summary_review_status": "audited",
+    "summary_source": "reviewer_approval",
+    "matter_type": "complaint",
+    "final_dispositions": [
+      "not_sustained",
+      "dismissed"
+    ]
   },
   "1992-03": {
     "title": "Richard E. Olson, et al. v. Heritage Presbytery",
-    "summary": "Richard E. Olson and others complained against Heritage Presbytery's response to a request for advice concerning officer abstinence from beverage alcohol. The SJC found the complaint administratively out of order because it was untimely and held that a court's response to a non-judicial reference seeking advice is not a complainable action.",
+    "summary": "Heritage Presbytery adopted a committee report answering a session's reference on whether a session may require officers to abstain from beverage alcohol. Olson and others complained. The SJC held the complaint administratively out of order because it was not timely filed with the General Assembly, and independently ruled that a court's response to a non-judicial reference seeking advice under BCO 41-3 is not complainable. Complainants may submit their questions to the Committee on Constitutional Business. Confirmed 23-0.",
     "matter_type": "complaint",
     "final_dispositions": [
       "administratively_out_of_order"
@@ -664,11 +701,13 @@
       "non-judicial reference",
       "complaint procedure",
       "jurisdiction"
-    ]
+    ],
+    "summary_review_status": "audited",
+    "summary_source": "reviewer_approval"
   },
   "1992-04": {
     "title": "William A. Conrad, et al. v. Central Carolina Presbytery",
-    "summary": "William A. Conrad and others complained that Central Carolina Presbytery failed to act when it sent their complaints to its commission serving as Prosperity Presbyterian Church's Interim Session. The SJC held that Presbytery had acted, found the complaint administratively out of order, and remanded the underlying complaints to the Interim Session as the court of original jurisdiction for timely adjudication.",
+    "summary": "Complainants alleged Central Carolina Presbytery failed to act when it remanded their complaints against the Prosperity Presbyterian Church Session to the commission acting as Interim Session. The SJC held Presbytery did not fail to act: that Interim Session was the court of original jurisdiction and should adjudicate the complaints timely. The SJC judged the complaint administratively out of order and remanded it to the Interim Session, reminding complainants of their right to appeal to a higher court.",
     "matter_type": "complaint",
     "final_dispositions": [
       "administratively_out_of_order",
@@ -681,7 +720,9 @@
       "interim session",
       "complaint procedure",
       "remand"
-    ]
+    ],
+    "summary_review_status": "audited",
+    "summary_source": "reviewer_approval"
   },
   "1992-05": {
     "title": "Parks et al. v. Central Carolina Presbytery",
@@ -696,8 +737,14 @@
   },
   "1992-07": {
     "title": "Conrad et al. v. Central Carolina Presbytery (Case #2)",
-    "summary": "Conrad and others challenged Central Carolina Presbytery's refusal to institute process against TE Stephen Stout and to permit them to act as voluntary prosecutors. The SJC denied both claims, holding that the presbytery properly found no strong presumption of guilt and retained authority over voluntary prosecution under BCO 31-1 through 31-3.",
-    "outcome": "denied"
+    "summary": "A complaint arising from Central Carolina Presbytery’s refusal to prosecute TE Stephen O. Stout and to recognize his accusers as voluntary prosecutors was denied. The SJC framed two issues and answered both yes: the Presbytery could constitutionally adopt its Investigative Committee report and decline judicial process, because the Committee found no “strong presumption of guilt” under BCO 31-2; and it could refuse voluntary-prosecutor status, because BCO 31-1/31-3 left discipline to the Presbytery and made any voluntary prosecutor subject to its approval. The complaint was denied on both issues.",
+    "outcome": "denied",
+    "summary_review_status": "audited",
+    "summary_source": "reviewer_approval",
+    "matter_type": "complaint",
+    "final_dispositions": [
+      "denied"
+    ]
   },
   "1992-08": {
     "title": "Reference from Central Carolina Presbytery",
@@ -724,9 +771,15 @@
   },
   "2000-07": {
     "title": "Ed Stadick v. Northern Illinois Presbytery",
-    "summary": "RE Ed Stadick filed a complaint against Northern Illinois Presbytery, but the SJC found the case out of order because it was not filed within the applicable time limit.",
+    "summary": "The SJC found Ed Stadick’s complaint against Northern Illinois Presbytery out of order because it was not timely filed. It therefore reached no merits and granted no relief. The roll call recorded 19 concurrences, no dissents or abstentions, and 5 absent. The sparse record does not describe the challenged presbytery action or the filing chronology.",
     "outcome": "out_of_order",
-    "disposition_detail": "Found out of order because not timely filed"
+    "disposition_detail": "Found out of order because not timely filed",
+    "summary_review_status": "audited",
+    "summary_source": "reviewer_approval",
+    "matter_type": "complaint",
+    "final_dispositions": [
+      "out_of_order"
+    ]
   },
   "2002-17": {
     "title": "Sung K. Kim v. Korean Capital Presbytery",
@@ -742,15 +795,27 @@
   },
   "2002-18": {
     "title": "Mark Herzor and Erwin Morrison v. Philadelphia Presbytery",
-    "summary": "TEs Mark Herzor and Erwin Morrison challenged a Philadelphia Presbytery matter arising from a judicial commission's actions. The SJC found the complaint judicially out of order because it targeted the commission rather than completed presbytery action under BCO 15-3 and 43-1.",
+    "summary": "Case 2002-18 is a complaint (the heading also says \"Reference\") identified in the adopted motion as TE Erwin Morrison v. Philadelphia Presbytery. The SJC found it judicially out of order because it was filed against actions of a judicial commission, not completed Presbytery actions (BCO 15-3, 43-1). The full SJC approved that action on October 16, 2003. No merits ruling or later dismissal is stated; the Manual only outlines a possible dismissal route.",
     "outcome": "out_of_order",
-    "disposition_detail": "Complaint found judicially out of order under BCO 15-3 and 43-1"
+    "disposition_detail": "Complaint found judicially out of order under BCO 15-3 and 43-1",
+    "summary_review_status": "audited",
+    "summary_source": "reviewer_approval",
+    "matter_type": "judicial_reference",
+    "final_dispositions": [
+      "judicially_out_of_order"
+    ]
   },
   "2003-07": {
     "title": "Aureliano Tan v. South Texas Presbytery",
-    "summary": "TE Aureliano Tan complained against South Texas Presbytery, but the SJC found the complaint administratively out of order because the presbytery had not yet heard it; the matter was premature and received no merits review.",
+    "summary": "TE Aureliano Tan filed a complaint against South Texas Presbytery with the SJC before the presbytery had heard it. The SJC found the complaint administratively out of order as prematurely filed, so it reached no merits. The adopted vote was 19 concurring, 0 dissenting, with 4 absent; the full SJC approved the ruling on March 4, 2004. The same pages separately contain proposed SJC Manual changes and a dissent, not a ruling in this complaint.",
     "outcome": "out_of_order",
-    "disposition_detail": "Complaint found administratively out of order because prematurely filed"
+    "disposition_detail": "Complaint found administratively out of order because prematurely filed",
+    "summary_review_status": "audited",
+    "summary_source": "reviewer_approval",
+    "matter_type": "complaint",
+    "final_dispositions": [
+      "administratively_out_of_order"
+    ]
   },
   "2004-06": {
     "title": "Aureliano Tan Jr. v. Houston Metro Presbytery",
@@ -844,9 +909,15 @@
   },
   "2022-17": {
     "title": "Peter Benyola v. Central Florida Presbytery (three complaints)",
-    "summary": "Peter Benyola's three complaints against Central Florida Presbytery were found administratively out of order because he was no longer a member of a PCA congregation and therefore lacked standing; the SJC did not reach the merits.",
+    "summary": "Standing to complain: The SJC found three complaints by Peter Benyola against Central Florida Presbytery administratively out of order and incapable of being put in order because Benyola was no longer a member of any PCA congregation and thus lacked standing. The SJC approved the ruling 23-0 on March 2, 2023; the supplied record does not describe the underlying allegations.",
     "outcome": "out_of_order",
-    "disposition_detail": "Complaints administratively out of order and incapable of being put in order for lack of standing"
+    "disposition_detail": "Complaints administratively out of order and incapable of being put in order for lack of standing",
+    "summary_review_status": "audited",
+    "summary_source": "reviewer_approval",
+    "matter_type": "complaint",
+    "final_dispositions": [
+      "administratively_out_of_order"
+    ]
   },
   "1983-03": {
     "title": "James Hope v. Calvary Presbytery",
@@ -914,10 +985,15 @@
   },
   "1997-01": {
     "title": "Felton v. Grace Presbytery",
-    "summary": "The SJC catalog records Felton v. Grace Presbytery as withdrawn before a merits decision. No opinion text has been located in the local case corpus.",
+    "summary": "A complaint docketed as Case 97-1, Felton v. Grace Presbytery, was withdrawn by the complainant in the 26th Assembly records. No merits opinion was published, and the available notice does not identify the challenged presbytery action, the grounds, or any reason for withdrawal. The practical effect was that the matter ended without any merits ruling or relief. It illustrates that a bare withdrawal entry supports only a status synopsis, not an inference about the merits.",
     "outcome": "abandoned",
     "disposition_detail": "Withdrawn before merits decision",
-    "summary_source": "official_catalog"
+    "summary_source": "reviewer_approval",
+    "summary_review_status": "audited",
+    "matter_type": "complaint",
+    "final_dispositions": [
+      "withdrawn"
+    ]
   },
   "1999-03": {
     "title": "Gatis v. Northeast Presbytery",
@@ -957,24 +1033,39 @@
   },
   "2001-21": {
     "title": "Ha Oak Kim et al. v. Korean Capital Presbytery",
-    "summary": "The SJC catalog records Ha Oak Kim et al. v. Korean Capital Presbytery as withdrawn before a merits decision. No opinion text has been located in the local case corpus.",
+    "summary": "A complaint against Korean Capital Presbytery was withdrawn at the 30th Assembly, which classified it with withdrawn rather than abandoned cases. The sparse record states that no separate merits opinion was published and gives no challenged action, grounds, or reason for withdrawal. Practical effect: no merits ruling.",
     "outcome": "abandoned",
     "disposition_detail": "Withdrawn before merits decision",
-    "summary_source": "official_catalog"
+    "summary_source": "reviewer_approval",
+    "summary_review_status": "audited",
+    "matter_type": "complaint",
+    "final_dispositions": [
+      "withdrawn"
+    ]
   },
   "2001-22": {
     "title": "Moon Ham v. Korean Capital Presbytery",
-    "summary": "The SJC catalog records Moon Ham v. Korean Capital Presbytery as withdrawn before a merits decision. No opinion text has been located in the local case corpus.",
+    "summary": "This sparse record concerns Complaint 01-22 by Moon K. Ham against Korean Capital Presbytery. The 30th General Assembly record lists the complaint as withdrawn, with no separate merits opinion and no stated reasons; the source does not describe the challenged lower-court action, the allegations, or any relief. It should be cited only as a withdrawal disposition, not as a merits precedent or an abandonment.",
     "outcome": "abandoned",
     "disposition_detail": "Withdrawn before merits decision",
-    "summary_source": "official_catalog"
+    "summary_source": "reviewer_approval",
+    "summary_review_status": "audited",
+    "matter_type": "complaint",
+    "final_dispositions": [
+      "withdrawn"
+    ]
   },
   "2001-23": {
     "title": "Dae Hee Lee et al. v. Korean Capital Presbytery",
-    "summary": "The SJC catalog records Dae Hee Lee et al. v. Korean Capital Presbytery as withdrawn before a merits decision. No opinion text has been located in the local case corpus.",
+    "summary": "This sparse record shows complaint 2001-23, brought by Deacon Dae Hee Lee et al. against Korean Capital Presbytery, was withdrawn. The 30th Assembly (2002) listed it among withdrawn cases, and the source states that no separate merits opinion was published. The withdrawal ended the matter without any adopted merits ruling, stated reasons, or relief. The concrete dispute and grounds are not described, so the synopsis is limited to that procedural disposition.",
     "outcome": "abandoned",
     "disposition_detail": "Withdrawn before merits decision",
-    "summary_source": "official_catalog"
+    "summary_source": "reviewer_approval",
+    "summary_review_status": "audited",
+    "matter_type": "complaint",
+    "final_dispositions": [
+      "withdrawn"
+    ]
   },
   "2001-26": {
     "title": "David Scott Price v. Northern Illinois Presbytery",
@@ -1002,17 +1093,27 @@
   },
   "2001-29": {
     "title": "Chris Yates et al. v. South Texas Presbytery",
-    "summary": "The SJC catalog records Yates et al. v. South Texas Presbytery as withdrawn before a merits decision. No opinion text has been located in the local case corpus.",
+    "summary": "A complaint by TE Chris Yates and others against South Texas Presbytery was withdrawn, according to the 30th Assembly record. No merits opinion was published, and the source does not identify the challenged action, any grounds, or an adopted reason. The practical effect is that the complaint ended without a merits ruling.",
     "outcome": "abandoned",
     "disposition_detail": "Withdrawn before merits decision",
-    "summary_source": "official_catalog"
+    "summary_source": "reviewer_approval",
+    "summary_review_status": "audited",
+    "matter_type": "complaint",
+    "final_dispositions": [
+      "withdrawn"
+    ]
   },
   "2002-12": {
     "title": "Warren E. Gardner v. North Georgia Presbytery",
-    "summary": "The SJC catalog records Gardner v. North Georgia Presbytery as out of order, without a merits opinion. The local corpus contains no fuller decision text.",
+    "summary": "TE Warren E. Gardner's complaint against North Georgia Presbytery was found out of order. The supplied record contains no separate merits opinion, issue-level ruling, or adopted reasoning; it only cross-references 31-35, II, p. 93. The practical effect is that the complaint did not proceed to a merits adjudication. The case is useful mainly as a sparse-record example: the disposition is recorded, but the basis for the out-of-order finding is not disclosed.",
     "outcome": "out_of_order",
     "disposition_detail": "Found out of order; no merits opinion located",
-    "summary_source": "official_catalog"
+    "summary_source": "reviewer_approval",
+    "summary_review_status": "audited",
+    "matter_type": "complaint",
+    "final_dispositions": [
+      "out_of_order"
+    ]
   },
   "2002-06": {
     "title": "Wright v. Northern California Presbytery",
@@ -1086,10 +1187,15 @@
   },
   "2004-13": {
     "title": "Zaepfel v. Central Carolina Presbytery",
-    "summary": "The SJC catalog records Zaepfel v. Central Carolina Presbytery as abandoned before a merits decision. No opinion text has been located in the local case corpus.",
+    "summary": "Complaint 2004-13, TE Wayne Zaepfel v. Central Carolina Presbytery, was abandoned at the 34th General Assembly (2006). The available record gives no merits analysis, adopted reasons, or relief beyond the statement that this case was abandoned; it serves only as a disposition notice, not as authority on the underlying complaint.",
     "outcome": "abandoned",
     "disposition_detail": "Abandoned before merits decision",
-    "summary_source": "official_catalog"
+    "summary_source": "reviewer_approval",
+    "summary_review_status": "audited",
+    "matter_type": "complaint",
+    "final_dispositions": [
+      "abandoned"
+    ]
   },
   "2005-02": {
     "title": "Andrino v. Southern Florida Presbytery",
@@ -1137,17 +1243,27 @@
   },
   "2005-07": {
     "title": "Andrino v. Southern Florida Presbytery",
-    "summary": "The SJC catalog records Andrino v. Southern Florida Presbytery as out of order, without a merits opinion. The local corpus contains no fuller decision text.",
+    "summary": "The SJC at the 34th General Assembly found out of order the complaint of RE Hugo Andrino against Southern Florida Presbytery. The published record gives no merits opinion, no challenged action, and no reason for the ruling; it functions only as a sparse status notice.",
     "outcome": "out_of_order",
     "disposition_detail": "Found out of order; no merits opinion located",
-    "summary_source": "official_catalog"
+    "summary_source": "reviewer_approval",
+    "summary_review_status": "audited",
+    "matter_type": "complaint",
+    "final_dispositions": [
+      "out_of_order"
+    ]
   },
   "2005-11": {
     "title": "Andrino v. Southern Florida Presbytery",
-    "summary": "RE Hugo Andrino challenged disciplinary actions following his refusal to appear before the Session, including his deposition and excommunication for contumacy. The SJC found the complaint administratively out of order because Andrino was not a member in good standing with a right to complain under BCO 43-1, so it did not review the merits.",
+    "summary": "A complaint by RE Hugo Andrino against Southern Florida Presbytery was found out of order; no merits opinion was published. The source gives no allegations, challenged lower-court action, rationale for the out-of-order classification, subtype, or relief. Its only procedural value is confirming a sparse judicial matter's disposition—out of order—without an adopted reason or further stated proceedings.",
     "outcome": "out_of_order",
     "disposition_detail": "Administratively out of order for lack of standing under BCO 43-1",
-    "summary_source": "official_minutes"
+    "summary_source": "reviewer_approval",
+    "summary_review_status": "audited",
+    "matter_type": "complaint",
+    "final_dispositions": [
+      "administratively_out_of_order"
+    ]
   },
   "2005-13": {
     "title": "Zaepfel v. Central Carolina Presbytery",
@@ -1422,13 +1538,18 @@
     "summary_review_status": "audited"
   },
   "1977-01": {
-    "summary": "Rev. Paul Karlberg and RE James Luce challenged Central Georgia Presbytery's handling of conflict at Faith Presbyterian Church, alleging that its commission had been biased and improperly constituted as a judicial commission. The Assembly's judicial commission did not sustain the complaint after the presbytery changed the body to a pastoral commission, rescinded most recommendations, and ended the investigation; it found no substantive reason to remand the matter.",
+    "summary": "Complainants Karlberg and Luce challenged Central Georgia Presbytery’s commission as biased—it heard the Faith Church minority but not the majority—and challenged its judicial designation and recommendations. After Presbytery rescinded recommendations 2–6, complainants dropped those reasons, leaving only the bias claim. A General Assembly judicial commission heard both sides and unanimously declined to sustain. It reasoned both parties acted in good faith, mistakes were inadvertent, and remand would not further Christ’s cause. The rescinded recommendations and designation were not adjudicated.",
     "outcome": "not_sustained",
     "disposition_detail": "Complaint not sustained; no substantive reason to remand after presbytery corrected and ended the commission's work",
-    "summary_source": "case_page"
+    "summary_source": "reviewer_approval",
+    "summary_review_status": "audited",
+    "matter_type": "complaint",
+    "final_dispositions": [
+      "not_sustained"
+    ]
   },
   "1978-01": {
-    "summary": "RE James Campbell challenged Mid-Atlantic Presbytery's approval of a commission report that rejected charges against Rev. Robert Schoof as inadmissible and limited the investigation. The Assembly directed the presbytery to hold a new hearing on the original charges under BCO 44-5, conform to the BCO, and keep the principals informed; it also appointed a judicial commission for any further appeal before the next Assembly.",
+    "summary": "Ruling Elder James H. Campbell complained that Mid-Atlantic Presbytery approved a commission report finding charges against Rev. Robert Schoof inadmissible rather than proceeding on them. The General Assembly adopted the Committee on Judicial Business recommendation ordering Presbytery to hold a new hearing on the original charges under BCO 44-5, to conform to the BCO, and to keep the principals informed; it also appointed a judicial commission for any further complaint or appeal. The adopted report gives no further reasoning and does not expressly rule on the late-filing request.",
     "outcome": "referred",
     "disposition_detail": "New hearing ordered under BCO 44-5; judicial commission appointed for a potential further appeal",
     "bco_provisions": [
@@ -1441,7 +1562,12 @@
       "ministerial discipline",
       "notice and record"
     ],
-    "summary_source": "case_page"
+    "summary_source": "reviewer_approval",
+    "summary_review_status": "audited",
+    "matter_type": "complaint",
+    "final_dispositions": [
+      "remanded"
+    ]
   },
   "1980-03": {
     "summary": "Teaching Elders challenged Calvary Presbytery’s use of the extraordinary clause to examine and ordain a candidate who had completed only one quarter of Hebrew. The Assembly sustained the complaint’s single specification because Presbytery had not demonstrated either extraordinary circumstances or the man’s proven extraordinary gifts. It found the ordination contrary to the Book of Church Order and remanded for correction. Rather than answer the broader question about proper use of the clause, it ordered a report to the Ninth General Assembly.",
@@ -1525,7 +1651,7 @@
     "summary_review_status": "audited"
   },
   "1983-01": {
-    "summary": "TE Robert Reymond and others challenged Illiana Presbytery's handling of a teaching elder's confessed adultery and related violations, arguing that the presbytery reduced the charges and imposed a censure not commensurate with the offenses. The Assembly sustained the complaint in all parts, held that BCO 34-7 procedures and a more proportionate judgment were required, and remanded the case to Illiana Presbytery for a new trial.",
+    "summary": "A teaching elder confessed adultery, but Presbytery charged him only with ninth-commandment violations, admonished him, and required him to reconsider his call. The complaint alleged Presbytery failed to take BCO 34-7 action and improperly reduced the charges. The Commission sustained both items and remanded for a new trial, reasoning that the confessed sins were not considered and the censure was not commensurate with the offenses charged; it did not itself convict or sentence him. It adopted a recommendation directing Presbytery to follow BCO disciplinary procedures.",
     "outcome": "sustained",
     "disposition_detail": "Complaint sustained in all parts; case remanded for a new trial under proper BCO procedure",
     "bco_provisions": [
@@ -1539,10 +1665,16 @@
       "judicial procedure"
     ],
     "standard_of_review_detail": "The judgment reviewed the lower court's disciplinary procedure and proportionality against BCO 34-7.",
-    "summary_source": "case_page"
+    "summary_source": "reviewer_approval",
+    "summary_review_status": "audited",
+    "matter_type": "complaint",
+    "final_dispositions": [
+      "sustained",
+      "remanded"
+    ]
   },
   "1983-02": {
-    "summary": "RE Val Barleman and others challenged Ascension Presbytery's approval of Kurt Lutjens's ordination trials despite exceptions concerning admission to the Lord's Supper, baptism, Sabbath observance, baptism by immersion, and women serving as deacons. The Assembly sustained the complaint and annulled the presbytery's action sustaining the trials, while directing correction of the nonconforming portions and pastoral counsel; it did not itself annul the ordination or remove Lutjens from the presbytery roll, and a protest was recorded.",
+    "summary": "The General Assembly sustained a complaint against Ascension Presbytery for sustaining a candidate's ordination trials despite exceptions to PCA constitutional standards. The Commission upheld specifications that his Lord's Supper and baptism views denied required visible-church membership and that his women-deacons view conflicted with the BCO; it rejected specifications on Sabbath recreation and immersion. The Assembly annulled the Presbytery's sustaining action, but not the ordination itself, so the candidate remained on the roll. It directed correction of the trial and pastoral instruction, with possible discipline if his views persisted.",
     "outcome": "sustained",
     "disposition_detail": "Complaint sustained; ordination-trial action annulled, with corrective and pastoral directions; protest recorded",
     "bco_provisions": [
@@ -1561,7 +1693,13 @@
       "women deacons"
     ],
     "standard_of_review_detail": "The judgment determined whether stated exceptions conformed to the PCA's constitutional standards.",
-    "summary_source": "case_page"
+    "summary_source": "reviewer_approval",
+    "summary_review_status": "audited",
+    "matter_type": "complaint",
+    "final_dispositions": [
+      "sustained",
+      "annulled"
+    ]
   },
   "1983-07": {
     "summary": "Complainants challenged North Georgia Presbytery’s approval of John Parrish’s transfer examination after he denied that the first day of the week is the Christian Sabbath. The General Assembly sustained the specification of error and annulled Presbytery’s action, characterizing the teaching as a fundamental element of doctrine. Presbytery was directed to instruct Parrish and, only if his view conformed to Scripture, the doctrinal standards, and the BCO, re-examine him in that area.",
@@ -1610,7 +1748,7 @@
     "summary_review_status": "audited"
   },
   "1983-09": {
-    "summary": "The Session of Village Chapel challenged Eastern Carolina Presbytery's decision to lift a matter from the table, alleging improper evidence and an accelerated decision. The Assembly's commission deemed the complaint abandoned when the complainant failed to appear after proper notice, and confirmed advice declining to answer questions that belonged in complaint or review proceedings while referring the remaining question to BCO 25-2.",
+    "summary": "The Session of Village Chapel Presbyterian Church complained that Eastern Carolina Presbytery improperly lifted its matter from the table, alleging refusal of reasonable indulgence, improper evidence, and haste. The Commission adjudged the complaint abandoned: after public notice and a two-day recess, the complainant neither appeared nor sent counsel and gave no satisfactory explanation, as BCO 42-10 requires for complaints. Separately, it confirmed the SCJB's Reference 8 advice—six questions belonged in complaint or review and control; the seventh only required referring the applicant to the BCO.",
     "outcome": "abandoned",
     "disposition_detail": "Complaint abandoned for nonappearance under BCO 42-10; interim advice on Reference 8 confirmed",
     "bco_provisions": [
@@ -1625,7 +1763,13 @@
       "judicial procedure",
       "reference for advice"
     ],
-    "summary_source": "case_page"
+    "summary_source": "reviewer_approval",
+    "summary_review_status": "audited",
+    "matter_type": "complaint",
+    "final_dispositions": [
+      "abandoned",
+      "affirmed"
+    ]
   },
   "1983-12": {
     "summary": "Complainants challenged a called Presbytery meeting and its actions concerning a judicial commission and church membership. The adjudication sustained objections to dissolving the commission by a 14–12 vote and ordering the dissolved commission to reconvene and revote. A commission with power could be dismissed only by a two-thirds vote under Robert’s Rules; no separate ground was stated for the reconvening issue. Challenges to the meeting, Presbytery’s membership action, and its receipt of another complaint were not sustained. No relief was specified.",
@@ -1671,7 +1815,7 @@
     "summary_review_status": "audited"
   },
   "1983-15": {
-    "summary": "TE W. Ted Smith complained that Central Carolina Presbytery failed to carry out Assembly and presbytery directives concerning restoration and oversight of members of New Life Presbyterian Church and asked for dissolution of the pastor's pastoral relationship and censure. The Assembly did not sustain the complaint because it was not properly a complaint but appeared to be a protest, while noting that much of its substance had been addressed in related cases and directing a broader response to the New Life conflict.",
+    "summary": "A presbytery was challenged for allegedly failing to carry out General Assembly directives restoring dismissed New Life congregation members and for allowing the pastor and session to evade compliance; the complainant asked the Committee on Judicial Business to dissolve the pastoral relation and impose censure. The CJB did not sustain the complaint. The supplied record states that disposition but contains no adopted reasoning, findings, or remedial order, so the basis for the ruling cannot be stated.",
     "outcome": "not_sustained",
     "disposition_detail": "Complaint not sustained as improperly framed; matter treated as a protest, with substance addressed in related cases",
     "bco_provisions": [
@@ -1686,7 +1830,12 @@
       "pastoral relationship",
       "New Life conflict"
     ],
-    "summary_source": "official_decision_pdf"
+    "summary_source": "reviewer_approval",
+    "summary_review_status": "audited",
+    "matter_type": "complaint",
+    "final_dispositions": [
+      "not_sustained"
+    ]
   },
   "1980-02": {
     "summary": "TE Rod Mays complained that New River Presbytery failed to address reported scandalous conduct by one of its ministers. The judicial commission sustained the specification of error by a 9-8 vote, explaining that required procedures concerning public offenses had not been followed, the responsible presbytery committee had not reported, and the proceedings had not been properly recorded.",
@@ -1710,16 +1859,26 @@
   },
   "1983-14": {
     "title": "RE Truman Swain et al. v. Eastern Carolina Presbytery",
-    "summary": "RE Truman Swain and others brought a complaint against Eastern Carolina Presbytery. The official SJC catalog records the matter as abandoned, with no merits judgment published in the available record.",
+    "summary": "A session's complaint against Eastern Carolina Presbytery for lifting from the table a matter concerning the church was abandoned because neither the complainant nor counsel appeared before the Commission within two days, despite public notice and a recess, and no satisfactory explanation was given. The Commission also confirmed and adopted the SCJB's interim advice on Reference 8: six questions were properly declined as redressable by complaint or review and control, while the seventh only required referring the applicant to the BCO.",
     "outcome": "abandoned",
     "disposition_detail": "Complaint abandoned; no merits judgment located",
-    "summary_source": "official_catalog"
+    "summary_source": "reviewer_approval",
+    "summary_review_status": "audited",
+    "matter_type": "complaint",
+    "final_dispositions": [
+      "abandoned"
+    ]
   },
   "1997-12": {
-    "summary": "Raymond Larsen's complaint against Pacific Presbytery was withdrawn before the Standing Judicial Commission reached the merits. The matter appears only as a docket entry in the 1998 proceedings.",
+    "summary": "The SJC record shows that Raymond Larsen’s complaints against Pacific Presbytery—case 97-12, with 97-10—were withdrawn by the complainants. No separate merits opinion was published, and the source supplies no underlying issue, adopted reasoning, issue-level ruling, or relief. The operative disposition is therefore withdrawal, not a merits determination.",
     "outcome": "abandoned",
     "disposition_detail": "Withdrawn before merits decision",
-    "summary_source": "official_catalog"
+    "summary_source": "reviewer_approval",
+    "summary_review_status": "audited",
+    "matter_type": "complaint",
+    "final_dispositions": [
+      "withdrawn"
+    ]
   },
   "1997-14": {
     "summary": "The SJC deemed Onda George’s complaint against Central Florida Presbytery abandoned because the complainant died without heirs. The sparse record does not identify the challenged action or contain a merits determination.",
@@ -1862,13 +2021,18 @@
     "summary_review_status": "audited"
   },
   "2001-35": {
-    "summary": "Moon K. Ham and others presented allegations to Korean Capital Presbytery but did not frame them as a complaint against a presbytery action or inaction. The record identifies BCO 43-1 as the controlling procedural point and contains no merits ruling.",
+    "summary": "A complaint that presented allegations to Presbytery, rather than challenging presbytery action or inaction, was ruled administratively out of order by the Standing Judicial Commission. The SJC did not reach the merits and granted no relief. The source is a short status ruling only.",
     "outcome": "out_of_order",
     "disposition_detail": "Allegations not presented in the form of a complaint against presbytery action under BCO 43-1",
     "bco_provisions": [
       "43-1"
     ],
-    "summary_source": "case_page"
+    "summary_source": "reviewer_approval",
+    "summary_review_status": "audited",
+    "matter_type": "complaint",
+    "final_dispositions": [
+      "out_of_order"
+    ]
   },
   "2001-36": {
     "title": "Moo S. Lim et al. v. Korean Capital Presbytery",
@@ -2053,7 +2217,7 @@
     "summary_review_status": "audited"
   },
   "2000-09": {
-    "summary": "TE Sung Keon Kim challenged Korean Capital Presbytery's suspension of the Korean Presbyterian Church of Washington Session and replacement of its functions by a presbytery commission without prior congregational consent. The SJC sustained the complaint, held that the presbytery lacked authority to take that action under the BCO and Preliminary Principle Six, and annulled the commission's subsequent acts.",
+    "summary": "After Korean Capital Presbytery appointed a commission to suspend the functions of Korean Presbyterian Church Washington’s elected Session and replace them without prior congregational consent, TE Sung Keon Kim complained. The SJC sustained the complaint, holding that Presbytery violated Preliminary Principle Six and BCO 16-2, misread BCO 13-9, and impermissibly sought to act for the lower court. Relying on Chappell, it annulled the commission’s subsequent actions as the Session.",
     "outcome": "sustained",
     "disposition_detail": "Presbytery action and subsequent commission acts annulled for unauthorized replacement of the Session",
     "bco_provisions": [
@@ -2068,7 +2232,13 @@
       "church governance"
     ],
     "standard_of_review_detail": "The SJC interpreted the BCO and Preliminary Principle Six to define presbytery authority over a local Session.",
-    "summary_source": "case_page"
+    "summary_source": "reviewer_correction",
+    "summary_review_status": "audited",
+    "matter_type": "complaint",
+    "final_dispositions": [
+      "sustained",
+      "annulled"
+    ]
   },
   "2001-01": {
     "summary": "The SJC addressed whether a presbytery and its administrative/judicial commission could suspend a local session and assume original jurisdiction over charges against a ruling elder. It answered no: original jurisdiction belonged to the session, and a presbytery cannot \"act for\" a lower court by replacing congregationally elected elders. Preliminary Principle Six, BCO 16-2, and BCO 31-1/33-1 controlled; the commission's interpretation of BCO 13-9 conflicted with those principles. The Presbytery's and Commission's actions, including the censure approved by Presbytery, were reversed.",
@@ -2094,7 +2264,7 @@
     "summary_review_status": "audited"
   },
   "2001-03": {
-    "summary": "TE Sung Keon Kim appealed a five-year suspension imposed after a Korean Capital Presbytery commission judged him guilty by a process that did not properly serve an indictment or preserve an adequate trial record. The SJC sustained the procedural challenge, found noncompliance with BCO 32 and 34, and remanded for a new trial conducted under those chapters.",
+    "summary": "A minister suspended for five years after a default judgment of heresy and schism appealed to the SJC. The SJC sustained the appeal on procedural grounds, holding the judicial commission did not follow BCO 32 and 34: no indictment was served, and the record lacked minutes or evidence of a hearing. It remanded to Korean Capital Presbytery for a new trial. The SJC expressly did not reach the merits, the adequacy of the citations, or whether default judgment is proper.",
     "outcome": "sustained",
     "disposition_detail": "Procedural error sustained; remanded for a new trial under BCO 32 and 34",
     "bco_provisions": [
@@ -2110,7 +2280,13 @@
       "ministerial discipline"
     ],
     "standard_of_review_detail": "The SJC reviewed the trial record for procedural error and found the process constitutionally inadequate.",
-    "summary_source": "case_page"
+    "summary_source": "reviewer_approval",
+    "summary_review_status": "audited",
+    "matter_type": "appeal",
+    "final_dispositions": [
+      "sustained",
+      "remanded"
+    ]
   },
   "2001-04": {
     "summary": "A ruling elder appealed Korean Capital Presbytery’s three-year suspension of him from the sacraments. The SJC sustained the appeal and reversed the Presbytery’s and its Judicial Commission’s actions because original jurisdiction over a communicant member belonged to his local Session. The ruling rests on the identity of the proper court, not the merits of the charges, and orders no remand or further relief.",
@@ -2160,7 +2336,7 @@
     "summary_review_status": "audited"
   },
   "2001-09": {
-    "summary": "RE Charles Kim appealed discipline imposed by a Korean Capital Presbytery commission appointed to hear charges against him. The SJC held that the Session of the Korean Presbyterian Church of Washington was the proper court of original jurisdiction for a communicant member, reversed the presbytery and commission actions, and set aside the censure.",
+    "summary": "On appeal from an excommunication, the SJC held that Korean Capital Presbytery and its special judicial commission were not the proper court of original jurisdiction to adjudicate charges against a communicant member. Because original jurisdiction belonged to the local session, the Presbytery/commission proceedings against the member were unconstitutional and reversed. The ruling turned only on jurisdiction; it did not decide the truth of the schism and contumacy charges. The excommunication therefore could not stand on that record.",
     "outcome": "sustained",
     "disposition_detail": "Presbytery and commission action reversed for lack of original jurisdiction",
     "bco_provisions": [
@@ -2174,7 +2350,13 @@
       "censure"
     ],
     "standard_of_review_detail": "The SJC interpreted which court constitutionally held original jurisdiction over the member.",
-    "summary_source": "case_page"
+    "summary_source": "reviewer_approval",
+    "summary_review_status": "audited",
+    "matter_type": "appeal",
+    "final_dispositions": [
+      "sustained",
+      "reversed"
+    ]
   },
   "2001-10": {
     "summary": "A communicant member appealed Presbytery’s findings of guilt and censure of excommunication. The SJC reversed Presbytery’s and its Special Judicial Commission’s actions because original jurisdiction over judicial proceedings against a local church’s communicant member belonged to that church’s Session. The decision was jurisdictional: it neither resolved the underlying charges nor directed a remand or acquittal.",
@@ -2200,7 +2382,7 @@
     "summary_review_status": "audited"
   },
   "2001-12": {
-    "summary": "Deacon Peter Lee appealed discipline imposed by a Korean Capital Presbytery commission appointed to adjudicate charges against him. The SJC held that the Session of the Korean Presbyterian Church of Washington was the proper court of original jurisdiction, reversed the presbytery and commission actions, and set aside the censure.",
+    "summary": "The SJC sustained Deacon Peter Lee’s appeal from Korean Capital Presbytery’s censure and reversed the Presbytery and its special judicial commission for adjudicating charges that belonged to the local Session. Lee, a communicant member, had been suspended from the sacraments for five years after the commission found contumacy and a false statement; Presbytery approved. The SJC held that original jurisdiction over a member’s judicial action or censure rests with the Session, not Presbytery or its commission. The reversal was jurisdictional and did not decide the underlying charges.",
     "outcome": "sustained",
     "disposition_detail": "Presbytery and commission action reversed for lack of original jurisdiction",
     "bco_provisions": [
@@ -2214,10 +2396,16 @@
       "church discipline"
     ],
     "standard_of_review_detail": "The SJC interpreted the constitutional allocation of original jurisdiction over a communicant member.",
-    "summary_source": "case_page"
+    "summary_source": "reviewer_approval",
+    "summary_review_status": "audited",
+    "matter_type": "appeal",
+    "final_dispositions": [
+      "sustained",
+      "reversed"
+    ]
   },
   "2001-14": {
-    "summary": "RE Moon K. Ham appealed his excommunication by a Korean Capital Presbytery commission appointed to adjudicate charges against him. The SJC held that the Session of the Korean Presbyterian Church of Washington was the proper court of original jurisdiction, reversed the presbytery and commission actions, and set aside the excommunication.",
+    "summary": "Ruling Elder Moon K. Ham appealed to the SJC after Korean Capital Presbytery approved a Special Judicial Commission's guilty findings for contumacy, church division/destruction, and a false statement, imposing indefinite suspension from the sacraments (called excommunication in the appeal). The SJC sustained the appeal and reversed Presbytery's and the Commission's actions. Because Ham was a church member, the Session, not Presbytery or its commission, was the proper court of original jurisdiction. The ruling did not remand, acquit, or address the merits.",
     "outcome": "sustained",
     "disposition_detail": "Excommunication and related lower-court action reversed for lack of original jurisdiction",
     "bco_provisions": [
@@ -2231,10 +2419,16 @@
       "church discipline"
     ],
     "standard_of_review_detail": "The SJC interpreted the constitutional allocation of original jurisdiction over the member.",
-    "summary_source": "case_page"
+    "summary_source": "reviewer_approval",
+    "summary_review_status": "audited",
+    "matter_type": "appeal",
+    "final_dispositions": [
+      "sustained",
+      "reversed"
+    ]
   },
   "2001-19": {
-    "summary": "TE Sung Keon Kim appealed his deposition after a Korean Capital Presbytery commission conducted judicial process without serving an indictment and without an adequate record of the proceeding. The SJC sustained the procedural challenge, held that BCO 32 and 34 had not been followed, and remanded for a new trial under those chapters.",
+    "summary": "On appeal from a minister’s deposition in a conflicted Korean Capital Presbytery church, the SJC asked whether the commission followed BCO procedures in instituting and conducting judicial process. It sustained the appeal, holding that no indictment appears to have been served and the record lacked minutes showing a trial, contrary to BCO 32-3’s writing, indictment, and service requirements. The SJC remanded to Presbytery for a new trial under BCO 32 and 34. It expressly did not rule on the adequacy of the citations or the merits.",
     "outcome": "sustained",
     "disposition_detail": "Procedural error sustained; deposition matter remanded for a new trial under BCO 32 and 34",
     "bco_provisions": [
@@ -2249,16 +2443,27 @@
       "trial procedure"
     ],
     "standard_of_review_detail": "The SJC reviewed the lower-court record for procedural error and found it constitutionally inadequate.",
-    "summary_source": "case_page"
+    "summary_source": "reviewer_approval",
+    "summary_review_status": "audited",
+    "matter_type": "appeal",
+    "final_dispositions": [
+      "sustained",
+      "remanded"
+    ]
   },
   "1997-16": {
-    "summary": "The Session of BPC Concord complained against Central Carolina Presbytery. The SJC did not sustain the complaint by an 11–7 vote, and two dissenting opinions were recorded; the available case record does not preserve a fuller statement of the underlying issue.",
+    "summary": "The Session of Bible Presbyterian Church, Concord, complained that Central Carolina Presbytery wrongly accepted its moderator's ruling making RE Chris Dollar's interim Candidates Committee appointment \"null and void\" because Christ Covenant Session never approved it. The SJC answered both issues no and did not sustain the complaint, leaving Presbytery's action undisturbed. It reasoned that approval was conditional under CCP rules, the moderator expressed Presbytery's intention, Presbytery did not surrender jurisdiction, and BCO 39-3 required deference; it found no appearance of prejudice. Vote 11-7, with dissents urging remand and challenging sessional control over committee eligibility.",
     "outcome": "not_sustained",
     "disposition_detail": "Complaint not sustained 11–7; two dissents recorded; underlying issue not fully preserved in available record",
-    "summary_source": "case_page"
+    "summary_source": "reviewer_approval",
+    "summary_review_status": "audited",
+    "matter_type": "complaint",
+    "final_dispositions": [
+      "not_sustained"
+    ]
   },
   "2002-13": {
-    "summary": "RE David Lachman challenged Philadelphia Presbytery's appointment of a commission to hear a memorial and its adoption of the commission's report, alleging a grossly unconstitutional proceeding. The SJC found no such constitutional error and upheld the presbytery's handling of the memorial under BCO 40-5, while recording the matter as out of order rather than issuing a broader merits judgment.",
+    "summary": "Philadelphia Presbytery was the respondent in a complaint by RE David C. Lachman et al., but the record does not identify the challenged action. The General Assembly found the complaint out of order. No separate merits opinion was published, and the stub supplies no issue-level rulings, reasons, or relief beyond the out-of-order disposition and a cross-reference to 31-35, II, p. 93. It therefore supports only a status note, not a merits synopsis.",
     "outcome": "out_of_order",
     "disposition_detail": "Out of order; no unconstitutional proceeding found and BCO 40-5 memorial procedure upheld",
     "bco_provisions": [
@@ -2271,7 +2476,12 @@
       "BCO 40-5",
       "presbytery authority"
     ],
-    "summary_source": "case_page"
+    "summary_source": "reviewer_approval",
+    "summary_review_status": "audited",
+    "matter_type": "complaint",
+    "final_dispositions": [
+      "out_of_order"
+    ]
   },
   "2007-04": {
     "summary": "A member challenged Presbytery’s refusal to decide his guilt or innocence and its failure to return charges after his Session suspended him from the sacraments without trial or confession. The SJC sustained the complaint on the remand issue: rescission of the censure did not dispose of pending charges, so Presbytery had to rehear the complaint and require the Session either to institute proper process or dismiss them. It declined to determine guilt without a trial record and rejected the claim that the censure’s prescribed form willfully took the Lord’s name in vain.",
@@ -2298,7 +2508,7 @@
     "summary_review_status": "audited"
   },
   "2007-13": {
-    "summary": "TE David Kniseley and others challenged Rocky Mountain Presbytery's approval of the public title “Minister of Church Life” for an unordained female staff member. The SJC denied the complaint, holding that “minister” has a specific technical meaning in the BCO but that the BCO is silent on generic titles for non-ordained staff, leaving that use to lower-court judgment subject to BCO 40-2(3); a dissent disagreed.",
+    "summary": "On complaint from TE David Kniseley and others, the SJC reviewed Rocky Mountain Presbytery's refusal to forbid a mission church from giving an unordained female staff member the title 'Minister of Church Life.' The SJC denied the complaint. It held the BCO uses 'minister' synonymously with pastor and teaching elder, but is silent on general use for non-ordained staff; a lower court may exercise discretion subject to BCO 40-2(3)'s WESP review. The decision addressed only the constitutional issue, not the title's wisdom or propriety; four commissioners dissented.",
     "outcome": "denied",
     "disposition_detail": "Complaint denied; BCO meaning and generic use of title distinguished; dissent recorded",
     "bco_provisions": [
@@ -2316,7 +2526,12 @@
       "presbytery judgment"
     ],
     "standard_of_review_detail": "The SJC interpreted BCO terminology and reserved generic-title propriety to lower-court judgment under BCO 40-2(3).",
-    "summary_source": "case_page"
+    "summary_source": "reviewer_approval",
+    "summary_review_status": "audited",
+    "matter_type": "complaint",
+    "final_dispositions": [
+      "denied"
+    ]
   },
   "2008-16": {
     "summary": "Ministers challenged Presbytery’s handling of RE Payne’s confession as a BCO 38-1 case without process, asking the SJC to declare it incomplete and require prosecution of additional alleged sins. The SJC did not sustain the complaint. It held that a complaint cannot bypass the BCO 33-1 and 34-1 procedures by seeking relief akin to original jurisdiction. Further allegations could be filed as formal charges with Payne’s Session, which could investigate, prosecute, or reference the matter to a higher court.",
@@ -2373,7 +2588,7 @@
     "summary_review_status": "audited"
   },
   "2009-06": {
-    "summary": "TE James Bordwine and others challenged Pacific Northwest Presbytery's handling of study reports on TE Peter Leithart's Federal Vision-related teachings and its refusal to declare those views either orthodox or out of accord with the Standards without judicial process. The SJC sustained the complaint, held that presbytery erred in declaring the views not out of accord, and remanded for pastoral counsel or BCO 31-2 action; concurring and dissenting opinions were recorded.",
+    "summary": "Pacific Northwest Presbytery adopted a report finding TE Peter Leithart's views not out of accord with the fundamentals of the system of doctrine. The SJC sustained a complaint, holding PNW erred because, without formal judicial process, it lacked authority to declare either that the views were out of accord or that they were not. The record still suggested a strong presumption of guilt. The SJC refused complainants' affirmative declaration and remanded with directions for pastoral counsel under BCO 31-7 and possible BCO 31-2 compliance.",
     "outcome": "sustained",
     "disposition_detail": "Complaint sustained; presbytery's declaration reversed and matter remanded for counsel or BCO 31-2 action",
     "bco_provisions": [
@@ -2393,7 +2608,14 @@
       "pastoral counsel"
     ],
     "standard_of_review_detail": "The case combined constitutional interpretation of doctrinal conformity with deferential review of investigative procedure.",
-    "summary_source": "case_page"
+    "summary_source": "reviewer_approval",
+    "summary_review_status": "audited",
+    "matter_type": "complaint",
+    "final_dispositions": [
+      "sustained",
+      "reversed",
+      "remanded"
+    ]
   },
   "2010-14": {
     "title": "Michael A. McNeil v. Chesapeake Presbytery",
@@ -2466,7 +2688,7 @@
     "summary_review_status": "audited"
   },
   "2017-13": {
-    "summary": "TE David Tripp’s appeal against Ohio Valley Presbytery was withdrawn before the SJC issued a decision. No opinion text or merits disposition is recorded in the official case listing.",
+    "summary": "A complaint by RE Michael Tripp against Ohio Valley Presbytery ended when the SJC noted it was withdrawn. No separate merits opinion was published, and the adopted note supplies no reasons or ruling on the presbytery action. The only stated result is withdrawal; no relief was granted or denied on the merits. Because the stub does not describe the challenged conduct, the case is useful only as a short-record withdrawal status.",
     "outcome": "abandoned",
     "disposition_detail": "Withdrawn before decision; no merits disposition",
     "topic_tags": [
@@ -2475,7 +2697,12 @@
       "no merits decision"
     ],
     "standard_of_review_detail": "The matter ended before the SJC reached the merits.",
-    "summary_source": "official_catalog"
+    "summary_source": "reviewer_approval",
+    "summary_review_status": "audited",
+    "matter_type": "complaint",
+    "final_dispositions": [
+      "withdrawn"
+    ]
   },
   "2022-14": {
     "summary": "The SJC dismissed Oh’s complaint against Korean Southeast Presbytery following his withdrawal of it. The brief decision does not identify the challenged presbytery action, address the merits, or grant substantive relief.",
@@ -2625,7 +2852,13 @@
     "proceeding_type": "original_jurisdiction_request",
     "outcome": "dismissed",
     "disposition_detail": "BCO 34-1 petitions dismissed for lack of jurisdiction after the minister and congregation left the PCA",
-    "summary_source": "case_page"
+    "summary_source": "reviewer_approval",
+    "summary": "The SJC dismissed two BCO 34-1 overtures asking the General Assembly to assume original jurisdiction over alleged doctrinal errors by TE Greg Johnson. After Memorial Presbyterian Church withdrew from the PCA and Missouri Presbytery removed Johnson's name from its rolls under BCO 38-3a, the SJC held it lacked authority to assume original jurisdiction because the PCA no longer had jurisdiction over him. The dismissal did not resolve the doctrinal allegations; one commissioner dissented.",
+    "summary_review_status": "audited",
+    "matter_type": "original_jurisdiction_request",
+    "final_dispositions": [
+      "dismissed"
+    ]
   },
   "1975-01": {
     "summary": "Ministers complained that Pacific Presbytery conducted nonroutine business without the constitutionally required quorum of three teaching and three ruling elders. The Assembly agreed that the August 4, 1975 actions were irregular, but dismissed the complaint because Presbytery later met with a quorum and ratified those actions. The dismissal therefore reflected correction of the defect, not approval of proceeding without a quorum.",
@@ -3884,5 +4117,1299 @@
     ],
     "summary_review_status": "audited",
     "summary_source": "reviewer_approval"
+  },
+  "1976-02": {
+    "summary": "Trinity Church complained that Grace Presbytery's July 9, 1976 substitute motion, delaying Adrian Pater's ordination until he was called to PCA work, was an out-of-order reconsideration. The Judicial Commission did not reach the merits: because the BCO 43-5 record was not complied with and minutes were inadequate, it returned the whole matter to the lower court for a new hearing. The Assembly accepted that judgment and separately adopted, 238–131, a recommendation that the BCO does not envisage ordination expressly for pastoral service in another denomination.",
+    "summary_review_status": "audited",
+    "summary_source": "reviewer_approval",
+    "matter_type": "complaint",
+    "final_dispositions": [
+      "remanded"
+    ]
+  },
+  "1981-03": {
+    "summary": "A complaint challenged Presbytery's one-year delay before accepting a petition to organize a mission congregation. The General Assembly adopted the Judicial Commission's report and did not sustain the complaint. It reasoned BCO 5-1(1) gives Presbytery discretion over the time for organization, the group had sought only mission status, and the dispute was best handled at Presbytery, where complainants could seek reconsideration. A dissent recommending sustain and annulment was admitted but not adopted.",
+    "summary_review_status": "audited",
+    "summary_source": "reviewer_approval",
+    "matter_type": "complaint",
+    "final_dispositions": [
+      "not_sustained"
+    ]
+  },
+  "1982-02": {
+    "summary": "A teaching elder complained that Central Georgia Presbytery wrongly refused to sustain his complaint against a session that closed a disciplinary matter involving unbiblical separation, divorce, and remarriage before any judicial action. The General Assembly's Judicial Commission sustained the complaint, treating the session's \"closing of the matter\" as the central issue. It did not grant the requested reproof, suspension, or excommunication; it requested the presbytery to aid the session in corrections and heed WCF 24:6 and SC 87 on divorce and repentance.",
+    "summary_review_status": "audited",
+    "summary_source": "reviewer_approval",
+    "matter_type": "complaint",
+    "final_dispositions": [
+      "sustained"
+    ]
+  },
+  "1984-01": {
+    "summary": "A ruling elder complained that Central Carolina Presbytery violated the BCO in examining and approving Rick Downs for ordination, citing five specifications about the call, Downs’s Sabbath exception, the revote after an initial disapproval, lack of Scriptural search, and ordination questions. The judicial commission held points 1, 2, 4, and 5 not sustained 11–0 and point 3 not sustained 10–1; the general complaint was not sustained 11–0, and the lower court decision was confirmed. Its explanatory opinion said the commission disagreed on the Sabbath/subscription question and acted largely because the specifications did not substantiate the complaint.",
+    "summary_review_status": "audited",
+    "summary_source": "reviewer_approval",
+    "matter_type": "complaint",
+    "final_dispositions": [
+      "not_sustained",
+      "affirmed"
+    ]
+  },
+  "1984-02": {
+    "summary": "Central Florida Presbytery received a minister while he had a pending call to labor in another presbytery. A Judicial Commission sustained the specification of error, holding that BCO 13-2,5 barred receiving him under those circumstances; the vote was 9–4. It also voted 13–0 to remand the entire matter for proper procedures regarding his admission to the PCA. The Commission commended the presbytery's aim of receiving him but ruled the process erroneous, leaving the admission to be handled through proper procedures.",
+    "summary_review_status": "audited",
+    "summary_source": "reviewer_approval",
+    "matter_type": "complaint",
+    "final_dispositions": [
+      "sustained",
+      "remanded"
+    ]
+  },
+  "1984-06": {
+    "summary": "A complaint challenged North Georgia Presbytery's transfer of Trinity Mission, Elberton, Georgia, to Central Georgia Presbytery, alleging insufficient debate and failure to examine discipline issues. The Judicial Commission unanimously did not sustain the specification of error. Its adopted explanation found that two years of contact and discussions had done as much as possible to clear misunderstanding. It nevertheless noted the presbytery's inadequate explanation and the complainants' failure to secure adequate information; no relief was granted, and the listed questions about congregational choice and transfer power were not answered.",
+    "summary_review_status": "audited",
+    "summary_source": "reviewer_approval",
+    "matter_type": "complaint",
+    "final_dispositions": [
+      "not_sustained"
+    ]
+  },
+  "1985-05": {
+    "summary": "Can a presbytery require an annual committee visit to every session and congregation absent a request or evident problem? The judicial commission sustained the complaint against Missouri Presbytery 16-0, holding BCO 11-4 limits higher-court jurisdiction to express constitutional provisions and BCO 13-9 contains no clear authorization for such required visits. It instructed presbytery to conform its Standing Rules and visitation procedures to the BCO, while encouraging voluntary pastoral oversight; several commissioners recorded negative votes without stated reasons.",
+    "summary_review_status": "audited",
+    "summary_source": "reviewer_approval",
+    "matter_type": "complaint",
+    "final_dispositions": [
+      "sustained"
+    ]
+  },
+  "1986-02": {
+    "summary": "A complaint challenged Grace Presbytery's approval and installation of a candidate who had been divorced for his own infidelity and had remarried; the complainants argued Scripture, the Westminster Confession, BCO 16-3, and the Seventh General Assembly's divorce report barred ordination. The Judicial Commission did not sustain any of the four specifications and upheld Presbytery's action. Its adopted reason was that the PCA's constitutional statements do not explicitly address divorce and remarriage for church officers; noting wide interpretive disagreement, it called for study. The ordination and installation remained undisturbed.",
+    "summary_review_status": "audited",
+    "summary_source": "reviewer_approval",
+    "matter_type": "complaint",
+    "final_dispositions": [
+      "not_sustained"
+    ]
+  },
+  "1986-04": {
+    "summary": "An appeal challenged Great Lakes Presbytery's decision to divest TE Edward A. Steele III without censure and without judicial process, which he alleged followed an accusation that he was not engaged in his official duties. Steele alleged constitutional and discriminatory error and sought investigation, rescission, or erasure of his name. Because no one appeared to represent the appeal, the Committee on Judicial Business judged it abandoned, leaving the merits and requested relief undecided.",
+    "summary_review_status": "audited",
+    "summary_source": "reviewer_approval",
+    "matter_type": "appeal",
+    "final_dispositions": [
+      "abandoned"
+    ]
+  },
+  "1987-01": {
+    "summary": "Philadelphia Presbytery ordained Lester Porter as a Ruling Elder of Presbytery to serve a cross-cultural mission church with no particular-church members. The Assembly, adopting the Judicial Commission's adjudication, sustained all three specifications and upheld the complaint: the ordination lacked BCO compliance and the Presbytery mishandled the complaint. It refused to annul Porter's ordination—reasoning Presbytery may ordain Ruling Elders in organizing churches—but directed Presbytery to find a BCO-conforming temporary government for Church Without Walls, stop ordaining Ruling Elders not duly elected by a particular church, and bring Porter's ordination into conformity.",
+    "summary_review_status": "audited",
+    "summary_source": "reviewer_approval",
+    "matter_type": "complaint",
+    "final_dispositions": [
+      "sustained"
+    ]
+  },
+  "1988-03": {
+    "summary": "Complainant elders challenged Philadelphia Presbytery's tie-vote refusal to sustain its judicial commission's judgment that the Calvary Session wrongly treated physical cruelty as biblical grounds for divorce. The General Assembly adopted the commission's judgment sustaining all three specifications: the Session's action contravened Matthew 5 and 19, WCF 24:6, and the church's disciplinary role. It annulled Presbytery's refusal and instructed Presbytery to advise the Session that physical cruelty is not biblical or confessional grounds for divorce. The explanatory opinion urged pastoral alternatives, such as separation and rehabilitation, before any divorce determination.",
+    "summary_review_status": "audited",
+    "summary_source": "reviewer_approval",
+    "matter_type": "complaint",
+    "final_dispositions": [
+      "sustained",
+      "annulled"
+    ]
+  },
+  "1988-05": {
+    "summary": "Missouri Presbytery instructed its Candidates and Credentials Committee to examine candidates without treating a qualified minority view on prophecy and tongues as disqualifying. Complainants argued this conflicted with the 1986 Gentry decision. The Judicial Commission, adopted by the 16th General Assembly, did not sustain the complaint and confirmed the lower court 7-4. Although earlier similar cases had annulled lower-court actions, it cited the absence of a specific candidate, safeguards, inconclusive debate, and a preference for grass-roots resolution, encouraging Overture 25. The dissent called the view fundamentally out of accord.",
+    "summary_review_status": "audited",
+    "summary_source": "reviewer_approval",
+    "matter_type": "complaint",
+    "final_dispositions": [
+      "not_sustained",
+      "affirmed"
+    ]
+  },
+  "1988-07": {
+    "summary": "A ruling elder complained that Western Carolina Presbytery wrongly left a confessing bisexual Teaching Elder under indefinite suspension rather than deposing him, excluding him from the sacraments, and cutting him off from fellowship. The General Assembly's adjudicating commission did not sustain the specification of error and confirmed Presbytery's action, holding it complied with BCO 30-3, 4 and 34-7. Review was limited to the constitutionality of the disciplinary process; the commission cited Presbytery's restorative purpose and evidence of repentance. The Assembly was advised Presbytery later deposed the Teaching Elder.",
+    "summary_review_status": "audited",
+    "summary_source": "reviewer_approval",
+    "matter_type": "complaint",
+    "final_dispositions": [
+      "not_sustained",
+      "affirmed"
+    ]
+  },
+  "1988-10": {
+    "summary": "The 16th General Assembly approved the adjudicating Commission’s judgment sustaining a complaint against Palmetto Presbytery. The Commission found that Presbytery erred by sustaining John Tomlinson’s theology examination and licensing him despite his belief in continuing noncanonical revelation through prophecy, tongues, dreams, visions, and direct speech, contrary to WCF I.1 and I.6 and BCO 7-1. It directed Presbytery to annul the theology examination, suspend its licensing action, counsel and re-examine Tomlinson, exercise greater care, and report to the next Assembly.",
+    "summary_review_status": "audited",
+    "summary_source": "reviewer_correction",
+    "matter_type": "complaint",
+    "final_dispositions": [
+      "sustained"
+    ]
+  },
+  "1992-02": {
+    "summary": "A congregation member complained that New River Presbytery erred in November 1991 by declining to accept TE Don Post Jr.'s resignation and dissolve his pastoral relation, instead appointing a commission. The SJC sustained the complaint. Under BCO 23-1, once the congregation concurred and no sufficient reasons to retain the pastor appeared, the resignation 'shall be accepted' and the relation dissolved; the Presbytery's general BCO 13-9 power did not override that specific provision. The Presbytery had already dissolved the relation on December 7, 1991; the adopted judgment ordered no remand. Three commissioners dissented.",
+    "summary_review_status": "audited",
+    "summary_source": "reviewer_approval",
+    "matter_type": "complaint",
+    "final_dispositions": [
+      "sustained"
+    ]
+  },
+  "1992-09b": {
+    "summary": "Overman carried to the General Assembly his complaint that Eastern Carolina Presbytery improperly licensed Arthur Peterson, after the presbytery denied it. The SJC found the complaint not in order for lack of standing: Overman was not subject to the presbytery's jurisdiction (BCO 43-1; MSJC 6.2). It made no merits ruling; the same basic issue was noted as pending in a complaint by the Antioch Presbyterian Church session. The source header labels the disposition 'dismissed.'",
+    "summary_review_status": "audited",
+    "summary_source": "reviewer_approval",
+    "matter_type": "complaint",
+    "final_dispositions": [
+      "out_of_order",
+      "dismissed"
+    ]
+  },
+  "1993-01": {
+    "summary": "Smith complained that Northeast Presbytery failed to provide pastoral care after dissolving Grace Presbyterian Church. The SJC rejected Presbytery's objections that the complaint lacked supporting reasons or was barred by Smith's protest, held it in order, but denied it on the merits. Distinguishing the pastoral 'power of order' from judicial 'power of jurisdiction,' the SJC ruled that the Constitution neither requires nor permits a presbytery to retain jurisdiction over individual members of a dissolved particular church, and that pastoral care of former members is generally discretionary; on these facts, Presbytery's efforts satisfied any duty.",
+    "summary_review_status": "audited",
+    "summary_source": "reviewer_approval",
+    "matter_type": "complaint",
+    "final_dispositions": [
+      "denied"
+    ]
+  },
+  "1993-02": {
+    "summary": "An appeal challenged Evangel Presbytery's judgment that a teaching elder wrongfully pursued divorce without biblical grounds, alleging procedural irregularities, refused evidence, haste, prejudice, and mistaken censure. The SJC rejected each claim: failure to swear two minor witnesses was acknowledged and nonprejudicial, notices and defense opportunity were adequate, and the guilty finding rested on Scripture, WCF 24:6, BCO 26-1, and 30-3; the 1992 study did not authorize divorce for alleged spiritual desertion. The appeal was not sustained, leaving the indefinite suspension in force; one commissioner dissented.",
+    "summary_review_status": "audited",
+    "summary_source": "reviewer_approval",
+    "matter_type": "complaint",
+    "final_dispositions": [
+      "not_sustained"
+    ]
+  },
+  "1996-06": {
+    "summary": "The Standing Judicial Commission approved the panel's action dismissing Robert Williams's complaint against South Texas Presbytery as judicially out of order. The adopted reason was that the parties could not agree on the Record of the Case. The source does not describe the challenged Presbytery action, the complaint's specifications, or any merits ruling.",
+    "summary_review_status": "audited",
+    "summary_source": "reviewer_approval",
+    "matter_type": "complaint",
+    "final_dispositions": [
+      "judicially_out_of_order",
+      "dismissed"
+    ]
+  },
+  "1997-02": {
+    "summary": "Rocky Mountain Presbytery cited Pastor Bruce Nickoley for contumacy during his trial, after he allegedly refused to tell his congregation to stop picketing, and immediately deposed him without a hearing. On appeal, the SJC sustained the appeal, holding the Presbytery misapplied BCO provisions on confession, citation, refusal to testify, and deposition; Nickoley neither confessed nor refused to appear. Although presbyteries have general authority to maintain order, serious charges require due process. The SJC remanded, recommending either a new process beginning with BCO §32-3 or revocation of the deposition and reinstatement.",
+    "summary_review_status": "audited",
+    "summary_source": "reviewer_approval",
+    "matter_type": "appeal",
+    "final_dispositions": [
+      "remanded"
+    ]
+  },
+  "1997-08": {
+    "summary": "Whether a non-PCA church member may bring a complaint against a presbytery? The full Standing Judicial Commission held no, finding Theresa Bridie's complaint against Central Florida Presbytery judicially out of order because she was not a member of a PCA church and therefore lacked standing. No merits issue was reached, and the sparse record does not identify the challenged presbytery action.",
+    "summary_review_status": "audited",
+    "summary_source": "reviewer_approval",
+    "matter_type": "complaint",
+    "final_dispositions": [
+      "judicially_out_of_order"
+    ]
+  },
+  "1997-10": {
+    "summary": "Raymond Larsen's complaint against Pacific Presbytery (Case 97-10) was withdrawn by the complainant before any merits ruling, and the Assembly recorded that withdrawal at its next stated meeting. His companion Case 97-12, also against Pacific Presbytery, was withdrawn at the same time. No separate merits opinion was published, so the record supplies only the disposition and no reasons, facts, or relief.",
+    "summary_review_status": "audited",
+    "summary_source": "reviewer_approval",
+    "matter_type": "complaint",
+    "final_dispositions": [
+      "withdrawn"
+    ]
+  },
+  "1998-01": {
+    "summary": "The complaint challenged James River Presbytery's approval of an ordination examination in which the candidate called the Genesis creation days God's anthropomorphic work days, not necessarily twenty-four-hour days. The complainant argued that view conflicted with WCF I.9. The SJC denied the complaint and answered 'No' to whether the Presbytery erred; the examination stood. It held the Presbytery had authority and discretion, no General Assembly had declared anthropomorphic days contrary to the Standards, and an advisory-committee study left the SJC unwilling to decide creation-day length. A six-member dissent sought an exception and study-committee referral.",
+    "summary_review_status": "audited",
+    "summary_source": "reviewer_approval",
+    "matter_type": "complaint",
+    "final_dispositions": [
+      "denied"
+    ]
+  },
+  "1998-02": {
+    "summary": "The St. Paul Session and other Central Florida presbyters complained that Presbytery wrongly sustained a commission report denying the Session complaint and declining to find a strong presumption of guilt against Pastor John Hutchinson. The SJC denied the complaint on both issues. It held CFP permissibly directed a BCO 31-2 investigation and chose its own procedures; procedural irregularities and possible bias did not show BCO 39-3 clear error, though the panel criticized CFP’s handling. A lone dissent would remand, alleging the commission ignored the substance of 41 of 45 specifications.",
+    "summary_review_status": "audited",
+    "summary_source": "reviewer_approval",
+    "matter_type": "complaint",
+    "final_dispositions": [
+      "denied"
+    ]
+  },
+  "1998-05": {
+    "summary": "At issue was whether James River Presbytery erred by instructing TE Andrew Conrad not to teach or preach his views that the Genesis days were not necessarily six twenty-four-hour days, after JRP treated the views as an exception. The SJC denied the complaint, leaving JRP's instruction in effect. It deferred under BCO 39-3, finding no significant procedural or constitutional error and no clear error of discretion; the parties had stipulated that instruction as the sole issue. The eight dissenters would have found JRP exceeded its discretion.",
+    "summary_review_status": "audited",
+    "summary_source": "reviewer_approval",
+    "matter_type": "complaint",
+    "final_dispositions": [
+      "denied"
+    ]
+  },
+  "1998-09": {
+    "summary": "An appeal from a Presbytery judgment and indefinite suspension of a pastor turned on whether he violated the Ninth Commandment and ordination/installation vows by telling the congregation the Session had 'demanded' his resignation for six weeks. The SJC denied the appeal, holding the Session as a whole had not formally demanded resignation; individual elders' earlier opinions did not excuse the overstatement, which harmed the Session's good name. It also found no due-process irregularity or prejudice warranting reversal, deferring to the lower court under BCO 39-3, leaving indefinite suspension in place.",
+    "summary_review_status": "audited",
+    "summary_source": "reviewer_approval",
+    "matter_type": "appeal",
+    "final_dispositions": [
+      "denied"
+    ]
+  },
+  "1998-10": {
+    "summary": "Eastern Carolina Presbytery referred to the SJC both TE Byron Curtis's complaint against Presbytery's order barring him from teaching his exceptions and TE Jeff Black's already-sustained complaint on the same subject. Without reaching the merits, the SJC remanded to the Presbytery for adjudication at the next stated meeting, directing that Curtis's complaint be heard. It reasoned that judicial complaints in process cannot be referred for mere advice and that, despite uncertainty about what the Presbytery sought, the lower court should hear the case first. Five SJC members dissented; the merits remained open.",
+    "summary_review_status": "audited",
+    "summary_source": "reviewer_approval",
+    "matter_type": "judicial_reference",
+    "final_dispositions": [
+      "remanded"
+    ]
+  },
+  "1999-02": {
+    "summary": "Tan's complaint challenged South Texas Presbytery's action at its July 30–31, 1999 meeting. The SJC declared the complaint administratively out of order because it was untimely under BCO 43-3: although dated and faxed August 28, it was not mailed until September 4 and was received September 7—beyond 30 days. SJC Manual 19.10 requires receipt in the Stated Clerk's office and disallows fax filing. The merits were not reached. Twenty-two members concurred; one was recused and one absent.",
+    "summary_review_status": "audited",
+    "summary_source": "reviewer_approval",
+    "matter_type": "complaint",
+    "final_dispositions": [
+      "administratively_out_of_order",
+      "dismissed"
+    ]
+  },
+  "1999-05": {
+    "summary": "After a minister remained on his presbytery's rolls without call and outside its bounds for more than seven years, the presbytery completed involuntary divestiture without censure. He appealed. The SJC denied the appeal and sustained the divestiture, reasoning that BCO 13-2 and 34-10 allowed the presbytery to follow that procedure once the constitutional three-year limit had long passed and no call to a particular ministry was available. The action therefore left the divestiture without censure in force.",
+    "summary_review_status": "audited",
+    "summary_source": "reviewer_approval",
+    "matter_type": "appeal",
+    "final_dispositions": [
+      "partially_sustained",
+      "denied"
+    ]
+  },
+  "2000-02": {
+    "summary": "A prosecutor's complaint relating to Northeast Presbytery's judicial case was held administratively out of order by the SJC. The SJC adopted two grounds: BCO 43-1 bars a complaint about a matter subject to an appeal in another case, and the complaint sought retrial of an accused on charges of which he had been acquitted, relief the SJC could not grant. Although the related appeal was later withdrawn and the withdrawal approved, the SJC still applied BCO 43-1. A concurrence disputed that first ground and urged BCO clarification of appellate review of acquittals. No merits ruling was made.",
+    "summary_review_status": "audited",
+    "summary_source": "reviewer_approval",
+    "matter_type": "appeal",
+    "final_dispositions": [
+      "administratively_out_of_order"
+    ]
+  },
+  "2000-04": {
+    "summary": "The SJC found a complaint against North Texas Presbytery out of order because the complainant lacked standing: he was not a member of a PCA church. It did not reach the merits or identify the underlying presbytery action. The vote was 19 concur, 0 dissent, 0 abstain, and 5 absent. The sparse minute entry illustrates that complaint standing before the SJC requires PCA membership; no separate reasoning or incorporated decision appears.",
+    "summary_review_status": "audited",
+    "summary_source": "reviewer_approval",
+    "matter_type": "complaint",
+    "final_dispositions": [
+      "out_of_order"
+    ]
+  },
+  "2000-10": {
+    "summary": "The SJC found Roger Tinsley et al.'s complaint against Southeast Alabama Presbytery out of order because it was not timely filed within BCO 43-3's 30-day limit following the lower court's meeting. It therefore reached no merits and granted no relief. The sparse record does not describe the challenged presbytery action. Vote: 14 concur, 0 dissent, 0 abstain, 9 absent, 1 recused.",
+    "summary_review_status": "audited",
+    "summary_source": "reviewer_approval",
+    "matter_type": "complaint",
+    "final_dispositions": [
+      "out_of_order"
+    ]
+  },
+  "2001-02": {
+    "summary": "Korean Capital Presbytery's commission tried and suspended a Korean church assistant pastor for heresy and schism after he failed to answer two summonses, and Presbytery upheld the suspension. On appeal, the SJC sustained the procedural challenge because no indictment with witnesses had been served and the record lacked any minutes or hearing for the default judgment, contrary to BCO 32-3. The SJC remanded for a new trial but expressly declined to rule on the citations, default procedure, or merits.",
+    "summary_review_status": "audited",
+    "summary_source": "reviewer_approval",
+    "matter_type": "appeal",
+    "final_dispositions": [
+      "sustained",
+      "remanded"
+    ]
+  },
+  "2001-06": {
+    "summary": "The SJC sustained a complaint by two ruling elders against Korean Eastern Presbytery over a disputed congregational meeting (three commissioners dissented). The session was deadlocked and had not called a requested meeting; KEP's administrative commission called and supervised the February 18, 2001 meeting, and KEP approved that action. The SJC reversed both lower-court actions, holding that BCO 25-2 places responsibility on the session and that the presbytery's proper course was to adjudicate a complaint under BCO 43, not act for the session. It declined to rule on the meeting's legal effect.",
+    "summary_review_status": "audited",
+    "summary_source": "reviewer_approval",
+    "matter_type": "complaint",
+    "final_dispositions": [
+      "sustained"
+    ]
+  },
+  "2001-11": {
+    "summary": "A ruling elder's complaint against Korean Northwest Presbytery was found out of order because it was untimely under BCO 43-2. The action complained of was taken October 10, 2000, but the complaint was filed March 12, 2001, well outside the 30-day filing period, so the SJC reached no merits question. The case illustrates that a complaint failing BCO 43-2 timeliness is dismissed without adjudication of the underlying presbytery action.",
+    "summary_review_status": "audited",
+    "summary_source": "reviewer_approval",
+    "matter_type": "complaint",
+    "final_dispositions": [
+      "out_of_order",
+      "dismissed"
+    ]
+  },
+  "2001-13": {
+    "summary": "Deacon Samuel Hong appealed after Korean Capital Presbytery's special judicial commission convicted him of contumacy and making a false statement and imposed a two-year suspension from the sacraments. The SJC sustained the appeal, holding that original jurisdiction over charges against a communicant member belongs to the local Session, not Presbytery or its commission, and reversed the Presbytery/commission actions. The SJC did not decide the underlying charges; the reversal was jurisdictional, not an acquittal. One recorded dissent gave no reasons.",
+    "summary_review_status": "audited",
+    "summary_source": "reviewer_approval",
+    "matter_type": "appeal",
+    "final_dispositions": [
+      "sustained",
+      "reversed"
+    ]
+  },
+  "2001-15": {
+    "summary": "The SJC decided whether a presbytery and its special judicial commission could assume original jurisdiction over disciplinary charges against a church member. It sustained the appeal and reversed: the court of original jurisdiction for communicant members is the local church session. Because the appellant was a member of Korean Presbyterian Church of Washington, the presbytery and its commission acted contrary to constitutional standards when they adjudicated the charges and imposed excommunication. The ruling rested on jurisdiction, not the merits; no remand was ordered.",
+    "summary_review_status": "audited",
+    "summary_source": "reviewer_approval",
+    "matter_type": "appeal",
+    "final_dispositions": [
+      "sustained",
+      "reversed"
+    ]
+  },
+  "2001-16": {
+    "summary": "In this SJC appeal, RE Joo Bok Suh challenged Korean Capital Presbytery's excommunication after its special judicial commission, rather than his local session, received and adjudicated charges that he had committed contumacy and made a false statement in a civil-court filing. The SJC sustained the appeal and reversed the Presbytery/commission action because the court of original jurisdiction over a communicant member is the local session. The reversal was jurisdictional; the SJC did not rule on the truth of the charges, so it was not an acquittal.",
+    "summary_review_status": "audited",
+    "summary_source": "reviewer_approval",
+    "matter_type": "appeal",
+    "final_dispositions": [
+      "sustained",
+      "reversed"
+    ]
+  },
+  "2001-17": {
+    "summary": "Korean Capital Presbytery approved a three-year suspension from the sacraments after its special judicial commission found RE Choon Soon Lee guilty of contumacy and making a false statement on a civil-court document. On appeal, the SJC sustained and reversed. Because Lee was a communicant member, the Session—not Presbytery or its commission—was the court of original jurisdiction; the commission's adjudication therefore violated constitutional standards. The SJC did not decide the underlying charges, and one commissioner dissented.",
+    "summary_review_status": "audited",
+    "summary_source": "reviewer_approval",
+    "matter_type": "appeal",
+    "final_dispositions": [
+      "sustained",
+      "reversed"
+    ]
+  },
+  "2001-18": {
+    "summary": "The SJC sustained an assistant pastor’s appeal from a three-year suspension from the sacraments after a Korean Capital Presbytery commission found him guilty of participating in the call of an allegedly unconstitutional presbytery meeting. The decisive defect was procedural: no indictment was served, no prosecutor was clearly appointed, and no trial minutes appeared in the record; service of an indictment with a witness list was critical. The case was remanded for a new trial, and the SJC expressly did not reach the merits or citation adequacy.",
+    "summary_review_status": "audited",
+    "summary_source": "reviewer_approval",
+    "matter_type": "appeal",
+    "final_dispositions": [
+      "sustained",
+      "remanded"
+    ]
+  },
+  "2001-24": {
+    "summary": "A complaint by Keith A. Williams against Eastern Carolina Presbytery was withdrawn. The 30th Assembly's 2002 record lists it among withdrawn cases, and the stub identifies the Standing Judicial Commission as the court. No separate merits opinion was published; the source does not describe the challenged presbytery action, any issue-level ruling, or any adopted reason. The only usable information is the procedural disposition.",
+    "summary_review_status": "audited",
+    "summary_source": "reviewer_approval",
+    "matter_type": "complaint",
+    "final_dispositions": [
+      "withdrawn"
+    ]
+  },
+  "2001-25": {
+    "summary": "After TE Anthony Dallison confessed spousal abuse and received an indefinite suspension, North Florida Presbytery later found him impenitent and deposed him and suspended him from the sacraments. Dallison complained that increasing the censure required fresh charges and trial. The SJC disagreed: his BCO 38-1 confession waived trial rights as to the original charge; the offender then had to satisfy the court of repentance, and the presbytery could investigate and impose higher censure under BCO 37-3, 37-4, 37-8, and 34-4b. The complaint was not sustained.",
+    "summary_review_status": "audited",
+    "summary_source": "reviewer_approval",
+    "matter_type": "complaint",
+    "final_dispositions": [
+      "not_sustained",
+      "affirmed"
+    ]
+  },
+  "2001-28": {
+    "summary": "A complaint challenged Westminster Presbytery's denial of a challenge to its May 15, 2001 plan to withdraw from the PCA. The SJC answered no: the Presbytery did not err, and denied the complaint. BCO 25's local-church withdrawal right and the BCO Preface's grassroots principles extend to presbyteries unless expressly excluded, so a presbytery may determine its own membership and affiliation. The plan did not 'act for' local churches; they retained rights to remain in the PCA or leave, and retained property and internal operations.",
+    "summary_review_status": "audited",
+    "summary_source": "reviewer_approval",
+    "matter_type": "complaint",
+    "final_dispositions": [
+      "not_sustained",
+      "affirmed"
+    ]
+  },
+  "2001-30": {
+    "summary": "Third Presbyterian Church asked the SJC to review Evangel Presbytery's denial of its complaint against a Presbytery commission's binding arbitration award of $57,000 to Covenant Classical School. The SJC ruled the complaint not judicially in order, not denied on the merits: PCA courts may not serve as civil arbitrators, and neither Presbytery nor the SJC may review legally binding arbitration judgments. Church courts may act only as ecclesiastical arbitrators, whose decisions lack civil effect and are reviewable under BCO 43. The complaint's five grounds were not reached.",
+    "summary_review_status": "audited",
+    "summary_source": "reviewer_approval",
+    "matter_type": "complaint",
+    "final_dispositions": [
+      "judicially_out_of_order"
+    ]
+  },
+  "2001-31": {
+    "summary": "After Deacon Neil Jeansonne was convicted by his Session of causing dissension and strife, Eastern Carolina Presbytery reversed, then reinstated the conviction; the SJC asked whether his General Assembly appeal was properly before it. It was not. Because Case 2001-33 held ECP erred in hearing RE Williams's complaint, ECP's April 21, 2001 reversal and removal of censures stand. The case is remanded to the Session, which may retry using the prior indictment or not pursue the matter. BCO 43-1 barred the complaint once appeal was taken.",
+    "summary_review_status": "audited",
+    "summary_source": "reviewer_approval",
+    "matter_type": "appeal",
+    "final_dispositions": [
+      "denied",
+      "remanded"
+    ]
+  },
+  "2001-32": {
+    "summary": "Christ Covenant Church Session complained under BCO 43 that Central Carolina Presbytery wrongly annulled the session trial commission's judgment and found due-process error concerning H. The SJC did not reach the merits. It held the case not judicially in order because H's complaint to the Session was untimely: it exceeded the thirty-day requirement of BCO 43-2 and came more than eighty days after the oral verdict. The ruling thus turned on a procedural gate, making no merits ruling on Presbytery's annulment or its due-process rationale.",
+    "summary_review_status": "audited",
+    "summary_source": "reviewer_approval",
+    "matter_type": "complaint",
+    "final_dispositions": [
+      "judicially_out_of_order"
+    ]
+  },
+  "2002-09": {
+    "summary": "The SJC denied TE Stuart H. Merriam's appeal from Tennessee Valley Presbytery's April 20, 2002 conviction on three ordination-vow specifications and its indefinite suspension. It rejected procedural challenges—that the earlier called meeting was improperly convened and that TVP was prejudiced by prior cases—and found no clear error, applying BCO 39-3(2)'s deference to lower-court factual findings. The SJC sustained TVP's judgment; prior SJC Cases 95-10 and 96-7 had only indirect bearing and did not require retrial.",
+    "summary_review_status": "audited",
+    "summary_source": "reviewer_approval",
+    "matter_type": "appeal",
+    "final_dispositions": [
+      "denied"
+    ]
+  },
+  "2002-10": {
+    "summary": "A church member challenged Pacific Northwest Presbytery's denial of her complaint that Faith Presbyterian Church (Tacoma) Session had banned her from worship and sought to erase her membership retroactively under BCO 38-4. The SJC sustained the complaint. Because she never joined Covenant PCA, BCO 46-3 left her membership under Faith's Session; the Session's proposed retroactive erasure did not comply with BCO 38-4's pastoral-oversight steps. The Presbytery therefore erred and should have remanded the matter to the Session. No separate merits relief beyond that remand directive appears.",
+    "summary_review_status": "audited",
+    "summary_source": "reviewer_approval",
+    "matter_type": "complaint",
+    "final_dispositions": [
+      "sustained"
+    ]
+  },
+  "2002-14": {
+    "summary": "A ruling elder convicted by his Session of fifth-, sixth-, and ninth-commandment violations challenged the conviction because the prosecution presented no live witness and relied on his own letters. The SJC denied the appeal and upheld Presbytery's affirmance, holding that the documents, Lachman's acknowledgments of writing them, and defense witnesses supplied sufficient proof; the Session also followed Matthew 18 with patience. A concurrence urged change-of-venue procedures for small-Session bias cases, but noted Lachman never requested a reference or challenged the court before trial.",
+    "summary_review_status": "audited",
+    "summary_source": "reviewer_approval",
+    "matter_type": "appeal",
+    "final_dispositions": [
+      "denied"
+    ]
+  },
+  "2002-15": {
+    "summary": "This sparse record disposes of TE Walter Bjorck's complaint against Northern New England Presbytery as out of order; no merits opinion or reason for that ruling is published. The same minute entry also records that a request that the SJC accept and act upon the judicial reference in Case 2002-04 was not acceded to. It therefore documents only a procedural status, not the complaint's substance or the basis for the ruling.",
+    "summary_review_status": "audited",
+    "summary_source": "reviewer_approval",
+    "matter_type": "complaint",
+    "final_dispositions": [
+      "administratively_out_of_order"
+    ]
+  },
+  "2003-04": {
+    "summary": "The Chins complained to the SJC after Covenant Presbytery denied their complaint against Covenant Presbyterian Church Session's refusal to examine their young children for admission to the Lord's Supper. The SJC did not sustain the complaint. Its adopted reasoning held that BCO 57-2 leaves the time for examining young persons to the Session's prudence and imposes no mandate to examine every child put forward; if the Session decides the time has come, careful examination is required. The dissent read BCO 57-1 as requiring examination of covenant children seeking admission.",
+    "summary_review_status": "audited",
+    "summary_source": "reviewer_approval",
+    "matter_type": "complaint",
+    "final_dispositions": [
+      "not_sustained"
+    ]
+  },
+  "2004-02": {
+    "summary": "A member suspended from the Lord's Table appealed after Presbytery let the Session resume her trial and failed to lift all suspensions. The SJC sustained the appeal, finding the Session's premature censure, truncated trial, and prosecutor-judge conflict manifested prejudice and made a fair trial impossible. It set aside all judgments and censures, treated the November 13, 2003 communion letter as non-censuring advice, and did not remand.",
+    "summary_review_status": "audited",
+    "summary_source": "reviewer_approval",
+    "matter_type": "appeal",
+    "final_dispositions": [
+      "sustained"
+    ]
+  },
+  "2004-03": {
+    "summary": "A church member challenged Heritage Presbytery's ruling that the BCO neither expressly nor implicitly requires a congregation to approve changes in a pastor's call, and that it does not require the session to publicize budget details. The SJC held the BCO silent on both points: once the original call and terms are approved, later changes are budgetary and belong to the session under BCO 12-5b; publicizing the budget is prudent but not mandated. The complaint was not sustained; seven commissioners dissented, arguing congregational approval follows by good and necessary consequence.",
+    "summary_review_status": "audited",
+    "summary_source": "reviewer_approval",
+    "matter_type": "complaint",
+    "final_dispositions": [
+      "not_sustained"
+    ]
+  },
+  "2004-05": {
+    "summary": "SJC sustained TE Philip Blevins's complaint against Westminster Presbytery, holding the Blevins/Seufert complaint was timely despite the commission's February 3, 2004 untimeliness ruling. The wife's April 2003 letter was essentially a BCO 35-13 request to review new evidence, and the Session's May 2003 denial was a new complaintable decision. The SJC did not decide the wife's divorce grounds or the Session's merits; it remanded for Presbytery to rehear the Session and Warhurst complaints with the Blevins/Seufert merits considered. A concurrence added that no full new trial is required.",
+    "summary_review_status": "audited",
+    "summary_source": "reviewer_approval",
+    "matter_type": "complaint",
+    "final_dispositions": [
+      "sustained"
+    ]
+  },
+  "2004-07": {
+    "summary": "A presbytery annulled a session's actions after the session added to a petition-called congregational meeting a recommendation that the congregation invoke BCO 24-6 against eleven elders. The SJC sustained the session's complaint: BCO 25-2 permits a session to add agenda items, and BCO 24-6 does not require a member-initiated motion; the congregation's own 503–229 vote began the process. It reinstated the session's actions, declared remaining relief moot, and noted one recorded dissent; no dissent text appears.",
+    "summary_review_status": "audited",
+    "summary_source": "reviewer_approval",
+    "matter_type": "complaint",
+    "final_dispositions": [
+      "sustained"
+    ]
+  },
+  "2004-09": {
+    "summary": "The SJC found RE Scott Robar's appeal from Central Carolina Presbytery judicially out of order and dismissed it because he filed his notice of appeal only with Presbytery's stated clerk, not also with the General Assembly's stated clerk as BCO 42-4 requires. No merits review of his conviction occurred. Four commissioners dissented, arguing that the presbytery clerk's admittedly incorrect advice, Robar's reliance, and Presbytery's request to treat the appeal as timely should excuse the filing defect under the Plowman precedent and equity or estoppel principles.",
+    "summary_review_status": "audited",
+    "summary_source": "reviewer_approval",
+    "matter_type": "appeal",
+    "final_dispositions": [
+      "judicially_out_of_order",
+      "dismissed"
+    ]
+  },
+  "2005-06": {
+    "summary": "The Standing Judicial Commission, as recorded in the 34th Assembly, found RE Hugo Andrino's complaint against Southern Florida Presbytery out of order. The supplied record includes no separate merits opinion, no adopted reason, and no relief; it does not identify the challenged presbytery action or classify the out-of-order ruling.",
+    "summary_review_status": "audited",
+    "summary_source": "reviewer_approval",
+    "matter_type": "complaint",
+    "final_dispositions": [
+      "out_of_order"
+    ]
+  },
+  "2006-07": {
+    "summary": "Chastain appealed Heritage Presbytery’s 2006 excommunication and deposition. The SJC held the appeal judicially out of order because Chastain had renounced PCA jurisdiction on May 8, 2006. Consequently, Presbytery’s later proceedings were moot and SJC 2005-1 remained in effect. The SJC did not reach the merits. A concurrence questioned the discipline process after renunciation; a dissent argued the majority lacked constitutional authority to recognize unilateral withdrawal and thereby undercut discipline.",
+    "summary_review_status": "audited",
+    "summary_source": "reviewer_approval",
+    "matter_type": "appeal",
+    "final_dispositions": [
+      "out_of_order"
+    ]
+  },
+  "2007-03": {
+    "summary": "The 36th Assembly (2008), on the SJC docket, recorded the complaint of Greg Segallis et al. against Central Florida Presbytery as out of order (36-31, p. 75). No separate merits opinion or reason for the out-of-order disposition appears in the supplied record; the stub supports only that disposition.",
+    "summary_review_status": "audited",
+    "summary_source": "reviewer_approval",
+    "matter_type": "complaint",
+    "final_dispositions": [
+      "out_of_order"
+    ]
+  },
+  "2007-11": {
+    "summary": "After Korean Eastern Presbytery tried, convicted, deposed, and excommunicated TE Eliot Lee, the SJC sustained his appeal and reversed the disposition and excommunication. The decisive reason was procedural: the record did not show timely service of the indictment/citations or the required 14-day trial notice, violating BCO 32-3, 32-7, and 32-10. Under BCO 42-9, the SJC rendered the decision it thought should have been made, finding no strong presumption of guilt under BCO 31-2 justified formal process; it added pastoral counsel, expressly not censure.",
+    "summary_review_status": "audited",
+    "summary_source": "reviewer_approval",
+    "matter_type": "appeal",
+    "final_dispositions": [
+      "sustained",
+      "reversed"
+    ]
+  },
+  "2008-06": {
+    "summary": "The SJC found RE H. Lance Acree's complaint against Chesapeake Presbytery out of order. The stub records no issue, merits opinion, reasoning, or relief, and groups 2008-06 with three other 2008 cases found out of order. The complaint therefore ended without a merits determination.",
+    "summary_review_status": "audited",
+    "summary_source": "reviewer_approval",
+    "matter_type": "complaint",
+    "final_dispositions": [
+      "out_of_order"
+    ]
+  },
+  "2008-14": {
+    "summary": "A minister complained that his presbytery wrongly refused to order a BCO 31-2 investigation into another minister’s Covenant of Works/Federal Vision views. The SJC sustained the complaint and remanded for that investigation, holding that BCO 31-2 requires investigation of credible, injurious reports about Christian character. The presbytery erred by applying the higher evidentiary standard for conviction after process; reports sufficient to trigger investigation need not establish guilt or a strong presumption of guilt, and hearsay or conflicting testimony can require investigation rather than justify refusal. A concurrence agreed in result; the dissent found no clear error in the presbytery’s exercise of discretion.",
+    "summary_review_status": "audited",
+    "summary_source": "reviewer_approval",
+    "matter_type": "complaint",
+    "final_dispositions": [
+      "sustained",
+      "remanded"
+    ]
+  },
+  "2009-07": {
+    "summary": "The SJC denied James Urish and others' complaint against Rocky Mountain Presbytery for sustaining Dan Breed's ordination exam. Breed had said women could teach Scripture to mixed adults in settings like Sunday school under session oversight, but not preach, hold elder office, or teach outside session authority. Because the Westminster Standards and BCO did not expressly resolve that view, the SJC found no clear error under BCO 39 and affirmed Presbytery's denial. A concurrence criticized Breed's exegesis of 1 Tim. 2:12 but stressed the SJC was not endorsing it.",
+    "summary_review_status": "audited",
+    "summary_source": "reviewer_approval",
+    "matter_type": "complaint",
+    "final_dispositions": [
+      "denied",
+      "affirmed"
+    ]
+  },
+  "2009-14": {
+    "summary": "The Ellisville PC Session’s complaint against Grace Presbytery was withdrawn, and the 38th Assembly recorded that disposition (38-31, p. 129). The stub publishes no merits opinion and states no reason for the withdrawal; the case therefore supplies no ruling on the complaint’s underlying dispute.",
+    "summary_review_status": "audited",
+    "summary_source": "reviewer_approval",
+    "matter_type": "complaint",
+    "final_dispositions": [
+      "withdrawn"
+    ]
+  },
+  "2009-22": {
+    "summary": "The SJC denied a censured husband's complaint against Chesapeake Presbytery's approval of a judicial commission report, which had upheld his session's refusal to receive his charges against his wife after she filed for civil divorce. Applying BCO 39-3.2–3.3, the SJC deferred to the lower courts' factual and discretionary findings absent clear error. It found no clear procedural error, upheld the conclusion that the wife did not sin by seeking civil protection, and invoked BCO 31-8's caution about accusations from one under censure.",
+    "summary_review_status": "audited",
+    "summary_source": "reviewer_approval",
+    "matter_type": "complaint",
+    "final_dispositions": [
+      "denied"
+    ]
+  },
+  "2009-23": {
+    "summary": "Illiana Presbytery appointed a commission with broad power 'to deal with matters' at Center Grove Presbyterian Church after a pastor requested inquiry into alleged evils. The SJC sustained the complaint but held the error harmless: the broad charge could take original jurisdiction from the session contrary to BCO 11-3 & 4 and 33-1, while a limited investigative committee under BCO 13-9(f) and 31-2 would have been proper. Because the commission never exercised that power and the session endorsed its findings, no remedy, including invalidation of the adopted report, was ordered.",
+    "summary_review_status": "audited",
+    "summary_source": "reviewer_approval",
+    "matter_type": "complaint",
+    "final_dispositions": [
+      "sustained"
+    ]
+  },
+  "2009-27": {
+    "summary": "A complaint against Platte Valley Presbytery was ruled administratively out of order by the Standing Judicial Commission at the 38th Assembly (2010), 38-31, p. 129. The published record is only a stub: it gives no merits opinion, no allegations, and no rationale for the administrative ruling, and it states no further proceedings.",
+    "summary_review_status": "audited",
+    "summary_source": "reviewer_approval",
+    "matter_type": "complaint",
+    "final_dispositions": [
+      "administratively_out_of_order"
+    ]
+  },
+  "2009-29": {
+    "summary": "McNeil v. Chesapeake, Case 2009-29, appears in the 38th General Assembly (2010) record as one of several 2009-2010 cases found administratively out of order; no separate SJC merits opinion was published. The available stub supplies no issue description, procedural-vehicle statement, or reasons for the administrative disposition, so it supports only a status synopsis, not the underlying dispute or ruling rationale.",
+    "summary_review_status": "audited",
+    "summary_source": "reviewer_approval",
+    "matter_type": "complaint",
+    "final_dispositions": [
+      "administratively_out_of_order"
+    ]
+  },
+  "2009-32": {
+    "summary": "Russell Warren’s complaint against Chesapeake Presbytery was found administratively out of order by the Standing Judicial Commission at the 38th Assembly. The supplied source gives no merits opinion, no issue-level ruling, and no adopted reason for the administrative disposition; it leaves the underlying complaint and any relief unaddressed.",
+    "summary_review_status": "audited",
+    "summary_source": "reviewer_approval",
+    "matter_type": "complaint",
+    "final_dispositions": [
+      "administratively_out_of_order"
+    ]
+  },
+  "2010-01": {
+    "summary": "Michael McNeil’s complaint against Chesapeake Presbytery was dismissed without a merits ruling after McNeil failed to appear at the SJC hearing. The panel called his name outside the hearing room and the Stated Clerk’s office; he was absent and had filed no brief. The notice had warned under BCO 42-11 that an appellant’s failure to appear would be treated as abandonment. The SJC declared the case abandoned and dismissed it. This illustrates dismissal for nonappearance, not adjudication of the underlying complaint.",
+    "summary_review_status": "audited",
+    "summary_source": "reviewer_approval",
+    "matter_type": "complaint",
+    "final_dispositions": [
+      "dismissed"
+    ]
+  },
+  "2010-03": {
+    "summary": "An appellant under suspension from the sacraments challenged the presbytery's judicial commission process and censure. The SJC held the appeal judicially out of order—not decided on the merits—because he had not submitted to a regular trial, as BCO 42-2 requires. Treated as a complaint, it was also out of order: it had not first been presented to the presbytery, and the 30-day period had expired. The SJC further barred complaints about later court actions while he remained under censure, except as to the highest censure. The censure stood.",
+    "summary_review_status": "audited",
+    "summary_source": "reviewer_approval",
+    "matter_type": "appeal",
+    "final_dispositions": [
+      "judicially_out_of_order",
+      "dismissed"
+    ]
+  },
+  "2010-04": {
+    "summary": "A complaint challenged Siouxlands Presbytery's investigation of allegations that TE Joshua Moon held heterodox Federal Vision views and its finding of no strong presumption of guilt. The SJC held that Presbytery had investigated diligently under BCO 31-2 and, deferring under BCO 39-3 to its credibility judgment, found no clear error. It declined to decide whether the overture should have been treated as charges because that issue was not raised below, while leaving future charges possible. A concurrence favored charges; the dissent would have found error and remanded.",
+    "summary_review_status": "audited",
+    "summary_source": "reviewer_correction",
+    "matter_type": "complaint",
+    "final_dispositions": [
+      "denied"
+    ]
+  },
+  "2010-07": {
+    "summary": "Mr. Sang Chui Choi and others brought a case against Korean Central Presbytery. The Standing Judicial Commission, in the 39th General Assembly (2011), found 2010-07 administratively out of order, listing it among seven cases (2009-29, 2009-30, 2009-31, 2010-06, 2010-07, 2010-17, 2010-25) disposed of on that ground. No separate merits opinion was published, and the adopted record gives no reason for the ruling or any underlying facts.",
+    "summary_review_status": "audited",
+    "summary_source": "reviewer_approval",
+    "matter_type": "complaint",
+    "final_dispositions": [
+      "administratively_out_of_order"
+    ]
+  },
+  "2010-24": {
+    "summary": "A complaint challenging Northwest Georgia Presbytery’s denial of Laura Wood’s complaint against a session was declared judicially out of order and dismissed because Presbytery later rescinded the challenged action; the SJC said the defects could not be cured and no grounds remained. It reached no merits. The dissent argued rescission did not automatically defeat a complaint and that her complaint also alleged Presbytery’s failure to act.",
+    "summary_review_status": "audited",
+    "summary_source": "reviewer_approval",
+    "matter_type": "complaint",
+    "final_dispositions": [
+      "judicially_out_of_order",
+      "dismissed"
+    ]
+  },
+  "2011-01": {
+    "summary": "A complaint challenged the nonacceptance of charges filed with Korean Central Presbytery. The record was unclear whether Presbytery or only its clerk had refused them, and did not show that Presbytery had denied a complaint concerning that refusal. The SJC therefore held the complaint administratively out of order as premature under BCO 43-2, without reaching the merits.",
+    "summary_review_status": "audited",
+    "summary_source": "reviewer_correction",
+    "matter_type": "complaint",
+    "final_dispositions": [
+      "administratively_out_of_order"
+    ]
+  },
+  "2011-02": {
+    "summary": "The SJC denied a minister's complaint challenging Presbytery's out-of-order dismissal of his request for a BCO 31-2 investigation of another minister. Although the SJC agreed Presbytery wrongly said it had already decided all issues—the earlier complaint (SJC 2010-28) was distinct—it upheld the refusal to investigate. The accused minister had delivered an authorized committee report as chairman; absent evidence he exceeded that authorization, his statements were the committee's, not personal, and BCO 31-2 did not require investigation.",
+    "summary_review_status": "audited",
+    "summary_source": "reviewer_approval",
+    "matter_type": "complaint",
+    "final_dispositions": [
+      "out_of_order"
+    ]
+  },
+  "2011-05": {
+    "summary": "The SJC held Young Bae Kim's complaint against Korean Capital Presbytery administratively out of order because it was not filed with the Stated Clerk within 30 days after the presbytery's October 4, 2010 meeting, as BCO 43 requires. The adopted ruling reached no merits. The roll call adopted 18 concurring, 1 disqualified, and 5 absent; the disqualified commissioner could not certify that he had read the necessary record portions.",
+    "summary_review_status": "audited",
+    "summary_source": "reviewer_approval",
+    "matter_type": "complaint",
+    "final_dispositions": [
+      "no_final_disposition"
+    ]
+  },
+  "2011-06": {
+    "summary": "Elders complained that Missouri Presbytery erred in its BCO 31-2 investigation by finding insufficient evidence to raise a strong presumption of guilt that TE Jeffrey Meyers held Federal Vision views contrary to the Westminster Standards. The SJC answered yes: MOP erred under BCO 34-5, and the ordinary remedy was compliance with BCO 31-2. But because MOP had already tried Meyers on April 13–14, 2012, the SJC held further action moot, ordering no additional relief. Adopted by the SJC as a whole, with one dissent.",
+    "summary_review_status": "audited",
+    "summary_source": "reviewer_approval",
+    "matter_type": "complaint",
+    "final_dispositions": [
+      "sustained",
+      "moot"
+    ]
+  },
+  "2011-10": {
+    "summary": "The SJC held Frank Testa's complaint against South Florida Presbytery administratively out of order because the presbytery had not yet acted on the underlying matter, so no merits decision was reached. The case thus turns on prematurity rather than the complaint's substance; the sparse record does not describe the underlying dispute. The adopted vote was 19 concurring, 1 not qualified, and 4 absent. RE Donohoe was not qualified because he could not certify that he had read the necessary portions of the Record (OMSJC 2.3.b).",
+    "summary_review_status": "audited",
+    "summary_source": "reviewer_approval",
+    "matter_type": "complaint",
+    "final_dispositions": [
+      "no_final_disposition"
+    ]
+  },
+  "2011-13": {
+    "summary": "An individual appealed directly to the SJC, alleging her church effectively excommunicated her without process, failed the Matthew 18 process, and spiritually abused her by social isolation. The SJC dismissed as premature, without reaching the merits, because there was no record of a judicial decision by the church or of an appeal to Evangel Presbytery, the next higher court; it stated she could proceed only by providing such evidence. The severity of excommunication did not excuse that prerequisite. The SJC asked Presbytery to obtain the session's written response to her letter.",
+    "summary_review_status": "audited",
+    "summary_source": "reviewer_approval",
+    "matter_type": "appeal",
+    "final_dispositions": [
+      "dismissed"
+    ]
+  },
+  "2011-14": {
+    "summary": "Philadelphia Presbytery declared Reese and Bech's complaint out of order because some supporting reasons and requested amends allegedly violated the BCO. The SJC sustained the complaint, holding Presbytery misapplied Robert's Rules: objectionable parts do not justify rejecting an entire complaint, and a court need not adopt requested amends. It also said pertinent questions about whether a call is for the good of the Church may be asked, but agreed the amends—including removing TE Hsu—were inappropriate and could not rescind his installation.",
+    "summary_review_status": "audited",
+    "summary_source": "reviewer_correction",
+    "matter_type": "complaint",
+    "final_dispositions": [
+      "sustained"
+    ]
+  },
+  "2011-19": {
+    "summary": "Mr. Frank Testa's case against Southern Florida Presbytery was found administratively out of order by the 40th General Assembly, a procedural disposition rather than a merits ruling. No separate merits opinion was published, and the source does not identify the challenged action, grounds, or rationale. It lists 2011-19 among cases found administratively out of order, while another case was found judicially out of order.",
+    "summary_review_status": "audited",
+    "summary_source": "reviewer_approval",
+    "matter_type": "complaint",
+    "final_dispositions": [
+      "administratively_out_of_order"
+    ]
+  },
+  "2012-01": {
+    "summary": "The SJC dismissed a complaint against James River Presbytery without reaching the merits, holding it judicially out of order because the action complained against was not in the Record of the Case (BCO 43-1; OMSJC 10.6). The adopted ruling gives no further rationale and carried 13 concurring, 5 dissenting, 1 abstaining, 1 disqualified, and 4 absent. A dissent argued the record did contain an adjudicable Session action and that the cited OMSJC provision did not list the ground used; a separate written objection challenged a panel member's participation.",
+    "summary_review_status": "audited",
+    "summary_source": "reviewer_approval",
+    "matter_type": "complaint",
+    "final_dispositions": [
+      "judicially_out_of_order",
+      "dismissed"
+    ]
+  },
+  "2012-04": {
+    "summary": "The SJC held TE Dwight Dunn's complaint administratively out of order under OMSJC 9.1 and directed Presbytery to remedy the deficiencies by its next Stated Meeting before further action under OMSJC 9.2. The original complaint had been transmitted to the Faith Church Commission by the Stated Clerk, not committed by Presbytery motion as BCO 15-3 requires, and after the Commission denied it, the Commission did not seek Presbytery approval of its judgment. Because Presbytery had not acted, the SJC complaint was premature; no merits were reached.",
+    "summary_review_status": "audited",
+    "summary_source": "reviewer_approval",
+    "matter_type": "complaint",
+    "final_dispositions": [
+      "no_final_disposition"
+    ]
+  },
+  "2012-05": {
+    "summary": "The SJC denied RE Gerald Hedman's complaint against Pacific Northwest Presbytery, which had adopted five not-guilty judgments on charges that TE Peter Leithart's baptism, covenant, imputation, justification, and union-with-Christ views contradicted the Westminster Standards. Bound to the record and clear-error review, the SJC found no procedural violation and insufficient evidence that Presbytery clearly erred. It left the verdicts undisturbed, declined to endorse Leithart's views generally, and urged continued clarification of his non-standard terminology. A separate dissent would have found error and ordered a new trial or reference.",
+    "summary_review_status": "audited",
+    "summary_source": "reviewer_approval",
+    "matter_type": "complaint",
+    "final_dispositions": [
+      "denied"
+    ]
+  },
+  "2012-06": {
+    "summary": "The SJC held Complaint 2012-06 administratively out of order because it was not filed within thirty days (BCO 43-2; OMSJC 18.10.b) and because the complainant, a Deacon who was not a commissioner to Presbytery at the time of the challenged action, lacked standing (BCO 43-1). No merits review appears; the adopted vote was 18 concurring, 2 not qualified, and 4 absent.",
+    "summary_review_status": "audited",
+    "summary_source": "reviewer_approval",
+    "matter_type": "complaint",
+    "final_dispositions": [
+      "no_final_disposition"
+    ]
+  },
+  "2012-09": {
+    "summary": "The SJC held TE M. Jay Bennett’s complaint against Missouri Presbytery administratively out of order for lack of standing. Bennett was a PCA member when he complained to Presbytery on April 16, 2012, but was received by the OPC on April 28, 2012; when he filed with the SJC on August 16, 2012, he was no longer a PCA member. The SJC reached no merits issue. The vote was 15 concurring, 2 dissenting, 1 disqualified, 1 not qualified, 1 recused, and 4 absent; no dissent rationale is stated.",
+    "summary_review_status": "audited",
+    "summary_source": "reviewer_approval",
+    "matter_type": "complaint",
+    "final_dispositions": [
+      "no_final_disposition"
+    ]
+  },
+  "2012-10": {
+    "summary": "The 40th General Assembly cited Korean Capital Presbytery for failing to respond to substantive exceptions in its October 6, 2008 minutes. The SJC noted that the Presbytery had submitted responses approved by the Presbytery under BCO 10-4 and found those responses acceptable. The record does not state a dismissal, acquittal, or other formal merits disposition; the matter is an administrative BCO 40-5 citation resolved by acceptance of the Presbytery's responses.",
+    "summary_review_status": "audited",
+    "summary_source": "reviewer_approval",
+    "matter_type": "complaint",
+    "final_dispositions": [
+      "no_final_disposition"
+    ]
+  },
+  "2013-01": {
+    "summary": "The complaint challenged Philadelphia Metro West Presbytery’s November 17, 2012 vote adopting its Complaint Commission’s recommendation to institute process and try TE David Swavely. The SJC did not sustain it. Although the record showed possible procedural irregularities—including unauthorized circulation of an earlier complaint—the SJC found no reversible error: presbyteries receive deference on factual records and broad latitude to judge the sufficiency of investigations. The recommendation to proceed to trial stands, subject to later parliamentary action. The SJC did not decide Swavely’s guilt.",
+    "summary_review_status": "audited",
+    "summary_source": "reviewer_approval",
+    "matter_type": "complaint",
+    "final_dispositions": [
+      "not_sustained"
+    ]
+  },
+  "2013-02": {
+    "summary": "The 42nd General Assembly (2014) found Case 2013-02, a complaint by RE Warren Jackson against Northwest Georgia Presbytery, Administratively Out of Order. No merits opinion was published, and the surviving record gives no facts, grounds, adopted reasoning, or relief. The same disposition was entered in companion Case 2013-05, while Case 2013-09 was withdrawn as prematurely filed.",
+    "summary_review_status": "audited",
+    "summary_source": "reviewer_approval",
+    "matter_type": "complaint",
+    "final_dispositions": [
+      "administratively_out_of_order"
+    ]
+  },
+  "2013-07": {
+    "summary": "The SJC sustained the Session's complaint against Presbytery. Presbytery had ruled a member's original complaint administratively out of order as untimely but then remanded the matter to the Session; the SJC held that once out of order, no complaint remained to remand. It also held Presbytery could not direct or instruct the Session to initiate formal process without BCO 40-5's required citation step, so those directions were null and void. The member remained under the Session's jurisdiction; the civil trespass order was not ecclesiastical discipline and did not alter membership.",
+    "summary_review_status": "audited",
+    "summary_source": "reviewer_approval",
+    "matter_type": "complaint",
+    "final_dispositions": [
+      "sustained",
+      "remanded"
+    ]
+  },
+  "2013-09": {
+    "summary": "The 42nd Assembly (2014) disposed of Mr. G. Rick Marshall's appeal against Pacific Presbytery by withdrawal. No separate merits opinion was published, so the source does not disclose the challenged conduct, adopted reasoning, or relief beyond the withdrawal.",
+    "summary_review_status": "audited",
+    "summary_source": "reviewer_approval",
+    "matter_type": "appeal",
+    "final_dispositions": [
+      "withdrawn"
+    ]
+  },
+  "2013-10": {
+    "summary": "A presbytery deposed a minister for violating his seventh vow by pursuing an unbiblical divorce after he filed a civil petition. The SJC sustained the appeal in part: the presbytery clearly erred in finding sin in the filing, because the record did not conclusively show intent to divorce rather than protect his children, and the wife's counter-filing undermined the failure-to-withdraw inference. The SJC rejected prejudice, irregularity, and venue claims, voided the trial judgment, and noted that his expired prior suspension left him a presbytery member without call. Divorce precedents are fact-specific.",
+    "summary_review_status": "audited",
+    "summary_source": "reviewer_approval",
+    "matter_type": "appeal",
+    "final_dispositions": [
+      "sustained"
+    ]
+  },
+  "2013-12": {
+    "summary": "G. Rick Marshall appealed Pacific Presbytery, which failed to transmit a material part of the Record of the Case, causing irremediable injury. The SJC did not reach the merits; it suspended the lower judgment indefinitely, dismissed the appeal under BCO 42-7, rebuked Pacific Presbytery, and urged greater care in preserving, transcribing, and transmitting testimony. Dismissal therefore did not leave the challenged judgment enforceable. A separate concurrence suggested recording testimony or hiring a court reporter and questioned imprudent prosecutions.",
+    "summary_review_status": "audited",
+    "summary_source": "reviewer_approval",
+    "matter_type": "appeal",
+    "final_dispositions": [
+      "dismissed"
+    ]
+  },
+  "2014-01": {
+    "summary": "Two ministers complained that Ohio Valley Presbytery erred by judging TE Charles Hickey's difference with Larger Catechism 177—over restricting the Lord's Supper to those able to examine themselves—as more than semantic but neither hostile to the system nor vital to religion. The SJC neither sustained nor denied the complaint. Because the Record did not sufficiently address Hickey's particular expression and rationale, the Commission remanded to Presbytery for further hearing and a fuller record. It reserved the merits, including whether this formulation of paedocommunion is allowable.",
+    "summary_review_status": "audited",
+    "summary_source": "reviewer_approval",
+    "matter_type": "complaint",
+    "final_dispositions": [
+      "partially_sustained"
+    ]
+  },
+  "2015-01": {
+    "summary": "The SJC held that a ruling elder’s complaint was administratively out of order and could not be put in order because the original complaint was filed 78 days after the challenged Session action—18 days beyond BCO 43-2’s 60-day window. A second complaint was merely an extension of the untimely first. Even though Session and Presbytery recognized the untimeliness but addressed it anyway, the SJC voided all lower-court actions on the complaints. A cited 2001 case was similar.",
+    "summary_review_status": "audited",
+    "summary_source": "reviewer_approval",
+    "matter_type": "complaint",
+    "final_dispositions": [
+      "no_final_disposition"
+    ]
+  },
+  "2015-02": {
+    "summary": "An unsigned complaint challenging a January 21 presbytery action was sent to the PCA Clerk by someone without standing. The SJC held the complaint administratively out of order under OMSJC 9.1.a and dismissed it: the minister with standing failed to notify the Clerk within BCO 43-3’s 30-day window, and his later e-mail was not an unqualified ratification. Because the complaint could not be put in order, the SJC reached no merits. The decision illustrates strict filing and ratification requirements.",
+    "summary_review_status": "audited",
+    "summary_source": "reviewer_approval",
+    "matter_type": "complaint",
+    "final_dispositions": [
+      "no_final_disposition"
+    ]
+  },
+  "2015-03": {
+    "summary": "In Complaint 2015-03, Steve Flesher and Randy Weekly challenged Metro Atlanta Presbytery, but the SJC did not reach the merits. Because the issues raised had already been adjudicated in Appeal 2015-08, the SJC declared Complaint 2015-03 moot and approved that disposition. The short decision thus records a mootness ruling based on prior appellate adjudication; the underlying presbytery action and the Appeal 2015-08 decision are not described in the supplied text.",
+    "summary_review_status": "audited",
+    "summary_source": "reviewer_approval",
+    "matter_type": "complaint",
+    "final_dispositions": [
+      "dismissed",
+      "moot"
+    ]
+  },
+  "2015-07": {
+    "summary": "The SJC dismissed John B. Thompson's complaint against South Florida Presbytery as administratively out of order and prematurely filed. Because BCO 43-2 did not require the presbytery to consider the complaint until its next stated meeting, and that meeting had not yet occurred, the SJC held the case could not be put in order under the BCO or OMSJC. The unanimous officers' recommendation also called Thompson's BCO 40-5 application premature. No merits were reached.",
+    "summary_review_status": "audited",
+    "summary_source": "reviewer_approval",
+    "matter_type": "complaint",
+    "final_dispositions": [
+      "no_final_disposition"
+    ]
+  },
+  "2015-08": {
+    "summary": "TE John Hardie appealed his Metro Atlanta Presbytery conviction on three charges of breaking ordination vows and indefinite suspension, alleging seventeen procedural and evidentiary errors. Applying BCO 39-2/3 clear-error deference, the SJC denied every specification and upheld the judgment and censure. It found no clear error in the BCO 31-2 investigation, indictment/prosecutor process, commission membership, evidence rulings, scheduling, alleged prejudice, or censure. It assessed transcription costs equally while encouraging MAP to absorb them, and cautioned that an absent commissioner's vote might support a future challenge.",
+    "summary_review_status": "audited",
+    "summary_source": "reviewer_approval",
+    "matter_type": "appeal",
+    "final_dispositions": [
+      "denied"
+    ]
+  },
+  "2015-09": {
+    "summary": "A claimant sought BCO 40-5 review of Presbytery’s handling of his earlier judicial case, alleging grossly unconstitutional proceedings and delinquency in failing to investigate his 2012 deposition. The SJC found the application administratively out of order and incapable of being put in order because BCO 40-3 excludes judicial-case proceedings from review and control when notice of appeal or complaint has been given, and he had withdrawn his 2012 complaint acknowledging it could not be resubmitted. It dismissed under OMSJC 9.2(d). The concurrence added that BCO 40 cannot refile a withdrawn complaint or reverse a censure.",
+    "summary_review_status": "audited",
+    "summary_source": "reviewer_approval",
+    "matter_type": "bco_40_5_matter",
+    "final_dispositions": [
+      "dismissed",
+      "no_final_disposition"
+    ]
+  },
+  "2015-12": {
+    "summary": "After Metro Atlanta Presbytery dissolved Grace North Atlanta, a complaint challenging that action was declared administratively out of order for lacking a signature. Wills then complained to the SJC. The SJC held the SJC complaint was not properly before it and was administratively out of order: under BCO 43-2, a complaint must first go to the court whose act is challenged, and Presbytery had not yet addressed that ruling. Wills could file with Presbytery within 30 days. No merits ruling on the dissolution.",
+    "summary_review_status": "audited",
+    "summary_source": "reviewer_approval",
+    "matter_type": "complaint",
+    "final_dispositions": [
+      "dismissed"
+    ]
+  },
+  "2015-13": {
+    "summary": "Heartland Presbytery granted a transferring OPC teaching elder an exception to WCF 19, judging his stated differences 'more than semantic but not out of accord with any fundamental.' The SJC sustained a complaint not against the merits of that judgment but against the sufficiency of the record supporting it. It held Presbytery clearly erred by failing to develop a sufficient record: the presbyters as a whole did not receive OPCUS's adverse actions, its teaching restriction, or the elder's longer paper. Remanded for those materials and release documentation to be included in the minutes. A concurrence addressed deference; four dissenters found no clear error.",
+    "summary_review_status": "audited",
+    "summary_source": "reviewer_approval",
+    "matter_type": "complaint",
+    "final_dispositions": [
+      "sustained",
+      "remanded"
+    ]
+  },
+  "2016-02": {
+    "summary": "The SJC found TE Arnold Robertstad's complaint against North Texas Presbytery administratively out of order and incapable of being put in order under BCO 43-3. Robertstad initially filed by e-mail—not an allowed filing—and his hard-copy filing arrived after the thirty-day deadline. The SJC reasoned that BCO 42-4/43-3 notification language concerns a lower court notifying parties, not party e-filing, and OMSJC 18.10.b bars e-mail filing. The merits were not reached; a concurrence urged later clarification by amendment, and no further proceedings are indicated.",
+    "summary_review_status": "audited",
+    "summary_source": "reviewer_approval",
+    "matter_type": "complaint",
+    "final_dispositions": [
+      "no_final_disposition"
+    ]
+  },
+  "2016-07": {
+    "summary": "Avery and Lewelling complained that Nashville Presbytery wrongly denied their complaint against Shepherding Committee actions: initiating an investigation of TE Jim Bachmann and forwarding the report to the Committee on Judicial Business. The SJC dismissed. The November 10, 2015 challenge was untimely under BCO 43-2's 60-day filing rule; the February 9, 2016 challenge was not a proper complaint because it targeted committee activities, not a court's act or decision. All specifications were judicially out of order and could not be put in order.",
+    "summary_review_status": "audited",
+    "summary_source": "reviewer_approval",
+    "matter_type": "complaint",
+    "final_dispositions": [
+      "judicially_out_of_order",
+      "dismissed"
+    ]
+  },
+  "2016-08": {
+    "summary": "A complainant challenged Nashville Presbytery's handling of allegations against a teaching elder. The SJC held the matter judicially out of order and dismissed it, finding the original filing with the church session was not a BCO 43-1 complaint because the session lacked jurisdiction over the teaching elder. Presbytery properly treated the allegations as BCO 31-2/34-1 reports, and the complainant, not a Nashville member, lacked standing to complain about that new action. A nine-member dissent argued the filing of charges conferred standing under prior SJC cases.",
+    "summary_review_status": "audited",
+    "summary_source": "reviewer_approval",
+    "matter_type": "complaint",
+    "final_dispositions": [
+      "judicially_out_of_order",
+      "dismissed"
+    ]
+  },
+  "2016-12": {
+    "summary": "Complainants sought review of Nashville Presbytery's August 9, 2016 actions but filed directly with the SJC instead of first with Presbytery. The SJC held the complaint judicially out of order and unable to be put in order: the initial filing was not a complaint against an act or decision (BCO 43-1) but suggested charges or an investigation request (BCO 31-2); BCO 43-2 required prior filing with Presbytery, and the sixty-day period had run. The complaint was dismissed without a merits ruling.",
+    "summary_review_status": "audited",
+    "summary_source": "reviewer_approval",
+    "matter_type": "complaint",
+    "final_dispositions": [
+      "judicially_out_of_order",
+      "dismissed"
+    ]
+  },
+  "2016-15": {
+    "summary": "TE James Bachmann appealed Nashville Presbytery's decision to replace his judicial commission's recommended admonition with indefinite suspension. The SJC sustained the appeal: Presbytery violated BCO 15-3 by dividing the verdict and amending the censure, which it had to approve or disapprove as a whole without debate. Bachmann's earlier procedural challenges were not sustained; his unconditional post-trial confession waived them. The SJC rendered the commission's judgment and admonition as its own decision, remanded to Presbytery, and restored Bachmann to good standing, subject to possible pastoral oversight items 2–4.",
+    "summary_review_status": "audited",
+    "summary_source": "reviewer_approval",
+    "matter_type": "appeal",
+    "final_dispositions": [
+      "sustained"
+    ]
+  },
+  "2016-16": {
+    "summary": "Did a presbytery fail in its duty to condemn erroneous opinions by acquitting a minister on theological-error charges? The SJC denied the complaint, leaving the acquittal undisturbed. A complaint against a not-guilty verdict cannot provoke a retrial at the superior court; under BCO 43 the superior court may only annul or remand, not reverse, and the complainant bore the burden to show error from the record. The record contained the defendant's testimony, including recantations or clarifications, Defense Exhibit 1, and witness testimony sufficient to refrain from contradicting the trial court. The SJC expressly did not decide the defendant's actual views. A separate concurrence elaborated deference standards but did not change the judgment.",
+    "summary_review_status": "audited",
+    "summary_source": "reviewer_approval",
+    "matter_type": "complaint",
+    "final_dispositions": [
+      "denied"
+    ]
+  },
+  "2016-17": {
+    "summary": "Did Heritage Presbytery err by cautioning a session and requesting that it postpone a candidate's election or ordination while a complaint about his qualifications was pending? The SJC said no and denied the complaint. The motion was advice, not an act for or requirement imposed on the session; the session could disregard it, and BCO 43-2 does not bar presbyters from discussing matters related to a complaint not yet before them. The SJC left undecided whether such discussions would disqualify presbyters, since the Ullrey complaint never reached presbytery.",
+    "summary_review_status": "audited",
+    "summary_source": "reviewer_approval",
+    "matter_type": "complaint",
+    "final_dispositions": [
+      "denied"
+    ]
+  },
+  "2017-01": {
+    "summary": "Heritage Presbytery treated a member's September 2016 filing against her session as a BCO 43-3 complaint and began adjudicating it. The SJC sustained RE Scott Dailey's complaint against that action. BCO 43-3 allows higher-court review only if the lower court denies a complaint or fails to consider it by its next stated meeting. The session timely ruled the filing did not meet BCO 43-1 and did consider it, so neither condition applied. Presbytery's post-November 12, 2016 adjudicative actions were annulled; possible underlying disciplinary matters were left to BCO 31-2 and 40-5.",
+    "summary_review_status": "audited",
+    "summary_source": "reviewer_approval",
+    "matter_type": "complaint",
+    "final_dispositions": [
+      "sustained",
+      "annulled"
+    ]
+  },
+  "2017-02": {
+    "summary": "The SJC denied a complaint challenging Heritage Presbytery’s November 12, 2016 action charging a teaching elder with violating ordination vows 6 and 7 and appointing a prosecutor to investigate and, if necessary, indict. The complaint alleged the investigating committee lacked authority for judicial process, no written report existed, and the procedure and wording violated BCO 31-2. The Commission held a committee recommendation is not judicial action, no special instruction was required, the BCO 31-2 steps were followed, and the wording did not violate the accused’s rights.",
+    "summary_review_status": "audited",
+    "summary_source": "reviewer_approval",
+    "matter_type": "complaint",
+    "final_dispositions": [
+      "denied"
+    ]
+  },
+  "2017-08": {
+    "summary": "The SJC ruled out of order a BCO 40-5 report submitted by RE John B. Thompson, disposing of it without a separate merits opinion. The available record states no reason for the ruling and identifies no relief or further proceeding; it establishes only the out-of-order disposition, not the underlying dispute or any governing principle.",
+    "summary_review_status": "audited",
+    "summary_source": "reviewer_approval",
+    "matter_type": "bco_40_5_matter",
+    "final_dispositions": [
+      "out_of_order"
+    ]
+  },
+  "2018-04": {
+    "summary": "A complaint sought a congregational meeting to vote on leaving the PCA after the temporary session denied the request in November 2017. The SJC dismissed the complaint as moot and not judicially in order. Both parties agreed at the panel hearing that the presbytery had voted in October 2018 to dismiss the congregation pending consent under BCO 13-9(f), and consent was given at a December 2018 called meeting. No merits ruling was made. Three commissioners dissented; one was disqualified.",
+    "summary_review_status": "audited",
+    "summary_source": "reviewer_approval",
+    "matter_type": "complaint",
+    "final_dispositions": [
+      "dismissed"
+    ]
+  },
+  "2018-05": {
+    "summary": "The SJC held that TE David McKay's complaint against Central Indiana Presbytery was administratively out of order. The decisive defect was procedural: the e-mail transmitted to the lower court clerk did not satisfy BCO 43-3 because the complainant's correspondence was insufficient to constitute proper notice. The SJC therefore reached no merits issue. All 24 participating commissioners concurred, with no dissent. The ruling enforces BCO 43-3's notice requirement before a complaint can proceed.",
+    "summary_review_status": "audited",
+    "summary_source": "reviewer_approval",
+    "matter_type": "complaint",
+    "final_dispositions": [
+      "no_final_disposition"
+    ]
+  },
+  "2018-06": {
+    "summary": "The SJC held that Jared Edwards's complaint against North Texas Presbytery was administratively out of order and could not be put in order, because the case had never been filed with the presbytery or adjudicated below (BCO 42-4 & 43-2). No merits were reached. The ruling drew 23 concurrences and no dissent; TE Fowler was disqualified as a member of the presbytery party (OMSJC 2.10(d)(3)(iii)). The decision illustrates the SJC's threshold filing requirement: a complaint that bypassed the lower court cannot proceed.",
+    "summary_review_status": "audited",
+    "summary_source": "reviewer_approval",
+    "matter_type": "complaint",
+    "final_dispositions": [
+      "no_final_disposition"
+    ]
+  },
+  "2019-02": {
+    "summary": "The SJC sustained a complaint against Philadelphia Presbytery for failing to judge and record TE Larry Smith’s stated difference over the continuation of prophecy and tongues beyond the apostolic era. The record showed Presbytery approved Smith’s transfer exam and defeated a motion to find his view out of accord, but it did not categorize that view in Smith’s own words. The SJC remanded for a written statement and Presbytery’s categorical judgment, without undoing Smith’s transfer or deciding whether his view was erroneous.",
+    "summary_review_status": "audited",
+    "summary_source": "reviewer_approval",
+    "matter_type": "complaint",
+    "final_dispositions": [
+      "sustained",
+      "remanded"
+    ]
+  },
+  "2019-07": {
+    "summary": "At issue was whether North Texas Presbytery wrongly denied a complaint challenging Fort Worth Presbyterian Church’s “Special Case Felons” integration policy as contrary to Scripture. The SJC denied the complaint, holding that the complainant did not show the Session violated Scripture or the Constitution and that BCO 39-3.3 required deference absent clear error, leaving the lower-court actions in effect. The decision, adopted 20-1, expressly did not endorse the Respondents’ Preliminary Principles arguments; a concurrence disclaimed approval of the policy, and one member dissented.",
+    "summary_review_status": "audited",
+    "summary_source": "reviewer_approval",
+    "matter_type": "complaint",
+    "final_dispositions": [
+      "denied"
+    ]
+  },
+  "2019-09": {
+    "summary": "On complaint by RE William F. Mueller, the SJC reviewed whether the Redlands Community Church Session erred on January 14, 2019 by allegedly reaffirming its practice of fencing the Lord's Table contrary to BCO 58-4. The SJC denied the complaint: the only relevant motion failed for lack of a second, so the Session took no action and did not reaffirm anything. It noted the case could have been ruled out of order earlier and that Mueller could pursue relief under BCO 40-5; a concurrence stressed BCO 58-4 remains binding and criticized Presbytery's handling.",
+    "summary_review_status": "audited",
+    "summary_source": "reviewer_approval",
+    "matter_type": "complaint",
+    "final_dispositions": [
+      "denied"
+    ]
+  },
+  "2019-14": {
+    "summary": "The SJC found the complaint administratively out of order and dismissed it. The complainants had not documented that they first presented the complaint to Korean Southwest Orange County Presbytery under BCO 43-2, and the SJC held that the Presbytery—not the SJC—was the proper court for the charges and specifications in the March 2, 2020 letter. The dismissal was recorded 19-0-0; no merits were reached.",
+    "summary_review_status": "audited",
+    "summary_source": "reviewer_approval",
+    "matter_type": "complaint",
+    "final_dispositions": [
+      "administratively_out_of_order",
+      "dismissed"
+    ]
+  },
+  "2020-08": {
+    "summary": "The SJC sustained the complaint of TEs Gendall, Hightower, and Lien against Pacific Presbytery's handling of a BCO 38-1 confession by TE Rankin Wilbourne. Presbytery had denied the complaint. The SJC held that reading a prejudicial six-page judicial-commission report before the agreed statement of facts violated BCO 38-1 and tainted the censure. It answered the 2020-08 complaint by reference to its decision in Case 2020-07, which annulled Wilbourne's deposition and recommended treating his 17-month suspension as sufficient definite suspension.",
+    "summary_review_status": "audited",
+    "summary_source": "reviewer_approval",
+    "matter_type": "complaint",
+    "final_dispositions": [
+      "sustained"
+    ]
+  },
+  "2020-10": {
+    "summary": "A complaint was filed with the SJC before Savannah River Presbytery completed its hearing on it. The SJC held the complaint administratively out of order as prematurely filed and did not reach the merits. It reset the complainant's time to elevate the complaint so that timing begins on the later of notification of the SJC action or Presbytery's ruling. The SJC adopted the decision by roll call.",
+    "summary_review_status": "audited",
+    "summary_source": "reviewer_approval",
+    "matter_type": "complaint",
+    "final_dispositions": [
+      "no_final_disposition"
+    ]
+  },
+  "2020-13": {
+    "summary": "The SJC dismissed Peter Benyola's complaint against Central Florida Presbytery as administratively out of order because he lacked standing to complain of the Presbytery's action. Benyola was neither a teaching elder member of that Presbytery nor a ruling elder commissioner representing a member church at the September 18, 2020 meeting when the Presbytery considered and denied the complaint. Citing prior SJC standing decisions, the Commission held the defect could not be cured and dismissed unanimously, 22-0-0, without reaching the merits.",
+    "summary_review_status": "audited",
+    "summary_source": "reviewer_approval",
+    "matter_type": "complaint",
+    "final_dispositions": [
+      "administratively_out_of_order",
+      "dismissed"
+    ]
+  },
+  "2021-01": {
+    "summary": "The SJC held that Stuart Michelson's complaint against Northwest Georgia Presbytery was administratively out of order because he filed it with the SJC before Presbytery had completed its hearing on the complaint. The SJC did not reach the merits. It reset Michelson's time to elevate the complaint to run from the later of notification of the SJC's action or Presbytery's ruling on the complaint. Approved 22-0-0.",
+    "summary_review_status": "audited",
+    "summary_source": "reviewer_approval",
+    "matter_type": "complaint",
+    "final_dispositions": [
+      "no_final_disposition"
+    ]
+  },
+  "2021-05": {
+    "summary": "The SJC held an October 2021 complaint against Southwest Florida Presbytery administratively out of order because the complainants had affiliated with another branch of the visible church on February 9, 2020, ending PCA jurisdiction over them under BCO 38-3. They therefore lacked standing. The ruling reached no merits and supplies no description of the underlying presbytery action; the vote was 22-0-0, with Lucas and White absent.",
+    "summary_review_status": "audited",
+    "summary_source": "reviewer_approval",
+    "matter_type": "complaint",
+    "final_dispositions": [
+      "no_final_disposition"
+    ]
+  },
+  "2021-12": {
+    "summary": "The Michelsons’ complaint challenged a congregational meeting’s procedure for electing three assistant pastors as associate pastors—allegedly without a pulpit committee, ballots, counted abstentions, or protection for a substantial minority. The SJC dismissed it as not judicially in order: BCO 43-1 requires complaint against an act or decision of a court, but the complaint attacked congregational actions, while the Session’s only act was calling the meeting and was not objected to. The SJC noted other possible redress; the dissent found the Session’s call and recommendation justiciable.",
+    "summary_review_status": "audited",
+    "summary_source": "reviewer_approval",
+    "matter_type": "complaint",
+    "final_dispositions": [
+      "judicially_out_of_order",
+      "dismissed"
+    ]
+  },
+  "2022-01": {
+    "summary": "The SJC dismissed Eric Eagle and others' complaint against Savannah River Presbytery as administratively out of order and untimely under BCO 43-3. The complaint was first filed prematurely in December 2020; after the SJC reset the filing clock to the later of its October 21, 2021 action or Presbytery's October 20, 2020 ruling, it was filed more than 30 days later. The merits were not reached. An attached SJC response to CCB separately defended its record-reopening in Case 2020-12 and asked CCB to deny an exception request as untimely, waived, and procedural.",
+    "summary_review_status": "audited",
+    "summary_source": "reviewer_approval",
+    "matter_type": "complaint",
+    "final_dispositions": [
+      "administratively_out_of_order",
+      "dismissed"
+    ]
+  },
+  "2022-03": {
+    "summary": "Philadelphia Presbytery declared that TE Larry Smith's views on continuing prophecy and tongues were not out of accord or hostile to the system of doctrine. Klett et al. complained. The SJC sustained the complaint: Smith's written views affirmed continuing non-general revelation and treated prophecy and tongues as public-worship elements, contrary to WCF 1 and 21, so Presbytery erred under BCO 21-4.f. The SJC annulled Presbytery's May 15, 2021 action. No further action was possible because Smith and his congregation had left the PCA; the matter was concluded, with precedent limited to the written views reviewed.",
+    "summary_review_status": "audited",
+    "summary_source": "reviewer_approval",
+    "matter_type": "complaint",
+    "final_dispositions": [
+      "sustained"
+    ]
+  },
+  "2022-04": {
+    "summary": "The SJC sustained TE Craig Sheppard's complaint against Highlands Presbytery. It held that Presbytery erred when its Judicial Commission found a strong presumption of guilt but, instead of instituting process under BCO 31-2, directed pastoral reconciliation and conditioned later process on its success; that motion also impaired the accused's right against self-incrimination. It further held that BCO 32-20's one-year time bar had run and that the 2022 amendment did not apply retroactively, so Presbytery is debarred from prosecuting the allegations. Four commissioners dissented, disputing the BCO 32-20 ruling.",
+    "summary_review_status": "audited",
+    "summary_source": "reviewer_approval",
+    "matter_type": "complaint",
+    "final_dispositions": [
+      "sustained"
+    ]
+  },
+  "2022-07": {
+    "summary": "The SJC sustained an appeal by seven members of a 38-member mission church who were convicted by their temporary Session of opposing the organizing minister's expected election as pastor. Reversing the Presbytery's affirmance and the guilty verdicts underlying indefinite suspensions, the SJC held the indictments fatally lacked BCO 32-5 specificity; Presbytery used the wrong standard of review; the Session had no authority to control pastoral selection; and no Fifth or Ninth Commandment offense was proved. Challenges to witness-judges, venue, and refusal to refer were rejected.",
+    "summary_review_status": "audited",
+    "summary_source": "reviewer_approval",
+    "matter_type": "appeal",
+    "final_dispositions": [
+      "sustained",
+      "reversed"
+    ]
+  },
+  "2022-08": {
+    "summary": "The SJC held that RE David Snoke's complaint against Pittsburgh Presbytery's January 29, 2022 action was administratively out of order and could not be put in order because Snoke, not a commissioner from his church to that meeting, lacked standing to complain. Although Presbytery later voted 20-16-3 to find the complaint in order, the SJC said it should have been ruled out of order. The SJC did not reach the merits. Its vote was 20-1, with three absent.",
+    "summary_review_status": "audited",
+    "summary_source": "reviewer_approval",
+    "matter_type": "complaint",
+    "final_dispositions": [
+      "no_final_disposition"
+    ]
+  },
+  "2022-09": {
+    "summary": "The SJC declared Benyola's complaint against Central Florida Presbytery administratively out of order and incapable of being put in order, because Benyola was no longer a member of any PCA congregation and thus lacked standing. The decision was adopted 23-0 on a roll call, one absent, on the officers' recommendation. The record does not identify the underlying presbytery action or reach the complaint's merits, so the case's value is its threshold standing ruling, not any complaint determination.",
+    "summary_review_status": "audited",
+    "summary_source": "reviewer_approval",
+    "matter_type": "complaint",
+    "final_dispositions": [
+      "no_final_disposition"
+    ]
+  },
+  "2022-13": {
+    "summary": "Wade Miller challenged his Session’s May 19, 2021 letter standing by its decision to permit a non-church yoga class to meet on church property. The SJC held the complaint administratively out of order and incapable of being put in order: that letter triggered BCO 43-1’s 60-day deadline, but Miller filed with the Session on November 20, 2021, and no new Session action occurred within the preceding 60 days. Citing a one-day-late precedent, the SJC reached no merits.",
+    "summary_review_status": "audited",
+    "summary_source": "reviewer_approval",
+    "matter_type": "complaint",
+    "final_dispositions": [
+      "dismissed"
+    ]
+  },
+  "2022-15": {
+    "summary": "A complaint against South Florida Presbytery was held administratively out of order because its sole complainant died on November 15, 2022, and no other person joined the original complaint. The SJC adopted that disposition by a 23–0 roll-call vote. The sparse record states no underlying complaint issue, merits analysis, or further proceedings; the ruling turns on the absence of a surviving or joined complainant.",
+    "summary_review_status": "audited",
+    "summary_source": "reviewer_approval",
+    "matter_type": "complaint",
+    "final_dispositions": [
+      "no_final_disposition"
+    ]
+  },
+  "2022-16": {
+    "summary": "The SJC declined to reach a complaint arising from judicial process against three ruling elders (not the complainants), because the Session dismissed all charges and ended that process on July 23, 2022, and the elders resigned and their calls were dissolved. The SJC found the complaint out of order and moot, with no merits ruling, and approved the decision 23-0. The case illustrates that termination of the underlying judicial process and voluntary resignations can moot a complaint about that process.",
+    "summary_review_status": "audited",
+    "summary_source": "reviewer_approval",
+    "matter_type": "complaint",
+    "final_dispositions": [
+      "out_of_order",
+      "dismissed",
+      "moot"
+    ]
+  },
+  "2022-23": {
+    "summary": "South Florida Presbytery deposed a Teaching Elder, suspended him from the sacraments, and later excommunicated him without first assigning him to a particular church under BCO 46-8. The complainant argued that omission stripped Presbytery of jurisdiction. The SJC denied the complaint: BCO 46-8 requires assignment but fixes no timeframe or mechanism; a deposed minister remains under Presbytery's jurisdiction until transfer, and BCO 37-9(a) preserves censure authority. Deferring under BCO 39-3, the SJC found no clear error in Presbytery's efforts. Two concurrences agreed in result but disputed the majority's broad reasoning and deference.",
+    "summary_review_status": "audited",
+    "summary_source": "reviewer_approval",
+    "matter_type": "complaint",
+    "final_dispositions": [
+      "denied"
+    ]
+  },
+  "2023-01": {
+    "summary": "Kristin Hann's complaint against Pee Dee Presbytery was dismissed because the SJC held she lacked standing: she was not subject to Pee Dee Presbytery's jurisdiction, so the complaint was judicially out of order and could not be put in order. The SJC made no merits ruling and stated that the ruling did not stay Presbytery's continuing investigation or review of resulting actions. The adopted ruling was approved 17-2; Maynard and Sartorius dissented without stated reasons, four were absent, and Ross recused.",
+    "summary_review_status": "audited",
+    "summary_source": "reviewer_approval",
+    "matter_type": "complaint",
+    "final_dispositions": [
+      "dismissed"
+    ]
+  },
+  "2023-02": {
+    "summary": "The SJC dismissed Mrs. Kappie Reynolds's complaint against Pee Dee Presbytery as judicially out of order. The complaint challenged a Session's reception of and action on a confession at a meeting more than six months before filing, far outside BCO 43-2's sixty-day period; the SJC held the untimeliness was not demonstrated curable. The ruling expressly reserved whether Reynolds could proceed as an injured party under BCO 31-5 and whether the Session had jurisdiction over claims outside the received confession.",
+    "summary_review_status": "audited",
+    "summary_source": "reviewer_approval",
+    "matter_type": "complaint",
+    "final_dispositions": [
+      "dismissed"
+    ]
+  },
+  "2023-05": {
+    "summary": "Former church employee Emily Hyland complained to the SJC after Chicago Metro Presbytery ruled her BCO 43 complaint out of order because, as a local-church member, she was not subject to Presbytery's jurisdiction. The SJC was equally divided 12–12–0 on the proposed panel decision, so CMP's ruling stands. That proposed decision would have answered that CMP did not err: Hyland lacked standing to file a BCO 43-1 complaint with Presbytery. No amendments were made. An evenly divided SJC thus leaves the lower ruling in place without a majority rationale.",
+    "summary_review_status": "audited",
+    "summary_source": "reviewer_approval",
+    "matter_type": "complaint",
+    "final_dispositions": [
+      "denied"
+    ]
   }
 }

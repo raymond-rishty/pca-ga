@@ -6,11 +6,11 @@
 
 | Year | Type | Title | Disposition |
 |------|------|-------|-------------|
-| 1992 | Judicial case | [Robert D. Hopper v. James River Presbytery](../cases/ga20_1992__1991-04.md) | denied |
+| 1992 | Judicial case | [Robert D. Hopper v. James River Presbytery](../cases/ga20_1992__1991-04.md) |  |
 | 1998 | Judicial case | [James Landrum v. Mississippi Valley Presbytery 26-67, p. 222](../cases/ga25_1997__1995-11.md) | sustained |
-| 2023 | Judicial case | [Herron & Baysinger v. Central Indiana Presbytery](../cases/ga50_2023__2022-02.md) | referred |
+| 2023 | Judicial case | [Herron & Baysinger v. Central Indiana Presbytery](../cases/ga50_2023__2022-02.md) | other |
 | 2023 | Judicial case | [Klett et al. v. Philadelphia Presbytery](../cases/ga50_2023__2022-03.md) | sustained |
-| 2024 | Judicial case | [Senters v. Savannah River Presbytery](../cases/ga51_2024__2022-21.md) | partially_sustained |
+| 2024 | Judicial case | [Senters v. Savannah River Presbytery](../cases/ga51_2024__2022-21.md) | not_sustained |
 
 ## Low-but-important
 

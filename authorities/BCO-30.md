@@ -6,8 +6,6 @@
 
 | Year | Type | Title | Disposition |
 |------|------|-------|-------------|
-| 1991 | Judicial case | [Charles E. Chappell v. Eastern Carolina Presbytery](../cases/ga19_1991__1990-04.md) | sustained |
-| 1991 | Judicial case | [Wallace W. Marshall, Jr. v. Eastern Carolina Presbytery](../cases/ga19_1991__1990-04a.md) | sustained |
 | 2025 | Judicial case | [Bigelow v. North Florida Presbytery](../cases/ga52_2025__2024-05.md) | granted |
 | 2025 | Judicial case | [Flatgard v. Metro Atlanta Presbytery](../cases/ga52_2025__2023-12.md) | sustained |
 

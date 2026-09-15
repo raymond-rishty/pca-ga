@@ -6,7 +6,7 @@
 
 | Year | Type | Title | Disposition |
 |------|------|-------|-------------|
-| 2012 | Judicial case | [Sherfey v. James River Presbytery](../cases/ga40_2012__2011-08.md) | out_of_order |
+| 2012 | Judicial case | [Sherfey v. James River Presbytery](../cases/ga40_2012__2011-08.md) | dismissed |
 | 2013 | Judicial case | [Keating v. Warrior Presbytery](../cases/ga41_2013__2012-02.md) | sustained |
 
 ## Low-but-important
