@@ -202,7 +202,11 @@ def canonical_disposition(row):
 
 def canonical_summary(row, fallback=""):
     summary = (row or {}).get("summary")
-    return md_summary(summary) if summary else case_summary("", "", fallback)
+    # Audited editorial synopses are already written to the intended 60–90-word
+    # scale and may carry a material remedy or qualification near the end.  Keep
+    # those complete; retain the compact excerpt limit for unreviewed fallback
+    # text extracted from the legacy case data.
+    return md_escape(summary) if summary else case_summary("", "", fallback)
 
 
 def ordinal(n):

@@ -12,6 +12,11 @@ INDEX_SPEC = importlib.util.spec_from_file_location(
 )
 INDEX_MODULE = importlib.util.module_from_spec(INDEX_SPEC)
 INDEX_SPEC.loader.exec_module(INDEX_MODULE)
+MARKDOWN_INDEX_SPEC = importlib.util.spec_from_file_location(
+    "markdown_index", ROOT / "scripts" / "20_markdown_index.py"
+)
+MARKDOWN_INDEX_MODULE = importlib.util.module_from_spec(MARKDOWN_INDEX_SPEC)
+MARKDOWN_INDEX_SPEC.loader.exec_module(MARKDOWN_INDEX_MODULE)
 
 
 def test_canonical_and_legacy_ids_preserve_aliases():
@@ -344,3 +349,12 @@ def test_assembly_index_uses_canonical_answers_with_friendly_labels():
     assert "| [1999-07](../cases/ga29_2001__1999-07.md) | Jeffrey M. Black v. Eastern Carolina Presbytery  ·  *dissent* | Not sustained |" in index
     assert "factual_findings" not in index
     assert "administratively_out_of_order" not in index
+
+
+def test_assembly_index_preserves_full_canonical_summary_but_limits_fallback():
+    canonical = "A" * 400
+    fallback = "Fallback summary text " * 30
+    assert MARKDOWN_INDEX_MODULE.canonical_summary({"summary": canonical}) == canonical
+    compact = MARKDOWN_INDEX_MODULE.canonical_summary({}, fallback)
+    assert compact.endswith("…")
+    assert len(compact) <= 321
