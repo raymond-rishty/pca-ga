@@ -1,4 +1,100 @@
 {
+  "1983-12": {
+    "vol": "ga11_1983",
+    "file": "ga11_1983__case7",
+    "numbers": ["1983-12"],
+    "title": "TE Jack Eubanks and TE Charles Wilson v. Central Carolina Presbytery"
+  },
+  "1983-14": {
+    "vol": "ga11_1983",
+    "file": "ga11_1983__case14",
+    "numbers": ["1983-14"],
+    "title": "RE Truman B. Swain, Jr., et al. v. Eastern Carolina Presbytery"
+  },
+  "1986-07": {
+    "vol": "ga14_1986",
+    "file": "ga14_1986__case7_shell",
+    "numbers": ["1986-07"],
+    "title": "TE William A. Shell v. Great Lakes Presbytery"
+  },
+  "1986-08": {
+    "vol": "ga14_1986",
+    "file": "ga14_1986__case7",
+    "numbers": ["1986-08"],
+    "title": "TE Eric Dye et al. v. Missouri Presbytery"
+  },
+  "1988-01": {
+    "vol": "ga17_1989",
+    "file": "ga17_1989__case1",
+    "numbers": ["1988-01"],
+    "title": "McCready et al. v. Philadelphia Presbytery"
+  },
+  "1988-04": {
+    "vol": "ga17_1989",
+    "file": "ga17_1989__case2",
+    "numbers": ["1988-04"],
+    "title": "TE Erwin Morrison v. Philadelphia Presbytery"
+  },
+  "1988-06": {
+    "vol": "ga17_1989",
+    "file": "ga17_1989__case3",
+    "numbers": ["1988-06"],
+    "title": "TE John T. DeBardeleben v. Philadelphia Presbytery"
+  },
+  "2001-05": {
+    "vol": "ga30_2002",
+    "file": "ga29_2001__stub_2001-05",
+    "numbers": ["2001-05"],
+    "title": "RE Moon K. Ham et al. v. Korean Capital Presbytery"
+  },
+  "2009-17": {
+    "vol": "ga38_2010",
+    "file": "ga38_2010__stub_2009-17",
+    "numbers": ["2009-17"],
+    "title": "Michael McNeil v. Chesapeake Presbytery"
+  },
+  "2010-14": {
+    "vol": "ga39_2011",
+    "file": "ga39_2011__stub_2010-14",
+    "numbers": ["2010-14"],
+    "title": "Michael A. McNeil v. Chesapeake Presbytery"
+  },
+  "2018-02": {
+    "vol": "ga47_2019",
+    "file": "ga47_2019__2018-02",
+    "numbers": ["2018-02"],
+    "title": "Anna Lewis v. Presbytery of the Mississippi Valley"
+  },
+  "1988-09": {
+    "vol": "ga17_1989",
+    "file": "ga17_1989__case4",
+    "numbers": ["1988-09"],
+    "title": "Morrison v. Philadelphia Presbytery"
+  },
+  "1988-11": {
+    "vol": "ga16_1988",
+    "file": "ga16_1988__case11",
+    "numbers": ["1988-11"],
+    "title": "Korean Church of Washington Matter"
+  },
+  "1990-01": {
+    "vol": "ga18_1990",
+    "file": "ga18_1990__case1",
+    "numbers": ["1990-01"],
+    "title": "First Presbyterian Church of Rowlett, Texas v. North Texas Presbytery"
+  },
+  "1990-02": {
+    "vol": "ga18_1990",
+    "file": "ga18_1990__case2",
+    "numbers": ["1990-02"],
+    "title": "First Presbyterian Church of Rowlett, Texas v. North Texas Presbytery (Jones appeal)"
+  },
+  "1999-07": {
+    "vol": "ga29_2001",
+    "file": "ga29_2001__1999-07",
+    "numbers": ["1999-07"],
+    "title": "Jeffrey M. Black v. Eastern Carolina Presbytery"
+  },
   "1998-09": {
     "vol": "ga28_2000",
     "file": "ga28_2000__1998-09",
@@ -28,5 +124,143 @@
     "file": "ga49_2022__2020-09",
     "numbers": ["2020-07", "2020-08", "2020-09"],
     "title": "RE SEAN OZBALT AND RE ERIN BARR V. PACIFIC PRESBYTERY"
+  },
+  "1998-03": {
+    "vol": "ga27_1999",
+    "file": "ga27_1999__1998-03",
+    "numbers": ["1998-03"],
+    "title": "Robert Williams v. South Texas Presbytery"
+  },
+  "1998-04": {
+    "vol": "ga27_1999",
+    "file": "ga27_1999__1998-04",
+    "numbers": ["1998-04"],
+    "title": "Jeffrey Yelton v. Westminster Presbytery"
+  },
+  "1985-04": {
+    "vol": "ga13_1985",
+    "file": "ga13_1985__1985-04",
+    "numbers": ["1985-04"],
+    "title": "Appeal of Jack Mayfield v. Siouxlands Presbytery"
+  },
+  "1989-04": {
+    "vol": "ga17_1989",
+    "file": "ga17_1989__case2",
+    "numbers": ["1989-04"],
+    "title": "Morrison v. Philadelphia Presbytery"
+  },
+  "1989-06": {
+    "vol": "ga17_1989",
+    "file": "ga17_1989__case3",
+    "numbers": ["1989-06"],
+    "title": "DeBardeleben v. Philadelphia Presbytery"
+  },
+  "1989-09": {
+    "vol": "ga17_1989",
+    "file": "ga17_1989__case4",
+    "numbers": ["1989-09"],
+    "title": "Morrison v. Philadelphia Presbytery"
+  },
+  "1991-01": {
+    "vol": "ga20_1992",
+    "file": "ga20_1992__1991-01",
+    "numbers": ["1991-01"],
+    "title": "Sandra Lovelace v. Northeast Presbytery"
+  },
+  "2002-06": {
+    "vol": "ga31_2003",
+    "file": "ga31_2003__2002-06",
+    "numbers": ["2002-06"],
+    "title": "Appeal of Randall Wright v. Northern California Presbytery"
+  },
+  "2002-07": {
+    "vol": "ga31_2003",
+    "file": "ga31_2003__2002-07",
+    "numbers": ["2002-07"],
+    "title": "Leland Nichols and Sam Couch v. James River Presbytery"
+  },
+  "2004-01": {
+    "vol": "ga33_2005",
+    "file": "ga33_2005__2004-01_2004-10",
+    "numbers": ["2004-01", "2004-10"],
+    "title": "Westminster Presbyterian Church v. Westminster Presbytery / Stuart Merriam v. Tennessee Valley Presbytery"
+  },
+  "2004-10": {
+    "vol": "ga33_2005",
+    "file": "ga33_2005__2004-01_2004-10",
+    "numbers": ["2004-01", "2004-10"],
+    "title": "Westminster Presbyterian Church v. Westminster Presbytery / Stuart Merriam v. Tennessee Valley Presbytery"
+  },
+  "2007-13": {
+    "vol": "ga37_2009",
+    "file": "ga37_2009__2007-13",
+    "numbers": ["2007-13"],
+    "title": "David Kniseley et al. v. Rocky Mountain Presbytery"
+  },
+  "2008-01": {
+    "vol": "ga37_2009",
+    "file": "ga37_2009__2008-01_2008-10",
+    "numbers": ["2008-01", "2008-10"],
+    "title": "Crossroads Community Church Session and Mark Grasso et al. v. Philadelphia Presbytery"
+  },
+  "2008-10": {
+    "vol": "ga37_2009",
+    "file": "ga37_2009__2008-01_2008-10",
+    "numbers": ["2008-01", "2008-10"],
+    "title": "Crossroads Community Church Session and Mark Grasso et al. v. Philadelphia Presbytery"
+  },
+  "2013-05": {
+    "vol": "ga42_2014",
+    "file": "ga42_2014__2013-05",
+    "numbers": ["2013-05"],
+    "title": "Stephen Hahn request concerning Philadelphia Metro West Presbytery"
+  },
+  "2022-17": {
+    "vol": "ga50_2023",
+    "file": "ga50_2023__2022-17",
+    "numbers": ["2022-17"],
+    "title": "Peter Benyola v. Central Florida Presbytery"
+  },
+  "2023-06": {
+    "vol": "ga51_2024",
+    "file": "ga51_2024__2023-06_2023-08",
+    "numbers": ["2023-06", "2023-08"],
+    "title": "Knox Baird et al. v. Grace Presbytery"
+  },
+  "2023-08": {
+    "vol": "ga51_2024",
+    "file": "ga51_2024__2023-06_2023-08",
+    "numbers": ["2023-06", "2023-08"],
+    "title": "Knox Baird et al. v. Grace Presbytery"
+  },
+  "2023-15": {
+    "vol": "ga51_2024",
+    "file": "ga51_2024__2023-15_2023-17",
+    "numbers": ["2023-15", "2023-17"],
+    "title": "Tom Turner v. South Florida Presbytery"
+  },
+  "2023-17": {
+    "vol": "ga51_2024",
+    "file": "ga51_2024__2023-15_2023-17",
+    "numbers": ["2023-15", "2023-17"],
+    "title": "Tom Turner v. South Florida Presbytery"
+  },
+  "2021-07": {
+    "vol": "ga49_2022",
+    "file": "ga50_2023__stub_2021-07",
+    "numbers": ["2021-07"],
+    "title": "RE J. Lance Acree v. Tennessee Valley Presbytery"
+  },
+  "2025-12": {
+    "vol": "ga52_2025",
+    "file": "ga52_2025__2025-12_2025-13",
+    "numbers": ["2025-12", "2025-13"],
+    "title": "Felipe Assis and Carter Brown v. South Florida Presbytery"
+  },
+  "2025-13": {
+    "vol": "ga52_2025",
+    "file": "ga52_2025__2025-12_2025-13",
+    "numbers": ["2025-12", "2025-13"],
+    "title": "Felipe Assis and Carter Brown v. South Florida Presbytery"
   }
 }

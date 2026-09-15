@@ -13,20 +13,6 @@
   "ga": 39,
   "parties": "Case 2010-15: was withdrawn. The Standing Judicial Commission has completed its work on 2009-12; 2009-21; 2009-22; 2009-23; 2009-24; 2009-25; 2009-26; 2009-28; 2010-03; 2010-04; 2010-16; 2010-18; 2010-19; 2010-20;"
  },
- "2023-06": {
-  "vol": "ga51_2024",
-  "file": "ga51_2024__stub_2023-06",
-  "disposition": "Out of Order",
-  "ga": 51,
-  "parties": "TE Knox Baird et al. (Session members of First Presbyterian Church, Hattiesburg, MS) Grace Presbytery"
- },
- "2023-15": {
-  "vol": "ga51_2024",
-  "file": "ga51_2024__stub_2023-15",
-  "disposition": "Out of Order",
-  "ga": 51,
-  "parties": "Mr. Tom Turner South Florida Presbytery"
- },
  "2025-07": {
   "vol": "ga52_2025",
   "file": "ga52_2025__stub_2025-07",
@@ -79,16 +65,16 @@
  "2010-08": {
   "vol": "ga39_2011",
   "file": "ga39_2011__stub_2010-08",
-  "disposition": "Administratively Out of Order",
+  "disposition": "Judicially Out of Order",
   "ga": 39,
   "parties": "Mr. Michael A. McNeil vs. Chesapeake Presbytery"
  },
  "2005-03": {
   "vol": "ga34_2006",
   "file": "ga34_2006__stub_2005-03",
-  "disposition": "Abandoned",
+  "disposition": "Out of Order",
   "ga": 34,
-  "parties": "Complaint of Session of Living Word PC vs. Pacific NW Presbytery"
+  "parties": "Complaint of Session of Living Word PC v. Pacific Northwest Presbytery"
  },
  "2010-05": {
   "vol": "ga38_2010",
@@ -184,7 +170,7 @@
  "2005-05": {
   "vol": "ga34_2006",
   "file": "ga34_2006__stub_2005-05",
-  "disposition": "Out of Order",
+  "disposition": "In Order; Not Heard",
   "ga": 34,
   "parties": "Witcher Memorial RE: 2004-5 Blevins vs. Westminster Presbytery"
  },
@@ -226,7 +212,7 @@
  "2005-02": {
   "vol": "ga34_2006",
   "file": "ga34_2006__stub_2005-02",
-  "disposition": "Abandoned",
+  "disposition": "Out of Order",
   "ga": 34,
   "parties": "Complaint of RE Hugo Andrino vs. Southern Florida Presbytery"
  },
@@ -450,9 +436,9 @@
  "2005-04": {
   "vol": "ga34_2006",
   "file": "ga34_2006__stub_2005-04",
-  "disposition": "Abandoned",
+  "disposition": "Out of Order",
   "ga": 34,
-  "parties": "Complaint of Session of Hudson Korean American PC vs. Korean"
+  "parties": "Complaint of Session of Hudson Korean American PC v. Korean Eastern Presbytery"
  },
  "2007-03": {
   "vol": "ga36_2008",

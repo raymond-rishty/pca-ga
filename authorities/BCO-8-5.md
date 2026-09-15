@@ -1,0 +1,12 @@
+# BCO 8-5
+
+*All PCA authorities bearing on **BCO 8-5**.*
+
+## High authority
+
+| Year | Type | Title | Disposition |
+|------|------|-------|-------------|
+| 2025 | Judicial case | [Martinez v. Pacific Presbytery](../cases/ga52_2025__2023-20.md) | sustained |
+
+---
+*[← Authority Index](../index/AUTHORITY-BY-PROVISION.md)*

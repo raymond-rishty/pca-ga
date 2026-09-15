@@ -33,7 +33,7 @@ the record.
 
 | Record type | Searchable fields |
 | --- | --- |
-| Judicial case | title, case identifiers, Assembly/year, parties/court, BCO references, topics, editorial synopsis, disposition, catalogue context |
+| Judicial case | canonical/legacy/era/Minutes identifiers, title, Assembly/year, parties/court, proceeding type, review standard, BCO references, topic tags, editorial synopsis, outcome/disposition, catalogue context |
 | Constitutional inquiry | title, CCB inquiry identifier, Assembly/year, BCO references, answer/headnote, disposition, catalogue context |
 | RPR exception | exception identifier, presbytery/title, Assembly/year, BCO references, topic text, status, catalogue context |
 | Overture | title, overture identifier, Assembly/year, sponsoring body, BCO references, subject/topic, outcome |

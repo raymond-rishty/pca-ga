@@ -109,6 +109,22 @@ def apply_metadata_overrides(cases):
     return cases
 
 
+def reapply_metadata_overrides_after_aux_merge():
+    """Keep audited minutes corrections authoritative over auxiliary hunt data.
+
+    The hunt corpus can preserve an obsolete roster number or caption. Because it is
+    merged after the golden rollup, apply the checked-in corrections once more and
+    rebuild precedent edges before leaving the stage.
+    """
+    with open(OUT, encoding="utf-8") as source:
+        cases = [json.loads(line) for line in source if line.strip()]
+    cases = apply_metadata_overrides(cases)
+    with open(OUT, "w", encoding="utf-8", newline="\n") as target:
+        for case in cases:
+            target.write(json.dumps(case, ensure_ascii=False) + "\n")
+    print(f"        [overrides] reapplied {OVERRIDES} after auxiliary merge")
+
+
 # ---------------------------------------------------------------------------
 # normalization helpers
 # ---------------------------------------------------------------------------
@@ -660,6 +676,7 @@ def main():
         print(f"        [aux] folding {len(glob.glob(found_dir + '/*.json'))} hunt-recovered "
               f"cases (auxiliary, not golden) via 11_merge_hunt ...")
         importlib.import_module("11_merge_hunt").main()
+        reapply_metadata_overrides_after_aux_merge()
 
 
 if __name__ == "__main__":
