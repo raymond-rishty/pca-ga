@@ -196,7 +196,7 @@
     </header>
 
     <main class="page-main{% if page_type == 'home' %} page-main--home{% endif %}{% if page_type == 'browse' or page_type == 'research' %} page-main--workspace{% endif %}" id="content">
-      <article class="reading-col{% if page_type == 'home' %} reading-col--home{% endif %}{% if page_type == 'browse' or page_type == 'research' %} reading-col--workspace{% endif %}"{% if pagefind_type != '' %} data-pagefind-body{% endif %}>
+      <article class="reading-col{% if page_type == 'home' %} reading-col--home{% endif %}{% if page_type == 'browse' or page_type == 'research' %} reading-col--workspace{% endif %}{% if page.url == '/index/CASES.html' %} reading-col--case-index{% endif %}"{% if pagefind_type != '' %} data-pagefind-body{% endif %}>
         {% if page_type == 'case' %}
           <div class="record-return" id="recordReturn" hidden>
             <a id="recordReturnLink" href="#">← Back to results</a>

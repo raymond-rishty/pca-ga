@@ -927,6 +927,9 @@ textarea:focus-visible {
 /* ── Wide catalogue tables ── */
 .table-scroll { max-width: 100%; }
 
+/* The judicial case catalogue's table is designed for a 1060px canvas. */
+.reading-col--case-index { max-width: 1060px; }
+
 .table-scroll--case-index {
   margin: 1.25rem 0;
   overflow-x: auto;
@@ -958,6 +961,14 @@ textarea:focus-visible {
 .reading-col .table-scroll--case-index .case-provision-table :is(th, td):nth-child(4) { width: 37%; }
 .reading-col .table-scroll--case-index .case-provision-table :is(th, td):nth-child(5) { width: 13%; }
 .reading-col .table-scroll--case-index .case-provision-table :is(th, td):nth-child(6) { width: 7%; }
+
+/* Account for the scroller's border once the full table fits in the viewport. */
+@media (min-width: 1108px) {
+  .reading-col--case-index .table-scroll--case-index table.case-index-table {
+    width: 100%;
+    min-width: 0;
+  }
+}
 
 .provision-jump { display: none; }
 .provision-jump[hidden] { display: none; }
