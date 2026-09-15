@@ -1,0 +1,12 @@
+# BCO 5-6
+
+*All PCA authorities bearing on **BCO 5-6**.*
+
+## High authority
+
+| Year | Type | Title | Disposition |
+|------|------|-------|-------------|
+| 2008 | Judicial case | [Jones v. Louisiana](../cases/ga36_2008__2007-08.md) | sustained |
+
+---
+*[← Authority Index](../index/AUTHORITY-BY-PROVISION.md)*

@@ -90,6 +90,16 @@ def case_numbers(row: dict[str, Any]) -> list[str]:
     primary = normalize_case(row.get("case_number")) or normalize_case(row.get("case_number_raw"))
     if primary and primary not in values:
         values.append(primary)
+    # Catalog captions for consolidated dockets may abbreviate a companion by
+    # omitting the repeated year (for example, ``2025-12, -13``).  Resolve that
+    # shorthand against the primary docket so both canonical records inherit
+    # the same dedicated source.
+    primary_match = re.fullmatch(r"((?:19|20)\d{2})-(\d{1,3})", str(primary or ""))
+    if primary_match:
+        for match in re.finditer(r"(?:,|&|/)\s*-\s*(\d{1,3})(?:$|[^\d])", text):
+            value = f"{primary_match.group(1)}-{int(match.group(1))}"
+            if value not in values:
+                values.append(value)
     return values
 
 

@@ -165,6 +165,11 @@ def normalize_provision(value: str) -> str:
     # Provision suffixes are identifiers, not prose: keep ``.c`` and ``.C``
     # on the same canonical route so they cannot overwrite one another.
     value = re.sub(r"(?<=\.)[A-Za-z]+$", lambda match: match.group(0).lower(), value)
+    value = re.sub(
+        r"^BCO (\d+)(.*)$",
+        lambda match: f"BCO {int(match.group(1))}{match.group(2)}",
+        value,
+    )
     return value.rstrip(":;.,)")
 
 

@@ -3209,6 +3209,9 @@
     "case:1985-3": [
       "minutes:ga13_1985"
     ],
+    "case:1985-4": [
+      "minutes:ga13_1985"
+    ],
     "case:1985-5": [
       "minutes:ga13_1985"
     ],
@@ -3288,6 +3291,15 @@
     "case:1989-3": [
       "minutes:ga17_1989"
     ],
+    "case:1989-4": [
+      "minutes:ga17_1989"
+    ],
+    "case:1989-6": [
+      "minutes:ga17_1989"
+    ],
+    "case:1989-9": [
+      "minutes:ga17_1989"
+    ],
     "case:1990-1": [
       "minutes:ga18_1990"
     ],
@@ -3318,6 +3330,9 @@
     ],
     "case:1990-9": [
       "minutes:ga19_1991"
+    ],
+    "case:1991-1": [
+      "minutes:ga20_1992"
     ],
     "case:1991-2": [
       "minutes:ga20_1992"
@@ -3727,6 +3742,12 @@
     "case:2002-5": [
       "minutes:ga32_2004"
     ],
+    "case:2002-6": [
+      "minutes:ga31_2003"
+    ],
+    "case:2002-7": [
+      "minutes:ga31_2003"
+    ],
     "case:2002-9": [
       "minutes:ga32_2004"
     ],
@@ -3751,6 +3772,12 @@
     ],
     "case:2003-7": [
       "minutes:ga32_2004"
+    ],
+    "case:2004-1": [
+      "minutes:ga33_2005"
+    ],
+    "case:2004-10": [
+      "minutes:ga33_2005"
     ],
     "case:2004-11": [
       "minutes:ga33_2005"
@@ -3881,7 +3908,8 @@
       "minutes:ga36_2008"
     ],
     "case:2007-13": [
-      "case-pdf:2007-13_Kniseley_v_RockyMountain"
+      "case-pdf:2007-13_Kniseley_v_RockyMountain",
+      "minutes:ga37_2009"
     ],
     "case:2007-14": [
       "case-pdf:2007-14_PCA_v_Louisiana",
@@ -3928,7 +3956,11 @@
     ],
     "case:2008-1": [
       "case-pdf:2008-01_Crossroads_v_Philadelphia",
-      "case-pdf:2011-14_Reese-Bech_v_Philadelphia"
+      "case-pdf:2011-14_Reese-Bech_v_Philadelphia",
+      "minutes:ga37_2009"
+    ],
+    "case:2008-10": [
+      "minutes:ga37_2009"
     ],
     "case:2008-11": [
       "case-pdf:2008-11_Broadwater_v_Chesapeake",
@@ -4259,6 +4291,9 @@
       "minutes:ga43_2015"
     ],
     "case:2013-4": [
+      "minutes:ga42_2014"
+    ],
+    "case:2013-5": [
       "minutes:ga42_2014"
     ],
     "case:2013-6": [
@@ -4785,7 +4820,8 @@
       "minutes:ga51_2024"
     ],
     "case:2023-8": [
-      "case-pdf:2023-06_Baird_v_Grace"
+      "case-pdf:2023-06_Baird_v_Grace",
+      "minutes:ga51_2024"
     ],
     "case:2023-9": [
       "case-pdf:2023-09_Myers_v_Illiana",
@@ -4831,6 +4867,9 @@
       "minutes:ga52_2025"
     ],
     "case:2025-12": [
+      "case-pdf:2025-12--13_Assis_and_Brown_v_SFL_final"
+    ],
+    "case:2025-13": [
       "case-pdf:2025-12--13_Assis_and_Brown_v_SFL_final"
     ],
     "case:2025-7": [
@@ -77695,8 +77734,8 @@
   },
   "coverage": {
     "cases": {
-      "records": 827,
-      "with_source": 827
+      "records": 847,
+      "with_source": 847
     },
     "inquiries": {
       "records": 436,

@@ -136,7 +136,7 @@ automatic:** GitHub Pages (Jekyll + `jekyll-relative-links`) rebuilds on every p
 
 **Corpus pipeline** (heavy; only when re-OCRing or re-segmenting): `01_extract` → `16_domain_despace`
 → `15_strip_headers` → `01_extract render` → `05_index build` → `07_build_cases` → `09_reconcile_roster`
-→ `08_index_cases` → `18_structure build` → `21_overture_titles` → `22_dispositions` → **`19_export`**
+→ `12_case_taxonomy` → `13_judicial_taxonomy_index` → `08_index_cases` → `18_structure build` → `21_overture_titles` → `22_dispositions` → **`19_export`**
 (folds the JSON index layers into the DB). A born-digital OCR fix is made in `build/page_jsonl/` (+ the
 hardlinked markdown); a scanned-era one via the `domain_terms.json` rules in `16_domain_despace`.
 

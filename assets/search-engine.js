@@ -10,6 +10,8 @@
     parties: 'parties',
     bco: 'BCO reference',
     topics: 'topic',
+    proceeding: 'proceeding type',
+      review: 'review basis',
     summary: 'summary',
     status: 'status',
     context: 'record context',
@@ -21,6 +23,8 @@
     bco: 85,
     parties: 70,
     topics: 55,
+    proceeding: 50,
+    review: 50,
     assembly: 35,
     summary: 30,
     context: 20,
@@ -136,8 +140,12 @@
       parties: asArray(record.parties),
       bco: asArray(record.provisions),
       topics: asArray(record.topics).concat(asArray(record.topic)),
+      proceeding: asArray(record.matter_type),
+      review: asArray(record.standard_of_review)
+        .concat(asArray(record.review_standards))
+        .concat(asArray(record.standard_of_review_detail)),
       summary: asArray(record.summary),
-      status: asArray(record.disposition),
+      status: asArray(record.disposition).concat(asArray(record.final_dispositions)),
       context: asArray(record.sub),
     };
   }
