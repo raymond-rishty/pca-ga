@@ -69,6 +69,8 @@ def apply_metadata_overrides(cases):
         if not case_number:
             raise ValueError("Every case metadata override requires case_number")
         record = by_number.get(case_number)
+        if record is None and patch.get("post_aux_only"):
+            continue
         if record is None:
             record = {
                 "case_id": case_number, "case_number": case_number,
@@ -86,7 +88,10 @@ def apply_metadata_overrides(cases):
             }
             cases.append(record)
             by_number[case_number] = record
-        record.update({k: v for k, v in patch.items() if k != "case_number"})
+        record.update({
+            k: v for k, v in patch.items()
+            if k not in {"case_number", "post_aux_only"}
+        })
         record["case_id"] = case_number
         record["case_number"] = case_number
 

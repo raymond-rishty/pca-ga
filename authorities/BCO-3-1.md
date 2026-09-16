@@ -8,7 +8,7 @@
 |------|------|-------|-------------|
 | 1991 | Judicial case | [Chappell v. Eastern Carolina Presbytery](../cases/ga19_1991__1990-04.md) | sustained |
 | 1991 | Judicial case | [Marshall v. Eastern Carolina Presbytery](../cases/ga19_1991__1990-04a.md) | sustained |
-| 2002 | Judicial case | [ANDY LEE v. KOREAN CAPITAL PRESBYTERY](../cases/ga30_2002__2001-07.md) | dismissed |
+| 2002 | Judicial case | [Andy Lee v. Korean Capital Presbytery](../cases/ga30_2002__2001-07.md) | dismissed |
 | 2010 | Judicial case | [Morton Smith v. Western Carolina](../cases/ga38_2010__2008-15_2008-16_2008-17_2008-18_2009-01_2009-03.md) | out_of_order |
 | 2024 | Judicial case | [Psiaki v. Pacific Northwest Presbytery](../cases/ga51_2024__2023-11.md) | sustained |
 
