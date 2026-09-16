@@ -952,11 +952,14 @@ textarea:focus-visible {
 .judicial-case h3 a:hover { text-decoration:underline; text-decoration-color:var(--gold); }
 .judicial-case__outcome { margin:.65rem 0; color:var(--ink); font-weight:600; }
 .judicial-case__outcome span { margin-right:.35rem; color:var(--ink-muted); font:500 .72rem var(--sans); letter-spacing:.08em; text-transform:uppercase; }
-.judicial-case__summary { max-width:70ch; margin:.7rem 0 1rem; font:1.08rem/1.65 var(--serif); }
+.judicial-case__summary-wrap { max-width:70ch; margin:.7rem 0 1rem; }
+.judicial-case__summary { margin:0; font:1rem/1.55 var(--serif); }
+.judicial-case__summary-toggle { display:inline-flex; margin-top:.35rem; padding:.15rem 0; border-bottom:1px solid var(--gold); color:#755719; font:500 .78rem/1.4 var(--sans); }
+.judicial-case__summary-toggle:hover { color:var(--ink); }
 .judicial-case__topics { display:flex; flex-wrap:wrap; gap:.4rem; margin:.6rem 0 1rem; }
 .judicial-pill { display:inline-flex; padding:.2rem .55rem; border:1px solid var(--parch-deep); border-radius:999px; background:var(--parch-mid); color:var(--ink-muted); font-size:.78rem; }
 .judicial-pill--more { color:#755719; }
-.judicial-case__footer { display:flex; flex-wrap:wrap; align-items:flex-start; gap:1rem; }
+.judicial-case__footer { display:flex; flex-wrap:wrap; align-items:flex-start; gap:.75rem 1rem; }
 .judicial-case__footer > a { padding-top:.2rem; color:#755719; font-weight:600; }
 .judicial-source-missing, .judicial-muted { color:var(--ink-muted); font-size:.9rem; }
 .judicial-details { flex:1 1 100%; padding-top:.5rem; }
@@ -971,7 +974,18 @@ textarea:focus-visible {
 .judicial-actions__menu button { display:block; width:100%; padding:.65rem .7rem; text-align:left; border-radius:var(--radius); font-size:.9rem; }
 .judicial-actions__menu button:hover, .judicial-actions__menu button:focus-visible { background:var(--gold-pale); }
 .judicial-saved-state { color:#755719; font-size:.78rem; }
-@media (max-width:700px) { .judicial-catalogue-tools { grid-template-columns:1fr; } .judicial-catalogue-tools label:nth-of-type(2), .judicial-catalogue-tools input, .judicial-catalogue-tools select, .judicial-catalogue-tools output { grid-column:1; grid-row:auto; } .judicial-details dl { grid-template-columns:1fr; } .judicial-case h3 { font-size:1.3rem; } }
+@media (max-width:700px) {
+  .page-main { padding-left:1.25rem; padding-right:1.25rem; }
+  .judicial-catalogue-tools { grid-template-columns:1fr; }
+  .judicial-catalogue-tools label:nth-of-type(2), .judicial-catalogue-tools input, .judicial-catalogue-tools select, .judicial-catalogue-tools output { grid-column:1; grid-row:auto; }
+  .judicial-details dl { grid-template-columns:1fr; }
+  .judicial-case h3 { font-size:1.3rem; line-height:1.25; }
+  .judicial-case__docket { font-size:.8rem; line-height:1.4; }
+  .judicial-case__summary { font-size:1rem; line-height:1.55; }
+  .judicial-case__summary.is-collapsed { max-height:7.75em; overflow:hidden; }
+  .judicial-case__footer { align-items:center; }
+  .judicial-case__footer > a, .judicial-details { flex:1 1 auto; }
+}
 
 .table-scroll--case-index {
   margin: 1.25rem 0;

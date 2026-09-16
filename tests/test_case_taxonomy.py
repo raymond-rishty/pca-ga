@@ -195,6 +195,10 @@ def test_generated_catalog_carries_stable_evans_identity_and_all_roster_rows():
     assert all(row["standard_of_review"] in MODULE.STANDARD_OF_REVIEW_CODES for row in rows)
     assert all(set(row["review_standards"]).issubset(MODULE.REVIEW_STANDARD_CODES) for row in rows)
     assert all(row["summary_review_status"] in {"audited", "pending_audit"} for row in rows)
+    catalogue = (ROOT / "index" / "JUDICIAL-CASES.md").read_text(encoding="utf-8")
+    assert catalogue.count('class="judicial-case__summary-toggle"') == len(rows)
+    assert 'aria-controls="judicial-summary-2023-04"' in catalogue
+    assert 'data-judicial-action="cite"' in catalogue
     # These records retain ``other`` because the available ruling does not map
     # cleanly to a more specific final-disposition code.  Keep the set explicit
     # so newly ambiguous classifications still fail the test.
