@@ -98,12 +98,23 @@ def linked_source(row):
 def aliases(row):
     values = []
     if row.get("legacy_case_id") and row["legacy_case_id"] != row.get("case_id"):
-        values.append(f"legacy `{row['legacy_case_id']}`")
+        values.append(f"legacy {row['legacy_case_id']}")
     if row.get("era_label"):
-        values.append(f"`{row['era_label']}`")
+        values.append(str(row["era_label"]))
     if row.get("minute_ids"):
-        values.append("Minutes " + ", ".join(f"`{x}`" for x in row["minute_ids"]))
+        values.append("Minutes " + ", ".join(str(x) for x in row["minute_ids"]))
     return "; ".join(values) or "—"
+
+
+def detail_pills(values, prefix=""):
+    """Render compact, readable pills for repeated metadata values."""
+    if not values:
+        return '<span class="judicial-muted">None listed</span>'
+    pills = "".join(
+        f'<span class="judicial-detail-pill">{esc(prefix + str(value))}</span>'
+        for value in values
+    )
+    return f'<span class="judicial-detail-pills">{pills}</span>'
 
 
 def candidate_overlays(root, registry_name):
@@ -266,14 +277,16 @@ def main(argv=None):
                 )
             aliases_text = aliases(row)
             bco_values = row.get("bco_provisions") or []
-            bco_markup = ", ".join(f"BCO {esc(x)}" for x in bco_values) or "None listed"
+            bco_text = ", ".join(f"BCO {x}" for x in bco_values) or "None listed"
+            bco_markup = detail_pills(bco_values, prefix="BCO ")
+            topic_details_markup = detail_pills(topic_values)
             source_markup = f'<a href="{esc(href)}">{"Read case" if row.get("case_page") else "Official PDF"} <span aria-hidden="true">→</span></a>' if href else '<span class="judicial-source-missing">Full text unavailable</span>'
             status_markup = '' if row.get("classification_status") == "classified" else '<p class="judicial-review-status">Classification needs review</p>'
             title_markup = f'<a href="{esc(href)}">{esc(title)}</a>' if href else esc(title)
             summary_id = "judicial-summary-" + "".join(ch if ch.isalnum() else "-" for ch in str(record_id))
             details_id = "judicial-details-" + "".join(ch if ch.isalnum() else "-" for ch in str(record_id))
             lines.extend([
-                f'<article class="judicial-case" id="case-{esc(docket)}" data-judicial-record data-search-text="{esc(" ".join(map(str, [docket, title, row.get("summary", ""), row.get("matter_type", ""), disposition, review_basis(row), aliases_text, bco_markup, " ".join(topic_values)])))}">',
+                f'<article class="judicial-case" id="case-{esc(docket)}" data-judicial-record data-search-text="{esc(" ".join(map(str, [docket, title, row.get("summary", ""), row.get("matter_type", ""), disposition, review_basis(row), aliases_text, bco_text, " ".join(topic_values)])))}">',
                 f'<header class="judicial-case__header"><p class="judicial-case__docket"><code>{esc(docket)}</code> <span>· {esc(MATTER_TYPE_LABELS.get(row.get("matter_type"), row.get("matter_type")) or "Matter")}</span><span class="judicial-saved-state" data-judicial-saved hidden> · Saved</span></p><h3>{title_markup}</h3></header>',
                 f'<p class="judicial-case__outcome"><span>Outcome</span> {esc(disposition)}</p>',
                 '<div class="judicial-case__layout">',
@@ -281,9 +294,9 @@ def main(argv=None):
                 f'<div class="judicial-case__summary-wrap"><p class="judicial-case__summary" id="{summary_id}">{esc(row.get("summary") or "Synopsis not available")}</p><button type="button" class="judicial-case__summary-toggle" aria-controls="{summary_id}" aria-expanded="false" hidden>Show full synopsis</button></div>',
                 f'<div class="judicial-case__topics" aria-label="Topic tags"><span class="judicial-case__topics-label">Topics</span>{topic_markup or "<span class=\"judicial-muted\">None listed</span>"}</div>',
                 '</div>',
-                f'<aside class="judicial-case__rail" aria-label="Case actions">{source_markup}<button type="button" class="judicial-details__toggle" aria-controls="{details_id}" aria-expanded="false">Case details</button><div class="judicial-actions"><button type="button" class="judicial-actions__button" aria-haspopup="menu" aria-expanded="false" aria-label="More actions for {esc(title)}">⋯</button><div class="judicial-actions__menu" role="menu" hidden><button type="button" role="menuitem" data-judicial-action="save">Save to bookshelf</button><button type="button" role="menuitem" data-judicial-action="cite">Copy citation</button><button type="button" role="menuitem" data-judicial-action="link">Copy link</button></div></div></aside>',
+                f'<aside class="judicial-case__rail" aria-label="Case actions">{source_markup}<button type="button" class="judicial-details__toggle" aria-controls="{details_id}" aria-expanded="false">Case details</button><div class="judicial-actions"><button type="button" class="judicial-actions__button" aria-haspopup="menu" aria-expanded="false" aria-label="Case actions" title="Case actions">⋮</button><div class="judicial-actions__menu" role="menu" hidden><button type="button" role="menuitem" data-judicial-action="save">Save to bookshelf</button><button type="button" role="menuitem" data-judicial-action="cite">Copy citation</button><button type="button" role="menuitem" data-judicial-action="link">Copy link</button></div></div></aside>',
                 '</div>',
-                f'<div class="judicial-details" id="{details_id}" hidden><dl><div><dt>Matter type</dt><dd>{esc(MATTER_TYPE_LABELS.get(row.get("matter_type"), row.get("matter_type")) or "Matter")}</dd></div><div><dt>Final disposition</dt><dd>{esc(final_disposition(row))}</dd></div><div><dt>Review basis</dt><dd>{esc(review_basis(row))}</dd></div><div><dt>BCO provisions</dt><dd>{bco_markup}</dd></div><div><dt>Aliases</dt><dd>{esc(aliases_text)}</dd></div><div><dt>All topic tags</dt><dd>{", ".join(esc(x) for x in topic_values) or "None listed"}</dd></div></dl>{status_markup}</div>',
+                f'<div class="judicial-details" id="{details_id}" hidden><dl><div><dt>Matter type</dt><dd>{esc(MATTER_TYPE_LABELS.get(row.get("matter_type"), row.get("matter_type")) or "Matter")}</dd></div><div><dt>Final disposition</dt><dd>{esc(final_disposition(row))}</dd></div><div><dt>Review basis</dt><dd>{esc(review_basis(row))}</dd></div><div><dt>BCO provisions</dt><dd>{bco_markup}</dd></div><div><dt>Aliases</dt><dd>{esc(aliases_text)}</dd></div><div><dt>All topic tags</dt><dd>{topic_details_markup}</dd></div></dl>{status_markup}</div>',
                 '</article>',
             ])
         lines.append('</div></section>')

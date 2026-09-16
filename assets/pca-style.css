@@ -977,9 +977,11 @@ textarea:focus-visible {
 .judicial-details dl { display:grid; grid-template-columns:repeat(2,minmax(0,1fr)); gap:.8rem 1.2rem; margin:.7rem 0 0; padding:1rem; background:var(--parch-mid); }
 .judicial-details dt { color:var(--ink-muted); font:500 .72rem var(--sans); letter-spacing:.08em; text-transform:uppercase; }
 .judicial-details dd { margin:.2rem 0 0; font-size:.94rem; }
+.judicial-detail-pills { display:flex; flex-wrap:wrap; gap:.3rem; }
+.judicial-detail-pill { display:inline-flex; align-items:center; padding:.18rem .45rem; border:1px solid var(--parch-deep); border-radius:999px; background:var(--parch); color:var(--ink-muted); font:500 .76rem/1.25 var(--sans); }
 .judicial-review-status { color:#8b4c1c; font-size:.85rem; }
 .judicial-actions { position:relative; flex:0 0 auto; }
-.judicial-actions__button { width:44px; height:44px; border:1px solid transparent; border-radius:50%; color:var(--ink-muted); font-size:1.55rem; line-height:1; }
+.judicial-actions__button { width:44px; height:44px; border:1px solid transparent; border-radius:50%; color:var(--ink-muted); font-size:1.7rem; line-height:.8; }
 .judicial-actions__button:hover, .judicial-actions__button[aria-expanded="true"] { border-color:var(--parch-deep); background:var(--parch-mid); color:var(--ink); }
 .judicial-actions__menu { position:absolute; right:0; z-index:10; min-width:190px; padding:.35rem; border:1px solid var(--parch-deep); border-radius:var(--radius); background:var(--parch); box-shadow:0 8px 22px rgba(27,38,64,.14); }
 .judicial-actions__menu button { display:block; width:100%; padding:.65rem .7rem; text-align:left; border-radius:var(--radius); font-size:.9rem; }
