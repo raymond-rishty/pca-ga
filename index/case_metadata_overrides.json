@@ -264,8 +264,13 @@
     "description": "Decision and separate opinion in Case 00-2, TE Philip J. Adams v. Northeast Presbytery, addressing complaints during an appeal and the scope of appellate review following acquittal."
   },
   {
+    "case_number": "2001-25",
+    "post_aux_only": true,
+    "title": "Anthony Dallison v. North Florida Presbytery"
+  },
+  {
     "case_number": "2002-2",
-    "title": "Nichols and Couch v. James River Presbytery (Case 2002-02)",
+    "title": "Nichols and Couch v. James River Presbytery",
     "parties": {
       "complainant_or_appellant": "RE Leland Nichols and RE Sam Couch",
       "respondent_or_court": "James River Presbytery"
@@ -289,8 +294,13 @@
     "synopsis": "Case 2002-02 was adjudicated with Cases 2001-34 and 2002-03 in the dispute over James River Presbytery's handling of the requested dissolution of a pastoral relationship. The SJC held that all complaints assigned to this docket were judicially out of order and addressed the related in-order complaints under the companion dockets in a consolidated judgment."
   },
   {
+    "case_number": "2002-15",
+    "post_aux_only": true,
+    "title": "Walter Bjorck v. Northern New England Presbytery"
+  },
+  {
     "case_number": "2001-34",
-    "title": "Nichols and Couch v. James River Presbytery (Case 2001-34)",
+    "title": "Nichols and Couch v. James River Presbytery",
     "parties": {
       "complainant_or_appellant": "RE Leland Nichols and RE Sam Couch",
       "respondent_or_court": "James River Presbytery"
@@ -325,7 +335,7 @@
   },
   {
     "case_number": "2002-3",
-    "title": "Nichols and Couch v. James River Presbytery (Case 2002-03)",
+    "title": "Nichols and Couch v. James River Presbytery",
     "parties": {
       "complainant_or_appellant": "RE Leland Nichols and RE Sam Couch",
       "respondent_or_court": "James River Presbytery"
@@ -1038,6 +1048,11 @@
     "needs_location": false
   },
   {
+    "case_number": "2010-17",
+    "post_aux_only": true,
+    "title": "David M. Sarafolean Request to Cite Siouxlands Presbytery"
+  },
+  {
     "case_number": "2018-02",
     "title": "Anna Lewis v. Presbytery of the Mississippi Valley",
     "parties": {
@@ -1061,5 +1076,58 @@
     "description": "The SJC found Lewis's BCO 40-5 filing out of order because such matters reached it only upon General Assembly referral.",
     "source": "minutes_decision",
     "needs_location": false
-  }
+  },
+  {"case_number": "1978-2", "post_aux_only": true, "title": "Luther L. Allin Jr. et al. v. Tennessee Valley Presbytery"},
+  {"case_number": "1988-9", "post_aux_only": true, "title": "Morrison et al. v. Philadelphia Presbytery"},
+  {"case_number": "1988-11", "post_aux_only": true, "title": "Korean Church of Washington Matter"},
+  {"case_number": "1989-1", "post_aux_only": true, "title": "D. Stine v. Southern Florida Presbytery"},
+  {"case_number": "1989-2", "post_aux_only": true, "title": "Session of Grace Presbyterian Church v. Covenant Presbytery"},
+  {"case_number": "1990-1", "post_aux_only": true, "title": "First Presbyterian Church of Rowlett, Texas v. North Texas Presbytery"},
+  {"case_number": "1993-10b", "post_aux_only": true, "title": "Clark v. Southwest Presbytery"},
+  {"case_number": "1995-11", "post_aux_only": true, "title": "James Landrum v. Mississippi Valley Presbytery"},
+  {"case_number": "1997-4", "post_aux_only": true, "title": "Nancy A. Conrad et al. v. Central Carolina Presbytery"},
+  {"case_number": "2000-9", "post_aux_only": true, "title": "Sung Keon Kim v. Korean Capital Presbytery"},
+  {"case_number": "2001-1", "post_aux_only": true, "title": "Charles Kim v. Korean Capital Presbytery"},
+  {"case_number": "2001-7", "post_aux_only": true, "title": "Andy Lee v. Korean Capital Presbytery"},
+  {"case_number": "2001-11", "post_aux_only": true, "title": "Byung Han Yoo v. Korean Northwest Presbytery"},
+  {"case_number": "2001-12", "post_aux_only": true, "title": "Peter Lee v. Korean Capital Presbytery"},
+  {"case_number": "2001-13", "post_aux_only": true, "title": "Samuel Hong v. Korean Capital Presbytery"},
+  {"case_number": "2001-14", "post_aux_only": true, "title": "Moon K. Ham v. Korean Capital Presbytery"},
+  {"case_number": "2001-15", "post_aux_only": true, "title": "In Mo Chung v. Korean Capital Presbytery"},
+  {"case_number": "2001-16", "post_aux_only": true, "title": "Joo Bok Suh v. Korean Capital Presbytery"},
+  {"case_number": "2001-17", "post_aux_only": true, "title": "Choon Soon Lee v. Korean Capital Presbytery"},
+  {"case_number": "2001-18", "post_aux_only": true, "title": "Sang Soo Ryoo v. Korean Capital Presbytery"},
+  {"case_number": "2001-19", "post_aux_only": true, "title": "Sung Keon Kim v. Korean Capital Presbytery"},
+  {"case_number": "2001-24", "post_aux_only": true, "title": "Keith A. Williams v. Eastern Carolina Presbytery"},
+  {"case_number": "2001-28", "post_aux_only": true, "title": "Larry Ball v. Westminster Presbytery"},
+  {"case_number": "2001-35", "post_aux_only": true, "title": "Moon K. Ham et al. v. Korean Capital Presbytery"},
+  {"case_number": "2003-1", "post_aux_only": true, "title": "Mark Chavalas v. Northern Illinois Presbytery"},
+  {"case_number": "2009-11", "post_aux_only": true, "title": "Larry Edison et al. v. Southwest Florida Presbytery"},
+  {"case_number": "2011-11", "post_aux_only": true, "title": "Steven Hahn v. Philadelphia Metro West Presbytery"},
+  {"case_number": "2011-12", "post_aux_only": true, "title": "Steven Hahn v. Philadelphia Metro West Presbytery"},
+  {"case_number": "2011-15", "post_aux_only": true, "title": "Steven Hahn v. Philadelphia Metro West Presbytery"},
+  {"case_number": "2011-16", "post_aux_only": true, "title": "Steven Hahn v. Philadelphia Metro West Presbytery"},
+  {"case_number": "2012-8", "post_aux_only": true, "title": "Art Sartorius et al. v. Siouxlands Presbytery"},
+  {"case_number": "2017-8", "post_aux_only": true, "title": "BCO 40-5 Report of RE John B. Thompson"},
+  {"case_number": "2017-9", "post_aux_only": true, "title": "BCO 40-5 Report of RE John B. Thompson"},
+  {"case_number": "75-6", "post_aux_only": true, "title": "Ellisville Session v. Grace Presbytery"},
+  {"case_number": "1983-11", "post_aux_only": true, "title": "Morrison v. Philadelphia Presbytery"},
+  {"case_number": "1999-3", "post_aux_only": true, "title": "Gatis v. Northeast Presbytery"},
+  {"case_number": "2001-3", "post_aux_only": true, "title": "Sung Keon Kim v. Korean Capital Presbytery"},
+  {"case_number": "2001-9", "post_aux_only": true, "title": "Charles Kim v. Korean Capital Presbytery"},
+  {"case_number": "2002-18", "post_aux_only": true, "title": "Mark Herzor and Erwin Morrison v. Philadelphia Presbytery"},
+  {"case_number": "2003-4", "post_aux_only": true, "title": "Dr. and Mrs. Frank Chin v. Covenant Presbytery"},
+  {"case_number": "2004-2", "post_aux_only": true, "title": "Nancy J. Plowman v. Philadelphia Presbytery"},
+  {"case_number": "2004-3", "post_aux_only": true, "title": "Tim J. Harris v. Heritage Presbytery"},
+  {"case_number": "2004-9", "post_aux_only": true, "title": "Scott Robar v. Central Carolina Presbytery"},
+  {"case_number": "2006-7", "post_aux_only": true, "title": "Michael Chastain v. Heritage Presbytery"},
+  {"case_number": "2007-4", "post_aux_only": true, "title": "Stephen P. Engel v. Evangel Presbytery"},
+  {"case_number": "2007-6", "post_aux_only": true, "title": "Eliot Lee v. Korean Eastern Presbytery"},
+  {"case_number": "2008-9", "post_aux_only": true, "title": "Session of Red Mountain Presbyterian Church v. Evangel Presbytery"},
+  {"case_number": "2008-12", "post_aux_only": true, "title": "Malone v. Metropolitan New York Presbytery"},
+  {"case_number": "2010-15", "post_aux_only": true, "title": "TE Carpenter et al. v. Siouxlands Presbytery"},
+  {"case_number": "2020-1", "post_aux_only": true, "title": "Peter Benyola v. Central Florida Presbytery"},
+  {"case_number": "2023-23", "post_aux_only": true, "title": "William Mueller v. South Florida Presbytery"},
+  {"case_number": "2025-7", "post_aux_only": true, "title": "Mark Hertenstein v. James River Presbytery"},
+  {"case_number": "2020-9", "post_aux_only": true, "title": "Sean Ozbalt and Erin Barr v. Pacific Presbytery"}
 ]

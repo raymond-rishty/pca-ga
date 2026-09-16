@@ -6,16 +6,16 @@
 
 | Year | Type | Title | Disposition |
 |------|------|-------|-------------|
-| 2005 | Judicial case | [Nichols and Couch v. James River Presbytery (Case 2001-34)](../cases/ga33_2005__2001-34_2002-02_2002-03.md) | partially_sustained |
+| 2005 | Judicial case | [Nichols and Couch v. James River Presbytery](../cases/ga33_2005__2001-34_2002-02_2002-03.md) | partially_sustained |
 | 2008 | Judicial case | [PCA v. Louisiana Presbytery (Trial)](../cases/ga36_2008__2007-14.md) | dismissed |
 | 2008 | Judicial case | [Jones v. Louisiana](../cases/ga36_2008__2007-08.md) | sustained |
 | 2008 | Judicial case | [Memorial of Central Carolina v. Louisiana](../cases/ga36_2008__2006-02.md) | other |
-| 2009 | Judicial case | [Eliot Lee v. Korean Eastern](../cases/ga38_2010__stub_2009-16.md) | sustained |
+| 2009 | Judicial case | [Eliot Lee v. Korean Eastern Presbytery](../cases/ga38_2010__stub_2009-16.md) | sustained |
 | 2010 | Judicial case | [Bordwine v. Pacific Northwest Presbytery](../cases/ga38_2010__2009-06.md) | sustained |
 | 2010 | Judicial case | [Morton Smith v. Western Carolina](../cases/ga38_2010__2009-02.md) | not_sustained |
 | 2011 | Judicial case | [Koerkenmeier v. Illiana Presbytery](../cases/ga39_2011__2009-23.md) | sustained |
 | 2011 | Judicial case | [Sartorious et al. v. Siouxlands Presbytery](../cases/ga39_2011__2010-04.md) | denied |
-| 2015 | Judicial case | [Complaint: TE Art Sartorius v. Siouxlands Presbytery 2013-03 Complaint: Mr. G. Rick Marshall v. Pacific Presbytery 2013-06 Appeal: TE Stephen Gonzales v. Great Lakes Presbytery 2013-08 Complaint of](../cases/ga43_2015__2012-08.md) | sustained_in_part |
+| 2015 | Judicial case | [Art Sartorius et al. v. Siouxlands Presbytery](../cases/ga43_2015__2012-08.md) | sustained_in_part |
 | 2017 | Judicial case | [Wills v. Metro Atlanta Presbytery](../cases/ga45_2017__2016-14.md) | denied |
 | 2018 | Judicial case | [Sartorius v. Siouxlands Presbytery](../cases/ga46_2018__2016-16.md) | denied |
 | 2019 | Judicial case | [Anna Lewis v. Presbytery of the Mississippi Valley](../cases/ga47_2019__2018-02.md) | out_of_order |
