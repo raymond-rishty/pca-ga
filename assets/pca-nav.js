@@ -673,9 +673,18 @@
         if (extraTopics) extraTopics.hidden = expanded;
         return;
       }
+      const detailsToggle = event.target.closest('.judicial-details__toggle');
+      if (detailsToggle) {
+        const expanded = detailsToggle.getAttribute('aria-expanded') === 'true';
+        const details = document.getElementById(detailsToggle.getAttribute('aria-controls'));
+        detailsToggle.setAttribute('aria-expanded', String(!expanded));
+        detailsToggle.textContent = expanded ? 'Case details' : 'Hide details';
+        if (details) details.hidden = expanded;
+        return;
+      }
       if (!action || !record) return;
       const title = record.querySelector('h3')?.textContent.trim() || 'Judicial case';
-      const url = new URL(record.querySelector('h3 a, .judicial-case__footer a')?.href || `#${record.id}`, location.href).href;
+      const url = new URL(record.querySelector('h3 a, .judicial-case__rail a')?.href || `#${record.id}`, location.href).href;
       const id = url; const short = `${record.querySelector('.judicial-case__docket code')?.textContent || ''} — ${title}`;
       if (action.dataset.judicialAction === 'save') {
         const saved = store?.toggleSaved({ id, url, title, type: 'Judicial case', short, citation: short });
@@ -706,7 +715,7 @@
     document.addEventListener('click', (event) => { if (!event.target.closest('.judicial-actions')) document.querySelectorAll('.judicial-actions__menu').forEach((menu) => { menu.hidden = true; menu.previousElementSibling?.setAttribute('aria-expanded', 'false'); }); });
     document.addEventListener('keydown', (event) => { if (event.key === 'Escape') document.querySelectorAll('.judicial-actions__menu').forEach((menu) => { if (!menu.hidden) { menu.hidden = true; menu.previousElementSibling?.setAttribute('aria-expanded', 'false'); menu.previousElementSibling?.focus(); } }); });
     records.forEach((record) => {
-      const link = record.querySelector('h3 a, .judicial-case__footer a');
+      const link = record.querySelector('h3 a, .judicial-case__rail a');
       const saved = store?.isSaved({ id: new URL(link?.href || `#${record.id}`, location.href).href });
       const state = record.querySelector('[data-judicial-saved]'); if (state) state.hidden = !saved;
     });
