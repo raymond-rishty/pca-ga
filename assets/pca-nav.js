@@ -601,6 +601,62 @@
     });
   }
 
+  function enhanceJudicialCatalogue() {
+    const catalogue = document.getElementById('judicialCatalogue');
+    if (!catalogue) return;
+    const records = [...catalogue.querySelectorAll('[data-judicial-record]')];
+    const search = document.getElementById('judicialCaseSearch');
+    const jump = document.getElementById('judicialYearJump');
+    const count = document.getElementById('judicialResultCount');
+    const years = [...catalogue.querySelectorAll('[data-judicial-year]')];
+    years.forEach((section) => {
+      if (section.dataset.judicialYear !== 'other' && !jump.querySelector(`option[value="${section.dataset.judicialYear}"]`)) {
+        const option = document.createElement('option'); option.value = section.dataset.judicialYear; option.textContent = section.dataset.judicialYear; jump.append(option);
+      }
+    });
+    const update = () => {
+      const terms = (search.value || '').toLocaleLowerCase().trim().split(/\s+/).filter(Boolean);
+      let visible = 0;
+      records.forEach((record) => {
+        const match = terms.every((term) => (record.dataset.searchText || '').toLocaleLowerCase().includes(term));
+        record.hidden = !match; if (match) visible += 1;
+      });
+      years.forEach((section) => { section.hidden = !section.querySelector('[data-judicial-record]:not([hidden])'); });
+      count.textContent = `${visible} ${visible === 1 ? 'case' : 'cases'}`;
+    };
+    search?.addEventListener('input', update);
+    jump?.addEventListener('change', () => { if (jump.value) document.querySelector(`[data-judicial-year="${CSS.escape(jump.value)}"]`)?.scrollIntoView({ behavior: scrollBehavior(), block: 'start' }); });
+    catalogue.addEventListener('click', async (event) => {
+      const actionButton = event.target.closest('.judicial-actions__button');
+      const action = event.target.closest('[data-judicial-action]');
+      const record = event.target.closest('[data-judicial-record]');
+      if (actionButton) {
+        const menu = actionButton.nextElementSibling; const open = menu.hidden;
+        document.querySelectorAll('.judicial-actions__menu').forEach((item) => { item.hidden = true; item.previousElementSibling?.setAttribute('aria-expanded', 'false'); });
+        menu.hidden = !open; actionButton.setAttribute('aria-expanded', String(open)); if (open) menu.querySelector('button')?.focus(); return;
+      }
+      if (!action || !record) return;
+      const title = record.querySelector('h3')?.textContent.trim() || 'Judicial case';
+      const url = new URL(record.querySelector('h3 a, .judicial-case__footer a')?.href || `#${record.id}`, location.href).href;
+      const id = url; const short = `${record.querySelector('.judicial-case__docket code')?.textContent || ''} — ${title}`;
+      if (action.dataset.judicialAction === 'save') {
+        const saved = store?.toggleSaved({ id, url, title, type: 'Judicial case', short, citation: short });
+        const state = record.querySelector('[data-judicial-saved]'); if (state) state.hidden = !saved;
+        action.textContent = saved ? 'Remove from bookshelf' : 'Save to bookshelf'; showToast(saved ? 'Added to your bookshelf' : 'Removed from your bookshelf');
+      } else if (action.dataset.judicialAction === 'link') { await copyText(url); showToast('Link copied'); }
+      else if (action.dataset.judicialAction === 'cite') { openCitation({ id, url, title, type: 'Judicial case', short, full: `${title}. ${short}. ${url}`, markdown: `[${title}](${url}) — ${short}.` }, action.closest('.judicial-actions__menu').previousElementSibling); }
+      action.closest('.judicial-actions__menu').hidden = true; action.closest('.judicial-actions__menu').previousElementSibling?.setAttribute('aria-expanded', 'false');
+    });
+    document.addEventListener('click', (event) => { if (!event.target.closest('.judicial-actions')) document.querySelectorAll('.judicial-actions__menu').forEach((menu) => { menu.hidden = true; menu.previousElementSibling?.setAttribute('aria-expanded', 'false'); }); });
+    document.addEventListener('keydown', (event) => { if (event.key === 'Escape') document.querySelectorAll('.judicial-actions__menu').forEach((menu) => { if (!menu.hidden) { menu.hidden = true; menu.previousElementSibling?.setAttribute('aria-expanded', 'false'); menu.previousElementSibling?.focus(); } }); });
+    records.forEach((record) => {
+      const link = record.querySelector('h3 a, .judicial-case__footer a');
+      const saved = store?.isSaved({ id: new URL(link?.href || `#${record.id}`, location.href).href });
+      const state = record.querySelector('[data-judicial-saved]'); if (state) state.hidden = !saved;
+    });
+    update();
+  }
+
   function enhanceProvisionIndex() {
     if (!/\/index\/CASES-BY-PROVISION\.html$/i.test(location.pathname)) return;
     const provisions = [...document.querySelectorAll('.reading-col h2')];
@@ -713,6 +769,7 @@
   enhanceCollectionHeader();
   makeTablesResponsive();
   enhanceProvisionIndex();
+  enhanceJudicialCatalogue();
   injectBadges();
   restoreContext();
   restoreScroll();

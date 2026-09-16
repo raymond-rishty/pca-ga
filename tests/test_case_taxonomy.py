@@ -314,12 +314,14 @@ def test_audited_identity_corrections_survive_auxiliary_case_merge():
 
 def test_human_index_is_generated_from_the_canonical_layer():
     index = (ROOT / "index" / "JUDICIAL-CASES.md").read_text(encoding="utf-8")
-    assert "# Canonical judicial cases" in index
+    assert "# Judicial cases" in index
     assert "Review basis" in index
     assert "Matter type" in index
     assert "Final disposition" in index
-    assert "| `2023-07` | Evans v. Arizona Presbytery |" in index
-    assert "| `1986-01` | Kenneth L. Gentry, Jr. et al. v. Calvary Presbytery |" in index
+    assert '<code>2023-07</code>' in index
+    assert 'Evans v. Arizona Presbytery' in index
+    assert '<code>1986-01</code>' in index
+    assert 'Kenneth L. Gentry, Jr. et al. v. Calvary Presbytery' in index
     assert "Great deference unless clear error (factual findings)" in index
     assert "factual_findings" not in index
     assert "partially_sustained" not in index

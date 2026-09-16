@@ -8,6 +8,7 @@ rostered-case editorial view produced by scripts/12_case_taxonomy.py.
 from __future__ import annotations
 
 import argparse
+import html
 import json
 import os
 import sys
@@ -73,6 +74,16 @@ STATUS_LABELS = {
 def md(value):
     """Keep generated table rows valid when source metadata contains pipes."""
     return str(value or "").replace("|", "\\|").replace("\r", " ").replace("\n", " ").strip()
+
+
+def esc(value):
+    return html.escape(str(value or ""), quote=True)
+
+
+def case_href(row):
+    if row.get("case_page"):
+        return f"../cases/{row['case_page']}.md"
+    return row.get("official_pdf_url") or ""
 
 
 def linked_source(row):
@@ -187,75 +198,78 @@ def main(argv=None):
 
     with open(source_path, encoding="utf-8") as source:
         rows = [json.loads(line) for line in source if line.strip()]
-    rows.sort(key=lambda row: (row.get("case_id") is None, row.get("case_id") or row.get("roster_id") or ""))
+    rows.sort(key=lambda row: (-int(str(row.get("case_id") or row.get("roster_id") or "0").split("-")[0]) if str(row.get("case_id") or row.get("roster_id") or "0").split("-")[0].isdigit() else 0, row.get("case_id") or row.get("roster_id") or ""))
     statuses = Counter(row.get("classification_status") for row in rows)
     lines = [
-        "# Canonical judicial cases",
+        "# Judicial cases",
         "",
-        "One row per unique case in the official SJC/CJB roster. The canonical `case_id` is a "
-        "zero-padded docket such as `2023-07`; legacy, era-based, and Minutes identifiers are "
-        "preserved as aliases. See [the taxonomy specification](../docs/JUDICIAL-CASE-TAXONOMY.md) "
-        "for controlled vocabularies and source rules.",
+        "Cases decided by the Standing Judicial Commission and its predecessor, the Committee on Judicial Business. Browse the docket by year, read the editorial synopsis, and open the details shelf for constitutional references and source identifiers.",
         "",
-        f"**{len(rows)} records** · classified {statuses['classified']} · "
-        f"needs review {statuses['needs_review']} · roster only {statuses['roster_only']}",
-        "",
+        '<section class="judicial-catalogue-tools" aria-label="Catalogue tools">',
+        '<label for="judicialCaseSearch">Search cases</label>',
+        '<input id="judicialCaseSearch" type="search" placeholder="Search titles, summaries, topics, provisions…" autocomplete="off">',
+        '<label for="judicialYearJump">Jump to docket year</label>',
+        '<select id="judicialYearJump"><option value="">Choose a year…</option></select>',
+        '<output id="judicialResultCount" aria-live="polite"></output>',
+        '</section>',
+        '<details class="judicial-catalogue-about"><summary>About this catalogue</summary>',
+        f'<p>{len(rows)} records · {statuses["classified"]} classified · {statuses["needs_review"]} need editorial review. Canonical docket IDs are zero-padded; legacy, era-based, and Minutes identifiers are retained in each case’s details.</p>',
+        '<p><a href="../docs/JUDICIAL-CASE-TAXONOMY.md">Read the taxonomy specification</a>.</p></details>',
+        '<div class="judicial-catalogue" id="judicialCatalogue">',
     ]
     if overlays:
         registry_display = os.path.relpath(registry_path, os.path.dirname(output_path)).replace("\\", "/")
         lines.extend([
-            "> **Candidate review rendering:** "
+            '<aside class="judicial-candidate-notice"><strong>Candidate review rendering:</strong> '
             f"{len(overlays)} model-generated candidates from "
-            f"[{os.path.basename(registry_path)}]({registry_display}) overlay the maintained "
+            f"<a href=\"{registry_display}\">{esc(os.path.basename(registry_path))}</a> overlay the maintained "
             "summary, matter type, and disposition for review. They have not been source-audited, "
             "approved, or published to the canonical editorial overrides. Follow the "
-            "[audit instructions](synopsis_workflow/AUDIT-INSTRUCTIONS.md).",
-            "",
-            "| Case ID | Title | Matter type | Final disposition | Review basis | Aliases | Candidate synopsis | Synopsis review | BCO provisions | Topic tags | Status | Source |",
-            "|---|---|---|---|---|---|---|---|---|---|---|---|",
+            '<a href="synopsis_workflow/AUDIT-INSTRUCTIONS.md">audit instructions</a>.</aside>',
         ])
-    else:
-        lines.extend([
-            "| Case ID | Title | Matter type | Final disposition | Review basis | Aliases | Summary | BCO provisions | Topic tags | Status | Source |",
-            "|---|---|---|---|---|---|---|---|---|---|---|",
-        ])
+    groups = {}
     for row in rows:
-        row = dict(row)
-        record_id = row.get("case_id") or row.get("roster_id")
-        candidate = overlays.get(record_id)
-        if not candidate and not row.get("case_id") and row.get("roster_id"):
-            candidate = overlays.get("roster:" + row["roster_id"])
-        if candidate:
-            row["summary"] = candidate["summary"]
-            if candidate["matter_type"]:
-                row["matter_type"] = candidate["matter_type"]
-            if candidate["final_dispositions"]:
-                row["final_dispositions"] = candidate["final_dispositions"]
-        bco = ", ".join(f"`BCO {x}`" for x in row.get("bco_provisions") or []) or "—"
-        topics = ", ".join(f"`{md(x)}`" for x in row.get("topic_tags") or []) or "—"
-        standards = review_basis(row)
-        title = md(row.get("title")) or "—"
-        summary = md(row.get("summary")) or "—"
-        case_id = f"`{row['case_id']}`" if row.get("case_id") else f"`{row.get('roster_id')}`"
-        prefix = (
-            f"| {case_id} | {title} | "
-            f"{md(MATTER_TYPE_LABELS.get(row.get('matter_type'), row.get('matter_type'))) or '—'} | "
-            f"{final_disposition(row)} | {standards} | {aliases(row)} | {summary} |"
-        )
-        if overlays:
-            synopsis_review = (
-                candidate_review_label(candidate) if candidate
-                else md(row.get("summary_review_status") or "No candidate")
-            )
-            lines.append(
-                f"{prefix} {synopsis_review} | {bco} | {topics} | "
-                f"{md(STATUS_LABELS.get(row.get('classification_status'), row.get('classification_status'))) or '—'} | {linked_source(row)} |"
-            )
-        else:
-            lines.append(
-                f"{prefix} {bco} | {topics} | "
-                f"{md(STATUS_LABELS.get(row.get('classification_status'), row.get('classification_status'))) or '—'} | {linked_source(row)} |"
-            )
+        docket = str(row.get("case_id") or row.get("roster_id") or "")
+        year = docket.split("-", 1)[0] if docket[:4].isdigit() else "other"
+        groups.setdefault(year, []).append(row)
+    for year, year_rows in groups.items():
+        lines.append(f'<section class="judicial-year" data-judicial-year="{esc(year)}"><h2>{esc(year if year != "other" else "Other roster records")}</h2>')
+        lines.append('<div class="judicial-year__records">')
+        for row in year_rows:
+            row = dict(row)
+            record_id = row.get("case_id") or row.get("roster_id")
+            candidate = overlays.get(record_id) or overlays.get("roster:" + row.get("roster_id", ""))
+            if candidate:
+                row["summary"] = candidate["summary"]
+                row["matter_type"] = candidate["matter_type"] or row.get("matter_type")
+                row["final_dispositions"] = candidate["final_dispositions"] or row.get("final_dispositions")
+            docket = row.get("case_id") or row.get("roster_id") or "Unnumbered"
+            title = row.get("title") or "Untitled case"
+            href = case_href(row)
+            disposition = final_disposition(row)
+            topic_values = row.get("topic_tags") or []
+            visible_topics = topic_values[:3]
+            hidden_topics = topic_values[3:]
+            topic_markup = "".join(f'<span class="judicial-pill">{esc(x)}</span>' for x in visible_topics)
+            if hidden_topics:
+                topic_markup += f'<span class="judicial-pill judicial-pill--more">+{len(hidden_topics)} topics</span>'
+            aliases_text = aliases(row)
+            bco_values = row.get("bco_provisions") or []
+            bco_markup = ", ".join(f"BCO {esc(x)}" for x in bco_values) or "None listed"
+            source_markup = f'<a href="{esc(href)}">{"Read case" if row.get("case_page") else "Official PDF"} <span aria-hidden="true">→</span></a>' if href else '<span class="judicial-source-missing">Full text unavailable</span>'
+            status_markup = '' if row.get("classification_status") == "classified" else '<p class="judicial-review-status">Classification needs review</p>'
+            title_markup = f'<a href="{esc(href)}">{esc(title)}</a>' if href else esc(title)
+            lines.extend([
+                f'<article class="judicial-case" id="case-{esc(docket)}" data-judicial-record data-search-text="{esc(" ".join(map(str, [docket, title, row.get("summary", ""), row.get("matter_type", ""), disposition, review_basis(row), aliases_text, bco_markup, " ".join(topic_values)])))}">',
+                f'<header class="judicial-case__header"><div><p class="judicial-case__docket"><code>{esc(docket)}</code> <span>· {esc(MATTER_TYPE_LABELS.get(row.get("matter_type"), row.get("matter_type")) or "Matter")}</span><span class="judicial-saved-state" data-judicial-saved hidden> · Saved</span></p><h3>{title_markup}</h3></div><div class="judicial-actions"><button type="button" class="judicial-actions__button" aria-haspopup="menu" aria-expanded="false" aria-label="Actions for {esc(title)}">⋯</button><div class="judicial-actions__menu" role="menu" hidden><button type="button" role="menuitem" data-judicial-action="save">Save to bookshelf</button><button type="button" role="menuitem" data-judicial-action="cite">Copy citation</button><button type="button" role="menuitem" data-judicial-action="link">Copy link</button></div></div></header>',
+                f'<p class="judicial-case__outcome"><span>Outcome</span> {esc(disposition)}</p>',
+                f'<p class="judicial-case__summary">{esc(row.get("summary") or "Synopsis not available")}</p>',
+                f'<div class="judicial-case__topics" aria-label="Topic tags">{topic_markup or "<span class=\"judicial-muted\">No topic tags</span>"}</div>',
+                f'<div class="judicial-case__footer">{source_markup}<details class="judicial-details"><summary>Case details</summary><dl><div><dt>Matter type</dt><dd>{esc(MATTER_TYPE_LABELS.get(row.get("matter_type"), row.get("matter_type")) or "Matter")}</dd></div><div><dt>Final disposition</dt><dd>{esc(final_disposition(row))}</dd></div><div><dt>Review basis</dt><dd>{esc(review_basis(row))}</dd></div><div><dt>BCO provisions</dt><dd>{bco_markup}</dd></div><div><dt>Aliases</dt><dd>{esc(aliases_text)}</dd></div><div><dt>All topic tags</dt><dd>{", ".join(esc(x) for x in topic_values) or "None listed"}</dd></div></dl>{status_markup}</details></div>',
+                '</article>',
+            ])
+        lines.append('</div></section>')
+    lines.append('</div>')
     with open(output_path, "w", encoding="utf-8", newline="\n") as target:
         target.write("\n".join(lines) + "\n")
     mode = f" with {len(overlays)} candidate overlays" if overlays else ""
