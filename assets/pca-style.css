@@ -968,6 +968,8 @@ textarea:focus-visible {
 .judicial-topics__toggle:hover { color:var(--ink); }
 .judicial-case__rail { display:flex; flex-direction:column; align-items:flex-start; gap:.45rem; min-width:0; padding:.15rem 0 .15rem .85rem; border-left:1px solid var(--parch-deep); font:.74rem/1.35 var(--sans); }
 .judicial-case__rail > a, .judicial-details__toggle { padding:.08rem 0; border-bottom:1px solid var(--gold); color:#755719; font-weight:600; }
+.judicial-details__toggle::before { display:inline-block; width:.8em; margin-right:.15rem; content:'▸'; transition:transform .15s ease; }
+.judicial-details__toggle[aria-expanded="true"]::before { transform:rotate(90deg); }
 .judicial-case__rail > a:hover, .judicial-details__toggle:hover { color:var(--ink); }
 .judicial-source-missing, .judicial-muted { color:var(--ink-muted); font-size:.9rem; }
 .judicial-case__rail .judicial-source-missing { font-size:inherit; }
