@@ -953,7 +953,7 @@ textarea:focus-visible {
 .judicial-case h3 a:hover { text-decoration:underline; text-decoration-color:var(--gold); }
 .judicial-case__outcome { margin:.65rem 0; color:var(--ink); font-weight:600; }
 .judicial-case__outcome span { margin-right:.35rem; color:var(--ink-muted); font:500 .72rem var(--sans); letter-spacing:.08em; text-transform:uppercase; }
-.judicial-case__summary-wrap { max-width:70ch; margin:.7rem 0 1rem; }
+.judicial-case__summary-wrap { max-width:88ch; margin:.7rem 0 1rem; }
 .judicial-case__summary { margin:0; font:1rem/1.55 var(--serif); }
 .judicial-case__summary-toggle { display:inline-flex; margin-top:.35rem; padding:.15rem 0; border-bottom:1px solid var(--gold); color:#755719; font:500 .78rem/1.4 var(--sans); }
 .judicial-case__summary-toggle:hover { color:var(--ink); }
