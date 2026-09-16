@@ -198,6 +198,9 @@ def test_generated_catalog_carries_stable_evans_identity_and_all_roster_rows():
     catalogue = (ROOT / "index" / "JUDICIAL-CASES.md").read_text(encoding="utf-8")
     assert catalogue.count('class="judicial-case__summary-toggle"') == len(rows)
     assert 'aria-controls="judicial-summary-2023-04"' in catalogue
+    assert 'class="judicial-case__topics-extra"' in catalogue
+    assert 'class="judicial-topics__toggle"' in catalogue
+    assert 'aria-label="Show 11 more topics"' in catalogue
     assert 'data-judicial-action="cite"' in catalogue
     # These records retain ``other`` because the available ruling does not map
     # cleanly to a more specific final-disposition code.  Keep the set explicit

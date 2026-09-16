@@ -661,6 +661,18 @@
         record?.querySelector('.judicial-case__summary')?.classList.toggle('is-collapsed', expanded);
         return;
       }
+      const topicsToggle = event.target.closest('.judicial-topics__toggle');
+      if (topicsToggle) {
+        const expanded = topicsToggle.getAttribute('aria-expanded') === 'true';
+        const extraTopics = document.getElementById(topicsToggle.getAttribute('aria-controls'));
+        const topicCount = topicsToggle.dataset.topicCount;
+        const topicNoun = Number(topicCount) === 1 ? 'topic' : 'topics';
+        topicsToggle.setAttribute('aria-expanded', String(!expanded));
+        topicsToggle.setAttribute('aria-label', expanded ? `Show ${topicCount} more ${topicNoun}` : 'Hide additional topics');
+        topicsToggle.textContent = expanded ? `+${topicCount} ${topicNoun}` : 'Fewer topics';
+        if (extraTopics) extraTopics.hidden = expanded;
+        return;
+      }
       if (!action || !record) return;
       const title = record.querySelector('h3')?.textContent.trim() || 'Judicial case';
       const url = new URL(record.querySelector('h3 a, .judicial-case__footer a')?.href || `#${record.id}`, location.href).href;

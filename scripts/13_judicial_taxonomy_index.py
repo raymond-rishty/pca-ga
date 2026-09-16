@@ -252,7 +252,18 @@ def main(argv=None):
             hidden_topics = topic_values[3:]
             topic_markup = "".join(f'<span class="judicial-pill">{esc(x)}</span>' for x in visible_topics)
             if hidden_topics:
-                topic_markup += f'<span class="judicial-pill judicial-pill--more">+{len(hidden_topics)} topics</span>'
+                topic_noun = "topic" if len(hidden_topics) == 1 else "topics"
+                topics_id = "judicial-topics-" + "".join(ch if ch.isalnum() else "-" for ch in str(record_id))
+                hidden_topic_markup = "".join(
+                    f'<span class="judicial-pill">{esc(x)}</span>' for x in hidden_topics
+                )
+                topic_markup += (
+                    f'<span class="judicial-case__topics-extra" id="{topics_id}" hidden>{hidden_topic_markup}</span>'
+                    f'<button type="button" class="judicial-topics__toggle" '
+                    f'aria-controls="{topics_id}" aria-expanded="false" '
+                    f'aria-label="Show {len(hidden_topics)} more {topic_noun}" '
+                    f'data-topic-count="{len(hidden_topics)}">+{len(hidden_topics)} {topic_noun}</button>'
+                )
             aliases_text = aliases(row)
             bco_values = row.get("bco_provisions") or []
             bco_markup = ", ".join(f"BCO {esc(x)}" for x in bco_values) or "None listed"
@@ -265,7 +276,7 @@ def main(argv=None):
                 f'<header class="judicial-case__header"><div><p class="judicial-case__docket"><code>{esc(docket)}</code> <span>· {esc(MATTER_TYPE_LABELS.get(row.get("matter_type"), row.get("matter_type")) or "Matter")}</span><span class="judicial-saved-state" data-judicial-saved hidden> · Saved</span></p><h3>{title_markup}</h3></div><div class="judicial-actions"><button type="button" class="judicial-actions__button" aria-haspopup="menu" aria-expanded="false" aria-label="Actions for {esc(title)}">⋯</button><div class="judicial-actions__menu" role="menu" hidden><button type="button" role="menuitem" data-judicial-action="save">Save to bookshelf</button><button type="button" role="menuitem" data-judicial-action="cite">Copy citation</button><button type="button" role="menuitem" data-judicial-action="link">Copy link</button></div></div></header>',
                 f'<p class="judicial-case__outcome"><span>Outcome</span> {esc(disposition)}</p>',
                 f'<div class="judicial-case__summary-wrap"><p class="judicial-case__summary" id="{summary_id}">{esc(row.get("summary") or "Synopsis not available")}</p><button type="button" class="judicial-case__summary-toggle" aria-controls="{summary_id}" aria-expanded="false" hidden>Show full synopsis</button></div>',
-                f'<div class="judicial-case__topics" aria-label="Topic tags">{topic_markup or "<span class=\"judicial-muted\">No topic tags</span>"}</div>',
+                f'<div class="judicial-case__topics" aria-label="Topic tags"><span class="judicial-case__topics-label">Topics</span>{topic_markup or "<span class=\"judicial-muted\">None listed</span>"}</div>',
                 f'<div class="judicial-case__footer">{source_markup}<details class="judicial-details"><summary>Case details</summary><dl><div><dt>Matter type</dt><dd>{esc(MATTER_TYPE_LABELS.get(row.get("matter_type"), row.get("matter_type")) or "Matter")}</dd></div><div><dt>Final disposition</dt><dd>{esc(final_disposition(row))}</dd></div><div><dt>Review basis</dt><dd>{esc(review_basis(row))}</dd></div><div><dt>BCO provisions</dt><dd>{bco_markup}</dd></div><div><dt>Aliases</dt><dd>{esc(aliases_text)}</dd></div><div><dt>All topic tags</dt><dd>{", ".join(esc(x) for x in topic_values) or "None listed"}</dd></div></dl>{status_markup}</details></div>',
                 '</article>',
             ])
