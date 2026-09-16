@@ -33,7 +33,9 @@ jobs:
             exit 0
           fi
           git fetch --no-tags --depth=1 origin "$BEFORE"
-          if git diff --name-only "$BEFORE" "$GITHUB_SHA" | grep -Eq '^(markdown/|scripts/21_overture_titles\.py$|scripts/37_overture_pages\.py$|index/overture_body_ends\.json$|index/overture_titles\.jsonl$|index/overture_dispositions\.jsonl$)'; then
+          # Overture artifacts are curated and checked in. General Minutes edits must not run the
+          # legacy heading-based extractor, which cannot reconstruct the full current corpus.
+          if git diff --name-only "$BEFORE" "$GITHUB_SHA" | grep -Eq '^(scripts/21_overture_titles\.py$|scripts/37_overture_pages\.py$|index/overture_body_ends\.json$|index/overture_bodies\.jsonl$|index/overture_titles\.jsonl$|index/overture_dispositions\.jsonl$)'; then
             echo "changed=true" >> "$GITHUB_OUTPUT"
           else
             echo "changed=false" >> "$GITHUB_OUTPUT"
