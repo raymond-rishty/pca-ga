@@ -1053,7 +1053,25 @@ def main():
     with open(OUT, "w", encoding="utf-8", newline="\n") as target:
         for row in rows:
             target.write(json.dumps(row, ensure_ascii=False) + "\n")
+    # Keep the legacy extraction layer's display title aligned with the
+    # canonical taxonomy. Raw roster wording remains available in
+    # ``canonical_title`` for provenance, but should not leak into search or
+    # downstream public indexes through the generic ``title`` field.
+    canonical_titles = {row["case_id"]: row["title"] for row in rows if row.get("case_id")}
+    legacy_rows = load_jsonl(CASES)
+    synced = 0
+    for record in legacy_rows:
+        cid = canonical_id(record.get("canonical_number") or record.get("case_number"))
+        clean = canonical_titles.get(cid)
+        if clean and record.get("title") != clean:
+            record["title"] = clean
+            synced += 1
+    if synced:
+        with open(CASES, "w", encoding="utf-8", newline="\n") as target:
+            for record in legacy_rows:
+                target.write(json.dumps(record, ensure_ascii=False) + "\n")
     print(f"[taxonomy] wrote {len(rows)} canonical judicial cases from {len(load_jsonl(ROSTER))} roster entries -> {OUT}")
+    print(f"           synced_titles={synced} -> {CASES}")
     counts = defaultdict(int)
     for row in rows:
         counts[row["classification_status"]] += 1

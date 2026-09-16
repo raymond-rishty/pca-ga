@@ -6,7 +6,7 @@
 
 | Year | Type | Title | Disposition |
 |------|------|-------|-------------|
-| 2006 | Judicial case | [Chastain v. Heritage](../cases/ga35_2007__2006-07.md) | out_of_order |
+| 2006 | Judicial case | [Michael Chastain v. Heritage Presbytery](../cases/ga35_2007__2006-07.md) | out_of_order |
 | 2008 | Judicial case | [Memorial of Central Carolina v. Louisiana](../cases/ga36_2008__2006-02.md) | other |
 | 2016 | Judicial case | [Thompson v. South Florida Presbytery](../cases/ga44_2016__2015-11.md) | sustained |
 | 2021 | Judicial case | [Gendy v. Central Florida Presbytery](../cases/ga48_2021__2019-13.md) | sustained |

@@ -553,7 +553,8 @@ def main():
             if not lookup and rowkey and any(rowkey <= ck for ck in ga_keys.get(ga, []) if ck):
                 continue                      # numberless row whose parties match an extracted case
             vol = ord2vol.get(str(ga))
-            who = md_escape(r["parties"] or r["title"] or "")[:80]
+            canonical = judicial_by_id.get(lookup or "")
+            who = md_escape((canonical or {}).get("title") or r["parties"] or r["title"] or "")[:80]
             shown = md_escape(num) or (lookup or "")
             mapped = pages_map.get(lookup or "")
             stub = stub_pages.get(lookup or "")
