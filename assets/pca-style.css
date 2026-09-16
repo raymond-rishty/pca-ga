@@ -944,7 +944,8 @@ textarea:focus-visible {
 .judicial-year { scroll-margin-top:calc(var(--topbar-h) + 1rem); }
 .judicial-year h2 { margin:2.5rem 0 .4rem; font:500 1.7rem/1.2 var(--serif); }
 .judicial-case { position:relative; padding:1.4rem 0 1.7rem; border-top:1px solid var(--parch-deep); }
-.judicial-case__header { display:flex; justify-content:space-between; gap:1rem; }
+.judicial-case__header { display:flex; align-items:flex-start; justify-content:flex-start; gap:0; }
+.judicial-case__header > div:first-child { min-width:0; max-width:calc(100% - 3.75rem); flex:0 1 auto; }
 .judicial-case__docket { margin:0 0 .3rem; color:var(--ink-muted); font-size:.85rem; }
 .judicial-case__docket code { color:var(--ink); font-weight:700; }
 .judicial-case h3 { margin:0; font:500 1.45rem/1.25 var(--serif); }
@@ -967,7 +968,7 @@ textarea:focus-visible {
 .judicial-details dt { color:var(--ink-muted); font:500 .72rem var(--sans); letter-spacing:.08em; text-transform:uppercase; }
 .judicial-details dd { margin:.2rem 0 0; font-size:.94rem; }
 .judicial-review-status { color:#8b4c1c; font-size:.85rem; }
-.judicial-actions { position:relative; flex:0 0 auto; }
+.judicial-actions { position:relative; flex:0 0 auto; margin-left:.75rem; padding-top:1.55rem; }
 .judicial-actions__button { width:44px; height:44px; border:1px solid transparent; border-radius:50%; color:var(--ink-muted); font-size:1.55rem; line-height:1; }
 .judicial-actions__button:hover, .judicial-actions__button[aria-expanded="true"] { border-color:var(--parch-deep); background:var(--parch-mid); color:var(--ink); }
 .judicial-actions__menu { position:absolute; right:0; z-index:10; min-width:190px; padding:.35rem; border:1px solid var(--parch-deep); border-radius:var(--radius); background:var(--parch); box-shadow:0 8px 22px rgba(27,38,64,.14); }
@@ -980,6 +981,8 @@ textarea:focus-visible {
   .judicial-catalogue-tools label:nth-of-type(2), .judicial-catalogue-tools input, .judicial-catalogue-tools select, .judicial-catalogue-tools output { grid-column:1; grid-row:auto; }
   .judicial-details dl { grid-template-columns:1fr; }
   .judicial-case h3 { font-size:1.3rem; line-height:1.25; }
+  .judicial-case__header > div:first-child { max-width:calc(100% - 3.25rem); }
+  .judicial-actions { margin-left:.5rem; padding-top:1.35rem; }
   .judicial-case__docket { font-size:.8rem; line-height:1.4; }
   .judicial-case__summary { font-size:1rem; line-height:1.55; }
   .judicial-case__summary.is-collapsed { max-height:7.75em; overflow:hidden; }
