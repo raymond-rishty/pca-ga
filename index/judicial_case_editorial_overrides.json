@@ -116,6 +116,7 @@
     "summary_source": "reviewer_approval"
   },
   "1990-01": {
+    "title": "First Presbyterian Church of Rowlett, Texas v. North Texas Presbytery",
     "final_dispositions": [
       "not_sustained",
       "denied",
@@ -245,6 +246,7 @@
     "summary_source": "reviewer_approval"
   },
   "2008-09": {
+    "title": "Session of Red Mountain Presbyterian Church v. Evangel Presbytery",
     "final_dispositions": [
       "sustained",
       "reversed"
@@ -854,7 +856,7 @@
     "summary_source": "reviewer_approval"
   },
   "2011-16": {
-    "title": "Steven Hahn v. Philadelphia Metro West Presbytery (duplicate of Case 2011-15)",
+    "title": "Steven Hahn v. Philadelphia Metro West Presbytery",
     "summary": "Hahn challenged Presbytery’s refusal to appoint a prosecutor and institute process against Lisa Ridenour, RE Glen Ridenour, and TE Eric Huber. The SJC denied the complaint because Presbytery found BCO 31-8 applicable to Hahn’s accusations and found insufficient evidence of a strong presumption of guilt; the record showed no clear error. A separate concurrence agreed with the result but cautioned against implying that filing charges generally compels process, emphasizing a church court’s broader discretion to investigate and decline prosecution.",
     "outcome": "denied",
     "matter_type": "complaint",
@@ -920,6 +922,7 @@
     ]
   },
   "1983-03": {
+    "summary_review_status": "audited",
     "title": "James Hope v. Calvary Presbytery",
     "summary": "The SJC catalog records James Hope v. Calvary Presbytery as withdrawn before a merits decision. No opinion text has been located in the local case corpus.",
     "outcome": "abandoned",
@@ -927,6 +930,7 @@
     "summary_source": "official_catalog"
   },
   "1983-04": {
+    "summary_review_status": "audited",
     "title": "Finn v. Delmarva Presbytery",
     "summary": "The SJC catalog records Finn v. Delmarva Presbytery as withdrawn before a merits decision. No opinion text has been located in the local case corpus.",
     "outcome": "abandoned",
@@ -934,6 +938,7 @@
     "summary_source": "official_catalog"
   },
   "1983-05": {
+    "summary_review_status": "audited",
     "title": "Knight et al. v. St. Louis Presbytery",
     "summary": "The SJC catalog records Knight et al. v. St. Louis Presbytery as withdrawn before a merits decision. No opinion text has been located in the local case corpus.",
     "outcome": "abandoned",
@@ -941,6 +946,7 @@
     "summary_source": "official_catalog"
   },
   "1983-11": {
+    "summary_review_status": "audited",
     "title": "Morrison v. Philadelphia Presbytery",
     "summary": "The SJC catalog records Morrison v. Philadelphia Presbytery as withdrawn before a merits decision. No opinion text has been located in the local case corpus.",
     "outcome": "abandoned",
@@ -948,6 +954,7 @@
     "summary_source": "official_catalog"
   },
   "1985-01": {
+    "summary_review_status": "audited",
     "title": "Session of Faith Presbyterian Church, Akron, Ohio v. Ascension Presbytery",
     "summary": "The Session of Faith Presbyterian Church complained against Ascension Presbytery's alleged failure to comply with earlier Assembly directions concerning Kurt Lutjens. Although the Committee on Judicial Business recommended finding the complaint in order, the moderator ruled that motion out of order, and the Thirteenth General Assembly sustained the ruling; a dissent objected that the complaint had been timely filed.",
     "outcome": "out_of_order",
@@ -1143,6 +1150,7 @@
     "summary_review_status": "audited"
   },
   "2002-28": {
+    "summary_review_status": "audited",
     "title": "Gardiner v. North Georgia Presbytery",
     "summary": "The SJC catalog records Gardiner v. North Georgia Presbytery as judicially out of order, without a merits opinion. The local corpus contains no fuller decision text.",
     "outcome": "out_of_order",
@@ -1838,6 +1846,7 @@
     ]
   },
   "1980-02": {
+    "summary_review_status": "audited",
     "summary": "TE Rod Mays complained that New River Presbytery failed to address reported scandalous conduct by one of its ministers. The judicial commission sustained the specification of error by a 9-8 vote, explaining that required procedures concerning public offenses had not been followed, the responsible presbytery committee had not reported, and the proceedings had not been properly recorded.",
     "proceeding_type": "complaint",
     "outcome": "sustained",
@@ -2021,6 +2030,7 @@
     "summary_review_status": "audited"
   },
   "2001-35": {
+    "title": "Moon K. Ham et al. v. Korean Capital Presbytery",
     "summary": "A complaint that presented allegations to Presbytery, rather than challenging presbytery action or inaction, was ruled administratively out of order by the Standing Judicial Commission. The SJC did not reach the merits and granted no relief. The source is a short status ruling only.",
     "outcome": "out_of_order",
     "disposition_detail": "Allegations not presented in the form of a complaint against presbytery action under BCO 43-1",
@@ -2047,6 +2057,7 @@
     "summary_review_status": "audited"
   },
   "2007-06": {
+    "title": "Eliot Lee v. Korean Eastern Presbytery",
     "summary": "Lee challenged irregular Presbytery meetings, classification of his interim pastorate as stated supply, expiration of his term, and appointment of a Judicial Commission. Meeting-related concerns were moot or resolved by nullification; the SJC otherwise denied the complaint and affirmed Presbytery. No pastoral call had been approved or installation conducted, and BCO 22-6 limited the stated-supply relationship to one year absent renewal. The ruling approved only the Commission’s appointment, not its later actions, which remained subject to pending complaints.",
     "outcome": "denied",
     "disposition_detail": "Complaint denied; Korean Eastern Presbytery's decision affirmed",
@@ -2116,6 +2127,7 @@
     "summary_review_status": "audited"
   },
   "2011-11": {
+    "title": "Steven Hahn v. Philadelphia Metro West Presbytery",
     "summary": "Hahn challenged Presbytery’s ruling that CTKPC Session lawfully excluded him from that congregation’s worship until a psychiatric evaluation addressed safety concerns. The SJC denied the complaint. Applying BCO 39-3.3, it found no clear error in the lower courts’ credibility and discretionary judgments, given Session’s familiarity with the people and events. It characterized the restriction as informal pastoral safety guidance, not judicial discipline: it did not bar sacraments, worship elsewhere, or transfer, and attendance could resume upon medical assurance. The conditional local restriction therefore remained undisturbed.",
     "outcome": "denied",
     "disposition_detail": "Complaint denied; pastoral restriction and lower-court judgment affirmed",
@@ -2139,6 +2151,7 @@
     "summary_review_status": "audited"
   },
   "2011-12": {
+    "title": "Steven Hahn v. Philadelphia Metro West Presbytery",
     "summary": "Hahn appealed Presbytery’s guilty judgment and indefinite suspension from the sacraments, alleging trial irregularities, denial of a requested amendment, haste, and prejudice. The SJC denied the appeal on all three charges: false and unsubstantiated accusations, disobedience and disrespect toward church authorities, and a bitter and malignant spirit. Applying BCO 39-3.3, it deferred to Presbytery’s familiarity with the parties, witnesses, and extensive trial record and found no clear error, even though contrary evidence may have existed. The judgment and censure therefore remained undisturbed.",
     "outcome": "denied",
     "disposition_detail": "Appeal denied; disciplinary judgment affirmed because no clear error was shown",
@@ -2162,6 +2175,7 @@
     "summary_review_status": "audited"
   },
   "2011-15": {
+    "title": "Steven Hahn v. Philadelphia Metro West Presbytery",
     "summary": "Hahn challenged Presbytery’s refusal to institute process against three church members he had accused. The SJC denied his complaint because Presbytery found that BCO 31-8 applied to Hahn’s conduct and that the evidence did not create a strong presumption of guilt. Deferring to Presbytery absent clear error, the SJC left its refusal to appoint a prosecutor and commence process undisturbed. A concurrence agreed with the result but disputed the majority’s suggestion that filing charges generally requires process.",
     "outcome": "denied",
     "disposition_detail": "Complaint denied; refusal to institute process affirmed; concurring opinion recorded",
@@ -2217,6 +2231,7 @@
     "summary_review_status": "audited"
   },
   "2000-09": {
+    "title": "Sung Keon Kim v. Korean Capital Presbytery",
     "summary": "After Korean Capital Presbytery appointed a commission to suspend the functions of Korean Presbyterian Church Washington’s elected Session and replace them without prior congregational consent, TE Sung Keon Kim complained. The SJC sustained the complaint, holding that Presbytery violated Preliminary Principle Six and BCO 16-2, misread BCO 13-9, and impermissibly sought to act for the lower court. Relying on Chappell, it annulled the commission’s subsequent actions as the Session.",
     "outcome": "sustained",
     "disposition_detail": "Presbytery action and subsequent commission acts annulled for unauthorized replacement of the Session",
@@ -2241,6 +2256,7 @@
     ]
   },
   "2001-01": {
+    "title": "Charles Kim v. Korean Capital Presbytery",
     "summary": "The SJC addressed whether a presbytery and its administrative/judicial commission could suspend a local session and assume original jurisdiction over charges against a ruling elder. It answered no: original jurisdiction belonged to the session, and a presbytery cannot \"act for\" a lower court by replacing congregationally elected elders. Preliminary Principle Six, BCO 16-2, and BCO 31-1/33-1 controlled; the commission's interpretation of BCO 13-9 conflicted with those principles. The Presbytery's and Commission's actions, including the censure approved by Presbytery, were reversed.",
     "outcome": "sustained",
     "disposition_detail": "Presbytery and commission action reversed; original jurisdiction belonged to the local Session",
@@ -2264,6 +2280,7 @@
     "summary_review_status": "audited"
   },
   "2001-03": {
+    "title": "Sung Keon Kim v. Korean Capital Presbytery",
     "summary": "A minister suspended for five years after a default judgment of heresy and schism appealed to the SJC. The SJC sustained the appeal on procedural grounds, holding the judicial commission did not follow BCO 32 and 34: no indictment was served, and the record lacked minutes or evidence of a hearing. It remanded to Korean Capital Presbytery for a new trial. The SJC expressly did not reach the merits, the adequacy of the citations, or whether default judgment is proper.",
     "outcome": "sustained",
     "disposition_detail": "Procedural error sustained; remanded for a new trial under BCO 32 and 34",
@@ -2312,6 +2329,7 @@
     "summary_review_status": "audited"
   },
   "2001-07": {
+    "title": "Andy Lee v. Korean Capital Presbytery",
     "summary": "A complaint challenged Presbytery’s suspension of a church Session and installation of a commission to perform Session functions without prior congregational consent. The SJC sustained the complaint and annulled all subsequent commission actions as the Session insofar as the commission was improperly constituted. Presbytery could not suspend elected officers and replace them without prior consent; later recognition could not cure the defect. The SJC also rejected Presbytery’s objection that a related appeal barred the complaint because the cases presented fundamentally different issues.",
     "outcome": "sustained",
     "disposition_detail": "Both specifications sustained; intervention and subsequent commission acts annulled",
@@ -2336,6 +2354,7 @@
     "summary_review_status": "audited"
   },
   "2001-09": {
+    "title": "Charles Kim v. Korean Capital Presbytery",
     "summary": "On appeal from an excommunication, the SJC held that Korean Capital Presbytery and its special judicial commission were not the proper court of original jurisdiction to adjudicate charges against a communicant member. Because original jurisdiction belonged to the local session, the Presbytery/commission proceedings against the member were unconstitutional and reversed. The ruling turned only on jurisdiction; it did not decide the truth of the schism and contumacy charges. The excommunication therefore could not stand on that record.",
     "outcome": "sustained",
     "disposition_detail": "Presbytery and commission action reversed for lack of original jurisdiction",
@@ -2382,6 +2401,7 @@
     "summary_review_status": "audited"
   },
   "2001-12": {
+    "title": "Peter Lee v. Korean Capital Presbytery",
     "summary": "The SJC sustained Deacon Peter Lee’s appeal from Korean Capital Presbytery’s censure and reversed the Presbytery and its special judicial commission for adjudicating charges that belonged to the local Session. Lee, a communicant member, had been suspended from the sacraments for five years after the commission found contumacy and a false statement; Presbytery approved. The SJC held that original jurisdiction over a member’s judicial action or censure rests with the Session, not Presbytery or its commission. The reversal was jurisdictional and did not decide the underlying charges.",
     "outcome": "sustained",
     "disposition_detail": "Presbytery and commission action reversed for lack of original jurisdiction",
@@ -2405,6 +2425,7 @@
     ]
   },
   "2001-14": {
+    "title": "Moon K. Ham v. Korean Capital Presbytery",
     "summary": "Ruling Elder Moon K. Ham appealed to the SJC after Korean Capital Presbytery approved a Special Judicial Commission's guilty findings for contumacy, church division/destruction, and a false statement, imposing indefinite suspension from the sacraments (called excommunication in the appeal). The SJC sustained the appeal and reversed Presbytery's and the Commission's actions. Because Ham was a church member, the Session, not Presbytery or its commission, was the proper court of original jurisdiction. The ruling did not remand, acquit, or address the merits.",
     "outcome": "sustained",
     "disposition_detail": "Excommunication and related lower-court action reversed for lack of original jurisdiction",
@@ -2428,6 +2449,7 @@
     ]
   },
   "2001-19": {
+    "title": "Sung Keon Kim v. Korean Capital Presbytery",
     "summary": "On appeal from a minister’s deposition in a conflicted Korean Capital Presbytery church, the SJC asked whether the commission followed BCO procedures in instituting and conducting judicial process. It sustained the appeal, holding that no indictment appears to have been served and the record lacked minutes showing a trial, contrary to BCO 32-3’s writing, indictment, and service requirements. The SJC remanded to Presbytery for a new trial under BCO 32 and 34. It expressly did not rule on the adequacy of the citations or the merits.",
     "outcome": "sustained",
     "disposition_detail": "Procedural error sustained; deposition matter remanded for a new trial under BCO 32 and 34",
@@ -2484,6 +2506,7 @@
     ]
   },
   "2007-04": {
+    "title": "Stephen P. Engel v. Evangel Presbytery",
     "summary": "A member challenged Presbytery’s refusal to decide his guilt or innocence and its failure to return charges after his Session suspended him from the sacraments without trial or confession. The SJC sustained the complaint on the remand issue: rescission of the censure did not dispose of pending charges, so Presbytery had to rehear the complaint and require the Session either to institute proper process or dismiss them. It declined to determine guilt without a trial record and rejected the claim that the censure’s prescribed form willfully took the Lord’s name in vain.",
     "outcome": "sustained",
     "disposition_detail": "Complaint sustained in part on remand duty; matter returned for proper process or dismissal under BCO 42-9",
@@ -2771,6 +2794,7 @@
     "summary_review_status": "audited"
   },
   "2016-13": {
+    "summary_review_status": "audited",
     "proceeding_type": "complaint",
     "outcome": "dismissed",
     "disposition_detail": "Complaint dismissed as moot, 13-6",
@@ -2870,6 +2894,7 @@
     "summary_source": "reviewer_approval"
   },
   "1978-02": {
+    "title": "Luther L. Allin Jr. et al. v. Tennessee Valley Presbytery",
     "summary": "Session members challenged Presbytery’s order to hold a congregational meeting on officer rotation and its handling of the complaint hearing. The Judicial Commission held that ten days ran from the notice’s postmark and that Bristow and Pastor Vitullo could not participate as members of the reviewing court. It nevertheless upheld Presbytery’s authority to require the meeting: a sufficient petition left the Session no option to refuse, while the congregation retained authority to decide rotation. The complaint was sustained in part and remanded for a properly noticed hearing.",
     "matter_type": "complaint",
     "final_dispositions": [
@@ -2967,6 +2992,7 @@
     "summary_source": "reviewer_approval"
   },
   "1988-09": {
+    "title": "Morrison et al. v. Philadelphia Presbytery",
     "summary": "Philadelphia Presbytery treated a letter as a complaint although it had not first been filed with the Session, judged the Session without proper process, and asked its clerk to facilitate membership transfers despite the Session's authority over dismissal letters. Those and a constitutional-limits specification were sustained; claims that Presbytery neglected underlying questions and acted for the Session were not. The March 12 actions were annulled, specified language expunged, and Presbytery directed to adopt safeguards for constitutional inquiries and review relevant church-law materials.",
     "matter_type": "complaint",
     "final_dispositions": [
@@ -3043,6 +3069,7 @@
     "summary_source": "reviewer_approval"
   },
   "1995-11": {
+    "title": "James Landrum v. Mississippi Valley Presbytery",
     "summary": "Complainants challenged Mississippi Valley Presbytery’s approval of James Blaha’s ordination examination, arguing that his views on tongues and prophecy were constitutional exceptions and precluded approval. The SJC agreed that Presbytery should have acknowledged and noted the exceptions, but upheld the examination. It found no proof that Blaha’s denial that the gifts conveyed revelation crossed prior Assembly limits and deferred to Presbytery on an unsettled issue. It expressly declined reexamination or remand; a substantial partial dissent would have set the examination aside.",
     "matter_type": "complaint",
     "final_dispositions": [
@@ -3062,6 +3089,7 @@
     "summary_source": "reviewer_approval"
   },
   "1997-04": {
+    "title": "Nancy A. Conrad et al. v. Central Carolina Presbytery",
     "summary": "After a Session corrected an earlier unauthorized removal from its rolls, then formally voted to remove the same members, the members challenged Presbytery's denial of their complaint, arguing that the new removal defied the prior decision. The SJC upheld Presbytery's action. It concluded that the record showed no unconstitutional procedure or BCO violation and that it could consider only facts properly in the record, not material from earlier cases offered in oral argument. The ruling left the later membership removal undisturbed.",
     "matter_type": "appeal",
     "final_dispositions": [
@@ -3126,6 +3154,7 @@
     "summary_source": "reviewer_approval"
   },
   "2001-34": {
+    "title": "Nichols and Couch v. James River Presbytery",
     "summary": "Church members challenged Presbytery’s repeated delay in granting a properly adopted congregational request to dissolve its pastoral relationship and its gift equivalent to three months of the pastor’s compensation. The SJC found seven complaints judicially out of order, sustained the dissolution-delay challenge, and rejected the gift challenge because Presbytery controlled its own civil property. No further relief was ordered. A concurrence would permit delay based on objective, justifiable findings, but concluded that Presbytery’s stated grounds were insufficient.",
     "matter_type": "complaint",
     "final_dispositions": [
@@ -3146,6 +3175,7 @@
     "summary_source": "reviewer_approval"
   },
   "2002-02": {
+    "title": "Nichols and Couch v. James River Presbytery",
     "summary": "Three complaints arising from Presbytery’s treatment of Session actions toward its pastor were judicially out of order. Complaints 10-01 and the unnumbered complaint were filed directly with the SJC without first being presented to James River Presbytery, contrary to BCO 43-2. Complaint 13-01 challenged an action never taken because the motion was ruled out of order. The SJC did not reach their merits. The combined decision’s pastoral-dissolution and benevolent-gift rulings concerned the other consolidated cases, not Case 2002-02.",
     "matter_type": "complaint",
     "final_dispositions": [
@@ -3155,6 +3185,7 @@
     "summary_source": "reviewer_approval"
   },
   "2002-03": {
+    "title": "Nichols and Couch v. James River Presbytery",
     "summary": "Ruling elders challenged James River Presbytery’s delay in honoring West End’s valid congregational vote to dissolve its pastoral relationship and a three-month salary gift to the pastor. The SJC held that Presbytery lacked a constitutional basis to delay the dissolution, but rejected the challenge to its benevolent use of its own civil funds. Complaints 16-01, 18-01, and 19-01 were judicially out of order; the others were in order. No remand or repayment was ordered. A concurrence cautioned that prompt dissolution is not automatic when objective, justifiable findings support refusal.",
     "matter_type": "complaint",
     "final_dispositions": [
@@ -3183,6 +3214,7 @@
     "summary_source": "reviewer_approval"
   },
   "2003-01": {
+    "title": "Mark Chavalas v. Northern Illinois Presbytery",
     "summary": "Chavalas appealed a Northern Illinois Presbytery judgment, but testimony cited by both parties was missing from the record. Because recording-machine failures made the required transcripts unavailable and Presbytery could not cure the defect, the SJC found the appeal judicially out of order, dismissed it under SJC Manual 11.6, and suspended Presbytery’s judgment under BCO 42-7. Chavalas’s later resignation did not abandon the appeal because he had appealed beforehand after a regular trial; no rebuke was issued.",
     "matter_type": "appeal",
     "final_dispositions": [
@@ -3455,6 +3487,7 @@
     "summary_source": "reviewer_approval"
   },
   "2009-11": {
+    "title": "Larry Edison et al. v. Southwest Florida Presbytery",
     "summary": "Ministers complained that Southwest Florida Presbytery improperly reexamined Bryan Gregory and reversed his examination, membership, and call after previously receiving him. The SJC upheld Presbytery’s authority to hear and sustain the earlier complaint but sustained the present complaint on the remedial actions. Sustaining a complaint did not itself undo prior acts; once Presbytery had treated Gregory as a member, his membership rights could be removed only through disciplinary due process. The SJC annulled the reexamination and March 24 actions and directed Presbytery to consider appropriate remedies. Gregory’s theology was not before it.",
     "matter_type": "complaint",
     "final_dispositions": [
@@ -3540,6 +3573,7 @@
     "summary_source": "reviewer_approval"
   },
   "2010-17": {
+    "title": "David M. Sarafolean Request to Cite Siouxlands Presbytery",
     "summary": "TE David M. Sarafolean requested that the General Assembly and SJC cite Siouxlands Presbytery under BCO 40-4 and 40-5. The SJC report records the request as administratively out of order without explaining the defect or deciding the underlying allegations.",
     "matter_type": "bco_40_5_matter",
     "final_dispositions": [
@@ -3698,6 +3732,7 @@
     "summary_source": "reviewer_approval"
   },
   "2012-08": {
+    "title": "Art Sartorius et al. v. Siouxlands Presbytery",
     "summary": "Teaching and ruling elders challenged Presbytery’s approval of TE Gregory Lawrence’s acquittal on five doctrinal charges. The SJC sustained the complaint on procedural grounds: the trial commission relied on his post-indictment exculpatory writings while he declined to testify, depriving the prosecution of cross-examination. The SJC ordered a new trial on the same indictment under specified evidentiary procedures. Because this was a complaint rather than an appeal, it did not reverse the acquittals into findings of guilt or decide the doctrinal merits.",
     "matter_type": "appeal",
     "final_dispositions": [
@@ -3858,6 +3893,7 @@
     "summary_source": "reviewer_approval"
   },
   "2017-09": {
+    "title": "BCO 40-5 Report of RE John B. Thompson",
     "summary": "The 46th General Assembly ruled the BCO 40-5 report of RE John B. Thompson out of order. The published record does not describe the report’s allegations, specify an administrative or judicial subtype, or provide reasons or a separate merits opinion.",
     "matter_type": "bco_40_5_matter",
     "final_dispositions": [
@@ -3950,6 +3986,7 @@
     "summary_source": "reviewer_approval"
   },
   "2020-09": {
+    "title": "Sean Ozbalt and Erin Barr v. Pacific Presbytery",
     "summary": "Pacific Crossroads Church’s Session challenged Presbytery’s handling of a minister’s BCO 38-1 confession, particularly its hearing an adverse investigative report outside the agreed statement before imposing deposition. The SJC sustained Case 2020-09 by reference to its consolidated decision and annulled the deposition: BCO 38-1 permits censure to rest only on the mutually approved statement, not additional adverse material. It recommended treating the elapsed 17 months as definite suspension and closing the matter. The minister returned to good standing without call; dissolution of his call remained intact.",
     "matter_type": "complaint",
     "final_dispositions": [
@@ -4435,6 +4472,7 @@
     ]
   },
   "2001-11": {
+    "title": "Byung Han Yoo v. Korean Northwest Presbytery",
     "summary": "A ruling elder's complaint against Korean Northwest Presbytery was found out of order because it was untimely under BCO 43-2. The action complained of was taken October 10, 2000, but the complaint was filed March 12, 2001, well outside the 30-day filing period, so the SJC reached no merits question. The case illustrates that a complaint failing BCO 43-2 timeliness is dismissed without adjudication of the underlying presbytery action.",
     "summary_review_status": "audited",
     "summary_source": "reviewer_approval",
@@ -4445,6 +4483,7 @@
     ]
   },
   "2001-13": {
+    "title": "Samuel Hong v. Korean Capital Presbytery",
     "summary": "Deacon Samuel Hong appealed after Korean Capital Presbytery's special judicial commission convicted him of contumacy and making a false statement and imposed a two-year suspension from the sacraments. The SJC sustained the appeal, holding that original jurisdiction over charges against a communicant member belongs to the local Session, not Presbytery or its commission, and reversed the Presbytery/commission actions. The SJC did not decide the underlying charges; the reversal was jurisdictional, not an acquittal. One recorded dissent gave no reasons.",
     "summary_review_status": "audited",
     "summary_source": "reviewer_approval",
@@ -4455,6 +4494,7 @@
     ]
   },
   "2001-15": {
+    "title": "In Mo Chung v. Korean Capital Presbytery",
     "summary": "The SJC decided whether a presbytery and its special judicial commission could assume original jurisdiction over disciplinary charges against a church member. It sustained the appeal and reversed: the court of original jurisdiction for communicant members is the local church session. Because the appellant was a member of Korean Presbyterian Church of Washington, the presbytery and its commission acted contrary to constitutional standards when they adjudicated the charges and imposed excommunication. The ruling rested on jurisdiction, not the merits; no remand was ordered.",
     "summary_review_status": "audited",
     "summary_source": "reviewer_approval",
@@ -4465,6 +4505,7 @@
     ]
   },
   "2001-16": {
+    "title": "Joo Bok Suh v. Korean Capital Presbytery",
     "summary": "In this SJC appeal, RE Joo Bok Suh challenged Korean Capital Presbytery's excommunication after its special judicial commission, rather than his local session, received and adjudicated charges that he had committed contumacy and made a false statement in a civil-court filing. The SJC sustained the appeal and reversed the Presbytery/commission action because the court of original jurisdiction over a communicant member is the local session. The reversal was jurisdictional; the SJC did not rule on the truth of the charges, so it was not an acquittal.",
     "summary_review_status": "audited",
     "summary_source": "reviewer_approval",
@@ -4475,6 +4516,7 @@
     ]
   },
   "2001-17": {
+    "title": "Choon Soon Lee v. Korean Capital Presbytery",
     "summary": "Korean Capital Presbytery approved a three-year suspension from the sacraments after its special judicial commission found RE Choon Soon Lee guilty of contumacy and making a false statement on a civil-court document. On appeal, the SJC sustained and reversed. Because Lee was a communicant member, the Session—not Presbytery or its commission—was the court of original jurisdiction; the commission's adjudication therefore violated constitutional standards. The SJC did not decide the underlying charges, and one commissioner dissented.",
     "summary_review_status": "audited",
     "summary_source": "reviewer_approval",
@@ -4485,6 +4527,7 @@
     ]
   },
   "2001-18": {
+    "title": "Sang Soo Ryoo v. Korean Capital Presbytery",
     "summary": "The SJC sustained an assistant pastor’s appeal from a three-year suspension from the sacraments after a Korean Capital Presbytery commission found him guilty of participating in the call of an allegedly unconstitutional presbytery meeting. The decisive defect was procedural: no indictment was served, no prosecutor was clearly appointed, and no trial minutes appeared in the record; service of an indictment with a witness list was critical. The case was remanded for a new trial, and the SJC expressly did not reach the merits or citation adequacy.",
     "summary_review_status": "audited",
     "summary_source": "reviewer_approval",
@@ -4495,6 +4538,7 @@
     ]
   },
   "2001-24": {
+    "title": "Keith A. Williams v. Eastern Carolina Presbytery",
     "summary": "A complaint by Keith A. Williams against Eastern Carolina Presbytery was withdrawn. The 30th Assembly's 2002 record lists it among withdrawn cases, and the stub identifies the Standing Judicial Commission as the court. No separate merits opinion was published; the source does not describe the challenged presbytery action, any issue-level ruling, or any adopted reason. The only usable information is the procedural disposition.",
     "summary_review_status": "audited",
     "summary_source": "reviewer_approval",
@@ -4504,6 +4548,7 @@
     ]
   },
   "2001-25": {
+    "title": "Anthony Dallison v. North Florida Presbytery",
     "summary": "After TE Anthony Dallison confessed spousal abuse and received an indefinite suspension, North Florida Presbytery later found him impenitent and deposed him and suspended him from the sacraments. Dallison complained that increasing the censure required fresh charges and trial. The SJC disagreed: his BCO 38-1 confession waived trial rights as to the original charge; the offender then had to satisfy the court of repentance, and the presbytery could investigate and impose higher censure under BCO 37-3, 37-4, 37-8, and 34-4b. The complaint was not sustained.",
     "summary_review_status": "audited",
     "summary_source": "reviewer_approval",
@@ -4514,6 +4559,7 @@
     ]
   },
   "2001-28": {
+    "title": "Larry Ball v. Westminster Presbytery",
     "summary": "A complaint challenged Westminster Presbytery's denial of a challenge to its May 15, 2001 plan to withdraw from the PCA. The SJC answered no: the Presbytery did not err, and denied the complaint. BCO 25's local-church withdrawal right and the BCO Preface's grassroots principles extend to presbyteries unless expressly excluded, so a presbytery may determine its own membership and affiliation. The plan did not 'act for' local churches; they retained rights to remain in the PCA or leave, and retained property and internal operations.",
     "summary_review_status": "audited",
     "summary_source": "reviewer_approval",
@@ -4579,6 +4625,7 @@
     ]
   },
   "2002-15": {
+    "title": "Walter Bjorck v. Northern New England Presbytery",
     "summary": "This sparse record disposes of TE Walter Bjorck's complaint against Northern New England Presbytery as out of order; no merits opinion or reason for that ruling is published. The same minute entry also records that a request that the SJC accept and act upon the judicial reference in Case 2002-04 was not acceded to. It therefore documents only a procedural status, not the complaint's substance or the basis for the ruling.",
     "summary_review_status": "audited",
     "summary_source": "reviewer_approval",
@@ -4588,6 +4635,7 @@
     ]
   },
   "2003-04": {
+    "title": "Dr. and Mrs. Frank Chin v. Covenant Presbytery",
     "summary": "The Chins complained to the SJC after Covenant Presbytery denied their complaint against Covenant Presbyterian Church Session's refusal to examine their young children for admission to the Lord's Supper. The SJC did not sustain the complaint. Its adopted reasoning held that BCO 57-2 leaves the time for examining young persons to the Session's prudence and imposes no mandate to examine every child put forward; if the Session decides the time has come, careful examination is required. The dissent read BCO 57-1 as requiring examination of covenant children seeking admission.",
     "summary_review_status": "audited",
     "summary_source": "reviewer_approval",
@@ -4597,6 +4645,7 @@
     ]
   },
   "2004-02": {
+    "title": "Nancy J. Plowman v. Philadelphia Presbytery",
     "summary": "A member suspended from the Lord's Table appealed after Presbytery let the Session resume her trial and failed to lift all suspensions. The SJC sustained the appeal, finding the Session's premature censure, truncated trial, and prosecutor-judge conflict manifested prejudice and made a fair trial impossible. It set aside all judgments and censures, treated the November 13, 2003 communion letter as non-censuring advice, and did not remand.",
     "summary_review_status": "audited",
     "summary_source": "reviewer_approval",
@@ -4606,6 +4655,7 @@
     ]
   },
   "2004-03": {
+    "title": "Tim J. Harris v. Heritage Presbytery",
     "summary": "A church member challenged Heritage Presbytery's ruling that the BCO neither expressly nor implicitly requires a congregation to approve changes in a pastor's call, and that it does not require the session to publicize budget details. The SJC held the BCO silent on both points: once the original call and terms are approved, later changes are budgetary and belong to the session under BCO 12-5b; publicizing the budget is prudent but not mandated. The complaint was not sustained; seven commissioners dissented, arguing congregational approval follows by good and necessary consequence.",
     "summary_review_status": "audited",
     "summary_source": "reviewer_approval",
@@ -4633,6 +4683,7 @@
     ]
   },
   "2004-09": {
+    "title": "Scott Robar v. Central Carolina Presbytery",
     "summary": "The SJC found RE Scott Robar's appeal from Central Carolina Presbytery judicially out of order and dismissed it because he filed his notice of appeal only with Presbytery's stated clerk, not also with the General Assembly's stated clerk as BCO 42-4 requires. No merits review of his conviction occurred. Four commissioners dissented, arguing that the presbytery clerk's admittedly incorrect advice, Robar's reliance, and Presbytery's request to treat the appeal as timely should excuse the filing defect under the Plowman precedent and equity or estoppel principles.",
     "summary_review_status": "audited",
     "summary_source": "reviewer_approval",
@@ -4652,6 +4703,7 @@
     ]
   },
   "2006-07": {
+    "title": "Michael Chastain v. Heritage Presbytery",
     "summary": "Chastain appealed Heritage Presbytery’s 2006 excommunication and deposition. The SJC held the appeal judicially out of order because Chastain had renounced PCA jurisdiction on May 8, 2006. Consequently, Presbytery’s later proceedings were moot and SJC 2005-1 remained in effect. The SJC did not reach the merits. A concurrence questioned the discipline process after renunciation; a dissent argued the majority lacked constitutional authority to recognize unilateral withdrawal and thereby undercut discipline.",
     "summary_review_status": "audited",
     "summary_source": "reviewer_approval",
@@ -5162,6 +5214,7 @@
     ]
   },
   "2017-08": {
+    "title": "BCO 40-5 Report of RE John B. Thompson",
     "summary": "The SJC ruled out of order a BCO 40-5 report submitted by RE John B. Thompson, disposing of it without a separate merits opinion. The available record states no reason for the ruling and identifies no relief or further proceeding; it establishes only the out-of-order disposition, not the underlying dispute or any governing principle.",
     "summary_review_status": "audited",
     "summary_source": "reviewer_approval",

@@ -7,7 +7,7 @@
 | Year | Type | Title | Disposition |
 |------|------|-------|-------------|
 | 1999 | Judicial case | [Lebo v. Susquehanna Valley Presbytery](../cases/ga27_1999__1997-17.md) | denied |
-| 2004 | Judicial case | [Harris v. Heritage Presbytery](../cases/ga33_2005__2004-03.md) | not_sustained |
+| 2004 | Judicial case | [Tim J. Harris v. Heritage Presbytery](../cases/ga33_2005__2004-03.md) | not_sustained |
 
 ## Medium authority
 

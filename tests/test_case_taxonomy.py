@@ -358,3 +358,63 @@ def test_assembly_index_preserves_full_canonical_summary_but_limits_fallback():
     compact = MARKDOWN_INDEX_MODULE.canonical_summary({}, fallback)
     assert compact.endswith("…")
     assert len(compact) <= 321
+
+
+def test_public_case_titles_exclude_roster_metadata_and_procedural_labels():
+    json = __import__("json")
+    rows = [
+        json.loads(line)
+        for line in (ROOT / "index" / "judicial_cases.jsonl").read_text(encoding="utf-8").splitlines()
+        if line.strip()
+    ]
+    bad = re.compile(
+        r"(?:\bM\d+GA\b|\bSummary:|\bIssues?:|\b(?:Completed|Withdrawn),|"
+        r"\b(?:Ruled|Found) (?:Administratively |Judicially )?Out of Order|"
+        r"^(?:Appeal|Complaint|Case\s+\d|Judicial Case)\b)",
+        re.IGNORECASE,
+    )
+    assert not [(row["case_id"], row["title"]) for row in rows if bad.search(row["title"])]
+
+    headings = [
+        path.read_text(encoding="utf-8").splitlines()[0]
+        for path in (ROOT / "cases").glob("*.md")
+    ]
+    captions = [re.sub(r"^#\s+(?:\S+\s+—\s+)?", "", heading) for heading in headings]
+    assert not [(heading, caption) for heading, caption in zip(headings, captions) if bad.search(caption)]
+
+
+def test_reported_malformed_titles_have_canonical_captions():
+    json = __import__("json")
+    canonical = {
+        row["case_id"]: row["title"]
+        for line in (ROOT / "index" / "judicial_cases.jsonl").read_text(encoding="utf-8").splitlines()
+        if line.strip()
+        for row in [json.loads(line)]
+    }
+    assert canonical["2001-25"] == "Anthony Dallison v. North Florida Presbytery"
+    assert canonical["2002-02"] == "Nichols and Couch v. James River Presbytery"
+    assert canonical["2002-15"] == "Walter Bjorck v. Northern New England Presbytery"
+    assert canonical["2010-17"] == "David M. Sarafolean Request to Cite Siouxlands Presbytery"
+    assert canonical["2020-09"] == "Sean Ozbalt and Erin Barr v. Pacific Presbytery"
+
+
+def test_assembly_index_does_not_repeat_robar_for_numberless_rows():
+    index = (ROOT / "index" / "CASES.md").read_text(encoding="utf-8")
+    caption = "APPEAL OF RE SCOTT ROBAR VS. CENTRAL CAROLINA PRESBYTERY"
+    assert index.count(caption) == 1
+
+
+def test_derived_case_titles_do_not_repeat_court_names():
+    repeated = re.compile(
+        r"\b(Presbytery|Session|Assembly|Commission|Committee)\s+\1\b",
+        re.IGNORECASE,
+    )
+    paths = [ROOT / "index" / "CASES-BY-PROVISION.md"]
+    paths.extend((ROOT / "authorities").glob("*.md"))
+    matches = [
+        (path.relative_to(ROOT), line_number, match.group(0))
+        for path in paths
+        for line_number, line in enumerate(path.read_text(encoding="utf-8").splitlines(), start=1)
+        if (match := repeated.search(line))
+    ]
+    assert not matches
