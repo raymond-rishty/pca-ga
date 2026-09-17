@@ -81,9 +81,15 @@ def esc(value):
     return html.escape(str(value or ""), quote=True)
 
 
+SITE_BASEURL = "/pca-ga"
+
+
 def case_href(row):
     if row.get("case_page"):
-        return f"../cases/{row['case_page']}.md"
+        # This catalogue is also previewed from the site root.  A parent-relative
+        # link therefore drops GitHub Pages' /pca-ga base path; use the deployed
+        # path explicitly and point at the rendered case page.
+        return f"{SITE_BASEURL}/cases/{row['case_page']}.html"
     return row.get("official_pdf_url") or ""
 
 
