@@ -141,21 +141,43 @@
     return window.matchMedia?.('(prefers-reduced-motion: reduce)').matches ? 'auto' : 'smooth';
   }
 
+  function compactCaseTitle(value) {
+    let text = String(value || '').replace(/^\s*(?:Case\s+)?\d{4}-\d+[a-z]?\s*[—-]\s*/i, '').replace(/\s+Presbytery\b/gi, '').trim();
+    const parts = text.split(/\s+v(?:s?\.)?\s+/i);
+    if (parts.length !== 2) return text;
+    const party = (value) => {
+      let item = value.trim().replace(/^\s*(?:TE|RE|Rev\.?|Elder)\s+/i, '');
+      if (/\b(?:Session|Church|PCA|Presbytery)\b/i.test(item)) return item;
+      return item.split(/\s+(?:and|&)\s+/i).map((piece) => {
+        const suffix = /\bet\.?\s+al\.?\s*$/i.test(piece) ? ' et al.' : '';
+        const clean = piece.replace(/\s+et\.?\s+al\.?\s*$/i, '').trim();
+        const words = clean.split(/\s+/);
+        return `${words.length > 1 ? words[words.length - 1] : clean}${suffix}`;
+      }).join(' and ');
+    };
+    const respondent = parts[1].replace(/\bMetropolitan New York\b/ig, 'Metro NY').replace(/\bPresbytery\b/ig, '').trim();
+    return `${party(parts[0])} v. ${respondent}`;
+  }
+
   function sourceCitation(header) {
-    const title = header.querySelector('h1')?.textContent.trim() || `Judicial Case ${header.dataset.case}`;
+    const rawTitle = header.querySelector('h1')?.textContent.trim() || `Judicial Case ${header.dataset.case}`;
+    const title = compactCaseTitle(rawTitle);
     const source = header.querySelector('.record-header__content p:last-child')?.textContent || '';
     const pages = source.match(/pp?\.\s*(\d+)(?:\s*[–-]\s*(\d+))?/i);
     const ga = header.dataset.ga;
-    const range = pages ? `M${ga}GA ${pages[2] ? `pp.${pages[1]}–${pages[2]}` : `p.${pages[1]}`}` : `${ga}th General Assembly`;
+    const range = pages ? `M${ga}GA ${pages[2] ? `pp. ${pages[1]}–${pages[2]}` : `p. ${pages[1]}`}` : `${ga}th General Assembly`;
     const url = pageUrl();
+    const docket = header.dataset.case;
+    const short = docket ? `${docket} ${title}` : range;
+    const full = docket ? `Case ${docket}: ${title}, ${range.replace(/^M(\d+GA)\s*/, 'M$1, ')}` : `${title} — ${range}`;
     return {
       id: url,
       url,
       title,
       type: 'Judicial case',
-      short: range,
-      full: `${title} — ${range}. ${url}`,
-      markdown: `[${title}](${url}) — ${range}.`,
+      short,
+      full,
+      markdown: `[${full}](${url})`,
     };
   }
 
@@ -685,13 +707,15 @@
       if (!action || !record) return;
       const title = record.querySelector('h3')?.textContent.trim() || 'Judicial case';
       const url = new URL(record.querySelector('h3 a, .judicial-case__rail a')?.href || `#${record.id}`, location.href).href;
-      const id = url; const short = `${record.querySelector('.judicial-case__docket code')?.textContent || ''} — ${title}`;
+      const id = url;
+      const short = record.dataset.judicialShortCitation || `${record.querySelector('.judicial-case__docket code')?.textContent || ''} ${compactCaseTitle(title)}`.trim();
+      const full = record.dataset.judicialFullCitation || `Case ${short}`;
       if (action.dataset.judicialAction === 'save') {
         const saved = store?.toggleSaved({ id, url, title, type: 'Judicial case', short, citation: short });
         const state = record.querySelector('[data-judicial-saved]'); if (state) state.hidden = !saved;
         action.textContent = saved ? 'Remove from bookshelf' : 'Save to bookshelf'; showToast(saved ? 'Added to your bookshelf' : 'Removed from your bookshelf');
       } else if (action.dataset.judicialAction === 'link') { await copyText(url); showToast('Link copied'); }
-      else if (action.dataset.judicialAction === 'cite') { openCitation({ id, url, title, type: 'Judicial case', short, full: `${title}. ${short}. ${url}`, markdown: `[${title}](${url}) — ${short}.` }, action.closest('.judicial-actions__menu').previousElementSibling); }
+      else if (action.dataset.judicialAction === 'cite') { openCitation({ id, url, title, type: 'Judicial case', short, full, markdown: `[${full}](${url})` }, action.closest('.judicial-actions__menu').previousElementSibling); }
       action.closest('.judicial-actions__menu').hidden = true; action.closest('.judicial-actions__menu').previousElementSibling?.setAttribute('aria-expanded', 'false');
     });
     catalogue.addEventListener('keydown', (event) => {

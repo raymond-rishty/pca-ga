@@ -11,6 +11,7 @@ import argparse
 import html
 import json
 import os
+import re
 import sys
 from collections import Counter
 
@@ -104,6 +105,104 @@ def aliases(row):
     if row.get("minute_ids"):
         values.append("Minutes " + ", ".join(str(x) for x in row["minute_ids"]))
     return "; ".join(values) or "—"
+
+
+def citation_title(title):
+    """Return the compact party caption used in copied case citations.
+
+    The catalogue keeps the full editorial title in the heading, but copied
+    citations follow the convention used in the printed indexes: surnames and
+    presbytery names are enough to identify the case without repeating a long
+    caption.
+    """
+    text = re.sub(r"\s+Presbytery\b", "", str(title or ""), flags=re.I)
+    match = re.split(r"\s+v(?:s?\.)?\s+", text, maxsplit=1, flags=re.I)
+    if len(match) != 2:
+        return text.strip()
+
+    def party(value):
+        value = re.sub(r"^\s*(?:TE|RE|Rev\.?|Elder)\s+", "", value.strip(), flags=re.I)
+        value = re.sub(r"\s+et\.?\s+al\.\s*$", " et al.", value, flags=re.I)
+        if re.search(r"\b(?:Session|Church|PCA|Presbytery)\b", value, flags=re.I):
+            return value
+        pieces = re.split(r"\s+(?:and|&)\s+", value, flags=re.I)
+        compact = []
+        for piece in pieces:
+            suffix = " et al." if re.search(r"\bet\.?\s+al\.\s*$", piece, flags=re.I) else ""
+            piece = re.sub(r"\s+et\.?\s+al\.\s*$", "", piece, flags=re.I).strip()
+            words = piece.split()
+            compact.append((words[-1] if len(words) > 1 else piece) + suffix)
+        return " and ".join(compact)
+
+    respondent = match[1].strip()
+    respondent = re.sub(r"\bMetropolitan New York\b", "Metro NY", respondent, flags=re.I)
+    respondent = re.sub(r"\bPresbytery\b", "", respondent, flags=re.I).strip()
+    return f"{party(match[0])} v. {respondent}".strip()
+
+
+def citation_key(value):
+    match = re.fullmatch(r"(\d{4})-(\d+)([a-z]?)", str(value or "").strip(), flags=re.I)
+    if not match:
+        return str(value or "").strip().lower()
+    return f"{match.group(1)}-{int(match.group(2)):02d}{match.group(3).lower()}"
+
+
+def load_source_records(root):
+    """Load printed-page metadata from the legacy case index."""
+    path = os.path.join(root, "index", "cases.jsonl")
+    records = {}
+    if not os.path.exists(path):
+        return records
+    with open(path, encoding="utf-8") as source:
+        for line in source:
+            if not line.strip():
+                continue
+            try:
+                record = json.loads(line)
+            except json.JSONDecodeError:
+                continue
+            for key in (record.get("case_number"), record.get("case_id")):
+                if key:
+                    records.setdefault(citation_key(key), record)
+    return records
+
+
+def source_citation(row, source_records, root=None):
+    source = source_records.get(citation_key(row.get("case_id")), {})
+    page_volume = None
+    page_start = page_end = None
+    if root and row.get("case_page"):
+        case_path = os.path.join(root, "cases", f"{row['case_page']}.md")
+        if os.path.exists(case_path):
+            with open(case_path, encoding="utf-8") as case_file:
+                head = case_file.read(2500)
+            volume = re.search(r"\bga(\d+)_", row["case_page"], flags=re.I)
+            pages = re.search(r"\*Source:\s*\[[^\]]+\s+(pp?\.\s*\d+)(?:\s*[–-]\s*(\d+))?", head, flags=re.I)
+            if volume:
+                page_volume = int(volume.group(1))
+            if pages:
+                page_start = int(pages.group(1).split(".", 1)[1].strip())
+                page_end = int(pages.group(2)) if pages.group(2) else None
+    source_matches_page = (
+        source.get("printed_page_start")
+        and (not page_volume or source.get("ga_ordinal") == page_volume)
+    )
+    assembly = page_volume or row.get("assembly") or source.get("ga_ordinal")
+    if source_matches_page:
+        start = source.get("printed_page_start")
+        end = source.get("printed_page_end")
+    else:
+        start = page_start
+        end = page_end
+    start = start or source.get("printed_page_start")
+    end = end or source.get("printed_page_end")
+    if not assembly:
+        return ""
+    result = f"M{assembly}GA"
+    if start:
+        pages = f"p. {start}" if not end or end == start else f"pp. {start}–{end}"
+        result += f", {pages}"
+    return result
 
 
 def detail_pills(values, prefix=""):
@@ -209,6 +308,7 @@ def main(argv=None):
 
     with open(source_path, encoding="utf-8") as source:
         rows = [json.loads(line) for line in source if line.strip()]
+    source_records = load_source_records(root)
     rows.sort(key=lambda row: (-int(str(row.get("case_id") or row.get("roster_id") or "0").split("-")[0]) if str(row.get("case_id") or row.get("roster_id") or "0").split("-")[0].isdigit() else 0, row.get("case_id") or row.get("roster_id") or ""))
     statuses = Counter(row.get("classification_status") for row in rows)
     lines = [
@@ -256,6 +356,12 @@ def main(argv=None):
                 row["final_dispositions"] = candidate["final_dispositions"] or row.get("final_dispositions")
             docket = row.get("case_id") or row.get("roster_id") or "Unnumbered"
             title = row.get("title") or "Untitled case"
+            compact_title = citation_title(title)
+            source_ref = source_citation(row, source_records, root)
+            short_citation = f"{docket} {compact_title}".strip()
+            full_citation = f"Case {docket}: {compact_title}"
+            if source_ref:
+                full_citation += f", {source_ref}"
             href = case_href(row)
             disposition = final_disposition(row)
             topic_values = row.get("topic_tags") or []
@@ -286,7 +392,7 @@ def main(argv=None):
             summary_id = "judicial-summary-" + "".join(ch if ch.isalnum() else "-" for ch in str(record_id))
             details_id = "judicial-details-" + "".join(ch if ch.isalnum() else "-" for ch in str(record_id))
             lines.extend([
-                f'<article class="judicial-case" id="case-{esc(docket)}" data-judicial-record data-search-text="{esc(" ".join(map(str, [docket, title, row.get("summary", ""), row.get("matter_type", ""), disposition, review_basis(row), aliases_text, bco_text, " ".join(topic_values)])))}">',
+                f'<article class="judicial-case" id="case-{esc(docket)}" data-judicial-record data-judicial-short-citation="{esc(short_citation)}" data-judicial-full-citation="{esc(full_citation)}" data-search-text="{esc(" ".join(map(str, [docket, title, row.get("summary", ""), row.get("matter_type", ""), disposition, review_basis(row), aliases_text, bco_text, " ".join(topic_values)])))}">',
                 f'<header class="judicial-case__header"><p class="judicial-case__docket"><code>{esc(docket)}</code> <span>· {esc(MATTER_TYPE_LABELS.get(row.get("matter_type"), row.get("matter_type")) or "Matter")}</span><span class="judicial-saved-state" data-judicial-saved hidden> · Saved</span></p><h3>{title_markup}</h3></header>',
                 f'<p class="judicial-case__outcome"><span>Outcome</span> {esc(disposition)}</p>',
                 '<div class="judicial-case__layout">',
