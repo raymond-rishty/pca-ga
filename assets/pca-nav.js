@@ -627,19 +627,19 @@
     };
     const measureAllSynopses = () => synopsisRecords.forEach(measureSynopsis);
     years.forEach((section) => {
-      if (section.dataset.judicialYear !== 'other' && !jump.querySelector(`option[value="${section.dataset.judicialYear}"]`)) {
+      if (jump && section.dataset.judicialYear !== 'other' && !jump.querySelector(`option[value="${section.dataset.judicialYear}"]`)) {
         const option = document.createElement('option'); option.value = section.dataset.judicialYear; option.textContent = section.dataset.judicialYear; jump.append(option);
       }
     });
     const update = () => {
-      const terms = (search.value || '').toLocaleLowerCase().trim().split(/\s+/).filter(Boolean);
+      const terms = (search?.value || '').toLocaleLowerCase().trim().split(/\s+/).filter(Boolean);
       let visible = 0;
       records.forEach((record) => {
         const match = terms.every((term) => (record.dataset.searchText || '').toLocaleLowerCase().includes(term));
         record.hidden = !match; if (match) visible += 1;
       });
       years.forEach((section) => { section.hidden = !section.querySelector('[data-judicial-record]:not([hidden])'); });
-      count.textContent = `${visible} ${visible === 1 ? 'case' : 'cases'}`;
+      if (count) count.textContent = `${visible} ${visible === 1 ? 'case' : 'cases'}`;
     };
     search?.addEventListener('input', update);
     jump?.addEventListener('change', () => { if (jump.value) document.querySelector(`[data-judicial-year="${CSS.escape(jump.value)}"]`)?.scrollIntoView({ behavior: scrollBehavior(), block: 'start' }); });

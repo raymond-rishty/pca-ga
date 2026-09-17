@@ -209,7 +209,7 @@ def test_generated_catalog_carries_stable_evans_identity_and_all_roster_rows():
     assert 'legacy 2023-4' in catalogue
     assert 'legacy `2023-4`' not in catalogue
     assert 'aria-label="Case actions"' in catalogue
-    assert '>⋮</button>' in catalogue
+    assert '>Actions</button>' in catalogue
     assert 'data-judicial-action="cite"' in catalogue
     # These records retain ``other`` because the available ruling does not map
     # cleanly to a more specific final-disposition code.  Keep the set explicit
