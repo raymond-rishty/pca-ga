@@ -223,6 +223,8 @@ def test_generated_catalog_carries_stable_evans_identity_and_all_roster_rows():
     assert 'data-judicial-short-citation="2019-03 Crouse v. Northwest Georgia"' in catalogue
     assert 'data-judicial-full-citation="Case 2011-02: Gonzales v. Great Lakes, M40GA, pp. 551–556"' in catalogue
     assert '2019-03 — Crouse v. Northwest Georgia Presbytery' not in catalogue
+    assert 'href="/pca-ga/cases/ga32_2004__2003-07.html"' in catalogue
+    assert 'href="../cases/ga32_2004__2003-07.md"' not in catalogue
     # These records retain ``other`` because the available ruling does not map
     # cleanly to a more specific final-disposition code.  Keep the set explicit
     # so newly ambiguous classifications still fail the test.
