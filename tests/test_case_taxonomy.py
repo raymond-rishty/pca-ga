@@ -37,6 +37,15 @@ def test_clean_title_removes_roster_metadata_and_normalizes_caption():
     assert MODULE.clean_title(raw) == "Evans v. Arizona"
 
 
+def test_case_citation_titles_and_source_pages_use_compact_canonical_forms():
+    assert INDEX_MODULE.citation_title("Glen Mapes v. Metropolitan New York Presbytery") == "Mapes v. Metro NY"
+    assert INDEX_MODULE.citation_title("Crouse v. Northwest Georgia Presbytery") == "Crouse v. Northwest Georgia"
+    assert INDEX_MODULE.citation_title("Felipe Assis and Carter Brown v. South Florida Presbytery") == "Assis and Brown v. South Florida"
+    sources = INDEX_MODULE.load_source_records(str(ROOT))
+    row = {"case_id": "2011-02", "assembly": 40}
+    assert INDEX_MODULE.source_citation(row, sources) == "M40GA, pp. 551–556"
+
+
 def test_matter_type_and_final_disposition_are_controlled_codes():
     assert MODULE.classify_matter_type("Appeal of TE Evans v. Arizona") == "appeal"
     assert MODULE.classify_matter_type("BCO 40-5 Matter re Metropolitan NY") == "bco_40_5_matter"
@@ -195,6 +204,25 @@ def test_generated_catalog_carries_stable_evans_identity_and_all_roster_rows():
     assert all(row["standard_of_review"] in MODULE.STANDARD_OF_REVIEW_CODES for row in rows)
     assert all(set(row["review_standards"]).issubset(MODULE.REVIEW_STANDARD_CODES) for row in rows)
     assert all(row["summary_review_status"] in {"audited", "pending_audit"} for row in rows)
+    catalogue = (ROOT / "index" / "JUDICIAL-CASES.md").read_text(encoding="utf-8")
+    assert catalogue.count('class="judicial-case__summary-toggle"') == len(rows)
+    assert 'aria-controls="judicial-summary-2023-04"' in catalogue
+    assert 'class="judicial-case__topics-extra"' in catalogue
+    assert 'class="judicial-topics__toggle"' in catalogue
+    assert 'aria-label="Show 11 more topics"' in catalogue
+    assert catalogue.count('class="judicial-case__rail"') == len(rows)
+    assert catalogue.count('class="judicial-details__toggle"') == len(rows)
+    assert 'aria-controls="judicial-details-2023-04"' in catalogue
+    assert 'class="judicial-detail-pills"' in catalogue
+    assert 'class="judicial-detail-pill">Sabbath observance' in catalogue
+    assert 'legacy 2023-4' in catalogue
+    assert 'legacy `2023-4`' not in catalogue
+    assert 'aria-label="Case actions"' in catalogue
+    assert '>Actions</button>' in catalogue
+    assert 'data-judicial-action="cite"' in catalogue
+    assert 'data-judicial-short-citation="2019-03 Crouse v. Northwest Georgia"' in catalogue
+    assert 'data-judicial-full-citation="Case 2011-02: Gonzales v. Great Lakes, M40GA, pp. 551–556"' in catalogue
+    assert '2019-03 — Crouse v. Northwest Georgia Presbytery' not in catalogue
     # These records retain ``other`` because the available ruling does not map
     # cleanly to a more specific final-disposition code.  Keep the set explicit
     # so newly ambiguous classifications still fail the test.
@@ -314,12 +342,14 @@ def test_audited_identity_corrections_survive_auxiliary_case_merge():
 
 def test_human_index_is_generated_from_the_canonical_layer():
     index = (ROOT / "index" / "JUDICIAL-CASES.md").read_text(encoding="utf-8")
-    assert "# Canonical judicial cases" in index
+    assert "# Judicial cases" in index
     assert "Review basis" in index
     assert "Matter type" in index
     assert "Final disposition" in index
-    assert "| `2023-07` | Evans v. Arizona Presbytery |" in index
-    assert "| `1986-01` | Kenneth L. Gentry, Jr. et al. v. Calvary Presbytery |" in index
+    assert '<code>2023-07</code>' in index
+    assert 'Evans v. Arizona Presbytery' in index
+    assert '<code>1986-01</code>' in index
+    assert 'Kenneth L. Gentry, Jr. et al. v. Calvary Presbytery' in index
     assert "Great deference unless clear error (factual findings)" in index
     assert "factual_findings" not in index
     assert "partially_sustained" not in index

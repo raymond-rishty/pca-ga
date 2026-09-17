@@ -141,21 +141,43 @@
     return window.matchMedia?.('(prefers-reduced-motion: reduce)').matches ? 'auto' : 'smooth';
   }
 
+  function compactCaseTitle(value) {
+    let text = String(value || '').replace(/^\s*(?:Case\s+)?\d{4}-\d+[a-z]?\s*[—-]\s*/i, '').replace(/\s+Presbytery\b/gi, '').trim();
+    const parts = text.split(/\s+v(?:s?\.)?\s+/i);
+    if (parts.length !== 2) return text;
+    const party = (value) => {
+      let item = value.trim().replace(/^\s*(?:TE|RE|Rev\.?|Elder)\s+/i, '');
+      if (/\b(?:Session|Church|PCA|Presbytery)\b/i.test(item)) return item;
+      return item.split(/\s+(?:and|&)\s+/i).map((piece) => {
+        const suffix = /\bet\.?\s+al\.?\s*$/i.test(piece) ? ' et al.' : '';
+        const clean = piece.replace(/\s+et\.?\s+al\.?\s*$/i, '').trim();
+        const words = clean.split(/\s+/);
+        return `${words.length > 1 ? words[words.length - 1] : clean}${suffix}`;
+      }).join(' and ');
+    };
+    const respondent = parts[1].replace(/\bMetropolitan New York\b/ig, 'Metro NY').replace(/\bPresbytery\b/ig, '').trim();
+    return `${party(parts[0])} v. ${respondent}`;
+  }
+
   function sourceCitation(header) {
-    const title = header.querySelector('h1')?.textContent.trim() || `Judicial Case ${header.dataset.case}`;
+    const rawTitle = header.querySelector('h1')?.textContent.trim() || `Judicial Case ${header.dataset.case}`;
+    const title = compactCaseTitle(rawTitle);
     const source = header.querySelector('.record-header__content p:last-child')?.textContent || '';
     const pages = source.match(/pp?\.\s*(\d+)(?:\s*[–-]\s*(\d+))?/i);
     const ga = header.dataset.ga;
-    const range = pages ? `M${ga}GA ${pages[2] ? `pp.${pages[1]}–${pages[2]}` : `p.${pages[1]}`}` : `${ga}th General Assembly`;
+    const range = pages ? `M${ga}GA ${pages[2] ? `pp. ${pages[1]}–${pages[2]}` : `p. ${pages[1]}`}` : `${ga}th General Assembly`;
     const url = pageUrl();
+    const docket = header.dataset.case;
+    const short = docket ? `${docket} ${title}` : range;
+    const full = docket ? `Case ${docket}: ${title}, ${range.replace(/^M(\d+GA)\s*/, 'M$1, ')}` : `${title} — ${range}`;
     return {
       id: url,
       url,
       title,
       type: 'Judicial case',
-      short: range,
-      full: `${title} — ${range}. ${url}`,
-      markdown: `[${title}](${url}) — ${range}.`,
+      short,
+      full,
+      markdown: `[${full}](${url})`,
     };
   }
 
@@ -601,6 +623,136 @@
     });
   }
 
+  function enhanceJudicialCatalogue() {
+    const catalogue = document.getElementById('judicialCatalogue');
+    if (!catalogue) return;
+    const records = [...catalogue.querySelectorAll('[data-judicial-record]')];
+    const search = document.getElementById('judicialCaseSearch');
+    const jump = document.getElementById('judicialYearJump');
+    const count = document.getElementById('judicialResultCount');
+    const years = [...catalogue.querySelectorAll('[data-judicial-year]')];
+    const synopsisRecords = records.filter((record) => record.querySelector('.judicial-case__summary'));
+    const measureSynopsis = (record) => {
+      const summary = record.querySelector('.judicial-case__summary');
+      const toggle = record.querySelector('.judicial-case__summary-toggle');
+      if (!summary || !toggle || !window.matchMedia('(max-width: 700px)').matches) {
+        summary?.classList.remove('is-collapsed');
+        if (toggle) toggle.hidden = true;
+        return;
+      }
+      const expanded = toggle.getAttribute('aria-expanded') === 'true';
+      summary.classList.toggle('is-collapsed', !expanded);
+      const clipped = !expanded && summary.scrollHeight > summary.clientHeight + 1;
+      if (!clipped) summary.classList.remove('is-collapsed');
+      toggle.hidden = !clipped && !expanded;
+      if (!toggle.hidden) toggle.textContent = expanded ? 'Show less' : 'Show full synopsis';
+    };
+    const measureAllSynopses = () => synopsisRecords.forEach(measureSynopsis);
+    years.forEach((section) => {
+      if (jump && section.dataset.judicialYear !== 'other' && !jump.querySelector(`option[value="${section.dataset.judicialYear}"]`)) {
+        const option = document.createElement('option'); option.value = section.dataset.judicialYear; option.textContent = section.dataset.judicialYear; jump.append(option);
+      }
+    });
+    const update = () => {
+      const terms = (search?.value || '').toLocaleLowerCase().trim().split(/\s+/).filter(Boolean);
+      let visible = 0;
+      records.forEach((record) => {
+        const match = terms.every((term) => (record.dataset.searchText || '').toLocaleLowerCase().includes(term));
+        record.hidden = !match; if (match) visible += 1;
+      });
+      years.forEach((section) => { section.hidden = !section.querySelector('[data-judicial-record]:not([hidden])'); });
+      if (count) count.textContent = `${visible} ${visible === 1 ? 'case' : 'cases'}`;
+    };
+    search?.addEventListener('input', update);
+    jump?.addEventListener('change', () => { if (jump.value) document.querySelector(`[data-judicial-year="${CSS.escape(jump.value)}"]`)?.scrollIntoView({ behavior: scrollBehavior(), block: 'start' }); });
+    catalogue.addEventListener('click', async (event) => {
+      const actionButton = event.target.closest('.judicial-actions__button');
+      const action = event.target.closest('[data-judicial-action]');
+      const record = event.target.closest('[data-judicial-record]');
+      if (actionButton) {
+        const menu = actionButton.nextElementSibling; const open = menu.hidden;
+        document.querySelectorAll('.judicial-actions__menu').forEach((item) => { item.hidden = true; item.previousElementSibling?.setAttribute('aria-expanded', 'false'); });
+        menu.hidden = !open; actionButton.setAttribute('aria-expanded', String(open)); if (open) menu.querySelector('button')?.focus(); return;
+      }
+      const summaryToggle = event.target.closest('.judicial-case__summary-toggle');
+      if (summaryToggle) {
+        const expanded = summaryToggle.getAttribute('aria-expanded') === 'true';
+        summaryToggle.setAttribute('aria-expanded', String(!expanded));
+        summaryToggle.textContent = expanded ? 'Show full synopsis' : 'Show less';
+        const record = summaryToggle.closest('[data-judicial-record]');
+        record?.querySelector('.judicial-case__summary')?.classList.toggle('is-collapsed', expanded);
+        return;
+      }
+      const topicsToggle = event.target.closest('.judicial-topics__toggle');
+      if (topicsToggle) {
+        const expanded = topicsToggle.getAttribute('aria-expanded') === 'true';
+        const extraTopics = document.getElementById(topicsToggle.getAttribute('aria-controls'));
+        const topicCount = topicsToggle.dataset.topicCount;
+        const topicNoun = Number(topicCount) === 1 ? 'topic' : 'topics';
+        topicsToggle.setAttribute('aria-expanded', String(!expanded));
+        topicsToggle.setAttribute('aria-label', expanded ? `Show ${topicCount} more ${topicNoun}` : 'Hide additional topics');
+        topicsToggle.textContent = expanded ? `+${topicCount} ${topicNoun}` : 'Fewer topics';
+        if (extraTopics) extraTopics.hidden = expanded;
+        return;
+      }
+      const detailsToggle = event.target.closest('.judicial-details__toggle');
+      if (detailsToggle) {
+        const expanded = detailsToggle.getAttribute('aria-expanded') === 'true';
+        const details = document.getElementById(detailsToggle.getAttribute('aria-controls'));
+        detailsToggle.setAttribute('aria-expanded', String(!expanded));
+        detailsToggle.textContent = expanded ? 'Case details' : 'Hide details';
+        if (details) details.hidden = expanded;
+        return;
+      }
+      if (!action || !record) return;
+      const title = record.querySelector('h3')?.textContent.trim() || 'Judicial case';
+      const url = new URL(record.querySelector('h3 a, .judicial-case__rail a')?.href || `#${record.id}`, location.href).href;
+      const id = url;
+      const short = record.dataset.judicialShortCitation || `${record.querySelector('.judicial-case__docket code')?.textContent || ''} ${compactCaseTitle(title)}`.trim();
+      const full = record.dataset.judicialFullCitation || `Case ${short}`;
+      if (action.dataset.judicialAction === 'save') {
+        const saved = store?.toggleSaved({ id, url, title, type: 'Judicial case', short, citation: short });
+        const state = record.querySelector('[data-judicial-saved]'); if (state) state.hidden = !saved;
+        action.textContent = saved ? 'Remove from bookshelf' : 'Save to bookshelf'; showToast(saved ? 'Added to your bookshelf' : 'Removed from your bookshelf');
+      } else if (action.dataset.judicialAction === 'link') { await copyText(url); showToast('Link copied'); }
+      else if (action.dataset.judicialAction === 'cite') { openCitation({ id, url, title, type: 'Judicial case', short, full, markdown: `[${full}](${url})` }, action.closest('.judicial-actions__menu').previousElementSibling); }
+      action.closest('.judicial-actions__menu').hidden = true; action.closest('.judicial-actions__menu').previousElementSibling?.setAttribute('aria-expanded', 'false');
+    });
+    catalogue.addEventListener('keydown', (event) => {
+      const button = event.target.closest('.judicial-actions__button');
+      const menuItem = event.target.closest('.judicial-actions__menu [role="menuitem"]');
+      if (button && (event.key === 'ArrowDown' || event.key === 'ArrowUp')) {
+        event.preventDefault();
+        const menu = button.nextElementSibling;
+        document.querySelectorAll('.judicial-actions__menu').forEach((item) => { item.hidden = true; item.previousElementSibling?.setAttribute('aria-expanded', 'false'); });
+        menu.hidden = false; button.setAttribute('aria-expanded', 'true');
+        const items = [...menu.querySelectorAll('[role="menuitem"]')];
+        items[event.key === 'ArrowUp' ? items.length - 1 : 0]?.focus();
+      } else if (menuItem && ['ArrowDown', 'ArrowUp', 'Home', 'End'].includes(event.key)) {
+        event.preventDefault();
+        const items = [...menuItem.parentElement.querySelectorAll('[role="menuitem"]')];
+        const index = items.indexOf(menuItem);
+        const next = event.key === 'Home' ? 0 : event.key === 'End' ? items.length - 1 : (index + (event.key === 'ArrowDown' ? 1 : -1) + items.length) % items.length;
+        items[next]?.focus();
+      }
+    });
+    document.addEventListener('click', (event) => { if (!event.target.closest('.judicial-actions')) document.querySelectorAll('.judicial-actions__menu').forEach((menu) => { menu.hidden = true; menu.previousElementSibling?.setAttribute('aria-expanded', 'false'); }); });
+    document.addEventListener('keydown', (event) => { if (event.key === 'Escape') document.querySelectorAll('.judicial-actions__menu').forEach((menu) => { if (!menu.hidden) { menu.hidden = true; menu.previousElementSibling?.setAttribute('aria-expanded', 'false'); menu.previousElementSibling?.focus(); } }); });
+    records.forEach((record) => {
+      const link = record.querySelector('h3 a, .judicial-case__rail a');
+      const saved = store?.isSaved({ id: new URL(link?.href || `#${record.id}`, location.href).href });
+      const state = record.querySelector('[data-judicial-saved]'); if (state) state.hidden = !saved;
+    });
+    measureAllSynopses();
+    if (document.fonts?.ready) document.fonts.ready.then(measureAllSynopses);
+    let synopsisResizeTimer;
+    window.addEventListener('resize', () => {
+      window.clearTimeout(synopsisResizeTimer);
+      synopsisResizeTimer = window.setTimeout(measureAllSynopses, 120);
+    }, { passive: true });
+    update();
+  }
+
   function enhanceProvisionIndex() {
     if (!/\/index\/CASES-BY-PROVISION\.html$/i.test(location.pathname)) return;
     const provisions = [...document.querySelectorAll('.reading-col h2')];
@@ -713,6 +865,7 @@
   enhanceCollectionHeader();
   makeTablesResponsive();
   enhanceProvisionIndex();
+  enhanceJudicialCatalogue();
   injectBadges();
   restoreContext();
   restoreScroll();
