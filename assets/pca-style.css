@@ -952,7 +952,7 @@ textarea:focus-visible {
 .judicial-case h3 a:hover { text-decoration:underline; text-decoration-color:var(--gold); }
 .reading-col .judicial-case__outcome { margin:.3rem 0; color:var(--ink); font:.86rem/1.35 var(--serif); font-weight:600; }
 .judicial-case__outcome span { margin-right:.35rem; color:var(--ink-muted); font:500 .66rem var(--sans); letter-spacing:.08em; text-transform:uppercase; }
-.judicial-case__layout { display:grid; grid-template-columns:minmax(0,1fr) 8rem; gap:1.1rem; align-items:start; }
+.judicial-case__layout { display:grid; grid-template-columns:minmax(0,1fr) 10rem; gap:1.25rem; align-items:start; }
 .judicial-case__content { min-width:0; }
 .judicial-case__summary-wrap { max-width:none; margin:.3rem 0 .4rem; }
 .reading-col .judicial-case__summary { margin:0; font:.86rem/1.4 var(--serif); }
@@ -966,11 +966,12 @@ textarea:focus-visible {
 .judicial-case__topics-extra[hidden] { display:none; }
 .judicial-topics__toggle { padding:0; border-bottom:1px solid var(--gold); color:#755719; font:600 .7rem/1.3 var(--sans); }
 .judicial-topics__toggle:hover { color:var(--ink); }
-.judicial-case__rail { display:flex; flex-direction:column; align-items:flex-start; gap:.45rem; min-width:0; padding:.15rem 0 .15rem .85rem; border-left:1px solid var(--parch-deep); font:.74rem/1.35 var(--sans); }
-.judicial-case__rail > a, .judicial-details__toggle { padding:.08rem 0; border-bottom:1px solid var(--gold); color:#755719; font-weight:600; }
+.judicial-case__rail { display:flex; flex-direction:column; align-items:stretch; gap:.15rem; min-width:0; padding:.15rem 0 .15rem .85rem; border-left:1px solid var(--parch-deep); font:.74rem/1.35 var(--sans); }
+.judicial-case__rail > a, .judicial-details__toggle, .judicial-actions__button { display:flex; align-items:center; width:100%; min-height:30px; padding:.25rem .45rem; border:1px solid transparent; border-radius:3px; color:#755719; font-weight:600; text-decoration:none; }
+.judicial-case__rail > a { border-bottom:1px solid var(--gold); }
 .judicial-details__toggle::before { display:inline-block; width:.8em; margin-right:.15rem; content:'▸'; transition:transform .15s ease; }
 .judicial-details__toggle[aria-expanded="true"]::before { transform:rotate(90deg); }
-.judicial-case__rail > a:hover, .judicial-details__toggle:hover { color:var(--ink); }
+.judicial-case__rail > a:hover, .judicial-details__toggle:hover, .judicial-actions__button:hover, .judicial-actions__button[aria-expanded="true"] { border-color:var(--parch-deep); background:var(--parch-mid); color:var(--ink); }
 .judicial-source-missing, .judicial-muted { color:var(--ink-muted); font-size:.9rem; }
 .judicial-case__rail .judicial-source-missing { font-size:inherit; }
 .judicial-details[hidden] { display:none; }
@@ -981,8 +982,7 @@ textarea:focus-visible {
 .judicial-detail-pill { display:inline-flex; align-items:center; padding:.18rem .45rem; border:1px solid var(--parch-deep); border-radius:999px; background:var(--parch); color:var(--ink-muted); font:500 .76rem/1.25 var(--sans); }
 .judicial-review-status { color:#8b4c1c; font-size:.85rem; }
 .judicial-actions { position:relative; flex:0 0 auto; }
-.judicial-actions__button { min-width:44px; min-height:44px; padding:.35rem .55rem; border:1px solid transparent; border-bottom-color:var(--gold); border-radius:0; color:#755719; font:600 .74rem/1.2 var(--sans); }
-.judicial-actions__button:hover, .judicial-actions__button[aria-expanded="true"] { border-color:var(--parch-deep); background:var(--parch-mid); color:var(--ink); }
+.judicial-actions__button { min-width:0; border-bottom:1px solid var(--gold); border-radius:3px; color:#755719; font:600 .74rem/1.2 var(--sans); }
 .judicial-actions__menu { position:absolute; right:0; z-index:10; min-width:190px; padding:.35rem; border:1px solid var(--parch-deep); border-radius:var(--radius); background:var(--parch); box-shadow:0 8px 22px rgba(27,38,64,.14); }
 .judicial-actions__menu button { display:block; width:100%; padding:.65rem .7rem; text-align:left; border-radius:var(--radius); font-size:.9rem; }
 .judicial-actions__menu button:hover, .judicial-actions__menu button:focus-visible { background:var(--gold-pale); }
@@ -995,6 +995,7 @@ textarea:focus-visible {
   .judicial-case h3 { font-size:1.3rem; line-height:1.25; }
   .judicial-case__layout { grid-template-columns:1fr; gap:.25rem; }
   .judicial-case__rail { flex-direction:row; align-items:center; gap:.8rem; padding:.35rem 0 0; border-left:0; }
+  .judicial-case__rail > a, .judicial-details__toggle, .judicial-actions__button { width:auto; }
   .judicial-case__rail .judicial-actions { margin-left:auto; }
   .reading-col .judicial-case__docket { font-size:.8rem; line-height:1.4; }
   .reading-col .judicial-case__summary { font-size:1rem; line-height:1.55; }
