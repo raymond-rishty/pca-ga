@@ -9,15 +9,17 @@ function read(file) {
   return fs.readFileSync(path.join(root, file), 'utf8');
 }
 
-test('back-to-top enhancement is scoped to full minutes volumes', () => {
+test('back-to-top enhancement is scoped to full minutes volumes and the judicial catalogue', () => {
   const layout = read('_layouts/default.html');
-  assert.match(layout, /page_type == 'volume'[\s\S]*minutes-back-to-top\.css/);
-  assert.match(layout, /page_type == 'volume'[\s\S]*minutes-back-to-top\.js/);
+  assert.match(layout, /page_type == 'volume' or page\.url == '\/index\/JUDICIAL-CASES\.html'[\s\S]*minutes-back-to-top\.css/);
+  assert.match(layout, /page_type == 'volume' or page\.url == '\/index\/JUDICIAL-CASES\.html'[\s\S]*minutes-back-to-top\.js/);
 });
 
 test('back-to-top appears after scrolling and respects reduced motion', () => {
   const script = read('assets/minutes-back-to-top.js');
-  assert.match(script, /dataset\.pageType !== 'volume'/);
+  assert.match(script, /dataset\.pageType === 'volume'/);
+  assert.match(script, /\/index\\\/JUDICIAL-CASES\\\.html\$\/i/);
+  assert.match(script, /!isMinutesVolume && !isJudicialCatalogue/);
   assert.match(script, /Math\.max\(600, window\.innerHeight \* 0\.75\)/);
   assert.match(script, /window\.scrollY < revealThreshold\(\)/);
   assert.match(script, /prefers-reduced-motion: reduce/);
