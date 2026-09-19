@@ -1,6 +1,6 @@
 # Overture Extraction — Specification
 
-The overture catalogue, alongside **Judicial Cases** (`SPEC-JUDICIAL-CASES.md`) and **Constitutional
+The overture catalogue, alongside **Judicial Cases** (`SPEC-JUDICIAL-CASES.html`) and **Constitutional
 Inquiries** (`SPEC-INQUIRIES.md`). An overture is a formal **proposal or request** from a presbytery
 (or a committee) to the General Assembly — to amend the Constitution, answer a question, or take an
 action. This catalogue answers *"Has the PCA considered this before, and how was it answered?"*
@@ -74,7 +74,7 @@ changed is the **Digest — Part I (Actions of the General Assembly)** and the p
 BCO-changes ledger (the same body, the Digest being the fuller compilation), cross-checked against
 the primary minutes (the Digest/ledger guides where to look; the minutes are authoritative). The
 Digest Part I is the **roster/where-to-look authority** for overtures and amendments, the analogue of
-Part III for cases (see `SPEC-JUDICIAL-CASES.md` §4a). Ratification states include *Approved &
+Part III for cases (see `SPEC-JUDICIAL-CASES.html` §4a). Ratification states include *Approved &
 ratified*, *Approved but not ratified*, and *Approved → sent to presbyteries; ratification not
 located*. Implemented as `prep` (extract candidate disposition/ratification lines per GA) → a
 workflow → `link` (join by BCO section), folded into the DB by `19_export`.
