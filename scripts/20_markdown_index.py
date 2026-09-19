@@ -7,7 +7,7 @@ directly ingestible by another researcher (or their LLM) with no database toolin
 Generates (from pca_minutes.db, the single source of truth after 19_export):
   INDEX.md                 — corpus front door: volume table + links to everything
   index/OVERTURES.md       — the 3,075-overture catalogue, grouped by Assembly
-  index/CASES.md           — the judicial-case index (number, parties, disposition, BCO cited)
+  index/CASES.md           — the legacy Assembly-grouped judicial-case extraction/index view
   index/outlines/ga*.md    — per-volume structural table of contents
 
 The SQLite DB stays as the optional full-text-query layer (see PORTABLE.md); these markdown
@@ -272,10 +272,11 @@ def main():
          "- **[GA53 (2026) overtures — bearing past actions](GA53-OVERTURES.md)** — for each of the "
          "90 overtures to the 53rd General Assembly, the prior judicial cases, constitutional "
          "inquiries, overtures, and RPR exceptions that bear on it (deep-linked).",
-         "- **[Judicial cases](CASES.md)** — SJC/CCB cases with parties, disposition, and the "
-         "BCO / Westminster Standards provisions cited; the canonical metadata view is "
-         "**[JUDICIAL-CASES.md](JUDICIAL-CASES.md)**; also **[by constitutional provision]"
-         "(CASES-BY-PROVISION.md)** with auditable tag sources and line evidence.",
+         "- **[Judicial cases](JUDICIAL-CASES.md)** — canonical one-row-per-rostered-case SJC/CJB "
+         "catalogue with case IDs and aliases, proceeding types, dispositions, summaries, "
+         "constitutional provisions, topic tags, and source records; the legacy Assembly-grouped "
+         "view remains **[CASES.md](CASES.md)** for compatibility; also **[by constitutional "
+         "provision](CASES-BY-PROVISION.md)** with auditable tag sources and line evidence.",
          "- **[Constitutional inquiries](INQUIRIES.md)** — questions of constitutional "
          "interpretation answered by the CCB, each with a Digest-level headnote and the verbatim "
          "record. *\"What has the CCB said about this provision?\"*",
