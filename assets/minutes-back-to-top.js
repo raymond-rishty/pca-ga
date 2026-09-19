@@ -1,7 +1,9 @@
 'use strict';
 
 (() => {
-  if (document.body?.dataset.pageType !== 'volume') return;
+  const isMinutesVolume = document.body?.dataset.pageType === 'volume';
+  const isJudicialCatalogue = /\/index\/JUDICIAL-CASES\.html$/i.test(location.pathname);
+  if (!isMinutesVolume && !isJudicialCatalogue) return;
 
   const button = document.createElement('button');
   button.type = 'button';
