@@ -10,12 +10,12 @@
 | 2008 | Judicial case | [PCA v. Louisiana Presbytery (Trial)](../cases/ga36_2008__2007-14.md) | dismissed |
 | 2008 | Judicial case | [Jones v. Louisiana](../cases/ga36_2008__2007-08.md) | sustained |
 | 2008 | Judicial case | [Memorial of Central Carolina v. Louisiana](../cases/ga36_2008__2006-02.md) | other |
-| 2009 | Judicial case | [Eliot Lee v. Korean Eastern Presbytery](../cases/ga38_2010__stub_2009-16.md) | sustained |
+| 2009 | Judicial case | [Eliot Lee v. Korean Eastern](../cases/ga38_2010__stub_2009-16.md) | sustained |
 | 2010 | Judicial case | [Bordwine v. Pacific Northwest Presbytery](../cases/ga38_2010__2009-06.md) | sustained |
 | 2010 | Judicial case | [Morton Smith v. Western Carolina](../cases/ga38_2010__2009-02.md) | not_sustained |
 | 2011 | Judicial case | [Koerkenmeier v. Illiana Presbytery](../cases/ga39_2011__2009-23.md) | sustained |
 | 2011 | Judicial case | [Sartorious et al. v. Siouxlands Presbytery](../cases/ga39_2011__2010-04.md) | denied |
-| 2015 | Judicial case | [Art Sartorius et al. v. Siouxlands Presbytery](../cases/ga43_2015__2012-08.md) | sustained_in_part |
+| 2013 | Judicial case | [Art Sartorius et al. v. Siouxlands Presbytery](../cases/ga43_2015__2012-08.md) | out_of_order |
 | 2017 | Judicial case | [Wills v. Metro Atlanta Presbytery](../cases/ga45_2017__2016-14.md) | denied |
 | 2018 | Judicial case | [Sartorius v. Siouxlands Presbytery](../cases/ga46_2018__2016-16.md) | denied |
 | 2019 | Judicial case | [Anna Lewis v. Presbytery of the Mississippi Valley](../cases/ga47_2019__2018-02.md) | out_of_order |
