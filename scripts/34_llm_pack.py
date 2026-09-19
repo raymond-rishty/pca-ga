@@ -23,9 +23,10 @@ RAW = "https://raw.githubusercontent.com/raymond-rishty/pca-ga/main"
 BCO_API = f"{SITE}/api/bco/index.json"
 
 # Catalogues compact enough to concatenate into the one-file pack; generated size varies with updates.
-PACK = ["INDEX.md", "RPR.md", "JUDICIAL-CASES.md", "INQUIRIES.md", "CCB-OVERTURE-ADVICE.md"]
+PACK = ["INDEX.md", "RPR.md", "INQUIRIES.md", "CCB-OVERTURE-ADVICE.md"]
 # large indexes: linked, fetched on demand
-BIG = [("OVERTURES.md", "every overture + outcome (~104k tokens)"),
+BIG = [("JUDICIAL-CASES.md", "canonical one-row-per-rostered-case judicial catalogue (~2.3 MB; fetch on demand)"),
+       ("OVERTURES.md", "every overture + outcome (~104k tokens)"),
        ("RPR-BY-PROVISION.md", "RPR exceptions of substance by BCO/RAO/WCF provision (~308k tokens)")]
 
 # The generated catalogue pack is intentionally limited to the GA1–GA52 corpus.
@@ -107,13 +108,13 @@ def main():
         "# PCA GA Minutes — LLM pack (compact catalogues, one file)\n",
         f"Generated index for AI ingestion. The corpus lives at {SITE} (raw markdown at {RAW}).",
         "This file concatenates the SMALL structured catalogues so you can load them in one fetch:",
-        "the corpus index, the RPR hub, judicial cases, constitutional inquiries, and CCB advice.",
+        "the corpus index, the RPR hub, constitutional inquiries, and CCB advice.",
         f"The provision-scoped BCO authority manifests are available at {BCO_API}; use them for provision-first retrieval.",
         "Each catalogue row deep-links to the verbatim minutes page; cite as `M<GA>GA p.<page>`.",
         "User-facing links in this pack are canonical GitHub Pages URLs ending in `.html`; source `.md` paths are for raw/repository retrieval only.",
         "",
         "Use this pack only as a fallback for corpus-wide or cross-catalogue discovery when no narrower map applies; search it for candidate records, then open and cite the underlying pages.",
-        "Two catalogues are too large to inline here — fetch them directly when a question needs them:",
+        "Three catalogues are too large to inline here — fetch them directly when a question needs them:",
     ] + [f"- {published_url('index/' + f)} — {desc}" for f, desc in BIG] + [""]
     for f in PACK:
         p = os.path.join(IDX, f)
