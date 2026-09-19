@@ -31,7 +31,7 @@ Coverage is explicit indexed references in cases, inquiries, CCB overture advice
 
 ## Catalogues by question
 
-- [Judicial cases](https://raymond-rishty.github.io/pca-ga/index/CASES.html) — SJC/CJB docket, parties, disposition, and source records; search case number or party name.
+- [Judicial cases](https://raymond-rishty.github.io/pca-ga/index/JUDICIAL-CASES.html) — canonical one-row-per-rostered-case SJC/CJB catalogue with case IDs and aliases, proceeding types, dispositions, editorial summaries, constitutional provisions, topic tags, and source records; search case number or party name.
 - [Cases by provision](https://raymond-rishty.github.io/pca-ga/index/CASES-BY-PROVISION.html) — BCO, Preliminary Principles, RAO, and Westminster references, with tag evidence. Useful beyond numbered BCO manifests.
 - [Constitutional inquiries](https://raymond-rishty.github.io/pca-ga/index/INQUIRIES.html) — interpretation questions and non-binding advice; verify the answering body and wording in the record, especially for early Assemblies.
 - [CCB overture advice](https://raymond-rishty.github.io/pca-ga/index/CCB-OVERTURE-ADVICE.html) — constitutional review of proposals; pair with the overture's actual Assembly outcome.
