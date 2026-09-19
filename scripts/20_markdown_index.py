@@ -272,10 +272,11 @@ def main():
          "- **[GA53 (2026) overtures — bearing past actions](GA53-OVERTURES.md)** — for each of the "
          "90 overtures to the 53rd General Assembly, the prior judicial cases, constitutional "
          "inquiries, overtures, and RPR exceptions that bear on it (deep-linked).",
-         "- **[Judicial cases](JUDICIAL-CASES.md)** — canonical one-row-per-rostered-case SJC/CCB catalogue with case IDs and aliases, proceeding types, dispositions, summaries, constitutional provisions, topic tags, and source records; the "
-         "BCO / Westminster Standards provisions cited; the canonical metadata view is "
-         "legacy Assembly-grouped view remains **[CASES.md](CASES.md)** for compatibility; also **[by constitutional provision]"
-         "(CASES-BY-PROVISION.md)** with auditable tag sources and line evidence.",
+         "- **[Judicial cases](JUDICIAL-CASES.md)** — canonical one-row-per-rostered-case SJC/CJB "
+         "catalogue with case IDs and aliases, proceeding types, dispositions, summaries, "
+         "constitutional provisions, topic tags, and source records; the legacy Assembly-grouped "
+         "view remains **[CASES.md](CASES.md)** for compatibility; also **[by constitutional "
+         "provision](CASES-BY-PROVISION.md)** with auditable tag sources and line evidence.",
          "- **[Constitutional inquiries](INQUIRIES.md)** — questions of constitutional "
          "interpretation answered by the CCB, each with a Digest-level headnote and the verbatim "
          "record. *\"What has the CCB said about this provision?\"*",
