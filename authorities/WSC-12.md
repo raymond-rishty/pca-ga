@@ -6,7 +6,7 @@
 
 | Year | Type | Title | Disposition |
 |------|------|-------|-------------|
-| 2015 | Judicial case | [Art Sartorius et al. v. Siouxlands Presbytery](../cases/ga43_2015__2012-08.md) | sustained_in_part |
+| 2013 | Judicial case | [Art Sartorius et al. v. Siouxlands Presbytery](../cases/ga43_2015__2012-08.md) | out_of_order |
 | 2018 | Judicial case | [Sartorius v. Siouxlands Presbytery](../cases/ga46_2018__2016-16.md) | denied |
 
 ---
