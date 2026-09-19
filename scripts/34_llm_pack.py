@@ -23,7 +23,7 @@ RAW = "https://raw.githubusercontent.com/raymond-rishty/pca-ga/main"
 BCO_API = f"{SITE}/api/bco/index.json"
 
 # Catalogues compact enough to concatenate into the one-file pack; generated size varies with updates.
-PACK = ["INDEX.md", "RPR.md", "CASES.md", "INQUIRIES.md", "CCB-OVERTURE-ADVICE.md"]
+PACK = ["INDEX.md", "RPR.md", "JUDICIAL-CASES.md", "INQUIRIES.md", "CCB-OVERTURE-ADVICE.md"]
 # large indexes: linked, fetched on demand
 BIG = [("OVERTURES.md", "every overture + outcome (~104k tokens)"),
        ("RPR-BY-PROVISION.md", "RPR exceptions of substance by BCO/RAO/WCF provision (~308k tokens)")]
