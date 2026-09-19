@@ -1,6 +1,6 @@
 # Review of Presbytery Records (RPR) — Specification
 
-The fourth catalogue, alongside **Judicial Cases** (`SPEC-JUDICIAL-CASES.md`), **Overtures**
+The fourth catalogue, alongside **Judicial Cases** (`SPEC-JUDICIAL-CASES.html`), **Overtures**
 (`SPEC-OVERTURES.md`), and **Constitutional Inquiries** (`SPEC-INQUIRIES.md`). The General Assembly's
 **Committee on Review of Presbytery Records (RPR/CRPR)** reviews every presbytery's minutes each year
 and flags two kinds of defect: **exceptions of *form*** (clerical/procedural) and **exceptions of

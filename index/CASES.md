@@ -1,6 +1,6 @@
 # Judicial Case Index
 
-Cases decided by the Standing Judicial Commission (SJC) and its predecessor the Committee on Judicial Business (CJB), grouped by Assembly. For canonical case IDs, proceeding types, review standards, editorial summaries, BCO provisions, and topic tags, see **[JUDICIAL-CASES.md](JUDICIAL-CASES.md)**.
+Cases decided by the Standing Judicial Commission (SJC) and its predecessor the Committee on Judicial Business (CJB), grouped by Assembly. For canonical case IDs, proceeding types, review standards, editorial summaries, BCO provisions, and topic tags, see **[JUDICIAL-CASES.html](JUDICIAL-CASES.html)**.
 
 This index is **structure-first**: every case listed links to a full-text page re-extracted verbatim from the volume (with its opinions). After the decided cases, an Assembly may list extra rows from the underlying case table: *decided at Nth GA* — the case was only listed here (deferred to a later Assembly, or cited from an earlier one) and links to where it was actually decided; *reference / no separate decision* — a cross-reference, roll-up, or out-of-order/withdrawn matter with no published decision; *not yet re-extracted* — the volume is still pending.
 
