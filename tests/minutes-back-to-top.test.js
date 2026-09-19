@@ -18,7 +18,7 @@ test('back-to-top enhancement is scoped to full minutes volumes and the judicial
 test('back-to-top appears after scrolling and respects reduced motion', () => {
   const script = read('assets/minutes-back-to-top.js');
   assert.match(script, /dataset\.pageType === 'volume'/);
-  assert.match(script, /\/index\\\/JUDICIAL-CASES\\\.html\$\/i/);
+  assert.match(script, /isJudicialCatalogue = .*JUDICIAL-CASES/);
   assert.match(script, /!isMinutesVolume && !isJudicialCatalogue/);
   assert.match(script, /Math\.max\(600, window\.innerHeight \* 0\.75\)/);
   assert.match(script, /window\.scrollY < revealThreshold\(\)/);
