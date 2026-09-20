@@ -20,6 +20,7 @@ RULES = [
     {"path": "cases/ga44_2016__2015-03.md", "cut_heading": "### CASE 2015-04"},
     {"path": "cases/ga46_2018__2016-10.md", "cut_heading": "### CASE 2016-11"},
     {"path": "cases/ga17_1989__case3.md", "cut_page": "<!-- PAGE ga=17 pdf_page=229"},
+    {"path": "cases/ga31_2003__2002-11.md", "remove_heading": "### IV. Proposed SJC Manual Changes"},
 ]
 
 SOURCE_UPDATES = {
@@ -35,7 +36,12 @@ def apply_rule(text: str, rule: dict[str, str]) -> str:
     if body_end < 0:
         raise ValueError(f"missing wrapper separator: {rule['path']}")
     body = text[:body_end]
-    if "cut_heading" in rule:
+    if "remove_heading" in rule:
+        marker = "\n" + rule["remove_heading"] + "\n"
+        if marker not in body:
+            return text
+        body = body.replace(marker, "\n", 1)
+    elif "cut_heading" in rule:
         marker = "\n" + rule["cut_heading"]
         if marker not in body:
             return text
