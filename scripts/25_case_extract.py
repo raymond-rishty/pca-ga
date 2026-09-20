@@ -76,7 +76,7 @@ def _hdrnum(line, broad=True, bare=False):
             return m.group(1)
     return None
 _PARTY = re.compile(r"^\s*\*{0,2}\s*((?:COMPLAINT|APPEAL|PETITION|REVIEW)\s+OF\s+.+|VS?\.?|AND|.+\bPRESBYTERY\b.*)\*{0,2}\s*$", re.I)
-_REPORT_END = re.compile(r"(?i)^\s*#*\s*\**\s*(respectfully submitted|appendix\s+[A-Z]\b|index\b)")
+_REPORT_END = re.compile(r"(?i)^\s*#*\s*\**\s*(respectfully submitted|appendix\s+[A-Z]\b|index\b|(?:IV\.\s*)?proposed\s+(?:[“\"']?SJC[”\"']?\s+)?manual\s+changes\b)")
 _GAP = 45
 
 
