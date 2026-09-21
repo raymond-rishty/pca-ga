@@ -699,8 +699,10 @@
       if (detailsToggle) {
         const expanded = detailsToggle.getAttribute('aria-expanded') === 'true';
         const details = document.getElementById(detailsToggle.getAttribute('aria-controls'));
+        const caseTitle = detailsToggle.closest('[data-judicial-record]')?.querySelector('h3')?.textContent.trim() || 'this case';
         detailsToggle.setAttribute('aria-expanded', String(!expanded));
-        detailsToggle.textContent = expanded ? 'Case details' : 'Hide details';
+        detailsToggle.setAttribute('aria-label', (expanded ? 'Show' : 'Hide') + ' details for ' + caseTitle);
+        detailsToggle.textContent = expanded ? 'Show details' : 'Hide details';
         if (details) details.hidden = expanded;
         return;
       }
@@ -710,13 +712,17 @@
       const id = url;
       const short = record.dataset.judicialShortCitation || `${record.querySelector('.judicial-case__docket code')?.textContent || ''} ${compactCaseTitle(title)}`.trim();
       const full = record.dataset.judicialFullCitation || `Case ${short}`;
+      const actionMenu = action.closest('.judicial-actions__menu');
+      const actionTrigger = actionMenu?.previousElementSibling;
+      let restoreMenuFocus = true;
       if (action.dataset.judicialAction === 'save') {
         const saved = store?.toggleSaved({ id, url, title, type: 'Judicial case', short, citation: short });
         const state = record.querySelector('[data-judicial-saved]'); if (state) state.hidden = !saved;
         action.textContent = saved ? 'Remove from bookshelf' : 'Save to bookshelf'; showToast(saved ? 'Added to your bookshelf' : 'Removed from your bookshelf');
       } else if (action.dataset.judicialAction === 'link') { await copyText(url); showToast('Link copied'); }
-      else if (action.dataset.judicialAction === 'cite') { openCitation({ id, url, title, type: 'Judicial case', short, full, markdown: `[${full}](${url})` }, action.closest('.judicial-actions__menu').previousElementSibling); }
-      action.closest('.judicial-actions__menu').hidden = true; action.closest('.judicial-actions__menu').previousElementSibling?.setAttribute('aria-expanded', 'false');
+      else if (action.dataset.judicialAction === 'cite') { restoreMenuFocus = false; openCitation({ id, url, title, type: 'Judicial case', short, full, markdown: `[${full}](${url})` }, actionTrigger); }
+      actionMenu.hidden = true; actionTrigger?.setAttribute('aria-expanded', 'false');
+      if (restoreMenuFocus) actionTrigger?.focus();
     });
     catalogue.addEventListener('keydown', (event) => {
       const button = event.target.closest('.judicial-actions__button');
