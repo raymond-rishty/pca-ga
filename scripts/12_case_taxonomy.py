@@ -843,9 +843,15 @@ def standard_of_review(file, dispositions, matter_type=None, override=None, cont
     detected = _detected_review_standards(body, contextual_standard)
     if override and override.get("review_standards") is not None:
         requested = [x for x in override["review_standards"] if x in REVIEW_STANDARD_CODES]
-        # Editorial data may narrow an automatic match, including an explicit
-        # empty list, but it may not assert a basis absent from the adopted text.
-        standards = [x for x in requested if x in detected]
+        if override.get("review_standards_authoritative"):
+            # A completed editorial review may explicitly adopt the requested
+            # controlled-vocabulary standards, even when automatic text
+            # detection does not recognize the basis.
+            standards = requested
+        else:
+            # Ordinary editorial data may narrow an automatic match, including
+            # an explicit empty list, but may not assert a basis absent from text.
+            standards = [x for x in requested if x in detected]
     else:
         standards = detected
 

@@ -374,7 +374,6 @@
   },
   "2022-05": {
     "final_dispositions": [
-      "out_of_order",
       "moot"
     ],
     "disposition_detail": "Complaint out of order and moot",
@@ -780,7 +779,7 @@
     "summary_source": "reviewer_approval",
     "matter_type": "complaint",
     "final_dispositions": [
-      "out_of_order"
+      "administratively_out_of_order"
     ]
   },
   "2002-17": {
@@ -986,7 +985,7 @@
     "summary_source": "reviewer_approval",
     "matter_type": "appeal",
     "final_dispositions": [
-      "out_of_order"
+      "administratively_out_of_order"
     ],
     "summary_review_status": "audited"
   },
@@ -1131,7 +1130,7 @@
     "summary_source": "reviewer_approval",
     "matter_type": "appeal",
     "final_dispositions": [
-      "judicially_out_of_order",
+      "out_of_order",
       "withdrawn"
     ],
     "summary_review_status": "audited"
@@ -1145,7 +1144,7 @@
     "summary_source": "reviewer_approval",
     "matter_type": "complaint",
     "final_dispositions": [
-      "judicially_out_of_order"
+      "out_of_order"
     ],
     "summary_review_status": "audited"
   },
@@ -1270,7 +1269,7 @@
     "summary_review_status": "audited",
     "matter_type": "complaint",
     "final_dispositions": [
-      "administratively_out_of_order"
+      "out_of_order"
     ]
   },
   "2005-13": {
@@ -1328,7 +1327,7 @@
     "summary_source": "reviewer_approval",
     "matter_type": "complaint",
     "final_dispositions": [
-      "judicially_out_of_order"
+      "out_of_order"
     ],
     "summary_review_status": "audited"
   },
@@ -1775,8 +1774,7 @@
     "summary_review_status": "audited",
     "matter_type": "complaint",
     "final_dispositions": [
-      "abandoned",
-      "affirmed"
+      "abandoned"
     ]
   },
   "1983-12": {
@@ -2042,7 +2040,7 @@
     "summary_review_status": "audited",
     "matter_type": "complaint",
     "final_dispositions": [
-      "out_of_order"
+      "administratively_out_of_order"
     ]
   },
   "2001-36": {
@@ -2170,8 +2168,7 @@
     "summary_source": "reviewer_approval",
     "matter_type": "appeal",
     "final_dispositions": [
-      "denied",
-      "affirmed"
+      "denied"
     ],
     "summary_review_status": "audited"
   },
@@ -2789,8 +2786,7 @@
     "summary": "The SJC found the Session’s complaint prematurely filed because Korean Capital Presbytery had not completed its action on it. The sparse ruling gives no merits determination or further relief.",
     "matter_type": "complaint",
     "final_dispositions": [
-      "out_of_order",
-      "dismissed"
+      "administratively_out_of_order"
     ],
     "summary_review_status": "audited"
   },
@@ -2799,7 +2795,10 @@
     "proceeding_type": "complaint",
     "outcome": "dismissed",
     "disposition_detail": "Complaint dismissed as moot, 13-6",
-    "summary_source": "case_page"
+    "summary_source": "case_page",
+    "final_dispositions": [
+      "moot"
+    ]
   },
   "2017-10": {
     "proceeding_type": "review_and_control",
@@ -2900,7 +2899,6 @@
     "matter_type": "complaint",
     "final_dispositions": [
       "partially_sustained",
-      "denied",
       "remanded"
     ],
     "summary_review_status": "audited",
@@ -3054,8 +3052,7 @@
     "summary": "After a congregation voted to ask that all ruling elders' official relationships be dissolved without censure, the Session concurred and requested an interim Session. The SJC denied the elders' complaint, holding that BCO 24-6b extends by good and necessary deduction from one elder to multiple identified elders. Dissolution ended their service on that Session but did not divest them of office. Because both the congregation and Session requested it, BCO 13-9 and 15-2 authorized Presbytery to appoint an interim Session. A separate constitutional inquiry was denied without explanation.",
     "matter_type": "complaint",
     "final_dispositions": [
-      "not_sustained",
-      "denied"
+      "not_sustained"
     ],
     "summary_review_status": "audited",
     "summary_source": "reviewer_correction"
@@ -3083,8 +3080,7 @@
     "summary": "Bruce Nickoley complained against Rocky Mountain Presbytery over its action dissolving the relationship with Evergreen Church. The SJC held the complaint administratively out of order under SJC Manual 10.1. The same matter was already the subject of an appeal granted to Evergreen Church and docketed for Presbytery's January 22–24, 1997 meeting, and BCO 43-1 provides that no complaint is allowable in a judicial case in which an appeal is taken. No merits ruling was reached.",
     "matter_type": "complaint",
     "final_dispositions": [
-      "administratively_out_of_order",
-      "remanded"
+      "administratively_out_of_order"
     ],
     "summary_review_status": "audited",
     "summary_source": "reviewer_approval"
@@ -3168,7 +3164,7 @@
     "summary": "In a dispute arising from a Korean Eastern Presbytery congregational election, two ruling elders were tried, refused to plead, and were suspended from sacraments and office; KEP denied their appeal, then increased the censures to deposition and excommunication for contumacy. The SJC affirmed KEP's denial and the guilt findings, but reversed the increased censures. An appellate court may not increase a censure under BCO 42-9; the trial court retains discretion to remove or increase an indefinite suspension, though the appellate court may recommend a lesser censure. The original suspension remained.",
     "matter_type": "appeal",
     "final_dispositions": [
-      "sustained",
+      "partially_sustained",
       "affirmed",
       "reversed"
     ],
@@ -3219,7 +3215,7 @@
     "summary": "Chavalas appealed a Northern Illinois Presbytery judgment, but testimony cited by both parties was missing from the record. Because recording-machine failures made the required transcripts unavailable and Presbytery could not cure the defect, the SJC found the appeal judicially out of order, dismissed it under SJC Manual 11.6, and suspended Presbytery’s judgment under BCO 42-7. Chavalas’s later resignation did not abandon the appeal because he had appealed beforehand after a regular trial; no rebuke was issued.",
     "matter_type": "appeal",
     "final_dispositions": [
-      "sustained"
+      "judicially_out_of_order"
     ],
     "summary_review_status": "audited",
     "summary_source": "reviewer_approval"
@@ -3255,7 +3251,7 @@
     "summary": "The SJC found Case 2003-6 judicially out of order because the challenged Eastern Carolina Presbytery action was only advice in response to a BCO 41-1 reference from White Oak Session, not a binding or complainable doctrinal decision under BCO 41-3. The underlying dispute—whether elders could hold and teach a broader atonement view—was therefore not reached. The adopted vote was 17 concurring, 1 dissenting, with 1 abstention and 4 absent. The dissent argued Presbytery's 'not allowed' language read as compulsory final disposition.",
     "matter_type": "complaint",
     "final_dispositions": [
-      "no_final_disposition"
+      "judicially_out_of_order"
     ],
     "summary_review_status": "audited",
     "summary_source": "reviewer_approval"
@@ -3292,7 +3288,7 @@
     "summary": "A minister appealed convictions for contumacy and threatening elders with civil litigation, plus deposition and excommunication. The SJC sustained contumacy as failure to remain subject to the brethren under the ordination vow, not BCO 32-6-type contumacy. It sustained deposition but found excommunication excessive given the conflict and replaced it with indefinite suspension from the sacraments. It did not sustain the threat conviction because the attorney’s letter was absent from the record. A dissent disputed the contumacy ruling.",
     "matter_type": "appeal",
     "final_dispositions": [
-      "not_sustained"
+      "partially_sustained"
     ],
     "summary_review_status": "audited",
     "summary_source": "reviewer_approval"
@@ -3424,7 +3420,7 @@
     "summary": "Hutchinson and Bulkeley challenged Presbytery’s decision to suspend RE Neill Payne indefinitely from office but not from the Sacraments. The SJC did not sustain the complaint: BCO 30-3 expressly permits suspension from office without sacramental suspension, and no provision requires both censures together. Because the appropriate censure involved discretion and judgment, the SJC deferred absent clear error. Authority to remove or increase Payne’s censure had returned to his Session.",
     "matter_type": "complaint",
     "final_dispositions": [
-      "partially_sustained"
+      "not_sustained"
     ],
     "summary_review_status": "audited",
     "summary_source": "reviewer_approval"
@@ -3453,7 +3449,7 @@
     "summary": "Leissing challenged Presbytery's November 7 action dissolving the calls of REs Linton and Pellom. By reference to Case 2008-15, the SJC sustained the complaint: the Session had canceled the August 7 congregational meeting, so it generated no valid dissolution request and Presbytery erred in appointing the Sealy Commission. The Commission proceedings, the complaint against its decision, and Presbytery's resulting dissolution action were voided; absent subsequent congregational action, the elders' calls remained undissolved.",
     "matter_type": "complaint",
     "final_dispositions": [
-      "partially_sustained"
+      "sustained"
     ],
     "summary_review_status": "audited",
     "summary_source": "reviewer_approval"
@@ -3462,8 +3458,7 @@
     "summary": "An elder challenged Presbytery’s failure to interview accusers, alleged investigative delay, and resulting finding of no strong presumption of a pastor’s guilt. The SJC denied the complaint. BCO 31-2 requires due diligence but prescribes no timeline or interview procedure, giving courts substantial discretion before formal process begins. The ordinary stated-meeting sequence used here disclosed no clear constitutional error. The SJC therefore deferred to Presbytery’s superior proximity to the facts and upheld its finding.",
     "matter_type": "complaint",
     "final_dispositions": [
-      "denied",
-      "affirmed"
+      "denied"
     ],
     "summary_review_status": "audited",
     "summary_source": "reviewer_approval"
@@ -3472,7 +3467,6 @@
     "summary": "Lyons challenged Presbytery’s investigation of accusations against a teaching elder, alleging failure to interview accusers, undue delay, and an erroneous finding of no strong presumption of guilt. The SJC denied the complaint and additionally held that Lyons lacked standing because he was not under Presbytery’s jurisdiction. The consolidated opinion explained that BCO 31-2 requires due diligence but prescribes neither interviews nor a timeline; finding no constitutional or clear factual error, it deferred to Presbytery’s judgment.",
     "matter_type": "complaint",
     "final_dispositions": [
-      "partially_sustained",
       "denied"
     ],
     "summary_review_status": "audited",
@@ -3520,7 +3514,7 @@
     "summary": "The published Assembly record reports that Case 2009-16 was found administratively out of order. It does not identify the challenged action, type of proceeding, administrative defect, or any merits ruling or relief; the case therefore supports only that procedural status, not a substantive holding.",
     "matter_type": "complaint",
     "final_dispositions": [
-      "out_of_order"
+      "administratively_out_of_order"
     ],
     "summary_review_status": "audited",
     "summary_source": "reviewer_approval"
@@ -3529,7 +3523,7 @@
     "summary": "Armes challenged Presbytery's refusal to hear his second complaint about Session's trespass notice and threat of arrest, which Presbytery treated as duplicating his pending excommunication complaint. The SJC sustained the complaint because the trespass action occurred later and was distinct, although the matters could be heard together. It remanded for Presbytery or a commission to hear the complaint under BCO 43-8. The SJC did not decide whether Session could issue such a notice; review remained subject to timely filing and standing.",
     "matter_type": "complaint",
     "final_dispositions": [
-      "partially_sustained",
+      "sustained",
       "remanded"
     ],
     "summary_review_status": "audited",
@@ -3552,7 +3546,11 @@
       "annulled"
     ],
     "summary_review_status": "audited",
-    "summary_source": "reviewer_approval"
+    "summary_source": "reviewer_approval",
+    "review_standards": [
+      "constitutional_interpretation"
+    ],
+    "review_standards_authoritative": true
   },
   "2009-28": {
     "summary": "Nashville Presbytery's BCO 31-2 investigation of reports against TE George Grant was inadequately documented and internally inconsistent, and the evidence before Presbytery raised a strong presumption of guilt, the SJC held. It sustained the complaint, ruling that pastoral reconciliation does not displace the duty to institute judicial process, and remanded for further proceedings; it did not adjudicate Grant guilty. A concurrence agreed only in remanding to supplement the record under BCO 42-5 & 7.",
@@ -3730,14 +3728,20 @@
       "vacated"
     ],
     "summary_review_status": "audited",
-    "summary_source": "reviewer_approval"
+    "summary_source": "reviewer_approval",
+    "review_standards": [
+      "factual_findings",
+      "discretion_and_judgment",
+      "constitutional_interpretation"
+    ],
+    "review_standards_authoritative": true
   },
   "2012-08": {
     "title": "Art Sartorius et al. v. Siouxlands Presbytery",
     "summary": "Teaching and ruling elders challenged Presbytery’s approval of TE Gregory Lawrence’s acquittal on five doctrinal charges. The SJC sustained the complaint on procedural grounds: the trial commission relied on his post-indictment exculpatory writings while he declined to testify, depriving the prosecution of cross-examination. The SJC ordered a new trial on the same indictment under specified evidentiary procedures. Because this was a complaint rather than an appeal, it did not reverse the acquittals into findings of guilt or decide the doctrinal merits.",
     "matter_type": "complaint",
     "final_dispositions": [
-      "partially_sustained",
+      "sustained",
       "remanded"
     ],
     "summary_review_status": "audited",
@@ -3784,7 +3788,7 @@
     "summary": "Thompson used a BCO 43 complaint to challenge his Session indictment during an ongoing disciplinary case, according to the separate concurrence. The SJC ruled the complaint judicially out of order. It held that a defendant must raise such objections during process in the court of original jurisdiction under BCO 32-14 and, if still dissatisfied, pursue them on appeal under BCO 42-3. The ruling did not decide the indictment objection’s merits.",
     "matter_type": "complaint",
     "final_dispositions": [
-      "no_final_disposition"
+      "judicially_out_of_order"
     ],
     "summary_review_status": "audited",
     "summary_source": "reviewer_approval"
@@ -3794,7 +3798,7 @@
     "matter_type": "bco_40_5_matter",
     "final_dispositions": [
       "dismissed",
-      "no_final_disposition"
+      "administratively_out_of_order"
     ],
     "summary_review_status": "audited",
     "summary_source": "reviewer_approval"
@@ -3832,8 +3836,7 @@
     "summary": "An SJC complaint alleged that Ohio Valley Presbytery failed to comply with the SJC's prior remand in Case 2014-01, which required it to 'hear further' from TE Charles Hickey about his changed view on Larger Catechism 177. The SJC denied the complaint. It held that the prior decision neither sustained nor denied the original complaint and prescribed no particular examination procedure; Hickey's nine pages of additional affirmations, exegesis, and answers constituted hearing further, and he addressed the five identified areas at least in part. A concurrence believed the SJC could also have adjudicated the confessional-difference merits; a dissent would have found noncompliance and reached the merits.",
     "matter_type": "complaint",
     "final_dispositions": [
-      "denied",
-      "remanded"
+      "denied"
     ],
     "summary_review_status": "audited",
     "summary_source": "reviewer_approval"
@@ -3861,7 +3864,7 @@
     "summary": "The 46th General Assembly record listed Daniels et al.’s complaint against Nashville Presbytery as out of order. The sparse published record does not identify the challenged action, specify an administrative or judicial subtype, provide a reason, or decide the merits.",
     "matter_type": "complaint",
     "final_dispositions": [
-      "administratively_out_of_order"
+      "out_of_order"
     ],
     "summary_review_status": "audited",
     "summary_source": "reviewer_approval"
@@ -3907,7 +3910,7 @@
     "summary": "The SJC considered whether it could receive directly a BCO 31-2 report affecting Christian character. It ruled the matter administratively out of order and incapable of being put in order because no constitutional provision authorizes such direct receipt. The order did not address the report’s substance or direct further proceedings.",
     "matter_type": "other",
     "final_dispositions": [
-      "no_final_disposition"
+      "administratively_out_of_order"
     ],
     "summary_review_status": "audited",
     "summary_source": "reviewer_approval"
@@ -3984,7 +3987,13 @@
       "annulled"
     ],
     "summary_review_status": "audited",
-    "summary_source": "reviewer_approval"
+    "summary_source": "reviewer_approval",
+    "review_standards": [
+      "factual_findings",
+      "discretion_and_judgment",
+      "constitutional_interpretation"
+    ],
+    "review_standards_authoritative": true
   },
   "2020-09": {
     "title": "Sean Ozbalt and Erin Barr v. Pacific Presbytery",
@@ -3995,13 +4004,19 @@
       "annulled"
     ],
     "summary_review_status": "audited",
-    "summary_source": "reviewer_approval"
+    "summary_source": "reviewer_approval",
+    "review_standards": [
+      "factual_findings",
+      "discretion_and_judgment",
+      "constitutional_interpretation"
+    ],
+    "review_standards_authoritative": true
   },
   "2020-11": {
     "summary": "The complaint against Southwest Florida Presbytery ended when the SJC approved Complainant David McWilliams's request to withdraw and abandon it, by unanimous roll-call vote (24-0-0) on March 25, 2021. The adopted decision recites no underlying dispute, merits analysis, or reasons and makes no substantive ruling; the complaint stands withdrawn and abandoned. The sparse record is useful only as an example of an approved pre-decision withdrawal/abandonment.",
     "matter_type": "complaint",
     "final_dispositions": [
-      "dismissed"
+      "withdrawn"
     ],
     "summary_review_status": "audited",
     "summary_source": "reviewer_approval"
@@ -4010,7 +4025,7 @@
     "summary": "In this BCO 40-5 request, the SJC advised the Stated Clerk that Tippins v. Northwest Georgia Presbytery should be referred to the General Assembly's Review of Presbytery Records Committee. The SJC approved that action 19-3-0; three commissioners dissented. The sparse record supplies no underlying facts, merits analysis, or reason for the referral.",
     "matter_type": "bco_40_5_matter",
     "final_dispositions": [
-      "no_final_disposition"
+      "referred"
     ],
     "summary_review_status": "audited",
     "summary_source": "reviewer_approval"
@@ -4038,7 +4053,7 @@
     "matter_type": "complaint",
     "final_dispositions": [
       "sustained",
-      "remanded"
+      "annulled"
     ],
     "summary_review_status": "audited",
     "summary_source": "reviewer_approval"
@@ -4302,8 +4317,7 @@
     "summary_source": "reviewer_approval",
     "matter_type": "complaint",
     "final_dispositions": [
-      "out_of_order",
-      "dismissed"
+      "administratively_out_of_order"
     ]
   },
   "1993-01": {
@@ -4422,7 +4436,6 @@
     "summary_source": "reviewer_approval",
     "matter_type": "appeal",
     "final_dispositions": [
-      "partially_sustained",
       "denied"
     ]
   },
@@ -4441,7 +4454,7 @@
     "summary_source": "reviewer_approval",
     "matter_type": "complaint",
     "final_dispositions": [
-      "out_of_order"
+      "administratively_out_of_order"
     ]
   },
   "2000-10": {
@@ -4450,7 +4463,7 @@
     "summary_source": "reviewer_approval",
     "matter_type": "complaint",
     "final_dispositions": [
-      "out_of_order"
+      "administratively_out_of_order"
     ]
   },
   "2001-02": {
@@ -4479,7 +4492,7 @@
     "summary_source": "reviewer_approval",
     "matter_type": "complaint",
     "final_dispositions": [
-      "out_of_order",
+      "administratively_out_of_order",
       "dismissed"
     ]
   },
@@ -4555,8 +4568,7 @@
     "summary_source": "reviewer_approval",
     "matter_type": "complaint",
     "final_dispositions": [
-      "not_sustained",
-      "affirmed"
+      "not_sustained"
     ]
   },
   "2001-28": {
@@ -4566,8 +4578,7 @@
     "summary_source": "reviewer_approval",
     "matter_type": "complaint",
     "final_dispositions": [
-      "not_sustained",
-      "affirmed"
+      "not_sustained"
     ]
   },
   "2001-30": {
@@ -4632,7 +4643,7 @@
     "summary_source": "reviewer_approval",
     "matter_type": "complaint",
     "final_dispositions": [
-      "administratively_out_of_order"
+      "out_of_order"
     ]
   },
   "2003-04": {
@@ -4710,7 +4721,7 @@
     "summary_source": "reviewer_approval",
     "matter_type": "appeal",
     "final_dispositions": [
-      "out_of_order"
+      "judicially_out_of_order"
     ]
   },
   "2007-03": {
@@ -4877,7 +4888,7 @@
     "summary_source": "reviewer_approval",
     "matter_type": "complaint",
     "final_dispositions": [
-      "out_of_order"
+      "denied"
     ]
   },
   "2011-05": {
@@ -4886,7 +4897,7 @@
     "summary_source": "reviewer_approval",
     "matter_type": "complaint",
     "final_dispositions": [
-      "no_final_disposition"
+      "administratively_out_of_order"
     ]
   },
   "2011-06": {
@@ -4895,7 +4906,6 @@
     "summary_source": "reviewer_approval",
     "matter_type": "complaint",
     "final_dispositions": [
-      "sustained",
       "moot"
     ]
   },
@@ -4905,7 +4915,7 @@
     "summary_source": "reviewer_approval",
     "matter_type": "complaint",
     "final_dispositions": [
-      "no_final_disposition"
+      "administratively_out_of_order"
     ]
   },
   "2011-13": {
@@ -4924,7 +4934,11 @@
     "matter_type": "complaint",
     "final_dispositions": [
       "sustained"
-    ]
+    ],
+    "review_standards": [
+      "constitutional_interpretation"
+    ],
+    "review_standards_authoritative": true
   },
   "2011-19": {
     "summary": "Mr. Frank Testa's case against Southern Florida Presbytery was found administratively out of order by the 40th General Assembly, a procedural disposition rather than a merits ruling. No separate merits opinion was published, and the source does not identify the challenged action, grounds, or rationale. It lists 2011-19 among cases found administratively out of order, while another case was found judicially out of order.",
@@ -4951,7 +4965,7 @@
     "summary_source": "reviewer_approval",
     "matter_type": "complaint",
     "final_dispositions": [
-      "no_final_disposition"
+      "administratively_out_of_order"
     ]
   },
   "2012-05": {
@@ -4969,7 +4983,7 @@
     "summary_source": "reviewer_approval",
     "matter_type": "complaint",
     "final_dispositions": [
-      "no_final_disposition"
+      "administratively_out_of_order"
     ]
   },
   "2012-09": {
@@ -4978,7 +4992,7 @@
     "summary_source": "reviewer_approval",
     "matter_type": "complaint",
     "final_dispositions": [
-      "no_final_disposition"
+      "administratively_out_of_order"
     ]
   },
   "2012-10": {
@@ -5014,8 +5028,7 @@
     "summary_source": "reviewer_approval",
     "matter_type": "complaint",
     "final_dispositions": [
-      "sustained",
-      "remanded"
+      "sustained"
     ]
   },
   "2013-09": {
@@ -5051,7 +5064,7 @@
     "summary_source": "reviewer_approval",
     "matter_type": "complaint",
     "final_dispositions": [
-      "partially_sustained"
+      "remanded"
     ]
   },
   "2015-01": {
@@ -5060,7 +5073,7 @@
     "summary_source": "reviewer_approval",
     "matter_type": "complaint",
     "final_dispositions": [
-      "no_final_disposition"
+      "administratively_out_of_order"
     ]
   },
   "2015-02": {
@@ -5069,7 +5082,7 @@
     "summary_source": "reviewer_approval",
     "matter_type": "complaint",
     "final_dispositions": [
-      "no_final_disposition"
+      "administratively_out_of_order"
     ]
   },
   "2015-03": {
@@ -5078,7 +5091,6 @@
     "summary_source": "reviewer_approval",
     "matter_type": "complaint",
     "final_dispositions": [
-      "dismissed",
       "moot"
     ]
   },
@@ -5088,7 +5100,7 @@
     "summary_source": "reviewer_approval",
     "matter_type": "complaint",
     "final_dispositions": [
-      "no_final_disposition"
+      "administratively_out_of_order"
     ]
   },
   "2015-08": {
@@ -5107,7 +5119,7 @@
     "matter_type": "bco_40_5_matter",
     "final_dispositions": [
       "dismissed",
-      "no_final_disposition"
+      "administratively_out_of_order"
     ]
   },
   "2015-12": {
@@ -5116,7 +5128,7 @@
     "summary_source": "reviewer_approval",
     "matter_type": "complaint",
     "final_dispositions": [
-      "dismissed"
+      "administratively_out_of_order"
     ]
   },
   "2015-13": {
@@ -5135,7 +5147,7 @@
     "summary_source": "reviewer_approval",
     "matter_type": "complaint",
     "final_dispositions": [
-      "no_final_disposition"
+      "administratively_out_of_order"
     ]
   },
   "2016-07": {
@@ -5203,7 +5215,11 @@
     "final_dispositions": [
       "sustained",
       "annulled"
-    ]
+    ],
+    "review_standards": [
+      "constitutional_interpretation"
+    ],
+    "review_standards_authoritative": true
   },
   "2017-02": {
     "summary": "The SJC denied a complaint challenging Heritage Presbytery’s November 12, 2016 action charging a teaching elder with violating ordination vows 6 and 7 and appointing a prosecutor to investigate and, if necessary, indict. The complaint alleged the investigating committee lacked authority for judicial process, no written report existed, and the procedure and wording violated BCO 31-2. The Commission held a committee recommendation is not judicial action, no special instruction was required, the BCO 31-2 steps were followed, and the wording did not violate the accused’s rights.",
@@ -5239,7 +5255,7 @@
     "summary_source": "reviewer_approval",
     "matter_type": "complaint",
     "final_dispositions": [
-      "no_final_disposition"
+      "administratively_out_of_order"
     ]
   },
   "2018-06": {
@@ -5248,7 +5264,7 @@
     "summary_source": "reviewer_approval",
     "matter_type": "complaint",
     "final_dispositions": [
-      "no_final_disposition"
+      "administratively_out_of_order"
     ]
   },
   "2019-02": {
@@ -5296,7 +5312,13 @@
     "matter_type": "complaint",
     "final_dispositions": [
       "sustained"
-    ]
+    ],
+    "review_standards": [
+      "factual_findings",
+      "discretion_and_judgment",
+      "constitutional_interpretation"
+    ],
+    "review_standards_authoritative": true
   },
   "2020-10": {
     "summary": "A complaint was filed with the SJC before Savannah River Presbytery completed its hearing on it. The SJC held the complaint administratively out of order as prematurely filed and did not reach the merits. It reset the complainant's time to elevate the complaint so that timing begins on the later of notification of the SJC action or Presbytery's ruling. The SJC adopted the decision by roll call.",
@@ -5304,7 +5326,7 @@
     "summary_source": "reviewer_approval",
     "matter_type": "complaint",
     "final_dispositions": [
-      "no_final_disposition"
+      "administratively_out_of_order"
     ]
   },
   "2020-13": {
@@ -5323,7 +5345,7 @@
     "summary_source": "reviewer_approval",
     "matter_type": "complaint",
     "final_dispositions": [
-      "no_final_disposition"
+      "administratively_out_of_order"
     ]
   },
   "2021-05": {
@@ -5332,7 +5354,7 @@
     "summary_source": "reviewer_approval",
     "matter_type": "complaint",
     "final_dispositions": [
-      "no_final_disposition"
+      "administratively_out_of_order"
     ]
   },
   "2021-12": {
@@ -5371,7 +5393,11 @@
     "matter_type": "complaint",
     "final_dispositions": [
       "sustained"
-    ]
+    ],
+    "review_standards": [
+      "constitutional_interpretation"
+    ],
+    "review_standards_authoritative": true
   },
   "2022-07": {
     "summary": "The SJC sustained an appeal by seven members of a 38-member mission church who were convicted by their temporary Session of opposing the organizing minister's expected election as pastor. Reversing the Presbytery's affirmance and the guilty verdicts underlying indefinite suspensions, the SJC held the indictments fatally lacked BCO 32-5 specificity; Presbytery used the wrong standard of review; the Session had no authority to control pastoral selection; and no Fifth or Ninth Commandment offense was proved. Challenges to witness-judges, venue, and refusal to refer were rejected.",
@@ -5389,7 +5415,7 @@
     "summary_source": "reviewer_approval",
     "matter_type": "complaint",
     "final_dispositions": [
-      "no_final_disposition"
+      "administratively_out_of_order"
     ]
   },
   "2022-09": {
@@ -5398,7 +5424,7 @@
     "summary_source": "reviewer_approval",
     "matter_type": "complaint",
     "final_dispositions": [
-      "no_final_disposition"
+      "administratively_out_of_order"
     ]
   },
   "2022-13": {
@@ -5407,7 +5433,7 @@
     "summary_source": "reviewer_approval",
     "matter_type": "complaint",
     "final_dispositions": [
-      "dismissed"
+      "administratively_out_of_order"
     ]
   },
   "2022-15": {
@@ -5416,7 +5442,7 @@
     "summary_source": "reviewer_approval",
     "matter_type": "complaint",
     "final_dispositions": [
-      "no_final_disposition"
+      "administratively_out_of_order"
     ]
   },
   "2022-16": {
@@ -5426,7 +5452,6 @@
     "matter_type": "complaint",
     "final_dispositions": [
       "out_of_order",
-      "dismissed",
       "moot"
     ]
   },
@@ -5484,7 +5509,25 @@
     "summary_source": "reviewer_approval",
     "matter_type": "complaint",
     "final_dispositions": [
-      "denied"
+      "judicially_out_of_order"
+    ]
+  },
+  "1989-01": {
+    "final_dispositions": [
+      "not_sustained",
+      "denied",
+      "affirmed"
+    ]
+  },
+  "1993-07": {
+    "final_dispositions": [
+      "judicially_out_of_order",
+      "remanded"
+    ]
+  },
+  "1996-05": {
+    "final_dispositions": [
+      "administratively_out_of_order"
     ]
   }
 }
