@@ -47,6 +47,8 @@ jobs:
           python3 scripts/37_overture_pages.py .
       - name: Reconcile judicial case artifacts
         run: python3 scripts/27_case_index_reconcile.py
+      - name: Synchronize case-page cards from judicial metadata
+        run: python3 scripts/84_sync_case_page_metadata.py .
       - name: Regenerate judicial case catalogue
         run: python3 scripts/13_judicial_taxonomy_index.py .
       - name: Check in generated judicial case catalogue

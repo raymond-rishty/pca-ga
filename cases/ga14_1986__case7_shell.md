@@ -1,6 +1,6 @@
-# 7 — TE William A. Shell v. Great Lakes Presbytery
+# 1986-07 — William A. Shell v. Great Lakes Presbytery
 
-**Court:** Committee on Judicial Business (CJB)  ·  **Assembly:** 14th (1986)  ·  **Disposition:** not in order
+**Court:** Committee on Judicial Business (CJB)  ·  **Assembly:** 14th (1986)  ·  **Disposition:** Out of order (type not stated)
 
 *Source: [ga14_1986 p. 124](../markdown/ga14_1986.md#ga14-p126)*
 
