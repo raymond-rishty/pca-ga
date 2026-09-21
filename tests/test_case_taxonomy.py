@@ -213,12 +213,14 @@ def test_generated_catalog_carries_stable_evans_identity_and_all_roster_rows():
     assert catalogue.count('class="judicial-case__rail"') == len(rows)
     assert catalogue.count('class="judicial-details__toggle"') == len(rows)
     assert 'aria-controls="judicial-details-2023-04"' in catalogue
+    assert 'aria-label="Show details for Biese et al. v. Tennessee Valley Presbytery"' in catalogue
     assert 'class="judicial-detail-pills"' in catalogue
     assert 'class="judicial-detail-pill">Sabbath observance' in catalogue
     assert 'legacy 2023-4' in catalogue
     assert 'legacy `2023-4`' not in catalogue
-    assert 'aria-label="Case actions"' in catalogue
-    assert '>Actions</button>' in catalogue
+    assert 'aria-label="More actions for Biese et al. v. Tennessee Valley Presbytery"' in catalogue
+    assert 'aria-controls="judicial-actions-menu-2023-04"' in catalogue
+    assert '>More actions</button>' in catalogue
     assert 'data-judicial-action="cite"' in catalogue
     assert 'data-judicial-short-citation="2019-03 Crouse v. Northwest Georgia"' in catalogue
     assert 'data-judicial-full-citation="Case 2011-02: Gonzales v. Great Lakes, M40GA, pp. 551–556"' in catalogue
