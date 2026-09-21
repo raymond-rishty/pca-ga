@@ -1,6 +1,6 @@
 # Position Papers / Study Committee Reports — Specification
 
-The fifth catalogue, alongside **Judicial Cases** (`SPEC-JUDICIAL-CASES.md`), **Overtures**
+The fifth catalogue, alongside **Judicial Cases** (`SPEC-JUDICIAL-CASES.html`), **Overtures**
 (`SPEC-OVERTURES.md`), **Constitutional Inquiries** (`SPEC-INQUIRIES.md`), and **Review of
 Presbytery Records** (`SPEC-RPR.md`). A **position paper** — equivalently a **study committee
 report** or **report of an ad-interim committee** — is the document produced by a committee appointed
@@ -90,7 +90,7 @@ handle.
   mixed heading levels, with looser titles ("Committee to Study …"). The foundational positions live
   here (Number of Offices, Abortion 1978, Alcohol 1980, Baptism 1977/1987, Divorce 1992,
   Church/State 1987–88, Freemasonry 1987–88, Homosexuality 1977–99). Per-era heading discovery, like
-  the CJB case era (`SPEC-JUDICIAL-CASES.md` §2).
+  the CJB case era (`SPEC-JUDICIAL-CASES.html` §2).
 
 ## 4. The roster authority (anchor on pcahistory.org "Studies & Reports")
 
@@ -170,7 +170,7 @@ notice that the text is PDF-derived rather than GA-minutes-derived.
    added to `18_structure.py`, guarded against citations of a prior report (reuse the `_CITE`/`_GAREF`
    guards from `25_case_extract.py` so "as noted in the FV Report" is not a header). Bound each report
    to its appendix using the same `APPENDIX <X>` / page-anchor bounding as the case and RPR layers
-   (`SPEC-JUDICIAL-CASES.md` §3, `SPEC-RPR.md` §5) so the adjacent committee report doesn't bleed in.
+   (`SPEC-JUDICIAL-CASES.html` §3, `SPEC-RPR.md` §5) so the adjacent committee report doesn't bleed in.
    The region's span (first line → last line, with page anchors) is the **full-text link target**.
 2. **Slice the inline parts** — the committee mandate and the **Recommendations** block, verbatim. LLM
    agents return line ranges, code slices — no fabricated text (the rule in every layer); the long
@@ -179,7 +179,7 @@ notice that the text is PDF-derived rather than GA-minutes-derived.
    adopted | recommitted | postponed) …`) acting on this report and slice its verbatim sentence(s);
    classify (§6). Optionally capture the appointing motion as a "commissioned by" back-link. The
    messier scanned volumes use the locate-then-slice agent pass (as CJB cases / SJC stragglers did,
-   `SPEC-JUDICIAL-CASES.md` §5).
+   `SPEC-JUDICIAL-CASES.html` §5).
 4. **Group, don't thread** — attach each document to its **topic** (roster topic + alias match) and
    cross-link sibling papers under that topic (initial ↔ final, majority ↔ minority, 1977 ↔ 1987).
    This is grouping for navigation, not the year-by-year timeline reconstruction of RPR.

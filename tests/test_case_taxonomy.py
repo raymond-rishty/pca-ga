@@ -204,7 +204,7 @@ def test_generated_catalog_carries_stable_evans_identity_and_all_roster_rows():
     assert all(row["standard_of_review"] in MODULE.STANDARD_OF_REVIEW_CODES for row in rows)
     assert all(set(row["review_standards"]).issubset(MODULE.REVIEW_STANDARD_CODES) for row in rows)
     assert all(row["summary_review_status"] in {"audited", "pending_audit"} for row in rows)
-    catalogue = (ROOT / "index" / "JUDICIAL-CASES.md").read_text(encoding="utf-8")
+    catalogue = (ROOT / "index" / "JUDICIAL-CASES.html").read_text(encoding="utf-8")
     assert catalogue.count('class="judicial-case__summary-toggle"') == len(rows)
     assert 'aria-controls="judicial-summary-2023-04"' in catalogue
     assert 'class="judicial-case__topics-extra"' in catalogue
@@ -343,7 +343,7 @@ def test_audited_identity_corrections_survive_auxiliary_case_merge():
 
 
 def test_human_index_is_generated_from_the_canonical_layer():
-    index = (ROOT / "index" / "JUDICIAL-CASES.md").read_text(encoding="utf-8")
+    index = (ROOT / "index" / "JUDICIAL-CASES.html").read_text(encoding="utf-8")
     assert "# Judicial cases" in index
     assert "Review basis" in index
     assert "Matter type" in index

@@ -968,6 +968,9 @@ def main():
         page_header = page_body[:2400]
         page_headings = case_page_headings(page_body)
         era, era_label = page_era_info(page_body, era, era_label)
+        if override.get("era_id"):
+            era = override["era_id"]
+            era_label = override.get("era_label") or era_label
         inferred_matter_type = classify_matter_type(
             raw_title, title, record.get("title"), page_headings
         )

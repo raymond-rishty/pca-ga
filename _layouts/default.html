@@ -71,7 +71,7 @@
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Crimson+Pro:ital,wght@0,300;0,400;0,500;0,600;1,300;1,400&family=DM+Sans:wght@300;400;500&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="{{ '/assets/pca-style.css' | relative_url }}">
-  {% if page_type == 'volume' %}
+  {% if page_type == 'volume' or page.url == '/index/JUDICIAL-CASES.html' %}
     <link rel="stylesheet" href="{{ '/assets/minutes-back-to-top.css' | relative_url }}">
   {% endif %}
   {% if page_type == 'case' %}
@@ -107,7 +107,7 @@
     <div class="sb-section-label">Browse</div>
     <ul class="sb-list">
       <li><a href="{{ '/browse.html#provisions' | relative_url }}"><span class="sb-icon" aria-hidden="true">§</span>By constitutional provision</a></li>
-      <li><a href="{{ '/index/CASES.html' | relative_url }}"><span class="sb-icon" aria-hidden="true">⚖</span>Judicial cases</a></li>
+      <li><a href="{{ '/index/JUDICIAL-CASES.html' | relative_url }}"><span class="sb-icon" aria-hidden="true">⚖</span>Judicial cases</a></li>
       <li><a href="{{ '/index/OVERTURES.html' | relative_url }}"><span class="sb-icon" aria-hidden="true">▤</span>Overtures &amp; amendments</a></li>
       <li><a href="{{ '/index/RPR.html' | relative_url }}"><span class="sb-icon" aria-hidden="true">✓</span>RPR exceptions</a></li>
       <li><a href="{{ '/index/INQUIRIES.html' | relative_url }}"><span class="sb-icon" aria-hidden="true">?</span>Constitutional inquiries</a></li>
@@ -159,7 +159,7 @@
           {% if page_ga_num %}
             <span aria-hidden="true">/</span>
             {% if page_type == 'case' %}
-              <a href="{{ '/index/CASES.html' | relative_url }}">Judicial cases</a>
+              <a href="{{ '/index/JUDICIAL-CASES.html' | relative_url }}">Judicial cases</a>
               <span aria-hidden="true">/</span>
               <a href="{{ '/markdown/' | append: vol_slug | append: '.html' | relative_url }}">{{ page_ga_num }}{{ page_ga_suffix }} GA ({{ page_ga_year }})</a>
               <span aria-hidden="true">/</span>
@@ -249,7 +249,7 @@
 
   <script src="{{ '/assets/research-store.js' | relative_url }}"></script>
   <script src="{{ '/assets/pca-nav.js' | relative_url }}"></script>
-  {% if page_type == 'volume' %}
+  {% if page_type == 'volume' or page.url == '/index/JUDICIAL-CASES.html' %}
     <script src="{{ '/assets/minutes-back-to-top.js' | relative_url }}"></script>
   {% endif %}
   {% if page_type == 'case' %}

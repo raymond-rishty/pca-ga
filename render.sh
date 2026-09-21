@@ -27,6 +27,12 @@ sync_file() {
 
 echo "[1/8] INDEX + OVERTURES + CASES + per-volume outlines (DB-backed; build tree only)…"
 python3 "$S/20_markdown_index.py"                       # ROOT hardcoded /workspace (needs pca_minutes.db)
+
+# Canonical judicial catalogue: structured JSONL -> published HTML.  The HTML is
+# checked in for Pages/review convenience, but is always regenerated here so it
+# cannot drift from index/judicial_cases.jsonl.
+python3 "$S/13_judicial_taxonomy_index.py" "$BUILD"
+python3 "$S/13_judicial_taxonomy_index.py" "$PUB"
 mkdir -p "$PUB/index/outlines"
 for f in INDEX OVERTURES CASES; do sync_file "$BUILD/index/$f.md" "$PUB/index/$f.md"; done
 for f in "$BUILD"/index/outlines/*.md; do sync_file "$f" "$PUB/index/outlines/$(basename "$f")"; done

@@ -2,7 +2,7 @@
 """Render the canonical judicial-case taxonomy as a human-readable index.
 
 This is intentionally a separate catalogue from ``index/CASES.md``.  CASES.md
-is the legacy extraction/index view; JUDICIAL-CASES.md is the one-row-per-
+is the legacy extraction/index view; JUDICIAL-CASES.html is the one-row-per-
 rostered-case editorial view produced by scripts/12_case_taxonomy.py.
 """
 from __future__ import annotations
@@ -264,7 +264,7 @@ def candidate_overlays(root, registry_name):
 
 def candidate_review_label(candidate):
     path = candidate["path"]
-    # JUDICIAL-CASES.md is in index/, so keep its candidate links relative.
+    # JUDICIAL-CASES.html is in index/, so keep its candidate links relative.
     link = path[len("index/"):] if path.startswith("index/") else "../" + path
     provider = "Sol" if candidate["provider"] == "openai" else "DeepSeek"
     return f"[Candidate — {provider}; needs source audit]({link})"
@@ -309,7 +309,7 @@ def main(argv=None):
     args = parser.parse_args(argv)
     root = os.path.abspath(args.root)
     source_path = os.path.join(root, "index", "judicial_cases.jsonl")
-    output_path = os.path.join(root, "index", "JUDICIAL-CASES.md")
+    output_path = os.path.join(root, "index", "JUDICIAL-CASES.html")
     overlays, registry_path = candidate_overlays(root, args.candidate_registry)
 
     with open(source_path, encoding="utf-8") as source:
@@ -318,9 +318,16 @@ def main(argv=None):
     rows.sort(key=lambda row: (-int(str(row.get("case_id") or row.get("roster_id") or "0").split("-")[0]) if str(row.get("case_id") or row.get("roster_id") or "0").split("-")[0].isdigit() else 0, row.get("case_id") or row.get("roster_id") or ""))
     statuses = Counter(row.get("classification_status") for row in rows)
     lines = [
-        "# Judicial cases",
+        "---",
+        "layout: default",
+        "title: Judicial cases",
+        "description: Canonical PCA SJC/CJB judicial-case catalogue with summaries, dispositions, constitutional references, and source records.",
+        "permalink: /index/JUDICIAL-CASES.html",
+        "---",
         "",
-        "Cases decided by the Standing Judicial Commission and its predecessor, the Committee on Judicial Business. Browse the docket by year, read the editorial synopsis, and open the details shelf for constitutional references and source identifiers.",
+        "<h1>Judicial cases</h1>",
+        "",
+        "<p>Cases decided by the Standing Judicial Commission and its predecessor, the Committee on Judicial Business. Browse the docket by year, read the editorial synopsis, and open the details shelf for constitutional references and source identifiers.</p>",
         "",
         '<section class="judicial-catalogue-tools" aria-label="Catalogue tools">',
         '<label for="judicialCaseSearch">Search cases</label>',
