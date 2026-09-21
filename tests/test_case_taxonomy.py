@@ -211,6 +211,7 @@ def test_generated_catalog_carries_stable_evans_identity_and_all_roster_rows():
     assert 'class="judicial-topics__toggle"' in catalogue
     assert 'aria-label="Show 11 more topics"' in catalogue
     assert catalogue.count('class="judicial-case__rail"') == len(rows)
+    assert catalogue.count('class="judicial-case__heading"') == len(rows)
     assert catalogue.count('class="judicial-details__toggle"') == len(rows)
     assert 'aria-controls="judicial-details-2023-04"' in catalogue
     assert 'aria-label="Show details for Biese et al. v. Tennessee Valley Presbytery"' in catalogue
@@ -241,6 +242,16 @@ def test_generated_catalog_carries_stable_evans_identity_and_all_roster_rows():
         for row in rows for provision in row["bco_provisions"]
     )
 
+
+
+def test_generated_catalog_places_actions_between_heading_and_synopsis():
+    catalogue = (ROOT / "index" / "JUDICIAL-CASES.html").read_text(encoding="utf-8")
+    assert catalogue.count('class="judicial-case__heading"') == 501
+    for docket in ("2023-04", "2008-08"):
+        sample_start = catalogue.index(f'<article class="judicial-case" id="case-{docket}"')
+        sample_end = catalogue.index("</article>", sample_start)
+        sample = catalogue[sample_start:sample_end]
+        assert sample.index("judicial-case__heading") < sample.index("judicial-case__rail") < sample.index("judicial-case__content")
 
 def test_previously_unresolved_cases_have_source_grounded_classifications():
     rows = {
