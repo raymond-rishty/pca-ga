@@ -18,7 +18,9 @@ test('record navigation captures every supported canonical record family', () =>
   assert.match(nav, /pca-ga-return-context/);
   assert.match(nav, /destination !== location\.pathname/);
   assert.match(nav, /searchParams\.set\('q'/);
-  assert.match(nav, /searchParams\.set\('year'/);  assert.match(nav, /\.home-result\[href\], \[data-judicial-record\] h3 a\[href\], \.reading-col table a\[href\]/);
+  assert.match(nav, /searchParams\.set\('year'/);
+  assert.match(nav, /\[data-result-primary\]\[href\]/);
+  assert.match(nav, /\.reading-col table a\[href\]/);
 });
 
 test('search state keeps loaded result depth deep-linkable', () => {
@@ -26,4 +28,6 @@ test('search state keeps loaded result depth deep-linkable', () => {
   assert.match(search, /searchParams\.set\('shown'/);
   assert.match(search, /initialShown/);
   assert.match(search, /data-result-primary/);
+  assert.match(search, /pca-results-ready/);
+  assert.match(search, /data-result-action="save"/);
 });
