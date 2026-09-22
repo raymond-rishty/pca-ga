@@ -307,8 +307,25 @@ def main():
         return (f'<span class="home-result__fact"><b>{card_text(label)}:</b> '
                 f'{card_text(value)}</span>')
 
+    def card_body(value):
+        return f'<p class="rpr-card__body">{card_text(value)}</p>'
+
     def card_link(label, href, class_name="home-result__title"):
-        return f'<a class="{class_name}" href="{card_text(href)}">{card_text(label)}</a>'
+        return (f'<a class="{class_name}" data-result-primary data-result-type="RPR exception" '
+                f'data-result-title="{card_text(label)}" href="{card_text(href)}">'
+                f'{card_text(label)}</a>')
+
+    def card_actions():
+        return ('<details class="result-actions"><summary>Actions</summary>'
+                '<div class="result-actions__panel" aria-label="Record actions">'
+                '<button type="button" data-result-action="save">Save</button>'
+                '<button type="button" data-result-action="cite">Cite</button>'
+                '<button type="button" data-result-action="link">Copy link</button>'
+                '</div></details>')
+
+    def card_attributes(title, href):
+        return (f'data-result-item data-result-url="{card_text(href)}" '
+                f'data-result-title="{card_text(title)}" data-result-type="RPR exception"')
 
     def presbytery_card(t, href):
         sjc = ('<span class="home-result__separator" aria-hidden="true">•</span>'
@@ -320,10 +337,14 @@ def main():
         facts = ([card_meta("Provision(s)", provisions)] if provisions else [])
         facts += [card_meta("Lifecycle", lifecycle(t)),
                   card_meta("Final disposition", DISP.get(t["final"], t["final"]))]
-        return (f'<article class="home-result home-result--rpr rpr-card">'
+        result_title = f'{t["canon"]} — {ordinal(t["first_ga"])} ({t["first_year"]}) RPR exception'
+        return (f'<article class="home-result home-result--rpr rpr-card" '
+                f'{card_attributes(result_title, href)}>'
                 f'<span class="home-result__metadata">{metadata}</span>'
-                f'{card_link((t["description"] or "Exception of substance")[:110] + "…", href)}'
-                f'<span class="home-result__facts">{"".join(facts)}</span></article>')
+                f'{card_link(provisions or "Exception of substance", href, "home-result__title")}'
+                f'{card_body(t["description"] or "Exception of substance")}'
+                f'<span class="home-result__facts">{"".join(facts)}</span>'
+                f'{card_actions()}</article>')
 
     def provision_card(t, presbytery_href, exception_href):
         metadata = (f'<span class="home-result__category">{card_text(t["canon"])}</span>'
@@ -332,14 +353,17 @@ def main():
         if t.get("sjc_row"):
             metadata += ('<span class="home-result__separator" aria-hidden="true">•</span>'
                          '<span class="home-result__category">⚖️ SJC</span>')
-        title = (t["description"] or "Exception of substance")[:120] + "…"
         facts = (f'<span class="home-result__fact"><b>Presbytery:</b> '
                  f'<a href="{card_text(presbytery_href)}">{card_text(t["canon"])}</a></span>'
                  f'{card_meta("Final disposition", DISP.get(t["final"], t["final"]))}')
-        return (f'<article class="home-result home-result--rpr rpr-card rpr-card--compact">'
+        result_title = f'{t["canon"]} — {ordinal(t["first_ga"])} ({t["first_year"]}) RPR exception'
+        return (f'<article class="home-result home-result--rpr rpr-card rpr-card--compact" '
+                f'{card_attributes(result_title, exception_href)}>'
                 f'<span class="home-result__metadata">{metadata}</span>'
-                f'{card_link(title, exception_href)}'
-                f'<span class="home-result__facts">{facts}</span></article>')
+                f'{card_link(t["canon"], exception_href)}'
+                f'{card_body(t["description"] or "Exception of substance")}'
+                f'<span class="home-result__facts">{facts}</span>'
+                f'{card_actions()}</article>')
 
     def write_exc_page(t, fname, presb_slug):
         a0 = t["appearances"][0]

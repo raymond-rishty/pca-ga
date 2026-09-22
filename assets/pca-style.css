@@ -670,6 +670,8 @@ textarea:focus-visible {
 .rpr-card .home-result__title { border-bottom: 0; color: var(--ink); text-decoration: none; }
 .rpr-card .home-result__title:hover { text-decoration: underline; text-decoration-color: var(--gold); text-underline-offset: .18em; }
 .rpr-card .home-result__fact a { color: inherit; text-decoration-color: var(--parch-deep); text-underline-offset: .15em; }
+.rpr-card__body { max-width: 92ch; margin: .45rem 0 0; color: var(--ink); font: .98rem/1.55 var(--serif); overflow-wrap: anywhere; }
+.rpr-card--compact .rpr-card__body { max-width: 76ch; margin-top: .32rem; font-size: .86rem; line-height: 1.48; }
 .rpr-card--compact { padding: .72rem .85rem .78rem 1rem; }
 .rpr-card--compact::before { top: .8rem; bottom: .82rem; }
 .rpr-card--compact .home-result__metadata { gap: .2rem .4rem; margin-bottom: .25rem; font-size: 9px; }
