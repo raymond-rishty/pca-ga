@@ -11,7 +11,7 @@ YYYY-NN id where present, else (presbytery, minute-date, provisions)) -> render 
 Usage: 33_rpr_build.py [ROOT]   (ROOT defaults to /workspace)
 """
 from __future__ import annotations
-import glob, json, os, re, sys
+import glob, html, json, os, re, sys
 from pathlib import Path
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
@@ -215,7 +215,7 @@ def main():
                     if re.search(r"(?:^|\n|:)\s*(?:[-*]\s*)?(?:[a-z]\.?\s*)?" + re.escape(canon)
                                  + r"(?:\s+Presbytery)?\s*(?:\(|$)", block, re.I | re.M):
                         sjc_by_presb.setdefault(presb, {}).setdefault(ga, {
-                            "year": year, "link": f"markdown/{stem}.md#{anchor}" if anchor else f"markdown/{stem}.md"
+                            "year": year, "link": f"markdown/{stem}.html#{anchor}" if anchor else f"markdown/{stem}.html"
                         })
     # match presbytery -> SJC cases, but ONLY GA-initiated citation cases (40-5 escalations),
     # not unrelated individual complaints that merely name the presbytery.
@@ -260,7 +260,7 @@ def main():
         cs = cases_for(presb)
         sjc_full[presb] = {"citations": [{"ga": g, **citation} for g, citation in sorted(sjc_by_presb.get(presb, {}).items())],
                            "cases": [{"num": n, "label": f"{t[:55]} ({n})" if t else n,
-                                      "link": f"cases/{f}.md"} for n, f, t in cs[:5]]}
+                                      "link": f"cases/{f}.html"} for n, f, t in cs[:5]]}
     # presbytery-level 40-5 citation (banner/hub)
     for t in threads.values():
         t["sjc"] = sjc_full.get(t["canon"])
@@ -299,6 +299,47 @@ def main():
 
     def lifecycle(t):
         return " → ".join(f"{a['finding']} ({ordinal(a['ga_ordinal'])})" for a in t["appearances"])
+
+    def card_text(value):
+        return html.escape(str(value or ""), quote=True)
+
+    def card_meta(label, value):
+        return (f'<span class="home-result__fact"><b>{card_text(label)}:</b> '
+                f'{card_text(value)}</span>')
+
+    def card_link(label, href, class_name="home-result__title"):
+        return f'<a class="{class_name}" href="{card_text(href)}">{card_text(label)}</a>'
+
+    def presbytery_card(t, href):
+        sjc = ('<span class="home-result__separator" aria-hidden="true">•</span>'
+               '<span class="home-result__category">⚖️ SJC</span>') if t.get("sjc_row") else ""
+        metadata = (f'<span class="home-result__category">RPR exception</span>'
+                    f'<span class="home-result__separator" aria-hidden="true">•</span>'
+                    f'<span>{card_text(ordinal(t["first_ga"]))} ({card_text(t["first_year"])})</span>{sjc}')
+        provisions = ", ".join(t["provisions"])
+        facts = ([card_meta("Provision(s)", provisions)] if provisions else [])
+        facts += [card_meta("Lifecycle", lifecycle(t)),
+                  card_meta("Final disposition", DISP.get(t["final"], t["final"]))]
+        return (f'<article class="home-result home-result--rpr rpr-card">'
+                f'<span class="home-result__metadata">{metadata}</span>'
+                f'{card_link((t["description"] or "Exception of substance")[:110] + "…", href)}'
+                f'<span class="home-result__facts">{"".join(facts)}</span></article>')
+
+    def provision_card(t, presbytery_href, exception_href):
+        metadata = (f'<span class="home-result__category">{card_text(t["canon"])}</span>'
+                    f'<span class="home-result__separator" aria-hidden="true">•</span>'
+                    f'<span>{card_text(ordinal(t["first_ga"]))} ({card_text(t["first_year"])})</span>')
+        if t.get("sjc_row"):
+            metadata += ('<span class="home-result__separator" aria-hidden="true">•</span>'
+                         '<span class="home-result__category">⚖️ SJC</span>')
+        title = (t["description"] or "Exception of substance")[:120] + "…"
+        facts = (f'<span class="home-result__fact"><b>Presbytery:</b> '
+                 f'<a href="{card_text(presbytery_href)}">{card_text(t["canon"])}</a></span>'
+                 f'{card_meta("Final disposition", DISP.get(t["final"], t["final"]))}')
+        return (f'<article class="home-result home-result--rpr rpr-card rpr-card--compact">'
+                f'<span class="home-result__metadata">{metadata}</span>'
+                f'{card_link(title, exception_href)}'
+                f'<span class="home-result__facts">{facts}</span></article>')
 
     def write_exc_page(t, fname, presb_slug):
         a0 = t["appearances"][0]
@@ -363,7 +404,7 @@ def main():
         L = [f"# {presb} Presbytery — Review of Records exceptions of substance", "",
              f"*{len(ts)} threaded exception(s) of substance across GA{ts[0]['first_ga']}–"
              f"{max(t['appearances'][-1]['ga_ordinal'] for t in ts)} ({yrs[0]}–{yrs[-1]}). "
-             "Each row links to the full exception with its year-by-year text.*", ""]
+             "Each card links to the full exception with its year-by-year text.*", ""]
         if sjc_full.get(presb) and (sjc_full[presb]["citations"] or sjc_full[presb]["cases"]):
             s = sjc_full[presb]
             cl = ("**⚖️ Cited to the Standing Judicial Commission (BCO 40-5)** at the "
@@ -372,19 +413,13 @@ def main():
             rel = ("  Related case(s): " if s["citations"] else "  ") + \
                   ", ".join(f"[{md_escape(c['label'])}](../{c['link']})" for c in s["cases"]) if s["cases"] else ""
             L += ["> " + cl + rel, ""]
-        L += ["| First raised | Provision(s) | Exception | Lifecycle | Final disposition |",
-              "|---|---|---|---|---|"]
         for i, t in enumerate(ts):
             efn = f"{ps}__{i + 1:03d}.md"
             t["_page"] = f"exc/{efn}"
             write_exc_page(t, efn, ps)
             n_exc += 1
-            life = " → ".join(f"{a['finding'].split(' ')[0]} ({ordinal(a['ga_ordinal'])})" for a in t["appearances"])
-            sjc = " · ⚖️SJC" if t.get("sjc_row") else ""
-            L.append(f"| {ordinal(t['first_ga'])} ({t['first_year']}) | {md_escape(', '.join(t['provisions']))} "
-                     f"| [{md_escape(t['description'][:110])}…](exc/{efn}){sjc} | {md_escape(life)} "
-                     f"| {DISP.get(t['final'], t['final'])} |")
-        L += ["", "---", "", "[← RPR catalogue](../index/RPR.md)"]
+            L.append(presbytery_card(t, f"exc/{ps}__{i + 1:03d}.html"))
+        L += ["", "---", "", "[← RPR catalogue](../index/RPR.html)"]
         open(os.path.join(OUT, ps + ".md"), "w", encoding="utf-8").write("\n".join(L) + "\n")
         n_pages += 1
 
@@ -396,7 +431,7 @@ def main():
         search_rows.append({"type": "rpr", "presbytery": t["canon"],
                             "title": (t["description"] or "")[:90], "provisions": t["provisions"],
                             "year": t["first_year"], "disposition": t["final"],
-                            "sjc": bool(t.get("sjc_row")), "url": f"rpr/{t['_page']}"})
+                            "sjc": bool(t.get("sjc_row")), "url": f"rpr/{t['_page'].removesuffix('.md')}.html"})
     json.dump(search_rows, open(os.path.join(IDX, "rpr_search.json"), "w"), ensure_ascii=False)
 
     # ---- provision cross-reference ----
@@ -417,15 +452,12 @@ def main():
     for p in sorted(prov_map, key=prov_sort):
         ts = sorted(prov_map[p], key=lambda t: t["first_year"])
         L.append(f"\n## {p}  ·  {len(ts)} citation(s)\n")
-        L.append("| Presbytery | First raised | Exception | Final |")
-        L.append("|---|---|---|---|")
         for t in ts:
-            # link the exception text straight to its per-exception page (set in the per-presbytery
-            # loop above); the presbytery name still links to the per-presbytery page
-            desc = md_escape(t['description'][:120])
-            exc = f"[{desc}…](../rpr/{t['_page']})" if t.get("_page") else desc
-            L.append(f"| [{md_escape(t['canon'])}](../rpr/{slug(t['canon'])}.md) | {ordinal(t['first_ga'])} ({t['first_year']}) "
-                     f"| {exc} | {DISP.get(t['final'],t['final'])} |")
+            # Group heading and citation count are preserved; each compact card links to the
+            # canonical exception page and its presbytery directory page.
+            L.append(provision_card(
+                t, f"../rpr/{slug(t['canon'])}.html", f"../rpr/{t['_page'].removesuffix('.md')}.html"
+            ))
     open(os.path.join(IDX, "RPR-BY-PROVISION.md"), "w", encoding="utf-8").write("\n".join(L) + "\n")
 
     # ---- hub ----
@@ -445,7 +477,7 @@ def main():
          f"- Final disposition: **{fin['satisfactory']} satisfactory (closed)**, "
          f"**{fin['unsatisfactory']} unsatisfactory (outstanding)**, **{fin['raised']} raised** (most-recent year, "
          "not yet adjudicated).",
-         "- Cross-reference by provision: **[RPR exceptions by BCO/RAO/WCF provision](RPR-BY-PROVISION.md)**.", "",
+         "- Cross-reference by provision: **[RPR exceptions by BCO/RAO/WCF provision](RPR-BY-PROVISION.html)**.", "",
          "## Most-cited provisions", "",
          "| Provision | Citations |", "|---|---:|"]
     for p, c in provc.most_common(15):
@@ -460,14 +492,14 @@ def main():
             s = sjc_full[presb]
             cg = ", ".join(f"[{ordinal(c['ga'])} ({c['year']})](../{c['link']})" for c in s["citations"]) or "—"
             cc = "; ".join(f"[{md_escape(c['label'])}](../{c['link']})" for c in s["cases"]) or "—"
-            L.append(f"| [{md_escape(presb)}](../rpr/{slug(presb)}.md) | {cg} | {cc} |")
+            L.append(f"| [{md_escape(presb)}](../rpr/{slug(presb)}.html) | {cg} | {cc} |")
     L += ["", "## Presbyteries", "",
           "| Presbytery | Exceptions | Satisfactory | Outstanding | Years |", "|---|---:|---:|---:|---|"]
     for presb, ts in sorted(by_presb.items()):
         yrs = sorted({t["first_year"] for t in ts})
         sat = sum(1 for t in ts if t["final"] == "satisfactory")
         out = sum(1 for t in ts if t["final"] == "unsatisfactory")
-        L.append(f"| [{md_escape(presb)}](../rpr/{slug(presb)}.md) | {len(ts)} | {sat} | {out} "
+        L.append(f"| [{md_escape(presb)}](../rpr/{slug(presb)}.html) | {len(ts)} | {sat} | {out} "
                  f"| {yrs[0]}–{yrs[-1]} |")
     open(os.path.join(IDX, "RPR.md"), "w", encoding="utf-8").write("\n".join(L) + "\n")
 

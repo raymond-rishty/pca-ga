@@ -1,14 +1,12 @@
 # Janies River Presbytery — Review of Records exceptions of substance
 
-*4 threaded exception(s) of substance across GA26–26 (1998–1998). Each row links to the full exception with its year-by-year text.*
+*4 threaded exception(s) of substance across GA26–26 (1998–1998). Each card links to the full exception with its year-by-year text.*
 
-| First raised | Provision(s) | Exception | Lifecycle | Final disposition |
-|---|---|---|---|---|
-| 26th (1998) | BCO 13-6) | [no indication of examination of a teaching elder coming into presbytery (BCO 13-6).…](exc/janies-river__001.md) | raised (26th) | raised (open) |
-| 26th (1998) | BCO 19 | [there is no record of examination by the Presbytery, and no listing of the parts of examination (BCO 19,21).…](exc/janies-river__002.md) | raised (26th) | raised (open) |
-| 26th (1998) | RAO 14-3 | [parts of li censure examination not listed (repeated from previous year RAO 14-3 .e.5).…](exc/janies-river__003.md) | raised (26th) | raised (open) |
-| 26th (1998) | RAO 14-3.e.5) | [Parts of ordination examination not listed (repeated from previous year RAO 14-3.e.5).…](exc/janies-river__004.md) | raised (26th) | raised (open) |
+<article class="home-result home-result--rpr rpr-card"><span class="home-result__metadata"><span class="home-result__category">RPR exception</span><span class="home-result__separator" aria-hidden="true">•</span><span>26th (1998)</span></span><a class="home-result__title" href="exc/janies-river__001.html">no indication of examination of a teaching elder coming into presbytery (BCO 13-6).…</a><span class="home-result__facts"><span class="home-result__fact"><b>Provision(s):</b> BCO 13-6)</span><span class="home-result__fact"><b>Lifecycle:</b> raised (26th)</span><span class="home-result__fact"><b>Final disposition:</b> raised (open)</span></span></article>
+<article class="home-result home-result--rpr rpr-card"><span class="home-result__metadata"><span class="home-result__category">RPR exception</span><span class="home-result__separator" aria-hidden="true">•</span><span>26th (1998)</span></span><a class="home-result__title" href="exc/janies-river__002.html">there is no record of examination by the Presbytery, and no listing of the parts of examination (BCO 19,21).…</a><span class="home-result__facts"><span class="home-result__fact"><b>Provision(s):</b> BCO 19</span><span class="home-result__fact"><b>Lifecycle:</b> raised (26th)</span><span class="home-result__fact"><b>Final disposition:</b> raised (open)</span></span></article>
+<article class="home-result home-result--rpr rpr-card"><span class="home-result__metadata"><span class="home-result__category">RPR exception</span><span class="home-result__separator" aria-hidden="true">•</span><span>26th (1998)</span></span><a class="home-result__title" href="exc/janies-river__003.html">parts of li censure examination not listed (repeated from previous year RAO 14-3 .e.5).…</a><span class="home-result__facts"><span class="home-result__fact"><b>Provision(s):</b> RAO 14-3</span><span class="home-result__fact"><b>Lifecycle:</b> raised (26th)</span><span class="home-result__fact"><b>Final disposition:</b> raised (open)</span></span></article>
+<article class="home-result home-result--rpr rpr-card"><span class="home-result__metadata"><span class="home-result__category">RPR exception</span><span class="home-result__separator" aria-hidden="true">•</span><span>26th (1998)</span></span><a class="home-result__title" href="exc/janies-river__004.html">Parts of ordination examination not listed (repeated from previous year RAO 14-3.e.5).…</a><span class="home-result__facts"><span class="home-result__fact"><b>Provision(s):</b> RAO 14-3.e.5)</span><span class="home-result__fact"><b>Lifecycle:</b> raised (26th)</span><span class="home-result__fact"><b>Final disposition:</b> raised (open)</span></span></article>
 
 ---
 
-[← RPR catalogue](../index/RPR.md)
+[← RPR catalogue](../index/RPR.html)
