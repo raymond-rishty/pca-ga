@@ -113,7 +113,8 @@ jobs:
         shell: bash
         run: |
           set -euo pipefail
-          python3 -m http.server 4173 --directory _site >/tmp/pca-ga-http.log 2>&1 &
+          ln -s _site pca-ga
+          python3 -m http.server 4173 --directory . >/tmp/pca-ga-http.log 2>&1 &
           server_pid=$!
           trap 'kill "$server_pid"' EXIT
           for attempt in {1..30}; do
@@ -122,7 +123,7 @@ jobs:
             fi
             sleep 1
           done
-          PCA_TEST_BASE_URL=http://127.0.0.1:4173 node tests/result-navigation.browser.test.js
+          PCA_TEST_BASE_URL=http://127.0.0.1:4173/pca-ga node tests/result-navigation.browser.test.js
       - name: Validate BCO provision manifests
         shell: bash
         run: |
