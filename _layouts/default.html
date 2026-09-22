@@ -207,11 +207,13 @@
 
     <main class="page-main{% if page_type == 'home' %} page-main--home{% endif %}{% if page_type == 'browse' or page_type == 'research' %} page-main--workspace{% endif %}" id="content">
       <article class="reading-col{% if page_type == 'home' %} reading-col--home{% endif %}{% if page_type == 'browse' or page_type == 'research' %} reading-col--workspace{% endif %}{% if index_variant != '' %} reading-col--catalogue-index reading-col--index-{{ index_variant }}{% endif %}{% if page.url == '/index/CASES.html' or page.url == '/index/JUDICIAL-CASES.html' %} reading-col--case-index{% endif %}"{% if pagefind_type != '' %} data-pagefind-body{% endif %}>
+        {% if page_type == 'case' or page_type == 'rpr-exception' or page_type == 'overture' or page_type == 'study' or page_type == 'volume' or page.layout == 'inquiry' %}
+        <div class="record-return" id="recordReturn" hidden>
+          <a id="recordReturnLink" href="#">← Back to results</a>
+          <span class="record-return__sequence" id="recordSequence" hidden></span>
+        </div>
+        {% endif %}
         {% if page_type == 'case' %}
-          <div class="record-return" id="recordReturn" hidden>
-            <a id="recordReturnLink" href="#">← Back to results</a>
-            <span class="record-return__sequence" id="recordSequence" hidden></span>
-          </div>
           <section class="record-header" id="recordHeader" data-case="{{ page_case_id }}" data-ga="{{ page_ga_num }}" data-year="{{ page_ga_year }}">
             <p class="record-header__kind">Judicial decision</p>
             <div class="record-header__content" id="recordHeaderContent"></div>
@@ -227,12 +229,6 @@
           {% assign record_class = 'rpr' %}
           {% if page_type == 'overture' %}{% assign record_kind = 'Overture' %}{% assign record_class = 'overture' %}{% endif %}
           {% if page_type == 'study' %}{% assign record_kind = 'Study paper' %}{% assign record_class = 'study' %}{% endif %}
-          {% if page_type == 'rpr-exception' %}
-            <div class="record-return" id="recordReturn" hidden>
-              <a id="recordReturnLink" href="#">← Back to results</a>
-              <span class="record-return__sequence" id="recordSequence" hidden></span>
-            </div>
-          {% endif %}
           <section class="record-header record-header--collection record-header--{{ record_class }}" id="collectionRecordHeader" data-record-kind="{{ record_kind }}">
             <p class="record-header__kind">{{ record_kind }}</p>
             <div class="record-header__content" id="collectionRecordHeaderContent"></div>
