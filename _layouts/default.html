@@ -29,6 +29,16 @@
   {% assign page_type = 'record' %}
 {% endif %}
 
+{% assign index_variant = '' %}
+{% if page.url == '/index/JUDICIAL-CASES.html' %}
+  {% assign index_variant = 'judicial' %}
+{% elsif page.url == '/index/CASES.html' %}
+  {% assign index_variant = 'legacy-case' %}
+{% elsif page.url contains 'CASES-BY-PROVISION' or page.url contains 'RPR-BY-PROVISION' %}
+  {% assign index_variant = 'provision' %}
+{% elsif page.url contains '/index/' %}
+  {% assign index_variant = 'catalogue' %}
+{% endif %}
 {% assign pagefind_type = '' %}
 {% if page_type == 'volume' %}{% assign pagefind_type = 'General Assembly minutes' %}{% endif %}
 {% if page_type == 'case' %}{% assign pagefind_type = 'Judicial case' %}{% endif %}
@@ -84,7 +94,7 @@
   </script>
   <title>{% if page_type == 'home' %}PCA General Assembly Minutes{% elsif page_ga_num %}{{ page_ga_num }}{{ page_ga_suffix }} GA ({{ page_ga_year }}){% if page_case_id %} — Case {{ page_case_id }}{% endif %} · PCA General Assembly Minutes{% elsif page.title %}{{ page.title }} · PCA General Assembly Minutes{% else %}PCA General Assembly Minutes{% endif %}</title>
 </head>
-<body data-page-type="{{ page_type }}">
+<body data-page-type="{{ page_type }}"{% if index_variant != '' %} data-index-variant="{{ index_variant }}"{% endif %}>
   <a class="skip-link" href="#content">Skip to main content</a>
   <div class="sidebar-overlay" id="sidebarOverlay"></div>
 
@@ -196,7 +206,7 @@
     </header>
 
     <main class="page-main{% if page_type == 'home' %} page-main--home{% endif %}{% if page_type == 'browse' or page_type == 'research' %} page-main--workspace{% endif %}" id="content">
-      <article class="reading-col{% if page_type == 'home' %} reading-col--home{% endif %}{% if page_type == 'browse' or page_type == 'research' %} reading-col--workspace{% endif %}{% if page.url == '/index/CASES.html' or page.url == '/index/JUDICIAL-CASES.html' %} reading-col--case-index{% endif %}"{% if pagefind_type != '' %} data-pagefind-body{% endif %}>
+      <article class="reading-col{% if page_type == 'home' %} reading-col--home{% endif %}{% if page_type == 'browse' or page_type == 'research' %} reading-col--workspace{% endif %}{% if index_variant != '' %} reading-col--catalogue-index reading-col--index-{{ index_variant }}{% endif %}{% if page.url == '/index/CASES.html' or page.url == '/index/JUDICIAL-CASES.html' %} reading-col--case-index{% endif %}"{% if pagefind_type != '' %} data-pagefind-body{% endif %}>
         {% if page_type == 'case' or page_type == 'rpr-exception' or page_type == 'overture' or page_type == 'study' or page_type == 'volume' or page.layout == 'inquiry' %}
         <div class="record-return" id="recordReturn" hidden>
           <a id="recordReturnLink" href="#">← Back to results</a>
