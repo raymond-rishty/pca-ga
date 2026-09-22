@@ -901,6 +901,13 @@
     const link = document.getElementById('recordReturnLink');
     const sequence = document.getElementById('recordSequence');
     if (!container || !link) return;
+    // The shared layout includes this element on every page, but the affordance
+    // is meaningful only on canonical record pages.  A stale session context
+    // must never make “Back to results” appear on the home or catalogue pages.
+    if (!isRecordPath(location.pathname)) {
+      container.hidden = true;
+      return;
+    }
     let context;
     try { context = JSON.parse(sessionStorage.getItem('pca-ga-return-context')); } catch (_) { context = null; }
     const currentIndex = context?.items?.findIndex((item) => new URL(item.href, location.href).pathname === location.pathname) ?? -1;
