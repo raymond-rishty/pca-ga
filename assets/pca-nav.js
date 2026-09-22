@@ -654,20 +654,251 @@
     });
   }
 
+  function catalogueCellText(cell) {
+    return cell ? cell.textContent.replace(/\s+/g, ' ').trim() : '';
+  }
+
+  function catalogueCopyCell(cell, target) {
+    if (!cell) return;
+    [...cell.childNodes].forEach((node) => {
+      if (node.nodeType === Node.ELEMENT_NODE && node.matches('.result-actions')) return;
+      target.append(node.cloneNode(true));
+    });
+  }
+
+  function catalogueCell(cells, labels, pattern) {
+    const index = labels.findIndex((label) => pattern.test(label));
+    return index >= 0 ? cells[index] : null;
+  }
+
+  function catalogueDispositionClass(value) {
+    if (/conflict|denied|declined|negative|rejected|not sustained/.test(value)) return 'catalogue-record__badge--negative';
+    if (/adopted|approved|answered|sustained|affirmed|in accord/.test(value)) return 'catalogue-record__badge--positive';
+    if (/referred|received|continued|pending|moot/.test(value)) return 'catalogue-record__badge--neutral';
+    return '';
+  }
+
+  function catalogueMeta(parent, label, value) {
+    if (!value) return;
+    const item = document.createElement('span');
+    item.className = 'catalogue-record__meta-item';
+    const labelElement = document.createElement('span');
+    labelElement.className = 'catalogue-record__meta-label';
+    labelElement.textContent = label;
+    item.append(labelElement, document.createTextNode(value));
+    parent.append(item);
+  }
+
+  function catalogueAction(anchor, label, primary = false) {
+    if (!anchor) return null;
+    const link = anchor.cloneNode(true);
+    link.className = primary ? 'catalogue-record__action catalogue-record__action--primary' : 'catalogue-record__action';
+    link.textContent = label;
+    return link;
+  }
+
+  function buildCatalogueRecord(row, labels, groupLabel, variant) {
+    const cells = [...row.cells];
+    const numberCell = catalogueCell(cells, labels, /^(inquiry|overture)$/);
+    const titleCell = variant === 'study'
+      ? catalogueCell(cells, labels, /^document$/)
+      : catalogueCell(cells, labels, /^subject$/);
+    const synopsisCell = catalogueCell(cells, labels, /^synopsis$/);
+    const provisionsCell = catalogueCell(cells, labels, /^provisions?$/);
+    const outcomeCell = catalogueCell(cells, labels, /^(outcome|disposition)$/);
+    const fromCell = catalogueCell(cells, labels, /^(from|originating|source body)$/);
+    const assemblyCell = catalogueCell(cells, labels, /^assembly$/);
+    const typeCell = catalogueCell(cells, labels, /^type$/);
+    const provenanceCell = catalogueCell(cells, labels, /^provenance$/);
+    const sourceCell = catalogueCell(cells, labels, /^(minutes|source)$/);
+    const numberText = catalogueCellText(numberCell);
+    const titleText = catalogueCellText(titleCell);
+    const synopsisText = catalogueCellText(synopsisCell);
+    const outcomeText = catalogueCellText(outcomeCell);
+    const provenanceText = catalogueCellText(provenanceCell);
+    const statusText = variant === 'study'
+      ? outcomeText.replace(/\s*\([^)]*\)\s*$/, '')
+      : outcomeText;
+    const primaryAnchor = titleCell?.querySelector('a[href]');
+    const sourceAnchor = sourceCell?.querySelector('a[href]');
+    const record = document.createElement('article');
+    record.className = 'catalogue-record catalogue-record--' + variant;
+    record.dataset.catalogueRecord = '';
+    record.dataset.catalogueStatus = statusText.toLocaleLowerCase();
+    record.dataset.searchText = [
+      groupLabel, numberText, titleText, synopsisText, catalogueCellText(provisionsCell),
+      outcomeText, catalogueCellText(fromCell), catalogueCellText(assemblyCell),
+      catalogueCellText(typeCell), provenanceText, catalogueCellText(sourceCell),
+    ].join(' ').toLocaleLowerCase();
+
+    const layout = document.createElement('div');
+    layout.className = 'catalogue-record__layout';
+    const main = document.createElement('div');
+    main.className = 'catalogue-record__main';
+    const eyebrow = document.createElement('p');
+    eyebrow.className = 'catalogue-record__eyebrow';
+    const kind = document.createElement('span');
+    kind.className = 'catalogue-record__eyebrow-kind';
+    kind.textContent = variant === 'ccb'
+      ? 'CCB advice'
+      : variant === 'study'
+        ? 'Study report'
+        : 'Constitutional inquiry';
+    eyebrow.append(kind);
+    if (variant === 'study' && catalogueCellText(assemblyCell)) {
+      const assembly = document.createElement('span');
+      assembly.className = 'catalogue-record__eyebrow-context';
+      assembly.textContent = catalogueCellText(assemblyCell);
+      eyebrow.append(assembly);
+    } else if (groupLabel) {
+      const group = document.createElement('span');
+      group.className = 'catalogue-record__eyebrow-context';
+      group.textContent = groupLabel;
+      eyebrow.append(group);
+    }
+    if (numberText) {
+      const number = document.createElement('span');
+      number.className = 'catalogue-record__eyebrow-id';
+      number.textContent = numberText;
+      eyebrow.append(number);
+    }
+    main.append(eyebrow);
+
+    const title = document.createElement('h3');
+    title.className = 'catalogue-record__title';
+    catalogueCopyCell(titleCell, title);
+    if (!title.textContent.trim()) title.textContent = titleText || 'Untitled record';
+    main.append(title);
+
+    if (synopsisText) {
+      const synopsis = document.createElement('p');
+      synopsis.className = 'catalogue-record__summary';
+      catalogueCopyCell(synopsisCell, synopsis);
+      main.append(synopsis);
+    }
+
+    const status = document.createElement('div');
+    status.className = 'catalogue-record__status';
+    if (variant === 'ccb') {
+      const statusLabel = document.createElement('span');
+      statusLabel.className = 'catalogue-record__status-label';
+      statusLabel.textContent = 'CCB finding';
+      status.append(statusLabel);
+    } else if (variant === 'study') {
+      const typeText = catalogueCellText(typeCell);
+      if (typeText) {
+        const typeBadge = document.createElement('span');
+        typeBadge.className = 'catalogue-record__badge catalogue-record__badge--type';
+        typeBadge.textContent = typeText;
+        status.append(typeBadge);
+      }
+    } else {
+      const statusLabel = document.createElement('span');
+      statusLabel.className = 'catalogue-record__status-label';
+      statusLabel.textContent = 'Disposition';
+      status.append(statusLabel);
+    }
+    if (statusText) {
+      const badge = document.createElement('span');
+      badge.className = ('catalogue-record__badge ' + catalogueDispositionClass(statusText)).trim();
+      badge.textContent = statusText;
+      status.append(badge);
+    }
+    if (status.children.length) main.append(status);
+
+    const meta = document.createElement('div');
+    meta.className = 'catalogue-record__meta';
+    if (variant === 'study') {
+      catalogueMeta(meta, 'Topic', groupLabel);
+      catalogueMeta(meta, 'Provenance', provenanceText);
+    } else {
+      catalogueMeta(meta, 'Provisions', catalogueCellText(provisionsCell));
+      catalogueMeta(meta, 'From', catalogueCellText(fromCell));
+    }
+    if (meta.children.length) main.append(meta);
+
+    const rail = document.createElement('aside');
+    rail.className = 'catalogue-record__rail';
+    const primaryLabel = variant === 'ccb' ? 'Read advice' : variant === 'study' ? 'Read report' : 'Read inquiry';
+    const primary = catalogueAction(primaryAnchor, primaryLabel, true);
+    if (primary) rail.append(primary);
+    if (sourceAnchor) {
+      const sourceLabel = variant === 'study'
+        ? (/pcahistory|pdf/i.test(sourceAnchor.href + ' ' + sourceCell.textContent) ? 'PCAHC / PDF' : 'Minutes')
+        : 'Minutes';
+      rail.append(catalogueAction(sourceAnchor, sourceLabel));
+    }
+    if (provenanceText && /pdf-only|external/i.test(provenanceText)) {
+      const notice = document.createElement('span');
+      notice.className = 'catalogue-record__provenance';
+      notice.textContent = 'External source';
+      rail.append(notice);
+    }
+    if (rail.children.length) layout.append(main, rail);
+    else layout.append(main);
+    record.append(layout);
+    return record;
+  }
+
+  function enhanceCatalogueCards() {
+    const root = document.querySelector('.reading-col--catalogue-index:not(.reading-col--case-index)');
+    if (!root) return;
+    const path = location.pathname;
+    const variant = /\/index\/CCB-OVERTURE-ADVICE\.html$/i.test(path)
+      ? 'ccb'
+      : /\/index\/INQUIRIES\.html$/i.test(path)
+        ? 'inquiry'
+        : /\/index\/STUDIES\.html$/i.test(path)
+          ? 'study'
+          : '';
+    if (!variant) return;
+    [...root.querySelectorAll('table')].forEach((table) => {
+      const header = table.tHead?.rows[0] || table.rows[0];
+      const labels = header
+        ? [...header.cells].map((cell) => cell.textContent.replace(/\s+/g, ' ').trim().toLocaleLowerCase())
+        : [];
+      const rows = [...table.querySelectorAll('tbody tr')];
+      if (!rows.length) return;
+      const tableContainer = table.closest('.table-scroll') || table;
+      let heading = tableContainer.previousElementSibling;
+      while (heading && !/^H[23]$/.test(heading.tagName)) heading = heading.previousElementSibling;
+      const groupLabel = heading
+        ? heading.textContent.replace(/\s+/g, ' ').trim().split('·')[0].trim()
+        : '';
+      const records = document.createElement('div');
+      records.className = 'catalogue-records catalogue-records--' + variant;
+      records.setAttribute('role', 'list');
+      rows.forEach((row) => {
+        const record = buildCatalogueRecord(row, labels, groupLabel, variant);
+        record.setAttribute('role', 'listitem');
+        records.append(record);
+      });
+      tableContainer.replaceWith(records);
+    });
+    root.classList.add('catalogue-cards-ready');
+  }
+
   function enhanceCatalogueIndex() {
     const root = document.querySelector('.reading-col--catalogue-index:not(.reading-col--case-index)');
     if (!root) return;
     const variant = document.body.dataset.indexVariant || '';
     if (variant === 'provision' || variant === 'legacy-case') return;
+    const cardRecords = [...root.querySelectorAll('[data-catalogue-record]')];
+    const usesCards = cardRecords.length > 0;
     const tables = [...root.querySelectorAll('table')];
     const rows = tables.flatMap((table) => [...table.tBodies].flatMap((body) => [...body.rows]));
-    if (!rows.length) return;
+    if (!rows.length && !cardRecords.length) return;
 
     const toolbar = document.createElement('div');
     toolbar.className = 'catalogue-tools';
     toolbar.setAttribute('role', 'search');
-    toolbar.innerHTML = `<div class="catalogue-tools__field"><label for="catalogueSearch">Search this catalogue</label><input id="catalogueSearch" type="search" placeholder="Search title, subject, provision, or source" autocomplete="off"></div><div class="catalogue-tools__field"><label for="catalogueStatus">Filter by status</label><select id="catalogueStatus"><option value="">All statuses</option></select></div><output id="catalogueResultCount" aria-live="polite"></output>`;
-    const insertionPoint = root.querySelector('h2, h3, table');
+    const placeholder = usesCards
+      ? (cardRecords.some((record) => record.classList.contains('catalogue-record--study'))
+        ? 'Search title, topic, type, or source'
+        : 'Search subject, synopsis, provision, or source')
+      : 'Search title, subject, provision, or source';
+    toolbar.innerHTML = '<div class="catalogue-tools__field"><label for="catalogueSearch">Search this catalogue</label><input id="catalogueSearch" type="search" placeholder="' + placeholder + '" autocomplete="off"></div><div class="catalogue-tools__field"><label for="catalogueStatus">Filter by status</label><select id="catalogueStatus"><option value="">All statuses</option></select></div><output id="catalogueResultCount" aria-live="polite"></output>';
+    const insertionPoint = root.querySelector('h2, h3, table, .catalogue-records');
     insertionPoint?.before(toolbar);
     if (!insertionPoint) return;
 
@@ -679,13 +910,19 @@
       const labels = header ? [...header.cells].map((cell) => cell.textContent.trim().toLowerCase()) : [];
       return labels.findIndex((label) => /outcome|disposition|final|provenance/.test(label));
     });
-    const rowRecords = rows.map((row) => {
-      const tableIndex = tables.findIndex((table) => table.contains(row));
-      const cellIndex = statusIndex[tableIndex];
-      const text = row.textContent.replace(/\s+/g, ' ').toLocaleLowerCase();
-      const rowStatus = cellIndex >= 0 ? row.cells[cellIndex]?.textContent.trim().toLocaleLowerCase() : '';
-      return { row, text, rowStatus };
-    });
+    const rowRecords = usesCards
+      ? cardRecords.map((record) => ({
+        row: record,
+        text: (record.dataset.searchText || record.textContent).toLocaleLowerCase(),
+        rowStatus: record.dataset.catalogueStatus || '',
+      }))
+      : rows.map((row) => {
+        const tableIndex = tables.findIndex((table) => table.contains(row));
+        const cellIndex = statusIndex[tableIndex];
+        const text = row.textContent.replace(/\s+/g, ' ').toLocaleLowerCase();
+        const rowStatus = cellIndex >= 0 ? row.cells[cellIndex]?.textContent.trim().toLocaleLowerCase() : '';
+        return { row, text, rowStatus };
+      });
     const statuses = new Set(rowRecords.map(({ rowStatus }) => rowStatus).filter(Boolean));
     [...statuses].sort((a, b) => a.localeCompare(b)).forEach((value) => {
       const option = document.createElement('option');
@@ -696,12 +933,18 @@
     status.hidden = statuses.size < 2;
     status.parentElement.hidden = statuses.size < 2;
 
-    const groups = tables.map((table) => {
-      const scroller = table.closest('.table-scroll') || table;
-      let heading = scroller.previousElementSibling;
-      while (heading && !/^H[23]$/.test(heading.tagName)) heading = heading.previousElementSibling;
-      return { scroller, heading };
-    });
+    const groups = usesCards
+      ? [...root.querySelectorAll('.catalogue-records')].map((scroller) => {
+        let heading = scroller.previousElementSibling;
+        while (heading && !/^H[23]$/.test(heading.tagName)) heading = heading.previousElementSibling;
+        return { scroller, heading };
+      })
+      : tables.map((table) => {
+        const scroller = table.closest('.table-scroll') || table;
+        let heading = scroller.previousElementSibling;
+        while (heading && !/^H[23]$/.test(heading.tagName)) heading = heading.previousElementSibling;
+        return { scroller, heading };
+      });
     const update = () => {
       const query = search.value.toLocaleLowerCase().trim();
       const selectedStatus = status.value;
@@ -712,7 +955,9 @@
         if (match) visible += 1;
       });
       groups.forEach(({ scroller, heading }) => {
-        const hasVisible = scroller.querySelector('tbody tr:not([hidden])');
+        const hasVisible = usesCards
+          ? scroller.querySelector('[data-catalogue-record]:not([hidden])')
+          : scroller.querySelector('tbody tr:not([hidden])');
         scroller.hidden = !hasVisible;
         if (heading) heading.hidden = !hasVisible;
       });
@@ -1046,6 +1291,7 @@
   enhanceCaseHeader();
   enhanceCollectionHeader();
   makeTablesResponsive();
+  enhanceCatalogueCards();
   enhanceCatalogueIndex();
   enhanceProvisionIndex();
   enhanceJudicialCatalogue();
