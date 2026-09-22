@@ -202,7 +202,9 @@ def main():
             primary_anchor = f"ga{int(ma.group(1)):02d}-p{ma.group(2)}"
 
         # display subject
-        subj = gen_subject or next((t for t in topics if not is_bare_provision(t)), "")
+        digest_topic = next((t for t in topics if not is_bare_provision(t)), "")
+        digest_subject = digest_topic.split(", ", 1)[1].strip() if ", " in digest_topic else digest_topic
+        subj = digest_subject or gen_subject
         if not subj:
             subj = (summaries[0][:80].rsplit(" ", 1)[0] + "…") if summaries else (topics[0] if topics else "Constitutional inquiry")
         label = ci or (f"{e0.get('minute_para','')} {sect}".strip()) or "Inquiry"
