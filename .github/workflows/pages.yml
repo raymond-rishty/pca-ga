@@ -89,7 +89,7 @@ jobs:
       - name: Test source registry
         run: python3 tests/test_source_registry.py
       - name: Test focused Node regressions
-        run: node --test tests/source-pdf-links.test.js tests/minutes-back-to-top.test.js tests/minutes-page-source-pdf.test.js tests/search-engine.test.js tests/search-record.test.js tests/search-index-overtures.test.js tests/pagefind-search.test.js
+        run: node --test tests/source-pdf-links.test.js tests/minutes-back-to-top.test.js tests/minutes-page-source-pdf.test.js tests/search-engine.test.js tests/search-record.test.js tests/search-index-overtures.test.js tests/pagefind-search.test.js tests/result-navigation.test.js
       - name: Add source PDF metadata to extracted documents
         run: python3 scripts/add_extracted_source_pdf_metadata.py .
       - name: Validate footnote pairing
