@@ -1023,7 +1023,7 @@ textarea:focus-visible {
   .judicial-catalogue-tools label:nth-of-type(2), .judicial-catalogue-tools input, .judicial-catalogue-tools select, .judicial-catalogue-tools output { grid-column:1; grid-row:auto; }
   .judicial-details dl { grid-template-columns:1fr; }
   .judicial-case h3 { font-size:1.3rem; line-height:1.25; }
-  .judicial-case__layout { grid-template-columns:1fr; grid-template-areas:"heading" "rail" "content"; gap:.25rem; }
+  .judicial-case__layout { grid-template-columns:1fr; grid-template-areas:"heading" "content" "rail"; gap:.25rem; }
   .judicial-case__rail { display:grid; grid-template-columns:repeat(2,minmax(0,1fr)); gap:.5rem; padding:.7rem 0 0; border-top:1px solid var(--parch-deep); border-left:0; }
   .judicial-case__rail > a { grid-column:1 / -1; }
   .judicial-case__rail > a, .judicial-details__toggle, .judicial-actions__button { width:100%; min-height:44px; }
