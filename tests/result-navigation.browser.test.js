@@ -25,7 +25,7 @@ test('search and catalogue results preserve return state and expose keyboard act
     await page.waitForSelector('.home-result__link[data-result-primary][href]', { timeout: 30000 });
     const searchResult = page.locator('.home-result__link[data-result-primary][href]').first();
     const searchHref = await searchResult.getAttribute('href');
-    assert.match(searchHref, /\/(?:cases|inquiries|Woodhams|rpr\/exc|studies|markdown)\//i);
+    assert.match(searchHref, /\/(?:cases|inquiries|overtures|rpr\/exc|studies|markdown)\//i);
 
     await searchResult.click();
     await page.waitForLoadState('domcontentloaded');
