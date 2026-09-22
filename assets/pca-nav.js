@@ -800,15 +800,31 @@
     return heading ? `Back to ${heading.textContent.trim()}` : 'Back to results';
   }
 
+  function isRecordPath(pathname) {
+    return /\/(?:cases|inquiries|overtures|rpr\/exc|studies|markdown)\//i.test(pathname);
+  }
+
+  function resultLinksForContext() {
+    const seen = new Set();
+    return [...document.querySelectorAll('.home-result[href], [data-judicial-record] h3 a[href], .reading-col table a[href]')]
+      .map((item) => {
+        const href = new URL(item.href, location.href);
+        return { href: href.href, title: item.textContent.trim().replace(/\s+/g, ' ') };
+      })
+      .filter((item) => isRecordPath(new URL(item.href).pathname) && !seen.has(item.href) && seen.add(item.href));
+  }
+
   function recordContext(event) {
     const link = event.target.closest('a[href]');
     if (!link || link.closest('#recordSequence') || event.defaultPrevented || event.button || event.metaKey || event.ctrlKey || event.shiftKey || event.altKey) return;
     const target = new URL(link.href, location.href);
-    if (target.origin !== location.origin || !target.pathname.includes('/cases/')) return;
-    const resultLinks = [...document.querySelectorAll('.home-result[href]')].map((item) => ({ href: item.href, title: item.querySelector('.home-result__title')?.textContent.trim() || '' }));
+    if (target.origin !== location.origin || !isRecordPath(target.pathname)) return;
+    const resultLinks = resultLinksForContext();
     const position = resultLinks.findIndex((item) => item.href === target.href);
     const context = {
+      version: 2,
       href: location.href,
+      destination: target.pathname,
       label: contextLabel(),
       y: window.scrollY,
       items: resultLinks,
@@ -824,7 +840,7 @@
     if (!container || !link) return;
     let context;
     try { context = JSON.parse(sessionStorage.getItem('pca-ga-return-context')); } catch (_) { context = null; }
-    if (!context?.href) return;
+    if (!context?.href || (context.destination && context.destination !== location.pathname)) return;
     link.textContent = `← ${context.label || 'Back to results'}`;
     link.href = context.href;
     link.addEventListener('click', () => {
