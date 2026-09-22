@@ -620,6 +620,12 @@
         scroller.append(table);
       }
       if (isCaseTable || isProvisionAudit) scroller.classList.add('table-scroll--case-index');
+      table.querySelectorAll('a[href]').forEach((link) => {
+        const href = new URL(link.href, location.href);
+        if (!isRecordPath(href.pathname)) return;
+        link.dataset.resultPrimary = '';
+        if (!link.dataset.resultType) link.dataset.resultType = labels[0] || 'Catalogue record';
+      });
     });
   }
 
