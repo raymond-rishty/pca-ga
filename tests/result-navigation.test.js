@@ -16,7 +16,7 @@ test('record navigation captures every supported canonical record family', () =>
   assert.match(nav, /function isRecordPath/);
   assert.match(nav, /cases\|inquiries\|overtures\|rpr\\\/exc\|studies\|markdown/);
   assert.match(nav, /pca-ga-return-context/);
-  assert.match(nav, /destination === location\.pathname/);
+  assert.match(nav, /destination !== location\.pathname/);
   assert.match(nav, /\.home-result\[href\], \[data-judicial-record\] h3 a\[href\], \.reading-col table a\[href\]/);
 });
 
