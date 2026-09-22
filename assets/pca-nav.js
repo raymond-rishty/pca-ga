@@ -620,6 +620,26 @@
         scroller.append(table);
       }
       if (isCaseTable || isProvisionAudit) scroller.classList.add('table-scroll--case-index');
+      table.querySelectorAll('a[href]').forEach((link) => {
+        const href = new URL(link.href, location.href);
+        if (!isRecordPath(href.pathname)) return;
+        link.dataset.resultPrimary = '';
+        link.dataset.resultType ||= labels[0] || 'Catalogue record';
+        link.dataset.resultTitle ||= link.textContent.trim().replace(/\s+/g, ' ');
+        const row = link.closest('tr');
+        const cell = link.closest('td');
+        if (!row || !cell || row.dataset.resultItem) return;
+        row.dataset.resultItem = '';
+        const actions = document.createElement('details');
+        actions.className = 'result-actions';
+        actions.innerHTML = `<summary>Actions</summary>
+          <div class="result-actions__panel" aria-label="Actions for ${link.dataset.resultTitle}">
+            <button type="button" data-result-action="save">Save</button>
+            <button type="button" data-result-action="cite">Cite</button>
+            <button type="button" data-result-action="link">Copy link</button>
+          </div>`;
+        cell.append(actions);
+      });
     });
   }
 
@@ -663,8 +683,22 @@
       years.forEach((section) => { section.hidden = !section.querySelector('[data-judicial-record]:not([hidden])'); });
       if (count) count.textContent = `${visible} ${visible === 1 ? 'case' : 'cases'}`;
     };
-    search?.addEventListener('input', update);
-    jump?.addEventListener('change', () => { if (jump.value) document.querySelector(`[data-judicial-year="${CSS.escape(jump.value)}"]`)?.scrollIntoView({ behavior: scrollBehavior(), block: 'start' }); });
+    const syncUrl = () => {
+      const url = new URL(location.href);
+      if (search?.value.trim()) url.searchParams.set('q', search.value.trim());
+      else url.searchParams.delete('q');
+      if (jump?.value) url.searchParams.set('year', jump.value);
+      else url.searchParams.delete('year');
+      history.replaceState({}, '', `${url.pathname}${url.search}${url.hash}`);
+    };
+    const initialUrl = new URL(location.href);
+    if (search && initialUrl.searchParams.has('q')) search.value = initialUrl.searchParams.get('q');
+    if (jump && initialUrl.searchParams.has('year')) jump.value = initialUrl.searchParams.get('year');
+    search?.addEventListener('input', () => { update(); syncUrl(); });
+    jump?.addEventListener('change', () => {
+      syncUrl();
+      if (jump.value) document.querySelector(`[data-judicial-year="${CSS.escape(jump.value)}"]`)?.scrollIntoView({ behavior: scrollBehavior(), block: 'start' });
+    });
     catalogue.addEventListener('click', async (event) => {
       const actionButton = event.target.closest('.judicial-actions__button');
       const action = event.target.closest('[data-judicial-action]');
@@ -800,15 +834,60 @@
     return heading ? `Back to ${heading.textContent.trim()}` : 'Back to results';
   }
 
+  function isRecordPath(pathname) {
+    return /\/(?:cases|inquiries|overtures|rpr\/exc|studies|markdown)\//i.test(pathname);
+  }
+
+  function resultLinksForContext() {
+    const seen = new Set();
+    return [...document.querySelectorAll('[data-result-primary][href], .home-result[href], [data-judicial-record] h3 a[href], .reading-col table a[href]')]
+      .map((item) => {
+        const href = new URL(item.href, location.href);
+        return { href: href.href, title: item.textContent.trim().replace(/\s+/g, ' ') };
+      })
+      .filter((item) => isRecordPath(new URL(item.href).pathname) && !seen.has(item.href) && seen.add(item.href));
+  }
+
+  function resultActionMeta(action) {
+    const item = action.closest('[data-result-item]') || action.closest('tr');
+    const link = item?.querySelector('[data-result-primary][href]') || action.closest('td')?.querySelector('[data-result-primary][href]');
+    if (!link) return null;
+    const url = new URL(link.href, location.href).href;
+    const title = item?.dataset.resultTitle || link.dataset.resultTitle || link.textContent.trim().replace(/\s+/g, ' ') || 'PCA record';
+    const type = item?.dataset.resultType || link.dataset.resultType || 'PCA record';
+    return { id: url, url, title, type, short: title, full: title, markdown: `[${title}](${url})` };
+  }
+
+  document.addEventListener('click', async (event) => {
+    const action = event.target.closest('[data-result-action]');
+    if (!action) return;
+    const meta = resultActionMeta(action);
+    if (!meta) return;
+    const actionName = action.dataset.resultAction;
+    if (actionName === 'save') {
+      const saved = store?.toggleSaved({ ...meta, citation: meta.short });
+      action.textContent = saved ? 'Saved' : 'Save';
+      action.setAttribute('aria-pressed', String(Boolean(saved)));
+      showToast(saved ? 'Added to your bookshelf' : 'Removed from your bookshelf');
+    } else if (actionName === 'cite') {
+      openCitation(meta, action);
+    } else if (actionName === 'link') {
+      await copyText(meta.url);
+      showToast('Link copied');
+    }
+  });
+
   function recordContext(event) {
     const link = event.target.closest('a[href]');
     if (!link || link.closest('#recordSequence') || event.defaultPrevented || event.button || event.metaKey || event.ctrlKey || event.shiftKey || event.altKey) return;
     const target = new URL(link.href, location.href);
-    if (target.origin !== location.origin || !target.pathname.includes('/cases/')) return;
-    const resultLinks = [...document.querySelectorAll('.home-result[href]')].map((item) => ({ href: item.href, title: item.querySelector('.home-result__title')?.textContent.trim() || '' }));
+    if (target.origin !== location.origin || !isRecordPath(target.pathname)) return;
+    const resultLinks = resultLinksForContext();
     const position = resultLinks.findIndex((item) => item.href === target.href);
     const context = {
+      version: 2,
       href: location.href,
+      destination: target.pathname,
       label: contextLabel(),
       y: window.scrollY,
       items: resultLinks,
@@ -824,17 +903,25 @@
     if (!container || !link) return;
     let context;
     try { context = JSON.parse(sessionStorage.getItem('pca-ga-return-context')); } catch (_) { context = null; }
-    if (!context?.href) return;
+    const currentIndex = context?.items?.findIndex((item) => new URL(item.href, location.href).pathname === location.pathname) ?? -1;
+    if (!context?.href || (context.destination && context.destination !== location.pathname && currentIndex < 0)) return;
+    const activePosition = currentIndex >= 0 ? currentIndex : (context.position || 0);
     link.textContent = `← ${context.label || 'Back to results'}`;
     link.href = context.href;
     link.addEventListener('click', () => {
       try { sessionStorage.setItem('pca-ga-restore-scroll', JSON.stringify({ href: context.href, y: context.y || 0 })); } catch (_) { /* No persistence needed. */ }
     });
     if (context.items?.length && context.position >= 0 && sequence) {
-      const previous = context.items[context.position - 1];
-      const next = context.items[context.position + 1];
+      const previous = context.items[activePosition - 1];
+      const next = context.items[activePosition + 1];
       sequence.hidden = false;
-      sequence.innerHTML = `${context.position + 1} of ${context.items.length}${previous ? ` <a href="${previous.href}" aria-label="Previous result">‹</a>` : ''}${next ? ` <a href="${next.href}" aria-label="Next result">›</a>` : ''}`;
+      sequence.innerHTML = `${activePosition + 1} of ${context.items.length}${previous ? ` <a href="${previous.href}" aria-label="Previous result">‹</a>` : ''}${next ? ` <a href="${next.href}" aria-label="Next result">›</a>` : ''}`;
+      sequence.querySelectorAll('a[href]').forEach((resultLink) => resultLink.addEventListener('click', () => {
+        const target = new URL(resultLink.href, location.href);
+        context.destination = target.pathname;
+        context.position = context.items.findIndex((item) => item.href === target.href);
+        try { sessionStorage.setItem('pca-ga-return-context', JSON.stringify(context)); } catch (_) { /* Context is a convenience. */ }
+      }));
     }
     container.hidden = false;
   }
@@ -844,7 +931,10 @@
     try { restore = JSON.parse(sessionStorage.getItem('pca-ga-restore-scroll')); } catch (_) { restore = null; }
     if (!restore || new URL(restore.href, location.href).pathname !== location.pathname) return;
     sessionStorage.removeItem('pca-ga-restore-scroll');
-    window.setTimeout(() => window.scrollTo({ top: restore.y || 0, behavior: 'auto' }), 650);
+    const apply = () => window.requestAnimationFrame(() => window.scrollTo({ top: restore.y || 0, behavior: 'auto' }));
+    const isSearchHydration = document.body.dataset.pageType === 'home' && new URLSearchParams(location.search).has('q');
+    if (isSearchHydration) window.addEventListener('pca-results-ready', apply, { once: true });
+    else apply();
   }
 
   function renderBrowseRecent() {
