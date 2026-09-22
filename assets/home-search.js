@@ -42,6 +42,7 @@
   let passageResults = [];
   let passageLoaded = 0;
   let searchSequence = 0;
+  let initialShown = null;
 
   const esc = (value) => String(value || '').replace(/[&<>"']/g, (character) => ({
     '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;'
@@ -65,6 +66,8 @@
     else url.searchParams.delete('type');
     if (searchMode !== 'all') url.searchParams.set('scope', searchMode);
     else url.searchParams.delete('scope');
+    if (recordShown > RECORD_PAGE_SIZE) url.searchParams.set('shown', String(recordShown));
+    else url.searchParams.delete('shown');
     history.replaceState({}, '', `${url.pathname}${url.search}${url.hash}`);
   }
 
@@ -129,12 +132,20 @@
         provisions ? `<span class="home-result__fact home-result__fact--provisions"><b>Cites:</b> ${provisions}${moreProvisions}</span>` : '',
         matchedFields?.length ? `<span class="home-result__fact home-result__fact--matched"><b>Matched:</b> ${esc(matchedFields.map((field) => engine.FIELD_LABELS[field] || field).join(', '))}</span>` : '',
       ].filter(Boolean).join('');
-      return `<a class="home-result home-result--${esc(view.category.className)}" href="${esc(view.href)}">
-        <span class="home-result__metadata">${metadata}</span>
-        <span class="home-result__title">${highlight(view.title)}</span>
-        ${view.excerpt ? `<span class="home-result__summary">${highlight(view.excerpt)}</span>` : ''}
-        ${facts ? `<span class="home-result__facts">${facts}</span>` : ''}
-      </a>`;
+      return `<article class="home-result home-result--${esc(view.category.className)}" data-result-item data-result-url="${esc(view.href)}" data-result-title="${esc(view.title)}" data-result-type="${esc(view.category.label)}">
+        <div class="home-result__metadata">${metadata}</div>
+        <a class="home-result__link" data-result-primary data-result-type="${esc(view.category.label)}" href="${esc(view.href)}"><span class="home-result__title">${highlight(view.title)}</span></a>
+        ${view.excerpt ? `<div class="home-result__summary">${highlight(view.excerpt)}</div>` : ''}
+        ${facts ? `<div class="home-result__facts">${facts}</div>` : ''}
+        <details class="result-actions">
+          <summary>Actions</summary>
+          <div class="result-actions__panel" aria-label="Actions for ${esc(view.title)}">
+            <button type="button" data-result-action="save">Save</button>
+            <button type="button" data-result-action="cite">Cite</button>
+            <button type="button" data-result-action="link">Copy link</button>
+          </div>
+        </details>
+      </article>`;
     }).join('');
     more.hidden = recordShown >= recordResults.length;
   }
@@ -147,11 +158,19 @@
         result.year ? `<span>${esc(result.year)}</span>` : '',
         result.pageTitle ? `<span>${esc(result.pageTitle)}</span>` : '',
       ].filter(Boolean).join('<span class="home-result__separator" aria-hidden="true">•</span>');
-      return `<a class="home-result home-result--${esc(result.className)} home-result--passage" href="${esc(result.href)}">
-        <span class="home-result__metadata">${metadata}</span>
-        <span class="home-result__title">${esc(result.title)}</span>
-        ${result.excerpt ? `<span class="home-result__summary">${result.excerpt}</span>` : ''}
-      </a>`;
+      return `<article class="home-result home-result--${esc(result.className)} home-result--passage" data-result-item data-result-url="${esc(result.href)}" data-result-title="${esc(result.title)}" data-result-type="Full-text passage">
+        <div class="home-result__metadata">${metadata}</div>
+        <a class="home-result__link" data-result-primary data-result-type="Full-text passage" href="${esc(result.href)}"><span class="home-result__title">${esc(result.title)}</span></a>
+        ${result.excerpt ? `<div class="home-result__summary">${result.excerpt}</div>` : ''}
+        <details class="result-actions">
+          <summary>Actions</summary>
+          <div class="result-actions__panel" aria-label="Actions for ${esc(result.title)}">
+            <button type="button" data-result-action="save">Save</button>
+            <button type="button" data-result-action="cite">Cite</button>
+            <button type="button" data-result-action="link">Copy link</button>
+          </div>
+        </details>
+      </article>`;
     }).join('');
     passageMore.hidden = passageLoaded >= pagefindRefs.length;
   }
@@ -205,14 +224,17 @@
       if (!pagefindRefs.length) {
         passageEmpty.innerHTML = '<p>No indexed passage contains this search in the selected record types. Try fewer terms or switch to All record types.</p>';
         passageEmpty.hidden = false;
+        window.dispatchEvent(new CustomEvent('pca-results-ready'));
         return;
       }
       await loadMorePassages(PASSAGE_PAGE_SIZE, sequence);
+      window.dispatchEvent(new CustomEvent('pca-results-ready'));
     } catch {
       if (sequence !== searchSequence) return;
       passageMeta.textContent = 'Full-text passage search is unavailable.';
       passageEmpty.innerHTML = '<p>Pagefind is generated by the deployed site build. Catalogue search remains available.</p>';
       passageEmpty.hidden = false;
+      window.dispatchEvent(new CustomEvent('pca-results-ready'));
     }
   }
 
@@ -222,7 +244,8 @@
     currentSearch = engine.search(data, query, { types: activeTypes });
     recordResults = currentSearch.results;
     terms = query.replace(/"/g, '').split(/\s+/).filter(Boolean);
-    recordShown = RECORD_PAGE_SIZE;
+    recordShown = Math.max(RECORD_PAGE_SIZE, Number.isInteger(initialShown) ? initialShown : RECORD_PAGE_SIZE);
+    initialShown = null;
     meta.textContent = `Search for “${query}” across catalogue records and full-text passages.`;
     catalogueMeta.textContent = `${currentSearch.total.toLocaleString()} catalogue record${currentSearch.total === 1 ? '' : 's'}`;
     const modeLabel = searchMode === 'all' ? 'catalogue and full text' : searchMode === 'catalogue' ? 'catalogue only' : 'full text only';
@@ -237,6 +260,7 @@
       passageList.innerHTML = '';
       passageEmpty.hidden = true;
       passageMore.hidden = true;
+      window.dispatchEvent(new CustomEvent('pca-results-ready'));
     } else {
       searchPassages(query, sequence);
     }
@@ -286,6 +310,7 @@
   moreButton.addEventListener('click', () => {
     recordShown += RECORD_PAGE_SIZE;
     renderRecordResults();
+    updateUrl(input.value.trim());
   });
 
   passageMoreButton.addEventListener('click', () => {
@@ -309,6 +334,8 @@
   const initialQuery = initialParams.get('q');
   const initialTypes = initialParams.get('type');
   const initialScope = initialParams.get('scope');
+  const parsedShown = Number(initialParams.get('shown'));
+  if (Number.isFinite(parsedShown) && parsedShown >= RECORD_PAGE_SIZE) initialShown = Math.floor(parsedShown);
   if (initialTypes) activeTypes = new Set(initialTypes.split('|').filter(Boolean));
   if (['all', 'catalogue', 'fulltext'].includes(initialScope)) searchMode = initialScope;
   renderMode();

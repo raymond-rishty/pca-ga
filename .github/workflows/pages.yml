@@ -89,7 +89,7 @@ jobs:
       - name: Test source registry
         run: python3 tests/test_source_registry.py
       - name: Test focused Node regressions
-        run: node --test tests/source-pdf-links.test.js tests/minutes-back-to-top.test.js tests/minutes-page-source-pdf.test.js tests/search-engine.test.js tests/search-record.test.js tests/search-index-overtures.test.js tests/pagefind-search.test.js
+        run: node --test tests/source-pdf-links.test.js tests/minutes-back-to-top.test.js tests/minutes-page-source-pdf.test.js tests/search-engine.test.js tests/search-record.test.js tests/search-index-overtures.test.js tests/pagefind-search.test.js tests/result-navigation.test.js
       - name: Add source PDF metadata to extracted documents
         run: python3 scripts/add_extracted_source_pdf_metadata.py .
       - name: Validate footnote pairing
@@ -105,6 +105,25 @@ jobs:
           restore-keys: jekyll-${{ runner.os }}-
       - name: Build
         run: bundle exec jekyll build
+      - name: Install browser regression dependencies
+        run: npm install --no-save --no-package-lock playwright@1.55.0
+      - name: Install Chromium for browser regression tests
+        run: npx playwright install --with-deps chromium
+      - name: Run browser result-navigation regressions
+        shell: bash
+        run: |
+          set -euo pipefail
+          ln -s _site pca-ga
+          python3 -m http.server 4173 --directory . >/tmp/pca-ga-http.log 2>&1 &
+          server_pid=$!
+          trap 'kill "$server_pid"' EXIT
+          for attempt in {1..30}; do
+            if curl --fail --silent http://127.0.0.1:4173/ >/dev/null; then
+              break
+            fi
+            sleep 1
+          done
+          PCA_TEST_BASE_URL=http://127.0.0.1:4173/pca-ga node tests/result-navigation.browser.test.js
       - name: Validate BCO provision manifests
         shell: bash
         run: |
