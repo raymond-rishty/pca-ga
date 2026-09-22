@@ -669,8 +669,22 @@
       years.forEach((section) => { section.hidden = !section.querySelector('[data-judicial-record]:not([hidden])'); });
       if (count) count.textContent = `${visible} ${visible === 1 ? 'case' : 'cases'}`;
     };
-    search?.addEventListener('input', update);
-    jump?.addEventListener('change', () => { if (jump.value) document.querySelector(`[data-judicial-year="${CSS.escape(jump.value)}"]`)?.scrollIntoView({ behavior: scrollBehavior(), block: 'start' }); });
+    const syncUrl = () => {
+      const url = new URL(location.href);
+      if (search?.value.trim()) url.searchParams.set('q', search.value.trim());
+      else url.searchParams.delete('q');
+      if (jump?.value) url.searchParams.set('year', jump.value);
+      else url.searchParams.delete('year');
+      history.replaceState({}, '', `${url.pathname}${url.search}${url.hash}`);
+    };
+    const initialUrl = new URL(location.href);
+    if (search && initialUrl.searchParams.has('q')) search.value = initialUrl.searchParams.get('q');
+    if (jump && initialUrl.searchParams.has('year')) jump.value = initialUrl.searchParams.get('year');
+    search?.addEventListener('input', () => { update(); syncUrl(); });
+    jump?.addEventListener('change', () => {
+      syncUrl();
+      if (jump.value) document.querySelector(`[data-judicial-year="${CSS.escape(jump.value)}"]`)?.scrollIntoView({ behavior: scrollBehavior(), block: 'start' });
+    });
     catalogue.addEventListener('click', async (event) => {
       const actionButton = event.target.closest('.judicial-actions__button');
       const action = event.target.closest('[data-judicial-action]');
