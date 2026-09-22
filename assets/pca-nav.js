@@ -275,6 +275,12 @@
     });
     header.querySelector('[data-record-cite]')?.addEventListener('click', (event) => openCitation(meta, event.currentTarget));
     header.querySelector('[data-record-share]')?.addEventListener('click', async () => {
+      const shareButton = header.querySelector('[data-record-share]');
+      if (shareButton.hasAttribute('data-record-copy-link')) {
+        await copyText(meta.url);
+        showToast('Link copied');
+        return;
+      }
       try {
         if (navigator.share) await navigator.share({ title: meta.title, text: meta.short, url: meta.url });
         else { await copyText(meta.url); showToast('Link copied'); }
@@ -946,6 +952,8 @@
     const root = document.querySelector('.reading-col--catalogue-index:not(.reading-col--case-index)');
     if (!root) return;
     const variant = document.body.dataset.indexVariant || '';
+    if (/\/index\/RPR(?:-BY-PROVISION)?\.html$/i.test(location.pathname)
+        || /\/rpr\/[^/]+\.html$/i.test(location.pathname)) return;
     if (variant === 'provision' || variant === 'legacy-case') return;
     const cardRecords = [...root.querySelectorAll('[data-catalogue-record]')];
     const usesCards = cardRecords.length > 0;
@@ -1228,7 +1236,7 @@
 
   function resultLinksForContext() {
     const seen = new Set();
-    return [...document.querySelectorAll('[data-result-primary][href], .home-result[href], [data-judicial-record] h3 a[href], .reading-col table a[href]')]
+    return [...document.querySelectorAll('[data-result-primary][href], .home-result[href], .rpr-card .home-result__title[href], [data-judicial-record] h3 a[href], .reading-col table a[href]')]
       .map((item) => {
         const href = new URL(item.href, location.href);
         return { href: href.href, title: item.textContent.trim().replace(/\s+/g, ' ') };
