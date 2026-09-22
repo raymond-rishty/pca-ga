@@ -587,19 +587,22 @@
   };
 
   function makeTablesResponsive() {
+    const indexVariant = document.body.dataset.indexVariant || '';
+    const isCatalogueIndex = Boolean(indexVariant);
     const isCaseIndex = /\/index\/CASES\.html$/i.test(location.pathname);
-    const isProvisionIndex = /\/index\/CASES-BY-PROVISION\.html$/i.test(location.pathname);
-    const isInquiryIndex = /\/index\/INQUIRIES\.html$/i.test(location.pathname);
+    const isProvisionIndex = /\/index\/(?:CASES-BY-PROVISION|RPR-BY-PROVISION)\.html$/i.test(location.pathname);
+    const isCaseProvisionIndex = /\/index\/CASES-BY-PROVISION\.html$/i.test(location.pathname);
+    const isInquiryIndex = /\/index\/(?:INQUIRIES|CCB-OVERTURE-ADVICE)\.html$/i.test(location.pathname);
     document.querySelectorAll('.reading-col table').forEach((table) => {
       const header = table.tHead?.rows[0] || table.rows[0];
       const labels = header ? [...header.cells].map((cell) => cell.textContent.replace(/\s+/g, ' ').trim()) : [];
-      if (labels.length < 4 && !isProvisionIndex) return;
+      if (labels.length < 2 && !isCatalogueIndex && !isProvisionIndex) return;
 
       // This index is generated entirely as provision-audit tables.  Do not
       // depend on header text here: Markdown table parsing can normalize a
       // header differently across renderers, leaving the table unwrapped on
       // narrow screens.
-      const isProvisionAudit = isProvisionIndex;
+      const isProvisionAudit = isCaseProvisionIndex;
       const isCaseTable = isCaseIndex
         && ['Case', 'Parties / Title', 'Disposition', 'Summary', 'Page']
           .every((label) => labels.includes(label));
@@ -609,6 +612,8 @@
       if (isCaseTable) table.classList.add('case-index-table');
       if (isProvisionAudit) table.classList.add('case-provision-table');
       if (isInquiryTable) table.classList.add('inquiry-table');
+      if (['Overture', 'Subject', 'Outcome', 'Source', 'Pages'].every((label) => labels.includes(label))) table.classList.add('overture-table');
+      if (['Document', 'Type', 'Assembly', 'Outcome', 'Provenance', 'Source'].every((label) => labels.includes(label))) table.classList.add('study-table');
 
       let scroller = table.parentElement?.classList.contains('table-scroll')
         ? table.parentElement
@@ -640,9 +645,83 @@
           </div>`;
         cell.append(actions);
       });
+      if (isCatalogueIndex) {
+        scroller.classList.add('table-scroll--catalogue');
+        scroller.tabIndex = 0;
+        scroller.setAttribute('role', 'region');
+        scroller.setAttribute('aria-label', 'Scrollable catalogue table: ' + labels.join(', '));
+      }
     });
   }
 
+  function enhanceCatalogueIndex() {
+    const root = document.querySelector('.reading-col--catalogue-index:not(.reading-col--case-index)');
+    if (!root) return;
+    const variant = document.body.dataset.indexVariant || '';
+    if (variant === 'provision' || variant === 'legacy-case') return;
+    const tables = [...root.querySelectorAll('table')];
+    const rows = tables.flatMap((table) => [...table.tBodies].flatMap((body) => [...body.rows]));
+    if (!rows.length) return;
+
+    const toolbar = document.createElement('div');
+    toolbar.className = 'catalogue-tools';
+    toolbar.setAttribute('role', 'search');
+    toolbar.innerHTML = `<div class="catalogue-tools__field"><label for="catalogueSearch">Search this catalogue</label><input id="catalogueSearch" type="search" placeholder="Search title, subject, provision, or source" autocomplete="off"></div><div class="catalogue-tools__field"><label for="catalogueStatus">Filter by status</label><select id="catalogueStatus"><option value="">All statuses</option></select></div><output id="catalogueResultCount" aria-live="polite"></output>`;
+    const insertionPoint = root.querySelector('h2, h3, table');
+    insertionPoint?.before(toolbar);
+    if (!insertionPoint) return;
+
+    const search = toolbar.querySelector('#catalogueSearch');
+    const status = toolbar.querySelector('#catalogueStatus');
+    const count = toolbar.querySelector('#catalogueResultCount');
+    const statusIndex = tables.map((table) => {
+      const header = table.tHead?.rows[0] || table.rows[0];
+      const labels = header ? [...header.cells].map((cell) => cell.textContent.trim().toLowerCase()) : [];
+      return labels.findIndex((label) => /outcome|disposition|final|provenance/.test(label));
+    });
+    const rowRecords = rows.map((row) => {
+      const tableIndex = tables.findIndex((table) => table.contains(row));
+      const cellIndex = statusIndex[tableIndex];
+      const text = row.textContent.replace(/\s+/g, ' ').toLocaleLowerCase();
+      const rowStatus = cellIndex >= 0 ? row.cells[cellIndex]?.textContent.trim().toLocaleLowerCase() : '';
+      return { row, text, rowStatus };
+    });
+    const statuses = new Set(rowRecords.map(({ rowStatus }) => rowStatus).filter(Boolean));
+    [...statuses].sort((a, b) => a.localeCompare(b)).forEach((value) => {
+      const option = document.createElement('option');
+      option.value = value.toLocaleLowerCase();
+      option.textContent = value;
+      status.append(option);
+    });
+    status.hidden = statuses.size < 2;
+    status.parentElement.hidden = statuses.size < 2;
+
+    const groups = tables.map((table) => {
+      const scroller = table.closest('.table-scroll') || table;
+      let heading = scroller.previousElementSibling;
+      while (heading && !/^H[23]$/.test(heading.tagName)) heading = heading.previousElementSibling;
+      return { scroller, heading };
+    });
+    const update = () => {
+      const query = search.value.toLocaleLowerCase().trim();
+      const selectedStatus = status.value;
+      let visible = 0;
+      rowRecords.forEach(({ row, text, rowStatus }) => {
+        const match = (!query || text.includes(query)) && (!selectedStatus || rowStatus === selectedStatus);
+        row.hidden = !match;
+        if (match) visible += 1;
+      });
+      groups.forEach(({ scroller, heading }) => {
+        const hasVisible = scroller.querySelector('tbody tr:not([hidden])');
+        scroller.hidden = !hasVisible;
+        if (heading) heading.hidden = !hasVisible;
+      });
+      count.textContent = `${visible} ${visible === 1 ? 'record' : 'records'}`;
+    };
+    search.addEventListener('input', update);
+    status.addEventListener('change', update);
+    update();
+  }
   function enhanceJudicialCatalogue() {
     const catalogue = document.getElementById('judicialCatalogue');
     if (!catalogue) return;
@@ -794,7 +873,7 @@
   }
 
   function enhanceProvisionIndex() {
-    if (!/\/index\/CASES-BY-PROVISION\.html$/i.test(location.pathname)) return;
+    if (!/\/index\/(?:CASES-BY-PROVISION|RPR-BY-PROVISION)\.html$/i.test(location.pathname)) return;
     const provisions = [...document.querySelectorAll('.reading-col h2')];
     if (provisions.length < 2) return;
     const jump = document.createElement('nav');
@@ -967,6 +1046,7 @@
   enhanceCaseHeader();
   enhanceCollectionHeader();
   makeTablesResponsive();
+  enhanceCatalogueIndex();
   enhanceProvisionIndex();
   enhanceJudicialCatalogue();
   injectBadges();
