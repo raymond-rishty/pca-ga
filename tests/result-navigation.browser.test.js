@@ -21,20 +21,20 @@ test('search and catalogue results preserve return state and expose keyboard act
     await context.grantPermissions(['clipboard-read', 'clipboard-write'], { origin: baseUrl }).catch(() => {});
     const page = await context.newPage();
 
-    await page.goto(`${baseUrl}/?q=BCO&scope=catalogue`, { waitUntil: 'networkidle' });
+    await page.goto(`${baseUrl}/?q=Woodham&scope=catalogue`, { waitUntil: 'networkidle' });
     await page.waitForSelector('.home-result__link[data-result-primary][href]', { timeout: 30000 });
     const searchResult = page.locator('.home-result__link[data-result-primary][href]').first();
     const searchHref = await searchResult.getAttribute('href');
-    assert.match(searchHref, /\/(?:cases|inquiries|BCOs|rpr\/exc|studies|markdown)\//i);
+    assert.match(searchHref, /\/(?:cases|inquiries|Woodhams|rpr\/exc|studies|markdown)\//i);
 
     await searchResult.click();
     await page.waitForLoadState('domcontentloaded');
     await waitForReturnLink(page);
-    assert.match(await page.locator('#recordReturnLink').getAttribute('href'), /[?&]q=BCO/);
+    assert.match(await page.locator('#recordReturnLink').getAttribute('href'), /[?&]q=Woodham/);
 
     await page.locator('#recordReturnLink').click();
     await page.waitForLoadState('networkidle');
-    assert.equal(new URL(page.url()).searchParams.get('q'), 'BCO');
+    assert.equal(new URL(page.url()).searchParams.get('q'), 'Woodham');
     await page.waitForSelector('.home-result__link[data-result-primary][href]');
 
     const actions = page.locator('details.result-actions').first();
