@@ -23,6 +23,16 @@ test('search and catalogue results preserve return state and expose keyboard act
 
     await page.goto(`${baseUrl}/?q=Woodham&scope=catalogue`, { waitUntil: 'networkidle' });
     await page.waitForSelector('.home-result__link[data-result-primary][href]', { timeout: 30000 });
+    await page.evaluate(() => {
+      sessionStorage.setItem('pca-ga-return-context', JSON.stringify({
+        href: location.href,
+        destination: location.pathname,
+        label: 'Stale context'
+      }));
+    });
+    await page.reload({ waitUntil: 'networkidle' });
+    await page.waitForSelector('.home-result__link[data-result-primary][href]', { timeout: 30000 });
+    assert.equal(await page.locator('#recordReturn').count(), 0);
     const searchResult = page.locator('.home-result__link[data-result-primary][href]').first();
     const searchHref = await searchResult.getAttribute('href');
     assert.match(searchHref, /\/?(?:cases|inquiries|overtures|rpr\/exc|studies|markdown)\//i);
@@ -44,6 +54,7 @@ test('search and catalogue results preserve return state and expose keyboard act
     await assert.doesNotReject(() => actions.locator('[data-result-action="link"]').waitFor({ state: 'visible' }));
 
     await page.goto(`${baseUrl}/index/CASES.html`, { waitUntil: 'networkidle' });
+    assert.equal(await page.locator('#recordReturn').count(), 0);
     await page.waitForSelector('.reading-col table [data-result-primary][href]', { timeout: 30000 });
     const catalogueResult = page.locator('.reading-col table [data-result-primary][href]').first();
     await catalogueResult.click();
