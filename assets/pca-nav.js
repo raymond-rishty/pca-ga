@@ -624,7 +624,21 @@
         const href = new URL(link.href, location.href);
         if (!isRecordPath(href.pathname)) return;
         link.dataset.resultPrimary = '';
-        if (!link.dataset.resultType) link.dataset.resultType = labels[0] || 'Catalogue record';
+        link.dataset.resultType ||= labels[0] || 'Catalogue record';
+        link.dataset.resultTitle ||= link.textContent.trim().replace(/\s+/g, ' ');
+        const row = link.closest('tr');
+        const cell = link.closest('td');
+        if (!row || !cell || row.dataset.resultItem) return;
+        row.dataset.resultItem = '';
+        const actions = document.createElement('details');
+        actions.className = 'result-actions';
+        actions.innerHTML = `<summary>Actions</summary>
+          <div class="result-actions__panel" aria-label="Actions for ${link.dataset.resultTitle}">
+            <button type="button" data-result-action="save">Save</button>
+            <button type="button" data-result-action="cite">Cite</button>
+            <button type="button" data-result-action="link">Copy link</button>
+          </div>`;
+        cell.append(actions);
       });
     });
   }
@@ -826,13 +840,42 @@
 
   function resultLinksForContext() {
     const seen = new Set();
-    return [...document.querySelectorAll('.home-result[href], [data-judicial-record] h3 a[href], .reading-col table a[href]')]
+    return [...document.querySelectorAll('[data-result-primary][href], .home-result[href], [data-judicial-record] h3 a[href], .reading-col table a[href]')]
       .map((item) => {
         const href = new URL(item.href, location.href);
         return { href: href.href, title: item.textContent.trim().replace(/\s+/g, ' ') };
       })
       .filter((item) => isRecordPath(new URL(item.href).pathname) && !seen.has(item.href) && seen.add(item.href));
   }
+
+  function resultActionMeta(action) {
+    const item = action.closest('[data-result-item]') || action.closest('tr');
+    const link = item?.querySelector('[data-result-primary][href]') || action.closest('td')?.querySelector('[data-result-primary][href]');
+    if (!link) return null;
+    const url = new URL(link.href, location.href).href;
+    const title = item?.dataset.resultTitle || link.dataset.resultTitle || link.textContent.trim().replace(/\s+/g, ' ') || 'PCA record';
+    const type = item?.dataset.resultType || link.dataset.resultType || 'PCA record';
+    return { id: url, url, title, type, short: title, full: title, markdown: `[${title}](${url})` };
+  }
+
+  document.addEventListener('click', async (event) => {
+    const action = event.target.closest('[data-result-action]');
+    if (!action) return;
+    const meta = resultActionMeta(action);
+    if (!meta) return;
+    const actionName = action.dataset.resultAction;
+    if (actionName === 'save') {
+      const saved = store?.toggleSaved({ ...meta, citation: meta.short });
+      action.textContent = saved ? 'Saved' : 'Save';
+      action.setAttribute('aria-pressed', String(Boolean(saved)));
+      showToast(saved ? 'Added to your bookshelf' : 'Removed from your bookshelf');
+    } else if (actionName === 'cite') {
+      openCitation(meta, action);
+    } else if (actionName === 'link') {
+      await copyText(meta.url);
+      showToast('Link copied');
+    }
+  });
 
   function recordContext(event) {
     const link = event.target.closest('a[href]');
@@ -860,17 +903,25 @@
     if (!container || !link) return;
     let context;
     try { context = JSON.parse(sessionStorage.getItem('pca-ga-return-context')); } catch (_) { context = null; }
-    if (!context?.href || (context.destination && context.destination !== location.pathname)) return;
+    const currentIndex = context?.items?.findIndex((item) => new URL(item.href, location.href).pathname === location.pathname) ?? -1;
+    if (!context?.href || (context.destination && context.destination !== location.pathname && currentIndex < 0)) return;
+    const activePosition = currentIndex >= 0 ? currentIndex : (context.position || 0);
     link.textContent = `← ${context.label || 'Back to results'}`;
     link.href = context.href;
     link.addEventListener('click', () => {
       try { sessionStorage.setItem('pca-ga-restore-scroll', JSON.stringify({ href: context.href, y: context.y || 0 })); } catch (_) { /* No persistence needed. */ }
     });
     if (context.items?.length && context.position >= 0 && sequence) {
-      const previous = context.items[context.position - 1];
-      const next = context.items[context.position + 1];
+      const previous = context.items[activePosition - 1];
+      const next = context.items[activePosition + 1];
       sequence.hidden = false;
-      sequence.innerHTML = `${context.position + 1} of ${context.items.length}${previous ? ` <a href="${previous.href}" aria-label="Previous result">‹</a>` : ''}${next ? ` <a href="${next.href}" aria-label="Next result">›</a>` : ''}`;
+      sequence.innerHTML = `${activePosition + 1} of ${context.items.length}${previous ? ` <a href="${previous.href}" aria-label="Previous result">‹</a>` : ''}${next ? ` <a href="${next.href}" aria-label="Next result">›</a>` : ''}`;
+      sequence.querySelectorAll('a[href]').forEach((resultLink) => resultLink.addEventListener('click', () => {
+        const target = new URL(resultLink.href, location.href);
+        context.destination = target.pathname;
+        context.position = context.items.findIndex((item) => item.href === target.href);
+        try { sessionStorage.setItem('pca-ga-return-context', JSON.stringify(context)); } catch (_) { /* Context is a convenience. */ }
+      }));
     }
     container.hidden = false;
   }
@@ -880,7 +931,10 @@
     try { restore = JSON.parse(sessionStorage.getItem('pca-ga-restore-scroll')); } catch (_) { restore = null; }
     if (!restore || new URL(restore.href, location.href).pathname !== location.pathname) return;
     sessionStorage.removeItem('pca-ga-restore-scroll');
-    window.setTimeout(() => window.scrollTo({ top: restore.y || 0, behavior: 'auto' }), 650);
+    const apply = () => window.requestAnimationFrame(() => window.scrollTo({ top: restore.y || 0, behavior: 'auto' }));
+    const isSearchHydration = document.body.dataset.pageType === 'home' && new URLSearchParams(location.search).has('q');
+    if (isSearchHydration) window.addEventListener('pca-results-ready', apply, { once: true });
+    else apply();
   }
 
   function renderBrowseRecent() {
