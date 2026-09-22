@@ -275,6 +275,12 @@
     });
     header.querySelector('[data-record-cite]')?.addEventListener('click', (event) => openCitation(meta, event.currentTarget));
     header.querySelector('[data-record-share]')?.addEventListener('click', async () => {
+      const shareButton = header.querySelector('[data-record-share]');
+      if (shareButton.hasAttribute('data-record-copy-link')) {
+        await copyText(meta.url);
+        showToast('Link copied');
+        return;
+      }
       try {
         if (navigator.share) await navigator.share({ title: meta.title, text: meta.short, url: meta.url });
         else { await copyText(meta.url); showToast('Link copied'); }
@@ -625,26 +631,6 @@
         scroller.append(table);
       }
       if (isCaseTable || isProvisionAudit) scroller.classList.add('table-scroll--case-index');
-      table.querySelectorAll('a[href]').forEach((link) => {
-        const href = new URL(link.href, location.href);
-        if (!isRecordPath(href.pathname)) return;
-        link.dataset.resultPrimary = '';
-        link.dataset.resultType ||= labels[0] || 'Catalogue record';
-        link.dataset.resultTitle ||= link.textContent.trim().replace(/\s+/g, ' ');
-        const row = link.closest('tr');
-        const cell = link.closest('td');
-        if (!row || !cell || row.dataset.resultItem) return;
-        row.dataset.resultItem = '';
-        const actions = document.createElement('details');
-        actions.className = 'result-actions';
-        actions.innerHTML = `<summary>Actions</summary>
-          <div class="result-actions__panel" aria-label="Actions for ${link.dataset.resultTitle}">
-            <button type="button" data-result-action="save">Save</button>
-            <button type="button" data-result-action="cite">Cite</button>
-            <button type="button" data-result-action="link">Copy link</button>
-          </div>`;
-        cell.append(actions);
-      });
       if (isCatalogueIndex) {
         scroller.classList.add('table-scroll--catalogue');
         scroller.tabIndex = 0;
@@ -654,315 +640,22 @@
     });
   }
 
-  function catalogueCellText(cell) {
-    return cell ? cell.textContent.replace(/\s+/g, ' ').trim() : '';
-  }
-
-  function catalogueDigestCitation(numberText, sourceCell) {
-    const sourceAnchor = sourceCell?.querySelector('a[href]');
-    const sourceText = sourceAnchor?.textContent.replace(/\s+/g, ' ').trim() || '';
-    const sourceHref = sourceAnchor?.getAttribute('href') || '';
-    const year = sourceText.match(/_(\d{4})\b/)?.[1] || sourceHref.match(/_(\d{4})\b/)?.[1] || '';
-    const page = sourceText.match(/\bp\.\s*(\d+[a-z]?)\b/i)?.[1] || '';
-    if (!year || !page || !numberText) return '';
-    let locator = numberText.replace(/\s+/g, ' ').trim();
-    if (/^App\. O\b/i.test(locator)) locator = locator.replace(/^App\. O\s*/i, 'App. O, ');
-    return `${year}, p. ${page}, ${locator}.`;
-  }
-
-  function catalogueCopyCell(cell, target) {
-    if (!cell) return;
-    [...cell.childNodes].forEach((node) => {
-      if (node.nodeType === Node.ELEMENT_NODE && node.matches('.result-actions')) return;
-      target.append(node.cloneNode(true));
-    });
-  }
-
-  function catalogueCell(cells, labels, pattern) {
-    const index = labels.findIndex((label) => pattern.test(label));
-    return index >= 0 ? cells[index] : null;
-  }
-
-  function catalogueDispositionClass(value) {
-    if (/conflict|denied|declined|negative|rejected|not sustained/.test(value)) return 'catalogue-record__badge--negative';
-    if (/adopted|approved|answered|sustained|affirmed|in accord/.test(value)) return 'catalogue-record__badge--positive';
-    if (/referred|received|continued|pending|moot/.test(value)) return 'catalogue-record__badge--neutral';
-    return '';
-  }
-
-  function catalogueMeta(parent, label, value) {
-    if (!value) return;
-    const item = document.createElement('span');
-    item.className = 'catalogue-record__meta-item';
-    const labelElement = document.createElement('span');
-    labelElement.className = 'catalogue-record__meta-label';
-    labelElement.textContent = label;
-    item.append(labelElement, document.createTextNode(value));
-    parent.append(item);
-  }
-
-  function catalogueAction(anchor, label, primary = false) {
-    if (!anchor) return null;
-    const link = anchor.cloneNode(true);
-    link.className = primary ? 'catalogue-record__action catalogue-record__action--primary' : 'catalogue-record__action';
-    link.textContent = label;
-    return link;
-  }
-
-  function catalogueActions() {
-    const actions = document.createElement('details');
-    actions.className = 'result-actions catalogue-record__actions';
-    actions.innerHTML = '<summary>Actions</summary><div class="result-actions__panel" aria-label="Record actions"><button type="button" data-result-action="save">Save</button><button type="button" data-result-action="cite">Cite</button><button type="button" data-result-action="link">Copy link</button></div>';
-    return actions;
-  }
-
-  function buildCatalogueRecord(row, labels, groupLabel, variant) {
-    const cells = [...row.cells];
-    const numberCell = catalogueCell(cells, labels, /^(inquiry|overture)$/);
-    const titleCell = variant === 'study'
-      ? catalogueCell(cells, labels, /^document$/)
-      : catalogueCell(cells, labels, /^subject$/);
-    const synopsisCell = catalogueCell(cells, labels, /^synopsis$/);
-    const provisionsCell = catalogueCell(cells, labels, /^provisions?$/);
-    const outcomeCell = catalogueCell(cells, labels, /^(outcome|disposition)$/);
-    const fromCell = catalogueCell(cells, labels, /^(from|originating|source body)$/);
-    const assemblyCell = catalogueCell(cells, labels, /^assembly$/);
-    const typeCell = catalogueCell(cells, labels, /^type$/);
-    const provenanceCell = catalogueCell(cells, labels, /^provenance$/);
-    const sourceCell = catalogueCell(cells, labels, /^(minutes|source)$/);
-    const numberText = catalogueCellText(numberCell);
-    const titleText = catalogueCellText(titleCell);
-    const synopsisText = catalogueCellText(synopsisCell);
-    const outcomeText = catalogueCellText(outcomeCell);
-    const provenanceText = catalogueCellText(provenanceCell);
-    const statusText = variant === 'study'
-      ? outcomeText.replace(/\s*\([^)]*\)\s*$/, '')
-      : outcomeText;
-    const primaryAnchor = titleCell?.querySelector('a[href]');
-    const sourceAnchor = sourceCell?.querySelector('a[href]');
-    const record = document.createElement('article');
-    record.className = 'catalogue-record catalogue-record--' + variant;
-    record.dataset.catalogueRecord = '';
-    record.dataset.catalogueStatus = statusText.toLocaleLowerCase();
-    record.dataset.searchText = [
-      groupLabel, numberText, titleText, synopsisText, catalogueCellText(provisionsCell),
-      outcomeText, catalogueCellText(fromCell), catalogueCellText(assemblyCell),
-      catalogueCellText(typeCell), provenanceText, catalogueCellText(sourceCell),
-    ].join(' ').toLocaleLowerCase();
-
-    const layout = document.createElement('div');
-    layout.className = 'catalogue-record__layout';
-    const main = document.createElement('div');
-    main.className = 'catalogue-record__main';
-    const eyebrow = document.createElement('p');
-    eyebrow.className = 'catalogue-record__eyebrow';
-    if (variant === 'ccb') {
-      const kind = document.createElement('span');
-      kind.className = 'catalogue-record__eyebrow-kind';
-      kind.textContent = 'CCB advice';
-      eyebrow.append(kind);
-    }
-    if (variant === 'study') {
-      const typeText = catalogueCellText(typeCell);
-      const assemblyText = catalogueCellText(assemblyCell);
-      const assemblyLabel = assemblyText.replace(/^(\d+(?:st|nd|rd|th))\s+\((\d{4})\)$/, '$1 GA ($2)');
-      const assembly = document.createElement('span');
-      assembly.className = 'catalogue-record__eyebrow-context';
-      assembly.textContent = [typeText, assemblyLabel].filter(Boolean).join(' · ');
-      eyebrow.append(assembly);
-    } else if (groupLabel) {
-      const group = document.createElement('span');
-      group.className = 'catalogue-record__eyebrow-context';
-      group.textContent = groupLabel;
-      eyebrow.append(group);
-    }
-    if (numberText) {
-      const number = document.createElement('span');
-      number.className = 'catalogue-record__eyebrow-id';
-      number.textContent = numberText;
-      eyebrow.append(number);
-    }
-    main.append(eyebrow);
-
-    const title = document.createElement('h3');
-    title.className = 'catalogue-record__title';
-    catalogueCopyCell(titleCell, title);
-    if (!title.textContent.trim()) title.textContent = titleText || 'Untitled record';
-    const resultTitle = titleText || title.textContent.trim() || 'PCA record';
-    const resultCitation = variant === 'study' ? '' : catalogueDigestCitation(numberText, sourceCell);
-    record.dataset.resultItem = '';
-    record.dataset.resultTitle = resultTitle;
-    record.dataset.resultType = variant === 'study' ? 'Study report' : variant === 'ccb' ? 'CCB advice' : 'Constitutional inquiry';
-    if (resultCitation) record.dataset.resultCitation = resultCitation;
-    const resultPrimary = title.querySelector('a[href]');
-    if (resultPrimary) {
-      resultPrimary.dataset.resultPrimary = '';
-      resultPrimary.dataset.resultTitle = resultTitle;
-      resultPrimary.dataset.resultType = record.dataset.resultType;
-      if (resultCitation) resultPrimary.dataset.resultCitation = resultCitation;
-    }
-    main.append(title);
-
-    if (synopsisText) {
-      const synopsis = document.createElement('p');
-      synopsis.className = 'catalogue-record__summary';
-      catalogueCopyCell(synopsisCell, synopsis);
-      main.append(synopsis);
-    }
-
-    const status = document.createElement('div');
-    status.className = 'catalogue-record__status';
-    if (variant === 'ccb') {
-      const statusLabel = document.createElement('span');
-      statusLabel.className = 'catalogue-record__status-label';
-      statusLabel.textContent = 'CCB finding';
-      status.append(statusLabel);
-    } else if (variant === 'study') {
-      const typeText = catalogueCellText(typeCell);
-      if (typeText) {
-        const typeBadge = document.createElement('span');
-        typeBadge.className = 'catalogue-record__badge catalogue-record__badge--type';
-        typeBadge.textContent = typeText;
-        status.append(typeBadge);
-      }
-    } else {
-      const statusLabel = document.createElement('span');
-      statusLabel.className = 'catalogue-record__status-label';
-      statusLabel.textContent = 'Disposition';
-      status.append(statusLabel);
-    }
-    if (statusText) {
-      const badge = document.createElement('span');
-      badge.className = ('catalogue-record__badge ' + catalogueDispositionClass(statusText)).trim();
-      badge.textContent = statusText;
-      status.append(badge);
-    }
-    if (status.children.length) main.append(status);
-
-    const meta = document.createElement('div');
-    meta.className = 'catalogue-record__meta';
-    if (variant !== 'study') {
-      catalogueMeta(meta, 'Provisions', catalogueCellText(provisionsCell));
-      catalogueMeta(meta, 'From', catalogueCellText(fromCell));
-    }
-    if (meta.children.length) main.append(meta);
-
-    const rail = document.createElement('aside');
-    rail.className = 'catalogue-record__rail';
-    const primaryLabel = variant === 'ccb' ? 'Read advice' : variant === 'study' ? 'Read report' : 'Read inquiry';
-    const primary = catalogueAction(primaryAnchor, primaryLabel, true);
-    if (primary) rail.append(primary);
-    if (sourceAnchor) {
-      const sourceLabel = variant === 'study'
-        ? (/pcahistory|pdf/i.test(sourceAnchor.href + ' ' + sourceCell.textContent) ? 'Source PDF' : 'Minutes')
-        : 'Minutes';
-      rail.append(catalogueAction(sourceAnchor, sourceLabel));
-    }
-    rail.append(catalogueActions());
-    if (rail.children.length) layout.append(main, rail);
-    else layout.append(main);
-    record.append(layout);
-    return record;
-  }
-
-  function enhanceCatalogueCards() {
-    const root = document.querySelector('.reading-col--catalogue-index:not(.reading-col--case-index)');
-    if (!root) return;
-    const path = location.pathname;
-    const variant = /\/index\/CCB-OVERTURE-ADVICE\.html$/i.test(path)
-      ? 'ccb'
-      : /\/index\/INQUIRIES\.html$/i.test(path)
-        ? 'inquiry'
-        : /\/index\/STUDIES\.html$/i.test(path)
-          ? 'study'
-          : '';
-    if (!variant) return;
-    const tables = [...root.querySelectorAll('table')];
-    if (variant === 'study') {
-      const records = document.createElement('div');
-      records.className = 'catalogue-records catalogue-records--study';
-      records.setAttribute('role', 'list');
-      const topicHeading = [...root.querySelectorAll('h2')].find((heading) => /^By topic$/i.test(heading.textContent.trim()));
-      if (topicHeading) topicHeading.textContent = 'Study reports';
-      const provenanceHeading = [...root.querySelectorAll('h2')].find((heading) => /^Provenance counts$/i.test(heading.textContent.trim()));
-      if (provenanceHeading) {
-        let next = provenanceHeading.nextElementSibling;
-        provenanceHeading.remove();
-        while (next && next.tagName !== 'H2') {
-          const current = next;
-          next = next.nextElementSibling;
-          current.remove();
-        }
-      }
-      const firstContainer = tables[0]?.closest('.table-scroll') || tables[0];
-      tables.forEach((table) => {
-        const header = table.tHead?.rows[0] || table.rows[0];
-        const labels = header
-          ? [...header.cells].map((cell) => cell.textContent.replace(/\s+/g, ' ').trim().toLocaleLowerCase())
-          : [];
-        const rows = [...table.querySelectorAll('tbody tr')];
-        const tableContainer = table.closest('.table-scroll') || table;
-        let heading = tableContainer.previousElementSibling;
-        while (heading && !/^H3$/.test(heading.tagName)) heading = heading.previousElementSibling;
-        if (heading) heading.remove();
-        rows.forEach((row) => {
-          const record = buildCatalogueRecord(row, labels, '', 'study');
-          record.setAttribute('role', 'listitem');
-          records.append(record);
-        });
-        tableContainer.remove();
-      });
-      firstContainer?.before(records);
-      root.classList.add('catalogue-cards-ready');
-      return;
-    }
-    tables.forEach((table) => {
-      const header = table.tHead?.rows[0] || table.rows[0];
-      const labels = header
-        ? [...header.cells].map((cell) => cell.textContent.replace(/\s+/g, ' ').trim().toLocaleLowerCase())
-        : [];
-      const rows = [...table.querySelectorAll('tbody tr')];
-      if (!rows.length) return;
-      const tableContainer = table.closest('.table-scroll') || table;
-      let heading = tableContainer.previousElementSibling;
-      while (heading && !/^H[23]$/.test(heading.tagName)) heading = heading.previousElementSibling;
-      const groupLabel = heading
-        ? heading.textContent.replace(/\s+/g, ' ').trim().split('·')[0].trim()
-        : '';
-      const records = document.createElement('div');
-      records.className = 'catalogue-records catalogue-records--' + variant;
-      records.setAttribute('role', 'list');
-      rows.forEach((row) => {
-        const record = buildCatalogueRecord(row, labels, groupLabel, variant);
-        record.setAttribute('role', 'listitem');
-        records.append(record);
-      });
-      tableContainer.replaceWith(records);
-    });
-    root.classList.add('catalogue-cards-ready');
-  }
-
   function enhanceCatalogueIndex() {
     const root = document.querySelector('.reading-col--catalogue-index:not(.reading-col--case-index)');
     if (!root) return;
+    if (/\/index\/RPR(?:-BY-PROVISION)?\.html$/i.test(location.pathname)
+        || /\/rpr\/[^/]+\.html$/i.test(location.pathname)) return;
     const variant = document.body.dataset.indexVariant || '';
     if (variant === 'provision' || variant === 'legacy-case') return;
-    const cardRecords = [...root.querySelectorAll('[data-catalogue-record]')];
-    const usesCards = cardRecords.length > 0;
     const tables = [...root.querySelectorAll('table')];
     const rows = tables.flatMap((table) => [...table.tBodies].flatMap((body) => [...body.rows]));
-    if (!rows.length && !cardRecords.length) return;
+    if (!rows.length) return;
 
     const toolbar = document.createElement('div');
     toolbar.className = 'catalogue-tools';
     toolbar.setAttribute('role', 'search');
-    const placeholder = usesCards
-      ? (cardRecords.some((record) => record.classList.contains('catalogue-record--study'))
-        ? 'Search title, topic, type, or source'
-        : 'Search subject, synopsis, provision, or source')
-      : 'Search title, subject, provision, or source';
-    toolbar.innerHTML = '<div class="catalogue-tools__field"><label for="catalogueSearch">Search this catalogue</label><input id="catalogueSearch" type="search" placeholder="' + placeholder + '" autocomplete="off"></div><div class="catalogue-tools__field"><label for="catalogueStatus">Filter by status</label><select id="catalogueStatus"><option value="">All statuses</option></select></div><output id="catalogueResultCount" aria-live="polite"></output>';
-    const insertionPoint = root.querySelector('h2, h3, table, .catalogue-records');
+    toolbar.innerHTML = `<div class="catalogue-tools__field"><label for="catalogueSearch">Search this catalogue</label><input id="catalogueSearch" type="search" placeholder="Search title, subject, provision, or source" autocomplete="off"></div><div class="catalogue-tools__field"><label for="catalogueStatus">Filter by status</label><select id="catalogueStatus"><option value="">All statuses</option></select></div><output id="catalogueResultCount" aria-live="polite"></output>`;
+    const insertionPoint = root.querySelector('h2, h3, table');
     insertionPoint?.before(toolbar);
     if (!insertionPoint) return;
 
@@ -974,19 +667,13 @@
       const labels = header ? [...header.cells].map((cell) => cell.textContent.trim().toLowerCase()) : [];
       return labels.findIndex((label) => /outcome|disposition|final|provenance/.test(label));
     });
-    const rowRecords = usesCards
-      ? cardRecords.map((record) => ({
-        row: record,
-        text: (record.dataset.searchText || record.textContent).toLocaleLowerCase(),
-        rowStatus: record.dataset.catalogueStatus || '',
-      }))
-      : rows.map((row) => {
-        const tableIndex = tables.findIndex((table) => table.contains(row));
-        const cellIndex = statusIndex[tableIndex];
-        const text = row.textContent.replace(/\s+/g, ' ').toLocaleLowerCase();
-        const rowStatus = cellIndex >= 0 ? row.cells[cellIndex]?.textContent.trim().toLocaleLowerCase() : '';
-        return { row, text, rowStatus };
-      });
+    const rowRecords = rows.map((row) => {
+      const tableIndex = tables.findIndex((table) => table.contains(row));
+      const cellIndex = statusIndex[tableIndex];
+      const text = row.textContent.replace(/\s+/g, ' ').toLocaleLowerCase();
+      const rowStatus = cellIndex >= 0 ? row.cells[cellIndex]?.textContent.trim().toLocaleLowerCase() : '';
+      return { row, text, rowStatus };
+    });
     const statuses = new Set(rowRecords.map(({ rowStatus }) => rowStatus).filter(Boolean));
     [...statuses].sort((a, b) => a.localeCompare(b)).forEach((value) => {
       const option = document.createElement('option');
@@ -997,18 +684,12 @@
     status.hidden = statuses.size < 2;
     status.parentElement.hidden = statuses.size < 2;
 
-    const groups = usesCards
-      ? [...root.querySelectorAll('.catalogue-records')].map((scroller) => {
-        let heading = scroller.previousElementSibling;
-        while (heading && !/^H[23]$/.test(heading.tagName)) heading = heading.previousElementSibling;
-        return { scroller, heading };
-      })
-      : tables.map((table) => {
-        const scroller = table.closest('.table-scroll') || table;
-        let heading = scroller.previousElementSibling;
-        while (heading && !/^H[23]$/.test(heading.tagName)) heading = heading.previousElementSibling;
-        return { scroller, heading };
-      });
+    const groups = tables.map((table) => {
+      const scroller = table.closest('.table-scroll') || table;
+      let heading = scroller.previousElementSibling;
+      while (heading && !/^H[23]$/.test(heading.tagName)) heading = heading.previousElementSibling;
+      return { scroller, heading };
+    });
     const update = () => {
       const query = search.value.toLocaleLowerCase().trim();
       const selectedStatus = status.value;
@@ -1019,9 +700,7 @@
         if (match) visible += 1;
       });
       groups.forEach(({ scroller, heading }) => {
-        const hasVisible = usesCards
-          ? scroller.querySelector('[data-catalogue-record]:not([hidden])')
-          : scroller.querySelector('tbody tr:not([hidden])');
+        const hasVisible = scroller.querySelector('tbody tr:not([hidden])');
         scroller.hidden = !hasVisible;
         if (heading) heading.hidden = !hasVisible;
       });
@@ -1071,22 +750,8 @@
       years.forEach((section) => { section.hidden = !section.querySelector('[data-judicial-record]:not([hidden])'); });
       if (count) count.textContent = `${visible} ${visible === 1 ? 'case' : 'cases'}`;
     };
-    const syncUrl = () => {
-      const url = new URL(location.href);
-      if (search?.value.trim()) url.searchParams.set('q', search.value.trim());
-      else url.searchParams.delete('q');
-      if (jump?.value) url.searchParams.set('year', jump.value);
-      else url.searchParams.delete('year');
-      history.replaceState({}, '', `${url.pathname}${url.search}${url.hash}`);
-    };
-    const initialUrl = new URL(location.href);
-    if (search && initialUrl.searchParams.has('q')) search.value = initialUrl.searchParams.get('q');
-    if (jump && initialUrl.searchParams.has('year')) jump.value = initialUrl.searchParams.get('year');
-    search?.addEventListener('input', () => { update(); syncUrl(); });
-    jump?.addEventListener('change', () => {
-      syncUrl();
-      if (jump.value) document.querySelector(`[data-judicial-year="${CSS.escape(jump.value)}"]`)?.scrollIntoView({ behavior: scrollBehavior(), block: 'start' });
-    });
+    search?.addEventListener('input', update);
+    jump?.addEventListener('change', () => { if (jump.value) document.querySelector(`[data-judicial-year="${CSS.escape(jump.value)}"]`)?.scrollIntoView({ behavior: scrollBehavior(), block: 'start' }); });
     catalogue.addEventListener('click', async (event) => {
       const actionButton = event.target.closest('.judicial-actions__button');
       const action = event.target.closest('[data-judicial-action]');
@@ -1222,64 +887,21 @@
     return heading ? `Back to ${heading.textContent.trim()}` : 'Back to results';
   }
 
-  function isRecordPath(pathname) {
-    return /\/(?:cases|inquiries|overtures|rpr\/exc|studies|markdown)\//i.test(pathname);
-  }
-
-  function resultLinksForContext() {
-    const seen = new Set();
-    return [...document.querySelectorAll('[data-result-primary][href], .home-result[href], [data-judicial-record] h3 a[href], .reading-col table a[href]')]
-      .map((item) => {
-        const href = new URL(item.href, location.href);
-        return { href: href.href, title: item.textContent.trim().replace(/\s+/g, ' ') };
-      })
-      .filter((item) => isRecordPath(new URL(item.href).pathname) && !seen.has(item.href) && seen.add(item.href));
-  }
-
-  function resultActionMeta(action) {
-    const item = action.closest('[data-result-item]') || action.closest('tr');
-    const link = item?.querySelector('[data-result-primary][href]') || action.closest('td')?.querySelector('[data-result-primary][href]');
-    if (!link) return null;
-    const url = new URL(link.href, location.href).href;
-    const title = item?.dataset.resultTitle || link.dataset.resultTitle || link.textContent.trim().replace(/\s+/g, ' ') || 'PCA record';
-    const type = item?.dataset.resultType || link.dataset.resultType || 'PCA record';
-    const citation = item?.dataset.resultCitation || link.dataset.resultCitation || '';
-    const short = citation || title;
-    const full = citation ? `${title}, ${citation}` : title;
-    const markdown = citation ? `[${title}](${url}) — ${citation}` : `[${title}](${url})`;
-    return { id: url, url, title, type, short, full, markdown };
-  }
-
-  document.addEventListener('click', async (event) => {
-    const action = event.target.closest('[data-result-action]');
-    if (!action) return;
-    const meta = resultActionMeta(action);
-    if (!meta) return;
-    const actionName = action.dataset.resultAction;
-    if (actionName === 'save') {
-      const saved = store?.toggleSaved({ ...meta, citation: meta.short });
-      action.textContent = saved ? 'Saved' : 'Save';
-      action.setAttribute('aria-pressed', String(Boolean(saved)));
-      showToast(saved ? 'Added to your bookshelf' : 'Removed from your bookshelf');
-    } else if (actionName === 'cite') {
-      openCitation(meta, action);
-    } else if (actionName === 'link') {
-      await copyText(meta.url);
-      showToast('Link copied');
-    }
-  });
-
   function recordContext(event) {
     const link = event.target.closest('a[href]');
     if (!link || link.closest('#recordSequence') || event.defaultPrevented || event.button || event.metaKey || event.ctrlKey || event.shiftKey || event.altKey) return;
     const target = new URL(link.href, location.href);
-    if (target.origin !== location.origin || !isRecordPath(target.pathname)) return;
-    const resultLinks = resultLinksForContext();
+    const isCase = target.pathname.includes('/cases/');
+    const isRprException = target.pathname.includes('/rpr/exc/');
+    if (target.origin !== location.origin || (!isCase && !isRprException)) return;
+    const resultAnchors = [...document.querySelectorAll('.home-result[href], .rpr-card .home-result__title[href]')];
+    const resultLinks = [...new Map(resultAnchors.map((item) => [item.href, {
+      href: item.href,
+      title: item.querySelector('.home-result__title')?.textContent.trim() || item.textContent.trim(),
+    }])).values()];
     const position = resultLinks.findIndex((item) => item.href === target.href);
     const context = {
-      version: 2,
       href: location.href,
-      destination: target.pathname,
       label: contextLabel(),
       y: window.scrollY,
       items: resultLinks,
@@ -1293,34 +915,19 @@
     const link = document.getElementById('recordReturnLink');
     const sequence = document.getElementById('recordSequence');
     if (!container || !link) return;
-    // The shared layout includes this element on every page, but the affordance
-    // is meaningful only on canonical record pages.  A stale session context
-    // must never make “Back to results” appear on the home or catalogue pages.
-    if (!isRecordPath(location.pathname)) {
-      container.hidden = true;
-      return;
-    }
     let context;
     try { context = JSON.parse(sessionStorage.getItem('pca-ga-return-context')); } catch (_) { context = null; }
-    const currentIndex = context?.items?.findIndex((item) => new URL(item.href, location.href).pathname === location.pathname) ?? -1;
-    if (!context?.href || (context.destination && context.destination !== location.pathname && currentIndex < 0)) return;
-    const activePosition = currentIndex >= 0 ? currentIndex : (context.position || 0);
+    if (!context?.href) return;
     link.textContent = `← ${context.label || 'Back to results'}`;
     link.href = context.href;
     link.addEventListener('click', () => {
       try { sessionStorage.setItem('pca-ga-restore-scroll', JSON.stringify({ href: context.href, y: context.y || 0 })); } catch (_) { /* No persistence needed. */ }
     });
     if (context.items?.length && context.position >= 0 && sequence) {
-      const previous = context.items[activePosition - 1];
-      const next = context.items[activePosition + 1];
+      const previous = context.items[context.position - 1];
+      const next = context.items[context.position + 1];
       sequence.hidden = false;
-      sequence.innerHTML = `${activePosition + 1} of ${context.items.length}${previous ? ` <a href="${previous.href}" aria-label="Previous result">‹</a>` : ''}${next ? ` <a href="${next.href}" aria-label="Next result">›</a>` : ''}`;
-      sequence.querySelectorAll('a[href]').forEach((resultLink) => resultLink.addEventListener('click', () => {
-        const target = new URL(resultLink.href, location.href);
-        context.destination = target.pathname;
-        context.position = context.items.findIndex((item) => item.href === target.href);
-        try { sessionStorage.setItem('pca-ga-return-context', JSON.stringify(context)); } catch (_) { /* Context is a convenience. */ }
-      }));
+      sequence.innerHTML = `${context.position + 1} of ${context.items.length}${previous ? ` <a href="${previous.href}" aria-label="Previous result">‹</a>` : ''}${next ? ` <a href="${next.href}" aria-label="Next result">›</a>` : ''}`;
     }
     container.hidden = false;
   }
@@ -1330,10 +937,7 @@
     try { restore = JSON.parse(sessionStorage.getItem('pca-ga-restore-scroll')); } catch (_) { restore = null; }
     if (!restore || new URL(restore.href, location.href).pathname !== location.pathname) return;
     sessionStorage.removeItem('pca-ga-restore-scroll');
-    const apply = () => window.requestAnimationFrame(() => window.scrollTo({ top: restore.y || 0, behavior: 'auto' }));
-    const isSearchHydration = document.body.dataset.pageType === 'home' && new URLSearchParams(location.search).has('q');
-    if (isSearchHydration) window.addEventListener('pca-results-ready', apply, { once: true });
-    else apply();
+    window.setTimeout(() => window.scrollTo({ top: restore.y || 0, behavior: 'auto' }), 650);
   }
 
   function renderBrowseRecent() {
@@ -1359,7 +963,6 @@
   enhanceCaseHeader();
   enhanceCollectionHeader();
   makeTablesResponsive();
-  enhanceCatalogueCards();
   enhanceCatalogueIndex();
   enhanceProvisionIndex();
   enhanceJudicialCatalogue();
