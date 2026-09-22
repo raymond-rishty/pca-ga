@@ -697,6 +697,13 @@
     return link;
   }
 
+  function catalogueActions() {
+    const actions = document.createElement('details');
+    actions.className = 'result-actions catalogue-record__actions';
+    actions.innerHTML = '<summary>Actions</summary><div class="result-actions__panel" aria-label="Record actions"><button type="button" data-result-action="save">Save</button><button type="button" data-result-action="cite">Cite</button><button type="button" data-result-action="link">Copy link</button></div>';
+    return actions;
+  }
+
   function buildCatalogueRecord(row, labels, groupLabel, variant) {
     const cells = [...row.cells];
     const numberCell = catalogueCell(cells, labels, /^(inquiry|overture)$/);
@@ -737,18 +744,19 @@
     main.className = 'catalogue-record__main';
     const eyebrow = document.createElement('p');
     eyebrow.className = 'catalogue-record__eyebrow';
-    const kind = document.createElement('span');
-    kind.className = 'catalogue-record__eyebrow-kind';
-    kind.textContent = variant === 'ccb'
-      ? 'CCB advice'
-      : variant === 'study'
-        ? 'Study report'
-        : 'Constitutional inquiry';
-    eyebrow.append(kind);
-    if (variant === 'study' && catalogueCellText(assemblyCell)) {
+    if (variant === 'ccb') {
+      const kind = document.createElement('span');
+      kind.className = 'catalogue-record__eyebrow-kind';
+      kind.textContent = 'CCB advice';
+      eyebrow.append(kind);
+    }
+    if (variant === 'study') {
+      const typeText = catalogueCellText(typeCell);
+      const assemblyText = catalogueCellText(assemblyCell);
+      const assemblyLabel = assemblyText.replace(/^(\d+(?:st|nd|rd|th))\s+\((\d{4})\)$/, '$1 GA ($2)');
       const assembly = document.createElement('span');
       assembly.className = 'catalogue-record__eyebrow-context';
-      assembly.textContent = catalogueCellText(assemblyCell);
+      assembly.textContent = [typeText, assemblyLabel].filter(Boolean).join(' · ');
       eyebrow.append(assembly);
     } else if (groupLabel) {
       const group = document.createElement('span');
@@ -768,6 +776,16 @@
     title.className = 'catalogue-record__title';
     catalogueCopyCell(titleCell, title);
     if (!title.textContent.trim()) title.textContent = titleText || 'Untitled record';
+    const resultTitle = titleText || title.textContent.trim() || 'PCA record';
+    record.dataset.resultItem = '';
+    record.dataset.resultTitle = resultTitle;
+    record.dataset.resultType = variant === 'study' ? 'Study report' : variant === 'ccb' ? 'CCB advice' : 'Constitutional inquiry';
+    const resultPrimary = title.querySelector('a[href]');
+    if (resultPrimary) {
+      resultPrimary.dataset.resultPrimary = '';
+      resultPrimary.dataset.resultTitle = resultTitle;
+      resultPrimary.dataset.resultType = record.dataset.resultType;
+    }
     main.append(title);
 
     if (synopsisText) {
@@ -808,10 +826,7 @@
 
     const meta = document.createElement('div');
     meta.className = 'catalogue-record__meta';
-    if (variant === 'study') {
-      catalogueMeta(meta, 'Topic', groupLabel);
-      catalogueMeta(meta, 'Provenance', provenanceText);
-    } else {
+    if (variant !== 'study') {
       catalogueMeta(meta, 'Provisions', catalogueCellText(provisionsCell));
       catalogueMeta(meta, 'From', catalogueCellText(fromCell));
     }
@@ -824,16 +839,11 @@
     if (primary) rail.append(primary);
     if (sourceAnchor) {
       const sourceLabel = variant === 'study'
-        ? (/pcahistory|pdf/i.test(sourceAnchor.href + ' ' + sourceCell.textContent) ? 'PCAHC / PDF' : 'Minutes')
+        ? (/pcahistory|pdf/i.test(sourceAnchor.href + ' ' + sourceCell.textContent) ? 'Source PDF' : 'Minutes')
         : 'Minutes';
       rail.append(catalogueAction(sourceAnchor, sourceLabel));
     }
-    if (provenanceText && /pdf-only|external/i.test(provenanceText)) {
-      const notice = document.createElement('span');
-      notice.className = 'catalogue-record__provenance';
-      notice.textContent = 'External source';
-      rail.append(notice);
-    }
+    rail.append(catalogueActions());
     if (rail.children.length) layout.append(main, rail);
     else layout.append(main);
     record.append(layout);
@@ -852,7 +862,46 @@
           ? 'study'
           : '';
     if (!variant) return;
-    [...root.querySelectorAll('table')].forEach((table) => {
+    const tables = [...root.querySelectorAll('table')];
+    if (variant === 'study') {
+      const records = document.createElement('div');
+      records.className = 'catalogue-records catalogue-records--study';
+      records.setAttribute('role', 'list');
+      const topicHeading = [...root.querySelectorAll('h2')].find((heading) => /^By topic$/i.test(heading.textContent.trim()));
+      if (topicHeading) topicHeading.textContent = 'Study reports';
+      const provenanceHeading = [...root.querySelectorAll('h2')].find((heading) => /^Provenance counts$/i.test(heading.textContent.trim()));
+      if (provenanceHeading) {
+        let next = provenanceHeading.nextElementSibling;
+        provenanceHeading.remove();
+        while (next && next.tagName !== 'H2') {
+          const current = next;
+          next = next.nextElementSibling;
+          current.remove();
+        }
+      }
+      const firstContainer = tables[0]?.closest('.table-scroll') || tables[0];
+      tables.forEach((table) => {
+        const header = table.tHead?.rows[0] || table.rows[0];
+        const labels = header
+          ? [...header.cells].map((cell) => cell.textContent.replace(/\s+/g, ' ').trim().toLocaleLowerCase())
+          : [];
+        const rows = [...table.querySelectorAll('tbody tr')];
+        const tableContainer = table.closest('.table-scroll') || table;
+        let heading = tableContainer.previousElementSibling;
+        while (heading && !/^H3$/.test(heading.tagName)) heading = heading.previousElementSibling;
+        if (heading) heading.remove();
+        rows.forEach((row) => {
+          const record = buildCatalogueRecord(row, labels, '', 'study');
+          record.setAttribute('role', 'listitem');
+          records.append(record);
+        });
+        tableContainer.remove();
+      });
+      firstContainer?.before(records);
+      root.classList.add('catalogue-cards-ready');
+      return;
+    }
+    tables.forEach((table) => {
       const header = table.tHead?.rows[0] || table.rows[0];
       const labels = header
         ? [...header.cells].map((cell) => cell.textContent.replace(/\s+/g, ' ').trim().toLocaleLowerCase())
