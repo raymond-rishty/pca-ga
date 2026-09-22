@@ -54,6 +54,7 @@ test('search and catalogue results preserve return state and expose keyboard act
     await assert.doesNotReject(() => actions.locator('[data-result-action="link"]').waitFor({ state: 'visible' }));
 
     await page.goto(`${baseUrl}/index/CASES.html`, { waitUntil: 'networkidle' });
+    assert.equal(await page.locator('#recordReturn').count(), 0);
     await page.waitForSelector('.reading-col table [data-result-primary][href]', { timeout: 30000 });
     const catalogueResult = page.locator('.reading-col table [data-result-primary][href]').first();
     await catalogueResult.click();
