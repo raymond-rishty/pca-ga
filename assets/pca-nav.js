@@ -658,6 +658,18 @@
     return cell ? cell.textContent.replace(/\s+/g, ' ').trim() : '';
   }
 
+  function catalogueDigestCitation(numberText, sourceCell) {
+    const sourceAnchor = sourceCell?.querySelector('a[href]');
+    const sourceText = sourceAnchor?.textContent.replace(/\s+/g, ' ').trim() || '';
+    const sourceHref = sourceAnchor?.getAttribute('href') || '';
+    const year = sourceText.match(/_(\d{4})\b/)?.[1] || sourceHref.match(/_(\d{4})\b/)?.[1] || '';
+    const page = sourceText.match(/\bp\.\s*(\d+[a-z]?)\b/i)?.[1] || '';
+    if (!year || !page || !numberText) return '';
+    let locator = numberText.replace(/\s+/g, ' ').trim();
+    if (/^App\. O\b/i.test(locator)) locator = locator.replace(/^App\. O\s*/i, 'App. O, ');
+    return `${year}, p. ${page}, ${locator}.`;
+  }
+
   function catalogueCopyCell(cell, target) {
     if (!cell) return;
     [...cell.childNodes].forEach((node) => {
@@ -777,14 +789,17 @@
     catalogueCopyCell(titleCell, title);
     if (!title.textContent.trim()) title.textContent = titleText || 'Untitled record';
     const resultTitle = titleText || title.textContent.trim() || 'PCA record';
+    const resultCitation = variant === 'study' ? '' : catalogueDigestCitation(numberText, sourceCell);
     record.dataset.resultItem = '';
     record.dataset.resultTitle = resultTitle;
     record.dataset.resultType = variant === 'study' ? 'Study report' : variant === 'ccb' ? 'CCB advice' : 'Constitutional inquiry';
+    if (resultCitation) record.dataset.resultCitation = resultCitation;
     const resultPrimary = title.querySelector('a[href]');
     if (resultPrimary) {
       resultPrimary.dataset.resultPrimary = '';
       resultPrimary.dataset.resultTitle = resultTitle;
       resultPrimary.dataset.resultType = record.dataset.resultType;
+      if (resultCitation) resultPrimary.dataset.resultCitation = resultCitation;
     }
     main.append(title);
 
@@ -1228,7 +1243,11 @@
     const url = new URL(link.href, location.href).href;
     const title = item?.dataset.resultTitle || link.dataset.resultTitle || link.textContent.trim().replace(/\s+/g, ' ') || 'PCA record';
     const type = item?.dataset.resultType || link.dataset.resultType || 'PCA record';
-    return { id: url, url, title, type, short: title, full: title, markdown: `[${title}](${url})` };
+    const citation = item?.dataset.resultCitation || link.dataset.resultCitation || '';
+    const short = citation || title;
+    const full = citation ? `${title}, ${citation}` : title;
+    const markdown = citation ? `[${title}](${url}) — ${citation}` : `[${title}](${url})`;
+    return { id: url, url, title, type, short, full, markdown };
   }
 
   document.addEventListener('click', async (event) => {
