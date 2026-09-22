@@ -32,7 +32,7 @@ test('search and catalogue results preserve return state and expose keyboard act
     });
     await page.reload({ waitUntil: 'networkidle' });
     await page.waitForSelector('.home-result__link[data-result-primary][href]', { timeout: 30000 });
-    assert.equal(await page.locator('#recordReturn').isHidden(), true);
+    assert.equal(await page.locator('#recordReturn').count(), 0);
     const searchResult = page.locator('.home-result__link[data-result-primary][href]').first();
     const searchHref = await searchResult.getAttribute('href');
     assert.match(searchHref, /\/?(?:cases|inquiries|overtures|rpr\/exc|studies|markdown)\//i);
