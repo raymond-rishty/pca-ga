@@ -360,7 +360,7 @@ def main():
         return (f'<article class="home-result home-result--rpr rpr-card rpr-card--compact" '
                 f'{card_attributes(result_title, exception_href)}>'
                 f'<span class="home-result__metadata">{metadata}</span>'
-                f'{card_link(t["canon"], exception_href)}'
+                f'{card_link("Full exception record", exception_href)}'
                 f'{card_body(t["description"] or "Exception of substance")}'
                 f'<span class="home-result__facts">{facts}</span>'
                 f'{card_actions()}</article>')
