@@ -1,11 +1,11 @@
 #!/usr/bin/env python3
 """
-20_markdown_index.py — render the structured index layers as MARKDOWN documents, so the
-catalogues are portable the same way the minutes are: human-presentable, greppable, and
-directly ingestible by another researcher (or their LLM) with no database tooling.
+20_markdown_index.py — render the minutes-volume index, catalogue layers, and outlines as
+portable MARKDOWN documents: human-presentable, greppable, and directly ingestible by
+another researcher (or their LLM) with no database tooling.
 
 Generates (from pca_minutes.db, the single source of truth after 19_export):
-  INDEX.md                 — corpus front door: volume table + links to everything
+  INDEX.md                 — minutes index: volume cards linking to minutes and outlines
   index/OVERTURES.md       — the 3,075-overture catalogue, grouped by Assembly
   index/CASES.md           — the legacy Assembly-grouped judicial-case extraction/index view
   index/outlines/ga*.md    — per-volume structural table of contents
@@ -260,42 +260,42 @@ def main():
         "FROM pages GROUP BY vol ORDER BY ga_ordinal").fetchall()
     ord2vol = {str(v["ga_ordinal"]): v["vol"] for v in vols}   # case_id docket numbers aren't volumes
 
-    # ---- INDEX.md (front door) ----
-    L = ["# PCA General Assembly Minutes — Corpus Index", "",
-         "This corpus contains all **52 volumes** of the Presbyterian Church in America *Minutes "
-         "of the General Assembly*, **1973–2025**, as cleaned, OCR-corrected Markdown. It also "
-         "includes structured catalogues. You can read the files here, search them with "
-         "command-line tools, or use them in your own research tools.", "",
-         "## Catalogues", "",
-         "- **[Overtures](OVERTURES.md)** — every overture to every Assembly (number, source "
-         "presbytery, page). *\"Has the PCA considered this before?\"*",
-         "- **[GA53 (2026) overtures — bearing past actions](GA53-OVERTURES.md)** — for each of the "
-         "90 overtures to the 53rd General Assembly, the prior judicial cases, constitutional "
-         "inquiries, overtures, and RPR exceptions that bear on it (deep-linked).",
-         "- **[Judicial cases](JUDICIAL-CASES.html)** — canonical one-row-per-rostered-case SJC/CJB "
-         "catalogue with case IDs and aliases, proceeding types, dispositions, summaries, "
-         "constitutional provisions, topic tags, and source records; the legacy Assembly-grouped "
-         "view remains **[CASES.md](CASES.md)** for compatibility; also **[by constitutional "
-         "provision](CASES-BY-PROVISION.md)** with auditable tag sources and line evidence.",
-         "- **[Constitutional inquiries](INQUIRIES.md)** — questions of constitutional "
-         "interpretation answered by the CCB, each with a Digest-level headnote and the verbatim "
-         "record. *\"What has the CCB said about this provision?\"*",
-         "- **[CCB advice on overtures & amendments](CCB-OVERTURE-ADVICE.md)** — the CCB's "
-         "constitutional review of proposed changes (whether an overture is *in conflict* with the "
-         "Constitution).",
-         "- **[Review of Presbytery Records](RPR.md)** — exceptions of substance taken to each "
-         "presbytery's minutes (the constitutional-compliance record), threaded across years with "
-         "their satisfactory/unsatisfactory outcome; also **[by provision](RPR-BY-PROVISION.md)**. "
-         "*\"Which presbyteries were cited under this BCO provision, and was it resolved?\"*",
-         "- **[Per-volume outlines](outlines/)** — a structural table of contents for each volume.",
-         "- **Full-text search:** a SQLite database (`pca_minutes.db`) indexes every page; see "
-         "[../PORTABLE.md](../PORTABLE.md) for query recipes. The markdown above is generated from it.",
-         "", "## Volumes", "",
-         "| GA | Year | Minutes | Outline | Pages |", "|---:|---:|---|---|---:|"]
+    # ---- INDEX.md (minutes front door) ----
+    L = [
+        "---",
+        "layout: default",
+        "title: Minutes Index",
+        "description: Browse 52 published volumes of the PCA General Assembly minutes (1973–2025), with a structural outline for each volume and full-text search.",
+        "permalink: /index/INDEX.html",
+        "---",
+        "",
+        "# PCA General Assembly Minutes — Minutes Index", "",
+         "Browse the **52 published volumes** of the Presbyterian Church in America *Minutes "
+         "of the General Assembly*, **1973–2025**. Open a volume to read its cleaned, "
+         "OCR-corrected text, or follow its outline to navigate the meeting record.", "",
+         "## Volumes", "",
+         '<div class="minutes-volume-grid" role="list" aria-label="Published General Assembly volumes">']
     for v in vols:
         stem = v["vol"]
-        L.append(f"| {v['ga_ordinal']} | {v['year']} | [{stem}](../markdown/{stem}.md) "
-                 f"| [outline](outlines/{stem}.md) | {v['pages']} |")
+        L += [
+            '  <article class="minutes-volume-card" role="listitem">',
+            f'    <p class="minutes-volume-card__assembly">General Assembly {v["ga_ordinal"]}</p>',
+            f'    <h3>{v["year"]}</h3>',
+            f'    <p class="minutes-volume-card__pages">{v["pages"]} pages</p>',
+            '    <div class="minutes-volume-card__links">',
+            f"      <a class=\"minutes-volume-card__primary\" href=\"{{{{ '/markdown/{stem}.html' | relative_url }}}}\">Read minutes</a>",
+            f"      <a href=\"{{{{ '/index/outlines/{stem}.html' | relative_url }}}}\">Outline</a>",
+            '    </div>',
+            '  </article>',
+        ]
+    L.append('</div>')
+    L += [
+        "",
+        "## Full-text search",
+        "",
+        "A SQLite database named pca_minutes.db indexes every page of the minutes. See "
+        "[../PORTABLE.md](../PORTABLE.md) for query recipes.",
+    ]
     open(os.path.join(OUT_IDX, "INDEX.md"), "w").write("\n".join(L) + "\n")
 
     # ---- OVERTURES.md ----

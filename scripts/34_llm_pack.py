@@ -4,7 +4,7 @@
 
 Writes (at <ROOT>/):
   llms-full.txt   compact catalogues concatenated into ONE fetchable/uploadable file (cases, inquiries,
-                  CCB advice, RPR hub + corpus index). Large catalogues (OVERTURES, RPR-BY-PROVISION)
+                  CCB advice, RPR hub + Minutes index). Large catalogues (OVERTURES, RPR-BY-PROVISION)
                   are linked for fetch-on-demand rather than inlined.
 
 ASK.md (the copy/paste research prompt) and llms.txt (the retrieval guide) are hand-maintained.
@@ -108,7 +108,7 @@ def main():
         "# PCA GA Minutes — LLM pack (compact catalogues, one file)\n",
         f"Generated index for AI ingestion. The corpus lives at {SITE} (raw markdown at {RAW}).",
         "This file concatenates the SMALL structured catalogues so you can load them in one fetch:",
-        "the corpus index, the RPR hub, constitutional inquiries, and CCB advice.",
+        "the Minutes index, the RPR hub, constitutional inquiries, and CCB advice.",
         f"The provision-scoped BCO authority manifests are available at {BCO_API}; use them for provision-first retrieval.",
         "Each catalogue row deep-links to the verbatim minutes page; cite as `M<GA>GA p.<page>`.",
         "User-facing links in this pack are canonical GitHub Pages URLs ending in `.html`; source `.md` paths are for raw/repository retrieval only.",

@@ -1,71 +1,487 @@
-# PCA General Assembly Minutes — Corpus Index
+---
+layout: default
+title: Minutes Index
+description: Browse 52 published volumes of the PCA General Assembly minutes (1973–2025), with a structural outline for each volume and full-text search.
+permalink: /index/INDEX.html
+---
 
-This corpus contains all **52 volumes** of the Presbyterian Church in America *Minutes of the General Assembly*, **1973–2025**, as cleaned, OCR-corrected Markdown. It also includes structured catalogues. You can read the files here, search them with command-line tools, or use them in your own research tools.
+# PCA General Assembly Minutes — Minutes Index
 
-## Catalogues
-
-- **[Overtures](OVERTURES.md)** — every overture to every Assembly (number, source presbytery, page). *"Has the PCA considered this before?"*
-- **[GA53 (2026) overtures — bearing past actions](GA53-OVERTURES.md)** — for each of the 90 overtures to the 53rd General Assembly, the prior judicial cases, constitutional inquiries, overtures, and RPR exceptions that bear on it (deep-linked).
-- **[Judicial cases](JUDICIAL-CASES.html)** — canonical one-row-per-rostered-case SJC/CJB catalogue with case IDs and aliases, proceeding types, dispositions, summaries, constitutional provisions, topic tags, and source records; the legacy Assembly-grouped view remains **[CASES.md](CASES.md)** for compatibility; also **[by constitutional provision](CASES-BY-PROVISION.md)** with auditable tag sources and line evidence.
-- **[Constitutional inquiries](INQUIRIES.md)** — questions of constitutional interpretation answered by the CCB, each with a Digest-level headnote and the verbatim record. *"What has the CCB said about this provision?"*
-- **[CCB advice on overtures & amendments](CCB-OVERTURE-ADVICE.md)** — the CCB's constitutional review of proposed changes (whether an overture is *in conflict* with the Constitution).
-- **[Review of Presbytery Records](RPR.md)** — exceptions of substance taken to each presbytery's minutes (the constitutional-compliance record), threaded across years with their satisfactory/unsatisfactory outcome; also **[by provision](RPR-BY-PROVISION.md)**. *"Which presbyteries were cited under this BCO provision, and was it resolved?"*
-- **[Per-volume outlines](outlines/)** — a structural table of contents for each volume.
-- **Full-text search:** a SQLite database (`pca_minutes.db`) indexes every page; see [../PORTABLE.md](../PORTABLE.md) for query recipes. The markdown above is generated from it.
+Browse the **52 published volumes** of the Presbyterian Church in America *Minutes of the General Assembly*, **1973–2025**. Open a volume to read its cleaned, OCR-corrected text, or follow its outline to navigate the meeting record.
 
 ## Volumes
 
-| GA | Year | Minutes | Outline | Pages |
-|---:|---:|---|---|---:|
-| 1 | 1973 | [ga01_1973](../markdown/ga01_1973.md) | [outline](outlines/ga01_1973.md) | 249 |
-| 2 | 1974 | [ga02_1974](../markdown/ga02_1974.md) | [outline](outlines/ga02_1974.md) | 237 |
-| 3 | 1975 | [ga03_1975](../markdown/ga03_1975.md) | [outline](outlines/ga03_1975.md) | 237 |
-| 4 | 1976 | [ga04_1976](../markdown/ga04_1976.md) | [outline](outlines/ga04_1976.md) | 225 |
-| 5 | 1977 | [ga05_1977](../markdown/ga05_1977.md) | [outline](outlines/ga05_1977.md) | 270 |
-| 6 | 1978 | [ga06_1978](../markdown/ga06_1978.md) | [outline](outlines/ga06_1978.md) | 305 |
-| 7 | 1979 | [ga07_1979](../markdown/ga07_1979.md) | [outline](outlines/ga07_1979.md) | 306 |
-| 8 | 1980 | [ga08_1980](../markdown/ga08_1980.md) | [outline](outlines/ga08_1980.md) | 259 |
-| 9 | 1981 | [ga09_1981](../markdown/ga09_1981.md) | [outline](outlines/ga09_1981.md) | 384 |
-| 10 | 1982 | [ga10_1982](../markdown/ga10_1982.md) | [outline](outlines/ga10_1982.md) | 346 |
-| 11 | 1983 | [ga11_1983](../markdown/ga11_1983.md) | [outline](outlines/ga11_1983.md) | 333 |
-| 12 | 1984 | [ga12_1984](../markdown/ga12_1984.md) | [outline](outlines/ga12_1984.md) | 439 |
-| 13 | 1985 | [ga13_1985](../markdown/ga13_1985.md) | [outline](outlines/ga13_1985.md) | 380 |
-| 14 | 1986 | [ga14_1986](../markdown/ga14_1986.md) | [outline](outlines/ga14_1986.md) | 546 |
-| 15 | 1987 | [ga15_1987](../markdown/ga15_1987.md) | [outline](outlines/ga15_1987.md) | 575 |
-| 16 | 1988 | [ga16_1988](../markdown/ga16_1988.md) | [outline](outlines/ga16_1988.md) | 567 |
-| 17 | 1989 | [ga17_1989](../markdown/ga17_1989.md) | [outline](outlines/ga17_1989.md) | 470 |
-| 18 | 1990 | [ga18_1990](../markdown/ga18_1990.md) | [outline](outlines/ga18_1990.md) | 577 |
-| 19 | 1991 | [ga19_1991](../markdown/ga19_1991.md) | [outline](outlines/ga19_1991.md) | 734 |
-| 20 | 1992 | [ga20_1992](../markdown/ga20_1992.md) | [outline](outlines/ga20_1992.md) | 648 |
-| 21 | 1993 | [ga21_1993](../markdown/ga21_1993.md) | [outline](outlines/ga21_1993.md) | 556 |
-| 22 | 1994 | [ga22_1994](../markdown/ga22_1994.md) | [outline](outlines/ga22_1994.md) | 694 |
-| 23 | 1995 | [ga23_1995](../markdown/ga23_1995.md) | [outline](outlines/ga23_1995.md) | 493 |
-| 24 | 1996 | [ga24_1996](../markdown/ga24_1996.md) | [outline](outlines/ga24_1996.md) | 593 |
-| 25 | 1997 | [ga25_1997](../markdown/ga25_1997.md) | [outline](outlines/ga25_1997.md) | 494 |
-| 26 | 1998 | [ga26_1998](../markdown/ga26_1998.md) | [outline](outlines/ga26_1998.md) | 541 |
-| 27 | 1999 | [ga27_1999](../markdown/ga27_1999.md) | [outline](outlines/ga27_1999.md) | 460 |
-| 28 | 2000 | [ga28_2000](../markdown/ga28_2000.md) | [outline](outlines/ga28_2000.md) | 623 |
-| 29 | 2001 | [ga29_2001](../markdown/ga29_2001.md) | [outline](outlines/ga29_2001.md) | 640 |
-| 30 | 2002 | [ga30_2002](../markdown/ga30_2002.md) | [outline](outlines/ga30_2002.md) | 766 |
-| 31 | 2003 | [ga31_2003](../markdown/ga31_2003.md) | [outline](outlines/ga31_2003.md) | 611 |
-| 32 | 2004 | [ga32_2004](../markdown/ga32_2004.md) | [outline](outlines/ga32_2004.md) | 584 |
-| 33 | 2005 | [ga33_2005](../markdown/ga33_2005.md) | [outline](outlines/ga33_2005.md) | 674 |
-| 34 | 2006 | [ga34_2006](../markdown/ga34_2006.md) | [outline](outlines/ga34_2006.md) | 657 |
-| 35 | 2007 | [ga35_2007](../markdown/ga35_2007.md) | [outline](outlines/ga35_2007.md) | 594 |
-| 36 | 2008 | [ga36_2008](../markdown/ga36_2008.md) | [outline](outlines/ga36_2008.md) | 561 |
-| 37 | 2009 | [ga37_2009](../markdown/ga37_2009.md) | [outline](outlines/ga37_2009.md) | 608 |
-| 38 | 2010 | [ga38_2010](../markdown/ga38_2010.md) | [outline](outlines/ga38_2010.md) | 788 |
-| 39 | 2011 | [ga39_2011](../markdown/ga39_2011.md) | [outline](outlines/ga39_2011.md) | 685 |
-| 40 | 2012 | [ga40_2012](../markdown/ga40_2012.md) | [outline](outlines/ga40_2012.md) | 802 |
-| 41 | 2013 | [ga41_2013](../markdown/ga41_2013.md) | [outline](outlines/ga41_2013.md) | 903 |
-| 42 | 2014 | [ga42_2014](../markdown/ga42_2014.md) | [outline](outlines/ga42_2014.md) | 895 |
-| 43 | 2015 | [ga43_2015](../markdown/ga43_2015.md) | [outline](outlines/ga43_2015.md) | 654 |
-| 44 | 2016 | [ga44_2016](../markdown/ga44_2016.md) | [outline](outlines/ga44_2016.md) | 750 |
-| 45 | 2017 | [ga45_2017](../markdown/ga45_2017.md) | [outline](outlines/ga45_2017.md) | 723 |
-| 46 | 2018 | [ga46_2018](../markdown/ga46_2018.md) | [outline](outlines/ga46_2018.md) | 782 |
-| 47 | 2019 | [ga47_2019](../markdown/ga47_2019.md) | [outline](outlines/ga47_2019.md) | 771 |
-| 48 | 2021 | [ga48_2021](../markdown/ga48_2021.md) | [outline](outlines/ga48_2021.md) | 1154 |
-| 49 | 2022 | [ga49_2022](../markdown/ga49_2022.md) | [outline](outlines/ga49_2022.md) | 1431 |
-| 50 | 2023 | [ga50_2023](../markdown/ga50_2023.md) | [outline](outlines/ga50_2023.md) | 1089 |
-| 51 | 2024 | [ga51_2024](../markdown/ga51_2024.md) | [outline](outlines/ga51_2024.md) | 1283 |
-| 52 | 2025 | [ga52_2025](../markdown/ga52_2025.md) | [outline](outlines/ga52_2025.md) | 1369 |
+<div class="minutes-volume-grid" role="list" aria-label="Published General Assembly volumes">
+  <article class="minutes-volume-card" role="listitem">
+    <p class="minutes-volume-card__assembly">General Assembly 1</p>
+    <h3>1973</h3>
+    <p class="minutes-volume-card__pages">249 pages</p>
+    <div class="minutes-volume-card__links">
+      <a class="minutes-volume-card__primary" href="{{ '/markdown/ga01_1973.html' | relative_url }}">Read minutes</a>
+      <a href="{{ '/index/outlines/ga01_1973.html' | relative_url }}">Outline</a>
+    </div>
+  </article>
+  <article class="minutes-volume-card" role="listitem">
+    <p class="minutes-volume-card__assembly">General Assembly 2</p>
+    <h3>1974</h3>
+    <p class="minutes-volume-card__pages">237 pages</p>
+    <div class="minutes-volume-card__links">
+      <a class="minutes-volume-card__primary" href="{{ '/markdown/ga02_1974.html' | relative_url }}">Read minutes</a>
+      <a href="{{ '/index/outlines/ga02_1974.html' | relative_url }}">Outline</a>
+    </div>
+  </article>
+  <article class="minutes-volume-card" role="listitem">
+    <p class="minutes-volume-card__assembly">General Assembly 3</p>
+    <h3>1975</h3>
+    <p class="minutes-volume-card__pages">237 pages</p>
+    <div class="minutes-volume-card__links">
+      <a class="minutes-volume-card__primary" href="{{ '/markdown/ga03_1975.html' | relative_url }}">Read minutes</a>
+      <a href="{{ '/index/outlines/ga03_1975.html' | relative_url }}">Outline</a>
+    </div>
+  </article>
+  <article class="minutes-volume-card" role="listitem">
+    <p class="minutes-volume-card__assembly">General Assembly 4</p>
+    <h3>1976</h3>
+    <p class="minutes-volume-card__pages">225 pages</p>
+    <div class="minutes-volume-card__links">
+      <a class="minutes-volume-card__primary" href="{{ '/markdown/ga04_1976.html' | relative_url }}">Read minutes</a>
+      <a href="{{ '/index/outlines/ga04_1976.html' | relative_url }}">Outline</a>
+    </div>
+  </article>
+  <article class="minutes-volume-card" role="listitem">
+    <p class="minutes-volume-card__assembly">General Assembly 5</p>
+    <h3>1977</h3>
+    <p class="minutes-volume-card__pages">270 pages</p>
+    <div class="minutes-volume-card__links">
+      <a class="minutes-volume-card__primary" href="{{ '/markdown/ga05_1977.html' | relative_url }}">Read minutes</a>
+      <a href="{{ '/index/outlines/ga05_1977.html' | relative_url }}">Outline</a>
+    </div>
+  </article>
+  <article class="minutes-volume-card" role="listitem">
+    <p class="minutes-volume-card__assembly">General Assembly 6</p>
+    <h3>1978</h3>
+    <p class="minutes-volume-card__pages">305 pages</p>
+    <div class="minutes-volume-card__links">
+      <a class="minutes-volume-card__primary" href="{{ '/markdown/ga06_1978.html' | relative_url }}">Read minutes</a>
+      <a href="{{ '/index/outlines/ga06_1978.html' | relative_url }}">Outline</a>
+    </div>
+  </article>
+  <article class="minutes-volume-card" role="listitem">
+    <p class="minutes-volume-card__assembly">General Assembly 7</p>
+    <h3>1979</h3>
+    <p class="minutes-volume-card__pages">306 pages</p>
+    <div class="minutes-volume-card__links">
+      <a class="minutes-volume-card__primary" href="{{ '/markdown/ga07_1979.html' | relative_url }}">Read minutes</a>
+      <a href="{{ '/index/outlines/ga07_1979.html' | relative_url }}">Outline</a>
+    </div>
+  </article>
+  <article class="minutes-volume-card" role="listitem">
+    <p class="minutes-volume-card__assembly">General Assembly 8</p>
+    <h3>1980</h3>
+    <p class="minutes-volume-card__pages">259 pages</p>
+    <div class="minutes-volume-card__links">
+      <a class="minutes-volume-card__primary" href="{{ '/markdown/ga08_1980.html' | relative_url }}">Read minutes</a>
+      <a href="{{ '/index/outlines/ga08_1980.html' | relative_url }}">Outline</a>
+    </div>
+  </article>
+  <article class="minutes-volume-card" role="listitem">
+    <p class="minutes-volume-card__assembly">General Assembly 9</p>
+    <h3>1981</h3>
+    <p class="minutes-volume-card__pages">384 pages</p>
+    <div class="minutes-volume-card__links">
+      <a class="minutes-volume-card__primary" href="{{ '/markdown/ga09_1981.html' | relative_url }}">Read minutes</a>
+      <a href="{{ '/index/outlines/ga09_1981.html' | relative_url }}">Outline</a>
+    </div>
+  </article>
+  <article class="minutes-volume-card" role="listitem">
+    <p class="minutes-volume-card__assembly">General Assembly 10</p>
+    <h3>1982</h3>
+    <p class="minutes-volume-card__pages">346 pages</p>
+    <div class="minutes-volume-card__links">
+      <a class="minutes-volume-card__primary" href="{{ '/markdown/ga10_1982.html' | relative_url }}">Read minutes</a>
+      <a href="{{ '/index/outlines/ga10_1982.html' | relative_url }}">Outline</a>
+    </div>
+  </article>
+  <article class="minutes-volume-card" role="listitem">
+    <p class="minutes-volume-card__assembly">General Assembly 11</p>
+    <h3>1983</h3>
+    <p class="minutes-volume-card__pages">333 pages</p>
+    <div class="minutes-volume-card__links">
+      <a class="minutes-volume-card__primary" href="{{ '/markdown/ga11_1983.html' | relative_url }}">Read minutes</a>
+      <a href="{{ '/index/outlines/ga11_1983.html' | relative_url }}">Outline</a>
+    </div>
+  </article>
+  <article class="minutes-volume-card" role="listitem">
+    <p class="minutes-volume-card__assembly">General Assembly 12</p>
+    <h3>1984</h3>
+    <p class="minutes-volume-card__pages">439 pages</p>
+    <div class="minutes-volume-card__links">
+      <a class="minutes-volume-card__primary" href="{{ '/markdown/ga12_1984.html' | relative_url }}">Read minutes</a>
+      <a href="{{ '/index/outlines/ga12_1984.html' | relative_url }}">Outline</a>
+    </div>
+  </article>
+  <article class="minutes-volume-card" role="listitem">
+    <p class="minutes-volume-card__assembly">General Assembly 13</p>
+    <h3>1985</h3>
+    <p class="minutes-volume-card__pages">380 pages</p>
+    <div class="minutes-volume-card__links">
+      <a class="minutes-volume-card__primary" href="{{ '/markdown/ga13_1985.html' | relative_url }}">Read minutes</a>
+      <a href="{{ '/index/outlines/ga13_1985.html' | relative_url }}">Outline</a>
+    </div>
+  </article>
+  <article class="minutes-volume-card" role="listitem">
+    <p class="minutes-volume-card__assembly">General Assembly 14</p>
+    <h3>1986</h3>
+    <p class="minutes-volume-card__pages">546 pages</p>
+    <div class="minutes-volume-card__links">
+      <a class="minutes-volume-card__primary" href="{{ '/markdown/ga14_1986.html' | relative_url }}">Read minutes</a>
+      <a href="{{ '/index/outlines/ga14_1986.html' | relative_url }}">Outline</a>
+    </div>
+  </article>
+  <article class="minutes-volume-card" role="listitem">
+    <p class="minutes-volume-card__assembly">General Assembly 15</p>
+    <h3>1987</h3>
+    <p class="minutes-volume-card__pages">575 pages</p>
+    <div class="minutes-volume-card__links">
+      <a class="minutes-volume-card__primary" href="{{ '/markdown/ga15_1987.html' | relative_url }}">Read minutes</a>
+      <a href="{{ '/index/outlines/ga15_1987.html' | relative_url }}">Outline</a>
+    </div>
+  </article>
+  <article class="minutes-volume-card" role="listitem">
+    <p class="minutes-volume-card__assembly">General Assembly 16</p>
+    <h3>1988</h3>
+    <p class="minutes-volume-card__pages">567 pages</p>
+    <div class="minutes-volume-card__links">
+      <a class="minutes-volume-card__primary" href="{{ '/markdown/ga16_1988.html' | relative_url }}">Read minutes</a>
+      <a href="{{ '/index/outlines/ga16_1988.html' | relative_url }}">Outline</a>
+    </div>
+  </article>
+  <article class="minutes-volume-card" role="listitem">
+    <p class="minutes-volume-card__assembly">General Assembly 17</p>
+    <h3>1989</h3>
+    <p class="minutes-volume-card__pages">470 pages</p>
+    <div class="minutes-volume-card__links">
+      <a class="minutes-volume-card__primary" href="{{ '/markdown/ga17_1989.html' | relative_url }}">Read minutes</a>
+      <a href="{{ '/index/outlines/ga17_1989.html' | relative_url }}">Outline</a>
+    </div>
+  </article>
+  <article class="minutes-volume-card" role="listitem">
+    <p class="minutes-volume-card__assembly">General Assembly 18</p>
+    <h3>1990</h3>
+    <p class="minutes-volume-card__pages">577 pages</p>
+    <div class="minutes-volume-card__links">
+      <a class="minutes-volume-card__primary" href="{{ '/markdown/ga18_1990.html' | relative_url }}">Read minutes</a>
+      <a href="{{ '/index/outlines/ga18_1990.html' | relative_url }}">Outline</a>
+    </div>
+  </article>
+  <article class="minutes-volume-card" role="listitem">
+    <p class="minutes-volume-card__assembly">General Assembly 19</p>
+    <h3>1991</h3>
+    <p class="minutes-volume-card__pages">734 pages</p>
+    <div class="minutes-volume-card__links">
+      <a class="minutes-volume-card__primary" href="{{ '/markdown/ga19_1991.html' | relative_url }}">Read minutes</a>
+      <a href="{{ '/index/outlines/ga19_1991.html' | relative_url }}">Outline</a>
+    </div>
+  </article>
+  <article class="minutes-volume-card" role="listitem">
+    <p class="minutes-volume-card__assembly">General Assembly 20</p>
+    <h3>1992</h3>
+    <p class="minutes-volume-card__pages">648 pages</p>
+    <div class="minutes-volume-card__links">
+      <a class="minutes-volume-card__primary" href="{{ '/markdown/ga20_1992.html' | relative_url }}">Read minutes</a>
+      <a href="{{ '/index/outlines/ga20_1992.html' | relative_url }}">Outline</a>
+    </div>
+  </article>
+  <article class="minutes-volume-card" role="listitem">
+    <p class="minutes-volume-card__assembly">General Assembly 21</p>
+    <h3>1993</h3>
+    <p class="minutes-volume-card__pages">556 pages</p>
+    <div class="minutes-volume-card__links">
+      <a class="minutes-volume-card__primary" href="{{ '/markdown/ga21_1993.html' | relative_url }}">Read minutes</a>
+      <a href="{{ '/index/outlines/ga21_1993.html' | relative_url }}">Outline</a>
+    </div>
+  </article>
+  <article class="minutes-volume-card" role="listitem">
+    <p class="minutes-volume-card__assembly">General Assembly 22</p>
+    <h3>1994</h3>
+    <p class="minutes-volume-card__pages">694 pages</p>
+    <div class="minutes-volume-card__links">
+      <a class="minutes-volume-card__primary" href="{{ '/markdown/ga22_1994.html' | relative_url }}">Read minutes</a>
+      <a href="{{ '/index/outlines/ga22_1994.html' | relative_url }}">Outline</a>
+    </div>
+  </article>
+  <article class="minutes-volume-card" role="listitem">
+    <p class="minutes-volume-card__assembly">General Assembly 23</p>
+    <h3>1995</h3>
+    <p class="minutes-volume-card__pages">493 pages</p>
+    <div class="minutes-volume-card__links">
+      <a class="minutes-volume-card__primary" href="{{ '/markdown/ga23_1995.html' | relative_url }}">Read minutes</a>
+      <a href="{{ '/index/outlines/ga23_1995.html' | relative_url }}">Outline</a>
+    </div>
+  </article>
+  <article class="minutes-volume-card" role="listitem">
+    <p class="minutes-volume-card__assembly">General Assembly 24</p>
+    <h3>1996</h3>
+    <p class="minutes-volume-card__pages">593 pages</p>
+    <div class="minutes-volume-card__links">
+      <a class="minutes-volume-card__primary" href="{{ '/markdown/ga24_1996.html' | relative_url }}">Read minutes</a>
+      <a href="{{ '/index/outlines/ga24_1996.html' | relative_url }}">Outline</a>
+    </div>
+  </article>
+  <article class="minutes-volume-card" role="listitem">
+    <p class="minutes-volume-card__assembly">General Assembly 25</p>
+    <h3>1997</h3>
+    <p class="minutes-volume-card__pages">494 pages</p>
+    <div class="minutes-volume-card__links">
+      <a class="minutes-volume-card__primary" href="{{ '/markdown/ga25_1997.html' | relative_url }}">Read minutes</a>
+      <a href="{{ '/index/outlines/ga25_1997.html' | relative_url }}">Outline</a>
+    </div>
+  </article>
+  <article class="minutes-volume-card" role="listitem">
+    <p class="minutes-volume-card__assembly">General Assembly 26</p>
+    <h3>1998</h3>
+    <p class="minutes-volume-card__pages">541 pages</p>
+    <div class="minutes-volume-card__links">
+      <a class="minutes-volume-card__primary" href="{{ '/markdown/ga26_1998.html' | relative_url }}">Read minutes</a>
+      <a href="{{ '/index/outlines/ga26_1998.html' | relative_url }}">Outline</a>
+    </div>
+  </article>
+  <article class="minutes-volume-card" role="listitem">
+    <p class="minutes-volume-card__assembly">General Assembly 27</p>
+    <h3>1999</h3>
+    <p class="minutes-volume-card__pages">460 pages</p>
+    <div class="minutes-volume-card__links">
+      <a class="minutes-volume-card__primary" href="{{ '/markdown/ga27_1999.html' | relative_url }}">Read minutes</a>
+      <a href="{{ '/index/outlines/ga27_1999.html' | relative_url }}">Outline</a>
+    </div>
+  </article>
+  <article class="minutes-volume-card" role="listitem">
+    <p class="minutes-volume-card__assembly">General Assembly 28</p>
+    <h3>2000</h3>
+    <p class="minutes-volume-card__pages">623 pages</p>
+    <div class="minutes-volume-card__links">
+      <a class="minutes-volume-card__primary" href="{{ '/markdown/ga28_2000.html' | relative_url }}">Read minutes</a>
+      <a href="{{ '/index/outlines/ga28_2000.html' | relative_url }}">Outline</a>
+    </div>
+  </article>
+  <article class="minutes-volume-card" role="listitem">
+    <p class="minutes-volume-card__assembly">General Assembly 29</p>
+    <h3>2001</h3>
+    <p class="minutes-volume-card__pages">640 pages</p>
+    <div class="minutes-volume-card__links">
+      <a class="minutes-volume-card__primary" href="{{ '/markdown/ga29_2001.html' | relative_url }}">Read minutes</a>
+      <a href="{{ '/index/outlines/ga29_2001.html' | relative_url }}">Outline</a>
+    </div>
+  </article>
+  <article class="minutes-volume-card" role="listitem">
+    <p class="minutes-volume-card__assembly">General Assembly 30</p>
+    <h3>2002</h3>
+    <p class="minutes-volume-card__pages">766 pages</p>
+    <div class="minutes-volume-card__links">
+      <a class="minutes-volume-card__primary" href="{{ '/markdown/ga30_2002.html' | relative_url }}">Read minutes</a>
+      <a href="{{ '/index/outlines/ga30_2002.html' | relative_url }}">Outline</a>
+    </div>
+  </article>
+  <article class="minutes-volume-card" role="listitem">
+    <p class="minutes-volume-card__assembly">General Assembly 31</p>
+    <h3>2003</h3>
+    <p class="minutes-volume-card__pages">611 pages</p>
+    <div class="minutes-volume-card__links">
+      <a class="minutes-volume-card__primary" href="{{ '/markdown/ga31_2003.html' | relative_url }}">Read minutes</a>
+      <a href="{{ '/index/outlines/ga31_2003.html' | relative_url }}">Outline</a>
+    </div>
+  </article>
+  <article class="minutes-volume-card" role="listitem">
+    <p class="minutes-volume-card__assembly">General Assembly 32</p>
+    <h3>2004</h3>
+    <p class="minutes-volume-card__pages">584 pages</p>
+    <div class="minutes-volume-card__links">
+      <a class="minutes-volume-card__primary" href="{{ '/markdown/ga32_2004.html' | relative_url }}">Read minutes</a>
+      <a href="{{ '/index/outlines/ga32_2004.html' | relative_url }}">Outline</a>
+    </div>
+  </article>
+  <article class="minutes-volume-card" role="listitem">
+    <p class="minutes-volume-card__assembly">General Assembly 33</p>
+    <h3>2005</h3>
+    <p class="minutes-volume-card__pages">674 pages</p>
+    <div class="minutes-volume-card__links">
+      <a class="minutes-volume-card__primary" href="{{ '/markdown/ga33_2005.html' | relative_url }}">Read minutes</a>
+      <a href="{{ '/index/outlines/ga33_2005.html' | relative_url }}">Outline</a>
+    </div>
+  </article>
+  <article class="minutes-volume-card" role="listitem">
+    <p class="minutes-volume-card__assembly">General Assembly 34</p>
+    <h3>2006</h3>
+    <p class="minutes-volume-card__pages">657 pages</p>
+    <div class="minutes-volume-card__links">
+      <a class="minutes-volume-card__primary" href="{{ '/markdown/ga34_2006.html' | relative_url }}">Read minutes</a>
+      <a href="{{ '/index/outlines/ga34_2006.html' | relative_url }}">Outline</a>
+    </div>
+  </article>
+  <article class="minutes-volume-card" role="listitem">
+    <p class="minutes-volume-card__assembly">General Assembly 35</p>
+    <h3>2007</h3>
+    <p class="minutes-volume-card__pages">594 pages</p>
+    <div class="minutes-volume-card__links">
+      <a class="minutes-volume-card__primary" href="{{ '/markdown/ga35_2007.html' | relative_url }}">Read minutes</a>
+      <a href="{{ '/index/outlines/ga35_2007.html' | relative_url }}">Outline</a>
+    </div>
+  </article>
+  <article class="minutes-volume-card" role="listitem">
+    <p class="minutes-volume-card__assembly">General Assembly 36</p>
+    <h3>2008</h3>
+    <p class="minutes-volume-card__pages">561 pages</p>
+    <div class="minutes-volume-card__links">
+      <a class="minutes-volume-card__primary" href="{{ '/markdown/ga36_2008.html' | relative_url }}">Read minutes</a>
+      <a href="{{ '/index/outlines/ga36_2008.html' | relative_url }}">Outline</a>
+    </div>
+  </article>
+  <article class="minutes-volume-card" role="listitem">
+    <p class="minutes-volume-card__assembly">General Assembly 37</p>
+    <h3>2009</h3>
+    <p class="minutes-volume-card__pages">608 pages</p>
+    <div class="minutes-volume-card__links">
+      <a class="minutes-volume-card__primary" href="{{ '/markdown/ga37_2009.html' | relative_url }}">Read minutes</a>
+      <a href="{{ '/index/outlines/ga37_2009.html' | relative_url }}">Outline</a>
+    </div>
+  </article>
+  <article class="minutes-volume-card" role="listitem">
+    <p class="minutes-volume-card__assembly">General Assembly 38</p>
+    <h3>2010</h3>
+    <p class="minutes-volume-card__pages">788 pages</p>
+    <div class="minutes-volume-card__links">
+      <a class="minutes-volume-card__primary" href="{{ '/markdown/ga38_2010.html' | relative_url }}">Read minutes</a>
+      <a href="{{ '/index/outlines/ga38_2010.html' | relative_url }}">Outline</a>
+    </div>
+  </article>
+  <article class="minutes-volume-card" role="listitem">
+    <p class="minutes-volume-card__assembly">General Assembly 39</p>
+    <h3>2011</h3>
+    <p class="minutes-volume-card__pages">685 pages</p>
+    <div class="minutes-volume-card__links">
+      <a class="minutes-volume-card__primary" href="{{ '/markdown/ga39_2011.html' | relative_url }}">Read minutes</a>
+      <a href="{{ '/index/outlines/ga39_2011.html' | relative_url }}">Outline</a>
+    </div>
+  </article>
+  <article class="minutes-volume-card" role="listitem">
+    <p class="minutes-volume-card__assembly">General Assembly 40</p>
+    <h3>2012</h3>
+    <p class="minutes-volume-card__pages">802 pages</p>
+    <div class="minutes-volume-card__links">
+      <a class="minutes-volume-card__primary" href="{{ '/markdown/ga40_2012.html' | relative_url }}">Read minutes</a>
+      <a href="{{ '/index/outlines/ga40_2012.html' | relative_url }}">Outline</a>
+    </div>
+  </article>
+  <article class="minutes-volume-card" role="listitem">
+    <p class="minutes-volume-card__assembly">General Assembly 41</p>
+    <h3>2013</h3>
+    <p class="minutes-volume-card__pages">903 pages</p>
+    <div class="minutes-volume-card__links">
+      <a class="minutes-volume-card__primary" href="{{ '/markdown/ga41_2013.html' | relative_url }}">Read minutes</a>
+      <a href="{{ '/index/outlines/ga41_2013.html' | relative_url }}">Outline</a>
+    </div>
+  </article>
+  <article class="minutes-volume-card" role="listitem">
+    <p class="minutes-volume-card__assembly">General Assembly 42</p>
+    <h3>2014</h3>
+    <p class="minutes-volume-card__pages">895 pages</p>
+    <div class="minutes-volume-card__links">
+      <a class="minutes-volume-card__primary" href="{{ '/markdown/ga42_2014.html' | relative_url }}">Read minutes</a>
+      <a href="{{ '/index/outlines/ga42_2014.html' | relative_url }}">Outline</a>
+    </div>
+  </article>
+  <article class="minutes-volume-card" role="listitem">
+    <p class="minutes-volume-card__assembly">General Assembly 43</p>
+    <h3>2015</h3>
+    <p class="minutes-volume-card__pages">654 pages</p>
+    <div class="minutes-volume-card__links">
+      <a class="minutes-volume-card__primary" href="{{ '/markdown/ga43_2015.html' | relative_url }}">Read minutes</a>
+      <a href="{{ '/index/outlines/ga43_2015.html' | relative_url }}">Outline</a>
+    </div>
+  </article>
+  <article class="minutes-volume-card" role="listitem">
+    <p class="minutes-volume-card__assembly">General Assembly 44</p>
+    <h3>2016</h3>
+    <p class="minutes-volume-card__pages">750 pages</p>
+    <div class="minutes-volume-card__links">
+      <a class="minutes-volume-card__primary" href="{{ '/markdown/ga44_2016.html' | relative_url }}">Read minutes</a>
+      <a href="{{ '/index/outlines/ga44_2016.html' | relative_url }}">Outline</a>
+    </div>
+  </article>
+  <article class="minutes-volume-card" role="listitem">
+    <p class="minutes-volume-card__assembly">General Assembly 45</p>
+    <h3>2017</h3>
+    <p class="minutes-volume-card__pages">723 pages</p>
+    <div class="minutes-volume-card__links">
+      <a class="minutes-volume-card__primary" href="{{ '/markdown/ga45_2017.html' | relative_url }}">Read minutes</a>
+      <a href="{{ '/index/outlines/ga45_2017.html' | relative_url }}">Outline</a>
+    </div>
+  </article>
+  <article class="minutes-volume-card" role="listitem">
+    <p class="minutes-volume-card__assembly">General Assembly 46</p>
+    <h3>2018</h3>
+    <p class="minutes-volume-card__pages">782 pages</p>
+    <div class="minutes-volume-card__links">
+      <a class="minutes-volume-card__primary" href="{{ '/markdown/ga46_2018.html' | relative_url }}">Read minutes</a>
+      <a href="{{ '/index/outlines/ga46_2018.html' | relative_url }}">Outline</a>
+    </div>
+  </article>
+  <article class="minutes-volume-card" role="listitem">
+    <p class="minutes-volume-card__assembly">General Assembly 47</p>
+    <h3>2019</h3>
+    <p class="minutes-volume-card__pages">771 pages</p>
+    <div class="minutes-volume-card__links">
+      <a class="minutes-volume-card__primary" href="{{ '/markdown/ga47_2019.html' | relative_url }}">Read minutes</a>
+      <a href="{{ '/index/outlines/ga47_2019.html' | relative_url }}">Outline</a>
+    </div>
+  </article>
+  <article class="minutes-volume-card" role="listitem">
+    <p class="minutes-volume-card__assembly">General Assembly 48</p>
+    <h3>2021</h3>
+    <p class="minutes-volume-card__pages">1154 pages</p>
+    <div class="minutes-volume-card__links">
+      <a class="minutes-volume-card__primary" href="{{ '/markdown/ga48_2021.html' | relative_url }}">Read minutes</a>
+      <a href="{{ '/index/outlines/ga48_2021.html' | relative_url }}">Outline</a>
+    </div>
+  </article>
+  <article class="minutes-volume-card" role="listitem">
+    <p class="minutes-volume-card__assembly">General Assembly 49</p>
+    <h3>2022</h3>
+    <p class="minutes-volume-card__pages">1431 pages</p>
+    <div class="minutes-volume-card__links">
+      <a class="minutes-volume-card__primary" href="{{ '/markdown/ga49_2022.html' | relative_url }}">Read minutes</a>
+      <a href="{{ '/index/outlines/ga49_2022.html' | relative_url }}">Outline</a>
+    </div>
+  </article>
+  <article class="minutes-volume-card" role="listitem">
+    <p class="minutes-volume-card__assembly">General Assembly 50</p>
+    <h3>2023</h3>
+    <p class="minutes-volume-card__pages">1089 pages</p>
+    <div class="minutes-volume-card__links">
+      <a class="minutes-volume-card__primary" href="{{ '/markdown/ga50_2023.html' | relative_url }}">Read minutes</a>
+      <a href="{{ '/index/outlines/ga50_2023.html' | relative_url }}">Outline</a>
+    </div>
+  </article>
+  <article class="minutes-volume-card" role="listitem">
+    <p class="minutes-volume-card__assembly">General Assembly 51</p>
+    <h3>2024</h3>
+    <p class="minutes-volume-card__pages">1283 pages</p>
+    <div class="minutes-volume-card__links">
+      <a class="minutes-volume-card__primary" href="{{ '/markdown/ga51_2024.html' | relative_url }}">Read minutes</a>
+      <a href="{{ '/index/outlines/ga51_2024.html' | relative_url }}">Outline</a>
+    </div>
+  </article>
+  <article class="minutes-volume-card" role="listitem">
+    <p class="minutes-volume-card__assembly">General Assembly 52</p>
+    <h3>2025</h3>
+    <p class="minutes-volume-card__pages">1369 pages</p>
+    <div class="minutes-volume-card__links">
+      <a class="minutes-volume-card__primary" href="{{ '/markdown/ga52_2025.html' | relative_url }}">Read minutes</a>
+      <a href="{{ '/index/outlines/ga52_2025.html' | relative_url }}">Outline</a>
+    </div>
+  </article>
+</div>
+
+## Full-text search
+
+A SQLite database named pca_minutes.db indexes every page of the minutes. See [../PORTABLE.md](../PORTABLE.md) for query recipes.

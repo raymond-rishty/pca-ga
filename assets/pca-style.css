@@ -1538,3 +1538,47 @@ textarea:focus-visible {
 @media (max-width: 700px) {
   .catalogue-record__actions { grid-column: 1 / -1; }
 }
+
+/* ── Minutes index volume cards ── */
+.minutes-volume-grid {
+  display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 1.1rem;
+  margin: 1rem 0 2.5rem; padding: 0; list-style: none;
+}
+.minutes-volume-card {
+  display: flex; flex-direction: column; min-width: 0; min-height: 154px; padding: 1rem;
+  border: 1px solid var(--parch-deep); border-radius: var(--radius); background: #FFFCF5;
+  box-shadow: 0 2px 8px rgba(27,38,64,.07);
+  transition: background var(--trans), border-color var(--trans), box-shadow var(--trans), transform var(--trans);
+}
+.minutes-volume-card:hover {
+  border-color: var(--gold); background: #FFFCF5; box-shadow: 0 8px 20px rgba(27,38,64,.06); transform: translateY(-1px);
+}
+.minutes-volume-card__assembly {
+  margin: 0; color: #80621F; font: 500 9px/1.4 var(--sans); letter-spacing: .11em; text-transform: uppercase;
+}
+.reading-col .minutes-volume-card h3 {
+  margin: .15rem 0 0; color: var(--ink); font: 500 1.45rem/1 var(--serif);
+}
+.minutes-volume-card__pages {
+  margin: .4rem 0 0; color: var(--ink-muted); font: 400 .76rem/1.4 var(--sans);
+}
+.minutes-volume-card__links { display: flex; flex-wrap: wrap; gap: .45rem; margin-top: auto; padding-top: 1rem; }
+.reading-col .minutes-volume-card__links a {
+  display: inline-flex; align-items: center; justify-content: center; min-height: 36px; padding: .4rem .62rem;
+  border: 1px solid var(--parch-deep); border-bottom: 1px solid var(--parch-deep); border-radius: 3px;
+  color: #755719; font: 500 .78rem/1.2 var(--sans); text-decoration: none; overflow-wrap: normal; word-break: normal;
+  transition: background var(--trans), border-color var(--trans), color var(--trans);
+}
+.reading-col .minutes-volume-card__links a:hover { border-color: var(--gold); background: var(--gold-pale); color: var(--ink); }
+.reading-col .minutes-volume-card__links .minutes-volume-card__primary {
+  border-color: var(--ink); background: var(--ink); color: var(--parch);
+}
+.reading-col .minutes-volume-card__links .minutes-volume-card__primary:hover { border-color: #233150; background: #233150; color: var(--parch); }
+.reading-col .minutes-volume-card__links a:focus-visible { outline: 2px solid var(--gold); outline-offset: 2px; }
+@media (max-width: 760px) {
+  .minutes-volume-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+}
+@media (max-width: 480px) {
+  .minutes-volume-grid { grid-template-columns: 1fr; gap: .9rem; }
+  .minutes-volume-card { min-height: 132px; }
+}
