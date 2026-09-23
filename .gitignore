@@ -4,14 +4,15 @@ index/pca_minutes.db
 build/
 minutes/
 .venv/
+outputs/
 
 # Regeneratable scratch / intermediates
 index/disp_candidates/
 index/ratif_candidates/
 index/reocr/
-index/synopsis_workflow/
 
 # Local synopsis evaluation tooling
+index/synopsis_workflow/
 .agents/skills/pca-ga-case-synopses/
 scripts/14_judicial_summary_audit.py
 scripts/67_audit_case_regressions.py
@@ -20,6 +21,7 @@ scripts/69_reextract_case_overrides.py
 scripts/78_audit_case_identities.py
 scripts/79_prioritize_synopsis_review.py
 scripts/80_publish_synopsis_reviews.py
+scripts/81_plan_deepseek_review.py
 scripts/run-openai-sol-batches.ps1
 scripts/run-openai-sol-reviews.ps1
 scripts/run-synopses-compact.ps1
@@ -51,6 +53,7 @@ tests/test_synopsis_sol_review_api.py
 tests/test_synopsis_runner.py
 
 # OCR bakeoff generated data / environments
+ocr-bakeoff/
 ocr-bakeoff/envs/
 ocr-bakeoff/corpus/
 ocr-bakeoff/model-cache/
@@ -79,5 +82,12 @@ _site/
 .sass-cache/
 .DS_Store
 
-# Claude Code worktrees / local agent state
+# Agent worktrees / local agent state
 .claude/
+skills-lock.json
+.agents/
+.codex*
+.gemini*
+.gemini/
+
+evals/
