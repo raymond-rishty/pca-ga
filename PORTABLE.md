@@ -12,7 +12,7 @@ optional full-text-query layer, generated from the same data.
 | Artifact | What it is | How you use it |
 |---|---|---|
 | `markdown/ga*_*.md` (52 files) | The cleaned, OCR-corrected, structurally-formatted minutes — one file per volume | Read in any editor / grep / feed to an LLM |
-| `index/INDEX.md` | Corpus front door: volume table + links to everything | Start here |
+| `index/INDEX.md` | Minutes index: volume table + links to the minutes and outlines | Read the Minutes |
 | `index/OVERTURES.md` | The overture catalogue (~2,000, with subject + final outcome), grouped by Assembly | Read / grep / ingest |
 | `index/JUDICIAL-CASES.md` | Canonical one-row-per-rostered-case SJC/CJB catalogue (IDs/aliases, proceeding type, disposition, summary, constitutional provisions, topic tags, sources) | Read / grep / ingest |
 | `index/outlines/ga*.md` | A structural table of contents per volume | Navigate a volume |

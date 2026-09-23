@@ -38,7 +38,7 @@ Coverage is explicit indexed references in cases, inquiries, CCB overture advice
 - [RPR by presbytery](https://raymond-rishty.github.io/pca-ga/index/RPR.html) — exceptions of substance and response threads, GA18–GA52. [RPR by provision](https://raymond-rishty.github.io/pca-ga/index/RPR-BY-PROVISION.html) finds provision-tagged exceptions. Follow each exception's later responses and any SJC escalation.
 - [Overtures and outcomes](https://raymond-rishty.github.io/pca-ga/index/OVERTURES.html) — proposals, answers, and amendment ratification leads. Follow “answered by reference” to the referenced action; verify adoption and any later ratification in the Minutes.
 - [Studies and position papers](https://raymond-rishty.github.io/pca-ga/index/STUDIES.html) — topic-grouped reports, pastoral letters, declarations, and resolutions. Check which recommendations were adopted, received, commended, or recommitted. Some entries have only external PDF sources.
-- [Corpus index and volume outlines](https://raymond-rishty.github.io/pca-ga/index/INDEX.html) — full Minutes and per-volume outlines for floor actions, committee reports, appendices, and records missed by catalogues. Select the actual volume from this list; no GA met in 2020.
+- [Minutes index and volume outlines](https://raymond-rishty.github.io/pca-ga/index/INDEX.html) — full Minutes and per-volume outlines for floor actions, committee reports, appendices, and records missed by catalogues. Select the actual volume from this list; no GA met in 2020.
 - [GA53 overture research](https://raymond-rishty.github.io/pca-ga/index/GA53-OVERTURES.html) — 2026 proposals with prior-action leads; not a substitute for GA53 Minutes or verified final outcomes.
 
 ## Expand only where it can affect the answer
