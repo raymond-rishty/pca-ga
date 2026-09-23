@@ -299,6 +299,13 @@ exclude:
   - .claude/
   - .github/
   - scripts/
+  # Local pipeline artifacts and editorial experiments are not site content.
+  - build/
+  - cases-rebuilt/
+  - evals/
+  - ocr-bakeoff/
+  - outputs/
+  - tmp/
   - "*.jsonl"
   - index/*.json
   - index/rpr/
@@ -307,6 +314,7 @@ exclude:
   - index/sjc_official/
   - index/digest/
   - index/structure/
+  - index/synopsis_workflow/
   - Gemfile
   - Gemfile.lock
   - vendor/
