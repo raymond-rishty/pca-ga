@@ -87,12 +87,15 @@ def run(root: Path, check: bool) -> int:
 
     changed: list[Path] = []
     for path in paths:
-        original = path.read_text(encoding="utf-8")
-        normalized, did_change = normalize_text(original, path.name)
+        with path.open("r", encoding="utf-8", newline="") as handle:
+            original = handle.read()
+        normalized, did_change = normalize_text(original.replace("\r\n", "\n").replace("\r", "\n"), path.name)
+        did_change = did_change or normalized != original
         if did_change:
             changed.append(path)
             if not check:
-                path.write_text(normalized, encoding="utf-8")
+                with path.open("w", encoding="utf-8", newline="\n") as handle:
+                    handle.write(normalized)
 
     if changed:
         verb = "need" if check else "received"

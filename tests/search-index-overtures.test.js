@@ -20,7 +20,8 @@ test('search-index build retains linked overtures', () => {
   fs.mkdirSync(path.join(temp, 'app'));
 
   try {
-    const result = spawnSync('python3', ['scripts/35_search_index.py', temp], {
+    const python = process.env.PYTHON || (process.platform === 'win32' ? 'python' : 'python3');
+    const result = spawnSync(python, ['scripts/35_search_index.py', temp], {
       cwd: root,
       encoding: 'utf8',
     });

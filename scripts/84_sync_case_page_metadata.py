@@ -161,7 +161,22 @@ def card_line(existing: str, metadata: dict[str, object]) -> str:
 
 def render_page(text: str, metadata: dict[str, object]) -> str:
     lines = text.splitlines()
-    heading_index = next((i for i, line in enumerate(lines[:40]) if line.startswith("# ")), None)
+    content_start = 0
+    if lines and lines[0].strip() == "---":
+        front_matter_end = next(
+            (i for i, line in enumerate(lines[1:], start=1) if line.strip() == "---"),
+            None,
+        )
+        if front_matter_end is not None:
+            content_start = front_matter_end + 1
+    heading_index = next(
+        (
+            i
+            for i, line in enumerate(lines[content_start : content_start + 40], start=content_start)
+            if line.startswith("# ")
+        ),
+        None,
+    )
     if heading_index is None:
         raise ValueError("case page has no leading H1")
     lines[heading_index] = f"# {'/'.join(metadata['dockets'])} — {metadata['title']}"

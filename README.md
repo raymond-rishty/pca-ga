@@ -87,6 +87,8 @@ The markdown above is the human-readable corpus. A companion **SQLite full-text 
 
 That DB indexes every page (FTS5) and holds the structured `overtures`, `cases`, and `structure` tables. See **[PORTABLE.md](PORTABLE.md)** for its schema and query recipes. Everything is reproducible from `scripts/` (the build pipeline).
 
+To build and validate the GitHub Pages site locally before pushing, see **[the local build instructions](docs/local-build.md)**.
+
 ## License / provenance
 
 Source: the PCA *Minutes of the General Assembly* (pcahistory.org). This repository adds OCR correction, structural formatting, and the catalogues; the underlying minutes are the PCA's.
