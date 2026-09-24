@@ -102,6 +102,15 @@ class ProvisionCatalogueTests(unittest.TestCase):
         self.assertNotIn("source_links", hits["BCO 40-1"][0]["snippet"])
         self.assertNotIn("BCO 99-9", body)
 
+    def test_inline_html_table_excerpt_is_plain_and_keeps_the_citation_in_view(self):
+        hits = case_index.text_hits(ROOT / "cases" / "ga37_2009__2007-13.md")
+        snippets = [hit["snippet"] for hit in hits["BCO Preliminary Principle 2"]]
+        excerpt = next(snippet for snippet in snippets if "App F Preliminary Principle 2" in snippet)
+        self.assertNotIn("<table>", excerpt)
+        self.assertNotIn("<td>", excerpt)
+        self.assertIn("App F Preliminary Principle 2", excerpt)
+        self.assertLessEqual(len(excerpt), 262)
+
     def test_api_and_legacy_authority_alias_are_identical_catalogue_projections(self):
         relation = {
             "id": "bco:40-1--overture:ga51_2024:10",
