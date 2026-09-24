@@ -14,5 +14,11 @@
 |------|------|-------|-------------|
 | 1995 | Constitutional inquiry | [Ordination of candidate with exceptions to six-day creation and male-only office](../inquiries/ga23_1995__ci03.md) | response approved as satisfactory |
 
+## Low-but-important
+
+| Year | Type | Title | Disposition |
+|------|------|-------|-------------|
+| 2021 | RPR exception | [Philadelphia: Candidate [name omitted]’s exceptions noted, but not recorded in his own words.](../rpr/exc/philadelphia__046.html) | satisfactory |
+
 ---
 *[← Authority Index](../index/AUTHORITY-BY-PROVISION.md)*

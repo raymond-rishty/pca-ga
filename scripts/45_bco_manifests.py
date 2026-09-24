@@ -11,10 +11,10 @@ from pathlib import Path
 from typing import Any
 from urllib.parse import urlsplit, urlunsplit
 
-from provision_catalogue import load_catalogue
+from provision_catalogue import load_catalogue, reference_presentation
 
 
-SCHEMA_VERSION = 2
+SCHEMA_VERSION = 3
 SITE = "https://raymond-rishty.github.io/pca-ga"
 READER = "https://raymond-rishty.github.io/pca-constitution-reader/"
 
@@ -85,6 +85,7 @@ def _api_relationship(relation: dict[str, Any]) -> dict[str, Any]:
         "relevance_status": relation["relevance_status"],
         "occurrences": [],
     }
+    result["reference_presentation"] = reference_presentation(relation)
     for occurrence in relation.get("occurrences") or []:
         path = occurrence.get("url") or record_url
         item = {
@@ -124,6 +125,8 @@ def provision_payload(unit: dict[str, Any], catalogue: dict[str, Any]) -> dict[s
         },
         "source": copy.deepcopy(catalogue["source"]),
         "input_fingerprint": catalogue["input_fingerprint"],
+        "assessment_fingerprint": catalogue.get("assessment_fingerprint", ""),
+        "assessment_summary": copy.deepcopy(catalogue.get("assessment_summary") or {}),
         "parent_id": unit.get("parent_id"),
         "children": list(unit.get("children") or []),
         "coverage": copy.deepcopy(unit["coverage"]),

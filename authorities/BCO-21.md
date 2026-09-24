@@ -13,6 +13,7 @@
 | Year | Type | Title | Disposition |
 |------|------|-------|-------------|
 | 2021 | Overture | [Amend BCO 21 and 24 to Clarify Moral Requirements for Church Office](../markdown/ga48_2021.md#ga48-p1072) | Answered by reference |
+| 1998 | RPR exception | [Northeast: Presbytery adopted a clarification of BCO 21- 4 which removes the significance of the extr](../rpr/exc/northeast__024.html) | satisfactory |
 | 2003 | RPR exception | [Warrior: Incomplete record of exam elements. BCO 21 4.a.2](../rpr/exc/warrior__020.html) | unsatisfactory |
 | 2007 | RPR exception | [James River: : Commission report failed to record that a charge was given to the ordinand, that questio](../rpr/exc/james-river__027.html) | satisfactory |
 | 2007 | RPR exception | [Korean Northwest: : No record of commission appointed to ordain [name omitted]. BCO 21. f. That as no furthe](../rpr/exc/korean-northwest__021.html) | unsatisfactory |

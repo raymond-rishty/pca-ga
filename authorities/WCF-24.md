@@ -13,5 +13,11 @@
 | 2021 | Judicial case | [Presbyterian Church in America v. Presbytery of the Mississippi Valley](../cases/ga48_2021__2019-06.md) | sustained |
 | 2025 | Judicial case | [Moehn v. Westminster Presbytery](../cases/ga52_2025__2024-01.md) | sustained |
 
+## Low-but-important
+
+| Year | Type | Title | Disposition |
+|------|------|-------|-------------|
+| 2004 | RPR exception | [Iowa: Presbytery determined TE’s view on marrying “papists” was not an exception to WCF 24-3.](../rpr/exc/iowa__001.html) | satisfactory |
+
 ---
 *[← Authority Index](../index/AUTHORITY-BY-PROVISION.md)*

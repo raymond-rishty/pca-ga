@@ -13,6 +13,7 @@
 | Year | Type | Title | Disposition |
 |------|------|-------|-------------|
 | 2002 | RPR exception | [Metropolitan New York: Man approved for ordination who takes the following exceptions (among several others) to c](../rpr/exc/metropolitan-new-york__005.html) | raised |
+| 2005 | RPR exception | [Eastern Canada: Presbytery approved an exception to WLCQ 156 in which a candidate stated he does “not see](../rpr/exc/eastern-canada__010.html) | satisfactory |
 
 ---
 *[← Authority Index](../index/AUTHORITY-BY-PROVISION.md)*

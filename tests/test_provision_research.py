@@ -25,11 +25,11 @@ class ProvisionResearchTests(unittest.TestCase):
         self.assertEqual(research.provision_path("wlc", "Q.62"), "/pca-ga/provisions/wlc/q-62/")
         self.assertEqual(research.provision_path("bco", "40-1"), "/pca-ga/provisions/bco/40-1/")
 
-    def test_empty_groups_are_explicit_in_a_canonical_page(self):
+    def test_empty_reference_state_is_explicit_in_a_canonical_page(self):
         unit = research._unit("wcf", "27.1", "Section 27.1", "<p>Current text.</p>")
         with tempfile.TemporaryDirectory() as folder:
             rendered = research.render_unit(unit, Path(folder), "/pca-ga", "")
-        self.assertIn("No indexed records of this type are currently linked to this provision.", rendered)
+        self.assertIn("No indexed records are currently linked to this provision.", rendered)
         self.assertIn('rel="canonical" href="https://raymond-rishty.github.io/pca-ga/provisions/wcf/27.1/"', rendered)
 
     def test_source_links_keep_available_occurrence_anchors(self):
@@ -72,13 +72,12 @@ class ProvisionResearchTests(unittest.TestCase):
         self.assertEqual(count, 1)
         self.assertIn('../provisions/bco/40-1/', result)
 
-    def test_empty_relation_groups_are_explicit_in_the_shared_page_view(self):
+    def test_empty_reference_state_is_explicit_in_the_shared_page_view(self):
         unit = research._unit("bco", "40-1", "Section 40-1", "<p>Current text.</p>")
         with tempfile.TemporaryDirectory() as folder:
             rendered = research.render_unit(unit, Path(folder), "/pca-ga", "")
-        for _, label in research.GROUP_ORDER:
-            self.assertIn(label, rendered)
-        self.assertIn("(0)", rendered)
+        self.assertIn("No indexed records are currently linked to this provision.", rendered)
+        self.assertIn("How to read these links", rendered)
 
     def test_renumbering_status_is_preserved_as_qualified_history(self):
         with tempfile.TemporaryDirectory() as folder:

@@ -15,5 +15,12 @@
 | 2024 | Judicial case | [Psiaki v. Pacific Northwest Presbytery](../cases/ga51_2024__2023-11.md) | sustained |
 | 2024 | Judicial case | [Senters v. Savannah River Presbytery](../cases/ga51_2024__2022-21.md) | not_sustained |
 
+## Low-but-important
+
+| Year | Type | Title | Disposition |
+|------|------|-------|-------------|
+| 2021 | RPR exception | [Blue Ridge: No record of Mr. [name omitted]’s exception to the WCF in his own words.](../rpr/exc/blue-ridge__035.html) | satisfactory |
+| 2021 | RPR exception | [Blue Ridge: No record of Mr. [name omitted]’s exception to the WCF in his own words.](../rpr/exc/blue-ridge__036.html) | satisfactory |
+
 ---
 *[← Authority Index](../index/AUTHORITY-BY-PROVISION.md)*

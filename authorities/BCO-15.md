@@ -13,6 +13,8 @@
 
 | Year | Type | Title | Disposition |
 |------|------|-------|-------------|
+| 1992 | RPR exception | [Calvary: "P. 6 1,2, 3 ,4 Commission reports received but not adopted BCO 15- 1."](../rpr/exc/calvary__024.html) | raised |
+| 1995 | RPR exception | [Great Lakes: p.9, 13.b: No quorum established for commission. (BCO 15- 2). Respoase: GLP acknowledges t](../rpr/exc/great-lakes__007.html) | satisfactory |
 | 2003 | RPR exception | [South Coast: January 26, 2002: Presbytery approved a report of a commission dealing with a complaint th](../rpr/exc/south-coast__006.html) | satisfactory |
 | 2007 | RPR exception | [Philadelphia Metro West: No quorum or convener set for commission. BCO 15.](../rpr/exc/philadelphia-metro-west__002.html) | satisfactory |
 | 2016 | RPR exception | [Korean Southwest: TEs and REs of commission not specified.](../rpr/exc/korean-southwest__107.html) | satisfactory |

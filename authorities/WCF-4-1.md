@@ -19,6 +19,7 @@
 | Year | Type | Title | Disposition |
 |------|------|-------|-------------|
 | 1994 | RPR exception | [New River: The minutes do not give adequate information regarding the examination of a TE and the exc](../rpr/exc/new-river__006.html) | raised |
+| 2021 | RPR exception | [Wisconsin: The recorded differences are too vague to be in candidates' own words and sufficient for a](../rpr/exc/wisconsin__014.html) | satisfactory |
 
 ---
 *[← Authority Index](../index/AUTHORITY-BY-PROVISION.md)*

@@ -40,7 +40,6 @@ GROUP_ORDER = (
     ("Study or recommendation", "Studies and recommendations"),
 )
 
-
 def load_linker_module():
     scripts_dir = Path(__file__).resolve().parent
     if str(scripts_dir) not in sys.path:
@@ -369,17 +368,24 @@ def _record_html(row: dict[str, Any], root: Path, baseurl: str) -> str:
         source_links.append(f'<a href="{html.escape(str(row["official_pdf_url"]), quote=True)}">Official decision PDF</a>')
     sources_html = f'<p class="provision-record__source">{" · ".join(source_links)}</p>' if source_links else ""
     basis_label = {
-        "direct_text": "Direct text citation",
+        "direct_text": "Cited in source text",
         "structured_case_metadata": "Structured case metadata",
         "structured_provision_tag": "Structured provision tag",
         "title_subject_reference": "Reference in title or subject",
         "indexed_reference": "Indexed reference",
     }.get(str(row.get("evidence_basis") or ""), "Indexed reference")
-    label = html.escape(f"{basis_label} · relevance unreviewed")
+    from provision_catalogue import PRESENTATION_GROUPS, reference_presentation
+    presentation = reference_presentation(row)
+    presentation_label = presentation.get("label")
+    if presentation_label == PRESENTATION_GROUPS.get(str(presentation.get("group") or "")):
+        presentation_label = None
+    label = html.escape(str(presentation_label)) if presentation_label else ""
     relation_id = html.escape(str(row.get("id") or row.get("relationship_id") or ""), quote=True)
     record_id = html.escape(str(row.get("record_id") or ""), quote=True)
+    relation_html = (f'<p class="provision-record__relation">{label}</p>' if label else "")
+    evidence_html = f'<p class="provision-record__evidence">Reference source · {html.escape(basis_label)}</p>'
     return (f'<li class="provision-record" data-relationship-id="{relation_id}" data-record-id="{record_id}">'
-            f'<p class="provision-record__relation">{label}</p>'
+            f'{relation_html}{evidence_html}'
             f'<h3>{link}</h3>{facts_html}{excerpt}{sources_html}</li>')
 
 
@@ -476,24 +482,76 @@ def _site_shell_close(baseurl: str) -> str:
 </html>'''
 
 
+def _relevance_bucket(row: dict[str, Any]) -> str:
+    from provision_catalogue import reference_presentation
+    return str(reference_presentation(row)["group"])
+
+
+def _record_list(records: list[dict[str, Any]], root: Path, baseurl: str) -> str:
+    return f'<ul class="provision-record-list">{"".join(_record_html(row, root, baseurl) for row in records)}</ul>'
+
+
+def _render_record_groups(records: list[dict[str, Any]], root: Path, baseurl: str) -> str:
+    buckets = {name: [] for name in (
+        "discusses", "cites", "other_case_discussion", "other_mentions", "review"
+    )}
+    for row in records:
+        buckets[_relevance_bucket(row)].append(row)
+    groups = []
+    for name in ("discusses", "cites"):
+        items = buckets[name]
+        if items:
+            heading = "Discusses this provision" if name == "discusses" else "Cites this provision"
+            groups.append(f'<section class="provision-group"><h3>{heading} <span>({len(items)})</span></h3>{_record_list(items, root, baseurl)}</section>')
+    nonmajority = buckets["other_case_discussion"]
+    if nonmajority:
+        groups.append(
+            '<details class="provision-record-details"><summary>Other discussion in the case '
+            f'({len(nonmajority)})</summary><p class="provision-note">This may reflect a separate opinion, '
+            'party argument, or background discussion.</p>'
+            f'{_record_list(nonmajority, root, baseurl)}</details>'
+        )
+    mentions = buckets["other_mentions"]
+    if mentions:
+        groups.append(
+            '<details class="provision-record-details"><summary>Other mentions '
+            f'({len(mentions)})</summary><p class="provision-note">These records include a brief reference. '
+            'Open the linked passage to see its context.</p>'
+            f'{_record_list(mentions, root, baseurl)}</details>'
+        )
+    review = buckets["review"]
+    if review:
+        groups.append(
+            '<details class="provision-record-details"><summary>References to review '
+            f'({len(review)})</summary><p class="provision-note">These references have limited or unclear '
+            'support, or have not yet been reviewed. Check the linked passage.</p>'
+            f'{_record_list(review, root, baseurl)}</details>'
+        )
+    return "".join(groups)
+
+
+def _render_type_sections(records: list[dict[str, Any]], root: Path, baseurl: str) -> str:
+    sections = []
+    for kind, label in GROUP_ORDER:
+        items = [row for row in records if row.get("type") == kind]
+        if not items:
+            continue
+        sections.append(
+            f'<section class="provision-type-section"><h2>{label} <span>({len(items)})</span></h2>'
+            f'{_render_record_groups(items, root, baseurl)}</section>'
+        )
+    return "".join(sections) or '<p class="provision-empty">No indexed records are currently linked to this provision.</p>'
+
+
 def render_unit(unit: dict[str, Any], root: Path, baseurl: str, source_revision: str) -> str:
     citation = f"{unit['abbr']} {unit['ref']}"
     title = f"{citation} · {unit['title']}"
     relations = unit.get("relationships") or []
     related_count = len(relations)
-    groups = []
-    for kind, label in GROUP_ORDER:
-        records = [row for row in relations if row.get("type") == kind]
-        if records:
-            body = f'<ul class="provision-record-list">{"".join(_record_html(row, root, baseurl) for row in records)}</ul>'
-            empty_note = ""
-        elif kind == "Study or recommendation":
-            body = '<p class="provision-empty">No complete provision-level index is available for study or recommendation papers, so this page does not infer links to them.</p>'
-            empty_note = ""
-        else:
-            body = '<p class="provision-empty">No indexed records of this type are currently linked to this provision.</p>'
-            empty_note = ""
-        groups.append(f'<section class="provision-group"><h2>{label} <span>({len(records)})</span></h2>{body}{empty_note}</section>')
+    discussion_count = sum(
+        _relevance_bucket(row) in {"discusses", "cites", "other_case_discussion"}
+        for row in relations
+    )
     if unit["book"] == "bco":
         anchor = unit["reader_ref"] if unit["reader_ref"].startswith("bco/") else f"bco/{unit['reader_ref']}"
         reader_href = f"{READER_BASE}#{anchor}"
@@ -510,11 +568,12 @@ def render_unit(unit: dict[str, Any], root: Path, baseurl: str, source_revision:
         history = _history_html(unit, root, baseurl)
     supplementary = (f'<p class="provision-status provision-status--supplementary">{html.escape(unit["book_label"])} · Current through the 52nd General Assembly (2025)</p>'
                      if unit["supplementary"] else f'<p class="provision-status">{html.escape(unit["book_label"])}</p>')
-    context_line = (f"{related_count} indexed relationship{'s' if related_count != 1 else ''}. Relationship evidence is labeled; relevance has not been editorially reviewed.")
+    context_line = (f"{related_count} linked record{'s' if related_count != 1 else ''} · "
+                    f"{discussion_count} in discussion or citation groups.")
+    coverage = "These links are based on references in the recorded sources. Some connections may be incomplete or incidental; check the linked passage."
     if unit["book"] == "rao":
-        coverage = "RAO is supplementary PCA material and is not part of the PCA Constitution. Recommendations and study papers do not yet have a complete provision-level index."
-    else:
-        coverage = "This view joins current text to curated records that name the provision. Evidence types describe how each relationship was found; relevance remains unreviewed and does not establish substantive interpretation. Recommendations and study papers do not yet have a complete provision-level index."
+        coverage += " RAO is supplementary PCA material and is not part of the PCA Constitution."
+    coverage += " Recommendations and study papers do not yet have a complete provision-level index."
     page_title = html.escape(title)
     canonical = provision_path(unit["book"], unit["ref"], baseurl)
     source = "PCA Constitution Reader"
@@ -530,12 +589,11 @@ def render_unit(unit: dict[str, Any], root: Path, baseurl: str, source_revision:
     <header class="provision-heading">{supplementary}<h1>{page_title}</h1><p>{html.escape(context_line)}</p><a class="provision-reader-link" href="{html.escape(reader_href, quote=True)}" target="_blank" rel="noopener">Open current text in Constitution Reader</a></header>
     <section class="provision-current"><h2>Current text</h2><div class="provision-text">{unit['body']}</div><p class="provision-source">Source: <a href="{html.escape(reader_href, quote=True)}">{html.escape(source)}</a></p></section>
     {child_links}
-    <section class="provision-coverage" aria-label="Coverage note"><h2>How to read these links</h2><p>{html.escape(coverage)}</p><p>When available, a source link opens the catalogue record or its referenced Assembly page. Case-text citations are identified only where the citation has an indexed text excerpt.</p></section>
-    <section aria-labelledby="related-title"><h2 id="related-title">Related records</h2>{''.join(groups)}</section>
+    <section class="provision-coverage" aria-label="Coverage note"><h2>How to read these links</h2><p>{html.escape(coverage)}</p><p>Each group is a guide to the linked source, not an editorial finding. References remain available here even when their context is uncertain. When available, a source link opens the catalogue record or its referenced Assembly page.</p></section>
+    <section aria-labelledby="related-title" class="provision-related"><h2 id="related-title">Related records</h2>{_render_type_sections(relations, root, baseurl)}</section>
     {f'<section class="provision-history"><h2>Amendment and renumbering history</h2>{history}</section>' if history else ''}
   <footer class="provision-footer"><a href="{baseurl}/provisions/">Browse all supported provisions</a><a href="{baseurl}/api/provisions/{unit['book']}/{unit['route_ref']}.json">Machine-readable JSON</a><span>Generated from {html.escape(source)}</span></footer>
 {_site_shell_close(baseurl)}'''
-
 
 def render_index(units: list[dict[str, Any]], baseurl: str) -> str:
     book_links = []
