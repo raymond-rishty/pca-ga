@@ -39,6 +39,8 @@
     Overture: 'overtures',
     'Position paper': 'studies and position papers',
     'General Assembly minutes': 'General Assembly minutes',
+    'Constitutional provision': 'constitutional provisions',
+    'Supplementary rule': 'supplementary rules',
   };
 
   function asArray(value) {
@@ -202,6 +204,7 @@
       const matchedTerms = [];
       const matchedPhrases = [];
       let score = parsed.identifier ? 10000 : 0;
+      if (exactIdentifier && record.type === 'Constitutional provision') score += 5000;
 
       for (const phrase of parsed.phrases) {
         const phraseFields = FIELD_ORDER.filter((field) => phraseMatches(fields[field], phrase));

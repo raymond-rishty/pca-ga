@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga19_1991"
+    label: "Minutes PDF · p. 188"
+    file: "19th_pcaga_1991.pdf"
+    volume: "ga19_1991"
+    pdf_page: 188
+    url: "https://www.pcahistory.org/pca/ga/19th_pcaga_1991.pdf#page=188"
+---
 # Philadelphia Presbytery — exception of substance
 
 *par. 20 Various parts of exam not listed. No record of acceptance of call; no…*

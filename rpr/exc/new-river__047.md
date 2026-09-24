@@ -1,3 +1,20 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga45_2017"
+    label: "Minutes PDF · p. 403"
+    file: "45th_pcaga_2017.pdf"
+    volume: "ga45_2017"
+    pdf_page: 403
+    url: "https://www.pcahistory.org/pca/ga/45th_pcaga_2017.pdf#page=403"
+  - type: "minutes"
+    source_id: "minutes:ga46_2018"
+    label: "Minutes PDF · p. 436"
+    file: "46th_pcaga_2018.pdf"
+    volume: "ga46_2018"
+    pdf_page: 436
+    url: "https://www.pcahistory.org/pca/ga/46th_pcaga_2018.pdf#page=436"
+---
 # New River Presbytery — BCO 21-4.c.1.b
 
 *No record of examination as to his knowledge of Greek and Hebrew…*

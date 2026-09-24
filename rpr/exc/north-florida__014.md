@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga28_2000"
+    label: "Minutes PDF · p. 337"
+    file: "28th_pcaga_2000.pdf"
+    volume: "ga28_2000"
+    pdf_page: 337
+    url: "https://www.pcahistory.org/pca/ga/28th_pcaga_2000.pdf#page=337"
+---
 # North Florida Presbytery — BCO 21-4
 
 *Licentiate being examined for ordination was not examined in sacraments nor…*

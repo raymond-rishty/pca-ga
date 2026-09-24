@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga46_2018"
+    label: "Minutes PDF · p. 412"
+    file: "46th_pcaga_2018.pdf"
+    volume: "ga46_2018"
+    pdf_page: 412
+    url: "https://www.pcahistory.org/pca/ga/46th_pcaga_2018.pdf#page=412"
+---
 # Korean Central Presbytery — BCO 24-1
 
 *Presbytery appoints RE without record of congregation approval. Response : KCP…*

@@ -1,3 +1,20 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga28_2000"
+    label: "Minutes PDF · p. 327"
+    file: "28th_pcaga_2000.pdf"
+    volume: "ga28_2000"
+    pdf_page: 327
+    url: "https://www.pcahistory.org/pca/ga/28th_pcaga_2000.pdf#page=327"
+  - type: "minutes"
+    source_id: "minutes:ga29_2001"
+    label: "Minutes PDF · p. 332"
+    file: "29th_pcaga_2001.pdf"
+    volume: "ga29_2001"
+    pdf_page: 332
+    url: "https://www.pcahistory.org/pca/ga/29th_pcaga_2001.pdf#page=332"
+---
 # Heritage Presbytery — BCO 10-4
 
 *Complaint against Presbytery referenced in minutes and is not in Appendix HP…*

@@ -1,3 +1,34 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga37_2009"
+    label: "Minutes PDF · p. 120"
+    file: "37th_pcaga_2009.pdf"
+    volume: "ga37_2009"
+    pdf_page: 120
+    url: "https://www.pcahistory.org/pca/ga/37th_pcaga_2009.pdf#page=120"
+  - type: "minutes"
+    source_id: "minutes:ga38_2010"
+    label: "Minutes PDF · p. 114"
+    file: "38th_pcaga_2010.pdf"
+    volume: "ga38_2010"
+    pdf_page: 114
+    url: "https://www.pcahistory.org/pca/ga/38th_pcaga_2010.pdf#page=114"
+  - type: "minutes"
+    source_id: "minutes:ga38_2010"
+    label: "Minutes PDF · p. 115"
+    file: "38th_pcaga_2010.pdf"
+    volume: "ga38_2010"
+    pdf_page: 115
+    url: "https://www.pcahistory.org/pca/ga/38th_pcaga_2010.pdf#page=115"
+  - type: "minutes"
+    source_id: "minutes:ga39_2011"
+    label: "Minutes PDF · p. 484"
+    file: "39th_pcaga_2011.pdf"
+    volume: "ga39_2011"
+    pdf_page: 484
+    url: "https://www.pcahistory.org/pca/ga/39th_pcaga_2011.pdf#page=484"
+---
 # South Coast Presbytery — BCO 21-4, RAO 16-3.e.5
 
 *Stated differences with Standards not recorded in proper…*

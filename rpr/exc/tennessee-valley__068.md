@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga50_2023"
+    label: "Minutes PDF · p. 711"
+    file: "50th_pcaga_2023.pdf"
+    volume: "ga50_2023"
+    pdf_page: 711
+    url: "https://www.pcahistory.org/pca/ga/50th_pcaga_2023.pdf#page=711"
+---
 # Tennessee Valley Presbytery — BCO 15-1
 
 *Commissions are formed to install previously ordained TEs but no commission…*

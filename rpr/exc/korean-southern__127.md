@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga48_2021"
+    label: "Minutes PDF · p. 591"
+    file: "48th_pcaga_2021.pdf"
+    volume: "ga48_2021"
+    pdf_page: 591
+    url: "https://www.pcahistory.org/pca/ga/48th_pcaga_2021.pdf#page=591"
+---
 # Korean Southern Presbytery — BCO 13-6
 
 *No record of transfer…*

@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga52_2025"
+    label: "Minutes PDF · p. 687"
+    file: "52nd_pcaga_2025.pdf"
+    volume: "ga52_2025"
+    pdf_page: 687
+    url: "https://www.pcahistory.org/pca/ga/52nd_pcaga_2025.pdf#page=687"
+---
 # Pittsburgh Presbytery — BCO 13-2
 
 *No annual report of TE Without…*

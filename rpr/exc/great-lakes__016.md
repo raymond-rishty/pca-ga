@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga23_1995"
+    label: "Minutes PDF · p. 189"
+    file: "23rd_pcaga_1995.pdf"
+    volume: "ga23_1995"
+    pdf_page: 189
+    url: "https://www.pcahistory.org/pca/ga/23rd_pcaga_1995.pdf#page=189"
+---
 # Great Lakes Presbytery — BCO 20-9
 
 *p 11, 15.i: No record of credentials being received for a man transferring…*

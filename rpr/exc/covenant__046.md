@@ -1,3 +1,20 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga51_2024"
+    label: "Minutes PDF · p. 498"
+    file: "51st_pcaga_2024.pdf"
+    volume: "ga51_2024"
+    pdf_page: 498
+    url: "https://www.pcahistory.org/pca/ga/51st_pcaga_2024.pdf#page=498"
+  - type: "minutes"
+    source_id: "minutes:ga52_2025"
+    label: "Minutes PDF · p. 541"
+    file: "52nd_pcaga_2025.pdf"
+    volume: "ga52_2025"
+    pdf_page: 541
+    url: "https://www.pcahistory.org/pca/ga/52nd_pcaga_2025.pdf#page=541"
+---
 # Covenant Presbytery — BCO 43-8
 
 *A complaint may not be dismissed, and the Presbytery “shall hear the…*

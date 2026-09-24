@@ -1,3 +1,20 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga47_2019"
+    label: "Minutes PDF · p. 497"
+    file: "47th_pcaga_2019.pdf"
+    volume: "ga47_2019"
+    pdf_page: 497
+    url: "https://www.pcahistory.org/pca/ga/47th_pcaga_2019.pdf#page=497"
+  - type: "minutes"
+    source_id: "minutes:ga48_2021"
+    label: "Minutes PDF · p. 612"
+    file: "48th_pcaga_2021.pdf"
+    volume: "ga48_2021"
+    pdf_page: 612
+    url: "https://www.pcahistory.org/pca/ga/48th_pcaga_2021.pdf#page=612"
+---
 # Ohio Valley Presbytery — BCO 11-2, WCF 20.2
 
 *Presbytery appears to have bound a man’s conscience by forbidding him to teach…*

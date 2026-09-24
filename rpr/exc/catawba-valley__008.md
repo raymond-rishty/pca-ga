@@ -1,3 +1,20 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga43_2015"
+    label: "Minutes PDF · p. 420"
+    file: "43rd_pcaga_2015.pdf"
+    volume: "ga43_2015"
+    pdf_page: 420
+    url: "https://www.pcahistory.org/pca/ga/43rd_pcaga_2015.pdf#page=420"
+  - type: "minutes"
+    source_id: "minutes:ga44_2016"
+    label: "Minutes PDF · p. 392"
+    file: "44th_pcaga_2016.pdf"
+    volume: "ga44_2016"
+    pdf_page: 392
+    url: "https://www.pcahistory.org/pca/ga/44th_pcaga_2016.pdf#page=392"
+---
 # Catawba Valley Presbytery — BCO 13-7
 
 *No record of ministerial obligation being…*

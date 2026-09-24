@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga52_2025"
+    label: "Minutes PDF · p. 736"
+    file: "52nd_pcaga_2025.pdf"
+    volume: "ga52_2025"
+    pdf_page: 736
+    url: "https://www.pcahistory.org/pca/ga/52nd_pcaga_2025.pdf#page=736"
+---
 # South Texas Presbytery — BCO 15-2, RAO 14-2
 
 *Presbytery gave commission-like power to a single individual to appoint…*

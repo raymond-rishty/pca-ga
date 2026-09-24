@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga27_1999"
+    label: "Minutes PDF · p. 210"
+    file: "27th_pcaga_1999.pdf"
+    volume: "ga27_1999"
+    pdf_page: 210
+    url: "https://www.pcahistory.org/pca/ga/27th_pcaga_1999.pdf#page=210"
+---
 # Westminster Presbytery — exception of substance
 
 *July 18, 1998; No indication that candidate meets requirements of BOC 18-8,…*

@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga26_1998"
+    label: "Minutes PDF · p. 241"
+    file: "26th_pcaga_1998.pdf"
+    volume: "ga26_1998"
+    pdf_page: 241
+    url: "https://www.pcahistory.org/pca/ga/26th_pcaga_1998.pdf#page=241"
+---
 # Janies River Presbytery — BCO 19
 
 *there is no record of examination by the Presbytery, and no listing of the…*

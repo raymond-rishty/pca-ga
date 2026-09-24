@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga48_2021"
+    label: "Minutes PDF · p. 572"
+    file: "48th_pcaga_2021.pdf"
+    volume: "ga48_2021"
+    pdf_page: 572
+    url: "https://www.pcahistory.org/pca/ga/48th_pcaga_2021.pdf#page=572"
+---
 # Gulf Coast Presbytery — BCO 13-12, RAO 16-3
 
 *Call for called meeting not in order – 10-day notice; purpose for call not…*

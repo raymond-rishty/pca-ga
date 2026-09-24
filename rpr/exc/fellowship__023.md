@@ -1,3 +1,20 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga48_2021"
+    label: "Minutes PDF · p. 570"
+    file: "48th_pcaga_2021.pdf"
+    volume: "ga48_2021"
+    pdf_page: 570
+    url: "https://www.pcahistory.org/pca/ga/48th_pcaga_2021.pdf#page=570"
+  - type: "minutes"
+    source_id: "minutes:ga49_2022"
+    label: "Minutes PDF · p. 523"
+    file: "49th_pcaga_2022.pdf"
+    volume: "ga49_2022"
+    pdf_page: 523
+    url: "https://www.pcahistory.org/pca/ga/49th_pcaga_2022.pdf#page=523"
+---
 # Fellowship Presbytery — BCO 38-2
 
 *Minister divested with no record of facts or reason for divesture at previous…*

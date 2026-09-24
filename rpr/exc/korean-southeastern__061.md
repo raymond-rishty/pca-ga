@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga41_2013"
+    label: "Minutes PDF · p. 443"
+    file: "41st_pcaga_2013.pdf"
+    volume: "ga41_2013"
+    pdf_page: 443
+    url: "https://www.pcahistory.org/pca/ga/41st_pcaga_2013.pdf#page=443"
+---
 # Korean Southeastern Presbytery — BCO 25-11
 
 *The imposition of penalty for non-paying…*

@@ -1,3 +1,20 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga24_1996"
+    label: "Minutes PDF · p. 316"
+    file: "24th_pcaga_1996.pdf"
+    volume: "ga24_1996"
+    pdf_page: 316
+    url: "https://www.pcahistory.org/pca/ga/24th_pcaga_1996.pdf#page=316"
+  - type: "minutes"
+    source_id: "minutes:ga24_1996"
+    label: "Minutes PDF · p. 321"
+    file: "24th_pcaga_1996.pdf"
+    volume: "ga24_1996"
+    pdf_page: 321
+    url: "https://www.pcahistory.org/pca/ga/24th_pcaga_1996.pdf#page=321"
+---
 # Opposition to the Legalization of Homosexual Marriage (Personal Resolution 7)
 
 *Opposition to the Legalization of Homosexual Marriage (Personal Resolution 7)*

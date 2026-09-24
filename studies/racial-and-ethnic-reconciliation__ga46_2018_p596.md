@@ -1,3 +1,27 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga46_2018"
+    label: "Minutes PDF · p. 598"
+    file: "46th_pcaga_2018.pdf"
+    volume: "ga46_2018"
+    pdf_page: 598
+    url: "https://www.pcahistory.org/pca/ga/46th_pcaga_2018.pdf#page=598"
+  - type: "minutes"
+    source_id: "minutes:ga46_2018"
+    label: "Minutes PDF · p. 631"
+    file: "46th_pcaga_2018.pdf"
+    volume: "ga46_2018"
+    pdf_page: 631
+    url: "https://www.pcahistory.org/pca/ga/46th_pcaga_2018.pdf#page=631"
+  - type: "minutes"
+    source_id: "minutes:ga46_2018"
+    label: "Minutes PDF · p. 671"
+    file: "46th_pcaga_2018.pdf"
+    volume: "ga46_2018"
+    pdf_page: 671
+    url: "https://www.pcahistory.org/pca/ga/46th_pcaga_2018.pdf#page=671"
+---
 # RACIAL AND ETHNIC RECONCILIATION
 
 *APPENDIX V REPORT OF THE AD INTERIM COMMITTEE ON RACIAL AND ETHNIC RECONCILIATION TO THE FORTY-SIXTH GENERAL ASSEMBLY OF THE PRESBYTERIAN CHURCH IN AMERICA*

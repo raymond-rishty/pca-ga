@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga20_1992"
+    label: "Minutes PDF · p. 241"
+    file: "20th_pcaga_1992.pdf"
+    volume: "ga20_1992"
+    pdf_page: 241
+    url: "https://www.pcahistory.org/pca/ga/20th_pcaga_1992.pdf#page=241"
+---
 # Central Georgia Presbytery — BCO § 21-4
 
 *The sermon for ordination examination was not preached before the entire…*

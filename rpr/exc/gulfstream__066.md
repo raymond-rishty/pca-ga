@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga51_2024"
+    label: "Minutes PDF · p. 517"
+    file: "51st_pcaga_2024.pdf"
+    volume: "ga51_2024"
+    pdf_page: 517
+    url: "https://www.pcahistory.org/pca/ga/51st_pcaga_2024.pdf#page=517"
+---
 # Gulfstream Presbytery — BCO 19-2.d
 
 *Licensure exam with no mention of written…*

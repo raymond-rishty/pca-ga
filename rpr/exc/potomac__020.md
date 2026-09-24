@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga51_2024"
+    label: "Minutes PDF · p. 630"
+    file: "51st_pcaga_2024.pdf"
+    volume: "ga51_2024"
+    pdf_page: 630
+    url: "https://www.pcahistory.org/pca/ga/51st_pcaga_2024.pdf#page=630"
+---
 # Potomac Presbytery — BCO 21-4
 
 *no record of transfer or dismissal of members upon dissolving a…*

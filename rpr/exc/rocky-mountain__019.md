@@ -1,3 +1,20 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga40_2012"
+    label: "Minutes PDF · p. 471"
+    file: "40th_pcaga_2012.pdf"
+    volume: "ga40_2012"
+    pdf_page: 471
+    url: "https://www.pcahistory.org/pca/ga/40th_pcaga_2012.pdf#page=471"
+  - type: "minutes"
+    source_id: "minutes:ga41_2013"
+    label: "Minutes PDF · p. 474"
+    file: "41st_pcaga_2013.pdf"
+    volume: "ga41_2013"
+    pdf_page: 474
+    url: "https://www.pcahistory.org/pca/ga/41st_pcaga_2013.pdf#page=474"
+---
 # Rocky Mountain Presbytery — BCO 20-1
 
 *January 27, 2011 ( BCO 20-1) Terms of call not…*

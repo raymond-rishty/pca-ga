@@ -1,3 +1,20 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga32_2004"
+    label: "Minutes PDF · p. 221"
+    file: "32nd_pcaga_2004.pdf"
+    volume: "ga32_2004"
+    pdf_page: 221
+    url: "https://www.pcahistory.org/pca/ga/32nd_pcaga_2004.pdf#page=221"
+  - type: "minutes"
+    source_id: "minutes:ga34_2006"
+    label: "Minutes PDF · p. 272"
+    file: "34th_pcaga_2006.pdf"
+    volume: "ga34_2006"
+    pdf_page: 272
+    url: "https://www.pcahistory.org/pca/ga/34th_pcaga_2006.pdf#page=272"
+---
 # Korean Southern Presbytery — BCO 21-4, RAO 14-3.e.5, BCO 13-11, RAO 14-1
 
 *No explanation of what type of exams are taking place. Incomplete record of…*

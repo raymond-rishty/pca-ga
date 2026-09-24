@@ -1,3 +1,20 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga35_2007"
+    label: "Minutes PDF · p. 200"
+    file: "35th_pcaga_2007.pdf"
+    volume: "ga35_2007"
+    pdf_page: 200
+    url: "https://www.pcahistory.org/pca/ga/35th_pcaga_2007.pdf#page=200"
+  - type: "minutes"
+    source_id: "minutes:ga36_2008"
+    label: "Minutes PDF · p. 247"
+    file: "36th_pcaga_2008.pdf"
+    volume: "ga36_2008"
+    pdf_page: 247
+    url: "https://www.pcahistory.org/pca/ga/36th_pcaga_2008.pdf#page=247"
+---
 # Northern California Presbytery — BCO 21-4, RAO 16-3.e.5)
 
 *No action taken regarding TE’s exceptions as per BCO 21-4 (ref. RAO…*

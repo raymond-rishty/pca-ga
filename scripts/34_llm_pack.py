@@ -20,7 +20,7 @@ ROOT = sys.argv[1] if len(sys.argv) > 1 else "/workspace"
 IDX = os.path.join(ROOT, "index")
 SITE = "https://raymond-rishty.github.io/pca-ga"
 RAW = "https://raw.githubusercontent.com/raymond-rishty/pca-ga/main"
-BCO_API = f"{SITE}/api/bco/index.json"
+PROVISION_API = f"{SITE}/api/provisions/index.json"
 
 # Catalogues compact enough to concatenate into the one-file pack; generated size varies with updates.
 PACK = ["INDEX.md", "RPR.md", "INQUIRIES.md", "CCB-OVERTURE-ADVICE.md"]
@@ -109,7 +109,7 @@ def main():
         f"Generated index for AI ingestion. The corpus lives at {SITE} (raw markdown at {RAW}).",
         "This file concatenates the SMALL structured catalogues so you can load them in one fetch:",
         "the Minutes index, the RPR hub, constitutional inquiries, and CCB advice.",
-        f"The provision-scoped BCO authority manifests are available at {BCO_API}; use them for provision-first retrieval.",
+        f"The schema-v2 provision catalogue API is available at {PROVISION_API}; BCO compatibility aliases are listed at {SITE}/api/bco/index.json.",
         "Each catalogue row deep-links to the verbatim minutes page; cite as `M<GA>GA p.<page>`.",
         "User-facing links in this pack are canonical GitHub Pages URLs ending in `.html`; source `.md` paths are for raw/repository retrieval only.",
         "",

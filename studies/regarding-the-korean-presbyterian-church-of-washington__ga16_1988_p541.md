@@ -1,3 +1,20 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga16_1988"
+    label: "Minutes PDF · p. 543"
+    file: "16th_pcaga_1988.pdf"
+    volume: "ga16_1988"
+    pdf_page: 543
+    url: "https://www.pcahistory.org/pca/ga/16th_pcaga_1988.pdf#page=543"
+  - type: "minutes"
+    source_id: "minutes:ga16_1988"
+    label: "Minutes PDF · p. 544"
+    file: "16th_pcaga_1988.pdf"
+    volume: "ga16_1988"
+    pdf_page: 544
+    url: "https://www.pcahistory.org/pca/ga/16th_pcaga_1988.pdf#page=544"
+---
 # REGARDING THE KOREAN PRESBYTERIAN CHURCH OF WASHINGTON
 
 *REPORT OF THE AD HOC COMMITTEE REGARDING THE KOREAN PRESBYTERIAN CHURCH OF WASHINGTON*

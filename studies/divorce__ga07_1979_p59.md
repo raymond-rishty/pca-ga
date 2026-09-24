@@ -1,3 +1,27 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga07_1979"
+    label: "Minutes PDF · p. 61"
+    file: "7th_pcaga_1979.pdf"
+    volume: "ga07_1979"
+    pdf_page: 61
+    url: "https://www.pcahistory.org/pca/ga/7th_pcaga_1979.pdf#page=61"
+  - type: "minutes"
+    source_id: "minutes:ga07_1979"
+    label: "Minutes PDF · p. 63"
+    file: "7th_pcaga_1979.pdf"
+    volume: "ga07_1979"
+    pdf_page: 63
+    url: "https://www.pcahistory.org/pca/ga/7th_pcaga_1979.pdf#page=63"
+  - type: "minutes"
+    source_id: "minutes:ga07_1979"
+    label: "Minutes PDF · p. 75"
+    file: "7th_pcaga_1979.pdf"
+    volume: "ga07_1979"
+    pdf_page: 75
+    url: "https://www.pcahistory.org/pca/ga/7th_pcaga_1979.pdf#page=75"
+---
 # DIVORCE
 
 *REPORT OF THE AD INTERIM THEOLOGICAL COMMITTEE ON DIVORCE*

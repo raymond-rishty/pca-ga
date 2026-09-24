@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga26_1998"
+    label: "Minutes PDF · p. 236"
+    file: "26th_pcaga_1998.pdf"
+    volume: "ga26_1998"
+    pdf_page: 236
+    url: "https://www.pcahistory.org/pca/ga/26th_pcaga_1998.pdf#page=236"
+---
 # Central Carolina Presbytery — WLC 116-121, WSC 59-62
 
 *July 19, 1997; Presbytery approved a TE for reception into the Presbytery, who…*

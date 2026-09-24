@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga22_1994"
+    label: "Minutes PDF · p. 292"
+    file: "22nd_pcaga_1994.pdf"
+    volume: "ga22_1994"
+    pdf_page: 292
+    url: "https://www.pcahistory.org/pca/ga/22nd_pcaga_1994.pdf#page=292"
+---
 # Heritage Presbytery — BCO 40-
 
 *There is indication that sessional records review was undergoing a change in…*

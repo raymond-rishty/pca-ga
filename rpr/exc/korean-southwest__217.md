@@ -1,3 +1,20 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga52_2025"
+    label: "Minutes PDF · p. 603"
+    file: "52nd_pcaga_2025.pdf"
+    volume: "ga52_2025"
+    pdf_page: 603
+    url: "https://www.pcahistory.org/pca/ga/52nd_pcaga_2025.pdf#page=603"
+  - type: "minutes"
+    source_id: "minutes:ga52_2025"
+    label: "Minutes PDF · p. 612"
+    file: "52nd_pcaga_2025.pdf"
+    volume: "ga52_2025"
+    pdf_page: 612
+    url: "https://www.pcahistory.org/pca/ga/52nd_pcaga_2025.pdf#page=612"
+---
 # Korean Southwest Presbytery — BCO 13-2, BCO 5-2.b, BCO 13-8
 
 *No record of approval to labor out of bounds or that the Presbytery is assured…*

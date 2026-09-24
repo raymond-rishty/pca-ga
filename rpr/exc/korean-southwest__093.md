@@ -1,3 +1,48 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga42_2014"
+    label: "Minutes PDF · p. 425"
+    file: "42nd_pcaga_2014.pdf"
+    volume: "ga42_2014"
+    pdf_page: 425
+    url: "https://www.pcahistory.org/pca/ga/42nd_pcaga_2014.pdf#page=425"
+  - type: "minutes"
+    source_id: "minutes:ga43_2015"
+    label: "Minutes PDF · p. 454"
+    file: "43rd_pcaga_2015.pdf"
+    volume: "ga43_2015"
+    pdf_page: 454
+    url: "https://www.pcahistory.org/pca/ga/43rd_pcaga_2015.pdf#page=454"
+  - type: "minutes"
+    source_id: "minutes:ga43_2015"
+    label: "Minutes PDF · p. 455"
+    file: "43rd_pcaga_2015.pdf"
+    volume: "ga43_2015"
+    pdf_page: 455
+    url: "https://www.pcahistory.org/pca/ga/43rd_pcaga_2015.pdf#page=455"
+  - type: "minutes"
+    source_id: "minutes:ga44_2016"
+    label: "Minutes PDF · p. 425"
+    file: "44th_pcaga_2016.pdf"
+    volume: "ga44_2016"
+    pdf_page: 425
+    url: "https://www.pcahistory.org/pca/ga/44th_pcaga_2016.pdf#page=425"
+  - type: "minutes"
+    source_id: "minutes:ga45_2017"
+    label: "Minutes PDF · p. 399"
+    file: "45th_pcaga_2017.pdf"
+    volume: "ga45_2017"
+    pdf_page: 399
+    url: "https://www.pcahistory.org/pca/ga/45th_pcaga_2017.pdf#page=399"
+  - type: "minutes"
+    source_id: "minutes:ga46_2018"
+    label: "Minutes PDF · p. 427"
+    file: "46th_pcaga_2018.pdf"
+    volume: "ga46_2018"
+    pdf_page: 427
+    url: "https://www.pcahistory.org/pca/ga/46th_pcaga_2018.pdf#page=427"
+---
 # Korean Southwest Presbytery — BCO 13-6, BCO 21-4
 
 *No statement of candidate’s differences with…*

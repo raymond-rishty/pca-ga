@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga42_2014"
+    label: "Minutes PDF · p. 429"
+    file: "42nd_pcaga_2014.pdf"
+    volume: "ga42_2014"
+    pdf_page: 429
+    url: "https://www.pcahistory.org/pca/ga/42nd_pcaga_2014.pdf#page=429"
+---
 # Metropolitan New York Presbytery — BCO 13-9b
 
 *No record of review of sessional records of church…*

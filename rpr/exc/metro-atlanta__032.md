@@ -1,3 +1,20 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga43_2015"
+    label: "Minutes PDF · p. 456"
+    file: "43rd_pcaga_2015.pdf"
+    volume: "ga43_2015"
+    pdf_page: 456
+    url: "https://www.pcahistory.org/pca/ga/43rd_pcaga_2015.pdf#page=456"
+  - type: "minutes"
+    source_id: "minutes:ga44_2016"
+    label: "Minutes PDF · p. 426"
+    file: "44th_pcaga_2016.pdf"
+    volume: "ga44_2016"
+    pdf_page: 426
+    url: "https://www.pcahistory.org/pca/ga/44th_pcaga_2016.pdf#page=426"
+---
 # Metro Atlanta Presbytery — BCO 231
 
 *No record of who recommended dissolving pastoral…*

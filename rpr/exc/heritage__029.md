@@ -1,3 +1,27 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga38_2010"
+    label: "Minutes PDF · p. 90"
+    file: "38th_pcaga_2010.pdf"
+    volume: "ga38_2010"
+    pdf_page: 90
+    url: "https://www.pcahistory.org/pca/ga/38th_pcaga_2010.pdf#page=90"
+  - type: "minutes"
+    source_id: "minutes:ga39_2011"
+    label: "Minutes PDF · p. 454"
+    file: "39th_pcaga_2011.pdf"
+    volume: "ga39_2011"
+    pdf_page: 454
+    url: "https://www.pcahistory.org/pca/ga/39th_pcaga_2011.pdf#page=454"
+  - type: "minutes"
+    source_id: "minutes:ga40_2012"
+    label: "Minutes PDF · p. 430"
+    file: "40th_pcaga_2012.pdf"
+    volume: "ga40_2012"
+    pdf_page: 430
+    url: "https://www.pcahistory.org/pca/ga/40th_pcaga_2012.pdf#page=430"
+---
 # Heritage Presbytery — BCO 38-2
 
 *Action taken to divest TE at same meeting request was…*

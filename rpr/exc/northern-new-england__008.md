@@ -1,3 +1,20 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga32_2004"
+    label: "Minutes PDF · p. 229"
+    file: "32nd_pcaga_2004.pdf"
+    volume: "ga32_2004"
+    pdf_page: 229
+    url: "https://www.pcahistory.org/pca/ga/32nd_pcaga_2004.pdf#page=229"
+  - type: "minutes"
+    source_id: "minutes:ga33_2005"
+    label: "Minutes PDF · p. 300"
+    file: "33rd_pcaga_2005.pdf"
+    volume: "ga33_2005"
+    pdf_page: 300
+    url: "https://www.pcahistory.org/pca/ga/33rd_pcaga_2005.pdf#page=300"
+---
 # Northern New England Presbytery — BCO 38-3
 
 *a motion attempting to assign a deposed TE to a particular congregation is…*

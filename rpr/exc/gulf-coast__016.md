@@ -1,3 +1,20 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga32_2004"
+    label: "Minutes PDF · p. 213"
+    file: "32nd_pcaga_2004.pdf"
+    volume: "ga32_2004"
+    pdf_page: 213
+    url: "https://www.pcahistory.org/pca/ga/32nd_pcaga_2004.pdf#page=213"
+  - type: "minutes"
+    source_id: "minutes:ga33_2005"
+    label: "Minutes PDF · p. 277"
+    file: "33rd_pcaga_2005.pdf"
+    volume: "ga33_2005"
+    pdf_page: 277
+    url: "https://www.pcahistory.org/pca/ga/33rd_pcaga_2005.pdf#page=277"
+---
 # Gulf Coast Presbytery — BCO 18-6
 
 *no reports on candidates or interns. BCO 18-6,…*

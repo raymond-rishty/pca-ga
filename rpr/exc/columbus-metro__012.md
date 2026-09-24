@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga48_2021"
+    label: "Minutes PDF · p. 560"
+    file: "48th_pcaga_2021.pdf"
+    volume: "ga48_2021"
+    pdf_page: 560
+    url: "https://www.pcahistory.org/pca/ga/48th_pcaga_2021.pdf#page=560"
+---
 # Columbus Metro Presbytery — BCO 134, RONR 347-8
 
 *It does not appear from the record or roll of Presbytery that a quorum of at…*

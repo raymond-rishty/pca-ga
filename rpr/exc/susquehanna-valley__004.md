@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga20_1992"
+    label: "Minutes PDF · p. 262"
+    file: "20th_pcaga_1992.pdf"
+    volume: "ga20_1992"
+    pdf_page: 262
+    url: "https://www.pcahistory.org/pca/ga/20th_pcaga_1992.pdf#page=262"
+---
 # Susquehanna Valley Presbytery — BCO § 12-3)
 
 *Page 179 The appointment of a moderator for a session should include an…*

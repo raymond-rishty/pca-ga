@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga23_1995"
+    label: "Minutes PDF · p. 195"
+    file: "23rd_pcaga_1995.pdf"
+    volume: "ga23_1995"
+    pdf_page: 195
+    url: "https://www.pcahistory.org/pca/ga/23rd_pcaga_1995.pdf#page=195"
+---
 # Korean Southeastern Presbytery — BCO 19-2, BCO 13-6), BCO 13-11), BCO 21-1), BCO 23-1), BCO 13-9
 
 *There is no record of examination for a man licensed (BCO 19-2), and for a TE…*

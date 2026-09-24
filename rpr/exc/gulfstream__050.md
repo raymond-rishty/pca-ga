@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga50_2023"
+    label: "Minutes PDF · p. 565"
+    file: "50th_pcaga_2023.pdf"
+    volume: "ga50_2023"
+    pdf_page: 565
+    url: "https://www.pcahistory.org/pca/ga/50th_pcaga_2023.pdf#page=565"
+---
 # Gulfstream Presbytery — BCO 13-2
 
 *No record of annual reports received from TEs without…*

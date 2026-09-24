@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga22_1994"
+    label: "Minutes PDF · p. 301"
+    file: "22nd_pcaga_1994.pdf"
+    volume: "ga22_1994"
+    pdf_page: 301
+    url: "https://www.pcahistory.org/pca/ga/22nd_pcaga_1994.pdf#page=301"
+---
 # Northeast Presbytery — BCO 13-7
 
 *p. 22 of 27, line 38: There is no record of a teaching elder being required to…*

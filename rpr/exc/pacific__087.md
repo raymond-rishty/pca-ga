@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga49_2022"
+    label: "Minutes PDF · p. 602"
+    file: "49th_pcaga_2022.pdf"
+    volume: "ga49_2022"
+    pdf_page: 602
+    url: "https://www.pcahistory.org/pca/ga/49th_pcaga_2022.pdf#page=602"
+---
 # Pacific Presbytery — BCO 13-10
 
 *Disposition of remaining members of dissolved church left…*

@@ -1,3 +1,27 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga15_1987"
+    label: "Minutes PDF · p. 541"
+    file: "15th_pcaga_1987.pdf"
+    volume: "ga15_1987"
+    pdf_page: 541
+    url: "https://www.pcahistory.org/pca/ga/15th_pcaga_1987.pdf#page=541"
+  - type: "minutes"
+    source_id: "minutes:ga15_1987"
+    label: "Minutes PDF · p. 545"
+    file: "15th_pcaga_1987.pdf"
+    volume: "ga15_1987"
+    pdf_page: 545
+    url: "https://www.pcahistory.org/pca/ga/15th_pcaga_1987.pdf#page=545"
+  - type: "minutes"
+    source_id: "minutes:ga15_1987"
+    label: "Minutes PDF · p. 554"
+    file: "15th_pcaga_1987.pdf"
+    volume: "ga15_1987"
+    pdf_page: 554
+    url: "https://www.pcahistory.org/pca/ga/15th_pcaga_1987.pdf#page=554"
+---
 # PAEDOCOMMUNION MAJORITY REPORT
 
 *REPORT OF THE AD-INTERIM COMMITTEE TO STUDY THE QUESTION OF PAEDOCOMMUNION MAJORITY REPORT*

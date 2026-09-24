@@ -1,3 +1,20 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga35_2007"
+    label: "Minutes PDF · p. 191"
+    file: "35th_pcaga_2007.pdf"
+    volume: "ga35_2007"
+    pdf_page: 191
+    url: "https://www.pcahistory.org/pca/ga/35th_pcaga_2007.pdf#page=191"
+  - type: "minutes"
+    source_id: "minutes:ga36_2008"
+    label: "Minutes PDF · p. 233"
+    file: "36th_pcaga_2008.pdf"
+    volume: "ga36_2008"
+    pdf_page: 233
+    url: "https://www.pcahistory.org/pca/ga/36th_pcaga_2008.pdf#page=233"
+---
 # Korean Capital Presbytery — BCO 21-4
 
 *: No record of specific examination requirements. BCO 21-4. Response : The…*

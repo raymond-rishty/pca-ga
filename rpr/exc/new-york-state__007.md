@@ -1,3 +1,20 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga48_2021"
+    label: "Minutes PDF · p. 606"
+    file: "48th_pcaga_2021.pdf"
+    volume: "ga48_2021"
+    pdf_page: 606
+    url: "https://www.pcahistory.org/pca/ga/48th_pcaga_2021.pdf#page=606"
+  - type: "minutes"
+    source_id: "minutes:ga49_2022"
+    label: "Minutes PDF · p. 592"
+    file: "49th_pcaga_2022.pdf"
+    volume: "ga49_2022"
+    pdf_page: 592
+    url: "https://www.pcahistory.org/pca/ga/49th_pcaga_2022.pdf#page=592"
+---
 # New York State Presbytery — BCO 19-3
 
 *No record of candidate answering questions for…*

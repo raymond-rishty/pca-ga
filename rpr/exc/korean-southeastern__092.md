@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga50_2023"
+    label: "Minutes PDF · p. 626"
+    file: "50th_pcaga_2023.pdf"
+    volume: "ga50_2023"
+    pdf_page: 626
+    url: "https://www.pcahistory.org/pca/ga/50th_pcaga_2023.pdf#page=626"
+---
 # Korean Southeastern Presbytery — BCO 34-10
 
 *The process outlined in the Standing Rules is at variance with the process…*

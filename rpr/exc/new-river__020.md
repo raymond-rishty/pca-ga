@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga31_2003"
+    label: "Minutes PDF · p. 243"
+    file: "31st_pcaga_2003.pdf"
+    volume: "ga31_2003"
+    pdf_page: 243
+    url: "https://www.pcahistory.org/pca/ga/31st_pcaga_2003.pdf#page=243"
+---
 # New River Presbytery — BCO 13-11
 
 *Minutes submitted incomplete. BCO 13-11; “RAO” 14-1 No response…*

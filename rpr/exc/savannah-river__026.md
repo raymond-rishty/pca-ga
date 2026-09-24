@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga51_2024"
+    label: "Minutes PDF · p. 647"
+    file: "51st_pcaga_2024.pdf"
+    volume: "ga51_2024"
+    pdf_page: 647
+    url: "https://www.pcahistory.org/pca/ga/51st_pcaga_2024.pdf#page=647"
+---
 # Savannah River Presbytery — BCO 25-11
 
 *No record that Presbytery confirmed that a 30-day notice was given by Session…*

@@ -1,3 +1,20 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga34_2006"
+    label: "Minutes PDF · p. 307"
+    file: "34th_pcaga_2006.pdf"
+    volume: "ga34_2006"
+    pdf_page: 307
+    url: "https://www.pcahistory.org/pca/ga/34th_pcaga_2006.pdf#page=307"
+  - type: "minutes"
+    source_id: "minutes:ga35_2007"
+    label: "Minutes PDF · p. 228"
+    file: "35th_pcaga_2007.pdf"
+    volume: "ga35_2007"
+    pdf_page: 228
+    url: "https://www.pcahistory.org/pca/ga/35th_pcaga_2007.pdf#page=228"
+---
 # Wisconsin Presbytery — BCO 18.2
 
 *October 8, 2005 : No record of session endorsement or 6 month membership. BCO…*

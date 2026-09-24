@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga46_2018"
+    label: "Minutes PDF · p. 406"
+    file: "46th_pcaga_2018.pdf"
+    volume: "ga46_2018"
+    pdf_page: 406
+    url: "https://www.pcahistory.org/pca/ga/46th_pcaga_2018.pdf#page=406"
+---
 # Korean Capital Presbytery — BCO 21-4.c
 
 *( BCO 21-4.c; RAO 16-3.e.5) – All specific requirements of ordination exam not…*

@@ -1,3 +1,27 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga40_2012"
+    label: "Minutes PDF · p. 479"
+    file: "40th_pcaga_2012.pdf"
+    volume: "ga40_2012"
+    pdf_page: 479
+    url: "https://www.pcahistory.org/pca/ga/40th_pcaga_2012.pdf#page=479"
+  - type: "minutes"
+    source_id: "minutes:ga41_2013"
+    label: "Minutes PDF · p. 487"
+    file: "41st_pcaga_2013.pdf"
+    volume: "ga41_2013"
+    pdf_page: 487
+    url: "https://www.pcahistory.org/pca/ga/41st_pcaga_2013.pdf#page=487"
+  - type: "minutes"
+    source_id: "minutes:ga42_2014"
+    label: "Minutes PDF · p. 460"
+    file: "42nd_pcaga_2014.pdf"
+    volume: "ga42_2014"
+    pdf_page: 460
+    url: "https://www.pcahistory.org/pca/ga/42nd_pcaga_2014.pdf#page=460"
+---
 # Warrior Presbytery — BCO 15-1, RAO 16-3.e.4
 
 *January 18, 2011 ( BCO 15-1 and RAO 16-3.e.4) No report from commission…*

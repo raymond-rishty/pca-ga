@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga23_1995"
+    label: "Minutes PDF · p. 206"
+    file: "23rd_pcaga_1995.pdf"
+    volume: "ga23_1995"
+    pdf_page: 206
+    url: "https://www.pcahistory.org/pca/ga/23rd_pcaga_1995.pdf#page=206"
+---
 # South Texas Presbytery — RAO 14-10.d.2)
 
 *Appendix G: Failure to record verbatim the portion of the Call, stating the…*

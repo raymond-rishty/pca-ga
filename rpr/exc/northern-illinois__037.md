@@ -1,3 +1,20 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga34_2006"
+    label: "Minutes PDF · p. 284"
+    file: "34th_pcaga_2006.pdf"
+    volume: "ga34_2006"
+    pdf_page: 284
+    url: "https://www.pcahistory.org/pca/ga/34th_pcaga_2006.pdf#page=284"
+  - type: "minutes"
+    source_id: "minutes:ga35_2007"
+    label: "Minutes PDF · p. 203"
+    file: "35th_pcaga_2007.pdf"
+    volume: "ga35_2007"
+    pdf_page: 203
+    url: "https://www.pcahistory.org/pca/ga/35th_pcaga_2007.pdf#page=203"
+---
 # Northern Illinois Presbytery — BCO 13-6
 
 *Incomplete record of exam requirements for a transfer. BCO…*

@@ -1,3 +1,20 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga49_2022"
+    label: "Minutes PDF · p. 634"
+    file: "49th_pcaga_2022.pdf"
+    volume: "ga49_2022"
+    pdf_page: 634
+    url: "https://www.pcahistory.org/pca/ga/49th_pcaga_2022.pdf#page=634"
+  - type: "minutes"
+    source_id: "minutes:ga50_2023"
+    label: "Minutes PDF · p. 721"
+    file: "50th_pcaga_2023.pdf"
+    volume: "ga50_2023"
+    pdf_page: 721
+    url: "https://www.pcahistory.org/pca/ga/50th_pcaga_2023.pdf#page=721"
+---
 # Wisconsin Presbytery — BCO 13-1
 
 *Notice for called meeting not in order; 10-day notice not…*

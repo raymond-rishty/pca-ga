@@ -1,3 +1,20 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga21_1993"
+    label: "Minutes PDF · p. 131"
+    file: "21st_pcaga_1993.pdf"
+    volume: "ga21_1993"
+    pdf_page: 131
+    url: "https://www.pcahistory.org/pca/ga/21st_pcaga_1993.pdf#page=131"
+  - type: "minutes"
+    source_id: "minutes:ga21_1993"
+    label: "Minutes PDF · p. 142"
+    file: "21st_pcaga_1993.pdf"
+    volume: "ga21_1993"
+    pdf_page: 142
+    url: "https://www.pcahistory.org/pca/ga/21st_pcaga_1993.pdf#page=142"
+---
 # A Declaration of Conscience Addressed to the President of the United States of America
 
 *A Declaration of Conscience Addressed to the President of the United States of America*

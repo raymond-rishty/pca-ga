@@ -1,3 +1,20 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga39_2011"
+    label: "Minutes PDF · p. 475"
+    file: "39th_pcaga_2011.pdf"
+    volume: "ga39_2011"
+    pdf_page: 475
+    url: "https://www.pcahistory.org/pca/ga/39th_pcaga_2011.pdf#page=475"
+  - type: "minutes"
+    source_id: "minutes:ga40_2012"
+    label: "Minutes PDF · p. 456"
+    file: "40th_pcaga_2012.pdf"
+    volume: "ga40_2012"
+    pdf_page: 456
+    url: "https://www.pcahistory.org/pca/ga/40th_pcaga_2012.pdf#page=456"
+---
 # Ohio Valley Presbytery — BCO 18-2
 
 *No record of session endorsement or 6-month membership for…*

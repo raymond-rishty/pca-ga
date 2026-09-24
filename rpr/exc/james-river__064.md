@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga51_2024"
+    label: "Minutes PDF · p. 539"
+    file: "51st_pcaga_2024.pdf"
+    volume: "ga51_2024"
+    pdf_page: 539
+    url: "https://www.pcahistory.org/pca/ga/51st_pcaga_2024.pdf#page=539"
+---
 # James River Presbytery — BCO 16-2
 
 *No record that members of temporary Session were approved by…*

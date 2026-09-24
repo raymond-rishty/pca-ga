@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga22_1994"
+    label: "Minutes PDF · p. 307"
+    file: "22nd_pcaga_1994.pdf"
+    volume: "ga22_1994"
+    pdf_page: 307
+    url: "https://www.pcahistory.org/pca/ga/22nd_pcaga_1994.pdf#page=307"
+---
 # Philadelphia Presbytery — BCO 7-2
 
 *Women should not be on an executive committee in what appears to be a ruling…*

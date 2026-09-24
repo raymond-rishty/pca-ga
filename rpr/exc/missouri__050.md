@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga48_2021"
+    label: "Minutes PDF · p. 604"
+    file: "48th_pcaga_2021.pdf"
+    volume: "ga48_2021"
+    pdf_page: 604
+    url: "https://www.pcahistory.org/pca/ga/48th_pcaga_2021.pdf#page=604"
+---
 # Missouri Presbytery — BCO 15-1
 
 *( BCO 15-1; RAO 16-3.e.4) – Minutes of a commission not included. Response…*

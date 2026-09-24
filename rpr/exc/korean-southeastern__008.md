@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga24_1996"
+    label: "Minutes PDF · p. 253"
+    file: "24th_pcaga_1996.pdf"
+    volume: "ga24_1996"
+    pdf_page: 253
+    url: "https://www.pcahistory.org/pca/ga/24th_pcaga_1996.pdf#page=253"
+---
 # Korean Southeastern Presbytery — BCO 13-9b)
 
 *there is no record of annual review by presbytery of sessional records (BCO…*

@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga51_2024"
+    label: "Minutes PDF · p. 528"
+    file: "51st_pcaga_2024.pdf"
+    volume: "ga51_2024"
+    pdf_page: 528
+    url: "https://www.pcahistory.org/pca/ga/51st_pcaga_2024.pdf#page=528"
+---
 # Hills and Plains Presbytery — BCO 13-2
 
 *no action of presbytery to receive ordinand candidate into…*

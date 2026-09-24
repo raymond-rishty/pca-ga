@@ -1,3 +1,34 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga30_2002"
+    label: "Minutes PDF · p. 318"
+    file: "30th_pcaga_2002.pdf"
+    volume: "ga30_2002"
+    pdf_page: 318
+    url: "https://www.pcahistory.org/pca/ga/30th_pcaga_2002.pdf#page=318"
+  - type: "minutes"
+    source_id: "minutes:ga31_2003"
+    label: "Minutes PDF · p. 232"
+    file: "31st_pcaga_2003.pdf"
+    volume: "ga31_2003"
+    pdf_page: 232
+    url: "https://www.pcahistory.org/pca/ga/31st_pcaga_2003.pdf#page=232"
+  - type: "minutes"
+    source_id: "minutes:ga32_2004"
+    label: "Minutes PDF · p. 219"
+    file: "32nd_pcaga_2004.pdf"
+    volume: "ga32_2004"
+    pdf_page: 219
+    url: "https://www.pcahistory.org/pca/ga/32nd_pcaga_2004.pdf#page=219"
+  - type: "minutes"
+    source_id: "minutes:ga33_2005"
+    label: "Minutes PDF · p. 285"
+    file: "33rd_pcaga_2005.pdf"
+    volume: "ga33_2005"
+    pdf_page: 285
+    url: "https://www.pcahistory.org/pca/ga/33rd_pcaga_2005.pdf#page=285"
+---
 # Korean Southeastern Presbytery — BCO 40-1
 
 *No minutes submitted. BCO 40-1 Exceptions: General: Examination for ordination…*

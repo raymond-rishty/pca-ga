@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga43_2015"
+    label: "Minutes PDF · p. 465"
+    file: "43rd_pcaga_2015.pdf"
+    volume: "ga43_2015"
+    pdf_page: 465
+    url: "https://www.pcahistory.org/pca/ga/43rd_pcaga_2015.pdf#page=465"
+---
 # Palmetto Presbytery — exception of substance
 
 *and July 28, 2011 - General No annual report from TEs laboring out of…*

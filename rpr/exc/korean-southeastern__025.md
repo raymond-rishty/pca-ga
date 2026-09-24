@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga30_2002"
+    label: "Minutes PDF · p. 318"
+    file: "30th_pcaga_2002.pdf"
+    volume: "ga30_2002"
+    pdf_page: 318
+    url: "https://www.pcahistory.org/pca/ga/30th_pcaga_2002.pdf#page=318"
+---
 # Korean Southeastern Presbytery — BCO 13-
 
 *No ruling elders present. Therefore no quorum. BCO 13-…*

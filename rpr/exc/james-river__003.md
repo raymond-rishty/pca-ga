@@ -1,3 +1,20 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga18_1990"
+    label: "Minutes PDF · p. 183"
+    file: "18th_pcaga_1990.pdf"
+    volume: "ga18_1990"
+    pdf_page: 183
+    url: "https://www.pcahistory.org/pca/ga/18th_pcaga_1990.pdf#page=183"
+  - type: "minutes"
+    source_id: "minutes:ga19_1991"
+    label: "Minutes PDF · p. 183"
+    file: "19th_pcaga_1991.pdf"
+    volume: "ga19_1991"
+    pdf_page: 183
+    url: "https://www.pcahistory.org/pca/ga/19th_pcaga_1991.pdf#page=183"
+---
 # James River Presbytery — BCO 21-6
 
 *No yearly report on candidates under care. BCO 21-6.…*

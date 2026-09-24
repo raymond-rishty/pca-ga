@@ -1,3 +1,27 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga38_2010"
+    label: "Minutes PDF · p. 121"
+    file: "38th_pcaga_2010.pdf"
+    volume: "ga38_2010"
+    pdf_page: 121
+    url: "https://www.pcahistory.org/pca/ga/38th_pcaga_2010.pdf#page=121"
+  - type: "minutes"
+    source_id: "minutes:ga39_2011"
+    label: "Minutes PDF · p. 491"
+    file: "39th_pcaga_2011.pdf"
+    volume: "ga39_2011"
+    pdf_page: 491
+    url: "https://www.pcahistory.org/pca/ga/39th_pcaga_2011.pdf#page=491"
+  - type: "minutes"
+    source_id: "minutes:ga40_2012"
+    label: "Minutes PDF · p. 479"
+    file: "40th_pcaga_2012.pdf"
+    volume: "ga40_2012"
+    pdf_page: 479
+    url: "https://www.pcahistory.org/pca/ga/40th_pcaga_2012.pdf#page=479"
+---
 # Warrior Presbytery — BCO 22-5
 
 *No record of TE’s membership in Warrior Presbytery or licensure required to…*

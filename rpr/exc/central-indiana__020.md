@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga49_2022"
+    label: "Minutes PDF · p. 507"
+    file: "49th_pcaga_2022.pdf"
+    volume: "ga49_2022"
+    pdf_page: 507
+    url: "https://www.pcahistory.org/pca/ga/49th_pcaga_2022.pdf#page=507"
+---
 # Central Indiana Presbytery — RAO 16-3.c.1
 
 *( RAO 16-3.c.1 ) – Purpose of called meeting not recorded verbatim in the…*

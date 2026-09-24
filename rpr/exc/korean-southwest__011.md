@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga25_1997"
+    label: "Minutes PDF · p. 211"
+    file: "25th_pcaga_1997.pdf"
+    volume: "ga25_1997"
+    pdf_page: 211
+    url: "https://www.pcahistory.org/pca/ga/25th_pcaga_1997.pdf#page=211"
+---
 # Korean Southwest Presbytery — RAO 14-3.e.5)
 
 *April 16, 1996; October 15, 1996; November 19, 1996; Parts of examination…*

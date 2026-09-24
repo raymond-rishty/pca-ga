@@ -1,3 +1,20 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga29_2001"
+    label: "Minutes PDF · p. 344"
+    file: "29th_pcaga_2001.pdf"
+    volume: "ga29_2001"
+    pdf_page: 344
+    url: "https://www.pcahistory.org/pca/ga/29th_pcaga_2001.pdf#page=344"
+  - type: "minutes"
+    source_id: "minutes:ga30_2002"
+    label: "Minutes PDF · p. 325"
+    file: "30th_pcaga_2002.pdf"
+    volume: "ga30_2002"
+    pdf_page: 325
+    url: "https://www.pcahistory.org/pca/ga/30th_pcaga_2002.pdf#page=325"
+---
 # Nashville Presbytery — exception of substance
 
 *The minutes of 2000 were not submitted to be reviewed by the Committee. These…*

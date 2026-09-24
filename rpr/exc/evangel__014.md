@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga27_1999"
+    label: "Minutes PDF · p. 195"
+    file: "27th_pcaga_1999.pdf"
+    volume: "ga27_1999"
+    pdf_page: 195
+    url: "https://www.pcahistory.org/pca/ga/27th_pcaga_1999.pdf#page=195"
+---
 # Evangel Presbytery — RAO 14-4.a
 
 *January 28, 1997; Minutes not received. (RAO 14-4.a&amp;b)…*

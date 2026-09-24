@@ -1,3 +1,20 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga01_1973"
+    label: "Minutes PDF · p. 58"
+    file: "1st_pcaga_1973.pdf"
+    volume: "ga01_1973"
+    pdf_page: 58
+    url: "https://www.pcahistory.org/pca/ga/1st_pcaga_1973.pdf#page=58"
+  - type: "minutes"
+    source_id: "minutes:ga01_1973"
+    label: "Minutes PDF · p. 63"
+    file: "1st_pcaga_1973.pdf"
+    volume: "ga01_1973"
+    pdf_page: 63
+    url: "https://www.pcahistory.org/pca/ga/1st_pcaga_1973.pdf#page=63"
+---
 # Women in the Church (WIC)
 
 *Women in the Church (WIC)*

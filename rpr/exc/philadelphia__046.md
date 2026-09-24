@@ -1,3 +1,27 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga48_2021"
+    label: "Minutes PDF · p. 621"
+    file: "48th_pcaga_2021.pdf"
+    volume: "ga48_2021"
+    pdf_page: 621
+    url: "https://www.pcahistory.org/pca/ga/48th_pcaga_2021.pdf#page=621"
+  - type: "minutes"
+    source_id: "minutes:ga49_2022"
+    label: "Minutes PDF · p. 609"
+    file: "49th_pcaga_2022.pdf"
+    volume: "ga49_2022"
+    pdf_page: 609
+    url: "https://www.pcahistory.org/pca/ga/49th_pcaga_2022.pdf#page=609"
+  - type: "minutes"
+    source_id: "minutes:ga50_2023"
+    label: "Minutes PDF · p. 685"
+    file: "50th_pcaga_2023.pdf"
+    volume: "ga50_2023"
+    pdf_page: 685
+    url: "https://www.pcahistory.org/pca/ga/50th_pcaga_2023.pdf#page=685"
+---
 # Philadelphia Presbytery — BCO 21-4, RAO 16-3e.5
 
 *Candidate [name omitted]’s exceptions noted, but not recorded in his own…*

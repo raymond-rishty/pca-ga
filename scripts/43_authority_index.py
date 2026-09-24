@@ -1,20 +1,20 @@
 #!/usr/bin/env python3
-"""43_authority_index.py — build per-provision authority index.
+"""Project the per-provision authority index from the provision catalogue.
 
-Generates:
+Projects:
   index/authority_index.json      flat list: one row per (provision, authority)
   index/AUTHORITY-BY-PROVISION.md cross-reference: each provision -> all authorities
   authorities/<slug>.md           per-provision detail pages
 
-Authority weights:
-  high              SJC/CJB judicial cases
-  medium            constitutional inquiries; adopted overtures
-  low-but-important RPR exceptions; non-adopted overtures
+The provision catalogue is authoritative for text, records, relationships,
+evidence, and coverage. This script only writes the legacy authority index and
+its Markdown projections.
 
 Usage: 43_authority_index.py [ROOT]   (default /workspace)
 """
 from __future__ import annotations
 import collections, json, os, re, sys
+from pathlib import Path
 
 ROOT = sys.argv[1] if len(sys.argv) > 1 else "/workspace"
 IDX = os.path.join(ROOT, "index")
@@ -98,6 +98,15 @@ def plain(s: str) -> str:
     s = _STRIP_ANCHOR.sub(' ', s)
     return re.sub(r'\s+', ' ', s).strip()
 
+def without_front_matter(text: str) -> str:
+    """Keep source metadata out of citations and excerpts drawn from Markdown."""
+    lines = text.splitlines(keepends=True)
+    if lines and lines[0].strip() == '---':
+        for index, line in enumerate(lines[1:], start=1):
+            if line.strip() in {'---', '...'}:
+                return ''.join(lines[index + 1:])
+    return text
+
 def snippet_for(text: str, prov: str, ctx: int = 220) -> str:
     m = re.search(re.escape(prov), text, re.I)
     if not m:
@@ -105,7 +114,7 @@ def snippet_for(text: str, prov: str, ctx: int = 220) -> str:
         if nums:
             m = re.search(r'\b' + re.escape(nums.group(0)) + r'\b', text)
     if not m:
-        return plain(text[:ctx])
+        return ''
     start = max(0, m.start() - 80)
     end = min(len(text), m.end() + 140)
     chunk = text[start:end].strip()
@@ -192,7 +201,7 @@ def build_case_rows() -> list[dict]:
         raw_text = ''
         md_path = os.path.join(CASES_DIR, fname + '.md')
         if os.path.exists(md_path):
-            raw_text = open(md_path, encoding='utf-8').read()
+            raw_text = without_front_matter(open(md_path, encoding='utf-8').read())
             for prov in extract_provisions(raw_text):
                 provs.add(prov)
             if not disposition:
@@ -274,51 +283,47 @@ def build_rpr_rows() -> list[dict]:
 
 # ── overture rows ─────────────────────────────────────────────────────────────
 
-_OVR_HEAD = re.compile(r'^##\s+.*General Assembly\s*\((\d{4})\)')
-_OVR_LINK = re.compile(r'\]\(\.\./([^)#]+(?:#[^)]+)?)\)')
-_OVR_PROV = re.compile(r'BCO\s+\d+-\d+(?:\.[0-9a-z]+)*', re.I)
 _ADOPTED_WORDS = {'adopted', 'approved', 'ratified', 'passed', 'sustained'}
 
 def build_overture_rows() -> list[dict]:
-    p = os.path.join(IDX, 'OVERTURES.md')
-    if not os.path.exists(p):
-        return []
+    """Project provision-bearing occurrences from the curated overture records."""
+    from overture_catalogue import overture_records
+
     rows: list[dict] = []
-    year: int | None = None
-    for line in open(p, encoding='utf-8'):
-        h = _OVR_HEAD.match(line)
-        if h:
-            year = int(h.group(1))
-            continue
-        if not line.startswith('| '):
-            continue
-        cells = [c.strip() for c in line.strip().strip('|').split('|')]
-        if len(cells) < 5 or not cells[0].isdigit():
-            continue
-        num, subject, outcome, source, pages = cells[0], cells[1], cells[2], cells[3], cells[4]
-        if not subject:
-            continue
-        matched = _OVR_PROV.findall(subject)
-        if not matched:
-            continue
-        lm = _OVR_LINK.search(pages)
-        url = lm.group(1) if lm else 'index/OVERTURES.md'
-        weight = ('medium'
-                  if any(w in (outcome or '').lower() for w in _ADOPTED_WORDS)
+    for record in overture_records(Path(IDX)):
+        outcome = record.get('disposition') or ''
+        weight = ('medium' if any(w in outcome.lower() for w in _ADOPTED_WORDS)
                   else 'low-but-important')
-        provs = sorted({norm_prov(m) for m in matched})
-        for prov in provs:
-            rows.append({
+        for prov in (norm_prov(value) for value in record.get('provisions') or []):
+            row = {
                 'provision': prov,
                 'type': 'Overture',
                 'authority_weight': weight,
-                'title': subject,
-                'year': year,
+                'title': record['title'],
+                'year': record.get('year'),
                 'disposition': outcome,
-                'url': url,
-                'snippet': subject,
+                'url': record['url'],
+                'record_id': record['record_id'],
+                'snippet': record['title'],
+                'source': record.get('source', ''),
+                'occurrence_number': record.get('number'),
+                'occurrence_page': record.get('page'),
                 'topics': [],
-            })
+            }
+            direct_evidence = [item for item in record.get('provision_evidence') or []
+                               if norm_prov(item.get('provision') or '') == prov and item.get('excerpt')]
+            if direct_evidence:
+                for evidence in direct_evidence:
+                    evidence_row = {
+                        **row,
+                        'url': evidence.get('url') or record['url'],
+                        'occurrence_page': evidence.get('page') or record.get('page'),
+                        'snippet': evidence['excerpt'],
+                        'evidence_source': 'overture_body_text',
+                    }
+                    rows.append(evidence_row)
+            else:
+                rows.append(row)
     return rows
 
 
@@ -397,28 +402,13 @@ def render_main_index(rows_by_prov: dict[str, list[dict]]) -> str:
 # ── main ──────────────────────────────────────────────────────────────────────
 
 def main():
-    print(f'[{ROOT}] Building authority index…')
+    from provision_catalogue import authority_projection, load_catalogue
 
-    all_rows: list[dict] = []
-    print('  cases…', end=' ', flush=True)
-    case_rows = build_case_rows()
-    print(len(case_rows))
-    all_rows.extend(case_rows)
-
-    print('  inquiries…', end=' ', flush=True)
-    inq_rows = build_inquiry_rows()
-    print(len(inq_rows))
-    all_rows.extend(inq_rows)
-
-    print('  RPR exceptions…', end=' ', flush=True)
-    rpr_rows = build_rpr_rows()
-    print(len(rpr_rows))
-    all_rows.extend(rpr_rows)
-
-    print('  overtures…', end=' ', flush=True)
-    ovr_rows = build_overture_rows()
-    print(len(ovr_rows))
-    all_rows.extend(ovr_rows)
+    root = os.path.abspath(sys.argv[1]) if len(sys.argv) > 1 else ROOT
+    catalogue_path = os.path.join(root, 'index', 'provision_catalogue.json')
+    catalogue = load_catalogue(Path(catalogue_path))
+    all_rows: list[dict] = authority_projection(catalogue)
+    print(f'[{root}] Projecting {len(all_rows)} authority rows from the provision catalogue…')
 
     # Sort: provision -> weight -> type -> year
     all_rows.sort(key=lambda r: (
@@ -432,7 +422,7 @@ def main():
     out_json = os.path.join(IDX, 'authority_index.json')
     json.dump(all_rows, open(out_json, 'w', encoding='utf-8'),
               ensure_ascii=False, separators=(',', ':'))
-    print(f'  → index/authority_index.json: {len(all_rows)} rows')
+    print(f'  → index/authority_index.json: {len(all_rows)} catalogue projection rows')
 
     # Group by provision
     rows_by_prov: dict[str, list[dict]] = {}
@@ -447,13 +437,20 @@ def main():
 
     # Write per-provision pages
     os.makedirs(AUTH_DIR, exist_ok=True)
+    expected_pages = set()
     n_pages = 0
     for prov, prows in rows_by_prov.items():
         slug = prov_slug(prov)
         path = os.path.join(AUTH_DIR, slug + '.md')
+        expected_pages.add(os.path.normcase(os.path.abspath(path)))
         with open(path, 'w', encoding='utf-8') as f:
             f.write(render_provision_page(prov, prows))
         n_pages += 1
+    for filename in os.listdir(AUTH_DIR):
+        path = os.path.join(AUTH_DIR, filename)
+        if (filename.lower().endswith('.md') and os.path.isfile(path)
+                and os.path.normcase(os.path.abspath(path)) not in expected_pages):
+            os.remove(path)
     print(f'  → authorities/: {n_pages} provision pages')
 
     by_type = collections.Counter(r['type'] for r in all_rows)

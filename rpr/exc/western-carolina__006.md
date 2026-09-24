@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga20_1992"
+    label: "Minutes PDF · p. 263"
+    file: "20th_pcaga_1992.pdf"
+    volume: "ga20_1992"
+    pdf_page: 263
+    url: "https://www.pcahistory.org/pca/ga/20th_pcaga_1992.pdf#page=263"
+---
 # Western Carolina Presbytery — BCO § 23-1)
 
 *Page 5, Item 3 There is no indication of congregational action on the…*

@@ -1,3 +1,48 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga35_2007"
+    label: "Minutes PDF · p. 192"
+    file: "35th_pcaga_2007.pdf"
+    volume: "ga35_2007"
+    pdf_page: 192
+    url: "https://www.pcahistory.org/pca/ga/35th_pcaga_2007.pdf#page=192"
+  - type: "minutes"
+    source_id: "minutes:ga36_2008"
+    label: "Minutes PDF · p. 235"
+    file: "36th_pcaga_2008.pdf"
+    volume: "ga36_2008"
+    pdf_page: 235
+    url: "https://www.pcahistory.org/pca/ga/36th_pcaga_2008.pdf#page=235"
+  - type: "minutes"
+    source_id: "minutes:ga37_2009"
+    label: "Minutes PDF · p. 104"
+    file: "37th_pcaga_2009.pdf"
+    volume: "ga37_2009"
+    pdf_page: 104
+    url: "https://www.pcahistory.org/pca/ga/37th_pcaga_2009.pdf#page=104"
+  - type: "minutes"
+    source_id: "minutes:ga38_2010"
+    label: "Minutes PDF · p. 96"
+    file: "38th_pcaga_2010.pdf"
+    volume: "ga38_2010"
+    pdf_page: 96
+    url: "https://www.pcahistory.org/pca/ga/38th_pcaga_2010.pdf#page=96"
+  - type: "minutes"
+    source_id: "minutes:ga47_2019"
+    label: "Minutes PDF · p. 479"
+    file: "47th_pcaga_2019.pdf"
+    volume: "ga47_2019"
+    pdf_page: 479
+    url: "https://www.pcahistory.org/pca/ga/47th_pcaga_2019.pdf#page=479"
+  - type: "minutes"
+    source_id: "minutes:ga48_2021"
+    label: "Minutes PDF · p. 585"
+    file: "48th_pcaga_2021.pdf"
+    volume: "ga48_2021"
+    pdf_page: 585
+    url: "https://www.pcahistory.org/pca/ga/48th_pcaga_2021.pdf#page=585"
+---
 # Korean Eastern Presbytery — BCO 13-12
 
 *No record of having two stated meetings of presbytery within the calendar…*

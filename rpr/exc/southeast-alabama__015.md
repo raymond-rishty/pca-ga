@@ -1,3 +1,20 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga25_1997"
+    label: "Minutes PDF · p. 219"
+    file: "25th_pcaga_1997.pdf"
+    volume: "ga25_1997"
+    pdf_page: 219
+    url: "https://www.pcahistory.org/pca/ga/25th_pcaga_1997.pdf#page=219"
+  - type: "minutes"
+    source_id: "minutes:ga26_1998"
+    label: "Minutes PDF · p. 252"
+    file: "26th_pcaga_1998.pdf"
+    volume: "ga26_1998"
+    pdf_page: 252
+    url: "https://www.pcahistory.org/pca/ga/26th_pcaga_1998.pdf#page=252"
+---
 # Southeast Alabama Presbytery — BCO 40-3
 
 *Review of sessional minutes does not indicate whether they are approved or…*

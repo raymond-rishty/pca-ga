@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga51_2024"
+    label: "Minutes PDF · p. 532"
+    file: "51st_pcaga_2024.pdf"
+    volume: "ga51_2024"
+    pdf_page: 532
+    url: "https://www.pcahistory.org/pca/ga/51st_pcaga_2024.pdf#page=532"
+---
 # Houston Metro Presbytery — BCO 13-9.b
 
 *No record of review of records of Session completed and approved by action of…*

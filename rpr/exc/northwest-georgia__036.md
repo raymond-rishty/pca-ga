@@ -1,3 +1,20 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga49_2022"
+    label: "Minutes PDF · p. 598"
+    file: "49th_pcaga_2022.pdf"
+    volume: "ga49_2022"
+    pdf_page: 598
+    url: "https://www.pcahistory.org/pca/ga/49th_pcaga_2022.pdf#page=598"
+  - type: "minutes"
+    source_id: "minutes:ga50_2023"
+    label: "Minutes PDF · p. 672"
+    file: "50th_pcaga_2023.pdf"
+    volume: "ga50_2023"
+    pdf_page: 672
+    url: "https://www.pcahistory.org/pca/ga/50th_pcaga_2023.pdf#page=672"
+---
 # Northwest Georgia Presbytery — BCO 43-8
 
 *if a complaint is properly filed, it shall be heard by the Presbytery. A…*

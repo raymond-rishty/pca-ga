@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga51_2024"
+    label: "Minutes PDF · p. 685"
+    file: "51st_pcaga_2024.pdf"
+    volume: "ga51_2024"
+    pdf_page: 685
+    url: "https://www.pcahistory.org/pca/ga/51st_pcaga_2024.pdf#page=685"
+---
 # Susquehanna Valley Presbytery — BCO 13-6
 
 *Incomplete record of transfer exam for minister from another…*

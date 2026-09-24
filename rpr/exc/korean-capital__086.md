@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga51_2024"
+    label: "Minutes PDF · p. 542"
+    file: "51st_pcaga_2024.pdf"
+    volume: "ga51_2024"
+    pdf_page: 542
+    url: "https://www.pcahistory.org/pca/ga/51st_pcaga_2024.pdf#page=542"
+---
 # Korean Capital Presbytery — BCO 13-6
 
 *no record of examination of TE transferring into…*

@@ -1,3 +1,20 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga51_2024"
+    label: "Minutes PDF · p. 671"
+    file: "51st_pcaga_2024.pdf"
+    volume: "ga51_2024"
+    pdf_page: 671
+    url: "https://www.pcahistory.org/pca/ga/51st_pcaga_2024.pdf#page=671"
+  - type: "minutes"
+    source_id: "minutes:ga52_2025"
+    label: "Minutes PDF · p. 738"
+    file: "52nd_pcaga_2025.pdf"
+    volume: "ga52_2025"
+    pdf_page: 738
+    url: "https://www.pcahistory.org/pca/ga/52nd_pcaga_2025.pdf#page=738"
+---
 # South Texas Presbytery — BCO 15-1, RAO 16-3.e.4
 
 *No minutes of any committee empowered as commissions submitted for GA…*

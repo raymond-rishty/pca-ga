@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga51_2024"
+    label: "Minutes PDF · p. 556"
+    file: "51st_pcaga_2024.pdf"
+    volume: "ga51_2024"
+    pdf_page: 556
+    url: "https://www.pcahistory.org/pca/ga/51st_pcaga_2024.pdf#page=556"
+---
 # Korean Northwest Presbytery — BCO 19-13
 
 *Approval of internship for ordination not…*

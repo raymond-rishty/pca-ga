@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga50_2023"
+    label: "Minutes PDF · p. 680"
+    file: "50th_pcaga_2023.pdf"
+    volume: "ga50_2023"
+    pdf_page: 680
+    url: "https://www.pcahistory.org/pca/ga/50th_pcaga_2023.pdf#page=680"
+---
 # Palmetto Presbytery — BCO 8-7
 
 *No record of annual report(s) of TE(s) laboring out of…*

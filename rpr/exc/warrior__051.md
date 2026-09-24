@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga42_2014"
+    label: "Minutes PDF · p. 460"
+    file: "42nd_pcaga_2014.pdf"
+    volume: "ga42_2014"
+    pdf_page: 460
+    url: "https://www.pcahistory.org/pca/ga/42nd_pcaga_2014.pdf#page=460"
+---
 # Warrior Presbytery — BCO 13-10
 
 *Dissolution of two churches did not follow BCO…*

@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga02_1974"
+    label: "Minutes PDF · p. 175"
+    file: "2nd_pcaga_1974.pdf"
+    volume: "ga02_1974"
+    pdf_page: 175
+    url: "https://www.pcahistory.org/pca/ga/2nd_pcaga_1974.pdf#page=175"
+---
 # A Pastoral Letter Concerning the Experience of the Holy Spirit in the Church Today
 
 *A Pastoral Letter Concerning the Experience of the Holy Spirit in the Church Today*

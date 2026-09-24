@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga19_1991"
+    label: "Minutes PDF · p. 187"
+    file: "19th_pcaga_1991.pdf"
+    volume: "ga19_1991"
+    pdf_page: 187
+    url: "https://www.pcahistory.org/pca/ga/19th_pcaga_1991.pdf#page=187"
+---
 # Pacific Northwest Presbytery — BCO 19-2
 
 *p. 19 #2 Commission erected to examine for licensure. BCO 19-2…*

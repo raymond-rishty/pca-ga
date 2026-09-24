@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga31_2003"
+    label: "Minutes PDF · p. 240"
+    file: "31st_pcaga_2003.pdf"
+    volume: "ga31_2003"
+    pdf_page: 240
+    url: "https://www.pcahistory.org/pca/ga/31st_pcaga_2003.pdf#page=240"
+---
 # Missouri Presbytery — exception of substance
 
 *The Standing Rules are not complete. (“RAO”…*

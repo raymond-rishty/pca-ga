@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga40_2012"
+    label: "Minutes PDF · p. 438"
+    file: "40th_pcaga_2012.pdf"
+    volume: "ga40_2012"
+    pdf_page: 438
+    url: "https://www.pcahistory.org/pca/ga/40th_pcaga_2012.pdf#page=438"
+---
 # Korean Southeastern Presbytery — BCO 13-4
 
 *Quorum not present for presbytery…*

@@ -1,3 +1,20 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga38_2010"
+    label: "Minutes PDF · p. 101"
+    file: "38th_pcaga_2010.pdf"
+    volume: "ga38_2010"
+    pdf_page: 101
+    url: "https://www.pcahistory.org/pca/ga/38th_pcaga_2010.pdf#page=101"
+  - type: "minutes"
+    source_id: "minutes:ga39_2011"
+    label: "Minutes PDF · p. 466"
+    file: "39th_pcaga_2011.pdf"
+    volume: "ga39_2011"
+    pdf_page: 466
+    url: "https://www.pcahistory.org/pca/ga/39th_pcaga_2011.pdf#page=466"
+---
 # Missouri Presbytery — BCO 15-1, RAO 16-3.e.4
 
 *Minutes of commissions not entered into presbytery…*

@@ -1,3 +1,20 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga35_2007"
+    label: "Minutes PDF · p. 196"
+    file: "35th_pcaga_2007.pdf"
+    volume: "ga35_2007"
+    pdf_page: 196
+    url: "https://www.pcahistory.org/pca/ga/35th_pcaga_2007.pdf#page=196"
+  - type: "minutes"
+    source_id: "minutes:ga36_2008"
+    label: "Minutes PDF · p. 241"
+    file: "36th_pcaga_2008.pdf"
+    volume: "ga36_2008"
+    pdf_page: 241
+    url: "https://www.pcahistory.org/pca/ga/36th_pcaga_2008.pdf#page=241"
+---
 # Missouri Presbytery — BCO 13-9.b
 
 *: No annual review of Sessional records for [churches]. BCO 13-9.b. Response :…*

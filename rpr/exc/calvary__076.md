@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga34_2006"
+    label: "Minutes PDF · p. 243"
+    file: "34th_pcaga_2006.pdf"
+    volume: "ga34_2006"
+    pdf_page: 243
+    url: "https://www.pcahistory.org/pca/ga/34th_pcaga_2006.pdf#page=243"
+---
 # Calvary Presbytery — BCO 21-4, RAO 14-3.e.5
 
 *Record lacks required elements of ordination exam, particularly preached…*

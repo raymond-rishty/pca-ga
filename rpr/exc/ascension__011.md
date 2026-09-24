@@ -1,3 +1,20 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga48_2021"
+    label: "Minutes PDF · p. 543"
+    file: "48th_pcaga_2021.pdf"
+    volume: "ga48_2021"
+    pdf_page: 543
+    url: "https://www.pcahistory.org/pca/ga/48th_pcaga_2021.pdf#page=543"
+  - type: "minutes"
+    source_id: "minutes:ga49_2022"
+    label: "Minutes PDF · p. 494"
+    file: "49th_pcaga_2022.pdf"
+    volume: "ga49_2022"
+    pdf_page: 494
+    url: "https://www.pcahistory.org/pca/ga/49th_pcaga_2022.pdf#page=494"
+---
 # Ascension Presbytery — BCO 12-8
 
 *Improperly citing two Sessions with exception of substance as follows:…*

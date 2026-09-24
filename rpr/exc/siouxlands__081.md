@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga50_2023"
+    label: "Minutes PDF · p. 696"
+    file: "50th_pcaga_2023.pdf"
+    volume: "ga50_2023"
+    pdf_page: 696
+    url: "https://www.pcahistory.org/pca/ga/50th_pcaga_2023.pdf#page=696"
+---
 # Siouxlands Presbytery — BCO 19-16
 
 *¾ vote for waiving internship not…*

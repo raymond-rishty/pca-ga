@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga31_2003"
+    label: "Minutes PDF · p. 249"
+    file: "31st_pcaga_2003.pdf"
+    volume: "ga31_2003"
+    pdf_page: 249
+    url: "https://www.pcahistory.org/pca/ga/31st_pcaga_2003.pdf#page=249"
+---
 # Philadelphia Presbytery — BCO 15-1
 
 *8, 2001, November 10, 2001: No record of commission minutes. BCO 15-1; “RAO”…*

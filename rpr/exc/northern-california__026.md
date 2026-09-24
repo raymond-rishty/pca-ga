@@ -1,3 +1,27 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga36_2008"
+    label: "Minutes PDF · p. 253"
+    file: "36th_pcaga_2008.pdf"
+    volume: "ga36_2008"
+    pdf_page: 253
+    url: "https://www.pcahistory.org/pca/ga/36th_pcaga_2008.pdf#page=253"
+  - type: "minutes"
+    source_id: "minutes:ga38_2010"
+    label: "Minutes PDF · p. 107"
+    file: "38th_pcaga_2010.pdf"
+    volume: "ga38_2010"
+    pdf_page: 107
+    url: "https://www.pcahistory.org/pca/ga/38th_pcaga_2010.pdf#page=107"
+  - type: "minutes"
+    source_id: "minutes:ga39_2011"
+    label: "Minutes PDF · p. 472"
+    file: "39th_pcaga_2011.pdf"
+    volume: "ga39_2011"
+    pdf_page: 472
+    url: "https://www.pcahistory.org/pca/ga/39th_pcaga_2011.pdf#page=472"
+---
 # Northern California Presbytery — BCO 5-9, RAO 16-10.b.2)
 
 *: Deacons are commissioned as part of organizing a particular church without…*

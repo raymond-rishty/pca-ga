@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga46_2018"
+    label: "Minutes PDF · p. 451"
+    file: "46th_pcaga_2018.pdf"
+    volume: "ga46_2018"
+    pdf_page: 451
+    url: "https://www.pcahistory.org/pca/ga/46th_pcaga_2018.pdf#page=451"
+---
 # South Florida Presbytery — BCO 18-2, BCO 214
 
 *Stated difference not recorded in the minister’s/candidate’s own words ( RAO…*

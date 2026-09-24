@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga51_2024"
+    label: "Minutes PDF · p. 589"
+    file: "51st_pcaga_2024.pdf"
+    volume: "ga51_2024"
+    pdf_page: 589
+    url: "https://www.pcahistory.org/pca/ga/51st_pcaga_2024.pdf#page=589"
+---
 # Metropolitan New York Presbytery — BCO 21-4.e
 
 *No record that Presbytery followed BCO 21-4.e (as amended at the 50th GA) in…*

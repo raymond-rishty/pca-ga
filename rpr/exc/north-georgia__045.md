@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga35_2007"
+    label: "Minutes PDF · p. 199"
+    file: "35th_pcaga_2007.pdf"
+    volume: "ga35_2007"
+    pdf_page: 199
+    url: "https://www.pcahistory.org/pca/ga/35th_pcaga_2007.pdf#page=199"
+---
 # North Georgia Presbytery — BCO 40-2.4, RAO 166.c.2)
 
 *No record of responses to Presbytery from Sessions to exceptions to their…*

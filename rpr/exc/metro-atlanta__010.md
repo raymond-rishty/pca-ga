@@ -1,3 +1,20 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga36_2008"
+    label: "Minutes PDF · p. 238"
+    file: "36th_pcaga_2008.pdf"
+    volume: "ga36_2008"
+    pdf_page: 238
+    url: "https://www.pcahistory.org/pca/ga/36th_pcaga_2008.pdf#page=238"
+  - type: "minutes"
+    source_id: "minutes:ga37_2009"
+    label: "Minutes PDF · p. 109"
+    file: "37th_pcaga_2009.pdf"
+    volume: "ga37_2009"
+    pdf_page: 109
+    url: "https://www.pcahistory.org/pca/ga/37th_pcaga_2009.pdf#page=109"
+---
 # Metro Atlanta Presbytery — BCO 21-4, RAO 16-3.e.5, RAO 16-6.c.1
 
 *BCO 21-4; RAO 16-3.e.5; RAO 16-6.c.1. Exception(s) to the Westminster Larger…*

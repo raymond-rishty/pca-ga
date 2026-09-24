@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga45_2017"
+    label: "Minutes PDF · p. 391"
+    file: "45th_pcaga_2017.pdf"
+    volume: "ga45_2017"
+    pdf_page: 391
+    url: "https://www.pcahistory.org/pca/ga/45th_pcaga_2017.pdf#page=391"
+---
 # Korean Central Presbytery — BCO 18-2, RAO 16-3.e.5
 
 *– No record of candidate for licensure being asked, or stating, whether he had…*

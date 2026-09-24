@@ -1,3 +1,27 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga31_2003"
+    label: "Minutes PDF · p. 233"
+    file: "31st_pcaga_2003.pdf"
+    volume: "ga31_2003"
+    pdf_page: 233
+    url: "https://www.pcahistory.org/pca/ga/31st_pcaga_2003.pdf#page=233"
+  - type: "minutes"
+    source_id: "minutes:ga32_2004"
+    label: "Minutes PDF · p. 221"
+    file: "32nd_pcaga_2004.pdf"
+    volume: "ga32_2004"
+    pdf_page: 221
+    url: "https://www.pcahistory.org/pca/ga/32nd_pcaga_2004.pdf#page=221"
+  - type: "minutes"
+    source_id: "minutes:ga34_2006"
+    label: "Minutes PDF · p. 271"
+    file: "34th_pcaga_2006.pdf"
+    volume: "ga34_2006"
+    pdf_page: 271
+    url: "https://www.pcahistory.org/pca/ga/34th_pcaga_2006.pdf#page=271"
+---
 # Korean Southern Presbytery — BCO 13-9b, BCO 40-1
 
 *April 10, 2000, October 9, 2000: No record of Presbytery review of sessional…*

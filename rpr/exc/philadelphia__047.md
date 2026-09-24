@@ -1,3 +1,20 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga48_2021"
+    label: "Minutes PDF · p. 622"
+    file: "48th_pcaga_2021.pdf"
+    volume: "ga48_2021"
+    pdf_page: 622
+    url: "https://www.pcahistory.org/pca/ga/48th_pcaga_2021.pdf#page=622"
+  - type: "minutes"
+    source_id: "minutes:ga49_2022"
+    label: "Minutes PDF · p. 609"
+    file: "49th_pcaga_2022.pdf"
+    volume: "ga49_2022"
+    pdf_page: 609
+    url: "https://www.pcahistory.org/pca/ga/49th_pcaga_2022.pdf#page=609"
+---
 # Philadelphia Presbytery — BCO 21-4, RAO 16-3.e.5
 
 *– Candidate examination areas are not indicated – generic “all areas” not…*

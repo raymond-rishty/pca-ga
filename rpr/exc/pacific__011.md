@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga22_1994"
+    label: "Minutes PDF · p. 306"
+    file: "22nd_pcaga_1994.pdf"
+    volume: "ga22_1994"
+    pdf_page: 306
+    url: "https://www.pcahistory.org/pca/ga/22nd_pcaga_1994.pdf#page=306"
+---
 # Pacific Presbytery — exception of substance
 
 *That the CRPR, through its officers, write a letter to Pacific Presbytery more…*

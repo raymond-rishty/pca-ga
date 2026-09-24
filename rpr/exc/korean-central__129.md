@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga51_2024"
+    label: "Minutes PDF · p. 545"
+    file: "51st_pcaga_2024.pdf"
+    volume: "ga51_2024"
+    pdf_page: 545
+    url: "https://www.pcahistory.org/pca/ga/51st_pcaga_2024.pdf#page=545"
+---
 # Korean Central Presbytery — BCO 8-7, RAO 16-3.c.1
 
 *TEs laboring out of bounds with missing information as to how and where they…*

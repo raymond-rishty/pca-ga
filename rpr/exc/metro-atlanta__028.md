@@ -1,3 +1,20 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga40_2012"
+    label: "Minutes PDF · p. 440"
+    file: "40th_pcaga_2012.pdf"
+    volume: "ga40_2012"
+    pdf_page: 440
+    url: "https://www.pcahistory.org/pca/ga/40th_pcaga_2012.pdf#page=440"
+  - type: "minutes"
+    source_id: "minutes:ga41_2013"
+    label: "Minutes PDF · p. 446"
+    file: "41st_pcaga_2013.pdf"
+    volume: "ga41_2013"
+    pdf_page: 446
+    url: "https://www.pcahistory.org/pca/ga/41st_pcaga_2013.pdf#page=446"
+---
 # Metro Atlanta Presbytery — BCO 18-3
 
 *No record of candidate coming under care being examined by presbytery. May 4,…*

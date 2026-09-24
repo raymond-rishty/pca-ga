@@ -1,3 +1,20 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga47_2019"
+    label: "Minutes PDF · p. 456"
+    file: "47th_pcaga_2019.pdf"
+    volume: "ga47_2019"
+    pdf_page: 456
+    url: "https://www.pcahistory.org/pca/ga/47th_pcaga_2019.pdf#page=456"
+  - type: "minutes"
+    source_id: "minutes:ga48_2021"
+    label: "Minutes PDF · p. 553"
+    file: "48th_pcaga_2021.pdf"
+    volume: "ga48_2021"
+    pdf_page: 553
+    url: "https://www.pcahistory.org/pca/ga/48th_pcaga_2021.pdf#page=553"
+---
 # Central Florida Presbytery — RAO 16-3.c.8
 
 *Minutes of March 10, 2018 called meeting approved without a vote to ratify the…*

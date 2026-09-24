@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga21_1993"
+    label: "Minutes PDF · p. 240"
+    file: "21st_pcaga_1993.pdf"
+    volume: "ga21_1993"
+    pdf_page: 240
+    url: "https://www.pcahistory.org/pca/ga/21st_pcaga_1993.pdf#page=240"
+---
 # Mid-America Presbytery — BCO 15-2
 
 *'Commission dismissed RE from service as an elder. The commission has…*

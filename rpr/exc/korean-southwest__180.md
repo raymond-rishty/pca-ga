@@ -1,3 +1,20 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga48_2021"
+    label: "Minutes PDF · p. 592"
+    file: "48th_pcaga_2021.pdf"
+    volume: "ga48_2021"
+    pdf_page: 592
+    url: "https://www.pcahistory.org/pca/ga/48th_pcaga_2021.pdf#page=592"
+  - type: "minutes"
+    source_id: "minutes:ga49_2022"
+    label: "Minutes PDF · p. 566"
+    file: "49th_pcaga_2022.pdf"
+    volume: "ga49_2022"
+    pdf_page: 566
+    url: "https://www.pcahistory.org/pca/ga/49th_pcaga_2022.pdf#page=566"
+---
 # Korean Southwest Presbytery — RAO 16-10.a
 
 *no record in minutes of exceptions taken by GA. There is mention of…*

@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga51_2024"
+    label: "Minutes PDF · p. 534"
+    file: "51st_pcaga_2024.pdf"
+    volume: "ga51_2024"
+    pdf_page: 534
+    url: "https://www.pcahistory.org/pca/ga/51st_pcaga_2024.pdf#page=534"
+---
 # Illiana Presbytery — BCO 21-4
 
 *Use of extraordinary clause for ordination candidate not explained, and 3/4…*

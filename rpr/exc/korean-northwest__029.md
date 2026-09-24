@@ -1,3 +1,20 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga40_2012"
+    label: "Minutes PDF · p. 437"
+    file: "40th_pcaga_2012.pdf"
+    volume: "ga40_2012"
+    pdf_page: 437
+    url: "https://www.pcahistory.org/pca/ga/40th_pcaga_2012.pdf#page=437"
+  - type: "minutes"
+    source_id: "minutes:ga41_2013"
+    label: "Minutes PDF · p. 442"
+    file: "41st_pcaga_2013.pdf"
+    volume: "ga41_2013"
+    pdf_page: 442
+    url: "https://www.pcahistory.org/pca/ga/41st_pcaga_2013.pdf#page=442"
+---
 # Korean Northwest Presbytery — BCO 13-6
 
 *April 13, 2011 ( BCO 13-6) Incomplete record of transfer…*

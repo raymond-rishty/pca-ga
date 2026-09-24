@@ -1,3 +1,27 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga45_2017"
+    label: "Minutes PDF · p. 561"
+    file: "45th_pcaga_2017.pdf"
+    volume: "ga45_2017"
+    pdf_page: 561
+    url: "https://www.pcahistory.org/pca/ga/45th_pcaga_2017.pdf#page=561"
+  - type: "minutes"
+    source_id: "minutes:ga45_2017"
+    label: "Minutes PDF · p. 566"
+    file: "45th_pcaga_2017.pdf"
+    volume: "ga45_2017"
+    pdf_page: 566
+    url: "https://www.pcahistory.org/pca/ga/45th_pcaga_2017.pdf#page=566"
+  - type: "minutes"
+    source_id: "minutes:ga45_2017"
+    label: "Minutes PDF · p. 571"
+    file: "45th_pcaga_2017.pdf"
+    volume: "ga45_2017"
+    pdf_page: 571
+    url: "https://www.pcahistory.org/pca/ga/45th_pcaga_2017.pdf#page=571"
+---
 # RACIAL AND ETHNIC RECONCILIATION
 
 *APPENDIX V INITIAL REPORT OF THE AD INTERIM STUDY COMMITTEE ON RACIAL AND ETHNIC RECONCILIATION*

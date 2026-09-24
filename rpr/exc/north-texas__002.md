@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga19_1991"
+    label: "Minutes PDF · p. 185"
+    file: "19th_pcaga_1991.pdf"
+    volume: "ga19_1991"
+    pdf_page: 185
+    url: "https://www.pcahistory.org/pca/ga/19th_pcaga_1991.pdf#page=185"
+---
 # North Texas Presbytery — exception of substance
 
 *p. 1 Minutes stated they are not official until approved by next stated…*

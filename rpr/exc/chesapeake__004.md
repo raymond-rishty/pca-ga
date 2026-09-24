@@ -1,3 +1,20 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga37_2009"
+    label: "Minutes PDF · p. 86"
+    file: "37th_pcaga_2009.pdf"
+    volume: "ga37_2009"
+    pdf_page: 86
+    url: "https://www.pcahistory.org/pca/ga/37th_pcaga_2009.pdf#page=86"
+  - type: "minutes"
+    source_id: "minutes:ga38_2010"
+    label: "Minutes PDF · p. 80"
+    file: "38th_pcaga_2010.pdf"
+    volume: "ga38_2010"
+    pdf_page: 80
+    url: "https://www.pcahistory.org/pca/ga/38th_pcaga_2010.pdf#page=80"
+---
 # Chesapeake Presbytery — BCO 21-4
 
 *: BCO 21-4 and RAO 16-3.e.5 – Stated differences with our Standards not…*

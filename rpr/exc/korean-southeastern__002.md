@@ -1,3 +1,20 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga23_1995"
+    label: "Minutes PDF · p. 195"
+    file: "23rd_pcaga_1995.pdf"
+    volume: "ga23_1995"
+    pdf_page: 195
+    url: "https://www.pcahistory.org/pca/ga/23rd_pcaga_1995.pdf#page=195"
+  - type: "minutes"
+    source_id: "minutes:ga24_1996"
+    label: "Minutes PDF · p. 253"
+    file: "24th_pcaga_1996.pdf"
+    volume: "ga24_1996"
+    pdf_page: 253
+    url: "https://www.pcahistory.org/pca/ga/24th_pcaga_1996.pdf#page=253"
+---
 # Korean Southeastern Presbytery — BCO 13-8)
 
 *A church was received without examination of REs. (BCO…*

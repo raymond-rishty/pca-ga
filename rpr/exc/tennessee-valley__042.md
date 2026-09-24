@@ -1,3 +1,20 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga35_2007"
+    label: "Minutes PDF · p. 222"
+    file: "35th_pcaga_2007.pdf"
+    volume: "ga35_2007"
+    pdf_page: 222
+    url: "https://www.pcahistory.org/pca/ga/35th_pcaga_2007.pdf#page=222"
+  - type: "minutes"
+    source_id: "minutes:ga36_2008"
+    label: "Minutes PDF · p. 270"
+    file: "36th_pcaga_2008.pdf"
+    volume: "ga36_2008"
+    pdf_page: 270
+    url: "https://www.pcahistory.org/pca/ga/36th_pcaga_2008.pdf#page=270"
+---
 # Tennessee Valley Presbytery — BCO 21-4
 
 *No record of ordinand being asked of exceptions to Westminster Standards. BCO…*

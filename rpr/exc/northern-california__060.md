@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga48_2021"
+    label: "Minutes PDF · p. 608"
+    file: "48th_pcaga_2021.pdf"
+    volume: "ga48_2021"
+    pdf_page: 608
+    url: "https://www.pcahistory.org/pca/ga/48th_pcaga_2021.pdf#page=608"
+---
 # Northern California Presbytery — BCO 21-7n3
 
 *In assistant pastor ordination commission minutes, chairman propounded…*

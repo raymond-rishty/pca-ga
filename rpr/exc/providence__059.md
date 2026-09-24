@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga51_2024"
+    label: "Minutes PDF · p. 631"
+    file: "51st_pcaga_2024.pdf"
+    volume: "ga51_2024"
+    pdf_page: 631
+    url: "https://www.pcahistory.org/pca/ga/51st_pcaga_2024.pdf#page=631"
+---
 # Providence Presbytery — BCO 19-1, RAO 16-3.e.5
 
 *All specific requirements of licensure views exam not recorded for TE from…*

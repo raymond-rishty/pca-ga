@@ -1,3 +1,20 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga31_2003"
+    label: "Minutes PDF · p. 261"
+    file: "31st_pcaga_2003.pdf"
+    volume: "ga31_2003"
+    pdf_page: 261
+    url: "https://www.pcahistory.org/pca/ga/31st_pcaga_2003.pdf#page=261"
+  - type: "minutes"
+    source_id: "minutes:ga33_2005"
+    label: "Minutes PDF · p. 317"
+    file: "33rd_pcaga_2005.pdf"
+    volume: "ga33_2005"
+    pdf_page: 317
+    url: "https://www.pcahistory.org/pca/ga/33rd_pcaga_2005.pdf#page=317"
+---
 # Warrior Presbytery — BCO 21-4.b
 
 *Incomplete record of exam elements. BCO 21-4.b, c; “RAO”…*

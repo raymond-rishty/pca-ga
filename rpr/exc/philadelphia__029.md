@@ -1,3 +1,34 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga38_2010"
+    label: "Minutes PDF · p. 111"
+    file: "38th_pcaga_2010.pdf"
+    volume: "ga38_2010"
+    pdf_page: 111
+    url: "https://www.pcahistory.org/pca/ga/38th_pcaga_2010.pdf#page=111"
+  - type: "minutes"
+    source_id: "minutes:ga39_2011"
+    label: "Minutes PDF · p. 478"
+    file: "39th_pcaga_2011.pdf"
+    volume: "ga39_2011"
+    pdf_page: 478
+    url: "https://www.pcahistory.org/pca/ga/39th_pcaga_2011.pdf#page=478"
+  - type: "minutes"
+    source_id: "minutes:ga40_2012"
+    label: "Minutes PDF · p. 466"
+    file: "40th_pcaga_2012.pdf"
+    volume: "ga40_2012"
+    pdf_page: 466
+    url: "https://www.pcahistory.org/pca/ga/40th_pcaga_2012.pdf#page=466"
+  - type: "minutes"
+    source_id: "minutes:ga42_2014"
+    label: "Minutes PDF · p. 447"
+    file: "42nd_pcaga_2014.pdf"
+    volume: "ga42_2014"
+    pdf_page: 447
+    url: "https://www.pcahistory.org/pca/ga/42nd_pcaga_2014.pdf#page=447"
+---
 # Philadelphia Presbytery — BCO 21-4
 
 *Incomplete record of ordination…*

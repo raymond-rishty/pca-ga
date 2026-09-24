@@ -1,3 +1,27 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga25_1997"
+    label: "Minutes PDF · p. 211"
+    file: "25th_pcaga_1997.pdf"
+    volume: "ga25_1997"
+    pdf_page: 211
+    url: "https://www.pcahistory.org/pca/ga/25th_pcaga_1997.pdf#page=211"
+  - type: "minutes"
+    source_id: "minutes:ga26_1998"
+    label: "Minutes PDF · p. 243"
+    file: "26th_pcaga_1998.pdf"
+    volume: "ga26_1998"
+    pdf_page: 243
+    url: "https://www.pcahistory.org/pca/ga/26th_pcaga_1998.pdf#page=243"
+  - type: "minutes"
+    source_id: "minutes:ga27_1999"
+    label: "Minutes PDF · p. 199"
+    file: "27th_pcaga_1999.pdf"
+    volume: "ga27_1999"
+    pdf_page: 199
+    url: "https://www.pcahistory.org/pca/ga/27th_pcaga_1999.pdf#page=199"
+---
 # Korean Southern Presbytery — exception of substance
 
 *No record that a commission was established to install a TE.…*

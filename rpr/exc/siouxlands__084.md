@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga51_2024"
+    label: "Minutes PDF · p. 649"
+    file: "51st_pcaga_2024.pdf"
+    volume: "ga51_2024"
+    pdf_page: 649
+    url: "https://www.pcahistory.org/pca/ga/51st_pcaga_2024.pdf#page=649"
+---
 # Siouxlands Presbytery — BCO 13-6
 
 *TE was examined for licensure when it appears it was a transfer from another…*

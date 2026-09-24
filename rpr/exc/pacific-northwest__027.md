@@ -1,3 +1,20 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga33_2005"
+    label: "Minutes PDF · p. 304"
+    file: "33rd_pcaga_2005.pdf"
+    volume: "ga33_2005"
+    pdf_page: 304
+    url: "https://www.pcahistory.org/pca/ga/33rd_pcaga_2005.pdf#page=304"
+  - type: "minutes"
+    source_id: "minutes:ga34_2006"
+    label: "Minutes PDF · p. 292"
+    file: "34th_pcaga_2006.pdf"
+    volume: "ga34_2006"
+    pdf_page: 292
+    url: "https://www.pcahistory.org/pca/ga/34th_pcaga_2006.pdf#page=292"
+---
 # Pacific Northwest Presbytery — BCO 21-4
 
 *No record of examination in original languages. BCO…*

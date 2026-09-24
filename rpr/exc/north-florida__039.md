@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga43_2015"
+    label: "Minutes PDF · p. 459"
+    file: "43rd_pcaga_2015.pdf"
+    volume: "ga43_2015"
+    pdf_page: 459
+    url: "https://www.pcahistory.org/pca/ga/43rd_pcaga_2015.pdf#page=459"
+---
 # North Florida Presbytery — RAO 16-3.e.5
 
 *Exam record did not list “all specific requirements and trials for licensure…*

@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga22_1994"
+    label: "Minutes PDF · p. 300"
+    file: "22nd_pcaga_1994.pdf"
+    volume: "ga22_1994"
+    pdf_page: 300
+    url: "https://www.pcahistory.org/pca/ga/22nd_pcaga_1994.pdf#page=300"
+---
 # New River Presbytery — WCF 4-1, BCO 7-2
 
 *The minutes do not give adequate information regarding the examination of a TE…*

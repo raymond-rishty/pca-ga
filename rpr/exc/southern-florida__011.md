@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga30_2002"
+    label: "Minutes PDF · p. 337"
+    file: "30th_pcaga_2002.pdf"
+    volume: "ga30_2002"
+    pdf_page: 337
+    url: "https://www.pcahistory.org/pca/ga/30th_pcaga_2002.pdf#page=337"
+---
 # Southern Florida Presbytery — WCF 11:3
 
 *In view of the candidate’s exception to WCF 11:3, as stated below, which…*

@@ -1,3 +1,27 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga33_2005"
+    label: "Minutes PDF · p. 271"
+    file: "33rd_pcaga_2005.pdf"
+    volume: "ga33_2005"
+    pdf_page: 271
+    url: "https://www.pcahistory.org/pca/ga/33rd_pcaga_2005.pdf#page=271"
+  - type: "minutes"
+    source_id: "minutes:ga34_2006"
+    label: "Minutes PDF · p. 246"
+    file: "34th_pcaga_2006.pdf"
+    volume: "ga34_2006"
+    pdf_page: 246
+    url: "https://www.pcahistory.org/pca/ga/34th_pcaga_2006.pdf#page=246"
+  - type: "minutes"
+    source_id: "minutes:ga35_2007"
+    label: "Minutes PDF · p. 175"
+    file: "35th_pcaga_2007.pdf"
+    volume: "ga35_2007"
+    pdf_page: 175
+    url: "https://www.pcahistory.org/pca/ga/35th_pcaga_2007.pdf#page=175"
+---
 # Central Florida Presbytery — BCO 19-2
 
 *Incomplete record of licensure exam requirements. BCO…*

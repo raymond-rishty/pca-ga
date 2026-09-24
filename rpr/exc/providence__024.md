@@ -1,3 +1,20 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga44_2016"
+    label: "Minutes PDF · p. 442"
+    file: "44th_pcaga_2016.pdf"
+    volume: "ga44_2016"
+    pdf_page: 442
+    url: "https://www.pcahistory.org/pca/ga/44th_pcaga_2016.pdf#page=442"
+  - type: "minutes"
+    source_id: "minutes:ga45_2017"
+    label: "Minutes PDF · p. 412"
+    file: "45th_pcaga_2017.pdf"
+    volume: "ga45_2017"
+    pdf_page: 412
+    url: "https://www.pcahistory.org/pca/ga/45th_pcaga_2017.pdf#page=412"
+---
 # Providence Presbytery — BCO 19-2
 
 *Not all specific requirements for licensure recorded; no indication of…*

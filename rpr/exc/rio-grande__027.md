@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga51_2024"
+    label: "Minutes PDF · p. 637"
+    file: "51st_pcaga_2024.pdf"
+    volume: "ga51_2024"
+    pdf_page: 637
+    url: "https://www.pcahistory.org/pca/ga/51st_pcaga_2024.pdf#page=637"
+---
 # Rio Grande Presbytery — BCO 18-19
 
 *No record of candidate coming under care, licensure or ordination exams, or…*

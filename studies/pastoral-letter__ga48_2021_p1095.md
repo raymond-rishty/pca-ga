@@ -1,3 +1,20 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga48_2021"
+    label: "Minutes PDF · p. 1112"
+    file: "48th_pcaga_2021.pdf"
+    volume: "ga48_2021"
+    pdf_page: 1112
+    url: "https://www.pcahistory.org/pca/ga/48th_pcaga_2021.pdf#page=1112"
+  - type: "minutes"
+    source_id: "minutes:ga48_2021"
+    label: "Minutes PDF · p. 1117"
+    file: "48th_pcaga_2021.pdf"
+    volume: "ga48_2021"
+    pdf_page: 1117
+    url: "https://www.pcahistory.org/pca/ga/48th_pcaga_2021.pdf#page=1117"
+---
 # Pastoral Letter
 
 *Pastoral Letter*

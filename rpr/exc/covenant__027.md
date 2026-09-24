@@ -1,3 +1,20 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga47_2019"
+    label: "Minutes PDF · p. 462"
+    file: "47th_pcaga_2019.pdf"
+    volume: "ga47_2019"
+    pdf_page: 462
+    url: "https://www.pcahistory.org/pca/ga/47th_pcaga_2019.pdf#page=462"
+  - type: "minutes"
+    source_id: "minutes:ga48_2021"
+    label: "Minutes PDF · p. 566"
+    file: "48th_pcaga_2021.pdf"
+    volume: "ga48_2021"
+    pdf_page: 566
+    url: "https://www.pcahistory.org/pca/ga/48th_pcaga_2021.pdf#page=566"
+---
 # Covenant Presbytery — BCO 18-3
 
 *No record of candidates’ examination in experiential religion and motives for…*

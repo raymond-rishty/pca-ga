@@ -1,3 +1,27 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga46_2018"
+    label: "Minutes PDF · p. 429"
+    file: "46th_pcaga_2018.pdf"
+    volume: "ga46_2018"
+    pdf_page: 429
+    url: "https://www.pcahistory.org/pca/ga/46th_pcaga_2018.pdf#page=429"
+  - type: "minutes"
+    source_id: "minutes:ga47_2019"
+    label: "Minutes PDF · p. 485"
+    file: "47th_pcaga_2019.pdf"
+    volume: "ga47_2019"
+    pdf_page: 485
+    url: "https://www.pcahistory.org/pca/ga/47th_pcaga_2019.pdf#page=485"
+  - type: "minutes"
+    source_id: "minutes:ga49_2022"
+    label: "Minutes PDF · p. 571"
+    file: "49th_pcaga_2022.pdf"
+    volume: "ga49_2022"
+    pdf_page: 571
+    url: "https://www.pcahistory.org/pca/ga/49th_pcaga_2022.pdf#page=571"
+---
 # Korean Southwest Orange County Presbytery — BCO 13-1
 
 *- Certificate of Presbytery membership issues to REs. REs are not members of…*

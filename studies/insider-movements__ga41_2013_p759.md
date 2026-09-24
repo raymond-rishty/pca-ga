@@ -1,3 +1,35 @@
+---
+source_links:
+  - type: "dedicated"
+    source_id: "dedicated-pdf:Insider-movements"
+    label: "Dedicated source PDF"
+    file: "Insider-movements.pdf"
+    url: "http://international.sojournchurch.com/wp-content/uploads/2009/06/Insider-movements.pdf"
+  - type: "dedicated"
+    source_id: "dedicated-pdf:SFMAugust2012-3"
+    label: "Dedicated source PDF"
+    file: "SFMAugust2012-3.pdf"
+    url: "http://www.stfrancismagazine.info/ja/images/stories/SFMAugust2012-3.pdf"
+  - type: "dedicated"
+    source_id: "dedicated-pdf:The_Mosque_in_America_A_National_Portrait"
+    label: "Dedicated source PDF"
+    file: "The_Mosque_in_America_A_National_Portrait.pdf"
+    url: "http://www.cair.com/Portals/0/pdf/The_Mosque_in_America_A_National_Portrait.pdf"
+  - type: "minutes"
+    source_id: "minutes:ga41_2013"
+    label: "Minutes PDF · p. 761"
+    file: "41st_pcaga_2013.pdf"
+    volume: "ga41_2013"
+    pdf_page: 761
+    url: "https://www.pcahistory.org/pca/ga/41st_pcaga_2013.pdf#page=761"
+  - type: "minutes"
+    source_id: "minutes:ga41_2013"
+    label: "Minutes PDF · p. 769"
+    file: "41st_pcaga_2013.pdf"
+    volume: "ga41_2013"
+    pdf_page: 769
+    url: "https://www.pcahistory.org/pca/ga/41st_pcaga_2013.pdf#page=769"
+---
 # INSIDER MOVEMENTS — minority report
 
 *M INORITY R EPORT A d interim study committee on insider m OVEMENTS A partial report (P art two of two parts )*

@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga24_1996"
+    label: "Minutes PDF · p. 250"
+    file: "24th_pcaga_1996.pdf"
+    volume: "ga24_1996"
+    pdf_page: 250
+    url: "https://www.pcahistory.org/pca/ga/24th_pcaga_1996.pdf#page=250"
+---
 # James River Presbytery — BCO 18-2
 
 *Church Vocations Committee report shows no evidence of sessional endorsement…*

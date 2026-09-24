@@ -1,3 +1,20 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga46_2018"
+    label: "Minutes PDF · p. 437"
+    file: "46th_pcaga_2018.pdf"
+    volume: "ga46_2018"
+    pdf_page: 437
+    url: "https://www.pcahistory.org/pca/ga/46th_pcaga_2018.pdf#page=437"
+  - type: "minutes"
+    source_id: "minutes:ga47_2019"
+    label: "Minutes PDF · p. 492"
+    file: "47th_pcaga_2019.pdf"
+    volume: "ga47_2019"
+    pdf_page: 492
+    url: "https://www.pcahistory.org/pca/ga/47th_pcaga_2019.pdf#page=492"
+---
 # North Florida Presbytery — BCO 18-3
 
 *Elements of candidate’s exam not…*

@@ -1,3 +1,41 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga39_2011"
+    label: "Minutes PDF · p. 481"
+    file: "39th_pcaga_2011.pdf"
+    volume: "ga39_2011"
+    pdf_page: 481
+    url: "https://www.pcahistory.org/pca/ga/39th_pcaga_2011.pdf#page=481"
+  - type: "minutes"
+    source_id: "minutes:ga40_2012"
+    label: "Minutes PDF · p. 471"
+    file: "40th_pcaga_2012.pdf"
+    volume: "ga40_2012"
+    pdf_page: 471
+    url: "https://www.pcahistory.org/pca/ga/40th_pcaga_2012.pdf#page=471"
+  - type: "minutes"
+    source_id: "minutes:ga41_2013"
+    label: "Minutes PDF · p. 473"
+    file: "41st_pcaga_2013.pdf"
+    volume: "ga41_2013"
+    pdf_page: 473
+    url: "https://www.pcahistory.org/pca/ga/41st_pcaga_2013.pdf#page=473"
+  - type: "minutes"
+    source_id: "minutes:ga41_2013"
+    label: "Minutes PDF · p. 474"
+    file: "41st_pcaga_2013.pdf"
+    volume: "ga41_2013"
+    pdf_page: 474
+    url: "https://www.pcahistory.org/pca/ga/41st_pcaga_2013.pdf#page=474"
+  - type: "minutes"
+    source_id: "minutes:ga42_2014"
+    label: "Minutes PDF · p. 450"
+    file: "42nd_pcaga_2014.pdf"
+    volume: "ga42_2014"
+    pdf_page: 450
+    url: "https://www.pcahistory.org/pca/ga/42nd_pcaga_2014.pdf#page=450"
+---
 # Providence Presbytery — BCO 21-4
 
 *Incomplete record of ordination…*

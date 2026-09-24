@@ -1,3 +1,20 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga34_2006"
+    label: "Minutes PDF · p. 283"
+    file: "34th_pcaga_2006.pdf"
+    volume: "ga34_2006"
+    pdf_page: 283
+    url: "https://www.pcahistory.org/pca/ga/34th_pcaga_2006.pdf#page=283"
+  - type: "minutes"
+    source_id: "minutes:ga35_2007"
+    label: "Minutes PDF · p. 202"
+    file: "35th_pcaga_2007.pdf"
+    volume: "ga35_2007"
+    pdf_page: 202
+    url: "https://www.pcahistory.org/pca/ga/35th_pcaga_2007.pdf#page=202"
+---
 # Northern Illinois Presbytery — BCO 21-4, RAO 14-3.e.5
 
 *Presbytery did not approve or disapprove candidate’s exceptions to the…*

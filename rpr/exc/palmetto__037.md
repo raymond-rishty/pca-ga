@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga48_2021"
+    label: "Minutes PDF · p. 620"
+    file: "48th_pcaga_2021.pdf"
+    volume: "ga48_2021"
+    pdf_page: 620
+    url: "https://www.pcahistory.org/pca/ga/48th_pcaga_2021.pdf#page=620"
+---
 # Palmetto Presbytery — BCO 21-4.f, RAO 16.3.e.5
 
 *No record that candidates in ordination exams were asked to “state the…*

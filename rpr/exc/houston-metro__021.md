@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga43_2015"
+    label: "Minutes PDF · p. 443"
+    file: "43rd_pcaga_2015.pdf"
+    volume: "ga43_2015"
+    pdf_page: 443
+    url: "https://www.pcahistory.org/pca/ga/43rd_pcaga_2015.pdf#page=443"
+---
 # Houston Metro Presbytery — BCO 46-8
 
 *TE divested without censure was not assigned membership in a particular…*

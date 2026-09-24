@@ -1,3 +1,20 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga39_2011"
+    label: "Minutes PDF · p. 478"
+    file: "39th_pcaga_2011.pdf"
+    volume: "ga39_2011"
+    pdf_page: 478
+    url: "https://www.pcahistory.org/pca/ga/39th_pcaga_2011.pdf#page=478"
+  - type: "minutes"
+    source_id: "minutes:ga40_2012"
+    label: "Minutes PDF · p. 468"
+    file: "40th_pcaga_2012.pdf"
+    volume: "ga40_2012"
+    pdf_page: 468
+    url: "https://www.pcahistory.org/pca/ga/40th_pcaga_2012.pdf#page=468"
+---
 # Philadelphia Metro West Presbytery — BCO 13-2
 
 *TE laboring out of bounds without concurrence of presbytery in whose bounds he…*

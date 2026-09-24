@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga14_1986"
+    label: "Minutes PDF · p. 128"
+    file: "14th_pcaga_1986.pdf"
+    volume: "ga14_1986"
+    pdf_page: 128
+    url: "https://www.pcahistory.org/pca/ga/14th_pcaga_1986.pdf#page=128"
+---
 # 1986-07 — William A. Shell v. Great Lakes Presbytery
 
 **Court:** Committee on Judicial Business (CJB)  ·  **Assembly:** 14th (1986)  ·  **Disposition:** Out of order (type not stated)

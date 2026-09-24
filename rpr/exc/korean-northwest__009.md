@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga27_1999"
+    label: "Minutes PDF · p. 198"
+    file: "27th_pcaga_1999.pdf"
+    volume: "ga27_1999"
+    pdf_page: 198
+    url: "https://www.pcahistory.org/pca/ga/27th_pcaga_1999.pdf#page=198"
+---
 # Korean Northwest Presbytery — exception of substance
 
 *No details of all parts of ordination examinations were given (BOC 21-4);…*

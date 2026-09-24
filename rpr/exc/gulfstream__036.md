@@ -1,3 +1,20 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga46_2018"
+    label: "Minutes PDF · p. 401"
+    file: "46th_pcaga_2018.pdf"
+    volume: "ga46_2018"
+    pdf_page: 401
+    url: "https://www.pcahistory.org/pca/ga/46th_pcaga_2018.pdf#page=401"
+  - type: "minutes"
+    source_id: "minutes:ga47_2019"
+    label: "Minutes PDF · p. 465"
+    file: "47th_pcaga_2019.pdf"
+    volume: "ga47_2019"
+    pdf_page: 465
+    url: "https://www.pcahistory.org/pca/ga/47th_pcaga_2019.pdf#page=465"
+---
 # Gulfstream Presbytery — BCO 21-4, RAO 16.3.e.5
 
 *Three examined candidates gave identical, verbatim stated differences. Our…*

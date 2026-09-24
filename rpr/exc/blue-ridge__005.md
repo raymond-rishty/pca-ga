@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga33_2005"
+    label: "Minutes PDF · p. 269"
+    file: "33rd_pcaga_2005.pdf"
+    volume: "ga33_2005"
+    pdf_page: 269
+    url: "https://www.pcahistory.org/pca/ga/33rd_pcaga_2005.pdf#page=269"
+---
 # Blue Ridge Presbytery — BCO 18-2
 
 *No record of sessional endorsement or 6 month membership for candidate. BCO…*

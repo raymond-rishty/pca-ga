@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga42_2014"
+    label: "Minutes PDF · p. 438"
+    file: "42nd_pcaga_2014.pdf"
+    volume: "ga42_2014"
+    pdf_page: 438
+    url: "https://www.pcahistory.org/pca/ga/42nd_pcaga_2014.pdf#page=438"
+---
 # Ohio Presbytery — BCO 13-7
 
 *No record of candidate signing ministerial…*

@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga29_2001"
+    label: "Minutes PDF · p. 348"
+    file: "29th_pcaga_2001.pdf"
+    volume: "ga29_2001"
+    pdf_page: 348
+    url: "https://www.pcahistory.org/pca/ga/29th_pcaga_2001.pdf#page=348"
+---
 # North Georgia Presbytery — BCO 13-6
 
 *Each area of examination should be indicated. BCO…*

@@ -1,3 +1,20 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga01_1973"
+    label: "Minutes PDF · p. 43"
+    file: "1st_pcaga_1973.pdf"
+    volume: "ga01_1973"
+    pdf_page: 43
+    url: "https://www.pcahistory.org/pca/ga/1st_pcaga_1973.pdf#page=43"
+  - type: "minutes"
+    source_id: "minutes:ga01_1973"
+    label: "Minutes PDF · p. 55"
+    file: "1st_pcaga_1973.pdf"
+    volume: "ga01_1973"
+    pdf_page: 55
+    url: "https://www.pcahistory.org/pca/ga/1st_pcaga_1973.pdf#page=55"
+---
 # The Mission and Purpose of the PCA (1973)
 
 *The Mission and Purpose of the PCA (1973)*

@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga43_2015"
+    label: "Minutes PDF · p. 460"
+    file: "43rd_pcaga_2015.pdf"
+    volume: "ga43_2015"
+    pdf_page: 460
+    url: "https://www.pcahistory.org/pca/ga/43rd_pcaga_2015.pdf#page=460"
+---
 # North Texas Presbytery — BCO 21-4, RAO 16-3.e.5
 
 *February 1-2, 2013 ( BCO 21-4; RAO 16-3.e.5) - No record of presbytery ruling…*

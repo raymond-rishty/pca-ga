@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga24_1996"
+    label: "Minutes PDF · p. 252"
+    file: "24th_pcaga_1996.pdf"
+    volume: "ga24_1996"
+    pdf_page: 252
+    url: "https://www.pcahistory.org/pca/ga/24th_pcaga_1996.pdf#page=252"
+---
 # Korean Eastern Presbytery — BCO 13-5)
 
 *November 24, 1992, September 22, 1992, November 23, 1993, April 5, 1994: the…*

@@ -1,3 +1,20 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga42_2014"
+    label: "Minutes PDF · p. 422"
+    file: "42nd_pcaga_2014.pdf"
+    volume: "ga42_2014"
+    pdf_page: 422
+    url: "https://www.pcahistory.org/pca/ga/42nd_pcaga_2014.pdf#page=422"
+  - type: "minutes"
+    source_id: "minutes:ga42_2014"
+    label: "Minutes PDF · p. 423"
+    file: "42nd_pcaga_2014.pdf"
+    volume: "ga42_2014"
+    pdf_page: 423
+    url: "https://www.pcahistory.org/pca/ga/42nd_pcaga_2014.pdf#page=423"
+---
 # Korean Southeastern Presbytery — exception of substance
 
 *No ruling elders included in…*

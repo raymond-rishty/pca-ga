@@ -1,3 +1,34 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga48_2021"
+    label: "Minutes PDF · p. 634"
+    file: "48th_pcaga_2021.pdf"
+    volume: "ga48_2021"
+    pdf_page: 634
+    url: "https://www.pcahistory.org/pca/ga/48th_pcaga_2021.pdf#page=634"
+  - type: "minutes"
+    source_id: "minutes:ga49_2022"
+    label: "Minutes PDF · p. 622"
+    file: "49th_pcaga_2022.pdf"
+    volume: "ga49_2022"
+    pdf_page: 622
+    url: "https://www.pcahistory.org/pca/ga/49th_pcaga_2022.pdf#page=622"
+  - type: "minutes"
+    source_id: "minutes:ga49_2022"
+    label: "Minutes PDF · p. 623"
+    file: "49th_pcaga_2022.pdf"
+    volume: "ga49_2022"
+    pdf_page: 623
+    url: "https://www.pcahistory.org/pca/ga/49th_pcaga_2022.pdf#page=623"
+  - type: "minutes"
+    source_id: "minutes:ga50_2023"
+    label: "Minutes PDF · p. 702"
+    file: "50th_pcaga_2023.pdf"
+    volume: "ga50_2023"
+    pdf_page: 702
+    url: "https://www.pcahistory.org/pca/ga/50th_pcaga_2023.pdf#page=702"
+---
 # South Florida Presbytery — BCO 21-4, RAO 16-3.e.5
 
 *– Differences of three candidates not judged to prescribed…*

@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga50_2023"
+    label: "Minutes PDF · p. 669"
+    file: "50th_pcaga_2023.pdf"
+    volume: "ga50_2023"
+    pdf_page: 669
+    url: "https://www.pcahistory.org/pca/ga/50th_pcaga_2023.pdf#page=669"
+---
 # North Texas Presbytery — BCO 18-3
 
 *No record of candidate exams…*

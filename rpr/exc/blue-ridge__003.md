@@ -1,3 +1,20 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga32_2004"
+    label: "Minutes PDF · p. 208"
+    file: "32nd_pcaga_2004.pdf"
+    volume: "ga32_2004"
+    pdf_page: 208
+    url: "https://www.pcahistory.org/pca/ga/32nd_pcaga_2004.pdf#page=208"
+  - type: "minutes"
+    source_id: "minutes:ga33_2005"
+    label: "Minutes PDF · p. 269"
+    file: "33rd_pcaga_2005.pdf"
+    volume: "ga33_2005"
+    pdf_page: 269
+    url: "https://www.pcahistory.org/pca/ga/33rd_pcaga_2005.pdf#page=269"
+---
 # Blue Ridge Presbytery — BCO 21-1
 
 *no record of approval of call. BCO…*

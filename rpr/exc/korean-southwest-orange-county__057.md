@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga50_2023"
+    label: "Minutes PDF · p. 635"
+    file: "50th_pcaga_2023.pdf"
+    volume: "ga50_2023"
+    pdf_page: 635
+    url: "https://www.pcahistory.org/pca/ga/50th_pcaga_2023.pdf#page=635"
+---
 # Korean Southwest Orange County Presbytery — BCO 13-2
 
 *No evidence of annual reports from many of the TEs who are without…*

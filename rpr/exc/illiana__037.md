@@ -1,3 +1,20 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga39_2011"
+    label: "Minutes PDF · p. 455"
+    file: "39th_pcaga_2011.pdf"
+    volume: "ga39_2011"
+    pdf_page: 455
+    url: "https://www.pcahistory.org/pca/ga/39th_pcaga_2011.pdf#page=455"
+  - type: "minutes"
+    source_id: "minutes:ga40_2012"
+    label: "Minutes PDF · p. 432"
+    file: "40th_pcaga_2012.pdf"
+    volume: "ga40_2012"
+    pdf_page: 432
+    url: "https://www.pcahistory.org/pca/ga/40th_pcaga_2012.pdf#page=432"
+---
 # Illiana Presbytery — RAO 16-3.c.8
 
 *Approved presbytery minutes (October 2009 called meeting) not submitted to RPR…*

@@ -1,3 +1,20 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga37_2009"
+    label: "Minutes PDF · p. 126"
+    file: "37th_pcaga_2009.pdf"
+    volume: "ga37_2009"
+    pdf_page: 126
+    url: "https://www.pcahistory.org/pca/ga/37th_pcaga_2009.pdf#page=126"
+  - type: "minutes"
+    source_id: "minutes:ga38_2010"
+    label: "Minutes PDF · p. 119"
+    file: "38th_pcaga_2010.pdf"
+    volume: "ga38_2010"
+    pdf_page: 119
+    url: "https://www.pcahistory.org/pca/ga/38th_pcaga_2010.pdf#page=119"
+---
 # Susquehanna Valley Presbytery — BCO 21-4.d
 
 *Sermon for ordination exam must be preached “before Presbytery or a committee…*

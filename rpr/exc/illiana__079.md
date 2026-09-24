@@ -1,3 +1,20 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga49_2022"
+    label: "Minutes PDF · p. 545"
+    file: "49th_pcaga_2022.pdf"
+    volume: "ga49_2022"
+    pdf_page: 545
+    url: "https://www.pcahistory.org/pca/ga/49th_pcaga_2022.pdf#page=545"
+  - type: "minutes"
+    source_id: "minutes:ga50_2023"
+    label: "Minutes PDF · p. 599"
+    file: "50th_pcaga_2023.pdf"
+    volume: "ga50_2023"
+    pdf_page: 599
+    url: "https://www.pcahistory.org/pca/ga/50th_pcaga_2023.pdf#page=599"
+---
 # Illiana Presbytery — BCO 5-3
 
 *No record of temporary system of government appointed for mission…*

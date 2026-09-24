@@ -1,3 +1,34 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga41_2013"
+    label: "Minutes PDF · p. 464"
+    file: "41st_pcaga_2013.pdf"
+    volume: "ga41_2013"
+    pdf_page: 464
+    url: "https://www.pcahistory.org/pca/ga/41st_pcaga_2013.pdf#page=464"
+  - type: "minutes"
+    source_id: "minutes:ga41_2013"
+    label: "Minutes PDF · p. 465"
+    file: "41st_pcaga_2013.pdf"
+    volume: "ga41_2013"
+    pdf_page: 465
+    url: "https://www.pcahistory.org/pca/ga/41st_pcaga_2013.pdf#page=465"
+  - type: "minutes"
+    source_id: "minutes:ga42_2014"
+    label: "Minutes PDF · p. 443"
+    file: "42nd_pcaga_2014.pdf"
+    volume: "ga42_2014"
+    pdf_page: 443
+    url: "https://www.pcahistory.org/pca/ga/42nd_pcaga_2014.pdf#page=443"
+  - type: "minutes"
+    source_id: "minutes:ga42_2014"
+    label: "Minutes PDF · p. 444"
+    file: "42nd_pcaga_2014.pdf"
+    volume: "ga42_2014"
+    pdf_page: 444
+    url: "https://www.pcahistory.org/pca/ga/42nd_pcaga_2014.pdf#page=444"
+---
 # Pacific Northwest Presbytery — BCO 21-4.e
 
 *Presbytery granted an exception which appears to be out of accord “that is,…*

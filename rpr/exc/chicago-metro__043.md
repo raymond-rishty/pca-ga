@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga50_2023"
+    label: "Minutes PDF · p. 539"
+    file: "50th_pcaga_2023.pdf"
+    volume: "ga50_2023"
+    pdf_page: 539
+    url: "https://www.pcahistory.org/pca/ga/50th_pcaga_2023.pdf#page=539"
+---
 # Chicago Metro Presbytery — BCO 18-2
 
 *Use of extraordinary clause for individual taken under care not…*

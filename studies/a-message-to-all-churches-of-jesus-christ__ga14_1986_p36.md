@@ -1,3 +1,20 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga14_1986"
+    label: "Minutes PDF · p. 38"
+    file: "14th_pcaga_1986.pdf"
+    volume: "ga14_1986"
+    pdf_page: 38
+    url: "https://www.pcahistory.org/pca/ga/14th_pcaga_1986.pdf#page=38"
+  - type: "minutes"
+    source_id: "minutes:ga14_1986"
+    label: "Minutes PDF · p. 40"
+    file: "14th_pcaga_1986.pdf"
+    volume: "ga14_1986"
+    pdf_page: 40
+    url: "https://www.pcahistory.org/pca/ga/14th_pcaga_1986.pdf#page=40"
+---
 # A MESSAGE TO ALL CHURCHES OF JESUS CHRIST
 
 *A MESSAGE TO ALL CHURCHES OF JESUS CHRIST*

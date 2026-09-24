@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga32_2004"
+    label: "Minutes PDF · p. 212"
+    file: "32nd_pcaga_2004.pdf"
+    volume: "ga32_2004"
+    pdf_page: 212
+    url: "https://www.pcahistory.org/pca/ga/32nd_pcaga_2004.pdf#page=212"
+---
 # Fellowship Presbytery — BCO 21-4, RAO 14-3.e.5
 
 *No record that examination for ordination included question if views had…*

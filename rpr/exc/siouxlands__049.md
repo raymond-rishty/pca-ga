@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga32_2004"
+    label: "Minutes PDF · p. 236"
+    file: "32nd_pcaga_2004.pdf"
+    volume: "ga32_2004"
+    pdf_page: 236
+    url: "https://www.pcahistory.org/pca/ga/32nd_pcaga_2004.pdf#page=236"
+---
 # Siouxlands Presbytery — BCO 46-8
 
 *No record of divested TE being assigned to some particular church. BCO…*

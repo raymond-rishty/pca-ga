@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga49_2022"
+    label: "Minutes PDF · p. 499"
+    file: "49th_pcaga_2022.pdf"
+    volume: "ga49_2022"
+    pdf_page: 499
+    url: "https://www.pcahistory.org/pca/ga/49th_pcaga_2022.pdf#page=499"
+---
 # Calvary Presbytery — BCO 34-8
 
 *No record of ¾ vote of presbytery to remove censure of…*

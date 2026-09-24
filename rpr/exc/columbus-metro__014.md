@@ -1,3 +1,27 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga48_2021"
+    label: "Minutes PDF · p. 560"
+    file: "48th_pcaga_2021.pdf"
+    volume: "ga48_2021"
+    pdf_page: 560
+    url: "https://www.pcahistory.org/pca/ga/48th_pcaga_2021.pdf#page=560"
+  - type: "minutes"
+    source_id: "minutes:ga49_2022"
+    label: "Minutes PDF · p. 516"
+    file: "49th_pcaga_2022.pdf"
+    volume: "ga49_2022"
+    pdf_page: 516
+    url: "https://www.pcahistory.org/pca/ga/49th_pcaga_2022.pdf#page=516"
+  - type: "minutes"
+    source_id: "minutes:ga50_2023"
+    label: "Minutes PDF · p. 542"
+    file: "50th_pcaga_2023.pdf"
+    volume: "ga50_2023"
+    pdf_page: 542
+    url: "https://www.pcahistory.org/pca/ga/50th_pcaga_2023.pdf#page=542"
+---
 # Columbus Metro Presbytery — BCO 38-2
 
 *BCO 38-2 requires two meetings. The presbytery acted at the first meeting…*

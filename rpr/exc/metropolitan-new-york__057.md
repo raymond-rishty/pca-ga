@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga48_2021"
+    label: "Minutes PDF · p. 603"
+    file: "48th_pcaga_2021.pdf"
+    volume: "ga48_2021"
+    pdf_page: 603
+    url: "https://www.pcahistory.org/pca/ga/48th_pcaga_2021.pdf#page=603"
+---
 # Metropolitan New York Presbytery — BCO 21-4.e, BCO 34-5
 
 *( BCO 21-4.e, f; BCO 34-5; Preliminary Principle 1, 7; WCF 20-2) – Presbytery…*

@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga33_2005"
+    label: "Minutes PDF · p. 293"
+    file: "33rd_pcaga_2005.pdf"
+    volume: "ga33_2005"
+    pdf_page: 293
+    url: "https://www.pcahistory.org/pca/ga/33rd_pcaga_2005.pdf#page=293"
+---
 # Missouri Presbytery — BCO 21-4
 
 *No record of examination in languages nor seminary degree in lieu of, nor exam…*

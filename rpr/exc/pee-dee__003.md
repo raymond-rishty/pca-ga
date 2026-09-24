@@ -1,3 +1,20 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga45_2017"
+    label: "Minutes PDF · p. 408"
+    file: "45th_pcaga_2017.pdf"
+    volume: "ga45_2017"
+    pdf_page: 408
+    url: "https://www.pcahistory.org/pca/ga/45th_pcaga_2017.pdf#page=408"
+  - type: "minutes"
+    source_id: "minutes:ga46_2018"
+    label: "Minutes PDF · p. 445"
+    file: "46th_pcaga_2018.pdf"
+    volume: "ga46_2018"
+    pdf_page: 445
+    url: "https://www.pcahistory.org/pca/ga/46th_pcaga_2018.pdf#page=445"
+---
 # Pee Dee Presbytery — BCO 21-4
 
 *No record of requiring statement of differences with standards [p.…*

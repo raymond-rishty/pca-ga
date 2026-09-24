@@ -1,3 +1,27 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga36_2008"
+    label: "Minutes PDF · p. 215"
+    file: "36th_pcaga_2008.pdf"
+    volume: "ga36_2008"
+    pdf_page: 215
+    url: "https://www.pcahistory.org/pca/ga/36th_pcaga_2008.pdf#page=215"
+  - type: "minutes"
+    source_id: "minutes:ga37_2009"
+    label: "Minutes PDF · p. 83"
+    file: "37th_pcaga_2009.pdf"
+    volume: "ga37_2009"
+    pdf_page: 83
+    url: "https://www.pcahistory.org/pca/ga/37th_pcaga_2009.pdf#page=83"
+  - type: "minutes"
+    source_id: "minutes:ga38_2010"
+    label: "Minutes PDF · p. 78"
+    file: "38th_pcaga_2010.pdf"
+    volume: "ga38_2010"
+    pdf_page: 78
+    url: "https://www.pcahistory.org/pca/ga/38th_pcaga_2010.pdf#page=78"
+---
 # Calvary Presbytery — BCO 21-4, RAO 16-3.e.5
 
 *October 25, 2007 : BCO 21-4; RAO 16-3.e.5. No response to candidate’s stated…*

@@ -1,3 +1,34 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga37_2009"
+    label: "Minutes PDF · p. 102"
+    file: "37th_pcaga_2009.pdf"
+    volume: "ga37_2009"
+    pdf_page: 102
+    url: "https://www.pcahistory.org/pca/ga/37th_pcaga_2009.pdf#page=102"
+  - type: "minutes"
+    source_id: "minutes:ga38_2010"
+    label: "Minutes PDF · p. 92"
+    file: "38th_pcaga_2010.pdf"
+    volume: "ga38_2010"
+    pdf_page: 92
+    url: "https://www.pcahistory.org/pca/ga/38th_pcaga_2010.pdf#page=92"
+  - type: "minutes"
+    source_id: "minutes:ga39_2011"
+    label: "Minutes PDF · p. 457"
+    file: "39th_pcaga_2011.pdf"
+    volume: "ga39_2011"
+    pdf_page: 457
+    url: "https://www.pcahistory.org/pca/ga/39th_pcaga_2011.pdf#page=457"
+  - type: "minutes"
+    source_id: "minutes:ga40_2012"
+    label: "Minutes PDF · p. 434"
+    file: "40th_pcaga_2012.pdf"
+    volume: "ga40_2012"
+    pdf_page: 434
+    url: "https://www.pcahistory.org/pca/ga/40th_pcaga_2012.pdf#page=434"
+---
 # Korean Capital Presbytery — BCO 13-7
 
 *Ministerial obligation not shown to be…*

@@ -1,3 +1,20 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga38_2010"
+    label: "Minutes PDF · p. 101"
+    file: "38th_pcaga_2010.pdf"
+    volume: "ga38_2010"
+    pdf_page: 101
+    url: "https://www.pcahistory.org/pca/ga/38th_pcaga_2010.pdf#page=101"
+  - type: "minutes"
+    source_id: "minutes:ga39_2011"
+    label: "Minutes PDF · p. 464"
+    file: "39th_pcaga_2011.pdf"
+    volume: "ga39_2011"
+    pdf_page: 464
+    url: "https://www.pcahistory.org/pca/ga/39th_pcaga_2011.pdf#page=464"
+---
 # Mississippi Valley Presbytery — BCO 19-16
 
 *: BCO 19-16 – No record of ¾ vote to approve previous experience for…*

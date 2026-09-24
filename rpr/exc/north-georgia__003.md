@@ -1,3 +1,20 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga20_1992"
+    label: "Minutes PDF · p. 250"
+    file: "20th_pcaga_1992.pdf"
+    volume: "ga20_1992"
+    pdf_page: 250
+    url: "https://www.pcahistory.org/pca/ga/20th_pcaga_1992.pdf#page=250"
+  - type: "minutes"
+    source_id: "minutes:ga21_1993"
+    label: "Minutes PDF · p. 246"
+    file: "21st_pcaga_1993.pdf"
+    volume: "ga21_1993"
+    pdf_page: 246
+    url: "https://www.pcahistory.org/pca/ga/21st_pcaga_1993.pdf#page=246"
+---
 # North Georgia Presbytery — BCO § 15-1), BCO § 15-2
 
 *Paragraph 4 There is no report of the commission in the minutes of the…*

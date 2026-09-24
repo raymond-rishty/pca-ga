@@ -16,6 +16,7 @@ Usage: 35_search_index.py [ROOT]   (default /workspace)
 from __future__ import annotations
 import json, os, re, sys
 from glob import glob
+from pathlib import Path
 
 ROOT = sys.argv[1] if len(sys.argv) > 1 else "/workspace"
 IDX = os.path.join(ROOT, "index")
@@ -43,101 +44,19 @@ _CASE_PAGE = re.compile(r"\.\./cases/([^)]+\.md)")
 
 
 def parse_overture_catalogue():
-    """Parse index/OVERTURES.md when the structured overture artifacts are unavailable."""
-    p = os.path.join(IDX, "OVERTURES.md")
-    if not os.path.exists(p):
-        return []
-    out, year = [], None
-    for line in open(p, encoding="utf-8"):
-        h = _HEAD.match(line)
-        if h:
-            year = int(h.group(1))
-            continue
-        if not line.startswith("| "):
-            continue
-        cells = [c.strip() for c in line.strip().strip("|").split("|")]
-        number_cell = cells[0] if cells else ""
-        number_match = re.search(r"\[(\d+)\]", number_cell)
-        number = number_match.group(1) if number_match else number_cell
-        number = number if number.isdigit() else None
-        if len(cells) < 5 or not number:   # skip header/separator/malformed
-            continue
-        num, subject, outcome, source, pages = number, cells[1], cells[2], cells[3], cells[4]
-        if not subject:
-            continue
-        m = _LINK.search(pages)
-        url = m.group(1) if m else "index/OVERTURES.md"
-        out.append({"type": "Overture", "title": subject,
-                    "sub": f"Overture {num}" + (f" · {source}" if source else ""),
-                    "identifier": f"Overture {int(num)}",
-                    "identifiers": [f"Overture {int(num)}"],
-                    "topics": [subject],
-                    "provisions": sorted({m.split()[-1] for m in _PROV.findall(subject)}),
-                    "year": year, "disposition": outcome, "url": url})
-    return out
+    """Legacy name retained for callers; projection lives in one shared helper."""
+    from overture_catalogue import search_rows
+    return search_rows(Path(ROOT) / "index")
 
 
 def curated_overtures():
-    """Build the complete overture search set from page-keyed curated artifacts.
-
-    OVERTURES.md is currently derived from OCR heading detection and can omit records when a
-    heading is missed. The disposition, title, and body artifacts preserve the pre-render
-    occurrence set and exact Minutes page, so they are the authoritative search-index input.
-    """
-    dispositions = load_jsonl("overture_dispositions.jsonl")
-    titles = load_jsonl("overture_titles.jsonl")
-    bodies = load_jsonl("overture_bodies.jsonl")
-    if not dispositions or not titles or not bodies:
-        return []
-
-    def occurrence_key(record):
-        return (record.get("vol"), str(record.get("number")), record.get("pdf_page"))
-
-    title_by_occurrence = {
-        occurrence_key(record): (record.get("title") or "").strip()
-        for record in titles
-    }
-    source_by_occurrence = {
-        occurrence_key(record): (record.get("source") or "").strip()
-        for record in bodies
-    }
-
-    def sort_key(record):
-        volume = str(record.get("vol") or "")
-        assembly = re.match(r"ga(\d+)", volume)
-        return (int(assembly.group(1)) if assembly else 999,
-                int(record.get("number") or 0), int(record.get("pdf_page") or 0))
-
-    out = []
-    for record in sorted(dispositions, key=sort_key):
-        key = occurrence_key(record)
-        title = title_by_occurrence.get(key, "")
-        if not title:
-            continue
-        volume = str(record.get("vol") or "")
-        volume_match = re.match(r"ga\d+_(\d{4})$", volume)
-        year = int(volume_match.group(1)) if volume_match else None
-        number = int(record["number"])
-        page = record.get("pdf_page")
-        source = source_by_occurrence.get(key, "")
-        url = f"markdown/{volume}.md"
-        if page:
-            url += f"#{volume.split('_')[0]}-p{page}"
-        provisions = {f"BCO {value}" for value in (record.get("bco") or []) if value}
-        provisions.update(match.upper() for match in _PROV.findall(title))
-        out.append({"type": "Overture", "title": title,
-                    "sub": f"Overture {number}" + (f" · {source}" if source else ""),
-                    "identifier": f"Overture {number}",
-                    "identifiers": [f"Overture {number}"],
-                    "topics": [title], "provisions": sorted(provisions),
-                    "year": year,
-                    "disposition": record.get("final_disposition") or record.get("disposition") or "",
-                    "url": url})
-    return out
+    """Legacy name retained for callers; projection lives in one shared helper."""
+    from overture_catalogue import search_rows
+    return search_rows(Path(ROOT) / "index")
 
 
 def overture_records():
-    """Prefer complete curated metadata, retaining the Markdown catalogue as a portable fallback."""
+    """Use the same page-keyed overture projection as the provision catalogue."""
     return curated_overtures() or parse_overture_catalogue()
 
 
@@ -335,20 +254,29 @@ def main():
                      "url": f"studies/{r['file']}"})
 
     os.makedirs(APP, exist_ok=True)
-    json.dump(rows, open(os.path.join(APP, "search_index.json"), "w"), ensure_ascii=False,
-              separators=(",", ":"))
+    with open(os.path.join(APP, "search_index.json"), "w", encoding="utf-8") as output:
+        json.dump(rows, output, ensure_ascii=False, separators=(",", ":"))
     for path in glob(os.path.join(APP, "case_summaries_*.json")):
         os.remove(path)
     summary_items = sorted(case_summaries.items())
     for part, offset in enumerate(range(0, len(summary_items), CASE_SUMMARY_CHUNK_SIZE), start=1):
         summary_chunk = dict(summary_items[offset:offset + CASE_SUMMARY_CHUNK_SIZE])
-        json.dump(summary_chunk, open(os.path.join(APP, f"case_summaries_{part}.json"), "w"),
-                  ensure_ascii=False, separators=(",", ":"))
+        with open(os.path.join(APP, f"case_summaries_{part}.json"), "w", encoding="utf-8") as output:
+            json.dump(summary_chunk, output, ensure_ascii=False, separators=(",", ":"))
+    from provision_catalogue import load_catalogue, provision_search_rows
+    catalogue_path = os.path.join(IDX, "provision_catalogue.json")
+    provision_rows = []
+    if os.path.exists(catalogue_path):
+        catalogue = load_catalogue(Path(catalogue_path))
+        provision_rows = provision_search_rows(catalogue)
+    with open(os.path.join(APP, "provision_search.json"), "w", encoding="utf-8") as output:
+        json.dump(provision_rows, output, ensure_ascii=False, separators=(",", ":"))
     sz = os.path.getsize(os.path.join(APP, "search_index.json"))
     import collections
     by = collections.Counter(r["type"] for r in rows)
     print(f"[{ROOT}] app/search_index.json: {len(rows)} records {dict(by)} ({sz // 1024}KB); "
-          f"{len(case_summaries)} case summaries in {part if case_summaries else 0} chunks")
+          f"{len(case_summaries)} case summaries in {part if case_summaries else 0} chunks; "
+          f"{len(provision_rows)} provision search rows")
 
 
 if __name__ == "__main__":

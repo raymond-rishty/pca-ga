@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga21_1993"
+    label: "Minutes PDF · p. 250"
+    file: "21st_pcaga_1993.pdf"
+    volume: "ga21_1993"
+    pdf_page: 250
+    url: "https://www.pcahistory.org/pca/ga/21st_pcaga_1993.pdf#page=250"
+---
 # Siouxlands Presbytery — BCO § 15-2, BCO § 19-3
 
 *p. 2, # 18: The judicial commission's judgment was approved and indicated to…*

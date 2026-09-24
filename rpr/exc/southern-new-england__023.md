@@ -1,3 +1,20 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga37_2009"
+    label: "Minutes PDF · p. 124"
+    file: "37th_pcaga_2009.pdf"
+    volume: "ga37_2009"
+    pdf_page: 124
+    url: "https://www.pcahistory.org/pca/ga/37th_pcaga_2009.pdf#page=124"
+  - type: "minutes"
+    source_id: "minutes:ga38_2010"
+    label: "Minutes PDF · p. 118"
+    file: "38th_pcaga_2010.pdf"
+    volume: "ga38_2010"
+    pdf_page: 118
+    url: "https://www.pcahistory.org/pca/ga/38th_pcaga_2010.pdf#page=118"
+---
 # Southern New England Presbytery — BCO 13-6
 
 *Unclear that candidate transferring from another denomination was examined in…*

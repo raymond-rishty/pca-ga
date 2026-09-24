@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga22_1994"
+    label: "Minutes PDF · p. 308"
+    file: "22nd_pcaga_1994.pdf"
+    volume: "ga22_1994"
+    pdf_page: 308
+    url: "https://www.pcahistory.org/pca/ga/22nd_pcaga_1994.pdf#page=308"
+---
 # Pittsburgh Presbytery — RAO 14-10.d.2)
 
 *p.83: The purpose of the Called Meeting is not stated (RAO 14-10.d.2). d. No…*

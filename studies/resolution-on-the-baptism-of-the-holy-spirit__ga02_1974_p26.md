@@ -1,3 +1,20 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga02_1974"
+    label: "Minutes PDF · p. 28"
+    file: "2nd_pcaga_1974.pdf"
+    volume: "ga02_1974"
+    pdf_page: 28
+    url: "https://www.pcahistory.org/pca/ga/2nd_pcaga_1974.pdf#page=28"
+  - type: "minutes"
+    source_id: "minutes:ga02_1974"
+    label: "Minutes PDF · p. 38"
+    file: "2nd_pcaga_1974.pdf"
+    volume: "ga02_1974"
+    pdf_page: 38
+    url: "https://www.pcahistory.org/pca/ga/2nd_pcaga_1974.pdf#page=38"
+---
 # RESOLUTION ON THE BAPTISM OF THE HOLY SPIRIT
 
 *RESOLUTION ON THE BAPTISM OF THE HOLY SPIRIT*

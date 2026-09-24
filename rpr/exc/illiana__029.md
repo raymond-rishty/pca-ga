@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga34_2006"
+    label: "Minutes PDF · p. 258"
+    file: "34th_pcaga_2006.pdf"
+    volume: "ga34_2006"
+    pdf_page: 258
+    url: "https://www.pcahistory.org/pca/ga/34th_pcaga_2006.pdf#page=258"
+---
 # Illiana Presbytery — RAO 14-3.c.1
 
 *No record of purpose for called meeting. RAO…*

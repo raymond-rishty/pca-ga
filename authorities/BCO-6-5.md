@@ -8,10 +8,17 @@
 |------|------|-------|-------------|
 | 2024 | Judicial case | [Psiaki v. Pacific Northwest Presbytery](../cases/ga51_2024__2023-11.md) | sustained |
 
+## Medium authority
+
+| Year | Type | Title | Disposition |
+|------|------|-------|-------------|
+| 2022 | CCB advice | [20-3](../inquiries/ga49_2022__ci23.md) | internally inconsistent and vague, in conflict; Adopted by the CCB |
+
 ## Low-but-important
 
 | Year | Type | Title | Disposition |
 |------|------|-------|-------------|
+| 1984 | Overture | [Amend BCO 6-5, 20-3, 24-3, and 25-1 to Allow Congregations to Set a Minimum Voting Age](../markdown/ga12_1984.md#ga12-p61) |  |
 | 2022 | Overture | [Amend BCO 6-5, 20-3, 24-3, and 25-1 Allowing Congregations to Establish Voting Age Restrictions](../markdown/ga49_2022.md#ga49-p1362) |  |
 
 ---

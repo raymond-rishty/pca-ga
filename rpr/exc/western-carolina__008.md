@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga25_1997"
+    label: "Minutes PDF · p. 222"
+    file: "25th_pcaga_1997.pdf"
+    volume: "ga25_1997"
+    pdf_page: 222
+    url: "https://www.pcahistory.org/pca/ga/25th_pcaga_1997.pdf#page=222"
+---
 # Western Carolina Presbytery — BCO 13-9d
 
 *The Moderator in consultation with the Stated Clerk may appoint a temporary…*

@@ -1,3 +1,20 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga28_2000"
+    label: "Minutes PDF · p. 344"
+    file: "28th_pcaga_2000.pdf"
+    volume: "ga28_2000"
+    pdf_page: 344
+    url: "https://www.pcahistory.org/pca/ga/28th_pcaga_2000.pdf#page=344"
+  - type: "minutes"
+    source_id: "minutes:ga29_2001"
+    label: "Minutes PDF · p. 356"
+    file: "29th_pcaga_2001.pdf"
+    volume: "ga29_2001"
+    pdf_page: 356
+    url: "https://www.pcahistory.org/pca/ga/29th_pcaga_2001.pdf#page=356"
+---
 # Tennessee Valley Presbytery — BCO 20-11
 
 *Presbytery granted a TE permission to continue laboring out of bounds as a…*

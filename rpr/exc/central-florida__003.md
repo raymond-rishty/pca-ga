@@ -1,3 +1,20 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga18_1990"
+    label: "Minutes PDF · p. 179"
+    file: "18th_pcaga_1990.pdf"
+    volume: "ga18_1990"
+    pdf_page: 179
+    url: "https://www.pcahistory.org/pca/ga/18th_pcaga_1990.pdf#page=179"
+  - type: "minutes"
+    source_id: "minutes:ga26_1998"
+    label: "Minutes PDF · p. 237"
+    file: "26th_pcaga_1998.pdf"
+    volume: "ga26_1998"
+    pdf_page: 237
+    url: "https://www.pcahistory.org/pca/ga/26th_pcaga_1998.pdf#page=237"
+---
 # Central Florida Presbytery — BCO 21-4)
 
 *Page 4, 44-10.B: Education credentials/internship: approval of internship…*

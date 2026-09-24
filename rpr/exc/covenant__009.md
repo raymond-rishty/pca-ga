@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga22_1994"
+    label: "Minutes PDF · p. 285"
+    file: "22nd_pcaga_1994.pdf"
+    volume: "ga22_1994"
+    pdf_page: 285
+    url: "https://www.pcahistory.org/pca/ga/22nd_pcaga_1994.pdf#page=285"
+---
 # Covenant Presbytery — BCO 21-4
 
 *p. 8: Presbytery cannot divide to hear ordination sermons (BCO…*

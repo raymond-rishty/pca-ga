@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga31_2003"
+    label: "Minutes PDF · p. 237"
+    file: "31st_pcaga_2003.pdf"
+    volume: "ga31_2003"
+    pdf_page: 237
+    url: "https://www.pcahistory.org/pca/ga/31st_pcaga_2003.pdf#page=237"
+---
 # Metropolitan New York Presbytery — exception of substance
 
 *: Man approved for ordination who takes the following exceptions (among…*

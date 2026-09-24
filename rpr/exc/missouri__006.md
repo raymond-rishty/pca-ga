@@ -1,3 +1,20 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga22_1994"
+    label: "Minutes PDF · p. 297"
+    file: "22nd_pcaga_1994.pdf"
+    volume: "ga22_1994"
+    pdf_page: 297
+    url: "https://www.pcahistory.org/pca/ga/22nd_pcaga_1994.pdf#page=297"
+  - type: "minutes"
+    source_id: "minutes:ga24_1996"
+    label: "Minutes PDF · p. 256"
+    file: "24th_pcaga_1996.pdf"
+    volume: "ga24_1996"
+    pdf_page: 256
+    url: "https://www.pcahistory.org/pca/ga/24th_pcaga_1996.pdf#page=256"
+---
 # Missouri Presbytery — BCO 15-1)
 
 *No indication of approval of Commission minutes. (July 20, December 24,…*

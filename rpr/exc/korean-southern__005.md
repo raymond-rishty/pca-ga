@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga24_1996"
+    label: "Minutes PDF · p. 255"
+    file: "24th_pcaga_1996.pdf"
+    volume: "ga24_1996"
+    pdf_page: 255
+    url: "https://www.pcahistory.org/pca/ga/24th_pcaga_1996.pdf#page=255"
+---
 # Korean Southern Presbytery — BCO 34
 
 *In a discipline case it is not clear that BCO 34 was…*

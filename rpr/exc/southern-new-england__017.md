@@ -1,3 +1,20 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga35_2007"
+    label: "Minutes PDF · p. 219"
+    file: "35th_pcaga_2007.pdf"
+    volume: "ga35_2007"
+    pdf_page: 219
+    url: "https://www.pcahistory.org/pca/ga/35th_pcaga_2007.pdf#page=219"
+  - type: "minutes"
+    source_id: "minutes:ga36_2008"
+    label: "Minutes PDF · p. 267"
+    file: "36th_pcaga_2008.pdf"
+    volume: "ga36_2008"
+    pdf_page: 267
+    url: "https://www.pcahistory.org/pca/ga/36th_pcaga_2008.pdf#page=267"
+---
 # Southern New England Presbytery — BCO 20-1
 
 *Call to particular ministry not included. BCO…*

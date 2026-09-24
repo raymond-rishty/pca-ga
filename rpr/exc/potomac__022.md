@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga52_2025"
+    label: "Minutes PDF · p. 691"
+    file: "52nd_pcaga_2025.pdf"
+    volume: "ga52_2025"
+    pdf_page: 691
+    url: "https://www.pcahistory.org/pca/ga/52nd_pcaga_2025.pdf#page=691"
+---
 # Potomac Presbytery — BCO 23-1
 
 *no record of a congregational votes (for pastors) nor session vote (for…*

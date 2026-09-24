@@ -1,3 +1,20 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga33_2005"
+    label: "Minutes PDF · p. 277"
+    file: "33rd_pcaga_2005.pdf"
+    volume: "ga33_2005"
+    pdf_page: 277
+    url: "https://www.pcahistory.org/pca/ga/33rd_pcaga_2005.pdf#page=277"
+  - type: "minutes"
+    source_id: "minutes:ga34_2006"
+    label: "Minutes PDF · p. 256"
+    file: "34th_pcaga_2006.pdf"
+    volume: "ga34_2006"
+    pdf_page: 256
+    url: "https://www.pcahistory.org/pca/ga/34th_pcaga_2006.pdf#page=256"
+---
 # Heritage Presbytery — BCO 15-1ff
 
 *Presbytery appointed TE from another presbytery to serve on a commission. BCO…*

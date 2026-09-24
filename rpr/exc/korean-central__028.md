@@ -1,3 +1,83 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga35_2007"
+    label: "Minutes PDF · p. 192"
+    file: "35th_pcaga_2007.pdf"
+    volume: "ga35_2007"
+    pdf_page: 192
+    url: "https://www.pcahistory.org/pca/ga/35th_pcaga_2007.pdf#page=192"
+  - type: "minutes"
+    source_id: "minutes:ga36_2008"
+    label: "Minutes PDF · p. 234"
+    file: "36th_pcaga_2008.pdf"
+    volume: "ga36_2008"
+    pdf_page: 234
+    url: "https://www.pcahistory.org/pca/ga/36th_pcaga_2008.pdf#page=234"
+  - type: "minutes"
+    source_id: "minutes:ga37_2009"
+    label: "Minutes PDF · p. 103"
+    file: "37th_pcaga_2009.pdf"
+    volume: "ga37_2009"
+    pdf_page: 103
+    url: "https://www.pcahistory.org/pca/ga/37th_pcaga_2009.pdf#page=103"
+  - type: "minutes"
+    source_id: "minutes:ga38_2010"
+    label: "Minutes PDF · p. 94"
+    file: "38th_pcaga_2010.pdf"
+    volume: "ga38_2010"
+    pdf_page: 94
+    url: "https://www.pcahistory.org/pca/ga/38th_pcaga_2010.pdf#page=94"
+  - type: "minutes"
+    source_id: "minutes:ga42_2014"
+    label: "Minutes PDF · p. 419"
+    file: "42nd_pcaga_2014.pdf"
+    volume: "ga42_2014"
+    pdf_page: 419
+    url: "https://www.pcahistory.org/pca/ga/42nd_pcaga_2014.pdf#page=419"
+  - type: "minutes"
+    source_id: "minutes:ga43_2015"
+    label: "Minutes PDF · p. 448"
+    file: "43rd_pcaga_2015.pdf"
+    volume: "ga43_2015"
+    pdf_page: 448
+    url: "https://www.pcahistory.org/pca/ga/43rd_pcaga_2015.pdf#page=448"
+  - type: "minutes"
+    source_id: "minutes:ga44_2016"
+    label: "Minutes PDF · p. 415"
+    file: "44th_pcaga_2016.pdf"
+    volume: "ga44_2016"
+    pdf_page: 415
+    url: "https://www.pcahistory.org/pca/ga/44th_pcaga_2016.pdf#page=415"
+  - type: "minutes"
+    source_id: "minutes:ga45_2017"
+    label: "Minutes PDF · p. 389"
+    file: "45th_pcaga_2017.pdf"
+    volume: "ga45_2017"
+    pdf_page: 389
+    url: "https://www.pcahistory.org/pca/ga/45th_pcaga_2017.pdf#page=389"
+  - type: "minutes"
+    source_id: "minutes:ga46_2018"
+    label: "Minutes PDF · p. 411"
+    file: "46th_pcaga_2018.pdf"
+    volume: "ga46_2018"
+    pdf_page: 411
+    url: "https://www.pcahistory.org/pca/ga/46th_pcaga_2018.pdf#page=411"
+  - type: "minutes"
+    source_id: "minutes:ga49_2022"
+    label: "Minutes PDF · p. 552"
+    file: "49th_pcaga_2022.pdf"
+    volume: "ga49_2022"
+    pdf_page: 552
+    url: "https://www.pcahistory.org/pca/ga/49th_pcaga_2022.pdf#page=552"
+  - type: "minutes"
+    source_id: "minutes:ga50_2023"
+    label: "Minutes PDF · p. 608"
+    file: "50th_pcaga_2023.pdf"
+    volume: "ga50_2023"
+    pdf_page: 608
+    url: "https://www.pcahistory.org/pca/ga/50th_pcaga_2023.pdf#page=608"
+---
 # Korean Central Presbytery — BCO 13-9.b
 
 *: No record of annual examination by Presbytery of Session minutes. BCO…*

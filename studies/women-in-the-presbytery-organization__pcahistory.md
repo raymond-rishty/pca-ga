@@ -1,3 +1,18 @@
+---
+source_links:
+  - type: "dedicated"
+    source_id: "study-pdf:2-567"
+    label: "Dedicated source PDF"
+    file: "2-567.pdf"
+    url: "https://www.pcahistory.org/pca/digest/studies/2-567.pdf"
+  - type: "minutes"
+    source_id: "minutes:ga01_1973"
+    label: "Minutes PDF · p. 252"
+    file: "1st_pcaga_1973.pdf"
+    volume: "ga01_1973"
+    pdf_page: 252
+    url: "https://www.pcahistory.org/pca/ga/1st_pcaga_1973.pdf#page=252"
+---
 # Women in the Presbytery Organization
 
 *Women in the Presbytery Organization*

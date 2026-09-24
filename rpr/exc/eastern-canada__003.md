@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga22_1994"
+    label: "Minutes PDF · p. 289"
+    file: "22nd_pcaga_1994.pdf"
+    volume: "ga22_1994"
+    pdf_page: 289
+    url: "https://www.pcahistory.org/pca/ga/22nd_pcaga_1994.pdf#page=289"
+---
 # Eastern Canada Presbytery — BCO 13-6
 
 *p. 316: There is no indication recorded of a teaching elder's transfer. (BCO…*

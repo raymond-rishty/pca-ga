@@ -1,3 +1,27 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga28_2000"
+    label: "Minutes PDF · p. 124"
+    file: "28th_pcaga_2000.pdf"
+    volume: "ga28_2000"
+    pdf_page: 124
+    url: "https://www.pcahistory.org/pca/ga/28th_pcaga_2000.pdf#page=124"
+  - type: "minutes"
+    source_id: "minutes:ga28_2000"
+    label: "Minutes PDF · p. 187"
+    file: "28th_pcaga_2000.pdf"
+    volume: "ga28_2000"
+    pdf_page: 187
+    url: "https://www.pcahistory.org/pca/ga/28th_pcaga_2000.pdf#page=187"
+  - type: "minutes"
+    source_id: "minutes:ga28_2000"
+    label: "Minutes PDF · p. 216"
+    file: "28th_pcaga_2000.pdf"
+    volume: "ga28_2000"
+    pdf_page: 216
+    url: "https://www.pcahistory.org/pca/ga/28th_pcaga_2000.pdf#page=216"
+---
 # CREATION STUDY COMMITTEE
 
 *REPORT OF THE CREATION STUDY COMMITTEE*

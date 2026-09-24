@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga52_2025"
+    label: "Minutes PDF · p. 575"
+    file: "52nd_pcaga_2025.pdf"
+    volume: "ga52_2025"
+    pdf_page: 575
+    url: "https://www.pcahistory.org/pca/ga/52nd_pcaga_2025.pdf#page=575"
+---
 # Korean Capital Presbytery — BCO 46-6, BCO 21-1
 
 *A TE is transferred to another PCA Presbytery. No record of the call or other…*

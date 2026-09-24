@@ -1,3 +1,20 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga33_2005"
+    label: "Minutes PDF · p. 311"
+    file: "33rd_pcaga_2005.pdf"
+    volume: "ga33_2005"
+    pdf_page: 311
+    url: "https://www.pcahistory.org/pca/ga/33rd_pcaga_2005.pdf#page=311"
+  - type: "minutes"
+    source_id: "minutes:ga34_2006"
+    label: "Minutes PDF · p. 296"
+    file: "34th_pcaga_2006.pdf"
+    volume: "ga34_2006"
+    pdf_page: 296
+    url: "https://www.pcahistory.org/pca/ga/34th_pcaga_2006.pdf#page=296"
+---
 # South Texas Presbytery — BCO 18-6
 
 *No annual report of candidates. BCO 18-6 Response : Presbytery concurs with…*

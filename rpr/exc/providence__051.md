@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga50_2023"
+    label: "Minutes PDF · p. 690"
+    file: "50th_pcaga_2023.pdf"
+    volume: "ga50_2023"
+    pdf_page: 690
+    url: "https://www.pcahistory.org/pca/ga/50th_pcaga_2023.pdf#page=690"
+---
 # Providence Presbytery — BCO 34-7
 
 *No record of trial or case without process prior to suspending member from…*

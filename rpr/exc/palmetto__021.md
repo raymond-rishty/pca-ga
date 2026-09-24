@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga41_2013"
+    label: "Minutes PDF · p. 468"
+    file: "41st_pcaga_2013.pdf"
+    volume: "ga41_2013"
+    pdf_page: 468
+    url: "https://www.pcahistory.org/pca/ga/41st_pcaga_2013.pdf#page=468"
+---
 # Palmetto Presbytery — BCO 23-1
 
 *No record of 4/5 majority of congregation vote to approve…*

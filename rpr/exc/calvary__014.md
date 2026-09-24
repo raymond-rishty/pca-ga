@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga19_1991"
+    label: "Minutes PDF · p. 179"
+    file: "19th_pcaga_1991.pdf"
+    volume: "ga19_1991"
+    pdf_page: 179
+    url: "https://www.pcahistory.org/pca/ga/19th_pcaga_1991.pdf#page=179"
+---
 # Calvary Presbytery — BCO 19-8
 
 *p, 7 (#1) No record BCO 19-8, 9,10 were fulfilled in approving man for…*

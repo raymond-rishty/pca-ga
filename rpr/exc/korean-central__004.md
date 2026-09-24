@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga24_1996"
+    label: "Minutes PDF · p. 251"
+    file: "24th_pcaga_1996.pdf"
+    volume: "ga24_1996"
+    pdf_page: 251
+    url: "https://www.pcahistory.org/pca/ga/24th_pcaga_1996.pdf#page=251"
+---
 # Korean Central Presbytery — BCO 13-4
 
 *A quorum was not met as there were only two RE’s present (BCO…*

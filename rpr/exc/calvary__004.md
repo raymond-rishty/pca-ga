@@ -1,3 +1,20 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga18_1990"
+    label: "Minutes PDF · p. 179"
+    file: "18th_pcaga_1990.pdf"
+    volume: "ga18_1990"
+    pdf_page: 179
+    url: "https://www.pcahistory.org/pca/ga/18th_pcaga_1990.pdf#page=179"
+  - type: "minutes"
+    source_id: "minutes:ga20_1992"
+    label: "Minutes PDF · p. 239"
+    file: "20th_pcaga_1992.pdf"
+    volume: "ga20_1992"
+    pdf_page: 239
+    url: "https://www.pcahistory.org/pca/ga/20th_pcaga_1992.pdf#page=239"
+---
 # Calvary Presbytery — BCO 18-2, BCO 19-16
 
 *Page 4 "Candidate" 4th paragraph: Either the internship must be designated as…*

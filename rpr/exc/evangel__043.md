@@ -1,3 +1,20 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga36_2008"
+    label: "Minutes PDF · p. 220"
+    file: "36th_pcaga_2008.pdf"
+    volume: "ga36_2008"
+    pdf_page: 220
+    url: "https://www.pcahistory.org/pca/ga/36th_pcaga_2008.pdf#page=220"
+  - type: "minutes"
+    source_id: "minutes:ga37_2009"
+    label: "Minutes PDF · p. 91"
+    file: "37th_pcaga_2009.pdf"
+    volume: "ga37_2009"
+    pdf_page: 91
+    url: "https://www.pcahistory.org/pca/ga/37th_pcaga_2009.pdf#page=91"
+---
 # Evangel Presbytery — BCO 21-4
 
 *: BCO 21-4; RAO 16-3.e.5. No record of specific exam requirements. Response :…*

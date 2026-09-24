@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga31_2003"
+    label: "Minutes PDF · p. 251"
+    file: "31st_pcaga_2003.pdf"
+    volume: "ga31_2003"
+    pdf_page: 251
+    url: "https://www.pcahistory.org/pca/ga/31st_pcaga_2003.pdf#page=251"
+---
 # Siouxlands Presbytery — BCO 19-2
 
 *April 26-27, 2001, September 27-28, 2001, November 15, 2001: Incomplete record…*

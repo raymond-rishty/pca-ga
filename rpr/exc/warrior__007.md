@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga22_1994"
+    label: "Minutes PDF · p. 319"
+    file: "22nd_pcaga_1994.pdf"
+    volume: "ga22_1994"
+    pdf_page: 319
+    url: "https://www.pcahistory.org/pca/ga/22nd_pcaga_1994.pdf#page=319"
+---
 # Warrior Presbytery — BCO 19-7
 
 *20.439: The previous minutes give licensure status of a person now listed as…*

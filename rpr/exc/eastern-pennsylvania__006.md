@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga41_2013"
+    label: "Minutes PDF · p. 426"
+    file: "41st_pcaga_2013.pdf"
+    volume: "ga41_2013"
+    pdf_page: 426
+    url: "https://www.pcahistory.org/pca/ga/41st_pcaga_2013.pdf#page=426"
+---
 # Eastern Pennsylvania Presbytery — WCF 3.6, WSC 36, WLC 58
 
 *( WCF 3.6, WSC 36, 37, 38, WLC 58 and RAO 16-3.e.5.d) – Presbytery granted the…*

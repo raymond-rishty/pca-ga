@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga36_2008"
+    label: "Minutes PDF · p. 239"
+    file: "36th_pcaga_2008.pdf"
+    volume: "ga36_2008"
+    pdf_page: 239
+    url: "https://www.pcahistory.org/pca/ga/36th_pcaga_2008.pdf#page=239"
+---
 # Metro Atlanta Presbytery — BCO 13-6
 
 *No record of transferring TE being examined on Christian experience, and his…*

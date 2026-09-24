@@ -1,3 +1,20 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga48_2021"
+    label: "Minutes PDF · p. 614"
+    file: "48th_pcaga_2021.pdf"
+    volume: "ga48_2021"
+    pdf_page: 614
+    url: "https://www.pcahistory.org/pca/ga/48th_pcaga_2021.pdf#page=614"
+  - type: "minutes"
+    source_id: "minutes:ga49_2022"
+    label: "Minutes PDF · p. 605"
+    file: "49th_pcaga_2022.pdf"
+    volume: "ga49_2022"
+    pdf_page: 605
+    url: "https://www.pcahistory.org/pca/ga/49th_pcaga_2022.pdf#page=605"
+---
 # Pacific Northwest Presbytery — BCO 46-8
 
 *TE that demitted did not have membership assigned to a local…*

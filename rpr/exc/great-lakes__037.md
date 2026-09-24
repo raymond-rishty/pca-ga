@@ -1,3 +1,20 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga34_2006"
+    label: "Minutes PDF · p. 254"
+    file: "34th_pcaga_2006.pdf"
+    volume: "ga34_2006"
+    pdf_page: 254
+    url: "https://www.pcahistory.org/pca/ga/34th_pcaga_2006.pdf#page=254"
+  - type: "minutes"
+    source_id: "minutes:ga35_2007"
+    label: "Minutes PDF · p. 184"
+    file: "35th_pcaga_2007.pdf"
+    volume: "ga35_2007"
+    pdf_page: 184
+    url: "https://www.pcahistory.org/pca/ga/35th_pcaga_2007.pdf#page=184"
+---
 # Great Lakes Presbytery — BCO 21-4, RAO 14-3.e.5
 
 *No record of transfer exam including the transferee’s exceptions. BCO 21-4,…*

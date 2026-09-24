@@ -1,3 +1,27 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga09_1981"
+    label: "Minutes PDF · p. 362"
+    file: "9th_pcaga_1981.pdf"
+    volume: "ga09_1981"
+    pdf_page: 362
+    url: "https://www.pcahistory.org/pca/ga/9th_pcaga_1981.pdf#page=362"
+  - type: "minutes"
+    source_id: "minutes:ga09_1981"
+    label: "Minutes PDF · p. 368"
+    file: "9th_pcaga_1981.pdf"
+    volume: "ga09_1981"
+    pdf_page: 368
+    url: "https://www.pcahistory.org/pca/ga/9th_pcaga_1981.pdf#page=368"
+  - type: "minutes"
+    source_id: "minutes:ga09_1981"
+    label: "Minutes PDF · p. 369"
+    file: "9th_pcaga_1981.pdf"
+    volume: "ga09_1981"
+    pdf_page: 369
+    url: "https://www.pcahistory.org/pca/ga/9th_pcaga_1981.pdf#page=369"
+---
 # the PCA Foundation
 
 *Report of the Ad Hoc Committee to Study the PCA Foundation*

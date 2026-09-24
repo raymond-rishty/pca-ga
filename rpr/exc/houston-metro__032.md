@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga49_2022"
+    label: "Minutes PDF · p. 543"
+    file: "49th_pcaga_2022.pdf"
+    volume: "ga49_2022"
+    pdf_page: 543
+    url: "https://www.pcahistory.org/pca/ga/49th_pcaga_2022.pdf#page=543"
+---
 # Houston Metro Presbytery — BCO 18-3
 
 *No record of questions proposed to…*

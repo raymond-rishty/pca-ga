@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga18_1990"
+    label: "Minutes PDF · p. 181"
+    file: "18th_pcaga_1990.pdf"
+    volume: "ga18_1990"
+    pdf_page: 181
+    url: "https://www.pcahistory.org/pca/ga/18th_pcaga_1990.pdf#page=181"
+---
 # Great Lakes Presbytery — exception of substance
 
 *Minutes for the Stated Meetings held on September 8-9, 1989 and December 1-2,…*

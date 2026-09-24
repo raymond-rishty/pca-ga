@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga52_2025"
+    label: "Minutes PDF · p. 662"
+    file: "52nd_pcaga_2025.pdf"
+    volume: "ga52_2025"
+    pdf_page: 662
+    url: "https://www.pcahistory.org/pca/ga/52nd_pcaga_2025.pdf#page=662"
+---
 # Pacific Presbytery — BCO 46-6, BCO 46-7
 
 *No record of the Clerk sending a certificate of dismission (or portal entry)…*

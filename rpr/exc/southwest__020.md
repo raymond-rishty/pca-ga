@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga22_1994"
+    label: "Minutes PDF · p. 317"
+    file: "22nd_pcaga_1994.pdf"
+    volume: "ga22_1994"
+    pdf_page: 317
+    url: "https://www.pcahistory.org/pca/ga/22nd_pcaga_1994.pdf#page=317"
+---
 # Southwest Presbytery — BCO 13-2
 
 *92-18, # 6: There is no action taken regarding a teaching elder who has been…*

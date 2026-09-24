@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga51_2024"
+    label: "Minutes PDF · p. 541"
+    file: "51st_pcaga_2024.pdf"
+    volume: "ga51_2024"
+    pdf_page: 541
+    url: "https://www.pcahistory.org/pca/ga/51st_pcaga_2024.pdf#page=541"
+---
 # Korean Capital Presbytery — RAO 16-10.a
 
 *No record in minutes of exceptions taken by…*

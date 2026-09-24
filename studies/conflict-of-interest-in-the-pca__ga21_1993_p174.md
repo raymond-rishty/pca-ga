@@ -1,3 +1,20 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga21_1993"
+    label: "Minutes PDF · p. 176"
+    file: "21st_pcaga_1993.pdf"
+    volume: "ga21_1993"
+    pdf_page: 176
+    url: "https://www.pcahistory.org/pca/ga/21st_pcaga_1993.pdf#page=176"
+  - type: "minutes"
+    source_id: "minutes:ga21_1993"
+    label: "Minutes PDF · p. 185"
+    file: "21st_pcaga_1993.pdf"
+    volume: "ga21_1993"
+    pdf_page: 185
+    url: "https://www.pcahistory.org/pca/ga/21st_pcaga_1993.pdf#page=185"
+---
 # Conflict of Interest in the PCA
 
 *Conflict of Interest in the PCA*

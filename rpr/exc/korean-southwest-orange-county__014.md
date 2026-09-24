@@ -1,3 +1,27 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga46_2018"
+    label: "Minutes PDF · p. 430"
+    file: "46th_pcaga_2018.pdf"
+    volume: "ga46_2018"
+    pdf_page: 430
+    url: "https://www.pcahistory.org/pca/ga/46th_pcaga_2018.pdf#page=430"
+  - type: "minutes"
+    source_id: "minutes:ga47_2019"
+    label: "Minutes PDF · p. 486"
+    file: "47th_pcaga_2019.pdf"
+    volume: "ga47_2019"
+    pdf_page: 486
+    url: "https://www.pcahistory.org/pca/ga/47th_pcaga_2019.pdf#page=486"
+  - type: "minutes"
+    source_id: "minutes:ga49_2022"
+    label: "Minutes PDF · p. 573"
+    file: "49th_pcaga_2022.pdf"
+    volume: "ga49_2022"
+    pdf_page: 573
+    url: "https://www.pcahistory.org/pca/ga/49th_pcaga_2022.pdf#page=573"
+---
 # Korean Southwest Orange County Presbytery — BCO 13-9.b
 
 *No record of review of records of church…*

@@ -1,3 +1,20 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga44_2016"
+    label: "Minutes PDF · p. 422"
+    file: "44th_pcaga_2016.pdf"
+    volume: "ga44_2016"
+    pdf_page: 422
+    url: "https://www.pcahistory.org/pca/ga/44th_pcaga_2016.pdf#page=422"
+  - type: "minutes"
+    source_id: "minutes:ga45_2017"
+    label: "Minutes PDF · p. 395"
+    file: "45th_pcaga_2017.pdf"
+    volume: "ga45_2017"
+    pdf_page: 395
+    url: "https://www.pcahistory.org/pca/ga/45th_pcaga_2017.pdf#page=395"
+---
 # Korean Southeastern Presbytery — BCO 20-1
 
 *No record of call to a definite…*

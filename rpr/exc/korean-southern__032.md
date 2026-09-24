@@ -1,3 +1,48 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga29_2001"
+    label: "Minutes PDF · p. 339"
+    file: "29th_pcaga_2001.pdf"
+    volume: "ga29_2001"
+    pdf_page: 339
+    url: "https://www.pcahistory.org/pca/ga/29th_pcaga_2001.pdf#page=339"
+  - type: "minutes"
+    source_id: "minutes:ga30_2002"
+    label: "Minutes PDF · p. 319"
+    file: "30th_pcaga_2002.pdf"
+    volume: "ga30_2002"
+    pdf_page: 319
+    url: "https://www.pcahistory.org/pca/ga/30th_pcaga_2002.pdf#page=319"
+  - type: "minutes"
+    source_id: "minutes:ga31_2003"
+    label: "Minutes PDF · p. 233"
+    file: "31st_pcaga_2003.pdf"
+    volume: "ga31_2003"
+    pdf_page: 233
+    url: "https://www.pcahistory.org/pca/ga/31st_pcaga_2003.pdf#page=233"
+  - type: "minutes"
+    source_id: "minutes:ga32_2004"
+    label: "Minutes PDF · p. 220"
+    file: "32nd_pcaga_2004.pdf"
+    volume: "ga32_2004"
+    pdf_page: 220
+    url: "https://www.pcahistory.org/pca/ga/32nd_pcaga_2004.pdf#page=220"
+  - type: "minutes"
+    source_id: "minutes:ga33_2005"
+    label: "Minutes PDF · p. 288"
+    file: "33rd_pcaga_2005.pdf"
+    volume: "ga33_2005"
+    pdf_page: 288
+    url: "https://www.pcahistory.org/pca/ga/33rd_pcaga_2005.pdf#page=288"
+  - type: "minutes"
+    source_id: "minutes:ga34_2006"
+    label: "Minutes PDF · p. 271"
+    file: "34th_pcaga_2006.pdf"
+    volume: "ga34_2006"
+    pdf_page: 271
+    url: "https://www.pcahistory.org/pca/ga/34th_pcaga_2006.pdf#page=271"
+---
 # Korean Southern Presbytery — BCO 17-1
 
 *No record of ordination and installation. BCO 17-1 through 17-3; 21-5 through…*

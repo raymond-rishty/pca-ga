@@ -1,3 +1,20 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga36_2008"
+    label: "Minutes PDF · p. 217"
+    file: "36th_pcaga_2008.pdf"
+    volume: "ga36_2008"
+    pdf_page: 217
+    url: "https://www.pcahistory.org/pca/ga/36th_pcaga_2008.pdf#page=217"
+  - type: "minutes"
+    source_id: "minutes:ga37_2009"
+    label: "Minutes PDF · p. 87"
+    file: "37th_pcaga_2009.pdf"
+    volume: "ga37_2009"
+    pdf_page: 87
+    url: "https://www.pcahistory.org/pca/ga/37th_pcaga_2009.pdf#page=87"
+---
 # Chicago Metro Presbytery — BCO 5-9
 
 *: BCO 5-9. No record of process being followed to elect…*

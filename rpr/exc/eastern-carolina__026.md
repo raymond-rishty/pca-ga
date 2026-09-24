@@ -1,3 +1,20 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga49_2022"
+    label: "Minutes PDF · p. 519"
+    file: "49th_pcaga_2022.pdf"
+    volume: "ga49_2022"
+    pdf_page: 519
+    url: "https://www.pcahistory.org/pca/ga/49th_pcaga_2022.pdf#page=519"
+  - type: "minutes"
+    source_id: "minutes:ga50_2023"
+    label: "Minutes PDF · p. 555"
+    file: "50th_pcaga_2023.pdf"
+    volume: "ga50_2023"
+    pdf_page: 555
+    url: "https://www.pcahistory.org/pca/ga/50th_pcaga_2023.pdf#page=555"
+---
 # Eastern Carolina Presbytery — BCO 13-9.b
 
 *Incomplete record of review of records of church…*

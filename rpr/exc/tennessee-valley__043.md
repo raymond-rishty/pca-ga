@@ -1,3 +1,20 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga35_2007"
+    label: "Minutes PDF · p. 225"
+    file: "35th_pcaga_2007.pdf"
+    volume: "ga35_2007"
+    pdf_page: 225
+    url: "https://www.pcahistory.org/pca/ga/35th_pcaga_2007.pdf#page=225"
+  - type: "minutes"
+    source_id: "minutes:ga36_2008"
+    label: "Minutes PDF · p. 271"
+    file: "36th_pcaga_2008.pdf"
+    volume: "ga36_2008"
+    pdf_page: 271
+    url: "https://www.pcahistory.org/pca/ga/36th_pcaga_2008.pdf#page=271"
+---
 # Tennessee Valley Presbytery — RAO 14-3.e.6
 
 *: The minutes of executive session are to be presented for review. RAO…*

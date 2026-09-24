@@ -1,3 +1,34 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga37_2009"
+    label: "Minutes PDF · p. 99"
+    file: "37th_pcaga_2009.pdf"
+    volume: "ga37_2009"
+    pdf_page: 99
+    url: "https://www.pcahistory.org/pca/ga/37th_pcaga_2009.pdf#page=99"
+  - type: "minutes"
+    source_id: "minutes:ga38_2010"
+    label: "Minutes PDF · p. 91"
+    file: "38th_pcaga_2010.pdf"
+    volume: "ga38_2010"
+    pdf_page: 91
+    url: "https://www.pcahistory.org/pca/ga/38th_pcaga_2010.pdf#page=91"
+  - type: "minutes"
+    source_id: "minutes:ga39_2011"
+    label: "Minutes PDF · p. 455"
+    file: "39th_pcaga_2011.pdf"
+    volume: "ga39_2011"
+    pdf_page: 455
+    url: "https://www.pcahistory.org/pca/ga/39th_pcaga_2011.pdf#page=455"
+  - type: "minutes"
+    source_id: "minutes:ga40_2012"
+    label: "Minutes PDF · p. 431"
+    file: "40th_pcaga_2012.pdf"
+    volume: "ga40_2012"
+    pdf_page: 431
+    url: "https://www.pcahistory.org/pca/ga/40th_pcaga_2012.pdf#page=431"
+---
 # Heritage Presbytery — BCO 13-6
 
 *No record of transfer…*

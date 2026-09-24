@@ -1,3 +1,20 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga47_2019"
+    label: "Minutes PDF · p. 492"
+    file: "47th_pcaga_2019.pdf"
+    volume: "ga47_2019"
+    pdf_page: 492
+    url: "https://www.pcahistory.org/pca/ga/47th_pcaga_2019.pdf#page=492"
+  - type: "minutes"
+    source_id: "minutes:ga48_2021"
+    label: "Minutes PDF · p. 606"
+    file: "48th_pcaga_2021.pdf"
+    volume: "ga48_2021"
+    pdf_page: 606
+    url: "https://www.pcahistory.org/pca/ga/48th_pcaga_2021.pdf#page=606"
+---
 # New River Presbytery — BCO 38-2
 
 *The two-meeting requirement to divest a TE was not…*

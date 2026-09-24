@@ -1,3 +1,20 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga38_2010"
+    label: "Minutes PDF · p. 86"
+    file: "38th_pcaga_2010.pdf"
+    volume: "ga38_2010"
+    pdf_page: 86
+    url: "https://www.pcahistory.org/pca/ga/38th_pcaga_2010.pdf#page=86"
+  - type: "minutes"
+    source_id: "minutes:ga39_2011"
+    label: "Minutes PDF · p. 447"
+    file: "39th_pcaga_2011.pdf"
+    volume: "ga39_2011"
+    pdf_page: 447
+    url: "https://www.pcahistory.org/pca/ga/39th_pcaga_2011.pdf#page=447"
+---
 # Eastern Pennsylvania Presbytery — BCO 21-4
 
 *Incomplete record of ordination…*

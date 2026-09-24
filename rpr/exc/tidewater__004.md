@@ -1,3 +1,20 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga44_2016"
+    label: "Minutes PDF · p. 455"
+    file: "44th_pcaga_2016.pdf"
+    volume: "ga44_2016"
+    pdf_page: 455
+    url: "https://www.pcahistory.org/pca/ga/44th_pcaga_2016.pdf#page=455"
+  - type: "minutes"
+    source_id: "minutes:ga45_2017"
+    label: "Minutes PDF · p. 428"
+    file: "45th_pcaga_2017.pdf"
+    volume: "ga45_2017"
+    pdf_page: 428
+    url: "https://www.pcahistory.org/pca/ga/45th_pcaga_2017.pdf#page=428"
+---
 # Tidewater Presbytery — BCO 21-4
 
 *Reasons for omitting portions of transfer exam not noted – no record of ¾…*

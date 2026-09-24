@@ -1,3 +1,20 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga40_2012"
+    label: "Minutes PDF · p. 444"
+    file: "40th_pcaga_2012.pdf"
+    volume: "ga40_2012"
+    pdf_page: 444
+    url: "https://www.pcahistory.org/pca/ga/40th_pcaga_2012.pdf#page=444"
+  - type: "minutes"
+    source_id: "minutes:ga41_2013"
+    label: "Minutes PDF · p. 448"
+    file: "41st_pcaga_2013.pdf"
+    volume: "ga41_2013"
+    pdf_page: 448
+    url: "https://www.pcahistory.org/pca/ga/41st_pcaga_2013.pdf#page=448"
+---
 # Mississippi Valley Presbytery — BCO 15-1, BCO 21-1
 
 *2011 ( BCO 15-1 and BCO 21-1) a court appoints a commission, yet the…*

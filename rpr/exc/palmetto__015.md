@@ -1,3 +1,34 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga34_2006"
+    label: "Minutes PDF · p. 293"
+    file: "34th_pcaga_2006.pdf"
+    volume: "ga34_2006"
+    pdf_page: 293
+    url: "https://www.pcahistory.org/pca/ga/34th_pcaga_2006.pdf#page=293"
+  - type: "minutes"
+    source_id: "minutes:ga35_2007"
+    label: "Minutes PDF · p. 210"
+    file: "35th_pcaga_2007.pdf"
+    volume: "ga35_2007"
+    pdf_page: 210
+    url: "https://www.pcahistory.org/pca/ga/35th_pcaga_2007.pdf#page=210"
+  - type: "minutes"
+    source_id: "minutes:ga35_2007"
+    label: "Minutes PDF · p. 211"
+    file: "35th_pcaga_2007.pdf"
+    volume: "ga35_2007"
+    pdf_page: 211
+    url: "https://www.pcahistory.org/pca/ga/35th_pcaga_2007.pdf#page=211"
+  - type: "minutes"
+    source_id: "minutes:ga36_2008"
+    label: "Minutes PDF · p. 260"
+    file: "36th_pcaga_2008.pdf"
+    volume: "ga36_2008"
+    pdf_page: 260
+    url: "https://www.pcahistory.org/pca/ga/36th_pcaga_2008.pdf#page=260"
+---
 # Palmetto Presbytery — BCO 31-1
 
 *: The Presbytery resolved to reopen the judicial case concerning TE who had…*

@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga32_2004"
+    label: "Minutes PDF · p. 244"
+    file: "32nd_pcaga_2004.pdf"
+    volume: "ga32_2004"
+    pdf_page: 244
+    url: "https://www.pcahistory.org/pca/ga/32nd_pcaga_2004.pdf#page=244"
+---
 # Southwest Florida Presbytery — BCO 21-4.a.7
 
 *No record of ordination examination on history of PCA. BCO…*

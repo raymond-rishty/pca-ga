@@ -1,3 +1,20 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga49_2022"
+    label: "Minutes PDF · p. 513"
+    file: "49th_pcaga_2022.pdf"
+    volume: "ga49_2022"
+    pdf_page: 513
+    url: "https://www.pcahistory.org/pca/ga/49th_pcaga_2022.pdf#page=513"
+  - type: "minutes"
+    source_id: "minutes:ga50_2023"
+    label: "Minutes PDF · p. 542"
+    file: "50th_pcaga_2023.pdf"
+    volume: "ga50_2023"
+    pdf_page: 542
+    url: "https://www.pcahistory.org/pca/ga/50th_pcaga_2023.pdf#page=542"
+---
 # Columbus Metro Presbytery — RONR 25:10
 
 *Quorum was not present – by declaration of the moderator. By failing to…*

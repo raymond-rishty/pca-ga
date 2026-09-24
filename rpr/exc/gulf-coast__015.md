@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga32_2004"
+    label: "Minutes PDF · p. 213"
+    file: "32nd_pcaga_2004.pdf"
+    volume: "ga32_2004"
+    pdf_page: 213
+    url: "https://www.pcahistory.org/pca/ga/32nd_pcaga_2004.pdf#page=213"
+---
 # Gulf Coast Presbytery — BCO 13-8, RAO 14-3.e.4
 
 *May 14, 2002: No record of commission report to particularize a church. BCO…*

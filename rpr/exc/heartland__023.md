@@ -1,3 +1,20 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga30_2002"
+    label: "Minutes PDF · p. 314"
+    file: "30th_pcaga_2002.pdf"
+    volume: "ga30_2002"
+    pdf_page: 314
+    url: "https://www.pcahistory.org/pca/ga/30th_pcaga_2002.pdf#page=314"
+  - type: "minutes"
+    source_id: "minutes:ga31_2003"
+    label: "Minutes PDF · p. 226"
+    file: "31st_pcaga_2003.pdf"
+    volume: "ga31_2003"
+    pdf_page: 226
+    url: "https://www.pcahistory.org/pca/ga/31st_pcaga_2003.pdf#page=226"
+---
 # Heartland Presbytery — BCO 23-1
 
 *2001-23 - No record of congregational meeting requesting dissolution of…*

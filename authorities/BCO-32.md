@@ -18,7 +18,8 @@
 
 | Year | Type | Title | Disposition |
 |------|------|-------|-------------|
-| 2025 | RPR exception | [Chesapeake: ( BCO 32; BCO 31-2; BCO 34; BCO 38-1; RONR (12th ed) 48:14, 35:13) — Presbytery votes to "](../rpr/exc/chesapeake__026.md) | raised |
+| 2024 | Overture | [Amend BCO 31, 32, and 35 to Reform Judicial Process](../markdown/ga51_2024.md#ga51-p1122) | Answered in the negative |
+| 2025 | RPR exception | [Chesapeake: ( BCO 32; BCO 31-2; BCO 34; BCO 38-1; RONR (12th ed) 48:14, 35:13) — Presbytery votes to "](../rpr/exc/chesapeake__026.html) | raised |
 
 ---
 *[← Authority Index](../index/AUTHORITY-BY-PROVISION.md)*

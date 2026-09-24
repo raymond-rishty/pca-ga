@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga19_1991"
+    label: "Minutes PDF · p. 183"
+    file: "19th_pcaga_1991.pdf"
+    volume: "ga19_1991"
+    pdf_page: 183
+    url: "https://www.pcahistory.org/pca/ga/19th_pcaga_1991.pdf#page=183"
+---
 # James River Presbytery — exception of substance
 
 *No report of interns at each stated…*

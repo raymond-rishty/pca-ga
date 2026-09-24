@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga30_2002"
+    label: "Minutes PDF · p. 341"
+    file: "30th_pcaga_2002.pdf"
+    volume: "ga30_2002"
+    pdf_page: 341
+    url: "https://www.pcahistory.org/pca/ga/30th_pcaga_2002.pdf#page=341"
+---
 # Western Carolina Presbytery — BCO 12-7, RAO 14-6.C.2
 
 *The record indicates that sessional records for only 18 of the 30 churches…*

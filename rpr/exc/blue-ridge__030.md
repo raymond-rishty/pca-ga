@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga46_2018"
+    label: "Minutes PDF · p. 368"
+    file: "46th_pcaga_2018.pdf"
+    volume: "ga46_2018"
+    pdf_page: 368
+    url: "https://www.pcahistory.org/pca/ga/46th_pcaga_2018.pdf#page=368"
+---
 # Blue Ridge Presbytery — BCO 13-6
 
 *No record of examination of views on Sacraments or Church…*

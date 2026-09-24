@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga50_2023"
+    label: "Minutes PDF · p. 532"
+    file: "50th_pcaga_2023.pdf"
+    volume: "ga50_2023"
+    pdf_page: 532
+    url: "https://www.pcahistory.org/pca/ga/50th_pcaga_2023.pdf#page=532"
+---
 # Central Carolina Presbytery — BCO 21-4
 
 *¾ vote for ordination candidate sermon given to committee not…*

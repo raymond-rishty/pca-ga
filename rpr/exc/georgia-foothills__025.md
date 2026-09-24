@@ -1,3 +1,20 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga44_2016"
+    label: "Minutes PDF · p. 409"
+    file: "44th_pcaga_2016.pdf"
+    volume: "ga44_2016"
+    pdf_page: 409
+    url: "https://www.pcahistory.org/pca/ga/44th_pcaga_2016.pdf#page=409"
+  - type: "minutes"
+    source_id: "minutes:ga45_2017"
+    label: "Minutes PDF · p. 381"
+    file: "45th_pcaga_2017.pdf"
+    volume: "ga45_2017"
+    pdf_page: 381
+    url: "https://www.pcahistory.org/pca/ga/45th_pcaga_2017.pdf#page=381"
+---
 # Georgia Foothills Presbytery — BCO 23-1
 
 *Associate pastor’s relationship with church dissolved without any apparent…*

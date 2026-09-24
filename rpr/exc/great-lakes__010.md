@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga23_1995"
+    label: "Minutes PDF · p. 188"
+    file: "23rd_pcaga_1995.pdf"
+    volume: "ga23_1995"
+    pdf_page: 188
+    url: "https://www.pcahistory.org/pca/ga/23rd_pcaga_1995.pdf#page=188"
+---
 # Great Lakes Presbytery — BCO 18-6)
 
 *There is no evidence of required annual reports of candidates nor of required…*

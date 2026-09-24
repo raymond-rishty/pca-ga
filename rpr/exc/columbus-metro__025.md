@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga50_2023"
+    label: "Minutes PDF · p. 542"
+    file: "50th_pcaga_2023.pdf"
+    volume: "ga50_2023"
+    pdf_page: 542
+    url: "https://www.pcahistory.org/pca/ga/50th_pcaga_2023.pdf#page=542"
+---
 # Columbus Metro Presbytery — BCO 15-1, RAO 16-3.e.4
 
 *Minutes of commission not entered in Presbytery…*

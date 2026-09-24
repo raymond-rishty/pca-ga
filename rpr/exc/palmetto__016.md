@@ -1,3 +1,27 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga40_2012"
+    label: "Minutes PDF · p. 465"
+    file: "40th_pcaga_2012.pdf"
+    volume: "ga40_2012"
+    pdf_page: 465
+    url: "https://www.pcahistory.org/pca/ga/40th_pcaga_2012.pdf#page=465"
+  - type: "minutes"
+    source_id: "minutes:ga41_2013"
+    label: "Minutes PDF · p. 468"
+    file: "41st_pcaga_2013.pdf"
+    volume: "ga41_2013"
+    pdf_page: 468
+    url: "https://www.pcahistory.org/pca/ga/41st_pcaga_2013.pdf#page=468"
+  - type: "minutes"
+    source_id: "minutes:ga43_2015"
+    label: "Minutes PDF · p. 465"
+    file: "43rd_pcaga_2015.pdf"
+    volume: "ga43_2015"
+    pdf_page: 465
+    url: "https://www.pcahistory.org/pca/ga/43rd_pcaga_2015.pdf#page=465"
+---
 # Palmetto Presbytery — BCO 18-2
 
 *January 27, 2011 ( BCO 18-2) - No record of endorsement of candidate by his…*

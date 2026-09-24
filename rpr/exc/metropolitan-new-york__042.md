@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga45_2017"
+    label: "Minutes PDF · p. 401"
+    file: "45th_pcaga_2017.pdf"
+    volume: "ga45_2017"
+    pdf_page: 401
+    url: "https://www.pcahistory.org/pca/ga/45th_pcaga_2017.pdf#page=401"
+---
 # Metropolitan New York Presbytery — BCO 46-8
 
 *TE divested without censure was not assigned membership in a particular…*

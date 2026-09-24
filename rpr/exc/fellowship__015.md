@@ -1,3 +1,20 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga41_2013"
+    label: "Minutes PDF · p. 429"
+    file: "41st_pcaga_2013.pdf"
+    volume: "ga41_2013"
+    pdf_page: 429
+    url: "https://www.pcahistory.org/pca/ga/41st_pcaga_2013.pdf#page=429"
+  - type: "minutes"
+    source_id: "minutes:ga42_2014"
+    label: "Minutes PDF · p. 410"
+    file: "42nd_pcaga_2014.pdf"
+    volume: "ga42_2014"
+    pdf_page: 410
+    url: "https://www.pcahistory.org/pca/ga/42nd_pcaga_2014.pdf#page=410"
+---
 # Fellowship Presbytery — BCO 15-2
 
 *Provisional Session recommended by committee not recorded as approved.…*

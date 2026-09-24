@@ -1,3 +1,20 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga40_2012"
+    label: "Minutes PDF · p. 455"
+    file: "40th_pcaga_2012.pdf"
+    volume: "ga40_2012"
+    pdf_page: 455
+    url: "https://www.pcahistory.org/pca/ga/40th_pcaga_2012.pdf#page=455"
+  - type: "minutes"
+    source_id: "minutes:ga41_2013"
+    label: "Minutes PDF · p. 455"
+    file: "41st_pcaga_2013.pdf"
+    volume: "ga41_2013"
+    pdf_page: 455
+    url: "https://www.pcahistory.org/pca/ga/41st_pcaga_2013.pdf#page=455"
+---
 # Northern Illinois Presbytery — BCO 21-4
 
 *Use of extraordinary clause must have ¾…*

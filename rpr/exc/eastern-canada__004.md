@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga22_1994"
+    label: "Minutes PDF · p. 288"
+    file: "22nd_pcaga_1994.pdf"
+    volume: "ga22_1994"
+    pdf_page: 288
+    url: "https://www.pcahistory.org/pca/ga/22nd_pcaga_1994.pdf#page=288"
+---
 # Eastern Canada Presbytery — BCO 8-7)
 
 *There is no record that a teaching elder approved to labor out of bounds has…*

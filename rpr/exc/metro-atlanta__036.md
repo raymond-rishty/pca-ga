@@ -1,3 +1,20 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga47_2019"
+    label: "Minutes PDF · p. 486"
+    file: "47th_pcaga_2019.pdf"
+    volume: "ga47_2019"
+    pdf_page: 486
+    url: "https://www.pcahistory.org/pca/ga/47th_pcaga_2019.pdf#page=486"
+  - type: "minutes"
+    source_id: "minutes:ga48_2021"
+    label: "Minutes PDF · p. 600"
+    file: "48th_pcaga_2021.pdf"
+    volume: "ga48_2021"
+    pdf_page: 600
+    url: "https://www.pcahistory.org/pca/ga/48th_pcaga_2021.pdf#page=600"
+---
 # Metro Atlanta Presbytery — BCO 21-4
 
 *Stated differences with our Standards not recorded (see RAO 16-3.3.5). “Per…*

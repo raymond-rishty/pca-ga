@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga18_1990"
+    label: "Minutes PDF · p. 181"
+    file: "18th_pcaga_1990.pdf"
+    volume: "ga18_1990"
+    pdf_page: 181
+    url: "https://www.pcahistory.org/pca/ga/18th_pcaga_1990.pdf#page=181"
+---
 # Grace Presbytery — BCO 21-5
 
 *Page 39, 17.3.3: No record that TE being received from another denomination…*

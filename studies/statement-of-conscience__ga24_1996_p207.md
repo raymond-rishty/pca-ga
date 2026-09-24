@@ -1,3 +1,27 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga24_1996"
+    label: "Minutes PDF · p. 208"
+    file: "24th_pcaga_1996.pdf"
+    volume: "ga24_1996"
+    pdf_page: 208
+    url: "https://www.pcahistory.org/pca/ga/24th_pcaga_1996.pdf#page=208"
+  - type: "minutes"
+    source_id: "minutes:ga24_1996"
+    label: "Minutes PDF · p. 212"
+    file: "24th_pcaga_1996.pdf"
+    volume: "ga24_1996"
+    pdf_page: 212
+    url: "https://www.pcahistory.org/pca/ga/24th_pcaga_1996.pdf#page=212"
+  - type: "minutes"
+    source_id: "minutes:ga24_1996"
+    label: "Minutes PDF · p. 227"
+    file: "24th_pcaga_1996.pdf"
+    volume: "ga24_1996"
+    pdf_page: 227
+    url: "https://www.pcahistory.org/pca/ga/24th_pcaga_1996.pdf#page=227"
+---
 # STATEMENT OF CONSCIENCE
 
 *STATEMENT OF CONSCIENCE*

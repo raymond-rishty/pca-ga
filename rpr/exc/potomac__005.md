@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga21_1993"
+    label: "Minutes PDF · p. 249"
+    file: "21st_pcaga_1993.pdf"
+    volume: "ga21_1993"
+    pdf_page: 249
+    url: "https://www.pcahistory.org/pca/ga/21st_pcaga_1993.pdf#page=249"
+---
 # Potomac Presbytery — BCO 19-2, BCO 18-6)
 
 *The Presbytery was cited for the following: The minutes for 2/9/91 and 5/14/91…*

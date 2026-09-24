@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga51_2024"
+    label: "Minutes PDF · p. 592"
+    file: "51st_pcaga_2024.pdf"
+    volume: "ga51_2024"
+    pdf_page: 592
+    url: "https://www.pcahistory.org/pca/ga/51st_pcaga_2024.pdf#page=592"
+---
 # Nashville Presbytery — BCO 19-16
 
 *3/4 vote for waiving internship requirement not…*

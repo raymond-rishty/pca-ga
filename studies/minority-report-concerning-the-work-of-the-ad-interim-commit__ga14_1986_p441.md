@@ -1,3 +1,27 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga14_1986"
+    label: "Minutes PDF · p. 443"
+    file: "14th_pcaga_1986.pdf"
+    volume: "ga14_1986"
+    pdf_page: 443
+    url: "https://www.pcahistory.org/pca/ga/14th_pcaga_1986.pdf#page=443"
+  - type: "minutes"
+    source_id: "minutes:ga14_1986"
+    label: "Minutes PDF · p. 453"
+    file: "14th_pcaga_1986.pdf"
+    volume: "ga14_1986"
+    pdf_page: 453
+    url: "https://www.pcahistory.org/pca/ga/14th_pcaga_1986.pdf#page=453"
+  - type: "minutes"
+    source_id: "minutes:ga14_1986"
+    label: "Minutes PDF · p. 454"
+    file: "14th_pcaga_1986.pdf"
+    volume: "ga14_1986"
+    pdf_page: 454
+    url: "https://www.pcahistory.org/pca/ga/14th_pcaga_1986.pdf#page=454"
+---
 # MINORITY REPORT CONCERNING THE WORK OF THE AD INTERIM COMMITTEE ON PCA STRUCTURE AND PROCEDURE — minority report
 
 *MINORITY REPORT CONCERNING THE WORK OF THE AD INTERIM COMMITTEE ON PCA STRUCTURE AND PROCEDURE*

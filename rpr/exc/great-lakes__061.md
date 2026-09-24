@@ -1,3 +1,41 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga40_2012"
+    label: "Minutes PDF · p. 425"
+    file: "40th_pcaga_2012.pdf"
+    volume: "ga40_2012"
+    pdf_page: 425
+    url: "https://www.pcahistory.org/pca/ga/40th_pcaga_2012.pdf#page=425"
+  - type: "minutes"
+    source_id: "minutes:ga41_2013"
+    label: "Minutes PDF · p. 431"
+    file: "41st_pcaga_2013.pdf"
+    volume: "ga41_2013"
+    pdf_page: 431
+    url: "https://www.pcahistory.org/pca/ga/41st_pcaga_2013.pdf#page=431"
+  - type: "minutes"
+    source_id: "minutes:ga42_2014"
+    label: "Minutes PDF · p. 414"
+    file: "42nd_pcaga_2014.pdf"
+    volume: "ga42_2014"
+    pdf_page: 414
+    url: "https://www.pcahistory.org/pca/ga/42nd_pcaga_2014.pdf#page=414"
+  - type: "minutes"
+    source_id: "minutes:ga49_2022"
+    label: "Minutes PDF · p. 524"
+    file: "49th_pcaga_2022.pdf"
+    volume: "ga49_2022"
+    pdf_page: 524
+    url: "https://www.pcahistory.org/pca/ga/49th_pcaga_2022.pdf#page=524"
+  - type: "minutes"
+    source_id: "minutes:ga50_2023"
+    label: "Minutes PDF · p. 563"
+    file: "50th_pcaga_2023.pdf"
+    volume: "ga50_2023"
+    pdf_page: 563
+    url: "https://www.pcahistory.org/pca/ga/50th_pcaga_2023.pdf#page=563"
+---
 # Great Lakes Presbytery — BCO 13-9.b
 
 *Incomplete record of review of records of church…*

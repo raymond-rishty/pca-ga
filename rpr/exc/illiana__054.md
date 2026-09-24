@@ -1,3 +1,41 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga46_2018"
+    label: "Minutes PDF · p. 404"
+    file: "46th_pcaga_2018.pdf"
+    volume: "ga46_2018"
+    pdf_page: 404
+    url: "https://www.pcahistory.org/pca/ga/46th_pcaga_2018.pdf#page=404"
+  - type: "minutes"
+    source_id: "minutes:ga47_2019"
+    label: "Minutes PDF · p. 473"
+    file: "47th_pcaga_2019.pdf"
+    volume: "ga47_2019"
+    pdf_page: 473
+    url: "https://www.pcahistory.org/pca/ga/47th_pcaga_2019.pdf#page=473"
+  - type: "minutes"
+    source_id: "minutes:ga48_2021"
+    label: "Minutes PDF · p. 580"
+    file: "48th_pcaga_2021.pdf"
+    volume: "ga48_2021"
+    pdf_page: 580
+    url: "https://www.pcahistory.org/pca/ga/48th_pcaga_2021.pdf#page=580"
+  - type: "minutes"
+    source_id: "minutes:ga49_2022"
+    label: "Minutes PDF · p. 546"
+    file: "49th_pcaga_2022.pdf"
+    volume: "ga49_2022"
+    pdf_page: 546
+    url: "https://www.pcahistory.org/pca/ga/49th_pcaga_2022.pdf#page=546"
+  - type: "minutes"
+    source_id: "minutes:ga50_2023"
+    label: "Minutes PDF · p. 601"
+    file: "50th_pcaga_2023.pdf"
+    volume: "ga50_2023"
+    pdf_page: 601
+    url: "https://www.pcahistory.org/pca/ga/50th_pcaga_2023.pdf#page=601"
+---
 # Illiana Presbytery — BCO 13-9
 
 *No record of review of session minutes. f. That 2020 minutes shall be…*

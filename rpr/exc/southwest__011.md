@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga20_1992"
+    label: "Minutes PDF · p. 260"
+    file: "20th_pcaga_1992.pdf"
+    volume: "ga20_1992"
+    pdf_page: 260
+    url: "https://www.pcahistory.org/pca/ga/20th_pcaga_1992.pdf#page=260"
+---
 # Southwest Presbytery — BCO 20, BCO 3-1
 
 *EXCEPTION (1): Page 6 #17-4 "Not in accord with BCO 20 to require a…*

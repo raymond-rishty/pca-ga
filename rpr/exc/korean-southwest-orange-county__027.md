@@ -1,3 +1,20 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga49_2022"
+    label: "Minutes PDF · p. 569"
+    file: "49th_pcaga_2022.pdf"
+    volume: "ga49_2022"
+    pdf_page: 569
+    url: "https://www.pcahistory.org/pca/ga/49th_pcaga_2022.pdf#page=569"
+  - type: "minutes"
+    source_id: "minutes:ga50_2023"
+    label: "Minutes PDF · p. 637"
+    file: "50th_pcaga_2023.pdf"
+    volume: "ga50_2023"
+    pdf_page: 637
+    url: "https://www.pcahistory.org/pca/ga/50th_pcaga_2023.pdf#page=637"
+---
 # Korean Southwest Orange County Presbytery — BCO 11-4
 
 *Presbytery appointed ruling elders to a church; which it has no authority to…*

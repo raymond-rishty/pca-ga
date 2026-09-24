@@ -36,6 +36,7 @@ from typing import Any
 from scripture_linker import load_metadata as load_scripture_metadata, mask_and_link, self_test as scripture_self_test
 
 READER_BASE = "https://raymond-rishty.github.io/pca-constitution-reader/"
+PROVISION_BASE = "/pca-ga/provisions"
 DASH = r"[-\u2010\u2011\u2012\u2013\u2014\u2212]"
 BCO_PREFIX = r"(?:B\.?\s*C\.?\s*O\.?|Book\s+of\s+Church\s+Order)"
 WCF_PREFIX = r"W\.?\s*C\.?\s*F\.?"
@@ -229,6 +230,12 @@ def canonical_ref(book: str, token: str) -> str | None:
             return str(value) if value else None
         return None
     return None
+
+
+def provision_href(book: str, ref: str) -> str:
+    """Return the stable research route for an indexed constitutional reference."""
+    route_ref = f"q-{ref[2:]}" if book in {"wlc", "wsc"} and ref.startswith("Q.") else ref.lower()
+    return f"{PROVISION_BASE}/{book}/{route_ref}/"
 
 
 def roman_to_int(value: str, maximum: int = 20) -> int | None:
@@ -602,7 +609,7 @@ def linkify_text(
 
             is_bco_chapter = book == "bco" and canonical in bco_chapters
             if canonical and (canonical in valid_refs or is_bco_chapter):
-                href = f"{READER_BASE}#{book}/{canonical}"
+                href = provision_href(book, canonical)
                 if book == "bco":
                     chapter = canonical if is_bco_chapter else valid_refs[canonical]["chapter"]
                     kind = "chapter" if is_bco_chapter else "section"
@@ -612,7 +619,7 @@ def linkify_text(
                         f'data-bco-chapter="{html.escape(chapter, quote=True)}" '
                         f'data-bco-kind="{kind}" '
                         'aria-haspopup="dialog" '
-                        f'title="Read current BCO {html.escape(canonical, quote=True)} '
+                        f'title="Research current BCO {html.escape(canonical, quote=True)} '
                         f'{"chapter" if is_bco_chapter else "text"}">'
                         f"{label}</a>"
                     )
@@ -630,7 +637,7 @@ def linkify_text(
                         f'data-constitution-ref="{html.escape(canonical, quote=True)}" '
                         f'data-constitution-kind="{kind}" '
                         'aria-haspopup="dialog" '
-                        f'title="Read current {display_book} {html.escape(canonical, quote=True)}{source_note} in the Constitution Reader">'
+                        f'title="Research current {display_book} {html.escape(canonical, quote=True)}{source_note}">'
                         f"{label}</a>"
                     )
                 linked += 1
@@ -953,7 +960,7 @@ def self_test() -> None:
         "test.html",
     )
     assert catechism_count == 2
-    assert catechism_rendered.count(f'{READER_BASE}#wlc/Q.177') == 2
+    assert catechism_rendered.count(provision_href("wlc", "Q.177")) == 2
 
     structured = render_section_body({
         "blocks": [
@@ -1050,27 +1057,27 @@ def self_test() -> None:
     assert '>6</a>,' in rendered
     assert '>3</a>.</p>' in rendered
     assert 'data-bco-ref="6"' not in rendered
-    assert f'{READER_BASE}#bco/24' in rendered
+    assert provision_href("bco", "24") in rendered
     assert ' and 99.</p>' in rendered
     assert 'BCO 7.2 and BCO 21 4 remain unlinked.' in rendered
-    assert f'{READER_BASE}#bco/5-9' in rendered
-    assert f'{READER_BASE}#wcf/3.3' in rendered
-    assert f'{READER_BASE}#wcf/8.5' in rendered
-    assert rendered.count(f'{READER_BASE}#wcf/19.4') == 3
-    assert f'{READER_BASE}#wcf/25' in rendered
+    assert provision_href("bco", "5-9") in rendered
+    assert provision_href("wcf", "3.3") in rendered
+    assert provision_href("wcf", "8.5") in rendered
+    assert rendered.count(provision_href("wcf", "19.4")) == 3
+    assert provision_href("wcf", "25") in rendered
     assert 'data-constitution-ref="25" data-constitution-kind="chapter"' in rendered
     assert '>WCF XXV</a> 2-3' in rendered
-    assert f'{READER_BASE}#wlc/Q.62' in rendered
-    assert f'{READER_BASE}#wlc/Q.63' in rendered
+    assert provision_href("wlc", "Q.62") in rendered
+    assert provision_href("wlc", "Q.63") in rendered
     assert '>WLC Q&amp;A 62</a> and <a class="constitution-ref"' in rendered
-    assert f'{READER_BASE}#wlc/Q.166' in rendered
-    assert f'{READER_BASE}#wsc/Q.95' in rendered
+    assert provision_href("wlc", "Q.166") in rendered
+    assert provision_href("wsc", "Q.95") in rendered
     assert 'data-constitution-book="wlc"' in rendered
     assert 'data-constitution-ref="Q.166"' in rendered
-    assert f'{READER_BASE}#rao/16-3' in rendered
-    assert f'{READER_BASE}#rao/14-10' in rendered
-    assert f'{READER_BASE}#rao/14-4' in rendered
-    assert f'{READER_BASE}#rao/18' in rendered
+    assert provision_href("rao", "16-3") in rendered
+    assert provision_href("rao", "14-10") in rendered
+    assert provision_href("rao", "14-4") in rendered
+    assert provision_href("rao", "18") in rendered
     assert 'data-constitution-book="rao"' in rendered
     assert '>WLC 166B</a>' in rendered
     assert '<a href="#">BCO 25-5</a>' in rendered

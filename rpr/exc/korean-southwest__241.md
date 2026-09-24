@@ -1,3 +1,20 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga52_2025"
+    label: "Minutes PDF · p. 604"
+    file: "52nd_pcaga_2025.pdf"
+    volume: "ga52_2025"
+    pdf_page: 604
+    url: "https://www.pcahistory.org/pca/ga/52nd_pcaga_2025.pdf#page=604"
+  - type: "minutes"
+    source_id: "minutes:ga52_2025"
+    label: "Minutes PDF · p. 612"
+    file: "52nd_pcaga_2025.pdf"
+    volume: "ga52_2025"
+    pdf_page: 612
+    url: "https://www.pcahistory.org/pca/ga/52nd_pcaga_2025.pdf#page=612"
+---
 # Korean Southwest Presbytery — BCO 20-9, BCO 46-6
 
 *Presbytery approved withdrawal of a TE to another denomination without…*

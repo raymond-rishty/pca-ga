@@ -1,3 +1,20 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga52_2025"
+    label: "Minutes PDF · p. 607"
+    file: "52nd_pcaga_2025.pdf"
+    volume: "ga52_2025"
+    pdf_page: 607
+    url: "https://www.pcahistory.org/pca/ga/52nd_pcaga_2025.pdf#page=607"
+  - type: "minutes"
+    source_id: "minutes:ga52_2025"
+    label: "Minutes PDF · p. 623"
+    file: "52nd_pcaga_2025.pdf"
+    volume: "ga52_2025"
+    pdf_page: 623
+    url: "https://www.pcahistory.org/pca/ga/52nd_pcaga_2025.pdf#page=623"
+---
 # Korean Southwest Presbytery — BCO 13-6, BCO 21-4, BCO 23-1
 
 *There is no evidence in the minutes as to whether men examined by Presbytery…*

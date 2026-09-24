@@ -1,3 +1,20 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga48_2021"
+    label: "Minutes PDF · p. 573"
+    file: "48th_pcaga_2021.pdf"
+    volume: "ga48_2021"
+    pdf_page: 573
+    url: "https://www.pcahistory.org/pca/ga/48th_pcaga_2021.pdf#page=573"
+  - type: "minutes"
+    source_id: "minutes:ga49_2022"
+    label: "Minutes PDF · p. 530"
+    file: "49th_pcaga_2022.pdf"
+    volume: "ga49_2022"
+    pdf_page: 530
+    url: "https://www.pcahistory.org/pca/ga/49th_pcaga_2022.pdf#page=530"
+---
 # Heritage Presbytery — BCO 12-7, RAO 16-3.e.6
 
 *Record does not indicate that all 2019 Session Records were reviewed by…*

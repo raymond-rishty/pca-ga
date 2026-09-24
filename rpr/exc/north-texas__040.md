@@ -1,3 +1,20 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga49_2022"
+    label: "Minutes PDF · p. 595"
+    file: "49th_pcaga_2022.pdf"
+    volume: "ga49_2022"
+    pdf_page: 595
+    url: "https://www.pcahistory.org/pca/ga/49th_pcaga_2022.pdf#page=595"
+  - type: "minutes"
+    source_id: "minutes:ga50_2023"
+    label: "Minutes PDF · p. 669"
+    file: "50th_pcaga_2023.pdf"
+    volume: "ga50_2023"
+    pdf_page: 669
+    url: "https://www.pcahistory.org/pca/ga/50th_pcaga_2023.pdf#page=669"
+---
 # North Texas Presbytery — BCO 20-1
 
 *No record of call to a definite work. Response : We do not understand the…*

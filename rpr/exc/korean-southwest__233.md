@@ -1,3 +1,20 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga52_2025"
+    label: "Minutes PDF · p. 603"
+    file: "52nd_pcaga_2025.pdf"
+    volume: "ga52_2025"
+    pdf_page: 603
+    url: "https://www.pcahistory.org/pca/ga/52nd_pcaga_2025.pdf#page=603"
+  - type: "minutes"
+    source_id: "minutes:ga52_2025"
+    label: "Minutes PDF · p. 611"
+    file: "52nd_pcaga_2025.pdf"
+    volume: "ga52_2025"
+    pdf_page: 611
+    url: "https://www.pcahistory.org/pca/ga/52nd_pcaga_2025.pdf#page=611"
+---
 # Korean Southwest Presbytery — BCO 19-3, BCO 12-5.b
 
 *Presbytery overstepped its constitutional authority in approving a church's…*

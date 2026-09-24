@@ -1,3 +1,20 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga44_2016"
+    label: "Minutes PDF · p. 390"
+    file: "44th_pcaga_2016.pdf"
+    volume: "ga44_2016"
+    pdf_page: 390
+    url: "https://www.pcahistory.org/pca/ga/44th_pcaga_2016.pdf#page=390"
+  - type: "minutes"
+    source_id: "minutes:ga45_2017"
+    label: "Minutes PDF · p. 373"
+    file: "45th_pcaga_2017.pdf"
+    volume: "ga45_2017"
+    pdf_page: 373
+    url: "https://www.pcahistory.org/pca/ga/45th_pcaga_2017.pdf#page=373"
+---
 # Blue Ridge Presbytery — BCO 23-1
 
 *No record of congregational meeting to dissolve the pastoral…*

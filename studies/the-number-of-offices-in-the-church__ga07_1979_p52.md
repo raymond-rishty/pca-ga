@@ -1,3 +1,20 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga07_1979"
+    label: "Minutes PDF · p. 54"
+    file: "7th_pcaga_1979.pdf"
+    volume: "ga07_1979"
+    pdf_page: 54
+    url: "https://www.pcahistory.org/pca/ga/7th_pcaga_1979.pdf#page=54"
+  - type: "minutes"
+    source_id: "minutes:ga07_1979"
+    label: "Minutes PDF · p. 61"
+    file: "7th_pcaga_1979.pdf"
+    volume: "ga07_1979"
+    pdf_page: 61
+    url: "https://www.pcahistory.org/pca/ga/7th_pcaga_1979.pdf#page=61"
+---
 # THE NUMBER OF OFFICES IN THE CHURCH
 
 *REPORT OF THE AD-INTERIM COMMITTEE TO STUDY THE QUESTION OF THE NUMBER OF OFFICES IN THE CHURCH TO THE FIFTH GENERAL ASSEMBLY*

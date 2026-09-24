@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga31_2003"
+    label: "Minutes PDF · p. 241"
+    file: "31st_pcaga_2003.pdf"
+    volume: "ga31_2003"
+    pdf_page: 241
+    url: "https://www.pcahistory.org/pca/ga/31st_pcaga_2003.pdf#page=241"
+---
 # Nashville Presbytery — BCO 13-6
 
 *May 12, 2001: Incomplete record of required examination elements for a…*

@@ -1,3 +1,20 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga23_1995"
+    label: "Minutes PDF · p. 196"
+    file: "23rd_pcaga_1995.pdf"
+    volume: "ga23_1995"
+    pdf_page: 196
+    url: "https://www.pcahistory.org/pca/ga/23rd_pcaga_1995.pdf#page=196"
+  - type: "minutes"
+    source_id: "minutes:ga24_1996"
+    label: "Minutes PDF · p. 255"
+    file: "24th_pcaga_1996.pdf"
+    volume: "ga24_1996"
+    pdf_page: 255
+    url: "https://www.pcahistory.org/pca/ga/24th_pcaga_1996.pdf#page=255"
+---
 # Korean Southwest Presbytery — BCO 9-7)
 
 *Deaconess is not an office recognized in the PCA (BCO 9-7).…*

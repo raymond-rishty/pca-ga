@@ -1,3 +1,20 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga46_2018"
+    label: "Minutes PDF · p. 372"
+    file: "46th_pcaga_2018.pdf"
+    volume: "ga46_2018"
+    pdf_page: 372
+    url: "https://www.pcahistory.org/pca/ga/46th_pcaga_2018.pdf#page=372"
+  - type: "minutes"
+    source_id: "minutes:ga47_2019"
+    label: "Minutes PDF · p. 456"
+    file: "47th_pcaga_2019.pdf"
+    volume: "ga47_2019"
+    pdf_page: 456
+    url: "https://www.pcahistory.org/pca/ga/47th_pcaga_2019.pdf#page=456"
+---
 # Central Florida Presbytery — BCO 21-4
 
 *no record of examination in Church History (i.e. no record of examination in…*

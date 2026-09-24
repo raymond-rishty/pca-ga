@@ -1,3 +1,27 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga48_2021"
+    label: "Minutes PDF · p. 633"
+    file: "48th_pcaga_2021.pdf"
+    volume: "ga48_2021"
+    pdf_page: 633
+    url: "https://www.pcahistory.org/pca/ga/48th_pcaga_2021.pdf#page=633"
+  - type: "minutes"
+    source_id: "minutes:ga49_2022"
+    label: "Minutes PDF · p. 621"
+    file: "49th_pcaga_2022.pdf"
+    volume: "ga49_2022"
+    pdf_page: 621
+    url: "https://www.pcahistory.org/pca/ga/49th_pcaga_2022.pdf#page=621"
+  - type: "minutes"
+    source_id: "minutes:ga50_2023"
+    label: "Minutes PDF · p. 700"
+    file: "50th_pcaga_2023.pdf"
+    volume: "ga50_2023"
+    pdf_page: 700
+    url: "https://www.pcahistory.org/pca/ga/50th_pcaga_2023.pdf#page=700"
+---
 # South Coast Presbytery — BCO 21-4
 
 *No record that theological thesis or exegetical papers…*

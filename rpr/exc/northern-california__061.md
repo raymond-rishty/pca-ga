@@ -1,3 +1,20 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga49_2022"
+    label: "Minutes PDF · p. 597"
+    file: "49th_pcaga_2022.pdf"
+    volume: "ga49_2022"
+    pdf_page: 597
+    url: "https://www.pcahistory.org/pca/ga/49th_pcaga_2022.pdf#page=597"
+  - type: "minutes"
+    source_id: "minutes:ga50_2023"
+    label: "Minutes PDF · p. 671"
+    file: "50th_pcaga_2023.pdf"
+    volume: "ga50_2023"
+    pdf_page: 671
+    url: "https://www.pcahistory.org/pca/ga/50th_pcaga_2023.pdf#page=671"
+---
 # Northern California Presbytery — BCO 13-12
 
 *Notice for called meeting not in order; 10-day notice not indicated or…*

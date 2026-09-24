@@ -1,6 +1,6 @@
-# WCF 3-3
+# WCF 3.3
 
-*All PCA authorities bearing on **WCF 3-3**.*
+*All PCA authorities bearing on **WCF 3.3**.*
 
 ## High authority
 

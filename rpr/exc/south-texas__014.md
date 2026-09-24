@@ -1,3 +1,20 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga22_1994"
+    label: "Minutes PDF · p. 313"
+    file: "22nd_pcaga_1994.pdf"
+    volume: "ga22_1994"
+    pdf_page: 313
+    url: "https://www.pcahistory.org/pca/ga/22nd_pcaga_1994.pdf#page=313"
+  - type: "minutes"
+    source_id: "minutes:ga22_1994"
+    label: "Minutes PDF · p. 314"
+    file: "22nd_pcaga_1994.pdf"
+    volume: "ga22_1994"
+    pdf_page: 314
+    url: "https://www.pcahistory.org/pca/ga/22nd_pcaga_1994.pdf#page=314"
+---
 # South Texas Presbytery — BCO 34
 
 *p. 5: A teaching elder was suspended from the sacraments (indefinitely) and…*

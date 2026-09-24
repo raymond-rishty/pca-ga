@@ -1,3 +1,20 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga49_2022"
+    label: "Minutes PDF · p. 554"
+    file: "49th_pcaga_2022.pdf"
+    volume: "ga49_2022"
+    pdf_page: 554
+    url: "https://www.pcahistory.org/pca/ga/49th_pcaga_2022.pdf#page=554"
+  - type: "minutes"
+    source_id: "minutes:ga50_2023"
+    label: "Minutes PDF · p. 612"
+    file: "50th_pcaga_2023.pdf"
+    volume: "ga50_2023"
+    pdf_page: 612
+    url: "https://www.pcahistory.org/pca/ga/50th_pcaga_2023.pdf#page=612"
+---
 # Korean Central Presbytery — BCO 21-14
 
 *Stated difference not recorded in candidate’s own words.; not judged according…*

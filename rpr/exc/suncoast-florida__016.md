@@ -1,3 +1,20 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga40_2012"
+    label: "Minutes PDF · p. 476"
+    file: "40th_pcaga_2012.pdf"
+    volume: "ga40_2012"
+    pdf_page: 476
+    url: "https://www.pcahistory.org/pca/ga/40th_pcaga_2012.pdf#page=476"
+  - type: "minutes"
+    source_id: "minutes:ga41_2013"
+    label: "Minutes PDF · p. 484"
+    file: "41st_pcaga_2013.pdf"
+    volume: "ga41_2013"
+    pdf_page: 484
+    url: "https://www.pcahistory.org/pca/ga/41st_pcaga_2013.pdf#page=484"
+---
 # Suncoast Florida Presbytery — BCO 13-12
 
 *February 13, 2011 ( BCO 13-12) Call for meeting not in order (no 10-day…*

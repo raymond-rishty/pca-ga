@@ -1,3 +1,27 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga48_2021"
+    label: "Minutes PDF · p. 587"
+    file: "48th_pcaga_2021.pdf"
+    volume: "ga48_2021"
+    pdf_page: 587
+    url: "https://www.pcahistory.org/pca/ga/48th_pcaga_2021.pdf#page=587"
+  - type: "minutes"
+    source_id: "minutes:ga49_2022"
+    label: "Minutes PDF · p. 560"
+    file: "49th_pcaga_2022.pdf"
+    volume: "ga49_2022"
+    pdf_page: 560
+    url: "https://www.pcahistory.org/pca/ga/49th_pcaga_2022.pdf#page=560"
+  - type: "minutes"
+    source_id: "minutes:ga50_2023"
+    label: "Minutes PDF · p. 623"
+    file: "50th_pcaga_2023.pdf"
+    volume: "ga50_2023"
+    pdf_page: 623
+    url: "https://www.pcahistory.org/pca/ga/50th_pcaga_2023.pdf#page=623"
+---
 # Korean Northwest Presbytery — BCO 13-5
 
 *TEs on roll without explanation. Apr 8, 2019 meeting listed 32 total TEs and…*

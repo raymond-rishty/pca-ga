@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga30_2002"
+    label: "Minutes PDF · p. 333"
+    file: "30th_pcaga_2002.pdf"
+    volume: "ga30_2002"
+    pdf_page: 333
+    url: "https://www.pcahistory.org/pca/ga/30th_pcaga_2002.pdf#page=333"
+---
 # Philadelphia Presbytery — BCO 13-11
 
 *January 20, 2001, May 12, 2001, September 8, 2001, November 10, 2001: No…*

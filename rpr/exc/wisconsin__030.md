@@ -1,3 +1,20 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga49_2022"
+    label: "Minutes PDF · p. 634"
+    file: "49th_pcaga_2022.pdf"
+    volume: "ga49_2022"
+    pdf_page: 634
+    url: "https://www.pcahistory.org/pca/ga/49th_pcaga_2022.pdf#page=634"
+  - type: "minutes"
+    source_id: "minutes:ga50_2023"
+    label: "Minutes PDF · p. 724"
+    file: "50th_pcaga_2023.pdf"
+    volume: "ga50_2023"
+    pdf_page: 724
+    url: "https://www.pcahistory.org/pca/ga/50th_pcaga_2023.pdf#page=724"
+---
 # Wisconsin Presbytery — BCO 5-4
 
 *The nature of provision for pastoral ministry for a mission church not clearly…*

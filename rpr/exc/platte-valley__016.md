@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga52_2025"
+    label: "Minutes PDF · p. 690"
+    file: "52nd_pcaga_2025.pdf"
+    volume: "ga52_2025"
+    pdf_page: 690
+    url: "https://www.pcahistory.org/pca/ga/52nd_pcaga_2025.pdf#page=690"
+---
 # Platte Valley Presbytery — BCO 21-4.f, BCO 21-4.g
 
 *Presbytery appears to have incorrectly ruled the following stated difference…*

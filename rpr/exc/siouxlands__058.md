@@ -1,3 +1,20 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga40_2012"
+    label: "Minutes PDF · p. 472"
+    file: "40th_pcaga_2012.pdf"
+    volume: "ga40_2012"
+    pdf_page: 472
+    url: "https://www.pcahistory.org/pca/ga/40th_pcaga_2012.pdf#page=472"
+  - type: "minutes"
+    source_id: "minutes:ga41_2013"
+    label: "Minutes PDF · p. 477"
+    file: "41st_pcaga_2013.pdf"
+    volume: "ga41_2013"
+    pdf_page: 477
+    url: "https://www.pcahistory.org/pca/ga/41st_pcaga_2013.pdf#page=477"
+---
 # Siouxlands Presbytery — BCO 13-6
 
 *All specific requirements for minister’s transfer from another presbytery not…*

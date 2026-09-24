@@ -1,3 +1,20 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga24_1996"
+    label: "Minutes PDF · p. 263"
+    file: "24th_pcaga_1996.pdf"
+    volume: "ga24_1996"
+    pdf_page: 263
+    url: "https://www.pcahistory.org/pca/ga/24th_pcaga_1996.pdf#page=263"
+  - type: "minutes"
+    source_id: "minutes:ga25_1997"
+    label: "Minutes PDF · p. 221"
+    file: "25th_pcaga_1997.pdf"
+    volume: "ga25_1997"
+    pdf_page: 221
+    url: "https://www.pcahistory.org/pca/ga/25th_pcaga_1997.pdf#page=221"
+---
 # Southwest Presbytery — exception of substance
 
 *no indication of annual review of session records d. that the responses to…*

@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga50_2023"
+    label: "Minutes PDF · p. 707"
+    file: "50th_pcaga_2023.pdf"
+    volume: "ga50_2023"
+    pdf_page: 707
+    url: "https://www.pcahistory.org/pca/ga/50th_pcaga_2023.pdf#page=707"
+---
 # Southern Louisiana Presbytery — BCO 5-9
 
 *Presbytery organized a church that had not elected ruling elders or called a…*

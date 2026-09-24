@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga45_2017"
+    label: "Minutes PDF · p. 407"
+    file: "45th_pcaga_2017.pdf"
+    volume: "ga45_2017"
+    pdf_page: 407
+    url: "https://www.pcahistory.org/pca/ga/45th_pcaga_2017.pdf#page=407"
+---
 # Northwest Georgia Presbytery — WLC 109
 
 *4, WLC 109) – Presbytery distributed to worshipers the Worship Guide the cover…*

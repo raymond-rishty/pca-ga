@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga51_2024"
+    label: "Minutes PDF · p. 606"
+    file: "51st_pcaga_2024.pdf"
+    volume: "ga51_2024"
+    pdf_page: 606
+    url: "https://www.pcahistory.org/pca/ga/51st_pcaga_2024.pdf#page=606"
+---
 # Northern California Presbytery — BCO 18-2
 
 *No record of sixmonths membership for…*

@@ -1,3 +1,41 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga30_2002"
+    label: "Minutes PDF · p. 315"
+    file: "30th_pcaga_2002.pdf"
+    volume: "ga30_2002"
+    pdf_page: 315
+    url: "https://www.pcahistory.org/pca/ga/30th_pcaga_2002.pdf#page=315"
+  - type: "minutes"
+    source_id: "minutes:ga31_2003"
+    label: "Minutes PDF · p. 229"
+    file: "31st_pcaga_2003.pdf"
+    volume: "ga31_2003"
+    pdf_page: 229
+    url: "https://www.pcahistory.org/pca/ga/31st_pcaga_2003.pdf#page=229"
+  - type: "minutes"
+    source_id: "minutes:ga32_2004"
+    label: "Minutes PDF · p. 217"
+    file: "32nd_pcaga_2004.pdf"
+    volume: "ga32_2004"
+    pdf_page: 217
+    url: "https://www.pcahistory.org/pca/ga/32nd_pcaga_2004.pdf#page=217"
+  - type: "minutes"
+    source_id: "minutes:ga33_2005"
+    label: "Minutes PDF · p. 280"
+    file: "33rd_pcaga_2005.pdf"
+    volume: "ga33_2005"
+    pdf_page: 280
+    url: "https://www.pcahistory.org/pca/ga/33rd_pcaga_2005.pdf#page=280"
+  - type: "minutes"
+    source_id: "minutes:ga34_2006"
+    label: "Minutes PDF · p. 263"
+    file: "34th_pcaga_2006.pdf"
+    volume: "ga34_2006"
+    pdf_page: 263
+    url: "https://www.pcahistory.org/pca/ga/34th_pcaga_2006.pdf#page=263"
+---
 # Korean Capital Presbytery — BCO 13-12
 
 *No record Presbytery met required two meetings a year. BCO 13-12 d. That the…*

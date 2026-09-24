@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga31_2003"
+    label: "Minutes PDF · p. 239"
+    file: "31st_pcaga_2003.pdf"
+    volume: "ga31_2003"
+    pdf_page: 239
+    url: "https://www.pcahistory.org/pca/ga/31st_pcaga_2003.pdf#page=239"
+---
 # Missouri Presbytery — BCO 8-7
 
 *May 20, 1999: Presbytery did not record why it considers a work a valid…*

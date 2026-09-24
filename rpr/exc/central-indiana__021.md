@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga50_2023"
+    label: "Minutes PDF · p. 534"
+    file: "50th_pcaga_2023.pdf"
+    volume: "ga50_2023"
+    pdf_page: 534
+    url: "https://www.pcahistory.org/pca/ga/50th_pcaga_2023.pdf#page=534"
+---
 # Central Indiana Presbytery — BCO 13-11, RAO 16-3.e.7
 
 *Minutes of executive session not included (Rationale: Stated Meeting Minutes…*

@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga34_2006"
+    label: "Minutes PDF · p. 268"
+    file: "34th_pcaga_2006.pdf"
+    volume: "ga34_2006"
+    pdf_page: 268
+    url: "https://www.pcahistory.org/pca/ga/34th_pcaga_2006.pdf#page=268"
+---
 # Korean Southeastern Presbytery — BCO 34-10
 
 *Presbytery may not remove men from their roll simply by virtue of their have…*

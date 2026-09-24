@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga47_2019"
+    label: "Minutes PDF · p. 459"
+    file: "47th_pcaga_2019.pdf"
+    volume: "ga47_2019"
+    pdf_page: 459
+    url: "https://www.pcahistory.org/pca/ga/47th_pcaga_2019.pdf#page=459"
+---
 # Central Georgia Presbytery — BCO 38-1
 
 *No record of the steps required for a case without process per BCO 38-1 have…*

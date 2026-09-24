@@ -1,3 +1,20 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga48_2021"
+    label: "Minutes PDF · p. 577"
+    file: "48th_pcaga_2021.pdf"
+    volume: "ga48_2021"
+    pdf_page: 577
+    url: "https://www.pcahistory.org/pca/ga/48th_pcaga_2021.pdf#page=577"
+  - type: "minutes"
+    source_id: "minutes:ga49_2022"
+    label: "Minutes PDF · p. 538"
+    file: "49th_pcaga_2022.pdf"
+    volume: "ga49_2022"
+    pdf_page: 538
+    url: "https://www.pcahistory.org/pca/ga/49th_pcaga_2022.pdf#page=538"
+---
 # Hills and Plains Presbytery — BCO 21-2
 
 *No approval of candidate for ordination’s completed…*

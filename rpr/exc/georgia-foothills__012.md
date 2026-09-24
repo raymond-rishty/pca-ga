@@ -1,3 +1,34 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga40_2012"
+    label: "Minutes PDF · p. 423"
+    file: "40th_pcaga_2012.pdf"
+    volume: "ga40_2012"
+    pdf_page: 423
+    url: "https://www.pcahistory.org/pca/ga/40th_pcaga_2012.pdf#page=423"
+  - type: "minutes"
+    source_id: "minutes:ga41_2013"
+    label: "Minutes PDF · p. 430"
+    file: "41st_pcaga_2013.pdf"
+    volume: "ga41_2013"
+    pdf_page: 430
+    url: "https://www.pcahistory.org/pca/ga/41st_pcaga_2013.pdf#page=430"
+  - type: "minutes"
+    source_id: "minutes:ga47_2019"
+    label: "Minutes PDF · p. 464"
+    file: "47th_pcaga_2019.pdf"
+    volume: "ga47_2019"
+    pdf_page: 464
+    url: "https://www.pcahistory.org/pca/ga/47th_pcaga_2019.pdf#page=464"
+  - type: "minutes"
+    source_id: "minutes:ga48_2021"
+    label: "Minutes PDF · p. 571"
+    file: "48th_pcaga_2021.pdf"
+    volume: "ga48_2021"
+    pdf_page: 571
+    url: "https://www.pcahistory.org/pca/ga/48th_pcaga_2021.pdf#page=571"
+---
 # Georgia Foothills Presbytery — BCO 13-6
 
 *No record that minister transferring into presbytery was examined for…*

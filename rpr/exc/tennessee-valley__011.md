@@ -1,3 +1,20 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga22_1994"
+    label: "Minutes PDF · p. 318"
+    file: "22nd_pcaga_1994.pdf"
+    volume: "ga22_1994"
+    pdf_page: 318
+    url: "https://www.pcahistory.org/pca/ga/22nd_pcaga_1994.pdf#page=318"
+  - type: "minutes"
+    source_id: "minutes:ga24_1996"
+    label: "Minutes PDF · p. 265"
+    file: "24th_pcaga_1996.pdf"
+    volume: "ga24_1996"
+    pdf_page: 265
+    url: "https://www.pcahistory.org/pca/ga/24th_pcaga_1996.pdf#page=265"
+---
 # Tennessee Valley Presbytery — BCO 15-2)
 
 *Quorum of ordination and installation commissions must be at least 2 TEs and 2…*

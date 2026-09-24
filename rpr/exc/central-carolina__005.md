@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga29_2001"
+    label: "Minutes PDF · p. 327"
+    file: "29th_pcaga_2001.pdf"
+    volume: "ga29_2001"
+    pdf_page: 327
+    url: "https://www.pcahistory.org/pca/ga/29th_pcaga_2001.pdf#page=327"
+---
 # Central Carolina Presbytery — BCO 20-1
 
 *TE was installed at the organizational service, but the call was not approved…*

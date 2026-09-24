@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga34_2006"
+    label: "Minutes PDF · p. 246"
+    file: "34th_pcaga_2006.pdf"
+    volume: "ga34_2006"
+    pdf_page: 246
+    url: "https://www.pcahistory.org/pca/ga/34th_pcaga_2006.pdf#page=246"
+---
 # Central Georgia Presbytery — BCO 40-1, RAO 14-4.a, RAO 14-4.e
 
 *these minutes are to be submitted to the 34 [th] GA. BCO 40-1, RAO 14-4.a…*

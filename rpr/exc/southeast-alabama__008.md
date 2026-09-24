@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga25_1997"
+    label: "Minutes PDF · p. 220"
+    file: "25th_pcaga_1997.pdf"
+    volume: "ga25_1997"
+    pdf_page: 220
+    url: "https://www.pcahistory.org/pca/ga/25th_pcaga_1997.pdf#page=220"
+---
 # Southeast Alabama Presbytery — BCO 15-1
 
 *October 24, 1995. Appendix C. Commission to ordain did not have proper quorum…*

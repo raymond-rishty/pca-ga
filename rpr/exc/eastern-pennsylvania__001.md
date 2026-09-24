@@ -1,3 +1,20 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga35_2007"
+    label: "Minutes PDF · p. 181"
+    file: "35th_pcaga_2007.pdf"
+    volume: "ga35_2007"
+    pdf_page: 181
+    url: "https://www.pcahistory.org/pca/ga/35th_pcaga_2007.pdf#page=181"
+  - type: "minutes"
+    source_id: "minutes:ga36_2008"
+    label: "Minutes PDF · p. 220"
+    file: "36th_pcaga_2008.pdf"
+    volume: "ga36_2008"
+    pdf_page: 220
+    url: "https://www.pcahistory.org/pca/ga/36th_pcaga_2008.pdf#page=220"
+---
 # Eastern Pennsylvania Presbytery — BCO 18-3
 
 *: Candidate received without being present at meeting. BCO…*

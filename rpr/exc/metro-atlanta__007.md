@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga36_2008"
+    label: "Minutes PDF · p. 238"
+    file: "36th_pcaga_2008.pdf"
+    volume: "ga36_2008"
+    pdf_page: 238
+    url: "https://www.pcahistory.org/pca/ga/36th_pcaga_2008.pdf#page=238"
+---
 # Metro Atlanta Presbytery — BCO 18-3
 
 *October 17, 2006: No record of examination on experiential religion or motives…*

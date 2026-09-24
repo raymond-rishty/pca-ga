@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga31_2003"
+    label: "Minutes PDF · p. 242"
+    file: "31st_pcaga_2003.pdf"
+    volume: "ga31_2003"
+    pdf_page: 242
+    url: "https://www.pcahistory.org/pca/ga/31st_pcaga_2003.pdf#page=242"
+---
 # New Jersey Presbytery — exception of substance
 
 *Ordination exam items not listed. “RAO”…*

@@ -1,3 +1,20 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga31_2003"
+    label: "Minutes PDF · p. 259"
+    file: "31st_pcaga_2003.pdf"
+    volume: "ga31_2003"
+    pdf_page: 259
+    url: "https://www.pcahistory.org/pca/ga/31st_pcaga_2003.pdf#page=259"
+  - type: "minutes"
+    source_id: "minutes:ga33_2005"
+    label: "Minutes PDF · p. 315"
+    file: "33rd_pcaga_2005.pdf"
+    volume: "ga33_2005"
+    pdf_page: 315
+    url: "https://www.pcahistory.org/pca/ga/33rd_pcaga_2005.pdf#page=315"
+---
 # Southwest Florida Presbytery — BCO 19-2
 
 *Incomplete record of exam elements. “RAO” 14-3.e.5; BCO…*

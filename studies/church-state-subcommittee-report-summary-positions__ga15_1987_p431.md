@@ -1,3 +1,20 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga15_1987"
+    label: "Minutes PDF · p. 433"
+    file: "15th_pcaga_1987.pdf"
+    volume: "ga15_1987"
+    pdf_page: 433
+    url: "https://www.pcahistory.org/pca/ga/15th_pcaga_1987.pdf#page=433"
+  - type: "minutes"
+    source_id: "minutes:ga15_1987"
+    label: "Minutes PDF · p. 434"
+    file: "15th_pcaga_1987.pdf"
+    volume: "ga15_1987"
+    pdf_page: 434
+    url: "https://www.pcahistory.org/pca/ga/15th_pcaga_1987.pdf#page=434"
+---
 # Church/State Subcommittee Report — Summary Positions
 
 *Church/State Subcommittee Report — Summary Positions*

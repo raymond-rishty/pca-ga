@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga51_2024"
+    label: "Minutes PDF · p. 611"
+    file: "51st_pcaga_2024.pdf"
+    volume: "ga51_2024"
+    pdf_page: 611
+    url: "https://www.pcahistory.org/pca/ga/51st_pcaga_2024.pdf#page=611"
+---
 # Ohio Presbytery — BCO 21-1, RAO 16-3.e.6
 
 *No record of Presbytery approving the call to a TE [name omitted] whose status…*

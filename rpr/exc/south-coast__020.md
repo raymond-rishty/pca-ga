@@ -1,3 +1,20 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga34_2006"
+    label: "Minutes PDF · p. 296"
+    file: "34th_pcaga_2006.pdf"
+    volume: "ga34_2006"
+    pdf_page: 296
+    url: "https://www.pcahistory.org/pca/ga/34th_pcaga_2006.pdf#page=296"
+  - type: "minutes"
+    source_id: "minutes:ga35_2007"
+    label: "Minutes PDF · p. 214"
+    file: "35th_pcaga_2007.pdf"
+    volume: "ga35_2007"
+    pdf_page: 214
+    url: "https://www.pcahistory.org/pca/ga/35th_pcaga_2007.pdf#page=214"
+---
 # South Coast Presbytery — BCO 21-4, RAO 14-3.e.5
 
 *Record of examination of candidate [name] for ordination is incomplete – no…*

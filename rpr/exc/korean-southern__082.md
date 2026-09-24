@@ -1,3 +1,48 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga34_2006"
+    label: "Minutes PDF · p. 271"
+    file: "34th_pcaga_2006.pdf"
+    volume: "ga34_2006"
+    pdf_page: 271
+    url: "https://www.pcahistory.org/pca/ga/34th_pcaga_2006.pdf#page=271"
+  - type: "minutes"
+    source_id: "minutes:ga41_2013"
+    label: "Minutes PDF · p. 444"
+    file: "41st_pcaga_2013.pdf"
+    volume: "ga41_2013"
+    pdf_page: 444
+    url: "https://www.pcahistory.org/pca/ga/41st_pcaga_2013.pdf#page=444"
+  - type: "minutes"
+    source_id: "minutes:ga42_2014"
+    label: "Minutes PDF · p. 424"
+    file: "42nd_pcaga_2014.pdf"
+    volume: "ga42_2014"
+    pdf_page: 424
+    url: "https://www.pcahistory.org/pca/ga/42nd_pcaga_2014.pdf#page=424"
+  - type: "minutes"
+    source_id: "minutes:ga43_2015"
+    label: "Minutes PDF · p. 453"
+    file: "43rd_pcaga_2015.pdf"
+    volume: "ga43_2015"
+    pdf_page: 453
+    url: "https://www.pcahistory.org/pca/ga/43rd_pcaga_2015.pdf#page=453"
+  - type: "minutes"
+    source_id: "minutes:ga45_2017"
+    label: "Minutes PDF · p. 397"
+    file: "45th_pcaga_2017.pdf"
+    volume: "ga45_2017"
+    pdf_page: 397
+    url: "https://www.pcahistory.org/pca/ga/45th_pcaga_2017.pdf#page=397"
+  - type: "minutes"
+    source_id: "minutes:ga46_2018"
+    label: "Minutes PDF · p. 424"
+    file: "46th_pcaga_2018.pdf"
+    volume: "ga46_2018"
+    pdf_page: 424
+    url: "https://www.pcahistory.org/pca/ga/46th_pcaga_2018.pdf#page=424"
+---
 # Korean Southern Presbytery — BCO 13-9.b
 
 *No record of annual review of sessional records. BCO…*

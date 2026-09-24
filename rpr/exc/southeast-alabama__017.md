@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga26_1998"
+    label: "Minutes PDF · p. 253"
+    file: "26th_pcaga_1998.pdf"
+    volume: "ga26_1998"
+    pdf_page: 253
+    url: "https://www.pcahistory.org/pca/ga/26th_pcaga_1998.pdf#page=253"
+---
 # Southeast Alabama Presbytery — BCO 21-4
 
 *There is no record that the ordinand was asked to indicate whether he has…*

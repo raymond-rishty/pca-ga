@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga32_2004"
+    label: "Minutes PDF · p. 237"
+    file: "32nd_pcaga_2004.pdf"
+    volume: "ga32_2004"
+    pdf_page: 237
+    url: "https://www.pcahistory.org/pca/ga/32nd_pcaga_2004.pdf#page=237"
+---
 # South Coast Presbytery — BCO 21-4, RAO 14-3.e.5
 
 *No record of complete transfer exam. BCO 21-4, RAO…*

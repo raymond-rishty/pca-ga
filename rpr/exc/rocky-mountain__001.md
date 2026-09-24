@@ -1,3 +1,20 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga22_1994"
+    label: "Minutes PDF · p. 309"
+    file: "22nd_pcaga_1994.pdf"
+    volume: "ga22_1994"
+    pdf_page: 309
+    url: "https://www.pcahistory.org/pca/ga/22nd_pcaga_1994.pdf#page=309"
+  - type: "minutes"
+    source_id: "minutes:ga23_1995"
+    label: "Minutes PDF · p. 205"
+    file: "23rd_pcaga_1995.pdf"
+    volume: "ga23_1995"
+    pdf_page: 205
+    url: "https://www.pcahistory.org/pca/ga/23rd_pcaga_1995.pdf#page=205"
+---
 # Rocky Mountain Presbytery — BCO 18-1
 
 *p 14 13.a: No evidence that candidate referenced above has united with a PCA…*

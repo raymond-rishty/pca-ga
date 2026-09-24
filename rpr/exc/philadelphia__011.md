@@ -1,3 +1,27 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga19_1991"
+    label: "Minutes PDF · p. 187"
+    file: "19th_pcaga_1991.pdf"
+    volume: "ga19_1991"
+    pdf_page: 187
+    url: "https://www.pcahistory.org/pca/ga/19th_pcaga_1991.pdf#page=187"
+  - type: "minutes"
+    source_id: "minutes:ga34_2006"
+    label: "Minutes PDF · p. 293"
+    file: "34th_pcaga_2006.pdf"
+    volume: "ga34_2006"
+    pdf_page: 293
+    url: "https://www.pcahistory.org/pca/ga/34th_pcaga_2006.pdf#page=293"
+  - type: "minutes"
+    source_id: "minutes:ga35_2007"
+    label: "Minutes PDF · p. 212"
+    file: "35th_pcaga_2007.pdf"
+    volume: "ga35_2007"
+    pdf_page: 212
+    url: "https://www.pcahistory.org/pca/ga/35th_pcaga_2007.pdf#page=212"
+---
 # Philadelphia Presbytery — BCO 23-1
 
 *par. 16 Attachment 93A No record of congregational concurrence in dissolving…*

@@ -1,3 +1,20 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga48_2021"
+    label: "Minutes PDF · p. 624"
+    file: "48th_pcaga_2021.pdf"
+    volume: "ga48_2021"
+    pdf_page: 624
+    url: "https://www.pcahistory.org/pca/ga/48th_pcaga_2021.pdf#page=624"
+  - type: "minutes"
+    source_id: "minutes:ga49_2022"
+    label: "Minutes PDF · p. 612"
+    file: "49th_pcaga_2022.pdf"
+    volume: "ga49_2022"
+    pdf_page: 612
+    url: "https://www.pcahistory.org/pca/ga/49th_pcaga_2022.pdf#page=612"
+---
 # Providence Presbytery — BCO 19-2.d
 
 *no record of a written or oral sermon. Response : We disagree with this…*

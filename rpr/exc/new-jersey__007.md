@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga22_1994"
+    label: "Minutes PDF · p. 299"
+    file: "22nd_pcaga_1994.pdf"
+    volume: "ga22_1994"
+    pdf_page: 299
+    url: "https://www.pcahistory.org/pca/ga/22nd_pcaga_1994.pdf#page=299"
+---
 # New Jersey Presbytery — exception of substance
 
 *p. 256, item G: There is no record of the two complaints, one of which was…*

@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga32_2004"
+    label: "Minutes PDF · p. 246"
+    file: "32nd_pcaga_2004.pdf"
+    volume: "ga32_2004"
+    pdf_page: 246
+    url: "https://www.pcahistory.org/pca/ga/32nd_pcaga_2004.pdf#page=246"
+---
 # Tennessee Valley Presbytery — BCO 40-1, RAO 14-4.a
 
 *Called meeting minutes not submitted to GA. BCO 40-1, RAO…*

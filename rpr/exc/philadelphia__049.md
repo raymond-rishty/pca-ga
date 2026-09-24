@@ -1,3 +1,20 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga49_2022"
+    label: "Minutes PDF · p. 608"
+    file: "49th_pcaga_2022.pdf"
+    volume: "ga49_2022"
+    pdf_page: 608
+    url: "https://www.pcahistory.org/pca/ga/49th_pcaga_2022.pdf#page=608"
+  - type: "minutes"
+    source_id: "minutes:ga50_2023"
+    label: "Minutes PDF · p. 684"
+    file: "50th_pcaga_2023.pdf"
+    volume: "ga50_2023"
+    pdf_page: 684
+    url: "https://www.pcahistory.org/pca/ga/50th_pcaga_2023.pdf#page=684"
+---
 # Philadelphia Presbytery — BCO 13-6
 
 *No record that minister transferring into the presbytery was examined on his…*

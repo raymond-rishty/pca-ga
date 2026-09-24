@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga51_2024"
+    label: "Minutes PDF · p. 577"
+    file: "51st_pcaga_2024.pdf"
+    volume: "ga51_2024"
+    pdf_page: 577
+    url: "https://www.pcahistory.org/pca/ga/51st_pcaga_2024.pdf#page=577"
+---
 # Korean Southwest Orange County Presbytery — BCO 46-6
 
 *The minutes record that a man has transferred to another Presbytery. No record…*

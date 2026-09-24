@@ -1,3 +1,20 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga46_2018"
+    label: "Minutes PDF · p. 407"
+    file: "46th_pcaga_2018.pdf"
+    volume: "ga46_2018"
+    pdf_page: 407
+    url: "https://www.pcahistory.org/pca/ga/46th_pcaga_2018.pdf#page=407"
+  - type: "minutes"
+    source_id: "minutes:ga47_2019"
+    label: "Minutes PDF · p. 476"
+    file: "47th_pcaga_2019.pdf"
+    volume: "ga47_2019"
+    pdf_page: 476
+    url: "https://www.pcahistory.org/pca/ga/47th_pcaga_2019.pdf#page=476"
+---
 # Korean Capital Presbytery — BCO 15-1, RAO 16-3.e.4
 
 *Minutes of judicial commission not entered in the…*

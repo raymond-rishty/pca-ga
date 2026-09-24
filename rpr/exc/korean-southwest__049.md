@@ -1,3 +1,20 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga32_2004"
+    label: "Minutes PDF · p. 222"
+    file: "32nd_pcaga_2004.pdf"
+    volume: "ga32_2004"
+    pdf_page: 222
+    url: "https://www.pcahistory.org/pca/ga/32nd_pcaga_2004.pdf#page=222"
+  - type: "minutes"
+    source_id: "minutes:ga34_2006"
+    label: "Minutes PDF · p. 273"
+    file: "34th_pcaga_2006.pdf"
+    volume: "ga34_2006"
+    pdf_page: 273
+    url: "https://www.pcahistory.org/pca/ga/34th_pcaga_2006.pdf#page=273"
+---
 # Korean Southwest Presbytery — RAO 14-4.c.1
 
 *No directory, lists, roll of churches, standing rules submitted. RAO 14-4.c.1…*

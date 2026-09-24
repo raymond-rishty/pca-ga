@@ -1,3 +1,20 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga40_2012"
+    label: "Minutes PDF · p. 478"
+    file: "40th_pcaga_2012.pdf"
+    volume: "ga40_2012"
+    pdf_page: 478
+    url: "https://www.pcahistory.org/pca/ga/40th_pcaga_2012.pdf#page=478"
+  - type: "minutes"
+    source_id: "minutes:ga41_2013"
+    label: "Minutes PDF · p. 486"
+    file: "41st_pcaga_2013.pdf"
+    volume: "ga41_2013"
+    pdf_page: 486
+    url: "https://www.pcahistory.org/pca/ga/41st_pcaga_2013.pdf#page=486"
+---
 # Warrior Presbytery — BCO 13-12
 
 *( BCO 13-12 and RAO 16-3.c.1) – No record of call for meeting. Purpose of…*

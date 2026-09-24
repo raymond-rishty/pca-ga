@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga48_2021"
+    label: "Minutes PDF · p. 582"
+    file: "48th_pcaga_2021.pdf"
+    volume: "ga48_2021"
+    pdf_page: 582
+    url: "https://www.pcahistory.org/pca/ga/48th_pcaga_2021.pdf#page=582"
+---
 # James River Presbytery — exception of substance
 
 *Commission held a meeting by email which does not constitute a deli be rat ive…*

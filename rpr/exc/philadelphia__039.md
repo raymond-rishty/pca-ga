@@ -1,3 +1,20 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga44_2016"
+    label: "Minutes PDF · p. 434"
+    file: "44th_pcaga_2016.pdf"
+    volume: "ga44_2016"
+    pdf_page: 434
+    url: "https://www.pcahistory.org/pca/ga/44th_pcaga_2016.pdf#page=434"
+  - type: "minutes"
+    source_id: "minutes:ga45_2017"
+    label: "Minutes PDF · p. 409"
+    file: "45th_pcaga_2017.pdf"
+    volume: "ga45_2017"
+    pdf_page: 409
+    url: "https://www.pcahistory.org/pca/ga/45th_pcaga_2017.pdf#page=409"
+---
 # Philadelphia Presbytery — BCO 13-11
 
 *Presbytery included two sets of minutes for September 19, 2015 that included…*

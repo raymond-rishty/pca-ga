@@ -14,7 +14,7 @@
 
 | Year | Type | Title | Disposition |
 |------|------|-------|-------------|
-| 2009 | Constitutional inquiry | [Presbytery's investigative duty when a new body holds evangelical beliefs](../inquiries/ga37_2009__ci05.md) | advice given |
+| 2009 | Constitutional inquiry | [Whether the Beliefs of a Non-PCA Body Satisfy BCO 2](../inquiries/ga37_2009__ci05.md) | advice given |
 
 ---
 *[← Authority Index](../index/AUTHORITY-BY-PROVISION.md)*

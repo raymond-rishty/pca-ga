@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga51_2024"
+    label: "Minutes PDF · p. 482"
+    file: "51st_pcaga_2024.pdf"
+    volume: "ga51_2024"
+    pdf_page: 482
+    url: "https://www.pcahistory.org/pca/ga/51st_pcaga_2024.pdf#page=482"
+---
 # Central Carolina Presbytery — BCO 21-4
 
 *3/4 vote for ordination candidate sermon given to committee not…*

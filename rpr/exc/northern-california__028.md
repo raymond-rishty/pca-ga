@@ -1,3 +1,34 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga37_2009"
+    label: "Minutes PDF · p. 113"
+    file: "37th_pcaga_2009.pdf"
+    volume: "ga37_2009"
+    pdf_page: 113
+    url: "https://www.pcahistory.org/pca/ga/37th_pcaga_2009.pdf#page=113"
+  - type: "minutes"
+    source_id: "minutes:ga38_2010"
+    label: "Minutes PDF · p. 105"
+    file: "38th_pcaga_2010.pdf"
+    volume: "ga38_2010"
+    pdf_page: 105
+    url: "https://www.pcahistory.org/pca/ga/38th_pcaga_2010.pdf#page=105"
+  - type: "minutes"
+    source_id: "minutes:ga39_2011"
+    label: "Minutes PDF · p. 471"
+    file: "39th_pcaga_2011.pdf"
+    volume: "ga39_2011"
+    pdf_page: 471
+    url: "https://www.pcahistory.org/pca/ga/39th_pcaga_2011.pdf#page=471"
+  - type: "minutes"
+    source_id: "minutes:ga40_2012"
+    label: "Minutes PDF · p. 451"
+    file: "40th_pcaga_2012.pdf"
+    volume: "ga40_2012"
+    pdf_page: 451
+    url: "https://www.pcahistory.org/pca/ga/40th_pcaga_2012.pdf#page=451"
+---
 # Northern California Presbytery — BCO 13-9.b
 
 *no record of review of Sessional records Response : Presbytery agrees with the…*

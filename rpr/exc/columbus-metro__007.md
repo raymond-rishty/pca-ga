@@ -1,3 +1,34 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga47_2019"
+    label: "Minutes PDF · p. 462"
+    file: "47th_pcaga_2019.pdf"
+    volume: "ga47_2019"
+    pdf_page: 462
+    url: "https://www.pcahistory.org/pca/ga/47th_pcaga_2019.pdf#page=462"
+  - type: "minutes"
+    source_id: "minutes:ga48_2021"
+    label: "Minutes PDF · p. 565"
+    file: "48th_pcaga_2021.pdf"
+    volume: "ga48_2021"
+    pdf_page: 565
+    url: "https://www.pcahistory.org/pca/ga/48th_pcaga_2021.pdf#page=565"
+  - type: "minutes"
+    source_id: "minutes:ga49_2022"
+    label: "Minutes PDF · p. 513"
+    file: "49th_pcaga_2022.pdf"
+    volume: "ga49_2022"
+    pdf_page: 513
+    url: "https://www.pcahistory.org/pca/ga/49th_pcaga_2022.pdf#page=513"
+  - type: "minutes"
+    source_id: "minutes:ga50_2023"
+    label: "Minutes PDF · p. 543"
+    file: "50th_pcaga_2023.pdf"
+    volume: "ga50_2023"
+    pdf_page: 543
+    url: "https://www.pcahistory.org/pca/ga/50th_pcaga_2023.pdf#page=543"
+---
 # Columbus Metro Presbytery — BCO 13-6
 
 *Incomplete record of transfer…*

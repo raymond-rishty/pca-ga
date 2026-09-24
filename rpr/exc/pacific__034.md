@@ -1,3 +1,41 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga33_2005"
+    label: "Minutes PDF · p. 304"
+    file: "33rd_pcaga_2005.pdf"
+    volume: "ga33_2005"
+    pdf_page: 304
+    url: "https://www.pcahistory.org/pca/ga/33rd_pcaga_2005.pdf#page=304"
+  - type: "minutes"
+    source_id: "minutes:ga34_2006"
+    label: "Minutes PDF · p. 290"
+    file: "34th_pcaga_2006.pdf"
+    volume: "ga34_2006"
+    pdf_page: 290
+    url: "https://www.pcahistory.org/pca/ga/34th_pcaga_2006.pdf#page=290"
+  - type: "minutes"
+    source_id: "minutes:ga36_2008"
+    label: "Minutes PDF · p. 259"
+    file: "36th_pcaga_2008.pdf"
+    volume: "ga36_2008"
+    pdf_page: 259
+    url: "https://www.pcahistory.org/pca/ga/36th_pcaga_2008.pdf#page=259"
+  - type: "minutes"
+    source_id: "minutes:ga37_2009"
+    label: "Minutes PDF · p. 116"
+    file: "37th_pcaga_2009.pdf"
+    volume: "ga37_2009"
+    pdf_page: 116
+    url: "https://www.pcahistory.org/pca/ga/37th_pcaga_2009.pdf#page=116"
+  - type: "minutes"
+    source_id: "minutes:ga38_2010"
+    label: "Minutes PDF · p. 110"
+    file: "38th_pcaga_2010.pdf"
+    volume: "ga38_2010"
+    pdf_page: 110
+    url: "https://www.pcahistory.org/pca/ga/38th_pcaga_2010.pdf#page=110"
+---
 # Pacific Presbytery — exception of substance
 
 *: No charge or motion to enter candidate on roll. Response : We were not aware…*

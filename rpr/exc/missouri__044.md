@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga46_2018"
+    label: "Minutes PDF · p. 434"
+    file: "46th_pcaga_2018.pdf"
+    volume: "ga46_2018"
+    pdf_page: 434
+    url: "https://www.pcahistory.org/pca/ga/46th_pcaga_2018.pdf#page=434"
+---
 # Missouri Presbytery — BCO 13-11, BCO 14-6c
 
 *( BCO 13-11; BCO 14-6c; and RAO 16-3e.b) – Missing executive session…*

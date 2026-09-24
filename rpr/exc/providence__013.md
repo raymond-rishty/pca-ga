@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga41_2013"
+    label: "Minutes PDF · p. 473"
+    file: "41st_pcaga_2013.pdf"
+    volume: "ga41_2013"
+    pdf_page: 473
+    url: "https://www.pcahistory.org/pca/ga/41st_pcaga_2013.pdf#page=473"
+---
 # Providence Presbytery — BCO 21-4, RAO 16-3.e.5)
 
 *Stated differences with our Standards not judged in the proper manner (see…*

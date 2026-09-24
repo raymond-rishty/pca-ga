@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga27_1999"
+    label: "Minutes PDF · p. 206"
+    file: "27th_pcaga_1999.pdf"
+    volume: "ga27_1999"
+    pdf_page: 206
+    url: "https://www.pcahistory.org/pca/ga/27th_pcaga_1999.pdf#page=206"
+---
 # Rocky Mountain Presbytery — exception of substance
 
 *General; No record of candidates reporting once a year BOC…*

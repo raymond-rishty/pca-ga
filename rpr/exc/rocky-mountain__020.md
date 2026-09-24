@@ -1,3 +1,20 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga40_2012"
+    label: "Minutes PDF · p. 471"
+    file: "40th_pcaga_2012.pdf"
+    volume: "ga40_2012"
+    pdf_page: 471
+    url: "https://www.pcahistory.org/pca/ga/40th_pcaga_2012.pdf#page=471"
+  - type: "minutes"
+    source_id: "minutes:ga41_2013"
+    label: "Minutes PDF · p. 475"
+    file: "41st_pcaga_2013.pdf"
+    volume: "ga41_2013"
+    pdf_page: 475
+    url: "https://www.pcahistory.org/pca/ga/41st_pcaga_2013.pdf#page=475"
+---
 # Rocky Mountain Presbytery — BCO 21-4
 
 *September 15, 2011 ( BCO 21-4) No record of papers being submitted by…*

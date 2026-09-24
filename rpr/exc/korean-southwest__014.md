@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga26_1998"
+    label: "Minutes PDF · p. 245"
+    file: "26th_pcaga_1998.pdf"
+    volume: "ga26_1998"
+    pdf_page: 245
+    url: "https://www.pcahistory.org/pca/ga/26th_pcaga_1998.pdf#page=245"
+---
 # Korean Southwest Presbytery — exception of substance
 
 *Session records not reviewed in 1996.…*

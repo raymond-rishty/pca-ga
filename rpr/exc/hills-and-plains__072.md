@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga51_2024"
+    label: "Minutes PDF · p. 531"
+    file: "51st_pcaga_2024.pdf"
+    volume: "ga51_2024"
+    pdf_page: 531
+    url: "https://www.pcahistory.org/pca/ga/51st_pcaga_2024.pdf#page=531"
+---
 # Hills and Plains Presbytery — BCO 15-2
 
 *Membership and scope of authority for commission not…*

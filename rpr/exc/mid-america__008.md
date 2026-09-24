@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga23_1995"
+    label: "Minutes PDF · p. 196"
+    file: "23rd_pcaga_1995.pdf"
+    volume: "ga23_1995"
+    pdf_page: 196
+    url: "https://www.pcahistory.org/pca/ga/23rd_pcaga_1995.pdf#page=196"
+---
 # Mid-America Presbytery — BCO 8-6
 
 *No evidence of required annual reports of candidates under care (BCO…*

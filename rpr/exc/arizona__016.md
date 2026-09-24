@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga48_2021"
+    label: "Minutes PDF · p. 542"
+    file: "48th_pcaga_2021.pdf"
+    volume: "ga48_2021"
+    pdf_page: 542
+    url: "https://www.pcahistory.org/pca/ga/48th_pcaga_2021.pdf#page=542"
+---
 # Arizona Presbytery — BCO 30-1
 
 *No record of judicial action previously recorded in…*

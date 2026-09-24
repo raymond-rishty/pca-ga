@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga30_2002"
+    label: "Minutes PDF · p. 330"
+    file: "30th_pcaga_2002.pdf"
+    volume: "ga30_2002"
+    pdf_page: 330
+    url: "https://www.pcahistory.org/pca/ga/30th_pcaga_2002.pdf#page=330"
+---
 # Northern Illinois Presbytery — BCO 21-4a.8, RAO 14-3.e.5
 
 *Incomplete record of exam elements. BCO 21-4a.8,b,c; RAO…*

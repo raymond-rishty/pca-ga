@@ -1,3 +1,34 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga44_2016"
+    label: "Minutes PDF · p. 395"
+    file: "44th_pcaga_2016.pdf"
+    volume: "ga44_2016"
+    pdf_page: 395
+    url: "https://www.pcahistory.org/pca/ga/44th_pcaga_2016.pdf#page=395"
+  - type: "minutes"
+    source_id: "minutes:ga45_2017"
+    label: "Minutes PDF · p. 376"
+    file: "45th_pcaga_2017.pdf"
+    volume: "ga45_2017"
+    pdf_page: 376
+    url: "https://www.pcahistory.org/pca/ga/45th_pcaga_2017.pdf#page=376"
+  - type: "minutes"
+    source_id: "minutes:ga47_2019"
+    label: "Minutes PDF · p. 457"
+    file: "47th_pcaga_2019.pdf"
+    volume: "ga47_2019"
+    pdf_page: 457
+    url: "https://www.pcahistory.org/pca/ga/47th_pcaga_2019.pdf#page=457"
+  - type: "minutes"
+    source_id: "minutes:ga48_2021"
+    label: "Minutes PDF · p. 555"
+    file: "48th_pcaga_2021.pdf"
+    volume: "ga48_2021"
+    pdf_page: 555
+    url: "https://www.pcahistory.org/pca/ga/48th_pcaga_2021.pdf#page=555"
+---
 # Central Florida Presbytery — BCO 15-1
 
 *– Presbytery Minutes record receipt of commission reports; but the minutes of…*

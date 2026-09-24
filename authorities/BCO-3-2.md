@@ -19,6 +19,7 @@
 | Year | Type | Title | Disposition |
 |------|------|-------|-------------|
 | 1987 | Constitutional inquiry | [Role of a presbytery evangelist in church discipline and membership actions](../inquiries/ga15_1987__ci06.md) | advice given |
+| 2005 | CCB advice | [Relationship of Assistant Pastor to the Church](../inquiries/ga33_2005__ci02.md) | in conflict |
 
 ---
 *[← Authority Index](../index/AUTHORITY-BY-PROVISION.md)*

@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga22_1994"
+    label: "Minutes PDF · p. 303"
+    file: "22nd_pcaga_1994.pdf"
+    volume: "ga22_1994"
+    pdf_page: 303
+    url: "https://www.pcahistory.org/pca/ga/22nd_pcaga_1994.pdf#page=303"
+---
 # Northern California Presbytery — BCO 15-2
 
 *p. 8, 11 13: The quorum of a commission was improperly constituted. (BCO…*

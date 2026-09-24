@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga30_2002"
+    label: "Minutes PDF · p. 338"
+    file: "30th_pcaga_2002.pdf"
+    volume: "ga30_2002"
+    pdf_page: 338
+    url: "https://www.pcahistory.org/pca/ga/30th_pcaga_2002.pdf#page=338"
+---
 # Southwest Presbytery — BCO 21-4, RAO 14-3.e.5
 
 *Incomplete record of exam elements. BCO 21-4; RAO…*

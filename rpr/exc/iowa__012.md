@@ -1,3 +1,20 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga46_2018"
+    label: "Minutes PDF · p. 405"
+    file: "46th_pcaga_2018.pdf"
+    volume: "ga46_2018"
+    pdf_page: 405
+    url: "https://www.pcahistory.org/pca/ga/46th_pcaga_2018.pdf#page=405"
+  - type: "minutes"
+    source_id: "minutes:ga47_2019"
+    label: "Minutes PDF · p. 473"
+    file: "47th_pcaga_2019.pdf"
+    volume: "ga47_2019"
+    pdf_page: 473
+    url: "https://www.pcahistory.org/pca/ga/47th_pcaga_2019.pdf#page=473"
+---
 # Iowa Presbytery — BCO 15-1, RAO 16-3.e.4
 
 *No minutes from commission for…*

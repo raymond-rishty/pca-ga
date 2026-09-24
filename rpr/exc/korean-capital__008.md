@@ -1,3 +1,27 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga25_1997"
+    label: "Minutes PDF · p. 209"
+    file: "25th_pcaga_1997.pdf"
+    volume: "ga25_1997"
+    pdf_page: 209
+    url: "https://www.pcahistory.org/pca/ga/25th_pcaga_1997.pdf#page=209"
+  - type: "minutes"
+    source_id: "minutes:ga28_2000"
+    label: "Minutes PDF · p. 328"
+    file: "28th_pcaga_2000.pdf"
+    volume: "ga28_2000"
+    pdf_page: 328
+    url: "https://www.pcahistory.org/pca/ga/28th_pcaga_2000.pdf#page=328"
+  - type: "minutes"
+    source_id: "minutes:ga29_2001"
+    label: "Minutes PDF · p. 333"
+    file: "29th_pcaga_2001.pdf"
+    volume: "ga29_2001"
+    pdf_page: 333
+    url: "https://www.pcahistory.org/pca/ga/29th_pcaga_2001.pdf#page=333"
+---
 # Korean Capital Presbytery — BCO 19
 
 *There is no record of examination by the Presbytery, and no listing of the…*

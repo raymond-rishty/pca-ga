@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga30_2002"
+    label: "Minutes PDF · p. 336"
+    file: "30th_pcaga_2002.pdf"
+    volume: "ga30_2002"
+    pdf_page: 336
+    url: "https://www.pcahistory.org/pca/ga/30th_pcaga_2002.pdf#page=336"
+---
 # South Texas Presbytery — BCO 20-1
 
 *No copy of call. BCO 20-1;…*

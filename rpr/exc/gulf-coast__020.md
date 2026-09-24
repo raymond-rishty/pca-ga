@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga32_2004"
+    label: "Minutes PDF · p. 213"
+    file: "32nd_pcaga_2004.pdf"
+    volume: "ga32_2004"
+    pdf_page: 213
+    url: "https://www.pcahistory.org/pca/ga/32nd_pcaga_2004.pdf#page=213"
+---
 # Gulf Coast Presbytery — RAO 143.e.5
 
 *No record of licensure exam. RAO…*

@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga39_2011"
+    label: "Minutes PDF · p. 454"
+    file: "39th_pcaga_2011.pdf"
+    volume: "ga39_2011"
+    pdf_page: 454
+    url: "https://www.pcahistory.org/pca/ga/39th_pcaga_2011.pdf#page=454"
+---
 # Heritage Presbytery — BCO 13-11, BCO 15-1, BCO 40-2
 
 *Appendices referenced in minutes not attached (Appendices include actions of…*

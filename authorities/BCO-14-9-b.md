@@ -6,7 +6,7 @@
 
 | Year | Type | Title | Disposition |
 |------|------|-------|-------------|
-| 2024 | RPR exception | [Nashville: No record of Presbytery action on review of Session records.](../rpr/exc/nashville__064.md) | satisfactory |
+| 2024 | RPR exception | [Nashville: No record of Presbytery action on review of Session records.](../rpr/exc/nashville__064.html) | satisfactory |
 
 ---
 *[← Authority Index](../index/AUTHORITY-BY-PROVISION.md)*

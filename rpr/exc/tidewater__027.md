@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga51_2024"
+    label: "Minutes PDF · p. 697"
+    file: "51st_pcaga_2024.pdf"
+    volume: "ga51_2024"
+    pdf_page: 697
+    url: "https://www.pcahistory.org/pca/ga/51st_pcaga_2024.pdf#page=697"
+---
 # Tidewater Presbytery — BCO 15-2
 
 *Commission established to take action on behalf of Presbytery without meeting…*

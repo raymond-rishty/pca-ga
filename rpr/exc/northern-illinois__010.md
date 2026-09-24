@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga22_1994"
+    label: "Minutes PDF · p. 305"
+    file: "22nd_pcaga_1994.pdf"
+    volume: "ga22_1994"
+    pdf_page: 305
+    url: "https://www.pcahistory.org/pca/ga/22nd_pcaga_1994.pdf#page=305"
+---
 # Northern Illinois Presbytery — BCO 13-11, RAO 14-10
 
 *92-58, p. 20: The purpose of the called meeting is not recorded. (BCO 13-11;…*

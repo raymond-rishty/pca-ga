@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga50_2023"
+    label: "Minutes PDF · p. 646"
+    file: "50th_pcaga_2023.pdf"
+    volume: "ga50_2023"
+    pdf_page: 646
+    url: "https://www.pcahistory.org/pca/ga/50th_pcaga_2023.pdf#page=646"
+---
 # Metropolitan New York Presbytery — BCO 13-2
 
 *no record of TE laboring out of bounds with concurrence of Presbytery within…*

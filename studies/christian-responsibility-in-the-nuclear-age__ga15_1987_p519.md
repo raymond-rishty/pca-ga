@@ -1,3 +1,20 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga15_1987"
+    label: "Minutes PDF · p. 521"
+    file: "15th_pcaga_1987.pdf"
+    volume: "ga15_1987"
+    pdf_page: 521
+    url: "https://www.pcahistory.org/pca/ga/15th_pcaga_1987.pdf#page=521"
+  - type: "minutes"
+    source_id: "minutes:ga15_1987"
+    label: "Minutes PDF · p. 554"
+    file: "15th_pcaga_1987.pdf"
+    volume: "ga15_1987"
+    pdf_page: 554
+    url: "https://www.pcahistory.org/pca/ga/15th_pcaga_1987.pdf#page=554"
+---
 # Christian Responsibility in the Nuclear Age
 
 *Christian Responsibility in the Nuclear Age*

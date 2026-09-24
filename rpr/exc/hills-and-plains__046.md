@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga49_2022"
+    label: "Minutes PDF · p. 532"
+    file: "49th_pcaga_2022.pdf"
+    volume: "ga49_2022"
+    pdf_page: 532
+    url: "https://www.pcahistory.org/pca/ga/49th_pcaga_2022.pdf#page=532"
+---
 # Hills and Plains Presbytery — BCO 15-1
 
 *( BCO 15-1; RAO 16-3.e.4) – Minutes of commission not entered in Presbytery…*

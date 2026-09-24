@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga52_2025"
+    label: "Minutes PDF · p. 567"
+    file: "52nd_pcaga_2025.pdf"
+    volume: "ga52_2025"
+    pdf_page: 567
+    url: "https://www.pcahistory.org/pca/ga/52nd_pcaga_2025.pdf#page=567"
+---
 # Highlands Presbytery — BCO 38-3.b
 
 *It does not appear that TE removed from the rolls was "warned of his danger"…*

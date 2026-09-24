@@ -1,3 +1,20 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga49_2022"
+    label: "Minutes PDF · p. 591"
+    file: "49th_pcaga_2022.pdf"
+    volume: "ga49_2022"
+    pdf_page: 591
+    url: "https://www.pcahistory.org/pca/ga/49th_pcaga_2022.pdf#page=591"
+  - type: "minutes"
+    source_id: "minutes:ga50_2023"
+    label: "Minutes PDF · p. 666"
+    file: "50th_pcaga_2023.pdf"
+    volume: "ga50_2023"
+    pdf_page: 666
+    url: "https://www.pcahistory.org/pca/ga/50th_pcaga_2023.pdf#page=666"
+---
 # New River Presbytery — BCO 23-1
 
 *There is no record that presbytery received report that the congregation…*

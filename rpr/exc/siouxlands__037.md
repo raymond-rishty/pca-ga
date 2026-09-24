@@ -1,3 +1,20 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga25_1997"
+    label: "Minutes PDF · p. 218"
+    file: "25th_pcaga_1997.pdf"
+    volume: "ga25_1997"
+    pdf_page: 218
+    url: "https://www.pcahistory.org/pca/ga/25th_pcaga_1997.pdf#page=218"
+  - type: "minutes"
+    source_id: "minutes:ga27_1999"
+    label: "Minutes PDF · p. 206"
+    file: "27th_pcaga_1999.pdf"
+    volume: "ga27_1999"
+    pdf_page: 206
+    url: "https://www.pcahistory.org/pca/ga/27th_pcaga_1999.pdf#page=206"
+---
 # Siouxlands Presbytery — exception of substance
 
 *no record of dissolving sioux falls church or transferring or dismissing…*

@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga43_2015"
+    label: "Minutes PDF · p. 440"
+    file: "43rd_pcaga_2015.pdf"
+    volume: "ga43_2015"
+    pdf_page: 440
+    url: "https://www.pcahistory.org/pca/ga/43rd_pcaga_2015.pdf#page=440"
+---
 # Georgia Foothills Presbytery — BCO 21-4, RAO 16-3.e.5
 
 *All specific requirements for ordination not…*

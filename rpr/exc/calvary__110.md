@@ -1,3 +1,20 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga49_2022"
+    label: "Minutes PDF · p. 498"
+    file: "49th_pcaga_2022.pdf"
+    volume: "ga49_2022"
+    pdf_page: 498
+    url: "https://www.pcahistory.org/pca/ga/49th_pcaga_2022.pdf#page=498"
+  - type: "minutes"
+    source_id: "minutes:ga50_2023"
+    label: "Minutes PDF · p. 526"
+    file: "50th_pcaga_2023.pdf"
+    volume: "ga50_2023"
+    pdf_page: 526
+    url: "https://www.pcahistory.org/pca/ga/50th_pcaga_2023.pdf#page=526"
+---
 # Calvary Presbytery — BCO 13-4
 
 *No record of quorum for…*

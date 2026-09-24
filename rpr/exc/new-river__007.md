@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga23_1995"
+    label: "Minutes PDF · p. 199"
+    file: "23rd_pcaga_1995.pdf"
+    volume: "ga23_1995"
+    pdf_page: 199
+    url: "https://www.pcahistory.org/pca/ga/23rd_pcaga_1995.pdf#page=199"
+---
 # New River Presbytery — BCO 7-2
 
 *The minutes do not give adequate information regarding the examination of a TE…*

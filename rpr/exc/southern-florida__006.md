@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga26_1998"
+    label: "Minutes PDF · p. 254"
+    file: "26th_pcaga_1998.pdf"
+    volume: "ga26_1998"
+    pdf_page: 254
+    url: "https://www.pcahistory.org/pca/ga/26th_pcaga_1998.pdf#page=254"
+---
 # Southern Florida Presbytery — RAO 14-3.e.6
 
 *minutes of executive session not included (RAO…*

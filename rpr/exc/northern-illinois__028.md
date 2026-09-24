@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga30_2002"
+    label: "Minutes PDF · p. 330"
+    file: "30th_pcaga_2002.pdf"
+    volume: "ga30_2002"
+    pdf_page: 330
+    url: "https://www.pcahistory.org/pca/ga/30th_pcaga_2002.pdf#page=330"
+---
 # Northern Illinois Presbytery — RAO 14-3.c.7, RAO 14-6.c.2
 
 *Churches not represented not listed as excused or unexcused. RAO 14-3.c.7…*

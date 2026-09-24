@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga49_2022"
+    label: "Minutes PDF · p. 519"
+    file: "49th_pcaga_2022.pdf"
+    volume: "ga49_2022"
+    pdf_page: 519
+    url: "https://www.pcahistory.org/pca/ga/49th_pcaga_2022.pdf#page=519"
+---
 # Eastern Canada Presbytery — RAO 16-6.c.1, RAO 16-3.e.5, BCO 21-4.f
 
 *– The Presbytery did not follow the RAO in recording one of the four options…*

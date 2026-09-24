@@ -1,3 +1,27 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga44_2016"
+    label: "Minutes PDF · p. 442"
+    file: "44th_pcaga_2016.pdf"
+    volume: "ga44_2016"
+    pdf_page: 442
+    url: "https://www.pcahistory.org/pca/ga/44th_pcaga_2016.pdf#page=442"
+  - type: "minutes"
+    source_id: "minutes:ga45_2017"
+    label: "Minutes PDF · p. 413"
+    file: "45th_pcaga_2017.pdf"
+    volume: "ga45_2017"
+    pdf_page: 413
+    url: "https://www.pcahistory.org/pca/ga/45th_pcaga_2017.pdf#page=413"
+  - type: "minutes"
+    source_id: "minutes:ga46_2018"
+    label: "Minutes PDF · p. 449"
+    file: "46th_pcaga_2018.pdf"
+    volume: "ga46_2018"
+    pdf_page: 449
+    url: "https://www.pcahistory.org/pca/ga/46th_pcaga_2018.pdf#page=449"
+---
 # Rocky Mountain Presbytery — BCO 13-9
 
 *no record of review of session minutes from a majority of…*

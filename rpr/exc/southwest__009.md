@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga19_1991"
+    label: "Minutes PDF · p. 189"
+    file: "19th_pcaga_1991.pdf"
+    volume: "ga19_1991"
+    pdf_page: 189
+    url: "https://www.pcahistory.org/pca/ga/19th_pcaga_1991.pdf#page=189"
+---
 # Southwest Presbytery — BCO 31:1
 
 *Page 8 #35 BCO 31:1,2; 16-1,2 suspended elders without cause and took…*

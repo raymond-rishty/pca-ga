@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga32_2004"
+    label: "Minutes PDF · p. 242"
+    file: "32nd_pcaga_2004.pdf"
+    volume: "ga32_2004"
+    pdf_page: 242
+    url: "https://www.pcahistory.org/pca/ga/32nd_pcaga_2004.pdf#page=242"
+---
 # South Texas Presbytery — BCO 21-4, RAO 14-3.e.5
 
 *October 26-27, 2001: Incomplete record of exam elements. BCO 21-4; RAO…*

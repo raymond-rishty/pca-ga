@@ -1,3 +1,20 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga40_2012"
+    label: "Minutes PDF · p. 425"
+    file: "40th_pcaga_2012.pdf"
+    volume: "ga40_2012"
+    pdf_page: 425
+    url: "https://www.pcahistory.org/pca/ga/40th_pcaga_2012.pdf#page=425"
+  - type: "minutes"
+    source_id: "minutes:ga41_2013"
+    label: "Minutes PDF · p. 431"
+    file: "41st_pcaga_2013.pdf"
+    volume: "ga41_2013"
+    pdf_page: 431
+    url: "https://www.pcahistory.org/pca/ga/41st_pcaga_2013.pdf#page=431"
+---
 # Great Lakes Presbytery — BCO 21-4.a, RAO 16-3.e.5
 
 *– No record of exam in PCA history for…*

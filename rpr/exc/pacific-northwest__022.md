@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga31_2003"
+    label: "Minutes PDF · p. 248"
+    file: "31st_pcaga_2003.pdf"
+    volume: "ga31_2003"
+    pdf_page: 248
+    url: "https://www.pcahistory.org/pca/ga/31st_pcaga_2003.pdf#page=248"
+---
 # Pacific Northwest Presbytery — BCO 23-1
 
 *April 27-28, 2001: No record of congregation’s concurrence with request for…*

@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga51_2024"
+    label: "Minutes PDF · p. 694"
+    file: "51st_pcaga_2024.pdf"
+    volume: "ga51_2024"
+    pdf_page: 694
+    url: "https://www.pcahistory.org/pca/ga/51st_pcaga_2024.pdf#page=694"
+---
 # Tidewater Presbytery — BCO 15-3
 
 *Presbytery took action on a recommendation from a judicial commission without…*

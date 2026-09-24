@@ -60,6 +60,19 @@ test('normalizes BCO punctuation and performs exact provision lookup', () => {
   assert.equal(engine.normalize('BCO 38–4'), 'bco 38 4');
 });
 
+test('puts the canonical provision page first for an exact BCO lookup', () => {
+  const provision = {
+    type: 'Constitutional provision',
+    title: 'BCO 38-4 · The jurisdiction of the court',
+    identifier: 'BCO 38-4',
+    provisions: ['BCO 38-4'],
+    url: 'provisions/bco/38-4/',
+  };
+  const result = engine.search([...records, provision], 'BCO 38-4');
+  assert.equal(result.results[0].record.type, 'Constitutional provision');
+  assert.equal(result.results[0].record.url, 'provisions/bco/38-4/');
+});
+
 test('recognizes exact case identifiers with common prefixes', () => {
   const result = engine.search(records, 'case 2022-23');
   assert.equal(result.total, 1);

@@ -1,3 +1,20 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga32_2004"
+    label: "Minutes PDF · p. 229"
+    file: "32nd_pcaga_2004.pdf"
+    volume: "ga32_2004"
+    pdf_page: 229
+    url: "https://www.pcahistory.org/pca/ga/32nd_pcaga_2004.pdf#page=229"
+  - type: "minutes"
+    source_id: "minutes:ga34_2006"
+    label: "Minutes PDF · p. 284"
+    file: "34th_pcaga_2006.pdf"
+    volume: "ga34_2006"
+    pdf_page: 284
+    url: "https://www.pcahistory.org/pca/ga/34th_pcaga_2006.pdf#page=284"
+---
 # Northern Illinois Presbytery — RAO 14-4.c.2
 
 *General: No standing rules submitted. RAO…*

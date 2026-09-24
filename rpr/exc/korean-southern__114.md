@@ -1,3 +1,34 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga43_2015"
+    label: "Minutes PDF · p. 452"
+    file: "43rd_pcaga_2015.pdf"
+    volume: "ga43_2015"
+    pdf_page: 452
+    url: "https://www.pcahistory.org/pca/ga/43rd_pcaga_2015.pdf#page=452"
+  - type: "minutes"
+    source_id: "minutes:ga44_2016"
+    label: "Minutes PDF · p. 422"
+    file: "44th_pcaga_2016.pdf"
+    volume: "ga44_2016"
+    pdf_page: 422
+    url: "https://www.pcahistory.org/pca/ga/44th_pcaga_2016.pdf#page=422"
+  - type: "minutes"
+    source_id: "minutes:ga46_2018"
+    label: "Minutes PDF · p. 423"
+    file: "46th_pcaga_2018.pdf"
+    volume: "ga46_2018"
+    pdf_page: 423
+    url: "https://www.pcahistory.org/pca/ga/46th_pcaga_2018.pdf#page=423"
+  - type: "minutes"
+    source_id: "minutes:ga47_2019"
+    label: "Minutes PDF · p. 483"
+    file: "47th_pcaga_2019.pdf"
+    volume: "ga47_2019"
+    pdf_page: 483
+    url: "https://www.pcahistory.org/pca/ga/47th_pcaga_2019.pdf#page=483"
+---
 # Korean Southern Presbytery — BCO 13-9
 
 *No record of review of records of church…*

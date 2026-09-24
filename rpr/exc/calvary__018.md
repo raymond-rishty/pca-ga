@@ -1,3 +1,34 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga19_1991"
+    label: "Minutes PDF · p. 179"
+    file: "19th_pcaga_1991.pdf"
+    volume: "ga19_1991"
+    pdf_page: 179
+    url: "https://www.pcahistory.org/pca/ga/19th_pcaga_1991.pdf#page=179"
+  - type: "minutes"
+    source_id: "minutes:ga19_1991"
+    label: "Minutes PDF · p. 180"
+    file: "19th_pcaga_1991.pdf"
+    volume: "ga19_1991"
+    pdf_page: 180
+    url: "https://www.pcahistory.org/pca/ga/19th_pcaga_1991.pdf#page=180"
+  - type: "minutes"
+    source_id: "minutes:ga20_1992"
+    label: "Minutes PDF · p. 239"
+    file: "20th_pcaga_1992.pdf"
+    volume: "ga20_1992"
+    pdf_page: 239
+    url: "https://www.pcahistory.org/pca/ga/20th_pcaga_1992.pdf#page=239"
+  - type: "minutes"
+    source_id: "minutes:ga20_1992"
+    label: "Minutes PDF · p. 240"
+    file: "20th_pcaga_1992.pdf"
+    volume: "ga20_1992"
+    pdf_page: 240
+    url: "https://www.pcahistory.org/pca/ga/20th_pcaga_1992.pdf#page=240"
+---
 # Calvary Presbytery — RAO 14-10
 
 *"PP. 1 & 2 No listing of absent teaching elders not excused. No indication of…*

@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga51_2024"
+    label: "Minutes PDF · p. 544"
+    file: "51st_pcaga_2024.pdf"
+    volume: "ga51_2024"
+    pdf_page: 544
+    url: "https://www.pcahistory.org/pca/ga/51st_pcaga_2024.pdf#page=544"
+---
 # Korean Central Presbytery — BCO 13-11
 
 *Complaint sent to Presbytery not recorded in Presbytery’s…*

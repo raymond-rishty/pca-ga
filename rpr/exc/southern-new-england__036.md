@@ -1,3 +1,20 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga49_2022"
+    label: "Minutes PDF · p. 627"
+    file: "49th_pcaga_2022.pdf"
+    volume: "ga49_2022"
+    pdf_page: 627
+    url: "https://www.pcahistory.org/pca/ga/49th_pcaga_2022.pdf#page=627"
+  - type: "minutes"
+    source_id: "minutes:ga50_2023"
+    label: "Minutes PDF · p. 709"
+    file: "50th_pcaga_2023.pdf"
+    volume: "ga50_2023"
+    pdf_page: 709
+    url: "https://www.pcahistory.org/pca/ga/50th_pcaga_2023.pdf#page=709"
+---
 # Southern New England Presbytery — exception of substance
 
 *No record that members of interim/provisional Session were called by the…*

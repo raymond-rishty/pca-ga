@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga50_2023"
+    label: "Minutes PDF · p. 705"
+    file: "50th_pcaga_2023.pdf"
+    volume: "ga50_2023"
+    pdf_page: 705
+    url: "https://www.pcahistory.org/pca/ga/50th_pcaga_2023.pdf#page=705"
+---
 # Southeast Alabama Presbytery — BCO 21-4, RAO 16-3.e.5
 
 *No record of requiring statement of differences with our…*

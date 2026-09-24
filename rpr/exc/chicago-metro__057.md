@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga51_2024"
+    label: "Minutes PDF · p. 491"
+    file: "51st_pcaga_2024.pdf"
+    volume: "ga51_2024"
+    pdf_page: 491
+    url: "https://www.pcahistory.org/pca/ga/51st_pcaga_2024.pdf#page=491"
+---
 # Chicago Metro Presbytery — BCO 18-2
 
 *no record of endorsement by the candidate’s…*

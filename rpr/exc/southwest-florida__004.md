@@ -1,3 +1,20 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga22_1994"
+    label: "Minutes PDF · p. 316"
+    file: "22nd_pcaga_1994.pdf"
+    volume: "ga22_1994"
+    pdf_page: 316
+    url: "https://www.pcahistory.org/pca/ga/22nd_pcaga_1994.pdf#page=316"
+  - type: "minutes"
+    source_id: "minutes:ga23_1995"
+    label: "Minutes PDF · p. 208"
+    file: "23rd_pcaga_1995.pdf"
+    volume: "ga23_1995"
+    pdf_page: 208
+    url: "https://www.pcahistory.org/pca/ga/23rd_pcaga_1995.pdf#page=208"
+---
 # Southwest Florida Presbytery — exception of substance
 
 *Presbytery gave as reference for its actions the recommendation of the 20th…*

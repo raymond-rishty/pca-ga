@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga25_1997"
+    label: "Minutes PDF · p. 217"
+    file: "25th_pcaga_1997.pdf"
+    volume: "ga25_1997"
+    pdf_page: 217
+    url: "https://www.pcahistory.org/pca/ga/25th_pcaga_1997.pdf#page=217"
+---
 # Pittsburgh Presbytery — exception of substance
 
 *Record is not clear if a candidate was…*

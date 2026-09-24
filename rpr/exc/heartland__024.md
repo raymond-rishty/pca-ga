@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga30_2002"
+    label: "Minutes PDF · p. 314"
+    file: "30th_pcaga_2002.pdf"
+    volume: "ga30_2002"
+    pdf_page: 314
+    url: "https://www.pcahistory.org/pca/ga/30th_pcaga_2002.pdf#page=314"
+---
 # Heartland Presbytery — BCO 8-7
 
 *2001-24 - No record of requirements for laboring Out of Bounds. BCO…*

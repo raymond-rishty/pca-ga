@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga30_2002"
+    label: "Minutes PDF · p. 312"
+    file: "30th_pcaga_2002.pdf"
+    volume: "ga30_2002"
+    pdf_page: 312
+    url: "https://www.pcahistory.org/pca/ga/30th_pcaga_2002.pdf#page=312"
+---
 # Great Lakes Presbytery — BCO 21-4, RAO 14-3e.5
 
 *no record of terms of call. BCO 21-4; RAO 14-3e.5 Incomplete record of exam…*

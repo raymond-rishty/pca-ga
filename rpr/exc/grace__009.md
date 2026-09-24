@@ -1,3 +1,20 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga35_2007"
+    label: "Minutes PDF · p. 182"
+    file: "35th_pcaga_2007.pdf"
+    volume: "ga35_2007"
+    pdf_page: 182
+    url: "https://www.pcahistory.org/pca/ga/35th_pcaga_2007.pdf#page=182"
+  - type: "minutes"
+    source_id: "minutes:ga36_2008"
+    label: "Minutes PDF · p. 222"
+    file: "36th_pcaga_2008.pdf"
+    volume: "ga36_2008"
+    pdf_page: 222
+    url: "https://www.pcahistory.org/pca/ga/36th_pcaga_2008.pdf#page=222"
+---
 # Grace Presbytery — BCO 21-4
 
 *: No action taken on exceptions to Westminster Standards. BCO…*

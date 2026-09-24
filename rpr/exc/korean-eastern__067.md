@@ -1,3 +1,34 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga45_2017"
+    label: "Minutes PDF · p. 391"
+    file: "45th_pcaga_2017.pdf"
+    volume: "ga45_2017"
+    pdf_page: 391
+    url: "https://www.pcahistory.org/pca/ga/45th_pcaga_2017.pdf#page=391"
+  - type: "minutes"
+    source_id: "minutes:ga46_2018"
+    label: "Minutes PDF · p. 417"
+    file: "46th_pcaga_2018.pdf"
+    volume: "ga46_2018"
+    pdf_page: 417
+    url: "https://www.pcahistory.org/pca/ga/46th_pcaga_2018.pdf#page=417"
+  - type: "minutes"
+    source_id: "minutes:ga47_2019"
+    label: "Minutes PDF · p. 480"
+    file: "47th_pcaga_2019.pdf"
+    volume: "ga47_2019"
+    pdf_page: 480
+    url: "https://www.pcahistory.org/pca/ga/47th_pcaga_2019.pdf#page=480"
+  - type: "minutes"
+    source_id: "minutes:ga48_2021"
+    label: "Minutes PDF · p. 586"
+    file: "48th_pcaga_2021.pdf"
+    volume: "ga48_2021"
+    pdf_page: 586
+    url: "https://www.pcahistory.org/pca/ga/48th_pcaga_2021.pdf#page=586"
+---
 # Korean Eastern Presbytery — BCO 13-6
 
 *Incomplete record of transfer exam for minister from other…*

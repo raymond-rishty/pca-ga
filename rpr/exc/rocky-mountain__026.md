@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga42_2014"
+    label: "Minutes PDF · p. 450"
+    file: "42nd_pcaga_2014.pdf"
+    volume: "ga42_2014"
+    pdf_page: 450
+    url: "https://www.pcahistory.org/pca/ga/42nd_pcaga_2014.pdf#page=450"
+---
 # Rocky Mountain Presbytery — BCO 21-4, BCO 13-6
 
 *All specific requirements of ordination exam not…*

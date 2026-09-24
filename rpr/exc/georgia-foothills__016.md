@@ -1,3 +1,20 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga40_2012"
+    label: "Minutes PDF · p. 422"
+    file: "40th_pcaga_2012.pdf"
+    volume: "ga40_2012"
+    pdf_page: 422
+    url: "https://www.pcahistory.org/pca/ga/40th_pcaga_2012.pdf#page=422"
+  - type: "minutes"
+    source_id: "minutes:ga41_2013"
+    label: "Minutes PDF · p. 430"
+    file: "41st_pcaga_2013.pdf"
+    volume: "ga41_2013"
+    pdf_page: 430
+    url: "https://www.pcahistory.org/pca/ga/41st_pcaga_2013.pdf#page=430"
+---
 # Georgia Foothills Presbytery — BCO 22-2
 
 *No record of election by congregation of…*

@@ -1,3 +1,20 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga41_2013"
+    label: "Minutes PDF · p. 487"
+    file: "41st_pcaga_2013.pdf"
+    volume: "ga41_2013"
+    pdf_page: 487
+    url: "https://www.pcahistory.org/pca/ga/41st_pcaga_2013.pdf#page=487"
+  - type: "minutes"
+    source_id: "minutes:ga42_2014"
+    label: "Minutes PDF · p. 461"
+    file: "42nd_pcaga_2014.pdf"
+    volume: "ga42_2014"
+    pdf_page: 461
+    url: "https://www.pcahistory.org/pca/ga/42nd_pcaga_2014.pdf#page=461"
+---
 # Western Carolina Presbytery — BCO 23-1
 
 *Information in minutes is insufficient to know whether or not pastoral…*

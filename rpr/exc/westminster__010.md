@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga31_2003"
+    label: "Minutes PDF · p. 263"
+    file: "31st_pcaga_2003.pdf"
+    volume: "ga31_2003"
+    pdf_page: 263
+    url: "https://www.pcahistory.org/pca/ga/31st_pcaga_2003.pdf#page=263"
+---
 # Westminster Presbytery — exception of substance
 
 *15, 2001, April 21, 2001, May 15, 2001, June 12, 2001, July 21, 2001, August…*

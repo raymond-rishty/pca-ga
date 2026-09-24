@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga22_1994"
+    label: "Minutes PDF · p. 313"
+    file: "22nd_pcaga_1994.pdf"
+    volume: "ga22_1994"
+    pdf_page: 313
+    url: "https://www.pcahistory.org/pca/ga/22nd_pcaga_1994.pdf#page=313"
+---
 # South Texas Presbytery — BCO 40-1
 
 *The minutes of two churches were not received for review. (BCO…*

@@ -1,3 +1,20 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga36_2008"
+    label: "Minutes PDF · p. 265"
+    file: "36th_pcaga_2008.pdf"
+    volume: "ga36_2008"
+    pdf_page: 265
+    url: "https://www.pcahistory.org/pca/ga/36th_pcaga_2008.pdf#page=265"
+  - type: "minutes"
+    source_id: "minutes:ga37_2009"
+    label: "Minutes PDF · p. 121"
+    file: "37th_pcaga_2009.pdf"
+    volume: "ga37_2009"
+    pdf_page: 121
+    url: "https://www.pcahistory.org/pca/ga/37th_pcaga_2009.pdf#page=121"
+---
 # South Florida Presbytery — BCO 19-2
 
 *: BCO 19-2. No record that candidate for licensure gave testimony of Christian…*

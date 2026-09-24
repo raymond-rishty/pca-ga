@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga48_2021"
+    label: "Minutes PDF · p. 587"
+    file: "48th_pcaga_2021.pdf"
+    volume: "ga48_2021"
+    pdf_page: 587
+    url: "https://www.pcahistory.org/pca/ga/48th_pcaga_2021.pdf#page=587"
+---
 # Korean Northeastern Presbytery — BCO 13-9.b
 
 *Review of Session records…*

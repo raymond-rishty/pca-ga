@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga42_2014"
+    label: "Minutes PDF · p. 395"
+    file: "42nd_pcaga_2014.pdf"
+    volume: "ga42_2014"
+    pdf_page: 395
+    url: "https://www.pcahistory.org/pca/ga/42nd_pcaga_2014.pdf#page=395"
+---
 # Central Carolina Presbytery — BCO 8-7
 
 *No record in the minutes of any of the four 2012 stated meetings of an annual…*

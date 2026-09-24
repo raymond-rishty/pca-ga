@@ -1,3 +1,20 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga35_2007"
+    label: "Minutes PDF · p. 183"
+    file: "35th_pcaga_2007.pdf"
+    volume: "ga35_2007"
+    pdf_page: 183
+    url: "https://www.pcahistory.org/pca/ga/35th_pcaga_2007.pdf#page=183"
+  - type: "minutes"
+    source_id: "minutes:ga36_2008"
+    label: "Minutes PDF · p. 224"
+    file: "36th_pcaga_2008.pdf"
+    volume: "ga36_2008"
+    pdf_page: 224
+    url: "https://www.pcahistory.org/pca/ga/36th_pcaga_2008.pdf#page=224"
+---
 # Great Lakes Presbytery — BCO 8-7, RAO 16-6.c.2
 
 *: No record of annual reports from TEs laboring out of bounds. BCO 8-7; RAO…*

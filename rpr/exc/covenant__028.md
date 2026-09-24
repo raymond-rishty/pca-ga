@@ -1,3 +1,27 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga48_2021"
+    label: "Minutes PDF · p. 566"
+    file: "48th_pcaga_2021.pdf"
+    volume: "ga48_2021"
+    pdf_page: 566
+    url: "https://www.pcahistory.org/pca/ga/48th_pcaga_2021.pdf#page=566"
+  - type: "minutes"
+    source_id: "minutes:ga49_2022"
+    label: "Minutes PDF · p. 517"
+    file: "49th_pcaga_2022.pdf"
+    volume: "ga49_2022"
+    pdf_page: 517
+    url: "https://www.pcahistory.org/pca/ga/49th_pcaga_2022.pdf#page=517"
+  - type: "minutes"
+    source_id: "minutes:ga50_2023"
+    label: "Minutes PDF · p. 552"
+    file: "50th_pcaga_2023.pdf"
+    volume: "ga50_2023"
+    pdf_page: 552
+    url: "https://www.pcahistory.org/pca/ga/50th_pcaga_2023.pdf#page=552"
+---
 # Covenant Presbytery — BCO 13-11, RAO 16-3.e.7
 
 *Complaint sent to Presbytery not recorded in minutes (“full and accurate…*

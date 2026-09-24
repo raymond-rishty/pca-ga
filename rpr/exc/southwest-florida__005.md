@@ -1,3 +1,20 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga22_1994"
+    label: "Minutes PDF · p. 316"
+    file: "22nd_pcaga_1994.pdf"
+    volume: "ga22_1994"
+    pdf_page: 316
+    url: "https://www.pcahistory.org/pca/ga/22nd_pcaga_1994.pdf#page=316"
+  - type: "minutes"
+    source_id: "minutes:ga22_1994"
+    label: "Minutes PDF · p. 317"
+    file: "22nd_pcaga_1994.pdf"
+    volume: "ga22_1994"
+    pdf_page: 317
+    url: "https://www.pcahistory.org/pca/ga/22nd_pcaga_1994.pdf#page=317"
+---
 # Southwest Florida Presbytery — BCO 19-2
 
 *p. 5, 9-B, 6: A non-PCA ordained minister was serving as a stated supply. He…*

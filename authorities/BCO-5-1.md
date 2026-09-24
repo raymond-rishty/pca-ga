@@ -16,7 +16,7 @@
 |------|------|-------|-------------|
 | 2013 | Overture | [Amend BCO 5-1, 5-2, 5-9 and Add Sections 5-11 and 5-12 Regarding Mission Churches](../markdown/ga41_2013.md#ga41-p818) | Referred |
 | 2014 | Overture | [Amend BCO 5-1, 5-2, 5-9 and Add Sections 5-11, 5-12 Regarding Mission Churches](../markdown/ga42_2014.md#ga42-p255) | Out of order |
-| 2019 | RPR exception | [Iowa: Standing Rules provision redefines composition of Presbytery, by granting mission churches](../rpr/exc/iowa__013.md) | satisfactory |
+| 2019 | RPR exception | [Iowa: Standing Rules provision redefines composition of Presbytery, by granting mission churches](../rpr/exc/iowa__013.html) | satisfactory |
 
 ---
 *[← Authority Index](../index/AUTHORITY-BY-PROVISION.md)*

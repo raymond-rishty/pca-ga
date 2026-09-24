@@ -1,3 +1,20 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga46_2018"
+    label: "Minutes PDF · p. 381"
+    file: "46th_pcaga_2018.pdf"
+    volume: "ga46_2018"
+    pdf_page: 381
+    url: "https://www.pcahistory.org/pca/ga/46th_pcaga_2018.pdf#page=381"
+  - type: "minutes"
+    source_id: "minutes:ga47_2019"
+    label: "Minutes PDF · p. 460"
+    file: "47th_pcaga_2019.pdf"
+    volume: "ga47_2019"
+    pdf_page: 460
+    url: "https://www.pcahistory.org/pca/ga/47th_pcaga_2019.pdf#page=460"
+---
 # Central Indiana Presbytery — BCO 21
 
 *Stated differences not recorded in the candidate’s own…*

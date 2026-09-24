@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga42_2014"
+    label: "Minutes PDF · p. 410"
+    file: "42nd_pcaga_2014.pdf"
+    volume: "ga42_2014"
+    pdf_page: 410
+    url: "https://www.pcahistory.org/pca/ga/42nd_pcaga_2014.pdf#page=410"
+---
 # Evangel Presbytery — BCO 15-1)-Minutes, RAO 16-3.e.4
 
 *Minutes of commission not entered in Presbytery minutes (see also RAO…*

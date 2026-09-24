@@ -1,3 +1,34 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga31_2003"
+    label: "Minutes PDF · p. 247"
+    file: "31st_pcaga_2003.pdf"
+    volume: "ga31_2003"
+    pdf_page: 247
+    url: "https://www.pcahistory.org/pca/ga/31st_pcaga_2003.pdf#page=247"
+  - type: "minutes"
+    source_id: "minutes:ga32_2004"
+    label: "Minutes PDF · p. 232"
+    file: "32nd_pcaga_2004.pdf"
+    volume: "ga32_2004"
+    pdf_page: 232
+    url: "https://www.pcahistory.org/pca/ga/32nd_pcaga_2004.pdf#page=232"
+  - type: "minutes"
+    source_id: "minutes:ga33_2005"
+    label: "Minutes PDF · p. 304"
+    file: "33rd_pcaga_2005.pdf"
+    volume: "ga33_2005"
+    pdf_page: 304
+    url: "https://www.pcahistory.org/pca/ga/33rd_pcaga_2005.pdf#page=304"
+  - type: "minutes"
+    source_id: "minutes:ga34_2006"
+    label: "Minutes PDF · p. 290"
+    file: "34th_pcaga_2006.pdf"
+    volume: "ga34_2006"
+    pdf_page: 290
+    url: "https://www.pcahistory.org/pca/ga/34th_pcaga_2006.pdf#page=290"
+---
 # Pacific Presbytery — BCO 13-9.b
 
 *No review of sessional records. BCO…*

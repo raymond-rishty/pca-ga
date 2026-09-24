@@ -1,3 +1,27 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga48_2021"
+    label: "Minutes PDF · p. 570"
+    file: "48th_pcaga_2021.pdf"
+    volume: "ga48_2021"
+    pdf_page: 570
+    url: "https://www.pcahistory.org/pca/ga/48th_pcaga_2021.pdf#page=570"
+  - type: "minutes"
+    source_id: "minutes:ga49_2022"
+    label: "Minutes PDF · p. 522"
+    file: "49th_pcaga_2022.pdf"
+    volume: "ga49_2022"
+    pdf_page: 522
+    url: "https://www.pcahistory.org/pca/ga/49th_pcaga_2022.pdf#page=522"
+  - type: "minutes"
+    source_id: "minutes:ga50_2023"
+    label: "Minutes PDF · p. 557"
+    file: "50th_pcaga_2023.pdf"
+    volume: "ga50_2023"
+    pdf_page: 557
+    url: "https://www.pcahistory.org/pca/ga/50th_pcaga_2023.pdf#page=557"
+---
 # Evangel Presbytery — BCO 13-9.b
 
 *Session minutes not reviewed by Presbytery (committee…*

@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga44_2016"
+    label: "Minutes PDF · p. 447"
+    file: "44th_pcaga_2016.pdf"
+    volume: "ga44_2016"
+    pdf_page: 447
+    url: "https://www.pcahistory.org/pca/ga/44th_pcaga_2016.pdf#page=447"
+---
 # South Florida Presbytery — BCO 46-8
 
 *Presbytery divested a TE and put him “under the authority (though not…*

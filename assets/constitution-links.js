@@ -36,7 +36,8 @@
         </header>
         <div class="constitution-sheet__body" id="constitutionSheetBody" aria-live="polite"></div>
         <footer class="constitution-sheet__actions">
-          <a class="constitution-sheet__primary" id="constitutionOpenReader" target="_blank" rel="noopener">Open in Constitution</a>
+          <a class="constitution-sheet__primary" id="constitutionResearchProvision">Research this provision</a>
+          <a class="constitution-sheet__secondary" id="constitutionOpenReader" target="_blank" rel="noopener">Open in Constitution</a>
           <button type="button" class="constitution-sheet__secondary" id="constitutionCopy">Copy citation</button>
         </footer>
       </section>`;
@@ -146,6 +147,7 @@
     const chapterLine = current.querySelector('#constitutionSheetChapter');
     const body = current.querySelector('#constitutionSheetBody');
     const reader = current.querySelector('#constitutionOpenReader');
+    const research = current.querySelector('#constitutionResearchProvision');
     const copy = current.querySelector('#constitutionCopy');
     const citationRef = book === 'wcf' ? ref : ref.replace(/^Q\./, '');
     const citationLabel = `${books[book].abbr} ${citationRef}`;
@@ -161,6 +163,7 @@
     body.innerHTML = '<p class="constitution-sheet__loading">Loading current text…</p>';
     reader.href = `${readerBase}#${book}/${encodeURIComponent(ref)}`;
     reader.textContent = book === 'rao' ? 'Open in Reader' : 'Open in Constitution';
+    research.href = link.href;
     copy.onclick = () => copyCitation(citationLabel, copy);
 
     current.hidden = false;

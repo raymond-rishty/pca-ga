@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga33_2005"
+    label: "Minutes PDF · p. 285"
+    file: "33rd_pcaga_2005.pdf"
+    volume: "ga33_2005"
+    pdf_page: 285
+    url: "https://www.pcahistory.org/pca/ga/33rd_pcaga_2005.pdf#page=285"
+---
 # Korean Southeastern Presbytery — BCO13-4
 
 *October 4, 1999 (p. 1, Item 2): Only 1 RE present. Therefore no quorum.…*

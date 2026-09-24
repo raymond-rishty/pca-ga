@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga31_2003"
+    label: "Minutes PDF · p. 251"
+    file: "31st_pcaga_2003.pdf"
+    volume: "ga31_2003"
+    pdf_page: 251
+    url: "https://www.pcahistory.org/pca/ga/31st_pcaga_2003.pdf#page=251"
+---
 # South Coast Presbytery — BCO 15-3, BCO 32-6.a, BCO 36-6
 
 *Presbytery deposed and excommunicated a teaching elder without record of…*

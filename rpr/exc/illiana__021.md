@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga25_1997"
+    label: "Minutes PDF · p. 208"
+    file: "25th_pcaga_1997.pdf"
+    volume: "ga25_1997"
+    pdf_page: 208
+    url: "https://www.pcahistory.org/pca/ga/25th_pcaga_1997.pdf#page=208"
+---
 # Illiana Presbytery — RAO 14-3, BCO 15-1
 
 *Minutes of commission to ordain and install not approved or attached (RAO…*

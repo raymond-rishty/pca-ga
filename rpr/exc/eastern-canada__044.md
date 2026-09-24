@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga52_2025"
+    label: "Minutes PDF · p. 542"
+    file: "52nd_pcaga_2025.pdf"
+    volume: "ga52_2025"
+    pdf_page: 542
+    url: "https://www.pcahistory.org/pca/ga/52nd_pcaga_2025.pdf#page=542"
+---
 # Eastern Canada Presbytery — BCO 13-11, RAO 16-3.e.7
 
 *Minutes of executive session not…*

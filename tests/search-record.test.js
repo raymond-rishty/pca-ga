@@ -101,3 +101,18 @@ test('preserves source anchors for overtures and exposes their source locator', 
   assert.equal(view.href, 'markdown/ga51_2024.html#ga51-p1277');
   assert.equal(view.statusLabel, 'Outcome');
 });
+
+test('formats a current provision as a searchable canonical page', () => {
+  const view = presenter.formatRecord({
+    type: 'Constitutional provision',
+    title: 'BCO 40-1 · General principle',
+    identifier: 'BCO 40-1',
+    sub: 'Constitutional text',
+    provisions: ['BCO 40-1'],
+    url: 'provisions/bco/40-1/',
+  });
+  assert.equal(view.category.label, 'Constitutional provision');
+  assert.equal(view.identifier, 'BCO 40-1');
+  assert.equal(view.excerpt, 'Constitutional text');
+  assert.equal(view.href, 'provisions/bco/40-1/');
+});

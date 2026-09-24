@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga50_2023"
+    label: "Minutes PDF · p. 627"
+    file: "50th_pcaga_2023.pdf"
+    volume: "ga50_2023"
+    pdf_page: 627
+    url: "https://www.pcahistory.org/pca/ga/50th_pcaga_2023.pdf#page=627"
+---
 # Korean Southern Presbytery — BCO 34-10
 
 *The provision of Article 2 Section 7 appears to have the effect of BCO 34-10,…*

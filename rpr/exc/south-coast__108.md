@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga51_2024"
+    label: "Minutes PDF · p. 653"
+    file: "51st_pcaga_2024.pdf"
+    volume: "ga51_2024"
+    pdf_page: 653
+    url: "https://www.pcahistory.org/pca/ga/51st_pcaga_2024.pdf#page=653"
+---
 # South Coast Presbytery — BCO 5-9.B.g
 
 *No record of members of the mission church petitioning Presbytery to proceed…*

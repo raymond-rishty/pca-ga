@@ -1,3 +1,20 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga51_2024"
+    label: "Minutes PDF · p. 600"
+    file: "51st_pcaga_2024.pdf"
+    volume: "ga51_2024"
+    pdf_page: 600
+    url: "https://www.pcahistory.org/pca/ga/51st_pcaga_2024.pdf#page=600"
+  - type: "minutes"
+    source_id: "minutes:ga52_2025"
+    label: "Minutes PDF · p. 643"
+    file: "52nd_pcaga_2025.pdf"
+    volume: "ga52_2025"
+    pdf_page: 643
+    url: "https://www.pcahistory.org/pca/ga/52nd_pcaga_2025.pdf#page=643"
+---
 # North Florida Presbytery — BCO 21-4.c.(1)(b), BCO 21-4.c(1)(b)
 
 *Incomplete record of ordination exam. 2024-2: Nov 09, 2023 ( BCO 8-7) — No…*

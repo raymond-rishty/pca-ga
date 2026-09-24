@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga40_2012"
+    label: "Minutes PDF · p. 434"
+    file: "40th_pcaga_2012.pdf"
+    volume: "ga40_2012"
+    pdf_page: 434
+    url: "https://www.pcahistory.org/pca/ga/40th_pcaga_2012.pdf#page=434"
+---
 # Korean Capital Presbytery — BCO 20-1
 
 *Terms of call not included in…*

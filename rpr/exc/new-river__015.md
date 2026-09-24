@@ -1,3 +1,27 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga27_1999"
+    label: "Minutes PDF · p. 202"
+    file: "27th_pcaga_1999.pdf"
+    volume: "ga27_1999"
+    pdf_page: 202
+    url: "https://www.pcahistory.org/pca/ga/27th_pcaga_1999.pdf#page=202"
+  - type: "minutes"
+    source_id: "minutes:ga28_2000"
+    label: "Minutes PDF · p. 335"
+    file: "28th_pcaga_2000.pdf"
+    volume: "ga28_2000"
+    pdf_page: 335
+    url: "https://www.pcahistory.org/pca/ga/28th_pcaga_2000.pdf#page=335"
+  - type: "minutes"
+    source_id: "minutes:ga30_2002"
+    label: "Minutes PDF · p. 326"
+    file: "30th_pcaga_2002.pdf"
+    volume: "ga30_2002"
+    pdf_page: 326
+    url: "https://www.pcahistory.org/pca/ga/30th_pcaga_2002.pdf#page=326"
+---
 # New River Presbytery — WCF 21-7
 
 *Man licensed who “holds exception in his view of the Sabbath (he does not…*

@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga50_2023"
+    label: "Minutes PDF · p. 692"
+    file: "50th_pcaga_2023.pdf"
+    volume: "ga50_2023"
+    pdf_page: 692
+    url: "https://www.pcahistory.org/pca/ga/50th_pcaga_2023.pdf#page=692"
+---
 # Rocky Mountain Presbytery — BCO 18-2
 
 *no record of endorsement by candidate’s session or sixmonths membership for…*

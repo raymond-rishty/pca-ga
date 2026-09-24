@@ -1,3 +1,27 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga48_2021"
+    label: "Minutes PDF · p. 585"
+    file: "48th_pcaga_2021.pdf"
+    volume: "ga48_2021"
+    pdf_page: 585
+    url: "https://www.pcahistory.org/pca/ga/48th_pcaga_2021.pdf#page=585"
+  - type: "minutes"
+    source_id: "minutes:ga49_2022"
+    label: "Minutes PDF · p. 556"
+    file: "49th_pcaga_2022.pdf"
+    volume: "ga49_2022"
+    pdf_page: 556
+    url: "https://www.pcahistory.org/pca/ga/49th_pcaga_2022.pdf#page=556"
+  - type: "minutes"
+    source_id: "minutes:ga49_2022"
+    label: "Minutes PDF · p. 557"
+    file: "49th_pcaga_2022.pdf"
+    volume: "ga49_2022"
+    pdf_page: 557
+    url: "https://www.pcahistory.org/pca/ga/49th_pcaga_2022.pdf#page=557"
+---
 # Korean Eastern Presbytery — BCO 20-9
 
 *Transferred out of presbytery with no record of…*

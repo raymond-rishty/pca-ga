@@ -1,3 +1,20 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga51_2024"
+    label: "Minutes PDF · p. 630"
+    file: "51st_pcaga_2024.pdf"
+    volume: "ga51_2024"
+    pdf_page: 630
+    url: "https://www.pcahistory.org/pca/ga/51st_pcaga_2024.pdf#page=630"
+  - type: "minutes"
+    source_id: "minutes:ga52_2025"
+    label: "Minutes PDF · p. 694"
+    file: "52nd_pcaga_2025.pdf"
+    volume: "ga52_2025"
+    pdf_page: 694
+    url: "https://www.pcahistory.org/pca/ga/52nd_pcaga_2025.pdf#page=694"
+---
 # Providence Presbytery — BCO 13-11
 
 *Minutes of Executive Session not included, and these must be submitted next…*

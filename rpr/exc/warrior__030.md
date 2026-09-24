@@ -1,3 +1,27 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga33_2005"
+    label: "Minutes PDF · p. 317"
+    file: "33rd_pcaga_2005.pdf"
+    volume: "ga33_2005"
+    pdf_page: 317
+    url: "https://www.pcahistory.org/pca/ga/33rd_pcaga_2005.pdf#page=317"
+  - type: "minutes"
+    source_id: "minutes:ga34_2006"
+    label: "Minutes PDF · p. 304"
+    file: "34th_pcaga_2006.pdf"
+    volume: "ga34_2006"
+    pdf_page: 304
+    url: "https://www.pcahistory.org/pca/ga/34th_pcaga_2006.pdf#page=304"
+  - type: "minutes"
+    source_id: "minutes:ga35_2007"
+    label: "Minutes PDF · p. 226"
+    file: "35th_pcaga_2007.pdf"
+    volume: "ga35_2007"
+    pdf_page: 226
+    url: "https://www.pcahistory.org/pca/ga/35th_pcaga_2007.pdf#page=226"
+---
 # Warrior Presbytery — BCO 40-1
 
 *No record of action by presbytery regarding sessions that did not submit…*

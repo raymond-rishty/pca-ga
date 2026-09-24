@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga20_1992"
+    label: "Minutes PDF · p. 240"
+    file: "20th_pcaga_1992.pdf"
+    volume: "ga20_1992"
+    pdf_page: 240
+    url: "https://www.pcahistory.org/pca/ga/20th_pcaga_1992.pdf#page=240"
+---
 # Calvary Presbytery — BCO 15-2
 
 *"P. 6 ,7 ,8 No quorum determined for three commissions BCO…*

@@ -1,3 +1,20 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga19_1991"
+    label: "Minutes PDF · p. 185"
+    file: "19th_pcaga_1991.pdf"
+    volume: "ga19_1991"
+    pdf_page: 185
+    url: "https://www.pcahistory.org/pca/ga/19th_pcaga_1991.pdf#page=185"
+  - type: "minutes"
+    source_id: "minutes:ga20_1992"
+    label: "Minutes PDF · p. 249"
+    file: "20th_pcaga_1992.pdf"
+    volume: "ga20_1992"
+    pdf_page: 249
+    url: "https://www.pcahistory.org/pca/ga/20th_pcaga_1992.pdf#page=249"
+---
 # Missouri Presbytery — exception of substance
 
 *First reading of Standing Rules change with no vote recorded. SR p.2…*

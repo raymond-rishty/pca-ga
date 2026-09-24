@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga22_1994"
+    label: "Minutes PDF · p. 285"
+    file: "22nd_pcaga_1994.pdf"
+    volume: "ga22_1994"
+    pdf_page: 285
+    url: "https://www.pcahistory.org/pca/ga/22nd_pcaga_1994.pdf#page=285"
+---
 # Central Florida Presbytery — BCO 23-1
 
 *Permanent Committee Reports, B, MNA: There is no correspondence or explanation…*

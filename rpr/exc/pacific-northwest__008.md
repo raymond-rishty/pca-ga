@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga21_1993"
+    label: "Minutes PDF · p. 247"
+    file: "21st_pcaga_1993.pdf"
+    volume: "ga21_1993"
+    pdf_page: 247
+    url: "https://www.pcahistory.org/pca/ga/21st_pcaga_1993.pdf#page=247"
+---
 # Pacific Northwest Presbytery — BCO § 23-1)
 
 *a. January 11,1991, p. 8 ,4a. & b. There is no record of the congregation's…*

@@ -1,3 +1,20 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga51_2024"
+    label: "Minutes PDF · p. 482"
+    file: "51st_pcaga_2024.pdf"
+    volume: "ga51_2024"
+    pdf_page: 482
+    url: "https://www.pcahistory.org/pca/ga/51st_pcaga_2024.pdf#page=482"
+  - type: "minutes"
+    source_id: "minutes:ga52_2025"
+    label: "Minutes PDF · p. 527"
+    file: "52nd_pcaga_2025.pdf"
+    volume: "ga52_2025"
+    pdf_page: 527
+    url: "https://www.pcahistory.org/pca/ga/52nd_pcaga_2025.pdf#page=527"
+---
 # Central Florida Presbytery — BCO 20-8
 
 *No record commissioners appointed by the church presented and prosecuted the…*

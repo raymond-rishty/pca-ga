@@ -1,3 +1,27 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga36_2008"
+    label: "Minutes PDF · p. 252"
+    file: "36th_pcaga_2008.pdf"
+    volume: "ga36_2008"
+    pdf_page: 252
+    url: "https://www.pcahistory.org/pca/ga/36th_pcaga_2008.pdf#page=252"
+  - type: "minutes"
+    source_id: "minutes:ga38_2010"
+    label: "Minutes PDF · p. 106"
+    file: "38th_pcaga_2010.pdf"
+    volume: "ga38_2010"
+    pdf_page: 106
+    url: "https://www.pcahistory.org/pca/ga/38th_pcaga_2010.pdf#page=106"
+  - type: "minutes"
+    source_id: "minutes:ga39_2011"
+    label: "Minutes PDF · p. 471"
+    file: "39th_pcaga_2011.pdf"
+    volume: "ga39_2011"
+    pdf_page: 471
+    url: "https://www.pcahistory.org/pca/ga/39th_pcaga_2011.pdf#page=471"
+---
 # Northern California Presbytery — BCO 9-3, RAO 16-10.b.2)
 
 *: Diaconate of new church includes 2 Deaconesses commissioned contrary to BCO…*

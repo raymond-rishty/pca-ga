@@ -1,3 +1,20 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga35_2007"
+    label: "Minutes PDF · p. 226"
+    file: "35th_pcaga_2007.pdf"
+    volume: "ga35_2007"
+    pdf_page: 226
+    url: "https://www.pcahistory.org/pca/ga/35th_pcaga_2007.pdf#page=226"
+  - type: "minutes"
+    source_id: "minutes:ga36_2008"
+    label: "Minutes PDF · p. 272"
+    file: "36th_pcaga_2008.pdf"
+    volume: "ga36_2008"
+    pdf_page: 272
+    url: "https://www.pcahistory.org/pca/ga/36th_pcaga_2008.pdf#page=272"
+---
 # Western Canada Presbytery — BCO 21-4
 
 *: No record of specific ordination trials. BCO 21-4. Response : Presbytery…*

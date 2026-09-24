@@ -1,3 +1,20 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga18_1990"
+    label: "Minutes PDF · p. 187"
+    file: "18th_pcaga_1990.pdf"
+    volume: "ga18_1990"
+    pdf_page: 187
+    url: "https://www.pcahistory.org/pca/ga/18th_pcaga_1990.pdf#page=187"
+  - type: "minutes"
+    source_id: "minutes:ga22_1994"
+    label: "Minutes PDF · p. 310"
+    file: "22nd_pcaga_1994.pdf"
+    volume: "ga22_1994"
+    pdf_page: 310
+    url: "https://www.pcahistory.org/pca/ga/22nd_pcaga_1994.pdf#page=310"
+---
 # Siouxlands Presbytery — exception of substance
 
 *1. Minutes for only one stated meeting submitted for review 2. Directory of…*

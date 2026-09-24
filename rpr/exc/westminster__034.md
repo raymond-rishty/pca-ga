@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga41_2013"
+    label: "Minutes PDF · p. 489"
+    file: "41st_pcaga_2013.pdf"
+    volume: "ga41_2013"
+    pdf_page: 489
+    url: "https://www.pcahistory.org/pca/ga/41st_pcaga_2013.pdf#page=489"
+---
 # Westminster Presbytery — BCO 40-2
 
 *Minutes not submitted for…*

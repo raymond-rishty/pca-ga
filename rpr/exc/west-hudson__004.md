@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga50_2023"
+    label: "Minutes PDF · p. 718"
+    file: "50th_pcaga_2023.pdf"
+    volume: "ga50_2023"
+    pdf_page: 718
+    url: "https://www.pcahistory.org/pca/ga/50th_pcaga_2023.pdf#page=718"
+---
 # West Hudson Presbytery — BCO 15-2
 
 *No record of commission members or a motion to empower anyone to appoint…*

@@ -1,3 +1,20 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga35_2007"
+    label: "Minutes PDF · p. 216"
+    file: "35th_pcaga_2007.pdf"
+    volume: "ga35_2007"
+    pdf_page: 216
+    url: "https://www.pcahistory.org/pca/ga/35th_pcaga_2007.pdf#page=216"
+  - type: "minutes"
+    source_id: "minutes:ga36_2008"
+    label: "Minutes PDF · p. 265"
+    file: "36th_pcaga_2008.pdf"
+    volume: "ga36_2008"
+    pdf_page: 265
+    url: "https://www.pcahistory.org/pca/ga/36th_pcaga_2008.pdf#page=265"
+---
 # Southeast Alabama Presbytery — BCO 18-2
 
 *: No record of 6-month membership or session endorsement. BCO 18-2, 3 Response…*

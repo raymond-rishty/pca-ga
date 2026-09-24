@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga52_2025"
+    label: "Minutes PDF · p. 772"
+    file: "52nd_pcaga_2025.pdf"
+    volume: "ga52_2025"
+    pdf_page: 772
+    url: "https://www.pcahistory.org/pca/ga/52nd_pcaga_2025.pdf#page=772"
+---
 # Suncoast Florida Presbytery — BCO 13-10
 
 *No record of transfer or dismissal of members upon dissolving a…*

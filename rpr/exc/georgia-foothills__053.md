@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga52_2025"
+    label: "Minutes PDF · p. 550"
+    file: "52nd_pcaga_2025.pdf"
+    volume: "ga52_2025"
+    pdf_page: 550
+    url: "https://www.pcahistory.org/pca/ga/52nd_pcaga_2025.pdf#page=550"
+---
 # Georgia Foothills Presbytery — BCO 20-1, BCO 22-3
 
 *Presbytery appointed TE [Name Omitted] to assistant pastor without record of…*

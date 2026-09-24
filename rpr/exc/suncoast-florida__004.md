@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga35_2007"
+    label: "Minutes PDF · p. 221"
+    file: "35th_pcaga_2007.pdf"
+    volume: "ga35_2007"
+    pdf_page: 221
+    url: "https://www.pcahistory.org/pca/ga/35th_pcaga_2007.pdf#page=221"
+---
 # Suncoast Florida Presbytery — BCO 21-4
 
 *October 12, 2004: A man is examined for ordination and portions of the trials…*

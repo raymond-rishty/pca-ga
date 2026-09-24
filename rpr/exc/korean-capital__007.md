@@ -1,3 +1,20 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga25_1997"
+    label: "Minutes PDF · p. 209"
+    file: "25th_pcaga_1997.pdf"
+    volume: "ga25_1997"
+    pdf_page: 209
+    url: "https://www.pcahistory.org/pca/ga/25th_pcaga_1997.pdf#page=209"
+  - type: "minutes"
+    source_id: "minutes:ga46_2018"
+    label: "Minutes PDF · p. 406"
+    file: "46th_pcaga_2018.pdf"
+    volume: "ga46_2018"
+    pdf_page: 406
+    url: "https://www.pcahistory.org/pca/ga/46th_pcaga_2018.pdf#page=406"
+---
 # Korean Capital Presbytery — BCO 13-6
 
 *April 3, 2017, and October 2, 2017 ( BCO 13-6; BCO 21-4) – Incomplete record…*

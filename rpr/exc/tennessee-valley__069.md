@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga50_2023"
+    label: "Minutes PDF · p. 712"
+    file: "50th_pcaga_2023.pdf"
+    volume: "ga50_2023"
+    pdf_page: 712
+    url: "https://www.pcahistory.org/pca/ga/50th_pcaga_2023.pdf#page=712"
+---
 # Tennessee Valley Presbytery — BCO 18
 
 *( BCO 18 2; RAO 16-6.c.2) – No record of six-months membership requirement and…*

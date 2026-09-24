@@ -1,3 +1,20 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga33_2005"
+    label: "Minutes PDF · p. 303"
+    file: "33rd_pcaga_2005.pdf"
+    volume: "ga33_2005"
+    pdf_page: 303
+    url: "https://www.pcahistory.org/pca/ga/33rd_pcaga_2005.pdf#page=303"
+  - type: "minutes"
+    source_id: "minutes:ga34_2006"
+    label: "Minutes PDF · p. 289"
+    file: "34th_pcaga_2006.pdf"
+    volume: "ga34_2006"
+    pdf_page: 289
+    url: "https://www.pcahistory.org/pca/ga/34th_pcaga_2006.pdf#page=289"
+---
 # Pacific Presbytery — BCO 22-4
 
 *: No record of congregational meeting to dissolve pastoral relationship. BCO…*

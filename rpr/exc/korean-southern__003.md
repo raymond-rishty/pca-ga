@@ -1,3 +1,34 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga24_1996"
+    label: "Minutes PDF · p. 254"
+    file: "24th_pcaga_1996.pdf"
+    volume: "ga24_1996"
+    pdf_page: 254
+    url: "https://www.pcahistory.org/pca/ga/24th_pcaga_1996.pdf#page=254"
+  - type: "minutes"
+    source_id: "minutes:ga24_1996"
+    label: "Minutes PDF · p. 255"
+    file: "24th_pcaga_1996.pdf"
+    volume: "ga24_1996"
+    pdf_page: 255
+    url: "https://www.pcahistory.org/pca/ga/24th_pcaga_1996.pdf#page=255"
+  - type: "minutes"
+    source_id: "minutes:ga25_1997"
+    label: "Minutes PDF · p. 211"
+    file: "25th_pcaga_1997.pdf"
+    volume: "ga25_1997"
+    pdf_page: 211
+    url: "https://www.pcahistory.org/pca/ga/25th_pcaga_1997.pdf#page=211"
+  - type: "minutes"
+    source_id: "minutes:ga26_1998"
+    label: "Minutes PDF · p. 243"
+    file: "26th_pcaga_1998.pdf"
+    volume: "ga26_1998"
+    pdf_page: 243
+    url: "https://www.pcahistory.org/pca/ga/26th_pcaga_1998.pdf#page=243"
+---
 # Korean Southern Presbytery — BCO 13-9b)
 
 *No record of annual review of sessional records (BCO 13-9b). October 9, 1995,…*

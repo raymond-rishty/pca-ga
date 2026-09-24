@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga27_1999"
+    label: "Minutes PDF · p. 202"
+    file: "27th_pcaga_1999.pdf"
+    volume: "ga27_1999"
+    pdf_page: 202
+    url: "https://www.pcahistory.org/pca/ga/27th_pcaga_1999.pdf#page=202"
+---
 # North Georgia Presbytery — exception of substance
 
 *April 21, 1998; Presbytery cannot restore from excommunication. This can only…*

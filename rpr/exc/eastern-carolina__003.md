@@ -1,3 +1,20 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga18_1990"
+    label: "Minutes PDF · p. 180"
+    file: "18th_pcaga_1990.pdf"
+    volume: "ga18_1990"
+    pdf_page: 180
+    url: "https://www.pcahistory.org/pca/ga/18th_pcaga_1990.pdf#page=180"
+  - type: "minutes"
+    source_id: "minutes:ga18_1990"
+    label: "Minutes PDF · p. 181"
+    file: "18th_pcaga_1990.pdf"
+    volume: "ga18_1990"
+    pdf_page: 181
+    url: "https://www.pcahistory.org/pca/ga/18th_pcaga_1990.pdf#page=181"
+---
 # Eastern Carolina Presbytery — BCO 24-6
 
 *Page 11, #26, 27: Presbytery acted out of accordance with BCO 24-6 regarding,…*

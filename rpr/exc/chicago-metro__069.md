@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga51_2024"
+    label: "Minutes PDF · p. 492"
+    file: "51st_pcaga_2024.pdf"
+    volume: "ga51_2024"
+    pdf_page: 492
+    url: "https://www.pcahistory.org/pca/ga/51st_pcaga_2024.pdf#page=492"
+---
 # Chicago Metro Presbytery — BCO 19-2.e
 
 *Presbytery granted an exception for a stated difference on the grounds that…*

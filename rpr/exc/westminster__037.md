@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga42_2014"
+    label: "Minutes PDF · p. 462"
+    file: "42nd_pcaga_2014.pdf"
+    volume: "ga42_2014"
+    pdf_page: 462
+    url: "https://www.pcahistory.org/pca/ga/42nd_pcaga_2014.pdf#page=462"
+---
 # Westminster Presbytery — BCO 23-1
 
 *No record of congregational meeting for the dissolution of pastoral…*

@@ -1,3 +1,34 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga23_1995"
+    label: "Minutes PDF · p. 188"
+    file: "23rd_pcaga_1995.pdf"
+    volume: "ga23_1995"
+    pdf_page: 188
+    url: "https://www.pcahistory.org/pca/ga/23rd_pcaga_1995.pdf#page=188"
+  - type: "minutes"
+    source_id: "minutes:ga40_2012"
+    label: "Minutes PDF · p. 425"
+    file: "40th_pcaga_2012.pdf"
+    volume: "ga40_2012"
+    pdf_page: 425
+    url: "https://www.pcahistory.org/pca/ga/40th_pcaga_2012.pdf#page=425"
+  - type: "minutes"
+    source_id: "minutes:ga41_2013"
+    label: "Minutes PDF · p. 431"
+    file: "41st_pcaga_2013.pdf"
+    volume: "ga41_2013"
+    pdf_page: 431
+    url: "https://www.pcahistory.org/pca/ga/41st_pcaga_2013.pdf#page=431"
+  - type: "minutes"
+    source_id: "minutes:ga42_2014"
+    label: "Minutes PDF · p. 414"
+    file: "42nd_pcaga_2014.pdf"
+    volume: "ga42_2014"
+    pdf_page: 414
+    url: "https://www.pcahistory.org/pca/ga/42nd_pcaga_2014.pdf#page=414"
+---
 # Great Lakes Presbytery — BCO 18-2
 
 *p 11, 13.c: Candidate instructed to place himself under the oversight of PCA…*

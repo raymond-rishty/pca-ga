@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga20_1992"
+    label: "Minutes PDF · p. 246"
+    file: "20th_pcaga_1992.pdf"
+    volume: "ga20_1992"
+    pdf_page: 246
+    url: "https://www.pcahistory.org/pca/ga/20th_pcaga_1992.pdf#page=246"
+---
 # Uliana Presbytery — BCO § 19-7), BCO § 19-16)
 
 *Page 295, H 3b: There is no evidence from Calvary Presbytery that they had…*

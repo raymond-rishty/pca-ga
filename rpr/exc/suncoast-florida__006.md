@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga35_2007"
+    label: "Minutes PDF · p. 221"
+    file: "35th_pcaga_2007.pdf"
+    volume: "ga35_2007"
+    pdf_page: 221
+    url: "https://www.pcahistory.org/pca/ga/35th_pcaga_2007.pdf#page=221"
+---
 # Suncoast Florida Presbytery — BCO 21-4, RAO 14-3.e.5
 
 *Minutes record a man having 3 exceptions, but only 1 is recorded and…*

@@ -1,3 +1,41 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga48_2021"
+    label: "Minutes PDF · p. 576"
+    file: "48th_pcaga_2021.pdf"
+    volume: "ga48_2021"
+    pdf_page: 576
+    url: "https://www.pcahistory.org/pca/ga/48th_pcaga_2021.pdf#page=576"
+  - type: "minutes"
+    source_id: "minutes:ga49_2022"
+    label: "Minutes PDF · p. 533"
+    file: "49th_pcaga_2022.pdf"
+    volume: "ga49_2022"
+    pdf_page: 533
+    url: "https://www.pcahistory.org/pca/ga/49th_pcaga_2022.pdf#page=533"
+  - type: "minutes"
+    source_id: "minutes:ga49_2022"
+    label: "Minutes PDF · p. 535"
+    file: "49th_pcaga_2022.pdf"
+    volume: "ga49_2022"
+    pdf_page: 535
+    url: "https://www.pcahistory.org/pca/ga/49th_pcaga_2022.pdf#page=535"
+  - type: "minutes"
+    source_id: "minutes:ga49_2022"
+    label: "Minutes PDF · p. 536"
+    file: "49th_pcaga_2022.pdf"
+    volume: "ga49_2022"
+    pdf_page: 536
+    url: "https://www.pcahistory.org/pca/ga/49th_pcaga_2022.pdf#page=536"
+  - type: "minutes"
+    source_id: "minutes:ga50_2023"
+    label: "Minutes PDF · p. 575"
+    file: "50th_pcaga_2023.pdf"
+    volume: "ga50_2023"
+    pdf_page: 575
+    url: "https://www.pcahistory.org/pca/ga/50th_pcaga_2023.pdf#page=575"
+---
 # Hills and Plains Presbytery — BCO 15-3
 
 *Presbytery approved of a judgment of its commission calling fora specific…*

@@ -1,3 +1,20 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga43_2015"
+    label: "Minutes PDF · p. 441"
+    file: "43rd_pcaga_2015.pdf"
+    volume: "ga43_2015"
+    pdf_page: 441
+    url: "https://www.pcahistory.org/pca/ga/43rd_pcaga_2015.pdf#page=441"
+  - type: "minutes"
+    source_id: "minutes:ga44_2016"
+    label: "Minutes PDF · p. 411"
+    file: "44th_pcaga_2016.pdf"
+    volume: "ga44_2016"
+    pdf_page: 411
+    url: "https://www.pcahistory.org/pca/ga/44th_pcaga_2016.pdf#page=411"
+---
 # Gulf Coast Presbytery — BCO 13-7
 
 *Ministerial obligation not shown to be…*

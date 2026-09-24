@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga50_2023"
+    label: "Minutes PDF · p. 696"
+    file: "50th_pcaga_2023.pdf"
+    volume: "ga50_2023"
+    pdf_page: 696
+    url: "https://www.pcahistory.org/pca/ga/50th_pcaga_2023.pdf#page=696"
+---
 # Siouxlands Presbytery — BCO 21-4, RAO 16-3.e.5
 
 *Stated differences not recorded in the candidate’s own…*

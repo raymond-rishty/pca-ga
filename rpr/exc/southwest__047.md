@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga44_2016"
+    label: "Minutes PDF · p. 449"
+    file: "44th_pcaga_2016.pdf"
+    volume: "ga44_2016"
+    pdf_page: 449
+    url: "https://www.pcahistory.org/pca/ga/44th_pcaga_2016.pdf#page=449"
+---
 # Southwest Presbytery — BCO 18-2
 
 *Use of extraordinary clause for Mr. [name omitted] not…*

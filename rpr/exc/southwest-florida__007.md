@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga22_1994"
+    label: "Minutes PDF · p. 316"
+    file: "22nd_pcaga_1994.pdf"
+    volume: "ga22_1994"
+    pdf_page: 316
+    url: "https://www.pcahistory.org/pca/ga/22nd_pcaga_1994.pdf#page=316"
+---
 # Southwest Florida Presbytery — BCO 20-1, BCO 22-
 
 *p. 4 , 10-D, 4: There is no record of a call from the church. (BCO 20-1, 6)…*

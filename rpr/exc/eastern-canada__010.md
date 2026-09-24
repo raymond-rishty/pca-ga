@@ -1,3 +1,27 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga33_2005"
+    label: "Minutes PDF · p. 272"
+    file: "33rd_pcaga_2005.pdf"
+    volume: "ga33_2005"
+    pdf_page: 272
+    url: "https://www.pcahistory.org/pca/ga/33rd_pcaga_2005.pdf#page=272"
+  - type: "minutes"
+    source_id: "minutes:ga34_2006"
+    label: "Minutes PDF · p. 249"
+    file: "34th_pcaga_2006.pdf"
+    volume: "ga34_2006"
+    pdf_page: 249
+    url: "https://www.pcahistory.org/pca/ga/34th_pcaga_2006.pdf#page=249"
+  - type: "minutes"
+    source_id: "minutes:ga35_2007"
+    label: "Minutes PDF · p. 178"
+    file: "35th_pcaga_2007.pdf"
+    volume: "ga35_2007"
+    pdf_page: 178
+    url: "https://www.pcahistory.org/pca/ga/35th_pcaga_2007.pdf#page=178"
+---
 # Eastern Canada Presbytery — exception of substance
 
 *Presbytery approved an exception to WLCQ 156 in which a candidate stated he…*

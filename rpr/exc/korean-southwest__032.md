@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga29_2001"
+    label: "Minutes PDF · p. 341"
+    file: "29th_pcaga_2001.pdf"
+    volume: "ga29_2001"
+    pdf_page: 341
+    url: "https://www.pcahistory.org/pca/ga/29th_pcaga_2001.pdf#page=341"
+---
 # Korean Southwest Presbytery — BCO 23-, BCO 13-
 
 *no record of congregational meetings to dissolve pastoral relationship (per…*

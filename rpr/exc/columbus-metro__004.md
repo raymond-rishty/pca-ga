@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga47_2019"
+    label: "Minutes PDF · p. 461"
+    file: "47th_pcaga_2019.pdf"
+    volume: "ga47_2019"
+    pdf_page: 461
+    url: "https://www.pcahistory.org/pca/ga/47th_pcaga_2019.pdf#page=461"
+---
 # Columbus Metro Presbytery — BCO 13-4, RONR 347-8
 
 *( BCO 13-4, 11; SR 12.1, 4; RONR 347-8) It does not appear from the record or…*

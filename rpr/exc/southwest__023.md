@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga24_1996"
+    label: "Minutes PDF · p. 263"
+    file: "24th_pcaga_1996.pdf"
+    volume: "ga24_1996"
+    pdf_page: 263
+    url: "https://www.pcahistory.org/pca/ga/24th_pcaga_1996.pdf#page=263"
+---
 # Southwest Presbytery — BCO 15.2
 
 *January 21-22, 1994; February 24, 1994; March 24, 1994 (second meeting): No…*

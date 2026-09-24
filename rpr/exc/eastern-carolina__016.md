@@ -1,3 +1,34 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga32_2004"
+    label: "Minutes PDF · p. 211"
+    file: "32nd_pcaga_2004.pdf"
+    volume: "ga32_2004"
+    pdf_page: 211
+    url: "https://www.pcahistory.org/pca/ga/32nd_pcaga_2004.pdf#page=211"
+  - type: "minutes"
+    source_id: "minutes:ga33_2005"
+    label: "Minutes PDF · p. 273"
+    file: "33rd_pcaga_2005.pdf"
+    volume: "ga33_2005"
+    pdf_page: 273
+    url: "https://www.pcahistory.org/pca/ga/33rd_pcaga_2005.pdf#page=273"
+  - type: "minutes"
+    source_id: "minutes:ga34_2006"
+    label: "Minutes PDF · p. 250"
+    file: "34th_pcaga_2006.pdf"
+    volume: "ga34_2006"
+    pdf_page: 250
+    url: "https://www.pcahistory.org/pca/ga/34th_pcaga_2006.pdf#page=250"
+  - type: "minutes"
+    source_id: "minutes:ga34_2006"
+    label: "Minutes PDF · p. 251"
+    file: "34th_pcaga_2006.pdf"
+    volume: "ga34_2006"
+    pdf_page: 251
+    url: "https://www.pcahistory.org/pca/ga/34th_pcaga_2006.pdf#page=251"
+---
 # Eastern Carolina Presbytery — BCO 18-2
 
 *January 25, 2003: No record of candidates’ 6 month membership or sessional…*

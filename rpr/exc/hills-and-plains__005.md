@@ -1,3 +1,34 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga47_2019"
+    label: "Minutes PDF · p. 468"
+    file: "47th_pcaga_2019.pdf"
+    volume: "ga47_2019"
+    pdf_page: 468
+    url: "https://www.pcahistory.org/pca/ga/47th_pcaga_2019.pdf#page=468"
+  - type: "minutes"
+    source_id: "minutes:ga48_2021"
+    label: "Minutes PDF · p. 578"
+    file: "48th_pcaga_2021.pdf"
+    volume: "ga48_2021"
+    pdf_page: 578
+    url: "https://www.pcahistory.org/pca/ga/48th_pcaga_2021.pdf#page=578"
+  - type: "minutes"
+    source_id: "minutes:ga49_2022"
+    label: "Minutes PDF · p. 532"
+    file: "49th_pcaga_2022.pdf"
+    volume: "ga49_2022"
+    pdf_page: 532
+    url: "https://www.pcahistory.org/pca/ga/49th_pcaga_2022.pdf#page=532"
+  - type: "minutes"
+    source_id: "minutes:ga49_2022"
+    label: "Minutes PDF · p. 542"
+    file: "49th_pcaga_2022.pdf"
+    volume: "ga49_2022"
+    pdf_page: 542
+    url: "https://www.pcahistory.org/pca/ga/49th_pcaga_2022.pdf#page=542"
+---
 # Hills and Plains Presbytery — BCO 13-9.b
 
 *No record of review of the records of church…*

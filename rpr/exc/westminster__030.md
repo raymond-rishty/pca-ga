@@ -1,3 +1,20 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga41_2013"
+    label: "Minutes PDF · p. 488"
+    file: "41st_pcaga_2013.pdf"
+    volume: "ga41_2013"
+    pdf_page: 488
+    url: "https://www.pcahistory.org/pca/ga/41st_pcaga_2013.pdf#page=488"
+  - type: "minutes"
+    source_id: "minutes:ga42_2014"
+    label: "Minutes PDF · p. 462"
+    file: "42nd_pcaga_2014.pdf"
+    volume: "ga42_2014"
+    pdf_page: 462
+    url: "https://www.pcahistory.org/pca/ga/42nd_pcaga_2014.pdf#page=462"
+---
 # Westminster Presbytery — BCO 13-9f
 
 *No record of action taken by Presbytery to dismiss the church with the consent…*

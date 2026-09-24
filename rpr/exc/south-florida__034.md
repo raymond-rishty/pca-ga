@@ -1,3 +1,20 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga45_2017"
+    label: "Minutes PDF · p. 417"
+    file: "45th_pcaga_2017.pdf"
+    volume: "ga45_2017"
+    pdf_page: 417
+    url: "https://www.pcahistory.org/pca/ga/45th_pcaga_2017.pdf#page=417"
+  - type: "minutes"
+    source_id: "minutes:ga46_2018"
+    label: "Minutes PDF · p. 452"
+    file: "46th_pcaga_2018.pdf"
+    volume: "ga46_2018"
+    pdf_page: 452
+    url: "https://www.pcahistory.org/pca/ga/46th_pcaga_2018.pdf#page=452"
+---
 # South Florida Presbytery — BCO 38-2
 
 *no record of deliberation or of two meetings for man demitting from the office…*

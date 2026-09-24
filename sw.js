@@ -1,4 +1,4 @@
-const CACHE = 'pca-ga-v17';
+const CACHE = 'pca-ga-v18';
 const STATIC = [
   './',
   './research.html',
@@ -8,6 +8,7 @@ const STATIC = [
   './icon-512.png',
   './icon-maskable-512.png',
   './assets/pca-style.css',
+  './assets/provision-research.css',
   './assets/pca-nav.js',
   './assets/sticky-record-context.css',
   './assets/sticky-record-context.js',
@@ -22,6 +23,7 @@ const STATIC = [
   './assets/pagefind-search.js',
   './assets/home-search.js',
   './app/search_index.json',
+  './app/provision_search.json',
   './app/case_summaries_1.json',
   './app/case_summaries_2.json'
 ];

@@ -1,3 +1,41 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga28_2000"
+    label: "Minutes PDF · p. 327"
+    file: "28th_pcaga_2000.pdf"
+    volume: "ga28_2000"
+    pdf_page: 327
+    url: "https://www.pcahistory.org/pca/ga/28th_pcaga_2000.pdf#page=327"
+  - type: "minutes"
+    source_id: "minutes:ga29_2001"
+    label: "Minutes PDF · p. 337"
+    file: "29th_pcaga_2001.pdf"
+    volume: "ga29_2001"
+    pdf_page: 337
+    url: "https://www.pcahistory.org/pca/ga/29th_pcaga_2001.pdf#page=337"
+  - type: "minutes"
+    source_id: "minutes:ga30_2002"
+    label: "Minutes PDF · p. 315"
+    file: "30th_pcaga_2002.pdf"
+    volume: "ga30_2002"
+    pdf_page: 315
+    url: "https://www.pcahistory.org/pca/ga/30th_pcaga_2002.pdf#page=315"
+  - type: "minutes"
+    source_id: "minutes:ga32_2004"
+    label: "Minutes PDF · p. 218"
+    file: "32nd_pcaga_2004.pdf"
+    volume: "ga32_2004"
+    pdf_page: 218
+    url: "https://www.pcahistory.org/pca/ga/32nd_pcaga_2004.pdf#page=218"
+  - type: "minutes"
+    source_id: "minutes:ga34_2006"
+    label: "Minutes PDF · p. 263"
+    file: "34th_pcaga_2006.pdf"
+    volume: "ga34_2006"
+    pdf_page: 263
+    url: "https://www.pcahistory.org/pca/ga/34th_pcaga_2006.pdf#page=263"
+---
 # Korean Capital Presbytery — RAO 14-4.a
 
 *No minutes submitted: (RAO 14-4.a &amp;…*

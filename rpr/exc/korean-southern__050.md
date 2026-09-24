@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga31_2003"
+    label: "Minutes PDF · p. 234"
+    file: "31st_pcaga_2003.pdf"
+    volume: "ga31_2003"
+    pdf_page: 234
+    url: "https://www.pcahistory.org/pca/ga/31st_pcaga_2003.pdf#page=234"
+---
 # Korean Southern Presbytery — BCO 21-4
 
 *No explanation of what type of exams are taking place. Incomplete record of…*

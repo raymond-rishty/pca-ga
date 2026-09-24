@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga19_1991"
+    label: "Minutes PDF · p. 189"
+    file: "19th_pcaga_1991.pdf"
+    volume: "ga19_1991"
+    pdf_page: 189
+    url: "https://www.pcahistory.org/pca/ga/19th_pcaga_1991.pdf#page=189"
+---
 # Southwest Presbytery — exception of substance
 
 *Page 7 #30 No record of petition to be organized SCO…*

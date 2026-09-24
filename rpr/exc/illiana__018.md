@@ -1,3 +1,20 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga22_1994"
+    label: "Minutes PDF · p. 293"
+    file: "22nd_pcaga_1994.pdf"
+    volume: "ga22_1994"
+    pdf_page: 293
+    url: "https://www.pcahistory.org/pca/ga/22nd_pcaga_1994.pdf#page=293"
+  - type: "minutes"
+    source_id: "minutes:ga22_1994"
+    label: "Minutes PDF · p. 294"
+    file: "22nd_pcaga_1994.pdf"
+    volume: "ga22_1994"
+    pdf_page: 294
+    url: "https://www.pcahistory.org/pca/ga/22nd_pcaga_1994.pdf#page=294"
+---
 # Illiana Presbytery — BCO 20-1
 
 *There is no copy of the call appended to the minutes (BCO 20-1) Presbytery's…*

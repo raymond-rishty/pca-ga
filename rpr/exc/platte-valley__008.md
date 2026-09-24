@@ -1,3 +1,20 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga48_2021"
+    label: "Minutes PDF · p. 623"
+    file: "48th_pcaga_2021.pdf"
+    volume: "ga48_2021"
+    pdf_page: 623
+    url: "https://www.pcahistory.org/pca/ga/48th_pcaga_2021.pdf#page=623"
+  - type: "minutes"
+    source_id: "minutes:ga49_2022"
+    label: "Minutes PDF · p. 611"
+    file: "49th_pcaga_2022.pdf"
+    volume: "ga49_2022"
+    pdf_page: 611
+    url: "https://www.pcahistory.org/pca/ga/49th_pcaga_2022.pdf#page=611"
+---
 # Platte Valley Presbytery — BCO 10-3
 
 *The Moderator may only be elected for a period of time up to one year.…*

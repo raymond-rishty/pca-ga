@@ -1,3 +1,20 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga35_2007"
+    label: "Minutes PDF · p. 216"
+    file: "35th_pcaga_2007.pdf"
+    volume: "ga35_2007"
+    pdf_page: 216
+    url: "https://www.pcahistory.org/pca/ga/35th_pcaga_2007.pdf#page=216"
+  - type: "minutes"
+    source_id: "minutes:ga36_2008"
+    label: "Minutes PDF · p. 266"
+    file: "36th_pcaga_2008.pdf"
+    volume: "ga36_2008"
+    pdf_page: 266
+    url: "https://www.pcahistory.org/pca/ga/36th_pcaga_2008.pdf#page=266"
+---
 # Southeast Alabama Presbytery — BCO 15-2
 
 *: No record of commission appointed to install. BCO 15-2. Response : We…*

@@ -1,3 +1,20 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga28_2000"
+    label: "Minutes PDF · p. 330"
+    file: "28th_pcaga_2000.pdf"
+    volume: "ga28_2000"
+    pdf_page: 330
+    url: "https://www.pcahistory.org/pca/ga/28th_pcaga_2000.pdf#page=330"
+  - type: "minutes"
+    source_id: "minutes:ga29_2001"
+    label: "Minutes PDF · p. 342"
+    file: "29th_pcaga_2001.pdf"
+    volume: "ga29_2001"
+    pdf_page: 342
+    url: "https://www.pcahistory.org/pca/ga/29th_pcaga_2001.pdf#page=342"
+---
 # Louisiana Presbytery — exception of substance
 
 *no directory of presbytery churches, roll of presbytery or roll of candidates…*

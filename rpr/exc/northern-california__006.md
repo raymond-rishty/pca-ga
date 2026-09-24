@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga22_1994"
+    label: "Minutes PDF · p. 302"
+    file: "22nd_pcaga_1994.pdf"
+    volume: "ga22_1994"
+    pdf_page: 302
+    url: "https://www.pcahistory.org/pca/ga/22nd_pcaga_1994.pdf#page=302"
+---
 # Northern California Presbytery — BCO 46-2, BCO 34-10
 
 *p. 3 H 9: A teaching elder was erased from the roll of presbytery by BCO 46-2,…*

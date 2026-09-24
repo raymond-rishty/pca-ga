@@ -1,3 +1,20 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga22_1994"
+    label: "Minutes PDF · p. 309"
+    file: "22nd_pcaga_1994.pdf"
+    volume: "ga22_1994"
+    pdf_page: 309
+    url: "https://www.pcahistory.org/pca/ga/22nd_pcaga_1994.pdf#page=309"
+  - type: "minutes"
+    source_id: "minutes:ga42_2014"
+    label: "Minutes PDF · p. 452"
+    file: "42nd_pcaga_2014.pdf"
+    volume: "ga42_2014"
+    pdf_page: 452
+    url: "https://www.pcahistory.org/pca/ga/42nd_pcaga_2014.pdf#page=452"
+---
 # Siouxlands Presbytery — BCO 23-1
 
 *RE: Meeting of 9/8/88; p. 6, para 1: No record of having cited congregation to…*

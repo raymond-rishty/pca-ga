@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga26_1998"
+    label: "Minutes PDF · p. 243"
+    file: "26th_pcaga_1998.pdf"
+    volume: "ga26_1998"
+    pdf_page: 243
+    url: "https://www.pcahistory.org/pca/ga/26th_pcaga_1998.pdf#page=243"
+---
 # Korean Southeastern Presbytery — BCO 13-4)
 
 *No quorum for presbytery meeting - only two ruling elders (BCO…*

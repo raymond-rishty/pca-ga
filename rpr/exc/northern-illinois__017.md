@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga28_2000"
+    label: "Minutes PDF · p. 340"
+    file: "28th_pcaga_2000.pdf"
+    volume: "ga28_2000"
+    pdf_page: 340
+    url: "https://www.pcahistory.org/pca/ga/28th_pcaga_2000.pdf#page=340"
+---
 # Northern Illinois Presbytery — BCO 18-2
 
 *No mention of men coming under care meeting the 6-month requirement. BCO…*

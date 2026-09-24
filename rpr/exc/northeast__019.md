@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga22_1994"
+    label: "Minutes PDF · p. 302"
+    file: "22nd_pcaga_1994.pdf"
+    volume: "ga22_1994"
+    pdf_page: 302
+    url: "https://www.pcahistory.org/pca/ga/22nd_pcaga_1994.pdf#page=302"
+---
 # Northeast Presbytery — WCF 24:6, BCO 31-2
 
 *p. 21 or 21, item 24.5: The minutes record no reasons for presbytery not…*

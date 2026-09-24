@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga49_2022"
+    label: "Minutes PDF · p. 618"
+    file: "49th_pcaga_2022.pdf"
+    volume: "ga49_2022"
+    pdf_page: 618
+    url: "https://www.pcahistory.org/pca/ga/49th_pcaga_2022.pdf#page=618"
+---
 # Siouxlands Presbytery — BCO 13-6
 
 *Incomplete record of transfer exam from another…*

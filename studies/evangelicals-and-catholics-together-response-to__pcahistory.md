@@ -1,3 +1,18 @@
+---
+source_links:
+  - type: "dedicated"
+    source_id: "study-pdf:3-371"
+    label: "Dedicated source PDF"
+    file: "3-371.pdf"
+    url: "https://www.pcahistory.org/pca/digest/studies/3-371.pdf"
+  - type: "minutes"
+    source_id: "minutes:ga23_1995"
+    label: "Minutes PDF · p. 231"
+    file: "23rd_pcaga_1995.pdf"
+    volume: "ga23_1995"
+    pdf_page: 231
+    url: "https://www.pcahistory.org/pca/ga/23rd_pcaga_1995.pdf#page=231"
+---
 # Evangelicals and Catholics Together, Response to
 
 *Evangelicals and Catholics Together, Response to*

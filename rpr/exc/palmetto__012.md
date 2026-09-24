@@ -1,3 +1,20 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga34_2006"
+    label: "Minutes PDF · p. 292"
+    file: "34th_pcaga_2006.pdf"
+    volume: "ga34_2006"
+    pdf_page: 292
+    url: "https://www.pcahistory.org/pca/ga/34th_pcaga_2006.pdf#page=292"
+  - type: "minutes"
+    source_id: "minutes:ga35_2007"
+    label: "Minutes PDF · p. 210"
+    file: "35th_pcaga_2007.pdf"
+    volume: "ga35_2007"
+    pdf_page: 210
+    url: "https://www.pcahistory.org/pca/ga/35th_pcaga_2007.pdf#page=210"
+---
 # Palmetto Presbytery — BCO 21-4, RAO 14-03.c.5
 
 *No record of educational requirement or exam in original languages. BCO 21-4,…*

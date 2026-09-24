@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga10_1982"
+    label: "Minutes PDF · p. 324"
+    file: "10th_pcaga_1982.pdf"
+    volume: "ga10_1982"
+    pdf_page: 324
+    url: "https://www.pcahistory.org/pca/ga/10th_pcaga_1982.pdf#page=324"
+---
 # JOINING AND RECEIVING
 
 *REPORT OF THE AD-INTERIM COMMITTEE ON JOINING AND RECEIVING TO THE TENTH GENERAL ASSEMBLY OF THE PRESBYTERIAN CHURCH IN AMERICA*

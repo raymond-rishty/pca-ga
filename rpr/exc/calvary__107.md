@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga48_2021"
+    label: "Minutes PDF · p. 544"
+    file: "48th_pcaga_2021.pdf"
+    volume: "ga48_2021"
+    pdf_page: 544
+    url: "https://www.pcahistory.org/pca/ga/48th_pcaga_2021.pdf#page=544"
+---
 # Calvary Presbytery — BCO 214.e, WCF 20.2
 
 *Presbytery prohibited TE from teaching his accepted view, contrary to our…*

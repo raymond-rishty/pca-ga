@@ -1,3 +1,27 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga34_2006"
+    label: "Minutes PDF · p. 283"
+    file: "34th_pcaga_2006.pdf"
+    volume: "ga34_2006"
+    pdf_page: 283
+    url: "https://www.pcahistory.org/pca/ga/34th_pcaga_2006.pdf#page=283"
+  - type: "minutes"
+    source_id: "minutes:ga35_2007"
+    label: "Minutes PDF · p. 202"
+    file: "35th_pcaga_2007.pdf"
+    volume: "ga35_2007"
+    pdf_page: 202
+    url: "https://www.pcahistory.org/pca/ga/35th_pcaga_2007.pdf#page=202"
+  - type: "minutes"
+    source_id: "minutes:ga36_2008"
+    label: "Minutes PDF · p. 255"
+    file: "36th_pcaga_2008.pdf"
+    volume: "ga36_2008"
+    pdf_page: 255
+    url: "https://www.pcahistory.org/pca/ga/36th_pcaga_2008.pdf#page=255"
+---
 # Northern Illinois Presbytery — BCO 13-7
 
 *No record of signing ministerial obligation. BCO 13-7. Response : We…*

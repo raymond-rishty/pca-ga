@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga23_1995"
+    label: "Minutes PDF · p. 205"
+    file: "23rd_pcaga_1995.pdf"
+    volume: "ga23_1995"
+    pdf_page: 205
+    url: "https://www.pcahistory.org/pca/ga/23rd_pcaga_1995.pdf#page=205"
+---
 # Rocky Mountain Presbytery — BCO 21-
 
 *p. 23 19a: A "devotional message" does not appear to be a "sermon" as required…*

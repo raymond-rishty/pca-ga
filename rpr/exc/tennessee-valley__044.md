@@ -1,3 +1,20 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga36_2008"
+    label: "Minutes PDF · p. 270"
+    file: "36th_pcaga_2008.pdf"
+    volume: "ga36_2008"
+    pdf_page: 270
+    url: "https://www.pcahistory.org/pca/ga/36th_pcaga_2008.pdf#page=270"
+  - type: "minutes"
+    source_id: "minutes:ga37_2009"
+    label: "Minutes PDF · p. 128"
+    file: "37th_pcaga_2009.pdf"
+    volume: "ga37_2009"
+    pdf_page: 128
+    url: "https://www.pcahistory.org/pca/ga/37th_pcaga_2009.pdf#page=128"
+---
 # Tennessee Valley Presbytery — BCO 21-4, RAO 16-3.e.5
 
 *BCO 21-4; RAO 16-3.e.5. Candidates stated differences to WCF, but not recorded…*

@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga31_2003"
+    label: "Minutes PDF · p. 240"
+    file: "31st_pcaga_2003.pdf"
+    volume: "ga31_2003"
+    pdf_page: 240
+    url: "https://www.pcahistory.org/pca/ga/31st_pcaga_2003.pdf#page=240"
+---
 # Nashville Presbytery — BCO 13-11
 
 *11, 2001: No record of terms of call reported for a TE. BCO 13-11; 20-1;…*

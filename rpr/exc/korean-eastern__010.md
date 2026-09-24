@@ -1,3 +1,55 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga26_1998"
+    label: "Minutes PDF · p. 242"
+    file: "26th_pcaga_1998.pdf"
+    volume: "ga26_1998"
+    pdf_page: 242
+    url: "https://www.pcahistory.org/pca/ga/26th_pcaga_1998.pdf#page=242"
+  - type: "minutes"
+    source_id: "minutes:ga28_2000"
+    label: "Minutes PDF · p. 328"
+    file: "28th_pcaga_2000.pdf"
+    volume: "ga28_2000"
+    pdf_page: 328
+    url: "https://www.pcahistory.org/pca/ga/28th_pcaga_2000.pdf#page=328"
+  - type: "minutes"
+    source_id: "minutes:ga29_2001"
+    label: "Minutes PDF · p. 338"
+    file: "29th_pcaga_2001.pdf"
+    volume: "ga29_2001"
+    pdf_page: 338
+    url: "https://www.pcahistory.org/pca/ga/29th_pcaga_2001.pdf#page=338"
+  - type: "minutes"
+    source_id: "minutes:ga30_2002"
+    label: "Minutes PDF · p. 316"
+    file: "30th_pcaga_2002.pdf"
+    volume: "ga30_2002"
+    pdf_page: 316
+    url: "https://www.pcahistory.org/pca/ga/30th_pcaga_2002.pdf#page=316"
+  - type: "minutes"
+    source_id: "minutes:ga36_2008"
+    label: "Minutes PDF · p. 235"
+    file: "36th_pcaga_2008.pdf"
+    volume: "ga36_2008"
+    pdf_page: 235
+    url: "https://www.pcahistory.org/pca/ga/36th_pcaga_2008.pdf#page=235"
+  - type: "minutes"
+    source_id: "minutes:ga37_2009"
+    label: "Minutes PDF · p. 104"
+    file: "37th_pcaga_2009.pdf"
+    volume: "ga37_2009"
+    pdf_page: 104
+    url: "https://www.pcahistory.org/pca/ga/37th_pcaga_2009.pdf#page=104"
+  - type: "minutes"
+    source_id: "minutes:ga38_2010"
+    label: "Minutes PDF · p. 95"
+    file: "38th_pcaga_2010.pdf"
+    volume: "ga38_2010"
+    pdf_page: 95
+    url: "https://www.pcahistory.org/pca/ga/38th_pcaga_2010.pdf#page=95"
+---
 # Korean Eastern Presbytery — BCO 21-4
 
 *No obvious indication that the exam for ordination included each of the parts…*

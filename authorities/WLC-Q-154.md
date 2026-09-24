@@ -1,0 +1,12 @@
+# WLC Q.154
+
+*All PCA authorities bearing on **WLC Q.154**.*
+
+## High authority
+
+| Year | Type | Title | Disposition |
+|------|------|-------|-------------|
+| 2021 | Judicial case | [Fozard v. North Texas Presbytery](../cases/ga48_2021__2019-07.md) | denied |
+
+---
+*[← Authority Index](../index/AUTHORITY-BY-PROVISION.md)*

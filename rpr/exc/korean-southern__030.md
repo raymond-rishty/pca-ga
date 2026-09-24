@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga29_2001"
+    label: "Minutes PDF · p. 339"
+    file: "29th_pcaga_2001.pdf"
+    volume: "ga29_2001"
+    pdf_page: 339
+    url: "https://www.pcahistory.org/pca/ga/29th_pcaga_2001.pdf#page=339"
+---
 # Korean Southern Presbytery — BCO 13-4
 
 *No quorum, only two ruling elders present. BCO…*

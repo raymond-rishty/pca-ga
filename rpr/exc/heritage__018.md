@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga29_2001"
+    label: "Minutes PDF · p. 332"
+    file: "29th_pcaga_2001.pdf"
+    volume: "ga29_2001"
+    pdf_page: 332
+    url: "https://www.pcahistory.org/pca/ga/29th_pcaga_2001.pdf#page=332"
+---
 # Heritage Presbytery — BCO 23-1
 
 *pi 67, 11.3c, no record of a congregational meeting to request dissolution. TE…*

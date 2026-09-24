@@ -1,3 +1,32 @@
+---
+source_links:
+  - type: "dedicated"
+    source_id: "study-pdf:2-552"
+    label: "Dedicated source PDF"
+    file: "2-552.pdf"
+    url: "https://www.pcahistory.org/pca/digest/studies/2-552.pdf"
+  - type: "minutes"
+    source_id: "minutes:ga11_1983"
+    label: "Minutes PDF · p. 65"
+    file: "11th_pcaga_1983.pdf"
+    volume: "ga11_1983"
+    pdf_page: 65
+    url: "https://www.pcahistory.org/pca/ga/11th_pcaga_1983.pdf#page=65"
+  - type: "minutes"
+    source_id: "minutes:ga12_1984"
+    label: "Minutes PDF · p. 114"
+    file: "12th_pcaga_1984.pdf"
+    volume: "ga12_1984"
+    pdf_page: 114
+    url: "https://www.pcahistory.org/pca/ga/12th_pcaga_1984.pdf#page=114"
+  - type: "minutes"
+    source_id: "minutes:ga15_1987"
+    label: "Minutes PDF · p. 452"
+    file: "15th_pcaga_1987.pdf"
+    volume: "ga15_1987"
+    pdf_page: 452
+    url: "https://www.pcahistory.org/pca/ga/15th_pcaga_1987.pdf#page=452"
+---
 # Taxation
 
 *Taxation*

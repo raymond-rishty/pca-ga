@@ -1,3 +1,34 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga48_2021"
+    label: "Minutes PDF · p. 575"
+    file: "48th_pcaga_2021.pdf"
+    volume: "ga48_2021"
+    pdf_page: 575
+    url: "https://www.pcahistory.org/pca/ga/48th_pcaga_2021.pdf#page=575"
+  - type: "minutes"
+    source_id: "minutes:ga48_2021"
+    label: "Minutes PDF · p. 576"
+    file: "48th_pcaga_2021.pdf"
+    volume: "ga48_2021"
+    pdf_page: 576
+    url: "https://www.pcahistory.org/pca/ga/48th_pcaga_2021.pdf#page=576"
+  - type: "minutes"
+    source_id: "minutes:ga49_2022"
+    label: "Minutes PDF · p. 532"
+    file: "49th_pcaga_2022.pdf"
+    volume: "ga49_2022"
+    pdf_page: 532
+    url: "https://www.pcahistory.org/pca/ga/49th_pcaga_2022.pdf#page=532"
+  - type: "minutes"
+    source_id: "minutes:ga49_2022"
+    label: "Minutes PDF · p. 536"
+    file: "49th_pcaga_2022.pdf"
+    volume: "ga49_2022"
+    pdf_page: 536
+    url: "https://www.pcahistory.org/pca/ga/49th_pcaga_2022.pdf#page=536"
+---
 # Hills and Plains Presbytery — BCO 13-11
 
 *Per the purpose of the called meeting, a “full statement of the case and the…*

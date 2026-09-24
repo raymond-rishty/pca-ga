@@ -1,3 +1,27 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga37_2009"
+    label: "Minutes PDF · p. 123"
+    file: "37th_pcaga_2009.pdf"
+    volume: "ga37_2009"
+    pdf_page: 123
+    url: "https://www.pcahistory.org/pca/ga/37th_pcaga_2009.pdf#page=123"
+  - type: "minutes"
+    source_id: "minutes:ga38_2010"
+    label: "Minutes PDF · p. 117"
+    file: "38th_pcaga_2010.pdf"
+    volume: "ga38_2010"
+    pdf_page: 117
+    url: "https://www.pcahistory.org/pca/ga/38th_pcaga_2010.pdf#page=117"
+  - type: "minutes"
+    source_id: "minutes:ga39_2011"
+    label: "Minutes PDF · p. 485"
+    file: "39th_pcaga_2011.pdf"
+    volume: "ga39_2011"
+    pdf_page: 485
+    url: "https://www.pcahistory.org/pca/ga/39th_pcaga_2011.pdf#page=485"
+---
 # Southeast Louisiana Presbytery — BCO 21-4, RAO 16-3.e.5
 
 *Presbytery did not note a judgment on two candidates’ stated differences. 2)…*

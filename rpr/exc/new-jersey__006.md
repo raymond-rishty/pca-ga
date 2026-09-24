@@ -1,3 +1,20 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga21_1993"
+    label: "Minutes PDF · p. 242"
+    file: "21st_pcaga_1993.pdf"
+    volume: "ga21_1993"
+    pdf_page: 242
+    url: "https://www.pcahistory.org/pca/ga/21st_pcaga_1993.pdf#page=242"
+  - type: "minutes"
+    source_id: "minutes:ga22_1994"
+    label: "Minutes PDF · p. 298"
+    file: "22nd_pcaga_1994.pdf"
+    volume: "ga22_1994"
+    pdf_page: 298
+    url: "https://www.pcahistory.org/pca/ga/22nd_pcaga_1994.pdf#page=298"
+---
 # New Jersey Presbytery — BCO § 15-1, RAO § 14-10
 
 *page 247, Neither the commission's report nor its minutes were included either…*

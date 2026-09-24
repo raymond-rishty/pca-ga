@@ -1,3 +1,20 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga31_2003"
+    label: "Minutes PDF · p. 223"
+    file: "31st_pcaga_2003.pdf"
+    volume: "ga31_2003"
+    pdf_page: 223
+    url: "https://www.pcahistory.org/pca/ga/31st_pcaga_2003.pdf#page=223"
+  - type: "minutes"
+    source_id: "minutes:ga32_2004"
+    label: "Minutes PDF · p. 211"
+    file: "32nd_pcaga_2004.pdf"
+    volume: "ga32_2004"
+    pdf_page: 211
+    url: "https://www.pcahistory.org/pca/ga/32nd_pcaga_2004.pdf#page=211"
+---
 # Evangel Presbytery — BCO 21-5
 
 *No record of ordination commission appointed. BCO…*

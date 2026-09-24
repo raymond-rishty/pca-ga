@@ -1,3 +1,20 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga37_2009"
+    label: "Minutes PDF · p. 104"
+    file: "37th_pcaga_2009.pdf"
+    volume: "ga37_2009"
+    pdf_page: 104
+    url: "https://www.pcahistory.org/pca/ga/37th_pcaga_2009.pdf#page=104"
+  - type: "minutes"
+    source_id: "minutes:ga38_2010"
+    label: "Minutes PDF · p. 95"
+    file: "38th_pcaga_2010.pdf"
+    volume: "ga38_2010"
+    pdf_page: 95
+    url: "https://www.pcahistory.org/pca/ga/38th_pcaga_2010.pdf#page=95"
+---
 # Korean Eastern Presbytery — BCO 34-10
 
 *Removal of TEs from roll without process Response : KEP did not remove the…*

@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga40_2012"
+    label: "Minutes PDF · p. 420"
+    file: "40th_pcaga_2012.pdf"
+    volume: "ga40_2012"
+    pdf_page: 420
+    url: "https://www.pcahistory.org/pca/ga/40th_pcaga_2012.pdf#page=420"
+---
 # Eastern Carolina Presbytery — RAO 16-3.e.5
 
 *Presbytery judged stated difference to be merely semantic but it appears the…*

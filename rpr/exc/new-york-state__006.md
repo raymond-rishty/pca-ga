@@ -1,3 +1,20 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga34_2006"
+    label: "Minutes PDF · p. 278"
+    file: "34th_pcaga_2006.pdf"
+    volume: "ga34_2006"
+    pdf_page: 278
+    url: "https://www.pcahistory.org/pca/ga/34th_pcaga_2006.pdf#page=278"
+  - type: "minutes"
+    source_id: "minutes:ga35_2007"
+    label: "Minutes PDF · p. 199"
+    file: "35th_pcaga_2007.pdf"
+    volume: "ga35_2007"
+    pdf_page: 199
+    url: "https://www.pcahistory.org/pca/ga/35th_pcaga_2007.pdf#page=199"
+---
 # New York State Presbytery — BCO 13-7
 
 *: No record of man being ordained signing the ministerial obligation. BCO…*

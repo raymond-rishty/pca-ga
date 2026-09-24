@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga51_2024"
+    label: "Minutes PDF · p. 501"
+    file: "51st_pcaga_2024.pdf"
+    volume: "ga51_2024"
+    pdf_page: 501
+    url: "https://www.pcahistory.org/pca/ga/51st_pcaga_2024.pdf#page=501"
+---
 # Eastern Canada Presbytery — BCO 19-1
 
 *Presbytery permits a church’s pulpit to be regularly filled by an unlicensed…*

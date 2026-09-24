@@ -1,3 +1,27 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga05_1977"
+    label: "Minutes PDF · p. 242"
+    file: "5th_pcaga_1977.pdf"
+    volume: "ga05_1977"
+    pdf_page: 242
+    url: "https://www.pcahistory.org/pca/ga/5th_pcaga_1977.pdf#page=242"
+  - type: "minutes"
+    source_id: "minutes:ga05_1977"
+    label: "Minutes PDF · p. 244"
+    file: "5th_pcaga_1977.pdf"
+    volume: "ga05_1977"
+    pdf_page: 244
+    url: "https://www.pcahistory.org/pca/ga/5th_pcaga_1977.pdf#page=244"
+  - type: "minutes"
+    source_id: "minutes:ga05_1977"
+    label: "Minutes PDF · p. 249"
+    file: "5th_pcaga_1977.pdf"
+    volume: "ga05_1977"
+    pdf_page: 249
+    url: "https://www.pcahistory.org/pca/ga/5th_pcaga_1977.pdf#page=249"
+---
 # Ruling Elders Administering the Sacraments
 
 *Report of the Ad-Interim Committee to Study the Question of Ruling Elders Administering the Sacraments*

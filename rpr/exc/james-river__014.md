@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga25_1997"
+    label: "Minutes PDF · p. 209"
+    file: "25th_pcaga_1997.pdf"
+    volume: "ga25_1997"
+    pdf_page: 209
+    url: "https://www.pcahistory.org/pca/ga/25th_pcaga_1997.pdf#page=209"
+---
 # James River Presbytery — exception of substance
 
 *A candidate was approved for licensure while describing a view of Genesis 1 as…*

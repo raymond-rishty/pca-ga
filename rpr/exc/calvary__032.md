@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga21_1993"
+    label: "Minutes PDF · p. 231"
+    file: "21st_pcaga_1993.pdf"
+    volume: "ga21_1993"
+    pdf_page: 231
+    url: "https://www.pcahistory.org/pca/ga/21st_pcaga_1993.pdf#page=231"
+---
 # Calvary Presbytery — BCO § 18-2
 
 *There is no indication that the requirements of BCO § 18-2 were met. d. No…*

@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga34_2006"
+    label: "Minutes PDF · p. 263"
+    file: "34th_pcaga_2006.pdf"
+    volume: "ga34_2006"
+    pdf_page: 263
+    url: "https://www.pcahistory.org/pca/ga/34th_pcaga_2006.pdf#page=263"
+---
 # Korean Central Presbytery — RAO 14-3.e.5, BCO 21-4, BCO 21-2
 
 *No record of complete examination of a candidate for ordination (RAO 14-3.e.5…*

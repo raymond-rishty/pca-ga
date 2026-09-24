@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga35_2007"
+    label: "Minutes PDF · p. 217"
+    file: "35th_pcaga_2007.pdf"
+    volume: "ga35_2007"
+    pdf_page: 217
+    url: "https://www.pcahistory.org/pca/ga/35th_pcaga_2007.pdf#page=217"
+---
 # Southeast Alabama Presbytery — RAO 14.3.c.1
 
 *Purpose of called meeting not recorded. RAO 14.3.c.1 Responses: The call and…*

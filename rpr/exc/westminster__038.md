@@ -1,3 +1,27 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga42_2014"
+    label: "Minutes PDF · p. 463"
+    file: "42nd_pcaga_2014.pdf"
+    volume: "ga42_2014"
+    pdf_page: 463
+    url: "https://www.pcahistory.org/pca/ga/42nd_pcaga_2014.pdf#page=463"
+  - type: "minutes"
+    source_id: "minutes:ga43_2015"
+    label: "Minutes PDF · p. 485"
+    file: "43rd_pcaga_2015.pdf"
+    volume: "ga43_2015"
+    pdf_page: 485
+    url: "https://www.pcahistory.org/pca/ga/43rd_pcaga_2015.pdf#page=485"
+  - type: "minutes"
+    source_id: "minutes:ga44_2016"
+    label: "Minutes PDF · p. 458"
+    file: "44th_pcaga_2016.pdf"
+    volume: "ga44_2016"
+    pdf_page: 458
+    url: "https://www.pcahistory.org/pca/ga/44th_pcaga_2016.pdf#page=458"
+---
 # Westminster Presbytery — BCO 40-1, RAO 16-1
 
 *Missing minutes of called…*

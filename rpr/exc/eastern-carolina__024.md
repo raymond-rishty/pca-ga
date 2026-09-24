@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga41_2013"
+    label: "Minutes PDF · p. 426"
+    file: "41st_pcaga_2013.pdf"
+    volume: "ga41_2013"
+    pdf_page: 426
+    url: "https://www.pcahistory.org/pca/ga/41st_pcaga_2013.pdf#page=426"
+---
 # Eastern Carolina Presbytery — BCO 21-4
 
 *Stated differences with our Standards not recorded in the proper manner (see…*

@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga31_2003"
+    label: "Minutes PDF · p. 227"
+    file: "31st_pcaga_2003.pdf"
+    volume: "ga31_2003"
+    pdf_page: 227
+    url: "https://www.pcahistory.org/pca/ga/31st_pcaga_2003.pdf#page=227"
+---
 # Heartland Presbytery — BCO 20-1
 
 *No record of calls for TEs. BCO 20-1; 21-1; 13-11; “RAO”…*

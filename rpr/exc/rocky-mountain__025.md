@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga42_2014"
+    label: "Minutes PDF · p. 451"
+    file: "42nd_pcaga_2014.pdf"
+    volume: "ga42_2014"
+    pdf_page: 451
+    url: "https://www.pcahistory.org/pca/ga/42nd_pcaga_2014.pdf#page=451"
+---
 # Rocky Mountain Presbytery — BCO 20-1
 
 *( BCO 20-1; BCO 8-7; and BCO 13-2) – TE serving out of bounds either without…*

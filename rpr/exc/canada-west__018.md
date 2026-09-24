@@ -1,3 +1,20 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga51_2024"
+    label: "Minutes PDF · p. 476"
+    file: "51st_pcaga_2024.pdf"
+    volume: "ga51_2024"
+    pdf_page: 476
+    url: "https://www.pcahistory.org/pca/ga/51st_pcaga_2024.pdf#page=476"
+  - type: "minutes"
+    source_id: "minutes:ga52_2025"
+    label: "Minutes PDF · p. 525"
+    file: "52nd_pcaga_2025.pdf"
+    volume: "ga52_2025"
+    pdf_page: 525
+    url: "https://www.pcahistory.org/pca/ga/52nd_pcaga_2025.pdf#page=525"
+---
 # Canada West Presbytery — BCO 19-2.d, BCO 43-8
 
 *Four timely and orderly complaints dismissed without a…*

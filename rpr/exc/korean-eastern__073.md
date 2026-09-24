@@ -1,3 +1,20 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga45_2017"
+    label: "Minutes PDF · p. 392"
+    file: "45th_pcaga_2017.pdf"
+    volume: "ga45_2017"
+    pdf_page: 392
+    url: "https://www.pcahistory.org/pca/ga/45th_pcaga_2017.pdf#page=392"
+  - type: "minutes"
+    source_id: "minutes:ga46_2018"
+    label: "Minutes PDF · p. 414"
+    file: "46th_pcaga_2018.pdf"
+    volume: "ga46_2018"
+    pdf_page: 414
+    url: "https://www.pcahistory.org/pca/ga/46th_pcaga_2018.pdf#page=414"
+---
 # Korean Eastern Presbytery — RAO 16-
 
 *No response to GA for response to exceptions of substance in…*

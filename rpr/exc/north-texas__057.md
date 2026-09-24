@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga51_2024"
+    label: "Minutes PDF · p. 601"
+    file: "51st_pcaga_2024.pdf"
+    volume: "ga51_2024"
+    pdf_page: 601
+    url: "https://www.pcahistory.org/pca/ga/51st_pcaga_2024.pdf#page=601"
+---
 # North Texas Presbytery — BCO 21-4.f
 
 *Presbytery judged a stated difference as “merely semantic.” This decision…*

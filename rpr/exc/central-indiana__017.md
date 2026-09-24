@@ -1,3 +1,20 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga48_2021"
+    label: "Minutes PDF · p. 558"
+    file: "48th_pcaga_2021.pdf"
+    volume: "ga48_2021"
+    pdf_page: 558
+    url: "https://www.pcahistory.org/pca/ga/48th_pcaga_2021.pdf#page=558"
+  - type: "minutes"
+    source_id: "minutes:ga49_2022"
+    label: "Minutes PDF · p. 507"
+    file: "49th_pcaga_2022.pdf"
+    volume: "ga49_2022"
+    pdf_page: 507
+    url: "https://www.pcahistory.org/pca/ga/49th_pcaga_2022.pdf#page=507"
+---
 # Central Indiana Presbytery — RAO 16-3.c.1
 
 *Exceeded the purpose of the called meeting by taking up additional items of…*

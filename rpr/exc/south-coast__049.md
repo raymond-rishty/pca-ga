@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga48_2021"
+    label: "Minutes PDF · p. 632"
+    file: "48th_pcaga_2021.pdf"
+    volume: "ga48_2021"
+    pdf_page: 632
+    url: "https://www.pcahistory.org/pca/ga/48th_pcaga_2021.pdf#page=632"
+---
 # South Coast Presbytery — BCO 13-9
 
 *Annual review of session minutes not completed. (Only 3 of 20+ churches and no…*

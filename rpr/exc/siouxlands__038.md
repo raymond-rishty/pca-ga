@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga26_1998"
+    label: "Minutes PDF · p. 251"
+    file: "26th_pcaga_1998.pdf"
+    volume: "ga26_1998"
+    pdf_page: 251
+    url: "https://www.pcahistory.org/pca/ga/26th_pcaga_1998.pdf#page=251"
+---
 # Siouxlands Presbytery — BCO 13-10)
 
 *No record of dissolving Sioux Falls church or transferring or dismissing…*

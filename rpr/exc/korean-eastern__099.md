@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga51_2024"
+    label: "Minutes PDF · p. 551"
+    file: "51st_pcaga_2024.pdf"
+    volume: "ga51_2024"
+    pdf_page: 551
+    url: "https://www.pcahistory.org/pca/ga/51st_pcaga_2024.pdf#page=551"
+---
 # Korean Eastern Presbytery — BCO 13-8
 
 *no record of examination of elders for a church that has petitioned to join…*

@@ -1,0 +1,12 @@
+# WLC Q.171
+
+*All PCA authorities bearing on **WLC Q.171**.*
+
+## High authority
+
+| Year | Type | Title | Disposition |
+|------|------|-------|-------------|
+| 2023 | Judicial case | [Wilson et al. v. Pacific Northwest Presbytery](../cases/ga50_2023__2022-20.md) | dismissed |
+
+---
+*[← Authority Index](../index/AUTHORITY-BY-PROVISION.md)*

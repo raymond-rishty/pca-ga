@@ -1,3 +1,41 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga46_2018"
+    label: "Minutes PDF · p. 382"
+    file: "46th_pcaga_2018.pdf"
+    volume: "ga46_2018"
+    pdf_page: 382
+    url: "https://www.pcahistory.org/pca/ga/46th_pcaga_2018.pdf#page=382"
+  - type: "minutes"
+    source_id: "minutes:ga47_2019"
+    label: "Minutes PDF · p. 462"
+    file: "47th_pcaga_2019.pdf"
+    volume: "ga47_2019"
+    pdf_page: 462
+    url: "https://www.pcahistory.org/pca/ga/47th_pcaga_2019.pdf#page=462"
+  - type: "minutes"
+    source_id: "minutes:ga48_2021"
+    label: "Minutes PDF · p. 563"
+    file: "48th_pcaga_2021.pdf"
+    volume: "ga48_2021"
+    pdf_page: 563
+    url: "https://www.pcahistory.org/pca/ga/48th_pcaga_2021.pdf#page=563"
+  - type: "minutes"
+    source_id: "minutes:ga49_2022"
+    label: "Minutes PDF · p. 513"
+    file: "49th_pcaga_2022.pdf"
+    volume: "ga49_2022"
+    pdf_page: 513
+    url: "https://www.pcahistory.org/pca/ga/49th_pcaga_2022.pdf#page=513"
+  - type: "minutes"
+    source_id: "minutes:ga50_2023"
+    label: "Minutes PDF · p. 548"
+    file: "50th_pcaga_2023.pdf"
+    volume: "ga50_2023"
+    pdf_page: 548
+    url: "https://www.pcahistory.org/pca/ga/50th_pcaga_2023.pdf#page=548"
+---
 # Columbus Metro Presbytery — BCO 13-9.b
 
 *no record of review of records of church…*

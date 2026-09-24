@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga48_2021"
+    label: "Minutes PDF · p. 633"
+    file: "48th_pcaga_2021.pdf"
+    volume: "ga48_2021"
+    pdf_page: 633
+    url: "https://www.pcahistory.org/pca/ga/48th_pcaga_2021.pdf#page=633"
+---
 # South Coast Presbytery — BCO 21-5
 
 *No ordination/installation minutes for [name…*

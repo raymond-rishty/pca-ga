@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga22_1994"
+    label: "Minutes PDF · p. 283"
+    file: "22nd_pcaga_1994.pdf"
+    volume: "ga22_1994"
+    pdf_page: 283
+    url: "https://www.pcahistory.org/pca/ga/22nd_pcaga_1994.pdf#page=283"
+---
 # Calvary Presbytery — BCO 18-2), BCO 18-2, BCO 18-3), BCO 19-9), BCO 8-7), BCO 46-8)
 
 *There was no list of candidates under care and licentiates included. April…*

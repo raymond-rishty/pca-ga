@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga48_2021"
+    label: "Minutes PDF · p. 597"
+    file: "48th_pcaga_2021.pdf"
+    volume: "ga48_2021"
+    pdf_page: 597
+    url: "https://www.pcahistory.org/pca/ga/48th_pcaga_2021.pdf#page=597"
+---
 # Korean Southwest Presbytery — BCO 19-2, RAO 16-3.e.5
 
 *Requirements of licensure exam not recorded ( RAO…*

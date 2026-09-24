@@ -1,3 +1,27 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga15_1987"
+    label: "Minutes PDF · p. 468"
+    file: "15th_pcaga_1987.pdf"
+    volume: "ga15_1987"
+    pdf_page: 468
+    url: "https://www.pcahistory.org/pca/ga/15th_pcaga_1987.pdf#page=468"
+  - type: "minutes"
+    source_id: "minutes:ga15_1987"
+    label: "Minutes PDF · p. 489"
+    file: "15th_pcaga_1987.pdf"
+    volume: "ga15_1987"
+    pdf_page: 489
+    url: "https://www.pcahistory.org/pca/ga/15th_pcaga_1987.pdf#page=489"
+  - type: "minutes"
+    source_id: "minutes:ga15_1987"
+    label: "Minutes PDF · p. 517"
+    file: "15th_pcaga_1987.pdf"
+    volume: "ga15_1987"
+    pdf_page: 517
+    url: "https://www.pcahistory.org/pca/ga/15th_pcaga_1987.pdf#page=517"
+---
 # FREEMASONRY
 
 *THE REPORT OF THE AD-INTERIM COMMITTEE TO STUDY FREEMASONRY*

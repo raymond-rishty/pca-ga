@@ -1,3 +1,20 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga25_1997"
+    label: "Minutes PDF · p. 214"
+    file: "25th_pcaga_1997.pdf"
+    volume: "ga25_1997"
+    pdf_page: 214
+    url: "https://www.pcahistory.org/pca/ga/25th_pcaga_1997.pdf#page=214"
+  - type: "minutes"
+    source_id: "minutes:ga26_1998"
+    label: "Minutes PDF · p. 248"
+    file: "26th_pcaga_1998.pdf"
+    volume: "ga26_1998"
+    pdf_page: 248
+    url: "https://www.pcahistory.org/pca/ga/26th_pcaga_1998.pdf#page=248"
+---
 # Northeast Presbytery — exception of substance
 
 *Presbytery approved a man for membership who took exception to the standards…*

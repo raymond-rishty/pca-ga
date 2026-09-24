@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga09_1981"
+    label: "Minutes PDF · p. 276"
+    file: "9th_pcaga_1981.pdf"
+    volume: "ga09_1981"
+    pdf_page: 276
+    url: "https://www.pcahistory.org/pca/ga/9th_pcaga_1981.pdf#page=276"
+---
 # Theology of Stewardship
 
 *Theology of Stewardship*

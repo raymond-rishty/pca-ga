@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga34_2006"
+    label: "Minutes PDF · p. 265"
+    file: "34th_pcaga_2006.pdf"
+    volume: "ga34_2006"
+    pdf_page: 265
+    url: "https://www.pcahistory.org/pca/ga/34th_pcaga_2006.pdf#page=265"
+---
 # Korean Eastern Presbytery — RAO 14-4.c.2
 
 *No Standing Rules submitted (RAO…*

@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga48_2021"
+    label: "Minutes PDF · p. 557"
+    file: "48th_pcaga_2021.pdf"
+    volume: "ga48_2021"
+    pdf_page: 557
+    url: "https://www.pcahistory.org/pca/ga/48th_pcaga_2021.pdf#page=557"
+---
 # Central Georgia Presbytery — BCO 381
 
 *No record of the steps required for a case without process per BCO 38-1 have…*

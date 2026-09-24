@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga31_2003"
+    label: "Minutes PDF · p. 224"
+    file: "31st_pcaga_2003.pdf"
+    volume: "ga31_2003"
+    pdf_page: 224
+    url: "https://www.pcahistory.org/pca/ga/31st_pcaga_2003.pdf#page=224"
+---
 # Fellowship Presbytery — BCO 13-7
 
 *January 26, 2002, April 5, 2002, September 19, 2002: No record of signing…*

@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga51_2024"
+    label: "Minutes PDF · p. 522"
+    file: "51st_pcaga_2024.pdf"
+    volume: "ga51_2024"
+    pdf_page: 522
+    url: "https://www.pcahistory.org/pca/ga/51st_pcaga_2024.pdf#page=522"
+---
 # Gulfstream Presbytery — BCO 22-4
 
 *No record of request from congregation to a change of call from assistant…*

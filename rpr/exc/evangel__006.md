@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga20_1992"
+    label: "Minutes PDF · p. 242"
+    file: "20th_pcaga_1992.pdf"
+    volume: "ga20_1992"
+    pdf_page: 242
+    url: "https://www.pcahistory.org/pca/ga/20th_pcaga_1992.pdf#page=242"
+---
 # Evangel Presbytery — BCO § 20-6
 
 *Page 7, D-6: The full text of a pastoral call is not recorded or referenced…*

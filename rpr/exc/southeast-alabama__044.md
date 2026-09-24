@@ -1,3 +1,34 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga40_2012"
+    label: "Minutes PDF · p. 474"
+    file: "40th_pcaga_2012.pdf"
+    volume: "ga40_2012"
+    pdf_page: 474
+    url: "https://www.pcahistory.org/pca/ga/40th_pcaga_2012.pdf#page=474"
+  - type: "minutes"
+    source_id: "minutes:ga41_2013"
+    label: "Minutes PDF · p. 481"
+    file: "41st_pcaga_2013.pdf"
+    volume: "ga41_2013"
+    pdf_page: 481
+    url: "https://www.pcahistory.org/pca/ga/41st_pcaga_2013.pdf#page=481"
+  - type: "minutes"
+    source_id: "minutes:ga42_2014"
+    label: "Minutes PDF · p. 455"
+    file: "42nd_pcaga_2014.pdf"
+    volume: "ga42_2014"
+    pdf_page: 455
+    url: "https://www.pcahistory.org/pca/ga/42nd_pcaga_2014.pdf#page=455"
+  - type: "minutes"
+    source_id: "minutes:ga43_2015"
+    label: "Minutes PDF · p. 474"
+    file: "43rd_pcaga_2015.pdf"
+    volume: "ga43_2015"
+    pdf_page: 474
+    url: "https://www.pcahistory.org/pca/ga/43rd_pcaga_2015.pdf#page=474"
+---
 # Southeast Alabama Presbytery — BCO 18-2
 
 *General ( BCO 18-2) no record of endorsement of candidate by his session ora…*

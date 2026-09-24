@@ -1,3 +1,20 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga08_1980"
+    label: "Minutes PDF · p. 102"
+    file: "8th_pcaga_1980.pdf"
+    volume: "ga08_1980"
+    pdf_page: 102
+    url: "https://www.pcahistory.org/pca/ga/8th_pcaga_1980.pdf#page=102"
+  - type: "minutes"
+    source_id: "minutes:ga08_1980"
+    label: "Minutes PDF · p. 110"
+    file: "8th_pcaga_1980.pdf"
+    volume: "ga08_1980"
+    pdf_page: 110
+    url: "https://www.pcahistory.org/pca/ga/8th_pcaga_1980.pdf#page=110"
+---
 # Statement on the Beverage Use of Alcohol (Temperance)
 
 *Statement on the Beverage Use of Alcohol (Temperance)*

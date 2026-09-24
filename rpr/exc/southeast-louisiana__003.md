@@ -1,3 +1,20 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga29_2001"
+    label: "Minutes PDF · p. 353"
+    file: "29th_pcaga_2001.pdf"
+    volume: "ga29_2001"
+    pdf_page: 353
+    url: "https://www.pcahistory.org/pca/ga/29th_pcaga_2001.pdf#page=353"
+  - type: "minutes"
+    source_id: "minutes:ga30_2002"
+    label: "Minutes PDF · p. 336"
+    file: "30th_pcaga_2002.pdf"
+    volume: "ga30_2002"
+    pdf_page: 336
+    url: "https://www.pcahistory.org/pca/ga/30th_pcaga_2002.pdf#page=336"
+---
 # Southeast Louisiana Presbytery — BCO 21-4
 
 *paragraph 31.10, concerning the ordination examination of a man. BCO 21-4.…*

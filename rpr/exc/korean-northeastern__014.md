@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga51_2024"
+    label: "Minutes PDF · p. 554"
+    file: "51st_pcaga_2024.pdf"
+    volume: "ga51_2024"
+    pdf_page: 554
+    url: "https://www.pcahistory.org/pca/ga/51st_pcaga_2024.pdf#page=554"
+---
 # Korean Northeastern Presbytery — BCO 8-7
 
 *No record that Presbytery is assured that an out of bounds TE will have full…*

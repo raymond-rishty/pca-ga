@@ -1,3 +1,34 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga33_2005"
+    label: "Minutes PDF · p. 275"
+    file: "33rd_pcaga_2005.pdf"
+    volume: "ga33_2005"
+    pdf_page: 275
+    url: "https://www.pcahistory.org/pca/ga/33rd_pcaga_2005.pdf#page=275"
+  - type: "minutes"
+    source_id: "minutes:ga34_2006"
+    label: "Minutes PDF · p. 253"
+    file: "34th_pcaga_2006.pdf"
+    volume: "ga34_2006"
+    pdf_page: 253
+    url: "https://www.pcahistory.org/pca/ga/34th_pcaga_2006.pdf#page=253"
+  - type: "minutes"
+    source_id: "minutes:ga41_2013"
+    label: "Minutes PDF · p. 430"
+    file: "41st_pcaga_2013.pdf"
+    volume: "ga41_2013"
+    pdf_page: 430
+    url: "https://www.pcahistory.org/pca/ga/41st_pcaga_2013.pdf#page=430"
+  - type: "minutes"
+    source_id: "minutes:ga42_2014"
+    label: "Minutes PDF · p. 413"
+    file: "42nd_pcaga_2014.pdf"
+    volume: "ga42_2014"
+    pdf_page: 413
+    url: "https://www.pcahistory.org/pca/ga/42nd_pcaga_2014.pdf#page=413"
+---
 # Grace Presbytery — BCO 8-7
 
 *No record in the minutes of any stated meetings of an annual report from TEs…*

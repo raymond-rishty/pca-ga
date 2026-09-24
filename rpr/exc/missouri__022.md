@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga32_2004"
+    label: "Minutes PDF · p. 225"
+    file: "32nd_pcaga_2004.pdf"
+    volume: "ga32_2004"
+    pdf_page: 225
+    url: "https://www.pcahistory.org/pca/ga/32nd_pcaga_2004.pdf#page=225"
+---
 # Missouri Presbytery — RAO 14-3.e.5
 
 *Exceptions to the constitution are mentioned but not recorded. RAO…*

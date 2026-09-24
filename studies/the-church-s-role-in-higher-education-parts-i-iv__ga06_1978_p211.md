@@ -1,3 +1,27 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga06_1978"
+    label: "Minutes PDF · p. 213"
+    file: "6th_pcaga_1978.pdf"
+    volume: "ga06_1978"
+    pdf_page: 213
+    url: "https://www.pcahistory.org/pca/ga/6th_pcaga_1978.pdf#page=213"
+  - type: "minutes"
+    source_id: "minutes:ga06_1978"
+    label: "Minutes PDF · p. 218"
+    file: "6th_pcaga_1978.pdf"
+    volume: "ga06_1978"
+    pdf_page: 218
+    url: "https://www.pcahistory.org/pca/ga/6th_pcaga_1978.pdf#page=218"
+  - type: "minutes"
+    source_id: "minutes:ga06_1978"
+    label: "Minutes PDF · p. 226"
+    file: "6th_pcaga_1978.pdf"
+    volume: "ga06_1978"
+    pdf_page: 226
+    url: "https://www.pcahistory.org/pca/ga/6th_pcaga_1978.pdf#page=226"
+---
 # The Church's Role in Higher Education (Parts I–IV)
 
 *The Church's Role in Higher Education (Parts I–IV)*

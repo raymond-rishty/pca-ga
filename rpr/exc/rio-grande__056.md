@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga52_2025"
+    label: "Minutes PDF · p. 695"
+    file: "52nd_pcaga_2025.pdf"
+    volume: "ga52_2025"
+    pdf_page: 695
+    url: "https://www.pcahistory.org/pca/ga/52nd_pcaga_2025.pdf#page=695"
+---
 # Rio Grande Presbytery — BCO 19-12
 
 *Annual report of interns not…*

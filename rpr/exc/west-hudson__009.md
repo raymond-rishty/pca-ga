@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga50_2023"
+    label: "Minutes PDF · p. 719"
+    file: "50th_pcaga_2023.pdf"
+    volume: "ga50_2023"
+    pdf_page: 719
+    url: "https://www.pcahistory.org/pca/ga/50th_pcaga_2023.pdf#page=719"
+---
 # West Hudson Presbytery — BCO 38-2
 
 *Divesting a TE takes two meetings of presbytery. No record that he made the…*

@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga42_2014"
+    label: "Minutes PDF · p. 408"
+    file: "42nd_pcaga_2014.pdf"
+    volume: "ga42_2014"
+    pdf_page: 408
+    url: "https://www.pcahistory.org/pca/ga/42nd_pcaga_2014.pdf#page=408"
+---
 # Eastern Pennsylvania Presbytery — exception of substance
 
 *November 19, 2011 The Presbytery granted the following exception which seems…*

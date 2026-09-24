@@ -1,3 +1,20 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga28_2000"
+    label: "Minutes PDF · p. 340"
+    file: "28th_pcaga_2000.pdf"
+    volume: "ga28_2000"
+    pdf_page: 340
+    url: "https://www.pcahistory.org/pca/ga/28th_pcaga_2000.pdf#page=340"
+  - type: "minutes"
+    source_id: "minutes:ga29_2001"
+    label: "Minutes PDF · p. 351"
+    file: "29th_pcaga_2001.pdf"
+    volume: "ga29_2001"
+    pdf_page: 351
+    url: "https://www.pcahistory.org/pca/ga/29th_pcaga_2001.pdf#page=351"
+---
 # Pacific Northwest Presbytery — exception of substance
 
 *The Moderator appointed a commission without action of the…*

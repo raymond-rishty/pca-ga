@@ -1,3 +1,20 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga40_2012"
+    label: "Minutes PDF · p. 421"
+    file: "40th_pcaga_2012.pdf"
+    volume: "ga40_2012"
+    pdf_page: 421
+    url: "https://www.pcahistory.org/pca/ga/40th_pcaga_2012.pdf#page=421"
+  - type: "minutes"
+    source_id: "minutes:ga41_2013"
+    label: "Minutes PDF · p. 428"
+    file: "41st_pcaga_2013.pdf"
+    volume: "ga41_2013"
+    pdf_page: 428
+    url: "https://www.pcahistory.org/pca/ga/41st_pcaga_2013.pdf#page=428"
+---
 # Evangel Presbytery — BCO 23-1
 
 *Two TEs resigned from their positions several months prior to presbytery…*

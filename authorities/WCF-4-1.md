@@ -1,6 +1,6 @@
-# WCF 4-1
+# WCF 4.1
 
-*All PCA authorities bearing on **WCF 4-1**.*
+*All PCA authorities bearing on **WCF 4.1**.*
 
 ## High authority
 
@@ -18,7 +18,7 @@
 
 | Year | Type | Title | Disposition |
 |------|------|-------|-------------|
-| 1994 | RPR exception | [New River: The minutes do not give adequate information regarding the examination of a TE and the exc](../rpr/exc/new-river__006.md) | raised |
+| 1994 | RPR exception | [New River: The minutes do not give adequate information regarding the examination of a TE and the exc](../rpr/exc/new-river__006.html) | raised |
 
 ---
 *[← Authority Index](../index/AUTHORITY-BY-PROVISION.md)*

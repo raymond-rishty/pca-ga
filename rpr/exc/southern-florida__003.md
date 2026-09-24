@@ -1,3 +1,34 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga25_1997"
+    label: "Minutes PDF · p. 220"
+    file: "25th_pcaga_1997.pdf"
+    volume: "ga25_1997"
+    pdf_page: 220
+    url: "https://www.pcahistory.org/pca/ga/25th_pcaga_1997.pdf#page=220"
+  - type: "minutes"
+    source_id: "minutes:ga26_1998"
+    label: "Minutes PDF · p. 254"
+    file: "26th_pcaga_1998.pdf"
+    volume: "ga26_1998"
+    pdf_page: 254
+    url: "https://www.pcahistory.org/pca/ga/26th_pcaga_1998.pdf#page=254"
+  - type: "minutes"
+    source_id: "minutes:ga27_1999"
+    label: "Minutes PDF · p. 207"
+    file: "27th_pcaga_1999.pdf"
+    volume: "ga27_1999"
+    pdf_page: 207
+    url: "https://www.pcahistory.org/pca/ga/27th_pcaga_1999.pdf#page=207"
+  - type: "minutes"
+    source_id: "minutes:ga28_2000"
+    label: "Minutes PDF · p. 343"
+    file: "28th_pcaga_2000.pdf"
+    volume: "ga28_2000"
+    pdf_page: 343
+    url: "https://www.pcahistory.org/pca/ga/28th_pcaga_2000.pdf#page=343"
+---
 # Southern Florida Presbytery — exception of substance
 
 *The worship service for the purpose of organizing a church and installing its…*

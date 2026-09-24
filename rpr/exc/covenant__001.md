@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga19_1991"
+    label: "Minutes PDF · p. 181"
+    file: "19th_pcaga_1991.pdf"
+    volume: "ga19_1991"
+    pdf_page: 181
+    url: "https://www.pcahistory.org/pca/ga/19th_pcaga_1991.pdf#page=181"
+---
 # Covenant Presbytery — BCO 43-1-p
 
 *BCO 43-1-p. 92 Presbytery improperly ruled the complaint of Grace Presbyterian…*

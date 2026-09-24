@@ -1,3 +1,20 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga35_2007"
+    label: "Minutes PDF · p. 511"
+    file: "35th_pcaga_2007.pdf"
+    volume: "ga35_2007"
+    pdf_page: 511
+    url: "https://www.pcahistory.org/pca/ga/35th_pcaga_2007.pdf#page=511"
+  - type: "minutes"
+    source_id: "minutes:ga35_2007"
+    label: "Minutes PDF · p. 523"
+    file: "35th_pcaga_2007.pdf"
+    volume: "ga35_2007"
+    pdf_page: 523
+    url: "https://www.pcahistory.org/pca/ga/35th_pcaga_2007.pdf#page=523"
+---
 # FEDERAL VISION / NEW PERSPECTIVE / AUBURN AVENUE
 
 *APPENDIX O REPORT OF THE AD INTERIM COMMITTEE ON FEDERAL VISION, NEW PERSPECTIVE, AND AUBURN AVENUE THEOLOGIES*

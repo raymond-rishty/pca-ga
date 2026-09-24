@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga23_1995"
+    label: "Minutes PDF · p. 194"
+    file: "23rd_pcaga_1995.pdf"
+    volume: "ga23_1995"
+    pdf_page: 194
+    url: "https://www.pcahistory.org/pca/ga/23rd_pcaga_1995.pdf#page=194"
+---
 # Korean Central Presbytery — BCO 13-4), BCO 19-16)
 
 *A quorum was not met as there were only two REs present (BCO 13-4). April 11,…*
