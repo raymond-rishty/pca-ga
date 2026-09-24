@@ -21,6 +21,7 @@ Usage: 44_case_provision_index.py [ROOT]   (default: current working directory)
 from __future__ import annotations
 
 import collections
+import html
 import json
 import re
 import sys
@@ -97,6 +98,40 @@ def markdown_body_lines(text: str) -> tuple[list[str], int]:
             if line.strip() in {"---", "..."}:
                 return lines[index + 1 :], index + 1
     return lines, 0
+
+
+_HTML_TAG = re.compile(
+    r"</?(?:table|thead|tbody|tfoot|tr|td|th|caption|br|p|div|span|a|em|strong|b|i|sup|sub|"
+    r"ul|ol|li|blockquote|pre|code|hr|details|summary|h[1-6])\b[^>]*>",
+    re.I,
+)
+
+
+def plain_evidence_line(line: str) -> str:
+    """Turn raw inline HTML into readable text before detecting citations."""
+    line = _HTML_TAG.sub(" ", line)
+    return re.sub(r"\s+", " ", html.unescape(line)).strip()
+
+
+def evidence_snippet(line: str, start: int, end: int, limit: int = 260) -> str:
+    """Keep an excerpt around the citation, even when its source line is very long."""
+    if len(line) <= limit:
+        return line
+    snippet_start = max(0, start - min(80, limit // 3))
+    snippet_end = min(len(line), snippet_start + limit)
+    if snippet_end < end:
+        snippet_end = min(len(line), end + limit // 3)
+        snippet_start = max(0, snippet_end - limit)
+    if snippet_start:
+        boundary = line.find(" ", snippet_start, start)
+        if boundary >= 0:
+            snippet_start = boundary + 1
+    if snippet_end < len(line):
+        boundary = line.rfind(" ", end, snippet_end)
+        if boundary >= 0:
+            snippet_end = boundary
+    snippet = line[snippet_start:snippet_end].strip()
+    return ("…" if snippet_start else "") + snippet + ("…" if snippet_end < len(line) else "")
 
 
 def case_content_summary(path: Path) -> str:
@@ -333,27 +368,28 @@ def text_hits(path: Path) -> dict[str, list[dict[str, Any]]]:
     raw_lines = path.read_text(encoding="utf-8").splitlines()
     lines, skipped_lines = markdown_body_lines("\n".join(raw_lines))
     for lineno, line in enumerate(lines, start=skipped_lines + 1):
-        snippet = re.sub(r"\s+", " ", line).strip()
-        if not snippet:
+        line = plain_evidence_line(line)
+        if not line:
             continue
+
+        def add_hit(match: re.Match[str], provisions: list[str]) -> None:
+            snippet = evidence_snippet(line, match.start(), match.end())
+            for provision in provisions:
+                hits[provision].append({"line": lineno, "snippet": snippet})
+
         for m in PREFACE_RE.finditer(line):
             p = norm_preface(m)
-            if p:
-                hits[p].append({"line": lineno, "snippet": snippet[:260]})
+            add_hit(m, [p] if p else [])
         for m in PRELIM_RE.finditer(line):
-            for p in norm_prelim(m):
-                hits[p].append({"line": lineno, "snippet": snippet[:260]})
+            add_hit(m, norm_prelim(m))
         for m in PP_RE.finditer(line):
-            for p in norm_prelim(m):
-                hits[p].append({"line": lineno, "snippet": snippet[:260]})
+            add_hit(m, norm_prelim(m))
         for m in PRELIM_ORDINAL_RE.finditer(line):
-            for p in norm_prelim(m):
-                hits[p].append({"line": lineno, "snippet": snippet[:260]})
+            add_hit(m, norm_prelim(m))
         for m in EXPLICIT_RE.finditer(line):
             std, num = explicit_groups(m)
             p = norm_explicit(std, num)
-            if p:
-                hits[p].append({"line": lineno, "snippet": snippet[:260]})
+            add_hit(m, [p] if p else [])
     return hits
 
 
