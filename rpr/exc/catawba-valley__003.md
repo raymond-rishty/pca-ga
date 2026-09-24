@@ -1,3 +1,20 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga41_2013"
+    label: "Minutes PDF · p. 420"
+    file: "41st_pcaga_2013.pdf"
+    volume: "ga41_2013"
+    pdf_page: 420
+    url: "https://www.pcahistory.org/pca/ga/41st_pcaga_2013.pdf#page=420"
+  - type: "minutes"
+    source_id: "minutes:ga42_2014"
+    label: "Minutes PDF · p. 394"
+    file: "42nd_pcaga_2014.pdf"
+    volume: "ga42_2014"
+    pdf_page: 394
+    url: "https://www.pcahistory.org/pca/ga/42nd_pcaga_2014.pdf#page=394"
+---
 # Catawba Valley Presbytery — BCO 13-9.b
 
 *-- no record of review of records of church…*

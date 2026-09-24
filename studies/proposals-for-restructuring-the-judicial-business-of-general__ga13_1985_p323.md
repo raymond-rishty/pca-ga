@@ -1,3 +1,27 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga13_1985"
+    label: "Minutes PDF · p. 325"
+    file: "13th_pcaga_1985.pdf"
+    volume: "ga13_1985"
+    pdf_page: 325
+    url: "https://www.pcahistory.org/pca/ga/13th_pcaga_1985.pdf#page=325"
+  - type: "minutes"
+    source_id: "minutes:ga13_1985"
+    label: "Minutes PDF · p. 337"
+    file: "13th_pcaga_1985.pdf"
+    volume: "ga13_1985"
+    pdf_page: 337
+    url: "https://www.pcahistory.org/pca/ga/13th_pcaga_1985.pdf#page=337"
+  - type: "minutes"
+    source_id: "minutes:ga13_1985"
+    label: "Minutes PDF · p. 351"
+    file: "13th_pcaga_1985.pdf"
+    volume: "ga13_1985"
+    pdf_page: 351
+    url: "https://www.pcahistory.org/pca/ga/13th_pcaga_1985.pdf#page=351"
+---
 # Proposals for Restructuring the Judicial Business of General Assembly
 
 *Proposals for Restructuring the Judicial Business of General Assembly*

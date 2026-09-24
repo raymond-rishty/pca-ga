@@ -1,3 +1,20 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga31_2003"
+    label: "Minutes PDF · p. 239"
+    file: "31st_pcaga_2003.pdf"
+    volume: "ga31_2003"
+    pdf_page: 239
+    url: "https://www.pcahistory.org/pca/ga/31st_pcaga_2003.pdf#page=239"
+  - type: "minutes"
+    source_id: "minutes:ga32_2004"
+    label: "Minutes PDF · p. 225"
+    file: "32nd_pcaga_2004.pdf"
+    volume: "ga32_2004"
+    pdf_page: 225
+    url: "https://www.pcahistory.org/pca/ga/32nd_pcaga_2004.pdf#page=225"
+---
 # Missouri Presbytery — BCO 21-1
 
 *No record of commission to install. BCO 21-1,…*

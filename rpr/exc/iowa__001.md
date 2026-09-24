@@ -1,3 +1,27 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga32_2004"
+    label: "Minutes PDF · p. 216"
+    file: "32nd_pcaga_2004.pdf"
+    volume: "ga32_2004"
+    pdf_page: 216
+    url: "https://www.pcahistory.org/pca/ga/32nd_pcaga_2004.pdf#page=216"
+  - type: "minutes"
+    source_id: "minutes:ga33_2005"
+    label: "Minutes PDF · p. 279"
+    file: "33rd_pcaga_2005.pdf"
+    volume: "ga33_2005"
+    pdf_page: 279
+    url: "https://www.pcahistory.org/pca/ga/33rd_pcaga_2005.pdf#page=279"
+  - type: "minutes"
+    source_id: "minutes:ga34_2006"
+    label: "Minutes PDF · p. 259"
+    file: "34th_pcaga_2006.pdf"
+    volume: "ga34_2006"
+    pdf_page: 259
+    url: "https://www.pcahistory.org/pca/ga/34th_pcaga_2006.pdf#page=259"
+---
 # Iowa Presbytery — WCF 24-3
 
 *Presbytery determined TE’s view on marrying “papists” was not an exception to…*

@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga41_2013"
+    label: "Minutes PDF · p. 460"
+    file: "41st_pcaga_2013.pdf"
+    volume: "ga41_2013"
+    pdf_page: 460
+    url: "https://www.pcahistory.org/pca/ga/41st_pcaga_2013.pdf#page=460"
+---
 # Ohio Valley Presbytery — BCO 13-9b, BCO 8-7
 
 *No record of review of church Session records. Exception: General ( BCO 8-7) –…*

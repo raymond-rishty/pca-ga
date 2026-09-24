@@ -1,3 +1,27 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga36_2008"
+    label: "Minutes PDF · p. 237"
+    file: "36th_pcaga_2008.pdf"
+    volume: "ga36_2008"
+    pdf_page: 237
+    url: "https://www.pcahistory.org/pca/ga/36th_pcaga_2008.pdf#page=237"
+  - type: "minutes"
+    source_id: "minutes:ga37_2009"
+    label: "Minutes PDF · p. 106"
+    file: "37th_pcaga_2009.pdf"
+    volume: "ga37_2009"
+    pdf_page: 106
+    url: "https://www.pcahistory.org/pca/ga/37th_pcaga_2009.pdf#page=106"
+  - type: "minutes"
+    source_id: "minutes:ga38_2010"
+    label: "Minutes PDF · p. 98"
+    file: "38th_pcaga_2010.pdf"
+    volume: "ga38_2010"
+    pdf_page: 98
+    url: "https://www.pcahistory.org/pca/ga/38th_pcaga_2010.pdf#page=98"
+---
 # Korean Southern Presbytery — BCO 21-4, RAO 14-3.e.5, RAO 16-3.e.5)
 
 *: No record of examination requirements. BCO 21-4, RAO 14-3.e.5 (recently…*

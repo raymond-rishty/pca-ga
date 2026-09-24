@@ -1,3 +1,20 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga25_1997"
+    label: "Minutes PDF · p. 212"
+    file: "25th_pcaga_1997.pdf"
+    volume: "ga25_1997"
+    pdf_page: 212
+    url: "https://www.pcahistory.org/pca/ga/25th_pcaga_1997.pdf#page=212"
+  - type: "minutes"
+    source_id: "minutes:ga26_1998"
+    label: "Minutes PDF · p. 245"
+    file: "26th_pcaga_1998.pdf"
+    volume: "ga26_1998"
+    pdf_page: 245
+    url: "https://www.pcahistory.org/pca/ga/26th_pcaga_1998.pdf#page=245"
+---
 # Mid-America Presbytery — BCO 21-5
 
 *Presbytery voted to sustain the examination of transferring PCA TE even though…*

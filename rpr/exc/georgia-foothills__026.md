@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga44_2016"
+    label: "Minutes PDF · p. 409"
+    file: "44th_pcaga_2016.pdf"
+    volume: "ga44_2016"
+    pdf_page: 409
+    url: "https://www.pcahistory.org/pca/ga/44th_pcaga_2016.pdf#page=409"
+---
 # Georgia Foothills Presbytery — BCO 43-2
 
 *Presbytery failed to consider the complaint in a timely…*

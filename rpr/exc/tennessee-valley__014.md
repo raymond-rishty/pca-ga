@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga23_1995"
+    label: "Minutes PDF · p. 209"
+    file: "23rd_pcaga_1995.pdf"
+    volume: "ga23_1995"
+    pdf_page: 209
+    url: "https://www.pcahistory.org/pca/ga/23rd_pcaga_1995.pdf#page=209"
+---
 # Tennessee Valley Presbytery — BCO 38-2), BCO 21-4), BCO 21-, BCO 21-2
 
 *A TE was divested from office without reasons stated in minutes (BCO 38-2). No…*

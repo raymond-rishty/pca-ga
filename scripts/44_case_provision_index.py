@@ -26,6 +26,9 @@ import re
 import sys
 from pathlib import Path
 from typing import Any
+from provision_references import (
+    PP_RE, PRELIM_ORDINAL_RE, PRELIM_RE, ROMAN, norm_prelim, number_value,
+)
 
 ROOT = Path(sys.argv[1]).resolve() if len(sys.argv) > 1 else Path.cwd().resolve()
 IDX = ROOT / "index"
@@ -49,18 +52,6 @@ SUMMARY_OVERRIDES = {
     ),
 }
 
-ROMAN = {
-    "i": 1, "ii": 2, "iii": 3, "iv": 4, "v": 5, "vi": 6, "vii": 7,
-    "viii": 8, "ix": 9, "x": 10, "xi": 11, "xii": 12, "xiii": 13,
-    "xiv": 14, "xv": 15, "xvi": 16, "xvii": 17, "xviii": 18,
-    "xix": 19, "xx": 20, "xxi": 21, "xxii": 22, "xxiii": 23,
-    "xxiv": 24, "xxv": 25, "xxvi": 26, "xxvii": 27, "xxviii": 28,
-    "xxix": 29, "xxx": 30, "xxxi": 31, "xxxii": 32, "xxxiii": 33,
-}
-WORD_NUM = {
-    "one": 1, "two": 2, "three": 3, "four": 4, "five": 5, "six": 6,
-    "seven": 7, "eight": 8, "nine": 9, "ten": 10,
-}
 STD_RANK = {"BCO": 0, "WCF": 1, "WLC": 2, "WSC": 3}
 
 # Explicit-prefix provisions: BCO numbered sections and Westminster Standards.
@@ -84,13 +75,6 @@ PREFACE_RE = re.compile(
     r"(?:\s*[-–]?\s*\(?(?P<para>\d+|[a-z])\)?)?",
     re.I,
 )
-PRELIM_RE = re.compile(
-    r"\b(?:BCO\s+)?Preliminary Principles?\s+(?P<first>[A-Za-z]+|[IVX]+|\d+)"
-    r"(?:\s+(?:and|&)\s+(?P<second>[A-Za-z]+|[IVX]+|\d+))?",
-    re.I,
-)
-
-
 def md_escape(s: Any) -> str:
     return re.sub(r"\s+", " ", str(s or "")).replace("|", "\\|").strip()
 
@@ -105,10 +89,20 @@ def md_summary(s: Any, limit: int = 320) -> str:
 
 
 
+def markdown_body_lines(text: str) -> tuple[list[str], int]:
+    """Return Markdown body lines and the count of source lines before the body."""
+    lines = text.splitlines()
+    if lines and lines[0].strip() == "---":
+        for index, line in enumerate(lines[1:], start=1):
+            if line.strip() in {"---", "..."}:
+                return lines[index + 1 :], index + 1
+    return lines, 0
+
+
 def case_content_summary(path: Path) -> str:
     if not path.exists():
         return ""
-    lines = path.read_text(encoding="utf-8").splitlines()
+    lines, _ = markdown_body_lines(path.read_text(encoding="utf-8"))
 
     def clean(line: str) -> str:
         line = re.sub(r"<!--.*?-->", "", line).strip()
@@ -241,15 +235,6 @@ def explicit_groups(m: re.Match[str]) -> tuple[str | None, str | None]:
             return std, num
     return None, None
 
-def number_value(token: str | None) -> int | None:
-    if not token:
-        return None
-    t = token.strip().lower().strip(".,;:()[]")
-    if t.isdigit():
-        return int(t)
-    return WORD_NUM.get(t) or ROMAN.get(t)
-
-
 def norm_num(num: str) -> str:
     s = re.sub(r"\s+", "", str(num or ""))
     s = s.replace("–", "-").replace(":", ".")
@@ -295,6 +280,10 @@ def norm_metadata(value: Any) -> list[str]:
             out.append(p)
     for m in PRELIM_RE.finditer(raw):
         out.extend(norm_prelim(m))
+    for m in PP_RE.finditer(raw):
+        out.extend(norm_prelim(m))
+    for m in PRELIM_ORDINAL_RE.finditer(raw):
+        out.extend(norm_prelim(m))
     for m in EXPLICIT_RE.finditer(raw):
         std, num = explicit_groups(m)
         p = norm_explicit(std, num)
@@ -322,11 +311,6 @@ def norm_preface(m: re.Match[str]) -> str | None:
     return f"BCO Preface {section}" + (f"-({para.lower()})" if para else "")
 
 
-def norm_prelim(m: re.Match[str]) -> list[str]:
-    vals = [number_value(m.group("first")), number_value(m.group("second"))]
-    return [f"BCO Preliminary Principle {v}" for v in vals if v]
-
-
 def prov_sort_key(p: str) -> tuple:
     std = p.split(" ", 1)[0]
     return (STD_RANK.get(std, 9), [int(n) for n in re.findall(r"\d+", p)], p)
@@ -346,7 +330,9 @@ def text_hits(path: Path) -> dict[str, list[dict[str, Any]]]:
     hits: dict[str, list[dict[str, Any]]] = collections.defaultdict(list)
     if not path.exists():
         return hits
-    for lineno, line in enumerate(path.read_text(encoding="utf-8").splitlines(), start=1):
+    raw_lines = path.read_text(encoding="utf-8").splitlines()
+    lines, skipped_lines = markdown_body_lines("\n".join(raw_lines))
+    for lineno, line in enumerate(lines, start=skipped_lines + 1):
         snippet = re.sub(r"\s+", " ", line).strip()
         if not snippet:
             continue
@@ -355,6 +341,12 @@ def text_hits(path: Path) -> dict[str, list[dict[str, Any]]]:
             if p:
                 hits[p].append({"line": lineno, "snippet": snippet[:260]})
         for m in PRELIM_RE.finditer(line):
+            for p in norm_prelim(m):
+                hits[p].append({"line": lineno, "snippet": snippet[:260]})
+        for m in PP_RE.finditer(line):
+            for p in norm_prelim(m):
+                hits[p].append({"line": lineno, "snippet": snippet[:260]})
+        for m in PRELIM_ORDINAL_RE.finditer(line):
             for p in norm_prelim(m):
                 hits[p].append({"line": lineno, "snippet": snippet[:260]})
         for m in EXPLICIT_RE.finditer(line):

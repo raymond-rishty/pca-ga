@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga34_2006"
+    label: "Minutes PDF · p. 267"
+    file: "34th_pcaga_2006.pdf"
+    volume: "ga34_2006"
+    pdf_page: 267
+    url: "https://www.pcahistory.org/pca/ga/34th_pcaga_2006.pdf#page=267"
+---
 # Korean Southeastern Presbytery — BCO 13-5, RAO 14-3.e.5
 
 *Record of ordination exams does not include all required areas. No record of…*

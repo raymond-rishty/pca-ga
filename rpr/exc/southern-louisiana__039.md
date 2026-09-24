@@ -1,3 +1,20 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga51_2024"
+    label: "Minutes PDF · p. 682"
+    file: "51st_pcaga_2024.pdf"
+    volume: "ga51_2024"
+    pdf_page: 682
+    url: "https://www.pcahistory.org/pca/ga/51st_pcaga_2024.pdf#page=682"
+  - type: "minutes"
+    source_id: "minutes:ga52_2025"
+    label: "Minutes PDF · p. 759"
+    file: "52nd_pcaga_2025.pdf"
+    volume: "ga52_2025"
+    pdf_page: 759
+    url: "https://www.pcahistory.org/pca/ga/52nd_pcaga_2025.pdf#page=759"
+---
 # Southern Louisiana Presbytery — BCO 23-1
 
 *Presbytery did not act to dissolve a TE’s call and place him on the rolls…*

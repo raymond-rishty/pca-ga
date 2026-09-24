@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga41_2013"
+    label: "Minutes PDF · p. 485"
+    file: "41st_pcaga_2013.pdf"
+    volume: "ga41_2013"
+    pdf_page: 485
+    url: "https://www.pcahistory.org/pca/ga/41st_pcaga_2013.pdf#page=485"
+---
 # Susquehanna Valley Presbytery — BCO 13-6
 
 *Incomplete record of transfer examination from another…*

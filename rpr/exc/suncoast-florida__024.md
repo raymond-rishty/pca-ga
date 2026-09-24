@@ -1,3 +1,20 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga45_2017"
+    label: "Minutes PDF · p. 422"
+    file: "45th_pcaga_2017.pdf"
+    volume: "ga45_2017"
+    pdf_page: 422
+    url: "https://www.pcahistory.org/pca/ga/45th_pcaga_2017.pdf#page=422"
+  - type: "minutes"
+    source_id: "minutes:ga46_2018"
+    label: "Minutes PDF · p. 454"
+    file: "46th_pcaga_2018.pdf"
+    volume: "ga46_2018"
+    pdf_page: 454
+    url: "https://www.pcahistory.org/pca/ga/46th_pcaga_2018.pdf#page=454"
+---
 # Suncoast Florida Presbytery — BCO 13-11
 
 *Full and accurate record of a change of call not…*

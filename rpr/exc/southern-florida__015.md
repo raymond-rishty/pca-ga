@@ -1,3 +1,20 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga34_2006"
+    label: "Minutes PDF · p. 298"
+    file: "34th_pcaga_2006.pdf"
+    volume: "ga34_2006"
+    pdf_page: 298
+    url: "https://www.pcahistory.org/pca/ga/34th_pcaga_2006.pdf#page=298"
+  - type: "minutes"
+    source_id: "minutes:ga35_2007"
+    label: "Minutes PDF · p. 219"
+    file: "35th_pcaga_2007.pdf"
+    volume: "ga35_2007"
+    pdf_page: 219
+    url: "https://www.pcahistory.org/pca/ga/35th_pcaga_2007.pdf#page=219"
+---
 # Southern Florida Presbytery — BCO 15-2
 
 *Commission established without 2 TEs and 2 REs and no quorum specified. BCO…*

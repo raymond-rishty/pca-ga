@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga52_2025"
+    label: "Minutes PDF · p. 660"
+    file: "52nd_pcaga_2025.pdf"
+    volume: "ga52_2025"
+    pdf_page: 660
+    url: "https://www.pcahistory.org/pca/ga/52nd_pcaga_2025.pdf#page=660"
+---
 # Ohio Valley Presbytery — BCO 13-11, RAO 163.e.7
 
 *Minutes of Executive Session not included, and these must be submitted next…*

@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga37_2009"
+    label: "Minutes PDF · p. 92"
+    file: "37th_pcaga_2009.pdf"
+    volume: "ga37_2009"
+    pdf_page: 92
+    url: "https://www.pcahistory.org/pca/ga/37th_pcaga_2009.pdf#page=92"
+---
 # Georgia Foothills Presbytery — BCO 19-3
 
 *Questions of licensure not…*

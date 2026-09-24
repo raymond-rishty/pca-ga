@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga51_2024"
+    label: "Minutes PDF · p. 512"
+    file: "51st_pcaga_2024.pdf"
+    volume: "ga51_2024"
+    pdf_page: 512
+    url: "https://www.pcahistory.org/pca/ga/51st_pcaga_2024.pdf#page=512"
+---
 # Grace Presbytery — BCO 21-6
 
 *In ordination/installation of assistant pastor, vows propounded to…*

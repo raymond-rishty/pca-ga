@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga41_2013"
+    label: "Minutes PDF · p. 417"
+    file: "41st_pcaga_2013.pdf"
+    volume: "ga41_2013"
+    pdf_page: 417
+    url: "https://www.pcahistory.org/pca/ga/41st_pcaga_2013.pdf#page=417"
+---
 # Blue Ridge Presbytery — BCO 21-4
 
 *( BCO 21-4 and RAO 16-3.e.5) – Candidate’s differences with the Standards were…*

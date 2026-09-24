@@ -1,3 +1,41 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga31_2003"
+    label: "Minutes PDF · p. 259"
+    file: "31st_pcaga_2003.pdf"
+    volume: "ga31_2003"
+    pdf_page: 259
+    url: "https://www.pcahistory.org/pca/ga/31st_pcaga_2003.pdf#page=259"
+  - type: "minutes"
+    source_id: "minutes:ga32_2004"
+    label: "Minutes PDF · p. 244"
+    file: "32nd_pcaga_2004.pdf"
+    volume: "ga32_2004"
+    pdf_page: 244
+    url: "https://www.pcahistory.org/pca/ga/32nd_pcaga_2004.pdf#page=244"
+  - type: "minutes"
+    source_id: "minutes:ga32_2004"
+    label: "Minutes PDF · p. 245"
+    file: "32nd_pcaga_2004.pdf"
+    volume: "ga32_2004"
+    pdf_page: 245
+    url: "https://www.pcahistory.org/pca/ga/32nd_pcaga_2004.pdf#page=245"
+  - type: "minutes"
+    source_id: "minutes:ga33_2005"
+    label: "Minutes PDF · p. 315"
+    file: "33rd_pcaga_2005.pdf"
+    volume: "ga33_2005"
+    pdf_page: 315
+    url: "https://www.pcahistory.org/pca/ga/33rd_pcaga_2005.pdf#page=315"
+  - type: "minutes"
+    source_id: "minutes:ga34_2006"
+    label: "Minutes PDF · p. 300"
+    file: "34th_pcaga_2006.pdf"
+    volume: "ga34_2006"
+    pdf_page: 300
+    url: "https://www.pcahistory.org/pca/ga/34th_pcaga_2006.pdf#page=300"
+---
 # Southwest Florida Presbytery — BCO 23-1
 
 *October 14, 2003: No record of congregational meeting to concur with the…*

@@ -1,3 +1,20 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga47_2019"
+    label: "Minutes PDF · p. 467"
+    file: "47th_pcaga_2019.pdf"
+    volume: "ga47_2019"
+    pdf_page: 467
+    url: "https://www.pcahistory.org/pca/ga/47th_pcaga_2019.pdf#page=467"
+  - type: "minutes"
+    source_id: "minutes:ga48_2021"
+    label: "Minutes PDF · p. 573"
+    file: "48th_pcaga_2021.pdf"
+    volume: "ga48_2021"
+    pdf_page: 573
+    url: "https://www.pcahistory.org/pca/ga/48th_pcaga_2021.pdf#page=573"
+---
 # Heartland Presbytery — BCO 19-16
 
 *Three-fourths vote for waiving internship requirement not…*

@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga34_2006"
+    label: "Minutes PDF · p. 299"
+    file: "34th_pcaga_2006.pdf"
+    volume: "ga34_2006"
+    pdf_page: 299
+    url: "https://www.pcahistory.org/pca/ga/34th_pcaga_2006.pdf#page=299"
+---
 # Southern New England Presbytery — BCO 21-4, RAO 14-3.e.5
 
 *No record of approving theology exam and stated differences with PCA standards…*

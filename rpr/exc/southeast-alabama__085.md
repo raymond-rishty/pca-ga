@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga51_2024"
+    label: "Minutes PDF · p. 677"
+    file: "51st_pcaga_2024.pdf"
+    volume: "ga51_2024"
+    pdf_page: 677
+    url: "https://www.pcahistory.org/pca/ga/51st_pcaga_2024.pdf#page=677"
+---
 # Southeast Alabama Presbytery — BCO 21-4, RAO 16-3.e.5
 
 *Incomplete record of ordination…*

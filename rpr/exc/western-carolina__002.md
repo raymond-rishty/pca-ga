@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga18_1990"
+    label: "Minutes PDF · p. 189"
+    file: "18th_pcaga_1990.pdf"
+    volume: "ga18_1990"
+    pdf_page: 189
+    url: "https://www.pcahistory.org/pca/ga/18th_pcaga_1990.pdf#page=189"
+---
 # Western Carolina Presbytery — BCO 13-6
 
 *Pages 2 & 3: No record that questions of ordination were put to candidate {BCO…*

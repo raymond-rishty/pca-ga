@@ -1,3 +1,27 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga33_2005"
+    label: "Minutes PDF · p. 307"
+    file: "33rd_pcaga_2005.pdf"
+    volume: "ga33_2005"
+    pdf_page: 307
+    url: "https://www.pcahistory.org/pca/ga/33rd_pcaga_2005.pdf#page=307"
+  - type: "minutes"
+    source_id: "minutes:ga34_2006"
+    label: "Minutes PDF · p. 295"
+    file: "34th_pcaga_2006.pdf"
+    volume: "ga34_2006"
+    pdf_page: 295
+    url: "https://www.pcahistory.org/pca/ga/34th_pcaga_2006.pdf#page=295"
+  - type: "minutes"
+    source_id: "minutes:ga35_2007"
+    label: "Minutes PDF · p. 214"
+    file: "35th_pcaga_2007.pdf"
+    volume: "ga35_2007"
+    pdf_page: 214
+    url: "https://www.pcahistory.org/pca/ga/35th_pcaga_2007.pdf#page=214"
+---
 # Siouxlands Presbytery — BCO 15-2
 
 *Commission of presbytery met with only one RE, failing to achieve a quorum.…*

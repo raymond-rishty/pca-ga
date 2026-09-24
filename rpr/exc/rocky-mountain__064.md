@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga51_2024"
+    label: "Minutes PDF · p. 642"
+    file: "51st_pcaga_2024.pdf"
+    volume: "ga51_2024"
+    pdf_page: 642
+    url: "https://www.pcahistory.org/pca/ga/51st_pcaga_2024.pdf#page=642"
+---
 # Rocky Mountain Presbytery — BCO 13-6
 
 *No record of Transfer being examined on views touching sacraments or church…*

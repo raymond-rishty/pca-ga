@@ -1,3 +1,20 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga39_2011"
+    label: "Minutes PDF · p. 479"
+    file: "39th_pcaga_2011.pdf"
+    volume: "ga39_2011"
+    pdf_page: 479
+    url: "https://www.pcahistory.org/pca/ga/39th_pcaga_2011.pdf#page=479"
+  - type: "minutes"
+    source_id: "minutes:ga40_2012"
+    label: "Minutes PDF · p. 469"
+    file: "40th_pcaga_2012.pdf"
+    volume: "ga40_2012"
+    pdf_page: 469
+    url: "https://www.pcahistory.org/pca/ga/40th_pcaga_2012.pdf#page=469"
+---
 # Piedmont Triad Presbytery — BCO 21-4, RAO 16-3.e.5
 
 *Candidate’s stated differences not recorded or judged by the…*

@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga50_2023"
+    label: "Minutes PDF · p. 573"
+    file: "50th_pcaga_2023.pdf"
+    volume: "ga50_2023"
+    pdf_page: 573
+    url: "https://www.pcahistory.org/pca/ga/50th_pcaga_2023.pdf#page=573"
+---
 # Highlands Presbytery — BCO 20-1
 
 *No record of the reasons why Presbytery considers an out-of-bounds work to be…*

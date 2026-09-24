@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga52_2025"
+    label: "Minutes PDF · p. 615"
+    file: "52nd_pcaga_2025.pdf"
+    volume: "ga52_2025"
+    pdf_page: 615
+    url: "https://www.pcahistory.org/pca/ga/52nd_pcaga_2025.pdf#page=615"
+---
 # Korean Southwest Presbytery — BCO 13-11
 
 *Complaint sent to Presbytery not recorded in minutes. (“full and accurate…*

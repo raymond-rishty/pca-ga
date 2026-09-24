@@ -1,3 +1,20 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga05_1977"
+    label: "Minutes PDF · p. 72"
+    file: "5th_pcaga_1977.pdf"
+    volume: "ga05_1977"
+    pdf_page: 72
+    url: "https://www.pcahistory.org/pca/ga/5th_pcaga_1977.pdf#page=72"
+  - type: "minutes"
+    source_id: "minutes:ga05_1977"
+    label: "Minutes PDF · p. 75"
+    file: "5th_pcaga_1977.pdf"
+    volume: "ga05_1977"
+    pdf_page: 75
+    url: "https://www.pcahistory.org/pca/ga/5th_pcaga_1977.pdf#page=75"
+---
 # Resolution on a Biblical Position on Homosexuality (Resolution 7)
 
 *Resolution on a Biblical Position on Homosexuality (Resolution 7)*

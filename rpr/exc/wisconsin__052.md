@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga51_2024"
+    label: "Minutes PDF · p. 705"
+    file: "51st_pcaga_2024.pdf"
+    volume: "ga51_2024"
+    pdf_page: 705
+    url: "https://www.pcahistory.org/pca/ga/51st_pcaga_2024.pdf#page=705"
+---
 # Wisconsin Presbytery — BCO 21-5
 
 *Constitutional vows for ordination not propounded to an…*

@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga51_2024"
+    label: "Minutes PDF · p. 499"
+    file: "51st_pcaga_2024.pdf"
+    volume: "ga51_2024"
+    pdf_page: 499
+    url: "https://www.pcahistory.org/pca/ga/51st_pcaga_2024.pdf#page=499"
+---
 # Covenant Presbytery — BCO 15-1
 
 *Commission must consist of at least two TEs and two…*

@@ -1,3 +1,27 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga48_2021"
+    label: "Minutes PDF · p. 558"
+    file: "48th_pcaga_2021.pdf"
+    volume: "ga48_2021"
+    pdf_page: 558
+    url: "https://www.pcahistory.org/pca/ga/48th_pcaga_2021.pdf#page=558"
+  - type: "minutes"
+    source_id: "minutes:ga49_2022"
+    label: "Minutes PDF · p. 509"
+    file: "49th_pcaga_2022.pdf"
+    volume: "ga49_2022"
+    pdf_page: 509
+    url: "https://www.pcahistory.org/pca/ga/49th_pcaga_2022.pdf#page=509"
+  - type: "minutes"
+    source_id: "minutes:ga50_2023"
+    label: "Minutes PDF · p. 535"
+    file: "50th_pcaga_2023.pdf"
+    volume: "ga50_2023"
+    pdf_page: 535
+    url: "https://www.pcahistory.org/pca/ga/50th_pcaga_2023.pdf#page=535"
+---
 # Central Indiana Presbytery — BCO 13-11, RAO 16-3.e.7
 
 *Complaint sent to Presbytery not recorded in…*

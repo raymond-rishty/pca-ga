@@ -1,3 +1,20 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga49_2022"
+    label: "Minutes PDF · p. 550"
+    file: "49th_pcaga_2022.pdf"
+    volume: "ga49_2022"
+    pdf_page: 550
+    url: "https://www.pcahistory.org/pca/ga/49th_pcaga_2022.pdf#page=550"
+  - type: "minutes"
+    source_id: "minutes:ga50_2023"
+    label: "Minutes PDF · p. 605"
+    file: "50th_pcaga_2023.pdf"
+    volume: "ga50_2023"
+    pdf_page: 605
+    url: "https://www.pcahistory.org/pca/ga/50th_pcaga_2023.pdf#page=605"
+---
 # Korean Capital Presbytery — BCO 23-1
 
 *No record of congregation involvement when presbytery dissolved TE’s…*

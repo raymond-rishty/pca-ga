@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga23_1995"
+    label: "Minutes PDF · p. 185"
+    file: "23rd_pcaga_1995.pdf"
+    volume: "ga23_1995"
+    pdf_page: 185
+    url: "https://www.pcahistory.org/pca/ga/23rd_pcaga_1995.pdf#page=185"
+---
 # Calvary Presbytery — exception of substance
 
 *There was no list of candidates under care and licentiates…*

@@ -1,3 +1,27 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga48_2021"
+    label: "Minutes PDF · p. 607"
+    file: "48th_pcaga_2021.pdf"
+    volume: "ga48_2021"
+    pdf_page: 607
+    url: "https://www.pcahistory.org/pca/ga/48th_pcaga_2021.pdf#page=607"
+  - type: "minutes"
+    source_id: "minutes:ga49_2022"
+    label: "Minutes PDF · p. 597"
+    file: "49th_pcaga_2022.pdf"
+    volume: "ga49_2022"
+    pdf_page: 597
+    url: "https://www.pcahistory.org/pca/ga/49th_pcaga_2022.pdf#page=597"
+  - type: "minutes"
+    source_id: "minutes:ga50_2023"
+    label: "Minutes PDF · p. 670"
+    file: "50th_pcaga_2023.pdf"
+    volume: "ga50_2023"
+    pdf_page: 670
+    url: "https://www.pcahistory.org/pca/ga/50th_pcaga_2023.pdf#page=670"
+---
 # Northern California Presbytery — BCO 13-9b
 
 *No record of Presbytery reviewing Session…*

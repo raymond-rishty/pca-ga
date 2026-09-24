@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga28_2000"
+    label: "Minutes PDF · p. 332"
+    file: "28th_pcaga_2000.pdf"
+    volume: "ga28_2000"
+    pdf_page: 332
+    url: "https://www.pcahistory.org/pca/ga/28th_pcaga_2000.pdf#page=332"
+---
 # Missouri Presbytery — BCO 19-1
 
 *Allowed an unlicensed man to preach in a PCA pulpit for more than a year. BCO…*

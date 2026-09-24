@@ -1,3 +1,20 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga30_2002"
+    label: "Minutes PDF · p. 315"
+    file: "30th_pcaga_2002.pdf"
+    volume: "ga30_2002"
+    pdf_page: 315
+    url: "https://www.pcahistory.org/pca/ga/30th_pcaga_2002.pdf#page=315"
+  - type: "minutes"
+    source_id: "minutes:ga32_2004"
+    label: "Minutes PDF · p. 216"
+    file: "32nd_pcaga_2004.pdf"
+    volume: "ga32_2004"
+    pdf_page: 216
+    url: "https://www.pcahistory.org/pca/ga/32nd_pcaga_2004.pdf#page=216"
+---
 # Illiana Presbytery — BCO 19-2, RAO 14-3e.5
 
 *Incomplete record of exam elements. BCO 19-2; RAO…*

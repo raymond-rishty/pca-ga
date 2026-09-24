@@ -1,3 +1,20 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga45_2017"
+    label: "Minutes PDF · p. 383"
+    file: "45th_pcaga_2017.pdf"
+    volume: "ga45_2017"
+    pdf_page: 383
+    url: "https://www.pcahistory.org/pca/ga/45th_pcaga_2017.pdf#page=383"
+  - type: "minutes"
+    source_id: "minutes:ga46_2018"
+    label: "Minutes PDF · p. 400"
+    file: "46th_pcaga_2018.pdf"
+    volume: "ga46_2018"
+    pdf_page: 400
+    url: "https://www.pcahistory.org/pca/ga/46th_pcaga_2018.pdf#page=400"
+---
 # Gulf Coast Presbytery — BCO 23-1
 
 *Dissolution of two pastoral relations recorded without recording who requested…*

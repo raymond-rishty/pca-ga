@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga46_2018"
+    label: "Minutes PDF · p. 429"
+    file: "46th_pcaga_2018.pdf"
+    volume: "ga46_2018"
+    pdf_page: 429
+    url: "https://www.pcahistory.org/pca/ga/46th_pcaga_2018.pdf#page=429"
+---
 # Korean Southwest Orange County Presbytery — BCO 139.b
 
 *No review of church session records…*

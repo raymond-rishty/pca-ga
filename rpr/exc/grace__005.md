@@ -1,3 +1,20 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga32_2004"
+    label: "Minutes PDF · p. 212"
+    file: "32nd_pcaga_2004.pdf"
+    volume: "ga32_2004"
+    pdf_page: 212
+    url: "https://www.pcahistory.org/pca/ga/32nd_pcaga_2004.pdf#page=212"
+  - type: "minutes"
+    source_id: "minutes:ga33_2005"
+    label: "Minutes PDF · p. 275"
+    file: "33rd_pcaga_2005.pdf"
+    volume: "ga33_2005"
+    pdf_page: 275
+    url: "https://www.pcahistory.org/pca/ga/33rd_pcaga_2005.pdf#page=275"
+---
 # Grace Presbytery — BCO 13-6
 
 *Exam items not listed. BCO 13-6, 21-4, 19-4, “RAO”…*

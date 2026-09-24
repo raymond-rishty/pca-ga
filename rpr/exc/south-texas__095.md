@@ -1,3 +1,20 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga51_2024"
+    label: "Minutes PDF · p. 675"
+    file: "51st_pcaga_2024.pdf"
+    volume: "ga51_2024"
+    pdf_page: 675
+    url: "https://www.pcahistory.org/pca/ga/51st_pcaga_2024.pdf#page=675"
+  - type: "minutes"
+    source_id: "minutes:ga52_2025"
+    label: "Minutes PDF · p. 747"
+    file: "52nd_pcaga_2025.pdf"
+    volume: "ga52_2025"
+    pdf_page: 747
+    url: "https://www.pcahistory.org/pca/ga/52nd_pcaga_2025.pdf#page=747"
+---
 # South Texas Presbytery — BCO 21-1
 
 *No record that candidate received a call or that the presbytery approved the…*

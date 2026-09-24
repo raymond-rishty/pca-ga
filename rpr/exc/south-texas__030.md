@@ -1,3 +1,27 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga30_2002"
+    label: "Minutes PDF · p. 335"
+    file: "30th_pcaga_2002.pdf"
+    volume: "ga30_2002"
+    pdf_page: 335
+    url: "https://www.pcahistory.org/pca/ga/30th_pcaga_2002.pdf#page=335"
+  - type: "minutes"
+    source_id: "minutes:ga30_2002"
+    label: "Minutes PDF · p. 336"
+    file: "30th_pcaga_2002.pdf"
+    volume: "ga30_2002"
+    pdf_page: 336
+    url: "https://www.pcahistory.org/pca/ga/30th_pcaga_2002.pdf#page=336"
+  - type: "minutes"
+    source_id: "minutes:ga32_2004"
+    label: "Minutes PDF · p. 240"
+    file: "32nd_pcaga_2004.pdf"
+    volume: "ga32_2004"
+    pdf_page: 240
+    url: "https://www.pcahistory.org/pca/ga/32nd_pcaga_2004.pdf#page=240"
+---
 # South Texas Presbytery — RAO 14-3.e.5, BCO 21-4
 
 *Incomplete record of exam elements. RAO 14-3.e.5; BCO…*

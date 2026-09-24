@@ -1,3 +1,20 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga15_1987"
+    label: "Minutes PDF · p. 192"
+    file: "15th_pcaga_1987.pdf"
+    volume: "ga15_1987"
+    pdf_page: 192
+    url: "https://www.pcahistory.org/pca/ga/15th_pcaga_1987.pdf#page=192"
+  - type: "minutes"
+    source_id: "minutes:ga15_1987"
+    label: "Minutes PDF · p. 195"
+    file: "15th_pcaga_1987.pdf"
+    volume: "ga15_1987"
+    pdf_page: 195
+    url: "https://www.pcahistory.org/pca/ga/15th_pcaga_1987.pdf#page=195"
+---
 # RESOLUTION ON TEXTBOOK CENSORSHIP
 
 *RESOLUTION ON TEXTBOOK CENSORSHIP*

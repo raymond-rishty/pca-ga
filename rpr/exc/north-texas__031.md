@@ -1,3 +1,20 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga43_2015"
+    label: "Minutes PDF · p. 459"
+    file: "43rd_pcaga_2015.pdf"
+    volume: "ga43_2015"
+    pdf_page: 459
+    url: "https://www.pcahistory.org/pca/ga/43rd_pcaga_2015.pdf#page=459"
+  - type: "minutes"
+    source_id: "minutes:ga44_2016"
+    label: "Minutes PDF · p. 430"
+    file: "44th_pcaga_2016.pdf"
+    volume: "ga44_2016"
+    pdf_page: 430
+    url: "https://www.pcahistory.org/pca/ga/44th_pcaga_2016.pdf#page=430"
+---
 # North Texas Presbytery — BCO 13-11
 
 *Complaint sent to Presbytery not recorded in…*

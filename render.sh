@@ -16,6 +16,14 @@ set -euo pipefail
 BUILD="${BUILD:-/workspace}"
 PUB="${PUB:-/workspace/dist/pca-ga}"
 S="$BUILD/scripts"
+READER="${CONSTITUTION_READER:-$BUILD/_constitution/content}"
+READER_TEMP=""
+if [ ! -d "$READER" ]; then
+  READER_TEMP="$(mktemp -d "${TMPDIR:-/tmp}/pca-ga-reader.XXXXXX")"
+  git clone --depth 1 https://github.com/raymond-rishty/pca-constitution-reader.git "$READER_TEMP/reader"
+  READER="$READER_TEMP/reader/content"
+fi
+trap 'if [ -n "$READER_TEMP" ]; then rm -rf "$READER_TEMP"; fi' EXIT
 
 # copy src -> dst, but skip if they're already the SAME file (some build-tree outputs are hardlinked
 # into the published tree, so a plain cp would error "same file" and abort under `set -e`).
@@ -75,11 +83,15 @@ echo "[5/8] GA53 (2026) overture analysis — per-overture pages + catalogue + c
 GA53_SRC="$BUILD/ga53" python3 "$S/36_ga53_overtures.py" "$BUILD"
 GA53_SRC="$BUILD/ga53" python3 "$S/36_ga53_overtures.py" "$PUB"
 
-echo "[6/8] Authority map — cases + inquiries + RPR + overtures (both trees)…"
+echo "[6/8] Shared provision catalogue and authority projections (both trees)…"
+python3 "$S/44_case_provision_index.py" "$BUILD"
+python3 "$S/44_case_provision_index.py" "$PUB"
+python3 "$S/build_provision_catalogue.py" "$BUILD" "$READER"
+python3 "$S/build_provision_catalogue.py" "$PUB" "$READER"
 python3 "$S/43_authority_index.py" "$BUILD"
 python3 "$S/43_authority_index.py" "$PUB"
 
-echo "[7/8] BCO provision manifests — machine-readable per-provision JSON (both trees)…"
+echo "[7/8] Provision JSON API and BCO compatibility copies (both trees)…"
 python3 "$S/45_bco_manifests.py" "$BUILD" --out "$BUILD/api/bco"
 python3 "$S/45_bco_manifests.py" "$PUB" --out "$PUB/api/bco"
 

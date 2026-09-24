@@ -1,3 +1,27 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga39_2011"
+    label: "Minutes PDF · p. 439"
+    file: "39th_pcaga_2011.pdf"
+    volume: "ga39_2011"
+    pdf_page: 439
+    url: "https://www.pcahistory.org/pca/ga/39th_pcaga_2011.pdf#page=439"
+  - type: "minutes"
+    source_id: "minutes:ga40_2012"
+    label: "Minutes PDF · p. 416"
+    file: "40th_pcaga_2012.pdf"
+    volume: "ga40_2012"
+    pdf_page: 416
+    url: "https://www.pcahistory.org/pca/ga/40th_pcaga_2012.pdf#page=416"
+  - type: "minutes"
+    source_id: "minutes:ga41_2013"
+    label: "Minutes PDF · p. 419"
+    file: "41st_pcaga_2013.pdf"
+    volume: "ga41_2013"
+    pdf_page: 419
+    url: "https://www.pcahistory.org/pca/ga/41st_pcaga_2013.pdf#page=419"
+---
 # Calvary Presbytery — RAO 16-3
 
 *No record of minutes of executive…*

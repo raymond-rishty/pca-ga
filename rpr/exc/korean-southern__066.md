@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga33_2005"
+    label: "Minutes PDF · p. 286"
+    file: "33rd_pcaga_2005.pdf"
+    volume: "ga33_2005"
+    pdf_page: 286
+    url: "https://www.pcahistory.org/pca/ga/33rd_pcaga_2005.pdf#page=286"
+---
 # Korean Southern Presbytery — exception of substance
 
 *No copy of presbytery’s standing rules. “RAO”…*

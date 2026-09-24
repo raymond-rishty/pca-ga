@@ -1,0 +1,46 @@
+.provision-compatibility-link{margin:.55rem 0 1rem;padding:.65rem .8rem;border:1px solid var(--parch-deep);border-radius:var(--radius);background:#fffcf5;font:500 .8rem/1.45 var(--sans)}
+.provision-compatibility-link a{color:#755719;text-underline-offset:.2em}
+.provision-breadcrumb a,.provision-reader-link,.provision-footer a{color:#755719;text-underline-offset:.2em}
+.provision-page{max-width:1000px;margin:0 auto 2rem;padding:0}
+.provision-breadcrumb{display:flex;flex-wrap:wrap;gap:.5rem;margin:0 0 1.5rem;color:var(--ink-muted);font:400 .75rem/1.5 var(--sans)}
+.provision-heading{padding:1.4rem 0 1.6rem;border-bottom:1px solid var(--parch-deep)}
+.provision-heading h1{margin:.25rem 0 .5rem;color:var(--ink);font:400 clamp(2.35rem,5vw,4rem)/1 var(--serif);letter-spacing:-.025em;overflow-wrap:anywhere}
+.provision-heading>p{color:var(--ink-muted);font:400 .9rem/1.6 var(--sans)}
+.provision-status{margin:0;color:#755719;font:500 .7rem/1.5 var(--sans);letter-spacing:.08em;text-transform:uppercase}
+.provision-status--supplementary{color:#8b3b24}
+.provision-reader-link{display:inline-block;margin-top:.25rem;font:500 .83rem/1.5 var(--sans)}
+.provision-current,.provision-children,.provision-coverage,.provision-history{margin:1.6rem 0;padding:1.2rem;border:1px solid var(--parch-deep);border-left:3px solid var(--gold);border-radius:var(--radius);background:#fffcf5}
+.provision-page h2{margin:0 0 .75rem;color:var(--ink);font:500 1.45rem/1.2 var(--serif)}
+.provision-page h2 span{color:var(--ink-muted);font:400 .78rem/1.2 var(--sans)}
+.provision-text{font:400 1.1rem/1.65 var(--serif);overflow-wrap:anywhere}
+.provision-text p{margin:.4rem 0 1rem}
+.provision-text .lead{font-size:1.15em}
+.provision-text .bpara{margin:.75rem 0}
+.provision-text .li{margin:.48rem 0;padding-left:1.55em;text-indent:-1.55em}
+.provision-text .mk{margin-right:.15em;font-weight:600;color:var(--ink)}
+.provision-text .d1{margin-left:1.35em}.provision-text .d2{margin-left:2.7em}.provision-text .d3{margin-left:4.05em}.provision-text .d4{margin-left:5.4em}
+.provision-chapter-section+.provision-chapter-section{margin-top:1.5rem;padding-top:1rem;border-top:1px solid var(--parch-deep)}
+.provision-chapter-section h3{margin:.2rem 0 .65rem;font:500 1.15rem/1.3 var(--sans)}
+.provision-chapter-section h3 a{color:#755719;text-underline-offset:.2em}
+.provision-source,.provision-note,.provision-coverage{color:var(--ink-muted);font:400 .78rem/1.6 var(--sans)}
+.provision-children ul,.provision-book ul{columns:2;column-gap:2rem;margin:0;padding-left:1.3rem}
+.provision-children li,.provision-book li{break-inside:avoid;padding:.18rem 0;font:400 .82rem/1.45 var(--sans)}
+.provision-group{margin:1.25rem 0 1.7rem}
+.provision-group>h2{padding-bottom:.4rem;border-bottom:1px solid var(--parch-deep)}
+.provision-page ul.provision-record-list{display:grid;gap:.65rem;margin:0;padding:0;list-style:none}
+.provision-page ul.provision-record-list>li{margin:0;list-style:none}
+.provision-page ul.provision-record-list>li::marker{content:""}
+.provision-record{min-width:0;padding:.9rem 1rem;border:1px solid var(--parch-deep);border-left:3px solid var(--gold);border-radius:var(--radius);background:#fffcf5}
+.provision-record h3{margin:.12rem 0 .25rem;font:500 1.15rem/1.3 var(--serif);overflow-wrap:anywhere}
+.provision-record h3 a{color:var(--ink);text-underline-offset:.2em}
+.provision-record__relation{margin:0;color:#755719;font:500 .67rem/1.5 var(--sans);letter-spacing:.055em;text-transform:uppercase}
+.provision-record__facts,.provision-record__source{margin:.2rem 0;color:var(--ink-muted);font:400 .73rem/1.5 var(--sans)}
+.provision-record blockquote{margin:.65rem 0 0;padding-left:.8rem;border-left:2px solid var(--gold);color:var(--ink-muted);font:400 .9rem/1.5 var(--serif)}
+.provision-empty{margin:.5rem 0;color:var(--ink-muted);font:400 .82rem/1.55 var(--sans)}
+.provision-book{margin:.8rem 0;padding:1rem;border:1px solid var(--parch-deep);border-radius:var(--radius);background:#fffcf5}
+.provision-book summary{cursor:pointer;color:var(--ink);font:500 1.2rem/1.35 var(--serif)}
+.provision-book summary span{margin-left:.4rem;color:var(--ink-muted);font:400 .73rem/1.3 var(--sans)}
+.provision-book ul{margin-top:.8rem}
+.provision-footer{display:flex;flex-wrap:wrap;justify-content:space-between;gap:.8rem;margin-top:2rem;padding-top:1rem;border-top:1px solid var(--parch-deep);color:var(--ink-muted);font:400 .75rem/1.5 var(--sans)}
+.provision-page a:focus-visible,.provision-page summary:focus-visible{outline:2px solid var(--gold);outline-offset:3px;border-radius:2px}
+@media(max-width:600px){.provision-current,.provision-children,.provision-coverage,.provision-history{padding:1rem}.provision-children ul,.provision-book ul{columns:1}.provision-record{padding:.8rem}.provision-text{font-size:1.02rem}}

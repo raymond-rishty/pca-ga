@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga31_2003"
+    label: "Minutes PDF · p. 217"
+    file: "31st_pcaga_2003.pdf"
+    volume: "ga31_2003"
+    pdf_page: 217
+    url: "https://www.pcahistory.org/pca/ga/31st_pcaga_2003.pdf#page=217"
+---
 # Calvary Presbytery — exception of substance
 
 *October 24, 2002: Recurring minutes of presbytery meetings have not been…*

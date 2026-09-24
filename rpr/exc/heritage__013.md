@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga23_1995"
+    label: "Minutes PDF · p. 191"
+    file: "23rd_pcaga_1995.pdf"
+    volume: "ga23_1995"
+    pdf_page: 191
+    url: "https://www.pcahistory.org/pca/ga/23rd_pcaga_1995.pdf#page=191"
+---
 # Heritage Presbytery — WCF 28-
 
 *Minutes show that the ruling elder who does not hold to infant baptism was…*

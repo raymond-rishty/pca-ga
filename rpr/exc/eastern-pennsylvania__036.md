@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga52_2025"
+    label: "Minutes PDF · p. 546"
+    file: "52nd_pcaga_2025.pdf"
+    volume: "ga52_2025"
+    pdf_page: 546
+    url: "https://www.pcahistory.org/pca/ga/52nd_pcaga_2025.pdf#page=546"
+---
 # Eastern Pennsylvania Presbytery — BCO 34-10
 
 *Presbytery began the process of divesting a teaching elder, per BCO 34-10,…*

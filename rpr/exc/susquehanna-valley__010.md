@@ -1,3 +1,20 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga24_1996"
+    label: "Minutes PDF · p. 264"
+    file: "24th_pcaga_1996.pdf"
+    volume: "ga24_1996"
+    pdf_page: 264
+    url: "https://www.pcahistory.org/pca/ga/24th_pcaga_1996.pdf#page=264"
+  - type: "minutes"
+    source_id: "minutes:ga25_1997"
+    label: "Minutes PDF · p. 222"
+    file: "25th_pcaga_1997.pdf"
+    volume: "ga25_1997"
+    pdf_page: 222
+    url: "https://www.pcahistory.org/pca/ga/25th_pcaga_1997.pdf#page=222"
+---
 # Susquehanna Valley Presbytery — BCO 19
 
 *No record of parts of examinations (BCO 19,…*

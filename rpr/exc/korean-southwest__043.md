@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga31_2003"
+    label: "Minutes PDF · p. 235"
+    file: "31st_pcaga_2003.pdf"
+    volume: "ga31_2003"
+    pdf_page: 235
+    url: "https://www.pcahistory.org/pca/ga/31st_pcaga_2003.pdf#page=235"
+---
 # Korean Southwest Presbytery — exception of substance
 
 *19, 1996: Parts of examination should be listed (“RAO”…*

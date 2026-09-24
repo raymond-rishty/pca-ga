@@ -276,9 +276,13 @@
     meta.textContent = 'Loading the search catalogue…';
     list.innerHTML = '';
     try {
-      const response = await fetch('app/search_index.json');
-      if (!response.ok) throw new Error('Search index unavailable');
-      data = await response.json();
+      const [response, provisionResponse] = await Promise.all([
+        fetch('app/search_index.json'),
+        fetch('app/provision_search.json'),
+      ]);
+      if (!response.ok || !provisionResponse.ok) throw new Error('Search index unavailable');
+      const [records, provisions] = await Promise.all([response.json(), provisionResponse.json()]);
+      data = records.concat(provisions);
       renderFilters();
     } catch {
       meta.textContent = 'The search catalogue could not be loaded. Please check your connection and try again.';

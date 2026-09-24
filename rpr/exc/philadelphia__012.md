@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga19_1991"
+    label: "Minutes PDF · p. 187"
+    file: "19th_pcaga_1991.pdf"
+    volume: "ga19_1991"
+    pdf_page: 187
+    url: "https://www.pcahistory.org/pca/ga/19th_pcaga_1991.pdf#page=187"
+---
 # Philadelphia Presbytery — BCO 5-8
 
 *par. 19 Attachment 11 Presbytery minutes do not reflect that organizing…*

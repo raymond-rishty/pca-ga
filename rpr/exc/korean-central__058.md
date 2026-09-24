@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga40_2012"
+    label: "Minutes PDF · p. 435"
+    file: "40th_pcaga_2012.pdf"
+    volume: "ga40_2012"
+    pdf_page: 435
+    url: "https://www.pcahistory.org/pca/ga/40th_pcaga_2012.pdf#page=435"
+---
 # Korean Central Presbytery — BCO 214
 
 *No record of requiring statement of…*

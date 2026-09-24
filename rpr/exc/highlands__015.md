@@ -1,3 +1,27 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga51_2024"
+    label: "Minutes PDF · p. 526"
+    file: "51st_pcaga_2024.pdf"
+    volume: "ga51_2024"
+    pdf_page: 526
+    url: "https://www.pcahistory.org/pca/ga/51st_pcaga_2024.pdf#page=526"
+  - type: "minutes"
+    source_id: "minutes:ga52_2025"
+    label: "Minutes PDF · p. 566"
+    file: "52nd_pcaga_2025.pdf"
+    volume: "ga52_2025"
+    pdf_page: 566
+    url: "https://www.pcahistory.org/pca/ga/52nd_pcaga_2025.pdf#page=566"
+  - type: "minutes"
+    source_id: "minutes:ga52_2025"
+    label: "Minutes PDF · p. 567"
+    file: "52nd_pcaga_2025.pdf"
+    volume: "ga52_2025"
+    pdf_page: 567
+    url: "https://www.pcahistory.org/pca/ga/52nd_pcaga_2025.pdf#page=567"
+---
 # Highlands Presbytery — RAO 16-3.e.5
 
 *(Standing Rules, 6-2.b; RONR [12th ed.] 23:6(e); 25-10) — Rule protecting…*

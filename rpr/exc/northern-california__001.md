@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga18_1990"
+    label: "Minutes PDF · p. 185"
+    file: "18th_pcaga_1990.pdf"
+    volume: "ga18_1990"
+    pdf_page: 185
+    url: "https://www.pcahistory.org/pca/ga/18th_pcaga_1990.pdf#page=185"
+---
 # Northern California Presbytery — exception of substance
 
 *16.2: Presbytery instructed CE Committee to issue a call to TE to labor in a…*

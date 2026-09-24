@@ -1,3 +1,20 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga31_2003"
+    label: "Minutes PDF · p. 253"
+    file: "31st_pcaga_2003.pdf"
+    volume: "ga31_2003"
+    pdf_page: 253
+    url: "https://www.pcahistory.org/pca/ga/31st_pcaga_2003.pdf#page=253"
+  - type: "minutes"
+    source_id: "minutes:ga32_2004"
+    label: "Minutes PDF · p. 241"
+    file: "32nd_pcaga_2004.pdf"
+    volume: "ga32_2004"
+    pdf_page: 241
+    url: "https://www.pcahistory.org/pca/ga/32nd_pcaga_2004.pdf#page=241"
+---
 # South Texas Presbytery — BCO 13-6
 
 *No record that two ministers from other denominations were examined by…*

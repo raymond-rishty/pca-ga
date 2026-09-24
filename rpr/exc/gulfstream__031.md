@@ -1,3 +1,34 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga45_2017"
+    label: "Minutes PDF · p. 383"
+    file: "45th_pcaga_2017.pdf"
+    volume: "ga45_2017"
+    pdf_page: 383
+    url: "https://www.pcahistory.org/pca/ga/45th_pcaga_2017.pdf#page=383"
+  - type: "minutes"
+    source_id: "minutes:ga46_2018"
+    label: "Minutes PDF · p. 402"
+    file: "46th_pcaga_2018.pdf"
+    volume: "ga46_2018"
+    pdf_page: 402
+    url: "https://www.pcahistory.org/pca/ga/46th_pcaga_2018.pdf#page=402"
+  - type: "minutes"
+    source_id: "minutes:ga49_2022"
+    label: "Minutes PDF · p. 526"
+    file: "49th_pcaga_2022.pdf"
+    volume: "ga49_2022"
+    pdf_page: 526
+    url: "https://www.pcahistory.org/pca/ga/49th_pcaga_2022.pdf#page=526"
+  - type: "minutes"
+    source_id: "minutes:ga50_2023"
+    label: "Minutes PDF · p. 566"
+    file: "50th_pcaga_2023.pdf"
+    volume: "ga50_2023"
+    pdf_page: 566
+    url: "https://www.pcahistory.org/pca/ga/50th_pcaga_2023.pdf#page=566"
+---
 # Gulfstream Presbytery — BCO 13-9b
 
 *Results of review of records of church sessions not…*

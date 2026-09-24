@@ -1,3 +1,27 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga34_2006"
+    label: "Minutes PDF · p. 282"
+    file: "34th_pcaga_2006.pdf"
+    volume: "ga34_2006"
+    pdf_page: 282
+    url: "https://www.pcahistory.org/pca/ga/34th_pcaga_2006.pdf#page=282"
+  - type: "minutes"
+    source_id: "minutes:ga35_2007"
+    label: "Minutes PDF · p. 201"
+    file: "35th_pcaga_2007.pdf"
+    volume: "ga35_2007"
+    pdf_page: 201
+    url: "https://www.pcahistory.org/pca/ga/35th_pcaga_2007.pdf#page=201"
+  - type: "minutes"
+    source_id: "minutes:ga36_2008"
+    label: "Minutes PDF · p. 251"
+    file: "36th_pcaga_2008.pdf"
+    volume: "ga36_2008"
+    pdf_page: 251
+    url: "https://www.pcahistory.org/pca/ga/36th_pcaga_2008.pdf#page=251"
+---
 # Northern California Presbytery — BCO 5-11.3
 
 *Presbytery approved an invalid call (call was voted on by members of the…*

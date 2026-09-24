@@ -1,3 +1,41 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga44_2016"
+    label: "Minutes PDF · p. 425"
+    file: "44th_pcaga_2016.pdf"
+    volume: "ga44_2016"
+    pdf_page: 425
+    url: "https://www.pcahistory.org/pca/ga/44th_pcaga_2016.pdf#page=425"
+  - type: "minutes"
+    source_id: "minutes:ga45_2017"
+    label: "Minutes PDF · p. 400"
+    file: "45th_pcaga_2017.pdf"
+    volume: "ga45_2017"
+    pdf_page: 400
+    url: "https://www.pcahistory.org/pca/ga/45th_pcaga_2017.pdf#page=400"
+  - type: "minutes"
+    source_id: "minutes:ga46_2018"
+    label: "Minutes PDF · p. 430"
+    file: "46th_pcaga_2018.pdf"
+    volume: "ga46_2018"
+    pdf_page: 430
+    url: "https://www.pcahistory.org/pca/ga/46th_pcaga_2018.pdf#page=430"
+  - type: "minutes"
+    source_id: "minutes:ga47_2019"
+    label: "Minutes PDF · p. 486"
+    file: "47th_pcaga_2019.pdf"
+    volume: "ga47_2019"
+    pdf_page: 486
+    url: "https://www.pcahistory.org/pca/ga/47th_pcaga_2019.pdf#page=486"
+  - type: "minutes"
+    source_id: "minutes:ga49_2022"
+    label: "Minutes PDF · p. 572"
+    file: "49th_pcaga_2022.pdf"
+    volume: "ga49_2022"
+    pdf_page: 572
+    url: "https://www.pcahistory.org/pca/ga/49th_pcaga_2022.pdf#page=572"
+---
 # Korean Southwest Orange County Presbytery — BCO 21-4
 
 *No record of candidate meeting requirements for ordination (education,…*

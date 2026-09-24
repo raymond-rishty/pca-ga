@@ -1,3 +1,20 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga40_2012"
+    label: "Minutes PDF · p. 418"
+    file: "40th_pcaga_2012.pdf"
+    volume: "ga40_2012"
+    pdf_page: 418
+    url: "https://www.pcahistory.org/pca/ga/40th_pcaga_2012.pdf#page=418"
+  - type: "minutes"
+    source_id: "minutes:ga41_2013"
+    label: "Minutes PDF · p. 423"
+    file: "41st_pcaga_2013.pdf"
+    volume: "ga41_2013"
+    pdf_page: 423
+    url: "https://www.pcahistory.org/pca/ga/41st_pcaga_2013.pdf#page=423"
+---
 # Chesapeake Presbytery — BCO 21-9, RAO 16-3.e.4
 
 *No report of the commission to install…*

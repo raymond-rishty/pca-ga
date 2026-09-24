@@ -1,3 +1,34 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga47_2019"
+    label: "Minutes PDF · p. 477"
+    file: "47th_pcaga_2019.pdf"
+    volume: "ga47_2019"
+    pdf_page: 477
+    url: "https://www.pcahistory.org/pca/ga/47th_pcaga_2019.pdf#page=477"
+  - type: "minutes"
+    source_id: "minutes:ga48_2021"
+    label: "Minutes PDF · p. 584"
+    file: "48th_pcaga_2021.pdf"
+    volume: "ga48_2021"
+    pdf_page: 584
+    url: "https://www.pcahistory.org/pca/ga/48th_pcaga_2021.pdf#page=584"
+  - type: "minutes"
+    source_id: "minutes:ga49_2022"
+    label: "Minutes PDF · p. 555"
+    file: "49th_pcaga_2022.pdf"
+    volume: "ga49_2022"
+    pdf_page: 555
+    url: "https://www.pcahistory.org/pca/ga/49th_pcaga_2022.pdf#page=555"
+  - type: "minutes"
+    source_id: "minutes:ga50_2023"
+    label: "Minutes PDF · p. 614"
+    file: "50th_pcaga_2023.pdf"
+    volume: "ga50_2023"
+    pdf_page: 614
+    url: "https://www.pcahistory.org/pca/ga/50th_pcaga_2023.pdf#page=614"
+---
 # Korean Central Presbytery — BCO 21-4
 
 *Use of ¾ extraordinary clause not explained for ordination exam. Response…*

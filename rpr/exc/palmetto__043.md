@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga49_2022"
+    label: "Minutes PDF · p. 606"
+    file: "49th_pcaga_2022.pdf"
+    volume: "ga49_2022"
+    pdf_page: 606
+    url: "https://www.pcahistory.org/pca/ga/49th_pcaga_2022.pdf#page=606"
+---
 # Palmetto Presbytery — BCO 192
 
 *Presbytery prohibited two licentiates from preaching or teaching their views…*

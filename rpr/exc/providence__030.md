@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga47_2019"
+    label: "Minutes PDF · p. 501"
+    file: "47th_pcaga_2019.pdf"
+    volume: "ga47_2019"
+    pdf_page: 501
+    url: "https://www.pcahistory.org/pca/ga/47th_pcaga_2019.pdf#page=501"
+---
 # Providence Presbytery — exception of substance
 
 *Minutes from executive session not…*

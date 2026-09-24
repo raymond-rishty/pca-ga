@@ -1,3 +1,20 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga48_2021"
+    label: "Minutes PDF · p. 631"
+    file: "48th_pcaga_2021.pdf"
+    volume: "ga48_2021"
+    pdf_page: 631
+    url: "https://www.pcahistory.org/pca/ga/48th_pcaga_2021.pdf#page=631"
+  - type: "minutes"
+    source_id: "minutes:ga49_2022"
+    label: "Minutes PDF · p. 617"
+    file: "49th_pcaga_2022.pdf"
+    volume: "ga49_2022"
+    pdf_page: 617
+    url: "https://www.pcahistory.org/pca/ga/49th_pcaga_2022.pdf#page=617"
+---
 # Savannah River Presbytery — BCO 21-4.a
 
 *No record of academic credentials or experiential clause given for candidate…*

@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga26_1998"
+    label: "Minutes PDF · p. 237"
+    file: "26th_pcaga_1998.pdf"
+    volume: "ga26_1998"
+    pdf_page: 237
+    url: "https://www.pcahistory.org/pca/ga/26th_pcaga_1998.pdf#page=237"
+---
 # Central Florida Presbytery — BCO 21-4, RAO 14-3.e.5, BCO 18-2, RAO 14-6.c.2)
 
 *Omissions to parts of ordination exams; no mention of church, session, or…*

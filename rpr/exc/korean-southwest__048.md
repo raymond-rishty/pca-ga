@@ -1,3 +1,27 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga32_2004"
+    label: "Minutes PDF · p. 222"
+    file: "32nd_pcaga_2004.pdf"
+    volume: "ga32_2004"
+    pdf_page: 222
+    url: "https://www.pcahistory.org/pca/ga/32nd_pcaga_2004.pdf#page=222"
+  - type: "minutes"
+    source_id: "minutes:ga33_2005"
+    label: "Minutes PDF · p. 290"
+    file: "33rd_pcaga_2005.pdf"
+    volume: "ga33_2005"
+    pdf_page: 290
+    url: "https://www.pcahistory.org/pca/ga/33rd_pcaga_2005.pdf#page=290"
+  - type: "minutes"
+    source_id: "minutes:ga34_2006"
+    label: "Minutes PDF · p. 274"
+    file: "34th_pcaga_2006.pdf"
+    volume: "ga34_2006"
+    pdf_page: 274
+    url: "https://www.pcahistory.org/pca/ga/34th_pcaga_2006.pdf#page=274"
+---
 # Korean Southwest Presbytery — BCO 135
 
 *Record of examinations for ordination and licensure is missing and parts of…*

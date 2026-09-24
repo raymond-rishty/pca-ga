@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga42_2014"
+    label: "Minutes PDF · p. 432"
+    file: "42nd_pcaga_2014.pdf"
+    volume: "ga42_2014"
+    pdf_page: 432
+    url: "https://www.pcahistory.org/pca/ga/42nd_pcaga_2014.pdf#page=432"
+---
 # New Jersey Presbytery — BCO 8-7
 
 *No record of some annual reports of TEs laboring out of…*

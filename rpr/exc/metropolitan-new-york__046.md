@@ -1,3 +1,27 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga47_2019"
+    label: "Minutes PDF · p. 487"
+    file: "47th_pcaga_2019.pdf"
+    volume: "ga47_2019"
+    pdf_page: 487
+    url: "https://www.pcahistory.org/pca/ga/47th_pcaga_2019.pdf#page=487"
+  - type: "minutes"
+    source_id: "minutes:ga48_2021"
+    label: "Minutes PDF · p. 602"
+    file: "48th_pcaga_2021.pdf"
+    volume: "ga48_2021"
+    pdf_page: 602
+    url: "https://www.pcahistory.org/pca/ga/48th_pcaga_2021.pdf#page=602"
+  - type: "minutes"
+    source_id: "minutes:ga49_2022"
+    label: "Minutes PDF · p. 582"
+    file: "49th_pcaga_2022.pdf"
+    volume: "ga49_2022"
+    pdf_page: 582
+    url: "https://www.pcahistory.org/pca/ga/49th_pcaga_2022.pdf#page=582"
+---
 # Metropolitan New York Presbytery — BCO 5-3
 
 *Presbytery received as information a report that a church “has become a…*

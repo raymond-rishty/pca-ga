@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga49_2022"
+    label: "Minutes PDF · p. 627"
+    file: "49th_pcaga_2022.pdf"
+    volume: "ga49_2022"
+    pdf_page: 627
+    url: "https://www.pcahistory.org/pca/ga/49th_pcaga_2022.pdf#page=627"
+---
 # Southern New England Presbytery — BCO 15-2
 
 *No record of quorum for commission…*

@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga44_2016"
+    label: "Minutes PDF · p. 455"
+    file: "44th_pcaga_2016.pdf"
+    volume: "ga44_2016"
+    pdf_page: 455
+    url: "https://www.pcahistory.org/pca/ga/44th_pcaga_2016.pdf#page=455"
+---
 # Tennessee Valley Presbytery — BCO 13-9.b
 
 *Incomplete review of records of church…*

@@ -1,3 +1,20 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga18_1990"
+    label: "Minutes PDF · p. 189"
+    file: "18th_pcaga_1990.pdf"
+    volume: "ga18_1990"
+    pdf_page: 189
+    url: "https://www.pcahistory.org/pca/ga/18th_pcaga_1990.pdf#page=189"
+  - type: "minutes"
+    source_id: "minutes:ga31_2003"
+    label: "Minutes PDF · p. 262"
+    file: "31st_pcaga_2003.pdf"
+    volume: "ga31_2003"
+    pdf_page: 262
+    url: "https://www.pcahistory.org/pca/ga/31st_pcaga_2003.pdf#page=262"
+---
 # Western Carolina Presbytery — BCO 13-11
 
 *November 9, 2001: No record of congregational meeting to request or concur in…*

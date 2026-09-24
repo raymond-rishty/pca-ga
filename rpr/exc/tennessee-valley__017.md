@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga24_1996"
+    label: "Minutes PDF · p. 264"
+    file: "24th_pcaga_1996.pdf"
+    volume: "ga24_1996"
+    pdf_page: 264
+    url: "https://www.pcahistory.org/pca/ga/24th_pcaga_1996.pdf#page=264"
+---
 # Tennessee Valley Presbytery — BCO 21-4)
 
 *No reason is given for waiving seminary and language requirements (BCO…*

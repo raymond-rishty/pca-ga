@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga20_1992"
+    label: "Minutes PDF · p. 259"
+    file: "20th_pcaga_1992.pdf"
+    volume: "ga20_1992"
+    pdf_page: 259
+    url: "https://www.pcahistory.org/pca/ga/20th_pcaga_1992.pdf#page=259"
+---
 # Siouxlands Presbytery — RAO § 14-10
 
 *The minutes are in such an abbreviated form that it is difficult to determine…*

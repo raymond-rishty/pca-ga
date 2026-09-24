@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga22_1994"
+    label: "Minutes PDF · p. 305"
+    file: "22nd_pcaga_1994.pdf"
+    volume: "ga22_1994"
+    pdf_page: 305
+    url: "https://www.pcahistory.org/pca/ga/22nd_pcaga_1994.pdf#page=305"
+---
 # North Texas Presbytery — BCO 19-12
 
 *2707, p. 11: There are no reports on interns. (BCO…*

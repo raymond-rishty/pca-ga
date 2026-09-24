@@ -1,3 +1,34 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga43_2015"
+    label: "Minutes PDF · p. 468"
+    file: "43rd_pcaga_2015.pdf"
+    volume: "ga43_2015"
+    pdf_page: 468
+    url: "https://www.pcahistory.org/pca/ga/43rd_pcaga_2015.pdf#page=468"
+  - type: "minutes"
+    source_id: "minutes:ga44_2016"
+    label: "Minutes PDF · p. 439"
+    file: "44th_pcaga_2016.pdf"
+    volume: "ga44_2016"
+    pdf_page: 439
+    url: "https://www.pcahistory.org/pca/ga/44th_pcaga_2016.pdf#page=439"
+  - type: "minutes"
+    source_id: "minutes:ga45_2017"
+    label: "Minutes PDF · p. 411"
+    file: "45th_pcaga_2017.pdf"
+    volume: "ga45_2017"
+    pdf_page: 411
+    url: "https://www.pcahistory.org/pca/ga/45th_pcaga_2017.pdf#page=411"
+  - type: "minutes"
+    source_id: "minutes:ga46_2018"
+    label: "Minutes PDF · p. 447"
+    file: "46th_pcaga_2018.pdf"
+    volume: "ga46_2018"
+    pdf_page: 447
+    url: "https://www.pcahistory.org/pca/ga/46th_pcaga_2018.pdf#page=447"
+---
 # Platte Valley Presbytery — exception of substance
 
 *No minutes from…*

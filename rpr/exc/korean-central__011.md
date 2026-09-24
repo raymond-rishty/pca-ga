@@ -1,3 +1,48 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga29_2001"
+    label: "Minutes PDF · p. 337"
+    file: "29th_pcaga_2001.pdf"
+    volume: "ga29_2001"
+    pdf_page: 337
+    url: "https://www.pcahistory.org/pca/ga/29th_pcaga_2001.pdf#page=337"
+  - type: "minutes"
+    source_id: "minutes:ga30_2002"
+    label: "Minutes PDF · p. 316"
+    file: "30th_pcaga_2002.pdf"
+    volume: "ga30_2002"
+    pdf_page: 316
+    url: "https://www.pcahistory.org/pca/ga/30th_pcaga_2002.pdf#page=316"
+  - type: "minutes"
+    source_id: "minutes:ga31_2003"
+    label: "Minutes PDF · p. 230"
+    file: "31st_pcaga_2003.pdf"
+    volume: "ga31_2003"
+    pdf_page: 230
+    url: "https://www.pcahistory.org/pca/ga/31st_pcaga_2003.pdf#page=230"
+  - type: "minutes"
+    source_id: "minutes:ga34_2006"
+    label: "Minutes PDF · p. 264"
+    file: "34th_pcaga_2006.pdf"
+    volume: "ga34_2006"
+    pdf_page: 264
+    url: "https://www.pcahistory.org/pca/ga/34th_pcaga_2006.pdf#page=264"
+  - type: "minutes"
+    source_id: "minutes:ga37_2009"
+    label: "Minutes PDF · p. 103"
+    file: "37th_pcaga_2009.pdf"
+    volume: "ga37_2009"
+    pdf_page: 103
+    url: "https://www.pcahistory.org/pca/ga/37th_pcaga_2009.pdf#page=103"
+  - type: "minutes"
+    source_id: "minutes:ga38_2010"
+    label: "Minutes PDF · p. 93"
+    file: "38th_pcaga_2010.pdf"
+    volume: "ga38_2010"
+    pdf_page: 93
+    url: "https://www.pcahistory.org/pca/ga/38th_pcaga_2010.pdf#page=93"
+---
 # Korean Central Presbytery — BCO 40-1
 
 *October 11, 1999: There is no review of session records. BCO 40-1, 40-2, 40-3…*

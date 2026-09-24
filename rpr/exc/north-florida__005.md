@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga28_2000"
+    label: "Minutes PDF · p. 336"
+    file: "28th_pcaga_2000.pdf"
+    volume: "ga28_2000"
+    pdf_page: 336
+    url: "https://www.pcahistory.org/pca/ga/28th_pcaga_2000.pdf#page=336"
+---
 # North Florida Presbytery — BCO 13-6
 
 *Each area of examination should be indicated BCO…*

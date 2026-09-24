@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga24_1996"
+    label: "Minutes PDF · p. 247"
+    file: "24th_pcaga_1996.pdf"
+    volume: "ga24_1996"
+    pdf_page: 247
+    url: "https://www.pcahistory.org/pca/ga/24th_pcaga_1996.pdf#page=247"
+---
 # Covenant Presbytery — BCO 15-1)
 
 *March 1,1994, p. 7; May 24,1994, p. 9; October 4,1994, p. 23: there is no…*

@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga50_2023"
+    label: "Minutes PDF · p. 627"
+    file: "50th_pcaga_2023.pdf"
+    volume: "ga50_2023"
+    pdf_page: 627
+    url: "https://www.pcahistory.org/pca/ga/50th_pcaga_2023.pdf#page=627"
+---
 # Korean Southern Presbytery — BCO 24-1
 
 *Standing Rules ( BCO 24-1, Preliminary Principle 6) – The provision of Article…*

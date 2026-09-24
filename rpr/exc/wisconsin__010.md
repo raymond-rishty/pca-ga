@@ -1,3 +1,20 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga48_2021"
+    label: "Minutes PDF · p. 643"
+    file: "48th_pcaga_2021.pdf"
+    volume: "ga48_2021"
+    pdf_page: 643
+    url: "https://www.pcahistory.org/pca/ga/48th_pcaga_2021.pdf#page=643"
+  - type: "minutes"
+    source_id: "minutes:ga49_2022"
+    label: "Minutes PDF · p. 638"
+    file: "49th_pcaga_2022.pdf"
+    volume: "ga49_2022"
+    pdf_page: 638
+    url: "https://www.pcahistory.org/pca/ga/49th_pcaga_2022.pdf#page=638"
+---
 # Wisconsin Presbytery — BCO 13-9.b
 
 *No record of all church records being reviewed. Several churches were not…*

@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga46_2018"
+    label: "Minutes PDF · p. 421"
+    file: "46th_pcaga_2018.pdf"
+    volume: "ga46_2018"
+    pdf_page: 421
+    url: "https://www.pcahistory.org/pca/ga/46th_pcaga_2018.pdf#page=421"
+---
 # Korean Northwest Presbytery — BCO 19-2
 
 *All specific requirements for licensure exam not…*

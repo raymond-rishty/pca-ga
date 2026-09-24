@@ -1,3 +1,25 @@
+---
+source_links:
+  - type: "dedicated"
+    source_id: "study-pdf:2-553"
+    label: "Dedicated source PDF"
+    file: "2-553.pdf"
+    url: "https://www.pcahistory.org/pca/digest/studies/2-553.pdf"
+  - type: "minutes"
+    source_id: "minutes:ga11_1983"
+    label: "Minutes PDF · p. 92"
+    file: "11th_pcaga_1983.pdf"
+    volume: "ga11_1983"
+    pdf_page: 92
+    url: "https://www.pcahistory.org/pca/ga/11th_pcaga_1983.pdf#page=92"
+  - type: "minutes"
+    source_id: "minutes:ga12_1984"
+    label: "Minutes PDF · p. 371"
+    file: "12th_pcaga_1984.pdf"
+    volume: "ga12_1984"
+    pdf_page: 371
+    url: "https://www.pcahistory.org/pca/ga/12th_pcaga_1984.pdf#page=371"
+---
 # Tax Group Exemption
 
 *Tax Group Exemption*

@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga51_2024"
+    label: "Minutes PDF · p. 535"
+    file: "51st_pcaga_2024.pdf"
+    volume: "ga51_2024"
+    pdf_page: 535
+    url: "https://www.pcahistory.org/pca/ga/51st_pcaga_2024.pdf#page=535"
+---
 # Illiana Presbytery — RAO 16-10.a
 
 *no record in minutes of exceptions taken by GA, and no responses to the…*

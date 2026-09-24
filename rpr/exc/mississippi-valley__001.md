@@ -1,3 +1,20 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga22_1994"
+    label: "Minutes PDF · p. 297"
+    file: "22nd_pcaga_1994.pdf"
+    volume: "ga22_1994"
+    pdf_page: 297
+    url: "https://www.pcahistory.org/pca/ga/22nd_pcaga_1994.pdf#page=297"
+  - type: "minutes"
+    source_id: "minutes:ga23_1995"
+    label: "Minutes PDF · p. 197"
+    file: "23rd_pcaga_1995.pdf"
+    volume: "ga23_1995"
+    pdf_page: 197
+    url: "https://www.pcahistory.org/pca/ga/23rd_pcaga_1995.pdf#page=197"
+---
 # Mississippi Valley Presbytery — BCO 18-6, BCO 18-2)
 
 *No record of annual reports of candidates and those laboring out of bounds.…*

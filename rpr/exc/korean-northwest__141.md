@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga52_2025"
+    label: "Minutes PDF · p. 587"
+    file: "52nd_pcaga_2025.pdf"
+    volume: "ga52_2025"
+    pdf_page: 587
+    url: "https://www.pcahistory.org/pca/ga/52nd_pcaga_2025.pdf#page=587"
+---
 # Korean Northwest Presbytery — BCO 24-1, BCO 11-4
 
 *( BCO 24-1; BCO 11-4; PP #6; BCO 12-5.b) — Minutes contain reference to men…*

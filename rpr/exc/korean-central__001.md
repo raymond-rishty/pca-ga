@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga23_1995"
+    label: "Minutes PDF · p. 194"
+    file: "23rd_pcaga_1995.pdf"
+    volume: "ga23_1995"
+    pdf_page: 194
+    url: "https://www.pcahistory.org/pca/ga/23rd_pcaga_1995.pdf#page=194"
+---
 # Korean Central Presbytery — BCO 13-10), BCO 13-9b), BCO 8-6)
 
 *Minutes do not reflect all actions of presbytery, eg. April 7, 1992, VI 2.1…*

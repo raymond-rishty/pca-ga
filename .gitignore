@@ -10,6 +10,7 @@ outputs/
 index/disp_candidates/
 index/ratif_candidates/
 index/reocr/
+app/provision_search.json
 
 # Local synopsis evaluation tooling
 index/synopsis_workflow/

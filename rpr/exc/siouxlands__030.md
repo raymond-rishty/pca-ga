@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga22_1994"
+    label: "Minutes PDF · p. 311"
+    file: "22nd_pcaga_1994.pdf"
+    volume: "ga22_1994"
+    pdf_page: 311
+    url: "https://www.pcahistory.org/pca/ga/22nd_pcaga_1994.pdf#page=311"
+---
 # Siouxlands Presbytery — BCO 19-3
 
 *p. 3, # 18: A letter of recommendation regarding the teaching elder sustaining…*

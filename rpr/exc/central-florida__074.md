@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga47_2019"
+    label: "Minutes PDF · p. 458"
+    file: "47th_pcaga_2019.pdf"
+    volume: "ga47_2019"
+    pdf_page: 458
+    url: "https://www.pcahistory.org/pca/ga/47th_pcaga_2019.pdf#page=458"
+---
 # Central Florida Presbytery — exception of substance
 
 *This commission involves the installation of [name omitted]. A commission was…*

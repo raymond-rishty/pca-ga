@@ -1,3 +1,20 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga49_2022"
+    label: "Minutes PDF · p. 632"
+    file: "49th_pcaga_2022.pdf"
+    volume: "ga49_2022"
+    pdf_page: 632
+    url: "https://www.pcahistory.org/pca/ga/49th_pcaga_2022.pdf#page=632"
+  - type: "minutes"
+    source_id: "minutes:ga50_2023"
+    label: "Minutes PDF · p. 717"
+    file: "50th_pcaga_2023.pdf"
+    volume: "ga50_2023"
+    pdf_page: 717
+    url: "https://www.pcahistory.org/pca/ga/50th_pcaga_2023.pdf#page=717"
+---
 # Warrior Presbytery — BCO 21-4.e, RAO 16-3.e.5
 
 *Stated differences not judged with the prescribed…*

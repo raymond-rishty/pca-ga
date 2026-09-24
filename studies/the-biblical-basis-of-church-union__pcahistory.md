@@ -1,3 +1,18 @@
+---
+source_links:
+  - type: "dedicated"
+    source_id: "study-pdf:2-146"
+    label: "Dedicated source PDF"
+    file: "2-146.pdf"
+    url: "https://www.pcahistory.org/pca/digest/studies/2-146.pdf"
+  - type: "minutes"
+    source_id: "minutes:ga06_1978"
+    label: "Minutes PDF · p. 87"
+    file: "6th_pcaga_1978.pdf"
+    volume: "ga06_1978"
+    pdf_page: 87
+    url: "https://www.pcahistory.org/pca/ga/6th_pcaga_1978.pdf#page=87"
+---
 # the Biblical Basis of Church Union
 
 *Report of the Ad-Interim Committee to Study the Biblical Basis of Church Union*

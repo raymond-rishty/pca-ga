@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga24_1996"
+    label: "Minutes PDF · p. 262"
+    file: "24th_pcaga_1996.pdf"
+    volume: "ga24_1996"
+    pdf_page: 262
+    url: "https://www.pcahistory.org/pca/ga/24th_pcaga_1996.pdf#page=262"
+---
 # Southeast Louisiana Presbytery — BCO 19-7
 
 *There is no record that candidate for ordination met the internship…*

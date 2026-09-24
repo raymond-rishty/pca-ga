@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga52_2025"
+    label: "Minutes PDF · p. 786"
+    file: "52nd_pcaga_2025.pdf"
+    volume: "ga52_2025"
+    pdf_page: 786
+    url: "https://www.pcahistory.org/pca/ga/52nd_pcaga_2025.pdf#page=786"
+---
 # Wisconsin Presbytery — BCO 18-2
 
 *No record of sixmonths membership of…*

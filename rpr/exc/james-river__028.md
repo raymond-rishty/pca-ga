@@ -1,3 +1,20 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga36_2008"
+    label: "Minutes PDF · p. 231"
+    file: "36th_pcaga_2008.pdf"
+    volume: "ga36_2008"
+    pdf_page: 231
+    url: "https://www.pcahistory.org/pca/ga/36th_pcaga_2008.pdf#page=231"
+  - type: "minutes"
+    source_id: "minutes:ga37_2009"
+    label: "Minutes PDF · p. 101"
+    file: "37th_pcaga_2009.pdf"
+    volume: "ga37_2009"
+    pdf_page: 101
+    url: "https://www.pcahistory.org/pca/ga/37th_pcaga_2009.pdf#page=101"
+---
 # James River Presbytery — BCO 21-10
 
 *BCO 21-10. Commission report does not include congregational/sessional…*

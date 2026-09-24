@@ -1,3 +1,20 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga39_2011"
+    label: "Minutes PDF · p. 450"
+    file: "39th_pcaga_2011.pdf"
+    volume: "ga39_2011"
+    pdf_page: 450
+    url: "https://www.pcahistory.org/pca/ga/39th_pcaga_2011.pdf#page=450"
+  - type: "minutes"
+    source_id: "minutes:ga40_2012"
+    label: "Minutes PDF · p. 423"
+    file: "40th_pcaga_2012.pdf"
+    volume: "ga40_2012"
+    pdf_page: 423
+    url: "https://www.pcahistory.org/pca/ga/40th_pcaga_2012.pdf#page=423"
+---
 # Georgia Foothills Presbytery — BCO 13-9.b
 
 *No record of session minutes being…*

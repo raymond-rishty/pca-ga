@@ -1,3 +1,18 @@
+---
+source_links:
+  - type: "dedicated"
+    source_id: "study-pdf:3-465"
+    label: "Dedicated source PDF"
+    file: "3-465.pdf"
+    url: "https://www.pcahistory.org/pca/digest/studies/3-465.pdf"
+  - type: "minutes"
+    source_id: "minutes:ga22_1994"
+    label: "Minutes PDF · p. 261"
+    file: "22nd_pcaga_1994.pdf"
+    volume: "ga22_1994"
+    pdf_page: 261
+    url: "https://www.pcahistory.org/pca/ga/22nd_pcaga_1994.pdf#page=261"
+---
 # The Relationship of Agencies to the General Assembly, Presbyterian Church in America
 
 *The Relationship of Agencies to the General Assembly, Presbyterian Church in America*

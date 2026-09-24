@@ -1,3 +1,20 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga31_2003"
+    label: "Minutes PDF · p. 244"
+    file: "31st_pcaga_2003.pdf"
+    volume: "ga31_2003"
+    pdf_page: 244
+    url: "https://www.pcahistory.org/pca/ga/31st_pcaga_2003.pdf#page=244"
+  - type: "minutes"
+    source_id: "minutes:ga32_2004"
+    label: "Minutes PDF · p. 228"
+    file: "32nd_pcaga_2004.pdf"
+    volume: "ga32_2004"
+    pdf_page: 228
+    url: "https://www.pcahistory.org/pca/ga/32nd_pcaga_2004.pdf#page=228"
+---
 # North Georgia Presbytery — BCO 23-1
 
 *No record of congregational concurrence with dissolution of pastoral…*

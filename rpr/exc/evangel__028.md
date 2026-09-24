@@ -1,3 +1,20 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga32_2004"
+    label: "Minutes PDF · p. 211"
+    file: "32nd_pcaga_2004.pdf"
+    volume: "ga32_2004"
+    pdf_page: 211
+    url: "https://www.pcahistory.org/pca/ga/32nd_pcaga_2004.pdf#page=211"
+  - type: "minutes"
+    source_id: "minutes:ga34_2006"
+    label: "Minutes PDF · p. 253"
+    file: "34th_pcaga_2006.pdf"
+    volume: "ga34_2006"
+    pdf_page: 253
+    url: "https://www.pcahistory.org/pca/ga/34th_pcaga_2006.pdf#page=253"
+---
 # Evangel Presbytery — RAO 14-4.c.1
 
 *General: No directory or roll of presbytery included. RAO…*

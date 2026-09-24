@@ -1,6 +1,6 @@
-# WCF 8-5
+# WCF 8.5
 
-*All PCA authorities bearing on **WCF 8-5**.*
+*All PCA authorities bearing on **WCF 8.5**.*
 
 ## High authority
 

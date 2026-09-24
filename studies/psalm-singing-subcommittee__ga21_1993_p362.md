@@ -1,3 +1,20 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga21_1993"
+    label: "Minutes PDF · p. 364"
+    file: "21st_pcaga_1993.pdf"
+    volume: "ga21_1993"
+    pdf_page: 364
+    url: "https://www.pcahistory.org/pca/ga/21st_pcaga_1993.pdf#page=364"
+  - type: "minutes"
+    source_id: "minutes:ga21_1993"
+    label: "Minutes PDF · p. 368"
+    file: "21st_pcaga_1993.pdf"
+    volume: "ga21_1993"
+    pdf_page: 368
+    url: "https://www.pcahistory.org/pca/ga/21st_pcaga_1993.pdf#page=368"
+---
 # 'Psalm Singing' Subcommittee
 
 *Report of the 'Psalm Singing' Subcommittee*

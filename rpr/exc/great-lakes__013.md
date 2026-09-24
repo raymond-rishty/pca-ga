@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga23_1995"
+    label: "Minutes PDF · p. 190"
+    file: "23rd_pcaga_1995.pdf"
+    volume: "ga23_1995"
+    pdf_page: 190
+    url: "https://www.pcahistory.org/pca/ga/23rd_pcaga_1995.pdf#page=190"
+---
 # Great Lakes Presbytery — BCO 20-
 
 *p 10, 13.d: Presbytery must make a record of why it considers the non-PCA work…*

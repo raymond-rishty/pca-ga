@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga51_2024"
+    label: "Minutes PDF · p. 545"
+    file: "51st_pcaga_2024.pdf"
+    volume: "ga51_2024"
+    pdf_page: 545
+    url: "https://www.pcahistory.org/pca/ga/51st_pcaga_2024.pdf#page=545"
+---
 # Korean Central Presbytery — BCO 24-1
 
 *Agenda item 10 indicates that the presbytery voted to add 2 new ruling elders…*

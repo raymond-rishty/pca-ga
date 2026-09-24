@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga30_2002"
+    label: "Minutes PDF · p. 332"
+    file: "30th_pcaga_2002.pdf"
+    volume: "ga30_2002"
+    pdf_page: 332
+    url: "https://www.pcahistory.org/pca/ga/30th_pcaga_2002.pdf#page=332"
+---
 # Pacific Presbytery — BCO 13-6, RAO 14-3.e.5
 
 *Incomplete record of exam elements for TE transfer. BCO 13-6; 21-4; RAO…*

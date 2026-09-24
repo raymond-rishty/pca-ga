@@ -1,3 +1,27 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga03_1975"
+    label: "Minutes PDF · p. 205"
+    file: "3rd_pcaga_1975.pdf"
+    volume: "ga03_1975"
+    pdf_page: 205
+    url: "https://www.pcahistory.org/pca/ga/3rd_pcaga_1975.pdf#page=205"
+  - type: "minutes"
+    source_id: "minutes:ga03_1975"
+    label: "Minutes PDF · p. 210"
+    file: "3rd_pcaga_1975.pdf"
+    volume: "ga03_1975"
+    pdf_page: 210
+    url: "https://www.pcahistory.org/pca/ga/3rd_pcaga_1975.pdf#page=210"
+  - type: "minutes"
+    source_id: "minutes:ga03_1975"
+    label: "Minutes PDF · p. 215"
+    file: "3rd_pcaga_1975.pdf"
+    volume: "ga03_1975"
+    pdf_page: 215
+    url: "https://www.pcahistory.org/pca/ga/3rd_pcaga_1975.pdf#page=215"
+---
 # THE NUMBER OF OFFICES IN THE CHURCH
 
 *REPORT OF THE AD INTERIM COMMITTEE TO STUDY THE QUESTION OF THE NUMBER OF OFFICES IN THE CHURCH*

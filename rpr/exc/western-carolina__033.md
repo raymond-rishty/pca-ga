@@ -1,3 +1,20 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga44_2016"
+    label: "Minutes PDF · p. 457"
+    file: "44th_pcaga_2016.pdf"
+    volume: "ga44_2016"
+    pdf_page: 457
+    url: "https://www.pcahistory.org/pca/ga/44th_pcaga_2016.pdf#page=457"
+  - type: "minutes"
+    source_id: "minutes:ga45_2017"
+    label: "Minutes PDF · p. 429"
+    file: "45th_pcaga_2017.pdf"
+    volume: "ga45_2017"
+    pdf_page: 429
+    url: "https://www.pcahistory.org/pca/ga/45th_pcaga_2017.pdf#page=429"
+---
 # Western Carolina Presbytery — BCO 24-1
 
 *( BCO 24-1; 12-3; BCO Preliminary Principle 6) – Presbytery approved a…*

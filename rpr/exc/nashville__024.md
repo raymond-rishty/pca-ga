@@ -1,3 +1,20 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga32_2004"
+    label: "Minutes PDF · p. 225"
+    file: "32nd_pcaga_2004.pdf"
+    volume: "ga32_2004"
+    pdf_page: 225
+    url: "https://www.pcahistory.org/pca/ga/32nd_pcaga_2004.pdf#page=225"
+  - type: "minutes"
+    source_id: "minutes:ga33_2005"
+    label: "Minutes PDF · p. 294"
+    file: "33rd_pcaga_2005.pdf"
+    volume: "ga33_2005"
+    pdf_page: 294
+    url: "https://www.pcahistory.org/pca/ga/33rd_pcaga_2005.pdf#page=294"
+---
 # Nashville Presbytery — BCO 34-10
 
 *May 10, 2003: TE divested without evidence of letters required. TE was not…*

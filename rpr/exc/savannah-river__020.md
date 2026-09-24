@@ -1,3 +1,20 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga48_2021"
+    label: "Minutes PDF · p. 631"
+    file: "48th_pcaga_2021.pdf"
+    volume: "ga48_2021"
+    pdf_page: 631
+    url: "https://www.pcahistory.org/pca/ga/48th_pcaga_2021.pdf#page=631"
+  - type: "minutes"
+    source_id: "minutes:ga49_2022"
+    label: "Minutes PDF · p. 616"
+    file: "49th_pcaga_2022.pdf"
+    volume: "ga49_2022"
+    pdf_page: 616
+    url: "https://www.pcahistory.org/pca/ga/49th_pcaga_2022.pdf#page=616"
+---
 # Savannah River Presbytery — BCO 42-4
 
 *No record of the court’s action regarding a timely filed…*

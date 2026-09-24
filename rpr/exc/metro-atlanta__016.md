@@ -1,3 +1,27 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga37_2009"
+    label: "Minutes PDF · p. 107"
+    file: "37th_pcaga_2009.pdf"
+    volume: "ga37_2009"
+    pdf_page: 107
+    url: "https://www.pcahistory.org/pca/ga/37th_pcaga_2009.pdf#page=107"
+  - type: "minutes"
+    source_id: "minutes:ga38_2010"
+    label: "Minutes PDF · p. 100"
+    file: "38th_pcaga_2010.pdf"
+    volume: "ga38_2010"
+    pdf_page: 100
+    url: "https://www.pcahistory.org/pca/ga/38th_pcaga_2010.pdf#page=100"
+  - type: "minutes"
+    source_id: "minutes:ga39_2011"
+    label: "Minutes PDF · p. 463"
+    file: "39th_pcaga_2011.pdf"
+    volume: "ga39_2011"
+    pdf_page: 463
+    url: "https://www.pcahistory.org/pca/ga/39th_pcaga_2011.pdf#page=463"
+---
 # Metro Atlanta Presbytery — BCO 21-9
 
 *Two TEs transferred into presbytery, calls approved, but explicit note that no…*

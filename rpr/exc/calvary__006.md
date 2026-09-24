@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga19_1991"
+    label: "Minutes PDF · p. 179"
+    file: "19th_pcaga_1991.pdf"
+    volume: "ga19_1991"
+    pdf_page: 179
+    url: "https://www.pcahistory.org/pca/ga/19th_pcaga_1991.pdf#page=179"
+---
 # Calvary Presbytery — exception of substance
 
 *p. 12 1,2,3,4 Appendix D1 gives no details - when the Committee met as a…*

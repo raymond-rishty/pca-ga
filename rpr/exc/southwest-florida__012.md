@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga23_1995"
+    label: "Minutes PDF · p. 208"
+    file: "23rd_pcaga_1995.pdf"
+    volume: "ga23_1995"
+    pdf_page: 208
+    url: "https://www.pcahistory.org/pca/ga/23rd_pcaga_1995.pdf#page=208"
+---
 # Southwest Florida Presbytery — BCO 8-6
 
 *p 4, 3b & 2c: Some powers of evangelist are given in TE's Call, but he is not…*

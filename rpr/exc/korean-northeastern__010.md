@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga44_2016"
+    label: "Minutes PDF · p. 420"
+    file: "44th_pcaga_2016.pdf"
+    volume: "ga44_2016"
+    pdf_page: 420
+    url: "https://www.pcahistory.org/pca/ga/44th_pcaga_2016.pdf#page=420"
+---
 # Korean Northeastern Presbytery — BCO 21-4
 
 *– All specific requirements of ordination exam not…*

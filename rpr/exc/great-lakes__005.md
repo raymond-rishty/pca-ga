@@ -1,3 +1,27 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga22_1994"
+    label: "Minutes PDF · p. 291"
+    file: "22nd_pcaga_1994.pdf"
+    volume: "ga22_1994"
+    pdf_page: 291
+    url: "https://www.pcahistory.org/pca/ga/22nd_pcaga_1994.pdf#page=291"
+  - type: "minutes"
+    source_id: "minutes:ga33_2005"
+    label: "Minutes PDF · p. 276"
+    file: "33rd_pcaga_2005.pdf"
+    volume: "ga33_2005"
+    pdf_page: 276
+    url: "https://www.pcahistory.org/pca/ga/33rd_pcaga_2005.pdf#page=276"
+  - type: "minutes"
+    source_id: "minutes:ga34_2006"
+    label: "Minutes PDF · p. 254"
+    file: "34th_pcaga_2006.pdf"
+    volume: "ga34_2006"
+    pdf_page: 254
+    url: "https://www.pcahistory.org/pca/ga/34th_pcaga_2006.pdf#page=254"
+---
 # Great Lakes Presbytery — BCO 8-7
 
 *No record of required reports by candidates, interns, and TE’s laboring out of…*

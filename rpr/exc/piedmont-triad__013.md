@@ -1,3 +1,20 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga49_2022"
+    label: "Minutes PDF · p. 609"
+    file: "49th_pcaga_2022.pdf"
+    volume: "ga49_2022"
+    pdf_page: 609
+    url: "https://www.pcahistory.org/pca/ga/49th_pcaga_2022.pdf#page=609"
+  - type: "minutes"
+    source_id: "minutes:ga50_2023"
+    label: "Minutes PDF · p. 687"
+    file: "50th_pcaga_2023.pdf"
+    volume: "ga50_2023"
+    pdf_page: 687
+    url: "https://www.pcahistory.org/pca/ga/50th_pcaga_2023.pdf#page=687"
+---
 # Piedmont Triad Presbytery — BCO 34-10
 
 *no record of why a minister was…*

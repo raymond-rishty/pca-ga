@@ -1,3 +1,20 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga51_2024"
+    label: "Minutes PDF · p. 591"
+    file: "51st_pcaga_2024.pdf"
+    volume: "ga51_2024"
+    pdf_page: 591
+    url: "https://www.pcahistory.org/pca/ga/51st_pcaga_2024.pdf#page=591"
+  - type: "minutes"
+    source_id: "minutes:ga52_2025"
+    label: "Minutes PDF · p. 633"
+    file: "52nd_pcaga_2025.pdf"
+    volume: "ga52_2025"
+    pdf_page: 633
+    url: "https://www.pcahistory.org/pca/ga/52nd_pcaga_2025.pdf#page=633"
+---
 # Missouri Presbytery — BCO 20-3, BCO 20-6, BCO 22-2
 
 *No record of vote from congregation calling pastor or record of 4/5 majority…*

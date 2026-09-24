@@ -1,3 +1,20 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga39_2011"
+    label: "Minutes PDF · p. 447"
+    file: "39th_pcaga_2011.pdf"
+    volume: "ga39_2011"
+    pdf_page: 447
+    url: "https://www.pcahistory.org/pca/ga/39th_pcaga_2011.pdf#page=447"
+  - type: "minutes"
+    source_id: "minutes:ga40_2012"
+    label: "Minutes PDF · p. 419"
+    file: "40th_pcaga_2012.pdf"
+    volume: "ga40_2012"
+    pdf_page: 419
+    url: "https://www.pcahistory.org/pca/ga/40th_pcaga_2012.pdf#page=419"
+---
 # Eastern Canada Presbytery — BCO 21-4
 
 *All specific requirements for ordination not…*

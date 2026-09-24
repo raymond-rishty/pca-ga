@@ -1,3 +1,20 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga30_2002"
+    label: "Minutes PDF · p. 311"
+    file: "30th_pcaga_2002.pdf"
+    volume: "ga30_2002"
+    pdf_page: 311
+    url: "https://www.pcahistory.org/pca/ga/30th_pcaga_2002.pdf#page=311"
+  - type: "minutes"
+    source_id: "minutes:ga31_2003"
+    label: "Minutes PDF · p. 223"
+    file: "31st_pcaga_2003.pdf"
+    volume: "ga31_2003"
+    pdf_page: 223
+    url: "https://www.pcahistory.org/pca/ga/31st_pcaga_2003.pdf#page=223"
+---
 # Evangel Presbytery — BCO 20-1
 
 *: No record of call included in minutes after approved ordination exam. BCO…*

@@ -1,3 +1,20 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga33_2005"
+    label: "Minutes PDF · p. 298"
+    file: "33rd_pcaga_2005.pdf"
+    volume: "ga33_2005"
+    pdf_page: 298
+    url: "https://www.pcahistory.org/pca/ga/33rd_pcaga_2005.pdf#page=298"
+  - type: "minutes"
+    source_id: "minutes:ga34_2006"
+    label: "Minutes PDF · p. 282"
+    file: "34th_pcaga_2006.pdf"
+    volume: "ga34_2006"
+    pdf_page: 282
+    url: "https://www.pcahistory.org/pca/ga/34th_pcaga_2006.pdf#page=282"
+---
 # North Texas Presbytery — exception of substance
 
 *Presbytery examined a candidate for coming under care but recorded no outcome…*

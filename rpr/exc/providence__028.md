@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga46_2018"
+    label: "Minutes PDF · p. 448"
+    file: "46th_pcaga_2018.pdf"
+    volume: "ga46_2018"
+    pdf_page: 448
+    url: "https://www.pcahistory.org/pca/ga/46th_pcaga_2018.pdf#page=448"
+---
 # Providence Presbytery — BCO 13-11
 
 *Minutes of executive session not…*

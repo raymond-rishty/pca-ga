@@ -1,3 +1,20 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga14_1986"
+    label: "Minutes PDF · p. 442"
+    file: "14th_pcaga_1986.pdf"
+    volume: "ga14_1986"
+    pdf_page: 442
+    url: "https://www.pcahistory.org/pca/ga/14th_pcaga_1986.pdf#page=442"
+  - type: "minutes"
+    source_id: "minutes:ga14_1986"
+    label: "Minutes PDF · p. 444"
+    file: "14th_pcaga_1986.pdf"
+    volume: "ga14_1986"
+    pdf_page: 444
+    url: "https://www.pcahistory.org/pca/ga/14th_pcaga_1986.pdf#page=444"
+---
 # Proposals for Restructuring the Judicial Business of the General Assembly
 
 *Proposals for Restructuring the Judicial Business of the General Assembly*

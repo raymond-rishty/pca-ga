@@ -1,3 +1,20 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga19_1991"
+    label: "Minutes PDF · p. 186"
+    file: "19th_pcaga_1991.pdf"
+    volume: "ga19_1991"
+    pdf_page: 186
+    url: "https://www.pcahistory.org/pca/ga/19th_pcaga_1991.pdf#page=186"
+  - type: "minutes"
+    source_id: "minutes:ga27_1999"
+    label: "Minutes PDF · p. 204"
+    file: "27th_pcaga_1999.pdf"
+    volume: "ga27_1999"
+    pdf_page: 204
+    url: "https://www.pcahistory.org/pca/ga/27th_pcaga_1999.pdf#page=204"
+---
 # Pacific Presbytery — exception of substance
 
 *No 1997 minutes…*

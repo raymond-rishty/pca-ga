@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga25_1997"
+    label: "Minutes PDF · p. 214"
+    file: "25th_pcaga_1997.pdf"
+    volume: "ga25_1997"
+    pdf_page: 214
+    url: "https://www.pcahistory.org/pca/ga/25th_pcaga_1997.pdf#page=214"
+---
 # Northern California Presbytery — exception of substance
 
 *Presbytery approved the ordination of candidate whose views of Sabbath…*

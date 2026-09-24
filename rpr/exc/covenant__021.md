@@ -1,3 +1,20 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga40_2012"
+    label: "Minutes PDF · p. 419"
+    file: "40th_pcaga_2012.pdf"
+    volume: "ga40_2012"
+    pdf_page: 419
+    url: "https://www.pcahistory.org/pca/ga/40th_pcaga_2012.pdf#page=419"
+  - type: "minutes"
+    source_id: "minutes:ga41_2013"
+    label: "Minutes PDF · p. 424"
+    file: "41st_pcaga_2013.pdf"
+    volume: "ga41_2013"
+    pdf_page: 424
+    url: "https://www.pcahistory.org/pca/ga/41st_pcaga_2013.pdf#page=424"
+---
 # Covenant Presbytery — BCO 21-4.c
 
 *No record of examination in PCA…*

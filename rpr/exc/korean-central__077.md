@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga44_2016"
+    label: "Minutes PDF · p. 416"
+    file: "44th_pcaga_2016.pdf"
+    volume: "ga44_2016"
+    pdf_page: 416
+    url: "https://www.pcahistory.org/pca/ga/44th_pcaga_2016.pdf#page=416"
+---
 # Korean Central Presbytery — RAO 163.e.5
 
 *Stated differences not judged with the prescribed RAO…*

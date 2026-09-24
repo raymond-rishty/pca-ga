@@ -1,3 +1,27 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga49_2022"
+    label: "Minutes PDF · p. 564"
+    file: "49th_pcaga_2022.pdf"
+    volume: "ga49_2022"
+    pdf_page: 564
+    url: "https://www.pcahistory.org/pca/ga/49th_pcaga_2022.pdf#page=564"
+  - type: "minutes"
+    source_id: "minutes:ga50_2023"
+    label: "Minutes PDF · p. 632"
+    file: "50th_pcaga_2023.pdf"
+    volume: "ga50_2023"
+    pdf_page: 632
+    url: "https://www.pcahistory.org/pca/ga/50th_pcaga_2023.pdf#page=632"
+  - type: "minutes"
+    source_id: "minutes:ga50_2023"
+    label: "Minutes PDF · p. 634"
+    file: "50th_pcaga_2023.pdf"
+    volume: "ga50_2023"
+    pdf_page: 634
+    url: "https://www.pcahistory.org/pca/ga/50th_pcaga_2023.pdf#page=634"
+---
 # Korean Southwest Presbytery — BCO 15-1, RAO 16-3.e.4
 
 *Minutes of commission not entered in Presbytery…*

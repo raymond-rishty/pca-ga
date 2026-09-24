@@ -1,3 +1,27 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga34_2006"
+    label: "Minutes PDF · p. 295"
+    file: "34th_pcaga_2006.pdf"
+    volume: "ga34_2006"
+    pdf_page: 295
+    url: "https://www.pcahistory.org/pca/ga/34th_pcaga_2006.pdf#page=295"
+  - type: "minutes"
+    source_id: "minutes:ga35_2007"
+    label: "Minutes PDF · p. 213"
+    file: "35th_pcaga_2007.pdf"
+    volume: "ga35_2007"
+    pdf_page: 213
+    url: "https://www.pcahistory.org/pca/ga/35th_pcaga_2007.pdf#page=213"
+  - type: "minutes"
+    source_id: "minutes:ga36_2008"
+    label: "Minutes PDF · p. 263"
+    file: "36th_pcaga_2008.pdf"
+    volume: "ga36_2008"
+    pdf_page: 263
+    url: "https://www.pcahistory.org/pca/ga/36th_pcaga_2008.pdf#page=263"
+---
 # Savannah River Presbytery — BCO 13-11
 
 *May 17, 2005 : Complete call not provided. BCO 13-11 Response : The complete…*

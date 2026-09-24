@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga36_2008"
+    label: "Minutes PDF · p. 237"
+    file: "36th_pcaga_2008.pdf"
+    volume: "ga36_2008"
+    pdf_page: 237
+    url: "https://www.pcahistory.org/pca/ga/36th_pcaga_2008.pdf#page=237"
+---
 # Louisiana Presbytery — BCO 139.b
 
 *BCO 139.b. No records of review of session…*

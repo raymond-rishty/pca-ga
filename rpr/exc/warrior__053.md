@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga42_2014"
+    label: "Minutes PDF · p. 461"
+    file: "42nd_pcaga_2014.pdf"
+    volume: "ga42_2014"
+    pdf_page: 461
+    url: "https://www.pcahistory.org/pca/ga/42nd_pcaga_2014.pdf#page=461"
+---
 # Warrior Presbytery — BCO 13-11, BCO 15-1
 
 *Commission was dissolved, but their report is not approved nor included in the…*

@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga46_2018"
+    label: "Minutes PDF · p. 369"
+    file: "46th_pcaga_2018.pdf"
+    volume: "ga46_2018"
+    pdf_page: 369
+    url: "https://www.pcahistory.org/pca/ga/46th_pcaga_2018.pdf#page=369"
+---
 # Calvary Presbytery — exception of substance
 
 *The resulting prohibition whereby a TE was prevented from teaching his…*

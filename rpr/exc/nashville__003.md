@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga27_1999"
+    label: "Minutes PDF · p. 201"
+    file: "27th_pcaga_1999.pdf"
+    volume: "ga27_1999"
+    pdf_page: 201
+    url: "https://www.pcahistory.org/pca/ga/27th_pcaga_1999.pdf#page=201"
+---
 # Nashville Presbytery — exception of substance
 
 *General; Standing rules on session records should comply with BOC…*

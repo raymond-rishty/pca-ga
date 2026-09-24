@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga27_1999"
+    label: "Minutes PDF · p. 204"
+    file: "27th_pcaga_1999.pdf"
+    volume: "ga27_1999"
+    pdf_page: 204
+    url: "https://www.pcahistory.org/pca/ga/27th_pcaga_1999.pdf#page=204"
+---
 # Northern California Presbytery — exception of substance
 
 *February 11, 1998; Presbytery erred in receiving a candidate who is not a…*

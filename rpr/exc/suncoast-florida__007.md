@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga35_2007"
+    label: "Minutes PDF · p. 222"
+    file: "35th_pcaga_2007.pdf"
+    volume: "ga35_2007"
+    pdf_page: 222
+    url: "https://www.pcahistory.org/pca/ga/35th_pcaga_2007.pdf#page=222"
+---
 # Suncoast Florida Presbytery — RAO 14-03.c.1
 
 *The call for the meeting is not recorded verbatim in the minutes. This is…*

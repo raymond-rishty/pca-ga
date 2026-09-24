@@ -1,3 +1,27 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga43_2015"
+    label: "Minutes PDF · p. 460"
+    file: "43rd_pcaga_2015.pdf"
+    volume: "ga43_2015"
+    pdf_page: 460
+    url: "https://www.pcahistory.org/pca/ga/43rd_pcaga_2015.pdf#page=460"
+  - type: "minutes"
+    source_id: "minutes:ga44_2016"
+    label: "Minutes PDF · p. 432"
+    file: "44th_pcaga_2016.pdf"
+    volume: "ga44_2016"
+    pdf_page: 432
+    url: "https://www.pcahistory.org/pca/ga/44th_pcaga_2016.pdf#page=432"
+  - type: "minutes"
+    source_id: "minutes:ga45_2017"
+    label: "Minutes PDF · p. 406"
+    file: "45th_pcaga_2017.pdf"
+    volume: "ga45_2017"
+    pdf_page: 406
+    url: "https://www.pcahistory.org/pca/ga/45th_pcaga_2017.pdf#page=406"
+---
 # Northern California Presbytery — BCO 15-1
 
 *Minutes of commission not entered in presbytery minutes. Response to 44 [th]…*

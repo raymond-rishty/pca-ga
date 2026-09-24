@@ -1,3 +1,20 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga35_2007"
+    label: "Minutes PDF · p. 189"
+    file: "35th_pcaga_2007.pdf"
+    volume: "ga35_2007"
+    pdf_page: 189
+    url: "https://www.pcahistory.org/pca/ga/35th_pcaga_2007.pdf#page=189"
+  - type: "minutes"
+    source_id: "minutes:ga36_2008"
+    label: "Minutes PDF · p. 231"
+    file: "36th_pcaga_2008.pdf"
+    volume: "ga36_2008"
+    pdf_page: 231
+    url: "https://www.pcahistory.org/pca/ga/36th_pcaga_2008.pdf#page=231"
+---
 # Illiana Presbytery — RAO 16-3.e.5
 
 *: No action taken on exceptions to Westminster Standards. RAO…*

@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga31_2003"
+    label: "Minutes PDF · p. 223"
+    file: "31st_pcaga_2003.pdf"
+    volume: "ga31_2003"
+    pdf_page: 223
+    url: "https://www.pcahistory.org/pca/ga/31st_pcaga_2003.pdf#page=223"
+---
 # Evangel Presbytery — BCO 21-4
 
 *No record of ordination exam elements. “RAO” 14-3e.5 BCO…*

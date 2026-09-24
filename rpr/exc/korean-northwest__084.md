@@ -1,3 +1,20 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga49_2022"
+    label: "Minutes PDF · p. 558"
+    file: "49th_pcaga_2022.pdf"
+    volume: "ga49_2022"
+    pdf_page: 558
+    url: "https://www.pcahistory.org/pca/ga/49th_pcaga_2022.pdf#page=558"
+  - type: "minutes"
+    source_id: "minutes:ga50_2023"
+    label: "Minutes PDF · p. 624"
+    file: "50th_pcaga_2023.pdf"
+    volume: "ga50_2023"
+    pdf_page: 624
+    url: "https://www.pcahistory.org/pca/ga/50th_pcaga_2023.pdf#page=624"
+---
 # Korean Northwest Presbytery — BCO 20-1
 
 *no record of a call to a definite work for ministers transferring from another…*

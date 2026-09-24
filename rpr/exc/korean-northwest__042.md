@@ -1,3 +1,20 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga43_2015"
+    label: "Minutes PDF · p. 451"
+    file: "43rd_pcaga_2015.pdf"
+    volume: "ga43_2015"
+    pdf_page: 451
+    url: "https://www.pcahistory.org/pca/ga/43rd_pcaga_2015.pdf#page=451"
+  - type: "minutes"
+    source_id: "minutes:ga44_2016"
+    label: "Minutes PDF · p. 421"
+    file: "44th_pcaga_2016.pdf"
+    volume: "ga44_2016"
+    pdf_page: 421
+    url: "https://www.pcahistory.org/pca/ga/44th_pcaga_2016.pdf#page=421"
+---
 # Korean Northwest Presbytery — BCO 13-9.6
 
 *No record of review of session…*

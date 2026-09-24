@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga18_1990"
+    label: "Minutes PDF · p. 181"
+    file: "18th_pcaga_1990.pdf"
+    volume: "ga18_1990"
+    pdf_page: 181
+    url: "https://www.pcahistory.org/pca/ga/18th_pcaga_1990.pdf#page=181"
+---
 # Evangel Presbytery — BCO 38-2
 
 *Page 14.10: Removal of TE from roll of Presbytery - The requirements of…*

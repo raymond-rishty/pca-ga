@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga22_1994"
+    label: "Minutes PDF · p. 291"
+    file: "22nd_pcaga_1994.pdf"
+    volume: "ga22_1994"
+    pdf_page: 291
+    url: "https://www.pcahistory.org/pca/ga/22nd_pcaga_1994.pdf#page=291"
+---
 # Great Lakes Presbytery — BCO 38-2
 
 *p.14: The request to divest a minister without censure was handled at die…*

@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga24_1996"
+    label: "Minutes PDF · p. 245"
+    file: "24th_pcaga_1996.pdf"
+    volume: "ga24_1996"
+    pdf_page: 245
+    url: "https://www.pcahistory.org/pca/ga/24th_pcaga_1996.pdf#page=245"
+---
 # Calvary Presbytery — RAO 14-10
 
 *There is no evidence that the TE was a member of this presbytery (RAO 14-10…*

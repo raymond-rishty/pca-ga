@@ -1,3 +1,27 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga28_2000"
+    label: "Minutes PDF · p. 329"
+    file: "28th_pcaga_2000.pdf"
+    volume: "ga28_2000"
+    pdf_page: 329
+    url: "https://www.pcahistory.org/pca/ga/28th_pcaga_2000.pdf#page=329"
+  - type: "minutes"
+    source_id: "minutes:ga42_2014"
+    label: "Minutes PDF · p. 424"
+    file: "42nd_pcaga_2014.pdf"
+    volume: "ga42_2014"
+    pdf_page: 424
+    url: "https://www.pcahistory.org/pca/ga/42nd_pcaga_2014.pdf#page=424"
+  - type: "minutes"
+    source_id: "minutes:ga43_2015"
+    label: "Minutes PDF · p. 453"
+    file: "43rd_pcaga_2015.pdf"
+    volume: "ga43_2015"
+    pdf_page: 453
+    url: "https://www.pcahistory.org/pca/ga/43rd_pcaga_2015.pdf#page=453"
+---
 # Korean Southern Presbytery — BCO 13-12
 
 *Presbytery did not meet at least twice per year BCO…*

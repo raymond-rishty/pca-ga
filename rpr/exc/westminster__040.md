@@ -1,3 +1,20 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga43_2015"
+    label: "Minutes PDF · p. 484"
+    file: "43rd_pcaga_2015.pdf"
+    volume: "ga43_2015"
+    pdf_page: 484
+    url: "https://www.pcahistory.org/pca/ga/43rd_pcaga_2015.pdf#page=484"
+  - type: "minutes"
+    source_id: "minutes:ga44_2016"
+    label: "Minutes PDF · p. 459"
+    file: "44th_pcaga_2016.pdf"
+    volume: "ga44_2016"
+    pdf_page: 459
+    url: "https://www.pcahistory.org/pca/ga/44th_pcaga_2016.pdf#page=459"
+---
 # Westminster Presbytery — BCO 34-10, BCO 46-8
 
 *Removed divestiture from a previous TE rather than followed ordination…*

@@ -1,3 +1,20 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga34_2006"
+    label: "Minutes PDF · p. 302"
+    file: "34th_pcaga_2006.pdf"
+    volume: "ga34_2006"
+    pdf_page: 302
+    url: "https://www.pcahistory.org/pca/ga/34th_pcaga_2006.pdf#page=302"
+  - type: "minutes"
+    source_id: "minutes:ga35_2007"
+    label: "Minutes PDF · p. 223"
+    file: "35th_pcaga_2007.pdf"
+    volume: "ga35_2007"
+    pdf_page: 223
+    url: "https://www.pcahistory.org/pca/ga/35th_pcaga_2007.pdf#page=223"
+---
 # Tennessee Valley Presbytery — BCO 23-1
 
 *April 16, 2005: No record of dissolution of pastoral relation or…*

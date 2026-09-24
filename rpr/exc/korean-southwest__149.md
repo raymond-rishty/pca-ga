@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga48_2021"
+    label: "Minutes PDF · p. 596"
+    file: "48th_pcaga_2021.pdf"
+    volume: "ga48_2021"
+    pdf_page: 596
+    url: "https://www.pcahistory.org/pca/ga/48th_pcaga_2021.pdf#page=596"
+---
 # Korean Southwest Presbytery — BCO 19-9, BCO 18
 
 *Incomplete record of internship. No record of session endorsement, six months…*

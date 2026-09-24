@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga47_2019"
+    label: "Minutes PDF · p. 503"
+    file: "47th_pcaga_2019.pdf"
+    volume: "ga47_2019"
+    pdf_page: 503
+    url: "https://www.pcahistory.org/pca/ga/47th_pcaga_2019.pdf#page=503"
+---
 # Rio Grande Presbytery — BCO 15-2
 
 *Installation commission did not have at least 2…*

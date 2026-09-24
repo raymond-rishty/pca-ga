@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga25_1997"
+    label: "Minutes PDF · p. 211"
+    file: "25th_pcaga_1997.pdf"
+    volume: "ga25_1997"
+    pdf_page: 211
+    url: "https://www.pcahistory.org/pca/ga/25th_pcaga_1997.pdf#page=211"
+---
 # Korean Southwest Presbytery — BCO 23-1), BCO 13-10)
 
 *October 10, 1995. (Item 1 and 2) No record of congregational meetings to…*

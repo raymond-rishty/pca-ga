@@ -1,3 +1,90 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga39_2011"
+    label: "Minutes PDF · p. 460"
+    file: "39th_pcaga_2011.pdf"
+    volume: "ga39_2011"
+    pdf_page: 460
+    url: "https://www.pcahistory.org/pca/ga/39th_pcaga_2011.pdf#page=460"
+  - type: "minutes"
+    source_id: "minutes:ga40_2012"
+    label: "Minutes PDF · p. 439"
+    file: "40th_pcaga_2012.pdf"
+    volume: "ga40_2012"
+    pdf_page: 439
+    url: "https://www.pcahistory.org/pca/ga/40th_pcaga_2012.pdf#page=439"
+  - type: "minutes"
+    source_id: "minutes:ga41_2013"
+    label: "Minutes PDF · p. 445"
+    file: "41st_pcaga_2013.pdf"
+    volume: "ga41_2013"
+    pdf_page: 445
+    url: "https://www.pcahistory.org/pca/ga/41st_pcaga_2013.pdf#page=445"
+  - type: "minutes"
+    source_id: "minutes:ga45_2017"
+    label: "Minutes PDF · p. 398"
+    file: "45th_pcaga_2017.pdf"
+    volume: "ga45_2017"
+    pdf_page: 398
+    url: "https://www.pcahistory.org/pca/ga/45th_pcaga_2017.pdf#page=398"
+  - type: "minutes"
+    source_id: "minutes:ga46_2018"
+    label: "Minutes PDF · p. 429"
+    file: "46th_pcaga_2018.pdf"
+    volume: "ga46_2018"
+    pdf_page: 429
+    url: "https://www.pcahistory.org/pca/ga/46th_pcaga_2018.pdf#page=429"
+  - type: "minutes"
+    source_id: "minutes:ga47_2019"
+    label: "Minutes PDF · p. 484"
+    file: "47th_pcaga_2019.pdf"
+    volume: "ga47_2019"
+    pdf_page: 484
+    url: "https://www.pcahistory.org/pca/ga/47th_pcaga_2019.pdf#page=484"
+  - type: "minutes"
+    source_id: "minutes:ga48_2021"
+    label: "Minutes PDF · p. 594"
+    file: "48th_pcaga_2021.pdf"
+    volume: "ga48_2021"
+    pdf_page: 594
+    url: "https://www.pcahistory.org/pca/ga/48th_pcaga_2021.pdf#page=594"
+  - type: "minutes"
+    source_id: "minutes:ga48_2021"
+    label: "Minutes PDF · p. 595"
+    file: "48th_pcaga_2021.pdf"
+    volume: "ga48_2021"
+    pdf_page: 595
+    url: "https://www.pcahistory.org/pca/ga/48th_pcaga_2021.pdf#page=595"
+  - type: "minutes"
+    source_id: "minutes:ga49_2022"
+    label: "Minutes PDF · p. 563"
+    file: "49th_pcaga_2022.pdf"
+    volume: "ga49_2022"
+    pdf_page: 563
+    url: "https://www.pcahistory.org/pca/ga/49th_pcaga_2022.pdf#page=563"
+  - type: "minutes"
+    source_id: "minutes:ga49_2022"
+    label: "Minutes PDF · p. 567"
+    file: "49th_pcaga_2022.pdf"
+    volume: "ga49_2022"
+    pdf_page: 567
+    url: "https://www.pcahistory.org/pca/ga/49th_pcaga_2022.pdf#page=567"
+  - type: "minutes"
+    source_id: "minutes:ga49_2022"
+    label: "Minutes PDF · p. 568"
+    file: "49th_pcaga_2022.pdf"
+    volume: "ga49_2022"
+    pdf_page: 568
+    url: "https://www.pcahistory.org/pca/ga/49th_pcaga_2022.pdf#page=568"
+  - type: "minutes"
+    source_id: "minutes:ga50_2023"
+    label: "Minutes PDF · p. 633"
+    file: "50th_pcaga_2023.pdf"
+    volume: "ga50_2023"
+    pdf_page: 633
+    url: "https://www.pcahistory.org/pca/ga/50th_pcaga_2023.pdf#page=633"
+---
 # Korean Southwest Presbytery — BCO 13-9.b
 
 *No record of review of records of church…*

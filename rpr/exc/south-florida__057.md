@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga49_2022"
+    label: "Minutes PDF · p. 621"
+    file: "49th_pcaga_2022.pdf"
+    volume: "ga49_2022"
+    pdf_page: 621
+    url: "https://www.pcahistory.org/pca/ga/49th_pcaga_2022.pdf#page=621"
+---
 # South Florida Presbytery — BCO 21-4
 
 *May 18, 2021; Aug 17, 2021 ( BCO 21-4; RAO 16-3.e.5) – All specific…*

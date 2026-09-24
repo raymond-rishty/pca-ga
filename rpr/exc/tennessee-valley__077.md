@@ -1,3 +1,20 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga51_2024"
+    label: "Minutes PDF · p. 690"
+    file: "51st_pcaga_2024.pdf"
+    volume: "ga51_2024"
+    pdf_page: 690
+    url: "https://www.pcahistory.org/pca/ga/51st_pcaga_2024.pdf#page=690"
+  - type: "minutes"
+    source_id: "minutes:ga52_2025"
+    label: "Minutes PDF · p. 777"
+    file: "52nd_pcaga_2025.pdf"
+    volume: "ga52_2025"
+    pdf_page: 777
+    url: "https://www.pcahistory.org/pca/ga/52nd_pcaga_2025.pdf#page=777"
+---
 # Tennessee Valley Presbytery — BCO 15-1
 
 *A commission dissolves men’s call, but no evidence of congregational (or…*

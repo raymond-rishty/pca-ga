@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga40_2012"
+    label: "Minutes PDF · p. 476"
+    file: "40th_pcaga_2012.pdf"
+    volume: "ga40_2012"
+    pdf_page: 476
+    url: "https://www.pcahistory.org/pca/ga/40th_pcaga_2012.pdf#page=476"
+---
 # Southwest Florida Presbytery — BCO 8-7
 
 *No annual report of TEs laboring out of…*

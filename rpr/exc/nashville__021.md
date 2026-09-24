@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga31_2003"
+    label: "Minutes PDF · p. 241"
+    file: "31st_pcaga_2003.pdf"
+    volume: "ga31_2003"
+    pdf_page: 241
+    url: "https://www.pcahistory.org/pca/ga/31st_pcaga_2003.pdf#page=241"
+---
 # Nashville Presbytery — BCO 87
 
 *No record of reports (2001 minutes) from men under care or men laboring out of…*

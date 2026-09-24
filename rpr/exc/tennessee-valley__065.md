@@ -1,3 +1,20 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga49_2022"
+    label: "Minutes PDF · p. 629"
+    file: "49th_pcaga_2022.pdf"
+    volume: "ga49_2022"
+    pdf_page: 629
+    url: "https://www.pcahistory.org/pca/ga/49th_pcaga_2022.pdf#page=629"
+  - type: "minutes"
+    source_id: "minutes:ga50_2023"
+    label: "Minutes PDF · p. 713"
+    file: "50th_pcaga_2023.pdf"
+    volume: "ga50_2023"
+    pdf_page: 713
+    url: "https://www.pcahistory.org/pca/ga/50th_pcaga_2023.pdf#page=713"
+---
 # Tennessee Valley Presbytery — BCO 15-1
 
 *An individual may not take an action on behalf of a court; a commission is…*

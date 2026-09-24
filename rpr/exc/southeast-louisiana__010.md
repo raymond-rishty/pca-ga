@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga37_2009"
+    label: "Minutes PDF · p. 123"
+    file: "37th_pcaga_2009.pdf"
+    volume: "ga37_2009"
+    pdf_page: 123
+    url: "https://www.pcahistory.org/pca/ga/37th_pcaga_2009.pdf#page=123"
+---
 # Southeast Louisiana Presbytery — BCO 21-4, RAO 16-3.e.5
 
 *BCO 21-4; RAO 16-3.e.5. Stated differences with our Standards not recorded in…*

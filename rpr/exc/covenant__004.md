@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga21_1993"
+    label: "Minutes PDF · p. 232"
+    file: "21st_pcaga_1993.pdf"
+    volume: "ga21_1993"
+    pdf_page: 232
+    url: "https://www.pcahistory.org/pca/ga/21st_pcaga_1993.pdf#page=232"
+---
 # Covenant Presbytery — BCO §23-1
 
 *p. 11: Presbytery dissolved the pastoral relationship with no evidence of…*

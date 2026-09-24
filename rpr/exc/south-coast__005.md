@@ -1,3 +1,62 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga31_2003"
+    label: "Minutes PDF · p. 252"
+    file: "31st_pcaga_2003.pdf"
+    volume: "ga31_2003"
+    pdf_page: 252
+    url: "https://www.pcahistory.org/pca/ga/31st_pcaga_2003.pdf#page=252"
+  - type: "minutes"
+    source_id: "minutes:ga32_2004"
+    label: "Minutes PDF · p. 238"
+    file: "32nd_pcaga_2004.pdf"
+    volume: "ga32_2004"
+    pdf_page: 238
+    url: "https://www.pcahistory.org/pca/ga/32nd_pcaga_2004.pdf#page=238"
+  - type: "minutes"
+    source_id: "minutes:ga36_2008"
+    label: "Minutes PDF · p. 264"
+    file: "36th_pcaga_2008.pdf"
+    volume: "ga36_2008"
+    pdf_page: 264
+    url: "https://www.pcahistory.org/pca/ga/36th_pcaga_2008.pdf#page=264"
+  - type: "minutes"
+    source_id: "minutes:ga37_2009"
+    label: "Minutes PDF · p. 120"
+    file: "37th_pcaga_2009.pdf"
+    volume: "ga37_2009"
+    pdf_page: 120
+    url: "https://www.pcahistory.org/pca/ga/37th_pcaga_2009.pdf#page=120"
+  - type: "minutes"
+    source_id: "minutes:ga43_2015"
+    label: "Minutes PDF · p. 472"
+    file: "43rd_pcaga_2015.pdf"
+    volume: "ga43_2015"
+    pdf_page: 472
+    url: "https://www.pcahistory.org/pca/ga/43rd_pcaga_2015.pdf#page=472"
+  - type: "minutes"
+    source_id: "minutes:ga44_2016"
+    label: "Minutes PDF · p. 445"
+    file: "44th_pcaga_2016.pdf"
+    volume: "ga44_2016"
+    pdf_page: 445
+    url: "https://www.pcahistory.org/pca/ga/44th_pcaga_2016.pdf#page=445"
+  - type: "minutes"
+    source_id: "minutes:ga49_2022"
+    label: "Minutes PDF · p. 618"
+    file: "49th_pcaga_2022.pdf"
+    volume: "ga49_2022"
+    pdf_page: 618
+    url: "https://www.pcahistory.org/pca/ga/49th_pcaga_2022.pdf#page=618"
+  - type: "minutes"
+    source_id: "minutes:ga50_2023"
+    label: "Minutes PDF · p. 698"
+    file: "50th_pcaga_2023.pdf"
+    volume: "ga50_2023"
+    pdf_page: 698
+    url: "https://www.pcahistory.org/pca/ga/50th_pcaga_2023.pdf#page=698"
+---
 # South Coast Presbytery — BCO 13-9.b
 
 *General: No record that Presbytery reviewed and approved Session minutes. BCO…*

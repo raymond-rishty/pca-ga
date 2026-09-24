@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga50_2023"
+    label: "Minutes PDF · p. 572"
+    file: "50th_pcaga_2023.pdf"
+    volume: "ga50_2023"
+    pdf_page: 572
+    url: "https://www.pcahistory.org/pca/ga/50th_pcaga_2023.pdf#page=572"
+---
 # Heritage Presbytery — BCO 38-3
 
 *no determination of a judgment by presbytery as to the withdrawal of a…*

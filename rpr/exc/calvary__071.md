@@ -1,3 +1,48 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga34_2006"
+    label: "Minutes PDF · p. 243"
+    file: "34th_pcaga_2006.pdf"
+    volume: "ga34_2006"
+    pdf_page: 243
+    url: "https://www.pcahistory.org/pca/ga/34th_pcaga_2006.pdf#page=243"
+  - type: "minutes"
+    source_id: "minutes:ga35_2007"
+    label: "Minutes PDF · p. 172"
+    file: "35th_pcaga_2007.pdf"
+    volume: "ga35_2007"
+    pdf_page: 172
+    url: "https://www.pcahistory.org/pca/ga/35th_pcaga_2007.pdf#page=172"
+  - type: "minutes"
+    source_id: "minutes:ga35_2007"
+    label: "Minutes PDF · p. 173"
+    file: "35th_pcaga_2007.pdf"
+    volume: "ga35_2007"
+    pdf_page: 173
+    url: "https://www.pcahistory.org/pca/ga/35th_pcaga_2007.pdf#page=173"
+  - type: "minutes"
+    source_id: "minutes:ga36_2008"
+    label: "Minutes PDF · p. 215"
+    file: "36th_pcaga_2008.pdf"
+    volume: "ga36_2008"
+    pdf_page: 215
+    url: "https://www.pcahistory.org/pca/ga/36th_pcaga_2008.pdf#page=215"
+  - type: "minutes"
+    source_id: "minutes:ga37_2009"
+    label: "Minutes PDF · p. 83"
+    file: "37th_pcaga_2009.pdf"
+    volume: "ga37_2009"
+    pdf_page: 83
+    url: "https://www.pcahistory.org/pca/ga/37th_pcaga_2009.pdf#page=83"
+  - type: "minutes"
+    source_id: "minutes:ga38_2010"
+    label: "Minutes PDF · p. 79"
+    file: "38th_pcaga_2010.pdf"
+    volume: "ga38_2010"
+    pdf_page: 79
+    url: "https://www.pcahistory.org/pca/ga/38th_pcaga_2010.pdf#page=79"
+---
 # Calvary Presbytery — BCO 13-7
 
 *No record of signing ministerial obligation form. BCO 13-7. Response : I am…*

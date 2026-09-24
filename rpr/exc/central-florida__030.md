@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga32_2004"
+    label: "Minutes PDF · p. 209"
+    file: "32nd_pcaga_2004.pdf"
+    volume: "ga32_2004"
+    pdf_page: 209
+    url: "https://www.pcahistory.org/pca/ga/32nd_pcaga_2004.pdf#page=209"
+---
 # Central Florida Presbytery — BCO 19-2, RAO 14-3.3.e.5
 
 *No record of licensure candidate’s written or oral exam. BCO 19-2, RAO…*

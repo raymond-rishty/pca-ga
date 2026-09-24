@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga52_2025"
+    label: "Minutes PDF · p. 624"
+    file: "52nd_pcaga_2025.pdf"
+    volume: "ga52_2025"
+    pdf_page: 624
+    url: "https://www.pcahistory.org/pca/ga/52nd_pcaga_2025.pdf#page=624"
+---
 # Lowcountry Presbytery — BCO 15-2, RAO 14-2
 
 *The presbytery, and not its appointees, shall nominate elders to serve on…*

@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga52_2025"
+    label: "Minutes PDF · p. 578"
+    file: "52nd_pcaga_2025.pdf"
+    volume: "ga52_2025"
+    pdf_page: 578
+    url: "https://www.pcahistory.org/pca/ga/52nd_pcaga_2025.pdf#page=578"
+---
 # Korean Central Presbytery — BCO 38-2
 
 *No record that minister came forward and state lack of call to ministry at…*

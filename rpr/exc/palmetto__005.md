@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga30_2002"
+    label: "Minutes PDF · p. 333"
+    file: "30th_pcaga_2002.pdf"
+    volume: "ga30_2002"
+    pdf_page: 333
+    url: "https://www.pcahistory.org/pca/ga/30th_pcaga_2002.pdf#page=333"
+---
 # Palmetto Presbytery — BCO 21-4
 
 *The action indicates that Palmetto Presbytery approved by 2/3 majority the…*

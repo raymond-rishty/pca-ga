@@ -1,3 +1,20 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga45_2017"
+    label: "Minutes PDF · p. 428"
+    file: "45th_pcaga_2017.pdf"
+    volume: "ga45_2017"
+    pdf_page: 428
+    url: "https://www.pcahistory.org/pca/ga/45th_pcaga_2017.pdf#page=428"
+  - type: "minutes"
+    source_id: "minutes:ga48_2021"
+    label: "Minutes PDF · p. 640"
+    file: "48th_pcaga_2021.pdf"
+    volume: "ga48_2021"
+    pdf_page: 640
+    url: "https://www.pcahistory.org/pca/ga/48th_pcaga_2021.pdf#page=640"
+---
 # Tidewater Presbytery — BCO 21-4, RAO 163.e.5
 
 *Stated differences not recorded in the minister’s own words…*

@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga46_2018"
+    label: "Minutes PDF · p. 454"
+    file: "46th_pcaga_2018.pdf"
+    volume: "ga46_2018"
+    pdf_page: 454
+    url: "https://www.pcahistory.org/pca/ga/46th_pcaga_2018.pdf#page=454"
+---
 # Southwest Presbytery — BCO 13-6
 
 *Examination of views does not specify the areas listed in BCO…*

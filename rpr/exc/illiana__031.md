@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga34_2006"
+    label: "Minutes PDF · p. 259"
+    file: "34th_pcaga_2006.pdf"
+    volume: "ga34_2006"
+    pdf_page: 259
+    url: "https://www.pcahistory.org/pca/ga/34th_pcaga_2006.pdf#page=259"
+---
 # Illiana Presbytery — RAO 14-3.e.5
 
 *No record of required elements for transfer exam. RAO…*

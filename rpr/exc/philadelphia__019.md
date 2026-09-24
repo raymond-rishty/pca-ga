@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga25_1997"
+    label: "Minutes PDF · p. 218"
+    file: "25th_pcaga_1997.pdf"
+    volume: "ga25_1997"
+    pdf_page: 218
+    url: "https://www.pcahistory.org/pca/ga/25th_pcaga_1997.pdf#page=218"
+---
 # Philadelphia Presbytery — BCO 9-3, BCO 9-7
 
 *item 95-03-16 (pp. 4 &amp; 5), &amp; attachment # 7. Recommendation: Response…*

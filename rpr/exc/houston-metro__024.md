@@ -1,3 +1,20 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga45_2017"
+    label: "Minutes PDF · p. 385"
+    file: "45th_pcaga_2017.pdf"
+    volume: "ga45_2017"
+    pdf_page: 385
+    url: "https://www.pcahistory.org/pca/ga/45th_pcaga_2017.pdf#page=385"
+  - type: "minutes"
+    source_id: "minutes:ga46_2018"
+    label: "Minutes PDF · p. 404"
+    file: "46th_pcaga_2018.pdf"
+    volume: "ga46_2018"
+    pdf_page: 404
+    url: "https://www.pcahistory.org/pca/ga/46th_pcaga_2018.pdf#page=404"
+---
 # Houston Metro Presbytery — BCO 21-4.b, RAO 16-3.e.5
 
 *– No record requiring statement of differences with our standards from a…*

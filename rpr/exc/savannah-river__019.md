@@ -1,3 +1,27 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga48_2021"
+    label: "Minutes PDF · p. 631"
+    file: "48th_pcaga_2021.pdf"
+    volume: "ga48_2021"
+    pdf_page: 631
+    url: "https://www.pcahistory.org/pca/ga/48th_pcaga_2021.pdf#page=631"
+  - type: "minutes"
+    source_id: "minutes:ga49_2022"
+    label: "Minutes PDF · p. 617"
+    file: "49th_pcaga_2022.pdf"
+    volume: "ga49_2022"
+    pdf_page: 617
+    url: "https://www.pcahistory.org/pca/ga/49th_pcaga_2022.pdf#page=617"
+  - type: "minutes"
+    source_id: "minutes:ga50_2023"
+    label: "Minutes PDF · p. 696"
+    file: "50th_pcaga_2023.pdf"
+    volume: "ga50_2023"
+    pdf_page: 696
+    url: "https://www.pcahistory.org/pca/ga/50th_pcaga_2023.pdf#page=696"
+---
 # Savannah River Presbytery — BCO 41
 
 *No constitutional basis for declaring a non-judicial reference out of…*

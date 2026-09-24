@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga27_1999"
+    label: "Minutes PDF · p. 208"
+    file: "27th_pcaga_1999.pdf"
+    volume: "ga27_1999"
+    pdf_page: 208
+    url: "https://www.pcahistory.org/pca/ga/27th_pcaga_1999.pdf#page=208"
+---
 # Southwest Presbytery — exception of substance
 
 *minutes of executive session not included (Note: this is the third year in a…*

@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga23_1995"
+    label: "Minutes PDF · p. 186"
+    file: "23rd_pcaga_1995.pdf"
+    volume: "ga23_1995"
+    pdf_page: 186
+    url: "https://www.pcahistory.org/pca/ga/23rd_pcaga_1995.pdf#page=186"
+---
 # Covenant Presbytery — BCO 19-2.b.2)
 
 *Licensure exam has no record of exam in "practical knowledge of Bible content"…*

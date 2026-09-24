@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga22_1994"
+    label: "Minutes PDF · p. 294"
+    file: "22nd_pcaga_1994.pdf"
+    volume: "ga22_1994"
+    pdf_page: 294
+    url: "https://www.pcahistory.org/pca/ga/22nd_pcaga_1994.pdf#page=294"
+---
 # Illiana Presbytery — BCO 13-9ff
 
 *p. 317: There is no notation of congregational approval of the procedure of a…*

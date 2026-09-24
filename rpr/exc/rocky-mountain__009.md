@@ -1,3 +1,20 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga28_2000"
+    label: "Minutes PDF · p. 341"
+    file: "28th_pcaga_2000.pdf"
+    volume: "ga28_2000"
+    pdf_page: 341
+    url: "https://www.pcahistory.org/pca/ga/28th_pcaga_2000.pdf#page=341"
+  - type: "minutes"
+    source_id: "minutes:ga29_2001"
+    label: "Minutes PDF · p. 352"
+    file: "29th_pcaga_2001.pdf"
+    volume: "ga29_2001"
+    pdf_page: 352
+    url: "https://www.pcahistory.org/pca/ga/29th_pcaga_2001.pdf#page=352"
+---
 # Rocky Mountain Presbytery — BCO 21-9
 
 *Questions of a minister were asked, but not the questions of BCO. (BCO…*

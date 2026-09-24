@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga49_2022"
+    label: "Minutes PDF · p. 520"
+    file: "49th_pcaga_2022.pdf"
+    volume: "ga49_2022"
+    pdf_page: 520
+    url: "https://www.pcahistory.org/pca/ga/49th_pcaga_2022.pdf#page=520"
+---
 # Eastern Pennsylvania Presbytery — BCO 13-6
 
 *( BCO 13-6; 21-4) – Incomplete record of transfer exam for minister from…*

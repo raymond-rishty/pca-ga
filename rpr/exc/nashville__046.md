@@ -1,3 +1,20 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga47_2019"
+    label: "Minutes PDF · p. 489"
+    file: "47th_pcaga_2019.pdf"
+    volume: "ga47_2019"
+    pdf_page: 489
+    url: "https://www.pcahistory.org/pca/ga/47th_pcaga_2019.pdf#page=489"
+  - type: "minutes"
+    source_id: "minutes:ga48_2021"
+    label: "Minutes PDF · p. 605"
+    file: "48th_pcaga_2021.pdf"
+    volume: "ga48_2021"
+    pdf_page: 605
+    url: "https://www.pcahistory.org/pca/ga/48th_pcaga_2021.pdf#page=605"
+---
 # Nashville Presbytery — BCO 21-6
 
 *– Incomplete record of ordination exam (no PCA Church…*

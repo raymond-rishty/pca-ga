@@ -1,3 +1,20 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga47_2019"
+    label: "Minutes PDF · p. 506"
+    file: "47th_pcaga_2019.pdf"
+    volume: "ga47_2019"
+    pdf_page: 506
+    url: "https://www.pcahistory.org/pca/ga/47th_pcaga_2019.pdf#page=506"
+  - type: "minutes"
+    source_id: "minutes:ga48_2021"
+    label: "Minutes PDF · p. 636"
+    file: "48th_pcaga_2021.pdf"
+    volume: "ga48_2021"
+    pdf_page: 636
+    url: "https://www.pcahistory.org/pca/ga/48th_pcaga_2021.pdf#page=636"
+---
 # South Texas Presbytery — BCO 19-2.f
 
 *Candidate does not state in his stated differences from what particular part…*

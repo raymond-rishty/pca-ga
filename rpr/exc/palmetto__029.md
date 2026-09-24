@@ -1,3 +1,20 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga48_2021"
+    label: "Minutes PDF · p. 615"
+    file: "48th_pcaga_2021.pdf"
+    volume: "ga48_2021"
+    pdf_page: 615
+    url: "https://www.pcahistory.org/pca/ga/48th_pcaga_2021.pdf#page=615"
+  - type: "minutes"
+    source_id: "minutes:ga49_2022"
+    label: "Minutes PDF · p. 607"
+    file: "49th_pcaga_2022.pdf"
+    volume: "ga49_2022"
+    pdf_page: 607
+    url: "https://www.pcahistory.org/pca/ga/49th_pcaga_2022.pdf#page=607"
+---
 # Palmetto Presbytery — BCO 13-9.b
 
 *Incomplete results for review of session…*

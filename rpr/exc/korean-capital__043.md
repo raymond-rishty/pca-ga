@@ -1,3 +1,34 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga43_2015"
+    label: "Minutes PDF · p. 447"
+    file: "43rd_pcaga_2015.pdf"
+    volume: "ga43_2015"
+    pdf_page: 447
+    url: "https://www.pcahistory.org/pca/ga/43rd_pcaga_2015.pdf#page=447"
+  - type: "minutes"
+    source_id: "minutes:ga44_2016"
+    label: "Minutes PDF · p. 415"
+    file: "44th_pcaga_2016.pdf"
+    volume: "ga44_2016"
+    pdf_page: 415
+    url: "https://www.pcahistory.org/pca/ga/44th_pcaga_2016.pdf#page=415"
+  - type: "minutes"
+    source_id: "minutes:ga45_2017"
+    label: "Minutes PDF · p. 388"
+    file: "45th_pcaga_2017.pdf"
+    volume: "ga45_2017"
+    pdf_page: 388
+    url: "https://www.pcahistory.org/pca/ga/45th_pcaga_2017.pdf#page=388"
+  - type: "minutes"
+    source_id: "minutes:ga46_2018"
+    label: "Minutes PDF · p. 410"
+    file: "46th_pcaga_2018.pdf"
+    volume: "ga46_2018"
+    pdf_page: 410
+    url: "https://www.pcahistory.org/pca/ga/46th_pcaga_2018.pdf#page=410"
+---
 # Korean Capital Presbytery — BCO 15-1
 
 *Minutes of a commission not entered. Exception : October 6, 2014 ( BCO 20-1) –…*

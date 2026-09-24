@@ -1,3 +1,20 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga34_2006"
+    label: "Minutes PDF · p. 306"
+    file: "34th_pcaga_2006.pdf"
+    volume: "ga34_2006"
+    pdf_page: 306
+    url: "https://www.pcahistory.org/pca/ga/34th_pcaga_2006.pdf#page=306"
+  - type: "minutes"
+    source_id: "minutes:ga35_2007"
+    label: "Minutes PDF · p. 227"
+    file: "35th_pcaga_2007.pdf"
+    volume: "ga35_2007"
+    pdf_page: 227
+    url: "https://www.pcahistory.org/pca/ga/35th_pcaga_2007.pdf#page=227"
+---
 # Western Carolina Presbytery — BCO 15-1
 
 *No quorum set for commission to install [name] and [name]. BCO 15-1,…*

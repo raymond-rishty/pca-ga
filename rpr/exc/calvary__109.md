@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga49_2022"
+    label: "Minutes PDF · p. 499"
+    file: "49th_pcaga_2022.pdf"
+    volume: "ga49_2022"
+    pdf_page: 499
+    url: "https://www.pcahistory.org/pca/ga/49th_pcaga_2022.pdf#page=499"
+---
 # Calvary Presbytery — BCO 13-11, RAO 16-3.e.7
 
 *Presbytery did not have authority to approve as satisfactory [church name…*

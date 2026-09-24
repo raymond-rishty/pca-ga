@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga20_1992"
+    label: "Minutes PDF · p. 252"
+    file: "20th_pcaga_1992.pdf"
+    volume: "ga20_1992"
+    pdf_page: 252
+    url: "https://www.pcahistory.org/pca/ga/20th_pcaga_1992.pdf#page=252"
+---
 # Northeast Presbytery — BCO 21-4
 
 *Page 25 (20.1) Ordination exam should not be in views, but in knowledge. Other…*

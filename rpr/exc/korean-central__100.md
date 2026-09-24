@@ -1,3 +1,20 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga49_2022"
+    label: "Minutes PDF · p. 553"
+    file: "49th_pcaga_2022.pdf"
+    volume: "ga49_2022"
+    pdf_page: 553
+    url: "https://www.pcahistory.org/pca/ga/49th_pcaga_2022.pdf#page=553"
+  - type: "minutes"
+    source_id: "minutes:ga50_2023"
+    label: "Minutes PDF · p. 611"
+    file: "50th_pcaga_2023.pdf"
+    volume: "ga50_2023"
+    pdf_page: 611
+    url: "https://www.pcahistory.org/pca/ga/50th_pcaga_2023.pdf#page=611"
+---
 # Korean Central Presbytery — BCO 13-12, RAO 16-3.c.1
 
 *Purpose of called meeting not recorded verbatim in the minutes. Response :…*

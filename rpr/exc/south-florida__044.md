@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga47_2019"
+    label: "Minutes PDF · p. 504"
+    file: "47th_pcaga_2019.pdf"
+    volume: "ga47_2019"
+    pdf_page: 504
+    url: "https://www.pcahistory.org/pca/ga/47th_pcaga_2019.pdf#page=504"
+---
 # South Florida Presbytery — BCO 21-4, RAO 163.e.5
 
 *Differences of three candidates not judged to prescribed…*

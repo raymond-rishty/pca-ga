@@ -1,3 +1,20 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga44_2016"
+    label: "Minutes PDF · p. 438"
+    file: "44th_pcaga_2016.pdf"
+    volume: "ga44_2016"
+    pdf_page: 438
+    url: "https://www.pcahistory.org/pca/ga/44th_pcaga_2016.pdf#page=438"
+  - type: "minutes"
+    source_id: "minutes:ga45_2017"
+    label: "Minutes PDF · p. 410"
+    file: "45th_pcaga_2017.pdf"
+    volume: "ga45_2017"
+    pdf_page: 410
+    url: "https://www.pcahistory.org/pca/ga/45th_pcaga_2017.pdf#page=410"
+---
 # Piedmont Triad Presbytery — BCO 15-1, RAO 16-3.e.4
 
 *No report from the commission for [name omitted]…*

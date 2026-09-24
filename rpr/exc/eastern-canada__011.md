@@ -1,3 +1,20 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga33_2005"
+    label: "Minutes PDF · p. 272"
+    file: "33rd_pcaga_2005.pdf"
+    volume: "ga33_2005"
+    pdf_page: 272
+    url: "https://www.pcahistory.org/pca/ga/33rd_pcaga_2005.pdf#page=272"
+  - type: "minutes"
+    source_id: "minutes:ga34_2006"
+    label: "Minutes PDF · p. 248"
+    file: "34th_pcaga_2006.pdf"
+    volume: "ga34_2006"
+    pdf_page: 248
+    url: "https://www.pcahistory.org/pca/ga/34th_pcaga_2006.pdf#page=248"
+---
 # Eastern Canada Presbytery — BCO 19-16
 
 *No record of previous experience approved as internship fulfilling the “full…*

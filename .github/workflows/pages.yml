@@ -51,6 +51,12 @@ jobs:
         run: python3 scripts/84_sync_case_page_metadata.py .
       - name: Regenerate judicial case catalogue
         run: python3 scripts/13_judicial_taxonomy_index.py .
+      - name: Regenerate auditable judicial provision evidence
+        run: python3 scripts/44_case_provision_index.py .
+      - name: Build the shared provision catalogue
+        run: python3 scripts/build_provision_catalogue.py . _constitution/content
+      - name: Project authority index from provision catalogue
+        run: python3 scripts/43_authority_index.py .
       - name: Check in generated judicial case catalogue
         if: github.event_name == 'push' && github.ref == 'refs/heads/main'
         shell: bash
@@ -88,6 +94,10 @@ jobs:
         run: python3 tests/test_extracted_source_pdf_metadata.py
       - name: Test source registry
         run: python3 tests/test_source_registry.py
+      - name: Test provision research generator
+        run: python3 tests/test_provision_research.py
+      - name: Test provision catalogue projections
+        run: python3 tests/test_provision_catalogue.py
       - name: Test focused Node regressions
         run: node --test tests/source-pdf-links.test.js tests/minutes-back-to-top.test.js tests/minutes-page-source-pdf.test.js tests/search-engine.test.js tests/search-record.test.js tests/search-index-overtures.test.js tests/pagefind-search.test.js tests/result-navigation.test.js
       - name: Add source PDF metadata to extracted documents
@@ -129,8 +139,11 @@ jobs:
         run: |
           test -s _site/api/bco/index.json
           test -s _site/api/bco/38-1.json
-          grep -Eq '"provision"[[:space:]]*:[[:space:]]*"BCO 38-1"' _site/api/bco/38-1.json
-          grep -q '/api/bco/index.json' _site/llms.txt
+          test -s _site/api/provisions/index.json
+          test -s _site/api/provisions/bco/38-1.json
+          grep -Eq '"schema_version"[[:space:]]*:[[:space:]]*2' _site/api/bco/38-1.json
+          cmp -s _site/api/bco/38-1.json _site/api/provisions/bco/38-1.json
+          grep -q '/api/provisions/index.json' _site/llms.txt
       - name: Validate rendered extracted source PDF links
         shell: bash
         run: |
@@ -196,6 +209,14 @@ jobs:
             _constitution/content/wlc.js \
             _constitution/content/wsc.js \
             _constitution/content/rao.js
+      - name: Generate canonical provision research pages
+        run: |
+          python3 scripts/46_provision_research.py site . _site --baseurl /pca-ga
+          test -s _site/provisions/index.html
+          test -s _site/provisions/bco/40-1/index.html
+          test -s _site/provisions/wlc/q-62/index.html
+          test -s _site/provisions/rao/1-1/index.html
+          test -s _site/app/provision_search.json
       - name: Validate constitutional reference output
         run: |
           test -s _site/assets/constitution/bco-index.json

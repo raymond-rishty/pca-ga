@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga25_1997"
+    label: "Minutes PDF · p. 213"
+    file: "25th_pcaga_1997.pdf"
+    volume: "ga25_1997"
+    pdf_page: 213
+    url: "https://www.pcahistory.org/pca/ga/25th_pcaga_1997.pdf#page=213"
+---
 # New River Presbytery — BCO 40-2.4
 
 *Presbytery denied an overture from a neighboring session which should have…*

@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga21_1993"
+    label: "Minutes PDF · p. 237"
+    file: "21st_pcaga_1993.pdf"
+    volume: "ga21_1993"
+    pdf_page: 237
+    url: "https://www.pcahistory.org/pca/ga/21st_pcaga_1993.pdf#page=237"
+---
 # Illiana Presbytery — BCO § 13-11, RAO § 14-10, BCO § 13-7, BCO § 20-1
 
 *p. 1: The purpose of the called meeting is not stated. (BCO § 13-11; RAO §…*

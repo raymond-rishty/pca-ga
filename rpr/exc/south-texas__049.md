@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga34_2006"
+    label: "Minutes PDF · p. 296"
+    file: "34th_pcaga_2006.pdf"
+    volume: "ga34_2006"
+    pdf_page: 296
+    url: "https://www.pcahistory.org/pca/ga/34th_pcaga_2006.pdf#page=296"
+---
 # South Texas Presbytery — BCO 18-6, BCO 19-12
 
 *No annual report on candidates or reports on interns at each stated meeting.…*

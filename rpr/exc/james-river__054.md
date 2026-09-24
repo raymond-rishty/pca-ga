@@ -1,3 +1,27 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga48_2021"
+    label: "Minutes PDF · p. 582"
+    file: "48th_pcaga_2021.pdf"
+    volume: "ga48_2021"
+    pdf_page: 582
+    url: "https://www.pcahistory.org/pca/ga/48th_pcaga_2021.pdf#page=582"
+  - type: "minutes"
+    source_id: "minutes:ga49_2022"
+    label: "Minutes PDF · p. 549"
+    file: "49th_pcaga_2022.pdf"
+    volume: "ga49_2022"
+    pdf_page: 549
+    url: "https://www.pcahistory.org/pca/ga/49th_pcaga_2022.pdf#page=549"
+  - type: "minutes"
+    source_id: "minutes:ga49_2022"
+    label: "Minutes PDF · p. 550"
+    file: "49th_pcaga_2022.pdf"
+    volume: "ga49_2022"
+    pdf_page: 550
+    url: "https://www.pcahistory.org/pca/ga/49th_pcaga_2022.pdf#page=550"
+---
 # James River Presbytery — BCO 23-1
 
 *Resignation request received and pastoral relationship dissolved without…*

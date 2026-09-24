@@ -1,3 +1,20 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga02_1974"
+    label: "Minutes PDF · p. 178"
+    file: "2nd_pcaga_1974.pdf"
+    volume: "ga02_1974"
+    pdf_page: 178
+    url: "https://www.pcahistory.org/pca/ga/2nd_pcaga_1974.pdf#page=178"
+  - type: "minutes"
+    source_id: "minutes:ga02_1974"
+    label: "Minutes PDF · p. 182"
+    file: "2nd_pcaga_1974.pdf"
+    volume: "ga02_1974"
+    pdf_page: 182
+    url: "https://www.pcahistory.org/pca/ga/2nd_pcaga_1974.pdf#page=182"
+---
 # RULING ELDERS ADMINISTERING THE SACRAMENTS
 
 *REPORT OF THE AD-INTERIM COMMITTEE TO STUDY THE QUESTION OF RULING ELDERS ADMINISTERING THE SACRAMENTS*

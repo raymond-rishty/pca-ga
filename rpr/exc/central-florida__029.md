@@ -1,3 +1,62 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga32_2004"
+    label: "Minutes PDF · p. 209"
+    file: "32nd_pcaga_2004.pdf"
+    volume: "ga32_2004"
+    pdf_page: 209
+    url: "https://www.pcahistory.org/pca/ga/32nd_pcaga_2004.pdf#page=209"
+  - type: "minutes"
+    source_id: "minutes:ga33_2005"
+    label: "Minutes PDF · p. 271"
+    file: "33rd_pcaga_2005.pdf"
+    volume: "ga33_2005"
+    pdf_page: 271
+    url: "https://www.pcahistory.org/pca/ga/33rd_pcaga_2005.pdf#page=271"
+  - type: "minutes"
+    source_id: "minutes:ga39_2011"
+    label: "Minutes PDF · p. 439"
+    file: "39th_pcaga_2011.pdf"
+    volume: "ga39_2011"
+    pdf_page: 439
+    url: "https://www.pcahistory.org/pca/ga/39th_pcaga_2011.pdf#page=439"
+  - type: "minutes"
+    source_id: "minutes:ga40_2012"
+    label: "Minutes PDF · p. 417"
+    file: "40th_pcaga_2012.pdf"
+    volume: "ga40_2012"
+    pdf_page: 417
+    url: "https://www.pcahistory.org/pca/ga/40th_pcaga_2012.pdf#page=417"
+  - type: "minutes"
+    source_id: "minutes:ga41_2013"
+    label: "Minutes PDF · p. 421"
+    file: "41st_pcaga_2013.pdf"
+    volume: "ga41_2013"
+    pdf_page: 421
+    url: "https://www.pcahistory.org/pca/ga/41st_pcaga_2013.pdf#page=421"
+  - type: "minutes"
+    source_id: "minutes:ga44_2016"
+    label: "Minutes PDF · p. 395"
+    file: "44th_pcaga_2016.pdf"
+    volume: "ga44_2016"
+    pdf_page: 395
+    url: "https://www.pcahistory.org/pca/ga/44th_pcaga_2016.pdf#page=395"
+  - type: "minutes"
+    source_id: "minutes:ga45_2017"
+    label: "Minutes PDF · p. 377"
+    file: "45th_pcaga_2017.pdf"
+    volume: "ga45_2017"
+    pdf_page: 377
+    url: "https://www.pcahistory.org/pca/ga/45th_pcaga_2017.pdf#page=377"
+  - type: "minutes"
+    source_id: "minutes:ga46_2018"
+    label: "Minutes PDF · p. 380"
+    file: "46th_pcaga_2018.pdf"
+    volume: "ga46_2018"
+    pdf_page: 380
+    url: "https://www.pcahistory.org/pca/ga/46th_pcaga_2018.pdf#page=380"
+---
 # Central Florida Presbytery — BCO 13-9.b
 
 *March 25, 2003: No report of sessional minutes being reviewed. (This is a…*

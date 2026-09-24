@@ -1,3 +1,20 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga48_2021"
+    label: "Minutes PDF · p. 600"
+    file: "48th_pcaga_2021.pdf"
+    volume: "ga48_2021"
+    pdf_page: 600
+    url: "https://www.pcahistory.org/pca/ga/48th_pcaga_2021.pdf#page=600"
+  - type: "minutes"
+    source_id: "minutes:ga49_2022"
+    label: "Minutes PDF · p. 575"
+    file: "49th_pcaga_2022.pdf"
+    volume: "ga49_2022"
+    pdf_page: 575
+    url: "https://www.pcahistory.org/pca/ga/49th_pcaga_2022.pdf#page=575"
+---
 # Metro Atlanta Presbytery — RAO 16-10a
 
 *No record in minutes concerning Presbytery response to exceptions of substance…*

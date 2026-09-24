@@ -1,3 +1,20 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga36_2008"
+    label: "Minutes PDF · p. 238"
+    file: "36th_pcaga_2008.pdf"
+    volume: "ga36_2008"
+    pdf_page: 238
+    url: "https://www.pcahistory.org/pca/ga/36th_pcaga_2008.pdf#page=238"
+  - type: "minutes"
+    source_id: "minutes:ga37_2009"
+    label: "Minutes PDF · p. 108"
+    file: "37th_pcaga_2009.pdf"
+    volume: "ga37_2009"
+    pdf_page: 108
+    url: "https://www.pcahistory.org/pca/ga/37th_pcaga_2009.pdf#page=108"
+---
 # Metro Atlanta Presbytery — BCO 13-6
 
 *BCO 13-6. No record that minister seeking admission to the presbytery was…*

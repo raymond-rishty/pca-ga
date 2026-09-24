@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga43_2015"
+    label: "Minutes PDF · p. 483"
+    file: "43rd_pcaga_2015.pdf"
+    volume: "ga43_2015"
+    pdf_page: 483
+    url: "https://www.pcahistory.org/pca/ga/43rd_pcaga_2015.pdf#page=483"
+---
 # Western Canada Presbytery — BCO 13-10
 
 *No record of the disposition of the members of a mission church following its…*

@@ -1,3 +1,20 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga48_2021"
+    label: "Minutes PDF · p. 640"
+    file: "48th_pcaga_2021.pdf"
+    volume: "ga48_2021"
+    pdf_page: 640
+    url: "https://www.pcahistory.org/pca/ga/48th_pcaga_2021.pdf#page=640"
+  - type: "minutes"
+    source_id: "minutes:ga49_2022"
+    label: "Minutes PDF · p. 630"
+    file: "49th_pcaga_2022.pdf"
+    volume: "ga49_2022"
+    pdf_page: 630
+    url: "https://www.pcahistory.org/pca/ga/49th_pcaga_2022.pdf#page=630"
+---
 # Tidewater Presbytery — BCO 13-12
 
 *Criteria for calling a called meeting not recorded (three TEs, three REs from…*

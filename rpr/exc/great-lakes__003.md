@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga22_1994"
+    label: "Minutes PDF · p. 290"
+    file: "22nd_pcaga_1994.pdf"
+    volume: "ga22_1994"
+    pdf_page: 290
+    url: "https://www.pcahistory.org/pca/ga/22nd_pcaga_1994.pdf#page=290"
+---
 # Great Lakes Presbytery — BCO 18-6), BCO 18-2, BCO 20-1, BCO 13-2), BCO 15-1), BCO 20-8, BCO 20-9, BCO 18-7, BCO 15-2), BCO 20-1), BCO 23-1), BCO 19-7
 
 *There is no evidence of required annual reports of candidates nor of required…*

@@ -1,3 +1,34 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga19_1991"
+    label: "Minutes PDF · p. 180"
+    file: "19th_pcaga_1991.pdf"
+    volume: "ga19_1991"
+    pdf_page: 180
+    url: "https://www.pcahistory.org/pca/ga/19th_pcaga_1991.pdf#page=180"
+  - type: "minutes"
+    source_id: "minutes:ga24_1996"
+    label: "Minutes PDF · p. 246"
+    file: "24th_pcaga_1996.pdf"
+    volume: "ga24_1996"
+    pdf_page: 246
+    url: "https://www.pcahistory.org/pca/ga/24th_pcaga_1996.pdf#page=246"
+  - type: "minutes"
+    source_id: "minutes:ga25_1997"
+    label: "Minutes PDF · p. 204"
+    file: "25th_pcaga_1997.pdf"
+    volume: "ga25_1997"
+    pdf_page: 204
+    url: "https://www.pcahistory.org/pca/ga/25th_pcaga_1997.pdf#page=204"
+  - type: "minutes"
+    source_id: "minutes:ga31_2003"
+    label: "Minutes PDF · p. 220"
+    file: "31st_pcaga_2003.pdf"
+    volume: "ga31_2003"
+    pdf_page: 220
+    url: "https://www.pcahistory.org/pca/ga/31st_pcaga_2003.pdf#page=220"
+---
 # Central Florida Presbytery — BCO 21-4
 
 *50-10 B.3;4.a No mention of theology or exegetical papers for those being…*

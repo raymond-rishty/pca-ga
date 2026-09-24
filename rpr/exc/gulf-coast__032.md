@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga42_2014"
+    label: "Minutes PDF · p. 414"
+    file: "42nd_pcaga_2014.pdf"
+    volume: "ga42_2014"
+    pdf_page: 414
+    url: "https://www.pcahistory.org/pca/ga/42nd_pcaga_2014.pdf#page=414"
+---
 # Gulf Coast Presbytery — BCO 8-7
 
 *TE laboring out of bounds; no annual report. Response : Gulf Coast Presbytery…*

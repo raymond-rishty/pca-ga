@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga47_2019"
+    label: "Minutes PDF · p. 502"
+    file: "47th_pcaga_2019.pdf"
+    volume: "ga47_2019"
+    pdf_page: 502
+    url: "https://www.pcahistory.org/pca/ga/47th_pcaga_2019.pdf#page=502"
+---
 # Rio Grande Presbytery — BCO 20-9
 
 *No record of release from presbytery in TE…*

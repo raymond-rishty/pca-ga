@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga23_1995"
+    label: "Minutes PDF · p. 201"
+    file: "23rd_pcaga_1995.pdf"
+    volume: "ga23_1995"
+    pdf_page: 201
+    url: "https://www.pcahistory.org/pca/ga/23rd_pcaga_1995.pdf#page=201"
+---
 # North Georgia Presbytery — exception of substance
 
 *, and that it is not appropriate to consider this matter under "General Review…*

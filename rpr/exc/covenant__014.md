@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga25_1997"
+    label: "Minutes PDF · p. 205"
+    file: "25th_pcaga_1997.pdf"
+    volume: "ga25_1997"
+    pdf_page: 205
+    url: "https://www.pcahistory.org/pca/ga/25th_pcaga_1997.pdf#page=205"
+---
 # Covenant Presbytery — BCO 21-4
 
 *No record of exam in PCA history (BCO 21-4.…*

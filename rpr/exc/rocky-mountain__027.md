@@ -1,3 +1,27 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga43_2015"
+    label: "Minutes PDF · p. 471"
+    file: "43rd_pcaga_2015.pdf"
+    volume: "ga43_2015"
+    pdf_page: 471
+    url: "https://www.pcahistory.org/pca/ga/43rd_pcaga_2015.pdf#page=471"
+  - type: "minutes"
+    source_id: "minutes:ga44_2016"
+    label: "Minutes PDF · p. 443"
+    file: "44th_pcaga_2016.pdf"
+    volume: "ga44_2016"
+    pdf_page: 443
+    url: "https://www.pcahistory.org/pca/ga/44th_pcaga_2016.pdf#page=443"
+  - type: "minutes"
+    source_id: "minutes:ga45_2017"
+    label: "Minutes PDF · p. 413"
+    file: "45th_pcaga_2017.pdf"
+    volume: "ga45_2017"
+    pdf_page: 413
+    url: "https://www.pcahistory.org/pca/ga/45th_pcaga_2017.pdf#page=413"
+---
 # Rocky Mountain Presbytery — exception of substance
 
 *January 24, 2013 - All specific requirements of ordination exam not…*

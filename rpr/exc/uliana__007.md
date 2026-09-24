@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga23_1995"
+    label: "Minutes PDF · p. 192"
+    file: "23rd_pcaga_1995.pdf"
+    volume: "ga23_1995"
+    pdf_page: 192
+    url: "https://www.pcahistory.org/pca/ga/23rd_pcaga_1995.pdf#page=192"
+---
 # Uliana Presbytery — RAO 40-10h)
 
 *Missing required directory, rolls, and standing rules. (RAO…*

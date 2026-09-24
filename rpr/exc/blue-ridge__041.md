@@ -1,3 +1,20 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga49_2022"
+    label: "Minutes PDF · p. 497"
+    file: "49th_pcaga_2022.pdf"
+    volume: "ga49_2022"
+    pdf_page: 497
+    url: "https://www.pcahistory.org/pca/ga/49th_pcaga_2022.pdf#page=497"
+  - type: "minutes"
+    source_id: "minutes:ga50_2023"
+    label: "Minutes PDF · p. 525"
+    file: "50th_pcaga_2023.pdf"
+    volume: "ga50_2023"
+    pdf_page: 525
+    url: "https://www.pcahistory.org/pca/ga/50th_pcaga_2023.pdf#page=525"
+---
 # Blue Ridge Presbytery — BCO 34-10
 
 *No record of divested ministers receiving and responding to notice of…*

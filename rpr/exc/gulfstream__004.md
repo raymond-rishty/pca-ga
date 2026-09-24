@@ -1,3 +1,41 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga34_2006"
+    label: "Minutes PDF · p. 255"
+    file: "34th_pcaga_2006.pdf"
+    volume: "ga34_2006"
+    pdf_page: 255
+    url: "https://www.pcahistory.org/pca/ga/34th_pcaga_2006.pdf#page=255"
+  - type: "minutes"
+    source_id: "minutes:ga35_2007"
+    label: "Minutes PDF · p. 186"
+    file: "35th_pcaga_2007.pdf"
+    volume: "ga35_2007"
+    pdf_page: 186
+    url: "https://www.pcahistory.org/pca/ga/35th_pcaga_2007.pdf#page=186"
+  - type: "minutes"
+    source_id: "minutes:ga36_2008"
+    label: "Minutes PDF · p. 226"
+    file: "36th_pcaga_2008.pdf"
+    volume: "ga36_2008"
+    pdf_page: 226
+    url: "https://www.pcahistory.org/pca/ga/36th_pcaga_2008.pdf#page=226"
+  - type: "minutes"
+    source_id: "minutes:ga37_2009"
+    label: "Minutes PDF · p. 98"
+    file: "37th_pcaga_2009.pdf"
+    volume: "ga37_2009"
+    pdf_page: 98
+    url: "https://www.pcahistory.org/pca/ga/37th_pcaga_2009.pdf#page=98"
+  - type: "minutes"
+    source_id: "minutes:ga38_2010"
+    label: "Minutes PDF · p. 90"
+    file: "38th_pcaga_2010.pdf"
+    volume: "ga38_2010"
+    pdf_page: 90
+    url: "https://www.pcahistory.org/pca/ga/38th_pcaga_2010.pdf#page=90"
+---
 # Gulfstream Presbytery — BCO 20-1
 
 *21, 2005: Complete calls not included. BCO…*

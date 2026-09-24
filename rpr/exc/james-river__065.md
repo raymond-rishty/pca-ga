@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga51_2024"
+    label: "Minutes PDF · p. 538"
+    file: "51st_pcaga_2024.pdf"
+    volume: "ga51_2024"
+    pdf_page: 538
+    url: "https://www.pcahistory.org/pca/ga/51st_pcaga_2024.pdf#page=538"
+---
 # James River Presbytery — BCO 19-7
 
 *Internship less than one year, with no record of 3/4 affirmative…*

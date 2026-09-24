@@ -1,3 +1,20 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga40_2012"
+    label: "Minutes PDF · p. 450"
+    file: "40th_pcaga_2012.pdf"
+    volume: "ga40_2012"
+    pdf_page: 450
+    url: "https://www.pcahistory.org/pca/ga/40th_pcaga_2012.pdf#page=450"
+  - type: "minutes"
+    source_id: "minutes:ga41_2013"
+    label: "Minutes PDF · p. 454"
+    file: "41st_pcaga_2013.pdf"
+    volume: "ga41_2013"
+    pdf_page: 454
+    url: "https://www.pcahistory.org/pca/ga/41st_pcaga_2013.pdf#page=454"
+---
 # North Texas Presbytery — BCO13-7
 
 *no record of signing of ministerial…*

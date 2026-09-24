@@ -1,3 +1,20 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga28_2000"
+    label: "Minutes PDF · p. 338"
+    file: "28th_pcaga_2000.pdf"
+    volume: "ga28_2000"
+    pdf_page: 338
+    url: "https://www.pcahistory.org/pca/ga/28th_pcaga_2000.pdf#page=338"
+  - type: "minutes"
+    source_id: "minutes:ga29_2001"
+    label: "Minutes PDF · p. 348"
+    file: "29th_pcaga_2001.pdf"
+    volume: "ga29_2001"
+    pdf_page: 348
+    url: "https://www.pcahistory.org/pca/ga/29th_pcaga_2001.pdf#page=348"
+---
 # North Texas Presbytery — BCO 19-7
 
 *Twelve month internship requirement reduced to nine months without…*

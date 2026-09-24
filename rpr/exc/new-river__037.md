@@ -1,3 +1,20 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga39_2011"
+    label: "Minutes PDF · p. 469"
+    file: "39th_pcaga_2011.pdf"
+    volume: "ga39_2011"
+    pdf_page: 469
+    url: "https://www.pcahistory.org/pca/ga/39th_pcaga_2011.pdf#page=469"
+  - type: "minutes"
+    source_id: "minutes:ga40_2012"
+    label: "Minutes PDF · p. 449"
+    file: "40th_pcaga_2012.pdf"
+    volume: "ga40_2012"
+    pdf_page: 449
+    url: "https://www.pcahistory.org/pca/ga/40th_pcaga_2012.pdf#page=449"
+---
 # New River Presbytery — RAO 16-10.a
 
 *Text of response to exception of substance from GA not included in…*

@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga31_2003"
+    label: "Minutes PDF · p. 226"
+    file: "31st_pcaga_2003.pdf"
+    volume: "ga31_2003"
+    pdf_page: 226
+    url: "https://www.pcahistory.org/pca/ga/31st_pcaga_2003.pdf#page=226"
+---
 # Heartland Presbytery — BCO 21-4
 
 *Incomplete record of examination elements. BCO 21-4; “RAO”…*

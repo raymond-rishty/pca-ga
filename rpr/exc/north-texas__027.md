@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga42_2014"
+    label: "Minutes PDF · p. 433"
+    file: "42nd_pcaga_2014.pdf"
+    volume: "ga42_2014"
+    pdf_page: 433
+    url: "https://www.pcahistory.org/pca/ga/42nd_pcaga_2014.pdf#page=433"
+---
 # North Texas Presbytery — BCO 15-2
 
 *Only one RE on…*

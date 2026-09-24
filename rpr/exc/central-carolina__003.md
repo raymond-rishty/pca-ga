@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga27_1999"
+    label: "Minutes PDF · p. 193"
+    file: "27th_pcaga_1999.pdf"
+    volume: "ga27_1999"
+    pdf_page: 193
+    url: "https://www.pcahistory.org/pca/ga/27th_pcaga_1999.pdf#page=193"
+---
 # Central Carolina Presbytery — WLC 116-121, WSC 59-62
 
 *8-11; WCF XXI.7-8; WLC 116-121; WSC…*

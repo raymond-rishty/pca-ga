@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga42_2014"
+    label: "Minutes PDF · p. 423"
+    file: "42nd_pcaga_2014.pdf"
+    volume: "ga42_2014"
+    pdf_page: 423
+    url: "https://www.pcahistory.org/pca/ga/42nd_pcaga_2014.pdf#page=423"
+---
 # Korean Southeastern Presbytery — exception of substance
 
 *June 12, 2006, February 4, 2008, July 21, 2008, May 18, 2009 – Purpose of…*

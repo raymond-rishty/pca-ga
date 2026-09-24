@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga48_2021"
+    label: "Minutes PDF · p. 574"
+    file: "48th_pcaga_2021.pdf"
+    volume: "ga48_2021"
+    pdf_page: 574
+    url: "https://www.pcahistory.org/pca/ga/48th_pcaga_2021.pdf#page=574"
+---
 # Highlands Presbytery — BCO 15-1
 
 *Shepherding Committee acted as a commission without…*

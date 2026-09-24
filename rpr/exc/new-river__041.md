@@ -1,3 +1,34 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga42_2014"
+    label: "Minutes PDF · p. 432"
+    file: "42nd_pcaga_2014.pdf"
+    volume: "ga42_2014"
+    pdf_page: 432
+    url: "https://www.pcahistory.org/pca/ga/42nd_pcaga_2014.pdf#page=432"
+  - type: "minutes"
+    source_id: "minutes:ga43_2015"
+    label: "Minutes PDF · p. 458"
+    file: "43rd_pcaga_2015.pdf"
+    volume: "ga43_2015"
+    pdf_page: 458
+    url: "https://www.pcahistory.org/pca/ga/43rd_pcaga_2015.pdf#page=458"
+  - type: "minutes"
+    source_id: "minutes:ga44_2016"
+    label: "Minutes PDF · p. 429"
+    file: "44th_pcaga_2016.pdf"
+    volume: "ga44_2016"
+    pdf_page: 429
+    url: "https://www.pcahistory.org/pca/ga/44th_pcaga_2016.pdf#page=429"
+  - type: "minutes"
+    source_id: "minutes:ga45_2017"
+    label: "Minutes PDF · p. 403"
+    file: "45th_pcaga_2017.pdf"
+    volume: "ga45_2017"
+    pdf_page: 403
+    url: "https://www.pcahistory.org/pca/ga/45th_pcaga_2017.pdf#page=403"
+---
 # New River Presbytery — BCO 19-2, RAO 16-3.e.5
 
 *All specific requirements for licensure not…*

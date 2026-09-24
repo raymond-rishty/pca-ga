@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga51_2024"
+    label: "Minutes PDF · p. 628"
+    file: "51st_pcaga_2024.pdf"
+    volume: "ga51_2024"
+    pdf_page: 628
+    url: "https://www.pcahistory.org/pca/ga/51st_pcaga_2024.pdf#page=628"
+---
 # Piedmont Triad Presbytery — BCO 13-10
 
 *No indication 60-days notice was given before dissolution of mission…*

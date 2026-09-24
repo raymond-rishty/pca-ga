@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga24_1996"
+    label: "Minutes PDF · p. 258"
+    file: "24th_pcaga_1996.pdf"
+    volume: "ga24_1996"
+    pdf_page: 258
+    url: "https://www.pcahistory.org/pca/ga/24th_pcaga_1996.pdf#page=258"
+---
 # Northern Illinois Presbytery — BCO 34-10
 
 *A divestiture took place without record of proper notice at the prior meeting.…*

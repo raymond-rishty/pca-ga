@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga41_2013"
+    label: "Minutes PDF · p. 430"
+    file: "41st_pcaga_2013.pdf"
+    volume: "ga41_2013"
+    pdf_page: 430
+    url: "https://www.pcahistory.org/pca/ga/41st_pcaga_2013.pdf#page=430"
+---
 # Grace Presbytery — BCO 13-11, RAO 16-3.e.6
 
 *Executive session minutes not submitted for…*

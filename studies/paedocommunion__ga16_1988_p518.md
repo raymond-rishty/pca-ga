@@ -1,3 +1,27 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga16_1988"
+    label: "Minutes PDF · p. 520"
+    file: "16th_pcaga_1988.pdf"
+    volume: "ga16_1988"
+    pdf_page: 520
+    url: "https://www.pcahistory.org/pca/ga/16th_pcaga_1988.pdf#page=520"
+  - type: "minutes"
+    source_id: "minutes:ga16_1988"
+    label: "Minutes PDF · p. 524"
+    file: "16th_pcaga_1988.pdf"
+    volume: "ga16_1988"
+    pdf_page: 524
+    url: "https://www.pcahistory.org/pca/ga/16th_pcaga_1988.pdf#page=524"
+  - type: "minutes"
+    source_id: "minutes:ga16_1988"
+    label: "Minutes PDF · p. 533"
+    file: "16th_pcaga_1988.pdf"
+    volume: "ga16_1988"
+    pdf_page: 533
+    url: "https://www.pcahistory.org/pca/ga/16th_pcaga_1988.pdf#page=533"
+---
 # PAEDOCOMMUNION
 
 *REPORT OF THE AD-INTERIM COMMITTEE TO STUDY THE QUESTION OF PAEDOCOMMUNION*

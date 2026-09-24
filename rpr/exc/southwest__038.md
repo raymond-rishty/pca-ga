@@ -1,3 +1,20 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga38_2010"
+    label: "Minutes PDF · p. 118"
+    file: "38th_pcaga_2010.pdf"
+    volume: "ga38_2010"
+    pdf_page: 118
+    url: "https://www.pcahistory.org/pca/ga/38th_pcaga_2010.pdf#page=118"
+  - type: "minutes"
+    source_id: "minutes:ga39_2011"
+    label: "Minutes PDF · p. 487"
+    file: "39th_pcaga_2011.pdf"
+    volume: "ga39_2011"
+    pdf_page: 487
+    url: "https://www.pcahistory.org/pca/ga/39th_pcaga_2011.pdf#page=487"
+---
 # Southwest Presbytery — BCO 21-4, RAO 16-3.e.5
 
 *No record of requiring candidate to state differences with the…*

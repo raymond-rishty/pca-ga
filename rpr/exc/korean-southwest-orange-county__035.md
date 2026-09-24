@@ -1,3 +1,20 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga49_2022"
+    label: "Minutes PDF · p. 573"
+    file: "49th_pcaga_2022.pdf"
+    volume: "ga49_2022"
+    pdf_page: 573
+    url: "https://www.pcahistory.org/pca/ga/49th_pcaga_2022.pdf#page=573"
+  - type: "minutes"
+    source_id: "minutes:ga50_2023"
+    label: "Minutes PDF · p. 639"
+    file: "50th_pcaga_2023.pdf"
+    volume: "ga50_2023"
+    pdf_page: 639
+    url: "https://www.pcahistory.org/pca/ga/50th_pcaga_2023.pdf#page=639"
+---
 # Korean Southwest Orange County Presbytery — BCO 15-01, RAO 16-3.e.4
 
 *Minutes of commissions not entered in minutes. Incomplete record of Session…*

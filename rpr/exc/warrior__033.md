@@ -1,3 +1,20 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga34_2006"
+    label: "Minutes PDF · p. 303"
+    file: "34th_pcaga_2006.pdf"
+    volume: "ga34_2006"
+    pdf_page: 303
+    url: "https://www.pcahistory.org/pca/ga/34th_pcaga_2006.pdf#page=303"
+  - type: "minutes"
+    source_id: "minutes:ga35_2007"
+    label: "Minutes PDF · p. 225"
+    file: "35th_pcaga_2007.pdf"
+    volume: "ga35_2007"
+    pdf_page: 225
+    url: "https://www.pcahistory.org/pca/ga/35th_pcaga_2007.pdf#page=225"
+---
 # Warrior Presbytery — BCO 18-2
 
 *: No record of 6 month membership. BCO 18-2. Response : We concur with CRPR…*

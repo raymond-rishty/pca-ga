@@ -1,3 +1,20 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga43_2015"
+    label: "Minutes PDF · p. 483"
+    file: "43rd_pcaga_2015.pdf"
+    volume: "ga43_2015"
+    pdf_page: 483
+    url: "https://www.pcahistory.org/pca/ga/43rd_pcaga_2015.pdf#page=483"
+  - type: "minutes"
+    source_id: "minutes:ga44_2016"
+    label: "Minutes PDF · p. 456"
+    file: "44th_pcaga_2016.pdf"
+    volume: "ga44_2016"
+    pdf_page: 456
+    url: "https://www.pcahistory.org/pca/ga/44th_pcaga_2016.pdf#page=456"
+---
 # Warrior Presbytery — BCO 15-1
 
 *Membership committee empowered to act as a commission; minutes of commission…*

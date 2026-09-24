@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga32_2004"
+    label: "Minutes PDF · p. 227"
+    file: "32nd_pcaga_2004.pdf"
+    volume: "ga32_2004"
+    pdf_page: 227
+    url: "https://www.pcahistory.org/pca/ga/32nd_pcaga_2004.pdf#page=227"
+---
 # New River Presbytery — BCO 13-6, RAO 14-3.e.5
 
 *Incomplete record of TE transfer exam elements. BCO 13-6; RAO 14-3.e.5…*

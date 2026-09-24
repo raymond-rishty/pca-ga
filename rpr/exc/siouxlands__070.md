@@ -1,3 +1,20 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga44_2016"
+    label: "Minutes PDF · p. 444"
+    file: "44th_pcaga_2016.pdf"
+    volume: "ga44_2016"
+    pdf_page: 444
+    url: "https://www.pcahistory.org/pca/ga/44th_pcaga_2016.pdf#page=444"
+  - type: "minutes"
+    source_id: "minutes:ga45_2017"
+    label: "Minutes PDF · p. 415"
+    file: "45th_pcaga_2017.pdf"
+    volume: "ga45_2017"
+    pdf_page: 415
+    url: "https://www.pcahistory.org/pca/ga/45th_pcaga_2017.pdf#page=415"
+---
 # Siouxlands Presbytery — BCO 21-4
 
 *Incomplete record of ordination exam. Response : Agree with exception. The…*

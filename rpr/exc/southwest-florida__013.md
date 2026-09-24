@@ -1,3 +1,27 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga25_1997"
+    label: "Minutes PDF · p. 220"
+    file: "25th_pcaga_1997.pdf"
+    volume: "ga25_1997"
+    pdf_page: 220
+    url: "https://www.pcahistory.org/pca/ga/25th_pcaga_1997.pdf#page=220"
+  - type: "minutes"
+    source_id: "minutes:ga26_1998"
+    label: "Minutes PDF · p. 255"
+    file: "26th_pcaga_1998.pdf"
+    volume: "ga26_1998"
+    pdf_page: 255
+    url: "https://www.pcahistory.org/pca/ga/26th_pcaga_1998.pdf#page=255"
+  - type: "minutes"
+    source_id: "minutes:ga27_1999"
+    label: "Minutes PDF · p. 209"
+    file: "27th_pcaga_1999.pdf"
+    volume: "ga27_1999"
+    pdf_page: 209
+    url: "https://www.pcahistory.org/pca/ga/27th_pcaga_1999.pdf#page=209"
+---
 # Southwest Florida Presbytery — exception of substance
 
 *No directory, roll of presbytery, list of candidates under care and…*

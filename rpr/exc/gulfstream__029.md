@@ -1,3 +1,20 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga44_2016"
+    label: "Minutes PDF · p. 412"
+    file: "44th_pcaga_2016.pdf"
+    volume: "ga44_2016"
+    pdf_page: 412
+    url: "https://www.pcahistory.org/pca/ga/44th_pcaga_2016.pdf#page=412"
+  - type: "minutes"
+    source_id: "minutes:ga46_2018"
+    label: "Minutes PDF · p. 402"
+    file: "46th_pcaga_2018.pdf"
+    volume: "ga46_2018"
+    pdf_page: 402
+    url: "https://www.pcahistory.org/pca/ga/46th_pcaga_2018.pdf#page=402"
+---
 # Gulfstream Presbytery — BCO 15-1, RAO 163.e.4
 
 *Minutes of commission not entered in Presbytery…*

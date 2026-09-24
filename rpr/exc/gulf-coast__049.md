@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga51_2024"
+    label: "Minutes PDF · p. 515"
+    file: "51st_pcaga_2024.pdf"
+    volume: "ga51_2024"
+    pdf_page: 515
+    url: "https://www.pcahistory.org/pca/ga/51st_pcaga_2024.pdf#page=515"
+---
 # Gulf Coast Presbytery — BCO 23-1
 
 *The minutes report that a pastoral relationship is dissolved. There is no…*

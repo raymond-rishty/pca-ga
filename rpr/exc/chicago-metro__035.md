@@ -1,3 +1,20 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga48_2021"
+    label: "Minutes PDF · p. 559"
+    file: "48th_pcaga_2021.pdf"
+    volume: "ga48_2021"
+    pdf_page: 559
+    url: "https://www.pcahistory.org/pca/ga/48th_pcaga_2021.pdf#page=559"
+  - type: "minutes"
+    source_id: "minutes:ga49_2022"
+    label: "Minutes PDF · p. 510"
+    file: "49th_pcaga_2022.pdf"
+    volume: "ga49_2022"
+    pdf_page: 510
+    url: "https://www.pcahistory.org/pca/ga/49th_pcaga_2022.pdf#page=510"
+---
 # Chicago Metro Presbytery — RAO 16-3.e.5
 
 *No record of candidate’s ([name omitted]) differences with…*

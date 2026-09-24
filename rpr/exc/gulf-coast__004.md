@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga23_1995"
+    label: "Minutes PDF · p. 190"
+    file: "23rd_pcaga_1995.pdf"
+    volume: "ga23_1995"
+    pdf_page: 190
+    url: "https://www.pcahistory.org/pca/ga/23rd_pcaga_1995.pdf#page=190"
+---
 # Gulf Coast Presbytery — RAO 14-10
 
 *Purpose of the called meeting not stated verbatim in the minutes or referenced…*

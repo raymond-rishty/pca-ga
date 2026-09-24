@@ -1,3 +1,27 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga16_1988"
+    label: "Minutes PDF · p. 510"
+    file: "16th_pcaga_1988.pdf"
+    volume: "ga16_1988"
+    pdf_page: 510
+    url: "https://www.pcahistory.org/pca/ga/16th_pcaga_1988.pdf#page=510"
+  - type: "minutes"
+    source_id: "minutes:ga16_1988"
+    label: "Minutes PDF · p. 513"
+    file: "16th_pcaga_1988.pdf"
+    volume: "ga16_1988"
+    pdf_page: 513
+    url: "https://www.pcahistory.org/pca/ga/16th_pcaga_1988.pdf#page=513"
+  - type: "minutes"
+    source_id: "minutes:ga16_1988"
+    label: "Minutes PDF · p. 533"
+    file: "16th_pcaga_1988.pdf"
+    volume: "ga16_1988"
+    pdf_page: 533
+    url: "https://www.pcahistory.org/pca/ga/16th_pcaga_1988.pdf#page=533"
+---
 # FREEMASONRY
 
 *REPORT OF THE AD-INTERIM COMMITTEE TO STUDY FREEMASONRY*

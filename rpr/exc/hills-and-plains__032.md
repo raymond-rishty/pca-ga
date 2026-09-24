@@ -1,3 +1,20 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga48_2021"
+    label: "Minutes PDF · p. 576"
+    file: "48th_pcaga_2021.pdf"
+    volume: "ga48_2021"
+    pdf_page: 576
+    url: "https://www.pcahistory.org/pca/ga/48th_pcaga_2021.pdf#page=576"
+  - type: "minutes"
+    source_id: "minutes:ga49_2022"
+    label: "Minutes PDF · p. 537"
+    file: "49th_pcaga_2022.pdf"
+    volume: "ga49_2022"
+    pdf_page: 537
+    url: "https://www.pcahistory.org/pca/ga/49th_pcaga_2022.pdf#page=537"
+---
 # Hills and Plains Presbytery — BCO 21-4.c.1
 
 *No record of examination of a candidate for ordination in Theology, knowledge…*

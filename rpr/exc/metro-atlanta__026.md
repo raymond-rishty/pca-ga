@@ -1,3 +1,20 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga39_2011"
+    label: "Minutes PDF · p. 461"
+    file: "39th_pcaga_2011.pdf"
+    volume: "ga39_2011"
+    pdf_page: 461
+    url: "https://www.pcahistory.org/pca/ga/39th_pcaga_2011.pdf#page=461"
+  - type: "minutes"
+    source_id: "minutes:ga40_2012"
+    label: "Minutes PDF · p. 440"
+    file: "40th_pcaga_2012.pdf"
+    volume: "ga40_2012"
+    pdf_page: 440
+    url: "https://www.pcahistory.org/pca/ga/40th_pcaga_2012.pdf#page=440"
+---
 # Metro Atlanta Presbytery — BCO 40-1
 
 *No evidence that Presbytery took any action on minutes of sessions that were…*

@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga47_2019"
+    label: "Minutes PDF · p. 498"
+    file: "47th_pcaga_2019.pdf"
+    volume: "ga47_2019"
+    pdf_page: 498
+    url: "https://www.pcahistory.org/pca/ga/47th_pcaga_2019.pdf#page=498"
+---
 # Palmetto Presbytery — BCO 21-4.f
 
 *( BCO 21-4.f. and RAO 16.3.e.5) – No record that four candidates in ordination…*

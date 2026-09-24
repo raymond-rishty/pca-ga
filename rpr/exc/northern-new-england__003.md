@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga31_2003"
+    label: "Minutes PDF · p. 246"
+    file: "31st_pcaga_2003.pdf"
+    volume: "ga31_2003"
+    pdf_page: 246
+    url: "https://www.pcahistory.org/pca/ga/31st_pcaga_2003.pdf#page=246"
+---
 # Northern New England Presbytery — exception of substance
 
 *Incomplete minutes submitted. Pages 2,4,6,8 missing. “RAO”…*

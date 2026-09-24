@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga24_1996"
+    label: "Minutes PDF · p. 258"
+    file: "24th_pcaga_1996.pdf"
+    volume: "ga24_1996"
+    pdf_page: 258
+    url: "https://www.pcahistory.org/pca/ga/24th_pcaga_1996.pdf#page=258"
+---
 # Northeast Presbytery — BCO 19-1)
 
 *p. 24, (29): TE from another denomination was permitted to preach regularly…*

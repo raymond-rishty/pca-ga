@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga52_2025"
+    label: "Minutes PDF · p. 532"
+    file: "52nd_pcaga_2025.pdf"
+    volume: "ga52_2025"
+    pdf_page: 532
+    url: "https://www.pcahistory.org/pca/ga/52nd_pcaga_2025.pdf#page=532"
+---
 # Central Indiana Presbytery — BCO 8-7
 
 *No record of annual report(s) of TE(s) laboring out of…*

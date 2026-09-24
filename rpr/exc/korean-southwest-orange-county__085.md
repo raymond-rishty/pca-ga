@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga51_2024"
+    label: "Minutes PDF · p. 576"
+    file: "51st_pcaga_2024.pdf"
+    volume: "ga51_2024"
+    pdf_page: 576
+    url: "https://www.pcahistory.org/pca/ga/51st_pcaga_2024.pdf#page=576"
+---
 # Korean Southwest Orange County Presbytery — BCO 20-1
 
 *No record of calls to a definite…*

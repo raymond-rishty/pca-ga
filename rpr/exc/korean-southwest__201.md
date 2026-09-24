@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga50_2023"
+    label: "Minutes PDF · p. 630"
+    file: "50th_pcaga_2023.pdf"
+    volume: "ga50_2023"
+    pdf_page: 630
+    url: "https://www.pcahistory.org/pca/ga/50th_pcaga_2023.pdf#page=630"
+---
 # Korean Southwest Presbytery — BCO 19-2, RAO 16-3.e.5
 
 *All specific requirements of licensure exam not recorded. [Missing Christian…*

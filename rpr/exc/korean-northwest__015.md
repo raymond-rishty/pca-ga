@@ -1,3 +1,27 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga32_2004"
+    label: "Minutes PDF · p. 219"
+    file: "32nd_pcaga_2004.pdf"
+    volume: "ga32_2004"
+    pdf_page: 219
+    url: "https://www.pcahistory.org/pca/ga/32nd_pcaga_2004.pdf#page=219"
+  - type: "minutes"
+    source_id: "minutes:ga33_2005"
+    label: "Minutes PDF · p. 284"
+    file: "33rd_pcaga_2005.pdf"
+    volume: "ga33_2005"
+    pdf_page: 284
+    url: "https://www.pcahistory.org/pca/ga/33rd_pcaga_2005.pdf#page=284"
+  - type: "minutes"
+    source_id: "minutes:ga34_2006"
+    label: "Minutes PDF · p. 267"
+    file: "34th_pcaga_2006.pdf"
+    volume: "ga34_2006"
+    pdf_page: 267
+    url: "https://www.pcahistory.org/pca/ga/34th_pcaga_2006.pdf#page=267"
+---
 # Korean Northwest Presbytery — BCO 21-4
 
 *Presbytery is required to meet twice a year. Minutes submitted for only one…*

@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga32_2004"
+    label: "Minutes PDF · p. 226"
+    file: "32nd_pcaga_2004.pdf"
+    volume: "ga32_2004"
+    pdf_page: 226
+    url: "https://www.pcahistory.org/pca/ga/32nd_pcaga_2004.pdf#page=226"
+---
 # New Jersey Presbytery — RAO 14-3.e.5
 
 *: Ordination exam items not listed. RAO 14-3.e.5 Response : In the future we…*

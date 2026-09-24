@@ -1,3 +1,90 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga42_2014"
+    label: "Minutes PDF · p. 425"
+    file: "42nd_pcaga_2014.pdf"
+    volume: "ga42_2014"
+    pdf_page: 425
+    url: "https://www.pcahistory.org/pca/ga/42nd_pcaga_2014.pdf#page=425"
+  - type: "minutes"
+    source_id: "minutes:ga43_2015"
+    label: "Minutes PDF · p. 455"
+    file: "43rd_pcaga_2015.pdf"
+    volume: "ga43_2015"
+    pdf_page: 455
+    url: "https://www.pcahistory.org/pca/ga/43rd_pcaga_2015.pdf#page=455"
+  - type: "minutes"
+    source_id: "minutes:ga44_2016"
+    label: "Minutes PDF · p. 425"
+    file: "44th_pcaga_2016.pdf"
+    volume: "ga44_2016"
+    pdf_page: 425
+    url: "https://www.pcahistory.org/pca/ga/44th_pcaga_2016.pdf#page=425"
+  - type: "minutes"
+    source_id: "minutes:ga45_2017"
+    label: "Minutes PDF · p. 398"
+    file: "45th_pcaga_2017.pdf"
+    volume: "ga45_2017"
+    pdf_page: 398
+    url: "https://www.pcahistory.org/pca/ga/45th_pcaga_2017.pdf#page=398"
+  - type: "minutes"
+    source_id: "minutes:ga45_2017"
+    label: "Minutes PDF · p. 399"
+    file: "45th_pcaga_2017.pdf"
+    volume: "ga45_2017"
+    pdf_page: 399
+    url: "https://www.pcahistory.org/pca/ga/45th_pcaga_2017.pdf#page=399"
+  - type: "minutes"
+    source_id: "minutes:ga46_2018"
+    label: "Minutes PDF · p. 425"
+    file: "46th_pcaga_2018.pdf"
+    volume: "ga46_2018"
+    pdf_page: 425
+    url: "https://www.pcahistory.org/pca/ga/46th_pcaga_2018.pdf#page=425"
+  - type: "minutes"
+    source_id: "minutes:ga46_2018"
+    label: "Minutes PDF · p. 428"
+    file: "46th_pcaga_2018.pdf"
+    volume: "ga46_2018"
+    pdf_page: 428
+    url: "https://www.pcahistory.org/pca/ga/46th_pcaga_2018.pdf#page=428"
+  - type: "minutes"
+    source_id: "minutes:ga47_2019"
+    label: "Minutes PDF · p. 484"
+    file: "47th_pcaga_2019.pdf"
+    volume: "ga47_2019"
+    pdf_page: 484
+    url: "https://www.pcahistory.org/pca/ga/47th_pcaga_2019.pdf#page=484"
+  - type: "minutes"
+    source_id: "minutes:ga48_2021"
+    label: "Minutes PDF · p. 594"
+    file: "48th_pcaga_2021.pdf"
+    volume: "ga48_2021"
+    pdf_page: 594
+    url: "https://www.pcahistory.org/pca/ga/48th_pcaga_2021.pdf#page=594"
+  - type: "minutes"
+    source_id: "minutes:ga49_2022"
+    label: "Minutes PDF · p. 564"
+    file: "49th_pcaga_2022.pdf"
+    volume: "ga49_2022"
+    pdf_page: 564
+    url: "https://www.pcahistory.org/pca/ga/49th_pcaga_2022.pdf#page=564"
+  - type: "minutes"
+    source_id: "minutes:ga49_2022"
+    label: "Minutes PDF · p. 567"
+    file: "49th_pcaga_2022.pdf"
+    volume: "ga49_2022"
+    pdf_page: 567
+    url: "https://www.pcahistory.org/pca/ga/49th_pcaga_2022.pdf#page=567"
+  - type: "minutes"
+    source_id: "minutes:ga50_2023"
+    label: "Minutes PDF · p. 630"
+    file: "50th_pcaga_2023.pdf"
+    volume: "ga50_2023"
+    pdf_page: 630
+    url: "https://www.pcahistory.org/pca/ga/50th_pcaga_2023.pdf#page=630"
+---
 # Korean Southwest Presbytery — BCO 24-1
 
 *Ruling elders are called by the local church and trained per session…*

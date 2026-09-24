@@ -1,3 +1,20 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga49_2022"
+    label: "Minutes PDF · p. 605"
+    file: "49th_pcaga_2022.pdf"
+    volume: "ga49_2022"
+    pdf_page: 605
+    url: "https://www.pcahistory.org/pca/ga/49th_pcaga_2022.pdf#page=605"
+  - type: "minutes"
+    source_id: "minutes:ga50_2023"
+    label: "Minutes PDF · p. 680"
+    file: "50th_pcaga_2023.pdf"
+    volume: "ga50_2023"
+    pdf_page: 680
+    url: "https://www.pcahistory.org/pca/ga/50th_pcaga_2023.pdf#page=680"
+---
 # Palmetto Presbytery — BCO 13-6
 
 *No record of examination of TE transferring into…*

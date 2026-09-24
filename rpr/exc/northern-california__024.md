@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga35_2007"
+    label: "Minutes PDF · p. 200"
+    file: "35th_pcaga_2007.pdf"
+    volume: "ga35_2007"
+    pdf_page: 200
+    url: "https://www.pcahistory.org/pca/ga/35th_pcaga_2007.pdf#page=200"
+---
 # Northern California Presbytery — BCO 5-9
 
 *: Deacons are commissioned as part of organizing a particular church without…*

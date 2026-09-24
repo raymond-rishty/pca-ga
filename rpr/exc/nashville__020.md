@@ -1,3 +1,34 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga31_2003"
+    label: "Minutes PDF · p. 240"
+    file: "31st_pcaga_2003.pdf"
+    volume: "ga31_2003"
+    pdf_page: 240
+    url: "https://www.pcahistory.org/pca/ga/31st_pcaga_2003.pdf#page=240"
+  - type: "minutes"
+    source_id: "minutes:ga32_2004"
+    label: "Minutes PDF · p. 226"
+    file: "32nd_pcaga_2004.pdf"
+    volume: "ga32_2004"
+    pdf_page: 226
+    url: "https://www.pcahistory.org/pca/ga/32nd_pcaga_2004.pdf#page=226"
+  - type: "minutes"
+    source_id: "minutes:ga46_2018"
+    label: "Minutes PDF · p. 434"
+    file: "46th_pcaga_2018.pdf"
+    volume: "ga46_2018"
+    pdf_page: 434
+    url: "https://www.pcahistory.org/pca/ga/46th_pcaga_2018.pdf#page=434"
+  - type: "minutes"
+    source_id: "minutes:ga47_2019"
+    label: "Minutes PDF · p. 490"
+    file: "47th_pcaga_2019.pdf"
+    volume: "ga47_2019"
+    pdf_page: 490
+    url: "https://www.pcahistory.org/pca/ga/47th_pcaga_2019.pdf#page=490"
+---
 # Nashville Presbytery — BCO 13-9
 
 *General: No record of session minutes being examined. BCO…*

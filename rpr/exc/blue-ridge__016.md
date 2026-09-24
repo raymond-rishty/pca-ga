@@ -1,3 +1,20 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga40_2012"
+    label: "Minutes PDF · p. 415"
+    file: "40th_pcaga_2012.pdf"
+    volume: "ga40_2012"
+    pdf_page: 415
+    url: "https://www.pcahistory.org/pca/ga/40th_pcaga_2012.pdf#page=415"
+  - type: "minutes"
+    source_id: "minutes:ga41_2013"
+    label: "Minutes PDF · p. 417"
+    file: "41st_pcaga_2013.pdf"
+    volume: "ga41_2013"
+    pdf_page: 417
+    url: "https://www.pcahistory.org/pca/ga/41st_pcaga_2013.pdf#page=417"
+---
 # Blue Ridge Presbytery — RAO 16-3.d
 
 *Minutes not submitted for…*

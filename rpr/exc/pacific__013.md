@@ -1,3 +1,20 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga25_1997"
+    label: "Minutes PDF · p. 215"
+    file: "25th_pcaga_1997.pdf"
+    volume: "ga25_1997"
+    pdf_page: 215
+    url: "https://www.pcahistory.org/pca/ga/25th_pcaga_1997.pdf#page=215"
+  - type: "minutes"
+    source_id: "minutes:ga28_2000"
+    label: "Minutes PDF · p. 340"
+    file: "28th_pcaga_2000.pdf"
+    volume: "ga28_2000"
+    pdf_page: 340
+    url: "https://www.pcahistory.org/pca/ga/28th_pcaga_2000.pdf#page=340"
+---
 # Pacific Presbytery — BCO 11-4
 
 *A Commission is established by Presbytery to discipline a church member…*

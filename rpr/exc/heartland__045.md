@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga44_2016"
+    label: "Minutes PDF · p. 412"
+    file: "44th_pcaga_2016.pdf"
+    volume: "ga44_2016"
+    pdf_page: 412
+    url: "https://www.pcahistory.org/pca/ga/44th_pcaga_2016.pdf#page=412"
+---
 # Heartland Presbytery — BCO 23-1
 
 *No record of congregation approving the dissolution of pastoral…*

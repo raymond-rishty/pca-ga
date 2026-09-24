@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga22_1994"
+    label: "Minutes PDF · p. 293"
+    file: "22nd_pcaga_1994.pdf"
+    volume: "ga22_1994"
+    pdf_page: 293
+    url: "https://www.pcahistory.org/pca/ga/22nd_pcaga_1994.pdf#page=293"
+---
 # Illiana Presbytery — BCO 13-11, RAO 14-10
 
 *p. 1: The purpose of the called meeting is not stated (BCO 13-11; RAO 14-10…*

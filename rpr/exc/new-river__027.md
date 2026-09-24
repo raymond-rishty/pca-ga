@@ -1,3 +1,20 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga34_2006"
+    label: "Minutes PDF · p. 277"
+    file: "34th_pcaga_2006.pdf"
+    volume: "ga34_2006"
+    pdf_page: 277
+    url: "https://www.pcahistory.org/pca/ga/34th_pcaga_2006.pdf#page=277"
+  - type: "minutes"
+    source_id: "minutes:ga35_2007"
+    label: "Minutes PDF · p. 198"
+    file: "35th_pcaga_2007.pdf"
+    volume: "ga35_2007"
+    pdf_page: 198
+    url: "https://www.pcahistory.org/pca/ga/35th_pcaga_2007.pdf#page=198"
+---
 # New River Presbytery — BCO 13-12
 
 *Business transacted that was not included in the purpose of the called…*

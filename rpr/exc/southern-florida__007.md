@@ -1,3 +1,27 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga28_2000"
+    label: "Minutes PDF · p. 343"
+    file: "28th_pcaga_2000.pdf"
+    volume: "ga28_2000"
+    pdf_page: 343
+    url: "https://www.pcahistory.org/pca/ga/28th_pcaga_2000.pdf#page=343"
+  - type: "minutes"
+    source_id: "minutes:ga29_2001"
+    label: "Minutes PDF · p. 355"
+    file: "29th_pcaga_2001.pdf"
+    volume: "ga29_2001"
+    pdf_page: 355
+    url: "https://www.pcahistory.org/pca/ga/29th_pcaga_2001.pdf#page=355"
+  - type: "minutes"
+    source_id: "minutes:ga30_2002"
+    label: "Minutes PDF · p. 337"
+    file: "30th_pcaga_2002.pdf"
+    volume: "ga30_2002"
+    pdf_page: 337
+    url: "https://www.pcahistory.org/pca/ga/30th_pcaga_2002.pdf#page=337"
+---
 # Southern Florida Presbytery — BCO 13-6
 
 *BCO 13-6 requires thorough exam of transfers in all areas. No extraordinary…*

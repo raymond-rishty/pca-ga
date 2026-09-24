@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga22_1994"
+    label: "Minutes PDF · p. 290"
+    file: "22nd_pcaga_1994.pdf"
+    volume: "ga22_1994"
+    pdf_page: 290
+    url: "https://www.pcahistory.org/pca/ga/22nd_pcaga_1994.pdf#page=290"
+---
 # Grace Presbytery — BCO 13-10
 
 *page 152 is missing. (BCO 13-10; RAO…*

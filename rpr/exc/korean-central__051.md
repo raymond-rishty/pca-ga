@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga39_2011"
+    label: "Minutes PDF · p. 457"
+    file: "39th_pcaga_2011.pdf"
+    volume: "ga39_2011"
+    pdf_page: 457
+    url: "https://www.pcahistory.org/pca/ga/39th_pcaga_2011.pdf#page=457"
+---
 # Korean Central Presbytery — BCO 20-1
 
 *– No record of call to a definite work; terms of call not…*

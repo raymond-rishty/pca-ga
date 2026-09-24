@@ -1,3 +1,20 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga48_2021"
+    label: "Minutes PDF · p. 885"
+    file: "48th_pcaga_2021.pdf"
+    volume: "ga48_2021"
+    pdf_page: 885
+    url: "https://www.pcahistory.org/pca/ga/48th_pcaga_2021.pdf#page=885"
+  - type: "minutes"
+    source_id: "minutes:ga48_2021"
+    label: "Minutes PDF · p. 889"
+    file: "48th_pcaga_2021.pdf"
+    volume: "ga48_2021"
+    pdf_page: 889
+    url: "https://www.pcahistory.org/pca/ga/48th_pcaga_2021.pdf#page=889"
+---
 # DOMESTIC VIOLENCE AND SEXUAL ASSAULT
 
 *APPENDIX V REPORT OF THE AD INTERIM COMMITTEE ON DOMESTIC VIOLENCE AND SEXUAL ASSAULT TO THE FORTY-EIGHTH GENERAL ASSEMBLY OF THE PRESBYTERIAN CHURCH IN AMERICA*

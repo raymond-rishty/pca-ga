@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga38_2010"
+    label: "Minutes PDF · p. 109"
+    file: "38th_pcaga_2010.pdf"
+    volume: "ga38_2010"
+    pdf_page: 109
+    url: "https://www.pcahistory.org/pca/ga/38th_pcaga_2010.pdf#page=109"
+---
 # Pacific Presbytery — BCO 19-2
 
 *No record of licensure…*

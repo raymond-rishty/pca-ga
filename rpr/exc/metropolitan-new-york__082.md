@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga50_2023"
+    label: "Minutes PDF · p. 645"
+    file: "50th_pcaga_2023.pdf"
+    volume: "ga50_2023"
+    pdf_page: 645
+    url: "https://www.pcahistory.org/pca/ga/50th_pcaga_2023.pdf#page=645"
+---
 # Metropolitan New York Presbytery — WCF 21-5, WLC 158, BCO 4-4
 
 *( WCF 21-5; WLC 158; BCO 4-4; 8-5; 40-5; 58-4) – Presbytery delinquent to…*

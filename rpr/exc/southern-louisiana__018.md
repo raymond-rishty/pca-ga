@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga50_2023"
+    label: "Minutes PDF · p. 707"
+    file: "50th_pcaga_2023.pdf"
+    volume: "ga50_2023"
+    pdf_page: 707
+    url: "https://www.pcahistory.org/pca/ga/50th_pcaga_2023.pdf#page=707"
+---
 # Southern Louisiana Presbytery — BCO 21-4
 
 *Incomplete record of ordination exam: experiential religion, especially his…*

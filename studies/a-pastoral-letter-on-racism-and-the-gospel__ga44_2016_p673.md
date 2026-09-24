@@ -1,3 +1,42 @@
+---
+source_links:
+  - type: "dedicated"
+    source_id: "dedicated-pdf:Thabiti-Jonathan-Edwards-slavery-and-theological-appropriation"
+    label: "Dedicated source PDF"
+    file: "Thabiti-Jonathan-Edwards-slavery-and-theological-appropriation.pdf"
+    url: "https://blogs.thegospelcoalition.org/justintaylor/files/2012/02/Thabiti-Jonathan-Edwards-slavery-and-theological-appropriation.pdf"
+  - type: "dedicated"
+    source_id: "dedicated-pdf:spiritualityofchurchreadings"
+    label: "Dedicated source PDF"
+    file: "spiritualityofchurchreadings.pdf"
+    url: "http://www.newhopefairfax.org/files/spiritualityofchurchreadings.pdf"
+  - type: "dedicated"
+    source_id: "dedicated-pdf:08Winter"
+    label: "Dedicated source PDF"
+    file: "08Winter.pdf"
+    url: "http://history.pcusa.org/sites/default/files/08Winter.pdf"
+  - type: "minutes"
+    source_id: "minutes:ga44_2016"
+    label: "Minutes PDF · p. 675"
+    file: "44th_pcaga_2016.pdf"
+    volume: "ga44_2016"
+    pdf_page: 675
+    url: "https://www.pcahistory.org/pca/ga/44th_pcaga_2016.pdf#page=675"
+  - type: "minutes"
+    source_id: "minutes:ga44_2016"
+    label: "Minutes PDF · p. 676"
+    file: "44th_pcaga_2016.pdf"
+    volume: "ga44_2016"
+    pdf_page: 676
+    url: "https://www.pcahistory.org/pca/ga/44th_pcaga_2016.pdf#page=676"
+  - type: "minutes"
+    source_id: "minutes:ga44_2016"
+    label: "Minutes PDF · p. 709"
+    file: "44th_pcaga_2016.pdf"
+    volume: "ga44_2016"
+    pdf_page: 709
+    url: "https://www.pcahistory.org/pca/ga/44th_pcaga_2016.pdf#page=709"
+---
 # A Pastoral Letter on Racism and the Gospel
 
 *A Pastoral Letter on Racism and the Gospel*

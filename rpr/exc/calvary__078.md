@@ -1,3 +1,20 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga34_2006"
+    label: "Minutes PDF · p. 243"
+    file: "34th_pcaga_2006.pdf"
+    volume: "ga34_2006"
+    pdf_page: 243
+    url: "https://www.pcahistory.org/pca/ga/34th_pcaga_2006.pdf#page=243"
+  - type: "minutes"
+    source_id: "minutes:ga35_2007"
+    label: "Minutes PDF · p. 173"
+    file: "35th_pcaga_2007.pdf"
+    volume: "ga35_2007"
+    pdf_page: 173
+    url: "https://www.pcahistory.org/pca/ga/35th_pcaga_2007.pdf#page=173"
+---
 # Calvary Presbytery — BCO 23-1
 
 *: No record that BCO 23-1 was complied with regarding dissolution of pastoral…*

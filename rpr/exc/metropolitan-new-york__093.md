@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga52_2025"
+    label: "Minutes PDF · p. 628"
+    file: "52nd_pcaga_2025.pdf"
+    volume: "ga52_2025"
+    pdf_page: 628
+    url: "https://www.pcahistory.org/pca/ga/52nd_pcaga_2025.pdf#page=628"
+---
 # Metropolitan New York Presbytery — BCO 13-11, BCO 31-2
 
 *There is insufficient record in the minutes of actions taken by the Presbytery…*

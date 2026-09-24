@@ -1,3 +1,20 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga34_2006"
+    label: "Minutes PDF · p. 276"
+    file: "34th_pcaga_2006.pdf"
+    volume: "ga34_2006"
+    pdf_page: 276
+    url: "https://www.pcahistory.org/pca/ga/34th_pcaga_2006.pdf#page=276"
+  - type: "minutes"
+    source_id: "minutes:ga36_2008"
+    label: "Minutes PDF · p. 241"
+    file: "36th_pcaga_2008.pdf"
+    volume: "ga36_2008"
+    pdf_page: 241
+    url: "https://www.pcahistory.org/pca/ga/36th_pcaga_2008.pdf#page=241"
+---
 # Nashville Presbytery — BCO 15-1
 
 *Commission was dissolved by a committee and not by the presbytery. BCO 15-1.…*

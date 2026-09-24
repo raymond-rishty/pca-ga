@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga22_1994"
+    label: "Minutes PDF · p. 315"
+    file: "22nd_pcaga_1994.pdf"
+    volume: "ga22_1994"
+    pdf_page: 315
+    url: "https://www.pcahistory.org/pca/ga/22nd_pcaga_1994.pdf#page=315"
+---
 # Southeast Louisiana Presbytery — exception of substance
 
 *Generally: There was no separate directory or roll of…*

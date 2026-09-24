@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga40_2012"
+    label: "Minutes PDF · p. 451"
+    file: "40th_pcaga_2012.pdf"
+    volume: "ga40_2012"
+    pdf_page: 451
+    url: "https://www.pcahistory.org/pca/ga/40th_pcaga_2012.pdf#page=451"
+---
 # Northern California Presbytery — BCO 9-3, RAO 16-10.b
 
 *: Diaconate of new church includes 2 Deaconesses commissioned contrary to BCO…*

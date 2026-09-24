@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga22_1994"
+    label: "Minutes PDF · p. 296"
+    file: "22nd_pcaga_1994.pdf"
+    volume: "ga22_1994"
+    pdf_page: 296
+    url: "https://www.pcahistory.org/pca/ga/22nd_pcaga_1994.pdf#page=296"
+---
 # Mid-America Presbytery — exception of substance
 
 *Presbytery is directed at its next stated meeting, to adopt a response to the…*

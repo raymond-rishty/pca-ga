@@ -1,3 +1,34 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga38_2010"
+    label: "Minutes PDF · p. 115"
+    file: "38th_pcaga_2010.pdf"
+    volume: "ga38_2010"
+    pdf_page: 115
+    url: "https://www.pcahistory.org/pca/ga/38th_pcaga_2010.pdf#page=115"
+  - type: "minutes"
+    source_id: "minutes:ga39_2011"
+    label: "Minutes PDF · p. 485"
+    file: "39th_pcaga_2011.pdf"
+    volume: "ga39_2011"
+    pdf_page: 485
+    url: "https://www.pcahistory.org/pca/ga/39th_pcaga_2011.pdf#page=485"
+  - type: "minutes"
+    source_id: "minutes:ga40_2012"
+    label: "Minutes PDF · p. 473"
+    file: "40th_pcaga_2012.pdf"
+    volume: "ga40_2012"
+    pdf_page: 473
+    url: "https://www.pcahistory.org/pca/ga/40th_pcaga_2012.pdf#page=473"
+  - type: "minutes"
+    source_id: "minutes:ga41_2013"
+    label: "Minutes PDF · p. 479"
+    file: "41st_pcaga_2013.pdf"
+    volume: "ga41_2013"
+    pdf_page: 479
+    url: "https://www.pcahistory.org/pca/ga/41st_pcaga_2013.pdf#page=479"
+---
 # South Florida Presbytery — RAO 16-3.e.6
 
 *Minutes of executive session not…*

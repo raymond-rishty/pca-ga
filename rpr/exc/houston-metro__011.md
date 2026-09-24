@@ -1,3 +1,20 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga35_2007"
+    label: "Minutes PDF · p. 188"
+    file: "35th_pcaga_2007.pdf"
+    volume: "ga35_2007"
+    pdf_page: 188
+    url: "https://www.pcahistory.org/pca/ga/35th_pcaga_2007.pdf#page=188"
+  - type: "minutes"
+    source_id: "minutes:ga36_2008"
+    label: "Minutes PDF · p. 228"
+    file: "36th_pcaga_2008.pdf"
+    volume: "ga36_2008"
+    pdf_page: 228
+    url: "https://www.pcahistory.org/pca/ga/36th_pcaga_2008.pdf#page=228"
+---
 # Houston Metro Presbytery — BCO 15-2
 
 *: Commission appointed by moderator without presbytery authorization. BCO…*

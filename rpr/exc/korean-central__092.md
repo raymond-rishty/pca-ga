@@ -1,3 +1,20 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga48_2021"
+    label: "Minutes PDF · p. 584"
+    file: "48th_pcaga_2021.pdf"
+    volume: "ga48_2021"
+    pdf_page: 584
+    url: "https://www.pcahistory.org/pca/ga/48th_pcaga_2021.pdf#page=584"
+  - type: "minutes"
+    source_id: "minutes:ga49_2022"
+    label: "Minutes PDF · p. 555"
+    file: "49th_pcaga_2022.pdf"
+    volume: "ga49_2022"
+    pdf_page: 555
+    url: "https://www.pcahistory.org/pca/ga/49th_pcaga_2022.pdf#page=555"
+---
 # Korean Central Presbytery — BCO 20-1
 
 *( BCO 20-1 ; 20-6 ; RAO 16-3.e.6) – No record that calls to TEs were examined…*

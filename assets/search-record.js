@@ -10,6 +10,8 @@
     'RPR exception': { className: 'rpr', label: 'RPR exception' },
     'Overture': { className: 'overture', label: 'Overture' },
     'Position paper': { className: 'study', label: 'Study / position paper' },
+    'Constitutional provision': { className: 'provision', label: 'Constitutional provision' },
+    'Supplementary rule': { className: 'provision', label: 'Supplementary rule (not constitutional)' },
   };
 
   const GA_IN_URL = /ga(\d{2})_(\d{4})/i;
@@ -114,6 +116,9 @@
   }
 
   function identifier(record) {
+    if (record.type === 'Constitutional provision' || record.type === 'Supplementary rule') {
+      return clean(record.identifier) || clean(record.title).split(' · ')[0];
+    }
     if (record.type === 'Judicial case') {
       const match = clean(record.sub).match(CASE_IN_SUB);
       return match ? `Case ${match[1]}` : 'Judicial case';
@@ -131,6 +136,7 @@
   }
 
   function excerpt(record) {
+    if (record.type === 'Constitutional provision' || record.type === 'Supplementary rule') return clean(record.sub);
     if (record.type === 'Judicial case') return clean(record.summary);
     if (record.type === 'Constitutional inquiry') return clean(record.sub);
     return '';

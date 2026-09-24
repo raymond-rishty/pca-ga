@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga51_2024"
+    label: "Minutes PDF · p. 561"
+    file: "51st_pcaga_2024.pdf"
+    volume: "ga51_2024"
+    pdf_page: 561
+    url: "https://www.pcahistory.org/pca/ga/51st_pcaga_2024.pdf#page=561"
+---
 # Korean Northwest Presbytery — BCO 12-5b
 
 *The church Session has power to examine, ordain, and install ruling…*

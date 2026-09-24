@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga50_2023"
+    label: "Minutes PDF · p. 638"
+    file: "50th_pcaga_2023.pdf"
+    volume: "ga50_2023"
+    pdf_page: 638
+    url: "https://www.pcahistory.org/pca/ga/50th_pcaga_2023.pdf#page=638"
+---
 # Korean Southwest Orange County Presbytery — BCO 18
 
 *Incomplete record of internship. No record of session endorsement, six-months…*

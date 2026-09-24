@@ -1,3 +1,27 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga45_2017"
+    label: "Minutes PDF · p. 380"
+    file: "45th_pcaga_2017.pdf"
+    volume: "ga45_2017"
+    pdf_page: 380
+    url: "https://www.pcahistory.org/pca/ga/45th_pcaga_2017.pdf#page=380"
+  - type: "minutes"
+    source_id: "minutes:ga46_2018"
+    label: "Minutes PDF · p. 384"
+    file: "46th_pcaga_2018.pdf"
+    volume: "ga46_2018"
+    pdf_page: 384
+    url: "https://www.pcahistory.org/pca/ga/46th_pcaga_2018.pdf#page=384"
+  - type: "minutes"
+    source_id: "minutes:ga46_2018"
+    label: "Minutes PDF · p. 394"
+    file: "46th_pcaga_2018.pdf"
+    volume: "ga46_2018"
+    pdf_page: 394
+    url: "https://www.pcahistory.org/pca/ga/46th_pcaga_2018.pdf#page=394"
+---
 # Georgia Foothills Presbytery — BCO 43-2
 
 *The court did not address the substance of the complaint, thereby denying a…*

@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga49_2022"
+    label: "Minutes PDF · p. 617"
+    file: "49th_pcaga_2022.pdf"
+    volume: "ga49_2022"
+    pdf_page: 617
+    url: "https://www.pcahistory.org/pca/ga/49th_pcaga_2022.pdf#page=617"
+---
 # Savannah River Presbytery — BCO 191
 
 *A candidate for licensure should be examined in accordance with BCO 13-6 if he…*

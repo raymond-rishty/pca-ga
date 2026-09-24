@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga51_2024"
+    label: "Minutes PDF · p. 521"
+    file: "51st_pcaga_2024.pdf"
+    volume: "ga51_2024"
+    pdf_page: 521
+    url: "https://www.pcahistory.org/pca/ga/51st_pcaga_2024.pdf#page=521"
+---
 # Gulfstream Presbytery — BCO 8-4
 
 *No record of annual reports received from TEs doing work needful to the…*

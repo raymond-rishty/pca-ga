@@ -1,3 +1,20 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga52_2025"
+    label: "Minutes PDF · p. 605"
+    file: "52nd_pcaga_2025.pdf"
+    volume: "ga52_2025"
+    pdf_page: 605
+    url: "https://www.pcahistory.org/pca/ga/52nd_pcaga_2025.pdf#page=605"
+  - type: "minutes"
+    source_id: "minutes:ga52_2025"
+    label: "Minutes PDF · p. 617"
+    file: "52nd_pcaga_2025.pdf"
+    volume: "ga52_2025"
+    pdf_page: 617
+    url: "https://www.pcahistory.org/pca/ga/52nd_pcaga_2025.pdf#page=617"
+---
 # Korean Southwest Presbytery — BCO 21-4, BCO 19-2.d
 
 *No sermon and no statement of differences with the Standards for one being…*

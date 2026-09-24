@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga18_1990"
+    label: "Minutes PDF · p. 187"
+    file: "18th_pcaga_1990.pdf"
+    volume: "ga18_1990"
+    pdf_page: 187
+    url: "https://www.pcahistory.org/pca/ga/18th_pcaga_1990.pdf#page=187"
+---
 # South Texas Presbytery — BCO 15-1)
 
 *Page 3: No record that Presbytery approved actions of Commission as recorded…*

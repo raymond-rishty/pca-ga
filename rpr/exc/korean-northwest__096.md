@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga51_2024"
+    label: "Minutes PDF · p. 560"
+    file: "51st_pcaga_2024.pdf"
+    volume: "ga51_2024"
+    pdf_page: 560
+    url: "https://www.pcahistory.org/pca/ga/51st_pcaga_2024.pdf#page=560"
+---
 # Korean Northwest Presbytery — BCO 13-12
 
 *Presbytery did not meet at least twice OR minutes not submitted (if Fall 2022…*

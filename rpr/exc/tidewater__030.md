@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga51_2024"
+    label: "Minutes PDF · p. 691"
+    file: "51st_pcaga_2024.pdf"
+    volume: "ga51_2024"
+    pdf_page: 691
+    url: "https://www.pcahistory.org/pca/ga/51st_pcaga_2024.pdf#page=691"
+---
 # Tidewater Presbytery — BCO 19-5
 
 *Incomplete record of a licensure transfer…*

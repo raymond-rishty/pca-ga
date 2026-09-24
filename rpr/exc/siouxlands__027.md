@@ -1,3 +1,27 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga22_1994"
+    label: "Minutes PDF · p. 311"
+    file: "22nd_pcaga_1994.pdf"
+    volume: "ga22_1994"
+    pdf_page: 311
+    url: "https://www.pcahistory.org/pca/ga/22nd_pcaga_1994.pdf#page=311"
+  - type: "minutes"
+    source_id: "minutes:ga44_2016"
+    label: "Minutes PDF · p. 444"
+    file: "44th_pcaga_2016.pdf"
+    volume: "ga44_2016"
+    pdf_page: 444
+    url: "https://www.pcahistory.org/pca/ga/44th_pcaga_2016.pdf#page=444"
+  - type: "minutes"
+    source_id: "minutes:ga45_2017"
+    label: "Minutes PDF · p. 415"
+    file: "45th_pcaga_2017.pdf"
+    volume: "ga45_2017"
+    pdf_page: 415
+    url: "https://www.pcahistory.org/pca/ga/45th_pcaga_2017.pdf#page=415"
+---
 # Siouxlands Presbytery — BCO 13-11
 
 *SR 1.022 allows a called meeting of presbytery by representatives of two…*

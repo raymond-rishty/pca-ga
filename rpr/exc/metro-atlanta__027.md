@@ -1,3 +1,20 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga39_2011"
+    label: "Minutes PDF · p. 462"
+    file: "39th_pcaga_2011.pdf"
+    volume: "ga39_2011"
+    pdf_page: 462
+    url: "https://www.pcahistory.org/pca/ga/39th_pcaga_2011.pdf#page=462"
+  - type: "minutes"
+    source_id: "minutes:ga40_2012"
+    label: "Minutes PDF · p. 440"
+    file: "40th_pcaga_2012.pdf"
+    volume: "ga40_2012"
+    pdf_page: 440
+    url: "https://www.pcahistory.org/pca/ga/40th_pcaga_2012.pdf#page=440"
+---
 # Metro Atlanta Presbytery — BCO 8-7
 
 *TEs are approved to labor outside the ecclesiastical bounds of Presbytery with…*

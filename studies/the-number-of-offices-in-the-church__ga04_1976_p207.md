@@ -1,3 +1,20 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga04_1976"
+    label: "Minutes PDF · p. 209"
+    file: "4th_pcaga_1976.pdf"
+    volume: "ga04_1976"
+    pdf_page: 209
+    url: "https://www.pcahistory.org/pca/ga/4th_pcaga_1976.pdf#page=209"
+  - type: "minutes"
+    source_id: "minutes:ga04_1976"
+    label: "Minutes PDF · p. 216"
+    file: "4th_pcaga_1976.pdf"
+    volume: "ga04_1976"
+    pdf_page: 216
+    url: "https://www.pcahistory.org/pca/ga/4th_pcaga_1976.pdf#page=216"
+---
 # THE NUMBER OF OFFICES IN THE CHURCH
 
 *REPORT OF THE AD INTERIM COMMITTEE ON THE NUMBER OF OFFICES IN THE CHURCH*

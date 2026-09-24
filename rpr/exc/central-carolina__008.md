@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga31_2003"
+    label: "Minutes PDF · p. 220"
+    file: "31st_pcaga_2003.pdf"
+    volume: "ga31_2003"
+    pdf_page: 220
+    url: "https://www.pcahistory.org/pca/ga/31st_pcaga_2003.pdf#page=220"
+---
 # Central Carolina Presbytery — BCO 21-4b
 
 *October 27, 2001: Incomplete record of exam elements. BCO 21-4b,c,d; “RAO”…*

@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga21_1993"
+    label: "Minutes PDF · p. 251"
+    file: "21st_pcaga_1993.pdf"
+    volume: "ga21_1993"
+    pdf_page: 251
+    url: "https://www.pcahistory.org/pca/ga/21st_pcaga_1993.pdf#page=251"
+---
 # South Texas Presbytery — BCO § 34, BCO § 13-1, BCO § 21-5, BCO § 21-7:
 
 *p. 5: A teaching elder was suspended from the sacraments (indefinitely) and…*

@@ -1,3 +1,20 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga45_2017"
+    label: "Minutes PDF · p. 388"
+    file: "45th_pcaga_2017.pdf"
+    volume: "ga45_2017"
+    pdf_page: 388
+    url: "https://www.pcahistory.org/pca/ga/45th_pcaga_2017.pdf#page=388"
+  - type: "minutes"
+    source_id: "minutes:ga46_2018"
+    label: "Minutes PDF · p. 409"
+    file: "46th_pcaga_2018.pdf"
+    volume: "ga46_2018"
+    pdf_page: 409
+    url: "https://www.pcahistory.org/pca/ga/46th_pcaga_2018.pdf#page=409"
+---
 # Korean Capital Presbytery — BCO 13-6
 
 *All specific requirements of transfer exam not recorded (if transferring from…*

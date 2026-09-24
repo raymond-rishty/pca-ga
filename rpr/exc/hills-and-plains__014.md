@@ -1,3 +1,20 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga48_2021"
+    label: "Minutes PDF · p. 578"
+    file: "48th_pcaga_2021.pdf"
+    volume: "ga48_2021"
+    pdf_page: 578
+    url: "https://www.pcahistory.org/pca/ga/48th_pcaga_2021.pdf#page=578"
+  - type: "minutes"
+    source_id: "minutes:ga49_2022"
+    label: "Minutes PDF · p. 534"
+    file: "49th_pcaga_2022.pdf"
+    volume: "ga49_2022"
+    pdf_page: 534
+    url: "https://www.pcahistory.org/pca/ga/49th_pcaga_2022.pdf#page=534"
+---
 # Hills and Plains Presbytery — BCO 13-11
 
 *Petition to particularize not…*

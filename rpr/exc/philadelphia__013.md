@@ -1,3 +1,34 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga19_1991"
+    label: "Minutes PDF · p. 187"
+    file: "19th_pcaga_1991.pdf"
+    volume: "ga19_1991"
+    pdf_page: 187
+    url: "https://www.pcahistory.org/pca/ga/19th_pcaga_1991.pdf#page=187"
+  - type: "minutes"
+    source_id: "minutes:ga19_1991"
+    label: "Minutes PDF · p. 188"
+    file: "19th_pcaga_1991.pdf"
+    volume: "ga19_1991"
+    pdf_page: 188
+    url: "https://www.pcahistory.org/pca/ga/19th_pcaga_1991.pdf#page=188"
+  - type: "minutes"
+    source_id: "minutes:ga39_2011"
+    label: "Minutes PDF · p. 477"
+    file: "39th_pcaga_2011.pdf"
+    volume: "ga39_2011"
+    pdf_page: 477
+    url: "https://www.pcahistory.org/pca/ga/39th_pcaga_2011.pdf#page=477"
+  - type: "minutes"
+    source_id: "minutes:ga40_2012"
+    label: "Minutes PDF · p. 466"
+    file: "40th_pcaga_2012.pdf"
+    volume: "ga40_2012"
+    pdf_page: 466
+    url: "https://www.pcahistory.org/pca/ga/40th_pcaga_2012.pdf#page=466"
+---
 # Philadelphia Presbytery — BCO 8-7
 
 *par. 12 Various parts of an examination not listed. No declaration that out of…*

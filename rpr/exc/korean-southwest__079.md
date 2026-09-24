@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga42_2014"
+    label: "Minutes PDF · p. 426"
+    file: "42nd_pcaga_2014.pdf"
+    volume: "ga42_2014"
+    pdf_page: 426
+    url: "https://www.pcahistory.org/pca/ga/42nd_pcaga_2014.pdf#page=426"
+---
 # Korean Southwest Presbytery — exception of substance
 
 *No annual reports of TE laboring out of bounds (Report of RPR, Page #1201,…*

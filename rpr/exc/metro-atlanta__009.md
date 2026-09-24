@@ -1,3 +1,27 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga36_2008"
+    label: "Minutes PDF · p. 238"
+    file: "36th_pcaga_2008.pdf"
+    volume: "ga36_2008"
+    pdf_page: 238
+    url: "https://www.pcahistory.org/pca/ga/36th_pcaga_2008.pdf#page=238"
+  - type: "minutes"
+    source_id: "minutes:ga37_2009"
+    label: "Minutes PDF · p. 109"
+    file: "37th_pcaga_2009.pdf"
+    volume: "ga37_2009"
+    pdf_page: 109
+    url: "https://www.pcahistory.org/pca/ga/37th_pcaga_2009.pdf#page=109"
+  - type: "minutes"
+    source_id: "minutes:ga38_2010"
+    label: "Minutes PDF · p. 100"
+    file: "38th_pcaga_2010.pdf"
+    volume: "ga38_2010"
+    pdf_page: 100
+    url: "https://www.pcahistory.org/pca/ga/38th_pcaga_2010.pdf#page=100"
+---
 # Metro Atlanta Presbytery — BCO 21-4, RAO 16-3.e.5
 
 *BCO 21-4; RAO 16-3.e.5. Candidates not asked to state the specific instances…*

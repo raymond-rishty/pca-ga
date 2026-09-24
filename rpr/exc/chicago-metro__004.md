@@ -1,3 +1,41 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga35_2007"
+    label: "Minutes PDF · p. 177"
+    file: "35th_pcaga_2007.pdf"
+    volume: "ga35_2007"
+    pdf_page: 177
+    url: "https://www.pcahistory.org/pca/ga/35th_pcaga_2007.pdf#page=177"
+  - type: "minutes"
+    source_id: "minutes:ga36_2008"
+    label: "Minutes PDF · p. 217"
+    file: "36th_pcaga_2008.pdf"
+    volume: "ga36_2008"
+    pdf_page: 217
+    url: "https://www.pcahistory.org/pca/ga/36th_pcaga_2008.pdf#page=217"
+  - type: "minutes"
+    source_id: "minutes:ga37_2009"
+    label: "Minutes PDF · p. 88"
+    file: "37th_pcaga_2009.pdf"
+    volume: "ga37_2009"
+    pdf_page: 88
+    url: "https://www.pcahistory.org/pca/ga/37th_pcaga_2009.pdf#page=88"
+  - type: "minutes"
+    source_id: "minutes:ga38_2010"
+    label: "Minutes PDF · p. 82"
+    file: "38th_pcaga_2010.pdf"
+    volume: "ga38_2010"
+    pdf_page: 82
+    url: "https://www.pcahistory.org/pca/ga/38th_pcaga_2010.pdf#page=82"
+  - type: "minutes"
+    source_id: "minutes:ga39_2011"
+    label: "Minutes PDF · p. 445"
+    file: "39th_pcaga_2011.pdf"
+    volume: "ga39_2011"
+    pdf_page: 445
+    url: "https://www.pcahistory.org/pca/ga/39th_pcaga_2011.pdf#page=445"
+---
 # Chicago Metro Presbytery — BCO 21-4
 
 *: Incomplete record of ordination exams. BCO 21-4. Response : We don’t have a…*

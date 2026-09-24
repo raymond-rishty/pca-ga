@@ -1,3 +1,20 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga34_2006"
+    label: "Minutes PDF · p. 258"
+    file: "34th_pcaga_2006.pdf"
+    volume: "ga34_2006"
+    pdf_page: 258
+    url: "https://www.pcahistory.org/pca/ga/34th_pcaga_2006.pdf#page=258"
+  - type: "minutes"
+    source_id: "minutes:ga35_2007"
+    label: "Minutes PDF · p. 189"
+    file: "35th_pcaga_2007.pdf"
+    volume: "ga35_2007"
+    pdf_page: 189
+    url: "https://www.pcahistory.org/pca/ga/35th_pcaga_2007.pdf#page=189"
+---
 # Illiana Presbytery — BCO 23-1
 
 *Complete call not attached. BCO…*

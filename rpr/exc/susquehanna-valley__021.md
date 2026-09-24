@@ -1,3 +1,20 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga40_2012"
+    label: "Minutes PDF · p. 478"
+    file: "40th_pcaga_2012.pdf"
+    volume: "ga40_2012"
+    pdf_page: 478
+    url: "https://www.pcahistory.org/pca/ga/40th_pcaga_2012.pdf#page=478"
+  - type: "minutes"
+    source_id: "minutes:ga41_2013"
+    label: "Minutes PDF · p. 485"
+    file: "41st_pcaga_2013.pdf"
+    volume: "ga41_2013"
+    pdf_page: 485
+    url: "https://www.pcahistory.org/pca/ga/41st_pcaga_2013.pdf#page=485"
+---
 # Susquehanna Valley Presbytery — BCO 21-4, RAO 16-3.e.5
 
 *February 19, 2011 ( BCO 21-4 and RAO 16-3.e.5) All specific requirements of…*

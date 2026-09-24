@@ -1,3 +1,20 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga42_2014"
+    label: "Minutes PDF · p. 457"
+    file: "42nd_pcaga_2014.pdf"
+    volume: "ga42_2014"
+    pdf_page: 457
+    url: "https://www.pcahistory.org/pca/ga/42nd_pcaga_2014.pdf#page=457"
+  - type: "minutes"
+    source_id: "minutes:ga43_2015"
+    label: "Minutes PDF · p. 479"
+    file: "43rd_pcaga_2015.pdf"
+    volume: "ga43_2015"
+    pdf_page: 479
+    url: "https://www.pcahistory.org/pca/ga/43rd_pcaga_2015.pdf#page=479"
+---
 # Suncoast Florida Presbytery — BCO 23-1
 
 *No record of congregational vote to dissolve pastoral relation. Response :…*

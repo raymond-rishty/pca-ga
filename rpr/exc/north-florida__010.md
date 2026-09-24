@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga28_2000"
+    label: "Minutes PDF · p. 337"
+    file: "28th_pcaga_2000.pdf"
+    volume: "ga28_2000"
+    pdf_page: 337
+    url: "https://www.pcahistory.org/pca/ga/28th_pcaga_2000.pdf#page=337"
+---
 # North Florida Presbytery — BCO 18-2
 
 *No indication that candidates were endorsed by their sessions BCO 18-2 d That…*

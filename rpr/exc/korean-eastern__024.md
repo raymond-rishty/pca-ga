@@ -1,3 +1,20 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga33_2005"
+    label: "Minutes PDF · p. 282"
+    file: "33rd_pcaga_2005.pdf"
+    volume: "ga33_2005"
+    pdf_page: 282
+    url: "https://www.pcahistory.org/pca/ga/33rd_pcaga_2005.pdf#page=282"
+  - type: "minutes"
+    source_id: "minutes:ga34_2006"
+    label: "Minutes PDF · p. 265"
+    file: "34th_pcaga_2006.pdf"
+    volume: "ga34_2006"
+    pdf_page: 265
+    url: "https://www.pcahistory.org/pca/ga/34th_pcaga_2006.pdf#page=265"
+---
 # Korean Eastern Presbytery — BCO 19-13
 
 *No record of internship and/or record that internship was approved by…*

@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga51_2024"
+    label: "Minutes PDF · p. 533"
+    file: "51st_pcaga_2024.pdf"
+    volume: "ga51_2024"
+    pdf_page: 533
+    url: "https://www.pcahistory.org/pca/ga/51st_pcaga_2024.pdf#page=533"
+---
 # Houston Metro Presbytery — BCO 5-9.a.i
 
 *Incomplete record of particularization…*

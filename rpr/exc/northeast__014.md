@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga21_1993"
+    label: "Minutes PDF · p. 244"
+    file: "21st_pcaga_1993.pdf"
+    volume: "ga21_1993"
+    pdf_page: 244
+    url: "https://www.pcahistory.org/pca/ga/21st_pcaga_1993.pdf#page=244"
+---
 # Northeast Presbytery — BCO § 21-4
 
 *p. 22, # 17 d: The minutes do not show that a candidate's sermon was preached…*

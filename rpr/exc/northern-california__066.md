@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga50_2023"
+    label: "Minutes PDF · p. 669"
+    file: "50th_pcaga_2023.pdf"
+    volume: "ga50_2023"
+    pdf_page: 669
+    url: "https://www.pcahistory.org/pca/ga/50th_pcaga_2023.pdf#page=669"
+---
 # Northern California Presbytery — BCO 21-4, RAO 16-3.e.5
 
 *Incomplete record of ordination exam. Approval of theses and sermon not…*

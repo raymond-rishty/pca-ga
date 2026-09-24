@@ -1,3 +1,55 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga39_2011"
+    label: "Minutes PDF · p. 491"
+    file: "39th_pcaga_2011.pdf"
+    volume: "ga39_2011"
+    pdf_page: 491
+    url: "https://www.pcahistory.org/pca/ga/39th_pcaga_2011.pdf#page=491"
+  - type: "minutes"
+    source_id: "minutes:ga40_2012"
+    label: "Minutes PDF · p. 478"
+    file: "40th_pcaga_2012.pdf"
+    volume: "ga40_2012"
+    pdf_page: 478
+    url: "https://www.pcahistory.org/pca/ga/40th_pcaga_2012.pdf#page=478"
+  - type: "minutes"
+    source_id: "minutes:ga41_2013"
+    label: "Minutes PDF · p. 486"
+    file: "41st_pcaga_2013.pdf"
+    volume: "ga41_2013"
+    pdf_page: 486
+    url: "https://www.pcahistory.org/pca/ga/41st_pcaga_2013.pdf#page=486"
+  - type: "minutes"
+    source_id: "minutes:ga42_2014"
+    label: "Minutes PDF · p. 459"
+    file: "42nd_pcaga_2014.pdf"
+    volume: "ga42_2014"
+    pdf_page: 459
+    url: "https://www.pcahistory.org/pca/ga/42nd_pcaga_2014.pdf#page=459"
+  - type: "minutes"
+    source_id: "minutes:ga43_2015"
+    label: "Minutes PDF · p. 480"
+    file: "43rd_pcaga_2015.pdf"
+    volume: "ga43_2015"
+    pdf_page: 480
+    url: "https://www.pcahistory.org/pca/ga/43rd_pcaga_2015.pdf#page=480"
+  - type: "minutes"
+    source_id: "minutes:ga44_2016"
+    label: "Minutes PDF · p. 453"
+    file: "44th_pcaga_2016.pdf"
+    volume: "ga44_2016"
+    pdf_page: 453
+    url: "https://www.pcahistory.org/pca/ga/44th_pcaga_2016.pdf#page=453"
+  - type: "minutes"
+    source_id: "minutes:ga45_2017"
+    label: "Minutes PDF · p. 426"
+    file: "45th_pcaga_2017.pdf"
+    volume: "ga45_2017"
+    pdf_page: 426
+    url: "https://www.pcahistory.org/pca/ga/45th_pcaga_2017.pdf#page=426"
+---
 # Susquehanna Valley Presbytery — BCO 21-4
 
 *Not all required elements of ordination exam included in the minutes. Minority…*

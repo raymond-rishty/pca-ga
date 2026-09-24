@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga44_2016"
+    label: "Minutes PDF · p. 417"
+    file: "44th_pcaga_2016.pdf"
+    volume: "ga44_2016"
+    pdf_page: 417
+    url: "https://www.pcahistory.org/pca/ga/44th_pcaga_2016.pdf#page=417"
+---
 # Korean Central Presbytery — BCO 19-2, RAO 16-3.e.5
 
 *Incomplete record, not showing all the items of exams were completed –for…*

@@ -1,3 +1,20 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga46_2018"
+    label: "Minutes PDF · p. 423"
+    file: "46th_pcaga_2018.pdf"
+    volume: "ga46_2018"
+    pdf_page: 423
+    url: "https://www.pcahistory.org/pca/ga/46th_pcaga_2018.pdf#page=423"
+  - type: "minutes"
+    source_id: "minutes:ga47_2019"
+    label: "Minutes PDF · p. 483"
+    file: "47th_pcaga_2019.pdf"
+    volume: "ga47_2019"
+    pdf_page: 483
+    url: "https://www.pcahistory.org/pca/ga/47th_pcaga_2019.pdf#page=483"
+---
 # Korean Southern Presbytery — RAO 16-10a
 
 *No record in minutes of exceptions taken by General…*

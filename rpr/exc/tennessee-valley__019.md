@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga24_1996"
+    label: "Minutes PDF · p. 265"
+    file: "24th_pcaga_1996.pdf"
+    volume: "ga24_1996"
+    pdf_page: 265
+    url: "https://www.pcahistory.org/pca/ga/24th_pcaga_1996.pdf#page=265"
+---
 # Tennessee Valley Presbytery — BCO 23-1)
 
 *No record of congregational meeting to dissolve pastoral relationship (BCO…*

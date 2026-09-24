@@ -1,3 +1,20 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga19_1991"
+    label: "Minutes PDF · p. 179"
+    file: "19th_pcaga_1991.pdf"
+    volume: "ga19_1991"
+    pdf_page: 179
+    url: "https://www.pcahistory.org/pca/ga/19th_pcaga_1991.pdf#page=179"
+  - type: "minutes"
+    source_id: "minutes:ga19_1991"
+    label: "Minutes PDF · p. 180"
+    file: "19th_pcaga_1991.pdf"
+    volume: "ga19_1991"
+    pdf_page: 180
+    url: "https://www.pcahistory.org/pca/ga/19th_pcaga_1991.pdf#page=180"
+---
 # Calvary Presbytery — BCO 19-4
 
 *p. 11 Licentiates not addressed by moderator, nor is authorized form used to…*

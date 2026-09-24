@@ -1,3 +1,27 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga45_2017"
+    label: "Minutes PDF · p. 388"
+    file: "45th_pcaga_2017.pdf"
+    volume: "ga45_2017"
+    pdf_page: 388
+    url: "https://www.pcahistory.org/pca/ga/45th_pcaga_2017.pdf#page=388"
+  - type: "minutes"
+    source_id: "minutes:ga46_2018"
+    label: "Minutes PDF · p. 407"
+    file: "46th_pcaga_2018.pdf"
+    volume: "ga46_2018"
+    pdf_page: 407
+    url: "https://www.pcahistory.org/pca/ga/46th_pcaga_2018.pdf#page=407"
+  - type: "minutes"
+    source_id: "minutes:ga46_2018"
+    label: "Minutes PDF · p. 408"
+    file: "46th_pcaga_2018.pdf"
+    volume: "ga46_2018"
+    pdf_page: 408
+    url: "https://www.pcahistory.org/pca/ga/46th_pcaga_2018.pdf#page=408"
+---
 # Korean Capital Presbytery — BCO 21-4
 
 *All specific requirements of ordination exam not recorded. Six licentiates are…*

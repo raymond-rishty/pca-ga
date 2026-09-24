@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga48_2021"
+    label: "Minutes PDF · p. 618"
+    file: "48th_pcaga_2021.pdf"
+    volume: "ga48_2021"
+    pdf_page: 618
+    url: "https://www.pcahistory.org/pca/ga/48th_pcaga_2021.pdf#page=618"
+---
 # Palmetto Presbytery — BCO 20-1, RAO 16.3.e.6
 
 *In several instances there is no record of formally approving a call, or the…*

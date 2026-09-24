@@ -1,3 +1,20 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga43_2015"
+    label: "Minutes PDF · p. 456"
+    file: "43rd_pcaga_2015.pdf"
+    volume: "ga43_2015"
+    pdf_page: 456
+    url: "https://www.pcahistory.org/pca/ga/43rd_pcaga_2015.pdf#page=456"
+  - type: "minutes"
+    source_id: "minutes:ga44_2016"
+    label: "Minutes PDF · p. 427"
+    file: "44th_pcaga_2016.pdf"
+    volume: "ga44_2016"
+    pdf_page: 427
+    url: "https://www.pcahistory.org/pca/ga/44th_pcaga_2016.pdf#page=427"
+---
 # Metropolitan New York Presbytery — BCO 23-1
 
 *- ( BCO 23-1) Dissolution of pastoral relation not properly recorded by…*

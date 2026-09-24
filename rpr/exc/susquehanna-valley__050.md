@@ -1,3 +1,20 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga48_2021"
+    label: "Minutes PDF · p. 639"
+    file: "48th_pcaga_2021.pdf"
+    volume: "ga48_2021"
+    pdf_page: 639
+    url: "https://www.pcahistory.org/pca/ga/48th_pcaga_2021.pdf#page=639"
+  - type: "minutes"
+    source_id: "minutes:ga49_2022"
+    label: "Minutes PDF · p. 629"
+    file: "49th_pcaga_2022.pdf"
+    volume: "ga49_2022"
+    pdf_page: 629
+    url: "https://www.pcahistory.org/pca/ga/49th_pcaga_2022.pdf#page=629"
+---
 # Susquehanna Valley Presbytery — RAO 16-3.e.6, BCO 14-6.c
 
 *No executive session minutes. No mention pp. 1759-60…*

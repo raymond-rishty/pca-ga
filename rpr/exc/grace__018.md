@@ -1,3 +1,20 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga43_2015"
+    label: "Minutes PDF · p. 440"
+    file: "43rd_pcaga_2015.pdf"
+    volume: "ga43_2015"
+    pdf_page: 440
+    url: "https://www.pcahistory.org/pca/ga/43rd_pcaga_2015.pdf#page=440"
+  - type: "minutes"
+    source_id: "minutes:ga44_2016"
+    label: "Minutes PDF · p. 410"
+    file: "44th_pcaga_2016.pdf"
+    volume: "ga44_2016"
+    pdf_page: 410
+    url: "https://www.pcahistory.org/pca/ga/44th_pcaga_2016.pdf#page=410"
+---
 # Grace Presbytery — BCO 21-4, RAO 16.3.e.5
 
 *Stated difference on Sabbath not recorded in his own…*

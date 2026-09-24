@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga32_2004"
+    label: "Minutes PDF · p. 211"
+    file: "32nd_pcaga_2004.pdf"
+    volume: "ga32_2004"
+    pdf_page: 211
+    url: "https://www.pcahistory.org/pca/ga/32nd_pcaga_2004.pdf#page=211"
+---
 # Evangel Presbytery — BCO 10-5, RAO 14-3.c.5
 
 *No record of meeting closed in prayer. BCO 10-5, RAO…*

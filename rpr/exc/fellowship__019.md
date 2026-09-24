@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga42_2014"
+    label: "Minutes PDF · p. 411"
+    file: "42nd_pcaga_2014.pdf"
+    volume: "ga42_2014"
+    pdf_page: 411
+    url: "https://www.pcahistory.org/pca/ga/42nd_pcaga_2014.pdf#page=411"
+---
 # Fellowship Presbytery — BCO 13-11
 
 *terms of call not included (also BCO 13-11, “full and accurate record”).…*

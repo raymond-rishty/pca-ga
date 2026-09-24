@@ -1,3 +1,34 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga42_2014"
+    label: "Minutes PDF · p. 454"
+    file: "42nd_pcaga_2014.pdf"
+    volume: "ga42_2014"
+    pdf_page: 454
+    url: "https://www.pcahistory.org/pca/ga/42nd_pcaga_2014.pdf#page=454"
+  - type: "minutes"
+    source_id: "minutes:ga43_2015"
+    label: "Minutes PDF · p. 474"
+    file: "43rd_pcaga_2015.pdf"
+    volume: "ga43_2015"
+    pdf_page: 474
+    url: "https://www.pcahistory.org/pca/ga/43rd_pcaga_2015.pdf#page=474"
+  - type: "minutes"
+    source_id: "minutes:ga49_2022"
+    label: "Minutes PDF · p. 625"
+    file: "49th_pcaga_2022.pdf"
+    volume: "ga49_2022"
+    pdf_page: 625
+    url: "https://www.pcahistory.org/pca/ga/49th_pcaga_2022.pdf#page=625"
+  - type: "minutes"
+    source_id: "minutes:ga50_2023"
+    label: "Minutes PDF · p. 705"
+    file: "50th_pcaga_2023.pdf"
+    volume: "ga50_2023"
+    pdf_page: 705
+    url: "https://www.pcahistory.org/pca/ga/50th_pcaga_2023.pdf#page=705"
+---
 # Southeast Alabama Presbytery — BCO 13-9.b
 
 *Incomplete record or review of records of church…*

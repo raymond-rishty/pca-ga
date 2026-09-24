@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga51_2024"
+    label: "Minutes PDF · p. 550"
+    file: "51st_pcaga_2024.pdf"
+    volume: "ga51_2024"
+    pdf_page: 550
+    url: "https://www.pcahistory.org/pca/ga/51st_pcaga_2024.pdf#page=550"
+---
 # Korean Eastern Presbytery — BCO 13-6
 
 *Received as a member but no record of mechanism how it…*

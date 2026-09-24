@@ -1,3 +1,27 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga42_2014"
+    label: "Minutes PDF · p. 597"
+    file: "42nd_pcaga_2014.pdf"
+    volume: "ga42_2014"
+    pdf_page: 597
+    url: "https://www.pcahistory.org/pca/ga/42nd_pcaga_2014.pdf#page=597"
+  - type: "minutes"
+    source_id: "minutes:ga42_2014"
+    label: "Minutes PDF · p. 761"
+    file: "42nd_pcaga_2014.pdf"
+    volume: "ga42_2014"
+    pdf_page: 761
+    url: "https://www.pcahistory.org/pca/ga/42nd_pcaga_2014.pdf#page=761"
+  - type: "minutes"
+    source_id: "minutes:ga42_2014"
+    label: "Minutes PDF · p. 789"
+    file: "42nd_pcaga_2014.pdf"
+    volume: "ga42_2014"
+    pdf_page: 789
+    url: "https://www.pcahistory.org/pca/ga/42nd_pcaga_2014.pdf#page=789"
+---
 # Study Committee on Insider Movements (SCIM) Report 2014
 
 *Study Committee on Insider Movements (SCIM) Report 2014*

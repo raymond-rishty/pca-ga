@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga50_2023"
+    label: "Minutes PDF · p. 533"
+    file: "50th_pcaga_2023.pdf"
+    volume: "ga50_2023"
+    pdf_page: 533
+    url: "https://www.pcahistory.org/pca/ga/50th_pcaga_2023.pdf#page=533"
+---
 # Central Florida Presbytery — BCO 5-9
 
 *All specific requirements of particularization of church not…*

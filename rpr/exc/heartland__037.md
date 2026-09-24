@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga36_2008"
+    label: "Minutes PDF · p. 227"
+    file: "36th_pcaga_2008.pdf"
+    volume: "ga36_2008"
+    pdf_page: 227
+    url: "https://www.pcahistory.org/pca/ga/36th_pcaga_2008.pdf#page=227"
+---
 # Heartland Presbytery — BCO 21-4, RAO 16-3.e.5), BCO 21-4)
 
 *: Presbytery ruling on candidate’s exception not recorded. BCO 21-4 (ref. RAO…*

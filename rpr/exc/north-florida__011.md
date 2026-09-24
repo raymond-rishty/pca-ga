@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga28_2000"
+    label: "Minutes PDF · p. 338"
+    file: "28th_pcaga_2000.pdf"
+    volume: "ga28_2000"
+    pdf_page: 338
+    url: "https://www.pcahistory.org/pca/ga/28th_pcaga_2000.pdf#page=338"
+---
 # North Florida Presbytery — BCO 20-1
 
 *No call presented, discussed or attached to be approved. BCO…*

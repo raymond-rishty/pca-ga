@@ -1,3 +1,27 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga48_2021"
+    label: "Minutes PDF · p. 603"
+    file: "48th_pcaga_2021.pdf"
+    volume: "ga48_2021"
+    pdf_page: 603
+    url: "https://www.pcahistory.org/pca/ga/48th_pcaga_2021.pdf#page=603"
+  - type: "minutes"
+    source_id: "minutes:ga49_2022"
+    label: "Minutes PDF · p. 588"
+    file: "49th_pcaga_2022.pdf"
+    volume: "ga49_2022"
+    pdf_page: 588
+    url: "https://www.pcahistory.org/pca/ga/49th_pcaga_2022.pdf#page=588"
+  - type: "minutes"
+    source_id: "minutes:ga50_2023"
+    label: "Minutes PDF · p. 662"
+    file: "50th_pcaga_2023.pdf"
+    volume: "ga50_2023"
+    pdf_page: 662
+    url: "https://www.pcahistory.org/pca/ga/50th_pcaga_2023.pdf#page=662"
+---
 # Missouri Presbytery — BCO 21-4.f, RAO 16-3.e.5
 
 *Explanations not recorded in candidate’s own words – two candidates describe…*

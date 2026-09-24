@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga23_1995"
+    label: "Minutes PDF · p. 194"
+    file: "23rd_pcaga_1995.pdf"
+    volume: "ga23_1995"
+    pdf_page: 194
+    url: "https://www.pcahistory.org/pca/ga/23rd_pcaga_1995.pdf#page=194"
+---
 # Korean Eastern Presbytery — BCO 13-9b), BCO 13-5), BCO 23-1, BCO 13-9), BCO 13-8)
 
 *There is no record of annual review by Presbytery of Sessional records (BCO…*

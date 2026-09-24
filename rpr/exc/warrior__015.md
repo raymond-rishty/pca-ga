@@ -1,3 +1,20 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga28_2000"
+    label: "Minutes PDF · p. 345"
+    file: "28th_pcaga_2000.pdf"
+    volume: "ga28_2000"
+    pdf_page: 345
+    url: "https://www.pcahistory.org/pca/ga/28th_pcaga_2000.pdf#page=345"
+  - type: "minutes"
+    source_id: "minutes:ga29_2001"
+    label: "Minutes PDF · p. 357"
+    file: "29th_pcaga_2001.pdf"
+    volume: "ga29_2001"
+    pdf_page: 357
+    url: "https://www.pcahistory.org/pca/ga/29th_pcaga_2001.pdf#page=357"
+---
 # Warrior Presbytery — RAO 14-4.a
 
 *No minutes submitted for 1997 (RAO 14-4.a&amp;b).…*

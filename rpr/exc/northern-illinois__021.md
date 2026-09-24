@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga29_2001"
+    label: "Minutes PDF · p. 349"
+    file: "29th_pcaga_2001.pdf"
+    volume: "ga29_2001"
+    pdf_page: 349
+    url: "https://www.pcahistory.org/pca/ga/29th_pcaga_2001.pdf#page=349"
+---
 # Northern Illinois Presbytery — RAO 14-3-
 
 *time of meeting not stated. RAO 14-3- c.3. Cited as form in 1999. RAO…*

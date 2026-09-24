@@ -1,3 +1,20 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga34_2006"
+    label: "Minutes PDF · p. 245"
+    file: "34th_pcaga_2006.pdf"
+    volume: "ga34_2006"
+    pdf_page: 245
+    url: "https://www.pcahistory.org/pca/ga/34th_pcaga_2006.pdf#page=245"
+  - type: "minutes"
+    source_id: "minutes:ga35_2007"
+    label: "Minutes PDF · p. 174"
+    file: "35th_pcaga_2007.pdf"
+    volume: "ga35_2007"
+    pdf_page: 174
+    url: "https://www.pcahistory.org/pca/ga/35th_pcaga_2007.pdf#page=174"
+---
 # Central Florida Presbytery — BCO 20-1
 
 *No record of whether Presbytery considers out of bounds labors to be a valid…*

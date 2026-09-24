@@ -1,3 +1,20 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga34_2006"
+    label: "Minutes PDF · p. 298"
+    file: "34th_pcaga_2006.pdf"
+    volume: "ga34_2006"
+    pdf_page: 298
+    url: "https://www.pcahistory.org/pca/ga/34th_pcaga_2006.pdf#page=298"
+  - type: "minutes"
+    source_id: "minutes:ga35_2007"
+    label: "Minutes PDF · p. 218"
+    file: "35th_pcaga_2007.pdf"
+    volume: "ga35_2007"
+    pdf_page: 218
+    url: "https://www.pcahistory.org/pca/ga/35th_pcaga_2007.pdf#page=218"
+---
 # Southern Florida Presbytery — BCO 18-2
 
 *No record of session endorsement or 6 month membership requirement. BCO…*

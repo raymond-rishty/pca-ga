@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga39_2011"
+    label: "Minutes PDF · p. 452"
+    file: "39th_pcaga_2011.pdf"
+    volume: "ga39_2011"
+    pdf_page: 452
+    url: "https://www.pcahistory.org/pca/ga/39th_pcaga_2011.pdf#page=452"
+---
 # Great Lakes Presbytery — BCO 13-7
 
 *No record of ministerial obligation form being…*

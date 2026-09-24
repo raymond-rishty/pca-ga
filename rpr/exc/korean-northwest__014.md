@@ -1,3 +1,27 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga31_2003"
+    label: "Minutes PDF · p. 232"
+    file: "31st_pcaga_2003.pdf"
+    volume: "ga31_2003"
+    pdf_page: 232
+    url: "https://www.pcahistory.org/pca/ga/31st_pcaga_2003.pdf#page=232"
+  - type: "minutes"
+    source_id: "minutes:ga32_2004"
+    label: "Minutes PDF · p. 219"
+    file: "32nd_pcaga_2004.pdf"
+    volume: "ga32_2004"
+    pdf_page: 219
+    url: "https://www.pcahistory.org/pca/ga/32nd_pcaga_2004.pdf#page=219"
+  - type: "minutes"
+    source_id: "minutes:ga34_2006"
+    label: "Minutes PDF · p. 267"
+    file: "34th_pcaga_2006.pdf"
+    volume: "ga34_2006"
+    pdf_page: 267
+    url: "https://www.pcahistory.org/pca/ga/34th_pcaga_2006.pdf#page=267"
+---
 # Korean Northwest Presbytery — BCO 21-4
 
 *October 10, 1995: No details of all parts of ordination examinations were…*

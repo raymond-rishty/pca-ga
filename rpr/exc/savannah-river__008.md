@@ -1,3 +1,20 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga44_2016"
+    label: "Minutes PDF · p. 443"
+    file: "44th_pcaga_2016.pdf"
+    volume: "ga44_2016"
+    pdf_page: 443
+    url: "https://www.pcahistory.org/pca/ga/44th_pcaga_2016.pdf#page=443"
+  - type: "minutes"
+    source_id: "minutes:ga45_2017"
+    label: "Minutes PDF · p. 414"
+    file: "45th_pcaga_2017.pdf"
+    volume: "ga45_2017"
+    pdf_page: 414
+    url: "https://www.pcahistory.org/pca/ga/45th_pcaga_2017.pdf#page=414"
+---
 # Savannah River Presbytery — BCO 15-1
 
 *No report of commissions to ordain the…*

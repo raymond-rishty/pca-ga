@@ -1,3 +1,20 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga43_2015"
+    label: "Minutes PDF · p. 426"
+    file: "43rd_pcaga_2015.pdf"
+    volume: "ga43_2015"
+    pdf_page: 426
+    url: "https://www.pcahistory.org/pca/ga/43rd_pcaga_2015.pdf#page=426"
+  - type: "minutes"
+    source_id: "minutes:ga44_2016"
+    label: "Minutes PDF · p. 397"
+    file: "44th_pcaga_2016.pdf"
+    volume: "ga44_2016"
+    pdf_page: 397
+    url: "https://www.pcahistory.org/pca/ga/44th_pcaga_2016.pdf#page=397"
+---
 # Central Indiana Presbytery — BCO 13-11
 
 *No record of pastoral…*

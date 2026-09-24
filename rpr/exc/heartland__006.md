@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga19_1991"
+    label: "Minutes PDF · p. 182"
+    file: "19th_pcaga_1991.pdf"
+    volume: "ga19_1991"
+    pdf_page: 182
+    url: "https://www.pcahistory.org/pca/ga/19th_pcaga_1991.pdf#page=182"
+---
 # Heartland Presbytery — BCO 13-10
 
 *No attachments to minutes included. BCO 13-10.…*

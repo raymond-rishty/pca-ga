@@ -1,3 +1,76 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga30_2002"
+    label: "Minutes PDF · p. 316"
+    file: "30th_pcaga_2002.pdf"
+    volume: "ga30_2002"
+    pdf_page: 316
+    url: "https://www.pcahistory.org/pca/ga/30th_pcaga_2002.pdf#page=316"
+  - type: "minutes"
+    source_id: "minutes:ga31_2003"
+    label: "Minutes PDF · p. 230"
+    file: "31st_pcaga_2003.pdf"
+    volume: "ga31_2003"
+    pdf_page: 230
+    url: "https://www.pcahistory.org/pca/ga/31st_pcaga_2003.pdf#page=230"
+  - type: "minutes"
+    source_id: "minutes:ga32_2004"
+    label: "Minutes PDF · p. 218"
+    file: "32nd_pcaga_2004.pdf"
+    volume: "ga32_2004"
+    pdf_page: 218
+    url: "https://www.pcahistory.org/pca/ga/32nd_pcaga_2004.pdf#page=218"
+  - type: "minutes"
+    source_id: "minutes:ga33_2005"
+    label: "Minutes PDF · p. 283"
+    file: "33rd_pcaga_2005.pdf"
+    volume: "ga33_2005"
+    pdf_page: 283
+    url: "https://www.pcahistory.org/pca/ga/33rd_pcaga_2005.pdf#page=283"
+  - type: "minutes"
+    source_id: "minutes:ga34_2006"
+    label: "Minutes PDF · p. 264"
+    file: "34th_pcaga_2006.pdf"
+    volume: "ga34_2006"
+    pdf_page: 264
+    url: "https://www.pcahistory.org/pca/ga/34th_pcaga_2006.pdf#page=264"
+  - type: "minutes"
+    source_id: "minutes:ga34_2006"
+    label: "Minutes PDF · p. 266"
+    file: "34th_pcaga_2006.pdf"
+    volume: "ga34_2006"
+    pdf_page: 266
+    url: "https://www.pcahistory.org/pca/ga/34th_pcaga_2006.pdf#page=266"
+  - type: "minutes"
+    source_id: "minutes:ga35_2007"
+    label: "Minutes PDF · p. 193"
+    file: "35th_pcaga_2007.pdf"
+    volume: "ga35_2007"
+    pdf_page: 193
+    url: "https://www.pcahistory.org/pca/ga/35th_pcaga_2007.pdf#page=193"
+  - type: "minutes"
+    source_id: "minutes:ga36_2008"
+    label: "Minutes PDF · p. 235"
+    file: "36th_pcaga_2008.pdf"
+    volume: "ga36_2008"
+    pdf_page: 235
+    url: "https://www.pcahistory.org/pca/ga/36th_pcaga_2008.pdf#page=235"
+  - type: "minutes"
+    source_id: "minutes:ga37_2009"
+    label: "Minutes PDF · p. 104"
+    file: "37th_pcaga_2009.pdf"
+    volume: "ga37_2009"
+    pdf_page: 104
+    url: "https://www.pcahistory.org/pca/ga/37th_pcaga_2009.pdf#page=104"
+  - type: "minutes"
+    source_id: "minutes:ga38_2010"
+    label: "Minutes PDF · p. 96"
+    file: "38th_pcaga_2010.pdf"
+    volume: "ga38_2010"
+    pdf_page: 96
+    url: "https://www.pcahistory.org/pca/ga/38th_pcaga_2010.pdf#page=96"
+---
 # Korean Eastern Presbytery — BCO 40-1
 
 *No minutes submitted. BCO 40-1 d. That the following responses to the 29th…*

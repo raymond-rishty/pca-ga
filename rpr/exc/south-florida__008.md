@@ -1,3 +1,34 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga40_2012"
+    label: "Minutes PDF · p. 473"
+    file: "40th_pcaga_2012.pdf"
+    volume: "ga40_2012"
+    pdf_page: 473
+    url: "https://www.pcahistory.org/pca/ga/40th_pcaga_2012.pdf#page=473"
+  - type: "minutes"
+    source_id: "minutes:ga41_2013"
+    label: "Minutes PDF · p. 479"
+    file: "41st_pcaga_2013.pdf"
+    volume: "ga41_2013"
+    pdf_page: 479
+    url: "https://www.pcahistory.org/pca/ga/41st_pcaga_2013.pdf#page=479"
+  - type: "minutes"
+    source_id: "minutes:ga42_2014"
+    label: "Minutes PDF · p. 453"
+    file: "42nd_pcaga_2014.pdf"
+    volume: "ga42_2014"
+    pdf_page: 453
+    url: "https://www.pcahistory.org/pca/ga/42nd_pcaga_2014.pdf#page=453"
+  - type: "minutes"
+    source_id: "minutes:ga43_2015"
+    label: "Minutes PDF · p. 474"
+    file: "43rd_pcaga_2015.pdf"
+    volume: "ga43_2015"
+    pdf_page: 474
+    url: "https://www.pcahistory.org/pca/ga/43rd_pcaga_2015.pdf#page=474"
+---
 # South Florida Presbytery — BCO 21-4, RAO 16-3.e.5
 
 *All specific requirements for ordination exam not…*

@@ -1,3 +1,27 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga31_2003"
+    label: "Minutes PDF · p. 237"
+    file: "31st_pcaga_2003.pdf"
+    volume: "ga31_2003"
+    pdf_page: 237
+    url: "https://www.pcahistory.org/pca/ga/31st_pcaga_2003.pdf#page=237"
+  - type: "minutes"
+    source_id: "minutes:ga32_2004"
+    label: "Minutes PDF · p. 224"
+    file: "32nd_pcaga_2004.pdf"
+    volume: "ga32_2004"
+    pdf_page: 224
+    url: "https://www.pcahistory.org/pca/ga/32nd_pcaga_2004.pdf#page=224"
+  - type: "minutes"
+    source_id: "minutes:ga33_2005"
+    label: "Minutes PDF · p. 293"
+    file: "33rd_pcaga_2005.pdf"
+    volume: "ga33_2005"
+    pdf_page: 293
+    url: "https://www.pcahistory.org/pca/ga/33rd_pcaga_2005.pdf#page=293"
+---
 # Metropolitan New York Presbytery — BCO 13-7
 
 *No record of Ministerial Obligation signed for TEs. BCO 13-7 Response…*

@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga44_2016"
+    label: "Minutes PDF · p. 413"
+    file: "44th_pcaga_2016.pdf"
+    volume: "ga44_2016"
+    pdf_page: 413
+    url: "https://www.pcahistory.org/pca/ga/44th_pcaga_2016.pdf#page=413"
+---
 # Heritage Presbytery — BCO 19-2.f, RAO 16-3.e.5
 
 *No record of candidate for licensure being asked for stated…*

@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga30_2002"
+    label: "Minutes PDF · p. 340"
+    file: "30th_pcaga_2002.pdf"
+    volume: "ga30_2002"
+    pdf_page: 340
+    url: "https://www.pcahistory.org/pca/ga/30th_pcaga_2002.pdf#page=340"
+---
 # Tennessee Valley Presbytery — exception of substance
 
 *No record of exam for licensure to preach. SCO 13-6; 19-1; 19-2;…*

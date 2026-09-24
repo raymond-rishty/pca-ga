@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga31_2003"
+    label: "Minutes PDF · p. 252"
+    file: "31st_pcaga_2003.pdf"
+    volume: "ga31_2003"
+    pdf_page: 252
+    url: "https://www.pcahistory.org/pca/ga/31st_pcaga_2003.pdf#page=252"
+---
 # South Coast Presbytery — BCO 21-4
 
 *No record of reasons for the omission of most exam elements. BCO 21-4; “RAO”…*

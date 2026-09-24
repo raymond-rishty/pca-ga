@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga52_2025"
+    label: "Minutes PDF · p. 554"
+    file: "52nd_pcaga_2025.pdf"
+    volume: "ga52_2025"
+    pdf_page: 554
+    url: "https://www.pcahistory.org/pca/ga/52nd_pcaga_2025.pdf#page=554"
+---
 # Gulf Coast Presbytery — BCO 21-5, BCO 21-6
 
 *Installation reports of men being installed as Assistant Pastors record the…*

@@ -1,3 +1,20 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga18_1990"
+    label: "Minutes PDF · p. 173"
+    file: "18th_pcaga_1990.pdf"
+    volume: "ga18_1990"
+    pdf_page: 173
+    url: "https://www.pcahistory.org/pca/ga/18th_pcaga_1990.pdf#page=173"
+  - type: "minutes"
+    source_id: "minutes:ga18_1990"
+    label: "Minutes PDF · p. 176"
+    file: "18th_pcaga_1990.pdf"
+    volume: "ga18_1990"
+    pdf_page: 176
+    url: "https://www.pcahistory.org/pca/ga/18th_pcaga_1990.pdf#page=176"
+---
 # Fencing the Lord's Table
 
 *Report of the Ad Interim Committee on Fencing the Lord's Table*

@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga20_1992"
+    label: "Minutes PDF · p. 247"
+    file: "20th_pcaga_1992.pdf"
+    volume: "ga20_1992"
+    pdf_page: 247
+    url: "https://www.pcahistory.org/pca/ga/20th_pcaga_1992.pdf#page=247"
+---
 # James River Presbytery — BCO § 18-6
 
 *There is no mention of an annual report of candidates for the ministry under…*

@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga51_2024"
+    label: "Minutes PDF · p. 552"
+    file: "51st_pcaga_2024.pdf"
+    volume: "ga51_2024"
+    pdf_page: 552
+    url: "https://www.pcahistory.org/pca/ga/51st_pcaga_2024.pdf#page=552"
+---
 # Korean Eastern Presbytery — BCO 8-7
 
 *Teaching Elders approved to minister out of bounds but with no record of a…*

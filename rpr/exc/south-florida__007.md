@@ -1,3 +1,20 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga40_2012"
+    label: "Minutes PDF · p. 473"
+    file: "40th_pcaga_2012.pdf"
+    volume: "ga40_2012"
+    pdf_page: 473
+    url: "https://www.pcahistory.org/pca/ga/40th_pcaga_2012.pdf#page=473"
+  - type: "minutes"
+    source_id: "minutes:ga41_2013"
+    label: "Minutes PDF · p. 479"
+    file: "41st_pcaga_2013.pdf"
+    volume: "ga41_2013"
+    pdf_page: 479
+    url: "https://www.pcahistory.org/pca/ga/41st_pcaga_2013.pdf#page=479"
+---
 # South Florida Presbytery — BCO 18-2
 
 *General ( BCO 18-2) no record of endorsement of candidate by his session ora…*

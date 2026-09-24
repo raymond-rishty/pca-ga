@@ -1,3 +1,20 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga42_2014"
+    label: "Minutes PDF · p. 449"
+    file: "42nd_pcaga_2014.pdf"
+    volume: "ga42_2014"
+    pdf_page: 449
+    url: "https://www.pcahistory.org/pca/ga/42nd_pcaga_2014.pdf#page=449"
+  - type: "minutes"
+    source_id: "minutes:ga44_2016"
+    label: "Minutes PDF · p. 441"
+    file: "44th_pcaga_2016.pdf"
+    volume: "ga44_2016"
+    pdf_page: 441
+    url: "https://www.pcahistory.org/pca/ga/44th_pcaga_2016.pdf#page=441"
+---
 # Providence Presbytery — BCO 21-4
 
 *( BCO 21-4; RAO 16-3.e.5) – Stated differences not recorded in candidate’s own…*

@@ -1,3 +1,20 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga25_1997"
+    label: "Minutes PDF · p. 213"
+    file: "25th_pcaga_1997.pdf"
+    volume: "ga25_1997"
+    pdf_page: 213
+    url: "https://www.pcahistory.org/pca/ga/25th_pcaga_1997.pdf#page=213"
+  - type: "minutes"
+    source_id: "minutes:ga26_1998"
+    label: "Minutes PDF · p. 246"
+    file: "26th_pcaga_1998.pdf"
+    volume: "ga26_1998"
+    pdf_page: 246
+    url: "https://www.pcahistory.org/pca/ga/26th_pcaga_1998.pdf#page=246"
+---
 # New Jersey Presbytery — BCO 18-2)
 
 *There is no mention of sessional endorsement of a candidate under care or of…*

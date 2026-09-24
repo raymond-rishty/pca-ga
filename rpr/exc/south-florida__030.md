@@ -1,3 +1,20 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga44_2016"
+    label: "Minutes PDF · p. 445"
+    file: "44th_pcaga_2016.pdf"
+    volume: "ga44_2016"
+    pdf_page: 445
+    url: "https://www.pcahistory.org/pca/ga/44th_pcaga_2016.pdf#page=445"
+  - type: "minutes"
+    source_id: "minutes:ga45_2017"
+    label: "Minutes PDF · p. 417"
+    file: "45th_pcaga_2017.pdf"
+    volume: "ga45_2017"
+    pdf_page: 417
+    url: "https://www.pcahistory.org/pca/ga/45th_pcaga_2017.pdf#page=417"
+---
 # South Florida Presbytery — BCO 34-9
 
 *Deposition of TE not recorded in prescribed words and pastoral relation not…*

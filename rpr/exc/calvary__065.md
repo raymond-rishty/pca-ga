@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga31_2003"
+    label: "Minutes PDF · p. 218"
+    file: "31st_pcaga_2003.pdf"
+    volume: "ga31_2003"
+    pdf_page: 218
+    url: "https://www.pcahistory.org/pca/ga/31st_pcaga_2003.pdf#page=218"
+---
 # Calvary Presbytery — exception of substance
 
 *Minutes of presbytery meetings have not been approved. “RAO”…*

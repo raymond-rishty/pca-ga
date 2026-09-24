@@ -1,3 +1,27 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga45_2017"
+    label: "Minutes PDF · p. 396"
+    file: "45th_pcaga_2017.pdf"
+    volume: "ga45_2017"
+    pdf_page: 396
+    url: "https://www.pcahistory.org/pca/ga/45th_pcaga_2017.pdf#page=396"
+  - type: "minutes"
+    source_id: "minutes:ga46_2018"
+    label: "Minutes PDF · p. 424"
+    file: "46th_pcaga_2018.pdf"
+    volume: "ga46_2018"
+    pdf_page: 424
+    url: "https://www.pcahistory.org/pca/ga/46th_pcaga_2018.pdf#page=424"
+  - type: "minutes"
+    source_id: "minutes:ga47_2019"
+    label: "Minutes PDF · p. 482"
+    file: "47th_pcaga_2019.pdf"
+    volume: "ga47_2019"
+    pdf_page: 482
+    url: "https://www.pcahistory.org/pca/ga/47th_pcaga_2019.pdf#page=482"
+---
 # Korean Southern Presbytery — BCO 21-4
 
 *Incomplete record of ordination exam (missing terms of call, education, stated…*

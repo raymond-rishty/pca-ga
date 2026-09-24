@@ -1,3 +1,20 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga51_2024"
+    label: "Minutes PDF · p. 660"
+    file: "51st_pcaga_2024.pdf"
+    volume: "ga51_2024"
+    pdf_page: 660
+    url: "https://www.pcahistory.org/pca/ga/51st_pcaga_2024.pdf#page=660"
+  - type: "minutes"
+    source_id: "minutes:ga52_2025"
+    label: "Minutes PDF · p. 734"
+    file: "52nd_pcaga_2025.pdf"
+    volume: "ga52_2025"
+    pdf_page: 734
+    url: "https://www.pcahistory.org/pca/ga/52nd_pcaga_2025.pdf#page=734"
+---
 # South Florida Presbytery — BCO 38-1
 
 *Full confession for a 38-2 case without process not recorded in the…*

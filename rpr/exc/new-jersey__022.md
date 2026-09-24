@@ -1,3 +1,20 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga37_2009"
+    label: "Minutes PDF · p. 111"
+    file: "37th_pcaga_2009.pdf"
+    volume: "ga37_2009"
+    pdf_page: 111
+    url: "https://www.pcahistory.org/pca/ga/37th_pcaga_2009.pdf#page=111"
+  - type: "minutes"
+    source_id: "minutes:ga38_2010"
+    label: "Minutes PDF · p. 103"
+    file: "38th_pcaga_2010.pdf"
+    volume: "ga38_2010"
+    pdf_page: 103
+    url: "https://www.pcahistory.org/pca/ga/38th_pcaga_2010.pdf#page=103"
+---
 # New Jersey Presbytery — BCO 21-4, RAO 16-3.e.5
 
 *Stated differences with our Standards not recorded in proper…*

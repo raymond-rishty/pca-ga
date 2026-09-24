@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga51_2024"
+    label: "Minutes PDF · p. 634"
+    file: "51st_pcaga_2024.pdf"
+    volume: "ga51_2024"
+    pdf_page: 634
+    url: "https://www.pcahistory.org/pca/ga/51st_pcaga_2024.pdf#page=634"
+---
 # Rio Grande Presbytery — exception of substance
 
 *No provision in the standing rules for conducting a meeting in this manner.…*

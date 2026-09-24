@@ -2,6 +2,12 @@
 
 *All PCA authorities bearing on **BCO 9-8**.*
 
+## Medium authority
+
+| Year | Type | Title | Disposition |
+|------|------|-------|-------------|
+| 2010 | CCB advice | [Unordained Men and Women Carrying Out Diaconal Ministry](../inquiries/ga38_2010__ci04.md) | in conflict |
+
 ## Low-but-important
 
 | Year | Type | Title | Disposition |

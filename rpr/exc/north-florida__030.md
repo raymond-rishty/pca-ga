@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga41_2013"
+    label: "Minutes PDF · p. 453"
+    file: "41st_pcaga_2013.pdf"
+    volume: "ga41_2013"
+    pdf_page: 453
+    url: "https://www.pcahistory.org/pca/ga/41st_pcaga_2013.pdf#page=453"
+---
 # North Florida Presbytery — BCO 18-3
 
 *No record that applicant was examined in experiential religion and motives for…*

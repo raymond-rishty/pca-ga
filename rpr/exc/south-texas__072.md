@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga50_2023"
+    label: "Minutes PDF · p. 704"
+    file: "50th_pcaga_2023.pdf"
+    volume: "ga50_2023"
+    pdf_page: 704
+    url: "https://www.pcahistory.org/pca/ga/50th_pcaga_2023.pdf#page=704"
+---
 # South Texas Presbytery — BCO 21-1
 
 *No record that transfer candidate received a call or that the presbytery…*

@@ -1,3 +1,20 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga42_2014"
+    label: "Minutes PDF · p. 415"
+    file: "42nd_pcaga_2014.pdf"
+    volume: "ga42_2014"
+    pdf_page: 415
+    url: "https://www.pcahistory.org/pca/ga/42nd_pcaga_2014.pdf#page=415"
+  - type: "minutes"
+    source_id: "minutes:ga43_2015"
+    label: "Minutes PDF · p. 442"
+    file: "43rd_pcaga_2015.pdf"
+    volume: "ga43_2015"
+    pdf_page: 442
+    url: "https://www.pcahistory.org/pca/ga/43rd_pcaga_2015.pdf#page=442"
+---
 # Gulfstream Presbytery — BCO 21-4, RAO 16-3.e.5
 
 *Stated differences not recorded in candidate’s own words or judged by the…*

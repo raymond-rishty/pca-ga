@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga28_2000"
+    label: "Minutes PDF · p. 342"
+    file: "28th_pcaga_2000.pdf"
+    volume: "ga28_2000"
+    pdf_page: 342
+    url: "https://www.pcahistory.org/pca/ga/28th_pcaga_2000.pdf#page=342"
+---
 # Rocky Mountain Presbytery — BCO 18-6
 
 *No record of candidates reporting once a year BCO…*

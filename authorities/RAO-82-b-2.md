@@ -6,7 +6,7 @@
 
 | Year | Type | Title | Disposition |
 |------|------|-------|-------------|
-| 2025 | RPR exception | [Highlands: The SJC's injunction should have been followed.](../rpr/exc/highlands__018.md) | raised |
+| 2025 | RPR exception | [Highlands: The SJC's injunction should have been followed.](../rpr/exc/highlands__018.html) | raised |
 
 ---
 *[← Authority Index](../index/AUTHORITY-BY-PROVISION.md)*

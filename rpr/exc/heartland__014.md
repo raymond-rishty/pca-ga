@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga29_2001"
+    label: "Minutes PDF · p. 331"
+    file: "29th_pcaga_2001.pdf"
+    volume: "ga29_2001"
+    pdf_page: 331
+    url: "https://www.pcahistory.org/pca/ga/29th_pcaga_2001.pdf#page=331"
+---
 # Heartland Presbytery — BCO 15-1
 
 *No records of commission reports. BCO…*

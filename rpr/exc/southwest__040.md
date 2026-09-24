@@ -1,3 +1,20 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga39_2011"
+    label: "Minutes PDF · p. 487"
+    file: "39th_pcaga_2011.pdf"
+    volume: "ga39_2011"
+    pdf_page: 487
+    url: "https://www.pcahistory.org/pca/ga/39th_pcaga_2011.pdf#page=487"
+  - type: "minutes"
+    source_id: "minutes:ga40_2012"
+    label: "Minutes PDF · p. 475"
+    file: "40th_pcaga_2012.pdf"
+    volume: "ga40_2012"
+    pdf_page: 475
+    url: "https://www.pcahistory.org/pca/ga/40th_pcaga_2012.pdf#page=475"
+---
 # Southwest Presbytery — BCO 21-5.8
 
 *No record of specific elements of ordination…*

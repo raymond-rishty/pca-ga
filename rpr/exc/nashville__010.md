@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga28_2000"
+    label: "Minutes PDF · p. 333"
+    file: "28th_pcaga_2000.pdf"
+    volume: "ga28_2000"
+    pdf_page: 333
+    url: "https://www.pcahistory.org/pca/ga/28th_pcaga_2000.pdf#page=333"
+---
 # Nashville Presbytery — BCO 40-1
 
 *Standing rules on session records should comply with BCO…*

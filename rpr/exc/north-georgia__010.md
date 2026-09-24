@@ -1,3 +1,20 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga27_1999"
+    label: "Minutes PDF · p. 202"
+    file: "27th_pcaga_1999.pdf"
+    volume: "ga27_1999"
+    pdf_page: 202
+    url: "https://www.pcahistory.org/pca/ga/27th_pcaga_1999.pdf#page=202"
+  - type: "minutes"
+    source_id: "minutes:ga27_1999"
+    label: "Minutes PDF · p. 203"
+    file: "27th_pcaga_1999.pdf"
+    volume: "ga27_1999"
+    pdf_page: 203
+    url: "https://www.pcahistory.org/pca/ga/27th_pcaga_1999.pdf#page=203"
+---
 # North Georgia Presbytery — exception of substance
 
 *January 18, 1997; Licentiate being examined for ordination was not examined in…*

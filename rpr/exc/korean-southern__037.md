@@ -1,3 +1,41 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga30_2002"
+    label: "Minutes PDF · p. 318"
+    file: "30th_pcaga_2002.pdf"
+    volume: "ga30_2002"
+    pdf_page: 318
+    url: "https://www.pcahistory.org/pca/ga/30th_pcaga_2002.pdf#page=318"
+  - type: "minutes"
+    source_id: "minutes:ga31_2003"
+    label: "Minutes PDF · p. 234"
+    file: "31st_pcaga_2003.pdf"
+    volume: "ga31_2003"
+    pdf_page: 234
+    url: "https://www.pcahistory.org/pca/ga/31st_pcaga_2003.pdf#page=234"
+  - type: "minutes"
+    source_id: "minutes:ga32_2004"
+    label: "Minutes PDF · p. 221"
+    file: "32nd_pcaga_2004.pdf"
+    volume: "ga32_2004"
+    pdf_page: 221
+    url: "https://www.pcahistory.org/pca/ga/32nd_pcaga_2004.pdf#page=221"
+  - type: "minutes"
+    source_id: "minutes:ga33_2005"
+    label: "Minutes PDF · p. 289"
+    file: "33rd_pcaga_2005.pdf"
+    volume: "ga33_2005"
+    pdf_page: 289
+    url: "https://www.pcahistory.org/pca/ga/33rd_pcaga_2005.pdf#page=289"
+  - type: "minutes"
+    source_id: "minutes:ga34_2006"
+    label: "Minutes PDF · p. 271"
+    file: "34th_pcaga_2006.pdf"
+    volume: "ga34_2006"
+    pdf_page: 271
+    url: "https://www.pcahistory.org/pca/ga/34th_pcaga_2006.pdf#page=271"
+---
 # Korean Southern Presbytery — BCO 13-4
 
 *No quorum present therefore no business should have been transacted. BCO…*

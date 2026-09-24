@@ -1,3 +1,34 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga42_2014"
+    label: "Minutes PDF · p. 402"
+    file: "42nd_pcaga_2014.pdf"
+    volume: "ga42_2014"
+    pdf_page: 402
+    url: "https://www.pcahistory.org/pca/ga/42nd_pcaga_2014.pdf#page=402"
+  - type: "minutes"
+    source_id: "minutes:ga43_2015"
+    label: "Minutes PDF · p. 433"
+    file: "43rd_pcaga_2015.pdf"
+    volume: "ga43_2015"
+    pdf_page: 433
+    url: "https://www.pcahistory.org/pca/ga/43rd_pcaga_2015.pdf#page=433"
+  - type: "minutes"
+    source_id: "minutes:ga47_2019"
+    label: "Minutes PDF · p. 461"
+    file: "47th_pcaga_2019.pdf"
+    volume: "ga47_2019"
+    pdf_page: 461
+    url: "https://www.pcahistory.org/pca/ga/47th_pcaga_2019.pdf#page=461"
+  - type: "minutes"
+    source_id: "minutes:ga48_2021"
+    label: "Minutes PDF · p. 559"
+    file: "48th_pcaga_2021.pdf"
+    volume: "ga48_2021"
+    pdf_page: 559
+    url: "https://www.pcahistory.org/pca/ga/48th_pcaga_2021.pdf#page=559"
+---
 # Chicago Metro Presbytery — BCO 13-9.b
 
 *No record of review of records of church…*

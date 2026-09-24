@@ -1,3 +1,20 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga48_2021"
+    label: "Minutes PDF · p. 590"
+    file: "48th_pcaga_2021.pdf"
+    volume: "ga48_2021"
+    pdf_page: 590
+    url: "https://www.pcahistory.org/pca/ga/48th_pcaga_2021.pdf#page=590"
+  - type: "minutes"
+    source_id: "minutes:ga49_2022"
+    label: "Minutes PDF · p. 562"
+    file: "49th_pcaga_2022.pdf"
+    volume: "ga49_2022"
+    pdf_page: 562
+    url: "https://www.pcahistory.org/pca/ga/49th_pcaga_2022.pdf#page=562"
+---
 # Korean Southern Presbytery — BCO 13-8
 
 *no record of adherence to BCO 13-8, including commission to examine and ordain…*

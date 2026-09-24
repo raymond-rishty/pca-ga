@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga50_2023"
+    label: "Minutes PDF · p. 521"
+    file: "50th_pcaga_2023.pdf"
+    volume: "ga50_2023"
+    pdf_page: 521
+    url: "https://www.pcahistory.org/pca/ga/50th_pcaga_2023.pdf#page=521"
+---
 # Arizona Presbytery — BCO 15-2
 
 *Commission appointed to respond to CRPR report does not meet the minimum…*

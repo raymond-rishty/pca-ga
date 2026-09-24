@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga21_1993"
+    label: "Minutes PDF · p. 235"
+    file: "21st_pcaga_1993.pdf"
+    volume: "ga21_1993"
+    pdf_page: 235
+    url: "https://www.pcahistory.org/pca/ga/21st_pcaga_1993.pdf#page=235"
+---
 # Great Lakes Presbytery — BCO § 38-2, BCO § 8-7
 
 *p. 14: The request to divest a minister without censure was handled at the…*

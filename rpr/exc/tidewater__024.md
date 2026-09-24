@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga51_2024"
+    label: "Minutes PDF · p. 695"
+    file: "51st_pcaga_2024.pdf"
+    volume: "ga51_2024"
+    pdf_page: 695
+    url: "https://www.pcahistory.org/pca/ga/51st_pcaga_2024.pdf#page=695"
+---
 # Tidewater Presbytery — BCO 13-11
 
 *Complaint and Appeal sent to Presbytery not recorded in Presbytery’s…*

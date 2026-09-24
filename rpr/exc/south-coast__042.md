@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga45_2017"
+    label: "Minutes PDF · p. 416"
+    file: "45th_pcaga_2017.pdf"
+    volume: "ga45_2017"
+    pdf_page: 416
+    url: "https://www.pcahistory.org/pca/ga/45th_pcaga_2017.pdf#page=416"
+---
 # South Coast Presbytery — RAO 16-4.c.1
 
 *TE appointed as Stated Supply (and empowered to administer the sacraments) not…*

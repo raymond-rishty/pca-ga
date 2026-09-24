@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga32_2004"
+    label: "Minutes PDF · p. 245"
+    file: "32nd_pcaga_2004.pdf"
+    volume: "ga32_2004"
+    pdf_page: 245
+    url: "https://www.pcahistory.org/pca/ga/32nd_pcaga_2004.pdf#page=245"
+---
 # Tennessee Valley Presbytery — BCO 19-2.c
 
 *No record of views examined. BCO…*

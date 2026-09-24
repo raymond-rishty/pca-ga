@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga51_2024"
+    label: "Minutes PDF · p. 567"
+    file: "51st_pcaga_2024.pdf"
+    volume: "ga51_2024"
+    pdf_page: 567
+    url: "https://www.pcahistory.org/pca/ga/51st_pcaga_2024.pdf#page=567"
+---
 # Korean Southeastern Presbytery — BCO 38-3.a
 
 *No record of whether departing TEs were categorized according to BCO 38-3.a or…*

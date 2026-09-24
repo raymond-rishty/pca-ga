@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga26_1998"
+    label: "Minutes PDF · p. 240"
+    file: "26th_pcaga_1998.pdf"
+    volume: "ga26_1998"
+    pdf_page: 240
+    url: "https://www.pcahistory.org/pca/ga/26th_pcaga_1998.pdf#page=240"
+---
 # Gulf Coast Presbytery — BCO 19-2)
 
 *No examination in Bible content, yet man was licensed (BCO…*

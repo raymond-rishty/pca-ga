@@ -1,3 +1,27 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga30_2002"
+    label: "Minutes PDF · p. 318"
+    file: "30th_pcaga_2002.pdf"
+    volume: "ga30_2002"
+    pdf_page: 318
+    url: "https://www.pcahistory.org/pca/ga/30th_pcaga_2002.pdf#page=318"
+  - type: "minutes"
+    source_id: "minutes:ga32_2004"
+    label: "Minutes PDF · p. 221"
+    file: "32nd_pcaga_2004.pdf"
+    volume: "ga32_2004"
+    pdf_page: 221
+    url: "https://www.pcahistory.org/pca/ga/32nd_pcaga_2004.pdf#page=221"
+  - type: "minutes"
+    source_id: "minutes:ga34_2006"
+    label: "Minutes PDF · p. 271"
+    file: "34th_pcaga_2006.pdf"
+    volume: "ga34_2006"
+    pdf_page: 271
+    url: "https://www.pcahistory.org/pca/ga/34th_pcaga_2006.pdf#page=271"
+---
 # Korean Southern Presbytery — BCO 21-4, RAO 14-3.e.5
 
 *Incomplete record of ordination examination elements and no record of signing…*

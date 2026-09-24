@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga42_2014"
+    label: "Minutes PDF · p. 406"
+    file: "42nd_pcaga_2014.pdf"
+    volume: "ga42_2014"
+    pdf_page: 406
+    url: "https://www.pcahistory.org/pca/ga/42nd_pcaga_2014.pdf#page=406"
+---
 # Covenant Presbytery — BCO 13-7
 
 *Ministerial obligation not shown to be…*

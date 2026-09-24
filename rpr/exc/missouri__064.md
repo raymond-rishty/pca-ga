@@ -1,3 +1,20 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga51_2024"
+    label: "Minutes PDF · p. 591"
+    file: "51st_pcaga_2024.pdf"
+    volume: "ga51_2024"
+    pdf_page: 591
+    url: "https://www.pcahistory.org/pca/ga/51st_pcaga_2024.pdf#page=591"
+  - type: "minutes"
+    source_id: "minutes:ga52_2025"
+    label: "Minutes PDF · p. 635"
+    file: "52nd_pcaga_2025.pdf"
+    volume: "ga52_2025"
+    pdf_page: 635
+    url: "https://www.pcahistory.org/pca/ga/52nd_pcaga_2025.pdf#page=635"
+---
 # Missouri Presbytery — BCO 46-6, BCO 13-7
 
 *No record reflecting when a man who was transferred to another presbytery was…*

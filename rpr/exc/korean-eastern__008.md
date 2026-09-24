@@ -1,3 +1,69 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga25_1997"
+    label: "Minutes PDF · p. 209"
+    file: "25th_pcaga_1997.pdf"
+    volume: "ga25_1997"
+    pdf_page: 209
+    url: "https://www.pcahistory.org/pca/ga/25th_pcaga_1997.pdf#page=209"
+  - type: "minutes"
+    source_id: "minutes:ga26_1998"
+    label: "Minutes PDF · p. 242"
+    file: "26th_pcaga_1998.pdf"
+    volume: "ga26_1998"
+    pdf_page: 242
+    url: "https://www.pcahistory.org/pca/ga/26th_pcaga_1998.pdf#page=242"
+  - type: "minutes"
+    source_id: "minutes:ga28_2000"
+    label: "Minutes PDF · p. 328"
+    file: "28th_pcaga_2000.pdf"
+    volume: "ga28_2000"
+    pdf_page: 328
+    url: "https://www.pcahistory.org/pca/ga/28th_pcaga_2000.pdf#page=328"
+  - type: "minutes"
+    source_id: "minutes:ga29_2001"
+    label: "Minutes PDF · p. 338"
+    file: "29th_pcaga_2001.pdf"
+    volume: "ga29_2001"
+    pdf_page: 338
+    url: "https://www.pcahistory.org/pca/ga/29th_pcaga_2001.pdf#page=338"
+  - type: "minutes"
+    source_id: "minutes:ga30_2002"
+    label: "Minutes PDF · p. 317"
+    file: "30th_pcaga_2002.pdf"
+    volume: "ga30_2002"
+    pdf_page: 317
+    url: "https://www.pcahistory.org/pca/ga/30th_pcaga_2002.pdf#page=317"
+  - type: "minutes"
+    source_id: "minutes:ga31_2003"
+    label: "Minutes PDF · p. 231"
+    file: "31st_pcaga_2003.pdf"
+    volume: "ga31_2003"
+    pdf_page: 231
+    url: "https://www.pcahistory.org/pca/ga/31st_pcaga_2003.pdf#page=231"
+  - type: "minutes"
+    source_id: "minutes:ga32_2004"
+    label: "Minutes PDF · p. 219"
+    file: "32nd_pcaga_2004.pdf"
+    volume: "ga32_2004"
+    pdf_page: 219
+    url: "https://www.pcahistory.org/pca/ga/32nd_pcaga_2004.pdf#page=219"
+  - type: "minutes"
+    source_id: "minutes:ga33_2005"
+    label: "Minutes PDF · p. 283"
+    file: "33rd_pcaga_2005.pdf"
+    volume: "ga33_2005"
+    pdf_page: 283
+    url: "https://www.pcahistory.org/pca/ga/33rd_pcaga_2005.pdf#page=283"
+  - type: "minutes"
+    source_id: "minutes:ga34_2006"
+    label: "Minutes PDF · p. 266"
+    file: "34th_pcaga_2006.pdf"
+    volume: "ga34_2006"
+    pdf_page: 266
+    url: "https://www.pcahistory.org/pca/ga/34th_pcaga_2006.pdf#page=266"
+---
 # Korean Eastern Presbytery — BCO 19
 
 *Steps of ordination exam need to be stated (BCO 19,…*

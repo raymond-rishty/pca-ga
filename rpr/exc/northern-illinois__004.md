@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga18_1990"
+    label: "Minutes PDF · p. 185"
+    file: "18th_pcaga_1990.pdf"
+    volume: "ga18_1990"
+    pdf_page: 185
+    url: "https://www.pcahistory.org/pca/ga/18th_pcaga_1990.pdf#page=185"
+---
 # Northern Illinois Presbytery — BCO 5-3
 
 *Page 34,35: 89-82(1): BCO 5-3 states three ways to form a "Temporary…*

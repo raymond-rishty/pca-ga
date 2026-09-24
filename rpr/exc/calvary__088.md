@@ -1,3 +1,27 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga42_2014"
+    label: "Minutes PDF · p. 393"
+    file: "42nd_pcaga_2014.pdf"
+    volume: "ga42_2014"
+    pdf_page: 393
+    url: "https://www.pcahistory.org/pca/ga/42nd_pcaga_2014.pdf#page=393"
+  - type: "minutes"
+    source_id: "minutes:ga43_2015"
+    label: "Minutes PDF · p. 419"
+    file: "43rd_pcaga_2015.pdf"
+    volume: "ga43_2015"
+    pdf_page: 419
+    url: "https://www.pcahistory.org/pca/ga/43rd_pcaga_2015.pdf#page=419"
+  - type: "minutes"
+    source_id: "minutes:ga44_2016"
+    label: "Minutes PDF · p. 391"
+    file: "44th_pcaga_2016.pdf"
+    volume: "ga44_2016"
+    pdf_page: 391
+    url: "https://www.pcahistory.org/pca/ga/44th_pcaga_2016.pdf#page=391"
+---
 # Calvary Presbytery — BCO 19-2.e, RAO 16-3.e.5
 
 *Candidate’s differences not recorded as approved by presbytery in proper…*

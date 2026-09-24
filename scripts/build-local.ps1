@@ -102,6 +102,18 @@ try {
     Invoke-BuildStep 'Regenerate judicial case catalogue' {
         python scripts/13_judicial_taxonomy_index.py .
     }
+    Invoke-BuildStep 'Regenerate auditable judicial provision evidence' {
+        python scripts/44_case_provision_index.py .
+    }
+    Invoke-BuildStep 'Build the shared provision catalogue' {
+        python scripts/build_provision_catalogue.py . (Join-Path $ConstitutionPath 'content')
+        if ($LASTEXITCODE -ne 0) { throw "Provision catalogue build failed: $LASTEXITCODE" }
+        Assert-File 'index/provision_catalogue.json'
+    }
+    Invoke-BuildStep 'Project the authority index from the provision catalogue' {
+        python scripts/43_authority_index.py .
+        if ($LASTEXITCODE -ne 0) { throw "Authority projection failed: $LASTEXITCODE" }
+    }
     Invoke-BuildStep 'Rebuild catalogue search index' {
         python scripts/35_search_index.py .
     }
@@ -132,6 +144,12 @@ try {
     Invoke-BuildStep 'Run source registry checks' {
         python tests/test_source_registry.py
     }
+    Invoke-BuildStep 'Test provision research generator' {
+        python tests/test_provision_research.py
+    }
+    Invoke-BuildStep 'Test provision catalogue projections' {
+        python tests/test_provision_catalogue.py
+    }
     Invoke-BuildStep 'Run focused Node regression checks' {
         node --test tests/source-pdf-links.test.js tests/minutes-back-to-top.test.js tests/minutes-page-source-pdf.test.js tests/search-engine.test.js tests/search-record.test.js tests/search-index-overtures.test.js tests/pagefind-search.test.js
     }
@@ -148,10 +166,15 @@ try {
     Invoke-BuildStep 'Validate generated BCO manifests' {
         Assert-File (Join-Path $siteRoot 'api/bco/index.json')
         Assert-File (Join-Path $siteRoot 'api/bco/38-1.json')
+        Assert-File (Join-Path $siteRoot 'api/provisions/index.json')
+        Assert-File (Join-Path $siteRoot 'api/provisions/bco/38-1.json')
         $manifest = Get-Content (Join-Path $siteRoot 'api/bco/38-1.json') -Raw
+        $canonical = Get-Content (Join-Path $siteRoot 'api/provisions/bco/38-1.json') -Raw
+        $bcoIndex = Get-Content (Join-Path $siteRoot 'api/bco/index.json') -Raw
         $llms = Get-Content (Join-Path $siteRoot 'llms.txt') -Raw
-        if ($manifest -notmatch '"provision"\s*:\s*"BCO 38-1"' -or $llms -notmatch '/api/bco/index.json') {
-            throw 'The generated BCO manifest or llms.txt reference is missing.'
+        if ($manifest -cne $canonical -or $manifest -notmatch '"schema_version"\s*:\s*2' -or
+            $bcoIndex -notmatch '"schema_version"\s*:\s*2' -or $llms -notmatch '/api/provisions/index.json') {
+            throw 'The generated schema-v2 provision API, BCO compatibility copy, or llms.txt reference is missing.'
         }
     }
     Invoke-BuildStep 'Validate rendered extracted source PDF links' {
@@ -215,6 +238,15 @@ try {
         if (-not (Select-String -Path $allPages.FullName -Pattern 'data-constitution-book="rao"' -Quiet)) { throw 'No RAO reference was rendered.' }
         if (-not (Select-String -Path $allPages.FullName -Pattern 'class="minutes-ref"' -Quiet)) { throw 'No Minutes reference was rendered.' }
         if (-not (Select-String -Path $allPages.FullName -Pattern 'class="scripture-ref"' -Quiet)) { throw 'No scripture reference was rendered.' }
+    }
+    Invoke-BuildStep 'Generate canonical provision research pages' {
+        python scripts/46_provision_research.py site . $siteRoot --baseurl /pca-ga
+        if ($LASTEXITCODE -ne 0) { throw "Provision research pages failed: $LASTEXITCODE" }
+        Assert-File (Join-Path $siteRoot 'provisions/index.html')
+        Assert-File (Join-Path $siteRoot 'provisions/bco/40-1/index.html')
+        Assert-File (Join-Path $siteRoot 'provisions/wlc/q-62/index.html')
+        Assert-File (Join-Path $siteRoot 'provisions/rao/1-1/index.html')
+        Assert-File (Join-Path $siteRoot 'app/provision_search.json')
     }
     Invoke-BuildStep 'Build Pagefind full-text index' {
         npx --yes pagefind@1.5.2 --site $siteRoot

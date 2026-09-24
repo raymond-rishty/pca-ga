@@ -1,3 +1,20 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga45_2017"
+    label: "Minutes PDF · p. 406"
+    file: "45th_pcaga_2017.pdf"
+    volume: "ga45_2017"
+    pdf_page: 406
+    url: "https://www.pcahistory.org/pca/ga/45th_pcaga_2017.pdf#page=406"
+  - type: "minutes"
+    source_id: "minutes:ga46_2018"
+    label: "Minutes PDF · p. 439"
+    file: "46th_pcaga_2018.pdf"
+    volume: "ga46_2018"
+    pdf_page: 439
+    url: "https://www.pcahistory.org/pca/ga/46th_pcaga_2018.pdf#page=439"
+---
 # Northwest Georgia Presbytery — BCO 21-4.c.1
 
 *No record of all specific requirements for transfer exam for a TE from another…*

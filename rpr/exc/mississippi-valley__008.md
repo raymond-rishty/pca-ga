@@ -1,3 +1,20 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga40_2012"
+    label: "Minutes PDF · p. 444"
+    file: "40th_pcaga_2012.pdf"
+    volume: "ga40_2012"
+    pdf_page: 444
+    url: "https://www.pcahistory.org/pca/ga/40th_pcaga_2012.pdf#page=444"
+  - type: "minutes"
+    source_id: "minutes:ga41_2013"
+    label: "Minutes PDF · p. 449"
+    file: "41st_pcaga_2013.pdf"
+    volume: "ga41_2013"
+    pdf_page: 449
+    url: "https://www.pcahistory.org/pca/ga/41st_pcaga_2013.pdf#page=449"
+---
 # Mississippi Valley Presbytery — BCO 13-6, BCO 21-4
 
 *May 3, 2011 ( BCO 13-6 and BCO 21-4) No record that transferring minister had…*

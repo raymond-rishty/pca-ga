@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga51_2024"
+    label: "Minutes PDF · p. 605"
+    file: "51st_pcaga_2024.pdf"
+    volume: "ga51_2024"
+    pdf_page: 605
+    url: "https://www.pcahistory.org/pca/ga/51st_pcaga_2024.pdf#page=605"
+---
 # Northern California Presbytery — BCO 13-9.b
 
 *No record of Presbytery reviewing Session…*

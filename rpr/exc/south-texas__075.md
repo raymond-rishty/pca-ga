@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga50_2023"
+    label: "Minutes PDF · p. 703"
+    file: "50th_pcaga_2023.pdf"
+    volume: "ga50_2023"
+    pdf_page: 703
+    url: "https://www.pcahistory.org/pca/ga/50th_pcaga_2023.pdf#page=703"
+---
 # South Texas Presbytery — BCO 23-1
 
 *No record that Congregation/Session concurred with dissolution of pastoral…*

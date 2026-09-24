@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga51_2024"
+    label: "Minutes PDF · p. 684"
+    file: "51st_pcaga_2024.pdf"
+    volume: "ga51_2024"
+    pdf_page: 684
+    url: "https://www.pcahistory.org/pca/ga/51st_pcaga_2024.pdf#page=684"
+---
 # Suncoast Florida Presbytery — BCO 46-6
 
 *TE is received from another PCA presbytery but no evidence of action of other…*

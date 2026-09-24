@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga22_1994"
+    label: "Minutes PDF · p. 318"
+    file: "22nd_pcaga_1994.pdf"
+    volume: "ga22_1994"
+    pdf_page: 318
+    url: "https://www.pcahistory.org/pca/ga/22nd_pcaga_1994.pdf#page=318"
+---
 # Tennessee Valley Presbytery — BCO 23-1
 
 *p. 5, Ministerial Committee: There was no mention of the congregation's…*

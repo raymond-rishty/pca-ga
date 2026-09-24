@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga50_2023"
+    label: "Minutes PDF · p. 641"
+    file: "50th_pcaga_2023.pdf"
+    volume: "ga50_2023"
+    pdf_page: 641
+    url: "https://www.pcahistory.org/pca/ga/50th_pcaga_2023.pdf#page=641"
+---
 # Korean Southwest Orange County Presbytery — BCO 13-11, RAO 16-3.e.8
 
 *The minutes approved by the presbytery and submitted to CRPR do not include a…*

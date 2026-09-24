@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga19_1991"
+    label: "Minutes PDF · p. 183"
+    file: "19th_pcaga_1991.pdf"
+    volume: "ga19_1991"
+    pdf_page: 183
+    url: "https://www.pcahistory.org/pca/ga/19th_pcaga_1991.pdf#page=183"
+---
 # Heritage Presbytery — WCF 21-8, BCO 48-1-7
 
 *Page 12, 10.2 A candidate for licensure's exception to the standards (it is…*

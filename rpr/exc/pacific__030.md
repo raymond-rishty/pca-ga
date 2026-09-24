@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga32_2004"
+    label: "Minutes PDF · p. 232"
+    file: "32nd_pcaga_2004.pdf"
+    volume: "ga32_2004"
+    pdf_page: 232
+    url: "https://www.pcahistory.org/pca/ga/32nd_pcaga_2004.pdf#page=232"
+---
 # Pacific Presbytery — BCO 13-11, RAO 14-4
 
 *No minutes for a called meeting. BCO 13-11; RAO…*

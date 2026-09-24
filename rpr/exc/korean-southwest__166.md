@@ -1,3 +1,27 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga48_2021"
+    label: "Minutes PDF · p. 592"
+    file: "48th_pcaga_2021.pdf"
+    volume: "ga48_2021"
+    pdf_page: 592
+    url: "https://www.pcahistory.org/pca/ga/48th_pcaga_2021.pdf#page=592"
+  - type: "minutes"
+    source_id: "minutes:ga49_2022"
+    label: "Minutes PDF · p. 568"
+    file: "49th_pcaga_2022.pdf"
+    volume: "ga49_2022"
+    pdf_page: 568
+    url: "https://www.pcahistory.org/pca/ga/49th_pcaga_2022.pdf#page=568"
+  - type: "minutes"
+    source_id: "minutes:ga50_2023"
+    label: "Minutes PDF · p. 633"
+    file: "50th_pcaga_2023.pdf"
+    volume: "ga50_2023"
+    pdf_page: 633
+    url: "https://www.pcahistory.org/pca/ga/50th_pcaga_2023.pdf#page=633"
+---
 # Korean Southwest Presbytery — BCO 22-2
 
 *No record of congregational meeting and call, no record of terms of call being…*

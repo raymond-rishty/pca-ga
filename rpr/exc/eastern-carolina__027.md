@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga50_2023"
+    label: "Minutes PDF · p. 555"
+    file: "50th_pcaga_2023.pdf"
+    volume: "ga50_2023"
+    pdf_page: 555
+    url: "https://www.pcahistory.org/pca/ga/50th_pcaga_2023.pdf#page=555"
+---
 # Eastern Carolina Presbytery — WCF 29-4, BCO 58-3
 
 *Error to conclude that celebration of Lord’s Supper by the Session of [church…*

@@ -1,3 +1,20 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga21_1993"
+    label: "Minutes PDF · p. 244"
+    file: "21st_pcaga_1993.pdf"
+    volume: "ga21_1993"
+    pdf_page: 244
+    url: "https://www.pcahistory.org/pca/ga/21st_pcaga_1993.pdf#page=244"
+  - type: "minutes"
+    source_id: "minutes:ga21_1993"
+    label: "Minutes PDF · p. 245"
+    file: "21st_pcaga_1993.pdf"
+    volume: "ga21_1993"
+    pdf_page: 245
+    url: "https://www.pcahistory.org/pca/ga/21st_pcaga_1993.pdf#page=245"
+---
 # Northeast Presbytery — BCO 21-4)
 
 *page 36, #22.2 there is no record of a sermon being preached as part of the…*

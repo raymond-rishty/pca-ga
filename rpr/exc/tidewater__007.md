@@ -1,3 +1,27 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga45_2017"
+    label: "Minutes PDF · p. 428"
+    file: "45th_pcaga_2017.pdf"
+    volume: "ga45_2017"
+    pdf_page: 428
+    url: "https://www.pcahistory.org/pca/ga/45th_pcaga_2017.pdf#page=428"
+  - type: "minutes"
+    source_id: "minutes:ga46_2018"
+    label: "Minutes PDF · p. 456"
+    file: "46th_pcaga_2018.pdf"
+    volume: "ga46_2018"
+    pdf_page: 456
+    url: "https://www.pcahistory.org/pca/ga/46th_pcaga_2018.pdf#page=456"
+  - type: "minutes"
+    source_id: "minutes:ga47_2019"
+    label: "Minutes PDF · p. 510"
+    file: "47th_pcaga_2019.pdf"
+    volume: "ga47_2019"
+    pdf_page: 510
+    url: "https://www.pcahistory.org/pca/ga/47th_pcaga_2019.pdf#page=510"
+---
 # Tidewater Presbytery — BCO 21-4
 
 *Stated differences not attached as noted [Shane…*

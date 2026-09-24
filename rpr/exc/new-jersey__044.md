@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga52_2025"
+    label: "Minutes PDF · p. 639"
+    file: "52nd_pcaga_2025.pdf"
+    volume: "ga52_2025"
+    pdf_page: 639
+    url: "https://www.pcahistory.org/pca/ga/52nd_pcaga_2025.pdf#page=639"
+---
 # New Jersey Presbytery — BCO 21-4.a
 
 *Inadequate explanation recorded of waiving educational…*

@@ -1,3 +1,20 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga25_1997"
+    label: "Minutes PDF · p. 215"
+    file: "25th_pcaga_1997.pdf"
+    volume: "ga25_1997"
+    pdf_page: 215
+    url: "https://www.pcahistory.org/pca/ga/25th_pcaga_1997.pdf#page=215"
+  - type: "minutes"
+    source_id: "minutes:ga26_1998"
+    label: "Minutes PDF · p. 250"
+    file: "26th_pcaga_1998.pdf"
+    volume: "ga26_1998"
+    pdf_page: 250
+    url: "https://www.pcahistory.org/pca/ga/26th_pcaga_1998.pdf#page=250"
+---
 # Pacific Northwest Presbytery — exception of substance
 
 *Presbytery took no action on TE’s change of…*

@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga21_1993"
+    label: "Minutes PDF · p. 253"
+    file: "21st_pcaga_1993.pdf"
+    volume: "ga21_1993"
+    pdf_page: 253
+    url: "https://www.pcahistory.org/pca/ga/21st_pcaga_1993.pdf#page=253"
+---
 # Southwest Presbytery — BCO 18-6)
 
 *That there is no annual report of candidates under care. {BCO…*

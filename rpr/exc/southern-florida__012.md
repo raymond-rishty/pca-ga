@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga31_2003"
+    label: "Minutes PDF · p. 254"
+    file: "31st_pcaga_2003.pdf"
+    volume: "ga31_2003"
+    pdf_page: 254
+    url: "https://www.pcahistory.org/pca/ga/31st_pcaga_2003.pdf#page=254"
+---
 # Southern Florida Presbytery — WCF 183, WLC 80, BCO 7-1
 
 *Theological paper approved in which candidate stated, “I believe that God…*

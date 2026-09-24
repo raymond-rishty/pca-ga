@@ -1,3 +1,27 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga36_2008"
+    label: "Minutes PDF · p. 235"
+    file: "36th_pcaga_2008.pdf"
+    volume: "ga36_2008"
+    pdf_page: 235
+    url: "https://www.pcahistory.org/pca/ga/36th_pcaga_2008.pdf#page=235"
+  - type: "minutes"
+    source_id: "minutes:ga37_2009"
+    label: "Minutes PDF · p. 105"
+    file: "37th_pcaga_2009.pdf"
+    volume: "ga37_2009"
+    pdf_page: 105
+    url: "https://www.pcahistory.org/pca/ga/37th_pcaga_2009.pdf#page=105"
+  - type: "minutes"
+    source_id: "minutes:ga38_2010"
+    label: "Minutes PDF · p. 97"
+    file: "38th_pcaga_2010.pdf"
+    volume: "ga38_2010"
+    pdf_page: 97
+    url: "https://www.pcahistory.org/pca/ga/38th_pcaga_2010.pdf#page=97"
+---
 # Korean Northwest Presbytery — BCO 21-4, RAO 163.e.5
 
 *BCO 21-4; RAO 163.e.5. No record of requiring candidate to state differences…*

@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga32_2004"
+    label: "Minutes PDF · p. 231"
+    file: "32nd_pcaga_2004.pdf"
+    volume: "ga32_2004"
+    pdf_page: 231
+    url: "https://www.pcahistory.org/pca/ga/32nd_pcaga_2004.pdf#page=231"
+---
 # Pacific Presbytery — RAO 14-4.e.6
 
 *No record of actions in executive session. RAO…*

@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga31_2003"
+    label: "Minutes PDF · p. 245"
+    file: "31st_pcaga_2003.pdf"
+    volume: "ga31_2003"
+    pdf_page: 245
+    url: "https://www.pcahistory.org/pca/ga/31st_pcaga_2003.pdf#page=245"
+---
 # Northern Illinois Presbytery — BCO 43-1
 
 *: Complaint sustained without recording the complaint or its substance. BCO…*

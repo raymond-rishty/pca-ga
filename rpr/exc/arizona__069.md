@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga52_2025"
+    label: "Minutes PDF · p. 514"
+    file: "52nd_pcaga_2025.pdf"
+    volume: "ga52_2025"
+    pdf_page: 514
+    url: "https://www.pcahistory.org/pca/ga/52nd_pcaga_2025.pdf#page=514"
+---
 # Arizona Presbytery — BCO 5-9f(1), BCO 5-9(g)
 
 *Record of petition to particularize not recorded or approved by presbytery.…*

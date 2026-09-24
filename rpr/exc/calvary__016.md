@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga19_1991"
+    label: "Minutes PDF · p. 180"
+    file: "19th_pcaga_1991.pdf"
+    volume: "ga19_1991"
+    pdf_page: 180
+    url: "https://www.pcahistory.org/pca/ga/19th_pcaga_1991.pdf#page=180"
+---
 # Calvary Presbytery — BCO 21-4a7
 
 *p.6 A candidate for ordination not examined here or earlier on church history.…*

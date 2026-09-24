@@ -1,3 +1,20 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga49_2022"
+    label: "Minutes PDF · p. 501"
+    file: "49th_pcaga_2022.pdf"
+    volume: "ga49_2022"
+    pdf_page: 501
+    url: "https://www.pcahistory.org/pca/ga/49th_pcaga_2022.pdf#page=501"
+  - type: "minutes"
+    source_id: "minutes:ga50_2023"
+    label: "Minutes PDF · p. 531"
+    file: "50th_pcaga_2023.pdf"
+    volume: "ga50_2023"
+    pdf_page: 531
+    url: "https://www.pcahistory.org/pca/ga/50th_pcaga_2023.pdf#page=531"
+---
 # Catawba Valley Presbytery — BCO 15-1, RAO 16-3.e.4
 
 *Minutes of commission not entered into Presbytery minutes. Response : We…*

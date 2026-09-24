@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga21_1993"
+    label: "Minutes PDF · p. 238"
+    file: "21st_pcaga_1993.pdf"
+    volume: "ga21_1993"
+    pdf_page: 238
+    url: "https://www.pcahistory.org/pca/ga/21st_pcaga_1993.pdf#page=238"
+---
 # Illiana Presbytery — exception of substance
 
 *"There is no record that Illiana Presbytery approved the exception by the…*

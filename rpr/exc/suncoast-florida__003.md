@@ -1,3 +1,34 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga35_2007"
+    label: "Minutes PDF · p. 221"
+    file: "35th_pcaga_2007.pdf"
+    volume: "ga35_2007"
+    pdf_page: 221
+    url: "https://www.pcahistory.org/pca/ga/35th_pcaga_2007.pdf#page=221"
+  - type: "minutes"
+    source_id: "minutes:ga36_2008"
+    label: "Minutes PDF · p. 269"
+    file: "36th_pcaga_2008.pdf"
+    volume: "ga36_2008"
+    pdf_page: 269
+    url: "https://www.pcahistory.org/pca/ga/36th_pcaga_2008.pdf#page=269"
+  - type: "minutes"
+    source_id: "minutes:ga37_2009"
+    label: "Minutes PDF · p. 126"
+    file: "37th_pcaga_2009.pdf"
+    volume: "ga37_2009"
+    pdf_page: 126
+    url: "https://www.pcahistory.org/pca/ga/37th_pcaga_2009.pdf#page=126"
+  - type: "minutes"
+    source_id: "minutes:ga38_2010"
+    label: "Minutes PDF · p. 119"
+    file: "38th_pcaga_2010.pdf"
+    volume: "ga38_2010"
+    pdf_page: 119
+    url: "https://www.pcahistory.org/pca/ga/38th_pcaga_2010.pdf#page=119"
+---
 # Suncoast Florida Presbytery — BCO 13-9.b
 
 *No record of review of Session minutes. BCO 13-9.b. Response: No response…*

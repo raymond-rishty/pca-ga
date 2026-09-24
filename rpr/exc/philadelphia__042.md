@@ -1,3 +1,20 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga46_2018"
+    label: "Minutes PDF · p. 446"
+    file: "46th_pcaga_2018.pdf"
+    volume: "ga46_2018"
+    pdf_page: 446
+    url: "https://www.pcahistory.org/pca/ga/46th_pcaga_2018.pdf#page=446"
+  - type: "minutes"
+    source_id: "minutes:ga47_2019"
+    label: "Minutes PDF · p. 499"
+    file: "47th_pcaga_2019.pdf"
+    volume: "ga47_2019"
+    pdf_page: 499
+    url: "https://www.pcahistory.org/pca/ga/47th_pcaga_2019.pdf#page=499"
+---
 # Philadelphia Presbytery — BCO 13-9
 
 *- Presbytery has not reviewed Session records for 4…*

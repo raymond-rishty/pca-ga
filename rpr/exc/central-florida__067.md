@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga45_2017"
+    label: "Minutes PDF · p. 376"
+    file: "45th_pcaga_2017.pdf"
+    volume: "ga45_2017"
+    pdf_page: 376
+    url: "https://www.pcahistory.org/pca/ga/45th_pcaga_2017.pdf#page=376"
+---
 # Central Florida Presbytery — BCO 21-4, RAO 16-3.e.5
 
 *All specific requirements of ordination exam were neither recorded nor…*

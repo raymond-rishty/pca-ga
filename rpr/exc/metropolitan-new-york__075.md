@@ -1,3 +1,20 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga49_2022"
+    label: "Minutes PDF · p. 586"
+    file: "49th_pcaga_2022.pdf"
+    volume: "ga49_2022"
+    pdf_page: 586
+    url: "https://www.pcahistory.org/pca/ga/49th_pcaga_2022.pdf#page=586"
+  - type: "minutes"
+    source_id: "minutes:ga50_2023"
+    label: "Minutes PDF · p. 662"
+    file: "50th_pcaga_2023.pdf"
+    volume: "ga50_2023"
+    pdf_page: 662
+    url: "https://www.pcahistory.org/pca/ga/50th_pcaga_2023.pdf#page=662"
+---
 # Metropolitan New York Presbytery — RONR 9:34
 
 *A commission conducted business by email, which does not constitute a…*

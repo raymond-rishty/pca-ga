@@ -1,3 +1,34 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga34_2006"
+    label: "Minutes PDF · p. 293"
+    file: "34th_pcaga_2006.pdf"
+    volume: "ga34_2006"
+    pdf_page: 293
+    url: "https://www.pcahistory.org/pca/ga/34th_pcaga_2006.pdf#page=293"
+  - type: "minutes"
+    source_id: "minutes:ga35_2007"
+    label: "Minutes PDF · p. 212"
+    file: "35th_pcaga_2007.pdf"
+    volume: "ga35_2007"
+    pdf_page: 212
+    url: "https://www.pcahistory.org/pca/ga/35th_pcaga_2007.pdf#page=212"
+  - type: "minutes"
+    source_id: "minutes:ga39_2011"
+    label: "Minutes PDF · p. 478"
+    file: "39th_pcaga_2011.pdf"
+    volume: "ga39_2011"
+    pdf_page: 478
+    url: "https://www.pcahistory.org/pca/ga/39th_pcaga_2011.pdf#page=478"
+  - type: "minutes"
+    source_id: "minutes:ga40_2012"
+    label: "Minutes PDF · p. 466"
+    file: "40th_pcaga_2012.pdf"
+    volume: "ga40_2012"
+    pdf_page: 466
+    url: "https://www.pcahistory.org/pca/ga/40th_pcaga_2012.pdf#page=466"
+---
 # Philadelphia Presbytery — BCO 18-2
 
 *No mention of sessional endorsement or 6 month membership requirement. BCO…*

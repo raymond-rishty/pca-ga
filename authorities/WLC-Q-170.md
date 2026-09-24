@@ -1,0 +1,12 @@
+# WLC Q.170
+
+*All PCA authorities bearing on **WLC Q.170**.*
+
+## High authority
+
+| Year | Type | Title | Disposition |
+|------|------|-------|-------------|
+| 2017 | Judicial case | [Aven v. Ohio Valley Presbytery](../cases/ga45_2017__2016-01.md) | denied |
+
+---
+*[← Authority Index](../index/AUTHORITY-BY-PROVISION.md)*

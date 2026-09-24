@@ -1,3 +1,20 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga43_2015"
+    label: "Minutes PDF · p. 448"
+    file: "43rd_pcaga_2015.pdf"
+    volume: "ga43_2015"
+    pdf_page: 448
+    url: "https://www.pcahistory.org/pca/ga/43rd_pcaga_2015.pdf#page=448"
+  - type: "minutes"
+    source_id: "minutes:ga44_2016"
+    label: "Minutes PDF · p. 417"
+    file: "44th_pcaga_2016.pdf"
+    volume: "ga44_2016"
+    pdf_page: 417
+    url: "https://www.pcahistory.org/pca/ga/44th_pcaga_2016.pdf#page=417"
+---
 # Korean Central Presbytery — exception of substance
 
 *Insufficient record of: (1) What was the church’s request, and (2) What…*

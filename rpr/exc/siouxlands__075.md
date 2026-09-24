@@ -1,3 +1,20 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga48_2021"
+    label: "Minutes PDF · p. 632"
+    file: "48th_pcaga_2021.pdf"
+    volume: "ga48_2021"
+    pdf_page: 632
+    url: "https://www.pcahistory.org/pca/ga/48th_pcaga_2021.pdf#page=632"
+  - type: "minutes"
+    source_id: "minutes:ga49_2022"
+    label: "Minutes PDF · p. 618"
+    file: "49th_pcaga_2022.pdf"
+    volume: "ga49_2022"
+    pdf_page: 618
+    url: "https://www.pcahistory.org/pca/ga/49th_pcaga_2022.pdf#page=618"
+---
 # Siouxlands Presbytery — BCO 21-1, RAO 16-3.e.6
 
 *TE [name omitted]’s call was not included or…*

@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga50_2023"
+    label: "Minutes PDF · p. 635"
+    file: "50th_pcaga_2023.pdf"
+    volume: "ga50_2023"
+    pdf_page: 635
+    url: "https://www.pcahistory.org/pca/ga/50th_pcaga_2023.pdf#page=635"
+---
 # Korean Southwest Orange County Presbytery — BCO 15-1
 
 *A commission must be appointed by Presbytery, not a committee. 4. Exception:…*

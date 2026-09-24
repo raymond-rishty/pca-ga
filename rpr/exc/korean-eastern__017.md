@@ -1,3 +1,27 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga32_2004"
+    label: "Minutes PDF · p. 218"
+    file: "32nd_pcaga_2004.pdf"
+    volume: "ga32_2004"
+    pdf_page: 218
+    url: "https://www.pcahistory.org/pca/ga/32nd_pcaga_2004.pdf#page=218"
+  - type: "minutes"
+    source_id: "minutes:ga33_2005"
+    label: "Minutes PDF · p. 283"
+    file: "33rd_pcaga_2005.pdf"
+    volume: "ga33_2005"
+    pdf_page: 283
+    url: "https://www.pcahistory.org/pca/ga/33rd_pcaga_2005.pdf#page=283"
+  - type: "minutes"
+    source_id: "minutes:ga34_2006"
+    label: "Minutes PDF · p. 266"
+    file: "34th_pcaga_2006.pdf"
+    volume: "ga34_2006"
+    pdf_page: 266
+    url: "https://www.pcahistory.org/pca/ga/34th_pcaga_2006.pdf#page=266"
+---
 # Korean Eastern Presbytery — exception of substance
 
 *minutes have been submitted for April, 2004 which will be reviewed next…*

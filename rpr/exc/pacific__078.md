@@ -1,3 +1,20 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga40_2012"
+    label: "Minutes PDF · p. 459"
+    file: "40th_pcaga_2012.pdf"
+    volume: "ga40_2012"
+    pdf_page: 459
+    url: "https://www.pcahistory.org/pca/ga/40th_pcaga_2012.pdf#page=459"
+  - type: "minutes"
+    source_id: "minutes:ga41_2013"
+    label: "Minutes PDF · p. 463"
+    file: "41st_pcaga_2013.pdf"
+    volume: "ga41_2013"
+    pdf_page: 463
+    url: "https://www.pcahistory.org/pca/ga/41st_pcaga_2013.pdf#page=463"
+---
 # Pacific Presbytery — BCO 18-2
 
 *January 22, 2011 and May 6-7, 2011 ( BCO 18-2) No record of endorsement of…*

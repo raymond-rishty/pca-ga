@@ -1,3 +1,27 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga45_2017"
+    label: "Minutes PDF · p. 567"
+    file: "45th_pcaga_2017.pdf"
+    volume: "ga45_2017"
+    pdf_page: 567
+    url: "https://www.pcahistory.org/pca/ga/45th_pcaga_2017.pdf#page=567"
+  - type: "minutes"
+    source_id: "minutes:ga45_2017"
+    label: "Minutes PDF · p. 573"
+    file: "45th_pcaga_2017.pdf"
+    volume: "ga45_2017"
+    pdf_page: 573
+    url: "https://www.pcahistory.org/pca/ga/45th_pcaga_2017.pdf#page=573"
+  - type: "minutes"
+    source_id: "minutes:ga45_2017"
+    label: "Minutes PDF · p. 640"
+    file: "45th_pcaga_2017.pdf"
+    volume: "ga45_2017"
+    pdf_page: 640
+    url: "https://www.pcahistory.org/pca/ga/45th_pcaga_2017.pdf#page=640"
+---
 # WOMEN SERVING IN THE MINISTRY OF THE CHURCH
 
 *APPENDIX W REPORT OF THE AD INTERIM COMMITTEE ON WOMEN SERVING IN THE MINISTRY OF THE CHURCH TO THE FORTY-FIFTH GENERAL ASSEMBLY OF THE PRESBYTERIAN CHURCH IN AMERICA*

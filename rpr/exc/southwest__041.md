@@ -1,3 +1,20 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga40_2012"
+    label: "Minutes PDF · p. 475"
+    file: "40th_pcaga_2012.pdf"
+    volume: "ga40_2012"
+    pdf_page: 475
+    url: "https://www.pcahistory.org/pca/ga/40th_pcaga_2012.pdf#page=475"
+  - type: "minutes"
+    source_id: "minutes:ga41_2013"
+    label: "Minutes PDF · p. 483"
+    file: "41st_pcaga_2013.pdf"
+    volume: "ga41_2013"
+    pdf_page: 483
+    url: "https://www.pcahistory.org/pca/ga/41st_pcaga_2013.pdf#page=483"
+---
 # Southwest Presbytery — BCO 23-1
 
 *April 28-29, 2011 ( BCO 23-1) No record of congregational vote to dissolve a…*

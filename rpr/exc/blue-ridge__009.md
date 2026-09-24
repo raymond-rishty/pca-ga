@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga34_2006"
+    label: "Minutes PDF · p. 242"
+    file: "34th_pcaga_2006.pdf"
+    volume: "ga34_2006"
+    pdf_page: 242
+    url: "https://www.pcahistory.org/pca/ga/34th_pcaga_2006.pdf#page=242"
+---
 # Blue Ridge Presbytery — BCO 21-4.b, RAO 14-3.e.5
 
 *no record of approval of theological paper for a candidate for ordination. BCO…*

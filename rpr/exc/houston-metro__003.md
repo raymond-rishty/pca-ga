@@ -1,3 +1,34 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga33_2005"
+    label: "Minutes PDF · p. 278"
+    file: "33rd_pcaga_2005.pdf"
+    volume: "ga33_2005"
+    pdf_page: 278
+    url: "https://www.pcahistory.org/pca/ga/33rd_pcaga_2005.pdf#page=278"
+  - type: "minutes"
+    source_id: "minutes:ga34_2006"
+    label: "Minutes PDF · p. 257"
+    file: "34th_pcaga_2006.pdf"
+    volume: "ga34_2006"
+    pdf_page: 257
+    url: "https://www.pcahistory.org/pca/ga/34th_pcaga_2006.pdf#page=257"
+  - type: "minutes"
+    source_id: "minutes:ga35_2007"
+    label: "Minutes PDF · p. 188"
+    file: "35th_pcaga_2007.pdf"
+    volume: "ga35_2007"
+    pdf_page: 188
+    url: "https://www.pcahistory.org/pca/ga/35th_pcaga_2007.pdf#page=188"
+  - type: "minutes"
+    source_id: "minutes:ga36_2008"
+    label: "Minutes PDF · p. 229"
+    file: "36th_pcaga_2008.pdf"
+    volume: "ga36_2008"
+    pdf_page: 229
+    url: "https://www.pcahistory.org/pca/ga/36th_pcaga_2008.pdf#page=229"
+---
 # Houston Metro Presbytery — BCO 21-4
 
 *January 30, 2004 : No ¾ vote to allow candidates preaching before committee…*

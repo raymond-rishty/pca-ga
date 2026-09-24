@@ -1,3 +1,20 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga16_1988"
+    label: "Minutes PDF · p. 532"
+    file: "16th_pcaga_1988.pdf"
+    volume: "ga16_1988"
+    pdf_page: 532
+    url: "https://www.pcahistory.org/pca/ga/16th_pcaga_1988.pdf#page=532"
+  - type: "minutes"
+    source_id: "minutes:ga16_1988"
+    label: "Minutes PDF · p. 533"
+    file: "16th_pcaga_1988.pdf"
+    volume: "ga16_1988"
+    pdf_page: 533
+    url: "https://www.pcahistory.org/pca/ga/16th_pcaga_1988.pdf#page=533"
+---
 # STRUCTURE AND PROCEDURE
 
 *REPORT OF AD-INTERIM COMMITTEE TO STUDY AND MAKE RECOMMENDATIONS AS TO STRUCTURE AND PROCEDURE*

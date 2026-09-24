@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga43_2015"
+    label: "Minutes PDF · p. 476"
+    file: "43rd_pcaga_2015.pdf"
+    volume: "ga43_2015"
+    pdf_page: 476
+    url: "https://www.pcahistory.org/pca/ga/43rd_pcaga_2015.pdf#page=476"
+---
 # Southern Louisiana Presbytery — BCO 20-1
 
 *- Approval for TE to serve out of bounds with inadequate documentation, i.e.,…*

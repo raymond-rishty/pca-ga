@@ -1,3 +1,20 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga36_2008"
+    label: "Minutes PDF · p. 267"
+    file: "36th_pcaga_2008.pdf"
+    volume: "ga36_2008"
+    pdf_page: 267
+    url: "https://www.pcahistory.org/pca/ga/36th_pcaga_2008.pdf#page=267"
+  - type: "minutes"
+    source_id: "minutes:ga37_2009"
+    label: "Minutes PDF · p. 124"
+    file: "37th_pcaga_2009.pdf"
+    volume: "ga37_2009"
+    pdf_page: 124
+    url: "https://www.pcahistory.org/pca/ga/37th_pcaga_2009.pdf#page=124"
+---
 # Southern New England Presbytery — BCO 21-4
 
 *BCO 21-4. No explanation for use of extraordinary clause. Response : First,…*

@@ -1,3 +1,34 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga49_2022"
+    label: "Minutes PDF · p. 554"
+    file: "49th_pcaga_2022.pdf"
+    volume: "ga49_2022"
+    pdf_page: 554
+    url: "https://www.pcahistory.org/pca/ga/49th_pcaga_2022.pdf#page=554"
+  - type: "minutes"
+    source_id: "minutes:ga49_2022"
+    label: "Minutes PDF · p. 555"
+    file: "49th_pcaga_2022.pdf"
+    volume: "ga49_2022"
+    pdf_page: 555
+    url: "https://www.pcahistory.org/pca/ga/49th_pcaga_2022.pdf#page=555"
+  - type: "minutes"
+    source_id: "minutes:ga50_2023"
+    label: "Minutes PDF · p. 611"
+    file: "50th_pcaga_2023.pdf"
+    volume: "ga50_2023"
+    pdf_page: 611
+    url: "https://www.pcahistory.org/pca/ga/50th_pcaga_2023.pdf#page=611"
+  - type: "minutes"
+    source_id: "minutes:ga50_2023"
+    label: "Minutes PDF · p. 613"
+    file: "50th_pcaga_2023.pdf"
+    volume: "ga50_2023"
+    pdf_page: 613
+    url: "https://www.pcahistory.org/pca/ga/50th_pcaga_2023.pdf#page=613"
+---
 # Korean Central Presbytery — BCO 21-4
 
 *Stated difference not recorded in candidate’s own words.; not judged according…*

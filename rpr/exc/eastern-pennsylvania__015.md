@@ -1,3 +1,20 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga48_2021"
+    label: "Minutes PDF · p. 569"
+    file: "48th_pcaga_2021.pdf"
+    volume: "ga48_2021"
+    pdf_page: 569
+    url: "https://www.pcahistory.org/pca/ga/48th_pcaga_2021.pdf#page=569"
+  - type: "minutes"
+    source_id: "minutes:ga49_2022"
+    label: "Minutes PDF · p. 521"
+    file: "49th_pcaga_2022.pdf"
+    volume: "ga49_2022"
+    pdf_page: 521
+    url: "https://www.pcahistory.org/pca/ga/49th_pcaga_2022.pdf#page=521"
+---
 # Eastern Pennsylvania Presbytery — BCO 23-2
 
 *A TE cannot simultaneously be honorably retired and an Associate Pastor ( BCO…*

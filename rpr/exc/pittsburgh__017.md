@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga52_2025"
+    label: "Minutes PDF · p. 688"
+    file: "52nd_pcaga_2025.pdf"
+    volume: "ga52_2025"
+    pdf_page: 688
+    url: "https://www.pcahistory.org/pca/ga/52nd_pcaga_2025.pdf#page=688"
+---
 # Pittsburgh Presbytery — BCO 21-4.f
 
 *Presbytery judged a stated difference to be “merely semantic,” and that…*

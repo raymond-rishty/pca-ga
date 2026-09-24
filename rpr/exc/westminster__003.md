@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga28_2000"
+    label: "Minutes PDF · p. 345"
+    file: "28th_pcaga_2000.pdf"
+    volume: "ga28_2000"
+    pdf_page: 345
+    url: "https://www.pcahistory.org/pca/ga/28th_pcaga_2000.pdf#page=345"
+---
 # Westminster Presbytery — BCO 18-8
 
 *No indication that candidate meets requirements of BCO 18-8,…*

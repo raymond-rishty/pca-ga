@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga51_2024"
+    label: "Minutes PDF · p. 558"
+    file: "51st_pcaga_2024.pdf"
+    volume: "ga51_2024"
+    pdf_page: 558
+    url: "https://www.pcahistory.org/pca/ga/51st_pcaga_2024.pdf#page=558"
+---
 # Korean Northwest Presbytery — BCO 13-5
 
 *TEs on roll without explanation. Apr 8, 2019 meeting listed 32 total TEs and…*

@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga26_1998"
+    label: "Minutes PDF · p. 255"
+    file: "26th_pcaga_1998.pdf"
+    volume: "ga26_1998"
+    pdf_page: 255
+    url: "https://www.pcahistory.org/pca/ga/26th_pcaga_1998.pdf#page=255"
+---
 # Southern Florida Presbytery — exception of substance
 
 *No installation of pastor of newly merged…*

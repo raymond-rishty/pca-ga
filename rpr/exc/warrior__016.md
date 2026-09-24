@@ -1,3 +1,41 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga30_2002"
+    label: "Minutes PDF · p. 340"
+    file: "30th_pcaga_2002.pdf"
+    volume: "ga30_2002"
+    pdf_page: 340
+    url: "https://www.pcahistory.org/pca/ga/30th_pcaga_2002.pdf#page=340"
+  - type: "minutes"
+    source_id: "minutes:ga31_2003"
+    label: "Minutes PDF · p. 261"
+    file: "31st_pcaga_2003.pdf"
+    volume: "ga31_2003"
+    pdf_page: 261
+    url: "https://www.pcahistory.org/pca/ga/31st_pcaga_2003.pdf#page=261"
+  - type: "minutes"
+    source_id: "minutes:ga32_2004"
+    label: "Minutes PDF · p. 246"
+    file: "32nd_pcaga_2004.pdf"
+    volume: "ga32_2004"
+    pdf_page: 246
+    url: "https://www.pcahistory.org/pca/ga/32nd_pcaga_2004.pdf#page=246"
+  - type: "minutes"
+    source_id: "minutes:ga33_2005"
+    label: "Minutes PDF · p. 317"
+    file: "33rd_pcaga_2005.pdf"
+    volume: "ga33_2005"
+    pdf_page: 317
+    url: "https://www.pcahistory.org/pca/ga/33rd_pcaga_2005.pdf#page=317"
+  - type: "minutes"
+    source_id: "minutes:ga34_2006"
+    label: "Minutes PDF · p. 306"
+    file: "34th_pcaga_2006.pdf"
+    volume: "ga34_2006"
+    pdf_page: 306
+    url: "https://www.pcahistory.org/pca/ga/34th_pcaga_2006.pdf#page=306"
+---
 # Warrior Presbytery — BCO 19-12
 
 *No intern reports at any stated meeting. BCO 19-12 Response : At the October…*

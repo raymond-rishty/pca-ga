@@ -1,3 +1,20 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga42_2014"
+    label: "Minutes PDF · p. 400"
+    file: "42nd_pcaga_2014.pdf"
+    volume: "ga42_2014"
+    pdf_page: 400
+    url: "https://www.pcahistory.org/pca/ga/42nd_pcaga_2014.pdf#page=400"
+  - type: "minutes"
+    source_id: "minutes:ga43_2015"
+    label: "Minutes PDF · p. 426"
+    file: "43rd_pcaga_2015.pdf"
+    volume: "ga43_2015"
+    pdf_page: 426
+    url: "https://www.pcahistory.org/pca/ga/43rd_pcaga_2015.pdf#page=426"
+---
 # Chesapeake Presbytery — BCO 19-2.f, RAO 16-3.e.5
 
 *Stated difference not recorded in the candidate’s own…*

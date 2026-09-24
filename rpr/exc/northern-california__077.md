@@ -1,3 +1,20 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga51_2024"
+    label: "Minutes PDF · p. 605"
+    file: "51st_pcaga_2024.pdf"
+    volume: "ga51_2024"
+    pdf_page: 605
+    url: "https://www.pcahistory.org/pca/ga/51st_pcaga_2024.pdf#page=605"
+  - type: "minutes"
+    source_id: "minutes:ga52_2025"
+    label: "Minutes PDF · p. 645"
+    file: "52nd_pcaga_2025.pdf"
+    volume: "ga52_2025"
+    pdf_page: 645
+    url: "https://www.pcahistory.org/pca/ga/52nd_pcaga_2025.pdf#page=645"
+---
 # Northern California Presbytery — BCO 23-1
 
 *No record that Congregation concurred with dissolution of pastoral…*

@@ -1,3 +1,20 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga26_1998"
+    label: "Minutes PDF · p. 252"
+    file: "26th_pcaga_1998.pdf"
+    volume: "ga26_1998"
+    pdf_page: 252
+    url: "https://www.pcahistory.org/pca/ga/26th_pcaga_1998.pdf#page=252"
+  - type: "minutes"
+    source_id: "minutes:ga27_1999"
+    label: "Minutes PDF · p. 207"
+    file: "27th_pcaga_1999.pdf"
+    volume: "ga27_1999"
+    pdf_page: 207
+    url: "https://www.pcahistory.org/pca/ga/27th_pcaga_1999.pdf#page=207"
+---
 # Southeast Alabama Presbytery — RAO 14-4.a
 
 *January 27, 1997 minutes of Presbytery are missing. (RAO 14-4.a&amp;b). Note:…*

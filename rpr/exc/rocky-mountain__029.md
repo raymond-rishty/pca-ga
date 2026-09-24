@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga43_2015"
+    label: "Minutes PDF · p. 471"
+    file: "43rd_pcaga_2015.pdf"
+    volume: "ga43_2015"
+    pdf_page: 471
+    url: "https://www.pcahistory.org/pca/ga/43rd_pcaga_2015.pdf#page=471"
+---
 # Rocky Mountain Presbytery — BCO 20-1, BCO 8-7, BCO 13-2, BCO 20-1)
 
 *TE serving out of bounds either without concurrence of other presbytery or…*

@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga51_2024"
+    label: "Minutes PDF · p. 702"
+    file: "51st_pcaga_2024.pdf"
+    volume: "ga51_2024"
+    pdf_page: 702
+    url: "https://www.pcahistory.org/pca/ga/51st_pcaga_2024.pdf#page=702"
+---
 # Wisconsin Presbytery — BCO 19-7
 
 *All specific requirements of internship not…*

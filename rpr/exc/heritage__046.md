@@ -1,3 +1,20 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga41_2013"
+    label: "Minutes PDF · p. 434"
+    file: "41st_pcaga_2013.pdf"
+    volume: "ga41_2013"
+    pdf_page: 434
+    url: "https://www.pcahistory.org/pca/ga/41st_pcaga_2013.pdf#page=434"
+  - type: "minutes"
+    source_id: "minutes:ga42_2014"
+    label: "Minutes PDF · p. 416"
+    file: "42nd_pcaga_2014.pdf"
+    volume: "ga42_2014"
+    pdf_page: 416
+    url: "https://www.pcahistory.org/pca/ga/42nd_pcaga_2014.pdf#page=416"
+---
 # Heritage Presbytery — BCO 20-1
 
 *BCO 20-1 Ordination of TE: terms of call not included (also BCO 13-11, “full…*

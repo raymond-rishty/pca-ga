@@ -1,3 +1,20 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga40_2012"
+    label: "Minutes PDF · p. 475"
+    file: "40th_pcaga_2012.pdf"
+    volume: "ga40_2012"
+    pdf_page: 475
+    url: "https://www.pcahistory.org/pca/ga/40th_pcaga_2012.pdf#page=475"
+  - type: "minutes"
+    source_id: "minutes:ga41_2013"
+    label: "Minutes PDF · p. 482"
+    file: "41st_pcaga_2013.pdf"
+    volume: "ga41_2013"
+    pdf_page: 482
+    url: "https://www.pcahistory.org/pca/ga/41st_pcaga_2013.pdf#page=482"
+---
 # Southwest Presbytery — BCO 24-1
 
 *January 20-21, 2011 ( BCO 24-1) Inadequate amount of time between examination…*

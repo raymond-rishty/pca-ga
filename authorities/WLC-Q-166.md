@@ -1,0 +1,15 @@
+# WLC Q.166
+
+*All PCA authorities bearing on **WLC Q.166**.*
+
+## High authority
+
+| Year | Type | Title | Disposition |
+|------|------|-------|-------------|
+| 1991 | Judicial case | [Bowen v. Eastern Carolina Presbytery](../cases/ga19_1991__1990-08.md) | sustained |
+| 2013 | Judicial case | [Hedman v. Pacific Northwest Presbytery](../cases/ga41_2013__2012-05.md) | denied |
+| 2018 | Judicial case | [Sartorius v. Siouxlands Presbytery](../cases/ga46_2018__2016-16.md) | denied |
+| 2023 | Judicial case | [Wilson et al. v. Pacific Northwest Presbytery](../cases/ga50_2023__2022-20.md) | dismissed |
+
+---
+*[← Authority Index](../index/AUTHORITY-BY-PROVISION.md)*

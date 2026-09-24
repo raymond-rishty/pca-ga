@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga51_2024"
+    label: "Minutes PDF · p. 538"
+    file: "51st_pcaga_2024.pdf"
+    volume: "ga51_2024"
+    pdf_page: 538
+    url: "https://www.pcahistory.org/pca/ga/51st_pcaga_2024.pdf#page=538"
+---
 # Iowa Presbytery — BCO 19-1
 
 *No record of licensure exam in body of the…*

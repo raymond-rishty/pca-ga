@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga51_2024"
+    label: "Minutes PDF · p. 484"
+    file: "51st_pcaga_2024.pdf"
+    volume: "ga51_2024"
+    pdf_page: 484
+    url: "https://www.pcahistory.org/pca/ga/51st_pcaga_2024.pdf#page=484"
+---
 # Central Florida Presbytery — BCO 39-2
 
 *Protest admitted by a member who did not have aright to vote ina…*

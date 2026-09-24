@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga32_2004"
+    label: "Minutes PDF · p. 230"
+    file: "32nd_pcaga_2004.pdf"
+    volume: "ga32_2004"
+    pdf_page: 230
+    url: "https://www.pcahistory.org/pca/ga/32nd_pcaga_2004.pdf#page=230"
+---
 # Northern New England Presbytery — RAO 14-3.b
 
 *Incomplete minutes submitted. Pages 2,4,6,8 missing. RAO…*

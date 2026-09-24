@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga34_2006"
+    label: "Minutes PDF · p. 269"
+    file: "34th_pcaga_2006.pdf"
+    volume: "ga34_2006"
+    pdf_page: 269
+    url: "https://www.pcahistory.org/pca/ga/34th_pcaga_2006.pdf#page=269"
+---
 # Korean Southern Presbytery — RAO 14-4.c.1
 
 *Directory incomplete. RAO…*

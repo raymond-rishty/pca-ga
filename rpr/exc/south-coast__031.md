@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga40_2012"
+    label: "Minutes PDF · p. 473"
+    file: "40th_pcaga_2012.pdf"
+    volume: "ga40_2012"
+    pdf_page: 473
+    url: "https://www.pcahistory.org/pca/ga/40th_pcaga_2012.pdf#page=473"
+---
 # South Coast Presbytery — BCO 23-1
 
 *No record of congregational meeting to dissolve pastoral…*

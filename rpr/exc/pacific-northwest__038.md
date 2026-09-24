@@ -1,3 +1,27 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga44_2016"
+    label: "Minutes PDF · p. 434"
+    file: "44th_pcaga_2016.pdf"
+    volume: "ga44_2016"
+    pdf_page: 434
+    url: "https://www.pcahistory.org/pca/ga/44th_pcaga_2016.pdf#page=434"
+  - type: "minutes"
+    source_id: "minutes:ga45_2017"
+    label: "Minutes PDF · p. 407"
+    file: "45th_pcaga_2017.pdf"
+    volume: "ga45_2017"
+    pdf_page: 407
+    url: "https://www.pcahistory.org/pca/ga/45th_pcaga_2017.pdf#page=407"
+  - type: "minutes"
+    source_id: "minutes:ga46_2018"
+    label: "Minutes PDF · p. 440"
+    file: "46th_pcaga_2018.pdf"
+    volume: "ga46_2018"
+    pdf_page: 440
+    url: "https://www.pcahistory.org/pca/ga/46th_pcaga_2018.pdf#page=440"
+---
 # Pacific Northwest Presbytery — BCO 13-9.b
 
 *Incomplete record of review of records of church…*

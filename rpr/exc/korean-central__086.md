@@ -1,3 +1,27 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga47_2019"
+    label: "Minutes PDF · p. 477"
+    file: "47th_pcaga_2019.pdf"
+    volume: "ga47_2019"
+    pdf_page: 477
+    url: "https://www.pcahistory.org/pca/ga/47th_pcaga_2019.pdf#page=477"
+  - type: "minutes"
+    source_id: "minutes:ga48_2021"
+    label: "Minutes PDF · p. 584"
+    file: "48th_pcaga_2021.pdf"
+    volume: "ga48_2021"
+    pdf_page: 584
+    url: "https://www.pcahistory.org/pca/ga/48th_pcaga_2021.pdf#page=584"
+  - type: "minutes"
+    source_id: "minutes:ga49_2022"
+    label: "Minutes PDF · p. 554"
+    file: "49th_pcaga_2022.pdf"
+    volume: "ga49_2022"
+    pdf_page: 554
+    url: "https://www.pcahistory.org/pca/ga/49th_pcaga_2022.pdf#page=554"
+---
 # Korean Central Presbytery — BCO 13-8
 
 *No commission report for RE examinations for church…*

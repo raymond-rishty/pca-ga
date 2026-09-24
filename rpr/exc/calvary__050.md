@@ -1,3 +1,34 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga28_2000"
+    label: "Minutes PDF · p. 324"
+    file: "28th_pcaga_2000.pdf"
+    volume: "ga28_2000"
+    pdf_page: 324
+    url: "https://www.pcahistory.org/pca/ga/28th_pcaga_2000.pdf#page=324"
+  - type: "minutes"
+    source_id: "minutes:ga29_2001"
+    label: "Minutes PDF · p. 327"
+    file: "29th_pcaga_2001.pdf"
+    volume: "ga29_2001"
+    pdf_page: 327
+    url: "https://www.pcahistory.org/pca/ga/29th_pcaga_2001.pdf#page=327"
+  - type: "minutes"
+    source_id: "minutes:ga30_2002"
+    label: "Minutes PDF · p. 308"
+    file: "30th_pcaga_2002.pdf"
+    volume: "ga30_2002"
+    pdf_page: 308
+    url: "https://www.pcahistory.org/pca/ga/30th_pcaga_2002.pdf#page=308"
+  - type: "minutes"
+    source_id: "minutes:ga31_2003"
+    label: "Minutes PDF · p. 218"
+    file: "31st_pcaga_2003.pdf"
+    volume: "ga31_2003"
+    pdf_page: 218
+    url: "https://www.pcahistory.org/pca/ga/31st_pcaga_2003.pdf#page=218"
+---
 # Calvary Presbytery — BCO 15-1
 
 *There is no documentation (calls, etc.) for two men for changes from assistant…*

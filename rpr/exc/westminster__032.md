@@ -1,3 +1,20 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga41_2013"
+    label: "Minutes PDF · p. 488"
+    file: "41st_pcaga_2013.pdf"
+    volume: "ga41_2013"
+    pdf_page: 488
+    url: "https://www.pcahistory.org/pca/ga/41st_pcaga_2013.pdf#page=488"
+  - type: "minutes"
+    source_id: "minutes:ga42_2014"
+    label: "Minutes PDF · p. 463"
+    file: "42nd_pcaga_2014.pdf"
+    volume: "ga42_2014"
+    pdf_page: 463
+    url: "https://www.pcahistory.org/pca/ga/42nd_pcaga_2014.pdf#page=463"
+---
 # Westminster Presbytery — BCO 20-9
 
 *TEs [name omitted] and [name omitted] not released for transfer to their…*

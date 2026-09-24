@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga31_2003"
+    label: "Minutes PDF · p. 261"
+    file: "31st_pcaga_2003.pdf"
+    volume: "ga31_2003"
+    pdf_page: 261
+    url: "https://www.pcahistory.org/pca/ga/31st_pcaga_2003.pdf#page=261"
+---
 # Western Carolina Presbytery — BCO 13-9b
 
 *Presbytery continues to review only a small number of Sessional minutes, in…*

@@ -1,3 +1,20 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga36_2008"
+    label: "Minutes PDF · p. 240"
+    file: "36th_pcaga_2008.pdf"
+    volume: "ga36_2008"
+    pdf_page: 240
+    url: "https://www.pcahistory.org/pca/ga/36th_pcaga_2008.pdf#page=240"
+  - type: "minutes"
+    source_id: "minutes:ga37_2009"
+    label: "Minutes PDF · p. 110"
+    file: "37th_pcaga_2009.pdf"
+    volume: "ga37_2009"
+    pdf_page: 110
+    url: "https://www.pcahistory.org/pca/ga/37th_pcaga_2009.pdf#page=110"
+---
 # Missouri Presbytery — BCO 21-4
 
 *BCO 21-4. Use of extraordinary clause not…*

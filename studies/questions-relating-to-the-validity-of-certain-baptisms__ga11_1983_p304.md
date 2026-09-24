@@ -1,3 +1,27 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga11_1983"
+    label: "Minutes PDF · p. 306"
+    file: "11th_pcaga_1983.pdf"
+    volume: "ga11_1983"
+    pdf_page: 306
+    url: "https://www.pcahistory.org/pca/ga/11th_pcaga_1983.pdf#page=306"
+  - type: "minutes"
+    source_id: "minutes:ga11_1983"
+    label: "Minutes PDF · p. 311"
+    file: "11th_pcaga_1983.pdf"
+    volume: "ga11_1983"
+    pdf_page: 311
+    url: "https://www.pcahistory.org/pca/ga/11th_pcaga_1983.pdf#page=311"
+  - type: "minutes"
+    source_id: "minutes:ga11_1983"
+    label: "Minutes PDF · p. 316"
+    file: "11th_pcaga_1983.pdf"
+    volume: "ga11_1983"
+    pdf_page: 316
+    url: "https://www.pcahistory.org/pca/ga/11th_pcaga_1983.pdf#page=316"
+---
 # Questions Relating to the Validity of Certain Baptisms
 
 *The Report of the Study Committee on Questions Relating to the Validity of Certain Baptisms*

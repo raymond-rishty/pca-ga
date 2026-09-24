@@ -1,3 +1,20 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga40_2012"
+    label: "Minutes PDF · p. 433"
+    file: "40th_pcaga_2012.pdf"
+    volume: "ga40_2012"
+    pdf_page: 433
+    url: "https://www.pcahistory.org/pca/ga/40th_pcaga_2012.pdf#page=433"
+  - type: "minutes"
+    source_id: "minutes:ga41_2013"
+    label: "Minutes PDF · p. 439"
+    file: "41st_pcaga_2013.pdf"
+    volume: "ga41_2013"
+    pdf_page: 439
+    url: "https://www.pcahistory.org/pca/ga/41st_pcaga_2013.pdf#page=439"
+---
 # James River Presbytery — RAO 16-3.e.4
 
 *No record of commission to install TE. Response for all exceptions: The JRP…*

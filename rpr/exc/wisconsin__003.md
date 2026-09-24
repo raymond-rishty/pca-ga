@@ -1,3 +1,20 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga45_2017"
+    label: "Minutes PDF · p. 431"
+    file: "45th_pcaga_2017.pdf"
+    volume: "ga45_2017"
+    pdf_page: 431
+    url: "https://www.pcahistory.org/pca/ga/45th_pcaga_2017.pdf#page=431"
+  - type: "minutes"
+    source_id: "minutes:ga46_2018"
+    label: "Minutes PDF · p. 458"
+    file: "46th_pcaga_2018.pdf"
+    volume: "ga46_2018"
+    pdf_page: 458
+    url: "https://www.pcahistory.org/pca/ga/46th_pcaga_2018.pdf#page=458"
+---
 # Wisconsin Presbytery — BCO 5-3
 
 *No record showing provisional Session approved by…*

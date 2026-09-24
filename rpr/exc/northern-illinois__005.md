@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga20_1992"
+    label: "Minutes PDF · p. 253"
+    file: "20th_pcaga_1992.pdf"
+    volume: "ga20_1992"
+    pdf_page: 253
+    url: "https://www.pcahistory.org/pca/ga/20th_pcaga_1992.pdf#page=253"
+---
 # Northern Illinois Presbytery — BCO § 21-4)
 
 *Page 91-107 There is no record of a sermon being preached as part of the…*

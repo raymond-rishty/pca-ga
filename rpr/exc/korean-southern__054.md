@@ -1,3 +1,20 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga31_2003"
+    label: "Minutes PDF · p. 234"
+    file: "31st_pcaga_2003.pdf"
+    volume: "ga31_2003"
+    pdf_page: 234
+    url: "https://www.pcahistory.org/pca/ga/31st_pcaga_2003.pdf#page=234"
+  - type: "minutes"
+    source_id: "minutes:ga33_2005"
+    label: "Minutes PDF · p. 289"
+    file: "33rd_pcaga_2005.pdf"
+    volume: "ga33_2005"
+    pdf_page: 289
+    url: "https://www.pcahistory.org/pca/ga/33rd_pcaga_2005.pdf#page=289"
+---
 # Korean Southern Presbytery — BCO 9-3
 
 *April 9, 2001 : Ordination of women as deaconesses not provided for in PCA…*

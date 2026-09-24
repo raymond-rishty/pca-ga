@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga19_1991"
+    label: "Minutes PDF · p. 179"
+    file: "19th_pcaga_1991.pdf"
+    volume: "ga19_1991"
+    pdf_page: 179
+    url: "https://www.pcahistory.org/pca/ga/19th_pcaga_1991.pdf#page=179"
+---
 # Ascension Presbytery — BCO 12-3
 
 *Page 13, Presbytery appointed a moderator of Session without consent of…*

@@ -1,3 +1,27 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga24_1996"
+    label: "Minutes PDF · p. 67"
+    file: "24th_pcaga_1996.pdf"
+    volume: "ga24_1996"
+    pdf_page: 67
+    url: "https://www.pcahistory.org/pca/ga/24th_pcaga_1996.pdf#page=67"
+  - type: "minutes"
+    source_id: "minutes:ga24_1996"
+    label: "Minutes PDF · p. 88"
+    file: "24th_pcaga_1996.pdf"
+    volume: "ga24_1996"
+    pdf_page: 88
+    url: "https://www.pcahistory.org/pca/ga/24th_pcaga_1996.pdf#page=88"
+  - type: "minutes"
+    source_id: "minutes:ga24_1996"
+    label: "Minutes PDF · p. 160"
+    file: "24th_pcaga_1996.pdf"
+    volume: "ga24_1996"
+    pdf_page: 160
+    url: "https://www.pcahistory.org/pca/ga/24th_pcaga_1996.pdf#page=160"
+---
 # JUDICIAL PROCEDURE
 
 *REPORT OF THE AD INTERIM COMMITTEE ON JUDICIAL PROCEDURE TO THE TWENTY-FOURTH GENERAL ASSEMBLY*

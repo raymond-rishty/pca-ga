@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga44_2016"
+    label: "Minutes PDF · p. 417"
+    file: "44th_pcaga_2016.pdf"
+    volume: "ga44_2016"
+    pdf_page: 417
+    url: "https://www.pcahistory.org/pca/ga/44th_pcaga_2016.pdf#page=417"
+---
 # Korean Eastern Presbytery — RAO 16-
 
 *no response toga for response to exceptions of substance in…*

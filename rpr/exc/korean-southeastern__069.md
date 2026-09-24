@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga42_2014"
+    label: "Minutes PDF · p. 422"
+    file: "42nd_pcaga_2014.pdf"
+    volume: "ga42_2014"
+    pdf_page: 422
+    url: "https://www.pcahistory.org/pca/ga/42nd_pcaga_2014.pdf#page=422"
+---
 # Korean Southeastern Presbytery — exception of substance
 
 *No record of call to a definite…*

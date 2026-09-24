@@ -1,3 +1,27 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga39_2011"
+    label: "Minutes PDF · p. 454"
+    file: "39th_pcaga_2011.pdf"
+    volume: "ga39_2011"
+    pdf_page: 454
+    url: "https://www.pcahistory.org/pca/ga/39th_pcaga_2011.pdf#page=454"
+  - type: "minutes"
+    source_id: "minutes:ga40_2012"
+    label: "Minutes PDF · p. 428"
+    file: "40th_pcaga_2012.pdf"
+    volume: "ga40_2012"
+    pdf_page: 428
+    url: "https://www.pcahistory.org/pca/ga/40th_pcaga_2012.pdf#page=428"
+  - type: "minutes"
+    source_id: "minutes:ga41_2013"
+    label: "Minutes PDF · p. 434"
+    file: "41st_pcaga_2013.pdf"
+    volume: "ga41_2013"
+    pdf_page: 434
+    url: "https://www.pcahistory.org/pca/ga/41st_pcaga_2013.pdf#page=434"
+---
 # Heartland Presbytery — BCO 18-2
 
 *No record of Sessional endorsement or 6-month…*

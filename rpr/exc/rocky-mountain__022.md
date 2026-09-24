@@ -1,3 +1,34 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga40_2012"
+    label: "Minutes PDF · p. 471"
+    file: "40th_pcaga_2012.pdf"
+    volume: "ga40_2012"
+    pdf_page: 471
+    url: "https://www.pcahistory.org/pca/ga/40th_pcaga_2012.pdf#page=471"
+  - type: "minutes"
+    source_id: "minutes:ga41_2013"
+    label: "Minutes PDF · p. 474"
+    file: "41st_pcaga_2013.pdf"
+    volume: "ga41_2013"
+    pdf_page: 474
+    url: "https://www.pcahistory.org/pca/ga/41st_pcaga_2013.pdf#page=474"
+  - type: "minutes"
+    source_id: "minutes:ga43_2015"
+    label: "Minutes PDF · p. 471"
+    file: "43rd_pcaga_2015.pdf"
+    volume: "ga43_2015"
+    pdf_page: 471
+    url: "https://www.pcahistory.org/pca/ga/43rd_pcaga_2015.pdf#page=471"
+  - type: "minutes"
+    source_id: "minutes:ga44_2016"
+    label: "Minutes PDF · p. 442"
+    file: "44th_pcaga_2016.pdf"
+    volume: "ga44_2016"
+    pdf_page: 442
+    url: "https://www.pcahistory.org/pca/ga/44th_pcaga_2016.pdf#page=442"
+---
 # Rocky Mountain Presbytery — BCO 46-8
 
 *May 5, 2011 ( BCO 46-8) TE divested without censure was not assigned…*

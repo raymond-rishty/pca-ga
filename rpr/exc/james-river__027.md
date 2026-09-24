@@ -1,3 +1,20 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga35_2007"
+    label: "Minutes PDF · p. 190"
+    file: "35th_pcaga_2007.pdf"
+    volume: "ga35_2007"
+    pdf_page: 190
+    url: "https://www.pcahistory.org/pca/ga/35th_pcaga_2007.pdf#page=190"
+  - type: "minutes"
+    source_id: "minutes:ga36_2008"
+    label: "Minutes PDF · p. 232"
+    file: "36th_pcaga_2008.pdf"
+    volume: "ga36_2008"
+    pdf_page: 232
+    url: "https://www.pcahistory.org/pca/ga/36th_pcaga_2008.pdf#page=232"
+---
 # James River Presbytery — BCO 21-6, BCO 21
 
 *: Commission report failed to record that a charge was given to the ordinand,…*

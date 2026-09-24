@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga47_2019"
+    label: "Minutes PDF · p. 510"
+    file: "47th_pcaga_2019.pdf"
+    volume: "ga47_2019"
+    pdf_page: 510
+    url: "https://www.pcahistory.org/pca/ga/47th_pcaga_2019.pdf#page=510"
+---
 # Western Carolina Presbytery — BCO 15-1
 
 *Shepherding Committee acted as a commission without…*

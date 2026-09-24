@@ -1,3 +1,20 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga35_2007"
+    label: "Minutes PDF · p. 198"
+    file: "35th_pcaga_2007.pdf"
+    volume: "ga35_2007"
+    pdf_page: 198
+    url: "https://www.pcahistory.org/pca/ga/35th_pcaga_2007.pdf#page=198"
+  - type: "minutes"
+    source_id: "minutes:ga36_2008"
+    label: "Minutes PDF · p. 244"
+    file: "36th_pcaga_2008.pdf"
+    volume: "ga36_2008"
+    pdf_page: 244
+    url: "https://www.pcahistory.org/pca/ga/36th_pcaga_2008.pdf#page=244"
+---
 # New River Presbytery — BCO 23-1
 
 *: Presbytery failed to act or note the irregularity of the pastor leaving the…*

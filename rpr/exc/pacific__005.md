@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga18_1990"
+    label: "Minutes PDF · p. 186"
+    file: "18th_pcaga_1990.pdf"
+    volume: "ga18_1990"
+    pdf_page: 186
+    url: "https://www.pcahistory.org/pca/ga/18th_pcaga_1990.pdf#page=186"
+---
 # Pacific Presbytery — BCO 21-4), BCO 8-7
 
 *Page 9, Improper ordination: Presbytery waived having a man come under care -…*

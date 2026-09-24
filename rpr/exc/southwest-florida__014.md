@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga25_1997"
+    label: "Minutes PDF · p. 220"
+    file: "25th_pcaga_1997.pdf"
+    volume: "ga25_1997"
+    pdf_page: 220
+    url: "https://www.pcahistory.org/pca/ga/25th_pcaga_1997.pdf#page=220"
+---
 # Southwest Florida Presbytery — BCO 19-1
 
 *There is no record of examination of a TE from another presbytery for…*

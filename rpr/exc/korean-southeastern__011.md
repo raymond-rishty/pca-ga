@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga24_1996"
+    label: "Minutes PDF · p. 254"
+    file: "24th_pcaga_1996.pdf"
+    volume: "ga24_1996"
+    pdf_page: 254
+    url: "https://www.pcahistory.org/pca/ga/24th_pcaga_1996.pdf#page=254"
+---
 # Korean Southeastern Presbytery — BCO 21-1)
 
 *There is no record that a pastor’s call was approved by Presbytery (BCO…*

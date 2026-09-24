@@ -13,10 +13,10 @@
 
 | Year | Type | Title | Disposition |
 |------|------|-------|-------------|
-| 1993 | RPR exception | [Siouxlands: p. 3, # 19: A judicial commission was established in the absence of charges to deal with a](../rpr/exc/siouxlands__011.md) | raised |
-| 1994 | RPR exception | [Siouxlands: p. 3, # 19: A judicial commission was established in the absence of charges to deal with a](../rpr/exc/siouxlands__033.md) | satisfactory |
-| 2025 | RPR exception | [Korean Southwest: Men are removed from the membership of Presbytery apart from methods set forth in the BCO](../rpr/exc/korean-southwest__252.md) | satisfactory |
-| 2025 | RPR exception | [Philadelphia: A teaching elder is censured, but the specific censure is not recorded in the minutes.](../rpr/exc/philadelphia__070.md) | raised |
+| 1993 | RPR exception | [Siouxlands: p. 3, # 19: A judicial commission was established in the absence of charges to deal with a](../rpr/exc/siouxlands__011.html) | raised |
+| 1994 | RPR exception | [Siouxlands: p. 3, # 19: A judicial commission was established in the absence of charges to deal with a](../rpr/exc/siouxlands__033.html) | satisfactory |
+| 2025 | RPR exception | [Korean Southwest: Men are removed from the membership of Presbytery apart from methods set forth in the BCO](../rpr/exc/korean-southwest__252.html) | satisfactory |
+| 2025 | RPR exception | [Philadelphia: A teaching elder is censured, but the specific censure is not recorded in the minutes.](../rpr/exc/philadelphia__070.html) | raised |
 
 ---
 *[← Authority Index](../index/AUTHORITY-BY-PROVISION.md)*

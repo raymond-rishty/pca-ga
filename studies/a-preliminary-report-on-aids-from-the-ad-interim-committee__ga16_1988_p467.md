@@ -1,3 +1,27 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga16_1988"
+    label: "Minutes PDF · p. 469"
+    file: "16th_pcaga_1988.pdf"
+    volume: "ga16_1988"
+    pdf_page: 469
+    url: "https://www.pcahistory.org/pca/ga/16th_pcaga_1988.pdf#page=469"
+  - type: "minutes"
+    source_id: "minutes:ga16_1988"
+    label: "Minutes PDF · p. 508"
+    file: "16th_pcaga_1988.pdf"
+    volume: "ga16_1988"
+    pdf_page: 508
+    url: "https://www.pcahistory.org/pca/ga/16th_pcaga_1988.pdf#page=508"
+  - type: "minutes"
+    source_id: "minutes:ga16_1988"
+    label: "Minutes PDF · p. 510"
+    file: "16th_pcaga_1988.pdf"
+    volume: "ga16_1988"
+    pdf_page: 510
+    url: "https://www.pcahistory.org/pca/ga/16th_pcaga_1988.pdf#page=510"
+---
 # A PRELIMINARY REPORT ON AIDS FROM THE AD INTERIM COMMITTEE
 
 *A PRELIMINARY REPORT ON AIDS FROM THE AD INTERIM COMMITTEE*

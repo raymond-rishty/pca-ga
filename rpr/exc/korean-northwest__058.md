@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga46_2018"
+    label: "Minutes PDF · p. 422"
+    file: "46th_pcaga_2018.pdf"
+    volume: "ga46_2018"
+    pdf_page: 422
+    url: "https://www.pcahistory.org/pca/ga/46th_pcaga_2018.pdf#page=422"
+---
 # Korean Northwest Presbytery — BCO 13-10
 
 *Church dissolved without proper notice of Presbytery…*

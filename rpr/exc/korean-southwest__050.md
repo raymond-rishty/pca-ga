@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga33_2005"
+    label: "Minutes PDF · p. 290"
+    file: "33rd_pcaga_2005.pdf"
+    volume: "ga33_2005"
+    pdf_page: 290
+    url: "https://www.pcahistory.org/pca/ga/33rd_pcaga_2005.pdf#page=290"
+---
 # Korean Southwest Presbytery — BCO 13-9b
 
 *Parts of examination should be listed (“RAO” 14-3.e.5). Exception: October 10,…*

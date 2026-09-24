@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga28_2000"
+    label: "Minutes PDF · p. 339"
+    file: "28th_pcaga_2000.pdf"
+    volume: "ga28_2000"
+    pdf_page: 339
+    url: "https://www.pcahistory.org/pca/ga/28th_pcaga_2000.pdf#page=339"
+---
 # Northeast Presbytery — BCO 15-1
 
 *Presbytery erred in allowing commissions to take up matters at their own…*

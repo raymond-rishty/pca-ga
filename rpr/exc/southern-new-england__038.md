@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga50_2023"
+    label: "Minutes PDF · p. 709"
+    file: "50th_pcaga_2023.pdf"
+    volume: "ga50_2023"
+    pdf_page: 709
+    url: "https://www.pcahistory.org/pca/ga/50th_pcaga_2023.pdf#page=709"
+---
 # Southern New England Presbytery — BCO 15-2
 
 *No record of quorum for commission meeting. (2 TEs required for commission…*

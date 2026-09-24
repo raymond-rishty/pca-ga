@@ -1,3 +1,20 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga15_1987"
+    label: "Minutes PDF · p. 190"
+    file: "15th_pcaga_1987.pdf"
+    volume: "ga15_1987"
+    pdf_page: 190
+    url: "https://www.pcahistory.org/pca/ga/15th_pcaga_1987.pdf#page=190"
+  - type: "minutes"
+    source_id: "minutes:ga15_1987"
+    label: "Minutes PDF · p. 195"
+    file: "15th_pcaga_1987.pdf"
+    volume: "ga15_1987"
+    pdf_page: 195
+    url: "https://www.pcahistory.org/pca/ga/15th_pcaga_1987.pdf#page=195"
+---
 # Resolution on Humanism
 
 *Resolution on Humanism*

@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga49_2022"
+    label: "Minutes PDF · p. 562"
+    file: "49th_pcaga_2022.pdf"
+    volume: "ga49_2022"
+    pdf_page: 562
+    url: "https://www.pcahistory.org/pca/ga/49th_pcaga_2022.pdf#page=562"
+---
 # Korean Southern Presbytery — BCO 19-2
 
 *The licensure exam did not list some of the required areas of testing (e.g.…*

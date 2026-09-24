@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga28_2000"
+    label: "Minutes PDF · p. 325"
+    file: "28th_pcaga_2000.pdf"
+    volume: "ga28_2000"
+    pdf_page: 325
+    url: "https://www.pcahistory.org/pca/ga/28th_pcaga_2000.pdf#page=325"
+---
 # Evangel Presbytery — RAO 14-4.a
 
 *Minutes not received. (RAO…*

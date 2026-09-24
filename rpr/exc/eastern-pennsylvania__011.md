@@ -1,3 +1,20 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga47_2019"
+    label: "Minutes PDF · p. 463"
+    file: "47th_pcaga_2019.pdf"
+    volume: "ga47_2019"
+    pdf_page: 463
+    url: "https://www.pcahistory.org/pca/ga/47th_pcaga_2019.pdf#page=463"
+  - type: "minutes"
+    source_id: "minutes:ga48_2021"
+    label: "Minutes PDF · p. 569"
+    file: "48th_pcaga_2021.pdf"
+    volume: "ga48_2021"
+    pdf_page: 569
+    url: "https://www.pcahistory.org/pca/ga/48th_pcaga_2021.pdf#page=569"
+---
 # Eastern Pennsylvania Presbytery — BCO 21-4
 
 *Candidate examined for ordination at September 15, 2018 meeting and commission…*

@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga34_2006"
+    label: "Minutes PDF · p. 294"
+    file: "34th_pcaga_2006.pdf"
+    volume: "ga34_2006"
+    pdf_page: 294
+    url: "https://www.pcahistory.org/pca/ga/34th_pcaga_2006.pdf#page=294"
+---
 # Piedmont Triad Presbytery — BCO 13-12, RAO 14-3.c.1
 
 *No record of proper call for called meeting. Call is not recorded verbatim.…*

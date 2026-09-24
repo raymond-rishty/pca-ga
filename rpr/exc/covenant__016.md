@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga26_1998"
+    label: "Minutes PDF · p. 238"
+    file: "26th_pcaga_1998.pdf"
+    volume: "ga26_1998"
+    pdf_page: 238
+    url: "https://www.pcahistory.org/pca/ga/26th_pcaga_1998.pdf#page=238"
+---
 # Covenant Presbytery — exception of substance
 
 *September 26,1996; Teaching elder removed without censure by administrative…*

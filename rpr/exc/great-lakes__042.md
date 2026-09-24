@@ -1,3 +1,27 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga35_2007"
+    label: "Minutes PDF · p. 183"
+    file: "35th_pcaga_2007.pdf"
+    volume: "ga35_2007"
+    pdf_page: 183
+    url: "https://www.pcahistory.org/pca/ga/35th_pcaga_2007.pdf#page=183"
+  - type: "minutes"
+    source_id: "minutes:ga36_2008"
+    label: "Minutes PDF · p. 224"
+    file: "36th_pcaga_2008.pdf"
+    volume: "ga36_2008"
+    pdf_page: 224
+    url: "https://www.pcahistory.org/pca/ga/36th_pcaga_2008.pdf#page=224"
+  - type: "minutes"
+    source_id: "minutes:ga37_2009"
+    label: "Minutes PDF · p. 97"
+    file: "37th_pcaga_2009.pdf"
+    volume: "ga37_2009"
+    pdf_page: 97
+    url: "https://www.pcahistory.org/pca/ga/37th_pcaga_2009.pdf#page=97"
+---
 # Great Lakes Presbytery — BCO 15-1
 
 *: Commission reports not included. BCO…*

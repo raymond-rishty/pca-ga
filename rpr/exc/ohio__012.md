@@ -1,3 +1,20 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga43_2015"
+    label: "Minutes PDF · p. 463"
+    file: "43rd_pcaga_2015.pdf"
+    volume: "ga43_2015"
+    pdf_page: 463
+    url: "https://www.pcahistory.org/pca/ga/43rd_pcaga_2015.pdf#page=463"
+  - type: "minutes"
+    source_id: "minutes:ga44_2016"
+    label: "Minutes PDF · p. 433"
+    file: "44th_pcaga_2016.pdf"
+    volume: "ga44_2016"
+    pdf_page: 433
+    url: "https://www.pcahistory.org/pca/ga/44th_pcaga_2016.pdf#page=433"
+---
 # Ohio Presbytery — BCO 13.9.b
 
 *No record of Faith Presbyterian Church session minutes being reviewed.…*

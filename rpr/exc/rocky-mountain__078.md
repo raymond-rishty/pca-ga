@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga51_2024"
+    label: "Minutes PDF · p. 641"
+    file: "51st_pcaga_2024.pdf"
+    volume: "ga51_2024"
+    pdf_page: 641
+    url: "https://www.pcahistory.org/pca/ga/51st_pcaga_2024.pdf#page=641"
+---
 # Rocky Mountain Presbytery — BCO 21-4.c.(1)(g)
 
 *All specific requirements of licensure exam not recorded. (Apr 25, 2019 No…*

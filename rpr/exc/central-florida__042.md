@@ -1,3 +1,34 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga35_2007"
+    label: "Minutes PDF · p. 174"
+    file: "35th_pcaga_2007.pdf"
+    volume: "ga35_2007"
+    pdf_page: 174
+    url: "https://www.pcahistory.org/pca/ga/35th_pcaga_2007.pdf#page=174"
+  - type: "minutes"
+    source_id: "minutes:ga36_2008"
+    label: "Minutes PDF · p. 216"
+    file: "36th_pcaga_2008.pdf"
+    volume: "ga36_2008"
+    pdf_page: 216
+    url: "https://www.pcahistory.org/pca/ga/36th_pcaga_2008.pdf#page=216"
+  - type: "minutes"
+    source_id: "minutes:ga37_2009"
+    label: "Minutes PDF · p. 85"
+    file: "37th_pcaga_2009.pdf"
+    volume: "ga37_2009"
+    pdf_page: 85
+    url: "https://www.pcahistory.org/pca/ga/37th_pcaga_2009.pdf#page=85"
+  - type: "minutes"
+    source_id: "minutes:ga38_2010"
+    label: "Minutes PDF · p. 80"
+    file: "38th_pcaga_2010.pdf"
+    volume: "ga38_2010"
+    pdf_page: 80
+    url: "https://www.pcahistory.org/pca/ga/38th_pcaga_2010.pdf#page=80"
+---
 # Central Florida Presbytery — BCO 21-4
 
 *: No record of specific examination requirements. BCO 21-4.…*

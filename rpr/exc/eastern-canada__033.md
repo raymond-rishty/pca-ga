@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga51_2024"
+    label: "Minutes PDF · p. 502"
+    file: "51st_pcaga_2024.pdf"
+    volume: "ga51_2024"
+    pdf_page: 502
+    url: "https://www.pcahistory.org/pca/ga/51st_pcaga_2024.pdf#page=502"
+---
 # Eastern Canada Presbytery — BCO 13-12, RAO 16-3.c.1
 
 *Purpose of called meeting not recorded verbatim in the…*

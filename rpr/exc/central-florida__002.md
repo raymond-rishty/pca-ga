@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga18_1990"
+    label: "Minutes PDF · p. 179"
+    file: "18th_pcaga_1990.pdf"
+    volume: "ga18_1990"
+    pdf_page: 179
+    url: "https://www.pcahistory.org/pca/ga/18th_pcaga_1990.pdf#page=179"
+---
 # Central Florida Presbytery — BCO 19-5
 
 *Page 3, 43-10: Licentiate from another presbytery not examined according to…*

@@ -1,3 +1,20 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga31_2003"
+    label: "Minutes PDF · p. 233"
+    file: "31st_pcaga_2003.pdf"
+    volume: "ga31_2003"
+    pdf_page: 233
+    url: "https://www.pcahistory.org/pca/ga/31st_pcaga_2003.pdf#page=233"
+  - type: "minutes"
+    source_id: "minutes:ga33_2005"
+    label: "Minutes PDF · p. 288"
+    file: "33rd_pcaga_2005.pdf"
+    volume: "ga33_2005"
+    pdf_page: 288
+    url: "https://www.pcahistory.org/pca/ga/33rd_pcaga_2005.pdf#page=288"
+---
 # Korean Southern Presbytery — BCO 21-4
 
 *No record of all parts of ordination exam included, no record of approval of…*

@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga19_1991"
+    label: "Minutes PDF · p. 181"
+    file: "19th_pcaga_1991.pdf"
+    volume: "ga19_1991"
+    pdf_page: 181
+    url: "https://www.pcahistory.org/pca/ga/19th_pcaga_1991.pdf#page=181"
+---
 # Eastern Carolina Presbytery — exception of substance
 
 *Page 7, 70-76 & 79. Actions of Presbytery contradictory and unclear. Adopted…*

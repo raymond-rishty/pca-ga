@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga51_2024"
+    label: "Minutes PDF · p. 625"
+    file: "51st_pcaga_2024.pdf"
+    volume: "ga51_2024"
+    pdf_page: 625
+    url: "https://www.pcahistory.org/pca/ga/51st_pcaga_2024.pdf#page=625"
+---
 # Philadelphia Presbytery — BCO 10-3
 
 *BCO only allows for moderator of Presbytery to be elected for a period of up…*

@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga50_2023"
+    label: "Minutes PDF · p. 618"
+    file: "50th_pcaga_2023.pdf"
+    volume: "ga50_2023"
+    pdf_page: 618
+    url: "https://www.pcahistory.org/pca/ga/50th_pcaga_2023.pdf#page=618"
+---
 # Korean Northwest Presbytery — BCO 13-6
 
 *Incomplete record of exam for minister seeking admission from another…*

@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga30_2002"
+    label: "Minutes PDF · p. 319"
+    file: "30th_pcaga_2002.pdf"
+    volume: "ga30_2002"
+    pdf_page: 319
+    url: "https://www.pcahistory.org/pca/ga/30th_pcaga_2002.pdf#page=319"
+---
 # Korean Southern Presbytery — BCO 13-11, RAO 14-1
 
 *Minutes for the 34th Stated Meeting not submitted. BCO 13-11; RAO 14-1 d. That…*

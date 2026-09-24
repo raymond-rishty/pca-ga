@@ -1,3 +1,20 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga36_2008"
+    label: "Minutes PDF · p. 230"
+    file: "36th_pcaga_2008.pdf"
+    volume: "ga36_2008"
+    pdf_page: 230
+    url: "https://www.pcahistory.org/pca/ga/36th_pcaga_2008.pdf#page=230"
+  - type: "minutes"
+    source_id: "minutes:ga37_2009"
+    label: "Minutes PDF · p. 100"
+    file: "37th_pcaga_2009.pdf"
+    volume: "ga37_2009"
+    pdf_page: 100
+    url: "https://www.pcahistory.org/pca/ga/37th_pcaga_2009.pdf#page=100"
+---
 # Illiana Presbytery — BCO 13-7
 
 *2007: BCO 13-7. No record of ministerial obligation form being signed (cited…*

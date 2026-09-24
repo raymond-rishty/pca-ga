@@ -1,3 +1,27 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga07_1979"
+    label: "Minutes PDF · p. 198"
+    file: "7th_pcaga_1979.pdf"
+    volume: "ga07_1979"
+    pdf_page: 198
+    url: "https://www.pcahistory.org/pca/ga/7th_pcaga_1979.pdf#page=198"
+  - type: "minutes"
+    source_id: "minutes:ga07_1979"
+    label: "Minutes PDF · p. 199"
+    file: "7th_pcaga_1979.pdf"
+    volume: "ga07_1979"
+    pdf_page: 199
+    url: "https://www.pcahistory.org/pca/ga/7th_pcaga_1979.pdf#page=199"
+  - type: "minutes"
+    source_id: "minutes:ga07_1979"
+    label: "Minutes PDF · p. 201"
+    file: "7th_pcaga_1979.pdf"
+    volume: "ga07_1979"
+    pdf_page: 201
+    url: "https://www.pcahistory.org/pca/ga/7th_pcaga_1979.pdf#page=201"
+---
 # Theonomy
 
 *Report on Theonomy*

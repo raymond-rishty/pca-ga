@@ -1,3 +1,27 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga48_2021"
+    label: "Minutes PDF · p. 590"
+    file: "48th_pcaga_2021.pdf"
+    volume: "ga48_2021"
+    pdf_page: 590
+    url: "https://www.pcahistory.org/pca/ga/48th_pcaga_2021.pdf#page=590"
+  - type: "minutes"
+    source_id: "minutes:ga49_2022"
+    label: "Minutes PDF · p. 563"
+    file: "49th_pcaga_2022.pdf"
+    volume: "ga49_2022"
+    pdf_page: 563
+    url: "https://www.pcahistory.org/pca/ga/49th_pcaga_2022.pdf#page=563"
+  - type: "minutes"
+    source_id: "minutes:ga50_2023"
+    label: "Minutes PDF · p. 629"
+    file: "50th_pcaga_2023.pdf"
+    volume: "ga50_2023"
+    pdf_page: 629
+    url: "https://www.pcahistory.org/pca/ga/50th_pcaga_2023.pdf#page=629"
+---
 # Korean Southern Presbytery — BCO 13-9
 
 *examination of reis not under the purview of the presbytery’s jurisdiction,…*

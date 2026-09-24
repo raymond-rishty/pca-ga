@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga24_1996"
+    label: "Minutes PDF · p. 266"
+    file: "24th_pcaga_1996.pdf"
+    volume: "ga24_1996"
+    pdf_page: 266
+    url: "https://www.pcahistory.org/pca/ga/24th_pcaga_1996.pdf#page=266"
+---
 # Warrior Presbytery — BCO 13-9b)
 
 *there is no record of examination of session records (BCO…*

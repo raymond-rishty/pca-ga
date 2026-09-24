@@ -1,3 +1,20 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga36_2008"
+    label: "Minutes PDF · p. 260"
+    file: "36th_pcaga_2008.pdf"
+    volume: "ga36_2008"
+    pdf_page: 260
+    url: "https://www.pcahistory.org/pca/ga/36th_pcaga_2008.pdf#page=260"
+  - type: "minutes"
+    source_id: "minutes:ga37_2009"
+    label: "Minutes PDF · p. 117"
+    file: "37th_pcaga_2009.pdf"
+    volume: "ga37_2009"
+    pdf_page: 117
+    url: "https://www.pcahistory.org/pca/ga/37th_pcaga_2009.pdf#page=117"
+---
 # Pacific Northwest Presbytery — BCO 13-8
 
 *January 11-12, 2007: BCO 13-8. No record of ruling elders being required to…*

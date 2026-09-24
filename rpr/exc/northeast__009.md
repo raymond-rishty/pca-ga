@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga20_1992"
+    label: "Minutes PDF · p. 251"
+    file: "20th_pcaga_1992.pdf"
+    volume: "ga20_1992"
+    pdf_page: 251
+    url: "https://www.pcahistory.org/pca/ga/20th_pcaga_1992.pdf#page=251"
+---
 # Northeast Presbytery — BCO § 15-2), BCO § 21-4), BCO § 15-1
 
 *Page 27, # 18 a commission to install must have m least two teaching elders…*

@@ -1,3 +1,20 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga47_2019"
+    label: "Minutes PDF · p. 509"
+    file: "47th_pcaga_2019.pdf"
+    volume: "ga47_2019"
+    pdf_page: 509
+    url: "https://www.pcahistory.org/pca/ga/47th_pcaga_2019.pdf#page=509"
+  - type: "minutes"
+    source_id: "minutes:ga48_2021"
+    label: "Minutes PDF · p. 638"
+    file: "48th_pcaga_2021.pdf"
+    volume: "ga48_2021"
+    pdf_page: 638
+    url: "https://www.pcahistory.org/pca/ga/48th_pcaga_2021.pdf#page=638"
+---
 # Southwest Florida Presbytery — BCO 11-4
 
 *Presbytery rules as written appear to forbid local churches from issuing calls…*

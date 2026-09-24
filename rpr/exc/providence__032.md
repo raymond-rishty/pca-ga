@@ -1,3 +1,20 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga47_2019"
+    label: "Minutes PDF · p. 501"
+    file: "47th_pcaga_2019.pdf"
+    volume: "ga47_2019"
+    pdf_page: 501
+    url: "https://www.pcahistory.org/pca/ga/47th_pcaga_2019.pdf#page=501"
+  - type: "minutes"
+    source_id: "minutes:ga48_2021"
+    label: "Minutes PDF · p. 628"
+    file: "48th_pcaga_2021.pdf"
+    volume: "ga48_2021"
+    pdf_page: 628
+    url: "https://www.pcahistory.org/pca/ga/48th_pcaga_2021.pdf#page=628"
+---
 # Providence Presbytery — BCO 13-11
 
 *No attachments were included even though referenced…*

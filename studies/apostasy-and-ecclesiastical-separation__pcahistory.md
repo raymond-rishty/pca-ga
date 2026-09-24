@@ -1,3 +1,11 @@
+---
+source_links:
+  - type: "dedicated"
+    source_id: "study-pdf:2-052"
+    label: "Dedicated source PDF"
+    file: "2-052.pdf"
+    url: "https://www.pcahistory.org/pca/digest/studies/2-052.pdf"
+---
 # Apostasy and Ecclesiastical Separation
 
 *Apostasy and Ecclesiastical Separation*

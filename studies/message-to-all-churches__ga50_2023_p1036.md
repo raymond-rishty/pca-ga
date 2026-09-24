@@ -1,3 +1,20 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga50_2023"
+    label: "Minutes PDF · p. 1044"
+    file: "50th_pcaga_2023.pdf"
+    volume: "ga50_2023"
+    pdf_page: 1044
+    url: "https://www.pcahistory.org/pca/ga/50th_pcaga_2023.pdf#page=1044"
+  - type: "minutes"
+    source_id: "minutes:ga50_2023"
+    label: "Minutes PDF · p. 1070"
+    file: "50th_pcaga_2023.pdf"
+    volume: "ga50_2023"
+    pdf_page: 1070
+    url: "https://www.pcahistory.org/pca/ga/50th_pcaga_2023.pdf#page=1070"
+---
 # Message to All Churches
 
 *Message to All Churches*

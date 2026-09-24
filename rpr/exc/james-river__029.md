@@ -1,3 +1,20 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga38_2010"
+    label: "Minutes PDF · p. 92"
+    file: "38th_pcaga_2010.pdf"
+    volume: "ga38_2010"
+    pdf_page: 92
+    url: "https://www.pcahistory.org/pca/ga/38th_pcaga_2010.pdf#page=92"
+  - type: "minutes"
+    source_id: "minutes:ga39_2011"
+    label: "Minutes PDF · p. 456"
+    file: "39th_pcaga_2011.pdf"
+    volume: "ga39_2011"
+    pdf_page: 456
+    url: "https://www.pcahistory.org/pca/ga/39th_pcaga_2011.pdf#page=456"
+---
 # James River Presbytery — BCO 15-1
 
 *Presbytery approved the report of a commission acting without a quorum.…*

@@ -1,3 +1,20 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga28_2000"
+    label: "Minutes PDF · p. 345"
+    file: "28th_pcaga_2000.pdf"
+    volume: "ga28_2000"
+    pdf_page: 345
+    url: "https://www.pcahistory.org/pca/ga/28th_pcaga_2000.pdf#page=345"
+  - type: "minutes"
+    source_id: "minutes:ga29_2001"
+    label: "Minutes PDF · p. 358"
+    file: "29th_pcaga_2001.pdf"
+    volume: "ga29_2001"
+    pdf_page: 358
+    url: "https://www.pcahistory.org/pca/ga/29th_pcaga_2001.pdf#page=358"
+---
 # Western Carolina Presbytery — exception of substance
 
 *The exceptional clause was invoked for a candidate but Presbytery failed to…*

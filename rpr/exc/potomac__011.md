@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga43_2015"
+    label: "Minutes PDF · p. 469"
+    file: "43rd_pcaga_2015.pdf"
+    volume: "ga43_2015"
+    pdf_page: 469
+    url: "https://www.pcahistory.org/pca/ga/43rd_pcaga_2015.pdf#page=469"
+---
 # Potomac Presbytery — BCO 19-2c
 
 *– No record of candidate for licensure being examined orally before…*

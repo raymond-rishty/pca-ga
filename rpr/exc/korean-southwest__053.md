@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga34_2006"
+    label: "Minutes PDF · p. 273"
+    file: "34th_pcaga_2006.pdf"
+    volume: "ga34_2006"
+    pdf_page: 273
+    url: "https://www.pcahistory.org/pca/ga/34th_pcaga_2006.pdf#page=273"
+---
 # Korean Southwest Presbytery — BCO 13-8
 
 *Teaching elders transferred in and out of churches and presbytery without…*

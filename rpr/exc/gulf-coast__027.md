@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga39_2011"
+    label: "Minutes PDF · p. 453"
+    file: "39th_pcaga_2011.pdf"
+    volume: "ga39_2011"
+    pdf_page: 453
+    url: "https://www.pcahistory.org/pca/ga/39th_pcaga_2011.pdf#page=453"
+---
 # Gulf Coast Presbytery — BCO 32-2
 
 *Judicial commission erected without record of charge against…*

@@ -1,3 +1,27 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga42_2014"
+    label: "Minutes PDF · p. 420"
+    file: "42nd_pcaga_2014.pdf"
+    volume: "ga42_2014"
+    pdf_page: 420
+    url: "https://www.pcahistory.org/pca/ga/42nd_pcaga_2014.pdf#page=420"
+  - type: "minutes"
+    source_id: "minutes:ga43_2015"
+    label: "Minutes PDF · p. 449"
+    file: "43rd_pcaga_2015.pdf"
+    volume: "ga43_2015"
+    pdf_page: 449
+    url: "https://www.pcahistory.org/pca/ga/43rd_pcaga_2015.pdf#page=449"
+  - type: "minutes"
+    source_id: "minutes:ga44_2016"
+    label: "Minutes PDF · p. 419"
+    file: "44th_pcaga_2016.pdf"
+    volume: "ga44_2016"
+    pdf_page: 419
+    url: "https://www.pcahistory.org/pca/ga/44th_pcaga_2016.pdf#page=419"
+---
 # Korean Eastern Presbytery — BCO 24-1
 
 *Election of ruling elders precedes training and examination for…*

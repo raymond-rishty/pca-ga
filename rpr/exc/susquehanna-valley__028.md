@@ -1,3 +1,41 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga42_2014"
+    label: "Minutes PDF · p. 458"
+    file: "42nd_pcaga_2014.pdf"
+    volume: "ga42_2014"
+    pdf_page: 458
+    url: "https://www.pcahistory.org/pca/ga/42nd_pcaga_2014.pdf#page=458"
+  - type: "minutes"
+    source_id: "minutes:ga42_2014"
+    label: "Minutes PDF · p. 459"
+    file: "42nd_pcaga_2014.pdf"
+    volume: "ga42_2014"
+    pdf_page: 459
+    url: "https://www.pcahistory.org/pca/ga/42nd_pcaga_2014.pdf#page=459"
+  - type: "minutes"
+    source_id: "minutes:ga43_2015"
+    label: "Minutes PDF · p. 480"
+    file: "43rd_pcaga_2015.pdf"
+    volume: "ga43_2015"
+    pdf_page: 480
+    url: "https://www.pcahistory.org/pca/ga/43rd_pcaga_2015.pdf#page=480"
+  - type: "minutes"
+    source_id: "minutes:ga44_2016"
+    label: "Minutes PDF · p. 453"
+    file: "44th_pcaga_2016.pdf"
+    volume: "ga44_2016"
+    pdf_page: 453
+    url: "https://www.pcahistory.org/pca/ga/44th_pcaga_2016.pdf#page=453"
+  - type: "minutes"
+    source_id: "minutes:ga45_2017"
+    label: "Minutes PDF · p. 425"
+    file: "45th_pcaga_2017.pdf"
+    volume: "ga45_2017"
+    pdf_page: 425
+    url: "https://www.pcahistory.org/pca/ga/45th_pcaga_2017.pdf#page=425"
+---
 # Susquehanna Valley Presbytery — BCO 20-1
 
 *Ordination of TE: no record of call to a definite…*

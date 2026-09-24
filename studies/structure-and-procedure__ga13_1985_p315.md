@@ -1,3 +1,27 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga13_1985"
+    label: "Minutes PDF · p. 317"
+    file: "13th_pcaga_1985.pdf"
+    volume: "ga13_1985"
+    pdf_page: 317
+    url: "https://www.pcahistory.org/pca/ga/13th_pcaga_1985.pdf#page=317"
+  - type: "minutes"
+    source_id: "minutes:ga13_1985"
+    label: "Minutes PDF · p. 323"
+    file: "13th_pcaga_1985.pdf"
+    volume: "ga13_1985"
+    pdf_page: 323
+    url: "https://www.pcahistory.org/pca/ga/13th_pcaga_1985.pdf#page=323"
+  - type: "minutes"
+    source_id: "minutes:ga13_1985"
+    label: "Minutes PDF · p. 325"
+    file: "13th_pcaga_1985.pdf"
+    volume: "ga13_1985"
+    pdf_page: 325
+    url: "https://www.pcahistory.org/pca/ga/13th_pcaga_1985.pdf#page=325"
+---
 # STRUCTURE AND PROCEDURE
 
 *REPORT OF AD-INTERIM COMMITTEE TO STUDY AND MAKE RECOMMENDATIONS AS TO STRUCTURE AND PROCEDURE*

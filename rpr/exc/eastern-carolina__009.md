@@ -1,3 +1,20 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga22_1994"
+    label: "Minutes PDF · p. 289"
+    file: "22nd_pcaga_1994.pdf"
+    volume: "ga22_1994"
+    pdf_page: 289
+    url: "https://www.pcahistory.org/pca/ga/22nd_pcaga_1994.pdf#page=289"
+  - type: "minutes"
+    source_id: "minutes:ga23_1995"
+    label: "Minutes PDF · p. 187"
+    file: "23rd_pcaga_1995.pdf"
+    volume: "ga23_1995"
+    pdf_page: 187
+    url: "https://www.pcahistory.org/pca/ga/23rd_pcaga_1995.pdf#page=187"
+---
 # Eastern Carolina Presbytery — BCO 23-1)
 
 *Records fail to note if a congregational meeting was held to concur with the…*

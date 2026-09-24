@@ -1,3 +1,20 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga52_2025"
+    label: "Minutes PDF · p. 606"
+    file: "52nd_pcaga_2025.pdf"
+    volume: "ga52_2025"
+    pdf_page: 606
+    url: "https://www.pcahistory.org/pca/ga/52nd_pcaga_2025.pdf#page=606"
+  - type: "minutes"
+    source_id: "minutes:ga52_2025"
+    label: "Minutes PDF · p. 619"
+    file: "52nd_pcaga_2025.pdf"
+    volume: "ga52_2025"
+    pdf_page: 619
+    url: "https://www.pcahistory.org/pca/ga/52nd_pcaga_2025.pdf#page=619"
+---
 # Korean Southwest Presbytery — BCO 34-10, BCO 21-4, RAO 16-3.e.5
 
 *Stated difference not recorded in the candidate’s own…*

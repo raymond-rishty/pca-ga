@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga52_2025"
+    label: "Minutes PDF · p. 624"
+    file: "52nd_pcaga_2025.pdf"
+    volume: "ga52_2025"
+    pdf_page: 624
+    url: "https://www.pcahistory.org/pca/ga/52nd_pcaga_2025.pdf#page=624"
+---
 # Lowcountry Presbytery — BCO 23-1
 
 *No record that Session was cited to appear before…*

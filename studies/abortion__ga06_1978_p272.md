@@ -1,3 +1,27 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga06_1978"
+    label: "Minutes PDF · p. 274"
+    file: "6th_pcaga_1978.pdf"
+    volume: "ga06_1978"
+    pdf_page: 274
+    url: "https://www.pcahistory.org/pca/ga/6th_pcaga_1978.pdf#page=274"
+  - type: "minutes"
+    source_id: "minutes:ga06_1978"
+    label: "Minutes PDF · p. 286"
+    file: "6th_pcaga_1978.pdf"
+    volume: "ga06_1978"
+    pdf_page: 286
+    url: "https://www.pcahistory.org/pca/ga/6th_pcaga_1978.pdf#page=286"
+  - type: "minutes"
+    source_id: "minutes:ga06_1978"
+    label: "Minutes PDF · p. 293"
+    file: "6th_pcaga_1978.pdf"
+    volume: "ga06_1978"
+    pdf_page: 293
+    url: "https://www.pcahistory.org/pca/ga/6th_pcaga_1978.pdf#page=293"
+---
 # Abortion
 
 *Report of the Ad Interim Committee on Abortion*

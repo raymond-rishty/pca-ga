@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga32_2004"
+    label: "Minutes PDF · p. 223"
+    file: "32nd_pcaga_2004.pdf"
+    volume: "ga32_2004"
+    pdf_page: 223
+    url: "https://www.pcahistory.org/pca/ga/32nd_pcaga_2004.pdf#page=223"
+---
 # Louisiana Presbytery — RAO 14-4.c.1
 
 *General: No directory or roll of presbytery included. RAO…*

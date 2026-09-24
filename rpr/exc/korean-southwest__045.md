@@ -1,3 +1,20 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga31_2003"
+    label: "Minutes PDF · p. 235"
+    file: "31st_pcaga_2003.pdf"
+    volume: "ga31_2003"
+    pdf_page: 235
+    url: "https://www.pcahistory.org/pca/ga/31st_pcaga_2003.pdf#page=235"
+  - type: "minutes"
+    source_id: "minutes:ga32_2004"
+    label: "Minutes PDF · p. 222"
+    file: "32nd_pcaga_2004.pdf"
+    volume: "ga32_2004"
+    pdf_page: 222
+    url: "https://www.pcahistory.org/pca/ga/32nd_pcaga_2004.pdf#page=222"
+---
 # Korean Southwest Presbytery — BCO 13-9b
 
 *1996; November 19, 1996: No record of presbytery approval of session records (…*

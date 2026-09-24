@@ -1,3 +1,27 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga45_2017"
+    label: "Minutes PDF · p. 384"
+    file: "45th_pcaga_2017.pdf"
+    volume: "ga45_2017"
+    pdf_page: 384
+    url: "https://www.pcahistory.org/pca/ga/45th_pcaga_2017.pdf#page=384"
+  - type: "minutes"
+    source_id: "minutes:ga46_2018"
+    label: "Minutes PDF · p. 402"
+    file: "46th_pcaga_2018.pdf"
+    volume: "ga46_2018"
+    pdf_page: 402
+    url: "https://www.pcahistory.org/pca/ga/46th_pcaga_2018.pdf#page=402"
+  - type: "minutes"
+    source_id: "minutes:ga47_2019"
+    label: "Minutes PDF · p. 467"
+    file: "47th_pcaga_2019.pdf"
+    volume: "ga47_2019"
+    pdf_page: 467
+    url: "https://www.pcahistory.org/pca/ga/47th_pcaga_2019.pdf#page=467"
+---
 # Heartland Presbytery — BCO 15-1
 
 *Minutes of commission not entered in Presbytery minutes (see also RAO…*

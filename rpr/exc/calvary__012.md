@@ -1,3 +1,20 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga19_1991"
+    label: "Minutes PDF · p. 179"
+    file: "19th_pcaga_1991.pdf"
+    volume: "ga19_1991"
+    pdf_page: 179
+    url: "https://www.pcahistory.org/pca/ga/19th_pcaga_1991.pdf#page=179"
+  - type: "minutes"
+    source_id: "minutes:ga20_1992"
+    label: "Minutes PDF · p. 238"
+    file: "20th_pcaga_1992.pdf"
+    volume: "ga20_1992"
+    pdf_page: 238
+    url: "https://www.pcahistory.org/pca/ga/20th_pcaga_1992.pdf#page=238"
+---
 # Calvary Presbytery — BCO 18-2
 
 *p. 4 Not enough information to know if BCO 18-2 was fulfilled. MINUTES OF…*

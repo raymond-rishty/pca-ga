@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga42_2014"
+    label: "Minutes PDF · p. 393"
+    file: "42nd_pcaga_2014.pdf"
+    volume: "ga42_2014"
+    pdf_page: 393
+    url: "https://www.pcahistory.org/pca/ga/42nd_pcaga_2014.pdf#page=393"
+---
 # Calvary Presbytery — BCO 21-9
 
 *Questions for installation not…*

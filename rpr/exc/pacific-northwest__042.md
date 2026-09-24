@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga48_2021"
+    label: "Minutes PDF · p. 614"
+    file: "48th_pcaga_2021.pdf"
+    volume: "ga48_2021"
+    pdf_page: 614
+    url: "https://www.pcahistory.org/pca/ga/48th_pcaga_2021.pdf#page=614"
+---
 # Pacific Northwest Presbytery — BCO 13-9.b
 
 *No record of annual examination of Sessional records of churches of Presbytery…*

@@ -1,3 +1,20 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga46_2018"
+    label: "Minutes PDF · p. 450"
+    file: "46th_pcaga_2018.pdf"
+    volume: "ga46_2018"
+    pdf_page: 450
+    url: "https://www.pcahistory.org/pca/ga/46th_pcaga_2018.pdf#page=450"
+  - type: "minutes"
+    source_id: "minutes:ga47_2019"
+    label: "Minutes PDF · p. 503"
+    file: "47th_pcaga_2019.pdf"
+    volume: "ga47_2019"
+    pdf_page: 503
+    url: "https://www.pcahistory.org/pca/ga/47th_pcaga_2019.pdf#page=503"
+---
 # Siouxlands Presbytery — BCO 20-1
 
 *No record of approval of call by…*

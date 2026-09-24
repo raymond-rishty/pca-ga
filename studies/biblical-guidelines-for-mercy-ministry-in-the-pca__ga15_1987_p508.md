@@ -1,3 +1,18 @@
+---
+source_links:
+  - type: "dedicated"
+    source_id: "dedicated-pdf:2-414"
+    label: "Dedicated source PDF"
+    file: "2-414.pdf"
+    url: "https://pcahistory.org/pca/digest/studies/2-414.pdf"
+  - type: "minutes"
+    source_id: "minutes:ga15_1987"
+    label: "Minutes PDF · p. 510"
+    file: "15th_pcaga_1987.pdf"
+    volume: "ga15_1987"
+    pdf_page: 510
+    url: "https://www.pcahistory.org/pca/ga/15th_pcaga_1987.pdf#page=510"
+---
 # Biblical Guidelines for Mercy Ministry in the PCA
 
 *Biblical Guidelines for Mercy Ministry in the PCA*

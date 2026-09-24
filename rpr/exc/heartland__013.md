@@ -1,3 +1,20 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga28_2000"
+    label: "Minutes PDF · p. 327"
+    file: "28th_pcaga_2000.pdf"
+    volume: "ga28_2000"
+    pdf_page: 327
+    url: "https://www.pcahistory.org/pca/ga/28th_pcaga_2000.pdf#page=327"
+  - type: "minutes"
+    source_id: "minutes:ga29_2001"
+    label: "Minutes PDF · p. 331"
+    file: "29th_pcaga_2001.pdf"
+    volume: "ga29_2001"
+    pdf_page: 331
+    url: "https://www.pcahistory.org/pca/ga/29th_pcaga_2001.pdf#page=331"
+---
 # Heartland Presbytery — BCO 25-11
 
 *Presbytery entered a judgmental statement against the church without and…*

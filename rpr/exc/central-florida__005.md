@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga19_1991"
+    label: "Minutes PDF · p. 181"
+    file: "19th_pcaga_1991.pdf"
+    volume: "ga19_1991"
+    pdf_page: 181
+    url: "https://www.pcahistory.org/pca/ga/19th_pcaga_1991.pdf#page=181"
+---
 # Central Florida Presbytery — BCO 15-2
 
 *51-lO.c 3) Commission consisting of 3 TE and 1 RE contrary to BCO…*

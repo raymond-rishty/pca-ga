@@ -1,3 +1,27 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga28_2000"
+    label: "Minutes PDF · p. 328"
+    file: "28th_pcaga_2000.pdf"
+    volume: "ga28_2000"
+    pdf_page: 328
+    url: "https://www.pcahistory.org/pca/ga/28th_pcaga_2000.pdf#page=328"
+  - type: "minutes"
+    source_id: "minutes:ga29_2001"
+    label: "Minutes PDF · p. 338"
+    file: "29th_pcaga_2001.pdf"
+    volume: "ga29_2001"
+    pdf_page: 338
+    url: "https://www.pcahistory.org/pca/ga/29th_pcaga_2001.pdf#page=338"
+  - type: "minutes"
+    source_id: "minutes:ga30_2002"
+    label: "Minutes PDF · p. 316"
+    file: "30th_pcaga_2002.pdf"
+    volume: "ga30_2002"
+    pdf_page: 316
+    url: "https://www.pcahistory.org/pca/ga/30th_pcaga_2002.pdf#page=316"
+---
 # Korean Central Presbytery — exception of substance
 
 *No Standing Rules…*

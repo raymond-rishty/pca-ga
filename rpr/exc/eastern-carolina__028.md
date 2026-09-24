@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga51_2024"
+    label: "Minutes PDF · p. 504"
+    file: "51st_pcaga_2024.pdf"
+    volume: "ga51_2024"
+    pdf_page: 504
+    url: "https://www.pcahistory.org/pca/ga/51st_pcaga_2024.pdf#page=504"
+---
 # Eastern Carolina Presbytery — WCF 29-4, BCO 58-3
 
 *Error to conclude that celebration of Lord’s Supper by the Session of [church…*

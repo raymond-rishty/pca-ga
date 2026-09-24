@@ -1,3 +1,20 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga51_2024"
+    label: "Minutes PDF · p. 540"
+    file: "51st_pcaga_2024.pdf"
+    volume: "ga51_2024"
+    pdf_page: 540
+    url: "https://www.pcahistory.org/pca/ga/51st_pcaga_2024.pdf#page=540"
+  - type: "minutes"
+    source_id: "minutes:ga52_2025"
+    label: "Minutes PDF · p. 576"
+    file: "52nd_pcaga_2025.pdf"
+    volume: "ga52_2025"
+    pdf_page: 576
+    url: "https://www.pcahistory.org/pca/ga/52nd_pcaga_2025.pdf#page=576"
+---
 # Korean Capital Presbytery — BCO 31-2, BCO 32-2
 
 *no record of a BCO 31-2 investigation that raised a “strong presumption of…*

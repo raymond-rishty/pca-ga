@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga26_1998"
+    label: "Minutes PDF · p. 247"
+    file: "26th_pcaga_1998.pdf"
+    volume: "ga26_1998"
+    pdf_page: 247
+    url: "https://www.pcahistory.org/pca/ga/26th_pcaga_1998.pdf#page=247"
+---
 # New River Presbytery — exception of substance
 
 *No record of completion and approval of internship in fulfillment of…*

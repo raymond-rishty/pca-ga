@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga32_2004"
+    label: "Minutes PDF · p. 220"
+    file: "32nd_pcaga_2004.pdf"
+    volume: "ga32_2004"
+    pdf_page: 220
+    url: "https://www.pcahistory.org/pca/ga/32nd_pcaga_2004.pdf#page=220"
+---
 # Korean Southeastern Presbytery — BCO 13-4, RAO 14-4.c.2
 
 *October 4, 1999 (p. 1, Item 2): Only 1 RE present. Therefore no quorum. BCO…*

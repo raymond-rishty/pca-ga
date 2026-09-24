@@ -1,3 +1,20 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga05_1977"
+    label: "Minutes PDF · p. 196"
+    file: "5th_pcaga_1977.pdf"
+    volume: "ga05_1977"
+    pdf_page: 196
+    url: "https://www.pcahistory.org/pca/ga/5th_pcaga_1977.pdf#page=196"
+  - type: "minutes"
+    source_id: "minutes:ga05_1977"
+    label: "Minutes PDF · p. 202"
+    file: "5th_pcaga_1977.pdf"
+    volume: "ga05_1977"
+    pdf_page: 202
+    url: "https://www.pcahistory.org/pca/ga/5th_pcaga_1977.pdf#page=202"
+---
 # CHAPLAINS
 
 *REPORT OF THE AD-INTERIM SUBCOMMITTEE ON CHAPLAINS*

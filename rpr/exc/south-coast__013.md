@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga32_2004"
+    label: "Minutes PDF · p. 237"
+    file: "32nd_pcaga_2004.pdf"
+    volume: "ga32_2004"
+    pdf_page: 237
+    url: "https://www.pcahistory.org/pca/ga/32nd_pcaga_2004.pdf#page=237"
+---
 # South Coast Presbytery — BCO 153, BCO 32-6.a, BCO 36-6
 
 *January 26, 2002: Presbytery deposed and excommunicated a TE without record of…*

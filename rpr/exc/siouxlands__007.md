@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga20_1992"
+    label: "Minutes PDF · p. 258"
+    file: "20th_pcaga_1992.pdf"
+    volume: "ga20_1992"
+    pdf_page: 258
+    url: "https://www.pcahistory.org/pca/ga/20th_pcaga_1992.pdf#page=258"
+---
 # Siouxlands Presbytery — BCO § 13-6), BCO § 13-6
 
 *Page # 21 The minutes do not indicate which denomination or presbytery this…*

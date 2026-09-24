@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga47_2019"
+    label: "Minutes PDF · p. 477"
+    file: "47th_pcaga_2019.pdf"
+    volume: "ga47_2019"
+    pdf_page: 477
+    url: "https://www.pcahistory.org/pca/ga/47th_pcaga_2019.pdf#page=477"
+---
 # Korean Central Presbytery — BCO 20-1, RAO 16-3.e.6)
 
 *No record that calls to TEs were examined and approved by Presbytery ( BCO…*

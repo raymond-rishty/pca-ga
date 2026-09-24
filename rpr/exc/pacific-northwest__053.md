@@ -1,3 +1,20 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga49_2022"
+    label: "Minutes PDF · p. 603"
+    file: "49th_pcaga_2022.pdf"
+    volume: "ga49_2022"
+    pdf_page: 603
+    url: "https://www.pcahistory.org/pca/ga/49th_pcaga_2022.pdf#page=603"
+  - type: "minutes"
+    source_id: "minutes:ga50_2023"
+    label: "Minutes PDF · p. 677"
+    file: "50th_pcaga_2023.pdf"
+    volume: "ga50_2023"
+    pdf_page: 677
+    url: "https://www.pcahistory.org/pca/ga/50th_pcaga_2023.pdf#page=677"
+---
 # Pacific Northwest Presbytery — BCO 18-3
 
 *Incomplete record of candidate's…*

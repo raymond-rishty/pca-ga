@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga48_2021"
+    label: "Minutes PDF · p. 597"
+    file: "48th_pcaga_2021.pdf"
+    volume: "ga48_2021"
+    pdf_page: 597
+    url: "https://www.pcahistory.org/pca/ga/48th_pcaga_2021.pdf#page=597"
+---
 # Korean Southwest Presbytery — BCO 13-11, BCO 38-1, RAO 16-3.e.8
 
 *The minutes approved by the presbytery and submitted to RPR do not include a…*

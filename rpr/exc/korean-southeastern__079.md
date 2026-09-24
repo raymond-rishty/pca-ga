@@ -1,3 +1,20 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga42_2014"
+    label: "Minutes PDF · p. 424"
+    file: "42nd_pcaga_2014.pdf"
+    volume: "ga42_2014"
+    pdf_page: 424
+    url: "https://www.pcahistory.org/pca/ga/42nd_pcaga_2014.pdf#page=424"
+  - type: "minutes"
+    source_id: "minutes:ga43_2015"
+    label: "Minutes PDF · p. 452"
+    file: "43rd_pcaga_2015.pdf"
+    volume: "ga43_2015"
+    pdf_page: 452
+    url: "https://www.pcahistory.org/pca/ga/43rd_pcaga_2015.pdf#page=452"
+---
 # Korean Southeastern Presbytery — exception of substance
 
 *Divestment of a minister without censure at the same…*

@@ -1,3 +1,27 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga37_2009"
+    label: "Minutes PDF · p. 118"
+    file: "37th_pcaga_2009.pdf"
+    volume: "ga37_2009"
+    pdf_page: 118
+    url: "https://www.pcahistory.org/pca/ga/37th_pcaga_2009.pdf#page=118"
+  - type: "minutes"
+    source_id: "minutes:ga38_2010"
+    label: "Minutes PDF · p. 112"
+    file: "38th_pcaga_2010.pdf"
+    volume: "ga38_2010"
+    pdf_page: 112
+    url: "https://www.pcahistory.org/pca/ga/38th_pcaga_2010.pdf#page=112"
+  - type: "minutes"
+    source_id: "minutes:ga39_2011"
+    label: "Minutes PDF · p. 478"
+    file: "39th_pcaga_2011.pdf"
+    volume: "ga39_2011"
+    pdf_page: 478
+    url: "https://www.pcahistory.org/pca/ga/39th_pcaga_2011.pdf#page=478"
+---
 # Philadelphia Metro West Presbytery — BCO 19-2
 
 *no record of approval of sermon or Christian experience of a candidate for…*

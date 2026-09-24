@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga21_1993"
+    label: "Minutes PDF · p. 254"
+    file: "21st_pcaga_1993.pdf"
+    volume: "ga21_1993"
+    pdf_page: 254
+    url: "https://www.pcahistory.org/pca/ga/21st_pcaga_1993.pdf#page=254"
+---
 # Susquehanna Valley Presbytery — exception of substance
 
 *The President and members at large from the Women in the Church may be…*

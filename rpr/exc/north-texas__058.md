@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga51_2024"
+    label: "Minutes PDF · p. 603"
+    file: "51st_pcaga_2024.pdf"
+    volume: "ga51_2024"
+    pdf_page: 603
+    url: "https://www.pcahistory.org/pca/ga/51st_pcaga_2024.pdf#page=603"
+---
 # North Texas Presbytery — BCO 43-10
 
 *Presbytery remanded a complaint to a lower court expressing its opinion rather…*

@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga26_1998"
+    label: "Minutes PDF · p. 238"
+    file: "26th_pcaga_1998.pdf"
+    volume: "ga26_1998"
+    pdf_page: 238
+    url: "https://www.pcahistory.org/pca/ga/26th_pcaga_1998.pdf#page=238"
+---
 # Covenant Presbytery — BCO 21-
 
 *No record of examination in history of the Presbyterian Church in America (BCO…*

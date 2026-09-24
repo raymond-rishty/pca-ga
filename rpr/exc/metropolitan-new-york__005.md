@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga30_2002"
+    label: "Minutes PDF · p. 322"
+    file: "30th_pcaga_2002.pdf"
+    volume: "ga30_2002"
+    pdf_page: 322
+    url: "https://www.pcahistory.org/pca/ga/30th_pcaga_2002.pdf#page=322"
+---
 # Metropolitan New York Presbytery — WLC #109, WLC #156, BCO 21-5, BCO 26-1
 
 *Man approved for ordination who takes the following exceptions (among several…*

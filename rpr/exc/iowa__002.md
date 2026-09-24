@@ -1,3 +1,20 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga34_2006"
+    label: "Minutes PDF · p. 259"
+    file: "34th_pcaga_2006.pdf"
+    volume: "ga34_2006"
+    pdf_page: 259
+    url: "https://www.pcahistory.org/pca/ga/34th_pcaga_2006.pdf#page=259"
+  - type: "minutes"
+    source_id: "minutes:ga35_2007"
+    label: "Minutes PDF · p. 190"
+    file: "35th_pcaga_2007.pdf"
+    volume: "ga35_2007"
+    pdf_page: 190
+    url: "https://www.pcahistory.org/pca/ga/35th_pcaga_2007.pdf#page=190"
+---
 # Iowa Presbytery — BCO 21-4, RAO 14-3.e.5
 
 *No record of polity exam being approved. BCO 21-4, RAO…*

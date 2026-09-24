@@ -1,3 +1,62 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga25_1997"
+    label: "Minutes PDF · p. 210"
+    file: "25th_pcaga_1997.pdf"
+    volume: "ga25_1997"
+    pdf_page: 210
+    url: "https://www.pcahistory.org/pca/ga/25th_pcaga_1997.pdf#page=210"
+  - type: "minutes"
+    source_id: "minutes:ga26_1998"
+    label: "Minutes PDF · p. 243"
+    file: "26th_pcaga_1998.pdf"
+    volume: "ga26_1998"
+    pdf_page: 243
+    url: "https://www.pcahistory.org/pca/ga/26th_pcaga_1998.pdf#page=243"
+  - type: "minutes"
+    source_id: "minutes:ga27_1999"
+    label: "Minutes PDF · p. 199"
+    file: "27th_pcaga_1999.pdf"
+    volume: "ga27_1999"
+    pdf_page: 199
+    url: "https://www.pcahistory.org/pca/ga/27th_pcaga_1999.pdf#page=199"
+  - type: "minutes"
+    source_id: "minutes:ga28_2000"
+    label: "Minutes PDF · p. 329"
+    file: "28th_pcaga_2000.pdf"
+    volume: "ga28_2000"
+    pdf_page: 329
+    url: "https://www.pcahistory.org/pca/ga/28th_pcaga_2000.pdf#page=329"
+  - type: "minutes"
+    source_id: "minutes:ga29_2001"
+    label: "Minutes PDF · p. 340"
+    file: "29th_pcaga_2001.pdf"
+    volume: "ga29_2001"
+    pdf_page: 340
+    url: "https://www.pcahistory.org/pca/ga/29th_pcaga_2001.pdf#page=340"
+  - type: "minutes"
+    source_id: "minutes:ga30_2002"
+    label: "Minutes PDF · p. 320"
+    file: "30th_pcaga_2002.pdf"
+    volume: "ga30_2002"
+    pdf_page: 320
+    url: "https://www.pcahistory.org/pca/ga/30th_pcaga_2002.pdf#page=320"
+  - type: "minutes"
+    source_id: "minutes:ga33_2005"
+    label: "Minutes PDF · p. 288"
+    file: "33rd_pcaga_2005.pdf"
+    volume: "ga33_2005"
+    pdf_page: 288
+    url: "https://www.pcahistory.org/pca/ga/33rd_pcaga_2005.pdf#page=288"
+  - type: "minutes"
+    source_id: "minutes:ga34_2006"
+    label: "Minutes PDF · p. 271"
+    file: "34th_pcaga_2006.pdf"
+    volume: "ga34_2006"
+    pdf_page: 271
+    url: "https://www.pcahistory.org/pca/ga/34th_pcaga_2006.pdf#page=271"
+---
 # Korean Southern Presbytery — exception of substance
 
 *: The entirety of minutes is taken up with a trial and discussion of whether…*

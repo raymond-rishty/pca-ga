@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga44_2016"
+    label: "Minutes PDF · p. 440"
+    file: "44th_pcaga_2016.pdf"
+    volume: "ga44_2016"
+    pdf_page: 440
+    url: "https://www.pcahistory.org/pca/ga/44th_pcaga_2016.pdf#page=440"
+---
 # Potomac Presbytery — BCO 21-4.c.2-4, RAO 16-3.e.5
 
 *No record of thesis, exegesis, or sermon preached by candidate for…*

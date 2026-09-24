@@ -1,3 +1,20 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga21_1993"
+    label: "Minutes PDF · p. 237"
+    file: "21st_pcaga_1993.pdf"
+    volume: "ga21_1993"
+    pdf_page: 237
+    url: "https://www.pcahistory.org/pca/ga/21st_pcaga_1993.pdf#page=237"
+  - type: "minutes"
+    source_id: "minutes:ga22_1994"
+    label: "Minutes PDF · p. 292"
+    file: "22nd_pcaga_1994.pdf"
+    volume: "ga22_1994"
+    pdf_page: 292
+    url: "https://www.pcahistory.org/pca/ga/22nd_pcaga_1994.pdf#page=292"
+---
 # Heritage Presbytery — WCF § 28-4
 
 *6: The Care Committee did not report on the ruling elder who does not hold to…*

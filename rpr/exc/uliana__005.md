@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga23_1995"
+    label: "Minutes PDF · p. 193"
+    file: "23rd_pcaga_1995.pdf"
+    volume: "ga23_1995"
+    pdf_page: 193
+    url: "https://www.pcahistory.org/pca/ga/23rd_pcaga_1995.pdf#page=193"
+---
 # Uliana Presbytery — BCO 20-1)
 
 *There is no copy of the call appended to the minutes (BCO 20-1). Respoase: See…*

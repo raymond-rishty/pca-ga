@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga19_1991"
+    label: "Minutes PDF · p. 183"
+    file: "19th_pcaga_1991.pdf"
+    volume: "ga19_1991"
+    pdf_page: 183
+    url: "https://www.pcahistory.org/pca/ga/19th_pcaga_1991.pdf#page=183"
+---
 # Heritage Presbytery — WCF 21-8, BCO 48-1-
 
 *Page 18, 9.2 Exception taken by a teaching elder from another denomination to…*

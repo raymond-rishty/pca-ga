@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga33_2005"
+    label: "Minutes PDF · p. 302"
+    file: "33rd_pcaga_2005.pdf"
+    volume: "ga33_2005"
+    pdf_page: 302
+    url: "https://www.pcahistory.org/pca/ga/33rd_pcaga_2005.pdf#page=302"
+---
 # Ohio Valley Presbytery — BCO 13-7
 
 *No record of TE signing ministerial obligation form. BCO…*

@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga31_2003"
+    label: "Minutes PDF · p. 251"
+    file: "31st_pcaga_2003.pdf"
+    volume: "ga31_2003"
+    pdf_page: 251
+    url: "https://www.pcahistory.org/pca/ga/31st_pcaga_2003.pdf#page=251"
+---
 # South Coast Presbytery — BCO 15-3, BCO 34-7, BCO 366, BCO 38-1
 
 *January 26, 2002: Presbytery imposed the censure of definite suspension upon a…*

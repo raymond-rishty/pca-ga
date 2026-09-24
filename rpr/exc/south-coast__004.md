@@ -1,3 +1,27 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga31_2003"
+    label: "Minutes PDF · p. 251"
+    file: "31st_pcaga_2003.pdf"
+    volume: "ga31_2003"
+    pdf_page: 251
+    url: "https://www.pcahistory.org/pca/ga/31st_pcaga_2003.pdf#page=251"
+  - type: "minutes"
+    source_id: "minutes:ga32_2004"
+    label: "Minutes PDF · p. 238"
+    file: "32nd_pcaga_2004.pdf"
+    volume: "ga32_2004"
+    pdf_page: 238
+    url: "https://www.pcahistory.org/pca/ga/32nd_pcaga_2004.pdf#page=238"
+  - type: "minutes"
+    source_id: "minutes:ga33_2005"
+    label: "Minutes PDF · p. 310"
+    file: "33rd_pcaga_2005.pdf"
+    volume: "ga33_2005"
+    pdf_page: 310
+    url: "https://www.pcahistory.org/pca/ga/33rd_pcaga_2005.pdf#page=310"
+---
 # South Coast Presbytery — BCO 13-6
 
 *January 26, 2002: No list of exam elements. BCO 13-6; 21-4; “RAO”…*

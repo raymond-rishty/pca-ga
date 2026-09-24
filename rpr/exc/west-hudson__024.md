@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga51_2024"
+    label: "Minutes PDF · p. 699"
+    file: "51st_pcaga_2024.pdf"
+    volume: "ga51_2024"
+    pdf_page: 699
+    url: "https://www.pcahistory.org/pca/ga/51st_pcaga_2024.pdf#page=699"
+---
 # West Hudson Presbytery — BCO 40-4
 
 *Presbytery failed to “deliberate and judge in the whole matter” regarding a…*

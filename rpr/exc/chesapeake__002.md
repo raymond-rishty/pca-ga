@@ -1,3 +1,20 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga35_2007"
+    label: "Minutes PDF · p. 177"
+    file: "35th_pcaga_2007.pdf"
+    volume: "ga35_2007"
+    pdf_page: 177
+    url: "https://www.pcahistory.org/pca/ga/35th_pcaga_2007.pdf#page=177"
+  - type: "minutes"
+    source_id: "minutes:ga36_2008"
+    label: "Minutes PDF · p. 217"
+    file: "36th_pcaga_2008.pdf"
+    volume: "ga36_2008"
+    pdf_page: 217
+    url: "https://www.pcahistory.org/pca/ga/36th_pcaga_2008.pdf#page=217"
+---
 # Chesapeake Presbytery — BCO 21-4, RAO 16-3.e.5)
 
 *: No action taken on exceptions to Westminster Standards. BCO 21-4 (ref. RAO…*

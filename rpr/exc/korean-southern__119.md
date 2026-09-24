@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga44_2016"
+    label: "Minutes PDF · p. 422"
+    file: "44th_pcaga_2016.pdf"
+    volume: "ga44_2016"
+    pdf_page: 422
+    url: "https://www.pcahistory.org/pca/ga/44th_pcaga_2016.pdf#page=422"
+---
 # Korean Southern Presbytery — BCO 13-4
 
 *Quorum not…*

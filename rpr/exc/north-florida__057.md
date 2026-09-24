@@ -1,3 +1,20 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga49_2022"
+    label: "Minutes PDF · p. 594"
+    file: "49th_pcaga_2022.pdf"
+    volume: "ga49_2022"
+    pdf_page: 594
+    url: "https://www.pcahistory.org/pca/ga/49th_pcaga_2022.pdf#page=594"
+  - type: "minutes"
+    source_id: "minutes:ga50_2023"
+    label: "Minutes PDF · p. 668"
+    file: "50th_pcaga_2023.pdf"
+    volume: "ga50_2023"
+    pdf_page: 668
+    url: "https://www.pcahistory.org/pca/ga/50th_pcaga_2023.pdf#page=668"
+---
 # North Florida Presbytery — BCO 19-2.d
 
 *All specific requirements of licensure exam not…*

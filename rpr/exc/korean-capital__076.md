@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga50_2023"
+    label: "Minutes PDF · p. 605"
+    file: "50th_pcaga_2023.pdf"
+    volume: "ga50_2023"
+    pdf_page: 605
+    url: "https://www.pcahistory.org/pca/ga/50th_pcaga_2023.pdf#page=605"
+---
 # Korean Capital Presbytery — BCO 20-1, RAO 16
 
 *( BCO 20-1; RAO 16 3.e.6) – No record that call was…*

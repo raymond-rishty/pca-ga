@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga49_2022"
+    label: "Minutes PDF · p. 597"
+    file: "49th_pcaga_2022.pdf"
+    volume: "ga49_2022"
+    pdf_page: 597
+    url: "https://www.pcahistory.org/pca/ga/49th_pcaga_2022.pdf#page=597"
+---
 # Northern California Presbytery — BCO 21-7
 
 *In assistant pastor ordination commission minutes, chairman propounded…*

@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga51_2024"
+    label: "Minutes PDF · p. 591"
+    file: "51st_pcaga_2024.pdf"
+    volume: "ga51_2024"
+    pdf_page: 591
+    url: "https://www.pcahistory.org/pca/ga/51st_pcaga_2024.pdf#page=591"
+---
 # Missouri Presbytery — BCO 23-2
 
 *A minister who is honorably retired was released to the care of a church…*

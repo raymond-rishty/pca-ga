@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga26_1998"
+    label: "Minutes PDF · p. 249"
+    file: "26th_pcaga_1998.pdf"
+    volume: "ga26_1998"
+    pdf_page: 249
+    url: "https://www.pcahistory.org/pca/ga/26th_pcaga_1998.pdf#page=249"
+---
 # Northeast Presbytery — BCO 21-
 
 *Presbytery adopted a clarification of BCO 21- 4 which removes the significance…*

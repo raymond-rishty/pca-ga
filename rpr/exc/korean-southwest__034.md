@@ -1,3 +1,20 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga29_2001"
+    label: "Minutes PDF · p. 340"
+    file: "29th_pcaga_2001.pdf"
+    volume: "ga29_2001"
+    pdf_page: 340
+    url: "https://www.pcahistory.org/pca/ga/29th_pcaga_2001.pdf#page=340"
+  - type: "minutes"
+    source_id: "minutes:ga32_2004"
+    label: "Minutes PDF · p. 222"
+    file: "32nd_pcaga_2004.pdf"
+    volume: "ga32_2004"
+    pdf_page: 222
+    url: "https://www.pcahistory.org/pca/ga/32nd_pcaga_2004.pdf#page=222"
+---
 # Korean Southwest Presbytery — RAO 14-3.e.5)
 
 *parts of examination should be listed (RAO…*

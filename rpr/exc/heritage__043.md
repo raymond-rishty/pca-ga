@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga40_2012"
+    label: "Minutes PDF · p. 428"
+    file: "40th_pcaga_2012.pdf"
+    volume: "ga40_2012"
+    pdf_page: 428
+    url: "https://www.pcahistory.org/pca/ga/40th_pcaga_2012.pdf#page=428"
+---
 # Heritage Presbytery — BCO 30-3, BCO 37-1
 
 *November 12, 2011 ( BCO 30-3 and BCO 37-1) presbytery approved a committee…*

@@ -1,3 +1,20 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga47_2019"
+    label: "Minutes PDF · p. 463"
+    file: "47th_pcaga_2019.pdf"
+    volume: "ga47_2019"
+    pdf_page: 463
+    url: "https://www.pcahistory.org/pca/ga/47th_pcaga_2019.pdf#page=463"
+  - type: "minutes"
+    source_id: "minutes:ga48_2021"
+    label: "Minutes PDF · p. 568"
+    file: "48th_pcaga_2021.pdf"
+    volume: "ga48_2021"
+    pdf_page: 568
+    url: "https://www.pcahistory.org/pca/ga/48th_pcaga_2021.pdf#page=568"
+---
 # Eastern Carolina Presbytery — BCO 21-4.e, RAO 16-3.e.5.c
 
 *( BCO 21-4.e; 40-2; RAO 16-3.e.5.c; and WCF 8-2) – The following sentence in a…*

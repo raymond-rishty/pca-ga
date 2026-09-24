@@ -1,3 +1,18 @@
+---
+source_links:
+  - type: "dedicated"
+    source_id: "study-pdf:2-159"
+    label: "Dedicated source PDF"
+    file: "2-159.pdf"
+    url: "https://www.pcahistory.org/pca/digest/studies/2-159.pdf"
+  - type: "minutes"
+    source_id: "minutes:ga06_1978"
+    label: "Minutes PDF · p. 177"
+    file: "6th_pcaga_1978.pdf"
+    volume: "ga06_1978"
+    pdf_page: 177
+    url: "https://www.pcahistory.org/pca/ga/6th_pcaga_1978.pdf#page=177"
+---
 # Committee on Diaconal Ministries
 
 *Report of the Sub-Committee on Diaconal Ministries*

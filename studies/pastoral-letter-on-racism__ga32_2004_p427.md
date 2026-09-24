@@ -1,3 +1,20 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga32_2004"
+    label: "Minutes PDF · p. 429"
+    file: "32nd_pcaga_2004.pdf"
+    volume: "ga32_2004"
+    pdf_page: 429
+    url: "https://www.pcahistory.org/pca/ga/32nd_pcaga_2004.pdf#page=429"
+  - type: "minutes"
+    source_id: "minutes:ga32_2004"
+    label: "Minutes PDF · p. 456"
+    file: "32nd_pcaga_2004.pdf"
+    volume: "ga32_2004"
+    pdf_page: 456
+    url: "https://www.pcahistory.org/pca/ga/32nd_pcaga_2004.pdf#page=456"
+---
 # PASTORAL LETTER ON RACISM
 
 *PASTORAL LETTER ON RACISM*

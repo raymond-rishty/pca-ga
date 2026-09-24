@@ -1,3 +1,20 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga25_1997"
+    label: "Minutes PDF · p. 222"
+    file: "25th_pcaga_1997.pdf"
+    volume: "ga25_1997"
+    pdf_page: 222
+    url: "https://www.pcahistory.org/pca/ga/25th_pcaga_1997.pdf#page=222"
+  - type: "minutes"
+    source_id: "minutes:ga26_1998"
+    label: "Minutes PDF · p. 255"
+    file: "26th_pcaga_1998.pdf"
+    volume: "ga26_1998"
+    pdf_page: 255
+    url: "https://www.pcahistory.org/pca/ga/26th_pcaga_1998.pdf#page=255"
+---
 # Tennessee Valley Presbytery — RAO 14-3.e.4
 
 *Commission to ordain and install did not report as required by RAO…*

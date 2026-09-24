@@ -1,3 +1,13 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga23_1995"
+    label: "Minutes PDF · p. 193"
+    file: "23rd_pcaga_1995.pdf"
+    volume: "ga23_1995"
+    pdf_page: 193
+    url: "https://www.pcahistory.org/pca/ga/23rd_pcaga_1995.pdf#page=193"
+---
 # Korean Capital Presbytery — BCO 13-9b), BCO 19-2), BCO 19-2, BCO 21-4), BCO 21-11)
 
 *No Rolls, Directory, or Standing Rules. There is no record of annual review by…*

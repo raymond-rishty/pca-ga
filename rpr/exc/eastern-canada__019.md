@@ -1,3 +1,20 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga43_2015"
+    label: "Minutes PDF · p. 434"
+    file: "43rd_pcaga_2015.pdf"
+    volume: "ga43_2015"
+    pdf_page: 434
+    url: "https://www.pcahistory.org/pca/ga/43rd_pcaga_2015.pdf#page=434"
+  - type: "minutes"
+    source_id: "minutes:ga44_2016"
+    label: "Minutes PDF · p. 407"
+    file: "44th_pcaga_2016.pdf"
+    volume: "ga44_2016"
+    pdf_page: 407
+    url: "https://www.pcahistory.org/pca/ga/44th_pcaga_2016.pdf#page=407"
+---
 # Eastern Canada Presbytery — BCO 13-6, BCO 21-4, BCO 19-16
 
 *– No record of exam or waiving internship for minister transferring from…*

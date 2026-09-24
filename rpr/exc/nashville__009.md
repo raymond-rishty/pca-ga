@@ -1,3 +1,20 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga28_2000"
+    label: "Minutes PDF · p. 334"
+    file: "28th_pcaga_2000.pdf"
+    volume: "ga28_2000"
+    pdf_page: 334
+    url: "https://www.pcahistory.org/pca/ga/28th_pcaga_2000.pdf#page=334"
+  - type: "minutes"
+    source_id: "minutes:ga33_2005"
+    label: "Minutes PDF · p. 295"
+    file: "33rd_pcaga_2005.pdf"
+    volume: "ga33_2005"
+    pdf_page: 295
+    url: "https://www.pcahistory.org/pca/ga/33rd_pcaga_2005.pdf#page=295"
+---
 # Nashville Presbytery — BCO 21-4
 
 *November 8, 2003: Exceptions to Westminster Confession of Faith not recorded.…*

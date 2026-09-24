@@ -1,3 +1,20 @@
+---
+source_links:
+  - type: "minutes"
+    source_id: "minutes:ga42_2014"
+    label: "Minutes PDF · p. 456"
+    file: "42nd_pcaga_2014.pdf"
+    volume: "ga42_2014"
+    pdf_page: 456
+    url: "https://www.pcahistory.org/pca/ga/42nd_pcaga_2014.pdf#page=456"
+  - type: "minutes"
+    source_id: "minutes:ga43_2015"
+    label: "Minutes PDF · p. 478"
+    file: "43rd_pcaga_2015.pdf"
+    volume: "ga43_2015"
+    pdf_page: 478
+    url: "https://www.pcahistory.org/pca/ga/43rd_pcaga_2015.pdf#page=478"
+---
 # Southwest Presbytery — BCO 13-7
 
 *Ministerial obligation not shown to be…*
