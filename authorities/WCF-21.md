@@ -18,7 +18,12 @@
 
 | Year | Type | Title | Disposition |
 |------|------|-------|-------------|
+| 1998 | RPR exception | [Central Carolina: July 19, 1997; Presbytery approved a TE for reception into the Presbytery, who took except](../rpr/exc/central-carolina__002.html) | raised |
 | 2002 | RPR exception | [South Texas: No record of substance given on the nature of the individual’s exception regarding the Sab](../rpr/exc/south-texas__026.html) | raised |
+| 2010 | RPR exception | [Southwest: No record of requiring candidate to state differences with the Standards](../rpr/exc/southwest__038.html) | satisfactory |
+| 2019 | RPR exception | [Providence: Stated differences not recorded in candidate’s own words.](../rpr/exc/providence__034.html) | satisfactory |
+| 2021 | RPR exception | [Chicago Metro: No record of candidate’s ([name omitted]) differences with standards.](../rpr/exc/chicago-metro__035.html) | satisfactory |
+| 2022 | RPR exception | [Warrior: Stated differences not judged with the prescribed categories.](../rpr/exc/warrior__065.html) | satisfactory |
 
 ---
 *[← Authority Index](../index/AUTHORITY-BY-PROVISION.md)*

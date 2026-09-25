@@ -17,6 +17,46 @@ from urllib.parse import urlsplit
 
 
 CATALOGUE_SCHEMA_VERSION = 1
+LOW_CONFIDENCE_REVIEW_FLOOR = 0.5
+DISCUSSION_LABELS = {
+    "Judicial case": {
+        "applied_by_majority": "Applied in the majority opinion",
+    },
+    "RPR exception": {
+        "exception_target": "Exception addresses this provision",
+        "substantive_treatment": "Discusses this provision",
+    },
+    "Overture": {
+        "amendment_target": "Proposes a change",
+    },
+    "CCB advice": {
+        "direct_interpretation": "Discusses or applies this provision",
+    },
+    "Constitutional inquiry": {
+        "direct_interpretation": "Discusses or applies this provision",
+    },
+}
+CITATION_LABELS = {
+    "Judicial case": {
+        "material_to_majority_issue": "Relevant to a majority issue",
+    },
+    "Overture": {
+        "materially_affected": "Proposal affects this provision",
+    },
+    "CCB advice": {
+        "material_to_answer": "Relevant to the response",
+    },
+    "Constitutional inquiry": {
+        "material_to_answer": "Relevant to the response",
+    },
+}
+PRESENTATION_GROUPS = {
+    "discusses": "Discusses this provision",
+    "cites": "Cites this provision",
+    "other_case_discussion": "Other discussion in the case",
+    "other_mentions": "Other mentions",
+    "review": "References to review",
+}
 INPUTS = (
     "index/cases.jsonl",
     "index/case_pages_map.json",
@@ -31,6 +71,36 @@ INPUTS = (
     "index/bco_changes.jsonl",
     "index/bco_renumberings.jsonl",
 )
+
+
+def reference_presentation(relationship: dict[str, Any]) -> dict[str, str | None]:
+    """Return the reader-facing grouping without exposing assessment internals."""
+    assessment = relationship.get("relevance_assessment") or {}
+    if not assessment:
+        return {"group": "review", "label": None}
+
+    role = str(assessment.get("role") or "")
+    try:
+        confidence = float(assessment.get("confidence", 0))
+    except (TypeError, ValueError):
+        confidence = 0.0
+    if (role in {"insufficient_source", "unrelated_or_mislinked"}
+            or confidence < LOW_CONFIDENCE_REVIEW_FLOOR):
+        return {"group": "review", "label": None}
+    if role == "substantive_nonmajority_only":
+        return {
+            "group": "other_case_discussion",
+            "label": PRESENTATION_GROUPS["other_case_discussion"],
+        }
+    if role == "incidental_reference":
+        return {"group": "other_mentions", "label": "Brief mention"}
+
+    record_type = str(relationship.get("type") or "")
+    if label := DISCUSSION_LABELS.get(record_type, {}).get(role):
+        return {"group": "discusses", "label": label}
+    if label := CITATION_LABELS.get(record_type, {}).get(role):
+        return {"group": "cites", "label": label}
+    return {"group": "review", "label": None}
 
 
 def read_json(path: Path, default: Any) -> Any:
@@ -100,9 +170,10 @@ def _authority_rows(root: Path, canonical_id=None) -> list[dict[str, Any]]:
                 "url": item.get("url", ""),
             })
 
-        # RPR search rows contain curated BCO-section tags, but preliminary
-        # principles are often named only in the exception text. Reuse the same
-        # audited text parser used for judicial cases to add those occurrences.
+        # RPR search rows contain parsed BCO/RAO tags, but Westminster citations
+        # and preliminary principles also appear in the record text. Reuse the
+        # audited citation parser for those references; recover other BCO cites
+        # only from explicit Exception lines to avoid treating responses as exceptions.
         parser = _load_module(root / "scripts" / "44_case_provision_index.py",
                               "pca_provision_reference_parser", root)
         for item in read_json(root / "index" / "rpr_search.json", []):
@@ -111,23 +182,19 @@ def _authority_rows(root: Path, canonical_id=None) -> list[dict[str, Any]]:
             if not source_path.is_file():
                 continue
             title = f"{item.get('presbytery', '')}: {item.get('title', '')}".strip(": ")
-            for provision, hits in parser.text_hits(source_path).items():
-                identifier = canonical_id(provision) or ""
-                if not identifier.startswith("bco:pp-"):
-                    continue
-                for hit in hits:
-                    rows.append({
-                        "provision": provision,
-                        "type": "RPR exception",
-                        "authority_weight": "low-but-important",
-                        "title": title,
-                        "year": item.get("year"),
-                        "disposition": item.get("disposition", ""),
-                        "url": url,
-                        "snippet": hit.get("snippet", ""),
-                        "evidence_line": hit.get("line"),
-                        "evidence_source": "rpr_markdown_text",
-                    })
+            for evidence in _rpr_direct_evidence(parser, source_path, canonical_id):
+                rows.append({
+                    "provision": evidence["provision"],
+                    "type": "RPR exception",
+                    "authority_weight": "low-but-important",
+                    "title": title,
+                    "year": item.get("year"),
+                    "disposition": item.get("disposition", ""),
+                    "url": url,
+                    "snippet": evidence["snippet"],
+                    "evidence_line": evidence["line"],
+                    "evidence_source": evidence["source"],
+                })
 
     for item in read_json(root / "index" / "inquiries_search.json", []):
         if item.get("type") != "ccb-advice":
@@ -146,9 +213,44 @@ def _authority_rows(root: Path, canonical_id=None) -> list[dict[str, Any]]:
     return rows
 
 
+_RPR_EXCEPTION_HEADER = re.compile(
+    r"^\s*(?:>\s*)?(?:[-*]\s*)?(?:\*\*|__)?Exception\s*:", re.I
+)
+
+
+def _rpr_direct_evidence(parser, source_path: Path, canonical_id) -> list[dict[str, Any]]:
+    """Return PP/Westminster citations from RPR text and other cites on exception headers."""
+    raw_lines = source_path.read_text(encoding="utf-8").splitlines()
+    body_lines, skipped_lines = parser.markdown_body_lines("\n".join(raw_lines))
+    exception_lines = {
+        line_number
+        for line_number, line in enumerate(body_lines, start=skipped_lines + 1)
+        if _RPR_EXCEPTION_HEADER.match(line)
+    }
+
+    evidence: list[dict[str, Any]] = []
+    for provision, hits in parser.text_hits(source_path).items():
+        identifier = canonical_id(provision) or ""
+        is_preliminary_principle = identifier.startswith("bco:pp-")
+        is_westminster = identifier.startswith(("wcf:", "wlc:", "wsc:"))
+        for hit in hits:
+            is_exception_header = hit.get("line") in exception_lines
+            if not is_preliminary_principle and not is_westminster and not is_exception_header:
+                continue
+            evidence.append({
+                "provision": provision,
+                "line": hit.get("line"),
+                "snippet": hit.get("snippet", ""),
+                "source": ("rpr_exception_header" if is_exception_header
+                           else "rpr_markdown_text"),
+            })
+    return evidence
+
+
 def _input_fingerprint(root: Path, reader_dir: Path, reader_meta: dict[str, str]) -> tuple[str, list[dict[str, str]]]:
     paths = [root / relative for relative in INPUTS]
     paths.extend(sorted((root / "cases").glob("*.md")))
+    paths.extend(sorted((root / "inquiries").glob("*.md")))
     paths.extend(sorted((root / "rpr" / "exc").glob("*.md")))
     inputs = []
     for path in sorted(set(paths), key=lambda item: item.as_posix()):
@@ -278,6 +380,61 @@ def _strip_fragment(url: str) -> str:
     return parts._replace(fragment="").geturl()
 
 
+def _apply_link_assessments(root: Path, source_fingerprint: str,
+                            units: list[dict[str, Any]]) -> tuple[str, dict[str, Any]]:
+    """Attach current advisory assessments without replacing editorial status."""
+    path = root / "index" / "provision_link_adjudications.jsonl"
+    if not path.is_file():
+        return "", {"status": "missing", "file": "index/provision_link_adjudications.jsonl",
+                    "total": 0, "applied": 0, "stale": 0, "unmatched": 0}
+    digest = hashlib.sha256(path.read_bytes()).hexdigest()
+    relationships = {
+        relation["id"]: relation
+        for unit in units for relation in unit.get("relationships") or []
+    }
+    seen: set[str] = set()
+    applied = stale = unmatched = 0
+    for row in read_jsonl(path):
+        relationship_id = str(row.get("relationship_id") or "")
+        if not relationship_id:
+            continue
+        if relationship_id in seen:
+            raise ValueError(f"Duplicate provision-link assessment: {relationship_id}")
+        seen.add(relationship_id)
+        if row.get("catalogue_input_fingerprint") != source_fingerprint:
+            stale += 1
+            continue
+        relation = relationships.get(relationship_id)
+        if relation is None:
+            unmatched += 1
+            continue
+        relation["relevance_assessment"] = {
+            "role": row.get("role"),
+            "confidence": row.get("confidence"),
+            "probabilities": row.get("probabilities") or {},
+            "model": row.get("model"),
+            "rubric_version": row.get("rubric_version"),
+            "source_scope": row.get("source_scope"),
+            "source_sha256": row.get("source_sha256"),
+            "source_input_sha256": row.get("source_input_sha256") or "",
+            "evidence_basis": row.get("evidence_basis") or relation.get("evidence_basis", ""),
+            "source_catalogue_fingerprint": row.get("catalogue_input_fingerprint"),
+            "adjudicated_at_utc": row.get("adjudicated_at_utc"),
+        }
+        applied += 1
+    expected = len(relationships)
+    if stale:
+        status = "stale"
+    elif applied == expected and not unmatched:
+        status = "current"
+    else:
+        status = "partial"
+    return digest, {"status": status, "file": "index/provision_link_adjudications.jsonl",
+                    "total": len(seen), "expected": expected, "applied": applied,
+                    "stale": stale, "unmatched": unmatched,
+                    "unassessed": max(0, expected - applied)}
+
+
 def build_catalogue(root: Path, reader_dir: Path) -> dict[str, Any]:
     """Join current provision text and curated references once for all projections."""
     root = root.resolve()
@@ -388,6 +545,7 @@ def build_catalogue(root: Path, reader_dir: Path) -> dict[str, Any]:
             history["id"] = hashlib.sha256(key.encode("utf-8")).hexdigest()[:20]
 
     fingerprint, inputs = _input_fingerprint(root, reader_dir, reader_meta)
+    assessment_fingerprint, assessment_summary = _apply_link_assessments(root, fingerprint, units)
     return {
         "schema_version": CATALOGUE_SCHEMA_VERSION,
         "catalogue_version": 1,
@@ -399,6 +557,8 @@ def build_catalogue(root: Path, reader_dir: Path) -> dict[str, Any]:
         },
         "input_fingerprint": fingerprint,
         "input_files": inputs,
+        "assessment_fingerprint": assessment_fingerprint,
+        "assessment_summary": assessment_summary,
         "relationship_count": sum(len(unit["relationships"]) for unit in units),
         "unmatched_relationships": sorted(unmatched.values(), key=lambda item: (
             item["provision"], item["record_type"], item["record_id"]
@@ -451,6 +611,7 @@ def authority_projection(catalogue: dict[str, Any]) -> list[dict[str, Any]]:
                 "relationship_id": relationship["id"],
                 "evidence_basis": relationship["evidence_basis"],
                 "relevance_status": relationship["relevance_status"],
+                "relevance_assessment": relationship.get("relevance_assessment"),
                 "occurrences": relationship["occurrences"],
                 **relationship.get("metadata", {}),
             })

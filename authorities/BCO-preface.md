@@ -13,5 +13,11 @@
 | 2007 | CCB advice | [Teaching Approved Exceptions](../inquiries/ga35_2007__ci04.md) | in conflict |
 | 2018 | CCB advice | [Altering and Refining the Language of BCO 59](../inquiries/ga46_2018__ci02.md) | in conflict |
 
+## Low-but-important
+
+| Year | Type | Title | Disposition |
+|------|------|-------|-------------|
+| 2010 | RPR exception | [Western Canada: presbytery may not appoint a session fora church without congregational approval prior to](../rpr/exc/western-canada__006.html) | satisfactory |
+
 ---
 *[← Authority Index](../index/AUTHORITY-BY-PROVISION.md)*

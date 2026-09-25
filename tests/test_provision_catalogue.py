@@ -18,6 +18,7 @@ from overture_catalogue import load_curated_overtures  # noqa: E402
 from provision_catalogue import (
     _evidence_basis,
     _relation_occurrences,
+    _rpr_direct_evidence,
     authority_projection,
     provision_search_rows,
 )  # noqa: E402
@@ -80,6 +81,41 @@ def _catalogue(*units: dict) -> dict:
 
 
 class ProvisionCatalogueTests(unittest.TestCase):
+    def test_rpr_exception_header_citation_is_indexed_as_direct_evidence(self):
+        evidence = _rpr_direct_evidence(
+            case_index,
+            ROOT / "rpr" / "exc" / "arizona__018.md",
+            research.canonical_id,
+        )
+        wlc119 = [row for row in evidence if research.canonical_id(row["provision"]) == "wlc:Q.119"]
+        self.assertEqual(len(wlc119), 1)
+        self.assertEqual(wlc119[0]["line"], 24)
+        self.assertEqual(wlc119[0]["source"], "rpr_exception_header")
+        self.assertIn("Exception: WLC 119", wlc119[0]["snippet"])
+
+    def test_rpr_westminster_citations_in_record_body_are_indexed(self):
+        evidence = _rpr_direct_evidence(
+            case_index,
+            ROOT / "rpr" / "exc" / "korean-central__121.md",
+            research.canonical_id,
+        )
+        wlc119 = [row for row in evidence if research.canonical_id(row["provision"]) == "wlc:Q.119"]
+        self.assertEqual([row["line"] for row in wlc119], [45, 96])
+        self.assertTrue(all(row["source"] == "rpr_markdown_text" for row in wlc119))
+
+    def test_rpr_body_fallback_keeps_uncatalogued_bco_cites_scoped_to_exception_headers(self):
+        with tempfile.TemporaryDirectory() as folder:
+            path = Path(folder) / "rpr.md"
+            path.write_text(
+                "# Exception\n\n**Exception: WLC 119**\n\n"
+                "**Response:** BCO 7-3 is mentioned here.\n",
+                encoding="utf-8",
+            )
+            evidence = _rpr_direct_evidence(case_index, path, research.canonical_id)
+        indexed = {research.canonical_id(row["provision"]) for row in evidence}
+        self.assertIn("wlc:Q.119", indexed)
+        self.assertNotIn("bco:7-3", indexed)
+
     def test_structured_case_tag_does_not_claim_direct_text_or_show_an_unrelated_excerpt(self):
         row = {"type": "Judicial case", "url": "cases/example.md", "snippet": "Unrelated opening text."}
         basis = _evidence_basis("Judicial case", row, None)
@@ -142,7 +178,7 @@ class ProvisionCatalogueTests(unittest.TestCase):
             alias = bco / "40-1.json"
             payload = json.loads(canonical.read_text(encoding="utf-8"))
             self.assertEqual(canonical.read_bytes(), alias.read_bytes())
-            self.assertEqual(payload["schema_version"], 2)
+            self.assertEqual(payload["schema_version"], 3)
             self.assertEqual(payload["id"], "bco:40-1")
             self.assertEqual(payload["current_text"]["text"], "Current text with emphasis.")
             self.assertEqual(payload["relationships"][0]["relevance_status"], "unreviewed")
@@ -154,7 +190,7 @@ class ProvisionCatalogueTests(unittest.TestCase):
             self.assertEqual(alias_count, 1)
             self.assertEqual(authority_projection(catalogue)[0]["relationship_id"], relation["id"])
             self.assertEqual(provision_search_rows(catalogue)[0]["provision_id"], "bco:40-1")
-            self.assertEqual(json.loads((bco / "index.json").read_text())["schema_version"], 2)
+            self.assertEqual(json.loads((bco / "index.json").read_text())["schema_version"], 3)
             rendered = research.render_unit(catalogue["provisions"][0], root, "/pca-ga", "abc123")
             self.assertIn(f'data-relationship-id="{relation["id"]}"', rendered)
             self.assertIn(f'data-record-id="{relation["record_id"]}"', rendered)

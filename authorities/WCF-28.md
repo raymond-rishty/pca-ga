@@ -15,5 +15,11 @@
 | 2022 | Judicial case | [Gordon v. Southern New England Presbytery](../cases/ga49_2022__2020-06.md) | denied |
 | 2023 | Judicial case | [Presbyterian Church in America v. TE Daniel Herron](../cases/ga50_2023__2022-10.md) | other |
 
+## Low-but-important
+
+| Year | Type | Title | Disposition |
+|------|------|-------|-------------|
+| 1995 | RPR exception | [Heritage: Minutes show that the ruling elder who does not hold to infant baptism was still on the se](../rpr/exc/heritage__013.html) | satisfactory |
+
 ---
 *[← Authority Index](../index/AUTHORITY-BY-PROVISION.md)*

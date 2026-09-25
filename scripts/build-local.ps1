@@ -172,9 +172,9 @@ try {
         $canonical = Get-Content (Join-Path $siteRoot 'api/provisions/bco/38-1.json') -Raw
         $bcoIndex = Get-Content (Join-Path $siteRoot 'api/bco/index.json') -Raw
         $llms = Get-Content (Join-Path $siteRoot 'llms.txt') -Raw
-        if ($manifest -cne $canonical -or $manifest -notmatch '"schema_version"\s*:\s*2' -or
-            $bcoIndex -notmatch '"schema_version"\s*:\s*2' -or $llms -notmatch '/api/provisions/index.json') {
-            throw 'The generated schema-v2 provision API, BCO compatibility copy, or llms.txt reference is missing.'
+        if ($manifest -cne $canonical -or $manifest -notmatch '"schema_version"\s*:\s*3' -or
+            $bcoIndex -notmatch '"schema_version"\s*:\s*3' -or $llms -notmatch '/api/provisions/index.json') {
+            throw 'The generated schema-v3 provision API, BCO compatibility copy, or llms.txt reference is missing.'
         }
     }
     Invoke-BuildStep 'Validate rendered extracted source PDF links' {

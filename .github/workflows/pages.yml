@@ -141,7 +141,7 @@ jobs:
           test -s _site/api/bco/38-1.json
           test -s _site/api/provisions/index.json
           test -s _site/api/provisions/bco/38-1.json
-          grep -Eq '"schema_version"[[:space:]]*:[[:space:]]*2' _site/api/bco/38-1.json
+          grep -Eq '"schema_version"[[:space:]]*:[[:space:]]*3' _site/api/bco/38-1.json
           cmp -s _site/api/bco/38-1.json _site/api/provisions/bco/38-1.json
           grep -q '/api/provisions/index.json' _site/llms.txt
       - name: Validate rendered extracted source PDF links

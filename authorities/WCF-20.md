@@ -20,5 +20,13 @@
 | 2005 | CCB advice | [Teaching Approved Exceptions](../inquiries/ga33_2005__ci03.md) | in conflict |
 | 2006 | CCB advice | [Teaching Approved Exceptions](../inquiries/ga34_2006__ci02.md) | in conflict |
 
+## Low-but-important
+
+| Year | Type | Title | Disposition |
+|------|------|-------|-------------|
+| 1997 | RPR exception | [Northern California: Presbytery approved the ordination of candidate whose views of Sabbath permitting work and](../rpr/exc/northern-california__007.html) | raised |
+| 1998 | RPR exception | [Northeast: presbytery approved the ordination of candidate whose views of sabbath permitting work and](../rpr/exc/northeast__023.html) | satisfactory |
+| 2022 | RPR exception | [Arizona: Sabbath” Games/activities on the Sabbath. “I believe it is lawful, and restful for people](../rpr/exc/arizona__018.html) | satisfactory |
+
 ---
 *[← Authority Index](../index/AUTHORITY-BY-PROVISION.md)*
