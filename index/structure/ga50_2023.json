@@ -665,203 +665,299 @@
        "label": "II",
        "title": "JUDICIAL CASES",
        "pdf_page": 784,
-       "printed_page": 776
+       "printed_page": 776,
+       "children": []
       },
       {
        "type": "section",
        "label": "III",
        "title": "REPORT OF THE CASES",
        "pdf_page": 785,
-       "printed_page": 777
-      },
-      {
-       "type": "section",
-       "label": "I",
-       "title": "SUMMARY OF THE FACTS",
-       "pdf_page": 786,
-       "printed_page": 778
-      },
-      {
-       "type": "section",
-       "label": "II",
-       "title": "STATEMENT OF THE ISSUES",
-       "pdf_page": 790,
-       "printed_page": 782
-      },
-      {
-       "type": "section",
-       "label": "III",
-       "title": "JUDGMENTS",
-       "pdf_page": 791,
-       "printed_page": 783
-      },
-      {
-       "type": "section",
-       "label": "IV",
-       "title": "REASONING AND OPINION",
-       "pdf_page": 791,
-       "printed_page": 783
-      },
-      {
-       "type": "section",
-       "label": "I",
-       "title": "SUMMARY OF THE FACTS",
-       "pdf_page": 805,
-       "printed_page": 797
-      },
-      {
-       "type": "section",
-       "label": "II",
-       "title": "STATEMENT OF THE ISSUE",
-       "pdf_page": 807,
-       "printed_page": 799
-      },
-      {
-       "type": "section",
-       "label": "III",
-       "title": "JUDGMENT",
-       "pdf_page": 807,
-       "printed_page": 799
-      },
-      {
-       "type": "section",
-       "label": "IV",
-       "title": "REASONING AND OPINION",
-       "pdf_page": 807,
-       "printed_page": 799
-      },
-      {
-       "type": "section",
-       "label": "I",
-       "title": "SUMMARY OF THE FACTS",
-       "pdf_page": 820,
-       "printed_page": 812
-      },
-      {
-       "type": "section",
-       "label": "II",
-       "title": "STATEMENT OF THE ISSUE",
-       "pdf_page": 825,
-       "printed_page": 817
-      },
-      {
-       "type": "section",
-       "label": "III",
-       "title": "JUDGMENT",
-       "pdf_page": 826,
-       "printed_page": 818
-      },
-      {
-       "type": "section",
-       "label": "IV",
-       "title": "REASONING AND OPINION",
-       "pdf_page": 826,
-       "printed_page": 818
-      },
-      {
-       "type": "section",
-       "label": "I",
-       "title": "SUMMARY OF THE CASE",
-       "pdf_page": 833,
-       "printed_page": 825
-      },
-      {
-       "type": "section",
-       "label": "II",
-       "title": "SUMMARY OF THE FACTS",
-       "pdf_page": 834,
-       "printed_page": 826
-      },
-      {
-       "type": "section",
-       "label": "III",
-       "title": "STATEMENT OF THE ISSUES",
-       "pdf_page": 839,
-       "printed_page": 831
-      },
-      {
-       "type": "section",
-       "label": "IV",
-       "title": "JUDGMENTS",
-       "pdf_page": 839,
-       "printed_page": 831
-      },
-      {
-       "type": "section",
-       "label": "V",
-       "title": "REASONING AND OPINION",
-       "pdf_page": 840,
-       "printed_page": 832
-      },
-      {
-       "type": "section",
-       "label": "I",
-       "title": "SUMMARY OF THE FACTS",
-       "pdf_page": 861,
-       "printed_page": 853
-      },
-      {
-       "type": "section",
-       "label": "II",
-       "title": "STATEMENT OF THE ISSUES",
-       "pdf_page": 868,
-       "printed_page": 860
-      },
-      {
-       "type": "section",
-       "label": "III",
-       "title": "JUDGMENT",
-       "pdf_page": 869,
-       "printed_page": 861
-      },
-      {
-       "type": "section",
-       "label": "IV",
-       "title": "REASONING AND OPINION",
-       "pdf_page": 869,
-       "printed_page": 861
-      },
-      {
-       "type": "section",
-       "label": "I",
-       "title": "SUMMARY OF FACTS",
-       "pdf_page": 893,
-       "printed_page": 885
-      },
-      {
-       "type": "section",
-       "label": "II",
-       "title": "STATEMENT OF THE ISSUES",
-       "pdf_page": 910,
-       "printed_page": 902
-      },
-      {
-       "type": "section",
-       "label": "III",
-       "title": "JUDGMENTS/VERDICTS",
-       "pdf_page": 911,
-       "printed_page": 903
-      },
-      {
-       "type": "section",
-       "label": "IV",
-       "title": "REASONING",
-       "pdf_page": 912,
-       "printed_page": 904
-      },
-      {
-       "type": "section",
-       "label": "IV",
-       "title": "PROPOSED AMENDMENTS",
-       "pdf_page": 967,
-       "printed_page": 959
-      },
-      {
-       "type": "section",
-       "label": "V",
-       "title": "ELECTION OF OFFICERS",
-       "pdf_page": 969,
-       "printed_page": 961
+       "printed_page": 777,
+       "children": [
+        {
+         "type": "case",
+         "label": "CASE NO. 2021-06",
+         "title": "COMPLAINT OF TE DANIEL HERRON et al. v. CENTRAL INDIANA PRESBYTERY",
+         "pdf_page": 785,
+         "printed_page": 777,
+         "children": [
+          {
+           "type": "section",
+           "label": "I",
+           "title": "SUMMARY OF THE FACTS",
+           "pdf_page": 786,
+           "printed_page": 778
+          },
+          {
+           "type": "section",
+           "label": "II",
+           "title": "STATEMENT OF THE ISSUES",
+           "pdf_page": 790,
+           "printed_page": 782
+          },
+          {
+           "type": "section",
+           "label": "III",
+           "title": "JUDGMENTS",
+           "pdf_page": 791,
+           "printed_page": 783
+          },
+          {
+           "type": "section",
+           "label": "IV",
+           "title": "REASONING AND OPINION",
+           "pdf_page": 791,
+           "printed_page": 783
+          },
+          {
+           "type": "section",
+           "label": "I",
+           "title": "SUMMARY OF THE FACTS",
+           "pdf_page": 805,
+           "printed_page": 797
+          },
+          {
+           "type": "section",
+           "label": "II",
+           "title": "STATEMENT OF THE ISSUE",
+           "pdf_page": 807,
+           "printed_page": 799
+          },
+          {
+           "type": "section",
+           "label": "III",
+           "title": "JUDGMENT",
+           "pdf_page": 807,
+           "printed_page": 799
+          },
+          {
+           "type": "section",
+           "label": "IV",
+           "title": "REASONING AND OPINION",
+           "pdf_page": 807,
+           "printed_page": 799
+          }
+         ]
+        },
+        {
+         "type": "case",
+         "label": "CASE NO. 2022-01",
+         "title": "EAGLE et al. v. SAVANNAH RIVER PRESBYTERY",
+         "pdf_page": 819,
+         "printed_page": 811,
+         "children": [
+          {
+           "type": "section",
+           "label": "I",
+           "title": "SUMMARY OF THE FACTS",
+           "pdf_page": 820,
+           "printed_page": 812
+          },
+          {
+           "type": "section",
+           "label": "II",
+           "title": "STATEMENT OF THE ISSUE",
+           "pdf_page": 825,
+           "printed_page": 817
+          },
+          {
+           "type": "section",
+           "label": "III",
+           "title": "JUDGMENT",
+           "pdf_page": 826,
+           "printed_page": 818
+          },
+          {
+           "type": "section",
+           "label": "IV",
+           "title": "REASONING AND OPINION",
+           "pdf_page": 826,
+           "printed_page": 818
+          }
+         ]
+        },
+        {
+         "type": "case",
+         "label": "CASE NO. 2022-04",
+         "title": "TE CRAIG SHEPPARD v. HIGHLANDS PRESBYTERY, DECISION ON COMPLAINT",
+         "pdf_page": 833,
+         "printed_page": 825,
+         "children": [
+          {
+           "type": "section",
+           "label": "I",
+           "title": "SUMMARY OF THE CASE",
+           "pdf_page": 833,
+           "printed_page": 825
+          },
+          {
+           "type": "section",
+           "label": "II",
+           "title": "SUMMARY OF THE FACTS",
+           "pdf_page": 834,
+           "printed_page": 826
+          },
+          {
+           "type": "section",
+           "label": "III",
+           "title": "STATEMENT OF THE ISSUES",
+           "pdf_page": 839,
+           "printed_page": 831
+          },
+          {
+           "type": "section",
+           "label": "IV",
+           "title": "JUDGMENTS",
+           "pdf_page": 839,
+           "printed_page": 831
+          },
+          {
+           "type": "section",
+           "label": "V",
+           "title": "REASONING AND OPINION",
+           "pdf_page": 840,
+           "printed_page": 832
+          }
+         ]
+        },
+        {
+         "type": "case",
+         "label": "CASE NO. 2022-06",
+         "title": "",
+         "pdf_page": 860,
+         "printed_page": 852,
+         "children": []
+        },
+        {
+         "type": "case",
+         "label": "CASE NO. 2022-07",
+         "title": "",
+         "pdf_page": 860,
+         "printed_page": 852,
+         "children": [
+          {
+           "type": "section",
+           "label": "I",
+           "title": "SUMMARY OF THE FACTS",
+           "pdf_page": 861,
+           "printed_page": 853
+          },
+          {
+           "type": "section",
+           "label": "II",
+           "title": "STATEMENT OF THE ISSUES",
+           "pdf_page": 868,
+           "printed_page": 860
+          },
+          {
+           "type": "section",
+           "label": "III",
+           "title": "JUDGMENT",
+           "pdf_page": 869,
+           "printed_page": 861
+          },
+          {
+           "type": "section",
+           "label": "IV",
+           "title": "REASONING AND OPINION",
+           "pdf_page": 869,
+           "printed_page": 861
+          }
+         ]
+        },
+        {
+         "type": "case",
+         "label": "CASE NO. 2022-09",
+         "title": "",
+         "pdf_page": 891,
+         "printed_page": 883,
+         "children": []
+        },
+        {
+         "type": "case",
+         "label": "CASE NO. 2022-10",
+         "title": "PRESBYTERIAN CHURCH IN AMERICA v. TE DANIEL HERRON",
+         "pdf_page": 892,
+         "printed_page": 884,
+         "children": [
+          {
+           "type": "section",
+           "label": "I",
+           "title": "SUMMARY OF FACTS",
+           "pdf_page": 893,
+           "printed_page": 885
+          },
+          {
+           "type": "section",
+           "label": "II",
+           "title": "STATEMENT OF THE ISSUES",
+           "pdf_page": 910,
+           "printed_page": 902
+          },
+          {
+           "type": "section",
+           "label": "III",
+           "title": "JUDGMENTS/VERDICTS",
+           "pdf_page": 911,
+           "printed_page": 903
+          },
+          {
+           "type": "section",
+           "label": "IV",
+           "title": "REASONING",
+           "pdf_page": 912,
+           "printed_page": 904
+          }
+         ]
+        },
+        {
+         "type": "case",
+         "label": "CASE NO. 2022-12",
+         "title": "BCO 34-1 PETITIONS RE: MISSOURI PRESBYTERY",
+         "pdf_page": 927,
+         "printed_page": 919,
+         "children": []
+        },
+        {
+         "type": "case",
+         "label": "CASE NO. 2022-14",
+         "title": "TE SUNG BOK OH v. KOREAN SOUTHEAST PRESBYTERY",
+         "pdf_page": 931,
+         "printed_page": 923,
+         "children": []
+        },
+        {
+         "type": "case",
+         "label": "CASE NO. 2022-15",
+         "title": "RE TERRY MURDOCK v. SOUTH FLORIDA PRESBYTERY",
+         "pdf_page": 932,
+         "printed_page": 924,
+         "children": []
+        },
+        {
+         "type": "case",
+         "label": "CASE NO. 2022-16",
+         "title": "",
+         "pdf_page": 932,
+         "printed_page": 924,
+         "children": []
+        },
+        {
+         "type": "section",
+         "label": "IV",
+         "title": "PROPOSED AMENDMENTS",
+         "pdf_page": 967,
+         "printed_page": 959
+        },
+        {
+         "type": "section",
+         "label": "V",
+         "title": "ELECTION OF OFFICERS",
+         "pdf_page": 969,
+         "printed_page": 961
+        }
+       ]
       }
      ]
     },

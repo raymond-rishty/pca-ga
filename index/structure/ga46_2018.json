@@ -404,7 +404,8 @@
        "label": "II",
        "title": "JUDICIAL CASES",
        "pdf_page": 500,
-       "printed_page": 498
+       "printed_page": 498,
+       "children": []
       }
      ]
     },
@@ -420,182 +421,277 @@
        "label": "III",
        "title": "REPORT OF THE CASES",
        "pdf_page": 502,
-       "printed_page": 500
-      },
-      {
-       "type": "section",
-       "label": "I",
-       "title": "SUMMARY OF THE FACTS",
-       "pdf_page": 503,
-       "printed_page": 501
-      },
-      {
-       "type": "section",
-       "label": "II",
-       "title": "STATEMENT OF THE ISSUE",
-       "pdf_page": 505,
-       "printed_page": 503
-      },
-      {
-       "type": "section",
-       "label": "III",
-       "title": "JUDGMENT",
-       "pdf_page": 505,
-       "printed_page": 503
-      },
-      {
-       "type": "section",
-       "label": "IV",
-       "title": "REASONING AND OPINION",
-       "pdf_page": 506,
-       "printed_page": 504
-      },
-      {
-       "type": "section",
-       "label": "I",
-       "title": "SUMMARY OF THE FACTS",
-       "pdf_page": 528,
-       "printed_page": 526
-      },
-      {
-       "type": "section",
-       "label": "II",
-       "title": "STATEMENT OF THE ISSUE",
-       "pdf_page": 531,
-       "printed_page": 529
-      },
-      {
-       "type": "section",
-       "label": "III",
-       "title": "JUDGMENT",
-       "pdf_page": 531,
-       "printed_page": 529
-      },
-      {
-       "type": "section",
-       "label": "I",
-       "title": "SUMMARY OF THE FACTS",
-       "pdf_page": 538,
-       "printed_page": 536
-      },
-      {
-       "type": "section",
-       "label": "II",
-       "title": "STATEMENT OF THE ISSUE",
-       "pdf_page": 548,
-       "printed_page": 546
-      },
-      {
-       "type": "section",
-       "label": "III",
-       "title": "JUDGMENT",
-       "pdf_page": 548,
-       "printed_page": 546
-      },
-      {
-       "type": "section",
-       "label": "IV",
-       "title": "REASONING AND OPINION",
-       "pdf_page": 548,
-       "printed_page": 546
-      },
-      {
-       "type": "section",
-       "label": "I",
-       "title": "SUMMARY OF THE FACTS",
-       "pdf_page": 568,
-       "printed_page": 566
-      },
-      {
-       "type": "section",
-       "label": "II",
-       "title": "STATEMENT OF THE ISSUE",
-       "pdf_page": 570,
-       "printed_page": 568
-      },
-      {
-       "type": "section",
-       "label": "III",
-       "title": "JUDGMENT",
-       "pdf_page": 571,
-       "printed_page": 569
-      },
-      {
-       "type": "section",
-       "label": "IV",
-       "title": "REASONING AND OPINION",
-       "pdf_page": 571,
-       "printed_page": 569
-      },
-      {
-       "type": "section",
-       "label": "I",
-       "title": "SUMMARY OF THE FACTS",
-       "pdf_page": 573,
-       "printed_page": 571
-      },
-      {
-       "type": "section",
-       "label": "II",
-       "title": "STATEMENT OF THE ISSUE",
-       "pdf_page": 574,
-       "printed_page": 572
-      },
-      {
-       "type": "section",
-       "label": "III",
-       "title": "JUDGMENT",
-       "pdf_page": 574,
-       "printed_page": 572
-      },
-      {
-       "type": "section",
-       "label": "IV",
-       "title": "REASONING AND OPINION",
-       "pdf_page": 574,
-       "printed_page": 572
-      },
-      {
-       "type": "section",
-       "label": "I",
-       "title": "SUMMARY OF THE FACTS",
-       "pdf_page": 584,
-       "printed_page": 582
-      },
-      {
-       "type": "section",
-       "label": "II",
-       "title": "STATEMENT OF THE ISSUE",
-       "pdf_page": 585,
-       "printed_page": 583
-      },
-      {
-       "type": "section",
-       "label": "III",
-       "title": "JUDGMENT",
-       "pdf_page": 586,
-       "printed_page": 584
-      },
-      {
-       "type": "section",
-       "label": "IV",
-       "title": "REASONING AND OPINION",
-       "pdf_page": 586,
-       "printed_page": 584
-      },
-      {
-       "type": "section",
-       "label": "IV",
-       "title": "PROPOSED MANUAL CHANGES",
-       "pdf_page": 591,
-       "printed_page": 589
-      },
-      {
-       "type": "section",
-       "label": "V",
-       "title": "ELECTION OF OFFICERS",
-       "pdf_page": 595,
-       "printed_page": 593
+       "printed_page": 500,
+       "children": [
+        {
+         "type": "case",
+         "label": "CASE NO. 2016-06",
+         "title": "RE JOHNAVERY V. NASHVILLE PRESBYTERY, DECISION ON COMPLAINT",
+         "pdf_page": 502,
+         "printed_page": 500,
+         "children": []
+        },
+        {
+         "type": "case",
+         "label": "CASE NO. 2016-10",
+         "title": "IN RE KOREAN NORTHWEST PRESBYTERY JUNE 13, 201",
+         "pdf_page": 502,
+         "printed_page": 500,
+         "children": []
+        },
+        {
+         "type": "case",
+         "label": "CASE NO. 2016-11",
+         "title": "TE MICHAEL FRAZIER V. NASHVILLE PRESBYTERY, DECISION ON COMPLAINT",
+         "pdf_page": 502,
+         "printed_page": 500,
+         "children": [
+          {
+           "type": "section",
+           "label": "I",
+           "title": "SUMMARY OF THE FACTS",
+           "pdf_page": 503,
+           "printed_page": 501
+          },
+          {
+           "type": "section",
+           "label": "II",
+           "title": "STATEMENT OF THE ISSUE",
+           "pdf_page": 505,
+           "printed_page": 503
+          },
+          {
+           "type": "section",
+           "label": "III",
+           "title": "JUDGMENT",
+           "pdf_page": 505,
+           "printed_page": 503
+          },
+          {
+           "type": "section",
+           "label": "IV",
+           "title": "REASONING AND OPINION",
+           "pdf_page": 506,
+           "printed_page": 504
+          }
+         ]
+        },
+        {
+         "type": "case",
+         "label": "CASE NO. 2016-13",
+         "title": "",
+         "pdf_page": 525,
+         "printed_page": 523,
+         "children": []
+        },
+        {
+         "type": "case",
+         "label": "CASE NO. 2016-15",
+         "title": "APPEAL OF TE JAMES BACHMANN V. NASHVILLE PRESBYTERY, DECISION ON APPEAL",
+         "pdf_page": 528,
+         "printed_page": 526,
+         "children": [
+          {
+           "type": "section",
+           "label": "I",
+           "title": "SUMMARY OF THE FACTS",
+           "pdf_page": 528,
+           "printed_page": 526
+          },
+          {
+           "type": "section",
+           "label": "II",
+           "title": "STATEMENT OF THE ISSUE",
+           "pdf_page": 531,
+           "printed_page": 529
+          },
+          {
+           "type": "section",
+           "label": "III",
+           "title": "JUDGMENT",
+           "pdf_page": 531,
+           "printed_page": 529
+          }
+         ]
+        },
+        {
+         "type": "case",
+         "label": "CASE NO. 2016-16",
+         "title": "COMPLAINT OF TE ARTHUR SARTORIUS V. SIOUXLANDS PRESBYTERY, DECISION ON COMPLAINT",
+         "pdf_page": 538,
+         "printed_page": 536,
+         "children": [
+          {
+           "type": "section",
+           "label": "I",
+           "title": "SUMMARY OF THE FACTS",
+           "pdf_page": 538,
+           "printed_page": 536
+          },
+          {
+           "type": "section",
+           "label": "II",
+           "title": "STATEMENT OF THE ISSUE",
+           "pdf_page": 548,
+           "printed_page": 546
+          },
+          {
+           "type": "section",
+           "label": "III",
+           "title": "JUDGMENT",
+           "pdf_page": 548,
+           "printed_page": 546
+          },
+          {
+           "type": "section",
+           "label": "IV",
+           "title": "REASONING AND OPINION",
+           "pdf_page": 548,
+           "printed_page": 546
+          }
+         ]
+        },
+        {
+         "type": "case",
+         "label": "CASE NO. 2016-17",
+         "title": "RE MORRIS WEBSTER & RE WAYNE FOWLER V. HERITAGE PRESBYTERY, DECISION ON COMPLAINT",
+         "pdf_page": 568,
+         "printed_page": 566,
+         "children": [
+          {
+           "type": "section",
+           "label": "I",
+           "title": "SUMMARY OF THE FACTS",
+           "pdf_page": 568,
+           "printed_page": 566
+          },
+          {
+           "type": "section",
+           "label": "II",
+           "title": "STATEMENT OF THE ISSUE",
+           "pdf_page": 570,
+           "printed_page": 568
+          },
+          {
+           "type": "section",
+           "label": "III",
+           "title": "JUDGMENT",
+           "pdf_page": 571,
+           "printed_page": 569
+          },
+          {
+           "type": "section",
+           "label": "IV",
+           "title": "REASONING AND OPINION",
+           "pdf_page": 571,
+           "printed_page": 569
+          },
+          {
+           "type": "section",
+           "label": "I",
+           "title": "SUMMARY OF THE FACTS",
+           "pdf_page": 573,
+           "printed_page": 571
+          },
+          {
+           "type": "section",
+           "label": "II",
+           "title": "STATEMENT OF THE ISSUE",
+           "pdf_page": 574,
+           "printed_page": 572
+          },
+          {
+           "type": "section",
+           "label": "III",
+           "title": "JUDGMENT",
+           "pdf_page": 574,
+           "printed_page": 572
+          },
+          {
+           "type": "section",
+           "label": "IV",
+           "title": "REASONING AND OPINION",
+           "pdf_page": 574,
+           "printed_page": 572
+          }
+         ]
+        },
+        {
+         "type": "case",
+         "label": "CASE NO. 2017-02",
+         "title": "RE CHARLES POSTLES V. HERITAGE PRESBYTERY, DECISION ON COMPLAINT",
+         "pdf_page": 584,
+         "printed_page": 582,
+         "children": [
+          {
+           "type": "section",
+           "label": "I",
+           "title": "SUMMARY OF THE FACTS",
+           "pdf_page": 584,
+           "printed_page": 582
+          },
+          {
+           "type": "section",
+           "label": "II",
+           "title": "STATEMENT OF THE ISSUE",
+           "pdf_page": 585,
+           "printed_page": 583
+          },
+          {
+           "type": "section",
+           "label": "III",
+           "title": "JUDGMENT",
+           "pdf_page": 586,
+           "printed_page": 584
+          },
+          {
+           "type": "section",
+           "label": "IV",
+           "title": "REASONING AND OPINION",
+           "pdf_page": 586,
+           "printed_page": 584
+          }
+         ]
+        },
+        {
+         "type": "case",
+         "label": "CASE NO. 2017-10",
+         "title": "IN RE KOREAN EASTERN PRESBYTERY",
+         "pdf_page": 590,
+         "printed_page": null,
+         "children": []
+        },
+        {
+         "type": "case",
+         "label": "CASE NO. 2017-11",
+         "title": "IN RE KOREAN SOUTHWEST PRESBYTERY",
+         "pdf_page": 590,
+         "printed_page": null,
+         "children": []
+        },
+        {
+         "type": "case",
+         "label": "CASE NO. 2017-12",
+         "title": "IN RE PLATTE VALLEY PRESBYTERY",
+         "pdf_page": 591,
+         "printed_page": 589,
+         "children": []
+        },
+        {
+         "type": "section",
+         "label": "IV",
+         "title": "PROPOSED MANUAL CHANGES",
+         "pdf_page": 591,
+         "printed_page": 589
+        },
+        {
+         "type": "section",
+         "label": "V",
+         "title": "ELECTION OF OFFICERS",
+         "pdf_page": 595,
+         "printed_page": 593
+        }
+       ]
       }
      ]
     },

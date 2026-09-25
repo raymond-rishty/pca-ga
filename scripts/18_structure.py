@@ -28,6 +28,39 @@ OUT = os.path.join(ROOT, "index", "structure")
 # (optionally bold/#-wrapped). Detected broadly WITHIN a report's page span (not the closed
 # format_md title set) so report-specific sections like "II. Advice on Overtures" are caught.
 _SEC = re.compile(r"^\s*[#*_]*\s*([IVX]{1,6})\.\s+([A-Z][^*_#]{2,52}?)\s*[*_]*\s*$")
+_CASE_HEADING = re.compile(
+    r"^\s*(?:#{1,6}\s+|\*{1,2}\s*)CASE\s+(?:NO\.?\s*)?"
+    r"(\d{2,4}-\d{1,3}[A-Za-z]?)\b\s*[,.:—-]?\s*(.*?)\s*[*_#]*\s*$", re.I)
+_CASE_DATE = re.compile(
+    r"\b(?:JANUARY|FEBRUARY|MARCH|APRIL|MAY|JUNE|JULY|AUGUST|SEPTEMBER|OCTOBER|NOVEMBER|DECEMBER)"
+    r"\s+\d{1,2},?\s+\d{4}$", re.I)
+
+
+def _case_heading_title(lines, start, initial):
+    parts = [_clean(initial)] if _clean(initial) else []
+    for line in lines[start + 1:]:
+        if not line.strip():
+            continue
+        # A new docket heading ends this case title. Several SJC headings can begin on
+        # the same extracted page, so don't absorb the following case into this title.
+        if _CASE_HEADING.match(line):
+            break
+        if line.strip().upper() in {"V.", "VS.", "VERSUS"}:
+            parts.append("V.")
+            continue
+        heading = re.match(r"^\s*(?:#{1,6}\s+|\*{1,2}\s*)(.+?)\s*\*{0,2}\s*$", line)
+        if not heading:
+            break
+        title = _clean(heading.group(1))
+        if not title:
+            continue
+        if (_section(title) or re.match(r"(?i)^(?:summary|statement of|judg(e)?ment|reasoning|opinion|introduction)\b", title)
+                or _CASE_DATE.fullmatch(title)):
+            break
+        parts.append("V." if title.upper() in {"V", "VS", "VERSUS"} else title)
+    joined = re.sub(r"\s+", " ", " ".join(parts)).strip()
+    joined = _CASE_DATE.sub("", joined).rstrip(" ,;:-")
+    return re.sub(r"\s+(?=DECISION(?:\s+ON\s+\w+)?\b)", ", ", joined, flags=re.I) if joined else ""
 
 
 def _section(ln):
@@ -218,14 +251,53 @@ def extract(vol):
             lo = a["pdf_page"]
             hi = aps[idx + 1]["pdf_page"] if idx + 1 < len(aps) else appx["_end"]
             a["children"] = []
+            case_group = None
+            current_case = None
             for r in rows:
                 if not (lo <= r["pdf_page"] < hi):
                     continue
-                for ln in r["text"].split("\n"):
+                lines = r["text"].split("\n")
+                for line_no, ln in enumerate(lines):
+                    case = _CASE_HEADING.match(ln)
+                    if case:
+                        if case_group is None:
+                            case_group = {"type": "section", "label": "",
+                                          "title": "JUDICIAL CASES",
+                                          "pdf_page": r["pdf_page"],
+                                          "printed_page": r.get("printed_page"),
+                                          "children": []}
+                            a["children"].append(case_group)
+                        current_case = {"type": "case",
+                                        "label": f"CASE NO. {case.group(1)}",
+                                        "title": _case_heading_title(lines, line_no, case.group(2)),
+                                        "pdf_page": r["pdf_page"],
+                                        "printed_page": r.get("printed_page"),
+                                        "children": []}
+                        case_group["children"].append(current_case)
+                        continue
                     sec = _section(ln)
                     if sec:
-                        a["children"].append({"type": "section", "label": sec[0], "title": sec[1],
-                                              "pdf_page": r["pdf_page"], "printed_page": r.get("printed_page")})
+                        section = {"type": "section", "label": sec[0], "title": sec[1],
+                                   "pdf_page": r["pdf_page"],
+                                   "printed_page": r.get("printed_page")}
+                        if re.search(r"\b(?:JUDICIAL CASES|REPORT OF THE CASES)\b", sec[1], re.I):
+                            section["children"] = []
+                            a["children"].append(section)
+                            case_group = section
+                            current_case = None
+                        elif current_case is not None and re.match(
+                                r"^(?:PROPOSED\b|AMEND(?:MENTS)?\b|SJCM\s+AMENDMENTS\b|"
+                                r"ELECTION OF OFFICERS\b|OFFICERS\b|THE OFFICERS OF\b|"
+                                r"SJC REMINDER\b|STYLE COMMITTEE\b|RESPONSE TO OVERTURES\b|"
+                                r"INTRODUCTION\b|RECOMMENDATIONS\b)", sec[1], re.I):
+                            case_group.setdefault("children", []).append(section)
+                            current_case = None
+                        elif current_case is not None:
+                            current_case.setdefault("children", []).append(section)
+                        elif case_group is not None:
+                            case_group.setdefault("children", []).append(section)
+                        else:
+                            a["children"].append(section)
     # 4) OVERTURES (the denomination's proposal history) — attach each under its enclosing referral
     # GROUPING (journal) or appendix (PART III), else the part; collect a flat volume catalogue.
     jmarkers.sort(key=lambda x: x[0])

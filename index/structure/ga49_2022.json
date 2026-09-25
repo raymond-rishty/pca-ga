@@ -715,350 +715,542 @@
        "label": "II",
        "title": "JUDICIAL CASES",
        "pdf_page": 703,
-       "printed_page": 686
+       "printed_page": 686,
+       "children": []
       },
       {
        "type": "section",
        "label": "III",
        "title": "REPORT OF THE CASES",
        "pdf_page": 704,
-       "printed_page": 687
-      },
-      {
-       "type": "section",
-       "label": "I",
-       "title": "SUMMARY OF THE FACTS",
-       "pdf_page": 705,
-       "printed_page": 688
-      },
-      {
-       "type": "section",
-       "label": "II",
-       "title": "STATEMENT OF THE ISSUE",
-       "pdf_page": 713,
-       "printed_page": 696
-      },
-      {
-       "type": "section",
-       "label": "III",
-       "title": "JUDGMENT",
-       "pdf_page": 713,
-       "printed_page": 696
-      },
-      {
-       "type": "section",
-       "label": "IV",
-       "title": "REASONING",
-       "pdf_page": 713,
-       "printed_page": 696
-      },
-      {
-       "type": "section",
-       "label": "I",
-       "title": "SUMMARY OF THE FACTS",
-       "pdf_page": 720,
-       "printed_page": 703
-      },
-      {
-       "type": "section",
-       "label": "II",
-       "title": "STATEMENT OF THE ISSUES",
-       "pdf_page": 722,
-       "printed_page": 705
-      },
-      {
-       "type": "section",
-       "label": "III",
-       "title": "JUDGMENT",
-       "pdf_page": 722,
-       "printed_page": 705
-      },
-      {
-       "type": "section",
-       "label": "IV",
-       "title": "REASONING AND OPINION",
-       "pdf_page": 722,
-       "printed_page": 705
-      },
-      {
-       "type": "section",
-       "label": "I",
-       "title": "SUMMARY OF THE FACTS",
-       "pdf_page": 737,
-       "printed_page": 720
-      },
-      {
-       "type": "section",
-       "label": "II",
-       "title": "STATEMENT OF THE ISSUE",
-       "pdf_page": 739,
-       "printed_page": 722
-      },
-      {
-       "type": "section",
-       "label": "III",
-       "title": "JUDGMENT",
-       "pdf_page": 740,
-       "printed_page": 723
-      },
-      {
-       "type": "section",
-       "label": "IV",
-       "title": "REASONING",
-       "pdf_page": 740,
-       "printed_page": 723
-      },
-      {
-       "type": "section",
-       "label": "I",
-       "title": "SUMMARY OF THE FACTS",
-       "pdf_page": 748,
-       "printed_page": 731
-      },
-      {
-       "type": "section",
-       "label": "II",
-       "title": "STATEMENT OF THE ISSUES",
-       "pdf_page": 761,
-       "printed_page": 744
-      },
-      {
-       "type": "section",
-       "label": "III",
-       "title": "JUDGMENT",
-       "pdf_page": 762,
-       "printed_page": 745
-      },
-      {
-       "type": "section",
-       "label": "IV",
-       "title": "REASONING AND OPINION",
-       "pdf_page": 762,
-       "printed_page": 745
-      },
-      {
-       "type": "section",
-       "label": "III",
-       "title": "Ongoing Concerns about Some of TE Johnson's Views",
-       "pdf_page": 803,
-       "printed_page": 786
-      },
-      {
-       "type": "section",
-       "label": "IV",
-       "title": "Conclusion",
-       "pdf_page": 808,
-       "printed_page": 791
-      },
-      {
-       "type": "section",
-       "label": "I",
-       "title": "SUMMARY OF THE FACTS",
-       "pdf_page": 844,
-       "printed_page": 827
-      },
-      {
-       "type": "section",
-       "label": "II",
-       "title": "STATEMENT OF THE ISSUES",
-       "pdf_page": 849,
-       "printed_page": 832
-      },
-      {
-       "type": "section",
-       "label": "III",
-       "title": "JUDGMENTS",
-       "pdf_page": 849,
-       "printed_page": 832
-      },
-      {
-       "type": "section",
-       "label": "IV",
-       "title": "REASONING AND OPINION",
-       "pdf_page": 849,
-       "printed_page": 832
-      },
-      {
-       "type": "section",
-       "label": "I",
-       "title": "CASE SUMMARY",
-       "pdf_page": 881,
-       "printed_page": 864
-      },
-      {
-       "type": "section",
-       "label": "II",
-       "title": "SUMMARY OF THE FACTS",
-       "pdf_page": 882,
-       "printed_page": 865
-      },
-      {
-       "type": "section",
-       "label": "III",
-       "title": "STATEMENT OF THE ISSUES",
-       "pdf_page": 883,
-       "printed_page": 866
-      },
-      {
-       "type": "section",
-       "label": "IV",
-       "title": "JUDGMENT",
-       "pdf_page": 883,
-       "printed_page": 866
-      },
-      {
-       "type": "section",
-       "label": "V",
-       "title": "REASONING AND OPINION",
-       "pdf_page": 883,
-       "printed_page": 866
-      },
-      {
-       "type": "section",
-       "label": "IV",
-       "title": "AMENDMENTS TO SJC OPERATING MANUAL",
-       "pdf_page": 888,
-       "printed_page": 871
-      },
-      {
-       "type": "section",
-       "label": "V",
-       "title": "ELECTION OF OFFICERS",
-       "pdf_page": 891,
-       "printed_page": 874
-      },
-      {
-       "type": "section",
-       "label": "I",
-       "title": "INTRODUCTION",
-       "pdf_page": 892,
-       "printed_page": 875
+       "printed_page": 687,
+       "children": [
+        {
+         "type": "case",
+         "label": "CASE NO. 2020-07",
+         "title": "TE RANKIN WILBOURNE V. PACIFIC PRESBYTERY",
+         "pdf_page": 704,
+         "printed_page": 687,
+         "children": []
+        },
+        {
+         "type": "case",
+         "label": "CASE NO. 2020-08",
+         "title": "TE SHAWN GENDALL, TE RUSSELL HIGHTOWER AND TE TIMOTHY LIEN V. PACIFIC PRESBYTERY",
+         "pdf_page": 704,
+         "printed_page": 687,
+         "children": []
+        },
+        {
+         "type": "case",
+         "label": "CASE NO. 2020-09",
+         "title": "RE SEAN OZBALT AND RE ERIN BARR V. PACIFIC PRESBYTERY, DECISION ON COMPLAINTS",
+         "pdf_page": 704,
+         "printed_page": 687,
+         "children": [
+          {
+           "type": "section",
+           "label": "I",
+           "title": "SUMMARY OF THE FACTS",
+           "pdf_page": 705,
+           "printed_page": 688
+          },
+          {
+           "type": "section",
+           "label": "II",
+           "title": "STATEMENT OF THE ISSUE",
+           "pdf_page": 713,
+           "printed_page": 696
+          },
+          {
+           "type": "section",
+           "label": "III",
+           "title": "JUDGMENT",
+           "pdf_page": 713,
+           "printed_page": 696
+          },
+          {
+           "type": "section",
+           "label": "IV",
+           "title": "REASONING",
+           "pdf_page": 713,
+           "printed_page": 696
+          }
+         ]
+        },
+        {
+         "type": "case",
+         "label": "CASE NO. 2020-06",
+         "title": "BRIAN PAUL GORDON V. SOUTHERN NEW ENGLAND PRESBYTERY, DECISION ON APPEAL",
+         "pdf_page": 719,
+         "printed_page": 702,
+         "children": [
+          {
+           "type": "section",
+           "label": "I",
+           "title": "SUMMARY OF THE FACTS",
+           "pdf_page": 720,
+           "printed_page": 703
+          },
+          {
+           "type": "section",
+           "label": "II",
+           "title": "STATEMENT OF THE ISSUES",
+           "pdf_page": 722,
+           "printed_page": 705
+          },
+          {
+           "type": "section",
+           "label": "III",
+           "title": "JUDGMENT",
+           "pdf_page": 722,
+           "printed_page": 705
+          },
+          {
+           "type": "section",
+           "label": "IV",
+           "title": "REASONING AND OPINION",
+           "pdf_page": 722,
+           "printed_page": 705
+          }
+         ]
+        },
+        {
+         "type": "case",
+         "label": "CASE NO. 2020-14",
+         "title": "TE AARON MYERS V. ILLIANA PRESBYTERY, DECISION ON APPEAL",
+         "pdf_page": 737,
+         "printed_page": 720,
+         "children": [
+          {
+           "type": "section",
+           "label": "I",
+           "title": "SUMMARY OF THE FACTS",
+           "pdf_page": 737,
+           "printed_page": 720
+          },
+          {
+           "type": "section",
+           "label": "II",
+           "title": "STATEMENT OF THE ISSUE",
+           "pdf_page": 739,
+           "printed_page": 722
+          },
+          {
+           "type": "section",
+           "label": "III",
+           "title": "JUDGMENT",
+           "pdf_page": 740,
+           "printed_page": 723
+          },
+          {
+           "type": "section",
+           "label": "IV",
+           "title": "REASONING",
+           "pdf_page": 740,
+           "printed_page": 723
+          }
+         ]
+        },
+        {
+         "type": "case",
+         "label": "CASE NO. 2021-01",
+         "title": "MR. STUART MICHELSON V. NORTHWEST GEORGIA PRESBYTERY, DECISION ON COMPLAINT",
+         "pdf_page": 743,
+         "printed_page": 726,
+         "children": []
+        },
+        {
+         "type": "case",
+         "label": "CASE NO. 2021-02",
+         "title": "RE LINDSEY TIPPINS V. NORTHWEST GEORGIA PRESBYTERY, DECISION ON BCO 40-5 REQUEST",
+         "pdf_page": 744,
+         "printed_page": 727,
+         "children": []
+        },
+        {
+         "type": "case",
+         "label": "CASE NO. 2020-10",
+         "title": "MR. ERIC EAGLE V. SAVANNAH RIVER PRESBYTERY, DECISION ON COMPLAINT",
+         "pdf_page": 745,
+         "printed_page": 728,
+         "children": []
+        },
+        {
+         "type": "case",
+         "label": "CASE NO. 2021-05",
+         "title": "TE DUSTYN EUDALY AND TE STEVEN LIGHT V. SOUTHWEST FLORIDA PRESBYTERY, DECISION ON COMPLAINT",
+         "pdf_page": 745,
+         "printed_page": 728,
+         "children": []
+        },
+        {
+         "type": "case",
+         "label": "CASE NO. 2021-08",
+         "title": "IN RE KOREAN SOUTHWEST ORANGE COUNTY CITATION BY GENERAL ASSEMBLY",
+         "pdf_page": 746,
+         "printed_page": 729,
+         "children": []
+        },
+        {
+         "type": "case",
+         "label": "CASE NO. 2020-12",
+         "title": "COMPLAINT OF TE RYAN SPECK V. MISSOURI PRESBYTERY, DECISION ON COMPLAINT",
+         "pdf_page": 747,
+         "printed_page": 730,
+         "children": [
+          {
+           "type": "section",
+           "label": "I",
+           "title": "SUMMARY OF THE FACTS",
+           "pdf_page": 748,
+           "printed_page": 731
+          },
+          {
+           "type": "section",
+           "label": "II",
+           "title": "STATEMENT OF THE ISSUES",
+           "pdf_page": 761,
+           "printed_page": 744
+          },
+          {
+           "type": "section",
+           "label": "III",
+           "title": "JUDGMENT",
+           "pdf_page": 762,
+           "printed_page": 745
+          },
+          {
+           "type": "section",
+           "label": "IV",
+           "title": "REASONING AND OPINION",
+           "pdf_page": 762,
+           "printed_page": 745
+          },
+          {
+           "type": "section",
+           "label": "III",
+           "title": "Ongoing Concerns about Some of TE Johnson's Views",
+           "pdf_page": 803,
+           "printed_page": 786
+          },
+          {
+           "type": "section",
+           "label": "IV",
+           "title": "Conclusion",
+           "pdf_page": 808,
+           "printed_page": 791
+          }
+         ]
+        },
+        {
+         "type": "case",
+         "label": "CASE NO. 2021-12",
+         "title": "COMPLAINT OF CHRISTIAN MICHELSON AND STUART MICHELSON V. NORTHWEST GEORGIA PRESBYTERY",
+         "pdf_page": 839,
+         "printed_page": 822,
+         "children": []
+        },
+        {
+         "type": "case",
+         "label": "CASE NO. 2020-02",
+         "title": "",
+         "pdf_page": 842,
+         "printed_page": 825,
+         "children": []
+        },
+        {
+         "type": "case",
+         "label": "CASE NO. 2020-05",
+         "title": "TE RYAN SPECK V. MISSOURI PRESBYTERY, DECISION ON COMPLAINT",
+         "pdf_page": 843,
+         "printed_page": 826,
+         "children": [
+          {
+           "type": "section",
+           "label": "I",
+           "title": "SUMMARY OF THE FACTS",
+           "pdf_page": 844,
+           "printed_page": 827
+          },
+          {
+           "type": "section",
+           "label": "II",
+           "title": "STATEMENT OF THE ISSUES",
+           "pdf_page": 849,
+           "printed_page": 832
+          },
+          {
+           "type": "section",
+           "label": "III",
+           "title": "JUDGMENTS",
+           "pdf_page": 849,
+           "printed_page": 832
+          },
+          {
+           "type": "section",
+           "label": "IV",
+           "title": "REASONING AND OPINION",
+           "pdf_page": 849,
+           "printed_page": 832
+          }
+         ]
+        },
+        {
+         "type": "case",
+         "label": "CASE NO. 2021-03",
+         "title": "COMPLAINT OF RE DONAVON. J. DEJONG V. SESSION OF VILLAGE SEVEN PRESBYTERIAN CHURCH, DECISION ON COMPLAINT",
+         "pdf_page": 881,
+         "printed_page": 864,
+         "children": [
+          {
+           "type": "section",
+           "label": "I",
+           "title": "CASE SUMMARY",
+           "pdf_page": 881,
+           "printed_page": 864
+          },
+          {
+           "type": "section",
+           "label": "II",
+           "title": "SUMMARY OF THE FACTS",
+           "pdf_page": 882,
+           "printed_page": 865
+          },
+          {
+           "type": "section",
+           "label": "III",
+           "title": "STATEMENT OF THE ISSUES",
+           "pdf_page": 883,
+           "printed_page": 866
+          },
+          {
+           "type": "section",
+           "label": "IV",
+           "title": "JUDGMENT",
+           "pdf_page": 883,
+           "printed_page": 866
+          },
+          {
+           "type": "section",
+           "label": "V",
+           "title": "REASONING AND OPINION",
+           "pdf_page": 883,
+           "printed_page": 866
+          }
+         ]
+        },
+        {
+         "type": "case",
+         "label": "CASE NO. 2021-07",
+         "title": "RE J. LANCE ACREE V. TENNESSEE VALLEY PRESBYTERY COMPLAINT",
+         "pdf_page": 886,
+         "printed_page": 869,
+         "children": []
+        },
+        {
+         "type": "case",
+         "label": "CASE NO. 2021-08",
+         "title": "IN THE MATTER OF KOREAN SOUTHWEST ORANGE COUNTY PRESBYTERY",
+         "pdf_page": 887,
+         "printed_page": 870,
+         "children": []
+        },
+        {
+         "type": "section",
+         "label": "IV",
+         "title": "AMENDMENTS TO SJC OPERATING MANUAL",
+         "pdf_page": 888,
+         "printed_page": 871
+        },
+        {
+         "type": "section",
+         "label": "V",
+         "title": "ELECTION OF OFFICERS",
+         "pdf_page": 891,
+         "printed_page": 874
+        },
+        {
+         "type": "section",
+         "label": "I",
+         "title": "INTRODUCTION",
+         "pdf_page": 892,
+         "printed_page": 875
+        }
+       ]
       },
       {
        "type": "section",
        "label": "II",
        "title": "JUDICIAL CASES",
        "pdf_page": 892,
-       "printed_page": 875
+       "printed_page": 875,
+       "children": []
       },
       {
        "type": "section",
        "label": "III",
        "title": "SUPPLEMENTAL REPORT OF THE CASES",
        "pdf_page": 893,
-       "printed_page": 876
-      },
-      {
-       "type": "section",
-       "label": "I",
-       "title": "SUMMARY OF THE FACTS",
-       "pdf_page": 893,
-       "printed_page": 876
-      },
-      {
-       "type": "section",
-       "label": "II",
-       "title": "STATEMENT OF THE ISSUE",
-       "pdf_page": 898,
-       "printed_page": 881
-      },
-      {
-       "type": "section",
-       "label": "III",
-       "title": "JUDGMENT",
-       "pdf_page": 898,
-       "printed_page": 881
-      },
-      {
-       "type": "section",
-       "label": "IV",
-       "title": "REASONING AND OPINION",
-       "pdf_page": 898,
-       "printed_page": 881
-      },
-      {
-       "type": "section",
-       "label": "I",
-       "title": "SUMMARY OF THE FACTS",
-       "pdf_page": 902,
-       "printed_page": 885
-      },
-      {
-       "type": "section",
-       "label": "II",
-       "title": "STATEMENT OF THE ISSUES",
-       "pdf_page": 905,
-       "printed_page": 888
-      },
-      {
-       "type": "section",
-       "label": "III",
-       "title": "JUDGMENTS",
-       "pdf_page": 905,
-       "printed_page": 888
-      },
-      {
-       "type": "section",
-       "label": "IV",
-       "title": "REASONING AND OPINON",
-       "pdf_page": 905,
-       "printed_page": 888
-      },
-      {
-       "type": "section",
-       "label": "I",
-       "title": "SUMMARY OF THE FACTS",
-       "pdf_page": 909,
-       "printed_page": 892
-      },
-      {
-       "type": "section",
-       "label": "II",
-       "title": "STATEMENT OF THE ISSUE",
-       "pdf_page": 913,
-       "printed_page": 896
-      },
-      {
-       "type": "section",
-       "label": "III",
-       "title": "JUDGMENT",
-       "pdf_page": 913,
-       "printed_page": 896
-      },
-      {
-       "type": "section",
-       "label": "IV",
-       "title": "REASONING AND OPINION",
-       "pdf_page": 913,
-       "printed_page": 896
-      },
-      {
-       "type": "section",
-       "label": "I",
-       "title": "SUMMARY OF THE FACTS",
-       "pdf_page": 934,
-       "printed_page": 917
-      },
-      {
-       "type": "section",
-       "label": "II",
-       "title": "STATEMENT OF THE ISSUES",
-       "pdf_page": 938,
-       "printed_page": 921
-      },
-      {
-       "type": "section",
-       "label": "III",
-       "title": "JUDGMENTS",
-       "pdf_page": 938,
-       "printed_page": 921
-      },
-      {
-       "type": "section",
-       "label": "IV",
-       "title": "REASONING AND OPINION",
-       "pdf_page": 938,
-       "printed_page": 921
+       "printed_page": 876,
+       "children": [
+        {
+         "type": "case",
+         "label": "CASE NO. 2021-09",
+         "title": "GARY LEE MILLER V. OHIO VALLEY PRESBYTERY, DECISION ON COMPLAINT",
+         "pdf_page": 893,
+         "printed_page": 876,
+         "children": [
+          {
+           "type": "section",
+           "label": "I",
+           "title": "SUMMARY OF THE FACTS",
+           "pdf_page": 893,
+           "printed_page": 876
+          },
+          {
+           "type": "section",
+           "label": "II",
+           "title": "STATEMENT OF THE ISSUE",
+           "pdf_page": 898,
+           "printed_page": 881
+          },
+          {
+           "type": "section",
+           "label": "III",
+           "title": "JUDGMENT",
+           "pdf_page": 898,
+           "printed_page": 881
+          },
+          {
+           "type": "section",
+           "label": "IV",
+           "title": "REASONING AND OPINION",
+           "pdf_page": 898,
+           "printed_page": 881
+          }
+         ]
+        },
+        {
+         "type": "case",
+         "label": "CASE NO. 2021-10",
+         "title": "F. TODD WILLIAMS V. CHESAPEAKE PRESBYTERY, DECISION ON APPEAL",
+         "pdf_page": 902,
+         "printed_page": 885,
+         "children": [
+          {
+           "type": "section",
+           "label": "I",
+           "title": "SUMMARY OF THE FACTS",
+           "pdf_page": 902,
+           "printed_page": 885
+          },
+          {
+           "type": "section",
+           "label": "II",
+           "title": "STATEMENT OF THE ISSUES",
+           "pdf_page": 905,
+           "printed_page": 888
+          },
+          {
+           "type": "section",
+           "label": "III",
+           "title": "JUDGMENTS",
+           "pdf_page": 905,
+           "printed_page": 888
+          },
+          {
+           "type": "section",
+           "label": "IV",
+           "title": "REASONING AND OPINON",
+           "pdf_page": 905,
+           "printed_page": 888
+          }
+         ]
+        },
+        {
+         "type": "case",
+         "label": "CASE NO. 2021-13",
+         "title": "PHIL DUDT V. NORTHWEST GEORGIA PRESBYTERY, DECISION ON APPEAL",
+         "pdf_page": 909,
+         "printed_page": 892,
+         "children": [
+          {
+           "type": "section",
+           "label": "I",
+           "title": "SUMMARY OF THE FACTS",
+           "pdf_page": 909,
+           "printed_page": 892
+          },
+          {
+           "type": "section",
+           "label": "II",
+           "title": "STATEMENT OF THE ISSUE",
+           "pdf_page": 913,
+           "printed_page": 896
+          },
+          {
+           "type": "section",
+           "label": "III",
+           "title": "JUDGMENT",
+           "pdf_page": 913,
+           "printed_page": 896
+          },
+          {
+           "type": "section",
+           "label": "IV",
+           "title": "REASONING AND OPINION",
+           "pdf_page": 913,
+           "printed_page": 896
+          }
+         ]
+        },
+        {
+         "type": "case",
+         "label": "CASE NO. 2021-06",
+         "title": "DANIEL HERRON, ET AL V. CENTRAL INDIANA PRESBYTERY, DECISION ON COMPLAINT",
+         "pdf_page": 933,
+         "printed_page": 916,
+         "children": [
+          {
+           "type": "section",
+           "label": "I",
+           "title": "SUMMARY OF THE FACTS",
+           "pdf_page": 934,
+           "printed_page": 917
+          },
+          {
+           "type": "section",
+           "label": "II",
+           "title": "STATEMENT OF THE ISSUES",
+           "pdf_page": 938,
+           "printed_page": 921
+          },
+          {
+           "type": "section",
+           "label": "III",
+           "title": "JUDGMENTS",
+           "pdf_page": 938,
+           "printed_page": 921
+          },
+          {
+           "type": "section",
+           "label": "IV",
+           "title": "REASONING AND OPINION",
+           "pdf_page": 938,
+           "printed_page": 921
+          }
+         ]
+        },
+        {
+         "type": "case",
+         "label": "CASE NO. 2022-01",
+         "title": "",
+         "pdf_page": 951,
+         "printed_page": 934,
+         "children": []
+        }
+       ]
       }
      ]
     },

@@ -724,308 +724,439 @@
        "label": "II",
        "title": "JUDICIAL CASES",
        "pdf_page": 529,
-       "printed_page": 527
+       "printed_page": 527,
+       "children": []
       },
       {
        "type": "section",
        "label": "III",
        "title": "REPORT OF THE CASES",
        "pdf_page": 531,
-       "printed_page": 529
-      },
-      {
-       "type": "section",
-       "label": "I",
-       "title": "SUMMARY OF THE FACTS",
-       "pdf_page": 531,
-       "printed_page": 529
-      },
-      {
-       "type": "section",
-       "label": "II",
-       "title": "STATEMENT OF THE ISSUE",
-       "pdf_page": 531,
-       "printed_page": 529
-      },
-      {
-       "type": "section",
-       "label": "III",
-       "title": "JUDGMENT",
-       "pdf_page": 531,
-       "printed_page": 529
-      },
-      {
-       "type": "section",
-       "label": "IV",
-       "title": "REASONING AND OPINION",
-       "pdf_page": 532,
-       "printed_page": 530
-      },
-      {
-       "type": "section",
-       "label": "I",
-       "title": "SUMMARY OF THE FACTS",
-       "pdf_page": 532,
-       "printed_page": 530
-      },
-      {
-       "type": "section",
-       "label": "II",
-       "title": "STATEMENT OF THE ISSUE",
-       "pdf_page": 534,
-       "printed_page": 532
-      },
-      {
-       "type": "section",
-       "label": "III",
-       "title": "JUDGMENT",
-       "pdf_page": 534,
-       "printed_page": 532
-      },
-      {
-       "type": "section",
-       "label": "IV",
-       "title": "REASONING AND OPINION",
-       "pdf_page": 534,
-       "printed_page": 532
-      },
-      {
-       "type": "section",
-       "label": "I",
-       "title": "SUMMARY OF THE FACTS",
-       "pdf_page": 536,
-       "printed_page": 534
-      },
-      {
-       "type": "section",
-       "label": "II",
-       "title": "STATEMENT OF THE ISSUES",
-       "pdf_page": 536,
-       "printed_page": 534
-      },
-      {
-       "type": "section",
-       "label": "III",
-       "title": "JUDGMENT",
-       "pdf_page": 536,
-       "printed_page": 534
-      },
-      {
-       "type": "section",
-       "label": "IV",
-       "title": "REASONING AND OPINION",
-       "pdf_page": 537,
-       "printed_page": 535
-      },
-      {
-       "type": "section",
-       "label": "I",
-       "title": "SUMMARY OF THE FACTS",
-       "pdf_page": 537,
-       "printed_page": 535
-      },
-      {
-       "type": "section",
-       "label": "II",
-       "title": "STATEMENT OF THE ISSUE",
-       "pdf_page": 538,
-       "printed_page": 536
-      },
-      {
-       "type": "section",
-       "label": "III",
-       "title": "JUDGMENT",
-       "pdf_page": 538,
-       "printed_page": 536
-      },
-      {
-       "type": "section",
-       "label": "IV",
-       "title": "REASONING AND OPINION",
-       "pdf_page": 538,
-       "printed_page": 536
-      },
-      {
-       "type": "section",
-       "label": "I",
-       "title": "SUMMARY OF THE FACTS",
-       "pdf_page": 540,
-       "printed_page": 538
-      },
-      {
-       "type": "section",
-       "label": "III",
-       "title": "STATEMENT OF THE ISSUE",
-       "pdf_page": 543,
-       "printed_page": 541
-      },
-      {
-       "type": "section",
-       "label": "IV",
-       "title": "JUDGMENT",
-       "pdf_page": 543,
-       "printed_page": 541
-      },
-      {
-       "type": "section",
-       "label": "V",
-       "title": "REASONING AND OPINION",
-       "pdf_page": 543,
-       "printed_page": 541
-      },
-      {
-       "type": "section",
-       "label": "I",
-       "title": "SUMMARY OF THE FACTS",
-       "pdf_page": 545,
-       "printed_page": 543
-      },
-      {
-       "type": "section",
-       "label": "II",
-       "title": "STATEMENT OF THE ISSUE",
-       "pdf_page": 547,
-       "printed_page": 545
-      },
-      {
-       "type": "section",
-       "label": "III",
-       "title": "JUDGMENT",
-       "pdf_page": 547,
-       "printed_page": 545
-      },
-      {
-       "type": "section",
-       "label": "IV",
-       "title": "REASONING AND OPINION",
-       "pdf_page": 547,
-       "printed_page": 545
-      },
-      {
-       "type": "section",
-       "label": "I",
-       "title": "SUMMARY OF THE FACTS",
-       "pdf_page": 550,
-       "printed_page": 548
-      },
-      {
-       "type": "section",
-       "label": "II",
-       "title": "STATEMENT OF THE ISSUE",
-       "pdf_page": 552,
-       "printed_page": 550
-      },
-      {
-       "type": "section",
-       "label": "III",
-       "title": "JUDGMENT",
-       "pdf_page": 552,
-       "printed_page": 550
-      },
-      {
-       "type": "section",
-       "label": "IV",
-       "title": "REASONING AND OPINION",
-       "pdf_page": 552,
-       "printed_page": 550
-      },
-      {
-       "type": "section",
-       "label": "I",
-       "title": "SUMMARY OF THE FACTS",
-       "pdf_page": 569,
-       "printed_page": 567
-      },
-      {
-       "type": "section",
-       "label": "II",
-       "title": "STATEMENT OF THE ISSUES",
-       "pdf_page": 571,
-       "printed_page": 569
-      },
-      {
-       "type": "section",
-       "label": "III",
-       "title": "JUDGMENT",
-       "pdf_page": 571,
-       "printed_page": 569
-      },
-      {
-       "type": "section",
-       "label": "IV",
-       "title": "REASONING AND OPINION",
-       "pdf_page": 571,
-       "printed_page": 569
-      },
-      {
-       "type": "section",
-       "label": "II",
-       "title": "STATEMENT OF THE ISSUES",
-       "pdf_page": 582,
-       "printed_page": 580
-      },
-      {
-       "type": "section",
-       "label": "III",
-       "title": "JUDGMENT",
-       "pdf_page": 582,
-       "printed_page": 580
-      },
-      {
-       "type": "section",
-       "label": "IV",
-       "title": "REASONING AND OPINION",
-       "pdf_page": 582,
-       "printed_page": 580
-      },
-      {
-       "type": "section",
-       "label": "I",
-       "title": "SUMMARY OF THE FACTS",
-       "pdf_page": 596,
-       "printed_page": 594
-      },
-      {
-       "type": "section",
-       "label": "II",
-       "title": "STATEMENT OF THE ISSUES",
-       "pdf_page": 597,
-       "printed_page": 595
-      },
-      {
-       "type": "section",
-       "label": "III",
-       "title": "JUDGMENT",
-       "pdf_page": 597,
-       "printed_page": 595
-      },
-      {
-       "type": "section",
-       "label": "IV",
-       "title": "SJCM Amendments",
-       "pdf_page": 605,
-       "printed_page": 603
-      },
-      {
-       "type": "section",
-       "label": "II",
-       "title": "Amend SJCM 10.7(a) as follows",
-       "pdf_page": 605,
-       "printed_page": 603
-      },
-      {
-       "type": "section",
-       "label": "VI",
-       "title": "SJC REMINDER",
-       "pdf_page": 607,
-       "printed_page": 605
-      },
-      {
-       "type": "section",
-       "label": "VII",
-       "title": "THE OFFICERS OF THE STANDING JUDICIAL",
-       "pdf_page": 608,
-       "printed_page": 606
+       "printed_page": 529,
+       "children": [
+        {
+         "type": "section",
+         "label": "I",
+         "title": "SUMMARY OF THE FACTS",
+         "pdf_page": 531,
+         "printed_page": 529
+        },
+        {
+         "type": "section",
+         "label": "II",
+         "title": "STATEMENT OF THE ISSUE",
+         "pdf_page": 531,
+         "printed_page": 529
+        },
+        {
+         "type": "section",
+         "label": "III",
+         "title": "JUDGMENT",
+         "pdf_page": 531,
+         "printed_page": 529
+        },
+        {
+         "type": "section",
+         "label": "IV",
+         "title": "REASONING AND OPINION",
+         "pdf_page": 532,
+         "printed_page": 530
+        },
+        {
+         "type": "section",
+         "label": "I",
+         "title": "SUMMARY OF THE FACTS",
+         "pdf_page": 532,
+         "printed_page": 530
+        },
+        {
+         "type": "section",
+         "label": "II",
+         "title": "STATEMENT OF THE ISSUE",
+         "pdf_page": 534,
+         "printed_page": 532
+        },
+        {
+         "type": "section",
+         "label": "III",
+         "title": "JUDGMENT",
+         "pdf_page": 534,
+         "printed_page": 532
+        },
+        {
+         "type": "section",
+         "label": "IV",
+         "title": "REASONING AND OPINION",
+         "pdf_page": 534,
+         "printed_page": 532
+        },
+        {
+         "type": "case",
+         "label": "CASE NO. 2009-21",
+         "title": "COMPLAINT OF MR. PAUL ARMES V. COVENANT PRESBYTERIAN CHURCH OF LAKELAND, FLORIDA AND SOUTHWEST FLORIDA PRESBYTERY DISSENTING OPINION",
+         "pdf_page": 535,
+         "printed_page": 533,
+         "children": [
+          {
+           "type": "section",
+           "label": "I",
+           "title": "SUMMARY OF THE FACTS",
+           "pdf_page": 536,
+           "printed_page": 534
+          },
+          {
+           "type": "section",
+           "label": "II",
+           "title": "STATEMENT OF THE ISSUES",
+           "pdf_page": 536,
+           "printed_page": 534
+          },
+          {
+           "type": "section",
+           "label": "III",
+           "title": "JUDGMENT",
+           "pdf_page": 536,
+           "printed_page": 534
+          },
+          {
+           "type": "section",
+           "label": "IV",
+           "title": "REASONING AND OPINION",
+           "pdf_page": 537,
+           "printed_page": 535
+          }
+         ]
+        },
+        {
+         "type": "case",
+         "label": "CASE NO. 2009-22",
+         "title": "COMPLAINT OF MR. MICHAEL A. MCNEIL V. CHESAPEAKE PRESBYTERY",
+         "pdf_page": 537,
+         "printed_page": 535,
+         "children": [
+          {
+           "type": "section",
+           "label": "I",
+           "title": "SUMMARY OF THE FACTS",
+           "pdf_page": 537,
+           "printed_page": 535
+          },
+          {
+           "type": "section",
+           "label": "II",
+           "title": "STATEMENT OF THE ISSUE",
+           "pdf_page": 538,
+           "printed_page": 536
+          },
+          {
+           "type": "section",
+           "label": "III",
+           "title": "JUDGMENT",
+           "pdf_page": 538,
+           "printed_page": 536
+          },
+          {
+           "type": "section",
+           "label": "IV",
+           "title": "REASONING AND OPINION",
+           "pdf_page": 538,
+           "printed_page": 536
+          }
+         ]
+        },
+        {
+         "type": "case",
+         "label": "CASE NO. 2009-23",
+         "title": "COMPLAINT OF RE JERRY KOERKENMEIER V. ILLIANA PRESBYTERY",
+         "pdf_page": 540,
+         "printed_page": 538,
+         "children": [
+          {
+           "type": "section",
+           "label": "I",
+           "title": "SUMMARY OF THE FACTS",
+           "pdf_page": 540,
+           "printed_page": 538
+          },
+          {
+           "type": "section",
+           "label": "III",
+           "title": "STATEMENT OF THE ISSUE",
+           "pdf_page": 543,
+           "printed_page": 541
+          },
+          {
+           "type": "section",
+           "label": "IV",
+           "title": "JUDGMENT",
+           "pdf_page": 543,
+           "printed_page": 541
+          },
+          {
+           "type": "section",
+           "label": "V",
+           "title": "REASONING AND OPINION",
+           "pdf_page": 543,
+           "printed_page": 541
+          }
+         ]
+        },
+        {
+         "type": "case",
+         "label": "CASE NO. 2009-24",
+         "title": "COMPLAINT OF RE ROGER PHELPS V. PACIFIC PRESBYTERY",
+         "pdf_page": 545,
+         "printed_page": 543,
+         "children": [
+          {
+           "type": "section",
+           "label": "I",
+           "title": "SUMMARY OF THE FACTS",
+           "pdf_page": 545,
+           "printed_page": 543
+          },
+          {
+           "type": "section",
+           "label": "II",
+           "title": "STATEMENT OF THE ISSUE",
+           "pdf_page": 547,
+           "printed_page": 545
+          },
+          {
+           "type": "section",
+           "label": "III",
+           "title": "JUDGMENT",
+           "pdf_page": 547,
+           "printed_page": 545
+          },
+          {
+           "type": "section",
+           "label": "IV",
+           "title": "REASONING AND OPINION",
+           "pdf_page": 547,
+           "printed_page": 545
+          }
+         ]
+        },
+        {
+         "type": "case",
+         "label": "CASE NO. 2009-25",
+         "title": "COMPLAINT OF TE DAVID BROWN V. NORTHERN CALIFORNIA PRESBYTERY",
+         "pdf_page": 550,
+         "printed_page": 548,
+         "children": []
+        },
+        {
+         "type": "case",
+         "label": "CASE NO. 2009-26",
+         "title": "COMPLAINT OF SESSION OF GRACE PRESBYTERIAN CHURCH V. NORTHERN CALIFORNIA PRESBYTERY",
+         "pdf_page": 550,
+         "printed_page": 548,
+         "children": [
+          {
+           "type": "section",
+           "label": "I",
+           "title": "SUMMARY OF THE FACTS",
+           "pdf_page": 550,
+           "printed_page": 548
+          },
+          {
+           "type": "section",
+           "label": "II",
+           "title": "STATEMENT OF THE ISSUE",
+           "pdf_page": 552,
+           "printed_page": 550
+          },
+          {
+           "type": "section",
+           "label": "III",
+           "title": "JUDGMENT",
+           "pdf_page": 552,
+           "printed_page": 550
+          },
+          {
+           "type": "section",
+           "label": "IV",
+           "title": "REASONING AND OPINION",
+           "pdf_page": 552,
+           "printed_page": 550
+          }
+         ]
+        },
+        {
+         "type": "case",
+         "label": "CASE NO. 2009-25",
+         "title": "COMPLAINT OF TE DAVID BROWN V. NORTHERN CALIFORNIA PRESBYTERY",
+         "pdf_page": 554,
+         "printed_page": 552,
+         "children": []
+        },
+        {
+         "type": "case",
+         "label": "CASE NO. 2009-26",
+         "title": "COMPLAINT OF SESSION OF GRACE PRESBYTERIAN CHURCH V. NORTHERN CALIFORNIA PRESBYTERY CONCURRING OPINION",
+         "pdf_page": 554,
+         "printed_page": 552,
+         "children": []
+        },
+        {
+         "type": "case",
+         "label": "CASE NO. 2009-28",
+         "title": "COMPLAINT OF MATT RUFF V. NASHVILLE PRESBYTERY",
+         "pdf_page": 569,
+         "printed_page": 567,
+         "children": [
+          {
+           "type": "section",
+           "label": "I",
+           "title": "SUMMARY OF THE FACTS",
+           "pdf_page": 569,
+           "printed_page": 567
+          },
+          {
+           "type": "section",
+           "label": "II",
+           "title": "STATEMENT OF THE ISSUES",
+           "pdf_page": 571,
+           "printed_page": 569
+          },
+          {
+           "type": "section",
+           "label": "III",
+           "title": "JUDGMENT",
+           "pdf_page": 571,
+           "printed_page": 569
+          },
+          {
+           "type": "section",
+           "label": "IV",
+           "title": "REASONING AND OPINION",
+           "pdf_page": 571,
+           "printed_page": 569
+          }
+         ]
+        },
+        {
+         "type": "case",
+         "label": "CASE NO. 2009-28",
+         "title": "RUFF VS. NASHVILLE PRESBYTERY CONCURRING OPINION",
+         "pdf_page": 575,
+         "printed_page": 573,
+         "children": []
+        },
+        {
+         "type": "case",
+         "label": "CASE NO. 2010-3",
+         "title": "APPEAL OF MICHAEL MCNEIL V. CHESAPEAKE PRESBYTERY",
+         "pdf_page": 577,
+         "printed_page": 575,
+         "children": []
+        },
+        {
+         "type": "case",
+         "label": "CASE NO. 2010-04",
+         "title": "TE ART SARTORIOUS, ET AL V. SIOUXLANDS PRESBYTERY I SUMMARY OF THE FACTS",
+         "pdf_page": 580,
+         "printed_page": 578,
+         "children": [
+          {
+           "type": "section",
+           "label": "II",
+           "title": "STATEMENT OF THE ISSUES",
+           "pdf_page": 582,
+           "printed_page": 580
+          },
+          {
+           "type": "section",
+           "label": "III",
+           "title": "JUDGMENT",
+           "pdf_page": 582,
+           "printed_page": 580
+          },
+          {
+           "type": "section",
+           "label": "IV",
+           "title": "REASONING AND OPINION",
+           "pdf_page": 582,
+           "printed_page": 580
+          }
+         ]
+        },
+        {
+         "type": "case",
+         "label": "CASE NO. 2010-04",
+         "title": "TE ART SARTORIOUS, ET AL VS. PRESBYTERY OF THE SIOUXLANDS CONCURRING OPINION",
+         "pdf_page": 585,
+         "printed_page": 583,
+         "children": []
+        },
+        {
+         "type": "case",
+         "label": "CASE NO. 2010-04",
+         "title": "COMPLAINT OF TE ART SARTORIOUS, ET AL VS. SIOUXLANDS PRESBYTERY DISSENTING OPINION",
+         "pdf_page": 588,
+         "printed_page": 586,
+         "children": []
+        },
+        {
+         "type": "case",
+         "label": "CASE NO. 2010-16",
+         "title": "COMPLAINT OF KIRK LYONS VS. WESTERN CAROLINA",
+         "pdf_page": 596,
+         "printed_page": 594,
+         "children": [
+          {
+           "type": "section",
+           "label": "I",
+           "title": "SUMMARY OF THE FACTS",
+           "pdf_page": 596,
+           "printed_page": 594
+          },
+          {
+           "type": "section",
+           "label": "II",
+           "title": "STATEMENT OF THE ISSUES",
+           "pdf_page": 597,
+           "printed_page": 595
+          },
+          {
+           "type": "section",
+           "label": "III",
+           "title": "JUDGMENT",
+           "pdf_page": 597,
+           "printed_page": 595
+          }
+         ]
+        },
+        {
+         "type": "section",
+         "label": "IV",
+         "title": "SJCM Amendments",
+         "pdf_page": 605,
+         "printed_page": 603
+        },
+        {
+         "type": "section",
+         "label": "II",
+         "title": "Amend SJCM 10.7(a) as follows",
+         "pdf_page": 605,
+         "printed_page": 603
+        },
+        {
+         "type": "section",
+         "label": "VI",
+         "title": "SJC REMINDER",
+         "pdf_page": 607,
+         "printed_page": 605
+        },
+        {
+         "type": "section",
+         "label": "VII",
+         "title": "THE OFFICERS OF THE STANDING JUDICIAL",
+         "pdf_page": 608,
+         "printed_page": 606
+        }
+       ]
       }
      ]
     },

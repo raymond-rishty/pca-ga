@@ -446,21 +446,33 @@
        "label": "II",
        "title": "JUDICIAL CASES",
        "pdf_page": 479,
-       "printed_page": 477
+       "printed_page": 477,
+       "children": []
       },
       {
        "type": "section",
        "label": "III",
        "title": "REPORT OF THE CASES",
        "pdf_page": 480,
-       "printed_page": 478
-      },
-      {
-       "type": "section",
-       "label": "I",
-       "title": "SUMMARY OF THE FACTS",
-       "pdf_page": 480,
-       "printed_page": 478
+       "printed_page": 478,
+       "children": [
+        {
+         "type": "case",
+         "label": "CASE NO. 2015-13",
+         "title": "TE ANDREW BARNES V. HEARTLAND PRESBYTERY, DECISION ON COMPLAINT",
+         "pdf_page": 480,
+         "printed_page": 478,
+         "children": [
+          {
+           "type": "section",
+           "label": "I",
+           "title": "SUMMARY OF THE FACTS",
+           "pdf_page": 480,
+           "printed_page": 478
+          }
+         ]
+        }
+       ]
       }
      ]
     },
@@ -494,129 +506,206 @@
       },
       {
        "type": "section",
-       "label": "I",
-       "title": "SUMMARY OF THE FACTS",
+       "label": "",
+       "title": "JUDICIAL CASES",
        "pdf_page": 498,
-       "printed_page": 496
-      },
-      {
-       "type": "section",
-       "label": "III",
-       "title": "STATEMENT OF THE ISSUE",
-       "pdf_page": 501,
-       "printed_page": 499
-      },
-      {
-       "type": "section",
-       "label": "IV",
-       "title": "JUDGMENT",
-       "pdf_page": 501,
-       "printed_page": 499
-      },
-      {
-       "type": "section",
-       "label": "V",
-       "title": "REASONING",
-       "pdf_page": 501,
-       "printed_page": 499
-      },
-      {
-       "type": "section",
-       "label": "I",
-       "title": "SUMMARY OF THE FACTS",
-       "pdf_page": 516,
-       "printed_page": 514
-      },
-      {
-       "type": "section",
-       "label": "II",
-       "title": "STATEMENT OF THE ISSUES",
-       "pdf_page": 518,
-       "printed_page": 516
-      },
-      {
-       "type": "section",
-       "label": "III",
-       "title": "JUDGMENT",
-       "pdf_page": 519,
-       "printed_page": 517
-      },
-      {
-       "type": "section",
-       "label": "IV",
-       "title": "REASONING AND OPINION",
-       "pdf_page": 519,
-       "printed_page": 517
-      },
-      {
-       "type": "section",
-       "label": "I",
-       "title": "SUMMARY OF THE FACTS",
-       "pdf_page": 534,
-       "printed_page": 532
-      },
-      {
-       "type": "section",
-       "label": "II",
-       "title": "STATEMENT OF THE ISSUE",
-       "pdf_page": 537,
-       "printed_page": 535
-      },
-      {
-       "type": "section",
-       "label": "III",
-       "title": "JUDGMENT",
-       "pdf_page": 537,
-       "printed_page": 535
-      },
-      {
-       "type": "section",
-       "label": "IV",
-       "title": "REASONING and OPINION",
-       "pdf_page": 538,
-       "printed_page": 536
-      },
-      {
-       "type": "section",
-       "label": "I",
-       "title": "SUMMARY OF THE FACTS",
-       "pdf_page": 545,
-       "printed_page": 543
-      },
-      {
-       "type": "section",
-       "label": "II",
-       "title": "STATEMENT OF THE ISSUES",
-       "pdf_page": 553,
-       "printed_page": 551
-      },
-      {
-       "type": "section",
-       "label": "III",
-       "title": "JUDGMENT",
-       "pdf_page": 553,
-       "printed_page": 551
-      },
-      {
-       "type": "section",
-       "label": "IV",
-       "title": "REASONING AND OPINION",
-       "pdf_page": 553,
-       "printed_page": 551
-      },
-      {
-       "type": "section",
-       "label": "IV",
-       "title": "PROPOSED CHANGES TO THE OMSJC",
-       "pdf_page": 556,
-       "printed_page": 554
-      },
-      {
-       "type": "section",
-       "label": "V",
-       "title": "ELECTION OF OFFICERS",
-       "pdf_page": 558,
-       "printed_page": 556
+       "printed_page": 496,
+       "children": [
+        {
+         "type": "case",
+         "label": "CASE NO. 2016-01",
+         "title": "TE DON AVEN V. OHIO VALLEY PRESBYTERY, DECISION ON COMPLAINT",
+         "pdf_page": 498,
+         "printed_page": 496,
+         "children": [
+          {
+           "type": "section",
+           "label": "I",
+           "title": "SUMMARY OF THE FACTS",
+           "pdf_page": 498,
+           "printed_page": 496
+          },
+          {
+           "type": "section",
+           "label": "III",
+           "title": "STATEMENT OF THE ISSUE",
+           "pdf_page": 501,
+           "printed_page": 499
+          },
+          {
+           "type": "section",
+           "label": "IV",
+           "title": "JUDGMENT",
+           "pdf_page": 501,
+           "printed_page": 499
+          },
+          {
+           "type": "section",
+           "label": "V",
+           "title": "REASONING",
+           "pdf_page": 501,
+           "printed_page": 499
+          }
+         ]
+        },
+        {
+         "type": "case",
+         "label": "CASE NO. 2016-02",
+         "title": "TE ARNOLD ROBERTSTAD V. NORTH TEXAS PRESBYTERY, DECISION ON COMPLAINT",
+         "pdf_page": 511,
+         "printed_page": 509,
+         "children": []
+        },
+        {
+         "type": "case",
+         "label": "CASE NO. 2016-05",
+         "title": "TE THOMAS E. TROXELL V. THE PRESBYTERY OF THE SOUTHWEST, DECISION ON COMPLAINT",
+         "pdf_page": 516,
+         "printed_page": 514,
+         "children": [
+          {
+           "type": "section",
+           "label": "I",
+           "title": "SUMMARY OF THE FACTS",
+           "pdf_page": 516,
+           "printed_page": 514
+          },
+          {
+           "type": "section",
+           "label": "II",
+           "title": "STATEMENT OF THE ISSUES",
+           "pdf_page": 518,
+           "printed_page": 516
+          },
+          {
+           "type": "section",
+           "label": "III",
+           "title": "JUDGMENT",
+           "pdf_page": 519,
+           "printed_page": 517
+          },
+          {
+           "type": "section",
+           "label": "IV",
+           "title": "REASONING AND OPINION",
+           "pdf_page": 519,
+           "printed_page": 517
+          }
+         ]
+        },
+        {
+         "type": "case",
+         "label": "CASE NO. 2016-07",
+         "title": "RE JOHN AVERY AND RE DALE LEWELLING V. NASHVILLE PRESBYTERY, DECISION ON COMPLAINT",
+         "pdf_page": 525,
+         "printed_page": 523,
+         "children": []
+        },
+        {
+         "type": "case",
+         "label": "CASE NO. 2016-08",
+         "title": "MS. LAURIE LEE DOTY V. NASHVILLE PRESBYTERY, DECISION ON COMPLAINT",
+         "pdf_page": 526,
+         "printed_page": 524,
+         "children": []
+        },
+        {
+         "type": "case",
+         "label": "CASE NO. 2016-09",
+         "title": "MR. MARK FORDICE V. PACIFIC NORTHWEST PRESBYTERY, DECISION ON COMPLAINT",
+         "pdf_page": 534,
+         "printed_page": 532,
+         "children": [
+          {
+           "type": "section",
+           "label": "I",
+           "title": "SUMMARY OF THE FACTS",
+           "pdf_page": 534,
+           "printed_page": 532
+          },
+          {
+           "type": "section",
+           "label": "II",
+           "title": "STATEMENT OF THE ISSUE",
+           "pdf_page": 537,
+           "printed_page": 535
+          },
+          {
+           "type": "section",
+           "label": "III",
+           "title": "JUDGMENT",
+           "pdf_page": 537,
+           "printed_page": 535
+          },
+          {
+           "type": "section",
+           "label": "IV",
+           "title": "REASONING and OPINION",
+           "pdf_page": 538,
+           "printed_page": 536
+          }
+         ]
+        },
+        {
+         "type": "case",
+         "label": "CASE NO. 2016-12",
+         "title": "",
+         "pdf_page": 544,
+         "printed_page": 542,
+         "children": []
+        },
+        {
+         "type": "case",
+         "label": "CASE NO. 2016-14",
+         "title": "TE TOLIVAR WILLS V. METRO ATLANTA PRESBYTERY, DECISION ON COMPLAINT",
+         "pdf_page": 545,
+         "printed_page": 543,
+         "children": [
+          {
+           "type": "section",
+           "label": "I",
+           "title": "SUMMARY OF THE FACTS",
+           "pdf_page": 545,
+           "printed_page": 543
+          },
+          {
+           "type": "section",
+           "label": "II",
+           "title": "STATEMENT OF THE ISSUES",
+           "pdf_page": 553,
+           "printed_page": 551
+          },
+          {
+           "type": "section",
+           "label": "III",
+           "title": "JUDGMENT",
+           "pdf_page": 553,
+           "printed_page": 551
+          },
+          {
+           "type": "section",
+           "label": "IV",
+           "title": "REASONING AND OPINION",
+           "pdf_page": 553,
+           "printed_page": 551
+          }
+         ]
+        },
+        {
+         "type": "section",
+         "label": "IV",
+         "title": "PROPOSED CHANGES TO THE OMSJC",
+         "pdf_page": 556,
+         "printed_page": 554
+        },
+        {
+         "type": "section",
+         "label": "V",
+         "title": "ELECTION OF OFFICERS",
+         "pdf_page": 558,
+         "printed_page": 556
+        }
+       ]
       }
      ]
     },
