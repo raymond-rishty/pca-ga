@@ -414,189 +414,241 @@
        "label": "II",
        "title": "JUDICIAL CASES",
        "pdf_page": 553,
-       "printed_page": 551
-      },
-      {
-       "type": "section",
-       "label": "I",
-       "title": "SUMMARY OF THE FACTS",
-       "pdf_page": 554,
-       "printed_page": 552
-      },
-      {
-       "type": "section",
-       "label": "II",
-       "title": "STATEMENT OF THE ISSUE",
-       "pdf_page": 556,
-       "printed_page": 554
-      },
-      {
-       "type": "section",
-       "label": "III",
-       "title": "JUDGMENT",
-       "pdf_page": 556,
-       "printed_page": 554
-      },
-      {
-       "type": "section",
-       "label": "IV",
-       "title": "REASONING AND OPINION",
-       "pdf_page": 556,
-       "printed_page": 554
-      },
-      {
-       "type": "section",
-       "label": "I",
-       "title": "SUMMARY OF FACTS",
-       "pdf_page": 557,
-       "printed_page": 555
-      },
-      {
-       "type": "section",
-       "label": "II",
-       "title": "STATEMENT OF THE ISSUE",
-       "pdf_page": 561,
-       "printed_page": 559
-      },
-      {
-       "type": "section",
-       "label": "III",
-       "title": "JUDGMENT",
-       "pdf_page": 562,
-       "printed_page": 560
-      },
-      {
-       "type": "section",
-       "label": "IV",
-       "title": "REASONING AND OPINION",
-       "pdf_page": 562,
-       "printed_page": 560
-      },
-      {
-       "type": "section",
-       "label": "I",
-       "title": "SUMMARY OF THE FACTS",
-       "pdf_page": 568,
-       "printed_page": 566
-      },
-      {
-       "type": "section",
-       "label": "II",
-       "title": "STATEMENT OF THE ISSUES",
-       "pdf_page": 569,
-       "printed_page": 567
-      },
-      {
-       "type": "section",
-       "label": "III",
-       "title": "JUDGMENT",
-       "pdf_page": 569,
-       "printed_page": 567
-      },
-      {
-       "type": "section",
-       "label": "IV",
-       "title": "REASONING AND OPINION",
-       "pdf_page": 570,
-       "printed_page": 568
-      },
-      {
-       "type": "section",
-       "label": "I",
-       "title": "SUMMARY OF THE FACTS",
-       "pdf_page": 577,
-       "printed_page": 575
-      },
-      {
-       "type": "section",
-       "label": "II",
-       "title": "STATEMENT OF THE ISSUE",
-       "pdf_page": 581,
-       "printed_page": 579
-      },
-      {
-       "type": "section",
-       "label": "III",
-       "title": "JUDGMENT",
-       "pdf_page": 581,
-       "printed_page": 579
-      },
-      {
-       "type": "section",
-       "label": "IV",
-       "title": "REASONING AND OPINION",
-       "pdf_page": 581,
-       "printed_page": 579
-      },
-      {
-       "type": "section",
-       "label": "I",
-       "title": "SUMMARY OF FACTS",
-       "pdf_page": 585,
-       "printed_page": 583
-      },
-      {
-       "type": "section",
-       "label": "II",
-       "title": "STATEMENT OF THE ISSUE",
-       "pdf_page": 587,
-       "printed_page": 585
-      },
-      {
-       "type": "section",
-       "label": "III",
-       "title": "JUDGMENT",
-       "pdf_page": 588,
-       "printed_page": 586
-      },
-      {
-       "type": "section",
-       "label": "IV",
-       "title": "REASONING AND OPINION",
-       "pdf_page": 588,
-       "printed_page": 586
-      },
-      {
-       "type": "section",
-       "label": "I",
-       "title": "SUMMARY OF THE FACTS",
-       "pdf_page": 600,
-       "printed_page": 598
-      },
-      {
-       "type": "section",
-       "label": "II",
-       "title": "STATEMENT OF THE ISSUE",
-       "pdf_page": 601,
-       "printed_page": 599
-      },
-      {
-       "type": "section",
-       "label": "III",
-       "title": "JUDGMENT",
-       "pdf_page": 603,
-       "printed_page": 601
-      },
-      {
-       "type": "section",
-       "label": "IV",
-       "title": "REASONING & OPINION",
-       "pdf_page": 603,
-       "printed_page": 601
-      },
-      {
-       "type": "section",
-       "label": "IV",
-       "title": "ELECTION OF OFFICERS",
-       "pdf_page": 618,
-       "printed_page": 616
-      },
-      {
-       "type": "section",
-       "label": "V",
-       "title": "RECOMMENDATIONS",
-       "pdf_page": 619,
-       "printed_page": 617
+       "printed_page": 551,
+       "children": [
+        {
+         "type": "section",
+         "label": "I",
+         "title": "SUMMARY OF THE FACTS",
+         "pdf_page": 554,
+         "printed_page": 552
+        },
+        {
+         "type": "section",
+         "label": "II",
+         "title": "STATEMENT OF THE ISSUE",
+         "pdf_page": 556,
+         "printed_page": 554
+        },
+        {
+         "type": "section",
+         "label": "III",
+         "title": "JUDGMENT",
+         "pdf_page": 556,
+         "printed_page": 554
+        },
+        {
+         "type": "section",
+         "label": "IV",
+         "title": "REASONING AND OPINION",
+         "pdf_page": 556,
+         "printed_page": 554
+        },
+        {
+         "type": "section",
+         "label": "I",
+         "title": "SUMMARY OF FACTS",
+         "pdf_page": 557,
+         "printed_page": 555
+        },
+        {
+         "type": "section",
+         "label": "II",
+         "title": "STATEMENT OF THE ISSUE",
+         "pdf_page": 561,
+         "printed_page": 559
+        },
+        {
+         "type": "section",
+         "label": "III",
+         "title": "JUDGMENT",
+         "pdf_page": 562,
+         "printed_page": 560
+        },
+        {
+         "type": "section",
+         "label": "IV",
+         "title": "REASONING AND OPINION",
+         "pdf_page": 562,
+         "printed_page": 560
+        },
+        {
+         "type": "section",
+         "label": "I",
+         "title": "SUMMARY OF THE FACTS",
+         "pdf_page": 568,
+         "printed_page": 566
+        },
+        {
+         "type": "section",
+         "label": "II",
+         "title": "STATEMENT OF THE ISSUES",
+         "pdf_page": 569,
+         "printed_page": 567
+        },
+        {
+         "type": "section",
+         "label": "III",
+         "title": "JUDGMENT",
+         "pdf_page": 569,
+         "printed_page": 567
+        },
+        {
+         "type": "section",
+         "label": "IV",
+         "title": "REASONING AND OPINION",
+         "pdf_page": 570,
+         "printed_page": 568
+        },
+        {
+         "type": "case",
+         "label": "CASE NO. 2012-01",
+         "title": "PAUL SHERFEY V. JAMES RIVER PRESBYTERY",
+         "pdf_page": 573,
+         "printed_page": 571,
+         "children": []
+        },
+        {
+         "type": "case",
+         "label": "CASE NO. 2012-01",
+         "title": "PAUL SHERFEY V. JAMES RIVER PRESBYTERY",
+         "pdf_page": 576,
+         "printed_page": 574,
+         "children": [
+          {
+           "type": "section",
+           "label": "I",
+           "title": "SUMMARY OF THE FACTS",
+           "pdf_page": 577,
+           "printed_page": 575
+          },
+          {
+           "type": "section",
+           "label": "II",
+           "title": "STATEMENT OF THE ISSUE",
+           "pdf_page": 581,
+           "printed_page": 579
+          },
+          {
+           "type": "section",
+           "label": "III",
+           "title": "JUDGMENT",
+           "pdf_page": 581,
+           "printed_page": 579
+          },
+          {
+           "type": "section",
+           "label": "IV",
+           "title": "REASONING AND OPINION",
+           "pdf_page": 581,
+           "printed_page": 579
+          },
+          {
+           "type": "section",
+           "label": "I",
+           "title": "SUMMARY OF FACTS",
+           "pdf_page": 585,
+           "printed_page": 583
+          },
+          {
+           "type": "section",
+           "label": "II",
+           "title": "STATEMENT OF THE ISSUE",
+           "pdf_page": 587,
+           "printed_page": 585
+          },
+          {
+           "type": "section",
+           "label": "III",
+           "title": "JUDGMENT",
+           "pdf_page": 588,
+           "printed_page": 586
+          },
+          {
+           "type": "section",
+           "label": "IV",
+           "title": "REASONING AND OPINION",
+           "pdf_page": 588,
+           "printed_page": 586
+          }
+         ]
+        },
+        {
+         "type": "case",
+         "label": "CASE NO. 2012-05",
+         "title": "RE GERALD HEDMAN V. PACIFIC NORTHWEST PRESBYTERY",
+         "pdf_page": 592,
+         "printed_page": 590,
+         "children": []
+        },
+        {
+         "type": "case",
+         "label": "CASE NO. 2012-05",
+         "title": "RE GERALD HEDMAN V. PACIFIC NORTHWEST PRESBYTERY",
+         "pdf_page": 596,
+         "printed_page": 594,
+         "children": []
+        },
+        {
+         "type": "case",
+         "label": "CASE NO. 2012-05",
+         "title": "RE GERALD HEDMAN V. PACIFIC NORTHWEST PRESBYTERY",
+         "pdf_page": 600,
+         "printed_page": 598,
+         "children": [
+          {
+           "type": "section",
+           "label": "I",
+           "title": "SUMMARY OF THE FACTS",
+           "pdf_page": 600,
+           "printed_page": 598
+          },
+          {
+           "type": "section",
+           "label": "II",
+           "title": "STATEMENT OF THE ISSUE",
+           "pdf_page": 601,
+           "printed_page": 599
+          },
+          {
+           "type": "section",
+           "label": "III",
+           "title": "JUDGMENT",
+           "pdf_page": 603,
+           "printed_page": 601
+          },
+          {
+           "type": "section",
+           "label": "IV",
+           "title": "REASONING & OPINION",
+           "pdf_page": 603,
+           "printed_page": 601
+          }
+         ]
+        },
+        {
+         "type": "case",
+         "label": "CASE NO. 2012-10",
+         "title": "PCA VS KOREAN CAPITAL PRESBYTERY",
+         "pdf_page": 618,
+         "printed_page": 616,
+         "children": []
+        },
+        {
+         "type": "section",
+         "label": "IV",
+         "title": "ELECTION OF OFFICERS",
+         "pdf_page": 618,
+         "printed_page": 616
+        },
+        {
+         "type": "section",
+         "label": "V",
+         "title": "RECOMMENDATIONS",
+         "pdf_page": 619,
+         "printed_page": 617
+        }
+       ]
       }
      ]
     },

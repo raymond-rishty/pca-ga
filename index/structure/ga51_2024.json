@@ -353,315 +353,334 @@
        "label": "II",
        "title": "LIST OF JUDICIAL CASES PENDING, IN PROCESS, OR",
        "pdf_page": 719,
-       "printed_page": 712
-      },
-      {
-       "type": "section",
-       "label": "III",
-       "title": "DECISIONS AND RULINGS",
-       "pdf_page": 721,
-       "printed_page": 714
-      },
-      {
-       "type": "section",
-       "label": "I",
-       "title": "SUMMARY OF FACTS",
-       "pdf_page": 722,
-       "printed_page": 715
-      },
-      {
-       "type": "section",
-       "label": "II",
-       "title": "STATEMENT OF THE ISSUES",
-       "pdf_page": 727,
-       "printed_page": 720
-      },
-      {
-       "type": "section",
-       "label": "III",
-       "title": "JUDGMENT",
-       "pdf_page": 727,
-       "printed_page": 720
-      },
-      {
-       "type": "section",
-       "label": "IV",
-       "title": "REASONING AND OPINION",
-       "pdf_page": 727,
-       "printed_page": 720
-      },
-      {
-       "type": "section",
-       "label": "I",
-       "title": "SUMMARY OF THE FACTS",
-       "pdf_page": 734,
-       "printed_page": 727
-      },
-      {
-       "type": "section",
-       "label": "II",
-       "title": "STATEMENT OF THE ISSUES",
-       "pdf_page": 739,
-       "printed_page": 732
-      },
-      {
-       "type": "section",
-       "label": "III",
-       "title": "PROPOSED JUDGMENTS",
-       "pdf_page": 740,
-       "printed_page": 733
-      },
-      {
-       "type": "section",
-       "label": "IV",
-       "title": "REASONING AND OPINION",
-       "pdf_page": 740,
-       "printed_page": 733
-      },
-      {
-       "type": "section",
-       "label": "I",
-       "title": "SUMMARY OF THE FACTS",
-       "pdf_page": 749,
-       "printed_page": 742
-      },
-      {
-       "type": "section",
-       "label": "II",
-       "title": "STATEMENT OF THE ISSUE",
-       "pdf_page": 751,
-       "printed_page": 744
-      },
-      {
-       "type": "section",
-       "label": "III",
-       "title": "JUDGMENT",
-       "pdf_page": 751,
-       "printed_page": 744
-      },
-      {
-       "type": "section",
-       "label": "IV",
-       "title": "REASONING AND OPINION",
-       "pdf_page": 751,
-       "printed_page": 744
-      },
-      {
-       "type": "section",
-       "label": "I",
-       "title": "SUMMARY OF THE FACTS",
-       "pdf_page": 776,
-       "printed_page": 769
-      },
-      {
-       "type": "section",
-       "label": "II",
-       "title": "STATEMENT OF THE ISSUE",
-       "pdf_page": 777,
-       "printed_page": 770
-      },
-      {
-       "type": "section",
-       "label": "III",
-       "title": "JUDGMENT",
-       "pdf_page": 777,
-       "printed_page": 770
-      },
-      {
-       "type": "section",
-       "label": "IV",
-       "title": "REASONING AND OPINION",
-       "pdf_page": 777,
-       "printed_page": 770
-      },
-      {
-       "type": "section",
-       "label": "IV",
-       "title": "Conclusion",
-       "pdf_page": 793,
-       "printed_page": 786
-      },
-      {
-       "type": "section",
-       "label": "I",
-       "title": "SUMMARY OF THE FACTS",
-       "pdf_page": 796,
-       "printed_page": 789
-      },
-      {
-       "type": "section",
-       "label": "II",
-       "title": "STATEMENT OF THE ISSUES",
-       "pdf_page": 802,
-       "printed_page": 795
-      },
-      {
-       "type": "section",
-       "label": "III",
-       "title": "JUDGMENTS",
-       "pdf_page": 803,
-       "printed_page": 796
-      },
-      {
-       "type": "section",
-       "label": "IV",
-       "title": "REASONING AND OPINION",
-       "pdf_page": 803,
-       "printed_page": 796
-      },
-      {
-       "type": "section",
-       "label": "I",
-       "title": "SUMMARY OF THE FACTS",
-       "pdf_page": 815,
-       "printed_page": 808
-      },
-      {
-       "type": "section",
-       "label": "II",
-       "title": "STATEMENT OF THE ISSUE",
-       "pdf_page": 819,
-       "printed_page": 812
-      },
-      {
-       "type": "section",
-       "label": "III",
-       "title": "JUDGMENT",
-       "pdf_page": 819,
-       "printed_page": 812
-      },
-      {
-       "type": "section",
-       "label": "IV",
-       "title": "REASONING AND OPINION",
-       "pdf_page": 819,
-       "printed_page": 812
-      },
-      {
-       "type": "section",
-       "label": "I",
-       "title": "SUMMARY OF FACTS",
-       "pdf_page": 831,
-       "printed_page": 824
-      },
-      {
-       "type": "section",
-       "label": "I",
-       "title": "STATEMENT OF THE ISSUE",
-       "pdf_page": 835,
-       "printed_page": 828
-      },
-      {
-       "type": "section",
-       "label": "II",
-       "title": "JUDGMENT",
-       "pdf_page": 835,
-       "printed_page": 828
-      },
-      {
-       "type": "section",
-       "label": "IV",
-       "title": "REASONING AND OPINION",
-       "pdf_page": 836,
-       "printed_page": 829
-      },
-      {
-       "type": "section",
-       "label": "IV",
-       "title": "The Murky Path Forward",
-       "pdf_page": 858,
-       "printed_page": 851
-      },
-      {
-       "type": "section",
-       "label": "I",
-       "title": "SUMMARY OF THE FACTS",
-       "pdf_page": 863,
-       "printed_page": 856
-      },
-      {
-       "type": "section",
-       "label": "II",
-       "title": "STATEMENT OF THE ISSUES",
-       "pdf_page": 867,
-       "printed_page": 860
-      },
-      {
-       "type": "section",
-       "label": "III",
-       "title": "JUDGMENT",
-       "pdf_page": 867,
-       "printed_page": 860
-      },
-      {
-       "type": "section",
-       "label": "IV",
-       "title": "REASONING AND OPINION",
-       "pdf_page": 867,
-       "printed_page": 860
-      },
-      {
-       "type": "section",
-       "label": "I",
-       "title": "SUMMARY OF THE FACTS",
-       "pdf_page": 874,
-       "printed_page": 867
-      },
-      {
-       "type": "section",
-       "label": "II",
-       "title": "STATEMENT OF THE ISSUE",
-       "pdf_page": 875,
-       "printed_page": 868
-      },
-      {
-       "type": "section",
-       "label": "III",
-       "title": "JUDGMENT",
-       "pdf_page": 875,
-       "printed_page": 868
-      },
-      {
-       "type": "section",
-       "label": "IV",
-       "title": "REASONING AND OPINION",
-       "pdf_page": 875,
-       "printed_page": 868
-      },
-      {
-       "type": "section",
-       "label": "II",
-       "title": "The Assembly Did Not Violate BCO 15-4",
-       "pdf_page": 939,
-       "printed_page": 932
-      },
-      {
-       "type": "section",
-       "label": "III",
-       "title": "The Assembly Did Not Violate BCO 11-3",
-       "pdf_page": 940,
-       "printed_page": 933
-      },
-      {
-       "type": "section",
-       "label": "IV",
-       "title": "The Committal did not Clearly Violate the RAO",
-       "pdf_page": 941,
-       "printed_page": 934
-      },
-      {
-       "type": "section",
-       "label": "IV",
-       "title": "PROPOSED MANUAL CHANGES",
-       "pdf_page": 961,
-       "printed_page": 954
-      },
-      {
-       "type": "section",
-       "label": "V",
-       "title": "OFFICERS",
-       "pdf_page": 974,
-       "printed_page": 967
+       "printed_page": 712,
+       "children": [
+        {
+         "type": "section",
+         "label": "III",
+         "title": "DECISIONS AND RULINGS",
+         "pdf_page": 721,
+         "printed_page": 714
+        },
+        {
+         "type": "section",
+         "label": "I",
+         "title": "SUMMARY OF FACTS",
+         "pdf_page": 722,
+         "printed_page": 715
+        },
+        {
+         "type": "section",
+         "label": "II",
+         "title": "STATEMENT OF THE ISSUES",
+         "pdf_page": 727,
+         "printed_page": 720
+        },
+        {
+         "type": "section",
+         "label": "III",
+         "title": "JUDGMENT",
+         "pdf_page": 727,
+         "printed_page": 720
+        },
+        {
+         "type": "section",
+         "label": "IV",
+         "title": "REASONING AND OPINION",
+         "pdf_page": 727,
+         "printed_page": 720
+        },
+        {
+         "type": "section",
+         "label": "I",
+         "title": "SUMMARY OF THE FACTS",
+         "pdf_page": 734,
+         "printed_page": 727
+        },
+        {
+         "type": "section",
+         "label": "II",
+         "title": "STATEMENT OF THE ISSUES",
+         "pdf_page": 739,
+         "printed_page": 732
+        },
+        {
+         "type": "section",
+         "label": "III",
+         "title": "PROPOSED JUDGMENTS",
+         "pdf_page": 740,
+         "printed_page": 733
+        },
+        {
+         "type": "section",
+         "label": "IV",
+         "title": "REASONING AND OPINION",
+         "pdf_page": 740,
+         "printed_page": 733
+        },
+        {
+         "type": "section",
+         "label": "I",
+         "title": "SUMMARY OF THE FACTS",
+         "pdf_page": 749,
+         "printed_page": 742
+        },
+        {
+         "type": "section",
+         "label": "II",
+         "title": "STATEMENT OF THE ISSUE",
+         "pdf_page": 751,
+         "printed_page": 744
+        },
+        {
+         "type": "section",
+         "label": "III",
+         "title": "JUDGMENT",
+         "pdf_page": 751,
+         "printed_page": 744
+        },
+        {
+         "type": "section",
+         "label": "IV",
+         "title": "REASONING AND OPINION",
+         "pdf_page": 751,
+         "printed_page": 744
+        },
+        {
+         "type": "case",
+         "label": "CASE NO. 2023-01",
+         "title": "MRS. KRISTIN HANN V. PEE DEE PRESBYTERY RULING ON COMPLAINT",
+         "pdf_page": 773,
+         "printed_page": 766,
+         "children": []
+        },
+        {
+         "type": "case",
+         "label": "CASE NO. 2023-02",
+         "title": "MRS. KAPPIE REYNOLDS V. PEE DEE PRESBYTERY RULING ON COMPLAINT",
+         "pdf_page": 774,
+         "printed_page": 767,
+         "children": [
+          {
+           "type": "section",
+           "label": "I",
+           "title": "SUMMARY OF THE FACTS",
+           "pdf_page": 776,
+           "printed_page": 769
+          },
+          {
+           "type": "section",
+           "label": "II",
+           "title": "STATEMENT OF THE ISSUE",
+           "pdf_page": 777,
+           "printed_page": 770
+          },
+          {
+           "type": "section",
+           "label": "III",
+           "title": "JUDGMENT",
+           "pdf_page": 777,
+           "printed_page": 770
+          },
+          {
+           "type": "section",
+           "label": "IV",
+           "title": "REASONING AND OPINION",
+           "pdf_page": 777,
+           "printed_page": 770
+          },
+          {
+           "type": "section",
+           "label": "IV",
+           "title": "Conclusion",
+           "pdf_page": 793,
+           "printed_page": 786
+          },
+          {
+           "type": "section",
+           "label": "I",
+           "title": "SUMMARY OF THE FACTS",
+           "pdf_page": 796,
+           "printed_page": 789
+          },
+          {
+           "type": "section",
+           "label": "II",
+           "title": "STATEMENT OF THE ISSUES",
+           "pdf_page": 802,
+           "printed_page": 795
+          },
+          {
+           "type": "section",
+           "label": "III",
+           "title": "JUDGMENTS",
+           "pdf_page": 803,
+           "printed_page": 796
+          },
+          {
+           "type": "section",
+           "label": "IV",
+           "title": "REASONING AND OPINION",
+           "pdf_page": 803,
+           "printed_page": 796
+          },
+          {
+           "type": "section",
+           "label": "I",
+           "title": "SUMMARY OF THE FACTS",
+           "pdf_page": 815,
+           "printed_page": 808
+          },
+          {
+           "type": "section",
+           "label": "II",
+           "title": "STATEMENT OF THE ISSUE",
+           "pdf_page": 819,
+           "printed_page": 812
+          },
+          {
+           "type": "section",
+           "label": "III",
+           "title": "JUDGMENT",
+           "pdf_page": 819,
+           "printed_page": 812
+          },
+          {
+           "type": "section",
+           "label": "IV",
+           "title": "REASONING AND OPINION",
+           "pdf_page": 819,
+           "printed_page": 812
+          },
+          {
+           "type": "section",
+           "label": "I",
+           "title": "SUMMARY OF FACTS",
+           "pdf_page": 831,
+           "printed_page": 824
+          },
+          {
+           "type": "section",
+           "label": "I",
+           "title": "STATEMENT OF THE ISSUE",
+           "pdf_page": 835,
+           "printed_page": 828
+          },
+          {
+           "type": "section",
+           "label": "II",
+           "title": "JUDGMENT",
+           "pdf_page": 835,
+           "printed_page": 828
+          },
+          {
+           "type": "section",
+           "label": "IV",
+           "title": "REASONING AND OPINION",
+           "pdf_page": 836,
+           "printed_page": 829
+          },
+          {
+           "type": "section",
+           "label": "IV",
+           "title": "The Murky Path Forward",
+           "pdf_page": 858,
+           "printed_page": 851
+          },
+          {
+           "type": "section",
+           "label": "I",
+           "title": "SUMMARY OF THE FACTS",
+           "pdf_page": 863,
+           "printed_page": 856
+          },
+          {
+           "type": "section",
+           "label": "II",
+           "title": "STATEMENT OF THE ISSUES",
+           "pdf_page": 867,
+           "printed_page": 860
+          },
+          {
+           "type": "section",
+           "label": "III",
+           "title": "JUDGMENT",
+           "pdf_page": 867,
+           "printed_page": 860
+          },
+          {
+           "type": "section",
+           "label": "IV",
+           "title": "REASONING AND OPINION",
+           "pdf_page": 867,
+           "printed_page": 860
+          },
+          {
+           "type": "section",
+           "label": "I",
+           "title": "SUMMARY OF THE FACTS",
+           "pdf_page": 874,
+           "printed_page": 867
+          },
+          {
+           "type": "section",
+           "label": "II",
+           "title": "STATEMENT OF THE ISSUE",
+           "pdf_page": 875,
+           "printed_page": 868
+          },
+          {
+           "type": "section",
+           "label": "III",
+           "title": "JUDGMENT",
+           "pdf_page": 875,
+           "printed_page": 868
+          },
+          {
+           "type": "section",
+           "label": "IV",
+           "title": "REASONING AND OPINION",
+           "pdf_page": 875,
+           "printed_page": 868
+          },
+          {
+           "type": "section",
+           "label": "II",
+           "title": "The Assembly Did Not Violate BCO 15-4",
+           "pdf_page": 939,
+           "printed_page": 932
+          },
+          {
+           "type": "section",
+           "label": "III",
+           "title": "The Assembly Did Not Violate BCO 11-3",
+           "pdf_page": 940,
+           "printed_page": 933
+          },
+          {
+           "type": "section",
+           "label": "IV",
+           "title": "The Committal did not Clearly Violate the RAO",
+           "pdf_page": 941,
+           "printed_page": 934
+          }
+         ]
+        },
+        {
+         "type": "section",
+         "label": "IV",
+         "title": "PROPOSED MANUAL CHANGES",
+         "pdf_page": 961,
+         "printed_page": 954
+        },
+        {
+         "type": "section",
+         "label": "V",
+         "title": "OFFICERS",
+         "pdf_page": 974,
+         "printed_page": 967
+        }
+       ]
       }
      ]
     },

@@ -656,434 +656,638 @@
        "label": "II",
        "title": "JUDICIAL CASES",
        "pdf_page": 654,
-       "printed_page": 637
+       "printed_page": 637,
+       "children": []
       },
       {
        "type": "section",
        "label": "III",
        "title": "REPORT OF THE CASES",
        "pdf_page": 655,
-       "printed_page": 638
-      },
-      {
-       "type": "section",
-       "label": "I",
-       "title": "CASE SUMMARY",
-       "pdf_page": 655,
-       "printed_page": 638
-      },
-      {
-       "type": "section",
-       "label": "II",
-       "title": "SUMMARY OF THE FACTS",
-       "pdf_page": 657,
-       "printed_page": 640
-      },
-      {
-       "type": "section",
-       "label": "III",
-       "title": "STATEMENT OF THE ISSUE",
-       "pdf_page": 661,
-       "printed_page": 644
-      },
-      {
-       "type": "section",
-       "label": "I",
-       "title": "SUMMARY OF THE FACTS",
-       "pdf_page": 666,
-       "printed_page": 649
-      },
-      {
-       "type": "section",
-       "label": "II",
-       "title": "STATEMENT OF THE ISSUES",
-       "pdf_page": 675,
-       "printed_page": 658
-      },
-      {
-       "type": "section",
-       "label": "III",
-       "title": "JUDGMENT",
-       "pdf_page": 675,
-       "printed_page": 658
-      },
-      {
-       "type": "section",
-       "label": "IV",
-       "title": "REASONING AND OPINION",
-       "pdf_page": 675,
-       "printed_page": 658
-      },
-      {
-       "type": "section",
-       "label": "I",
-       "title": "SUMMARY OF THE FACTS",
-       "pdf_page": 685,
-       "printed_page": 668
-      },
-      {
-       "type": "section",
-       "label": "II",
-       "title": "STATEMENT OF THE ISSUE",
-       "pdf_page": 687,
-       "printed_page": 670
-      },
-      {
-       "type": "section",
-       "label": "III",
-       "title": "JUDGMENT",
-       "pdf_page": 687,
-       "printed_page": 670
-      },
-      {
-       "type": "section",
-       "label": "IV",
-       "title": "REASONING AND OPINION",
-       "pdf_page": 687,
-       "printed_page": 670
-      },
-      {
-       "type": "section",
-       "label": "I",
-       "title": "SUMMARY OF THE FACTS",
-       "pdf_page": 709,
-       "printed_page": 692
-      },
-      {
-       "type": "section",
-       "label": "II",
-       "title": "STATEMENT OF THE ISSUE",
-       "pdf_page": 710,
-       "printed_page": 693
-      },
-      {
-       "type": "section",
-       "label": "III",
-       "title": "JUDGMENT",
-       "pdf_page": 710,
-       "printed_page": 693
-      },
-      {
-       "type": "section",
-       "label": "IV",
-       "title": "REASONING AND OPINION",
-       "pdf_page": 711,
-       "printed_page": 694
-      },
-      {
-       "type": "section",
-       "label": "I",
-       "title": "SUMMARY OF THE FACTS",
-       "pdf_page": 720,
-       "printed_page": 703
-      },
-      {
-       "type": "section",
-       "label": "II",
-       "title": "STATEMENT OF THE ISSUE",
-       "pdf_page": 725,
-       "printed_page": 708
-      },
-      {
-       "type": "section",
-       "label": "III",
-       "title": "JUDGMENT",
-       "pdf_page": 726,
-       "printed_page": 709
-      },
-      {
-       "type": "section",
-       "label": "IV",
-       "title": "REASONING",
-       "pdf_page": 726,
-       "printed_page": 709
-      },
-      {
-       "type": "section",
-       "label": "I",
-       "title": "SUMMARY OF THE FACTS",
-       "pdf_page": 736,
-       "printed_page": 719
-      },
-      {
-       "type": "section",
-       "label": "II",
-       "title": "STATEMENT OF THE ISSUE",
-       "pdf_page": 738,
-       "printed_page": 721
-      },
-      {
-       "type": "section",
-       "label": "III",
-       "title": "JUDGMENT",
-       "pdf_page": 738,
-       "printed_page": 721
-      },
-      {
-       "type": "section",
-       "label": "IV",
-       "title": "REASONING AND OPINION",
-       "pdf_page": 738,
-       "printed_page": 721
-      },
-      {
-       "type": "section",
-       "label": "I",
-       "title": "SUMMARY OF THE FACTS",
-       "pdf_page": 746,
-       "printed_page": 729
-      },
-      {
-       "type": "section",
-       "label": "II",
-       "title": "STATEMENT OF THE ISSUES",
-       "pdf_page": 759,
-       "printed_page": 742
-      },
-      {
-       "type": "section",
-       "label": "III",
-       "title": "JUDGMENT",
-       "pdf_page": 759,
-       "printed_page": 742
-      },
-      {
-       "type": "section",
-       "label": "IV",
-       "title": "REASONING AND OPINION",
-       "pdf_page": 759,
-       "printed_page": 742
-      },
-      {
-       "type": "section",
-       "label": "IV",
-       "title": "ELECTION OF OFFICERS",
-       "pdf_page": 769,
-       "printed_page": 752
-      },
-      {
-       "type": "section",
-       "label": "V",
-       "title": "PROPOSED CHANGES TO THE OPERATING MANUAL OF",
-       "pdf_page": 769,
-       "printed_page": 752
-      },
-      {
-       "type": "section",
-       "label": "I",
-       "title": "INTRODUCTION",
-       "pdf_page": 771,
-       "printed_page": 754
+       "printed_page": 638,
+       "children": [
+        {
+         "type": "case",
+         "label": "CASE NO. 2018-01",
+         "title": "APPEAL OF RE GLEN MAPES V. METROPOLITAN NEW YORK PRESBYTERY, DECISION IN APPEAL",
+         "pdf_page": 655,
+         "printed_page": 638,
+         "children": [
+          {
+           "type": "section",
+           "label": "I",
+           "title": "CASE SUMMARY",
+           "pdf_page": 655,
+           "printed_page": 638
+          },
+          {
+           "type": "section",
+           "label": "II",
+           "title": "SUMMARY OF THE FACTS",
+           "pdf_page": 657,
+           "printed_page": 640
+          },
+          {
+           "type": "section",
+           "label": "III",
+           "title": "STATEMENT OF THE ISSUE",
+           "pdf_page": 661,
+           "printed_page": 644
+          }
+         ]
+        },
+        {
+         "type": "case",
+         "label": "CASE NO. 2019-01",
+         "title": "COMPLAINT OF TE RHETT DODSON, ET AL V. OHIO PRESBYTERY, DECISION ON COMPLAINT",
+         "pdf_page": 666,
+         "printed_page": 649,
+         "children": [
+          {
+           "type": "section",
+           "label": "I",
+           "title": "SUMMARY OF THE FACTS",
+           "pdf_page": 666,
+           "printed_page": 649
+          },
+          {
+           "type": "section",
+           "label": "II",
+           "title": "STATEMENT OF THE ISSUES",
+           "pdf_page": 675,
+           "printed_page": 658
+          },
+          {
+           "type": "section",
+           "label": "III",
+           "title": "JUDGMENT",
+           "pdf_page": 675,
+           "printed_page": 658
+          },
+          {
+           "type": "section",
+           "label": "IV",
+           "title": "REASONING AND OPINION",
+           "pdf_page": 675,
+           "printed_page": 658
+          }
+         ]
+        },
+        {
+         "type": "case",
+         "label": "CASE NO. 2019-02",
+         "title": "TE DANIEL SCHROCK, ET AL V. PHILADELPHIA PRESBYTERY, DECISION ON COMPLAINT",
+         "pdf_page": 685,
+         "printed_page": 668,
+         "children": [
+          {
+           "type": "section",
+           "label": "I",
+           "title": "SUMMARY OF THE FACTS",
+           "pdf_page": 685,
+           "printed_page": 668
+          },
+          {
+           "type": "section",
+           "label": "II",
+           "title": "STATEMENT OF THE ISSUE",
+           "pdf_page": 687,
+           "printed_page": 670
+          },
+          {
+           "type": "section",
+           "label": "III",
+           "title": "JUDGMENT",
+           "pdf_page": 687,
+           "printed_page": 670
+          },
+          {
+           "type": "section",
+           "label": "IV",
+           "title": "REASONING AND OPINION",
+           "pdf_page": 687,
+           "printed_page": 670
+          }
+         ]
+        },
+        {
+         "type": "case",
+         "label": "CASE NO. 2019-03",
+         "title": "COMPLAINT OF DAN & ANGELIA CROUSE V. NORTHWEST GEORGIA PRESBYTERY, DECISION ON COMPLAINT",
+         "pdf_page": 709,
+         "printed_page": 692,
+         "children": [
+          {
+           "type": "section",
+           "label": "I",
+           "title": "SUMMARY OF THE FACTS",
+           "pdf_page": 709,
+           "printed_page": 692
+          },
+          {
+           "type": "section",
+           "label": "II",
+           "title": "STATEMENT OF THE ISSUE",
+           "pdf_page": 710,
+           "printed_page": 693
+          },
+          {
+           "type": "section",
+           "label": "III",
+           "title": "JUDGMENT",
+           "pdf_page": 710,
+           "printed_page": 693
+          },
+          {
+           "type": "section",
+           "label": "IV",
+           "title": "REASONING AND OPINION",
+           "pdf_page": 711,
+           "printed_page": 694
+          }
+         ]
+        },
+        {
+         "type": "case",
+         "label": "CASE NO. 2019-06",
+         "title": "THE PRESBYTERIAN CHURCH IN AMERICA V. THE PRESBYTERY OF THE MISSISSIPPI VALLEY, DECISION ON BCO 40-5 REFERRAL",
+         "pdf_page": 718,
+         "printed_page": 701,
+         "children": [
+          {
+           "type": "section",
+           "label": "I",
+           "title": "SUMMARY OF THE FACTS",
+           "pdf_page": 720,
+           "printed_page": 703
+          },
+          {
+           "type": "section",
+           "label": "II",
+           "title": "STATEMENT OF THE ISSUE",
+           "pdf_page": 725,
+           "printed_page": 708
+          },
+          {
+           "type": "section",
+           "label": "III",
+           "title": "JUDGMENT",
+           "pdf_page": 726,
+           "printed_page": 709
+          },
+          {
+           "type": "section",
+           "label": "IV",
+           "title": "REASONING",
+           "pdf_page": 726,
+           "printed_page": 709
+          }
+         ]
+        },
+        {
+         "type": "case",
+         "label": "CASE NO. 2019-07",
+         "title": "MR. CHANDLER FOZARD V. NORTH TEXAS PRESBYTERY, DECISION ON COMPLAINT",
+         "pdf_page": 736,
+         "printed_page": 719,
+         "children": [
+          {
+           "type": "section",
+           "label": "I",
+           "title": "SUMMARY OF THE FACTS",
+           "pdf_page": 736,
+           "printed_page": 719
+          },
+          {
+           "type": "section",
+           "label": "II",
+           "title": "STATEMENT OF THE ISSUE",
+           "pdf_page": 738,
+           "printed_page": 721
+          },
+          {
+           "type": "section",
+           "label": "III",
+           "title": "JUDGMENT",
+           "pdf_page": 738,
+           "printed_page": 721
+          },
+          {
+           "type": "section",
+           "label": "IV",
+           "title": "REASONING AND OPINION",
+           "pdf_page": 738,
+           "printed_page": 721
+          }
+         ]
+        },
+        {
+         "type": "case",
+         "label": "CASE NO. 2019-08",
+         "title": "TE NEAL GANZEL V. CENTRAL FLORIDA PRESBYTERY, DECISION IN APPEAL",
+         "pdf_page": 746,
+         "printed_page": 729,
+         "children": [
+          {
+           "type": "section",
+           "label": "I",
+           "title": "SUMMARY OF THE FACTS",
+           "pdf_page": 746,
+           "printed_page": 729
+          },
+          {
+           "type": "section",
+           "label": "II",
+           "title": "STATEMENT OF THE ISSUES",
+           "pdf_page": 759,
+           "printed_page": 742
+          },
+          {
+           "type": "section",
+           "label": "III",
+           "title": "JUDGMENT",
+           "pdf_page": 759,
+           "printed_page": 742
+          },
+          {
+           "type": "section",
+           "label": "IV",
+           "title": "REASONING AND OPINION",
+           "pdf_page": 759,
+           "printed_page": 742
+          }
+         ]
+        },
+        {
+         "type": "section",
+         "label": "IV",
+         "title": "ELECTION OF OFFICERS",
+         "pdf_page": 769,
+         "printed_page": 752
+        },
+        {
+         "type": "section",
+         "label": "V",
+         "title": "PROPOSED CHANGES TO THE OPERATING MANUAL OF",
+         "pdf_page": 769,
+         "printed_page": 752
+        },
+        {
+         "type": "section",
+         "label": "I",
+         "title": "INTRODUCTION",
+         "pdf_page": 771,
+         "printed_page": 754
+        }
+       ]
       },
       {
        "type": "section",
        "label": "II",
        "title": "JUDICIAL CASES",
        "pdf_page": 772,
-       "printed_page": 755
+       "printed_page": 755,
+       "children": []
       },
       {
        "type": "section",
        "label": "III",
        "title": "REPORT OF THE CASES",
        "pdf_page": 773,
-       "printed_page": 756
-      },
-      {
-       "type": "section",
-       "label": "I",
-       "title": "SUMMARY OF THE CASE",
-       "pdf_page": 773,
-       "printed_page": 756
-      },
-      {
-       "type": "section",
-       "label": "II",
-       "title": "SUMMARY OF THE FACTS",
-       "pdf_page": 773,
-       "printed_page": 756
-      },
-      {
-       "type": "section",
-       "label": "III",
-       "title": "STATEMENT OF THE ISSUE",
-       "pdf_page": 776,
-       "printed_page": 759
-      },
-      {
-       "type": "section",
-       "label": "IV",
-       "title": "JUDGMENT",
-       "pdf_page": 776,
-       "printed_page": 759
-      },
-      {
-       "type": "section",
-       "label": "V",
-       "title": "REASONING",
-       "pdf_page": 777,
-       "printed_page": 760
-      },
-      {
-       "type": "section",
-       "label": "I",
-       "title": "SUMMARY OF THE FACTS",
-       "pdf_page": 779,
-       "printed_page": 762
-      },
-      {
-       "type": "section",
-       "label": "II",
-       "title": "STATEMENT OF THE ISSUE",
-       "pdf_page": 782,
-       "printed_page": 765
-      },
-      {
-       "type": "section",
-       "label": "III",
-       "title": "JUDGMENT",
-       "pdf_page": 782,
-       "printed_page": 765
-      },
-      {
-       "type": "section",
-       "label": "IV",
-       "title": "REASONING AND OPINION",
-       "pdf_page": 782,
-       "printed_page": 765
-      },
-      {
-       "type": "section",
-       "label": "I",
-       "title": "SUMMARY OF THE FACTS",
-       "pdf_page": 783,
-       "printed_page": 766
-      },
-      {
-       "type": "section",
-       "label": "II",
-       "title": "STATEMENT OF THE ISSUE",
-       "pdf_page": 785,
-       "printed_page": 768
-      },
-      {
-       "type": "section",
-       "label": "III",
-       "title": "JUDGMENT",
-       "pdf_page": 785,
-       "printed_page": 768
-      },
-      {
-       "type": "section",
-       "label": "IV",
-       "title": "REASONING AND OPINION",
-       "pdf_page": 785,
-       "printed_page": 768
-      },
-      {
-       "type": "section",
-       "label": "I",
-       "title": "CASE SUMMARY",
-       "pdf_page": 788,
-       "printed_page": 771
-      },
-      {
-       "type": "section",
-       "label": "II",
-       "title": "SUMMARY OF THE FACTS",
-       "pdf_page": 789,
-       "printed_page": 772
-      },
-      {
-       "type": "section",
-       "label": "III",
-       "title": "STATEMENT OF THE ISSUE",
-       "pdf_page": 793,
-       "printed_page": 776
-      },
-      {
-       "type": "section",
-       "label": "I",
-       "title": "SUMMARY OF THE FACTS",
-       "pdf_page": 804,
-       "printed_page": 787
-      },
-      {
-       "type": "section",
-       "label": "II",
-       "title": "STATEMENT OF THE ISSUE",
-       "pdf_page": 805,
-       "printed_page": 788
-      },
-      {
-       "type": "section",
-       "label": "III",
-       "title": "JUDGMENT",
-       "pdf_page": 806,
-       "printed_page": 789
-      },
-      {
-       "type": "section",
-       "label": "IV",
-       "title": "REASONING AND OPINION",
-       "pdf_page": 806,
-       "printed_page": 789
-      },
-      {
-       "type": "section",
-       "label": "I",
-       "title": "SUMMARY OF THE FACTS",
-       "pdf_page": 813,
-       "printed_page": 796
-      },
-      {
-       "type": "section",
-       "label": "II",
-       "title": "STATEMENT OF THE ISSUE",
-       "pdf_page": 814,
-       "printed_page": 797
-      },
-      {
-       "type": "section",
-       "label": "III",
-       "title": "JUDGMENT",
-       "pdf_page": 814,
-       "printed_page": 797
-      },
-      {
-       "type": "section",
-       "label": "IV",
-       "title": "REASONING AND OPINION",
-       "pdf_page": 815,
-       "printed_page": 798
-      },
-      {
-       "type": "section",
-       "label": "I",
-       "title": "SUMMARY OF THE FACTS",
-       "pdf_page": 820,
-       "printed_page": 803
-      },
-      {
-       "type": "section",
-       "label": "II",
-       "title": "STATEMENT OF THE ISSUES",
-       "pdf_page": 822,
-       "printed_page": 805
-      },
-      {
-       "type": "section",
-       "label": "II",
-       "title": "JUDGMENT, REASONING AND OPINION",
-       "pdf_page": 822,
-       "printed_page": 805
-      },
-      {
-       "type": "section",
-       "label": "IV",
-       "title": "ELECTION OF OFFICERS",
-       "pdf_page": 834,
-       "printed_page": 817
+       "printed_page": 756,
+       "children": [
+        {
+         "type": "case",
+         "label": "CASE NO. 2019-04",
+         "title": "COMPLAINT OF TE F. TODD WILLIAMS V. CHESAPEAKE PRESBYTERY, DECISION ON COMPLAINT",
+         "pdf_page": 773,
+         "printed_page": 756,
+         "children": [
+          {
+           "type": "section",
+           "label": "I",
+           "title": "SUMMARY OF THE CASE",
+           "pdf_page": 773,
+           "printed_page": 756
+          },
+          {
+           "type": "section",
+           "label": "II",
+           "title": "SUMMARY OF THE FACTS",
+           "pdf_page": 773,
+           "printed_page": 756
+          },
+          {
+           "type": "section",
+           "label": "III",
+           "title": "STATEMENT OF THE ISSUE",
+           "pdf_page": 776,
+           "printed_page": 759
+          },
+          {
+           "type": "section",
+           "label": "IV",
+           "title": "JUDGMENT",
+           "pdf_page": 776,
+           "printed_page": 759
+          },
+          {
+           "type": "section",
+           "label": "V",
+           "title": "REASONING",
+           "pdf_page": 777,
+           "printed_page": 760
+          }
+         ]
+        },
+        {
+         "type": "case",
+         "label": "CASE NO. 2019-05",
+         "title": "APPEAL OF MR. JAMES GOGGAN V. MISSOURI PRESBYTERY, DECISION ON APPEAL",
+         "pdf_page": 779,
+         "printed_page": 762,
+         "children": [
+          {
+           "type": "section",
+           "label": "I",
+           "title": "SUMMARY OF THE FACTS",
+           "pdf_page": 779,
+           "printed_page": 762
+          },
+          {
+           "type": "section",
+           "label": "II",
+           "title": "STATEMENT OF THE ISSUE",
+           "pdf_page": 782,
+           "printed_page": 765
+          },
+          {
+           "type": "section",
+           "label": "III",
+           "title": "JUDGMENT",
+           "pdf_page": 782,
+           "printed_page": 765
+          },
+          {
+           "type": "section",
+           "label": "IV",
+           "title": "REASONING AND OPINION",
+           "pdf_page": 782,
+           "printed_page": 765
+          }
+         ]
+        },
+        {
+         "type": "case",
+         "label": "CASE NO. 2019-09",
+         "title": "COMPLAINT OF RE WILLIAM F. MUELLER V. SOUTH FLORIDA PRESBYTERY, DECISION ON COMPLAINT",
+         "pdf_page": 783,
+         "printed_page": 766,
+         "children": [
+          {
+           "type": "section",
+           "label": "I",
+           "title": "SUMMARY OF THE FACTS",
+           "pdf_page": 783,
+           "printed_page": 766
+          },
+          {
+           "type": "section",
+           "label": "II",
+           "title": "STATEMENT OF THE ISSUE",
+           "pdf_page": 785,
+           "printed_page": 768
+          },
+          {
+           "type": "section",
+           "label": "III",
+           "title": "JUDGMENT",
+           "pdf_page": 785,
+           "printed_page": 768
+          },
+          {
+           "type": "section",
+           "label": "IV",
+           "title": "REASONING AND OPINION",
+           "pdf_page": 785,
+           "printed_page": 768
+          }
+         ]
+        },
+        {
+         "type": "case",
+         "label": "CASE NO. 2019-09",
+         "title": "COMPLAINT OF RE WILLIAM F. MUELLER V. SOUTH FLORIDA PRESBYTERY CONCURRING OPINION",
+         "pdf_page": 787,
+         "printed_page": 770,
+         "children": []
+        },
+        {
+         "type": "case",
+         "label": "CASE NO. 2019-10",
+         "title": "AND CASE 2019-12 COMPLAINTS OF TE JOHN EVANS and RE ALAN PITTS, ET AL. v. ARIZONA PRESBYTERY, DECISION ON COMPLAINTS",
+         "pdf_page": 788,
+         "printed_page": 771,
+         "children": [
+          {
+           "type": "section",
+           "label": "I",
+           "title": "CASE SUMMARY",
+           "pdf_page": 788,
+           "printed_page": 771
+          },
+          {
+           "type": "section",
+           "label": "II",
+           "title": "SUMMARY OF THE FACTS",
+           "pdf_page": 789,
+           "printed_page": 772
+          },
+          {
+           "type": "section",
+           "label": "III",
+           "title": "STATEMENT OF THE ISSUE",
+           "pdf_page": 793,
+           "printed_page": 776
+          }
+         ]
+        },
+        {
+         "type": "case",
+         "label": "CASE NO. 2019-10",
+         "title": "AND CASE 2019-12 COMPLAINTS OF TE JOHN EVANS and RE ALAN PITTS, ET AL V. ARIZONA PRESBYTERY CONCURRING OPINION",
+         "pdf_page": 796,
+         "printed_page": 779,
+         "children": []
+        },
+        {
+         "type": "case",
+         "label": "CASE NO. 2019-11",
+         "title": "COMPLAINT OF DAN AND ANGELIA CROUSE V. NORTHWEST GEORGIA PRESBYTERY, DECISION ON COMPLAINT",
+         "pdf_page": 804,
+         "printed_page": 787,
+         "children": [
+          {
+           "type": "section",
+           "label": "I",
+           "title": "SUMMARY OF THE FACTS",
+           "pdf_page": 804,
+           "printed_page": 787
+          },
+          {
+           "type": "section",
+           "label": "II",
+           "title": "STATEMENT OF THE ISSUE",
+           "pdf_page": 805,
+           "printed_page": 788
+          },
+          {
+           "type": "section",
+           "label": "III",
+           "title": "JUDGMENT",
+           "pdf_page": 806,
+           "printed_page": 789
+          },
+          {
+           "type": "section",
+           "label": "IV",
+           "title": "REASONING AND OPINION",
+           "pdf_page": 806,
+           "printed_page": 789
+          }
+         ]
+        },
+        {
+         "type": "case",
+         "label": "CASE NO. 2019-11",
+         "title": "COMPLAINT OF DAN AND ANGELIA CROUSE V. NORTHWEST GEORGIA PRESBYTERY",
+         "pdf_page": 809,
+         "printed_page": 792,
+         "children": []
+        },
+        {
+         "type": "case",
+         "label": "CASE NO. 2019-13",
+         "title": "COMPLAINT OF MS. COLLEEN GENDY V. CENTRAL FLORIDA PRESBYTERY, DECISION ON COMPLAINT",
+         "pdf_page": 813,
+         "printed_page": 796,
+         "children": [
+          {
+           "type": "section",
+           "label": "I",
+           "title": "SUMMARY OF THE FACTS",
+           "pdf_page": 813,
+           "printed_page": 796
+          },
+          {
+           "type": "section",
+           "label": "II",
+           "title": "STATEMENT OF THE ISSUE",
+           "pdf_page": 814,
+           "printed_page": 797
+          },
+          {
+           "type": "section",
+           "label": "III",
+           "title": "JUDGMENT",
+           "pdf_page": 814,
+           "printed_page": 797
+          },
+          {
+           "type": "section",
+           "label": "IV",
+           "title": "REASONING AND OPINION",
+           "pdf_page": 815,
+           "printed_page": 798
+          }
+         ]
+        },
+        {
+         "type": "case",
+         "label": "CASE NO. 2019-14",
+         "title": "COMPLAINT OF MR. JEAWHAN YOO, ET AL V. KOREAN SOUTHWEST ORANGE COUNTY PRESBYTERY, DECISION ON COMPLAINT",
+         "pdf_page": 817,
+         "printed_page": 800,
+         "children": []
+        },
+        {
+         "type": "case",
+         "label": "CASE NO. 2020-01",
+         "title": "COMPLAINT OF MR. PETER BENYOLA V. CENTRAL FLORIDA PRESBYTERY, DECISION ON COMPLAINT",
+         "pdf_page": 818,
+         "printed_page": 801,
+         "children": []
+        },
+        {
+         "type": "case",
+         "label": "CASE NO. 2020-03",
+         "title": "COMPLAINT OF TE DAVID MCWILLIAMS V. SOUTHWEST FLORIDA PRESBYTERY, DECISION ON COMPLAINT",
+         "pdf_page": 819,
+         "printed_page": 802,
+         "children": []
+        },
+        {
+         "type": "case",
+         "label": "CASE NO. 2020-04",
+         "title": "COMPLAINT OF TE STEVEN P. MARUSICH V. CENTRAL INDIANA PRESBYTERY, DECISION ON COMPLAINT",
+         "pdf_page": 820,
+         "printed_page": 803,
+         "children": [
+          {
+           "type": "section",
+           "label": "I",
+           "title": "SUMMARY OF THE FACTS",
+           "pdf_page": 820,
+           "printed_page": 803
+          },
+          {
+           "type": "section",
+           "label": "II",
+           "title": "STATEMENT OF THE ISSUES",
+           "pdf_page": 822,
+           "printed_page": 805
+          },
+          {
+           "type": "section",
+           "label": "II",
+           "title": "JUDGMENT, REASONING AND OPINION",
+           "pdf_page": 822,
+           "printed_page": 805
+          }
+         ]
+        },
+        {
+         "type": "case",
+         "label": "CASE NO. 2020-04",
+         "title": "COMPLAINT OF TE STEVEN P. MARUSICH V. CENTRAL INDIANA PRESBYTERY DISSENTING OPINION",
+         "pdf_page": 823,
+         "printed_page": 806,
+         "children": []
+        },
+        {
+         "type": "case",
+         "label": "CASE NO. 2020-11",
+         "title": "COMPLAINT OF TE DAVID MCWILLIAMS V. SOUTHWEST FLORIDA PRESBYTERY, DECISION ON COMPLAINT",
+         "pdf_page": 833,
+         "printed_page": 816,
+         "children": []
+        },
+        {
+         "type": "case",
+         "label": "CASE NO. 2020-13",
+         "title": "COMPLAINT OF MR. PETER BENYOLA V. CENTRAL FLORIDA PRESBYTERY, DECISION ON COMPLAINT",
+         "pdf_page": 834,
+         "printed_page": 817,
+         "children": []
+        },
+        {
+         "type": "section",
+         "label": "IV",
+         "title": "ELECTION OF OFFICERS",
+         "pdf_page": 834,
+         "printed_page": 817
+        }
+       ]
       }
      ]
     },

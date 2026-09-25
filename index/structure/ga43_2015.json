@@ -546,112 +546,222 @@
        "label": "II",
        "title": "JUDICIAL CASES",
        "pdf_page": 529,
-       "printed_page": 527
+       "printed_page": 527,
+       "children": []
       },
       {
        "type": "section",
        "label": "III",
        "title": "REPORT OF THE CASES",
        "pdf_page": 530,
-       "printed_page": 528
-      },
-      {
-       "type": "section",
-       "label": "I",
-       "title": "SUMMARY OF THE FACTS",
-       "pdf_page": 530,
-       "printed_page": 528
-      },
-      {
-       "type": "section",
-       "label": "II",
-       "title": "STATEMENT OF THE ISSUE",
-       "pdf_page": 535,
-       "printed_page": 533
-      },
-      {
-       "type": "section",
-       "label": "III",
-       "title": "JUDGMENT",
-       "pdf_page": 535,
-       "printed_page": 533
-      },
-      {
-       "type": "section",
-       "label": "IV",
-       "title": "REASONING AND OPINION",
-       "pdf_page": 536,
-       "printed_page": 534
-      },
-      {
-       "type": "section",
-       "label": "I",
-       "title": "SUMMARY OF THE FACTS",
-       "pdf_page": 557,
-       "printed_page": 555
-      },
-      {
-       "type": "section",
-       "label": "II",
-       "title": "STATEMENT OF THE ISSUES",
-       "pdf_page": 559,
-       "printed_page": 557
-      },
-      {
-       "type": "section",
-       "label": "III",
-       "title": "JUDGMENTS",
-       "pdf_page": 559,
-       "printed_page": 557
-      },
-      {
-       "type": "section",
-       "label": "IV",
-       "title": "REASONING AND OPINION",
-       "pdf_page": 560,
-       "printed_page": 558
-      },
-      {
-       "type": "section",
-       "label": "I",
-       "title": "SUMMARY OF FACTS",
-       "pdf_page": 574,
-       "printed_page": 572
-      },
-      {
-       "type": "section",
-       "label": "II",
-       "title": "STATEMENT OF THE ISSUE",
-       "pdf_page": 579,
-       "printed_page": 577
-      },
-      {
-       "type": "section",
-       "label": "III",
-       "title": "JUDGMENT",
-       "pdf_page": 579,
-       "printed_page": 577
-      },
-      {
-       "type": "section",
-       "label": "IV",
-       "title": "REASONING AND OPINION",
-       "pdf_page": 579,
-       "printed_page": 577
-      },
-      {
-       "type": "section",
-       "label": "IV",
-       "title": "PROPOSED MANUAL CHANGES",
-       "pdf_page": 589,
-       "printed_page": 587
-      },
-      {
-       "type": "section",
-       "label": "V",
-       "title": "ELECTION OF OFFICERS",
-       "pdf_page": 595,
-       "printed_page": 593
+       "printed_page": 528,
+       "children": [
+        {
+         "type": "case",
+         "label": "CASE NO. 2012-08",
+         "title": "TE ART SARTORIUS, ET AL V. THE PRESBYTERY OF THE SIOUXLANDS, DECISION ON COMPLAINT",
+         "pdf_page": 530,
+         "printed_page": 528,
+         "children": [
+          {
+           "type": "section",
+           "label": "I",
+           "title": "SUMMARY OF THE FACTS",
+           "pdf_page": 530,
+           "printed_page": 528
+          },
+          {
+           "type": "section",
+           "label": "II",
+           "title": "STATEMENT OF THE ISSUE",
+           "pdf_page": 535,
+           "printed_page": 533
+          },
+          {
+           "type": "section",
+           "label": "III",
+           "title": "JUDGMENT",
+           "pdf_page": 535,
+           "printed_page": 533
+          },
+          {
+           "type": "section",
+           "label": "IV",
+           "title": "REASONING AND OPINION",
+           "pdf_page": 536,
+           "printed_page": 534
+          }
+         ]
+        },
+        {
+         "type": "case",
+         "label": "CASE NO. 2012-08",
+         "title": "SARTORIOUS VS. SIOUXLANDS PRESBYTERY",
+         "pdf_page": 541,
+         "printed_page": 539,
+         "children": []
+        },
+        {
+         "type": "case",
+         "label": "CASE NO. 2012-08",
+         "title": "SARTORIOUS VS. SIOUXLANDS PRESBYTERY",
+         "pdf_page": 546,
+         "printed_page": 544,
+         "children": []
+        },
+        {
+         "type": "case",
+         "label": "CASE NO. 2012-08",
+         "title": "SARTORIOUS VS. SIOUXLANDS PRESBYTERY",
+         "pdf_page": 546,
+         "printed_page": 544,
+         "children": []
+        },
+        {
+         "type": "case",
+         "label": "CASE NO. 2013-06",
+         "title": "TE STEPHEN GONZALES V. GREAT LAKES PRESBYTERY, DECISION ON APPEAL",
+         "pdf_page": 557,
+         "printed_page": 555,
+         "children": [
+          {
+           "type": "section",
+           "label": "I",
+           "title": "SUMMARY OF THE FACTS",
+           "pdf_page": 557,
+           "printed_page": 555
+          },
+          {
+           "type": "section",
+           "label": "II",
+           "title": "STATEMENT OF THE ISSUES",
+           "pdf_page": 559,
+           "printed_page": 557
+          },
+          {
+           "type": "section",
+           "label": "III",
+           "title": "JUDGMENTS",
+           "pdf_page": 559,
+           "printed_page": 557
+          },
+          {
+           "type": "section",
+           "label": "IV",
+           "title": "REASONING AND OPINION",
+           "pdf_page": 560,
+           "printed_page": 558
+          }
+         ]
+        },
+        {
+         "type": "case",
+         "label": "CASE NO. 2013-06",
+         "title": "GONZALES VS. GREAT LAKES PRESBYTERY",
+         "pdf_page": 567,
+         "printed_page": 565,
+         "children": []
+        },
+        {
+         "type": "case",
+         "label": "CASE NO. 2013-08",
+         "title": "RE WARREN JACKSON V. NORTHWEST GEORGIA PRESBYTERY, DECISION ON COMPLAINT",
+         "pdf_page": 570,
+         "printed_page": 568,
+         "children": []
+        },
+        {
+         "type": "case",
+         "label": "CASE NO. 2013-08",
+         "title": "RE WARREN JACKSON VS. NORTHWEST GEORGIA PRESBYTERY",
+         "pdf_page": 571,
+         "printed_page": 569,
+         "children": []
+        },
+        {
+         "type": "case",
+         "label": "CASE NO. 2013-10",
+         "title": "APPEAL OF REV. STUART LATIMER V. CHICAGO METRO PRESBYTERY, DECISION ON APPEAL",
+         "pdf_page": 574,
+         "printed_page": 572,
+         "children": [
+          {
+           "type": "section",
+           "label": "I",
+           "title": "SUMMARY OF FACTS",
+           "pdf_page": 574,
+           "printed_page": 572
+          },
+          {
+           "type": "section",
+           "label": "II",
+           "title": "STATEMENT OF THE ISSUE",
+           "pdf_page": 579,
+           "printed_page": 577
+          },
+          {
+           "type": "section",
+           "label": "III",
+           "title": "JUDGMENT",
+           "pdf_page": 579,
+           "printed_page": 577
+          },
+          {
+           "type": "section",
+           "label": "IV",
+           "title": "REASONING AND OPINION",
+           "pdf_page": 579,
+           "printed_page": 577
+          }
+         ]
+        },
+        {
+         "type": "case",
+         "label": "CASE NO. 2013-10",
+         "title": "LATIMER VS. CHICAGO METRO PRESBYTERY",
+         "pdf_page": 583,
+         "printed_page": 581,
+         "children": []
+        },
+        {
+         "type": "case",
+         "label": "CASE NO. 2013-10",
+         "title": "LATIMER VS. CHICAGO METRO PRESBYTERY",
+         "pdf_page": 586,
+         "printed_page": 584,
+         "children": []
+        },
+        {
+         "type": "case",
+         "label": "CASE NO. 2013-12",
+         "title": "APPEAL OF G. RICK MARSHALL V. PACIFIC PRESBYTERY, DECISION ON APPEAL",
+         "pdf_page": 587,
+         "printed_page": 585,
+         "children": []
+        },
+        {
+         "type": "case",
+         "label": "CASE NO. 2013-12",
+         "title": "MARSHALL VS. PACIFIC PRESBYTERY",
+         "pdf_page": 588,
+         "printed_page": 586,
+         "children": []
+        },
+        {
+         "type": "section",
+         "label": "IV",
+         "title": "PROPOSED MANUAL CHANGES",
+         "pdf_page": 589,
+         "printed_page": 587
+        },
+        {
+         "type": "section",
+         "label": "V",
+         "title": "ELECTION OF OFFICERS",
+         "pdf_page": 595,
+         "printed_page": 593
+        }
+       ]
       }
      ]
     },

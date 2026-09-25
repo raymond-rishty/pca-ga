@@ -231,7 +231,7 @@ def page_anchor(vol, page):
         p = os.path.join(ROOT, "markdown", vol + ".md")
         if os.path.exists(p):
             last = None
-            for line in open(p):
+            for line in open(p, encoding="utf-8"):
                 ma = re.match(r'\s*<a id="(ga\d+-p[0-9A-Za-z]+)">', line)
                 if ma:
                     last = ma.group(1)
@@ -248,6 +248,11 @@ def page_anchor(vol, page):
 def page_link(vol, page, label=None):
     a = page_anchor(vol, page)
     return f"[{label or ('p.' + str(page))}](../markdown/{vol}.md{'#' + a if a else ''})"
+
+
+def outline_page_link(vol, page, label=None):
+    a = page_anchor(vol, page)
+    return f"[{label or ('p.' + str(page))}](../../markdown/{vol}.html{'#' + a if a else ''})"
 
 
 def main():
@@ -296,7 +301,7 @@ def main():
         "A SQLite database named pca_minutes.db indexes every page of the minutes. See "
         "[../PORTABLE.md](../PORTABLE.md) for query recipes.",
     ]
-    open(os.path.join(OUT_IDX, "INDEX.md"), "w").write("\n".join(L) + "\n")
+    open(os.path.join(OUT_IDX, "INDEX.md"), "w", encoding="utf-8").write("\n".join(L) + "\n")
 
     # ---- OVERTURES.md ----
     L = ["# Overture Catalogue", "",
@@ -315,7 +320,7 @@ def main():
         pg = ", ".join(page_link(r["vol"], p.strip()) for p in pgs if p.strip())
         L.append(f"| {r['number']} | {md_escape(r['title'] or '')} | {md_escape(r['final_disposition'] or '')} "
                  f"| {md_escape(r['source'])} | {pg} |")
-    open(os.path.join(OUT_IDX, "OVERTURES.md"), "w").write("\n".join(L) + "\n")
+    open(os.path.join(OUT_IDX, "OVERTURES.md"), "w", encoding="utf-8").write("\n".join(L) + "\n")
     n_ov = len(rows)
 
     # ---- CASES.md ----
@@ -580,7 +585,7 @@ def main():
                 pg = (f"_not yet re-extracted_ · {_pagelink(vol, r['pdf_page_start'])}"
                       if vol and r["pdf_page_start"] else "_not yet re-extracted_")
             L.append(f"| {shown} | {who} | {md_escape(r['disposition'] or '')} | {case_summary(who, r['disposition'] or '', r['synopsis'] or '')} | {pg} |")
-    open(os.path.join(OUT_IDX, "CASES.md"), "w").write("\n".join(L) + "\n")
+    open(os.path.join(OUT_IDX, "CASES.md"), "w", encoding="utf-8").write("\n".join(L) + "\n")
     n_ca = n_linked
 
     # ---- per-volume outlines ----
@@ -588,27 +593,33 @@ def main():
     for v in vols:
         stem = v["vol"]
         nodes = c.execute(
-            "SELECT node_id, parent_id, type, label, title, number, source, pdf_page, seq "
+            "SELECT node_id, parent_id, type, label, title, number, source, pdf_page, printed_page, seq "
             "FROM structure WHERE vol=? ORDER BY seq", (stem,)).fetchall()
         kids = {}
         for n in nodes:
             kids.setdefault(n["parent_id"], []).append(n)
         out = [f"# {stem} — Outline", "",
                f"Structural table of contents for the {ordinal(v['ga_ordinal'])} General Assembly "
-               f"({v['year']}). Pages refer to `{stem}` PDF pages; full text: "
-               f"[../../markdown/{stem}.md](../../markdown/{stem}.md).", ""]
+               f"({v['year']}). Page references use printed document pages where available; "
+               f"full text: "
+               f"[../../markdown/{stem}.html](../../markdown/{stem}.html).", ""]
 
         def walk(parent, depth):
             for n in kids.get(parent, []):
-                pg = f" *(p.{n['pdf_page']})*" if n["pdf_page"] else ""
+                pg = ""
+                if n["pdf_page"]:
+                    shown_page = n["printed_page"] or n["pdf_page"]
+                    pg = f" *({outline_page_link(stem, n['pdf_page'], f'p.{shown_page}')})*"
                 if n["type"] == "overture":
                     label = f"Overture {n['number']}: {n['source'] or ''}".strip()
+                elif n["type"] == "case":
+                    label = ", ".join(x for x in [n["label"], n["title"]] if x)
                 else:
                     label = " ".join(x for x in [n["label"], n["title"]] if x)
                 out.append(f"{'  ' * depth}- {md_escape(label)}{pg}")
                 walk(n["node_id"], depth + 1)
         walk(None, 0)
-        open(os.path.join(OUTLINES, f"{stem}.md"), "w").write("\n".join(out) + "\n")
+        open(os.path.join(OUTLINES, f"{stem}.md"), "w", encoding="utf-8").write("\n".join(out) + "\n")
         n_out += 1
 
     print(f"wrote INDEX.md, OVERTURES.md ({n_ov} overtures), CASES.md ({n_ca} cases), "

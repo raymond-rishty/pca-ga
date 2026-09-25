@@ -256,28 +256,31 @@
        "label": "II",
        "title": "JUDICIAL CASES",
        "pdf_page": 563,
-       "printed_page": 561
+       "printed_page": 561,
+       "children": []
       },
       {
        "type": "section",
        "label": "III",
        "title": "REPORT OF THE CASES",
        "pdf_page": 564,
-       "printed_page": 562
-      },
-      {
-       "type": "section",
-       "label": "IV",
-       "title": "ELECTION OF OFFICERS",
-       "pdf_page": 580,
-       "printed_page": 578
-      },
-      {
-       "type": "section",
-       "label": "V",
-       "title": "PROPOSED CHANGES TO THE OPERATING MANUAL",
-       "pdf_page": 580,
-       "printed_page": 578
+       "printed_page": 562,
+       "children": [
+        {
+         "type": "section",
+         "label": "IV",
+         "title": "ELECTION OF OFFICERS",
+         "pdf_page": 580,
+         "printed_page": 578
+        },
+        {
+         "type": "section",
+         "label": "V",
+         "title": "PROPOSED CHANGES TO THE OPERATING MANUAL",
+         "pdf_page": 580,
+         "printed_page": 578
+        }
+       ]
       }
      ]
     },
