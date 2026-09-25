@@ -15,6 +15,7 @@
 | 2011 | CCB advice | structured_provision_tag | structured_provision_tag | medium | [Temporary Governance for Churches without Ruling Elders](../inquiries/ga39_2011__ci01.md) | may have been in conflict |
 | 2003 | CCB advice | structured_provision_tag | structured_provision_tag | medium | [Subscription and Exceptions of Substance](../inquiries/ga31_2003__ci03.md) | not in conflict |
 | 2003 | CCB advice | structured_provision_tag | structured_provision_tag | medium | [Subscription and Exceptions of Substance](../inquiries/ga31_2003__ci07.md) | not in conflict |
+| 2002 | CCB advice | structured_provision_tag | structured_provision_tag | medium | [Handling Exceptions to the Westminster Standards](../inquiries/ga30_2002__ci01.md) | in conflict |
 | 2002 | Overture | explicit_citation | direct_text | high | [Add to BCO 26-1 Procedure for Conflicts Between Scripture & Constitution](../markdown/ga30_2002.md#ga30-p104) | Answered in the negative |
 | 2002 | Overture | explicit_citation | direct_text | high | [Amend BCO 24-1 to Record & Report All Exceptions to GA](../markdown/ga30_2002.md#ga30-p105) | Answered by reference |
 | 2002 | Overture | explicit_citation | direct_text | high | [Amend BCO to Clarify Handling of Exceptions to Westminster Standards](../markdown/ga30_2002.md#ga30-p102) | Answered in the negative |

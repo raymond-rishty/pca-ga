@@ -9,7 +9,7 @@ Indexed PCA records associated with each provision. Relationship type, evidence,
 | [BCO 1-3](../authorities/BCO-1-3.md) | 1 | 0 | 1 | 1 | 0 | 3 |
 | [BCO 1-4](../authorities/BCO-1-4.md) | 3 | 0 | 1 | 1 | 0 | 5 |
 | [BCO 1-5](../authorities/BCO-1-5.md) | 0 | 0 | 0 | 1 | 0 | 1 |
-| [BCO pp-2](../authorities/BCO-pp-2.md) | 7 | 0 | 4 | 4 | 5 | 20 |
+| [BCO pp-2](../authorities/BCO-pp-2.md) | 7 | 0 | 5 | 4 | 5 | 21 |
 | [BCO 2-1](../authorities/BCO-2-1.md) | 0 | 0 | 1 | 0 | 0 | 1 |
 | [BCO 2-2](../authorities/BCO-2-2.md) | 3 | 1 | 0 | 8 | 0 | 12 |
 | [BCO 3](../authorities/BCO-3.md) | 1 | 0 | 0 | 1 | 0 | 2 |

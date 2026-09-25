@@ -15,7 +15,7 @@
 | 1992 | Judicial case | explicit_citation | direct_text | high | [Robert D. Hopper v. James River Presbytery](../cases/ga20_1992__1991-04.md) |  |
 | 1990 | Judicial case | explicit_citation | direct_text | high | [First Presbyterian Church of Rowlett, Texas v. North Texas Presbytery](../cases/ga18_1990__case1.md) | other |
 | 2023 | CCB advice | structured_provision_tag | structured_provision_tag | medium | [Expedited, conflict-free investigations for cases with victims or moral failure](../inquiries/ga50_2023__ci18.md) | in conflict; Adopted 8-0-0 |
-| 2002 | CCB advice | structured_provision_tag | structured_provision_tag | medium | [II)](../inquiries/ga30_2002__ci01.md) | in conflict |
+| 2002 | CCB advice | structured_provision_tag | structured_provision_tag | medium | [Handling Exceptions to the Westminster Standards](../inquiries/ga30_2002__ci01.md) | in conflict |
 | 2002 | CCB advice | structured_provision_tag | structured_provision_tag | medium | [Recording All Exceptions to Presbytery and the General Assembly](../inquiries/ga30_2002__ci04.md) | in conflict |
 | 2024 | Overture | explicit_citation | direct_text | high | [Amend BCO 13-6, 21-4, and 24-1 to Require Background Checks for Church Office](../markdown/ga51_2024.md#ga51-p1108) | Approved → sent to presbyteries; ratification not located |
 | 2006 | Overture | explicit_citation | direct_text | high | [Amend RAO 13-2 to Limit Consecutive Terms on Committees of Commissioners](../markdown/ga34_2006.md#ga34-p208) | Answered in the negative |

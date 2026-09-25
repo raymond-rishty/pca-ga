@@ -19,7 +19,7 @@
 | 1991 | Judicial case | explicit_citation | direct_text | high | [Marshall v. Eastern Carolina Presbytery](../cases/ga19_1991__1990-04a.md) | sustained |
 | 2018 | CCB advice | structured_provision_tag | structured_provision_tag | medium | [Altering and Refining the Language of BCO 59](../inquiries/ga46_2018__ci02.md) | in conflict |
 | 2018 | CCB advice | structured_provision_tag | structured_provision_tag | medium | [The Roles and Description of Unordained Deaconesses and Deacon Assistants](../inquiries/ga46_2018__ci04.md) | in conflict |
-| 2002 | CCB advice | structured_provision_tag | structured_provision_tag | medium | [II)](../inquiries/ga30_2002__ci01.md) | in conflict |
+| 2002 | CCB advice | structured_provision_tag | structured_provision_tag | medium | [Handling Exceptions to the Westminster Standards](../inquiries/ga30_2002__ci01.md) | in conflict |
 | 2002 | CCB advice | structured_provision_tag | structured_provision_tag | medium | [Recording All Exceptions to Presbytery and the General Assembly](../inquiries/ga30_2002__ci04.md) | in conflict |
 | 2022 | Overture | explicit_citation | direct_text | high | [Adopt a Statement on Political Violence](../markdown/ga49_2022.md#ga49-p1354) |  |
 | 2015 | Overture | explicit_citation | direct_text | high | [Amend BCO 35-1 to Require Church Officers and Accusers to Testify](../markdown/ga43_2015.md#ga43-p610) | Approved but not ratified |
