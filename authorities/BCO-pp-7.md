@@ -31,6 +31,7 @@
 | 2002 | Overture | explicit_citation | direct_text | high | [Specify Good Faith Subscription (Version 4) in BCO](../markdown/ga30_2002.md#ga30-p228) | Answered by reference |
 | 2002 | Overture | explicit_citation | direct_text | high | [Specify Good Faith Subscription (Version 6)](../markdown/ga30_2002.md#ga30-p233) | Answered by reference |
 | 2002 | Overture | explicit_citation | direct_text | high | [Specify Good Faith Subscription (Version 7)](../markdown/ga30_2002.md#ga30-p236) | Answered by reference |
+| 1996 | Overture | explicit_citation | direct_text | high | [Take No Action to Change BCO 38-2, 46-2, and 46-5 on Member Dismissal](../markdown/ga24_1996.md#ga24-p305) | Answered in the negative |
 | 2022 | RPR exception | exception_target | direct_text | high | [Palmetto: Presbytery prohibited two licentiates from preaching or teaching their views to difference](../rpr/exc/palmetto__043.html) | satisfactory |
 | 2021 | RPR exception | multiple | direct_text | high | [Calvary: Presbytery prohibited TE from teaching his accepted view, contrary to our practice of Good](../rpr/exc/calvary__106.html) | raised |
 | 2021 | RPR exception | multiple | direct_text | high | [Calvary: Presbytery prohibited TE from teaching his accepted view, contrary to our practice of Good](../rpr/exc/calvary__107.html) | raised |

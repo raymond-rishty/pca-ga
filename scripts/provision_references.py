@@ -19,7 +19,7 @@ WORD_NUM = {
 }
 
 PRELIM_RE = re.compile(
-    r"(?<![A-Za-z0-9])(?:BCO\s+)?[_*]*Preliminary[_*]*\s+[_*]*Principles?[_*]*\s+"
+    r"(?<![A-Za-z0-9])(?:BCO\s+)?[_*]*Preliminary[_*]*\s+[_*]*Principles?[_*]*(?:\s*,\s*|\s+|,\s*)"
     r"(?:(?:II|2)\s*(?:[-.(]\s*|\s+))?"
     r"(?:#|No\.?\s*)?"
     r"(?P<first>[A-Za-z]+|[IVX]+|\d+)"

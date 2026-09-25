@@ -10,6 +10,8 @@
 | 2021 | Judicial case | explicit_citation | direct_text | high | [Marusich v. Central Indiana Presbytery](../cases/ga48_2021__2020-04.md) | other |
 | 2018 | Judicial case | explicit_citation | direct_text | high | [Frazier v. Nashville Presbytery](../cases/ga46_2018__2016-11.md) | denied |
 | 2018 | Judicial case | explicit_citation | direct_text | high | [Sartorius v. Siouxlands Presbytery](../cases/ga46_2018__2016-16.md) | denied |
+| 2014 | Judicial case | explicit_citation | direct_text | high | [the Session of Hope Community Church v. Central Carolina Presbytery](../cases/ga42_2014__2013-04.md) | sustained |
+| 2013 | Judicial case | explicit_citation | direct_text | high | [Sherfey v. James River Presbytery](../cases/ga41_2013__2012-01.md) | dismissed |
 | 2007 | Judicial case | explicit_citation | direct_text | high | [Michael Chastain v. Heritage Presbytery](../cases/ga35_2007__2006-07.md) | out_of_order |
 | 2006 | Judicial case | explicit_citation | direct_text | high | [Chastain v. Heritage Presbytery](../cases/ga34_2006__2005-01.md) | denied |
 | 2005 | Judicial case | explicit_citation | direct_text | high | [Nichols and Couch v. James River Presbytery](../cases/ga33_2005__2001-34_2002-02_2002-03.md) | partially_sustained |

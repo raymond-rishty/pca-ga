@@ -524,6 +524,31 @@
  {
   "provision": "BCO Preliminary Principle 2",
   "case_numbers": [
+   "2019-3"
+  ],
+  "title": "Crouse v. Northwest Georgia Presbytery",
+  "body": "SJC",
+  "year": 2021,
+  "disposition": "sustained",
+  "standard_of_review": "discretion_and_judgment",
+  "review_standards": [
+   "discretion_and_judgment"
+  ],
+  "synopsis": "A serving deacon nominated for ruling elder complained that his session removed his nomination before BCO 24-1 instruction or examination. The SJC held the session erred by adding an unwritten pre-examination 'vetting' removal and that Northwest Georgia Presbytery erred in approving it: BCO 24-1's sequence—instruction and examination before the session determines eligibility—is mandatory. The ruling reserved the session's sound discretion and the treatment of frivolous or clearly disqualified nominees. The complaint was sustained and remanded for adjudication consistent with the decision.",
+  "url": "cases/ga48_2021__2019-03.md",
+  "sources": [
+   "case_markdown_text"
+  ],
+  "evidence": [
+   {
+    "line": 144,
+    "snippet": "…and “to declare...the qualifications of its ministers and members\" (BCO, Preliminary Principle, 2); such determination subject to its “sound discretion” (BCO 24-1) and “should not be distributed” (BCO"
+   }
+  ]
+ },
+ {
+  "provision": "BCO Preliminary Principle 2",
+  "case_numbers": [
    "2019-7"
   ],
   "title": "Fozard v. North Texas Presbytery",
@@ -4836,6 +4861,52 @@
    {
     "line": 493,
     "snippet": "…the jurisdiction of the Church. That point is clearly and properly made by Preliminary Principle 8 and BCO 3-4. But the issue here is not whether the PCA can “stop\" the teaching elder from leaving if he chooses to do so. Rather, the issue is whether the…"
+   }
+  ]
+ },
+ {
+  "provision": "BCO Preliminary Principle 8",
+  "case_numbers": [
+   "2012-1"
+  ],
+  "title": "Sherfey v. James River Presbytery",
+  "body": "SJC",
+  "year": 2013,
+  "disposition": "dismissed",
+  "standard_of_review": "not_reached",
+  "review_standards": [],
+  "synopsis": "The SJC dismissed a complaint against James River Presbytery without reaching the merits, holding it judicially out of order because the action complained against was not in the Record of the Case (BCO 43-1; OMSJC 10.6). The adopted ruling gives no further rationale and carried 13 concurring, 5 dissenting, 1 abstaining, 1 disqualified, and 4 absent. A dissent argued the record did contain an adjudicable Session action and that the cited OMSJC provision did not list the ground used; a separate written objection challenged a panel member's participation.",
+  "url": "cases/ga41_2013__2012-01.md",
+  "sources": [
+   "case_markdown_text"
+  ],
+  "evidence": [
+   {
+    "line": 100,
+    "snippet": "…countenance and blessing of the great Head of the Church\" (BCO, Preface, II. Preliminary Principles, 8), the members of the Standing"
+   }
+  ]
+ },
+ {
+  "provision": "BCO Preliminary Principle 8",
+  "case_numbers": [
+   "2013-4"
+  ],
+  "title": "the Session of Hope Community Church v. Central Carolina Presbytery",
+  "body": "SJC",
+  "year": 2014,
+  "disposition": "sustained",
+  "standard_of_review": "not_stated",
+  "review_standards": [],
+  "synopsis": "Hope Community Church’s Session challenged Presbytery’s requirement that a multi-site congregation eventually particularize its second worship site. The SJC sustained the complaint, annulled the requirement, and struck it from the Presbytery Manual because BCO 12-5e specifically entrusts the time and place of worship to the Session, which Presbytery’s general church-enlargement authority could not supersede. The narrow ruling did not resolve broader concerns about multi-site churches or eliminate Presbytery’s review of a second site’s location under BCO 13-9(g).",
+  "url": "cases/ga42_2014__2013-04.md",
+  "sources": [
+   "case_markdown_text"
+  ],
+  "evidence": [
+   {
+    "line": 102,
+    "snippet": "…in any way the “approbation of an impartial public.\" (BCO, Preface, II. Preliminary Principles, 8)"
    }
   ]
  },

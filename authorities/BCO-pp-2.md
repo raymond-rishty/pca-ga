@@ -5,6 +5,7 @@
 | Year | Record type | Relationship | Evidence | Confidence | Title | Disposition |
 |------|-------------|--------------|----------|------------|-------|-------------|
 | 2025 | Judicial case | explicit_citation | direct_text | high | [Martinez v. Pacific Presbytery](../cases/ga52_2025__2023-20.md) | sustained |
+| 2021 | Judicial case | explicit_citation | direct_text | high | [Crouse v. Northwest Georgia Presbytery](../cases/ga48_2021__2019-03.md) | sustained |
 | 2021 | Judicial case | explicit_citation | direct_text | high | [Fozard v. North Texas Presbytery](../cases/ga48_2021__2019-07.md) | denied |
 | 2021 | Judicial case | explicit_citation | direct_text | high | [Malone v. Metro NY](../cases/ga36_2008__2007-02.md) |  |
 | 2009 | Judicial case | explicit_citation | direct_text | high | [David Kniseley et al. v. Rocky Mountain Presbytery](../cases/ga37_2009__2007-13.md) | denied |
@@ -17,6 +18,7 @@
 | 2002 | Overture | explicit_citation | direct_text | high | [Add to BCO 26-1 Procedure for Conflicts Between Scripture & Constitution](../markdown/ga30_2002.md#ga30-p104) | Answered in the negative |
 | 2002 | Overture | explicit_citation | direct_text | high | [Amend BCO 24-1 to Record & Report All Exceptions to GA](../markdown/ga30_2002.md#ga30-p105) | Answered by reference |
 | 2002 | Overture | explicit_citation | direct_text | high | [Amend BCO to Clarify Handling of Exceptions to Westminster Standards](../markdown/ga30_2002.md#ga30-p102) | Answered in the negative |
+| 1996 | Overture | explicit_citation | direct_text | high | [Take No Action to Change BCO 38-2, 46-2, and 46-5 on Member Dismissal](../markdown/ga24_1996.md#ga24-p305) | Answered in the negative |
 | 2024 | RPR exception | body_mention | direct_text | high | [Ascension: Presbytery may not permit TE to withdraw if he is not in good standing; furthermore, it ma](../rpr/exc/ascension__016.html) | satisfactory |
 | 2019 | RPR exception | body_mention | direct_text | high | [Calvary: Presbytery adopted a statement asserting its right to “declare certain exceptions unteacha](../rpr/exc/calvary__102.html) | unsatisfactory |
 | 2019 | RPR exception | body_mention | direct_text | high | [Northwest Georgia: Presbytery appears to have bound the conscience of transferring minister by restricting hi](../rpr/exc/northwest-georgia__030.html) | unsatisfactory |

@@ -42,6 +42,11 @@ def load_curated_overtures(index_dir: Path) -> list[dict[str, Any]]:
         return row.get("vol"), str(row.get("number")), row.get("pdf_page")
 
     title_by_key = {key(row): (row.get("title") or "").strip() for row in titles}
+    titles_by_record: dict[tuple[Any, str], list[str]] = defaultdict(list)
+    for title_row in titles:
+        title = (title_row.get("title") or "").strip()
+        if title:
+            titles_by_record[(title_row.get("vol"), str(title_row.get("number")))].append(title)
     body_by_key = {key(row): row for row in bodies}
     bodies_by_record: dict[tuple[Any, str], list[dict[str, Any]]] = defaultdict(list)
     for body_row in bodies:
@@ -57,6 +62,13 @@ def load_curated_overtures(index_dir: Path) -> list[dict[str, Any]]:
     for row in sorted(dispositions, key=sort_key):
         occurrence_key = key(row)
         title = title_by_key.get(occurrence_key, "")
+        if not title:
+            # Some title rows carry a printed-page value where disposition
+            # and body rows carry the PDF-page value. Overture numbers are
+            # unique within an assembly, so recover only an unambiguous title.
+            candidates = titles_by_record.get((row.get("vol"), str(row.get("number"))), [])
+            if len(candidates) == 1:
+                title = candidates[0]
         if not title:
             continue
         volume = str(row.get("vol") or "")
