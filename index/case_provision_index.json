@@ -94,6 +94,48 @@
  {
   "provision": "BCO Preliminary Principle 1",
   "case_numbers": [
+   "2001-28"
+  ],
+  "title": "Larry Ball v. Westminster Presbytery",
+  "body": "SJC",
+  "year": 2002,
+  "disposition": "not_sustained",
+  "standard_of_review": "not_stated",
+  "review_standards": [],
+  "synopsis": "A complaint challenged Westminster Presbytery's denial of a challenge to its May 15, 2001 plan to withdraw from the PCA. The SJC answered no: the Presbytery did not err, and denied the complaint. BCO 25's local-church withdrawal right and the BCO Preface's grassroots principles extend to presbyteries unless expressly excluded, so a presbytery may determine its own membership and affiliation. The plan did not 'act for' local churches; they retained rights to remain in the PCA or leave, and retained property and internal operations.",
+  "url": "cases/ga30_2002__2001-28.md",
+  "sources": [
+   "cases.jsonl:bco_cited_as",
+   "cases.jsonl:bco_cited_current"
+  ],
+  "evidence": []
+ },
+ {
+  "provision": "BCO Preliminary Principle 1",
+  "case_numbers": [
+   "2001-8"
+  ],
+  "title": "TE Andy Lee v. Korean Capital Presbytery",
+  "body": "SJC",
+  "year": 2002,
+  "disposition": "",
+  "standard_of_review": null,
+  "review_standards": [],
+  "synopsis": "",
+  "url": "cases/ga30_2002__2001-08.md",
+  "sources": [
+   "case_markdown_text"
+  ],
+  "evidence": [
+   {
+    "line": 85,
+    "snippet": "…\"necessary for the protection and security equal and common to all others.\" (Preface II-1(b), BCO)"
+   }
+  ]
+ },
+ {
+  "provision": "BCO Preliminary Principle 1",
+  "case_numbers": [
    "2005-1"
   ],
   "title": "Chastain v. Heritage Presbytery",
@@ -529,6 +571,29 @@
    {
     "line": 155,
     "snippet": "…than were, apparently, other members of the Commission that lack of clarity on Preliminary Principles 1 and 2 did not constitute a fatal flaw in Respondent's argument."
+   }
+  ]
+ },
+ {
+  "provision": "BCO Preliminary Principle 2",
+  "case_numbers": [
+   "2007-2"
+  ],
+  "title": "Malone v. Metro NY",
+  "body": "SJC",
+  "year": 2021,
+  "disposition": "",
+  "standard_of_review": "not_stated",
+  "review_standards": [],
+  "synopsis": "Malone challenged Presbytery’s approval of a commission’s judgment and indefinite suspension imposed without process. The SJC sustained the complaint in part and vacated the judgment and censure: the commission had authority only to investigate, and Malone’s general acknowledgments neither confessed specific charges nor showed intent to waive process under BCO 38-1. Presbytery could begin anew under proper procedures. The SJC rejected Malone’s claim that suggested steps evidencing repentance improperly bound him, treating them as noncompulsory pastoral advice.",
+  "url": "cases/ga36_2008__2007-02.md",
+  "sources": [
+   "case_markdown_text"
+  ],
+  "evidence": [
+   {
+    "line": 177,
+    "snippet": "who participate in it. (Preliminary Principle No. 2). The court may"
    }
   ]
  },
@@ -3123,6 +3188,87 @@
  {
   "provision": "BCO Preliminary Principle 6",
   "case_numbers": [
+   "2001-34"
+  ],
+  "title": "Nichols and Couch v. James River Presbytery",
+  "body": "SJC",
+  "year": 2005,
+  "disposition": "partially_sustained",
+  "standard_of_review": null,
+  "review_standards": [],
+  "synopsis": "Case 2001-34 was decided with Cases 2002-02 and 2002-03. The SJC ruled one constituent complaint out of order, sustained the central challenge to James River Presbytery's delay in acting on a proper congregational request to dissolve a pastoral relationship, and denied the challenge to Presbytery's salary gift. The consolidated decision drew concurring and dissenting opinions.",
+  "url": "cases/ga33_2005__2001-34_2002-02_2002-03.md",
+  "sources": [
+   "case_markdown_text"
+  ],
+  "evidence": [
+   {
+    "line": 390,
+    "snippet": "We know that there are limitations on the power of the presbytery \"to establish the pastoral relationship.\" For instance, Preliminary Principle No. 6 states:"
+   },
+   {
+    "line": 456,
+    "snippet": "…govern a local congregation except BCO '3-1 officers chosen by its members. (Preface II (6); BCO 16-2)"
+   }
+  ]
+ },
+ {
+  "provision": "BCO Preliminary Principle 6",
+  "case_numbers": [
+   "2002-2"
+  ],
+  "title": "Nichols and Couch v. James River Presbytery",
+  "body": "SJC",
+  "year": 2005,
+  "disposition": "out_of_order",
+  "standard_of_review": null,
+  "review_standards": [],
+  "synopsis": "Case 2002-02 was adjudicated with Cases 2001-34 and 2002-03 in the dispute over James River Presbytery's handling of the requested dissolution of a pastoral relationship. The SJC held that all complaints assigned to this docket were judicially out of order and addressed the related in-order complaints under the companion dockets in a consolidated judgment.",
+  "url": "cases/ga33_2005__2001-34_2002-02_2002-03.md",
+  "sources": [
+   "case_markdown_text"
+  ],
+  "evidence": [
+   {
+    "line": 390,
+    "snippet": "We know that there are limitations on the power of the presbytery \"to establish the pastoral relationship.\" For instance, Preliminary Principle No. 6 states:"
+   },
+   {
+    "line": 456,
+    "snippet": "…govern a local congregation except BCO '3-1 officers chosen by its members. (Preface II (6); BCO 16-2)"
+   }
+  ]
+ },
+ {
+  "provision": "BCO Preliminary Principle 6",
+  "case_numbers": [
+   "2002-3"
+  ],
+  "title": "Nichols and Couch v. James River Presbytery",
+  "body": "SJC",
+  "year": 2005,
+  "disposition": "partially_sustained",
+  "standard_of_review": null,
+  "review_standards": [],
+  "synopsis": "Case 2002-03 was decided with Cases 2001-34 and 2002-02. The SJC ruled some constituent complaints out of order but sustained the central complaint that James River Presbytery unduly delayed acting on a congregation's proper request to dissolve its pastoral relationship; it denied a related complaint concerning a salary gift. The consolidated decision drew concurring and dissenting opinions.",
+  "url": "cases/ga33_2005__2001-34_2002-02_2002-03.md",
+  "sources": [
+   "case_markdown_text"
+  ],
+  "evidence": [
+   {
+    "line": 390,
+    "snippet": "We know that there are limitations on the power of the presbytery \"to establish the pastoral relationship.\" For instance, Preliminary Principle No. 6 states:"
+   },
+   {
+    "line": 456,
+    "snippet": "…govern a local congregation except BCO '3-1 officers chosen by its members. (Preface II (6); BCO 16-2)"
+   }
+  ]
+ },
+ {
+  "provision": "BCO Preliminary Principle 6",
+  "case_numbers": [
    "2004-7"
   ],
   "title": "Session of First Presbyterian Augusta v. Savannah River Presbytery",
@@ -3177,6 +3323,14 @@
    {
     "line": 219,
     "snippet": "…in the light of other related provisions of the BCO, such as BCO 16-2 and Preliminary Principle 6. These provisions give to the local congregation the right to choose who serves them as pastor-minister. Hence, absent some extraordinary issue, such as…"
+   },
+   {
+    "line": 331,
+    "snippet": "…Presbyterian polity. We concur with the SJC that there is no conflict between BCO Preliminary Principle #6 and BCO 16-2 against BCO 20-10 and BCO21-1. Neither Preliminary Principle #6, nor BCO 16-2, negates Presbytery's duties set forth in BCO 20-10 and…"
+   },
+   {
+    "line": 331,
+    "snippet": "…Preliminary Principle #6 and BCO 16-2 against BCO 20-10 and BCO21-1. Neither Preliminary Principle #6, nor BCO 16-2, negates Presbytery's duties set forth in BCO 20-10 and 21-1. We insist with all Presbyterians that congregations have the right to elect…"
    }
   ]
  },
@@ -3674,6 +3828,52 @@
  {
   "provision": "BCO Preliminary Principle 7",
   "case_numbers": [
+   "1990-4"
+  ],
+  "title": "Chappell v. Eastern Carolina Presbytery",
+  "body": "SJC",
+  "year": 1991,
+  "disposition": "sustained",
+  "standard_of_review": "not_stated",
+  "review_standards": [],
+  "synopsis": "Ruling Elder Chappell complained against Eastern Carolina Presbytery's Commission, which had suspended the session of Fuller Memorial Presbyterian Church and constituted itself as a 'Session Pro Tem' without due process or congregational consent. The SJC sustained the complaint, holding that the BCO grants no authority for a presbytery to depose a session and act in its place, that suspension requires due process, and that the congregation has an inalienable right to be governed by officers it has chosen.",
+  "url": "cases/ga19_1991__1990-04.md",
+  "sources": [
+   "case_markdown_text"
+  ],
+  "evidence": [
+   {
+    "line": 475,
+    "snippet": "For these reasons, the undersigned, concurring in the judgments, would exclude from the supporting reasoning section G (excepting the final paragraph), and the erroneous interpretation of BCO Preface II (7) in section B."
+   }
+  ]
+ },
+ {
+  "provision": "BCO Preliminary Principle 7",
+  "case_numbers": [
+   "1990-4a"
+  ],
+  "title": "Marshall v. Eastern Carolina Presbytery",
+  "body": "SJC",
+  "year": 1991,
+  "disposition": "sustained",
+  "standard_of_review": "not_stated",
+  "review_standards": [],
+  "synopsis": "Teaching Elder Wallace Marshall complained against the same Eastern Carolina Presbytery actions at Fuller Memorial Presbyterian Church that were the subject of Case 90-4, filed separately as a Teaching Elder complainant. The SJC sustained this complaint on essentially the same grounds as Case 90-4, finding that the presbytery lacked authority to suspend the session without due process and to constitute itself as a 'Session Pro Tem.'",
+  "url": "cases/ga19_1991__1990-04a.md",
+  "sources": [
+   "case_markdown_text"
+  ],
+  "evidence": [
+   {
+    "line": 440,
+    "snippet": "For these reasons, the undersigned, concurring in the judgments, would exclude from the supporting reasoning section F (excepting the final paragraph), and the erroneous interpretation of BCO Preface II (7) in section B."
+   }
+  ]
+ },
+ {
+  "provision": "BCO Preliminary Principle 7",
+  "case_numbers": [
    "1993-1"
   ],
   "title": "Smith v. Northeast Presbytery",
@@ -3691,6 +3891,29 @@
    {
     "line": 149,
     "snippet": "- **(a)** \"All church power... is only ministerial and declarative...\" (Preliminary Principles II-7)"
+   }
+  ]
+ },
+ {
+  "provision": "BCO Preliminary Principle 7",
+  "case_numbers": [
+   "1995-7"
+  ],
+  "title": "Edgemont Session v. Westminster Presbytery",
+  "body": "SJC",
+  "year": 1997,
+  "disposition": "sustained",
+  "standard_of_review": "not_stated",
+  "review_standards": [],
+  "synopsis": "",
+  "url": "cases/ga25_1997__1995-07.md",
+  "sources": [
+   "case_markdown_text"
+  ],
+  "evidence": [
+   {
+    "line": 164,
+    "snippet": "Thus Westminster Presbytery did not attempt to \"act for\" the Edgemont Session but did \"act on\" the issue in a proper constitutional manner exercising only its \"ministerial and declarative powers\" (Preliminary Principle No. 7)."
    }
   ]
  },
@@ -3776,6 +3999,87 @@
  {
   "provision": "BCO Preliminary Principle 7",
   "case_numbers": [
+   "2001-34"
+  ],
+  "title": "Nichols and Couch v. James River Presbytery",
+  "body": "SJC",
+  "year": 2005,
+  "disposition": "partially_sustained",
+  "standard_of_review": null,
+  "review_standards": [],
+  "synopsis": "Case 2001-34 was decided with Cases 2002-02 and 2002-03. The SJC ruled one constituent complaint out of order, sustained the central challenge to James River Presbytery's delay in acting on a proper congregational request to dissolve a pastoral relationship, and denied the challenge to Presbytery's salary gift. The consolidated decision drew concurring and dissenting opinions.",
+  "url": "cases/ga33_2005__2001-34_2002-02_2002-03.md",
+  "sources": [
+   "case_markdown_text"
+  ],
+  "evidence": [
+   {
+    "line": 394,
+    "snippet": "…which conflicts with this authority, is an erroneous interpretation. Also, Preliminary Principle No. 7 states:"
+   },
+   {
+    "line": 458,
+    "snippet": "…various courts is “spiritual”, “ministerial”, “moral”, and “declarative” (BCO Preface II-7, II-8, §3-2, §3-4, §11-2)."
+   }
+  ]
+ },
+ {
+  "provision": "BCO Preliminary Principle 7",
+  "case_numbers": [
+   "2002-2"
+  ],
+  "title": "Nichols and Couch v. James River Presbytery",
+  "body": "SJC",
+  "year": 2005,
+  "disposition": "out_of_order",
+  "standard_of_review": null,
+  "review_standards": [],
+  "synopsis": "Case 2002-02 was adjudicated with Cases 2001-34 and 2002-03 in the dispute over James River Presbytery's handling of the requested dissolution of a pastoral relationship. The SJC held that all complaints assigned to this docket were judicially out of order and addressed the related in-order complaints under the companion dockets in a consolidated judgment.",
+  "url": "cases/ga33_2005__2001-34_2002-02_2002-03.md",
+  "sources": [
+   "case_markdown_text"
+  ],
+  "evidence": [
+   {
+    "line": 394,
+    "snippet": "…which conflicts with this authority, is an erroneous interpretation. Also, Preliminary Principle No. 7 states:"
+   },
+   {
+    "line": 458,
+    "snippet": "…various courts is “spiritual”, “ministerial”, “moral”, and “declarative” (BCO Preface II-7, II-8, §3-2, §3-4, §11-2)."
+   }
+  ]
+ },
+ {
+  "provision": "BCO Preliminary Principle 7",
+  "case_numbers": [
+   "2002-3"
+  ],
+  "title": "Nichols and Couch v. James River Presbytery",
+  "body": "SJC",
+  "year": 2005,
+  "disposition": "partially_sustained",
+  "standard_of_review": null,
+  "review_standards": [],
+  "synopsis": "Case 2002-03 was decided with Cases 2001-34 and 2002-02. The SJC ruled some constituent complaints out of order but sustained the central complaint that James River Presbytery unduly delayed acting on a congregation's proper request to dissolve its pastoral relationship; it denied a related complaint concerning a salary gift. The consolidated decision drew concurring and dissenting opinions.",
+  "url": "cases/ga33_2005__2001-34_2002-02_2002-03.md",
+  "sources": [
+   "case_markdown_text"
+  ],
+  "evidence": [
+   {
+    "line": 394,
+    "snippet": "…which conflicts with this authority, is an erroneous interpretation. Also, Preliminary Principle No. 7 states:"
+   },
+   {
+    "line": 458,
+    "snippet": "…various courts is “spiritual”, “ministerial”, “moral”, and “declarative” (BCO Preface II-7, II-8, §3-2, §3-4, §11-2)."
+   }
+  ]
+ },
+ {
+  "provision": "BCO Preliminary Principle 7",
+  "case_numbers": [
    "2012-3"
   ],
   "title": "Charles Tarter v. Evangel Presbytery",
@@ -3795,6 +4099,29 @@
    {
     "line": 88,
     "snippet": "In the second specification of error, Appellant alleges that Preliminary Principles 1 and 7 were violated in the JC's judgment that Appellant failed to submit to the authority of EP, when he failed to comply with the direction of the CPCC to \"regularly attend…"
+   }
+  ]
+ },
+ {
+  "provision": "BCO Preliminary Principle 7",
+  "case_numbers": [
+   "2007-2"
+  ],
+  "title": "Malone v. Metro NY",
+  "body": "SJC",
+  "year": 2021,
+  "disposition": "",
+  "standard_of_review": "not_stated",
+  "review_standards": [],
+  "synopsis": "Malone challenged Presbytery’s approval of a commission’s judgment and indefinite suspension imposed without process. The SJC sustained the complaint in part and vacated the judgment and censure: the commission had authority only to investigate, and Malone’s general acknowledgments neither confessed specific charges nor showed intent to waive process under BCO 38-1. Presbytery could begin anew under proper procedures. The SJC rejected Malone’s claim that suggested steps evidencing repentance improperly bound him, treating them as noncompulsory pastoral advice.",
+  "url": "cases/ga36_2008__2007-02.md",
+  "sources": [
+   "case_markdown_text"
+  ],
+  "evidence": [
+   {
+    "line": 179,
+    "snippet": "(Preliminary Principle No. 7), nor may it usurp for itself the power of the"
    }
   ]
  },
@@ -3871,6 +4198,29 @@
    {
     "line": 321,
     "snippet": "declarative\" (Preliminary Principle 7) and can, in no sense, be coercive."
+   }
+  ]
+ },
+ {
+  "provision": "BCO Preliminary Principle 7",
+  "case_numbers": [
+   "2023-20"
+  ],
+  "title": "Martinez v. Pacific Presbytery",
+  "body": "SJC",
+  "year": 2025,
+  "disposition": "sustained",
+  "standard_of_review": null,
+  "review_standards": [],
+  "synopsis": "RE Martinez complained that Pacific Presbytery erred by sustaining a complaint against the Valley Presbyterian Church Session's decision to close worship with benedictions rather than doxologies. The SJC sustained the complaint 19-1, holding that the Session had constitutional authority under BCO 12-5.e to make this…",
+  "url": "cases/ga52_2025__2023-20.md",
+  "sources": [
+   "case_markdown_text"
+  ],
+  "evidence": [
+   {
+    "line": 477,
+    "snippet": "PP. 7. All church power, whether exercised by the body in general, or by representation, is only ministerial and declarative since the Holy Scriptures are the only rule of faith and practice. No church judicatory may make laws to bind the conscience. All…"
    }
   ]
  },
@@ -4359,6 +4709,87 @@
    {
     "line": 110,
     "snippet": "…public, and the countenance and blessing of the great Head of the Church. (BCO Preliminary Principle 8. See also BCO chapters 3, 11 and 13-9.)"
+   }
+  ]
+ },
+ {
+  "provision": "BCO Preliminary Principle 8",
+  "case_numbers": [
+   "2001-34"
+  ],
+  "title": "Nichols and Couch v. James River Presbytery",
+  "body": "SJC",
+  "year": 2005,
+  "disposition": "partially_sustained",
+  "standard_of_review": null,
+  "review_standards": [],
+  "synopsis": "Case 2001-34 was decided with Cases 2002-02 and 2002-03. The SJC ruled one constituent complaint out of order, sustained the central challenge to James River Presbytery's delay in acting on a proper congregational request to dissolve a pastoral relationship, and denied the challenge to Presbytery's salary gift. The consolidated decision drew concurring and dissenting opinions.",
+  "url": "cases/ga33_2005__2001-34_2002-02_2002-03.md",
+  "sources": [
+   "case_markdown_text"
+  ],
+  "evidence": [
+   {
+    "line": 398,
+    "snippet": "### And Preliminary Principle No. 8 states:"
+   },
+   {
+    "line": 458,
+    "snippet": "…various courts is “spiritual”, “ministerial”, “moral”, and “declarative” (BCO Preface II-7, II-8, §3-2, §3-4, §11-2)."
+   }
+  ]
+ },
+ {
+  "provision": "BCO Preliminary Principle 8",
+  "case_numbers": [
+   "2002-2"
+  ],
+  "title": "Nichols and Couch v. James River Presbytery",
+  "body": "SJC",
+  "year": 2005,
+  "disposition": "out_of_order",
+  "standard_of_review": null,
+  "review_standards": [],
+  "synopsis": "Case 2002-02 was adjudicated with Cases 2001-34 and 2002-03 in the dispute over James River Presbytery's handling of the requested dissolution of a pastoral relationship. The SJC held that all complaints assigned to this docket were judicially out of order and addressed the related in-order complaints under the companion dockets in a consolidated judgment.",
+  "url": "cases/ga33_2005__2001-34_2002-02_2002-03.md",
+  "sources": [
+   "case_markdown_text"
+  ],
+  "evidence": [
+   {
+    "line": 398,
+    "snippet": "### And Preliminary Principle No. 8 states:"
+   },
+   {
+    "line": 458,
+    "snippet": "…various courts is “spiritual”, “ministerial”, “moral”, and “declarative” (BCO Preface II-7, II-8, §3-2, §3-4, §11-2)."
+   }
+  ]
+ },
+ {
+  "provision": "BCO Preliminary Principle 8",
+  "case_numbers": [
+   "2002-3"
+  ],
+  "title": "Nichols and Couch v. James River Presbytery",
+  "body": "SJC",
+  "year": 2005,
+  "disposition": "partially_sustained",
+  "standard_of_review": null,
+  "review_standards": [],
+  "synopsis": "Case 2002-03 was decided with Cases 2001-34 and 2002-02. The SJC ruled some constituent complaints out of order but sustained the central complaint that James River Presbytery unduly delayed acting on a congregation's proper request to dissolve its pastoral relationship; it denied a related complaint concerning a salary gift. The consolidated decision drew concurring and dissenting opinions.",
+  "url": "cases/ga33_2005__2001-34_2002-02_2002-03.md",
+  "sources": [
+   "case_markdown_text"
+  ],
+  "evidence": [
+   {
+    "line": 398,
+    "snippet": "### And Preliminary Principle No. 8 states:"
+   },
+   {
+    "line": 458,
+    "snippet": "…various courts is “spiritual”, “ministerial”, “moral”, and “declarative” (BCO Preface II-7, II-8, §3-2, §3-4, §11-2)."
    }
   ]
  },

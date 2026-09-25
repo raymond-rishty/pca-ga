@@ -28,7 +28,7 @@ import sys
 from pathlib import Path
 from typing import Any
 from provision_references import (
-    PP_RE, PRELIM_ORDINAL_RE, PRELIM_RE, ROMAN, norm_prelim, number_value,
+    PP_RE, PRELIM_ORDINAL_RE, PRELIM_RE, PREFACE_PP_RE, ROMAN, norm_prelim, number_value,
 )
 
 ROOT = Path(sys.argv[1]).resolve() if len(sys.argv) > 1 else Path.cwd().resolve()
@@ -319,6 +319,8 @@ def norm_metadata(value: Any) -> list[str]:
         out.extend(norm_prelim(m))
     for m in PRELIM_ORDINAL_RE.finditer(raw):
         out.extend(norm_prelim(m))
+    for m in PREFACE_PP_RE.finditer(raw):
+        out.extend(norm_prelim(m))
     for m in EXPLICIT_RE.finditer(raw):
         std, num = explicit_groups(m)
         p = norm_explicit(std, num)
@@ -384,6 +386,8 @@ def text_hits_from_text(raw_text: str) -> dict[str, list[dict[str, Any]]]:
         for m in PP_RE.finditer(line):
             add_hit(m, norm_prelim(m))
         for m in PRELIM_ORDINAL_RE.finditer(line):
+            add_hit(m, norm_prelim(m))
+        for m in PREFACE_PP_RE.finditer(line):
             add_hit(m, norm_prelim(m))
         for m in EXPLICIT_RE.finditer(line):
             std, num = explicit_groups(m)

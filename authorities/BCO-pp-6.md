@@ -21,6 +21,7 @@
 | 2025 | Overture | explicit_citation | direct_text | high | [Amend BCO 20-3, 24-3, and 25-1 to Permit Congregational Minimum Voting Age](../markdown/ga52_2025.md#ga52-p1208) | Answered in the negative |
 | 2025 | Overture | explicit_citation | direct_text | high | [Amend BCO 22 to Require Congregation Consent for Assistant Pastor Calls](../markdown/ga52_2025.md#ga52-p1187) | Referred |
 | 2025 | Overture | explicit_citation | direct_text | high | [Amend BCO 41-3 to Allow Supplemental Judges for a Session Trial](../markdown/ga52_2025.md#ga52-p1234) | Approved → sent to presbyteries; ratification not located |
+| 2007 | Overture | explicit_citation | direct_text | high | [Amend BCO 21-1 to Affirm Presbytery's Right to Decline a Pastoral Call](../markdown/ga35_2007.md#ga35-p152) | Answered in the negative |
 | 2025 | RPR exception | body_mention | direct_text | high | [Korean Southern: ( BCO 16-2; BCO Preliminary Principle 6) — There is no record of the congregation approvin](../rpr/exc/korean-southern__178.html) | raised |
 | 2025 | RPR exception | body_mention | direct_text | high | [Korean Southwest: Presbytery appoints an interim pastor with no evidence of congregational request or concur](../rpr/exc/korean-southwest__251.html) | unsatisfactory |
 | 2025 | RPR exception | body_mention | direct_text | high | [Korean Southwest: Presbytery overstepped its constitutional authority in approving a church's request to inc](../rpr/exc/korean-southwest__211.html) | raised |
@@ -53,6 +54,7 @@
 | 2024 | RPR exception | body_mention | direct_text | high | [Rocky Mountain: No record that members of interim Session were called by the congregation.](../rpr/exc/rocky-mountain__062.html) | satisfactory |
 | 2024 | RPR exception | body_mention | direct_text | high | [Rocky Mountain: No record that members of interim/provisional Session were called by the congregation.](../rpr/exc/rocky-mountain__063.html) | satisfactory |
 | 2023 | RPR exception | body_mention | direct_text | high | [Central Florida: – Presbytery approved the withdrawal of a church from the PCA, when withdrawal is not cond](../rpr/exc/central-florida__092.html) | raised |
+| 2023 | RPR exception | body_mention | direct_text | high | [Georgia Foothills: No record that members of provisional session were approved by the congregation.](../rpr/exc/georgia-foothills__036.html) | raised |
 | 2023 | RPR exception | body_mention | direct_text | high | [Hills and Plains: ( Standing Rules, 6-2.b; RONR [12th ed.] 23:6.(e); 25:10) – Rule protecting fundamental ri](../rpr/exc/hills-and-plains__050.html) | raised |
 | 2023 | RPR exception | body_mention | direct_text | high | [James River: No record that members of temporary Session were approved by congregation.](../rpr/exc/james-river__059.html) | raised |
 | 2023 | RPR exception | body_mention | direct_text | high | [Korean Central: ( BCO 24-1, 40-4; Preliminary Principle 6) – Agenda item 10 indicates that the presbytery](../rpr/exc/korean-central__111.html) | raised |
@@ -69,12 +71,17 @@
 | 2022 | RPR exception | exception_target | direct_text | high | [Southern New England: No record that members of interim/provisional Session were called by the congregation of a](../rpr/exc/southern-new-england__036.html) | satisfactory |
 | 2021 | RPR exception | multiple | direct_text | high | [Catawba Valley: A teaching elder was appointed as Stated Supply without any record of Session’s concurrenc](../rpr/exc/catawba-valley__014.html) | satisfactory |
 | 2021 | RPR exception | exception_target | direct_text | high | [Korean Northwest: Improper exercise of Presbytery authority. Presbytery may not require churches to request](../rpr/exc/korean-northwest__077.html) | satisfactory |
+| 2021 | RPR exception | exception_target | direct_text | high | [Korean Southwest: Interim pastors appointed without call/vote of congregations.](../rpr/exc/korean-southwest__125.html) | raised |
 | 2018 | RPR exception | exception_target | direct_text | high | [New Jersey: No approval by congregation of provisional session members. Response : New Jersey Presbyte](../rpr/exc/new-jersey__035.html) | satisfactory |
 | 2017 | RPR exception | exception_target | direct_text | high | [Westminster: Not stated if congregation approved of temporary Session appointed by Presbytery.](../rpr/exc/westminster__046.html) | satisfactory |
 | 2016 | RPR exception | exception_target | direct_text | high | [Korean Eastern: No record that members of an interim session were approved by the congregation.](../rpr/exc/korean-eastern__060.html) | satisfactory |
+| 2016 | RPR exception | exception_target | direct_text | high | [Korean Southwest: No record that members of an interim session were approved by the congregation.](../rpr/exc/korean-southwest__106.html) | satisfactory |
 | 2016 | RPR exception | body_mention | direct_text | high | [Western Carolina: ( BCO 24-1; 12-3; BCO Preliminary Principle 6) – Presbytery approved a commission to act a](../rpr/exc/western-carolina__033.html) | satisfactory |
 | 2014 | RPR exception | multiple | direct_text | high | [Korean Capital: (Preliminary Principles 6; BCO 24-1; presbytery bylaws 7.17) – Presbytery holds the right](../rpr/exc/korean-capital__042.html) | satisfactory |
+| 2010 | RPR exception | exception_target | direct_text | high | [Western Canada: presbytery may not appoint a session fora church without congregational approval prior to](../rpr/exc/western-canada__006.html) | satisfactory |
 | 2005 | RPR exception | body_mention | direct_text | high | [Korean Eastern: The minutes record Presbytery’s approval of the request of an organized church for “the or](../rpr/exc/korean-eastern__029.html) | unsatisfactory |
+| 1992 | RPR exception | body_mention | direct_text | high | [Southwest: EXCEPTION (1): Page 6 #17-4 "Not in accord with BCO 20 to require a congregation to consul](../rpr/exc/southwest__011.html) | satisfactory |
+| 1991 | RPR exception | body_mention | direct_text | high | [Southwest: Page 6 #17-4 Not in accord with BCO 20 to require a congregation to consult with Presbyter](../rpr/exc/southwest__007.html) | raised |
 
 ---
 *[← Authority Index](../index/AUTHORITY-BY-PROVISION.md)*

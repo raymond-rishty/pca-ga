@@ -19,23 +19,31 @@ WORD_NUM = {
 }
 
 PRELIM_RE = re.compile(
-    r"\b(?:BCO\s+)?Preliminary Principles?\s+"
+    r"(?<![A-Za-z0-9])(?:BCO\s+)?[_*]*Preliminary[_*]*\s+[_*]*Principles?[_*]*\s+"
     r"(?:(?:II|2)\s*(?:[-.(]\s*|\s+))?"
+    r"(?:#|No\.?\s*)?"
     r"(?P<first>[A-Za-z]+|[IVX]+|\d+)"
-    r"(?:\s*(?:,|and|&)\s*(?P<second>[A-Za-z]+|[IVX]+|\d+))?",
+    r"(?:\s*(?:,|and|&)\s*(?:#|No\.?\s*)?(?P<second>[A-Za-z]+|[IVX]+|\d+))?",
     re.I,
 )
 # Uppercase PP is common in RPR headings ("PP 6", "PP II.6"). Keep this
 # case-sensitive so ordinary lowercase "pp. 6" page references stay excluded.
 PP_RE = re.compile(
-    r"\bPP\s+(?:(?:II|2)\s*(?:[-.(]\s*|\s+))?"
+    r"(?<![A-Za-z0-9])PP\.?\s*(?:(?:II|2)\s*(?:[-.(]\s*|\s+))?"
     r"(?P<first>[A-Za-z]+|[IVX]+|\d+)"
     r"(?:\s*(?:,|and|&)\s*(?P<second>[A-Za-z]+|[IVX]+|\d+))?"
 )
 PRELIM_ORDINAL_RE = re.compile(
-    r"\b(?P<first>first|second|third|fourth|fifth|sixth|seventh|eighth)"
+    r"(?<![A-Za-z0-9])(?P<first>first|second|third|fourth|fifth|sixth|seventh|eighth)"
     r"(?:\s*(?:,|and|&)\s*(?P<second>first|second|third|fourth|fifth|sixth|seventh|eighth))?"
-    r"\s+preliminary principles?\b",
+    r"\s+[_*]*preliminary[_*]*\s+[_*]*principles?[_*]*(?![A-Za-z0-9])",
+    re.I,
+)
+PREFACE_PP_RE = re.compile(
+    r"(?<![A-Za-z0-9])(?:BCO\s+)?[_*]*(?:the\s+)?Preface[_*]*\s+II\s*(?:[-.(]\s*|\s+)"
+    r"(?P<first>[1-8])"
+    r"(?:\s*(?:,|and|&)\s*(?:(?:BCO\s+)?(?:the\s+)?Preface\s+)?"
+    r"(?:(?:II|2)\s*(?:[-.(]\s*|\s+))?(?P<second>[1-8]))?",
     re.I,
 )
 
@@ -56,7 +64,7 @@ def norm_prelim(match: re.Match[str]) -> list[str]:
 
 def preliminary_matches(text: str):
     """Yield normalized provision, character start/end, and source match."""
-    for pattern in (PRELIM_RE, PP_RE, PRELIM_ORDINAL_RE):
+    for pattern in (PRELIM_RE, PP_RE, PRELIM_ORDINAL_RE, PREFACE_PP_RE):
         for match in pattern.finditer(text):
             for provision in norm_prelim(match):
                 yield provision, match.start(), match.end(), match

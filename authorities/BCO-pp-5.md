@@ -4,6 +4,7 @@
 
 | Year | Record type | Relationship | Evidence | Confidence | Title | Disposition |
 |------|-------------|--------------|----------|------------|-------|-------------|
+| 2004 | Overture | explicit_citation | direct_text | high | [Amend BCO Preface, Chapter 16, and 21-4 Regarding Stricter Doctrinal Subscription](../markdown/ga32_2004.md#ga32-p168) | Answered in the negative |
 | 2025 | RPR exception | body_mention | direct_text | high | [Korean Southwest: No record that Presbytery judged the stated differences of licensure candidates during the](../rpr/exc/korean-southwest__231.html) | raised |
 
 ---

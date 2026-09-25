@@ -12,6 +12,7 @@
 | 2018 | Judicial case | explicit_citation | direct_text | high | [Sartorius v. Siouxlands Presbytery](../cases/ga46_2018__2016-16.md) | denied |
 | 2007 | Judicial case | explicit_citation | direct_text | high | [Michael Chastain v. Heritage Presbytery](../cases/ga35_2007__2006-07.md) | out_of_order |
 | 2006 | Judicial case | explicit_citation | direct_text | high | [Chastain v. Heritage Presbytery](../cases/ga34_2006__2005-01.md) | denied |
+| 2005 | Judicial case | explicit_citation | direct_text | high | [Nichols and Couch v. James River Presbytery](../cases/ga33_2005__2001-34_2002-02_2002-03.md) | partially_sustained |
 | 2003 | Judicial case | explicit_citation | direct_text | high | [Charles Kim v. Korean Capital Presbytery](../cases/ga30_2002__2001-01.md) | dismissed |
 | 2003 | Judicial case | explicit_citation | direct_text | high | [Third Presbyterian Church v. Evangel Presbytery](../cases/ga31_2003__2001-30.md) | dismissed |
 | 2002 | Judicial case | explicit_citation | direct_text | high | [Sung Keon Kim v. Korean Capital Presbytery](../cases/ga30_2002__2000-09.md) |  |

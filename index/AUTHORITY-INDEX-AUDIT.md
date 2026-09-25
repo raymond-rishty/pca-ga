@@ -1,8 +1,8 @@
 # Authority index audit
 
-Catalogue input fingerprint: `613a69259d78b86fb70a893f9e1757ec3e9bad7c9b7578dfb01c4796d6a9b4fc`.
+Catalogue input fingerprint: `b03938b466f6e2399ef9f5d8b29f442d2b595b98602df319fc7d88f438067d4b`.
 
-The catalogue contains 1172 provisions, 12405 relationships, 16040 evidence occurrences, and 97 unmatched source references.
+The catalogue contains 1172 provisions, 12439 relationships, 16105 evidence occurrences, and 97 unmatched source references.
 
 Relationship kinds describe why a record is linked. Evidence basis describes the source of that link. Match confidence describes extraction confidence. Reader scope labels the relationship in the Constitution Reader. These fields do not describe legal force.
 
@@ -14,9 +14,9 @@ The Reader includes indexed relationships for its supported record types across 
 |-------------|--------------:|----------------:|
 | CCB advice | 542 | 542 |
 | Constitutional inquiry | 420 | 420 |
-| Judicial case | 3255 | 3255 |
-| Overture | 1317 | 1317 |
-| RPR exception | 6871 | 6871 |
+| Judicial case | 3260 | 3260 |
+| Overture | 1330 | 1330 |
+| RPR exception | 6887 | 6887 |
 
 Reader-included relationships by scope:
 
@@ -24,19 +24,19 @@ Reader-included relationships by scope:
 |-------------|-------|------:|
 | CCB advice | `contextual` | 542 |
 | Constitutional inquiry | `primary` | 420 |
-| Judicial case | `primary` | 3255 |
-| Overture | `candidate` | 1221 |
+| Judicial case | `primary` | 3260 |
+| Overture | `candidate` | 1234 |
 | Overture | `primary` | 96 |
-| RPR exception | `candidate` | 133 |
-| RPR exception | `contextual` | 6738 |
+| RPR exception | `candidate` | 136 |
+| RPR exception | `contextual` | 6751 |
 
 ### Relationships by relationship kind
 
 | Value | Count |
 |-------|------:|
-| `body_mention` | 192 |
-| `exception_target` | 211 |
-| `explicit_citation` | 3430 |
+| `body_mention` | 203 |
+| `exception_target` | 224 |
+| `explicit_citation` | 3448 |
 | `proposal_target` | 643 |
 | `structured_case_reference` | 823 |
 | `structured_exception_tag` | 6711 |
@@ -46,7 +46,7 @@ Reader-included relationships by scope:
 
 | Value | Count |
 |-------|------:|
-| `direct_text` | 3815 |
+| `direct_text` | 3849 |
 | `overture_action_target` | 643 |
 | `structured_case_metadata` | 823 |
 | `structured_provision_tag` | 7673 |
@@ -56,22 +56,22 @@ Reader-included relationships by scope:
 
 | Value | Count |
 |-------|------:|
-| `high` | 4225 |
+| `high` | 4259 |
 | `medium` | 8180 |
 
 ### Relationships by reader scope
 
 | Value | Count |
 |-------|------:|
-| `candidate` | 1354 |
-| `contextual` | 7280 |
-| `primary` | 3771 |
+| `candidate` | 1370 |
+| `contextual` | 7293 |
+| `primary` | 3776 |
 
 ### Relationships by match method
 
 | Value | Count |
 |-------|------:|
-| `case_provision_index:case_markdown_text` | 930 |
+| `case_provision_index:case_markdown_text` | 936 |
 | `case_provision_index:case_markdown_text,cases.jsonl:bco_cited_as,cases.jsonl:bco_cited_current` | 279 |
 | `case_provision_index:case_markdown_text,cases.jsonl:bco_cited_as,cases.jsonl:bco_cited_current,judicial_cases.jsonl:bco_provisions` | 1335 |
 | `case_provision_index:case_markdown_text,cases.jsonl:bco_cited_as,judicial_cases.jsonl:bco_provisions` | 6 |
@@ -85,7 +85,7 @@ Reader-included relationships by scope:
 | `disposition_bco,title_subject` | 495 |
 | `index/inquiries_search.json:provisions` | 962 |
 | `index/rpr_search.json:provisions` | 6711 |
-| `overture_body_explicit_reference_match` | 907 |
+| `overture_body_explicit_reference_match` | 920 |
 | `rpr_markdown_line:100` | 1 |
 | `rpr_markdown_line:104` | 1 |
 | `rpr_markdown_line:105` | 2 |
@@ -109,35 +109,35 @@ Reader-included relationships by scope:
 | `rpr_markdown_line:18` | 16 |
 | `rpr_markdown_line:20` | 17 |
 | `rpr_markdown_line:22` | 16 |
-| `rpr_markdown_line:24` | 99 |
-| `rpr_markdown_line:25` | 10 |
-| `rpr_markdown_line:26` | 6 |
-| `rpr_markdown_line:27` | 8 |
+| `rpr_markdown_line:24` | 103 |
+| `rpr_markdown_line:25` | 11 |
+| `rpr_markdown_line:26` | 8 |
+| `rpr_markdown_line:27` | 13 |
 | `rpr_markdown_line:29` | 14 |
 | `rpr_markdown_line:30` | 4 |
-| `rpr_markdown_line:31` | 79 |
+| `rpr_markdown_line:31` | 81 |
 | `rpr_markdown_line:32` | 7 |
 | `rpr_markdown_line:33` | 1 |
-| `rpr_markdown_line:34` | 7 |
+| `rpr_markdown_line:34` | 9 |
 | `rpr_markdown_line:35` | 2 |
 | `rpr_markdown_line:36` | 19 |
-| `rpr_markdown_line:37` | 18 |
-| `rpr_markdown_line:38` | 24 |
+| `rpr_markdown_line:37` | 21 |
+| `rpr_markdown_line:38` | 27 |
 | `rpr_markdown_line:39` | 6 |
 | `rpr_markdown_line:40` | 5 |
 | `rpr_markdown_line:41` | 9 |
 | `rpr_markdown_line:42` | 11 |
 | `rpr_markdown_line:43` | 12 |
 | `rpr_markdown_line:44` | 7 |
-| `rpr_markdown_line:45` | 12 |
+| `rpr_markdown_line:45` | 14 |
 | `rpr_markdown_line:46` | 1 |
 | `rpr_markdown_line:48` | 3 |
 | `rpr_markdown_line:49` | 2 |
 | `rpr_markdown_line:50` | 4 |
 | `rpr_markdown_line:51` | 3 |
-| `rpr_markdown_line:52` | 5 |
+| `rpr_markdown_line:52` | 6 |
 | `rpr_markdown_line:53` | 3 |
-| `rpr_markdown_line:54` | 4 |
+| `rpr_markdown_line:54` | 5 |
 | `rpr_markdown_line:55` | 1 |
 | `rpr_markdown_line:56` | 1 |
 | `rpr_markdown_line:57` | 5 |
@@ -145,13 +145,13 @@ Reader-included relationships by scope:
 | `rpr_markdown_line:59` | 2 |
 | `rpr_markdown_line:60` | 1 |
 | `rpr_markdown_line:61` | 2 |
-| `rpr_markdown_line:62` | 3 |
-| `rpr_markdown_line:63` | 3 |
+| `rpr_markdown_line:62` | 5 |
+| `rpr_markdown_line:63` | 4 |
 | `rpr_markdown_line:64` | 2 |
 | `rpr_markdown_line:65` | 1 |
 | `rpr_markdown_line:66` | 6 |
-| `rpr_markdown_line:67` | 2 |
-| `rpr_markdown_line:68` | 1 |
+| `rpr_markdown_line:67` | 4 |
+| `rpr_markdown_line:68` | 3 |
 | `rpr_markdown_line:69` | 2 |
 | `rpr_markdown_line:70` | 2 |
 | `rpr_markdown_line:71` | 1 |
@@ -160,7 +160,7 @@ Reader-included relationships by scope:
 | `rpr_markdown_line:74` | 2 |
 | `rpr_markdown_line:75` | 1 |
 | `rpr_markdown_line:78` | 1 |
-| `rpr_markdown_line:79` | 1 |
+| `rpr_markdown_line:79` | 3 |
 | `rpr_markdown_line:80` | 2 |
 | `rpr_markdown_line:81` | 2 |
 | `rpr_markdown_line:85` | 2 |
@@ -170,7 +170,8 @@ Reader-included relationships by scope:
 | `rpr_markdown_line:94` | 1 |
 | `rpr_markdown_line:95` | 1 |
 | `rpr_markdown_line:96` | 1 |
-| `rpr_markdown_line:98` | 1 |
+| `rpr_markdown_line:97` | 1 |
+| `rpr_markdown_line:98` | 2 |
 | `rpr_markdown_line:99` | 6 |
 | `title_subject` | 15 |
 
@@ -178,9 +179,9 @@ Reader-included relationships by scope:
 
 | Value | Count |
 |-------|------:|
-| `body_mention` | 350 |
-| `exception_target` | 263 |
-| `explicit_citation` | 6201 |
+| `body_mention` | 366 |
+| `exception_target` | 284 |
+| `explicit_citation` | 6229 |
 | `proposal_target` | 709 |
 | `structured_case_reference` | 844 |
 | `structured_exception_tag` | 6711 |
@@ -190,7 +191,7 @@ Reader-included relationships by scope:
 
 | Value | Count |
 |-------|------:|
-| `direct_text` | 6814 |
+| `direct_text` | 6879 |
 | `overture_action_target` | 694 |
 | `structured_case_metadata` | 844 |
 | `structured_provision_tag` | 7673 |
@@ -200,16 +201,16 @@ Reader-included relationships by scope:
 
 | Value | Count |
 |-------|------:|
-| `high` | 7523 |
+| `high` | 7588 |
 | `medium` | 8517 |
 
 ### Evidence occurrences by reader scope
 
 | Value | Count |
 |-------|------:|
-| `candidate` | 2351 |
-| `contextual` | 7516 |
-| `primary` | 6173 |
+| `candidate` | 2384 |
+| `contextual` | 7537 |
+| `primary` | 6184 |
 
 ## Unmatched source references
 
@@ -365,7 +366,7 @@ Stored `unrelated_or_mislinked` advisory labels by record type:
 - Overture: 89
 - RPR exception: 118
 
-Assessment status: `stale`; applied 0, stale 11481, unassessed 12405.
+Assessment status: `stale`; applied 0, stale 11481, unassessed 12439.
 
 ## Coverage and spot checks
 
