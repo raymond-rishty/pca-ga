@@ -1,0 +1,10 @@
+# BCO 6-5.a
+
+*Indexed PCA records associated with **BCO 6-5.a**. Association type, evidence, and confidence are shown separately; this index does not assign legal force.*
+
+| Year | Record type | Relationship | Evidence | Confidence | Title | Disposition |
+|------|-------------|--------------|----------|------------|-------|-------------|
+| 2024 | Judicial case | explicit_citation | direct_text | high | [Psiaki v. Pacific Northwest Presbytery](../cases/ga51_2024__2023-11.md) | sustained |
+
+---
+*[← Authority Index](../index/AUTHORITY-BY-PROVISION.md)*

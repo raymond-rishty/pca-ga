@@ -1,12 +1,10 @@
 # WSC Q.14
 
-*All PCA authorities bearing on **WSC Q.14**.*
+*Indexed PCA records associated with **WSC Q.14**. Association type, evidence, and confidence are shown separately; this index does not assign legal force.*
 
-## High authority
-
-| Year | Type | Title | Disposition |
-|------|------|-------|-------------|
-| 2011 | Judicial case | [Ruff v. Nashville Presbytery](../cases/ga39_2011__2009-28.md) | sustained |
+| Year | Record type | Relationship | Evidence | Confidence | Title | Disposition |
+|------|-------------|--------------|----------|------------|-------|-------------|
+| 2011 | Judicial case | explicit_citation | direct_text | high | [Ruff v. Nashville Presbytery](../cases/ga39_2011__2009-28.md) | sustained |
 
 ---
 *[← Authority Index](../index/AUTHORITY-BY-PROVISION.md)*

@@ -361,11 +361,10 @@ def load_jsonl(path: Path) -> list[dict[str, Any]]:
     return [json.loads(line) for line in path.read_text(encoding="utf-8").splitlines() if line.strip()]
 
 
-def text_hits(path: Path) -> dict[str, list[dict[str, Any]]]:
+def text_hits_from_text(raw_text: str) -> dict[str, list[dict[str, Any]]]:
+    """Extract normalized provision citations from Markdown text."""
     hits: dict[str, list[dict[str, Any]]] = collections.defaultdict(list)
-    if not path.exists():
-        return hits
-    raw_lines = path.read_text(encoding="utf-8").splitlines()
+    raw_lines = raw_text.splitlines()
     lines, skipped_lines = markdown_body_lines("\n".join(raw_lines))
     for lineno, line in enumerate(lines, start=skipped_lines + 1):
         line = plain_evidence_line(line)
@@ -391,6 +390,12 @@ def text_hits(path: Path) -> dict[str, list[dict[str, Any]]]:
             p = norm_explicit(std, num)
             add_hit(m, [p] if p else [])
     return hits
+
+
+def text_hits(path: Path) -> dict[str, list[dict[str, Any]]]:
+    if not path.exists():
+        return collections.defaultdict(list)
+    return text_hits_from_text(path.read_text(encoding="utf-8"))
 
 
 def main() -> None:

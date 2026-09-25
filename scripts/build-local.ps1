@@ -114,6 +114,12 @@ try {
         python scripts/43_authority_index.py .
         if ($LASTEXITCODE -ne 0) { throw "Authority projection failed: $LASTEXITCODE" }
     }
+    Invoke-BuildStep 'Write the authority-index audit report' {
+        python scripts/47_authority_index_audit.py .
+        if ($LASTEXITCODE -ne 0) { throw "Authority-index audit failed: $LASTEXITCODE" }
+        Assert-File 'index/authority_index_audit.json'
+        Assert-File 'index/AUTHORITY-INDEX-AUDIT.md'
+    }
     Invoke-BuildStep 'Rebuild catalogue search index' {
         python scripts/35_search_index.py .
     }
@@ -149,6 +155,9 @@ try {
     }
     Invoke-BuildStep 'Test provision catalogue projections' {
         python tests/test_provision_catalogue.py
+    }
+    Invoke-BuildStep 'Test authority-index feedback regressions' {
+        python tests/test_authority_index_feedback.py
     }
     Invoke-BuildStep 'Run focused Node regression checks' {
         node --test tests/source-pdf-links.test.js tests/minutes-back-to-top.test.js tests/minutes-page-source-pdf.test.js tests/search-engine.test.js tests/search-record.test.js tests/search-index-overtures.test.js tests/pagefind-search.test.js

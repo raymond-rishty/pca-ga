@@ -73,8 +73,6 @@ def norm_case_num(n: str) -> str:
 # ── provision sort key ────────────────────────────────────────────────────────
 
 _STD_RANK = {'BCO': 0, 'WCF': 1, 'WLC': 2, 'WSC': 3, 'RAO': 4}
-_WEIGHT_RANK = {'high': 0, 'medium': 1, 'low-but-important': 2}
-
 def prov_sort_key(p: str) -> tuple:
     parts = p.split(' ', 1)
     std = parts[0].upper()
@@ -126,116 +124,70 @@ def snippet_for(text: str, prov: str, ctx: int = 220) -> str:
 # ── loaders ───────────────────────────────────────────────────────────────────
 
 def load_json(path):
-    return json.load(open(path, encoding='utf-8')) if os.path.exists(path) else []
+    if not os.path.exists(path):
+        return []
+    with open(path, encoding='utf-8') as source:
+        return json.load(source)
 
 def load_jsonl(path):
     if not os.path.exists(path):
         return []
     out = []
-    for line in open(path, encoding='utf-8'):
-        line = line.strip()
-        if line:
-            out.append(json.loads(line))
+    with open(path, encoding='utf-8') as source:
+        for line in source:
+            line = line.strip()
+            if line:
+                out.append(json.loads(line))
     return out
 
 
 # ── case rows ─────────────────────────────────────────────────────────────────
 
 def build_case_rows() -> list[dict]:
-    cases_by_num: dict[str, dict] = {}
-    for c in load_jsonl(os.path.join(IDX, 'cases.jsonl')):
-        num = c.get('case_number')
-        if num:
-            cases_by_num[norm_case_num(num)] = c
-
-    cmap: dict = {}
-    p = os.path.join(IDX, 'case_pages_map.json')
-    if os.path.exists(p):
-        cmap = json.load(open(p, encoding='utf-8'))
+    """Project case relationships from the audited reverse index only."""
     taxonomy_by_num = {
         norm_case_num(c.get('case_id')): c
         for c in load_jsonl(os.path.join(IDX, 'judicial_cases.jsonl'))
         if c.get('case_id')
     }
-
     rows = []
-    seen_files: set[str] = set()
-
-    for num, entry in cmap.items():
-        fname = entry['file']
-        if fname in seen_files:
+    for item in load_json(os.path.join(IDX, 'case_provision_index.json')):
+        provision = norm_prov(str(item.get('provision') or ''))
+        url = str(item.get('url') or '')
+        if not provision or not url.startswith('cases/'):
             continue
-        seen_files.add(fname)
-
-        # Collect BCO provisions and metadata from all cases.jsonl entries for this file
-        provs: set[str] = set()
-        disposition = ''
-        year: int | None = None
-        topics: list[str] = []
-
-        for n in entry.get('numbers', [num]):
-            key = norm_case_num(n)
-            c = cases_by_num.get(key)
-            canonical = taxonomy_by_num.get(key, {})
-            if not c:
-                c = {}
-            for b in (canonical.get('bco_provisions') or c.get('bco_cited_as') or []):
-                if re.match(r'^[\d]', b):           # skip "Preface II-(7)" etc.
-                    provs.add(f'BCO {b}')
-            if not disposition and (canonical.get('outcome') or c.get('disposition')):
-                disposition = canonical.get('outcome') or c['disposition']
-            if not year and (canonical.get('decision_year') or c.get('year')):
-                year = canonical.get('decision_year') or c['year']
-            if not topics and (canonical.get('topic_tags') or c.get('topics')):
-                topics = canonical.get('topic_tags') or c['topics']
-
-        # Fallback year from case number or vol
-        if not year:
-            m = re.match(r'(\d{4})', num or '')
-            year = int(m.group(1)) if m else None
-        if not year:
-            m = re.match(r'ga\d+_(\d{4})', fname)
-            year = int(m.group(1)) if m else None
-
-        # Parse markdown for WCF/WLC/WSC/RAO and additional BCO refs not in cases.jsonl
-        raw_text = ''
-        md_path = os.path.join(CASES_DIR, fname + '.md')
-        if os.path.exists(md_path):
-            raw_text = without_front_matter(open(md_path, encoding='utf-8').read())
-            for prov in extract_provisions(raw_text):
-                provs.add(prov)
-            if not disposition:
-                dm = re.search(r'\*\*Disposition:\*\*\s*([^\s·\n]+)', raw_text)
-                if dm:
-                    disposition = dm.group(1)
-
-        if not provs:
-            continue
-
-        canonical_titles = [taxonomy_by_num.get(norm_case_num(n), {}).get('title')
-                            for n in entry.get('numbers', [num])]
-        title = next((t for t in canonical_titles if t), None) or entry.get('title') or num
-        url = f'cases/{fname}.md'
-
-        for prov in sorted(provs, key=prov_sort_key):
-            rows.append({
-                'provision': prov,
-                'type': 'Judicial case',
-                'authority_weight': 'high',
-                'title': title,
-                'year': year,
-                'disposition': disposition or '',
-                'standard_of_review': next((taxonomy_by_num.get(norm_case_num(n), {}).get('standard_of_review')
-                                            for n in entry.get('numbers', [num])
-                                            if taxonomy_by_num.get(norm_case_num(n), {}).get('standard_of_review')), None),
-                'review_standards': next((taxonomy_by_num.get(norm_case_num(n), {}).get('review_standards')
-                                          for n in entry.get('numbers', [num])
-                                          if taxonomy_by_num.get(norm_case_num(n), {}).get('review_standards')), []),
-                'url': url,
-                'snippet': snippet_for(raw_text, prov) if raw_text else '',
-                'topics': topics,
-            })
-
+        case_numbers = [str(number) for number in (item.get('case_numbers') or []) if number]
+        canonical_numbers = [norm_case_num(number) for number in case_numbers]
+        canonical_cases = [taxonomy_by_num[number] for number in canonical_numbers if number in taxonomy_by_num]
+        path_stem = os.path.splitext(os.path.basename(url.split('#', 1)[0]))[0]
+        # Keep the relationship identity tied to the canonical case page. This
+        # preserves existing editorial link assessments when the source index
+        # changes its evidence without changing the case record itself.
+        evidence = item.get('evidence') or []
+        sources = item.get('sources') or []
+        topics = next((case.get('topic_tags') for case in canonical_cases if case.get('topic_tags')), [])
+        rows.append({
+            'provision': provision,
+            'type': 'Judicial case',
+            'authority_weight': 'high',
+            'title': item.get('title') or path_stem,
+            'year': item.get('year'),
+            'disposition': item.get('disposition') or '',
+            'standard_of_review': item.get('standard_of_review'),
+            'review_standards': item.get('review_standards') or [],
+            'case_numbers': case_numbers,
+            'record_id': f'case:cases/{path_stem}.md',
+            'url': url,
+            'snippet': evidence[0].get('snippet', '') if evidence else '',
+            'topics': topics,
+            'evidence': evidence,
+            'evidence_sources': sources,
+            'evidence_basis': 'direct_text' if evidence else 'structured_case_metadata',
+            'relationship_kind': 'explicit_citation' if evidence else 'structured_case_reference',
+            'match_method': 'case_provision_index:' + ','.join(sources),
+            'match_confidence': 'high' if evidence else 'medium',
+            'reader_scope': 'primary',
+        })
     return rows
 
 
@@ -255,8 +207,14 @@ def build_inquiry_rows() -> list[dict]:
                 'year': r.get('year'),
                 'disposition': r.get('disposition', ''),
                 'url': r['url'],
-                'snippet': r.get('sub', ''),
+                'snippet': '',
+                'summary': r.get('sub', ''),
                 'topics': [],
+                'evidence_basis': 'structured_provision_tag',
+                'relationship_kind': 'structured_provision_tag',
+                'match_method': 'index/inquiries_search.json:provisions',
+                'match_confidence': 'medium',
+                'reader_scope': 'primary',
             })
     return rows
 
@@ -275,15 +233,30 @@ def build_rpr_rows() -> list[dict]:
                 'year': r.get('year'),
                 'disposition': r.get('disposition', ''),
                 'url': r['url'],
-                'snippet': r['title'],
+                'snippet': '',
                 'topics': [],
+                'evidence_basis': 'structured_provision_tag',
+                'relationship_kind': 'structured_exception_tag',
+                'match_method': 'index/rpr_search.json:provisions',
+                'match_confidence': 'medium',
+                'reader_scope': 'contextual',
             })
     return rows
 
 
 # ── overture rows ─────────────────────────────────────────────────────────────
 
-_ADOPTED_WORDS = {'adopted', 'approved', 'ratified', 'passed', 'sustained'}
+def is_adopted_overture_action(outcome: str) -> bool:
+    """Return true only for disposition text that records an affirmative action."""
+    normalized = re.sub(r'\s+', ' ', (outcome or '').strip()).casefold()
+    return bool(
+        normalized in {
+            'adopted', 'adopted (final)',
+            'answered in the affirmative',
+            'answered in the affirmative, as amended',
+        }
+        or re.fullmatch(r'approved\s*(?:&|and)\s*ratified(?:\s*\(\d{4}\))?', normalized)
+    )
 
 def build_overture_rows() -> list[dict]:
     """Project provision-bearing occurrences from the curated overture records."""
@@ -292,9 +265,14 @@ def build_overture_rows() -> list[dict]:
     rows: list[dict] = []
     for record in overture_records(Path(IDX)):
         outcome = record.get('disposition') or ''
-        weight = ('medium' if any(w in outcome.lower() for w in _ADOPTED_WORDS)
-                  else 'low-but-important')
+        adopted = is_adopted_overture_action(outcome)
+        weight = 'medium' if adopted else 'low-but-important'
         for prov in (norm_prov(value) for value in record.get('provisions') or []):
+            sources = (record.get('provision_sources') or {}).get(prov, [])
+            target_sources = [source for source in sources
+                              if source in {'disposition_bco', 'title_subject'}]
+            direct_evidence = [item for item in record.get('provision_evidence') or []
+                               if norm_prov(item.get('provision') or '') == prov and item.get('excerpt')]
             row = {
                 'provision': prov,
                 'type': 'Overture',
@@ -304,14 +282,13 @@ def build_overture_rows() -> list[dict]:
                 'disposition': outcome,
                 'url': record['url'],
                 'record_id': record['record_id'],
-                'snippet': record['title'],
+                'snippet': '',
                 'source': record.get('source', ''),
                 'occurrence_number': record.get('number'),
                 'occurrence_page': record.get('page'),
                 'topics': [],
+                'reader_scope': 'primary' if adopted else 'candidate',
             }
-            direct_evidence = [item for item in record.get('provision_evidence') or []
-                               if norm_prov(item.get('provision') or '') == prov and item.get('excerpt')]
             if direct_evidence:
                 for evidence in direct_evidence:
                     evidence_row = {
@@ -320,50 +297,47 @@ def build_overture_rows() -> list[dict]:
                         'occurrence_page': evidence.get('page') or record.get('page'),
                         'snippet': evidence['excerpt'],
                         'evidence_source': 'overture_body_text',
+                        'evidence_basis': 'direct_text',
+                        'relationship_kind': evidence.get('relationship_kind') or 'explicit_citation',
+                        'match_method': evidence.get('match_method') or evidence.get('source') or 'overture_body_text',
+                        'match_confidence': 'high',
+                        'reader_scope': 'candidate',
                     }
                     rows.append(evidence_row)
-            else:
+            if target_sources or not direct_evidence:
+                row.update({
+                    'evidence_basis': 'overture_action_target' if 'disposition_bco' in target_sources else 'title_subject_reference',
+                    'relationship_kind': 'proposal_target',
+                    'match_method': ','.join(target_sources) if target_sources else 'index/OVERTURES.md:subject',
+                    'match_confidence': 'high' if target_sources or record.get('title') else 'low',
+                    'snippet': record.get('title', '') if 'title_subject' in target_sources or not target_sources else '',
+                })
                 rows.append(row)
     return rows
 
 
 # ── markdown rendering ────────────────────────────────────────────────────────
 
-_TYPE_ORDER = ['Judicial case', 'Constitutional inquiry', 'Overture', 'RPR exception']
-_WEIGHT_LABEL = {
-    'high': 'High authority',
-    'medium': 'Medium authority',
-    'low-but-important': 'Low-but-important',
-}
+_TYPE_ORDER = ['Judicial case', 'Constitutional inquiry', 'CCB advice', 'Overture', 'RPR exception']
 
 def render_provision_page(prov: str, rows: list[dict]) -> str:
     lines = [f'# {prov}', '']
-    lines.append(f'*All PCA authorities bearing on **{prov}**.*')
+    lines.append(f'*Indexed PCA records associated with **{prov}**. Association type, evidence, and confidence are shown separately; this index does not assign legal force.*')
     lines.append('')
-
-    by_weight: dict[str, list[dict]] = {}
+    lines.append('| Year | Record type | Relationship | Evidence | Confidence | Title | Disposition |')
+    lines.append('|------|-------------|--------------|----------|------------|-------|-------------|')
     for r in sorted(rows, key=lambda r: (
-            _WEIGHT_RANK.get(r['authority_weight'], 9),
             _TYPE_ORDER.index(r['type']) if r['type'] in _TYPE_ORDER else 9,
-            r.get('year') or 0)):
-        by_weight.setdefault(r['authority_weight'], []).append(r)
-
-    for weight in ['high', 'medium', 'low-but-important']:
-        weight_rows = by_weight.get(weight)
-        if not weight_rows:
-            continue
-        lines.append(f'## {_WEIGHT_LABEL[weight]}')
-        lines.append('')
-        lines.append('| Year | Type | Title | Disposition |')
-        lines.append('|------|------|-------|-------------|')
-        for r in weight_rows:
-            year = str(r['year']) if r['year'] else '—'
-            title = md_escape(r['title'])
-            url_rel = f'../{r["url"]}'
-            disp = md_escape(r.get('disposition') or '')
-            rtype = r['type']
-            lines.append(f'| {year} | {rtype} | [{title}]({url_rel}) | {disp} |')
-        lines.append('')
+            -(r.get('year') or 0), r.get('title', '').casefold())):
+        year = str(r['year']) if r['year'] else '—'
+        title = md_escape(r['title'])
+        url_rel = f'../{r["url"]}'
+        disp = md_escape(r.get('disposition') or '')
+        evidence = md_escape(r.get('evidence_basis') or '')
+        kind = md_escape(r.get('relationship_kind') or '')
+        confidence = md_escape(r.get('match_confidence') or '')
+        lines.append(f'| {year} | {r["type"]} | {kind} | {evidence} | {confidence} | [{title}]({url_rel}) | {disp} |')
+    lines.append('')
 
     lines.append('---')
     lines.append(f'*[← Authority Index](../index/AUTHORITY-BY-PROVISION.md)*')
@@ -375,23 +349,23 @@ def render_main_index(rows_by_prov: dict[str, list[dict]]) -> str:
     lines = [
         '# Authority Index by Constitutional Provision',
         '',
-        'Every PCA authority (judicial cases, constitutional inquiries, RPR exceptions, overtures)'
-        ' bearing on each BCO / Westminster Standards / RAO provision.',
+        'Indexed PCA records associated with each provision. Relationship type, evidence, and confidence are separate fields; the legacy display rank does not establish legal force.',
         '',
-        '| Provision | Cases | Inquiries | Overtures | RPR exceptions | Total |',
-        '|-----------|------:|----------:|----------:|---------------:|------:|',
+        '| Provision | Cases | Inquiries | CCB advice | Overtures | RPR exceptions | Total |',
+        '|-----------|------:|----------:|-----------:|----------:|---------------:|------:|',
     ]
     for prov in sorted_provs:
         rows = rows_by_prov[prov]
         n_cases = sum(1 for r in rows if r['type'] == 'Judicial case')
         n_inq   = sum(1 for r in rows if r['type'] == 'Constitutional inquiry')
+        n_ccb   = sum(1 for r in rows if r['type'] == 'CCB advice')
         n_ovr   = sum(1 for r in rows if r['type'] == 'Overture')
         n_rpr   = sum(1 for r in rows if r['type'] == 'RPR exception')
         total   = len(rows)
         slug    = prov_slug(prov)
         lines.append(
             f'| [{prov}](../authorities/{slug}.md) '
-            f'| {n_cases} | {n_inq} | {n_ovr} | {n_rpr} | {total} |'
+            f'| {n_cases} | {n_inq} | {n_ccb} | {n_ovr} | {n_rpr} | {total} |'
         )
 
     lines.append('')
@@ -413,9 +387,8 @@ def main():
     # Sort: provision -> weight -> type -> year
     all_rows.sort(key=lambda r: (
         prov_sort_key(r['provision']),
-        _WEIGHT_RANK.get(r['authority_weight'], 9),
         _TYPE_ORDER.index(r['type']) if r['type'] in _TYPE_ORDER else 9,
-        r.get('year') or 0,
+        -(r.get('year') or 0),
     ))
 
     # Write flat index

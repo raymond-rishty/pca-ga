@@ -1,13 +1,10 @@
 # WCF 2
 
-*All PCA authorities bearing on **WCF 2**.*
+*Indexed PCA records associated with **WCF 2**. Association type, evidence, and confidence are shown separately; this index does not assign legal force.*
 
-## High authority
-
-| Year | Type | Title | Disposition |
-|------|------|-------|-------------|
-| 2016 | Judicial case | [Aven and Dively v. Ohio Valley Presbytery](../cases/ga44_2016__2014-01.md) | other |
-| 2022 | Judicial case | [Dudt v. Northwest Georgia Presbytery](../cases/ga49_2022__2021-13.md) | sustained |
+| Year | Record type | Relationship | Evidence | Confidence | Title | Disposition |
+|------|-------------|--------------|----------|------------|-------|-------------|
+| 2019 | Overture | explicit_citation | direct_text | high | [Amend BCO 57-5 to Add a Trinitarian Vow for Church Membership](../markdown/ga47_2019.md#ga47-p672) |  |
 
 ---
 *[← Authority Index](../index/AUTHORITY-BY-PROVISION.md)*

@@ -58,6 +58,11 @@ PRESENTATION_GROUPS = {
     "review": "References to review",
 }
 INPUTS = (
+    "scripts/provision_catalogue.py",
+    "scripts/43_authority_index.py",
+    "scripts/44_case_provision_index.py",
+    "scripts/overture_catalogue.py",
+    "scripts/provision_references.py",
     "index/cases.jsonl",
     "index/case_pages_map.json",
     "index/judicial_cases.jsonl",
@@ -140,36 +145,14 @@ def _load_module(path: Path, name: str, root: Path | None = None):
 
 
 def _authority_rows(root: Path, canonical_id=None) -> list[dict[str, Any]]:
-    """Collect current source rows in memory; never read authority_index.json."""
+    """Collect source rows from curated catalogues and audited source indexes."""
     module = _load_module(root / "scripts" / "43_authority_index.py", "pca_authority_sources", root)
     rows: list[dict[str, Any]] = []
     for builder in (module.build_case_rows, module.build_inquiry_rows,
                     module.build_rpr_rows, module.build_overture_rows):
         rows.extend(builder())
 
-    # The judicial evidence index recognizes Preface / Preliminary Principle
-    # citations that the legacy authority extractor does not. Bring those audited
-    # rows into the shared catalogue so they appear with the other case links.
-    case_rows = read_json(root / "index" / "case_provision_index.json", [])
     if canonical_id:
-        for item in case_rows:
-            if not str(canonical_id(item.get("provision", "")) or "").startswith("bco:pp-"):
-                continue
-            rows.append({
-                "provision": item.get("provision", ""),
-                "type": "Judicial case",
-                "authority_weight": "high",
-                "title": item.get("title", ""),
-                "year": item.get("year"),
-                "disposition": item.get("disposition", ""),
-                "standard_of_review": item.get("standard_of_review"),
-                "review_standards": item.get("review_standards") or [],
-                "case_numbers": item.get("case_numbers") or [],
-                "body": item.get("body", ""),
-                "synopsis": item.get("synopsis", ""),
-                "url": item.get("url", ""),
-            })
-
         # RPR search rows contain parsed BCO/RAO tags, but Westminster citations
         # and preliminary principles also appear in the record text. Reuse the
         # audited citation parser for those references; recover other BCO cites
@@ -194,6 +177,13 @@ def _authority_rows(root: Path, canonical_id=None) -> list[dict[str, Any]]:
                     "snippet": evidence["snippet"],
                     "evidence_line": evidence["line"],
                     "evidence_source": evidence["source"],
+                    "evidence_basis": "direct_text",
+                    "relationship_kind": ("exception_target" if evidence["source"] == "rpr_exception_header"
+                                          else "body_mention"),
+                    "match_method": f"rpr_markdown_line:{evidence['line']}",
+                    "match_confidence": "high",
+                    "reader_scope": ("contextual" if evidence["source"] == "rpr_exception_header"
+                                     else "candidate"),
                 })
 
     for item in read_json(root / "index" / "inquiries_search.json", []):
@@ -208,7 +198,13 @@ def _authority_rows(root: Path, canonical_id=None) -> list[dict[str, Any]]:
                 "year": item.get("year"),
                 "disposition": item.get("disposition", ""),
                 "url": item.get("url", ""),
-                "snippet": item.get("sub", ""),
+                "snippet": "",
+                "summary": item.get("sub", ""),
+                "evidence_basis": "structured_provision_tag",
+                "relationship_kind": "structured_provision_tag",
+                "match_method": "index/inquiries_search.json:provisions",
+                "match_confidence": "medium",
+                "reader_scope": "contextual",
             })
     return rows
 
@@ -330,7 +326,13 @@ def _relation_occurrences(row: dict[str, Any], evidence_row: dict[str, Any] | No
                 "locator": {"fragment": source_parts.fragment or None, "line": evidence.get("line")},
                 "excerpt": evidence.get("snippet") or "",
                 "sources": ((evidence_row or {}).get("sources") or
-                            ([row["evidence_source"]] if row.get("evidence_source") else [])),
+                            (row.get("evidence_sources") or
+                             ([row["evidence_source"]] if row.get("evidence_source") else []))),
+                "evidence_basis": evidence_basis,
+                "relationship_kind": row.get("relationship_kind") or "explicit_citation",
+                "match_method": row.get("match_method") or evidence_basis,
+                "match_confidence": row.get("match_confidence") or "high",
+                "reader_scope": row.get("reader_scope") or "candidate",
             })
     if not occurrences:
         locator: dict[str, Any] = {}
@@ -346,8 +348,14 @@ def _relation_occurrences(row: dict[str, Any], evidence_row: dict[str, Any] | No
             "locator": locator,
             "excerpt": ("" if row.get("type") == "Judicial case" and evidence_basis != "direct_text"
                         else row.get("snippet") or ""),
-            "sources": ((evidence_row or {}).get("sources") or
-                        ([row["evidence_source"]] if row.get("evidence_source") else [])),
+            "sources": ((evidence_row or {}).get("sources") or row.get("evidence_sources") or
+                        ([row["evidence_source"]] if row.get("evidence_source") else
+                         ([row.get("match_method")] if row.get("match_method") else []))),
+            "evidence_basis": evidence_basis,
+            "relationship_kind": row.get("relationship_kind") or "structured_provision_tag",
+            "match_method": row.get("match_method") or evidence_basis,
+            "match_confidence": row.get("match_confidence") or "medium",
+            "reader_scope": row.get("reader_scope") or "candidate",
         })
     unique: dict[str, dict[str, Any]] = {}
     for occurrence in occurrences:
@@ -360,6 +368,8 @@ def _relation_occurrences(row: dict[str, Any], evidence_row: dict[str, Any] | No
 
 
 def _evidence_basis(record_type: str, row: dict[str, Any], evidence_row: dict[str, Any] | None) -> str:
+    if row.get("evidence_basis"):
+        return str(row["evidence_basis"])
     if record_type == "Overture":
         if row.get("evidence_source") == "overture_body_text":
             return "direct_text"
@@ -468,6 +478,9 @@ def build_catalogue(root: Path, reader_dir: Path) -> dict[str, Any]:
                 "url": str(row.get("url") or ""),
                 "authority_weight": row.get("authority_weight") or "",
                 "evidence_basis": basis,
+                "relationship_kind": row.get("relationship_kind") or "unclassified_reference",
+                "match_confidence": row.get("match_confidence") or "unassessed",
+                "reader_scope": row.get("reader_scope") or "candidate",
                 "relevance_status": "unreviewed",
             })
             continue
@@ -486,6 +499,12 @@ def build_catalogue(root: Path, reader_dir: Path) -> dict[str, Any]:
                 "authority_weight": row.get("authority_weight") or "",
                 "record_url": _strip_fragment(str(row.get("url") or "")),
                 "evidence_basis": basis,
+                "evidence_bases": [],
+                "relationship_kind": row.get("relationship_kind") or "unclassified_reference",
+                "relationship_kinds": [],
+                "match_confidence": row.get("match_confidence") or "unassessed",
+                "match_methods": [],
+                "reader_scope": row.get("reader_scope") or "candidate",
                 "relevance_status": "unreviewed",
                 "occurrences": [],
                 "metadata": {},
@@ -495,7 +514,7 @@ def build_catalogue(root: Path, reader_dir: Path) -> dict[str, Any]:
             relationship["year"] = row["year"]
         if not relationship.get("disposition") and row.get("disposition"):
             relationship["disposition"] = row["disposition"]
-        for field in ("topics", "standard_of_review", "review_standards", "source", "case_numbers"):
+        for field in ("topics", "standard_of_review", "review_standards", "source", "case_numbers", "summary"):
             value = row.get(field)
             if value not in (None, [], ""):
                 relationship["metadata"][field] = value
@@ -507,6 +526,19 @@ def build_catalogue(root: Path, reader_dir: Path) -> dict[str, Any]:
         relationship["occurrences"].extend(
             _relation_occurrences(row, evidence_row, basis, relationship_id)
         )
+        relationship["evidence_bases"].append(basis)
+        relationship["relationship_kinds"].append(
+            row.get("relationship_kind") or "unclassified_reference"
+        )
+        relationship["match_methods"].append(row.get("match_method") or basis)
+        confidence_rank = {"unassessed": 0, "low": 1, "medium": 2, "high": 3}
+        if confidence_rank.get(str(row.get("match_confidence") or "unassessed"), 0) > confidence_rank.get(
+                str(relationship.get("match_confidence") or "unassessed"), 0):
+            relationship["match_confidence"] = row.get("match_confidence")
+        scope_rank = {"candidate": 1, "contextual": 2, "primary": 3}
+        if scope_rank.get(str(row.get("reader_scope") or "candidate"), 0) > scope_rank.get(
+                str(relationship.get("reader_scope") or "candidate"), 0):
+            relationship["reader_scope"] = row.get("reader_scope")
 
     for unit in units:
         child_units = unit.get("children") or []
@@ -527,6 +559,15 @@ def build_catalogue(root: Path, reader_dir: Path) -> dict[str, Any]:
                 unit_by_id[child_id]["parent_id"] = unit["id"]
 
     for (provision_id, _), relationship in relationships.items():
+        relationship["evidence_bases"] = sorted(set(relationship["evidence_bases"]))
+        relationship["relationship_kinds"] = sorted(set(relationship["relationship_kinds"]))
+        relationship["match_methods"] = sorted(set(relationship["match_methods"]))
+        if len(relationship["evidence_bases"]) != 1:
+            relationship["evidence_basis"] = "multiple"
+        if len(relationship["relationship_kinds"]) != 1:
+            relationship["relationship_kind"] = "multiple"
+        else:
+            relationship["relationship_kind"] = relationship["relationship_kinds"][0]
         occurrences = {occurrence["id"]: occurrence for occurrence in relationship["occurrences"]}
         relationship["occurrences"] = sorted(occurrences.values(), key=lambda item: (
             str(item.get("url") or ""),
@@ -610,6 +651,12 @@ def authority_projection(catalogue: dict[str, Any]) -> list[dict[str, Any]]:
                 "record_id": relationship["record_id"],
                 "relationship_id": relationship["id"],
                 "evidence_basis": relationship["evidence_basis"],
+                "evidence_bases": relationship.get("evidence_bases", []),
+                "relationship_kind": relationship.get("relationship_kind", ""),
+                "relationship_kinds": relationship.get("relationship_kinds", []),
+                "match_confidence": relationship.get("match_confidence", "unassessed"),
+                "match_methods": relationship.get("match_methods", []),
+                "reader_scope": relationship.get("reader_scope", "candidate"),
                 "relevance_status": relationship["relevance_status"],
                 "relevance_assessment": relationship.get("relevance_assessment"),
                 "occurrences": relationship["occurrences"],

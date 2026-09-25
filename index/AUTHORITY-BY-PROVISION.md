@@ -1,656 +1,756 @@
 # Authority Index by Constitutional Provision
 
-Every PCA authority (judicial cases, constitutional inquiries, RPR exceptions, overtures) bearing on each BCO / Westminster Standards / RAO provision.
+Indexed PCA records associated with each provision. Relationship type, evidence, and confidence are separate fields; the legacy display rank does not establish legal force.
 
-| Provision | Cases | Inquiries | Overtures | RPR exceptions | Total |
-|-----------|------:|----------:|----------:|---------------:|------:|
-| [BCO preface](../authorities/BCO-preface.md) | 0 | 1 | 0 | 1 | 7 |
-| [BCO pp-1](../authorities/BCO-pp-1.md) | 10 | 0 | 4 | 7 | 24 |
-| [BCO 1-3](../authorities/BCO-1-3.md) | 1 | 0 | 0 | 0 | 2 |
-| [BCO 1-4](../authorities/BCO-1-4.md) | 3 | 0 | 1 | 0 | 5 |
-| [BCO pp-2](../authorities/BCO-pp-2.md) | 5 | 0 | 1 | 2 | 12 |
-| [BCO 2-1](../authorities/BCO-2-1.md) | 0 | 0 | 0 | 0 | 1 |
-| [BCO 2-2](../authorities/BCO-2-2.md) | 3 | 1 | 0 | 0 | 4 |
-| [BCO pp-3](../authorities/BCO-pp-3.md) | 0 | 0 | 0 | 3 | 3 |
-| [BCO 3-1](../authorities/BCO-3-1.md) | 5 | 1 | 0 | 7 | 15 |
-| [BCO 3-2](../authorities/BCO-3-2.md) | 7 | 1 | 0 | 0 | 9 |
-| [BCO 3-3](../authorities/BCO-3-3.md) | 4 | 0 | 0 | 0 | 4 |
-| [BCO 3-4](../authorities/BCO-3-4.md) | 8 | 0 | 2 | 0 | 10 |
-| [BCO 3-6](../authorities/BCO-3-6.md) | 1 | 0 | 0 | 0 | 1 |
-| [BCO 4](../authorities/BCO-4.md) | 0 | 2 | 0 | 0 | 2 |
-| [BCO pp-4](../authorities/BCO-pp-4.md) | 0 | 0 | 2 | 0 | 2 |
-| [BCO 4-1](../authorities/BCO-4-1.md) | 2 | 0 | 0 | 0 | 2 |
-| [BCO 4-2](../authorities/BCO-4-2.md) | 1 | 0 | 1 | 0 | 3 |
-| [BCO 4-3](../authorities/BCO-4-3.md) | 4 | 5 | 0 | 0 | 9 |
-| [BCO 4-4](../authorities/BCO-4-4.md) | 5 | 0 | 0 | 2 | 7 |
-| [BCO pp-5](../authorities/BCO-pp-5.md) | 0 | 0 | 0 | 1 | 1 |
-| [BCO 5](../authorities/BCO-5.md) | 0 | 0 | 0 | 1 | 1 |
-| [BCO 5-1](../authorities/BCO-5-1.md) | 3 | 0 | 2 | 1 | 6 |
-| [BCO 5-2](../authorities/BCO-5-2.md) | 4 | 0 | 3 | 16 | 23 |
-| [BCO 5-3](../authorities/BCO-5-3.md) | 3 | 0 | 3 | 23 | 30 |
-| [BCO 5-4](../authorities/BCO-5-4.md) | 1 | 0 | 2 | 3 | 6 |
-| [BCO 5-5](../authorities/BCO-5-5.md) | 4 | 1 | 1 | 0 | 6 |
-| [BCO 5-6](../authorities/BCO-5-6.md) | 1 | 0 | 0 | 0 | 1 |
-| [BCO 5-8](../authorities/BCO-5-8.md) | 2 | 0 | 1 | 9 | 12 |
-| [BCO 5-9](../authorities/BCO-5-9.md) | 5 | 0 | 2 | 46 | 54 |
-| [BCO 5-10](../authorities/BCO-5-10.md) | 3 | 0 | 2 | 0 | 6 |
-| [BCO 5-11](../authorities/BCO-5-11.md) | 0 | 0 | 1 | 0 | 1 |
-| [BCO 5-11.3](../authorities/BCO-5-11-3.md) | 0 | 0 | 0 | 2 | 2 |
-| [BCO 5-12](../authorities/BCO-5-12.md) | 0 | 0 | 0 | 2 | 2 |
-| [BCO pp-6](../authorities/BCO-pp-6.md) | 12 | 0 | 3 | 54 | 71 |
-| [BCO 6](../authorities/BCO-6.md) | 0 | 0 | 1 | 0 | 2 |
-| [BCO 6-1](../authorities/BCO-6-1.md) | 2 | 0 | 2 | 0 | 5 |
-| [BCO 6-2](../authorities/BCO-6-2.md) | 1 | 2 | 2 | 2 | 8 |
-| [BCO 6-3](../authorities/BCO-6-3.md) | 0 | 0 | 1 | 0 | 1 |
-| [BCO 6-4](../authorities/BCO-6-4.md) | 3 | 1 | 0 | 0 | 6 |
-| [BCO 6-5](../authorities/BCO-6-5.md) | 1 | 0 | 2 | 0 | 4 |
-| [BCO 6-7](../authorities/BCO-6-7.md) | 0 | 0 | 1 | 0 | 1 |
-| [BCO pp-7](../authorities/BCO-pp-7.md) | 10 | 0 | 2 | 5 | 21 |
-| [BCO 7](../authorities/BCO-7.md) | 0 | 0 | 4 | 0 | 9 |
-| [BCO 7-1](../authorities/BCO-7-1.md) | 4 | 0 | 3 | 2 | 9 |
-| [BCO 7-2](../authorities/BCO-7-2.md) | 5 | 3 | 3 | 11 | 26 |
-| [BCO 7-3](../authorities/BCO-7-3.md) | 1 | 0 | 1 | 1 | 4 |
-| [BCO 7-4](../authorities/BCO-7-4.md) | 0 | 0 | 3 | 0 | 3 |
-| [BCO pp-8](../authorities/BCO-pp-8.md) | 13 | 0 | 0 | 1 | 15 |
-| [BCO 8](../authorities/BCO-8.md) | 0 | 0 | 1 | 1 | 2 |
-| [BCO 8-1](../authorities/BCO-8-1.md) | 0 | 0 | 5 | 1 | 6 |
-| [BCO 8-2](../authorities/BCO-8-2.md) | 2 | 3 | 1 | 0 | 7 |
-| [BCO 8-3](../authorities/BCO-8-3.md) | 2 | 1 | 3 | 0 | 7 |
-| [BCO 8-4](../authorities/BCO-8-4.md) | 0 | 1 | 1 | 21 | 24 |
-| [BCO 8-5](../authorities/BCO-8-5.md) | 1 | 0 | 0 | 0 | 1 |
-| [BCO 8-6](../authorities/BCO-8-6.md) | 0 | 1 | 4 | 16 | 22 |
-| [BCO 8-7](../authorities/BCO-8-7.md) | 3 | 1 | 2 | 198 | 206 |
-| [BCO 8-8](../authorities/BCO-8-8.md) | 0 | 0 | 3 | 5 | 8 |
-| [BCO 8-9](../authorities/BCO-8-9.md) | 1 | 0 | 0 | 1 | 4 |
-| [BCO 8-10](../authorities/BCO-8-10.md) | 0 | 0 | 0 | 2 | 3 |
-| [BCO 8-11](../authorities/BCO-8-11.md) | 0 | 0 | 1 | 0 | 1 |
-| [BCO 9-1](../authorities/BCO-9-1.md) | 1 | 0 | 0 | 0 | 1 |
-| [BCO 9-2](../authorities/BCO-9-2.md) | 2 | 1 | 1 | 2 | 8 |
-| [BCO 9-3](../authorities/BCO-9-3.md) | 4 | 1 | 0 | 10 | 17 |
-| [BCO 9-4](../authorities/BCO-9-4.md) | 2 | 1 | 1 | 0 | 4 |
-| [BCO 9-5](../authorities/BCO-9-5.md) | 0 | 0 | 1 | 0 | 1 |
-| [BCO 9-6](../authorities/BCO-9-6.md) | 0 | 0 | 1 | 0 | 1 |
-| [BCO 9-7](../authorities/BCO-9-7.md) | 1 | 0 | 6 | 4 | 15 |
-| [BCO 9-8](../authorities/BCO-9-8.md) | 0 | 0 | 1 | 0 | 2 |
-| [BCO 10](../authorities/BCO-10.md) | 0 | 0 | 0 | 1 | 2 |
-| [BCO 10-1](../authorities/BCO-10-1.md) | 3 | 0 | 0 | 0 | 3 |
-| [BCO 10-2](../authorities/BCO-10-2.md) | 0 | 1 | 1 | 0 | 2 |
-| [BCO 10-3](../authorities/BCO-10-3.md) | 0 | 2 | 1 | 5 | 8 |
-| [BCO 10-4](../authorities/BCO-10-4.md) | 6 | 2 | 0 | 2 | 10 |
-| [BCO 10-5](../authorities/BCO-10-5.md) | 0 | 0 | 0 | 8 | 8 |
-| [BCO 10-6](../authorities/BCO-10-6.md) | 0 | 0 | 3 | 0 | 3 |
-| [BCO 10-18](../authorities/BCO-10-18.md) | 1 | 0 | 0 | 0 | 1 |
-| [BCO 11-1](../authorities/BCO-11-1.md) | 3 | 0 | 0 | 0 | 3 |
-| [BCO 11-2](../authorities/BCO-11-2.md) | 13 | 1 | 0 | 2 | 18 |
-| [BCO 11-3](../authorities/BCO-11-3.md) | 17 | 0 | 4 | 0 | 22 |
-| [BCO 11-4](../authorities/BCO-11-4.md) | 41 | 2 | 2 | 7 | 58 |
-| [BCO 12](../authorities/BCO-12.md) | 0 | 0 | 1 | 0 | 1 |
-| [BCO 12-1](../authorities/BCO-12-1.md) | 7 | 5 | 1 | 2 | 16 |
-| [BCO 12-2](../authorities/BCO-12-2.md) | 4 | 2 | 3 | 0 | 10 |
-| [BCO 12-3](../authorities/BCO-12-3.md) | 1 | 1 | 1 | 7 | 12 |
-| [BCO 12-4](../authorities/BCO-12-4.md) | 0 | 1 | 0 | 1 | 3 |
-| [BCO 12-5](../authorities/BCO-12-5.md) | 28 | 6 | 5 | 12 | 54 |
-| [BCO 12-6](../authorities/BCO-12-6.md) | 3 | 0 | 0 | 1 | 4 |
-| [BCO 12-7](../authorities/BCO-12-7.md) | 3 | 1 | 0 | 13 | 17 |
-| [BCO 12-8](../authorities/BCO-12-8.md) | 0 | 0 | 0 | 2 | 2 |
-| [BCO 13](../authorities/BCO-13.md) | 0 | 0 | 2 | 4 | 6 |
-| [BCO 13-1](../authorities/BCO-13-1.md) | 11 | 3 | 8 | 17 | 48 |
-| [BCO 13-2](../authorities/BCO-13-2.md) | 11 | 5 | 10 | 77 | 109 |
-| [BCO 13-3](../authorities/BCO-13-3.md) | 2 | 1 | 1 | 1 | 5 |
-| [BCO 13-4](../authorities/BCO-13-4.md) | 0 | 1 | 0 | 66 | 67 |
-| [BCO 13-5](../authorities/BCO-13-5.md) | 0 | 1 | 3 | 26 | 31 |
-| [BCO 13-6](../authorities/BCO-13-6.md) | 13 | 5 | 11 | 323 | 362 |
-| [BCO 13-7](../authorities/BCO-13-7.md) | 0 | 0 | 2 | 122 | 124 |
-| [BCO 13-8](../authorities/BCO-13-8.md) | 1 | 1 | 0 | 34 | 36 |
-| [BCO 13-9](../authorities/BCO-13-9.md) | 68 | 6 | 9 | 253 | 341 |
-| [BCO 13-10](../authorities/BCO-13-10.md) | 3 | 1 | 1 | 71 | 76 |
-| [BCO 13-11](../authorities/BCO-13-11.md) | 3 | 0 | 0 | 213 | 216 |
-| [BCO 13-12](../authorities/BCO-13-12.md) | 6 | 0 | 3 | 128 | 138 |
-| [BCO 13-13](../authorities/BCO-13-13.md) | 1 | 0 | 0 | 0 | 1 |
-| [BCO 13-19.b](../authorities/BCO-13-19-b.md) | 0 | 0 | 0 | 1 | 1 |
-| [BCO 14-1](../authorities/BCO-14-1.md) | 1 | 9 | 26 | 1 | 47 |
-| [BCO 14-2](../authorities/BCO-14-2.md) | 2 | 0 | 38 | 0 | 44 |
-| [BCO 14-3](../authorities/BCO-14-3.md) | 1 | 0 | 2 | 0 | 3 |
-| [BCO 14-5](../authorities/BCO-14-5.md) | 1 | 0 | 0 | 0 | 1 |
-| [BCO 14-6](../authorities/BCO-14-6.md) | 9 | 2 | 1 | 5 | 17 |
-| [BCO 14-7](../authorities/BCO-14-7.md) | 24 | 1 | 4 | 0 | 29 |
-| [BCO 14-9.b](../authorities/BCO-14-9-b.md) | 0 | 0 | 0 | 1 | 1 |
-| [BCO 14-71](../authorities/BCO-14-71.md) | 0 | 1 | 0 | 0 | 1 |
-| [BCO 15](../authorities/BCO-15.md) | 0 | 0 | 0 | 8 | 10 |
-| [BCO 15-1](../authorities/BCO-15-1.md) | 34 | 6 | 17 | 283 | 344 |
-| [BCO 15-2](../authorities/BCO-15-2.md) | 17 | 3 | 3 | 123 | 147 |
-| [BCO 15-3](../authorities/BCO-15-3.md) | 45 | 1 | 10 | 23 | 82 |
-| [BCO 15-4](../authorities/BCO-15-4.md) | 11 | 1 | 12 | 0 | 30 |
-| [BCO 15-5](../authorities/BCO-15-5.md) | 19 | 2 | 10 | 0 | 36 |
-| [BCO 15-15](../authorities/BCO-15-15.md) | 0 | 1 | 0 | 0 | 1 |
-| [BCO 16](../authorities/BCO-16.md) | 0 | 0 | 0 | 0 | 1 |
-| [BCO 16-1](../authorities/BCO-16-1.md) | 4 | 0 | 0 | 1 | 5 |
-| [BCO 16-2](../authorities/BCO-16-2.md) | 17 | 0 | 0 | 8 | 25 |
-| [BCO 16-3](../authorities/BCO-16-3.md) | 1 | 0 | 1 | 0 | 2 |
-| [BCO 16-4](../authorities/BCO-16-4.md) | 0 | 0 | 2 | 0 | 6 |
-| [BCO 17](../authorities/BCO-17.md) | 0 | 0 | 1 | 0 | 3 |
-| [BCO 17-1](../authorities/BCO-17-1.md) | 3 | 0 | 0 | 1 | 5 |
-| [BCO 17-2](../authorities/BCO-17-2.md) | 2 | 0 | 0 | 1 | 3 |
-| [BCO 17-3](../authorities/BCO-17-3.md) | 0 | 0 | 0 | 0 | 1 |
-| [BCO 18](../authorities/BCO-18.md) | 0 | 1 | 0 | 11 | 12 |
-| [BCO 18-1](../authorities/BCO-18-1.md) | 0 | 2 | 0 | 4 | 6 |
-| [BCO 18-2](../authorities/BCO-18-2.md) | 0 | 3 | 2 | 262 | 268 |
-| [BCO 18-3](../authorities/BCO-18-3.md) | 1 | 2 | 0 | 64 | 67 |
-| [BCO 18-4](../authorities/BCO-18-4.md) | 1 | 1 | 0 | 0 | 2 |
-| [BCO 18-5](../authorities/BCO-18-5.md) | 0 | 0 | 0 | 5 | 5 |
-| [BCO 18-6](../authorities/BCO-18-6.md) | 0 | 0 | 0 | 51 | 51 |
-| [BCO 18-7](../authorities/BCO-18-7.md) | 1 | 1 | 1 | 21 | 24 |
-| [BCO 18-8](../authorities/BCO-18-8.md) | 0 | 0 | 1 | 3 | 4 |
-| [BCO 18-19](../authorities/BCO-18-19.md) | 0 | 0 | 0 | 2 | 2 |
-| [BCO 18-22](../authorities/BCO-18-22.md) | 0 | 0 | 0 | 1 | 1 |
-| [BCO 19](../authorities/BCO-19.md) | 0 | 1 | 0 | 9 | 10 |
-| [BCO 19-1](../authorities/BCO-19-1.md) | 3 | 3 | 1 | 39 | 46 |
-| [BCO 19-2](../authorities/BCO-19-2.md) | 3 | 3 | 9 | 247 | 262 |
-| [BCO 19-3](../authorities/BCO-19-3.md) | 3 | 1 | 0 | 25 | 29 |
-| [BCO 19-4](../authorities/BCO-19-4.md) | 1 | 0 | 0 | 10 | 11 |
-| [BCO 19-5](../authorities/BCO-19-5.md) | 0 | 1 | 1 | 11 | 13 |
-| [BCO 19-6](../authorities/BCO-19-6.md) | 2 | 0 | 2 | 7 | 11 |
-| [BCO 19-7](../authorities/BCO-19-7.md) | 1 | 3 | 1 | 26 | 31 |
-| [BCO 19-8](../authorities/BCO-19-8.md) | 0 | 1 | 0 | 2 | 3 |
-| [BCO 19-9](../authorities/BCO-19-9.md) | 0 | 0 | 0 | 16 | 16 |
-| [BCO 19-10](../authorities/BCO-19-10.md) | 0 | 0 | 0 | 3 | 3 |
-| [BCO 19-11](../authorities/BCO-19-11.md) | 0 | 0 | 2 | 0 | 2 |
-| [BCO 19-12](../authorities/BCO-19-12.md) | 0 | 0 | 1 | 42 | 43 |
-| [BCO 19-13](../authorities/BCO-19-13.md) | 2 | 0 | 0 | 7 | 9 |
-| [BCO 19-16](../authorities/BCO-19-16.md) | 2 | 1 | 0 | 46 | 49 |
-| [BCO 20](../authorities/BCO-20.md) | 0 | 1 | 0 | 8 | 10 |
-| [BCO 20-1](../authorities/BCO-20-1.md) | 5 | 7 | 3 | 230 | 246 |
-| [BCO 20-2](../authorities/BCO-20-2.md) | 10 | 0 | 5 | 4 | 21 |
-| [BCO 20-3](../authorities/BCO-20-3.md) | 3 | 0 | 3 | 1 | 11 |
-| [BCO 20-4](../authorities/BCO-20-4.md) | 5 | 2 | 1 | 1 | 11 |
-| [BCO 20-5](../authorities/BCO-20-5.md) | 5 | 0 | 0 | 0 | 6 |
-| [BCO 20-6](../authorities/BCO-20-6.md) | 5 | 5 | 1 | 6 | 17 |
-| [BCO 20-7](../authorities/BCO-20-7.md) | 0 | 0 | 0 | 1 | 1 |
-| [BCO 20-8](../authorities/BCO-20-8.md) | 1 | 0 | 0 | 7 | 8 |
-| [BCO 20-9](../authorities/BCO-20-9.md) | 1 | 0 | 0 | 11 | 12 |
-| [BCO 20-10](../authorities/BCO-20-10.md) | 3 | 0 | 0 | 1 | 4 |
-| [BCO 20-11](../authorities/BCO-20-11.md) | 0 | 0 | 0 | 1 | 1 |
-| [BCO 20-12](../authorities/BCO-20-12.md) | 0 | 0 | 0 | 1 | 1 |
-| [BCO 21](../authorities/BCO-21.md) | 0 | 0 | 1 | 11 | 13 |
-| [BCO 21-1](../authorities/BCO-21-1.md) | 6 | 4 | 6 | 39 | 57 |
-| [BCO 21-2](../authorities/BCO-21-2.md) | 0 | 1 | 0 | 18 | 19 |
-| [BCO 21-3](../authorities/BCO-21-3.md) | 0 | 0 | 0 | 1 | 1 |
-| [BCO 21-4](../authorities/BCO-21-4.md) | 22 | 15 | 18 | 1016 | 1088 |
-| [BCO 21-5](../authorities/BCO-21-5.md) | 33 | 7 | 4 | 49 | 100 |
-| [BCO 21-6](../authorities/BCO-21-6.md) | 5 | 1 | 1 | 17 | 25 |
-| [BCO 21-7](../authorities/BCO-21-7.md) | 3 | 1 | 1 | 14 | 20 |
-| [BCO 21-8](../authorities/BCO-21-8.md) | 1 | 0 | 1 | 1 | 4 |
-| [BCO 21-9](../authorities/BCO-21-9.md) | 1 | 1 | 0 | 17 | 19 |
-| [BCO 21-10](../authorities/BCO-21-10.md) | 1 | 0 | 1 | 7 | 10 |
-| [BCO 21-11](../authorities/BCO-21-11.md) | 0 | 0 | 0 | 3 | 3 |
-| [BCO 21-12](../authorities/BCO-21-12.md) | 0 | 0 | 0 | 0 | 1 |
-| [BCO 21-14](../authorities/BCO-21-14.md) | 0 | 0 | 0 | 1 | 1 |
-| [BCO 22](../authorities/BCO-22.md) | 0 | 0 | 1 | 1 | 4 |
-| [BCO 22-1](../authorities/BCO-22-1.md) | 0 | 0 | 0 | 3 | 4 |
-| [BCO 22-2](../authorities/BCO-22-2.md) | 3 | 4 | 1 | 12 | 20 |
-| [BCO 22-3](../authorities/BCO-22-3.md) | 2 | 2 | 1 | 7 | 14 |
-| [BCO 22-4](../authorities/BCO-22-4.md) | 3 | 2 | 2 | 10 | 18 |
-| [BCO 22-5](../authorities/BCO-22-5.md) | 2 | 1 | 2 | 16 | 21 |
-| [BCO 22-6](../authorities/BCO-22-6.md) | 5 | 1 | 1 | 10 | 17 |
-| [BCO 23](../authorities/BCO-23.md) | 0 | 0 | 0 | 2 | 3 |
-| [BCO 23-1](../authorities/BCO-23-1.md) | 14 | 4 | 7 | 337 | 365 |
-| [BCO 23-2](../authorities/BCO-23-2.md) | 2 | 0 | 2 | 3 | 10 |
-| [BCO 23-3](../authorities/BCO-23-3.md) | 0 | 0 | 0 | 1 | 1 |
-| [BCO 23-7](../authorities/BCO-23-7.md) | 0 | 0 | 1 | 0 | 1 |
-| [BCO 23-10](../authorities/BCO-23-10.md) | 0 | 0 | 0 | 2 | 2 |
-| [BCO 23-21](../authorities/BCO-23-21.md) | 0 | 0 | 1 | 0 | 1 |
-| [BCO 24](../authorities/BCO-24.md) | 1 | 0 | 2 | 3 | 8 |
-| [BCO 24-1](../authorities/BCO-24-1.md) | 15 | 7 | 23 | 35 | 94 |
-| [BCO 24-2](../authorities/BCO-24-2.md) | 0 | 1 | 1 | 0 | 2 |
-| [BCO 24-3](../authorities/BCO-24-3.md) | 2 | 2 | 3 | 0 | 12 |
-| [BCO 24-4](../authorities/BCO-24-4.md) | 1 | 1 | 0 | 3 | 6 |
-| [BCO 24-5](../authorities/BCO-24-5.md) | 5 | 2 | 3 | 1 | 12 |
-| [BCO 24-6](../authorities/BCO-24-6.md) | 20 | 6 | 0 | 5 | 32 |
-| [BCO 24-7](../authorities/BCO-24-7.md) | 16 | 2 | 2 | 0 | 22 |
-| [BCO 24-8](../authorities/BCO-24-8.md) | 1 | 1 | 0 | 0 | 2 |
-| [BCO 24-9](../authorities/BCO-24-9.md) | 1 | 3 | 7 | 0 | 14 |
-| [BCO 24-10](../authorities/BCO-24-10.md) | 3 | 0 | 0 | 0 | 3 |
-| [BCO 24-11](../authorities/BCO-24-11.md) | 0 | 0 | 2 | 0 | 4 |
-| [BCO 25](../authorities/BCO-25.md) | 0 | 0 | 1 | 0 | 2 |
-| [BCO 25-1](../authorities/BCO-25-1.md) | 2 | 1 | 5 | 0 | 11 |
-| [BCO 25-2](../authorities/BCO-25-2.md) | 8 | 1 | 2 | 0 | 14 |
-| [BCO 25-3](../authorities/BCO-25-3.md) | 2 | 1 | 3 | 0 | 7 |
-| [BCO 25-4](../authorities/BCO-25-4.md) | 3 | 0 | 0 | 0 | 3 |
-| [BCO 25-5](../authorities/BCO-25-5.md) | 2 | 1 | 0 | 0 | 3 |
-| [BCO 25-6](../authorities/BCO-25-6.md) | 1 | 1 | 2 | 0 | 4 |
-| [BCO 25-7](../authorities/BCO-25-7.md) | 4 | 1 | 1 | 0 | 8 |
-| [BCO 25-8](../authorities/BCO-25-8.md) | 0 | 1 | 0 | 0 | 1 |
-| [BCO 25-9](../authorities/BCO-25-9.md) | 2 | 0 | 0 | 0 | 2 |
-| [BCO 25-10](../authorities/BCO-25-10.md) | 3 | 1 | 1 | 0 | 5 |
-| [BCO 25-11](../authorities/BCO-25-11.md) | 15 | 3 | 5 | 17 | 44 |
-| [BCO 25-12](../authorities/BCO-25-12.md) | 4 | 1 | 1 | 1 | 8 |
-| [BCO 25-14](../authorities/BCO-25-14.md) | 1 | 0 | 0 | 0 | 1 |
-| [BCO 26](../authorities/BCO-26.md) | 0 | 1 | 0 | 0 | 1 |
-| [BCO 26-1](../authorities/BCO-26-1.md) | 2 | 0 | 1 | 3 | 7 |
-| [BCO 26-2](../authorities/BCO-26-2.md) | 2 | 0 | 1 | 0 | 11 |
-| [BCO 26-3](../authorities/BCO-26-3.md) | 2 | 0 | 1 | 0 | 3 |
-| [BCO 26-4](../authorities/BCO-26-4.md) | 0 | 0 | 0 | 1 | 1 |
-| [BCO 26-6](../authorities/BCO-26-6.md) | 1 | 0 | 0 | 0 | 1 |
-| [BCO 26-11](../authorities/BCO-26-11.md) | 0 | 0 | 2 | 0 | 2 |
-| [BCO 27-1](../authorities/BCO-27-1.md) | 7 | 0 | 0 | 0 | 7 |
-| [BCO 27-2](../authorities/BCO-27-2.md) | 2 | 0 | 2 | 0 | 4 |
-| [BCO 27-3](../authorities/BCO-27-3.md) | 11 | 0 | 0 | 0 | 11 |
-| [BCO 27-4](../authorities/BCO-27-4.md) | 10 | 0 | 0 | 0 | 10 |
-| [BCO 27-5](../authorities/BCO-27-5.md) | 11 | 9 | 0 | 0 | 20 |
-| [BCO 27-37](../authorities/BCO-27-37.md) | 1 | 1 | 0 | 0 | 2 |
-| [BCO 27-46](../authorities/BCO-27-46.md) | 0 | 0 | 1 | 0 | 1 |
-| [BCO 28-1](../authorities/BCO-28-1.md) | 2 | 0 | 0 | 0 | 2 |
-| [BCO 28-3](../authorities/BCO-28-3.md) | 1 | 1 | 0 | 0 | 2 |
-| [BCO 29-1](../authorities/BCO-29-1.md) | 33 | 0 | 0 | 1 | 36 |
-| [BCO 29-2](../authorities/BCO-29-2.md) | 4 | 0 | 0 | 0 | 5 |
-| [BCO 29-3](../authorities/BCO-29-3.md) | 4 | 0 | 0 | 0 | 4 |
-| [BCO 29-4](../authorities/BCO-29-4.md) | 4 | 0 | 0 | 0 | 4 |
-| [BCO 30](../authorities/BCO-30.md) | 2 | 0 | 0 | 4 | 6 |
-| [BCO 30-1](../authorities/BCO-30-1.md) | 18 | 2 | 4 | 4 | 29 |
-| [BCO 30-2](../authorities/BCO-30-2.md) | 4 | 2 | 0 | 1 | 7 |
-| [BCO 30-3](../authorities/BCO-30-3.md) | 22 | 0 | 2 | 1 | 26 |
-| [BCO 30-4](../authorities/BCO-30-4.md) | 12 | 1 | 1 | 0 | 15 |
-| [BCO 30-5](../authorities/BCO-30-5.md) | 4 | 2 | 0 | 0 | 6 |
-| [BCO 31](../authorities/BCO-31.md) | 0 | 1 | 1 | 1 | 4 |
-| [BCO 31-1](../authorities/BCO-31-1.md) | 15 | 0 | 0 | 2 | 17 |
-| [BCO 31-2](../authorities/BCO-31-2.md) | 121 | 3 | 5 | 13 | 155 |
-| [BCO 31-3](../authorities/BCO-31-3.md) | 14 | 0 | 0 | 1 | 15 |
-| [BCO 31-4](../authorities/BCO-31-4.md) | 4 | 0 | 0 | 0 | 4 |
-| [BCO 31-5](../authorities/BCO-31-5.md) | 13 | 0 | 0 | 0 | 13 |
-| [BCO 31-6](../authorities/BCO-31-6.md) | 3 | 0 | 0 | 0 | 4 |
-| [BCO 31-7](../authorities/BCO-31-7.md) | 21 | 0 | 0 | 0 | 22 |
-| [BCO 31-8](../authorities/BCO-31-8.md) | 23 | 1 | 0 | 2 | 26 |
-| [BCO 31-9](../authorities/BCO-31-9.md) | 9 | 0 | 0 | 0 | 10 |
-| [BCO 31-10](../authorities/BCO-31-10.md) | 22 | 0 | 4 | 0 | 31 |
-| [BCO 31-11](../authorities/BCO-31-11.md) | 1 | 0 | 0 | 0 | 1 |
-| [BCO 31-38](../authorities/BCO-31-38.md) | 1 | 0 | 0 | 0 | 1 |
-| [BCO 32](../authorities/BCO-32.md) | 1 | 1 | 1 | 1 | 4 |
-| [BCO 32-1](../authorities/BCO-32-1.md) | 3 | 0 | 0 | 0 | 3 |
-| [BCO 32-2](../authorities/BCO-32-2.md) | 38 | 0 | 4 | 5 | 50 |
-| [BCO 32-3](../authorities/BCO-32-3.md) | 47 | 1 | 2 | 4 | 55 |
-| [BCO 32-4](../authorities/BCO-32-4.md) | 12 | 0 | 1 | 1 | 14 |
-| [BCO 32-5](../authorities/BCO-32-5.md) | 12 | 0 | 0 | 1 | 13 |
-| [BCO 32-6](../authorities/BCO-32-6.md) | 24 | 0 | 2 | 2 | 29 |
-| [BCO 32-7](../authorities/BCO-32-7.md) | 3 | 0 | 0 | 0 | 4 |
-| [BCO 32-8](../authorities/BCO-32-8.md) | 5 | 0 | 1 | 0 | 7 |
-| [BCO 32-9](../authorities/BCO-32-9.md) | 1 | 0 | 0 | 0 | 1 |
-| [BCO 32-10](../authorities/BCO-32-10.md) | 1 | 0 | 0 | 0 | 2 |
-| [BCO 32-11](../authorities/BCO-32-11.md) | 2 | 0 | 0 | 0 | 2 |
-| [BCO 32-12](../authorities/BCO-32-12.md) | 4 | 0 | 0 | 0 | 4 |
-| [BCO 32-13](../authorities/BCO-32-13.md) | 11 | 0 | 1 | 0 | 16 |
-| [BCO 32-14](../authorities/BCO-32-14.md) | 11 | 0 | 0 | 0 | 11 |
-| [BCO 32-15](../authorities/BCO-32-15.md) | 3 | 0 | 0 | 0 | 4 |
-| [BCO 32-16](../authorities/BCO-32-16.md) | 6 | 0 | 0 | 0 | 7 |
-| [BCO 32-17](../authorities/BCO-32-17.md) | 8 | 0 | 0 | 0 | 9 |
-| [BCO 32-18](../authorities/BCO-32-18.md) | 13 | 0 | 1 | 2 | 18 |
-| [BCO 32-19](../authorities/BCO-32-19.md) | 13 | 0 | 5 | 0 | 22 |
-| [BCO 32-20](../authorities/BCO-32-20.md) | 26 | 0 | 1 | 0 | 28 |
-| [BCO 32-21](../authorities/BCO-32-21.md) | 0 | 0 | 1 | 0 | 2 |
-| [BCO 32-30](../authorities/BCO-32-30.md) | 2 | 0 | 0 | 0 | 2 |
-| [BCO 33-1](../authorities/BCO-33-1.md) | 24 | 0 | 8 | 0 | 35 |
-| [BCO 33-2](../authorities/BCO-33-2.md) | 15 | 0 | 0 | 0 | 16 |
-| [BCO 33-3](../authorities/BCO-33-3.md) | 6 | 1 | 0 | 0 | 8 |
-| [BCO 33-4](../authorities/BCO-33-4.md) | 3 | 0 | 0 | 0 | 6 |
-| [BCO 33-5](../authorities/BCO-33-5.md) | 0 | 0 | 1 | 0 | 2 |
-| [BCO 34](../authorities/BCO-34.md) | 0 | 1 | 0 | 5 | 6 |
-| [BCO 34-1](../authorities/BCO-34-1.md) | 36 | 2 | 15 | 1 | 59 |
-| [BCO 34-2](../authorities/BCO-34-2.md) | 12 | 1 | 1 | 0 | 15 |
-| [BCO 34-3](../authorities/BCO-34-3.md) | 6 | 0 | 0 | 1 | 7 |
-| [BCO 34-4](../authorities/BCO-34-4.md) | 17 | 0 | 1 | 3 | 22 |
-| [BCO 34-5](../authorities/BCO-34-5.md) | 21 | 1 | 0 | 1 | 23 |
-| [BCO 34-6](../authorities/BCO-34-6.md) | 4 | 0 | 0 | 0 | 4 |
-| [BCO 34-7](../authorities/BCO-34-7.md) | 8 | 0 | 0 | 4 | 12 |
-| [BCO 34-8](../authorities/BCO-34-8.md) | 7 | 3 | 3 | 2 | 16 |
-| [BCO 34-9](../authorities/BCO-34-9.md) | 3 | 0 | 0 | 1 | 4 |
-| [BCO 34-10](../authorities/BCO-34-10.md) | 15 | 3 | 2 | 53 | 75 |
-| [BCO 35](../authorities/BCO-35.md) | 1 | 0 | 1 | 0 | 3 |
-| [BCO 35-1](../authorities/BCO-35-1.md) | 21 | 0 | 6 | 0 | 33 |
-| [BCO 35-2](../authorities/BCO-35-2.md) | 5 | 0 | 0 | 0 | 5 |
-| [BCO 35-3](../authorities/BCO-35-3.md) | 9 | 0 | 0 | 1 | 11 |
-| [BCO 35-4](../authorities/BCO-35-4.md) | 2 | 0 | 0 | 0 | 4 |
-| [BCO 35-5](../authorities/BCO-35-5.md) | 9 | 0 | 0 | 0 | 11 |
-| [BCO 35-6](../authorities/BCO-35-6.md) | 0 | 0 | 0 | 0 | 2 |
-| [BCO 35-7](../authorities/BCO-35-7.md) | 15 | 0 | 2 | 0 | 18 |
-| [BCO 35-8](../authorities/BCO-35-8.md) | 3 | 0 | 2 | 0 | 7 |
-| [BCO 35-9](../authorities/BCO-35-9.md) | 1 | 0 | 1 | 0 | 3 |
-| [BCO 35-10](../authorities/BCO-35-10.md) | 2 | 0 | 0 | 0 | 3 |
-| [BCO 35-11](../authorities/BCO-35-11.md) | 5 | 0 | 1 | 0 | 6 |
-| [BCO 35-12](../authorities/BCO-35-12.md) | 4 | 0 | 0 | 0 | 4 |
-| [BCO 35-13](../authorities/BCO-35-13.md) | 4 | 0 | 0 | 0 | 4 |
-| [BCO 35-14](../authorities/BCO-35-14.md) | 5 | 0 | 0 | 0 | 5 |
-| [BCO 35-15](../authorities/BCO-35-15.md) | 1 | 0 | 0 | 0 | 1 |
-| [BCO 36](../authorities/BCO-36.md) | 1 | 0 | 2 | 0 | 4 |
-| [BCO 36-1](../authorities/BCO-36-1.md) | 3 | 0 | 0 | 2 | 5 |
-| [BCO 36-2](../authorities/BCO-36-2.md) | 3 | 0 | 0 | 0 | 5 |
-| [BCO 36-3](../authorities/BCO-36-3.md) | 5 | 2 | 0 | 0 | 8 |
-| [BCO 36-4](../authorities/BCO-36-4.md) | 4 | 0 | 1 | 0 | 7 |
-| [BCO 36-5](../authorities/BCO-36-5.md) | 17 | 0 | 3 | 1 | 22 |
-| [BCO 36-6](../authorities/BCO-36-6.md) | 5 | 0 | 1 | 3 | 11 |
-| [BCO 36-7](../authorities/BCO-36-7.md) | 8 | 2 | 1 | 1 | 13 |
-| [BCO 37-1](../authorities/BCO-37-1.md) | 0 | 0 | 0 | 4 | 5 |
-| [BCO 37-2](../authorities/BCO-37-2.md) | 3 | 0 | 0 | 0 | 3 |
-| [BCO 37-3](../authorities/BCO-37-3.md) | 12 | 0 | 2 | 0 | 16 |
-| [BCO 37-4](../authorities/BCO-37-4.md) | 6 | 2 | 2 | 0 | 12 |
-| [BCO 37-5](../authorities/BCO-37-5.md) | 2 | 0 | 0 | 1 | 4 |
-| [BCO 37-6](../authorities/BCO-37-6.md) | 0 | 0 | 1 | 0 | 1 |
-| [BCO 37-7](../authorities/BCO-37-7.md) | 1 | 3 | 2 | 0 | 8 |
-| [BCO 37-8](../authorities/BCO-37-8.md) | 5 | 0 | 0 | 0 | 5 |
-| [BCO 37-9](../authorities/BCO-37-9.md) | 3 | 0 | 0 | 1 | 4 |
-| [BCO 38](../authorities/BCO-38.md) | 0 | 0 | 0 | 2 | 2 |
-| [BCO 38-1](../authorities/BCO-38-1.md) | 34 | 0 | 10 | 21 | 72 |
-| [BCO 38-2](../authorities/BCO-38-2.md) | 4 | 3 | 8 | 38 | 53 |
-| [BCO 38-3](../authorities/BCO-38-3.md) | 18 | 3 | 6 | 30 | 61 |
-| [BCO 38-4](../authorities/BCO-38-4.md) | 10 | 1 | 3 | 0 | 15 |
-| [BCO 39-1](../authorities/BCO-39-1.md) | 4 | 0 | 0 | 0 | 5 |
-| [BCO 39-2](../authorities/BCO-39-2.md) | 8 | 1 | 0 | 3 | 12 |
-| [BCO 39-3](../authorities/BCO-39-3.md) | 98 | 2 | 1 | 0 | 101 |
-| [BCO 39-4](../authorities/BCO-39-4.md) | 1 | 0 | 0 | 0 | 1 |
-| [BCO 40](../authorities/BCO-40.md) | 0 | 2 | 0 | 8 | 10 |
-| [BCO 40-1](../authorities/BCO-40-1.md) | 17 | 2 | 0 | 57 | 76 |
-| [BCO 40-2](../authorities/BCO-40-2.md) | 13 | 3 | 0 | 12 | 28 |
-| [BCO 40-3](../authorities/BCO-40-3.md) | 10 | 3 | 1 | 12 | 27 |
-| [BCO 40-4](../authorities/BCO-40-4.md) | 25 | 2 | 1 | 3 | 33 |
-| [BCO 40-5](../authorities/BCO-40-5.md) | 64 | 6 | 1 | 0 | 74 |
-| [BCO 40-6](../authorities/BCO-40-6.md) | 7 | 0 | 0 | 0 | 8 |
-| [BCO 41](../authorities/BCO-41.md) | 1 | 0 | 2 | 2 | 5 |
-| [BCO 41-1](../authorities/BCO-41-1.md) | 10 | 3 | 0 | 0 | 13 |
-| [BCO 41-2](../authorities/BCO-41-2.md) | 4 | 1 | 0 | 0 | 5 |
-| [BCO 41-3](../authorities/BCO-41-3.md) | 15 | 4 | 1 | 0 | 21 |
-| [BCO 41-4](../authorities/BCO-41-4.md) | 1 | 1 | 0 | 0 | 2 |
-| [BCO 41-5](../authorities/BCO-41-5.md) | 6 | 5 | 0 | 0 | 12 |
-| [BCO 41-6](../authorities/BCO-41-6.md) | 1 | 1 | 0 | 0 | 2 |
-| [BCO 42](../authorities/BCO-42.md) | 0 | 1 | 0 | 0 | 1 |
-| [BCO 42-1](../authorities/BCO-42-1.md) | 9 | 0 | 0 | 2 | 11 |
-| [BCO 42-2](../authorities/BCO-42-2.md) | 24 | 0 | 1 | 0 | 29 |
-| [BCO 42-3](../authorities/BCO-42-3.md) | 28 | 0 | 0 | 0 | 29 |
-| [BCO 42-4](../authorities/BCO-42-4.md) | 13 | 1 | 4 | 1 | 21 |
-| [BCO 42-5](../authorities/BCO-42-5.md) | 10 | 0 | 0 | 1 | 11 |
-| [BCO 42-6](../authorities/BCO-42-6.md) | 25 | 3 | 2 | 1 | 34 |
-| [BCO 42-7](../authorities/BCO-42-7.md) | 6 | 0 | 0 | 0 | 6 |
-| [BCO 42-8](../authorities/BCO-42-8.md) | 8 | 0 | 0 | 0 | 8 |
-| [BCO 42-9](../authorities/BCO-42-9.md) | 27 | 0 | 0 | 0 | 27 |
-| [BCO 42-10](../authorities/BCO-42-10.md) | 1 | 0 | 0 | 0 | 1 |
-| [BCO 42-11](../authorities/BCO-42-11.md) | 1 | 1 | 0 | 0 | 2 |
-| [BCO 42-12](../authorities/BCO-42-12.md) | 1 | 0 | 0 | 0 | 1 |
-| [BCO 42-13](../authorities/BCO-42-13.md) | 0 | 0 | 1 | 0 | 2 |
-| [BCO 43](../authorities/BCO-43.md) | 3 | 0 | 0 | 1 | 6 |
-| [BCO 43-1](../authorities/BCO-43-1.md) | 96 | 3 | 4 | 4 | 111 |
-| [BCO 43-2](../authorities/BCO-43-2.md) | 72 | 2 | 4 | 5 | 87 |
-| [BCO 43-3](../authorities/BCO-43-3.md) | 35 | 1 | 3 | 1 | 43 |
-| [BCO 43-4](../authorities/BCO-43-4.md) | 10 | 5 | 0 | 0 | 15 |
-| [BCO 43-5](../authorities/BCO-43-5.md) | 7 | 0 | 1 | 0 | 8 |
-| [BCO 43-6](../authorities/BCO-43-6.md) | 13 | 1 | 0 | 1 | 15 |
-| [BCO 43-7](../authorities/BCO-43-7.md) | 6 | 0 | 0 | 0 | 6 |
-| [BCO 43-8](../authorities/BCO-43-8.md) | 13 | 0 | 0 | 9 | 22 |
-| [BCO 43-9](../authorities/BCO-43-9.md) | 21 | 0 | 0 | 0 | 21 |
-| [BCO 43-10](../authorities/BCO-43-10.md) | 39 | 1 | 1 | 2 | 43 |
-| [BCO 43-11](../authorities/BCO-43-11.md) | 0 | 0 | 1 | 0 | 2 |
-| [BCO 44-3](../authorities/BCO-44-3.md) | 1 | 0 | 0 | 0 | 1 |
-| [BCO 45](../authorities/BCO-45.md) | 2 | 3 | 0 | 0 | 5 |
-| [BCO 45-1](../authorities/BCO-45-1.md) | 9 | 0 | 1 | 0 | 11 |
-| [BCO 45-2](../authorities/BCO-45-2.md) | 1 | 0 | 0 | 0 | 1 |
-| [BCO 45-3](../authorities/BCO-45-3.md) | 1 | 0 | 0 | 0 | 1 |
-| [BCO 45-4](../authorities/BCO-45-4.md) | 3 | 0 | 1 | 0 | 5 |
-| [BCO 45-5](../authorities/BCO-45-5.md) | 5 | 1 | 0 | 2 | 8 |
-| [BCO 45-6](../authorities/BCO-45-6.md) | 0 | 0 | 0 | 0 | 1 |
-| [BCO 46](../authorities/BCO-46.md) | 0 | 1 | 0 | 0 | 1 |
-| [BCO 46-1](../authorities/BCO-46-1.md) | 2 | 0 | 0 | 0 | 2 |
-| [BCO 46-2](../authorities/BCO-46-2.md) | 1 | 2 | 1 | 2 | 6 |
-| [BCO 46-3](../authorities/BCO-46-3.md) | 4 | 3 | 0 | 0 | 7 |
-| [BCO 46-4](../authorities/BCO-46-4.md) | 2 | 1 | 1 | 0 | 5 |
-| [BCO 46-5](../authorities/BCO-46-5.md) | 5 | 11 | 16 | 0 | 34 |
-| [BCO 46-6](../authorities/BCO-46-6.md) | 4 | 1 | 1 | 50 | 58 |
-| [BCO 46-7](../authorities/BCO-46-7.md) | 2 | 0 | 0 | 3 | 5 |
-| [BCO 46-8](../authorities/BCO-46-8.md) | 13 | 1 | 1 | 35 | 50 |
-| [BCO 47](../authorities/BCO-47.md) | 0 | 0 | 0 | 0 | 1 |
-| [BCO 47-1](../authorities/BCO-47-1.md) | 1 | 0 | 0 | 0 | 1 |
-| [BCO 47-6](../authorities/BCO-47-6.md) | 1 | 0 | 0 | 0 | 1 |
-| [BCO 47-9](../authorities/BCO-47-9.md) | 2 | 0 | 0 | 0 | 2 |
-| [BCO 48-1](../authorities/BCO-48-1.md) | 0 | 0 | 0 | 2 | 2 |
-| [BCO 48-9](../authorities/BCO-48-9.md) | 1 | 0 | 0 | 0 | 1 |
-| [BCO 49-3](../authorities/BCO-49-3.md) | 0 | 0 | 0 | 1 | 1 |
-| [BCO 50-2](../authorities/BCO-50-2.md) | 0 | 0 | 1 | 0 | 1 |
-| [BCO 51-5](../authorities/BCO-51-5.md) | 1 | 0 | 0 | 0 | 1 |
-| [BCO 52-2](../authorities/BCO-52-2.md) | 1 | 0 | 0 | 0 | 1 |
-| [BCO 52-4](../authorities/BCO-52-4.md) | 1 | 0 | 0 | 0 | 1 |
-| [BCO 53](../authorities/BCO-53.md) | 0 | 0 | 2 | 0 | 5 |
-| [BCO 53-2](../authorities/BCO-53-2.md) | 1 | 0 | 0 | 0 | 1 |
-| [BCO 53-6](../authorities/BCO-53-6.md) | 2 | 0 | 1 | 0 | 3 |
-| [BCO 55-1](../authorities/BCO-55-1.md) | 0 | 0 | 1 | 0 | 1 |
-| [BCO 55-2](../authorities/BCO-55-2.md) | 0 | 0 | 1 | 0 | 1 |
-| [BCO 56-4](../authorities/BCO-56-4.md) | 3 | 0 | 2 | 0 | 6 |
-| [BCO 56-5](../authorities/BCO-56-5.md) | 0 | 0 | 5 | 0 | 5 |
-| [BCO 56-58](../authorities/BCO-56-58.md) | 0 | 0 | 4 | 0 | 4 |
-| [BCO 57](../authorities/BCO-57.md) | 0 | 0 | 0 | 1 | 1 |
-| [BCO 57-1](../authorities/BCO-57-1.md) | 1 | 0 | 0 | 2 | 3 |
-| [BCO 57-2](../authorities/BCO-57-2.md) | 2 | 1 | 1 | 0 | 6 |
-| [BCO 57-3](../authorities/BCO-57-3.md) | 1 | 0 | 0 | 0 | 1 |
-| [BCO 57-5](../authorities/BCO-57-5.md) | 18 | 1 | 15 | 0 | 38 |
-| [BCO 57-6](../authorities/BCO-57-6.md) | 0 | 0 | 1 | 0 | 3 |
-| [BCO 58](../authorities/BCO-58.md) | 0 | 0 | 3 | 1 | 4 |
-| [BCO 58-1](../authorities/BCO-58-1.md) | 1 | 0 | 0 | 0 | 1 |
-| [BCO 58-2](../authorities/BCO-58-2.md) | 1 | 0 | 0 | 0 | 1 |
-| [BCO 58-3](../authorities/BCO-58-3.md) | 0 | 0 | 0 | 2 | 2 |
-| [BCO 58-4](../authorities/BCO-58-4.md) | 3 | 3 | 11 | 5 | 22 |
-| [BCO 58-5](../authorities/BCO-58-5.md) | 0 | 1 | 7 | 0 | 9 |
-| [BCO 58-6](../authorities/BCO-58-6.md) | 0 | 1 | 0 | 0 | 1 |
-| [BCO 58-7](../authorities/BCO-58-7.md) | 1 | 0 | 0 | 0 | 1 |
-| [BCO 59](../authorities/BCO-59.md) | 0 | 0 | 2 | 0 | 5 |
-| [BCO 59-1](../authorities/BCO-59-1.md) | 0 | 0 | 2 | 0 | 2 |
-| [BCO 59-2](../authorities/BCO-59-2.md) | 0 | 0 | 0 | 0 | 1 |
-| [BCO 59-4](../authorities/BCO-59-4.md) | 1 | 0 | 0 | 0 | 1 |
-| [BCO 59-5](../authorities/BCO-59-5.md) | 0 | 0 | 0 | 0 | 1 |
-| [BCO 59-6](../authorities/BCO-59-6.md) | 0 | 0 | 2 | 0 | 2 |
-| [BCO 60](../authorities/BCO-60.md) | 0 | 0 | 0 | 0 | 1 |
-| [BCO 60-63](../authorities/BCO-60-63.md) | 0 | 0 | 1 | 0 | 1 |
-| [BCO 61](../authorities/BCO-61.md) | 0 | 0 | 0 | 0 | 1 |
-| [BCO 62](../authorities/BCO-62.md) | 0 | 0 | 0 | 0 | 1 |
-| [BCO 63](../authorities/BCO-63.md) | 0 | 0 | 0 | 0 | 2 |
-| [BCO 87](../authorities/BCO-87.md) | 0 | 0 | 0 | 2 | 2 |
-| [BCO 254-5-2](../authorities/BCO-254-5-2.md) | 1 | 0 | 0 | 0 | 1 |
-| [WCF 1](../authorities/WCF-1.md) | 8 | 0 | 0 | 2 | 10 |
-| [WCF 1.1](../authorities/WCF-1-1.md) | 0 | 0 | 0 | 1 | 1 |
-| [WCF 2](../authorities/WCF-2.md) | 2 | 0 | 0 | 0 | 2 |
-| [WCF 3](../authorities/WCF-3.md) | 4 | 0 | 0 | 0 | 4 |
-| [WCF 3.3](../authorities/WCF-3-3.md) | 1 | 0 | 0 | 0 | 1 |
-| [WCF 3.6](../authorities/WCF-3-6.md) | 0 | 0 | 0 | 1 | 1 |
-| [WCF 4](../authorities/WCF-4.md) | 2 | 0 | 0 | 0 | 2 |
-| [WCF 4.1](../authorities/WCF-4-1.md) | 1 | 1 | 0 | 2 | 4 |
-| [WCF 6](../authorities/WCF-6.md) | 1 | 0 | 0 | 1 | 2 |
-| [WCF 7](../authorities/WCF-7.md) | 3 | 0 | 0 | 0 | 3 |
-| [WCF 7.5](../authorities/WCF-7-5.md) | 0 | 0 | 0 | 1 | 1 |
-| [WCF 8](../authorities/WCF-8.md) | 1 | 0 | 0 | 0 | 1 |
-| [WCF 8.2](../authorities/WCF-8-2.md) | 0 | 0 | 0 | 1 | 1 |
-| [WCF 8.5](../authorities/WCF-8-5.md) | 1 | 0 | 0 | 0 | 1 |
-| [WCF 10](../authorities/WCF-10.md) | 1 | 0 | 0 | 0 | 1 |
-| [WCF 10.1](../authorities/WCF-10-1.md) | 0 | 0 | 0 | 1 | 1 |
-| [WCF 10-18](../authorities/WCF-10-18.md) | 1 | 0 | 0 | 0 | 1 |
-| [WCF 11](../authorities/WCF-11.md) | 1 | 0 | 0 | 0 | 1 |
-| [WCF 11.3](../authorities/WCF-11-3.md) | 0 | 0 | 0 | 1 | 1 |
-| [WCF 12](../authorities/WCF-12.md) | 1 | 0 | 0 | 0 | 1 |
-| [WCF 13](../authorities/WCF-13.md) | 2 | 0 | 0 | 0 | 2 |
-| [WCF 14](../authorities/WCF-14.md) | 1 | 0 | 0 | 0 | 1 |
-| [WCF 15](../authorities/WCF-15.md) | 4 | 0 | 0 | 0 | 4 |
-| [WCF 16](../authorities/WCF-16.md) | 1 | 0 | 0 | 0 | 1 |
-| [WCF 17](../authorities/WCF-17.md) | 1 | 0 | 0 | 0 | 1 |
-| [WCF 18](../authorities/WCF-18.md) | 0 | 0 | 0 | 1 | 1 |
-| [WCF 18.3](../authorities/WCF-18-3.md) | 0 | 0 | 0 | 1 | 1 |
-| [WCF 19](../authorities/WCF-19.md) | 1 | 0 | 0 | 0 | 1 |
-| [WCF 19.2](../authorities/WCF-19-2.md) | 0 | 0 | 0 | 1 | 1 |
-| [WCF 19.4](../authorities/WCF-19-4.md) | 2 | 1 | 0 | 0 | 3 |
-| [WCF 20](../authorities/WCF-20.md) | 6 | 0 | 0 | 3 | 11 |
-| [WCF 20.1](../authorities/WCF-20-1.md) | 2 | 0 | 0 | 0 | 2 |
-| [WCF 20.2](../authorities/WCF-20-2.md) | 0 | 0 | 0 | 5 | 6 |
-| [WCF 21](../authorities/WCF-21.md) | 7 | 0 | 0 | 6 | 13 |
-| [WCF 21.1](../authorities/WCF-21-1.md) | 1 | 0 | 0 | 0 | 1 |
-| [WCF 21.3](../authorities/WCF-21-3.md) | 1 | 0 | 0 | 0 | 1 |
-| [WCF 21.5](../authorities/WCF-21-5.md) | 0 | 0 | 0 | 2 | 2 |
-| [WCF 21.7](../authorities/WCF-21-7.md) | 0 | 0 | 0 | 6 | 6 |
-| [WCF 21.8](../authorities/WCF-21-8.md) | 1 | 0 | 0 | 12 | 13 |
-| [WCF 22.4](../authorities/WCF-22-4.md) | 1 | 0 | 0 | 0 | 1 |
-| [WCF 22.7](../authorities/WCF-22-7.md) | 0 | 0 | 0 | 1 | 1 |
-| [WCF 22.8](../authorities/WCF-22-8.md) | 0 | 0 | 0 | 1 | 1 |
-| [WCF 23](../authorities/WCF-23.md) | 2 | 0 | 0 | 0 | 3 |
-| [WCF 23.3](../authorities/WCF-23-3.md) | 0 | 1 | 0 | 0 | 4 |
-| [WCF 24](../authorities/WCF-24.md) | 6 | 0 | 0 | 1 | 7 |
-| [WCF 24.3](../authorities/WCF-24-3.md) | 0 | 2 | 0 | 9 | 12 |
-| [WCF 24.4](../authorities/WCF-24-4.md) | 0 | 0 | 0 | 1 | 1 |
-| [WCF 24.6](../authorities/WCF-24-6.md) | 0 | 0 | 0 | 2 | 2 |
-| [WCF 25](../authorities/WCF-25.md) | 3 | 0 | 0 | 0 | 3 |
-| [WCF 25.2](../authorities/WCF-25-2.md) | 0 | 0 | 0 | 1 | 1 |
-| [WCF 25.5](../authorities/WCF-25-5.md) | 1 | 0 | 0 | 0 | 1 |
-| [WCF 26](../authorities/WCF-26.md) | 1 | 0 | 0 | 0 | 1 |
-| [WCF 27](../authorities/WCF-27.md) | 2 | 1 | 0 | 0 | 3 |
-| [WCF 27.4](../authorities/WCF-27-4.md) | 0 | 1 | 0 | 0 | 1 |
-| [WCF 28](../authorities/WCF-28.md) | 8 | 0 | 0 | 1 | 9 |
-| [WCF 28.3](../authorities/WCF-28-3.md) | 0 | 0 | 0 | 0 | 1 |
-| [WCF 28.4](../authorities/WCF-28-4.md) | 1 | 0 | 0 | 4 | 5 |
-| [WCF 29](../authorities/WCF-29.md) | 0 | 1 | 0 | 1 | 2 |
-| [WCF 29.3](../authorities/WCF-29-3.md) | 0 | 0 | 0 | 2 | 2 |
-| [WCF 29.4](../authorities/WCF-29-4.md) | 0 | 0 | 0 | 2 | 2 |
-| [WCF 30](../authorities/WCF-30.md) | 2 | 0 | 0 | 0 | 2 |
-| [WCF 31](../authorities/WCF-31.md) | 7 | 0 | 0 | 0 | 7 |
-| [WCF 31.3](../authorities/WCF-31-3.md) | 1 | 1 | 0 | 0 | 2 |
-| [WCF 33](../authorities/WCF-33.md) | 1 | 0 | 0 | 0 | 1 |
-| [WCF 35](../authorities/WCF-35.md) | 1 | 0 | 0 | 0 | 1 |
-| [WCF 107-109](../authorities/WCF-107-109.md) | 0 | 0 | 0 | 1 | 1 |
-| [WLC Q.15](../authorities/WLC-Q-15.md) | 1 | 1 | 0 | 1 | 3 |
-| [WLC Q.17](../authorities/WLC-Q-17.md) | 1 | 0 | 0 | 0 | 1 |
-| [WLC Q.20](../authorities/WLC-Q-20.md) | 3 | 0 | 0 | 0 | 3 |
-| [WLC Q.30](../authorities/WLC-Q-30.md) | 1 | 0 | 0 | 0 | 1 |
-| [WLC Q.58](../authorities/WLC-Q-58.md) | 0 | 0 | 0 | 1 | 1 |
-| [WLC Q.62](../authorities/WLC-Q-62.md) | 2 | 0 | 0 | 0 | 2 |
-| [WLC Q.64](../authorities/WLC-Q-64.md) | 3 | 0 | 0 | 0 | 3 |
-| [WLC Q.65](../authorities/WLC-Q-65.md) | 1 | 0 | 0 | 0 | 1 |
-| [WLC Q.68](../authorities/WLC-Q-68.md) | 2 | 0 | 0 | 0 | 2 |
-| [WLC Q.69](../authorities/WLC-Q-69.md) | 2 | 0 | 0 | 0 | 2 |
-| [WLC Q.75](../authorities/WLC-Q-75.md) | 2 | 0 | 0 | 0 | 2 |
-| [WLC Q.77](../authorities/WLC-Q-77.md) | 1 | 0 | 0 | 0 | 1 |
-| [WLC Q.80](../authorities/WLC-Q-80.md) | 2 | 0 | 0 | 2 | 4 |
-| [WLC Q.109](../authorities/WLC-Q-109.md) | 1 | 0 | 0 | 16 | 17 |
-| [WLC Q.116](../authorities/WLC-Q-116.md) | 0 | 0 | 0 | 5 | 5 |
-| [WLC Q.117](../authorities/WLC-Q-117.md) | 1 | 0 | 0 | 6 | 7 |
-| [WLC Q.118](../authorities/WLC-Q-118.md) | 2 | 0 | 0 | 0 | 2 |
-| [WLC Q.119](../authorities/WLC-Q-119.md) | 0 | 0 | 0 | 4 | 4 |
-| [WLC Q.121](../authorities/WLC-Q-121.md) | 0 | 0 | 0 | 2 | 2 |
-| [WLC Q.129](../authorities/WLC-Q-129.md) | 3 | 0 | 0 | 0 | 3 |
-| [WLC Q.139](../authorities/WLC-Q-139.md) | 2 | 0 | 0 | 0 | 2 |
-| [WLC Q.141](../authorities/WLC-Q-141.md) | 3 | 0 | 0 | 0 | 3 |
-| [WLC Q.144](../authorities/WLC-Q-144.md) | 3 | 0 | 0 | 0 | 3 |
-| [WLC Q.145](../authorities/WLC-Q-145.md) | 7 | 1 | 0 | 0 | 8 |
-| [WLC Q.150](../authorities/WLC-Q-150.md) | 1 | 0 | 0 | 0 | 1 |
-| [WLC Q.151](../authorities/WLC-Q-151.md) | 2 | 0 | 0 | 1 | 3 |
-| [WLC Q.154](../authorities/WLC-Q-154.md) | 1 | 0 | 0 | 0 | 1 |
-| [WLC Q.156](../authorities/WLC-Q-156.md) | 1 | 0 | 0 | 2 | 3 |
-| [WLC Q.158](../authorities/WLC-Q-158.md) | 0 | 0 | 0 | 3 | 3 |
-| [WLC Q.165](../authorities/WLC-Q-165.md) | 2 | 0 | 0 | 0 | 2 |
-| [WLC Q.166](../authorities/WLC-Q-166.md) | 4 | 0 | 0 | 0 | 4 |
-| [WLC Q.168](../authorities/WLC-Q-168.md) | 1 | 0 | 0 | 1 | 2 |
-| [WLC Q.170](../authorities/WLC-Q-170.md) | 1 | 0 | 0 | 1 | 2 |
-| [WLC Q.171](../authorities/WLC-Q-171.md) | 1 | 0 | 0 | 0 | 1 |
-| [WLC Q.173](../authorities/WLC-Q-173.md) | 1 | 0 | 0 | 0 | 1 |
-| [WLC Q.177](../authorities/WLC-Q-177.md) | 0 | 0 | 0 | 6 | 6 |
-| [WLC Q.191](../authorities/WLC-Q-191.md) | 0 | 0 | 0 | 1 | 1 |
-| [WSC Q.9](../authorities/WSC-Q-9.md) | 1 | 0 | 0 | 2 | 3 |
-| [WSC Q.12](../authorities/WSC-Q-12.md) | 2 | 0 | 0 | 0 | 2 |
-| [WSC Q.14](../authorities/WSC-Q-14.md) | 1 | 0 | 0 | 0 | 1 |
-| [WSC Q.18](../authorities/WSC-Q-18.md) | 1 | 0 | 0 | 0 | 1 |
-| [WSC Q.36](../authorities/WSC-Q-36.md) | 0 | 0 | 0 | 1 | 1 |
-| [WSC Q.59](../authorities/WSC-Q-59.md) | 0 | 0 | 0 | 5 | 5 |
-| [WSC Q.60](../authorities/WSC-Q-60.md) | 0 | 0 | 0 | 5 | 5 |
-| [WSC Q.61](../authorities/WSC-Q-61.md) | 0 | 0 | 0 | 2 | 2 |
-| [WSC Q.91](../authorities/WSC-Q-91.md) | 2 | 0 | 0 | 0 | 2 |
-| [WSC Q.95](../authorities/WSC-Q-95.md) | 1 | 0 | 0 | 0 | 1 |
-| [RAO 1-1](../authorities/RAO-1-1.md) | 0 | 0 | 0 | 0 | 2 |
-| [RAO 1-4](../authorities/RAO-1-4.md) | 0 | 0 | 0 | 0 | 1 |
-| [RAO 1-6](../authorities/RAO-1-6.md) | 0 | 0 | 0 | 0 | 1 |
-| [RAO 1-7](../authorities/RAO-1-7.md) | 0 | 0 | 0 | 0 | 1 |
-| [RAO 1-8](../authorities/RAO-1-8.md) | 0 | 0 | 0 | 0 | 1 |
-| [RAO 2-1](../authorities/RAO-2-1.md) | 0 | 0 | 0 | 0 | 1 |
-| [RAO 2-3](../authorities/RAO-2-3.md) | 0 | 0 | 0 | 0 | 1 |
-| [RAO 3-1](../authorities/RAO-3-1.md) | 1 | 0 | 0 | 0 | 1 |
-| [RAO 3-2](../authorities/RAO-3-2.md) | 0 | 0 | 0 | 0 | 2 |
-| [RAO 3-4](../authorities/RAO-3-4.md) | 0 | 2 | 0 | 0 | 2 |
-| [RAO 4](../authorities/RAO-4.md) | 0 | 1 | 0 | 0 | 1 |
-| [RAO 4-1](../authorities/RAO-4-1.md) | 1 | 0 | 0 | 0 | 1 |
-| [RAO 4-2](../authorities/RAO-4-2.md) | 0 | 1 | 0 | 0 | 1 |
-| [RAO 4-3](../authorities/RAO-4-3.md) | 0 | 2 | 0 | 0 | 2 |
-| [RAO 4-4](../authorities/RAO-4-4.md) | 0 | 1 | 0 | 0 | 1 |
-| [RAO 4-5](../authorities/RAO-4-5.md) | 0 | 1 | 0 | 0 | 6 |
-| [RAO 4-6](../authorities/RAO-4-6.md) | 0 | 1 | 0 | 0 | 1 |
-| [RAO 4-7](../authorities/RAO-4-7.md) | 1 | 0 | 0 | 0 | 1 |
-| [RAO 4-9](../authorities/RAO-4-9.md) | 0 | 3 | 0 | 0 | 3 |
-| [RAO 4-10](../authorities/RAO-4-10.md) | 0 | 1 | 0 | 0 | 1 |
-| [RAO 4-11](../authorities/RAO-4-11.md) | 0 | 1 | 0 | 0 | 2 |
-| [RAO 4-12](../authorities/RAO-4-12.md) | 0 | 1 | 0 | 0 | 1 |
-| [RAO 4-13](../authorities/RAO-4-13.md) | 0 | 1 | 0 | 0 | 1 |
-| [RAO 4-14](../authorities/RAO-4-14.md) | 0 | 1 | 0 | 0 | 1 |
-| [RAO 4-15](../authorities/RAO-4-15.md) | 0 | 1 | 0 | 0 | 1 |
-| [RAO 4-16](../authorities/RAO-4-16.md) | 0 | 1 | 0 | 0 | 1 |
-| [RAO 4-19](../authorities/RAO-4-19.md) | 0 | 1 | 0 | 0 | 1 |
-| [RAO 4-20](../authorities/RAO-4-20.md) | 0 | 1 | 0 | 0 | 1 |
-| [RAO 4-21](../authorities/RAO-4-21.md) | 0 | 1 | 0 | 0 | 8 |
-| [RAO 5-2](../authorities/RAO-5-2.md) | 0 | 0 | 0 | 0 | 5 |
-| [RAO 7-2](../authorities/RAO-7-2.md) | 0 | 2 | 0 | 0 | 2 |
-| [RAO 7-3](../authorities/RAO-7-3.md) | 1 | 0 | 0 | 0 | 1 |
-| [RAO 8-1](../authorities/RAO-8-1.md) | 0 | 1 | 0 | 0 | 1 |
-| [RAO 8-2](../authorities/RAO-8-2.md) | 2 | 3 | 0 | 0 | 9 |
-| [RAO 8-4](../authorities/RAO-8-4.md) | 0 | 2 | 0 | 0 | 5 |
-| [RAO 9-2](../authorities/RAO-9-2.md) | 0 | 0 | 0 | 0 | 1 |
-| [RAO 9-3](../authorities/RAO-9-3.md) | 0 | 0 | 0 | 0 | 3 |
-| [RAO 9-4](../authorities/RAO-9-4.md) | 0 | 0 | 0 | 0 | 1 |
-| [RAO 9-5](../authorities/RAO-9-5.md) | 1 | 0 | 0 | 0 | 2 |
-| [RAO 10-3](../authorities/RAO-10-3.md) | 0 | 0 | 0 | 0 | 1 |
-| [RAO 10-4](../authorities/RAO-10-4.md) | 1 | 0 | 0 | 0 | 1 |
-| [RAO 10-5](../authorities/RAO-10-5.md) | 0 | 0 | 0 | 0 | 1 |
-| [RAO 10-6](../authorities/RAO-10-6.md) | 0 | 0 | 0 | 0 | 1 |
-| [RAO 10-14](../authorities/RAO-10-14.md) | 0 | 0 | 0 | 1 | 1 |
-| [RAO 11](../authorities/RAO-11.md) | 0 | 0 | 0 | 0 | 1 |
-| [RAO 11-2](../authorities/RAO-11-2.md) | 0 | 0 | 0 | 0 | 2 |
-| [RAO 11-3](../authorities/RAO-11-3.md) | 0 | 0 | 0 | 1 | 1 |
-| [RAO 11-5](../authorities/RAO-11-5.md) | 1 | 1 | 0 | 0 | 7 |
-| [RAO 11-6](../authorities/RAO-11-6.md) | 0 | 1 | 0 | 0 | 1 |
-| [RAO 11-10](../authorities/RAO-11-10.md) | 0 | 0 | 0 | 0 | 1 |
-| [RAO 12-2](../authorities/RAO-12-2.md) | 0 | 1 | 0 | 0 | 1 |
-| [RAO 13](../authorities/RAO-13.md) | 0 | 1 | 0 | 0 | 2 |
-| [RAO 13-1](../authorities/RAO-13-1.md) | 0 | 0 | 0 | 0 | 1 |
-| [RAO 13-2](../authorities/RAO-13-2.md) | 0 | 1 | 0 | 0 | 1 |
-| [RAO 13-5](../authorities/RAO-13-5.md) | 0 | 0 | 0 | 0 | 1 |
-| [RAO 13-6](../authorities/RAO-13-6.md) | 0 | 0 | 0 | 0 | 1 |
-| [RAO 14](../authorities/RAO-14.md) | 0 | 1 | 0 | 6 | 7 |
-| [RAO 14-1](../authorities/RAO-14-1.md) | 0 | 0 | 0 | 3 | 3 |
-| [RAO 14-2](../authorities/RAO-14-2.md) | 0 | 1 | 0 | 8 | 9 |
-| [RAO 14-3](../authorities/RAO-14-3.md) | 0 | 1 | 0 | 157 | 161 |
-| [RAO 14-4](../authorities/RAO-14-4.md) | 0 | 0 | 0 | 40 | 40 |
-| [RAO 14-6](../authorities/RAO-14-6.md) | 0 | 2 | 0 | 4 | 6 |
-| [RAO 14-8](../authorities/RAO-14-8.md) | 0 | 0 | 0 | 0 | 1 |
-| [RAO 14-9](../authorities/RAO-14-9.md) | 1 | 0 | 0 | 1 | 3 |
-| [RAO 14-10](../authorities/RAO-14-10.md) | 2 | 1 | 0 | 27 | 31 |
-| [RAO 14-11](../authorities/RAO-14-11.md) | 2 | 0 | 0 | 0 | 2 |
-| [RAO 15-1](../authorities/RAO-15-1.md) | 4 | 2 | 0 | 0 | 6 |
-| [RAO 15-2](../authorities/RAO-15-2.md) | 0 | 0 | 0 | 1 | 1 |
-| [RAO 15-3](../authorities/RAO-15-3.md) | 2 | 0 | 0 | 0 | 2 |
-| [RAO 15-4](../authorities/RAO-15-4.md) | 4 | 0 | 0 | 0 | 4 |
-| [RAO 15-6](../authorities/RAO-15-6.md) | 0 | 0 | 0 | 0 | 3 |
-| [RAO 15-8](../authorities/RAO-15-8.md) | 0 | 0 | 0 | 0 | 1 |
-| [RAO 16](../authorities/RAO-16.md) | 0 | 1 | 0 | 47 | 50 |
-| [RAO 16-1](../authorities/RAO-16-1.md) | 2 | 0 | 0 | 3 | 5 |
-| [RAO 16-2](../authorities/RAO-16-2.md) | 3 | 0 | 0 | 0 | 3 |
-| [RAO 16-3](../authorities/RAO-16-3.md) | 11 | 1 | 0 | 749 | 771 |
-| [RAO 16-4](../authorities/RAO-16-4.md) | 3 | 0 | 0 | 27 | 32 |
-| [RAO 16-6](../authorities/RAO-16-6.md) | 1 | 1 | 0 | 5 | 9 |
-| [RAO 16-7](../authorities/RAO-16-7.md) | 1 | 0 | 0 | 0 | 1 |
-| [RAO 16-8](../authorities/RAO-16-8.md) | 0 | 0 | 0 | 0 | 1 |
-| [RAO 16-10](../authorities/RAO-16-10.md) | 5 | 0 | 0 | 41 | 48 |
-| [RAO 17-1](../authorities/RAO-17-1.md) | 6 | 1 | 0 | 0 | 11 |
-| [RAO 17-2](../authorities/RAO-17-2.md) | 3 | 0 | 0 | 0 | 3 |
-| [RAO 17-3](../authorities/RAO-17-3.md) | 2 | 1 | 0 | 0 | 4 |
-| [RAO 17-4](../authorities/RAO-17-4.md) | 1 | 0 | 0 | 0 | 1 |
-| [RAO 17-5](../authorities/RAO-17-5.md) | 1 | 0 | 0 | 0 | 1 |
-| [RAO 19-2](../authorities/RAO-19-2.md) | 0 | 0 | 0 | 0 | 1 |
-| [RAO 19-5](../authorities/RAO-19-5.md) | 1 | 0 | 0 | 0 | 1 |
-| [RAO 20](../authorities/RAO-20.md) | 0 | 1 | 0 | 0 | 1 |
-| [RAO 40-10h](../authorities/RAO-40-10h.md) | 0 | 0 | 0 | 1 | 1 |
-| [RAO 82.b(2](../authorities/RAO-82-b-2.md) | 0 | 0 | 0 | 1 | 1 |
+| Provision | Cases | Inquiries | CCB advice | Overtures | RPR exceptions | Total |
+|-----------|------:|----------:|-----------:|----------:|---------------:|------:|
+| [BCO preface](../authorities/BCO-preface.md) | 4 | 1 | 5 | 34 | 1 | 45 |
+| [BCO pp-1](../authorities/BCO-pp-1.md) | 10 | 0 | 3 | 4 | 7 | 24 |
+| [BCO 1-3](../authorities/BCO-1-3.md) | 1 | 0 | 1 | 1 | 0 | 3 |
+| [BCO 1-4](../authorities/BCO-1-4.md) | 3 | 0 | 1 | 1 | 0 | 5 |
+| [BCO 1-5](../authorities/BCO-1-5.md) | 0 | 0 | 0 | 1 | 0 | 1 |
+| [BCO pp-2](../authorities/BCO-pp-2.md) | 5 | 0 | 4 | 1 | 2 | 12 |
+| [BCO 2-1](../authorities/BCO-2-1.md) | 0 | 0 | 1 | 0 | 0 | 1 |
+| [BCO 2-2](../authorities/BCO-2-2.md) | 3 | 1 | 0 | 8 | 0 | 12 |
+| [BCO 3](../authorities/BCO-3.md) | 1 | 0 | 0 | 1 | 0 | 2 |
+| [BCO pp-3](../authorities/BCO-pp-3.md) | 0 | 0 | 0 | 0 | 3 | 3 |
+| [BCO 3-1](../authorities/BCO-3-1.md) | 4 | 1 | 2 | 2 | 7 | 16 |
+| [BCO 3-2](../authorities/BCO-3-2.md) | 7 | 1 | 1 | 1 | 0 | 10 |
+| [BCO 3-3](../authorities/BCO-3-3.md) | 5 | 0 | 0 | 0 | 0 | 5 |
+| [BCO 3-4](../authorities/BCO-3-4.md) | 8 | 0 | 0 | 2 | 0 | 10 |
+| [BCO 3-5](../authorities/BCO-3-5.md) | 0 | 0 | 0 | 1 | 0 | 1 |
+| [BCO 3-6](../authorities/BCO-3-6.md) | 1 | 0 | 0 | 0 | 0 | 1 |
+| [BCO 3-7](../authorities/BCO-3-7.md) | 0 | 0 | 0 | 1 | 0 | 1 |
+| [BCO 4](../authorities/BCO-4.md) | 0 | 2 | 0 | 0 | 0 | 2 |
+| [BCO pp-4](../authorities/BCO-pp-4.md) | 0 | 0 | 0 | 2 | 0 | 2 |
+| [BCO 4-1](../authorities/BCO-4-1.md) | 2 | 0 | 0 | 2 | 0 | 4 |
+| [BCO 4-2](../authorities/BCO-4-2.md) | 1 | 0 | 1 | 1 | 0 | 3 |
+| [BCO 4-3](../authorities/BCO-4-3.md) | 4 | 5 | 0 | 1 | 0 | 10 |
+| [BCO 4-4](../authorities/BCO-4-4.md) | 5 | 0 | 0 | 2 | 2 | 9 |
+| [BCO 5](../authorities/BCO-5.md) | 2 | 0 | 0 | 1 | 1 | 4 |
+| [BCO pp-5](../authorities/BCO-pp-5.md) | 0 | 0 | 0 | 0 | 1 | 1 |
+| [BCO 5-1](../authorities/BCO-5-1.md) | 3 | 0 | 0 | 2 | 1 | 6 |
+| [BCO 5-2](../authorities/BCO-5-2.md) | 4 | 0 | 0 | 4 | 16 | 24 |
+| [BCO 5-3](../authorities/BCO-5-3.md) | 3 | 0 | 1 | 3 | 23 | 30 |
+| [BCO 5-4](../authorities/BCO-5-4.md) | 1 | 0 | 0 | 3 | 3 | 7 |
+| [BCO 5-5](../authorities/BCO-5-5.md) | 3 | 1 | 0 | 1 | 0 | 5 |
+| [BCO 5-6](../authorities/BCO-5-6.md) | 1 | 0 | 0 | 0 | 0 | 1 |
+| [BCO 5-8](../authorities/BCO-5-8.md) | 2 | 0 | 0 | 1 | 9 | 12 |
+| [BCO 5-9](../authorities/BCO-5-9.md) | 5 | 0 | 1 | 3 | 46 | 55 |
+| [BCO 5-10](../authorities/BCO-5-10.md) | 3 | 0 | 1 | 2 | 0 | 6 |
+| [BCO 5-11](../authorities/BCO-5-11.md) | 0 | 0 | 0 | 2 | 0 | 2 |
+| [BCO 5-11.3](../authorities/BCO-5-11-3.md) | 0 | 0 | 0 | 0 | 2 | 2 |
+| [BCO 5-12](../authorities/BCO-5-12.md) | 0 | 0 | 0 | 0 | 2 | 2 |
+| [BCO pp-6](../authorities/BCO-pp-6.md) | 12 | 0 | 2 | 3 | 54 | 71 |
+| [BCO 6](../authorities/BCO-6.md) | 0 | 0 | 1 | 1 | 0 | 2 |
+| [BCO 6-1](../authorities/BCO-6-1.md) | 2 | 0 | 1 | 2 | 0 | 5 |
+| [BCO 6-2](../authorities/BCO-6-2.md) | 1 | 2 | 1 | 5 | 2 | 11 |
+| [BCO 6-3](../authorities/BCO-6-3.md) | 0 | 0 | 0 | 1 | 0 | 1 |
+| [BCO 6-4](../authorities/BCO-6-4.md) | 3 | 1 | 2 | 1 | 0 | 7 |
+| [BCO 6-5](../authorities/BCO-6-5.md) | 2 | 0 | 1 | 2 | 0 | 5 |
+| [BCO 6-5.a](../authorities/BCO-6-5-a.md) | 1 | 0 | 0 | 0 | 0 | 1 |
+| [BCO 6-7](../authorities/BCO-6-7.md) | 0 | 0 | 0 | 1 | 0 | 1 |
+| [BCO 6-416](../authorities/BCO-6-416.md) | 0 | 0 | 0 | 1 | 0 | 1 |
+| [BCO pp-7](../authorities/BCO-pp-7.md) | 10 | 0 | 4 | 2 | 5 | 21 |
+| [BCO 7](../authorities/BCO-7.md) | 0 | 0 | 5 | 5 | 0 | 10 |
+| [BCO 7-1](../authorities/BCO-7-1.md) | 5 | 0 | 0 | 4 | 2 | 11 |
+| [BCO 7-2](../authorities/BCO-7-2.md) | 5 | 3 | 4 | 8 | 11 | 31 |
+| [BCO 7-3](../authorities/BCO-7-3.md) | 1 | 0 | 1 | 2 | 1 | 5 |
+| [BCO 7-4](../authorities/BCO-7-4.md) | 0 | 0 | 0 | 3 | 0 | 3 |
+| [BCO pp-8](../authorities/BCO-pp-8.md) | 13 | 0 | 1 | 0 | 1 | 15 |
+| [BCO 8](../authorities/BCO-8.md) | 1 | 0 | 0 | 2 | 1 | 4 |
+| [BCO 8-1](../authorities/BCO-8-1.md) | 0 | 0 | 0 | 6 | 1 | 7 |
+| [BCO 8-2](../authorities/BCO-8-2.md) | 2 | 3 | 1 | 2 | 0 | 8 |
+| [BCO 8-3](../authorities/BCO-8-3.md) | 2 | 1 | 1 | 7 | 0 | 11 |
+| [BCO 8-4](../authorities/BCO-8-4.md) | 0 | 1 | 1 | 3 | 21 | 26 |
+| [BCO 8-5](../authorities/BCO-8-5.md) | 1 | 0 | 0 | 1 | 0 | 2 |
+| [BCO 8-6](../authorities/BCO-8-6.md) | 0 | 1 | 1 | 6 | 16 | 24 |
+| [BCO 8-7](../authorities/BCO-8-7.md) | 3 | 1 | 2 | 3 | 198 | 207 |
+| [BCO 8-8](../authorities/BCO-8-8.md) | 0 | 0 | 0 | 3 | 5 | 8 |
+| [BCO 8-9](../authorities/BCO-8-9.md) | 1 | 0 | 2 | 3 | 1 | 7 |
+| [BCO 8-10](../authorities/BCO-8-10.md) | 0 | 0 | 1 | 0 | 2 | 3 |
+| [BCO 8-11](../authorities/BCO-8-11.md) | 0 | 0 | 0 | 1 | 0 | 1 |
+| [BCO 9](../authorities/BCO-9.md) | 2 | 0 | 0 | 1 | 0 | 3 |
+| [BCO 9-1](../authorities/BCO-9-1.md) | 1 | 0 | 0 | 2 | 0 | 3 |
+| [BCO 9-2](../authorities/BCO-9-2.md) | 2 | 1 | 2 | 5 | 2 | 12 |
+| [BCO 9-3](../authorities/BCO-9-3.md) | 4 | 1 | 2 | 2 | 10 | 19 |
+| [BCO 9-4](../authorities/BCO-9-4.md) | 2 | 1 | 0 | 2 | 0 | 5 |
+| [BCO 9-5](../authorities/BCO-9-5.md) | 0 | 0 | 0 | 2 | 0 | 2 |
+| [BCO 9-6](../authorities/BCO-9-6.md) | 0 | 0 | 0 | 1 | 0 | 1 |
+| [BCO 9-7](../authorities/BCO-9-7.md) | 2 | 0 | 4 | 8 | 4 | 18 |
+| [BCO 9-8](../authorities/BCO-9-8.md) | 0 | 0 | 1 | 1 | 0 | 2 |
+| [BCO 10](../authorities/BCO-10.md) | 0 | 0 | 1 | 0 | 1 | 2 |
+| [BCO 10-1](../authorities/BCO-10-1.md) | 3 | 0 | 0 | 0 | 0 | 3 |
+| [BCO 10-2](../authorities/BCO-10-2.md) | 0 | 1 | 0 | 1 | 0 | 2 |
+| [BCO 10-3](../authorities/BCO-10-3.md) | 0 | 2 | 0 | 2 | 5 | 9 |
+| [BCO 10-4](../authorities/BCO-10-4.md) | 6 | 2 | 0 | 1 | 2 | 11 |
+| [BCO 10-5](../authorities/BCO-10-5.md) | 0 | 0 | 0 | 0 | 8 | 8 |
+| [BCO 10-6](../authorities/BCO-10-6.md) | 0 | 0 | 0 | 12 | 0 | 12 |
+| [BCO 10-18](../authorities/BCO-10-18.md) | 1 | 0 | 0 | 0 | 0 | 1 |
+| [BCO 11](../authorities/BCO-11.md) | 5 | 0 | 0 | 0 | 0 | 5 |
+| [BCO 11-1](../authorities/BCO-11-1.md) | 3 | 0 | 0 | 2 | 0 | 5 |
+| [BCO 11-2](../authorities/BCO-11-2.md) | 13 | 1 | 2 | 1 | 2 | 19 |
+| [BCO 11-3](../authorities/BCO-11-3.md) | 17 | 0 | 1 | 8 | 0 | 26 |
+| [BCO 11-4](../authorities/BCO-11-4.md) | 43 | 2 | 6 | 9 | 7 | 67 |
+| [BCO 11-36](../authorities/BCO-11-36.md) | 0 | 0 | 0 | 1 | 0 | 1 |
+| [BCO 12](../authorities/BCO-12.md) | 2 | 0 | 0 | 3 | 0 | 5 |
+| [BCO 12-1](../authorities/BCO-12-1.md) | 7 | 5 | 1 | 3 | 2 | 18 |
+| [BCO 12-2](../authorities/BCO-12-2.md) | 4 | 2 | 1 | 4 | 0 | 11 |
+| [BCO 12-3](../authorities/BCO-12-3.md) | 1 | 1 | 2 | 1 | 7 | 12 |
+| [BCO 12-4](../authorities/BCO-12-4.md) | 0 | 1 | 1 | 1 | 1 | 4 |
+| [BCO 12-5](../authorities/BCO-12-5.md) | 30 | 6 | 3 | 7 | 12 | 58 |
+| [BCO 12-6](../authorities/BCO-12-6.md) | 3 | 0 | 0 | 1 | 1 | 5 |
+| [BCO 12-7](../authorities/BCO-12-7.md) | 3 | 1 | 0 | 0 | 13 | 17 |
+| [BCO 12-8](../authorities/BCO-12-8.md) | 0 | 0 | 0 | 0 | 2 | 2 |
+| [BCO 13](../authorities/BCO-13.md) | 3 | 0 | 0 | 4 | 4 | 11 |
+| [BCO 13-1](../authorities/BCO-13-1.md) | 11 | 3 | 9 | 11 | 17 | 51 |
+| [BCO 13-2](../authorities/BCO-13-2.md) | 11 | 5 | 6 | 16 | 77 | 115 |
+| [BCO 13-3](../authorities/BCO-13-3.md) | 2 | 1 | 0 | 1 | 1 | 5 |
+| [BCO 13-4](../authorities/BCO-13-4.md) | 0 | 1 | 0 | 1 | 66 | 68 |
+| [BCO 13-5](../authorities/BCO-13-5.md) | 0 | 1 | 1 | 5 | 26 | 33 |
+| [BCO 13-6](../authorities/BCO-13-6.md) | 13 | 5 | 10 | 17 | 323 | 368 |
+| [BCO 13-7](../authorities/BCO-13-7.md) | 0 | 0 | 0 | 2 | 122 | 124 |
+| [BCO 13-8](../authorities/BCO-13-8.md) | 1 | 1 | 0 | 2 | 34 | 38 |
+| [BCO 13-9](../authorities/BCO-13-9.md) | 69 | 6 | 5 | 15 | 253 | 348 |
+| [BCO 13-10](../authorities/BCO-13-10.md) | 3 | 1 | 0 | 4 | 71 | 79 |
+| [BCO 13-11](../authorities/BCO-13-11.md) | 3 | 0 | 0 | 0 | 213 | 216 |
+| [BCO 13-12](../authorities/BCO-13-12.md) | 6 | 0 | 1 | 4 | 128 | 139 |
+| [BCO 13-13](../authorities/BCO-13-13.md) | 1 | 0 | 0 | 0 | 0 | 1 |
+| [BCO 13-19.b](../authorities/BCO-13-19-b.md) | 0 | 0 | 0 | 0 | 1 | 1 |
+| [BCO 14](../authorities/BCO-14.md) | 0 | 0 | 0 | 1 | 0 | 1 |
+| [BCO 14-1](../authorities/BCO-14-1.md) | 2 | 9 | 10 | 44 | 1 | 66 |
+| [BCO 14-2](../authorities/BCO-14-2.md) | 2 | 0 | 4 | 41 | 0 | 47 |
+| [BCO 14-3](../authorities/BCO-14-3.md) | 1 | 0 | 0 | 2 | 0 | 3 |
+| [BCO 14-4](../authorities/BCO-14-4.md) | 1 | 0 | 0 | 0 | 0 | 1 |
+| [BCO 14-5](../authorities/BCO-14-5.md) | 1 | 0 | 0 | 2 | 0 | 3 |
+| [BCO 14-6](../authorities/BCO-14-6.md) | 9 | 2 | 0 | 14 | 5 | 30 |
+| [BCO 14-7](../authorities/BCO-14-7.md) | 25 | 1 | 0 | 9 | 0 | 35 |
+| [BCO 14-9.b](../authorities/BCO-14-9-b.md) | 0 | 0 | 0 | 0 | 1 | 1 |
+| [BCO 14-46](../authorities/BCO-14-46.md) | 0 | 0 | 0 | 2 | 0 | 2 |
+| [BCO 14-71](../authorities/BCO-14-71.md) | 0 | 1 | 0 | 0 | 0 | 1 |
+| [BCO 15](../authorities/BCO-15.md) | 2 | 0 | 2 | 4 | 8 | 16 |
+| [BCO 15-1](../authorities/BCO-15-1.md) | 35 | 6 | 4 | 29 | 283 | 357 |
+| [BCO 15-2](../authorities/BCO-15-2.md) | 19 | 3 | 1 | 5 | 123 | 151 |
+| [BCO 15-3](../authorities/BCO-15-3.md) | 45 | 1 | 3 | 11 | 23 | 83 |
+| [BCO 15-4](../authorities/BCO-15-4.md) | 11 | 1 | 6 | 23 | 0 | 41 |
+| [BCO 15-5](../authorities/BCO-15-5.md) | 20 | 2 | 5 | 13 | 0 | 40 |
+| [BCO 15-6](../authorities/BCO-15-6.md) | 0 | 0 | 0 | 2 | 0 | 2 |
+| [BCO 15-15](../authorities/BCO-15-15.md) | 0 | 1 | 0 | 0 | 0 | 1 |
+| [BCO 16](../authorities/BCO-16.md) | 1 | 0 | 1 | 1 | 0 | 3 |
+| [BCO 16-1](../authorities/BCO-16-1.md) | 4 | 0 | 0 | 0 | 1 | 5 |
+| [BCO 16-2](../authorities/BCO-16-2.md) | 17 | 0 | 0 | 2 | 8 | 27 |
+| [BCO 16-3](../authorities/BCO-16-3.md) | 1 | 0 | 0 | 1 | 0 | 2 |
+| [BCO 16-4](../authorities/BCO-16-4.md) | 0 | 0 | 4 | 2 | 0 | 6 |
+| [BCO 17](../authorities/BCO-17.md) | 0 | 0 | 2 | 1 | 0 | 3 |
+| [BCO 17-1](../authorities/BCO-17-1.md) | 3 | 0 | 1 | 0 | 1 | 5 |
+| [BCO 17-2](../authorities/BCO-17-2.md) | 2 | 0 | 0 | 1 | 1 | 4 |
+| [BCO 17-3](../authorities/BCO-17-3.md) | 0 | 0 | 1 | 0 | 0 | 1 |
+| [BCO 18](../authorities/BCO-18.md) | 0 | 1 | 0 | 0 | 11 | 12 |
+| [BCO 18-1](../authorities/BCO-18-1.md) | 0 | 2 | 0 | 0 | 4 | 6 |
+| [BCO 18-2](../authorities/BCO-18-2.md) | 0 | 3 | 1 | 2 | 262 | 268 |
+| [BCO 18-3](../authorities/BCO-18-3.md) | 1 | 2 | 0 | 0 | 64 | 67 |
+| [BCO 18-4](../authorities/BCO-18-4.md) | 1 | 1 | 0 | 1 | 0 | 3 |
+| [BCO 18-5](../authorities/BCO-18-5.md) | 0 | 0 | 0 | 0 | 5 | 5 |
+| [BCO 18-6](../authorities/BCO-18-6.md) | 0 | 0 | 0 | 0 | 51 | 51 |
+| [BCO 18-7](../authorities/BCO-18-7.md) | 1 | 1 | 0 | 2 | 21 | 25 |
+| [BCO 18-8](../authorities/BCO-18-8.md) | 0 | 0 | 0 | 1 | 3 | 4 |
+| [BCO 18-19](../authorities/BCO-18-19.md) | 0 | 0 | 0 | 0 | 2 | 2 |
+| [BCO 18-22](../authorities/BCO-18-22.md) | 0 | 0 | 0 | 0 | 1 | 1 |
+| [BCO 19](../authorities/BCO-19.md) | 0 | 1 | 0 | 0 | 9 | 10 |
+| [BCO 19-1](../authorities/BCO-19-1.md) | 3 | 3 | 0 | 5 | 39 | 50 |
+| [BCO 19-2](../authorities/BCO-19-2.md) | 3 | 3 | 0 | 11 | 247 | 264 |
+| [BCO 19-3](../authorities/BCO-19-3.md) | 3 | 1 | 0 | 0 | 25 | 29 |
+| [BCO 19-4](../authorities/BCO-19-4.md) | 1 | 0 | 0 | 0 | 10 | 11 |
+| [BCO 19-5](../authorities/BCO-19-5.md) | 0 | 1 | 0 | 1 | 11 | 13 |
+| [BCO 19-6](../authorities/BCO-19-6.md) | 2 | 0 | 0 | 3 | 7 | 12 |
+| [BCO 19-7](../authorities/BCO-19-7.md) | 1 | 3 | 0 | 3 | 26 | 33 |
+| [BCO 19-8](../authorities/BCO-19-8.md) | 0 | 1 | 0 | 1 | 2 | 4 |
+| [BCO 19-9](../authorities/BCO-19-9.md) | 0 | 0 | 0 | 0 | 16 | 16 |
+| [BCO 19-10](../authorities/BCO-19-10.md) | 0 | 0 | 0 | 1 | 3 | 4 |
+| [BCO 19-11](../authorities/BCO-19-11.md) | 0 | 0 | 0 | 2 | 0 | 2 |
+| [BCO 19-12](../authorities/BCO-19-12.md) | 0 | 0 | 0 | 2 | 42 | 44 |
+| [BCO 19-13](../authorities/BCO-19-13.md) | 2 | 0 | 0 | 0 | 7 | 9 |
+| [BCO 19-15](../authorities/BCO-19-15.md) | 1 | 0 | 0 | 0 | 0 | 1 |
+| [BCO 19-16](../authorities/BCO-19-16.md) | 2 | 1 | 0 | 0 | 46 | 49 |
+| [BCO 20](../authorities/BCO-20.md) | 7 | 1 | 1 | 2 | 8 | 19 |
+| [BCO 20-1](../authorities/BCO-20-1.md) | 5 | 7 | 1 | 6 | 230 | 249 |
+| [BCO 20-2](../authorities/BCO-20-2.md) | 10 | 0 | 2 | 5 | 4 | 21 |
+| [BCO 20-3](../authorities/BCO-20-3.md) | 3 | 0 | 4 | 4 | 1 | 12 |
+| [BCO 20-4](../authorities/BCO-20-4.md) | 5 | 2 | 2 | 1 | 1 | 11 |
+| [BCO 20-5](../authorities/BCO-20-5.md) | 5 | 0 | 1 | 0 | 0 | 6 |
+| [BCO 20-6](../authorities/BCO-20-6.md) | 5 | 5 | 0 | 2 | 6 | 18 |
+| [BCO 20-7](../authorities/BCO-20-7.md) | 0 | 0 | 0 | 0 | 1 | 1 |
+| [BCO 20-8](../authorities/BCO-20-8.md) | 1 | 0 | 0 | 0 | 7 | 8 |
+| [BCO 20-9](../authorities/BCO-20-9.md) | 1 | 0 | 0 | 0 | 11 | 12 |
+| [BCO 20-10](../authorities/BCO-20-10.md) | 3 | 0 | 0 | 0 | 1 | 4 |
+| [BCO 20-11](../authorities/BCO-20-11.md) | 0 | 0 | 0 | 0 | 1 | 1 |
+| [BCO 20-12](../authorities/BCO-20-12.md) | 0 | 0 | 0 | 0 | 1 | 1 |
+| [BCO 21](../authorities/BCO-21.md) | 3 | 0 | 1 | 1 | 11 | 16 |
+| [BCO 21-1](../authorities/BCO-21-1.md) | 6 | 4 | 2 | 8 | 39 | 59 |
+| [BCO 21-2](../authorities/BCO-21-2.md) | 0 | 1 | 0 | 1 | 18 | 20 |
+| [BCO 21-3](../authorities/BCO-21-3.md) | 0 | 0 | 0 | 0 | 1 | 1 |
+| [BCO 21-4](../authorities/BCO-21-4.md) | 22 | 15 | 17 | 38 | 1016 | 1108 |
+| [BCO 21-5](../authorities/BCO-21-5.md) | 33 | 7 | 7 | 18 | 49 | 114 |
+| [BCO 21-6](../authorities/BCO-21-6.md) | 5 | 1 | 1 | 1 | 17 | 25 |
+| [BCO 21-7](../authorities/BCO-21-7.md) | 3 | 1 | 1 | 1 | 14 | 20 |
+| [BCO 21-8](../authorities/BCO-21-8.md) | 1 | 0 | 1 | 2 | 1 | 5 |
+| [BCO 21-9](../authorities/BCO-21-9.md) | 1 | 1 | 0 | 0 | 17 | 19 |
+| [BCO 21-10](../authorities/BCO-21-10.md) | 1 | 0 | 1 | 1 | 7 | 10 |
+| [BCO 21-11](../authorities/BCO-21-11.md) | 0 | 0 | 0 | 0 | 3 | 3 |
+| [BCO 21-12](../authorities/BCO-21-12.md) | 0 | 0 | 1 | 1 | 0 | 2 |
+| [BCO 21-14](../authorities/BCO-21-14.md) | 0 | 0 | 0 | 0 | 1 | 1 |
+| [BCO 22](../authorities/BCO-22.md) | 1 | 0 | 2 | 1 | 1 | 5 |
+| [BCO 22-1](../authorities/BCO-22-1.md) | 0 | 0 | 1 | 1 | 3 | 5 |
+| [BCO 22-2](../authorities/BCO-22-2.md) | 3 | 4 | 0 | 2 | 12 | 21 |
+| [BCO 22-3](../authorities/BCO-22-3.md) | 2 | 2 | 2 | 2 | 7 | 15 |
+| [BCO 22-4](../authorities/BCO-22-4.md) | 3 | 2 | 1 | 4 | 10 | 20 |
+| [BCO 22-5](../authorities/BCO-22-5.md) | 2 | 1 | 0 | 3 | 16 | 22 |
+| [BCO 22-6](../authorities/BCO-22-6.md) | 5 | 1 | 0 | 1 | 10 | 17 |
+| [BCO 23](../authorities/BCO-23.md) | 2 | 0 | 1 | 0 | 2 | 5 |
+| [BCO 23-1](../authorities/BCO-23-1.md) | 14 | 4 | 3 | 8 | 337 | 366 |
+| [BCO 23-2](../authorities/BCO-23-2.md) | 2 | 0 | 3 | 3 | 3 | 11 |
+| [BCO 23-3](../authorities/BCO-23-3.md) | 0 | 0 | 0 | 1 | 1 | 2 |
+| [BCO 23-7](../authorities/BCO-23-7.md) | 0 | 0 | 0 | 1 | 0 | 1 |
+| [BCO 23-10](../authorities/BCO-23-10.md) | 0 | 0 | 0 | 0 | 2 | 2 |
+| [BCO 23-21](../authorities/BCO-23-21.md) | 0 | 0 | 0 | 1 | 0 | 1 |
+| [BCO 24](../authorities/BCO-24.md) | 2 | 0 | 2 | 3 | 3 | 10 |
+| [BCO 24-1](../authorities/BCO-24-1.md) | 15 | 7 | 14 | 28 | 35 | 99 |
+| [BCO 24-2](../authorities/BCO-24-2.md) | 0 | 1 | 0 | 1 | 0 | 2 |
+| [BCO 24-3](../authorities/BCO-24-3.md) | 2 | 2 | 5 | 4 | 0 | 13 |
+| [BCO 24-4](../authorities/BCO-24-4.md) | 1 | 1 | 1 | 0 | 3 | 6 |
+| [BCO 24-5](../authorities/BCO-24-5.md) | 5 | 2 | 1 | 9 | 1 | 18 |
+| [BCO 24-6](../authorities/BCO-24-6.md) | 21 | 6 | 1 | 1 | 5 | 34 |
+| [BCO 24-7](../authorities/BCO-24-7.md) | 23 | 2 | 2 | 2 | 0 | 29 |
+| [BCO 24-8](../authorities/BCO-24-8.md) | 1 | 1 | 0 | 0 | 0 | 2 |
+| [BCO 24-9](../authorities/BCO-24-9.md) | 1 | 3 | 3 | 10 | 0 | 17 |
+| [BCO 24-10](../authorities/BCO-24-10.md) | 4 | 0 | 0 | 0 | 0 | 4 |
+| [BCO 24-11](../authorities/BCO-24-11.md) | 0 | 0 | 2 | 2 | 0 | 4 |
+| [BCO 25](../authorities/BCO-25.md) | 4 | 0 | 1 | 3 | 0 | 8 |
+| [BCO 25-1](../authorities/BCO-25-1.md) | 2 | 1 | 3 | 6 | 0 | 12 |
+| [BCO 25-2](../authorities/BCO-25-2.md) | 9 | 1 | 3 | 4 | 0 | 17 |
+| [BCO 25-3](../authorities/BCO-25-3.md) | 2 | 1 | 1 | 3 | 0 | 7 |
+| [BCO 25-4](../authorities/BCO-25-4.md) | 3 | 0 | 0 | 1 | 0 | 4 |
+| [BCO 25-5](../authorities/BCO-25-5.md) | 2 | 1 | 0 | 0 | 0 | 3 |
+| [BCO 25-6](../authorities/BCO-25-6.md) | 1 | 1 | 0 | 2 | 0 | 4 |
+| [BCO 25-7](../authorities/BCO-25-7.md) | 4 | 1 | 2 | 3 | 0 | 10 |
+| [BCO 25-8](../authorities/BCO-25-8.md) | 0 | 1 | 0 | 0 | 0 | 1 |
+| [BCO 25-9](../authorities/BCO-25-9.md) | 2 | 0 | 0 | 0 | 0 | 2 |
+| [BCO 25-10](../authorities/BCO-25-10.md) | 3 | 1 | 0 | 1 | 0 | 5 |
+| [BCO 25-11](../authorities/BCO-25-11.md) | 15 | 3 | 4 | 5 | 17 | 44 |
+| [BCO 25-12](../authorities/BCO-25-12.md) | 4 | 1 | 1 | 2 | 1 | 9 |
+| [BCO 25-14](../authorities/BCO-25-14.md) | 1 | 0 | 0 | 0 | 0 | 1 |
+| [BCO 26](../authorities/BCO-26.md) | 4 | 1 | 0 | 0 | 0 | 5 |
+| [BCO 26-1](../authorities/BCO-26-1.md) | 2 | 0 | 1 | 3 | 3 | 9 |
+| [BCO 26-2](../authorities/BCO-26-2.md) | 2 | 0 | 8 | 5 | 0 | 15 |
+| [BCO 26-3](../authorities/BCO-26-3.md) | 2 | 0 | 0 | 2 | 0 | 4 |
+| [BCO 26-4](../authorities/BCO-26-4.md) | 0 | 0 | 0 | 0 | 1 | 1 |
+| [BCO 26-5](../authorities/BCO-26-5.md) | 0 | 0 | 0 | 2 | 0 | 2 |
+| [BCO 26-6](../authorities/BCO-26-6.md) | 1 | 0 | 0 | 0 | 0 | 1 |
+| [BCO 26-11](../authorities/BCO-26-11.md) | 0 | 0 | 0 | 2 | 0 | 2 |
+| [BCO 27](../authorities/BCO-27.md) | 1 | 0 | 0 | 4 | 0 | 5 |
+| [BCO 27-1](../authorities/BCO-27-1.md) | 7 | 0 | 0 | 1 | 0 | 8 |
+| [BCO 27-2](../authorities/BCO-27-2.md) | 3 | 0 | 0 | 3 | 0 | 6 |
+| [BCO 27-3](../authorities/BCO-27-3.md) | 11 | 0 | 0 | 1 | 0 | 12 |
+| [BCO 27-4](../authorities/BCO-27-4.md) | 10 | 0 | 0 | 0 | 0 | 10 |
+| [BCO 27-5](../authorities/BCO-27-5.md) | 11 | 9 | 0 | 3 | 0 | 23 |
+| [BCO 27-11](../authorities/BCO-27-11.md) | 0 | 0 | 0 | 1 | 0 | 1 |
+| [BCO 27-37](../authorities/BCO-27-37.md) | 1 | 1 | 0 | 0 | 0 | 2 |
+| [BCO 27-46](../authorities/BCO-27-46.md) | 0 | 0 | 0 | 1 | 0 | 1 |
+| [BCO 28-1](../authorities/BCO-28-1.md) | 2 | 0 | 0 | 0 | 0 | 2 |
+| [BCO 28-3](../authorities/BCO-28-3.md) | 1 | 1 | 0 | 0 | 0 | 2 |
+| [BCO 28-4](../authorities/BCO-28-4.md) | 0 | 0 | 0 | 1 | 0 | 1 |
+| [BCO 28-5](../authorities/BCO-28-5.md) | 0 | 0 | 0 | 1 | 0 | 1 |
+| [BCO 29](../authorities/BCO-29.md) | 7 | 0 | 0 | 1 | 0 | 8 |
+| [BCO 29-1](../authorities/BCO-29-1.md) | 33 | 0 | 2 | 4 | 1 | 40 |
+| [BCO 29-2](../authorities/BCO-29-2.md) | 4 | 0 | 1 | 1 | 0 | 6 |
+| [BCO 29-3](../authorities/BCO-29-3.md) | 4 | 0 | 0 | 0 | 0 | 4 |
+| [BCO 29-4](../authorities/BCO-29-4.md) | 4 | 0 | 0 | 0 | 0 | 4 |
+| [BCO 30](../authorities/BCO-30.md) | 13 | 0 | 0 | 1 | 4 | 18 |
+| [BCO 30-1](../authorities/BCO-30-1.md) | 18 | 2 | 1 | 4 | 4 | 29 |
+| [BCO 30-2](../authorities/BCO-30-2.md) | 4 | 2 | 0 | 2 | 1 | 9 |
+| [BCO 30-3](../authorities/BCO-30-3.md) | 23 | 0 | 1 | 2 | 1 | 27 |
+| [BCO 30-4](../authorities/BCO-30-4.md) | 12 | 1 | 1 | 1 | 0 | 15 |
+| [BCO 30-5](../authorities/BCO-30-5.md) | 5 | 2 | 0 | 0 | 0 | 7 |
+| [BCO 31](../authorities/BCO-31.md) | 8 | 1 | 1 | 1 | 1 | 12 |
+| [BCO 31-1](../authorities/BCO-31-1.md) | 15 | 0 | 0 | 0 | 2 | 17 |
+| [BCO 31-2](../authorities/BCO-31-2.md) | 122 | 3 | 13 | 15 | 13 | 166 |
+| [BCO 31-3](../authorities/BCO-31-3.md) | 15 | 0 | 0 | 1 | 1 | 17 |
+| [BCO 31-4](../authorities/BCO-31-4.md) | 5 | 0 | 0 | 0 | 0 | 5 |
+| [BCO 31-5](../authorities/BCO-31-5.md) | 13 | 0 | 0 | 0 | 0 | 13 |
+| [BCO 31-6](../authorities/BCO-31-6.md) | 3 | 0 | 1 | 0 | 0 | 4 |
+| [BCO 31-7](../authorities/BCO-31-7.md) | 21 | 0 | 1 | 0 | 0 | 22 |
+| [BCO 31-8](../authorities/BCO-31-8.md) | 23 | 1 | 0 | 1 | 2 | 27 |
+| [BCO 31-9](../authorities/BCO-31-9.md) | 9 | 0 | 1 | 1 | 0 | 11 |
+| [BCO 31-10](../authorities/BCO-31-10.md) | 22 | 0 | 5 | 5 | 0 | 32 |
+| [BCO 31-11](../authorities/BCO-31-11.md) | 1 | 0 | 0 | 0 | 0 | 1 |
+| [BCO 31-33](../authorities/BCO-31-33.md) | 0 | 0 | 0 | 4 | 0 | 4 |
+| [BCO 31-38](../authorities/BCO-31-38.md) | 1 | 0 | 0 | 0 | 0 | 1 |
+| [BCO 32](../authorities/BCO-32.md) | 19 | 1 | 0 | 1 | 1 | 22 |
+| [BCO 32-1](../authorities/BCO-32-1.md) | 3 | 0 | 0 | 2 | 0 | 5 |
+| [BCO 32-2](../authorities/BCO-32-2.md) | 39 | 0 | 3 | 5 | 5 | 52 |
+| [BCO 32-3](../authorities/BCO-32-3.md) | 49 | 1 | 1 | 6 | 4 | 61 |
+| [BCO 32-4](../authorities/BCO-32-4.md) | 10 | 0 | 0 | 1 | 1 | 12 |
+| [BCO 32-5](../authorities/BCO-32-5.md) | 12 | 0 | 0 | 0 | 1 | 13 |
+| [BCO 32-6](../authorities/BCO-32-6.md) | 24 | 0 | 1 | 3 | 2 | 30 |
+| [BCO 32-7](../authorities/BCO-32-7.md) | 3 | 0 | 1 | 0 | 0 | 4 |
+| [BCO 32-8](../authorities/BCO-32-8.md) | 5 | 0 | 1 | 1 | 0 | 7 |
+| [BCO 32-9](../authorities/BCO-32-9.md) | 1 | 0 | 0 | 0 | 0 | 1 |
+| [BCO 32-10](../authorities/BCO-32-10.md) | 1 | 0 | 1 | 0 | 0 | 2 |
+| [BCO 32-11](../authorities/BCO-32-11.md) | 2 | 0 | 0 | 0 | 0 | 2 |
+| [BCO 32-12](../authorities/BCO-32-12.md) | 4 | 0 | 0 | 0 | 0 | 4 |
+| [BCO 32-13](../authorities/BCO-32-13.md) | 11 | 0 | 4 | 1 | 0 | 16 |
+| [BCO 32-14](../authorities/BCO-32-14.md) | 10 | 0 | 0 | 0 | 0 | 10 |
+| [BCO 32-15](../authorities/BCO-32-15.md) | 3 | 0 | 1 | 0 | 0 | 4 |
+| [BCO 32-16](../authorities/BCO-32-16.md) | 6 | 0 | 1 | 0 | 0 | 7 |
+| [BCO 32-17](../authorities/BCO-32-17.md) | 8 | 0 | 1 | 1 | 0 | 10 |
+| [BCO 32-18](../authorities/BCO-32-18.md) | 14 | 0 | 2 | 5 | 2 | 23 |
+| [BCO 32-19](../authorities/BCO-32-19.md) | 13 | 0 | 4 | 6 | 0 | 23 |
+| [BCO 32-20](../authorities/BCO-32-20.md) | 26 | 0 | 1 | 1 | 0 | 28 |
+| [BCO 32-21](../authorities/BCO-32-21.md) | 0 | 0 | 1 | 1 | 0 | 2 |
+| [BCO 32-30](../authorities/BCO-32-30.md) | 2 | 0 | 0 | 0 | 0 | 2 |
+| [BCO 33](../authorities/BCO-33.md) | 3 | 0 | 0 | 0 | 0 | 3 |
+| [BCO 33-1](../authorities/BCO-33-1.md) | 25 | 0 | 3 | 9 | 0 | 37 |
+| [BCO 33-2](../authorities/BCO-33-2.md) | 15 | 0 | 1 | 0 | 0 | 16 |
+| [BCO 33-3](../authorities/BCO-33-3.md) | 6 | 1 | 1 | 0 | 0 | 8 |
+| [BCO 33-4](../authorities/BCO-33-4.md) | 3 | 0 | 3 | 0 | 0 | 6 |
+| [BCO 33-5](../authorities/BCO-33-5.md) | 0 | 0 | 1 | 1 | 0 | 2 |
+| [BCO 34](../authorities/BCO-34.md) | 5 | 1 | 0 | 0 | 5 | 11 |
+| [BCO 34-1](../authorities/BCO-34-1.md) | 36 | 2 | 5 | 23 | 1 | 67 |
+| [BCO 34-2](../authorities/BCO-34-2.md) | 12 | 1 | 1 | 1 | 0 | 15 |
+| [BCO 34-3](../authorities/BCO-34-3.md) | 6 | 0 | 0 | 0 | 1 | 7 |
+| [BCO 34-4](../authorities/BCO-34-4.md) | 17 | 0 | 1 | 1 | 3 | 22 |
+| [BCO 34-5](../authorities/BCO-34-5.md) | 22 | 1 | 0 | 0 | 1 | 24 |
+| [BCO 34-6](../authorities/BCO-34-6.md) | 5 | 0 | 0 | 0 | 0 | 5 |
+| [BCO 34-7](../authorities/BCO-34-7.md) | 9 | 0 | 0 | 0 | 4 | 13 |
+| [BCO 34-8](../authorities/BCO-34-8.md) | 7 | 3 | 1 | 5 | 2 | 18 |
+| [BCO 34-9](../authorities/BCO-34-9.md) | 3 | 0 | 0 | 0 | 1 | 4 |
+| [BCO 34-10](../authorities/BCO-34-10.md) | 15 | 3 | 2 | 3 | 53 | 76 |
+| [BCO 35](../authorities/BCO-35.md) | 9 | 0 | 1 | 1 | 0 | 11 |
+| [BCO 35-1](../authorities/BCO-35-1.md) | 21 | 0 | 6 | 7 | 0 | 34 |
+| [BCO 35-2](../authorities/BCO-35-2.md) | 5 | 0 | 0 | 1 | 0 | 6 |
+| [BCO 35-3](../authorities/BCO-35-3.md) | 9 | 0 | 1 | 0 | 1 | 11 |
+| [BCO 35-4](../authorities/BCO-35-4.md) | 2 | 0 | 2 | 0 | 0 | 4 |
+| [BCO 35-5](../authorities/BCO-35-5.md) | 9 | 0 | 2 | 0 | 0 | 11 |
+| [BCO 35-6](../authorities/BCO-35-6.md) | 0 | 0 | 2 | 0 | 0 | 2 |
+| [BCO 35-7](../authorities/BCO-35-7.md) | 15 | 0 | 1 | 3 | 0 | 19 |
+| [BCO 35-8](../authorities/BCO-35-8.md) | 3 | 0 | 2 | 2 | 0 | 7 |
+| [BCO 35-9](../authorities/BCO-35-9.md) | 1 | 0 | 1 | 1 | 0 | 3 |
+| [BCO 35-10](../authorities/BCO-35-10.md) | 2 | 0 | 1 | 0 | 0 | 3 |
+| [BCO 35-11](../authorities/BCO-35-11.md) | 5 | 0 | 0 | 1 | 0 | 6 |
+| [BCO 35-12](../authorities/BCO-35-12.md) | 4 | 0 | 0 | 0 | 0 | 4 |
+| [BCO 35-13](../authorities/BCO-35-13.md) | 4 | 0 | 0 | 0 | 0 | 4 |
+| [BCO 35-14](../authorities/BCO-35-14.md) | 5 | 0 | 0 | 0 | 0 | 5 |
+| [BCO 35-15](../authorities/BCO-35-15.md) | 1 | 0 | 0 | 0 | 0 | 1 |
+| [BCO 36](../authorities/BCO-36.md) | 7 | 0 | 1 | 2 | 0 | 10 |
+| [BCO 36-1](../authorities/BCO-36-1.md) | 3 | 0 | 0 | 0 | 2 | 5 |
+| [BCO 36-2](../authorities/BCO-36-2.md) | 3 | 0 | 2 | 0 | 0 | 5 |
+| [BCO 36-3](../authorities/BCO-36-3.md) | 6 | 2 | 1 | 0 | 0 | 9 |
+| [BCO 36-4](../authorities/BCO-36-4.md) | 4 | 0 | 2 | 1 | 0 | 7 |
+| [BCO 36-5](../authorities/BCO-36-5.md) | 17 | 0 | 1 | 4 | 1 | 23 |
+| [BCO 36-6](../authorities/BCO-36-6.md) | 5 | 0 | 2 | 1 | 3 | 11 |
+| [BCO 36-7](../authorities/BCO-36-7.md) | 8 | 2 | 1 | 1 | 1 | 13 |
+| [BCO 37](../authorities/BCO-37.md) | 4 | 0 | 0 | 1 | 0 | 5 |
+| [BCO 37-1](../authorities/BCO-37-1.md) | 0 | 0 | 1 | 0 | 4 | 5 |
+| [BCO 37-2](../authorities/BCO-37-2.md) | 3 | 0 | 0 | 1 | 0 | 4 |
+| [BCO 37-3](../authorities/BCO-37-3.md) | 12 | 0 | 2 | 3 | 0 | 17 |
+| [BCO 37-4](../authorities/BCO-37-4.md) | 6 | 2 | 2 | 4 | 0 | 14 |
+| [BCO 37-5](../authorities/BCO-37-5.md) | 2 | 0 | 1 | 0 | 1 | 4 |
+| [BCO 37-6](../authorities/BCO-37-6.md) | 0 | 0 | 0 | 1 | 0 | 1 |
+| [BCO 37-7](../authorities/BCO-37-7.md) | 1 | 3 | 2 | 2 | 0 | 8 |
+| [BCO 37-8](../authorities/BCO-37-8.md) | 5 | 0 | 0 | 0 | 0 | 5 |
+| [BCO 37-9](../authorities/BCO-37-9.md) | 3 | 0 | 0 | 1 | 1 | 5 |
+| [BCO 38](../authorities/BCO-38.md) | 9 | 0 | 0 | 1 | 2 | 12 |
+| [BCO 38-1](../authorities/BCO-38-1.md) | 35 | 0 | 7 | 11 | 21 | 74 |
+| [BCO 38-2](../authorities/BCO-38-2.md) | 5 | 3 | 0 | 11 | 38 | 57 |
+| [BCO 38-3](../authorities/BCO-38-3.md) | 18 | 3 | 4 | 9 | 30 | 64 |
+| [BCO 38-4](../authorities/BCO-38-4.md) | 10 | 1 | 1 | 3 | 0 | 15 |
+| [BCO 38-31](../authorities/BCO-38-31.md) | 0 | 0 | 0 | 1 | 0 | 1 |
+| [BCO 39](../authorities/BCO-39.md) | 7 | 0 | 0 | 0 | 0 | 7 |
+| [BCO 39-1](../authorities/BCO-39-1.md) | 4 | 0 | 1 | 0 | 0 | 5 |
+| [BCO 39-2](../authorities/BCO-39-2.md) | 8 | 1 | 0 | 0 | 3 | 12 |
+| [BCO 39-3](../authorities/BCO-39-3.md) | 98 | 2 | 0 | 1 | 0 | 101 |
+| [BCO 39-4](../authorities/BCO-39-4.md) | 1 | 0 | 0 | 0 | 0 | 1 |
+| [BCO 40](../authorities/BCO-40.md) | 15 | 2 | 0 | 2 | 8 | 27 |
+| [BCO 40-1](../authorities/BCO-40-1.md) | 17 | 2 | 0 | 0 | 57 | 76 |
+| [BCO 40-2](../authorities/BCO-40-2.md) | 13 | 3 | 0 | 1 | 12 | 29 |
+| [BCO 40-3](../authorities/BCO-40-3.md) | 10 | 3 | 1 | 1 | 12 | 27 |
+| [BCO 40-4](../authorities/BCO-40-4.md) | 25 | 2 | 2 | 3 | 3 | 35 |
+| [BCO 40-5](../authorities/BCO-40-5.md) | 65 | 6 | 3 | 5 | 0 | 79 |
+| [BCO 40-6](../authorities/BCO-40-6.md) | 7 | 0 | 1 | 0 | 0 | 8 |
+| [BCO 40-43](../authorities/BCO-40-43.md) | 1 | 0 | 0 | 0 | 0 | 1 |
+| [BCO 40-52](../authorities/BCO-40-52.md) | 1 | 0 | 0 | 0 | 0 | 1 |
+| [BCO 41](../authorities/BCO-41.md) | 18 | 0 | 0 | 3 | 2 | 23 |
+| [BCO 41-1](../authorities/BCO-41-1.md) | 10 | 3 | 0 | 1 | 0 | 14 |
+| [BCO 41-2](../authorities/BCO-41-2.md) | 4 | 1 | 0 | 0 | 0 | 5 |
+| [BCO 41-3](../authorities/BCO-41-3.md) | 15 | 4 | 1 | 1 | 0 | 21 |
+| [BCO 41-4](../authorities/BCO-41-4.md) | 1 | 1 | 0 | 0 | 0 | 2 |
+| [BCO 41-5](../authorities/BCO-41-5.md) | 7 | 5 | 1 | 2 | 0 | 15 |
+| [BCO 41-6](../authorities/BCO-41-6.md) | 1 | 1 | 0 | 0 | 0 | 2 |
+| [BCO 42](../authorities/BCO-42.md) | 12 | 1 | 0 | 1 | 0 | 14 |
+| [BCO 42-1](../authorities/BCO-42-1.md) | 9 | 0 | 0 | 0 | 2 | 11 |
+| [BCO 42-2](../authorities/BCO-42-2.md) | 24 | 0 | 4 | 1 | 0 | 29 |
+| [BCO 42-3](../authorities/BCO-42-3.md) | 28 | 0 | 1 | 0 | 0 | 29 |
+| [BCO 42-4](../authorities/BCO-42-4.md) | 15 | 1 | 2 | 5 | 1 | 24 |
+| [BCO 42-5](../authorities/BCO-42-5.md) | 10 | 0 | 0 | 1 | 1 | 12 |
+| [BCO 42-6](../authorities/BCO-42-6.md) | 24 | 3 | 3 | 2 | 1 | 33 |
+| [BCO 42-7](../authorities/BCO-42-7.md) | 7 | 0 | 0 | 0 | 0 | 7 |
+| [BCO 42-8](../authorities/BCO-42-8.md) | 8 | 0 | 0 | 0 | 0 | 8 |
+| [BCO 42-9](../authorities/BCO-42-9.md) | 27 | 0 | 0 | 0 | 0 | 27 |
+| [BCO 42-10](../authorities/BCO-42-10.md) | 1 | 0 | 0 | 0 | 0 | 1 |
+| [BCO 42-11](../authorities/BCO-42-11.md) | 1 | 1 | 0 | 0 | 0 | 2 |
+| [BCO 42-12](../authorities/BCO-42-12.md) | 1 | 0 | 0 | 0 | 0 | 1 |
+| [BCO 42-13](../authorities/BCO-42-13.md) | 0 | 0 | 1 | 1 | 0 | 2 |
+| [BCO 43](../authorities/BCO-43.md) | 47 | 0 | 2 | 3 | 1 | 53 |
+| [BCO 43-1](../authorities/BCO-43-1.md) | 97 | 3 | 4 | 4 | 4 | 112 |
+| [BCO 43-2](../authorities/BCO-43-2.md) | 74 | 2 | 4 | 6 | 5 | 91 |
+| [BCO 43-3](../authorities/BCO-43-3.md) | 35 | 1 | 3 | 4 | 1 | 44 |
+| [BCO 43-4](../authorities/BCO-43-4.md) | 9 | 5 | 0 | 0 | 0 | 14 |
+| [BCO 43-5](../authorities/BCO-43-5.md) | 8 | 0 | 0 | 1 | 0 | 9 |
+| [BCO 43-6](../authorities/BCO-43-6.md) | 13 | 1 | 0 | 0 | 1 | 15 |
+| [BCO 43-7](../authorities/BCO-43-7.md) | 6 | 0 | 0 | 0 | 0 | 6 |
+| [BCO 43-8](../authorities/BCO-43-8.md) | 13 | 0 | 0 | 0 | 9 | 22 |
+| [BCO 43-9](../authorities/BCO-43-9.md) | 22 | 0 | 0 | 0 | 0 | 22 |
+| [BCO 43-10](../authorities/BCO-43-10.md) | 39 | 1 | 0 | 1 | 2 | 43 |
+| [BCO 43-11](../authorities/BCO-43-11.md) | 0 | 0 | 1 | 1 | 0 | 2 |
+| [BCO 44-3](../authorities/BCO-44-3.md) | 1 | 0 | 0 | 0 | 0 | 1 |
+| [BCO 45](../authorities/BCO-45.md) | 4 | 3 | 0 | 0 | 0 | 7 |
+| [BCO 45-1](../authorities/BCO-45-1.md) | 9 | 0 | 1 | 1 | 0 | 11 |
+| [BCO 45-2](../authorities/BCO-45-2.md) | 1 | 0 | 0 | 0 | 0 | 1 |
+| [BCO 45-3](../authorities/BCO-45-3.md) | 1 | 0 | 0 | 0 | 0 | 1 |
+| [BCO 45-4](../authorities/BCO-45-4.md) | 3 | 0 | 1 | 1 | 0 | 5 |
+| [BCO 45-5](../authorities/BCO-45-5.md) | 5 | 1 | 0 | 0 | 2 | 8 |
+| [BCO 45-6](../authorities/BCO-45-6.md) | 0 | 0 | 1 | 0 | 0 | 1 |
+| [BCO 46](../authorities/BCO-46.md) | 2 | 1 | 0 | 0 | 0 | 3 |
+| [BCO 46-1](../authorities/BCO-46-1.md) | 2 | 0 | 0 | 0 | 0 | 2 |
+| [BCO 46-2](../authorities/BCO-46-2.md) | 1 | 2 | 0 | 4 | 2 | 9 |
+| [BCO 46-3](../authorities/BCO-46-3.md) | 4 | 3 | 0 | 0 | 0 | 7 |
+| [BCO 46-4](../authorities/BCO-46-4.md) | 2 | 1 | 1 | 1 | 0 | 5 |
+| [BCO 46-5](../authorities/BCO-46-5.md) | 5 | 11 | 2 | 19 | 0 | 37 |
+| [BCO 46-6](../authorities/BCO-46-6.md) | 4 | 1 | 2 | 1 | 50 | 58 |
+| [BCO 46-7](../authorities/BCO-46-7.md) | 2 | 0 | 0 | 2 | 3 | 7 |
+| [BCO 46-8](../authorities/BCO-46-8.md) | 13 | 1 | 0 | 1 | 35 | 50 |
+| [BCO 46-9](../authorities/BCO-46-9.md) | 0 | 0 | 0 | 1 | 0 | 1 |
+| [BCO 46-51](../authorities/BCO-46-51.md) | 0 | 0 | 0 | 1 | 0 | 1 |
+| [BCO 47](../authorities/BCO-47.md) | 0 | 0 | 1 | 0 | 0 | 1 |
+| [BCO 47-1](../authorities/BCO-47-1.md) | 1 | 0 | 0 | 0 | 0 | 1 |
+| [BCO 47-6](../authorities/BCO-47-6.md) | 1 | 0 | 0 | 0 | 0 | 1 |
+| [BCO 47-9](../authorities/BCO-47-9.md) | 2 | 0 | 0 | 0 | 0 | 2 |
+| [BCO 48-1](../authorities/BCO-48-1.md) | 0 | 0 | 0 | 0 | 2 | 2 |
+| [BCO 48-9](../authorities/BCO-48-9.md) | 1 | 0 | 0 | 0 | 0 | 1 |
+| [BCO 49-3](../authorities/BCO-49-3.md) | 0 | 0 | 0 | 0 | 1 | 1 |
+| [BCO 50](../authorities/BCO-50.md) | 1 | 0 | 0 | 0 | 0 | 1 |
+| [BCO 50-1](../authorities/BCO-50-1.md) | 1 | 0 | 0 | 0 | 0 | 1 |
+| [BCO 50-2](../authorities/BCO-50-2.md) | 0 | 0 | 0 | 1 | 0 | 1 |
+| [BCO 51-3](../authorities/BCO-51-3.md) | 0 | 0 | 0 | 1 | 0 | 1 |
+| [BCO 51-5](../authorities/BCO-51-5.md) | 1 | 0 | 0 | 1 | 0 | 2 |
+| [BCO 52-2](../authorities/BCO-52-2.md) | 1 | 0 | 0 | 0 | 0 | 1 |
+| [BCO 52-4](../authorities/BCO-52-4.md) | 1 | 0 | 0 | 0 | 0 | 1 |
+| [BCO 53](../authorities/BCO-53.md) | 0 | 0 | 3 | 3 | 0 | 6 |
+| [BCO 53-2](../authorities/BCO-53-2.md) | 1 | 0 | 0 | 0 | 0 | 1 |
+| [BCO 53-6](../authorities/BCO-53-6.md) | 2 | 0 | 0 | 1 | 0 | 3 |
+| [BCO 54-1](../authorities/BCO-54-1.md) | 0 | 0 | 0 | 1 | 0 | 1 |
+| [BCO 55-1](../authorities/BCO-55-1.md) | 0 | 0 | 0 | 1 | 0 | 1 |
+| [BCO 55-2](../authorities/BCO-55-2.md) | 0 | 0 | 0 | 1 | 0 | 1 |
+| [BCO 56](../authorities/BCO-56.md) | 0 | 0 | 0 | 6 | 0 | 6 |
+| [BCO 56-4](../authorities/BCO-56-4.md) | 3 | 0 | 1 | 3 | 0 | 7 |
+| [BCO 56-5](../authorities/BCO-56-5.md) | 0 | 0 | 0 | 6 | 0 | 6 |
+| [BCO 56-58](../authorities/BCO-56-58.md) | 0 | 0 | 0 | 4 | 0 | 4 |
+| [BCO 57](../authorities/BCO-57.md) | 0 | 0 | 0 | 2 | 1 | 3 |
+| [BCO 57-1](../authorities/BCO-57-1.md) | 1 | 0 | 0 | 1 | 2 | 4 |
+| [BCO 57-2](../authorities/BCO-57-2.md) | 2 | 1 | 2 | 3 | 0 | 8 |
+| [BCO 57-3](../authorities/BCO-57-3.md) | 1 | 0 | 0 | 0 | 0 | 1 |
+| [BCO 57-5](../authorities/BCO-57-5.md) | 18 | 1 | 4 | 21 | 0 | 44 |
+| [BCO 57-6](../authorities/BCO-57-6.md) | 0 | 0 | 2 | 1 | 0 | 3 |
+| [BCO 57-7.5](../authorities/BCO-57-7-5.md) | 0 | 0 | 0 | 3 | 0 | 3 |
+| [BCO 58](../authorities/BCO-58.md) | 0 | 0 | 0 | 4 | 1 | 5 |
+| [BCO 58-1](../authorities/BCO-58-1.md) | 1 | 0 | 0 | 0 | 0 | 1 |
+| [BCO 58-2](../authorities/BCO-58-2.md) | 1 | 0 | 0 | 0 | 0 | 1 |
+| [BCO 58-3](../authorities/BCO-58-3.md) | 0 | 0 | 0 | 0 | 2 | 2 |
+| [BCO 58-4](../authorities/BCO-58-4.md) | 3 | 3 | 0 | 15 | 5 | 26 |
+| [BCO 58-5](../authorities/BCO-58-5.md) | 0 | 1 | 1 | 7 | 0 | 9 |
+| [BCO 58-6](../authorities/BCO-58-6.md) | 0 | 1 | 0 | 0 | 0 | 1 |
+| [BCO 58-7](../authorities/BCO-58-7.md) | 1 | 0 | 0 | 0 | 0 | 1 |
+| [BCO 59](../authorities/BCO-59.md) | 1 | 0 | 3 | 2 | 0 | 6 |
+| [BCO 59-1](../authorities/BCO-59-1.md) | 0 | 0 | 0 | 2 | 0 | 2 |
+| [BCO 59-2](../authorities/BCO-59-2.md) | 0 | 0 | 1 | 0 | 0 | 1 |
+| [BCO 59-3](../authorities/BCO-59-3.md) | 0 | 0 | 0 | 3 | 0 | 3 |
+| [BCO 59-4](../authorities/BCO-59-4.md) | 1 | 0 | 0 | 0 | 0 | 1 |
+| [BCO 59-5](../authorities/BCO-59-5.md) | 0 | 0 | 1 | 0 | 0 | 1 |
+| [BCO 59-6](../authorities/BCO-59-6.md) | 0 | 0 | 0 | 2 | 0 | 2 |
+| [BCO 60](../authorities/BCO-60.md) | 0 | 0 | 1 | 0 | 0 | 1 |
+| [BCO 60-63](../authorities/BCO-60-63.md) | 0 | 0 | 0 | 1 | 0 | 1 |
+| [BCO 61](../authorities/BCO-61.md) | 0 | 0 | 1 | 0 | 0 | 1 |
+| [BCO 62](../authorities/BCO-62.md) | 0 | 0 | 1 | 0 | 0 | 1 |
+| [BCO 63](../authorities/BCO-63.md) | 0 | 0 | 2 | 0 | 0 | 2 |
+| [BCO 87](../authorities/BCO-87.md) | 0 | 0 | 0 | 0 | 2 | 2 |
+| [WCF 1](../authorities/WCF-1.md) | 3 | 0 | 0 | 2 | 2 | 7 |
+| [WCF 1.1](../authorities/WCF-1-1.md) | 6 | 0 | 0 | 5 | 1 | 12 |
+| [WCF 1.6](../authorities/WCF-1-6.md) | 3 | 0 | 0 | 10 | 0 | 13 |
+| [WCF 1.7](../authorities/WCF-1-7.md) | 0 | 0 | 0 | 1 | 0 | 1 |
+| [WCF 1.8](../authorities/WCF-1-8.md) | 0 | 0 | 0 | 6 | 0 | 6 |
+| [WCF 1.9](../authorities/WCF-1-9.md) | 2 | 0 | 0 | 0 | 0 | 2 |
+| [WCF 1.10](../authorities/WCF-1-10.md) | 2 | 0 | 0 | 1 | 0 | 3 |
+| [WCF 2](../authorities/WCF-2.md) | 0 | 0 | 0 | 1 | 0 | 1 |
+| [WCF 2.1](../authorities/WCF-2-1.md) | 1 | 0 | 0 | 0 | 0 | 1 |
+| [WCF 3](../authorities/WCF-3.md) | 1 | 0 | 0 | 0 | 0 | 1 |
+| [WCF 3.3](../authorities/WCF-3-3.md) | 1 | 0 | 0 | 0 | 0 | 1 |
+| [WCF 3.5](../authorities/WCF-3-5.md) | 1 | 0 | 0 | 0 | 0 | 1 |
+| [WCF 3.6](../authorities/WCF-3-6.md) | 4 | 0 | 0 | 0 | 1 | 5 |
+| [WCF 3.8](../authorities/WCF-3-8.md) | 2 | 0 | 0 | 0 | 0 | 2 |
+| [WCF 4](../authorities/WCF-4.md) | 1 | 0 | 0 | 1 | 0 | 2 |
+| [WCF 4.1](../authorities/WCF-4-1.md) | 4 | 1 | 0 | 1 | 2 | 8 |
+| [WCF 6](../authorities/WCF-6.md) | 1 | 0 | 0 | 0 | 1 | 2 |
+| [WCF 6.4](../authorities/WCF-6-4.md) | 1 | 0 | 0 | 0 | 0 | 1 |
+| [WCF 6.5](../authorities/WCF-6-5.md) | 1 | 0 | 0 | 0 | 0 | 1 |
+| [WCF 6.6](../authorities/WCF-6-6.md) | 1 | 0 | 0 | 0 | 0 | 1 |
+| [WCF 7.2](../authorities/WCF-7-2.md) | 3 | 0 | 0 | 0 | 0 | 3 |
+| [WCF 7.5](../authorities/WCF-7-5.md) | 0 | 0 | 0 | 0 | 1 | 1 |
+| [WCF 7.6](../authorities/WCF-7-6.md) | 0 | 0 | 0 | 1 | 0 | 1 |
+| [WCF 8.2](../authorities/WCF-8-2.md) | 0 | 0 | 0 | 0 | 1 | 1 |
+| [WCF 8.5](../authorities/WCF-8-5.md) | 2 | 0 | 0 | 0 | 0 | 2 |
+| [WCF 10](../authorities/WCF-10.md) | 0 | 0 | 0 | 1 | 0 | 1 |
+| [WCF 10.1](../authorities/WCF-10-1.md) | 0 | 0 | 0 | 0 | 1 | 1 |
+| [WCF 10.4](../authorities/WCF-10-4.md) | 1 | 0 | 0 | 0 | 0 | 1 |
+| [WCF 10-18](../authorities/WCF-10-18.md) | 1 | 0 | 0 | 0 | 0 | 1 |
+| [WCF 11](../authorities/WCF-11.md) | 1 | 0 | 0 | 0 | 0 | 1 |
+| [WCF 11.1](../authorities/WCF-11-1.md) | 1 | 0 | 0 | 1 | 0 | 2 |
+| [WCF 11.3](../authorities/WCF-11-3.md) | 1 | 0 | 0 | 0 | 1 | 2 |
+| [WCF 12](../authorities/WCF-12.md) | 1 | 0 | 0 | 0 | 0 | 1 |
+| [WCF 13.1](../authorities/WCF-13-1.md) | 2 | 0 | 0 | 0 | 0 | 2 |
+| [WCF 13.2](../authorities/WCF-13-2.md) | 1 | 0 | 0 | 0 | 0 | 1 |
+| [WCF 13.3](../authorities/WCF-13-3.md) | 1 | 0 | 0 | 0 | 0 | 1 |
+| [WCF 14](../authorities/WCF-14.md) | 1 | 0 | 0 | 0 | 0 | 1 |
+| [WCF 15](../authorities/WCF-15.md) | 1 | 0 | 0 | 0 | 0 | 1 |
+| [WCF 15.2](../authorities/WCF-15-2.md) | 1 | 0 | 0 | 0 | 0 | 1 |
+| [WCF 15.5](../authorities/WCF-15-5.md) | 3 | 0 | 0 | 0 | 0 | 3 |
+| [WCF 16.1](../authorities/WCF-16-1.md) | 1 | 0 | 0 | 0 | 0 | 1 |
+| [WCF 16.5](../authorities/WCF-16-5.md) | 1 | 0 | 0 | 0 | 0 | 1 |
+| [WCF 16.6](../authorities/WCF-16-6.md) | 1 | 0 | 0 | 0 | 0 | 1 |
+| [WCF 17.3](../authorities/WCF-17-3.md) | 1 | 0 | 0 | 0 | 0 | 1 |
+| [WCF 18](../authorities/WCF-18.md) | 0 | 0 | 0 | 0 | 1 | 1 |
+| [WCF 18.3](../authorities/WCF-18-3.md) | 0 | 0 | 0 | 0 | 1 | 1 |
+| [WCF 19](../authorities/WCF-19.md) | 1 | 0 | 0 | 0 | 0 | 1 |
+| [WCF 19.2](../authorities/WCF-19-2.md) | 0 | 0 | 0 | 0 | 1 | 1 |
+| [WCF 19.4](../authorities/WCF-19-4.md) | 2 | 1 | 0 | 1 | 0 | 4 |
+| [WCF 19.5](../authorities/WCF-19-5.md) | 0 | 0 | 0 | 1 | 0 | 1 |
+| [WCF 20](../authorities/WCF-20.md) | 3 | 0 | 2 | 0 | 3 | 8 |
+| [WCF 20.1](../authorities/WCF-20-1.md) | 2 | 0 | 0 | 0 | 0 | 2 |
+| [WCF 20.2](../authorities/WCF-20-2.md) | 7 | 0 | 1 | 2 | 5 | 15 |
+| [WCF 20.3](../authorities/WCF-20-3.md) | 1 | 0 | 0 | 0 | 0 | 1 |
+| [WCF 20.4](../authorities/WCF-20-4.md) | 3 | 0 | 0 | 0 | 0 | 3 |
+| [WCF 21](../authorities/WCF-21.md) | 2 | 0 | 0 | 0 | 6 | 8 |
+| [WCF 21.1](../authorities/WCF-21-1.md) | 1 | 0 | 0 | 2 | 0 | 3 |
+| [WCF 21.3](../authorities/WCF-21-3.md) | 1 | 0 | 0 | 0 | 0 | 1 |
+| [WCF 21.5](../authorities/WCF-21-5.md) | 6 | 0 | 0 | 1 | 2 | 9 |
+| [WCF 21.7](../authorities/WCF-21-7.md) | 0 | 0 | 0 | 0 | 6 | 6 |
+| [WCF 21.8](../authorities/WCF-21-8.md) | 3 | 0 | 0 | 1 | 12 | 16 |
+| [WCF 22.3](../authorities/WCF-22-3.md) | 0 | 0 | 0 | 2 | 0 | 2 |
+| [WCF 22.4](../authorities/WCF-22-4.md) | 1 | 0 | 0 | 0 | 0 | 1 |
+| [WCF 22.7](../authorities/WCF-22-7.md) | 0 | 0 | 0 | 0 | 1 | 1 |
+| [WCF 22.8](../authorities/WCF-22-8.md) | 0 | 0 | 0 | 0 | 1 | 1 |
+| [WCF 23](../authorities/WCF-23.md) | 0 | 0 | 1 | 0 | 0 | 1 |
+| [WCF 23.1](../authorities/WCF-23-1.md) | 0 | 0 | 0 | 1 | 0 | 1 |
+| [WCF 23.3](../authorities/WCF-23-3.md) | 1 | 1 | 3 | 3 | 0 | 8 |
+| [WCF 23.4](../authorities/WCF-23-4.md) | 1 | 0 | 0 | 3 | 0 | 4 |
+| [WCF 24](../authorities/WCF-24.md) | 0 | 0 | 0 | 0 | 1 | 1 |
+| [WCF 24.1](../authorities/WCF-24-1.md) | 1 | 0 | 0 | 1 | 0 | 2 |
+| [WCF 24.3](../authorities/WCF-24-3.md) | 0 | 2 | 1 | 0 | 9 | 12 |
+| [WCF 24.4](../authorities/WCF-24-4.md) | 0 | 0 | 0 | 0 | 1 | 1 |
+| [WCF 24.6](../authorities/WCF-24-6.md) | 5 | 0 | 0 | 0 | 2 | 7 |
+| [WCF 25.1](../authorities/WCF-25-1.md) | 2 | 0 | 0 | 1 | 0 | 3 |
+| [WCF 25.2](../authorities/WCF-25-2.md) | 2 | 0 | 0 | 6 | 1 | 9 |
+| [WCF 25.3](../authorities/WCF-25-3.md) | 0 | 0 | 0 | 2 | 0 | 2 |
+| [WCF 25.4](../authorities/WCF-25-4.md) | 0 | 0 | 0 | 1 | 0 | 1 |
+| [WCF 25.5](../authorities/WCF-25-5.md) | 1 | 0 | 0 | 0 | 0 | 1 |
+| [WCF 26.1](../authorities/WCF-26-1.md) | 2 | 0 | 0 | 2 | 0 | 4 |
+| [WCF 26.2](../authorities/WCF-26-2.md) | 0 | 0 | 0 | 2 | 0 | 2 |
+| [WCF 26.3](../authorities/WCF-26-3.md) | 0 | 0 | 0 | 2 | 0 | 2 |
+| [WCF 27](../authorities/WCF-27.md) | 0 | 1 | 0 | 1 | 0 | 2 |
+| [WCF 27.1](../authorities/WCF-27-1.md) | 2 | 0 | 0 | 0 | 0 | 2 |
+| [WCF 27.3](../authorities/WCF-27-3.md) | 0 | 0 | 0 | 1 | 0 | 1 |
+| [WCF 27.4](../authorities/WCF-27-4.md) | 0 | 1 | 0 | 0 | 0 | 1 |
+| [WCF 28](../authorities/WCF-28.md) | 0 | 0 | 0 | 0 | 1 | 1 |
+| [WCF 28.1](../authorities/WCF-28-1.md) | 1 | 0 | 0 | 0 | 0 | 1 |
+| [WCF 28.3](../authorities/WCF-28-3.md) | 0 | 0 | 1 | 0 | 0 | 1 |
+| [WCF 28.4](../authorities/WCF-28-4.md) | 1 | 0 | 0 | 1 | 4 | 6 |
+| [WCF 28.5](../authorities/WCF-28-5.md) | 6 | 0 | 0 | 0 | 0 | 6 |
+| [WCF 28.6](../authorities/WCF-28-6.md) | 2 | 0 | 0 | 0 | 0 | 2 |
+| [WCF 29](../authorities/WCF-29.md) | 0 | 1 | 0 | 0 | 1 | 2 |
+| [WCF 29.1](../authorities/WCF-29-1.md) | 0 | 0 | 0 | 2 | 0 | 2 |
+| [WCF 29.3](../authorities/WCF-29-3.md) | 0 | 0 | 0 | 1 | 2 | 3 |
+| [WCF 29.4](../authorities/WCF-29-4.md) | 0 | 0 | 0 | 0 | 2 | 2 |
+| [WCF 30](../authorities/WCF-30.md) | 1 | 0 | 0 | 3 | 0 | 4 |
+| [WCF 30.1](../authorities/WCF-30-1.md) | 1 | 0 | 0 | 0 | 0 | 1 |
+| [WCF 30.3](../authorities/WCF-30-3.md) | 1 | 0 | 0 | 0 | 0 | 1 |
+| [WCF 31](../authorities/WCF-31.md) | 1 | 0 | 0 | 2 | 0 | 3 |
+| [WCF 31.2](../authorities/WCF-31-2.md) | 1 | 0 | 0 | 5 | 0 | 6 |
+| [WCF 31.3](../authorities/WCF-31-3.md) | 2 | 1 | 0 | 2 | 0 | 5 |
+| [WCF 31.4](../authorities/WCF-31-4.md) | 3 | 0 | 0 | 2 | 0 | 5 |
+| [WCF 31-34](../authorities/WCF-31-34.md) | 0 | 0 | 0 | 1 | 0 | 1 |
+| [WCF 33.1](../authorities/WCF-33-1.md) | 1 | 0 | 0 | 0 | 0 | 1 |
+| [WCF 35](../authorities/WCF-35.md) | 1 | 0 | 0 | 0 | 0 | 1 |
+| [WCF 107-109](../authorities/WCF-107-109.md) | 0 | 0 | 0 | 0 | 1 | 1 |
+| [WLC Q.9](../authorities/WLC-Q-9.md) | 0 | 0 | 0 | 1 | 0 | 1 |
+| [WLC Q.15](../authorities/WLC-Q-15.md) | 1 | 1 | 0 | 0 | 1 | 3 |
+| [WLC Q.17](../authorities/WLC-Q-17.md) | 1 | 0 | 0 | 4 | 0 | 5 |
+| [WLC Q.20](../authorities/WLC-Q-20.md) | 3 | 0 | 0 | 1 | 0 | 4 |
+| [WLC Q.28](../authorities/WLC-Q-28.md) | 0 | 0 | 0 | 1 | 0 | 1 |
+| [WLC Q.30](../authorities/WLC-Q-30.md) | 1 | 0 | 0 | 0 | 0 | 1 |
+| [WLC Q.45](../authorities/WLC-Q-45.md) | 0 | 0 | 0 | 1 | 0 | 1 |
+| [WLC Q.58](../authorities/WLC-Q-58.md) | 0 | 0 | 0 | 0 | 1 | 1 |
+| [WLC Q.62](../authorities/WLC-Q-62.md) | 2 | 0 | 0 | 2 | 0 | 4 |
+| [WLC Q.64](../authorities/WLC-Q-64.md) | 3 | 0 | 0 | 0 | 0 | 3 |
+| [WLC Q.65](../authorities/WLC-Q-65.md) | 2 | 0 | 0 | 0 | 0 | 2 |
+| [WLC Q.67](../authorities/WLC-Q-67.md) | 0 | 0 | 0 | 1 | 0 | 1 |
+| [WLC Q.68](../authorities/WLC-Q-68.md) | 2 | 0 | 0 | 0 | 0 | 2 |
+| [WLC Q.69](../authorities/WLC-Q-69.md) | 2 | 0 | 0 | 0 | 0 | 2 |
+| [WLC Q.70](../authorities/WLC-Q-70.md) | 1 | 0 | 0 | 0 | 0 | 1 |
+| [WLC Q.75](../authorities/WLC-Q-75.md) | 2 | 0 | 0 | 0 | 0 | 2 |
+| [WLC Q.76](../authorities/WLC-Q-76.md) | 0 | 0 | 0 | 1 | 0 | 1 |
+| [WLC Q.77](../authorities/WLC-Q-77.md) | 1 | 0 | 0 | 0 | 0 | 1 |
+| [WLC Q.79](../authorities/WLC-Q-79.md) | 1 | 0 | 0 | 0 | 0 | 1 |
+| [WLC Q.80](../authorities/WLC-Q-80.md) | 2 | 0 | 0 | 0 | 2 | 4 |
+| [WLC Q.101](../authorities/WLC-Q-101.md) | 0 | 0 | 0 | 1 | 0 | 1 |
+| [WLC Q.107](../authorities/WLC-Q-107.md) | 0 | 0 | 0 | 1 | 0 | 1 |
+| [WLC Q.109](../authorities/WLC-Q-109.md) | 1 | 0 | 0 | 0 | 16 | 17 |
+| [WLC Q.116](../authorities/WLC-Q-116.md) | 0 | 0 | 0 | 0 | 5 | 5 |
+| [WLC Q.117](../authorities/WLC-Q-117.md) | 1 | 0 | 0 | 2 | 6 | 9 |
+| [WLC Q.118](../authorities/WLC-Q-118.md) | 2 | 0 | 0 | 1 | 0 | 3 |
+| [WLC Q.119](../authorities/WLC-Q-119.md) | 0 | 0 | 0 | 0 | 4 | 4 |
+| [WLC Q.121](../authorities/WLC-Q-121.md) | 0 | 0 | 0 | 0 | 2 | 2 |
+| [WLC Q.123](../authorities/WLC-Q-123.md) | 1 | 0 | 0 | 0 | 0 | 1 |
+| [WLC Q.124](../authorities/WLC-Q-124.md) | 1 | 0 | 0 | 0 | 0 | 1 |
+| [WLC Q.129](../authorities/WLC-Q-129.md) | 3 | 0 | 0 | 0 | 0 | 3 |
+| [WLC Q.130](../authorities/WLC-Q-130.md) | 0 | 0 | 0 | 1 | 0 | 1 |
+| [WLC Q.134](../authorities/WLC-Q-134.md) | 0 | 0 | 0 | 1 | 0 | 1 |
+| [WLC Q.135](../authorities/WLC-Q-135.md) | 0 | 0 | 0 | 3 | 0 | 3 |
+| [WLC Q.138](../authorities/WLC-Q-138.md) | 0 | 0 | 0 | 3 | 0 | 3 |
+| [WLC Q.139](../authorities/WLC-Q-139.md) | 3 | 0 | 0 | 4 | 0 | 7 |
+| [WLC Q.141](../authorities/WLC-Q-141.md) | 3 | 0 | 0 | 0 | 0 | 3 |
+| [WLC Q.143](../authorities/WLC-Q-143.md) | 0 | 0 | 0 | 1 | 0 | 1 |
+| [WLC Q.144](../authorities/WLC-Q-144.md) | 5 | 0 | 0 | 8 | 0 | 13 |
+| [WLC Q.145](../authorities/WLC-Q-145.md) | 8 | 1 | 0 | 7 | 0 | 16 |
+| [WLC Q.147](../authorities/WLC-Q-147.md) | 1 | 0 | 0 | 0 | 0 | 1 |
+| [WLC Q.148](../authorities/WLC-Q-148.md) | 0 | 0 | 0 | 1 | 0 | 1 |
+| [WLC Q.150](../authorities/WLC-Q-150.md) | 1 | 0 | 0 | 0 | 0 | 1 |
+| [WLC Q.151](../authorities/WLC-Q-151.md) | 2 | 0 | 0 | 3 | 1 | 6 |
+| [WLC Q.154](../authorities/WLC-Q-154.md) | 1 | 0 | 0 | 1 | 0 | 2 |
+| [WLC Q.156](../authorities/WLC-Q-156.md) | 1 | 0 | 0 | 0 | 2 | 3 |
+| [WLC Q.158](../authorities/WLC-Q-158.md) | 0 | 0 | 0 | 1 | 3 | 4 |
+| [WLC Q.162](../authorities/WLC-Q-162.md) | 0 | 0 | 0 | 2 | 0 | 2 |
+| [WLC Q.163](../authorities/WLC-Q-163.md) | 1 | 0 | 0 | 0 | 0 | 1 |
+| [WLC Q.165](../authorities/WLC-Q-165.md) | 2 | 0 | 0 | 0 | 0 | 2 |
+| [WLC Q.166](../authorities/WLC-Q-166.md) | 4 | 0 | 0 | 1 | 0 | 5 |
+| [WLC Q.168](../authorities/WLC-Q-168.md) | 1 | 0 | 0 | 0 | 1 | 2 |
+| [WLC Q.170](../authorities/WLC-Q-170.md) | 1 | 0 | 0 | 0 | 1 | 2 |
+| [WLC Q.171](../authorities/WLC-Q-171.md) | 1 | 0 | 0 | 0 | 0 | 1 |
+| [WLC Q.173](../authorities/WLC-Q-173.md) | 2 | 0 | 0 | 2 | 0 | 4 |
+| [WLC Q.174](../authorities/WLC-Q-174.md) | 0 | 0 | 0 | 1 | 0 | 1 |
+| [WLC Q.177](../authorities/WLC-Q-177.md) | 2 | 0 | 0 | 0 | 6 | 8 |
+| [WLC Q.182](../authorities/WLC-Q-182.md) | 1 | 0 | 0 | 0 | 0 | 1 |
+| [WLC Q.191](../authorities/WLC-Q-191.md) | 0 | 0 | 0 | 0 | 1 | 1 |
+| [WSC Q.6](../authorities/WSC-Q-6.md) | 0 | 0 | 0 | 1 | 0 | 1 |
+| [WSC Q.9](../authorities/WSC-Q-9.md) | 1 | 0 | 0 | 0 | 2 | 3 |
+| [WSC Q.10](../authorities/WSC-Q-10.md) | 0 | 0 | 0 | 1 | 0 | 1 |
+| [WSC Q.12](../authorities/WSC-Q-12.md) | 2 | 0 | 0 | 0 | 0 | 2 |
+| [WSC Q.14](../authorities/WSC-Q-14.md) | 1 | 0 | 0 | 0 | 0 | 1 |
+| [WSC Q.18](../authorities/WSC-Q-18.md) | 1 | 0 | 0 | 0 | 0 | 1 |
+| [WSC Q.36](../authorities/WSC-Q-36.md) | 0 | 0 | 0 | 0 | 1 | 1 |
+| [WSC Q.39](../authorities/WSC-Q-39.md) | 0 | 0 | 0 | 2 | 0 | 2 |
+| [WSC Q.41](../authorities/WSC-Q-41.md) | 0 | 0 | 0 | 3 | 0 | 3 |
+| [WSC Q.50](../authorities/WSC-Q-50.md) | 0 | 0 | 0 | 1 | 0 | 1 |
+| [WSC Q.59](../authorities/WSC-Q-59.md) | 0 | 0 | 0 | 0 | 5 | 5 |
+| [WSC Q.60](../authorities/WSC-Q-60.md) | 0 | 0 | 0 | 0 | 5 | 5 |
+| [WSC Q.61](../authorities/WSC-Q-61.md) | 0 | 0 | 0 | 0 | 2 | 2 |
+| [WSC Q.64](../authorities/WSC-Q-64.md) | 0 | 0 | 0 | 3 | 0 | 3 |
+| [WSC Q.65](../authorities/WSC-Q-65.md) | 0 | 0 | 0 | 3 | 0 | 3 |
+| [WSC Q.67](../authorities/WSC-Q-67.md) | 0 | 0 | 0 | 1 | 0 | 1 |
+| [WSC Q.68](../authorities/WSC-Q-68.md) | 0 | 0 | 0 | 3 | 0 | 3 |
+| [WSC Q.69](../authorities/WSC-Q-69.md) | 0 | 0 | 0 | 3 | 0 | 3 |
+| [WSC Q.71](../authorities/WSC-Q-71.md) | 0 | 0 | 0 | 3 | 0 | 3 |
+| [WSC Q.72](../authorities/WSC-Q-72.md) | 0 | 0 | 0 | 3 | 0 | 3 |
+| [WSC Q.75](../authorities/WSC-Q-75.md) | 1 | 0 | 0 | 0 | 0 | 1 |
+| [WSC Q.89](../authorities/WSC-Q-89.md) | 0 | 0 | 0 | 1 | 0 | 1 |
+| [WSC Q.91](../authorities/WSC-Q-91.md) | 2 | 0 | 0 | 0 | 0 | 2 |
+| [WSC Q.92](../authorities/WSC-Q-92.md) | 0 | 0 | 0 | 1 | 0 | 1 |
+| [WSC Q.95](../authorities/WSC-Q-95.md) | 1 | 0 | 0 | 0 | 0 | 1 |
+| [WSC Q.96](../authorities/WSC-Q-96.md) | 0 | 0 | 0 | 2 | 0 | 2 |
+| [RAO 1-1](../authorities/RAO-1-1.md) | 0 | 0 | 2 | 0 | 0 | 2 |
+| [RAO 1-4](../authorities/RAO-1-4.md) | 0 | 0 | 1 | 0 | 0 | 1 |
+| [RAO 1-6](../authorities/RAO-1-6.md) | 0 | 0 | 1 | 0 | 0 | 1 |
+| [RAO 1-7](../authorities/RAO-1-7.md) | 0 | 0 | 1 | 0 | 0 | 1 |
+| [RAO 1-8](../authorities/RAO-1-8.md) | 0 | 0 | 1 | 0 | 0 | 1 |
+| [RAO 2-1](../authorities/RAO-2-1.md) | 0 | 0 | 1 | 0 | 0 | 1 |
+| [RAO 2-3](../authorities/RAO-2-3.md) | 0 | 0 | 1 | 0 | 0 | 1 |
+| [RAO 3-2](../authorities/RAO-3-2.md) | 0 | 0 | 2 | 0 | 0 | 2 |
+| [RAO 3-4](../authorities/RAO-3-4.md) | 0 | 2 | 0 | 0 | 0 | 2 |
+| [RAO 4](../authorities/RAO-4.md) | 0 | 1 | 0 | 0 | 0 | 1 |
+| [RAO 4-2](../authorities/RAO-4-2.md) | 0 | 1 | 0 | 0 | 0 | 1 |
+| [RAO 4-3](../authorities/RAO-4-3.md) | 0 | 2 | 0 | 0 | 0 | 2 |
+| [RAO 4-4](../authorities/RAO-4-4.md) | 0 | 1 | 0 | 0 | 0 | 1 |
+| [RAO 4-5](../authorities/RAO-4-5.md) | 0 | 1 | 5 | 0 | 0 | 6 |
+| [RAO 4-6](../authorities/RAO-4-6.md) | 0 | 1 | 0 | 0 | 0 | 1 |
+| [RAO 4-9](../authorities/RAO-4-9.md) | 0 | 3 | 0 | 0 | 0 | 3 |
+| [RAO 4-10](../authorities/RAO-4-10.md) | 0 | 1 | 0 | 0 | 0 | 1 |
+| [RAO 4-11](../authorities/RAO-4-11.md) | 0 | 1 | 1 | 0 | 0 | 2 |
+| [RAO 4-12](../authorities/RAO-4-12.md) | 0 | 1 | 0 | 0 | 0 | 1 |
+| [RAO 4-13](../authorities/RAO-4-13.md) | 0 | 1 | 0 | 0 | 0 | 1 |
+| [RAO 4-14](../authorities/RAO-4-14.md) | 0 | 1 | 0 | 0 | 0 | 1 |
+| [RAO 4-15](../authorities/RAO-4-15.md) | 0 | 1 | 0 | 0 | 0 | 1 |
+| [RAO 4-16](../authorities/RAO-4-16.md) | 0 | 1 | 0 | 0 | 0 | 1 |
+| [RAO 4-19](../authorities/RAO-4-19.md) | 0 | 1 | 0 | 0 | 0 | 1 |
+| [RAO 4-20](../authorities/RAO-4-20.md) | 0 | 1 | 0 | 0 | 0 | 1 |
+| [RAO 4-21](../authorities/RAO-4-21.md) | 0 | 1 | 7 | 0 | 0 | 8 |
+| [RAO 5-2](../authorities/RAO-5-2.md) | 0 | 0 | 5 | 0 | 0 | 5 |
+| [RAO 7-2](../authorities/RAO-7-2.md) | 0 | 2 | 0 | 0 | 0 | 2 |
+| [RAO 8-1](../authorities/RAO-8-1.md) | 0 | 1 | 0 | 0 | 0 | 1 |
+| [RAO 8-2](../authorities/RAO-8-2.md) | 0 | 3 | 4 | 0 | 0 | 7 |
+| [RAO 8-4](../authorities/RAO-8-4.md) | 0 | 2 | 3 | 0 | 0 | 5 |
+| [RAO 9-2](../authorities/RAO-9-2.md) | 0 | 0 | 1 | 0 | 0 | 1 |
+| [RAO 9-3](../authorities/RAO-9-3.md) | 0 | 0 | 3 | 0 | 0 | 3 |
+| [RAO 9-4](../authorities/RAO-9-4.md) | 0 | 0 | 1 | 0 | 0 | 1 |
+| [RAO 9-5](../authorities/RAO-9-5.md) | 0 | 0 | 1 | 0 | 0 | 1 |
+| [RAO 10-3](../authorities/RAO-10-3.md) | 0 | 0 | 1 | 0 | 0 | 1 |
+| [RAO 10-5](../authorities/RAO-10-5.md) | 0 | 0 | 1 | 0 | 0 | 1 |
+| [RAO 10-6](../authorities/RAO-10-6.md) | 0 | 0 | 1 | 0 | 0 | 1 |
+| [RAO 10-14](../authorities/RAO-10-14.md) | 0 | 0 | 0 | 0 | 1 | 1 |
+| [RAO 11](../authorities/RAO-11.md) | 0 | 0 | 1 | 0 | 0 | 1 |
+| [RAO 11-2](../authorities/RAO-11-2.md) | 0 | 0 | 2 | 0 | 0 | 2 |
+| [RAO 11-3](../authorities/RAO-11-3.md) | 0 | 0 | 0 | 0 | 1 | 1 |
+| [RAO 11-5](../authorities/RAO-11-5.md) | 0 | 1 | 5 | 0 | 0 | 6 |
+| [RAO 11-6](../authorities/RAO-11-6.md) | 0 | 1 | 0 | 0 | 0 | 1 |
+| [RAO 11-10](../authorities/RAO-11-10.md) | 0 | 0 | 1 | 0 | 0 | 1 |
+| [RAO 12-2](../authorities/RAO-12-2.md) | 0 | 1 | 0 | 0 | 0 | 1 |
+| [RAO 13](../authorities/RAO-13.md) | 0 | 1 | 1 | 0 | 0 | 2 |
+| [RAO 13-1](../authorities/RAO-13-1.md) | 0 | 0 | 1 | 0 | 0 | 1 |
+| [RAO 13-2](../authorities/RAO-13-2.md) | 0 | 1 | 0 | 0 | 0 | 1 |
+| [RAO 13-5](../authorities/RAO-13-5.md) | 0 | 0 | 1 | 0 | 0 | 1 |
+| [RAO 13-6](../authorities/RAO-13-6.md) | 0 | 0 | 1 | 0 | 0 | 1 |
+| [RAO 14](../authorities/RAO-14.md) | 0 | 1 | 0 | 0 | 6 | 7 |
+| [RAO 14-1](../authorities/RAO-14-1.md) | 0 | 0 | 0 | 0 | 3 | 3 |
+| [RAO 14-2](../authorities/RAO-14-2.md) | 0 | 1 | 0 | 0 | 8 | 9 |
+| [RAO 14-3](../authorities/RAO-14-3.md) | 0 | 1 | 3 | 0 | 157 | 161 |
+| [RAO 14-4](../authorities/RAO-14-4.md) | 0 | 0 | 0 | 0 | 40 | 40 |
+| [RAO 14-6](../authorities/RAO-14-6.md) | 0 | 2 | 0 | 0 | 4 | 6 |
+| [RAO 14-8](../authorities/RAO-14-8.md) | 0 | 0 | 1 | 0 | 0 | 1 |
+| [RAO 14-9](../authorities/RAO-14-9.md) | 0 | 0 | 1 | 0 | 1 | 2 |
+| [RAO 14-10](../authorities/RAO-14-10.md) | 0 | 1 | 1 | 0 | 27 | 29 |
+| [RAO 15-1](../authorities/RAO-15-1.md) | 0 | 2 | 0 | 0 | 0 | 2 |
+| [RAO 15-2](../authorities/RAO-15-2.md) | 0 | 0 | 0 | 0 | 1 | 1 |
+| [RAO 15-6](../authorities/RAO-15-6.md) | 0 | 0 | 3 | 0 | 0 | 3 |
+| [RAO 15-8](../authorities/RAO-15-8.md) | 0 | 0 | 1 | 0 | 0 | 1 |
+| [RAO 16](../authorities/RAO-16.md) | 0 | 1 | 2 | 0 | 47 | 50 |
+| [RAO 16-1](../authorities/RAO-16-1.md) | 0 | 0 | 0 | 0 | 3 | 3 |
+| [RAO 16-3](../authorities/RAO-16-3.md) | 0 | 1 | 10 | 0 | 749 | 760 |
+| [RAO 16-4](../authorities/RAO-16-4.md) | 0 | 0 | 2 | 0 | 27 | 29 |
+| [RAO 16-6](../authorities/RAO-16-6.md) | 0 | 1 | 2 | 0 | 5 | 8 |
+| [RAO 16-8](../authorities/RAO-16-8.md) | 0 | 0 | 1 | 0 | 0 | 1 |
+| [RAO 16-10](../authorities/RAO-16-10.md) | 0 | 0 | 2 | 0 | 41 | 43 |
+| [RAO 17-1](../authorities/RAO-17-1.md) | 0 | 1 | 4 | 0 | 0 | 5 |
+| [RAO 17-3](../authorities/RAO-17-3.md) | 0 | 1 | 1 | 0 | 0 | 2 |
+| [RAO 19-2](../authorities/RAO-19-2.md) | 0 | 0 | 1 | 0 | 0 | 1 |
+| [RAO 20](../authorities/RAO-20.md) | 0 | 1 | 0 | 0 | 0 | 1 |
+| [RAO 40-10h](../authorities/RAO-40-10h.md) | 0 | 0 | 0 | 0 | 1 | 1 |
+| [RAO 82.b(2](../authorities/RAO-82-b-2.md) | 0 | 0 | 0 | 0 | 1 | 1 |
 
-*648 provisions indexed.*
+*748 provisions indexed.*
