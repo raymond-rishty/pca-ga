@@ -22,10 +22,10 @@ An overture is treated as adopted for Reader inclusion only when its curated dis
 - `match_method` records the parser or source index that produced the association.
 - `match_confidence` measures confidence in the extraction or source tag. It is not a relevance score or an authority ranking.
 - `locator` and `excerpt` belong to individual occurrences. A synopsis, title, or summary is metadata and must not be represented as a quotation from the source body.
-- `reader_scope` is the Reader feed policy: `primary` is included, while `contextual` and `candidate` are retained for research but omitted.
+- `reader_scope` is an evidence/display classification. The Constitution Reader includes every relationship for supported record types across `primary`, `contextual`, and `candidate` scopes, and displays the scope and evidence metadata with each record. It does not treat scope as a legal-authority ranking.
 - `authority_weight` is a legacy display field. It does not state the legal force of the record. Model-generated `relevance_assessment` fields remain advisory and are not human confirmation.
 
-Preliminary Principles are recognized only by explicit “Preliminary Principle(s)” wording or uppercase `PP` citation syntax. Lowercase `pp. 174` page references are not provision citations. The Constitution Reader consumes only `reader_scope: primary` rows from the generated authority index; it must not independently scan record bodies or reinterpret provision references.
+Preliminary Principles are recognized only by explicit “Preliminary Principle(s)” wording or uppercase `PP` citation syntax. Lowercase `pp. 174` page references are not provision citations. The Constitution Reader consumes supported record types from all scopes in the generated authority index; it must not independently scan record bodies or reinterpret provision references.
 
 ## Audit output
 

@@ -4,19 +4,31 @@ Catalogue input fingerprint: `613a69259d78b86fb70a893f9e1757ec3e9bad7c9b7578dfb0
 
 The catalogue contains 1172 provisions, 12405 relationships, 16040 evidence occurrences, and 97 unmatched source references.
 
-Relationship kinds describe why a record is linked. Evidence basis describes the source of that link. Match confidence describes extraction confidence. Reader scope controls the Constitution Reader feed. These fields do not describe legal force.
+Relationship kinds describe why a record is linked. Evidence basis describes the source of that link. Match confidence describes extraction confidence. Reader scope labels the relationship in the Constitution Reader. These fields do not describe legal force.
 
-The Reader feed includes only rows scoped `primary`. CCB advice, RPR exceptions, body mentions, non-adopted overtures, and other candidate/contextual records remain available in the GA catalogue but are omitted from that feed.
+The Reader includes indexed relationships for its supported record types across all scopes. Primary, contextual, and candidate links remain distinguishable in each record; scope describes the evidence relationship and is not a legal-authority ranking.
 
 ## Relationships by record type
 
-| Record type | Relationships | Reader primary |
-|-------------|--------------:|---------------:|
-| CCB advice | 542 | 0 |
+| Record type | Relationships | Reader included |
+|-------------|--------------:|----------------:|
+| CCB advice | 542 | 542 |
 | Constitutional inquiry | 420 | 420 |
 | Judicial case | 3255 | 3255 |
-| Overture | 1317 | 96 |
-| RPR exception | 6871 | 0 |
+| Overture | 1317 | 1317 |
+| RPR exception | 6871 | 6871 |
+
+Reader-included relationships by scope:
+
+| Record type | Scope | Count |
+|-------------|-------|------:|
+| CCB advice | `contextual` | 542 |
+| Constitutional inquiry | `primary` | 420 |
+| Judicial case | `primary` | 3255 |
+| Overture | `candidate` | 1221 |
+| Overture | `primary` | 96 |
+| RPR exception | `candidate` | 133 |
+| RPR exception | `contextual` | 6738 |
 
 ### Relationships by relationship kind
 

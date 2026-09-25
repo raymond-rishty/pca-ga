@@ -1,5 +1,5 @@
 {
- "schema_version": 1,
+ "schema_version": 2,
  "catalogue_input_fingerprint": "613a69259d78b86fb70a893f9e1757ec3e9bad7c9b7578dfb01c4796d6a9b4fc",
  "provision_count": 1172,
  "relationship_count": 12405,
@@ -1275,12 +1275,32 @@
   "Overture": 1317,
   "RPR exception": 6871
  },
- "reader_primary_by_type": {
+ "reader_included_by_type": {
+  "CCB advice": 542,
   "Constitutional inquiry": 420,
   "Judicial case": 3255,
-  "Overture": 96
+  "Overture": 1317,
+  "RPR exception": 6871
  },
- "reader_excluded_relationships": 8634,
+ "reader_scope_by_type": {
+  "CCB advice": {
+   "contextual": 542
+  },
+  "Constitutional inquiry": {
+   "primary": 420
+  },
+  "Judicial case": {
+   "primary": 3255
+  },
+  "Overture": {
+   "candidate": 1221,
+   "primary": 96
+  },
+  "RPR exception": {
+   "candidate": 133,
+   "contextual": 6738
+  }
+ },
  "relationship_dimensions": {
   "relationship_kind": {
    "body_mention": 192,

@@ -33,8 +33,15 @@ def build_audit(catalogue: dict[str, Any], advisory_rows: list[dict[str, Any]] |
     occurrences = [occurrence for relation in relationships
                    for occurrence in relation.get("occurrences", [])]
     type_counts = collections.Counter(str(row.get("type") or "unknown") for row in relationships)
-    primary_counts = collections.Counter(str(row.get("type") or "unknown") for row in relationships
-                                         if row.get("reader_scope") == "primary")
+    reader_supported = {"Judicial case", "Overture", "Constitutional inquiry", "CCB advice", "RPR exception"}
+    reader_counts = collections.Counter(str(row.get("type") or "unknown") for row in relationships
+                                        if row.get("type") in reader_supported)
+    reader_scope_counts: dict[str, collections.Counter[str]] = {}
+    for row in relationships:
+        record_type = str(row.get("type") or "unknown")
+        if record_type in reader_supported:
+            scope = str(row.get("reader_scope") or "unclassified")
+            reader_scope_counts.setdefault(record_type, collections.Counter())[scope] += 1
     assessed = [row for row in relationships if row.get("relevance_assessment")]
     machine_roles: dict[str, dict[str, int]] = {}
     for relation in assessed:
@@ -73,7 +80,7 @@ def build_audit(catalogue: dict[str, Any], advisory_rows: list[dict[str, Any]] |
         for provision in catalogue.get("provisions", [])
     )
     return {
-        "schema_version": 1,
+        "schema_version": 2,
         "catalogue_input_fingerprint": catalogue.get("input_fingerprint"),
         "provision_count": len(catalogue.get("provisions", [])),
         "relationship_count": len(relationships),
@@ -87,9 +94,11 @@ def build_audit(catalogue: dict[str, Any], advisory_rows: list[dict[str, Any]] |
             for row in unmatched
         ],
         "relationships_by_type": dict(sorted(type_counts.items())),
-        "reader_primary_by_type": dict(sorted(primary_counts.items())),
-        "reader_excluded_relationships": sum(1 for row in relationships
-                                              if row.get("reader_scope") != "primary"),
+        "reader_included_by_type": dict(sorted(reader_counts.items())),
+        "reader_scope_by_type": {
+            record_type: dict(sorted(counts.items()))
+            for record_type, counts in sorted(reader_scope_counts.items())
+        },
         "relationship_dimensions": {
             "relationship_kind": _count_dimension(relationships, "relationship_kind", "relationship_kinds"),
             "evidence_basis": _count_dimension(relationships, "evidence_basis", "evidence_bases"),
@@ -146,17 +155,22 @@ def render_markdown(audit: dict[str, Any]) -> str:
         f"{audit['relationship_count']} relationships, {audit['occurrence_count']} evidence occurrences, "
         f"and {audit['unmatched_relationship_count']} unmatched source references.", "",
         "Relationship kinds describe why a record is linked. Evidence basis describes the source of that link. "
-        "Match confidence describes extraction confidence. Reader scope controls the Constitution Reader feed. "
+        "Match confidence describes extraction confidence. Reader scope labels the relationship in the Constitution Reader. "
         "These fields do not describe legal force.", "",
-        "The Reader feed includes only rows scoped `primary`. CCB advice, RPR exceptions, body mentions, "
-        "non-adopted overtures, and other candidate/contextual records remain available in the GA catalogue "
-        "but are omitted from that feed.", "",
+        "The Reader includes indexed relationships for its supported record types across all scopes. "
+        "Primary, contextual, and candidate links remain distinguishable in each record; scope describes "
+        "the evidence relationship and is not a legal-authority ranking.", "",
         "## Relationships by record type", "",
-        "| Record type | Relationships | Reader primary |", "|-------------|--------------:|---------------:|",
+        "| Record type | Relationships | Reader included |", "|-------------|--------------:|----------------:|",
     ]
-    types = sorted(set(audit["relationships_by_type"]) | set(audit["reader_primary_by_type"]))
+    types = sorted(set(audit["relationships_by_type"]) | set(audit["reader_included_by_type"]))
     for record_type in types:
-        lines.append(f"| {record_type} | {audit['relationships_by_type'].get(record_type, 0)} | {audit['reader_primary_by_type'].get(record_type, 0)} |")
+        lines.append(f"| {record_type} | {audit['relationships_by_type'].get(record_type, 0)} | {audit['reader_included_by_type'].get(record_type, 0)} |")
+    lines.extend(["", "Reader-included relationships by scope:", "",
+                  "| Record type | Scope | Count |", "|-------------|-------|------:|"])
+    for record_type, scopes in audit["reader_scope_by_type"].items():
+        for scope, count in scopes.items():
+            lines.append(f"| {record_type} | `{scope}` | {count} |")
     lines.append("")
     for dimension in ("relationship_kind", "evidence_basis", "match_confidence", "reader_scope", "match_method"):
         lines.extend(_markdown_table(f"Relationships by {dimension.replace('_', ' ')}",

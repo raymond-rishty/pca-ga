@@ -164,6 +164,26 @@ class AuthorityIndexFeedbackTests(unittest.TestCase):
             {"case_text": 1, "structured_tag": 1},
         )
 
+    def test_audit_reports_supported_reader_records_across_all_scopes(self):
+        relations = [
+            {"type": "Judicial case", "reader_scope": "primary"},
+            {"type": "Overture", "reader_scope": "candidate"},
+            {"type": "CCB advice", "reader_scope": "contextual"},
+            {"type": "RPR exception", "reader_scope": "contextual"},
+            {"type": "Study", "reader_scope": "candidate"},
+        ]
+        catalogue = {
+            "input_fingerprint": "fixture", "assessment_summary": {}, "unmatched_relationships": [],
+            "provisions": [{"relationships": relations, "coverage": {"recommendations": {"status": "incomplete"}}}],
+        }
+        result = audit.build_audit(catalogue)
+        self.assertEqual(result["reader_included_by_type"], {
+            "CCB advice": 1, "Judicial case": 1, "Overture": 1, "RPR exception": 1,
+        })
+        self.assertEqual(result["reader_scope_by_type"]["Overture"], {"candidate": 1})
+        self.assertNotIn("Study", result["reader_included_by_type"])
+        self.assertIn("across all scopes", audit.render_markdown(result))
+
     def test_audit_source_links_resolve_from_the_index_directory(self):
         self.assertEqual(audit._audit_source_target("cases/ga36_2008__2007-08.md"),
                          "../cases/ga36_2008__2007-08.md")
