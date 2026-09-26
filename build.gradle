@@ -14,7 +14,7 @@ def siteDir = file(providers.gradleProperty('siteDir').orElse('_site').get())
 def incrementalJekyll = providers.gradleProperty('incrementalJekyll').map { it.toBoolean() }.orElse(false).get()
 def generatorScripts = fileTree('scripts') {
     include '**/*.py'
-    exclude 'render_site.py', 'validate_site_build.py'
+    exclude 'render_site.py', 'validate_site_build.py', 'reconcile_overture_catalogue.py'
 }
 
 def commandLineFor = { List<String> command ->
@@ -61,7 +61,7 @@ def sourceRegistryInputs = fileTree('index') {
     exclude 'source_registry.json', 'dedicated_pdf_inventory.json'
 }
 def provisionCatalogueInputs = fileTree('index') {
-    exclude 'provision_catalogue.json'
+    exclude 'provision_catalogue.json', 'OVERTURES.md', 'overture_catalogue_corrections.jsonl'
 }
 def judicialCatalogueInputs = files(file('index/judicial_cases.jsonl'), file('index/cases.jsonl'))
 def searchIndexOutputs = fileTree('app') {
@@ -85,6 +85,15 @@ regenerateOvertures.configure {
         }
     }
 }
+
+def reconcileOvertureCatalogue = registerCommand(
+    'reconcileOvertureCatalogue', [pythonCommand, 'scripts/reconcile_overture_catalogue.py', '.'],
+    [generatorScripts, file('scripts/reconcile_overture_catalogue.py'),
+     file('index/overture_catalogue_corrections.jsonl'),
+     file('index/OVERTURES.md'), file('index/overture_titles.jsonl'),
+     file('index/overture_bodies.jsonl'), file('index/overture_dispositions.jsonl')],
+    [file('index/OVERTURES.md')]
+)
 
 def reconcileCases = registerCommand(
     'reconcileCaseArtifacts', [pythonCommand, 'scripts/27_case_index_reconcile.py'],
@@ -147,6 +156,7 @@ def searchIndex = registerCommand(
     [searchIndexOutputs], true
 )
 searchIndex.configure { dependsOn authorityIndexAudit }
+searchIndex.configure { dependsOn reconcileOvertureCatalogue }
 
 def bcoManifests = registerCommand(
     'generateBcoManifests', [pythonCommand, 'scripts/45_bco_manifests.py', '.', '--out', 'api/bco'],
@@ -283,7 +293,7 @@ validateFootnotes.configure { dependsOn addExtractedMetadata }
 tasks.register('prepareData') {
     group = 'site build'
     description = 'Regenerate derived repository data and run the data checks.'
-    dependsOn validateFootnotes
+    dependsOn validateFootnotes, reconcileOvertureCatalogue
 }
 
 def structuralInputs = files(
