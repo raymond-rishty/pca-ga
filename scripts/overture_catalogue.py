@@ -1,18 +1,26 @@
 #!/usr/bin/env python3
-"""Shared projection of curated, page-keyed overture records."""
+"""Shared projection of curated overture records and explicit body references."""
 from __future__ import annotations
 
 import json
+import importlib.util
 import re
 from collections import defaultdict
 from pathlib import Path
 from typing import Any
-from provision_references import preliminary_matches
 
 
 _HEAD = re.compile(r"^##\s+.*General Assembly\s*\((\d{4})\)")
 _LINK = re.compile(r"\]\(\.\./([^)#]+(?:#[^)]+)?)\)")
 _PROV = re.compile(r"BCO\s+\d+-\d+(?:\.[0-9a-z]+)*", re.I)
+def _case_provision_parser():
+    path = Path(__file__).with_name("44_case_provision_index.py")
+    spec = importlib.util.spec_from_file_location("pca_case_provision_parser", path)
+    if spec is None or spec.loader is None:
+        raise ImportError(f"Could not load citation parser: {path}")
+    module = importlib.util.module_from_spec(spec)
+    spec.loader.exec_module(module)
+    return module
 
 
 def _jsonl(path: Path) -> list[dict[str, Any]]:
@@ -23,6 +31,7 @@ def _jsonl(path: Path) -> list[dict[str, Any]]:
 
 def load_curated_overtures(index_dir: Path) -> list[dict[str, Any]]:
     """Join the curated title, disposition, and body files by page occurrence."""
+    citation_parser = _case_provision_parser()
     dispositions = _jsonl(index_dir / "overture_dispositions.jsonl")
     titles = _jsonl(index_dir / "overture_titles.jsonl")
     bodies = _jsonl(index_dir / "overture_bodies.jsonl")
@@ -33,6 +42,11 @@ def load_curated_overtures(index_dir: Path) -> list[dict[str, Any]]:
         return row.get("vol"), str(row.get("number")), row.get("pdf_page")
 
     title_by_key = {key(row): (row.get("title") or "").strip() for row in titles}
+    titles_by_record: dict[tuple[Any, str], list[str]] = defaultdict(list)
+    for title_row in titles:
+        title = (title_row.get("title") or "").strip()
+        if title:
+            titles_by_record[(title_row.get("vol"), str(title_row.get("number")))].append(title)
     body_by_key = {key(row): row for row in bodies}
     bodies_by_record: dict[tuple[Any, str], list[dict[str, Any]]] = defaultdict(list)
     for body_row in bodies:
@@ -49,6 +63,13 @@ def load_curated_overtures(index_dir: Path) -> list[dict[str, Any]]:
         occurrence_key = key(row)
         title = title_by_key.get(occurrence_key, "")
         if not title:
+            # Some title rows carry a printed-page value where disposition
+            # and body rows carry the PDF-page value. Overture numbers are
+            # unique within an assembly, so recover only an unambiguous title.
+            candidates = titles_by_record.get((row.get("vol"), str(row.get("number"))), [])
+            if len(candidates) == 1:
+                title = candidates[0]
+        if not title:
             continue
         volume = str(row.get("vol") or "")
         volume_match = re.match(r"ga\d+_(\d{4})$", volume)
@@ -59,23 +80,38 @@ def load_curated_overtures(index_dir: Path) -> list[dict[str, Any]]:
         url = f"markdown/{volume}.md"
         if page:
             url += f"#{volume.split('_')[0]}-p{page}"
-        provisions = {f"BCO {value}" for value in (row.get("bco") or []) if value}
-        provisions.update(match.upper() for match in _PROV.findall(title))
-        preliminary_evidence: dict[str, list[dict[str, Any]]] = defaultdict(list)
+        provisions: set[str] = set()
+        provision_sources: dict[str, set[str]] = defaultdict(set)
+        for value in row.get("bco") or []:
+            if value:
+                provision = f"BCO {value}"
+                provisions.add(provision)
+                provision_sources[provision].add("disposition_bco")
+        for match in _PROV.findall(title):
+            provision = match.upper()
+            provisions.add(provision)
+            provision_sources[provision].add("title_subject")
+
+        evidence_by_provision: dict[str, list[dict[str, Any]]] = defaultdict(list)
         for body_row in bodies_by_record.get((volume, str(number)), [body]):
             body_text = str(body_row.get("body") or "")
             evidence_page = body_row.get("pdf_page")
             evidence_url = f"markdown/{volume}.md"
             if evidence_page:
                 evidence_url += f"#{volume.split('_')[0]}-p{evidence_page}"
-            for provision, start, end, _ in preliminary_matches(body_text):
+            for provision, hits in citation_parser.text_hits_from_text(body_text).items():
                 provisions.add(provision)
-                excerpt_start = max(0, start - 110)
-                excerpt_end = min(len(body_text), end + 150)
-                excerpt = re.sub(r"\s+", " ", body_text[excerpt_start:excerpt_end]).strip()
-                evidence = {"excerpt": excerpt, "page": evidence_page, "url": evidence_url}
-                if evidence not in preliminary_evidence[provision]:
-                    preliminary_evidence[provision].append(evidence)
+                provision_sources[provision].add("overture_body_text")
+                for hit in hits:
+                    evidence = {
+                        "excerpt": hit.get("snippet", ""),
+                        "page": evidence_page,
+                        "url": evidence_url,
+                        "relationship_kind": "explicit_citation",
+                        "match_method": "overture_body_explicit_reference_match",
+                    }
+                    if evidence not in evidence_by_provision[provision]:
+                        evidence_by_provision[provision].append(evidence)
         records.append({
             "record_id": f"overture:{volume}:{number}",
             "vol": volume,
@@ -86,10 +122,14 @@ def load_curated_overtures(index_dir: Path) -> list[dict[str, Any]]:
             "year": year,
             "disposition": row.get("final_disposition") or row.get("disposition") or "",
             "provisions": sorted(provisions),
+            "provision_sources": {
+                provision: sorted(sources)
+                for provision, sources in sorted(provision_sources.items())
+            },
             "provision_evidence": [
                 {"provision": provision, **evidence}
-                for provision in sorted(preliminary_evidence)
-                for evidence in preliminary_evidence[provision]
+                for provision in sorted(evidence_by_provision)
+                for evidence in evidence_by_provision[provision]
             ],
             "url": url,
         })
@@ -117,6 +157,7 @@ def _fallback_overtures(index_dir: Path) -> list[dict[str, Any]]:
         if not number.isdigit() or not cells[1]:
             continue
         link = _LINK.search(cells[4])
+        title_provisions = sorted({match.upper() for match in _PROV.findall(cells[1])})
         records.append({
             "record_id": f"overture:catalogue:{year}:{int(number)}",
             "vol": "",
@@ -126,7 +167,8 @@ def _fallback_overtures(index_dir: Path) -> list[dict[str, Any]]:
             "source": cells[3],
             "year": year,
             "disposition": cells[2],
-            "provisions": sorted({match.upper() for match in _PROV.findall(cells[1])}),
+            "provisions": title_provisions,
+            "provision_sources": {provision: ["title_subject"] for provision in title_provisions},
             "url": link.group(1) if link else "index/OVERTURES.md",
         })
     return records

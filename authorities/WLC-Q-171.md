@@ -1,12 +1,10 @@
 # WLC Q.171
 
-*All PCA authorities bearing on **WLC Q.171**.*
+*Indexed PCA records associated with **WLC Q.171**. Association type, evidence, and confidence are shown separately; this index does not assign legal force.*
 
-## High authority
-
-| Year | Type | Title | Disposition |
-|------|------|-------|-------------|
-| 2023 | Judicial case | [Wilson et al. v. Pacific Northwest Presbytery](../cases/ga50_2023__2022-20.md) | dismissed |
+| Year | Record type | Relationship | Evidence | Confidence | Title | Disposition |
+|------|-------------|--------------|----------|------------|-------|-------------|
+| 2023 | Judicial case | explicit_citation | direct_text | high | [Wilson et al. v. Pacific Northwest Presbytery](../cases/ga50_2023__2022-20.md) | dismissed |
 
 ---
 *[← Authority Index](../index/AUTHORITY-BY-PROVISION.md)*

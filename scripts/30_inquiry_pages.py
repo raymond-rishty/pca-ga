@@ -231,9 +231,13 @@ def main():
         srcline = (f"*Source: [{stem} lines {primary_start}–{primary_end}](../markdown/{stem}.md{'#' + primary_anchor if primary_anchor else ''})*"
                    if primary_start and primary_end else f"*Source: {stem}*")
 
-        source_page = pdf_page_for_anchor(Path(ROOT), stem, primary_anchor) if primary_anchor else None
-        if source_page is None and primary_start:
-            source_page = line_to_pdf_page(Path(ROOT), stem, int(primary_start))
+        source_page = r0.get("source_pdf_page")
+        if source_page is not None:
+            source_page = int(source_page)
+        else:
+            source_page = pdf_page_for_anchor(Path(ROOT), stem, primary_anchor) if primary_anchor else None
+            if source_page is None and primary_start:
+                source_page = line_to_pdf_page(Path(ROOT), stem, int(primary_start))
         if source_page is None and a:
             source_page = line_to_pdf_page(Path(ROOT), stem, int(a))
         source_meta = source_front_matter(source_entries_for_record(

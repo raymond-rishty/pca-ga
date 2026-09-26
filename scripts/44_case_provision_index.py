@@ -28,7 +28,7 @@ import sys
 from pathlib import Path
 from typing import Any
 from provision_references import (
-    PP_RE, PRELIM_ORDINAL_RE, PRELIM_RE, ROMAN, norm_prelim, number_value,
+    PP_RE, PRELIM_ORDINAL_RE, PRELIM_RE, PREFACE_PP_RE, ROMAN, norm_prelim, number_value,
 )
 
 ROOT = Path(sys.argv[1]).resolve() if len(sys.argv) > 1 else Path.cwd().resolve()
@@ -319,6 +319,8 @@ def norm_metadata(value: Any) -> list[str]:
         out.extend(norm_prelim(m))
     for m in PRELIM_ORDINAL_RE.finditer(raw):
         out.extend(norm_prelim(m))
+    for m in PREFACE_PP_RE.finditer(raw):
+        out.extend(norm_prelim(m))
     for m in EXPLICIT_RE.finditer(raw):
         std, num = explicit_groups(m)
         p = norm_explicit(std, num)
@@ -361,11 +363,10 @@ def load_jsonl(path: Path) -> list[dict[str, Any]]:
     return [json.loads(line) for line in path.read_text(encoding="utf-8").splitlines() if line.strip()]
 
 
-def text_hits(path: Path) -> dict[str, list[dict[str, Any]]]:
+def text_hits_from_text(raw_text: str) -> dict[str, list[dict[str, Any]]]:
+    """Extract normalized provision citations from Markdown text."""
     hits: dict[str, list[dict[str, Any]]] = collections.defaultdict(list)
-    if not path.exists():
-        return hits
-    raw_lines = path.read_text(encoding="utf-8").splitlines()
+    raw_lines = raw_text.splitlines()
     lines, skipped_lines = markdown_body_lines("\n".join(raw_lines))
     for lineno, line in enumerate(lines, start=skipped_lines + 1):
         line = plain_evidence_line(line)
@@ -386,11 +387,19 @@ def text_hits(path: Path) -> dict[str, list[dict[str, Any]]]:
             add_hit(m, norm_prelim(m))
         for m in PRELIM_ORDINAL_RE.finditer(line):
             add_hit(m, norm_prelim(m))
+        for m in PREFACE_PP_RE.finditer(line):
+            add_hit(m, norm_prelim(m))
         for m in EXPLICIT_RE.finditer(line):
             std, num = explicit_groups(m)
             p = norm_explicit(std, num)
             add_hit(m, [p] if p else [])
     return hits
+
+
+def text_hits(path: Path) -> dict[str, list[dict[str, Any]]]:
+    if not path.exists():
+        return collections.defaultdict(list)
+    return text_hits_from_text(path.read_text(encoding="utf-8"))
 
 
 def main() -> None:
