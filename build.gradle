@@ -70,20 +70,16 @@ def searchIndexOutputs = fileTree('app') {
 
 def checkPython = registerCommand('checkPythonDependencies', [pythonCommand, '-c', 'import openpyxl'])
 
-def regenerateOvertures = registerCommand(
-    'regenerateOvertures',
-    [pythonCommand, 'scripts/21_overture_titles.py', 'extract', '.'],
-    [generatorScripts, file('index/overture_body_ends.json'), file('index/overture_bodies.jsonl'),
-     file('index/overture_titles.jsonl'), file('index/overture_dispositions.jsonl')]
+def regenerateOverturePages = registerCommand(
+    'regenerateOverturePages', [pythonCommand, 'scripts/37_overture_pages.py', '.'],
+    [generatorScripts, file('scripts/37_overture_pages.py'), file('index/overture_bodies.jsonl'),
+     file('index/overture_titles.jsonl'), file('index/overture_dispositions.jsonl')],
+    [file('overtures'), file('index/overture_pages_map.json')]
 )
-regenerateOvertures.configure {
-    doLast {
-        exec {
-            workingDir projectDir
-            environment 'PYTHONUTF8', '1'
-            commandLine commandLineFor([pythonCommand, 'scripts/37_overture_pages.py', '.'])
-        }
-    }
+def regenerateOvertures = tasks.register('regenerateOvertures') {
+    group = 'site build'
+    description = 'Regenerate overture pages from the curated overture catalogue data.'
+    dependsOn regenerateOverturePages
 }
 
 def reconcileOvertureCatalogue = registerCommand(
