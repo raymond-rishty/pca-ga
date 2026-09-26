@@ -11,6 +11,7 @@ import json
 import re
 import sys
 from pathlib import Path
+from collections import defaultdict
 from typing import Any
 
 ROOT = Path(sys.argv[1] if len(sys.argv) > 1 else ".").resolve()
@@ -19,7 +20,7 @@ CORRECTIONS = IDX / "overture_catalogue_corrections.jsonl"
 CATALOGUE = IDX / "OVERTURES.md"
 
 _HEADING = re.compile(r"^## (\d+)(?:st|nd|rd|th) General Assembly \((\d{4})\).*`(ga\d+_\d{4})`$")
-_PAGE = re.compile(r"\]\(\.\./markdown/([^)#]+)#ga\d+-p(\d+)\)")
+_PAGE = re.compile(r"\[p\.(\d+)\]\(\.\./markdown/([^)#]+)#ga\d+-p\d+\)")
 
 
 def _jsonl(path: Path) -> list[dict[str, Any]]:
@@ -30,7 +31,11 @@ def _md(value: Any) -> str:
     return str(value or "").replace("|", "\\|").replace("\n", " ").strip()
 
 
-def _source_rows() -> tuple[dict[tuple[str, int, int], dict], dict[tuple[str, int, int], dict]]:
+def _source_rows() -> tuple[
+    dict[tuple[str, int, int], str],
+    dict[tuple[str, int, int], dict],
+    dict[tuple[str, int], set[str]],
+]:
     titles = _jsonl(IDX / "overture_titles.jsonl")
     bodies = _jsonl(IDX / "overture_bodies.jsonl")
     dispositions = _jsonl(IDX / "overture_dispositions.jsonl")
@@ -39,12 +44,37 @@ def _source_rows() -> tuple[dict[tuple[str, int, int], dict], dict[tuple[str, in
         return (str(row.get("vol") or ""), int(row.get("number") or 0), int(row.get("pdf_page") or 0))
 
     title_by_key = {key(row): (row.get("title") or "").strip() for row in titles}
-    body_by_key = {key(row): row for row in bodies}
+    titles_by_record: dict[tuple[str, int], set[str]] = defaultdict(set)
+    for row in titles:
+        titles_by_record[(str(row.get("vol") or ""), int(row.get("number") or 0))].add(
+            (row.get("title") or "").strip()
+        )
+    body_by_key: dict[tuple[str, int, int], dict] = {}
+    for row in bodies:
+        identity = key(row)
+        current = body_by_key.get(identity)
+        if current is None or len(str(row.get("body") or "")) > len(str(current.get("body") or "")):
+            body_by_key[identity] = row
     disposition_by_key = {key(row): row for row in dispositions}
-    return title_by_key, {
+    evidence = {
         k: {**body_by_key.get(k, {}), **disposition_by_key.get(k, {})}
-        for k in title_by_key
+        for k in body_by_key.keys() | disposition_by_key.keys()
     }
+    return title_by_key, evidence, titles_by_record
+
+
+def _source_key(value: Any) -> str:
+    return re.sub(r"[^a-z0-9]+", " ", str(value or "").lower()).strip()
+
+
+def _render_row(row: dict[str, Any]) -> str:
+    cells = row["cells"]
+    cells[0] = row["number_link"]
+    cells[1] = row["subject"]
+    cells[2] = row["disposition"]
+    cells[3] = row["source"]
+    cells[4] = ", ".join(link for _, _, link in sorted(row["pages"]))
+    return "| " + " | ".join(cells) + " |"
 
 
 def main() -> None:
@@ -58,11 +88,22 @@ def main() -> None:
     for path in (IDX / "structure").glob("ga*.json"):
         structure = json.loads(path.read_text(encoding="utf-8"))
         for row in structure.get("overtures", []):
-            structural_rows.add((structure["volume"], int(row.get("number") or 0),
-                                 int(row.get("pdf_page") or 0)))
+            number = int(row.get("number") or 0)
+            pages = row.get("pages") or [row.get("pdf_page")]
+            structural_rows.update((structure["volume"], number, int(page or 0)) for page in pages)
     if not excludes.issubset(structural_rows):
         raise ValueError(f"exclusions do not match structural source rows: {sorted(excludes - structural_rows)[:12]}")
-    titles, evidence = _source_rows()
+    titles, evidence, titles_by_record = _source_rows()
+
+    structural_by_key: dict[tuple[str, int, int], dict[str, Any]] = {}
+    for path in (IDX / "structure").glob("ga*.json"):
+        structure = json.loads(path.read_text(encoding="utf-8"))
+        for source_row in structure.get("overtures", []):
+            number = int(source_row.get("number") or 0)
+            pages = source_row.get("pages") or [source_row.get("pdf_page")]
+            for page in pages:
+                identity = (structure["volume"], number, int(page or 0))
+                structural_by_key.setdefault(identity, source_row)
 
     # The corrections are an auditable, page-keyed subset of the existing
     # curated source rows. Fail the build if an upstream title or locator drifts.
@@ -74,11 +115,15 @@ def main() -> None:
         seen_ids.add(identity)
         if row.get("record_id") != f"overture:{identity[0]}:{identity[1]}:p{identity[2]}":
             raise ValueError(f"unstable record_id for {identity}")
-        if titles.get(identity) != row.get("title"):
+        known_titles = titles_by_record.get((identity[0], identity[1]), set())
+        if titles.get(identity) != row.get("title") and row.get("title") not in known_titles:
             raise ValueError(f"title mismatch for {identity}: {row.get('title')!r}")
         source = evidence.get(identity) or {}
-        if not source.get("body") or not source.get("source"):
-            raise ValueError(f"missing source text or sponsor for {identity}")
+        structural_source = structural_by_key.get(identity) or {}
+        if not source.get("source") and not structural_source.get("source"):
+            raise ValueError(f"missing source or sponsor for {identity}")
+        if not source.get("body") and not structural_source.get("source"):
+            raise ValueError(f"missing body text or structural source for {identity}")
 
     original = CATALOGUE.read_text(encoding="utf-8").splitlines()
     intro: list[str] = []
@@ -106,22 +151,28 @@ def main() -> None:
                 retained_links = []
                 pages = []
                 for match in page_matches:
-                    linked_volume = match.group(1).removesuffix(".md")
-                    page = int(match.group(2))
+                    page = int(match.group(1))
+                    linked_volume = match.group(2).removesuffix(".md")
                     identity = (current["vol"], number, page)
                     if linked_volume == current["vol"] and identity in excludes:
                         continue
-                    retained_links.append(match.group(0))
-                    if linked_volume == current["vol"]:
-                        pages.append(page)
+                    retained_links.append((linked_volume, page, match.group(0)))
+                    pages.append((linked_volume, page, match.group(0)))
                 if page_matches:
                     if not retained_links:
                         current["has_rows"] = True
                         continue
                     if len(retained_links) != len(page_matches):
-                        cells[4] = ", ".join(retained_links)
-                        line = "| " + " | ".join(cells) + " |"
-                row = {"number": number, "pages": pages, "subject": cells[1], "line": line}
+                        cells[4] = ", ".join(link for _, _, link in retained_links)
+                    row = {
+                        "number": number,
+                        "number_link": cells[0],
+                        "pages": pages,
+                        "subject": cells[1],
+                        "disposition": cells[2],
+                        "source": cells[3],
+                        "cells": cells,
+                    }
                 current["rows"].append(row)
                 current["has_rows"] = True
                 continue
@@ -137,23 +188,64 @@ def main() -> None:
             raise ValueError(f"missing Assembly section for correction {correction['record_id']}")
         number = int(correction["number"])
         page = int(correction["pdf_page"])
-        if any(row["number"] == number and row["subject"] == correction["title"] for row in group["rows"]):
-            continue
         vol = correction["vol"]
         page_link = f"[p.{page}](../markdown/{vol}.md#ga{ordinal:02}-p{page})"
         number_link = f"[{number}](../overtures/{vol}__o{number}.md)"
-        line = (f"| {number_link} | {_md(correction['title'])} | {_md(correction.get('disposition'))} "
-                f"| {_md(correction['source'])} | {page_link} |")
-        new_row = {"number": number, "pages": [page], "subject": correction["title"], "line": line}
+        subject = _md(correction["title"])
+        source = _md(correction["source"])
+        disposition = _md(correction.get("disposition"))
+
+        # When a reviewed correction points to a page already linked in the
+        # catalogue, use it to repair the metadata on that row. Otherwise add
+        # the source page to an exact same-title/sponsor row when possible.
+        identity_row = next((row for row in group["rows"]
+                             if row["number"] == number
+                             and any(linked_volume == vol and linked_page == page
+                                     for linked_volume, linked_page, _ in row["pages"])), None)
+        if identity_row is not None:
+            identity_row["number_link"] = number_link
+            identity_row["subject"] = subject
+            identity_row["source"] = source
+            if disposition:
+                identity_row["disposition"] = disposition
+            identity_row["line"] = _render_row(identity_row)
+            continue
+
+        matching_row = next((row for row in group["rows"]
+                             if row["number"] == number
+                             and _source_key(row["subject"]) == _source_key(subject)
+                             and _source_key(row["source"]) == _source_key(source)), None)
+        if matching_row is not None:
+            if not any(linked_volume == vol and linked_page == page
+                       for linked_volume, linked_page, _ in matching_row["pages"]):
+                matching_row["pages"].append((vol, page, page_link))
+            matching_row["number_link"] = number_link
+            matching_row["subject"] = subject
+            matching_row["source"] = source
+            if disposition:
+                matching_row["disposition"] = disposition
+            matching_row["line"] = _render_row(matching_row)
+            continue
+
+        new_row = {
+            "number": number,
+            "number_link": number_link,
+            "pages": [(vol, page, page_link)],
+            "subject": subject,
+            "disposition": disposition,
+            "source": source,
+            "cells": [number_link, subject, disposition, source, page_link],
+        }
         order = (number, page)
         position = next((i for i, row in enumerate(group["rows"])
-                         if (row["number"], min(row["pages"] or [0])) > order), len(group["rows"]))
+                         if (row["number"], min((p for v, p, _ in row["pages"] if v == vol), default=0)) > order),
+                         len(group["rows"]))
         group["rows"].insert(position, new_row)
 
     output = list(intro)
     for group in sections.values():
         output.extend(group["head"])
-        output.extend(row["line"] for row in group["rows"])
+        output.extend(_render_row(row) for row in group["rows"])
         output.extend(group["tail"])
     CATALOGUE.write_text("\n".join(output).rstrip() + "\n", encoding="utf-8")
     print(f"wrote {len(includes)} reviewed restorations; removed {len(excludes)} index-only locators -> {CATALOGUE}")
