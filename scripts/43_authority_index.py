@@ -420,8 +420,8 @@ def main():
 
     # Write flat index
     out_json = os.path.join(IDX, 'authority_index.json')
-    json.dump(all_rows, open(out_json, 'w', encoding='utf-8'),
-              ensure_ascii=False, separators=(',', ':'))
+    with open(out_json, 'w', encoding='utf-8', newline='\n') as out:
+        json.dump(all_rows, out, ensure_ascii=False, separators=(',', ':'))
     print(f'  → index/authority_index.json: {len(all_rows)} catalogue projection rows')
 
     # Group by provision
@@ -431,7 +431,7 @@ def main():
 
     # Write AUTHORITY-BY-PROVISION.md
     out_md = os.path.join(IDX, 'AUTHORITY-BY-PROVISION.md')
-    with open(out_md, 'w', encoding='utf-8') as f:
+    with open(out_md, 'w', encoding='utf-8', newline='\n') as f:
         f.write(render_main_index(rows_by_prov))
     print(f'  → index/AUTHORITY-BY-PROVISION.md: {len(rows_by_prov)} provisions')
 
@@ -443,7 +443,7 @@ def main():
         slug = prov_slug(prov)
         path = os.path.join(AUTH_DIR, slug + '.md')
         expected_pages.add(os.path.normcase(os.path.abspath(path)))
-        with open(path, 'w', encoding='utf-8') as f:
+        with open(path, 'w', encoding='utf-8', newline='\n') as f:
             f.write(render_provision_page(prov, prows))
         n_pages += 1
     for filename in os.listdir(AUTH_DIR):

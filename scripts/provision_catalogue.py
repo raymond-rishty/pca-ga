@@ -569,7 +569,8 @@ def build_catalogue(root: Path, reader_dir: Path) -> dict[str, Any]:
 
 def write_catalogue(path: Path, catalogue: dict[str, Any]) -> None:
     path.parent.mkdir(parents=True, exist_ok=True)
-    path.write_text(json.dumps(catalogue, ensure_ascii=False, indent=1) + "\n", encoding="utf-8")
+    with path.open("w", encoding="utf-8", newline="\n") as output:
+        output.write(json.dumps(catalogue, ensure_ascii=False, indent=1) + "\n")
 
 
 def provision_search_rows(catalogue: dict[str, Any]) -> list[dict[str, Any]]:

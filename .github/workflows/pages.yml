@@ -22,6 +22,33 @@ jobs:
           repository: raymond-rishty/pca-constitution-reader
           path: _constitution
           persist-credentials: false
+      - uses: actions/setup-java@v4
+        with:
+          distribution: temurin
+          java-version: '17'
+      - uses: gradle/actions/setup-gradle@v6
+        with:
+          cache-provider: basic
+          cache-read-only: ${{ github.event_name != 'push' || github.ref != 'refs/heads/main' }}
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Install Python build dependency
+        run: python -m pip install --disable-pip-version-check openpyxl
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '24'
+      - uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: '3.3'
+          bundler-cache: true
+      - name: Record build tool versions
+        id: tool-versions
+        shell: bash
+        run: |
+          echo "python=$(python --version)" >> "$GITHUB_OUTPUT"
+          echo "ruby=$(ruby --version)" >> "$GITHUB_OUTPUT"
+          echo "node=$(node --version)" >> "$GITHUB_OUTPUT"
       - name: Detect overture-source changes
         id: overture-source
         shell: bash
@@ -40,23 +67,17 @@ jobs:
           else
             echo "changed=false" >> "$GITHUB_OUTPUT"
           fi
-      - name: Regenerate overture pages from Minutes source
-        if: steps.overture-source.outputs.changed == 'true'
+      - name: Generate and validate repository data with Gradle
+        shell: bash
+        env:
+          OVERTURE_CHANGED: ${{ steps.overture-source.outputs.changed }}
+          PYTHON_VERSION: ${{ steps.tool-versions.outputs.python }}
         run: |
-          python3 scripts/21_overture_titles.py extract .
-          python3 scripts/37_overture_pages.py .
-      - name: Reconcile judicial case artifacts
-        run: python3 scripts/27_case_index_reconcile.py
-      - name: Synchronize case-page cards from judicial metadata
-        run: python3 scripts/84_sync_case_page_metadata.py .
-      - name: Regenerate judicial case catalogue
-        run: python3 scripts/13_judicial_taxonomy_index.py .
-      - name: Regenerate auditable judicial provision evidence
-        run: python3 scripts/44_case_provision_index.py .
-      - name: Build the shared provision catalogue
-        run: python3 scripts/build_provision_catalogue.py . _constitution/content
-      - name: Project authority index from provision catalogue
-        run: python3 scripts/43_authority_index.py .
+          args=(--build-cache prepareData -PconstitutionDir=_constitution -PsiteDir=_site -PpythonCommand=python -PpythonVersion="$PYTHON_VERSION")
+          if [[ "$OVERTURE_CHANGED" == "true" ]]; then
+            args+=(-PregenerateOvertures)
+          fi
+          bash gradlew "${args[@]}"
       - name: Check in generated judicial case catalogue
         if: github.event_name == 'push' && github.ref == 'refs/heads/main'
         shell: bash
@@ -70,51 +91,33 @@ jobs:
           git add index/JUDICIAL-CASES.html
           git commit -m "Regenerate judicial case catalogue [skip ci]"
           git push origin HEAD:main
-      - name: Rebuild catalogue search index
-        run: python3 scripts/35_search_index.py .
-      - name: Generate BCO provision manifests
-        run: python3 scripts/45_bco_manifests.py . --out api/bco
-      - name: Regenerate LLM distribution
-        run: python3 scripts/34_llm_pack.py .
-      - name: Validate study catalogue
-        run: python3 scripts/check_study_catalogue.py .
-      - name: Restore minutes source PDF provenance
-        run: |
-          python3 scripts/ensure_minutes_source_pdf_metadata.py
-          python3 scripts/ensure_minutes_source_pdf_metadata.py --check
-      - name: Test source PDF metadata normalizer
-        run: python3 tests/test_minutes_source_pdf_metadata.py
-      - name: Rebuild and validate extracted source registry
-        run: |
-          # Overture regeneration above can update the authoritative body index.
-          # Refresh the derived registry before validating and rendering links.
-          python3 scripts/build_source_registry.py . --write
-          python3 scripts/build_source_registry.py . --check
-      - name: Test extracted source PDF metadata
-        run: python3 tests/test_extracted_source_pdf_metadata.py
-      - name: Test source registry
-        run: python3 tests/test_source_registry.py
-      - name: Test provision research generator
-        run: python3 tests/test_provision_research.py
-      - name: Test provision catalogue projections
-        run: python3 tests/test_provision_catalogue.py
-      - name: Test focused Node regressions
-        run: node --test tests/source-pdf-links.test.js tests/minutes-back-to-top.test.js tests/minutes-page-source-pdf.test.js tests/search-engine.test.js tests/search-record.test.js tests/search-index-overtures.test.js tests/pagefind-search.test.js tests/result-navigation.test.js
-      - name: Add source PDF metadata to extracted documents
-        run: python3 scripts/add_extracted_source_pdf_metadata.py .
-      - name: Validate footnote pairing
-        run: python3 scripts/81_validate_footnote_integrity.py
-      - uses: ruby/setup-ruby@v1
+      - name: Restore cached rendered pages and incremental state
+        uses: actions/cache@v4
         with:
-          ruby-version: '3.3'
-          bundler-cache: true
-      - uses: actions/cache@v4
-        with:
-          path: .jekyll-cache
-          key: jekyll-${{ runner.os }}-${{ hashFiles('Gemfile', 'Gemfile.lock', '_config.yml') }}
-          restore-keys: jekyll-${{ runner.os }}-
-      - name: Build
-        run: bundle exec jekyll build
+          path: |
+            _site
+            .jekyll-cache
+            .jekyll-metadata
+            .gradle/build-state
+          key: pca-render-${{ runner.os }}-${{ hashFiles('Gemfile.lock', '_config.yml') }}-${{ github.ref_name }}-${{ github.sha }}
+          restore-keys: |
+            pca-render-${{ runner.os }}-${{ hashFiles('Gemfile.lock', '_config.yml') }}-${{ github.ref_name }}-
+            pca-render-${{ runner.os }}-${{ hashFiles('Gemfile.lock', '_config.yml') }}-main-
+            pca-render-${{ runner.os }}-${{ hashFiles('Gemfile.lock', '_config.yml') }}-
+      - name: Incrementally render and validate the site with Gradle
+        env:
+          PYTHON_VERSION: ${{ steps.tool-versions.outputs.python }}
+          RUBY_VERSION: ${{ steps.tool-versions.outputs.ruby }}
+          NODE_VERSION: ${{ steps.tool-versions.outputs.node }}
+        run: >-
+          bash gradlew --build-cache siteCached
+          -PconstitutionDir=_constitution
+          -PsiteDir=_site
+          -PpythonCommand=python
+          -PpythonVersion="$PYTHON_VERSION"
+          -PrubyVersion="$RUBY_VERSION"
+          -PnodeVersion="$NODE_VERSION"
+          -PrefreshPreviewSearch=true
       - name: Install browser regression dependencies
         run: npm install --no-save --no-package-lock playwright@1.55.0
       - name: Install Chromium for browser regression tests
@@ -124,7 +127,7 @@ jobs:
         run: |
           set -euo pipefail
           ln -s _site pca-ga
-          python3 -m http.server 4173 --directory . >/tmp/pca-ga-http.log 2>&1 &
+          python -m http.server 4173 --directory . >/tmp/pca-ga-http.log 2>&1 &
           server_pid=$!
           trap 'kill "$server_pid"' EXIT
           for attempt in {1..30}; do
@@ -134,114 +137,6 @@ jobs:
             sleep 1
           done
           PCA_TEST_BASE_URL=http://127.0.0.1:4173/pca-ga node tests/result-navigation.browser.test.js
-      - name: Validate BCO provision manifests
-        shell: bash
-        run: |
-          test -s _site/api/bco/index.json
-          test -s _site/api/bco/38-1.json
-          test -s _site/api/provisions/index.json
-          test -s _site/api/provisions/bco/38-1.json
-          grep -Eq '"schema_version"[[:space:]]*:[[:space:]]*3' _site/api/bco/38-1.json
-          cmp -s _site/api/bco/38-1.json _site/api/provisions/bco/38-1.json
-          grep -q '/api/provisions/index.json' _site/llms.txt
-      - name: Validate rendered extracted source PDF links
-        shell: bash
-        run: |
-          shopt -s nullglob
-          extracted=(_site/cases/*.html _site/inquiries/*.html _site/overtures/*.html _site/rpr/exc/*.html _site/studies/*.html)
-          found=0
-          for page in "${extracted[@]}"; do
-            if grep -q 'class="source-pdf-link"' "$page"; then
-              found=$((found + 1))
-            fi
-          done
-          if [[ $found -lt 1 ]]; then
-            echo "No rendered extracted page exposes a source PDF link" >&2
-            exit 1
-          fi
-          if ! grep -R -q '51st_pcaga_2024.pdf#page=749' _site/cases; then
-            echo "Expected GA51 case source PDF page link was not rendered" >&2
-            exit 1
-          fi
-          if grep -R -Eq 'class="source-pdf-link" href=""' _site/cases _site/inquiries _site/overtures _site/rpr _site/studies; then
-            echo "An extracted source PDF link has an empty href" >&2
-            exit 1
-          fi
-          for directory in cases inquiries overtures rpr/exc studies; do
-            if ! grep -R -q 'data-source-pdf-actions' "_site/$directory"; then
-              echo "No source-PDF page action rendered for $directory" >&2
-              exit 1
-            fi
-          done
-          if ! grep -R -q 'data-source-id="case-pdf:' _site/cases; then
-            echo "No dedicated judicial source PDF was rendered" >&2
-            exit 1
-          fi
-          if ! grep -R -q 'data-source-id="study-pdf:' _site/studies; then
-            echo "No dedicated study source PDF was rendered" >&2
-            exit 1
-          fi
-      - name: Validate rendered source PDF links
-        shell: bash
-        run: |
-          shopt -s nullglob
-          pages=(_site/markdown/ga??_????.html)
-          if [[ ${#pages[@]} -ne 52 ]]; then
-            echo "Expected 52 rendered minutes volumes, found ${#pages[@]}" >&2
-            exit 1
-          fi
-          for page in "${pages[@]}"; do
-            if ! grep -Eq 'class="source-pdf-link" href="https://www\.pcahistory\.org/pca/ga/[0-9]+(st|nd|rd|th)_pcaga_[0-9]{4}\.pdf"' "$page"; then
-              echo "Missing canonical source PDF link in $page" >&2
-              exit 1
-            fi
-          done
-      - name: Install BSB importer dependency
-        run: python3 -m pip install --disable-pip-version-check openpyxl
-      - name: Link constitutional references
-        run: |
-          python3 scripts/build_bsb_assets.py --check
-          python3 scripts/44_normalize_bco_prefixes.py _site
-          python3 scripts/44_link_constitution_refs.py \
-            _site \
-            _constitution/content/bco.js \
-            _constitution/content/wcf.js \
-            _constitution/content/wlc.js \
-            _constitution/content/wsc.js \
-            _constitution/content/rao.js
-      - name: Generate canonical provision research pages
-        run: |
-          python3 scripts/46_provision_research.py site . _site --baseurl /pca-ga
-          test -s _site/provisions/index.html
-          test -s _site/provisions/bco/40-1/index.html
-          test -s _site/provisions/wlc/q-62/index.html
-          test -s _site/provisions/rao/1-1/index.html
-          test -s _site/app/provision_search.json
-      - name: Validate constitutional reference output
-        run: |
-          test -s _site/assets/constitution/bco-index.json
-          test -s _site/assets/constitution/standards/wcf.json
-          test -s _site/assets/constitution/standards/wlc.json
-          test -s _site/assets/constitution/standards/wsc.json
-          test -s _site/assets/constitution/packs/rao.json
-          test -s _site/assets/minutes-pages.json
-          test -s _site/assets/scripture-audit.json
-          test -s _site/assets/scripture-audit-summary.json
-          test -s _site/assets/scripture/bsb/John/3.json
-          grep -R -q 'data-bco-ref=' _site
-          grep -R -q 'class="constitution-ref"' _site
-          grep -R -q 'data-constitution-book="rao"' _site
-          grep -R -q 'class="minutes-ref"' _site
-          grep -R -q 'class="scripture-ref"' _site
-      - name: Build full-text passage index
-        run: npx --yes pagefind@1.5.2 --site _site
-      - name: Validate full-text passage index
-        shell: bash
-        run: |
-          grep -R -q 'data-pagefind-body' _site/markdown
-          grep -R -q 'content="General Assembly minutes"' _site/markdown
-          test -s _site/pagefind/pagefind.js
-          test "$(find _site/pagefind -type f | wc -l)" -gt 5
       - uses: actions/upload-pages-artifact@v3
         with:
           path: _site

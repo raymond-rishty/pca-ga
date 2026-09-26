@@ -459,7 +459,8 @@ def main() -> None:
                 })
 
     rows.sort(key=lambda r: (prov_sort_key(r["provision"]), r.get("year") or 0, r["title"]))
-    (IDX / "case_provision_index.json").write_text(json.dumps(rows, ensure_ascii=False, indent=1) + "\n", encoding="utf-8")
+    with (IDX / "case_provision_index.json").open("w", encoding="utf-8", newline="\n") as output:
+        output.write(json.dumps(rows, ensure_ascii=False, indent=1) + "\n")
 
     grouped: dict[str, list[dict[str, Any]]] = collections.defaultdict(list)
     for r in rows:
@@ -482,7 +483,8 @@ def main() -> None:
             ev = ", ".join(str(e["line"]) for e in r["evidence"][:5]) or "—"
             lines.append(f"| {r.get('year') or '—'} | [{md_escape(nums)} — {md_escape(r['title'])}]({link}) | {md_escape(r.get('disposition'))} | {md_summary(r.get('synopsis'))} | {sources} | {ev} |")
         lines.append("")
-    (IDX / "CASES-BY-PROVISION.md").write_text("\n".join(lines).rstrip() + "\n", encoding="utf-8")
+    with (IDX / "CASES-BY-PROVISION.md").open("w", encoding="utf-8", newline="\n") as output:
+        output.write("\n".join(lines).rstrip() + "\n")
 
     by_std = collections.Counter(r["provision"].split(" ", 1)[0] for r in rows)
     print(f"case-provision rows: {len(rows)}")
