@@ -1,0 +1,14 @@
+[
+  {
+    "provision": "BCO 43-1",
+    "case_numbers": ["2021-7"],
+    "year": 2023,
+    "disposition": "denied",
+    "title": "RE J. Lance Acree v. Tennessee Valley Presbytery",
+    "url": "cases/ga50_2023__stub_2021-07.md",
+    "sources": ["case_markdown_text"],
+    "evidence": [
+      {"line": 41, "snippet": "The Decision rests on BCO 43-1, which gives Mr. Acree no standing to complain against this action."}
+    ]
+  }
+]

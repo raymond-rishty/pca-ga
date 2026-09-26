@@ -1,15 +1,10 @@
 # WCF 15
 
-*All PCA authorities bearing on **WCF 15**.*
+*Indexed PCA records associated with **WCF 15**. Association type, evidence, and confidence are shown separately; this index does not assign legal force.*
 
-## High authority
-
-| Year | Type | Title | Disposition |
-|------|------|-------|-------------|
-| 2021 | Judicial case | [Evans and Pitts et al. v. Arizona Presbytery](../cases/ga48_2021__2019-10_2019-12.md) | sustained |
-| 2022 | Judicial case | [Speck v. Missouri Presbytery](../cases/ga49_2022__2020-12.md) | sustained |
-| 2023 | Judicial case | [Harrell et al. v. Covenant Presbytery](../cases/ga50_2023__2022-07.md) | sustained |
-| 2024 | Judicial case | [Myers v. Illiana Presbytery](../cases/ga51_2024__2023-09.md) | granted |
+| Year | Record type | Relationship | Evidence | Confidence | Title | Disposition |
+|------|-------------|--------------|----------|------------|-------|-------------|
+| 2021 | Judicial case | explicit_citation | direct_text | high | [Evans and Pitts et al. v. Arizona Presbytery](../cases/ga48_2021__2019-10_2019-12.md) | sustained |
 
 ---
 *[← Authority Index](../index/AUTHORITY-BY-PROVISION.md)*

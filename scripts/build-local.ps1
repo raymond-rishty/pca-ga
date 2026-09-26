@@ -10,6 +10,7 @@ param(
 $ErrorActionPreference = 'Stop'
 $env:PYTHONUTF8 = '1'
 $repoRoot = (Resolve-Path (Join-Path $PSScriptRoot '..')).Path
+$temporaryConstitutionPath = $null
 
 if (-not $env:PCA_GA_BUILD_TOOLS) {
     $env:PCA_GA_BUILD_TOOLS = [Environment]::GetEnvironmentVariable('PCA_GA_BUILD_TOOLS', 'User')
@@ -42,6 +43,7 @@ try {
             throw "Required command '$command' was not found. See docs/local-build.md for prerequisites."
         }
     }
+    $env:PYTHON = (Get-Command python).Source
     $gradleWrapper = Join-Path $repoRoot 'gradlew.bat'
     if (-not (Test-Path -LiteralPath $gradleWrapper -PathType Leaf)) {
         throw 'The Gradle Wrapper is missing. Run the Gradle wrapper setup described in docs/local-build.md.'
@@ -50,12 +52,11 @@ try {
     if (-not $ConstitutionPath) {
         $ConstitutionPath = Join-Path $repoRoot '_constitution'
         if (-not (Test-Path -LiteralPath (Join-Path $ConstitutionPath 'content'))) {
-            if (Test-Path -LiteralPath $ConstitutionPath) {
-                throw "The local Constitution Reader path exists but has no content directory: $ConstitutionPath"
-            }
             Write-Host 'Fetching the PCA Constitution Reader source.' -ForegroundColor Cyan
-            git -c http.sslBackend=schannel clone --depth 1 https://github.com/raymond-rishty/pca-constitution-reader.git $ConstitutionPath
+            $temporaryConstitutionPath = Join-Path ([IO.Path]::GetTempPath()) ("pca-ga-constitution-" + [guid]::NewGuid().ToString('N'))
+            git -c http.sslBackend=schannel -c http.sslCAInfo= clone --depth 1 https://github.com/raymond-rishty/pca-constitution-reader.git $temporaryConstitutionPath
             if ($LASTEXITCODE -ne 0) { throw "Constitution Reader checkout failed: $LASTEXITCODE" }
+            $ConstitutionPath = $temporaryConstitutionPath
         }
     }
     $ConstitutionPath = (Resolve-Path -LiteralPath $ConstitutionPath).Path
@@ -94,4 +95,13 @@ try {
 }
 finally {
     Pop-Location
+    if ($temporaryConstitutionPath -and (Test-Path -LiteralPath $temporaryConstitutionPath)) {
+        $tempRoot = [IO.Path]::GetFullPath([IO.Path]::GetTempPath()).TrimEnd([IO.Path]::DirectorySeparatorChar) + [IO.Path]::DirectorySeparatorChar
+        $tempPath = [IO.Path]::GetFullPath($temporaryConstitutionPath)
+        if ($tempPath.StartsWith($tempRoot, [StringComparison]::OrdinalIgnoreCase)) {
+            Remove-Item -LiteralPath $tempPath -Recurse -Force
+        } else {
+            Write-Warning "Leaving the temporary Constitution Reader checkout outside the system temp directory: $tempPath"
+        }
+    }
 }

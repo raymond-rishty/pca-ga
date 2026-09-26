@@ -2172,14 +2172,15 @@
     "results": [
       {
         "minute_para": "30-29",
-        "topic": "Preliminary Principles (BCO Preface, II), Handling Exceptions to the Westminster Standards",
+        "topic": "Preliminary Principles (BCO Preface II), Handling Exceptions to the Westminster Standards",
         "located": true,
-        "advice_start": 4532,
-        "advice_end": 4555,
-        "posed_start": 10828,
-        "posed_end": 10846,
-        "page_anchor": "ga30-p100",
-        "notes": "Advice is in Section III of the main CCB report, under 'Overture 4 from Ohio Valley Presbytery'. Page anchor ga30-p100 is at line 4529, immediately before the sub-heading at 4532. The posed overture full text appears in the B&O Committee report (30-50, III.3, p.238) at lines 10828-10846. The summary list entry (lines 3407-3410) is title-only, not the full text."
+        "advice_start": 2193,
+        "advice_end": 2201,
+        "posed_start": 5711,
+        "posed_end": 5717,
+        "page_anchor": "ga30-p102",
+        "notes": "CCB advice appears on printed page 100 (PDF page 102) at lines 2193-2201. The proposed text for Overture 4 appears in the B&O report at printed page 238 (PDF page 240), lines 5711-5717.",
+        "source_pdf_page": 102
       },
       {
         "minute_para": "30-29",
@@ -2207,25 +2208,13 @@
         "minute_para": "30-29",
         "topic": "Ecclesiastical Commissions (BCO 15) (Standing Judicial Commission), Abolishing the SJC",
         "located": true,
-        "advice_start": 2203,
-        "advice_end": 2203,
-        "posed_start": 11604,
-        "posed_end": 11692,
+        "advice_start": 2205,
+        "advice_end": 2205,
+        "posed_start": 6076,
+        "posed_end": 6130,
         "page_anchor": "ga30-p102",
-        "notes": "Advice is in Section III of the main CCB report under 'Overture 6 from Westminster Presbytery'. The sub-heading at 4572 falls on printed page 100 (anchor ga30-p100 at line 4529; the next page anchor ga30-p101 is at 4580, meaning the sub-heading starts on p.100 and the text continues onto p.101). Posed overture full text is in B&O Committee report (30-53, III.8, p.254) at lines 11604-11692.",
-        "legacy_locator": {
-          "advice_start": 4572,
-          "advice_end": 4590,
-          "posed_start": 11604,
-          "posed_end": 11692,
-          "page_anchor": "ga30-p100"
-        },
-        "relocation": {
-          "script": "46_relocate_sources.py",
-          "old_ref": "HEAD",
-          "method": "page_bounded_token_lcs",
-          "score": 0.9278
-        }
+        "notes": "CCB advice on Overture 6 appears on printed page 100 (PDF page 102), line 2205. The proposed text appears in the B&O report at printed pages 255-257 (PDF pages 257-259), lines 6076-6130.",
+        "source_pdf_page": 102
       },
       {
         "minute_para": "30-29",

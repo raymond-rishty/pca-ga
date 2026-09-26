@@ -1,12 +1,10 @@
 # BCO 3-6
 
-*All PCA authorities bearing on **BCO 3-6**.*
+*Indexed PCA records associated with **BCO 3-6**. Association type, evidence, and confidence are shown separately; this index does not assign legal force.*
 
-## High authority
-
-| Year | Type | Title | Disposition |
-|------|------|-------|-------------|
-| 1995 | Judicial case | [Newton v. Heartland Presbytery](../cases/ga23_1995__1993-12_1993-14.md) | denied |
+| Year | Record type | Relationship | Evidence | Confidence | Title | Disposition |
+|------|-------------|--------------|----------|------------|-------|-------------|
+| 1995 | Judicial case | explicit_citation | direct_text | high | [Grace RPC Session v. Heartland Presbytery](../cases/ga23_1995__1993-12_1993-14.md) | sustained |
 
 ---
 *[← Authority Index](../index/AUTHORITY-BY-PROVISION.md)*

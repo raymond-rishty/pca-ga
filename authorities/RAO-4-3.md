@@ -1,13 +1,11 @@
 # RAO 4-3
 
-*All PCA authorities bearing on **RAO 4-3**.*
+*Indexed PCA records associated with **RAO 4-3**. Association type, evidence, and confidence are shown separately; this index does not assign legal force.*
 
-## Medium authority
-
-| Year | Type | Title | Disposition |
-|------|------|-------|-------------|
-| 2000 | Constitutional inquiry | [Permanent Committee Members on Committees of Commissioners](../inquiries/ga28_2000__ci03.md) | advice given |
-| 2019 | Constitutional inquiry | [SJC member eligibility for concurrent GA agency board service](../inquiries/ga47_2019__ci22.md) | Yes (eligible); Adopted by the CCB |
+| Year | Record type | Relationship | Evidence | Confidence | Title | Disposition |
+|------|-------------|--------------|----------|------------|-------|-------------|
+| 2019 | Constitutional inquiry | structured_provision_tag | structured_provision_tag | medium | [SJC member eligibility for concurrent GA agency board service](../inquiries/ga47_2019__ci22.md) | Yes (eligible); Adopted by the CCB |
+| 2000 | Constitutional inquiry | structured_provision_tag | structured_provision_tag | medium | [Permanent Committee Members on Committees of Commissioners](../inquiries/ga28_2000__ci03.md) | advice given |
 
 ---
 *[← Authority Index](../index/AUTHORITY-BY-PROVISION.md)*

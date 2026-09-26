@@ -1,15 +1,10 @@
 # WCF 3
 
-*All PCA authorities bearing on **WCF 3**.*
+*Indexed PCA records associated with **WCF 3**. Association type, evidence, and confidence are shown separately; this index does not assign legal force.*
 
-## High authority
-
-| Year | Type | Title | Disposition |
-|------|------|-------|-------------|
-| 2008 | Judicial case | [Jones v. Louisiana](../cases/ga36_2008__2007-08.md) | sustained |
-| 2013 | Judicial case | [Art Sartorius et al. v. Siouxlands Presbytery](../cases/ga43_2015__2012-08.md) | out_of_order |
-| 2013 | Judicial case | [Hedman v. Pacific Northwest Presbytery](../cases/ga41_2013__2012-05.md) | denied |
-| 2018 | Judicial case | [Sartorius v. Siouxlands Presbytery](../cases/ga46_2018__2016-16.md) | denied |
+| Year | Record type | Relationship | Evidence | Confidence | Title | Disposition |
+|------|-------------|--------------|----------|------------|-------|-------------|
+| 2013 | Judicial case | explicit_citation | direct_text | high | [Art Sartorius et al. v. Siouxlands Presbytery](../cases/ga43_2015__2012-08.md) | out_of_order |
 
 ---
 *[← Authority Index](../index/AUTHORITY-BY-PROVISION.md)*

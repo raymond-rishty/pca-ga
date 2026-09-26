@@ -1,13 +1,11 @@
 # WLC Q.69
 
-*All PCA authorities bearing on **WLC Q.69**.*
+*Indexed PCA records associated with **WLC Q.69**. Association type, evidence, and confidence are shown separately; this index does not assign legal force.*
 
-## High authority
-
-| Year | Type | Title | Disposition |
-|------|------|-------|-------------|
-| 2008 | Judicial case | [Memorial of Central Carolina v. Louisiana](../cases/ga36_2008__2006-02.md) | other |
-| 2013 | Judicial case | [Hedman v. Pacific Northwest Presbytery](../cases/ga41_2013__2012-05.md) | denied |
+| Year | Record type | Relationship | Evidence | Confidence | Title | Disposition |
+|------|-------------|--------------|----------|------------|-------|-------------|
+| 2013 | Judicial case | explicit_citation | direct_text | high | [Hedman v. Pacific Northwest Presbytery](../cases/ga41_2013__2012-05.md) | denied |
+| 2008 | Judicial case | explicit_citation | direct_text | high | [Memorial of Central Carolina v. Louisiana](../cases/ga36_2008__2006-02.md) | other |
 
 ---
 *[← Authority Index](../index/AUTHORITY-BY-PROVISION.md)*

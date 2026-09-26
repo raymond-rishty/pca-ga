@@ -1,227 +1,216 @@
 # BCO 8-7
 
-*All PCA authorities bearing on **BCO 8-7**.*
+*Indexed PCA records associated with **BCO 8-7**. Association type, evidence, and confidence are shown separately; this index does not assign legal force.*
 
-## High authority
-
-| Year | Type | Title | Disposition |
-|------|------|-------|-------------|
-| 2014 | Judicial case | [Charles Tarter v. Evangel Presbytery](../cases/ga42_2014__2012-03.md) | sustained |
-| 2025 | Judicial case | [Felipe Assis and Carter Brown v. South Florida Presbytery](../cases/ga52_2025__2025-12_2025-13.md) | sustained |
-| 2025 | Judicial case | [Gleason v. Houston Metro Presbytery](../cases/ga52_2025__2024-02.md) | dismissed |
-
-## Medium authority
-
-| Year | Type | Title | Disposition |
-|------|------|-------|-------------|
-| 2014 | Constitutional inquiry | [Defining the Term "Labor"](../inquiries/ga42_2014__ci03.md) | advice given |
-| 2021 | CCB advice | [Amending BCO 8-7 regarding chaplain ordination requirements](../inquiries/ga48_2021__ci01.md) | not in conflict; Adopted |
-| 2022 | CCB advice | [Chaplain endorsement requirements added to BCO 8-7](../inquiries/ga49_2022__ci21.md) | in conflict; Adopted by the CCB |
-
-## Low-but-important
-
-| Year | Type | Title | Disposition |
-|------|------|-------|-------------|
-| 2021 | Overture | [Amend BCO 8-7 Regarding Chaplains](../markdown/ga48_2021.md#ga48-p966) | Answered in the negative |
-| 2022 | Overture | [Amend BCO 8-7 by Adding Chaplain Endorsement Requirements](../markdown/ga49_2022.md#ga49-p1359) |  |
-| 1990 | RPR exception | [Pacific: Page 9, Improper ordination: Presbytery waived having a man come under care - BCO provides](../rpr/exc/pacific__005.html) | raised |
-| 1991 | RPR exception | [Philadelphia: par. 12 Various parts of an examination not listed. No declaration that out of bounds TE b](../rpr/exc/philadelphia__013.html) | satisfactory |
-| 1992 | RPR exception | [Pacific Northwest: Page 19, item 2 There is no record that a teaching elder called to a non PCA work was gran](../rpr/exc/pacific-northwest__005.html) | raised |
-| 1993 | RPR exception | [Covenant: p. 13, 15: The call to a non-PC A work was approved with no evidence that the assurances o](../rpr/exc/covenant__003.html) | raised |
-| 1993 | RPR exception | [Great Lakes: p. 14: The request to divest a minister without censure was handled at the initial meeting](../rpr/exc/great-lakes__002.html) | raised |
-| 1993 | RPR exception | [Heritage: 6-A: There is no record that, when the pastor was allowed to labor in a church outside the](../rpr/exc/heritage__006.html) | raised |
-| 1993 | RPR exception | [Pacific Northwest: b. April 26-27,1991: p. 19, item 2 There is no record that a teaching elder called to a no](../rpr/exc/pacific-northwest__009.html) | satisfactory |
-| 1994 | RPR exception | [Calvary: There was no list of candidates under care and licentiates included. April 22,1993, Octobe](../rpr/exc/calvary__035.html) | raised |
-| 1994 | RPR exception | [Covenant: pp. 13, 15: The call to a non-PCA work was approved with no evidence that the assurances o](../rpr/exc/covenant__011.html) | satisfactory |
-| 1994 | RPR exception | [Eastern Canada: There is no record that a teaching elder approved to labor out of bounds has liberty to te](../rpr/exc/eastern-canada__004.html) | raised |
-| 1994 | RPR exception | [Great Lakes: No record of required reports by candidates, interns, and TE’s laboring out of bounds. BCO](../rpr/exc/great-lakes__005.html) | satisfactory |
-| 1994 | RPR exception | [James River: Church Vocations Committee report shows no evidence of sessional endorsement or six month](../rpr/exc/james-river__010.html) | raised |
-| 1995 | RPR exception | [Calvary: Minutes should show receipt of confirmation that laboring out of bounds TE will have full](../rpr/exc/calvary__041.html) | satisfactory |
-| 1995 | RPR exception | [Eastern Canada: There is no record that a teaching elder approved to labor out of bounds has liberty to te](../rpr/exc/eastern-canada__005.html) | satisfactory |
-| 1995 | RPR exception | [James River: Call to PCA TE from non- PCA work is approved without assurance of "full freedom" or recor](../rpr/exc/james-river__011.html) | satisfactory |
-| 2000 | RPR exception | [Missouri: Presbytery did not record why it considers a work a valid Christian ministry. BCO 8-7; 13-](../rpr/exc/missouri__013.html) | unsatisfactory |
-| 2001 | RPR exception | [Evangel: Item 19.C &amp; 19.D: Teaching Elders were approved to labor out of bounds without followi](../rpr/exc/evangel__017.html) | satisfactory |
-| 2001 | RPR exception | [Korean Southern: No reports from ministers laboring out of bounds. BCO 8-7. d. That the following responses](../rpr/exc/korean-southern__035.html) | unsatisfactory |
-| 2001 | RPR exception | [Palmetto: Two Teaching Elders granted permission to labor out of ecclesiastical bounds without recor](../rpr/exc/palmetto__003.html) | satisfactory |
-| 2002 | RPR exception | [Heartland: 2001-24 - No record of requirements for laboring Out of Bounds. BCO 8-7](../rpr/exc/heartland__024.html) | raised |
-| 2002 | RPR exception | [Nashville: No record of reports (2001 minutes) from men under care or men laboring out of bounds. BCO](../rpr/exc/nashville__015.html) | raised |
-| 2002 | RPR exception | [Pacific Northwest: No record of session’s concurrence with request for dissolution of pastoral relation. BCO](../rpr/exc/pacific-northwest__016.html) | raised |
-| 2003 | RPR exception | [Heartland: April 27-28, 2001: 2001-24 - No record of requirements for laboring out of bounds. BCO 8-7](../rpr/exc/heartland__031.html) | satisfactory |
-| 2003 | RPR exception | [James River: Presbytery approved minister to labor out of bounds without record of approving the call a](../rpr/exc/james-river__018.html) | satisfactory |
-| 2003 | RPR exception | [Korean Southern: April 10, 2000, October 9, 2000: No reports from ministers laboring out of bounds. BCO 8-7](../rpr/exc/korean-southern__053.html) | unsatisfactory |
-| 2003 | RPR exception | [Missouri: May 20, 1999: Presbytery did not record why it considers a work a valid christian ministry](../rpr/exc/missouri__020.html) | satisfactory |
-| 2003 | RPR exception | [Pacific Northwest: April 27-28, 2001: No record of session’s concurrence with request for dissolution of past](../rpr/exc/pacific-northwest__021.html) | satisfactory |
-| 2003 | RPR exception | [Westminster: General: No reports from TEs out of bounds. BCO 8-7](../rpr/exc/westminster__016.html) | satisfactory |
-| 2004 | RPR exception | [Louisiana: No annual reports of members laboring out-ofbounds. BCO 8-7](../rpr/exc/louisiana__010.html) | satisfactory |
-| 2004 | RPR exception | [Southern New England: No record of assurance of liberty while laboring out of bounds in non-PCA setting. BCO 20-](../rpr/exc/southern-new-england__004.html) | satisfactory |
-| 2005 | RPR exception | [Grace: No record in the minutes of any stated meetings of an annual report from TEs working out o](../rpr/exc/grace__008.html) | satisfactory |
-| 2005 | RPR exception | [Korean Eastern: No record of assurance of full freedom to maintain and teach the doctrine of our church fo](../rpr/exc/korean-eastern__030.html) | unsatisfactory |
-| 2005 | RPR exception | [Korean Eastern: No record of required reports of men laboring out of bounds, of candidates (and their inst](../rpr/exc/korean-eastern__031.html) | unsatisfactory |
-| 2005 | RPR exception | [Korean Southern: No reports from ministers laboring out of bounds. BCO8-7.](../rpr/exc/korean-southern__081.html) | unsatisfactory |
-| 2005 | RPR exception | [New River: General : No record of annual reports by TE’s laboring out of bounds. BCO 8-7 Response : H](../rpr/exc/new-river__026.html) | satisfactory |
-| 2005 | RPR exception | [New York State: General : No annual reports from men laboring out of bounds or from candidates. BCO 8-7, 1](../rpr/exc/new-york-state__005.html) | satisfactory |
-| 2005 | RPR exception | [New York State: No record of assurance of full freedom to maintain and teach the doctrine of our church fo](../rpr/exc/new-york-state__004.html) | satisfactory |
-| 2005 | RPR exception | [Pacific: : No annual report of TEs laboring out of bounds. BCO 8.7 Response : We always receive an](../rpr/exc/pacific__049.html) | raised |
-| 2005 | RPR exception | [Southeast Louisiana: No record of annual reports from TE’s laboring out of bounds. BCO 8-7](../rpr/exc/southeast-louisiana__005.html) | satisfactory |
-| 2005 | RPR exception | [Warrior: No annual reports from men serving out of bounds. BCO 8-7](../rpr/exc/warrior__032.html) | satisfactory |
-| 2006 | RPR exception | [Korean Southwest: Complete call(s) not included. BCO 8-7.](../rpr/exc/korean-southwest__058.html) | unsatisfactory |
-| 2006 | RPR exception | [North Georgia: No reason provided for considering an out of bounds work to be a valid Christian ministry.](../rpr/exc/north-georgia__042.html) | satisfactory |
-| 2007 | RPR exception | [Great Lakes: : No record of annual reports from TEs laboring out of bounds. BCO 8-7; RAO 16-6.c.2. Resp](../rpr/exc/great-lakes__050.html) | satisfactory |
-| 2008 | RPR exception | [Metro Atlanta: BCO 8-7; BCO 18-6; BCO 19-12. No annual reports from TEs serving out of bounds, TEs withou](../rpr/exc/metro-atlanta__014.html) | satisfactory |
-| 2009 | RPR exception | [Eastern Carolina: No record of status of TE when church withdrew from PCA Response : Presbytery agrees with](../rpr/exc/eastern-carolina__022.html) | satisfactory |
-| 2009 | RPR exception | [Metropolitan New York: No record of reports from TEs laboring out of bounds.](../rpr/exc/metropolitan-new-york__026.html) | satisfactory |
-| 2011 | RPR exception | [Korean Central: No annual report from TEs laboring out of ecclesiastical bounds.](../rpr/exc/korean-central__053.html) | satisfactory |
-| 2011 | RPR exception | [Korean Southeastern: No annual report of TE laboring out of bounds.](../rpr/exc/korean-southeastern__056.html) | unsatisfactory |
-| 2011 | RPR exception | [Korean Southwest: No annual reports of TE laboring out of bounds.](../rpr/exc/korean-southwest__071.html) | unsatisfactory |
-| 2011 | RPR exception | [Metro Atlanta: TEs are approved to labor outside the ecclesiastical bounds of Presbytery with no evidence](../rpr/exc/metro-atlanta__027.html) | raised |
-| 2011 | RPR exception | [Platte Valley: No indication that TE laboring out of bounds has full freedom to maintain and teach the do](../rpr/exc/platte-valley__002.html) | satisfactory |
-| 2012 | RPR exception | [Palmetto: No annual report from TEs laboring out of bounds.](../rpr/exc/palmetto__018.html) | unsatisfactory |
-| 2012 | RPR exception | [Southwest Florida: No annual report of TEs laboring out of bounds.](../rpr/exc/southwest-florida__036.html) | satisfactory |
-| 2013 | RPR exception | [Central Carolina: No record in the minutes of any of the four 2012 stated meetings of an annual report from](../rpr/exc/central-carolina__013.html) | raised |
-| 2013 | RPR exception | [Chicago Metro: No record in the minutes of any of the four 2012 stated meetings of an annual report from](../rpr/exc/chicago-metro__023.html) | satisfactory |
-| 2013 | RPR exception | [Evangel: no record in the minutes of any stated meetings of an annual report from TEs working out o](../rpr/exc/evangel__056.html) | satisfactory |
-| 2013 | RPR exception | [Gulf Coast: TE laboring out of bounds; no annual report.](../rpr/exc/gulf-coast__030.html) | raised |
-| 2013 | RPR exception | [Iowa: No record in the minutes of any stated meetings of an annual report from TEs working out o](../rpr/exc/iowa__005.html) | raised |
-| 2013 | RPR exception | [James River: No record in the minutes of any stated meetings of an annual report from TEs working out o](../rpr/exc/james-river__041.html) | raised |
-| 2013 | RPR exception | [Metropolitan New York: TE laboring out of bounds; no annual report.](../rpr/exc/metropolitan-new-york__034.html) | satisfactory |
-| 2013 | RPR exception | [New Jersey: No record of some annual reports of TEs laboring out of bounds.](../rpr/exc/new-jersey__029.html) | raised |
-| 2013 | RPR exception | [Ohio Valley: No record of review of church Session records. Exception: General ( BCO 8-7) – No record i](../rpr/exc/ohio-valley__020.html) | raised |
-| 2013 | RPR exception | [Platte Valley: No record in the minutes of any stated meetings of an annual report from TEs working out o](../rpr/exc/platte-valley__003.html) | raised |
-| 2013 | RPR exception | [Rocky Mountain: No record in the minutes of any Stated Meetings of an annual report from TEs working out o](../rpr/exc/rocky-mountain__023.html) | satisfactory |
-| 2013 | RPR exception | [South Florida: No record in the minutes of any stated meetings of an annual report from TEs working out o](../rpr/exc/south-florida__010.html) | unsatisfactory |
-| 2013 | RPR exception | [Suncoast Florida: TE laboring out of bounds; no annual report.](../rpr/exc/suncoast-florida__019.html) | satisfactory |
-| 2014 | RPR exception | [Central Carolina: No record in the minutes of any of the four 2012 stated meetings of an annual report from](../rpr/exc/central-carolina__014.html) | satisfactory |
-| 2014 | RPR exception | [Gulf Coast: TE laboring out of bounds; no annual report. Response : Gulf Coast Presbytery acknowledges](../rpr/exc/gulf-coast__032.html) | satisfactory |
-| 2014 | RPR exception | [Iowa: No record in the minutes of any stated meetings of an annual report from TEs working out o](../rpr/exc/iowa__007.html) | satisfactory |
-| 2014 | RPR exception | [New Jersey: No record of some annual reports of TEs laboring out of bounds.](../rpr/exc/new-jersey__030.html) | satisfactory |
-| 2014 | RPR exception | [Ohio Valley: No record in the minutes of any stated meetings of an annual report from TEs working out o](../rpr/exc/ohio-valley__023.html) | raised |
-| 2015 | RPR exception | [Philadelphia Metro West: and November 16, 2013 ( BCO 8-7) – No indication given that TE laboring out of bounds has](../rpr/exc/philadelphia-metro-west__022.html) | satisfactory |
-| 2015 | RPR exception | [Rocky Mountain: TE serving out of bounds either without concurrence of other presbytery or without assuran](../rpr/exc/rocky-mountain__029.html) | unsatisfactory |
-| 2016 | RPR exception | [Rocky Mountain: TE serving out of bounds either without concurrence of other presbytery or without assuran](../rpr/exc/rocky-mountain__031.html) | satisfactory |
-| 2016 | RPR exception | [South Coast: A TE laboring out of bounds had his call approved without assurances of his full freedom t](../rpr/exc/south-coast__037.html) | satisfactory |
-| 2017 | RPR exception | [New River: No record that TE laboring jurisdictionally out of bounds will have “full freedom to maint](../rpr/exc/new-river__048.html) | satisfactory |
-| 2019 | RPR exception | [South Florida: TEs laboring out of bounds or without call reports missing.](../rpr/exc/south-florida__045.html) | satisfactory |
-| 2021 | RPR exception | [Suncoast Florida: TE permitted to minister out of bounds but no record of Presbytery being shown that TE wil](../rpr/exc/suncoast-florida__029.html) | satisfactory |
-| 2022 | RPR exception | [Korean Eastern: Teaching Elders approved to minister out of bounds but with no record of a call to a defin](../rpr/exc/korean-eastern__089.html) | unsatisfactory |
-| 2022 | RPR exception | [Metropolitan New York: Presbytery recorded a TE’s call to an organization outside the jurisdiction of the Presbyt](../rpr/exc/metropolitan-new-york__074.html) | raised |
-| 2023 | RPR exception | [Arizona: No record of annual report(s) of TE(s) laboring out of bounds.](../rpr/exc/arizona__039.html) | raised |
-| 2023 | RPR exception | [Arizona: No record that the Presbytery is assured that an out-of-bounds TE will have full freedom t](../rpr/exc/arizona__040.html) | raised |
-| 2023 | RPR exception | [Central Florida: No record that the Presbytery is assured that out-of-bounds TEs will be engaged in preachi](../rpr/exc/central-florida__097.html) | raised |
-| 2023 | RPR exception | [Covenant: No record that the Presbytery is assured that an out-of-bounds TE will have full freedom t](../rpr/exc/covenant__040.html) | raised |
-| 2023 | RPR exception | [Eastern Canada: No record that the Presbytery is assured that an out-of-bounds TE will have full freedom t](../rpr/exc/eastern-canada__031.html) | raised |
-| 2023 | RPR exception | [Georgia Foothills: No record of annual reports of TEs laboring out of bounds.](../rpr/exc/georgia-foothills__042.html) | raised |
-| 2023 | RPR exception | [Houston Metro: No record of annual reports of TEs laboring out of bounds.](../rpr/exc/houston-metro__043.html) | raised |
-| 2023 | RPR exception | [Illiana: No record of annual report(s) of TE(s) laboring out of bounds.](../rpr/exc/illiana__085.html) | raised |
-| 2023 | RPR exception | [Korean Central: TEs laboring out of bounds with missing information as to how and where they are serving.](../rpr/exc/korean-central__113.html) | raised |
-| 2023 | RPR exception | [Korean Eastern: No record of annual report(s) of TE(s) laboring out of bounds.](../rpr/exc/korean-eastern__093.html) | raised |
-| 2023 | RPR exception | [Korean Northeastern: No record that Presbytery is assured that an out of bounds TE will have full freedom to ma](../rpr/exc/korean-northeastern__012.html) | raised |
-| 2023 | RPR exception | [Korean Southwest Orange County: ( BCO 8-7; 21-2; 23 1) – TEs are reported as resigning from or having left current calls f](../rpr/exc/korean-southwest-orange-county__070.html) | raised |
-| 2023 | RPR exception | [Korean Southwest Orange County: A TE has begun to minister out of bounds. No record that Presbytery followed the appropria](../rpr/exc/korean-southwest-orange-county__069.html) | raised |
-| 2023 | RPR exception | [Korean Southwest: No record of annual report(s) of TE(s) laboring out of bounds.](../rpr/exc/korean-southwest__208.html) | raised |
-| 2023 | RPR exception | [Metro Atlanta: No record that TE laboring out of bounds will be allowed full freedom to maintain and teac](../rpr/exc/metro-atlanta__043.html) | raised |
-| 2023 | RPR exception | [New River: no record of reports of TEs laboring out of bounds.](../rpr/exc/new-river__064.html) | raised |
-| 2023 | RPR exception | [New York State: No record that the Presbytery is assured that an out-of-bounds TE will have full freedom t](../rpr/exc/new-york-state__015.html) | raised |
-| 2023 | RPR exception | [Northern California: No record that the Presbytery is assured that an out-of-bounds TE will have full freedom t](../rpr/exc/northern-california__069.html) | raised |
-| 2023 | RPR exception | [Palmetto: No record of annual report(s) of TE(s) laboring out of bounds.](../rpr/exc/palmetto__049.html) | raised |
-| 2023 | RPR exception | [Philadelphia: no record of reports of TEs laboring out of bounds.](../rpr/exc/philadelphia__057.html) | raised |
-| 2023 | RPR exception | [Providence: No record that the Presbytery is assured that an out-of-bounds TE will have full freedom t](../rpr/exc/providence__053.html) | raised |
-| 2023 | RPR exception | [Rocky Mountain: No record of annual reports of TEs laboring out of bounds.](../rpr/exc/rocky-mountain__061.html) | raised |
-| 2023 | RPR exception | [South Texas: No record of the reasons why Presbytery considers an out-of-bounds work to be a valid Chri](../rpr/exc/south-texas__078.html) | raised |
-| 2023 | RPR exception | [Southern Louisiana: No record of annual report(s) of TE(s) laboring out of bounds.](../rpr/exc/southern-louisiana__024.html) | raised |
-| 2023 | RPR exception | [Warrior: No record of annual report(s) of TE(s) laboring out of bounds.](../rpr/exc/warrior__068.html) | raised |
-| 2023 | RPR exception | [West Hudson: No record of annual reports of TEs laboring out of bounds.](../rpr/exc/west-hudson__011.html) | raised |
-| 2023 | RPR exception | [West Hudson: No record of presbytery determining that a TE laboring out of bounds will “be assured he w](../rpr/exc/west-hudson__012.html) | raised |
-| 2024 | RPR exception | [Arizona: No record of annual report(s) of TE(s) laboring out of bounds.](../rpr/exc/arizona__061.html) | satisfactory |
-| 2024 | RPR exception | [Arizona: No record that out-of-bounds TE is engaged in preaching and teaching the Word.](../rpr/exc/arizona__063.html) | satisfactory |
-| 2024 | RPR exception | [Arizona: No record that the Presbytery is assured that an out-of-bounds TE will have full freedom t](../rpr/exc/arizona__062.html) | satisfactory |
-| 2024 | RPR exception | [Central Florida: No record of annual report from some TEs laboring out of bounds.](../rpr/exc/central-florida__110.html) | satisfactory |
-| 2024 | RPR exception | [Central Florida: No record that the Presbytery is assured that out-of-bounds TEs will be engaged in preachi](../rpr/exc/central-florida__109.html) | satisfactory |
-| 2024 | RPR exception | [Chicago Metro: No record of annual report of TEs laboring out of bounds.](../rpr/exc/chicago-metro__080.html) | satisfactory |
-| 2024 | RPR exception | [Covenant: No record that the Presbytery is assured that an out-of-bounds TE will have full freedom t](../rpr/exc/covenant__047.html) | satisfactory |
-| 2024 | RPR exception | [Eastern Canada: No record that the Presbytery is assured that an out-of-bounds TE will have full freedom t](../rpr/exc/eastern-canada__042.html) | unsatisfactory |
-| 2024 | RPR exception | [Georgia Foothills: No record of annual reports of TEs laboring out of bounds.](../rpr/exc/georgia-foothills__052.html) | satisfactory |
-| 2024 | RPR exception | [Gulf Coast: presbytery accedes to a request from another PCA presbytery that a TE member of the other](../rpr/exc/gulf-coast__053.html) | satisfactory |
-| 2024 | RPR exception | [Gulf Coast: Reports from TEs working out of bounds not received.](../rpr/exc/gulf-coast__052.html) | satisfactory |
-| 2024 | RPR exception | [Heartland: No record of annual reports for one of the men serving out of bounds or for two of the thr](../rpr/exc/heartland__063.html) | satisfactory |
-| 2024 | RPR exception | [Houston Metro: No record of annual reports of TEs laboring out of bounds.](../rpr/exc/houston-metro__051.html) | satisfactory |
-| 2024 | RPR exception | [Illiana: No record of annual report(s) of TE(s) laboring out of bounds.](../rpr/exc/illiana__090.html) | satisfactory |
-| 2024 | RPR exception | [Iowa: No record that TE working out of bounds will have full freedom to maintain and teach the d](../rpr/exc/iowa__033.html) | satisfactory |
-| 2024 | RPR exception | [Korean Central: TEs laboring out of bounds with missing information as to how and where they are serving.](../rpr/exc/korean-central__129.html) | satisfactory |
-| 2024 | RPR exception | [Korean Eastern: No record of annual report(s) of TE(s) laboring out of bounds.](../rpr/exc/korean-eastern__115.html) | unsatisfactory |
-| 2024 | RPR exception | [Korean Eastern: No record of annual report(s) of TE(s) laboring out of bounds.](../rpr/exc/korean-eastern__117.html) | unsatisfactory |
-| 2024 | RPR exception | [Korean Eastern: Presbytery approved an out-of-bounds call without assurance that the TE will have full fre](../rpr/exc/korean-eastern__114.html) | unsatisfactory |
-| 2024 | RPR exception | [Korean Eastern: Teaching Elders approved to minister out of bounds but with no record of a call to a defin](../rpr/exc/korean-eastern__116.html) | unsatisfactory |
-| 2024 | RPR exception | [Korean Northeastern: No record that Presbytery is assured that an out of bounds TE will have full freedom to ma](../rpr/exc/korean-northeastern__014.html) | satisfactory |
-| 2024 | RPR exception | [Korean Southern: - No record of annual report(s) of TE(s) laboring out of bounds.](../rpr/exc/korean-southern__177.html) | satisfactory |
-| 2024 | RPR exception | [Korean Southwest Orange County: ate has begun to minister out of bounds. No record that Presbytery followed the appropriat](../rpr/exc/korean-southwest-orange-county__104.html) | unsatisfactory |
-| 2024 | RPR exception | [Korean Southwest Orange County: No record of annual reports of TEs laboring out of bounds.](../rpr/exc/korean-southwest-orange-county__102.html) | raised |
-| 2024 | RPR exception | [Korean Southwest Orange County: No record that the Presbytery is assured that an out-of-bounds TE will have full freedom t](../rpr/exc/korean-southwest-orange-county__103.html) | raised |
-| 2024 | RPR exception | [Korean Southwest Orange County: TEs are reported as resigning from or having left current calls from churches of Presbyter](../rpr/exc/korean-southwest-orange-county__105.html) | unsatisfactory |
-| 2024 | RPR exception | [Lowcountry: No record that TE laboring out of bounds will be allowed full freedom to maintain and teac](../rpr/exc/lowcountry__019.html) | satisfactory |
-| 2024 | RPR exception | [Metropolitan New York: No record of annual reports for the majority of men serving out of bounds or without call.](../rpr/exc/metropolitan-new-york__089.html) | raised |
-| 2024 | RPR exception | [Missouri: No record of annual report of TE’s laboring out of bounds.](../rpr/exc/missouri__067.html) | satisfactory |
-| 2024 | RPR exception | [Missouri: No record that presbytery is assured that out of bounds TE has full freedom to maintain/te](../rpr/exc/missouri__068.html) | satisfactory |
-| 2024 | RPR exception | [New River: No record of reports of TEs laboring out of bounds.](../rpr/exc/new-river__076.html) | satisfactory |
-| 2024 | RPR exception | [New York State: No record that the Presbytery is assured that an out-of-bounds TE will have full freedom t](../rpr/exc/new-york-state__022.html) | satisfactory |
-| 2024 | RPR exception | [Northern California: No record that the Presbytery is assured that an out-of-bounds TE will have full freedom t](../rpr/exc/northern-california__084.html) | satisfactory |
-| 2024 | RPR exception | [Northern Illinois: No record that the Presbytery is assured that an out-of-bounds TE will have full freedom t](../rpr/exc/northern-illinois__062.html) | satisfactory |
-| 2024 | RPR exception | [Pacific Northwest: No record that Presbytery is assured that an out-of-bounds TE will have full freedom to ma](../rpr/exc/pacific-northwest__075.html) | satisfactory |
-| 2024 | RPR exception | [Palmetto: No record of annual report(s) of TE(s) laboring out of bounds.](../rpr/exc/palmetto__059.html) | satisfactory |
-| 2024 | RPR exception | [Philadelphia: No record of reports of TEs laboring out of bounds.](../rpr/exc/philadelphia__066.html) | satisfactory |
-| 2024 | RPR exception | [Providence: No record that the Presbytery is assured that an out-of-bounds TE will have full freedom t](../rpr/exc/providence__063.html) | satisfactory |
-| 2024 | RPR exception | [Rocky Mountain: No record of annual reports of TEs laboring out of bounds.](../rpr/exc/rocky-mountain__085.html) | satisfactory |
-| 2024 | RPR exception | [Siouxlands: No record of annual reports from men without call or from some men serving out of bounds.](../rpr/exc/siouxlands__101.html) | satisfactory |
-| 2024 | RPR exception | [South Coast: No record of annual reports on most men who are serving out of bounds or who are without c](../rpr/exc/south-coast__110.html) | satisfactory |
-| 2024 | RPR exception | [South Coast: Presbytery, on motion, dissolves a man’s call to an out-of-bounds work without the concurr](../rpr/exc/south-coast__109.html) | unsatisfactory |
-| 2024 | RPR exception | [South Texas: No record of receiving reports from teaching elders working outside the bounds, and no rec](../rpr/exc/south-texas__103.html) | satisfactory |
-| 2024 | RPR exception | [South Texas: No record of the reasons why Presbytery considers an out-of-bounds work to be a valid Chri](../rpr/exc/south-texas__104.html) | satisfactory |
-| 2024 | RPR exception | [Southern Louisiana: No record of annual report(s) of TE(s) laboring out of bounds.](../rpr/exc/southern-louisiana__041.html) | satisfactory |
-| 2024 | RPR exception | [Southern Louisiana: No record of annual report(s) of TE(s) laboring out of bounds.](../rpr/exc/southern-louisiana__042.html) | satisfactory |
-| 2024 | RPR exception | [Southwest Florida: No record that out of bounds TE is engaged in preaching and teaching the Word.](../rpr/exc/southwest-florida__045.html) | satisfactory |
-| 2024 | RPR exception | [Southwest Florida: No record that the presbytery is assured that an out of bounds TE will have full freedom t](../rpr/exc/southwest-florida__044.html) | satisfactory |
-| 2024 | RPR exception | [Susquehanna Valley: No record that the Presbytery is assured that an out-of-bounds TE will have full freedom t](../rpr/exc/susquehanna-valley__057.html) | unsatisfactory |
-| 2024 | RPR exception | [Tennessee Valley: A TE’s status is changed from Honorably Retired to Out of Bounds, but specific arrangement](../rpr/exc/tennessee-valley__098.html) | satisfactory |
-| 2024 | RPR exception | [Tennessee Valley: No record that the Presbytery is assured that an out-of-bounds TE will have full freedom t](../rpr/exc/tennessee-valley__096.html) | satisfactory |
-| 2024 | RPR exception | [Tennessee Valley: No record that the Presbytery is assured that an out-of-bounds TE will have full freedom t](../rpr/exc/tennessee-valley__097.html) | unsatisfactory |
-| 2024 | RPR exception | [Warrior: No record of annual report(s) of TE(s) laboring out of bounds.](../rpr/exc/warrior__072.html) | satisfactory |
-| 2024 | RPR exception | [West Hudson: No record of annual reports of TEs laboring out of bounds.](../rpr/exc/west-hudson__025.html) | satisfactory |
-| 2024 | RPR exception | [West Hudson: No record of presbytery determining that a TE laboring out of bounds will “be assured he w](../rpr/exc/west-hudson__026.html) | satisfactory |
-| 2025 | RPR exception | [Blue Ridge: No record of annual report of TE laboring out of bounds.](../rpr/exc/blue-ridge__054.html) | raised |
-| 2025 | RPR exception | [Central Georgia: No record of annual report(s) of TE(s) laboring out of bounds.](../rpr/exc/central-georgia__042.html) | raised |
-| 2025 | RPR exception | [Central Georgia: No record of annual report(s) of TE(s) without a call.](../rpr/exc/central-georgia__043.html) | raised |
-| 2025 | RPR exception | [Central Indiana: No record of annual report(s) of TE(s) laboring out of bounds.](../rpr/exc/central-indiana__028.html) | raised |
-| 2025 | RPR exception | [Chesapeake: No annual reports for TEs without call and missing reports for TEs who are serving out of](../rpr/exc/chesapeake__029.html) | raised |
-| 2025 | RPR exception | [Chicago Metro: No record of annual report(s) of TE(s) laboring out of bounds.](../rpr/exc/chicago-metro__096.html) | raised |
-| 2025 | RPR exception | [Eastern Canada: No record of annual report of TE laboring out of bounds.](../rpr/exc/eastern-canada__047.html) | raised |
-| 2025 | RPR exception | [Georgia Foothills: No record that the Presbytery found out-of-bounds works to be needful, nor that it is assu](../rpr/exc/georgia-foothills__054.html) | raised |
-| 2025 | RPR exception | [Illiana: No record of annual report of TE laboring out of bounds (or without call).](../rpr/exc/illiana__100.html) | raised |
-| 2025 | RPR exception | [Illiana: No record that the presbytery is assured that an out-of-bounds TE will have full freedom t](../rpr/exc/illiana__099.html) | raised |
-| 2025 | RPR exception | [James River: No record that the Presbytery is assured that an out-of-bounds TE will have full freedom t](../rpr/exc/james-river__080.html) | raised |
-| 2025 | RPR exception | [Korean Capital: No record that Presbytery is assured that an out-of-bounds TE will have full freedom to ma](../rpr/exc/korean-capital__114.html) | raised |
-| 2025 | RPR exception | [Korean Capital: There are no annual reports for over half the TEs serving out of bounds (including mission](../rpr/exc/korean-capital__113.html) | raised |
-| 2025 | RPR exception | [Korean Eastern: No record of annual reports of TEs laboring out of bounds.](../rpr/exc/korean-eastern__127.html) | raised |
-| 2025 | RPR exception | [Korean Southeastern: No record of annual report(s) of TE(s) laboring out of bounds.](../rpr/exc/korean-southeastern__110.html) | raised |
-| 2025 | RPR exception | [Korean Southwest: A TE has begun to minister out of bounds. No record that Presbytery followed the appropria](../rpr/exc/korean-southwest__266.html) | unsatisfactory |
-| 2025 | RPR exception | [Korean Southwest: it is unclear if presbytery approved TE to labor out of bounds.](../rpr/exc/korean-southwest__263.html) | raised |
-| 2025 | RPR exception | [Korean Southwest: No record of annual reports of TEs laboring out of bounds.](../rpr/exc/korean-southwest__264.html) | satisfactory |
-| 2025 | RPR exception | [Korean Southwest: No record that the Presbytery is assured that an out-of-bounds TE will have full freedom t](../rpr/exc/korean-southwest__265.html) | satisfactory |
-| 2025 | RPR exception | [Korean Southwest: TEs are reported as resigning from or having left current calls from churches of Presbyter](../rpr/exc/korean-southwest__267.html) | unsatisfactory |
-| 2025 | RPR exception | [Metro Atlanta: There was not an annual report from TEs laboring out of bounds or without a call.](../rpr/exc/metro-atlanta__058.html) | raised |
-| 2025 | RPR exception | [Mississippi Valley: No record of annual reports for the majority of men serving out of bounds or without call.](../rpr/exc/mississippi-valley__021.html) | satisfactory |
-| 2025 | RPR exception | [New River: No record of the reasons why Presbytery considers an out-of-bounds work to be a valid Chri](../rpr/exc/new-river__091.html) | raised |
-| 2025 | RPR exception | [New York State: No record of annual reports of TE('s) laboring out of bounds.](../rpr/exc/new-york-state__025.html) | raised |
-| 2025 | RPR exception | [North Florida: No record of annual reports of TEs laboring out of bounds.](../rpr/exc/north-florida__064.html) | satisfactory |
-| 2025 | RPR exception | [North Florida: No record that the Presbytery is assured than an out-of-bounds TE will have full freedom t](../rpr/exc/north-florida__063.html) | raised |
-| 2025 | RPR exception | [Northern California: No record of annual report(s) of TE(s) laboring out of bounds.](../rpr/exc/northern-california__093.html) | raised |
-| 2025 | RPR exception | [Northwest Georgia: Presbytery approved Out of Bounds Call for TE presiding in another presbytery without a re](../rpr/exc/northwest-georgia__047.html) | raised |
-| 2025 | RPR exception | [Northwest Georgia: TE laboring out of bounds as stated supply no issued proper call or provide record of assu](../rpr/exc/northwest-georgia__048.html) | raised |
-| 2025 | RPR exception | [Palmetto: No record of annual reports of TEs laboring out of bounds.](../rpr/exc/palmetto__061.html) | raised |
-| 2025 | RPR exception | [Potomac: Presbytery approved a teaching elder to labor out of bounds without record of the work as](../rpr/exc/potomac__024.html) | raised |
-| 2025 | RPR exception | [Rio Grande: No record of annual report(s) of TE(s) laboring out of bounds.](../rpr/exc/rio-grande__073.html) | raised |
-| 2025 | RPR exception | [Siouxlands: Minutes should record which TE's are reporting for annual report.](../rpr/exc/siouxlands__110.html) | raised |
-| 2025 | RPR exception | [South Florida: No record of annual reports of TEs laboring out of bounds or without call.](../rpr/exc/south-florida__109.html) | raised |
-| 2025 | RPR exception | [Southern New England: No record that the presbytery is assured that an out of bounds TE will have full freedom t](../rpr/exc/southern-new-england__040.html) | raised |
-| 2025 | RPR exception | [West Hudson: No record that TE laboring as an interim in an EPC church will have the full freedom to ma](../rpr/exc/west-hudson__027.html) | raised |
+| Year | Record type | Relationship | Evidence | Confidence | Title | Disposition |
+|------|-------------|--------------|----------|------------|-------|-------------|
+| 2025 | Judicial case | explicit_citation | direct_text | high | [Felipe Assis and Carter Brown v. South Florida Presbytery](../cases/ga52_2025__2025-12_2025-13.md) | sustained |
+| 2025 | Judicial case | explicit_citation | direct_text | high | [Gleason v. Houston Metro Presbytery](../cases/ga52_2025__2024-02.md) | dismissed |
+| 2014 | Judicial case | explicit_citation | direct_text | high | [Charles Tarter v. Evangel Presbytery](../cases/ga42_2014__2012-03.md) | sustained |
+| 2014 | Constitutional inquiry | structured_provision_tag | structured_provision_tag | medium | [Defining the Term "Labor"](../inquiries/ga42_2014__ci03.md) | advice given |
+| 2022 | CCB advice | structured_provision_tag | structured_provision_tag | medium | [Chaplain endorsement requirements added to BCO 8-7](../inquiries/ga49_2022__ci21.md) | in conflict; Adopted by the CCB |
+| 2021 | CCB advice | structured_provision_tag | structured_provision_tag | medium | [Amending BCO 8-7 regarding chaplain ordination requirements](../inquiries/ga48_2021__ci01.md) | not in conflict; Adopted |
+| 2025 | Overture | explicit_citation | direct_text | high | [Amend BCO 8-4, 20-1, 21-1, 21-12, and 23-1 re Calling and Dissolution of TE Relationships for Needful Works](../markdown/ga52_2025.md#ga52-p1254) | Approved → sent to presbyteries; ratification not located |
+| 2022 | Overture | proposal_target | overture_action_target | high | [Amend BCO 8-7 by Adding Chaplain Endorsement Requirements](../markdown/ga49_2022.md#ga49-p1359) |  |
+| 2021 | Overture | proposal_target | overture_action_target | high | [Amend BCO 8-7 Regarding Chaplains](../markdown/ga48_2021.md#ga48-p966) | Answered in the negative |
+| 2025 | RPR exception | structured_exception_tag | structured_provision_tag | medium | [Blue Ridge: No record of annual report of TE laboring out of bounds.](../rpr/exc/blue-ridge__054.html) | raised |
+| 2025 | RPR exception | structured_exception_tag | structured_provision_tag | medium | [Central Georgia: No record of annual report(s) of TE(s) laboring out of bounds.](../rpr/exc/central-georgia__042.html) | raised |
+| 2025 | RPR exception | structured_exception_tag | structured_provision_tag | medium | [Central Georgia: No record of annual report(s) of TE(s) without a call.](../rpr/exc/central-georgia__043.html) | raised |
+| 2025 | RPR exception | structured_exception_tag | structured_provision_tag | medium | [Central Indiana: No record of annual report(s) of TE(s) laboring out of bounds.](../rpr/exc/central-indiana__028.html) | raised |
+| 2025 | RPR exception | structured_exception_tag | structured_provision_tag | medium | [Chesapeake: No annual reports for TEs without call and missing reports for TEs who are serving out of](../rpr/exc/chesapeake__029.html) | raised |
+| 2025 | RPR exception | structured_exception_tag | structured_provision_tag | medium | [Chicago Metro: No record of annual report(s) of TE(s) laboring out of bounds.](../rpr/exc/chicago-metro__096.html) | raised |
+| 2025 | RPR exception | structured_exception_tag | structured_provision_tag | medium | [Eastern Canada: No record of annual report of TE laboring out of bounds.](../rpr/exc/eastern-canada__047.html) | raised |
+| 2025 | RPR exception | structured_exception_tag | structured_provision_tag | medium | [Georgia Foothills: No record that the Presbytery found out-of-bounds works to be needful, nor that it is assu](../rpr/exc/georgia-foothills__054.html) | raised |
+| 2025 | RPR exception | structured_exception_tag | structured_provision_tag | medium | [Illiana: No record of annual report of TE laboring out of bounds (or without call).](../rpr/exc/illiana__100.html) | raised |
+| 2025 | RPR exception | structured_exception_tag | structured_provision_tag | medium | [Illiana: No record that the presbytery is assured that an out-of-bounds TE will have full freedom t](../rpr/exc/illiana__099.html) | raised |
+| 2025 | RPR exception | structured_exception_tag | structured_provision_tag | medium | [James River: No record that the Presbytery is assured that an out-of-bounds TE will have full freedom t](../rpr/exc/james-river__080.html) | raised |
+| 2025 | RPR exception | structured_exception_tag | structured_provision_tag | medium | [Korean Capital: No record that Presbytery is assured that an out-of-bounds TE will have full freedom to ma](../rpr/exc/korean-capital__114.html) | raised |
+| 2025 | RPR exception | structured_exception_tag | structured_provision_tag | medium | [Korean Capital: There are no annual reports for over half the TEs serving out of bounds (including mission](../rpr/exc/korean-capital__113.html) | raised |
+| 2025 | RPR exception | structured_exception_tag | structured_provision_tag | medium | [Korean Eastern: No record of annual reports of TEs laboring out of bounds.](../rpr/exc/korean-eastern__127.html) | raised |
+| 2025 | RPR exception | structured_exception_tag | structured_provision_tag | medium | [Korean Southeastern: No record of annual report(s) of TE(s) laboring out of bounds.](../rpr/exc/korean-southeastern__110.html) | raised |
+| 2025 | RPR exception | structured_exception_tag | structured_provision_tag | medium | [Korean Southwest: A TE has begun to minister out of bounds. No record that Presbytery followed the appropria](../rpr/exc/korean-southwest__266.html) | unsatisfactory |
+| 2025 | RPR exception | structured_exception_tag | structured_provision_tag | medium | [Korean Southwest: it is unclear if presbytery approved TE to labor out of bounds.](../rpr/exc/korean-southwest__263.html) | raised |
+| 2025 | RPR exception | structured_exception_tag | structured_provision_tag | medium | [Korean Southwest: No record of annual reports of TEs laboring out of bounds.](../rpr/exc/korean-southwest__264.html) | satisfactory |
+| 2025 | RPR exception | structured_exception_tag | structured_provision_tag | medium | [Korean Southwest: No record that the Presbytery is assured that an out-of-bounds TE will have full freedom t](../rpr/exc/korean-southwest__265.html) | satisfactory |
+| 2025 | RPR exception | structured_exception_tag | structured_provision_tag | medium | [Korean Southwest: TEs are reported as resigning from or having left current calls from churches of Presbyter](../rpr/exc/korean-southwest__267.html) | unsatisfactory |
+| 2025 | RPR exception | structured_exception_tag | structured_provision_tag | medium | [Metro Atlanta: There was not an annual report from TEs laboring out of bounds or without a call.](../rpr/exc/metro-atlanta__058.html) | raised |
+| 2025 | RPR exception | structured_exception_tag | structured_provision_tag | medium | [Mississippi Valley: No record of annual reports for the majority of men serving out of bounds or without call.](../rpr/exc/mississippi-valley__021.html) | satisfactory |
+| 2025 | RPR exception | structured_exception_tag | structured_provision_tag | medium | [New River: No record of the reasons why Presbytery considers an out-of-bounds work to be a valid Chri](../rpr/exc/new-river__091.html) | raised |
+| 2025 | RPR exception | structured_exception_tag | structured_provision_tag | medium | [New York State: No record of annual reports of TE('s) laboring out of bounds.](../rpr/exc/new-york-state__025.html) | raised |
+| 2025 | RPR exception | structured_exception_tag | structured_provision_tag | medium | [North Florida: No record of annual reports of TEs laboring out of bounds.](../rpr/exc/north-florida__064.html) | satisfactory |
+| 2025 | RPR exception | structured_exception_tag | structured_provision_tag | medium | [North Florida: No record that the Presbytery is assured than an out-of-bounds TE will have full freedom t](../rpr/exc/north-florida__063.html) | raised |
+| 2025 | RPR exception | structured_exception_tag | structured_provision_tag | medium | [Northern California: No record of annual report(s) of TE(s) laboring out of bounds.](../rpr/exc/northern-california__093.html) | raised |
+| 2025 | RPR exception | structured_exception_tag | structured_provision_tag | medium | [Northwest Georgia: Presbytery approved Out of Bounds Call for TE presiding in another presbytery without a re](../rpr/exc/northwest-georgia__047.html) | raised |
+| 2025 | RPR exception | structured_exception_tag | structured_provision_tag | medium | [Northwest Georgia: TE laboring out of bounds as stated supply no issued proper call or provide record of assu](../rpr/exc/northwest-georgia__048.html) | raised |
+| 2025 | RPR exception | structured_exception_tag | structured_provision_tag | medium | [Palmetto: No record of annual reports of TEs laboring out of bounds.](../rpr/exc/palmetto__061.html) | raised |
+| 2025 | RPR exception | structured_exception_tag | structured_provision_tag | medium | [Potomac: Presbytery approved a teaching elder to labor out of bounds without record of the work as](../rpr/exc/potomac__024.html) | raised |
+| 2025 | RPR exception | structured_exception_tag | structured_provision_tag | medium | [Rio Grande: No record of annual report(s) of TE(s) laboring out of bounds.](../rpr/exc/rio-grande__073.html) | raised |
+| 2025 | RPR exception | structured_exception_tag | structured_provision_tag | medium | [Siouxlands: Minutes should record which TE's are reporting for annual report.](../rpr/exc/siouxlands__110.html) | raised |
+| 2025 | RPR exception | structured_exception_tag | structured_provision_tag | medium | [South Florida: No record of annual reports of TEs laboring out of bounds or without call.](../rpr/exc/south-florida__109.html) | raised |
+| 2025 | RPR exception | structured_exception_tag | structured_provision_tag | medium | [Southern New England: No record that the presbytery is assured that an out of bounds TE will have full freedom t](../rpr/exc/southern-new-england__040.html) | raised |
+| 2025 | RPR exception | structured_exception_tag | structured_provision_tag | medium | [West Hudson: No record that TE laboring as an interim in an EPC church will have the full freedom to ma](../rpr/exc/west-hudson__027.html) | raised |
+| 2024 | RPR exception | structured_exception_tag | structured_provision_tag | medium | [Arizona: No record of annual report(s) of TE(s) laboring out of bounds.](../rpr/exc/arizona__061.html) | satisfactory |
+| 2024 | RPR exception | structured_exception_tag | structured_provision_tag | medium | [Arizona: No record that out-of-bounds TE is engaged in preaching and teaching the Word.](../rpr/exc/arizona__063.html) | satisfactory |
+| 2024 | RPR exception | structured_exception_tag | structured_provision_tag | medium | [Arizona: No record that the Presbytery is assured that an out-of-bounds TE will have full freedom t](../rpr/exc/arizona__062.html) | satisfactory |
+| 2024 | RPR exception | structured_exception_tag | structured_provision_tag | medium | [Central Florida: No record of annual report from some TEs laboring out of bounds.](../rpr/exc/central-florida__110.html) | satisfactory |
+| 2024 | RPR exception | structured_exception_tag | structured_provision_tag | medium | [Central Florida: No record that the Presbytery is assured that out-of-bounds TEs will be engaged in preachi](../rpr/exc/central-florida__109.html) | satisfactory |
+| 2024 | RPR exception | structured_exception_tag | structured_provision_tag | medium | [Chicago Metro: No record of annual report of TEs laboring out of bounds.](../rpr/exc/chicago-metro__080.html) | satisfactory |
+| 2024 | RPR exception | structured_exception_tag | structured_provision_tag | medium | [Covenant: No record that the Presbytery is assured that an out-of-bounds TE will have full freedom t](../rpr/exc/covenant__047.html) | satisfactory |
+| 2024 | RPR exception | structured_exception_tag | structured_provision_tag | medium | [Eastern Canada: No record that the Presbytery is assured that an out-of-bounds TE will have full freedom t](../rpr/exc/eastern-canada__042.html) | unsatisfactory |
+| 2024 | RPR exception | structured_exception_tag | structured_provision_tag | medium | [Georgia Foothills: No record of annual reports of TEs laboring out of bounds.](../rpr/exc/georgia-foothills__052.html) | satisfactory |
+| 2024 | RPR exception | structured_exception_tag | structured_provision_tag | medium | [Gulf Coast: presbytery accedes to a request from another PCA presbytery that a TE member of the other](../rpr/exc/gulf-coast__053.html) | satisfactory |
+| 2024 | RPR exception | structured_exception_tag | structured_provision_tag | medium | [Gulf Coast: Reports from TEs working out of bounds not received.](../rpr/exc/gulf-coast__052.html) | satisfactory |
+| 2024 | RPR exception | structured_exception_tag | structured_provision_tag | medium | [Heartland: No record of annual reports for one of the men serving out of bounds or for two of the thr](../rpr/exc/heartland__063.html) | satisfactory |
+| 2024 | RPR exception | structured_exception_tag | structured_provision_tag | medium | [Houston Metro: No record of annual reports of TEs laboring out of bounds.](../rpr/exc/houston-metro__051.html) | satisfactory |
+| 2024 | RPR exception | structured_exception_tag | structured_provision_tag | medium | [Illiana: No record of annual report(s) of TE(s) laboring out of bounds.](../rpr/exc/illiana__090.html) | satisfactory |
+| 2024 | RPR exception | structured_exception_tag | structured_provision_tag | medium | [Iowa: No record that TE working out of bounds will have full freedom to maintain and teach the d](../rpr/exc/iowa__033.html) | satisfactory |
+| 2024 | RPR exception | structured_exception_tag | structured_provision_tag | medium | [Korean Central: TEs laboring out of bounds with missing information as to how and where they are serving.](../rpr/exc/korean-central__129.html) | satisfactory |
+| 2024 | RPR exception | structured_exception_tag | structured_provision_tag | medium | [Korean Eastern: No record of annual report(s) of TE(s) laboring out of bounds.](../rpr/exc/korean-eastern__115.html) | unsatisfactory |
+| 2024 | RPR exception | structured_exception_tag | structured_provision_tag | medium | [Korean Eastern: No record of annual report(s) of TE(s) laboring out of bounds.](../rpr/exc/korean-eastern__117.html) | unsatisfactory |
+| 2024 | RPR exception | structured_exception_tag | structured_provision_tag | medium | [Korean Eastern: Presbytery approved an out-of-bounds call without assurance that the TE will have full fre](../rpr/exc/korean-eastern__114.html) | unsatisfactory |
+| 2024 | RPR exception | structured_exception_tag | structured_provision_tag | medium | [Korean Eastern: Teaching Elders approved to minister out of bounds but with no record of a call to a defin](../rpr/exc/korean-eastern__116.html) | unsatisfactory |
+| 2024 | RPR exception | structured_exception_tag | structured_provision_tag | medium | [Korean Northeastern: No record that Presbytery is assured that an out of bounds TE will have full freedom to ma](../rpr/exc/korean-northeastern__014.html) | satisfactory |
+| 2024 | RPR exception | structured_exception_tag | structured_provision_tag | medium | [Korean Southern: - No record of annual report(s) of TE(s) laboring out of bounds.](../rpr/exc/korean-southern__177.html) | satisfactory |
+| 2024 | RPR exception | structured_exception_tag | structured_provision_tag | medium | [Korean Southwest Orange County: ate has begun to minister out of bounds. No record that Presbytery followed the appropriat](../rpr/exc/korean-southwest-orange-county__104.html) | unsatisfactory |
+| 2024 | RPR exception | structured_exception_tag | structured_provision_tag | medium | [Korean Southwest Orange County: No record of annual reports of TEs laboring out of bounds.](../rpr/exc/korean-southwest-orange-county__102.html) | raised |
+| 2024 | RPR exception | structured_exception_tag | structured_provision_tag | medium | [Korean Southwest Orange County: No record that the Presbytery is assured that an out-of-bounds TE will have full freedom t](../rpr/exc/korean-southwest-orange-county__103.html) | raised |
+| 2024 | RPR exception | structured_exception_tag | structured_provision_tag | medium | [Korean Southwest Orange County: TEs are reported as resigning from or having left current calls from churches of Presbyter](../rpr/exc/korean-southwest-orange-county__105.html) | unsatisfactory |
+| 2024 | RPR exception | structured_exception_tag | structured_provision_tag | medium | [Lowcountry: No record that TE laboring out of bounds will be allowed full freedom to maintain and teac](../rpr/exc/lowcountry__019.html) | satisfactory |
+| 2024 | RPR exception | structured_exception_tag | structured_provision_tag | medium | [Metropolitan New York: No record of annual reports for the majority of men serving out of bounds or without call.](../rpr/exc/metropolitan-new-york__089.html) | raised |
+| 2024 | RPR exception | structured_exception_tag | structured_provision_tag | medium | [Missouri: No record of annual report of TE’s laboring out of bounds.](../rpr/exc/missouri__067.html) | satisfactory |
+| 2024 | RPR exception | structured_exception_tag | structured_provision_tag | medium | [Missouri: No record that presbytery is assured that out of bounds TE has full freedom to maintain/te](../rpr/exc/missouri__068.html) | satisfactory |
+| 2024 | RPR exception | structured_exception_tag | structured_provision_tag | medium | [New River: No record of reports of TEs laboring out of bounds.](../rpr/exc/new-river__076.html) | satisfactory |
+| 2024 | RPR exception | structured_exception_tag | structured_provision_tag | medium | [New York State: No record that the Presbytery is assured that an out-of-bounds TE will have full freedom t](../rpr/exc/new-york-state__022.html) | satisfactory |
+| 2024 | RPR exception | structured_exception_tag | structured_provision_tag | medium | [Northern California: No record that the Presbytery is assured that an out-of-bounds TE will have full freedom t](../rpr/exc/northern-california__084.html) | satisfactory |
+| 2024 | RPR exception | structured_exception_tag | structured_provision_tag | medium | [Northern Illinois: No record that the Presbytery is assured that an out-of-bounds TE will have full freedom t](../rpr/exc/northern-illinois__062.html) | satisfactory |
+| 2024 | RPR exception | structured_exception_tag | structured_provision_tag | medium | [Pacific Northwest: No record that Presbytery is assured that an out-of-bounds TE will have full freedom to ma](../rpr/exc/pacific-northwest__075.html) | satisfactory |
+| 2024 | RPR exception | structured_exception_tag | structured_provision_tag | medium | [Palmetto: No record of annual report(s) of TE(s) laboring out of bounds.](../rpr/exc/palmetto__059.html) | satisfactory |
+| 2024 | RPR exception | structured_exception_tag | structured_provision_tag | medium | [Philadelphia: No record of reports of TEs laboring out of bounds.](../rpr/exc/philadelphia__066.html) | satisfactory |
+| 2024 | RPR exception | structured_exception_tag | structured_provision_tag | medium | [Providence: No record that the Presbytery is assured that an out-of-bounds TE will have full freedom t](../rpr/exc/providence__063.html) | satisfactory |
+| 2024 | RPR exception | structured_exception_tag | structured_provision_tag | medium | [Rocky Mountain: No record of annual reports of TEs laboring out of bounds.](../rpr/exc/rocky-mountain__085.html) | satisfactory |
+| 2024 | RPR exception | structured_exception_tag | structured_provision_tag | medium | [Siouxlands: No record of annual reports from men without call or from some men serving out of bounds.](../rpr/exc/siouxlands__101.html) | satisfactory |
+| 2024 | RPR exception | structured_exception_tag | structured_provision_tag | medium | [South Coast: No record of annual reports on most men who are serving out of bounds or who are without c](../rpr/exc/south-coast__110.html) | satisfactory |
+| 2024 | RPR exception | structured_exception_tag | structured_provision_tag | medium | [South Coast: Presbytery, on motion, dissolves a man’s call to an out-of-bounds work without the concurr](../rpr/exc/south-coast__109.html) | unsatisfactory |
+| 2024 | RPR exception | structured_exception_tag | structured_provision_tag | medium | [South Texas: No record of receiving reports from teaching elders working outside the bounds, and no rec](../rpr/exc/south-texas__103.html) | satisfactory |
+| 2024 | RPR exception | structured_exception_tag | structured_provision_tag | medium | [South Texas: No record of the reasons why Presbytery considers an out-of-bounds work to be a valid Chri](../rpr/exc/south-texas__104.html) | satisfactory |
+| 2024 | RPR exception | structured_exception_tag | structured_provision_tag | medium | [Southern Louisiana: No record of annual report(s) of TE(s) laboring out of bounds.](../rpr/exc/southern-louisiana__041.html) | satisfactory |
+| 2024 | RPR exception | structured_exception_tag | structured_provision_tag | medium | [Southern Louisiana: No record of annual report(s) of TE(s) laboring out of bounds.](../rpr/exc/southern-louisiana__042.html) | satisfactory |
+| 2024 | RPR exception | structured_exception_tag | structured_provision_tag | medium | [Southwest Florida: No record that out of bounds TE is engaged in preaching and teaching the Word.](../rpr/exc/southwest-florida__045.html) | satisfactory |
+| 2024 | RPR exception | structured_exception_tag | structured_provision_tag | medium | [Southwest Florida: No record that the presbytery is assured that an out of bounds TE will have full freedom t](../rpr/exc/southwest-florida__044.html) | satisfactory |
+| 2024 | RPR exception | structured_exception_tag | structured_provision_tag | medium | [Susquehanna Valley: No record that the Presbytery is assured that an out-of-bounds TE will have full freedom t](../rpr/exc/susquehanna-valley__057.html) | unsatisfactory |
+| 2024 | RPR exception | structured_exception_tag | structured_provision_tag | medium | [Tennessee Valley: A TE’s status is changed from Honorably Retired to Out of Bounds, but specific arrangement](../rpr/exc/tennessee-valley__098.html) | satisfactory |
+| 2024 | RPR exception | structured_exception_tag | structured_provision_tag | medium | [Tennessee Valley: No record that the Presbytery is assured that an out-of-bounds TE will have full freedom t](../rpr/exc/tennessee-valley__096.html) | satisfactory |
+| 2024 | RPR exception | structured_exception_tag | structured_provision_tag | medium | [Tennessee Valley: No record that the Presbytery is assured that an out-of-bounds TE will have full freedom t](../rpr/exc/tennessee-valley__097.html) | unsatisfactory |
+| 2024 | RPR exception | structured_exception_tag | structured_provision_tag | medium | [Warrior: No record of annual report(s) of TE(s) laboring out of bounds.](../rpr/exc/warrior__072.html) | satisfactory |
+| 2024 | RPR exception | structured_exception_tag | structured_provision_tag | medium | [West Hudson: No record of annual reports of TEs laboring out of bounds.](../rpr/exc/west-hudson__025.html) | satisfactory |
+| 2024 | RPR exception | structured_exception_tag | structured_provision_tag | medium | [West Hudson: No record of presbytery determining that a TE laboring out of bounds will “be assured he w](../rpr/exc/west-hudson__026.html) | satisfactory |
+| 2023 | RPR exception | structured_exception_tag | structured_provision_tag | medium | [Arizona: No record of annual report(s) of TE(s) laboring out of bounds.](../rpr/exc/arizona__039.html) | raised |
+| 2023 | RPR exception | structured_exception_tag | structured_provision_tag | medium | [Arizona: No record that the Presbytery is assured that an out-of-bounds TE will have full freedom t](../rpr/exc/arizona__040.html) | raised |
+| 2023 | RPR exception | structured_exception_tag | structured_provision_tag | medium | [Central Florida: No record that the Presbytery is assured that out-of-bounds TEs will be engaged in preachi](../rpr/exc/central-florida__097.html) | raised |
+| 2023 | RPR exception | structured_exception_tag | structured_provision_tag | medium | [Covenant: No record that the Presbytery is assured that an out-of-bounds TE will have full freedom t](../rpr/exc/covenant__040.html) | raised |
+| 2023 | RPR exception | structured_exception_tag | structured_provision_tag | medium | [Eastern Canada: No record that the Presbytery is assured that an out-of-bounds TE will have full freedom t](../rpr/exc/eastern-canada__031.html) | raised |
+| 2023 | RPR exception | structured_exception_tag | structured_provision_tag | medium | [Georgia Foothills: No record of annual reports of TEs laboring out of bounds.](../rpr/exc/georgia-foothills__042.html) | raised |
+| 2023 | RPR exception | structured_exception_tag | structured_provision_tag | medium | [Houston Metro: No record of annual reports of TEs laboring out of bounds.](../rpr/exc/houston-metro__043.html) | raised |
+| 2023 | RPR exception | structured_exception_tag | structured_provision_tag | medium | [Illiana: No record of annual report(s) of TE(s) laboring out of bounds.](../rpr/exc/illiana__085.html) | raised |
+| 2023 | RPR exception | structured_exception_tag | structured_provision_tag | medium | [Korean Central: TEs laboring out of bounds with missing information as to how and where they are serving.](../rpr/exc/korean-central__113.html) | raised |
+| 2023 | RPR exception | structured_exception_tag | structured_provision_tag | medium | [Korean Eastern: No record of annual report(s) of TE(s) laboring out of bounds.](../rpr/exc/korean-eastern__093.html) | raised |
+| 2023 | RPR exception | structured_exception_tag | structured_provision_tag | medium | [Korean Northeastern: No record that Presbytery is assured that an out of bounds TE will have full freedom to ma](../rpr/exc/korean-northeastern__012.html) | raised |
+| 2023 | RPR exception | structured_exception_tag | structured_provision_tag | medium | [Korean Southwest Orange County: ( BCO 8-7; 21-2; 23 1) – TEs are reported as resigning from or having left current calls f](../rpr/exc/korean-southwest-orange-county__070.html) | raised |
+| 2023 | RPR exception | structured_exception_tag | structured_provision_tag | medium | [Korean Southwest Orange County: A TE has begun to minister out of bounds. No record that Presbytery followed the appropria](../rpr/exc/korean-southwest-orange-county__069.html) | raised |
+| 2023 | RPR exception | structured_exception_tag | structured_provision_tag | medium | [Korean Southwest: No record of annual report(s) of TE(s) laboring out of bounds.](../rpr/exc/korean-southwest__208.html) | raised |
+| 2023 | RPR exception | structured_exception_tag | structured_provision_tag | medium | [Metro Atlanta: No record that TE laboring out of bounds will be allowed full freedom to maintain and teac](../rpr/exc/metro-atlanta__043.html) | raised |
+| 2023 | RPR exception | structured_exception_tag | structured_provision_tag | medium | [New River: no record of reports of TEs laboring out of bounds.](../rpr/exc/new-river__064.html) | raised |
+| 2023 | RPR exception | structured_exception_tag | structured_provision_tag | medium | [New York State: No record that the Presbytery is assured that an out-of-bounds TE will have full freedom t](../rpr/exc/new-york-state__015.html) | raised |
+| 2023 | RPR exception | structured_exception_tag | structured_provision_tag | medium | [Northern California: No record that the Presbytery is assured that an out-of-bounds TE will have full freedom t](../rpr/exc/northern-california__069.html) | raised |
+| 2023 | RPR exception | structured_exception_tag | structured_provision_tag | medium | [Palmetto: No record of annual report(s) of TE(s) laboring out of bounds.](../rpr/exc/palmetto__049.html) | raised |
+| 2023 | RPR exception | structured_exception_tag | structured_provision_tag | medium | [Philadelphia: no record of reports of TEs laboring out of bounds.](../rpr/exc/philadelphia__057.html) | raised |
+| 2023 | RPR exception | structured_exception_tag | structured_provision_tag | medium | [Providence: No record that the Presbytery is assured that an out-of-bounds TE will have full freedom t](../rpr/exc/providence__053.html) | raised |
+| 2023 | RPR exception | structured_exception_tag | structured_provision_tag | medium | [Rocky Mountain: No record of annual reports of TEs laboring out of bounds.](../rpr/exc/rocky-mountain__061.html) | raised |
+| 2023 | RPR exception | structured_exception_tag | structured_provision_tag | medium | [South Texas: No record of the reasons why Presbytery considers an out-of-bounds work to be a valid Chri](../rpr/exc/south-texas__078.html) | raised |
+| 2023 | RPR exception | structured_exception_tag | structured_provision_tag | medium | [Southern Louisiana: No record of annual report(s) of TE(s) laboring out of bounds.](../rpr/exc/southern-louisiana__024.html) | raised |
+| 2023 | RPR exception | structured_exception_tag | structured_provision_tag | medium | [Warrior: No record of annual report(s) of TE(s) laboring out of bounds.](../rpr/exc/warrior__068.html) | raised |
+| 2023 | RPR exception | structured_exception_tag | structured_provision_tag | medium | [West Hudson: No record of annual reports of TEs laboring out of bounds.](../rpr/exc/west-hudson__011.html) | raised |
+| 2023 | RPR exception | structured_exception_tag | structured_provision_tag | medium | [West Hudson: No record of presbytery determining that a TE laboring out of bounds will “be assured he w](../rpr/exc/west-hudson__012.html) | raised |
+| 2022 | RPR exception | structured_exception_tag | structured_provision_tag | medium | [Korean Eastern: Teaching Elders approved to minister out of bounds but with no record of a call to a defin](../rpr/exc/korean-eastern__089.html) | unsatisfactory |
+| 2022 | RPR exception | structured_exception_tag | structured_provision_tag | medium | [Metropolitan New York: Presbytery recorded a TE’s call to an organization outside the jurisdiction of the Presbyt](../rpr/exc/metropolitan-new-york__074.html) | raised |
+| 2021 | RPR exception | structured_exception_tag | structured_provision_tag | medium | [Suncoast Florida: TE permitted to minister out of bounds but no record of Presbytery being shown that TE wil](../rpr/exc/suncoast-florida__029.html) | satisfactory |
+| 2019 | RPR exception | structured_exception_tag | structured_provision_tag | medium | [South Florida: TEs laboring out of bounds or without call reports missing.](../rpr/exc/south-florida__045.html) | satisfactory |
+| 2017 | RPR exception | structured_exception_tag | structured_provision_tag | medium | [New River: No record that TE laboring jurisdictionally out of bounds will have “full freedom to maint](../rpr/exc/new-river__048.html) | satisfactory |
+| 2016 | RPR exception | structured_exception_tag | structured_provision_tag | medium | [Rocky Mountain: TE serving out of bounds either without concurrence of other presbytery or without assuran](../rpr/exc/rocky-mountain__031.html) | satisfactory |
+| 2016 | RPR exception | structured_exception_tag | structured_provision_tag | medium | [South Coast: A TE laboring out of bounds had his call approved without assurances of his full freedom t](../rpr/exc/south-coast__037.html) | satisfactory |
+| 2015 | RPR exception | structured_exception_tag | structured_provision_tag | medium | [Philadelphia Metro West: and November 16, 2013 ( BCO 8-7) – No indication given that TE laboring out of bounds has](../rpr/exc/philadelphia-metro-west__022.html) | satisfactory |
+| 2015 | RPR exception | structured_exception_tag | structured_provision_tag | medium | [Rocky Mountain: TE serving out of bounds either without concurrence of other presbytery or without assuran](../rpr/exc/rocky-mountain__029.html) | unsatisfactory |
+| 2014 | RPR exception | structured_exception_tag | structured_provision_tag | medium | [Central Carolina: No record in the minutes of any of the four 2012 stated meetings of an annual report from](../rpr/exc/central-carolina__014.html) | satisfactory |
+| 2014 | RPR exception | structured_exception_tag | structured_provision_tag | medium | [Gulf Coast: TE laboring out of bounds; no annual report. Response : Gulf Coast Presbytery acknowledges](../rpr/exc/gulf-coast__032.html) | satisfactory |
+| 2014 | RPR exception | structured_exception_tag | structured_provision_tag | medium | [Iowa: No record in the minutes of any stated meetings of an annual report from TEs working out o](../rpr/exc/iowa__007.html) | satisfactory |
+| 2014 | RPR exception | structured_exception_tag | structured_provision_tag | medium | [New Jersey: No record of some annual reports of TEs laboring out of bounds.](../rpr/exc/new-jersey__030.html) | satisfactory |
+| 2014 | RPR exception | structured_exception_tag | structured_provision_tag | medium | [Ohio Valley: No record in the minutes of any stated meetings of an annual report from TEs working out o](../rpr/exc/ohio-valley__023.html) | raised |
+| 2013 | RPR exception | structured_exception_tag | structured_provision_tag | medium | [Central Carolina: No record in the minutes of any of the four 2012 stated meetings of an annual report from](../rpr/exc/central-carolina__013.html) | raised |
+| 2013 | RPR exception | structured_exception_tag | structured_provision_tag | medium | [Chicago Metro: No record in the minutes of any of the four 2012 stated meetings of an annual report from](../rpr/exc/chicago-metro__023.html) | satisfactory |
+| 2013 | RPR exception | structured_exception_tag | structured_provision_tag | medium | [Evangel: no record in the minutes of any stated meetings of an annual report from TEs working out o](../rpr/exc/evangel__056.html) | satisfactory |
+| 2013 | RPR exception | structured_exception_tag | structured_provision_tag | medium | [Gulf Coast: TE laboring out of bounds; no annual report.](../rpr/exc/gulf-coast__030.html) | raised |
+| 2013 | RPR exception | structured_exception_tag | structured_provision_tag | medium | [Iowa: No record in the minutes of any stated meetings of an annual report from TEs working out o](../rpr/exc/iowa__005.html) | raised |
+| 2013 | RPR exception | structured_exception_tag | structured_provision_tag | medium | [James River: No record in the minutes of any stated meetings of an annual report from TEs working out o](../rpr/exc/james-river__041.html) | raised |
+| 2013 | RPR exception | structured_exception_tag | structured_provision_tag | medium | [Metropolitan New York: TE laboring out of bounds; no annual report.](../rpr/exc/metropolitan-new-york__034.html) | satisfactory |
+| 2013 | RPR exception | structured_exception_tag | structured_provision_tag | medium | [New Jersey: No record of some annual reports of TEs laboring out of bounds.](../rpr/exc/new-jersey__029.html) | raised |
+| 2013 | RPR exception | structured_exception_tag | structured_provision_tag | medium | [Ohio Valley: No record of review of church Session records. Exception: General ( BCO 8-7) – No record i](../rpr/exc/ohio-valley__020.html) | raised |
+| 2013 | RPR exception | structured_exception_tag | structured_provision_tag | medium | [Platte Valley: No record in the minutes of any stated meetings of an annual report from TEs working out o](../rpr/exc/platte-valley__003.html) | raised |
+| 2013 | RPR exception | structured_exception_tag | structured_provision_tag | medium | [Rocky Mountain: No record in the minutes of any Stated Meetings of an annual report from TEs working out o](../rpr/exc/rocky-mountain__023.html) | satisfactory |
+| 2013 | RPR exception | structured_exception_tag | structured_provision_tag | medium | [South Florida: No record in the minutes of any stated meetings of an annual report from TEs working out o](../rpr/exc/south-florida__010.html) | unsatisfactory |
+| 2013 | RPR exception | structured_exception_tag | structured_provision_tag | medium | [Suncoast Florida: TE laboring out of bounds; no annual report.](../rpr/exc/suncoast-florida__019.html) | satisfactory |
+| 2012 | RPR exception | structured_exception_tag | structured_provision_tag | medium | [Palmetto: No annual report from TEs laboring out of bounds.](../rpr/exc/palmetto__018.html) | unsatisfactory |
+| 2012 | RPR exception | structured_exception_tag | structured_provision_tag | medium | [Southwest Florida: No annual report of TEs laboring out of bounds.](../rpr/exc/southwest-florida__036.html) | satisfactory |
+| 2011 | RPR exception | structured_exception_tag | structured_provision_tag | medium | [Korean Central: No annual report from TEs laboring out of ecclesiastical bounds.](../rpr/exc/korean-central__053.html) | satisfactory |
+| 2011 | RPR exception | structured_exception_tag | structured_provision_tag | medium | [Korean Southeastern: No annual report of TE laboring out of bounds.](../rpr/exc/korean-southeastern__056.html) | unsatisfactory |
+| 2011 | RPR exception | structured_exception_tag | structured_provision_tag | medium | [Korean Southwest: No annual reports of TE laboring out of bounds.](../rpr/exc/korean-southwest__071.html) | unsatisfactory |
+| 2011 | RPR exception | structured_exception_tag | structured_provision_tag | medium | [Metro Atlanta: TEs are approved to labor outside the ecclesiastical bounds of Presbytery with no evidence](../rpr/exc/metro-atlanta__027.html) | raised |
+| 2011 | RPR exception | structured_exception_tag | structured_provision_tag | medium | [Platte Valley: No indication that TE laboring out of bounds has full freedom to maintain and teach the do](../rpr/exc/platte-valley__002.html) | satisfactory |
+| 2009 | RPR exception | structured_exception_tag | structured_provision_tag | medium | [Eastern Carolina: No record of status of TE when church withdrew from PCA Response : Presbytery agrees with](../rpr/exc/eastern-carolina__022.html) | satisfactory |
+| 2009 | RPR exception | structured_exception_tag | structured_provision_tag | medium | [Metropolitan New York: No record of reports from TEs laboring out of bounds.](../rpr/exc/metropolitan-new-york__026.html) | satisfactory |
+| 2008 | RPR exception | structured_exception_tag | structured_provision_tag | medium | [Metro Atlanta: BCO 8-7; BCO 18-6; BCO 19-12. No annual reports from TEs serving out of bounds, TEs withou](../rpr/exc/metro-atlanta__014.html) | satisfactory |
+| 2007 | RPR exception | structured_exception_tag | structured_provision_tag | medium | [Great Lakes: : No record of annual reports from TEs laboring out of bounds. BCO 8-7; RAO 16-6.c.2. Resp](../rpr/exc/great-lakes__050.html) | satisfactory |
+| 2006 | RPR exception | structured_exception_tag | structured_provision_tag | medium | [Korean Southwest: Complete call(s) not included. BCO 8-7.](../rpr/exc/korean-southwest__058.html) | unsatisfactory |
+| 2006 | RPR exception | structured_exception_tag | structured_provision_tag | medium | [North Georgia: No reason provided for considering an out of bounds work to be a valid Christian ministry.](../rpr/exc/north-georgia__042.html) | satisfactory |
+| 2005 | RPR exception | structured_exception_tag | structured_provision_tag | medium | [Grace: No record in the minutes of any stated meetings of an annual report from TEs working out o](../rpr/exc/grace__008.html) | satisfactory |
+| 2005 | RPR exception | structured_exception_tag | structured_provision_tag | medium | [Korean Eastern: No record of assurance of full freedom to maintain and teach the doctrine of our church fo](../rpr/exc/korean-eastern__030.html) | unsatisfactory |
+| 2005 | RPR exception | structured_exception_tag | structured_provision_tag | medium | [Korean Eastern: No record of required reports of men laboring out of bounds, of candidates (and their inst](../rpr/exc/korean-eastern__031.html) | unsatisfactory |
+| 2005 | RPR exception | structured_exception_tag | structured_provision_tag | medium | [Korean Southern: No reports from ministers laboring out of bounds. BCO8-7.](../rpr/exc/korean-southern__081.html) | unsatisfactory |
+| 2005 | RPR exception | structured_exception_tag | structured_provision_tag | medium | [New River: General : No record of annual reports by TE’s laboring out of bounds. BCO 8-7 Response : H](../rpr/exc/new-river__026.html) | satisfactory |
+| 2005 | RPR exception | structured_exception_tag | structured_provision_tag | medium | [New York State: General : No annual reports from men laboring out of bounds or from candidates. BCO 8-7, 1](../rpr/exc/new-york-state__005.html) | satisfactory |
+| 2005 | RPR exception | structured_exception_tag | structured_provision_tag | medium | [New York State: No record of assurance of full freedom to maintain and teach the doctrine of our church fo](../rpr/exc/new-york-state__004.html) | satisfactory |
+| 2005 | RPR exception | structured_exception_tag | structured_provision_tag | medium | [Pacific: : No annual report of TEs laboring out of bounds. BCO 8.7 Response : We always receive an](../rpr/exc/pacific__049.html) | raised |
+| 2005 | RPR exception | structured_exception_tag | structured_provision_tag | medium | [Southeast Louisiana: No record of annual reports from TE’s laboring out of bounds. BCO 8-7](../rpr/exc/southeast-louisiana__005.html) | satisfactory |
+| 2005 | RPR exception | structured_exception_tag | structured_provision_tag | medium | [Warrior: No annual reports from men serving out of bounds. BCO 8-7](../rpr/exc/warrior__032.html) | satisfactory |
+| 2004 | RPR exception | structured_exception_tag | structured_provision_tag | medium | [Louisiana: No annual reports of members laboring out-ofbounds. BCO 8-7](../rpr/exc/louisiana__010.html) | satisfactory |
+| 2004 | RPR exception | structured_exception_tag | structured_provision_tag | medium | [Southern New England: No record of assurance of liberty while laboring out of bounds in non-PCA setting. BCO 20-](../rpr/exc/southern-new-england__004.html) | satisfactory |
+| 2003 | RPR exception | structured_exception_tag | structured_provision_tag | medium | [Heartland: April 27-28, 2001: 2001-24 - No record of requirements for laboring out of bounds. BCO 8-7](../rpr/exc/heartland__031.html) | satisfactory |
+| 2003 | RPR exception | structured_exception_tag | structured_provision_tag | medium | [James River: Presbytery approved minister to labor out of bounds without record of approving the call a](../rpr/exc/james-river__018.html) | satisfactory |
+| 2003 | RPR exception | structured_exception_tag | structured_provision_tag | medium | [Korean Southern: April 10, 2000, October 9, 2000: No reports from ministers laboring out of bounds. BCO 8-7](../rpr/exc/korean-southern__053.html) | unsatisfactory |
+| 2003 | RPR exception | structured_exception_tag | structured_provision_tag | medium | [Missouri: May 20, 1999: Presbytery did not record why it considers a work a valid christian ministry](../rpr/exc/missouri__020.html) | satisfactory |
+| 2003 | RPR exception | structured_exception_tag | structured_provision_tag | medium | [Pacific Northwest: April 27-28, 2001: No record of session’s concurrence with request for dissolution of past](../rpr/exc/pacific-northwest__021.html) | satisfactory |
+| 2003 | RPR exception | structured_exception_tag | structured_provision_tag | medium | [Westminster: General: No reports from TEs out of bounds. BCO 8-7](../rpr/exc/westminster__016.html) | satisfactory |
+| 2002 | RPR exception | structured_exception_tag | structured_provision_tag | medium | [Heartland: 2001-24 - No record of requirements for laboring Out of Bounds. BCO 8-7](../rpr/exc/heartland__024.html) | raised |
+| 2002 | RPR exception | structured_exception_tag | structured_provision_tag | medium | [Nashville: No record of reports (2001 minutes) from men under care or men laboring out of bounds. BCO](../rpr/exc/nashville__015.html) | raised |
+| 2002 | RPR exception | structured_exception_tag | structured_provision_tag | medium | [Pacific Northwest: No record of session’s concurrence with request for dissolution of pastoral relation. BCO](../rpr/exc/pacific-northwest__016.html) | raised |
+| 2001 | RPR exception | multiple | multiple | high | [Evangel: Item 19.C &amp; 19.D: Teaching Elders were approved to labor out of bounds without followi](../rpr/exc/evangel__017.html) | satisfactory |
+| 2001 | RPR exception | structured_exception_tag | structured_provision_tag | medium | [Korean Southern: No reports from ministers laboring out of bounds. BCO 8-7. d. That the following responses](../rpr/exc/korean-southern__035.html) | unsatisfactory |
+| 2001 | RPR exception | multiple | multiple | high | [Palmetto: Two Teaching Elders granted permission to labor out of ecclesiastical bounds without recor](../rpr/exc/palmetto__003.html) | satisfactory |
+| 2000 | RPR exception | structured_exception_tag | structured_provision_tag | medium | [Missouri: Presbytery did not record why it considers a work a valid Christian ministry. BCO 8-7; 13-](../rpr/exc/missouri__013.html) | unsatisfactory |
+| 1995 | RPR exception | structured_exception_tag | structured_provision_tag | medium | [Calvary: Minutes should show receipt of confirmation that laboring out of bounds TE will have full](../rpr/exc/calvary__041.html) | satisfactory |
+| 1995 | RPR exception | structured_exception_tag | structured_provision_tag | medium | [Eastern Canada: There is no record that a teaching elder approved to labor out of bounds has liberty to te](../rpr/exc/eastern-canada__005.html) | satisfactory |
+| 1995 | RPR exception | structured_exception_tag | structured_provision_tag | medium | [James River: Call to PCA TE from non- PCA work is approved without assurance of "full freedom" or recor](../rpr/exc/james-river__011.html) | satisfactory |
+| 1994 | RPR exception | structured_exception_tag | structured_provision_tag | medium | [Calvary: There was no list of candidates under care and licentiates included. April 22,1993, Octobe](../rpr/exc/calvary__035.html) | raised |
+| 1994 | RPR exception | structured_exception_tag | structured_provision_tag | medium | [Covenant: pp. 13, 15: The call to a non-PCA work was approved with no evidence that the assurances o](../rpr/exc/covenant__011.html) | satisfactory |
+| 1994 | RPR exception | structured_exception_tag | structured_provision_tag | medium | [Eastern Canada: There is no record that a teaching elder approved to labor out of bounds has liberty to te](../rpr/exc/eastern-canada__004.html) | raised |
+| 1994 | RPR exception | structured_exception_tag | structured_provision_tag | medium | [Great Lakes: No record of required reports by candidates, interns, and TE’s laboring out of bounds. BCO](../rpr/exc/great-lakes__005.html) | satisfactory |
+| 1994 | RPR exception | structured_exception_tag | structured_provision_tag | medium | [James River: Church Vocations Committee report shows no evidence of sessional endorsement or six month](../rpr/exc/james-river__010.html) | raised |
+| 1993 | RPR exception | structured_exception_tag | structured_provision_tag | medium | [Covenant: p. 13, 15: The call to a non-PC A work was approved with no evidence that the assurances o](../rpr/exc/covenant__003.html) | raised |
+| 1993 | RPR exception | structured_exception_tag | structured_provision_tag | medium | [Great Lakes: p. 14: The request to divest a minister without censure was handled at the initial meeting](../rpr/exc/great-lakes__002.html) | raised |
+| 1993 | RPR exception | structured_exception_tag | structured_provision_tag | medium | [Heritage: 6-A: There is no record that, when the pastor was allowed to labor in a church outside the](../rpr/exc/heritage__006.html) | raised |
+| 1993 | RPR exception | structured_exception_tag | structured_provision_tag | medium | [Pacific Northwest: b. April 26-27,1991: p. 19, item 2 There is no record that a teaching elder called to a no](../rpr/exc/pacific-northwest__009.html) | satisfactory |
+| 1992 | RPR exception | structured_exception_tag | structured_provision_tag | medium | [Pacific Northwest: Page 19, item 2 There is no record that a teaching elder called to a non PCA work was gran](../rpr/exc/pacific-northwest__005.html) | raised |
+| 1991 | RPR exception | structured_exception_tag | structured_provision_tag | medium | [Philadelphia: par. 12 Various parts of an examination not listed. No declaration that out of bounds TE b](../rpr/exc/philadelphia__013.html) | satisfactory |
+| 1990 | RPR exception | structured_exception_tag | structured_provision_tag | medium | [Pacific: Page 9, Improper ordination: Presbytery waived having a man come under care - BCO provides](../rpr/exc/pacific__005.html) | raised |
 
 ---
 *[← Authority Index](../index/AUTHORITY-BY-PROVISION.md)*

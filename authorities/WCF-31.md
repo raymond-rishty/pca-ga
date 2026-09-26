@@ -1,18 +1,12 @@
 # WCF 31
 
-*All PCA authorities bearing on **WCF 31**.*
+*Indexed PCA records associated with **WCF 31**. Association type, evidence, and confidence are shown separately; this index does not assign legal force.*
 
-## High authority
-
-| Year | Type | Title | Disposition |
-|------|------|-------|-------------|
-| 2004 | Judicial case | [Session of Delhi Presbyterian Church v. Louisiana Presbytery](../cases/ga32_2004__2002-16.md) | sustained |
-| 2006 | Judicial case | [Chastain v. Heritage Presbytery](../cases/ga34_2006__2005-01.md) | denied |
-| 2013 | Judicial case | [Hedman v. Pacific Northwest Presbytery](../cases/ga41_2013__2012-05.md) | denied |
-| 2014 | Judicial case | [Session of First Presbyterian Church North Port v. Presbytery of Southwest Florida](../cases/ga42_2014__2013-07.md) | sustained |
-| 2017 | Judicial case | [Doty v. Nashville Presbytery](../cases/ga45_2017__2016-08.md) | dismissed |
-| 2024 | Judicial case | [Tom Turner v. South Florida Presbytery](../cases/ga51_2024__2023-15_2023-17.md) | out_of_order |
-| 2025 | Judicial case | [Sears v. Nashville Presbytery](../cases/ga52_2025__2023-18.md) | denied |
+| Year | Record type | Relationship | Evidence | Confidence | Title | Disposition |
+|------|-------------|--------------|----------|------------|-------|-------------|
+| — | Judicial case | explicit_citation | direct_text | high | [John T. DeBardeleben III Memorial](../cases/ga25_1997__1996-03.md) |  |
+| 1993 | Overture | explicit_citation | direct_text | high | [Amend BCO 15-5 to Permit Discussion on Judicial Cases](../markdown/ga21_1993.md#ga21-p121) | Referred |
+| 1978 | Overture | explicit_citation | direct_text | high | [Endorse the Human Life Amendment and Call for Legal Protection of Unborn Persons](../markdown/ga06_1978.md#ga06-p33) | Answered in the negative |
 
 ---
 *[← Authority Index](../index/AUTHORITY-BY-PROVISION.md)*

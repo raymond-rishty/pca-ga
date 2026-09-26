@@ -133,13 +133,20 @@ def authorityIndex = registerCommand(
 )
 authorityIndex.configure { dependsOn provisionCatalogue }
 
+def authorityIndexAudit = registerCommand(
+    'auditAuthorityIndex', [pythonCommand, 'scripts/47_authority_index_audit.py', '.'],
+    [generatorScripts, file('index/provision_catalogue.json'), file('index/provision_link_adjudications.jsonl')],
+    [file('index/authority_index_audit.json'), file('index/AUTHORITY-INDEX-AUDIT.md')], true
+)
+authorityIndexAudit.configure { dependsOn authorityIndex }
+
 def searchIndex = registerCommand(
     'rebuildSearchIndex', [pythonCommand, 'scripts/35_search_index.py', '.'],
     [generatorScripts, fileTree('index'), fileTree('cases'), fileTree('inquiries'),
      fileTree('overtures'), fileTree('rpr'), fileTree('studies')],
     [searchIndexOutputs], true
 )
-searchIndex.configure { dependsOn authorityIndex }
+searchIndex.configure { dependsOn authorityIndexAudit }
 
 def bcoManifests = registerCommand(
     'generateBcoManifests', [pythonCommand, 'scripts/45_bco_manifests.py', '.', '--out', 'api/bco'],
@@ -243,6 +250,13 @@ def testProvisionCatalogue = registerCommand(
 )
 testProvisionCatalogue.configure { dependsOn testProvisionResearch }
 
+def testAuthorityIndexFeedback = registerCommand(
+    'testAuthorityIndexFeedback', [pythonCommand, 'tests/test_authority_index_feedback.py'],
+    [generatorScripts, file('tests/test_authority_index_feedback.py'),
+     fileTree('tests/fixtures/authority-index')]
+)
+testAuthorityIndexFeedback.configure { dependsOn testProvisionCatalogue }
+
 def nodeRegression = registerCommand(
     'testNodeRegressions',
     ['node', '--test', 'tests/source-pdf-links.test.js', 'tests/minutes-back-to-top.test.js',
@@ -250,7 +264,7 @@ def nodeRegression = registerCommand(
      'tests/search-index-overtures.test.js', 'tests/pagefind-search.test.js', 'tests/result-navigation.test.js'],
     [fileTree('tests'), fileTree('app'), fileTree('assets')]
 )
-nodeRegression.configure { dependsOn testProvisionCatalogue }
+nodeRegression.configure { dependsOn testAuthorityIndexFeedback }
 
 def addExtractedMetadata = registerCommand(
     'addExtractedSourcePdfMetadata', [pythonCommand, 'scripts/add_extracted_source_pdf_metadata.py', '.'],

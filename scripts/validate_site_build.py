@@ -90,6 +90,8 @@ def main() -> int:
 
     # Linker outputs and markers must exist after the whole-site transform.
     for relative in (
+        "index/authority_index_audit.json",
+        "index/AUTHORITY-INDEX-AUDIT.md",
         "assets/constitution/bco-index.json",
         "assets/constitution/standards/wcf.json",
         "assets/constitution/standards/wlc.json",

@@ -1,12 +1,10 @@
 # WCF 3.3
 
-*All PCA authorities bearing on **WCF 3.3**.*
+*Indexed PCA records associated with **WCF 3.3**. Association type, evidence, and confidence are shown separately; this index does not assign legal force.*
 
-## High authority
-
-| Year | Type | Title | Disposition |
-|------|------|-------|-------------|
-| 1991 | Judicial case | [Bowen v. Eastern Carolina Presbytery](../cases/ga19_1991__1990-08.md) | sustained |
+| Year | Record type | Relationship | Evidence | Confidence | Title | Disposition |
+|------|-------------|--------------|----------|------------|-------|-------------|
+| 1991 | Judicial case | explicit_citation | direct_text | high | [Bowen v. Eastern Carolina Presbytery](../cases/ga19_1991__1990-08.md) | sustained |
 
 ---
 *[← Authority Index](../index/AUTHORITY-BY-PROVISION.md)*
