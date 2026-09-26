@@ -895,6 +895,8 @@ def process_html(
     minutes_refs: dict[str, dict[str, dict[str, str]]],
     case_refs: dict[str, str],
     scripture_metadata: dict[str, Any],
+    *,
+    write_output: bool = True,
 ) -> tuple[int, list[dict[str, str]], list[dict[str, Any]], list[dict[str, Any]]]:
     source = normalize_inline_citation_prefixes(path.read_text(encoding="utf-8"))
     if (not PREFIX_RE.search(source) and not MINUTES_CITATION_RE.search(source)
@@ -917,9 +919,70 @@ def process_html(
     if not linker.link_count:
         return 0, linker.unresolved, linker.scripture_links, linker.scripture_review
 
-    rendered = inject_assets("".join(linker.output))
-    path.write_text(rendered, encoding="utf-8")
+    if write_output:
+        rendered = inject_assets("".join(linker.output))
+        path.write_text(rendered, encoding="utf-8")
     return linker.link_count, linker.unresolved, linker.scripture_links, linker.scripture_review
+
+
+LINKED_REF_ANCHOR_RE = re.compile(
+    r'<(?:a|button)\b[^>]*\bclass=["\'][^"\']*\b(?:constitution-ref|minutes-ref|case-ref|scripture-ref)\b[^"\']*["\']',
+    re.IGNORECASE,
+)
+
+
+def count_linked_ref_anchors(path: Path) -> int:
+    return len(LINKED_REF_ANCHOR_RE.findall(path.read_text(encoding="utf-8")))
+
+
+def file_sha256(path: Path) -> str:
+    digest = hashlib.sha256()
+    with path.open("rb") as source:
+        for chunk in iter(lambda: source.read(1024 * 1024), b""):
+            digest.update(chunk)
+    return digest.hexdigest()
+
+
+def directory_fingerprint(root: Path, paths: list[Path]) -> str:
+    digest = hashlib.sha256()
+    files = sorted(
+        (path for directory in paths if directory.is_dir()
+         for path in directory.rglob("*") if path.is_file()),
+        key=lambda path: path.as_posix(),
+    )
+    for path in files:
+        digest.update(path.relative_to(root).as_posix().encode("utf-8"))
+        digest.update(b"\0")
+        digest.update(file_sha256(path).encode("ascii"))
+        digest.update(b"\0")
+    return digest.hexdigest()
+
+
+def incremental_fingerprint(
+    bco_refs: dict[str, dict[str, str]],
+    standard_refs: dict[str, set[str]],
+    rao_refs: dict[str, dict[str, str]],
+    minutes_refs: dict[str, dict[str, dict[str, str]]],
+    case_refs: dict[str, str],
+    reader_files: dict[str, Path],
+    source_inventory: str,
+) -> str:
+    """Fingerprint global link targets and the code that interprets them."""
+    payload = {
+        "version": 1,
+        "bco": bco_refs,
+        "standards": {book: sorted(refs) for book, refs in standard_refs.items()},
+        "rao": rao_refs,
+        "minutes": minutes_refs,
+        "cases": case_refs,
+        "reader": {name: file_sha256(path) for name, path in reader_files.items()},
+        "linker": file_sha256(Path(__file__)),
+        "normalizer": file_sha256(Path(__file__).with_name("44_normalize_bco_prefixes.py")),
+        "scripture": file_sha256(SCRIPTURE_METADATA),
+        "sourceInventory": source_inventory,
+    }
+    encoded = json.dumps(payload, ensure_ascii=False, sort_keys=True, separators=(",", ":"))
+    return hashlib.sha256(encoded.encode("utf-8")).hexdigest()
 
 
 def build_case_refs(site_dir: Path) -> dict[str, str]:
@@ -1156,6 +1219,16 @@ def main() -> int:
     parser.add_argument("wlc_js", type=Path)
     parser.add_argument("wsc_js", type=Path)
     parser.add_argument("rao_js", type=Path)
+    parser.add_argument("--incremental-state", type=Path,
+                        help="Persist per-page link results outside the rendered site")
+    parser.add_argument("--files-manifest", type=Path,
+                        help="JSON array of HTML paths, relative to the site directory")
+    parser.add_argument("--source-inventory", default="",
+                        help="Fingerprint of versioned and unignored source paths")
+    parser.add_argument("--reset-state", action="store_true",
+                        help="Rebuild every page and replace the saved per-page link state")
+    parser.add_argument("--adopt-existing", action="store_true",
+                        help="Seed per-page state from a previously full-processed site")
     args = parser.parse_args()
 
     self_test()
@@ -1180,11 +1253,60 @@ def main() -> int:
         wsc,
     )
     data_dir = args.site_dir / "assets" / "constitution"
+    reference_asset_dirs = [
+        data_dir,
+        args.site_dir / "assets" / "standards",
+        args.site_dir / "assets" / "packs",
+    ]
+    prior_reference_assets = directory_fingerprint(args.site_dir, reference_asset_dirs)
+    prior_minutes_payload: dict[str, Any] | None = None
+    prior_minutes_path = args.site_dir / "assets" / "minutes-pages.json"
+    if prior_minutes_path.is_file():
+        try:
+            prior_minutes_payload = json.loads(prior_minutes_path.read_text(encoding="utf-8"))
+        except (OSError, json.JSONDecodeError):
+            prior_minutes_payload = None
     bco_refs = build_reference_data(bco, data_dir, digest)
     build_standard_preview_data(wcf, wlc, wsc, data_dir)
     rao_refs = build_rao_preview_data(rao, data_dir)
     minutes_refs, minutes_payload = build_minutes_page_index(args.site_dir)
     case_refs = build_case_refs(args.site_dir)
+    if args.adopt_existing:
+        if (prior_reference_assets != directory_fingerprint(args.site_dir, reference_asset_dirs)
+                or prior_minutes_payload != minutes_payload):
+            print("Existing reference data is stale; refusing to adopt incremental state.")
+            return 3
+
+    reader_files = {
+        "bco": args.bco_js,
+        "wcf": args.wcf_js,
+        "wlc": args.wlc_js,
+        "wsc": args.wsc_js,
+        "rao": args.rao_js,
+    }
+    fingerprint = incremental_fingerprint(
+        bco_refs, standard_refs, rao_refs, minutes_refs, case_refs,
+        reader_files, args.source_inventory,
+    )
+    old_pages: dict[str, dict[str, Any]] = {}
+    state_is_valid = False
+    if args.incremental_state and args.incremental_state.is_file() and not args.reset_state:
+        try:
+            prior_state = json.loads(args.incremental_state.read_text(encoding="utf-8"))
+            state_is_valid = prior_state.get("version") == 1
+            if state_is_valid:
+                if prior_state.get("fingerprint") != fingerprint:
+                    print("Incremental link state is stale; a full site render is required.")
+                    return 3
+                old_pages = prior_state.get("pages", {})
+        except (OSError, json.JSONDecodeError, AttributeError):
+            state_is_valid = False
+
+    selected_files: set[str] | None = None
+    if args.files_manifest and state_is_valid and not args.reset_state:
+        selected = json.loads(args.files_manifest.read_text(encoding="utf-8"))
+        selected_files = {str(item).replace("\\", "/") for item in selected}
+
     (args.site_dir / "assets" / "minutes-pages.json").write_text(
         json.dumps(minutes_payload, ensure_ascii=False, separators=(",", ":")),
         encoding="utf-8",
@@ -1192,20 +1314,93 @@ def main() -> int:
 
     total_links = 0
     changed_files = 0
-    unresolved: list[dict[str, str]] = []
-    scripture_links: list[dict[str, Any]] = []
-    scripture_review: list[dict[str, Any]] = []
+    current_paths = sorted(args.site_dir.rglob("*.html"))
+    current_relatives = {path.relative_to(args.site_dir).as_posix() for path in current_paths}
+    page_state: dict[str, dict[str, Any]] = {}
+    if args.adopt_existing:
+        audit_path = args.site_dir / "assets" / "scripture-audit.json"
+        if not audit_path.is_file():
+            parser.error("Cannot adopt the site without its full-build scripture audit")
+        try:
+            old_audit = json.loads(audit_path.read_text(encoding="utf-8"))
+        except (OSError, json.JSONDecodeError) as error:
+            parser.error(f"Cannot read the full-build scripture audit: {error}")
+        linked_by_file: dict[str, list[dict[str, Any]]] = {}
+        review_by_file: dict[str, list[dict[str, Any]]] = {}
+        for item in old_audit.get("linked", []):
+            linked_by_file.setdefault(item.get("file", ""), []).append(item)
+        for item in old_audit.get("review", []):
+            review_by_file.setdefault(item.get("file", ""), []).append(item)
 
-    for path in sorted(args.site_dir.rglob("*.html")):
-        linked, missing, found_scripture, reviewed_scripture = process_html(
-            path, args.site_dir, bco_refs, standard_refs, rao_refs, minutes_refs, case_refs, scripture_metadata
-        )
-        total_links += linked
-        unresolved.extend(missing)
-        scripture_links.extend(found_scripture)
-        scripture_review.extend(reviewed_scripture)
-        if linked:
-            changed_files += 1
+        for path in current_paths:
+            relative = path.relative_to(args.site_dir).as_posix()
+            linked, missing, found_scripture, reviewed_scripture = process_html(
+                path, args.site_dir, bco_refs, standard_refs, rao_refs,
+                minutes_refs, case_refs, scripture_metadata,
+            )
+            page_state[relative] = {
+                "sha256": file_sha256(path),
+                "link_count": count_linked_ref_anchors(path),
+                "unresolved": missing,
+                "scripture_links": linked_by_file.get(relative, []) + found_scripture,
+                # Unlinked scripture citations remain visible to the parser and
+                # are rediscovered during adoption; do not duplicate old review rows.
+                "scripture_review": reviewed_scripture,
+            }
+    else:
+        for path in current_paths:
+            relative = path.relative_to(args.site_dir).as_posix()
+            page_hash = file_sha256(path)
+            cached = old_pages.get(relative) if state_is_valid else None
+            process_page = not state_is_valid or cached is None
+            if selected_files is None and state_is_valid:
+                process_page = True
+            elif selected_files is not None and relative in selected_files:
+                process_page = True
+
+            if cached and cached.get("sha256") == page_hash:
+                process_page = False
+
+            if process_page:
+                linked, missing, found_scripture, reviewed_scripture = process_html(
+                    path, args.site_dir, bco_refs, standard_refs, rao_refs,
+                    minutes_refs, case_refs, scripture_metadata,
+                )
+                page_state[relative] = {
+                    "sha256": file_sha256(path),
+                    "link_count": linked,
+                    "unresolved": missing,
+                    "scripture_links": found_scripture,
+                    "scripture_review": reviewed_scripture,
+                }
+            else:
+                page_state[relative] = cached
+
+    if args.incremental_state:
+        args.incremental_state.parent.mkdir(parents=True, exist_ok=True)
+        state_temp = args.incremental_state.with_suffix(args.incremental_state.suffix + ".tmp")
+        state_temp.write_text(json.dumps({
+            "version": 1,
+            "fingerprint": fingerprint,
+            "source_inventory": args.source_inventory,
+            "pages": page_state,
+        }, ensure_ascii=False, separators=(",", ":")), encoding="utf-8")
+        state_temp.replace(args.incremental_state)
+
+    unresolved = [
+        item for relative in sorted(page_state)
+        for item in page_state[relative].get("unresolved", [])
+    ]
+    scripture_links = [
+        item for relative in sorted(page_state)
+        for item in page_state[relative].get("scripture_links", [])
+    ]
+    scripture_review = [
+        item for relative in sorted(page_state)
+        for item in page_state[relative].get("scripture_review", [])
+    ]
+    total_links = sum(page.get("link_count", 0) for page in page_state.values())
+    changed_files = sum(1 for page in page_state.values() if page.get("link_count", 0))
 
     (args.site_dir / "assets" / "scripture-audit.json").write_text(
         json.dumps({"version": 1, "linked": scripture_links, "review": scripture_review}, ensure_ascii=False, separators=(",", ":")),

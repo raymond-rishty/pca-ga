@@ -581,12 +581,10 @@ def main() -> int:
     args = parser.parse_args()
     if args.write:
         registry, inventory = build(args.root)
-        (args.root / "index" / "source_registry.json").write_text(
-            json.dumps(registry, indent=2, ensure_ascii=False) + "\n", encoding="utf-8"
-        )
-        (args.root / "index" / "dedicated_pdf_inventory.json").write_text(
-            json.dumps(inventory, indent=2, ensure_ascii=False) + "\n", encoding="utf-8"
-        )
+        with (args.root / "index" / "source_registry.json").open("w", encoding="utf-8", newline="\n") as output:
+            output.write(json.dumps(registry, indent=2, ensure_ascii=False) + "\n")
+        with (args.root / "index" / "dedicated_pdf_inventory.json").open("w", encoding="utf-8", newline="\n") as output:
+            output.write(json.dumps(inventory, indent=2, ensure_ascii=False) + "\n")
         print("wrote source registry and dedicated-PDF inventory")
         return 0
     errors = validate_registry(args.root)

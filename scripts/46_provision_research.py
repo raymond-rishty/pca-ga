@@ -700,12 +700,23 @@ def main() -> int:
     site.add_argument("reader", nargs="?", type=Path,
                       help="deprecated; provision text is read from index/provision_catalogue.json")
     site.add_argument("--baseurl", default=DEFAULT_BASEURL)
+    links = subparsers.add_parser("link-authorities", help="restore legacy authority page links")
+    links.add_argument("root", type=Path)
+    links.add_argument("site_dir", type=Path)
     args = parser.parse_args()
     if args.command == "search":
         args.output.parent.mkdir(parents=True, exist_ok=True)
         records = build_search_records(args.root)
         args.output.write_text(json.dumps(records, ensure_ascii=False, separators=(",", ":")), encoding="utf-8")
         print(f"Wrote {len(records)} provision search records to {args.output}")
+        return 0
+    if args.command == "link-authorities":
+        from provision_catalogue import load_catalogue
+
+        catalogue = load_catalogue(args.root / "index" / "provision_catalogue.json")
+        unit_by_id = {unit["id"]: unit for unit in catalogue["provisions"]}
+        linked = add_legacy_authority_links(args.root, args.site_dir, unit_by_id)
+        print(f"Linked {linked} legacy authority pages to canonical provisions")
         return 0
     build_site(args.root, args.site_dir, args.reader, args.baseurl)
     return 0

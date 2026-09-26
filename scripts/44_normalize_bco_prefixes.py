@@ -14,6 +14,9 @@ from __future__ import annotations
 
 import re
 import sys
+import hashlib
+import json
+import argparse
 from pathlib import Path
 
 DASH = r"[-\u2010\u2011\u2012\u2013\u2014\u2212]"
@@ -63,14 +66,43 @@ def self_test() -> None:
     assert "BCO 46-8. O" not in rendered
 
 
+def file_sha256(path: Path) -> str:
+    digest = hashlib.sha256()
+    with path.open("rb") as source:
+        for chunk in iter(lambda: source.read(1024 * 1024), b""):
+            digest.update(chunk)
+    return digest.hexdigest()
+
+
 def main() -> int:
     self_test()
-    site = Path(sys.argv[1]) if len(sys.argv) > 1 else Path("_site")
+    parser = argparse.ArgumentParser()
+    parser.add_argument("site_dir", type=Path, nargs="?", default=Path("_site"))
+    parser.add_argument("--incremental-state", type=Path,
+                        help="Use prior per-page link hashes to select stale HTML")
+    parser.add_argument("--files-manifest", type=Path,
+                        help="Write changed HTML paths for the citation linker")
+    args = parser.parse_args()
+    site = args.site_dir
+    cached_pages: dict[str, dict[str, str]] = {}
+    if args.incremental_state and args.incremental_state.is_file():
+        try:
+            cached_pages = json.loads(
+                args.incremental_state.read_text(encoding="utf-8")
+            ).get("pages", {})
+        except (OSError, json.JSONDecodeError, AttributeError):
+            cached_pages = {}
+
     changed = 0
     emphasized = 0
     boundaries = 0
+    changed_paths: list[str] = []
 
-    for path in site.rglob("*.html"):
+    for path in sorted(site.rglob("*.html")):
+        relative = path.relative_to(site).as_posix()
+        cached = cached_pages.get(relative)
+        if cached and cached.get("sha256") == file_sha256(path):
+            continue
         source = path.read_text(encoding="utf-8")
         rendered, prefix_count = INLINE_PREFIX.subn(
             lambda match: match.group("prefix"), source
@@ -83,6 +115,13 @@ def main() -> int:
             changed += 1
             emphasized += prefix_count
             boundaries += boundary_count
+        changed_paths.append(relative)
+
+    if args.files_manifest:
+        args.files_manifest.parent.mkdir(parents=True, exist_ok=True)
+        args.files_manifest.write_text(
+            json.dumps(changed_paths, separators=(",", ":")), encoding="utf-8"
+        )
 
     print(
         "Normalized BCO citations in "

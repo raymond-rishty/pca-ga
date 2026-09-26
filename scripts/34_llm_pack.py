@@ -124,7 +124,8 @@ def main():
         source = keep_corpus_scope(open(p, encoding="utf-8").read())
         parts += [f"\n\n{'=' * 78}\n# {f}   (live: {live})\n{'=' * 78}\n",
                   canonicalize_pack_links(source, f"index/{f}")]
-    open(os.path.join(ROOT, "llms-full.txt"), "w", encoding="utf-8").write("\n".join(parts))
+    with open(os.path.join(ROOT, "llms-full.txt"), "w", encoding="utf-8", newline="\n") as output:
+        output.write("\n".join(parts))
 
     sz = os.path.getsize(os.path.join(ROOT, "llms-full.txt"))
     print(f"[{ROOT}] wrote llms-full.txt ({sz // 1024}KB ~{sz // 4000}k tokens); ASK.md and llms.txt unchanged")

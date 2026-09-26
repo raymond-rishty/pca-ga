@@ -1,0 +1,502 @@
+import org.gradle.api.tasks.PathSensitivity
+import org.gradle.api.tasks.Exec
+
+plugins {
+    id 'base'
+}
+
+def isWindows = System.getProperty('os.name').toLowerCase(Locale.ROOT).contains('windows')
+def pythonCommand = providers.gradleProperty('pythonCommand').orElse(isWindows ? 'python' : 'python3').get()
+def pythonVersion = providers.gradleProperty('pythonVersion').orElse('unspecified').get()
+def constitutionDir = file(providers.gradleProperty('constitutionDir').orElse('_constitution').get())
+def constitutionContent = new File(constitutionDir, 'content')
+def siteDir = file(providers.gradleProperty('siteDir').orElse('_site').get())
+def incrementalJekyll = providers.gradleProperty('incrementalJekyll').map { it.toBoolean() }.orElse(false).get()
+def generatorScripts = fileTree('scripts') {
+    include '**/*.py'
+    exclude 'render_site.py', 'validate_site_build.py'
+}
+
+def commandLineFor = { List<String> command ->
+    if (isWindows && ['bundle', 'npx'].contains(command[0].toLowerCase(Locale.ROOT))) {
+        return ['cmd.exe', '/d', '/c'] + command
+    }
+    return command
+}
+
+def registerCommand = { String taskName, List<String> command, Collection inputFiles = [],
+                        Collection outputFiles = [], boolean cacheable = false ->
+    tasks.register(taskName, Exec) {
+        group = 'site build'
+        workingDir = projectDir
+        commandLine commandLineFor(command)
+        environment 'PYTHONUTF8', '1'
+
+        inputFiles.eachWithIndex { inputFileSet, index ->
+            inputs.files(inputFileSet)
+                .withPropertyName("sourceFiles${index}")
+                .withPathSensitivity(PathSensitivity.RELATIVE)
+                .normalizeLineEndings()
+        }
+        inputs.property('commandLine', command)
+        inputs.property('pythonVersion', pythonVersion)
+        inputs.property('hostPlatform', "${System.getProperty('os.name')}-${System.getProperty('os.arch')}")
+
+        if (!outputFiles.isEmpty()) {
+            outputFiles.eachWithIndex { output, index ->
+                if (output instanceof File && output.isDirectory()) {
+                    outputs.dir(output).withPropertyName("generatedDirectory${index}")
+                } else {
+                    outputs.files(project.files(output)).withPropertyName("generatedFiles${index}")
+                }
+            }
+            if (cacheable) {
+                outputs.cacheIf('deterministic generated data') { true }
+            }
+        }
+    }
+}
+
+def sourceRegistryInputs = fileTree('index') {
+    exclude 'source_registry.json', 'dedicated_pdf_inventory.json'
+}
+def provisionCatalogueInputs = fileTree('index') {
+    exclude 'provision_catalogue.json'
+}
+def judicialCatalogueInputs = files(file('index/judicial_cases.jsonl'), file('index/cases.jsonl'))
+def searchIndexOutputs = fileTree('app') {
+    include 'search_index.json', 'case_summaries_*.json', 'provision_search.json'
+}
+
+def checkPython = registerCommand('checkPythonDependencies', [pythonCommand, '-c', 'import openpyxl'])
+
+def regenerateOvertures = registerCommand(
+    'regenerateOvertures',
+    [pythonCommand, 'scripts/21_overture_titles.py', 'extract', '.'],
+    [generatorScripts, file('index/overture_body_ends.json'), file('index/overture_bodies.jsonl'),
+     file('index/overture_titles.jsonl'), file('index/overture_dispositions.jsonl')]
+)
+regenerateOvertures.configure {
+    doLast {
+        exec {
+            workingDir projectDir
+            environment 'PYTHONUTF8', '1'
+            commandLine commandLineFor([pythonCommand, 'scripts/37_overture_pages.py', '.'])
+        }
+    }
+}
+
+def reconcileCases = registerCommand(
+    'reconcileCaseArtifacts', [pythonCommand, 'scripts/27_case_index_reconcile.py'],
+    [generatorScripts, fileTree('cases'), file('index/CASES.md'), file('index/case_pages_map.json'),
+     file('index/case_pages_overrides.json')]
+)
+reconcileCases.configure { dependsOn checkPython }
+if (providers.gradleProperty('regenerateOvertures').isPresent()) {
+    reconcileCases.configure { dependsOn regenerateOvertures }
+}
+
+def syncCaseCards = registerCommand(
+    'syncCasePageCards', [pythonCommand, 'scripts/84_sync_case_page_metadata.py', '.'],
+    [generatorScripts, file('index/judicial_cases.jsonl'), fileTree('cases')]
+)
+syncCaseCards.configure { dependsOn reconcileCases }
+
+def judicialCatalogue = registerCommand(
+    'generateJudicialCatalogue', [pythonCommand, 'scripts/13_judicial_taxonomy_index.py', '.'],
+    [generatorScripts, judicialCatalogueInputs, fileTree('cases')],
+    [file('index/JUDICIAL-CASES.html')], true
+)
+judicialCatalogue.configure { dependsOn syncCaseCards }
+
+def caseProvisionIndex = registerCommand(
+    'generateCaseProvisionIndex', [pythonCommand, 'scripts/44_case_provision_index.py', '.'],
+    [generatorScripts, file('index/cases.jsonl'), file('index/judicial_cases.jsonl'),
+     file('index/case_pages_map.json'), fileTree('cases')],
+    [file('index/case_provision_index.json'), file('index/CASES-BY-PROVISION.md')], true
+)
+caseProvisionIndex.configure { dependsOn judicialCatalogue }
+
+def provisionCatalogue = registerCommand(
+    'generateProvisionCatalogue',
+    [pythonCommand, 'scripts/build_provision_catalogue.py', '.', constitutionContent.absolutePath],
+    [generatorScripts, provisionCatalogueInputs, fileTree('cases'), fileTree('inquiries'),
+     fileTree('rpr/exc'), fileTree(constitutionContent)],
+    [file('index/provision_catalogue.json')], true
+)
+provisionCatalogue.configure { dependsOn caseProvisionIndex }
+
+def authorityIndex = registerCommand(
+    'projectAuthorityIndex', [pythonCommand, 'scripts/43_authority_index.py', '.'],
+    [generatorScripts, file('index/provision_catalogue.json')],
+    [file('index/authority_index.json'), file('index/AUTHORITY-BY-PROVISION.md'), file('authorities')], true
+)
+authorityIndex.configure { dependsOn provisionCatalogue }
+
+def authorityIndexAudit = registerCommand(
+    'auditAuthorityIndex', [pythonCommand, 'scripts/47_authority_index_audit.py', '.'],
+    [generatorScripts, file('index/provision_catalogue.json'), file('index/provision_link_adjudications.jsonl')],
+    [file('index/authority_index_audit.json'), file('index/AUTHORITY-INDEX-AUDIT.md')], true
+)
+authorityIndexAudit.configure { dependsOn authorityIndex }
+
+def searchIndex = registerCommand(
+    'rebuildSearchIndex', [pythonCommand, 'scripts/35_search_index.py', '.'],
+    [generatorScripts, fileTree('index'), fileTree('cases'), fileTree('inquiries'),
+     fileTree('overtures'), fileTree('rpr'), fileTree('studies')],
+    [searchIndexOutputs], true
+)
+searchIndex.configure { dependsOn authorityIndexAudit }
+
+def bcoManifests = registerCommand(
+    'generateBcoManifests', [pythonCommand, 'scripts/45_bco_manifests.py', '.', '--out', 'api/bco'],
+    [generatorScripts, file('index/provision_catalogue.json')],
+    [file('api/bco'), file('api/provisions')], true
+)
+bcoManifests.configure { dependsOn searchIndex }
+
+def llmPack = registerCommand(
+    'generateLlmPack', [pythonCommand, 'scripts/34_llm_pack.py', '.'],
+    [generatorScripts, file('INDEX.md'), file('RPR.md'), file('INQUIRIES.md'),
+     file('CCB-OVERTURE-ADVICE.md'), fileTree('index'), file('api/bco/index.json')],
+    [file('llms-full.txt')], true
+)
+llmPack.configure { dependsOn bcoManifests }
+
+def validateStudy = registerCommand(
+    'validateStudyCatalogue', [pythonCommand, 'scripts/check_study_catalogue.py', '.'],
+    [generatorScripts, fileTree('studies'), fileTree('index')]
+)
+validateStudy.configure { dependsOn llmPack }
+
+def restoreMinutes = registerCommand(
+    'restoreMinutesSourcePdfMetadata', [pythonCommand, 'scripts/ensure_minutes_source_pdf_metadata.py'],
+    [generatorScripts, fileTree('markdown')]
+)
+restoreMinutes.configure { dependsOn validateStudy }
+
+def validateMinutes = registerCommand(
+    'validateMinutesSourcePdfMetadata', [pythonCommand, 'scripts/ensure_minutes_source_pdf_metadata.py', '--check'],
+    [generatorScripts, fileTree('markdown')]
+)
+validateMinutes.configure { dependsOn restoreMinutes }
+
+def testMinutesMetadata = registerCommand(
+    'testMinutesSourcePdfMetadata', [pythonCommand, 'tests/test_minutes_source_pdf_metadata.py'],
+    [generatorScripts, fileTree('tests'), fileTree('markdown')]
+)
+testMinutesMetadata.configure { dependsOn validateMinutes }
+
+def buildSourceRegistry = registerCommand(
+    'buildSourceRegistry', [pythonCommand, 'scripts/build_source_registry.py', '.', '--write'],
+    [generatorScripts, sourceRegistryInputs, fileTree('cases'), fileTree('inquiries'),
+     fileTree('overtures'), fileTree('rpr'), fileTree('studies')],
+    [file('index/source_registry.json'), file('index/dedicated_pdf_inventory.json')], true
+)
+buildSourceRegistry.configure { dependsOn testMinutesMetadata }
+
+// Keep the quick local preview data-current without running the full validation
+// chain on every edit. Output-bearing generators in this graph are up-to-date
+// when their actual inputs have not changed.
+def refreshSiteSourceRegistry = registerCommand(
+    'refreshSiteSourceRegistry', [pythonCommand, 'scripts/build_source_registry.py', '.', '--write'],
+    [generatorScripts, sourceRegistryInputs, fileTree('cases'), fileTree('inquiries'),
+     fileTree('overtures'), fileTree('rpr'), fileTree('studies')],
+    [file('index/source_registry.json'), file('index/dedicated_pdf_inventory.json')], true
+)
+refreshSiteSourceRegistry.configure { dependsOn 'generateBcoManifests' }
+llmPack.configure { mustRunAfter refreshSiteSourceRegistry }
+def refreshSiteMinutesMetadata = registerCommand(
+    'refreshSiteMinutesMetadata', [pythonCommand, 'scripts/ensure_minutes_source_pdf_metadata.py'],
+    [generatorScripts, fileTree('markdown')]
+)
+tasks.register('preparePreviewData') {
+    group = 'site build'
+    description = 'Refresh only generated data needed to render a local preview.'
+    dependsOn 'generateLlmPack', 'refreshSiteSourceRegistry', 'refreshSiteMinutesMetadata'
+}
+
+def validateSourceRegistry = registerCommand(
+    'validateSourceRegistry', [pythonCommand, 'scripts/build_source_registry.py', '.', '--check'],
+    [generatorScripts, sourceRegistryInputs, fileTree('cases'), fileTree('inquiries'),
+     fileTree('overtures'), fileTree('rpr'), fileTree('studies')]
+)
+validateSourceRegistry.configure { dependsOn buildSourceRegistry }
+
+def testExtractedPdfMetadata = registerCommand(
+    'testExtractedSourcePdfMetadata', [pythonCommand, 'tests/test_extracted_source_pdf_metadata.py'],
+    [generatorScripts, fileTree('tests'), fileTree('index'), fileTree('cases'), fileTree('inquiries'),
+     fileTree('overtures'), fileTree('rpr'), fileTree('studies')]
+)
+testExtractedPdfMetadata.configure { dependsOn validateSourceRegistry }
+
+def testSourceRegistry = registerCommand(
+    'testSourceRegistry', [pythonCommand, 'tests/test_source_registry.py'],
+    [generatorScripts, fileTree('tests'), fileTree('index'), fileTree('cases'), fileTree('inquiries'),
+     fileTree('overtures'), fileTree('rpr'), fileTree('studies')]
+)
+testSourceRegistry.configure { dependsOn testExtractedPdfMetadata }
+
+def testProvisionResearch = registerCommand(
+    'testProvisionResearch', [pythonCommand, 'tests/test_provision_research.py'],
+    [generatorScripts, fileTree('tests'), fileTree('index'), fileTree('scripts')]
+)
+testProvisionResearch.configure { dependsOn testSourceRegistry }
+
+def testProvisionCatalogue = registerCommand(
+    'testProvisionCatalogue', [pythonCommand, 'tests/test_provision_catalogue.py'],
+    [generatorScripts, fileTree('tests'), fileTree('index'), fileTree('cases'), fileTree('inquiries'),
+     fileTree('overtures'), fileTree('rpr'), fileTree('studies'), fileTree(constitutionContent)]
+)
+testProvisionCatalogue.configure { dependsOn testProvisionResearch }
+
+def testAuthorityIndexFeedback = registerCommand(
+    'testAuthorityIndexFeedback', [pythonCommand, 'tests/test_authority_index_feedback.py'],
+    [generatorScripts, file('tests/test_authority_index_feedback.py'),
+     fileTree('tests/fixtures/authority-index')]
+)
+testAuthorityIndexFeedback.configure { dependsOn testProvisionCatalogue }
+
+def nodeRegression = registerCommand(
+    'testNodeRegressions',
+    ['node', '--test', 'tests/source-pdf-links.test.js', 'tests/minutes-back-to-top.test.js',
+     'tests/minutes-page-source-pdf.test.js', 'tests/search-engine.test.js', 'tests/search-record.test.js',
+     'tests/search-index-overtures.test.js', 'tests/pagefind-search.test.js', 'tests/result-navigation.test.js'],
+    [fileTree('tests'), fileTree('app'), fileTree('assets')]
+)
+nodeRegression.configure { dependsOn testAuthorityIndexFeedback }
+
+def addExtractedMetadata = registerCommand(
+    'addExtractedSourcePdfMetadata', [pythonCommand, 'scripts/add_extracted_source_pdf_metadata.py', '.'],
+    [generatorScripts, file('scripts/source_links.py'), file('index/source_registry.json'),
+     fileTree('cases'), fileTree('inquiries'), fileTree('overtures'), fileTree('rpr'), fileTree('studies')]
+)
+addExtractedMetadata.configure { dependsOn nodeRegression }
+
+def validateFootnotes = registerCommand(
+    'validateFootnoteIntegrity', [pythonCommand, 'scripts/81_validate_footnote_integrity.py'],
+    [generatorScripts, fileTree('markdown'), fileTree('cases'), fileTree('inquiries'),
+     fileTree('overtures'), fileTree('rpr'), fileTree('studies')]
+)
+validateFootnotes.configure { dependsOn addExtractedMetadata }
+
+tasks.register('prepareData') {
+    group = 'site build'
+    description = 'Regenerate derived repository data and run the data checks.'
+    dependsOn validateFootnotes
+}
+
+def structuralInputs = files(
+    file('_config.yml'), file('Gemfile'), file('Gemfile.lock'), fileTree('_layouts'),
+    fileTree('_includes'), fileTree('_sass'), fileTree('_plugins'), fileTree('_data'), fileTree('assets')
+)
+def structuralMarker = file('.gradle/build-state/jekyll-structure.marker')
+def structuralFingerprint = {
+    def digest = java.security.MessageDigest.getInstance('SHA-256')
+    structuralInputs.files.findAll { it.isFile() }
+        .sort { left, right -> left.absolutePath <=> right.absolutePath }
+        .each { source ->
+            def relative = projectDir.toPath().relativize(source.toPath()).toString().replace('\\', '/')
+            digest.update(relative.getBytes('UTF-8'))
+            digest.update((byte) 0)
+            source.withInputStream { stream ->
+                byte[] buffer = new byte[1024 * 1024]
+                int count
+                while ((count = stream.read(buffer)) > 0) {
+                    digest.update(buffer, 0, count)
+                }
+            }
+            digest.update((byte) 0)
+        }
+    digest.digest().collect { String.format('%02x', it & 0xff) }.join()
+}
+tasks.register('prepareJekyllStructure') {
+    group = 'site build'
+    description = 'Forces a full Jekyll regeneration when its structural inputs change.'
+    inputs.files(structuralInputs)
+        .withPropertyName('jekyllStructure')
+        .withPathSensitivity(PathSensitivity.RELATIVE)
+        .normalizeLineEndings()
+    outputs.file(structuralMarker)
+    doLast {
+        def metadata = file('.jekyll-metadata')
+        def currentFingerprint = structuralFingerprint()
+        def previousFingerprint = structuralMarker.exists() ? structuralMarker.text.trim() : ''
+        if (metadata.exists() && previousFingerprint != currentFingerprint) {
+            metadata.delete()
+        }
+        structuralMarker.parentFile.mkdirs()
+        structuralMarker.text = currentFingerprint + '\n'
+    }
+}
+
+def renderSite = tasks.register('renderSite', Exec) {
+    group = 'site build'
+    description = 'Render, link, generate provision pages, and index the static site.'
+    dependsOn 'prepareJekyllStructure', validateFootnotes
+
+    def siteInputs = fileTree(projectDir) {
+        exclude '.git/**', '.gradle/**', 'build/**', '_site/**', '.jekyll-cache/**',
+            '.sass-cache/**', '.jekyll-metadata', 'node_modules/**', '_constitution/**',
+            '.claude/**', '.github/**', 'scripts/**', 'tests/**', 'cases-rebuilt/**',
+            'evals/**', 'ocr-bakeoff/**', 'outputs/**', 'tmp/**', 'vendor/**',
+            '**/*.jsonl', 'index/*.json', 'index/rpr/**', 'index/segments/**',
+            'index/hunt/**', 'index/sjc_official/**', 'index/digest/**',
+            'index/structure/**', 'index/synopsis_workflow/**',
+            'Gemfile', 'Gemfile.lock', 'build.gradle', 'settings.gradle',
+            'gradle.properties', 'gradlew', 'gradlew.bat', 'gradle/**'
+        def projectPath = projectDir.toPath().toAbsolutePath()
+        def outputPath = siteDir.toPath().toAbsolutePath()
+        if (projectPath.root == outputPath.root) {
+            def relativeOutput = projectPath.relativize(outputPath).toString().replace('\\', '/')
+            if (!relativeOutput.startsWith('..') && relativeOutput != '.') {
+                exclude "${relativeOutput}/**"
+            }
+        }
+    }
+    inputs.files(siteInputs)
+        .withPropertyName('siteSources')
+        .withPathSensitivity(PathSensitivity.RELATIVE)
+        .normalizeLineEndings()
+    inputs.files(fileTree(constitutionContent))
+        .withPropertyName('constitutionSources')
+        .withPathSensitivity(PathSensitivity.RELATIVE)
+        .normalizeLineEndings()
+    inputs.files(fileTree('scripts') { exclude 'validate_site_build.py' })
+        .withPropertyName('renderScripts')
+        .withPathSensitivity(PathSensitivity.RELATIVE)
+        .normalizeLineEndings()
+    inputs.files(file('Gemfile'), file('Gemfile.lock'))
+        .withPropertyName('jekyllDependencies')
+        .withPathSensitivity(PathSensitivity.RELATIVE)
+        .normalizeLineEndings()
+    inputs.file('scripts/render_site.py')
+    inputs.property('siteDirectory', siteDir.absolutePath)
+    inputs.property('constitutionDirectory', constitutionContent.absolutePath)
+    inputs.property('incrementalJekyll', incrementalJekyll)
+    inputs.property('pythonVersion', pythonVersion)
+    inputs.property('rubyVersion', providers.gradleProperty('rubyVersion').orElse('unspecified'))
+    inputs.property('nodeVersion', providers.gradleProperty('nodeVersion').orElse('unspecified'))
+    outputs.dir(siteDir)
+
+    def args = [pythonCommand, 'scripts/render_site.py', '--root', projectDir.absolutePath,
+                '--site', siteDir.absolutePath, '--reader', constitutionContent.absolutePath]
+    if (incrementalJekyll) {
+        args += '--incremental-jekyll'
+    }
+    workingDir projectDir
+    commandLine args
+    environment 'PYTHONUTF8', '1'
+}
+
+def refreshFastPreviewSearch = providers.gradleProperty('refreshPreviewSearch')
+    .map { it.toBoolean() }.orElse(false).get()
+def fastPreview = tasks.register('fastPreview', Exec) {
+    group = 'site build'
+    description = 'Incrementally render changed pages for a local preview.'
+    dependsOn 'prepareJekyllStructure', 'checkBundleDependencies', 'preparePreviewData'
+
+    def fastSiteInputs = fileTree(projectDir) {
+        exclude '.git/**', '.gradle/**', 'build/**', '_site/**', '.jekyll-cache/**',
+            '.sass-cache/**', '.jekyll-metadata', 'node_modules/**', '_constitution/**',
+            '.claude/**', '.github/**', 'scripts/**', 'tests/**', 'cases-rebuilt/**',
+            'evals/**', 'ocr-bakeoff/**', 'outputs/**', 'tmp/**', 'vendor/**',
+            '**/*.jsonl', 'index/*.json', 'index/rpr/**', 'index/segments/**',
+            'index/hunt/**', 'index/sjc_official/**', 'index/digest/**',
+            'index/structure/**', 'index/synopsis_workflow/**',
+            'Gemfile', 'Gemfile.lock', 'build.gradle', 'settings.gradle',
+            'gradle.properties', 'gradlew', 'gradlew.bat', 'gradle/**'
+        def projectPath = projectDir.toPath().toAbsolutePath()
+        def outputPath = siteDir.toPath().toAbsolutePath()
+        if (projectPath.root == outputPath.root) {
+            def relativeOutput = projectPath.relativize(outputPath).toString().replace('\\', '/')
+            if (!relativeOutput.startsWith('..') && relativeOutput != '.') {
+                exclude "${relativeOutput}/**"
+            }
+        }
+    }
+    inputs.files(fastSiteInputs)
+        .withPropertyName('fastSiteSources')
+        .withPathSensitivity(PathSensitivity.RELATIVE)
+        .normalizeLineEndings()
+    inputs.files(fileTree(constitutionContent))
+        .withPropertyName('fastConstitutionSources')
+        .withPathSensitivity(PathSensitivity.RELATIVE)
+        .normalizeLineEndings()
+    inputs.file('index/provision_catalogue.json')
+        .withPropertyName('fastProvisionCatalogue')
+        .withPathSensitivity(PathSensitivity.RELATIVE)
+        .normalizeLineEndings()
+    inputs.files(fileTree('scripts'))
+        .withPropertyName('fastRenderScripts')
+        .withPathSensitivity(PathSensitivity.RELATIVE)
+        .normalizeLineEndings()
+    inputs.files(
+        file('index/authority_index.json'), file('index/case_provision_index.json'),
+        file('index/source_registry.json'), file('index/dedicated_pdf_inventory.json'),
+        file('app/search_index.json'), file('app/provision_search.json'),
+        file('index/CASES-BY-PROVISION.md'), file('index/AUTHORITY-BY-PROVISION.md'),
+        fileTree('api/bco'), fileTree('api/provisions'), file('llms-full.txt')
+    ).withPropertyName('fastGeneratedData')
+        .withPathSensitivity(PathSensitivity.RELATIVE)
+        .normalizeLineEndings()
+    inputs.files(file('Gemfile'), file('Gemfile.lock'))
+        .withPropertyName('fastJekyllDependencies')
+        .withPathSensitivity(PathSensitivity.RELATIVE)
+        .normalizeLineEndings()
+    inputs.property('fastSiteDirectory', siteDir.absolutePath)
+    inputs.property('refreshPreviewSearch', refreshFastPreviewSearch)
+    outputs.dir(siteDir)
+
+    def args = [pythonCommand, 'scripts/render_site.py', '--fast-preview',
+                '--root', projectDir.absolutePath, '--site', siteDir.absolutePath,
+                '--reader', constitutionContent.absolutePath]
+    if (refreshFastPreviewSearch) {
+        args += '--refresh-search'
+    }
+    workingDir projectDir
+    commandLine args
+    environment 'PYTHONUTF8', '1'
+}
+
+def validateSite = registerCommand(
+    'validateRenderedSite',
+    [pythonCommand, 'scripts/validate_site_build.py', '--root', projectDir.absolutePath, '--site', siteDir.absolutePath],
+    [file('scripts/validate_site_build.py'), fileTree('scripts'), fileTree('tests'), fileTree('markdown')]
+)
+validateSite.configure { dependsOn renderSite }
+
+def validateFastSite = registerCommand(
+    'validateFastPreviewSite',
+    [pythonCommand, 'scripts/validate_site_build.py', '--root', projectDir.absolutePath, '--site', siteDir.absolutePath],
+    [file('scripts/validate_site_build.py'), fileTree('scripts'), fileTree('tests'), fileTree('markdown')]
+)
+validateFastSite.configure { dependsOn fastPreview }
+
+tasks.register('siteOnly') {
+    group = 'site build'
+    description = 'Render and validate the static site from already-prepared repository data.'
+    dependsOn validateSite
+}
+tasks.register('siteBuild') {
+    group = 'site build'
+    description = 'Run the complete data generation, validation, and static-site build.'
+    dependsOn 'prepareData', 'siteOnly'
+}
+tasks.register('siteCached') {
+    group = 'site build'
+    description = 'Update a cached site incrementally, refresh search, and validate the result.'
+    dependsOn validateFastSite
+}
+tasks.named('siteOnly').configure { mustRunAfter 'prepareData' }
+tasks.named('siteCached').configure { mustRunAfter 'prepareData' }
+
+tasks.register('checkBundleDependencies', Exec) {
+    group = 'verification'
+    workingDir = projectDir
+    def command = commandLineFor(['bundle', 'check'])
+    commandLine command
+    inputs.files(file('Gemfile'), file('Gemfile.lock'))
+    inputs.property('commandLine', command)
+}
+renderSite.configure { dependsOn 'checkBundleDependencies' }

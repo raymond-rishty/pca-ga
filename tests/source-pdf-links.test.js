@@ -31,6 +31,7 @@ test('extracted pages use the shared registry-backed resolver and renderer', () 
   const layout = read('_layouts/default.html');
   const inquiryLayout = read('_layouts/inquiry.html');
   const workflow = read('.github/workflows/pages.yml');
+  const build = read('build.gradle');
   const registryBuilder = read('scripts/build_source_registry.py');
 
   assert.match(resolver, /def load_registry\(/);
@@ -46,8 +47,12 @@ test('extracted pages use the shared registry-backed resolver and renderer', () 
   assert.match(include, /page\.layout == 'ga53-overture'/);
   assert.match(layout, /include source-pdf-links\.html/);
   assert.match(inquiryLayout, /include source-pdf-links\.html/);
-  assert.match(workflow, /build_source_registry\.py/);
-  assert.match(workflow, /minutes-page-source-pdf\.test\.js/);
+  assert.match(workflow, /prepareData/);
+  assert.match(build, /buildSourceRegistry/);
+  assert.match(build, /scripts\/build_source_registry\.py/);
+  assert.match(build, /--write/);
+  assert.match(build, /--check/);
+  assert.match(build, /minutes-page-source-pdf\.test\.js/);
   assert.match(registryBuilder, /validate_registry\(/);
 
   for (const generator of [

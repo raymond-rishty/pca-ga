@@ -4,6 +4,16 @@ theme: jekyll-theme-cayman
 url: "https://raymond-rishty.github.io"
 baseurl: "/pca-ga"
 
+# These outputs are written after Jekyll runs. Preserve them across warm
+# incremental builds so Jekyll's cleaner does not remove downstream artifacts.
+keep_files:
+  - pagefind
+  - provisions
+  - assets/constitution
+  - assets/minutes-pages.json
+  - assets/scripture-audit.json
+  - assets/scripture-audit-summary.json
+
 markdown: CommonMarkGhPages
 commonmark:
   options:
@@ -299,6 +309,13 @@ exclude:
   - .claude/
   - .github/
   - scripts/
+  - tests/
+  - build.gradle
+  - settings.gradle
+  - gradle.properties
+  - gradlew
+  - gradlew.bat
+  - gradle/
   # Local pipeline artifacts and editorial experiments are not site content.
   - build/
   - cases-rebuilt/

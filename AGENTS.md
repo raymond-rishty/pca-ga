@@ -2,7 +2,9 @@
 
 ## Local site builds and previews
 
-- For changes that affect site rendering, frontend behavior, generated search assets, or GitHub Pages output, build and validate locally with `pwsh -NoProfile -ExecutionPolicy Bypass -File scripts/build-local.ps1` before calling the work ready for push, pull request, or merge.
+- Use the Gradle build graph for repository data and site builds; do not invoke individual Python generator scripts as a substitute, because Gradle tracks their inputs, outputs, and dependencies.
+- For changes that affect site rendering, frontend behavior, generated search assets, or GitHub Pages output, run the full, validating `siteBuild` through `pwsh -NoProfile -ExecutionPolicy Bypass -File scripts/build-local.ps1` before calling the work ready for push, pull request, or merge. The wrapper invokes the Gradle Wrapper and `siteBuild` task.
+- For a warm local edit/preview loop, use `pwsh -NoProfile -ExecutionPolicy Bypass -File scripts/build-local.ps1 -Incremental`; this invokes Gradle's `fastPreview` task and skips the full validation chain. Add `-RefreshSearch` when the local Pagefind index needs updating.
 - Review the generated changes in `git status` and the affected pages in the local preview at `http://127.0.0.1:8000/pca-ga/`. Start it with `python scripts/preview_local.py` after a successful build; stop it with Ctrl+C.
 - The local build needs the tools and packages listed in [docs/local-build.md](docs/local-build.md). If a required dependency is unavailable, report that and do not claim the build passed.
 - If curated overture-source artifacts changed, include `-RegenerateOvertures` when running the local build. The extractor is deliberately opt-in because it can replace curated data.

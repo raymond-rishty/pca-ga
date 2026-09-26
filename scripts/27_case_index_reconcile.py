@@ -201,7 +201,7 @@ def main() -> None:
         if merged != nums:
             joined = "/".join(merged)
             text = re.sub(r"^#\s+[^\n]+?(\s+—\s+)", lambda m: f"# {joined}{m.group(1)}", text, count=1)
-            with open(path, "w", encoding="utf-8") as f:
+            with open(path, "w", encoding="utf-8", newline="\n") as f:
                 f.write(text)
             expanded.append((case_file, merged))
 
@@ -219,7 +219,7 @@ def main() -> None:
         with open(PMAP_OVERRIDES, encoding="utf-8") as f:
             page_map.update(json.load(f))
 
-    with open(PMAP, "w", encoding="utf-8") as f:
+    with open(PMAP, "w", encoding="utf-8", newline="\n") as f:
         json.dump(page_map, f, indent=1)
         f.write("\n")
 
@@ -249,7 +249,7 @@ def main() -> None:
             continue
         kept.append(line)
 
-    with open(INDEX, "w", encoding="utf-8") as f:
+    with open(INDEX, "w", encoding="utf-8", newline="\n") as f:
         f.write("\n".join(kept) + "\n")
 
     if expanded:

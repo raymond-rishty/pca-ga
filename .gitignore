@@ -2,6 +2,8 @@
 *.db
 index/pca_minutes.db
 build/
+.gradle/
+_constitution/
 minutes/
 .venv/
 outputs/
@@ -80,6 +82,7 @@ __pycache__/
 *.pyc
 _site/
 .jekyll-cache/
+.jekyll-metadata
 .sass-cache/
 .DS_Store
 
