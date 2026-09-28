@@ -4,11 +4,11 @@
 
 | Year | Record type | Relationship | Evidence | Confidence | Title | Disposition |
 |------|-------------|--------------|----------|------------|-------|-------------|
-| 2023 | CCB advice | structured_provision_tag | structured_provision_tag | medium | [Amend BCO 7 Regarding Men Who Hold Office](../inquiries/ga50_2023__ci13.md) | not in conflict; Adopted 8-0-0 |
-| 2023 | CCB advice | structured_provision_tag | structured_provision_tag | medium | [Amend BCO 7 to Codify the Biblical Standard for Church Officers as Related to Self-Description by Biblical Sins](../inquiries/ga50_2023__ci12.md) | not in conflict; Adopted 8-0-0 |
-| 2023 | CCB advice | structured_provision_tag | structured_provision_tag | medium | [Amend BCO 7 to Codify the Biblical Standard for Church Officers Related to Human Sexuality](../inquiries/ga50_2023__ci06.md) | not in conflict; Adopted 8-0-0 |
-| 2022 | CCB advice | structured_provision_tag | structured_provision_tag | medium | [Amend BCO 7 to Disqualify from Office Men Identifying as Homosexual](../inquiries/ga49_2022__ci09.md) | not in conflict; Adopted by the CCB |
-| 2021 | CCB advice | structured_provision_tag | structured_provision_tag | medium | [Amend BCO 7 by Addition to Disqualify Same-sex Attracted Men from Ordination](../inquiries/ga48_2021__ci09.md) | in conflict; Adopted |
+| 2023 | CCB advice | structured_provision_tag | structured_provision_tag | medium | [BCO 7 qualifications limited to biological men who hold office](../inquiries/ga50_2023__ci13.md) | not in conflict; Adopted 8-0-0 |
+| 2023 | CCB advice | structured_provision_tag | structured_provision_tag | medium | [Codifying biblical sexuality standard for church officers in BCO 7](../inquiries/ga50_2023__ci06.md) | not in conflict; Adopted 8-0-0 |
+| 2023 | CCB advice | structured_provision_tag | structured_provision_tag | medium | [Officers' self-identification by biblical sins barred in BCO 7](../inquiries/ga50_2023__ci12.md) | not in conflict; Adopted 8-0-0 |
+| 2022 | CCB advice | structured_provision_tag | structured_provision_tag | medium | [Disqualifying from office men who identify as homosexual](../inquiries/ga49_2022__ci09.md) | not in conflict; Adopted by the CCB |
+| 2021 | CCB advice | structured_provision_tag | structured_provision_tag | medium | [Disqualifying same-sex attracted men from ordination under BCO 7](../inquiries/ga48_2021__ci09.md) | in conflict; Adopted |
 | 2023 | Overture | proposal_target | overture_action_target | high | [Amend BCO 35-1 and 35-7 to Allow All Persons as Witnesses in Cases of Process](../markdown/ga50_2023.md#ga50-p1003) | Approved & ratified (2024) |
 | 2023 | Overture | proposal_target | overture_action_target | high | [Amend BCO 53 to Disallow Women from Preaching or Teaching in Worship](../markdown/ga50_2023.md#ga50-p1010) | Referred |
 | 2023 | Overture | proposal_target | overture_action_target | high | [Amend BCO 8-2 and 9-3 to Require Officers' Conformity to Biblical Standards for Chastity in Self-Description](../markdown/ga50_2023.md#ga50-p1030) | Approved & ratified (2024) |

@@ -11,10 +11,10 @@
 | 2009 | Judicial case | explicit_citation | direct_text | high | [David Kniseley et al. v. Rocky Mountain Presbytery](../cases/ga37_2009__2007-13.md) | denied |
 | 1994 | Judicial case | structured_case_reference | structured_case_metadata | medium | [Smith v. Northeast Presbytery](../cases/ga22_1994__1993-01.md) | denied |
 | 1992 | Judicial case | explicit_citation | direct_text | high | [Robert D. Hopper v. James River Presbytery](../cases/ga20_1992__1991-04.md) |  |
-| 2025 | CCB advice | structured_provision_tag | structured_provision_tag | medium | [Amend BCO 46-4 to Add a Class of Associate Membership for Honorably Retired TEs](../inquiries/ga52_2025__ci17.md) | in conflict; Adopted 8-0-0 |
+| 2025 | CCB advice | structured_provision_tag | structured_provision_tag | medium | [Associate membership class for honorably retired teaching elders](../inquiries/ga52_2025__ci17.md) | in conflict; Adopted 8-0-0 |
 | 2011 | CCB advice | structured_provision_tag | structured_provision_tag | medium | [Temporary Governance for Churches without Ruling Elders](../inquiries/ga39_2011__ci01.md) | may have been in conflict |
-| 2003 | CCB advice | structured_provision_tag | structured_provision_tag | medium | [Subscription and Exceptions of Substance](../inquiries/ga31_2003__ci04.md) | not in conflict |
-| 2003 | CCB advice | structured_provision_tag | structured_provision_tag | medium | [Subscription and Exceptions of Substance](../inquiries/ga31_2003__ci08.md) | not in conflict |
+| 2003 | CCB advice | structured_provision_tag | structured_provision_tag | medium | [Subscription and Exceptions of Substance](../inquiries/ga31_2003__ci03.md) | not in conflict |
+| 2003 | CCB advice | structured_provision_tag | structured_provision_tag | medium | [Subscription and Exceptions of Substance](../inquiries/ga31_2003__ci07.md) | not in conflict |
 | 2002 | CCB advice | structured_provision_tag | structured_provision_tag | medium | [Handling Exceptions to the Westminster Standards](../inquiries/ga30_2002__ci01.md) | in conflict |
 | 2002 | Overture | explicit_citation | direct_text | high | [Add to BCO 26-1 Procedure for Conflicts Between Scripture & Constitution](../markdown/ga30_2002.md#ga30-p104) | Answered in the negative |
 | 2002 | Overture | explicit_citation | direct_text | high | [Amend BCO 24-1 to Record & Report All Exceptions to GA](../markdown/ga30_2002.md#ga30-p105) | Answered by reference |

@@ -45,7 +45,12 @@ class SourceRegistryTests(unittest.TestCase):
         self.assertTrue(inventory_ids <= source_ids)
         expected_coverage = {
             "cases": jsonl_count(ROOT / "index" / "cases.jsonl"),
-            "inquiries": jsonl_count(ROOT / "index" / "inquiries.jsonl"),
+            "inquiries": sum(
+                len(group.get("results", []))
+                for group in module.inquiry_groups(
+                    json.loads((ROOT / "index" / "inquiries_located.json").read_text(encoding="utf-8"))
+                )
+            ),
             "overtures": jsonl_count(ROOT / "index" / "overture_bodies.jsonl"),
             "rpr": sum(
                 len(json.loads(path.read_text(encoding="utf-8")))

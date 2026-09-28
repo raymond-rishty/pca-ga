@@ -75,16 +75,6 @@ def write_json(path: Path, data: Any) -> None:
     path.write_text(json.dumps(data, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
 
 
-def read_jsonl(path: Path) -> list[dict[str, Any]]:
-    return [json.loads(line) for line in path.read_text(encoding="utf-8").splitlines() if line.strip()]
-
-
-def write_jsonl(path: Path, records: list[dict[str, Any]]) -> None:
-    path.parent.mkdir(parents=True, exist_ok=True)
-    path.write_text("".join(json.dumps(row, ensure_ascii=False, separators=(",", ":")) + "\n"
-                            for row in records), encoding="utf-8")
-
-
 def git_markdown(ref: str, vol: str) -> list[str]:
     rel = f"markdown/{vol}.md"
     try:
@@ -329,12 +319,17 @@ def locate_span(old_lines: list[str], old_pages: list[Page], new_lines: list[str
 
 
 def locate_inquiries(old_ref: str, window: int) -> dict[str, Any]:
-    path = ROOT / "index/inquiries.jsonl"
-    data = read_jsonl(path)
+    path = ROOT / "index/inquiries_located.json"
+    data = read_json(path)
+    roster = read_json(ROOT / "index/inquiries_roster.json")
+    roster_by_key = {(x.get("ga_ordinal"), x.get("minute_para"), x.get("topic")): x
+                     for x in roster}
+    roster_by_para = {(x.get("ga_ordinal"), x.get("minute_para")): x
+                      for x in roster}
     records: list[dict[str, Any]] = []
     cache: dict[str, tuple[list[str], list[Page], list[str], list[Page]]] = {}
-    for item in data:
-        stem = item.get("minutes_volume")
+    for volume in data:
+        stem = volume.get("stem")
         if not stem:
             continue
         def corpus() -> tuple[list[str], list[Page], list[str], list[Page]]:
@@ -344,31 +339,28 @@ def locate_inquiries(old_ref: str, window: int) -> dict[str, Any]:
                 cache[stem] = (old, parse_pages(old), new, parse_pages(new))
             return cache[stem]
         old_lines, old_pages, new_lines, new_pages = corpus()
-        source_range = item.get("source_range") or {}
-        posed_range = item.get("posed_range") or {}
-        advice = locate_span(old_lines, old_pages, new_lines, new_pages,
-                             source_range.get("start"), source_range.get("end"),
-                             item.get("page_anchor"), window,
-                             text_override=item.get("headnote") or item.get("synopsis"),
-                             page_hint=item.get("printed_page"),
-                             page_hint_kind="printed")
-        posed = locate_span(old_lines, old_pages, new_lines, new_pages,
-                            posed_range.get("start"), posed_range.get("end"),
-                            item.get("page_anchor"), window)
-        records.append({"key": item.get("inquiry_id"), "vol": stem,
-                        "minute_para": item.get("minute_para"),
-                        "topic": item.get("digest_topic"),
-                        "old": {"advice_start": source_range.get("start"),
-                                "advice_end": source_range.get("end"),
-                                "posed_start": posed_range.get("start"),
-                                "posed_end": posed_range.get("end"),
-                                "page_anchor": item.get("page_anchor")},
-                        "roster": {"ga_ordinal": item.get("ga_ordinal"),
-                                   "minute_para": item.get("minute_para"),
-                                   "printed_page": item.get("printed_page"),
-                                   "summary": item.get("headnote"),
-                                   "synopsis": item.get("synopsis")},
-                        "advice": advice, "posed": posed})
+        for i, item in enumerate(volume.get("results", [])):
+            key = f"{stem}:{i}:{item.get('minute_para','')}:{item.get('topic','')}"
+            ga = volume.get("ga_ordinal")
+            roster_item = (roster_by_key.get((ga, item.get("minute_para"), item.get("topic"))) or
+                           roster_by_para.get((ga, item.get("minute_para"))))
+            roster_text = ((roster_item or {}).get("summary") or
+                           (roster_item or {}).get("synopsis"))
+            advice = locate_span(old_lines, old_pages, new_lines, new_pages,
+                                 item.get("advice_start"), item.get("advice_end"),
+                                 item.get("page_anchor"), window,
+                                 text_override=roster_text,
+                                 page_hint=(roster_item or {}).get("printed_page"),
+                                 page_hint_kind="printed")
+            posed = locate_span(old_lines, old_pages, new_lines, new_pages,
+                                item.get("posed_start"), item.get("posed_end"),
+                                item.get("page_anchor"), window)
+            records.append({"key": key, "vol": stem, "minute_para": item.get("minute_para"),
+                            "topic": item.get("topic"), "old": {k: item.get(k) for k in
+                            ("advice_start", "advice_end", "posed_start", "posed_end", "page_anchor")},
+                            "roster": {k: (roster_item or {}).get(k) for k in
+                            ("ga_ordinal", "minute_para", "printed_page", "summary", "synopsis")},
+                            "advice": advice, "posed": posed})
     return {"schema": "pca.source_relocation.v1", "kind": "inquiries", "old_ref": old_ref,
             "page_window": window, "records": records}
 
@@ -446,10 +438,11 @@ def applyable(match: dict[str, Any]) -> bool:
 
 
 def apply_inquiries(proposal: dict[str, Any]) -> int:
-    path = ROOT / "index/inquiries.jsonl"
-    data = read_jsonl(path)
+    path = ROOT / "index/inquiries_located.json"
+    data = read_json(path)
     changed = 0
-    by_key = {record.get("inquiry_id"): record for record in data}
+    by_key = {f"{v.get('stem')}:{i}:{x.get('minute_para','')}:{x.get('topic','')}": x
+              for v in data for i, x in enumerate(v.get("results", []))}
     for rec in proposal["records"]:
         item = by_key.get(rec["key"])
         advice = rec.get("advice", {})
@@ -457,23 +450,18 @@ def apply_inquiries(proposal: dict[str, Any]) -> int:
         if not item or not applyable(advice):
             continue
         if "legacy_locator" not in item:
-            item["legacy_locator"] = {
-                "advice_start": (item.get("source_range") or {}).get("start"),
-                "advice_end": (item.get("source_range") or {}).get("end"),
-                "posed_start": (item.get("posed_range") or {}).get("start"),
-                "posed_end": (item.get("posed_range") or {}).get("end"),
-                "page_anchor": item.get("page_anchor"),
-            }
-        item.setdefault("source_range", {})["start"] = advice["new_line_start"]
-        item["source_range"]["end"] = advice["new_line_end"]
+            item["legacy_locator"] = {k: item.get(k) for k in
+                                       ("advice_start", "advice_end", "posed_start", "posed_end", "page_anchor")}
+        item["advice_start"] = advice["new_line_start"]
+        item["advice_end"] = advice["new_line_end"]
         if posed.get("status") == "located":
-            item.setdefault("posed_range", {})["start"] = posed["new_line_start"]
-            item["posed_range"]["end"] = posed["new_line_end"]
+            item["posed_start"] = posed["new_line_start"]
+            item["posed_end"] = posed["new_line_end"]
         item["page_anchor"] = advice.get("new_page_anchor") or item.get("page_anchor")
         item["relocation"] = {"script": "46_relocate_sources.py", "old_ref": proposal["old_ref"],
                               "method": advice.get("method"), "score": advice.get("score")}
         changed += 1
-    write_jsonl(path, data)
+    write_json(path, data)
     return changed
 
 

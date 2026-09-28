@@ -7,7 +7,7 @@
 | 2017 | Judicial case | explicit_citation | direct_text | high | [Aven v. Ohio Valley Presbytery](../cases/ga45_2017__2016-01.md) | denied |
 | 2007 | Judicial case | explicit_citation | direct_text | high | [Eliot Lee v. Korean Eastern Presbytery](../cases/ga36_2008__2007-01_2007-06_2007-07.md) | not_sustained |
 | 2006 | Judicial case | explicit_citation | direct_text | high | [Thornton v. Westminster Presbytery](../cases/ga34_2006__2004-08.md) | sustained |
-| 2021 | CCB advice | structured_provision_tag | structured_provision_tag | medium | [Amend BCO 21 and 24 to Clarify Moral Requirements for Church Office](../inquiries/ga48_2021__ci21.md) | not in conflict; Adopted |
+| 2021 | CCB advice | structured_provision_tag | structured_provision_tag | medium | [Amending BCO to clarify moral requirements for church office](../inquiries/ga48_2021__ci21.md) | not in conflict; Adopted |
 | 2021 | Overture | proposal_target | overture_action_target | high | [Amend BCO 21 and 24 to Clarify Moral Requirements for Church Office](../markdown/ga48_2021.md#ga48-p1072) | Answered by reference |
 | 2024 | RPR exception | structured_exception_tag | structured_provision_tag | medium | [Georgia Foothills: no record of appointment of commission to install (which later reported).](../rpr/exc/georgia-foothills__047.html) | satisfactory |
 | 2023 | RPR exception | structured_exception_tag | structured_provision_tag | medium | [Georgia Foothills: No record of appointment of commission to install (which later reported).](../rpr/exc/georgia-foothills__039.html) | raised |
