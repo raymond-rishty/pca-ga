@@ -4,6 +4,7 @@
 
 | Year | Record type | Relationship | Evidence | Confidence | Title | Disposition |
 |------|-------------|--------------|----------|------------|-------|-------------|
+| 2000 | Constitutional inquiry | structured_provision_tag | structured_provision_tag | medium | [Permanent Committee Members on Committees of Commissioners](../inquiries/ga28_2000__ci03-02.md) | advice given |
 | 2000 | Constitutional inquiry | structured_provision_tag | structured_provision_tag | medium | [Permanent Committee Members on Committees of Commissioners](../inquiries/ga28_2000__ci03.md) | advice given |
 
 ---

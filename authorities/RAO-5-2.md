@@ -4,11 +4,11 @@
 
 | Year | Record type | Relationship | Evidence | Confidence | Title | Disposition |
 |------|-------------|--------------|----------|------------|-------|-------------|
-| 2019 | CCB advice | structured_provision_tag | structured_provision_tag | medium | [14-1.11](../inquiries/ga47_2019__ci07.md) | in conflict; Adopted by the CCB |
-| 2019 | CCB advice | structured_provision_tag | structured_provision_tag | medium | [14-1.11](../inquiries/ga47_2019__ci10.md) | in conflict; Adopted by the CCB |
-| 2019 | CCB advice | structured_provision_tag | structured_provision_tag | medium | [14-1.11](../inquiries/ga47_2019__ci15.md) | in conflict; Adopted by the CCB |
-| 2019 | CCB advice | structured_provision_tag | structured_provision_tag | medium | [14-1.11](../inquiries/ga47_2019__ci16.md) | in conflict; Adopted by the CCB |
-| 2019 | CCB advice | structured_provision_tag | structured_provision_tag | medium | [14-1.11](../inquiries/ga47_2019__ci18.md) | in conflict; Adopted by the CCB |
+| 2019 | CCB advice | structured_provision_tag | structured_provision_tag | medium | [14-1.11, and 14-1.12 (Version 3)](../inquiries/ga47_2019__ci16.md) | in conflict; Adopted by the CCB |
+| 2019 | CCB advice | structured_provision_tag | structured_provision_tag | medium | [14-1.11, and 14-1.12 to Allow Non-ordained Persons to serve on Committees and Boards](../inquiries/ga47_2019__ci07.md) | in conflict; Adopted by the CCB |
+| 2019 | CCB advice | structured_provision_tag | structured_provision_tag | medium | [14-1.11, and 14-1.12 to Allow Non-ordained Persons to serve on Committees and Boards](../inquiries/ga47_2019__ci15.md) | in conflict; Adopted by the CCB |
+| 2019 | CCB advice | structured_provision_tag | structured_provision_tag | medium | [14-1.11, and 14-1.12 to Allow Non-ordained Persons to serve on Committees and Boards (Version 2)](../inquiries/ga47_2019__ci10.md) | in conflict; Adopted by the CCB |
+| 2019 | CCB advice | structured_provision_tag | structured_provision_tag | medium | [14-1.11, and 14-1.12 to Allow Non-ordained Persons to Serve on Committees and Boards (Version 4)](../inquiries/ga47_2019__ci18.md) | in conflict; Adopted by the CCB |
 
 ---
 *[← Authority Index](../index/AUTHORITY-BY-PROVISION.md)*

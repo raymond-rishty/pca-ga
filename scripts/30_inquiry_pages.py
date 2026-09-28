@@ -1,350 +1,332 @@
 #!/usr/bin/env python3
-"""30_inquiry_pages.py — render the Constitutional Inquiry layer to markdown.
-
-Reads (from <ROOT>/index/):
-  - inquiries_roster.json   : Digest Part II roster — identity + the Digest's summary prose (headnote)
-  - inquiries_located.json  : per-GA verbatim line-ranges in the minutes (advice + posed; page anchors).
-    A record may also give a first-class `substantive` Q&A source and a separate
-    `assembly_action` locator when the appendix preserves the actual inquiry and
-    answer while the journal records only a later Assembly action.
-
-Slices the verbatim record from <ROOT>/markdown/ and writes, mirroring CASES.md / cases/*:
-  - <ROOT>/inquiries/<stem>__ci<NN>.md  : one page per inquiry (Digest headnote + verbatim record + deep-links)
-  - <ROOT>/index/INQUIRIES.md           : the catalogue, grouped by Assembly
-
-Usage:  30_inquiry_pages.py [ROOT]      (ROOT defaults to /workspace)
-
-Per SPEC-INQUIRIES.md: the headnote is an EDITORIAL summary (here, the PCA Digest's Part II text,
-attributed and clearly separated) and is NOT bound to verbatim; it deep-links to the verbatim source
-in the minutes, which is sliced unaltered below it.
-"""
+"""Render inquiry records and their catalogue projections from inquiries.jsonl."""
 from __future__ import annotations
-import json, os, re, sys
+
+import json
+import os
+import re
+import sys
 from pathlib import Path
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from source_links import line_to_pdf_page, pdf_page_for_anchor, source_entries_for_record, source_front_matter
 
 ONLY_RELOCATED = "--only-relocated" in sys.argv[1:]
-ROOT_ARG = next((a for a in sys.argv[1:] if not a.startswith("--")), None)
-ROOT = ROOT_ARG if ROOT_ARG else os.environ.get(
-    "PCA_GA_ROOT", os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
-MD = os.path.join(ROOT, "markdown")
-IDX = os.path.join(ROOT, "index")
-OUT = os.path.join(ROOT, "inquiries")
-
-_LOCATOR = re.compile(r"^\s*\d{4},\s*p\.\s*\d+[a-zA-Z]?,\s*\d+-\d+,?\s*[\w.]*\.?\s*")
-_md_lines_cache: dict[str, list[str]] = {}
-
-
-def ordinal(n: int) -> str:
-    n = int(n)
-    suf = "th" if 10 <= n % 100 <= 20 else {1: "st", 2: "nd", 3: "rd"}.get(n % 10, "th")
-    return f"{n}{suf}"
+ROOT_ARG = next((arg for arg in sys.argv[1:] if not arg.startswith("--")), None)
+ROOT = Path(ROOT_ARG or os.environ.get(
+    "PCA_GA_ROOT", os.path.dirname(os.path.dirname(os.path.abspath(__file__)))))
+IDX = ROOT / "index"
+OUT = ROOT / "inquiries"
+_MD_CACHE: dict[str, list[str]] = {}
+FOOTNOTE_REFERENCE = re.compile(r"\[\^(fn-[^\]]+)\](?!:)")
+FOOTNOTE_DEFINITION = re.compile(r"^\[\^(fn-[^\]]+)\]:")
 
 
-def md_escape(s) -> str:
-    return (s or "").replace("|", "\\|").replace("\n", " ").strip()
+def ordinal(value: int) -> str:
+    value = int(value)
+    suffix = "th" if 10 <= value % 100 <= 20 else {1: "st", 2: "nd", 3: "rd"}.get(value % 10, "th")
+    return f"{value}{suffix}"
 
 
-def md_lines(stem: str) -> list[str]:
-    if stem not in _md_lines_cache:
-        p = os.path.join(MD, stem + ".md")
-        _md_lines_cache[stem] = open(p, encoding="utf-8").read().split("\n") if os.path.exists(p) else []
-    return _md_lines_cache[stem]
+def md_escape(value: object) -> str:
+    return str(value or "").replace("|", "\\|").replace("\n", " ").strip()
 
 
-def slice_md(stem: str, a, b) -> str:
-    """1-based inclusive slice of a volume's markdown."""
-    if not (a and b):
+def read_records() -> list[dict]:
+    path = IDX / "inquiries.jsonl"
+    records = [json.loads(line) for line in path.read_text(encoding="utf-8").splitlines() if line.strip()]
+    ids = [record.get("inquiry_id") for record in records]
+    slugs = [record.get("page_slug") for record in records]
+    if any(not value for value in ids + slugs):
+        raise ValueError(f"{path} has a record without inquiry_id or page_slug")
+    if len(ids) != len(set(ids)) or len(slugs) != len(set(slugs)):
+        raise ValueError(f"{path} contains duplicate inquiry IDs or page slugs")
+    for record in records:
+        if record.get("schema_version") != 1:
+            raise ValueError(f"{path}: {record.get('inquiry_id')} has an unsupported schema_version")
+        locator = record.get("digest_section") or record.get("minute_para")
+        if locator:
+            locator = re.sub(r"^App\. O\s+", "App. O, ", str(locator))
+        expected = (f"{record.get('year')}, p. {record.get('printed_page')}, {locator}."
+                    if record.get("year") and record.get("printed_page") and locator else "")
+        if record.get("digest_citation", "") != expected:
+            raise ValueError(f"{path}: {record.get('inquiry_id')} has a noncanonical digest_citation")
+    return records
+
+
+def slice_md(stem: str, start: object, end: object) -> str:
+    if not start or not end:
         return ""
-    lines = md_lines(stem)
-    a = max(1, int(a)); b = min(len(lines), int(b))
+    path = ROOT / "markdown" / f"{stem}.md"
+    if not path.exists():
+        return ""
+    if stem not in _MD_CACHE:
+        _MD_CACHE[stem] = path.read_text(encoding="utf-8").splitlines()
+    lines = _MD_CACHE[stem]
+    a, b = max(1, int(start)), min(len(lines), int(end))
     return "\n".join(lines[a - 1:b]).strip()
 
 
-def clean_summary(s: str) -> str:
-    return _LOCATOR.sub("", (s or "").strip()).strip()
+def marker_line(lines: list[str], marker: str, after: int = 0) -> int | None:
+    """Find a durable text marker and return its zero-based line, ignoring punctuation."""
+    wanted = re.findall(r"[a-z0-9]+", marker.casefold())
+    if not wanted:
+        return None
+    tokens = [(match.group(0), index)
+              for index, line in enumerate(lines)
+              for match in re.finditer(r"[a-z0-9]+", line.casefold())]
+    for offset in range(len(tokens) - len(wanted) + 1):
+        window = tokens[offset:offset + len(wanted)]
+        if window[0][1] >= after and [token for token, _ in window] == wanted:
+            return window[0][1]
+    return None
 
 
-def is_bare_provision(t: str) -> bool:
-    return bool(re.fullmatch(r"(BCO|WCF|RAO)?\s*\d+[-.\d]*\s*", (t or "")))
+def resolve_text_locator(stem: str, locator: object) -> tuple[int, int] | None:
+    if not isinstance(locator, dict):
+        return None
+    if stem not in _MD_CACHE:
+        path = ROOT / "markdown" / f"{stem}.md"
+        if not path.exists():
+            return None
+        _MD_CACHE[stem] = path.read_text(encoding="utf-8").splitlines()
+    lines = _MD_CACHE[stem]
+    start = marker_line(lines, str(locator.get("start_text") or ""))
+    end_before = marker_line(lines, str(locator.get("end_before") or ""), (start + 1) if start is not None else 0)
+    if start is None or end_before is None or end_before <= start:
+        return None
+    return start + 1, end_before
 
 
-def kind_of(e: dict) -> str:
-    """Two buckets: the CCB's advice on a proposed overture/amendment, vs. a constitutional
-    inquiry (a non-judicial reference asking what the Constitution means).
+def complete_footnotes(page: list[str], stem: str) -> list[str]:
+    """Keep extracted record footnotes complete when a source span cuts across notes."""
+    source_path = ROOT / "markdown" / f"{stem}.md"
+    if not source_path.exists():
+        return page
+    source_lines = _MD_CACHE.get(stem)
+    if source_lines is None:
+        source_lines = source_path.read_text(encoding="utf-8").splitlines()
+        _MD_CACHE[stem] = source_lines
+    page_lines = "\n".join(page).splitlines()
+    refs = set(FOOTNOTE_REFERENCE.findall("\n".join(page_lines)))
 
-    The disposition is the primary signal: a CCB "in conflict / not in conflict" ruling is review
-    of a PROPOSED change, never the answer to a question about meaning — so it overrides the
-    source-based `kind` (a stated-clerk reference of a proposed amendment still gets a conflict
-    ruling and belongs with overture advice)."""
-    AMEND = "Overture/amendment advice"
-    INQ = "Constitutional inquiry"
-    disp = (e.get("disposition") or "").lower()
-    if re.search(r"in conflict|conflict with the constitution|creates?\b[^.]*conflict", disp):
-        return AMEND
-    if e.get("kind") == "overture-advice":
-        return AMEND
-    if re.search(r"\boverture\s+\d", (e.get("source") or "").lower()):
-        return AMEND
-    if e.get("kind"):   # reference / communication / other, with no conflict ruling
-        return INQ
-    blob = f"{disp} {(e.get('summary','') or '')[:160]}".lower()
-    if re.search(r"\bin conflict\b|\boverture\s+\d", blob):
-        return AMEND
-    return INQ
-
-
-def deeplink(stem: str, anchor: str, printed) -> str:
-    label = f"{stem} p.{printed}" if printed else stem
-    frag = f"#{anchor}" if anchor else ""
-    return f"[{label}](../markdown/{stem}.md{frag})"
-
-
-def source_fields(source: dict, fallback: dict) -> tuple:
-    """Return a source span, retaining the legacy locator as a fallback.
-
-    `substantive` is intentionally a source *role*, rather than a page override:
-    it is the Q&A that readers are researching.  `assembly_action`, if present,
-    remains a separately rendered, secondary citation.
-    """
-    return (
-        source.get("start", fallback.get("advice_start")),
-        source.get("end", fallback.get("advice_end")),
-        source.get("page_anchor", fallback.get("page_anchor", "")),
-        source.get("printed_page", fallback.get("printed_page")),
-    )
-
-
-def main():
-    roster = json.load(open(os.path.join(IDX, "inquiries_roster.json")))
-    located = json.load(open(os.path.join(IDX, "inquiries_located.json")))
-
-    # roster lookup. The locate agents sometimes append a section to minute_para
-    # ("App. O, section IV" vs the roster's "App. O"), so normalize it and also key by topic.
-    def norm_mp(s):
-        return (s or "").split(",")[0].strip()
-    rmap, rmap_mp, rmap_topic = {}, {}, {}
-    for e in roster:
-        rmap[(e["ga_ordinal"], norm_mp(e.get("minute_para")), e.get("topic"))] = e
-        rmap_mp.setdefault((e["ga_ordinal"], norm_mp(e.get("minute_para"))), e)
-        rmap_topic.setdefault((e["ga_ordinal"], e.get("topic")), e)
-
-    # group located results into one page per distinct verbatim passage (ord, advice_start, advice_end)
-    groups: dict = {}
-    for g in located:
-        for r in g["results"]:
-            key = (g["ga_ordinal"], r.get("advice_start"), r.get("advice_end"))
-            grp = groups.setdefault(key, {"ord": g["ga_ordinal"], "stem": g["stem"], "results": []})
-            grp["results"].append(r)
-
-    os.makedirs(OUT, exist_ok=True)
-    if not ONLY_RELOCATED:
-        for f in os.listdir(OUT):
-            if f.endswith(".md"):
-                os.remove(os.path.join(OUT, f))
-
-    per_vol = {}
-    inq_rows, adv_rows = {}, {}   # ord -> list of (year, stem, row), split by Type
-    search_rows = []              # compact export for the search app
-    n_pages = 0
-
-    for key in sorted(groups, key=lambda k: (k[0], k[1] or 0)):
-        grp = groups[key]
-        ordn, stem, results = grp["ord"], grp["stem"], grp["results"]
-        n = per_vol.get(stem, 0) + 1
-        per_vol[stem] = n
-        if ONLY_RELOCATED and not any(r.get("relocation") for r in results):
+    source_notes: dict[str, list[str]] = {}
+    i = 0
+    while i < len(source_lines):
+        match = FOOTNOTE_DEFINITION.match(source_lines[i])
+        if not match:
+            i += 1
             continue
-        rents = []
-        for r in results:
-            e = (rmap.get((ordn, norm_mp(r.get("minute_para")), r.get("topic")))
-                 or rmap_topic.get((ordn, r.get("topic")))
-                 or rmap_mp.get((ordn, norm_mp(r.get("minute_para")))) or {})
-            rents.append((r, e))
-        r0, e0 = rents[0]
+        note_id = match.group(1)
+        note = [source_lines[i]]
+        i += 1
+        while i < len(source_lines) and source_lines[i].strip():
+            if FOOTNOTE_DEFINITION.match(source_lines[i]):
+                break
+            note.append(source_lines[i])
+            i += 1
+        source_notes[note_id] = note
 
-        topics = [e.get("topic") for _, e in rents if e.get("topic")]
-        provs = []
-        for _, e in rents:
-            for p in (e.get("provisions") or []):
-                if p and p not in provs:
-                    provs.append(p)
-        summaries = []
-        for _, e in rents:
-            s = clean_summary(e.get("summary", ""))
-            if s and s not in summaries:
-                summaries.append(s)
-        source = next((e.get("source") for _, e in rents if e.get("source")), "")
-        disp = next((e.get("disposition") for _, e in rents if e.get("disposition")), "")
-        gen_subject = next((e.get("gen_subject") for _, e in rents if e.get("gen_subject")), "")
-        synopsis = next((e.get("synopsis") for _, e in rents if e.get("synopsis")), "")
-        mtype = kind_of(next((e for _, e in rents if e), {}) or r0)
-        ci = (r0.get("inquiry_number") or "").strip()
-        year = e0.get("year")
-        printed = e0.get("printed_page")
-        anchor = (r0.get("page_anchor") or "").strip()
-        ma = re.match(r"ga(\d+)-p(.+)$", anchor)   # markdown anchors zero-pad the ordinal (ga04, not ga4)
-        if ma:
-            anchor = f"ga{int(ma.group(1)):02d}-p{ma.group(2)}"
-        sect = e0.get("ccb_section", "")
+    # Rebuild the note block from the canonical minutes source. This both supplies
+    # definitions cut off by a record boundary and removes notes copied from an
+    # adjacent record or duplicated by overlapping question/answer ranges.
+    cleaned: list[str] = []
+    dropping_definition = False
+    for line in page_lines:
+        if FOOTNOTE_DEFINITION.match(line):
+            dropping_definition = True
+        elif not line.strip():
+            dropping_definition = False
+        if not dropping_definition:
+            cleaned.append(line)
+    page = cleaned
+    for note_id in sorted(refs):
+        note = source_notes.get(note_id)
+        if note:
+            page += ["", *note]
+    return page
 
-        a, b = r0.get("advice_start"), r0.get("advice_end")
-        substantive = r0.get("substantive")
-        action = r0.get("assembly_action")
-        primary_start, primary_end, primary_anchor, primary_printed = source_fields(
-            substantive or {}, {**r0, "printed_page": printed}
-        )
-        primary_anchor = (primary_anchor or "").strip()
-        ma = re.match(r"ga(\d+)-p(.+)$", primary_anchor)
-        if ma:
-            primary_anchor = f"ga{int(ma.group(1)):02d}-p{ma.group(2)}"
 
-        # display subject
-        digest_topic = next((t for t in topics if not is_bare_provision(t)), "")
-        digest_subject = digest_topic.split(", ", 1)[1].strip() if ", " in digest_topic else digest_topic
-        subj = digest_subject or gen_subject
-        if not subj:
-            subj = (summaries[0][:80].rsplit(" ", 1)[0] + "…") if summaries else (topics[0] if topics else "Constitutional inquiry")
-        label = ci or (f"{e0.get('minute_para','')} {sect}".strip()) or "Inquiry"
+def deeplink(stem: str, anchor: str, printed: object) -> str:
+    label = f"{stem} p.{printed}" if printed else stem
+    return f"[{label}](../markdown/{stem}.md{'#' + anchor if anchor else ''})"
 
-        slug = f"{stem}__ci{n:02d}"
 
-        body = slice_md(stem, a, b) or "_(verbatim passage not located in this volume)_"
-        substantive_body = (slice_md(stem, primary_start, primary_end)
-                            if substantive else "")
-        action_body = (slice_md(stem, action.get("start"), action.get("end"))
-                       if action else "")
-        posed = ""
-        if r0.get("posed_start") and r0.get("posed_end"):
-            posed = slice_md(stem, r0["posed_start"], r0["posed_end"])
-        ratified_only = (r0.get("answer_in_volume") is False)
+def canonical_anchor(value: object) -> str:
+    anchor = str(value or "").strip()
+    match = re.match(r"ga(\d+)-p(.+)$", anchor)
+    return f"ga{int(match.group(1)):02d}-p{match.group(2)}" if match else anchor
 
-        # ---- page ----
-        hdr = ["**Body:** Committee on Constitutional Business (CCB)", f"**Type:** {mtype}",
-               f"**Assembly:** {ordinal(ordn)} ({year})"]
-        if provs:
-            hdr.append("**Provisions:** " + ", ".join(provs))
-        if disp:
-            hdr.append("**Disposition:** " + md_escape(disp))
-        srcline = (f"*Source: [{stem} lines {primary_start}–{primary_end}](../markdown/{stem}.md{'#' + primary_anchor if primary_anchor else ''})*"
-                   if primary_start and primary_end else f"*Source: {stem}*")
 
-        source_page = r0.get("source_pdf_page")
-        if source_page is not None:
-            source_page = int(source_page)
-        else:
-            source_page = pdf_page_for_anchor(Path(ROOT), stem, primary_anchor) if primary_anchor else None
-            if source_page is None and primary_start:
-                source_page = line_to_pdf_page(Path(ROOT), stem, int(primary_start))
-        if source_page is None and a:
-            source_page = line_to_pdf_page(Path(ROOT), stem, int(a))
-        source_meta = source_front_matter(source_entries_for_record(
-            Path(ROOT), "inquiry", f"{stem}:{n}", stem, source_page
-        ))
-        page = source_meta + [f"# {label} — {subj}", ""]
-        if synopsis:
-            page += [f"*{md_escape(synopsis)}*", ""]
-        page += ["  ·  ".join(hdr), "", srcline, "", "---", ""]
-        if summaries:
-            page += ["## Digest headnote",
-                     "*Editorial summary from the PCA Digest, Part II (Interpretations of the Constitution) — "
-                     "this is the Digest's wording, not the verbatim minutes. The authoritative text is the "
-                     "verbatim record below / linked above.*", ""]
-            if len(summaries) == 1:
-                page += [summaries[0], ""]
-            else:
-                page += [f"- {s}" for s in summaries] + [""]
-            if provs:
-                page += ["**Key words:** " + ", ".join(provs), ""]
-            if source:
-                page += ["**Inquiry from:** " + md_escape(source), ""]
-            page += ["**In the minutes:** " + deeplink(stem, primary_anchor, primary_printed), "", "---", ""]
-        page += ["## Verbatim record", ""]
-        if ratified_only:
-            page += ["*The General Assembly ratified this advice by reference; the substantive answer "
-                     "is not printed as a separate passage in this volume. The ratifying action is quoted "
-                     "below.*", ""]
-        if substantive:
-            page += ["### Question and answer", "", substantive_body, ""]
-        elif posed:
-            page += ["### As referred / posed", "", posed, "", "### CCB advice", "", body, ""]
-        else:
-            page += [body, ""]
-        if action:
-            action_anchor = (action.get("page_anchor") or "").strip()
-            ma = re.match(r"ga(\d+)-p(.+)$", action_anchor)
-            if ma:
-                action_anchor = f"ga{int(ma.group(1)):02d}-p{ma.group(2)}"
-            page += ["## Assembly action", "",
-                     "The General Assembly's later action is preserved separately from the substantive Q&A: "
-                     + deeplink(stem, action_anchor, action.get("printed_page")), "",
-                     action_body, ""]
-        is_inq = (mtype == "Constitutional inquiry")
-        back = ("[← Constitutional inquiry index](../index/INQUIRIES.md)" if is_inq
-                else "[← Overture/amendment advice index](../index/CCB-OVERTURE-ADVICE.md)")
-        page += ["---", "", back]
-        open(os.path.join(OUT, slug + ".md"), "w", encoding="utf-8").write("\n".join(page) + "\n")
-        n_pages += 1
+def write_page(record: dict) -> None:
+    stem = record["minutes_volume"]
+    slug = record["page_slug"]
+    title = record.get("digest_title") or "Constitutional inquiry"
+    section = record.get("digest_section") or ""
+    label = record.get("inquiry_number") or record.get("minute_para") or "Inquiry"
+    if section:
+        label = f"{label} {section}"
+    source_range = record.get("source_range") or {}
+    posed_range = record.get("posed_range") or {}
+    substantive = record.get("substantive")
+    action = record.get("assembly_action")
+    anchor = canonical_anchor(record.get("page_anchor"))
+    primary = substantive or {
+        "start": source_range.get("start"), "end": source_range.get("end"),
+        "page_anchor": anchor, "printed_page": record.get("printed_page"),
+    }
+    primary_anchor = canonical_anchor(primary.get("page_anchor"))
+    stable_span = resolve_text_locator(stem, primary.get("text_locator"))
+    if primary.get("text_locator") and stable_span is None:
+        raise ValueError(f"{record['inquiry_id']}: substantive text_locator did not resolve")
+    source_start, source_end = stable_span or (primary.get("start"), primary.get("end"))
+    action_span = resolve_text_locator(stem, action.get("text_locator")) if action else None
+    if action and action.get("text_locator") and action_span is None:
+        raise ValueError(f"{record['inquiry_id']}: assembly_action text_locator did not resolve")
+    if record.get("source_pdf_page") is not None:
+        source_page = int(record["source_pdf_page"])
+    else:
+        source_page = pdf_page_for_anchor(ROOT, stem, primary_anchor) if primary_anchor else None
+        if source_page is None and source_start:
+            source_page = line_to_pdf_page(ROOT, stem, int(source_start))
+    if source_page is None and source_range.get("start"):
+        source_page = line_to_pdf_page(ROOT, stem, int(source_range["start"]))
+    source_meta = source_front_matter(source_entries_for_record(
+        ROOT, "inquiry", record["inquiry_id"], stem, source_page
+    ))
 
-        row = (f"| {md_escape(label)} | [{md_escape(subj)}](../inquiries/{slug}.md) | "
-               f"{md_escape(synopsis)} | {md_escape(', '.join(provs))} | {md_escape(disp)} | "
-               f"{md_escape(source)} | {deeplink(stem, primary_anchor, primary_printed)} |")
-        (inq_rows if is_inq else adv_rows).setdefault(ordn, []).append((year, stem, row))
-        search_rows.append({"type": "inquiry" if is_inq else "ccb-advice",
-                            "title": subj, "sub": synopsis or "", "provisions": provs,
-                            "year": year, "disposition": disp, "url": f"inquiries/{slug}.md"})
+    source_text = slice_md(stem, source_range.get("start"), source_range.get("end"))
+    substantive_text = slice_md(stem, source_start, source_end) if substantive else ""
+    posed_text = slice_md(stem, posed_range.get("start"), posed_range.get("end"))
+    action_text = (slice_md(stem, *(action_span or (action.get("start"), action.get("end"))))
+                   if action else "")
+    if not source_text:
+        source_text = "_(verbatim passage not located in this volume)_"
 
-    import json as _json
+    kind = "Overture/amendment advice" if record.get("classification") == "ccb-advice" else "Constitutional inquiry"
+    header = ["**Body:** Committee on Constitutional Business (CCB)", f"**Type:** {kind}",
+              f"**Assembly:** {ordinal(record['ga_ordinal'])} ({record.get('year')})"]
+    provisions = record.get("provisions") or []
+    if provisions:
+        header.append("**Provisions:** " + ", ".join(provisions))
+    if record.get("disposition"):
+        header.append("**Disposition:** " + md_escape(record["disposition"]))
+    if primary.get("text_locator") and primary_anchor:
+        page_label = primary.get("printed_page") or record.get("printed_page")
+        source_line = (f"*Source: [{stem} p. {page_label}](../markdown/{stem}.md#{primary_anchor})*")
+    elif source_start and source_end:
+        source_line = (f"*Source: [{stem} lines {source_start}–{source_end}](../markdown/{stem}.md"
+                       f"{'#' + primary_anchor if primary_anchor else ''})*")
+    else:
+        source_line = f"*Source: {stem}*"
+    page = source_meta + [f"# {label} — {title}", ""]
+    if record.get("synopsis"):
+        page += [f"*{md_escape(record['synopsis'])}*", ""]
+    page += ["  ·  ".join(header), "", source_line, "", "---", ""]
+    if record.get("headnote"):
+        page += ["## Digest headnote",
+                 "*Editorial summary from the PCA Digest, Part II (Interpretations of the Constitution) — "
+                 "this is the Digest's wording, not the verbatim minutes. The authoritative text is the "
+                 "verbatim record below / linked above.*", "", record["headnote"], ""]
+        if provisions:
+            page += ["**Key words:** " + ", ".join(provisions), ""]
+        if record.get("originating_body"):
+            page += ["**Inquiry from:** " + md_escape(record["originating_body"]), ""]
+        page += ["**In the minutes:** " + deeplink(stem, primary_anchor, primary.get("printed_page") or record.get("printed_page")),
+                 "", "---", ""]
+    page += ["## Verbatim record", ""]
+    if record.get("answer_in_volume") is False:
+        page += ["*The General Assembly ratified this advice by reference; the substantive answer "
+                 "is not printed as a separate passage in this volume. The ratifying action is quoted below.*", ""]
+    if substantive:
+        page += ["### Question and answer", "", substantive_text, ""]
+    elif posed_text:
+        page += ["### As referred / posed", "", posed_text, "", "### CCB advice", "", source_text, ""]
+    else:
+        page += [source_text, ""]
+    if action:
+        action_anchor = canonical_anchor(action.get("page_anchor"))
+        page += ["## Assembly action", "",
+                 "The General Assembly's later action is preserved separately from the substantive Q&A: "
+                 + deeplink(stem, action_anchor, action.get("printed_page")), "", action_text, ""]
+    page = complete_footnotes(page, stem)
+    back = ("[← Constitutional inquiry index](../index/INQUIRIES.md)"
+            if record.get("classification") == "inquiry"
+            else "[← Overture/amendment advice index](../index/CCB-OVERTURE-ADVICE.md)")
+    page += ["---", "", back]
+    (OUT / f"{slug}.md").write_text("\n".join(page) + "\n", encoding="utf-8")
+
+
+def main() -> None:
+    records = read_records()
+    OUT.mkdir(parents=True, exist_ok=True)
+    if not ONLY_RELOCATED:
+        for path in OUT.glob("*.md"):
+            path.unlink()
+
+    inq_rows: dict[int, list[tuple[int, str, str]]] = {}
+    adv_rows: dict[int, list[tuple[int, str, str]]] = {}
+    search_rows = []
+    generated = []
+    for record in records:
+        if ONLY_RELOCATED and not record.get("relocation"):
+            continue
+        write_page(record)
+        generated.append(record)
+        stem = record["minutes_volume"]
+        anchor = canonical_anchor(record.get("page_anchor"))
+        title = record.get("digest_title") or "Constitutional inquiry"
+        label = record.get("inquiry_number") or record.get("minute_para") or "Inquiry"
+        if record.get("digest_section"):
+            label += " " + record["digest_section"]
+        citation = record.get("digest_citation") or ""
+        row = (f"| {md_escape(label)} | [{md_escape(title)}](../inquiries/{record['page_slug']}.md) | "
+               f"{md_escape(record.get('synopsis'))} | {md_escape(', '.join(record.get('provisions') or []))} | "
+               f"{md_escape(record.get('disposition'))} | {md_escape(citation)} | "
+               f"{md_escape(record.get('originating_body'))} | "
+               f"{deeplink(stem, anchor, record.get('printed_page'))} |")
+        target = inq_rows if record.get("classification") == "inquiry" else adv_rows
+        target.setdefault(int(record["ga_ordinal"]), []).append((int(record.get("year") or 0), stem, row))
+        search_rows.append({
+            "id": record["inquiry_id"], "type": record.get("classification"),
+            "title": title, "citation": citation, "sub": record.get("synopsis") or "",
+            "provisions": record.get("provisions") or [], "year": record.get("year"),
+            "disposition": record.get("disposition") or "", "url": f"inquiries/{record['page_slug']}.md",
+            "minutes_volume": stem, "printed_page": record.get("printed_page"),
+            "page_anchor": anchor, "minute_para": record.get("minute_para"),
+        })
+
     if ONLY_RELOCATED:
-        print(f"[{ROOT}] refreshed {n_pages} relocated inquiry pages; left catalogues and other pages untouched")
+        print(f"[{ROOT}] refreshed {len(generated)} relocated inquiry pages; left catalogues and other pages untouched")
         return
+    (IDX / "inquiries_search.json").write_text(json.dumps(search_rows, ensure_ascii=False) + "\n", encoding="utf-8")
 
-    _json.dump(search_rows, open(os.path.join(IDX, "inquiries_search.json"), "w"), ensure_ascii=False)
+    common = ("Each entry pairs a Digest headnote with the verbatim record in the minutes. The title and "
+              "citation come from the canonical inquiry record in `inquiries.jsonl`.")
 
-    common = ("Each entry pairs a **Digest-level headnote** (the PCA Digest's editorial summary, Part II) "
-              "with the **verbatim record** sliced from the minutes; the **Minutes** column deep-links to "
-              "the source page. **Subject** and **Synopsis** are distilled from the Digest's own text. The "
-              "roster is drawn from the PCA Digest, Part II (1973–2018); later Assemblies are extracted "
-              "directly from each volume's CCB report.")
-
-    def write_catalogue(path, title, blurb, rows_by_ord, crosslink):
-        L = [f"# {title}", "", blurb, "", common, "", crosslink, ""]
+    def write_catalogue(path: str, title: str, blurb: str, rows_by_ord: dict[int, list[tuple[int, str, str]]], crosslink: str) -> int:
+        lines = [f"# {title}", "", blurb, "", common, "", crosslink, ""]
         total = 0
         for ordn in sorted(rows_by_ord):
             rows = rows_by_ord[ordn]
-            year, stem = rows[0][0], rows[0][1]
-            L += ["", f"## {ordinal(ordn)} General Assembly ({year})  ·  `{stem}`", "",
-                  "| Inquiry | Subject | Synopsis | Provisions | Outcome | From | Minutes |",
-                  "|---|---|---|---|---|---|---|"]
-            for _, _, row in rows:
-                L.append(row)
-                total += 1
-        open(os.path.join(IDX, path), "w", encoding="utf-8").write("\n".join(L) + "\n")
+            year, stem, _ = rows[0]
+            lines += ["", f"## {ordinal(ordn)} General Assembly ({year})  ·  `{stem}`", "",
+                      "| Inquiry | Subject | Synopsis | Provisions | Outcome | Digest citation | From | Minutes |",
+                      "|---|---|---|---|---|---|---|---|"]
+            lines.extend(row for _, _, row in rows)
+            total += len(rows)
+        (IDX / path).write_text("\n".join(lines) + "\n", encoding="utf-8")
         return total
 
     n_inq = write_catalogue(
         "INQUIRIES.md", "Constitutional Inquiry Catalogue",
-        "Questions of *constitutional interpretation* (Westminster Standards, *Book of Church Order*, "
-        "*Rules of Assembly Operations*) referred to the **Committee on Constitutional Business (CCB)** — "
-        "and, before the 18th General Assembly, the Committee on Judicial Business — answered with "
-        "**non-binding advice**. Grouped by Assembly.",
-        inq_rows,
-        "*The CCB's advice on whether proposed overtures/amendments conflict with the Constitution is "
-        "catalogued separately in **[Overture & amendment advice](CCB-OVERTURE-ADVICE.md)**.*")
-
+        "Questions of constitutional interpretation referred to the CCB or its predecessor and answered with non-binding advice. Grouped by Assembly.",
+        inq_rows, "*CCB constitutional review of proposed overtures/amendments is catalogued separately in **[Overture & amendment advice](CCB-OVERTURE-ADVICE.md)**.*")
     n_adv = write_catalogue(
         "CCB-OVERTURE-ADVICE.md", "CCB Advice on Overtures & Proposed Amendments",
-        "The **Committee on Constitutional Business (CCB)**'s advice on whether a proposed overture or "
-        "amendment is *in conflict* with the Constitution (its constitutional review of proposed changes, "
-        "distinct from answering questions about what the Constitution means). Grouped by Assembly.",
-        adv_rows,
-        "*Genuine constitutional inquiries / non-judicial references (questions about the Constitution's "
-        "meaning) are catalogued separately in **[Constitutional inquiries](INQUIRIES.md)**.*")
-
-    print(f"[{ROOT}] wrote {n_pages} pages; INQUIRIES.md ({n_inq} inquiries across {len(inq_rows)} GAs), "
-          f"CCB-OVERTURE-ADVICE.md ({n_adv} advices across {len(adv_rows)} GAs)")
+        "The CCB's advice on whether a proposed overture or amendment conflicts with the Constitution. Grouped by Assembly.",
+        adv_rows, "*Questions about constitutional meaning are catalogued separately in **[Constitutional inquiries](INQUIRIES.md)**.*")
+    print(f"[{ROOT}] wrote {len(generated)} inquiry pages; INQUIRIES.md ({n_inq} inquiries), CCB-OVERTURE-ADVICE.md ({n_adv} advices)")
 
 
 if __name__ == "__main__":

@@ -11,7 +11,7 @@
 | 2009 | Judicial case | structured_case_reference | structured_case_metadata | medium | [Eliot Lee v. Korean Eastern](../cases/ga38_2010__stub_2009-16.md) | sustained |
 | 2009 | Judicial case | explicit_citation | direct_text | high | [Lee v. Korean Eastern Presbytery (2007-09 & 2007-10)](../cases/ga37_2009__2007-09_2007-10.md) | sustained |
 | 2007 | Judicial case | explicit_citation | direct_text | high | [Stephen P. Engel v. Evangel Presbytery](../cases/ga36_2008__2007-04.md) | sustained |
-| 2025 | CCB advice | structured_provision_tag | structured_provision_tag | medium | [Elevating a censure without a new trial under BCO 36](../inquiries/ga52_2025__ci21.md) | ambiguous; Adopted 8-0-0 |
+| 2025 | CCB advice | structured_provision_tag | structured_provision_tag | medium | [Amend BCO 36 to Provide for Elevation of a Censure without an Entirely New Trial](../inquiries/ga52_2025__ci21.md) | ambiguous; Adopted 8-0-0 |
 | 2025 | Overture | proposal_target | overture_action_target | high | [Amend BCO 36 to Allow Elevation of Censure Without Entirely New Trial](../markdown/ga52_2025.md#ga52-p1268) | Approved → sent to presbyteries; ratification not located |
 | 2021 | Overture | proposal_target | overture_action_target | high | [Amend BCO 36 to Require Public Excommunication](../markdown/ga48_2021.md#ga48-p1053) | Answered in the negative |
 
