@@ -5,7 +5,7 @@
 | Year | Record type | Relationship | Evidence | Confidence | Title | Disposition |
 |------|-------------|--------------|----------|------------|-------|-------------|
 | 1987 | Constitutional inquiry | structured_provision_tag | structured_provision_tag | medium | [Role of a presbytery evangelist in church discipline and membership actions](../inquiries/ga15_1987__ci06.md) | advice given |
-| 2023 | CCB advice | structured_provision_tag | structured_provision_tag | medium | [Change BCO 8-6 Regarding Chaplain Administration of Sacraments](../inquiries/ga50_2023__ci02.md) | in conflict; Adopted 8-0-0 |
+| 2023 | CCB advice | structured_provision_tag | structured_provision_tag | medium | [Chaplain authority to administer sacraments under BCO 8-6](../inquiries/ga50_2023__ci02.md) | in conflict; Adopted 8-0-0 |
 | 2023 | Overture | proposal_target | overture_action_target | high | [Amend BCO 8-6 Regarding Chaplain Administration of Sacraments](../markdown/ga50_2023.md#ga50-p980) |  |
 | 2014 | Overture | proposal_target | overture_action_target | high | [Amend BCO 8-6 Regarding Commissioning an Evangelist](../markdown/ga42_2014.md#ga42-p261) | Answered by reference |
 | 2013 | Overture | proposal_target | overture_action_target | high | [Amend BCO 8-6 Regarding Commissioning an Evangelist](../markdown/ga41_2013.md#ga41-p896) | Referred |

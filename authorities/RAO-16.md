@@ -5,8 +5,8 @@
 | Year | Record type | Relationship | Evidence | Confidence | Title | Disposition |
 |------|-------------|--------------|----------|------------|-------|-------------|
 | 2001 | Constitutional inquiry | structured_provision_tag | structured_provision_tag | medium | [CCB Providing Unsolicited Advice to Committees](../inquiries/ga29_2001__ci07.md) | advice given |
-| 2025 | CCB advice | structured_provision_tag | structured_provision_tag | medium | [Amend RAO 16 to Require Reporting on Session and Diaconate Membership and Duties](../inquiries/ga52_2025__ci23.md) | in conflict; Adopted 8-0-0 |
-| 2025 | CCB advice | structured_provision_tag | structured_provision_tag | medium | [CRPR Recommendation 9: Amend RAO 16 by adding new section RAO 16-11](../inquiries/ga52_2025__ci36.md) | not in conflict; Adopted 6-0-0 |
+| 2025 | CCB advice | structured_provision_tag | structured_provision_tag | medium | [CRPR proposal to add new RAO 16-11 not in conflict](../inquiries/ga52_2025__ci36.md) | not in conflict; Adopted 6-0-0 |
+| 2025 | CCB advice | structured_provision_tag | structured_provision_tag | medium | [Requiring session and diaconate membership reporting in RAO 16](../inquiries/ga52_2025__ci23.md) | in conflict; Adopted 8-0-0 |
 | 2025 | RPR exception | structured_exception_tag | structured_provision_tag | medium | [Eastern Carolina: Incomplete record of ordination exam (experiential religion [including 21-4.e], Greek and](../rpr/exc/eastern-carolina__031.html) | raised |
 | 2025 | RPR exception | structured_exception_tag | structured_provision_tag | medium | [Ohio Valley: Minutes of Executive Session not included, and these must be submitted next year.](../rpr/exc/ohio-valley__028.html) | satisfactory |
 | 2025 | RPR exception | structured_exception_tag | structured_provision_tag | medium | [Tidewater: It appears that the Presbytery incorrectly judged that a stated difference is not out of a](../rpr/exc/tidewater__035.html) | raised |

@@ -4,7 +4,7 @@
 
 | Year | Record type | Relationship | Evidence | Confidence | Title | Disposition |
 |------|-------------|--------------|----------|------------|-------|-------------|
-| 1989 | Constitutional inquiry | structured_provision_tag | structured_provision_tag | medium | [Presbytery jurisdiction and restoration path for a deposed and repentant minister](../inquiries/ga17_1989__ci08.md) | advice given |
+| 1989 | Constitutional inquiry | structured_provision_tag | structured_provision_tag | medium | [Presbytery jurisdiction and restoration path for a deposed and repentant minister](../inquiries/ga17_1989__ci07.md) | advice given |
 | 2024 | RPR exception | structured_exception_tag | structured_provision_tag | medium | [Eastern Canada: Potential candidate not a member of PCA church; presbytery voted to “waive” requirement, b](../rpr/exc/eastern-canada__035.html) | unsatisfactory |
 | 2023 | RPR exception | structured_exception_tag | structured_provision_tag | medium | [Eastern Canada: Potential candidate not a member of PCA church; presbytery voted to “waive” requirement, b](../rpr/exc/eastern-canada__030.html) | raised |
 | 2023 | RPR exception | structured_exception_tag | structured_provision_tag | medium | [Korean Southwest Orange County: Incomplete record of internship. No record of session endorsement, six-months membership,](../rpr/exc/korean-southwest-orange-county__060.html) | satisfactory |

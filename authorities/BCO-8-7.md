@@ -8,8 +8,8 @@
 | 2025 | Judicial case | explicit_citation | direct_text | high | [Gleason v. Houston Metro Presbytery](../cases/ga52_2025__2024-02.md) | dismissed |
 | 2014 | Judicial case | explicit_citation | direct_text | high | [Charles Tarter v. Evangel Presbytery](../cases/ga42_2014__2012-03.md) | sustained |
 | 2014 | Constitutional inquiry | structured_provision_tag | structured_provision_tag | medium | [Defining the Term "Labor"](../inquiries/ga42_2014__ci03.md) | advice given |
-| 2022 | CCB advice | structured_provision_tag | structured_provision_tag | medium | [Amend BCO 8-7 by Adding Chaplain Endorsement Requirements and Recommendations](../inquiries/ga49_2022__ci21.md) | in conflict; Adopted by the CCB |
-| 2021 | CCB advice | structured_provision_tag | structured_provision_tag | medium | [Amend BCO 8-7 Regarding Chaplains](../inquiries/ga48_2021__ci01.md) | not in conflict; Adopted |
+| 2022 | CCB advice | structured_provision_tag | structured_provision_tag | medium | [Chaplain endorsement requirements added to BCO 8-7](../inquiries/ga49_2022__ci21.md) | in conflict; Adopted by the CCB |
+| 2021 | CCB advice | structured_provision_tag | structured_provision_tag | medium | [Amending BCO 8-7 regarding chaplain ordination requirements](../inquiries/ga48_2021__ci01.md) | not in conflict; Adopted |
 | 2025 | Overture | explicit_citation | direct_text | high | [Amend BCO 8-4, 20-1, 21-1, 21-12, and 23-1 re Calling and Dissolution of TE Relationships for Needful Works](../markdown/ga52_2025.md#ga52-p1254) | Approved → sent to presbyteries; ratification not located |
 | 2022 | Overture | proposal_target | overture_action_target | high | [Amend BCO 8-7 by Adding Chaplain Endorsement Requirements](../markdown/ga49_2022.md#ga49-p1359) |  |
 | 2021 | Overture | proposal_target | overture_action_target | high | [Amend BCO 8-7 Regarding Chaplains](../markdown/ga48_2021.md#ga48-p966) | Answered in the negative |
