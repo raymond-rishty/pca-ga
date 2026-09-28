@@ -735,7 +735,6 @@
     const assemblyCell = catalogueCell(cells, labels, /^assembly$/);
     const typeCell = catalogueCell(cells, labels, /^type$/);
     const provenanceCell = catalogueCell(cells, labels, /^provenance$/);
-    const citationCell = catalogueCell(cells, labels, /^(digest citation|citation)$/);
     const sourceCell = catalogueCell(cells, labels, /^(minutes|source)$/);
     const numberText = catalogueCellText(numberCell);
     const titleText = catalogueCellText(titleCell);
@@ -754,7 +753,7 @@
     record.dataset.searchText = [
       groupLabel, numberText, titleText, synopsisText, catalogueCellText(provisionsCell),
       outcomeText, catalogueCellText(fromCell), catalogueCellText(assemblyCell),
-      catalogueCellText(typeCell), provenanceText, catalogueCellText(citationCell), catalogueCellText(sourceCell),
+      catalogueCellText(typeCell), provenanceText, catalogueCellText(sourceCell),
     ].join(' ').toLocaleLowerCase();
 
     const layout = document.createElement('div');
@@ -796,8 +795,7 @@
     catalogueCopyCell(titleCell, title);
     if (!title.textContent.trim()) title.textContent = titleText || 'Untitled record';
     const resultTitle = titleText || title.textContent.trim() || 'PCA record';
-    const resultCitation = variant === 'study' ? ''
-      : catalogueCellText(citationCell) || catalogueDigestCitation(numberText, sourceCell);
+    const resultCitation = variant === 'study' ? '' : catalogueDigestCitation(numberText, sourceCell);
     record.dataset.resultItem = '';
     record.dataset.resultTitle = resultTitle;
     record.dataset.resultType = variant === 'study' ? 'Study report' : variant === 'ccb' ? 'CCB advice' : 'Constitutional inquiry';

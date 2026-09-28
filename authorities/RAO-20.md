@@ -4,7 +4,7 @@
 
 | Year | Record type | Relationship | Evidence | Confidence | Title | Disposition |
 |------|-------------|--------------|----------|------------|-------|-------------|
-| 2022 | Constitutional inquiry | structured_provision_tag | structured_provision_tag | medium | [Whether Committees of Commissioners may nominate a substitute program coordinator](../inquiries/ga49_2022__ci29.md) | CoC may only approve or disapprove, not nominate substitute; Adopted by the CCB |
+| 2022 | Constitutional inquiry | structured_provision_tag | structured_provision_tag | medium | [Whether Committees of Commissioners may nominate substitute program coordinators](../inquiries/ga49_2022__ci29.md) | CoC may only approve or disapprove, not nominate substitute; Adopted by the CCB |
 
 ---
 *[← Authority Index](../index/AUTHORITY-BY-PROVISION.md)*

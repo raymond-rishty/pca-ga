@@ -122,13 +122,6 @@ def caseProvisionIndex = registerCommand(
 )
 caseProvisionIndex.configure { dependsOn judicialCatalogue }
 
-def inquiryCatalogue = registerCommand(
-    'generateInquiryCatalogue', [pythonCommand, 'scripts/30_inquiry_pages.py', '.'],
-    [generatorScripts, file('index/inquiries.jsonl'), fileTree('markdown')],
-    [file('inquiries'), file('index/INQUIRIES.md'), file('index/CCB-OVERTURE-ADVICE.md'),
-     file('index/inquiries_search.json')], true
-)
-
 def provisionCatalogue = registerCommand(
     'generateProvisionCatalogue',
     [pythonCommand, 'scripts/build_provision_catalogue.py', '.', constitutionContent.absolutePath],
@@ -137,7 +130,6 @@ def provisionCatalogue = registerCommand(
     [file('index/provision_catalogue.json')], true
 )
 provisionCatalogue.configure { dependsOn caseProvisionIndex }
-provisionCatalogue.configure { dependsOn inquiryCatalogue }
 
 def authorityIndex = registerCommand(
     'projectAuthorityIndex', [pythonCommand, 'scripts/43_authority_index.py', '.'],
@@ -208,7 +200,6 @@ def buildSourceRegistry = registerCommand(
     [file('index/source_registry.json'), file('index/dedicated_pdf_inventory.json')], true
 )
 buildSourceRegistry.configure { dependsOn testMinutesMetadata }
-buildSourceRegistry.configure { dependsOn inquiryCatalogue }
 
 // Keep the quick local preview data-current without running the full validation
 // chain on every edit. Output-bearing generators in this graph are up-to-date

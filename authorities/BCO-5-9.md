@@ -9,7 +9,7 @@
 | 2023 | Judicial case | explicit_citation | direct_text | high | [Harrell et al. v. Covenant Presbytery](../cases/ga50_2023__2022-07.md) | sustained |
 | 2022 | Judicial case | explicit_citation | direct_text | high | [Gordon v. Southern New England Presbytery](../cases/ga49_2022__2020-06.md) | denied |
 | 2018 | Judicial case | explicit_citation | direct_text | high | [Dailey v. Heritage Presbytery](../cases/ga46_2018__2017-01.md) | sustained |
-| 2019 | CCB advice | structured_provision_tag | structured_provision_tag | medium | [5-9.i(1), 7-2, 9-3, 17-3, 24, and Add a Chapter 25 In Order to Allow Local Sessions to Decide Whether Women Are Allowed to Serve as Deacons](../inquiries/ga47_2019__ci17.md) | not in conflict; Adopted by the CCB |
+| 2019 | CCB advice | structured_provision_tag | structured_provision_tag | medium | [5-9.i(1)](../inquiries/ga47_2019__ci17.md) | not in conflict; Adopted by the CCB |
 | 2013 | Overture | proposal_target | overture_action_target | high | [Amend BCO 5-1, 5-2, 5-9 and Add Sections 5-11 and 5-12 Regarding Mission Churches](../markdown/ga41_2013.md#ga41-p818) | Referred |
 | 2010 | Overture | proposal_target | overture_action_target | high | [Revise BCO 5-2 Through 5-11 and Add New BCO 5-5 Regarding Church Organization](../markdown/ga38_2010.md#ga38-p370) | Approved & ratified (2011) |
 | 1993 | Overture | explicit_citation | direct_text | high | [Amend BCO 24-1 to Require Training of Officer Nominees](../markdown/ga21_1993.md#ga21-p122) | Approved & ratified (1994) |

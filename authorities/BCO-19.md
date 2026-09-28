@@ -4,7 +4,7 @@
 
 | Year | Record type | Relationship | Evidence | Confidence | Title | Disposition |
 |------|-------------|--------------|----------|------------|-------|-------------|
-| 1981 | Constitutional inquiry | structured_provision_tag | structured_provision_tag | medium | [BCO 19 (Internship/Licensure)](../inquiries/ga09_1981__ci01.md) | adopted — internship requirement applies only to new candidates not yet in process |
+| 1981 | Constitutional inquiry | structured_provision_tag | structured_provision_tag | medium | [Applicability of new internship and licensure requirement to candidates already in process](../inquiries/ga09_1981__ci01.md) | adopted — internship requirement applies only to new candidates not yet in process |
 | 2024 | RPR exception | structured_exception_tag | structured_provision_tag | medium | [Siouxlands: Improper approval of internship requirement.](../rpr/exc/siouxlands__091.html) | satisfactory |
 | 2023 | RPR exception | structured_exception_tag | structured_provision_tag | medium | [Nashville: ( BCO 19 16) – ¾ vote for waiving internship requirement not recorded.](../rpr/exc/nashville__060.html) | raised |
 | 2023 | RPR exception | structured_exception_tag | structured_provision_tag | medium | [Wisconsin: ( BCO 19 2.a) – All specific requirements of licensure exam not recorded. (Christian exper](../rpr/exc/wisconsin__035.html) | raised |

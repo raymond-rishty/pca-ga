@@ -8,13 +8,12 @@
 | 2021 | Judicial case | explicit_citation | direct_text | high | [Crouse v. Northwest Georgia Presbytery](../cases/ga48_2021__2019-03.md) | sustained |
 | 2002 | Judicial case | structured_case_reference | structured_case_metadata | medium | [Larry Ball v. Westminster Presbytery](../cases/ga30_2002__2001-28.md) | not_sustained |
 | 1991 | Judicial case | structured_case_reference | structured_case_metadata | medium | [Marshall v. Eastern Carolina Presbytery](../cases/ga19_1991__1990-04a.md) | sustained |
-| 2001 | Constitutional inquiry | structured_provision_tag | structured_provision_tag | medium | [Procedure for Suspending Rules](../inquiries/ga29_2001__ci12-02.md) | advice given |
 | 2001 | Constitutional inquiry | structured_provision_tag | structured_provision_tag | medium | [Relationship of Ordination Vows to Constitution and Rules of Operation](../inquiries/ga29_2001__ci12.md) | advice given |
 | 2018 | CCB advice | structured_provision_tag | structured_provision_tag | medium | [Altering and Refining the Language of BCO 59](../inquiries/ga46_2018__ci02.md) | in conflict |
 | 2007 | CCB advice | structured_provision_tag | structured_provision_tag | medium | [Teaching Approved Exceptions](../inquiries/ga35_2007__ci04.md) | in conflict |
 | 2006 | CCB advice | structured_provision_tag | structured_provision_tag | medium | [Teaching Approved Exceptions](../inquiries/ga34_2006__ci02.md) | in conflict |
 | 2005 | CCB advice | structured_provision_tag | structured_provision_tag | medium | [Teaching Approved Exceptions](../inquiries/ga33_2005__ci03.md) | in conflict |
-| 2004 | CCB advice | structured_provision_tag | structured_provision_tag | medium | [Subscription and Stating Exceptions to the Standards](../inquiries/ga32_2004__ci01.md) | in conflict |
+| 2004 | CCB advice | structured_provision_tag | structured_provision_tag | medium | [Subscription and Stating Exceptions to the Standards](../inquiries/ga32_2004__ci05.md) | in conflict |
 | 2025 | Overture | explicit_citation | direct_text | high | [Amend BCO 24-1 to Clarify a Session's Role in Examining Officer Nominees](../markdown/ga52_2025.md#ga52-p1237) | Approved → sent to presbyteries; ratification not located |
 | 2025 | Overture | explicit_citation | direct_text | high | [Amend BCO 24-1 to Require REs and Deacons to State Confessional Differences](../markdown/ga52_2025.md#ga52-p1180) | Approved → sent to presbyteries; ratification not located |
 | 2025 | Overture | explicit_citation | direct_text | high | [Erect Ad Interim Committee to Revise the Directory for Worship for Authoritative Use](../markdown/ga52_2025.md#ga52-p1242) | Adopted (final) |

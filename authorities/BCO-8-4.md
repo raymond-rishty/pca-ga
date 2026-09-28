@@ -5,7 +5,7 @@
 | Year | Record type | Relationship | Evidence | Confidence | Title | Disposition |
 |------|-------------|--------------|----------|------------|-------|-------------|
 | 2014 | Constitutional inquiry | structured_provision_tag | structured_provision_tag | medium | [Defining the Term "Labor"](../inquiries/ga42_2014__ci03.md) | advice given |
-| 2025 | CCB advice | structured_provision_tag | structured_provision_tag | medium | [20-1, 21-1, 21-12, and 23-1 re the Calling and Dissolution of TE Relationships for Needful Work](../inquiries/ga52_2025__ci19.md) | in conflict (and ambiguous); Adopted 8-0-0 |
+| 2025 | CCB advice | structured_provision_tag | structured_provision_tag | medium | [20-1](../inquiries/ga52_2025__ci19.md) | in conflict (and ambiguous); Adopted 8-0-0 |
 | 2025 | Overture | proposal_target | overture_action_target | high | [Amend BCO 8-4, 20-1, 21-1, 21-12, and 23-1 re Calling and Dissolution of TE Relationships for Needful Works](../markdown/ga52_2025.md#ga52-p1254) | Approved → sent to presbyteries; ratification not located |
 | 1996 | Overture | explicit_citation | direct_text | high | [Amend BCO 7-2 to Limit Voting Members on Permanent Committees](../markdown/ga24_1996.md#ga24-p289) | Answered in the negative |
 | 1996 | Overture | explicit_citation | direct_text | high | [Retain BCO 46-5 Without Change](../markdown/ga24_1996.md#ga24-p302) | Answered by reference |

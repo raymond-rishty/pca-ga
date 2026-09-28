@@ -4,8 +4,8 @@
 
 | Year | Record type | Relationship | Evidence | Confidence | Title | Disposition |
 |------|-------------|--------------|----------|------------|-------|-------------|
-| 2025 | Constitutional inquiry | structured_provision_tag | structured_provision_tag | medium | [Whether additional nominations from the floor (RAO 3-4) would be allowed if the AC did not bring a Stated Clerk nominee](../inquiries/ga52_2025__ci35.md) | Yes — floor nominations are allowed; RAO 3-4 second sentence provides GA right to select Stated Clerk regardless of AC nominee; Adopted 8-0-0 |
-| 2019 | CCB advice | structured_provision_tag | structured_provision_tag | medium | [Amend RAO 11 and 13 to Disallow Memorials](../inquiries/ga47_2019__ci05.md) | not in conflict; Adopted by the CCB |
+| 2025 | Constitutional inquiry | structured_provision_tag | structured_provision_tag | medium | [Floor nominations for Stated Clerk when AC brings no nominee](../inquiries/ga52_2025__ci35.md) | Yes — floor nominations are allowed; RAO 3-4 second sentence provides GA right to select Stated Clerk regardless of AC nominee; Adopted 8-0-0 |
+| 2019 | CCB advice | structured_provision_tag | structured_provision_tag | medium | [Proposal to disallow memorials via RAO amendment](../inquiries/ga47_2019__ci05.md) | not in conflict; Adopted by the CCB |
 
 ---
 *[← Authority Index](../index/AUTHORITY-BY-PROVISION.md)*

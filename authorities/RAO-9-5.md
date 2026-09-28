@@ -4,7 +4,6 @@
 
 | Year | Record type | Relationship | Evidence | Confidence | Title | Disposition |
 |------|-------------|--------------|----------|------------|-------|-------------|
-| 2017 | CCB advice | structured_provision_tag | structured_provision_tag | medium | [Procedure for Forming Ad Interim Committees](../inquiries/ga45_2017__ci05-02.md) | in conflict |
 | 2017 | CCB advice | structured_provision_tag | structured_provision_tag | medium | [Procedure for Forming Ad Interim Committees](../inquiries/ga45_2017__ci05.md) | in conflict |
 
 ---
