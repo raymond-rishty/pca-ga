@@ -183,10 +183,8 @@ def candidate_page_starts(new_pages: list[Page], old_pages: list[Page], old_star
     center = next((i for i, p in enumerate(new_pages) if p.pdf == target), None)
     if center is None:
         return [0]
-    # The source records already carry a PDF-page anchor.  Use that page first;
-    # nearby pages are only a fallback when its fingerprint is too weak.
-    if hint is not None:
-        return [center]
+    # OCR can shift page boundaries and a saved page anchor can itself be stale.
+    # Include nearby PDF pages even when an anchor supplies the center.
     return list(range(max(0, center - window), min(len(new_pages), center + window + 1)))
 
 
@@ -321,11 +319,6 @@ def locate_span(old_lines: list[str], old_pages: list[Page], new_lines: list[str
 def locate_inquiries(old_ref: str, window: int) -> dict[str, Any]:
     path = ROOT / "index/inquiries_located.json"
     data = read_json(path)
-    roster = read_json(ROOT / "index/inquiries_roster.json")
-    roster_by_key = {(x.get("ga_ordinal"), x.get("minute_para"), x.get("topic")): x
-                     for x in roster}
-    roster_by_para = {(x.get("ga_ordinal"), x.get("minute_para")): x
-                      for x in roster}
     records: list[dict[str, Any]] = []
     cache: dict[str, tuple[list[str], list[Page], list[str], list[Page]]] = {}
     for volume in data:
@@ -341,25 +334,15 @@ def locate_inquiries(old_ref: str, window: int) -> dict[str, Any]:
         old_lines, old_pages, new_lines, new_pages = corpus()
         for i, item in enumerate(volume.get("results", [])):
             key = f"{stem}:{i}:{item.get('minute_para','')}:{item.get('topic','')}"
-            ga = volume.get("ga_ordinal")
-            roster_item = (roster_by_key.get((ga, item.get("minute_para"), item.get("topic"))) or
-                           roster_by_para.get((ga, item.get("minute_para"))))
-            roster_text = ((roster_item or {}).get("summary") or
-                           (roster_item or {}).get("synopsis"))
             advice = locate_span(old_lines, old_pages, new_lines, new_pages,
                                  item.get("advice_start"), item.get("advice_end"),
-                                 item.get("page_anchor"), window,
-                                 text_override=roster_text,
-                                 page_hint=(roster_item or {}).get("printed_page"),
-                                 page_hint_kind="printed")
+                                 item.get("page_anchor"), window)
             posed = locate_span(old_lines, old_pages, new_lines, new_pages,
                                 item.get("posed_start"), item.get("posed_end"),
                                 item.get("page_anchor"), window)
             records.append({"key": key, "vol": stem, "minute_para": item.get("minute_para"),
                             "topic": item.get("topic"), "old": {k: item.get(k) for k in
                             ("advice_start", "advice_end", "posed_start", "posed_end", "page_anchor")},
-                            "roster": {k: (roster_item or {}).get(k) for k in
-                            ("ga_ordinal", "minute_para", "printed_page", "summary", "synopsis")},
                             "advice": advice, "posed": posed})
     return {"schema": "pca.source_relocation.v1", "kind": "inquiries", "old_ref": old_ref,
             "page_window": window, "records": records}
