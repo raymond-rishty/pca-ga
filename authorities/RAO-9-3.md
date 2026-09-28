@@ -4,9 +4,9 @@
 
 | Year | Record type | Relationship | Evidence | Confidence | Title | Disposition |
 |------|-------------|--------------|----------|------------|-------|-------------|
-| 2024 | CCB advice | structured_provision_tag | structured_provision_tag | medium | [Study committee to review and reform judicial rules](../inquiries/ga51_2024__ci04.md) | in conflict; Adopted 8-0-0 |
-| 2021 | CCB advice | structured_provision_tag | structured_provision_tag | medium | [Clarifying funding procedures for ad interim committees](../inquiries/ga48_2021__ci10.md) | not in conflict; Adopted |
-| 2019 | CCB advice | structured_provision_tag | structured_provision_tag | medium | [Domestic Oppression](../inquiries/ga47_2019__ci06.md) | in conflict; Adopted by the CCB |
+| 2024 | CCB advice | structured_provision_tag | structured_provision_tag | medium | [Establish Study Committee for Judicial Rules Changes](../inquiries/ga51_2024__ci04.md) | in conflict; Adopted 8-0-0 |
+| 2021 | CCB advice | structured_provision_tag | structured_provision_tag | medium | [Revise RAO 9-3 to Clarify Funding for Ad Interim Committees](../inquiries/ga48_2021__ci10.md) | not in conflict; Adopted |
+| 2019 | CCB advice | structured_provision_tag | structured_provision_tag | medium | [Domestic Oppression, and Sexual Assault](../inquiries/ga47_2019__ci06.md) | in conflict; Adopted by the CCB |
 
 ---
 *[← Authority Index](../index/AUTHORITY-BY-PROVISION.md)*

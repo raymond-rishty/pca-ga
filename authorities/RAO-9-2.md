@@ -4,6 +4,7 @@
 
 | Year | Record type | Relationship | Evidence | Confidence | Title | Disposition |
 |------|-------------|--------------|----------|------------|-------|-------------|
+| 2008 | CCB advice | structured_provision_tag | structured_provision_tag | medium | [Ad Interim Committee to Revise the RAO](../inquiries/ga36_2008__ci05-02.md) | in conflict |
 | 2008 | CCB advice | structured_provision_tag | structured_provision_tag | medium | [Ad Interim Committee to Revise the RAO](../inquiries/ga36_2008__ci05.md) | in conflict |
 
 ---

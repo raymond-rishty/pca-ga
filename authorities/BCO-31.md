@@ -13,7 +13,7 @@
 | 1993 | Judicial case | explicit_citation | direct_text | high | [Lovelace v. Northeast Presbytery (Case #2)](../cases/ga21_1993__1991-06.md) | other |
 | 1991 | Judicial case | explicit_citation | direct_text | high | [Bowen v. Eastern Carolina Presbytery](../cases/ga19_1991__1990-08.md) | sustained |
 | 1998 | Constitutional inquiry | structured_provision_tag | structured_provision_tag | medium | [Whether presbytery may investigate before proceeding to trial](../inquiries/ga26_1998__ci01.md) | advice given — BCO 31-2 permits investigation before adjudication; amendments recommended |
-| 2023 | CCB advice | structured_provision_tag | structured_provision_tag | medium | [Expedited, conflict-free investigations for cases with victims or moral failure](../inquiries/ga50_2023__ci18.md) | in conflict; Adopted 8-0-0 |
+| 2023 | CCB advice | structured_provision_tag | structured_provision_tag | medium | [Amend BCO 31 to Require Expedited and Conflict-free Investigations of Cases Involving Moral Failure or Victim(s)](../inquiries/ga50_2023__ci18.md) | in conflict; Adopted 8-0-0 |
 | 2024 | Overture | proposal_target | overture_action_target | high | [Amend BCO 31, 32, and 35 to Reform Judicial Process](../markdown/ga51_2024.md#ga51-p1122) | Answered in the negative |
 | 1990 | RPR exception | structured_exception_tag | structured_provision_tag | medium | [Eastern Carolina: Page 7, #20: Presbytery failed to comply with BCO 31, 32, 33 with regard to original juris](../rpr/exc/eastern-carolina__005.html) | raised |
 

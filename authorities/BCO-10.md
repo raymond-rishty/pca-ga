@@ -4,7 +4,7 @@
 
 | Year | Record type | Relationship | Evidence | Confidence | Title | Disposition |
 |------|-------------|--------------|----------|------------|-------|-------------|
-| 2021 | CCB advice | structured_provision_tag | structured_provision_tag | medium | [Permitting church courts to meet by telecommunication](../inquiries/ga48_2021__ci17.md) | creates a conflict; Adopted |
+| 2021 | CCB advice | structured_provision_tag | structured_provision_tag | medium | [Amend BCO 10 to Permit Telecommunication Meetings](../inquiries/ga48_2021__ci17.md) | creates a conflict; Adopted |
 | 2024 | RPR exception | structured_exception_tag | structured_provision_tag | medium | [Korean Southern: Failure to provide 60 day notice to congregants.](../rpr/exc/korean-southern__155.html) | satisfactory |
 
 ---

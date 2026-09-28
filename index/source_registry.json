@@ -4,7 +4,7 @@
   "generated_from": [
     "index/cases.jsonl",
     "index/sjc_official/roster.jsonl",
-    "index/inquiries_located.json",
+    "index/inquiries.jsonl",
     "index/overture_bodies.jsonl",
     "index/rpr/*.json",
     "index/studies_pages.json",
@@ -5810,2620 +5810,1312 @@
       "case-pdf:2023-15_Turner_v_SouthFL",
       "minutes:ga51_2024"
     ],
-    "inquiry:ga03_1975:0": [
+    "inquiry:ga03_1975__ci01": [
       "minutes:ga03_1975"
     ],
-    "inquiry:ga03_1975:3-89:0": [
-      "minutes:ga03_1975"
-    ],
-    "inquiry:ga04_1976:0": [
+    "inquiry:ga04_1976__ci01": [
       "minutes:ga04_1976"
     ],
-    "inquiry:ga04_1976:4-71:0": [
-      "minutes:ga04_1976"
-    ],
-    "inquiry:ga06_1978:0": [
+    "inquiry:ga06_1978__ci01": [
       "minutes:ga06_1978"
     ],
-    "inquiry:ga06_1978:6-111:0": [
-      "minutes:ga06_1978"
-    ],
-    "inquiry:ga07_1979:0": [
+    "inquiry:ga07_1979__ci01": [
       "minutes:ga07_1979"
     ],
-    "inquiry:ga07_1979:1": [
+    "inquiry:ga07_1979__ci01-02": [
       "minutes:ga07_1979"
     ],
-    "inquiry:ga07_1979:7-41:0": [
-      "minutes:ga07_1979"
-    ],
-    "inquiry:ga07_1979:7-41:1": [
-      "minutes:ga07_1979"
-    ],
-    "inquiry:ga09_1981:0": [
+    "inquiry:ga09_1981__ci01": [
       "minutes:ga09_1981"
     ],
-    "inquiry:ga09_1981:9-65:0": [
-      "minutes:ga09_1981"
-    ],
-    "inquiry:ga10_1982:0": [
+    "inquiry:ga10_1982__ci01": [
       "minutes:ga10_1982"
     ],
-    "inquiry:ga10_1982:1": [
+    "inquiry:ga10_1982__ci02": [
       "minutes:ga10_1982"
     ],
-    "inquiry:ga10_1982:10-23:0": [
+    "inquiry:ga10_1982__ci03": [
       "minutes:ga10_1982"
     ],
-    "inquiry:ga10_1982:10-75:1": [
+    "inquiry:ga10_1982__ci04": [
       "minutes:ga10_1982"
     ],
-    "inquiry:ga10_1982:10-75:2": [
-      "minutes:ga10_1982"
-    ],
-    "inquiry:ga10_1982:10-77:3": [
-      "minutes:ga10_1982"
-    ],
-    "inquiry:ga10_1982:2": [
-      "minutes:ga10_1982"
-    ],
-    "inquiry:ga10_1982:3": [
-      "minutes:ga10_1982"
-    ],
-    "inquiry:ga11_1983:0": [
+    "inquiry:ga11_1983__ci01": [
       "minutes:ga11_1983"
     ],
-    "inquiry:ga11_1983:1": [
+    "inquiry:ga11_1983__ci02": [
       "minutes:ga11_1983"
     ],
-    "inquiry:ga11_1983:11-36:0": [
+    "inquiry:ga11_1983__ci03": [
       "minutes:ga11_1983"
     ],
-    "inquiry:ga11_1983:11-36:1": [
-      "minutes:ga11_1983"
-    ],
-    "inquiry:ga11_1983:11-36:2": [
-      "minutes:ga11_1983"
-    ],
-    "inquiry:ga11_1983:2": [
-      "minutes:ga11_1983"
-    ],
-    "inquiry:ga12_1984:0": [
+    "inquiry:ga12_1984__ci01": [
       "minutes:ga12_1984"
     ],
-    "inquiry:ga12_1984:1": [
+    "inquiry:ga12_1984__ci02": [
       "minutes:ga12_1984"
     ],
-    "inquiry:ga12_1984:10": [
+    "inquiry:ga12_1984__ci03": [
       "minutes:ga12_1984"
     ],
-    "inquiry:ga12_1984:11": [
+    "inquiry:ga12_1984__ci04": [
       "minutes:ga12_1984"
     ],
-    "inquiry:ga12_1984:12-53:0": [
+    "inquiry:ga12_1984__ci05": [
       "minutes:ga12_1984"
     ],
-    "inquiry:ga12_1984:12-53:1": [
+    "inquiry:ga12_1984__ci05-02": [
       "minutes:ga12_1984"
     ],
-    "inquiry:ga12_1984:12-53:10": [
+    "inquiry:ga12_1984__ci06": [
       "minutes:ga12_1984"
     ],
-    "inquiry:ga12_1984:12-53:11": [
+    "inquiry:ga12_1984__ci07": [
       "minutes:ga12_1984"
     ],
-    "inquiry:ga12_1984:12-53:2": [
+    "inquiry:ga12_1984__ci08": [
       "minutes:ga12_1984"
     ],
-    "inquiry:ga12_1984:12-53:3": [
+    "inquiry:ga12_1984__ci09": [
       "minutes:ga12_1984"
     ],
-    "inquiry:ga12_1984:12-53:4": [
+    "inquiry:ga12_1984__ci10": [
       "minutes:ga12_1984"
     ],
-    "inquiry:ga12_1984:12-53:7": [
+    "inquiry:ga12_1984__ci11": [
       "minutes:ga12_1984"
     ],
-    "inquiry:ga12_1984:12-53:8": [
-      "minutes:ga12_1984"
-    ],
-    "inquiry:ga12_1984:12-53:9": [
-      "minutes:ga12_1984"
-    ],
-    "inquiry:ga12_1984:12-73:5": [
-      "minutes:ga12_1984"
-    ],
-    "inquiry:ga12_1984:12-83:6": [
-      "minutes:ga12_1984"
-    ],
-    "inquiry:ga12_1984:2": [
-      "minutes:ga12_1984"
-    ],
-    "inquiry:ga12_1984:3": [
-      "minutes:ga12_1984"
-    ],
-    "inquiry:ga12_1984:4": [
-      "minutes:ga12_1984"
-    ],
-    "inquiry:ga12_1984:5": [
-      "minutes:ga12_1984"
-    ],
-    "inquiry:ga12_1984:6": [
-      "minutes:ga12_1984"
-    ],
-    "inquiry:ga12_1984:7": [
-      "minutes:ga12_1984"
-    ],
-    "inquiry:ga12_1984:8": [
-      "minutes:ga12_1984"
-    ],
-    "inquiry:ga12_1984:9": [
-      "minutes:ga12_1984"
-    ],
-    "inquiry:ga13_1985:0": [
+    "inquiry:ga13_1985__ci01": [
       "minutes:ga13_1985"
     ],
-    "inquiry:ga13_1985:1": [
+    "inquiry:ga13_1985__ci02": [
       "minutes:ga13_1985"
     ],
-    "inquiry:ga13_1985:10": [
+    "inquiry:ga13_1985__ci02-02": [
       "minutes:ga13_1985"
     ],
-    "inquiry:ga13_1985:11": [
+    "inquiry:ga13_1985__ci03": [
       "minutes:ga13_1985"
     ],
-    "inquiry:ga13_1985:12": [
+    "inquiry:ga13_1985__ci04": [
       "minutes:ga13_1985"
     ],
-    "inquiry:ga13_1985:13-27:3": [
+    "inquiry:ga13_1985__ci05": [
       "minutes:ga13_1985"
     ],
-    "inquiry:ga13_1985:13-31:5": [
+    "inquiry:ga13_1985__ci06": [
       "minutes:ga13_1985"
     ],
-    "inquiry:ga13_1985:13-45:0": [
+    "inquiry:ga13_1985__ci07": [
       "minutes:ga13_1985"
     ],
-    "inquiry:ga13_1985:13-45:1": [
+    "inquiry:ga13_1985__ci08": [
       "minutes:ga13_1985"
     ],
-    "inquiry:ga13_1985:13-45:10": [
+    "inquiry:ga13_1985__ci09": [
       "minutes:ga13_1985"
     ],
-    "inquiry:ga13_1985:13-45:11": [
+    "inquiry:ga13_1985__ci10": [
       "minutes:ga13_1985"
     ],
-    "inquiry:ga13_1985:13-45:12": [
+    "inquiry:ga13_1985__ci11": [
       "minutes:ga13_1985"
     ],
-    "inquiry:ga13_1985:13-45:2": [
+    "inquiry:ga13_1985__ci12": [
       "minutes:ga13_1985"
     ],
-    "inquiry:ga13_1985:13-45:4": [
-      "minutes:ga13_1985"
-    ],
-    "inquiry:ga13_1985:13-45:6": [
-      "minutes:ga13_1985"
-    ],
-    "inquiry:ga13_1985:13-45:7": [
-      "minutes:ga13_1985"
-    ],
-    "inquiry:ga13_1985:13-45:8": [
-      "minutes:ga13_1985"
-    ],
-    "inquiry:ga13_1985:13-45:9": [
-      "minutes:ga13_1985"
-    ],
-    "inquiry:ga13_1985:2": [
-      "minutes:ga13_1985"
-    ],
-    "inquiry:ga13_1985:3": [
-      "minutes:ga13_1985"
-    ],
-    "inquiry:ga13_1985:4": [
-      "minutes:ga13_1985"
-    ],
-    "inquiry:ga13_1985:5": [
-      "minutes:ga13_1985"
-    ],
-    "inquiry:ga13_1985:6": [
-      "minutes:ga13_1985"
-    ],
-    "inquiry:ga13_1985:7": [
-      "minutes:ga13_1985"
-    ],
-    "inquiry:ga13_1985:8": [
-      "minutes:ga13_1985"
-    ],
-    "inquiry:ga13_1985:9": [
-      "minutes:ga13_1985"
-    ],
-    "inquiry:ga14_1986:0": [
+    "inquiry:ga14_1986__ci01": [
       "minutes:ga14_1986"
     ],
-    "inquiry:ga14_1986:1": [
+    "inquiry:ga14_1986__ci02": [
       "minutes:ga14_1986"
     ],
-    "inquiry:ga14_1986:10": [
+    "inquiry:ga14_1986__ci03": [
       "minutes:ga14_1986"
     ],
-    "inquiry:ga14_1986:11": [
+    "inquiry:ga14_1986__ci04": [
       "minutes:ga14_1986"
     ],
-    "inquiry:ga14_1986:12": [
+    "inquiry:ga14_1986__ci05": [
       "minutes:ga14_1986"
     ],
-    "inquiry:ga14_1986:13": [
+    "inquiry:ga14_1986__ci06": [
       "minutes:ga14_1986"
     ],
-    "inquiry:ga14_1986:14": [
+    "inquiry:ga14_1986__ci07": [
       "minutes:ga14_1986"
     ],
-    "inquiry:ga14_1986:14-42:18": [
+    "inquiry:ga14_1986__ci08": [
       "minutes:ga14_1986"
     ],
-    "inquiry:ga14_1986:14-44:4": [
+    "inquiry:ga14_1986__ci09": [
       "minutes:ga14_1986"
     ],
-    "inquiry:ga14_1986:14-52:0": [
+    "inquiry:ga14_1986__ci10": [
       "minutes:ga14_1986"
     ],
-    "inquiry:ga14_1986:14-52:1": [
+    "inquiry:ga14_1986__ci11": [
       "minutes:ga14_1986"
     ],
-    "inquiry:ga14_1986:14-52:10": [
+    "inquiry:ga14_1986__ci11-02": [
       "minutes:ga14_1986"
     ],
-    "inquiry:ga14_1986:14-52:11": [
+    "inquiry:ga14_1986__ci11-03": [
       "minutes:ga14_1986"
     ],
-    "inquiry:ga14_1986:14-52:12": [
+    "inquiry:ga14_1986__ci11-04": [
       "minutes:ga14_1986"
     ],
-    "inquiry:ga14_1986:14-52:13": [
+    "inquiry:ga14_1986__ci12": [
       "minutes:ga14_1986"
     ],
-    "inquiry:ga14_1986:14-52:14": [
+    "inquiry:ga14_1986__ci13": [
       "minutes:ga14_1986"
     ],
-    "inquiry:ga14_1986:14-52:15": [
+    "inquiry:ga14_1986__ci14": [
       "minutes:ga14_1986"
     ],
-    "inquiry:ga14_1986:14-52:16": [
+    "inquiry:ga14_1986__ci15": [
       "minutes:ga14_1986"
     ],
-    "inquiry:ga14_1986:14-52:17": [
+    "inquiry:ga14_1986__ci16": [
       "minutes:ga14_1986"
     ],
-    "inquiry:ga14_1986:14-52:19": [
+    "inquiry:ga14_1986__ci17": [
       "minutes:ga14_1986"
     ],
-    "inquiry:ga14_1986:14-52:2": [
+    "inquiry:ga14_1986__ci18": [
       "minutes:ga14_1986"
     ],
-    "inquiry:ga14_1986:14-52:20": [
+    "inquiry:ga14_1986__ci19": [
       "minutes:ga14_1986"
     ],
-    "inquiry:ga14_1986:14-52:21": [
+    "inquiry:ga14_1986__ci20": [
       "minutes:ga14_1986"
     ],
-    "inquiry:ga14_1986:14-52:22": [
+    "inquiry:ga14_1986__ci21": [
       "minutes:ga14_1986"
     ],
-    "inquiry:ga14_1986:14-52:23": [
-      "minutes:ga14_1986"
-    ],
-    "inquiry:ga14_1986:14-52:3": [
-      "minutes:ga14_1986"
-    ],
-    "inquiry:ga14_1986:14-52:5": [
-      "minutes:ga14_1986"
-    ],
-    "inquiry:ga14_1986:14-52:6": [
-      "minutes:ga14_1986"
-    ],
-    "inquiry:ga14_1986:14-52:7": [
-      "minutes:ga14_1986"
-    ],
-    "inquiry:ga14_1986:14-52:8": [
-      "minutes:ga14_1986"
-    ],
-    "inquiry:ga14_1986:14-52:9": [
-      "minutes:ga14_1986"
-    ],
-    "inquiry:ga14_1986:15": [
-      "minutes:ga14_1986"
-    ],
-    "inquiry:ga14_1986:16": [
-      "minutes:ga14_1986"
-    ],
-    "inquiry:ga14_1986:17": [
-      "minutes:ga14_1986"
-    ],
-    "inquiry:ga14_1986:18": [
-      "minutes:ga14_1986"
-    ],
-    "inquiry:ga14_1986:19": [
-      "minutes:ga14_1986"
-    ],
-    "inquiry:ga14_1986:2": [
-      "minutes:ga14_1986"
-    ],
-    "inquiry:ga14_1986:20": [
-      "minutes:ga14_1986"
-    ],
-    "inquiry:ga14_1986:21": [
-      "minutes:ga14_1986"
-    ],
-    "inquiry:ga14_1986:22": [
-      "minutes:ga14_1986"
-    ],
-    "inquiry:ga14_1986:23": [
-      "minutes:ga14_1986"
-    ],
-    "inquiry:ga14_1986:3": [
-      "minutes:ga14_1986"
-    ],
-    "inquiry:ga14_1986:4": [
-      "minutes:ga14_1986"
-    ],
-    "inquiry:ga14_1986:5": [
-      "minutes:ga14_1986"
-    ],
-    "inquiry:ga14_1986:6": [
-      "minutes:ga14_1986"
-    ],
-    "inquiry:ga14_1986:7": [
-      "minutes:ga14_1986"
-    ],
-    "inquiry:ga14_1986:8": [
-      "minutes:ga14_1986"
-    ],
-    "inquiry:ga14_1986:9": [
-      "minutes:ga14_1986"
-    ],
-    "inquiry:ga15_1987:0": [
+    "inquiry:ga15_1987__ci01": [
       "minutes:ga15_1987"
     ],
-    "inquiry:ga15_1987:1": [
+    "inquiry:ga15_1987__ci02": [
       "minutes:ga15_1987"
     ],
-    "inquiry:ga15_1987:15-62:5": [
+    "inquiry:ga15_1987__ci03": [
       "minutes:ga15_1987"
     ],
-    "inquiry:ga15_1987:15-83:0": [
+    "inquiry:ga15_1987__ci04": [
       "minutes:ga15_1987"
     ],
-    "inquiry:ga15_1987:15-83:1": [
+    "inquiry:ga15_1987__ci05": [
       "minutes:ga15_1987"
     ],
-    "inquiry:ga15_1987:15-83:2": [
+    "inquiry:ga15_1987__ci06": [
       "minutes:ga15_1987"
     ],
-    "inquiry:ga15_1987:15-83:3": [
+    "inquiry:ga15_1987__ci07": [
       "minutes:ga15_1987"
     ],
-    "inquiry:ga15_1987:15-83:4": [
-      "minutes:ga15_1987"
-    ],
-    "inquiry:ga15_1987:15-83:6": [
-      "minutes:ga15_1987"
-    ],
-    "inquiry:ga15_1987:2": [
-      "minutes:ga15_1987"
-    ],
-    "inquiry:ga15_1987:3": [
-      "minutes:ga15_1987"
-    ],
-    "inquiry:ga15_1987:4": [
-      "minutes:ga15_1987"
-    ],
-    "inquiry:ga15_1987:5": [
-      "minutes:ga15_1987"
-    ],
-    "inquiry:ga15_1987:6": [
-      "minutes:ga15_1987"
-    ],
-    "inquiry:ga16_1988:0": [
+    "inquiry:ga16_1988__ci01": [
       "minutes:ga16_1988"
     ],
-    "inquiry:ga16_1988:1": [
+    "inquiry:ga16_1988__ci02": [
       "minutes:ga16_1988"
     ],
-    "inquiry:ga16_1988:10": [
+    "inquiry:ga16_1988__ci02-02": [
       "minutes:ga16_1988"
     ],
-    "inquiry:ga16_1988:16-67:4": [
+    "inquiry:ga16_1988__ci03": [
       "minutes:ga16_1988"
     ],
-    "inquiry:ga16_1988:16-77:0": [
+    "inquiry:ga16_1988__ci04": [
       "minutes:ga16_1988"
     ],
-    "inquiry:ga16_1988:16-77:1": [
+    "inquiry:ga16_1988__ci05": [
       "minutes:ga16_1988"
     ],
-    "inquiry:ga16_1988:16-77:10": [
+    "inquiry:ga16_1988__ci06": [
       "minutes:ga16_1988"
     ],
-    "inquiry:ga16_1988:16-77:2": [
+    "inquiry:ga16_1988__ci07": [
       "minutes:ga16_1988"
     ],
-    "inquiry:ga16_1988:16-77:3": [
+    "inquiry:ga16_1988__ci08": [
       "minutes:ga16_1988"
     ],
-    "inquiry:ga16_1988:16-77:5": [
+    "inquiry:ga16_1988__ci09": [
       "minutes:ga16_1988"
     ],
-    "inquiry:ga16_1988:16-77:6": [
+    "inquiry:ga16_1988__ci10": [
       "minutes:ga16_1988"
     ],
-    "inquiry:ga16_1988:16-77:7": [
-      "minutes:ga16_1988"
-    ],
-    "inquiry:ga16_1988:16-77:8": [
-      "minutes:ga16_1988"
-    ],
-    "inquiry:ga16_1988:16-77:9": [
-      "minutes:ga16_1988"
-    ],
-    "inquiry:ga16_1988:2": [
-      "minutes:ga16_1988"
-    ],
-    "inquiry:ga16_1988:3": [
-      "minutes:ga16_1988"
-    ],
-    "inquiry:ga16_1988:4": [
-      "minutes:ga16_1988"
-    ],
-    "inquiry:ga16_1988:5": [
-      "minutes:ga16_1988"
-    ],
-    "inquiry:ga16_1988:6": [
-      "minutes:ga16_1988"
-    ],
-    "inquiry:ga16_1988:7": [
-      "minutes:ga16_1988"
-    ],
-    "inquiry:ga16_1988:8": [
-      "minutes:ga16_1988"
-    ],
-    "inquiry:ga16_1988:9": [
-      "minutes:ga16_1988"
-    ],
-    "inquiry:ga17_1989:0": [
+    "inquiry:ga17_1989__ci01": [
       "minutes:ga17_1989"
     ],
-    "inquiry:ga17_1989:1": [
+    "inquiry:ga17_1989__ci02": [
       "minutes:ga17_1989"
     ],
-    "inquiry:ga17_1989:17-82:0": [
+    "inquiry:ga17_1989__ci03": [
       "minutes:ga17_1989"
     ],
-    "inquiry:ga17_1989:17-82:1": [
+    "inquiry:ga17_1989__ci04": [
       "minutes:ga17_1989"
     ],
-    "inquiry:ga17_1989:17-82:2": [
+    "inquiry:ga17_1989__ci05": [
       "minutes:ga17_1989"
     ],
-    "inquiry:ga17_1989:17-82:3": [
+    "inquiry:ga17_1989__ci06": [
       "minutes:ga17_1989"
     ],
-    "inquiry:ga17_1989:17-82:4": [
+    "inquiry:ga17_1989__ci07": [
       "minutes:ga17_1989"
     ],
-    "inquiry:ga17_1989:17-82:5": [
+    "inquiry:ga17_1989__ci08": [
       "minutes:ga17_1989"
     ],
-    "inquiry:ga17_1989:17-82:6": [
+    "inquiry:ga17_1989__ci09": [
       "minutes:ga17_1989"
     ],
-    "inquiry:ga17_1989:17-82:7": [
-      "minutes:ga17_1989"
-    ],
-    "inquiry:ga17_1989:17-82:8": [
-      "minutes:ga17_1989"
-    ],
-    "inquiry:ga17_1989:2": [
-      "minutes:ga17_1989"
-    ],
-    "inquiry:ga17_1989:3": [
-      "minutes:ga17_1989"
-    ],
-    "inquiry:ga17_1989:4": [
-      "minutes:ga17_1989"
-    ],
-    "inquiry:ga17_1989:5": [
-      "minutes:ga17_1989"
-    ],
-    "inquiry:ga17_1989:6": [
-      "minutes:ga17_1989"
-    ],
-    "inquiry:ga17_1989:7": [
-      "minutes:ga17_1989"
-    ],
-    "inquiry:ga17_1989:8": [
-      "minutes:ga17_1989"
-    ],
-    "inquiry:ga18_1990:0": [
+    "inquiry:ga18_1990__ci01": [
       "minutes:ga18_1990"
     ],
-    "inquiry:ga18_1990:18-19:0": [
-      "minutes:ga18_1990"
-    ],
-    "inquiry:ga19_1991:0": [
+    "inquiry:ga19_1991__ci01": [
       "minutes:ga19_1991"
     ],
-    "inquiry:ga19_1991:1": [
+    "inquiry:ga19_1991__ci02": [
       "minutes:ga19_1991"
     ],
-    "inquiry:ga19_1991:19-48:0": [
+    "inquiry:ga19_1991__ci03": [
       "minutes:ga19_1991"
     ],
-    "inquiry:ga19_1991:19-48:1": [
-      "minutes:ga19_1991"
-    ],
-    "inquiry:ga19_1991:19-48:2": [
-      "minutes:ga19_1991"
-    ],
-    "inquiry:ga19_1991:2": [
-      "minutes:ga19_1991"
-    ],
-    "inquiry:ga20_1992:0": [
+    "inquiry:ga20_1992__ci01": [
       "minutes:ga20_1992"
     ],
-    "inquiry:ga20_1992:1": [
+    "inquiry:ga20_1992__ci02": [
       "minutes:ga20_1992"
     ],
-    "inquiry:ga20_1992:2": [
+    "inquiry:ga20_1992__ci03": [
       "minutes:ga20_1992"
     ],
-    "inquiry:ga20_1992:20-62:0": [
+    "inquiry:ga20_1992__ci03-02": [
       "minutes:ga20_1992"
     ],
-    "inquiry:ga20_1992:20-67:1": [
+    "inquiry:ga20_1992__ci04": [
       "minutes:ga20_1992"
     ],
-    "inquiry:ga20_1992:20-67:2": [
-      "minutes:ga20_1992"
-    ],
-    "inquiry:ga20_1992:20-67:3": [
-      "minutes:ga20_1992"
-    ],
-    "inquiry:ga20_1992:20-75:4": [
-      "minutes:ga20_1992"
-    ],
-    "inquiry:ga20_1992:3": [
-      "minutes:ga20_1992"
-    ],
-    "inquiry:ga20_1992:4": [
-      "minutes:ga20_1992"
-    ],
-    "inquiry:ga21_1993:0": [
+    "inquiry:ga21_1993__ci01": [
       "minutes:ga21_1993"
     ],
-    "inquiry:ga21_1993:21-56:0": [
-      "minutes:ga21_1993"
-    ],
-    "inquiry:ga22_1994:0": [
+    "inquiry:ga22_1994__ci01": [
       "minutes:ga22_1994"
     ],
-    "inquiry:ga22_1994:1": [
+    "inquiry:ga22_1994__ci02": [
       "minutes:ga22_1994"
     ],
-    "inquiry:ga22_1994:2": [
+    "inquiry:ga22_1994__ci03": [
       "minutes:ga22_1994"
     ],
-    "inquiry:ga22_1994:22-13:0": [
+    "inquiry:ga22_1994__ci04": [
       "minutes:ga22_1994"
     ],
-    "inquiry:ga22_1994:22-13:1": [
-      "minutes:ga22_1994"
-    ],
-    "inquiry:ga22_1994:22-13:2": [
-      "minutes:ga22_1994"
-    ],
-    "inquiry:ga22_1994:22-13:3": [
-      "minutes:ga22_1994"
-    ],
-    "inquiry:ga22_1994:3": [
-      "minutes:ga22_1994"
-    ],
-    "inquiry:ga23_1995:0": [
+    "inquiry:ga23_1995__ci01": [
       "minutes:ga23_1995"
     ],
-    "inquiry:ga23_1995:1": [
+    "inquiry:ga23_1995__ci02": [
       "minutes:ga23_1995"
     ],
-    "inquiry:ga23_1995:2": [
+    "inquiry:ga23_1995__ci03": [
       "minutes:ga23_1995"
     ],
-    "inquiry:ga23_1995:23-15:1": [
-      "minutes:ga23_1995"
-    ],
-    "inquiry:ga23_1995:23-15:2": [
-      "minutes:ga23_1995"
-    ],
-    "inquiry:ga23_1995:23-43:0": [
-      "minutes:ga23_1995"
-    ],
-    "inquiry:ga24_1996:0": [
+    "inquiry:ga24_1996__ci01": [
       "minutes:ga24_1996"
     ],
-    "inquiry:ga24_1996:1": [
+    "inquiry:ga24_1996__ci02": [
       "minutes:ga24_1996"
     ],
-    "inquiry:ga24_1996:2": [
+    "inquiry:ga24_1996__ci03": [
       "minutes:ga24_1996"
     ],
-    "inquiry:ga24_1996:24-23:0": [
-      "minutes:ga24_1996"
-    ],
-    "inquiry:ga24_1996:24-23:1": [
-      "minutes:ga24_1996"
-    ],
-    "inquiry:ga24_1996:24-23:2": [
-      "minutes:ga24_1996"
-    ],
-    "inquiry:ga25_1997:0": [
+    "inquiry:ga25_1997__ci01": [
       "minutes:ga25_1997"
     ],
-    "inquiry:ga25_1997:1": [
+    "inquiry:ga25_1997__ci02": [
       "minutes:ga25_1997"
     ],
-    "inquiry:ga25_1997:2": [
+    "inquiry:ga25_1997__ci03": [
       "minutes:ga25_1997"
     ],
-    "inquiry:ga25_1997:25-17:0": [
+    "inquiry:ga25_1997__ci03-02": [
       "minutes:ga25_1997"
     ],
-    "inquiry:ga25_1997:25-22:1": [
+    "inquiry:ga25_1997__ci04": [
       "minutes:ga25_1997"
     ],
-    "inquiry:ga25_1997:25-22:2": [
+    "inquiry:ga25_1997__ci05": [
       "minutes:ga25_1997"
     ],
-    "inquiry:ga25_1997:25-22:3": [
+    "inquiry:ga25_1997__ci06": [
       "minutes:ga25_1997"
     ],
-    "inquiry:ga25_1997:25-22:4": [
-      "minutes:ga25_1997"
-    ],
-    "inquiry:ga25_1997:25-22:5": [
-      "minutes:ga25_1997"
-    ],
-    "inquiry:ga25_1997:25-22:6": [
-      "minutes:ga25_1997"
-    ],
-    "inquiry:ga25_1997:3": [
-      "minutes:ga25_1997"
-    ],
-    "inquiry:ga25_1997:4": [
-      "minutes:ga25_1997"
-    ],
-    "inquiry:ga25_1997:5": [
-      "minutes:ga25_1997"
-    ],
-    "inquiry:ga25_1997:6": [
-      "minutes:ga25_1997"
-    ],
-    "inquiry:ga26_1998:0": [
+    "inquiry:ga26_1998__ci01": [
       "minutes:ga26_1998"
     ],
-    "inquiry:ga26_1998:1": [
+    "inquiry:ga26_1998__ci02": [
       "minutes:ga26_1998"
     ],
-    "inquiry:ga26_1998:2": [
+    "inquiry:ga26_1998__ci03": [
       "minutes:ga26_1998"
     ],
-    "inquiry:ga26_1998:26-68:0": [
-      "minutes:ga26_1998"
-    ],
-    "inquiry:ga26_1998:26-68:1": [
-      "minutes:ga26_1998"
-    ],
-    "inquiry:ga26_1998:26-68:2": [
-      "minutes:ga26_1998"
-    ],
-    "inquiry:ga27_1999:0": [
+    "inquiry:ga27_1999__ci01": [
       "minutes:ga27_1999"
     ],
-    "inquiry:ga27_1999:1": [
+    "inquiry:ga27_1999__ci02": [
       "minutes:ga27_1999"
     ],
-    "inquiry:ga27_1999:2": [
+    "inquiry:ga27_1999__ci03": [
       "minutes:ga27_1999"
     ],
-    "inquiry:ga27_1999:27-43:0": [
+    "inquiry:ga27_1999__ci03-02": [
       "minutes:ga27_1999"
     ],
-    "inquiry:ga27_1999:27-43:1": [
+    "inquiry:ga27_1999__ci04": [
       "minutes:ga27_1999"
     ],
-    "inquiry:ga27_1999:27-43:2": [
+    "inquiry:ga27_1999__ci05": [
       "minutes:ga27_1999"
     ],
-    "inquiry:ga27_1999:27-43:3": [
+    "inquiry:ga27_1999__ci06": [
       "minutes:ga27_1999"
     ],
-    "inquiry:ga27_1999:27-43:4": [
-      "minutes:ga27_1999"
-    ],
-    "inquiry:ga27_1999:27-43:5": [
-      "minutes:ga27_1999"
-    ],
-    "inquiry:ga27_1999:27-43:6": [
-      "minutes:ga27_1999"
-    ],
-    "inquiry:ga27_1999:3": [
-      "minutes:ga27_1999"
-    ],
-    "inquiry:ga27_1999:4": [
-      "minutes:ga27_1999"
-    ],
-    "inquiry:ga27_1999:5": [
-      "minutes:ga27_1999"
-    ],
-    "inquiry:ga27_1999:6": [
-      "minutes:ga27_1999"
-    ],
-    "inquiry:ga28_2000:0": [
+    "inquiry:ga28_2000__ci01": [
       "minutes:ga28_2000"
     ],
-    "inquiry:ga28_2000:1": [
+    "inquiry:ga28_2000__ci02": [
       "minutes:ga28_2000"
     ],
-    "inquiry:ga28_2000:2": [
+    "inquiry:ga28_2000__ci03": [
       "minutes:ga28_2000"
     ],
-    "inquiry:ga28_2000:28-19:0": [
+    "inquiry:ga28_2000__ci03-02": [
       "minutes:ga28_2000"
     ],
-    "inquiry:ga28_2000:28-19:1": [
+    "inquiry:ga28_2000__ci04": [
       "minutes:ga28_2000"
     ],
-    "inquiry:ga28_2000:28-19:2": [
+    "inquiry:ga28_2000__ci05": [
       "minutes:ga28_2000"
     ],
-    "inquiry:ga28_2000:28-19:3": [
+    "inquiry:ga28_2000__ci06": [
       "minutes:ga28_2000"
     ],
-    "inquiry:ga28_2000:28-19:4": [
+    "inquiry:ga28_2000__ci07": [
       "minutes:ga28_2000"
     ],
-    "inquiry:ga28_2000:28-19:5": [
-      "minutes:ga28_2000"
-    ],
-    "inquiry:ga28_2000:28-19:6": [
-      "minutes:ga28_2000"
-    ],
-    "inquiry:ga28_2000:28-19:7": [
-      "minutes:ga28_2000"
-    ],
-    "inquiry:ga28_2000:3": [
-      "minutes:ga28_2000"
-    ],
-    "inquiry:ga28_2000:4": [
-      "minutes:ga28_2000"
-    ],
-    "inquiry:ga28_2000:5": [
-      "minutes:ga28_2000"
-    ],
-    "inquiry:ga28_2000:6": [
-      "minutes:ga28_2000"
-    ],
-    "inquiry:ga28_2000:7": [
-      "minutes:ga28_2000"
-    ],
-    "inquiry:ga29_2001:0": [
+    "inquiry:ga29_2001__ci01": [
       "minutes:ga29_2001"
     ],
-    "inquiry:ga29_2001:1": [
+    "inquiry:ga29_2001__ci02": [
       "minutes:ga29_2001"
     ],
-    "inquiry:ga29_2001:10": [
+    "inquiry:ga29_2001__ci03": [
       "minutes:ga29_2001"
     ],
-    "inquiry:ga29_2001:11": [
+    "inquiry:ga29_2001__ci04": [
       "minutes:ga29_2001"
     ],
-    "inquiry:ga29_2001:12": [
+    "inquiry:ga29_2001__ci05": [
       "minutes:ga29_2001"
     ],
-    "inquiry:ga29_2001:2": [
+    "inquiry:ga29_2001__ci06": [
       "minutes:ga29_2001"
     ],
-    "inquiry:ga29_2001:29-28:0": [
+    "inquiry:ga29_2001__ci07": [
       "minutes:ga29_2001"
     ],
-    "inquiry:ga29_2001:29-28:1": [
+    "inquiry:ga29_2001__ci08": [
       "minutes:ga29_2001"
     ],
-    "inquiry:ga29_2001:29-28:10": [
+    "inquiry:ga29_2001__ci09": [
       "minutes:ga29_2001"
     ],
-    "inquiry:ga29_2001:29-28:11": [
+    "inquiry:ga29_2001__ci10": [
       "minutes:ga29_2001"
     ],
-    "inquiry:ga29_2001:29-28:12": [
+    "inquiry:ga29_2001__ci11": [
       "minutes:ga29_2001"
     ],
-    "inquiry:ga29_2001:29-28:2": [
+    "inquiry:ga29_2001__ci12": [
       "minutes:ga29_2001"
     ],
-    "inquiry:ga29_2001:29-28:3": [
+    "inquiry:ga29_2001__ci12-02": [
       "minutes:ga29_2001"
     ],
-    "inquiry:ga29_2001:29-28:4": [
-      "minutes:ga29_2001"
-    ],
-    "inquiry:ga29_2001:29-28:5": [
-      "minutes:ga29_2001"
-    ],
-    "inquiry:ga29_2001:29-28:6": [
-      "minutes:ga29_2001"
-    ],
-    "inquiry:ga29_2001:29-28:7": [
-      "minutes:ga29_2001"
-    ],
-    "inquiry:ga29_2001:29-28:8": [
-      "minutes:ga29_2001"
-    ],
-    "inquiry:ga29_2001:29-28:9": [
-      "minutes:ga29_2001"
-    ],
-    "inquiry:ga29_2001:3": [
-      "minutes:ga29_2001"
-    ],
-    "inquiry:ga29_2001:4": [
-      "minutes:ga29_2001"
-    ],
-    "inquiry:ga29_2001:5": [
-      "minutes:ga29_2001"
-    ],
-    "inquiry:ga29_2001:6": [
-      "minutes:ga29_2001"
-    ],
-    "inquiry:ga29_2001:7": [
-      "minutes:ga29_2001"
-    ],
-    "inquiry:ga29_2001:8": [
-      "minutes:ga29_2001"
-    ],
-    "inquiry:ga29_2001:9": [
-      "minutes:ga29_2001"
-    ],
-    "inquiry:ga30_2002:0": [
+    "inquiry:ga30_2002__ci01": [
       "minutes:ga30_2002"
     ],
-    "inquiry:ga30_2002:1": [
+    "inquiry:ga30_2002__ci02": [
       "minutes:ga30_2002"
     ],
-    "inquiry:ga30_2002:2": [
+    "inquiry:ga30_2002__ci03": [
       "minutes:ga30_2002"
     ],
-    "inquiry:ga30_2002:3": [
+    "inquiry:ga30_2002__ci04": [
       "minutes:ga30_2002"
     ],
-    "inquiry:ga30_2002:30-29:0": [
+    "inquiry:ga30_2002__ci05": [
       "minutes:ga30_2002"
     ],
-    "inquiry:ga30_2002:30-29:1": [
+    "inquiry:ga30_2002__ci06": [
       "minutes:ga30_2002"
     ],
-    "inquiry:ga30_2002:30-29:2": [
+    "inquiry:ga30_2002__ci07": [
       "minutes:ga30_2002"
     ],
-    "inquiry:ga30_2002:30-29:3": [
+    "inquiry:ga30_2002__ci08": [
       "minutes:ga30_2002"
     ],
-    "inquiry:ga30_2002:30-29:4": [
-      "minutes:ga30_2002"
-    ],
-    "inquiry:ga30_2002:30-29:5": [
-      "minutes:ga30_2002"
-    ],
-    "inquiry:ga30_2002:30-29:6": [
-      "minutes:ga30_2002"
-    ],
-    "inquiry:ga30_2002:30-29:7": [
-      "minutes:ga30_2002"
-    ],
-    "inquiry:ga30_2002:4": [
-      "minutes:ga30_2002"
-    ],
-    "inquiry:ga30_2002:5": [
-      "minutes:ga30_2002"
-    ],
-    "inquiry:ga30_2002:6": [
-      "minutes:ga30_2002"
-    ],
-    "inquiry:ga30_2002:7": [
-      "minutes:ga30_2002"
-    ],
-    "inquiry:ga31_2003:0": [
+    "inquiry:ga31_2003__ci01": [
       "minutes:ga31_2003"
     ],
-    "inquiry:ga31_2003:1": [
+    "inquiry:ga31_2003__ci02": [
       "minutes:ga31_2003"
     ],
-    "inquiry:ga31_2003:10": [
+    "inquiry:ga31_2003__ci03": [
       "minutes:ga31_2003"
     ],
-    "inquiry:ga31_2003:11": [
+    "inquiry:ga31_2003__ci03-02": [
       "minutes:ga31_2003"
     ],
-    "inquiry:ga31_2003:12": [
+    "inquiry:ga31_2003__ci04": [
       "minutes:ga31_2003"
     ],
-    "inquiry:ga31_2003:13": [
+    "inquiry:ga31_2003__ci05": [
       "minutes:ga31_2003"
     ],
-    "inquiry:ga31_2003:14": [
+    "inquiry:ga31_2003__ci06": [
       "minutes:ga31_2003"
     ],
-    "inquiry:ga31_2003:15": [
+    "inquiry:ga31_2003__ci07": [
       "minutes:ga31_2003"
     ],
-    "inquiry:ga31_2003:2": [
+    "inquiry:ga31_2003__ci08": [
       "minutes:ga31_2003"
     ],
-    "inquiry:ga31_2003:3": [
+    "inquiry:ga31_2003__ci08-02": [
       "minutes:ga31_2003"
     ],
-    "inquiry:ga31_2003:31-18:12": [
+    "inquiry:ga31_2003__ci09": [
       "minutes:ga31_2003"
     ],
-    "inquiry:ga31_2003:31-18:2": [
+    "inquiry:ga31_2003__ci10": [
       "minutes:ga31_2003"
     ],
-    "inquiry:ga31_2003:31-56:0": [
+    "inquiry:ga31_2003__ci11": [
       "minutes:ga31_2003"
     ],
-    "inquiry:ga31_2003:31-56:1": [
+    "inquiry:ga31_2003__ci11-02": [
       "minutes:ga31_2003"
     ],
-    "inquiry:ga31_2003:31-56:10": [
+    "inquiry:ga31_2003__ci12": [
       "minutes:ga31_2003"
     ],
-    "inquiry:ga31_2003:31-56:11": [
+    "inquiry:ga31_2003__ci13": [
       "minutes:ga31_2003"
     ],
-    "inquiry:ga31_2003:31-56:13": [
-      "minutes:ga31_2003"
-    ],
-    "inquiry:ga31_2003:31-56:14": [
-      "minutes:ga31_2003"
-    ],
-    "inquiry:ga31_2003:31-56:15": [
-      "minutes:ga31_2003"
-    ],
-    "inquiry:ga31_2003:31-56:3": [
-      "minutes:ga31_2003"
-    ],
-    "inquiry:ga31_2003:31-56:4": [
-      "minutes:ga31_2003"
-    ],
-    "inquiry:ga31_2003:31-56:5": [
-      "minutes:ga31_2003"
-    ],
-    "inquiry:ga31_2003:31-56:6": [
-      "minutes:ga31_2003"
-    ],
-    "inquiry:ga31_2003:31-56:7": [
-      "minutes:ga31_2003"
-    ],
-    "inquiry:ga31_2003:31-56:8": [
-      "minutes:ga31_2003"
-    ],
-    "inquiry:ga31_2003:31-56:9": [
-      "minutes:ga31_2003"
-    ],
-    "inquiry:ga31_2003:4": [
-      "minutes:ga31_2003"
-    ],
-    "inquiry:ga31_2003:5": [
-      "minutes:ga31_2003"
-    ],
-    "inquiry:ga31_2003:6": [
-      "minutes:ga31_2003"
-    ],
-    "inquiry:ga31_2003:7": [
-      "minutes:ga31_2003"
-    ],
-    "inquiry:ga31_2003:8": [
-      "minutes:ga31_2003"
-    ],
-    "inquiry:ga31_2003:9": [
-      "minutes:ga31_2003"
-    ],
-    "inquiry:ga32_2004:0": [
+    "inquiry:ga32_2004__ci01": [
       "minutes:ga32_2004"
     ],
-    "inquiry:ga32_2004:1": [
+    "inquiry:ga32_2004__ci02": [
       "minutes:ga32_2004"
     ],
-    "inquiry:ga32_2004:2": [
+    "inquiry:ga32_2004__ci03": [
       "minutes:ga32_2004"
     ],
-    "inquiry:ga32_2004:3": [
+    "inquiry:ga32_2004__ci03-02": [
       "minutes:ga32_2004"
     ],
-    "inquiry:ga32_2004:32-36:0": [
+    "inquiry:ga32_2004__ci04": [
       "minutes:ga32_2004"
     ],
-    "inquiry:ga32_2004:32-36:3": [
+    "inquiry:ga32_2004__ci04-02": [
       "minutes:ga32_2004"
     ],
-    "inquiry:ga32_2004:32-36:4": [
+    "inquiry:ga32_2004__ci05": [
       "minutes:ga32_2004"
     ],
-    "inquiry:ga32_2004:32-36:6": [
+    "inquiry:ga32_2004__ci06": [
       "minutes:ga32_2004"
     ],
-    "inquiry:ga32_2004:32-36:7": [
-      "minutes:ga32_2004"
-    ],
-    "inquiry:ga32_2004:32-40:1": [
-      "minutes:ga32_2004"
-    ],
-    "inquiry:ga32_2004:32-40:5": [
-      "minutes:ga32_2004"
-    ],
-    "inquiry:ga32_2004:32-54:2": [
-      "minutes:ga32_2004"
-    ],
-    "inquiry:ga32_2004:4": [
-      "minutes:ga32_2004"
-    ],
-    "inquiry:ga32_2004:5": [
-      "minutes:ga32_2004"
-    ],
-    "inquiry:ga32_2004:6": [
-      "minutes:ga32_2004"
-    ],
-    "inquiry:ga32_2004:7": [
-      "minutes:ga32_2004"
-    ],
-    "inquiry:ga33_2005:0": [
+    "inquiry:ga33_2005__ci01": [
       "minutes:ga33_2005"
     ],
-    "inquiry:ga33_2005:1": [
+    "inquiry:ga33_2005__ci02": [
       "minutes:ga33_2005"
     ],
-    "inquiry:ga33_2005:2": [
+    "inquiry:ga33_2005__ci03": [
       "minutes:ga33_2005"
     ],
-    "inquiry:ga33_2005:3": [
+    "inquiry:ga33_2005__ci04": [
       "minutes:ga33_2005"
     ],
-    "inquiry:ga33_2005:33-29:0": [
+    "inquiry:ga33_2005__ci05": [
       "minutes:ga33_2005"
     ],
-    "inquiry:ga33_2005:33-29:1": [
-      "minutes:ga33_2005"
-    ],
-    "inquiry:ga33_2005:33-29:2": [
-      "minutes:ga33_2005"
-    ],
-    "inquiry:ga33_2005:33-29:3": [
-      "minutes:ga33_2005"
-    ],
-    "inquiry:ga33_2005:33-29:4": [
-      "minutes:ga33_2005"
-    ],
-    "inquiry:ga33_2005:4": [
-      "minutes:ga33_2005"
-    ],
-    "inquiry:ga34_2006:0": [
+    "inquiry:ga34_2006__ci01": [
       "minutes:ga34_2006"
     ],
-    "inquiry:ga34_2006:1": [
+    "inquiry:ga34_2006__ci01-02": [
       "minutes:ga34_2006"
     ],
-    "inquiry:ga34_2006:2": [
+    "inquiry:ga34_2006__ci02": [
       "minutes:ga34_2006"
     ],
-    "inquiry:ga34_2006:3": [
+    "inquiry:ga34_2006__ci03": [
       "minutes:ga34_2006"
     ],
-    "inquiry:ga34_2006:34-34:0": [
+    "inquiry:ga34_2006__ci04": [
       "minutes:ga34_2006"
     ],
-    "inquiry:ga34_2006:34-34:1": [
+    "inquiry:ga34_2006__ci05": [
       "minutes:ga34_2006"
     ],
-    "inquiry:ga34_2006:34-34:2": [
+    "inquiry:ga34_2006__ci06": [
       "minutes:ga34_2006"
     ],
-    "inquiry:ga34_2006:34-34:3": [
+    "inquiry:ga34_2006__ci07": [
       "minutes:ga34_2006"
     ],
-    "inquiry:ga34_2006:34-34:4": [
-      "minutes:ga34_2006"
-    ],
-    "inquiry:ga34_2006:34-34:5": [
-      "minutes:ga34_2006"
-    ],
-    "inquiry:ga34_2006:34-34:7": [
-      "minutes:ga34_2006"
-    ],
-    "inquiry:ga34_2006:34-35:6": [
-      "minutes:ga34_2006"
-    ],
-    "inquiry:ga34_2006:4": [
-      "minutes:ga34_2006"
-    ],
-    "inquiry:ga34_2006:5": [
-      "minutes:ga34_2006"
-    ],
-    "inquiry:ga34_2006:6": [
-      "minutes:ga34_2006"
-    ],
-    "inquiry:ga34_2006:7": [
-      "minutes:ga34_2006"
-    ],
-    "inquiry:ga35_2007:0": [
+    "inquiry:ga35_2007__ci01": [
       "minutes:ga35_2007"
     ],
-    "inquiry:ga35_2007:1": [
+    "inquiry:ga35_2007__ci02": [
       "minutes:ga35_2007"
     ],
-    "inquiry:ga35_2007:2": [
+    "inquiry:ga35_2007__ci03": [
       "minutes:ga35_2007"
     ],
-    "inquiry:ga35_2007:3": [
+    "inquiry:ga35_2007__ci04": [
       "minutes:ga35_2007"
     ],
-    "inquiry:ga35_2007:35-30:0": [
+    "inquiry:ga35_2007__ci05": [
       "minutes:ga35_2007"
     ],
-    "inquiry:ga35_2007:35-30:1": [
+    "inquiry:ga35_2007__ci06": [
       "minutes:ga35_2007"
     ],
-    "inquiry:ga35_2007:35-30:2": [
-      "minutes:ga35_2007"
-    ],
-    "inquiry:ga35_2007:35-30:3": [
-      "minutes:ga35_2007"
-    ],
-    "inquiry:ga35_2007:35-30:4": [
-      "minutes:ga35_2007"
-    ],
-    "inquiry:ga35_2007:35-30:5": [
-      "minutes:ga35_2007"
-    ],
-    "inquiry:ga35_2007:4": [
-      "minutes:ga35_2007"
-    ],
-    "inquiry:ga35_2007:5": [
-      "minutes:ga35_2007"
-    ],
-    "inquiry:ga36_2008:0": [
+    "inquiry:ga36_2008__ci01": [
       "minutes:ga36_2008"
     ],
-    "inquiry:ga36_2008:1": [
+    "inquiry:ga36_2008__ci02": [
       "minutes:ga36_2008"
     ],
-    "inquiry:ga36_2008:2": [
+    "inquiry:ga36_2008__ci03": [
       "minutes:ga36_2008"
     ],
-    "inquiry:ga36_2008:3": [
+    "inquiry:ga36_2008__ci04": [
       "minutes:ga36_2008"
     ],
-    "inquiry:ga36_2008:36-30:0": [
+    "inquiry:ga36_2008__ci05": [
       "minutes:ga36_2008"
     ],
-    "inquiry:ga36_2008:36-30:1": [
+    "inquiry:ga36_2008__ci05-02": [
       "minutes:ga36_2008"
     ],
-    "inquiry:ga36_2008:36-30:2": [
+    "inquiry:ga36_2008__ci06": [
       "minutes:ga36_2008"
     ],
-    "inquiry:ga36_2008:36-30:3": [
-      "minutes:ga36_2008"
-    ],
-    "inquiry:ga36_2008:36-30:4": [
-      "minutes:ga36_2008"
-    ],
-    "inquiry:ga36_2008:36-30:5": [
-      "minutes:ga36_2008"
-    ],
-    "inquiry:ga36_2008:36-30:6": [
-      "minutes:ga36_2008"
-    ],
-    "inquiry:ga36_2008:4": [
-      "minutes:ga36_2008"
-    ],
-    "inquiry:ga36_2008:5": [
-      "minutes:ga36_2008"
-    ],
-    "inquiry:ga36_2008:6": [
-      "minutes:ga36_2008"
-    ],
-    "inquiry:ga37_2009:0": [
+    "inquiry:ga37_2009__ci01": [
       "minutes:ga37_2009"
     ],
-    "inquiry:ga37_2009:1": [
+    "inquiry:ga37_2009__ci02": [
       "minutes:ga37_2009"
     ],
-    "inquiry:ga37_2009:2": [
+    "inquiry:ga37_2009__ci03": [
       "minutes:ga37_2009"
     ],
-    "inquiry:ga37_2009:3": [
+    "inquiry:ga37_2009__ci04": [
       "minutes:ga37_2009"
     ],
-    "inquiry:ga37_2009:37-29:0": [
+    "inquiry:ga37_2009__ci05": [
       "minutes:ga37_2009"
     ],
-    "inquiry:ga37_2009:37-29:1": [
+    "inquiry:ga37_2009__ci06": [
       "minutes:ga37_2009"
     ],
-    "inquiry:ga37_2009:37-29:2": [
-      "minutes:ga37_2009"
-    ],
-    "inquiry:ga37_2009:37-29:3": [
-      "minutes:ga37_2009"
-    ],
-    "inquiry:ga37_2009:37-29:4": [
-      "minutes:ga37_2009"
-    ],
-    "inquiry:ga37_2009:37-29:5": [
-      "minutes:ga37_2009"
-    ],
-    "inquiry:ga37_2009:4": [
-      "minutes:ga37_2009"
-    ],
-    "inquiry:ga37_2009:5": [
-      "minutes:ga37_2009"
-    ],
-    "inquiry:ga38_2010:0": [
+    "inquiry:ga38_2010__ci01": [
       "minutes:ga38_2010"
     ],
-    "inquiry:ga38_2010:1": [
+    "inquiry:ga38_2010__ci02": [
       "minutes:ga38_2010"
     ],
-    "inquiry:ga38_2010:2": [
+    "inquiry:ga38_2010__ci03": [
       "minutes:ga38_2010"
     ],
-    "inquiry:ga38_2010:3": [
+    "inquiry:ga38_2010__ci04": [
       "minutes:ga38_2010"
     ],
-    "inquiry:ga38_2010:38-18:4": [
+    "inquiry:ga38_2010__ci05": [
       "minutes:ga38_2010"
     ],
-    "inquiry:ga38_2010:38-34:0": [
-      "minutes:ga38_2010"
-    ],
-    "inquiry:ga38_2010:38-34:1": [
-      "minutes:ga38_2010"
-    ],
-    "inquiry:ga38_2010:38-34:2": [
-      "minutes:ga38_2010"
-    ],
-    "inquiry:ga38_2010:38-34:3": [
-      "minutes:ga38_2010"
-    ],
-    "inquiry:ga38_2010:4": [
-      "minutes:ga38_2010"
-    ],
-    "inquiry:ga39_2011:0": [
+    "inquiry:ga39_2011__ci01": [
       "minutes:ga39_2011"
     ],
-    "inquiry:ga39_2011:1": [
+    "inquiry:ga39_2011__ci02": [
       "minutes:ga39_2011"
     ],
-    "inquiry:ga39_2011:App. O, section II.E:0": [
-      "minutes:ga39_2011"
-    ],
-    "inquiry:ga39_2011:App. O, section V:1": [
-      "minutes:ga39_2011"
-    ],
-    "inquiry:ga40_2012:0": [
+    "inquiry:ga40_2012__ci01": [
       "minutes:ga40_2012"
     ],
-    "inquiry:ga40_2012:1": [
+    "inquiry:ga40_2012__ci02": [
       "minutes:ga40_2012"
     ],
-    "inquiry:ga40_2012:2": [
+    "inquiry:ga40_2012__ci03": [
       "minutes:ga40_2012"
     ],
-    "inquiry:ga40_2012:3": [
+    "inquiry:ga40_2012__ci04": [
       "minutes:ga40_2012"
     ],
-    "inquiry:ga40_2012:App. O, section II.K:2": [
-      "minutes:ga40_2012"
-    ],
-    "inquiry:ga40_2012:App. O, section II.S:3": [
-      "minutes:ga40_2012"
-    ],
-    "inquiry:ga40_2012:App. O, section II.T:1": [
-      "minutes:ga40_2012"
-    ],
-    "inquiry:ga40_2012:App. O, section IV:0": [
-      "minutes:ga40_2012"
-    ],
-    "inquiry:ga41_2013:0": [
+    "inquiry:ga41_2013__ci01": [
       "minutes:ga41_2013"
     ],
-    "inquiry:ga41_2013:1": [
+    "inquiry:ga41_2013__ci02": [
       "minutes:ga41_2013"
     ],
-    "inquiry:ga41_2013:2": [
+    "inquiry:ga41_2013__ci03": [
       "minutes:ga41_2013"
     ],
-    "inquiry:ga41_2013:3": [
+    "inquiry:ga41_2013__ci04": [
       "minutes:ga41_2013"
     ],
-    "inquiry:ga41_2013:App. O, section II.D:0": [
-      "minutes:ga41_2013"
-    ],
-    "inquiry:ga41_2013:App. O, section II.E:1": [
-      "minutes:ga41_2013"
-    ],
-    "inquiry:ga41_2013:App. O, section II.F:2": [
-      "minutes:ga41_2013"
-    ],
-    "inquiry:ga41_2013:App. O, section IV:3": [
-      "minutes:ga41_2013"
-    ],
-    "inquiry:ga42_2014:0": [
+    "inquiry:ga42_2014__ci01": [
       "minutes:ga42_2014"
     ],
-    "inquiry:ga42_2014:1": [
+    "inquiry:ga42_2014__ci02": [
       "minutes:ga42_2014"
     ],
-    "inquiry:ga42_2014:2": [
+    "inquiry:ga42_2014__ci02-02": [
       "minutes:ga42_2014"
     ],
-    "inquiry:ga42_2014:3": [
+    "inquiry:ga42_2014__ci03": [
       "minutes:ga42_2014"
     ],
-    "inquiry:ga42_2014:4": [
+    "inquiry:ga42_2014__ci04": [
       "minutes:ga42_2014"
     ],
-    "inquiry:ga42_2014:5": [
+    "inquiry:ga42_2014__ci05": [
       "minutes:ga42_2014"
     ],
-    "inquiry:ga42_2014:App. O, section II.F:5": [
-      "minutes:ga42_2014"
-    ],
-    "inquiry:ga42_2014:App. O, section II.H:2": [
-      "minutes:ga42_2014"
-    ],
-    "inquiry:ga42_2014:App. O, section II.H:4": [
-      "minutes:ga42_2014"
-    ],
-    "inquiry:ga42_2014:App. O, section III (Supplemental Report):0": [
-      "minutes:ga42_2014"
-    ],
-    "inquiry:ga42_2014:App. O, section IV.A:1": [
-      "minutes:ga42_2014"
-    ],
-    "inquiry:ga42_2014:App. O, section IV.B:3": [
-      "minutes:ga42_2014"
-    ],
-    "inquiry:ga43_2015:0": [
+    "inquiry:ga43_2015__ci01": [
       "minutes:ga43_2015"
     ],
-    "inquiry:ga43_2015:1": [
+    "inquiry:ga43_2015__ci02": [
       "minutes:ga43_2015"
     ],
-    "inquiry:ga43_2015:2": [
+    "inquiry:ga43_2015__ci03": [
       "minutes:ga43_2015"
     ],
-    "inquiry:ga43_2015:3": [
+    "inquiry:ga43_2015__ci04": [
       "minutes:ga43_2015"
     ],
-    "inquiry:ga43_2015:App. O, section II.D:3": [
-      "minutes:ga43_2015"
-    ],
-    "inquiry:ga43_2015:App. O, section II.E:2": [
-      "minutes:ga43_2015"
-    ],
-    "inquiry:ga43_2015:App. O, section IV.A:0": [
-      "minutes:ga43_2015"
-    ],
-    "inquiry:ga43_2015:App. O, section IV.B:1": [
-      "minutes:ga43_2015"
-    ],
-    "inquiry:ga44_2016:0": [
+    "inquiry:ga44_2016__ci01": [
       "minutes:ga44_2016"
     ],
-    "inquiry:ga44_2016:1": [
+    "inquiry:ga44_2016__ci02": [
       "minutes:ga44_2016"
     ],
-    "inquiry:ga44_2016:2": [
+    "inquiry:ga44_2016__ci03": [
       "minutes:ga44_2016"
     ],
-    "inquiry:ga44_2016:3": [
+    "inquiry:ga44_2016__ci04": [
       "minutes:ga44_2016"
     ],
-    "inquiry:ga44_2016:4": [
+    "inquiry:ga44_2016__ci05": [
       "minutes:ga44_2016"
     ],
-    "inquiry:ga44_2016:5": [
+    "inquiry:ga44_2016__ci06": [
       "minutes:ga44_2016"
     ],
-    "inquiry:ga44_2016:App. O, section II.B:5": [
-      "minutes:ga44_2016"
-    ],
-    "inquiry:ga44_2016:App. O, section II.G:0": [
-      "minutes:ga44_2016"
-    ],
-    "inquiry:ga44_2016:App. O, section II.I:4": [
-      "minutes:ga44_2016"
-    ],
-    "inquiry:ga44_2016:App. O, section IV.A:3": [
-      "minutes:ga44_2016"
-    ],
-    "inquiry:ga44_2016:App. O, section IV.B:1": [
-      "minutes:ga44_2016"
-    ],
-    "inquiry:ga44_2016:App. O, section IV.C:2": [
-      "minutes:ga44_2016"
-    ],
-    "inquiry:ga45_2017:0": [
+    "inquiry:ga45_2017__ci01": [
       "minutes:ga45_2017"
     ],
-    "inquiry:ga45_2017:1": [
+    "inquiry:ga45_2017__ci02": [
       "minutes:ga45_2017"
     ],
-    "inquiry:ga45_2017:2": [
+    "inquiry:ga45_2017__ci03": [
       "minutes:ga45_2017"
     ],
-    "inquiry:ga45_2017:3": [
+    "inquiry:ga45_2017__ci04": [
       "minutes:ga45_2017"
     ],
-    "inquiry:ga45_2017:4": [
+    "inquiry:ga45_2017__ci04-02": [
       "minutes:ga45_2017"
     ],
-    "inquiry:ga45_2017:5": [
+    "inquiry:ga45_2017__ci05": [
       "minutes:ga45_2017"
     ],
-    "inquiry:ga45_2017:6": [
+    "inquiry:ga45_2017__ci05-02": [
       "minutes:ga45_2017"
     ],
-    "inquiry:ga45_2017:7": [
+    "inquiry:ga45_2017__ci06": [
       "minutes:ga45_2017"
     ],
-    "inquiry:ga45_2017:8": [
+    "inquiry:ga45_2017__ci07": [
       "minutes:ga45_2017"
     ],
-    "inquiry:ga45_2017:9": [
+    "inquiry:ga45_2017__ci08": [
       "minutes:ga45_2017"
     ],
-    "inquiry:ga45_2017:App. O, section I.B:4": [
-      "minutes:ga45_2017"
-    ],
-    "inquiry:ga45_2017:App. O, section II.A:7": [
-      "minutes:ga45_2017"
-    ],
-    "inquiry:ga45_2017:App. O, section II.B:6": [
-      "minutes:ga45_2017"
-    ],
-    "inquiry:ga45_2017:App. O, section II.G:5": [
-      "minutes:ga45_2017"
-    ],
-    "inquiry:ga45_2017:App. O, section II.H:1": [
-      "minutes:ga45_2017"
-    ],
-    "inquiry:ga45_2017:App. O, section II.H:9": [
-      "minutes:ga45_2017"
-    ],
-    "inquiry:ga45_2017:App. O, section II.N:2": [
-      "minutes:ga45_2017"
-    ],
-    "inquiry:ga45_2017:App. O, section II.N:8": [
-      "minutes:ga45_2017"
-    ],
-    "inquiry:ga45_2017:App. O, section IV.A:3": [
-      "minutes:ga45_2017"
-    ],
-    "inquiry:ga45_2017:App. O, section IV.B.2:0": [
-      "minutes:ga45_2017"
-    ],
-    "inquiry:ga46_2018:0": [
+    "inquiry:ga46_2018__ci01": [
       "minutes:ga46_2018"
     ],
-    "inquiry:ga46_2018:1": [
+    "inquiry:ga46_2018__ci02": [
       "minutes:ga46_2018"
     ],
-    "inquiry:ga46_2018:2": [
+    "inquiry:ga46_2018__ci03": [
       "minutes:ga46_2018"
     ],
-    "inquiry:ga46_2018:3": [
+    "inquiry:ga46_2018__ci04": [
       "minutes:ga46_2018"
     ],
-    "inquiry:ga46_2018:4": [
+    "inquiry:ga46_2018__ci05": [
       "minutes:ga46_2018"
     ],
-    "inquiry:ga46_2018:5": [
+    "inquiry:ga46_2018__ci06": [
       "minutes:ga46_2018"
     ],
-    "inquiry:ga46_2018:6": [
+    "inquiry:ga46_2018__ci07": [
       "minutes:ga46_2018"
     ],
-    "inquiry:ga46_2018:7": [
+    "inquiry:ga46_2018__ci08": [
       "minutes:ga46_2018"
     ],
-    "inquiry:ga46_2018:App. O, section II.B:4": [
-      "minutes:ga46_2018"
-    ],
-    "inquiry:ga46_2018:App. O, section II.E:6": [
-      "minutes:ga46_2018"
-    ],
-    "inquiry:ga46_2018:App. O, section II.F:7": [
-      "minutes:ga46_2018"
-    ],
-    "inquiry:ga46_2018:App. O, section II.H:0": [
-      "minutes:ga46_2018"
-    ],
-    "inquiry:ga46_2018:App. O, section II.I:1": [
-      "minutes:ga46_2018"
-    ],
-    "inquiry:ga46_2018:App. O, section II.O:2": [
-      "minutes:ga46_2018"
-    ],
-    "inquiry:ga46_2018:App. O, section II.P:3": [
-      "minutes:ga46_2018"
-    ],
-    "inquiry:ga46_2018:App. O, section II.S:5": [
-      "minutes:ga46_2018"
-    ],
-    "inquiry:ga47_2019:0": [
+    "inquiry:ga47_2019__ci01": [
       "minutes:ga47_2019"
     ],
-    "inquiry:ga47_2019:1": [
+    "inquiry:ga47_2019__ci02": [
       "minutes:ga47_2019"
     ],
-    "inquiry:ga47_2019:10": [
+    "inquiry:ga47_2019__ci03": [
       "minutes:ga47_2019"
     ],
-    "inquiry:ga47_2019:11": [
+    "inquiry:ga47_2019__ci04": [
       "minutes:ga47_2019"
     ],
-    "inquiry:ga47_2019:12": [
+    "inquiry:ga47_2019__ci05": [
       "minutes:ga47_2019"
     ],
-    "inquiry:ga47_2019:13": [
+    "inquiry:ga47_2019__ci06": [
       "minutes:ga47_2019"
     ],
-    "inquiry:ga47_2019:14": [
+    "inquiry:ga47_2019__ci07": [
       "minutes:ga47_2019"
     ],
-    "inquiry:ga47_2019:15": [
+    "inquiry:ga47_2019__ci08": [
       "minutes:ga47_2019"
     ],
-    "inquiry:ga47_2019:16": [
+    "inquiry:ga47_2019__ci09": [
       "minutes:ga47_2019"
     ],
-    "inquiry:ga47_2019:17": [
+    "inquiry:ga47_2019__ci10": [
       "minutes:ga47_2019"
     ],
-    "inquiry:ga47_2019:18": [
+    "inquiry:ga47_2019__ci11": [
       "minutes:ga47_2019"
     ],
-    "inquiry:ga47_2019:19": [
+    "inquiry:ga47_2019__ci12": [
       "minutes:ga47_2019"
     ],
-    "inquiry:ga47_2019:2": [
+    "inquiry:ga47_2019__ci13": [
       "minutes:ga47_2019"
     ],
-    "inquiry:ga47_2019:20": [
+    "inquiry:ga47_2019__ci14": [
       "minutes:ga47_2019"
     ],
-    "inquiry:ga47_2019:21": [
+    "inquiry:ga47_2019__ci15": [
       "minutes:ga47_2019"
     ],
-    "inquiry:ga47_2019:22": [
+    "inquiry:ga47_2019__ci16": [
       "minutes:ga47_2019"
     ],
-    "inquiry:ga47_2019:23": [
+    "inquiry:ga47_2019__ci17": [
       "minutes:ga47_2019"
     ],
-    "inquiry:ga47_2019:24": [
+    "inquiry:ga47_2019__ci18": [
       "minutes:ga47_2019"
     ],
-    "inquiry:ga47_2019:3": [
+    "inquiry:ga47_2019__ci19": [
       "minutes:ga47_2019"
     ],
-    "inquiry:ga47_2019:4": [
+    "inquiry:ga47_2019__ci20": [
       "minutes:ga47_2019"
     ],
-    "inquiry:ga47_2019:5": [
+    "inquiry:ga47_2019__ci21": [
       "minutes:ga47_2019"
     ],
-    "inquiry:ga47_2019:6": [
+    "inquiry:ga47_2019__ci22": [
       "minutes:ga47_2019"
     ],
-    "inquiry:ga47_2019:7": [
+    "inquiry:ga47_2019__ci23": [
       "minutes:ga47_2019"
     ],
-    "inquiry:ga47_2019:8": [
+    "inquiry:ga47_2019__ci24": [
       "minutes:ga47_2019"
     ],
-    "inquiry:ga47_2019:9": [
+    "inquiry:ga47_2019__ci25": [
       "minutes:ga47_2019"
     ],
-    "inquiry:ga47_2019:II.A:0": [
-      "minutes:ga47_2019"
-    ],
-    "inquiry:ga47_2019:II.B:1": [
-      "minutes:ga47_2019"
-    ],
-    "inquiry:ga47_2019:II.C:2": [
-      "minutes:ga47_2019"
-    ],
-    "inquiry:ga47_2019:II.D:3": [
-      "minutes:ga47_2019"
-    ],
-    "inquiry:ga47_2019:II.E:4": [
-      "minutes:ga47_2019"
-    ],
-    "inquiry:ga47_2019:II.F:5": [
-      "minutes:ga47_2019"
-    ],
-    "inquiry:ga47_2019:II.G:6": [
-      "minutes:ga47_2019"
-    ],
-    "inquiry:ga47_2019:II.H:7": [
-      "minutes:ga47_2019"
-    ],
-    "inquiry:ga47_2019:II.I:8": [
-      "minutes:ga47_2019"
-    ],
-    "inquiry:ga47_2019:II.J:9": [
-      "minutes:ga47_2019"
-    ],
-    "inquiry:ga47_2019:II.K:10": [
-      "minutes:ga47_2019"
-    ],
-    "inquiry:ga47_2019:II.L:11": [
-      "minutes:ga47_2019"
-    ],
-    "inquiry:ga47_2019:II.M:12": [
-      "minutes:ga47_2019"
-    ],
-    "inquiry:ga47_2019:II.N:13": [
-      "minutes:ga47_2019"
-    ],
-    "inquiry:ga47_2019:II.O:14": [
-      "minutes:ga47_2019"
-    ],
-    "inquiry:ga47_2019:II.P:15": [
-      "minutes:ga47_2019"
-    ],
-    "inquiry:ga47_2019:II.Q:16": [
-      "minutes:ga47_2019"
-    ],
-    "inquiry:ga47_2019:II.R:17": [
-      "minutes:ga47_2019"
-    ],
-    "inquiry:ga47_2019:II.S:18": [
-      "minutes:ga47_2019"
-    ],
-    "inquiry:ga47_2019:II.T:19": [
-      "minutes:ga47_2019"
-    ],
-    "inquiry:ga47_2019:II.U:20": [
-      "minutes:ga47_2019"
-    ],
-    "inquiry:ga47_2019:III.A:21": [
-      "minutes:ga47_2019"
-    ],
-    "inquiry:ga47_2019:III.B:22": [
-      "minutes:ga47_2019"
-    ],
-    "inquiry:ga47_2019:III.C:23": [
-      "minutes:ga47_2019"
-    ],
-    "inquiry:ga47_2019:V:24": [
-      "minutes:ga47_2019"
-    ],
-    "inquiry:ga48_2021:0": [
+    "inquiry:ga48_2021__ci01": [
       "minutes:ga48_2021"
     ],
-    "inquiry:ga48_2021:1": [
+    "inquiry:ga48_2021__ci02": [
       "minutes:ga48_2021"
     ],
-    "inquiry:ga48_2021:10": [
+    "inquiry:ga48_2021__ci03": [
       "minutes:ga48_2021"
     ],
-    "inquiry:ga48_2021:11": [
+    "inquiry:ga48_2021__ci04": [
       "minutes:ga48_2021"
     ],
-    "inquiry:ga48_2021:12": [
+    "inquiry:ga48_2021__ci05": [
       "minutes:ga48_2021"
     ],
-    "inquiry:ga48_2021:13": [
+    "inquiry:ga48_2021__ci06": [
       "minutes:ga48_2021"
     ],
-    "inquiry:ga48_2021:14": [
+    "inquiry:ga48_2021__ci07": [
       "minutes:ga48_2021"
     ],
-    "inquiry:ga48_2021:15": [
+    "inquiry:ga48_2021__ci08": [
       "minutes:ga48_2021"
     ],
-    "inquiry:ga48_2021:16": [
+    "inquiry:ga48_2021__ci09": [
       "minutes:ga48_2021"
     ],
-    "inquiry:ga48_2021:17": [
+    "inquiry:ga48_2021__ci10": [
       "minutes:ga48_2021"
     ],
-    "inquiry:ga48_2021:18": [
+    "inquiry:ga48_2021__ci11": [
       "minutes:ga48_2021"
     ],
-    "inquiry:ga48_2021:19": [
+    "inquiry:ga48_2021__ci12": [
       "minutes:ga48_2021"
     ],
-    "inquiry:ga48_2021:2": [
+    "inquiry:ga48_2021__ci13": [
       "minutes:ga48_2021"
     ],
-    "inquiry:ga48_2021:20": [
+    "inquiry:ga48_2021__ci14": [
       "minutes:ga48_2021"
     ],
-    "inquiry:ga48_2021:21": [
+    "inquiry:ga48_2021__ci15": [
       "minutes:ga48_2021"
     ],
-    "inquiry:ga48_2021:22": [
+    "inquiry:ga48_2021__ci16": [
       "minutes:ga48_2021"
     ],
-    "inquiry:ga48_2021:23": [
+    "inquiry:ga48_2021__ci17": [
       "minutes:ga48_2021"
     ],
-    "inquiry:ga48_2021:24": [
+    "inquiry:ga48_2021__ci18": [
       "minutes:ga48_2021"
     ],
-    "inquiry:ga48_2021:25": [
+    "inquiry:ga48_2021__ci19": [
       "minutes:ga48_2021"
     ],
-    "inquiry:ga48_2021:26": [
+    "inquiry:ga48_2021__ci20": [
       "minutes:ga48_2021"
     ],
-    "inquiry:ga48_2021:27": [
+    "inquiry:ga48_2021__ci21": [
       "minutes:ga48_2021"
     ],
-    "inquiry:ga48_2021:28": [
+    "inquiry:ga48_2021__ci22": [
       "minutes:ga48_2021"
     ],
-    "inquiry:ga48_2021:3": [
+    "inquiry:ga48_2021__ci23": [
       "minutes:ga48_2021"
     ],
-    "inquiry:ga48_2021:4": [
+    "inquiry:ga48_2021__ci24": [
       "minutes:ga48_2021"
     ],
-    "inquiry:ga48_2021:5": [
+    "inquiry:ga48_2021__ci25": [
       "minutes:ga48_2021"
     ],
-    "inquiry:ga48_2021:6": [
+    "inquiry:ga48_2021__ci26": [
       "minutes:ga48_2021"
     ],
-    "inquiry:ga48_2021:7": [
+    "inquiry:ga48_2021__ci27": [
       "minutes:ga48_2021"
     ],
-    "inquiry:ga48_2021:8": [
+    "inquiry:ga48_2021__ci28": [
       "minutes:ga48_2021"
     ],
-    "inquiry:ga48_2021:9": [
+    "inquiry:ga48_2021__ci29": [
       "minutes:ga48_2021"
     ],
-    "inquiry:ga48_2021:II.A:0": [
-      "minutes:ga48_2021"
-    ],
-    "inquiry:ga48_2021:II.AA:26": [
-      "minutes:ga48_2021"
-    ],
-    "inquiry:ga48_2021:II.B:1": [
-      "minutes:ga48_2021"
-    ],
-    "inquiry:ga48_2021:II.BB:27": [
-      "minutes:ga48_2021"
-    ],
-    "inquiry:ga48_2021:II.C:2": [
-      "minutes:ga48_2021"
-    ],
-    "inquiry:ga48_2021:II.D:3": [
-      "minutes:ga48_2021"
-    ],
-    "inquiry:ga48_2021:II.E:4": [
-      "minutes:ga48_2021"
-    ],
-    "inquiry:ga48_2021:II.F:5": [
-      "minutes:ga48_2021"
-    ],
-    "inquiry:ga48_2021:II.G:6": [
-      "minutes:ga48_2021"
-    ],
-    "inquiry:ga48_2021:II.H:7": [
-      "minutes:ga48_2021"
-    ],
-    "inquiry:ga48_2021:II.I:8": [
-      "minutes:ga48_2021"
-    ],
-    "inquiry:ga48_2021:II.J:9": [
-      "minutes:ga48_2021"
-    ],
-    "inquiry:ga48_2021:II.K:10": [
-      "minutes:ga48_2021"
-    ],
-    "inquiry:ga48_2021:II.L:11": [
-      "minutes:ga48_2021"
-    ],
-    "inquiry:ga48_2021:II.M:12": [
-      "minutes:ga48_2021"
-    ],
-    "inquiry:ga48_2021:II.N:13": [
-      "minutes:ga48_2021"
-    ],
-    "inquiry:ga48_2021:II.O:14": [
-      "minutes:ga48_2021"
-    ],
-    "inquiry:ga48_2021:II.P:15": [
-      "minutes:ga48_2021"
-    ],
-    "inquiry:ga48_2021:II.Q:16": [
-      "minutes:ga48_2021"
-    ],
-    "inquiry:ga48_2021:II.R:17": [
-      "minutes:ga48_2021"
-    ],
-    "inquiry:ga48_2021:II.S:18": [
-      "minutes:ga48_2021"
-    ],
-    "inquiry:ga48_2021:II.T:19": [
-      "minutes:ga48_2021"
-    ],
-    "inquiry:ga48_2021:II.U:20": [
-      "minutes:ga48_2021"
-    ],
-    "inquiry:ga48_2021:II.V:21": [
-      "minutes:ga48_2021"
-    ],
-    "inquiry:ga48_2021:II.W:22": [
-      "minutes:ga48_2021"
-    ],
-    "inquiry:ga48_2021:II.X:23": [
-      "minutes:ga48_2021"
-    ],
-    "inquiry:ga48_2021:II.Y:24": [
-      "minutes:ga48_2021"
-    ],
-    "inquiry:ga48_2021:II.Z:25": [
-      "minutes:ga48_2021"
-    ],
-    "inquiry:ga48_2021:IV. Non-Judicial Reference 1:28": [
-      "minutes:ga48_2021"
-    ],
-    "inquiry:ga49_2022:0": [
+    "inquiry:ga49_2022__ci01": [
       "minutes:ga49_2022"
     ],
-    "inquiry:ga49_2022:1": [
+    "inquiry:ga49_2022__ci02": [
       "minutes:ga49_2022"
     ],
-    "inquiry:ga49_2022:10": [
+    "inquiry:ga49_2022__ci03": [
       "minutes:ga49_2022"
     ],
-    "inquiry:ga49_2022:11": [
+    "inquiry:ga49_2022__ci04": [
       "minutes:ga49_2022"
     ],
-    "inquiry:ga49_2022:12": [
+    "inquiry:ga49_2022__ci05": [
       "minutes:ga49_2022"
     ],
-    "inquiry:ga49_2022:13": [
+    "inquiry:ga49_2022__ci06": [
       "minutes:ga49_2022"
     ],
-    "inquiry:ga49_2022:14": [
+    "inquiry:ga49_2022__ci07": [
       "minutes:ga49_2022"
     ],
-    "inquiry:ga49_2022:15": [
+    "inquiry:ga49_2022__ci08": [
       "minutes:ga49_2022"
     ],
-    "inquiry:ga49_2022:16": [
+    "inquiry:ga49_2022__ci09": [
       "minutes:ga49_2022"
     ],
-    "inquiry:ga49_2022:17": [
+    "inquiry:ga49_2022__ci10": [
       "minutes:ga49_2022"
     ],
-    "inquiry:ga49_2022:18": [
+    "inquiry:ga49_2022__ci11": [
       "minutes:ga49_2022"
     ],
-    "inquiry:ga49_2022:19": [
+    "inquiry:ga49_2022__ci12": [
       "minutes:ga49_2022"
     ],
-    "inquiry:ga49_2022:2": [
+    "inquiry:ga49_2022__ci13": [
       "minutes:ga49_2022"
     ],
-    "inquiry:ga49_2022:20": [
+    "inquiry:ga49_2022__ci14": [
       "minutes:ga49_2022"
     ],
-    "inquiry:ga49_2022:21": [
+    "inquiry:ga49_2022__ci15": [
       "minutes:ga49_2022"
     ],
-    "inquiry:ga49_2022:22": [
+    "inquiry:ga49_2022__ci16": [
       "minutes:ga49_2022"
     ],
-    "inquiry:ga49_2022:23": [
+    "inquiry:ga49_2022__ci17": [
       "minutes:ga49_2022"
     ],
-    "inquiry:ga49_2022:24": [
+    "inquiry:ga49_2022__ci18": [
       "minutes:ga49_2022"
     ],
-    "inquiry:ga49_2022:25": [
+    "inquiry:ga49_2022__ci19": [
       "minutes:ga49_2022"
     ],
-    "inquiry:ga49_2022:26": [
+    "inquiry:ga49_2022__ci20": [
       "minutes:ga49_2022"
     ],
-    "inquiry:ga49_2022:27": [
+    "inquiry:ga49_2022__ci21": [
       "minutes:ga49_2022"
     ],
-    "inquiry:ga49_2022:28": [
+    "inquiry:ga49_2022__ci22": [
       "minutes:ga49_2022"
     ],
-    "inquiry:ga49_2022:29": [
+    "inquiry:ga49_2022__ci23": [
       "minutes:ga49_2022"
     ],
-    "inquiry:ga49_2022:3": [
+    "inquiry:ga49_2022__ci24": [
       "minutes:ga49_2022"
     ],
-    "inquiry:ga49_2022:4": [
+    "inquiry:ga49_2022__ci25": [
       "minutes:ga49_2022"
     ],
-    "inquiry:ga49_2022:5": [
+    "inquiry:ga49_2022__ci26": [
       "minutes:ga49_2022"
     ],
-    "inquiry:ga49_2022:6": [
+    "inquiry:ga49_2022__ci27": [
       "minutes:ga49_2022"
     ],
-    "inquiry:ga49_2022:7": [
+    "inquiry:ga49_2022__ci28": [
       "minutes:ga49_2022"
     ],
-    "inquiry:ga49_2022:8": [
+    "inquiry:ga49_2022__ci29": [
       "minutes:ga49_2022"
     ],
-    "inquiry:ga49_2022:9": [
+    "inquiry:ga49_2022__ci30": [
       "minutes:ga49_2022"
     ],
-    "inquiry:ga49_2022:II.A:0": [
-      "minutes:ga49_2022"
-    ],
-    "inquiry:ga49_2022:II.B:1": [
-      "minutes:ga49_2022"
-    ],
-    "inquiry:ga49_2022:II.C:2": [
-      "minutes:ga49_2022"
-    ],
-    "inquiry:ga49_2022:II.D:3": [
-      "minutes:ga49_2022"
-    ],
-    "inquiry:ga49_2022:II.E:4": [
-      "minutes:ga49_2022"
-    ],
-    "inquiry:ga49_2022:II.F:5": [
-      "minutes:ga49_2022"
-    ],
-    "inquiry:ga49_2022:II.G:6": [
-      "minutes:ga49_2022"
-    ],
-    "inquiry:ga49_2022:II.H:7": [
-      "minutes:ga49_2022"
-    ],
-    "inquiry:ga49_2022:II.I:8": [
-      "minutes:ga49_2022"
-    ],
-    "inquiry:ga49_2022:II.J:9": [
-      "minutes:ga49_2022"
-    ],
-    "inquiry:ga49_2022:II.K:10": [
-      "minutes:ga49_2022"
-    ],
-    "inquiry:ga49_2022:II.L:11": [
-      "minutes:ga49_2022"
-    ],
-    "inquiry:ga49_2022:II.M:12": [
-      "minutes:ga49_2022"
-    ],
-    "inquiry:ga49_2022:II.N:13": [
-      "minutes:ga49_2022"
-    ],
-    "inquiry:ga49_2022:II.O:14": [
-      "minutes:ga49_2022"
-    ],
-    "inquiry:ga49_2022:II.P:15": [
-      "minutes:ga49_2022"
-    ],
-    "inquiry:ga49_2022:II.Q:16": [
-      "minutes:ga49_2022"
-    ],
-    "inquiry:ga49_2022:II.R:17": [
-      "minutes:ga49_2022"
-    ],
-    "inquiry:ga49_2022:II.S:18": [
-      "minutes:ga49_2022"
-    ],
-    "inquiry:ga49_2022:II.T:19": [
-      "minutes:ga49_2022"
-    ],
-    "inquiry:ga49_2022:II.U:20": [
-      "minutes:ga49_2022"
-    ],
-    "inquiry:ga49_2022:II.V:21": [
-      "minutes:ga49_2022"
-    ],
-    "inquiry:ga49_2022:II.W:22": [
-      "minutes:ga49_2022"
-    ],
-    "inquiry:ga49_2022:II.X:23": [
-      "minutes:ga49_2022"
-    ],
-    "inquiry:ga49_2022:II.Y:24": [
-      "minutes:ga49_2022"
-    ],
-    "inquiry:ga49_2022:III:25": [
-      "minutes:ga49_2022"
-    ],
-    "inquiry:ga49_2022:Supplemental II.A:26": [
-      "minutes:ga49_2022"
-    ],
-    "inquiry:ga49_2022:Supplemental II.B:27": [
-      "minutes:ga49_2022"
-    ],
-    "inquiry:ga49_2022:Supplemental III.1:28": [
-      "minutes:ga49_2022"
-    ],
-    "inquiry:ga49_2022:Supplemental III.2:29": [
-      "minutes:ga49_2022"
-    ],
-    "inquiry:ga50_2023:0": [
+    "inquiry:ga50_2023__ci01": [
       "minutes:ga50_2023"
     ],
-    "inquiry:ga50_2023:1": [
+    "inquiry:ga50_2023__ci02": [
       "minutes:ga50_2023"
     ],
-    "inquiry:ga50_2023:10": [
+    "inquiry:ga50_2023__ci03": [
       "minutes:ga50_2023"
     ],
-    "inquiry:ga50_2023:11": [
+    "inquiry:ga50_2023__ci04": [
       "minutes:ga50_2023"
     ],
-    "inquiry:ga50_2023:12": [
+    "inquiry:ga50_2023__ci05": [
       "minutes:ga50_2023"
     ],
-    "inquiry:ga50_2023:13": [
+    "inquiry:ga50_2023__ci06": [
       "minutes:ga50_2023"
     ],
-    "inquiry:ga50_2023:14": [
+    "inquiry:ga50_2023__ci07": [
       "minutes:ga50_2023"
     ],
-    "inquiry:ga50_2023:15": [
+    "inquiry:ga50_2023__ci08": [
       "minutes:ga50_2023"
     ],
-    "inquiry:ga50_2023:16": [
+    "inquiry:ga50_2023__ci09": [
       "minutes:ga50_2023"
     ],
-    "inquiry:ga50_2023:17": [
+    "inquiry:ga50_2023__ci10": [
       "minutes:ga50_2023"
     ],
-    "inquiry:ga50_2023:18": [
+    "inquiry:ga50_2023__ci11": [
       "minutes:ga50_2023"
     ],
-    "inquiry:ga50_2023:19": [
+    "inquiry:ga50_2023__ci12": [
       "minutes:ga50_2023"
     ],
-    "inquiry:ga50_2023:2": [
+    "inquiry:ga50_2023__ci13": [
       "minutes:ga50_2023"
     ],
-    "inquiry:ga50_2023:20": [
+    "inquiry:ga50_2023__ci14": [
       "minutes:ga50_2023"
     ],
-    "inquiry:ga50_2023:21": [
+    "inquiry:ga50_2023__ci15": [
       "minutes:ga50_2023"
     ],
-    "inquiry:ga50_2023:22": [
+    "inquiry:ga50_2023__ci16": [
       "minutes:ga50_2023"
     ],
-    "inquiry:ga50_2023:23": [
+    "inquiry:ga50_2023__ci17": [
       "minutes:ga50_2023"
     ],
-    "inquiry:ga50_2023:24": [
+    "inquiry:ga50_2023__ci18": [
       "minutes:ga50_2023"
     ],
-    "inquiry:ga50_2023:3": [
+    "inquiry:ga50_2023__ci19": [
       "minutes:ga50_2023"
     ],
-    "inquiry:ga50_2023:4": [
+    "inquiry:ga50_2023__ci20": [
       "minutes:ga50_2023"
     ],
-    "inquiry:ga50_2023:5": [
+    "inquiry:ga50_2023__ci21": [
       "minutes:ga50_2023"
     ],
-    "inquiry:ga50_2023:6": [
+    "inquiry:ga50_2023__ci22": [
       "minutes:ga50_2023"
     ],
-    "inquiry:ga50_2023:7": [
+    "inquiry:ga50_2023__ci23": [
       "minutes:ga50_2023"
     ],
-    "inquiry:ga50_2023:8": [
+    "inquiry:ga50_2023__ci24": [
       "minutes:ga50_2023"
     ],
-    "inquiry:ga50_2023:9": [
+    "inquiry:ga50_2023__ci25": [
       "minutes:ga50_2023"
     ],
-    "inquiry:ga50_2023:II.A:0": [
-      "minutes:ga50_2023"
-    ],
-    "inquiry:ga50_2023:II.B:1": [
-      "minutes:ga50_2023"
-    ],
-    "inquiry:ga50_2023:II.C:2": [
-      "minutes:ga50_2023"
-    ],
-    "inquiry:ga50_2023:II.D:3": [
-      "minutes:ga50_2023"
-    ],
-    "inquiry:ga50_2023:II.E:4": [
-      "minutes:ga50_2023"
-    ],
-    "inquiry:ga50_2023:II.F:5": [
-      "minutes:ga50_2023"
-    ],
-    "inquiry:ga50_2023:II.G:6": [
-      "minutes:ga50_2023"
-    ],
-    "inquiry:ga50_2023:II.H:7": [
-      "minutes:ga50_2023"
-    ],
-    "inquiry:ga50_2023:II.I:8": [
-      "minutes:ga50_2023"
-    ],
-    "inquiry:ga50_2023:II.J:9": [
-      "minutes:ga50_2023"
-    ],
-    "inquiry:ga50_2023:II.K:10": [
-      "minutes:ga50_2023"
-    ],
-    "inquiry:ga50_2023:II.L:11": [
-      "minutes:ga50_2023"
-    ],
-    "inquiry:ga50_2023:II.M:12": [
-      "minutes:ga50_2023"
-    ],
-    "inquiry:ga50_2023:II.N:13": [
-      "minutes:ga50_2023"
-    ],
-    "inquiry:ga50_2023:II.O:14": [
-      "minutes:ga50_2023"
-    ],
-    "inquiry:ga50_2023:II.P:15": [
-      "minutes:ga50_2023"
-    ],
-    "inquiry:ga50_2023:II.Q:16": [
-      "minutes:ga50_2023"
-    ],
-    "inquiry:ga50_2023:II.R:17": [
-      "minutes:ga50_2023"
-    ],
-    "inquiry:ga50_2023:II.S:18": [
-      "minutes:ga50_2023"
-    ],
-    "inquiry:ga50_2023:II.T:19": [
-      "minutes:ga50_2023"
-    ],
-    "inquiry:ga50_2023:IV. Non-Judicial Reference 1:20": [
-      "minutes:ga50_2023"
-    ],
-    "inquiry:ga50_2023:Supplemental II.1:21": [
-      "minutes:ga50_2023"
-    ],
-    "inquiry:ga50_2023:Supplemental II.2:22": [
-      "minutes:ga50_2023"
-    ],
-    "inquiry:ga50_2023:Supplemental II.3:23": [
-      "minutes:ga50_2023"
-    ],
-    "inquiry:ga50_2023:Supplemental II.4:24": [
-      "minutes:ga50_2023"
-    ],
-    "inquiry:ga51_2024:0": [
+    "inquiry:ga51_2024__ci01": [
       "minutes:ga51_2024"
     ],
-    "inquiry:ga51_2024:1": [
+    "inquiry:ga51_2024__ci02": [
       "minutes:ga51_2024"
     ],
-    "inquiry:ga51_2024:10": [
+    "inquiry:ga51_2024__ci03": [
       "minutes:ga51_2024"
     ],
-    "inquiry:ga51_2024:11": [
+    "inquiry:ga51_2024__ci04": [
       "minutes:ga51_2024"
     ],
-    "inquiry:ga51_2024:12": [
+    "inquiry:ga51_2024__ci05": [
       "minutes:ga51_2024"
     ],
-    "inquiry:ga51_2024:13": [
+    "inquiry:ga51_2024__ci06": [
       "minutes:ga51_2024"
     ],
-    "inquiry:ga51_2024:14": [
+    "inquiry:ga51_2024__ci07": [
       "minutes:ga51_2024"
     ],
-    "inquiry:ga51_2024:15": [
+    "inquiry:ga51_2024__ci08": [
       "minutes:ga51_2024"
     ],
-    "inquiry:ga51_2024:16": [
+    "inquiry:ga51_2024__ci09": [
       "minutes:ga51_2024"
     ],
-    "inquiry:ga51_2024:17": [
+    "inquiry:ga51_2024__ci10": [
       "minutes:ga51_2024"
     ],
-    "inquiry:ga51_2024:18": [
+    "inquiry:ga51_2024__ci11": [
       "minutes:ga51_2024"
     ],
-    "inquiry:ga51_2024:19": [
+    "inquiry:ga51_2024__ci12": [
       "minutes:ga51_2024"
     ],
-    "inquiry:ga51_2024:2": [
+    "inquiry:ga51_2024__ci13": [
       "minutes:ga51_2024"
     ],
-    "inquiry:ga51_2024:20": [
+    "inquiry:ga51_2024__ci14": [
       "minutes:ga51_2024"
     ],
-    "inquiry:ga51_2024:21": [
+    "inquiry:ga51_2024__ci15": [
       "minutes:ga51_2024"
     ],
-    "inquiry:ga51_2024:22": [
+    "inquiry:ga51_2024__ci16": [
       "minutes:ga51_2024"
     ],
-    "inquiry:ga51_2024:23": [
+    "inquiry:ga51_2024__ci17": [
       "minutes:ga51_2024"
     ],
-    "inquiry:ga51_2024:24": [
+    "inquiry:ga51_2024__ci18": [
       "minutes:ga51_2024"
     ],
-    "inquiry:ga51_2024:25": [
+    "inquiry:ga51_2024__ci19": [
       "minutes:ga51_2024"
     ],
-    "inquiry:ga51_2024:26": [
+    "inquiry:ga51_2024__ci20": [
       "minutes:ga51_2024"
     ],
-    "inquiry:ga51_2024:27": [
+    "inquiry:ga51_2024__ci21": [
       "minutes:ga51_2024"
     ],
-    "inquiry:ga51_2024:28": [
+    "inquiry:ga51_2024__ci22": [
       "minutes:ga51_2024"
     ],
-    "inquiry:ga51_2024:3": [
+    "inquiry:ga51_2024__ci23": [
       "minutes:ga51_2024"
     ],
-    "inquiry:ga51_2024:4": [
+    "inquiry:ga51_2024__ci24": [
       "minutes:ga51_2024"
     ],
-    "inquiry:ga51_2024:5": [
+    "inquiry:ga51_2024__ci25": [
       "minutes:ga51_2024"
     ],
-    "inquiry:ga51_2024:6": [
+    "inquiry:ga51_2024__ci26": [
       "minutes:ga51_2024"
     ],
-    "inquiry:ga51_2024:7": [
+    "inquiry:ga51_2024__ci27": [
       "minutes:ga51_2024"
     ],
-    "inquiry:ga51_2024:8": [
+    "inquiry:ga51_2024__ci28": [
       "minutes:ga51_2024"
     ],
-    "inquiry:ga51_2024:9": [
+    "inquiry:ga51_2024__ci29": [
       "minutes:ga51_2024"
     ],
-    "inquiry:ga51_2024:II.A:0": [
-      "minutes:ga51_2024"
-    ],
-    "inquiry:ga51_2024:II.AA:26": [
-      "minutes:ga51_2024"
-    ],
-    "inquiry:ga51_2024:II.B:1": [
-      "minutes:ga51_2024"
-    ],
-    "inquiry:ga51_2024:II.C:2": [
-      "minutes:ga51_2024"
-    ],
-    "inquiry:ga51_2024:II.D:3": [
-      "minutes:ga51_2024"
-    ],
-    "inquiry:ga51_2024:II.E:4": [
-      "minutes:ga51_2024"
-    ],
-    "inquiry:ga51_2024:II.F:5": [
-      "minutes:ga51_2024"
-    ],
-    "inquiry:ga51_2024:II.G:6": [
-      "minutes:ga51_2024"
-    ],
-    "inquiry:ga51_2024:II.H:7": [
-      "minutes:ga51_2024"
-    ],
-    "inquiry:ga51_2024:II.I:8": [
-      "minutes:ga51_2024"
-    ],
-    "inquiry:ga51_2024:II.J:9": [
-      "minutes:ga51_2024"
-    ],
-    "inquiry:ga51_2024:II.K:10": [
-      "minutes:ga51_2024"
-    ],
-    "inquiry:ga51_2024:II.L:11": [
-      "minutes:ga51_2024"
-    ],
-    "inquiry:ga51_2024:II.M:12": [
-      "minutes:ga51_2024"
-    ],
-    "inquiry:ga51_2024:II.N:13": [
-      "minutes:ga51_2024"
-    ],
-    "inquiry:ga51_2024:II.O:14": [
-      "minutes:ga51_2024"
-    ],
-    "inquiry:ga51_2024:II.P:15": [
-      "minutes:ga51_2024"
-    ],
-    "inquiry:ga51_2024:II.Q:16": [
-      "minutes:ga51_2024"
-    ],
-    "inquiry:ga51_2024:II.R:17": [
-      "minutes:ga51_2024"
-    ],
-    "inquiry:ga51_2024:II.S:18": [
-      "minutes:ga51_2024"
-    ],
-    "inquiry:ga51_2024:II.T:19": [
-      "minutes:ga51_2024"
-    ],
-    "inquiry:ga51_2024:II.U:20": [
-      "minutes:ga51_2024"
-    ],
-    "inquiry:ga51_2024:II.V:21": [
-      "minutes:ga51_2024"
-    ],
-    "inquiry:ga51_2024:II.W:22": [
-      "minutes:ga51_2024"
-    ],
-    "inquiry:ga51_2024:II.X:23": [
-      "minutes:ga51_2024"
-    ],
-    "inquiry:ga51_2024:II.Y:24": [
-      "minutes:ga51_2024"
-    ],
-    "inquiry:ga51_2024:II.Z:25": [
-      "minutes:ga51_2024"
-    ],
-    "inquiry:ga51_2024:Supplemental II.1:27": [
-      "minutes:ga51_2024"
-    ],
-    "inquiry:ga51_2024:Supplemental II.2:28": [
-      "minutes:ga51_2024"
-    ],
-    "inquiry:ga52_2025:0": [
-      "minutes:ga52_2025"
-    ],
-    "inquiry:ga52_2025:1": [
-      "minutes:ga52_2025"
-    ],
-    "inquiry:ga52_2025:10": [
-      "minutes:ga52_2025"
-    ],
-    "inquiry:ga52_2025:11": [
-      "minutes:ga52_2025"
-    ],
-    "inquiry:ga52_2025:12": [
-      "minutes:ga52_2025"
-    ],
-    "inquiry:ga52_2025:13": [
-      "minutes:ga52_2025"
-    ],
-    "inquiry:ga52_2025:14": [
-      "minutes:ga52_2025"
-    ],
-    "inquiry:ga52_2025:15": [
-      "minutes:ga52_2025"
-    ],
-    "inquiry:ga52_2025:16": [
-      "minutes:ga52_2025"
-    ],
-    "inquiry:ga52_2025:17": [
-      "minutes:ga52_2025"
-    ],
-    "inquiry:ga52_2025:18": [
-      "minutes:ga52_2025"
-    ],
-    "inquiry:ga52_2025:19": [
-      "minutes:ga52_2025"
-    ],
-    "inquiry:ga52_2025:2": [
-      "minutes:ga52_2025"
-    ],
-    "inquiry:ga52_2025:20": [
-      "minutes:ga52_2025"
-    ],
-    "inquiry:ga52_2025:21": [
-      "minutes:ga52_2025"
-    ],
-    "inquiry:ga52_2025:22": [
-      "minutes:ga52_2025"
-    ],
-    "inquiry:ga52_2025:23": [
-      "minutes:ga52_2025"
-    ],
-    "inquiry:ga52_2025:24": [
-      "minutes:ga52_2025"
-    ],
-    "inquiry:ga52_2025:25": [
-      "minutes:ga52_2025"
-    ],
-    "inquiry:ga52_2025:26": [
-      "minutes:ga52_2025"
-    ],
-    "inquiry:ga52_2025:27": [
-      "minutes:ga52_2025"
-    ],
-    "inquiry:ga52_2025:28": [
-      "minutes:ga52_2025"
-    ],
-    "inquiry:ga52_2025:29": [
-      "minutes:ga52_2025"
-    ],
-    "inquiry:ga52_2025:3": [
-      "minutes:ga52_2025"
-    ],
-    "inquiry:ga52_2025:30": [
-      "minutes:ga52_2025"
-    ],
-    "inquiry:ga52_2025:31": [
-      "minutes:ga52_2025"
-    ],
-    "inquiry:ga52_2025:32": [
-      "minutes:ga52_2025"
-    ],
-    "inquiry:ga52_2025:33": [
-      "minutes:ga52_2025"
-    ],
-    "inquiry:ga52_2025:34": [
-      "minutes:ga52_2025"
-    ],
-    "inquiry:ga52_2025:35": [
-      "minutes:ga52_2025"
-    ],
-    "inquiry:ga52_2025:36": [
-      "minutes:ga52_2025"
-    ],
-    "inquiry:ga52_2025:37": [
-      "minutes:ga52_2025"
-    ],
-    "inquiry:ga52_2025:4": [
-      "minutes:ga52_2025"
-    ],
-    "inquiry:ga52_2025:5": [
-      "minutes:ga52_2025"
-    ],
-    "inquiry:ga52_2025:6": [
-      "minutes:ga52_2025"
-    ],
-    "inquiry:ga52_2025:7": [
-      "minutes:ga52_2025"
-    ],
-    "inquiry:ga52_2025:8": [
-      "minutes:ga52_2025"
-    ],
-    "inquiry:ga52_2025:9": [
-      "minutes:ga52_2025"
-    ],
-    "inquiry:ga52_2025:II.A:0": [
+    "inquiry:ga52_2025__ci01": [
       "minutes:ga52_2025"
     ],
-    "inquiry:ga52_2025:II.AA:26": [
+    "inquiry:ga52_2025__ci02": [
       "minutes:ga52_2025"
     ],
-    "inquiry:ga52_2025:II.B:1": [
+    "inquiry:ga52_2025__ci03": [
       "minutes:ga52_2025"
     ],
-    "inquiry:ga52_2025:II.BB:27": [
+    "inquiry:ga52_2025__ci04": [
       "minutes:ga52_2025"
     ],
-    "inquiry:ga52_2025:II.C:2": [
+    "inquiry:ga52_2025__ci05": [
       "minutes:ga52_2025"
     ],
-    "inquiry:ga52_2025:II.D:3": [
+    "inquiry:ga52_2025__ci06": [
       "minutes:ga52_2025"
     ],
-    "inquiry:ga52_2025:II.E:4": [
+    "inquiry:ga52_2025__ci07": [
       "minutes:ga52_2025"
     ],
-    "inquiry:ga52_2025:II.F:5": [
+    "inquiry:ga52_2025__ci08": [
       "minutes:ga52_2025"
     ],
-    "inquiry:ga52_2025:II.G:6": [
+    "inquiry:ga52_2025__ci09": [
       "minutes:ga52_2025"
     ],
-    "inquiry:ga52_2025:II.H:7": [
+    "inquiry:ga52_2025__ci10": [
       "minutes:ga52_2025"
     ],
-    "inquiry:ga52_2025:II.I:8": [
+    "inquiry:ga52_2025__ci11": [
       "minutes:ga52_2025"
     ],
-    "inquiry:ga52_2025:II.J:9": [
+    "inquiry:ga52_2025__ci12": [
       "minutes:ga52_2025"
     ],
-    "inquiry:ga52_2025:II.K:10": [
+    "inquiry:ga52_2025__ci13": [
       "minutes:ga52_2025"
     ],
-    "inquiry:ga52_2025:II.L:11": [
+    "inquiry:ga52_2025__ci14": [
       "minutes:ga52_2025"
     ],
-    "inquiry:ga52_2025:II.M:12": [
+    "inquiry:ga52_2025__ci15": [
       "minutes:ga52_2025"
     ],
-    "inquiry:ga52_2025:II.N:13": [
+    "inquiry:ga52_2025__ci16": [
       "minutes:ga52_2025"
     ],
-    "inquiry:ga52_2025:II.O:14": [
+    "inquiry:ga52_2025__ci17": [
       "minutes:ga52_2025"
     ],
-    "inquiry:ga52_2025:II.P:15": [
+    "inquiry:ga52_2025__ci18": [
       "minutes:ga52_2025"
     ],
-    "inquiry:ga52_2025:II.Q:16": [
+    "inquiry:ga52_2025__ci19": [
       "minutes:ga52_2025"
     ],
-    "inquiry:ga52_2025:II.R:17": [
+    "inquiry:ga52_2025__ci20": [
       "minutes:ga52_2025"
     ],
-    "inquiry:ga52_2025:II.S:18": [
+    "inquiry:ga52_2025__ci21": [
       "minutes:ga52_2025"
     ],
-    "inquiry:ga52_2025:II.T:19": [
+    "inquiry:ga52_2025__ci22": [
       "minutes:ga52_2025"
     ],
-    "inquiry:ga52_2025:II.U:20": [
+    "inquiry:ga52_2025__ci23": [
       "minutes:ga52_2025"
     ],
-    "inquiry:ga52_2025:II.V:21": [
+    "inquiry:ga52_2025__ci24": [
       "minutes:ga52_2025"
     ],
-    "inquiry:ga52_2025:II.W:22": [
+    "inquiry:ga52_2025__ci25": [
       "minutes:ga52_2025"
     ],
-    "inquiry:ga52_2025:II.X:23": [
+    "inquiry:ga52_2025__ci26": [
       "minutes:ga52_2025"
     ],
-    "inquiry:ga52_2025:II.Y:24": [
+    "inquiry:ga52_2025__ci27": [
       "minutes:ga52_2025"
     ],
-    "inquiry:ga52_2025:II.Z:25": [
+    "inquiry:ga52_2025__ci28": [
       "minutes:ga52_2025"
     ],
-    "inquiry:ga52_2025:III.A:28": [
+    "inquiry:ga52_2025__ci29": [
       "minutes:ga52_2025"
     ],
-    "inquiry:ga52_2025:III.B:29": [
+    "inquiry:ga52_2025__ci30": [
       "minutes:ga52_2025"
     ],
-    "inquiry:ga52_2025:IV.A:30": [
+    "inquiry:ga52_2025__ci31": [
       "minutes:ga52_2025"
     ],
-    "inquiry:ga52_2025:IV.B:31": [
+    "inquiry:ga52_2025__ci32": [
       "minutes:ga52_2025"
     ],
-    "inquiry:ga52_2025:Second Supplemental II.A:35": [
+    "inquiry:ga52_2025__ci33": [
       "minutes:ga52_2025"
     ],
-    "inquiry:ga52_2025:Second Supplemental II.B:36": [
+    "inquiry:ga52_2025__ci34": [
       "minutes:ga52_2025"
     ],
-    "inquiry:ga52_2025:Second Supplemental II.C:37": [
+    "inquiry:ga52_2025__ci35": [
       "minutes:ga52_2025"
     ],
-    "inquiry:ga52_2025:Supplemental II.1:33": [
+    "inquiry:ga52_2025__ci36": [
       "minutes:ga52_2025"
     ],
-    "inquiry:ga52_2025:Supplemental II.2:34": [
+    "inquiry:ga52_2025__ci37": [
       "minutes:ga52_2025"
     ],
-    "inquiry:ga52_2025:VII:32": [
+    "inquiry:ga52_2025__ci38": [
       "minutes:ga52_2025"
     ],
     "overture:ga01_1973:1": [
