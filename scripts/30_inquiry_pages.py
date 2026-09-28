@@ -27,6 +27,7 @@ from source_links import (line_to_pdf_page, pdf_page_for_anchor, printed_page_fo
                           source_entries_for_record, source_front_matter)
 
 ONLY_RELOCATED = "--only-relocated" in sys.argv[1:]
+SEARCH_FROM_CATALOGUES = "--search-index-from-catalogues" in sys.argv[1:]
 ROOT_ARG = next((a for a in sys.argv[1:] if not a.startswith("--")), None)
 ROOT = ROOT_ARG if ROOT_ARG else os.environ.get(
     "PCA_GA_ROOT", os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
@@ -36,6 +37,82 @@ OUT = os.path.join(ROOT, "inquiries")
 
 _LOCATOR = re.compile(r"^\s*\d{4},\s*p\.\s*\d+[a-zA-Z]?,\s*\d+-\d+,?\s*[\w.]*\.?\s*")
 _md_lines_cache: dict[str, list[str]] = {}
+
+
+def refresh_search_index_from_catalogues() -> None:
+    """Rebuild search records without deriving page IDs from OCR/source order."""
+    rows = []
+    seen_urls = set()
+    for filename, record_type in (("INQUIRIES.md", "inquiry"),
+                                  ("CCB-OVERTURE-ADVICE.md", "ccb-advice")):
+        year = None
+        pending = None
+
+        def consume(line: str) -> None:
+            nonlocal year
+            if not line:
+                return
+            heading = re.match(r"^## .*?\((\d{4})\)", line)
+            if heading:
+                year = int(heading.group(1))
+                return
+            if not line.startswith("|") or year is None:
+                return
+            cells, cell, escaped = [], [], False
+            body = line.strip().strip("|")
+            for char in body:
+                if char == "|" and not escaped:
+                    cells.append("".join(cell).strip())
+                    cell = []
+                else:
+                    cell.append(char)
+                if char == "\\" and not escaped:
+                    escaped = True
+                else:
+                    escaped = False
+            cells.append("".join(cell).strip())
+            if len(cells) != 7 or cells[0] in ("Inquiry", "---"):
+                return
+            subject = re.match(r"^\[(.*)\]\(\.\./inquiries/([^)]*)\)$", cells[1])
+            if not subject:
+                return
+            title = subject.group(1).replace("\\|", "|")
+            url = "inquiries/" + subject.group(2)
+            if url in seen_urls:
+                raise ValueError(f"Duplicate inquiry catalogue URL: {url}")
+            if not (Path(ROOT) / url).is_file():
+                raise ValueError(f"Inquiry catalogue points to missing page: {url}")
+            seen_urls.add(url)
+            rows.append({
+                "type": record_type,
+                "title": title,
+                "sub": cells[2].replace("\\|", "|"),
+                "provisions": [p.strip().replace("\\|", "|") for p in cells[3].split(",") if p.strip()],
+                "year": year,
+                "disposition": cells[4].replace("\\|", "|"),
+                "url": url,
+            })
+
+        for raw in (Path(IDX) / filename).read_text(encoding="utf-8").splitlines():
+            if raw.startswith("|"):
+                if pending is not None:
+                    consume(pending)
+                pending = raw.strip()
+            elif pending is not None and raw.strip() and not raw.lstrip().startswith("#"):
+                pending += " " + raw.strip()
+            else:
+                if pending is not None:
+                    consume(pending)
+                    pending = None
+                consume(raw.strip())
+        if pending is not None:
+            consume(pending)
+
+    if not rows:
+        raise ValueError("No inquiry catalogue records found")
+    with open(os.path.join(IDX, "inquiries_search.json"), "w", encoding="utf-8") as f:
+        json.dump(rows, f, ensure_ascii=False)
+    print(f"[{ROOT}] refreshed inquiries_search.json ({len(rows)} catalogue records)")
 
 
 def ordinal(n: int) -> str:
@@ -183,6 +260,10 @@ def source_fields(source: dict, fallback: dict) -> tuple:
 
 
 def main():
+    if SEARCH_FROM_CATALOGUES:
+        refresh_search_index_from_catalogues()
+        return
+
     roster = json.load(open(os.path.join(IDX, "inquiries_roster.json")))
     located = json.load(open(os.path.join(IDX, "inquiries_located.json")))
 
