@@ -99,7 +99,7 @@
         "advice_end": 2870,
         "posed_start": 9987,
         "posed_end": 9994,
-        "page_anchor": "ga07-p103",
+        "page_anchor": "ga07-p106",
         "notes": "Advice text at lines 6204–6209: item 21 begins 'Concerning the recommendation of the Committee of Commissioners on Review and Control of Presbyteries, Minutes of the Sixth General Assembly, paragraph 6-116, IV, C...'; sub-items (a) and (b) at lines 6206–6207; '*Adopted.*' at line 6209; blank line 6210 precedes item 22 at line 6211. The content falls between the ga07-p104 anchor (line 6102) and the ga07-p105 anchor (line 6146), consistent with printed page 104. The posed/referred passage is in Appendix E at lines 9987–9994 (Permanent Committee report item 9), which spans a page break at ga07-p187 (line 9989). The actual text cites 'BCO 14-5', not 'BCO 13-6' as in the Digest; this is likely a BCO renumbering discrepancy between the 1979 edition and the Digest's numbering convention. The original source (paragraph 6-116, IV, C of the Sixth GA minutes) is from the 6th GA and does not appear verbatim in this 7th GA document.",
         "legacy_locator": {
           "advice_start": 6204,
@@ -113,6 +113,11 @@
           "old_ref": "HEAD",
           "method": "page_bounded_token_lcs",
           "score": 1.0
+        },
+        "advice_locator": {
+          "page_anchor": "ga07-p106",
+          "start_text": "21. Concerning the recommendation of the Committee of Commissioners on Review and Control of Presbyteries, Minutes of the Sixth General Assembly, paragraph 6-116, IV, C which was referred by the General Assembly to the Permanent Sub-Committee on Judicial Business, that the General Assembly express itself on this matter as follows",
+          "end_after": "if deemed necessary. Adopted"
         }
       }
     ]
@@ -408,7 +413,16 @@
         "ratified_start": 6012,
         "ratified_end": 6012,
         "inquiry_number": "CI #7",
-        "refined": "appendix-Q+A"
+        "refined": "appendix-Q+A",
+        "substantive": {
+          "kind": "question_and_answer",
+          "page_anchor": "ga13-p243",
+          "locator": {
+            "page_anchor": "ga13-p243",
+            "start_text": "7. Contitutional Inquiry 7: From the Session of Evangelical Presbyterian Church of Levittown, PA",
+            "end_before": "8. Constitutional Inquiry 8"
+          }
+        }
       },
       {
         "minute_para": "13-45",
@@ -423,7 +437,16 @@
         "ratified_start": 6034,
         "ratified_end": 6034,
         "inquiry_number": "CI #16",
-        "refined": "appendix-Q+A"
+        "refined": "appendix-Q+A",
+        "substantive": {
+          "kind": "question_and_answer",
+          "page_anchor": "ga13-p248",
+          "locator": {
+            "page_anchor": "ga13-p248",
+            "start_text": "6. Constitutional Inquiry 16: From the Presbytery of the Western Carolinas",
+            "end_after": "Therefore there is no applicable \"extraordinary clause\" to use in the admitting of ministers from other denominations."
+          }
+        }
       },
       {
         "minute_para": "13-45",
@@ -433,7 +456,7 @@
         "advice_end": 3409,
         "posed_start": 12594,
         "posed_end": 12603,
-        "page_anchor": "ga13-p114",
+        "page_anchor": "ga13-p113",
         "notes": "Rec 65 in 13-45, III. Runs from the rec header (6074) through the 'Adopted' line (6080) and two dissent-recording lines (6082). Located at pdf_page=113 which equals printed page 111. Inquiry 12 posed in Appendix I Supplement, section I.C.2 (lines 12594-12603). The ratification rec includes an amended answer that is more affirmative than the original CJB advice (which was hedged as 'unable to determine what Presbytery shall do').",
         "legacy_locator": {
           "advice_start": 6074,
@@ -447,6 +470,11 @@
           "old_ref": "HEAD",
           "method": "page_bounded_token_lcs",
           "score": 1.0
+        },
+        "advice_locator": {
+          "page_anchor": "ga13-p113",
+          "start_text": "65. That the advice regarding Constitutional Inquiry 12 (p. 245) from Missouri Presbytery be ratified as amended",
+          "end_after": "requested that their negative votes against recommendation 65 be recorded"
         }
       },
       {
@@ -458,7 +486,17 @@
         "posed_start": null,
         "posed_end": null,
         "page_anchor": "ga13-p88",
-        "notes": "Paragraph 13-27 (lines 5009-5013) is the journal entry where the constitutional inquiry was referred from the floor to the Committee on Judicial Business. This IS the posing/referral paragraph; there is no separate earlier posed passage. The committee's response was later given at 13-31 (lines 5233-5237). Located at pdf_page=88 (printed page 86). The anchor ga13-p88 is at line 4996."
+        "notes": "Paragraph 13-27 (lines 5009-5013) is the journal entry where the constitutional inquiry was referred from the floor to the Committee on Judicial Business. This IS the posing/referral paragraph; there is no separate earlier posed passage. The committee's response was later given at 13-31 (lines 5233-5237). Located at pdf_page=88 (printed page 86). The anchor ga13-p88 is at line 4996.",
+        "posed_locator": {
+          "page_anchor": "ga13-p88",
+          "start_text": "13-27 Constitutional Inquiry. The following constitutional inquiry from the floor was referred to the Committee on Judicial Business",
+          "end_after": "who has resigned from his position?"
+        },
+        "advice_locator": {
+          "page_anchor": "ga13-p93",
+          "start_text": "13-31 Response to Constitutional Inquiry",
+          "end_after": "so specify.\" Adopted"
+        }
       },
       {
         "minute_para": "13-45",
@@ -468,7 +506,7 @@
         "advice_end": 3338,
         "posed_start": 12332,
         "posed_end": 12363,
-        "page_anchor": "ga13-p110",
+        "page_anchor": "ga13-p242",
         "notes": "Rec 47 in 13-45, III. Multi-paragraph advice running from line 5989 ('That the advice regarding Constitutional Inquiry 5 ... be ratified as amended') through line 6006 ('Adopted'), spanning the pdf_page=110 break (printed page 108). Inquiry 5 from Eastern Canada Presbytery is posed in Appendix I, section I.D.5 (lines 12332-12363). The advice covers BCO 15-1 commissions, WCF XXVII:4 exceptions, BCO 19-2 licensure exams, and BCO 21-4 Unified Curriculum.",
         "legacy_locator": {
           "advice_start": 5989,
@@ -482,6 +520,15 @@
           "old_ref": "HEAD",
           "method": "page_bounded_token_lcs",
           "score": 0.96
+        },
+        "substantive": {
+          "kind": "question_and_answer",
+          "page_anchor": "ga13-p242",
+          "locator": {
+            "page_anchor": "ga13-p242",
+            "start_text": "5. Constitutional Inquiry 5: From the Presbytery of Eastern Canada",
+            "end_before": "6. Constitutional Inquiry 6"
+          }
         }
       },
       {
@@ -493,7 +540,17 @@
         "posed_start": 5009,
         "posed_end": 5013,
         "page_anchor": "ga13-p93",
-        "notes": "Paragraph 13-31 (lines 5233-5237) is the partial report of the Judicial Business Committee responding to the inquiry referred in 13-27 (lines 5009-5013). The response was adopted: 'BCO 14-1-12 (4) permits such election only if the bylaws of the agency (as approved by the Assembly) so specify.' Located at pdf_page=93 (printed page 91). The ga13-p93 anchor is at line 5230."
+        "notes": "Paragraph 13-31 (lines 5233-5237) is the partial report of the Judicial Business Committee responding to the inquiry referred in 13-27 (lines 5009-5013). The response was adopted: 'BCO 14-1-12 (4) permits such election only if the bylaws of the agency (as approved by the Assembly) so specify.' Located at pdf_page=93 (printed page 91). The ga13-p93 anchor is at line 5230.",
+        "posed_locator": {
+          "page_anchor": "ga13-p88",
+          "start_text": "13-27 Constitutional Inquiry. The following constitutional inquiry from the floor was referred to the Committee on Judicial Business",
+          "end_after": "who has resigned from his position?"
+        },
+        "advice_locator": {
+          "page_anchor": "ga13-p93",
+          "start_text": "13-31 Response to Constitutional Inquiry",
+          "end_after": "so specify.\" Adopted"
+        }
       },
       {
         "minute_para": "13-45",
@@ -519,7 +576,16 @@
         "ratified_start": 6033,
         "ratified_end": 6033,
         "inquiry_number": "CI #15",
-        "refined": "appendix-Q+A"
+        "refined": "appendix-Q+A",
+        "substantive": {
+          "kind": "question_and_answer",
+          "page_anchor": "ga13-p248",
+          "locator": {
+            "page_anchor": "ga13-p248",
+            "start_text": "5. Constitutional Inquiry 15: From the Presbytery of the Western Carolinas",
+            "end_before": "6. Constitutional Inquiry 16"
+          }
+        }
       },
       {
         "minute_para": "13-45",
@@ -596,7 +662,16 @@
         "ratified_start": 6013,
         "ratified_end": 6013,
         "inquiry_number": "CI #8",
-        "refined": "appendix-Q+A"
+        "refined": "appendix-Q+A",
+        "substantive": {
+          "kind": "question_and_answer",
+          "page_anchor": "ga13-p243",
+          "locator": {
+            "page_anchor": "ga13-p243",
+            "start_text": "8. Constitutional Inquiry 8: From the Session of the Antioch Presbyterian Church of Woodruff, SC",
+            "end_before": "9. Constitutional Inquiry 9"
+          }
+        }
       },
       {
         "minute_para": "13-45",
@@ -611,7 +686,16 @@
         "ratified_start": 6016,
         "ratified_end": 6016,
         "inquiry_number": "CI #13",
-        "refined": "appendix-Q+A"
+        "refined": "appendix-Q+A",
+        "substantive": {
+          "kind": "question_and_answer",
+          "page_anchor": "ga13-p247",
+          "locator": {
+            "page_anchor": "ga13-p247",
+            "start_text": "3. Constitutional Inquiry 13: From Northeast Presbytery",
+            "end_before": "4. Constitutional Inquiry 14"
+          }
+        }
       },
       {
         "minute_para": "13-45",
@@ -626,7 +710,16 @@
         "ratified_start": 5963,
         "ratified_end": 5963,
         "inquiry_number": "CI #1",
-        "refined": "appendix-Q+A"
+        "refined": "appendix-Q+A",
+        "substantive": {
+          "kind": "question_and_answer",
+          "page_anchor": "ga13-p241",
+          "locator": {
+            "page_anchor": "ga13-p241",
+            "start_text": "1. Constitutional Inquiry 1: From the Session of the Town North Presbyterian Church of Richardson, Texas",
+            "end_before": "2. Constitutional Inquiry 2"
+          }
+        }
       }
     ]
   },
