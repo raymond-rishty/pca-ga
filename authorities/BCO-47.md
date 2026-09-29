@@ -4,7 +4,7 @@
 
 | Year | Record type | Relationship | Evidence | Confidence | Title | Disposition |
 |------|-------------|--------------|----------|------------|-------|-------------|
-| 2000 | CCB advice | structured_provision_tag | structured_provision_tag | medium | [Constitutional Status](../inquiries/ga28_2000__ci07.md) | advice given |
+| 2000 | CCB advice | structured_provision_tag | structured_provision_tag | medium | [Constitutional Status](../inquiries/ga28_2000__ci05.md) | advice given |
 
 ---
 *[← Authority Index](../index/AUTHORITY-BY-PROVISION.md)*

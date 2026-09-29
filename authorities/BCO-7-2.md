@@ -9,12 +9,12 @@
 | 2009 | Judicial case | explicit_citation | direct_text | high | [Mark Grasso et al. v. Philadelphia Presbytery](../cases/ga37_2009__2008-01_2008-10.md) | denied |
 | 1992 | Judicial case | explicit_citation | direct_text | high | [Robert D. Hopper v. James River Presbytery](../cases/ga20_1992__1991-04.md) |  |
 | 1991 | Judicial case | explicit_citation | direct_text | high | [Chappell v. Eastern Carolina Presbytery](../cases/ga19_1991__1990-04.md) | sustained |
-| 2014 | Constitutional inquiry | structured_provision_tag | structured_provision_tag | medium | [Whether "Inactive Elders" or Ruling Elders Elected at a Different Church May Serve as Commissioners at General Assembly](../inquiries/ga42_2014__ci05.md) | advice given |
+| 2014 | Constitutional inquiry | structured_provision_tag | structured_provision_tag | medium | [Whether "Inactive Elders" or Ruling Elders Elected at a Different Church May Serve as Commissioners at General Assembly](../inquiries/ga42_2014__ci03.md) | advice given |
 | 1995 | Constitutional inquiry | structured_provision_tag | structured_provision_tag | medium | [Ordination of candidate with exceptions to six-day creation and male-only office](../inquiries/ga23_1995__ci03.md) | response approved as satisfactory |
-| 1984 | Constitutional inquiry | structured_provision_tag | structured_provision_tag | medium | [Ordination of men who believe women may serve as deacons](../inquiries/ga12_1984__ci09.md) | advice given |
-| 2024 | CCB advice | structured_provision_tag | structured_provision_tag | medium | [Restricting ordination to biological males under BCO 7-2](../inquiries/ga51_2024__ci10.md) | not in conflict; Adopted 8-0-0 |
-| 2019 | CCB advice | structured_provision_tag | structured_provision_tag | medium | [5-9.i(1)](../inquiries/ga47_2019__ci17.md) | not in conflict; Adopted by the CCB |
-| 2017 | CCB advice | structured_provision_tag | structured_provision_tag | medium | [Sabbaticals for Officers in the Church](../inquiries/ga45_2017__ci03.md) | in conflict |
+| 1984 | Constitutional inquiry | structured_provision_tag | structured_provision_tag | medium | [Ordination of men who believe women may serve as deacons](../inquiries/ga12_1984__ci10.md) | advice given |
+| 2024 | CCB advice | structured_provision_tag | structured_provision_tag | medium | [Amend BCO 7-2 to Specify Ordination for Biological Males Only](../inquiries/ga51_2024__ci11.md) | not in conflict; Adopted 8-0-0 |
+| 2019 | CCB advice | structured_provision_tag | structured_provision_tag | medium | [5-9.i(1), 7-2, 9-3, 17-3, 24, and Add a Chapter 25 In Order to Allow Local Sessions to Decide Whether Women Are Allowed to Serve as Deacons](../inquiries/ga47_2019__ci17.md) | not in conflict; Adopted by the CCB |
+| 2017 | CCB advice | structured_provision_tag | structured_provision_tag | medium | [Sabbaticals for Officers in the Church](../inquiries/ga45_2017__ci04.md) | in conflict |
 | 2010 | CCB advice | structured_provision_tag | structured_provision_tag | medium | [Unordained Men and Women Carrying Out Diaconal Ministry](../inquiries/ga38_2010__ci04.md) | in conflict |
 | 2024 | Overture | proposal_target | overture_action_target | high | [Amend BCO 7-2 to Specify Ordination for Biological Males Only](../markdown/ga51_2024.md#ga51-p1277) | Answered in the negative |
 | 2010 | Overture | proposal_target | overture_action_target | high | [Amend BCO 1-4, 4-2, 5-10, 7-2, 9-2, 9-7 and Add BCO 9-8 for Unordained Diaconal Ministry](../markdown/ga38_2010.md#ga38-p394) | Answered in the negative |

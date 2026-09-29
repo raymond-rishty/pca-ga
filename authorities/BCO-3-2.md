@@ -11,7 +11,7 @@
 | 1994 | Judicial case | explicit_citation | direct_text | high | [Smith v. Northeast Presbytery](../cases/ga22_1994__1993-01.md) | denied |
 | 1991 | Judicial case | structured_case_reference | structured_case_metadata | medium | [Chappell v. Eastern Carolina Presbytery](../cases/ga19_1991__1990-04.md) | sustained |
 | 1991 | Judicial case | structured_case_reference | structured_case_metadata | medium | [Marshall v. Eastern Carolina Presbytery](../cases/ga19_1991__1990-04a.md) | sustained |
-| 1987 | Constitutional inquiry | structured_provision_tag | structured_provision_tag | medium | [Role of a presbytery evangelist in church discipline and membership actions](../inquiries/ga15_1987__ci06.md) | advice given |
+| 1987 | Constitutional inquiry | structured_provision_tag | structured_provision_tag | medium | [Role of a presbytery evangelist in church discipline and membership actions](../inquiries/ga15_1987__ci04.md) | advice given |
 | 2005 | CCB advice | structured_provision_tag | structured_provision_tag | medium | [Relationship of Assistant Pastor to the Church](../inquiries/ga33_2005__ci02.md) | in conflict |
 | 2005 | Overture | explicit_citation | direct_text | high | [Amend BCO 24-1 to Require Bible Content Examination for Elders and Deacons](../markdown/ga33_2005.md#ga33-p202) | Approved & ratified (2006) |
 

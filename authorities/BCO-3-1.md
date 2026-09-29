@@ -8,8 +8,8 @@
 | 2002 | Judicial case | explicit_citation | direct_text | high | [Andy Lee v. Korean Capital Presbytery](../cases/ga30_2002__2001-07.md) | dismissed |
 | 1991 | Judicial case | explicit_citation | direct_text | high | [Chappell v. Eastern Carolina Presbytery](../cases/ga19_1991__1990-04.md) | sustained |
 | 1991 | Judicial case | structured_case_reference | structured_case_metadata | medium | [Marshall v. Eastern Carolina Presbytery](../cases/ga19_1991__1990-04a.md) | sustained |
-| 1998 | Constitutional inquiry | structured_provision_tag | structured_provision_tag | medium | [Dissolution of pastoral call and supermajority vote requirements](../inquiries/ga26_1998__ci02.md) | advice given — BCO 23-1 refers back to BCO 20 for meeting and conduct; 2/3 vote for dissolution requires explicit congregational adoption |
-| 1986 | Constitutional inquiry | structured_provision_tag | structured_provision_tag | medium | [Rotational and perpetual systems of church officers](../inquiries/ga14_1986__ci11.md) | advice given |
+| 1998 | Constitutional inquiry | structured_provision_tag | structured_provision_tag | medium | [Dissolution of pastoral call and supermajority vote requirements](../inquiries/ga26_1998__ci01.md) | advice given — BCO 23-1 refers back to BCO 20 for meeting and conduct; 2/3 vote for dissolution requires explicit congregational adoption |
+| 1986 | Constitutional inquiry | structured_provision_tag | structured_provision_tag | medium | [Book of Church Order / BCO 3-1](../inquiries/ga14_1986__ci10.md) | advice given |
 | 2004 | CCB advice | structured_provision_tag | structured_provision_tag | medium | [Limit Voting in Presbytery and General Assembly to Pastors and Associate Pastors](../inquiries/ga32_2004__ci04.md) | in conflict |
 | 2003 | CCB advice | structured_provision_tag | structured_provision_tag | medium | [Limit Voting in Presbytery and General Assembly to Pastors and Associate Pastors](../inquiries/ga31_2003__ci09.md) | in conflict |
 | 1984 | Overture | explicit_citation | direct_text | high | [Adopt Statement Encouraging Memorial Services for Miscarried Infants](../markdown/ga12_1984.md#ga12-p73) | Adopted (final) |

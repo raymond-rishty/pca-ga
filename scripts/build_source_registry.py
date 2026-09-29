@@ -34,13 +34,21 @@ def canonical_pdf_url(url: str) -> str:
     return str(url).split("#", 1)[0].split("?", 1)[0]
 
 
-def inquiry_groups(inquiries: Any) -> list[dict[str, Any]]:
-    """Accept both the legacy object and the current list inquiry index shapes."""
-    if isinstance(inquiries, dict):
-        return [group for group in inquiries.values() if isinstance(group, dict)]
-    if isinstance(inquiries, list):
-        return [group for group in inquiries if isinstance(group, dict)]
-    raise ValueError("index/inquiries_located.json must contain inquiry groups")
+def load_inquiries(path: Path) -> list[dict[str, Any]]:
+    records = []
+    seen: set[str] = set()
+    for line_number, raw in enumerate(path.read_text(encoding="utf-8").splitlines(), 1):
+        if not raw.strip():
+            continue
+        row = json.loads(raw)
+        if not isinstance(row, dict) or not isinstance(row.get("locator"), dict):
+            raise ValueError(f"{path}:{line_number}: malformed canonical inquiry record")
+        record_id = str(row.get("id") or "")
+        if not record_id or record_id in seen:
+            raise ValueError(f"{path}:{line_number}: missing or duplicate inquiry id {record_id!r}")
+        seen.add(record_id)
+        records.append(row)
+    return records
 
 
 def valid_volume(value: Any) -> bool:
@@ -111,7 +119,7 @@ def url_path(url: str) -> str:
 def build(root: Path) -> tuple[dict[str, Any], dict[str, Any]]:
     cases = load_jsonl(root / "index/cases.jsonl")
     roster = load_jsonl(root / "index/sjc_official/roster.jsonl")
-    inquiries = load_json(root / "index/inquiries_located.json")
+    inquiries = load_inquiries(root / "index/inquiries.jsonl")
     studies = load_json(root / "index/studies_pages.json")
     manifest = load_json(root / "index/studies_pdf_manifest.json")
     pcahistory = load_json(root / "index/studies_pcahistory.json")
@@ -224,8 +232,8 @@ def build(root: Path) -> tuple[dict[str, Any], dict[str, Any]]:
     for row in cases:
         if row.get("ga_ordinal") is not None and row.get("year") is not None:
             add_volume(f"ga{int(row['ga_ordinal']):02d}_{int(row['year'])}")
-    for group in inquiry_groups(inquiries):
-        add_volume(group.get("stem"))
+    for row in inquiries:
+        add_volume(row.get("stem"))
     for row in studies:
         add_volume(row.get("vol"))
     for doc in manifest.get("documents", []):
@@ -311,16 +319,10 @@ def build(root: Path) -> tuple[dict[str, Any], dict[str, Any]]:
             add_mapping(f"case:{number}", ids)
 
     inquiry_count = 0
-    for group in inquiry_groups(inquiries):
-        source_id = add_minutes(group.get("stem"))
-        for index, result in enumerate(group.get("results", [])):
-            inquiry_count += 1
-            ids = [source_id]
-            add_mapping(f"inquiry:{group.get('stem')}:{index}", ids)
-            if result.get("minute_para"):
-                add_mapping(
-                    f"inquiry:{group.get('stem')}:{result['minute_para']}:{index}", ids
-                )
+    for row in inquiries:
+        inquiry_count += 1
+        source_id = add_minutes(row.get("stem"))
+        add_mapping(f"inquiry:{row['id']}", [source_id])
 
     for index, row in enumerate(overtures):
         source_id = add_minutes(row.get("vol"))
@@ -386,7 +388,7 @@ def build(root: Path) -> tuple[dict[str, Any], dict[str, Any]]:
         "generated_from": [
             "index/cases.jsonl",
             "index/sjc_official/roster.jsonl",
-            "index/inquiries_located.json",
+            "index/inquiries.jsonl",
             "index/overture_bodies.jsonl",
             "index/rpr/*.json",
             "index/studies_pages.json",
@@ -523,7 +525,7 @@ def validate_registry(root: Path) -> list[str]:
     for relative in (
         "index/cases.jsonl",
         "index/sjc_official/roster.jsonl",
-        "index/inquiries_located.json",
+        "index/inquiries.jsonl",
         "index/overture_bodies.jsonl",
         "index/studies_pages.json",
         "index/studies_pdf_manifest.json",

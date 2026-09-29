@@ -4,7 +4,7 @@
 
 | Year | Record type | Relationship | Evidence | Confidence | Title | Disposition |
 |------|-------------|--------------|----------|------------|-------|-------------|
-| 2019 | Constitutional inquiry | structured_provision_tag | structured_provision_tag | medium | [SJC member eligibility for concurrent GA agency board service](../inquiries/ga47_2019__ci22.md) | Yes (eligible); Adopted by the CCB |
+| 2019 | Constitutional inquiry | structured_provision_tag | structured_provision_tag | medium | [Is a member of the General Assembly's Standing Judicial Commission (SJC) eligible for concurrent service on the Board of a General Assembly Agency?](../inquiries/ga47_2019__ci22.md) | Yes (eligible); Adopted by the CCB |
 
 ---
 *[← Authority Index](../index/AUTHORITY-BY-PROVISION.md)*

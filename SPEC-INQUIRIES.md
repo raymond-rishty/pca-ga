@@ -4,8 +4,10 @@ The third catalogue alongside **Judicial Cases** (`SPEC-JUDICIAL-CASES.html`) an
 Inquiry is a question of *constitutional interpretation* (Westminster Standards / *Book of Church
 Order* / *Rules of Assembly Operations*) referred to the **Committee on Constitutional Business
 (CCB)**, which answers with **non-binding advice**. This spec describes how to extract and catalogue
-them; it follows the same patterns the case and overture layers already use. *(Status: design spec —
-not yet implemented. The case layer is built per SPEC-JUDICIAL-CASES.html; inquiries reuse its machinery.)*
+them; it follows the same patterns the case and overture layers already use. *(Status: the canonical
+record dataset is implemented in `index/inquiries.jsonl`; stable-locator migration is in progress.
+Of 436 records, 308 have a verified primary phrase locator and 128 are explicitly flagged for source
+review. Cross-Assembly linking remains in progress.)*
 
 ## 1. The model (what a Constitutional Inquiry is)
 
@@ -71,14 +73,14 @@ the number is GA-relative, not globally unique.
 
 ## 4. Extraction approach (reuse the case/overture machinery)
 
-**Anchor on the Digest — Part II (Interpretations of the Constitution).** Part II *is* the
-authoritative roster for this layer: the canonical list of CCB advices, each with subject,
-provisions, and a Minutes citation (`M-GA p.N`). Parse it into a roster (as in
-`SPEC-JUDICIAL-CASES.html` §4a) and drive identity + citation-anchored locate-verbatim + completeness
-from it; the minutes remain the verbatim content source. This is especially valuable because the
-inquiries layer is **unbuilt** — Part II hands us the ground-truth checklist to build against rather
-than reverse-engineering it from a noisy table. Then, structurally, reuse both case and overture
-machinery:
+**Anchor on the Digest — Part II (Interpretations of the Constitution).** Part II is the
+authoritative historical roster for this layer. `index/inquiries.jsonl` stores the historical Digest
+entries and later direct extractions as one record per inquiry/advice, joining each entry to its
+minutes locator by General Assembly and minute-paragraph citation. Its stable record IDs use citation
+and descriptive metadata, not OCR line numbers. The minutes remain the verbatim content source. The
+committed dataset currently contains 436 records spanning 1975–2025. Cross-Assembly posed-to-answered
+linking and phrase-locator coverage for records still marked `needs_review` remain follow-up work. Then,
+structurally, reuse both case and overture machinery:
 
 1. **Region** — bound to the CCB report (the "Committee on Constitutional Business" appendix /
    `NN-13` paragraph) plus the journal paragraphs that *pose* inquiries (`NN-NN Constitutional
@@ -92,8 +94,21 @@ machinery:
    + source** across Assemblies (numbers don't align across GAs, exactly as CJB complaint↔report
    matching in SPEC-JUDICIAL-CASES.html). When the CCB reports back at GA N+1 to an inquiry posed at GA N, link them.
 4. **Verbatim** — slice the posed-question span and the CCB-advice span from the markdown; never
-   transcribe. For odd/heterogeneous volumes, use the locate-then-slice agent workflow (as for CJB
-   and the SJC stragglers) returning line ranges.
+   transcribe. Each durable span has two boundary objects, each with a physical PDF page anchor and
+   a phrase unique within that page. The start and end boundaries may be on different pages. Match
+   phrases by ordered words so OCR line wrapping and whitespace changes do not break them. Both
+   phrases must resolve exactly once and in order; otherwise report the span as unresolved for
+   review. An end boundary may be exclusive when it names the next section heading, so adjacent
+   items with repeated closing text can still be bounded cleanly. Keep the printed folio as
+   separate display metadata because it can differ from the
+   physical PDF page or repeat in appendices. Line offsets may be retained as migration/audit
+   metadata but must not serve as the durable locator. For odd/heterogeneous volumes, use the
+   locate-then-slice workflow to identify the phrases from the primary minutes.
+
+**Migration status:** records without a verified primary phrase locator are marked
+`phrase_migration.status: needs_review`. Their legacy line offsets are audit metadata only and are
+not used to render verbatim text. Phrase resolution alone does not prove semantic relevance; the
+selected source passage must also match the inquiry topic and answer.
 
 ## 5. Identity & metadata
 
@@ -157,6 +172,8 @@ appear both in the structural index (queryable) and as headings in the rendered 
   OCR issues — space-shattering, parties-before-header — already handled in `25_case_extract.py`).
 - "not located" remains the honest label for an inquiry the table/structure references but whose
   text can't be located, exactly as for cases.
+- Imported records with stale or semantically mismatched line offsets remain in the canonical roster
+  with an explicit `needs_review` locator status until their source passage can be confirmed.
 - The **digest headnote is derived**, so a generated summary can be imprecise (the same caveat as the
   ~97%-accurate overture titles, `SPEC-OVERTURES.md` §9). Mitigations: it is always labeled and
   separated from the verbatim record (which is exact), and a reader can check it against the primary

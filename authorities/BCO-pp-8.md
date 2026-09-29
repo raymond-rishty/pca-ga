@@ -20,7 +20,7 @@
 | 2002 | Judicial case | explicit_citation | direct_text | high | [Sung Keon Kim v. Korean Capital Presbytery](../cases/ga30_2002__2000-09.md) |  |
 | 1994 | Judicial case | explicit_citation | direct_text | high | [Smith v. Northeast Presbytery](../cases/ga22_1994__1993-01.md) | denied |
 | 1991 | Judicial case | structured_case_reference | structured_case_metadata | medium | [Chappell v. Eastern Carolina Presbytery](../cases/ga19_1991__1990-04.md) | sustained |
-| 2024 | CCB advice | structured_provision_tag | structured_provision_tag | medium | [32](../inquiries/ga51_2024__ci15.md) | in grave conflict; Adopted 8-0-0 |
+| 2024 | CCB advice | structured_provision_tag | structured_provision_tag | medium | [32, and 35](../inquiries/ga51_2024__ci16.md) | in grave conflict; Adopted 8-0-0 |
 | 2024 | RPR exception | body_mention | direct_text | high | [Missouri: Allegations against a pastor(s) and session received by presbytery not recorded in the pre](../rpr/exc/missouri__056.html) | satisfactory |
 
 ---

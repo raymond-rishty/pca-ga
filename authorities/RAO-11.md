@@ -4,7 +4,7 @@
 
 | Year | Record type | Relationship | Evidence | Confidence | Title | Disposition |
 |------|-------------|--------------|----------|------------|-------|-------------|
-| 2019 | CCB advice | structured_provision_tag | structured_provision_tag | medium | [Proposal to disallow memorials via RAO amendment](../inquiries/ga47_2019__ci05.md) | not in conflict; Adopted by the CCB |
+| 2019 | CCB advice | structured_provision_tag | structured_provision_tag | medium | [Amend RAO 11 and 13 to Disallow Memorials](../inquiries/ga47_2019__ci05.md) | not in conflict; Adopted by the CCB |
 
 ---
 *[← Authority Index](../index/AUTHORITY-BY-PROVISION.md)*

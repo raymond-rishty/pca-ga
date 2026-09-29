@@ -1,8 +1,8 @@
 # Authority index audit
 
-Catalogue input fingerprint: `625890316ac3113360e815860dce45377b01202b3b8414d21cf0bebd24bed015`.
+Catalogue input fingerprint: `eceff8c84a5b7f70debf7cbb5531b3e0cce57ed4639f4836ade63a5de962e5d7`.
 
-The catalogue contains 1172 provisions, 12445 relationships, 16124 evidence occurrences, and 97 unmatched source references.
+The catalogue contains 1172 provisions, 12478 relationships, 16157 evidence occurrences, and 98 unmatched source references.
 
 Relationship kinds describe why a record is linked. Evidence basis describes the source of that link. Match confidence describes extraction confidence. Reader scope labels the relationship in the Constitution Reader. These fields do not describe legal force.
 
@@ -12,8 +12,8 @@ The Reader includes indexed relationships for its supported record types across 
 
 | Record type | Relationships | Reader included |
 |-------------|--------------:|----------------:|
-| CCB advice | 542 | 542 |
-| Constitutional inquiry | 411 | 411 |
+| CCB advice | 549 | 549 |
+| Constitutional inquiry | 437 | 437 |
 | Judicial case | 3263 | 3263 |
 | Overture | 1342 | 1342 |
 | RPR exception | 6887 | 6887 |
@@ -22,8 +22,8 @@ Reader-included relationships by scope:
 
 | Record type | Scope | Count |
 |-------------|-------|------:|
-| CCB advice | `contextual` | 542 |
-| Constitutional inquiry | `primary` | 411 |
+| CCB advice | `contextual` | 549 |
+| Constitutional inquiry | `primary` | 437 |
 | Judicial case | `primary` | 3263 |
 | Overture | `candidate` | 1246 |
 | Overture | `primary` | 96 |
@@ -40,7 +40,7 @@ Reader-included relationships by scope:
 | `proposal_target` | 645 |
 | `structured_case_reference` | 823 |
 | `structured_exception_tag` | 6711 |
-| `structured_provision_tag` | 953 |
+| `structured_provision_tag` | 986 |
 
 ### Relationships by evidence basis
 
@@ -49,7 +49,7 @@ Reader-included relationships by scope:
 | `direct_text` | 3863 |
 | `overture_action_target` | 645 |
 | `structured_case_metadata` | 823 |
-| `structured_provision_tag` | 7664 |
+| `structured_provision_tag` | 7697 |
 | `title_subject_reference` | 15 |
 
 ### Relationships by match confidence
@@ -57,15 +57,15 @@ Reader-included relationships by scope:
 | Value | Count |
 |-------|------:|
 | `high` | 4274 |
-| `medium` | 8171 |
+| `medium` | 8204 |
 
 ### Relationships by reader scope
 
 | Value | Count |
 |-------|------:|
 | `candidate` | 1382 |
-| `contextual` | 7293 |
-| `primary` | 3770 |
+| `contextual` | 7300 |
+| `primary` | 3796 |
 
 ### Relationships by match method
 
@@ -83,7 +83,7 @@ Reader-included relationships by scope:
 | `case_provision_index:judicial_cases.jsonl:bco_provisions` | 66 |
 | `disposition_bco` | 153 |
 | `disposition_bco,title_subject` | 496 |
-| `index/inquiries_search.json:provisions` | 953 |
+| `index/inquiries_search.json:provisions` | 986 |
 | `index/rpr_search.json:provisions` | 6711 |
 | `overture_body_explicit_reference_match` | 931 |
 | `rpr_markdown_line:100` | 1 |
@@ -185,7 +185,7 @@ Reader-included relationships by scope:
 | `proposal_target` | 711 |
 | `structured_case_reference` | 844 |
 | `structured_exception_tag` | 6711 |
-| `structured_provision_tag` | 953 |
+| `structured_provision_tag` | 986 |
 
 ### Evidence occurrences by evidence basis
 
@@ -194,7 +194,7 @@ Reader-included relationships by scope:
 | `direct_text` | 6905 |
 | `overture_action_target` | 696 |
 | `structured_case_metadata` | 844 |
-| `structured_provision_tag` | 7664 |
+| `structured_provision_tag` | 7697 |
 | `title_subject_reference` | 15 |
 
 ### Evidence occurrences by match confidence
@@ -202,22 +202,22 @@ Reader-included relationships by scope:
 | Value | Count |
 |-------|------:|
 | `high` | 7616 |
-| `medium` | 8508 |
+| `medium` | 8541 |
 
 ### Evidence occurrences by reader scope
 
 | Value | Count |
 |-------|------:|
 | `candidate` | 2409 |
-| `contextual` | 7537 |
-| `primary` | 6178 |
+| `contextual` | 7544 |
+| `primary` | 6204 |
 
 ## Unmatched source references
 
 | Record type | Count |
 |-------------|------:|
 | CCB advice | 14 |
-| Constitutional inquiry | 3 |
+| Constitutional inquiry | 4 |
 | Judicial case | 16 |
 | Overture | 45 |
 | RPR exception | 19 |
@@ -235,22 +235,23 @@ Reader-included relationships by scope:
 | BCO 18-19 | RPR exception | `rpr_exception:rpr/exc/rio-grande__011.html` | `structured_provision_tag` | `medium` | `contextual` | [Rio Grande: No record of candidate coming under care, licensure or ordination exams, or internship.](../rpr/exc/rio-grande__011.html) |
 | BCO 18-19 | RPR exception | `rpr_exception:rpr/exc/rio-grande__027.html` | `structured_provision_tag` | `medium` | `contextual` | [Rio Grande: No record of candidate coming under care, licensure or ordination exams, or internship.](../rpr/exc/rio-grande__027.html) |
 | BCO 18-22 | RPR exception | `rpr_exception:rpr/exc/new-river__043.html` | `structured_provision_tag` | `medium` | `contextual` | [New River: No motion to receive men as candidates under care. Exception : October 25, 2014 ( BCO 13-7](../rpr/exc/new-river__043.html) |
-| BCO 21-12 | CCB advice | `ccb_advice:inquiries/ga52_2025__ci19.md` | `structured_provision_tag` | `medium` | `contextual` | [20-1](../inquiries/ga52_2025__ci19.md) |
+| BCO 21-12 | CCB advice | `ccb_advice:inquiries/ga52_2025__ci21.md` | `structured_provision_tag` | `medium` | `contextual` | [20-1, 21-1, 21-12, and 23-1 re the Calling and Dissolution of TE Relationships for Needful Work](../inquiries/ga52_2025__ci21.md) |
 | BCO 21-12 | Overture | `overture:ga52_2025:30` | `direct_text` | `high` | `candidate` | [Amend BCO 8-4, 20-1, 21-1, 21-12, and 23-1 re Calling and Dissolution of TE Relationships for Needful Works](../markdown/ga52_2025.md#ga52-p1254) |
 | BCO 21-14 | RPR exception | `rpr_exception:rpr/exc/korean-central__103.html` | `structured_provision_tag` | `medium` | `contextual` | [Korean Central: Stated difference not recorded in candidate’s own words.; not judged according to prescrib](../rpr/exc/korean-central__103.html) |
 | BCO 23-10 | RPR exception | `rpr_exception:rpr/exc/highlands__007.html` | `structured_provision_tag` | `medium` | `contextual` | [Highlands: No record that the Congregation/Session concurred with dissolution of pastoral relations.](../rpr/exc/highlands__007.html) |
 | BCO 23-10 | RPR exception | `rpr_exception:rpr/exc/highlands__013.html` | `structured_provision_tag` | `medium` | `contextual` | [Highlands: No record that the Congregation/Session concurred with dissolution of pastoral relations.](../rpr/exc/highlands__013.html) |
 | BCO 23-21 | Overture | `overture:ga51_2024:30` | `overture_action_target` | `high` | `candidate` | [Amend BCO 23-1 to Require Presbytery Exit Interview Before Dissolution of Call](../markdown/ga51_2024.md#ga51-p1190) |
 | BCO 23-7 | Overture | `overture:ga03_1975:5` | `overture_action_target` | `high` | `candidate` | [Amend BCO 23-7 to Require Presbytery Approval for Non-Ordained Pastoral Supply](../markdown/ga03_1975.md#ga03-p35) |
-| BCO 24-11 | CCB advice | `ccb_advice:inquiries/ga45_2017__ci02.md` | `structured_provision_tag` | `medium` | `contextual` | [Specifying that Only Males May Be Ordained](../inquiries/ga45_2017__ci02.md) |
+| BCO 24-11 | CCB advice | `ccb_advice:inquiries/ga45_2017__ci03.md` | `structured_provision_tag` | `medium` | `contextual` | [Specifying that Only Males May Be Ordained](../inquiries/ga45_2017__ci03.md) |
 | BCO 24-11 | CCB advice | `ccb_advice:inquiries/ga46_2018__ci04.md` | `structured_provision_tag` | `medium` | `contextual` | [The Roles and Description of Unordained Deaconesses and Deacon Assistants](../inquiries/ga46_2018__ci04.md) |
 | BCO 24-11 | Overture | `overture:ga45_2017:4` | `overture_action_target` | `high` | `candidate` | [Add BCO 24-11 Specifying Males Only May Be Ordained as Elders or Deacons](../markdown/ga45_2017.md#ga45-p651) |
 | BCO 24-11 | Overture | `overture:ga46_2018:9` | `overture_action_target` | `high` | `candidate` | [Amend BCO 9-7 and Add BCO 24-11 Regarding Women Serving as Deaconesses](../markdown/ga46_2018.md#ga46-p686) |
 | BCO 25-14 | Judicial case | `case:cases/ga52_2025__2023-12.md` | `direct_text` | `high` | `primary` | [Flatgard v. Metro Atlanta Presbytery](../cases/ga52_2025__2023-12.md) |
 | BCO 26-11 | Overture | `overture:ga08_1980:15` | `overture_action_target` | `high` | `primary` | [Add BCO 5-4 on calling pastors in new congregations](../markdown/ga08_1980.md#ga08-p40) |
 | BCO 26-11 | Overture | `overture:ga08_1980:8` | `overture_action_target` | `high` | `candidate` | [Amend BCO 26-11 on congregations withdrawing from the PCA](../markdown/ga08_1980.md#ga08-p40) |
+| BCO 26-7 | Constitutional inquiry | `inquiry:inquiries/ga07_1979__ci02.md` | `structured_provision_tag` | `medium` | `primary` | [Eligibility of a female communing member to serve as church trustee](../inquiries/ga07_1979__ci02.md) |
 | BCO 27-11 | Overture | `overture:ga14_1986:37` | `direct_text` | `high` | `candidate` | [Amend BCO 42-4 and 43-2 to Extend Appeal and Complaint Filing Period to Sixty Days](../markdown/ga14_1986.md#ga14-p55) |
-| BCO 27-37 | Constitutional inquiry | `inquiry:inquiries/ga12_1984__ci11.md` | `structured_provision_tag` | `medium` | `primary` | [Handling exceptions at ordination and distinctions between BCO and confessional exceptions](../inquiries/ga12_1984__ci11.md) |
+| BCO 27-37 | Constitutional inquiry | `inquiry:inquiries/ga12_1984__ci12.md` | `structured_provision_tag` | `medium` | `primary` | [Handling exceptions at ordination and distinctions between BCO and confessional exceptions](../inquiries/ga12_1984__ci12.md) |
 | BCO 27-37 | Judicial case | `case:cases/ga27_1999__1998-05.md` | `direct_text` | `high` | `primary` | [Long, et al. v. James River Presbytery](../cases/ga27_1999__1998-05.md) |
 | BCO 27-46 | Overture | `overture:ga51_2024:4` | `overture_action_target` | `high` | `candidate` | [Establish Study Committee to Review BCO 27-46 Judicial Rules](../markdown/ga51_2024.md#ga51-p1072) |
 | BCO 3-7 | Overture | `overture:ga16_1988:23` | `direct_text` | `high` | `candidate` | [Reject Proposed BCO Amendments on Restructuring Higher and Lower Court Relations](../markdown/ga16_1988.md#ga16-p61) |
@@ -263,7 +264,7 @@ Reader-included relationships by scope:
 | BCO 32-21 | Overture | `overture:ga41_2013:4` | `overture_action_target` | `high` | `candidate` | [Amend BCO 32 by Adding Section 32-21 on Supporting Reasons for Appeal](../markdown/ga41_2013.md#ga41-p92) |
 | BCO 32-30 | Judicial case | `case:cases/ga23_1995__1993-10.md` | `structured_case_metadata` | `medium` | `primary` | [Clark v. Southwest Presbytery](../cases/ga23_1995__1993-10.md) |
 | BCO 32-30 | Judicial case | `case:cases/ga23_1995__1993-12_1993-14.md` | `direct_text` | `high` | `primary` | [Grace RPC Session v. Heartland Presbytery](../cases/ga23_1995__1993-12_1993-14.md) |
-| BCO 33-5 | CCB advice | `ccb_advice:inquiries/ga52_2025__ci26.md` | `structured_provision_tag` | `medium` | `contextual` | [Process for elevating suspension from office to deposition](../inquiries/ga52_2025__ci26.md) |
+| BCO 33-5 | CCB advice | `ccb_advice:inquiries/ga52_2025__ci28.md` | `structured_provision_tag` | `medium` | `contextual` | [Amend BCO 34-8 and add BCO 33-5 to Clarify the Process for Elevating Suspension from Office to Deposition](../inquiries/ga52_2025__ci28.md) |
 | BCO 33-5 | Overture | `overture:ga52_2025:39` | `overture_action_target` | `high` | `candidate` | [Amend BCO 34-8 and Add BCO 33-5 to Clarify Process for Elevating Suspension to Deposition](../markdown/ga52_2025.md#ga52-p1280) |
 | BCO 38-31 | Overture | `overture:ga24_1996:6` | `direct_text` | `high` | `candidate` | [Amend BCO 46-5, 38-2, and 38-3 Regarding Church Discipline](../markdown/ga24_1996.md#ga24-p298) |
 | BCO 39-4 | Judicial case | `case:cases/ga41_2013__2012-05.md` | `direct_text` | `high` | `primary` | [Hedman v. Pacific Northwest Presbytery](../cases/ga41_2013__2012-05.md) |
@@ -274,7 +275,7 @@ Reader-included relationships by scope:
 | BCO 43-11 | CCB advice | `ccb_advice:inquiries/ga41_2013__ci03.md` | `structured_provision_tag` | `medium` | `contextual` | [Defining the Terms Used in BCO 43](../inquiries/ga41_2013__ci03.md) |
 | BCO 43-11 | Overture | `overture:ga41_2013:6` | `overture_action_target` | `high` | `candidate` | [Amend BCO 43 by Adding 43-11 to Define Terms in Chapter 43](../markdown/ga41_2013.md#ga41-p92) |
 | BCO 44-3 | Judicial case | `case:cases/ga14_1986__case7.md` | `direct_text` | `high` | `primary` | [Dye et al. v. Missouri Presbytery](../cases/ga14_1986__case7.md) |
-| BCO 45-6 | CCB advice | `ccb_advice:inquiries/ga25_1997__ci03.md` | `structured_provision_tag` | `medium` | `contextual` | [Perfecting amendment language for removing members from the roll](../inquiries/ga25_1997__ci03.md) |
+| BCO 45-6 | CCB advice | `ccb_advice:inquiries/ga25_1997__ci04.md` | `structured_provision_tag` | `medium` | `contextual` | [Perfecting amendment language for removing members from the roll](../inquiries/ga25_1997__ci04.md) |
 | BCO 46-51 | Overture | `overture:ga24_1996:6` | `direct_text` | `high` | `candidate` | [Amend BCO 46-5, 38-2, and 38-3 Regarding Church Discipline](../markdown/ga24_1996.md#ga24-p298) |
 | BCO 46-9 | Overture | `overture:ga21_1993:14` | `direct_text` | `high` | `candidate` | [Amend BCO 38-3 to Clarify Discipline of Members Joining Other Churches](../markdown/ga21_1993.md#ga21-p128) |
 | BCO 48-9 | Judicial case | `case:cases/ga24_1996__1995-01.md` | `direct_text` | `high` | `primary` | [David C. Lachman v. Philadelphia Presbytery](../cases/ga24_1996__1995-01.md) |
@@ -293,7 +294,7 @@ Reader-included relationships by scope:
 | BCO 57-7.5 | Overture | `overture:ga15_1987:24` | `direct_text` | `high` | `candidate` | [Adopt Mission Support Policy and Distribute It to Presbyteries](../markdown/ga15_1987.md#ga15-p66) |
 | BCO 57-7.5 | Overture | `overture:ga16_1988:24` | `direct_text` | `high` | `candidate` | [Prohibit GA Committees and Members from Using Hotels That Provide Pornographic Films](../markdown/ga16_1988.md#ga16-p71) |
 | BCO 6-416 | Overture | `overture:ga52_2025:22` | `direct_text` | `high` | `candidate` | [Amend BCO 20-3, 24-3, and 25-1 to Permit Congregational Minimum Voting Age](../markdown/ga52_2025.md#ga52-p1208) |
-| BCO 6-5 | CCB advice | `ccb_advice:inquiries/ga49_2022__ci23.md` | `structured_provision_tag` | `medium` | `contextual` | [20-3](../inquiries/ga49_2022__ci23.md) |
+| BCO 6-5 | CCB advice | `ccb_advice:inquiries/ga49_2022__ci23.md` | `structured_provision_tag` | `medium` | `contextual` | [20-3, 25-1, and 24-3, Allowing Congregations to Establish Voting Age Restrictions](../inquiries/ga49_2022__ci23.md) |
 | BCO 6-5 | Judicial case | `case:cases/ga50_2023__2022-20.md` | `direct_text` | `high` | `primary` | [Wilson et al. v. Pacific Northwest Presbytery](../cases/ga50_2023__2022-20.md) |
 | BCO 6-5 | Judicial case | `case:cases/ga51_2024__2023-11.md` | `direct_text` | `high` | `primary` | [Psiaki v. Pacific Northwest Presbytery](../cases/ga51_2024__2023-11.md) |
 | BCO 6-5 | Overture | `overture:ga12_1984:46` | `overture_action_target` | `high` | `candidate` | [Amend BCO 6-5, 20-3, 24-3, and 25-1 to Allow Congregations to Set a Minimum Voting Age](../markdown/ga12_1984.md#ga12-p61) |
@@ -309,11 +310,11 @@ Reader-included relationships by scope:
 | BCO 87 | RPR exception | `rpr_exception:rpr/exc/philadelphia-metro-west__021.html` | `structured_provision_tag` | `medium` | `contextual` | [Philadelphia Metro West: No indication given that TE laboring out of bounds has “full freedom to maintain and keep ](../rpr/exc/philadelphia-metro-west__021.html) |
 | BCO 9-8 | CCB advice | `ccb_advice:inquiries/ga38_2010__ci04.md` | `structured_provision_tag` | `medium` | `contextual` | [Unordained Men and Women Carrying Out Diaconal Ministry](../inquiries/ga38_2010__ci04.md) |
 | BCO 9-8 | Overture | `overture:ga38_2010:10` | `overture_action_target` | `high` | `candidate` | [Amend BCO 1-4, 4-2, 5-10, 7-2, 9-2, 9-7 and Add BCO 9-8 for Unordained Diaconal Ministry](../markdown/ga38_2010.md#ga38-p394) |
-| RAO 1-6 | CCB advice | `ccb_advice:inquiries/ga47_2019__ci12.md` | `structured_provision_tag` | `medium` | `contextual` | [Addition of RAO 1-6](../inquiries/ga47_2019__ci12.md) |
-| RAO 1-7 | CCB advice | `ccb_advice:inquiries/ga47_2019__ci12.md` | `structured_provision_tag` | `medium` | `contextual` | [Addition of RAO 1-6](../inquiries/ga47_2019__ci12.md) |
-| RAO 1-8 | CCB advice | `ccb_advice:inquiries/ga47_2019__ci12.md` | `structured_provision_tag` | `medium` | `contextual` | [Addition of RAO 1-6](../inquiries/ga47_2019__ci12.md) |
+| RAO 1-6 | CCB advice | `ccb_advice:inquiries/ga47_2019__ci12.md` | `structured_provision_tag` | `medium` | `contextual` | [Addition of RAO 1-6, 1-7, and 1-8, and Revision of RAO 2-1, 2-3](../inquiries/ga47_2019__ci12.md) |
+| RAO 1-7 | CCB advice | `ccb_advice:inquiries/ga47_2019__ci12.md` | `structured_provision_tag` | `medium` | `contextual` | [Addition of RAO 1-6, 1-7, and 1-8, and Revision of RAO 2-1, 2-3](../inquiries/ga47_2019__ci12.md) |
+| RAO 1-8 | CCB advice | `ccb_advice:inquiries/ga47_2019__ci12.md` | `structured_provision_tag` | `medium` | `contextual` | [Addition of RAO 1-6, 1-7, and 1-8, and Revision of RAO 2-1, 2-3](../inquiries/ga47_2019__ci12.md) |
 | RAO 10-14 | RPR exception | `rpr_exception:rpr/exc/grace__003.html` | `structured_provision_tag` | `medium` | `contextual` | [Grace: Page 152 is missing. (BCO § 13-10; RAO § 10-14)](../rpr/exc/grace__003.html) |
-| RAO 13-6 | CCB advice | `ccb_advice:inquiries/ga31_2003__ci10.md` | `structured_provision_tag` | `medium` | `contextual` | [Germane Amendments to Overtures and Resolutions by Overtures Committee](../inquiries/ga31_2003__ci10.md) |
+| RAO 13-6 | CCB advice | `ccb_advice:inquiries/ga31_2003__ci01.md` | `structured_provision_tag` | `medium` | `contextual` | [Germane Amendments to Overtures and Resolutions by Overtures Committee](../inquiries/ga31_2003__ci01.md) |
 | RAO 40-10h | RPR exception | `rpr_exception:rpr/exc/uliana__007.html` | `structured_provision_tag` | `medium` | `contextual` | [Uliana: Missing required directory, rolls, and standing rules. (RAO 40-10h).](../rpr/exc/uliana__007.html) |
 | RAO 82.b(2 | RPR exception | `rpr_exception:rpr/exc/highlands__018.html` | `structured_provision_tag` | `medium` | `contextual` | [Highlands: The SJC's injunction should have been followed.](../rpr/exc/highlands__018.html) |
 | WCF 10-18 | Judicial case | `case:cases/ga36_2008__2007-08.md` | `direct_text` | `high` | `primary` | [Jones v. Louisiana](../cases/ga36_2008__2007-08.md) |
@@ -366,7 +367,7 @@ Stored `unrelated_or_mislinked` advisory labels by record type:
 - Overture: 89
 - RPR exception: 118
 
-Assessment status: `stale`; applied 0, stale 11481, unassessed 12445.
+Assessment status: `stale`; applied 0, stale 11481, unassessed 12478.
 
 ## Coverage and spot checks
 
