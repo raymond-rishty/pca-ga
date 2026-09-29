@@ -348,6 +348,8 @@ def run_fast_preview(root: Path, site: Path, reader: Path,
     elif link_status:
         raise subprocess.CalledProcessError(link_status, link_command)
 
+    run([sys.executable, "scripts/46_minutes_page_markup.py", str(site)], root)
+
     if refresh_provision_cache:
         save_provision_pages(root, site, provision_fingerprint)
 
@@ -431,6 +433,7 @@ def main() -> int:
          *(str(reader / name) for name in ("bco.js", "wcf.js", "wlc.js", "wsc.js", "rao.js")),
          "--incremental-state", str(state), "--source-inventory", inventory,
          "--reset-state"], root)
+    run([python, "scripts/46_minutes_page_markup.py", str(site)], root)
     save_provision_pages(root, site, provision_fingerprint)
     run(["npx", "--yes", "pagefind@1.5.2", "--site", str(site)], root)
     in_progress.unlink()

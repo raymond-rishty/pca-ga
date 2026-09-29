@@ -517,75 +517,6 @@
     }, button);
   });
 
-  function decoratePageMarkers() {
-    const column = document.querySelector('.reading-col');
-    if (!column) return;
-    const walker = document.createTreeWalker(column, NodeFilter.SHOW_COMMENT);
-    const comments = [];
-    while (walker.nextNode()) comments.push(walker.currentNode);
-    comments.forEach((comment) => {
-      const match = comment.nodeValue.match(/\bPAGE\s+ga=(\d+)\s+pdf_page=(\d+)\s+printed_page=([^\s]+)(?:\s+printed_page_source=([^\s]+))?/i);
-      if (!match) return;
-      const [, ga, pdfPage, printedPage, printedSource] = match;
-      // Markdown renderers can put a standalone page comment and its empty
-      // deep-link anchor in a paragraph. Promote both as one page-break unit so
-      // the marker becomes a direct child of the reading column and can
-      // establish a sticky page boundary.
-      const parent = comment.parentElement;
-      const isEmptyPageAnchor = (node) => node.nodeType === Node.ELEMENT_NODE
-        && node.tagName === 'A'
-        && node.hasAttribute('id')
-        && !node.hasAttribute('href')
-        && !node.textContent.trim();
-      const isPageBreakParagraph = parent?.tagName === 'P'
-        && [...parent.childNodes].every((node) => node === comment
-          || (node.nodeType === Node.TEXT_NODE && !node.nodeValue.trim())
-          || isEmptyPageAnchor(node));
-      if (isPageBreakParagraph) {
-        const breakNodes = [...parent.childNodes]
-          .filter((node) => node === comment || isEmptyPageAnchor(node));
-        parent.before(...breakNodes);
-        parent.remove();
-      }
-      const printed = printedPage.toLowerCase() !== 'null';
-      const page = printed ? printedPage : pdfPage;
-      const meta = pageMeta(ga, page, { printed, printedSource });
-      meta.pdfPage = Number(pdfPage);
-      meta.printedPage = printed ? printedPage : null;
-      const marker = document.createElement('div');
-      marker.className = 'page-marker';
-      const anchor = printed ? `ga${ga}-p${page}` : `ga${ga}-pdf-p${page}`;
-      marker.id = anchor;
-      marker.innerHTML = `<a href="#${anchor}">${meta.short}</a><button type="button" class="page-marker__actions" aria-label="Actions for ${meta.short}">${ICONS.page()}<span>Page actions</span></button>`;
-      marker.querySelector('button').addEventListener('click', (event) => openPageActions(meta, event.currentTarget));
-      comment.replaceWith(marker);
-    });
-
-    // A page marker needs its own containing block for sticky positioning.  That
-    // lets the following marker naturally push it away at the next page break,
-    // rather than leaving every earlier page number pinned at the top of the
-    // entire minutes record.
-    const markers = [...column.children].filter((child) => child.classList.contains('page-marker'));
-    markers.forEach((marker) => {
-      const anchor = marker.previousElementSibling?.matches('a[id]')
-        ? marker.previousElementSibling
-        : null;
-      const page = document.createElement('div');
-      page.className = 'minutes-page';
-      (anchor || marker).before(page);
-      if (anchor) page.append(anchor);
-      page.append(marker);
-
-      let sibling = page.nextElementSibling;
-      while (sibling
-        && !sibling.classList.contains('page-marker')
-        && !(sibling.matches('a[id]') && sibling.nextElementSibling?.classList.contains('page-marker'))) {
-        const next = sibling.nextElementSibling;
-        page.append(sibling);
-        sibling = next;
-      }
-    });
-  }
 
   const DISPS = {
     sustained: 'sustained', 'not sustained': 'not-sustained', denied: 'denied', dismissed: 'dismissed',
@@ -1344,6 +1275,20 @@
     else apply();
   }
 
+  document.addEventListener('click', (event) => {
+    const button = event.target.closest?.('.page-marker__actions');
+    if (!button) return;
+    const marker = button.closest('.page-marker');
+    if (!marker) return;
+    const { ga, pdfPage, printedPage, printedSource } = marker.dataset;
+    const printed = printedPage.toLowerCase() !== 'null';
+    const page = printed ? printedPage : pdfPage;
+    const meta = pageMeta(ga, page, { printed, printedSource });
+    meta.pdfPage = Number(pdfPage);
+    meta.printedPage = printed ? printedPage : null;
+    openPageActions(meta, button);
+  });
+
   function renderBrowseRecent() {
     const section = document.getElementById('recentBrowse');
     const list = document.getElementById('recentBrowseList');
@@ -1363,7 +1308,6 @@
     } catch (_) { /* A dismissed share sheet is not an error state. */ }
   }));
 
-  decoratePageMarkers();
   enhanceCaseHeader();
   enhanceCollectionHeader();
   makeTablesResponsive();
