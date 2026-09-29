@@ -85,8 +85,19 @@ def main() -> int:
         r'[0-9]+(?:st|nd|rd|th)_pcaga_[0-9]{4}\.pdf"'
     )
     for path in volume_pages:
-        if not canonical_pdf.search(path.read_text(encoding="utf-8")):
+        volume_html = path.read_text(encoding="utf-8")
+        if not canonical_pdf.search(volume_html):
             raise SystemExit(f"Missing canonical source PDF link in {path.name}.")
+        page_comments = len(re.findall(r"<!--\s*PAGE\s+ga=", volume_html, re.I))
+        page_markers = len(re.findall(r'<div\b(?=[^>]*\bclass="[^"]*\bpage-marker\b)', volume_html, re.I))
+        page_wrappers = len(re.findall(r'<div\b(?=[^>]*\bclass="[^"]*\bminutes-page\b)', volume_html, re.I))
+        if (not page_comments or page_markers != page_comments
+                or not page_wrappers or page_wrappers > page_comments):
+            raise SystemExit(
+                f"Build-time Minutes page markup is incomplete in {path.name}: "
+                f"{page_comments} source markers, {page_markers} rendered markers, "
+                f"and {page_wrappers} page wrappers."
+            )
 
     # Linker outputs and markers must exist after the whole-site transform.
     for relative in (
