@@ -23,7 +23,7 @@
 | 1997 | Judicial case | explicit_citation | direct_text | high | [Edgemont Session v. Westminster Presbytery](../cases/ga25_1997__1995-07.md) | sustained |
 | 1994 | Judicial case | explicit_citation | direct_text | high | [William A. Conrad et al. v. Central Carolina Presbytery](../cases/ga22_1994__1993-09.md) | out_of_order |
 | — | Judicial case | explicit_citation | direct_text | high | [William A. Conrad et al. vs. Central Carolina Presbytery](../cases/ga23_1995__1994-04.md) |  |
-| 1998 | Constitutional inquiry | structured_provision_tag | structured_provision_tag | medium | [Whether presbytery may investigate before proceeding to trial](../inquiries/ga26_1998__ci01.md) | advice given — BCO 31-2 permits investigation before adjudication; amendments recommended |
+| 1998 | Constitutional inquiry | structured_provision_tag | structured_provision_tag | medium | [Whether presbytery may investigate before proceeding to trial](../inquiries/ga26_1998__ci03.md) | advice given — BCO 31-2 permits investigation before adjudication; amendments recommended |
 | 2024 | Overture | proposal_target | overture_action_target | high | [Amend BCO 31, 32, and 35 to Reform Judicial Process](../markdown/ga51_2024.md#ga51-p1122) | Answered in the negative |
 | 2025 | RPR exception | structured_exception_tag | structured_provision_tag | medium | [Chesapeake: ( BCO 32; BCO 31-2; BCO 34; BCO 38-1; RONR (12th ed) 48:14, 35:13) — Presbytery votes to "](../rpr/exc/chesapeake__026.html) | raised |
 

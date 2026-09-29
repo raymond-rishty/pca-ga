@@ -33,9 +33,13 @@ import json
 import os
 import re
 import subprocess
+import sys
 import unicodedata
 from dataclasses import dataclass
 from pathlib import Path
+
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+from inquiry_records import load_inquiry_records
 from typing import Any, Iterable
 
 
@@ -317,12 +321,11 @@ def locate_span(old_lines: list[str], old_pages: list[Page], new_lines: list[str
 
 
 def locate_inquiries(old_ref: str, window: int) -> dict[str, Any]:
-    path = ROOT / "index/inquiries_located.json"
-    data = read_json(path)
+    data = load_inquiry_records(ROOT)
     records: list[dict[str, Any]] = []
     cache: dict[str, tuple[list[str], list[Page], list[str], list[Page]]] = {}
-    for volume in data:
-        stem = volume.get("stem")
+    for record in data:
+        stem = record.get("stem")
         if not stem:
             continue
         def corpus() -> tuple[list[str], list[Page], list[str], list[Page]]:
@@ -332,18 +335,18 @@ def locate_inquiries(old_ref: str, window: int) -> dict[str, Any]:
                 cache[stem] = (old, parse_pages(old), new, parse_pages(new))
             return cache[stem]
         old_lines, old_pages, new_lines, new_pages = corpus()
-        for i, item in enumerate(volume.get("results", [])):
-            key = f"{stem}:{i}:{item.get('minute_para','')}:{item.get('topic','')}"
-            advice = locate_span(old_lines, old_pages, new_lines, new_pages,
-                                 item.get("advice_start"), item.get("advice_end"),
-                                 item.get("page_anchor"), window)
-            posed = locate_span(old_lines, old_pages, new_lines, new_pages,
-                                item.get("posed_start"), item.get("posed_end"),
-                                item.get("page_anchor"), window)
-            records.append({"key": key, "vol": stem, "minute_para": item.get("minute_para"),
-                            "topic": item.get("topic"), "old": {k: item.get(k) for k in
-                            ("advice_start", "advice_end", "posed_start", "posed_end", "page_anchor")},
-                            "advice": advice, "posed": posed})
+        item = record["locator"]
+        key = record["id"]
+        advice = locate_span(old_lines, old_pages, new_lines, new_pages,
+                             item.get("advice_start"), item.get("advice_end"),
+                             item.get("page_anchor"), window)
+        posed = locate_span(old_lines, old_pages, new_lines, new_pages,
+                            item.get("posed_start"), item.get("posed_end"),
+                            item.get("page_anchor"), window)
+        records.append({"key": key, "vol": stem, "minute_para": record.get("minute_para"),
+                        "topic": record.get("topic"), "old": {k: item.get(k) for k in
+                        ("advice_start", "advice_end", "posed_start", "posed_end", "page_anchor")},
+                        "advice": advice, "posed": posed})
     return {"schema": "pca.source_relocation.v1", "kind": "inquiries", "old_ref": old_ref,
             "page_window": window, "records": records}
 
@@ -421,11 +424,10 @@ def applyable(match: dict[str, Any]) -> bool:
 
 
 def apply_inquiries(proposal: dict[str, Any]) -> int:
-    path = ROOT / "index/inquiries_located.json"
-    data = read_json(path)
+    path = ROOT / "index/inquiries.jsonl"
+    data = load_inquiry_records(ROOT)
     changed = 0
-    by_key = {f"{v.get('stem')}:{i}:{x.get('minute_para','')}:{x.get('topic','')}": x
-              for v in data for i, x in enumerate(v.get("results", []))}
+    by_key = {row["id"]: row["locator"] for row in data}
     for rec in proposal["records"]:
         item = by_key.get(rec["key"])
         advice = rec.get("advice", {})
@@ -444,7 +446,8 @@ def apply_inquiries(proposal: dict[str, Any]) -> int:
         item["relocation"] = {"script": "46_relocate_sources.py", "old_ref": proposal["old_ref"],
                               "method": advice.get("method"), "score": advice.get("score")}
         changed += 1
-    write_json(path, data)
+    path.write_text("".join(json.dumps(row, ensure_ascii=False, separators=(",", ":")) + "\n"
+                                  for row in data), encoding="utf-8")
     return changed
 
 

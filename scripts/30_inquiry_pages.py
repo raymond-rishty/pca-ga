@@ -1,12 +1,8 @@
 #!/usr/bin/env python3
 """30_inquiry_pages.py — render the Constitutional Inquiry layer to markdown.
 
-Reads (from <ROOT>/index/):
-  - inquiries_roster.json   : Digest Part II roster — identity + the Digest's summary prose (headnote)
-  - inquiries_located.json  : per-GA verbatim line-ranges in the minutes (advice + posed; page anchors).
-    A record may also give a first-class `substantive` Q&A source and a separate
-    `assembly_action` locator when the appendix preserves the actual inquiry and
-    answer while the journal records only a later Assembly action.
+Reads canonical inquiry records from <ROOT>/index/inquiries.jsonl. Each JSONL
+row combines the Digest/headnote metadata with a stable ID and its source locator.
 
 Slices the verbatim record from <ROOT>/markdown/ and writes, mirroring CASES.md / cases/*:
   - <ROOT>/inquiries/<stem>__ci<NN>.md  : one page per inquiry (Digest headnote + verbatim record + deep-links)
@@ -23,11 +19,13 @@ import json, os, re, sys
 from pathlib import Path
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
-from source_links import (line_to_pdf_page, pdf_page_for_anchor, printed_page_for_anchor,
+from source_links import (pdf_page_for_anchor, printed_page_for_anchor,
                           source_entries_for_record, source_front_matter)
+from inquiry_records import load_inquiry_records
 
 ONLY_RELOCATED = "--only-relocated" in sys.argv[1:]
 SEARCH_FROM_CATALOGUES = "--search-index-from-catalogues" in sys.argv[1:]
+PAGES_ONLY = "--pages-only" in sys.argv[1:]
 ROOT_ARG = next((a for a in sys.argv[1:] if not a.startswith("--")), None)
 ROOT = ROOT_ARG if ROOT_ARG else os.environ.get(
     "PCA_GA_ROOT", os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
@@ -36,7 +34,7 @@ IDX = os.path.join(ROOT, "index")
 OUT = os.path.join(ROOT, "inquiries")
 
 _LOCATOR = re.compile(r"^\s*\d{4},\s*p\.\s*\d+[a-zA-Z]?,\s*\d+-\d+,?\s*[\w.]*\.?\s*")
-_md_lines_cache: dict[str, list[str]] = {}
+_md_text_cache: dict[str, str] = {}
 
 
 def refresh_search_index_from_catalogues() -> None:
@@ -125,22 +123,6 @@ def md_escape(s) -> str:
     return (s or "").replace("|", "\\|").replace("\n", " ").strip()
 
 
-def md_lines(stem: str) -> list[str]:
-    if stem not in _md_lines_cache:
-        p = os.path.join(MD, stem + ".md")
-        _md_lines_cache[stem] = open(p, encoding="utf-8").read().split("\n") if os.path.exists(p) else []
-    return _md_lines_cache[stem]
-
-
-def slice_md(stem: str, a, b) -> str:
-    """1-based inclusive slice of a volume's markdown."""
-    if not (a and b):
-        return ""
-    lines = md_lines(stem)
-    a = max(1, int(a)); b = min(len(lines), int(b))
-    return "\n".join(lines[a - 1:b]).strip()
-
-
 def token_spans(text: str, marker: str) -> list[tuple[int, int]]:
     """Find a marker by its ordered words, independent of OCR line wrapping."""
     words = [m.group(0).casefold() for m in re.finditer(r"[\w]+", marker, re.UNICODE)]
@@ -156,42 +138,76 @@ def token_spans(text: str, marker: str) -> list[tuple[int, int]]:
     return hits
 
 
+def md_text(stem: str) -> str:
+    """Read a minutes volume without normalizing OCR whitespace or page markers."""
+    if stem not in _md_text_cache:
+        p = os.path.join(MD, stem + ".md")
+        _md_text_cache[stem] = open(p, encoding="utf-8").read() if os.path.exists(p) else ""
+    return _md_text_cache[stem]
+
+
 def slice_text_locator(stem: str, locator: dict) -> str:
-    """Resolve a stable source excerpt using text markers and a minutes page anchor."""
-    text = "\n".join(md_lines(stem))
-    starts = token_spans(text, locator.get("start_text", ""))
-    anchor = (locator.get("page_anchor") or "").strip()
-    if anchor:
-        anchor_pos = text.find(f'id="{anchor}"')
-        if anchor_pos < 0:
+    """Resolve phrase-bounded source text, including spans crossing PDF pages.
+
+    New locators put a physical-page anchor and unique phrase on each boundary.
+    The older flat shape remains readable during migration. Matching uses word
+    sequences, so OCR line wrapping and whitespace changes do not matter.
+    """
+    text = md_text(stem)
+    page_anchors = list(re.finditer(r'<a\s+id="(ga\d+-p[^"]+)"\s*></a>', text))
+    pages: dict[str, tuple[int, int]] = {}
+    for index, anchor_match in enumerate(page_anchors):
+        end = page_anchors[index + 1].start() if index + 1 < len(page_anchors) else len(text)
+        key = anchor_match.group(1)
+        if key in pages:
+            pages[key] = (-1, -1)
+        else:
+            pages[key] = (anchor_match.end(), end)
+
+    start_boundary = locator.get("start")
+    end_boundary = locator.get("end")
+    if not isinstance(start_boundary, dict) or not isinstance(end_boundary, dict):
+        anchor = (locator.get("page_anchor") or "").strip()
+        end_after, end_before = locator.get("end_after"), locator.get("end_before")
+        if not anchor or bool(end_after) == bool(end_before):
             return ""
-        starts = [span for span in starts if span[0] > anchor_pos]
-    if len(starts) != 1:
+        start_boundary = {"page_anchor": anchor, "text": locator.get("start_text", "")}
+        end_boundary = {"page_anchor": anchor,
+                        "text": end_after or end_before,
+                        "inclusive": bool(end_after)}
+
+    start_anchor = (start_boundary.get("page_anchor") or "").strip()
+    end_anchor = (end_boundary.get("page_anchor") or "").strip()
+    if start_anchor not in pages or end_anchor not in pages:
         return ""
-    start, after_start = starts[0]
-    end_after = locator.get("end_after")
-    end_before = locator.get("end_before")
-    if end_after:
-        ends = [span for span in token_spans(text, end_after) if span[0] >= after_start]
-        if not ends:
-            return ""
-        end = ends[0][1]
-        while end < len(text) and text[end] in ".,;:!?\u2019\u201d'\")":
-            end += 1
-    elif end_before:
-        ends = [span for span in token_spans(text, end_before) if span[0] >= after_start]
-        if not ends:
-            return ""
-        end = ends[0][0]
+    start_page_start, start_page_end = pages[start_anchor]
+    end_page_start, end_page_end = pages[end_anchor]
+    if min(start_page_start, start_page_end, end_page_start, end_page_end) < 0:
+        return ""
+    start_page_text = text[start_page_start:start_page_end]
+    end_page_text = text[end_page_start:end_page_end]
+    starts = token_spans(start_page_text, start_boundary.get("text", ""))
+    ends = token_spans(end_page_text, end_boundary.get("text", ""))
+    if len(starts) != 1 or len(ends) != 1:
+        return ""
+    start = start_page_start + starts[0][0]
+    end = end_page_start + ends[0][1]
+    if start > end:
+        return ""
+    if not end_boundary.get("inclusive", True):
+        end = end_page_start + ends[0][0]
     else:
-        end = after_start
-    return text[start:end].strip()
-
-
-def slice_source(stem: str, a, b, locator: dict | None = None) -> str:
-    if locator:
-        return slice_text_locator(stem, locator)
-    return slice_md(stem, a, b)
+        while end < end_page_end and text[end] in ".,;:!?\u2019\u201d'\")":
+            end += 1
+    if end <= start:
+        return ""
+    result = text[start:end]
+    if not end_boundary.get("inclusive", True):
+        # An exclusive boundary can point at the first words of the next
+        # lettered report item. Avoid leaving its Markdown bullet prefix in
+        # the preceding item's extracted text.
+        result = re.sub(r"\s*-\s*\*\*[^*]*\*\*\s*$", "", result)
+    return result.strip()
 
 
 def clean_summary(s: str) -> str:
@@ -244,69 +260,30 @@ def deeplink(stem: str, anchor: str, printed=None) -> str:
     return f"[{label}](../markdown/{stem}.md{frag})"
 
 
-def source_fields(source: dict, fallback: dict) -> tuple:
-    """Return a source span, retaining the legacy locator as a fallback.
-
-    `substantive` is intentionally a source *role*, rather than a page override:
-    it is the Q&A that readers are researching.  `assembly_action`, if present,
-    remains a separately rendered, secondary citation.
-    """
-    return (
-        source.get("start", fallback.get("advice_start")),
-        source.get("end", fallback.get("advice_end")),
-        source.get("page_anchor", fallback.get("page_anchor", "")),
-        source.get("printed_page", fallback.get("printed_page")),
-    )
-
-
 def main():
     if SEARCH_FROM_CATALOGUES:
         refresh_search_index_from_catalogues()
         return
 
-    roster = json.load(open(os.path.join(IDX, "inquiries_roster.json")))
-    located = json.load(open(os.path.join(IDX, "inquiries_located.json")))
+    records = load_inquiry_records(Path(ROOT))
 
-    # Digest topics are not unique: the same provision can appear in several
-    # inquiries at one Assembly. Match the inquiry number as well as the topic
-    # so one inquiry cannot inherit another inquiry's headnote or provenance.
-    def norm_mp(s):
-        return (s or "").split(",")[0].strip()
-
-    def inquiry_number(value):
-        match = re.search(r"(?:CI|constitutional\s+inquiry|inquiry)\s*#?\s*(\d+)",
-                          value or "", re.I)
-        return int(match.group(1)) if match else None
-
-    def roster_match(result, ordinal_number):
-        candidates = [e for e in roster
-                      if e.get("ga_ordinal") == ordinal_number
-                      and norm_mp(e.get("minute_para")) == norm_mp(result.get("minute_para"))]
-        ci = inquiry_number(result.get("inquiry_number"))
-        if ci is not None:
-            candidates = [e for e in candidates
-                          if inquiry_number(e.get("summary") or e.get("synopsis")) == ci]
-        topic = (result.get("topic") or "").strip().casefold()
-        if topic:
-            exact = [e for e in candidates if (e.get("topic") or "").strip().casefold() == topic]
-            if exact:
-                candidates = exact
-            else:
-                # Roster topic labels sometimes include a category prefix while
-                # provisions carry the canonical code used by located records.
-                provision_matches = [e for e in candidates
-                                     if any((p or "").strip().casefold() == topic
-                                            for p in e.get("provisions", []))]
-                candidates = provision_matches
-        return candidates[0] if len(candidates) == 1 else {}
-
-    # group located results into one page per distinct verbatim passage (ord, advice_start, advice_end)
+    # Group canonical records into one page per distinct verbatim passage.
     groups: dict = {}
-    for g in located:
-        for r in g["results"]:
-            key = (g["ga_ordinal"], r.get("advice_start"), r.get("advice_end"))
-            grp = groups.setdefault(key, {"ord": g["ga_ordinal"], "stem": g["stem"], "results": []})
-            grp["results"].append(r)
+    for record_index, record in enumerate(records):
+        r = {**record["locator"], "_record": record}
+        # Group only records that share the same stable source locator. Legacy line
+        # offsets can drift after re-OCR and must not determine record identity.
+        stable_locator = (r.get("advice_locator")
+                          or (r.get("substantive") or {}).get("locator")
+                          or r.get("posed_locator"))
+        if stable_locator:
+            locator_key = json.dumps(stable_locator, ensure_ascii=False, sort_keys=True)
+        else:
+            locator_key = record["id"]
+        key = (record["ga_ordinal"], locator_key)
+        grp = groups.setdefault(key, {"ord": record["ga_ordinal"], "stem": record["stem"],
+                                      "first_record_index": record_index, "results": []})
+        grp["results"].append(r)
 
     os.makedirs(OUT, exist_ok=True)
     if not ONLY_RELOCATED:
@@ -319,17 +296,13 @@ def main():
     search_rows = []              # compact export for the search app
     n_pages = 0
 
-    for key in sorted(groups, key=lambda k: (k[0], k[1] or 0)):
-        grp = groups[key]
+    for key, grp in sorted(groups.items(), key=lambda item: item[1]["first_record_index"]):
         ordn, stem, results = grp["ord"], grp["stem"], grp["results"]
         n = per_vol.get(stem, 0) + 1
         per_vol[stem] = n
         if ONLY_RELOCATED and not any(r.get("relocation") for r in results):
             continue
-        rents = []
-        for r in results:
-            e = roster_match(r, ordn)
-            rents.append((r, e))
+        rents = [(r, r["_record"]) for r in results]
         r0, e0 = rents[0]
 
         topics = [e.get("topic") for _, e in rents if e.get("topic")]
@@ -356,14 +329,15 @@ def main():
             anchor = f"ga{int(ma.group(1)):02d}-p{ma.group(2)}"
         sect = e0.get("ccb_section", "")
 
-        a, b = r0.get("advice_start"), r0.get("advice_end")
         substantive = r0.get("substantive")
         action = r0.get("assembly_action")
-        primary_start, primary_end, primary_anchor, primary_printed = source_fields(
-            substantive or {}, r0
-        )
         substantive_locator = (substantive or {}).get("locator")
+        primary_locator = (substantive_locator or r0.get("advice_locator")
+                           or r0.get("posed_locator"))
+        primary_anchor = ((primary_locator or {}).get("start") or {}).get("page_anchor", "")
         primary_anchor = (primary_anchor or "").strip()
+        primary_printed = ((substantive or {}).get("printed_page")
+                           if substantive_locator else None)
         ma = re.match(r"ga(\d+)-p(.+)$", primary_anchor)
         if ma:
             primary_anchor = f"ga{int(ma.group(1)):02d}-p{ma.group(2)}"
@@ -379,16 +353,15 @@ def main():
 
         slug = f"{stem}__ci{n:02d}"
 
-        body = slice_source(stem, a, b, r0.get("advice_locator")) or "_(verbatim passage not located in this volume)_"
-        substantive_body = (slice_source(stem, primary_start, primary_end, substantive_locator)
-                            if substantive else "")
-        action_body = (slice_source(stem, action.get("start"), action.get("end"),
-                                    action.get("locator"))
-                       if action else "")
+        body = (slice_text_locator(stem, r0["advice_locator"])
+                if r0.get("advice_locator") else "")
+        substantive_body = (slice_text_locator(stem, substantive_locator)
+                            if substantive and substantive_locator else "")
+        action_body = (slice_text_locator(stem, action["locator"])
+                       if action and action.get("locator") else "")
         posed = ""
-        if r0.get("posed_locator") or (r0.get("posed_start") and r0.get("posed_end")):
-            posed = slice_source(stem, r0.get("posed_start"), r0.get("posed_end"),
-                                 r0.get("posed_locator"))
+        if r0.get("posed_locator"):
+            posed = slice_text_locator(stem, r0["posed_locator"])
         ratified_only = (r0.get("answer_in_volume") is False)
 
         # ---- page ----
@@ -399,19 +372,16 @@ def main():
         if disp:
             hdr.append("**Disposition:** " + md_escape(disp))
         srcline = (f"*Source: {deeplink(stem, primary_anchor)}*"
-                   if primary_anchor else f"*Source: {stem}*")
+                   if primary_anchor else f"*Source volume: {stem} (passage not yet verified)*")
+        verbatim_verified = bool(substantive_body or body or posed)
 
         source_page = r0.get("source_pdf_page")
         if source_page is not None:
             source_page = int(source_page)
         else:
             source_page = pdf_page_for_anchor(Path(ROOT), stem, primary_anchor) if primary_anchor else None
-            if source_page is None and primary_start:
-                source_page = line_to_pdf_page(Path(ROOT), stem, int(primary_start))
-        if source_page is None and a:
-            source_page = line_to_pdf_page(Path(ROOT), stem, int(a))
         source_meta = source_front_matter(source_entries_for_record(
-            Path(ROOT), "inquiry", f"{stem}:{n}", stem, source_page
+            Path(ROOT), "inquiry", e0["id"], stem, source_page
         ))
         page = source_meta + [f"# {label} — {subj}", ""]
         if synopsis:
@@ -420,8 +390,10 @@ def main():
         if summaries:
             page += ["## Digest headnote",
                      "*Editorial summary from the PCA Digest, Part II (Interpretations of the Constitution) — "
-                     "this is the Digest's wording, not the verbatim minutes. The authoritative text is the "
-                     "verbatim record below / linked above.*", ""]
+                     + ("this is the Digest's wording, not the verbatim minutes. The authoritative text is "
+                        "the verbatim record below / linked above.*" if verbatim_verified else
+                        "this is the Digest's wording, not the verbatim minutes. The primary source passage "
+                        "still needs verification.*"), ""]
             if len(summaries) == 1:
                 page += [summaries[0], ""]
             else:
@@ -430,7 +402,9 @@ def main():
                 page += ["**Key words:** " + ", ".join(provs), ""]
             if source:
                 page += ["**Inquiry from:** " + md_escape(source), ""]
-            page += ["**In the minutes:** " + deeplink(stem, primary_anchor, primary_printed), "", "---", ""]
+            page += ["**In the minutes:** " + (deeplink(stem, primary_anchor, primary_printed)
+                                                if primary_anchor else "_(source passage not yet verified)_"),
+                     "", "---", ""]
         page += ["## Verbatim record", ""]
         if ratified_only:
             page += ["*The General Assembly ratified this advice by reference; the substantive answer "
@@ -439,9 +413,10 @@ def main():
         if substantive:
             page += ["### Question and answer", "", substantive_body, ""]
         elif posed:
-            page += ["### As referred / posed", "", posed, "", "### CCB advice", "", body, ""]
+            page += ["### As referred / posed", "", posed, "", "### CCB advice", "",
+                     body or "_(CCB advice has no verified phrase locator yet; legacy line offsets are retained for audit.)_", ""]
         else:
-            page += [body, ""]
+            page += [body or "_(Verbatim source passage has no verified phrase locator yet; legacy line offsets are retained for audit.)_", ""]
         if action:
             action_anchor = (action.get("page_anchor") or "").strip()
             ma = re.match(r"ga(\d+)-p(.+)$", action_anchor)
@@ -449,8 +424,8 @@ def main():
                 action_anchor = f"ga{int(ma.group(1)):02d}-p{ma.group(2)}"
             page += ["## Assembly action", "",
                      "The General Assembly's later action is preserved separately from the substantive Q&A: "
-                     + deeplink(stem, action_anchor, action.get("printed_page")), "",
-                     action_body, ""]
+                     + (deeplink(stem, action_anchor, action.get("printed_page")) if action_anchor else stem), "",
+                     action_body or "_(Assembly action has no verified phrase locator yet.)_", ""]
         is_inq = (mtype == "Constitutional inquiry")
         back = ("[← Constitutional inquiry index](../index/INQUIRIES.md)" if is_inq
                 else "[← Overture/amendment advice index](../index/CCB-OVERTURE-ADVICE.md)")
@@ -458,9 +433,11 @@ def main():
         open(os.path.join(OUT, slug + ".md"), "w", encoding="utf-8").write("\n".join(page) + "\n")
         n_pages += 1
 
+        minutes_link = (deeplink(stem, primary_anchor, primary_printed)
+                        if primary_anchor else "_(source passage not yet verified)_")
         row = (f"| {md_escape(label)} | [{md_escape(subj)}](../inquiries/{slug}.md) | "
                f"{md_escape(synopsis)} | {md_escape(', '.join(provs))} | {md_escape(disp)} | "
-               f"{md_escape(source)} | {deeplink(stem, primary_anchor, primary_printed)} |")
+               f"{md_escape(source)} | {minutes_link} |")
         (inq_rows if is_inq else adv_rows).setdefault(ordn, []).append((year, stem, row))
         search_rows.append({"type": "inquiry" if is_inq else "ccb-advice",
                             "title": subj, "sub": synopsis or "", "provisions": provs,
@@ -471,7 +448,8 @@ def main():
         print(f"[{ROOT}] refreshed {n_pages} relocated inquiry pages; left catalogues and other pages untouched")
         return
 
-    _json.dump(search_rows, open(os.path.join(IDX, "inquiries_search.json"), "w"), ensure_ascii=False)
+    if not PAGES_ONLY:
+        _json.dump(search_rows, open(os.path.join(IDX, "inquiries_search.json"), "w"), ensure_ascii=False)
 
     common = ("Each entry pairs a **Digest-level headnote** (the PCA Digest's editorial summary, Part II) "
               "with the **verbatim record** sliced from the minutes; the **Minutes** column deep-links to "

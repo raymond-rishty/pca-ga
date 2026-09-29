@@ -4,6 +4,7 @@
 
 | Year | Record type | Relationship | Evidence | Confidence | Title | Disposition |
 |------|-------------|--------------|----------|------------|-------|-------------|
+| 1986 | Constitutional inquiry | structured_provision_tag | structured_provision_tag | medium | [Constitutionality of transferring communing members to non-communicant roll](../inquiries/ga14_1986__ci09.md) | advice given |
 | 1985 | Overture | explicit_citation | direct_text | high | [Rescind Exception to Eastern Canada Presbytery Minutes Regarding Sacrament Administration](../markdown/ga13_1985.md#ga13-p52) | Referred |
 
 ---

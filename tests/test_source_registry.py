@@ -45,12 +45,7 @@ class SourceRegistryTests(unittest.TestCase):
         self.assertTrue(inventory_ids <= source_ids)
         expected_coverage = {
             "cases": jsonl_count(ROOT / "index" / "cases.jsonl"),
-            "inquiries": sum(
-                len(group.get("results", []))
-                for group in module.inquiry_groups(
-                    json.loads((ROOT / "index" / "inquiries_located.json").read_text(encoding="utf-8"))
-                )
-            ),
+            "inquiries": jsonl_count(ROOT / "index" / "inquiries.jsonl"),
             "overtures": jsonl_count(ROOT / "index" / "overture_bodies.jsonl"),
             "rpr": sum(
                 len(json.loads(path.read_text(encoding="utf-8")))
@@ -72,6 +67,10 @@ class SourceRegistryTests(unittest.TestCase):
         for record_id, refs in self.registry["record_sources"].items():
             self.assertTrue(refs, record_id)
             self.assertTrue(set(refs) <= source_set, record_id)
+        inquiries = module.load_inquiries(ROOT / "index" / "inquiries.jsonl")
+        self.assertEqual(len(inquiries), len({row["id"] for row in inquiries}))
+        for row in inquiries:
+            self.assertIn(f"inquiry:{row['id']}", self.registry["record_sources"])
 
     def test_external_pdf_inventory_is_explicit_about_nonvendored_binaries(self) -> None:
         for source in self.inventory["sources"]:

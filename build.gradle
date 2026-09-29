@@ -57,11 +57,18 @@ def registerCommand = { String taskName, List<String> command, Collection inputF
     }
 }
 
-def sourceRegistryInputs = fileTree('index') {
-    exclude 'source_registry.json', 'dedicated_pdf_inventory.json'
-}
+def sourceRegistryInputs = files(
+    file('index/cases.jsonl'), file('index/sjc_official/roster.jsonl'),
+    file('index/inquiries.jsonl'), file('index/studies_pages.json'),
+    file('index/studies_pdf_manifest.json'), file('index/studies_pcahistory.json'),
+    file('index/overture_bodies.jsonl'), fileTree('index/rpr') { include 'ga*.json' }
+)
 def provisionCatalogueInputs = fileTree('index') {
-    exclude 'provision_catalogue.json', 'OVERTURES.md', 'overture_catalogue_corrections.jsonl'
+    exclude 'provision_catalogue.json', 'OVERTURES.md', 'overture_catalogue_corrections.jsonl',
+        'source_registry.json', 'dedicated_pdf_inventory.json'
+}
+def searchIndexInputs = fileTree('index') {
+    exclude 'source_registry.json', 'dedicated_pdf_inventory.json'
 }
 def judicialCatalogueInputs = files(file('index/judicial_cases.jsonl'), file('index/cases.jsonl'))
 def searchIndexOutputs = fileTree('app') {
@@ -128,6 +135,13 @@ def inquirySearchIndex = registerCommand(
     [file('index/inquiries_search.json')], true
 )
 
+def inquiryPages = registerCommand(
+    'generateInquiryPages', [pythonCommand, 'scripts/30_inquiry_pages.py', '.', '--pages-only'],
+    [generatorScripts, file('index/inquiries.jsonl'), fileTree('markdown'), file('index/source_registry.json')],
+    [fileTree('inquiries'), file('index/INQUIRIES.md'), file('index/CCB-OVERTURE-ADVICE.md')], true
+)
+inquirySearchIndex.configure { dependsOn inquiryPages }
+
 def provisionCatalogue = registerCommand(
     'generateProvisionCatalogue',
     [pythonCommand, 'scripts/build_provision_catalogue.py', '.', constitutionContent.absolutePath],
@@ -154,7 +168,7 @@ authorityIndexAudit.configure { dependsOn authorityIndex }
 
 def searchIndex = registerCommand(
     'rebuildSearchIndex', [pythonCommand, 'scripts/35_search_index.py', '.'],
-    [generatorScripts, fileTree('index'), fileTree('cases'), fileTree('inquiries'),
+    [generatorScripts, searchIndexInputs, fileTree('cases'), fileTree('inquiries'),
      fileTree('overtures'), fileTree('rpr'), fileTree('studies')],
     [searchIndexOutputs], true
 )
@@ -202,19 +216,17 @@ testMinutesMetadata.configure { dependsOn validateMinutes }
 
 def buildSourceRegistry = registerCommand(
     'buildSourceRegistry', [pythonCommand, 'scripts/build_source_registry.py', '.', '--write'],
-    [generatorScripts, sourceRegistryInputs, fileTree('cases'), fileTree('inquiries'),
-     fileTree('overtures'), fileTree('rpr'), fileTree('studies')],
+    [generatorScripts, sourceRegistryInputs],
     [file('index/source_registry.json'), file('index/dedicated_pdf_inventory.json')], true
 )
-buildSourceRegistry.configure { dependsOn testMinutesMetadata }
+inquiryPages.configure { dependsOn buildSourceRegistry }
 
 // Keep the quick local preview data-current without running the full validation
 // chain on every edit. Output-bearing generators in this graph are up-to-date
 // when their actual inputs have not changed.
 def refreshSiteSourceRegistry = registerCommand(
     'refreshSiteSourceRegistry', [pythonCommand, 'scripts/build_source_registry.py', '.', '--write'],
-    [generatorScripts, sourceRegistryInputs, fileTree('cases'), fileTree('inquiries'),
-     fileTree('overtures'), fileTree('rpr'), fileTree('studies')],
+    [generatorScripts, sourceRegistryInputs],
     [file('index/source_registry.json'), file('index/dedicated_pdf_inventory.json')], true
 )
 refreshSiteSourceRegistry.configure { dependsOn 'generateBcoManifests' }
@@ -231,35 +243,35 @@ tasks.register('preparePreviewData') {
 
 def validateSourceRegistry = registerCommand(
     'validateSourceRegistry', [pythonCommand, 'scripts/build_source_registry.py', '.', '--check'],
-    [generatorScripts, sourceRegistryInputs, fileTree('cases'), fileTree('inquiries'),
-     fileTree('overtures'), fileTree('rpr'), fileTree('studies')]
+    [generatorScripts, sourceRegistryInputs, file('index/source_registry.json'),
+     file('index/dedicated_pdf_inventory.json')]
 )
 validateSourceRegistry.configure { dependsOn buildSourceRegistry }
 
 def testExtractedPdfMetadata = registerCommand(
     'testExtractedSourcePdfMetadata', [pythonCommand, 'tests/test_extracted_source_pdf_metadata.py'],
-    [generatorScripts, fileTree('tests'), fileTree('index'), fileTree('cases'), fileTree('inquiries'),
-     fileTree('overtures'), fileTree('rpr'), fileTree('studies')]
+    [generatorScripts, fileTree('tests')]
 )
 testExtractedPdfMetadata.configure { dependsOn validateSourceRegistry }
 
 def testSourceRegistry = registerCommand(
     'testSourceRegistry', [pythonCommand, 'tests/test_source_registry.py'],
-    [generatorScripts, fileTree('tests'), fileTree('index'), fileTree('cases'), fileTree('inquiries'),
-     fileTree('overtures'), fileTree('rpr'), fileTree('studies')]
+    [generatorScripts, fileTree('tests'), sourceRegistryInputs,
+     file('index/source_registry.json'), file('index/dedicated_pdf_inventory.json')]
 )
 testSourceRegistry.configure { dependsOn testExtractedPdfMetadata }
 
 def testProvisionResearch = registerCommand(
     'testProvisionResearch', [pythonCommand, 'tests/test_provision_research.py'],
-    [generatorScripts, fileTree('tests'), fileTree('index'), fileTree('scripts')]
+    [generatorScripts, file('tests/test_provision_research.py')]
 )
 testProvisionResearch.configure { dependsOn testSourceRegistry }
 
 def testProvisionCatalogue = registerCommand(
     'testProvisionCatalogue', [pythonCommand, 'tests/test_provision_catalogue.py'],
-    [generatorScripts, fileTree('tests'), fileTree('index'), fileTree('cases'), fileTree('inquiries'),
-     fileTree('overtures'), fileTree('rpr'), fileTree('studies'), fileTree(constitutionContent)]
+    [generatorScripts, file('tests/test_provision_catalogue.py'),
+     file('cases/ga37_2009__2007-13.md'), file('rpr/exc/arizona__018.md'),
+     file('rpr/exc/korean-central__121.md')]
 )
 testProvisionCatalogue.configure { dependsOn testProvisionResearch }
 
@@ -278,6 +290,7 @@ def nodeRegression = registerCommand(
     [fileTree('tests'), fileTree('app'), fileTree('assets')]
 )
 nodeRegression.configure { dependsOn testAuthorityIndexFeedback }
+nodeRegression.configure { dependsOn searchIndex }
 
 def addExtractedMetadata = registerCommand(
     'addExtractedSourcePdfMetadata', [pythonCommand, 'scripts/add_extracted_source_pdf_metadata.py', '.'],

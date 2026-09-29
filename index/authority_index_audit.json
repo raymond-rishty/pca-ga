@@ -1,10 +1,10 @@
 {
  "schema_version": 2,
- "catalogue_input_fingerprint": "625890316ac3113360e815860dce45377b01202b3b8414d21cf0bebd24bed015",
+ "catalogue_input_fingerprint": "eceff8c84a5b7f70debf7cbb5531b3e0cce57ed4639f4836ade63a5de962e5d7",
  "provision_count": 1172,
- "relationship_count": 12445,
- "occurrence_count": 16124,
- "unmatched_relationship_count": 97,
+ "relationship_count": 12478,
+ "occurrence_count": 16157,
+ "unmatched_relationship_count": 98,
  "unmatched_relationships": [
   {
    "provision": "BCO 10-18",
@@ -152,11 +152,11 @@
   {
    "provision": "BCO 21-12",
    "record_type": "CCB advice",
-   "record_id": "ccb_advice:inquiries/ga52_2025__ci19.md",
-   "title": "20-1",
+   "record_id": "ccb_advice:inquiries/ga52_2025__ci21.md",
+   "title": "20-1, 21-1, 21-12, and 23-1 re the Calling and Dissolution of TE Relationships for Needful Work",
    "year": 2025,
    "disposition": "in conflict (and ambiguous); Adopted 8-0-0",
-   "url": "inquiries/ga52_2025__ci19.md",
+   "url": "inquiries/ga52_2025__ci21.md",
    "evidence_basis": "structured_provision_tag",
    "relationship_kind": "structured_provision_tag",
    "match_confidence": "medium",
@@ -243,11 +243,11 @@
   {
    "provision": "BCO 24-11",
    "record_type": "CCB advice",
-   "record_id": "ccb_advice:inquiries/ga45_2017__ci02.md",
+   "record_id": "ccb_advice:inquiries/ga45_2017__ci03.md",
    "title": "Specifying that Only Males May Be Ordained",
    "year": 2017,
    "disposition": "in conflict",
-   "url": "inquiries/ga45_2017__ci02.md",
+   "url": "inquiries/ga45_2017__ci03.md",
    "evidence_basis": "structured_provision_tag",
    "relationship_kind": "structured_provision_tag",
    "match_confidence": "medium",
@@ -332,6 +332,19 @@
    "reader_scope": "candidate"
   },
   {
+   "provision": "BCO 26-7",
+   "record_type": "Constitutional inquiry",
+   "record_id": "inquiry:inquiries/ga07_1979__ci02.md",
+   "title": "Eligibility of a female communing member to serve as church trustee",
+   "year": 1979,
+   "disposition": "advice given",
+   "url": "inquiries/ga07_1979__ci02.md",
+   "evidence_basis": "structured_provision_tag",
+   "relationship_kind": "structured_provision_tag",
+   "match_confidence": "medium",
+   "reader_scope": "primary"
+  },
+  {
    "provision": "BCO 27-11",
    "record_type": "Overture",
    "record_id": "overture:ga14_1986:37",
@@ -347,11 +360,11 @@
   {
    "provision": "BCO 27-37",
    "record_type": "Constitutional inquiry",
-   "record_id": "inquiry:inquiries/ga12_1984__ci11.md",
+   "record_id": "inquiry:inquiries/ga12_1984__ci12.md",
    "title": "Handling exceptions at ordination and distinctions between BCO and confessional exceptions",
    "year": 1984,
    "disposition": "advice given",
-   "url": "inquiries/ga12_1984__ci11.md",
+   "url": "inquiries/ga12_1984__ci12.md",
    "evidence_basis": "structured_provision_tag",
    "relationship_kind": "structured_provision_tag",
    "match_confidence": "medium",
@@ -516,11 +529,11 @@
   {
    "provision": "BCO 33-5",
    "record_type": "CCB advice",
-   "record_id": "ccb_advice:inquiries/ga52_2025__ci26.md",
-   "title": "Process for elevating suspension from office to deposition",
+   "record_id": "ccb_advice:inquiries/ga52_2025__ci28.md",
+   "title": "Amend BCO 34-8 and add BCO 33-5 to Clarify the Process for Elevating Suspension from Office to Deposition",
    "year": 2025,
    "disposition": "not in conflict; Adopted 5-0-3",
-   "url": "inquiries/ga52_2025__ci26.md",
+   "url": "inquiries/ga52_2025__ci28.md",
    "evidence_basis": "structured_provision_tag",
    "relationship_kind": "structured_provision_tag",
    "match_confidence": "medium",
@@ -659,11 +672,11 @@
   {
    "provision": "BCO 45-6",
    "record_type": "CCB advice",
-   "record_id": "ccb_advice:inquiries/ga25_1997__ci03.md",
+   "record_id": "ccb_advice:inquiries/ga25_1997__ci04.md",
    "title": "Perfecting amendment language for removing members from the roll",
    "year": 1997,
    "disposition": "advice given — proposed amended language for BCO 38-3 forwarded",
-   "url": "inquiries/ga25_1997__ci03.md",
+   "url": "inquiries/ga25_1997__ci04.md",
    "evidence_basis": "structured_provision_tag",
    "relationship_kind": "structured_provision_tag",
    "match_confidence": "medium",
@@ -907,7 +920,7 @@
    "provision": "BCO 6-5",
    "record_type": "CCB advice",
    "record_id": "ccb_advice:inquiries/ga49_2022__ci23.md",
-   "title": "20-3",
+   "title": "20-3, 25-1, and 24-3, Allowing Congregations to Establish Voting Age Restrictions",
    "year": 2022,
    "disposition": "internally inconsistent and vague, in conflict; Adopted by the CCB",
    "url": "inquiries/ga49_2022__ci23.md",
@@ -1115,7 +1128,7 @@
    "provision": "RAO 1-6",
    "record_type": "CCB advice",
    "record_id": "ccb_advice:inquiries/ga47_2019__ci12.md",
-   "title": "Addition of RAO 1-6",
+   "title": "Addition of RAO 1-6, 1-7, and 1-8, and Revision of RAO 2-1, 2-3",
    "year": 2019,
    "disposition": "not in conflict; Adopted by the CCB",
    "url": "inquiries/ga47_2019__ci12.md",
@@ -1128,7 +1141,7 @@
    "provision": "RAO 1-7",
    "record_type": "CCB advice",
    "record_id": "ccb_advice:inquiries/ga47_2019__ci12.md",
-   "title": "Addition of RAO 1-6",
+   "title": "Addition of RAO 1-6, 1-7, and 1-8, and Revision of RAO 2-1, 2-3",
    "year": 2019,
    "disposition": "not in conflict; Adopted by the CCB",
    "url": "inquiries/ga47_2019__ci12.md",
@@ -1141,7 +1154,7 @@
    "provision": "RAO 1-8",
    "record_type": "CCB advice",
    "record_id": "ccb_advice:inquiries/ga47_2019__ci12.md",
-   "title": "Addition of RAO 1-6",
+   "title": "Addition of RAO 1-6, 1-7, and 1-8, and Revision of RAO 2-1, 2-3",
    "year": 2019,
    "disposition": "not in conflict; Adopted by the CCB",
    "url": "inquiries/ga47_2019__ci12.md",
@@ -1166,11 +1179,11 @@
   {
    "provision": "RAO 13-6",
    "record_type": "CCB advice",
-   "record_id": "ccb_advice:inquiries/ga31_2003__ci10.md",
+   "record_id": "ccb_advice:inquiries/ga31_2003__ci01.md",
    "title": "Germane Amendments to Overtures and Resolutions by Overtures Committee",
    "year": 2003,
    "disposition": "in conflict",
-   "url": "inquiries/ga31_2003__ci10.md",
+   "url": "inquiries/ga31_2003__ci01.md",
    "evidence_basis": "structured_provision_tag",
    "relationship_kind": "structured_provision_tag",
    "match_confidence": "medium",
@@ -1269,25 +1282,25 @@
   }
  ],
  "relationships_by_type": {
-  "CCB advice": 542,
-  "Constitutional inquiry": 411,
+  "CCB advice": 549,
+  "Constitutional inquiry": 437,
   "Judicial case": 3263,
   "Overture": 1342,
   "RPR exception": 6887
  },
  "reader_included_by_type": {
-  "CCB advice": 542,
-  "Constitutional inquiry": 411,
+  "CCB advice": 549,
+  "Constitutional inquiry": 437,
   "Judicial case": 3263,
   "Overture": 1342,
   "RPR exception": 6887
  },
  "reader_scope_by_type": {
   "CCB advice": {
-   "contextual": 542
+   "contextual": 549
   },
   "Constitutional inquiry": {
-   "primary": 411
+   "primary": 437
   },
   "Judicial case": {
    "primary": 3263
@@ -1309,23 +1322,23 @@
    "proposal_target": 645,
    "structured_case_reference": 823,
    "structured_exception_tag": 6711,
-   "structured_provision_tag": 953
+   "structured_provision_tag": 986
   },
   "evidence_basis": {
    "direct_text": 3863,
    "overture_action_target": 645,
    "structured_case_metadata": 823,
-   "structured_provision_tag": 7664,
+   "structured_provision_tag": 7697,
    "title_subject_reference": 15
   },
   "match_confidence": {
    "high": 4274,
-   "medium": 8171
+   "medium": 8204
   },
   "reader_scope": {
    "candidate": 1382,
-   "contextual": 7293,
-   "primary": 3770
+   "contextual": 7300,
+   "primary": 3796
   },
   "match_method": {
    "case_provision_index:case_markdown_text": 939,
@@ -1340,7 +1353,7 @@
    "case_provision_index:judicial_cases.jsonl:bco_provisions": 66,
    "disposition_bco": 153,
    "disposition_bco,title_subject": 496,
-   "index/inquiries_search.json:provisions": 953,
+   "index/inquiries_search.json:provisions": 986,
    "index/rpr_search.json:provisions": 6711,
    "overture_body_explicit_reference_match": 931,
    "rpr_markdown_line:100": 1,
@@ -1441,23 +1454,23 @@
    "proposal_target": 711,
    "structured_case_reference": 844,
    "structured_exception_tag": 6711,
-   "structured_provision_tag": 953
+   "structured_provision_tag": 986
   },
   "evidence_basis": {
    "direct_text": 6905,
    "overture_action_target": 696,
    "structured_case_metadata": 844,
-   "structured_provision_tag": 7664,
+   "structured_provision_tag": 7697,
    "title_subject_reference": 15
   },
   "match_confidence": {
    "high": 7616,
-   "medium": 8508
+   "medium": 8541
   },
   "reader_scope": {
    "candidate": 2409,
-   "contextual": 7537,
-   "primary": 6178
+   "contextual": 7544,
+   "primary": 6204
   },
   "match_method": {
    "case_provision_index:case_markdown_text": 1406,
@@ -1472,7 +1485,7 @@
    "case_provision_index:judicial_cases.jsonl:bco_provisions": 66,
    "disposition_bco": 153,
    "disposition_bco,title_subject": 543,
-   "index/inquiries_search.json:provisions": 953,
+   "index/inquiries_search.json:provisions": 986,
    "index/rpr_search.json:provisions": 6711,
    "overture_body_explicit_reference_match": 1436,
    "rpr_markdown_line:100": 1,
@@ -1567,7 +1580,7 @@
  },
  "unmatched_by_type": {
   "CCB advice": 14,
-  "Constitutional inquiry": 3,
+  "Constitutional inquiry": 4,
   "Judicial case": 16,
   "Overture": 45,
   "RPR exception": 19
@@ -1577,11 +1590,11 @@
   "status": "stale",
   "file": "index/provision_link_adjudications.jsonl",
   "total": 11481,
-  "expected": 12445,
+  "expected": 12478,
   "applied": 0,
   "stale": 11481,
   "unmatched": 0,
-  "unassessed": 12445
+  "unassessed": 12478
  },
  "stored_advisory_assessments": [
   {

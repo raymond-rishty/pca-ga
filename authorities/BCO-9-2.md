@@ -7,7 +7,7 @@
 | 2014 | Judicial case | explicit_citation | direct_text | high | [Reese and Bech v. Philadelphia Presbytery](../cases/ga42_2014__2011-14.md) | sustained |
 | 2011 | Judicial case | explicit_citation | direct_text | high | [Brown v. Northern California Presbytery](../cases/ga39_2011__2009-25_2009-26.md) | sustained |
 | 1999 | Constitutional inquiry | structured_provision_tag | structured_provision_tag | medium | [Authority to Sell Church Property](../inquiries/ga27_1999__ci01.md) | advice given |
-| 2025 | CCB advice | structured_provision_tag | structured_provision_tag | medium | [Requiring session and diaconate membership reporting in RAO 16](../inquiries/ga52_2025__ci23.md) | in conflict; Adopted 8-0-0 |
+| 2025 | CCB advice | structured_provision_tag | structured_provision_tag | medium | [Amend RAO 16 to Require Reporting on Session and Diaconate Membership and Duties](../inquiries/ga52_2025__ci25.md) | in conflict; Adopted 8-0-0 |
 | 2010 | CCB advice | structured_provision_tag | structured_provision_tag | medium | [Unordained Men and Women Carrying Out Diaconal Ministry](../inquiries/ga38_2010__ci04.md) | in conflict |
 | 2010 | Overture | proposal_target | overture_action_target | high | [Amend BCO 1-4, 4-2, 5-10, 7-2, 9-2, 9-7 and Add BCO 9-8 for Unordained Diaconal Ministry](../markdown/ga38_2010.md#ga38-p394) | Answered in the negative |
 | 2002 | Overture | explicit_citation | direct_text | high | [Specify Good Faith Subscription (Version 7)](../markdown/ga30_2002.md#ga30-p105) | Answered by reference |

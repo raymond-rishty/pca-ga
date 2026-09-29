@@ -16,8 +16,9 @@
 | 2005 | Judicial case | explicit_citation | direct_text | high | [Scott Robar v. Central Carolina Presbytery](../cases/ga33_2005__2004-09.md) | dismissed |
 | 1997 | Judicial case | explicit_citation | direct_text | high | [David Stockment v. Southern Florida Presbytery](../cases/ga25_1997__1995-09.md) | sustained |
 | — | Judicial case | explicit_citation | direct_text | high | [John T. DeBardeleben, III v. Philadelphia Presbytery](../cases/ga24_1996__1995-03.md) |  |
-| 2002 | Constitutional inquiry | structured_provision_tag | structured_provision_tag | medium | [Presbytery's Right to Take Back a Matter from a Commission and Render a Decision](../inquiries/ga30_2002__ci06.md) | advice given |
-| 1986 | Constitutional inquiry | structured_provision_tag | structured_provision_tag | medium | [Rotational and perpetual systems of church officers](../inquiries/ga14_1986__ci11.md) | advice given |
+| 2002 | Constitutional inquiry | structured_provision_tag | structured_provision_tag | medium | [Presbytery's Right to Take Back a Matter from a Commission and Render a Decision](../inquiries/ga30_2002__ci08.md) | advice given |
+| 1986 | Constitutional inquiry | structured_provision_tag | structured_provision_tag | medium | [Book of Church Order / BCO 3-1](../inquiries/ga14_1986__ci10.md) | advice given |
+| 1986 | Constitutional inquiry | structured_provision_tag | structured_provision_tag | medium | [Congregational vote to rotate entire session or diaconate off](../inquiries/ga14_1986__ci08.md) | advice given |
 | 2002 | Overture | explicit_citation | direct_text | high | [Specify Good Faith Subscription (Version 7)](../markdown/ga30_2002.md#ga30-p105) | Answered by reference |
 
 ---

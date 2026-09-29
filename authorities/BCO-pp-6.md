@@ -16,7 +16,7 @@
 | 2002 | Judicial case | explicit_citation | direct_text | high | [Andy Lee v. Korean Capital Presbytery](../cases/ga30_2002__2001-07.md) | dismissed |
 | 2002 | Judicial case | explicit_citation | direct_text | high | [Sung Keon Kim v. Korean Capital Presbytery](../cases/ga30_2002__2000-09.md) |  |
 | 2002 | Judicial case | explicit_citation | direct_text | high | [TE Andy Lee v. Korean Capital Presbytery](../cases/ga30_2002__2001-08.md) |  |
-| 2025 | CCB advice | structured_provision_tag | structured_provision_tag | medium | [24-3 and 25-1 to Clarify 'Regular Standing' re Minimum Voting Age](../inquiries/ga52_2025__ci14.md) | in conflict; Adopted 8-0-0 |
+| 2025 | CCB advice | structured_provision_tag | structured_provision_tag | medium | [24-3 and 25-1 to Clarify 'Regular Standing' re Minimum Voting Age](../inquiries/ga52_2025__ci16.md) | in conflict; Adopted 8-0-0 |
 | 2011 | CCB advice | structured_provision_tag | structured_provision_tag | medium | [Temporary Governance for Churches without Ruling Elders](../inquiries/ga39_2011__ci01.md) | may have been in conflict |
 | 2025 | Overture | explicit_citation | direct_text | high | [Amend BCO 20-3, 24-3, and 25-1 to Permit Congregational Minimum Voting Age](../markdown/ga52_2025.md#ga52-p1208) | Answered in the negative |
 | 2025 | Overture | explicit_citation | direct_text | high | [Amend BCO 22 to Require Congregation Consent for Assistant Pastor Calls](../markdown/ga52_2025.md#ga52-p1187) | Referred |

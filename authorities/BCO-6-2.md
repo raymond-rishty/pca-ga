@@ -8,6 +8,7 @@
 | 2001 | Constitutional inquiry | structured_provision_tag | structured_provision_tag | medium | [Minimum Age for Communicant Membership](../inquiries/ga29_2001__ci04.md) | advice given |
 | 1984 | Constitutional inquiry | structured_provision_tag | structured_provision_tag | medium | [Whether congregation may set minimum voting age for elections](../inquiries/ga12_1984__ci07.md) | advice given |
 | 2012 | CCB advice | structured_provision_tag | structured_provision_tag | medium | [The Procedures and Requirements for Membership in the Visible Church](../inquiries/ga40_2012__ci03.md) | in conflict |
+| 1997 | CCB advice | structured_provision_tag | structured_provision_tag | medium | [BCO 38-3 - Removing Members from the Roll](../inquiries/ga25_1997__ci05.md) | advice given |
 | 1997 | Overture | explicit_citation | direct_text | high | [Address Concern About Women Leaders in MNA Seminars](../markdown/ga25_1997.md#ga25-p131) | Answered in the negative |
 | 1989 | Overture | proposal_target | overture_action_target | high | [Limit GA Nominations to Those Nominated by Presbyteries](../markdown/ga17_1989.md#ga17-p40) | Referred |
 | 1988 | Overture | explicit_citation | direct_text | high | [Transfer Cleveland County to Central Carolina Presbytery](../markdown/ga16_1988.md#ga16-p80) | Adopted (final) |
