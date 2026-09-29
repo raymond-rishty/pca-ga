@@ -51,6 +51,7 @@
 | 1991 | Judicial case | structured_case_reference | structured_case_metadata | medium | [Melton et al. v. Tennessee Valley Presbytery](../cases/ga19_1991__1990-05.md) | denied |
 | — | Judicial case | explicit_citation | direct_text | high | [John T. DeBardeleben III Memorial](../cases/ga25_1997__1996-03.md) |  |
 | — | Judicial case | explicit_citation | direct_text | high | [John T. DeBardeleben, III v. Philadelphia Presbytery](../cases/ga24_1996__1995-03.md) |  |
+| 1986 | Constitutional inquiry | structured_provision_tag | structured_provision_tag | medium | [Rotational and perpetual systems of church officers](../inquiries/ga14_1986__ci11.md) | advice given |
 | 2024 | CCB advice | structured_provision_tag | structured_provision_tag | medium | [32](../inquiries/ga51_2024__ci15.md) | in grave conflict; Adopted 8-0-0 |
 | 2023 | CCB advice | structured_provision_tag | structured_provision_tag | medium | [Non-censure suspension of officers during investigation](../inquiries/ga50_2023__ci05.md) | in conflict; Adopted 8-0-0 |
 | 2017 | Overture | explicit_citation | direct_text | high | [Amend BCO 24-7 to Allow Sabbatical Leave for Church Officers](../markdown/ga45_2017.md#ga45-p659) | Answered in the negative |

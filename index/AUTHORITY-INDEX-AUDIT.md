@@ -1,8 +1,8 @@
 # Authority index audit
 
-Catalogue input fingerprint: `e5fd669690c4b80754c46f09d04273adf2ccbfb6563342677c52c5cde8a91808`.
+Catalogue input fingerprint: `625890316ac3113360e815860dce45377b01202b3b8414d21cf0bebd24bed015`.
 
-The catalogue contains 1172 provisions, 12455 relationships, 16134 evidence occurrences, and 97 unmatched source references.
+The catalogue contains 1172 provisions, 12445 relationships, 16124 evidence occurrences, and 97 unmatched source references.
 
 Relationship kinds describe why a record is linked. Evidence basis describes the source of that link. Match confidence describes extraction confidence. Reader scope labels the relationship in the Constitution Reader. These fields do not describe legal force.
 
@@ -12,8 +12,8 @@ The Reader includes indexed relationships for its supported record types across 
 
 | Record type | Relationships | Reader included |
 |-------------|--------------:|----------------:|
-| CCB advice | 543 | 543 |
-| Constitutional inquiry | 420 | 420 |
+| CCB advice | 542 | 542 |
+| Constitutional inquiry | 411 | 411 |
 | Judicial case | 3263 | 3263 |
 | Overture | 1342 | 1342 |
 | RPR exception | 6887 | 6887 |
@@ -22,8 +22,8 @@ Reader-included relationships by scope:
 
 | Record type | Scope | Count |
 |-------------|-------|------:|
-| CCB advice | `contextual` | 543 |
-| Constitutional inquiry | `primary` | 420 |
+| CCB advice | `contextual` | 542 |
+| Constitutional inquiry | `primary` | 411 |
 | Judicial case | `primary` | 3263 |
 | Overture | `candidate` | 1246 |
 | Overture | `primary` | 96 |
@@ -40,7 +40,7 @@ Reader-included relationships by scope:
 | `proposal_target` | 645 |
 | `structured_case_reference` | 823 |
 | `structured_exception_tag` | 6711 |
-| `structured_provision_tag` | 963 |
+| `structured_provision_tag` | 953 |
 
 ### Relationships by evidence basis
 
@@ -49,7 +49,7 @@ Reader-included relationships by scope:
 | `direct_text` | 3863 |
 | `overture_action_target` | 645 |
 | `structured_case_metadata` | 823 |
-| `structured_provision_tag` | 7674 |
+| `structured_provision_tag` | 7664 |
 | `title_subject_reference` | 15 |
 
 ### Relationships by match confidence
@@ -57,15 +57,15 @@ Reader-included relationships by scope:
 | Value | Count |
 |-------|------:|
 | `high` | 4274 |
-| `medium` | 8181 |
+| `medium` | 8171 |
 
 ### Relationships by reader scope
 
 | Value | Count |
 |-------|------:|
 | `candidate` | 1382 |
-| `contextual` | 7294 |
-| `primary` | 3779 |
+| `contextual` | 7293 |
+| `primary` | 3770 |
 
 ### Relationships by match method
 
@@ -83,7 +83,7 @@ Reader-included relationships by scope:
 | `case_provision_index:judicial_cases.jsonl:bco_provisions` | 66 |
 | `disposition_bco` | 153 |
 | `disposition_bco,title_subject` | 496 |
-| `index/inquiries_search.json:provisions` | 963 |
+| `index/inquiries_search.json:provisions` | 953 |
 | `index/rpr_search.json:provisions` | 6711 |
 | `overture_body_explicit_reference_match` | 931 |
 | `rpr_markdown_line:100` | 1 |
@@ -185,7 +185,7 @@ Reader-included relationships by scope:
 | `proposal_target` | 711 |
 | `structured_case_reference` | 844 |
 | `structured_exception_tag` | 6711 |
-| `structured_provision_tag` | 963 |
+| `structured_provision_tag` | 953 |
 
 ### Evidence occurrences by evidence basis
 
@@ -194,7 +194,7 @@ Reader-included relationships by scope:
 | `direct_text` | 6905 |
 | `overture_action_target` | 696 |
 | `structured_case_metadata` | 844 |
-| `structured_provision_tag` | 7674 |
+| `structured_provision_tag` | 7664 |
 | `title_subject_reference` | 15 |
 
 ### Evidence occurrences by match confidence
@@ -202,15 +202,15 @@ Reader-included relationships by scope:
 | Value | Count |
 |-------|------:|
 | `high` | 7616 |
-| `medium` | 8518 |
+| `medium` | 8508 |
 
 ### Evidence occurrences by reader scope
 
 | Value | Count |
 |-------|------:|
 | `candidate` | 2409 |
-| `contextual` | 7538 |
-| `primary` | 6187 |
+| `contextual` | 7537 |
+| `primary` | 6178 |
 
 ## Unmatched source references
 
@@ -366,7 +366,7 @@ Stored `unrelated_or_mislinked` advisory labels by record type:
 - Overture: 89
 - RPR exception: 118
 
-Assessment status: `stale`; applied 0, stale 11481, unassessed 12455.
+Assessment status: `stale`; applied 0, stale 11481, unassessed 12445.
 
 ## Coverage and spot checks
 

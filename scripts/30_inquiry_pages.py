@@ -23,9 +23,11 @@ import json, os, re, sys
 from pathlib import Path
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
-from source_links import line_to_pdf_page, pdf_page_for_anchor, source_entries_for_record, source_front_matter
+from source_links import (line_to_pdf_page, pdf_page_for_anchor, printed_page_for_anchor,
+                          source_entries_for_record, source_front_matter)
 
 ONLY_RELOCATED = "--only-relocated" in sys.argv[1:]
+SEARCH_FROM_CATALOGUES = "--search-index-from-catalogues" in sys.argv[1:]
 ROOT_ARG = next((a for a in sys.argv[1:] if not a.startswith("--")), None)
 ROOT = ROOT_ARG if ROOT_ARG else os.environ.get(
     "PCA_GA_ROOT", os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
@@ -35,6 +37,82 @@ OUT = os.path.join(ROOT, "inquiries")
 
 _LOCATOR = re.compile(r"^\s*\d{4},\s*p\.\s*\d+[a-zA-Z]?,\s*\d+-\d+,?\s*[\w.]*\.?\s*")
 _md_lines_cache: dict[str, list[str]] = {}
+
+
+def refresh_search_index_from_catalogues() -> None:
+    """Rebuild search records without deriving page IDs from OCR/source order."""
+    rows = []
+    seen_urls = set()
+    for filename, record_type in (("INQUIRIES.md", "inquiry"),
+                                  ("CCB-OVERTURE-ADVICE.md", "ccb-advice")):
+        year = None
+        pending = None
+
+        def consume(line: str) -> None:
+            nonlocal year
+            if not line:
+                return
+            heading = re.match(r"^## .*?\((\d{4})\)", line)
+            if heading:
+                year = int(heading.group(1))
+                return
+            if not line.startswith("|") or year is None:
+                return
+            cells, cell, escaped = [], [], False
+            body = line.strip().strip("|")
+            for char in body:
+                if char == "|" and not escaped:
+                    cells.append("".join(cell).strip())
+                    cell = []
+                else:
+                    cell.append(char)
+                if char == "\\" and not escaped:
+                    escaped = True
+                else:
+                    escaped = False
+            cells.append("".join(cell).strip())
+            if len(cells) != 7 or cells[0] in ("Inquiry", "---"):
+                return
+            subject = re.match(r"^\[(.*)\]\(\.\./inquiries/([^)]*)\)$", cells[1])
+            if not subject:
+                return
+            title = subject.group(1).replace("\\|", "|")
+            url = "inquiries/" + subject.group(2)
+            if url in seen_urls:
+                raise ValueError(f"Duplicate inquiry catalogue URL: {url}")
+            if not (Path(ROOT) / url).is_file():
+                raise ValueError(f"Inquiry catalogue points to missing page: {url}")
+            seen_urls.add(url)
+            rows.append({
+                "type": record_type,
+                "title": title,
+                "sub": cells[2].replace("\\|", "|"),
+                "provisions": [p.strip().replace("\\|", "|") for p in cells[3].split(",") if p.strip()],
+                "year": year,
+                "disposition": cells[4].replace("\\|", "|"),
+                "url": url,
+            })
+
+        for raw in (Path(IDX) / filename).read_text(encoding="utf-8").splitlines():
+            if raw.startswith("|"):
+                if pending is not None:
+                    consume(pending)
+                pending = raw.strip()
+            elif pending is not None and raw.strip() and not raw.lstrip().startswith("#"):
+                pending += " " + raw.strip()
+            else:
+                if pending is not None:
+                    consume(pending)
+                    pending = None
+                consume(raw.strip())
+        if pending is not None:
+            consume(pending)
+
+    if not rows:
+        raise ValueError("No inquiry catalogue records found")
+    with open(os.path.join(IDX, "inquiries_search.json"), "w", encoding="utf-8") as f:
+        json.dump(rows, f, ensure_ascii=False)
+    print(f"[{ROOT}] refreshed inquiries_search.json ({len(rows)} catalogue records)")
 
 
 def ordinal(n: int) -> str:
@@ -61,6 +139,59 @@ def slice_md(stem: str, a, b) -> str:
     lines = md_lines(stem)
     a = max(1, int(a)); b = min(len(lines), int(b))
     return "\n".join(lines[a - 1:b]).strip()
+
+
+def token_spans(text: str, marker: str) -> list[tuple[int, int]]:
+    """Find a marker by its ordered words, independent of OCR line wrapping."""
+    words = [m.group(0).casefold() for m in re.finditer(r"[\w]+", marker, re.UNICODE)]
+    if not words:
+        return []
+    source = [(m.group(0).casefold(), m.start(), m.end())
+              for m in re.finditer(r"[\w]+", text, re.UNICODE)]
+    hits = []
+    limit = len(source) - len(words) + 1
+    for i in range(max(0, limit)):
+        if [word for word, _, _ in source[i:i + len(words)]] == words:
+            hits.append((source[i][1], source[i + len(words) - 1][2]))
+    return hits
+
+
+def slice_text_locator(stem: str, locator: dict) -> str:
+    """Resolve a stable source excerpt using text markers and a minutes page anchor."""
+    text = "\n".join(md_lines(stem))
+    starts = token_spans(text, locator.get("start_text", ""))
+    anchor = (locator.get("page_anchor") or "").strip()
+    if anchor:
+        anchor_pos = text.find(f'id="{anchor}"')
+        if anchor_pos < 0:
+            return ""
+        starts = [span for span in starts if span[0] > anchor_pos]
+    if len(starts) != 1:
+        return ""
+    start, after_start = starts[0]
+    end_after = locator.get("end_after")
+    end_before = locator.get("end_before")
+    if end_after:
+        ends = [span for span in token_spans(text, end_after) if span[0] >= after_start]
+        if not ends:
+            return ""
+        end = ends[0][1]
+        while end < len(text) and text[end] in ".,;:!?\u2019\u201d'\")":
+            end += 1
+    elif end_before:
+        ends = [span for span in token_spans(text, end_before) if span[0] >= after_start]
+        if not ends:
+            return ""
+        end = ends[0][0]
+    else:
+        end = after_start
+    return text[start:end].strip()
+
+
+def slice_source(stem: str, a, b, locator: dict | None = None) -> str:
+    if locator:
+        return slice_text_locator(stem, locator)
+    return slice_md(stem, a, b)
 
 
 def clean_summary(s: str) -> str:
@@ -96,8 +227,19 @@ def kind_of(e: dict) -> str:
     return INQ
 
 
-def deeplink(stem: str, anchor: str, printed) -> str:
-    label = f"{stem} p.{printed}" if printed else stem
+def deeplink(stem: str, anchor: str, printed=None) -> str:
+    """Link to a minutes page using minutes folio/PDF coordinates, never Digest pagination."""
+    root = Path(ROOT)
+    pdf_page = pdf_page_for_anchor(root, stem, anchor) if anchor else None
+    minutes_page = printed_page_for_anchor(root, stem, anchor) if anchor else None
+    if minutes_page and pdf_page:
+        label = f"{stem} minutes p.{minutes_page} / PDF p.{pdf_page}"
+    elif minutes_page:
+        label = f"{stem} minutes p.{minutes_page}"
+    elif pdf_page:
+        label = f"{stem} PDF p.{pdf_page}"
+    else:
+        label = stem
     frag = f"#{anchor}" if anchor else ""
     return f"[{label}](../markdown/{stem}.md{frag})"
 
@@ -118,18 +260,45 @@ def source_fields(source: dict, fallback: dict) -> tuple:
 
 
 def main():
+    if SEARCH_FROM_CATALOGUES:
+        refresh_search_index_from_catalogues()
+        return
+
     roster = json.load(open(os.path.join(IDX, "inquiries_roster.json")))
     located = json.load(open(os.path.join(IDX, "inquiries_located.json")))
 
-    # roster lookup. The locate agents sometimes append a section to minute_para
-    # ("App. O, section IV" vs the roster's "App. O"), so normalize it and also key by topic.
+    # Digest topics are not unique: the same provision can appear in several
+    # inquiries at one Assembly. Match the inquiry number as well as the topic
+    # so one inquiry cannot inherit another inquiry's headnote or provenance.
     def norm_mp(s):
         return (s or "").split(",")[0].strip()
-    rmap, rmap_mp, rmap_topic = {}, {}, {}
-    for e in roster:
-        rmap[(e["ga_ordinal"], norm_mp(e.get("minute_para")), e.get("topic"))] = e
-        rmap_mp.setdefault((e["ga_ordinal"], norm_mp(e.get("minute_para"))), e)
-        rmap_topic.setdefault((e["ga_ordinal"], e.get("topic")), e)
+
+    def inquiry_number(value):
+        match = re.search(r"(?:CI|constitutional\s+inquiry|inquiry)\s*#?\s*(\d+)",
+                          value or "", re.I)
+        return int(match.group(1)) if match else None
+
+    def roster_match(result, ordinal_number):
+        candidates = [e for e in roster
+                      if e.get("ga_ordinal") == ordinal_number
+                      and norm_mp(e.get("minute_para")) == norm_mp(result.get("minute_para"))]
+        ci = inquiry_number(result.get("inquiry_number"))
+        if ci is not None:
+            candidates = [e for e in candidates
+                          if inquiry_number(e.get("summary") or e.get("synopsis")) == ci]
+        topic = (result.get("topic") or "").strip().casefold()
+        if topic:
+            exact = [e for e in candidates if (e.get("topic") or "").strip().casefold() == topic]
+            if exact:
+                candidates = exact
+            else:
+                # Roster topic labels sometimes include a category prefix while
+                # provisions carry the canonical code used by located records.
+                provision_matches = [e for e in candidates
+                                     if any((p or "").strip().casefold() == topic
+                                            for p in e.get("provisions", []))]
+                candidates = provision_matches
+        return candidates[0] if len(candidates) == 1 else {}
 
     # group located results into one page per distinct verbatim passage (ord, advice_start, advice_end)
     groups: dict = {}
@@ -159,9 +328,7 @@ def main():
             continue
         rents = []
         for r in results:
-            e = (rmap.get((ordn, norm_mp(r.get("minute_para")), r.get("topic")))
-                 or rmap_topic.get((ordn, r.get("topic")))
-                 or rmap_mp.get((ordn, norm_mp(r.get("minute_para")))) or {})
+            e = roster_match(r, ordn)
             rents.append((r, e))
         r0, e0 = rents[0]
 
@@ -183,7 +350,6 @@ def main():
         mtype = kind_of(next((e for _, e in rents if e), {}) or r0)
         ci = (r0.get("inquiry_number") or "").strip()
         year = e0.get("year")
-        printed = e0.get("printed_page")
         anchor = (r0.get("page_anchor") or "").strip()
         ma = re.match(r"ga(\d+)-p(.+)$", anchor)   # markdown anchors zero-pad the ordinal (ga04, not ga4)
         if ma:
@@ -194,8 +360,9 @@ def main():
         substantive = r0.get("substantive")
         action = r0.get("assembly_action")
         primary_start, primary_end, primary_anchor, primary_printed = source_fields(
-            substantive or {}, {**r0, "printed_page": printed}
+            substantive or {}, r0
         )
+        substantive_locator = (substantive or {}).get("locator")
         primary_anchor = (primary_anchor or "").strip()
         ma = re.match(r"ga(\d+)-p(.+)$", primary_anchor)
         if ma:
@@ -207,18 +374,21 @@ def main():
         subj = digest_subject or gen_subject
         if not subj:
             subj = (summaries[0][:80].rsplit(" ", 1)[0] + "…") if summaries else (topics[0] if topics else "Constitutional inquiry")
-        label = ci or (f"{e0.get('minute_para','')} {sect}".strip()) or "Inquiry"
+        label = (ci or (f"{e0.get('minute_para','')} {sect}".strip())
+                 or (f"{r0.get('minute_para','')} {r0.get('topic','')}".strip()) or "Inquiry")
 
         slug = f"{stem}__ci{n:02d}"
 
-        body = slice_md(stem, a, b) or "_(verbatim passage not located in this volume)_"
-        substantive_body = (slice_md(stem, primary_start, primary_end)
+        body = slice_source(stem, a, b, r0.get("advice_locator")) or "_(verbatim passage not located in this volume)_"
+        substantive_body = (slice_source(stem, primary_start, primary_end, substantive_locator)
                             if substantive else "")
-        action_body = (slice_md(stem, action.get("start"), action.get("end"))
+        action_body = (slice_source(stem, action.get("start"), action.get("end"),
+                                    action.get("locator"))
                        if action else "")
         posed = ""
-        if r0.get("posed_start") and r0.get("posed_end"):
-            posed = slice_md(stem, r0["posed_start"], r0["posed_end"])
+        if r0.get("posed_locator") or (r0.get("posed_start") and r0.get("posed_end")):
+            posed = slice_source(stem, r0.get("posed_start"), r0.get("posed_end"),
+                                 r0.get("posed_locator"))
         ratified_only = (r0.get("answer_in_volume") is False)
 
         # ---- page ----
@@ -228,8 +398,8 @@ def main():
             hdr.append("**Provisions:** " + ", ".join(provs))
         if disp:
             hdr.append("**Disposition:** " + md_escape(disp))
-        srcline = (f"*Source: [{stem} lines {primary_start}–{primary_end}](../markdown/{stem}.md{'#' + primary_anchor if primary_anchor else ''})*"
-                   if primary_start and primary_end else f"*Source: {stem}*")
+        srcline = (f"*Source: {deeplink(stem, primary_anchor)}*"
+                   if primary_anchor else f"*Source: {stem}*")
 
         source_page = r0.get("source_pdf_page")
         if source_page is not None:

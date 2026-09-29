@@ -22,6 +22,7 @@
 | 1998 | Judicial case | explicit_citation | direct_text | high | [Session of Harvestwood PCA v. New River Presbytery (Complaint)](../cases/ga26_1998__1997-13.md) | sustained |
 | 1993 | Judicial case | explicit_citation | direct_text | high | [Lovelace v. Northeast Presbytery (Case #2)](../cases/ga21_1993__1991-06.md) | other |
 | 1993 | Judicial case | explicit_citation | direct_text | high | [Reference from Central Carolina Presbytery](../cases/ga21_1993__1992-08.md) | referred |
+| 1986 | Constitutional inquiry | structured_provision_tag | structured_provision_tag | medium | [Rotational and perpetual systems of church officers](../inquiries/ga14_1986__ci11.md) | advice given |
 | 2024 | Overture | proposal_target | overture_action_target | high | [Amend BCO 41 to Allow Venue Change in Judicial Cases](../markdown/ga51_2024.md#ga51-p1119) | Answered in the negative |
 | 2002 | Overture | explicit_citation | direct_text | high | [Revise BCO 15-4 & 15-5 to Abolish the Standing Judicial Commission](../markdown/ga30_2002.md#ga30-p257) | Other |
 | 1998 | Overture | multiple | multiple | high | [Amend BCO 41 to Clarify Ministerial Service Out of Bounds](../markdown/ga26_1998.md#ga26-p201) | Answered by reference |

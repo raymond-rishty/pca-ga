@@ -122,6 +122,12 @@ def caseProvisionIndex = registerCommand(
 )
 caseProvisionIndex.configure { dependsOn judicialCatalogue }
 
+def inquirySearchIndex = registerCommand(
+    'refreshInquirySearchIndex', [pythonCommand, 'scripts/30_inquiry_pages.py', '.', '--search-index-from-catalogues'],
+    [generatorScripts, file('index/INQUIRIES.md'), file('index/CCB-OVERTURE-ADVICE.md'), fileTree('inquiries')],
+    [file('index/inquiries_search.json')], true
+)
+
 def provisionCatalogue = registerCommand(
     'generateProvisionCatalogue',
     [pythonCommand, 'scripts/build_provision_catalogue.py', '.', constitutionContent.absolutePath],
@@ -130,6 +136,7 @@ def provisionCatalogue = registerCommand(
     [file('index/provision_catalogue.json')], true
 )
 provisionCatalogue.configure { dependsOn caseProvisionIndex }
+provisionCatalogue.configure { dependsOn inquirySearchIndex }
 
 def authorityIndex = registerCommand(
     'projectAuthorityIndex', [pythonCommand, 'scripts/43_authority_index.py', '.'],
@@ -291,6 +298,7 @@ tasks.register('prepareData') {
     description = 'Regenerate derived repository data and run the data checks.'
     dependsOn validateFootnotes, reconcileOvertureCatalogue
 }
+tasks.named('prepareData').configure { dependsOn 'rebuildSearchIndex' }
 
 def structuralInputs = files(
     file('_config.yml'), file('Gemfile'), file('Gemfile.lock'), fileTree('_layouts'),

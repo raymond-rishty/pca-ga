@@ -148,12 +148,13 @@ def _pdf_markers(root: Path, volume: str) -> list[tuple[int, int]]:
 
 
 def _page_map(root: Path, volume: str) -> dict[str, int]:
-    """Map rendered minutes anchors (gaN-pPRINTED) to PDF page numbers.
+    """Map rendered minutes anchors and printed folios to PDF page numbers.
 
     A printed folio can recur later in an appendix.  An extracted page's
-    existing ``#gaN-pPRINTED`` source link refers to the first matching body
-    location, so retain the first coordinate rather than allowing a later
-    duplicate to overwrite it.
+    legacy ``#gaN-pPRINTED`` link refers to the first matching body location,
+    so retain the first coordinate rather than allowing a later duplicate to
+    overwrite it.  OCR anchors normally precede their PAGE comment on the
+    previous line, so keep pending anchors until the next page marker.
     """
     cache_key = (str(root.resolve()), volume)
     if cache_key in _PAGE_MAP_CACHE:
@@ -165,10 +166,18 @@ def _page_map(root: Path, volume: str) -> dict[str, int]:
         return _PAGE_MAP_CACHE[cache_key]
 
     mapping: dict[str, int] = {}
+    pending_anchors: list[str] = []
     for line in path.read_text(encoding="utf-8").splitlines():
+        pending_anchors.extend(
+            normalize_anchor(anchor.group("anchor"))
+            for anchor in ANCHOR_RE.finditer(line)
+        )
         marker = PAGE_MARKER_RE.search(line)
         if marker:
             pdf_page = int(marker.group("pdf"))
+            for anchor in pending_anchors:
+                mapping.setdefault(anchor, pdf_page)
+            pending_anchors = []
             printed = PRINTED_PAGE_RE.search(marker.group("rest"))
             if printed:
                 mapping.setdefault(
@@ -176,15 +185,30 @@ def _page_map(root: Path, volume: str) -> dict[str, int]:
                     pdf_page,
                 )
 
-        for anchor in ANCHOR_RE.finditer(line):
-            if marker:
-                mapping.setdefault(
-                    normalize_anchor(anchor.group("anchor")),
-                    int(marker.group("pdf")),
-                )
-
     _PAGE_MAP_CACHE[cache_key] = mapping
     return mapping
+
+
+def printed_page_for_anchor(root: Path, volume: str, anchor: str) -> str | None:
+    """Return the minutes folio associated with a page anchor, if printed."""
+    path = root / "markdown" / f"{volume}.md"
+    if not path.exists():
+        return None
+    wanted = normalize_anchor(anchor)
+    pending_anchors: list[str] = []
+    for line in path.read_text(encoding="utf-8").splitlines():
+        pending_anchors.extend(
+            normalize_anchor(match.group("anchor"))
+            for match in ANCHOR_RE.finditer(line)
+        )
+        marker = PAGE_MARKER_RE.search(line)
+        if not marker:
+            continue
+        if wanted in pending_anchors:
+            printed = PRINTED_PAGE_RE.search(marker.group("rest"))
+            return printed.group("page") if printed else None
+        pending_anchors = []
+    return None
 
 
 def first_marked_pdf_page(text: str) -> int | None:
