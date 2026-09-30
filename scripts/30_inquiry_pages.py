@@ -15,11 +15,14 @@ header. The page body contains only source-located minutes text and source-deriv
 """
 from __future__ import annotations
 import json, os, re, sys
+from collections import Counter
 from pathlib import Path
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from source_links import (pdf_page_for_anchor, printed_page_for_anchor,
                           source_entries_for_record, source_front_matter)
+from minutes_page_locators import (canonical_page_anchor, count_printed_pages,
+                                   page_records, resolve_legacy_page)
 from inquiry_records import load_inquiry_records
 
 ONLY_RELOCATED = "--only-relocated" in sys.argv[1:]
@@ -380,10 +383,16 @@ def main():
         primary_anchor = (primary_anchor or "").strip()
         primary_printed = ((substantive or {}).get("printed_page")
                            if substantive_locator else None)
-        ma = re.match(r"ga(\d+)-p(.+)$", primary_anchor)
-        if ma:
-            primary_anchor = f"ga{int(ma.group(1)):02d}-p{ma.group(2)}"
-
+        source_page = None
+        if primary_anchor:
+            legacy_source_page = resolve_legacy_page(
+                Path(ROOT), stem, primary_anchor, primary_printed)
+            if legacy_source_page:
+                source_page = int(legacy_source_page["pdf_page"])
+                counts = count_printed_pages(
+                    (str(record["printed_page"] or "null"), str(record["pdf_page"]))
+                    for record in page_records(Path(ROOT), stem))
+                primary_anchor = canonical_page_anchor(legacy_source_page, counts)
         # display subject
         digest_topic = next((t for t in topics if not is_bare_provision(t)), "")
         digest_subject = digest_topic.split(", ", 1)[1].strip() if ", " in digest_topic else digest_topic
@@ -417,11 +426,10 @@ def main():
                    if primary_anchor else f"*Source volume: {stem} (passage not yet verified)*")
         verbatim_verified = bool(substantive_body or body or posed)
 
-        source_page = r0.get("source_pdf_page")
-        if source_page is not None:
-            source_page = int(source_page)
-        else:
-            source_page = pdf_page_for_anchor(Path(ROOT), stem, primary_anchor) if primary_anchor else None
+        if r0.get("source_pdf_page") is not None:
+            source_page = int(r0["source_pdf_page"])
+        elif source_page is None and primary_anchor:
+            source_page = pdf_page_for_anchor(Path(ROOT), stem, primary_anchor)
         source_meta = source_front_matter(source_entries_for_record(
             Path(ROOT), "inquiry", e0["id"], stem, source_page
         ))

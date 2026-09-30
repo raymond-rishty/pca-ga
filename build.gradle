@@ -282,6 +282,12 @@ def testAuthorityIndexFeedback = registerCommand(
 )
 testAuthorityIndexFeedback.configure { dependsOn testProvisionCatalogue }
 
+def testMinutesPageAnchors = registerCommand(
+    'testMinutesPageAnchors', [pythonCommand, 'tests/test_minutes_page_anchors.py'],
+    [generatorScripts, file('scripts/minutes_page_locators.py'),
+     file('tests/test_minutes_page_anchors.py'), fileTree('markdown')]
+)
+
 def nodeRegression = registerCommand(
     'testNodeRegressions',
     ['node', '--test', 'tests/source-pdf-links.test.js', 'tests/minutes-back-to-top.test.js',
@@ -289,7 +295,7 @@ def nodeRegression = registerCommand(
      'tests/search-index-overtures.test.js', 'tests/pagefind-search.test.js', 'tests/result-navigation.test.js'],
     [fileTree('tests'), fileTree('app'), fileTree('assets')]
 )
-nodeRegression.configure { dependsOn testAuthorityIndexFeedback }
+nodeRegression.configure { dependsOn testAuthorityIndexFeedback, testMinutesPageAnchors }
 nodeRegression.configure { dependsOn searchIndex }
 
 def addExtractedMetadata = registerCommand(

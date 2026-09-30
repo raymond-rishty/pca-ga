@@ -106,12 +106,14 @@ MINUTES_CITATION_RE = re.compile(
     re.IGNORECASE,
 )
 MINUTES_PAGE_RE = re.compile(
-    r'<a\s+id=["\'](?P<anchor>ga(?P<anchor_ga>\d+)-p[^"\']+)["\']></a>(?:</p>)?\s*'
     r'<!--\s*PAGE\s+ga=(?P<ga>\d+)\s+pdf_page=(?P<pdf_page>\d+)\s+'
     # Page markers may also record how the printed folio was obtained, e.g.
     # ``printed_page_source=inferred`` in the early volumes.  Those markers
     # are just as linkable as directly detected folios.
-    r'printed_page=(?P<printed_page>\d+)(?:\s+[A-Za-z_][A-Za-z0-9_-]*=[^\s>]+)*\s*-->',
+    r'printed_page=(?P<printed_page>\d+)(?:\s+[A-Za-z_][A-Za-z0-9_-]*=[^\s>]+)*\s*-->'
+    r'(?P<aliases>(?:<span\s+id=["\']ga\d+-(?:pdf-p|p)[^"\']+["\']\s+'
+    r'class=["\']minutes-page__anchor["\']></span>)*)'
+    r'<div\s+class=["\']page-marker["\']',
     re.IGNORECASE,
 )
 SCRIPTURE_METADATA = Path(__file__).resolve().parent.parent / "scripture" / "bible-books.json"
@@ -281,25 +283,41 @@ def build_minutes_page_index(
         for match in MINUTES_PAGE_RE.finditer(path.read_text(encoding="utf-8")):
             ga = str(int(match.group("ga")))
             printed_page = str(int(match.group("printed_page")))
-            if ga != str(int(match.group("anchor_ga"))):
+            aliases = re.findall(r'id=["\'](?P<anchor>ga\d+-p[^"\']+)',
+                                 match.group("aliases"))
+            printed_anchor = next((anchor for anchor in aliases
+                                   if anchor == f"ga{ga}-p{printed_page}"
+                                   or anchor.startswith(f"ga{ga}-p{printed_page}-at-pdf")), None)
+            if printed_anchor is None:
                 continue
 
             entry = {
                 "path": rel_path,
-                "anchor": match.group("anchor"),
+                "anchor": printed_anchor,
                 "pdf_page": match.group("pdf_page"),
             }
-            # A volume's printed folio is expected to be unique.  Keep the
-            # first occurrence if a malformed source duplicates it.
+            # Citation-only references have no occurrence context. Preserve
+            # the documented first-occurrence fallback and retain every
+            # physical occurrence in the richer page payload below.
             refs.setdefault(ga, {}).setdefault(printed_page, entry)
-            volume = volumes.setdefault(ga, {"source": rel_path, "pages": {}})
+            volume = volumes.setdefault(ga, {"source": rel_path, "pages": {},
+                                             "pdf_pages": {}, "occurrences": []})
             volume["pages"].setdefault(printed_page, {
-                "anchor": entry["anchor"],
+                "anchor": (f"ga{ga}-p{printed_page}" if printed_anchor == f"ga{ga}-p{printed_page}"
+                           else entry["anchor"]),
                 "pdf_page": int(entry["pdf_page"]),
             })
+            occurrence = {
+                "printed_page": printed_page,
+                "pdf_page": int(entry["pdf_page"]),
+                "pdf_anchor": f"ga{ga}-pdf-p{entry['pdf_page']}",
+                "printed_anchor": printed_anchor,
+            }
+            volume["pdf_pages"][str(entry["pdf_page"])] = occurrence
+            volume["occurrences"].append(occurrence)
 
     payload = {
-        "version": 1,
+        "version": 2,
         "source": "rendered markdown minute volumes",
         "volumes": volumes,
     }
@@ -1171,17 +1189,24 @@ def self_test() -> None:
         minute_dir = site_dir / "markdown"
         minute_dir.mkdir()
         (minute_dir / "ga14_1986.html").write_text(
-            '<p><a id="ga14-p330"></a></p>\n<!-- PAGE ga=14 pdf_page=332 printed_page=330 -->',
+            '<!-- PAGE ga=14 pdf_page=332 printed_page=330 -->'
+            '<span id="ga14-pdf-p332" class="minutes-page__anchor"></span>'
+            '<span id="ga14-p330" class="minutes-page__anchor"></span>'
+            '<div class="page-marker">',
             encoding="utf-8",
         )
         (minute_dir / "ga11_1983.html").write_text(
-            '<a id="ga11-p139"></a><!-- PAGE ga=11 pdf_page=141 printed_page=139 printed_page_source=inferred -->'
-            '<a id="ga11-p140"></a><!-- PAGE ga=11 pdf_page=142 printed_page=140 printed_page_source=inferred -->'
-            '<a id="ga11-p141"></a><!-- PAGE ga=11 pdf_page=143 printed_page=141 printed_page_source=inferred -->',
+            '<!-- PAGE ga=11 pdf_page=141 printed_page=139 printed_page_source=inferred -->'
+            '<span id="ga11-pdf-p141" class="minutes-page__anchor"></span><span id="ga11-p139" class="minutes-page__anchor"></span><div class="page-marker">'
+            '<!-- PAGE ga=11 pdf_page=142 printed_page=140 printed_page_source=inferred -->'
+            '<span id="ga11-pdf-p142" class="minutes-page__anchor"></span><span id="ga11-p140" class="minutes-page__anchor"></span><div class="page-marker">'
+            '<!-- PAGE ga=11 pdf_page=143 printed_page=141 printed_page_source=inferred -->'
+            '<span id="ga11-pdf-p143" class="minutes-page__anchor"></span><span id="ga11-p141" class="minutes-page__anchor"></span><div class="page-marker">',
             encoding="utf-8",
         )
         (minute_dir / "ga12_1984.html").write_text(
-            '<a id="ga12-p173"></a><!-- PAGE ga=12 pdf_page=175 printed_page=173 printed_page_source=inferred -->',
+            '<!-- PAGE ga=12 pdf_page=175 printed_page=173 printed_page_source=inferred -->'
+            '<span id="ga12-pdf-p175" class="minutes-page__anchor"></span><span id="ga12-p173" class="minutes-page__anchor"></span><div class="page-marker">',
             encoding="utf-8",
         )
         indexed_refs, payload = build_minutes_page_index(site_dir)

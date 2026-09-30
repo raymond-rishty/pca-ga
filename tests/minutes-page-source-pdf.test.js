@@ -36,3 +36,13 @@ test('GA33 demonstrates why printed folio cannot be the lookup key', () => {
   assert.match(minutes, /PAGE ga=33 pdf_page=302 printed_page=300/);
   assert.match(minutes, /PAGE ga=33 pdf_page=590 printed_page=300/);
 });
+
+test('page markup assigns explicit, distinct PDF and printed page target conventions', () => {
+  const markup = read('scripts/46_minutes_page_markup.py');
+  const locators = read('scripts/minutes_page_locators.py');
+  assert.match(markup, /data-pdf-anchor=/);
+  assert.ok(markup.includes('page_anchors ='));
+  assert.ok(markup.includes('identifiers["pdf"]'));
+  assert.match(locators, /-pdf-p\{int\(pdf_page\)\}/);
+  assert.match(locators, /-at-pdf\{int\(pdf_page\)\}/);
+});
