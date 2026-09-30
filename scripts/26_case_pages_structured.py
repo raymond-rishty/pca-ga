@@ -154,7 +154,7 @@ def main():
             ))
             page = source_meta + [f"# {'/'.join(nums)} — {title}", "", "  ·  ".join(hdr), "",
                     f"*Source: [{vol} lines {b['lines'][0]}–{b['lines'][1]}](../markdown/{vol}.md)*",
-                    "", "---", "", body, "", "---", "", "[← Judicial case index](../index/CASES.md)"]
+                    "", "---", "", body, "", "---", "", "[← Judicial case index](../index/JUDICIAL-CASES.html)"]
             open(f"{OUT}/{slug}.md", "w").write("\n".join(page) + "\n")
             for x in nums:
                 pages_map[x] = {"vol": vol, "file": slug, "numbers": nums, "title": title}
