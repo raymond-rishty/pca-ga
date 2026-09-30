@@ -11,19 +11,21 @@ from __future__ import annotations
 import bisect
 import json
 import re
+from collections import Counter
 from pathlib import Path
 from typing import Any
+
+from minutes_page_locators import page_identifiers
 
 VOLUME_RE = re.compile(r"^ga(?P<ga>\d+)[_-](?P<year>\d{4})$")
 PAGE_MARKER_RE = re.compile(
     r"<!--\s*PAGE\s+ga=(?P<ga>\d+)\s+pdf_page=(?P<pdf>\d+)(?P<rest>[^>]*)-->"
 )
 PRINTED_PAGE_RE = re.compile(r"\bprinted_page=(?P<page>[A-Za-z0-9.-]+)")
-ANCHOR_RE = re.compile(r'<a\s+id="(?P<anchor>ga\d+-p[^"]+)"')
 MINUTES_LINK_RE = re.compile(
     r"\[(?P<label>[^\]\n]+)\]\((?P<prefix>(?:\.\./)+)markdown/"
     r"(?P<volume>ga\d+_\d{4})\.md"
-    r"(?:#(?P<anchor>ga\d+-p[A-Za-z0-9.-]+))?\)"
+    r"(?:#(?P<anchor>ga\d+-p(?:pdf-p)?[A-Za-z0-9.-]+(?:-at-pdf\d+)?))?\)"
 )
 LINE_SPAN_RE = re.compile(r"(?i)\blines\s+(?P<start>\d+)[–-](?P<end>\d+)")
 PRINTED_LABEL_RE = re.compile(r"(?i)\bpp?\.\s*(?P<page>\d+)")
@@ -165,25 +167,26 @@ def _page_map(root: Path, volume: str) -> dict[str, int]:
         _PAGE_MAP_CACHE[cache_key] = {}
         return _PAGE_MAP_CACHE[cache_key]
 
+    markers = [PAGE_MARKER_RE.search(line) for line in
+               path.read_text(encoding="utf-8").splitlines()]
+    rows = [m for m in markers if m]
+    counts: Counter[str] = Counter()
+    for marker in rows:
+        printed = PRINTED_PAGE_RE.search(marker.group("rest"))
+        if printed:
+            counts[printed.group("page")] += 1
     mapping: dict[str, int] = {}
-    pending_anchors: list[str] = []
-    for line in path.read_text(encoding="utf-8").splitlines():
-        pending_anchors.extend(
-            normalize_anchor(anchor.group("anchor"))
-            for anchor in ANCHOR_RE.finditer(line)
-        )
-        marker = PAGE_MARKER_RE.search(line)
-        if marker:
-            pdf_page = int(marker.group("pdf"))
-            for anchor in pending_anchors:
-                mapping.setdefault(anchor, pdf_page)
-            pending_anchors = []
-            printed = PRINTED_PAGE_RE.search(marker.group("rest"))
-            if printed:
-                mapping.setdefault(
-                    f"ga{int(marker.group('ga'))}-p{printed.group('page')}",
-                    pdf_page,
-                )
+    for marker in rows:
+        ga = int(marker.group("ga"))
+        pdf_page = int(marker.group("pdf"))
+        printed_match = PRINTED_PAGE_RE.search(marker.group("rest"))
+        printed_page = printed_match.group("page") if printed_match else None
+        ids = page_identifiers(ga, pdf_page, printed_page, counts)
+        mapping[str(ids["pdf"])] = pdf_page
+        if ids["printed"]:
+            mapping.setdefault(str(ids["printed"]), pdf_page)
+        if ids["qualified"]:
+            mapping[str(ids["qualified"])] = pdf_page
 
     _PAGE_MAP_CACHE[cache_key] = mapping
     return mapping
@@ -191,23 +194,15 @@ def _page_map(root: Path, volume: str) -> dict[str, int]:
 
 def printed_page_for_anchor(root: Path, volume: str, anchor: str) -> str | None:
     """Return the minutes folio associated with a page anchor, if printed."""
-    path = root / "markdown" / f"{volume}.md"
-    if not path.exists():
+    target = pdf_page_for_anchor(root, volume, anchor)
+    if target is None:
         return None
-    wanted = normalize_anchor(anchor)
-    pending_anchors: list[str] = []
+    path = root / "markdown" / f"{volume}.md"
     for line in path.read_text(encoding="utf-8").splitlines():
-        pending_anchors.extend(
-            normalize_anchor(match.group("anchor"))
-            for match in ANCHOR_RE.finditer(line)
-        )
         marker = PAGE_MARKER_RE.search(line)
-        if not marker:
-            continue
-        if wanted in pending_anchors:
+        if marker and int(marker.group("pdf")) == target:
             printed = PRINTED_PAGE_RE.search(marker.group("rest"))
             return printed.group("page") if printed else None
-        pending_anchors = []
     return None
 
 
@@ -217,7 +212,13 @@ def first_marked_pdf_page(text: str) -> int | None:
 
 
 def pdf_page_for_anchor(root: Path, volume: str, anchor: str) -> int | None:
-    return _page_map(root, volume).get(normalize_anchor(anchor))
+    wanted = normalize_anchor(anchor)
+    mapping = _page_map(root, volume)
+    if wanted in mapping:
+        return mapping[wanted]
+    # An unqualified legacy locator has printed-page meaning. Never reinterpret
+    # its number as a PDF coordinate; callers needing that page must say pdf-pN.
+    return None
 
 
 def pdf_page_for_printed(root: Path, volume: str, printed_page: str) -> int | None:

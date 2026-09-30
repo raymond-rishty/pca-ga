@@ -3,9 +3,12 @@
 from __future__ import annotations
 
 import argparse
+from collections import Counter
 from dataclasses import dataclass
 from pathlib import Path
 import re
+
+from minutes_page_locators import count_printed_pages, page_identifiers
 
 
 PAGE_COMMENT_RE = re.compile(
@@ -24,6 +27,8 @@ VOID_TAGS = {
     "meta", "param", "source", "track", "wbr",
 }
 PAGE_ANCHOR_RE = re.compile(r"^<a\b(?=[^>]*\bid=[\"'][^\"']+[\"'])[^>]*>\s*</a>$", re.I | re.S)
+LEGACY_PAGE_ANCHOR_RE = re.compile(
+    r'<a\b(?=[^>]*\bid=["\']ga\d+-p[A-Za-z0-9.-]+["\'])[^>]*>\s*</a>', re.I)
 MARKER_RE = re.compile(r"<div\b(?=[^>]*\bclass=[\"'][^\"']*\bpage-marker\b)", re.I)
 
 
@@ -115,20 +120,66 @@ def _remove_page_break_paragraphs(fragment: str) -> str:
     return paragraph_re.sub(remove_if_break_only, fragment)
 
 
-def marker_markup(match: re.Match[str]) -> str:
+def _flatten_generated_pages(fragment: str) -> str:
+    """Remove prior generated wrappers/markers so incremental builds can migrate."""
+    wrappers = [node for node in top_level_nodes(fragment)
+                if re.match(r'<div\b(?=[^>]*\bclass=["\'][^"\']*\bminutes-page\b)',
+                            node.text, re.I)]
+    for wrapper in reversed(wrappers):
+        opening_end = _tag_end(wrapper.text, 0)
+        inner = wrapper.text[opening_end:]
+        close_start = inner.rfind("</div>")
+        if close_start >= 0:
+            inner = inner[:close_start]
+        inner = re.sub(
+            r'<span\b(?=[^>]*\bclass=["\'][^"\']*\bminutes-page__anchor\b)[^>]*>\s*</span>',
+            "", inner, flags=re.I)
+        for node in reversed(top_level_nodes(inner)):
+            if MARKER_RE.match(node.text):
+                inner = inner[:node.start] + inner[node.end:]
+        fragment = fragment[:wrapper.start] + inner + fragment[wrapper.end:]
+    # Some PAGE comments are inside lists or other nested blocks where a page
+    # wrapper cannot be inserted. Their marker and stationary IDs still need
+    # to be cleared before a warm render regenerates them.
+    generated_marker = re.compile(
+        r'(?:<span\b(?=[^>]*\bclass=["\'][^"\']*\bminutes-page__anchor\b)'
+        r'[^>]*>\s*</span>)*'
+        r'<div\b(?=[^>]*\bclass=["\'][^"\']*\bpage-marker\b)[^>]*>.*?</div>',
+        re.I | re.S,
+    )
+    fragment = generated_marker.sub("", fragment)
+    return fragment
+
+
+def marker_markup(match: re.Match[str], printed_counts: Counter[str],
+                  first_printed_pdf: dict[str, int]) -> str:
     ga = match.group("ga")
     pdf_page = match.group("pdf_page")
     printed_page = match.group("printed_page")
     printed = printed_page.lower() != "null"
     page = printed_page if printed else pdf_page
-    anchor = f"ga{ga}-p{page}" if printed else f"ga{ga}-pdf-p{page}"
+    identifiers = page_identifiers(ga, int(pdf_page), printed_page if printed else None,
+                                   printed_counts)
+    target = identifiers["qualified"] or identifiers["printed"] or identifiers["pdf"]
     short = f"M{ga}GA {'p.' if printed else 'PDF p.'}{page}"
     printed_source = match.group("printed_source") or ""
+    page_anchors = [f'<span id="{identifiers["pdf"]}" class="minutes-page__anchor"></span>']
+    if (identifiers["printed"] and
+            (printed_counts[printed_page] == 1
+             or first_printed_pdf.get(printed_page) == int(pdf_page))):
+        page_anchors.append(
+            f'<span id="{identifiers["printed"]}" class="minutes-page__anchor"></span>')
+    if identifiers["qualified"]:
+        page_anchors.append(
+            f'<span id="{identifiers["qualified"]}" class="minutes-page__anchor"></span>')
     return (
-        f'<div class="page-marker" id="{anchor}" data-ga="{ga}" '
+        ''.join(page_anchors) +
+        f'<div class="page-marker" data-ga="{ga}" '
         f'data-pdf-page="{pdf_page}" data-printed-page="{printed_page}" '
+        f'data-pdf-anchor="{identifiers["pdf"]}" '
+        f'data-printed-anchor="{identifiers["printed"] or ""}" '
         f'data-printed-source="{printed_source}">'
-        f'<a href="#{anchor}">{short}</a>'
+        f'<a href="#{target}">{short}</a>'
         f'<button type="button" class="page-marker__actions" aria-label="Actions for {short}">'
         '<svg class="action-icon" viewBox="0 0 24 24" fill="none" aria-hidden="true">'
         '<path d="M5 3h10l4 4v14H5zM15 3v5h4M8 12h8M8 16h5" '
@@ -147,6 +198,12 @@ def transform_volume(source: str, path: Path) -> tuple[str, int, int]:
     if end < start:
         raise ValueError(f"{path}: .reading-col article has no closing tag")
     fragment = _remove_page_break_paragraphs(source[start:end])
+    # The old -pN anchors had both PDF-page and printed-folio meanings. Remove
+    # only empty anchors immediately adjacent to PAGE boundaries; their targets
+    # are rebuilt from unambiguous page metadata below.
+    fragment = LEGACY_PAGE_ANCHOR_RE.sub("", fragment)
+    fragment = re.sub(r"<p>\s*</p>", "", fragment, flags=re.I)
+    fragment = _flatten_generated_pages(fragment)
     comments = list(PAGE_COMMENT_RE.finditer(fragment))
     if not comments:
         raise ValueError(f"{path}: no rendered PAGE comments found")
@@ -160,18 +217,31 @@ def transform_volume(source: str, path: Path) -> tuple[str, int, int]:
 
     # Leave the source comments for the citation linker, which reads them when
     # refreshing minutes-pages.json during later incremental builds.
-    fragment = PAGE_COMMENT_RE.sub(lambda item: item.group(0) + marker_markup(item), fragment)
+    printed_counts = count_printed_pages(
+        (item.group("printed_page"), item.group("pdf_page")) for item in comments)
+    first_printed_pdf: dict[str, int] = {}
+    for item in comments:
+        folio = item.group("printed_page")
+        if folio.lower() != "null":
+            first_printed_pdf.setdefault(folio, int(item.group("pdf_page")))
+    fragment = PAGE_COMMENT_RE.sub(
+        lambda item: item.group(0) + marker_markup(item, printed_counts, first_printed_pdf), fragment)
     nodes = top_level_nodes(fragment)
     comment_nodes = [node for node in nodes if node.kind == "comment" and PAGE_COMMENT_RE.fullmatch(node.text)]
 
-    wraps: list[tuple[int, int]] = []
+    wraps: list[tuple[int, int, int]] = []
     node_indexes = {node.start: index for index, node in enumerate(nodes)}
     for index, comment in enumerate(comment_nodes):
         comment_index = node_indexes[comment.start]
-        if comment_index + 1 >= len(nodes) or not MARKER_RE.match(nodes[comment_index + 1].text):
+        marker_index = comment_index + 1
+        while (marker_index < len(nodes)
+               and re.match(r'<span\b(?=[^>]*\bclass=["\'][^"\']*\bminutes-page__anchor\b)',
+                            nodes[marker_index].text, re.I)):
+            marker_index += 1
+        if marker_index >= len(nodes) or not MARKER_RE.match(nodes[marker_index].text):
             raise ValueError(f"{path}: generated marker did not follow its PAGE comment")
-        previous = nodes[comment_index - 1] if comment_index else None
-        page_start = previous.start if previous and PAGE_ANCHOR_RE.fullmatch(previous.text.strip()) else comment.start
+        page_start = comment.start
+        content_start = page_start
 
         page_end = len(fragment)
         if index + 1 < len(comment_nodes):
@@ -182,11 +252,18 @@ def transform_volume(source: str, path: Path) -> tuple[str, int, int]:
                 page_end = preceding.start
             else:
                 page_end = following_comment.start
-        wraps.append((page_start, page_end))
+        info = PAGE_COMMENT_RE.fullmatch(comment.text)
+        assert info is not None
+        printed = info.group("printed_page")
+        ids = page_identifiers(info.group("ga"), int(info.group("pdf_page")),
+                               printed if printed.lower() != "null" else None,
+                               printed_counts)
+        wraps.append((page_start, page_end, content_start))
 
-    for page_start, page_end in reversed(wraps):
-        fragment = (fragment[:page_start] + '<div class="minutes-page">'
-                    + fragment[page_start:page_end] + '</div>' + fragment[page_end:])
+    for page_start, page_end, content_start in reversed(wraps):
+        fragment = (fragment[:page_start]
+                    + '<div class="minutes-page">'
+                    + fragment[content_start:page_end] + '</div>' + fragment[page_end:])
     return source[:start] + fragment + source[end:], len(comments), len(wraps)
 
 

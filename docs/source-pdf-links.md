@@ -19,6 +19,12 @@ The repository does not vendor the external PDF binaries. A source entry's
 explicitly null. Study text audit artifacts, when present, are recorded
 separately as `local_artifact_path`.
 
+Minutes HTML links distinguish a printed folio from its physical PDF page.
+`gaNN-pdf-pN` identifies PDF page N. `gaNN-pN` identifies printed folio N
+when present; repeated folios use an occurrence-qualified printed ID such as
+`ga33-p300-at-pdf590`. A missing printed folio has only its PDF-page ID. The
+external PDF action always uses the physical PDF page coordinate.
+
 ## Source precedence
 
 A record may have more than one source:
@@ -29,7 +35,9 @@ A record may have more than one source:
 Dedicated PDFs are listed before minutes fallbacks. A minutes page must use the
 PDF page coordinate, not merely the printed page number. The resolver maps
 printed anchors or source line ranges through the authoritative `PAGE` markers
-in the minutes markdown.
+in the minutes markdown. A bare legacy printed anchor resolves to the first
+occurrence only for compatibility; new references to a repeated folio must
+carry a source span or occurrence-qualified ID.
 
 ## Adding or correcting a source
 

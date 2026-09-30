@@ -303,6 +303,7 @@ def run_fast_preview(root: Path, site: Path, reader: Path,
     # come from cache. Reapply the compatibility links before linking and audit.
     run([sys.executable, "scripts/46_provision_research.py", "link-authorities",
          str(root), str(site)], root)
+    run([sys.executable, "scripts/46_minutes_page_markup.py", str(site)], root)
 
     normalizer = [sys.executable, "scripts/44_normalize_bco_prefixes.py", str(site)]
     if not full_render:
@@ -339,6 +340,7 @@ def run_fast_preview(root: Path, site: Path, reader: Path,
         )
         run([sys.executable, "scripts/46_provision_research.py", "link-authorities",
              str(root), str(site)], root)
+        run([sys.executable, "scripts/46_minutes_page_markup.py", str(site)], root)
         run([sys.executable, "scripts/44_normalize_bco_prefixes.py", str(site)], root)
         link_command.append("--reset-state")
         inventory_index = link_command.index("--source-inventory") + 1
@@ -347,8 +349,6 @@ def run_fast_preview(root: Path, site: Path, reader: Path,
         full_render = True
     elif link_status:
         raise subprocess.CalledProcessError(link_status, link_command)
-
-    run([sys.executable, "scripts/46_minutes_page_markup.py", str(site)], root)
 
     if refresh_provision_cache:
         save_provision_pages(root, site, provision_fingerprint)
@@ -428,12 +428,12 @@ def main() -> int:
     python = sys.executable
     run([python, "scripts/build_bsb_assets.py", "--check"], root)
     _, provision_fingerprint = restore_or_generate_provision_pages(root, site, force=True)
+    run([python, "scripts/46_minutes_page_markup.py", str(site)], root)
     run([python, "scripts/44_normalize_bco_prefixes.py", str(site)], root)
     run([python, "scripts/44_link_constitution_refs.py", str(site),
          *(str(reader / name) for name in ("bco.js", "wcf.js", "wlc.js", "wsc.js", "rao.js")),
          "--incremental-state", str(state), "--source-inventory", inventory,
          "--reset-state"], root)
-    run([python, "scripts/46_minutes_page_markup.py", str(site)], root)
     save_provision_pages(root, site, provision_fingerprint)
     run(["npx", "--yes", "pagefind@1.5.2", "--site", str(site)], root)
     in_progress.unlink()

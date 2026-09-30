@@ -3,9 +3,22 @@
 from __future__ import annotations
 
 import argparse
+from collections import Counter
 from pathlib import Path
 import re
 import sys
+from html.parser import HTMLParser
+
+
+class IdAudit(HTMLParser):
+    def __init__(self) -> None:
+        super().__init__()
+        self.ids: list[str] = []
+
+    def handle_starttag(self, tag: str, attrs: list[tuple[str, str | None]]) -> None:
+        for name, value in attrs:
+            if name == "id" and value:
+                self.ids.append(value)
 
 
 def require_file(path: Path) -> None:
@@ -98,6 +111,47 @@ def main() -> int:
                 f"{page_comments} source markers, {page_markers} rendered markers, "
                 f"and {page_wrappers} page wrappers."
             )
+        id_audit = IdAudit()
+        id_audit.feed(volume_html)
+        page_ids = Counter(value for value in id_audit.ids
+                           if re.fullmatch(r"ga\d+-(?:pdf-p|p)[A-Za-z0-9.-]+(?:-at-pdf\d+)?", value))
+        duplicates = sorted(value for value, count in page_ids.items() if count > 1)
+        if duplicates:
+            raise SystemExit(f"Duplicate Minutes page targets in {path.name}: {', '.join(duplicates[:8])}.")
+        identifiers = set(id_audit.ids)
+        markers = list(re.finditer(
+            r'<!--\s*PAGE\s+ga=(\d+)\s+pdf_page=(\d+)\s+printed_page=([^\s>]+)'
+            r'(?:\s+[A-Za-z_][A-Za-z0-9_-]*=[^\s>]+)*\s*-->'
+            r'(?P<anchors>(?:<span\s+id="ga\d+-(?:pdf-p|p)[^"]+"\s+'
+            r'class="minutes-page__anchor"></span>)*)'
+            r'<div\b[^>]*class="page-marker"[^>]*>.*?<a\s+href="#([^"]+)"',
+            volume_html, re.I | re.S))
+        if len(markers) != page_comments:
+            raise SystemExit(f"Page targets or markers do not match PAGE comments in {path.name}.")
+        folio_counts = Counter(match.group(3) for match in markers
+                               if match.group(3).lower() != "null")
+        first_folio_pdf: dict[str, str] = {}
+        for marker in markers:
+            if marker.group(3).lower() != "null":
+                first_folio_pdf.setdefault(marker.group(3), marker.group(2))
+        for page in markers:
+            ga, pdf_page, folio = page.group(1), page.group(2), page.group(3)
+            page_anchors = set(re.findall(r'id="([^"]+)"', page.group("anchors")))
+            pdf_anchor = f"ga{int(ga)}-pdf-p{int(pdf_page)}"
+            if pdf_anchor not in page_anchors:
+                raise SystemExit(f"PDF target does not match its PAGE metadata in {path.name}: {pdf_anchor}.")
+            if folio.lower() != "null":
+                base = f"ga{int(ga)}-p{folio}"
+                needs_base = (folio_counts[folio] == 1
+                              or first_folio_pdf.get(folio) == pdf_page)
+                if needs_base != (base in page_anchors):
+                    raise SystemExit(f"Printed-page target does not match its folio in {path.name}: {base}.")
+                if folio_counts[folio] > 1:
+                    qualified = f"{base}-at-pdf{pdf_page}"
+                    if qualified not in page_anchors:
+                        raise SystemExit(f"Repeated printed folio lacks its occurrence target in {path.name}: {qualified}.")
+            if page.group(5) not in identifiers:
+                raise SystemExit(f"Page marker has no valid local target in {path.name}.")
 
     # Linker outputs and markers must exist after the whole-site transform.
     for relative in (

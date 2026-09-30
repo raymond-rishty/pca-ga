@@ -821,7 +821,8 @@ textarea:focus-visible {
 .record-actions button:hover,.record-actions button.is-saved { border-color: var(--gold); color: #755719; background: var(--gold-pale); }
 .record-actions button span { font-size: 15px; }
 .record-actions button .record-action__icon,.record-actions button .action-icon { width: 16px; height: 16px; flex: 0 0 auto; }
-.minutes-page { position: relative; }
+.minutes-page { position: relative; scroll-margin-top: calc(var(--topbar-h) + 1rem); }
+.minutes-page__anchor { display:block; height:0; scroll-margin-top:calc(var(--topbar-h) + 1rem); }
 .page-marker { position: sticky; top: var(--topbar-h); z-index: 20; display: flex; align-items: center; gap: .6rem; margin: 1.8rem 0 .8rem; padding: .35rem 0; border-top: 1px solid var(--parch-deep); background: var(--parch); color: var(--ink-muted); font-family: var(--sans); font-size: 10px; letter-spacing: .08em; text-transform: uppercase; }
 .page-marker a { color: #80621F; text-decoration: none; border: 0; }
 .page-marker__actions { display: inline-flex; align-items: center; gap: .35rem; min-width: 30px; min-height: 28px; margin-left: auto; padding: 0 .45rem; border: 1px solid transparent; border-radius: 3px; color: var(--ink-muted); font-size: 10px; letter-spacing: .04em; text-transform: none; }
