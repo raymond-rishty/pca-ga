@@ -1,16 +1,37 @@
 ---
 layout: default
 ---
-<section class="record-header record-header--collection record-header--inquiry" id="collectionRecordHeader" data-record-kind="Constitutional inquiry">
-  <p class="record-header__kind">Constitutional inquiry</p>
-  <div class="record-header__content" id="collectionRecordHeaderContent"></div>
+<section class="record-header record-header--collection record-header--inquiry{% if page.inquiry_record %} is-ready{% endif %}" id="collectionRecordHeader" data-record-kind="{{ page.inquiry_record.type | default: 'Constitutional inquiry' | escape }}">
+  <p class="record-header__kind">{{ page.inquiry_record.type | default: 'Constitutional inquiry' | escape }}</p>
+  <div class="record-header__content" id="collectionRecordHeaderContent">
+    {% if page.inquiry_record %}
+      <h1>{{ page.inquiry_record.title | escape }}</h1>
+      <div class="inquiry-header__facts">
+        <p><strong>Assembly:</strong> {{ page.inquiry_record.assembly | escape }}</p>
+        {% if page.inquiry_record.disposition_display %}<p><strong>Disposition:</strong> {{ page.inquiry_record.disposition_display | escape }}</p>{% endif %}
+        {% if page.inquiry_record.source %}<p><strong>Inquiry from:</strong> {{ page.inquiry_record.source | escape }}</p>{% endif %}
+        {% if page.inquiry_record.provisions.size > 0 %}<p><strong>Provisions / Digest key words:</strong> {{ page.inquiry_record.provisions | join: ', ' | escape }}</p>{% endif %}
+      </div>
+      <div class="inquiry-header__digest">
+        <p class="inquiry-header__label">Digest summary</p>
+        {% if page.inquiry_record.digest_summaries.size > 0 %}
+          <div class="inquiry-header__digest-text">
+            {% for summary in page.inquiry_record.digest_summaries %}<p>{{ summary | escape }}</p>{% endfor %}
+          </div>
+          <p class="inquiry-header__digest-source">{{ page.inquiry_record.digest_source | escape }}</p>
+        {% else %}
+          <p class="inquiry-header__digest-empty">No Digest summary is available for this record.</p>
+        {% endif %}
+      </div>
+      <p class="inquiry-header__minutes"><strong>Source minutes:</strong> <a href="{{ page.inquiry_record.minutes_href | escape }}">{{ page.inquiry_record.minutes_label | escape }}</a><span class="inquiry-header__source-status">{{ page.inquiry_record.source_status | escape }}</span></p>
+    {% endif %}
+  </div>
   <div class="record-actions" aria-label="Record actions">
     <button type="button" data-record-save><svg class="record-action__icon" viewBox="0 0 24 24" fill="none" aria-hidden="true"><path d="M5 3h10l4 4v14H5zM15 3v5h4M8 12h8M8 16h5" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"/><path d="M3 2h5v5l-2.5-1.8L3 7z" fill="currentColor"/></svg> Save</button>
     <button type="button" data-record-cite><svg class="record-action__icon" viewBox="0 0 24 24" fill="none" aria-hidden="true"><path d="M5 3h10l4 4v14H5zM15 3v5h4M8 12h8M8 16h5" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"/><path d="M7 7v3M5.5 8.5h3M12 11v3M10.5 12.5h3" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/></svg> Cite</button>
     <button type="button" data-record-share><span aria-hidden="true">↗</span> Share</button>
   </div>
+  {% include source-pdf-links.html %}
 </section>
-
-{% include source-pdf-links.html %}
 
 {{ content }}

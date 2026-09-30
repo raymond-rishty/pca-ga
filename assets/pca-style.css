@@ -802,6 +802,20 @@ textarea:focus-visible {
 .record-header__content p a { color: #80621F; }
 .record-header--rpr .record-header__content > p:first-of-type,
 .record-header--study .record-header__content > p:first-of-type { margin-top: 0; color: #6D604D; font: italic 1.05rem/1.45 var(--serif); }
+.inquiry-header__facts { display: flex; flex-wrap: wrap; gap: .25rem 1.1rem; margin: .1rem 0 .85rem; }
+.record-header__content .inquiry-header__facts p { margin: 0; }
+.inquiry-header__label { display: block; margin: 0 0 .35rem; color: #80621F; font: 500 9px/1.4 var(--sans); letter-spacing: .12em; text-transform: uppercase; }
+.inquiry-header__digest { margin-top: .9rem; padding-top: .75rem; border-top: 1px solid var(--parch-deep); }
+.inquiry-header__digest-text { margin-top: .35rem; }
+.record-header__content .inquiry-header__digest-text p { margin: 0; color: #4B5668; font: 400 1rem/1.5 var(--serif); }
+.record-header__content .inquiry-header__digest-text p + p { margin-top: .75rem; }
+.record-header__content .inquiry-header__digest-source { margin-top: .55rem; color: var(--ink-muted); font: 400 10px/1.45 var(--sans); }
+.record-header__content .inquiry-header__digest-empty { margin-top: .4rem; color: var(--ink-muted); font: italic 400 .95rem/1.45 var(--serif); }
+.reading-col p.record-transcript-note { margin: -.15rem 0 1.25rem; padding: .45rem .7rem; border-left: 2px solid var(--parch-deep); background: rgba(237, 230, 213, .55); color: var(--ink-muted); font: 400 .75rem/1.5 var(--sans); }
+.reading-col h3.record-transcript-heading { margin: 1.5rem 0 .45rem; color: var(--ink-muted); font: 500 .78rem/1.4 var(--sans); letter-spacing: .09em; text-transform: uppercase; }
+.record-header__content .inquiry-header__minutes { margin-top: .9rem; }
+.inquiry-header__source-status { display: block; margin-top: .15rem; color: var(--ink-muted); font-size: 10px; }
+.record-header--inquiry .record-source-links { margin-top: .8rem; }
 .record-actions { display: grid; grid-template-columns: repeat(3, 1fr); gap: .55rem; margin-top: 1.2rem; padding-top: 1rem; border-top: 1px solid var(--parch-deep); }
 .record-actions button { display: inline-flex; align-items: center; justify-content: center; gap: .4rem; min-height: 42px; border: 1px solid var(--parch-deep); border-radius: 3px; background: var(--paper); color: var(--ink); font-size: 11px; font-weight: 500; }
 .record-actions button:hover,.record-actions button.is-saved { border-color: var(--gold); color: #755719; background: var(--gold-pale); }
