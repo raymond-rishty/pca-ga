@@ -210,7 +210,7 @@ def main():
         ))
         page = source_meta + [title, "", "  ·  ".join(bits), "",
                 f"*Source: [{vol} {pr}](../markdown/{vol}.md)*", "", "---", "", body, "", "---", "",
-                f"[← Judicial case index](../index/CASES.md)"]
+                f"[← Judicial case index](../index/JUDICIAL-CASES.html)"]
         open(os.path.join(OUT, fname(r["case_id"]) + ".md"), "w").write("\n".join(page) + "\n")
         n += 1
     print(f"wrote {n} case pages to cases/  (skipped {skipped} with no text/page)")

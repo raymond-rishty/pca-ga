@@ -74,7 +74,7 @@ def main():
             ))
             page = source_meta + [title, "", "  ·  ".join(hdr), "",
                     f"*Source: [{vol} lines {spans}](../markdown/{vol}.md)*", "",
-                    "---", "", body, "", "---", "", "[← Judicial case index](../index/CASES.md)"]
+                    "---", "", body, "", "---", "", "[← Judicial case index](../index/JUDICIAL-CASES.html)"]
             open(f"{OUT}/{slug}.md", "w").write("\n".join(page) + "\n")
             pages.append({"vol": vol, "ga": ga, "year": year, "file": slug, "number": num,
                           "parties": parties, "disposition": c.get("disposition", ""),

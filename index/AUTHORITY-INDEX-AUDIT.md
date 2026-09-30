@@ -1,6 +1,6 @@
 # Authority index audit
 
-Catalogue input fingerprint: `a5e8e33551c29589bc3b3757de860ec49eec3c32b35ac521f9fe01298359144f`.
+Catalogue input fingerprint: `2b60e8a15a50050ab52e49c069602b767e699cb8abb4a9ce40650676b7c19732`.
 
 The catalogue contains 1172 provisions, 12478 relationships, 16157 evidence occurrences, and 98 unmatched source references.
 

@@ -90,7 +90,7 @@ def old_body(text: str) -> str:
     parts = text.split("\n---\n", 1)
     body = parts[1] if len(parts) == 2 else text
     body = body.rsplit("\n---\n", 1)[0]
-    return body.replace("[← Judicial case index](../index/CASES.md)", "")
+    return body.replace("[← Judicial case index](../index/CASES.md)", "").replace("[← Judicial case index](../index/JUDICIAL-CASES.html)", "")
 
 
 def case_signals(text: str):
@@ -282,7 +282,7 @@ def main() -> None:
                 body = case_pages.promote_opinions(candidate)
                 item["path"].write_text(
                     "\n".join([preamble(item["text"]), "", "---", "", body, "", "---", "",
-                               "[← Judicial case index](../index/CASES.md)", ""]),
+                               "[← Judicial case index](../index/JUDICIAL-CASES.html)", ""]),
                     encoding="utf-8",
                 )
                 result["applied"] = True

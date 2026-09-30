@@ -95,7 +95,7 @@ def page_for(block: dict, vol: str, meta: dict, titles: dict, overrides: dict,
     body = promote_opinions(block["text"])
     return "\n".join([
         prefix,
-        "", "---", "", body, "", "---", "", "[← Judicial case index](../index/CASES.md)", ""
+        "", "---", "", body, "", "---", "", "[← Judicial case index](../index/JUDICIAL-CASES.html)", ""
     ])
 
 

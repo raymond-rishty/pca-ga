@@ -172,7 +172,7 @@ def main():
                 "recorded below.*", "", "---", "",
                 "> " + text.replace("\n", "\n> "), "",
                 f"*Source: [{vol}](../markdown/{vol}.md)*", "", "---", "",
-                "[← Judicial case index](../index/CASES.md)"]
+                "[← Judicial case index](../index/JUDICIAL-CASES.html)"]
         open(f"{OUT}/{slug}.md", "w").write("\n".join(page) + "\n")
         stubs[norm] = {"vol": vol, "file": slug, "disposition": disp, "ga": gg, "parties": who}
         n += 1

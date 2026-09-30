@@ -78,7 +78,7 @@ def main():
             ))
             page = source_meta + [f"# {'/'.join(nums)} — {title}", "", "  ·  ".join(hdr), "",
                     f"*Source: [{vol} lines {spans}](../markdown/{vol}.md)*", "",
-                    "---", "", body, "", "---", "", "[← Judicial case index](../index/CASES.md)"]
+                    "---", "", body, "", "---", "", "[← Judicial case index](../index/JUDICIAL-CASES.html)"]
             open(f"{OUT}/{slug}.md", "w").write("\n".join(page) + "\n")
             for x in nums:
                 pmap[x] = {"vol": vol, "file": slug, "numbers": nums, "title": title}
