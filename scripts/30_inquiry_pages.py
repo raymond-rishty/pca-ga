@@ -5,14 +5,13 @@ Reads canonical inquiry records from <ROOT>/index/inquiries.jsonl. Each JSONL
 row combines the Digest/headnote metadata with a stable ID and its source locator.
 
 Slices the verbatim record from <ROOT>/markdown/ and writes, mirroring CASES.md / cases/*:
-  - <ROOT>/inquiries/<stem>__ci<NN>.md  : one page per inquiry (Digest headnote + verbatim record + deep-links)
+  - <ROOT>/inquiries/<stem>__ci<NN>.md  : one page per inquiry (structured editorial header + minutes transcript)
   - <ROOT>/index/INQUIRIES.md           : the catalogue, grouped by Assembly
 
 Usage:  30_inquiry_pages.py [ROOT]      (ROOT defaults to /workspace)
 
-Per SPEC-INQUIRIES.md: the headnote is an EDITORIAL summary (here, the PCA Digest's Part II text,
-attributed and clearly separated) and is NOT bound to verbatim; it deep-links to the verbatim source
-in the minutes, which is sliced unaltered below it.
+Per SPEC-INQUIRIES.md: the Digest headnote is editorial, attributed, and rendered in the record
+header. The page body contains only source-located minutes text and source-derived section headings.
 """
 from __future__ import annotations
 import json, os, re, sys
@@ -121,6 +120,49 @@ def ordinal(n: int) -> str:
 
 def md_escape(s) -> str:
     return (s or "").replace("|", "\\|").replace("\n", " ").strip()
+
+
+def yaml_scalar(value) -> str:
+    """Encode a scalar using JSON's YAML-compatible quoted-string syntax."""
+    return json.dumps("" if value is None else str(value), ensure_ascii=False)
+
+
+def compact_disposition(value: str) -> str:
+    """Keep a long outcome field from repeating the adjacent editorial summary."""
+    text = (value or "").strip()
+    if len(text) <= 110:
+        return text
+    tail = text.rsplit(";", 1)[-1].strip()
+    if tail and len(tail) <= 48:
+        return tail
+    return text[:107].rsplit(" ", 1)[0].rstrip(" ,;:") + "…"
+
+
+def inquiry_front_matter(source_meta: list[str], context: dict) -> list[str]:
+    """Write structured inquiry context for the server-rendered record header."""
+    lines = source_meta[:-2] if source_meta else ["---"]
+    lines += [
+        "title: " + yaml_scalar(context["title"]),
+        "description: " + yaml_scalar(context.get("synopsis") or context["title"]),
+        "inquiry_record:",
+    ]
+    for key in ("title", "subject", "type", "assembly", "synopsis", "disposition",
+                "disposition_display",
+                "source", "minutes_label", "minutes_href", "source_status"):
+        if context.get(key) is not None:
+            lines.append(f"  {key}: {yaml_scalar(context[key])}")
+    provisions = context.get("provisions", [])
+    lines.append("  provisions:" if provisions else "  provisions: []")
+    lines.extend("    - " + yaml_scalar(value) for value in provisions)
+    summaries = context.get("digest_summaries", [])
+    lines.append("  digest_summaries:" if summaries else "  digest_summaries: []")
+    lines.extend("    - " + yaml_scalar(value) for value in summaries)
+    lines += [
+        "  digest_source: " + yaml_scalar("PCA Digest, Part II — Interpretations of the Constitution"),
+        "---",
+        "",
+    ]
+    return lines
 
 
 def token_spans(text: str, marker: str) -> list[tuple[int, int]]:
@@ -383,50 +425,87 @@ def main():
         source_meta = source_front_matter(source_entries_for_record(
             Path(ROOT), "inquiry", e0["id"], stem, source_page
         ))
-        page = source_meta + [f"# {label} — {subj}", ""]
-        if synopsis:
-            page += [f"*{md_escape(synopsis)}*", ""]
-        page += ["  ·  ".join(hdr), "", srcline, "", "---", ""]
-        if summaries:
-            page += ["## Digest headnote",
-                     "*Editorial summary from the PCA Digest, Part II (Interpretations of the Constitution) — "
-                     + ("this is the Digest's wording, not the verbatim minutes. The authoritative text is "
-                        "the verbatim record below / linked above.*" if verbatim_verified else
-                        "this is the Digest's wording, not the verbatim minutes. The primary source passage "
-                        "still needs verification.*"), ""]
-            if len(summaries) == 1:
-                page += [summaries[0], ""]
-            else:
-                page += [f"- {s}" for s in summaries] + [""]
-            if provs:
-                page += ["**Key words:** " + ", ".join(provs), ""]
-            if source:
-                page += ["**Inquiry from:** " + md_escape(source), ""]
-            page += ["**In the minutes:** " + (deeplink(stem, primary_anchor, primary_printed)
-                                                if primary_anchor else "_(source passage not yet verified)_"),
-                     "", "---", ""]
-        page += ["## Verbatim record", ""]
-        if ratified_only:
-            page += ["*The General Assembly ratified this advice by reference; the substantive answer "
-                     "is not printed as a separate passage in this volume. The ratifying action is quoted "
-                     "below.*", ""]
-        if substantive:
-            page += ["### Question and answer", "", substantive_body, ""]
-        elif posed:
-            page += ["### As referred / posed", "", posed, "", "### CCB advice", "",
-                     body or "_(CCB advice has no verified phrase locator yet; legacy line offsets are retained for audit.)_", ""]
+        is_inq = (mtype == "Constitutional inquiry")
+        minutes_href = f"../markdown/{stem}.html" + (f"#{primary_anchor}" if primary_anchor else "")
+        minutes_printed = (primary_printed or
+                           (printed_page_for_anchor(Path(ROOT), stem, primary_anchor)
+                            if primary_anchor else None))
+        minutes_label = (f"{stem} minutes p.{minutes_printed}" if minutes_printed
+                         else f"{stem} minutes — passage not yet verified")
+        context = {
+            "title": f"{label} — {subj}",
+            "subject": subj,
+            "type": mtype,
+            "assembly": f"{ordinal(ordn)} ({year})",
+            "synopsis": synopsis,
+            "disposition": disp,
+            "disposition_display": compact_disposition(disp),
+            "source": source,
+            "minutes_label": minutes_label,
+            "minutes_href": minutes_href,
+            "source_status": ("Verified phrase-located passage" if verbatim_verified
+                              else "Minutes passage not yet verified"),
+            "provisions": provs,
+            "digest_summaries": summaries,
+        }
+        if is_inq:
+            page = inquiry_front_matter(source_meta, context)
+            page += ["## Minutes transcript", ""]
+            if substantive or posed:
+                page += ['<p class="record-transcript-note">Section headings below are added for navigation.</p>', ""]
         else:
-            page += [body or "_(Verbatim source passage has no verified phrase locator yet; legacy line offsets are retained for audit.)_", ""]
+            page = source_meta + [f"# {label} — {subj}", ""]
+            if synopsis:
+                page += [f"*{md_escape(synopsis)}*", ""]
+            page += ["  ·  ".join(hdr), "", srcline, "", "---", ""]
+            if summaries:
+                page += ["## Digest headnote",
+                         "*Editorial summary from the PCA Digest, Part II (Interpretations of the Constitution) — "
+                         + ("this is the Digest's wording, not the verbatim minutes. The authoritative text is "
+                            "the verbatim record below / linked above.*" if verbatim_verified else
+                            "this is the Digest's wording, not the verbatim minutes. The primary source passage "
+                            "still needs verification.*"), ""]
+                if len(summaries) == 1:
+                    page += [summaries[0], ""]
+                else:
+                    page += [f"- {s}" for s in summaries] + [""]
+                if provs:
+                    page += ["**Key words:** " + ", ".join(provs), ""]
+                if source:
+                    page += ["**Inquiry from:** " + md_escape(source), ""]
+                page += ["**In the minutes:** " + (deeplink(stem, primary_anchor, primary_printed)
+                                                    if primary_anchor else "_(source passage not yet verified)_"),
+                         "", "---", ""]
+            page += ["## Verbatim record", ""]
+            if ratified_only:
+                page += ["*The General Assembly ratified this advice by reference; the substantive answer "
+                         "is not printed as a separate passage in this volume. The ratifying action is quoted "
+                         "below.*", ""]
+            if substantive or posed:
+                page += ['<p class="record-transcript-note">Section headings below are added for navigation.</p>', ""]
+        if substantive:
+            heading = ('<h3 class="record-transcript-heading">Question and answer</h3>'
+                       if is_inq else "### Question and answer")
+            page += [heading, "", substantive_body, ""]
+        elif posed:
+            if is_inq:
+                page += ['<h3 class="record-transcript-heading">Inquiry</h3>', "", posed, "",
+                         '<h3 class="record-transcript-heading">Response</h3>', ""]
+            else:
+                page += ["### As referred / posed", "", posed, "", "### CCB advice", ""]
+            page += [body or ("" if is_inq else "_(CCB advice has no verified phrase locator yet; legacy line offsets are retained for audit.)_"), ""]
+        else:
+            page += [body or ("" if is_inq else "_(Verbatim source passage has no verified phrase locator yet; legacy line offsets are retained for audit.)_"), ""]
         if action:
             action_anchor = (action.get("page_anchor") or "").strip()
             ma = re.match(r"ga(\d+)-p(.+)$", action_anchor)
             if ma:
                 action_anchor = f"ga{int(ma.group(1)):02d}-p{ma.group(2)}"
-            page += ["## Assembly action", "",
-                     "The General Assembly's later action is preserved separately from the substantive Q&A: "
-                     + (deeplink(stem, action_anchor, action.get("printed_page")) if action_anchor else stem), "",
-                     action_body or "_(Assembly action has no verified phrase locator yet.)_", ""]
-        is_inq = (mtype == "Constitutional inquiry")
+            page += ["## Assembly action", ""]
+            if not is_inq:
+                page += ["The General Assembly's later action is preserved separately from the substantive Q&A: "
+                         + (deeplink(stem, action_anchor, action.get("printed_page")) if action_anchor else stem), ""]
+            page += [action_body or ("" if is_inq else "_(Assembly action has no verified phrase locator yet.)_"), ""]
         back = ("[← Constitutional inquiry index](../index/INQUIRIES.md)" if is_inq
                 else "[← Overture/amendment advice index](../index/CCB-OVERTURE-ADVICE.md)")
         page += ["---", "", back]

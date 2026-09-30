@@ -348,8 +348,13 @@
     const content = document.getElementById('collectionRecordHeaderContent');
     const column = document.querySelector('.reading-col');
     if (!header || !content || !column) return;
-    const title = [...column.children].find((child) => child.tagName === 'H1');
+    const title = content.querySelector('h1') || [...column.children].find((child) => child.tagName === 'H1');
     if (!title) return;
+    if (title.parentElement === content) {
+      header.classList.add('is-ready');
+      setupRecordActions(header, collectionCitation(header));
+      return;
+    }
     let next = title.nextElementSibling;
     content.appendChild(title);
     let moved = 0;
