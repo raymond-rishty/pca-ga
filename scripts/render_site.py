@@ -455,6 +455,11 @@ def run_fast_preview(root: Path, site: Path, reader: Path,
     ]
     if full_render:
         link_command.append("--reset-state")
+    else:
+        # The normalizer emits authoritative hashes for changed pages and None
+        # for deletions. Let the linker reuse saved per-page results everywhere
+        # else instead of traversing and reparsing the entire rendered site.
+        link_command.extend(["--files-manifest", str(changed_manifest)])
     link_status = run_result(link_command, root, check=False)
     if link_status == 3:
         print("Link targets changed; forcing a complete Jekyll and link rebuild.")

@@ -142,6 +142,11 @@ def main() -> int:
                 relative: file_sha256(site / relative) if (site / relative).is_file() else None
                 for relative in changed_paths
             }
+            # Jekyll can remove pages as sources disappear. Include removals so
+            # the incremental linker drops their cached per-page state too.
+            for relative in cached_pages:
+                if not (site / relative).is_file():
+                    result_manifest[relative] = None
         else:
             result_manifest = {
                 relative: file_sha256(site / relative) if (site / relative).is_file() else None
