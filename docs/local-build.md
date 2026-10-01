@@ -13,7 +13,7 @@ The execution-policy command only applies to the current PowerShell process. If 
 .\scripts\build-local.ps1 -ConstitutionPath C:\path\to\pca-constitution-reader
 ```
 
-Without that option, the script reuses a checkout at `_constitution` if present; otherwise it clones the reader there and keeps it for later builds. The checkout is ignored by Git.
+Without that option, the script reuses a checkout at `_constitution` if present. If `PCA_GA_BUILD_TOOLS` is set, it otherwise uses a persistent checkout at `$PCA_GA_BUILD_TOOLS/pca-constitution-reader`; without that setting, it clones the reader at `_constitution`. These stable paths keep Gradle task arguments consistent between builds. The `_constitution` checkout is ignored by Git.
 
 Gradle's input/output tracking reuses unchanged generated-data tasks and skips the render pipeline when its inputs and output files are unchanged. Validation tasks still run on each invocation. The final site is not stored in Gradle's task-output cache. GitHub Actions keeps a separate rendered-site cache so later CI runs can reuse Jekyll output and per-page link results.
 

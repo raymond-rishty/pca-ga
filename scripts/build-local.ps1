@@ -4,7 +4,8 @@ param(
     [string]$SiteDirectory,
     [switch]$RegenerateOvertures,
     [switch]$Incremental,
-    [switch]$RefreshSearch
+    [switch]$RefreshSearch,
+    [switch]$Scan
 )
 
 $ErrorActionPreference = 'Stop'
@@ -17,6 +18,7 @@ if (-not $env:PCA_GA_BUILD_TOOLS) {
 }
 if ($env:PCA_GA_BUILD_TOOLS) {
     $toolsRoot = $env:PCA_GA_BUILD_TOOLS
+    $localJavaHome = Join-Path $toolsRoot 'jdk-17'
     $userPath = [Environment]::GetEnvironmentVariable('Path', 'User')
     $localToolPaths = @(
         (Join-Path $toolsRoot 'jdk-17\bin'),
@@ -25,6 +27,9 @@ if ($env:PCA_GA_BUILD_TOOLS) {
         (Join-Path $env:USERPROFILE '.cache\codex-runtimes\codex-primary-runtime\dependencies\python')
     )
     $env:Path = (($localToolPaths + @($userPath -split ';') + @($env:Path -split ';') | Where-Object { $_ -and (Test-Path -LiteralPath $_) } | Select-Object -Unique) -join ';')
+    if (Test-Path -LiteralPath (Join-Path $localJavaHome 'bin\java.exe') -PathType Leaf) {
+        $env:JAVA_HOME = $localJavaHome
+    }
     $env:TEMP = Join-Path $toolsRoot 'tmp'
     $env:TMP = $env:TEMP
     $env:npm_config_cache = Join-Path $toolsRoot 'npm-cache'
@@ -50,13 +55,27 @@ try {
     }
 
     if (-not $ConstitutionPath) {
-        $ConstitutionPath = Join-Path $repoRoot '_constitution'
-        if (-not (Test-Path -LiteralPath (Join-Path $ConstitutionPath 'content'))) {
+        $repositoryConstitutionPath = Join-Path $repoRoot '_constitution'
+        if (Test-Path -LiteralPath (Join-Path $repositoryConstitutionPath 'content/bco.js') -PathType Leaf) {
+            $ConstitutionPath = $repositoryConstitutionPath
+        } elseif ($toolsRoot) {
+            $ConstitutionPath = Join-Path $toolsRoot 'pca-constitution-reader'
+            if (-not (Test-Path -LiteralPath (Join-Path $ConstitutionPath 'content/bco.js') -PathType Leaf)) {
+                if (Test-Path -LiteralPath $ConstitutionPath) {
+                    throw "The cached Constitution Reader checkout exists but is incomplete: $ConstitutionPath"
+                }
+                Write-Host 'Fetching the PCA Constitution Reader source.' -ForegroundColor Cyan
+                git -c http.sslBackend=schannel -c http.sslCAInfo= clone --depth 1 https://github.com/raymond-rishty/pca-constitution-reader.git $ConstitutionPath
+                if ($LASTEXITCODE -ne 0) { throw "Constitution Reader checkout failed: $LASTEXITCODE" }
+            }
+        } else {
+            $ConstitutionPath = $repositoryConstitutionPath
+            if (Test-Path -LiteralPath $ConstitutionPath) {
+                throw "The ignored Constitution Reader checkout exists but is incomplete: $ConstitutionPath"
+            }
             Write-Host 'Fetching the PCA Constitution Reader source.' -ForegroundColor Cyan
-            $temporaryConstitutionPath = Join-Path ([IO.Path]::GetTempPath()) ("pca-ga-constitution-" + [guid]::NewGuid().ToString('N'))
-            git -c http.sslBackend=schannel -c http.sslCAInfo= clone --depth 1 https://github.com/raymond-rishty/pca-constitution-reader.git $temporaryConstitutionPath
+            git -c http.sslBackend=schannel -c http.sslCAInfo= clone --depth 1 https://github.com/raymond-rishty/pca-constitution-reader.git $ConstitutionPath
             if ($LASTEXITCODE -ne 0) { throw "Constitution Reader checkout failed: $LASTEXITCODE" }
-            $ConstitutionPath = $temporaryConstitutionPath
         }
     }
     $ConstitutionPath = (Resolve-Path -LiteralPath $ConstitutionPath).Path
@@ -87,6 +106,7 @@ try {
         $gradleArgs += '-PrefreshPreviewSearch=true'
     }
     if ($RegenerateOvertures) { $gradleArgs += '-PregenerateOvertures' }
+    if ($Scan) { $gradleArgs += '--scan' }
 
     & $gradleWrapper @gradleArgs
     if ($LASTEXITCODE -ne 0) {
@@ -95,13 +115,4 @@ try {
 }
 finally {
     Pop-Location
-    if ($temporaryConstitutionPath -and (Test-Path -LiteralPath $temporaryConstitutionPath)) {
-        $tempRoot = [IO.Path]::GetFullPath([IO.Path]::GetTempPath()).TrimEnd([IO.Path]::DirectorySeparatorChar) + [IO.Path]::DirectorySeparatorChar
-        $tempPath = [IO.Path]::GetFullPath($temporaryConstitutionPath)
-        if ($tempPath.StartsWith($tempRoot, [StringComparison]::OrdinalIgnoreCase)) {
-            Remove-Item -LiteralPath $tempPath -Recurse -Force
-        } else {
-            Write-Warning "Leaving the temporary Constitution Reader checkout outside the system temp directory: $tempPath"
-        }
-    }
 }

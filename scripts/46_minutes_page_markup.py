@@ -5,6 +5,7 @@ from __future__ import annotations
 import argparse
 from collections import Counter
 from dataclasses import dataclass
+import json
 from pathlib import Path
 import re
 
@@ -100,7 +101,9 @@ def top_level_nodes(fragment: str) -> list[Node]:
         index = end
     if element_start is not None:
         nodes.append(Node(element_start, len(fragment), "element", fragment[element_start:]))
-    return sorted(nodes, key=lambda node: node.start)
+    # Nodes are discovered in source order, so sorting here only adds work on
+    # volumes with tens of thousands of page boundaries.
+    return nodes
 
 
 def _remove_page_break_paragraphs(fragment: str) -> str:
@@ -125,28 +128,33 @@ def _flatten_generated_pages(fragment: str) -> str:
     wrappers = [node for node in top_level_nodes(fragment)
                 if re.match(r'<div\b(?=[^>]*\bclass=["\'][^"\']*\bminutes-page\b)',
                             node.text, re.I)]
-    for wrapper in reversed(wrappers):
-        opening_end = _tag_end(wrapper.text, 0)
-        inner = wrapper.text[opening_end:]
-        close_start = inner.rfind("</div>")
-        if close_start >= 0:
-            inner = inner[:close_start]
-        inner = re.sub(
-            r'<span\b(?=[^>]*\bclass=["\'][^"\']*\bminutes-page__anchor\b)[^>]*>\s*</span>',
-            "", inner, flags=re.I)
-        for node in reversed(top_level_nodes(inner)):
-            if MARKER_RE.match(node.text):
-                inner = inner[:node.start] + inner[node.end:]
-        fragment = fragment[:wrapper.start] + inner + fragment[wrapper.end:]
-    # Some PAGE comments are inside lists or other nested blocks where a page
-    # wrapper cannot be inserted. Their marker and stationary IDs still need
-    # to be cleared before a warm render regenerates them.
     generated_marker = re.compile(
         r'(?:<span\b(?=[^>]*\bclass=["\'][^"\']*\bminutes-page__anchor\b)'
         r'[^>]*>\s*</span>)*'
         r'<div\b(?=[^>]*\bclass=["\'][^"\']*\bpage-marker\b)[^>]*>.*?</div>',
         re.I | re.S,
     )
+    if wrappers:
+        parts: list[str] = []
+        cursor = 0
+        for wrapper in wrappers:
+            opening_end = _tag_end(wrapper.text, 0)
+            inner = wrapper.text[opening_end:]
+            close_start = inner.rfind("</div>")
+            if close_start >= 0:
+                inner = inner[:close_start]
+            # The generated page action markup has a stable shape. Remove it
+            # with one local regex pass instead of parsing every page again.
+            inner = generated_marker.sub("", inner)
+            if wrapper.start < cursor:
+                raise ValueError("overlapping generated Minutes page wrappers")
+            parts.extend((fragment[cursor:wrapper.start], inner))
+            cursor = wrapper.end
+        parts.append(fragment[cursor:])
+        fragment = ''.join(parts)
+    # Some PAGE comments are inside lists or other nested blocks where a page
+    # wrapper cannot be inserted. Their marker and stationary IDs still need
+    # to be cleared before a warm render regenerates them.
     fragment = generated_marker.sub("", fragment)
     return fragment
 
@@ -260,32 +268,70 @@ def transform_volume(source: str, path: Path) -> tuple[str, int, int]:
                                printed_counts)
         wraps.append((page_start, page_end, content_start))
 
-    for page_start, page_end, content_start in reversed(wraps):
-        fragment = (fragment[:page_start]
-                    + '<div class="minutes-page">'
-                    + fragment[content_start:page_end] + '</div>' + fragment[page_end:])
+    # Build the wrapped fragment in one pass. Repeated string splices copy the
+    # whole (multi-megabyte) volume once per printed page, which is quadratic in
+    # the number of pages. Appending untouched spans and wrappers keeps this
+    # linear in the rendered HTML size.
+    parts: list[str] = []
+    cursor = 0
+    for page_start, page_end, content_start in wraps:
+        if page_start < cursor or page_end < page_start:
+            raise ValueError(f"{path}: overlapping page wrapper spans")
+        parts.extend((
+            fragment[cursor:page_start],
+            '<div class="minutes-page">',
+            fragment[content_start:page_end],
+            '</div>',
+        ))
+        cursor = page_end
+    parts.append(fragment[cursor:])
+    fragment = ''.join(parts)
     return source[:start] + fragment + source[end:], len(comments), len(wraps)
 
 
 def main() -> int:
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument("site", type=Path, help="Rendered site directory")
+    parser.add_argument("--changed-files-output", type=Path,
+                        help="Write the relative paths of files changed by this pass")
+    parser.add_argument("--files-manifest", type=Path,
+                        help="Restrict processing to a JSON list of changed site-relative paths")
     args = parser.parse_args()
     site = args.site.resolve()
-    volumes = sorted(path for path in (site / "markdown").glob("ga*_*.html")
-                     if re.fullmatch(r"ga\d+_\d{4}\.html", path.name))
-    if len(volumes) != 52:
-        raise SystemExit(f"Expected 52 rendered Minutes volumes, found {len(volumes)}")
+    all_volumes = sorted(path for path in (site / "markdown").glob("ga*_*.html")
+                         if re.fullmatch(r"ga\d+_\d{4}\.html", path.name))
+    if len(all_volumes) != 52:
+        raise SystemExit(f"Expected 52 rendered Minutes volumes, found {len(all_volumes)}")
+    volumes = all_volumes
+    if args.files_manifest:
+        try:
+            selected = json.loads(args.files_manifest.read_text(encoding="utf-8"))
+        except (OSError, json.JSONDecodeError) as error:
+            parser.error(f"Cannot read changed-file manifest: {error}")
+        if not isinstance(selected, list):
+            parser.error("Changed-file manifest must be a JSON list")
+        by_relative = {path.relative_to(site).as_posix(): path for path in all_volumes}
+        unknown = sorted(set(map(str, selected)) - by_relative.keys())
+        if unknown:
+            parser.error(f"Manifest contains non-Minutes or missing volume paths: {unknown[:10]}")
+        volumes = [by_relative[name] for name in sorted(set(map(str, selected)))]
     marker_count = 0
     wrapper_count = 0
+    changed_files: list[str] = []
     for path in volumes:
         source = path.read_text(encoding="utf-8")
         rendered, count, wrappers = transform_volume(source, path)
         if rendered != source:
             path.write_text(rendered, encoding="utf-8", newline="")
+            changed_files.append(path.relative_to(site).as_posix())
         marker_count += count
         wrapper_count += wrappers
     print(f"Generated {marker_count} printed-page markers and {wrapper_count} .minutes-page wrappers across {len(volumes)} Minutes volumes.")
+    if args.changed_files_output:
+        args.changed_files_output.parent.mkdir(parents=True, exist_ok=True)
+        args.changed_files_output.write_text(
+            json.dumps(changed_files, ensure_ascii=False), encoding="utf-8"
+        )
     return 0
 
 

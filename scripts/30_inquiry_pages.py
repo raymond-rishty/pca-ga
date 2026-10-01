@@ -20,7 +20,7 @@ from pathlib import Path
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from source_links import (pdf_page_for_anchor, printed_page_for_anchor,
-                          source_entries_for_record, source_front_matter)
+                          normalize_text, source_entries_for_record, source_front_matter)
 from minutes_page_locators import (canonical_page_anchor, count_printed_pages,
                                    page_records, resolve_legacy_page)
 from inquiry_records import load_inquiry_records
@@ -517,7 +517,9 @@ def main():
         back = ("[← Constitutional inquiry index](../index/INQUIRIES.md)" if is_inq
                 else "[← Overture/amendment advice index](../index/CCB-OVERTURE-ADVICE.md)")
         page += ["---", "", back]
-        open(os.path.join(OUT, slug + ".md"), "w", encoding="utf-8").write("\n".join(page) + "\n")
+        output_path = Path(OUT) / (slug + ".md")
+        page_text, _ = normalize_text(Path(ROOT), "\n".join(page) + "\n", output_path)
+        output_path.write_text(page_text, encoding="utf-8")
         n_pages += 1
 
         minutes_link = (deeplink(stem, primary_anchor, primary_printed)

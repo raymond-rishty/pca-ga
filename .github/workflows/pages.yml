@@ -67,13 +67,35 @@ jobs:
           else
             echo "changed=false" >> "$GITHUB_OUTPUT"
           fi
-      - name: Generate and validate repository data with Gradle
+      - name: Restore cached rendered pages and incremental state
+        uses: actions/cache@v4
+        with:
+          path: |
+            _site
+            .jekyll-cache
+            .jekyll-metadata
+            .gradle/build-state
+          key: pca-render-${{ runner.os }}-${{ hashFiles('Gemfile.lock', '_config.yml') }}-${{ github.ref_name }}-${{ github.sha }}
+          restore-keys: |
+            pca-render-${{ runner.os }}-${{ hashFiles('Gemfile.lock', '_config.yml') }}-${{ github.ref_name }}-
+            pca-render-${{ runner.os }}-${{ hashFiles('Gemfile.lock', '_config.yml') }}-main-
+            pca-render-${{ runner.os }}-${{ hashFiles('Gemfile.lock', '_config.yml') }}-
+      - name: Generate, render, and validate the site with Gradle
         shell: bash
         env:
           OVERTURE_CHANGED: ${{ steps.overture-source.outputs.changed }}
           PYTHON_VERSION: ${{ steps.tool-versions.outputs.python }}
+          RUBY_VERSION: ${{ steps.tool-versions.outputs.ruby }}
+          NODE_VERSION: ${{ steps.tool-versions.outputs.node }}
         run: |
-          args=(--build-cache prepareData -PconstitutionDir=_constitution -PsiteDir=_site -PpythonCommand=python -PpythonVersion="$PYTHON_VERSION")
+          args=(--build-cache prepareData siteCached
+            -PconstitutionDir=_constitution
+            -PsiteDir=_site
+            -PpythonCommand=python
+            -PpythonVersion="$PYTHON_VERSION"
+            -PrubyVersion="$RUBY_VERSION"
+            -PnodeVersion="$NODE_VERSION"
+            -PrefreshPreviewSearch=true)
           if [[ "$OVERTURE_CHANGED" == "true" ]]; then
             args+=(-PregenerateOvertures)
           fi
@@ -91,33 +113,6 @@ jobs:
           git add index/JUDICIAL-CASES.html
           git commit -m "Regenerate judicial case catalogue [skip ci]"
           git push origin HEAD:main
-      - name: Restore cached rendered pages and incremental state
-        uses: actions/cache@v4
-        with:
-          path: |
-            _site
-            .jekyll-cache
-            .jekyll-metadata
-            .gradle/build-state
-          key: pca-render-${{ runner.os }}-${{ hashFiles('Gemfile.lock', '_config.yml') }}-${{ github.ref_name }}-${{ github.sha }}
-          restore-keys: |
-            pca-render-${{ runner.os }}-${{ hashFiles('Gemfile.lock', '_config.yml') }}-${{ github.ref_name }}-
-            pca-render-${{ runner.os }}-${{ hashFiles('Gemfile.lock', '_config.yml') }}-main-
-            pca-render-${{ runner.os }}-${{ hashFiles('Gemfile.lock', '_config.yml') }}-
-      - name: Incrementally render and validate the site with Gradle
-        env:
-          PYTHON_VERSION: ${{ steps.tool-versions.outputs.python }}
-          RUBY_VERSION: ${{ steps.tool-versions.outputs.ruby }}
-          NODE_VERSION: ${{ steps.tool-versions.outputs.node }}
-        run: >-
-          bash gradlew --build-cache siteCached
-          -PconstitutionDir=_constitution
-          -PsiteDir=_site
-          -PpythonCommand=python
-          -PpythonVersion="$PYTHON_VERSION"
-          -PrubyVersion="$RUBY_VERSION"
-          -PnodeVersion="$NODE_VERSION"
-          -PrefreshPreviewSearch=true
       - name: Install browser regression dependencies
         run: npm install --no-save --no-package-lock playwright@1.55.0
       - name: Install Chromium for browser regression tests

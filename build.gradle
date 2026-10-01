@@ -11,10 +11,12 @@ def pythonVersion = providers.gradleProperty('pythonVersion').orElse('unspecifie
 def constitutionDir = file(providers.gradleProperty('constitutionDir').orElse('_constitution').get())
 def constitutionContent = new File(constitutionDir, 'content')
 def siteDir = file(providers.gradleProperty('siteDir').orElse('_site').get())
-def incrementalJekyll = providers.gradleProperty('incrementalJekyll').map { it.toBoolean() }.orElse(false).get()
 def generatorScripts = fileTree('scripts') {
     include '**/*.py'
-    exclude 'render_site.py', 'validate_site_build.py', 'reconcile_overture_catalogue.py'
+    exclude 'render_site.py', 'run_site_stage.py', 'validate_site_build.py',
+        'reconcile_overture_catalogue.py', '44_link_constitution_refs.py',
+        '44_normalize_bco_prefixes.py', '46_minutes_page_markup.py',
+        '46_provision_research.py', 'scripture_linker.py'
 }
 
 def commandLineFor = { List<String> command ->
@@ -145,7 +147,9 @@ inquirySearchIndex.configure { dependsOn inquiryPages }
 def provisionCatalogue = registerCommand(
     'generateProvisionCatalogue',
     [pythonCommand, 'scripts/build_provision_catalogue.py', '.', constitutionContent.absolutePath],
-    [generatorScripts, provisionCatalogueInputs, fileTree('cases'), fileTree('inquiries'),
+    [generatorScripts, file('scripts/44_link_constitution_refs.py'),
+     file('scripts/46_provision_research.py'), file('scripts/scripture_linker.py'),
+     provisionCatalogueInputs, fileTree('cases'), fileTree('inquiries'),
      fileTree('rpr/exc'), fileTree(constitutionContent)],
     [file('index/provision_catalogue.json')], true
 )
@@ -221,16 +225,8 @@ def buildSourceRegistry = registerCommand(
 )
 inquiryPages.configure { dependsOn buildSourceRegistry }
 
-// Keep the quick local preview data-current without running the full validation
-// chain on every edit. Output-bearing generators in this graph are up-to-date
-// when their actual inputs have not changed.
-def refreshSiteSourceRegistry = registerCommand(
-    'refreshSiteSourceRegistry', [pythonCommand, 'scripts/build_source_registry.py', '.', '--write'],
-    [generatorScripts, sourceRegistryInputs],
-    [file('index/source_registry.json'), file('index/dedicated_pdf_inventory.json')], true
-)
-refreshSiteSourceRegistry.configure { dependsOn 'generateBcoManifests' }
-llmPack.configure { mustRunAfter refreshSiteSourceRegistry }
+// generateLlmPack already reaches the canonical source-registry task through
+// the search-index and BCO-manifest dependency chain.
 def refreshSiteMinutesMetadata = registerCommand(
     'refreshSiteMinutesMetadata', [pythonCommand, 'scripts/ensure_minutes_source_pdf_metadata.py'],
     [generatorScripts, fileTree('markdown')]
@@ -238,7 +234,7 @@ def refreshSiteMinutesMetadata = registerCommand(
 tasks.register('preparePreviewData') {
     group = 'site build'
     description = 'Refresh only generated data needed to render a local preview.'
-    dependsOn 'generateLlmPack', 'refreshSiteSourceRegistry', 'refreshSiteMinutesMetadata'
+    dependsOn 'generateLlmPack', 'refreshSiteMinutesMetadata'
 }
 
 def validateSourceRegistry = registerCommand(
@@ -363,12 +359,7 @@ tasks.register('prepareJekyllStructure') {
     }
 }
 
-def renderSite = tasks.register('renderSite', Exec) {
-    group = 'site build'
-    description = 'Render, link, generate provision pages, and index the static site.'
-    dependsOn 'prepareJekyllStructure', validateFootnotes
-
-    def siteInputs = fileTree(projectDir) {
+def siteSources = fileTree(projectDir) {
         exclude '.git/**', '.gradle/**', 'build/**', '_site/**', '.jekyll-cache/**',
             '.sass-cache/**', '.jekyll-metadata', 'node_modules/**', '_constitution/**',
             '.claude/**', '.github/**', 'scripts/**', 'tests/**', 'cases-rebuilt/**',
@@ -386,41 +377,181 @@ def renderSite = tasks.register('renderSite', Exec) {
                 exclude "${relativeOutput}/**"
             }
         }
+}
+
+def stageDir = file('build/site-stage-state')
+def jekyllChanges = new File(stageDir, 'jekyll-html-changes.json')
+def jekyllGeneration = new File(stageDir, 'jekyll-render-generation.txt')
+def provisionChanges = new File(stageDir, 'provision-html-changes.json')
+def authorityChanges = new File(stageDir, 'authority-html-changes.json')
+def minutesChanges = new File(stageDir, 'minutes-html-changes.json')
+def minutesMarkupCodeState = new File(stageDir, 'minutes-markup-code.json')
+def minutesMarkupGenerationState = new File(stageDir, 'minutes-markup-generation.txt')
+def normalizedChanges = new File(stageDir, 'normalized-html-changes.json')
+def normalizerCodeState = new File(stageDir, 'normalizer-code.json')
+def linkCodeState = new File(stageDir, 'linker-code.json')
+def linkState = file('.gradle/build-state/fast-preview-links.json')
+def htmlSignatureState = file('.gradle/build-state/fast-preview-html-signatures.json')
+def pagefindState = new File(stageDir, 'pagefind-output.json')
+def renderInterrupted = file('.gradle/build-state/render-in-progress')
+def sha256File = { File target ->
+    def digest = java.security.MessageDigest.getInstance('SHA-256')
+    target.withInputStream { stream ->
+        byte[] buffer = new byte[1024 * 1024]
+        int count
+        while ((count = stream.read(buffer)) > 0) { digest.update(buffer, 0, count) }
     }
-    inputs.files(siteInputs)
-        .withPropertyName('siteSources')
-        .withPathSensitivity(PathSensitivity.RELATIVE)
-        .normalizeLineEndings()
-    inputs.files(fileTree(constitutionContent))
-        .withPropertyName('constitutionSources')
-        .withPathSensitivity(PathSensitivity.RELATIVE)
-        .normalizeLineEndings()
-    inputs.files(fileTree('scripts') { exclude 'validate_site_build.py' })
-        .withPropertyName('renderScripts')
-        .withPathSensitivity(PathSensitivity.RELATIVE)
-        .normalizeLineEndings()
-    inputs.files(file('Gemfile'), file('Gemfile.lock'))
-        .withPropertyName('jekyllDependencies')
-        .withPathSensitivity(PathSensitivity.RELATIVE)
-        .normalizeLineEndings()
-    inputs.file('scripts/render_site.py')
+    digest.digest().collect { String.format('%02x', it & 0xff) }.join()
+}
+def linkedHtmlMatches = {
+    if (!linkState.isFile() || !htmlSignatureState.isFile()
+        || !new File(siteDir, 'index.html').isFile()) return false
+    try {
+        def expected = new groovy.json.JsonSlurper().parse(htmlSignatureState)
+        def actual = fileTree(siteDir).matching { include '**/*.html' }.files
+        if (expected == null || expected.keySet().size() != actual.size()) return false
+        actual.every { page ->
+            def relative = siteDir.toPath().relativize(page.toPath()).toString().replace('\\', '/')
+            def signature = expected[relative]
+            signature instanceof Map &&
+                signature['size'] == page.length() &&
+                Math.floorDiv(signature['mtime_ns'] as long, 1000000L) == page.lastModified()
+        }
+    } catch (Exception ignored) {
+        false
+    }
+}
+def pagefindFilesMatch = {
+    if (!pagefindState.isFile()) return false
+    try {
+        def expected = new groovy.json.JsonSlurper().parse(pagefindState)
+        def directory = new File(siteDir, 'pagefind')
+        def actual = fileTree(directory).files
+        if (expected.keySet().size() != actual.size()) return false
+        actual.every { asset ->
+            def relative = directory.toPath().relativize(asset.toPath()).toString().replace('\\', '/')
+            def signature = expected[relative]
+            signature instanceof Map &&
+                signature['size'] == asset.length() &&
+                Math.floorDiv(signature['mtime_ns'] as long, 1000000L) == asset.lastModified()
+        }
+    } catch (Exception ignored) {
+        false
+    }
+}
+def stageArgs = { String stage ->
+    [pythonCommand, 'scripts/run_site_stage.py', stage,
+     '--root', projectDir.absolutePath, '--site', siteDir.absolutePath,
+     '--reader', constitutionContent.absolutePath, '--state-dir', stageDir.absolutePath]
+}
+
+def renderJekyll = registerCommand(
+    'renderJekyllSite', stageArgs('jekyll'),
+    [siteSources, fileTree('scripts') { include 'render_site.py', 'run_site_stage.py', 'linker_fingerprint.py' },
+     file('Gemfile'), file('Gemfile.lock'), structuralMarker],
+    [jekyllChanges, jekyllGeneration]
+)
+renderJekyll.configure {
+    // Jekyll reads the generated catalogues and Markdown pages produced by the
+    // data graph. Keep that graph explicit so Gradle 9 can order producers
+    // before the source-tree scan without folding generation into this task.
+    dependsOn 'prepareJekyllStructure', 'checkBundleDependencies', 'prepareData'
     inputs.property('siteDirectory', siteDir.absolutePath)
-    inputs.property('constitutionDirectory', constitutionContent.absolutePath)
-    inputs.property('incrementalJekyll', incrementalJekyll)
     inputs.property('pythonVersion', pythonVersion)
     inputs.property('rubyVersion', providers.gradleProperty('rubyVersion').orElse('unspecified'))
-    inputs.property('nodeVersion', providers.gradleProperty('nodeVersion').orElse('unspecified'))
-    outputs.dir(siteDir)
-
-    def args = [pythonCommand, 'scripts/render_site.py', '--root', projectDir.absolutePath,
-                '--site', siteDir.absolutePath, '--reader', constitutionContent.absolutePath]
-    if (incrementalJekyll) {
-        args += '--incremental-jekyll'
-    }
-    workingDir projectDir
-    commandLine args
-    environment 'PYTHONUTF8', '1'
+    outputs.upToDateWhen { !renderInterrupted.exists() && linkedHtmlMatches() }
 }
+
+def bsbAssetsCheck = registerCommand(
+    'validateRenderedConstitutionAssets', [pythonCommand, 'scripts/build_bsb_assets.py', '--check'],
+    [file('scripts/build_bsb_assets.py'), fileTree('assets/scripture/bsb'),
+     file('scripture/bible-books.json'), file('scripture/bsb-source.json')]
+)
+
+def provisionPages = registerCommand(
+    'generateProvisionPages', stageArgs('provisions'),
+    [file('index/provision_catalogue.json'), fileTree('authorities'), fileTree(constitutionContent),
+     file('scripts/render_site.py'), file('scripts/run_site_stage.py'),
+     file('scripts/46_provision_research.py'), file('scripts/provision_catalogue.py'),
+     jekyllGeneration,
+     file('scripts/44_link_constitution_refs.py')],
+    [provisionChanges, file('.gradle/build-state/fast-preview-provisions.json'),
+     file('.gradle/build-state/fast-preview-provisions.zip')]
+)
+provisionPages.configure { dependsOn renderJekyll }
+
+def linkAuthorityPages = registerCommand(
+    'linkLegacyAuthorityPages', stageArgs('authority-links'),
+    [fileTree('authorities'), file('scripts/run_site_stage.py'),
+     file('scripts/46_provision_research.py'), file('scripts/provision_catalogue.py'),
+     jekyllGeneration,
+     file('scripts/44_link_constitution_refs.py'), jekyllChanges, provisionChanges],
+    [authorityChanges]
+)
+linkAuthorityPages.configure { dependsOn renderJekyll, provisionPages }
+
+def markMinutesPages = registerCommand(
+    'markMinutesPages', stageArgs('minutes-markup'),
+    [file('scripts/run_site_stage.py'), file('scripts/46_minutes_page_markup.py'),
+     file('scripts/minutes_page_locators.py'), jekyllChanges, jekyllGeneration],
+    [minutesChanges, minutesMarkupCodeState, minutesMarkupGenerationState]
+)
+markMinutesPages.configure { dependsOn renderJekyll }
+
+def normalizeCitations = registerCommand(
+    'normalizeBcoCitations', stageArgs('normalize'),
+    [file('scripts/run_site_stage.py'), file('scripts/44_normalize_bco_prefixes.py'),
+     jekyllChanges, jekyllGeneration, provisionChanges, authorityChanges, minutesChanges],
+    [normalizedChanges, normalizerCodeState]
+)
+normalizeCitations.configure {
+    dependsOn renderJekyll, provisionPages, linkAuthorityPages, markMinutesPages
+}
+
+def linkConstitutionReferences = registerCommand(
+    'linkConstitutionReferences', stageArgs('link'),
+    [file('scripts/run_site_stage.py'), file('scripts/44_link_constitution_refs.py'),
+     file('scripts/minutes_page_locators.py'), file('scripts/scripture_linker.py'),
+     file('scripts/linker_fingerprint.py'), file('scripts/44_normalize_bco_prefixes.py'),
+     file('scripts/46_minutes_page_markup.py'),
+     file('index/source_registry.json'), file('index/case_provision_index.json'),
+     file('index/authority_index.json'), fileTree(constitutionContent),
+     jekyllChanges, jekyllGeneration, provisionChanges, authorityChanges, minutesChanges, normalizedChanges],
+    [linkState, linkCodeState, htmlSignatureState, new File(siteDir, 'assets/minutes-pages.json'),
+     new File(siteDir, 'assets/scripture-audit.json'),
+     new File(siteDir, 'assets/scripture-audit-summary.json'),
+     new File(siteDir, 'assets/constitution/unresolved.json')]
+)
+linkConstitutionReferences.configure {
+    dependsOn normalizeCitations, 'buildSourceRegistry', 'generateCaseProvisionIndex',
+        'projectAuthorityIndex', bsbAssetsCheck
+    inputs.property('sourceFileInventory', providers.exec {
+        commandLine 'git', 'ls-files', '-z', '--cached', '--others', '--exclude-standard'
+    }.standardOutput.asText.map { it.replace('\u0000', '\n') })
+}
+
+def buildPagefind = registerCommand(
+    'buildPagefindIndex', stageArgs('pagefind'),
+    [file('scripts/run_site_stage.py'), file('scripts/render_site.py'),
+     linkState, fileTree('app')],
+    [pagefindState]
+)
+buildPagefind.configure {
+    dependsOn linkConstitutionReferences
+    outputs.upToDateWhen { pagefindFilesMatch() }
+}
+
+def renderSite = tasks.register('renderSite') {
+    group = 'site build'
+    description = 'Run each separately tracked rendering and post-processing stage.'
+    dependsOn buildPagefind
+}
+
+def verifySiteStageState = registerCommand(
+    'verifySiteStageState', stageArgs('verify'),
+    [file('scripts/run_site_stage.py'), linkState, pagefindState]
+)
+verifySiteStageState.configure { dependsOn buildPagefind }
 
 def refreshFastPreviewSearch = providers.gradleProperty('refreshPreviewSearch')
     .map { it.toBoolean() }.orElse(false).get()
@@ -497,7 +628,7 @@ def validateSite = registerCommand(
     [pythonCommand, 'scripts/validate_site_build.py', '--root', projectDir.absolutePath, '--site', siteDir.absolutePath],
     [file('scripts/validate_site_build.py'), fileTree('scripts'), fileTree('tests'), fileTree('markdown')]
 )
-validateSite.configure { dependsOn renderSite }
+validateSite.configure { dependsOn renderSite, verifySiteStageState }
 
 def validateFastSite = registerCommand(
     'validateFastPreviewSite',
