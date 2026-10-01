@@ -324,6 +324,27 @@ def build_minutes_page_index(
     return refs, payload
 
 
+def minutes_page_refs_from_payload(
+    payload: dict[str, Any],
+) -> dict[str, dict[str, dict[str, str]]]:
+    """Restore the citation lookup map from the compact page-index asset."""
+    refs: dict[str, dict[str, dict[str, str]]] = {}
+    for ga, volume in payload.get("volumes", {}).items():
+        source = volume.get("source")
+        if not isinstance(source, str):
+            continue
+        for printed_page, page in volume.get("pages", {}).items():
+            anchor = page.get("anchor")
+            pdf_page = page.get("pdf_page")
+            if isinstance(anchor, str) and pdf_page is not None:
+                refs.setdefault(str(ga), {})[str(printed_page)] = {
+                    "path": source,
+                    "anchor": anchor,
+                    "pdf_page": str(pdf_page),
+                }
+    return refs
+
+
 def minutes_href(file_name: str, target: dict[str, str]) -> str:
     """Return a site-relative deep link from one rendered page to a minute page."""
     source_dir = posixpath.dirname(file_name) or "."
@@ -1283,7 +1304,10 @@ def main() -> int:
         args.site_dir / "assets" / "standards",
         args.site_dir / "assets" / "packs",
     ]
-    prior_reference_assets = directory_fingerprint(args.site_dir, reference_asset_dirs)
+    prior_reference_assets = (
+        directory_fingerprint(args.site_dir, reference_asset_dirs)
+        if args.adopt_existing else None
+    )
     prior_minutes_payload: dict[str, Any] | None = None
     prior_minutes_path = args.site_dir / "assets" / "minutes-pages.json"
     if prior_minutes_path.is_file():
@@ -1291,10 +1315,34 @@ def main() -> int:
             prior_minutes_payload = json.loads(prior_minutes_path.read_text(encoding="utf-8"))
         except (OSError, json.JSONDecodeError):
             prior_minutes_payload = None
+    prior_link_state: dict[str, Any] = {}
+    if args.incremental_state and args.incremental_state.is_file() and not args.reset_state:
+        try:
+            prior_link_state = json.loads(args.incremental_state.read_text(encoding="utf-8"))
+        except (OSError, json.JSONDecodeError):
+            prior_link_state = {}
+
+    # The stage manifest authoritatively lists changed rendered paths. When it
+    # contains no Minutes volume, the saved compact index is still current, so
+    # avoid rereading hundreds of megabytes of Minutes HTML to recreate it.
+    cached_minutes_refs = None
+    if (args.files_manifest and prior_link_state.get("version") == 1
+            and isinstance(prior_minutes_payload, dict)
+            and prior_minutes_payload.get("version") == 2):
+        selected_minutes = json.loads(args.files_manifest.read_text(encoding="utf-8"))
+        if isinstance(selected_minutes, dict):
+            selected_minutes = selected_minutes.keys()
+        minutes_path_re = re.compile(r"markdown/ga\d+_\d{4}\.html")
+        if not any(minutes_path_re.fullmatch(str(path).replace("\\", "/"))
+                   for path in selected_minutes):
+            cached_minutes_refs = minutes_page_refs_from_payload(prior_minutes_payload)
     bco_refs = build_reference_data(bco, data_dir, digest)
     build_standard_preview_data(wcf, wlc, wsc, data_dir)
     rao_refs = build_rao_preview_data(rao, data_dir)
-    minutes_refs, minutes_payload = build_minutes_page_index(args.site_dir)
+    if cached_minutes_refs is None:
+        minutes_refs, minutes_payload = build_minutes_page_index(args.site_dir)
+    else:
+        minutes_refs, minutes_payload = cached_minutes_refs, prior_minutes_payload
     case_refs = build_case_refs(args.site_dir)
     if args.adopt_existing:
         if (prior_reference_assets != directory_fingerprint(args.site_dir, reference_asset_dirs)
@@ -1328,9 +1376,17 @@ def main() -> int:
             state_is_valid = False
 
     selected_files: set[str] | None = None
+    selected_hashes: dict[str, str | None] = {}
     if args.files_manifest and state_is_valid and not args.reset_state:
         selected = json.loads(args.files_manifest.read_text(encoding="utf-8"))
-        selected_files = {str(item).replace("\\", "/") for item in selected}
+        if isinstance(selected, dict):
+            selected_hashes = {
+                str(name).replace("\\", "/"): value if isinstance(value, str) else None
+                for name, value in selected.items()
+            }
+            selected_files = set(selected_hashes)
+        else:
+            selected_files = {str(item).replace("\\", "/") for item in selected}
 
     (args.site_dir / "assets" / "minutes-pages.json").write_text(
         json.dumps(minutes_payload, ensure_ascii=False, separators=(",", ":")),
@@ -1339,10 +1395,9 @@ def main() -> int:
 
     total_links = 0
     changed_files = 0
-    current_paths = sorted(args.site_dir.rglob("*.html"))
-    current_relatives = {path.relative_to(args.site_dir).as_posix() for path in current_paths}
     page_state: dict[str, dict[str, Any]] = {}
     if args.adopt_existing:
+        current_paths = sorted(args.site_dir.rglob("*.html"))
         audit_path = args.site_dir / "assets" / "scripture-audit.json"
         if not audit_path.is_file():
             parser.error("Cannot adopt the site without its full-build scripture audit")
@@ -1372,18 +1427,65 @@ def main() -> int:
                 # are rediscovered during adoption; do not duplicate old review rows.
                 "scripture_review": reviewed_scripture,
             }
+    elif state_is_valid and selected_files is not None:
+        # Upstream stages provide an authoritative manifest of additions,
+        # changes, and deletions. Carry forward cached records and touch only
+        # selected paths instead of walking all 10,000+ rendered HTML files.
+        page_state = dict(old_pages)
+        for relative in sorted(selected_files):
+            path = args.site_dir / Path(relative)
+            if not path.is_file():
+                page_state.pop(relative, None)
+                continue
+            cached = old_pages.get(relative)
+            expected_hash = selected_hashes.get(relative)
+            if expected_hash and cached and cached.get("sha256") == expected_hash:
+                continue
+            if expected_hash is None and cached:
+                page_hash = file_sha256(path)
+                if cached.get("sha256") == page_hash:
+                    continue
+
+            linked, missing, found_scripture, reviewed_scripture = process_html(
+                path, args.site_dir, bco_refs, standard_refs, rao_refs,
+                minutes_refs, case_refs, scripture_metadata,
+            )
+            page_state[relative] = {
+                "sha256": file_sha256(path),
+                "link_count": linked,
+                "unresolved": missing,
+                "scripture_links": found_scripture,
+                "scripture_review": reviewed_scripture,
+            }
     else:
+        current_paths = sorted(args.site_dir.rglob("*.html"))
         for path in current_paths:
             relative = path.relative_to(args.site_dir).as_posix()
-            page_hash = file_sha256(path)
             cached = old_pages.get(relative) if state_is_valid else None
+            if (selected_files is not None and state_is_valid
+                    and relative not in selected_files and cached is not None):
+                # The preceding stages provide an authoritative changed-file
+                # manifest. Reuse the saved state for all other existing pages
+                # instead of reading and hashing the entire rendered site.
+                page_state[relative] = cached
+                continue
             process_page = not state_is_valid or cached is None
             if selected_files is None and state_is_valid:
                 process_page = True
             elif selected_files is not None and relative in selected_files:
-                process_page = True
-
-            if cached and cached.get("sha256") == page_hash:
+                expected_hash = selected_hashes.get(relative)
+                if expected_hash and cached and cached.get("sha256") == expected_hash:
+                    page_state[relative] = cached
+                    continue
+                if expected_hash:
+                    # Upstream change manifests include the current SHA-256.
+                    # A differing digest guarantees a changed file, so skip a
+                    # redundant full read before process_html reads it anyway.
+                    process_page = True
+                else:
+                    page_hash = file_sha256(path)
+                    process_page = not cached or cached.get("sha256") != page_hash
+            elif cached:
                 process_page = False
 
             if process_page:

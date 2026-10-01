@@ -82,6 +82,8 @@ def main() -> int:
                         help="Use prior per-page link hashes to select stale HTML")
     parser.add_argument("--files-manifest", type=Path,
                         help="Write changed HTML paths for the citation linker")
+    parser.add_argument("--changed-files", type=Path,
+                        help="Restrict processing to a JSON list or mapping of changed HTML paths")
     args = parser.parse_args()
     site = args.site_dir
     cached_pages: dict[str, dict[str, str]] = {}
@@ -93,12 +95,28 @@ def main() -> int:
         except (OSError, json.JSONDecodeError, AttributeError):
             cached_pages = {}
 
+    candidates: dict[str, str | None] | None = None
+    if args.changed_files:
+        try:
+            raw_candidates = json.loads(args.changed_files.read_text(encoding="utf-8"))
+        except (OSError, json.JSONDecodeError) as error:
+            parser.error(f"Cannot read changed-file manifest: {error}")
+        candidates = ({str(item): None for item in raw_candidates}
+                      if isinstance(raw_candidates, list)
+                      else {str(key): value for key, value in raw_candidates.items()})
+
     changed = 0
     emphasized = 0
     boundaries = 0
     changed_paths: list[str] = []
 
-    for path in sorted(site.rglob("*.html")):
+    all_paths = sorted(site.rglob("*.html"))
+    if candidates is None:
+        paths = all_paths
+    else:
+        paths = [site / relative for relative in sorted(candidates)
+                 if candidates[relative] is not None and (site / relative).is_file()]
+    for path in paths:
         relative = path.relative_to(site).as_posix()
         cached = cached_pages.get(relative)
         if cached and cached.get("sha256") == file_sha256(path):
@@ -119,9 +137,18 @@ def main() -> int:
 
     if args.files_manifest:
         args.files_manifest.parent.mkdir(parents=True, exist_ok=True)
-        args.files_manifest.write_text(
-            json.dumps(changed_paths, separators=(",", ":")), encoding="utf-8"
-        )
+        if candidates is None:
+            result_manifest: object = {
+                relative: file_sha256(site / relative) if (site / relative).is_file() else None
+                for relative in changed_paths
+            }
+        else:
+            result_manifest = {
+                relative: file_sha256(site / relative) if (site / relative).is_file() else None
+                for relative in candidates
+            }
+        args.files_manifest.write_text(json.dumps(result_manifest, separators=(",", ":")),
+                                       encoding="utf-8")
 
     print(
         "Normalized BCO citations in "
