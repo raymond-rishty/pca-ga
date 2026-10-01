@@ -21,9 +21,13 @@ chapter-and-section record (5-9.c -> 5-9).
 from __future__ import annotations
 
 import argparse
+from concurrent.futures import ProcessPoolExecutor
 import hashlib
 import html
+from itertools import chain
 import json
+import multiprocessing
+import os
 import posixpath
 import re
 import sys
@@ -357,13 +361,15 @@ def linkify_minutes_text(
     minutes_refs: dict[str, dict[str, dict[str, str]]],
     file_name: str,
 ) -> tuple[str, int]:
-    if not MINUTES_CITATION_RE.search(text):
+    matches = MINUTES_CITATION_RE.finditer(text)
+    first_match = next(matches, None)
+    if first_match is None:
         return text, 0
 
     pieces: list[str] = []
     cursor = 0
     linked = 0
-    for match in MINUTES_CITATION_RE.finditer(text):
+    for match in chain((first_match,), matches):
         pieces.append(text[cursor:match.start()])
         ga = str(int(match.group("ga")))
         page = str(int(match.group("page")))
@@ -713,14 +719,18 @@ def linkify_case_refs(
     file_name: str,
 ) -> tuple[str, int]:
     """Link references to case pages that are present in the rendered site."""
-    if not case_refs or not CASE_REF_RE.search(text):
+    if not case_refs:
+        return text, 0
+    matches = CASE_REF_RE.finditer(text)
+    first_match = next(matches, None)
+    if first_match is None:
         return text, 0
 
     pieces: list[str] = []
     cursor = 0
     linked = 0
     source_path = posixpath.dirname(file_name)
-    for match in CASE_REF_RE.finditer(text):
+    for match in chain((first_match,), matches):
         target = case_refs.get(match.group("number"))
         if not target or target == file_name:
             continue
@@ -751,6 +761,11 @@ class ConstitutionLinker(HTMLParser):
         case_refs: dict[str, str],
         file_name: str,
         scripture_metadata: dict[str, Any] | None = None,
+        *,
+        has_scripture_refs: bool = True,
+        has_minutes_refs: bool = True,
+        has_case_refs: bool = True,
+        has_constitution_refs: bool = True,
     ) -> None:
         super().__init__(convert_charrefs=False)
         self.bco_refs = bco_refs
@@ -764,6 +779,10 @@ class ConstitutionLinker(HTMLParser):
         self.link_count = 0
         self.unresolved: list[dict[str, str]] = []
         self.scripture_metadata = scripture_metadata
+        self.has_scripture_refs = has_scripture_refs
+        self.has_minutes_refs = has_minutes_refs
+        self.has_case_refs = has_case_refs
+        self.has_constitution_refs = has_constitution_refs
         self.scripture_links: list[dict[str, Any]] = []
         self.scripture_review: list[dict[str, Any]] = []
         self.scripture_sequence = 0
@@ -825,30 +844,39 @@ class ConstitutionLinker(HTMLParser):
                 "anchor": self.current_anchor,
                 "printedFolio": self.current_folio,
             }
-            if self.scripture_metadata:
+            if self.scripture_metadata and self.has_scripture_refs:
                 masked, replacements, scripture_count, scripture_links, scripture_review, self.scripture_sequence = mask_and_link(
                     data, self.scripture_metadata, location, self.scripture_sequence
                 )
             else:
                 masked, replacements, scripture_count, scripture_links, scripture_review = data, {}, 0, [], []
-            linked_minutes, minutes_count = linkify_minutes_text(
-                masked,
-                self.minutes_refs,
-                self.file_name,
-            )
-            linked_cases, case_count = linkify_case_refs(
-                linked_minutes,
-                self.case_refs,
-                self.file_name,
-            )
-            linked, count = linkify_text(
-                linked_cases,
-                self.bco_refs,
-                self.standard_refs,
-                self.rao_refs,
-                self.unresolved,
-                self.file_name,
-            )
+            if self.has_minutes_refs:
+                linked_minutes, minutes_count = linkify_minutes_text(
+                    masked,
+                    self.minutes_refs,
+                    self.file_name,
+                )
+            else:
+                linked_minutes, minutes_count = masked, 0
+            if self.has_case_refs:
+                linked_cases, case_count = linkify_case_refs(
+                    linked_minutes,
+                    self.case_refs,
+                    self.file_name,
+                )
+            else:
+                linked_cases, case_count = linked_minutes, 0
+            if self.has_constitution_refs:
+                linked, count = linkify_text(
+                    linked_cases,
+                    self.bco_refs,
+                    self.standard_refs,
+                    self.rao_refs,
+                    self.unresolved,
+                    self.file_name,
+                )
+            else:
+                linked, count = linked_cases, 0
             for token, replacement in replacements.items():
                 linked = linked.replace(token, replacement)
             self.output.append(linked)
@@ -938,9 +966,11 @@ def process_html(
     write_output: bool = True,
 ) -> tuple[int, list[dict[str, str]], list[dict[str, Any]], list[dict[str, Any]]]:
     source = normalize_inline_citation_prefixes(path.read_text(encoding="utf-8"))
-    if (not PREFIX_RE.search(source) and not MINUTES_CITATION_RE.search(source)
-            and not CASE_REF_RE.search(source)
-            and not scripture_metadata["alias_re"].search(source)):
+    has_constitution_refs = PREFIX_RE.search(source) is not None
+    has_minutes_refs = MINUTES_CITATION_RE.search(source) is not None
+    has_case_refs = bool(case_refs) and CASE_REF_RE.search(source) is not None
+    has_scripture_refs = scripture_metadata["alias_re"].search(source) is not None
+    if not (has_constitution_refs or has_minutes_refs or has_case_refs or has_scripture_refs):
         return 0, [], [], []
 
     linker = ConstitutionLinker(
@@ -951,6 +981,10 @@ def process_html(
         case_refs,
         path.relative_to(site_dir).as_posix(),
         scripture_metadata,
+        has_scripture_refs=has_scripture_refs,
+        has_minutes_refs=has_minutes_refs,
+        has_case_refs=has_case_refs,
+        has_constitution_refs=has_constitution_refs,
     )
     linker.feed(source)
     linker.close()
@@ -980,6 +1014,100 @@ def file_sha256(path: Path) -> str:
         for chunk in iter(lambda: source.read(1024 * 1024), b""):
             digest.update(chunk)
     return digest.hexdigest()
+
+
+_LINK_WORKER_CONTEXT: tuple[Any, ...] | None = None
+
+
+def initialize_link_worker(context: tuple[Any, ...]) -> None:
+    global _LINK_WORKER_CONTEXT
+    _LINK_WORKER_CONTEXT = context
+
+
+def process_link_page_batch(relative_paths: list[str]) -> dict[str, dict[str, Any]]:
+    if _LINK_WORKER_CONTEXT is None:
+        raise RuntimeError("Link worker was not initialized")
+    (site_dir, bco_refs, standard_refs, rao_refs, minutes_refs,
+     case_refs, scripture_metadata) = _LINK_WORKER_CONTEXT
+    page_state: dict[str, dict[str, Any]] = {}
+    for relative in relative_paths:
+        path = site_dir / Path(relative)
+        linked, missing, found_scripture, reviewed_scripture = process_html(
+            path, site_dir, bco_refs, standard_refs, rao_refs,
+            minutes_refs, case_refs, scripture_metadata,
+        )
+        page_state[relative] = {
+            "sha256": file_sha256(path),
+            "link_count": linked,
+            "unresolved": missing,
+            "scripture_links": found_scripture,
+            "scripture_review": reviewed_scripture,
+        }
+    return page_state
+
+
+def process_link_pages_parallel(
+    paths: list[Path],
+    site_dir: Path,
+    bco_refs: dict[str, dict[str, str]],
+    standard_refs: dict[str, set[str]],
+    rao_refs: dict[str, dict[str, str]],
+    minutes_refs: dict[str, dict[str, dict[str, str]]],
+    case_refs: dict[str, str],
+    scripture_metadata: dict[str, Any],
+) -> dict[str, dict[str, Any]]:
+    relative_paths = [path.relative_to(site_dir).as_posix() for path in paths]
+    worker_count = min(8, os.cpu_count() or 1)
+    # The large reference dictionaries are cheap to share through fork on CI.
+    # Keep Windows builds sequential instead of pickling them into every worker.
+    if os.name == "nt" or worker_count < 2 or len(relative_paths) < 32:
+        return process_link_page_batch_sequential(
+            relative_paths, site_dir, bco_refs, standard_refs, rao_refs,
+            minutes_refs, case_refs, scripture_metadata,
+        )
+
+    context = (
+        site_dir, bco_refs, standard_refs, rao_refs, minutes_refs,
+        case_refs, scripture_metadata,
+    )
+    batches = [relative_paths[i:i + 16] for i in range(0, len(relative_paths), 16)]
+    page_state: dict[str, dict[str, Any]] = {}
+    with ProcessPoolExecutor(
+        max_workers=worker_count,
+        mp_context=multiprocessing.get_context("fork"),
+        initializer=initialize_link_worker,
+        initargs=(context,),
+    ) as executor:
+        for batch_state in executor.map(process_link_page_batch, batches, chunksize=1):
+            page_state.update(batch_state)
+    return page_state
+
+
+def process_link_page_batch_sequential(
+    relative_paths: list[str],
+    site_dir: Path,
+    bco_refs: dict[str, dict[str, str]],
+    standard_refs: dict[str, set[str]],
+    rao_refs: dict[str, dict[str, str]],
+    minutes_refs: dict[str, dict[str, dict[str, str]]],
+    case_refs: dict[str, str],
+    scripture_metadata: dict[str, Any],
+) -> dict[str, dict[str, Any]]:
+    page_state: dict[str, dict[str, Any]] = {}
+    for relative in relative_paths:
+        path = site_dir / Path(relative)
+        linked, missing, found_scripture, reviewed_scripture = process_html(
+            path, site_dir, bco_refs, standard_refs, rao_refs,
+            minutes_refs, case_refs, scripture_metadata,
+        )
+        page_state[relative] = {
+            "sha256": file_sha256(path),
+            "link_count": linked,
+            "unresolved": missing,
+            "scripture_links": found_scripture,
+            "scripture_review": reviewed_scripture,
+        }
+    return page_state
 
 
 def directory_fingerprint(root: Path, paths: list[Path]) -> str:
@@ -1459,6 +1587,12 @@ def main() -> int:
             }
     else:
         current_paths = sorted(args.site_dir.rglob("*.html"))
+        if args.reset_state or not state_is_valid:
+            page_state = process_link_pages_parallel(
+                current_paths, args.site_dir, bco_refs, standard_refs,
+                rao_refs, minutes_refs, case_refs, scripture_metadata,
+            )
+            current_paths = []
         for path in current_paths:
             relative = path.relative_to(args.site_dir).as_posix()
             cached = old_pages.get(relative) if state_is_valid else None
