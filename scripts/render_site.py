@@ -7,6 +7,7 @@ import hashlib
 import json
 import os
 from pathlib import Path
+import shutil
 import subprocess
 import sys
 import time
@@ -99,6 +100,80 @@ def tracked_source_fingerprints(root: Path) -> dict[str, str]:
     return fingerprints
 
 
+def jekyll_input_fingerprint(root: Path) -> str:
+    """Fingerprint the source set Gradle gives Jekyll, without hashing clean files."""
+    excluded_dirs = (
+        ".git/", ".gradle/", "build/", "_site/", ".jekyll-cache/",
+        ".sass-cache/", "node_modules/", "_constitution/", ".claude/",
+        ".github/", "scripts/", "tests/", "cases-rebuilt/", "evals/",
+        "ocr-bakeoff/", "outputs/", "tmp/", "vendor/", "api/", "index/rpr/",
+        "index/segments/", "index/hunt/", "index/sjc_official/",
+        "index/digest/", "index/structure/", "index/synopsis_workflow/",
+        "gradle/",
+    )
+    excluded_names = {
+        "Gemfile", "Gemfile.lock", "build.gradle", "settings.gradle",
+        "gradle.properties", "gradlew", "gradlew.bat", ".jekyll-metadata",
+    }
+
+    def included(relative: str) -> bool:
+        normalized = relative.replace("\\", "/")
+        name = normalized.rsplit("/", 1)[-1]
+        if any(normalized.startswith(prefix) for prefix in excluded_dirs):
+            return False
+        if name in excluded_names or normalized.endswith(".jsonl"):
+            return False
+        if normalized.startswith("index/") and "/" not in normalized[6:] and name.endswith(".json"):
+            return False
+        return True
+
+    staged = subprocess.run(
+        ["git", "ls-files", "--stage", "-z"], cwd=root, check=True,
+        stdout=subprocess.PIPE,
+    ).stdout
+    changed = subprocess.run(
+        ["git", "diff", "HEAD", "--name-only", "-z"], cwd=root, check=True,
+        stdout=subprocess.PIPE,
+    ).stdout
+    changed_paths = {item.decode("utf-8", "surrogateescape")
+                     for item in changed.split(b"\0") if item}
+    values: dict[str, str] = {}
+    for record in staged.split(b"\0"):
+        if not record:
+            continue
+        metadata, raw_path = record.split(b"\t", 1)
+        _, object_id, stage = metadata.decode("ascii").split()
+        relative = raw_path.decode("utf-8", "surrogateescape")
+        if stage != "0" or not included(relative):
+            continue
+        path = root / Path(relative)
+        if not path.is_file():
+            continue
+        values[relative] = ("sha256:" + file_sha256(path)
+                            if relative in changed_paths else "git:" + object_id)
+    untracked = subprocess.run(
+        ["git", "ls-files", "--others", "--exclude-standard", "-z"],
+        cwd=root, check=True, stdout=subprocess.PIPE,
+    ).stdout
+    for raw_path in untracked.split(b"\0"):
+        if not raw_path:
+            continue
+        relative = raw_path.decode("utf-8", "surrogateescape")
+        path = root / Path(relative)
+        if included(relative) and path.is_file():
+            values[relative] = "sha256:" + file_sha256(path)
+
+    marker = root / ".gradle" / "build-state" / "jekyll-structure.marker"
+    if marker.is_file():
+        values["<jekyll-structure>"] = file_sha256(marker)
+    for relative in ("Gemfile", "Gemfile.lock", "build.gradle"):
+        path = root / relative
+        if path.is_file():
+            values["<" + relative + ">"] = file_sha256(path)
+    encoded = json.dumps(values, sort_keys=True, separators=(",", ":"))
+    return hashlib.sha256(encoded.encode("utf-8")).hexdigest()
+
+
 def prepare_incremental_source_mtimes(root: Path) -> None:
     """Restore stable source mtimes for unchanged files in cached CI checkouts.
 
@@ -148,6 +223,30 @@ def save_incremental_source_mtimes(root: Path) -> None:
     state_temp.write_text(json.dumps({"version": 1, "files": files}, separators=(",", ":")),
                           encoding="utf-8")
     state_temp.replace(state_path)
+
+
+def sync_fast_preview_api(root: Path, site: Path) -> None:
+    """Copy generated API assets without making Jekyll rescan the full site."""
+    for name in ("bco", "provisions"):
+        source = root / "api" / name
+        destination = site / "api" / name
+        if not source.is_dir():
+            continue
+        expected: set[str] = set()
+        for path in source.rglob("*"):
+            if not path.is_file():
+                continue
+            relative = path.relative_to(source).as_posix()
+            expected.add(relative)
+            output = destination / relative
+            output.parent.mkdir(parents=True, exist_ok=True)
+            if (not output.is_file() or output.stat().st_size != path.stat().st_size
+                    or file_sha256(output) != file_sha256(path)):
+                shutil.copy2(path, output)
+        if destination.is_dir():
+            for output in destination.rglob("*"):
+                if output.is_file() and output.relative_to(destination).as_posix() not in expected:
+                    output.unlink()
 
 
 def provision_input_fingerprint(root: Path) -> str:
@@ -268,6 +367,7 @@ def save_provision_pages(root: Path, site: Path, fingerprint: str) -> None:
 def run_fast_preview(root: Path, site: Path, reader: Path,
                      refresh_search: bool) -> None:
     state = root / ".gradle" / "build-state" / "fast-preview-links.json"
+    jekyll_state = root / ".gradle" / "build-state" / "fast-preview-jekyll.json"
     in_progress = root / ".gradle" / "build-state" / "render-in-progress"
     changed_manifest = root / ".gradle" / "build-state" / "fast-preview-changed-html.json"
     metadata = root / ".jekyll-metadata"
@@ -280,6 +380,15 @@ def run_fast_preview(root: Path, site: Path, reader: Path,
             prior_state = {}
 
     interrupted = in_progress.exists()
+    jekyll_fingerprint = jekyll_input_fingerprint(root)
+    try:
+        previous_jekyll = json.loads(jekyll_state.read_text(encoding="utf-8"))
+    except (OSError, json.JSONDecodeError):
+        previous_jekyll = {}
+    render_jekyll = (
+        interrupted or not metadata.is_file()
+        or previous_jekyll.get("fingerprint") != jekyll_fingerprint
+    )
     current_linker_inputs = preflight_linker_fingerprint(root, reader)
     linker_inputs_match = (
         current_linker_inputs is not None
@@ -293,17 +402,25 @@ def run_fast_preview(root: Path, site: Path, reader: Path,
     )
     if (not interrupted and prior_state.get("version") == 1
             and not linker_inputs_match):
-        print("Cached linker inputs changed; starting with a full render.")
+        print("Cached linker inputs changed; resetting the link state.")
     in_progress.parent.mkdir(parents=True, exist_ok=True)
     in_progress.write_text("Fast preview did not complete.\n", encoding="utf-8")
-    if full_render and metadata.exists():
+    if render_jekyll and metadata.exists():
         metadata.unlink()
 
-    prepare_incremental_source_mtimes(root)
     jekyll = ["bundle", "exec", "jekyll", "build", "--incremental",
               "--destination", str(site)]
-    run(jekyll, root)
-    save_incremental_source_mtimes(root)
+    if render_jekyll:
+        prepare_incremental_source_mtimes(root)
+        run(jekyll, root)
+        save_incremental_source_mtimes(root)
+        jekyll_state.parent.mkdir(parents=True, exist_ok=True)
+        jekyll_state.write_text(json.dumps({"version": 1,
+                                            "fingerprint": jekyll_fingerprint}),
+                                encoding="utf-8")
+    else:
+        print("Jekyll inputs are unchanged; reusing the rendered site.")
+    sync_fast_preview_api(root, site)
 
     # Provision pages are generated HTML too. Create them before the normalizer
     # and linker so their contents participate in the per-page state and audit.
@@ -346,6 +463,9 @@ def run_fast_preview(root: Path, site: Path, reader: Path,
         prepare_incremental_source_mtimes(root)
         run(jekyll, root)
         save_incremental_source_mtimes(root)
+        jekyll_state.write_text(json.dumps({"version": 1,
+                                            "fingerprint": jekyll_input_fingerprint(root)}),
+                                encoding="utf-8")
         refresh_provision_cache, provision_fingerprint = restore_or_generate_provision_pages(
             root, site, force=True
         )

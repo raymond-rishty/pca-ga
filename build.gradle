@@ -381,10 +381,12 @@ def siteSources = fileTree(projectDir) {
 
 def stageDir = file('build/site-stage-state')
 def jekyllChanges = new File(stageDir, 'jekyll-html-changes.json')
+def jekyllGeneration = new File(stageDir, 'jekyll-render-generation.txt')
 def provisionChanges = new File(stageDir, 'provision-html-changes.json')
 def authorityChanges = new File(stageDir, 'authority-html-changes.json')
 def minutesChanges = new File(stageDir, 'minutes-html-changes.json')
 def minutesMarkupCodeState = new File(stageDir, 'minutes-markup-code.json')
+def minutesMarkupGenerationState = new File(stageDir, 'minutes-markup-generation.txt')
 def normalizedChanges = new File(stageDir, 'normalized-html-changes.json')
 def normalizerCodeState = new File(stageDir, 'normalizer-code.json')
 def linkCodeState = new File(stageDir, 'linker-code.json')
@@ -447,7 +449,7 @@ def renderJekyll = registerCommand(
     'renderJekyllSite', stageArgs('jekyll'),
     [siteSources, fileTree('scripts') { include 'render_site.py', 'run_site_stage.py', 'linker_fingerprint.py' },
      file('Gemfile'), file('Gemfile.lock'), structuralMarker],
-    [jekyllChanges]
+    [jekyllChanges, jekyllGeneration]
 )
 renderJekyll.configure {
     // Jekyll reads the generated catalogues and Markdown pages produced by the
@@ -471,6 +473,7 @@ def provisionPages = registerCommand(
     [file('index/provision_catalogue.json'), fileTree('authorities'), fileTree(constitutionContent),
      file('scripts/render_site.py'), file('scripts/run_site_stage.py'),
      file('scripts/46_provision_research.py'), file('scripts/provision_catalogue.py'),
+     jekyllGeneration,
      file('scripts/44_link_constitution_refs.py')],
     [provisionChanges, file('.gradle/build-state/fast-preview-provisions.json'),
      file('.gradle/build-state/fast-preview-provisions.zip')]
@@ -481,6 +484,7 @@ def linkAuthorityPages = registerCommand(
     'linkLegacyAuthorityPages', stageArgs('authority-links'),
     [fileTree('authorities'), file('scripts/run_site_stage.py'),
      file('scripts/46_provision_research.py'), file('scripts/provision_catalogue.py'),
+     jekyllGeneration,
      file('scripts/44_link_constitution_refs.py'), jekyllChanges, provisionChanges],
     [authorityChanges]
 )
@@ -489,15 +493,15 @@ linkAuthorityPages.configure { dependsOn renderJekyll, provisionPages }
 def markMinutesPages = registerCommand(
     'markMinutesPages', stageArgs('minutes-markup'),
     [file('scripts/run_site_stage.py'), file('scripts/46_minutes_page_markup.py'),
-     file('scripts/minutes_page_locators.py'), jekyllChanges],
-    [minutesChanges, minutesMarkupCodeState]
+     file('scripts/minutes_page_locators.py'), jekyllChanges, jekyllGeneration],
+    [minutesChanges, minutesMarkupCodeState, minutesMarkupGenerationState]
 )
 markMinutesPages.configure { dependsOn renderJekyll }
 
 def normalizeCitations = registerCommand(
     'normalizeBcoCitations', stageArgs('normalize'),
     [file('scripts/run_site_stage.py'), file('scripts/44_normalize_bco_prefixes.py'),
-     jekyllChanges, provisionChanges, authorityChanges, minutesChanges],
+     jekyllChanges, jekyllGeneration, provisionChanges, authorityChanges, minutesChanges],
     [normalizedChanges, normalizerCodeState]
 )
 normalizeCitations.configure {
@@ -512,7 +516,7 @@ def linkConstitutionReferences = registerCommand(
      file('scripts/46_minutes_page_markup.py'),
      file('index/source_registry.json'), file('index/case_provision_index.json'),
      file('index/authority_index.json'), fileTree(constitutionContent),
-     jekyllChanges, provisionChanges, authorityChanges, minutesChanges, normalizedChanges],
+     jekyllChanges, jekyllGeneration, provisionChanges, authorityChanges, minutesChanges, normalizedChanges],
     [linkState, linkCodeState, htmlSignatureState, new File(siteDir, 'assets/minutes-pages.json'),
      new File(siteDir, 'assets/scripture-audit.json'),
      new File(siteDir, 'assets/scripture-audit-summary.json'),

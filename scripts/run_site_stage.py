@@ -9,6 +9,7 @@ from pathlib import Path
 import re
 import subprocess
 import sys
+import time
 
 import render_site
 
@@ -139,6 +140,11 @@ def stage_jekyll(root: Path, site: Path, state_dir: Path) -> None:
         # task. Revisit every current page so all later stages repair the site.
         jekyll_changes.update({name: sha256(site / name) for name in after})
     write_json(state_dir / "jekyll-html-changes.json", jekyll_changes)
+    # A previous render can produce the same source-page manifest while resetting
+    # postprocessed HTML. Downstream Gradle tasks need a distinct input each time
+    # Jekyll actually runs so they repair those pages again.
+    generation = state_dir / "jekyll-render-generation.txt"
+    generation.write_text(f"{time.time_ns()}\n", encoding="utf-8")
 
 
 def stage_provisions(root: Path, site: Path, state_dir: Path) -> None:
@@ -174,6 +180,14 @@ def stage_minutes_markup(root: Path, site: Path, state_dir: Path) -> None:
     previous = json.loads(code_path.read_text(encoding="utf-8")) if code_path.is_file() else {}
     force_all = bool(previous) and previous.get("sha256") != code_fingerprint
 
+    generation_path = state_dir / "jekyll-render-generation.txt"
+    markup_generation_path = state_dir / "minutes-markup-generation.txt"
+    generation = generation_path.read_text(encoding="utf-8") if generation_path.is_file() else ""
+    previous_generation = (markup_generation_path.read_text(encoding="utf-8")
+                           if markup_generation_path.is_file() else None)
+    if generation and generation != previous_generation:
+        force_all = True
+
     candidates_path = state_dir / "minutes-markup-candidates.json"
     if not force_all:
         changed_paths = read_changes(state_dir / "jekyll-html-changes.json")
@@ -205,6 +219,7 @@ def stage_minutes_markup(root: Path, site: Path, state_dir: Path) -> None:
       path_list.unlink(missing_ok=True)
     write_json(state_dir / "minutes-html-changes.json", changes)
     write_json(code_path, {"sha256": code_fingerprint})
+    markup_generation_path.write_text(generation, encoding="utf-8")
 
 
 def stage_normalize(root: Path, site: Path, state_dir: Path) -> None:
