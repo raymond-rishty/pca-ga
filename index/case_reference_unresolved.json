@@ -1,0 +1,2382 @@
+{
+  "version": 2,
+  "status": "exploratory",
+  "occurrences": [
+    {
+      "source_decision": "ga05_1977__case1",
+      "source_file": "cases/ga05_1977__case1.md",
+      "source_dockets": [
+        "5-13",
+        "5-87"
+      ],
+      "target_decision": null,
+      "target_dockets": [],
+      "surface_text": "\"Pastoral\", and changing the word \"Adjudicate\" to \"investigate\". Attested Walter V. Worsham",
+      "match_type": "caption_unresolved",
+      "signals": [
+        "caption"
+      ],
+      "confidence": 0.25,
+      "line": 65,
+      "context": "*These minutes amended by action of Presbytery, April 12, 1977. changing the words \"Judicial\" to:\"Pastoral\", and changing the word \"Adjudicate\" to \"investigate\". Attested Walter V. Worsham, Stated Clerk.",
+      "self_reference": false,
+      "evidence_key": "cases/ga05_1977__case1.md:L65",
+      "cited_dockets": [],
+      "ambiguity": null
+    },
+    {
+      "source_decision": "ga09_1981__case3",
+      "source_file": "cases/ga09_1981__case3.md",
+      "source_dockets": [],
+      "target_decision": null,
+      "target_dockets": [],
+      "surface_text": "TE King et al. vs. Western Carolinas Presbytery",
+      "match_type": "caption_unresolved",
+      "signals": [
+        "caption"
+      ],
+      "confidence": 0.25,
+      "line": 41,
+      "context": "9-77 Judicial Commission for Case 4, Complaint of TE King et al. vs. Western Carolinas Presbytery",
+      "self_reference": false,
+      "evidence_key": "cases/ga09_1981__case3.md:L41",
+      "cited_dockets": [],
+      "ambiguity": null
+    },
+    {
+      "source_decision": "ga10_1982__case5",
+      "source_file": "cases/ga10_1982__case5.md",
+      "source_dockets": [],
+      "target_decision": null,
+      "target_dockets": [],
+      "surface_text": "Church, Cary, North Carolina vS. Eastern Carolina Presbytery",
+      "match_type": "caption_unresolved",
+      "signals": [
+        "caption"
+      ],
+      "confidence": 0.25,
+      "line": 41,
+      "context": "Church, Cary, North Carolina vS. Eastern Carolina Presbytery",
+      "self_reference": false,
+      "evidence_key": "cases/ga10_1982__case5.md:L41",
+      "cited_dockets": [],
+      "ambiguity": null
+    },
+    {
+      "source_decision": "ga13_1985__case1",
+      "source_file": "cases/ga13_1985__case1.md",
+      "source_dockets": [],
+      "target_decision": null,
+      "target_dockets": [],
+      "surface_text": "Item 13-61 — \"Preg et al. vs. Missouri Presbytery\":..",
+      "match_type": "caption_unresolved",
+      "signals": [
+        "caption"
+      ],
+      "confidence": 0.25,
+      "line": 11,
+      "context": "5. Case 5: Item 13-61 — \"Preg et al. vs. Missouri Presbytery\":... that the complaint be found in order and that the following judicial commission be elected to adjudicate the matter. The committee nominates the following commissioners",
+      "self_reference": false,
+      "evidence_key": "cases/ga13_1985__case1.md:L11",
+      "cited_dockets": [],
+      "ambiguity": null
+    },
+    {
+      "source_decision": "ga14_1986__case1",
+      "source_file": "cases/ga14_1986__case1.md",
+      "source_dockets": [],
+      "target_decision": null,
+      "target_dockets": [],
+      "surface_text": "the 8th GA Bogue vs. Ascension Presbytery",
+      "match_type": "caption_unresolved",
+      "signals": [
+        "caption"
+      ],
+      "confidence": 0.25,
+      "line": 74,
+      "context": "In the 8th GA Bogue vs. Ascension Presbytery case it was stated that \"simply affirming that the canon is closed, and that supposed new revelations from God add nothing to the deposit of truth already found in Scrip",
+      "self_reference": false,
+      "evidence_key": "cases/ga14_1986__case1.md:L74",
+      "cited_dockets": [],
+      "ambiguity": null
+    },
+    {
+      "source_decision": "ga14_1986__case1",
+      "source_file": "cases/ga14_1986__case1.md",
+      "source_dockets": [],
+      "target_decision": null,
+      "target_dockets": [],
+      "surface_text": "CA has declared that even the affirming, not just the practicing, of such a theological position is not permissible. The 8th General Assembly A Bogue vs. Ascension Presbytery",
+      "match_type": "caption_unresolved",
+      "signals": [
+        "caption"
+      ],
+      "confidence": 0.25,
+      "line": 78,
+      "context": "- **D.** The PCA has declared that even the affirming, not just the practicing, of such a theological position is not permissible. The 8th General Assembly A Bogue vs. Ascension Presbytery case noted that \"in his trial for ordination before the Presbytery, while indicating that he himself was not practicing the matter under discussion, Mr. Serio:",
+      "self_reference": false,
+      "evidence_key": "cases/ga14_1986__case1.md:L78",
+      "cited_dockets": [],
+      "ambiguity": null
+    },
+    {
+      "source_decision": "ga14_1986__case1",
+      "source_file": "cases/ga14_1986__case1.md",
+      "source_dockets": [],
+      "target_decision": null,
+      "target_dockets": [],
+      "surface_text": "Gentry, et al. vs. Calvary Presbytery",
+      "match_type": "caption_unresolved",
+      "signals": [
+        "caption"
+      ],
+      "confidence": 0.25,
+      "line": 192,
+      "context": "The undersigned respectfully dissent from the action of the Commission of the 14th General Assembly to adjudicate Case #1, Complaint of Gentry, et al. vs. Calvary Presbytery. Grounds:",
+      "self_reference": false,
+      "evidence_key": "cases/ga14_1986__case1.md:L192",
+      "cited_dockets": [],
+      "ambiguity": null
+    },
+    {
+      "source_decision": "ga14_1986__case1",
+      "source_file": "cases/ga14_1986__case1.md",
+      "source_dockets": [],
+      "target_decision": null,
+      "target_dockets": [],
+      "surface_text": "Bogue, et al. vs. Presbytery of the Ascension",
+      "match_type": "caption_unresolved",
+      "signals": [
+        "caption"
+      ],
+      "confidence": 0.25,
+      "line": 216,
+      "context": "1. The majority concur with the opinion of the Judicial Commission of the Eighth General Assembly in Bogue, et al. vs. Presbytery of the Ascension:",
+      "self_reference": false,
+      "evidence_key": "cases/ga14_1986__case1.md:L216",
+      "cited_dockets": [],
+      "ambiguity": null
+    },
+    {
+      "source_decision": "ga14_1986__case1",
+      "source_file": "cases/ga14_1986__case1.md",
+      "source_dockets": [],
+      "target_decision": null,
+      "target_dockets": [],
+      "surface_text": "Gentry et al. vs. Calvary Presbytery",
+      "match_type": "caption_unresolved",
+      "signals": [
+        "caption"
+      ],
+      "confidence": 0.25,
+      "line": 222,
+      "context": "Minutes of the Commission to Deal with Judicial Case #1, Complaint of Gentry et al. vs. Calvary Presbytery",
+      "self_reference": false,
+      "evidence_key": "cases/ga14_1986__case1.md:L222",
+      "cited_dockets": [],
+      "ambiguity": null
+    },
+    {
+      "source_decision": "ga16_1988__case2",
+      "source_file": "cases/ga16_1988__case2.md",
+      "source_dockets": [],
+      "target_decision": null,
+      "target_dockets": [],
+      "surface_text": "RE David Lachman, et al. vs. the Session of Calvary Presbyterian Church",
+      "match_type": "caption_unresolved",
+      "signals": [
+        "caption"
+      ],
+      "confidence": 0.25,
+      "line": 81,
+      "context": "Did the Philadelphia Presbytery act properly in failing to sustain the action of the judicial commission in the case of RE David Lachman, et al. vs. the Session of Calvary Presbyterian Church, Willow Grove?",
+      "self_reference": false,
+      "evidence_key": "cases/ga16_1988__case2.md:L81",
+      "cited_dockets": [],
+      "ambiguity": null
+    },
+    {
+      "source_decision": "ga16_1988__case3",
+      "source_file": "cases/ga16_1988__case3.md",
+      "source_dockets": [],
+      "target_decision": null,
+      "target_dockets": [],
+      "surface_text": "Gentry versus Calvary Presbytery",
+      "match_type": "caption_unresolved",
+      "signals": [
+        "caption"
+      ],
+      "confidence": 0.25,
+      "line": 33,
+      "context": "ified as a candidate for the ministry of the Presbyterian Church in America in contradiction to the fact that the Judicial Decision adopted by the 1986 General Assembly (Gentry versus Calvary Presbytery, Minutes pages 224-233, see the statement in its entirety including its response to the dissent) indicated that one could not hold such a position and be received as min",
+      "self_reference": false,
+      "evidence_key": "cases/ga16_1988__case3.md:L33",
+      "cited_dockets": [],
+      "ambiguity": null
+    },
+    {
+      "source_decision": "ga16_1988__case3",
+      "source_file": "cases/ga16_1988__case3.md",
+      "source_dockets": [],
+      "target_decision": null,
+      "target_dockets": [],
+      "surface_text": "#5, Bogue et al. vs. the Presbytery of Ascension and 1986 Case #1 Gentry et al",
+      "match_type": "caption_unresolved",
+      "signals": [
+        "caption"
+      ],
+      "confidence": 0.25,
+      "line": 87,
+      "context": "2. Whereas the two previous judgements (1980 Case #5, Bogue et al. vs. the Presbytery of Ascension and 1986 Case #1 Gentry et al. vs Calvary Presbytery) in similar cases have annulled the actions of the lower courts, and",
+      "self_reference": false,
+      "evidence_key": "cases/ga16_1988__case3.md:L87",
+      "cited_dockets": [],
+      "ambiguity": null
+    },
+    {
+      "source_decision": "ga16_1988__case3",
+      "source_file": "cases/ga16_1988__case3.md",
+      "source_dockets": [],
+      "target_decision": null,
+      "target_dockets": [],
+      "surface_text": "#1 Gentry et al. vs Calvary Presbytery",
+      "match_type": "caption_unresolved",
+      "signals": [
+        "caption"
+      ],
+      "confidence": 0.25,
+      "line": 87,
+      "context": "2. Whereas the two previous judgements (1980 Case #5, Bogue et al. vs. the Presbytery of Ascension and 1986 Case #1 Gentry et al. vs Calvary Presbytery) in similar cases have annulled the actions of the lower courts, and",
+      "self_reference": false,
+      "evidence_key": "cases/ga16_1988__case3.md:L87",
+      "cited_dockets": [],
+      "ambiguity": null
+    },
+    {
+      "source_decision": "ga16_1988__case3",
+      "source_file": "cases/ga16_1988__case3.md",
+      "source_dockets": [],
+      "target_decision": null,
+      "target_dockets": [],
+      "surface_text": "1980, Bogue et al. vs. Presbytery of Ascension",
+      "match_type": "caption_unresolved",
+      "signals": [
+        "caption"
+      ],
+      "confidence": 0.25,
+      "line": 120,
+      "context": "We find two earlier decisions of the General Assembly (1980, Bogue et al. vs. Presbytery of Ascension; 1986, Gentry et al. vs Calvary Presbytery) as having already expressed the view of the denomination:",
+      "self_reference": false,
+      "evidence_key": "cases/ga16_1988__case3.md:L120",
+      "cited_dockets": [],
+      "ambiguity": null
+    },
+    {
+      "source_decision": "ga16_1988__case3",
+      "source_file": "cases/ga16_1988__case3.md",
+      "source_dockets": [],
+      "target_decision": null,
+      "target_dockets": [],
+      "surface_text": "1986, Gentry et al. vs Calvary Presbytery",
+      "match_type": "caption_unresolved",
+      "signals": [
+        "caption"
+      ],
+      "confidence": 0.25,
+      "line": 120,
+      "context": "We find two earlier decisions of the General Assembly (1980, Bogue et al. vs. Presbytery of Ascension; 1986, Gentry et al. vs Calvary Presbytery) as having already expressed the view of the denomination:",
+      "self_reference": false,
+      "evidence_key": "cases/ga16_1988__case3.md:L120",
+      "cited_dockets": [],
+      "ambiguity": null
+    },
+    {
+      "source_decision": "ga16_1988__case3",
+      "source_file": "cases/ga16_1988__case3.md",
+      "source_dockets": [],
+      "target_decision": null,
+      "target_dockets": [],
+      "surface_text": "1986, Gentry et al. vs. Calvary Presbytery",
+      "match_type": "caption_unresolved",
+      "signals": [
+        "caption"
+      ],
+      "confidence": 0.25,
+      "line": 124,
+      "context": "(1986, Gentry et al. vs. Calvary Presbytery)",
+      "self_reference": false,
+      "evidence_key": "cases/ga16_1988__case3.md:L124",
+      "cited_dockets": [],
+      "ambiguity": null
+    },
+    {
+      "source_decision": "ga16_1988__case3",
+      "source_file": "cases/ga16_1988__case3.md",
+      "source_dockets": [],
+      "target_decision": null,
+      "target_dockets": [],
+      "surface_text": "Rayburn, et al vs. Missouri Presbytery",
+      "match_type": "caption_unresolved",
+      "signals": [
+        "caption"
+      ],
+      "confidence": 0.25,
+      "line": 205,
+      "context": "A motion to sustain the specifications of error (Rayburn, et al vs. Missouri Presbytery) failed 4-7-0.",
+      "self_reference": false,
+      "evidence_key": "cases/ga16_1988__case3.md:L205",
+      "cited_dockets": [],
+      "ambiguity": null
+    },
+    {
+      "source_decision": "ga16_1988__case3",
+      "source_file": "cases/ga16_1988__case3.md",
+      "source_dockets": [],
+      "target_decision": null,
+      "target_dockets": [],
+      "surface_text": "1980, Bogue et al vs. Presbytery of the Ascension",
+      "match_type": "caption_unresolved",
+      "signals": [
+        "caption"
+      ],
+      "confidence": 0.25,
+      "line": 236,
+      "context": "We find two earlier decisions of the General Assembly (1980, Bogue et al vs. Presbytery of the Ascension; 1986, Gentry et al vs. Calvary Presbytery) as having already expressed the view of the denomination:",
+      "self_reference": false,
+      "evidence_key": "cases/ga16_1988__case3.md:L236",
+      "cited_dockets": [],
+      "ambiguity": null
+    },
+    {
+      "source_decision": "ga16_1988__case3",
+      "source_file": "cases/ga16_1988__case3.md",
+      "source_dockets": [],
+      "target_decision": null,
+      "target_dockets": [],
+      "surface_text": "1986, Gentry et al vs. Calvary Presbytery",
+      "match_type": "caption_unresolved",
+      "signals": [
+        "caption"
+      ],
+      "confidence": 0.25,
+      "line": 236,
+      "context": "We find two earlier decisions of the General Assembly (1980, Bogue et al vs. Presbytery of the Ascension; 1986, Gentry et al vs. Calvary Presbytery) as having already expressed the view of the denomination:",
+      "self_reference": false,
+      "evidence_key": "cases/ga16_1988__case3.md:L236",
+      "cited_dockets": [],
+      "ambiguity": null
+    },
+    {
+      "source_decision": "ga16_1988__case3",
+      "source_file": "cases/ga16_1988__case3.md",
+      "source_dockets": [],
+      "target_decision": null,
+      "target_dockets": [],
+      "surface_text": "1986, Gentry et al vs. Calvary Presbytery",
+      "match_type": "caption_unresolved",
+      "signals": [
+        "caption"
+      ],
+      "confidence": 0.25,
+      "line": 238,
+      "context": "tion that is not canonical Scripture (which is complete) but is more than mere illumination and providence, a type of non-authoritative, non-canonical, new revelation.\" (1986, Gentry et al vs. Calvary Presbytery).",
+      "self_reference": false,
+      "evidence_key": "cases/ga16_1988__case3.md:L238",
+      "cited_dockets": [],
+      "ambiguity": null
+    },
+    {
+      "source_decision": "ga16_1988__case6",
+      "source_file": "cases/ga16_1988__case6.md",
+      "source_dockets": [],
+      "target_decision": null,
+      "target_dockets": [],
+      "surface_text": "**W.** Bogue et al., vs. members of the Presbytery of the Ascension, Complainants vs. The Presbytery of the Ascension",
+      "match_type": "caption_unresolved",
+      "signals": [
+        "caption"
+      ],
+      "confidence": 0.25,
+      "line": 70,
+      "context": "- **W.** Bogue et al., vs. members of the Presbytery of the Ascension, Complainants vs. The Presbytery of the Ascension, Respondents. That commission, as part of the Explanatory Opinion, stated in part that \"The Commission judges that simply affirming that the canon is closed, and that su",
+      "self_reference": false,
+      "evidence_key": "cases/ga16_1988__case6.md:L70",
+      "cited_dockets": [],
+      "ambiguity": null
+    },
+    {
+      "source_decision": "ga16_1988__case6",
+      "source_file": "cases/ga16_1988__case6.md",
+      "source_dockets": [],
+      "target_decision": null,
+      "target_dockets": [],
+      "surface_text": "**W.** Bogue et al. vs. members of the Presbytery of the Ascension",
+      "match_type": "caption_unresolved",
+      "signals": [
+        "caption"
+      ],
+      "confidence": 0.25,
+      "line": 70,
+      "context": "- **W.** Bogue et al., vs. members of the Presbytery of the Ascension, Complainants vs. The Presbytery of the Ascension, Respondents. That commission, as part of the Explanatory Opinion, stated in part that \"The Commission judges that simp",
+      "self_reference": false,
+      "evidence_key": "cases/ga16_1988__case6.md:L70",
+      "cited_dockets": [],
+      "ambiguity": null
+    },
+    {
+      "source_decision": "ga16_1988__case6",
+      "source_file": "cases/ga16_1988__case6.md",
+      "source_dockets": [],
+      "target_decision": null,
+      "target_dockets": [],
+      "surface_text": "Kenneth L. Gentry, Jr. et al. vs. Calvary Presbytery, Complainants vs. Calvary Presbytery",
+      "match_type": "caption_unresolved",
+      "signals": [
+        "caption"
+      ],
+      "confidence": 0.25,
+      "line": 72,
+      "context": "8. Such a view is in direct conflict with the Report of the Judicial Commission appointed by the Fourteenth General Assembly to Adjudicate the Complaint of Kenneth L. Gentry, Jr. et al. vs. Calvary Presbytery, Complainants vs. Calvary Presbytery. That commission as part of the Explanatory Opinion stated \"The Westminster Confession of Faith states in Chapter I Section I, 'those former ways of God's revealing His",
+      "self_reference": false,
+      "evidence_key": "cases/ga16_1988__case6.md:L72",
+      "cited_dockets": [],
+      "ambiguity": null
+    },
+    {
+      "source_decision": "ga17_1989__case4",
+      "source_file": "cases/ga17_1989__case4.md",
+      "source_dockets": [],
+      "target_decision": null,
+      "target_dockets": [],
+      "surface_text": "David Stine vs. Southern Florida Presbytery",
+      "match_type": "caption_unresolved",
+      "signals": [
+        "caption"
+      ],
+      "confidence": 0.25,
+      "line": 118,
+      "context": "17-106 Commission for Case #1: David Stine vs. Southern Florida Presbytery",
+      "self_reference": false,
+      "evidence_key": "cases/ga17_1989__case4.md:L118",
+      "cited_dockets": [],
+      "ambiguity": null
+    },
+    {
+      "source_decision": "ga17_1989__case7",
+      "source_file": "cases/ga17_1989__case7.md",
+      "source_dockets": [],
+      "target_decision": null,
+      "target_dockets": [],
+      "surface_text": "First PCA, Session, Rowlett, Texas vs. North Texas Presbytery",
+      "match_type": "caption_unresolved",
+      "signals": [
+        "caption"
+      ],
+      "confidence": 0.25,
+      "line": 12,
+      "context": "17-109 Commission to Adjudicate Case #3: First PCA, Session, Rowlett, Texas, vs. North Texas Presbytery",
+      "self_reference": false,
+      "evidence_key": "cases/ga17_1989__case7.md:L12",
+      "cited_dockets": [],
+      "ambiguity": null
+    },
+    {
+      "source_decision": "ga19_1991__1990-03",
+      "source_file": "cases/ga19_1991__1990-03.md",
+      "source_dockets": [
+        "1990-3"
+      ],
+      "target_decision": null,
+      "target_dockets": [],
+      "surface_text": "Alder vs. Grace Covenant",
+      "match_type": "caption_unresolved",
+      "signals": [
+        "caption"
+      ],
+      "confidence": 0.25,
+      "line": 158,
+      "context": "2. The report of the Commission of New River Presbytery in the case of Alder vs. Grace Covenant, approved by the Presbytery, stated that a Session could only grant exceptions to approve a Sunday School teacher if they were not out of accord with any fundamental of",
+      "self_reference": false,
+      "evidence_key": "cases/ga19_1991__1990-03.md:L158",
+      "cited_dockets": [],
+      "ambiguity": null
+    },
+    {
+      "source_decision": "ga19_1991__1990-03",
+      "source_file": "cases/ga19_1991__1990-03.md",
+      "source_dockets": [
+        "1990-3"
+      ],
+      "target_decision": null,
+      "target_dockets": [],
+      "surface_text": "Alder vs. Session of Grace Covenant.",
+      "match_type": "caption_unresolved",
+      "signals": [
+        "caption"
+      ],
+      "confidence": 0.25,
+      "line": 185,
+      "context": "Alder vs. Session of Grace Covenant.",
+      "self_reference": false,
+      "evidence_key": "cases/ga19_1991__1990-03.md:L185",
+      "cited_dockets": [],
+      "ambiguity": null
+    },
+    {
+      "source_decision": "ga19_1991__1990-03",
+      "source_file": "cases/ga19_1991__1990-03.md",
+      "source_dockets": [
+        "1990-3"
+      ],
+      "target_decision": null,
+      "target_dockets": [],
+      "surface_text": "Alder vs Session of Grace Covenant Church",
+      "match_type": "caption_unresolved",
+      "signals": [
+        "caption"
+      ],
+      "confidence": 0.25,
+      "line": 236,
+      "context": "2. The \"complainants\" are the Respondents of the Complaint of Alder vs Session of Grace Covenant Church. The decision of the court was in favor of Alder, and against the original Respondents.",
+      "self_reference": false,
+      "evidence_key": "cases/ga19_1991__1990-03.md:L236",
+      "cited_dockets": [],
+      "ambiguity": null
+    },
+    {
+      "source_decision": "ga19_1991__1990-08",
+      "source_file": "cases/ga19_1991__1990-08.md",
+      "source_dockets": [
+        "1990-8"
+      ],
+      "target_decision": null,
+      "target_dockets": [],
+      "surface_text": "TE David E. Bowen versus Eastern Carolina Presbytery",
+      "match_type": "caption_unresolved",
+      "signals": [
+        "caption"
+      ],
+      "confidence": 0.25,
+      "line": 372,
+      "context": "The undersigned members of the Permanent Judicial Commission submit this concurring opinion to the Case of TE David E. Bowen versus Eastern Carolina Presbytery. They are totally in agreement with the judgment of the Commission that",
+      "self_reference": false,
+      "evidence_key": "cases/ga19_1991__1990-08.md:L372",
+      "cited_dockets": [],
+      "ambiguity": null
+    },
+    {
+      "source_decision": "ga20_1992__1991-04",
+      "source_file": "cases/ga20_1992__1991-04.md",
+      "source_dockets": [
+        "1991-4"
+      ],
+      "target_decision": null,
+      "target_dockets": [],
+      "surface_text": "Bogue, et. al. vs. Ascension Presbytery",
+      "match_type": "caption_unresolved",
+      "signals": [
+        "caption"
+      ],
+      "confidence": 0.25,
+      "line": 443,
+      "context": "Please note the decision of the Eighth General Assembly in Bogue, et. al. vs. Ascension Presbytery, in which the Assembly expressed its opinion as follows:",
+      "self_reference": false,
+      "evidence_key": "cases/ga20_1992__1991-04.md:L443",
+      "cited_dockets": [],
+      "ambiguity": null
+    },
+    {
+      "source_decision": "ga20_1992__1991-04",
+      "source_file": "cases/ga20_1992__1991-04.md",
+      "source_dockets": [
+        "1991-4"
+      ],
+      "target_decision": null,
+      "target_dockets": [],
+      "surface_text": "Rayburn, et. al. vs. Missouri Presbytery",
+      "match_type": "caption_unresolved",
+      "signals": [
+        "caption"
+      ],
+      "confidence": 0.25,
+      "line": 461,
+      "context": "The Sixteenth General Assembly's decision in Rayburn, et. al., vs. Missouri Presbytery, which is, to date, the most liberal allowance the General Assembly has afforded on this matter, allowed the action of Missouri Presbytery, to wit, a position statement",
+      "self_reference": false,
+      "evidence_key": "cases/ga20_1992__1991-04.md:L461",
+      "cited_dockets": [],
+      "ambiguity": null
+    },
+    {
+      "source_decision": "ga20_1992__1991-07",
+      "source_file": "cases/ga20_1992__1991-07.md",
+      "source_dockets": [
+        "1991-7"
+      ],
+      "target_decision": null,
+      "target_dockets": [],
+      "surface_text": "ion's adjudication was heard, with the Presbytery again sustaining its original position, i.e., to deny the Complaint. Complainants filed a Complaint vs. Potomac Presbytery on 6/12/91",
+      "match_type": "caption_unresolved",
+      "signals": [
+        "caption"
+      ],
+      "confidence": 0.25,
+      "line": 22,
+      "context": "At its May 14, 1991 Meeting (p. 25) the Commission's adjudication was heard, with the Presbytery again sustaining its original position, i.e., to deny the Complaint. Complainants filed a Complaint vs. Potomac Presbytery on 6/12/91 (p. 19-21), complaining against the Presbytery's Commission. At the next Stated Meeting of Potomac Presbytery (9/21/91), a Committee was then appointed (pp. 17-18) to re",
+      "self_reference": false,
+      "evidence_key": "cases/ga20_1992__1991-07.md:L22",
+      "cited_dockets": [],
+      "ambiguity": null
+    },
+    {
+      "source_decision": "ga21_1993__1992-08",
+      "source_file": "cases/ga21_1993__1992-08.md",
+      "source_dockets": [
+        "1992-8"
+      ],
+      "target_decision": null,
+      "target_dockets": [],
+      "surface_text": "1. Complaint dated June 16, 1992 by William A. Conrad, et al., Complainants vs. the Interim Session of Prosperity Presbyterian Church",
+      "match_type": "caption_unresolved",
+      "signals": [
+        "caption"
+      ],
+      "confidence": 0.25,
+      "line": 18,
+      "context": "1. Complaint dated June 16, 1992 by William A. Conrad, et al., Complainants vs. the Interim Session of Prosperity Presbyterian Church, Respondent.",
+      "self_reference": false,
+      "evidence_key": "cases/ga21_1993__1992-08.md:L18",
+      "cited_dockets": [],
+      "ambiguity": null
+    },
+    {
+      "source_decision": "ga21_1993__1992-08",
+      "source_file": "cases/ga21_1993__1992-08.md",
+      "source_dockets": [
+        "1992-8"
+      ],
+      "target_decision": null,
+      "target_dockets": [],
+      "surface_text": "2. Complaint dated August 12, 1992 by William A. Conrad, et al., Complainants vs. the Interim Session of Prosperity Presbyterian Church",
+      "match_type": "caption_unresolved",
+      "signals": [
+        "caption"
+      ],
+      "confidence": 0.25,
+      "line": 20,
+      "context": "2. Complaint dated August 12, 1992 by William A. Conrad, et al., Complainants vs. the Interim Session of Prosperity Presbyterian Church, Respondent.",
+      "self_reference": false,
+      "evidence_key": "cases/ga21_1993__1992-08.md:L20",
+      "cited_dockets": [],
+      "ambiguity": null
+    },
+    {
+      "source_decision": "ga22_1994__1993-05",
+      "source_file": "cases/ga22_1994__1993-05.md",
+      "source_dockets": [
+        "1993-5"
+      ],
+      "target_decision": null,
+      "target_dockets": [],
+      "surface_text": "Chappell vs. Eastern Carolina",
+      "match_type": "caption_unresolved",
+      "signals": [
+        "caption"
+      ],
+      "confidence": 0.25,
+      "line": 74,
+      "context": "the Standing Judicial Commission (Chappell vs. Eastern Carolina",
+      "self_reference": false,
+      "evidence_key": "cases/ga22_1994__1993-05.md:L74",
+      "cited_dockets": [],
+      "ambiguity": null
+    },
+    {
+      "source_decision": "ga22_1994__1993-08",
+      "source_file": "cases/ga22_1994__1993-08.md",
+      "source_dockets": [
+        "1993-8"
+      ],
+      "target_decision": null,
+      "target_dockets": [],
+      "surface_text": "the Matter of the Session of the Ellisville Presbyterian Church vs. Grace",
+      "match_type": "caption_unresolved",
+      "signals": [
+        "caption"
+      ],
+      "confidence": 0.25,
+      "line": 24,
+      "context": "\"We the members of the Session of Ellisville Church grieve at the Report and Opinion of the Special Judicial Commission for Grace Presbytery in the Matter of the Session of the Ellisville Presbyterian Church vs. Grace",
+      "self_reference": false,
+      "evidence_key": "cases/ga22_1994__1993-08.md:L24",
+      "cited_dockets": [],
+      "ambiguity": null
+    },
+    {
+      "source_decision": "ga22_1994__1993-08",
+      "source_file": "cases/ga22_1994__1993-08.md",
+      "source_dockets": [
+        "1993-8"
+      ],
+      "target_decision": null,
+      "target_dockets": [],
+      "surface_text": "Ellisville Session vs. Grace Presbytery\" as it has been styled throughout",
+      "match_type": "caption_unresolved",
+      "signals": [
+        "caption"
+      ],
+      "confidence": 0.25,
+      "line": 225,
+      "context": "Ellisville Session vs. Grace Presbytery\" as it has been styled throughout",
+      "self_reference": false,
+      "evidence_key": "cases/ga22_1994__1993-08.md:L225",
+      "cited_dockets": [],
+      "ambiguity": null
+    },
+    {
+      "source_decision": "ga23_1995__1994-02",
+      "source_file": "cases/ga23_1995__1994-02.md",
+      "source_dockets": [
+        "1994-2"
+      ],
+      "target_decision": null,
+      "target_dockets": [
+        "1988-3"
+      ],
+      "surface_text": "Case No. 88-3",
+      "match_type": "docket_unresolved",
+      "signals": [
+        "docket"
+      ],
+      "confidence": 0.2,
+      "line": 62,
+      "context": "rning TE Smith and the Calvary Presbyterian Church Session. Therefore, the Panel judged further action requested against TE Smith and the Session to be a continuation of Case No. 88-3.",
+      "self_reference": false,
+      "evidence_key": "cases/ga23_1995__1994-02.md:L62",
+      "cited_dockets": [
+        "1988-3"
+      ],
+      "ambiguity": {
+        "cited_dockets": [
+          "1988-3"
+        ],
+        "docket_targets": [],
+        "caption_targets": [],
+        "caption_fingerprint_targets": [],
+        "minutes_targets": [],
+        "missing_dockets": [
+          "1988-3"
+        ]
+      }
+    },
+    {
+      "source_decision": "ga25_1997__1995-11",
+      "source_file": "cases/ga25_1997__1995-11.md",
+      "source_dockets": [
+        "1995-11"
+      ],
+      "target_decision": null,
+      "target_dockets": [],
+      "surface_text": "The following dictum from the 1992 Herman Gunter III et al. vs. Central Florida Presbytery case",
+      "match_type": "caption_unresolved",
+      "signals": [
+        "caption"
+      ],
+      "confidence": 0.25,
+      "line": 132,
+      "context": "The following dictum from the 1992 Herman Gunter III et al. vs. Central Florida Presbytery case, a case dealing with the issue of theonomy, is also especially relevant in the instant case:",
+      "self_reference": false,
+      "evidence_key": "cases/ga25_1997__1995-11.md:L132",
+      "cited_dockets": [],
+      "ambiguity": null
+    },
+    {
+      "source_decision": "ga25_1997__1995-11",
+      "source_file": "cases/ga25_1997__1995-11.md",
+      "source_dockets": [
+        "1995-11"
+      ],
+      "target_decision": null,
+      "target_dockets": [],
+      "surface_text": "the 1986 Gentry et al. vs. Calvary Presbytery and the 1988 Serio et al. vs. Palmetto Presbytery judicial cases.",
+      "match_type": "caption_unresolved",
+      "signals": [
+        "caption"
+      ],
+      "confidence": 0.25,
+      "line": 262,
+      "context": "e Presbytery would want to re-examine Mr. Blaha. This is even more likely if they were to find out that Mr. Blaha's views were essentially the same as those addressed in the 1986 Gentry et al. vs. Calvary Presbytery and the 1988 Serio et al. vs. Palmetto Presbytery judicial cases.",
+      "self_reference": false,
+      "evidence_key": "cases/ga25_1997__1995-11.md:L262",
+      "cited_dockets": [],
+      "ambiguity": null
+    },
+    {
+      "source_decision": "ga25_1997__1995-11",
+      "source_file": "cases/ga25_1997__1995-11.md",
+      "source_dockets": [
+        "1995-11"
+      ],
+      "target_decision": null,
+      "target_dockets": [],
+      "surface_text": "the 1986 Gentry et al. vs. Calvary Presbytery and the 1988 Serio et al",
+      "match_type": "caption_unresolved",
+      "signals": [
+        "caption"
+      ],
+      "confidence": 0.25,
+      "line": 262,
+      "context": "e Presbytery would want to re-examine Mr. Blaha. This is even more likely if they were to find out that Mr. Blaha's views were essentially the same as those addressed in the 1986 Gentry et al. vs. Calvary Presbytery and the 1988 Serio et al. vs. Palmetto Presbytery judicial cases.",
+      "self_reference": false,
+      "evidence_key": "cases/ga25_1997__1995-11.md:L262",
+      "cited_dockets": [],
+      "ambiguity": null
+    },
+    {
+      "source_decision": "ga27_1999__1997-17",
+      "source_file": "cases/ga27_1999__1997-17.md",
+      "source_dockets": [
+        "1997-17"
+      ],
+      "target_decision": null,
+      "target_dockets": [],
+      "surface_text": "** V. ** Vote of Standing Judicial Commission Approved the decision: 19 Concurring",
+      "match_type": "caption_unresolved",
+      "signals": [
+        "caption"
+      ],
+      "confidence": 0.25,
+      "line": 76,
+      "context": "- **V.** Vote of Standing Judicial Commission Approved the decision: 19 Concurring, 1 Dissenting, 1 Recused, 3 Absent.",
+      "self_reference": false,
+      "evidence_key": "cases/ga27_1999__1997-17.md:L76",
+      "cited_dockets": [],
+      "ambiguity": null
+    },
+    {
+      "source_decision": "ga27_1999__1998-05",
+      "source_file": "cases/ga27_1999__1998-05.md",
+      "source_dockets": [
+        "1998-5"
+      ],
+      "target_decision": null,
+      "target_dockets": [],
+      "surface_text": "** V. ** Vote of Standing Judicial Commission Approved the decision: 13 Concurring",
+      "match_type": "caption_unresolved",
+      "signals": [
+        "caption"
+      ],
+      "confidence": 0.25,
+      "line": 73,
+      "context": "- **V.** Vote of Standing Judicial Commission Approved the decision: 13 Concurring, 8 Dissenting, 1 Recused, 2 Absent.",
+      "self_reference": false,
+      "evidence_key": "cases/ga27_1999__1998-05.md:L73",
+      "cited_dockets": [],
+      "ambiguity": null
+    },
+    {
+      "source_decision": "ga29_2001__1999-07",
+      "source_file": "cases/ga29_2001__1999-07.md",
+      "source_dockets": [
+        "1999-7"
+      ],
+      "target_decision": null,
+      "target_dockets": [],
+      "surface_text": "Gunter & Monroe vs. Central Florida",
+      "match_type": "caption_unresolved",
+      "signals": [
+        "caption"
+      ],
+      "confidence": 0.25,
+      "line": 48,
+      "context": "In 1992, in one issue in the case of Gunter & Monroe vs. Central Florida, the Presbytery annulled a Session resolution that judged that \"theonomy is out of accord",
+      "self_reference": false,
+      "evidence_key": "cases/ga29_2001__1999-07.md:L48",
+      "cited_dockets": [],
+      "ambiguity": null
+    },
+    {
+      "source_decision": "ga29_2001__1999-07",
+      "source_file": "cases/ga29_2001__1999-07.md",
+      "source_dockets": [
+        "1999-7"
+      ],
+      "target_decision": null,
+      "target_dockets": [],
+      "surface_text": "Grace Covenant Church vs. New River, 1991 Bowen vs. Eastern Carolina, 1991 Antioch Session vs. Eastern Carolina, 1994 Mt. Carmel Session vs. New Jersey",
+      "match_type": "caption_unresolved",
+      "signals": [
+        "caption"
+      ],
+      "confidence": 0.25,
+      "line": 58,
+      "context": "Six of the 20 cases touch on the creation issue: Grace Covenant Church vs. New River, 1991 Bowen vs. Eastern Carolina, 1991 Antioch Session vs. Eastern Carolina, 1994 Mt. Carmel Session vs. New Jersey, 1998 Snapp vs. James River, 1999 Long vs. James River, 1999",
+      "self_reference": false,
+      "evidence_key": "cases/ga29_2001__1999-07.md:L58",
+      "cited_dockets": [],
+      "ambiguity": null
+    },
+    {
+      "source_decision": "ga29_2001__1999-07",
+      "source_file": "cases/ga29_2001__1999-07.md",
+      "source_dockets": [
+        "1999-7"
+      ],
+      "target_decision": null,
+      "target_dockets": [],
+      "surface_text": "Grace Covenant Church vs. New River, 1991 Bowen vs. Eastern Carolina, 1991 Antioch Session vs. Eastern Carolina",
+      "match_type": "caption_unresolved",
+      "signals": [
+        "caption"
+      ],
+      "confidence": 0.25,
+      "line": 58,
+      "context": "Six of the 20 cases touch on the creation issue: Grace Covenant Church vs. New River, 1991 Bowen vs. Eastern Carolina, 1991 Antioch Session vs. Eastern Carolina, 1994 Mt. Carmel Session vs. New Jersey, 1998 Snapp vs. James River, 1999 Long vs. James River, 1999",
+      "self_reference": false,
+      "evidence_key": "cases/ga29_2001__1999-07.md:L58",
+      "cited_dockets": [],
+      "ambiguity": null
+    },
+    {
+      "source_decision": "ga29_2001__1999-07",
+      "source_file": "cases/ga29_2001__1999-07.md",
+      "source_dockets": [
+        "1999-7"
+      ],
+      "target_decision": null,
+      "target_dockets": [],
+      "surface_text": "Grace Covenant Church vs. New River, 1991 Bowen vs. Eastern Carolina",
+      "match_type": "caption_unresolved",
+      "signals": [
+        "caption"
+      ],
+      "confidence": 0.25,
+      "line": 58,
+      "context": "Six of the 20 cases touch on the creation issue: Grace Covenant Church vs. New River, 1991 Bowen vs. Eastern Carolina, 1991 Antioch Session vs. Eastern Carolina, 1994 Mt. Carmel Session vs. New Jersey, 1998 Snapp vs. James River, 1999 Long vs. James River, 1999",
+      "self_reference": false,
+      "evidence_key": "cases/ga29_2001__1999-07.md:L58",
+      "cited_dockets": [],
+      "ambiguity": null
+    },
+    {
+      "source_decision": "ga29_2001__1999-07",
+      "source_file": "cases/ga29_2001__1999-07.md",
+      "source_dockets": [
+        "1999-7"
+      ],
+      "target_decision": null,
+      "target_dockets": [],
+      "surface_text": "Grace Covenant Church vs. New River",
+      "match_type": "caption_unresolved",
+      "signals": [
+        "caption"
+      ],
+      "confidence": 0.25,
+      "line": 58,
+      "context": "Six of the 20 cases touch on the creation issue: Grace Covenant Church vs. New River, 1991 Bowen vs. Eastern Carolina, 1991 Antioch Session vs. Eastern Carolina, 1994 Mt. Carmel Session vs. New Jersey, 1998 Snapp vs. James River, 1999 Long vs. James Rive",
+      "self_reference": false,
+      "evidence_key": "cases/ga29_2001__1999-07.md:L58",
+      "cited_dockets": [],
+      "ambiguity": null
+    },
+    {
+      "source_decision": "ga29_2001__1999-07",
+      "source_file": "cases/ga29_2001__1999-07.md",
+      "source_dockets": [
+        "1999-7"
+      ],
+      "target_decision": null,
+      "target_dockets": [],
+      "surface_text": "Church vs. New River, 1991 Bowen vs. Eastern Carolina, 1991 Antioch Session vs. Eastern Carolina, 1994 Mt. Carmel Session vs. New Jersey, 1998 Snapp vs. James River",
+      "match_type": "caption_unresolved",
+      "signals": [
+        "caption"
+      ],
+      "confidence": 0.25,
+      "line": 58,
+      "context": "Six of the 20 cases touch on the creation issue: Grace Covenant Church vs. New River, 1991 Bowen vs. Eastern Carolina, 1991 Antioch Session vs. Eastern Carolina, 1994 Mt. Carmel Session vs. New Jersey, 1998 Snapp vs. James River, 1999 Long vs. James River, 1999",
+      "self_reference": false,
+      "evidence_key": "cases/ga29_2001__1999-07.md:L58",
+      "cited_dockets": [],
+      "ambiguity": null
+    },
+    {
+      "source_decision": "ga29_2001__1999-07",
+      "source_file": "cases/ga29_2001__1999-07.md",
+      "source_dockets": [
+        "1999-7"
+      ],
+      "target_decision": null,
+      "target_dockets": [],
+      "surface_text": "Bowen vs. Eastern Carolina, 1991 Antioch Session vs. Eastern Carolina, 1994 Mt. Carmel Session vs. New Jersey, 1998 Snapp vs. James River, 1999 Long vs. James River",
+      "match_type": "caption_unresolved",
+      "signals": [
+        "caption"
+      ],
+      "confidence": 0.25,
+      "line": 58,
+      "context": "Six of the 20 cases touch on the creation issue: Grace Covenant Church vs. New River, 1991 Bowen vs. Eastern Carolina, 1991 Antioch Session vs. Eastern Carolina, 1994 Mt. Carmel Session vs. New Jersey, 1998 Snapp vs. James River, 1999 Long vs. James River, 1999",
+      "self_reference": false,
+      "evidence_key": "cases/ga29_2001__1999-07.md:L58",
+      "cited_dockets": [],
+      "ambiguity": null
+    },
+    {
+      "source_decision": "ga29_2001__2000-01",
+      "source_file": "cases/ga29_2001__2000-01.md",
+      "source_dockets": [
+        "2000-1"
+      ],
+      "target_decision": null,
+      "target_dockets": [],
+      "surface_text": "arolina Presbytery did not err when it deemed the licentiate's view on creation days not to be an exception to the Confessional Standards. Only Bowen vs. Eastern Carolina Presbytery and Mt",
+      "match_type": "caption_unresolved",
+      "signals": [
+        "caption"
+      ],
+      "confidence": 0.25,
+      "line": 26,
+      "context": "5. The cases cited as Judicial precedent on the days of creation do not support the SJC majority's decision that Eastern Carolina Presbytery did not err when it deemed the licentiate's view on creation days not to be an exception to the Confessional Standards. Only Bowen vs. Eastern Carolina Presbytery and Mt. Carmel Session vs. New Jersey Presbytery can reasonably be construed as lending support to the SJC majority decision. Of those two, Mt. Carmel, a quite divided decision",
+      "self_reference": false,
+      "evidence_key": "cases/ga29_2001__2000-01.md:L26",
+      "cited_dockets": [],
+      "ambiguity": null
+    },
+    {
+      "source_decision": "ga29_2001__2000-01",
+      "source_file": "cases/ga29_2001__2000-01.md",
+      "source_dockets": [
+        "2000-1"
+      ],
+      "target_decision": null,
+      "target_dockets": [],
+      "surface_text": "tiate's view on creation days not to be an exception to the Confessional Standards. Only Bowen vs. Eastern Carolina Presbytery and Mt. Carmel Session vs. New Jersey Presbytery",
+      "match_type": "caption_unresolved",
+      "signals": [
+        "caption"
+      ],
+      "confidence": 0.25,
+      "line": 26,
+      "context": "cases cited as Judicial precedent on the days of creation do not support the SJC majority's decision that Eastern Carolina Presbytery did not err when it deemed the licentiate's view on creation days not to be an exception to the Confessional Standards. Only Bowen vs. Eastern Carolina Presbytery and Mt. Carmel Session vs. New Jersey Presbytery can reasonably be construed as lending support to the SJC majority decision. Of those two, Mt. Carmel, a quite divided decision within the SJC and the Assembly, contains",
+      "self_reference": false,
+      "evidence_key": "cases/ga29_2001__2000-01.md:L26",
+      "cited_dockets": [],
+      "ambiguity": null
+    },
+    {
+      "source_decision": "ga29_2001__stub_2000-03",
+      "source_file": "cases/ga29_2001__stub_2000-03.md",
+      "source_dockets": [
+        "2000-3"
+      ],
+      "target_decision": null,
+      "target_dockets": [
+        "0-6",
+        "2001-6"
+      ],
+      "surface_text": "Cases 00-6, 01-6",
+      "match_type": "docket_unresolved",
+      "signals": [
+        "docket"
+      ],
+      "confidence": 0.2,
+      "line": 9,
+      "context": "3, 01-4, 01-5, 01-7, 01-8, 01-9, and 01-10 are in process. Since these cases are complex and related, a panel of five members has been appointed to hear all these cases. Cases 00-6, 01-6, and 01-11 await final action by the full SJC in October. The Standing Judicial Commission has completed its work on Cases 99-1, 99-5, 99-6, 99-7, 00-1, 00-2, 00-4, 00-7",
+      "self_reference": false,
+      "evidence_key": "cases/ga29_2001__stub_2000-03.md:L9",
+      "cited_dockets": [
+        "0-6",
+        "2001-6"
+      ],
+      "ambiguity": {
+        "cited_dockets": [
+          "0-6",
+          "2001-6"
+        ],
+        "docket_targets": [
+          "ga31_2003__2001-06"
+        ],
+        "caption_targets": [],
+        "caption_fingerprint_targets": [],
+        "minutes_targets": [],
+        "missing_dockets": [
+          "0-6"
+        ]
+      }
+    },
+    {
+      "source_decision": "ga29_2001__stub_2000-05",
+      "source_file": "cases/ga29_2001__stub_2000-05.md",
+      "source_dockets": [
+        "2000-5"
+      ],
+      "target_decision": null,
+      "target_dockets": [
+        "0-6",
+        "2001-6"
+      ],
+      "surface_text": "Cases 00-6, 01-6",
+      "match_type": "docket_unresolved",
+      "signals": [
+        "docket"
+      ],
+      "confidence": 0.2,
+      "line": 9,
+      "context": "3, 01-4, 01-5, 01-7, 01-8, 01-9, and 01-10 are in process. Since these cases are complex and related, a panel of five members has been appointed to hear all these cases. Cases 00-6, 01-6, and 01-11 await final action by the full SJC in October. The Standing Judicial Commission has completed its work on Cases 99-1, 99-5, 99-6, 99-7, 00-1, 00-2, 00-4, 00-7",
+      "self_reference": false,
+      "evidence_key": "cases/ga29_2001__stub_2000-05.md:L9",
+      "cited_dockets": [
+        "0-6",
+        "2001-6"
+      ],
+      "ambiguity": {
+        "cited_dockets": [
+          "0-6",
+          "2001-6"
+        ],
+        "docket_targets": [
+          "ga31_2003__2001-06"
+        ],
+        "caption_targets": [],
+        "caption_fingerprint_targets": [],
+        "minutes_targets": [],
+        "missing_dockets": [
+          "0-6"
+        ]
+      }
+    },
+    {
+      "source_decision": "ga29_2001__stub_2001-05",
+      "source_file": "cases/ga29_2001__stub_2001-05.md",
+      "source_dockets": [
+        "2001-5"
+      ],
+      "target_decision": null,
+      "target_dockets": [
+        "0-6",
+        "2001-6"
+      ],
+      "surface_text": "Cases 00-6, 01-6",
+      "match_type": "docket_unresolved",
+      "signals": [
+        "docket"
+      ],
+      "confidence": 0.2,
+      "line": 9,
+      "context": "3, 01-4, 01-5, 01-7, 01-8, 01-9, and 01-10 are in process. Since these cases are complex and related, a panel of five members has been appointed to hear all these cases. Cases 00-6, 01-6, and 01-11 await final action by the full SJC in October. The Standing Judicial Commission has completed its work on Cases 99-1, 99-5, 99-6, 99-7, 00-1, 00-2, 00-4, 00-7",
+      "self_reference": false,
+      "evidence_key": "cases/ga29_2001__stub_2001-05.md:L9",
+      "cited_dockets": [
+        "0-6",
+        "2001-6"
+      ],
+      "ambiguity": {
+        "cited_dockets": [
+          "0-6",
+          "2001-6"
+        ],
+        "docket_targets": [
+          "ga31_2003__2001-06"
+        ],
+        "caption_targets": [],
+        "caption_fingerprint_targets": [],
+        "minutes_targets": [],
+        "missing_dockets": [
+          "0-6"
+        ]
+      }
+    },
+    {
+      "source_decision": "ga31_2003__2001-06",
+      "source_file": "cases/ga31_2003__2001-06.md",
+      "source_dockets": [
+        "2001-6"
+      ],
+      "target_decision": null,
+      "target_dockets": [],
+      "surface_text": "a)** First there are the twin cases Chappell vs. Eastern Carolina Presbytery and Wallace W. Marshall Jr. vs. Eastern Carolina Presbytery",
+      "match_type": "caption_unresolved",
+      "signals": [
+        "caption"
+      ],
+      "confidence": 0.25,
+      "line": 112,
+      "context": "- **(a)** First there are the twin cases Chappell vs. Eastern Carolina Presbytery and Wallace W. Marshall Jr. vs. Eastern Carolina Presbytery (M19GA,1991, pp. 488-527). In both cases the Presbytery elected a Commission and clothed “it with full power of the presbytery to resolve all matters of conflict\" at Ful",
+      "self_reference": false,
+      "evidence_key": "cases/ga31_2003__2001-06.md:L112",
+      "cited_dockets": [],
+      "ambiguity": null
+    },
+    {
+      "source_decision": "ga31_2003__2001-06",
+      "source_file": "cases/ga31_2003__2001-06.md",
+      "source_dockets": [
+        "2001-6"
+      ],
+      "target_decision": null,
+      "target_dockets": [],
+      "surface_text": "a)** First there are the twin cases Chappell vs. Eastern Carolina Presbytery and Wallace W. Marshall Jr",
+      "match_type": "caption_unresolved",
+      "signals": [
+        "caption"
+      ],
+      "confidence": 0.25,
+      "line": 112,
+      "context": "- **(a)** First there are the twin cases Chappell vs. Eastern Carolina Presbytery and Wallace W. Marshall Jr. vs. Eastern Carolina Presbytery (M19GA,1991, pp. 488-527). In both cases the Presbytery elected a Commission and clothed “it with full power of the presbytery to resolv",
+      "self_reference": false,
+      "evidence_key": "cases/ga31_2003__2001-06.md:L112",
+      "cited_dockets": [],
+      "ambiguity": null
+    },
+    {
+      "source_decision": "ga33_2005__2001-34_2002-02_2002-03",
+      "source_file": "cases/ga33_2005__2001-34_2002-02_2002-03.md",
+      "source_dockets": [
+        "2001-34",
+        "2002-2",
+        "2002-3"
+      ],
+      "target_decision": null,
+      "target_dockets": [
+        "1-34"
+      ],
+      "surface_text": "Case 1-34",
+      "match_type": "docket_unresolved",
+      "signals": [
+        "docket"
+      ],
+      "confidence": 0.2,
+      "line": 97,
+      "context": "At the July 14, 2001 meeting of JRP, a partial report of its Judicial Commission was made to deal with these complaints of WEPC (Case 1-34, p. 13-14). The",
+      "self_reference": false,
+      "evidence_key": "cases/ga33_2005__2001-34_2002-02_2002-03.md:L97",
+      "cited_dockets": [
+        "1-34"
+      ],
+      "ambiguity": {
+        "cited_dockets": [
+          "1-34"
+        ],
+        "docket_targets": [],
+        "caption_targets": [],
+        "caption_fingerprint_targets": [],
+        "minutes_targets": [],
+        "missing_dockets": [
+          "1-34"
+        ]
+      }
+    },
+    {
+      "source_decision": "ga33_2005__2001-34_2002-02_2002-03",
+      "source_file": "cases/ga33_2005__2001-34_2002-02_2002-03.md",
+      "source_dockets": [
+        "2001-34",
+        "2002-2",
+        "2002-3"
+      ],
+      "target_decision": null,
+      "target_dockets": [
+        "1-34"
+      ],
+      "surface_text": "Case 1-34",
+      "match_type": "docket_unresolved",
+      "signals": [
+        "docket"
+      ],
+      "confidence": 0.2,
+      "line": 117,
+      "context": "These 3 complaints, being in order, were assigned by JRP to its Judicial Commission for adjudication (Case 1-34, ROC, p.17).",
+      "self_reference": false,
+      "evidence_key": "cases/ga33_2005__2001-34_2002-02_2002-03.md:L117",
+      "cited_dockets": [
+        "1-34"
+      ],
+      "ambiguity": {
+        "cited_dockets": [
+          "1-34"
+        ],
+        "docket_targets": [],
+        "caption_targets": [],
+        "caption_fingerprint_targets": [],
+        "minutes_targets": [],
+        "missing_dockets": [
+          "1-34"
+        ]
+      }
+    },
+    {
+      "source_decision": "ga34_2006__2005-08",
+      "source_file": "cases/ga34_2006__2005-08.md",
+      "source_dockets": [
+        "2005-8"
+      ],
+      "target_decision": null,
+      "target_dockets": [],
+      "surface_text": "the Kim vs. Korean Eastern Presbytery case",
+      "match_type": "caption_unresolved",
+      "signals": [
+        "caption"
+      ],
+      "confidence": 0.25,
+      "line": 102,
+      "context": "ainst Machen can be reduced to two: refusing to be in subjection to the brethren in the Lord and contumacy. Several of the charges against Machen parallel the charges in the Kim vs. Korean Eastern Presbytery case; particularly, the third, fourth, seventh, eighth and ninth charges. While the word contumacy is not used in the charges against Machen, the idea of contumacy is certain",
+      "self_reference": false,
+      "evidence_key": "cases/ga34_2006__2005-08.md:L102",
+      "cited_dockets": [],
+      "ambiguity": null
+    },
+    {
+      "source_decision": "ga38_2010__2009-06",
+      "source_file": "cases/ga38_2010__2009-06.md",
+      "source_dockets": [
+        "2009-6"
+      ],
+      "target_decision": null,
+      "target_dockets": [],
+      "surface_text": "Edgemont Session v. Westminster in 1997 dealing with the 16th GA's study on Freemasonry.",
+      "match_type": "caption_unresolved",
+      "signals": [
+        "caption"
+      ],
+      "confidence": 0.25,
+      "line": 580,
+      "context": "\"faithful exposition\" of WCF 24:1 to understand that marriage could be between two consenting adults, not just between a man and a woman. (See also the SJC reasoning in Edgemont Session v. Westminster in 1997 dealing with the 16th GA's study on Freemasonry.)",
+      "self_reference": false,
+      "evidence_key": "cases/ga38_2010__2009-06.md:L580",
+      "cited_dockets": [],
+      "ambiguity": null
+    },
+    {
+      "source_decision": "ga38_2010__stub_2009-13",
+      "source_file": "cases/ga38_2010__stub_2009-13.md",
+      "source_dockets": [
+        "2009-13"
+      ],
+      "target_decision": null,
+      "target_dockets": [
+        "2009-13",
+        "2009-17",
+        "2009-18",
+        "2009-19",
+        "2009-20"
+      ],
+      "surface_text": "Cases 2009-13, 2009-17, 2009-18, 2009-19, 2009-20",
+      "match_type": "docket_unresolved",
+      "signals": [
+        "docket"
+      ],
+      "confidence": 0.35,
+      "line": 9,
+      "context": "> circumstances, Cases 2009-13, 2009-17, 2009-18, 2009-19, 2009-20, 200927, 2009-29, 2009-30, 2009-31, 2009-32, 2010-2, 2010-5, and 2010-6 were found to be administratively out of order, Case 2009-15 was found judicially",
+      "self_reference": false,
+      "evidence_key": "cases/ga38_2010__stub_2009-13.md:L9",
+      "cited_dockets": [
+        "2009-13",
+        "2009-17",
+        "2009-18",
+        "2009-19",
+        "2009-20"
+      ],
+      "ambiguity": {
+        "cited_dockets": [
+          "2009-13",
+          "2009-17",
+          "2009-18",
+          "2009-19",
+          "2009-20"
+        ],
+        "docket_targets": [
+          "ga38_2010__stub_2009-13",
+          "ga38_2010__stub_2009-17"
+        ],
+        "caption_targets": [],
+        "caption_fingerprint_targets": [],
+        "minutes_targets": [],
+        "missing_dockets": [
+          "2009-18",
+          "2009-19",
+          "2009-20"
+        ]
+      }
+    },
+    {
+      "source_decision": "ga38_2010__stub_2009-17",
+      "source_file": "cases/ga38_2010__stub_2009-17.md",
+      "source_dockets": [
+        "2009-17"
+      ],
+      "target_decision": null,
+      "target_dockets": [
+        "2009-13",
+        "2009-17",
+        "2009-18",
+        "2009-19",
+        "2009-20"
+      ],
+      "surface_text": "Cases 2009-13, 2009-17, 2009-18, 2009-19, 2009-20",
+      "match_type": "docket_unresolved",
+      "signals": [
+        "docket"
+      ],
+      "confidence": 0.35,
+      "line": 9,
+      "context": "> circumstances, Cases 2009-13, 2009-17, 2009-18, 2009-19, 2009-20, 200927, 2009-29, 2009-30, 2009-31, 2009-32, 2010-2, 2010-5, and 2010-6 were found to be administratively out of order, Case 2009-15 was found judicially",
+      "self_reference": false,
+      "evidence_key": "cases/ga38_2010__stub_2009-17.md:L9",
+      "cited_dockets": [
+        "2009-13",
+        "2009-17",
+        "2009-18",
+        "2009-19",
+        "2009-20"
+      ],
+      "ambiguity": {
+        "cited_dockets": [
+          "2009-13",
+          "2009-17",
+          "2009-18",
+          "2009-19",
+          "2009-20"
+        ],
+        "docket_targets": [
+          "ga38_2010__stub_2009-13",
+          "ga38_2010__stub_2009-17"
+        ],
+        "caption_targets": [],
+        "caption_fingerprint_targets": [],
+        "minutes_targets": [],
+        "missing_dockets": [
+          "2009-18",
+          "2009-19",
+          "2009-20"
+        ]
+      }
+    },
+    {
+      "source_decision": "ga38_2010__stub_2009-29",
+      "source_file": "cases/ga38_2010__stub_2009-29.md",
+      "source_dockets": [
+        "2009-29"
+      ],
+      "target_decision": null,
+      "target_dockets": [
+        "2009-13",
+        "2009-17",
+        "2009-18",
+        "2009-19",
+        "2009-20"
+      ],
+      "surface_text": "Cases 2009-13, 2009-17, 2009-18, 2009-19, 2009-20",
+      "match_type": "docket_unresolved",
+      "signals": [
+        "docket"
+      ],
+      "confidence": 0.35,
+      "line": 9,
+      "context": "> circumstances, Cases 2009-13, 2009-17, 2009-18, 2009-19, 2009-20, 200927, 2009-29, 2009-30, 2009-31, 2009-32, 2010-2, 2010-5, and 2010-6 were found to be administratively out of order, Case 2009-15 was found judicially",
+      "self_reference": false,
+      "evidence_key": "cases/ga38_2010__stub_2009-29.md:L9",
+      "cited_dockets": [
+        "2009-13",
+        "2009-17",
+        "2009-18",
+        "2009-19",
+        "2009-20"
+      ],
+      "ambiguity": {
+        "cited_dockets": [
+          "2009-13",
+          "2009-17",
+          "2009-18",
+          "2009-19",
+          "2009-20"
+        ],
+        "docket_targets": [
+          "ga38_2010__stub_2009-13",
+          "ga38_2010__stub_2009-17"
+        ],
+        "caption_targets": [],
+        "caption_fingerprint_targets": [],
+        "minutes_targets": [],
+        "missing_dockets": [
+          "2009-18",
+          "2009-19",
+          "2009-20"
+        ]
+      }
+    },
+    {
+      "source_decision": "ga38_2010__stub_2009-32",
+      "source_file": "cases/ga38_2010__stub_2009-32.md",
+      "source_dockets": [
+        "2009-32"
+      ],
+      "target_decision": null,
+      "target_dockets": [
+        "2009-13",
+        "2009-17",
+        "2009-18",
+        "2009-19",
+        "2009-20"
+      ],
+      "surface_text": "Cases 2009-13, 2009-17, 2009-18, 2009-19, 2009-20",
+      "match_type": "docket_unresolved",
+      "signals": [
+        "docket"
+      ],
+      "confidence": 0.35,
+      "line": 9,
+      "context": "> circumstances, Cases 2009-13, 2009-17, 2009-18, 2009-19, 2009-20, 200927, 2009-29, 2009-30, 2009-31, 2009-32, 2010-2, 2010-5, and 2010-6 were found to be administratively out of order, Case 2009-15 was found judicially",
+      "self_reference": false,
+      "evidence_key": "cases/ga38_2010__stub_2009-32.md:L9",
+      "cited_dockets": [
+        "2009-13",
+        "2009-17",
+        "2009-18",
+        "2009-19",
+        "2009-20"
+      ],
+      "ambiguity": {
+        "cited_dockets": [
+          "2009-13",
+          "2009-17",
+          "2009-18",
+          "2009-19",
+          "2009-20"
+        ],
+        "docket_targets": [
+          "ga38_2010__stub_2009-13",
+          "ga38_2010__stub_2009-17"
+        ],
+        "caption_targets": [],
+        "caption_fingerprint_targets": [],
+        "minutes_targets": [],
+        "missing_dockets": [
+          "2009-18",
+          "2009-19",
+          "2009-20"
+        ]
+      }
+    },
+    {
+      "source_decision": "ga38_2010__stub_2010-02",
+      "source_file": "cases/ga38_2010__stub_2010-02.md",
+      "source_dockets": [
+        "2010-2"
+      ],
+      "target_decision": null,
+      "target_dockets": [
+        "2009-13",
+        "2009-17",
+        "2009-18",
+        "2009-19",
+        "2009-20"
+      ],
+      "surface_text": "Cases 2009-13, 2009-17, 2009-18, 2009-19, 2009-20",
+      "match_type": "docket_unresolved",
+      "signals": [
+        "docket"
+      ],
+      "confidence": 0.35,
+      "line": 9,
+      "context": "> circumstances, Cases 2009-13, 2009-17, 2009-18, 2009-19, 2009-20, 200927, 2009-29, 2009-30, 2009-31, 2009-32, 2010-2, 2010-5, and 2010-6 were found to be administratively out of order, Case 2009-15 was found judicially",
+      "self_reference": false,
+      "evidence_key": "cases/ga38_2010__stub_2010-02.md:L9",
+      "cited_dockets": [
+        "2009-13",
+        "2009-17",
+        "2009-18",
+        "2009-19",
+        "2009-20"
+      ],
+      "ambiguity": {
+        "cited_dockets": [
+          "2009-13",
+          "2009-17",
+          "2009-18",
+          "2009-19",
+          "2009-20"
+        ],
+        "docket_targets": [
+          "ga38_2010__stub_2009-13",
+          "ga38_2010__stub_2009-17"
+        ],
+        "caption_targets": [],
+        "caption_fingerprint_targets": [],
+        "minutes_targets": [],
+        "missing_dockets": [
+          "2009-18",
+          "2009-19",
+          "2009-20"
+        ]
+      }
+    },
+    {
+      "source_decision": "ga39_2011__2010-04",
+      "source_file": "cases/ga39_2011__2010-04.md",
+      "source_dockets": [
+        "2010-4"
+      ],
+      "target_decision": null,
+      "target_dockets": [],
+      "surface_text": "** v. ** Louisiana Presbytery",
+      "match_type": "caption_unresolved",
+      "signals": [
+        "caption"
+      ],
+      "confidence": 0.25,
+      "line": 288,
+      "context": "- **v.** Louisiana Presbytery, the SJC's Decision was to censure the Presbytery for similarly failing to find a substantial presumption of guilt in the Federal Vision views of Pastor Wilkins, in thes",
+      "self_reference": false,
+      "evidence_key": "cases/ga39_2011__2010-04.md:L288",
+      "cited_dockets": [],
+      "ambiguity": null
+    },
+    {
+      "source_decision": "ga41_2013__2012-05",
+      "source_file": "cases/ga41_2013__2012-05.md",
+      "source_dockets": [
+        "2012-5"
+      ],
+      "target_decision": null,
+      "target_dockets": [],
+      "surface_text": "saying we must defer to the fact findings of PNWP, because, again, it is not a matter of fact. This is not Keister v. Leithart",
+      "match_type": "caption_unresolved",
+      "signals": [
+        "caption"
+      ],
+      "confidence": 0.25,
+      "line": 551,
+      "context": "The fact that some of this reasoning may be hard to follow does not justify the SJC in saying we must defer to the fact findings of PNWP, because, again, it is not a matter of fact. This is not Keister v. Leithart, on facts, and PNWP believing Leithart and not Keister. It is rather Leithart, sometimes equivocating, when challenged by Keister pointing out the consistency of his unc",
+      "self_reference": false,
+      "evidence_key": "cases/ga41_2013__2012-05.md:L551",
+      "cited_dockets": [],
+      "ambiguity": null
+    },
+    {
+      "source_decision": "ga42_2014__2011-11_2011-12_2011-15_2011-16",
+      "source_file": "cases/ga42_2014__2011-11_2011-12_2011-15_2011-16.md",
+      "source_dockets": [
+        "2011-11",
+        "2011-12",
+        "2011-15",
+        "2011-16"
+      ],
+      "target_decision": null,
+      "target_dockets": [],
+      "surface_text": "the matter of PMWP vs. Hahn and found Hahn guilty on three charges and rendered a judgment of the censure of indefinite suspension from the sacraments of the Church.</td></tr></tbody",
+      "match_type": "caption_unresolved",
+      "signals": [
+        "caption"
+      ],
+      "confidence": 0.25,
+      "line": 79,
+      "context": "st an individual or body. The PMWP Judicial Commission denied the Presbytery Complaints.</td></tr><tr><td>8/17-18/11</td><td>The PMWP Judicial Commission held a trial in the matter of PMWP vs. Hahn and found Hahn guilty on three charges and rendered a judgment of the censure of indefinite suspension from the sacraments of the Church.</td></tr></tbody></table>",
+      "self_reference": false,
+      "evidence_key": "cases/ga42_2014__2011-11_2011-12_2011-15_2011-16.md:L79",
+      "cited_dockets": [],
+      "ambiguity": null
+    },
+    {
+      "source_decision": "ga42_2014__2011-11_2011-12_2011-15_2011-16",
+      "source_file": "cases/ga42_2014__2011-11_2011-12_2011-15_2011-16.md",
+      "source_dockets": [
+        "2011-11",
+        "2011-12",
+        "2011-15",
+        "2011-16"
+      ],
+      "target_decision": null,
+      "target_dockets": [],
+      "surface_text": "the matter of PMWP vs. Hahn and found Hahn guilty on three charges and rendered a judgment of the censure of indefinite suspension from the sacraments of the Church.</td></tr><tr><td",
+      "match_type": "caption_unresolved",
+      "signals": [
+        "caption"
+      ],
+      "confidence": 0.25,
+      "line": 95,
+      "context": "st an individual or body. The PMWP Judicial Commission denied the Presbytery Complaints.</td></tr><tr><td>8/17-18/11</td><td>The PMWP Judicial Commission held a trial in the matter of PMWP vs. Hahn and found Hahn guilty on three charges and rendered a judgment of the censure of indefinite suspension from the sacraments of the Church.</td></tr><tr><td>9/5/11</td><td>Hahn complained to the PMWP Judicial Commission regarding its handling of his complaints.</td></tr><tr><td>9/14/11</td><td>The PMWP Judicial Commission de",
+      "self_reference": false,
+      "evidence_key": "cases/ga42_2014__2011-11_2011-12_2011-15_2011-16.md:L95",
+      "cited_dockets": [],
+      "ambiguity": null
+    },
+    {
+      "source_decision": "ga42_2014__2013-11",
+      "source_file": "cases/ga42_2014__2013-11.md",
+      "source_dockets": [
+        "2013-11"
+      ],
+      "target_decision": null,
+      "target_dockets": [],
+      "surface_text": "America vs. The Session of First Presbyterian Church of North Port",
+      "match_type": "caption_unresolved",
+      "signals": [
+        "caption"
+      ],
+      "confidence": 0.25,
+      "line": 97,
+      "context": "west Florida Presbytery err, at its September 14, 2013 meeting, in approving the report and judgment of its Judicial Commission in the case of The Presbyterian Church in America vs. The Session of First Presbyterian Church of North Port, Florida?",
+      "self_reference": false,
+      "evidence_key": "cases/ga42_2014__2013-11.md:L97",
+      "cited_dockets": [],
+      "ambiguity": null
+    },
+    {
+      "source_decision": "ga42_2014__stub_2013-02",
+      "source_file": "cases/ga42_2014__stub_2013-02.md",
+      "source_dockets": [
+        "2013-2"
+      ],
+      "target_decision": null,
+      "target_dockets": [
+        "2013-2",
+        "2013-5"
+      ],
+      "surface_text": "Cases 2013-02 and 2013-05",
+      "match_type": "docket_unresolved",
+      "signals": [
+        "docket"
+      ],
+      "confidence": 0.2,
+      "line": 9,
+      "context": "> Of these Cases 2013-02 and 2013-05 were found to be Administratively Out of Order; Case 2013-09 was withdrawn as prematurely filed; Case 2011-16",
+      "self_reference": false,
+      "evidence_key": "cases/ga42_2014__stub_2013-02.md:L9",
+      "cited_dockets": [
+        "2013-2",
+        "2013-5"
+      ],
+      "ambiguity": {
+        "cited_dockets": [
+          "2013-2",
+          "2013-5"
+        ],
+        "docket_targets": [
+          "ga42_2014__stub_2013-02"
+        ],
+        "caption_targets": [],
+        "caption_fingerprint_targets": [],
+        "minutes_targets": [],
+        "missing_dockets": [
+          "2013-5"
+        ]
+      }
+    },
+    {
+      "source_decision": "ga44_2016__2015-01",
+      "source_file": "cases/ga44_2016__2015-01.md",
+      "source_dockets": [
+        "2015-1"
+      ],
+      "target_decision": null,
+      "target_dockets": [],
+      "surface_text": "Covenant v. Central Carolina Presbytery",
+      "match_type": "caption_unresolved",
+      "signals": [
+        "caption"
+      ],
+      "confidence": 0.25,
+      "line": 35,
+      "context": "Covenant v. Central Carolina Presbytery, M31GA, Charlotte 2003, pp. 107-",
+      "self_reference": false,
+      "evidence_key": "cases/ga44_2016__2015-01.md:L35",
+      "cited_dockets": [],
+      "ambiguity": null
+    },
+    {
+      "source_decision": "ga45_2017__2016-09",
+      "source_file": "cases/ga45_2017__2016-09.md",
+      "source_dockets": [
+        "2016-9"
+      ],
+      "target_decision": null,
+      "target_dockets": [],
+      "surface_text": "Bulkeley v. Western Carolina Presbytery",
+      "match_type": "caption_unresolved",
+      "signals": [
+        "caption"
+      ],
+      "confidence": 0.25,
+      "line": 149,
+      "context": "Bulkeley v. Western Carolina Presbytery, M38GA, 173-74. There a",
+      "self_reference": false,
+      "evidence_key": "cases/ga45_2017__2016-09.md:L149",
+      "cited_dockets": [],
+      "ambiguity": null
+    },
+    {
+      "source_decision": "ga46_2018__2016-17",
+      "source_file": "cases/ga46_2018__2016-17.md",
+      "source_dockets": [
+        "2016-17"
+      ],
+      "target_decision": null,
+      "target_dockets": [],
+      "surface_text": "Bowen vs. East Carolina Presbytery and concluded his email with \"If you have not made any such statements regarding qualifications",
+      "match_type": "caption_unresolved",
+      "signals": [
+        "caption"
+      ],
+      "confidence": 0.25,
+      "line": 23,
+      "context": "you advised that men who do not subscribe to infant baptism may be considered qualified if they agree not to teach their view.\" RE Almond included a reference to SJC Case Bowen vs. East Carolina Presbytery and concluded his email with \"If you have not made any such statements regarding qualifications, please accept my apologies.\"",
+      "self_reference": false,
+      "evidence_key": "cases/ga46_2018__2016-17.md:L23",
+      "cited_dockets": [],
+      "ambiguity": null
+    },
+    {
+      "source_decision": "ga46_2018__2017-01",
+      "source_file": "cases/ga46_2018__2017-01.md",
+      "source_dockets": [
+        "2017-1"
+      ],
+      "target_decision": null,
+      "target_dockets": [],
+      "surface_text": "back 13",
+      "match_type": "short_alias",
+      "signals": [
+        "alias"
+      ],
+      "confidence": 0.2,
+      "line": 172,
+      "context": "holds a hearing on the AOO complaint only, and at the SJC meeting in October 2019, the SJC sustains his complaint against Presbytery's AOO ruling. That resets the matter back 13 months to September 2018 when Presbytery mistakenly ruled the original complaint AOO. Then, respecting the SJC's October 2019 annulment of its AOO ruling, Presbytery hea",
+      "self_reference": false,
+      "evidence_key": "cases/ga46_2018__2017-01.md:L172",
+      "cited_dockets": [],
+      "ambiguity": {
+        "surname_targets": [
+          "ga29_2001__1999-07"
+        ]
+      }
+    },
+    {
+      "source_decision": "ga48_2021__2019-02",
+      "source_file": "cases/ga48_2021__2019-02.md",
+      "source_dockets": [
+        "2019-2"
+      ],
+      "target_decision": null,
+      "target_dockets": [],
+      "surface_text": "Gentry v. Calvary and Landrum v.",
+      "match_type": "caption_unresolved",
+      "signals": [
+        "caption"
+      ],
+      "confidence": 0.25,
+      "line": 123,
+      "context": "7 The Complaint cited two judicial cases, from 1986 and 1998, purportedly as precedent: Gentry v. Calvary and Landrum v. MS Valley. Though similar in some respects, neither Case had the same set of facts as our present one. For example, neither of those Cases involved an unrebutted examine",
+      "self_reference": false,
+      "evidence_key": "cases/ga48_2021__2019-02.md:L123",
+      "cited_dockets": [],
+      "ambiguity": null
+    },
+    {
+      "source_decision": "ga48_2021__2019-02",
+      "source_file": "cases/ga48_2021__2019-02.md",
+      "source_dockets": [
+        "2019-2"
+      ],
+      "target_decision": null,
+      "target_dockets": [],
+      "surface_text": "#1, M14GA, pp. 224-33). Landrum v. Mississippi Valley",
+      "match_type": "caption_unresolved",
+      "signals": [
+        "caption"
+      ],
+      "confidence": 0.25,
+      "line": 123,
+      "context": "butted examinee assertion that his view was the same as that contained in the JETS article by Dr. Poythress. (See comments later in this Opinion). Gentry v. Calvary (Case #1, M14GA, pp. 224-33). Landrum v. Mississippi Valley (Case 95-11, M26GA, pp. 222-27)",
+      "self_reference": false,
+      "evidence_key": "cases/ga48_2021__2019-02.md:L123",
+      "cited_dockets": [],
+      "ambiguity": null
+    },
+    {
+      "source_decision": "ga48_2021__2019-10_2019-12",
+      "source_file": "cases/ga48_2021__2019-10_2019-12.md",
+      "source_dockets": [
+        "2019-10",
+        "2019-12"
+      ],
+      "target_decision": null,
+      "target_dockets": [],
+      "surface_text": "BCO v. \"Plea Bargains\" - There are important differences between civil plea bargains and confessions in the PCA",
+      "match_type": "caption_unresolved",
+      "signals": [
+        "caption"
+      ],
+      "confidence": 0.25,
+      "line": 342,
+      "context": "BCO v. \"Plea Bargains\" - There are important differences between civil plea bargains and confessions in the PCA. Here's one description of plea bargains in civil courts.",
+      "self_reference": false,
+      "evidence_key": "cases/ga48_2021__2019-10_2019-12.md:L342",
+      "cited_dockets": [],
+      "ambiguity": null
+    },
+    {
+      "source_decision": "ga48_2021__2019-10_2019-12",
+      "source_file": "cases/ga48_2021__2019-10_2019-12.md",
+      "source_dockets": [
+        "2019-10",
+        "2019-12"
+      ],
+      "target_decision": null,
+      "target_dockets": [],
+      "surface_text": "2018-01 Mapes v. Metro NY, 2019-01 Dodson v. Ohio, & 2019-08 Ganzel v. Central Florida",
+      "match_type": "caption_unresolved",
+      "signals": [
+        "caption"
+      ],
+      "confidence": 0.25,
+      "line": 397,
+      "context": "11 This past year, session or presbytery censures were annulled in three other cases: 2018-01 Mapes v. Metro NY, 2019-01 Dodson v. Ohio, & 2019-08 Ganzel v. Central Florida (SJC 2020 Report, pp. 2, 11, 73) 12 In this Case, the censure was annulled 15 months after it was imposed. In another confession or plea-related complaint this year, an",
+      "self_reference": false,
+      "evidence_key": "cases/ga48_2021__2019-10_2019-12.md:L397",
+      "cited_dockets": [],
+      "ambiguity": null
+    },
+    {
+      "source_decision": "ga48_2021__2019-10_2019-12",
+      "source_file": "cases/ga48_2021__2019-10_2019-12.md",
+      "source_dockets": [
+        "2019-10",
+        "2019-12"
+      ],
+      "target_decision": null,
+      "target_dockets": [],
+      "surface_text": "2018-01 Mapes v. Metro NY, 2019-01 Dodson v. Ohio",
+      "match_type": "caption_unresolved",
+      "signals": [
+        "caption"
+      ],
+      "confidence": 0.25,
+      "line": 397,
+      "context": "11 This past year, session or presbytery censures were annulled in three other cases: 2018-01 Mapes v. Metro NY, 2019-01 Dodson v. Ohio, & 2019-08 Ganzel v. Central Florida (SJC 2020 Report, pp. 2, 11, 73) 12 In this Case, the censure was annulled 15 months after it was imposed. In another confession or",
+      "self_reference": false,
+      "evidence_key": "cases/ga48_2021__2019-10_2019-12.md:L397",
+      "cited_dockets": [],
+      "ambiguity": null
+    },
+    {
+      "source_decision": "ga48_2021__2019-11",
+      "source_file": "cases/ga48_2021__2019-11.md",
+      "source_dockets": [
+        "2019-11"
+      ],
+      "target_decision": null,
+      "target_dockets": [],
+      "surface_text": "Fozard v. Northwest Texas Presbytery",
+      "match_type": "caption_unresolved",
+      "signals": [
+        "caption"
+      ],
+      "confidence": 0.25,
+      "line": 82,
+      "context": "Fozard v. Northwest Texas Presbytery, decided February 6, 2020, SJC",
+      "self_reference": false,
+      "evidence_key": "cases/ga48_2021__2019-11.md:L82",
+      "cited_dockets": [],
+      "ambiguity": null
+    },
+    {
+      "source_decision": "ga49_2022__2020-06",
+      "source_file": "cases/ga49_2022__2020-06.md",
+      "source_dockets": [
+        "2020-6"
+      ],
+      "target_decision": null,
+      "target_dockets": [],
+      "surface_text": "92-9b Overman v. E. Carolina, 2015-03 Gearhart v. Chicago Metro",
+      "match_type": "caption_unresolved",
+      "signals": [
+        "caption"
+      ],
+      "confidence": 0.25,
+      "line": 148,
+      "context": "visions\" would include jurisdiction and standing. There is precedent for the SJC ruling complaints out of order for lack of standing. See, for example, these seven cases: 92-9b Overman v. E. Carolina, 2015-03 Gearhart v. Chicago Metro, 2012-06 Bethel",
+      "self_reference": false,
+      "evidence_key": "cases/ga49_2022__2020-06.md:L148",
+      "cited_dockets": [],
+      "ambiguity": null
+    },
+    {
+      "source_decision": "ga49_2022__2020-12",
+      "source_file": "cases/ga49_2022__2020-12.md",
+      "source_dockets": [
+        "2020-12"
+      ],
+      "target_decision": null,
+      "target_dockets": [],
+      "surface_text": "Aven/Dively v. Ohio Valley Presbytery",
+      "match_type": "caption_unresolved",
+      "signals": [
+        "caption"
+      ],
+      "confidence": 0.25,
+      "line": 1539,
+      "context": "47 For example, see Aven/Dively v. Ohio Valley Presbytery (M44GA at 503-04); Barnes v. Heartland Presbytery (M44GA at 480 ff.); Fordice v. Pacific Northwest Presbytery (M45GA at 532). 48 OMSJC 18.3 - “A Closed Session shall be",
+      "self_reference": false,
+      "evidence_key": "cases/ga49_2022__2020-12.md:L1539",
+      "cited_dockets": [],
+      "ambiguity": null
+    },
+    {
+      "source_decision": "ga49_2022__2022-01",
+      "source_file": "cases/ga49_2022__2022-01.md",
+      "source_dockets": [
+        "2022-1"
+      ],
+      "target_decision": null,
+      "target_dockets": [],
+      "surface_text": "Aven/Dively v. Ohio Valley Presbytery",
+      "match_type": "caption_unresolved",
+      "signals": [
+        "caption"
+      ],
+      "confidence": 0.25,
+      "line": 162,
+      "context": "and issues presented. The SJC has recently employed a similar procedure in other cases in which additional information was requested to complete the record of a case. See Aven/Dively v. Ohio Valley Presbytery, M44GA at 503-504; Barnes v. Heartland Presbytery, M44GA at 480 and following; Fordice v. Pacific Northwest Presbytery, M45GA at 532. In those instances, CCB did not not",
+      "self_reference": false,
+      "evidence_key": "cases/ga49_2022__2022-01.md:L162",
+      "cited_dockets": [],
+      "ambiguity": null
+    },
+    {
+      "source_decision": "ga50_2023__2022-02",
+      "source_file": "cases/ga50_2023__2022-02.md",
+      "source_dockets": [
+        "2022-2"
+      ],
+      "target_decision": null,
+      "target_dockets": [],
+      "surface_text": "Bogue, et al v. The Presbytery of the Ascension",
+      "match_type": "caption_unresolved",
+      "signals": [
+        "caption"
+      ],
+      "confidence": 0.25,
+      "line": 125,
+      "context": "2 See Bogue, et al v. The Presbytery of the Ascension (M8GA pp. 50-51); Gentry, et al v. Calvary Presbytery (M14GA, pp. 224-230); Rayburn, et al v. Missouri Presbytery (M16GA, pp. 213-220); Serio v. Palmetto Presbytery (M16",
+      "self_reference": false,
+      "evidence_key": "cases/ga50_2023__2022-02.md:L125",
+      "cited_dockets": [],
+      "ambiguity": null
+    },
+    {
+      "source_decision": "ga50_2023__2022-02",
+      "source_file": "cases/ga50_2023__2022-02.md",
+      "source_dockets": [
+        "2022-2"
+      ],
+      "target_decision": null,
+      "target_dockets": [],
+      "surface_text": "Gentry, et al v. Calvary Presbytery",
+      "match_type": "caption_unresolved",
+      "signals": [
+        "caption"
+      ],
+      "confidence": 0.25,
+      "line": 125,
+      "context": "2 See Bogue, et al v. The Presbytery of the Ascension (M8GA pp. 50-51); Gentry, et al v. Calvary Presbytery (M14GA, pp. 224-230); Rayburn, et al v. Missouri Presbytery (M16GA, pp. 213-220); Serio v. Palmetto Presbytery (M16GA, pp. 191- 197); Case 91-4, Hopper v. James River Pr",
+      "self_reference": false,
+      "evidence_key": "cases/ga50_2023__2022-02.md:L125",
+      "cited_dockets": [],
+      "ambiguity": null
+    },
+    {
+      "source_decision": "ga50_2023__2022-02",
+      "source_file": "cases/ga50_2023__2022-02.md",
+      "source_dockets": [
+        "2022-2"
+      ],
+      "target_decision": null,
+      "target_dockets": [],
+      "surface_text": "Rayburn, et al v. Missouri Presbytery",
+      "match_type": "caption_unresolved",
+      "signals": [
+        "caption"
+      ],
+      "confidence": 0.25,
+      "line": 125,
+      "context": "2 See Bogue, et al v. The Presbytery of the Ascension (M8GA pp. 50-51); Gentry, et al v. Calvary Presbytery (M14GA, pp. 224-230); Rayburn, et al v. Missouri Presbytery (M16GA, pp. 213-220); Serio v. Palmetto Presbytery (M16GA, pp. 191- 197); Case 91-4, Hopper v. James River Presbytery (M20GA, pp. 160-196); and Case 95-11 Landrum, et al",
+      "self_reference": false,
+      "evidence_key": "cases/ga50_2023__2022-02.md:L125",
+      "cited_dockets": [],
+      "ambiguity": null
+    },
+    {
+      "source_decision": "ga50_2023__2022-02",
+      "source_file": "cases/ga50_2023__2022-02.md",
+      "source_dockets": [
+        "2022-2"
+      ],
+      "target_decision": null,
+      "target_dockets": [],
+      "surface_text": "Serio v. Palmetto Presbytery",
+      "match_type": "caption_unresolved",
+      "signals": [
+        "caption"
+      ],
+      "confidence": 0.25,
+      "line": 125,
+      "context": "v. The Presbytery of the Ascension (M8GA pp. 50-51); Gentry, et al v. Calvary Presbytery (M14GA, pp. 224-230); Rayburn, et al v. Missouri Presbytery (M16GA, pp. 213-220); Serio v. Palmetto Presbytery (M16GA, pp. 191- 197); Case 91-4, Hopper v. James River Presbytery (M20GA, pp. 160-196); and Case 95-11 Landrum, et al v. Mississippi Valley Presbytery (M25GA, pp. 80-91",
+      "self_reference": false,
+      "evidence_key": "cases/ga50_2023__2022-02.md:L125",
+      "cited_dockets": [],
+      "ambiguity": null
+    },
+    {
+      "source_decision": "ga50_2023__2022-03",
+      "source_file": "cases/ga50_2023__2022-03.md",
+      "source_dockets": [
+        "2022-3"
+      ],
+      "target_decision": null,
+      "target_dockets": [],
+      "surface_text": "Bogue, et al v. The Presbytery of the Ascension",
+      "match_type": "caption_unresolved",
+      "signals": [
+        "caption"
+      ],
+      "confidence": 0.25,
+      "line": 119,
+      "context": "2 See Bogue, et al v. The Presbytery of the Ascension (M8GA pp. 50-51); Gentry, et al v. Calvary Presbytery (M14GA, pp. 224-230); Rayburn, et al v. Missouri Presbytery (M16GA, pp. 213-220); Serio v. Palmetto Presbytery (M16",
+      "self_reference": false,
+      "evidence_key": "cases/ga50_2023__2022-03.md:L119",
+      "cited_dockets": [],
+      "ambiguity": null
+    },
+    {
+      "source_decision": "ga50_2023__2022-03",
+      "source_file": "cases/ga50_2023__2022-03.md",
+      "source_dockets": [
+        "2022-3"
+      ],
+      "target_decision": null,
+      "target_dockets": [],
+      "surface_text": "Gentry, et al v. Calvary Presbytery",
+      "match_type": "caption_unresolved",
+      "signals": [
+        "caption"
+      ],
+      "confidence": 0.25,
+      "line": 119,
+      "context": "2 See Bogue, et al v. The Presbytery of the Ascension (M8GA pp. 50-51); Gentry, et al v. Calvary Presbytery (M14GA, pp. 224-230); Rayburn, et al v. Missouri Presbytery (M16GA, pp. 213-220); Serio v. Palmetto Presbytery (M16GA, pp. 191- 197); Case 91-4, Hopper v. James River Pr",
+      "self_reference": false,
+      "evidence_key": "cases/ga50_2023__2022-03.md:L119",
+      "cited_dockets": [],
+      "ambiguity": null
+    },
+    {
+      "source_decision": "ga50_2023__2022-03",
+      "source_file": "cases/ga50_2023__2022-03.md",
+      "source_dockets": [
+        "2022-3"
+      ],
+      "target_decision": null,
+      "target_dockets": [],
+      "surface_text": "Rayburn, et al v. Missouri Presbytery",
+      "match_type": "caption_unresolved",
+      "signals": [
+        "caption"
+      ],
+      "confidence": 0.25,
+      "line": 119,
+      "context": "2 See Bogue, et al v. The Presbytery of the Ascension (M8GA pp. 50-51); Gentry, et al v. Calvary Presbytery (M14GA, pp. 224-230); Rayburn, et al v. Missouri Presbytery (M16GA, pp. 213-220); Serio v. Palmetto Presbytery (M16GA, pp. 191- 197); Case 91-4, Hopper v. James River Presbytery (M20GA, pp. 160-196); and Case 95-11 Landrum, et al",
+      "self_reference": false,
+      "evidence_key": "cases/ga50_2023__2022-03.md:L119",
+      "cited_dockets": [],
+      "ambiguity": null
+    },
+    {
+      "source_decision": "ga50_2023__2022-03",
+      "source_file": "cases/ga50_2023__2022-03.md",
+      "source_dockets": [
+        "2022-3"
+      ],
+      "target_decision": null,
+      "target_dockets": [],
+      "surface_text": "Serio v. Palmetto Presbytery",
+      "match_type": "caption_unresolved",
+      "signals": [
+        "caption"
+      ],
+      "confidence": 0.25,
+      "line": 119,
+      "context": "v. The Presbytery of the Ascension (M8GA pp. 50-51); Gentry, et al v. Calvary Presbytery (M14GA, pp. 224-230); Rayburn, et al v. Missouri Presbytery (M16GA, pp. 213-220); Serio v. Palmetto Presbytery (M16GA, pp. 191- 197); Case 91-4, Hopper v. James River Presbytery (M20GA, pp. 160-196); and Case 95-11 Landrum, et al v. Mississippi Valley Presbytery (M25GA, pp. 80-91",
+      "self_reference": false,
+      "evidence_key": "cases/ga50_2023__2022-03.md:L119",
+      "cited_dockets": [],
+      "ambiguity": null
+    },
+    {
+      "source_decision": "ga50_2023__2022-04",
+      "source_file": "cases/ga50_2023__2022-04.md",
+      "source_dockets": [
+        "2022-4"
+      ],
+      "target_decision": null,
+      "target_dockets": [],
+      "surface_text": "Troxell v. Southwest",
+      "match_type": "caption_unresolved",
+      "signals": [
+        "caption"
+      ],
+      "confidence": 0.25,
+      "line": 548,
+      "context": "appears twice in the Decision, and it's only in quotes from BCO 32-20 and the SJC Decision in Troxell v. Southwest. The Decision doesn't define the phrase or explain why we should interpret it differently than commonly accepted English definitions.17",
+      "self_reference": false,
+      "evidence_key": "cases/ga50_2023__2022-04.md:L548",
+      "cited_dockets": [],
+      "ambiguity": null
+    },
+    {
+      "source_decision": "ga50_2023__2022-07",
+      "source_file": "cases/ga50_2023__2022-07.md",
+      "source_dockets": [
+        "2022-7"
+      ],
+      "target_decision": null,
+      "target_dockets": [],
+      "surface_text": "MR. PAUL HARRELL et al. v. COVENANT PRESBYTERY",
+      "match_type": "caption_unresolved",
+      "signals": [
+        "caption"
+      ],
+      "confidence": 0.25,
+      "line": 15,
+      "context": "MR. PAUL HARRELL et al. v. COVENANT PRESBYTERY",
+      "self_reference": false,
+      "evidence_key": "cases/ga50_2023__2022-07.md:L15",
+      "cited_dockets": [],
+      "ambiguity": null
+    },
+    {
+      "source_decision": "ga50_2023__2022-10",
+      "source_file": "cases/ga50_2023__2022-10.md",
+      "source_dockets": [
+        "2022-10"
+      ],
+      "target_decision": null,
+      "target_dockets": [],
+      "surface_text": "CIP v. Herron to the SJC",
+      "match_type": "caption_unresolved",
+      "signals": [
+        "caption"
+      ],
+      "confidence": 0.25,
+      "line": 189,
+      "context": "made that CIP refer the present case of CIP v. Herron to the SJC",
+      "self_reference": false,
+      "evidence_key": "cases/ga50_2023__2022-10.md:L189",
+      "cited_dockets": [],
+      "ambiguity": null
+    },
+    {
+      "source_decision": "ga50_2023__2022-10",
+      "source_file": "cases/ga50_2023__2022-10.md",
+      "source_dockets": [
+        "2022-10"
+      ],
+      "target_decision": null,
+      "target_dockets": [],
+      "surface_text": "Central Indiana Presbytery v. Herron",
+      "match_type": "caption_unresolved",
+      "signals": [
+        "caption"
+      ],
+      "confidence": 0.25,
+      "line": 634,
+      "context": "ase and provided the following reason for his voluntary recusal: \"With reference to all matters before the Standing Judicial Commission related to the judicial matter in Central Indiana Presbytery v. Herron, I am recusing myself for the following reason (SJCM 6.2.e). My decision is grounded in my professional relationship with Mr. Herron which began in March 2020 when he re",
+      "self_reference": false,
+      "evidence_key": "cases/ga50_2023__2022-10.md:L634",
+      "cited_dockets": [],
+      "ambiguity": null
+    },
+    {
+      "source_decision": "ga50_2023__2022-16",
+      "source_file": "cases/ga50_2023__2022-16.md",
+      "source_dockets": [
+        "2022-16"
+      ],
+      "target_decision": null,
+      "target_dockets": [],
+      "surface_text": "MR. STUART MICHELSON et al. v. NORTHWEST GEORGIA PRESBYTERY",
+      "match_type": "caption_unresolved",
+      "signals": [
+        "caption"
+      ],
+      "confidence": 0.25,
+      "line": 15,
+      "context": "MR. STUART MICHELSON et al. v. NORTHWEST GEORGIA PRESBYTERY",
+      "self_reference": false,
+      "evidence_key": "cases/ga50_2023__2022-16.md:L15",
+      "cited_dockets": [],
+      "ambiguity": null
+    },
+    {
+      "source_decision": "ga50_2023__2022-20",
+      "source_file": "cases/ga50_2023__2022-20.md",
+      "source_dockets": [
+        "2022-20"
+      ],
+      "target_decision": null,
+      "target_dockets": [],
+      "surface_text": "Michelson and Michelson v. Northwest Georgia Presbytery",
+      "match_type": "caption_unresolved",
+      "signals": [
+        "caption"
+      ],
+      "confidence": 0.25,
+      "line": 107,
+      "context": "(Michelson and Michelson v. Northwest Georgia Presbytery), referenced in",
+      "self_reference": false,
+      "evidence_key": "cases/ga50_2023__2022-20.md:L107",
+      "cited_dockets": [],
+      "ambiguity": null
+    },
+    {
+      "source_decision": "ga50_2023__2022-20",
+      "source_file": "cases/ga50_2023__2022-20.md",
+      "source_dockets": [
+        "2022-20"
+      ],
+      "target_decision": null,
+      "target_dockets": [],
+      "surface_text": "of Christian Michelson and Stuart Michelson v. Northwest Georgia Presbytery",
+      "match_type": "caption_unresolved",
+      "signals": [
+        "caption"
+      ],
+      "confidence": 0.25,
+      "line": 169,
+      "context": "of Christian Michelson and Stuart Michelson v. Northwest Georgia Presbytery",
+      "self_reference": false,
+      "evidence_key": "cases/ga50_2023__2022-20.md:L169",
+      "cited_dockets": [],
+      "ambiguity": null
+    },
+    {
+      "source_decision": "ga51_2024__2023-13",
+      "source_file": "cases/ga51_2024__2023-13.md",
+      "source_dockets": [
+        "2023-13"
+      ],
+      "target_decision": null,
+      "target_dockets": [],
+      "surface_text": "PCA v. Metropolitan New York Presbytery.",
+      "match_type": "caption_unresolved",
+      "signals": [
+        "caption"
+      ],
+      "confidence": 0.25,
+      "line": 333,
+      "context": "I am humbly dissenting from the decision in PCA v. Metropolitan New York Presbytery.",
+      "self_reference": false,
+      "evidence_key": "cases/ga51_2024__2023-13.md:L333",
+      "cited_dockets": [],
+      "ambiguity": null
+    }
+  ]
+}
