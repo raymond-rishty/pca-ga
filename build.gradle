@@ -445,7 +445,7 @@ def stageArgs = { String stage ->
 
 def renderJekyll = registerCommand(
     'renderJekyllSite', stageArgs('jekyll'),
-    [siteSources, fileTree('scripts') { include 'render_site.py', 'run_site_stage.py' },
+    [siteSources, fileTree('scripts') { include 'render_site.py', 'run_site_stage.py', 'linker_fingerprint.py' },
      file('Gemfile'), file('Gemfile.lock'), structuralMarker],
     [jekyllChanges]
 )
@@ -508,6 +508,8 @@ def linkConstitutionReferences = registerCommand(
     'linkConstitutionReferences', stageArgs('link'),
     [file('scripts/run_site_stage.py'), file('scripts/44_link_constitution_refs.py'),
      file('scripts/minutes_page_locators.py'), file('scripts/scripture_linker.py'),
+     file('scripts/linker_fingerprint.py'), file('scripts/44_normalize_bco_prefixes.py'),
+     file('scripts/46_minutes_page_markup.py'),
      file('index/source_registry.json'), file('index/case_provision_index.json'),
      file('index/authority_index.json'), fileTree(constitutionContent),
      jekyllChanges, provisionChanges, authorityChanges, minutesChanges, normalizedChanges],

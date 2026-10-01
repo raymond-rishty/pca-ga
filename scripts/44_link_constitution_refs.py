@@ -37,6 +37,7 @@ from html.parser import HTMLParser
 from pathlib import Path
 from typing import Any
 
+from linker_fingerprint import preflight_linker_fingerprint
 from scripture_linker import load_metadata as load_scripture_metadata, mask_and_link, self_test as scripture_self_test
 
 READER_BASE = "https://raymond-rishty.github.io/pca-constitution-reader/"
@@ -1485,6 +1486,12 @@ def main() -> int:
         "wsc": args.wsc_js,
         "rao": args.rao_js,
     }
+    preflight_fingerprint = preflight_linker_fingerprint(
+        Path(__file__).resolve().parent.parent,
+        args.bco_js.parent,
+    )
+    if preflight_fingerprint is None:
+        parser.error("Cannot fingerprint all linker code, metadata, and reader inputs")
     fingerprint = incremental_fingerprint(
         bco_refs, standard_refs, rao_refs, minutes_refs, case_refs,
         reader_files, args.source_inventory,
@@ -1643,6 +1650,7 @@ def main() -> int:
         state_temp.write_text(json.dumps({
             "version": 1,
             "fingerprint": fingerprint,
+            "preflightFingerprint": preflight_fingerprint,
             "source_inventory": args.source_inventory,
             "pages": page_state,
         }, ensure_ascii=False, separators=(",", ":")), encoding="utf-8")

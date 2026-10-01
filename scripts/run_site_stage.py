@@ -238,7 +238,9 @@ def stage_link(root: Path, site: Path, reader: Path, state_dir: Path) -> None:
     signature_state = root / ".gradle" / "build-state" / "fast-preview-html-signatures.json"
     code_state = state_dir / "linker-code.json"
     code_paths = [root / "scripts" / name for name in (
-        "44_link_constitution_refs.py", "minutes_page_locators.py", "scripture_linker.py",
+        "44_link_constitution_refs.py", "44_normalize_bco_prefixes.py",
+        "46_minutes_page_markup.py", "minutes_page_locators.py",
+        "scripture_linker.py", "linker_fingerprint.py",
     )]
     code_fingerprint = hashlib.sha256(b"\0".join(
         path.read_bytes() for path in code_paths

@@ -12,6 +12,8 @@ import sys
 import time
 import zipfile
 
+from linker_fingerprint import preflight_linker_fingerprint
+
 
 WINDOWS_SHELL_TOOLS = {"bundle", "npx"}
 
@@ -278,11 +280,20 @@ def run_fast_preview(root: Path, site: Path, reader: Path,
             prior_state = {}
 
     interrupted = in_progress.exists()
+    current_linker_inputs = preflight_linker_fingerprint(root, reader)
+    linker_inputs_match = (
+        current_linker_inputs is not None
+        and prior_state.get("preflightFingerprint") == current_linker_inputs
+    )
     full_render = (
         interrupted
         or prior_state.get("version") != 1
         or not metadata.is_file()
+        or not linker_inputs_match
     )
+    if (not interrupted and prior_state.get("version") == 1
+            and not linker_inputs_match):
+        print("Cached linker inputs changed; starting with a full render.")
     in_progress.parent.mkdir(parents=True, exist_ok=True)
     in_progress.write_text("Fast preview did not complete.\n", encoding="utf-8")
     if full_render and metadata.exists():
