@@ -1,8 +1,8 @@
 # Authority index audit
 
-Catalogue input fingerprint: `e7a356d814c710882bc182c9f60dae32d4b7c8961b2f90ff623ebd1ba93b99cb`.
+Catalogue input fingerprint: `686a5efa250f13bbcd831cab49ff94a9f4c03a06ff703dc1b7490ee1ee80cf54`.
 
-The catalogue contains 1172 provisions, 12478 relationships, 16157 evidence occurrences, and 98 unmatched source references.
+The catalogue contains 1172 provisions, 12479 relationships, 16161 evidence occurrences, and 98 unmatched source references.
 
 Relationship kinds describe why a record is linked. Evidence basis describes the source of that link. Match confidence describes extraction confidence. Reader scope labels the relationship in the Constitution Reader. These fields do not describe legal force.
 
@@ -14,7 +14,7 @@ The Reader includes indexed relationships for its supported record types across 
 |-------------|--------------:|----------------:|
 | CCB advice | 549 | 549 |
 | Constitutional inquiry | 437 | 437 |
-| Judicial case | 3263 | 3263 |
+| Judicial case | 3264 | 3264 |
 | Overture | 1342 | 1342 |
 | RPR exception | 6887 | 6887 |
 
@@ -24,7 +24,7 @@ Reader-included relationships by scope:
 |-------------|-------|------:|
 | CCB advice | `contextual` | 549 |
 | Constitutional inquiry | `primary` | 437 |
-| Judicial case | `primary` | 3263 |
+| Judicial case | `primary` | 3264 |
 | Overture | `candidate` | 1246 |
 | Overture | `primary` | 96 |
 | RPR exception | `candidate` | 136 |
@@ -36,9 +36,9 @@ Reader-included relationships by scope:
 |-------|------:|
 | `body_mention` | 203 |
 | `exception_target` | 224 |
-| `explicit_citation` | 3462 |
+| `explicit_citation` | 3466 |
 | `proposal_target` | 645 |
-| `structured_case_reference` | 823 |
+| `structured_case_reference` | 820 |
 | `structured_exception_tag` | 6711 |
 | `structured_provision_tag` | 986 |
 
@@ -46,9 +46,9 @@ Reader-included relationships by scope:
 
 | Value | Count |
 |-------|------:|
-| `direct_text` | 3863 |
+| `direct_text` | 3867 |
 | `overture_action_target` | 645 |
-| `structured_case_metadata` | 823 |
+| `structured_case_metadata` | 820 |
 | `structured_provision_tag` | 7697 |
 | `title_subject_reference` | 15 |
 
@@ -56,8 +56,8 @@ Reader-included relationships by scope:
 
 | Value | Count |
 |-------|------:|
-| `high` | 4274 |
-| `medium` | 8204 |
+| `high` | 4278 |
+| `medium` | 8201 |
 
 ### Relationships by reader scope
 
@@ -65,19 +65,19 @@ Reader-included relationships by scope:
 |-------|------:|
 | `candidate` | 1382 |
 | `contextual` | 7300 |
-| `primary` | 3796 |
+| `primary` | 3797 |
 
 ### Relationships by match method
 
 | Value | Count |
 |-------|------:|
-| `case_provision_index:case_markdown_text` | 939 |
+| `case_provision_index:case_markdown_text` | 940 |
 | `case_provision_index:case_markdown_text,cases.jsonl:bco_cited_as,cases.jsonl:bco_cited_current` | 279 |
-| `case_provision_index:case_markdown_text,cases.jsonl:bco_cited_as,cases.jsonl:bco_cited_current,judicial_cases.jsonl:bco_provisions` | 1335 |
+| `case_provision_index:case_markdown_text,cases.jsonl:bco_cited_as,cases.jsonl:bco_cited_current,judicial_cases.jsonl:bco_provisions` | 1338 |
 | `case_provision_index:case_markdown_text,cases.jsonl:bco_cited_as,judicial_cases.jsonl:bco_provisions` | 6 |
 | `case_provision_index:case_markdown_text,judicial_cases.jsonl:bco_provisions` | 39 |
 | `case_provision_index:cases.jsonl:bco_cited_as,cases.jsonl:bco_cited_current` | 123 |
-| `case_provision_index:cases.jsonl:bco_cited_as,cases.jsonl:bco_cited_current,judicial_cases.jsonl:bco_provisions` | 643 |
+| `case_provision_index:cases.jsonl:bco_cited_as,cases.jsonl:bco_cited_current,judicial_cases.jsonl:bco_provisions` | 640 |
 | `case_provision_index:cases.jsonl:bco_cited_as,judicial_cases.jsonl:bco_provisions` | 3 |
 | `case_provision_index:cases.jsonl:bco_cited_current` | 9 |
 | `case_provision_index:judicial_cases.jsonl:bco_provisions` | 66 |
@@ -181,9 +181,9 @@ Reader-included relationships by scope:
 |-------|------:|
 | `body_mention` | 366 |
 | `exception_target` | 284 |
-| `explicit_citation` | 6255 |
+| `explicit_citation` | 6262 |
 | `proposal_target` | 711 |
-| `structured_case_reference` | 844 |
+| `structured_case_reference` | 841 |
 | `structured_exception_tag` | 6711 |
 | `structured_provision_tag` | 986 |
 
@@ -191,9 +191,9 @@ Reader-included relationships by scope:
 
 | Value | Count |
 |-------|------:|
-| `direct_text` | 6905 |
+| `direct_text` | 6912 |
 | `overture_action_target` | 696 |
-| `structured_case_metadata` | 844 |
+| `structured_case_metadata` | 841 |
 | `structured_provision_tag` | 7697 |
 | `title_subject_reference` | 15 |
 
@@ -201,8 +201,8 @@ Reader-included relationships by scope:
 
 | Value | Count |
 |-------|------:|
-| `high` | 7616 |
-| `medium` | 8541 |
+| `high` | 7623 |
+| `medium` | 8538 |
 
 ### Evidence occurrences by reader scope
 
@@ -210,7 +210,7 @@ Reader-included relationships by scope:
 |-------|------:|
 | `candidate` | 2409 |
 | `contextual` | 7544 |
-| `primary` | 6204 |
+| `primary` | 6208 |
 
 ## Unmatched source references
 
@@ -367,7 +367,7 @@ Stored `unrelated_or_mislinked` advisory labels by record type:
 - Overture: 89
 - RPR exception: 118
 
-Assessment status: `stale`; applied 0, stale 11481, unassessed 12478.
+Assessment status: `stale`; applied 0, stale 11481, unassessed 12479.
 
 ## Coverage and spot checks
 
