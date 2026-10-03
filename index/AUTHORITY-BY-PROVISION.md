@@ -286,7 +286,7 @@ Indexed PCA records associated with each provision. Relationship type, evidence,
 | [BCO 31-11](../authorities/BCO-31-11.md) | 1 | 0 | 0 | 0 | 0 | 1 |
 | [BCO 31-33](../authorities/BCO-31-33.md) | 0 | 0 | 0 | 4 | 0 | 4 |
 | [BCO 31-38](../authorities/BCO-31-38.md) | 1 | 0 | 0 | 0 | 0 | 1 |
-| [BCO 32](../authorities/BCO-32.md) | 19 | 1 | 0 | 1 | 1 | 22 |
+| [BCO 32](../authorities/BCO-32.md) | 20 | 1 | 0 | 1 | 1 | 23 |
 | [BCO 32-1](../authorities/BCO-32-1.md) | 3 | 0 | 0 | 2 | 0 | 5 |
 | [BCO 32-2](../authorities/BCO-32-2.md) | 39 | 0 | 3 | 5 | 5 | 52 |
 | [BCO 32-3](../authorities/BCO-32-3.md) | 49 | 1 | 1 | 6 | 4 | 61 |

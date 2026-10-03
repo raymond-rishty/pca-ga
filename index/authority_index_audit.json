@@ -1,9 +1,9 @@
 {
  "schema_version": 2,
- "catalogue_input_fingerprint": "e7a356d814c710882bc182c9f60dae32d4b7c8961b2f90ff623ebd1ba93b99cb",
+ "catalogue_input_fingerprint": "686a5efa250f13bbcd831cab49ff94a9f4c03a06ff703dc1b7490ee1ee80cf54",
  "provision_count": 1172,
- "relationship_count": 12478,
- "occurrence_count": 16157,
+ "relationship_count": 12479,
+ "occurrence_count": 16161,
  "unmatched_relationship_count": 98,
  "unmatched_relationships": [
   {
@@ -1284,14 +1284,14 @@
  "relationships_by_type": {
   "CCB advice": 549,
   "Constitutional inquiry": 437,
-  "Judicial case": 3263,
+  "Judicial case": 3264,
   "Overture": 1342,
   "RPR exception": 6887
  },
  "reader_included_by_type": {
   "CCB advice": 549,
   "Constitutional inquiry": 437,
-  "Judicial case": 3263,
+  "Judicial case": 3264,
   "Overture": 1342,
   "RPR exception": 6887
  },
@@ -1303,7 +1303,7 @@
    "primary": 437
   },
   "Judicial case": {
-   "primary": 3263
+   "primary": 3264
   },
   "Overture": {
    "candidate": 1246,
@@ -1318,36 +1318,36 @@
   "relationship_kind": {
    "body_mention": 203,
    "exception_target": 224,
-   "explicit_citation": 3462,
+   "explicit_citation": 3466,
    "proposal_target": 645,
-   "structured_case_reference": 823,
+   "structured_case_reference": 820,
    "structured_exception_tag": 6711,
    "structured_provision_tag": 986
   },
   "evidence_basis": {
-   "direct_text": 3863,
+   "direct_text": 3867,
    "overture_action_target": 645,
-   "structured_case_metadata": 823,
+   "structured_case_metadata": 820,
    "structured_provision_tag": 7697,
    "title_subject_reference": 15
   },
   "match_confidence": {
-   "high": 4274,
-   "medium": 8204
+   "high": 4278,
+   "medium": 8201
   },
   "reader_scope": {
    "candidate": 1382,
    "contextual": 7300,
-   "primary": 3796
+   "primary": 3797
   },
   "match_method": {
-   "case_provision_index:case_markdown_text": 939,
+   "case_provision_index:case_markdown_text": 940,
    "case_provision_index:case_markdown_text,cases.jsonl:bco_cited_as,cases.jsonl:bco_cited_current": 279,
-   "case_provision_index:case_markdown_text,cases.jsonl:bco_cited_as,cases.jsonl:bco_cited_current,judicial_cases.jsonl:bco_provisions": 1335,
+   "case_provision_index:case_markdown_text,cases.jsonl:bco_cited_as,cases.jsonl:bco_cited_current,judicial_cases.jsonl:bco_provisions": 1338,
    "case_provision_index:case_markdown_text,cases.jsonl:bco_cited_as,judicial_cases.jsonl:bco_provisions": 6,
    "case_provision_index:case_markdown_text,judicial_cases.jsonl:bco_provisions": 39,
    "case_provision_index:cases.jsonl:bco_cited_as,cases.jsonl:bco_cited_current": 123,
-   "case_provision_index:cases.jsonl:bco_cited_as,cases.jsonl:bco_cited_current,judicial_cases.jsonl:bco_provisions": 643,
+   "case_provision_index:cases.jsonl:bco_cited_as,cases.jsonl:bco_cited_current,judicial_cases.jsonl:bco_provisions": 640,
    "case_provision_index:cases.jsonl:bco_cited_as,judicial_cases.jsonl:bco_provisions": 3,
    "case_provision_index:cases.jsonl:bco_cited_current": 9,
    "case_provision_index:judicial_cases.jsonl:bco_provisions": 66,
@@ -1450,36 +1450,36 @@
   "relationship_kind": {
    "body_mention": 366,
    "exception_target": 284,
-   "explicit_citation": 6255,
+   "explicit_citation": 6262,
    "proposal_target": 711,
-   "structured_case_reference": 844,
+   "structured_case_reference": 841,
    "structured_exception_tag": 6711,
    "structured_provision_tag": 986
   },
   "evidence_basis": {
-   "direct_text": 6905,
+   "direct_text": 6912,
    "overture_action_target": 696,
-   "structured_case_metadata": 844,
+   "structured_case_metadata": 841,
    "structured_provision_tag": 7697,
    "title_subject_reference": 15
   },
   "match_confidence": {
-   "high": 7616,
-   "medium": 8541
+   "high": 7623,
+   "medium": 8538
   },
   "reader_scope": {
    "candidate": 2409,
    "contextual": 7544,
-   "primary": 6204
+   "primary": 6208
   },
   "match_method": {
-   "case_provision_index:case_markdown_text": 1406,
+   "case_provision_index:case_markdown_text": 1407,
    "case_provision_index:case_markdown_text,cases.jsonl:bco_cited_as,cases.jsonl:bco_cited_current": 536,
-   "case_provision_index:case_markdown_text,cases.jsonl:bco_cited_as,cases.jsonl:bco_cited_current,judicial_cases.jsonl:bco_provisions": 2796,
+   "case_provision_index:case_markdown_text,cases.jsonl:bco_cited_as,cases.jsonl:bco_cited_current,judicial_cases.jsonl:bco_provisions": 2802,
    "case_provision_index:case_markdown_text,cases.jsonl:bco_cited_as,judicial_cases.jsonl:bco_provisions": 10,
    "case_provision_index:case_markdown_text,judicial_cases.jsonl:bco_provisions": 71,
    "case_provision_index:cases.jsonl:bco_cited_as,cases.jsonl:bco_cited_current": 123,
-   "case_provision_index:cases.jsonl:bco_cited_as,cases.jsonl:bco_cited_current,judicial_cases.jsonl:bco_provisions": 643,
+   "case_provision_index:cases.jsonl:bco_cited_as,cases.jsonl:bco_cited_current,judicial_cases.jsonl:bco_provisions": 640,
    "case_provision_index:cases.jsonl:bco_cited_as,judicial_cases.jsonl:bco_provisions": 3,
    "case_provision_index:cases.jsonl:bco_cited_current": 9,
    "case_provision_index:judicial_cases.jsonl:bco_provisions": 66,
@@ -1590,11 +1590,11 @@
   "status": "stale",
   "file": "index/provision_link_adjudications.jsonl",
   "total": 11481,
-  "expected": 12478,
+  "expected": 12479,
   "applied": 0,
   "stale": 11481,
   "unmatched": 0,
-  "unassessed": 12478
+  "unassessed": 12479
  },
  "stored_advisory_assessments": [
   {

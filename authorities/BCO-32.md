@@ -20,6 +20,7 @@
 | 2002 | Judicial case | explicit_citation | direct_text | high | [Sang Soo Ryoo v. Korean Capital Presbytery](../cases/ga30_2002__2001-18.md) | sustained |
 | 2002 | Judicial case | explicit_citation | direct_text | high | [Sung Keon Kim v. Korean Capital Presbytery](../cases/ga30_2002__2001-19.md) |  |
 | 2001 | Judicial case | explicit_citation | direct_text | high | [Sung Keon Kim v. Korean Capital Presbytery](../cases/ga30_2002__2001-03.md) | sustained |
+| 1999 | Judicial case | explicit_citation | direct_text | high | [St. Paul Session, et al. v. Central Florida Presbytery](../cases/ga27_1999__1998-02.md) | denied |
 | 1997 | Judicial case | explicit_citation | direct_text | high | [Edgemont Session v. Westminster Presbytery](../cases/ga25_1997__1995-07.md) | sustained |
 | 1994 | Judicial case | explicit_citation | direct_text | high | [William A. Conrad et al. v. Central Carolina Presbytery](../cases/ga22_1994__1993-09.md) | out_of_order |
 | — | Judicial case | explicit_citation | direct_text | high | [William A. Conrad et al. vs. Central Carolina Presbytery](../cases/ga23_1995__1994-04.md) |  |

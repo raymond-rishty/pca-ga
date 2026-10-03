@@ -14528,6 +14528,14 @@
   ],
   "evidence": [
    {
+    "line": 82,
+    "snippet": "4. “That MAP hereby erects a commission to be appointed by the Moderator to visit GNA Church for the purpose of inquiring into and redressing the evils that may have arisen...\" (BCO 13-9(f))\""
+   },
+   {
+    "line": 92,
+    "snippet": "…purpose of inquiring into and redressing the evils that may have arisen...\" (BCO 13-9(f)). We further request that you respond to this e-mail within 24 hours."
+   },
+   {
     "line": 126,
     "snippet": "> That, for the reasons cited in the commission's report, Metropolitan Atlanta Presbytery hereby dissolves Grace North Atlanta Church as an affiliate of MAP and the Presbyterian Church in America (BCO 13-9 (f), effective 60 days from the"
    },
@@ -41098,6 +41106,10 @@
     "snippet": "\"that the Presbytery appoint a commission to hear the complaint against the Session of Christ Church (BCO 15-3), to investigate the charges against TE John Hutchinson and, if deemed appropriate, to adjudicate the case (BCO 31-2).\""
    },
    {
+    "line": 78,
+    "snippet": "appropriate, to adjudicate the case (BCO 31-2).\""
+   },
+   {
     "line": 122,
     "snippet": "…the heart of the motion was to request the Session to fulfill its duty under BCO 31-2 and to investigate the allegations. However, in their complaint to the Session dated March 20, 1997, the complainants also asked the Session to \"commence an investigation…"
    },
@@ -41106,20 +41118,16 @@
     "snippet": "…32-2.\" In the process of their motions and complaints, they referenced both BCO 31-2 and 32-2, while specifically emphasizing the need for the Session to investigate. When the complaint reached CFP, the complainants were again asking CFP to refer the…"
    },
    {
+    "line": 135,
+    "snippet": "since it is not the court of original jurisdiction (BCO 31-2).\""
+   },
+   {
     "line": 153,
     "snippet": "3. if deemed appropriate, to adjudicate the case (BCO 31-2).\""
    },
    {
     "line": 155,
     "snippet": "First, was the Commission instructed to investigate the charges according to BCO 31-2 to determine whether there was a strong presumption of guilt before proceeding to trial, or was the Commission also instructed to conduct a trial? The complainants argued…"
-   },
-   {
-    "line": 155,
-    "snippet": "…if deemed appropriate, to adjudicate...\", but with the additional reference to BCO 31-2 directing the commission to determine if there was a strong presumption of guilt. They pointed out that the motion was approved by CFP on 7/15/97, reaffirmed by CFP on…"
-   },
-   {
-    "line": 155,
-    "snippet": "…the motion to instruct the commission first to investigate according to BCO 31-2."
    }
   ]
  },
@@ -49914,6 +49922,31 @@
  {
   "provision": "BCO 32",
   "case_numbers": [
+   "1998-2"
+  ],
+  "title": "St. Paul Session, et al. v. Central Florida Presbytery",
+  "body": "SJC",
+  "year": 1999,
+  "disposition": "denied",
+  "standard_of_review": "factual_findings",
+  "review_standards": [
+   "factual_findings"
+  ],
+  "synopsis": "The St. Paul Session and other Central Florida presbyters complained that Presbytery wrongly sustained a commission report denying the Session complaint and declining to find a strong presumption of guilt against Pastor John Hutchinson. The SJC denied the complaint on both issues. It held CFP permissibly directed a BCO 31-2 investigation and chose its own procedures; procedural irregularities and possible bias did not show BCO 39-3 clear error, though the panel criticized CFP’s handling. A lone dissent would remand, alleging the commission ignored the substance of 41 of 45 specifications.",
+  "url": "cases/ga27_1999__1998-02.md",
+  "sources": [
+   "case_markdown_text"
+  ],
+  "evidence": [
+   {
+    "line": 168,
+    "snippet": "…then judicial process needs to follow, and a fair trial according to BCO 32. In response, the respondents argued that it was still necessary to investigate the charges. At this stage they were mere allegations, and CFP had not yet identified…"
+   }
+  ]
+ },
+ {
+  "provision": "BCO 32",
+  "case_numbers": [
    "2001-3"
   ],
   "title": "Sung Keon Kim v. Korean Capital Presbytery",
@@ -50695,6 +50728,10 @@
    {
     "line": 122,
     "snippet": "…to \"commence an investigation into the alleged sins of John Hutchinson per BCO 32-2.\" In the process of their motions and complaints, they referenced both BCO 31-2 and 32-2, while specifically emphasizing the need for the Session to investigate. When the…"
+   },
+   {
+    "line": 168,
+    "snippet": "…argued that once \"some person or persons undertake to make out the charge\" (BCO 32-2), it is incumbent upon presbytery to initiate judicial process. The complainants were requested by the first commission to press charges, which they did on June 29. Then,…"
    },
    {
     "line": 170,
@@ -54137,11 +54174,17 @@
   "synopsis": "Smith appealed discipline for divisiveness, gossip and slander, broken membership vows, and contumacy arising largely from complaints and letters during church conflict. The SJC sustained her appeal, reversed guilt on all four charges, and annulled suspension from the sacraments. The documentary record proved none of the allegations; filing complaints was not itself divisiveness, and the trial improperly lacked a witness, shifted proof to Smith, showed prejudice, and unfairly rejected her written defense. The SJC declined remand because the evidence was insufficient.",
   "url": "cases/ga28_2000__1998-08.md",
   "sources": [
+   "case_markdown_text",
    "cases.jsonl:bco_cited_as",
    "cases.jsonl:bco_cited_current",
    "judicial_cases.jsonl:bco_provisions"
   ],
-  "evidence": []
+  "evidence": [
+   {
+    "line": 117,
+    "snippet": "citation to appear before a church court in formal judicial process (BCO 32-6, 33-2, 34-"
+   }
+  ]
  },
  {
   "provision": "BCO 32-6",
@@ -59909,11 +59952,17 @@
   "synopsis": "The St. Paul Session and other Central Florida presbyters complained that Presbytery wrongly sustained a commission report denying the Session complaint and declining to find a strong presumption of guilt against Pastor John Hutchinson. The SJC denied the complaint on both issues. It held CFP permissibly directed a BCO 31-2 investigation and chose its own procedures; procedural irregularities and possible bias did not show BCO 39-3 clear error, though the panel criticized CFP’s handling. A lone dissent would remand, alleging the commission ignored the substance of 41 of 45 specifications.",
   "url": "cases/ga27_1999__1998-02.md",
   "sources": [
+   "case_markdown_text",
    "cases.jsonl:bco_cited_as",
    "cases.jsonl:bco_cited_current",
    "judicial_cases.jsonl:bco_provisions"
   ],
-  "evidence": []
+  "evidence": [
+   {
+    "line": 137,
+    "snippet": "The Judicial Panel finds no fault with the proceedings of the commission regarding this complaint and finds their reasoning to be sound according to the BCO 34- 1,3."
+   }
+  ]
  },
  {
   "provision": "BCO 34-1",
@@ -74175,11 +74224,17 @@
   "synopsis": "Smith appealed discipline for divisiveness, gossip and slander, broken membership vows, and contumacy arising largely from complaints and letters during church conflict. The SJC sustained her appeal, reversed guilt on all four charges, and annulled suspension from the sacraments. The documentary record proved none of the allegations; filing complaints was not itself divisiveness, and the trial improperly lacked a witness, shifted proof to Smith, showed prejudice, and unfairly rejected her written defense. The SJC declined remand because the evidence was insufficient.",
   "url": "cases/ga28_2000__1998-08.md",
   "sources": [
+   "case_markdown_text",
    "cases.jsonl:bco_cited_as",
    "cases.jsonl:bco_cited_current",
    "judicial_cases.jsonl:bco_provisions"
   ],
-  "evidence": []
+  "evidence": [
+   {
+    "line": 58,
+    "snippet": "This court fully appreciates the high standards of review required by BCO 39-3"
+   }
+  ]
  },
  {
   "provision": "BCO 39-3",
