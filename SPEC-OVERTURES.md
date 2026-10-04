@@ -5,7 +5,8 @@ Inquiries** (`SPEC-INQUIRIES.md`). An overture is a formal **proposal or request
 (or a committee) to the General Assembly — to amend the Constitution, answer a question, or take an
 action. This catalogue answers *"Has the PCA considered this before, and how was it answered?"*
 *(Status: BUILT — `18_structure.py`, `21_overture_titles.py`, `22_dispositions.py`, rendered to
-`index/OVERTURES.md` and the `overtures` DB table; 2,028 overtures across 51 of 52 volumes.)*
+`index/OVERTURES.md` and the `overtures` DB table; the current reconciled catalogue has 1,537 entries
+across 51 of 52 volumes.)*
 
 ## 1. The model (what an overture record is)
 
@@ -83,15 +84,17 @@ workflow → `link` (join by BCO section), folded into the DB by `19_export`.
 
 `index/OVERTURES.md`, grouped by Assembly: **Overture | Subject | Outcome | Source | Pages**, with
 every page **deep-linked** to its anchor in the volume markdown (`#ga<ord>-pN`, shared with the case
-index). Backed by the `overtures` DB table `{vol, ga_ordinal, year, number, source, pdf_page,
-printed_page, context, title, pages, disposition, final_disposition, ratification_note}` (the
-queryable layer; the markdown is generated from it). Individual pages may also have a curated action
-trail in `index/overture_events.jsonl`. It must join to one distinct overture record using a stable
-record ID, not only volume and number; the prototype's `(volume, number)` key is not safe where a
-number was reused. Each event has its own heading, minutes text, and source location. The page marks
-the heading as page-added material and links directly to the relevant Assembly minutes. Related
-overtures remain separate records; a related link may be shown separately without copying the other
-overture's independent action into this trail.
+index). The base `overtures` DB table contains `{vol, ga_ordinal, year, number, source, pdf_page,
+printed_page, context, title, pages, disposition, final_disposition, ratification_note}`. The
+reconciled `index/OVERTURES.md` is the working inventory for action-history research: currently
+1,537 entries. Counts in the base structure/DB and raw disposition extracts differ; do not use those
+raw counts as the research scope without reconciling them to the published catalogue. Individual
+pages may also have a curated action trail in `index/overture_events.jsonl`. It must join to one
+distinct overture record using a stable ID based on its volume, number, source page, and subject—not
+only volume and number. Each event has its own heading, minutes text, and source location. The page
+marks the heading as page-added material and links directly to the relevant Assembly minutes.
+Related overtures remain separate records; a related link may be shown separately without copying
+the other overture's independent action into this trail.
 
 ## 7a. Action trail — definition and scope
 
@@ -195,8 +198,8 @@ records.
 
 ## 9. Honest limitations
 
-- **Number reuse**: early GAs reuse overture numbers within an Assembly for different subjects; dedup
-  is deliberately conservative (keyed on subject too), and the catalogue was cleaned 3,474 → 2,028.
+- **Number reuse**: early GAs reuse overture numbers within an Assembly for different subjects; the
+  current research inventory distinguishes records by their source page and subject.
 - **Coverage**: 51/52 volumes (GA4 = 0 — earliest format); some scanned-era sources are imperfect.
 - **Titles** are LLM-generated (~97% coverage); a few may be imprecise.
 - **Ratification**: 46 amendments are "sent to presbyteries; ratification not located" — the
