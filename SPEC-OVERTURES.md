@@ -85,7 +85,12 @@ workflow → `link` (join by BCO section), folded into the DB by `19_export`.
 every page **deep-linked** to its anchor in the volume markdown (`#ga<ord>-pN`, shared with the case
 index). Backed by the `overtures` DB table `{vol, ga_ordinal, year, number, source, pdf_page,
 printed_page, context, title, pages, disposition, final_disposition, ratification_note}` (the
-queryable layer; the markdown is generated from it).
+queryable layer; the markdown is generated from it). Individual pages may also have a curated event
+history in `index/overture_events.jsonl`, keyed by volume and overture number. Each event has its own
+heading, action text transcribed from the minutes, and source location; the page renders the action
+text beneath a visually distinct, page-added heading and links directly to the relevant Assembly
+minutes. Related overtures remain separate records and may be linked from an event without being
+merged into the originating overture's history.
 
 ## 8. Invariants (acceptance)
 
@@ -95,6 +100,8 @@ queryable layer; the markdown is generated from it).
 3. Page references are deep-linked and resolve; cite-only prose mentions are not catalogued.
 4. Dispositions/ratifications are grounded in the minutes (the BCO ledger only points where to look);
    "ratification not located" is the honest label when the chain can't be confirmed.
+5. When an event history is curated, each action has its own clearly labeled section and source link;
+   amendments, presbytery votes, and later Assembly action remain distinct events.
 
 ## 9. Honest limitations
 

@@ -82,7 +82,8 @@ def checkPython = registerCommand('checkPythonDependencies', [pythonCommand, '-c
 def regenerateOverturePages = registerCommand(
     'regenerateOverturePages', [pythonCommand, 'scripts/37_overture_pages.py', '.'],
     [generatorScripts, file('scripts/37_overture_pages.py'), file('index/overture_bodies.jsonl'),
-     file('index/overture_titles.jsonl'), file('index/overture_dispositions.jsonl')],
+     file('index/overture_titles.jsonl'), file('index/overture_dispositions.jsonl'),
+     file('index/overture_events.jsonl')],
     [file('overtures'), file('index/overture_pages_map.json')]
 )
 def regenerateOvertures = tasks.register('regenerateOvertures') {

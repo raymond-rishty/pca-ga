@@ -1590,6 +1590,33 @@ textarea:focus-visible {
 }
 .reading-col .minutes-volume-card__links .minutes-volume-card__primary:hover { border-color: #233150; background: #233150; color: var(--parch); }
 .reading-col .minutes-volume-card__links a:focus-visible { outline: 2px solid var(--gold); outline-offset: 2px; }
+
+/* Overture action headings are page-added dividers; the indented block below each is minutes text. */
+.reading-col h3.overture-action-heading {
+  position: relative;
+  margin: 2.5rem 0 1rem;
+  padding: .85rem 1rem .8rem 1.15rem;
+  border: 1px solid var(--parch-deep);
+  border-left: 4px solid var(--gold);
+  background: var(--parch-mid);
+  color: var(--ink);
+  font: 500 1.25rem/1.25 var(--serif);
+}
+.reading-col h3.overture-action-heading::before {
+  display: block;
+  margin-bottom: .25rem;
+  color: #80621F;
+  content: "ACTION IN THE MINUTES";
+  font: 500 .62rem/1.3 var(--sans);
+  letter-spacing: .12em;
+}
+.reading-col h3.overture-action-heading + blockquote {
+  margin: 0 0 1rem;
+  padding: .15rem 0 .15rem 1rem;
+  border-left: 2px solid var(--parch-deep);
+  color: var(--ink);
+  font-family: var(--serif);
+}
 @media (max-width: 760px) {
   .minutes-volume-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); }
 }

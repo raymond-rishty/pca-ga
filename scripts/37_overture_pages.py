@@ -5,6 +5,7 @@ Reads (from <ROOT>/index/):
   - overture_bodies.jsonl        : {vol, ga_ordinal, number, pdf_page, source, body}
   - overture_titles.jsonl        : {vol, number, pdf_page, title}
   - overture_dispositions.jsonl  : {vol, number, ..., disposition, final_disposition, ratified, bco, ratification_note}
+  - overture_events.jsonl        : optional curated action histories keyed by (vol, number)
 
 Writes, mirroring cases/* and inquiries/*:
   - <ROOT>/overtures/<vol>__o<number>.md   : one page per overture (metadata + verbatim body + deep-link to minutes)
@@ -19,6 +20,7 @@ Usage:  37_overture_pages.py [ROOT]      (ROOT defaults to /workspace)
 """
 from __future__ import annotations
 import json, os, re, sys, glob
+from html import escape
 from pathlib import Path
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
@@ -62,6 +64,8 @@ def main():
     titles = {(r["vol"], str(r["number"])): (r.get("title") or "").strip()
               for r in load_jsonl("overture_titles.jsonl")}
     disps = {(r["vol"], str(r["number"])): r for r in load_jsonl("overture_dispositions.jsonl")}
+    events = {(r["vol"], str(r["number"])): r.get("events", [])
+              for r in load_jsonl("overture_events.jsonl")}
 
     # Pick the best body per (vol, number): PREFER one that reads like an overture (has Whereas /
     # resolution language) over the longest, because an overture number can also appear in the
@@ -115,9 +119,44 @@ def main():
         source_meta = source_front_matter(source_entries_for_record(
             Path(ROOT), "overture", f"{vol}:{number}", vol, int(page) if page else None
         ))
+        # The helper's trailing blank line is useful at other insertion points, but
+        # overture pages already add a blank after the heading metadata below.
+        if source_meta and source_meta[-1] == "":
+            source_meta = source_meta[:-1]
         page_md = source_meta + [f"# GA{ga} O{number} — {title}", "", "  ·  ".join(hdr), "", src, "", "---", ""]
-        page_md += ratnote
-        page_md += [para_clauses(body), "", "---", "", "[← Overture catalogue](../index/OVERTURES.md)"]
+        record_events = events.get((vol, number), [])
+        if record_events:
+            page_md += ratnote
+            page_md += ["## Submitted overture", "", para_clauses(body), "",
+                        "## Action history", ""]
+            for event in record_events:
+                heading = (event.get("heading") or "Overture action").strip()
+                action_text = (event.get("action_text") or "").strip()
+                source_volume = (event.get("source_volume") or vol).strip()
+                source_page = event.get("source_pdf_page")
+                source_label = event.get("source_label") or (
+                    f"{source_volume} PDF p. {source_page}" if source_page else source_volume
+                )
+                source_match = re.search(r"ga(\d+)", source_volume)
+                source_anchor = (f"#ga{int(source_match.group(1))}-p{source_page}"
+                                 if source_page and source_match else "")
+                page_md += [f'<h3 class="overture-action-heading">{escape(heading)}</h3>', ""]
+                if action_text:
+                    # Curated event text is transcribed from the cited minutes, rather than
+                    # editorially summarized. Emit escaped HTML so Kramdown cannot reinterpret
+                    # recorded paragraph numbering or lettered clauses as Markdown lists.
+                    quoted = "<br>\n".join(escape(line) for line in action_text.splitlines())
+                    page_md += ['<blockquote class="overture-action-text">', quoted,
+                                "</blockquote>", ""]
+                page_md += [f"*Source: [{source_label}](../markdown/{source_volume}.md{source_anchor})*", ""]
+                related_page = (event.get("related_page") or "").strip()
+                if related_page:
+                    related_label = (event.get("related_label") or "Related overture").strip()
+                    page_md += [f"*Related record: [{related_label}]({related_page})*", ""]
+            page_md += ["---", "", "[← Overture catalogue](../index/OVERTURES.md)"]
+        else:
+            page_md += ratnote
+            page_md += [para_clauses(body), "", "---", "", "[← Overture catalogue](../index/OVERTURES.md)"]
         slug = f"{vol}__o{number}"
         open(os.path.join(OUT, f"{slug}.md"), "w", encoding="utf-8").write("\n".join(page_md) + "\n")
         pages_map[f"GA{ga} O{number}"] = f"overtures/{slug}.md"
