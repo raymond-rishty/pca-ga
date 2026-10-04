@@ -85,12 +85,98 @@ workflow → `link` (join by BCO section), folded into the DB by `19_export`.
 every page **deep-linked** to its anchor in the volume markdown (`#ga<ord>-pN`, shared with the case
 index). Backed by the `overtures` DB table `{vol, ga_ordinal, year, number, source, pdf_page,
 printed_page, context, title, pages, disposition, final_disposition, ratification_note}` (the
-queryable layer; the markdown is generated from it). Individual pages may also have a curated event
-history in `index/overture_events.jsonl`, keyed by volume and overture number. Each event has its own
-heading, action text transcribed from the minutes, and source location; the page renders the action
-text beneath a visually distinct, page-added heading and links directly to the relevant Assembly
-minutes. Related overtures remain separate records and may be linked from an event without being
-merged into the originating overture's history.
+queryable layer; the markdown is generated from it). Individual pages may also have a curated action
+trail in `index/overture_events.jsonl`. It must join to one distinct overture record using a stable
+record ID, not only volume and number; the prototype's `(volume, number)` key is not safe where a
+number was reused. Each event has its own heading, minutes text, and source location. The page marks
+the heading as page-added material and links directly to the relevant Assembly minutes. Related
+overtures remain separate records; a related link may be shown separately without copying the other
+overture's independent action into this trail.
+
+## 7a. Action trail — definition and scope
+
+An **action trail** is the chronological, source-backed record of material actions on a proposal
+that propose, decide, or alter its wording or procedural/legal status, from submission through final
+disposition. The submitted overture is the baseline text shown before the trail. Record a
+submission/referral as an event only when the minutes document a distinct action (not merely because
+the text appears in the journal).
+
+Include documented actions that materially address the proposal, such as:
+- committee recommendation or CCB advice, kept distinct from the Assembly's decision;
+- a floor motion, amendment, substitution, and its recorded outcome, including a defeated change;
+- Assembly adoption, rejection, referral, recommittal, withdrawal, deferral, or carry-over;
+- a presbytery vote or concurrence tally on a constitutional amendment, with the stated threshold or
+  result when recorded; and
+- the later Assembly's action declaring the amendment adopted, failed, or otherwise resolved.
+
+Do not create events for index entries, passing mentions, routine debate or agenda steps, or repeated
+printings of an action already recorded. A later report that recounts an earlier action is a source
+for that earlier event, not a second event. An unrelated overture to the same BCO section has its own
+trail. Related items may appear as a separate, clearly labeled link or section, but their independent
+actions do not become part of the primary trail unless the minutes directly amend or determine the
+pending overture's text or status.
+
+Keep separately identifiable stages separate: committee recommendation, floor amendment, Assembly
+decision, presbytery vote, and later Assembly confirmation are not interchangeable. Order events by
+the action's actual session/minute sequence; do not sort by PDF page alone when a report reprints an
+earlier action.
+
+## 7b. Evidence and transcription rules
+
+The adopted Assembly minutes are authoritative for Assembly action; the recorded presbytery tally
+in those minutes is authoritative for the tally. Committee reports in the minutes substantiate
+committee recommendations. The submitted text is sourced to the original overture. The Digest and
+BCO change ledger are finding aids and cross-checks, not the sole evidence for a quoted action.
+
+Displayed action text must be a contiguous transcription of the cited minutes passage. Preserve
+wording, punctuation, numbering, and paragraph/list structure. Explicitly label a partial passage as
+an excerpt; show an ellipsis only where text has actually been omitted. For scanned minutes, compare
+the transcription against the PDF image and correct OCR only where the scan supports the correction.
+Never turn an editorial paraphrase into a quotation. If the action or outcome is established but its
+exact wording cannot be recovered, use a clearly marked unquoted editorial note and state the
+uncertainty. Give every event its own source link with Assembly, printed page, PDF page, and a direct
+minutes anchor; include a paragraph, recommendation, or item number where one is available.
+
+Track research completeness separately from event text, at the record level. Use `not_researched`,
+`in_progress`, `complete`, or `source_unavailable`; record which minutes/volumes were searched and
+any remaining gap. A missing action is not evidence that no action occurred. Use "no later action
+located" only after searching the relevant minutes and note the sources searched; mark an event
+stage "not applicable" only where the proposal did not enter that process (for example, a
+non-constitutional action does not require presbytery ratification).
+
+## 7c. Research procedure and event data
+
+For each overture:
+1. Resolve its distinct catalogue identity first. Use the originating page, source, and subject to
+   distinguish records that reuse a number; assign a stable record ID using a source-page and
+   subject/source discriminator (or an opaque ID backed by those fields). Never attach evidence by
+   `(volume, number)` alone.
+2. Read the submitted text and identify what proposal is before the Assembly. Record its original
+   source page and any explicit amendment language.
+3. Search the volume's journal, referral context, relevant committee reports, CCB report, and floor
+   proceedings for each action. Distinguish recommendations from adopted actions; capture amendments
+   and the motion's disposition separately.
+4. For constitutional amendments, follow the exact approved wording into the presbytery process and
+   later Assemblies until a documented terminal action. Use the Digest/ledger to locate likely
+   passages, then verify every vote and final declaration in the minutes. Match by overture identity
+   and text/BCO section, not BCO section alone. If no terminal action is located, record the last
+   Assembly and sources checked and state "no later action located" rather than assuming the chain
+   ended.
+5. Search for related overtures. Keep each proposal's actions in its own trail and add only a
+   separately marked cross-reference when it materially explains the relationship.
+6. Transcribe each event from the primary source, label excerpts, and compare scanned-source text to
+   the PDF. Record the printed and PDF page numbers and verify the generated anchor.
+7. Check that the event order is chronological, each source link resolves, the final action agrees
+   with the disposition record, and gaps or uncertainty are explicitly recorded.
+
+Each record should carry a stable `record_id`, `research_status`, `sources_searched`,
+`search_through_assembly`, and a gap note when needed. Each event should carry a stable `event_id`,
+sequence, action date or Assembly/session locator when known, phase/kind, actor, outcome/status,
+proposal text version, exact quote or clearly unquoted note, excerpt flag, transcription verification
+state, source volume, minute item/report locator, printed and PDF page range, and direct anchor. A
+related item should carry its own `related_record_id` and relationship label. Optional dates or
+outcomes must remain empty when the minutes do not establish them; do not infer them from nearby
+records.
 
 ## 8. Invariants (acceptance)
 
@@ -100,8 +186,12 @@ merged into the originating overture's history.
 3. Page references are deep-linked and resolve; cite-only prose mentions are not catalogued.
 4. Dispositions/ratifications are grounded in the minutes (the BCO ledger only points where to look);
    "ratification not located" is the honest label when the chain can't be confirmed.
-5. When an event history is curated, each action has its own clearly labeled section and source link;
-   amendments, presbytery votes, and later Assembly action remain distinct events.
+5. An action trail contains only documented material actions that propose, decide, or alter the
+   proposal's wording or status; stages remain distinct and each event has a verified source link.
+6. Every event joins to one distinct overture record by stable record ID, including where a number is
+   reused within one Assembly.
+7. Quoted actions are verified against the cited minutes; uncertain or unavailable evidence is
+   explicitly labeled.
 
 ## 9. Honest limitations
 
