@@ -86,6 +86,12 @@ def regenerateOverturePages = registerCommand(
      file('index/overture_events.jsonl')],
     [file('overtures'), file('index/overture_pages_map.json')]
 )
+def prepareOvertureActionResearch = registerCommand(
+    'prepareOvertureActionResearch', [pythonCommand, 'scripts/43_overture_action_inventory.py', '.'],
+    [file('scripts/43_overture_action_inventory.py'), file('index/OVERTURES.md'),
+     file('index/overture_events.jsonl'), file('index/overture_action_research.jsonl')],
+    [file('index/overture_action_research.jsonl')]
+)
 def regenerateOvertures = tasks.register('regenerateOvertures') {
     group = 'site build'
     description = 'Regenerate overture pages from the curated overture catalogue data.'

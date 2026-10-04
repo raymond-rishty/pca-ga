@@ -91,8 +91,10 @@ reconciled `index/OVERTURES.md` is the working inventory for action-history rese
 raw counts as the research scope without reconciling them to the published catalogue. Individual
 pages may also have a curated action trail in `index/overture_events.jsonl`. It must join to one
 distinct overture record using a stable ID based on its volume, number, source page, and subject—not
-only volume and number. Each event has its own heading, minutes text, and source location. The page
-marks the heading as page-added material and links directly to the relevant Assembly minutes.
+only volume and number. Research progress is tracked for every catalogue record in
+`index/overture_action_research.jsonl`; only located and reviewed events belong in
+`index/overture_events.jsonl`. Each event has its own heading, minutes text, and source location.
+The page marks the heading as page-added material and links directly to the relevant Assembly minutes.
 Related overtures remain separate records; a related link may be shown separately without copying
 the other overture's independent action into this trail.
 
@@ -172,9 +174,10 @@ For each overture:
 7. Check that the event order is chronological, each source link resolves, the final action agrees
    with the disposition record, and gaps or uncertainty are explicitly recorded.
 
-Each record should carry a stable `record_id`, `research_status`, `sources_searched`,
-`search_through_assembly`, and a gap note when needed. Each event should carry a stable `event_id`,
-sequence, action date or Assembly/session locator when known, phase/kind, actor, outcome/status,
+Each research-ledger row should carry a stable `record_id`, `research_status`, `sources_searched`,
+`search_through_assembly`, and a gap note when needed. Each event in `overture_events.jsonl` should
+carry a stable `record_id` and `event_id`, sequence, action date or Assembly/session locator when
+known, phase/kind, actor, outcome/status,
 proposal text version, exact quote or clearly unquoted note, excerpt flag, transcription verification
 state, source volume, minute item/report locator, printed and PDF page range, and direct anchor. A
 related item should carry its own `related_record_id` and relationship label. Optional dates or
