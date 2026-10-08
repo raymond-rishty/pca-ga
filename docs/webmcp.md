@@ -15,3 +15,5 @@ The Assembly Ask page and public `assets/pca-research-prompt.txt` are rendered f
 Search retrieves catalogue records, not every passage in the Minutes. Follow the returned source links for verbatim evidence. Distinguish constitutional text, judicial holdings, CCB advice, RPR exceptions, and Assembly actions when drawing conclusions. Personal research collections are not exposed.
 
 The integration is in `assets/webmcp-integration.js` and loads through both the shared layout and the Ask layout. No external WebMCP JavaScript library is required.
+
+To preview the Assembly and Constitution Reader pull requests together before merging, follow [the local WebMCP preview guide](local-webmcp-preview.md).
