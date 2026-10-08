@@ -278,5 +278,9 @@
   {% if page_type == 'research' %}
     <script src="{{ '/assets/research-workspace.js' | relative_url }}" defer></script>
   {% endif %}
+  {% unless page_type == 'home' %}
+    <script src="{{ '/assets/search-engine.js' | relative_url }}" defer></script>
+  {% endunless %}
+  <script src="{{ '/assets/webmcp-integration.js' | relative_url }}" defer></script>
 </body>
 </html>

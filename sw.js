@@ -1,4 +1,4 @@
-const CACHE = 'pca-ga-v18';
+const CACHE = 'pca-ga-v21';
 const STATIC = [
   './',
   './research.html',
@@ -22,6 +22,8 @@ const STATIC = [
   './assets/search-engine.js',
   './assets/pagefind-search.js',
   './assets/home-search.js',
+  './assets/webmcp-integration.js',
+  './assets/pca-research-prompt.txt',
   './app/search_index.json',
   './app/provision_search.json',
   './app/case_summaries_1.json',
