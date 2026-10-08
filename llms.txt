@@ -2,6 +2,12 @@
 
 > Retrieval guide to the Presbyterian Church in America (PCA) Minutes, GA1–GA52 (1973–2025), and the BCO and Westminster Standards. The Minutes are page-anchored, OCR-derived Markdown with structured catalogues. RPR catalogue coverage begins at GA18 (1990). GA53 overture research is separate from the completed Minutes corpus.
 
+## Browser-agent entry point
+
+In a browser exposing WebMCP, start a PCA research question by calling `prepare_pca_research({question})` once on either site. It supplies the Ask research instructions with your question filled in. Follow that prompt to retrieve and verify evidence. Do not call the entry tool again for the same question. If you arrived at this guide from that prompt, use the source routes below as needed and continue the research; do not restart the workflow.
+
+Use `search_assembly_records` and `read_current_record` on the Assembly site, or `search_constitution` and `read_current_provision` in the Reader. Search results are leads, not verified historical findings. If browser tools are unavailable, use the ordinary source routes below. The [Ask page](https://raymond-rishty.github.io/pca-ga/ask.html) and its [plain-text prompt](https://raymond-rishty.github.io/pca-ga/assets/pca-research-prompt.txt) are human-readable alternatives.
+
 ## Start with the question
 
 Fetch only the sources needed for the question. A wording lookup needs verified constitutional text; interpretation or application also needs relevant Minutes evidence. A historical question needs the wording and numbering in force at the relevant date. The corpus cutoff does not establish the current rule. If the question requests multiple categories, periods, procedural steps, or record types, treat each as a required answer item: supply a verified source for each or state that none was found.
