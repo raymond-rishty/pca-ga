@@ -22,16 +22,16 @@
 | 2002 | CCB advice | structured_provision_tag | structured_provision_tag | medium | [Handling Exceptions to the Westminster Standards](../inquiries/ga30_2002__ci04.md) | in conflict |
 | 2002 | CCB advice | structured_provision_tag | structured_provision_tag | medium | [Recording All Exceptions to Presbytery and the General Assembly](../inquiries/ga30_2002__ci03.md) | in conflict |
 | 2022 | Overture | explicit_citation | direct_text | high | [Adopt a Statement on Political Violence](../markdown/ga49_2022.md#ga49-p1354) |  |
-| 2015 | Overture | explicit_citation | direct_text | high | [Amend BCO 35-1 to Require Church Officers and Accusers to Testify](../markdown/ga43_2015.md#ga43-p610) | Approved but not ratified |
+| 2015 | Overture | explicit_citation | direct_text | high | [Amend BCO 35-1 to Require Church Officers and Accusers to Testify](../markdown/ga43_2015.md#ga43-p610) | Answered in the negative |
 | 2010 | Overture | explicit_citation | direct_text | high | [Amend BCO 1-4, 4-2, 5-10, 7-2, 9-2, 9-7 and Add BCO 9-8 for Unordained Diaconal Ministry](../markdown/ga38_2010.md#ga38-p394) | Answered in the negative |
+| 2002 | Overture | explicit_citation | direct_text | high | [Amend BCO 21-4 to Clarify Good Faith Subscription Standards](../markdown/ga30_2002.md#ga30-p233) |  |
+| 2002 | Overture | explicit_citation | direct_text | high | [Amend BCO 21-4 to Define Good Faith Subscription and Allowable Exceptions](../markdown/ga30_2002.md#ga30-p236) |  |
+| 2002 | Overture | explicit_citation | direct_text | high | [Amend BCO 21-4 to Specify Handling and Recording of Exceptions to Standards](../markdown/ga30_2002.md#ga30-p223) |  |
 | 2002 | Overture | explicit_citation | direct_text | high | [Amend BCO 24-1 to Record & Report All Exceptions to GA](../markdown/ga30_2002.md#ga30-p105) | Answered by reference |
-| 2002 | Overture | explicit_citation | direct_text | high | [Amend BCO to Specify Good-Faith Subscription to the Westminster Standards](../markdown/ga30_2002.md#ga30-p223) | Answered by reference |
 | 2002 | Overture | explicit_citation | direct_text | high | [Specify Good Faith Subscription (Version 2) in BCO](../markdown/ga30_2002.md#ga30-p221) | Adopted (final) |
-| 2002 | Overture | explicit_citation | direct_text | high | [Specify Good Faith Subscription (Version 3) in BCO](../markdown/ga30_2002.md#ga30-p226) | Answered by reference |
+| 2002 | Overture | explicit_citation | direct_text | high | [Specify Good Faith Subscription (Version 3) in BCO](../markdown/ga30_2002.md#ga30-p226) |  |
 | 2002 | Overture | explicit_citation | direct_text | high | [Specify Good Faith Subscription (Version 4) in BCO](../markdown/ga30_2002.md#ga30-p228) | Answered by reference |
-| 2002 | Overture | explicit_citation | direct_text | high | [Specify Good Faith Subscription (Version 6)](../markdown/ga30_2002.md#ga30-p233) | Answered by reference |
-| 2002 | Overture | explicit_citation | direct_text | high | [Specify Good Faith Subscription (Version 7)](../markdown/ga30_2002.md#ga30-p236) | Answered by reference |
-| 1996 | Overture | explicit_citation | direct_text | high | [Take No Action to Change BCO 38-2, 46-2, and 46-5 on Member Dismissal](../markdown/ga24_1996.md#ga24-p305) | Answered in the negative |
+| 1996 | Overture | explicit_citation | direct_text | high | [Take No Action to Change BCO 38-2, 46-2, and 46-5 on Member Dismissal](../markdown/ga24_1996.md#ga24-p305) |  |
 | 2022 | RPR exception | exception_target | direct_text | high | [Palmetto: Presbytery prohibited two licentiates from preaching or teaching their views to difference](../rpr/exc/palmetto__043.html) | satisfactory |
 | 2021 | RPR exception | multiple | direct_text | high | [Calvary: Presbytery prohibited TE from teaching his accepted view, contrary to our practice of Good](../rpr/exc/calvary__106.html) | raised |
 | 2021 | RPR exception | multiple | direct_text | high | [Calvary: Presbytery prohibited TE from teaching his accepted view, contrary to our practice of Good](../rpr/exc/calvary__107.html) | raised |

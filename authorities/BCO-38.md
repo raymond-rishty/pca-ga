@@ -13,7 +13,7 @@
 | 1991 | Judicial case | structured_case_reference | structured_case_metadata | medium | [Bowen v. Eastern Carolina Presbytery](../cases/ga19_1991__1990-08.md) | sustained |
 | 1991 | Judicial case | structured_case_reference | structured_case_metadata | medium | [Chappell v. Eastern Carolina Presbytery](../cases/ga19_1991__1990-04.md) | sustained |
 | 1991 | Judicial case | structured_case_reference | structured_case_metadata | medium | [Marshall v. Eastern Carolina Presbytery](../cases/ga19_1991__1990-04a.md) | sustained |
-| 1996 | Overture | explicit_citation | direct_text | high | [Delete BCO 46-5 & Amend BCO 38 and 46-2](../markdown/ga24_1996.md#ga24-p297) | Approved & ratified (1997) |
+| 1996 | Overture | explicit_citation | direct_text | high | [Delete BCO 46-5 and Amend BCO 38 and 46-2 on Church Membership](../markdown/ga24_1996.md#ga24-p297) |  |
 | 2025 | RPR exception | structured_exception_tag | structured_provision_tag | medium | [Nashville: Presbytery judged the Episcopal Church as another branch of the visible church – which fai](../rpr/exc/nashville__074.html) | raised |
 | 2019 | RPR exception | structured_exception_tag | structured_provision_tag | medium | [Houston Metro: Removed TE from rolls without explanation .](../rpr/exc/houston-metro__027.html) | satisfactory |
 

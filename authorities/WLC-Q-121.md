@@ -4,6 +4,7 @@
 
 | Year | Record type | Relationship | Evidence | Confidence | Title | Disposition |
 |------|-------------|--------------|----------|------------|-------|-------------|
+| 2025 | Overture | explicit_citation | direct_text | high | [Direct the AC to Collect and Report Each Congregation's Public Worship Service Times](../markdown/ga52_2025.md#ga52-p1288) | Answered in the negative |
 | 2024 | RPR exception | body_mention | direct_text | high | [Korean Central: ( BCO 21-4; RAO 16-3.e.5) — Stated differences not recorded in the minister’s/candidates o](../rpr/exc/korean-central__121.html) | satisfactory |
 | 2019 | RPR exception | body_mention | direct_text | high | [North Florida: No record of stated differences or how the Presbytery judged them.](../rpr/exc/north-florida__054.html) | satisfactory |
 

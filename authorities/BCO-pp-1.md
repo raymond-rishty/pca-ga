@@ -17,12 +17,11 @@
 | 2023 | CCB advice | structured_provision_tag | structured_provision_tag | medium | [Amend BCO 31 to Require Expedited and Conflict-free Investigations of Cases Involving Moral Failure or Victim(s)](../inquiries/ga50_2023__ci18.md) | in conflict; Adopted 8-0-0 |
 | 2002 | CCB advice | structured_provision_tag | structured_provision_tag | medium | [Handling Exceptions to the Westminster Standards](../inquiries/ga30_2002__ci04.md) | in conflict |
 | 2002 | CCB advice | structured_provision_tag | structured_provision_tag | medium | [Recording All Exceptions to Presbytery and the General Assembly](../inquiries/ga30_2002__ci03.md) | in conflict |
-| 2024 | Overture | explicit_citation | direct_text | high | [Amend BCO 13-6, 21-4, and 24-1 to Require Background Checks for Church Office](../markdown/ga51_2024.md#ga51-p1108) | Approved → sent to presbyteries; ratification not located |
+| 2023 | Overture | explicit_citation | direct_text | high | [Amend BCO 15-4, 45-1, and 45-4 to Allow GA Commissioner Objections to SJC Decisions](../markdown/ga50_2023.md#ga50-p994) | Answered in the negative |
 | 2006 | Overture | explicit_citation | direct_text | high | [Amend RAO 13-2 to Limit Consecutive Terms on Committees of Commissioners](../markdown/ga34_2006.md#ga34-p208) | Answered in the negative |
 | 2002 | Overture | explicit_citation | direct_text | high | [Amend BCO 24-1 to Record & Report All Exceptions to GA](../markdown/ga30_2002.md#ga30-p105) | Answered by reference |
-| 2002 | Overture | explicit_citation | direct_text | high | [Amend BCO to Clarify Handling of Exceptions to Westminster Standards](../markdown/ga30_2002.md#ga30-p102) | Answered in the negative |
-| 2000 | Overture | explicit_citation | direct_text | high | [Amend BCO 12-5 to Prohibit Women from Preaching in Public Worship](../markdown/ga28_2000.md#ga28-p79) | Approved but not ratified |
-| 1996 | Overture | explicit_citation | direct_text | high | [Take No Action to Change BCO 38-2, 46-2, and 46-5 on Member Dismissal](../markdown/ga24_1996.md#ga24-p305) | Answered in the negative |
+| 2002 | Overture | explicit_citation | direct_text | high | [Amend BCO 34-1 to Require Ten Percent of Presbyteries to Assume Original Jurisdiction](../markdown/ga30_2002.md#ga30-p102) | Answered in the negative |
+| 1996 | Overture | explicit_citation | direct_text | high | [Take No Action to Change BCO 38-2, 46-2, and 46-5 on Member Dismissal](../markdown/ga24_1996.md#ga24-p305) |  |
 | 2022 | RPR exception | exception_target | direct_text | high | [Palmetto: Presbytery prohibited two licentiates from preaching or teaching their views to difference](../rpr/exc/palmetto__043.html) | satisfactory |
 | 2021 | RPR exception | multiple | direct_text | high | [Calvary: Presbytery prohibited TE from teaching his accepted view, contrary to our practice of Good](../rpr/exc/calvary__106.html) | raised |
 | 2021 | RPR exception | multiple | direct_text | high | [Calvary: Presbytery prohibited TE from teaching his accepted view, contrary to our practice of Good](../rpr/exc/calvary__107.html) | raised |

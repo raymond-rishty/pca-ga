@@ -4,7 +4,7 @@
 
 | Year | Record type | Relationship | Evidence | Confidence | Title | Disposition |
 |------|-------------|--------------|----------|------------|-------|-------------|
-| 1994 | Overture | explicit_citation | direct_text | high | [Amend BCO 13 to Include Instructions on Dissolving Churches](../markdown/ga22_1994.md#ga22-p69) | Answered by reference |
+| 2014 | Overture | explicit_citation | direct_text | high | [Amend BCO 15-5.a and 15-5.b and Direct CCB to Draft RAO and OMSJC Amendments](../markdown/ga42_2014.md#ga42-p807) |  |
 
 ---
 *[← Authority Index](../index/AUTHORITY-BY-PROVISION.md)*

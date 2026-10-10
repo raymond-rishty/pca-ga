@@ -17,7 +17,6 @@
 | 1991 | Judicial case | structured_case_reference | structured_case_metadata | medium | [Chappell v. Eastern Carolina Presbytery](../cases/ga19_1991__1990-04.md) | sustained |
 | 1991 | Judicial case | structured_case_reference | structured_case_metadata | medium | [Marshall v. Eastern Carolina Presbytery](../cases/ga19_1991__1990-04a.md) | sustained |
 | 1986 | Judicial case | explicit_citation | direct_text | high | [Dye et al. v. Missouri Presbytery](../cases/ga14_1986__case7.md) |  |
-| 2003 | Overture | explicit_citation | direct_text | high | [Amend RAO 13-5 & 13-6 to Allow B&O to Offer Germane Amendments](../markdown/ga31_2003.md#ga31-p171) | Answered in the negative |
 | 2025 | RPR exception | structured_exception_tag | structured_provision_tag | medium | [Korean Southwest: Men are removed from the membership of Presbytery apart from methods set forth in the BCO](../rpr/exc/korean-southwest__252.html) | satisfactory |
 | 2025 | RPR exception | structured_exception_tag | structured_provision_tag | medium | [Philadelphia: A teaching elder is censured, but the specific censure is not recorded in the minutes.](../rpr/exc/philadelphia__070.html) | raised |
 | 1994 | RPR exception | structured_exception_tag | structured_provision_tag | medium | [Siouxlands: p. 3, # 19: A judicial commission was established in the absence of charges to deal with a](../rpr/exc/siouxlands__033.html) | satisfactory |

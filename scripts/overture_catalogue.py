@@ -8,11 +8,12 @@ import re
 from collections import defaultdict
 from pathlib import Path
 from typing import Any
+from overture_identity import load_reconciled_overture_records
 
 
-_HEAD = re.compile(r"^##\s+.*General Assembly\s*\((\d{4})\)")
-_LINK = re.compile(r"\]\(\.\./([^)#]+(?:#[^)]+)?)\)")
 _PROV = re.compile(r"BCO\s+\d+-\d+(?:\.[0-9a-z]+)*", re.I)
+
+
 def _case_provision_parser():
     path = Path(__file__).with_name("44_case_provision_index.py")
     spec = importlib.util.spec_from_file_location("pca_case_provision_parser", path)
@@ -30,72 +31,60 @@ def _jsonl(path: Path) -> list[dict[str, Any]]:
 
 
 def load_curated_overtures(index_dir: Path) -> list[dict[str, Any]]:
-    """Join the curated title, disposition, and body files by page occurrence."""
+    """Project reconciled records and join evidence only to the exact source page."""
     citation_parser = _case_provision_parser()
-    dispositions = _jsonl(index_dir / "overture_dispositions.jsonl")
-    titles = _jsonl(index_dir / "overture_titles.jsonl")
     bodies = _jsonl(index_dir / "overture_bodies.jsonl")
-    if not dispositions or not titles or not bodies:
+    catalogue = load_reconciled_overture_records(index_dir)
+    if not catalogue:
         return []
 
-    def key(row: dict[str, Any]) -> tuple[Any, str, Any]:
-        return row.get("vol"), str(row.get("number")), row.get("pdf_page")
+    def key(row: dict[str, Any]) -> tuple[str, str, int]:
+        return (str(row.get("vol") or ""), str(row.get("number") or ""),
+                int(row.get("pdf_page") or row.get("source_page") or -1))
 
-    title_by_key = {key(row): (row.get("title") or "").strip() for row in titles}
-    titles_by_record: dict[tuple[Any, str], list[str]] = defaultdict(list)
-    for title_row in titles:
-        title = (title_row.get("title") or "").strip()
-        if title:
-            titles_by_record[(title_row.get("vol"), str(title_row.get("number")))].append(title)
-    body_by_key = {key(row): row for row in bodies}
-    bodies_by_record: dict[tuple[Any, str], list[dict[str, Any]]] = defaultdict(list)
+    body_candidates: dict[tuple[str, str, int], list[dict[str, Any]]] = defaultdict(list)
     for body_row in bodies:
-        bodies_by_record[(body_row.get("vol"), str(body_row.get("number")))].append(body_row)
+        body_candidates[key(body_row)].append(body_row)
+    pair_counts: dict[tuple[str, str], int] = defaultdict(int)
+    for record in catalogue:
+        pair_counts[(record["vol"], str(record["number"]))] += 1
 
-    def sort_key(row: dict[str, Any]) -> tuple[int, int, int]:
-        volume = str(row.get("vol") or "")
-        assembly = re.match(r"ga(\d+)", volume)
-        return (int(assembly.group(1)) if assembly else 999,
-                int(row.get("number") or 0), int(row.get("pdf_page") or 0))
+    def body_score(row: dict[str, Any]) -> tuple[int, int]:
+        text = str(row.get("body") or "")
+        proposal_language = re.search(
+            r"\b(whereas|be it (further )?resolved|therefore|resolved,? that|now,? therefore)\b",
+            text, re.I,
+        )
+        return (1 if proposal_language else 0, len(text))
 
     records = []
-    for row in sorted(dispositions, key=sort_key):
-        occurrence_key = key(row)
-        title = title_by_key.get(occurrence_key, "")
-        if not title:
-            # Some title rows carry a printed-page value where disposition
-            # and body rows carry the PDF-page value. Overture numbers are
-            # unique within an assembly, so recover only an unambiguous title.
-            candidates = titles_by_record.get((row.get("vol"), str(row.get("number"))), [])
-            if len(candidates) == 1:
-                title = candidates[0]
-        if not title:
-            continue
-        volume = str(row.get("vol") or "")
-        volume_match = re.match(r"ga\d+_(\d{4})$", volume)
-        year = int(volume_match.group(1)) if volume_match else None
-        body = body_by_key.get(occurrence_key, {})
-        number = int(row.get("number") or 0)
-        page = row.get("pdf_page")
+    for record in catalogue:
+        volume = record["vol"]
+        number = int(record["number"])
+        page = int(record["source_page"])
+        exact_key = (volume, str(number), page)
+        candidates = body_candidates.get(exact_key, [])
+        if not candidates and pair_counts[(volume, str(number))] == 1:
+            # A unique overture may have a useful extraction on another page of
+            # its own record. Reused numbers never receive this fallback.
+            candidates = [body_row for body_key, rows in body_candidates.items()
+                          if body_key[:2] == (volume, str(number)) for body_row in rows]
+        body = max(candidates, key=body_score) if candidates else {}
+        title = str(record.get("title") or "").strip()
         url = f"markdown/{volume}.md"
         if page:
             url += f"#{volume.split('_')[0]}-p{page}"
         provisions: set[str] = set()
         provision_sources: dict[str, set[str]] = defaultdict(set)
-        for value in row.get("bco") or []:
-            if value:
-                provision = f"BCO {value}"
-                provisions.add(provision)
-                provision_sources[provision].add("disposition_bco")
         for match in _PROV.findall(title):
             provision = match.upper()
             provisions.add(provision)
             provision_sources[provision].add("title_subject")
 
         evidence_by_provision: dict[str, list[dict[str, Any]]] = defaultdict(list)
-        for body_row in bodies_by_record.get((volume, str(number)), [body]):
-            body_text = str(body_row.get("body") or "")
-            evidence_page = body_row.get("pdf_page")
+        if body:
+            body_text = str(body.get("body") or "")
+            evidence_page = body.get("pdf_page")
             evidence_url = f"markdown/{volume}.md"
             if evidence_page:
                 evidence_url += f"#{volume.split('_')[0]}-p{evidence_page}"
@@ -113,14 +102,14 @@ def load_curated_overtures(index_dir: Path) -> list[dict[str, Any]]:
                     if evidence not in evidence_by_provision[provision]:
                         evidence_by_provision[provision].append(evidence)
         records.append({
-            "record_id": f"overture:{volume}:{number}",
+            "record_id": record["record_id"],
             "vol": volume,
             "number": number,
             "page": page,
             "title": title,
-            "source": (body.get("source") or "").strip(),
-            "year": year,
-            "disposition": row.get("final_disposition") or row.get("disposition") or "",
+            "source": (body.get("source") or record.get("source") or "").strip(),
+            "year": record.get("year"),
+            "disposition": record.get("disposition") or "",
             "provisions": sorted(provisions),
             "provision_sources": {
                 provision: sorted(sources)
@@ -136,47 +125,9 @@ def load_curated_overtures(index_dir: Path) -> list[dict[str, Any]]:
     return records
 
 
-def _fallback_overtures(index_dir: Path) -> list[dict[str, Any]]:
-    path = index_dir / "OVERTURES.md"
-    if not path.exists():
-        return []
-    records: list[dict[str, Any]] = []
-    year = None
-    for line in path.read_text(encoding="utf-8").splitlines():
-        heading = _HEAD.match(line)
-        if heading:
-            year = int(heading.group(1))
-            continue
-        if not line.startswith("| "):
-            continue
-        cells = [cell.strip() for cell in line.strip().strip("|").split("|")]
-        if len(cells) < 5:
-            continue
-        number_match = re.search(r"\[(\d+)\]", cells[0])
-        number = number_match.group(1) if number_match else cells[0]
-        if not number.isdigit() or not cells[1]:
-            continue
-        link = _LINK.search(cells[4])
-        title_provisions = sorted({match.upper() for match in _PROV.findall(cells[1])})
-        records.append({
-            "record_id": f"overture:catalogue:{year}:{int(number)}",
-            "vol": "",
-            "number": int(number),
-            "page": None,
-            "title": cells[1],
-            "source": cells[3],
-            "year": year,
-            "disposition": cells[2],
-            "provisions": title_provisions,
-            "provision_sources": {provision: ["title_subject"] for provision in title_provisions},
-            "url": link.group(1) if link else "index/OVERTURES.md",
-        })
-    return records
-
-
 def overture_records(index_dir: Path) -> list[dict[str, Any]]:
-    """Use page-keyed curated data, falling back only for incomplete legacy trees."""
-    return load_curated_overtures(index_dir) or _fallback_overtures(index_dir)
+    """Load the reconciled, page-qualified roster and its exact-page evidence."""
+    return load_curated_overtures(index_dir)
 
 
 def search_rows(index_dir: Path) -> list[dict[str, Any]]:
@@ -186,6 +137,7 @@ def search_rows(index_dir: Path) -> list[dict[str, Any]]:
         source = record["source"]
         rows.append({
             "type": "Overture",
+            "record_id": record["record_id"],
             "title": record["title"],
             "sub": f"Overture {number}" + (f" · {source}" if source else ""),
             "identifier": f"Overture {number}",

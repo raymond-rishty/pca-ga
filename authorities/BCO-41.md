@@ -24,9 +24,10 @@
 | 1993 | Judicial case | explicit_citation | direct_text | high | [Reference from Central Carolina Presbytery](../cases/ga21_1993__1992-08.md) | referred |
 | 1986 | Constitutional inquiry | structured_provision_tag | structured_provision_tag | medium | [Book of Church Order / BCO 3-1](../inquiries/ga14_1986__ci10.md) | advice given |
 | 1986 | Constitutional inquiry | structured_provision_tag | structured_provision_tag | medium | [Congregational vote to rotate entire session or diaconate off](../inquiries/ga14_1986__ci08.md) | advice given |
-| 2024 | Overture | proposal_target | overture_action_target | high | [Amend BCO 41 to Allow Venue Change in Judicial Cases](../markdown/ga51_2024.md#ga51-p1119) | Answered in the negative |
-| 2002 | Overture | explicit_citation | direct_text | high | [Revise BCO 15-4 & 15-5 to Abolish the Standing Judicial Commission](../markdown/ga30_2002.md#ga30-p257) | Other |
-| 1998 | Overture | multiple | multiple | high | [Amend BCO 41 to Clarify Ministerial Service Out of Bounds](../markdown/ga26_1998.md#ga26-p201) | Answered by reference |
+| 2025 | Overture | explicit_citation | direct_text | high | [Amend BCO 34-1 Regarding Advisors and Original Jurisdiction in Process Against a TE](../markdown/ga52_2025.md#ga52-p1175) | Answered in the negative |
+| 2022 | Overture | explicit_citation | direct_text | high | [Amend BCO 15-1 and 15-3 to Clarify Role of Presbytery Commission](../markdown/ga49_2022.md#ga49-p1351) | Approved & ratified (2023) |
+| 2022 | Overture | explicit_citation | direct_text | high | [Amend BCO 15-1 and 15-3 to Clarify Role of Presbytery Commission](../markdown/ga49_2022.md#ga49-p1356) |  |
+| 2002 | Overture | explicit_citation | direct_text | high | [Revise BCO 15-4 and 15-5 to Abolish the Standing Judicial Commission](../markdown/ga30_2002.md#ga30-p257) |  |
 | 2021 | RPR exception | structured_exception_tag | structured_provision_tag | medium | [Savannah River: No constitutional basis for declaring a non-judicial reference out of order.](../rpr/exc/savannah-river__019.html) | satisfactory |
 | 2013 | RPR exception | structured_exception_tag | structured_provision_tag | medium | [Providence: Minutes of called meeting not included.](../rpr/exc/providence__014.html) | satisfactory |
 

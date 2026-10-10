@@ -8,7 +8,9 @@
 | 2007 | Judicial case | explicit_citation | direct_text | high | [Eliot Lee v. Korean Eastern Presbytery](../cases/ga36_2008__2007-01_2007-06_2007-07.md) | not_sustained |
 | 2006 | Judicial case | explicit_citation | direct_text | high | [Thornton v. Westminster Presbytery](../cases/ga34_2006__2004-08.md) | sustained |
 | 2021 | CCB advice | structured_provision_tag | structured_provision_tag | medium | [Amend BCO 21 and 24 to Clarify Moral Requirements for Church Office](../inquiries/ga48_2021__ci23.md) | not in conflict; Adopted |
-| 2021 | Overture | proposal_target | overture_action_target | high | [Amend BCO 21 and 24 to Clarify Moral Requirements for Church Office](../markdown/ga48_2021.md#ga48-p1072) | Answered by reference |
+| 2025 | Overture | explicit_citation | direct_text | high | [Amend BCO 8-4, 20-1, 21-1, 21-12, and 23-1 re Calling and Dissolution of TE Relationships for Needful Works](../markdown/ga52_2025.md#ga52-p1254) | Approved → sent to presbyteries; ratification not located |
+| 2024 | Overture | explicit_citation | direct_text | high | [Amend BCO 13-6, 21-4, and 24-1 to Require Background Checks for Church Office](../markdown/ga51_2024.md#ga51-p1175) | Answered by reference |
+| 2023 | Overture | explicit_citation | direct_text | high | [Amend BCO 13-6, 21-4.b, and 24-1 to Require Criminal Background Checks of Officer Candidates](../markdown/ga50_2023.md#ga50-p983) | Referred |
 | 2024 | RPR exception | structured_exception_tag | structured_provision_tag | medium | [Georgia Foothills: no record of appointment of commission to install (which later reported).](../rpr/exc/georgia-foothills__047.html) | satisfactory |
 | 2023 | RPR exception | structured_exception_tag | structured_provision_tag | medium | [Georgia Foothills: No record of appointment of commission to install (which later reported).](../rpr/exc/georgia-foothills__039.html) | raised |
 | 2023 | RPR exception | structured_exception_tag | structured_provision_tag | medium | [Iowa: ( BCO 21 4; RAO 16-3.e.5) – Stated differences not judged with the prescribed categories.](../rpr/exc/iowa__023.html) | raised |

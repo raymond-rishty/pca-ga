@@ -6,12 +6,12 @@
 |------|-------------|--------------|----------|------------|-------|-------------|
 | 1987 | Constitutional inquiry | structured_provision_tag | structured_provision_tag | medium | [Role of a presbytery evangelist in church discipline and membership actions](../inquiries/ga15_1987__ci04.md) | advice given |
 | 2023 | CCB advice | structured_provision_tag | structured_provision_tag | medium | [Change BCO 8-6 Regarding Chaplain Administration of Sacraments](../inquiries/ga50_2023__ci02.md) | in conflict; Adopted 8-0-0 |
-| 2023 | Overture | proposal_target | overture_action_target | high | [Amend BCO 8-6 Regarding Chaplain Administration of Sacraments](../markdown/ga50_2023.md#ga50-p980) |  |
-| 2014 | Overture | proposal_target | overture_action_target | high | [Amend BCO 8-6 Regarding Commissioning an Evangelist](../markdown/ga42_2014.md#ga42-p261) | Answered by reference |
-| 2013 | Overture | proposal_target | overture_action_target | high | [Amend BCO 8-6 Regarding Commissioning an Evangelist](../markdown/ga41_2013.md#ga41-p896) | Referred |
-| 1988 | Overture | explicit_citation | direct_text | high | [Transfer Cleveland County to Central Carolina Presbytery](../markdown/ga16_1988.md#ga16-p80) | Adopted (final) |
+| 2023 | Overture | multiple | multiple | high | [Amend BCO 8-6 Regarding Chaplain Administration of Sacraments](../markdown/ga50_2023.md#ga50-p980) | Referred |
+| 2016 | Overture | explicit_citation | direct_text | high | [Amend BCO 5-3 to Require Minute Reporting for Mission Church Governments](../markdown/ga44_2016.md#ga44-p640) | Approved & ratified (2017) |
+| 2014 | Overture | proposal_target | title_subject_reference | high | [Amend BCO 8-6 Regarding Commissioning an Evangelist](../markdown/ga42_2014.md#ga42-p261) | Answered by reference |
+| 2013 | Overture | proposal_target | title_subject_reference | high | [Amend BCO 8-6 Regarding Commissioning an Evangelist](../markdown/ga41_2013.md#ga41-p823) |  |
+| 2000 | Overture | explicit_citation | direct_text | high | [Authorize Formation of a Provisional Presbytery in Russia](../markdown/ga28_2000.md#ga28-p259) |  |
 | 1987 | Overture | explicit_citation | direct_text | high | [Amend BCO 58-4 to Clarify Session Discretion in Inviting Communicants to the Lord's Supper](../markdown/ga15_1987.md#ga15-p45) |  |
-| 1981 | Overture | proposal_target | overture_action_target | high | [Amend BCO 5-2 to Clarify Presbytery Oversight of Unorganized Congregations](../markdown/ga09_1981.md#ga09-p41) | Answered by reference |
 | 2025 | RPR exception | structured_exception_tag | structured_provision_tag | medium | [Arizona: Reason for evangelist calls not recorded. Call to “Definite work” and assurance to maintai](../rpr/exc/arizona__070.html) | raised |
 | 2025 | RPR exception | structured_exception_tag | structured_provision_tag | medium | [Korean Capital: There are no annual reports for over half the TEs serving out of bounds (including mission](../rpr/exc/korean-capital__113.html) | raised |
 | 2025 | RPR exception | structured_exception_tag | structured_provision_tag | medium | [Korean Southeastern: Evangelist title granted to TE in area with sufficient REs.](../rpr/exc/korean-southeastern__107.html) | raised |

@@ -5,8 +5,10 @@ Inquiries** (`SPEC-INQUIRIES.md`). An overture is a formal **proposal or request
 (or a committee) to the General Assembly — to amend the Constitution, answer a question, or take an
 action. This catalogue answers *"Has the PCA considered this before, and how was it answered?"*
 *(Status: BUILT — `18_structure.py`, `21_overture_titles.py`, `22_dispositions.py`, rendered to
-`index/OVERTURES.md` and the `overtures` DB table; the current reconciled catalogue has 1,537 entries
-across 51 of 52 volumes.)*
+`index/OVERTURES.md` and the `overtures` DB table; the latest Gradle reconciliation produces 1,529
+entries across 51 of 52 volumes. The active action-trail goal specifies 1,537 entries. The GA45
+review confirmed three further page-qualified duplicate/reprint exclusions; audit the remaining
+eight-record difference against source pages before claiming full coverage.)*
 
 ## 1. The model (what an overture record is)
 
@@ -86,8 +88,12 @@ workflow → `link` (join by BCO section), folded into the DB by `19_export`.
 every page **deep-linked** to its anchor in the volume markdown (`#ga<ord>-pN`, shared with the case
 index). The base `overtures` DB table contains `{vol, ga_ordinal, year, number, source, pdf_page,
 printed_page, context, title, pages, disposition, final_disposition, ratification_note}`. The
-reconciled `index/OVERTURES.md` is the working inventory for action-history research: currently
-1,537 entries. Counts in the base structure/DB and raw disposition extracts differ; do not use those
+reconciled `index/OVERTURES.md` is the working inventory for action-history research: the latest
+Gradle reconciliation yields 1,529 entries, while the active action-trail goal specifies 1,537. Earlier
+reconciliation notes recorded eleven duplicate/reprint or locator exclusions and five added
+source-page records; the GA45 review confirmed three further page-qualified duplicate/reprint
+exclusions. Audit the resulting eight-record difference; do not pad the catalogue with duplicated
+or locator-only material to meet an expected count. Counts in the base structure/DB and raw disposition extracts differ; do not use those
 raw counts as the research scope without reconciling them to the published catalogue. Individual
 pages may also have a curated action trail in `index/overture_events.jsonl`. It must join to one
 distinct overture record using a stable ID based on its volume, number, source page, and subject—not
@@ -135,12 +141,16 @@ BCO change ledger are finding aids and cross-checks, not the sole evidence for a
 
 Displayed action text must be a contiguous transcription of the cited minutes passage. Preserve
 wording, punctuation, numbering, and paragraph/list structure. Explicitly label a partial passage as
-an excerpt; show an ellipsis only where text has actually been omitted. For scanned minutes, compare
-the transcription against the PDF image and correct OCR only where the scan supports the correction.
-Never turn an editorial paraphrase into a quotation. If the action or outcome is established but its
-exact wording cannot be recovered, use a clearly marked unquoted editorial note and state the
-uncertainty. Give every event its own source link with Assembly, printed page, PDF page, and a direct
-minutes anchor; include a paragraph, recommendation, or item number where one is available.
+an excerpt; show an ellipsis only where text has actually been omitted. Use the repository's Markdown
+minutes as the routine working source for research and transcription; do not conduct a PDF review for
+every overture. Consult the PDF image only when the relevant Markdown passage is missing, corrupted,
+or materially ambiguous, or when sources conflict on an important point. When a PDF check is needed,
+compare only the disputed or unclear passage and correct OCR only where the image supports the
+correction. Never turn an editorial paraphrase into a quotation. If the action or outcome is
+established but its exact wording cannot be recovered, use a clearly marked unquoted editorial note
+and state the uncertainty. Give every event its own source link with Assembly, printed page, PDF page,
+and a direct minutes anchor; include a paragraph, recommendation, or item number where one is
+available.
 
 Track research completeness separately from event text, at the record level. Use `not_researched`,
 `in_progress`, `complete`, or `source_unavailable`; record which minutes/volumes were searched and
@@ -151,6 +161,17 @@ non-constitutional action does not require presbytery ratification).
 
 ## 7c. Research procedure and event data
 
+### Research order
+
+Build and refine the workflow against later Assemblies whose minutes present overture referrals,
+committee recommendations, floor actions, and ratification outcomes in a relatively systematic form.
+Do not use the earliest Assemblies as the initial model: their records may be difficult to reconcile
+and their numbering or reporting practices may be inconsistent. Keep those overtures in the inventory
+and return to them after the method is established. This is a sequencing choice, not a coverage
+exception. Mark early records `in_progress` until their evidence and remaining gaps have been
+reviewed under the same standard; never lower the evidence standard or infer missing actions to make
+an early trail look complete.
+
 For each overture:
 1. Resolve its distinct catalogue identity first. Use the originating page, source, and subject to
    distinguish records that reuse a number; assign a stable record ID using a source-page and
@@ -158,19 +179,26 @@ For each overture:
    `(volume, number)` alone.
 2. Read the submitted text and identify what proposal is before the Assembly. Record its original
    source page and any explicit amendment language.
-3. Search the volume's journal, referral context, relevant committee reports, CCB report, and floor
-   proceedings for each action. Distinguish recommendations from adopted actions; capture amendments
-   and the motion's disposition separately.
+3. Search the page-anchored candidate passages in `index/overture_action_candidates.jsonl` for the
+   originating and later volumes, then verify relevant passages in the Markdown minutes. The
+   candidate type and literal overture-number mentions are search hints only: they do not establish
+   that a passage belongs to a particular distinct overture. Also inspect the volume's journal,
+   referral context, relevant committee reports, CCB report, and floor proceedings where needed.
+   Distinguish recommendations from adopted actions; capture amendments and the motion's
+   disposition separately.
 4. For constitutional amendments, follow the exact approved wording into the presbytery process and
    later Assemblies until a documented terminal action. Use the Digest/ledger to locate likely
    passages, then verify every vote and final declaration in the minutes. Match by overture identity
    and text/BCO section, not BCO section alone. If no terminal action is located, record the last
    Assembly and sources checked and state "no later action located" rather than assuming the chain
-   ended.
+   ended. For a recent overture, do not infer that its ratification chain is finished after the first
+   subsequent Assembly; leave it `in_progress` until the presbytery interval and any final Assembly
+   declaration are supported by sources. The 53rd General Assembly met in June 2026, so GA52 amendment trails now require a specific follow-up review. The [Stated Clerk's August 2026 summary](https://www.pcahistory.org/pca/ga/actions/53rdGA_2026_Clerks_Summary.pdf) reports nine GA52 BCO amendments received final approval; use that summary as a finding aid, then verify each presbytery tally and Assembly action against the GA53 minutes before completing the trail. Do not leave every GA52 amendment `in_progress` solely because it is recent, and do not infer an individual outcome from the summary's omissions.
 5. Search for related overtures. Keep each proposal's actions in its own trail and add only a
    separately marked cross-reference when it materially explains the relationship.
-6. Transcribe each event from the primary source, label excerpts, and compare scanned-source text to
-   the PDF. Record the printed and PDF page numbers and verify the generated anchor.
+6. Transcribe each event from the primary source, label excerpts, and use the repository Markdown minutes
+   as the routine working text. Compare only a missing, corrupted, ambiguous, or conflicting passage with
+   the PDF image, as specified in §7b. Record the printed and PDF page numbers and verify the generated anchor.
 7. Check that the event order is chronological, each source link resolves, the final action agrees
    with the disposition record, and gaps or uncertainty are explicitly recorded.
 

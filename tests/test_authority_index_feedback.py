@@ -74,6 +74,7 @@ class AuthorityIndexFeedbackTests(unittest.TestCase):
             scripts.mkdir()
             for name in ("43_authority_index.py", "overture_catalogue.py", "provision_references.py"):
                 shutil.copy2(SCRIPTS / name, scripts / name)
+            (index / "OVERTURES.md").write_text("# Overture Catalogue\n", encoding="utf-8")
             (index / "inquiries_search.json").write_text(json.dumps([
                 {"type": "inquiry", "title": "Ordinary inquiry", "year": 2001,
                  "url": "inquiries/ordinary.md", "provisions": ["BCO 11-4"]},
@@ -93,6 +94,16 @@ class AuthorityIndexFeedbackTests(unittest.TestCase):
         with tempfile.TemporaryDirectory() as folder:
             index = Path(folder) / "index"
             index.mkdir()
+            (index / "OVERTURES.md").write_text(
+                "## 51st General Assembly (2024)  ·  `ga51_2024`\n\n"
+                "| Overture | Subject | Outcome | Source | Pages |\n"
+                "|---:|---|---|---|---|\n"
+                "| Overture 10 | Amend BCO 40-1 | Adopted (final) | North Presbytery | "
+                "[p.1277](../markdown/ga51_2024.md#ga51-p1277) |\n"
+                "| Overture 11 | Amend BCO 41-2 | Approved but not ratified | South Presbytery | "
+                "[p.1278](../markdown/ga51_2024.md#ga51-p1278) |\n",
+                encoding="utf-8",
+            )
             (index / "overture_dispositions.jsonl").write_text(
                 '{"vol":"ga51_2024","number":10,"pdf_page":1277,"final_disposition":"Adopted (final)"}\n'
                 '{"vol":"ga51_2024","number":11,"pdf_page":1278,"final_disposition":"Approved but not ratified"}\n',
@@ -116,13 +127,13 @@ class AuthorityIndexFeedbackTests(unittest.TestCase):
                 rows = authority.build_overture_rows()
             finally:
                 authority.IDX = old_index
-        adopted_target = [row for row in rows if row["record_id"].endswith(":10")
+        adopted_target = [row for row in rows if row["record_id"].endswith(":10:p1277")
                           and row["provision"] == "BCO 40-1" and row["relationship_kind"] == "proposal_target"]
-        adopted_body = [row for row in rows if row["record_id"].endswith(":10")
+        adopted_body = [row for row in rows if row["record_id"].endswith(":10:p1277")
                         and row["provision"] == "BCO 12-1" and row["relationship_kind"] == "explicit_citation"]
-        body_wcf = [row for row in rows if row["record_id"].endswith(":10")
+        body_wcf = [row for row in rows if row["record_id"].endswith(":10:p1277")
                     and row["provision"] == "WCF 21-5" and row["relationship_kind"] == "explicit_citation"]
-        nonadopted_target = [row for row in rows if row["record_id"].endswith(":11")
+        nonadopted_target = [row for row in rows if row["record_id"].endswith(":11:p1278")
                              and row["relationship_kind"] == "proposal_target"]
         self.assertEqual(len(adopted_target), 1)
         self.assertEqual(adopted_target[0]["reader_scope"], "primary")

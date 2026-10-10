@@ -1,10 +1,10 @@
 {
  "schema_version": 2,
- "catalogue_input_fingerprint": "686a5efa250f13bbcd831cab49ff94a9f4c03a06ff703dc1b7490ee1ee80cf54",
+ "catalogue_input_fingerprint": "714c47380795d8b13453b579195c748386cab575eb869374b306ccc33f750041",
  "provision_count": 1172,
- "relationship_count": 12479,
- "occurrence_count": 16161,
- "unmatched_relationship_count": 98,
+ "relationship_count": 12686,
+ "occurrence_count": 16467,
+ "unmatched_relationship_count": 94,
  "unmatched_relationships": [
   {
    "provision": "BCO 10-18",
@@ -20,19 +20,6 @@
    "reader_scope": "primary"
   },
   {
-   "provision": "BCO 11-36",
-   "record_type": "Overture",
-   "record_id": "overture:ga11_1983:18",
-   "title": "Divide Calvary Presbytery into Two Presbyteries",
-   "year": 1983,
-   "disposition": "Adopted (final)",
-   "url": "markdown/ga11_1983.md#ga11-p56",
-   "evidence_basis": "direct_text",
-   "relationship_kind": "explicit_citation",
-   "match_confidence": "high",
-   "reader_scope": "candidate"
-  },
-  {
    "provision": "BCO 13-19.b",
    "record_type": "RPR exception",
    "record_id": "rpr_exception:rpr/exc/korean-eastern__038.html",
@@ -44,32 +31,6 @@
    "relationship_kind": "structured_exception_tag",
    "match_confidence": "medium",
    "reader_scope": "contextual"
-  },
-  {
-   "provision": "BCO 14-46",
-   "record_type": "Overture",
-   "record_id": "overture:ga19_1991:5",
-   "title": "Amend BCO 15-4 to Permit General Assembly to Adjudicate Cases Directly",
-   "year": 1991,
-   "disposition": "",
-   "url": "markdown/ga19_1991.md#ga19-p163",
-   "evidence_basis": "direct_text",
-   "relationship_kind": "explicit_citation",
-   "match_confidence": "high",
-   "reader_scope": "candidate"
-  },
-  {
-   "provision": "BCO 14-46",
-   "record_type": "Overture",
-   "record_id": "overture:ga20_1992:30",
-   "title": "Amend BCO 15-4 to Permit GA to Adjudicate",
-   "year": 1992,
-   "disposition": "Answered in the negative",
-   "url": "markdown/ga20_1992.md#ga20-p116",
-   "evidence_basis": "direct_text",
-   "relationship_kind": "explicit_citation",
-   "match_confidence": "high",
-   "reader_scope": "candidate"
   },
   {
    "provision": "BCO 14-71",
@@ -165,7 +126,7 @@
   {
    "provision": "BCO 21-12",
    "record_type": "Overture",
-   "record_id": "overture:ga52_2025:30",
+   "record_id": "overture:ga52_2025:30:p1254",
    "title": "Amend BCO 8-4, 20-1, 21-1, 21-12, and 23-1 re Calling and Dissolution of TE Relationships for Needful Works",
    "year": 2025,
    "disposition": "Approved → sent to presbyteries; ratification not located",
@@ -215,27 +176,14 @@
    "reader_scope": "contextual"
   },
   {
-   "provision": "BCO 23-21",
-   "record_type": "Overture",
-   "record_id": "overture:ga51_2024:30",
-   "title": "Amend BCO 23-1 to Require Presbytery Exit Interview Before Dissolution of Call",
-   "year": 2024,
-   "disposition": "Answered in the negative",
-   "url": "markdown/ga51_2024.md#ga51-p1190",
-   "evidence_basis": "overture_action_target",
-   "relationship_kind": "proposal_target",
-   "match_confidence": "high",
-   "reader_scope": "candidate"
-  },
-  {
    "provision": "BCO 23-7",
    "record_type": "Overture",
-   "record_id": "overture:ga03_1975:5",
+   "record_id": "overture:ga03_1975:5:p35",
    "title": "Amend BCO 23-7 to Require Presbytery Approval for Non-Ordained Pastoral Supply",
    "year": 1975,
    "disposition": "Answered in the negative",
    "url": "markdown/ga03_1975.md#ga03-p35",
-   "evidence_basis": "overture_action_target",
+   "evidence_basis": "title_subject_reference",
    "relationship_kind": "proposal_target",
    "match_confidence": "high",
    "reader_scope": "candidate"
@@ -269,12 +217,12 @@
   {
    "provision": "BCO 24-11",
    "record_type": "Overture",
-   "record_id": "overture:ga45_2017:4",
+   "record_id": "overture:ga45_2017:4:p651",
    "title": "Add BCO 24-11 Specifying Males Only May Be Ordained as Elders or Deacons",
    "year": 2017,
    "disposition": "Answered in the negative",
    "url": "markdown/ga45_2017.md#ga45-p651",
-   "evidence_basis": "overture_action_target",
+   "evidence_basis": "title_subject_reference",
    "relationship_kind": "proposal_target",
    "match_confidence": "high",
    "reader_scope": "candidate"
@@ -282,12 +230,12 @@
   {
    "provision": "BCO 24-11",
    "record_type": "Overture",
-   "record_id": "overture:ga46_2018:9",
+   "record_id": "overture:ga46_2018:9:p686",
    "title": "Amend BCO 9-7 and Add BCO 24-11 Regarding Women Serving as Deaconesses",
    "year": 2018,
-   "disposition": "Approved → sent to presbyteries; ratification not located",
+   "disposition": "Answered in the negative",
    "url": "markdown/ga46_2018.md#ga46-p686",
-   "evidence_basis": "overture_action_target",
+   "evidence_basis": "title_subject_reference",
    "relationship_kind": "proposal_target",
    "match_confidence": "high",
    "reader_scope": "candidate"
@@ -308,25 +256,12 @@
   {
    "provision": "BCO 26-11",
    "record_type": "Overture",
-   "record_id": "overture:ga08_1980:15",
-   "title": "Add BCO 5-4 on calling pastors in new congregations",
-   "year": 1980,
-   "disposition": "Approved & ratified (1981)",
-   "url": "markdown/ga08_1980.md#ga08-p40",
-   "evidence_basis": "overture_action_target",
-   "relationship_kind": "proposal_target",
-   "match_confidence": "high",
-   "reader_scope": "primary"
-  },
-  {
-   "provision": "BCO 26-11",
-   "record_type": "Overture",
-   "record_id": "overture:ga08_1980:8",
+   "record_id": "overture:ga08_1980:8:p40",
    "title": "Amend BCO 26-11 on congregations withdrawing from the PCA",
    "year": 1980,
    "disposition": "Referred",
    "url": "markdown/ga08_1980.md#ga08-p40",
-   "evidence_basis": "overture_action_target",
+   "evidence_basis": "title_subject_reference",
    "relationship_kind": "proposal_target",
    "match_confidence": "high",
    "reader_scope": "candidate"
@@ -347,7 +282,7 @@
   {
    "provision": "BCO 27-11",
    "record_type": "Overture",
-   "record_id": "overture:ga14_1986:37",
+   "record_id": "overture:ga14_1986:37:p55",
    "title": "Amend BCO 42-4 and 43-2 to Extend Appeal and Complaint Filing Period to Sixty Days",
    "year": 1986,
    "disposition": "Approved & ratified (1987)",
@@ -386,12 +321,12 @@
   {
    "provision": "BCO 27-46",
    "record_type": "Overture",
-   "record_id": "overture:ga51_2024:4",
+   "record_id": "overture:ga51_2024:4:p1072",
    "title": "Establish Study Committee to Review BCO 27-46 Judicial Rules",
    "year": 2024,
    "disposition": "Answered in the negative",
    "url": "markdown/ga51_2024.md#ga51-p1072",
-   "evidence_basis": "overture_action_target",
+   "evidence_basis": "title_subject_reference",
    "relationship_kind": "proposal_target",
    "match_confidence": "high",
    "reader_scope": "candidate"
@@ -399,7 +334,7 @@
   {
    "provision": "BCO 3-7",
    "record_type": "Overture",
-   "record_id": "overture:ga16_1988:23",
+   "record_id": "overture:ga16_1988:23:p61",
    "title": "Reject Proposed BCO Amendments on Restructuring Higher and Lower Court Relations",
    "year": 1988,
    "disposition": "Answered in the negative",
@@ -412,23 +347,10 @@
   {
    "provision": "BCO 31-33",
    "record_type": "Overture",
-   "record_id": "overture:ga23_1995:7",
-   "title": "Consider Alternative Amendments to BCO 46-5 on Deleting Names from Rolls",
-   "year": 1995,
-   "disposition": "",
-   "url": "markdown/ga23_1995.md#ga23-p223",
-   "evidence_basis": "direct_text",
-   "relationship_kind": "explicit_citation",
-   "match_confidence": "high",
-   "reader_scope": "candidate"
-  },
-  {
-   "provision": "BCO 31-33",
-   "record_type": "Overture",
-   "record_id": "overture:ga24_1996:14",
-   "title": "Amend BCO: Strike 46-5 & Add New BCO 38-2 & 46-2",
+   "record_id": "overture:ga24_1996:14:p303",
+   "title": "Amend BCO by Striking 46-5 and Adding New BCO 38-2 and 46-2",
    "year": 1996,
-   "disposition": "Answered by reference",
+   "disposition": "",
    "url": "markdown/ga24_1996.md#ga24-p303",
    "evidence_basis": "direct_text",
    "relationship_kind": "explicit_citation",
@@ -438,10 +360,10 @@
   {
    "provision": "BCO 31-33",
    "record_type": "Overture",
-   "record_id": "overture:ga24_1996:27",
-   "title": "Delete BCO 46-5 & Amend BCO 38 and 46-2",
+   "record_id": "overture:ga24_1996:27:p297",
+   "title": "Delete BCO 46-5 and Amend BCO 38 and 46-2 on Church Membership",
    "year": 1996,
-   "disposition": "Approved & ratified (1997)",
+   "disposition": "",
    "url": "markdown/ga24_1996.md#ga24-p297",
    "evidence_basis": "direct_text",
    "relationship_kind": "explicit_citation",
@@ -451,11 +373,24 @@
   {
    "provision": "BCO 31-33",
    "record_type": "Overture",
-   "record_id": "overture:ga24_1996:6",
-   "title": "Amend BCO 46-5, 38-2, and 38-3 Regarding Church Discipline",
+   "record_id": "overture:ga24_1996:6:p298",
+   "title": "Amend BCO 46-5, 38-2 & 38-3 on Member Roll Removal & Discipline",
    "year": 1996,
-   "disposition": "Answered by reference",
+   "disposition": "",
    "url": "markdown/ga24_1996.md#ga24-p298",
+   "evidence_basis": "direct_text",
+   "relationship_kind": "explicit_citation",
+   "match_confidence": "high",
+   "reader_scope": "candidate"
+  },
+  {
+   "provision": "BCO 31-35",
+   "record_type": "Overture",
+   "record_id": "overture:ga51_2024:30:p1190",
+   "title": "Amend BCO 23-1 to Require Presbytery Exit Interview Before Dissolution of Call",
+   "year": 2024,
+   "disposition": "Answered in the negative",
+   "url": "markdown/ga51_2024.md#ga51-p1190",
    "evidence_basis": "direct_text",
    "relationship_kind": "explicit_citation",
    "match_confidence": "high",
@@ -475,6 +410,32 @@
    "reader_scope": "primary"
   },
   {
+   "provision": "BCO 31-38",
+   "record_type": "Overture",
+   "record_id": "overture:ga49_2022:25:p1351",
+   "title": "Amend BCO 15-1 and 15-3 to Clarify Role of Presbytery Commission",
+   "year": 2022,
+   "disposition": "Approved & ratified (2023)",
+   "url": "markdown/ga49_2022.md#ga49-p1351",
+   "evidence_basis": "direct_text",
+   "relationship_kind": "explicit_citation",
+   "match_confidence": "high",
+   "reader_scope": "candidate"
+  },
+  {
+   "provision": "BCO 31-38",
+   "record_type": "Overture",
+   "record_id": "overture:ga49_2022:27:p1356",
+   "title": "Amend BCO 15-1 and 15-3 to Clarify Role of Presbytery Commission",
+   "year": 2022,
+   "disposition": "",
+   "url": "markdown/ga49_2022.md#ga49-p1356",
+   "evidence_basis": "direct_text",
+   "relationship_kind": "explicit_citation",
+   "match_confidence": "high",
+   "reader_scope": "candidate"
+  },
+  {
    "provision": "BCO 32-21",
    "record_type": "CCB advice",
    "record_id": "ccb_advice:inquiries/ga41_2013__ci01.md",
@@ -486,19 +447,6 @@
    "relationship_kind": "structured_provision_tag",
    "match_confidence": "medium",
    "reader_scope": "contextual"
-  },
-  {
-   "provision": "BCO 32-21",
-   "record_type": "Overture",
-   "record_id": "overture:ga41_2013:4",
-   "title": "Amend BCO 32 by Adding Section 32-21 on Supporting Reasons for Appeal",
-   "year": 2013,
-   "disposition": "Answered in the negative",
-   "url": "markdown/ga41_2013.md#ga41-p92",
-   "evidence_basis": "overture_action_target",
-   "relationship_kind": "proposal_target",
-   "match_confidence": "high",
-   "reader_scope": "candidate"
   },
   {
    "provision": "BCO 32-30",
@@ -542,23 +490,23 @@
   {
    "provision": "BCO 33-5",
    "record_type": "Overture",
-   "record_id": "overture:ga52_2025:39",
+   "record_id": "overture:ga52_2025:39:p1280",
    "title": "Amend BCO 34-8 and Add BCO 33-5 to Clarify Process for Elevating Suspension to Deposition",
    "year": 2025,
    "disposition": "Answered by reference",
    "url": "markdown/ga52_2025.md#ga52-p1280",
-   "evidence_basis": "overture_action_target",
-   "relationship_kind": "proposal_target",
+   "evidence_basis": "direct_text",
+   "relationship_kind": "explicit_citation",
    "match_confidence": "high",
    "reader_scope": "candidate"
   },
   {
    "provision": "BCO 38-31",
    "record_type": "Overture",
-   "record_id": "overture:ga24_1996:6",
-   "title": "Amend BCO 46-5, 38-2, and 38-3 Regarding Church Discipline",
+   "record_id": "overture:ga24_1996:6:p298",
+   "title": "Amend BCO 46-5, 38-2 & 38-3 on Member Roll Removal & Discipline",
    "year": 1996,
-   "disposition": "Answered by reference",
+   "disposition": "",
    "url": "markdown/ga24_1996.md#ga24-p298",
    "evidence_basis": "direct_text",
    "relationship_kind": "explicit_citation",
@@ -577,6 +525,58 @@
    "relationship_kind": "explicit_citation",
    "match_confidence": "high",
    "reader_scope": "primary"
+  },
+  {
+   "provision": "BCO 39-4",
+   "record_type": "Overture",
+   "record_id": "overture:ga41_2013:19:p860",
+   "title": "Request Rehearing of SJC Case 2012-05",
+   "year": 2013,
+   "disposition": "Out of order",
+   "url": "markdown/ga41_2013.md#ga41-p860",
+   "evidence_basis": "direct_text",
+   "relationship_kind": "explicit_citation",
+   "match_confidence": "high",
+   "reader_scope": "candidate"
+  },
+  {
+   "provision": "BCO 39-4",
+   "record_type": "Overture",
+   "record_id": "overture:ga41_2013:20:p865",
+   "title": "Assume Original Jurisdiction per BCO 34-1 and Direct SJC to Hear Pacific Northwest Presbytery vs. Peter Leithart",
+   "year": 2013,
+   "disposition": "",
+   "url": "markdown/ga41_2013.md#ga41-p865",
+   "evidence_basis": "direct_text",
+   "relationship_kind": "explicit_citation",
+   "match_confidence": "high",
+   "reader_scope": "candidate"
+  },
+  {
+   "provision": "BCO 39-4",
+   "record_type": "Overture",
+   "record_id": "overture:ga41_2013:21:p867",
+   "title": "Assume Original Jurisdiction per BCO 34-1 and Direct SJC to Hear Pacific Northwest Presbytery vs. Peter Leithart",
+   "year": 2013,
+   "disposition": "",
+   "url": "markdown/ga41_2013.md#ga41-p867",
+   "evidence_basis": "direct_text",
+   "relationship_kind": "explicit_citation",
+   "match_confidence": "high",
+   "reader_scope": "candidate"
+  },
+  {
+   "provision": "BCO 39-4",
+   "record_type": "Overture",
+   "record_id": "overture:ga41_2013:22:p869",
+   "title": "Assume Original Jurisdiction per BCO 34-1 and Direct SJC to Hear Pacific Northwest Presbytery vs. Peter Leithart",
+   "year": 2013,
+   "disposition": "",
+   "url": "markdown/ga41_2013.md#ga41-p869",
+   "evidence_basis": "direct_text",
+   "relationship_kind": "explicit_citation",
+   "match_confidence": "high",
+   "reader_scope": "candidate"
   },
   {
    "provision": "BCO 40-43",
@@ -618,19 +618,6 @@
    "reader_scope": "contextual"
   },
   {
-   "provision": "BCO 42-13",
-   "record_type": "Overture",
-   "record_id": "overture:ga41_2013:5",
-   "title": "Amend BCO 42 by Adding 42-13 to Define Terms in Chapter 42",
-   "year": 2013,
-   "disposition": "Answered in the negative",
-   "url": "markdown/ga41_2013.md#ga41-p92",
-   "evidence_basis": "overture_action_target",
-   "relationship_kind": "proposal_target",
-   "match_confidence": "high",
-   "reader_scope": "candidate"
-  },
-  {
    "provision": "BCO 43-11",
    "record_type": "CCB advice",
    "record_id": "ccb_advice:inquiries/ga41_2013__ci03.md",
@@ -642,19 +629,6 @@
    "relationship_kind": "structured_provision_tag",
    "match_confidence": "medium",
    "reader_scope": "contextual"
-  },
-  {
-   "provision": "BCO 43-11",
-   "record_type": "Overture",
-   "record_id": "overture:ga41_2013:6",
-   "title": "Amend BCO 43 by Adding 43-11 to Define Terms in Chapter 43",
-   "year": 2013,
-   "disposition": "Answered in the negative",
-   "url": "markdown/ga41_2013.md#ga41-p92",
-   "evidence_basis": "overture_action_target",
-   "relationship_kind": "proposal_target",
-   "match_confidence": "high",
-   "reader_scope": "candidate"
   },
   {
    "provision": "BCO 44-3",
@@ -685,24 +659,11 @@
   {
    "provision": "BCO 46-51",
    "record_type": "Overture",
-   "record_id": "overture:ga24_1996:6",
-   "title": "Amend BCO 46-5, 38-2, and 38-3 Regarding Church Discipline",
+   "record_id": "overture:ga24_1996:6:p298",
+   "title": "Amend BCO 46-5, 38-2 & 38-3 on Member Roll Removal & Discipline",
    "year": 1996,
-   "disposition": "Answered by reference",
+   "disposition": "",
    "url": "markdown/ga24_1996.md#ga24-p298",
-   "evidence_basis": "direct_text",
-   "relationship_kind": "explicit_citation",
-   "match_confidence": "high",
-   "reader_scope": "candidate"
-  },
-  {
-   "provision": "BCO 46-9",
-   "record_type": "Overture",
-   "record_id": "overture:ga21_1993:14",
-   "title": "Amend BCO 38-3 to Clarify Discipline of Members Joining Other Churches",
-   "year": 1993,
-   "disposition": "Referred",
-   "url": "markdown/ga21_1993.md#ga21-p128",
    "evidence_basis": "direct_text",
    "relationship_kind": "explicit_citation",
    "match_confidence": "high",
@@ -724,7 +685,7 @@
   {
    "provision": "BCO 5-11",
    "record_type": "Overture",
-   "record_id": "overture:ga17_1989:42",
+   "record_id": "overture:ga17_1989:42:p42",
    "title": "Fund Ethnic Ministries",
    "year": 1989,
    "disposition": "Answered in the negative",
@@ -733,19 +694,6 @@
    "relationship_kind": "explicit_citation",
    "match_confidence": "high",
    "reader_scope": "candidate"
-  },
-  {
-   "provision": "BCO 5-11",
-   "record_type": "Overture",
-   "record_id": "overture:ga38_2010:15",
-   "title": "Revise BCO 5-2 Through 5-11 and Add New BCO 5-5 Regarding Church Organization",
-   "year": 2010,
-   "disposition": "Approved & ratified (2011)",
-   "url": "markdown/ga38_2010.md#ga38-p370",
-   "evidence_basis": "overture_action_target",
-   "relationship_kind": "proposal_target",
-   "match_confidence": "high",
-   "reader_scope": "primary"
   },
   {
    "provision": "BCO 5-11.3",
@@ -800,14 +748,40 @@
    "reader_scope": "contextual"
   },
   {
+   "provision": "BCO 53-7",
+   "record_type": "Overture",
+   "record_id": "overture:ga50_2023:15:p1010",
+   "title": "Amend BCO 53 to Disallow Women from Preaching or Teaching in Worship",
+   "year": 2023,
+   "disposition": "Referred",
+   "url": "markdown/ga50_2023.md#ga50-p1010",
+   "evidence_basis": "direct_text",
+   "relationship_kind": "explicit_citation",
+   "match_confidence": "high",
+   "reader_scope": "candidate"
+  },
+  {
+   "provision": "BCO 53-7",
+   "record_type": "Overture",
+   "record_id": "overture:ga51_2024:29:p1189",
+   "title": "Amend BCO 53 to Prohibit Women from Preaching in Chapel and Campus Ministry Services",
+   "year": 2024,
+   "disposition": "Answered by reference",
+   "url": "markdown/ga51_2024.md#ga51-p1189",
+   "evidence_basis": "direct_text",
+   "relationship_kind": "explicit_citation",
+   "match_confidence": "high",
+   "reader_scope": "candidate"
+  },
+  {
    "provision": "BCO 55-2",
    "record_type": "Overture",
-   "record_id": "overture:ga40_2012:35",
+   "record_id": "overture:ga40_2012:35:p742",
    "title": "Amend BCO 55-1 & Add BCO 55-2 Distinguishing Confession and Catechizing",
    "year": 2012,
-   "disposition": "Answered in the negative",
-   "url": "markdown/ga40_2012.md#ga40-p91",
-   "evidence_basis": "overture_action_target",
+   "disposition": "",
+   "url": "markdown/ga40_2012.md#ga40-p742",
+   "evidence_basis": "title_subject_reference",
    "relationship_kind": "proposal_target",
    "match_confidence": "high",
    "reader_scope": "candidate"
@@ -815,12 +789,12 @@
   {
    "provision": "BCO 56-58",
    "record_type": "Overture",
-   "record_id": "overture:ga13_1985:40",
+   "record_id": "overture:ga13_1985:40:p62",
    "title": "Remove Constitutional Force from BCO 56-58 Directory for Worship Chapters",
    "year": 1985,
    "disposition": "",
    "url": "markdown/ga13_1985.md#ga13-p62",
-   "evidence_basis": "overture_action_target",
+   "evidence_basis": "title_subject_reference",
    "relationship_kind": "proposal_target",
    "match_confidence": "high",
    "reader_scope": "candidate"
@@ -828,7 +802,7 @@
   {
    "provision": "BCO 56-58",
    "record_type": "Overture",
-   "record_id": "overture:ga13_1985:7",
+   "record_id": "overture:ga13_1985:7:p47",
    "title": "Remove Constitutional Force from BCO 56-58 Worship Directory Chapters",
    "year": 1985,
    "disposition": "Answered by reference",
@@ -841,24 +815,24 @@
   {
    "provision": "BCO 56-58",
    "record_type": "Overture",
-   "record_id": "overture:ga14_1986:7",
-   "title": "Require Maximum Budget Amounts for All Requests for GA Study Committees",
-   "year": 1986,
-   "disposition": "",
-   "url": "markdown/ga14_1986.md#ga14-p69",
+   "record_id": "overture:ga50_2023:5:p980",
+   "title": "Amend BCO 8-6 Regarding Chaplain Administration of Sacraments",
+   "year": 2023,
+   "disposition": "Referred",
+   "url": "markdown/ga50_2023.md#ga50-p980",
    "evidence_basis": "direct_text",
    "relationship_kind": "explicit_citation",
    "match_confidence": "high",
    "reader_scope": "candidate"
   },
   {
-   "provision": "BCO 56-58",
+   "provision": "BCO 56-6",
    "record_type": "Overture",
-   "record_id": "overture:ga15_1987:7",
-   "title": "Amend RAO to Establish Standing Judicial Commissions Between General Assembly Meetings",
-   "year": 1987,
+   "record_id": "overture:ga47_2019:33:p672",
+   "title": "Amend BCO 57-5 to Add a Trinitarian Vow for Church Membership",
+   "year": 2019,
    "disposition": "Answered in the negative",
-   "url": "markdown/ga15_1987.md#ga15-p63",
+   "url": "markdown/ga47_2019.md#ga47-p672",
    "evidence_basis": "direct_text",
    "relationship_kind": "explicit_citation",
    "match_confidence": "high",
@@ -867,7 +841,7 @@
   {
    "provision": "BCO 57-7.5",
    "record_type": "Overture",
-   "record_id": "overture:ga14_1986:24",
+   "record_id": "overture:ga14_1986:24:p52",
    "title": "Amend BCO 57-5 Membership Vow Regarding Scripture and Church Government",
    "year": 1986,
    "disposition": "Answered by reference",
@@ -880,37 +854,11 @@
   {
    "provision": "BCO 57-7.5",
    "record_type": "Overture",
-   "record_id": "overture:ga15_1987:24",
-   "title": "Adopt Mission Support Policy and Distribute It to Presbyteries",
+   "record_id": "overture:ga15_1987:24:p66",
+   "title": "Amend BCO 57-5.5 to Clarify the Fifth Church Membership Vow",
    "year": 1987,
    "disposition": "",
    "url": "markdown/ga15_1987.md#ga15-p66",
-   "evidence_basis": "direct_text",
-   "relationship_kind": "explicit_citation",
-   "match_confidence": "high",
-   "reader_scope": "candidate"
-  },
-  {
-   "provision": "BCO 57-7.5",
-   "record_type": "Overture",
-   "record_id": "overture:ga16_1988:24",
-   "title": "Prohibit GA Committees and Members from Using Hotels That Provide Pornographic Films",
-   "year": 1988,
-   "disposition": "",
-   "url": "markdown/ga16_1988.md#ga16-p71",
-   "evidence_basis": "direct_text",
-   "relationship_kind": "explicit_citation",
-   "match_confidence": "high",
-   "reader_scope": "candidate"
-  },
-  {
-   "provision": "BCO 6-416",
-   "record_type": "Overture",
-   "record_id": "overture:ga52_2025:22",
-   "title": "Amend BCO 20-3, 24-3, and 25-1 to Permit Congregational Minimum Voting Age",
-   "year": 2025,
-   "disposition": "Answered in the negative",
-   "url": "markdown/ga52_2025.md#ga52-p1208",
    "evidence_basis": "direct_text",
    "relationship_kind": "explicit_citation",
    "match_confidence": "high",
@@ -958,12 +906,12 @@
   {
    "provision": "BCO 6-5",
    "record_type": "Overture",
-   "record_id": "overture:ga12_1984:46",
+   "record_id": "overture:ga12_1984:46:p61",
    "title": "Amend BCO 6-5, 20-3, 24-3, and 25-1 to Allow Congregations to Set a Minimum Voting Age",
    "year": 1984,
    "disposition": "",
    "url": "markdown/ga12_1984.md#ga12-p61",
-   "evidence_basis": "overture_action_target",
+   "evidence_basis": "title_subject_reference",
    "relationship_kind": "proposal_target",
    "match_confidence": "high",
    "reader_scope": "candidate"
@@ -971,13 +919,13 @@
   {
    "provision": "BCO 6-5",
    "record_type": "Overture",
-   "record_id": "overture:ga49_2022:30",
+   "record_id": "overture:ga49_2022:30:p1362",
    "title": "Amend BCO 6-5, 20-3, 24-3, and 25-1 Allowing Congregations to Establish Voting Age Restrictions",
    "year": 2022,
-   "disposition": "",
+   "disposition": "Referred",
    "url": "markdown/ga49_2022.md#ga49-p1362",
-   "evidence_basis": "overture_action_target",
-   "relationship_kind": "proposal_target",
+   "evidence_basis": "direct_text",
+   "relationship_kind": "explicit_citation",
    "match_confidence": "high",
    "reader_scope": "candidate"
   },
@@ -995,27 +943,14 @@
    "reader_scope": "primary"
   },
   {
-   "provision": "BCO 6-7",
-   "record_type": "Overture",
-   "record_id": "overture:ga03_1975:2",
-   "title": "Affirm Session Authority Over Guest Preachers per BCO 6-7",
-   "year": 1975,
-   "disposition": "Answered by reference",
-   "url": "markdown/ga03_1975.md#ga03-p42",
-   "evidence_basis": "overture_action_target",
-   "relationship_kind": "proposal_target",
-   "match_confidence": "high",
-   "reader_scope": "candidate"
-  },
-  {
    "provision": "BCO 60-63",
    "record_type": "Overture",
-   "record_id": "overture:ga52_2025:5",
+   "record_id": "overture:ga52_2025:5:p1172",
    "title": "Grant BCO 60-63 Full Constitutional Status",
    "year": 2025,
    "disposition": "Answered by reference",
    "url": "markdown/ga52_2025.md#ga52-p1172",
-   "evidence_basis": "overture_action_target",
+   "evidence_basis": "title_subject_reference",
    "relationship_kind": "proposal_target",
    "match_confidence": "high",
    "reader_scope": "candidate"
@@ -1023,11 +958,11 @@
   {
    "provision": "BCO 7-4",
    "record_type": "Overture",
-   "record_id": "overture:ga23_1995:15",
+   "record_id": "overture:ga23_1995:15:p240",
    "title": "Amend BCO 7-4 to Confine Doctrinal Requirements to Westminster Standards",
    "year": 1995,
-   "disposition": "Answered in the negative",
-   "url": "markdown/ga23_1995.md#ga23-p50",
+   "disposition": "",
+   "url": "markdown/ga23_1995.md#ga23-p240",
    "evidence_basis": "direct_text",
    "relationship_kind": "explicit_citation",
    "match_confidence": "high",
@@ -1036,41 +971,54 @@
   {
    "provision": "BCO 7-4",
    "record_type": "Overture",
-   "record_id": "overture:ga48_2021:16",
-   "title": "Amend BCO 7 to Disqualify Self-Identified Same-Sex Attracted Men from Ordination",
-   "year": 2021,
-   "disposition": "Answered by reference",
-   "url": "markdown/ga48_2021.md#ga48-p999",
-   "evidence_basis": "overture_action_target",
-   "relationship_kind": "proposal_target",
+   "record_id": "overture:ga49_2022:15:p1329",
+   "title": "Amend BCO 7 to Disqualify from Office Men Identifying as Homosexual",
+   "year": 2022,
+   "disposition": "Answered by reference to Overture 29",
+   "url": "markdown/ga49_2022.md#ga49-p1329",
+   "evidence_basis": "direct_text",
+   "relationship_kind": "explicit_citation",
    "match_confidence": "high",
    "reader_scope": "candidate"
   },
   {
    "provision": "BCO 7-4",
    "record_type": "Overture",
-   "record_id": "overture:ga49_2022:15",
-   "title": "Amend BCO 7-4 to Disqualify Men Describing Themselves as Homosexual",
-   "year": 2022,
+   "record_id": "overture:ga50_2023:16:p1012",
+   "title": "Amend BCO 7 to Codify Biblical Standard for Church Officers Regarding Self-Description by Biblical Sins",
+   "year": 2023,
    "disposition": "Answered by reference",
-   "url": "markdown/ga49_2022.md#ga49-p128",
-   "evidence_basis": "overture_action_target",
-   "relationship_kind": "proposal_target",
+   "url": "markdown/ga50_2023.md#ga50-p1012",
+   "evidence_basis": "direct_text",
+   "relationship_kind": "explicit_citation",
    "match_confidence": "high",
    "reader_scope": "candidate"
   },
   {
-   "provision": "BCO 8-11",
+   "provision": "BCO 7-4",
    "record_type": "Overture",
-   "record_id": "overture:ga07_1979:5",
-   "title": "Amend RAO 8-11 and 10-2 to Allow Assembly to Waive Reading of Reports",
-   "year": 1979,
-   "disposition": "Adopted (final)",
-   "url": "markdown/ga07_1979.md#ga07-p29",
-   "evidence_basis": "overture_action_target",
-   "relationship_kind": "proposal_target",
+   "record_id": "overture:ga50_2023:17:p1013",
+   "title": "Amend BCO 7 to Disqualify from Office Men Describing Personhood or Identity by a Sin Struggle",
+   "year": 2023,
+   "disposition": "Answered by reference",
+   "url": "markdown/ga50_2023.md#ga50-p1013",
+   "evidence_basis": "direct_text",
+   "relationship_kind": "explicit_citation",
    "match_confidence": "high",
-   "reader_scope": "primary"
+   "reader_scope": "candidate"
+  },
+  {
+   "provision": "BCO 7-4",
+   "record_type": "Overture",
+   "record_id": "overture:ga50_2023:9:p991",
+   "title": "Amend BCO 7 to Disqualify Officers Who Deviate from Biblical Human Sexuality",
+   "year": 2023,
+   "disposition": "Answered by reference",
+   "url": "markdown/ga50_2023.md#ga50-p991",
+   "evidence_basis": "direct_text",
+   "relationship_kind": "explicit_citation",
+   "match_confidence": "high",
+   "reader_scope": "candidate"
   },
   {
    "provision": "BCO 87",
@@ -1114,12 +1062,12 @@
   {
    "provision": "BCO 9-8",
    "record_type": "Overture",
-   "record_id": "overture:ga38_2010:10",
+   "record_id": "overture:ga38_2010:10:p394",
    "title": "Amend BCO 1-4, 4-2, 5-10, 7-2, 9-2, 9-7 and Add BCO 9-8 for Unordained Diaconal Ministry",
    "year": 2010,
    "disposition": "Answered in the negative",
    "url": "markdown/ga38_2010.md#ga38-p394",
-   "evidence_basis": "overture_action_target",
+   "evidence_basis": "title_subject_reference",
    "relationship_kind": "proposal_target",
    "match_confidence": "high",
    "reader_scope": "candidate"
@@ -1257,7 +1205,7 @@
   {
    "provision": "WCF 31-34",
    "record_type": "Overture",
-   "record_id": "overture:ga32_2004:9",
+   "record_id": "overture:ga32_2004:9:p168",
    "title": "Amend BCO Preface, Chapter 16, and 21-4 Regarding Stricter Doctrinal Subscription",
    "year": 2004,
    "disposition": "Answered in the negative",
@@ -1285,14 +1233,14 @@
   "CCB advice": 549,
   "Constitutional inquiry": 437,
   "Judicial case": 3264,
-  "Overture": 1342,
+  "Overture": 1549,
   "RPR exception": 6887
  },
  "reader_included_by_type": {
   "CCB advice": 549,
   "Constitutional inquiry": 437,
   "Judicial case": 3264,
-  "Overture": 1342,
+  "Overture": 1549,
   "RPR exception": 6887
  },
  "reader_scope_by_type": {
@@ -1306,8 +1254,8 @@
    "primary": 3264
   },
   "Overture": {
-   "candidate": 1246,
-   "primary": 96
+   "candidate": 1491,
+   "primary": 58
   },
   "RPR exception": {
    "candidate": 136,
@@ -1318,27 +1266,26 @@
   "relationship_kind": {
    "body_mention": 203,
    "exception_target": 224,
-   "explicit_citation": 3466,
-   "proposal_target": 645,
+   "explicit_citation": 3908,
+   "proposal_target": 468,
    "structured_case_reference": 820,
    "structured_exception_tag": 6711,
    "structured_provision_tag": 986
   },
   "evidence_basis": {
-   "direct_text": 3867,
-   "overture_action_target": 645,
+   "direct_text": 4309,
    "structured_case_metadata": 820,
    "structured_provision_tag": 7697,
-   "title_subject_reference": 15
+   "title_subject_reference": 468
   },
   "match_confidence": {
-   "high": 4278,
+   "high": 4485,
    "medium": 8201
   },
   "reader_scope": {
-   "candidate": 1382,
+   "candidate": 1627,
    "contextual": 7300,
-   "primary": 3797
+   "primary": 3759
   },
   "match_method": {
    "case_provision_index:case_markdown_text": 940,
@@ -1351,11 +1298,9 @@
    "case_provision_index:cases.jsonl:bco_cited_as,judicial_cases.jsonl:bco_provisions": 3,
    "case_provision_index:cases.jsonl:bco_cited_current": 9,
    "case_provision_index:judicial_cases.jsonl:bco_provisions": 66,
-   "disposition_bco": 153,
-   "disposition_bco,title_subject": 496,
    "index/inquiries_search.json:provisions": 986,
    "index/rpr_search.json:provisions": 6711,
-   "overture_body_explicit_reference_match": 931,
+   "overture_body_explicit_reference_match": 1373,
    "rpr_markdown_line:100": 1,
    "rpr_markdown_line:104": 1,
    "rpr_markdown_line:105": 2,
@@ -1443,34 +1388,33 @@
    "rpr_markdown_line:97": 1,
    "rpr_markdown_line:98": 2,
    "rpr_markdown_line:99": 6,
-   "title_subject": 15
+   "title_subject": 468
   }
  },
  "occurrence_dimensions": {
   "relationship_kind": {
    "body_mention": 366,
    "exception_target": 284,
-   "explicit_citation": 6262,
-   "proposal_target": 711,
+   "explicit_citation": 6811,
+   "proposal_target": 468,
    "structured_case_reference": 841,
    "structured_exception_tag": 6711,
    "structured_provision_tag": 986
   },
   "evidence_basis": {
-   "direct_text": 6912,
-   "overture_action_target": 696,
+   "direct_text": 7461,
    "structured_case_metadata": 841,
    "structured_provision_tag": 7697,
-   "title_subject_reference": 15
+   "title_subject_reference": 468
   },
   "match_confidence": {
-   "high": 7623,
+   "high": 7929,
    "medium": 8538
   },
   "reader_scope": {
-   "candidate": 2409,
+   "candidate": 2761,
    "contextual": 7544,
-   "primary": 6208
+   "primary": 6162
   },
   "match_method": {
    "case_provision_index:case_markdown_text": 1407,
@@ -1483,11 +1427,9 @@
    "case_provision_index:cases.jsonl:bco_cited_as,judicial_cases.jsonl:bco_provisions": 3,
    "case_provision_index:cases.jsonl:bco_cited_current": 9,
    "case_provision_index:judicial_cases.jsonl:bco_provisions": 66,
-   "disposition_bco": 153,
-   "disposition_bco,title_subject": 543,
    "index/inquiries_search.json:provisions": 986,
    "index/rpr_search.json:provisions": 6711,
-   "overture_body_explicit_reference_match": 1436,
+   "overture_body_explicit_reference_match": 1985,
    "rpr_markdown_line:100": 1,
    "rpr_markdown_line:104": 1,
    "rpr_markdown_line:105": 2,
@@ -1575,14 +1517,14 @@
    "rpr_markdown_line:97": 1,
    "rpr_markdown_line:98": 2,
    "rpr_markdown_line:99": 6,
-   "title_subject": 15
+   "title_subject": 468
   }
  },
  "unmatched_by_type": {
   "CCB advice": 14,
   "Constitutional inquiry": 4,
   "Judicial case": 16,
-  "Overture": 45,
+  "Overture": 41,
   "RPR exception": 19
  },
  "machine_relevance_roles": {},
@@ -1590,11 +1532,11 @@
   "status": "stale",
   "file": "index/provision_link_adjudications.jsonl",
   "total": 11481,
-  "expected": 12479,
+  "expected": 12686,
   "applied": 0,
   "stale": 11481,
   "unmatched": 0,
-  "unassessed": 12479
+  "unassessed": 12686
  },
  "stored_advisory_assessments": [
   {

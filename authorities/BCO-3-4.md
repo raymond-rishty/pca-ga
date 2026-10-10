@@ -12,8 +12,7 @@
 | 1994 | Judicial case | explicit_citation | direct_text | high | [Smith v. Northeast Presbytery](../cases/ga22_1994__1993-01.md) | denied |
 | 1991 | Judicial case | structured_case_reference | structured_case_metadata | medium | [Chappell v. Eastern Carolina Presbytery](../cases/ga19_1991__1990-04.md) | sustained |
 | 1991 | Judicial case | structured_case_reference | structured_case_metadata | medium | [Marshall v. Eastern Carolina Presbytery](../cases/ga19_1991__1990-04a.md) | sustained |
-| 1993 | Overture | multiple | multiple | high | [Amend BCO 3-4 Regarding the Constitution of the State](../markdown/ga21_1993.md#ga21-p122) | Answered in the negative |
-| 1985 | Overture | proposal_target | overture_action_target | high | [Amend BCO 3-4 to Affirm the Church's Call to Civil Government Toward Its God-Ordained Purpose](../markdown/ga13_1985.md#ga13-p46) |  |
+| 1985 | Overture | proposal_target | title_subject_reference | high | [Amend BCO 3-4 to Affirm the Church's Call to Civil Government Toward Its God-Ordained Purpose](../markdown/ga13_1985.md#ga13-p46) |  |
 
 ---
 *[← Authority Index](../index/AUTHORITY-BY-PROVISION.md)*

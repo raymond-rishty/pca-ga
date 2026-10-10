@@ -81,7 +81,8 @@ def checkPython = registerCommand('checkPythonDependencies', [pythonCommand, '-c
 
 def regenerateOverturePages = registerCommand(
     'regenerateOverturePages', [pythonCommand, 'scripts/37_overture_pages.py', '.'],
-    [generatorScripts, file('scripts/37_overture_pages.py'), file('index/overture_bodies.jsonl'),
+    [generatorScripts, file('scripts/37_overture_pages.py'), file('index/OVERTURES.md'),
+     file('index/overture_action_research.jsonl'), file('index/overture_bodies.jsonl'),
      file('index/overture_titles.jsonl'), file('index/overture_dispositions.jsonl'),
      file('index/overture_events.jsonl')],
     [file('overtures'), file('index/overture_pages_map.json')]
@@ -91,6 +92,19 @@ def prepareOvertureActionResearch = registerCommand(
     [file('scripts/43_overture_action_inventory.py'), file('index/OVERTURES.md'),
      file('index/overture_events.jsonl'), file('index/overture_action_research.jsonl')],
     [file('index/overture_action_research.jsonl')]
+)
+def extractOvertureActionCandidates = registerCommand(
+    'extractOvertureActionCandidates', [pythonCommand, 'scripts/44_overture_action_candidates.py', '.'],
+    [file('scripts/44_overture_action_candidates.py'), file('index/overture_action_candidate_reviews.jsonl'),
+     fileTree('markdown') { include 'ga*_*.md' }],
+    [file('index/overture_action_candidates.jsonl')]
+)
+regenerateOverturePages.configure { dependsOn prepareOvertureActionResearch }
+def extractOvertureBodies = registerCommand(
+    'extractOvertureBodies', [pythonCommand, 'scripts/21_overture_titles.py', 'extract', '.'],
+    [file('scripts/21_overture_titles.py'), file('index/overture_body_ends.json'),
+     fileTree('markdown') { include 'ga*.md' }],
+    [file('index/overture_bodies.jsonl')]
 )
 def regenerateOvertures = tasks.register('regenerateOvertures') {
     group = 'site build'
@@ -106,6 +120,16 @@ def reconcileOvertureCatalogue = registerCommand(
      file('index/overture_bodies.jsonl'), file('index/overture_dispositions.jsonl')],
     [file('index/OVERTURES.md')]
 )
+prepareOvertureActionResearch.configure { dependsOn reconcileOvertureCatalogue }
+prepareOvertureActionResearch.configure { dependsOn extractOvertureActionCandidates }
+
+def linkOvertureCatalogue = registerCommand(
+    'linkOvertureCatalogue', [pythonCommand, 'scripts/42_link_overture_catalogue.py', '.'],
+    [generatorScripts, file('scripts/42_link_overture_catalogue.py'), file('index/OVERTURES.md'),
+     file('index/overture_pages_map.json')],
+    [file('index/OVERTURES.md')]
+)
+linkOvertureCatalogue.configure { dependsOn reconcileOvertureCatalogue, regenerateOvertures }
 
 def reconcileCases = registerCommand(
     'reconcileCaseArtifacts', [pythonCommand, 'scripts/27_case_index_reconcile.py'],
@@ -114,6 +138,7 @@ def reconcileCases = registerCommand(
 )
 reconcileCases.configure { dependsOn checkPython }
 if (providers.gradleProperty('regenerateOvertures').isPresent()) {
+    reconcileOvertureCatalogue.configure { dependsOn extractOvertureBodies }
     reconcileCases.configure { dependsOn regenerateOvertures }
 }
 
@@ -162,6 +187,8 @@ def provisionCatalogue = registerCommand(
 )
 provisionCatalogue.configure { dependsOn caseProvisionIndex }
 provisionCatalogue.configure { dependsOn inquirySearchIndex }
+provisionCatalogue.configure { dependsOn reconcileOvertureCatalogue }
+provisionCatalogue.configure { dependsOn regenerateOverturePages }
 
 def authorityIndex = registerCommand(
     'projectAuthorityIndex', [pythonCommand, 'scripts/43_authority_index.py', '.'],
@@ -185,6 +212,7 @@ def searchIndex = registerCommand(
 )
 searchIndex.configure { dependsOn authorityIndexAudit }
 searchIndex.configure { dependsOn reconcileOvertureCatalogue }
+searchIndex.configure { dependsOn linkOvertureCatalogue }
 
 def bcoManifests = registerCommand(
     'generateBcoManifests', [pythonCommand, 'scripts/45_bco_manifests.py', '.', '--out', 'api/bco'],
@@ -230,6 +258,9 @@ def buildSourceRegistry = registerCommand(
     [generatorScripts, sourceRegistryInputs],
     [file('index/source_registry.json'), file('index/dedicated_pdf_inventory.json')], true
 )
+if (providers.gradleProperty('regenerateOvertures').isPresent()) {
+    buildSourceRegistry.configure { dependsOn extractOvertureBodies }
+}
 inquiryPages.configure { dependsOn buildSourceRegistry }
 
 // generateLlmPack already reaches the canonical source-registry task through
@@ -318,7 +349,7 @@ validateFootnotes.configure { dependsOn addExtractedMetadata }
 tasks.register('prepareData') {
     group = 'site build'
     description = 'Regenerate derived repository data and run the data checks.'
-    dependsOn validateFootnotes, reconcileOvertureCatalogue
+    dependsOn validateFootnotes, reconcileOvertureCatalogue, linkOvertureCatalogue
 }
 tasks.named('prepareData').configure { dependsOn 'rebuildSearchIndex' }
 

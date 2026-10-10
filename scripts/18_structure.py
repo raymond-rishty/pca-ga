@@ -78,7 +78,7 @@ def _section(ln):
 # requirement skips prose mentions like "Overture 12 of North Georgia ... was referred".
 _OVERTURE = re.compile(
     r"^[#*_\s]*OVERTURE\s+(\d+)\b(?:\s*,[\s,A-Z]*?[A-Z]\.?)?\**"
-    r"(?:\s*[.:]\s*(?:from\s+)?|\s+from\s+)(.*?)\**\s*$", re.I)  # ,A,B... = lettered multi-part overture
+    r"(?:\s*[.:]\s*(?:from\s+)?|\s+from\s+|,\s*from\s+)(.*?)\**\s*$", re.I)  # comma-form source headings (e.g. OVERTURE 9, from ...)
 
 
 def _bad_src(s):
@@ -86,6 +86,8 @@ def _bad_src(s):
     # index/TOC lines, page-reference stubs, signatures, and committee-response cross-references.
     s = (s or "").strip()
     if not s:
+        return True
+    if re.fullmatch(r"attachment", s, re.I):                       # supporting document, not a submitted overture
         return True
     if re.search(r"\.{3,}", s):                                   # dot leaders => index/TOC line
         return True

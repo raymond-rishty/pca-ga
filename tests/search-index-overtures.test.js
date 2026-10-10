@@ -28,18 +28,23 @@ test('search-index build retains linked overtures', () => {
     assert.equal(result.status, 0, result.stderr || result.stdout);
     const records = JSON.parse(fs.readFileSync(path.join(temp, 'app/search_index.json'), 'utf8'));
     const overtures = records.filter((record) => record.type === 'Overture');
-    assert.ok(overtures.length > 1900, `expected overtures in the search index, found ${overtures.length}`);
+    const catalogue = fs.readFileSync(path.join(root, 'index/OVERTURES.md'), 'utf8');
+    const catalogueRows = catalogue.split(/\r?\n/).filter((line) =>
+      /^\|\s*(?:\[\d+\]\([^)]+\)|\d+)\s*\|/.test(line));
+    assert.equal(overtures.length, catalogueRows.length,
+      `expected one search entry per reconciled catalogue record (${catalogueRows.length}), found ${overtures.length}`);
     assert.deepEqual(overtures[0], {
       type: 'Overture',
-      title: 'Leave Presbytery Boundaries Fluid Through 1974 and Consult Before Changes',
-      sub: 'Overture 1 · LF Coast Presbytery',
-      identifier: 'Overture 1',
-      identifiers: ['Overture 1'],
-      topics: ['Leave Presbytery Boundaries Fluid Through 1974 and Consult Before Changes'],
+      record_id: 'overture:ga01_1973:2:p23',
+      title: 'Appoint Committee to Explore and Establish Reformed Ministerial Training',
+      sub: 'Overture 2 · First Presbyterian Church, Belzoni, Mississippi',
+      identifier: 'Overture 2',
+      identifiers: ['Overture 2'],
+      topics: ['Appoint Committee to Explore and Establish Reformed Ministerial Training'],
       provisions: [],
       year: 1973,
-      disposition: 'Adopted (final)',
-      url: 'markdown/ga01_1973.md#ga01-p19',
+      disposition: '',
+      url: 'markdown/ga01_1973.md#ga01-p23',
     });
   } finally {
     fs.rmSync(temp, { recursive: true, force: true });

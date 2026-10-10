@@ -214,6 +214,16 @@ class ProvisionCatalogueTests(unittest.TestCase):
         with tempfile.TemporaryDirectory() as folder:
             index = Path(folder) / "index"
             index.mkdir()
+            (index / "OVERTURES.md").write_text(
+                "## 51st General Assembly (2024)  ·  `ga51_2024`\n\n"
+                "| Overture | Subject | Outcome | Source | Pages |\n"
+                "|---:|---|---|---|---|\n"
+                "| Overture 10 | Amend BCO 40-1 part A | Approved | North Presbytery | "
+                "[p.1277](../markdown/ga51_2024.md#ga51-p1277) |\n"
+                "| Overture 11 | Amend BCO 40-1 part B | Denied | South Presbytery | "
+                "[p.1278](../markdown/ga51_2024.md#ga51-p1278) |\n",
+                encoding="utf-8",
+            )
             (index / "overture_dispositions.jsonl").write_text(
                 '{"vol":"ga51_2024","number":10,"pdf_page":1277,"disposition":"Approved","bco":["40-1"]}\n'
                 '{"vol":"ga51_2024","number":11,"pdf_page":1278,"disposition":"Denied","bco":["40-1"]}\n',
@@ -231,7 +241,7 @@ class ProvisionCatalogueTests(unittest.TestCase):
             )
             records = load_curated_overtures(index)
         self.assertEqual([row["record_id"] for row in records], [
-            "overture:ga51_2024:10", "overture:ga51_2024:11",
+            "overture:ga51_2024:10:p1277", "overture:ga51_2024:11:p1278",
         ])
         self.assertEqual([row["url"] for row in records], [
             "markdown/ga51_2024.md#ga51-p1277",

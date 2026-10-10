@@ -12,6 +12,7 @@ import json
 import re
 import sys
 from pathlib import Path
+from overture_identity import load_reconciled_overture_records
 
 
 ROOT = Path(sys.argv[1] if len(sys.argv) > 1 else ".").resolve()
@@ -19,17 +20,6 @@ IDX = ROOT / "index"
 CATALOGUE = IDX / "OVERTURES.md"
 LEDGER = IDX / "overture_action_research.jsonl"
 EVENTS = IDX / "overture_events.jsonl"
-
-HEADING = re.compile(r"^## .*\((\d{4})\).*`(ga\d+_\d{4})`$")
-NUMBER = re.compile(r"\d+")
-PAGE = re.compile(r"\[p\.(\d+)\]\([^)]*#ga\d+-p(\d+)\)")
-
-
-def _cells(line: str) -> list[str]:
-    """Split a markdown table row on unescaped pipes and unescape literal pipes."""
-    cells = re.split(r"(?<!\\)\|", line.strip().strip("|"))
-    return [cell.replace(r"\|", "|").strip() for cell in cells]
-
 
 def _jsonl(path: Path) -> list[dict]:
     if not path.exists():
@@ -39,6 +29,18 @@ def _jsonl(path: Path) -> list[dict]:
 
 def _existing_status() -> dict[str, dict]:
     prior = {row["record_id"]: row for row in _jsonl(LEDGER) if row.get("record_id")}
+    # A previously researched record can be temporarily absent from the reconciled
+    # catalogue while its source occurrence is being repaired. Preserve its progress
+    # from the event trail so the next catalogue regeneration does not reset it.
+    for event_row in _jsonl(EVENTS):
+        rid = event_row.get("record_id")
+        if rid and rid not in prior:
+            prior[rid] = {
+                "research_status": event_row.get("research_status", "not_researched"),
+                "sources_searched": event_row.get("sources_searched", []),
+                "search_through_assembly": event_row.get("search_through_assembly"),
+                "gap_note": event_row.get("gap_note"),
+            }
     # The first prototype used only volume and number. Migrate it only when that pair names
     # exactly one row in the published catalogue; ambiguous legacy rows must be reviewed.
     legacy = [row for row in _jsonl(EVENTS) if not row.get("record_id")]
@@ -67,48 +69,7 @@ def _existing_status() -> dict[str, dict]:
 
 
 def _parse_catalogue() -> list[dict]:
-    if not CATALOGUE.exists():
-        raise FileNotFoundError(f"missing reconciled overture catalogue: {CATALOGUE}")
-    records: list[dict] = []
-    vol = None
-    year = None
-    ga = None
-    for line in CATALOGUE.read_text(encoding="utf-8").splitlines():
-        heading = HEADING.match(line)
-        if heading:
-            year, vol = int(heading.group(1)), heading.group(2)
-            ga = int(re.match(r"ga(\d+)", vol).group(1))
-            continue
-        if not vol or not line.startswith("|") or line.startswith(("|---", "| Overture")):
-            continue
-        cells = _cells(line)
-        if len(cells) != 5:
-            continue
-        n = NUMBER.search(cells[0])
-        page_links = PAGE.findall(cells[4])
-        if not n or not page_links:
-            continue
-        number = int(n.group())
-        pages = list(dict.fromkeys(int(pdf_page) for _, pdf_page in page_links))
-        source_page = pages[0]
-        record_id = f"overture:{vol}:{number}:p{source_page}"
-        records.append({
-            "record_id": record_id,
-            "vol": vol,
-            "ga_ordinal": ga,
-            "year": year,
-            "number": number,
-            "source_page": source_page,
-            "catalogue_pages": pages,
-            "title": cells[1],
-            "source": cells[3],
-            "disposition": cells[2],
-        })
-    ids = [row["record_id"] for row in records]
-    duplicates = sorted({rid for rid in ids if ids.count(rid) > 1})
-    if duplicates:
-        raise ValueError(f"duplicate stable record IDs in reconciled catalogue: {duplicates[:12]}")
-    return records
+    return load_reconciled_overture_records(IDX)
 
 
 def main() -> None:

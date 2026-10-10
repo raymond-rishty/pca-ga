@@ -10,6 +10,8 @@
 | 2011 | Judicial case | explicit_citation | direct_text | high | [Lyons v. Western Carolina Presbytery](../cases/ga39_2011__2010-16.md) | denied |
 | 2002 | Judicial case | structured_case_reference | structured_case_metadata | medium | [Sang Soo Ryoo v. Korean Capital Presbytery](../cases/ga30_2002__2001-18.md) | sustained |
 | 1998 | Constitutional inquiry | structured_provision_tag | structured_provision_tag | medium | [Whether presbytery may investigate before proceeding to trial](../inquiries/ga26_1998__ci03.md) | advice given — BCO 31-2 permits investigation before adjudication; amendments recommended |
+| 2022 | Overture | explicit_citation | direct_text | high | [Amend BCO 34-1 to Establish Percentage Threshold for Original Jurisdiction Requests](../markdown/ga49_2022.md#ga49-p1314) | Answered by reference to Overture 8 |
+| 2018 | Overture | explicit_citation | direct_text | high | [Revise BCO 34-8 and 37-8 Regarding Restoration of a Deposed Minister](../markdown/ga46_2018.md#ga46-p683) | Referred |
 | 2025 | RPR exception | structured_exception_tag | structured_provision_tag | medium | [Chesapeake: ( BCO 32; BCO 31-2; BCO 34; BCO 38-1; RONR (12th ed) 48:14, 35:13) — Presbytery votes to "](../rpr/exc/chesapeake__026.html) | raised |
 | 1996 | RPR exception | structured_exception_tag | structured_provision_tag | medium | [Korean Southern: In a discipline case it is not clear that BCO 34 was followed.](../rpr/exc/korean-southern__005.html) | unsatisfactory |
 | 1995 | RPR exception | structured_exception_tag | structured_provision_tag | medium | [Korean Southern: There is no record of annual review by Presbytery of Sessional records (BCO 13-9b). April](../rpr/exc/korean-southern__002.html) | raised |

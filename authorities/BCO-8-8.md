@@ -4,9 +4,8 @@
 
 | Year | Record type | Relationship | Evidence | Confidence | Title | Disposition |
 |------|-------------|--------------|----------|------------|-------|-------------|
-| 2023 | Overture | proposal_target | overture_action_target | high | [Declare 1973 Message to All Churches a Faithful Expression of Biblical Polity Shaping the PCA](../markdown/ga50_2023.md#ga50-p1043) | Approved → sent to presbyteries; ratification not located |
-| 1996 | Overture | multiple | multiple | high | [Amend BCO 8-8 to Recognize Non-Preaching Ministry Calls](../markdown/ga24_1996.md#ga24-p162) | Answered in the negative |
-| 1986 | Overture | proposal_target | overture_action_target | high | [Add BCO 8-8 Granting Military Chaplains Sacramental Authority](../markdown/ga14_1986.md#ga14-p53) |  |
+| 1996 | Overture | multiple | multiple | high | [Amend BCO 8-8 to Recognize Non-Preaching Gospel Ministries](../markdown/ga24_1996.md#ga24-p290) |  |
+| 1986 | Overture | proposal_target | title_subject_reference | high | [Add BCO 8-8 Granting Military Chaplains Sacramental Authority](../markdown/ga14_1986.md#ga14-p53) |  |
 | 2025 | RPR exception | structured_exception_tag | structured_provision_tag | medium | [Central Georgia: No record of annual report(s) of TE(s) laboring out of bounds.](../rpr/exc/central-georgia__042.html) | raised |
 | 2025 | RPR exception | structured_exception_tag | structured_provision_tag | medium | [Korean Southeastern: No record of annual report(s) of TE(s) laboring out of bounds.](../rpr/exc/korean-southeastern__110.html) | raised |
 | 2025 | RPR exception | structured_exception_tag | structured_provision_tag | medium | [Northern California: No record of annual report(s) of TE(s) laboring out of bounds.](../rpr/exc/northern-california__093.html) | raised |

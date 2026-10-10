@@ -16,7 +16,7 @@ from __future__ import annotations
 import collections, json, os, re, sys
 from pathlib import Path
 
-ROOT = sys.argv[1] if len(sys.argv) > 1 else "/workspace"
+ROOT = os.path.abspath(sys.argv[1] if len(sys.argv) > 1 else "/workspace")
 IDX = os.path.join(ROOT, "index")
 CASES_DIR = os.path.join(ROOT, "cases")
 AUTH_DIR = os.path.join(ROOT, "authorities")
@@ -392,9 +392,18 @@ def main():
     ))
 
     # Write flat index
+    def write_generated(path: str, content: str) -> None:
+        try:
+            output = open(path, 'r+', encoding='utf-8', newline='\n')
+        except FileNotFoundError:
+            output = open(path, 'w', encoding='utf-8', newline='\n')
+        with output:
+            output.seek(0)
+            output.write(content)
+            output.truncate()
+
     out_json = os.path.join(IDX, 'authority_index.json')
-    with open(out_json, 'w', encoding='utf-8', newline='\n') as out:
-        json.dump(all_rows, out, ensure_ascii=False, separators=(',', ':'))
+    write_generated(out_json, json.dumps(all_rows, ensure_ascii=False, separators=(',', ':')))
     print(f'  → index/authority_index.json: {len(all_rows)} catalogue projection rows')
 
     # Group by provision
@@ -404,8 +413,7 @@ def main():
 
     # Write AUTHORITY-BY-PROVISION.md
     out_md = os.path.join(IDX, 'AUTHORITY-BY-PROVISION.md')
-    with open(out_md, 'w', encoding='utf-8', newline='\n') as f:
-        f.write(render_main_index(rows_by_prov))
+    write_generated(out_md, render_main_index(rows_by_prov))
     print(f'  → index/AUTHORITY-BY-PROVISION.md: {len(rows_by_prov)} provisions')
 
     # Write per-provision pages
@@ -416,8 +424,7 @@ def main():
         slug = prov_slug(prov)
         path = os.path.join(AUTH_DIR, slug + '.md')
         expected_pages.add(os.path.normcase(os.path.abspath(path)))
-        with open(path, 'w', encoding='utf-8', newline='\n') as f:
-            f.write(render_provision_page(prov, prows))
+        write_generated(path, render_provision_page(prov, prows))
         n_pages += 1
     for filename in os.listdir(AUTH_DIR):
         path = os.path.join(AUTH_DIR, filename)

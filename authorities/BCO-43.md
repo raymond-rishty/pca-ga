@@ -55,8 +55,14 @@
 | 1986 | Constitutional inquiry | structured_provision_tag | structured_provision_tag | medium | [Congregational vote to rotate entire session or diaconate off](../inquiries/ga14_1986__ci08.md) | advice given |
 | 2024 | CCB advice | structured_provision_tag | structured_provision_tag | medium | [32, and 35](../inquiries/ga51_2024__ci16.md) | in grave conflict; Adopted 8-0-0 |
 | 2023 | CCB advice | structured_provision_tag | structured_provision_tag | medium | [Amend BCO 31-10 for Non-censure Suspension Option During Investigation](../inquiries/ga50_2023__ci05.md) | in conflict; Adopted 8-0-0 |
+| 2022 | Overture | explicit_citation | direct_text | high | [Amend BCO 15-1 and 15-3 to Clarify Role of Presbytery Commission](../markdown/ga49_2022.md#ga49-p1351) | Approved & ratified (2023) |
+| 2022 | Overture | explicit_citation | direct_text | high | [Amend BCO 15-1 and 15-3 to Clarify Role of Presbytery Commission](../markdown/ga49_2022.md#ga49-p1356) |  |
+| 2022 | Overture | explicit_citation | direct_text | high | [Amend BCO 22-3 to Allow Assistant Pastors to File Complaints Against Sessions](../markdown/ga49_2022.md#ga49-p1303) |  |
+| 2022 | Overture | explicit_citation | direct_text | high | [Amend BCO 25-2 to Require Annual Congregational Meeting and Reporting Standards](../markdown/ga49_2022.md#ga49-p1331) |  |
+| 2019 | Overture | explicit_citation | direct_text | high | [Amend BCO 40-4 and 40-5 to Clarify the Meaning of 'Credible Report'](../markdown/ga47_2019.md#ga47-p686) | Answered in the negative |
 | 2017 | Overture | explicit_citation | direct_text | high | [Amend BCO 24-7 to Allow Sabbatical Leave for Church Officers](../markdown/ga45_2017.md#ga45-p659) | Answered in the negative |
-| 1987 | Overture | explicit_citation | direct_text | high | [Direct the Insurance and Annuity Board to Correct Its Social Security Guidance](../markdown/ga15_1987.md#ga15-p86) |  |
+| 2015 | Overture | explicit_citation | direct_text | high | [Amend BCO 13-2, 34-10, 24-7 and 24-9 Regarding Ministers, Ruling Elders, and Deacons Without Call](../markdown/ga43_2015.md#ga43-p612) | Answered in the negative |
+| 1987 | Overture | explicit_citation | direct_text | high | [Instruct the Ad Interim Committee to Preserve Church Court Judicial Authority](../markdown/ga15_1987.md#ga15-p86) |  |
 | 1986 | Overture | explicit_citation | direct_text | high | [Prohibit Changes to Judicial Procedure for Three Years](../markdown/ga14_1986.md#ga14-p44) | Adopted (final) |
 | 2018 | RPR exception | structured_exception_tag | structured_provision_tag | medium | [Korean Southern: Incomplete record of complaint sent to presbytery.](../rpr/exc/korean-southern__123.html) | satisfactory |
 

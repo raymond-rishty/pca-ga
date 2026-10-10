@@ -9,14 +9,13 @@
 | 2018 | Judicial case | explicit_citation | direct_text | high | [Bachmann v. Nashville Presbytery](../cases/ga46_2018__2016-15.md) | sustained |
 | 2005 | Judicial case | explicit_citation | direct_text | high | [Thornton v. Westminster](../cases/ga33_2005__2003-02_2003-05.md) | sustained_in_part |
 | 1989 | Judicial case | explicit_citation | direct_text | high | [TE John T. DeBardeleben v. Philadelphia Presbytery](../cases/ga17_1989__case3.md) | sustained |
-| 2022 | Overture | explicit_citation | direct_text | high | [Commend the Human Sexuality Report for Study, Assessment, and Conciliation](../markdown/ga49_2022.md#ga49-p1382) |  |
-| 2022 | Overture | explicit_citation | direct_text | high | [Commend the Human Sexuality Report for Study, Examination, and Conciliation](../markdown/ga49_2022.md#ga49-p1372) |  |
-| 2022 | Overture | explicit_citation | direct_text | high | [Commend the Human Sexuality Report for Study, Examination, and Conciliation](../markdown/ga49_2022.md#ga49-p1377) |  |
+| 2022 | Overture | explicit_citation | direct_text | high | [Commend the Human Sexuality Report for Study, Assessment, and Conciliation](../markdown/ga49_2022.md#ga49-p1382) | Answered by reference |
 | 2021 | Overture | explicit_citation | direct_text | high | [Form Ad Interim Committee to Study Biblical Ethics in Digital Media](../markdown/ga48_2021.md#ga48-p1077) | Answered in the negative |
-| 2002 | Overture | explicit_citation | direct_text | high | [Add to BCO 26-1 Procedure for Conflicts Between Scripture & Constitution](../markdown/ga30_2002.md#ga30-p275) | Answered in the negative |
+| 2016 | Overture | explicit_citation | direct_text | high | [Confess Covenantal and Generational Sins During the Civil Rights Period](../markdown/ga44_2016.md#ga44-p610) | Answered by reference |
+| 2002 | Overture | explicit_citation | direct_text | high | [Add to BCO 26-1 a Procedure for Alleged Conflicts Between Scripture and the Constitution](../markdown/ga30_2002.md#ga30-p275) |  |
 | 2002 | Overture | explicit_citation | direct_text | high | [Revise BCO 15-4 & 15-5 to Abolish the Standing Judicial Commission](../markdown/ga30_2002.md#ga30-p102) | Other |
 | 2000 | Overture | explicit_citation | direct_text | high | [Add BCO 16-4 Prohibiting Teaching of Exceptions Harmful to the Church](../markdown/ga28_2000.md#ga28-p292) | Answered in the negative |
-| 2000 | Overture | explicit_citation | direct_text | high | [Address Improper Dissemination of Judicial Case Information](../markdown/ga28_2000.md#ga28-p296) | Answered in the negative |
+| 2000 | Overture | explicit_citation | direct_text | high | [Amend BCO to Address Improper Dissemination of Judicial Case Information](../markdown/ga28_2000.md#ga28-p296) |  |
 
 ---
 *[← Authority Index](../index/AUTHORITY-BY-PROVISION.md)*

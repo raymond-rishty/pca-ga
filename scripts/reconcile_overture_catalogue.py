@@ -84,6 +84,7 @@ def main() -> None:
         (row.get("vol"), int(row.get("number") or 0), int(row.get("pdf_page") or 0))
         for row in corrections if row.get("action") == "exclude" and row.get("pdf_page")
     }
+    titles, evidence, titles_by_record = _source_rows()
     structural_rows = set()
     for path in (IDX / "structure").glob("ga*.json"):
         structure = json.loads(path.read_text(encoding="utf-8"))
@@ -91,9 +92,16 @@ def main() -> None:
             number = int(row.get("number") or 0)
             pages = row.get("pages") or [row.get("pdf_page")]
             structural_rows.update((structure["volume"], number, int(page or 0)) for page in pages)
-    if not excludes.issubset(structural_rows):
-        raise ValueError(f"exclusions do not match structural source rows: {sorted(excludes - structural_rows)[:12]}")
-    titles, evidence, titles_by_record = _source_rows()
+    # Some verified false occurrences survive only in curated title/body/disposition
+    # evidence after the structural parser stops treating the page as an overture row.
+    # Allow a page-keyed exclusion when it still matches one of those source records.
+    source_rows = set(titles) | set(evidence)
+    valid_exclusion_rows = structural_rows | source_rows
+    if not excludes.issubset(valid_exclusion_rows):
+        raise ValueError(
+            "exclusions do not match structural or curated source rows: "
+            f"{sorted(excludes - valid_exclusion_rows)[:12]}"
+        )
 
     structural_by_key: dict[tuple[str, int, int], dict[str, Any]] = {}
     for path in (IDX / "structure").glob("ga*.json"):
@@ -206,7 +214,9 @@ def main() -> None:
             identity_row["number_link"] = number_link
             identity_row["subject"] = subject
             identity_row["source"] = source
-            if disposition:
+            if correction.get("clear_disposition"):
+                identity_row["disposition"] = ""
+            elif disposition:
                 identity_row["disposition"] = disposition
             identity_row["line"] = _render_row(identity_row)
             continue
@@ -222,7 +232,9 @@ def main() -> None:
             matching_row["number_link"] = number_link
             matching_row["subject"] = subject
             matching_row["source"] = source
-            if disposition:
+            if correction.get("clear_disposition"):
+                matching_row["disposition"] = ""
+            elif disposition:
                 matching_row["disposition"] = disposition
             matching_row["line"] = _render_row(matching_row)
             continue

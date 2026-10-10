@@ -259,6 +259,11 @@ textarea:focus-visible {
   vertical-align: top;
 }
 .reading-col tr:last-child td { border-bottom: none; }
+.reading-col .overture-action-table-wrap {
+  max-width: 100%; overflow-x: auto; overscroll-behavior-x: contain;
+  -webkit-overflow-scrolling: touch;
+}
+.reading-col .overture-action-table { min-width: 1020px; }
 
 /* ── Eyebrow ── */
 .eyebrow {

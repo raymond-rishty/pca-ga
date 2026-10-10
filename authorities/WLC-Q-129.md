@@ -7,6 +7,8 @@
 | 2010 | Judicial case | explicit_citation | direct_text | high | [Hutchinson & Bulkeley v. Western Carolina](../cases/ga38_2010__2008-15_2008-16_2008-17_2008-18_2009-01_2009-03.md) | out_of_order |
 | 2010 | Judicial case | explicit_citation | direct_text | high | [Linton v. Western Carolina Presbytery](../cases/ga38_2010__2009-05_2009-08_2009-09_2009-10.md) | denied |
 | 2010 | Judicial case | explicit_citation | direct_text | high | [Morton Smith v. Western Carolina](../cases/ga38_2010__2009-02.md) | not_sustained |
+| 2014 | Overture | explicit_citation | direct_text | high | [Adopt Child Protection Measures in the PCA](../markdown/ga42_2014.md#ga42-p800) |  |
+| 2014 | Overture | explicit_citation | direct_text | high | [Exhort Church Leaders to Actively Prevent Child Sexual Abuse](../markdown/ga42_2014.md#ga42-p838) |  |
 
 ---
 *[← Authority Index](../index/AUTHORITY-BY-PROVISION.md)*

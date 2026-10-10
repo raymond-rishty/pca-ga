@@ -6,7 +6,7 @@
 |------|-------------|--------------|----------|------------|-------|-------------|
 | 2011 | Judicial case | explicit_citation | direct_text | high | [Brown v. Northern California Presbytery](../cases/ga39_2011__2009-25_2009-26.md) | sustained |
 | 2011 | Judicial case | structured_case_reference | structured_case_metadata | medium | [Ruff v. Nashville Presbytery](../cases/ga39_2011__2009-28.md) | sustained |
-| 2010 | Overture | proposal_target | overture_action_target | high | [Revise BCO 5-2 Through 5-11 and Add New BCO 5-5 Regarding Church Organization](../markdown/ga38_2010.md#ga38-p370) | Approved & ratified (2011) |
+| 2019 | Overture | explicit_citation | direct_text | high | [Amend BCO 57-5 to Add a Trinitarian Vow for Church Membership](../markdown/ga47_2019.md#ga47-p672) | Answered in the negative |
 | 2008 | RPR exception | structured_exception_tag | structured_provision_tag | medium | [Central Georgia: BCO 5-8.1. No record of petition to organize nor of examination of REs.](../rpr/exc/central-georgia__004.html) | raised |
 | 2008 | RPR exception | structured_exception_tag | structured_provision_tag | medium | [Chicago Metro: : BCO 5-8. No commission appointed to organize church. Response : Please see the attached](../rpr/exc/chicago-metro__009.html) | satisfactory |
 | 2008 | RPR exception | structured_exception_tag | structured_provision_tag | medium | [Chicago Metro: : BCO 5-8.1. no record of petition to organize. Response : The CMP clerk was unable to loc](../rpr/exc/chicago-metro__010.html) | satisfactory |

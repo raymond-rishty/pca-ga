@@ -8,10 +8,9 @@
 | 1998 | Judicial case | explicit_citation | direct_text | high | [Mt. Carmel Session v. New Jersey Presbytery](../cases/ga26_1998__1997-05.md) | denied |
 | 2016 | CCB advice | structured_provision_tag | structured_provision_tag | medium | [General Assembly Directions Regarding SJC Decisions](../inquiries/ga44_2016__ci01.md) | in conflict |
 | 2002 | CCB advice | structured_provision_tag | structured_provision_tag | medium | [Abolishing the SJC](../inquiries/ga30_2002__ci02.md) | in conflict |
-| 2000 | Overture | explicit_citation | direct_text | high | [Take Disciplinary Measures Against Tennessee Valley Presbytery](../markdown/ga28_2000.md#ga28-p279) |  |
-| 1992 | Overture | explicit_citation | direct_text | high | [Amend BCO 15-4 to Permit GA to Adjudicate](../markdown/ga20_1992.md#ga20-p116) | Answered in the negative |
-| 1991 | Overture | explicit_citation | direct_text | high | [Amend BCO 15 to Add New 15-6 Allowing GA Appointment of Special Judicial Commission](../markdown/ga19_1991.md#ga19-p166) |  |
-| 1991 | Overture | explicit_citation | direct_text | high | [Amend BCO 15-4 to Permit General Assembly to Adjudicate Cases Directly](../markdown/ga19_1991.md#ga19-p163) |  |
+| 2022 | Overture | explicit_citation | direct_text | high | [Amend BCO 15-2 Regarding Presbytery Commission Membership and Quorum](../markdown/ga49_2022.md#ga49-p1340) | Answered in the negative |
+| 2015 | Overture | explicit_citation | direct_text | high | [Amend BCO 15-1 & 15-3 to Allow Final-Decision Judicial Commissions](../markdown/ga43_2015.md#ga43-p598) | Answered in the negative |
+| 2014 | Overture | explicit_citation | direct_text | high | [Amend BCO 15-1 and 15-3 Regarding Presbytery Judicial Commission Decisions](../markdown/ga42_2014.md#ga42-p847) |  |
 | 2025 | RPR exception | structured_exception_tag | structured_provision_tag | medium | [Chesapeake: ( BCO 21-5; BCO 15; BCO 21-6; BCO 21-9) — Two installation commission reports are attached](../rpr/exc/chesapeake__024.html) | raised |
 | 2025 | RPR exception | structured_exception_tag | structured_provision_tag | medium | [Rocky Mountain: Ordination commission approved without names of members or designating how the commission](../rpr/exc/rocky-mountain__087.html) | raised |
 | 2017 | RPR exception | structured_exception_tag | structured_provision_tag | medium | [Chicago Metro: Minutes of ordination and/or installation commission not included.](../rpr/exc/chicago-metro__032.html) | satisfactory |

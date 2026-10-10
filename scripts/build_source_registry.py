@@ -581,12 +581,22 @@ def main() -> int:
     parser.add_argument("--check", action="store_true", help="validate committed data")
     parser.add_argument("--write", action="store_true", help="rewrite registry and inventory from indexes")
     args = parser.parse_args()
+    # Gradle invokes this script with a relative project root. Resolve it before
+    # opening generated files so Windows receives a stable absolute path.
+    args.root = args.root.resolve()
     if args.write:
         registry, inventory = build(args.root)
-        with (args.root / "index" / "source_registry.json").open("w", encoding="utf-8", newline="\n") as output:
-            output.write(json.dumps(registry, indent=2, ensure_ascii=False) + "\n")
-        with (args.root / "index" / "dedicated_pdf_inventory.json").open("w", encoding="utf-8", newline="\n") as output:
-            output.write(json.dumps(inventory, indent=2, ensure_ascii=False) + "\n")
+        for name, value in (("source_registry.json", registry), ("dedicated_pdf_inventory.json", inventory)):
+            path = args.root / "index" / name
+            content = json.dumps(value, indent=2, ensure_ascii=False) + "\n"
+            try:
+                output = path.open("r+", encoding="utf-8", newline="\n")
+            except FileNotFoundError:
+                output = path.open("w", encoding="utf-8", newline="\n")
+            with output:
+                output.seek(0)
+                output.write(content)
+                output.truncate()
         print("wrote source registry and dedicated-PDF inventory")
         return 0
     errors = validate_registry(args.root)

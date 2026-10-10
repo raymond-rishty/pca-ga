@@ -16,31 +16,28 @@ CAT = os.path.join(ROOT, "index", "OVERTURES.md")
 MAP = os.path.join(ROOT, "index", "overture_pages_map.json")
 
 SEC = re.compile(r"`(ga\d+_\d+)`")
-ROW = re.compile(r"^\| (\d+) \| ")          # data row: leftmost cell is the overture number
-
 def main():
     if not (os.path.exists(CAT) and os.path.exists(MAP)):
         print(f"[{ROOT}] OVERTURES.md or map missing — skip"); return
     pmap = json.load(open(MAP))
-    # (vol, num) -> "overtures/<file>.md"
-    by_vol = {}
-    for f in pmap.values():
-        m = re.match(r"overtures/(ga\d+_\d+)__o(\d+)\.md$", f)
-        if m:
-            by_vol[(m.group(1), m.group(2))] = f
-
     vol = None; linked = 0
     out = []
     for line in open(CAT).read().split("\n"):
         s = SEC.search(line)
         if line.startswith("## ") and s:
             vol = s.group(1)
-        m = ROW.match(line)
+        m = re.match(r"^\|\s*(?:\[(\d+)\]\([^)]+\)|(\d+))\s*\|", line)
         if m and vol:
-            num = m.group(1)
-            page = by_vol.get((vol, num))
+            num = m.group(1) or m.group(2)
+            cells = re.split(r"(?<!\\)\|", line.strip().strip("|"))
+            page_refs = re.findall(r"\[p\.(\d+)\]\([^)]*#ga\d+-p(\d+)\)", cells[4]) if len(cells) == 5 else []
+            source_page = int(page_refs[0][1]) if page_refs else None
+            record_id = f"overture:{vol}:{num}:p{source_page}" if source_page else None
+            page = pmap.get(record_id) if record_id else None
             if page:
-                line = line.replace(f"| {num} | ", f"| [{num}](../{page}) | ", 1)
+                replacement = f"[{num}](../{page})"
+                first_cell = m.group(0)
+                line = line.replace(first_cell, f"| {replacement} |", 1)
                 linked += 1
         out.append(line)
     open(CAT, "w").write("\n".join(out))

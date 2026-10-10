@@ -18,9 +18,7 @@
 | 2002 | Judicial case | explicit_citation | direct_text | high | [TE Andy Lee v. Korean Capital Presbytery](../cases/ga30_2002__2001-08.md) |  |
 | 2025 | CCB advice | structured_provision_tag | structured_provision_tag | medium | [24-3 and 25-1 to Clarify 'Regular Standing' re Minimum Voting Age](../inquiries/ga52_2025__ci16.md) | in conflict; Adopted 8-0-0 |
 | 2011 | CCB advice | structured_provision_tag | structured_provision_tag | medium | [Temporary Governance for Churches without Ruling Elders](../inquiries/ga39_2011__ci01.md) | may have been in conflict |
-| 2025 | Overture | explicit_citation | direct_text | high | [Amend BCO 20-3, 24-3, and 25-1 to Permit Congregational Minimum Voting Age](../markdown/ga52_2025.md#ga52-p1208) | Answered in the negative |
 | 2025 | Overture | explicit_citation | direct_text | high | [Amend BCO 22 to Require Congregation Consent for Assistant Pastor Calls](../markdown/ga52_2025.md#ga52-p1187) | Referred |
-| 2025 | Overture | explicit_citation | direct_text | high | [Amend BCO 41-3 to Allow Supplemental Judges for a Session Trial](../markdown/ga52_2025.md#ga52-p1234) | Approved → sent to presbyteries; ratification not located |
 | 2007 | Overture | explicit_citation | direct_text | high | [Amend BCO 21-1 to Affirm Presbytery's Right to Decline a Pastoral Call](../markdown/ga35_2007.md#ga35-p152) | Answered in the negative |
 | 2025 | RPR exception | body_mention | direct_text | high | [Korean Southern: ( BCO 16-2; BCO Preliminary Principle 6) — There is no record of the congregation approvin](../rpr/exc/korean-southern__178.html) | raised |
 | 2025 | RPR exception | body_mention | direct_text | high | [Korean Southwest: Presbytery appoints an interim pastor with no evidence of congregational request or concur](../rpr/exc/korean-southwest__251.html) | unsatisfactory |
