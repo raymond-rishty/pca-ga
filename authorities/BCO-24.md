@@ -11,6 +11,7 @@
 | 2025 | Overture | explicit_citation | direct_text | high | [Amend BCO 24-1 to Clarify a Session's Role in Examining Officer Nominees](../markdown/ga52_2025.md#ga52-p1237) | Final approval reported by GA53 Stated Clerk (2026) |
 | 2022 | Overture | explicit_citation | direct_text | high | [Amend BCO 25-2 to Require Annual Congregational Meeting and Reporting Standards](../markdown/ga49_2022.md#ga49-p1331) |  |
 | 2018 | Overture | explicit_citation | direct_text | high | [Amend BCO 9-7 and Add BCO 24-11 Regarding Women Serving as Deaconesses](../markdown/ga46_2018.md#ga46-p686) | Answered in the negative |
+| 2004 | Overture | explicit_citation | direct_text | high | [Amend BCO 24-3 Regarding Election of Ruling Elders and Deacons](../markdown/ga32_2004.md#ga32-p156) | Approved & ratified (2005) |
 | 1984 | Overture | explicit_citation | direct_text | high | [Amend BCO 24 to Allow Term or Lifetime Election of Ruling Elders](../markdown/ga12_1984.md#ga12-p75) | Adopted (final) |
 | 1983 | Overture | explicit_citation | direct_text | high | [Amend BCO 24 and BCO 13 Regarding Elder Rotation and Pastoral Dissolution](../markdown/ga11_1983.md#ga11-p48) | Referred |
 | 2021 | RPR exception | structured_exception_tag | structured_provision_tag | medium | [Korean Southwest: The provisions of Article 23 appear to usurp the role of the Session and congregation. Par](../rpr/exc/korean-southwest__170.html) | satisfactory |

@@ -128,10 +128,11 @@ def main() -> None:
             raise ValueError(f"title mismatch for {identity}: {row.get('title')!r}")
         source = evidence.get(identity) or {}
         structural_source = structural_by_key.get(identity) or {}
-        if not source.get("source") and not structural_source.get("source"):
+        if not source.get("source") and not structural_source.get("source") and not row.get("source"):
             raise ValueError(f"missing source or sponsor for {identity}")
         if not source.get("body") and not structural_source.get("source"):
-            raise ValueError(f"missing body text or structural source for {identity}")
+            if not (row.get("source_text_unavailable") is True and row.get("source_text_gap")):
+                raise ValueError(f"missing body text or structural source for {identity}")
 
     original = CATALOGUE.read_text(encoding="utf-8").splitlines()
     intro: list[str] = []

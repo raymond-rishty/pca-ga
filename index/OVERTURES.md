@@ -1025,19 +1025,20 @@ Every overture recorded across all General Assemblies, grouped by Assembly. Page
 |---:|---|---|---|---|
 | [1](../overtures/ga32_2004__o1.md) | Amend BCO 24-1 to Add Knowledge of Holy Scripture as Ordination Examination Requirement | Answered in the negative | OVERTURE 1 from Heritage Presbytery | [p.155](../markdown/ga32_2004.md#ga32-p155) |
 | [2](../overtures/ga32_2004__o2.md) | Amend BCO 24-3 Regarding Election of Ruling Elders and Deacons | Approved & ratified (2005) | OVERTURE 2 from Eastern Canada Presbytery | [p.156](../markdown/ga32_2004.md#ga32-p156) |
+| [3](../overtures/ga32_2004__o3.md) | Transfer Lancaster County, SC from Palmetto to Fellowship Presbytery | Answered in the affirmative, pending Palmetto Presbytery approval | OVERTURE 3 from Fellowship Presbytery (to MNA) | [p.131](../markdown/ga32_2004.md#ga32-p131) |
+| [4](../overtures/ga32_2004__o4.md) | Divide Southern Florida Presbytery to Create Gulfstream Presbytery | Adopted (final) | OVERTURE 4 from Southern Florida Presbytery (to MNA) | [p.132](../markdown/ga32_2004.md#ga32-p132) |
+| [5](../overtures/ga32_2004__o5.md) | Revise Makeup of Ridge Haven Board of Trustees | Answered in the negative | Overture 5 from Westminster Presbytery (to RH, CCB) | [p.137](../markdown/ga32_2004.md#ga32-p137) |
 | [6](../overtures/ga32_2004__o6.md) | Amend BCO 13-1, 14-2, 23-2, 24-9 to Restrict Voting TEs to Pastors and Associate Pastors | Answered in the negative | OVERTURE 6 from the Session of Ellisville (MS) Presbyterian | [p.157](../markdown/ga32_2004.md#ga32-p157) |
 | [7](../overtures/ga32_2004__o7.md) | Amend BCO 57-5 to Add an Optional Congregational Vow at Professions of Faith | Answered in the negative | OVERTURE 7 from James River Presbytery | [p.164](../markdown/ga32_2004.md#ga32-p164) |
 | [8](../overtures/ga32_2004__o8.md) | Amend BCO 24-9 to Delete Age Requirement for Ruling Elder and Deacon Emeritus Status | Approved & ratified (2005) | OVERTURE 8 from North Texas Presbytery | [p.165](../markdown/ga32_2004.md#ga32-p165) |
 | [9](../overtures/ga32_2004__o9.md) | Amend BCO Preface, Chapter 16, and 21-4 Regarding Stricter Doctrinal Subscription | Answered in the negative | OVERTURE 9 from Grace Presbytery | [p.168](../markdown/ga32_2004.md#ga32-p168) |
 | [10](../overtures/ga32_2004__o10.md) | Amend BCO 15-4 to Allow One TE and One RE from the Same Presbytery on the SJC | Answered in the negative | OVERTURE 10 from Nashville Presbytery | [p.173](../markdown/ga32_2004.md#ga32-p173) |
+| [11](../overtures/ga32_2004__o11.md) | Divide Southwest Florida Presbytery to Form Suncoast Florida Presbytery | Adopted (final) | Overture 11 from Southwest Florida Presbytery (to MNA) | [p.129](../markdown/ga32_2004.md#ga32-p129) |
 | [12](../overtures/ga32_2004__o12.md) | Call on Civil Governments to Legally Define Marriage as One Man and One Woman | Answered by reference | OVERTURE 12 from Rocky Mountain Presbytery, James | [p.182](../markdown/ga32_2004.md#ga32-p182) |
 | [13](../overtures/ga32_2004__o13.md) | Call on Civil Governments to Legally Define Marriage as One Man and One Woman | Answered by reference | OVERTURE 13 from North Georgia Presbytery | [p.186](../markdown/ga32_2004.md#ga32-p186) |
-| [14](../overtures/ga32_2004__o14__p177.md) | Call Civil Governments to Define Marriage as One Man & One Woman | Answered by reference | Central Carolina Presbytery (“Support Marriage | [p.177](../markdown/ga32_2004.md#ga32-p177) |
-| [14](../overtures/ga32_2004__o14__p188.md) | Call on Civil Governments to Legally Define Marriage as One Man and One Woman | Answered by reference | OVERTURE 14 from Central Carolina Presbytery | [p.188](../markdown/ga32_2004.md#ga32-p188) |
+| [14](../overtures/ga32_2004__o14.md) | Call on Civil Governments to Legally Define Marriage as One Man and One Woman | Answered by reference | OVERTURE 14 from Central Carolina Presbytery | [p.188](../markdown/ga32_2004.md#ga32-p188) |
 | [15](../overtures/ga32_2004__o15.md) | Affirm Support for a Federal Marriage Amendment Defining Marriage | Answered by reference | Missouri Presbytery “Support Marriage Amendment to U. S. Constitution – Version 4” Whereas | [p.193](../markdown/ga32_2004.md#ga32-p193) |
 | [16](../overtures/ga32_2004__o16.md) | Affirm Biblical Definition of Marriage and Oppose Homosexual Unions | Adopted (final) | OVERTURE 16 from Missouri Presbytery | [p.179](../markdown/ga32_2004.md#ga32-p179) |
-| [17](../overtures/ga32_2004__o17.md) | Appoint Ad Interim Committee to Study Racism in the PCA | Adopted (final) | OVERTURE 17 from Nashville Presbytery (to B&O, AC) | [p.456](../markdown/ga32_2004.md#ga32-p456) |
-| [20](../overtures/ga32_2004__o20.md) | Adopt Statement of Repentance and Commitment to Racial Reconciliation | Adopted (final) | Nashville Presbytery (to B&O) “Racial Reconciliation” Whereas, the Scriptures portray a co | [p.455](../markdown/ga32_2004.md#ga32-p455) |
 
 ## 33rd General Assembly (2005)  ·  `ga33_2005`
 

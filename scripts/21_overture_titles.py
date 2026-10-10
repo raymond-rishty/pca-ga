@@ -69,7 +69,7 @@ def extract():
     for p in sorted(glob.glob(os.path.join(MD, "ga*_*.md"))):
         vol = os.path.basename(p).split(".")[0]
         ordn = int(re.match(r"ga(\d+)", vol).group(1))
-        lines = open(p).read().split("\n")
+        lines = open(p, encoding="utf-8").read().split("\n")
         cur_page = None
         source_appendix = None
         cur = None            # active overture being accumulated
