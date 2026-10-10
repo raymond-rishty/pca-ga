@@ -15,9 +15,6 @@
 | 2011 | CCB advice | structured_provision_tag | structured_provision_tag | medium | [Temporary Governance for Churches without Ruling Elders](../inquiries/ga39_2011__ci01.md) | may have been in conflict |
 | 2003 | CCB advice | structured_provision_tag | structured_provision_tag | medium | [Subscription and Exceptions of Substance](../inquiries/ga31_2003__ci08.md) | not in conflict |
 | 2002 | CCB advice | structured_provision_tag | structured_provision_tag | medium | [Handling Exceptions to the Westminster Standards](../inquiries/ga30_2002__ci04.md) | in conflict |
-| 2002 | Overture | explicit_citation | direct_text | high | [Add to BCO 26-1 Procedure for Conflicts Between Scripture & Constitution](../markdown/ga30_2002.md#ga30-p104) | Answered in the negative |
-| 2002 | Overture | explicit_citation | direct_text | high | [Amend BCO 24-1 to Record & Report All Exceptions to GA](../markdown/ga30_2002.md#ga30-p105) | Answered by reference |
-| 2002 | Overture | explicit_citation | direct_text | high | [Amend BCO 34-1 to Require Ten Percent of Presbyteries to Assume Original Jurisdiction](../markdown/ga30_2002.md#ga30-p102) | Answered in the negative |
 | 1996 | Overture | explicit_citation | direct_text | high | [Take No Action to Change BCO 38-2, 46-2, and 46-5 on Member Dismissal](../markdown/ga24_1996.md#ga24-p305) |  |
 | 2024 | RPR exception | body_mention | direct_text | high | [Ascension: Presbytery may not permit TE to withdraw if he is not in good standing; furthermore, it ma](../rpr/exc/ascension__016.html) | satisfactory |
 | 2019 | RPR exception | body_mention | direct_text | high | [Calvary: Presbytery adopted a statement asserting its right to “declare certain exceptions unteacha](../rpr/exc/calvary__102.html) | unsatisfactory |

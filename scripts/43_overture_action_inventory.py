@@ -31,16 +31,20 @@ def _existing_status() -> dict[str, dict]:
     prior = {row["record_id"]: row for row in _jsonl(LEDGER) if row.get("record_id")}
     # A previously researched record can be temporarily absent from the reconciled
     # catalogue while its source occurrence is being repaired. Preserve its progress
-    # from the event trail so the next catalogue regeneration does not reset it.
+    # and terminal disposition from the event trail so catalogue regeneration does
+    # not reset those curated fields.
     for event_row in _jsonl(EVENTS):
         rid = event_row.get("record_id")
         if rid and rid not in prior:
             prior[rid] = {
                 "research_status": event_row.get("research_status", "not_researched"),
+                "disposition": event_row.get("disposition", ""),
                 "sources_searched": event_row.get("sources_searched", []),
                 "search_through_assembly": event_row.get("search_through_assembly"),
                 "gap_note": event_row.get("gap_note"),
             }
+        elif rid and event_row.get("disposition") and not prior[rid].get("disposition"):
+            prior[rid]["disposition"] = event_row["disposition"]
     # The first prototype used only volume and number. Migrate it only when that pair names
     # exactly one row in the published catalogue; ambiguous legacy rows must be reviewed.
     legacy = [row for row in _jsonl(EVENTS) if not row.get("record_id")]
@@ -80,6 +84,7 @@ def main() -> None:
             prior = status.get(row["record_id"], {})
             row.update({
                 "research_status": prior.get("research_status", "not_researched"),
+                "disposition": prior.get("disposition") or row.get("disposition", ""),
                 "sources_searched": prior.get("sources_searched", []),
                 "search_through_assembly": prior.get("search_through_assembly"),
                 "gap_note": prior.get("gap_note"),

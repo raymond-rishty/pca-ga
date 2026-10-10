@@ -29,12 +29,9 @@
 | 2010 | Overture | explicit_citation | direct_text | high | [Amend BCO 1-4, 4-2, 5-10, 7-2, 9-2, 9-7 and Add BCO 9-8 for Unordained Diaconal Ministry](../markdown/ga38_2010.md#ga38-p394) | Answered in the negative |
 | 2009 | Overture | explicit_citation | direct_text | high | [Amend BCO 34-1 and 33-1 Regarding Assumption of Original Jurisdiction](../markdown/ga37_2009.md#ga37-p265) | Answered in the negative |
 | 2009 | Overture | explicit_citation | direct_text | high | [Declare SJC Manual Section 16 Unconstitutional and Request SJC to Amend It](../markdown/ga37_2009.md#ga37-p207) |  |
-| 2002 | Overture | explicit_citation | direct_text | high | [Add to BCO 26-1 Procedure for Conflicts Between Scripture & Constitution](../markdown/ga30_2002.md#ga30-p104) | Answered in the negative |
 | 2002 | Overture | explicit_citation | direct_text | high | [Amend BCO 21-4 to Clarify Good Faith Subscription Standards](../markdown/ga30_2002.md#ga30-p233) |  |
 | 2002 | Overture | explicit_citation | direct_text | high | [Amend BCO 21-4 to Define Good Faith Subscription and Allowable Exceptions](../markdown/ga30_2002.md#ga30-p236) |  |
 | 2002 | Overture | explicit_citation | direct_text | high | [Amend BCO 21-4 to Specify Handling and Recording of Exceptions to Standards](../markdown/ga30_2002.md#ga30-p223) |  |
-| 2002 | Overture | explicit_citation | direct_text | high | [Amend BCO 24-1 to Record & Report All Exceptions to GA](../markdown/ga30_2002.md#ga30-p105) | Answered by reference |
-| 2002 | Overture | explicit_citation | direct_text | high | [Amend BCO 34-1 to Require Ten Percent of Presbyteries to Assume Original Jurisdiction](../markdown/ga30_2002.md#ga30-p102) | Answered in the negative |
 | 2002 | Overture | explicit_citation | direct_text | high | [Specify Good Faith Subscription (Version 2) in BCO](../markdown/ga30_2002.md#ga30-p221) | Adopted (final) |
 | 2002 | Overture | explicit_citation | direct_text | high | [Specify Good Faith Subscription (Version 3) in BCO](../markdown/ga30_2002.md#ga30-p226) |  |
 | 2002 | Overture | explicit_citation | direct_text | high | [Specify Good Faith Subscription (Version 4) in BCO](../markdown/ga30_2002.md#ga30-p228) | Answered by reference |
