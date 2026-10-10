@@ -39,7 +39,11 @@ _NOISE = re.compile(r"^\s*(<a id=|<!--\s*PAGE|#*\s*\d*\s*MINUTES OF THE GENERAL 
 # Committee-report numbered disposal: "4. That Overture 4, from [Presbytery] be answered in..."
 # This fires only when the mentioned overture number differs from the one being collected,
 # because such lines belong to the NEXT item's committee recommendation, not this overture.
-_CMTE_DISP = re.compile(r"^\s*\d+\.\s+That\s+[Oo]verture\s+(\d+)\b")
+_CMTE_DISP = re.compile(
+    r"(?:^|\s)(\d+)\.\s+That\s+[Oo]verture\s+(\d+)\b"
+    r"(?=.*?\bbe\s+answered\s+(?:in\s+the\s+)?(?:affirmative|negative))",
+    re.I,
+)
 
 
 def preserve_markdown(lines: list[str]) -> str:
@@ -160,9 +164,19 @@ def extract():
                     # Hard-stop: numbered committee-report disposal of a DIFFERENT overture.
                     # "4. That Overture 4, from Westminster Presbytery be answered in the negative."
                     # belongs to the next item; we never want it in the current overture's body.
-                    # Disposals that mention THIS overture (minority reports etc.) are fine to keep.
-                    m_disp = _CMTE_DISP.match(ln)
-                    if m_disp and int(m_disp.group(1)) != cur["number"]:
+                    # Disposals may follow the proposal text on the same source line.
+                    # If the numbered recommendation is for another overture, retain
+                    # only this line's prefix as part of the current body's text.
+                    # Disposals that mention THIS overture (minority reports etc.) stay.
+                    m_disp = next(
+                        (match for match in _CMTE_DISP.finditer(ln)
+                         if int(match.group(2)) != cur["number"]),
+                        None,
+                    )
+                    if m_disp:
+                        prefix = ln[:m_disp.start()].rstrip()
+                        if prefix:
+                            cur["_lines"].append(prefix)
                         recs.append(cur); cur = None
                         continue
                     cur["_lines"].append(ln)
