@@ -123,9 +123,9 @@ Indexed PCA records associated with each provision. Relationship type, evidence,
 | [BCO 14-9.b](../authorities/BCO-14-9-b.md) | 0 | 0 | 0 | 0 | 1 | 1 |
 | [BCO 14-71](../authorities/BCO-14-71.md) | 0 | 1 | 0 | 0 | 0 | 1 |
 | [BCO 15](../authorities/BCO-15.md) | 2 | 0 | 2 | 3 | 8 | 15 |
-| [BCO 15-1](../authorities/BCO-15-1.md) | 35 | 7 | 4 | 31 | 283 | 360 |
+| [BCO 15-1](../authorities/BCO-15-1.md) | 35 | 7 | 4 | 32 | 283 | 361 |
 | [BCO 15-2](../authorities/BCO-15-2.md) | 19 | 3 | 1 | 3 | 123 | 149 |
-| [BCO 15-3](../authorities/BCO-15-3.md) | 45 | 1 | 3 | 13 | 23 | 85 |
+| [BCO 15-3](../authorities/BCO-15-3.md) | 45 | 1 | 3 | 14 | 23 | 86 |
 | [BCO 15-4](../authorities/BCO-15-4.md) | 11 | 1 | 6 | 20 | 0 | 38 |
 | [BCO 15-5](../authorities/BCO-15-5.md) | 20 | 2 | 5 | 20 | 0 | 47 |
 | [BCO 15-6](../authorities/BCO-15-6.md) | 0 | 0 | 0 | 6 | 0 | 6 |
@@ -587,6 +587,7 @@ Indexed PCA records associated with each provision. Relationship type, evidence,
 | [WCF 31.2](../authorities/WCF-31-2.md) | 1 | 0 | 0 | 10 | 0 | 11 |
 | [WCF 31.3](../authorities/WCF-31-3.md) | 2 | 1 | 0 | 6 | 0 | 9 |
 | [WCF 31.4](../authorities/WCF-31-4.md) | 3 | 0 | 0 | 3 | 0 | 6 |
+| [WCF 31-5](../authorities/WCF-31-5.md) | 0 | 0 | 0 | 1 | 0 | 1 |
 | [WCF 31-34](../authorities/WCF-31-34.md) | 0 | 0 | 0 | 1 | 0 | 1 |
 | [WCF 33.1](../authorities/WCF-33-1.md) | 1 | 0 | 0 | 0 | 0 | 1 |
 | [WCF 35](../authorities/WCF-35.md) | 1 | 0 | 0 | 0 | 0 | 1 |
@@ -759,4 +760,4 @@ Indexed PCA records associated with each provision. Relationship type, evidence,
 | [RAO 40-10h](../authorities/RAO-40-10h.md) | 0 | 0 | 0 | 0 | 1 | 1 |
 | [RAO 82.b(2](../authorities/RAO-82-b-2.md) | 0 | 0 | 0 | 0 | 1 | 1 |
 
-*754 provisions indexed.*
+*755 provisions indexed.*

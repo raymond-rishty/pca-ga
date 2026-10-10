@@ -1,8 +1,8 @@
 # Authority index audit
 
-Catalogue input fingerprint: `7e065911bd3f61ae9349b2d6d5d4f10b6d6cf4234a539f1c2470ac5f4c26cefd`.
+Catalogue input fingerprint: `46ddbc684963aea6c379f45d6b526b4ed131c3b68c62f48d3b41642eba351991`.
 
-The catalogue contains 1172 provisions, 12646 relationships, 16430 evidence occurrences, and 94 unmatched source references.
+The catalogue contains 1172 provisions, 12648 relationships, 16434 evidence occurrences, and 95 unmatched source references.
 
 Relationship kinds describe why a record is linked. Evidence basis describes the source of that link. Match confidence describes extraction confidence. Reader scope labels the relationship in the Constitution Reader. These fields do not describe legal force.
 
@@ -15,7 +15,7 @@ The Reader includes indexed relationships for its supported record types across 
 | CCB advice | 549 | 549 |
 | Constitutional inquiry | 437 | 437 |
 | Judicial case | 3264 | 3264 |
-| Overture | 1509 | 1509 |
+| Overture | 1511 | 1511 |
 | RPR exception | 6887 | 6887 |
 
 Reader-included relationships by scope:
@@ -25,8 +25,8 @@ Reader-included relationships by scope:
 | CCB advice | `contextual` | 549 |
 | Constitutional inquiry | `primary` | 437 |
 | Judicial case | `primary` | 3264 |
-| Overture | `candidate` | 1454 |
-| Overture | `primary` | 55 |
+| Overture | `candidate` | 1455 |
+| Overture | `primary` | 56 |
 | RPR exception | `candidate` | 136 |
 | RPR exception | `contextual` | 6751 |
 
@@ -36,8 +36,8 @@ Reader-included relationships by scope:
 |-------|------:|
 | `body_mention` | 203 |
 | `exception_target` | 224 |
-| `explicit_citation` | 3883 |
-| `proposal_target` | 454 |
+| `explicit_citation` | 3885 |
+| `proposal_target` | 455 |
 | `structured_case_reference` | 820 |
 | `structured_exception_tag` | 6711 |
 | `structured_provision_tag` | 986 |
@@ -46,25 +46,25 @@ Reader-included relationships by scope:
 
 | Value | Count |
 |-------|------:|
-| `direct_text` | 4284 |
+| `direct_text` | 4286 |
 | `structured_case_metadata` | 820 |
 | `structured_provision_tag` | 7697 |
-| `title_subject_reference` | 454 |
+| `title_subject_reference` | 455 |
 
 ### Relationships by match confidence
 
 | Value | Count |
 |-------|------:|
-| `high` | 4445 |
+| `high` | 4447 |
 | `medium` | 8201 |
 
 ### Relationships by reader scope
 
 | Value | Count |
 |-------|------:|
-| `candidate` | 1590 |
+| `candidate` | 1591 |
 | `contextual` | 7300 |
-| `primary` | 3756 |
+| `primary` | 3757 |
 
 ### Relationships by match method
 
@@ -82,7 +82,7 @@ Reader-included relationships by scope:
 | `case_provision_index:judicial_cases.jsonl:bco_provisions` | 66 |
 | `index/inquiries_search.json:provisions` | 986 |
 | `index/rpr_search.json:provisions` | 6711 |
-| `overture_body_explicit_reference_match` | 1348 |
+| `overture_body_explicit_reference_match` | 1350 |
 | `rpr_markdown_line:100` | 1 |
 | `rpr_markdown_line:104` | 1 |
 | `rpr_markdown_line:105` | 2 |
@@ -170,7 +170,7 @@ Reader-included relationships by scope:
 | `rpr_markdown_line:97` | 1 |
 | `rpr_markdown_line:98` | 2 |
 | `rpr_markdown_line:99` | 6 |
-| `title_subject` | 454 |
+| `title_subject` | 455 |
 
 ### Evidence occurrences by relationship kind
 
@@ -178,8 +178,8 @@ Reader-included relationships by scope:
 |-------|------:|
 | `body_mention` | 366 |
 | `exception_target` | 284 |
-| `explicit_citation` | 6788 |
-| `proposal_target` | 454 |
+| `explicit_citation` | 6791 |
+| `proposal_target` | 455 |
 | `structured_case_reference` | 841 |
 | `structured_exception_tag` | 6711 |
 | `structured_provision_tag` | 986 |
@@ -188,25 +188,25 @@ Reader-included relationships by scope:
 
 | Value | Count |
 |-------|------:|
-| `direct_text` | 7438 |
+| `direct_text` | 7441 |
 | `structured_case_metadata` | 841 |
 | `structured_provision_tag` | 7697 |
-| `title_subject_reference` | 454 |
+| `title_subject_reference` | 455 |
 
 ### Evidence occurrences by match confidence
 
 | Value | Count |
 |-------|------:|
-| `high` | 7892 |
+| `high` | 7896 |
 | `medium` | 8538 |
 
 ### Evidence occurrences by reader scope
 
 | Value | Count |
 |-------|------:|
-| `candidate` | 2727 |
+| `candidate` | 2730 |
 | `contextual` | 7544 |
-| `primary` | 6159 |
+| `primary` | 6160 |
 
 ## Unmatched source references
 
@@ -215,7 +215,7 @@ Reader-included relationships by scope:
 | CCB advice | 14 |
 | Constitutional inquiry | 4 |
 | Judicial case | 16 |
-| Overture | 41 |
+| Overture | 42 |
 | RPR exception | 19 |
 
 | Provision | Record type | Record ID | Evidence | Confidence | Scope | Source |
@@ -313,6 +313,7 @@ Reader-included relationships by scope:
 | WCF 107-109 | RPR exception | `rpr_exception:rpr/exc/heritage__045.html` | `structured_provision_tag` | `medium` | `contextual` | [Heritage: Presbytery judges exception “b” as “not hostile.” The candidate stated in regard to the us](../rpr/exc/heritage__045.html) |
 | WCF 22.8 | RPR exception | `rpr_exception:rpr/exc/covenant__018.html` | `direct_text` | `high` | `candidate` | [Covenant: Presbytery approved mission church elders’ relaxed view of the sabbath as “within the boun](../rpr/exc/covenant__018.html) |
 | WCF 31-34 | Overture | `overture:ga32_2004:9:p168` | `direct_text` | `high` | `candidate` | [Amend BCO Preface, Chapter 16, and 21-4 Regarding Stricter Doctrinal Subscription](../markdown/ga32_2004.md#ga32-p168) |
+| WCF 31-5 | Overture | `overture:ga27_1999:17:p174` | `direct_text` | `high` | `candidate` | [Urge Use of Psalter at General Assembly](../markdown/ga27_1999.md#ga27-p174) |
 | WCF 35 | Judicial case | `case:cases/ga49_2022__2020-05.md` | `direct_text` | `high` | `primary` | [Speck v. Missouri Presbytery](../cases/ga49_2022__2020-05.md) |
 
 ## Model-generated relevance assessments
@@ -359,7 +360,7 @@ Stored `unrelated_or_mislinked` advisory labels by record type:
 - Overture: 89
 - RPR exception: 118
 
-Assessment status: `stale`; applied 0, stale 11481, unassessed 12646.
+Assessment status: `stale`; applied 0, stale 11481, unassessed 12648.
 
 ## Coverage and spot checks
 

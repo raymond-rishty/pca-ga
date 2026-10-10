@@ -1,10 +1,10 @@
 {
  "schema_version": 2,
- "catalogue_input_fingerprint": "7e065911bd3f61ae9349b2d6d5d4f10b6d6cf4234a539f1c2470ac5f4c26cefd",
+ "catalogue_input_fingerprint": "46ddbc684963aea6c379f45d6b526b4ed131c3b68c62f48d3b41642eba351991",
  "provision_count": 1172,
- "relationship_count": 12646,
- "occurrence_count": 16430,
- "unmatched_relationship_count": 94,
+ "relationship_count": 12648,
+ "occurrence_count": 16434,
+ "unmatched_relationship_count": 95,
  "unmatched_relationships": [
   {
    "provision": "BCO 10-18",
@@ -1216,6 +1216,19 @@
    "reader_scope": "candidate"
   },
   {
+   "provision": "WCF 31-5",
+   "record_type": "Overture",
+   "record_id": "overture:ga27_1999:17:p174",
+   "title": "Urge Use of Psalter at General Assembly",
+   "year": 1999,
+   "disposition": "Adopted as amended",
+   "url": "markdown/ga27_1999.md#ga27-p174",
+   "evidence_basis": "direct_text",
+   "relationship_kind": "explicit_citation",
+   "match_confidence": "high",
+   "reader_scope": "candidate"
+  },
+  {
    "provision": "WCF 35",
    "record_type": "Judicial case",
    "record_id": "case:cases/ga49_2022__2020-05.md",
@@ -1233,14 +1246,14 @@
   "CCB advice": 549,
   "Constitutional inquiry": 437,
   "Judicial case": 3264,
-  "Overture": 1509,
+  "Overture": 1511,
   "RPR exception": 6887
  },
  "reader_included_by_type": {
   "CCB advice": 549,
   "Constitutional inquiry": 437,
   "Judicial case": 3264,
-  "Overture": 1509,
+  "Overture": 1511,
   "RPR exception": 6887
  },
  "reader_scope_by_type": {
@@ -1254,8 +1267,8 @@
    "primary": 3264
   },
   "Overture": {
-   "candidate": 1454,
-   "primary": 55
+   "candidate": 1455,
+   "primary": 56
   },
   "RPR exception": {
    "candidate": 136,
@@ -1266,26 +1279,26 @@
   "relationship_kind": {
    "body_mention": 203,
    "exception_target": 224,
-   "explicit_citation": 3883,
-   "proposal_target": 454,
+   "explicit_citation": 3885,
+   "proposal_target": 455,
    "structured_case_reference": 820,
    "structured_exception_tag": 6711,
    "structured_provision_tag": 986
   },
   "evidence_basis": {
-   "direct_text": 4284,
+   "direct_text": 4286,
    "structured_case_metadata": 820,
    "structured_provision_tag": 7697,
-   "title_subject_reference": 454
+   "title_subject_reference": 455
   },
   "match_confidence": {
-   "high": 4445,
+   "high": 4447,
    "medium": 8201
   },
   "reader_scope": {
-   "candidate": 1590,
+   "candidate": 1591,
    "contextual": 7300,
-   "primary": 3756
+   "primary": 3757
   },
   "match_method": {
    "case_provision_index:case_markdown_text": 940,
@@ -1300,7 +1313,7 @@
    "case_provision_index:judicial_cases.jsonl:bco_provisions": 66,
    "index/inquiries_search.json:provisions": 986,
    "index/rpr_search.json:provisions": 6711,
-   "overture_body_explicit_reference_match": 1348,
+   "overture_body_explicit_reference_match": 1350,
    "rpr_markdown_line:100": 1,
    "rpr_markdown_line:104": 1,
    "rpr_markdown_line:105": 2,
@@ -1388,33 +1401,33 @@
    "rpr_markdown_line:97": 1,
    "rpr_markdown_line:98": 2,
    "rpr_markdown_line:99": 6,
-   "title_subject": 454
+   "title_subject": 455
   }
  },
  "occurrence_dimensions": {
   "relationship_kind": {
    "body_mention": 366,
    "exception_target": 284,
-   "explicit_citation": 6788,
-   "proposal_target": 454,
+   "explicit_citation": 6791,
+   "proposal_target": 455,
    "structured_case_reference": 841,
    "structured_exception_tag": 6711,
    "structured_provision_tag": 986
   },
   "evidence_basis": {
-   "direct_text": 7438,
+   "direct_text": 7441,
    "structured_case_metadata": 841,
    "structured_provision_tag": 7697,
-   "title_subject_reference": 454
+   "title_subject_reference": 455
   },
   "match_confidence": {
-   "high": 7892,
+   "high": 7896,
    "medium": 8538
   },
   "reader_scope": {
-   "candidate": 2727,
+   "candidate": 2730,
    "contextual": 7544,
-   "primary": 6159
+   "primary": 6160
   },
   "match_method": {
    "case_provision_index:case_markdown_text": 1407,
@@ -1429,7 +1442,7 @@
    "case_provision_index:judicial_cases.jsonl:bco_provisions": 66,
    "index/inquiries_search.json:provisions": 986,
    "index/rpr_search.json:provisions": 6711,
-   "overture_body_explicit_reference_match": 1962,
+   "overture_body_explicit_reference_match": 1965,
    "rpr_markdown_line:100": 1,
    "rpr_markdown_line:104": 1,
    "rpr_markdown_line:105": 2,
@@ -1517,14 +1530,14 @@
    "rpr_markdown_line:97": 1,
    "rpr_markdown_line:98": 2,
    "rpr_markdown_line:99": 6,
-   "title_subject": 454
+   "title_subject": 455
   }
  },
  "unmatched_by_type": {
   "CCB advice": 14,
   "Constitutional inquiry": 4,
   "Judicial case": 16,
-  "Overture": 41,
+  "Overture": 42,
   "RPR exception": 19
  },
  "machine_relevance_roles": {},
@@ -1532,11 +1545,11 @@
   "status": "stale",
   "file": "index/provision_link_adjudications.jsonl",
   "total": 11481,
-  "expected": 12646,
+  "expected": 12648,
   "applied": 0,
   "stale": 11481,
   "unmatched": 0,
-  "unassessed": 12646
+  "unassessed": 12648
  },
  "stored_advisory_assessments": [
   {
