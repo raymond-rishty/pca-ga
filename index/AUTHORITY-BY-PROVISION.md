@@ -23,6 +23,7 @@ Indexed PCA records associated with each provision. Relationship type, evidence,
 | [BCO 3-6](../authorities/BCO-3-6.md) | 1 | 0 | 0 | 0 | 0 | 1 |
 | [BCO 3-7](../authorities/BCO-3-7.md) | 0 | 0 | 0 | 1 | 0 | 1 |
 | [BCO 4](../authorities/BCO-4.md) | 0 | 2 | 0 | 0 | 0 | 2 |
+| [BCO pp-4](../authorities/BCO-pp-4.md) | 0 | 0 | 0 | 1 | 0 | 1 |
 | [BCO 4-1](../authorities/BCO-4-1.md) | 2 | 0 | 0 | 3 | 0 | 5 |
 | [BCO 4-2](../authorities/BCO-4-2.md) | 1 | 0 | 1 | 0 | 0 | 2 |
 | [BCO 4-3](../authorities/BCO-4-3.md) | 4 | 4 | 0 | 1 | 0 | 9 |
@@ -464,7 +465,7 @@ Indexed PCA records associated with each provision. Relationship type, evidence,
 | [BCO 58-2](../authorities/BCO-58-2.md) | 1 | 0 | 0 | 0 | 0 | 1 |
 | [BCO 58-3](../authorities/BCO-58-3.md) | 0 | 0 | 0 | 0 | 2 | 2 |
 | [BCO 58-4](../authorities/BCO-58-4.md) | 3 | 3 | 0 | 10 | 5 | 21 |
-| [BCO 58-5](../authorities/BCO-58-5.md) | 0 | 1 | 1 | 4 | 0 | 6 |
+| [BCO 58-5](../authorities/BCO-58-5.md) | 0 | 1 | 1 | 5 | 0 | 7 |
 | [BCO 58-6](../authorities/BCO-58-6.md) | 0 | 1 | 0 | 0 | 0 | 1 |
 | [BCO 58-7](../authorities/BCO-58-7.md) | 1 | 0 | 0 | 0 | 0 | 1 |
 | [BCO 59](../authorities/BCO-59.md) | 1 | 0 | 3 | 2 | 0 | 6 |
@@ -758,4 +759,4 @@ Indexed PCA records associated with each provision. Relationship type, evidence,
 | [RAO 40-10h](../authorities/RAO-40-10h.md) | 0 | 0 | 0 | 0 | 1 | 1 |
 | [RAO 82.b(2](../authorities/RAO-82-b-2.md) | 0 | 0 | 0 | 0 | 1 | 1 |
 
-*753 provisions indexed.*
+*754 provisions indexed.*
