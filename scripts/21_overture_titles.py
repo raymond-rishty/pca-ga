@@ -29,7 +29,12 @@ _OV = re.compile(r"^#{1,6}\s*Overture\s+(\d+)\b", re.I)
 _PLAIN_REVISED_OVERTURE = re.compile(
     r"^Overture\s+(\d+)\s+\(Revised\)\s+from\s+.+$", re.I
 )
-_PLAIN_OVERTURE_BOUNDARY = re.compile(r"^OVERTURE\s+(\d+)\s*,?\s+from\s+(.+)$", re.I)
+_PLAIN_OVERTURE_BOUNDARY = re.compile(
+    r"^OVERTURE\s+(?:\[MEMORIAL\]\s*)?(\d+)\s*,?\s+from\s+(.+)$", re.I
+)
+_MEMORIAL_OVERTURE = re.compile(
+    r"^OVERTURE\s+\[MEMORIAL\]\s+(\d+)\s*,?\s+from\s+(.+)$", re.I
+)
 _BRACKETED_OVERTURE = re.compile(
     r"^\[OVERTURE\s+(\d+)\s*,?\s+from\s+(.+[“\"].+)$", re.I
 )
@@ -102,10 +107,12 @@ def extract():
                         ln = f"## Overture {number} from {source} {committee}".strip()
             plain_revised = _PLAIN_REVISED_OVERTURE.match(ln)
             bracketed_overture = _BRACKETED_OVERTURE.match(ln)
+            memorial_overture = _MEMORIAL_OVERTURE.match(ln)
             plain_source = (_PLAIN_OVERTURE_BOUNDARY.match(ln)
                             if source_appendix in {"U", "V", "W"} else None)
             plain_boundary = _PLAIN_OVERTURE_BOUNDARY.match(ln)
-            mo = _OV.match(ln) or plain_revised or plain_source or bracketed_overture
+            mo = (_OV.match(ln) or plain_revised or plain_source or bracketed_overture
+                  or memorial_overture)
             if cur is not None and not mo and plain_boundary:
                 recs.append(cur)
                 cur = None
@@ -140,6 +147,10 @@ def extract():
                 elif bracketed_overture:
                     num = int(bracketed_overture.group(1))
                     src = re.sub(r"\s+", " ", bracketed_overture.group(2)).strip().rstrip("\"]")
+                    inline_body = ""
+                elif memorial_overture:
+                    num = int(memorial_overture.group(1))
+                    src = re.sub(r"\s+", " ", memorial_overture.group(2)).strip()
                     inline_body = ""
                 else:
                     src = re.sub(r"^#{1,6}\s*Overture\s+\d+\b[.:,\s]*", "", ln).strip(" *_#")

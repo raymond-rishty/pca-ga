@@ -11,7 +11,7 @@
 | 1997 | CCB advice | structured_provision_tag | structured_provision_tag | medium | [BCO 38-3 - Removing Members from the Roll](../inquiries/ga25_1997__ci05.md) | advice given |
 | 2012 | Overture | explicit_citation | direct_text | high | [Amend BCO 38-3a, 46-6, 46-7, and Remove BCO 57-6 on Church Membership Transfer](../markdown/ga40_2012.md#ga40-p735) |  |
 | 2012 | Overture | explicit_citation | direct_text | high | [Amend BCO 6 Regarding Methods of Joining a Particular Church](../markdown/ga40_2012.md#ga40-p733) | Answered in the negative |
-| 2000 | Overture | explicit_citation | direct_text | high | [Amend BCO 32-19 to Clarify Use of Counsel in Cases of Process](../markdown/ga28_2000.md#ga28-p297) | Answered in the negative |
+| 2000 | Overture | explicit_citation | direct_text | high | [Amend BCO 38-4 by Deletion](../markdown/ga28_2000.md#ga28-p297) | Answered in the negative |
 | 1998 | Overture | explicit_citation | direct_text | high | [Commend Dr. Paul Gilchrist for Exemplary Service as Stated Clerk](../markdown/ga26_1998.md#ga26-p54) |  |
 | 1997 | Overture | explicit_citation | direct_text | high | [Amend BCO 38-3 Regarding Renunciation of Communion](../markdown/ga25_1997.md#ga25-p131) | Answered in the negative |
 | 1996 | Overture | explicit_citation | direct_text | high | [Amend BCO 38-3 Regarding Renouncing Church Membership](../markdown/ga24_1996.md#ga24-p311) |  |

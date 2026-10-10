@@ -13,8 +13,8 @@
 | 2021 | Overture | explicit_citation | direct_text | high | [Form Ad Interim Committee to Study Biblical Ethics in Digital Media](../markdown/ga48_2021.md#ga48-p1077) | Answered in the negative |
 | 2016 | Overture | explicit_citation | direct_text | high | [Confess Covenantal and Generational Sins During the Civil Rights Period](../markdown/ga44_2016.md#ga44-p610) | Answered by reference |
 | 2002 | Overture | explicit_citation | direct_text | high | [Add to BCO 26-1 a Procedure for Alleged Conflicts Between Scripture and the Constitution](../markdown/ga30_2002.md#ga30-p275) |  |
-| 2000 | Overture | explicit_citation | direct_text | high | [Add BCO 16-4 Prohibiting Teaching of Exceptions Harmful to the Church](../markdown/ga28_2000.md#ga28-p292) | Answered in the negative |
 | 2000 | Overture | explicit_citation | direct_text | high | [Amend BCO to Address Improper Dissemination of Judicial Case Information](../markdown/ga28_2000.md#ga28-p296) |  |
+| 2000 | Overture | explicit_citation | direct_text | high | [Decry Contentious Practices of the Presbyterian and Reformed News](../markdown/ga28_2000.md#ga28-p292) | Answered in the negative |
 
 ---
 *[← Authority Index](../index/AUTHORITY-BY-PROVISION.md)*

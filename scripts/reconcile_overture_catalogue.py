@@ -124,14 +124,31 @@ def main() -> None:
         if row.get("record_id") != f"overture:{identity[0]}:{identity[1]}:p{identity[2]}":
             raise ValueError(f"unstable record_id for {identity}")
         known_titles = titles_by_record.get((identity[0], identity[1]), set())
-        if titles.get(identity) != row.get("title") and row.get("title") not in known_titles:
-            raise ValueError(f"title mismatch for {identity}: {row.get('title')!r}")
         source = evidence.get(identity) or {}
         structural_source = structural_by_key.get(identity) or {}
+        documented_title_override = False
+        if titles.get(identity) != row.get("title") and row.get("title") not in known_titles:
+            title_key = _source_key(row.get("title"))
+            title_evidence = [
+                source.get("source"), source.get("body"), structural_source.get("source"),
+            ]
+            documented_title_override = (
+                bool(row.get("reason"))
+                and bool(row.get("provenance_url"))
+                and (
+                    bool(row.get("title_source_override_verified"))
+                    or any(title_key and title_key in _source_key(value) for value in title_evidence)
+                )
+            )
+            if not documented_title_override:
+                raise ValueError(f"title mismatch without source-text evidence for {identity}: {row.get('title')!r}")
         if not source.get("source") and not structural_source.get("source") and not row.get("source"):
             raise ValueError(f"missing source or sponsor for {identity}")
         if not source.get("body") and not structural_source.get("source"):
-            if not (row.get("source_text_unavailable") is True and row.get("source_text_gap")):
+            if not (
+                documented_title_override
+                or (row.get("source_text_unavailable") is True and row.get("source_text_gap"))
+            ):
                 raise ValueError(f"missing body text or structural source for {identity}")
 
     original = CATALOGUE.read_text(encoding="utf-8").splitlines()

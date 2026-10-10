@@ -1,8 +1,8 @@
 # Authority index audit
 
-Catalogue input fingerprint: `1d680959bbe8b0b1c561563ad981953c4a0c39ec2d1ba723207218e8a4f3a891`.
+Catalogue input fingerprint: `7e065911bd3f61ae9349b2d6d5d4f10b6d6cf4234a539f1c2470ac5f4c26cefd`.
 
-The catalogue contains 1172 provisions, 12646 relationships, 16427 evidence occurrences, and 94 unmatched source references.
+The catalogue contains 1172 provisions, 12646 relationships, 16430 evidence occurrences, and 94 unmatched source references.
 
 Relationship kinds describe why a record is linked. Evidence basis describes the source of that link. Match confidence describes extraction confidence. Reader scope labels the relationship in the Constitution Reader. These fields do not describe legal force.
 
@@ -36,8 +36,8 @@ Reader-included relationships by scope:
 |-------|------:|
 | `body_mention` | 203 |
 | `exception_target` | 224 |
-| `explicit_citation` | 3880 |
-| `proposal_target` | 455 |
+| `explicit_citation` | 3883 |
+| `proposal_target` | 454 |
 | `structured_case_reference` | 820 |
 | `structured_exception_tag` | 6711 |
 | `structured_provision_tag` | 986 |
@@ -46,10 +46,10 @@ Reader-included relationships by scope:
 
 | Value | Count |
 |-------|------:|
-| `direct_text` | 4281 |
+| `direct_text` | 4284 |
 | `structured_case_metadata` | 820 |
 | `structured_provision_tag` | 7697 |
-| `title_subject_reference` | 455 |
+| `title_subject_reference` | 454 |
 
 ### Relationships by match confidence
 
@@ -82,7 +82,7 @@ Reader-included relationships by scope:
 | `case_provision_index:judicial_cases.jsonl:bco_provisions` | 66 |
 | `index/inquiries_search.json:provisions` | 986 |
 | `index/rpr_search.json:provisions` | 6711 |
-| `overture_body_explicit_reference_match` | 1345 |
+| `overture_body_explicit_reference_match` | 1348 |
 | `rpr_markdown_line:100` | 1 |
 | `rpr_markdown_line:104` | 1 |
 | `rpr_markdown_line:105` | 2 |
@@ -170,7 +170,7 @@ Reader-included relationships by scope:
 | `rpr_markdown_line:97` | 1 |
 | `rpr_markdown_line:98` | 2 |
 | `rpr_markdown_line:99` | 6 |
-| `title_subject` | 455 |
+| `title_subject` | 454 |
 
 ### Evidence occurrences by relationship kind
 
@@ -178,8 +178,8 @@ Reader-included relationships by scope:
 |-------|------:|
 | `body_mention` | 366 |
 | `exception_target` | 284 |
-| `explicit_citation` | 6784 |
-| `proposal_target` | 455 |
+| `explicit_citation` | 6788 |
+| `proposal_target` | 454 |
 | `structured_case_reference` | 841 |
 | `structured_exception_tag` | 6711 |
 | `structured_provision_tag` | 986 |
@@ -188,23 +188,23 @@ Reader-included relationships by scope:
 
 | Value | Count |
 |-------|------:|
-| `direct_text` | 7434 |
+| `direct_text` | 7438 |
 | `structured_case_metadata` | 841 |
 | `structured_provision_tag` | 7697 |
-| `title_subject_reference` | 455 |
+| `title_subject_reference` | 454 |
 
 ### Evidence occurrences by match confidence
 
 | Value | Count |
 |-------|------:|
-| `high` | 7889 |
+| `high` | 7892 |
 | `medium` | 8538 |
 
 ### Evidence occurrences by reader scope
 
 | Value | Count |
 |-------|------:|
-| `candidate` | 2724 |
+| `candidate` | 2727 |
 | `contextual` | 7544 |
 | `primary` | 6159 |
 

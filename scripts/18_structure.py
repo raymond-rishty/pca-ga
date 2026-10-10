@@ -77,7 +77,7 @@ def _section(ln):
 # Presbytery of the Evangel", born-digital "**OVERTURE 1** from ..."). The punctuation/"from"
 # requirement skips prose mentions like "Overture 12 of North Georgia ... was referred".
 _OVERTURE = re.compile(
-    r"^[#*_\s]*OVERTURE\s+(\d+)\b(?:\s*,[\s,A-Z]*?[A-Z]\.?)?\**"
+    r"^[#*_\s]*OVERTURE\s+(?:\[MEMORIAL\]\s*)?(\d+)\b(?:\s*,[\s,A-Z]*?[A-Z]\.?)?\**"
     r"(?:\s*[.:]\s*(?:from\s+)?|\s+from\s+|,\s*from\s+)(.*?)\**\s*$", re.I)  # comma-form source headings (e.g. OVERTURE 9, from ...)
 
 
