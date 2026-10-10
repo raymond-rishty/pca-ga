@@ -30,6 +30,9 @@ _PLAIN_REVISED_OVERTURE = re.compile(
     r"^Overture\s+(\d+)\s+\(Revised\)\s+from\s+.+$", re.I
 )
 _PLAIN_OVERTURE_BOUNDARY = re.compile(r"^OVERTURE\s+(\d+)\s*,?\s+from\s+(.+)$", re.I)
+_BRACKETED_OVERTURE = re.compile(
+    r"^\[OVERTURE\s+(\d+)\s*,?\s+from\s+(.+[“\"].+)$", re.I
+)
 _APPENDIX_SOURCE = re.compile(r"^#{1,6}\s*APPENDIX\s+([A-Z0-9]+)\b", re.I)
 _PAGE = re.compile(r"<!--\s*PAGE\s+ga=\d+\s+pdf_page=(\w+)")
 _NOISE = re.compile(r"^\s*(<a id=|<!--\s*PAGE|#*\s*\d*\s*MINUTES OF THE GENERAL ASSE|JOURNAL OF THE)")
@@ -93,10 +96,11 @@ def extract():
                         table_header = (number, f"{source} {committee}".strip())
                         ln = f"## Overture {number} from {source} {committee}".strip()
             plain_revised = _PLAIN_REVISED_OVERTURE.match(ln)
+            bracketed_overture = _BRACKETED_OVERTURE.match(ln)
             plain_source = (_PLAIN_OVERTURE_BOUNDARY.match(ln)
                             if source_appendix in {"U", "V", "W"} else None)
             plain_boundary = _PLAIN_OVERTURE_BOUNDARY.match(ln)
-            mo = _OV.match(ln) or plain_revised or plain_source
+            mo = _OV.match(ln) or plain_revised or plain_source or bracketed_overture
             if cur is not None and not mo and plain_boundary:
                 recs.append(cur)
                 cur = None
@@ -128,6 +132,10 @@ def extract():
                     else:
                         src = source_text
                         inline_body = ""
+                elif bracketed_overture:
+                    num = int(bracketed_overture.group(1))
+                    src = re.sub(r"\s+", " ", bracketed_overture.group(2)).strip().rstrip("\"]")
+                    inline_body = ""
                 else:
                     src = re.sub(r"^#{1,6}\s*Overture\s+\d+\b[.:,\s]*", "", ln).strip(" *_#")
                     src = re.sub(r"(?i)^from\s+", "", src)
@@ -135,7 +143,8 @@ def extract():
                 cur = {"vol": vol, "ga_ordinal": ordn, "number": num,
                        "pdf_page": cur_page, "source": src, "_lines": [],
                        "_end": ENDS.get(f"{vol}__o{num}@{i}"),
-                       "_table_header": bool(table_header or plain_revised)}
+                       "_table_header": bool(table_header or plain_revised),
+                       "_bracketed_source": bool(bracketed_overture)}
                 if plain_source and inline_body:
                     cur["_lines"].append(inline_body)
                 continue
@@ -157,6 +166,9 @@ def extract():
                         recs.append(cur); cur = None
                         continue
                     cur["_lines"].append(ln)
+                    if cur.get("_bracketed_source") and ln.rstrip().endswith("]"):
+                        recs.append(cur)
+                        cur = None
         if cur:
             recs.append(cur)
     table_keys = {
@@ -167,6 +179,7 @@ def extract():
     for r in recs:
         had_end = r.pop("_end", None)
         r.pop("_table_header", None)
+        r.pop("_bracketed_source", None)
         body = preserve_markdown(r.pop("_lines"))
         # A located true end is trusted (just a generous safety ceiling); otherwise bound runaway
         # over-extraction at 6000. Either way cut on a word boundary with an ellipsis, never

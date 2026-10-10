@@ -589,14 +589,9 @@ def main() -> int:
         for name, value in (("source_registry.json", registry), ("dedicated_pdf_inventory.json", inventory)):
             path = args.root / "index" / name
             content = json.dumps(value, indent=2, ensure_ascii=False) + "\n"
-            try:
-                output = path.open("r+", encoding="utf-8", newline="\n")
-            except FileNotFoundError:
-                output = path.open("w", encoding="utf-8", newline="\n")
-            with output:
-                output.seek(0)
-                output.write(content)
-                output.truncate()
+            temporary = path.with_name(path.name + ".tmp")
+            temporary.write_text(content, encoding="utf-8", newline="\n")
+            temporary.replace(path)
         print("wrote source registry and dedicated-PDF inventory")
         return 0
     errors = validate_registry(args.root)
