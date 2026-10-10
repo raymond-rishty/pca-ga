@@ -177,7 +177,8 @@ def main():
     for record in records:
         vol, number = record["vol"], str(record["number"])
         source_page = record["source_page"]
-        exact = candidates.get((vol, number, source_page), [])
+        source_volume = record.get("source_page_vol") or vol
+        exact = candidates.get((source_volume, number, source_page), [])
         if exact:
             r = max(exact, key=_score)
         else:
@@ -188,14 +189,14 @@ def main():
                 r = {"body": body, "ga_ordinal": record["ga_ordinal"], "pdf_page": source_page}
             else:
                 options = [candidate for (v, num, _), rows in candidates.items()
-                           if v == vol and num == number for candidate in rows]
+                           if v == source_volume and num == number for candidate in rows]
                 r = max(options, key=_score) if options else {
                     "body": "", "ga_ordinal": record["ga_ordinal"], "pdf_page": source_page
                 }
         body = (r.get("body") or "").strip()
         body_available = len(body) >= MIN_BODY
         ga, year = record["ga_ordinal"], str(record["year"])
-        prefix = vol.split("_")[0]                      # ga51_2024 -> ga51 (anchor id)
+        prefix = source_volume.split("_")[0]             # source minutes volume prefix
         page = source_page
         title = (record.get("title") or "").strip() or "(untitled overture)"
         source = (record.get("source") or "").strip()
@@ -208,13 +209,14 @@ def main():
             hdr.append(f"**Disposition:** {disp}")
 
         anchor = f"#{prefix}-p{page}" if page else ""
-        src = (f"*Source: [{vol} p. {page}](../markdown/{vol}.md{anchor})*" if page
-               else f"*Source: [{vol}](../markdown/{vol}.md)*")
+        src = (f"*Source: [{source_volume} p. {page}](../markdown/{source_volume}.md{anchor})*" if page
+               else f"*Source: [{source_volume}](../markdown/{source_volume}.md)*")
         rn = ""
         ratnote = [f"> *{rn.strip()}*", ""] if (rn or "").strip() else []
 
         source_meta = source_front_matter(source_entries_for_record(
-            Path(ROOT), "overture", f"{vol}:{number}:{source_page}", vol, int(page) if page else None
+            Path(ROOT), "overture", f"{source_volume}:{number}:{source_page}", source_volume,
+            int(page) if page else None
         ))
         # The helper's trailing blank line is useful at other insertion points, but
         # overture pages already add a blank after the heading metadata below.

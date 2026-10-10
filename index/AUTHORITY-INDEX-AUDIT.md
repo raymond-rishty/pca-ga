@@ -1,8 +1,8 @@
 # Authority index audit
 
-Catalogue input fingerprint: `c9dba45d6969df69871a94095d2dfd57633bb108095637c407f2331c0adf9cd4`.
+Catalogue input fingerprint: `3fbd0596c9731aa523afbbc335e2d3b5cd9d2e131607bd1528a749a34d132666`.
 
-The catalogue contains 1172 provisions, 12644 relationships, 16431 evidence occurrences, and 95 unmatched source references.
+The catalogue contains 1172 provisions, 12656 relationships, 16456 evidence occurrences, and 96 unmatched source references.
 
 Relationship kinds describe why a record is linked. Evidence basis describes the source of that link. Match confidence describes extraction confidence. Reader scope labels the relationship in the Constitution Reader. These fields do not describe legal force.
 
@@ -15,7 +15,7 @@ The Reader includes indexed relationships for its supported record types across 
 | CCB advice | 549 | 549 |
 | Constitutional inquiry | 437 | 437 |
 | Judicial case | 3264 | 3264 |
-| Overture | 1507 | 1507 |
+| Overture | 1519 | 1519 |
 | RPR exception | 6887 | 6887 |
 
 Reader-included relationships by scope:
@@ -25,7 +25,7 @@ Reader-included relationships by scope:
 | CCB advice | `contextual` | 549 |
 | Constitutional inquiry | `primary` | 437 |
 | Judicial case | `primary` | 3264 |
-| Overture | `candidate` | 1451 |
+| Overture | `candidate` | 1463 |
 | Overture | `primary` | 56 |
 | RPR exception | `candidate` | 136 |
 | RPR exception | `contextual` | 6751 |
@@ -36,8 +36,8 @@ Reader-included relationships by scope:
 |-------|------:|
 | `body_mention` | 203 |
 | `exception_target` | 224 |
-| `explicit_citation` | 3881 |
-| `proposal_target` | 455 |
+| `explicit_citation` | 3893 |
+| `proposal_target` | 460 |
 | `structured_case_reference` | 820 |
 | `structured_exception_tag` | 6711 |
 | `structured_provision_tag` | 986 |
@@ -46,23 +46,23 @@ Reader-included relationships by scope:
 
 | Value | Count |
 |-------|------:|
-| `direct_text` | 4282 |
+| `direct_text` | 4294 |
 | `structured_case_metadata` | 820 |
 | `structured_provision_tag` | 7697 |
-| `title_subject_reference` | 455 |
+| `title_subject_reference` | 460 |
 
 ### Relationships by match confidence
 
 | Value | Count |
 |-------|------:|
-| `high` | 4443 |
+| `high` | 4455 |
 | `medium` | 8201 |
 
 ### Relationships by reader scope
 
 | Value | Count |
 |-------|------:|
-| `candidate` | 1587 |
+| `candidate` | 1599 |
 | `contextual` | 7300 |
 | `primary` | 3757 |
 
@@ -82,7 +82,7 @@ Reader-included relationships by scope:
 | `case_provision_index:judicial_cases.jsonl:bco_provisions` | 66 |
 | `index/inquiries_search.json:provisions` | 986 |
 | `index/rpr_search.json:provisions` | 6711 |
-| `overture_body_explicit_reference_match` | 1346 |
+| `overture_body_explicit_reference_match` | 1358 |
 | `rpr_markdown_line:100` | 1 |
 | `rpr_markdown_line:104` | 1 |
 | `rpr_markdown_line:105` | 2 |
@@ -170,7 +170,7 @@ Reader-included relationships by scope:
 | `rpr_markdown_line:97` | 1 |
 | `rpr_markdown_line:98` | 2 |
 | `rpr_markdown_line:99` | 6 |
-| `title_subject` | 455 |
+| `title_subject` | 460 |
 
 ### Evidence occurrences by relationship kind
 
@@ -178,8 +178,8 @@ Reader-included relationships by scope:
 |-------|------:|
 | `body_mention` | 366 |
 | `exception_target` | 284 |
-| `explicit_citation` | 6788 |
-| `proposal_target` | 455 |
+| `explicit_citation` | 6808 |
+| `proposal_target` | 460 |
 | `structured_case_reference` | 841 |
 | `structured_exception_tag` | 6711 |
 | `structured_provision_tag` | 986 |
@@ -188,23 +188,23 @@ Reader-included relationships by scope:
 
 | Value | Count |
 |-------|------:|
-| `direct_text` | 7438 |
+| `direct_text` | 7458 |
 | `structured_case_metadata` | 841 |
 | `structured_provision_tag` | 7697 |
-| `title_subject_reference` | 455 |
+| `title_subject_reference` | 460 |
 
 ### Evidence occurrences by match confidence
 
 | Value | Count |
 |-------|------:|
-| `high` | 7893 |
+| `high` | 7918 |
 | `medium` | 8538 |
 
 ### Evidence occurrences by reader scope
 
 | Value | Count |
 |-------|------:|
-| `candidate` | 2727 |
+| `candidate` | 2752 |
 | `contextual` | 7544 |
 | `primary` | 6160 |
 
@@ -215,7 +215,7 @@ Reader-included relationships by scope:
 | CCB advice | 14 |
 | Constitutional inquiry | 4 |
 | Judicial case | 16 |
-| Overture | 42 |
+| Overture | 43 |
 | RPR exception | 19 |
 
 | Provision | Record type | Record ID | Evidence | Confidence | Scope | Source |
@@ -246,6 +246,7 @@ Reader-included relationships by scope:
 | BCO 27-37 | Judicial case | `case:cases/ga27_1999__1998-05.md` | `direct_text` | `high` | `primary` | [Long, et al. v. James River Presbytery](../cases/ga27_1999__1998-05.md) |
 | BCO 27-46 | Overture | `overture:ga51_2024:4:p1072` | `title_subject_reference` | `high` | `candidate` | [Establish Study Committee to Review BCO 27-46 Judicial Rules](../markdown/ga51_2024.md#ga51-p1072) |
 | BCO 3-7 | Overture | `overture:ga16_1988:23:p61` | `direct_text` | `high` | `candidate` | [Reject Proposed BCO Amendments on Restructuring Higher and Lower Court Relations](../markdown/ga16_1988.md#ga16-p61) |
+| BCO 31-33 | Overture | `overture:ga23_1995:7:p223` | `direct_text` | `high` | `candidate` | [Consider Alternative Amendments to BCO 46-5 on Church Membership Rolls](../markdown/ga23_1995.md#ga23-p223) |
 | BCO 31-33 | Overture | `overture:ga24_1996:14:p303` | `direct_text` | `high` | `candidate` | [Amend BCO by Striking 46-5 and Adding New BCO 38-2 and 46-2](../markdown/ga24_1996.md#ga24-p303) |
 | BCO 31-33 | Overture | `overture:ga24_1996:27:p297` | `direct_text` | `high` | `candidate` | [Delete BCO 46-5 and Amend BCO 38 and 46-2 on Church Membership](../markdown/ga24_1996.md#ga24-p297) |
 | BCO 31-33 | Overture | `overture:ga24_1996:6:p298` | `direct_text` | `high` | `candidate` | [Amend BCO 46-5, 38-2 & 38-3 on Member Roll Removal & Discipline](../markdown/ga24_1996.md#ga24-p298) |
@@ -360,7 +361,7 @@ Stored `unrelated_or_mislinked` advisory labels by record type:
 - Overture: 89
 - RPR exception: 118
 
-Assessment status: `stale`; applied 0, stale 11481, unassessed 12644.
+Assessment status: `stale`; applied 0, stale 11481, unassessed 12656.
 
 ## Coverage and spot checks
 

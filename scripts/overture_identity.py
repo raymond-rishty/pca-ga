@@ -51,28 +51,42 @@ def load_reconciled_overture_records(index_dir: Path) -> list[dict[str, Any]]:
             continue
 
         number = int(number_match.group())
-        own_volume_pages = list(dict.fromkeys(
-            int(match.group("page"))
-            for match in page_matches
+        # A later Assembly's errata may be the only surviving printed source
+        # for an earlier overture. The catalogue number link carries the
+        # overture's Assembly identity; the page link identifies the source
+        # witness, which can therefore belong to a different minutes volume.
+        # Prefer a source page in the Assembly volume when one exists (some
+        # catalogue rows also link later actions); otherwise use the first
+        # cross-volume source witness.
+        own_volume_matches = [
+            match for match in page_matches
             if Path(match.group("volume")).stem == volume
+        ]
+        source_match = own_volume_matches[0] if own_volume_matches else page_matches[0]
+        source_volume = Path(source_match.group("volume")).stem
+        source_page = int(source_match.group("page"))
+        source_ordinal_match = re.match(r"ga(?P<ordinal>\d+)-p", source_match.group("anchor"))
+        source_ordinal = int(source_ordinal_match.group("ordinal")) if source_ordinal_match else ga
+        catalogue_pages = list(dict.fromkeys(
+            int(match.group("page")) for match in page_matches
+            if Path(match.group("volume")).stem == source_volume
         ))
-        if not own_volume_pages:
-            raise ValueError(
-                f"catalogue row GA{ga} O{number} has no source page in {volume}: {line}"
-            )
-        source_page = own_volume_pages[0]
-        records.append({
+        record = {
             "record_id": f"overture:{volume}:{number}:p{source_page}",
             "vol": volume,
             "ga_ordinal": ga,
             "year": year,
             "number": number,
             "source_page": source_page,
-            "catalogue_pages": own_volume_pages,
+            "catalogue_pages": catalogue_pages,
             "title": cells[1],
             "disposition": cells[2],
             "source": cells[3],
-        })
+        }
+        if source_volume != volume:
+            record["source_page_vol"] = source_volume
+            record["source_page_ga_ordinal"] = source_ordinal
+        records.append(record)
 
     ids = [row["record_id"] for row in records]
     duplicates = sorted({record_id for record_id in ids if ids.count(record_id) > 1})

@@ -123,11 +123,14 @@ def main() -> None:
         seen_ids.add(identity)
         if row.get("record_id") != f"overture:{identity[0]}:{identity[1]}:p{identity[2]}":
             raise ValueError(f"unstable record_id for {identity}")
-        known_titles = titles_by_record.get((identity[0], identity[1]), set())
-        source = evidence.get(identity) or {}
-        structural_source = structural_by_key.get(identity) or {}
+        source_vol = row.get("source_page_vol") or identity[0]
+        source_ordinal = int(row.get("source_page_ga_ordinal") or row["ga_ordinal"])
+        source_identity = (source_vol, identity[1], identity[2])
+        known_titles = titles_by_record.get((source_vol, identity[1]), set())
+        source = evidence.get(source_identity) or {}
+        structural_source = structural_by_key.get(source_identity) or {}
         documented_title_override = False
-        if titles.get(identity) != row.get("title") and row.get("title") not in known_titles:
+        if titles.get(source_identity) != row.get("title") and row.get("title") not in known_titles:
             title_key = _source_key(row.get("title"))
             title_evidence = [
                 source.get("source"), source.get("body"), structural_source.get("source"),
@@ -145,7 +148,31 @@ def main() -> None:
         if not source.get("source") and not structural_source.get("source") and not row.get("source"):
             raise ValueError(f"missing source or sponsor for {identity}")
         if not source.get("body") and not structural_source.get("source"):
-            if not (
+            # Some original overture text survives only as a correction printed
+            # in a later Assembly's minutes. Verify that cross-volume source
+            # directly against the page-anchored Markdown before admitting it.
+            cross_volume_source_verified = False
+            if row.get("source_page_vol"):
+                source_path = ROOT / "markdown" / f"{source_vol}.md"
+                if source_path.exists():
+                    source_text = source_path.read_text(encoding="utf-8")
+                    anchor = f'<a id="ga{source_ordinal:02}-p{identity[2]}"></a>'
+                    start = source_text.find(anchor)
+                    if start >= 0:
+                        next_anchor = re.search(
+                            rf'<a id="ga{source_ordinal:02}-p\d+"></a>',
+                            source_text[start + len(anchor):],
+                        )
+                        end = start + len(anchor) + next_anchor.start() if next_anchor else len(source_text)
+                        page_text = source_text[start:end]
+                        cross_volume_source_verified = bool(
+                            _source_key(row.get("source"))
+                            and _source_key(row.get("source")) in _source_key(page_text)
+                        )
+            if row.get("source_page_vol"):
+                if not cross_volume_source_verified:
+                    raise ValueError(f"cross-volume Markdown source does not verify {identity}")
+            elif not (
                 documented_title_override
                 or (row.get("source_text_unavailable") is True and row.get("source_text_gap"))
             ):
@@ -215,7 +242,9 @@ def main() -> None:
         number = int(correction["number"])
         page = int(correction["pdf_page"])
         vol = correction["vol"]
-        page_link = f"[p.{page}](../markdown/{vol}.md#ga{ordinal:02}-p{page})"
+        source_vol = correction.get("source_page_vol") or vol
+        source_ordinal = int(correction.get("source_page_ga_ordinal") or ordinal)
+        page_link = f"[p.{page}](../markdown/{source_vol}.md#ga{source_ordinal:02}-p{page})"
         number_link = f"[{number}](../overtures/{vol}__o{number}.md)"
         subject = _md(correction["title"])
         source = _md(correction["source"])
@@ -226,7 +255,7 @@ def main() -> None:
         # the source page to an exact same-title/sponsor row when possible.
         identity_row = next((row for row in group["rows"]
                              if row["number"] == number
-                             and any(linked_volume == vol and linked_page == page
+                             and any(linked_volume == source_vol and linked_page == page
                                      for linked_volume, linked_page, _ in row["pages"])), None)
         if identity_row is not None:
             identity_row["number_link"] = number_link
@@ -244,9 +273,9 @@ def main() -> None:
                              and _source_key(row["subject"]) == _source_key(subject)
                              and _source_key(row["source"]) == _source_key(source)), None)
         if matching_row is not None:
-            if not any(linked_volume == vol and linked_page == page
+            if not any(linked_volume == source_vol and linked_page == page
                        for linked_volume, linked_page, _ in matching_row["pages"]):
-                matching_row["pages"].append((vol, page, page_link))
+                matching_row["pages"].append((source_vol, page, page_link))
             matching_row["number_link"] = number_link
             matching_row["subject"] = subject
             matching_row["source"] = source
@@ -260,7 +289,7 @@ def main() -> None:
         new_row = {
             "number": number,
             "number_link": number_link,
-            "pages": [(vol, page, page_link)],
+            "pages": [(source_vol, page, page_link)],
             "subject": subject,
             "disposition": disposition,
             "source": source,
@@ -268,7 +297,7 @@ def main() -> None:
         }
         order = (number, page)
         position = next((i for i, row in enumerate(group["rows"])
-                         if (row["number"], min((p for v, p, _ in row["pages"] if v == vol), default=0)) > order),
+                         if (row["number"], min((p for v, p, _ in row["pages"] if v == source_vol), default=0)) > order),
                          len(group["rows"]))
         group["rows"].insert(position, new_row)
 

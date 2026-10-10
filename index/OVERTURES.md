@@ -714,34 +714,46 @@ Every overture recorded across all General Assemblies, grouped by Assembly. Page
 | Overture | Subject | Outcome | Source | Pages |
 |---:|---|---|---|---|
 | [1](../overtures/ga22_1994__o1.md) | Continue Korean Language Presbyteries on Semi-Permanent Status |  | OVERTURE 1 From Korean Capital Presbytery | [p.323](../markdown/ga22_1994.md#ga22-p323) |
+| [15](../overtures/ga22_1994__o15.md) | Require Interchurch Relations Committee of Commissioners to Investigate IRC | Answered by GA22 substitute; GA23 directed correction of M22GA and no further action | OVERTURE 15 From Eastern Canada (to IRC) | [p.486](../markdown/ga23_1995.md#ga23-p486) |
 | [22](../overtures/ga22_1994__o22.md) | Amend BCO 56-5 Covenant Baptism Questions for Parents |  | OVERTURE 22 From Western Carolina Presbytery | [p.249](../markdown/ga22_1994.md#ga22-p249) |
 | [24](../overtures/ga22_1994__o24.md) | Amend BCO 32-18 to Clarify the Written Record of the Case |  | Philadelphia Presbytery "Amend BCO 32-18 to Clarify the 'Record of the Case" | [p.246](../markdown/ga22_1994.md#ga22-p246) |
 | [25](../overtures/ga22_1994__o25.md) | Set a Day of Prayer and Develop Ministry Strategy for North Korea |  | Philadelphia Presbytery "Set a Day of Prayer for and Develop Strategy for Ministry in Nort | [p.211](../markdown/ga22_1994.md#ga22-p211) |
 | [27](../overtures/ga22_1994__o27.md) | Make Participation in the PCA Health Plan Mandatory | Adopted (final) | OVERTURE 27 From the Central Georgia Presbytery | [p.183](../markdown/ga22_1994.md#ga22-p183) |
+| [29](../overtures/ga22_1994__o29.md) | If IRC Does Not Report on CRC Issues, GA Should Replace IRC Membership | Answered by GA22 substitute; GA23 directed correction of M22GA and no further action | OVERTURE 29 From Westminster Presbytery (to IRC) | [p.486](../markdown/ga23_1995.md#ga23-p486) |
 | [30](../overtures/ga22_1994__o30.md) | Instruct MNA to Dismiss Its Subcommittee on Worship | Answered in the negative | OVERTURE 30 From Westminster Presbytery | [p.177](../markdown/ga22_1994.md#ga22-p177) |
 | [36](../overtures/ga22_1994__o36.md) | Require IAR to Produce Legal Opinions and Appoint Interim Board |  | OVERTURE 36 from Central Carolina Presbytery | [p.184](../markdown/ga22_1994.md#ga22-p184) |
 | [38](../overtures/ga22_1994__o38.md) | Investigate Conflict of Interest of Non-PCA Corporations Using PCA Address |  | the Presbytery of Northern Illinois "Investigate Potential Conflict of Interest of Individ | [p.275](../markdown/ga22_1994.md#ga22-p275) |
 | [40](../overtures/ga22_1994__o40.md) | Require Presentation of Legal Audit to General Assembly in Executive Session |  | the Presbytery of the Ascension "Make Legal Audit Public" | [p.272](../markdown/ga22_1994.md#ga22-p272) |
+| [43](../overtures/ga22_1994__o43.md) | Instruct IRC to Be More Circumspect | Answered by GA22 substitute; GA23 directed correction of M22GA and no further action | OVERTURE 43 From South Texas Presbytery (to IRC) | [p.487](../markdown/ga23_1995.md#ga23-p487) |
 
 ## 23rd General Assembly (1995)  ·  `ga23_1995`
 
 | Overture | Subject | Outcome | Source | Pages |
 |---:|---|---|---|---|
-| [1](../overtures/ga23_1995__o1.md) | Require Full Presentation of Legal Audit to General Assembly |  | the Susquehanna Valley Presbytery (to MNA) "Change Boundary of Susquehanna Valley Presbyte | [p.417](../markdown/ga23_1995.md#ga23-p417) |
+| [1](../overtures/ga23_1995__o1.md) | Extend Boundary of Susquehanna Valley Presbytery to Include Lycoming and Clinton Counties | Adopted (final) | Susquehanna Valley Presbytery (to MNA) | [p.417](../markdown/ga23_1995.md#ga23-p417) |
 | [2](../overtures/ga23_1995__o2.md) |  |  | Tennessee Valley Presbytery VACATED: Rescinded by Presbytery | [p.49](../markdown/ga23_1995.md#ga23-p49) |
+| [3](../overtures/ga23_1995__o3.md) | Amend BCO 13-9(f) to Clarify Dissolving and Dismissing Churches |  | OVERTURE 3 From Southeast Alabama Presbytery | [p.237](../markdown/ga23_1995.md#ga23-p237) |
 | [4](../overtures/ga23_1995__o4.md) | Amend RAO 15-3 to Clarify Appointment of Judicial Panels |  | Southeast Alabama Presbytery "Amend RAO 15-3 to Clarify Appointment of Judicial Panels | [p.229](../markdown/ga23_1995.md#ga23-p229) |
 | [5](../overtures/ga23_1995__o5.md) | Amend PCA Corporate Bylaws IV-4 Regarding Monthly Reporting to Stated Clerk |  | North Georgia Presbytery "Amend the PCA Corporate Bylaws IV-4 Re. Reporting Monthly to Sta | [p.236](../markdown/ga23_1995.md#ga23-p236) |
+| [6](../overtures/ga23_1995__o6.md) | Amend BCO 13-9(f) to Clarify Dissolving and Dismissing Churches |  | OVERTURE 6 From North Georgia Presbytery | [p.238](../markdown/ga23_1995.md#ga23-p238) |
+| [7](../overtures/ga23_1995__o7.md) | Consider Alternative Amendments to BCO 46-5 on Church Membership Rolls | The Assembly adopted the recommendation as amended, requesting discussion and sending examples to Presbyteries; it did not send a BCO amendment for advice and consent. | OVERTURE 7 From Potomac Presbytery (as amended) | [p.223](../markdown/ga23_1995.md#ga23-p223) |
 | [8](../overtures/ga23_1995__o8.md) | Consider Alternative Amendments to BCO 46-5 on Deleting Names from Rolls |  | Northeast Presbytery "Consideration of Alternative Amendments to BCO 46-5" (same as Overtu | [p.226](../markdown/ga23_1995.md#ga23-p226) |
+| [9](../overtures/ga23_1995__o9.md) | Amend RAO 3-2 and 14-2-h-2 to Require Memorials for Teaching Elders | Answered in the negative. | OVERTURE 9 From Central Carolina Presbytery | [p.215](../markdown/ga23_1995.md#ga23-p215) |
 | [10](../overtures/ga23_1995__o10.md) | Allow Sessions to Establish Minimum Voting Age Restrictions | Answered by reference | Illiana Presbytery "Allow Sessions to Establish Voting Age Restrictions" Whereas, the prac | [p.247](../markdown/ga23_1995.md#ga23-p247) |
+| [11](../overtures/ga23_1995__o11.md) | Designate Father's Day Week as Christian Family Emphasis Week | Answered in the affirmative. | OVERTURE 11 From Tennessee Valley Presbytery | [p.157](../markdown/ga23_1995.md#ga23-p157) |
 | [12](../overtures/ga23_1995__o12.md) | Direct CCB to Review BCO 15-1 and RAO 14-10 on Commission Minutes |  | Presbytery of New Jersey "That CCB Review BCO 15-1 and RAO 14-10 for Clarification" | [p.61](../markdown/ga23_1995.md#ga23-p61) |
+| [13](../overtures/ga23_1995__o13.md) | Decline to Issue Extra-Constitutional Clarifications to the Constitution | Received as information | OVERTURE 13 from Covenant Presbytery | [p.233](../markdown/ga23_1995.md#ga23-p233) |
+| [14](../overtures/ga23_1995__o14.md) | Amend BCO Preface to Include a Statement of Missions | Answered in the negative | OVERTURE 14 From the Presbytery of Eastern Canada | [p.238](../markdown/ga23_1995.md#ga23-p238) |
 | [15](../overtures/ga23_1995__o15.md) | Amend BCO 7-4 to Confine Doctrinal Requirements to Westminster Standards |  | the Presbytery of Eastern Canada "Amend BCO 7-4 to Confine Doctrinal Requirements Only to | [p.240](../markdown/ga23_1995.md#ga23-p240) |
+| [16](../overtures/ga23_1995__o16.md) | Clarify Whether BCO 46-5 Permits Formal Discipline After Resignation | Returned to Presbytery for perfection | OVERTURE 16 From the Presbytery of New River | [p.241](../markdown/ga23_1995.md#ga23-p241) |
 | [17](../overtures/ga23_1995__o17.md) | Establish Ad Interim Committee to Study Diversity Issues in PCA |  | OVERTURE 17 From The Presbytery of Western Carolina | [p.234](../markdown/ga23_1995.md#ga23-p234) |
+| [18](../overtures/ga23_1995__o18.md) | Consider Alternative Amendments to BCO 46-5 on Deleting Names from Rolls | Answered by reference to Overture 7 | OVERTURE 18 From the Presbytery of the Ascension | [p.242](../markdown/ga23_1995.md#ga23-p242) |
 | [19](../overtures/ga23_1995__o19.md) | Reaffirm Doctrine of Justification by Faith Alone in Response to ECT | Adopted (final) | the Presbytery of the Pacific Northwest (as amended) Response to" Evangelicals and Catholi | [p.230](../markdown/ga23_1995.md#ga23-p230) |
+| [20](../overtures/ga23_1995__o20.md) | Appoint Study Committee on PCA Identity | Answered by reference to Overture 17 | OVERTURE 20 From Covenant PCA Session, Oak Ridge, TN | [p.234](../markdown/ga23_1995.md#ga23-p234) |
 | [21](../overtures/ga23_1995__o21.md) | Direct CE&P to Cease Administering Independent Lord's Day Worship Services |  | the Presbytery of South Texas "WIC Regional Conference Lord's Day Corporate Worship" | [p.158](../markdown/ga23_1995.md#ga23-p158) |
 | [22](../overtures/ga23_1995__o22.md) | Establish Ad Interim Committee to Study Doctrinal Diversity & Subscription in PCA |  | TE Charles L. Wilson "Establish Ad Interim Committee to Study Issues of Diversity in PCA" | [p.235](../markdown/ga23_1995.md#ga23-p235) |
-| [29](../overtures/ga23_1995__o29.md) | Replace IRC Membership If CRC Report Not Delivered |  | OVERTURE 29 From Westminster Presbytery (to IRC) | [p.486](../markdown/ga23_1995.md#ga23-p486) |
-| [38](../overtures/ga23_1995__o38.md) | Investigate Potential Conflicts of Interest at PCA Headquarters Building | Answered by reference | the Presbytery of Northern Illinois "Investigate Potential Conflict of Interest of Individ | [p.221](../markdown/ga23_1995.md#ga23-p221) |
-| [43](../overtures/ga23_1995__o43.md) | Instruct IRC to Be More Circumspect in Carrying Out GA Directives |  | OVERTURE 43 From South Texas Presbytery (to IRC) | [p.487](../markdown/ga23_1995.md#ga23-p487) |
+| [23](../overtures/ga23_1995__o23.md) | Give Thanks to God for 200 Years of Faithfulness in Duanesburg, NY | Answered in the affirmative | OVERTURE 23 From Northeast Presbytery | [p.229](../markdown/ga23_1995.md#ga23-p229) |
+| [24](../overtures/ga23_1995__o24.md) | Correct 22nd GA Minutes to Include Previously Omitted Overtures | Minutes corrected to include GA22 Overtures 15, 29, and 43; no further action on those proposals | OVERTURE 24 From the Northeast Presbytery | [p.218](../markdown/ga23_1995.md#ga23-p218) |
 
 ## 24th General Assembly (1996)  ·  `ga24_1996`
 
