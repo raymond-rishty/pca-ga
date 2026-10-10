@@ -1,8 +1,8 @@
 # Authority index audit
 
-Catalogue input fingerprint: `46ddbc684963aea6c379f45d6b526b4ed131c3b68c62f48d3b41642eba351991`.
+Catalogue input fingerprint: `562d499eeca439fd07d8a56570112dcabe8bb3529c6631b37ced80ac5eb600b3`.
 
-The catalogue contains 1172 provisions, 12648 relationships, 16434 evidence occurrences, and 95 unmatched source references.
+The catalogue contains 1172 provisions, 12650 relationships, 16437 evidence occurrences, and 95 unmatched source references.
 
 Relationship kinds describe why a record is linked. Evidence basis describes the source of that link. Match confidence describes extraction confidence. Reader scope labels the relationship in the Constitution Reader. These fields do not describe legal force.
 
@@ -15,7 +15,7 @@ The Reader includes indexed relationships for its supported record types across 
 | CCB advice | 549 | 549 |
 | Constitutional inquiry | 437 | 437 |
 | Judicial case | 3264 | 3264 |
-| Overture | 1511 | 1511 |
+| Overture | 1513 | 1513 |
 | RPR exception | 6887 | 6887 |
 
 Reader-included relationships by scope:
@@ -25,7 +25,7 @@ Reader-included relationships by scope:
 | CCB advice | `contextual` | 549 |
 | Constitutional inquiry | `primary` | 437 |
 | Judicial case | `primary` | 3264 |
-| Overture | `candidate` | 1455 |
+| Overture | `candidate` | 1457 |
 | Overture | `primary` | 56 |
 | RPR exception | `candidate` | 136 |
 | RPR exception | `contextual` | 6751 |
@@ -36,8 +36,8 @@ Reader-included relationships by scope:
 |-------|------:|
 | `body_mention` | 203 |
 | `exception_target` | 224 |
-| `explicit_citation` | 3885 |
-| `proposal_target` | 455 |
+| `explicit_citation` | 3887 |
+| `proposal_target` | 456 |
 | `structured_case_reference` | 820 |
 | `structured_exception_tag` | 6711 |
 | `structured_provision_tag` | 986 |
@@ -46,23 +46,23 @@ Reader-included relationships by scope:
 
 | Value | Count |
 |-------|------:|
-| `direct_text` | 4286 |
+| `direct_text` | 4288 |
 | `structured_case_metadata` | 820 |
 | `structured_provision_tag` | 7697 |
-| `title_subject_reference` | 455 |
+| `title_subject_reference` | 456 |
 
 ### Relationships by match confidence
 
 | Value | Count |
 |-------|------:|
-| `high` | 4447 |
+| `high` | 4449 |
 | `medium` | 8201 |
 
 ### Relationships by reader scope
 
 | Value | Count |
 |-------|------:|
-| `candidate` | 1591 |
+| `candidate` | 1593 |
 | `contextual` | 7300 |
 | `primary` | 3757 |
 
@@ -82,7 +82,7 @@ Reader-included relationships by scope:
 | `case_provision_index:judicial_cases.jsonl:bco_provisions` | 66 |
 | `index/inquiries_search.json:provisions` | 986 |
 | `index/rpr_search.json:provisions` | 6711 |
-| `overture_body_explicit_reference_match` | 1350 |
+| `overture_body_explicit_reference_match` | 1352 |
 | `rpr_markdown_line:100` | 1 |
 | `rpr_markdown_line:104` | 1 |
 | `rpr_markdown_line:105` | 2 |
@@ -170,7 +170,7 @@ Reader-included relationships by scope:
 | `rpr_markdown_line:97` | 1 |
 | `rpr_markdown_line:98` | 2 |
 | `rpr_markdown_line:99` | 6 |
-| `title_subject` | 455 |
+| `title_subject` | 456 |
 
 ### Evidence occurrences by relationship kind
 
@@ -178,8 +178,8 @@ Reader-included relationships by scope:
 |-------|------:|
 | `body_mention` | 366 |
 | `exception_target` | 284 |
-| `explicit_citation` | 6791 |
-| `proposal_target` | 455 |
+| `explicit_citation` | 6793 |
+| `proposal_target` | 456 |
 | `structured_case_reference` | 841 |
 | `structured_exception_tag` | 6711 |
 | `structured_provision_tag` | 986 |
@@ -188,23 +188,23 @@ Reader-included relationships by scope:
 
 | Value | Count |
 |-------|------:|
-| `direct_text` | 7441 |
+| `direct_text` | 7443 |
 | `structured_case_metadata` | 841 |
 | `structured_provision_tag` | 7697 |
-| `title_subject_reference` | 455 |
+| `title_subject_reference` | 456 |
 
 ### Evidence occurrences by match confidence
 
 | Value | Count |
 |-------|------:|
-| `high` | 7896 |
+| `high` | 7899 |
 | `medium` | 8538 |
 
 ### Evidence occurrences by reader scope
 
 | Value | Count |
 |-------|------:|
-| `candidate` | 2730 |
+| `candidate` | 2733 |
 | `contextual` | 7544 |
 | `primary` | 6160 |
 
@@ -360,7 +360,7 @@ Stored `unrelated_or_mislinked` advisory labels by record type:
 - Overture: 89
 - RPR exception: 118
 
-Assessment status: `stale`; applied 0, stale 11481, unassessed 12648.
+Assessment status: `stale`; applied 0, stale 11481, unassessed 12650.
 
 ## Coverage and spot checks
 
