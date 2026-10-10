@@ -36,11 +36,12 @@ _BRACKETED_OVERTURE = re.compile(
 _APPENDIX_SOURCE = re.compile(r"^#{1,6}\s*APPENDIX\s+([A-Z0-9]+)\b", re.I)
 _PAGE = re.compile(r"<!--\s*PAGE\s+ga=\d+\s+pdf_page=(\w+)")
 _NOISE = re.compile(r"^\s*(<a id=|<!--\s*PAGE|#*\s*\d*\s*MINUTES OF THE GENERAL ASSE|JOURNAL OF THE)")
-# Committee-report numbered disposal: "4. That Overture 4, from [Presbytery] be answered in..."
-# This fires only when the mentioned overture number differs from the one being collected,
-# because such lines belong to the NEXT item's committee recommendation, not this overture.
+# Committee-report numbered disposal: "4. That Overture 4 ... be answered in..." or
+# "4. That the MNA Committee recommend ... Overture 4 ... be answered in...". This fires only
+# when the mentioned overture number differs from the one being collected, because such lines
+# belong to the NEXT item's committee recommendation, not this overture.
 _CMTE_DISP = re.compile(
-    r"(?:^|\s)(\d+)\.\s+That\s+[Oo]verture\s+(\d+)\b"
+    r"(?:^|\s)(\d+)\.\s+That\b.*?\b[Oo]verture\s+(\d+)\b"
     r"(?=.*?\bbe\s+answered\s+(?:in\s+the\s+)?(?:affirmative|negative))",
     re.I,
 )
