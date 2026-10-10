@@ -13,7 +13,6 @@
 | 2012 | Overture | explicit_citation | direct_text | high | [Amend BCO 6 Regarding Methods of Joining a Particular Church](../markdown/ga40_2012.md#ga40-p733) | Answered in the negative |
 | 2000 | Overture | explicit_citation | direct_text | high | [Amend BCO 38-4 by Deletion](../markdown/ga28_2000.md#ga28-p297) | Answered in the negative |
 | 1998 | Overture | explicit_citation | direct_text | high | [Commend Dr. Paul Gilchrist for Exemplary Service as Stated Clerk](../markdown/ga26_1998.md#ga26-p54) |  |
-| 1997 | Overture | explicit_citation | direct_text | high | [Amend BCO 38-3 Regarding Renunciation of Communion](../markdown/ga25_1997.md#ga25-p131) | Answered in the negative |
 | 1996 | Overture | explicit_citation | direct_text | high | [Amend BCO 38-3 Regarding Renouncing Church Membership](../markdown/ga24_1996.md#ga24-p311) |  |
 | 1996 | Overture | explicit_citation | direct_text | high | [Amend BCO 46-5, 38-2 & 38-3 on Member Roll Removal & Discipline](../markdown/ga24_1996.md#ga24-p298) |  |
 | 1996 | Overture | explicit_citation | direct_text | high | [Amend BCO by Striking 46-5 and Adding New BCO 38-2 and 46-2](../markdown/ga24_1996.md#ga24-p303) |  |

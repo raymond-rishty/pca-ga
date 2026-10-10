@@ -12,7 +12,7 @@ Indexed PCA records associated with each provision. Relationship type, evidence,
 | [BCO pp-2](../authorities/BCO-pp-2.md) | 7 | 0 | 4 | 1 | 5 | 17 |
 | [BCO 2](../authorities/BCO-2.md) | 0 | 0 | 0 | 1 | 0 | 1 |
 | [BCO 2-1](../authorities/BCO-2-1.md) | 0 | 0 | 1 | 1 | 0 | 2 |
-| [BCO 2-2](../authorities/BCO-2-2.md) | 3 | 1 | 1 | 9 | 0 | 14 |
+| [BCO 2-2](../authorities/BCO-2-2.md) | 3 | 1 | 1 | 8 | 0 | 13 |
 | [BCO 3](../authorities/BCO-3.md) | 1 | 0 | 0 | 1 | 0 | 2 |
 | [BCO pp-3](../authorities/BCO-pp-3.md) | 0 | 0 | 0 | 0 | 3 | 3 |
 | [BCO 3-1](../authorities/BCO-3-1.md) | 4 | 2 | 2 | 7 | 7 | 22 |
@@ -45,7 +45,7 @@ Indexed PCA records associated with each provision. Relationship type, evidence,
 | [BCO pp-6](../authorities/BCO-pp-6.md) | 12 | 0 | 2 | 2 | 60 | 76 |
 | [BCO 6](../authorities/BCO-6.md) | 0 | 0 | 1 | 2 | 0 | 3 |
 | [BCO 6-1](../authorities/BCO-6-1.md) | 2 | 0 | 1 | 6 | 0 | 9 |
-| [BCO 6-2](../authorities/BCO-6-2.md) | 1 | 2 | 2 | 6 | 2 | 13 |
+| [BCO 6-2](../authorities/BCO-6-2.md) | 1 | 2 | 2 | 5 | 2 | 12 |
 | [BCO 6-3](../authorities/BCO-6-3.md) | 0 | 0 | 0 | 1 | 0 | 1 |
 | [BCO 6-4](../authorities/BCO-6-4.md) | 3 | 1 | 2 | 1 | 0 | 7 |
 | [BCO 6-5](../authorities/BCO-6-5.md) | 2 | 0 | 1 | 2 | 0 | 5 |
@@ -267,7 +267,7 @@ Indexed PCA records associated with each provision. Relationship type, evidence,
 | [BCO 30-5](../authorities/BCO-30-5.md) | 5 | 2 | 0 | 0 | 0 | 7 |
 | [BCO 31](../authorities/BCO-31.md) | 8 | 1 | 1 | 3 | 1 | 14 |
 | [BCO 31-1](../authorities/BCO-31-1.md) | 15 | 0 | 0 | 0 | 2 | 17 |
-| [BCO 31-2](../authorities/BCO-31-2.md) | 122 | 3 | 14 | 22 | 13 | 174 |
+| [BCO 31-2](../authorities/BCO-31-2.md) | 122 | 3 | 14 | 21 | 13 | 173 |
 | [BCO 31-3](../authorities/BCO-31-3.md) | 15 | 0 | 0 | 3 | 1 | 19 |
 | [BCO 31-4](../authorities/BCO-31-4.md) | 5 | 0 | 0 | 1 | 0 | 6 |
 | [BCO 31-5](../authorities/BCO-31-5.md) | 13 | 0 | 0 | 1 | 0 | 14 |
@@ -358,7 +358,7 @@ Indexed PCA records associated with each provision. Relationship type, evidence,
 | [BCO 38](../authorities/BCO-38.md) | 9 | 0 | 0 | 1 | 2 | 12 |
 | [BCO 38-1](../authorities/BCO-38-1.md) | 35 | 0 | 7 | 10 | 21 | 73 |
 | [BCO 38-2](../authorities/BCO-38-2.md) | 5 | 3 | 0 | 10 | 38 | 56 |
-| [BCO 38-3](../authorities/BCO-38-3.md) | 18 | 3 | 5 | 6 | 30 | 62 |
+| [BCO 38-3](../authorities/BCO-38-3.md) | 18 | 3 | 5 | 5 | 30 | 61 |
 | [BCO 38-4](../authorities/BCO-38-4.md) | 10 | 2 | 0 | 1 | 0 | 13 |
 | [BCO 38-31](../authorities/BCO-38-31.md) | 0 | 0 | 0 | 1 | 0 | 1 |
 | [BCO 39](../authorities/BCO-39.md) | 7 | 0 | 0 | 0 | 0 | 7 |
@@ -558,10 +558,10 @@ Indexed PCA records associated with each provision. Relationship type, evidence,
 | [WCF 24.4](../authorities/WCF-24-4.md) | 0 | 0 | 0 | 0 | 1 | 1 |
 | [WCF 24.6](../authorities/WCF-24-6.md) | 5 | 0 | 0 | 0 | 2 | 7 |
 | [WCF 25](../authorities/WCF-25.md) | 0 | 0 | 0 | 1 | 0 | 1 |
-| [WCF 25.1](../authorities/WCF-25-1.md) | 2 | 0 | 1 | 2 | 0 | 5 |
-| [WCF 25.2](../authorities/WCF-25-2.md) | 2 | 0 | 1 | 6 | 1 | 10 |
+| [WCF 25.1](../authorities/WCF-25-1.md) | 2 | 0 | 1 | 1 | 0 | 4 |
+| [WCF 25.2](../authorities/WCF-25-2.md) | 2 | 0 | 1 | 5 | 1 | 9 |
 | [WCF 25.3](../authorities/WCF-25-3.md) | 0 | 0 | 0 | 1 | 0 | 1 |
-| [WCF 25.4](../authorities/WCF-25-4.md) | 0 | 0 | 1 | 1 | 0 | 2 |
+| [WCF 25.4](../authorities/WCF-25-4.md) | 0 | 0 | 1 | 0 | 0 | 1 |
 | [WCF 25.5](../authorities/WCF-25-5.md) | 1 | 0 | 0 | 0 | 0 | 1 |
 | [WCF 26.1](../authorities/WCF-26-1.md) | 2 | 0 | 0 | 2 | 0 | 4 |
 | [WCF 26.2](../authorities/WCF-26-2.md) | 0 | 0 | 0 | 1 | 0 | 1 |
