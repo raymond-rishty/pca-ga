@@ -322,31 +322,30 @@ def main():
                 if related_page:
                     related_label = (event.get("related_label") or "Related overture").strip()
                     page_md += [f"*Related record: [{related_label}]({related_page})*", ""]
-            related = related_records.get(record["record_id"], [])
-            if related:
-                page_md += ["## Related records", ""]
-                for relation in related:
-                    if isinstance(relation, str):
-                        related_id = relation
-                        label = relation
-                        description = ""
-                    else:
-                        related_id = relation.get("related_record_id")
-                        label = (relation.get("label") or related_id or "Related overture").strip()
-                        description = (relation.get("relationship") or "").strip()
-                    related_path = planned_pages.get(related_id)
-                    if not related_path:
-                        continue
-                    suffix = f" — {escape(description)}" if description else ""
-                    page_md += [f"- [{escape(label)}](../{related_path}){suffix}"]
-                page_md.append("")
-            page_md += ["---", "", "[← Overture catalogue](../index/OVERTURES.md)"]
         else:
             page_md += ratnote
             page_md += ([para_clauses(body)] if body_available else
                         ["*The submitted text is not available in the extracted catalogue; "
                          "consult the cited minutes.*"])
-            page_md += ["", "---", "", "[← Overture catalogue](../index/OVERTURES.md)"]
+        related = related_records.get(record["record_id"], [])
+        if related:
+            page_md += ["", "## Related records", ""]
+            for relation in related:
+                if isinstance(relation, str):
+                    related_id = relation
+                    label = relation
+                    description = ""
+                else:
+                    related_id = relation.get("related_record_id")
+                    label = (relation.get("label") or related_id or "Related overture").strip()
+                    description = (relation.get("relationship") or "").strip()
+                related_path = planned_pages.get(related_id)
+                if not related_path:
+                    continue
+                suffix = f" — {escape(description)}" if description else ""
+                page_md += [f"- [{escape(label)}](../{related_path}){suffix}"]
+            page_md.append("")
+        page_md += ["---", "", "[← Overture catalogue](../index/OVERTURES.md)"]
         slug = Path(page_path(record)).stem
         open(os.path.join(OUT, f"{slug}.md"), "w", encoding="utf-8").write("\n".join(page_md) + "\n")
         pages_map[record["record_id"]] = f"overtures/{slug}.md"
