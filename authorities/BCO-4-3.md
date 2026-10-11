@@ -12,7 +12,6 @@
 | 1986 | Constitutional inquiry | structured_provision_tag | structured_provision_tag | medium | [Permissibility of co-equal co-pastors under the BCO](../inquiries/ga14_1986__ci23.md) | advice given |
 | 1986 | Constitutional inquiry | structured_provision_tag | structured_provision_tag | medium | [Teaching elder voting rights and congregational approval of pastoral salary changes](../inquiries/ga14_1986__ci19.md) | advice given |
 | 1985 | Constitutional inquiry | structured_provision_tag | structured_provision_tag | medium | [Voting rights of an associate pastor when not moderating the session](../inquiries/ga13_1985__ci07.md) | advice given |
-| 1989 | Overture | explicit_citation | direct_text | high | [Fund Ethnic Ministries](../markdown/ga17_1989.md#ga17-p42) | Answered in the negative |
 
 ---
 *[← Authority Index](../index/AUTHORITY-BY-PROVISION.md)*

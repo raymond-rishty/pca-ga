@@ -627,13 +627,46 @@ Every overture recorded across all General Assemblies, grouped by Assembly. Page
 
 | Overture | Subject | Outcome | Source | Pages |
 |---:|---|---|---|---|
+| [1](../overtures/ga17_1989__o1.md) | Make BCO 19-10 Declaration Optional | Approved and sent down for presbytery advice and consent | Delmarva Presbytery | [p.161](../markdown/ga17_1989.md#ga17-p161) |
+| [2](../overtures/ga17_1989__o2.md) | Disapprove Restructure Amendments and Substitute a New BCO 13-10 | Answered in the negative | Northern Illinois Presbytery | [p.161](../markdown/ga17_1989.md#ga17-p161) |
+| [3](../overtures/ga17_1989__o3.md) | Address Pornography and Hostelries | Answered by reference | Grace Presbytery | [p.162](../markdown/ga17_1989.md#ga17-p162) |
+| [4](../overtures/ga17_1989__o4.md) | Address Pornography and Hostelries | Answered by reference | New Jersey Presbytery | [p.163](../markdown/ga17_1989.md#ga17-p163) |
+| [5](../overtures/ga17_1989__o5.md) | Establish Process for Expressing Disagreement with Court Decisions | Answered by reference | Grace Presbytery | [p.163](../markdown/ga17_1989.md#ga17-p163) |
+| [6](../overtures/ga17_1989__o6.md) | Address Pornography and Hostelries | Answered by reference | Philadelphia Presbytery | [p.164](../markdown/ga17_1989.md#ga17-p164) |
+| [7](../overtures/ga17_1989__o7.md) | Protest Unlawful Restrictions on Chaplains | Answered by reference | Grace Presbytery | [p.96](../markdown/ga17_1989.md#ga17-p96) |
+| [8](../overtures/ga17_1989__o8.md) | Adopt Contrary Position to 16th GA Decision on Missouri Presbytery | Found not in order | New River Presbytery | [p.164](../markdown/ga17_1989.md#ga17-p164) |
+| [10](../overtures/ga17_1989__o10.md) | Amend BCO 7-1 to Affirm No New Revelation | Answered in the negative | Grace Presbytery | [p.166](../markdown/ga17_1989.md#ga17-p166) |
+| [11](../overtures/ga17_1989__o11.md) | Amend BCO 7-1 to Affirm No New Revelation | Answered in the negative | Westminster Presbytery | [p.167](../markdown/ga17_1989.md#ga17-p167) |
+| [12](../overtures/ga17_1989__o12.md) | Clarify Repentance and Restoration to Office After Adultery | Answered by reference | Evangel Presbytery | [p.177](../markdown/ga17_1989.md#ga17-p177) |
+| [14](../overtures/ga17_1989__o14.md) | Redefine Presbytery Boundary | Approved (amended) | New River Presbytery | [p.97](../markdown/ga17_1989.md#ga17-p97) |
+| [15](../overtures/ga17_1989__o15.md) | Seek Closer Fellowship with Korean Language Presbyteries | Approved (amended) | North Georgia Presbytery | [p.98](../markdown/ga17_1989.md#ga17-p98) |
+| [16](../overtures/ga17_1989__o16.md) | Redefine Presbytery Boundary | Answered by reference | Covenant Presbytery | [p.99](../markdown/ga17_1989.md#ga17-p99) |
+| [17](../overtures/ga17_1989__o17.md) | Include Christian Education and Schooling in Pre-Assembly Program | Approved | Westminster Presbytery | [p.84](../markdown/ga17_1989.md#ga17-p84) |
 | [18](../overtures/ga17_1989__o18.md) | Limit GA Nominations to Those Nominated by Presbyteries |  | North Texas Presbytery "Limit nominations only to those nominated by presbyteries" | [p.151](../markdown/ga17_1989.md#ga17-p151) |
-| [32](../overtures/ga17_1989__o32.md) | Amend BCO 14-1 Regarding Nominations to College & Seminary Boards |  | Evangel Presbytery | [p.147](../markdown/ga17_1989.md#ga17-p147) |
-| [33](../overtures/ga17_1989__o33.md) | Endorse the NAPARC Joint Resolution |  | Pacific Northwest Presbytery | [p.148](../markdown/ga17_1989.md#ga17-p148) |
-| [39](../overtures/ga17_1989__o39.md) | Continue & Rename the Committee on Judicial Business | Answered in the negative | OVERTURE 39: From Grace Presbytery (to COA) | [p.42](../markdown/ga17_1989.md#ga17-p42) |
-| [40](../overtures/ga17_1989__o40.md) | Endorse the NAPARC Joint Resolution |  | Grace Presbytery | [p.148](../markdown/ga17_1989.md#ga17-p148) |
+| [19](../overtures/ga17_1989__o19.md) | Amend BCO 37-3 to Apply to Presbyteries as Well as Sessions | Revised BCO amendment enacted at GA22 after related Delmarva referral | Delmarva Presbytery | [p.168](../markdown/ga17_1989.md#ga17-p168) |
+| [20](../overtures/ga17_1989__o20.md) | Appoint Study Committee on Extraordinary Spiritual Gifts | Answered in the negative | Missouri Presbytery | [p.179](../markdown/ga17_1989.md#ga17-p179) |
+| [21](../overtures/ga17_1989__o21.md) | Divide California into Three Presbyteries | Answered by adopted recommendation | Pacific Presbytery | [p.99](../markdown/ga17_1989.md#ga17-p99) |
+| [22](../overtures/ga17_1989__o22.md) | Reject Proposed BCO Amendment to Preface | Answered in the negative | Presbytery of Eastern Canada | [p.168](../markdown/ga17_1989.md#ga17-p168) |
+| [23](../overtures/ga17_1989__o23.md) | Oppose Federal Research on Transplantation of Fetal Tissue | Approved | Tennessee Valley Presbytery | [p.180](../markdown/ga17_1989.md#ga17-p180) |
+| [24](../overtures/ga17_1989__o24.md) | Establish Study on Women Serving on GA Committees and Agencies | Answered by reference | Tennessee Valley Presbytery | [p.185](../markdown/ga17_1989.md#ga17-p185) |
+| [25](../overtures/ga17_1989__o25.md) | Endorse the Joint Resolution | Answered by adopted amendment | Tennessee Valley Presbytery | [p.146](../markdown/ga17_1989.md#ga17-p146) |
+| [26](../overtures/ga17_1989__o26.md) | Amend BCO 12-2 to Allow Ruling Elders to Moderate Sessions | Answered in the negative | Louisiana Presbytery | [p.169](../markdown/ga17_1989.md#ga17-p169) |
+| [27](../overtures/ga17_1989__o27.md) | Endorse the Joint Resolution | Answered by adopted amendment | Presbytery of Southern Florida | [p.146](../markdown/ga17_1989.md#ga17-p146) |
+| [28](../overtures/ga17_1989__o28.md) | Object to US-USSR Agreement on Education | Answered in the negative | Westminster Presbytery | [p.178](../markdown/ga17_1989.md#ga17-p178) |
+| [29](../overtures/ga17_1989__o29.md) | Endorse the NAPARC Joint Resolution | Answered by adopted amendment | Missouri Presbytery | [p.146](../markdown/ga17_1989.md#ga17-p146) |
+| [30](../overtures/ga17_1989__o30.md) | Review GA Health Insurance Program | Answered in the negative | Calvary Presbytery | [p.119](../markdown/ga17_1989.md#ga17-p119) |
+| [31](../overtures/ga17_1989__o31.md) | Amend Procedure for Nominations to Covenant College & Seminary Boards | Answered by adopted amendment | Central Carolina Presbytery | [p.146](../markdown/ga17_1989.md#ga17-p146) |
+| [32](../overtures/ga17_1989__o32.md) | Amend BCO 14-1 Regarding Nominations to College & Seminary Boards | Answered by adopted amendment | Evangel Presbytery | [p.147](../markdown/ga17_1989.md#ga17-p147) |
+| [33](../overtures/ga17_1989__o33.md) | Amend the Covenant College and Seminary Trustee Nomination Process | Answered by adopted amendment | Pacific Northwest Presbytery | [p.148](../markdown/ga17_1989.md#ga17-p148) |
+| [34](../overtures/ga17_1989__o34.md) | Rewrite RAO 9-13 & 14 Regarding Presbytery Minutes | Answered by reference | Pacific Northwest Presbytery | [p.139](../markdown/ga17_1989.md#ga17-p139) |
+| [35](../overtures/ga17_1989__o35.md) | Develop Worship Materials for Children | Approved with resource qualification | Pacific Northwest Presbytery | [p.83](../markdown/ga17_1989.md#ga17-p83) |
+| [36](../overtures/ga17_1989__o36.md) | Divide Delmarva Presbytery into Two Presbyteries | Approved | Delmarva Presbytery | [p.100](../markdown/ga17_1989.md#ga17-p100) |
+| [37](../overtures/ga17_1989__o37.md) | Develop a PCA Logo | Approved with funding condition | Delmarva Presbytery | [p.140](../markdown/ga17_1989.md#ga17-p140) |
+| [38](../overtures/ga17_1989__o38.md) | Extend Review and Control Committee Terms | Answered in the negative (substitute adopted) | Delmarva Presbytery | [p.142](../markdown/ga17_1989.md#ga17-p142) |
+| [39](../overtures/ga17_1989__o39.md) | Continue the Committee on Judicial Business and Rename It | Answered in the negative | Grace Presbytery | [p.142](../markdown/ga17_1989.md#ga17-p142) |
+| [40](../overtures/ga17_1989__o40.md) | Amend the Covenant College and Seminary Trustee Nomination Process | Answered by adopted amendment | Grace Presbytery | [p.148](../markdown/ga17_1989.md#ga17-p148) |
 | [41](../overtures/ga17_1989__o41.md) | Amend RAO 9-13 Rules for Examining Presbytery Minutes | Answered by reference | Presbytery of the Southwest, "Amend rules for Examining Presbytery Minutes" | [p.139](../markdown/ga17_1989.md#ga17-p139) |
-| [42](../overtures/ga17_1989__o42.md) | Fund Ethnic Ministries | Answered in the negative | OVERTURE 42: From the Northeast Presbytery (to CJB, and MNA) | [p.42](../markdown/ga17_1989.md#ga17-p42) |
+| [42](../overtures/ga17_1989__o42.md) | Fund Ethnic Ministries | Answered in the negative | Northeast Presbytery | [p.100](../markdown/ga17_1989.md#ga17-p100) |
 
 ## 18th General Assembly (1990)  ·  `ga18_1990`
 

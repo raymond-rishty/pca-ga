@@ -37,7 +37,7 @@
 | 2002 | Overture | explicit_citation | direct_text | high | [Specify Good Faith Subscription (Version 4) in BCO](../markdown/ga30_2002.md#ga30-p228) | Answered by reference |
 | 1999 | Overture | explicit_citation | direct_text | high | [Amend RAO 15-1 and BCO 39-3 to Reference Scripture in SJC Judge Vows](../markdown/ga27_1999.md#ga27-p159) | Answered in the negative |
 | 1991 | Overture | explicit_citation | direct_text | high | [Amend BCO 15-4 to Permit General Assembly to Adjudicate Cases](../markdown/ga19_1991.md#ga19-p166) | Answered in the negative at GA20 by adopted substitute |
-| 1989 | Overture | explicit_citation | direct_text | high | [Fund Ethnic Ministries](../markdown/ga17_1989.md#ga17-p42) | Answered in the negative |
+| 1989 | Overture | explicit_citation | direct_text | high | [Reject Proposed BCO Amendment to Preface](../markdown/ga17_1989.md#ga17-p168) | Answered in the negative |
 | 1986 | Overture | explicit_citation | direct_text | high | [Amend BCO Preface to Conform to Westminster Confession on Liberty of Conscience](../markdown/ga14_1986.md#ga14-p54) |  |
 | 1985 | Overture | explicit_citation | direct_text | high | [Amend BCO Preface III and 26-1 to Affirm Scriptures as Supreme Over Constitutional Standards](../markdown/ga13_1985.md#ga13-p50) | Answered by reference |
 | 2010 | RPR exception | exception_target | direct_text | high | [Western Canada: presbytery may not appoint a session fora church without congregational approval prior to](../rpr/exc/western-canada__006.html) | satisfactory |

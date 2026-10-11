@@ -11,6 +11,7 @@
 | 2001 | Constitutional inquiry | structured_provision_tag | structured_provision_tag | medium | [Procedure for Suspending Rules](../inquiries/ga29_2001__ci09.md) | advice given |
 | 1990 | Constitutional inquiry | structured_provision_tag | structured_provision_tag | medium | [Proper use of memorials and finality of adjudicated GA decisions](../inquiries/ga18_1990__ci01.md) | advice given |
 | 1984 | Constitutional inquiry | structured_provision_tag | structured_provision_tag | medium | [Recourse when General Assembly may have erred in a decision](../inquiries/ga12_1984__ci03.md) | advice given |
+| 1989 | Overture | explicit_citation | direct_text | high | [Establish Process for Expressing Disagreement with Court Decisions](../markdown/ga17_1989.md#ga17-p163) | Answered by reference |
 
 ---
 *[← Authority Index](../index/AUTHORITY-BY-PROVISION.md)*

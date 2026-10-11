@@ -1,8 +1,8 @@
 # Authority index audit
 
-Catalogue input fingerprint: `cc9766dcc907411f1757f22f0e9a35a89c4c9373ec4f7d5582fd8b8c36eea320`.
+Catalogue input fingerprint: `d02ef0930bca4d40967c6397273ee93f8adcb4da81a9e2ef7a4ccef3e8862cc5`.
 
-The catalogue contains 1172 provisions, 12685 relationships, 16504 evidence occurrences, and 97 unmatched source references.
+The catalogue contains 1172 provisions, 12685 relationships, 16511 evidence occurrences, and 96 unmatched source references.
 
 Relationship kinds describe why a record is linked. Evidence basis describes the source of that link. Match confidence describes extraction confidence. Reader scope labels the relationship in the Constitution Reader. These fields do not describe legal force.
 
@@ -36,8 +36,8 @@ Reader-included relationships by scope:
 |-------|------:|
 | `body_mention` | 203 |
 | `exception_target` | 224 |
-| `explicit_citation` | 3917 |
-| `proposal_target` | 469 |
+| `explicit_citation` | 3915 |
+| `proposal_target` | 475 |
 | `structured_case_reference` | 820 |
 | `structured_exception_tag` | 6711 |
 | `structured_provision_tag` | 986 |
@@ -46,10 +46,10 @@ Reader-included relationships by scope:
 
 | Value | Count |
 |-------|------:|
-| `direct_text` | 4318 |
+| `direct_text` | 4316 |
 | `structured_case_metadata` | 820 |
 | `structured_provision_tag` | 7697 |
-| `title_subject_reference` | 469 |
+| `title_subject_reference` | 475 |
 
 ### Relationships by match confidence
 
@@ -82,7 +82,7 @@ Reader-included relationships by scope:
 | `case_provision_index:judicial_cases.jsonl:bco_provisions` | 66 |
 | `index/inquiries_search.json:provisions` | 986 |
 | `index/rpr_search.json:provisions` | 6711 |
-| `overture_body_explicit_reference_match` | 1382 |
+| `overture_body_explicit_reference_match` | 1380 |
 | `rpr_markdown_line:100` | 1 |
 | `rpr_markdown_line:104` | 1 |
 | `rpr_markdown_line:105` | 2 |
@@ -170,7 +170,7 @@ Reader-included relationships by scope:
 | `rpr_markdown_line:97` | 1 |
 | `rpr_markdown_line:98` | 2 |
 | `rpr_markdown_line:99` | 6 |
-| `title_subject` | 469 |
+| `title_subject` | 475 |
 
 ### Evidence occurrences by relationship kind
 
@@ -178,8 +178,8 @@ Reader-included relationships by scope:
 |-------|------:|
 | `body_mention` | 366 |
 | `exception_target` | 284 |
-| `explicit_citation` | 6847 |
-| `proposal_target` | 469 |
+| `explicit_citation` | 6848 |
+| `proposal_target` | 475 |
 | `structured_case_reference` | 841 |
 | `structured_exception_tag` | 6711 |
 | `structured_provision_tag` | 986 |
@@ -188,23 +188,23 @@ Reader-included relationships by scope:
 
 | Value | Count |
 |-------|------:|
-| `direct_text` | 7497 |
+| `direct_text` | 7498 |
 | `structured_case_metadata` | 841 |
 | `structured_provision_tag` | 7697 |
-| `title_subject_reference` | 469 |
+| `title_subject_reference` | 475 |
 
 ### Evidence occurrences by match confidence
 
 | Value | Count |
 |-------|------:|
-| `high` | 7966 |
+| `high` | 7973 |
 | `medium` | 8538 |
 
 ### Evidence occurrences by reader scope
 
 | Value | Count |
 |-------|------:|
-| `candidate` | 2800 |
+| `candidate` | 2807 |
 | `contextual` | 7544 |
 | `primary` | 6160 |
 
@@ -215,7 +215,7 @@ Reader-included relationships by scope:
 | CCB advice | 14 |
 | Constitutional inquiry | 4 |
 | Judicial case | 16 |
-| Overture | 44 |
+| Overture | 43 |
 | RPR exception | 19 |
 
 | Provision | Record type | Record ID | Evidence | Confidence | Scope | Source |
@@ -274,7 +274,6 @@ Reader-included relationships by scope:
 | BCO 45-6 | CCB advice | `ccb_advice:inquiries/ga25_1997__ci04.md` | `structured_provision_tag` | `medium` | `contextual` | [Perfecting amendment language for removing members from the roll](../inquiries/ga25_1997__ci04.md) |
 | BCO 46-51 | Overture | `overture:ga24_1996:6:p298` | `direct_text` | `high` | `candidate` | [Amend BCO 46-5, 38-2 & 38-3 on Member Roll Removal & Discipline](../markdown/ga24_1996.md#ga24-p298) |
 | BCO 48-9 | Judicial case | `case:cases/ga24_1996__1995-01.md` | `direct_text` | `high` | `primary` | [David C. Lachman v. Philadelphia Presbytery](../cases/ga24_1996__1995-01.md) |
-| BCO 5-11 | Overture | `overture:ga17_1989:42:p42` | `direct_text` | `high` | `candidate` | [Fund Ethnic Ministries](../markdown/ga17_1989.md#ga17-p42) |
 | BCO 5-11.3 | RPR exception | `rpr_exception:rpr/exc/northern-california__021.html` | `structured_provision_tag` | `medium` | `contextual` | [Northern California: Presbytery approved an invalid call (call was voted on by members of the mission church pr](../rpr/exc/northern-california__021.html) |
 | BCO 5-11.3 | RPR exception | `rpr_exception:rpr/exc/pacific-northwest__029.html` | `structured_provision_tag` | `medium` | `contextual` | [Pacific Northwest: Approved TE’s call prior to congregation being particularized. BCO 5-11.3](../rpr/exc/pacific-northwest__029.html) |
 | BCO 5-12 | RPR exception | `rpr_exception:rpr/exc/korean-southwest-orange-county__055.html` | `structured_provision_tag` | `medium` | `contextual` | [Korean Southwest Orange County: no record of call to or Presbytery establishment of pastoral relationship.](../rpr/exc/korean-southwest-orange-county__055.html) |
