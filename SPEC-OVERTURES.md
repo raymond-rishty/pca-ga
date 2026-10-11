@@ -5,10 +5,11 @@ Inquiries** (`SPEC-INQUIRIES.md`). An overture is a formal **proposal or request
 (or a committee) to the General Assembly — to amend the Constitution, answer a question, or take an
 action. This catalogue answers *"Has the PCA considered this before, and how was it answered?"*
 *(Status: BUILT — `18_structure.py`, `21_overture_titles.py`, `22_dispositions.py`, rendered to
-`index/OVERTURES.md` and the `overtures` DB table; the latest Gradle reconciliation produces 1,529
-entries across 51 of 52 volumes. The active action-trail goal specifies 1,537 entries. The GA45
-review confirmed three further page-qualified duplicate/reprint exclusions; audit the remaining
-eight-record difference against source pages before claiming full coverage.)*
+`index/OVERTURES.md` and the `overtures` DB table; the current working Gradle reconciliation
+produces 1,578 entries across all 52 volumes (2026-10-10). The active action-trail goal specifies
+1,537 entries. GA19 source review restored 25 omitted page-qualified proposals; the resulting
+41-record difference remains an inventory audit queue. Preserve source-verified submissions and
+reconcile the full count by source-page identity before claiming catalogue coverage.)*
 
 ## 1. The model (what an overture record is)
 
@@ -88,8 +89,10 @@ workflow → `link` (join by BCO section), folded into the DB by `19_export`.
 every page **deep-linked** to its anchor in the volume markdown (`#ga<ord>-pN`, shared with the case
 index). The base `overtures` DB table contains `{vol, ga_ordinal, year, number, source, pdf_page,
 printed_page, context, title, pages, disposition, final_disposition, ratification_note}`. The
-reconciled `index/OVERTURES.md` is the working inventory for action-history research: the latest
-Gradle reconciliation yields 1,529 entries, while the active action-trail goal specifies 1,537. Earlier
+reconciled `index/OVERTURES.md` is the working inventory for action-history research: the current
+working Gradle reconciliation yields 1,578 entries, while the active action-trail goal specifies
+1,537. The 41-record difference remains unaudited as of 2026-10-10; do not force the target by
+suppressing source-verified submissions. Earlier
 reconciliation notes recorded eleven duplicate/reprint or locator exclusions and five added
 source-page records; the GA45 review confirmed three further page-qualified duplicate/reprint
 exclusions. Audit the resulting eight-record difference; do not pad the catalogue with duplicated

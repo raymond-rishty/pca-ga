@@ -17,6 +17,7 @@
 | 2010 | Overture | proposal_target | title_subject_reference | high | [Amend BCO 9-7 to Prohibit Deaconesses](../markdown/ga38_2010.md#ga38-p388) |  |
 | 2010 | Overture | proposal_target | title_subject_reference | high | [Amend BCO 9-7 to Specify Deacon Assistants May Not Be Ordained](../markdown/ga38_2010.md#ga38-p382) | Approved & ratified (2011) |
 | 2010 | Overture | proposal_target | title_subject_reference | high | [Revise BCO 9-7 to Prohibit Commissioning Assistants to Deacons as Office Bearers](../markdown/ga38_2010.md#ga38-p389) |  |
+| 1991 | Overture | explicit_citation | direct_text | high | [Declare Ordination of Deaconesses a Violation of BCO 9-4, 9-7, and 17-2](../markdown/ga19_1991.md#ga19-p173) | No action under RAO 10-10; Northeast Presbytery had not acted |
 | 2012 | RPR exception | structured_exception_tag | structured_provision_tag | medium | [Philadelphia: May 14, 2011 ( BCO 9-7) Presbytery allowed an exception which includes a practice that is](../rpr/exc/philadelphia__034.html) | satisfactory |
 | 2010 | RPR exception | structured_exception_tag | structured_provision_tag | medium | [Metro Atlanta: (In reference to practice #4 of the resolution) BCO 9-7 “It is often expedient that the Se](../rpr/exc/metro-atlanta__021.html) | raised |
 | 1997 | RPR exception | multiple | multiple | high | [Philadelphia: item 95-03-16 (pp. 4 &amp; 5), &amp; attachment # 7. Recommendation: Response #1, first se](../rpr/exc/philadelphia__019.html) | satisfactory |

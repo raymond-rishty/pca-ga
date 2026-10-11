@@ -202,12 +202,15 @@ def main():
         page = source_page
         title = (record.get("title") or "").strip() or "(untitled overture)"
         source = (record.get("source") or "").strip()
+        record_events = events.get(record["record_id"], [])
 
         hdr = [f"**Assembly:** {ordinal(ga)} ({year})" if year else f"**Assembly:** {ordinal(ga)}"]
         if source:
             hdr.append(f"**Source:** {source}")
         disp = (record.get("disposition") or "").strip()
-        if disp:
+        # Action-trail pages show the sourced decisions below; don't repeat a catalogue
+        # summary in the page header as if it were part of the minutes.
+        if disp and not record_events:
             hdr.append(f"**Disposition:** {disp}")
 
         anchor = f"#{prefix}-p{page}" if page else ""
@@ -225,7 +228,6 @@ def main():
         if source_meta and source_meta[-1] == "":
             source_meta = source_meta[:-1]
         page_md = source_meta + [f"# GA{ga} O{number} — {title}", "", "  ·  ".join(hdr), "", src, "", "---", ""]
-        record_events = events.get(record["record_id"], [])
         if record_events:
             page_md += ratnote
             event_bundle = event_bundles.get(record["record_id"], {})

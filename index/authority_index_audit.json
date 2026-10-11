@@ -1,10 +1,10 @@
 {
  "schema_version": 2,
- "catalogue_input_fingerprint": "ebaffc3e833db945503401f4cc38755fb060c0cca44b1d0630b25f145cde7bd3",
+ "catalogue_input_fingerprint": "cc9766dcc907411f1757f22f0e9a35a89c4c9373ec4f7d5582fd8b8c36eea320",
  "provision_count": 1172,
- "relationship_count": 12658,
- "occurrence_count": 16460,
- "unmatched_relationship_count": 96,
+ "relationship_count": 12685,
+ "occurrence_count": 16504,
+ "unmatched_relationship_count": 97,
  "unmatched_relationships": [
   {
    "provision": "BCO 10-18",
@@ -31,6 +31,19 @@
    "relationship_kind": "structured_exception_tag",
    "match_confidence": "medium",
    "reader_scope": "contextual"
+  },
+  {
+   "provision": "BCO 14-46",
+   "record_type": "Overture",
+   "record_id": "overture:ga19_1991:5:p163",
+   "title": "Direct GA Committees Not to Initiate Changes to BCO or RAO",
+   "year": 1991,
+   "disposition": "Referred and deferred at GA19; answered in the negative at GA20 by adopted substitute (330–258)",
+   "url": "markdown/ga19_1991.md#ga19-p163",
+   "evidence_basis": "direct_text",
+   "relationship_kind": "explicit_citation",
+   "match_confidence": "high",
+   "reader_scope": "candidate"
   },
   {
    "provision": "BCO 14-71",
@@ -1259,14 +1272,14 @@
   "CCB advice": 549,
   "Constitutional inquiry": 437,
   "Judicial case": 3264,
-  "Overture": 1521,
+  "Overture": 1548,
   "RPR exception": 6887
  },
  "reader_included_by_type": {
   "CCB advice": 549,
   "Constitutional inquiry": 437,
   "Judicial case": 3264,
-  "Overture": 1521,
+  "Overture": 1548,
   "RPR exception": 6887
  },
  "reader_scope_by_type": {
@@ -1280,7 +1293,7 @@
    "primary": 3264
   },
   "Overture": {
-   "candidate": 1465,
+   "candidate": 1492,
    "primary": 56
   },
   "RPR exception": {
@@ -1292,24 +1305,24 @@
   "relationship_kind": {
    "body_mention": 203,
    "exception_target": 224,
-   "explicit_citation": 3895,
-   "proposal_target": 462,
+   "explicit_citation": 3917,
+   "proposal_target": 469,
    "structured_case_reference": 820,
    "structured_exception_tag": 6711,
    "structured_provision_tag": 986
   },
   "evidence_basis": {
-   "direct_text": 4296,
+   "direct_text": 4318,
    "structured_case_metadata": 820,
    "structured_provision_tag": 7697,
-   "title_subject_reference": 462
+   "title_subject_reference": 469
   },
   "match_confidence": {
-   "high": 4457,
+   "high": 4484,
    "medium": 8201
   },
   "reader_scope": {
-   "candidate": 1601,
+   "candidate": 1628,
    "contextual": 7300,
    "primary": 3757
   },
@@ -1326,7 +1339,7 @@
    "case_provision_index:judicial_cases.jsonl:bco_provisions": 66,
    "index/inquiries_search.json:provisions": 986,
    "index/rpr_search.json:provisions": 6711,
-   "overture_body_explicit_reference_match": 1360,
+   "overture_body_explicit_reference_match": 1382,
    "rpr_markdown_line:100": 1,
    "rpr_markdown_line:104": 1,
    "rpr_markdown_line:105": 2,
@@ -1414,31 +1427,31 @@
    "rpr_markdown_line:97": 1,
    "rpr_markdown_line:98": 2,
    "rpr_markdown_line:99": 6,
-   "title_subject": 462
+   "title_subject": 469
   }
  },
  "occurrence_dimensions": {
   "relationship_kind": {
    "body_mention": 366,
    "exception_target": 284,
-   "explicit_citation": 6810,
-   "proposal_target": 462,
+   "explicit_citation": 6847,
+   "proposal_target": 469,
    "structured_case_reference": 841,
    "structured_exception_tag": 6711,
    "structured_provision_tag": 986
   },
   "evidence_basis": {
-   "direct_text": 7460,
+   "direct_text": 7497,
    "structured_case_metadata": 841,
    "structured_provision_tag": 7697,
-   "title_subject_reference": 462
+   "title_subject_reference": 469
   },
   "match_confidence": {
-   "high": 7922,
+   "high": 7966,
    "medium": 8538
   },
   "reader_scope": {
-   "candidate": 2756,
+   "candidate": 2800,
    "contextual": 7544,
    "primary": 6160
   },
@@ -1455,7 +1468,7 @@
    "case_provision_index:judicial_cases.jsonl:bco_provisions": 66,
    "index/inquiries_search.json:provisions": 986,
    "index/rpr_search.json:provisions": 6711,
-   "overture_body_explicit_reference_match": 1984,
+   "overture_body_explicit_reference_match": 2021,
    "rpr_markdown_line:100": 1,
    "rpr_markdown_line:104": 1,
    "rpr_markdown_line:105": 2,
@@ -1543,14 +1556,14 @@
    "rpr_markdown_line:97": 1,
    "rpr_markdown_line:98": 2,
    "rpr_markdown_line:99": 6,
-   "title_subject": 462
+   "title_subject": 469
   }
  },
  "unmatched_by_type": {
   "CCB advice": 14,
   "Constitutional inquiry": 4,
   "Judicial case": 16,
-  "Overture": 43,
+  "Overture": 44,
   "RPR exception": 19
  },
  "machine_relevance_roles": {},
@@ -1558,11 +1571,11 @@
   "status": "stale",
   "file": "index/provision_link_adjudications.jsonl",
   "total": 11481,
-  "expected": 12658,
+  "expected": 12685,
   "applied": 0,
   "stale": 11481,
   "unmatched": 0,
-  "unassessed": 12658
+  "unassessed": 12685
  },
  "stored_advisory_assessments": [
   {

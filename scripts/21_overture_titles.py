@@ -41,13 +41,13 @@ _BRACKETED_OVERTURE = re.compile(
 _APPENDIX_SOURCE = re.compile(r"^#{1,6}\s*APPENDIX\s+([A-Z0-9]+)\b", re.I)
 _PAGE = re.compile(r"<!--\s*PAGE\s+ga=\d+\s+pdf_page=(\w+)")
 _NOISE = re.compile(r"^\s*(<a id=|<!--\s*PAGE|#*\s*\d*\s*MINUTES OF THE GENERAL ASSE|JOURNAL OF THE)")
-# Committee-report numbered disposal: "4. That Overture 4 ... be answered in..." or
-# "4. That the MNA Committee recommend ... Overture 4 ... be answered in...". This fires only
-# when the mentioned overture number differs from the one being collected, because such lines
-# belong to the NEXT item's committee recommendation, not this overture.
+# Committee-report numbered disposition: "4. That Overture 4 ... be answered in..." or
+# "2. That the Assembly answer Overture 1 in the affirmative...". This fires only when the
+# mentioned overture number differs from the one being collected, because such lines belong to
+# the NEXT item's committee recommendation, not this overture.
 _CMTE_DISP = re.compile(
     r"(?:^|\s)(\d+)\.\s+That\b.*?\b[Oo]verture\s+(\d+)\b"
-    r"(?=.*?\bbe\s+answered\s+(?:in\s+the\s+)?(?:affirmative|negative))",
+    r"(?=.*?\b(?:be\s+answered\s+)?(?:in\s+the\s+)?(?:affirmative|negative)\b)",
     re.I,
 )
 
@@ -191,6 +191,15 @@ def extract():
                             cur["_lines"].append(prefix)
                         recs.append(cur); cur = None
                         continue
+                    # A separate presbytery communication can follow the proposal on the same
+                    # source page. It is not part of the overture's submitted text.
+                    m_communication = re.search(r"\bCOMMUNICATION\s+\d+\s+From\b", ln, re.I)
+                    if m_communication:
+                        prefix = ln[:m_communication.start()].rstrip()
+                        if prefix:
+                            cur["_lines"].append(prefix)
+                        recs.append(cur); cur = None
+                        continue
                     cur["_lines"].append(ln)
                     if cur.get("_bracketed_source") and ln.rstrip().endswith("]"):
                         recs.append(cur)
@@ -207,6 +216,8 @@ def extract():
         r.pop("_table_header", None)
         r.pop("_bracketed_source", None)
         body = preserve_markdown(r.pop("_lines"))
+        # Page headers can be joined to proposal text when Markdown extraction has no line break.
+        body = re.sub(r"\bMINUTES OF (?:THE )?GENERAL ASSEMBLY\b", "", body, flags=re.I)
         # A located true end is trusted (just a generous safety ceiling); otherwise bound runaway
         # over-extraction at 6000. Either way cut on a word boundary with an ellipsis, never
         # mid-word — and the full text is always one click away at the page's deep-link.
