@@ -680,7 +680,9 @@ Every overture recorded across all General Assemblies, grouped by Assembly. Page
 | [20](../overtures/ga20_1992__o20.md) | Divide Korean Southeastern Presbytery into Two Presbyteries |  | the Korean Southwestern Presbytery "Continue Korean Language Presbyteries" (same as Overtu | [p.74](../markdown/ga20_1992.md#ga20-p74) |
 | [23](../overtures/ga20_1992__o23.md) | Amend BCO 16-3 to Require Recorded Grounds When Denying Ordination Exam |  | New River Presbytery | [p.112](../markdown/ga20_1992.md#ga20-p112) |
 | [24](../overtures/ga20_1992__o24.md) | Divide the Presbytery of the Ascension into Two Presbyteries |  | the Presbytery of the Ascension "Divide Ascension Presbytery into Two" | [p.76](../markdown/ga20_1992.md#ga20-p76) |
+| [27](../overtures/ga20_1992__o27.md) | Make Participation in the PCA Health Plan Mandatory | Answered in the negative | OVERTURE 27 From the Central Georgia Presbytery | [p.95](../markdown/ga20_1992.md#ga20-p95) |
 | [35](../overtures/ga20_1992__o35.md) | Amend BCO 37-4 to Apply Restoration Process to Presbyteries |  | OVERTURE 35 From Delmarva Presbytery | [p.120](../markdown/ga20_1992.md#ga20-p120) |
+| [36](../overtures/ga20_1992__o36.md) | Require IAR to Produce Legal Opinions and Appoint Interim Board |  | OVERTURE 36 From Central Carolina Presbytery | [p.96](../markdown/ga20_1992.md#ga20-p96) |
 | [38](../overtures/ga20_1992__o38.md) | Affirm Commitment to Evangelize Jewish People |  | Philadelphia Presbytery "Regarding Evangelism of Jewish People" (same as Overture 25) | [p.114](../markdown/ga20_1992.md#ga20-p114) |
 | [39](../overtures/ga20_1992__o39.md) | Endorse CHAIM as a Valid Reformed Jewish Ministry |  | Philadelphia Presbytery "Regarding Endorsement of CHAIM" | [p.78](../markdown/ga20_1992.md#ga20-p78) |
 | [40](../overtures/ga20_1992__o40.md) | Appoint Study Committee on Drama and Liturgical Dance in Worship |  | Eastern Carolina Presbytery "Appoint Study Committee: 'Are Drama and Liturgical Dance Cons | [p.81](../markdown/ga20_1992.md#ga20-p81) |
@@ -713,15 +715,17 @@ Every overture recorded across all General Assemblies, grouped by Assembly. Page
 
 | Overture | Subject | Outcome | Source | Pages |
 |---:|---|---|---|---|
-| [1](../overtures/ga22_1994__o1.md) | Continue Korean Language Presbyteries on Semi-Permanent Status |  | OVERTURE 1 From Korean Capital Presbytery | [p.323](../markdown/ga22_1994.md#ga22-p323) |
+| [1](../overtures/ga22_1994__o1__p65.md) | Continue Korean Language Presbyteries on Semi-Permanent Status |  | OVERTURE 1 From Korean Central Presbytery (to MNA) | [p.65](../markdown/ga22_1994.md#ga22-p65) |
+| [1](../overtures/ga22_1994__o1__p323.md) | Continue Korean Language Presbyteries on Semi-Permanent Status |  | OVERTURE 1 From Korean Capital Presbytery | [p.323](../markdown/ga22_1994.md#ga22-p323) |
 | [15](../overtures/ga22_1994__o15.md) | Require Interchurch Relations Committee of Commissioners to Investigate IRC | Answered by GA22 substitute; GA23 directed correction of M22GA and no further action | OVERTURE 15 From Eastern Canada (to IRC) | [p.486](../markdown/ga23_1995.md#ga23-p486) |
-| [22](../overtures/ga22_1994__o22.md) | Amend BCO 56-5 Covenant Baptism Questions for Parents |  | OVERTURE 22 From Western Carolina Presbytery | [p.249](../markdown/ga22_1994.md#ga22-p249) |
+| [22](../overtures/ga22_1994__o22__p66.md) | Amend BCO 56-5 Covenant Baptism Questions for Parents |  | OVERTURE 22 From Covenant Presbytery (to CCB & B&O) | [p.66](../markdown/ga22_1994.md#ga22-p66) |
+| [22](../overtures/ga22_1994__o22__p249.md) | Amend BCO 56-5 Covenant Baptism Questions for Parents |  | OVERTURE 22 From Western Carolina Presbytery | [p.249](../markdown/ga22_1994.md#ga22-p249) |
 | [24](../overtures/ga22_1994__o24.md) | Amend BCO 32-18 to Clarify the Written Record of the Case |  | Philadelphia Presbytery "Amend BCO 32-18 to Clarify the 'Record of the Case" | [p.246](../markdown/ga22_1994.md#ga22-p246) |
 | [25](../overtures/ga22_1994__o25.md) | Set a Day of Prayer and Develop Ministry Strategy for North Korea |  | Philadelphia Presbytery "Set a Day of Prayer for and Develop Strategy for Ministry in Nort | [p.211](../markdown/ga22_1994.md#ga22-p211) |
-| [27](../overtures/ga22_1994__o27.md) | Make Participation in the PCA Health Plan Mandatory | Adopted (final) | OVERTURE 27 From the Central Georgia Presbytery | [p.183](../markdown/ga22_1994.md#ga22-p183) |
+| [27](../overtures/ga22_1994__o27.md) | Divide Tennessee Valley Presbytery to Form Nashville Presbytery | Approved in the affirmative; Nashville Presbytery established | OVERTURE 27 From Tennessee Valley Presbytery | [p.175](../markdown/ga22_1994.md#ga22-p175) |
 | [29](../overtures/ga22_1994__o29.md) | If IRC Does Not Report on CRC Issues, GA Should Replace IRC Membership | Answered by GA22 substitute; GA23 directed correction of M22GA and no further action | OVERTURE 29 From Westminster Presbytery (to IRC) | [p.486](../markdown/ga23_1995.md#ga23-p486) |
 | [30](../overtures/ga22_1994__o30.md) | Instruct MNA to Dismiss Its Subcommittee on Worship | Answered in the negative | OVERTURE 30 From Westminster Presbytery | [p.177](../markdown/ga22_1994.md#ga22-p177) |
-| [36](../overtures/ga22_1994__o36.md) | Require IAR to Produce Legal Opinions and Appoint Interim Board |  | OVERTURE 36 from Central Carolina Presbytery | [p.184](../markdown/ga22_1994.md#ga22-p184) |
+| [36](../overtures/ga22_1994__o36.md) | Amend BCO 14-1.11 to Limit Floor Nominations at General Assembly | Denied | OVERTURE 36 From Presbytery of the Ascension | [p.241](../markdown/ga22_1994.md#ga22-p241) |
 | [38](../overtures/ga22_1994__o38.md) | Investigate Conflict of Interest of Non-PCA Corporations Using PCA Address |  | the Presbytery of Northern Illinois "Investigate Potential Conflict of Interest of Individ | [p.275](../markdown/ga22_1994.md#ga22-p275) |
 | [40](../overtures/ga22_1994__o40.md) | Require Presentation of Legal Audit to General Assembly in Executive Session |  | the Presbytery of the Ascension "Make Legal Audit Public" | [p.272](../markdown/ga22_1994.md#ga22-p272) |
 | [43](../overtures/ga22_1994__o43.md) | Instruct IRC to Be More Circumspect | Answered by GA22 substitute; GA23 directed correction of M22GA and no further action | OVERTURE 43 From South Texas Presbytery (to IRC) | [p.487](../markdown/ga23_1995.md#ga23-p487) |

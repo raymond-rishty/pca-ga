@@ -125,6 +125,7 @@ def main():
         raise ValueError(f"duplicate overture record IDs in catalogue: {duplicates[:12]}")
     pair_counts = Counter((r["vol"], str(r["number"])) for r in records)
     events = {}
+    event_bundles = {}
     related_records = {}
     catalogue_ids = set(record_ids)
     for row in load_jsonl("overture_events.jsonl"):
@@ -147,6 +148,7 @@ def main():
                 raise ValueError(f"event {event.get('event_id')} belongs to {event_record_id}, "
                                  f"not parent record {rid}")
         events[rid] = row.get("events", [])
+        event_bundles[rid] = row
         related_records[rid] = row.get("related_records", [])
 
     def page_path(record):
@@ -226,10 +228,19 @@ def main():
         record_events = events.get(record["record_id"], [])
         if record_events:
             page_md += ratnote
-            page_md += ["## Submitted overture", ""]
-            page_md += ([para_clauses(body)] if body_available else
-                        ["*The submitted text is not available in the extracted catalogue; "
-                         "consult the cited minutes.*"])
+            event_bundle = event_bundles.get(record["record_id"], {})
+            proposal_body_available = body_available and not event_bundle.get("proposal_text_unavailable")
+            proposal_text_heading = (event_bundle.get("proposal_text_heading") or
+                                     "Submitted overture").strip()
+            proposal_text_note = (event_bundle.get("proposal_text_note") or "").strip()
+            page_md += [f"## {proposal_text_heading}", ""]
+            if proposal_text_note:
+                page_md += [f"*{proposal_text_note}*", ""]
+            if proposal_body_available:
+                page_md += [para_clauses(body)]
+            elif not proposal_text_note:
+                page_md += ["*The submitted text is not available in the extracted catalogue; "
+                            "consult the cited minutes.*"]
             page_md += ["", "## Action history", ""]
             for event in record_events:
                 heading = (event.get("heading") or "Overture action").strip()
