@@ -13,6 +13,7 @@
 | 2016 | Overture | explicit_citation | direct_text | high | [Adopt Statement on Repentance, Racial Reconciliation, and Reformation](../markdown/ga44_2016.md#ga44-p606) | Answered by reference |
 | 2002 | Overture | explicit_citation | direct_text | high | [Acknowledge Diversity of Views on Women in Military & Dismiss WIM Committee](../markdown/ga30_2002.md#ga30-p247) | Answered by reference |
 | 2002 | Overture | explicit_citation | direct_text | high | [Acknowledge Diversity of Views on Women in Military and Dismiss WIM Committee](../markdown/ga30_2002.md#ga30-p253) | Answered by reference |
+| 1987 | Overture | explicit_citation | direct_text | high | [Reconsider the Assembly's Ruling That Extraordinary Revelatory Gifts Have Ceased](../markdown/ga15_1987.md#ga15-p53) | Answered in the negative |
 | 1986 | Overture | explicit_citation | direct_text | high | [Clarify the Proper Scope of Diaconal Ministry](../markdown/ga14_1986.md#ga14-p58) |  |
 
 ---

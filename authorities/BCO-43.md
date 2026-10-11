@@ -62,7 +62,6 @@
 | 2019 | Overture | explicit_citation | direct_text | high | [Amend BCO 40-4 and 40-5 to Clarify the Meaning of 'Credible Report'](../markdown/ga47_2019.md#ga47-p686) | Answered in the negative |
 | 2017 | Overture | explicit_citation | direct_text | high | [Amend BCO 24-7 to Allow Sabbatical Leave for Church Officers](../markdown/ga45_2017.md#ga45-p659) | Answered in the negative |
 | 2015 | Overture | explicit_citation | direct_text | high | [Amend BCO 13-2, 34-10, 24-7 and 24-9 Regarding Ministers, Ruling Elders, and Deacons Without Call](../markdown/ga43_2015.md#ga43-p612) | Answered in the negative |
-| 1987 | Overture | explicit_citation | direct_text | high | [Instruct the Ad Interim Committee to Preserve Church Court Judicial Authority](../markdown/ga15_1987.md#ga15-p86) |  |
 | 1986 | Overture | explicit_citation | direct_text | high | [Prohibit Changes to Judicial Procedure for Three Years](../markdown/ga14_1986.md#ga14-p44) | Adopted (final) |
 | 2018 | RPR exception | structured_exception_tag | structured_provision_tag | medium | [Korean Southern: Incomplete record of complaint sent to presbytery.](../rpr/exc/korean-southern__123.html) | satisfactory |
 

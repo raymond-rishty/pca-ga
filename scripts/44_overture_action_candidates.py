@@ -52,7 +52,7 @@ PAGE = re.compile(
     r'<a id="(?P<anchor>ga(?P<ga>\d+)-p(?P<pdf>\d+))"></a>\s*'
     r'<!-- PAGE ga=\d+ pdf_page=(?P<pdf_comment>\d+) printed_page=(?P<printed>null|\d+) -->'
 )
-OVERTURE_MENTION = re.compile(r"(?i)\bovertures?\s+(\d+)\b")
+OVERTURE_MENTION = re.compile(r"(?i)\bovertures?\s+#?\s*(\d+)\b")
 PATTERNS: dict[str, re.Pattern[str]] = {
     "advice": re.compile(
         r"(?i)(committee on constitutional business.{0,160}(advice|conflict)|"
@@ -62,23 +62,23 @@ PATTERNS: dict[str, re.Pattern[str]] = {
         r"constitutional review)"
     ),
     "overture_or_amendment_action": re.compile(
-        r"(?i)(\bovertures?\s+\d+\b.{0,300}\b(?:answer(?:s|ed)?|adopted|approved|"
-        r"rejected|defeated|refer(?:s|red|ring)?|defer(?:s|red|ring)?|"
+        r"(?i)(\bovertures?\s+#?\s*\d+\b.{0,300}\b(?:answer(?:s|ed)?|adopted|approved|"
+        r"rejected|defeated|fail(?:s|ed|ing)?|refer(?:s|red|ring)?|defer(?:s|red|ring)?|"
         r"amend(?:ed|ment)?|substitut(?:e|ed|ion)|"
         r"recommitted|withdrawn|postponed|carried over|ratified|affirmative|negative|"
         r"ruled out of order)\b)|"
-        r"(\b(?:committee|assembly|motion|recommendation)\b.{0,200}\bovertures?\s+\d+"
-        r"\b.{0,250}\b(?:adopted|approved|rejected|defeated|respond(?:s|ed)?|refer(?:s|red|ring)?|"
+        r"(\b(?:committee|assembly|motion|recommendation)\b.{0,200}\bovertures?\s+#?\s*\d+"
+        r"\b.{0,250}\b(?:adopted|approved|rejected|defeated|fail(?:s|ed|ing)?|respond(?:s|ed)?|refer(?:s|red|ring)?|"
         r"defer(?:s|red|ring)?|recommitted|withdrawn|postponed|carried over|"
         r"answered|ratified|affirmative|negative)\b)|"
         r"(\b(?:committee|assembly|motion|recommendation)\b.{0,200}\b"
         r"(?:answer(?:s|ed)?|respond(?:s|ed)?|refer(?:s|red|ring)?|defer(?:s|red|ring)?|"
-        r"adopted|approved|rejected|defeated|withdrawn|postponed|ratified)\b"
-        r".{0,160}\bovertures?\s+\d+\b)|"
+        r"adopted|approved|rejected|defeated|fail(?:s|ed|ing)?|withdrawn|postponed|ratified)\b"
+        r".{0,160}\bovertures?\s+#?\s*\d+\b)|"
         r"(\b(?:amendment|substitute)\b.{0,250}\b(?:adopted|approved|rejected|"
         r"defeated|carried|substituted)\b)|"
         r"(amended to read|amendment was (?:adopted|approved|defeated|rejected)|"
-        r"overtures?\s+\d+\s+(?:was|were)\s+amended|"
+        r"overtures?\s+#?\s*\d+\s+(?:was|were)\s+amended|"
         r"motion to amend|moved to amend)"
     ),
     "presbytery_vote": re.compile(
@@ -159,7 +159,7 @@ def candidates(path: Path):
                 r"(?i)following overtures be answered by reference to this action", searchable
             ))
             if (reference_list_active
-                    and re.search(r"(?i)\bovertures?\s+\d+\s+from\b", searchable)
+                    and re.search(r"(?i)\bovertures?\s+#?\s*\d+\s+from\b", searchable)
                     and "overture_or_amendment_action" not in kinds):
                 kinds.append("overture_or_amendment_action")
             if (in_overtures_summary
