@@ -292,6 +292,9 @@ def main():
                     elif text_kind == "minutes_paraphrase":
                         page_md += ["*Paraphrase of the minutes; not a quotation.*", "",
                                     f'<p class="overture-action-note">{quoted}</p>', ""]
+                    elif text_kind == "minutes_note":
+                        page_md += ["*Minutes status note; not a separate Assembly action.*", "",
+                                    f'<p class="overture-action-note">{quoted}</p>', ""]
                     else:
                         raise ValueError(f"unsupported overture event text_kind: {text_kind!r}")
                 source_href = source_url or f"../markdown/{source_volume}.md{source_anchor}"

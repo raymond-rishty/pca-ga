@@ -63,12 +63,12 @@ PATTERNS: dict[str, re.Pattern[str]] = {
     ),
     "overture_or_amendment_action": re.compile(
         r"(?i)(\bovertures?\s+#?\s*\d+\b.{0,300}\b(?:answer(?:s|ed)?|adopted|approved|"
-        r"rejected|defeated|fail(?:s|ed|ing)?|refer(?:s|red|ring)?|defer(?:s|red|ring)?|"
+        r"den(?:y|ied|ies)|rejected|defeated|fail(?:s|ed|ing)?|refer(?:s|red|ring)?|defer(?:s|red|ring)?|"
         r"amend(?:ed|ment)?|substitut(?:e|ed|ion)|"
         r"recommitted|withdrawn|postponed|carried over|ratified|affirmative|negative|"
         r"ruled out of order)\b)|"
         r"(\b(?:committee|assembly|motion|recommendation)\b.{0,200}\bovertures?\s+#?\s*\d+"
-        r"\b.{0,250}\b(?:adopted|approved|rejected|defeated|fail(?:s|ed|ing)?|respond(?:s|ed)?|refer(?:s|red|ring)?|"
+        r"\b.{0,250}\b(?:adopted|approved|den(?:y|ied|ies)|rejected|defeated|fail(?:s|ed|ing)?|respond(?:s|ed)?|refer(?:s|red|ring)?|"
         r"defer(?:s|red|ring)?|recommitted|withdrawn|postponed|carried over|"
         r"answered|ratified|affirmative|negative)\b)|"
         r"(\b(?:committee|assembly|motion|recommendation)\b.{0,200}\b"

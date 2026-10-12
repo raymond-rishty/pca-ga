@@ -159,6 +159,24 @@ def link():
         e = json.loads(l)
         titles[(e["vol"], e["number"], e.get("pdf_page"))] = e["title"]
 
+    # Reviewed catalogue corrections are keyed to the source-page occurrence. Use their
+    # explicit final disposition overrides here as well as in OVERTURES.md; the raw disposition
+    # workflow is keyed only by (volume, number), which can bleed actions across reused numbers.
+    page_overrides = {}
+    cp = os.path.join(IDX, "overture_catalogue_corrections.jsonl")
+    if os.path.exists(cp):
+        for line in open(cp, encoding="utf-8"):
+            correction = json.loads(line)
+            if correction.get("action") != "include":
+                continue
+            if not any(correction.get(k) for k in (
+                "disposition", "assembly_disposition", "ratified", "bco", "ratification_note"
+            )):
+                continue
+            identity = (correction.get("vol"), int(correction.get("number") or 0),
+                        int(correction.get("pdf_page") or 0))
+            page_overrides[identity] = correction
+
     def choose(ds):
         present = {r["disposition"] for r in ds}
         for p in _PRIORITY:
@@ -225,8 +243,17 @@ def link():
                 elif vo.get("outcome") == "failed":
                     final = "Approved but not ratified"; ratified = False
             note = verified.get((vol, num), {}).get("evidence")
+            override = page_overrides.get((vol, int(num), int(ov.get("pdf_page") or 0)), {})
+            if override.get("disposition") and not override.get("clear_disposition"):
+                final = override["disposition"]
+            if override.get("ratified") is not None:
+                ratified = override["ratified"]
+            if override.get("bco") is not None:
+                bco = sorted(set(str(s) for s in override["bco"]))
+            if override.get("ratification_note"):
+                note = override["ratification_note"]
             out.append({"vol": vol, "number": num, "pdf_page": ov["pdf_page"],
-                        "disposition": _DISP_LABEL.get(code),
+                        "disposition": override.get("assembly_disposition") or _DISP_LABEL.get(code),
                         "final_disposition": final, "ratified": ratified, "bco": sorted(bco),
                         "ratification_note": (note or "")[:400] or None})
     with open(os.path.join(IDX, "overture_dispositions.jsonl"), "w") as f:
