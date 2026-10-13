@@ -425,12 +425,12 @@
     "blocker": ""
   },
   "48": {
-    "roster_reconciled": "unverified",
-    "event_source_audited": "unverified",
-    "build": "unverified",
-    "preview_reviewed": "unverified",
-    "commit_sha": "",
-    "pushed": "unverified",
+    "roster_reconciled": "verified: 48 distinct catalogue records reconcile to 48 research rows, event bundles, and page-map entries; 324/324 candidates reviewed with zero invalid links or orphan reviews (2026-10-13)",
+    "event_source_audited": "verified: 207 events have unique IDs, continuous per-record sequences, verified excerpts, and resolving source anchors; disputed GA48/GA49 CCB rows and corrected locators checked against official PDFs (2026-10-13)",
+    "build": "passed: full siteBuild -RegenerateOvertures; 10,898 linked HTML files verified, 8,672 search pages indexed, rendered-site validation passed (2026-10-13; 4m54s)",
+    "preview_reviewed": "verified: GA48 O3, O11, O18, O34, O35, O40, O41, and O43 action pages returned HTTP 200 with action sections and source links (2026-10-13)",
+    "commit_sha": "03d0b39ac",
+    "pushed": "pushed",
     "blocker": ""
   },
   "49": {
