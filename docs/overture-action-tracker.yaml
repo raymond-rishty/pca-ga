@@ -1813,18 +1813,18 @@ assemblies:
     missing_research_rows: 0
     missing_event_bundles: 0
     candidate_passages: 86
-    candidates_reviewed: 3
-    candidates_unreviewed: 83
+    candidates_reviewed: 86
+    candidates_unreviewed: 0
     candidate_invalid_links: 0
     candidate_reviews_orphaned: 0
-    roster_reconciled: "unverified"
-    event_source_audited: "unverified"
-    build: "unverified"
-    preview_reviewed: "unverified"
+    roster_reconciled: "verified: 31 distinct GA7 catalogue records match 31 research rows and 31 event bundles; 86/86 GA7 candidates reviewed (2026-10-13)"
+    event_source_audited: "verified: 146 events with unique IDs, continuous per-record sequences, and all source anchors resolving across GA7–GA10; 86/86 candidates reviewed with zero invalid links or orphan reviews (2026-10-13)"
+    build: "passed: full siteBuild via scripts/build-local.ps1; 10,864 linked HTML files validated (2026-10-13)"
+    preview_reviewed: "verified: GA7 Overture 2 page returned HTTP 200; GA9/GA10 continuation text and three minute-page source links present (2026-10-13)"
     commit_sha: ""
     pushed: "unverified"
-    blocker: "83 candidates unreviewed; roster_reconciled unverified; event_source_audited unverified; build unverified; preview_reviewed unverified; commit_sha unverified; pushed unverified"
-    next_step: "Audit GA7 action trails against the remaining 83 unreviewed candidate passages; confirm each passage is linked to the correct overture or document why it is unrelated."
+    blocker: "commit_sha unverified; pushed unverified"
+    next_step: "Complete packet closeout: commit_sha, pushed."
     overtures:
       -
         record_id: "overture:ga07_1979:2:p29"
@@ -1836,10 +1836,10 @@ assemblies:
         research_status: "complete"
         next_step: "No overture-level research remains; packet audits and closeout are tracked at GA level."
         disposition: "Answered in the negative"
-        event_count: 6
-        last_action_ga: 8
-        search_through_assembly: 9
-        gap_note: "GA8 referred the carried-over matter to Administration for a GA9 report. A targeted search of the full GA9 Markdown minutes found no resulting report or action on this specific GA7 proposal; this is recorded as no later action located, not as proof that no action occurred."
+        event_count: 13
+        last_action_ga: 10
+        search_through_assembly: 51
+        gap_note: "GA8 returned the question to Administration for a GA9 report. GA9 returned it for further study and Presbytery advice; GA10 authorized continued study and answered the GA9 carry-over by reference, with no present change to Assembly structure. No later direct action on this distinct GA7 record was located through GA51. Later delegated-Assembly proposals remain separate overtures."
         anomalies: ""
       -
         record_id: "overture:ga07_1979:3:p35"

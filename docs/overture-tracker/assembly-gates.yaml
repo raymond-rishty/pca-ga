@@ -56,10 +56,10 @@
     "blocker": ""
   },
   "7": {
-    "roster_reconciled": "unverified",
-    "event_source_audited": "unverified",
-    "build": "unverified",
-    "preview_reviewed": "unverified",
+    "roster_reconciled": "verified: 31 distinct GA7 catalogue records match 31 research rows and 31 event bundles; 86/86 GA7 candidates reviewed (2026-10-13)",
+    "event_source_audited": "verified: 146 events with unique IDs, continuous per-record sequences, and all source anchors resolving across GA7–GA10; 86/86 candidates reviewed with zero invalid links or orphan reviews (2026-10-13)",
+    "build": "passed: full siteBuild via scripts/build-local.ps1; 10,864 linked HTML files validated (2026-10-13)",
+    "preview_reviewed": "verified: GA7 Overture 2 page returned HTTP 200; GA9/GA10 continuation text and three minute-page source links present (2026-10-13)",
     "commit_sha": "",
     "pushed": "unverified",
     "blocker": ""
