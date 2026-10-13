@@ -236,12 +236,12 @@
     "blocker": ""
   },
   "27": {
-    "roster_reconciled": "unverified",
-    "event_source_audited": "unverified",
-    "build": "unverified",
-    "preview_reviewed": "unverified",
-    "commit_sha": "",
-    "pushed": "unverified",
+    "roster_reconciled": "verified: 27 distinct GA27 records match the research ledger and page map; all 97 candidate passages reviewed with no invalid links or orphaned reviews.",
+    "event_source_audited": "verified: 148 events across 27 trails; packet audit retained, and the five refreshed excerpts/citations were checked against GA27/GA28 Markdown anchors.",
+    "build": "passed: full validating siteBuild on 2026-10-13 after the GA27 source refresh (6m04s).",
+    "preview_reviewed": "verified: visually reviewed local GA27 O11; submitted proposal is separate from the action trail, with clear action headings, excerpt labels, and source links.",
+    "commit_sha": "5fb91b4afdc0fedabf56581017461a2d8a32c3bb",
+    "pushed": true,
     "blocker": ""
   },
   "28": {

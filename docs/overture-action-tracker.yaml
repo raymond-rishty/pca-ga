@@ -12774,7 +12774,7 @@ assemblies:
   -
     ga_ordinal: 27
     assembly: "GA27"
-    status: "in_progress"
+    status: "closed"
     catalogue_records: 27
     records_complete: 27
     records_in_progress: 0
@@ -12787,14 +12787,14 @@ assemblies:
     candidates_unreviewed: 0
     candidate_invalid_links: 0
     candidate_reviews_orphaned: 0
-    roster_reconciled: "unverified"
-    event_source_audited: "unverified"
-    build: "unverified"
-    preview_reviewed: "unverified"
-    commit_sha: ""
-    pushed: "unverified"
-    blocker: "roster_reconciled unverified; event_source_audited unverified; build unverified; preview_reviewed unverified; commit_sha unverified; pushed unverified"
-    next_step: "Complete packet closeout: roster_reconciled, event_source_audited, build, preview_reviewed, commit_sha, pushed."
+    roster_reconciled: "verified: 27 distinct GA27 records match the research ledger and page map; all 97 candidate passages reviewed with no invalid links or orphaned reviews."
+    event_source_audited: "verified: 148 events across 27 trails; packet audit retained, and the five refreshed excerpts/citations were checked against GA27/GA28 Markdown anchors."
+    build: "passed: full validating siteBuild on 2026-10-13 after the GA27 source refresh (6m04s)."
+    preview_reviewed: "verified: visually reviewed local GA27 O11; submitted proposal is separate from the action trail, with clear action headings, excerpt labels, and source links."
+    commit_sha: "5fb91b4afdc0fedabf56581017461a2d8a32c3bb"
+    pushed: true
+    blocker: ""
+    next_step: "No remaining work recorded."
     overtures:
       -
         record_id: "overture:ga27_1999:1:p189"
