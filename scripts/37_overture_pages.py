@@ -24,7 +24,7 @@ from html.parser import HTMLParser
 from pathlib import Path
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
-from source_links import source_entries_for_record, source_front_matter
+from source_links import minutes_source_entry, source_entries_for_record, source_front_matter
 from overture_identity import load_reconciled_overture_records
 
 ROOT = sys.argv[1] if len(sys.argv) > 1 else "/workspace"
@@ -108,6 +108,67 @@ def load_jsonl(name):
     return [json.loads(l) for l in open(p, encoding="utf-8")] if os.path.exists(p) else []
 
 
+def existing_source_links():
+    """Keep curated source-link front matter when action pages are regenerated."""
+    by_filename = {}
+    for path in glob.glob(os.path.join(OUT, "*.md")):
+        text = Path(path).read_text(encoding="utf-8-sig")
+        parts = text.split("---", 2)
+        if len(parts) != 3 or parts[0].strip():
+            continue
+        lines = parts[1].splitlines()
+        links = []
+        current = None
+        in_source_links = False
+        for line in lines:
+            if line == "source_links:":
+                in_source_links = True
+                continue
+            if in_source_links and line and not line[0].isspace():
+                break
+            if not in_source_links:
+                continue
+            if line.startswith("  - "):
+                if current:
+                    links.append(current)
+                current = {}
+                line = "    " + line[4:]
+            if current and line.startswith("    ") and ":" in line:
+                key, value = line.strip().split(":", 1)
+                value = value.strip()
+                if value.startswith('"'):
+                    value = json.loads(value)
+                elif value.startswith("'") and value.endswith("'"):
+                    value = value[1:-1].replace("''", "'")
+                elif value.isdigit():
+                    value = int(value)
+                current[key] = value
+        if current:
+            links.append(current)
+        by_filename[os.path.basename(path)] = links
+    return by_filename
+
+
+def merge_source_entries(*groups):
+    """Preserve existing link order while adding newly sourced action pages."""
+    merged = []
+    seen = set()
+    for group in groups:
+        for entry in group:
+            key = (entry.get("type"), entry.get("source_id"), entry.get("pdf_page"), entry.get("url"))
+            if key in seen:
+                continue
+            seen.add(key)
+            merged.append(entry)
+    return merged
+
+
+def pdf_page_anchor(volume, page):
+    """Return the rendered Minutes page's unambiguous PDF-page target."""
+    match = re.search(r"ga0*(\d+)", volume or "", re.I)
+    return f"#ga{int(match.group(1))}-pdf-p{int(page)}" if match else ""
+
+
 def catalogue_records():
     """Read the reconciled catalogue; its originating page distinguishes reused numbers."""
     return load_reconciled_overture_records(Path(IDX))
@@ -115,6 +176,7 @@ def catalogue_records():
 
 def main():
     os.makedirs(OUT, exist_ok=True)
+    preserved_source_links = existing_source_links()
     for f in glob.glob(os.path.join(OUT, "*.md")):
         os.remove(f)
 
@@ -205,7 +267,6 @@ def main():
         body = (r.get("body") or "").strip()
         body_available = len(body) >= MIN_BODY
         ga, year = record["ga_ordinal"], str(record["year"])
-        prefix = source_volume.split("_")[0]             # source minutes volume prefix
         page = source_page
         title = (record.get("title") or "").strip() or "(untitled overture)"
         source = (record.get("source") or "").strip()
@@ -220,16 +281,37 @@ def main():
         if disp and not record_events:
             hdr.append(f"**Disposition:** {disp}")
 
-        anchor = f"#{prefix}-p{page}" if page else ""
+        anchor = pdf_page_anchor(source_volume, page) if page else ""
         src = (f"*Source: [{source_volume} PDF p. {page}](../markdown/{source_volume}.md{anchor})*" if page
                else f"*Source: [{source_volume}](../markdown/{source_volume}.md)*")
         rn = ""
         ratnote = [f"> *{rn.strip()}*", ""] if (rn or "").strip() else []
 
-        source_meta = source_front_matter(source_entries_for_record(
+        source_entries = source_entries_for_record(
             Path(ROOT), "overture", f"{source_volume}:{number}:{source_page}", source_volume,
             int(page) if page else None
-        ))
+        )
+        event_source_entries = []
+        for event in record_events:
+            event_volume = (event.get("source_volume") or vol).strip()
+            event_page = event.get("source_pdf_page")
+            if event_page and re.match(r"ga0*\d+[_-]\d{4}$", event_volume):
+                entry = minutes_source_entry(Path(ROOT), event_volume, int(event_page))
+                if entry:
+                    event_source_entries.append(entry)
+            for support in event.get("supporting_excerpts", []):
+                support_volume = (support.get("source_volume") or vol).strip()
+                support_page = support.get("source_pdf_page")
+                if support_page and re.match(r"ga0*\d+[_-]\d{4}$", support_volume):
+                    entry = minutes_source_entry(Path(ROOT), support_volume, int(support_page))
+                    if entry:
+                        event_source_entries.append(entry)
+        source_entries = merge_source_entries(
+            preserved_source_links.get(os.path.basename(page_path(record)), []),
+            source_entries,
+            event_source_entries,
+        )
+        source_meta = source_front_matter(source_entries)
         # The helper's trailing blank line is useful at other insertion points, but
         # overture pages already add a blank after the heading metadata below.
         if source_meta and source_meta[-1] == "":
@@ -261,7 +343,7 @@ def main():
                 )
                 source_url = (event.get("source_url") or "").strip()
                 source_match = re.search(r"ga(\d+)", source_volume)
-                source_anchor = (f"#ga{int(source_match.group(1)):02d}-p{source_page}"
+                source_anchor = (pdf_page_anchor(source_volume, source_page)
                                  if source_page and source_match else "")
                 page_md += [f'<h3 class="overture-action-heading">{escape(heading)}</h3>', ""]
                 if action_text:
@@ -313,7 +395,7 @@ def main():
                     support_label = (support.get("source_label") or
                                      f"{support_volume} PDF p. {support_page}").strip()
                     support_match = re.search(r"ga(\d+)", support_volume)
-                    support_anchor = (f"#ga{int(support_match.group(1)):02d}-p{support_page}"
+                    support_anchor = (pdf_page_anchor(support_volume, support_page)
                                       if support_page and support_match else "")
                     if support_text:
                         table_html = (render_minutes_table(support_text)
