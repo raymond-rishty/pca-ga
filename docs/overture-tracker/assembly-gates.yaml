@@ -218,10 +218,10 @@
     "blocker": ""
   },
   "25": {
-    "roster_reconciled": "unverified",
-    "event_source_audited": "unverified",
-    "build": "unverified",
-    "preview_reviewed": "unverified",
+    "roster_reconciled": "verified: 17 distinct page-qualified GA25 overture records match the reconciled packet roster; 2026-10-13",
+    "event_source_audited": "verified: 73 events across 17 records; continuous sequences, unique event IDs, all anchors resolve to GA25 or cited GA26 minutes; GA25 excerpts checked against Markdown, with two previously PDF-verified GA26 ratification exceptions; 2026-10-13",
+    "build": "passed: full siteBuild -RegenerateOvertures; rendered-site validation passed 2026-10-13",
+    "preview_reviewed": "verified: GA25 Overture 8 local page returned HTTP 200; rendered action excerpt and source anchor present; 2026-10-13",
     "commit_sha": "",
     "pushed": "unverified",
     "blocker": ""
@@ -255,7 +255,7 @@
   },
   "29": {
     "roster_reconciled": "verified: 38 page-qualified records match the reconciled GA29 catalogue and page map",
-    "event_source_audited": "verified: 190 events across 38 trails; all source anchors and exact excerpts audited in GA29–GA31 Markdown minutes",
+    "event_source_audited": "verified: 190 events across 38 trails; all source anchors and exact excerpts audited in GA29â€“GA31 Markdown minutes",
     "build": "passed: full validating siteBuild after GA29 packet commit c19267109 on 2026-10-13 (6m04s)",
     "preview_reviewed": "verified: visually reviewed the local GA29 O1, O27, and O35 pages after the targeted Gradle fastPreview. Action headings and source labels are distinct from submitted text; the GA30 concurrence tally renders as a structured table.",
     "commit_sha": "c1926710904af2b4ec22d74262686fd405e3ef22",

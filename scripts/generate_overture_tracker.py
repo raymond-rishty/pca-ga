@@ -336,6 +336,15 @@ def main() -> None:
     for row in record_rows:
         row["assembly_status"] = assembly_status_by_ga.get(row["ga_ordinal"], "open")
 
+    # Keep spreadsheet exports human-scannable: O1, O2, ... O10 within each GA.
+    # The stable record ID remains the final tie-breaker for reused numbers.
+    record_rows.sort(key=lambda row: (
+        int(row["ga_ordinal"] or 0),
+        int(row["number"] or 0),
+        int(row["source_page"] or 0),
+        row["record_id"],
+    ))
+
     csv_write(RECORD_OUT, [
         "ga_ordinal", "assembly_status", "year", "record_id", "number", "source_page", "source", "title", "page",
         "research_status", "next_step", "disposition", "event_count", "last_action_ga", "search_through_assembly", "gap_note",
@@ -397,6 +406,53 @@ def main() -> None:
             "candidates_reviewed_total": f"{assembly['candidates_reviewed']}/{assembly['candidate_passages']}",
             "next_step": step,
             "follow_up": "",
+        })
+
+    # The earlier GA30-GA52 pass is intentionally not interleaved with the
+    # requested GA29-to-GA1 backward walk. Keep its outstanding evidence and
+    # packet gates on the schedule after that walk, so "processed" is not
+    # mistaken for strictly closed and no Assembly silently falls off the queue.
+    post_walk = [r for r in assembly_rows
+                 if r["ga_ordinal"] >= 30 and r["ga_ordinal"] != 51]
+    for assembly in sorted(post_walk, key=lambda r: r["ga_ordinal"]):
+        ga = assembly["ga_ordinal"]
+        if (assembly["records_in_progress"] or assembly["records_not_researched"]
+                or assembly["missing_research_rows"] or assembly["missing_event_bundles"]):
+            step = (
+                f"Complete source trails for {assembly['records_in_progress'] + assembly['records_not_researched']} "
+                "overture records; resolve missing event bundles and document evidence-based gaps."
+            )
+            phase = "action_trails"
+        elif (assembly["candidates_unreviewed"] or assembly["candidate_invalid_links"]
+              or assembly["candidate_reviews_orphaned"]):
+            step = (
+                f"Review {assembly['candidates_unreviewed']} unreviewed candidate passages; "
+                f"resolve {assembly['candidate_invalid_links']} invalid links and "
+                f"{assembly['candidate_reviews_orphaned']} orphaned reviews."
+            )
+            phase = "candidate_coverage"
+        else:
+            pending_gates = [
+                key for key in ("roster_reconciled", "event_source_audited", "build",
+                                "preview_reviewed", "commit_sha", "pushed")
+                if key == "commit_sha" and not re.fullmatch(r"[0-9a-fA-F]{7,40}", assembly[key] or "")
+                or key == "pushed" and assembly[key] not in (True, "true", "pushed")
+                or key in ("roster_reconciled", "event_source_audited", "preview_reviewed")
+                   and not (assembly[key] or "").startswith("verified")
+                or key == "build" and not (assembly[key] or "").startswith("passed:")
+            ]
+            step = "Complete packet closeout: " + ", ".join(pending_gates) + "." if pending_gates else "No remaining work recorded."
+            phase = "packet_closeout" if pending_gates else "done"
+        queue_rows.append({
+            "queue_order": len(queue_rows) + 1,
+            "scope": "post_walk_packet",
+            "assembly": assembly["assembly"],
+            "status": assembly["status"],
+            "phase": phase,
+            "records_complete_total": f"{assembly['records_complete'] + assembly['records_source_unavailable']}/{assembly['catalogue_records']}",
+            "candidates_reviewed_total": f"{assembly['candidates_reviewed']}/{assembly['candidate_passages']}",
+            "next_step": step,
+            "follow_up": "Scheduled after the GA29-to-GA1 backward walk; do not restart the current walk here.",
         })
     ga52_status = next(r for r in assembly_rows if r["ga_ordinal"] == 52)
     queue_rows.extend([
