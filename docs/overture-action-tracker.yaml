@@ -801,10 +801,10 @@ assemblies:
     event_source_audited: "verified: 98 events; unique IDs, continuous sequences, and resolvable source anchors; 45/45 candidates reviewed with zero invalid links or orphan reviews (2026-10-13)"
     build: "passed: full siteBuild -RegenerateOvertures 2026-10-13"
     preview_reviewed: "verified: GA4 O12, O4, and O9 returned HTTP 200 with action sections and source links (2026-10-13)"
-    commit_sha: ""
-    pushed: "unverified"
-    blocker: "commit_sha unverified; pushed unverified"
-    next_step: "Complete packet closeout: commit_sha, pushed."
+    commit_sha: "31793b9c1"
+    pushed: "pushed 2026-10-13"
+    blocker: "pushed unverified"
+    next_step: "Complete packet closeout: pushed."
     overtures:
       -
         record_id: "overture:ga04_1976:1:p35"
