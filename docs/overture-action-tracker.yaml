@@ -23417,14 +23417,14 @@ assemblies:
     candidates_unreviewed: 0
     candidate_invalid_links: 0
     candidate_reviews_orphaned: 0
-    roster_reconciled: "unverified"
-    event_source_audited: "unverified"
+    roster_reconciled: "verified: 41 distinct records match research rows, event bundles, and page-map entries; 337/337 candidate passages reviewed with zero invalid record links (2026-10-13)"
+    event_source_audited: "verified: 230 event source anchors/locators in GA48–GA50 resolve in Markdown; 11 later-volume follow-up events excluded from this pass under project scope (2026-10-13)"
     build: "passed: full siteBuild -RegenerateOvertures 2026-10-13"
     preview_reviewed: "verified: GA49 O8 page returned HTTP 200; seven chronological action sections and source links rendered (2026-10-13)"
-    commit_sha: "627f35b51"
-    pushed: "pushed"
-    blocker: "roster_reconciled unverified; event_source_audited unverified"
-    next_step: "Complete packet closeout: roster_reconciled, event_source_audited."
+    commit_sha: ""
+    pushed: "unverified"
+    blocker: "commit_sha unverified; pushed unverified"
+    next_step: "Complete packet closeout: commit_sha, pushed."
     overtures:
       -
         record_id: "overture:ga49_2022:1:p1303"
@@ -24053,18 +24053,18 @@ assemblies:
     missing_research_rows: 0
     missing_event_bundles: 0
     candidate_passages: 332
-    candidates_reviewed: 0
-    candidates_unreviewed: 332
+    candidates_reviewed: 332
+    candidates_unreviewed: 0
     candidate_invalid_links: 0
     candidate_reviews_orphaned: 0
-    roster_reconciled: "unverified"
-    event_source_audited: "unverified"
+    roster_reconciled: "verified: 29 distinct records match research rows, event bundles, and page-map entries; 332/332 candidate passages reviewed with zero invalid record links (2026-10-13)"
+    event_source_audited: "verified: 230 event source anchors/locators in GA48–GA50 resolve in Markdown; 11 later-volume follow-up events excluded from this pass under project scope (2026-10-13)"
     build: "passed: full siteBuild -RegenerateOvertures 2026-10-13"
     preview_reviewed: "verified: GA50 O2 and O20 pages returned HTTP 200; seven and four chronological action sections rendered (2026-10-13)"
-    commit_sha: "627f35b51"
-    pushed: "pushed"
-    blocker: "332 candidates unreviewed; roster_reconciled unverified; event_source_audited unverified"
-    next_step: "Review 332 remaining candidate passages."
+    commit_sha: ""
+    pushed: "unverified"
+    blocker: "commit_sha unverified; pushed unverified"
+    next_step: "Complete packet closeout: commit_sha, pushed."
     overtures:
       -
         record_id: "overture:ga50_2023:1:p975"
