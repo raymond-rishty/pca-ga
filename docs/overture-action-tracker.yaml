@@ -12314,7 +12314,7 @@ assemblies:
   -
     ga_ordinal: 26
     assembly: "GA26"
-    status: "in_progress"
+    status: "closed"
     catalogue_records: 29
     records_complete: 29
     records_in_progress: 0
@@ -12331,10 +12331,10 @@ assemblies:
     event_source_audited: "verified: 114 events across 29 trails; all 114 Markdown source anchors resolve and every verbatim excerpt matches its source. Table-derived totals and uncertain Yearbook context are clearly marked as unquoted notes; noncontiguous GA27 motion excerpts show an omission ellipsis (2026-10-13)."
     build: "passed: full siteBuild via scripts/build-local.ps1 on 2026-10-13 (5m41s)."
     preview_reviewed: "verified: GA26 O9 and O13 pages visually reviewed; O6, O9, O13, O22, and O26 preview routes return HTTP 200; action headings and citations render separately from submitted text (2026-10-13)."
-    commit_sha: ""
-    pushed: "unverified"
-    blocker: "commit_sha unverified; pushed unverified"
-    next_step: "Complete packet closeout: commit_sha, pushed."
+    commit_sha: "dc4452a42"
+    pushed: "pushed"
+    blocker: ""
+    next_step: "No remaining work recorded."
     overtures:
       -
         record_id: "overture:ga26_1998:1:p200"
