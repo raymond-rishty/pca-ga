@@ -47,10 +47,10 @@
     "blocker": ""
   },
   "6": {
-    "roster_reconciled": "unverified",
-    "event_source_audited": "unverified",
-    "build": "unverified",
-    "preview_reviewed": "unverified",
+    "roster_reconciled": "verified: 35 distinct catalogue records reconcile to research rows, event bundles, and page map; 82/82 GA6 candidates reviewed with zero invalid links or orphan reviews (2026-10-13)",
+    "event_source_audited": "verified: 158 events across GA6–GA9; record joins, unique event IDs, continuous per-record sequences, and all source anchors checked; PDF checks recorded for the disputed GA6 excerpts (2026-10-13)",
+    "build": "passed: full siteBuild via scripts/build-local.ps1; 10,864 linked HTML files validated (2026-10-13)",
+    "preview_reviewed": "verified: GA6 O24 and O28 returned HTTP 200 with action sections and PDF-checked source labels (2026-10-13)",
     "commit_sha": "",
     "pushed": "unverified",
     "blocker": ""
