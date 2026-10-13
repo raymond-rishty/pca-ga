@@ -3629,27 +3629,27 @@ assemblies:
   -
     ga_ordinal: 11
     assembly: "GA11"
-    status: "in_progress"
-    catalogue_records: 37
-    records_complete: 37
+    status: "closed"
+    catalogue_records: 38
+    records_complete: 38
     records_in_progress: 0
     records_not_researched: 0
     records_source_unavailable: 0
     missing_research_rows: 0
     missing_event_bundles: 0
     candidate_passages: 127
-    candidates_reviewed: 8
-    candidates_unreviewed: 119
+    candidates_reviewed: 127
+    candidates_unreviewed: 0
     candidate_invalid_links: 0
     candidate_reviews_orphaned: 0
-    roster_reconciled: "unverified"
-    event_source_audited: "unverified"
-    build: "unverified"
-    preview_reviewed: "unverified"
-    commit_sha: ""
-    pushed: "unverified"
-    blocker: "119 candidates unreviewed; roster_reconciled unverified; event_source_audited unverified; build unverified; preview_reviewed unverified; commit_sha unverified; pushed unverified"
-    next_step: "Review 119 remaining candidate passages."
+    roster_reconciled: "verified: 38 distinct GA11 catalogue records reconcile to 38 research rows, event bundles, and page-map entries; 127/127 candidates reviewed with zero invalid links or orphan reviews (2026-10-13)"
+    event_source_audited: "verified: 130 events have unique IDs, continuous per-record sequences, and resolving source anchors; 123/127 normalized excerpts matched Markdown, and the four OCR differences were checked against the cited PDF scans; noncontiguous excerpts are marked (2026-10-13)"
+    build: "passed: full siteBuild via scripts/build-local.ps1; 10,898 linked HTML files verified, 8,672 search pages indexed (2026-10-13)"
+    preview_reviewed: "verified: local pages for GA11 O9 p. 44 and p. 54 show distinct Gulf Coast and Siouxlands records; O14, O17, O18 action trails and source links reviewed (2026-10-13)"
+    commit_sha: "9371cd5790792511e1c996dffbca4f9cced84027"
+    pushed: "pushed"
+    blocker: ""
+    next_step: "No remaining work recorded."
     overtures:
       -
         record_id: "overture:ga11_1983:1:p43"
@@ -3769,7 +3769,22 @@ assemblies:
         event_count: 2
         last_action_ga: 11
         search_through_assembly: 11
-        gap_note: "The cited Gulf Coast Overture 9 is distinct from the catalogue GA11 Overture 9 by Siouxlands at p. 54. The Gulf Coast item is not separately represented in the current GA11 catalogue, so it is preserved here as a source excerpt and no link is made to the Siouxlands record."
+        gap_note: "Answered in the negative. The cited Gulf Coast Overture 9 is separately catalogued as overture:ga11_1983:9:p44 and is distinct from Siouxlands' carried-over GA11 Overture 9 at p. 54. Overture 8's recommendation and adopted answer refer to the Gulf Coast item."
+        anomalies: ""
+      -
+        record_id: "overture:ga11_1983:9:p44"
+        number: 9
+        source_page: 44
+        source: "the Presbytery of the Gulf Coast"
+        title: "Rescind the Seventh GA's Statement on Application of Judicial Law"
+        page: "overtures/ga11_1983__o9__p44.md"
+        research_status: "complete"
+        next_step: "No overture-level research remains; packet audits and closeout are tracked at GA level."
+        disposition: "Answered in the negative"
+        event_count: 2
+        last_action_ga: 11
+        search_through_assembly: 11
+        gap_note: "GA11 answered the proposal in the negative. This is distinct from the carried-over GA10 Siouxlands Overture 9 on BCO 14-2 and from GA11 Illiana Overture 8; GA11 O8 expressly refers to this Gulf Coast O9 action."
         anomalies: ""
       -
         record_id: "overture:ga11_1983:9:p54"
@@ -3777,7 +3792,7 @@ assemblies:
         source_page: 54
         source: "the Presbytery of Siouxlands"
         title: "Amend BCO 14-2 to Require Equal Representation of Teaching and Ruling Elders"
-        page: "overtures/ga11_1983__o9.md"
+        page: "overtures/ga11_1983__o9__p54.md"
         research_status: "complete"
         next_step: "No overture-level research remains; packet audits and closeout are tracked at GA level."
         disposition: "Answered by reference"
@@ -3841,10 +3856,10 @@ assemblies:
         research_status: "complete"
         next_step: "No overture-level research remains; packet audits and closeout are tracked at GA level."
         disposition: "Answered in the negative"
-        event_count: 2
+        event_count: 3
         last_action_ga: 11
         search_through_assembly: 11
-        gap_note: "The Assembly did not issue a separate decision on Overture 13. The minutes state that it was answered in the negative through the amended division approved on Calvary Presbytery Overture 18; the related Calvary action is linked below."
+        gap_note: "The Committee of Commissioners report lists Overtures 12 and 13 as withdrawn in its business section (11-61, I, E), but does not define the scope of that status. The overture index separately states that Overture 13 was not answered separately and was answered in the negative through the amended Calvary division adopted under 11-61, III, 18. Preserve both source statements without treating the committee listing as an Assembly disposition."
         anomalies: ""
       -
         record_id: "overture:ga11_1983:14:p45"

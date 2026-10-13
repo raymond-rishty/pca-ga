@@ -92,12 +92,12 @@
     "blocker": ""
   },
   "11": {
-    "roster_reconciled": "unverified",
-    "event_source_audited": "unverified",
-    "build": "unverified",
-    "preview_reviewed": "unverified",
-    "commit_sha": "",
-    "pushed": "unverified",
+    "roster_reconciled": "verified: 38 distinct GA11 catalogue records reconcile to 38 research rows, event bundles, and page-map entries; 127/127 candidates reviewed with zero invalid links or orphan reviews (2026-10-13)",
+    "event_source_audited": "verified: 130 events have unique IDs, continuous per-record sequences, and resolving source anchors; 123/127 normalized excerpts matched Markdown, and the four OCR differences were checked against the cited PDF scans; noncontiguous excerpts are marked (2026-10-13)",
+    "build": "passed: full siteBuild via scripts/build-local.ps1; 10,898 linked HTML files verified, 8,672 search pages indexed (2026-10-13)",
+    "preview_reviewed": "verified: local pages for GA11 O9 p. 44 and p. 54 show distinct Gulf Coast and Siouxlands records; O14, O17, O18 action trails and source links reviewed (2026-10-13)",
+    "commit_sha": "9371cd5790792511e1c996dffbca4f9cced84027",
+    "pushed": "pushed",
     "blocker": ""
   },
   "12": {

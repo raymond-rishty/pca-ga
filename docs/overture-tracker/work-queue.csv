@@ -1,4 +1,4 @@
-﻿queue_order,scope,assembly,status,phase,records_complete_total,candidates_reviewed_total,next_step,follow_up
+queue_order,scope,assembly,status,phase,records_complete_total,candidates_reviewed_total,next_step,follow_up
 1,assembly_packet,GA46,in_progress,candidate_coverage,39/39,0/217,Review 217 remaining candidate passages.,
 2,assembly_packet,GA45,in_progress,candidate_coverage,25/25,160/176,Review 16 remaining candidate passages.,
 3,assembly_packet,GA42,in_progress,candidate_coverage,55/55,222/225,Review 3 remaining candidate passages.,
@@ -12,7 +12,7 @@
 11,assembly_packet,GA20,in_progress,candidate_coverage,15/15,107/134,Review 27 remaining candidate passages.,
 12,assembly_packet,GA19,in_progress,candidate_coverage,42/42,134/163,Review 29 remaining candidate passages.,
 13,assembly_packet,GA12,in_progress,candidate_coverage,70/70,0/198,Review 198 remaining candidate passages.,
-14,assembly_packet,GA11,in_progress,candidate_coverage,37/37,8/127,Review 119 remaining candidate passages.,
+40,assembly_packet,GA11,closed,done,38/38,127/127,No remaining work recorded.,
 15,assembly_packet,GA50,closed,done,29/29,332/332,No remaining work recorded.,
 16,assembly_packet,GA49,closed,done,41/41,337/337,No remaining work recorded.,
 17,assembly_packet,GA48,in_progress,packet_closeout,48/48,324/324,"Complete packet closeout: roster_reconciled, event_source_audited, build, preview_reviewed, commit_sha, pushed.",
