@@ -574,7 +574,8 @@ Every overture recorded across all General Assemblies, grouped by Assembly. Page
 | [6](../overtures/ga11_1983__o6.md) | Clarify BCO 10-3 on Whether a Ruling Elder May Moderate Presbytery | Answered in the negative | the Presbytery of Oklahoma Therefore, be it resolved that the General Assembly clarify the | [p.44](../markdown/ga11_1983.md#ga11-p44) |
 | [7](../overtures/ga11_1983__o7.md) | Amend BCO 13-9 to Add Uniform Guidelines for Keeping Presbytery Minutes | Answered by reference | the Presbytery of Oklahoma Whereas, Presbytery minutes will be the records of our proceedi | [p.44](../markdown/ga11_1983.md#ga11-p44) |
 | [8](../overtures/ga11_1983__o8.md) | Rescind the Seventh GA's Statement on Judicial Law and Theonomy | Answered in the negative | the Presbytery of Illiana | [p.44](../markdown/ga11_1983.md#ga11-p44) |
-| [9](../overtures/ga11_1983__o9.md) | Amend BCO 14-2 to Require Equal Representation of Teaching and Ruling Elders | Answered by reference | the Presbytery of Siouxlands | [p.54](../markdown/ga11_1983.md#ga11-p54) |
+| [9](../overtures/ga11_1983__o9__p44.md) | Rescind the Seventh GA's Statement on Application of Judicial Law | Answered in the negative | the Presbytery of the Gulf Coast | [p.44](../markdown/ga11_1983.md#ga11-p44) |
+| [9](../overtures/ga11_1983__o9__p54.md) | Amend BCO 14-2 to Require Equal Representation of Teaching and Ruling Elders | Answered by reference | the Presbytery of Siouxlands | [p.54](../markdown/ga11_1983.md#ga11-p54) |
 | [10](../overtures/ga11_1983__o10.md) | Amend BCO 19-2 to Allow Committee-Based Licensure Examinations | Referred | the Presbytery of Grace Whereas, BCO 19-2 now provides that only a small part of the respo | [p.45](../markdown/ga11_1983.md#ga11-p45) |
 | [11](../overtures/ga11_1983__o11.md) |  |  | the Presbytery of Grace Whereas, the Tenth General Assembly directed the Permanent Sub-com | [p.45](../markdown/ga11_1983.md#ga11-p45) |
 | [12](../overtures/ga11_1983__o12.md) | Regarding the Presbyteries Boundary (Withdrawn) | Withdrawn | the Presbytery of St. Louis | [p.50](../markdown/ga11_1983.md#ga11-p50) |
@@ -603,44 +604,6 @@ Every overture recorded across all General Assemblies, grouped by Assembly. Page
 | [35](../overtures/ga11_1983__o35.md) | Issue a Cordial Invitation to the Orthodox Presbyterian Church to Unite with the PCA | Answered by reference | the Presbytery of Warrior | [p.42](../markdown/ga11_1983.md#ga11-p42) |
 | [36](../overtures/ga11_1983__o36.md) | Remove West Texas Counties from Texas Presbytery to Allow New Presbytery Formation | Adopted (final) | the Presbytery of Texas | [p.51](../markdown/ga11_1983.md#ga11-p51) |
 | [37](../overtures/ga11_1983__o37.md) | Share St. Louis Presbytery Study on Confessional Subscription with Other Presbyteries | Adopted (final) | the Presbytery of St. Louis. Whereas, the IOth General Assembly of the Presbyterian Church | [p.49](../markdown/ga11_1983.md#ga11-p49) |
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 ## 12th General Assembly (1984)  ·  `ga12_1984`
 

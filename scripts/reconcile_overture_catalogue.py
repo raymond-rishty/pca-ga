@@ -245,7 +245,16 @@ def main() -> None:
         source_vol = correction.get("source_page_vol") or vol
         source_ordinal = int(correction.get("source_page_ga_ordinal") or ordinal)
         page_link = f"[p.{page}](../markdown/{source_vol}.md#ga{source_ordinal:02}-p{page})"
-        number_link = f"[{number}](../overtures/{vol}__o{number}.md)"
+        # Keep the catalogue link aligned with the page generator: reused
+        # numbers in one GA need a source-page-qualified destination.
+        source_pages = {page}
+        for existing in group["rows"]:
+            if existing["number"] != number:
+                continue
+            source_pages.update(linked_page for linked_volume, linked_page, _ in existing["pages"]
+                                if linked_volume == vol)
+        page_suffix = f"__p{page}" if len(source_pages) > 1 else ""
+        number_link = f"[{number}](../overtures/{vol}__o{number}{page_suffix}.md)"
         subject = _md(correction["title"])
         source = _md(correction["source"])
         disposition = _md(correction.get("disposition"))
