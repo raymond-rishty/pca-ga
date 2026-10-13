@@ -436,19 +436,19 @@
   "49": {
     "roster_reconciled": "unverified",
     "event_source_audited": "unverified",
-    "build": "unverified",
-    "preview_reviewed": "unverified",
-    "commit_sha": "",
-    "pushed": "unverified",
+    "build": "passed: full siteBuild -RegenerateOvertures 2026-10-13",
+    "preview_reviewed": "verified: GA49 O8 page returned HTTP 200; seven chronological action sections and source links rendered (2026-10-13)",
+    "commit_sha": "627f35b51",
+    "pushed": "pushed",
     "blocker": ""
   },
   "50": {
     "roster_reconciled": "unverified",
     "event_source_audited": "unverified",
-    "build": "unverified",
-    "preview_reviewed": "unverified",
-    "commit_sha": "",
-    "pushed": "unverified",
+    "build": "passed: full siteBuild -RegenerateOvertures 2026-10-13",
+    "preview_reviewed": "verified: GA50 O2 and O20 pages returned HTTP 200; seven and four chronological action sections rendered (2026-10-13)",
+    "commit_sha": "627f35b51",
+    "pushed": "pushed",
     "blocker": ""
   },
   "51": {

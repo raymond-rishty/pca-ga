@@ -23419,11 +23419,11 @@ assemblies:
     candidate_reviews_orphaned: 0
     roster_reconciled: "unverified"
     event_source_audited: "unverified"
-    build: "unverified"
-    preview_reviewed: "unverified"
-    commit_sha: ""
-    pushed: "unverified"
-    blocker: "1 records in progress; 11 candidates unreviewed; roster_reconciled unverified; event_source_audited unverified; build unverified; preview_reviewed unverified; commit_sha unverified; pushed unverified"
+    build: "passed: full siteBuild -RegenerateOvertures 2026-10-13"
+    preview_reviewed: "verified: GA49 O8 page returned HTTP 200; seven chronological action sections and source links rendered (2026-10-13)"
+    commit_sha: "627f35b51"
+    pushed: "pushed"
+    blocker: "1 records in progress; 11 candidates unreviewed; roster_reconciled unverified; event_source_audited unverified"
     next_step: "Complete source trails for 1 overture records; then document evidence-based source gaps."
     overtures:
       -
@@ -24059,11 +24059,11 @@ assemblies:
     candidate_reviews_orphaned: 0
     roster_reconciled: "unverified"
     event_source_audited: "unverified"
-    build: "unverified"
-    preview_reviewed: "unverified"
-    commit_sha: ""
-    pushed: "unverified"
-    blocker: "2 records in progress; 332 candidates unreviewed; roster_reconciled unverified; event_source_audited unverified; build unverified; preview_reviewed unverified; commit_sha unverified; pushed unverified"
+    build: "passed: full siteBuild -RegenerateOvertures 2026-10-13"
+    preview_reviewed: "verified: GA50 O2 and O20 pages returned HTTP 200; seven and four chronological action sections rendered (2026-10-13)"
+    commit_sha: "627f35b51"
+    pushed: "pushed"
+    blocker: "2 records in progress; 332 candidates unreviewed; roster_reconciled unverified; event_source_audited unverified"
     next_step: "Complete source trails for 2 overture records; then document evidence-based source gaps."
     overtures:
       -
