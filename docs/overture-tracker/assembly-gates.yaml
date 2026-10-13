@@ -1,0 +1,472 @@
+# JSON syntax is valid YAML. Keep this small file limited to packet checks
+# that cannot be derived from the catalogue and evidence ledgers.
+{
+  "1": {
+    "roster_reconciled": "verified: 15 reconciled records; GA1 packet closure note 2026-10-12",
+    "event_source_audited": "verified: research and event ledgers synchronized; 65 sourced events; GA1 packet closure note 2026-10-12",
+    "build": "passed: full siteBuild 2026-10-12",
+    "preview_reviewed": "verified: GA1 action sections and source links; packet closure note 2026-10-12",
+    "commit_sha": "",
+    "pushed": "unverified",
+    "blocker": ""
+  },
+  "2": {
+    "roster_reconciled": "verified: 13 reconciled records; GA2 packet closure note 2026-10-12",
+    "event_source_audited": "verified: 44 complete trails; record-to-bundle, anchor, quote, sequence, and event-ID audit passed",
+    "build": "passed: siteBuild -RegenerateOvertures 2026-10-12",
+    "preview_reviewed": "verified: GA2 O12 sections and direct PDF links; packet closure note 2026-10-12",
+    "commit_sha": "",
+    "pushed": "unverified",
+    "blocker": ""
+  },
+  "3": {
+    "roster_reconciled": "verified: 19 reconciled records; GA3 build/preview note 2026-10-12",
+    "event_source_audited": "verified: 19 complete trails and 48 reviewed candidates; exact excerpts and anchors checked",
+    "build": "passed: full siteBuild 2026-10-12",
+    "preview_reviewed": "verified: GA3 O14 action headings and quote distinctions; GA1 O11 cross-Assembly preview checked",
+    "commit_sha": "",
+    "pushed": "unverified",
+    "blocker": ""
+  },
+  "4": {
+    "roster_reconciled": "unverified",
+    "event_source_audited": "unverified",
+    "build": "unverified",
+    "preview_reviewed": "unverified",
+    "commit_sha": "",
+    "pushed": "unverified",
+    "blocker": ""
+  },
+  "5": {
+    "roster_reconciled": "unverified",
+    "event_source_audited": "unverified",
+    "build": "unverified",
+    "preview_reviewed": "unverified",
+    "commit_sha": "",
+    "pushed": "unverified",
+    "blocker": ""
+  },
+  "6": {
+    "roster_reconciled": "unverified",
+    "event_source_audited": "unverified",
+    "build": "unverified",
+    "preview_reviewed": "unverified",
+    "commit_sha": "",
+    "pushed": "unverified",
+    "blocker": ""
+  },
+  "7": {
+    "roster_reconciled": "unverified",
+    "event_source_audited": "unverified",
+    "build": "unverified",
+    "preview_reviewed": "unverified",
+    "commit_sha": "",
+    "pushed": "unverified",
+    "blocker": ""
+  },
+  "8": {
+    "roster_reconciled": "unverified",
+    "event_source_audited": "unverified",
+    "build": "unverified",
+    "preview_reviewed": "unverified",
+    "commit_sha": "",
+    "pushed": "unverified",
+    "blocker": ""
+  },
+  "9": {
+    "roster_reconciled": "unverified",
+    "event_source_audited": "unverified",
+    "build": "unverified",
+    "preview_reviewed": "unverified",
+    "commit_sha": "",
+    "pushed": "unverified",
+    "blocker": ""
+  },
+  "10": {
+    "roster_reconciled": "unverified",
+    "event_source_audited": "unverified",
+    "build": "unverified",
+    "preview_reviewed": "unverified",
+    "commit_sha": "",
+    "pushed": "unverified",
+    "blocker": ""
+  },
+  "11": {
+    "roster_reconciled": "unverified",
+    "event_source_audited": "unverified",
+    "build": "unverified",
+    "preview_reviewed": "unverified",
+    "commit_sha": "",
+    "pushed": "unverified",
+    "blocker": ""
+  },
+  "12": {
+    "roster_reconciled": "unverified",
+    "event_source_audited": "unverified",
+    "build": "unverified",
+    "preview_reviewed": "unverified",
+    "commit_sha": "",
+    "pushed": "unverified",
+    "blocker": ""
+  },
+  "13": {
+    "roster_reconciled": "unverified",
+    "event_source_audited": "unverified",
+    "build": "unverified",
+    "preview_reviewed": "unverified",
+    "commit_sha": "",
+    "pushed": "unverified",
+    "blocker": ""
+  },
+  "14": {
+    "roster_reconciled": "unverified",
+    "event_source_audited": "unverified",
+    "build": "unverified",
+    "preview_reviewed": "unverified",
+    "commit_sha": "",
+    "pushed": "unverified",
+    "blocker": ""
+  },
+  "15": {
+    "roster_reconciled": "unverified",
+    "event_source_audited": "unverified",
+    "build": "unverified",
+    "preview_reviewed": "unverified",
+    "commit_sha": "",
+    "pushed": "unverified",
+    "blocker": ""
+  },
+  "16": {
+    "roster_reconciled": "unverified",
+    "event_source_audited": "unverified",
+    "build": "unverified",
+    "preview_reviewed": "unverified",
+    "commit_sha": "",
+    "pushed": "unverified",
+    "blocker": ""
+  },
+  "17": {
+    "roster_reconciled": "unverified",
+    "event_source_audited": "unverified",
+    "build": "unverified",
+    "preview_reviewed": "unverified",
+    "commit_sha": "",
+    "pushed": "unverified",
+    "blocker": ""
+  },
+  "18": {
+    "roster_reconciled": "unverified",
+    "event_source_audited": "unverified",
+    "build": "unverified",
+    "preview_reviewed": "unverified",
+    "commit_sha": "",
+    "pushed": "unverified",
+    "blocker": ""
+  },
+  "19": {
+    "roster_reconciled": "unverified",
+    "event_source_audited": "unverified",
+    "build": "unverified",
+    "preview_reviewed": "unverified",
+    "commit_sha": "",
+    "pushed": "unverified",
+    "blocker": ""
+  },
+  "20": {
+    "roster_reconciled": "unverified",
+    "event_source_audited": "unverified",
+    "build": "unverified",
+    "preview_reviewed": "unverified",
+    "commit_sha": "",
+    "pushed": "unverified",
+    "blocker": ""
+  },
+  "21": {
+    "roster_reconciled": "unverified",
+    "event_source_audited": "unverified",
+    "build": "unverified",
+    "preview_reviewed": "unverified",
+    "commit_sha": "",
+    "pushed": "unverified",
+    "blocker": ""
+  },
+  "22": {
+    "roster_reconciled": "unverified",
+    "event_source_audited": "unverified",
+    "build": "unverified",
+    "preview_reviewed": "unverified",
+    "commit_sha": "",
+    "pushed": "unverified",
+    "blocker": ""
+  },
+  "23": {
+    "roster_reconciled": "unverified",
+    "event_source_audited": "unverified",
+    "build": "unverified",
+    "preview_reviewed": "unverified",
+    "commit_sha": "",
+    "pushed": "unverified",
+    "blocker": ""
+  },
+  "24": {
+    "roster_reconciled": "unverified",
+    "event_source_audited": "unverified",
+    "build": "unverified",
+    "preview_reviewed": "unverified",
+    "commit_sha": "",
+    "pushed": "unverified",
+    "blocker": ""
+  },
+  "25": {
+    "roster_reconciled": "unverified",
+    "event_source_audited": "unverified",
+    "build": "unverified",
+    "preview_reviewed": "unverified",
+    "commit_sha": "",
+    "pushed": "unverified",
+    "blocker": ""
+  },
+  "26": {
+    "roster_reconciled": "unverified",
+    "event_source_audited": "unverified",
+    "build": "unverified",
+    "preview_reviewed": "unverified",
+    "commit_sha": "",
+    "pushed": "unverified",
+    "blocker": ""
+  },
+  "27": {
+    "roster_reconciled": "unverified",
+    "event_source_audited": "unverified",
+    "build": "unverified",
+    "preview_reviewed": "unverified",
+    "commit_sha": "",
+    "pushed": "unverified",
+    "blocker": ""
+  },
+  "28": {
+    "roster_reconciled": "verified: 27 GA28 records match the catalogue, page map, and research ledger; all 148 candidate passages reviewed with no unresolved links or orphaned reviews",
+    "event_source_audited": "verified: 120 events across 27 trails; record IDs, sequences, source anchors, and exact excerpts checked against GA28-GA30 Markdown. GA28 O23 e02 was checked against the PDF image because its Markdown passage is garbled.",
+    "build": "unverified",
+    "preview_reviewed": "unverified",
+    "commit_sha": "",
+    "pushed": "unverified",
+    "blocker": "GA28 source research is complete. Build, preview, commit, and push closeout follow GA29 in the work queue."
+  },
+  "29": {
+    "roster_reconciled": "verified: 38 page-qualified records match the reconciled GA29 catalogue and page map",
+    "event_source_audited": "verified: 190 events across 38 trails; all source anchors and exact excerpts audited in GA29–GA31 Markdown minutes",
+    "build": "passed: full validating siteBuild -RegenerateOvertures completed 2026-10-13 in 14m56s. Generated provision catalogue, BCO APIs, app search index, overture pages, full Jekyll site, constitutional links, Pagefind index, and rendered-site validation all succeeded.",
+    "preview_reviewed": "verified: visually reviewed the local GA29 O1, O27, and O35 pages after the targeted Gradle fastPreview. Action headings and source labels are distinct from submitted text; the GA30 concurrence tally renders as a structured table.",
+    "commit_sha": "",
+    "pushed": "unverified",
+    "blocker": "Build and preview gates are verified. Commit and push remain pending because staged and unstaged changes span multiple Assemblies, including corpus-wide generated outputs, and have not been safely isolated to GA29."
+  },
+  "30": {
+    "roster_reconciled": "unverified",
+    "event_source_audited": "unverified",
+    "build": "unverified",
+    "preview_reviewed": "unverified",
+    "commit_sha": "",
+    "pushed": "unverified",
+    "blocker": ""
+  },
+  "31": {
+    "roster_reconciled": "unverified",
+    "event_source_audited": "unverified",
+    "build": "unverified",
+    "preview_reviewed": "unverified",
+    "commit_sha": "",
+    "pushed": "unverified",
+    "blocker": ""
+  },
+  "32": {
+    "roster_reconciled": "unverified",
+    "event_source_audited": "unverified",
+    "build": "unverified",
+    "preview_reviewed": "unverified",
+    "commit_sha": "",
+    "pushed": "unverified",
+    "blocker": ""
+  },
+  "33": {
+    "roster_reconciled": "unverified",
+    "event_source_audited": "unverified",
+    "build": "unverified",
+    "preview_reviewed": "unverified",
+    "commit_sha": "",
+    "pushed": "unverified",
+    "blocker": ""
+  },
+  "34": {
+    "roster_reconciled": "unverified",
+    "event_source_audited": "unverified",
+    "build": "unverified",
+    "preview_reviewed": "unverified",
+    "commit_sha": "",
+    "pushed": "unverified",
+    "blocker": ""
+  },
+  "35": {
+    "roster_reconciled": "unverified",
+    "event_source_audited": "unverified",
+    "build": "unverified",
+    "preview_reviewed": "unverified",
+    "commit_sha": "",
+    "pushed": "unverified",
+    "blocker": ""
+  },
+  "36": {
+    "roster_reconciled": "unverified",
+    "event_source_audited": "unverified",
+    "build": "unverified",
+    "preview_reviewed": "unverified",
+    "commit_sha": "",
+    "pushed": "unverified",
+    "blocker": ""
+  },
+  "37": {
+    "roster_reconciled": "unverified",
+    "event_source_audited": "unverified",
+    "build": "unverified",
+    "preview_reviewed": "unverified",
+    "commit_sha": "",
+    "pushed": "unverified",
+    "blocker": ""
+  },
+  "38": {
+    "roster_reconciled": "unverified",
+    "event_source_audited": "unverified",
+    "build": "unverified",
+    "preview_reviewed": "unverified",
+    "commit_sha": "",
+    "pushed": "unverified",
+    "blocker": ""
+  },
+  "39": {
+    "roster_reconciled": "unverified",
+    "event_source_audited": "unverified",
+    "build": "unverified",
+    "preview_reviewed": "unverified",
+    "commit_sha": "",
+    "pushed": "unverified",
+    "blocker": ""
+  },
+  "40": {
+    "roster_reconciled": "unverified",
+    "event_source_audited": "unverified",
+    "build": "unverified",
+    "preview_reviewed": "unverified",
+    "commit_sha": "",
+    "pushed": "unverified",
+    "blocker": ""
+  },
+  "41": {
+    "roster_reconciled": "unverified",
+    "event_source_audited": "unverified",
+    "build": "unverified",
+    "preview_reviewed": "unverified",
+    "commit_sha": "",
+    "pushed": "unverified",
+    "blocker": ""
+  },
+  "42": {
+    "roster_reconciled": "unverified",
+    "event_source_audited": "unverified",
+    "build": "unverified",
+    "preview_reviewed": "unverified",
+    "commit_sha": "",
+    "pushed": "unverified",
+    "blocker": ""
+  },
+  "43": {
+    "roster_reconciled": "unverified",
+    "event_source_audited": "unverified",
+    "build": "unverified",
+    "preview_reviewed": "unverified",
+    "commit_sha": "",
+    "pushed": "unverified",
+    "blocker": ""
+  },
+  "44": {
+    "roster_reconciled": "unverified",
+    "event_source_audited": "unverified",
+    "build": "unverified",
+    "preview_reviewed": "unverified",
+    "commit_sha": "",
+    "pushed": "unverified",
+    "blocker": ""
+  },
+  "45": {
+    "roster_reconciled": "unverified",
+    "event_source_audited": "unverified",
+    "build": "unverified",
+    "preview_reviewed": "unverified",
+    "commit_sha": "",
+    "pushed": "unverified",
+    "blocker": ""
+  },
+  "46": {
+    "roster_reconciled": "unverified",
+    "event_source_audited": "unverified",
+    "build": "unverified",
+    "preview_reviewed": "unverified",
+    "commit_sha": "",
+    "pushed": "unverified",
+    "blocker": ""
+  },
+  "47": {
+    "roster_reconciled": "unverified",
+    "event_source_audited": "unverified",
+    "build": "unverified",
+    "preview_reviewed": "unverified",
+    "commit_sha": "",
+    "pushed": "unverified",
+    "blocker": ""
+  },
+  "48": {
+    "roster_reconciled": "unverified",
+    "event_source_audited": "unverified",
+    "build": "unverified",
+    "preview_reviewed": "unverified",
+    "commit_sha": "",
+    "pushed": "unverified",
+    "blocker": ""
+  },
+  "49": {
+    "roster_reconciled": "unverified",
+    "event_source_audited": "unverified",
+    "build": "unverified",
+    "preview_reviewed": "unverified",
+    "commit_sha": "",
+    "pushed": "unverified",
+    "blocker": ""
+  },
+  "50": {
+    "roster_reconciled": "unverified",
+    "event_source_audited": "unverified",
+    "build": "unverified",
+    "preview_reviewed": "unverified",
+    "commit_sha": "",
+    "pushed": "unverified",
+    "blocker": ""
+  },
+  "51": {
+    "roster_reconciled": "unverified",
+    "event_source_audited": "unverified",
+    "build": "unverified",
+    "preview_reviewed": "unverified",
+    "commit_sha": "",
+    "pushed": "unverified",
+    "blocker": ""
+  },
+  "52": {
+    "roster_reconciled": "unverified",
+    "event_source_audited": "unverified",
+    "build": "unverified",
+    "preview_reviewed": "unverified",
+    "commit_sha": "",
+    "pushed": "unverified",
+    "blocker": ""
+  }
+}

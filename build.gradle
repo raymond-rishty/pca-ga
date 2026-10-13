@@ -99,6 +99,18 @@ def extractOvertureActionCandidates = registerCommand(
      fileTree('markdown') { include 'ga*_*.md' }],
     [file('index/overture_action_candidates.jsonl')]
 )
+def generateOvertureTracker = registerCommand(
+    'generateOvertureTracker', [pythonCommand, 'scripts/generate_overture_tracker.py', '.'],
+    [file('scripts/generate_overture_tracker.py'), file('index/OVERTURES.md'),
+     file('index/overture_pages_map.json'), file('index/overture_action_research.jsonl'),
+     file('index/overture_events.jsonl'), file('index/overture_action_candidates.jsonl'),
+     file('index/overture_action_candidate_reviews.jsonl'),
+     file('index/overture_catalogue_corrections.jsonl'),
+     file('docs/overture-tracker/assembly-gates.yaml')],
+    [file('docs/overture-action-tracker.yaml'), file('docs/overture-tracker/overtures.csv'),
+     file('docs/overture-tracker/assemblies.csv'), file('docs/overture-tracker/work-queue.csv')]
+)
+generateOvertureTracker.configure { dependsOn extractOvertureActionCandidates, regenerateOverturePages }
 regenerateOverturePages.configure { dependsOn prepareOvertureActionResearch }
 def extractOvertureBodies = registerCommand(
     'extractOvertureBodies', [pythonCommand, 'scripts/21_overture_titles.py', 'extract', '.'],

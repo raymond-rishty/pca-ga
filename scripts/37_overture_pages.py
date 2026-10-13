@@ -213,8 +213,8 @@ def main():
         if disp and not record_events:
             hdr.append(f"**Disposition:** {disp}")
 
-        anchor = f"#{prefix}-p{page}" if page else ""
-        src = (f"*Source: [{source_volume} p. {page}](../markdown/{source_volume}.md{anchor})*" if page
+        anchor = f"#{prefix}-pdf-p{page}" if page else ""
+        src = (f"*Source: [{source_volume} PDF p. {page}](../markdown/{source_volume}.md{anchor})*" if page
                else f"*Source: [{source_volume}](../markdown/{source_volume}.md)*")
         rn = ""
         ratnote = [f"> *{rn.strip()}*", ""] if (rn or "").strip() else []
@@ -254,7 +254,7 @@ def main():
                 )
                 source_url = (event.get("source_url") or "").strip()
                 source_match = re.search(r"ga(\d+)", source_volume)
-                source_anchor = (f"#ga{int(source_match.group(1))}-p{source_page}"
+                source_anchor = (f"#ga{int(source_match.group(1)):02d}-pdf-p{source_page}"
                                  if source_page and source_match else "")
                 page_md += [f'<h3 class="overture-action-heading">{escape(heading)}</h3>', ""]
                 if action_text:
@@ -306,7 +306,7 @@ def main():
                     support_label = (support.get("source_label") or
                                      f"{support_volume} PDF p. {support_page}").strip()
                     support_match = re.search(r"ga(\d+)", support_volume)
-                    support_anchor = (f"#ga{int(support_match.group(1))}-p{support_page}"
+                    support_anchor = (f"#ga{int(support_match.group(1)):02d}-p{support_page}"
                                       if support_page and support_match else "")
                     if support_text:
                         table_html = (render_minutes_table(support_text)

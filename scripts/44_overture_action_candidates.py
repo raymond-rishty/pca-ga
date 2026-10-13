@@ -20,19 +20,9 @@ MARKDOWN = ROOT / "markdown"
 OUTPUT = ROOT / "index" / "overture_action_candidates.jsonl"
 REVIEW_FILE = ROOT / "index" / "overture_action_candidate_reviews.jsonl"
 
-# Keep manual review decisions when the searchable finding aid is regenerated.
-REVIEWED_IDS: set[str] = set()
-if OUTPUT.exists():
-    for line in OUTPUT.read_text(encoding="utf-8").splitlines():
-        try:
-            previous = json.loads(line)
-        except json.JSONDecodeError:
-            continue
-        if previous.get("reviewed"):
-            REVIEWED_IDS.add(previous.get("candidate_id", ""))
-
-# Research disposition is curated separately from the generated finding aid so
-# a full candidate re-extraction cannot erase a researcher's reviewed links.
+# Review decisions are curated separately from the generated finding aid.
+# Derive the flag only from this ledger so stale generated booleans cannot make
+# an unreviewed passage appear dispositioned after candidate extraction changes.
 REVIEW_METADATA: dict[str, dict] = {}
 if REVIEW_FILE.exists():
     for line in REVIEW_FILE.read_text(encoding="utf-8").splitlines():
@@ -187,7 +177,7 @@ def candidates(path: Path):
                 # References are literal search hints, not confirmed joins to catalogue rows.
                 "overture_number_mentions": sorted({int(n) for n in OVERTURE_MENTION.findall(passage)}),
                 "text": passage,
-                "reviewed": candidate_id in REVIEWED_IDS,
+                "reviewed": bool(REVIEW_METADATA.get(candidate_id, {}).get("reviewed")),
             }
             row.update(REVIEW_METADATA.get(candidate_id, {}))
             yield row

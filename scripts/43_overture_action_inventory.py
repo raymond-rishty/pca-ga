@@ -12,6 +12,7 @@ import json
 import re
 import sys
 from pathlib import Path
+from atomic_output import write_text_atomic
 from overture_identity import load_reconciled_overture_records
 
 
@@ -79,17 +80,18 @@ def _parse_catalogue() -> list[dict]:
 def main() -> None:
     status = _existing_status()
     records = _parse_catalogue()
-    with LEDGER.open("w", encoding="utf-8", newline="\n") as out:
-        for row in records:
-            prior = status.get(row["record_id"], {})
-            row.update({
-                "research_status": prior.get("research_status", "not_researched"),
-                "disposition": prior.get("disposition") or row.get("disposition", ""),
-                "sources_searched": prior.get("sources_searched", []),
-                "search_through_assembly": prior.get("search_through_assembly"),
-                "gap_note": prior.get("gap_note"),
-            })
-            out.write(json.dumps(row, ensure_ascii=False) + "\n")
+    lines = []
+    for row in records:
+        prior = status.get(row["record_id"], {})
+        row.update({
+            "research_status": prior.get("research_status", "not_researched"),
+            "disposition": prior.get("disposition") or row.get("disposition", ""),
+            "sources_searched": prior.get("sources_searched", []),
+            "search_through_assembly": prior.get("search_through_assembly"),
+            "gap_note": prior.get("gap_note"),
+        })
+        lines.append(json.dumps(row, ensure_ascii=False))
+    write_text_atomic(LEDGER, "\n".join(lines) + "\n")
     print(f"wrote {len(records)} overture action-research records -> {LEDGER}")
 
 
