@@ -222,8 +222,8 @@
     "event_source_audited": "verified: 73 events across 17 records; continuous sequences, unique event IDs, all anchors resolve to GA25 or cited GA26 minutes; GA25 excerpts checked against Markdown, with two previously PDF-verified GA26 ratification exceptions; 2026-10-13",
     "build": "passed: full siteBuild -RegenerateOvertures; rendered-site validation passed 2026-10-13",
     "preview_reviewed": "verified: GA25 Overture 8 local page returned HTTP 200; rendered action excerpt and source anchor present; 2026-10-13",
-    "commit_sha": "",
-    "pushed": "unverified",
+    "commit_sha": "61d8ea52b",
+    "pushed": "pushed",
     "blocker": ""
   },
   "26": {
