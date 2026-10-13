@@ -1,55 +1,53 @@
 ﻿queue_order,scope,assembly,status,phase,records_complete_total,candidates_reviewed_total,next_step,follow_up
-1,assembly_packet,GA29,closed,done,38/38,165/165,No remaining work recorded.,
-2,assembly_packet,GA28,closed,done,27/27,148/148,No remaining work recorded.,
-3,assembly_packet,GA27,closed,done,27/27,97/97,No remaining work recorded.,
-4,assembly_packet,GA26,closed,done,29/29,116/116,No remaining work recorded.,
-5,assembly_packet,GA25,closed,done,17/17,115/115,No remaining work recorded.,
-6,assembly_packet,GA24,closed,done,40/40,175/175,No remaining work recorded.,
-7,assembly_packet,GA23,in_progress,candidate_coverage,24/24,42/126,Review 84 unreviewed candidate passages; resolve 0 invalid links and 0 orphaned reviews.,
-8,assembly_packet,GA22,in_progress,candidate_coverage,14/14,4/148,Review 144 unreviewed candidate passages; resolve 0 invalid links and 0 orphaned reviews.,
-9,assembly_packet,GA21,in_progress,packet_closeout,45/45,147/147,"Complete packet closeout: roster_reconciled, event_source_audited, build, preview_reviewed, commit_sha, pushed.",
-10,assembly_packet,GA20,in_progress,candidate_coverage,15/15,107/134,Review 27 unreviewed candidate passages; resolve 0 invalid links and 0 orphaned reviews.,
-11,assembly_packet,GA19,in_progress,candidate_coverage,42/42,134/163,Review 29 unreviewed candidate passages; resolve 0 invalid links and 0 orphaned reviews.,
-12,assembly_packet,GA18,in_progress,packet_closeout,29/29,113/113,"Complete packet closeout: roster_reconciled, event_source_audited, build, preview_reviewed, commit_sha, pushed.",
-13,assembly_packet,GA17,in_progress,packet_closeout,40/40,188/188,"Complete packet closeout: roster_reconciled, event_source_audited, build, preview_reviewed, commit_sha, pushed.",
-14,assembly_packet,GA16,in_progress,candidate_coverage,38/38,229/229,Review 0 unreviewed candidate passages; resolve 0 invalid links and 2 orphaned reviews.,
-15,assembly_packet,GA15,in_progress,packet_closeout,38/38,248/248,"Complete packet closeout: roster_reconciled, event_source_audited, build, preview_reviewed, commit_sha, pushed.",
-16,assembly_packet,GA14,in_progress,packet_closeout,54/54,178/178,"Complete packet closeout: roster_reconciled, event_source_audited, build, preview_reviewed, commit_sha, pushed.",
-17,assembly_packet,GA13,in_progress,packet_closeout,51/51,162/162,"Complete packet closeout: roster_reconciled, event_source_audited, build, preview_reviewed, commit_sha, pushed.",
-18,assembly_packet,GA12,in_progress,candidate_coverage,70/70,0/198,Review 198 unreviewed candidate passages; resolve 0 invalid links and 0 orphaned reviews.,
-19,assembly_packet,GA11,in_progress,candidate_coverage,37/37,8/127,Review 119 unreviewed candidate passages; resolve 0 invalid links and 0 orphaned reviews.,
-20,assembly_packet,GA10,in_progress,packet_closeout,23/23,105/105,"Complete packet closeout: roster_reconciled, event_source_audited, build, preview_reviewed, commit_sha, pushed.",
-21,assembly_packet,GA9,in_progress,candidate_coverage,27/27,115/117,Review 2 unreviewed candidate passages; resolve 0 invalid links and 2 orphaned reviews.,
-22,assembly_packet,GA8,in_progress,candidate_coverage,34/34,122/123,Review 1 unreviewed candidate passages; resolve 1 invalid links and 2 orphaned reviews.,
-23,assembly_packet,GA7,in_progress,action_trails,4/31,3/86,Complete source trails for 27 overture records; resolve missing event bundles and document evidence-based gaps.,
-24,assembly_packet,GA6,in_progress,action_trails,1/35,0/82,Complete source trails for 34 overture records; resolve missing event bundles and document evidence-based gaps.,
-25,assembly_packet,GA5,in_progress,action_trails,0/14,0/31,Complete source trails for 14 overture records; resolve missing event bundles and document evidence-based gaps.,
-26,assembly_packet,GA4,in_progress,action_trails,2/14,0/45,Complete source trails for 12 overture records; resolve missing event bundles and document evidence-based gaps.,
-27,assembly_packet,GA3,in_progress,packet_closeout,19/19,48/48,"Complete packet closeout: commit_sha, pushed.",
-28,assembly_packet,GA2,in_progress,packet_closeout,13/13,36/36,"Complete packet closeout: commit_sha, pushed.",
-29,assembly_packet,GA1,in_progress,packet_closeout,15/15,23/23,"Complete packet closeout: commit_sha, pushed.",
-30,post_walk_packet,GA30,in_progress,candidate_coverage,35/35,120/130,Review 10 unreviewed candidate passages; resolve 0 invalid links and 0 orphaned reviews.,Scheduled after the GA29-to-GA1 backward walk; do not restart the current walk here.
-31,post_walk_packet,GA31,in_progress,candidate_coverage,28/28,121/123,Review 2 unreviewed candidate passages; resolve 0 invalid links and 0 orphaned reviews.,Scheduled after the GA29-to-GA1 backward walk; do not restart the current walk here.
-32,post_walk_packet,GA32,in_progress,packet_closeout,16/16,97/97,"Complete packet closeout: roster_reconciled, event_source_audited, build, preview_reviewed, commit_sha, pushed.",Scheduled after the GA29-to-GA1 backward walk; do not restart the current walk here.
-33,post_walk_packet,GA33,in_progress,packet_closeout,15/15,63/63,"Complete packet closeout: roster_reconciled, event_source_audited, build, preview_reviewed, commit_sha, pushed.",Scheduled after the GA29-to-GA1 backward walk; do not restart the current walk here.
-34,post_walk_packet,GA34,in_progress,candidate_coverage,26/26,118/121,Review 3 unreviewed candidate passages; resolve 0 invalid links and 0 orphaned reviews.,Scheduled after the GA29-to-GA1 backward walk; do not restart the current walk here.
-35,post_walk_packet,GA35,in_progress,candidate_coverage,20/20,99/100,Review 1 unreviewed candidate passages; resolve 0 invalid links and 0 orphaned reviews.,Scheduled after the GA29-to-GA1 backward walk; do not restart the current walk here.
-36,post_walk_packet,GA36,in_progress,candidate_coverage,20/20,126/129,Review 3 unreviewed candidate passages; resolve 0 invalid links and 0 orphaned reviews.,Scheduled after the GA29-to-GA1 backward walk; do not restart the current walk here.
-37,post_walk_packet,GA37,in_progress,packet_closeout,22/22,127/127,"Complete packet closeout: roster_reconciled, event_source_audited, build, preview_reviewed, commit_sha, pushed.",Scheduled after the GA29-to-GA1 backward walk; do not restart the current walk here.
-38,post_walk_packet,GA38,in_progress,candidate_coverage,27/27,153/154,Review 1 unreviewed candidate passages; resolve 0 invalid links and 0 orphaned reviews.,Scheduled after the GA29-to-GA1 backward walk; do not restart the current walk here.
-39,post_walk_packet,GA39,in_progress,packet_closeout,15/15,103/103,"Complete packet closeout: roster_reconciled, event_source_audited, build, preview_reviewed, commit_sha, pushed.",Scheduled after the GA29-to-GA1 backward walk; do not restart the current walk here.
-40,post_walk_packet,GA40,in_progress,packet_closeout,46/46,232/232,"Complete packet closeout: roster_reconciled, event_source_audited, build, preview_reviewed, commit_sha, pushed.",Scheduled after the GA29-to-GA1 backward walk; do not restart the current walk here.
-41,post_walk_packet,GA41,in_progress,action_trails,20/23,189/189,Complete source trails for 3 overture records; resolve missing event bundles and document evidence-based gaps.,Scheduled after the GA29-to-GA1 backward walk; do not restart the current walk here.
-42,post_walk_packet,GA42,in_progress,action_trails,54/55,222/225,Complete source trails for 1 overture records; resolve missing event bundles and document evidence-based gaps.,Scheduled after the GA29-to-GA1 backward walk; do not restart the current walk here.
-43,post_walk_packet,GA43,in_progress,packet_closeout,10/10,114/114,"Complete packet closeout: roster_reconciled, event_source_audited, build, preview_reviewed, commit_sha, pushed.",Scheduled after the GA29-to-GA1 backward walk; do not restart the current walk here.
-44,post_walk_packet,GA44,in_progress,action_trails,61/63,202/202,Complete source trails for 2 overture records; resolve missing event bundles and document evidence-based gaps.,Scheduled after the GA29-to-GA1 backward walk; do not restart the current walk here.
-45,post_walk_packet,GA45,in_progress,candidate_coverage,25/25,160/176,Review 16 unreviewed candidate passages; resolve 0 invalid links and 0 orphaned reviews.,Scheduled after the GA29-to-GA1 backward walk; do not restart the current walk here.
-46,post_walk_packet,GA46,in_progress,candidate_coverage,39/39,0/217,Review 217 unreviewed candidate passages; resolve 0 invalid links and 0 orphaned reviews.,Scheduled after the GA29-to-GA1 backward walk; do not restart the current walk here.
-47,post_walk_packet,GA47,in_progress,candidate_coverage,47/47,310/322,Review 12 unreviewed candidate passages; resolve 0 invalid links and 0 orphaned reviews.,Scheduled after the GA29-to-GA1 backward walk; do not restart the current walk here.
-48,post_walk_packet,GA48,in_progress,candidate_coverage,48/48,305/324,Review 19 unreviewed candidate passages; resolve 0 invalid links and 0 orphaned reviews.,Scheduled after the GA29-to-GA1 backward walk; do not restart the current walk here.
-49,post_walk_packet,GA49,in_progress,action_trails,39/41,326/337,Complete source trails for 2 overture records; resolve missing event bundles and document evidence-based gaps.,Scheduled after the GA29-to-GA1 backward walk; do not restart the current walk here.
-50,post_walk_packet,GA50,in_progress,action_trails,27/29,0/332,Complete source trails for 2 overture records; resolve missing event bundles and document evidence-based gaps.,Scheduled after the GA29-to-GA1 backward walk; do not restart the current walk here.
-51,post_walk_packet,GA52,in_progress,action_trails,30/50,0/569,Complete source trails for 20 overture records; resolve missing event bundles and document evidence-based gaps.,Scheduled after the GA29-to-GA1 backward walk; do not restart the current walk here.
-52,pending_follow_up,GA52,in_progress,ga53_ratification_audit,30/50,0/569,"Audit GA52's sent-down BCO amendments against the GA53 minutes: match each GA52 record to its presbytery tally and GA53 disposition, starting with the nine final approvals listed by the Stated Clerk.","The August 2026 Clerk summary is a finding aid only: it reports 13 amendments sent down, 10 returned after meeting the two-thirds threshold, and 9 finally approved. Verify individual tallies and Assembly actions in primary GA53 minutes; do not infer outcomes from omissions. Keep this audit separate from the GA29-to-GA1 packet walk."
-53,project_wide,All GAs,open,inventory_reconciliation,,,"Reconcile the 1635 page-qualified catalogue records against the 1,537-entry action-trail target by source identity; preserve verified distinct proposals and explain the current 98-record difference.",Do not drop records or merge reused numbers to force the count.
-54,project_wide,All GAs,open,completion_audit,,,"Audit every in-scope distinct record, source quote, page anchor, chronological order, and rendered page; run the full validating site build after the last Assembly packet.",Close the GA52-GA53 amendment audit with primary minutes evidence; retain only individually unresolved amendment trails in follow-up.
+1,assembly_packet,GA50,in_progress,records_in_progress,27/29,0/332,Complete source trails for 2 overture records; then document evidence-based source gaps.,
+2,assembly_packet,GA49,in_progress,records_in_progress,40/41,326/337,Complete source trails for 1 overture records; then document evidence-based source gaps.,
+3,assembly_packet,GA4,in_progress,early_action_trail_audit,14/14,0/45,Audit GA4 action trails against the remaining 45 unreviewed candidate passages; confirm each passage is linked to the correct overture or document why it is unrelated.,
+4,assembly_packet,GA5,in_progress,early_action_trail_audit,14/14,0/31,Audit GA5 action trails against the remaining 31 unreviewed candidate passages; confirm each passage is linked to the correct overture or document why it is unrelated.,
+5,assembly_packet,GA6,in_progress,early_action_trail_audit,35/35,0/82,Audit GA6 action trails against the remaining 82 unreviewed candidate passages; confirm each passage is linked to the correct overture or document why it is unrelated.,
+6,assembly_packet,GA7,in_progress,early_action_trail_audit,31/31,3/86,Audit GA7 action trails against the remaining 83 unreviewed candidate passages; confirm each passage is linked to the correct overture or document why it is unrelated.,
+7,assembly_packet,GA46,in_progress,candidate_coverage,39/39,0/217,Review 217 remaining candidate passages.,
+8,assembly_packet,GA45,in_progress,candidate_coverage,25/25,160/176,Review 16 remaining candidate passages.,
+9,assembly_packet,GA42,in_progress,candidate_coverage,55/55,222/225,Review 3 remaining candidate passages.,
+10,assembly_packet,GA38,in_progress,candidate_coverage,27/27,153/154,Review 1 remaining candidate passages.,
+11,assembly_packet,GA36,in_progress,candidate_coverage,20/20,126/129,Review 3 remaining candidate passages.,
+12,assembly_packet,GA35,in_progress,candidate_coverage,20/20,99/100,Review 1 remaining candidate passages.,
+13,assembly_packet,GA34,in_progress,candidate_coverage,26/26,118/121,Review 3 remaining candidate passages.,
+14,assembly_packet,GA31,in_progress,candidate_coverage,28/28,121/123,Review 2 remaining candidate passages.,
+15,assembly_packet,GA30,in_progress,candidate_coverage,35/35,120/130,Review 10 remaining candidate passages.,
+16,assembly_packet,GA22,in_progress,candidate_coverage,14/14,4/148,Review 144 remaining candidate passages.,
+17,assembly_packet,GA20,in_progress,candidate_coverage,15/15,107/134,Review 27 remaining candidate passages.,
+18,assembly_packet,GA19,in_progress,candidate_coverage,42/42,134/163,Review 29 remaining candidate passages.,
+19,assembly_packet,GA12,in_progress,candidate_coverage,70/70,0/198,Review 198 remaining candidate passages.,
+20,assembly_packet,GA11,in_progress,candidate_coverage,37/37,8/127,Review 119 remaining candidate passages.,
+21,assembly_packet,GA48,in_progress,packet_closeout,48/48,324/324,"Complete packet closeout: roster_reconciled, event_source_audited, build, preview_reviewed, commit_sha, pushed.",
+22,assembly_packet,GA47,in_progress,packet_closeout,47/47,322/322,"Complete packet closeout: roster_reconciled, event_source_audited, build, preview_reviewed, commit_sha, pushed.",
+23,assembly_packet,GA44,in_progress,packet_closeout,63/63,202/202,"Complete packet closeout: roster_reconciled, event_source_audited, build, preview_reviewed, commit_sha, pushed.",
+24,assembly_packet,GA43,in_progress,packet_closeout,10/10,114/114,"Complete packet closeout: roster_reconciled, event_source_audited, build, preview_reviewed, commit_sha, pushed.",
+25,assembly_packet,GA41,in_progress,packet_closeout,23/23,189/189,"Complete packet closeout: roster_reconciled, event_source_audited, build, preview_reviewed, commit_sha, pushed.",
+26,assembly_packet,GA40,in_progress,packet_closeout,46/46,232/232,"Complete packet closeout: roster_reconciled, event_source_audited, build, preview_reviewed, commit_sha, pushed.",
+27,assembly_packet,GA39,in_progress,packet_closeout,15/15,103/103,"Complete packet closeout: roster_reconciled, event_source_audited, build, preview_reviewed, commit_sha, pushed.",
+28,assembly_packet,GA37,in_progress,packet_closeout,22/22,127/127,"Complete packet closeout: roster_reconciled, event_source_audited, build, preview_reviewed, commit_sha, pushed.",
+29,assembly_packet,GA33,in_progress,packet_closeout,15/15,63/63,"Complete packet closeout: roster_reconciled, event_source_audited, build, preview_reviewed, commit_sha, pushed.",
+30,assembly_packet,GA32,in_progress,packet_closeout,16/16,97/97,"Complete packet closeout: roster_reconciled, event_source_audited, build, preview_reviewed, commit_sha, pushed.",
+31,assembly_packet,GA29,closed,done,38/38,165/165,No remaining work recorded.,
+32,assembly_packet,GA28,closed,done,27/27,148/148,No remaining work recorded.,
+33,assembly_packet,GA27,closed,done,27/27,97/97,No remaining work recorded.,
+34,assembly_packet,GA26,closed,done,29/29,116/116,No remaining work recorded.,
+35,assembly_packet,GA25,closed,done,17/17,115/115,No remaining work recorded.,
+36,assembly_packet,GA24,closed,done,40/40,175/175,No remaining work recorded.,
+37,assembly_packet,GA23,in_progress,packet_closeout,24/24,126/126,"Complete packet closeout: roster_reconciled, event_source_audited, build, preview_reviewed, commit_sha, pushed.",
+38,assembly_packet,GA21,in_progress,packet_closeout,45/45,147/147,"Complete packet closeout: roster_reconciled, event_source_audited, build, preview_reviewed, commit_sha, pushed.",
+39,assembly_packet,GA18,in_progress,packet_closeout,29/29,113/113,"Complete packet closeout: roster_reconciled, event_source_audited, build, preview_reviewed, commit_sha, pushed.",
+40,assembly_packet,GA17,in_progress,packet_closeout,40/40,188/188,"Complete packet closeout: roster_reconciled, event_source_audited, build, preview_reviewed, commit_sha, pushed.",
+41,assembly_packet,GA16,in_progress,packet_closeout,38/38,229/229,"Complete packet closeout: roster_reconciled, event_source_audited, build, preview_reviewed, commit_sha, pushed.",
+42,assembly_packet,GA15,in_progress,packet_closeout,38/38,248/248,"Complete packet closeout: roster_reconciled, event_source_audited, build, preview_reviewed, commit_sha, pushed.",
+43,assembly_packet,GA14,in_progress,packet_closeout,54/54,178/178,"Complete packet closeout: roster_reconciled, event_source_audited, build, preview_reviewed, commit_sha, pushed.",
+44,assembly_packet,GA13,in_progress,packet_closeout,51/51,162/162,"Complete packet closeout: roster_reconciled, event_source_audited, build, preview_reviewed, commit_sha, pushed.",
+45,assembly_packet,GA10,in_progress,packet_closeout,23/23,105/105,"Complete packet closeout: roster_reconciled, event_source_audited, build, preview_reviewed, commit_sha, pushed.",
+46,assembly_packet,GA9,in_progress,packet_closeout,27/27,117/117,"Complete packet closeout: roster_reconciled, event_source_audited, build, preview_reviewed, commit_sha, pushed.",
+47,assembly_packet,GA8,in_progress,packet_closeout,34/34,123/123,"Complete packet closeout: roster_reconciled, event_source_audited, build, preview_reviewed, commit_sha, pushed.",
+48,assembly_packet,GA3,in_progress,packet_closeout,19/19,48/48,"Complete packet closeout: commit_sha, pushed.",
+49,assembly_packet,GA2,in_progress,packet_closeout,13/13,36/36,"Complete packet closeout: commit_sha, pushed.",
+50,assembly_packet,GA1,in_progress,packet_closeout,15/15,23/23,"Complete packet closeout: commit_sha, pushed.",
+51,project_wide,All GAs,open,inventory_reconciliation,,,"Reconcile the 1635 page-qualified catalogue records against the 1,537-entry action-trail target by source identity; preserve verified distinct proposals and explain the current 98-record difference.",Do not drop records or merge reused numbers to force the count.
+52,project_wide,All GAs,open,completion_audit,,,"Audit every in-scope distinct record, source quote, page anchor, chronological order, and rendered page; run the full validating site build after the last Assembly packet.","Active work window: GA1-GA50, excluding GA51. Resume GA52 and later when their minutes are available."

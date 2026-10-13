@@ -33,7 +33,10 @@ test('search-index build retains linked overtures', () => {
       /^\|\s*(?:\[\d+\]\([^)]+\)|\d+)\s*\|/.test(line));
     assert.equal(overtures.length, catalogueRows.length,
       `expected one search entry per reconciled catalogue record (${catalogueRows.length}), found ${overtures.length}`);
-    assert.deepEqual(overtures[0], {
+    const expectedRecord = overtures.find((record) =>
+      record.record_id === 'overture:ga01_1973:2:p23');
+    assert.ok(expectedRecord, 'expected GA1 Overture 2 to be present in the search index');
+    assert.deepEqual(expectedRecord, {
       type: 'Overture',
       record_id: 'overture:ga01_1973:2:p23',
       title: 'Appoint Committee to Explore and Establish Reformed Ministerial Training',

@@ -289,7 +289,7 @@ assemblies:
         event_count: 2
         last_action_ga: 2
         search_through_assembly: 29
-        gap_note: "GA2 2-99 was adopted, so the recorded disposition is by reference; both the printed text and official PDF passage end after “page,” and targeted searches through GA29 found no completion of the page citation or later direct clarification. The reference destination remains unknown and is not inferred. GA30–GA52 remain closed."
+        gap_note: "GA2 2-99 was adopted, so the recorded disposition is by reference; both the printed text and official PDF passage end after “page,” and targeted searches through GA29 found no completion of the page citation or later direct clarification. The reference destination remains unknown and is not inferred. GA30–GA52 status is tracked separately; these searches stop at GA29."
         anomalies: ""
       -
         record_id: "overture:ga02_1974:2:p31"
@@ -334,7 +334,7 @@ assemblies:
         event_count: 9
         last_action_ga: 7
         search_through_assembly: 29
-        gap_note: "The action trail includes the GA2 affirmative report adoption, GA3 referral, GA4–GA6 continuations/postponement, the GA5 Ad-Interim Committee response to request 1, and GA7’s proposed substantive reply. GA7 7-83 states the report was not completed or adopted as a whole; targeted searches through GA29 found no later direct Assembly action. The substantive final answer is not recorded. GA30–GA52 packets were not reopened."
+        gap_note: "The action trail includes the GA2 affirmative report adoption, GA3 referral, GA4–GA6 continuations/postponement, the GA5 Ad-Interim Committee response to request 1, and GA7’s proposed substantive reply. GA7 7-83 states the report was not completed or adopted as a whole; targeted searches through GA29 found no later direct Assembly action. The substantive final answer is not recorded. GA30–GA52 status is tracked separately; this record search stops at GA29."
         anomalies: ""
       -
         record_id: "overture:ga02_1974:5:p27"
@@ -364,7 +364,7 @@ assemblies:
         event_count: 3
         last_action_ga: 3
         search_through_assembly: 29
-        gap_note: "The explicit GA3 no-action notation resolves the GA2/GA3 status. Targeted title search through GA29 found no later answer. GA30–GA52 packets remain closed and were not reopened in this pass."
+        gap_note: "The explicit GA3 no-action notation resolves the GA2/GA3 status. Targeted title search through GA29 found no later answer. GA30–GA52 status is tracked separately; this record search stops at GA29."
         anomalies: ""
       -
         record_id: "overture:ga02_1974:7:p27"
@@ -409,7 +409,7 @@ assemblies:
         event_count: 6
         last_action_ga: 3
         search_through_assembly: 3
-        gap_note: "GA3 C.1 cites Overture 9 at p. 41, whereas the originating GA2 source is p. 26. The exact Mississippi Valley Overture 9 is reproduced with the 2-88 carry-over at GA3 p. 41, and the grouped disposition at GA3 p. 44 expressly includes Overture 9 among the items answered by reference. Targeted search through GA29 found no later direct action; GA30–GA52 remain closed."
+        gap_note: "GA3 C.1 cites Overture 9 at p. 41, whereas the originating GA2 source is p. 26. The exact Mississippi Valley Overture 9 is reproduced with the 2-88 carry-over at GA3 p. 41, and the grouped disposition at GA3 p. 44 expressly includes Overture 9 among the items answered by reference. Targeted search through GA29 found no later direct action; GA30–GA52 status is tracked separately; these searches stop at GA29."
         anomalies: ""
       -
         record_id: "overture:ga02_1974:10:p28"
@@ -424,7 +424,7 @@ assemblies:
         event_count: 4
         last_action_ga: 3
         search_through_assembly: 29
-        gap_note: "The GA3 C.1 committee recommendation and carried-forward GA3 entry record Overture 10 answered by reference. The C.1 printed-page citation does not match the original GA2 p. 26 source, but the GA3 carry-forward directly reproduces the exact Mississippi Valley proposal. No later direct action was located through GA29; GA30–GA52 packets were not reopened."
+        gap_note: "The GA3 C.1 committee recommendation and carried-forward GA3 entry record Overture 10 answered by reference. The C.1 printed-page citation does not match the original GA2 p. 26 source, but the GA3 carry-forward directly reproduces the exact Mississippi Valley proposal. No later direct action was located through GA29; GA30–GA52 status is tracked separately; this record search stops at GA29."
         anomalies: ""
       -
         record_id: "overture:ga02_1974:11:p29"
@@ -439,7 +439,7 @@ assemblies:
         event_count: 3
         last_action_ga: 3
         search_through_assembly: 29
-        gap_note: "The GA3 committee recommendation and carried-forward Assembly disposition are explicit. Targeted exact-phrase search through GA29 found no later direct action. This is not a constitutional amendment; GA30–GA52 packets remain closed and were not reopened in this pass."
+        gap_note: "The GA3 committee recommendation and carried-forward Assembly disposition are explicit. Targeted exact-phrase search through GA29 found no later direct action. This is not a constitutional amendment; GA30–GA52 status is tracked separately; this record search stops at GA29."
         anomalies: ""
       -
         record_id: "overture:ga02_1974:12:p29"
@@ -454,7 +454,7 @@ assemblies:
         event_count: 3
         last_action_ga: 3
         search_through_assembly: 29
-        gap_note: "The GA3 committee recommendation C.2 cites GA2 Overture 12 at printed p. 42, while the original source is printed p. 27; however, GA3’s carried-forward entry reproduces Westminster’s exact proposal and explicitly records the answer under 3-93, establishing the record identity. No later direct action was located through GA29; later closed GA30–GA52 packets were not reopened in this pass."
+        gap_note: "The GA3 committee recommendation C.2 cites GA2 Overture 12 at printed p. 42, while the original source is printed p. 27; however, GA3’s carried-forward entry reproduces Westminster’s exact proposal and explicitly records the answer under 3-93, establishing the record identity. No later direct action was located through GA29; GA30–GA52 status is tracked separately; this record search stops at GA29."
         anomalies: ""
       -
         record_id: "overture:ga02_1974:13:p26"
@@ -786,12 +786,12 @@ assemblies:
     assembly: "GA4"
     status: "in_progress"
     catalogue_records: 14
-    records_complete: 2
-    records_in_progress: 12
+    records_complete: 14
+    records_in_progress: 0
     records_not_researched: 0
     records_source_unavailable: 0
     missing_research_rows: 0
-    missing_event_bundles: 12
+    missing_event_bundles: 0
     candidate_passages: 45
     candidates_reviewed: 0
     candidates_unreviewed: 45
@@ -803,8 +803,8 @@ assemblies:
     preview_reviewed: "unverified"
     commit_sha: ""
     pushed: "unverified"
-    blocker: "12 records in progress; 12 missing event bundles; 45 candidates unreviewed; roster_reconciled unverified; event_source_audited unverified; build unverified; preview_reviewed unverified; commit_sha unverified; pushed unverified"
-    next_step: "Complete source trails for 12 overture records; resolve missing event bundles and document evidence-based gaps."
+    blocker: "45 candidates unreviewed; roster_reconciled unverified; event_source_audited unverified; build unverified; preview_reviewed unverified; commit_sha unverified; pushed unverified"
+    next_step: "Audit GA4 action trails against the remaining 45 unreviewed candidate passages; confirm each passage is linked to the correct overture or document why it is unrelated."
     overtures:
       -
         record_id: "overture:ga04_1976:1:p35"
@@ -828,14 +828,14 @@ assemblies:
         source: "Presbytery of Southern Florida"
         title: "Study Coordinating All Committee Publications into One Monthly Publication"
         page: "overtures/ga04_1976__o2.md"
-        research_status: "in_progress"
-        next_step: "Continue tracing the action trail; use gap_note to resume the source search."
+        research_status: "complete"
+        next_step: "No overture-level research remains; packet audits and closeout are tracked at GA level."
         disposition: "Answered by reference"
-        event_count: 0
-        last_action_ga: ""
+        event_count: 8
+        last_action_ga: 6
         search_through_assembly: 52
-        gap_note: ""
-        anomalies: "missing_event_bundle"
+        gap_note: "The source does not state a separate Presbytery adoption tally. GA4 answered the overture by reference to its magazine plan; GA5 authorized bi-monthly publication pending budget approval; GA6 adopted a return to monthly publication and expressly cited the GA4 plan. GA7 and GA8 report the monthly magazine in operation, but no later direct Assembly action on this overture was located through GA52. The later GA6 Overture 20 and GA10 Overture 15 are separate records. No constitutional ratification applies."
+        anomalies: ""
       -
         record_id: "overture:ga04_1976:3:p30"
         number: 3
@@ -843,14 +843,14 @@ assemblies:
         source: "Presbytery of Southern Florida"
         title: "Appoint Committee to Study Consolidating Assembly Committees Under One Roof"
         page: "overtures/ga04_1976__o3.md"
-        research_status: "in_progress"
-        next_step: "Continue tracing the action trail; use gap_note to resume the source search."
+        research_status: "complete"
+        next_step: "No overture-level research remains; packet audits and closeout are tracked at GA level."
         disposition: "Not specifically answered"
-        event_count: 0
-        last_action_ga: ""
+        event_count: 23
+        last_action_ga: 16
         search_through_assembly: 52
-        gap_note: "The Assembly authorized a study and requested a report to GA5, but no report or later disposition was located in GA5-GA52 after targeted searches. The final outcome therefore remains not specifically answered."
-        anomalies: "missing_event_bundle"
+        gap_note: "GA4 adopted the requested study mandate, and GA5 received the subcommittee report but ultimately postponed the consolidation decision five years and dismissed the subcommittee. GA9–GA16 later actions document renewed site selection, a single-location decision, Atlanta as the permanent location, common leases, purchase of an office building, and debt-retirement support. Those later actions address the same office-location question, but the later minutes do not explicitly declare that they answer this distinct 1976 overture or the requested original report. The conditional two-thirds Presbytery ratification and next-Assembly approval proposed in Overture 3 are not recorded as an adopted process or completed for this overture; the later building purchase appears in separate administrative actions. The catalogue disposition therefore remains “Not specifically answered.”"
+        anomalies: ""
       -
         record_id: "overture:ga04_1976:4:p33"
         number: 4
@@ -873,44 +873,44 @@ assemblies:
         source: "Calvary Presbytery"
         title: "Reaffirm the PCA's Stand Against Sabbath Profanation"
         page: "overtures/ga04_1976__o5.md"
-        research_status: "in_progress"
-        next_step: "Continue tracing the action trail; use gap_note to resume the source search."
+        research_status: "complete"
+        next_step: "No overture-level research remains; packet audits and closeout are tracked at GA level."
         disposition: "Adopted (final)"
-        event_count: 0
-        last_action_ga: ""
+        event_count: 2
+        last_action_ga: 4
         search_through_assembly: 52
-        gap_note: ""
-        anomalies: "missing_event_bundle"
+        gap_note: "GA4 answered the overture affirmatively with amendments. The submitted text does not give a separate Presbytery tally. No later direct action changing or reaffirming the GA4 answer was located through GA52; GA44 Overture 54 is a separate proposal that quotes the earlier resolution."
+        anomalies: ""
       -
         record_id: "overture:ga04_1976:6:p31"
         number: 6
         source_page: 31
-        source: "Warrior Presbytery Whereas, the B.C.O., 15-1, principles 1-7, states that the primary duty"
+        source: "Warrior Presbytery"
         title: "Establish Annual Special Offering and Increase Funding for Christian Education and Publications"
         page: "overtures/ga04_1976__o6.md"
-        research_status: "in_progress"
-        next_step: "Continue tracing the action trail; use gap_note to resume the source search."
-        disposition: "Answered by reference"
-        event_count: 0
-        last_action_ga: ""
+        research_status: "complete"
+        next_step: "No overture-level research remains; packet audits and closeout are tracked at GA level."
+        disposition: "Not specifically answered; budget action adopted"
+        event_count: 2
+        last_action_ga: 4
         search_through_assembly: 52
-        gap_note: ""
-        anomalies: "missing_event_bundle"
+        gap_note: "The Assembly adopted a 35% allocation of 1977 undesignated gifts to Christian Education and Publications, addressing O6's request for an increased share. The requested annual church-wide special offering and exhortation were not specifically adopted. The source Clerk's note also points to action on the separate GA4 Overture 11; see the related-record link, whose independent action is retained on O11. The original disposition remains a partial budget action, not a full affirmative answer."
+        anomalies: ""
       -
         record_id: "overture:ga04_1976:7:p33"
         number: 7
         source_page: 33
-        source: "Pacific Presbytery Whereas a question of seeming merit has been raised among us as to the"
+        source: "Pacific Presbytery"
         title: "Study Establishment of a Separate PCA Chaplains Commission"
         page: "overtures/ga04_1976__o7.md"
-        research_status: "in_progress"
-        next_step: "Continue tracing the action trail; use gap_note to resume the source search."
+        research_status: "complete"
+        next_step: "No overture-level research remains; packet audits and closeout are tracked at GA level."
         disposition: "Adopted (final)"
-        event_count: 0
-        last_action_ga: ""
+        event_count: 19
+        last_action_ga: 8
         search_through_assembly: 52
-        gap_note: ""
-        anomalies: "missing_event_bundle"
+        gap_note: "GA4 answered the study request affirmatively. GA5 concluded that the PCA could not qualify as a standalone endorsing agency and proceeded with a joint-commission study. GA6 established the Presbyterian and Reformed Commission on Chaplains and Military Personnel and appointed PCA representatives; GA7 revised its Constitution and assigned oversight/appointment responsibility to MUS; GA8 approved the Commission's report. No later direct change to this GA4 overture was located through GA52. The separate-commission option was not adopted; the joint-commission option was pursued. No Presbytery-ratification stage applies."
+        anomalies: ""
       -
         record_id: "overture:ga04_1976:8:p33"
         number: 8
@@ -918,14 +918,14 @@ assemblies:
         source: "the Presbytery of Mississippi Valley The Presbytery of the Mississippi Valley overtures th"
         title: "Assign Oversight of Campus Ministry to a Specific GA Committee"
         page: "overtures/ga04_1976__o8.md"
-        research_status: "in_progress"
-        next_step: "Continue tracing the action trail; use gap_note to resume the source search."
+        research_status: "complete"
+        next_step: "No overture-level research remains; packet audits and closeout are tracked at GA level."
         disposition: ""
-        event_count: 0
-        last_action_ga: ""
+        event_count: 6
+        last_action_ga: 7
         search_through_assembly: 52
-        gap_note: ""
-        anomalies: "missing_event_bundle"
+        gap_note: "No later direct amendment located through GA52; later manual approval documents implementation of the GA4 action. Presbytery ratification is not applicable."
+        anomalies: ""
       -
         record_id: "overture:ga04_1976:9:p31"
         number: 9
@@ -933,14 +933,14 @@ assemblies:
         source: "Chapel-in-the-Gardens, Garden City, Georgia"
         title: "Establish a Special Offering and Increase Support for Christian Education"
         page: "overtures/ga04_1976__o9.md"
-        research_status: "in_progress"
-        next_step: "Continue tracing the action trail; use gap_note to resume the source search."
+        research_status: "complete"
+        next_step: "No overture-level research remains; packet audits and closeout are tracked at GA level."
         disposition: "Not specifically answered; budget action adopted"
-        event_count: 0
-        last_action_ga: ""
+        event_count: 2
+        last_action_ga: 4
         search_through_assembly: 52
-        gap_note: ""
-        anomalies: "missing_event_bundle"
+        gap_note: "The Assembly adopted the increased budget share, but no annual special offering was adopted. No later direct action located through GA52; O6 is separately cross-referenced."
+        anomalies: ""
       -
         record_id: "overture:ga04_1976:10:p34"
         number: 10
@@ -948,14 +948,14 @@ assemblies:
         source: "Covenant Presbytery"
         title: "Study PCA Oversight of Ministerial Training"
         page: "overtures/ga04_1976__o10.md"
-        research_status: "in_progress"
-        next_step: "Continue tracing the action trail; use gap_note to resume the source search."
+        research_status: "complete"
+        next_step: "No overture-level research remains; packet audits and closeout are tracked at GA level."
         disposition: "Answered by reference"
-        event_count: 0
-        last_action_ga: ""
+        event_count: 5
+        last_action_ga: 7
         search_through_assembly: 52
-        gap_note: ""
-        anomalies: "missing_event_bundle"
+        gap_note: "The GA4 answer amends point 4 from establishing a seminary to studying its establishment. The later GA5–GA7 training actions are documented as implementation. Exact wording of the GA4 point-4 amendment is uncertain in the Markdown transcription; verify the PDF passage if material to the displayed text. GA9 Overture 14 remains a separate record."
+        anomalies: ""
       -
         record_id: "overture:ga04_1976:11:p32"
         number: 11
@@ -963,14 +963,14 @@ assemblies:
         source: "the Presbytery of Central Georgia Whereas, the B.C.O., 15-1 principles 1-7, states that th"
         title: "Establish Annual Special Offering and Increase Funding for Christian Education and Publications"
         page: "overtures/ga04_1976__o11.md"
-        research_status: "in_progress"
-        next_step: "Continue tracing the action trail; use gap_note to resume the source search."
+        research_status: "complete"
+        next_step: "No overture-level research remains; packet audits and closeout are tracked at GA level."
         disposition: "Adopted (final)"
-        event_count: 0
-        last_action_ga: ""
+        event_count: 2
+        last_action_ga: 4
         search_through_assembly: 52
-        gap_note: ""
-        anomalies: "missing_event_bundle"
+        gap_note: "The Assembly answered the annual offering request negatively and the funding request affirmatively. No later direct action located through GA52. Related O6 and O9 are separate records."
+        anomalies: ""
       -
         record_id: "overture:ga04_1976:12:p32"
         number: 12
@@ -978,14 +978,14 @@ assemblies:
         source: "Central Georgia Presbytery"
         title: "Launch a PCA-Wide Capital Funds Campaign"
         page: "overtures/ga04_1976__o12.md"
-        research_status: "in_progress"
-        next_step: "Continue tracing the action trail; use gap_note to resume the source search."
+        research_status: "complete"
+        next_step: "No overture-level research remains; packet audits and closeout are tracked at GA level."
         disposition: "Referred to Administration; GA5 campaign approved"
-        event_count: 0
-        last_action_ga: ""
+        event_count: 5
+        last_action_ga: 5
         search_through_assembly: 52
-        gap_note: ""
-        anomalies: "missing_event_bundle"
+        gap_note: "GA4 deferred O12 for study and a GA5 response. GA5 first received the Stewardship concurrence as information, then separately approved a Mission to the U.S. capital campaign. Later Five in Five financial reports document implementation rather than a new action on this record."
+        anomalies: ""
       -
         record_id: "overture:ga04_1976:13:p35"
         number: 13
@@ -993,14 +993,14 @@ assemblies:
         source: "Charley Chase et al., submitted as individual members of Mississippi Valley Presbytery"
         title: "Appoint a Committee to Study PCA Mission Theology and Practice"
         page: "overtures/ga04_1976__o13.md"
-        research_status: "in_progress"
-        next_step: "Continue tracing the action trail; use gap_note to resume the source search."
+        research_status: "complete"
+        next_step: "No overture-level research remains; packet audits and closeout are tracked at GA level."
         disposition: "Answered by reference to the approved Missions Manual"
-        event_count: 0
-        last_action_ga: ""
+        event_count: 3
+        last_action_ga: 4
         search_through_assembly: 52
-        gap_note: ""
-        anomalies: "missing_event_bundle"
+        gap_note: "The adopted answer is by reference to Recommendation 6 of the Missions Manual report; no later direct action located through GA52."
+        anomalies: ""
       -
         record_id: "overture:ga04_1976:14:p32"
         number: 14
@@ -1008,25 +1008,25 @@ assemblies:
         source: "New River Presbytery"
         title: "Revise the 1977 Undesignated Budget Percentages Among GA Committees"
         page: "overtures/ga04_1976__o14.md"
-        research_status: "in_progress"
-        next_step: "Continue tracing the action trail; use gap_note to resume the source search."
+        research_status: "complete"
+        next_step: "No overture-level research remains; packet audits and closeout are tracked at GA level."
         disposition: "Answered in the negative"
-        event_count: 0
-        last_action_ga: ""
+        event_count: 2
+        last_action_ga: 4
         search_through_assembly: 52
-        gap_note: ""
-        anomalies: "missing_event_bundle"
+        gap_note: "The Assembly answered in the negative; the 1977 budget request is not a constitutional amendment. No later direct action located through GA52."
+        anomalies: ""
   -
     ga_ordinal: 5
     assembly: "GA5"
     status: "in_progress"
     catalogue_records: 14
-    records_complete: 0
-    records_in_progress: 14
+    records_complete: 14
+    records_in_progress: 0
     records_not_researched: 0
     records_source_unavailable: 0
     missing_research_rows: 0
-    missing_event_bundles: 14
+    missing_event_bundles: 0
     candidate_passages: 31
     candidates_reviewed: 0
     candidates_unreviewed: 31
@@ -1038,8 +1038,8 @@ assemblies:
     preview_reviewed: "unverified"
     commit_sha: ""
     pushed: "unverified"
-    blocker: "14 records in progress; 14 missing event bundles; 31 candidates unreviewed; roster_reconciled unverified; event_source_audited unverified; build unverified; preview_reviewed unverified; commit_sha unverified; pushed unverified"
-    next_step: "Complete source trails for 14 overture records; resolve missing event bundles and document evidence-based gaps."
+    blocker: "31 candidates unreviewed; roster_reconciled unverified; event_source_audited unverified; build unverified; preview_reviewed unverified; commit_sha unverified; pushed unverified"
+    next_step: "Audit GA5 action trails against the remaining 31 unreviewed candidate passages; confirm each passage is linked to the correct overture or document why it is unrelated."
     overtures:
       -
         record_id: "overture:ga05_1977:1:p36"
@@ -1048,14 +1048,14 @@ assemblies:
         source: "Gulf Coast Presbytery"
         title: "Amend BCO 19-2 to Allow Presbytery Exceptions to the Application Deadline"
         page: "overtures/ga05_1977__o1.md"
-        research_status: "in_progress"
-        next_step: "Continue tracing the action trail; use gap_note to resume the source search."
+        research_status: "complete"
+        next_step: "No overture-level research remains; packet audits and closeout are tracked at GA level."
         disposition: "Answered in the negative"
-        event_count: 0
-        last_action_ga: ""
+        event_count: 3
+        last_action_ga: 5
         search_through_assembly: 52
-        gap_note: ""
-        anomalies: "missing_event_bundle"
+        gap_note: "Complete. The source page notes that the June 1976 overture arrived too late for inclusion in GA4 business; it was considered at GA5. Gulf Coast Presbytery adopted the proposal, the Judicial Business committee recommended a negative answer, and GA5 adopted that answer. A targeted search through GA52 found no later action on this distinct BCO 19-2 proposal."
+        anomalies: ""
       -
         record_id: "overture:ga05_1977:2:p36"
         number: 2
@@ -1063,14 +1063,14 @@ assemblies:
         source: "Carolina Presbytery"
         title: "Allow an Organizing Pastor to Be Installed When a Congregation Is Constituted"
         page: "overtures/ga05_1977__o2.md"
-        research_status: "in_progress"
-        next_step: "Continue tracing the action trail; use gap_note to resume the source search."
+        research_status: "complete"
+        next_step: "No overture-level research remains; packet audits and closeout are tracked at GA level."
         disposition: "Referred"
-        event_count: 0
-        last_action_ga: ""
+        event_count: 3
+        last_action_ga: 5
         search_through_assembly: 52
-        gap_note: "GA5 referred the matter back for further study. No direct follow-up was located in GA6–GA52; GA8 O15 is only a separately submitted related proposal."
-        anomalies: "missing_event_bundle"
+        gap_note: "Complete. Carolina Presbytery adopted the proposal. The Judicial Business committee recommended referral back, and GA5 referred it to the Permanent Committee for further study. A targeted search through GA6–GA52 found no direct continuation. GA8 Overture 15 addresses a similar organizing-pastor question but remains a distinct record; the minutes do not identify it as a continuation."
+        anomalies: ""
       -
         record_id: "overture:ga05_1977:3:p33"
         number: 3
@@ -1078,14 +1078,14 @@ assemblies:
         source: "New River Presbytery"
         title: "Express Thanks and Support for the Presbyterian Journal"
         page: "overtures/ga05_1977__o3.md"
-        research_status: "in_progress"
-        next_step: "Continue tracing the action trail; use gap_note to resume the source search."
+        research_status: "complete"
+        next_step: "No overture-level research remains; packet audits and closeout are tracked at GA level."
         disposition: "Received as information"
-        event_count: 0
-        last_action_ga: ""
+        event_count: 2
+        last_action_ga: 5
         search_through_assembly: 52
-        gap_note: ""
-        anomalies: "missing_event_bundle"
+        gap_note: "No distinct presbytery adoption or later direct action was located after searching the GA1–GA52 Markdown corpus. The GA5 Assembly action is documented in 5-49."
+        anomalies: ""
       -
         record_id: "overture:ga05_1977:4:p36"
         number: 4
@@ -1093,14 +1093,14 @@ assemblies:
         source: "Tennessee Valley Presbytery"
         title: "Amend BCO 22-4 Regarding Candidates Approved by Another Presbytery"
         page: "overtures/ga05_1977__o4.md"
-        research_status: "in_progress"
-        next_step: "Continue tracing the action trail; use gap_note to resume the source search."
+        research_status: "complete"
+        next_step: "No overture-level research remains; packet audits and closeout are tracked at GA level."
         disposition: "Answered in the negative"
-        event_count: 0
-        last_action_ga: ""
+        event_count: 3
+        last_action_ga: 5
         search_through_assembly: 52
-        gap_note: ""
-        anomalies: "missing_event_bundle"
+        gap_note: "No direct continuation of this negatively answered proposal was located through GA52. Later GA6–GA8 changes to candidate requirements were reviewed but are not identified in the minutes as continuation of this overture."
+        anomalies: ""
       -
         record_id: "overture:ga05_1977:5:p33"
         number: 5
@@ -1108,14 +1108,14 @@ assemblies:
         source: "Covenant Presbytery"
         title: "Discourage Applause and Standing Ovations in Courts of the Church"
         page: "overtures/ga05_1977__o5.md"
-        research_status: "in_progress"
-        next_step: "Continue tracing the action trail; use gap_note to resume the source search."
+        research_status: "complete"
+        next_step: "No overture-level research remains; packet audits and closeout are tracked at GA level."
         disposition: "Answered in the negative"
-        event_count: 0
-        last_action_ga: ""
+        event_count: 3
+        last_action_ga: 5
         search_through_assembly: 52
-        gap_note: ""
-        anomalies: "missing_event_bundle"
+        gap_note: "No later direct action located through GA52 after the GA5 negative answer."
+        anomalies: ""
       -
         record_id: "overture:ga05_1977:6:p33"
         number: 6
@@ -1123,14 +1123,14 @@ assemblies:
         source: "the Presbytery of the Western Carolinas"
         title: "Erect a GA Committee on Deacons and Their Ministries"
         page: "overtures/ga05_1977__o6.md"
-        research_status: "in_progress"
-        next_step: "Continue tracing the action trail; use gap_note to resume the source search."
+        research_status: "complete"
+        next_step: "No overture-level research remains; packet audits and closeout are tracked at GA level."
         disposition: "Referred"
-        event_count: 0
-        last_action_ga: ""
+        event_count: 6
+        last_action_ga: 6
         search_through_assembly: 52
         gap_note: ""
-        anomalies: "missing_event_bundle"
+        anomalies: ""
       -
         record_id: "overture:ga05_1977:7:p36"
         number: 7
@@ -1138,14 +1138,14 @@ assemblies:
         source: "the Presbytery of the Ascension"
         title: "Transfer Garrett and Allegany Counties from Mid-Atlantic to Ascension Presbytery"
         page: "overtures/ga05_1977__o7.md"
-        research_status: "in_progress"
-        next_step: "Continue tracing the action trail; use gap_note to resume the source search."
+        research_status: "complete"
+        next_step: "No overture-level research remains; packet audits and closeout are tracked at GA level."
         disposition: "Adopted (final)"
-        event_count: 0
-        last_action_ga: ""
+        event_count: 4
+        last_action_ga: 5
         search_through_assembly: 52
-        gap_note: ""
-        anomalies: "missing_event_bundle"
+        gap_note: "GA5 ordered Mid-Atlantic Presbytery to meet, but the GA minutes do not record a separate meeting result. The Mission to the United States commissioners later recommended an affirmative answer, and GA5 adopted the report as a whole."
+        anomalies: ""
       -
         record_id: "overture:ga05_1977:8:p32"
         number: 8
@@ -1153,14 +1153,14 @@ assemblies:
         source: "the Presbytery of the Evangel"
         title: "Reconsider the 1978 General Assembly Location at Grand Rapids"
         page: "overtures/ga05_1977__o8.md"
-        research_status: "in_progress"
-        next_step: "Continue tracing the action trail; use gap_note to resume the source search."
+        research_status: "complete"
+        next_step: "No overture-level research remains; packet audits and closeout are tracked at GA level."
         disposition: "Answered in the negative"
-        event_count: 0
-        last_action_ga: ""
+        event_count: 2
+        last_action_ga: 5
         search_through_assembly: 52
-        gap_note: ""
-        anomalies: "missing_event_bundle"
+        gap_note: "The source text gives the clerk and date but does not state that Evangel Presbytery voted to adopt the overture. No later direct action was located through GA52 after the GA5 negative answer."
+        anomalies: ""
       -
         record_id: "overture:ga05_1977:9:p35"
         number: 9
@@ -1168,14 +1168,14 @@ assemblies:
         source: "Grace Presbytery"
         title: "Oppose ARP Church Membership in the North American Presbyterian and Reformed Council"
         page: "overtures/ga05_1977__o9.md"
-        research_status: "in_progress"
-        next_step: "Continue tracing the action trail; use gap_note to resume the source search."
+        research_status: "complete"
+        next_step: "No overture-level research remains; packet audits and closeout are tracked at GA level."
         disposition: "Answered in the negative"
-        event_count: 0
-        last_action_ga: ""
+        event_count: 4
+        last_action_ga: 5
         search_through_assembly: 52
         gap_note: ""
-        anomalies: "missing_event_bundle"
+        anomalies: ""
       -
         record_id: "overture:ga05_1977:10:p37"
         number: 10
@@ -1183,14 +1183,14 @@ assemblies:
         source: "Grace Presbytery"
         title: "Establish Formal Cooperation with the CRC World Relief Agency"
         page: "overtures/ga05_1977__o10.md"
-        research_status: "in_progress"
-        next_step: "Continue tracing the action trail; use gap_note to resume the source search."
+        research_status: "complete"
+        next_step: "No overture-level research remains; packet audits and closeout are tracked at GA level."
         disposition: "Answered in the negative"
-        event_count: 0
-        last_action_ga: ""
+        event_count: 3
+        last_action_ga: 5
         search_through_assembly: 52
         gap_note: ""
-        anomalies: "missing_event_bundle"
+        anomalies: ""
       -
         record_id: "overture:ga05_1977:11:p34"
         number: 11
@@ -1198,14 +1198,14 @@ assemblies:
         source: "North Georgia Presbytery"
         title: "Petition Against Homosexuality in Teaching and Public Influence"
         page: "overtures/ga05_1977__o11.md"
-        research_status: "in_progress"
-        next_step: "Continue tracing the action trail; use gap_note to resume the source search."
+        research_status: "complete"
+        next_step: "No overture-level research remains; packet audits and closeout are tracked at GA level."
         disposition: "Answered in the affirmative, adopted as amended"
-        event_count: 0
-        last_action_ga: ""
+        event_count: 2
+        last_action_ga: 5
         search_through_assembly: 52
-        gap_note: ""
-        anomalies: "missing_event_bundle"
+        gap_note: "The source passage does not attest a distinct North Georgia Presbytery adoption vote; the submitted text and the GA5 disposition are located."
+        anomalies: ""
       -
         record_id: "overture:ga05_1977:12:p16"
         number: 12
@@ -1213,14 +1213,14 @@ assemblies:
         source: "North Georgia Presbytery to the Fifth General Assembly"
         title: "Appoint Committee to Incorporate Divorce Conditions into the BCO"
         page: "overtures/ga05_1977__o12.md"
-        research_status: "in_progress"
-        next_step: "Continue tracing the action trail; use gap_note to resume the source search."
+        research_status: "complete"
+        next_step: "No overture-level research remains; packet audits and closeout are tracked at GA level."
         disposition: "Referred"
-        event_count: 0
-        last_action_ga: ""
+        event_count: 8
+        last_action_ga: 7
         search_through_assembly: 52
-        gap_note: ""
-        anomalies: "missing_event_bundle"
+        gap_note: "GA7 adopted the committee answer by reference to WCF chapter XXIV. A special resolution asking to reopen the issue was presented at GA7; discussion ended on a call for the order of the day, and no vote or disposition of that motion is recorded. GA7 states Campbell and Thompson were submitting a minority report, but no separate minority-report text was located in the searched Markdown minutes. The formal dissents received at 7-56 and 7-61 are recorded without answer and do not change the adopted report. This is a non-constitutional proposal, so presbytery ratification does not apply."
+        anomalies: ""
       -
         record_id: "overture:ga05_1977:13:p34"
         number: 13
@@ -1228,14 +1228,14 @@ assemblies:
         source: "Westminster Presbytery"
         title: "Prohibit Member Transfers to PCUS and NCC/WCC Member Bodies on Separation Grounds"
         page: "overtures/ga05_1977__o13.md"
-        research_status: "in_progress"
-        next_step: "Continue tracing the action trail; use gap_note to resume the source search."
+        research_status: "complete"
+        next_step: "No overture-level research remains; packet audits and closeout are tracked at GA level."
         disposition: "Answered in the negative"
-        event_count: 0
-        last_action_ga: ""
+        event_count: 3
+        last_action_ga: 5
         search_through_assembly: 52
-        gap_note: ""
-        anomalies: "missing_event_bundle"
+        gap_note: "No separate Presbytery adoption tally is stated in the source minutes. The negative answer is adopted at GA5; no direct later action was located through GA52. This proposal does not require constitutional ratification."
+        anomalies: ""
       -
         record_id: "overture:ga05_1977:14:p35"
         number: 14
@@ -1243,25 +1243,25 @@ assemblies:
         source: "Presbytery of Texas"
         title: "Decline Participation in Official PCUS Functions"
         page: "overtures/ga05_1977__o14.md"
-        research_status: "in_progress"
-        next_step: "Continue tracing the action trail; use gap_note to resume the source search."
+        research_status: "complete"
+        next_step: "No overture-level research remains; packet audits and closeout are tracked at GA level."
         disposition: "Answered by reference to the Assembly’s decision declining the PCUS invitation"
-        event_count: 0
-        last_action_ga: ""
+        event_count: 5
+        last_action_ga: 5
         search_through_assembly: 52
-        gap_note: "GA5 source-page annotation calls the invitation Communication No. 3; GA5 5-66 Recommendation 9 calls it Communication No. 4. The adopted Recommendation 10 answers Overture 14 by reference to Recommendation 9, making the Assembly outcome clear."
-        anomalies: "missing_event_bundle"
+        gap_note: "The Overture 14 source-page annotation calls the invitation Communication No. 3, while GA5 5-66 Recommendation 9 calls it Communication No. 4. Recommendation 10 explicitly answers Overture 14 by reference to Recommendation 9, and the adopted report therefore establishes the answer despite the inconsistent communication number. No separate ratification stage applies."
+        anomalies: ""
   -
     ga_ordinal: 6
     assembly: "GA6"
     status: "in_progress"
     catalogue_records: 35
-    records_complete: 1
-    records_in_progress: 34
+    records_complete: 35
+    records_in_progress: 0
     records_not_researched: 0
     records_source_unavailable: 0
     missing_research_rows: 0
-    missing_event_bundles: 34
+    missing_event_bundles: 0
     candidate_passages: 82
     candidates_reviewed: 0
     candidates_unreviewed: 82
@@ -1273,8 +1273,8 @@ assemblies:
     preview_reviewed: "unverified"
     commit_sha: ""
     pushed: "unverified"
-    blocker: "34 records in progress; 34 missing event bundles; 82 candidates unreviewed; roster_reconciled unverified; event_source_audited unverified; build unverified; preview_reviewed unverified; commit_sha unverified; pushed unverified"
-    next_step: "Complete source trails for 34 overture records; resolve missing event bundles and document evidence-based gaps."
+    blocker: "82 candidates unreviewed; roster_reconciled unverified; event_source_audited unverified; build unverified; preview_reviewed unverified; commit_sha unverified; pushed unverified"
+    next_step: "Audit GA6 action trails against the remaining 82 unreviewed candidate passages; confirm each passage is linked to the correct overture or document why it is unrelated."
     overtures:
       -
         record_id: "overture:ga06_1978:1:p40"
@@ -1283,14 +1283,14 @@ assemblies:
         source: "Gulf Coast Presbytery Whereas, there are many ministers in the Presbyterian Church in Amer"
         title: ""
         page: "overtures/ga06_1978__o1.md"
-        research_status: "in_progress"
-        next_step: "Continue tracing the action trail; use gap_note to resume the source search."
+        research_status: "complete"
+        next_step: "No overture-level research remains; packet audits and closeout are tracked at GA level."
         disposition: ""
-        event_count: 0
-        last_action_ga: ""
+        event_count: 3
+        last_action_ga: 6
         search_through_assembly: 52
         gap_note: "The requested stewardship emphasis received a negative answer with an appended comment encouraging use of existing budgetary materials and counseling. No later action on this distinct proposal was located through GA52. GA6 Overture 31 is a separate same-Assembly proposal and is not part of this trail."
-        anomalies: "missing_event_bundle"
+        anomalies: ""
       -
         record_id: "overture:ga06_1978:2:p41"
         number: 2
@@ -1298,14 +1298,14 @@ assemblies:
         source: "Covenant Presbytery Whereas, the Sub-Committee For Stewardship Ministries was formed by th"
         title: "Dissolve Stewardship Ministries Sub-Committee and Consolidate into Permanent Committees"
         page: "overtures/ga06_1978__o2.md"
-        research_status: "in_progress"
-        next_step: "Continue tracing the action trail; use gap_note to resume the source search."
+        research_status: "complete"
+        next_step: "No overture-level research remains; packet audits and closeout are tracked at GA level."
         disposition: ""
-        event_count: 0
-        last_action_ga: ""
+        event_count: 3
+        last_action_ga: 6
         search_through_assembly: 52
         gap_note: "Covenant Presbytery unanimously adopted the proposal. GA6 answered it negatively while appending a statement that the subcommittee remained valuable and consolidation would yield no significant savings. No later action on this distinct proposal was located through GA52. Same-number GA4 and GA27 overtures concern unrelated subjects."
-        anomalies: "missing_event_bundle"
+        anomalies: ""
       -
         record_id: "overture:ga06_1978:3:p30"
         number: 3
@@ -1313,14 +1313,14 @@ assemblies:
         source: "Tennessee Valley Presbytery"
         title: "Amend RAO to Preclude Personal Communications Not Presented by Committee or Presbytery"
         page: "overtures/ga06_1978__o3.md"
-        research_status: "in_progress"
-        next_step: "Continue tracing the action trail; use gap_note to resume the source search."
+        research_status: "complete"
+        next_step: "No overture-level research remains; packet audits and closeout are tracked at GA level."
         disposition: ""
-        event_count: 0
-        last_action_ga: ""
+        event_count: 3
+        last_action_ga: 6
         search_through_assembly: 52
         gap_note: "The GA6 source points to 6-87, III, Recommendation 20. The Committee of Commissioners on Administration recommended a negative answer, which the Assembly adopted. No later action on this distinct procedural proposal was located through GA52."
-        anomalies: "missing_event_bundle"
+        anomalies: ""
       -
         record_id: "overture:ga06_1978:4:p34"
         number: 4
@@ -1328,14 +1328,14 @@ assemblies:
         source: "the Presbytery of Southern Florida Whereas, the experience of some churches within the Pre"
         title: "Study and Amend BCO Membership Procedures for Receiving, Dismissing, and Rolling Members"
         page: "overtures/ga06_1978__o4.md"
-        research_status: "in_progress"
-        next_step: "Continue tracing the action trail; use gap_note to resume the source search."
+        research_status: "complete"
+        next_step: "No overture-level research remains; packet audits and closeout are tracked at GA level."
         disposition: ""
-        event_count: 0
-        last_action_ga: ""
+        event_count: 9
+        last_action_ga: 9
         search_through_assembly: 52
-        gap_note: "Complete. GA6 approved item 1 for study and preparation of amendments and answered item 2 negatively. GA7 and GA8 advanced/revised the draft, with GA8 referring it back for further study. GA9 recommended initial approval and sending it to Presbyteries; the adopted report records that motion. At GA10, the Clerk listed all proposed BCO amendments reported to have obtained the required two-thirds Presbytery approval, and this Chapter 6 replacement was absent. A search through GA52 found no later direct continuation; no GA9 Chapter 6 replacement was enacted."
-        anomalies: "missing_event_bundle"
+        gap_note: "Complete. GA6 approved item 1 for study and preparation of amendments and answered item 2 negatively. GA7 proposed a replacement Chapter VI and referred it back for refinement. GA8 advanced an amended draft, then adopted further study and consultation. GA9 recommended initial approval and send-down of a new membership chapter; the adopted report records that recommendation. At GA10 the Clerk listed amendments reported to have received the required two-thirds Presbytery approval, and the GA9 Chapter 6 replacement was absent. A targeted search through GA52 found no later direct continuation; no GA9 Chapter 6 replacement was enacted. The originating GA6 pages do not attest a separate Presbytery adoption."
+        anomalies: ""
       -
         record_id: "overture:ga06_1978:5:p35"
         number: 5
@@ -1343,14 +1343,14 @@ assemblies:
         source: "the Presbytery of Western Carolinas Whereas, the sessions of individual churches are the s"
         title: "Add BCO Language Authorizing Sessions to Commission Non-Ordained Church Workers"
         page: "overtures/ga06_1978__o5.md"
-        research_status: "in_progress"
-        next_step: "Continue tracing the action trail; use gap_note to resume the source search."
+        research_status: "complete"
+        next_step: "No overture-level research remains; packet audits and closeout are tracked at GA level."
         disposition: ""
-        event_count: 0
-        last_action_ga: ""
+        event_count: 3
+        last_action_ga: 6
         search_through_assembly: 52
-        gap_note: "GA6 answered with the view that existing BCO 12-2 and 12-4 gave Sessions authority to set apart non-ordained persons and form commissions when needed, while leaving the desirability of adding BCO language to the General Assembly. No later action on this distinct proposal was located through GA52; no constitutional amendment was sent down for ratification."
-        anomalies: "missing_event_bundle"
+        gap_note: "Complete. The Sixth General Assembly answered by explaining existing Session authority and leaving the desirability of additional BCO language to the Assembly. No later action on this distinct proposal was located through GA52; no ratification stage applies."
+        anomalies: ""
       -
         record_id: "overture:ga06_1978:6:p35"
         number: 6
@@ -1358,14 +1358,14 @@ assemblies:
         source: "the Presbytery of Western Carolinas"
         title: "Amend BCO 22-5 to Allow Non-Presbytery Members to Preach at Ordinations"
         page: "overtures/ga06_1978__o6.md"
-        research_status: "in_progress"
-        next_step: "Continue tracing the action trail; use gap_note to resume the source search."
+        research_status: "complete"
+        next_step: "No overture-level research remains; packet audits and closeout are tracked at GA level."
         disposition: "Answered by reference"
-        event_count: 0
-        last_action_ga: ""
+        event_count: 7
+        last_action_ga: 7
         search_through_assembly: 52
-        gap_note: "GA6 changed “will” to “shall” and sent BCO 22-5 to Presbyteries. GA7 reported 20 affirmative, 0 negative, 2 not reporting against a required 15, and enacted the amendment. The GA6 action text dates the overture January 20, while its originating page records Presbytery adoption on January 17; both source dates are preserved. No later action on this distinct amendment was located through GA52."
-        anomalies: "missing_event_bundle"
+        gap_note: "Complete. GA6 adopted the “shall” amendment and sent it to Presbyteries. GA7 reported 20 affirmative, 0 negative, 2 not reporting against a threshold of 15, then separately voted to enact BCO 22-5. The GA6 originating page records the Presbytery adoption on January 17, while the GA6 report dates the overture January 20; both dates are preserved in the minutes. No later action specific to this amendment was located through GA52."
+        anomalies: ""
       -
         record_id: "overture:ga06_1978:7:p32"
         number: 7
@@ -1388,14 +1388,14 @@ assemblies:
         source: "the Presbytery of Central Florida Whereas, the duties and function of the M-US Committee o"
         title: "Clarify Whether Denominational or Presbytery MUS Committee Approves Organizing Pastors"
         page: "overtures/ga06_1978__o8.md"
-        research_status: "in_progress"
-        next_step: "Continue tracing the action trail; use gap_note to resume the source search."
+        research_status: "complete"
+        next_step: "No overture-level research remains; packet audits and closeout are tracked at GA level."
         disposition: "Adopted (final)"
-        event_count: 0
-        last_action_ga: ""
+        event_count: 2
+        last_action_ga: 6
         search_through_assembly: 52
         gap_note: "The Assembly adopted a clarification: the Presbytery has final approval of qualifications for calls within its bounds, while the denominational MUS Committee controls whether it provides financial support. No Presbytery adoption attestation is printed with the submitted text, so none is inferred. No later action on this distinct proposal was located through GA52. GA6 Recommendation A and the later organizing-pastor training-manual work are a separate committee mandate, not a continuation of Overture 8. No constitutional ratification applies."
-        anomalies: "missing_event_bundle"
+        anomalies: ""
       -
         record_id: "overture:ga06_1978:9:p34"
         number: 9
@@ -1403,14 +1403,14 @@ assemblies:
         source: "the Presbytery of Southern Florida"
         title: "Establish Dental Insurance Program for Ministers and Employees"
         page: "overtures/ga06_1978__o9.md"
-        research_status: "in_progress"
-        next_step: "Continue tracing the action trail; use gap_note to resume the source search."
+        research_status: "complete"
+        next_step: "No overture-level research remains; packet audits and closeout are tracked at GA level."
         disposition: "Answered in the negative"
-        event_count: 0
-        last_action_ga: ""
+        event_count: 5
+        last_action_ga: 6
         search_through_assembly: 52
         gap_note: "The Southern Florida motion carried. The Sixth Assembly adopted the committee recommendation rejecting the proposed dental plan at that time and returning it to the Trustees for study, and separately adopted a negative answer to Overture 9. No later action on this distinct proposal was located through GA52. GA8 Overture 9 is a different proposal. No constitutional ratification applies."
-        anomalies: "missing_event_bundle"
+        anomalies: ""
       -
         record_id: "overture:ga06_1978:10:p36"
         number: 10
@@ -1418,14 +1418,14 @@ assemblies:
         source: "the Presbytery of the Evangel Evangel Presbytery overtures the Sixth General Assembly of t"
         title: "Instruct Permanent Theological Committee to Rule on Validity of Ordinations from Other Presbyterian Bodies"
         page: "overtures/ga06_1978__o10.md"
-        research_status: "in_progress"
-        next_step: "Continue tracing the action trail; use gap_note to resume the source search."
+        research_status: "complete"
+        next_step: "No overture-level research remains; packet audits and closeout are tracked at GA level."
         disposition: "Referred"
-        event_count: 0
-        last_action_ga: ""
+        event_count: 7
+        last_action_ga: 7
         search_through_assembly: 52
         gap_note: "GA6 Appendix E Recommendation 7 proposed an affirmative answer and referral to the Committee on Judicial Business, but this was not the Assembly’s decision. GA6 adopted the Committee of Commissioners’ later referral to the Permanent Sub-Committee. GA7 then adopted a two-part answer: newly adopted BCO 14-7 clarifies reception of incoming Ruling Elders, and the Session should handle incoming Deacons similarly. GA6 Overture 33’s BCO amendment is a distinct proposal and is cross-linked, not merged. The source attestation dates Evangel’s adoption February 4, 1978; GA6 report text gives February 14, a ten-day discrepancy. No later O10-specific action was located through GA52."
-        anomalies: "missing_event_bundle"
+        anomalies: ""
       -
         record_id: "overture:ga06_1978:11:p36"
         number: 11
@@ -1433,14 +1433,14 @@ assemblies:
         source: "the Presbytery of Mississippi Valley"
         title: "Amend BCO to Clarify Whether a Candidate May Be Licensed by Another Presbytery"
         page: "overtures/ga06_1978__o11.md"
-        research_status: "in_progress"
-        next_step: "Continue tracing the action trail; use gap_note to resume the source search."
+        research_status: "complete"
+        next_step: "No overture-level research remains; packet audits and closeout are tracked at GA level."
         disposition: "Answered by reference; the resulting licensure revisions were enacted at GA9"
-        event_count: 0
-        last_action_ga: ""
+        event_count: 13
+        last_action_ga: 9
         search_through_assembly: 9
-        gap_note: "Source identity and constitutional follow-through resolved from the Markdown minutes. The GA6 source page does not attest a separate originating Presbytery adoption, and the GA9 record states the constitutional threshold was met without giving the individual numerical tally in this excerpt."
-        anomalies: "missing_event_bundle"
+        gap_note: "Complete. GA6 answered by reference and adopted Chapter 20 licensure/probation changes, but directed that they not be sent down until related Chapters 19–22 changes were assembled. GA7 referred the revised draft back; GA8 initially approved and sent the revised Chapters 18–21 to Presbyteries. GA9 reported that Items 1–6 received the required two-thirds Presbytery approval and enacted Item 5. The GA9 minutes state the threshold result but do not provide the individual Presbytery tally in this passage. The GA6 originating page does not attest a separate Presbytery adoption."
+        anomalies: ""
       -
         record_id: "overture:ga06_1978:12:p36"
         number: 12
@@ -1448,14 +1448,14 @@ assemblies:
         source: "Warrior Presbytery"
         title: "Encourage Churches to Display the Denominational Name Publicly"
         page: "overtures/ga06_1978__o12.md"
-        research_status: "in_progress"
-        next_step: "Continue tracing the action trail; use gap_note to resume the source search."
+        research_status: "complete"
+        next_step: "No overture-level research remains; packet audits and closeout are tracked at GA level."
         disposition: ""
-        event_count: 0
-        last_action_ga: ""
+        event_count: 2
+        last_action_ga: 6
         search_through_assembly: 6
         gap_note: "The submitted source does not attest a separate adoption by Warrior Presbytery. GA6 answered the overture in the negative and adopted that answer. The proposal is non-constitutional; Presbytery ratification is not applicable."
-        anomalies: "missing_event_bundle"
+        anomalies: ""
       -
         record_id: "overture:ga06_1978:13:p30"
         number: 13
@@ -1463,14 +1463,14 @@ assemblies:
         source: "the Presbytery of Louisiana"
         title: "Amend RAO to Prohibit Late Overtures Without a Three-Fourths Vote"
         page: "overtures/ga06_1978__o13.md"
-        research_status: "in_progress"
-        next_step: "Continue tracing the action trail; use gap_note to resume the source search."
+        research_status: "complete"
+        next_step: "No overture-level research remains; packet audits and closeout are tracked at GA level."
         disposition: "Answered in the negative"
-        event_count: 0
-        last_action_ga: ""
+        event_count: 3
+        last_action_ga: 6
         search_through_assembly: 6
         gap_note: "The source states that Louisiana Presbytery adopted the overture, although the extracted word indicating whether the vote was unanimous is OCR-damaged. GA6 amended the proposed threshold from three-fourths to two-thirds and adopted the affirmative answer. This changed the Rules for Assembly Operations, not the Constitution; Presbytery ratification is not applicable."
-        anomalies: "missing_event_bundle"
+        anomalies: ""
       -
         record_id: "overture:ga06_1978:14:p36"
         number: 14
@@ -1478,14 +1478,14 @@ assemblies:
         source: "Central Georgia Presbytery Whereas, the work of the Nominating Committee of the General As"
         title: "Amend BCO 15-1 to Establish Staggered Two-Year Terms for Nominating Committee"
         page: "overtures/ga06_1978__o14.md"
-        research_status: "in_progress"
-        next_step: "Continue tracing the action trail; use gap_note to resume the source search."
+        research_status: "complete"
+        next_step: "No overture-level research remains; packet audits and closeout are tracked at GA level."
         disposition: "Answered in the negative"
-        event_count: 0
-        last_action_ga: ""
+        event_count: 4
+        last_action_ga: 6
         search_through_assembly: 6
-        gap_note: "GA6 adopted a negative answer to the proposed BCO 15-1 amendment. Because the proposal was rejected, no Presbytery ratification stage applies."
-        anomalies: "missing_event_bundle"
+        gap_note: "Recommended a negative answer to the proposed BCO 15-1 change. Appendix E’s Recommendation 15 labels the item Overture 16, but its BCO 15-1 subject matches this Overture 14; the distinct GA6 Overture 16 concerns BCO 13-1. The Assembly rejected the proposal, so no Presbytery ratification stage applies."
+        anomalies: ""
       -
         record_id: "overture:ga06_1978:15:p37"
         number: 15
@@ -1493,14 +1493,14 @@ assemblies:
         source: "Central Georgia Presbytery"
         title: "Amend BCO 25-1 to Clarify Examination of Returning Elders and Deacons"
         page: "overtures/ga06_1978__o15.md"
-        research_status: "in_progress"
-        next_step: "Continue tracing the action trail; use gap_note to resume the source search."
+        research_status: "complete"
+        next_step: "No overture-level research remains; packet audits and closeout are tracked at GA level."
         disposition: ""
-        event_count: 0
-        last_action_ga: ""
+        event_count: 4
+        last_action_ga: 6
         search_through_assembly: 6
-        gap_note: "GA6 adopted a negative answer to the proposed BCO 25-1 amendment. Because the proposal was rejected, no Presbytery ratification stage applies."
-        anomalies: "missing_event_bundle"
+        gap_note: "Recommended a negative answer to the proposed BCO 25-1 change. Appendix E’s Recommendation 14 labels the item Overture 14, but its BCO 25-1 subject matches this Overture 15; GA6 Overture 14 concerns BCO 15-1. The Assembly rejected the proposal, so no Presbytery ratification stage applies."
+        anomalies: ""
       -
         record_id: "overture:ga06_1978:16:p37"
         number: 16
@@ -1508,14 +1508,14 @@ assemblies:
         source: "Central Georgia Presbytery"
         title: "Amend BCO 13-1 to Allow Presbyteries to Appoint Acting Sessions"
         page: "overtures/ga06_1978__o16.md"
-        research_status: "in_progress"
-        next_step: "Continue tracing the action trail; use gap_note to resume the source search."
+        research_status: "complete"
+        next_step: "No overture-level research remains; packet audits and closeout are tracked at GA level."
         disposition: "Answered in the negative"
-        event_count: 0
-        last_action_ga: ""
+        event_count: 3
+        last_action_ga: 6
         search_through_assembly: 6
-        gap_note: "GA6 adopted a negative answer to the proposed BCO 13-1 amendment. Because the proposal was rejected, no Presbytery ratification stage applies. The Permanent Sub-Committee report labels the proposal Overture 13, but its Central Georgia sponsor, April 11 adoption date, and acting-session/BCO 14-7 subject identify GA6 O16; the source overture proposes amending BCO 13-1."
-        anomalies: "missing_event_bundle"
+        gap_note: "Answered Overture 16 in the negative. Appendix E’s Recommendation 13 concerns BCO 14-7 and cites Overture 13, so it is not this distinct Overture 16, which proposes a BCO 13-1 change. The Assembly rejected the proposal, so no Presbytery ratification stage applies."
+        anomalies: ""
       -
         record_id: "overture:ga06_1978:17:p38"
         number: 17
@@ -1523,14 +1523,14 @@ assemblies:
         source: "Grace Presbytery"
         title: "Clarify Whether the Lord's Supper May Be Administered Outside Corporate Worship"
         page: "overtures/ga06_1978__o17.md"
-        research_status: "in_progress"
-        next_step: "Continue tracing the action trail; use gap_note to resume the source search."
+        research_status: "complete"
+        next_step: "No overture-level research remains; packet audits and closeout are tracked at GA level."
         disposition: "Adopted (final)"
-        event_count: 0
-        last_action_ga: ""
+        event_count: 4
+        last_action_ga: 6
         search_through_assembly: 6
-        gap_note: "The committee recommended a conditional answer, but the motion was lost and Overture 17 was not answered. The proposal requested an interpretation/action, not a constitutional amendment; no Presbytery ratification stage applies."
-        anomalies: "missing_event_bundle"
+        gap_note: "The Permanent Subcommittee and Committee of Commissioners proposed distinct conditional answers. The Assembly motion was lost, and Overture 17 was not answered. It requested an interpretation/action, not a constitutional amendment; no Presbytery ratification stage applies."
+        anomalies: ""
       -
         record_id: "overture:ga06_1978:18:p40"
         number: 18
@@ -1538,14 +1538,14 @@ assemblies:
         source: "the Presbytery of North Georgia"
         title: "Require General Assembly Approval for MTW Funding of Non-Approved Mission Organizations"
         page: "overtures/ga06_1978__o18.md"
-        research_status: "in_progress"
-        next_step: "Continue tracing the action trail; use gap_note to resume the source search."
+        research_status: "complete"
+        next_step: "No overture-level research remains; packet audits and closeout are tracked at GA level."
         disposition: "Answered in the negative"
-        event_count: 0
-        last_action_ga: ""
+        event_count: 8
+        last_action_ga: 7
         search_through_assembly: 7
         gap_note: "Complete. GA6 adopted a joint follow-up directive; GA7 clarified the Manual by adopting special-project authority after prayerful consideration and review, alongside requirements that cooperative agreements be written and signed. Both overtures remain distinct records linked by their joint actions."
-        anomalies: "missing_event_bundle"
+        anomalies: ""
       -
         record_id: "overture:ga06_1978:19:p38"
         number: 19
@@ -1553,14 +1553,14 @@ assemblies:
         source: "Covenant Presbytery. Covenant Presbytery overtures the Sixth General Assembly of the Presb"
         title: "Amend BCO 15-2 to Remove Cap on Commissioners from a Single Congregation"
         page: "overtures/ga06_1978__o19.md"
-        research_status: "in_progress"
-        next_step: "Continue tracing the action trail; use gap_note to resume the source search."
+        research_status: "complete"
+        next_step: "No overture-level research remains; packet audits and closeout are tracked at GA level."
         disposition: "Answered in the negative"
-        event_count: 0
-        last_action_ga: ""
+        event_count: 4
+        last_action_ga: 6
         search_through_assembly: 6
-        gap_note: "GA6 answered Overture 19 in the negative. The adjacent BCO 15-2 amendment enacted at 6-111, III, Recommendation 1 was a separate amendment that had passed GA5 and received the required Presbytery approval; it is not approval of Overture 19."
-        anomalies: "missing_event_bundle"
+        gap_note: "GA6 answered Overture 19 in the negative. The separate BCO 15-2 amendment adopted at 6-111, III, Recommendation 1 had passed GA5 and received the required Presbytery approval; it is not approval of Overture 19. Because Overture 19 was rejected, no ratification stage applies to this overture."
+        anomalies: ""
       -
         record_id: "overture:ga06_1978:20:p33"
         number: 20
@@ -1568,14 +1568,14 @@ assemblies:
         source: "Covenant Presbytery"
         title: "Replace Bi-Monthly PCA Messenger with a Monthly Tabloid Newspaper"
         page: "overtures/ga06_1978__o20.md"
-        research_status: "in_progress"
-        next_step: "Continue tracing the action trail; use gap_note to resume the source search."
+        research_status: "complete"
+        next_step: "No overture-level research remains; packet audits and closeout are tracked at GA level."
         disposition: ""
-        event_count: 0
-        last_action_ga: ""
+        event_count: 3
+        last_action_ga: 6
         search_through_assembly: 6
-        gap_note: "GA6 adopted a negative answer. The proposal concerned PCA Messenger format and committee oversight, not a constitutional amendment; no Presbytery ratification applies."
-        anomalies: "missing_event_bundle"
+        gap_note: "The Assembly adopted a negative answer. The proposal concerned PCA Messenger format and committee oversight, not a constitutional amendment; no Presbytery ratification applies."
+        anomalies: ""
       -
         record_id: "overture:ga06_1978:21:p33"
         number: 21
@@ -1583,14 +1583,14 @@ assemblies:
         source: "Covenant Presbytery Covenant Presbytery overtures the Sixth General Assembly of the Presby"
         title: "Direct Christian Education Committee to Reprint the Denominational Theological Standards"
         page: "overtures/ga06_1978__o21.md"
-        research_status: "in_progress"
-        next_step: "Continue tracing the action trail; use gap_note to resume the source search."
+        research_status: "complete"
+        next_step: "No overture-level research remains; packet audits and closeout are tracked at GA level."
         disposition: ""
-        event_count: 0
-        last_action_ga: ""
+        event_count: 3
+        last_action_ga: 6
         search_through_assembly: 6
-        gap_note: "GA6 adopted the report that the Permanent Committee had accomplished the request in substance. The minutes reviewed do not specify what reprinting work was completed; preserve the Assembly wording without inferring details. The request was not a constitutional amendment, so no Presbytery ratification applies."
-        anomalies: "missing_event_bundle"
+        gap_note: "The Assembly adopted the report that the Committee had accomplished the request in substance. The minutes reviewed do not specify what reprinting work was completed; no details are inferred. The request was not a constitutional amendment, so no Presbytery ratification applies."
+        anomalies: ""
       -
         record_id: "overture:ga06_1978:22:p40"
         number: 22
@@ -1598,14 +1598,14 @@ assemblies:
         source: "Ascension Presbytery"
         title: "Require General Assembly Approval for MTW Funding of Non-Approved Mission Organizations"
         page: "overtures/ga06_1978__o22.md"
-        research_status: "in_progress"
-        next_step: "Continue tracing the action trail; use gap_note to resume the source search."
+        research_status: "complete"
+        next_step: "No overture-level research remains; packet audits and closeout are tracked at GA level."
         disposition: "Referred"
-        event_count: 0
-        last_action_ga: ""
+        event_count: 8
+        last_action_ga: 7
         search_through_assembly: 7
         gap_note: "Complete. GA6 adopted a joint follow-up directive; GA7 clarified the Manual by adopting special-project authority after prayerful consideration and review, alongside requirements that cooperative agreements be written and signed. Both overtures remain distinct records linked by their joint actions."
-        anomalies: "missing_event_bundle"
+        anomalies: ""
       -
         record_id: "overture:ga06_1978:23:p39"
         number: 23
@@ -1613,14 +1613,14 @@ assemblies:
         source: "Carolina Presbytery Whereas, the boundaries of Presbyteries are determined by the General"
         title: "Divide Carolina Presbytery into Central Carolina and Eastern Carolina Presbyteries"
         page: "overtures/ga06_1978__o23.md"
-        research_status: "in_progress"
-        next_step: "Continue tracing the action trail; use gap_note to resume the source search."
+        research_status: "complete"
+        next_step: "No overture-level research remains; packet audits and closeout are tracked at GA level."
         disposition: "Adopted (final)"
-        event_count: 0
-        last_action_ga: ""
+        event_count: 5
+        last_action_ga: 6
         search_through_assembly: 6
         gap_note: "GA6 answered the proposal affirmatively after referring Recommendation 15 back to the Committee; the report later returned and was adopted at 6-89. This was a Presbytery-boundary action under BCO 15-6, not a constitutional amendment requiring Presbytery ratification."
-        anomalies: "missing_event_bundle"
+        anomalies: ""
       -
         record_id: "overture:ga06_1978:24:p30"
         number: 24
@@ -1628,14 +1628,14 @@ assemblies:
         source: "Calvary Presbytery"
         title: "Amend RAO 9-4 to Reduce and Restructure Debate Extension Periods"
         page: "overtures/ga06_1978__o24.md"
-        research_status: "in_progress"
-        next_step: "Continue tracing the action trail; use gap_note to resume the source search."
+        research_status: "complete"
+        next_step: "No overture-level research remains; packet audits and closeout are tracked at GA level."
         disposition: ""
-        event_count: 0
-        last_action_ga: ""
+        event_count: 3
+        last_action_ga: 6
         search_through_assembly: 6
-        gap_note: "GA6 adopted a materially revised RAO 9-4(4) procedure and answered the overture in the affirmative. The PDF was checked where the Markdown transcription was ambiguous; the phrase amendment of a substitution is preserved as printed. The proposal concerned Rules for Assembly Operations, not the Constitution; no Presbytery ratification applies. The minutes give the originating Grace session attestation but no separate Calvary adoption statement."
-        anomalies: "missing_event_bundle"
+        gap_note: "GA6 adopted a materially revised RAO 9-4(4) procedure and answered the overture in the affirmative. The minutes give the originating Grace Session attestation but no separate Calvary adoption statement. This was a Rules for Assembly Operations change, not a constitutional amendment; no Presbytery ratification applies."
+        anomalies: ""
       -
         record_id: "overture:ga06_1978:25:p31"
         number: 25
@@ -1643,14 +1643,14 @@ assemblies:
         source: "Calvary Presbytery Whereas, the Stated Clerk of the General Assembly is usually very busy"
         title: "Amend RAO to Elect a Separate Parliamentarian for the General Assembly"
         page: "overtures/ga06_1978__o25.md"
-        research_status: "in_progress"
-        next_step: "Continue tracing the action trail; use gap_note to resume the source search."
+        research_status: "complete"
+        next_step: "No overture-level research remains; packet audits and closeout are tracked at GA level."
         disposition: ""
-        event_count: 0
-        last_action_ga: ""
+        event_count: 3
+        last_action_ga: 6
         search_through_assembly: 6
         gap_note: "GA6 adopted a negative answer. The proposal concerned Rules for Assembly Operations, not the Constitution; no Presbytery ratification applies. The source records adoption by the originating Session but supplies no separate Calvary Presbytery adoption attestation."
-        anomalies: "missing_event_bundle"
+        anomalies: ""
       -
         record_id: "overture:ga06_1978:26:p31"
         number: 26
@@ -1658,14 +1658,14 @@ assemblies:
         source: "Calvary Presbytery"
         title: "Amend RAO 7-2 to Close New Business at Noon After the Opening Session"
         page: "overtures/ga06_1978__o26.md"
-        research_status: "in_progress"
-        next_step: "Continue tracing the action trail; use gap_note to resume the source search."
+        research_status: "complete"
+        next_step: "No overture-level research remains; packet audits and closeout are tracked at GA level."
         disposition: ""
-        event_count: 0
-        last_action_ga: ""
+        event_count: 4
+        last_action_ga: 6
         search_through_assembly: 6
-        gap_note: "The negative-answer motion and the affirmative-answer attempt were both defeated. The minutes explicitly state that Overture 26 received no response. The proposal concerned Rules for Assembly Operations; no Presbytery ratification applies."
-        anomalies: "missing_event_bundle"
+        gap_note: "The negative-answer motion and the affirmative-answer attempt were both defeated. The minutes explicitly state that Overture 26 received no response. The proposal concerned Rules for Assembly Operations; no Presbytery ratification applies. The source records originating Session adoption but no separate Calvary Presbytery adoption attestation."
+        anomalies: ""
       -
         record_id: "overture:ga06_1978:27:p31"
         number: 27
@@ -1673,14 +1673,14 @@ assemblies:
         source: "Calvary Presbytery Whereas, the Fifth General Assembly suffered greatly in allotment of ti"
         title: "Present Overtures Early in GA Business Agenda"
         page: "overtures/ga06_1978__o27.md"
-        research_status: "in_progress"
-        next_step: "Continue tracing the action trail; use gap_note to resume the source search."
+        research_status: "complete"
+        next_step: "No overture-level research remains; packet audits and closeout are tracked at GA level."
         disposition: ""
-        event_count: 0
-        last_action_ga: ""
+        event_count: 3
+        last_action_ga: 6
         search_through_assembly: 6
         gap_note: "GA6 adopted a negative answer specifically because the submission was not an overture; this is a procedural classification rather than a substantive rejection of the requested agenda placement. The originating Session adoption is recorded, but no separate Calvary Presbytery adoption attestation appears. The request concerned Assembly procedure, so no Presbytery ratification applies."
-        anomalies: "missing_event_bundle"
+        anomalies: ""
       -
         record_id: "overture:ga06_1978:28:p34"
         number: 28
@@ -1688,14 +1688,14 @@ assemblies:
         source: "Calvary Presbytery"
         title: "Discontinue Paying Travel Expenses for Retired Ministers to Attend General Assembly"
         page: "overtures/ga06_1978__o28.md"
-        research_status: "in_progress"
-        next_step: "Continue tracing the action trail; use gap_note to resume the source search."
+        research_status: "complete"
+        next_step: "No overture-level research remains; packet audits and closeout are tracked at GA level."
         disposition: "Adopted (final)"
-        event_count: 0
-        last_action_ga: ""
+        event_count: 5
+        last_action_ga: 6
         search_through_assembly: 52
-        gap_note: "The minutes record two distinct adopted Assembly responses to Overture 28; both are retained on this trail."
-        anomalies: "missing_event_bundle"
+        gap_note: "The minutes record two distinct adopted Assembly responses to Overture 28: an amended affirmative answer from the Administration commissioners and a separate affirmative answer from the Insurance and Annuity commissioners. Both are retained as separate stages. No later overture-specific action was located through GA52; no Presbytery ratification stage applies."
+        anomalies: ""
       -
         record_id: "overture:ga06_1978:29:p32"
         number: 29
@@ -1703,14 +1703,14 @@ assemblies:
         source: "Calvary Presbytery"
         title: "Amend Bylaws Article IV to Allow Permanent Committees to Elect Their Own Representatives to Committee on Administration"
         page: "overtures/ga06_1978__o29.md"
-        research_status: "in_progress"
-        next_step: "Continue tracing the action trail; use gap_note to resume the source search."
+        research_status: "complete"
+        next_step: "No overture-level research remains; packet audits and closeout are tracked at GA level."
         disposition: ""
-        event_count: 0
-        last_action_ga: ""
+        event_count: 3
+        last_action_ga: 6
         search_through_assembly: 52
-        gap_note: "This is a non-constitutional bylaw proposal; a Presbytery ratification stage does not apply."
-        anomalies: "missing_event_bundle"
+        gap_note: "This non-constitutional bylaw proposal was amended and answered in the affirmative. The Session adoption is recorded, but no separate Calvary Presbytery adoption attestation is printed. Later minutes contain no overture-specific continuation; no Presbytery ratification stage applies."
+        anomalies: ""
       -
         record_id: "overture:ga06_1978:30:p32"
         number: 30
@@ -1718,14 +1718,14 @@ assemblies:
         source: "Calvary Presbytery"
         title: "Amend Bylaws Article IV Section 7 to Require Ten Days Notice Before First Permanent Committee Meeting"
         page: "overtures/ga06_1978__o30.md"
-        research_status: "in_progress"
-        next_step: "Continue tracing the action trail; use gap_note to resume the source search."
+        research_status: "complete"
+        next_step: "No overture-level research remains; packet audits and closeout are tracked at GA level."
         disposition: "Adopted (final)"
-        event_count: 0
-        last_action_ga: ""
+        event_count: 3
+        last_action_ga: 6
         search_through_assembly: 52
-        gap_note: "Non-constitutional bylaw action; Presbytery ratification does not apply. Later Bylaws reprints are not treated as new actions on this overture."
-        anomalies: "missing_event_bundle"
+        gap_note: "This non-constitutional bylaw proposal was amended and answered in the affirmative. The Session adoption is recorded, but no separate Calvary Presbytery adoption attestation is printed. Later Bylaws reprints are not treated as new actions on this overture; no Presbytery ratification stage applies."
+        anomalies: ""
       -
         record_id: "overture:ga06_1978:31:p41"
         number: 31
@@ -1733,14 +1733,14 @@ assemblies:
         source: "John Knox Presbyterian Church, Ruston, Louisiana (Presented to Louisiana Presbytery, but n"
         title: "Adopt a Program of Unrestricted Giving to Support All General Assembly Permanent Committees"
         page: "overtures/ga06_1978__o31.md"
-        research_status: "in_progress"
-        next_step: "Continue tracing the action trail; use gap_note to resume the source search."
+        research_status: "complete"
+        next_step: "No overture-level research remains; packet audits and closeout are tracked at GA level."
         disposition: ""
-        event_count: 0
-        last_action_ga: ""
+        event_count: 3
+        last_action_ga: 6
         search_through_assembly: 52
-        gap_note: "The originating Presbytery did not adopt the proposal; the General Assembly answered it in the negative. No ratification stage applies."
-        anomalies: "missing_event_bundle"
+        gap_note: "The originating Presbytery did not adopt the proposal; the General Assembly answered it in the negative and adopted budget guidance. No ratification stage applies."
+        anomalies: ""
       -
         record_id: "overture:ga06_1978:32:p33"
         number: 32
@@ -1748,14 +1748,14 @@ assemblies:
         source: "Tennessee Valley Presbytery"
         title: "Endorse the Human Life Amendment and Call for Legal Protection of Unborn Persons"
         page: "overtures/ga06_1978__o32.md"
-        research_status: "in_progress"
-        next_step: "Continue tracing the action trail; use gap_note to resume the source search."
+        research_status: "complete"
+        next_step: "No overture-level research remains; packet audits and closeout are tracked at GA level."
         disposition: "Answered in the negative"
-        event_count: 0
-        last_action_ga: ""
+        event_count: 3
+        last_action_ga: 6
         search_through_assembly: 52
-        gap_note: "The Assembly answered this legislative/political resolution in the negative; no constitutional ratification stage applies."
-        anomalies: "missing_event_bundle"
+        gap_note: "The Assembly answered the resolution in the negative. Targeted searches of later Markdown minutes through GA52 found no later overture-specific action. This was not a BCO amendment, so no Presbytery ratification stage applies."
+        anomalies: ""
       -
         record_id: "overture:ga06_1978:33:p38"
         number: 33
@@ -1763,14 +1763,14 @@ assemblies:
         source: "Mid-Atlantic Presbytery."
         title: "Amend BCO by Adding BCO 14-7 Requiring Elder Examination Before Receiving Churches"
         page: "overtures/ga06_1978__o33.md"
-        research_status: "in_progress"
-        next_step: "Continue tracing the action trail; use gap_note to resume the source search."
+        research_status: "complete"
+        next_step: "No overture-level research remains; packet audits and closeout are tracked at GA level."
         disposition: ""
-        event_count: 0
-        last_action_ga: ""
+        event_count: 7
+        last_action_ga: 7
         search_through_assembly: 7
-        gap_note: "The constitutional amendment completed its ratification and final-enactment stages at GA7. No further ratification stage applies."
-        anomalies: "missing_event_bundle"
+        gap_note: "The amendment received 20 affirmative and no negative Presbytery votes; two Presbyteries did not report, and the 15-vote threshold was met. GA7 gave separate majority approval and enacted BCO 14-7. No further ratification stage applies."
+        anomalies: ""
       -
         record_id: "overture:ga06_1978:34:p39"
         number: 34
@@ -1778,14 +1778,14 @@ assemblies:
         source: "Warrior Presbytery."
         title: "Approve Palmer Home for Children as a Designated Denominational Benevolence"
         page: "overtures/ga06_1978__o34.md"
-        research_status: "in_progress"
-        next_step: "Continue tracing the action trail; use gap_note to resume the source search."
+        research_status: "complete"
+        next_step: "No overture-level research remains; packet audits and closeout are tracked at GA level."
         disposition: ""
-        event_count: 0
-        last_action_ga: ""
-        search_through_assembly: 6
-        gap_note: "The Assembly answered the proposal in the negative; no constitutional ratification stage applies."
-        anomalies: "missing_event_bundle"
+        event_count: 3
+        last_action_ga: 6
+        search_through_assembly: 52
+        gap_note: "The Assembly answered the proposal in the negative while calling attention to Palmer Home’s availability. Targeted searches of later Markdown minutes through GA52 found no later overture-specific action. No Presbytery ratification stage applies."
+        anomalies: ""
       -
         record_id: "overture:ga06_1978:35:p39"
         number: 35
@@ -1793,25 +1793,25 @@ assemblies:
         source: "Pacific Presbytery."
         title: "Expand Pacific Presbytery Boundaries to Include All Western States"
         page: "overtures/ga06_1978__o35.md"
-        research_status: "in_progress"
-        next_step: "Continue tracing the action trail; use gap_note to resume the source search."
+        research_status: "complete"
+        next_step: "No overture-level research remains; packet audits and closeout are tracked at GA level."
         disposition: "Adopted (final)"
-        event_count: 0
-        last_action_ga: ""
-        search_through_assembly: 8
-        gap_note: "GA6 adopted the boundary extension and issued a specific follow-up direction to Grace and Pacific Presbyteries. No BCO ratification stage applies."
-        anomalies: "missing_event_bundle"
+        event_count: 5
+        last_action_ga: 6
+        search_through_assembly: 52
+        gap_note: "GA6 adopted the boundary extension and directed Grace and Pacific Presbyteries to meet about business arising from it. Targeted searches of later Markdown minutes through GA52 found no later overture-specific action. GA8 Overture 17 is a distinct later Pacific Presbytery request concerning Arizona and New Mexico; it is linked separately and not merged. No BCO ratification stage applies."
+        anomalies: ""
   -
     ga_ordinal: 7
     assembly: "GA7"
     status: "in_progress"
     catalogue_records: 31
-    records_complete: 4
-    records_in_progress: 27
+    records_complete: 31
+    records_in_progress: 0
     records_not_researched: 0
     records_source_unavailable: 0
     missing_research_rows: 0
-    missing_event_bundles: 27
+    missing_event_bundles: 0
     candidate_passages: 86
     candidates_reviewed: 3
     candidates_unreviewed: 83
@@ -1823,8 +1823,8 @@ assemblies:
     preview_reviewed: "unverified"
     commit_sha: ""
     pushed: "unverified"
-    blocker: "27 records in progress; 27 missing event bundles; 83 candidates unreviewed; roster_reconciled unverified; event_source_audited unverified; build unverified; preview_reviewed unverified; commit_sha unverified; pushed unverified"
-    next_step: "Complete source trails for 27 overture records; resolve missing event bundles and document evidence-based gaps."
+    blocker: "83 candidates unreviewed; roster_reconciled unverified; event_source_audited unverified; build unverified; preview_reviewed unverified; commit_sha unverified; pushed unverified"
+    next_step: "Audit GA7 action trails against the remaining 83 unreviewed candidate passages; confirm each passage is linked to the correct overture or document why it is unrelated."
     overtures:
       -
         record_id: "overture:ga07_1979:2:p29"
@@ -1848,14 +1848,14 @@ assemblies:
         source: "the Presbytery of Westminster"
         title: "Acknowledge All New Congregations Equally During Assembly Recognition"
         page: "overtures/ga07_1979__o3.md"
-        research_status: "in_progress"
-        next_step: "Continue tracing the action trail; use gap_note to resume the source search."
+        research_status: "complete"
+        next_step: "No overture-level research remains; packet audits and closeout are tracked at GA level."
         disposition: "Adopted (final)"
-        event_count: 0
-        last_action_ga: ""
+        event_count: 3
+        last_action_ga: 7
         search_through_assembly: 7
-        gap_note: "The Assembly adopted the affirmative answer in its originating Assembly. This proposal concerns Assembly recognition procedure, not a constitutional amendment; no Presbytery ratification stage applies."
-        anomalies: "missing_event_bundle"
+        gap_note: "The Seventh General Assembly adopted its answer in 7-37, III, 2. This Assembly-recognition procedure is not a constitutional amendment and has no Presbytery ratification stage."
+        anomalies: ""
       -
         record_id: "overture:ga07_1979:4:p29"
         number: 4
@@ -1863,14 +1863,14 @@ assemblies:
         source: "the Presbytery of Westminster"
         title: "Prohibit Committees from Forwarding Funds to Unapproved Organizations"
         page: "overtures/ga07_1979__o4.md"
-        research_status: "in_progress"
-        next_step: "Continue tracing the action trail; use gap_note to resume the source search."
+        research_status: "complete"
+        next_step: "No overture-level research remains; packet audits and closeout are tracked at GA level."
         disposition: "Answered in the negative"
-        event_count: 0
-        last_action_ga: ""
+        event_count: 3
+        last_action_ga: 7
         search_through_assembly: 7
-        gap_note: "The Assembly answered the proposal in the negative in GA7. This request about committee handling of funds is not a constitutional amendment; no Presbytery ratification stage applies."
-        anomalies: "missing_event_bundle"
+        gap_note: "The Seventh General Assembly answered the proposal in the negative under 7-90, Recommendation 11. This request about committee handling of funds is not a constitutional amendment and has no Presbytery ratification stage."
+        anomalies: ""
       -
         record_id: "overture:ga07_1979:5:p29"
         number: 5
@@ -1878,14 +1878,14 @@ assemblies:
         source: "Evangel Presbytery Whereas, the time of the General Assembly for adequate consideration of"
         title: "Amend RAO 8-11 and 10-2 to Allow Assembly to Waive Reading of Reports"
         page: "overtures/ga07_1979__o5.md"
-        research_status: "in_progress"
-        next_step: "Continue tracing the action trail; use gap_note to resume the source search."
+        research_status: "complete"
+        next_step: "No overture-level research remains; packet audits and closeout are tracked at GA level."
         disposition: "Adopted (final)"
-        event_count: 0
-        last_action_ga: ""
+        event_count: 7
+        last_action_ga: 8
         search_through_assembly: 8
         gap_note: "GA7 did not enact the proposed Rules for Assembly Operations change: its affirmative recommendation was ruled out of order for lack of the required two-thirds presence and carried forward. GA8 adopted the RAO wording under 8-19, I, 1, and separately recorded an affirmative answer to the carried-over 1979 Overture 5 under 8-103, III, 18. This was not sent to Presbyteries for ratification."
-        anomalies: "missing_event_bundle"
+        anomalies: ""
       -
         record_id: "overture:ga07_1979:6:p30"
         number: 6
@@ -1893,14 +1893,14 @@ assemblies:
         source: "the Presbytery of the Evangel Evangel Presbytery of the PCA overtures the Seventh General"
         title: "Amend RAO 1-3 to Elect a Moderator-in-Nomination for the Succeeding Assembly"
         page: "overtures/ga07_1979__o6.md"
-        research_status: "in_progress"
-        next_step: "Continue tracing the action trail; use gap_note to resume the source search."
+        research_status: "complete"
+        next_step: "No overture-level research remains; packet audits and closeout are tracked at GA level."
         disposition: "Adopted (final)"
-        event_count: 0
-        last_action_ga: ""
+        event_count: 5
+        last_action_ga: 8
         search_through_assembly: 8
         gap_note: "GA7’s affirmative recommendation was ruled out of order because a two-thirds vote of all registered commissioners was unavailable and was carried forward without enactment. GA8 answered the carried-over proposal in the negative under 8-103, III, 19. The GA8 page 47 copy of the GA7 report is a carry-over reprint, not another action. No Presbytery ratification stage applies to this proposed Rules for Assembly Operations change."
-        anomalies: "missing_event_bundle"
+        anomalies: ""
       -
         record_id: "overture:ga07_1979:7:p30"
         number: 7
@@ -1908,14 +1908,14 @@ assemblies:
         source: "the Presbytery of the Evangel"
         title: "Amend RAO to Require Completion of All Daily Docketed Business Before Adjournment"
         page: "overtures/ga07_1979__o7.md"
-        research_status: "in_progress"
-        next_step: "Continue tracing the action trail; use gap_note to resume the source search."
+        research_status: "complete"
+        next_step: "No overture-level research remains; packet audits and closeout are tracked at GA level."
         disposition: "Answered in the negative"
-        event_count: 0
-        last_action_ga: ""
+        event_count: 5
+        last_action_ga: 8
         search_through_assembly: 8
         gap_note: "GA7’s negative-answer recommendation was ruled out of order with the group requiring a two-thirds vote of all registered commissioners; it was carried to GA8 without enactment. GA8 answered the carried-over GA7 proposal in the negative under 8-103, III, 20. GA8’s page 45 source-text reprint and page 47 report reprint are not separate actions. No Presbytery ratification stage applies to this Rules for Assembly Operations request."
-        anomalies: "missing_event_bundle"
+        anomalies: ""
       -
         record_id: "overture:ga07_1979:8:p36"
         number: 8
@@ -1923,14 +1923,14 @@ assemblies:
         source: "the Presbytery of the Western Carolinas"
         title: "Amend BCO 15-1 to Allow Re-election of Permanent Committee Members to a Second Term"
         page: "overtures/ga07_1979__o8.md"
-        research_status: "in_progress"
-        next_step: "Continue tracing the action trail; use gap_note to resume the source search."
+        research_status: "complete"
+        next_step: "No overture-level research remains; packet audits and closeout are tracked at GA level."
         disposition: "Answered in the negative"
-        event_count: 0
-        last_action_ga: ""
+        event_count: 3
+        last_action_ga: 7
         search_through_assembly: 7
-        gap_note: "The Seventh General Assembly answered this request in the negative. It was not sent to Presbyteries; no later ratification stage applies."
-        anomalies: "missing_event_bundle"
+        gap_note: "The Seventh General Assembly answered the request in the negative under 7-41, III, 13. The proposal was not sent to Presbyteries and has no ratification stage."
+        anomalies: ""
       -
         record_id: "overture:ga07_1979:9:p30"
         number: 9
@@ -1938,14 +1938,14 @@ assemblies:
         source: "the Presbytery of the Western Carolinas Whereas, the office of Moderator of the General As"
         title: "Study Electing a Moderator-in-Nomination and Appointing Skilled Presiding Officers"
         page: "overtures/ga07_1979__o9.md"
-        research_status: "in_progress"
-        next_step: "Continue tracing the action trail; use gap_note to resume the source search."
+        research_status: "complete"
+        next_step: "No overture-level research remains; packet audits and closeout are tracked at GA level."
         disposition: "Answered in the negative"
-        event_count: 0
-        last_action_ga: ""
+        event_count: 3
+        last_action_ga: 7
         search_through_assembly: 7
-        gap_note: "The Assembly answered this overture in the negative. Recommendation 12 explicitly cross-references Overture 6 for Request 1 and Recommendation 7 for Request 2; Overture 6 remains a separate record. This procedural request was not sent to Presbyteries."
-        anomalies: "missing_event_bundle"
+        gap_note: "The Seventh General Assembly answered both requests in the negative under 7-90, Recommendation 12. This procedural overture was not sent to Presbyteries."
+        anomalies: ""
       -
         record_id: "overture:ga07_1979:10:p39"
         number: 10
@@ -1953,14 +1953,14 @@ assemblies:
         source: "the Presbytery of the Western Carolinas Whereas, the Sixth General Assembly of the Presbyt"
         title: "Direct Mission to the World to Reflect Full Costs Including Inflation in Future Budgets"
         page: "overtures/ga07_1979__o10.md"
-        research_status: "in_progress"
-        next_step: "Continue tracing the action trail; use gap_note to resume the source search."
+        research_status: "complete"
+        next_step: "No overture-level research remains; packet audits and closeout are tracked at GA level."
         disposition: "Answered in the negative"
-        event_count: 0
-        last_action_ga: ""
+        event_count: 3
+        last_action_ga: 7
         search_through_assembly: 7
-        gap_note: "The Seventh General Assembly answered this budget request in the negative because the matter was already reflected in Mission to the World’s revised 1979 budget proposal. The same GA7 volume reprints a different Evangel Presbytery Overture 10 to GA6; that is a distinct record."
-        anomalies: "missing_event_bundle"
+        gap_note: "The Seventh General Assembly answered the budget request in the negative under 7-68, III, 15. It was not a constitutional amendment."
+        anomalies: ""
       -
         record_id: "overture:ga07_1979:11:p39"
         number: 11
@@ -1968,14 +1968,14 @@ assemblies:
         source: "the Presbytery of the Western Carolinas"
         title: "Instruct Mission to the World to Stop Charging Interest on Missionary Loans"
         page: "overtures/ga07_1979__o11.md"
-        research_status: "in_progress"
-        next_step: "Continue tracing the action trail; use gap_note to resume the source search."
+        research_status: "complete"
+        next_step: "No overture-level research remains; packet audits and closeout are tracked at GA level."
         disposition: "Answered in the negative"
-        event_count: 0
-        last_action_ga: ""
+        event_count: 3
+        last_action_ga: 7
         search_through_assembly: 7
-        gap_note: "The Assembly adopted the negative answer. Seven commissioners requested that their negative votes be recorded. No constitutional ratification stage applies. The separate GA7 catalogue entry at PDF p. 51 is not this proposal: it reprints McIlwain Memorial’s GA1 Overture 11 (source locator 1-10, 2-70), and its negative disposition in the old catalogue row was misassigned from this p. 37 Overture 11; exclude p. 51 and link it to GA1 Overture 11."
-        anomalies: "missing_event_bundle"
+        gap_note: "The Seventh General Assembly answered the request in the negative under 7-68, III, 16. The recorded negative votes are part of that Assembly action."
+        anomalies: ""
       -
         record_id: "overture:ga07_1979:12:p36"
         number: 12
@@ -1983,14 +1983,14 @@ assemblies:
         source: "the Presbytery of the Western Carolinas We herewith overture the General Assembly of the P"
         title: "Amend BCO 11-3 to Allow Election of Presbytery Moderators for Terms Up to One Year"
         page: "overtures/ga07_1979__o12.md"
-        research_status: "in_progress"
-        next_step: "Continue tracing the action trail; use gap_note to resume the source search."
+        research_status: "complete"
+        next_step: "No overture-level research remains; packet audits and closeout are tracked at GA level."
         disposition: "Answered in the negative"
-        event_count: 0
-        last_action_ga: ""
+        event_count: 3
+        last_action_ga: 7
         search_through_assembly: 7
-        gap_note: "The Seventh General Assembly answered the request in the negative; it was not sent to Presbyteries. The same GA7 volume also contains North Georgia Overture 12 to GA5 on divorce and remarriage, a distinct prior-Assembly record."
-        anomalies: "missing_event_bundle"
+        gap_note: "The Seventh General Assembly answered the proposed BCO 11-3 change in the negative under 7-41, III, 14. It was not approved and sent to Presbyteries."
+        anomalies: ""
       -
         record_id: "overture:ga07_1979:13:p31"
         number: 13
@@ -1998,14 +1998,14 @@ assemblies:
         source: "the Presbytery of Covenant"
         title: "Return the General Assembly Meeting Schedule to Monday Through Friday"
         page: "overtures/ga07_1979__o13.md"
-        research_status: "in_progress"
-        next_step: "Continue tracing the action trail; use gap_note to resume the source search."
+        research_status: "complete"
+        next_step: "No overture-level research remains; packet audits and closeout are tracked at GA level."
         disposition: "Answered in the negative"
-        event_count: 0
-        last_action_ga: ""
+        event_count: 3
+        last_action_ga: 7
         search_through_assembly: 7
-        gap_note: "The Seventh General Assembly answered the scheduling request in the negative. This was not a constitutional amendment sent to Presbyteries."
-        anomalies: "missing_event_bundle"
+        gap_note: "The Seventh General Assembly answered the request in the negative under 7-90, Recommendation 13. This Assembly-schedule request has no Presbytery ratification stage."
+        anomalies: ""
       -
         record_id: "overture:ga07_1979:14:p31"
         number: 14
@@ -2013,14 +2013,14 @@ assemblies:
         source: "the Presbytery of Covenant Whereas, The PCA Messenger reported a meeting of \"leaders of th"
         title: "Declare Displeasure at Unofficial Leadership Meetings and Forbid Future Such Gatherings"
         page: "overtures/ga07_1979__o14.md"
-        research_status: "in_progress"
-        next_step: "Continue tracing the action trail; use gap_note to resume the source search."
+        research_status: "complete"
+        next_step: "No overture-level research remains; packet audits and closeout are tracked at GA level."
         disposition: "Answered in the negative"
-        event_count: 0
-        last_action_ga: ""
+        event_count: 5
+        last_action_ga: 8
         search_through_assembly: 8
         gap_note: "GA7 adopted a negative answer, and GA8 later recorded another negative answer to this GA7 Overture 14 under 8-88, III, 16. The adjacent GA8 Recommendation 17 concerns a different Overture 14 from Westminster Session and remains a distinct record. This request was not sent to Presbyteries."
-        anomalies: "missing_event_bundle"
+        anomalies: ""
       -
         record_id: "overture:ga07_1979:15:p35"
         number: 15
@@ -2028,29 +2028,29 @@ assemblies:
         source: "the Presbytery of North Georgia"
         title: "Revise the Assembly's Statement on Abortion to Acknowledge a Possible Life-of-Mother Exception"
         page: "overtures/ga07_1979__o15.md"
-        research_status: "in_progress"
-        next_step: "Continue tracing the action trail; use gap_note to resume the source search."
+        research_status: "complete"
+        next_step: "No overture-level research remains; packet audits and closeout are tracked at GA level."
         disposition: "Adopted (final)"
-        event_count: 0
-        last_action_ga: ""
+        event_count: 7
+        last_action_ga: 7
         search_through_assembly: 8
-        gap_note: "GA7 adopted the amended statement, then adopted a floor amendment adding an instruction to make every effort to preserve both lives. At GA8, distinct Overture 12 expressly framed its action as clarifying GA7 and reaffirming the Sixth GA statement; its full action trail is linked separately. GA8 Overture 7’s request to rescind the GA7 amendment was answered by reference to Overture 12. No constitutional ratification stage applies."
-        anomalies: "missing_event_bundle"
+        gap_note: "GA7 answered this distinct overture through the shared amended statement in 7-37, III, Recommendation 3, and adopted a later floor amendment. GA8 Overture 12 is a separate clarification/reaffirmation proposal; GA8 Overture 7 is a separate rescission request. Their actions remain in those records. This statement action has no constitutional Presbytery ratification stage."
+        anomalies: ""
       -
         record_id: "overture:ga07_1979:16:p31"
         number: 16
         source_page: 31
-        source: "the Presbytery of North Georgia Whereas, an ecclesiastical body which adopts positions on"
+        source: "the Presbytery of North Georgia"
         title: "Require a Two-Thirds Vote for Assembly Positions on Substantive Moral or Doctrinal Issues"
         page: "overtures/ga07_1979__o16.md"
-        research_status: "in_progress"
-        next_step: "Continue tracing the action trail; use gap_note to resume the source search."
-        disposition: "Referred"
-        event_count: 0
-        last_action_ga: ""
+        research_status: "complete"
+        next_step: "No overture-level research remains; packet audits and closeout are tracked at GA level."
+        disposition: "Referred at GA7; answered in the negative at GA8"
+        event_count: 4
+        last_action_ga: 8
         search_through_assembly: 10
-        gap_note: "The GA8 Assembly adopted a negative answer to the carried-over GA7 proposal. GA8 also contains a distinct Mid-Atlantic Overture 16 about BCO 14-1; the GA8 Judicial Business floor actions on that proposal are not attached here. No constitutional ratification process applies to this Assembly voting-rule request."
-        anomalies: "missing_event_bundle"
+        gap_note: "The GA8 Assembly adopted a negative answer to the carried-over GA7 proposal under 8-103, III, 9. GA7 Recommendation 15 proposed a negative answer and referral to the Permanent Committee on Administration, but the item has no separate adoption marker. GA9–GA10 targeted searches found no further action. GA8's Mid-Atlantic Overture 16 about BCO 14-1 is a distinct record. This voting-rule request has no constitutional ratification process."
+        anomalies: ""
       -
         record_id: "overture:ga07_1979:17:p39"
         number: 17
@@ -2058,14 +2058,14 @@ assemblies:
         source: "Warrior Presbytery Whereas, the Manual For The Mission To The World Committee is to be rev"
         title: "Review the Mission to the World Manual"
         page: "overtures/ga07_1979__o17.md"
-        research_status: "in_progress"
-        next_step: "Continue tracing the action trail; use gap_note to resume the source search."
+        research_status: "complete"
+        next_step: "No overture-level research remains; packet audits and closeout are tracked at GA level."
         disposition: ""
-        event_count: 0
-        last_action_ga: ""
+        event_count: 12
+        last_action_ga: 7
         search_through_assembly: 8
         gap_note: "The source does not attest a separate Warrior Presbytery adoption vote. The Seventh General Assembly adopted separate recommendations on Overture 17.A–F and then approved the Proposed Manual as amended. GA8 minutes contain no located overture-specific continuation. This is a manual and policy action; no constitutional ratification stage applies."
-        anomalies: "missing_event_bundle"
+        anomalies: ""
       -
         record_id: "overture:ga07_1979:18:p35"
         number: 18
@@ -2073,14 +2073,14 @@ assemblies:
         source: "the Presbytery of Eastern Carolina Whereas, we reaffirm our denomination's stand against a"
         title: "Amend the 1978 Abortion Statement to Include a Medical Necessity Exception"
         page: "overtures/ga07_1979__o18.md"
-        research_status: "in_progress"
-        next_step: "Continue tracing the action trail; use gap_note to resume the source search."
+        research_status: "complete"
+        next_step: "No overture-level research remains; packet audits and closeout are tracked at GA level."
         disposition: "Adopted (final)"
-        event_count: 0
-        last_action_ga: ""
+        event_count: 7
+        last_action_ga: 7
         search_through_assembly: 8
-        gap_note: "GA7 answered Overture 18 in a shared amended statement with Overtures 15 and 33. GA8’s distinct Overture 12 expressly clarified the GA7 action and reaffirmed the Sixth GA statement; the same later action is linked without merging the GA8 record. No constitutional ratification stage applies."
-        anomalies: "missing_event_bundle"
+        gap_note: "GA7 answered this distinct overture through the shared amended statement in 7-37, III, Recommendation 3, and adopted a later floor amendment. GA8 Overture 12 is a separate clarification/reaffirmation proposal; GA8 Overture 7 is a separate rescission request. Their actions remain in those records. This statement action has no constitutional Presbytery ratification stage."
+        anomalies: ""
       -
         record_id: "overture:ga07_1979:19:p35"
         number: 19
@@ -2088,14 +2088,14 @@ assemblies:
         source: "the Presbytery of Eastern Carolina"
         title: "Declare Total Abstinence from Alcoholic Beverages the Approved PCA Position"
         page: "overtures/ga07_1979__o19.md"
-        research_status: "in_progress"
-        next_step: "Continue tracing the action trail; use gap_note to resume the source search."
+        research_status: "complete"
+        next_step: "No overture-level research remains; packet audits and closeout are tracked at GA level."
         disposition: "Not received by the Assembly"
-        event_count: 0
-        last_action_ga: ""
+        event_count: 5
+        last_action_ga: 7
         search_through_assembly: 8
-        gap_note: "A pre-Assembly Committee on Judicial Business advice found Overture 19 in order and advised the Clerk to refer it to the Committee of Commissioners on Bills and Overtures. At the Assembly, a later subcommittee recommendation was defeated 132–306 and the Moderator ruled the overture not received. GA8 Overture 11 is a distinct later proposal on this topic."
-        anomalies: "missing_event_bundle"
+        gap_note: "The Committee on Judicial Business found the overture in order and advised referral. At GA7, the subcommittee's recommendation was defeated 132–306, after which the Moderator ruled that the Assembly had refused to receive Overture 19. GA8 Overture 11 is a distinct later proposal on this subject, not a continuation of this record."
+        anomalies: ""
       -
         record_id: "overture:ga07_1979:20:p37"
         number: 20
@@ -2103,14 +2103,14 @@ assemblies:
         source: "the Presbytery of Central Georgia"
         title: "Establish Two-Year Terms for General Assembly Nominating Committee Members"
         page: "overtures/ga07_1979__o20.md"
-        research_status: "in_progress"
-        next_step: "Continue tracing the action trail; use gap_note to resume the source search."
+        research_status: "complete"
+        next_step: "No overture-level research remains; packet audits and closeout are tracked at GA level."
         disposition: "Approved & ratified (1980)"
-        event_count: 0
-        last_action_ga: ""
+        event_count: 5
+        last_action_ga: 8
         search_through_assembly: 8
         gap_note: "GA7 approved the amendment, which the GA8 Clerk confirms was sent to Presbyteries. The reported tally was 21–1 with a 15-vote two-thirds threshold, and GA8 gave the second approval as BCO 15-1-11. The GA8 Overture 4 proposal concerning alternates is distinct."
-        anomalies: "missing_event_bundle"
+        anomalies: ""
       -
         record_id: "overture:ga07_1979:21:p31"
         number: 21
@@ -2118,14 +2118,14 @@ assemblies:
         source: "the Presbytery of the Gulf Coast"
         title: "Study Feasibility of Acquiring a Central Office Building for Assembly Offices"
         page: "overtures/ga07_1979__o21.md"
-        research_status: "in_progress"
-        next_step: "Continue tracing the action trail; use gap_note to resume the source search."
+        research_status: "complete"
+        next_step: "No overture-level research remains; packet audits and closeout are tracked at GA level."
         disposition: "Answered in the negative"
-        event_count: 0
-        last_action_ga: ""
+        event_count: 3
+        last_action_ga: 7
         search_through_assembly: 7
-        gap_note: "The Assembly adopted a negative answer because it was not feasible at that time in the denomination's growth to undertake the study. This was not a constitutional amendment; no presbytery ratification stage applies."
-        anomalies: "missing_event_bundle"
+        gap_note: "The Seventh General Assembly answered the request for a study in the negative under 7-90, Recommendation 16. The stated reason continues onto the following printed page."
+        anomalies: ""
       -
         record_id: "overture:ga07_1979:22:p37"
         number: 22
@@ -2133,14 +2133,14 @@ assemblies:
         source: "the First Presbyterian Church, Louisville, Mississippi"
         title: "Amend BCO 15-1 to Replace Inactive Permanent Committee Members"
         page: "overtures/ga07_1979__o22.md"
-        research_status: "in_progress"
-        next_step: "Continue tracing the action trail; use gap_note to resume the source search."
+        research_status: "complete"
+        next_step: "No overture-level research remains; packet audits and closeout are tracked at GA level."
         disposition: "Approved & ratified (1981)"
-        event_count: 0
-        last_action_ga: ""
+        event_count: 7
+        last_action_ga: 9
         search_through_assembly: 9
         gap_note: "The source notes that Mississippi Valley Presbytery did not adopt the Session proposal; the Committee on Judicial Business nevertheless recommended that it be found properly before the Assembly and answered affirmatively. The Committee of Commissioners later separately recommended an affirmative answer, which GA7 adopted. GA8 initiated a revised BCO 15-1-11 amendment; GA9 reported the threshold and enacted the revised text, with the item-specific tally absent."
-        anomalies: "missing_event_bundle"
+        anomalies: ""
       -
         record_id: "overture:ga07_1979:23:p38"
         number: 23
@@ -2148,14 +2148,14 @@ assemblies:
         source: "the Presbytery of New River"
         title: "Amend BCO 58-5-2 to Affirm Christ as the Eternal Son of God"
         page: "overtures/ga07_1979__o23.md"
-        research_status: "in_progress"
-        next_step: "Continue tracing the action trail; use gap_note to resume the source search."
+        research_status: "complete"
+        next_step: "No overture-level research remains; packet audits and closeout are tracked at GA level."
         disposition: "Answered in the negative"
-        event_count: 0
-        last_action_ga: ""
+        event_count: 4
+        last_action_ga: 7
         search_through_assembly: 7
-        gap_note: "The Assembly answered the proposal in the negative. It was not sent down for constitutional ratification; no ratification stage applies."
-        anomalies: "missing_event_bundle"
+        gap_note: "The Seventh General Assembly answered the BCO 58-5-2 proposal in the negative under 7-41, III, 25. It was not sent to Presbyteries."
+        anomalies: ""
       -
         record_id: "overture:ga07_1979:25:p38"
         number: 25
@@ -2163,14 +2163,14 @@ assemblies:
         source: "Central Georgia Presbytery to the Seventh General Assembly"
         title: "Allow Designated Giving Through Five-in-Five Campaign"
         page: "overtures/ga07_1979__o25.md"
-        research_status: "in_progress"
-        next_step: "Continue tracing the action trail; use gap_note to resume the source search."
+        research_status: "complete"
+        next_step: "No overture-level research remains; packet audits and closeout are tracked at GA level."
         disposition: "Answered by reference"
-        event_count: 0
-        last_action_ga: ""
+        event_count: 3
+        last_action_ga: 7
         search_through_assembly: 7
-        gap_note: "Central Georgia Presbytery adopted the proposal on April 10, 1979. GA7 answered it by reference to the previously enacted GA6 donor-designation policy. The proposal is not a BCO amendment, so no ratification stage applies."
-        anomalies: "missing_event_bundle"
+        gap_note: "Central Georgia Presbytery adopted the proposal on April 10, 1979. GA7 answered it by reference to the previously enacted GA6 donor-designation policy. This is not a BCO amendment."
+        anomalies: ""
       -
         record_id: "overture:ga07_1979:26:p32"
         number: 26
@@ -2193,14 +2193,14 @@ assemblies:
         source: "Grace Presbytery"
         title: "Amend RAO to Strike Paragraph 6-7 and Move Stated Clerk's Advisory Role to Bylaws"
         page: "overtures/ga07_1979__o27.md"
-        research_status: "in_progress"
-        next_step: "Continue tracing the action trail; use gap_note to resume the source search."
+        research_status: "complete"
+        next_step: "No overture-level research remains; packet audits and closeout are tracked at GA level."
         disposition: "Adopted (final)"
-        event_count: 0
-        last_action_ga: ""
+        event_count: 2
+        last_action_ga: 7
         search_through_assembly: 7
-        gap_note: "GA7 adopted an affirmative answer as amended, but the minutes do not identify the amendment. The text following the adoption marker on the printed page is the submitted overture reprinted as context, not amendment wording. The proposal requested a study rather than a BCO amendment, so no ratification stage applies; no distinct Presbytery adoption is attested."
-        anomalies: "missing_event_bundle"
+        gap_note: "GA7 adopted an affirmative answer as amended, but the minutes do not identify the amendment wording. The text following the adoption marker is the submitted overture reprinted as context; this bylaw study proposal has no Presbytery ratification stage. No separate Presbytery adoption is attested."
+        anomalies: ""
       -
         record_id: "overture:ga07_1979:28:p33"
         number: 28
@@ -2208,14 +2208,14 @@ assemblies:
         source: "Grace Presbytery"
         title: "Make the Stated Clerk Advisory Member of the Inter-Church Relations Subcommittee"
         page: "overtures/ga07_1979__o28.md"
-        research_status: "in_progress"
-        next_step: "Continue tracing the action trail; use gap_note to resume the source search."
+        research_status: "complete"
+        next_step: "No overture-level research remains; packet audits and closeout are tracked at GA level."
         disposition: "Carried over through GA9; final action not located"
-        event_count: 0
-        last_action_ga: ""
+        event_count: 4
+        last_action_ga: 8
         search_through_assembly: 52
         gap_note: "GA7 received the Administration report without adopting its affirmative recommendation. GA8 again recommended an affirmative answer and explicitly carried the item to GA9; although the GA8 report as a whole was adopted, item 21 has no separate adoption marker. Searches of GA9–GA52 Markdown minutes found no later action on this proposal, so no final answer is inferred."
-        anomalies: "missing_event_bundle"
+        anomalies: ""
       -
         record_id: "overture:ga07_1979:29:p33"
         number: 29
@@ -2238,14 +2238,14 @@ assemblies:
         source: "Grace Presbytery"
         title: "Amend Bylaws Article IV on Permanent Committees Composition"
         page: "overtures/ga07_1979__o30.md"
-        research_status: "in_progress"
-        next_step: "Continue tracing the action trail; use gap_note to resume the source search."
+        research_status: "complete"
+        next_step: "No overture-level research remains; packet audits and closeout are tracked at GA level."
         disposition: "Adopted (final)"
-        event_count: 0
-        last_action_ga: ""
+        event_count: 2
+        last_action_ga: 7
         search_through_assembly: 7
-        gap_note: "The Assembly adopted the affirmative answer as amended. The amendment is the specified insertion after “one ruling elder”; no constitutional BCO ratification stage applies because this is a PCA Bylaws proposal."
-        anomalies: "missing_event_bundle"
+        gap_note: "The Seventh General Assembly adopted the affirmative answer as amended under 7-90, Recommendation 18. The amendment is the insertion specified in that recommendation; it is a bylaws proposal, not a BCO amendment."
+        anomalies: ""
       -
         record_id: "overture:ga07_1979:31:p34"
         number: 31
@@ -2268,14 +2268,14 @@ assemblies:
         source: "Grace Presbytery"
         title: "Limit the Moderator's Functions to Those Specified in the BCO"
         page: "overtures/ga07_1979__o32.md"
-        research_status: "in_progress"
-        next_step: "Continue tracing the action trail; use gap_note to resume the source search."
+        research_status: "complete"
+        next_step: "No overture-level research remains; packet audits and closeout are tracked at GA level."
         disposition: "Answered in the negative"
-        event_count: 0
-        last_action_ga: ""
+        event_count: 2
+        last_action_ga: 7
         search_through_assembly: 7
-        gap_note: "GA7 adopted a negative answer to Overture 32 together with the related Covenant Presbytery Overture 14. The proposal is not a BCO amendment, so no Presbytery ratification stage applies."
-        anomalies: "missing_event_bundle"
+        gap_note: "GA7 adopted a negative answer to Overture 32 together with the related Covenant Presbytery Overture 14. The proposal is not a BCO amendment, so no Presbytery ratification stage applies; the source does not attest a separate Presbytery adoption."
+        anomalies: ""
       -
         record_id: "overture:ga07_1979:33:p36"
         number: 33
@@ -2283,14 +2283,14 @@ assemblies:
         source: "the Presbytery of Mid-Atlantic"
         title: "Amend the 1978 Abortion Statement to Allow a Life-of-Mother Exception"
         page: "overtures/ga07_1979__o33.md"
-        research_status: "in_progress"
-        next_step: "Continue tracing the action trail; use gap_note to resume the source search."
+        research_status: "complete"
+        next_step: "No overture-level research remains; packet audits and closeout are tracked at GA level."
         disposition: "Adopted (final)"
-        event_count: 0
-        last_action_ga: ""
-        search_through_assembly: 7
-        gap_note: "The Assembly adopted its substitute statement and a floor amendment. For the later formal protest, 7-69 directly records 226–155, while the earlier notice at printed p. 98 gives 266–155; both readings are present in the published minutes and were confirmed in the scans. The proposal amended an Assembly statement, not the BCO, so no Presbytery ratification stage applies."
-        anomalies: "missing_event_bundle"
+        event_count: 7
+        last_action_ga: 7
+        search_through_assembly: 8
+        gap_note: "GA7 answered this distinct overture through the shared amended statement in 7-37, III, Recommendation 3, and adopted a later floor amendment. GA8 Overture 12 is a separate clarification/reaffirmation proposal; GA8 Overture 7 is a separate rescission request. Their actions remain in those records. This statement action has no constitutional Presbytery ratification stage."
+        anomalies: ""
   -
     ga_ordinal: 8
     assembly: "GA8"
@@ -2303,18 +2303,18 @@ assemblies:
     missing_research_rows: 0
     missing_event_bundles: 0
     candidate_passages: 123
-    candidates_reviewed: 122
-    candidates_unreviewed: 1
-    candidate_invalid_links: 1
-    candidate_reviews_orphaned: 2
+    candidates_reviewed: 123
+    candidates_unreviewed: 0
+    candidate_invalid_links: 0
+    candidate_reviews_orphaned: 0
     roster_reconciled: "unverified"
     event_source_audited: "unverified"
     build: "unverified"
     preview_reviewed: "unverified"
     commit_sha: ""
     pushed: "unverified"
-    blocker: "1 candidates unreviewed; 1 invalid candidate links; 2 orphaned candidate reviews; roster_reconciled unverified; event_source_audited unverified; build unverified; preview_reviewed unverified; commit_sha unverified; pushed unverified"
-    next_step: "Review 1 unreviewed candidate passages; resolve 1 invalid links and 2 orphaned reviews."
+    blocker: "roster_reconciled unverified; event_source_audited unverified; build unverified; preview_reviewed unverified; commit_sha unverified; pushed unverified"
+    next_step: "Complete packet closeout: roster_reconciled, event_source_audited, build, preview_reviewed, commit_sha, pushed."
     overtures:
       -
         record_id: "overture:ga08_1980:1:p38"
@@ -2838,18 +2838,18 @@ assemblies:
     missing_research_rows: 0
     missing_event_bundles: 0
     candidate_passages: 117
-    candidates_reviewed: 115
-    candidates_unreviewed: 2
+    candidates_reviewed: 117
+    candidates_unreviewed: 0
     candidate_invalid_links: 0
-    candidate_reviews_orphaned: 2
+    candidate_reviews_orphaned: 0
     roster_reconciled: "unverified"
     event_source_audited: "unverified"
     build: "unverified"
     preview_reviewed: "unverified"
     commit_sha: ""
     pushed: "unverified"
-    blocker: "2 candidates unreviewed; 2 orphaned candidate reviews; roster_reconciled unverified; event_source_audited unverified; build unverified; preview_reviewed unverified; commit_sha unverified; pushed unverified"
-    next_step: "Review 2 unreviewed candidate passages; resolve 0 invalid links and 2 orphaned reviews."
+    blocker: "roster_reconciled unverified; event_source_audited unverified; build unverified; preview_reviewed unverified; commit_sha unverified; pushed unverified"
+    next_step: "Complete packet closeout: roster_reconciled, event_source_audited, build, preview_reviewed, commit_sha, pushed."
     overtures:
       -
         record_id: "overture:ga09_1981:1:p41"
@@ -3649,7 +3649,7 @@ assemblies:
     commit_sha: ""
     pushed: "unverified"
     blocker: "119 candidates unreviewed; roster_reconciled unverified; event_source_audited unverified; build unverified; preview_reviewed unverified; commit_sha unverified; pushed unverified"
-    next_step: "Review 119 unreviewed candidate passages; resolve 0 invalid links and 0 orphaned reviews."
+    next_step: "Review 119 remaining candidate passages."
     overtures:
       -
         record_id: "overture:ga11_1983:1:p43"
@@ -4229,7 +4229,7 @@ assemblies:
     commit_sha: ""
     pushed: "unverified"
     blocker: "198 candidates unreviewed; roster_reconciled unverified; event_source_audited unverified; build unverified; preview_reviewed unverified; commit_sha unverified; pushed unverified"
-    next_step: "Review 198 unreviewed candidate passages; resolve 0 invalid links and 0 orphaned reviews."
+    next_step: "Review 198 remaining candidate passages."
     overtures:
       -
         record_id: "overture:ga12_1984:2:p48"
@@ -7516,15 +7516,15 @@ assemblies:
     candidates_reviewed: 229
     candidates_unreviewed: 0
     candidate_invalid_links: 0
-    candidate_reviews_orphaned: 2
+    candidate_reviews_orphaned: 0
     roster_reconciled: "unverified"
     event_source_audited: "unverified"
     build: "unverified"
     preview_reviewed: "unverified"
     commit_sha: ""
     pushed: "unverified"
-    blocker: "2 orphaned candidate reviews; roster_reconciled unverified; event_source_audited unverified; build unverified; preview_reviewed unverified; commit_sha unverified; pushed unverified"
-    next_step: "Review 0 unreviewed candidate passages; resolve 0 invalid links and 2 orphaned reviews."
+    blocker: "roster_reconciled unverified; event_source_audited unverified; build unverified; preview_reviewed unverified; commit_sha unverified; pushed unverified"
+    next_step: "Complete packet closeout: roster_reconciled, event_source_audited, build, preview_reviewed, commit_sha, pushed."
     overtures:
       -
         record_id: "overture:ga16_1988:1:p46"
@@ -9186,10 +9186,10 @@ assemblies:
     assembly: "GA19"
     status: "in_progress"
     catalogue_records: 42
-    records_complete: 41
+    records_complete: 42
     records_in_progress: 0
     records_not_researched: 0
-    records_source_unavailable: 1
+    records_source_unavailable: 0
     missing_research_rows: 0
     missing_event_bundles: 0
     candidate_passages: 163
@@ -9204,7 +9204,7 @@ assemblies:
     commit_sha: ""
     pushed: "unverified"
     blocker: "29 candidates unreviewed; roster_reconciled unverified; event_source_audited unverified; build unverified; preview_reviewed unverified; commit_sha unverified; pushed unverified"
-    next_step: "Review 29 unreviewed candidate passages; resolve 0 invalid links and 0 orphaned reviews."
+    next_step: "Review 29 remaining candidate passages."
     overtures:
       -
         record_id: "overture:ga19_1991:1:p158"
@@ -9408,13 +9408,13 @@ assemblies:
         source: "OVERTURE 14 From the Presbytery of the Ascension (to B&O) \"Instruct Clerk re: Constitutionality of Appeals\""
         title: "Instruct Clerk Regarding Constitutionality of Appeals"
         page: "overtures/ga19_1991__o14.md"
-        research_status: "source_unavailable"
-        next_step: "Preserve the documented source gap; do not infer missing actions."
+        research_status: "complete"
+        next_step: "No overture-level research remains; packet audits and closeout are tracked at GA level."
         disposition: "Affirmative as amended; Appendix C also prints a negative recommendation"
         event_count: 4
         last_action_ga: 19
         search_through_assembly: 19
-        gap_note: "The GA19 docket identifies Overture 14 by title, referral, and cross-reference, but neither the Markdown minutes nor the reviewed PDF page reproduces its proposal body. The Committee of Commissioners recommendation and Assembly adoption are transcribed from the Markdown minutes; Appendix C recommendation 39 is a separate negative recommendation routed by adopted 19-61, III, 45. The action trail is sourced; the original proposal text remains unavailable."
+        gap_note: "The original proposal text is not reproduced in the GA19 docket or its reviewed PDF page, and no separate copy was located. The GA19 action trail is fully sourced: the B&O commissioners recommended an affirmative answer as amended; the Assembly adopted it; Appendix C’s separate negative recommendation was routed through the Assembly’s adopted disposition. Do not infer the missing original wording."
         anomalies: ""
       -
         record_id: "overture:ga19_1991:15:p118"
@@ -9859,7 +9859,7 @@ assemblies:
     commit_sha: ""
     pushed: "unverified"
     blocker: "27 candidates unreviewed; roster_reconciled unverified; event_source_audited unverified; build unverified; preview_reviewed unverified; commit_sha unverified; pushed unverified"
-    next_step: "Review 27 unreviewed candidate passages; resolve 0 invalid links and 0 orphaned reviews."
+    next_step: "Review 27 remaining candidate passages."
     overtures:
       -
         record_id: "overture:ga20_1992:3:p101"
@@ -10809,7 +10809,7 @@ assemblies:
     commit_sha: ""
     pushed: "unverified"
     blocker: "144 candidates unreviewed; roster_reconciled unverified; event_source_audited unverified; build unverified; preview_reviewed unverified; commit_sha unverified; pushed unverified"
-    next_step: "Review 144 unreviewed candidate passages; resolve 0 invalid links and 0 orphaned reviews."
+    next_step: "Review 144 remaining candidate passages."
     overtures:
       -
         record_id: "overture:ga22_1994:1:p323"
@@ -11033,8 +11033,8 @@ assemblies:
     missing_research_rows: 0
     missing_event_bundles: 0
     candidate_passages: 126
-    candidates_reviewed: 42
-    candidates_unreviewed: 84
+    candidates_reviewed: 126
+    candidates_unreviewed: 0
     candidate_invalid_links: 0
     candidate_reviews_orphaned: 0
     roster_reconciled: "unverified"
@@ -11043,8 +11043,8 @@ assemblies:
     preview_reviewed: "unverified"
     commit_sha: ""
     pushed: "unverified"
-    blocker: "84 candidates unreviewed; roster_reconciled unverified; event_source_audited unverified; build unverified; preview_reviewed unverified; commit_sha unverified; pushed unverified"
-    next_step: "Review 84 unreviewed candidate passages; resolve 0 invalid links and 0 orphaned reviews."
+    blocker: "roster_reconciled unverified; event_source_audited unverified; build unverified; preview_reviewed unverified; commit_sha unverified; pushed unverified"
+    next_step: "Complete packet closeout: roster_reconciled, event_source_audited, build, preview_reviewed, commit_sha, pushed."
     overtures:
       -
         record_id: "overture:ga23_1995:1:p417"
@@ -11146,7 +11146,7 @@ assemblies:
         research_status: "complete"
         next_step: "No overture-level research remains; packet audits and closeout are tracked at GA level."
         disposition: "The Assembly adopted the recommendation as amended, requesting discussion and sending examples to Presbyteries; it did not send a BCO amendment for advice and consent."
-        event_count: 4
+        event_count: 5
         last_action_ga: 23
         search_through_assembly: 23
         gap_note: "Overture 7’s action sends examples to Presbyteries for consideration and possible future overtures; the minutes do not send a constitutional amendment down for advice and consent."
@@ -11161,7 +11161,7 @@ assemblies:
         research_status: "complete"
         next_step: "No overture-level research remains; packet audits and closeout are tracked at GA level."
         disposition: ""
-        event_count: 4
+        event_count: 5
         last_action_ga: 23
         search_through_assembly: 23
         gap_note: ""
@@ -11266,7 +11266,7 @@ assemblies:
         research_status: "complete"
         next_step: "No overture-level research remains; packet audits and closeout are tracked at GA level."
         disposition: ""
-        event_count: 4
+        event_count: 5
         last_action_ga: 23
         search_through_assembly: 23
         gap_note: "The CCB advised that the proposed amendment conflicted with the Constitution as written, while describing a non-conflicting alternative. The Assembly answered the overture in the negative."
@@ -11281,7 +11281,7 @@ assemblies:
         research_status: "complete"
         next_step: "No overture-level research remains; packet audits and closeout are tracked at GA level."
         disposition: "Returned to Presbytery for perfection"
-        event_count: 4
+        event_count: 5
         last_action_ga: 23
         search_through_assembly: 23
         gap_note: "No originating Presbytery adoption attestation was located in the reviewed GA23 passage."
@@ -11311,7 +11311,7 @@ assemblies:
         research_status: "complete"
         next_step: "No overture-level research remains; packet audits and closeout are tracked at GA level."
         disposition: "Answered by reference to Overture 7"
-        event_count: 3
+        event_count: 4
         last_action_ga: 23
         search_through_assembly: 23
         gap_note: "No originating Presbytery adoption attestation was located in the reviewed GA23 passage."
@@ -11341,7 +11341,7 @@ assemblies:
         research_status: "complete"
         next_step: "No overture-level research remains; packet audits and closeout are tracked at GA level."
         disposition: "Answered by reference to Overture 17"
-        event_count: 3
+        event_count: 4
         last_action_ga: 23
         search_through_assembly: 23
         gap_note: "The minutes passage identifies the proposal from Covenant PCA Session but contains no session adoption attestation."
@@ -14249,7 +14249,7 @@ assemblies:
     commit_sha: ""
     pushed: "unverified"
     blocker: "10 candidates unreviewed; roster_reconciled unverified; event_source_audited unverified; build unverified; preview_reviewed unverified; commit_sha unverified; pushed unverified"
-    next_step: ""
+    next_step: "Review 10 remaining candidate passages."
     overtures:
       -
         record_id: "overture:ga30_2002:1:p246"
@@ -14799,7 +14799,7 @@ assemblies:
     commit_sha: ""
     pushed: "unverified"
     blocker: "2 candidates unreviewed; roster_reconciled unverified; event_source_audited unverified; build unverified; preview_reviewed unverified; commit_sha unverified; pushed unverified"
-    next_step: ""
+    next_step: "Review 2 remaining candidate passages."
     overtures:
       -
         record_id: "overture:ga31_2003:1:p197"
@@ -15244,7 +15244,7 @@ assemblies:
     commit_sha: ""
     pushed: "unverified"
     blocker: "roster_reconciled unverified; event_source_audited unverified; build unverified; preview_reviewed unverified; commit_sha unverified; pushed unverified"
-    next_step: ""
+    next_step: "Complete packet closeout: roster_reconciled, event_source_audited, build, preview_reviewed, commit_sha, pushed."
     overtures:
       -
         record_id: "overture:ga32_2004:1:p155"
@@ -15509,7 +15509,7 @@ assemblies:
     commit_sha: ""
     pushed: "unverified"
     blocker: "roster_reconciled unverified; event_source_audited unverified; build unverified; preview_reviewed unverified; commit_sha unverified; pushed unverified"
-    next_step: ""
+    next_step: "Complete packet closeout: roster_reconciled, event_source_audited, build, preview_reviewed, commit_sha, pushed."
     overtures:
       -
         record_id: "overture:ga33_2005:1:p196"
@@ -15759,7 +15759,7 @@ assemblies:
     commit_sha: ""
     pushed: "unverified"
     blocker: "3 candidates unreviewed; roster_reconciled unverified; event_source_audited unverified; build unverified; preview_reviewed unverified; commit_sha unverified; pushed unverified"
-    next_step: ""
+    next_step: "Review 3 remaining candidate passages."
     overtures:
       -
         record_id: "overture:ga34_2006:1:p179"
@@ -16174,7 +16174,7 @@ assemblies:
     commit_sha: ""
     pushed: "unverified"
     blocker: "1 candidates unreviewed; roster_reconciled unverified; event_source_audited unverified; build unverified; preview_reviewed unverified; commit_sha unverified; pushed unverified"
-    next_step: ""
+    next_step: "Review 1 remaining candidate passages."
     overtures:
       -
         record_id: "overture:ga35_2007:1:p149"
@@ -16499,7 +16499,7 @@ assemblies:
     commit_sha: ""
     pushed: "unverified"
     blocker: "3 candidates unreviewed; roster_reconciled unverified; event_source_audited unverified; build unverified; preview_reviewed unverified; commit_sha unverified; pushed unverified"
-    next_step: ""
+    next_step: "Review 3 remaining candidate passages."
     overtures:
       -
         record_id: "overture:ga36_2008:1:p284"
@@ -16824,7 +16824,7 @@ assemblies:
     commit_sha: ""
     pushed: "unverified"
     blocker: "roster_reconciled unverified; event_source_audited unverified; build unverified; preview_reviewed unverified; commit_sha unverified; pushed unverified"
-    next_step: ""
+    next_step: "Complete packet closeout: roster_reconciled, event_source_audited, build, preview_reviewed, commit_sha, pushed."
     overtures:
       -
         record_id: "overture:ga37_2009:1:p263"
@@ -17179,7 +17179,7 @@ assemblies:
     commit_sha: ""
     pushed: "unverified"
     blocker: "1 candidates unreviewed; roster_reconciled unverified; event_source_audited unverified; build unverified; preview_reviewed unverified; commit_sha unverified; pushed unverified"
-    next_step: ""
+    next_step: "Review 1 remaining candidate passages."
     overtures:
       -
         record_id: "overture:ga38_2010:1:p284"
@@ -17609,7 +17609,7 @@ assemblies:
     commit_sha: ""
     pushed: "unverified"
     blocker: "roster_reconciled unverified; event_source_audited unverified; build unverified; preview_reviewed unverified; commit_sha unverified; pushed unverified"
-    next_step: ""
+    next_step: "Complete packet closeout: roster_reconciled, event_source_audited, build, preview_reviewed, commit_sha, pushed."
     overtures:
       -
         record_id: "overture:ga39_2011:1:p611"
@@ -17859,7 +17859,7 @@ assemblies:
     commit_sha: ""
     pushed: "unverified"
     blocker: "roster_reconciled unverified; event_source_audited unverified; build unverified; preview_reviewed unverified; commit_sha unverified; pushed unverified"
-    next_step: ""
+    next_step: "Complete packet closeout: roster_reconciled, event_source_audited, build, preview_reviewed, commit_sha, pushed."
     overtures:
       -
         record_id: "overture:ga40_2012:1:p684"
@@ -18556,8 +18556,8 @@ assemblies:
     assembly: "GA41"
     status: "in_progress"
     catalogue_records: 23
-    records_complete: 20
-    records_in_progress: 3
+    records_complete: 23
+    records_in_progress: 0
     records_not_researched: 0
     records_source_unavailable: 0
     missing_research_rows: 0
@@ -18573,8 +18573,8 @@ assemblies:
     preview_reviewed: "unverified"
     commit_sha: ""
     pushed: "unverified"
-    blocker: "3 records in progress; roster_reconciled unverified; event_source_audited unverified; build unverified; preview_reviewed unverified; commit_sha unverified; pushed unverified"
-    next_step: ""
+    blocker: "roster_reconciled unverified; event_source_audited unverified; build unverified; preview_reviewed unverified; commit_sha unverified; pushed unverified"
+    next_step: "Complete packet closeout: roster_reconciled, event_source_audited, build, preview_reviewed, commit_sha, pushed."
     overtures:
       -
         record_id: "overture:ga41_2013:1:p815"
@@ -18868,13 +18868,13 @@ assemblies:
         source: "Gulf Coast Presbytery (to SJC [BCO 15-4, “Assume Original Jurisdiction per BCO 34-1 and Di"
         title: "Assume Original Jurisdiction per BCO 34-1 and Direct SJC to Hear Pacific Northwest Presbytery vs. Peter Leithart"
         page: "overtures/ga41_2013__o20.md"
-        research_status: "in_progress"
-        next_step: "Continue tracing the action trail; use gap_note to resume the source search."
+        research_status: "complete"
+        next_step: "No overture-level research remains; packet audits and closeout are tracked at GA level."
         disposition: ""
         event_count: 4
         last_action_ga: 42
         search_through_assembly: 53
-        gap_note: "The GA42 SJC response recommends a negative answer. The GA42 journal records presentation of the SJC report (42-23, printed p. 31) but no Assembly disposition of these overtures. GA43–GA53 Markdown minutes were searched for the proposal, the three originating Presbyteries, and the Leithart reference; no later action was located. Whether the SJC response itself completed the referred matter is not established in the located minutes."
+        gap_note: "The GA42 SJC response recommends a negative answer. GA42 item 42-23 records presentation of the report, but no separate Assembly disposition of the answer to these overtures is located. GA43–GA53 Markdown minutes were searched for the proposal, originating Presbyteries, and Leithart reference; no later action was located. The minutes do not establish whether the SJC response completed the referred matter."
         anomalies: ""
       -
         record_id: "overture:ga41_2013:21:p867"
@@ -18883,13 +18883,13 @@ assemblies:
         source: "Calvary Presbytery “Assume Original Jurisdiction per BCO 34-1 and Direct the Standing Judi"
         title: "Assume Original Jurisdiction per BCO 34-1 and Direct SJC to Hear Pacific Northwest Presbytery vs. Peter Leithart"
         page: "overtures/ga41_2013__o21.md"
-        research_status: "in_progress"
-        next_step: "Continue tracing the action trail; use gap_note to resume the source search."
+        research_status: "complete"
+        next_step: "No overture-level research remains; packet audits and closeout are tracked at GA level."
         disposition: ""
         event_count: 4
         last_action_ga: 42
         search_through_assembly: 53
-        gap_note: "The GA42 SJC response recommends a negative answer. The GA42 journal records presentation of the SJC report (42-23, printed p. 31) but no Assembly disposition of these overtures. GA43–GA53 Markdown minutes were searched for the proposal, the three originating Presbyteries, and the Leithart reference; no later action was located. Whether the SJC response itself completed the referred matter is not established in the located minutes."
+        gap_note: "The GA42 SJC response recommends a negative answer. GA42 item 42-23 records presentation of the report, but no separate Assembly disposition of the answer to these overtures is located. GA43–GA53 Markdown minutes were searched for the proposal, originating Presbyteries, and Leithart reference; no later action was located. The minutes do not establish whether the SJC response completed the referred matter."
         anomalies: ""
       -
         record_id: "overture:ga41_2013:22:p869"
@@ -18898,13 +18898,13 @@ assemblies:
         source: "Mississippi Valley Presbytery (to SJC [BCO 15-4, “Assume Original Jurisdiction per BCO 34-"
         title: "Assume Original Jurisdiction per BCO 34-1 and Direct SJC to Hear Pacific Northwest Presbytery vs. Peter Leithart"
         page: "overtures/ga41_2013__o22.md"
-        research_status: "in_progress"
-        next_step: "Continue tracing the action trail; use gap_note to resume the source search."
+        research_status: "complete"
+        next_step: "No overture-level research remains; packet audits and closeout are tracked at GA level."
         disposition: ""
         event_count: 4
         last_action_ga: 42
         search_through_assembly: 53
-        gap_note: "The GA42 SJC response recommends a negative answer. The GA42 journal records presentation of the SJC report (42-23, printed p. 31) but no Assembly disposition of these overtures. GA43–GA53 Markdown minutes were searched for the proposal, the three originating Presbyteries, and the Leithart reference; no later action was located. Whether the SJC response itself completed the referred matter is not established in the located minutes."
+        gap_note: "The GA42 SJC response recommends a negative answer. GA42 item 42-23 records presentation of the report, but no separate Assembly disposition of the answer to these overtures is located. GA43–GA53 Markdown minutes were searched for the proposal, originating Presbyteries, and Leithart reference; no later action was located. The minutes do not establish whether the SJC response completed the referred matter."
         anomalies: ""
       -
         record_id: "overture:ga41_2013:23:p872"
@@ -18926,8 +18926,8 @@ assemblies:
     assembly: "GA42"
     status: "in_progress"
     catalogue_records: 55
-    records_complete: 54
-    records_in_progress: 1
+    records_complete: 55
+    records_in_progress: 0
     records_not_researched: 0
     records_source_unavailable: 0
     missing_research_rows: 0
@@ -18943,8 +18943,8 @@ assemblies:
     preview_reviewed: "unverified"
     commit_sha: ""
     pushed: "unverified"
-    blocker: "1 records in progress; 3 candidates unreviewed; roster_reconciled unverified; event_source_audited unverified; build unverified; preview_reviewed unverified; commit_sha unverified; pushed unverified"
-    next_step: ""
+    blocker: "3 candidates unreviewed; roster_reconciled unverified; event_source_audited unverified; build unverified; preview_reviewed unverified; commit_sha unverified; pushed unverified"
+    next_step: "Review 3 remaining candidate passages."
     overtures:
       -
         record_id: "overture:ga42_2014:1:p788"
@@ -19763,13 +19763,13 @@ assemblies:
         source: "Southeast Alabama Presbytery (to AC) “Seal/Logo for PCA” Whereas, Christ has given the key"
         title: "Adopt an Official Seal & Logo for the PCA"
         page: "overtures/ga42_2014__o52.md"
-        research_status: "in_progress"
-        next_step: "Continue tracing the action trail; use gap_note to resume the source search."
+        research_status: "complete"
+        next_step: "No overture-level research remains; packet audits and closeout are tracked at GA level."
         disposition: ""
         event_count: 4
         last_action_ga: 42
         search_through_assembly: 52
-        gap_note: "GA42 directed the PCA Historical Center subcommittee to consider the Southeast Alabama seal/logo and report to GA43. GA43 CoC recommendation 34 continued the general PCA-logo project but did not document consideration of the Southeast Alabama proposal. GA44 later selected a PCA logo, without identifying Overture 52 or the Southeast Alabama seal. No Overture 52-specific response was found through GA52; the requested consideration/report remains unverified."
+        gap_note: "No later Overture 52-specific report or Assembly response was located through GA52 after searching the GA43–GA52 Markdown minutes. GA43 continued the general PCA-logo assignment, and GA44 later considered logo options, but neither record identifies Overture 52 or documents consideration of the Southeast Alabama design. Preserve the report requested by GA42 as unverified; do not infer that the general logo project answered this overture."
         anomalies: ""
   -
     ga_ordinal: 43
@@ -19794,7 +19794,7 @@ assemblies:
     commit_sha: ""
     pushed: "unverified"
     blocker: "roster_reconciled unverified; event_source_audited unverified; build unverified; preview_reviewed unverified; commit_sha unverified; pushed unverified"
-    next_step: ""
+    next_step: "Complete packet closeout: roster_reconciled, event_source_audited, build, preview_reviewed, commit_sha, pushed."
     overtures:
       -
         record_id: "overture:ga43_2015:1:p598"
@@ -19951,8 +19951,8 @@ assemblies:
     assembly: "GA44"
     status: "in_progress"
     catalogue_records: 63
-    records_complete: 61
-    records_in_progress: 2
+    records_complete: 63
+    records_in_progress: 0
     records_not_researched: 0
     records_source_unavailable: 0
     missing_research_rows: 0
@@ -19968,8 +19968,8 @@ assemblies:
     preview_reviewed: "unverified"
     commit_sha: ""
     pushed: "unverified"
-    blocker: "2 records in progress; roster_reconciled unverified; event_source_audited unverified; build unverified; preview_reviewed unverified; commit_sha unverified; pushed unverified"
-    next_step: ""
+    blocker: "roster_reconciled unverified; event_source_audited unverified; build unverified; preview_reviewed unverified; commit_sha unverified; pushed unverified"
+    next_step: "Complete packet closeout: roster_reconciled, event_source_audited, build, preview_reviewed, commit_sha, pushed."
     overtures:
       -
         record_id: "overture:ga44_2016:1:p572"
@@ -20548,13 +20548,13 @@ assemblies:
         source: "Pacific Northwest Presbytery (to CCB, OC)"
         title: "Amend BCO 38-1 and 42-2 to Allow Appeal in Cases Without Process"
         page: "overtures/ga44_2016__o39.md"
-        research_status: "in_progress"
-        next_step: "Continue tracing the action trail; use gap_note to resume the source search."
+        research_status: "complete"
+        next_step: "No overture-level research remains; packet audits and closeout are tracked at GA level."
         disposition: "Answered in the negative"
-        event_count: 4
+        event_count: 5
         last_action_ga: 44
         search_through_assembly: 44
-        gap_note: "CCB Appendix O item H is headed Overture 39 but its body names Overture 37; advice is not joined to Overture 39 pending source resolution."
+        gap_note: "CCB Appendix O item H is headed Overture 39, but its opinion text names Overture 37. The GA44 PDF confirms the Markdown wording. Preserve the source discrepancy without assigning the opinion to Overture 39 or 37 by inference. GA44 Recommendation 14 was adopted answering Overture 39 negatively, so the overture action is terminal; no presbytery ratification applies."
         anomalies: ""
       -
         record_id: "overture:ga44_2016:40:p643"
@@ -20563,13 +20563,13 @@ assemblies:
         source: "Pacific Northwest Presbytery (to CCB, OC)"
         title: "Amend BCO 43-1 to Clarify Timing of Higher Court Complaint Review"
         page: "overtures/ga44_2016__o40.md"
-        research_status: "in_progress"
-        next_step: "Continue tracing the action trail; use gap_note to resume the source search."
+        research_status: "complete"
+        next_step: "No overture-level research remains; packet audits and closeout are tracked at GA level."
         disposition: "Answered in the negative"
         event_count: 5
         last_action_ga: 44
         search_through_assembly: 44
-        gap_note: "CCB Appendix O item I names Overture 40 in the heading and its substantive clause but begins by attributing the conflict finding to Overture 38. The quoted passage is displayed on the O40 trail with this source inconsistency disclosed; exact intended attribution remains unresolved."
+        gap_note: "CCB Appendix O item I is headed Overture 40 and its substantive sentence names Overture 40, but its opening opinion names Overture 38. The GA44 PDF confirms the Markdown wording. Preserve the source discrepancy without inferring the intended reference. The Assembly defeated Recommendation 15 and the proposed BCO 43-1 amendment, so no presbytery ratification applies."
         anomalies: ""
       -
         record_id: "overture:ga44_2016:41:p644"
@@ -20939,7 +20939,7 @@ assemblies:
     commit_sha: ""
     pushed: "unverified"
     blocker: "16 candidates unreviewed; roster_reconciled unverified; event_source_audited unverified; build unverified; preview_reviewed unverified; commit_sha unverified; pushed unverified"
-    next_step: ""
+    next_step: "Review 16 remaining candidate passages."
     overtures:
       -
         record_id: "overture:ga45_2017:1:p647"
@@ -21339,7 +21339,7 @@ assemblies:
     commit_sha: ""
     pushed: "unverified"
     blocker: "217 candidates unreviewed; roster_reconciled unverified; event_source_audited unverified; build unverified; preview_reviewed unverified; commit_sha unverified; pushed unverified"
-    next_step: ""
+    next_step: "Review 217 remaining candidate passages."
     overtures:
       -
         record_id: "overture:ga46_2018:1:p671"
@@ -21938,8 +21938,8 @@ assemblies:
     missing_research_rows: 0
     missing_event_bundles: 0
     candidate_passages: 322
-    candidates_reviewed: 310
-    candidates_unreviewed: 12
+    candidates_reviewed: 322
+    candidates_unreviewed: 0
     candidate_invalid_links: 0
     candidate_reviews_orphaned: 0
     roster_reconciled: "unverified"
@@ -21948,8 +21948,8 @@ assemblies:
     preview_reviewed: "unverified"
     commit_sha: ""
     pushed: "unverified"
-    blocker: "12 candidates unreviewed; roster_reconciled unverified; event_source_audited unverified; build unverified; preview_reviewed unverified; commit_sha unverified; pushed unverified"
-    next_step: ""
+    blocker: "roster_reconciled unverified; event_source_audited unverified; build unverified; preview_reviewed unverified; commit_sha unverified; pushed unverified"
+    next_step: "Complete packet closeout: roster_reconciled, event_source_audited, build, preview_reviewed, commit_sha, pushed."
     overtures:
       -
         record_id: "overture:ga47_2019:1:p583"
@@ -22668,8 +22668,8 @@ assemblies:
     missing_research_rows: 0
     missing_event_bundles: 0
     candidate_passages: 324
-    candidates_reviewed: 305
-    candidates_unreviewed: 19
+    candidates_reviewed: 324
+    candidates_unreviewed: 0
     candidate_invalid_links: 0
     candidate_reviews_orphaned: 0
     roster_reconciled: "unverified"
@@ -22678,8 +22678,8 @@ assemblies:
     preview_reviewed: "unverified"
     commit_sha: ""
     pushed: "unverified"
-    blocker: "19 candidates unreviewed; roster_reconciled unverified; event_source_audited unverified; build unverified; preview_reviewed unverified; commit_sha unverified; pushed unverified"
-    next_step: ""
+    blocker: "roster_reconciled unverified; event_source_audited unverified; build unverified; preview_reviewed unverified; commit_sha unverified; pushed unverified"
+    next_step: "Complete packet closeout: roster_reconciled, event_source_audited, build, preview_reviewed, commit_sha, pushed."
     overtures:
       -
         record_id: "overture:ga48_2021:1:p966"
@@ -23406,8 +23406,8 @@ assemblies:
     assembly: "GA49"
     status: "in_progress"
     catalogue_records: 41
-    records_complete: 39
-    records_in_progress: 2
+    records_complete: 40
+    records_in_progress: 1
     records_not_researched: 0
     records_source_unavailable: 0
     missing_research_rows: 0
@@ -23423,8 +23423,8 @@ assemblies:
     preview_reviewed: "unverified"
     commit_sha: ""
     pushed: "unverified"
-    blocker: "2 records in progress; 11 candidates unreviewed; roster_reconciled unverified; event_source_audited unverified; build unverified; preview_reviewed unverified; commit_sha unverified; pushed unverified"
-    next_step: ""
+    blocker: "1 records in progress; 11 candidates unreviewed; roster_reconciled unverified; event_source_audited unverified; build unverified; preview_reviewed unverified; commit_sha unverified; pushed unverified"
+    next_step: "Complete source trails for 1 overture records; then document evidence-based source gaps."
     overtures:
       -
         record_id: "overture:ga49_2022:1:p1303"
@@ -23778,13 +23778,13 @@ assemblies:
         source: "Houston Metro Presbytery (to CCB, OC)"
         title: "Amend BCO 15-1 and 15-3 to Clarify Role of Presbytery Commission"
         page: "overtures/ga49_2022__o25.md"
-        research_status: "in_progress"
-        next_step: "Continue tracing the action trail; use gap_note to resume the source search."
+        research_status: "complete"
+        next_step: "No overture-level research remains; packet audits and closeout are tracked at GA level."
         disposition: "Approved & ratified (2023)"
         event_count: 8
         last_action_ga: 51
         search_through_assembly: 51
-        gap_note: "GA50 journal 50-11 says ten amendments had met the two-thirds threshold and records final approval of Item 3, BCO 15-1 and 15-3. The same volume’s Appendix A Item 3 tally prints 56 for, 12 against, with 68 reporting and a threshold of 59. The official GA50 PDF confirms both passages. GA51 later prints an updated 68-12 tally with 80 reporting, but no later Assembly final-approval action for this GA49 amendment has been located. Preserve the conflict; the minutes do not explain whether the GA50 tally is stale/incorrect or how final approval related to the later tally."
+        gap_note: "Complete through GA51. GA50 Journal 50-11 records GA50 final approval of Item 3 (BCO 15-1 and 15-3) in gross. GA50 Appendix A prints a contradictory 56-12 tally despite listing 59 as the required affirmative threshold. GA51 Appendix A later reports the updated same-item tally as 68-12, with 80 presbyteries reporting, which exceeds the threshold. Preserve the GA50 appendix discrepancy; do not silently correct it. No later Assembly action was located or required after GA50 final approval."
         anomalies: ""
       -
         record_id: "overture:ga49_2022:26:p1354"
@@ -24064,7 +24064,7 @@ assemblies:
     commit_sha: ""
     pushed: "unverified"
     blocker: "2 records in progress; 332 candidates unreviewed; roster_reconciled unverified; event_source_audited unverified; build unverified; preview_reviewed unverified; commit_sha unverified; pushed unverified"
-    next_step: ""
+    next_step: "Complete source trails for 2 overture records; then document evidence-based source gaps."
     overtures:
       -
         record_id: "overture:ga50_2023:1:p975"
@@ -24094,7 +24094,7 @@ assemblies:
         event_count: 7
         last_action_ga: 51
         search_through_assembly: 53
-        gap_note: "The 51st Assembly directed IRC members to attend the next ICRC meeting in 2026 and return with a recommendation. The GA53 Stated Clerk summary does not report an Overture 2 or ICRC follow-up, and GA53 minutes are not yet linked from the official archive index. Check the GA53 minutes when available for the 2026 report and any resulting Assembly action."
+        gap_note: "The ICRC official site schedules its 2026 conference in Incheon for October 14-21, 2026. As of October 13 the meeting has not occurred, so PCA IRC attendance and the promised report/recommendation remain unverified. After the meeting, search for the delegation report and subsequent Assembly action; GA53 minutes are not available in the official archive index or this repository."
         anomalies: ""
       -
         record_id: "overture:ga50_2023:3:p977"
@@ -24364,7 +24364,7 @@ assemblies:
         event_count: 4
         last_action_ga: 52
         search_through_assembly: 53
-        gap_note: "GA52 reports that the Handbook updates were initiated and ongoing. The official GA53 Stated Clerk summary does not report progress on Overture 20, and formal GA53 minutes are not yet listed in the Historical Center archive; completion of the requested records-management findings and Handbook changes remains unverified."
+        gap_note: "GA52 reports that the AC had initiated and was continuing the Handbook update. The current PCAAC resources page still links a Clerk of Session Handbook updated 12/22; it directs clerks to keep minutes in a bound or lock-type journal (printed p. 8 / PDF p. 11) and does not document the requested electronic-record/signature guidance. The 2026 Presbytery Clerks Handbook permits digital copies for presbytery records submitted for review, which does not establish a Session-records policy change. The GA53 Stated Clerk summary does not report completion, and the official archive still does not provide GA53 minutes. Verify the exact GA53 action and any final Handbook findings against those minutes when available; leave this trail in progress. Rechecked the live PCAAC resource page on 2026-10-13; it still links the 12/22 edition and lists no newer session-handbook edition. The live PCAAC resources page also lists separate presbytery clerk guidance and a Session Records handout marked 11/18; neither establishes the requested electronic Session records policy. Keep GA53 disposition and any completed findings open until the primary minutes or a direct AC report supplies them."
         anomalies: ""
       -
         record_id: "overture:ga50_2023:21:p1024"
@@ -25056,8 +25056,8 @@ assemblies:
     assembly: "GA52"
     status: "in_progress"
     catalogue_records: 50
-    records_complete: 30
-    records_in_progress: 20
+    records_complete: 31
+    records_in_progress: 19
     records_not_researched: 0
     records_source_unavailable: 0
     missing_research_rows: 0
@@ -25073,8 +25073,8 @@ assemblies:
     preview_reviewed: "unverified"
     commit_sha: ""
     pushed: "unverified"
-    blocker: "20 records in progress; 569 candidates unreviewed; roster_reconciled unverified; event_source_audited unverified; build unverified; preview_reviewed unverified; commit_sha unverified; pushed unverified"
-    next_step: "Audit GA52's sent-down BCO amendments against the GA53 minutes: match each GA52 record to its presbytery tally and GA53 disposition, starting with the nine final approvals listed by the Stated Clerk."
+    blocker: "19 records in progress; 569 candidates unreviewed; roster_reconciled unverified; event_source_audited unverified; build unverified; preview_reviewed unverified; commit_sha unverified; pushed unverified"
+    next_step: ""
     overtures:
       -
         record_id: "overture:ga52_2025:1:p1165"
@@ -25194,7 +25194,7 @@ assemblies:
         event_count: 4
         last_action_ga: 52
         search_through_assembly: 53
-        gap_note: "ByFaith reported that Item 5 (BCO 24-1 (require REs and deacons to state confessional differences)) had not reached a determinable presbytery-vote outcome as of March 13, 2026. Search the 53rd GA minutes and later official tally for the updated status."
+        gap_note: "ByFaith’s May 27 report says Item 5 failed to reach the two-thirds threshold after 30 presbyteries disapproved it, so no final GA53 ratification vote was due. The article gives no complete tally. Verify the recorded presbytery results in primary GA53 minutes before completing this trail."
         anomalies: ""
       -
         record_id: "overture:ga52_2025:9:p1183"
@@ -25461,10 +25461,10 @@ assemblies:
         research_status: "in_progress"
         next_step: "Continue tracing the action trail; use gap_note to resume the source search."
         disposition: "Adopted (final)"
-        event_count: 3
+        event_count: 4
         last_action_ga: 53
         search_through_assembly: 53
-        gap_note: "Official Stated Clerk summary reports the later action; exact GA53 minutes locator and vote remain to be verified."
+        gap_note: "The GA53 report and official Stated Clerk summary establish the committee’s proposal and reported extension, but the exact GA53 motion, vote, and minutes locator must be verified in the primary minutes before this trail is complete."
         anomalies: ""
       -
         record_id: "overture:ga52_2025:27:p1245"
@@ -25506,10 +25506,10 @@ assemblies:
         research_status: "in_progress"
         next_step: "Continue tracing the action trail; use gap_note to resume the source search."
         disposition: "Approved → sent to presbyteries; ratification not located"
-        event_count: 4
-        last_action_ga: 52
+        event_count: 5
+        last_action_ga: 53
         search_through_assembly: 53
-        gap_note: "ByFaith reports Item 3 (BCO 15-5.c) passed presbytery voting 69-1. The 53rd Stated Clerk summary lists nine final approvals but does not list BCO 15-5.c; the exact 53rd GA disposition (including whether it was presented, deferred, or rejected) has not been matched to the minutes."
+        gap_note: "byFaith reports that GA53 voted down BCO voting-form Item 3 (BCO 15-5.c), despite the reported 69-1 presbytery approval. Verify the exact Assembly motion, vote, and minutes locator in primary GA53 minutes before completing this trail."
         anomalies: ""
       -
         record_id: "overture:ga52_2025:30:p1254"
@@ -25524,7 +25524,7 @@ assemblies:
         event_count: 20
         last_action_ga: 52
         search_through_assembly: 53
-        gap_note: "ByFaith reports Item 1 (BCO 8-4, 20-1, 21-1, 21-12, and 23-1) was voted down by the presbyteries but gives no tally. Verify the exact presbytery count and resulting status in the 53rd GA minutes."
+        gap_note: "ByFaith’s May 27 report confirms Item 1 failed to meet the two-thirds presbytery threshold, so no final GA53 ratification vote was due. The article does not give the tally. Verify the recorded presbytery results in primary GA53 minutes before completing this trail."
         anomalies: ""
       -
         record_id: "overture:ga52_2025:31:p1267"
@@ -25566,10 +25566,10 @@ assemblies:
         research_status: "in_progress"
         next_step: "Continue tracing the action trail; use gap_note to resume the source search."
         disposition: "Approved → sent to presbyteries; ratification not located"
-        event_count: 3
+        event_count: 5
         last_action_ga: 52
         search_through_assembly: 53
-        gap_note: "ByFaith reports Item 13 (BCO 57-2) was voted down by the presbyteries but gives no tally. Verify the exact presbytery count and resulting status in the 53rd GA minutes."
+        gap_note: "ByFaith reports that BCO voting-form Item 13 failed to meet the presbytery threshold. Verify the complete tally in primary GA53 minutes before completing this trail."
         anomalies: ""
       -
         record_id: "overture:ga52_2025:34:p1272"
@@ -25596,10 +25596,10 @@ assemblies:
         research_status: "in_progress"
         next_step: "Continue tracing the action trail; use gap_note to resume the source search."
         disposition: "Adopted (final)"
-        event_count: 3
+        event_count: 4
         last_action_ga: 53
         search_through_assembly: 53
-        gap_note: "Official Stated Clerk summary reports the later action; exact GA53 minutes locator and vote remain to be verified."
+        gap_note: "The GA53 Stated Clerk summary reports that the AC study was underway. The official survey page documents the Aug. 18–Sept. 30, 2026 survey window, which had ended by October 13; no results or final AC report were located on the survey page or current GA54 resources page. Locate the final AC report and any Assembly disposition in GA54 materials."
         anomalies: ""
       -
         record_id: "overture:ga52_2025:36:p1275"
@@ -25746,10 +25746,10 @@ assemblies:
         research_status: "in_progress"
         next_step: "Continue tracing the action trail; use gap_note to resume the source search."
         disposition: ""
-        event_count: 1
+        event_count: 2
         last_action_ga: 52
         search_through_assembly: 52
-        gap_note: "The only GA52 action located is the Stated Clerk report’s referral to MNA. The GA52 MNA Permanent Committee recommendations and Overtures Committee summary were checked; neither records a recommendation or Assembly disposition for Overture 45. GA53 primary minutes are not available in the Historical Center archive index; check subsequent MNA reports and Assembly action when primary minutes are available."
+        gap_note: "GA52 referred Overture 45 to MNA; no MNA recommendation or direct GA53 disposition has been located. The official GA53 Stated Clerk summary reports Arkansas Presbytery came into existence July 1, 2026. The original GA53 Overture 44 proposed its bounds exclude five Arkansas counties; the current Arkansas Presbytery page excludes those five plus the seven counties requested by GA52 Overture 45. This difference suggests a later boundary change but does not establish its Assembly motion, connection to Overture 45, destination presbytery, or Fort Smith church reception. Verify the GA53 minutes and MNA report. GA52 Overture 21 was separately withdrawn by Covenant and is not this overture’s disposition."
         anomalies: ""
       -
         record_id: "overture:ga52_2025:46:p1299"
@@ -25776,10 +25776,10 @@ assemblies:
         research_status: "in_progress"
         next_step: "Continue tracing the action trail; use gap_note to resume the source search."
         disposition: "Adopted (final)"
-        event_count: 3
+        event_count: 4
         last_action_ga: 53
         search_through_assembly: 53
-        gap_note: "Official Stated Clerk summary reports the later action; exact GA53 minutes locator and vote remain to be verified."
+        gap_note: "The committee recommendations and reported Assembly response are documented, but the exact GA53 motion, vote, and minutes locator must be checked in the primary minutes before completing this trail."
         anomalies: ""
       -
         record_id: "overture:ga52_2025:48:p1301"
@@ -25788,13 +25788,13 @@ assemblies:
         source: "the Tennessee Valley Presbytery (to OC, AC) “Erect an Ad Interim Committee for a Pastoral"
         title: "Erect Ad Interim Committee for a Pastoral Letter on Christian Citizenship and Church-State Relations"
         page: "overtures/ga52_2025__o48.md"
-        research_status: "in_progress"
-        next_step: "Continue tracing the action trail; use gap_note to resume the source search."
+        research_status: "complete"
+        next_step: "No overture-level research remains; packet audits and closeout are tracked at GA level."
         disposition: "Adopted (final)"
         event_count: 2
         last_action_ga: 52
-        search_through_assembly: 53
-        gap_note: "Check GA53 for follow-up on the Ad Interim Committee on Christian Citizenship and Church-State Relations."
+        search_through_assembly: 52
+        gap_note: "The Assembly’s amended answer replaced the requested ad interim committee with a resolution joining the ARP and RPCNA statements and calling for repentance. The Assembly adopted that resolution 1098-231; no committee or future report was created by this action."
         anomalies: ""
       -
         record_id: "overture:ga52_2025:49:p1303"
@@ -25809,7 +25809,7 @@ assemblies:
         event_count: 3
         last_action_ga: 53
         search_through_assembly: 53
-        gap_note: "Official Stated Clerk summary reports the later action; exact GA53 minutes locator and vote remain to be verified."
+        gap_note: "The official Stated Clerk summary reports that GA53 established an AI committee with a remit corresponding to the referred proposal. The official reissued Overture 2025-49 confirms the GA52-to-GA53 referral and sets the study report deadline at GA54 (June 2027), so that later report is not yet due. Verify the exact GA53 recommendation, vote, and explicit linkage in the primary minutes; the official archive index did not list the 2026 minutes when checked October 13, 2026."
         anomalies: ""
       -
         record_id: "overture:ga52_2025:50:p1305"

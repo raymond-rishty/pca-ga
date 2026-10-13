@@ -13,15 +13,15 @@ Spreadsheet exports are in this directory:
   recur; `disposition` records the historical result while
   `research_status` records our evidence-gathering progress. Rows are sorted by
   GA, numeric overture number, source page, then full record ID.
-- [`work-queue.csv`](work-queue.csv): ordered work schedule. It continues the
-  agreed backward walk from GA29 through GA1, finishing each Assembly packet
-  before advancing. The generated queue is the source of truth for the current
-  next packet and its outstanding work. GA30–GA50 and GA52 have a later
-  post-walk verification pass, so their remaining candidate reviews and packet
-  gates stay visible without interrupting the backward walk. GA51 remains
-  visible in the status tables but is excluded from future work queues by
-  project direction. GA52's GA53 amendment audit is a separate follow-up and
-  must be verified against the primary minutes.
+- [`work-queue.csv`](work-queue.csv): ordered work schedule across all in-scope
+  Assemblies. It prioritizes in-progress trails, source-unavailable records,
+  invalid candidate links, orphaned reviews, other missing trails, remaining
+  candidate coverage, then packet closeout. GA4–GA7 receive a focused audit of
+  their overture action trails before general candidate coverage. GA52 and
+  later are excluded from the active queue until their minutes are available;
+  GA51 remains excluded by project direction. Within each ordinary priority,
+  Assemblies remain in backward order. The generated queue is the source of
+  truth for the current next packet and its outstanding work.
 - [`assembly-gates.yaml`](assembly-gates.yaml): human-evidenced packet checks;
   counts, statuses, and next steps are generated from the evidence ledgers.
 
@@ -30,8 +30,8 @@ begins and while any required research, candidate review, audit, build, preview,
 commit, or push remains, and `closed` only after all those steps are complete.
 This is a strict evidence-based status: a prior note that work was researched
 does not close a packet without verified gates and a pushed packet commit.
-Read current status from the generated GA rows; packets in the post-walk queue
-are unfinished until their listed research and closure gates are complete.
+Read current status from the generated GA rows; packets remain unfinished
+until their listed research and closure gates are complete.
 An overture's `research_status` is `not_researched`, `in_progress`, `complete`,
 or `source_unavailable`. `complete` means the available source trail was
 researched; a documented historical gap can remain. Neither status describes

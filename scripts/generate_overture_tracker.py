@@ -360,28 +360,72 @@ def main() -> None:
         "build", "preview_reviewed", "commit_sha", "pushed", "blocker",
     ], assembly_rows)
 
-    # Keep the agreed backward walk visible as a queue. GA30-GA52 are excluded
-    # from the backward packet walk per project direction; GA52's GA53 amendment
-    # audit remains a separate follow-up. Never queue GA51 again. Continue from
-    # GA29 down through GA1. Within each packet, prioritize source trails, then
-    # candidate coverage, then closeout.
+    # Prioritize the explicitly requested cleanup sequence, then remaining
+    # trail gaps, early action-trail audits, candidate coverage, and packet
+    # closeout. GA51 remains excluded by project direction. GA52 and later
+    # Assemblies are outside the current work window because their complete
+    # minutes corpus is not available. GA4-GA7 get a focused audit after the
+    # record/link cleanup priorities and before general candidate coverage.
     queue_rows = []
-    backward_walk = [r for r in assembly_rows if r["ga_ordinal"] <= 29]
-    for queue_order, assembly in enumerate(sorted(backward_walk, key=lambda r: r["ga_ordinal"], reverse=True), 1):
+    in_scope = [r for r in assembly_rows if r["ga_ordinal"] < 51]
+    def work_priority(assembly):
+        if assembly["records_in_progress"]:
+            return 0
+        if assembly["records_source_unavailable"]:
+            return 1
+        if assembly["candidate_invalid_links"]:
+            return 2
+        if assembly["candidate_reviews_orphaned"]:
+            return 3
+        if assembly["records_not_researched"] or assembly["missing_research_rows"] or assembly["missing_event_bundles"]:
+            return 4
+        if assembly["ga_ordinal"] in (4, 5, 6, 7) and (
+            assembly["candidates_unreviewed"] or assembly["event_source_audited"] == "unverified"
+        ):
+            return 5
+        if assembly["candidates_unreviewed"]:
+            return 6
+        return 7
+
+    for queue_order, assembly in enumerate(sorted(
+        in_scope,
+        key=lambda r: (work_priority(r), r["ga_ordinal"] if work_priority(r) == 5 else -r["ga_ordinal"]),
+    ), 1):
         ga = assembly["ga_ordinal"]
-        if (assembly["records_in_progress"] or assembly["records_not_researched"]
-                or assembly["missing_research_rows"] or assembly["missing_event_bundles"]):
+        if assembly["records_in_progress"]:
             step = (
-                f"Complete source trails for {assembly['records_in_progress'] + assembly['records_not_researched']} "
-                "overture records; resolve missing event bundles and document evidence-based gaps."
+                f"Complete source trails for {assembly['records_in_progress']} overture records; "
+                "then document evidence-based source gaps."
+            )
+            phase = "records_in_progress"
+        elif assembly["records_source_unavailable"]:
+            step = f"Investigate and document {assembly['records_source_unavailable']} source-unavailable overture records."
+            phase = "records_source_unavailable"
+        elif assembly["candidate_invalid_links"]:
+            step = f"Repair {assembly['candidate_invalid_links']} invalid candidate links."
+            phase = "candidate_invalid_links"
+        elif assembly["candidate_reviews_orphaned"]:
+            step = f"Resolve {assembly['candidate_reviews_orphaned']} orphaned candidate reviews."
+            phase = "candidate_reviews_orphaned"
+        elif assembly["records_not_researched"] or assembly["missing_research_rows"] or assembly["missing_event_bundles"]:
+            step = (
+                f"Complete {assembly['records_not_researched']} unresearched records; "
+                f"restore {assembly['missing_research_rows']} missing research rows and "
+                f"{assembly['missing_event_bundles']} missing event bundles."
             )
             phase = "action_trails"
-        elif (assembly["candidates_unreviewed"] or assembly["candidate_invalid_links"]
-              or assembly["candidate_reviews_orphaned"]):
+        elif ga in (4, 5, 6, 7) and (
+            assembly["candidates_unreviewed"] or assembly["event_source_audited"] == "unverified"
+        ):
             step = (
-                f"Review {assembly['candidates_unreviewed']} unreviewed candidate passages; "
-                f"resolve {assembly['candidate_invalid_links']} invalid links and "
-                f"{assembly['candidate_reviews_orphaned']} orphaned reviews."
+                f"Audit GA{ga} action trails against the remaining {assembly['candidates_unreviewed']} "
+                "unreviewed candidate passages; confirm each passage is linked to the correct overture "
+                "or document why it is unrelated."
+            )
+            phase = "early_action_trail_audit"
+        elif assembly["candidates_unreviewed"]:
+            step = (
+                f"Review {assembly['candidates_unreviewed']} remaining candidate passages."
             )
             phase = "candidate_coverage"
         else:
@@ -407,68 +451,9 @@ def main() -> None:
             "next_step": step,
             "follow_up": "",
         })
-
-    # The earlier GA30-GA52 pass is intentionally not interleaved with the
-    # requested GA29-to-GA1 backward walk. Keep its outstanding evidence and
-    # packet gates on the schedule after that walk, so "processed" is not
-    # mistaken for strictly closed and no Assembly silently falls off the queue.
-    post_walk = [r for r in assembly_rows
-                 if r["ga_ordinal"] >= 30 and r["ga_ordinal"] != 51]
-    for assembly in sorted(post_walk, key=lambda r: r["ga_ordinal"]):
-        ga = assembly["ga_ordinal"]
-        if (assembly["records_in_progress"] or assembly["records_not_researched"]
-                or assembly["missing_research_rows"] or assembly["missing_event_bundles"]):
-            step = (
-                f"Complete source trails for {assembly['records_in_progress'] + assembly['records_not_researched']} "
-                "overture records; resolve missing event bundles and document evidence-based gaps."
-            )
-            phase = "action_trails"
-        elif (assembly["candidates_unreviewed"] or assembly["candidate_invalid_links"]
-              or assembly["candidate_reviews_orphaned"]):
-            step = (
-                f"Review {assembly['candidates_unreviewed']} unreviewed candidate passages; "
-                f"resolve {assembly['candidate_invalid_links']} invalid links and "
-                f"{assembly['candidate_reviews_orphaned']} orphaned reviews."
-            )
-            phase = "candidate_coverage"
-        else:
-            pending_gates = [
-                key for key in ("roster_reconciled", "event_source_audited", "build",
-                                "preview_reviewed", "commit_sha", "pushed")
-                if key == "commit_sha" and not re.fullmatch(r"[0-9a-fA-F]{7,40}", assembly[key] or "")
-                or key == "pushed" and assembly[key] not in (True, "true", "pushed")
-                or key in ("roster_reconciled", "event_source_audited", "preview_reviewed")
-                   and not (assembly[key] or "").startswith("verified")
-                or key == "build" and not (assembly[key] or "").startswith("passed:")
-            ]
-            step = "Complete packet closeout: " + ", ".join(pending_gates) + "." if pending_gates else "No remaining work recorded."
-            phase = "packet_closeout" if pending_gates else "done"
-        queue_rows.append({
-            "queue_order": len(queue_rows) + 1,
-            "scope": "post_walk_packet",
-            "assembly": assembly["assembly"],
-            "status": assembly["status"],
-            "phase": phase,
-            "records_complete_total": f"{assembly['records_complete'] + assembly['records_source_unavailable']}/{assembly['catalogue_records']}",
-            "candidates_reviewed_total": f"{assembly['candidates_reviewed']}/{assembly['candidate_passages']}",
-            "next_step": step,
-            "follow_up": "Scheduled after the GA29-to-GA1 backward walk; do not restart the current walk here.",
-        })
-    ga52_status = next(r for r in assembly_rows if r["ga_ordinal"] == 52)
     queue_rows.extend([
         {
             "queue_order": len(queue_rows) + 1,
-            "scope": "pending_follow_up",
-            "assembly": "GA52",
-            "status": "in_progress",
-            "phase": "ga53_ratification_audit",
-            "records_complete_total": f"{ga52_status['records_complete'] + ga52_status['records_source_unavailable']}/{ga52_status['catalogue_records']}",
-            "candidates_reviewed_total": f"{ga52_status['candidates_reviewed']}/{ga52_status['candidate_passages']}",
-            "next_step": "Audit GA52's sent-down BCO amendments against the GA53 minutes: match each GA52 record to its presbytery tally and GA53 disposition, starting with the nine final approvals listed by the Stated Clerk.",
-            "follow_up": "The August 2026 Clerk summary is a finding aid only: it reports 13 amendments sent down, 10 returned after meeting the two-thirds threshold, and 9 finally approved. Verify individual tallies and Assembly actions in primary GA53 minutes; do not infer outcomes from omissions. Keep this audit separate from the GA29-to-GA1 packet walk.",
-        },
-        {
-            "queue_order": len(queue_rows) + 2,
             "scope": "project_wide",
             "assembly": "All GAs",
             "status": "open",
@@ -479,7 +464,7 @@ def main() -> None:
             "follow_up": "Do not drop records or merge reused numbers to force the count.",
         },
         {
-            "queue_order": len(queue_rows) + 3,
+            "queue_order": len(queue_rows) + 2,
             "scope": "project_wide",
             "assembly": "All GAs",
             "status": "open",
@@ -487,7 +472,7 @@ def main() -> None:
             "records_complete_total": "",
             "candidates_reviewed_total": "",
             "next_step": "Audit every in-scope distinct record, source quote, page anchor, chronological order, and rendered page; run the full validating site build after the last Assembly packet.",
-            "follow_up": "Close the GA52-GA53 amendment audit with primary minutes evidence; retain only individually unresolved amendment trails in follow-up.",
+            "follow_up": "Active work window: GA1-GA50, excluding GA51. Resume GA52 and later when their minutes are available.",
         },
     ])
     csv_write(QUEUE_OUT, [

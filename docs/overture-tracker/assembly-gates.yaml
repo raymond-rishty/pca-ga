@@ -255,7 +255,7 @@
   },
   "29": {
     "roster_reconciled": "verified: 38 page-qualified records match the reconciled GA29 catalogue and page map",
-    "event_source_audited": "verified: 190 events across 38 trails; all source anchors and exact excerpts audited in GA29â€“GA31 Markdown minutes",
+    "event_source_audited": "verified: 190 events across 38 trails; all source anchors and exact excerpts audited in GA29–GA31 Markdown minutes",
     "build": "passed: full validating siteBuild after GA29 packet commit c19267109 on 2026-10-13 (6m04s)",
     "preview_reviewed": "verified: visually reviewed the local GA29 O1, O27, and O35 pages after the targeted Gradle fastPreview. Action headings and source labels are distinct from submitted text; the GA30 concurrence tally renders as a structured table.",
     "commit_sha": "c1926710904af2b4ec22d74262686fd405e3ef22",

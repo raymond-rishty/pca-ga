@@ -169,6 +169,8 @@ def main():
     def _score(r):
         b = r.get("body") or ""
         return (1 if _OVERTUREY.search(b) else 0, len(b))
+    def _source_key(source):
+        return re.sub(r"[^a-z0-9]+", " ", (source or "").lower()).strip()
     candidates: dict[tuple, list[dict]] = defaultdict(list)
     for r in load_jsonl("overture_bodies.jsonl"):
         key = (r["vol"], str(r["number"]), int(r.get("pdf_page") or -1))
@@ -184,17 +186,22 @@ def main():
         if exact:
             r = max(exact, key=_score)
         else:
-            # A reused number must never borrow another record's body. For unique
-            # numbers, a secondary extracted occurrence may still hold the full text.
-            if pair_counts[(vol, number)] > 1:
+            # A secondary extraction may only fill a missing source-page extraction
+            # when it names the same source. Otherwise it can be a cited overture
+            # from another Assembly that reused this number.
+            record_source = _source_key(record.get("source"))
+            options = [candidate for (v, num, _), rows in candidates.items()
+                       if v == source_volume and num == number
+                       for candidate in rows
+                       if (candidate_source := _source_key(candidate.get("source"))) and
+                       record_source and
+                       (candidate_source == record_source or candidate_source in record_source or
+                        record_source in candidate_source)]
+            if pair_counts[(vol, number)] > 1 or not options:
                 body = ""
                 r = {"body": body, "ga_ordinal": record["ga_ordinal"], "pdf_page": source_page}
             else:
-                options = [candidate for (v, num, _), rows in candidates.items()
-                           if v == source_volume and num == number for candidate in rows]
-                r = max(options, key=_score) if options else {
-                    "body": "", "ga_ordinal": record["ga_ordinal"], "pdf_page": source_page
-                }
+                r = max(options, key=_score)
         body = (r.get("body") or "").strip()
         body_available = len(body) >= MIN_BODY
         ga, year = record["ga_ordinal"], str(record["year"])
@@ -213,7 +220,7 @@ def main():
         if disp and not record_events:
             hdr.append(f"**Disposition:** {disp}")
 
-        anchor = f"#{prefix}-pdf-p{page}" if page else ""
+        anchor = f"#{prefix}-p{page}" if page else ""
         src = (f"*Source: [{source_volume} PDF p. {page}](../markdown/{source_volume}.md{anchor})*" if page
                else f"*Source: [{source_volume}](../markdown/{source_volume}.md)*")
         rn = ""
@@ -254,7 +261,7 @@ def main():
                 )
                 source_url = (event.get("source_url") or "").strip()
                 source_match = re.search(r"ga(\d+)", source_volume)
-                source_anchor = (f"#ga{int(source_match.group(1)):02d}-pdf-p{source_page}"
+                source_anchor = (f"#ga{int(source_match.group(1)):02d}-p{source_page}"
                                  if source_page and source_match else "")
                 page_md += [f'<h3 class="overture-action-heading">{escape(heading)}</h3>', ""]
                 if action_text:
