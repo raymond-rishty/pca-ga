@@ -784,7 +784,7 @@ assemblies:
   -
     ga_ordinal: 4
     assembly: "GA4"
-    status: "in_progress"
+    status: "closed"
     catalogue_records: 14
     records_complete: 14
     records_in_progress: 0
@@ -802,9 +802,9 @@ assemblies:
     build: "passed: full siteBuild -RegenerateOvertures 2026-10-13"
     preview_reviewed: "verified: GA4 O12, O4, and O9 returned HTTP 200 with action sections and source links (2026-10-13)"
     commit_sha: "31793b9c1"
-    pushed: "pushed 2026-10-13"
-    blocker: "pushed unverified"
-    next_step: "Complete packet closeout: pushed."
+    pushed: "pushed"
+    blocker: ""
+    next_step: "No remaining work recorded."
     overtures:
       -
         record_id: "overture:ga04_1976:1:p35"

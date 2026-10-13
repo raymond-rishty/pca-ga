@@ -34,7 +34,7 @@
     "build": "passed: full siteBuild -RegenerateOvertures 2026-10-13",
     "preview_reviewed": "verified: GA4 O12, O4, and O9 returned HTTP 200 with action sections and source links (2026-10-13)",
     "commit_sha": "31793b9c1",
-    "pushed": "pushed 2026-10-13",
+    "pushed": "pushed",
     "blocker": ""
   },
   "5": {
