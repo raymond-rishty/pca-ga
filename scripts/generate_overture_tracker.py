@@ -351,10 +351,11 @@ def main() -> None:
         "build", "preview_reviewed", "commit_sha", "pushed", "blocker",
     ], assembly_rows)
 
-    # Keep the agreed backward walk visible as a queue. GA30-GA52 have already
-    # been processed per project direction; never queue GA51 again. Continue
-    # from GA29 down through GA1. Within each packet, prioritize source trails,
-    # then candidate coverage, then closeout.
+    # Keep the agreed backward walk visible as a queue. GA30-GA52 are excluded
+    # from the backward packet walk per project direction; GA52's GA53 amendment
+    # audit remains a separate follow-up. Never queue GA51 again. Continue from
+    # GA29 down through GA1. Within each packet, prioritize source trails, then
+    # candidate coverage, then closeout.
     queue_rows = []
     backward_walk = [r for r in assembly_rows if r["ga_ordinal"] <= 29]
     for queue_order, assembly in enumerate(sorted(backward_walk, key=lambda r: r["ga_ordinal"], reverse=True), 1):
@@ -404,11 +405,11 @@ def main() -> None:
             "scope": "pending_follow_up",
             "assembly": "GA52",
             "status": "in_progress",
-            "phase": "await_later_assembly",
+            "phase": "ga53_ratification_audit",
             "records_complete_total": f"{ga52_status['records_complete'] + ga52_status['records_source_unavailable']}/{ga52_status['catalogue_records']}",
             "candidates_reviewed_total": f"{ga52_status['candidates_reviewed']}/{ga52_status['candidate_passages']}",
-            "next_step": "Record any later ratification or second Assembly approval when it occurs; keep amendments awaiting that action explicitly pending.",
-            "follow_up": "GA52 is too recent for all amendment chains to have completed. Do not infer future action or block the backward walk on events that do not yet exist.",
+            "next_step": "Audit GA52's sent-down BCO amendments against the GA53 minutes: match each GA52 record to its presbytery tally and GA53 disposition, starting with the nine final approvals listed by the Stated Clerk.",
+            "follow_up": "The August 2026 Clerk summary is a finding aid only: it reports 13 amendments sent down, 10 returned after meeting the two-thirds threshold, and 9 finally approved. Verify individual tallies and Assembly actions in primary GA53 minutes; do not infer outcomes from omissions. Keep this audit separate from the GA29-to-GA1 packet walk.",
         },
         {
             "queue_order": len(queue_rows) + 2,
@@ -430,7 +431,7 @@ def main() -> None:
             "records_complete_total": "",
             "candidates_reviewed_total": "",
             "next_step": "Audit every in-scope distinct record, source quote, page anchor, chronological order, and rendered page; run the full validating site build after the last Assembly packet.",
-            "follow_up": "Keep GA52's later-Assembly approvals in the pending follow-up queue until those actions occur.",
+            "follow_up": "Close the GA52-GA53 amendment audit with primary minutes evidence; retain only individually unresolved amendment trails in follow-up.",
         },
     ])
     csv_write(QUEUE_OUT, [

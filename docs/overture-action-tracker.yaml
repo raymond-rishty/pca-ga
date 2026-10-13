@@ -13204,7 +13204,7 @@ assemblies:
   -
     ga_ordinal: 28
     assembly: "GA28"
-    status: "in_progress"
+    status: "closed"
     catalogue_records: 27
     records_complete: 27
     records_in_progress: 0
@@ -13219,12 +13219,12 @@ assemblies:
     candidate_reviews_orphaned: 0
     roster_reconciled: "verified: 27 GA28 records match the catalogue, page map, and research ledger; all 148 candidate passages reviewed with no unresolved links or orphaned reviews"
     event_source_audited: "verified: 120 events across 27 trails; record IDs, sequences, source anchors, and exact excerpts checked against GA28-GA30 Markdown. GA28 O23 e02 was checked against the PDF image because its Markdown passage is garbled."
-    build: "unverified"
-    preview_reviewed: "unverified"
-    commit_sha: ""
-    pushed: "unverified"
-    blocker: "build unverified; preview_reviewed unverified; commit_sha unverified; pushed unverified; GA28 source research is complete. Build, preview, commit, and push closeout follow GA29 in the work queue."
-    next_step: "Complete packet closeout: build, preview_reviewed, commit_sha, pushed."
+    build: "passed: full validating siteBuild on 2026-10-13 after GA28 source updates (6m04s)"
+    preview_reviewed: "verified: visually reviewed local GA28 O23 page; submitted text is separated from action blocks, excerpt labels are explicit, and source links resolve in the preview."
+    commit_sha: "37a97ad3f493532d58f9d5adeef1294f83611b7a"
+    pushed: true
+    blocker: ""
+    next_step: "No remaining work recorded."
     overtures:
       -
         record_id: "overture:ga28_2000:1:p300"
@@ -13634,7 +13634,7 @@ assemblies:
   -
     ga_ordinal: 29
     assembly: "GA29"
-    status: "in_progress"
+    status: "closed"
     catalogue_records: 38
     records_complete: 38
     records_in_progress: 0
@@ -13649,12 +13649,12 @@ assemblies:
     candidate_reviews_orphaned: 0
     roster_reconciled: "verified: 38 page-qualified records match the reconciled GA29 catalogue and page map"
     event_source_audited: "verified: 190 events across 38 trails; all source anchors and exact excerpts audited in GA29–GA31 Markdown minutes"
-    build: "passed: full validating siteBuild -RegenerateOvertures completed 2026-10-13 in 14m56s. Generated provision catalogue, BCO APIs, app search index, overture pages, full Jekyll site, constitutional links, Pagefind index, and rendered-site validation all succeeded."
+    build: "passed: full validating siteBuild after GA29 packet commit c19267109 on 2026-10-13 (6m04s)"
     preview_reviewed: "verified: visually reviewed the local GA29 O1, O27, and O35 pages after the targeted Gradle fastPreview. Action headings and source labels are distinct from submitted text; the GA30 concurrence tally renders as a structured table."
-    commit_sha: ""
-    pushed: "unverified"
-    blocker: "commit_sha unverified; pushed unverified; Build and preview gates are verified. Commit and push remain pending because staged and unstaged changes span multiple Assemblies, including corpus-wide generated outputs, and have not been safely isolated to GA29."
-    next_step: "Complete packet closeout: commit_sha, pushed."
+    commit_sha: "c1926710904af2b4ec22d74262686fd405e3ef22"
+    pushed: true
+    blocker: ""
+    next_step: "No remaining work recorded."
     overtures:
       -
         record_id: "overture:ga29_2001:1:p190"
@@ -25074,7 +25074,7 @@ assemblies:
     commit_sha: ""
     pushed: "unverified"
     blocker: "20 records in progress; 569 candidates unreviewed; roster_reconciled unverified; event_source_audited unverified; build unverified; preview_reviewed unverified; commit_sha unverified; pushed unverified"
-    next_step: "Record any later ratification or second Assembly approval when it occurs; keep amendments awaiting that action explicitly pending."
+    next_step: "Audit GA52's sent-down BCO amendments against the GA53 minutes: match each GA52 record to its presbytery tally and GA53 disposition, starting with the nine final approvals listed by the Stated Clerk."
     overtures:
       -
         record_id: "overture:ga52_2025:1:p1165"

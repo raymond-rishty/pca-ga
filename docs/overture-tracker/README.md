@@ -14,8 +14,8 @@ Spreadsheet exports are in this directory:
   `research_status` records our evidence-gathering progress.
 - [`work-queue.csv`](work-queue.csv): ordered work schedule. It continues the
   agreed backward walk from GA29 through GA1, finishing each Assembly packet
-  before advancing. GA30–GA52 are not re-queued. GA52's not-yet-possible later
-  ratification checks remain a separate follow-up item.
+  before advancing. GA30–GA52 are not re-queued. GA52's GA53 amendment audit is
+  tracked separately and must be verified against the primary minutes.
 - [`assembly-gates.yaml`](assembly-gates.yaml): human-evidenced packet checks;
   counts, statuses, and next steps are generated from the evidence ledgers.
 

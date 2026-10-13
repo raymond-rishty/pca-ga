@@ -1,6 +1,6 @@
 ﻿queue_order,scope,assembly,status,phase,records_complete_total,candidates_reviewed_total,next_step,follow_up
-1,assembly_packet,GA29,in_progress,packet_closeout,38/38,165/165,"Complete packet closeout: commit_sha, pushed.",
-2,assembly_packet,GA28,in_progress,packet_closeout,27/27,148/148,"Complete packet closeout: build, preview_reviewed, commit_sha, pushed.",
+1,assembly_packet,GA29,closed,done,38/38,165/165,No remaining work recorded.,
+2,assembly_packet,GA28,closed,done,27/27,148/148,No remaining work recorded.,
 3,assembly_packet,GA27,in_progress,packet_closeout,27/27,97/97,"Complete packet closeout: roster_reconciled, event_source_audited, build, preview_reviewed, commit_sha, pushed.",
 4,assembly_packet,GA26,in_progress,candidate_coverage,29/29,97/116,Review 19 unreviewed candidate passages; resolve 0 invalid links and 0 orphaned reviews.,
 5,assembly_packet,GA25,in_progress,candidate_coverage,17/17,101/115,Review 14 unreviewed candidate passages; resolve 0 invalid links and 0 orphaned reviews.,
@@ -28,6 +28,6 @@
 27,assembly_packet,GA3,in_progress,packet_closeout,19/19,48/48,"Complete packet closeout: commit_sha, pushed.",
 28,assembly_packet,GA2,in_progress,packet_closeout,13/13,36/36,"Complete packet closeout: commit_sha, pushed.",
 29,assembly_packet,GA1,in_progress,packet_closeout,15/15,23/23,"Complete packet closeout: commit_sha, pushed.",
-30,pending_follow_up,GA52,in_progress,await_later_assembly,30/50,0/569,Record any later ratification or second Assembly approval when it occurs; keep amendments awaiting that action explicitly pending.,GA52 is too recent for all amendment chains to have completed. Do not infer future action or block the backward walk on events that do not yet exist.
+30,pending_follow_up,GA52,in_progress,ga53_ratification_audit,30/50,0/569,"Audit GA52's sent-down BCO amendments against the GA53 minutes: match each GA52 record to its presbytery tally and GA53 disposition, starting with the nine final approvals listed by the Stated Clerk.","The August 2026 Clerk summary is a finding aid only: it reports 13 amendments sent down, 10 returned after meeting the two-thirds threshold, and 9 finally approved. Verify individual tallies and Assembly actions in primary GA53 minutes; do not infer outcomes from omissions. Keep this audit separate from the GA29-to-GA1 packet walk."
 31,project_wide,All GAs,open,inventory_reconciliation,,,"Reconcile the 1635 page-qualified catalogue records against the 1,537-entry action-trail target by source identity; preserve verified distinct proposals and explain the current 98-record difference.",Do not drop records or merge reused numbers to force the count.
-32,project_wide,All GAs,open,completion_audit,,,"Audit every in-scope distinct record, source quote, page anchor, chronological order, and rendered page; run the full validating site build after the last Assembly packet.",Keep GA52's later-Assembly approvals in the pending follow-up queue until those actions occur.
+32,project_wide,All GAs,open,completion_audit,,,"Audit every in-scope distinct record, source quote, page anchor, chronological order, and rendered page; run the full validating site build after the last Assembly packet.",Close the GA52-GA53 amendment audit with primary minutes evidence; retain only individually unresolved amendment trails in follow-up.
