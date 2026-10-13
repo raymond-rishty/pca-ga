@@ -29,10 +29,10 @@
     "blocker": ""
   },
   "4": {
-    "roster_reconciled": "unverified",
-    "event_source_audited": "unverified",
-    "build": "unverified",
-    "preview_reviewed": "unverified",
+    "roster_reconciled": "verified: 14 distinct source records, 14 research rows, and 14 event bundles (2026-10-13)",
+    "event_source_audited": "verified: 98 events; unique IDs, continuous sequences, and resolvable source anchors; 45/45 candidates reviewed with zero invalid links or orphan reviews (2026-10-13)",
+    "build": "passed: full siteBuild -RegenerateOvertures 2026-10-13",
+    "preview_reviewed": "verified: GA4 O12, O4, and O9 returned HTTP 200 with action sections and source links (2026-10-13)",
     "commit_sha": "",
     "pushed": "unverified",
     "blocker": ""
