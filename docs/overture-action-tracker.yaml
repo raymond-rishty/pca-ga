@@ -23413,8 +23413,8 @@ assemblies:
     missing_research_rows: 0
     missing_event_bundles: 0
     candidate_passages: 337
-    candidates_reviewed: 326
-    candidates_unreviewed: 11
+    candidates_reviewed: 337
+    candidates_unreviewed: 0
     candidate_invalid_links: 0
     candidate_reviews_orphaned: 0
     roster_reconciled: "unverified"
@@ -23423,8 +23423,8 @@ assemblies:
     preview_reviewed: "verified: GA49 O8 page returned HTTP 200; seven chronological action sections and source links rendered (2026-10-13)"
     commit_sha: "627f35b51"
     pushed: "pushed"
-    blocker: "11 candidates unreviewed; roster_reconciled unverified; event_source_audited unverified"
-    next_step: "Review 11 remaining candidate passages."
+    blocker: "roster_reconciled unverified; event_source_audited unverified"
+    next_step: "Complete packet closeout: roster_reconciled, event_source_audited."
     overtures:
       -
         record_id: "overture:ga49_2022:1:p1303"
