@@ -1254,7 +1254,7 @@ assemblies:
   -
     ga_ordinal: 6
     assembly: "GA6"
-    status: "in_progress"
+    status: "closed"
     catalogue_records: 35
     records_complete: 35
     records_in_progress: 0
@@ -1271,10 +1271,10 @@ assemblies:
     event_source_audited: "verified: 158 events across GA6–GA9; record joins, unique event IDs, continuous per-record sequences, and all source anchors checked; PDF checks recorded for the disputed GA6 excerpts (2026-10-13)"
     build: "passed: full siteBuild via scripts/build-local.ps1; 10,864 linked HTML files validated (2026-10-13)"
     preview_reviewed: "verified: GA6 O24 and O28 returned HTTP 200 with action sections and PDF-checked source labels (2026-10-13)"
-    commit_sha: ""
-    pushed: "unverified"
-    blocker: "commit_sha unverified; pushed unverified"
-    next_step: "Complete packet closeout: commit_sha, pushed."
+    commit_sha: "61882e3a1"
+    pushed: "pushed"
+    blocker: ""
+    next_step: "No remaining work recorded."
     overtures:
       -
         record_id: "overture:ga06_1978:1:p40"

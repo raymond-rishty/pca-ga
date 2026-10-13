@@ -51,8 +51,8 @@
     "event_source_audited": "verified: 158 events across GA6–GA9; record joins, unique event IDs, continuous per-record sequences, and all source anchors checked; PDF checks recorded for the disputed GA6 excerpts (2026-10-13)",
     "build": "passed: full siteBuild via scripts/build-local.ps1; 10,864 linked HTML files validated (2026-10-13)",
     "preview_reviewed": "verified: GA6 O24 and O28 returned HTTP 200 with action sections and PDF-checked source labels (2026-10-13)",
-    "commit_sha": "",
-    "pushed": "unverified",
+    "commit_sha": "61882e3a1",
+    "pushed": "pushed",
     "blocker": ""
   },
   "7": {
