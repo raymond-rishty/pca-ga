@@ -23404,7 +23404,7 @@ assemblies:
   -
     ga_ordinal: 49
     assembly: "GA49"
-    status: "in_progress"
+    status: "closed"
     catalogue_records: 41
     records_complete: 41
     records_in_progress: 0
@@ -23421,10 +23421,10 @@ assemblies:
     event_source_audited: "verified: 230 event source anchors/locators in GA48–GA50 resolve in Markdown; 11 later-volume follow-up events excluded from this pass under project scope (2026-10-13)"
     build: "passed: full siteBuild -RegenerateOvertures 2026-10-13"
     preview_reviewed: "verified: GA49 O8 page returned HTTP 200; seven chronological action sections and source links rendered (2026-10-13)"
-    commit_sha: ""
-    pushed: "unverified"
-    blocker: "commit_sha unverified; pushed unverified"
-    next_step: "Complete packet closeout: commit_sha, pushed."
+    commit_sha: "3563e7bed"
+    pushed: "pushed"
+    blocker: ""
+    next_step: "No remaining work recorded."
     overtures:
       -
         record_id: "overture:ga49_2022:1:p1303"
@@ -24044,7 +24044,7 @@ assemblies:
   -
     ga_ordinal: 50
     assembly: "GA50"
-    status: "in_progress"
+    status: "closed"
     catalogue_records: 29
     records_complete: 29
     records_in_progress: 0
@@ -24061,10 +24061,10 @@ assemblies:
     event_source_audited: "verified: 230 event source anchors/locators in GA48–GA50 resolve in Markdown; 11 later-volume follow-up events excluded from this pass under project scope (2026-10-13)"
     build: "passed: full siteBuild -RegenerateOvertures 2026-10-13"
     preview_reviewed: "verified: GA50 O2 and O20 pages returned HTTP 200; seven and four chronological action sections rendered (2026-10-13)"
-    commit_sha: ""
-    pushed: "unverified"
-    blocker: "commit_sha unverified; pushed unverified"
-    next_step: "Complete packet closeout: commit_sha, pushed."
+    commit_sha: "f42f03999"
+    pushed: "pushed"
+    blocker: ""
+    next_step: "No remaining work recorded."
     overtures:
       -
         record_id: "overture:ga50_2023:1:p975"

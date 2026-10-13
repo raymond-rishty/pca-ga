@@ -438,8 +438,8 @@
     "event_source_audited": "verified: 230 event source anchors/locators in GA48–GA50 resolve in Markdown; 11 later-volume follow-up events excluded from this pass under project scope (2026-10-13)",
     "build": "passed: full siteBuild -RegenerateOvertures 2026-10-13",
     "preview_reviewed": "verified: GA49 O8 page returned HTTP 200; seven chronological action sections and source links rendered (2026-10-13)",
-    "commit_sha": "",
-    "pushed": "unverified",
+    "commit_sha": "3563e7bed",
+    "pushed": "pushed",
     "blocker": ""
   },
   "50": {
@@ -447,8 +447,8 @@
     "event_source_audited": "verified: 230 event source anchors/locators in GA48–GA50 resolve in Markdown; 11 later-volume follow-up events excluded from this pass under project scope (2026-10-13)",
     "build": "passed: full siteBuild -RegenerateOvertures 2026-10-13",
     "preview_reviewed": "verified: GA50 O2 and O20 pages returned HTTP 200; seven and four chronological action sections rendered (2026-10-13)",
-    "commit_sha": "",
-    "pushed": "unverified",
+    "commit_sha": "f42f03999",
+    "pushed": "pushed",
     "blocker": ""
   },
   "51": {
