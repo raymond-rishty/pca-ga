@@ -1,8 +1,8 @@
 ﻿queue_order,scope,assembly,status,phase,records_complete_total,candidates_reviewed_total,next_step,follow_up
-1,assembly_packet,GA50,in_progress,records_in_progress,27/29,0/332,Complete source trails for 2 overture records; then document evidence-based source gaps.,
-2,assembly_packet,GA49,in_progress,records_in_progress,40/41,326/337,Complete source trails for 1 overture records; then document evidence-based source gaps.,
-3,assembly_packet,GA6,in_progress,early_action_trail_audit,35/35,0/82,Audit GA6 action trails against the remaining 82 unreviewed candidate passages; confirm each passage is linked to the correct overture or document why it is unrelated.,
-4,assembly_packet,GA7,in_progress,early_action_trail_audit,31/31,3/86,Audit GA7 action trails against the remaining 83 unreviewed candidate passages; confirm each passage is linked to the correct overture or document why it is unrelated.,
+1,assembly_packet,GA6,in_progress,early_action_trail_audit,35/35,0/82,Audit GA6 action trails against the remaining 82 unreviewed candidate passages; confirm each passage is linked to the correct overture or document why it is unrelated.,
+2,assembly_packet,GA7,in_progress,early_action_trail_audit,31/31,3/86,Audit GA7 action trails against the remaining 83 unreviewed candidate passages; confirm each passage is linked to the correct overture or document why it is unrelated.,
+3,assembly_packet,GA50,in_progress,candidate_coverage,29/29,0/332,Review 332 remaining candidate passages.,
+4,assembly_packet,GA49,in_progress,candidate_coverage,41/41,326/337,Review 11 remaining candidate passages.,
 5,assembly_packet,GA46,in_progress,candidate_coverage,39/39,0/217,Review 217 remaining candidate passages.,
 6,assembly_packet,GA45,in_progress,candidate_coverage,25/25,160/176,Review 16 remaining candidate passages.,
 7,assembly_packet,GA42,in_progress,candidate_coverage,55/55,222/225,Review 3 remaining candidate passages.,

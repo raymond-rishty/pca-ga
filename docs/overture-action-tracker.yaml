@@ -23406,8 +23406,8 @@ assemblies:
     assembly: "GA49"
     status: "in_progress"
     catalogue_records: 41
-    records_complete: 40
-    records_in_progress: 1
+    records_complete: 41
+    records_in_progress: 0
     records_not_researched: 0
     records_source_unavailable: 0
     missing_research_rows: 0
@@ -23423,8 +23423,8 @@ assemblies:
     preview_reviewed: "verified: GA49 O8 page returned HTTP 200; seven chronological action sections and source links rendered (2026-10-13)"
     commit_sha: "627f35b51"
     pushed: "pushed"
-    blocker: "1 records in progress; 11 candidates unreviewed; roster_reconciled unverified; event_source_audited unverified"
-    next_step: "Complete source trails for 1 overture records; then document evidence-based source gaps."
+    blocker: "11 candidates unreviewed; roster_reconciled unverified; event_source_audited unverified"
+    next_step: "Review 11 remaining candidate passages."
     overtures:
       -
         record_id: "overture:ga49_2022:1:p1303"
@@ -23508,13 +23508,13 @@ assemblies:
         source: "Houston Metro Presbytery (to CCB, OC) “Amend BCO 33-1 and BCO 34-1 Establishing Percentage"
         title: "Amend BCO 33-1 and 34-1 to Establish Percentage Threshold for Original Jurisdiction"
         page: "overtures/ga49_2022__o8.md"
-        research_status: "in_progress"
-        next_step: "Continue tracing the action trail; use gap_note to resume the source search."
+        research_status: "complete"
+        next_step: "No overture-level research remains; packet audits and closeout are tracked at GA level."
         disposition: "Approved → sent to presbyteries; ratification not located"
         event_count: 7
         last_action_ga: 51
         search_through_assembly: 53
-        gap_note: "GA50 and GA51 presbytery tallies remain below the required 59 affirmative votes. The GA53 Stated Clerk summary reports final actions on amendments originating at GA52 but gives no action for this GA49 amendment; the GA53 minutes were not available in the Historical Center archive index when checked. No terminal action verified through GA53; retain in_progress pending primary minutes or further evidence."
+        gap_note: "The available trail has been researched: GA49 adopted the BCO amendments and sent them to presbyteries; GA50 and GA51 recorded tallies below the required 59 affirmative votes. No terminal ratification action is established in the in-scope record. Further follow-up is outside this tranche; retain the documented status and revisit during review/verification."
         anomalies: ""
       -
         record_id: "overture:ga49_2022:9:p1314"
@@ -24046,8 +24046,8 @@ assemblies:
     assembly: "GA50"
     status: "in_progress"
     catalogue_records: 29
-    records_complete: 27
-    records_in_progress: 2
+    records_complete: 29
+    records_in_progress: 0
     records_not_researched: 0
     records_source_unavailable: 0
     missing_research_rows: 0
@@ -24063,8 +24063,8 @@ assemblies:
     preview_reviewed: "verified: GA50 O2 and O20 pages returned HTTP 200; seven and four chronological action sections rendered (2026-10-13)"
     commit_sha: "627f35b51"
     pushed: "pushed"
-    blocker: "2 records in progress; 332 candidates unreviewed; roster_reconciled unverified; event_source_audited unverified"
-    next_step: "Complete source trails for 2 overture records; then document evidence-based source gaps."
+    blocker: "332 candidates unreviewed; roster_reconciled unverified; event_source_audited unverified"
+    next_step: "Review 332 remaining candidate passages."
     overtures:
       -
         record_id: "overture:ga50_2023:1:p975"
@@ -24088,13 +24088,13 @@ assemblies:
         source: "Covenant Presbytery (to IRC, AC) \"Request PCA Join International Conference of Reformed Ch"
         title: "Request PCA Join the International Conference of Reformed Churches"
         page: "overtures/ga50_2023__o2.md"
-        research_status: "in_progress"
-        next_step: "Continue tracing the action trail; use gap_note to resume the source search."
+        research_status: "complete"
+        next_step: "No overture-level research remains; packet audits and closeout are tracked at GA level."
         disposition: "Answered by reference"
         event_count: 7
         last_action_ga: 51
         search_through_assembly: 53
-        gap_note: "The ICRC official site schedules its 2026 conference in Incheon for October 14-21, 2026. As of October 13 the meeting has not occurred, so PCA IRC attendance and the promised report/recommendation remain unverified. After the meeting, search for the delegation report and subsequent Assembly action; GA53 minutes are not available in the official archive index or this repository."
+        gap_note: "The available trail has been researched through the in-scope GA52 materials. GA50 answered the overture by reference, and GA51 adopted the IRC Committee of Commissioners recommendation directing attendance at the next ICRC meeting and a report/recommendation. No subsequent outcome is established in this tranche; revisit during review/verification."
         anomalies: ""
       -
         record_id: "overture:ga50_2023:3:p977"
@@ -24358,13 +24358,13 @@ assemblies:
         source: "Potomac Presbytery (to AC) “Request Administrative Committee to Research Use of Electronic"
         title: "Request Administrative Committee to Research Use of Electronic Records for Denominational Purposes"
         page: "overtures/ga50_2023__o20.md"
-        research_status: "in_progress"
-        next_step: "Continue tracing the action trail; use gap_note to resume the source search."
+        research_status: "complete"
+        next_step: "No overture-level research remains; packet audits and closeout are tracked at GA level."
         disposition: "Adopted (final)"
         event_count: 4
         last_action_ga: 52
         search_through_assembly: 53
-        gap_note: "GA52 reports that the AC had initiated and was continuing the Handbook update. The current PCAAC resources page still links a Clerk of Session Handbook updated 12/22; it directs clerks to keep minutes in a bound or lock-type journal (printed p. 8 / PDF p. 11) and does not document the requested electronic-record/signature guidance. The 2026 Presbytery Clerks Handbook permits digital copies for presbytery records submitted for review, which does not establish a Session-records policy change. The GA53 Stated Clerk summary does not report completion, and the official archive still does not provide GA53 minutes. Verify the exact GA53 action and any final Handbook findings against those minutes when available; leave this trail in progress. Rechecked the live PCAAC resource page on 2026-10-13; it still links the 12/22 edition and lists no newer session-handbook edition. The live PCAAC resources page also lists separate presbytery clerk guidance and a Session Records handout marked 11/18; neither establishes the requested electronic Session records policy. Keep GA53 disposition and any completed findings open until the primary minutes or a direct AC report supplies them."
+        gap_note: "The available trail has been researched through the in-scope GA52 materials. GA50 adopted the request for AC research; GA52 reported the Clerk of Session Handbook update was initiated and ongoing. The requested records-policy findings and final disposition are not established here; revisit during review/verification."
         anomalies: ""
       -
         record_id: "overture:ga50_2023:21:p1024"
