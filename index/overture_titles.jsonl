@@ -358,7 +358,7 @@
 {"vol": "ga12_1984", "number": 39, "pdf_page": 57, "title": "Issue Special Ordination Certificates for Ministers Received from the RPCES"}
 {"vol": "ga12_1984", "number": 40, "pdf_page": 58, "title": "Restore the Directory for Worship to Advisory Rather Than Binding Status"}
 {"vol": "ga12_1984", "number": 41, "pdf_page": 59, "title": "Schedule Extended Assembly Debate on Confessional Subscription"}
-{"vol": "ga12_1984", "number": 42, "pdf_page": 68, "title": "Direct MTW to Assist Presbyteries Sending Missionaries"}
+{"vol": "ga12_1984", "number": 42, "pdf_page": 68, "title": "Direct Committees to Develop a Plan for Adjudicating Cases Between Assemblies"}
 {"vol": "ga12_1984", "number": 43, "pdf_page": 59, "title": "Direct Committees to Develop a Plan for Adjudicating Cases Between Assemblies"}
 {"vol": "ga12_1984", "number": 44, "pdf_page": 60, "title": "Amend BCO 24-9 to Retain Voting Rights for Emeritus Ruling Elders and Deacons"}
 {"vol": "ga12_1984", "number": 45, "pdf_page": 45, "title": "Appoint a Special Committee to Inform Churches on Church-State Relations"}
@@ -533,7 +533,7 @@
 {"vol": "ga15_1987", "number": 17, "pdf_page": 86, "title": "Instruct the Ad Interim Committee to Preserve Church Court Judicial Authority"}
 {"vol": "ga15_1987", "number": 18, "pdf_page": 45, "title": "Withdraw the PCA from the National Association of Evangelicals"}
 {"vol": "ga15_1987", "number": 19, "pdf_page": 49, "title": "Withdraw the PCA from the National Association of Evangelicals"}
-{"vol": "ga15_1987", "number": 20, "pdf_page": 54, "title": "Add Wyoming to Southwest Presbytery Boundaries"}
+{"vol":"ga15_1987","number":20,"pdf_page":54,"title":"Add Wyoming to Southwest Presbytery Boundaries"}
 {"vol": "ga15_1987", "number": 20, "pdf_page": 80, "title": "Amend BCO 14-2 to Achieve Parity Between Teaching and Ruling Elders"}
 {"vol": "ga15_1987", "number": 21, "pdf_page": 38, "title": "Require Committees and Agencies to Fund Employee Attendance at Presbytery"}
 {"vol": "ga15_1987", "number": 22, "pdf_page": 50, "title": "Amend BCO 21-4 to Allow Ordination Without an Undergraduate Degree"}
@@ -1302,9 +1302,9 @@
 {"vol": "ga27_1999", "number": 21, "pdf_page": 175, "title": "Decry Extra-Constitutional Statements of Identity for the PCA"}
 {"vol": "ga27_1999", "number": 22, "pdf_page": 52, "title": "Decry Extra-Constitutional Statements of Identity for the PCA"}
 {"vol": "ga27_1999", "number": 22, "pdf_page": 177, "title": "Warn Congregations of the Homosexual Agenda in Schools"}
-{"vol": "ga27_1999", "number": 23, "pdf_page": 111, "title": "Concur with Mid-America on Oklahoma Boundary Transfer to North Texas"}
-{"vol": "ga27_1999", "number": 24, "pdf_page": 112, "title": "Concur with Mid-America Overture on Arkansas County Boundary Transfer to Covenant"}
-{"vol": "ga27_1999", "number": 25, "pdf_page": 112, "title": "Transfer Southwest Missouri Counties from Mid-America to Missouri"}
+{"vol":"ga27_1999","number":23,"pdf_page":111,"title":"Concur with Mid-America on Oklahoma Boundary Transfer to North Texas"}
+{"vol":"ga27_1999","number":24,"pdf_page":112,"title":"Concur with Mid-America Overture on Arkansas County Boundary Transfer to Covenant"}
+{"vol":"ga27_1999","number":25,"pdf_page":112,"title":"Transfer Southwest Missouri Counties from Mid-America to Missouri"}
 {"vol": "ga27_1999", "number": 26, "pdf_page": 113, "title": "Transfer Southwest Missouri Counties from Mid-America to Missouri Presbytery"}
 {"vol": "ga27_1999", "number": 26, "pdf_page": 131, "title": "Change Presbytery Boundaries Between North Texas and Southwest Presbyteries"}
 {"vol": "ga27_1999", "number": 27, "pdf_page": 178, "title": "Reaffirm PCA's Prior Statements on the Sanctity of Life"}
@@ -1313,7 +1313,7 @@
 {"vol": "ga28_2000", "number": 2, "pdf_page": 51, "title": "Declare Full Preterism a Heresy"}
 {"vol": "ga28_2000", "number": 2, "pdf_page": 282, "title": "Grant Full Constitutional Status to the Directory for Worship"}
 {"vol": "ga28_2000", "number": 3, "pdf_page": 106, "title": "Grant Full Constitutional Status to the Directory for Worship"}
-{"vol": "ga28_2000", "number": 4, "pdf_page": 291, "title": "Clarify Use of Professional Counsel in Cases of Process"}
+{"vol":"ga28_2000","number":4,"pdf_page":291,"title":"Clarify Use of Professional Counsel in Cases of Process"}
 {"vol": "ga28_2000", "number": 5, "pdf_page": 297, "title": "Amend BCO 32-19 to Clarify Use of Counsel in Cases of Process"}
 {"vol": "ga28_2000", "number": 6, "pdf_page": 288, "title": "Amend BCO 38-4 to Clarify Administrative Removal from Membership Roll"}
 {"vol": "ga28_2000", "number": 7, "pdf_page": 292, "title": "Add BCO 16-4 Prohibiting Teaching of Exceptions Harmful to the Church"}
@@ -3191,6 +3191,6 @@
 {"vol": "ga17_1989", "number": 20, "pdf_page": 179, "title": "Appoint Study Committee on Extraordinary Spiritual Gifts"}
 {"vol": "ga17_1989", "number": 37, "pdf_page": 140, "title": "Develop a PCA Logo"}
 {"vol": "ga17_1989", "number": 38, "pdf_page": 142, "title": "Extend Review and Control Committee Terms"}
-{"vol": "ga17_1989", "number": 24, "pdf_page": 185, "title": "Establish Study on Women Serving on GA Committees and Agencies"}
-{"vol": "ga17_1989", "number": 8, "pdf_page": 164, "title": "Adopt Contrary Position to 16th GA Decision on Missouri Presbytery"}
-{"vol": "ga17_1989", "number": 19, "pdf_page": 168, "title": "Amend BCO 37-3 to Apply to Presbyteries as Well as Sessions"}
+{"vol":"ga17_1989","number":24,"pdf_page":185,"title":"Establish Study on Women Serving on GA Committees and Agencies"}
+{"vol":"ga17_1989","number":8,"pdf_page":164,"title":"Adopt Contrary Position to 16th GA Decision on Missouri Presbytery"}
+{"vol":"ga17_1989","number":19,"pdf_page":168,"title":"Amend BCO 37-3 to Apply to Presbyteries as Well as Sessions"}
