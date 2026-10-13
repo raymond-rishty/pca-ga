@@ -11409,7 +11409,7 @@ assemblies:
   -
     ga_ordinal: 24
     assembly: "GA24"
-    status: "in_progress"
+    status: "closed"
     catalogue_records: 40
     records_complete: 40
     records_in_progress: 0
@@ -11426,10 +11426,10 @@ assemblies:
     event_source_audited: "verified: 249 events across 40 records; GA24 Markdown excerpts, anchors, and page metadata checked; continuous sequences and unique event IDs (2026-10-13)"
     build: "passed: full siteBuild -RegenerateOvertures 2026-10-13 after one transient file replacement retry"
     preview_reviewed: "verified: all 16 affected GA24 overture routes returned HTTP 200 with action sections and source links (2026-10-13)"
-    commit_sha: ""
-    pushed: "unverified"
-    blocker: "commit_sha unverified; pushed unverified"
-    next_step: "Complete packet closeout: commit_sha, pushed."
+    commit_sha: "b4800538937ca8da9470deb8f3281ec1c8bda285"
+    pushed: "pushed"
+    blocker: ""
+    next_step: "No remaining work recorded."
     overtures:
       -
         record_id: "overture:ga24_1996:1:p295"

@@ -213,8 +213,8 @@
     "event_source_audited": "verified: 249 events across 40 records; GA24 Markdown excerpts, anchors, and page metadata checked; continuous sequences and unique event IDs (2026-10-13)",
     "build": "passed: full siteBuild -RegenerateOvertures 2026-10-13 after one transient file replacement retry",
     "preview_reviewed": "verified: all 16 affected GA24 overture routes returned HTTP 200 with action sections and source links (2026-10-13)",
-    "commit_sha": "",
-    "pushed": "unverified",
+    "commit_sha": "b4800538937ca8da9470deb8f3281ec1c8bda285",
+    "pushed": "pushed",
     "blocker": ""
   },
   "25": {

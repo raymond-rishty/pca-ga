@@ -4,7 +4,7 @@
 3,assembly_packet,GA27,closed,done,27/27,97/97,No remaining work recorded.,
 4,assembly_packet,GA26,closed,done,29/29,116/116,No remaining work recorded.,
 5,assembly_packet,GA25,closed,done,17/17,115/115,No remaining work recorded.,
-6,assembly_packet,GA24,in_progress,packet_closeout,40/40,175/175,"Complete packet closeout: commit_sha, pushed.",
+6,assembly_packet,GA24,closed,done,40/40,175/175,No remaining work recorded.,
 7,assembly_packet,GA23,in_progress,candidate_coverage,24/24,42/126,Review 84 unreviewed candidate passages; resolve 0 invalid links and 0 orphaned reviews.,
 8,assembly_packet,GA22,in_progress,candidate_coverage,14/14,4/148,Review 144 unreviewed candidate passages; resolve 0 invalid links and 0 orphaned reviews.,
 9,assembly_packet,GA21,in_progress,packet_closeout,45/45,147/147,"Complete packet closeout: roster_reconciled, event_source_audited, build, preview_reviewed, commit_sha, pushed.",
