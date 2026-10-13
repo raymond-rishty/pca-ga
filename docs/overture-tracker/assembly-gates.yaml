@@ -209,10 +209,10 @@
     "blocker": ""
   },
   "24": {
-    "roster_reconciled": "unverified",
-    "event_source_audited": "unverified",
-    "build": "unverified",
-    "preview_reviewed": "unverified",
+    "roster_reconciled": "verified: 40 distinct records reconcile with catalogue and research rows; 175/175 candidates reviewed; zero invalid links or orphan reviews (2026-10-13)",
+    "event_source_audited": "verified: 249 events across 40 records; GA24 Markdown excerpts, anchors, and page metadata checked; continuous sequences and unique event IDs (2026-10-13)",
+    "build": "passed: full siteBuild -RegenerateOvertures 2026-10-13 after one transient file replacement retry",
+    "preview_reviewed": "verified: all 16 affected GA24 overture routes returned HTTP 200 with action sections and source links (2026-10-13)",
     "commit_sha": "",
     "pushed": "unverified",
     "blocker": ""
