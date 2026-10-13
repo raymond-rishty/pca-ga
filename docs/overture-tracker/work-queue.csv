@@ -2,7 +2,7 @@
 1,assembly_packet,GA29,closed,done,38/38,165/165,No remaining work recorded.,
 2,assembly_packet,GA28,closed,done,27/27,148/148,No remaining work recorded.,
 3,assembly_packet,GA27,closed,done,27/27,97/97,No remaining work recorded.,
-4,assembly_packet,GA26,in_progress,candidate_coverage,29/29,97/116,Review 19 unreviewed candidate passages; resolve 0 invalid links and 0 orphaned reviews.,
+4,assembly_packet,GA26,in_progress,packet_closeout,29/29,116/116,"Complete packet closeout: commit_sha, pushed.",
 5,assembly_packet,GA25,in_progress,candidate_coverage,17/17,101/115,Review 14 unreviewed candidate passages; resolve 0 invalid links and 0 orphaned reviews.,
 6,assembly_packet,GA24,in_progress,candidate_coverage,40/40,94/175,Review 81 unreviewed candidate passages; resolve 0 invalid links and 0 orphaned reviews.,
 7,assembly_packet,GA23,in_progress,candidate_coverage,24/24,42/126,Review 84 unreviewed candidate passages; resolve 0 invalid links and 0 orphaned reviews.,

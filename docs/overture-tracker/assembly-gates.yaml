@@ -227,10 +227,10 @@
     "blocker": ""
   },
   "26": {
-    "roster_reconciled": "unverified",
-    "event_source_audited": "unverified",
-    "build": "unverified",
-    "preview_reviewed": "unverified",
+    "roster_reconciled": "verified: 29 distinct GA26 records match the research ledger and page map; all 116 candidate passages are reviewed and all links resolve (2026-10-13).",
+    "event_source_audited": "verified: 114 events across 29 trails; all 114 Markdown source anchors resolve and every verbatim excerpt matches its source. Table-derived totals and uncertain Yearbook context are clearly marked as unquoted notes; noncontiguous GA27 motion excerpts show an omission ellipsis (2026-10-13).",
+    "build": "passed: full siteBuild via scripts/build-local.ps1 on 2026-10-13 (5m41s).",
+    "preview_reviewed": "verified: GA26 O9 and O13 pages visually reviewed; O6, O9, O13, O22, and O26 preview routes return HTTP 200; action headings and citations render separately from submitted text (2026-10-13).",
     "commit_sha": "",
     "pushed": "unverified",
     "blocker": ""

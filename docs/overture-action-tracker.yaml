@@ -12323,18 +12323,18 @@ assemblies:
     missing_research_rows: 0
     missing_event_bundles: 0
     candidate_passages: 116
-    candidates_reviewed: 97
-    candidates_unreviewed: 19
+    candidates_reviewed: 116
+    candidates_unreviewed: 0
     candidate_invalid_links: 0
     candidate_reviews_orphaned: 0
-    roster_reconciled: "unverified"
-    event_source_audited: "unverified"
-    build: "unverified"
-    preview_reviewed: "unverified"
+    roster_reconciled: "verified: 29 distinct GA26 records match the research ledger and page map; all 116 candidate passages are reviewed and all links resolve (2026-10-13)."
+    event_source_audited: "verified: 114 events across 29 trails; all 114 Markdown source anchors resolve and every verbatim excerpt matches its source. Table-derived totals and uncertain Yearbook context are clearly marked as unquoted notes; noncontiguous GA27 motion excerpts show an omission ellipsis (2026-10-13)."
+    build: "passed: full siteBuild via scripts/build-local.ps1 on 2026-10-13 (5m41s)."
+    preview_reviewed: "verified: GA26 O9 and O13 pages visually reviewed; O6, O9, O13, O22, and O26 preview routes return HTTP 200; action headings and citations render separately from submitted text (2026-10-13)."
     commit_sha: ""
     pushed: "unverified"
-    blocker: "19 candidates unreviewed; roster_reconciled unverified; event_source_audited unverified; build unverified; preview_reviewed unverified; commit_sha unverified; pushed unverified"
-    next_step: "Review 19 unreviewed candidate passages; resolve 0 invalid links and 0 orphaned reviews."
+    blocker: "commit_sha unverified; pushed unverified"
+    next_step: "Complete packet closeout: commit_sha, pushed."
     overtures:
       -
         record_id: "overture:ga26_1998:1:p200"
@@ -12421,7 +12421,7 @@ assemblies:
         research_status: "complete"
         next_step: "No overture-level research remains; packet audits and closeout are tracked at GA level."
         disposition: ""
-        event_count: 2
+        event_count: 4
         last_action_ga: 26
         search_through_assembly: 26
         gap_note: ""
@@ -12454,7 +12454,7 @@ assemblies:
         event_count: 3
         last_action_ga: 27
         search_through_assembly: 27
-        gap_note: "The GA27 Administrative Committee reports a matching Yearbook privacy change after GA26 directed the Stated Clerk to review privacy and report to the October 1998 AC meeting. GA27 does not explicitly identify the change as implementation of Overture 8, so the connection is presented as a follow-up with that attribution limit."
+        gap_note: "GA27 Administrative Committee reported a Yearbook-form MSP with wording similar to Overture 8, but did not explicitly identify the overture as its source or state that the Assembly adopted the item. It is retained as related action context, not as a verified direct continuation; no direct GA27 action on Overture 8 is established by that passage."
         anomalies: ""
       -
         record_id: "overture:ga26_1998:9:p63"
@@ -12466,7 +12466,7 @@ assemblies:
         research_status: "complete"
         next_step: "No overture-level research remains; packet audits and closeout are tracked at GA level."
         disposition: ""
-        event_count: 2
+        event_count: 3
         last_action_ga: 26
         search_through_assembly: 26
         gap_note: ""
@@ -12526,7 +12526,7 @@ assemblies:
         research_status: "complete"
         next_step: "No overture-level research remains; packet audits and closeout are tracked at GA level."
         disposition: ""
-        event_count: 2
+        event_count: 3
         last_action_ga: 26
         search_through_assembly: 26
         gap_note: ""
@@ -12661,7 +12661,7 @@ assemblies:
         research_status: "complete"
         next_step: "No overture-level research remains; packet audits and closeout are tracked at GA level."
         disposition: ""
-        event_count: 2
+        event_count: 3
         last_action_ga: 26
         search_through_assembly: 26
         gap_note: ""
@@ -12721,7 +12721,7 @@ assemblies:
         research_status: "complete"
         next_step: "No overture-level research remains; packet audits and closeout are tracked at GA level."
         disposition: ""
-        event_count: 9
+        event_count: 10
         last_action_ga: 30
         search_through_assembly: 30
         gap_note: ""
