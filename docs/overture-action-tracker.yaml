@@ -1019,7 +1019,7 @@ assemblies:
   -
     ga_ordinal: 5
     assembly: "GA5"
-    status: "in_progress"
+    status: "closed"
     catalogue_records: 14
     records_complete: 14
     records_in_progress: 0
@@ -1036,10 +1036,10 @@ assemblies:
     event_source_audited: "verified: 52 events with unique IDs, continuous per-record sequences, and resolvable source anchors; 31/31 candidates reviewed with zero invalid links or orphan reviews (2026-10-13)"
     build: "passed: full siteBuild -RegenerateOvertures 2026-10-13 (6m 41s)"
     preview_reviewed: "verified: GA5 O12 preview HTTP 200; source links use canonical PDF-page anchors; all 9,150 rendered overture-to-minutes citations resolve (2026-10-13)"
-    commit_sha: ""
-    pushed: "unverified"
-    blocker: "commit_sha unverified; pushed unverified"
-    next_step: "Complete packet closeout: commit_sha, pushed."
+    commit_sha: "a92de5dfa"
+    pushed: "pushed"
+    blocker: ""
+    next_step: "No remaining work recorded."
     overtures:
       -
         record_id: "overture:ga05_1977:1:p36"

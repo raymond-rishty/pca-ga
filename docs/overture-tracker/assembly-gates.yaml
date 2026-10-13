@@ -42,8 +42,8 @@
     "event_source_audited": "verified: 52 events with unique IDs, continuous per-record sequences, and resolvable source anchors; 31/31 candidates reviewed with zero invalid links or orphan reviews (2026-10-13)",
     "build": "passed: full siteBuild -RegenerateOvertures 2026-10-13 (6m 41s)",
     "preview_reviewed": "verified: GA5 O12 preview HTTP 200; source links use canonical PDF-page anchors; all 9,150 rendered overture-to-minutes citations resolve (2026-10-13)",
-    "commit_sha": "",
-    "pushed": "unverified",
+    "commit_sha": "a92de5dfa",
+    "pushed": "pushed",
     "blocker": ""
   },
   "6": {
