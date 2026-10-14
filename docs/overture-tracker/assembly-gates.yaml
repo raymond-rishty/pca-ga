@@ -380,12 +380,12 @@
     "blocker": ""
   },
   "43": {
-    "roster_reconciled": "unverified",
-    "event_source_audited": "unverified",
-    "build": "unverified",
-    "preview_reviewed": "unverified",
-    "commit_sha": "",
-    "pushed": "unverified",
+    "roster_reconciled": "verified: 10 distinct GA43 records match 10 research rows, event bundles, and page-map entries; 114/114 candidate passages reviewed with no missing linked record targets (2026-10-14)",
+    "event_source_audited": "verified: 40 events have unique IDs and continuous per-record sequences; all 40 event anchors and 10 supporting-excerpt anchors resolve; 50/50 quoted excerpts match GA43 Markdown after accounting for formatting, page folios, and explicit omissions (2026-10-14)",
+    "build": "passed: full validating siteBuild -RegenerateOvertures; 10,911 linked HTML files verified, 8,685 search pages indexed, rendered-site validation and 30/30 Node checks passed (2026-10-14; 6m2s)",
+    "preview_reviewed": "verified: GA43 O1–O10 pages returned HTTP 200 with action sections and GA43 source links; corrected recommendations and minutes excerpts inspected (2026-10-14)",
+    "commit_sha": "3b87e7de2fe1aed4d3a03c4fe9f61bf8a97af7a1",
+    "pushed": "pushed",
     "blocker": ""
   },
   "44": {
