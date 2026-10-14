@@ -18279,7 +18279,7 @@ assemblies:
   -
     ga_ordinal: 39
     assembly: "GA39"
-    status: "in_progress"
+    status: "closed"
     catalogue_records: 15
     records_complete: 15
     records_in_progress: 0
@@ -18292,14 +18292,14 @@ assemblies:
     candidates_unreviewed: 0
     candidate_invalid_links: 0
     candidate_reviews_orphaned: 0
-    roster_reconciled: "unverified"
-    event_source_audited: "unverified"
-    build: "unverified"
-    preview_reviewed: "unverified"
-    commit_sha: ""
-    pushed: "unverified"
-    blocker: "roster_reconciled unverified; event_source_audited unverified; build unverified; preview_reviewed unverified; commit_sha unverified; pushed unverified"
-    next_step: "Complete packet closeout: roster_reconciled, event_source_audited, build, preview_reviewed, commit_sha, pushed."
+    roster_reconciled: "verified: 15 distinct GA39 records match 15 research rows, event bundles, and page-map entries; 103/103 candidate passages reviewed with no invalid links or orphan reviews (2026-10-14)"
+    event_source_audited: "verified: 89 events have unique IDs and continuous per-record sequences; all 89 source anchors resolve and all 89 quoted excerpts match the source Markdown after accounting for formatting, page folios, and explicit omissions (2026-10-14)"
+    build: "passed: full validating siteBuild -RegenerateOvertures; 10,911 linked HTML files verified, 8,685 search pages indexed, rendered-site validation and 30/30 Node checks passed (2026-10-14; 6m05s)"
+    preview_reviewed: "verified: GA39 O3, O8, O9, O11, and O14 pages returned HTTP 200 with action sections and source links; corrected excerpts inspected in preview (2026-10-14)"
+    commit_sha: "fd165e902"
+    pushed: "pushed"
+    blocker: ""
+    next_step: "No remaining work recorded."
     overtures:
       -
         record_id: "overture:ga39_2011:1:p611"
