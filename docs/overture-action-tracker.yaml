@@ -4224,7 +4224,7 @@ assemblies:
   -
     ga_ordinal: 12
     assembly: "GA12"
-    status: "in_progress"
+    status: "closed"
     catalogue_records: 70
     records_complete: 70
     records_in_progress: 0
@@ -4241,10 +4241,10 @@ assemblies:
     event_source_audited: "verified: 287 events have unique IDs, continuous sequences, and resolvable anchors; all 278 excerpt texts match normalized source Markdown; 198/198 candidate reviews have zero invalid links or orphans. Corrected the shared GA15 minority-report quotation in GA12 O20, O22, O27, and O51 after the source OCR fix (2026-10-14)"
     build: "passed: full validating siteBuild -RegenerateOvertures; 10,911 linked HTML files, 8,685 indexed pages, rendered-site validation, and 30/30 Node regressions passed (2026-10-14; 6m06s)"
     preview_reviewed: "verified: GA12 O29 and GA13 ratification pages returned HTTP 200; updated GA12 O20, O22, O27, and O51 routes returned HTTP 200 with action-heading counts matching events; shared GA15 p. 107 quotation renders correctly (2026-10-14)"
-    commit_sha: ""
-    pushed: "unverified"
-    blocker: "commit_sha unverified; pushed unverified"
-    next_step: "Complete packet closeout: commit_sha, pushed."
+    commit_sha: "b479fac8d"
+    pushed: "pushed"
+    blocker: ""
+    next_step: "No remaining work recorded."
     overtures:
       -
         record_id: "overture:ga12_1984:2:p48"
@@ -5299,7 +5299,7 @@ assemblies:
   -
     ga_ordinal: 13
     assembly: "GA13"
-    status: "in_progress"
+    status: "closed"
     catalogue_records: 51
     records_complete: 51
     records_in_progress: 0
@@ -5316,10 +5316,10 @@ assemblies:
     event_source_audited: "verified: 259 events across 51 records have unique IDs, continuous sequences, and resolving anchors; all 257 quoted events match normalized cited-volume Markdown. Corrected GA13/GA15 OCR excerpts and GA12/GA14 page locators; GA14 vote tables on PDF pp. 87 and 99 were checked against the source and their Markdown names corrected (2026-10-14)"
     build: "passed: full validating siteBuild -RegenerateOvertures; 10,911 linked HTML files validated, 8,685 Pagefind-indexed pages, rendered-site checks passed, and 30/30 Node regressions passed (2026-10-14; 6m06s)"
     preview_reviewed: "verified: all 51 GA13 overture routes returned HTTP 200 with action-heading counts matching their event bundles; O11 and O40 reviewed in preview, including GA12 PDF p. 143 start-page and GA14 PDF p. 99 vote-table links (2026-10-14)"
-    commit_sha: ""
-    pushed: "unverified"
-    blocker: "commit_sha unverified; pushed unverified"
-    next_step: "Complete packet closeout: commit_sha, pushed."
+    commit_sha: "b479fac8d"
+    pushed: "pushed"
+    blocker: ""
+    next_step: "No remaining work recorded."
     overtures:
       -
         record_id: "overture:ga13_1985:1:p45"
@@ -6106,7 +6106,7 @@ assemblies:
     event_source_audited: "verified: 252 events with unique IDs, continuous per-record sequences, and resolving source anchors; 249 quoted events audited against Markdown (247 contiguous token matches; O27 e04 explicit omission and O28 e09 page-folio interruption manually checked); corrected the shared GA15 minority-report quote in GA14 O6 e09 (2026-10-14)"
     build: "passed: full validating siteBuild -RegenerateOvertures; 10,911 linked HTML files, 8,685 Pagefind-indexed pages, rendered-site validation, and 30/30 Node regressions passed (2026-10-14; 6m06s)"
     preview_reviewed: "verified: GA14 O6, O27, O36, O37, O43, O45, O50, O53, and O54 returned HTTP 200; each rendered action-heading and source-link count matches its events; O6 includes the corrected shared GA15 quote; O36 and O43 content reviewed in browser (2026-10-14)"
-    commit_sha: "03a7f8909"
+    commit_sha: "b479fac8d"
     pushed: "pushed"
     blocker: ""
     next_step: "No remaining work recorded."
@@ -6941,7 +6941,7 @@ assemblies:
     event_source_audited: "verified: 186 events have unique IDs, continuous per-record sequences, complete printed/PDF locators, and 186/186 resolving anchors; all 183 quoted events checked against source Markdown, with 176 normalized literal matches and seven page-spanning/list-formatted excerpts manually verified; corrected the GA15 O15 attestation, GA15 O7 excerpt, GA15 O13 direct quotation, GA15 O10 GA16 adoption locator, and shared GA15 p. 107 minority-report quote in the source and linked trails (2026-10-14)"
     build: "passed: full validating siteBuild -RegenerateOvertures; 10,911 linked HTML files verified, 8,685 search pages indexed, rendered-site validation and 30/30 Node regressions passed (2026-10-14; 6m06s)"
     preview_reviewed: "verified: all 38 GA15 overture routes previously returned HTTP 200 with action-heading counts matching event bundles; updated p. 107 action routes for O27 and O51 validated, and O27 visually reviewed with the corrected minority-report quote (2026-10-14)"
-    commit_sha: "4f535bee1"
+    commit_sha: "b479fac8d"
     pushed: "pushed"
     blocker: ""
     next_step: "No remaining work recorded."
