@@ -13464,7 +13464,7 @@ assemblies:
   -
     ga_ordinal: 27
     assembly: "GA27"
-    status: "in_progress"
+    status: "closed"
     catalogue_records: 27
     records_complete: 27
     records_in_progress: 0
@@ -13482,9 +13482,9 @@ assemblies:
     build: "passed: full validating siteBuild on 2026-10-13 after the GA27 source refresh (6m04s)."
     preview_reviewed: "verified: visually reviewed local GA27 O11; submitted proposal is separate from the action trail, with clear action headings, excerpt labels, and source links."
     commit_sha: "5fb91b4afdc0fedabf56581017461a2d8a32c3bb"
-    pushed: "True"
-    blocker: "pushed unverified"
-    next_step: "Complete packet closeout: pushed."
+    pushed: "pushed"
+    blocker: ""
+    next_step: "No remaining work recorded."
     overtures:
       -
         record_id: "overture:ga27_1999:1:p189"

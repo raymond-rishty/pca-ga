@@ -241,7 +241,7 @@
     "build": "passed: full validating siteBuild on 2026-10-13 after the GA27 source refresh (6m04s).",
     "preview_reviewed": "verified: visually reviewed local GA27 O11; submitted proposal is separate from the action trail, with clear action headings, excerpt labels, and source links.",
     "commit_sha": "5fb91b4afdc0fedabf56581017461a2d8a32c3bb",
-    "pushed": "True",
+    "pushed": "pushed",
     "blocker": ""
   },
   "28": {
