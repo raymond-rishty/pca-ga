@@ -456,8 +456,8 @@
     "event_source_audited": "verified: 188 GA51 record events have continuous IDs/sequences and all 188 source anchors and printed/PDF locators resolve; 118 quoted excerpts match GA51 Markdown exactly. All 200 GA51-sourced events across linked records resolve, including 10 new updated tallies. GA49 O15/O29 source discrepancy is explicitly retained for reconciliation (2026-10-13)",
     "build": "passed: full siteBuild -RegenerateOvertures; 10,898 linked HTML files validated (2026-10-13)",
     "preview_reviewed": "verified: GA51 O30 action trail displays Presbytery adoption/amended readoption, CCB advice, OC vote, and Assembly omnibus action with source links (2026-10-13)",
-    "commit_sha": "",
-    "pushed": "unverified",
+    "commit_sha": "c06f3d7c44a94a91c3f846f4562ad9cbd44f44e6",
+    "pushed": "pushed",
     "blocker": ""
   },
   "52": {
@@ -465,8 +465,8 @@
     "event_source_audited": "unverified",
     "build": "passed: full siteBuild -RegenerateOvertures; 10,898 linked HTML files validated (2026-10-13)",
     "preview_reviewed": "verified: GA52 O43 action trail displays originating Presbytery adoption, CCB referral/advice, committee actions, and Assembly votes with source links (2026-10-13)",
-    "commit_sha": "",
-    "pushed": "unverified",
+    "commit_sha": "c06f3d7c44a94a91c3f846f4562ad9cbd44f44e6",
+    "pushed": "pushed",
     "blocker": "49 of 315 GA52 events marked as excerpts do not exactly match the Markdown action text; reconcile excerpt transcription before source-audit closure. 19 overture records remain in progress because follow-up is outside available GA52 minutes."
   }
 }
