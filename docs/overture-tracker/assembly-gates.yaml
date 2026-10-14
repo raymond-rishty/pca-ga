@@ -299,12 +299,12 @@
     "blocker": ""
   },
   "34": {
-    "roster_reconciled": "unverified",
-    "event_source_audited": "unverified",
-    "build": "unverified",
-    "preview_reviewed": "unverified",
-    "commit_sha": "",
-    "pushed": "unverified",
+    "roster_reconciled": "verified: 26 distinct GA34 catalogue records match 26 research rows, event bundles, and page-map entries; 121/121 candidate passages reviewed with zero invalid links or orphan reviews (2026-10-14)",
+    "event_source_audited": "verified: 96 unique events have continuous per-record sequences; all 102 main/support excerpt anchors resolve to cited minutes pages, including corrected OCR wording for Overture 20 (2026-10-14)",
+    "build": "passed: full validating siteBuild -RegenerateOvertures; 10,911 linked HTML files verified, 8,685 search pages indexed, rendered-site validation and 30/30 Node checks passed (2026-10-14; 5m20s)",
+    "preview_reviewed": "verified: all 26 GA34 overture routes returned HTTP 200 with 96 action headings and source links (2026-10-14)",
+    "commit_sha": "2eeb9b351",
+    "pushed": "pushed",
     "blocker": ""
   },
   "35": {
