@@ -15914,7 +15914,7 @@ assemblies:
   -
     ga_ordinal: 32
     assembly: "GA32"
-    status: "in_progress"
+    status: "closed"
     catalogue_records: 16
     records_complete: 16
     records_in_progress: 0
@@ -15927,14 +15927,14 @@ assemblies:
     candidates_unreviewed: 0
     candidate_invalid_links: 0
     candidate_reviews_orphaned: 0
-    roster_reconciled: "unverified"
-    event_source_audited: "unverified"
-    build: "unverified"
-    preview_reviewed: "unverified"
-    commit_sha: ""
-    pushed: "unverified"
-    blocker: "roster_reconciled unverified; event_source_audited unverified; build unverified; preview_reviewed unverified; commit_sha unverified; pushed unverified"
-    next_step: "Complete packet closeout: roster_reconciled, event_source_audited, build, preview_reviewed, commit_sha, pushed."
+    roster_reconciled: "verified: 16 distinct GA32 catalogue records match 16 research rows, event bundles, and page-map entries; 97/97 candidate passages reviewed with zero invalid links or orphan reviews (2026-10-14)"
+    event_source_audited: "verified: 51 unique events have continuous per-record sequences; all 51 source anchors and locators resolve, with all long quoted excerpts matching the cited Markdown after normalization (2026-10-14)"
+    build: "passed: full validating siteBuild -RegenerateOvertures; 10,911 linked HTML files verified, 8,685 search pages indexed, rendered-site validation and 30/30 Node checks passed (2026-10-14; 6m04s)"
+    preview_reviewed: "verified: all 16 GA32 overture routes returned HTTP 200 with 51 action headings and source links (2026-10-14)"
+    commit_sha: "51634d770"
+    pushed: "pushed"
+    blocker: ""
+    next_step: "No remaining work recorded."
     overtures:
       -
         record_id: "overture:ga32_2004:1:p155"
