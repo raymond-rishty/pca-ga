@@ -3781,10 +3781,10 @@ assemblies:
         research_status: "complete"
         next_step: "No overture-level research remains; packet audits and closeout are tracked at GA level."
         disposition: "Answered in the negative"
-        event_count: 2
+        event_count: 3
         last_action_ga: 11
         search_through_assembly: 11
-        gap_note: "GA11 answered the proposal in the negative. This is distinct from the carried-over GA10 Siouxlands Overture 9 on BCO 14-2 and from GA11 Illiana Overture 8; GA11 O8 expressly refers to this Gulf Coast O9 action."
+        gap_note: "The submitted text bears the stated-clerk attestation; the minutes provide no adoption date or recorded Presbytery vote tally, so neither is inferred. GA11 answered the proposal in the negative. This is distinct from the carried-over GA10 Siouxlands Overture 9 on BCO 14-2 at GA11 p. 54 and from GA11 Illiana Overture 8; GA11 O8 expressly refers to this Gulf Coast O9 action."
         anomalies: ""
       -
         record_id: "overture:ga11_1983:9:p54"
