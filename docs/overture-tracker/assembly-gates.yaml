@@ -192,9 +192,9 @@
   },
   "22": {
     "roster_reconciled": "verified: 46 page-qualified records reconcile to the GA22 docket and distinct source texts; research rows, event bundles, and page-map entries are present, including both reused Overture 1 and Overture 22 identities (2026-10-13)",
-    "event_source_audited": "verified: 141 events across 46 records; all source anchors resolve; 137 excerpts match normalized Markdown and four explicit omission excerpts have each quoted segment verified; event IDs and sequences are unique and continuous; all 148 candidate reviews are linked (2026-10-13)",
-    "build": "passed: full validating siteBuild; 10,897 linked HTML files staged and rendered-site validation passed (2026-10-13)",
-    "preview_reviewed": "verified: GA22 O38 local page returned HTTP 200; six chronological action sections and GA22/GA23 source links rendered, with explicit excerpt labels and omission marker (2026-10-13)",
+    "event_source_audited": "verified: 200 events across all 46 distinct GA22 records; 197 quoted excerpts match normalized Markdown and 3 vote tables are represented as verified table transcriptions where the Markdown joins labels to values; all 200 source anchors resolve; event IDs and sequences are unique and continuous; 148/148 candidate reviews linked (2026-10-14)",
+    "build": "passed: full validating siteBuild; 10,898 linked HTML files validated, rendered-site validation passed (2026-10-14; 15m35s)",
+    "preview_reviewed": "verified: all 46 GA22 overture pages returned HTTP 200 locally; rendered action-heading counts match all 200 event records; checked source/excerpt labels, related-record links, vote-table transcriptions, and Overture 32 OCR limitation (2026-10-14)",
     "commit_sha": "",
     "pushed": "unverified",
     "blocker": "GA22 Overture 32 submitted-text transcription contains corrupted OCR; preserve it without reconstruction. This limitation is documented on the record; action excerpts were audited independently."
