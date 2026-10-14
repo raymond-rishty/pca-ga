@@ -13,19 +13,19 @@ Spreadsheet exports are in this directory:
   recur; `disposition` records the historical result while
   `research_status` records our evidence-gathering progress. Rows are sorted by
   GA, numeric overture number, source page, then full record ID.
-- [`work-queue.csv`](work-queue.csv): ordered work schedule across all in-scope
+- [`work-queue.csv`](work-queue.csv): ordered work schedule across GA1–GA52
   Assemblies. It prioritizes in-progress trails, source-unavailable records,
   invalid candidate links, orphaned reviews, other missing trails, remaining
   candidate coverage, then packet closeout. GA4–GA7 receive a focused audit of
-  their overture action trails before general candidate coverage. GA52 and
-  later are excluded from the active queue until their minutes are available;
-  GA51 remains excluded by project direction. Within each ordinary priority,
+  their overture action trails before general candidate coverage. GA52 remains
+  in the queue; its 19 in-progress trails need later primary actions or reports.
+  Within each ordinary priority,
   Assemblies remain in backward order. The generated queue is the source of
   truth for the current next packet and its outstanding work.
 - [`inventory-reconciliation.csv`](inventory-reconciliation.csv): source-page
   identities present in either the 1,537-record baseline (`db7c8c93c858`) or the
-  current catalogue snapshot (`5ac87b015`), but not both. It lists 207 current-only
-  and 63 baseline-only identities; possible subject matches are leads for review,
+  current catalogue snapshot (`e4f66230c29c`), but not both. It lists 207 current-only
+  and 64 baseline-only identities; possible subject matches are leads for review,
   not automatic merges or exclusions. `review_status` records source-checked
   outcomes, and the generated work queue reports how many deltas remain open.
 - [`assembly-gates.yaml`](assembly-gates.yaml): human-evidenced packet checks;

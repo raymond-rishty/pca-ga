@@ -363,13 +363,12 @@ def main() -> None:
 
     # Prioritize the explicitly requested cleanup sequence, then remaining
     # trail gaps, early action-trail audits, known roster discrepancies,
-    # candidate coverage, and packet closeout. GA51 remains excluded by project
-    # direction. GA52 and later Assemblies are outside the current work window
-    # because their complete minutes corpus is not available. GA4-GA7 get a
-    # focused audit after the record/link cleanup priorities and before general
-    # candidate coverage.
+    # candidate coverage, and packet closeout. Keep GA51 and GA52 in the work
+    # window; GA52 trails remain in progress until later primary actions are
+    # available. GA4-GA7 get a focused audit after the record/link cleanup
+    # priorities and before general candidate coverage.
     queue_rows = []
-    in_scope = [r for r in assembly_rows if r["ga_ordinal"] < 51]
+    in_scope = [r for r in assembly_rows if r["ga_ordinal"] < 53]
     def work_priority(assembly):
         if assembly["records_in_progress"]:
             return 0
@@ -501,7 +500,7 @@ def main() -> None:
             "records_complete_total": "",
             "candidates_reviewed_total": "",
             "next_step": "Audit every in-scope distinct record, source quote, page anchor, chronological order, and rendered page; run the full validating site build after the last Assembly packet.",
-            "follow_up": "Active work window: GA1-GA50, excluding GA51. Resume GA52 and later when their minutes are available.",
+            "follow_up": "Active work window: GA1-GA52. GA52 has 19 trails in progress that need later primary actions or reports; keep them open until the supporting minutes are available.",
         },
     ])
     csv_write(QUEUE_OUT, [

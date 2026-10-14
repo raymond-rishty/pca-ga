@@ -24095,8 +24095,8 @@ assemblies:
     ga_ordinal: 49
     assembly: "GA49"
     status: "closed"
-    catalogue_records: 41
-    records_complete: 41
+    catalogue_records: 40
+    records_complete: 40
     records_in_progress: 0
     records_not_researched: 0
     records_source_unavailable: 0
@@ -24107,11 +24107,11 @@ assemblies:
     candidates_unreviewed: 0
     candidate_invalid_links: 0
     candidate_reviews_orphaned: 0
-    roster_reconciled: "verified: 41 distinct records match research rows, event bundles, and page-map entries; 337/337 candidate passages reviewed with zero invalid record links (2026-10-13)"
+    roster_reconciled: "verified: 40 distinct GA49 proposals match 40 research rows, event bundles, and page-map entries; 337/337 candidate passages reviewed with zero invalid links after excluding the GA48 O13 attachment (2026-10-14)"
     event_source_audited: "verified: 230 event source anchors/locators in GA48–GA50 resolve in Markdown; 11 later-volume follow-up events excluded from this pass under project scope (2026-10-13)"
-    build: "passed: full siteBuild -RegenerateOvertures 2026-10-13"
-    preview_reviewed: "verified: GA49 O8 page returned HTTP 200; seven chronological action sections and source links rendered (2026-10-13)"
-    commit_sha: "3563e7bed"
+    build: "passed: full siteBuild -RegenerateOvertures; 10,910 linked HTML files validated, 8,684 indexed pages, rendered-site validation passed (2026-10-14; 9m43s)"
+    preview_reviewed: "verified: GA49 O13 canonical page shows the distinct Ascension submission and two GA49 actions; GA48 O13 page shows the GA49 MNA implementation at PDF p. 59 under its originating proposal (2026-10-14)"
+    commit_sha: "e4f66230c"
     pushed: "pushed"
     blocker: ""
     next_step: "No remaining work recorded."
@@ -24272,7 +24272,7 @@ assemblies:
         source_page: 1319
         source: "Ascension Presbytery (to OC) “Petition United States Government to End Abortion”"
         title: "Petition the United States Government to End Abortion"
-        page: "overtures/ga49_2022__o13__p1319.md"
+        page: "overtures/ga49_2022__o13.md"
         research_status: "complete"
         next_step: "No overture-level research remains; packet audits and closeout are tracked at GA level."
         disposition: "Approved (amended)"
@@ -24280,21 +24280,6 @@ assemblies:
         last_action_ga: 49
         search_through_assembly: 52
         gap_note: "The General Assembly adopted the non-constitutional communication as amended. No later action on this record located through GA52."
-        anomalies: ""
-      -
-        record_id: "overture:ga49_2022:13:p345"
-        number: 13
-        source_page: 345
-        source: "Mississippi Valley Presbytery (to MNA) “Endorse Lifeline Children's Services”"
-        title: "Direct MNA to Explore Endorsing Lifeline Children's Services"
-        page: "overtures/ga49_2022__o13__p345.md"
-        research_status: "complete"
-        next_step: "No overture-level research remains; packet audits and closeout are tracked at GA level."
-        disposition: ""
-        event_count: 0
-        last_action_ga: ""
-        search_through_assembly: 52
-        gap_note: "GA49 MNA action concerned the separate GA48 O13. No action on this GA49 O13 submission was located through GA52."
         anomalies: ""
       -
         record_id: "overture:ga49_2022:14:p1323"
@@ -25214,7 +25199,7 @@ assemblies:
     commit_sha: "c06f3d7c44a94a91c3f846f4562ad9cbd44f44e6"
     pushed: "pushed"
     blocker: ""
-    next_step: ""
+    next_step: "No remaining work recorded."
     overtures:
       -
         record_id: "overture:ga51_2024:1:p1055"
@@ -25764,7 +25749,7 @@ assemblies:
     commit_sha: "8b1d4068186a004b74b751c3165fd235b190f702"
     pushed: "pushed"
     blocker: "19 records in progress; 19 records remain in progress because their later action or final ratification falls beyond the GA52 minutes currently in the repository."
-    next_step: ""
+    next_step: "Complete source trails for 19 overture records; then document evidence-based source gaps."
     overtures:
       -
         record_id: "overture:ga52_2025:1:p1165"

@@ -438,7 +438,7 @@
     "event_source_audited": "verified: 230 event source anchors/locators in GA48–GA50 resolve in Markdown; 11 later-volume follow-up events excluded from this pass under project scope (2026-10-13)",
     "build": "passed: full siteBuild -RegenerateOvertures; 10,910 linked HTML files validated, 8,684 indexed pages, rendered-site validation passed (2026-10-14; 9m43s)",
     "preview_reviewed": "verified: GA49 O13 canonical page shows the distinct Ascension submission and two GA49 actions; GA48 O13 page shows the GA49 MNA implementation at PDF p. 59 under its originating proposal (2026-10-14)",
-    "commit_sha": "3563e7bed",
+    "commit_sha": "e4f66230c",
     "pushed": "pushed",
     "blocker": ""
   },
