@@ -362,12 +362,12 @@
     "blocker": ""
   },
   "41": {
-    "roster_reconciled": "unverified",
-    "event_source_audited": "unverified",
-    "build": "unverified",
-    "preview_reviewed": "unverified",
-    "commit_sha": "",
-    "pushed": "unverified",
+    "roster_reconciled": "verified: 23 distinct GA41 records match 23 research rows, event bundles, and page-map entries; 189/189 candidate passages reviewed with no missing linked record targets (2026-10-14)",
+    "event_source_audited": "verified: 141 events have unique IDs and continuous per-record sequences; all 141 event anchors and 4 supporting-excerpt anchors resolve; 145/145 quoted excerpts match their source-volume Markdown after accounting for formatting, page folios, and explicit omissions (2026-10-14)",
+    "build": "passed: full validating siteBuild -RegenerateOvertures; 10,911 linked HTML files verified, 8,685 search pages indexed, rendered-site validation and 30/30 Node checks passed (2026-10-14; 6m)",
+    "preview_reviewed": "verified: GA41 O1, O19, and O23 pages returned HTTP 200 with action sections and GA41 source links; corrected passages inspected in preview (2026-10-14)",
+    "commit_sha": "ea09feec95c7a84f04245d4568d78f0031f1a6db",
+    "pushed": "pushed",
     "blocker": ""
   },
   "42": {
