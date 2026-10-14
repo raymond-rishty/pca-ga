@@ -6937,14 +6937,14 @@ assemblies:
     candidates_unreviewed: 0
     candidate_invalid_links: 0
     candidate_reviews_orphaned: 0
-    roster_reconciled: "unverified"
-    event_source_audited: "unverified"
-    build: "unverified"
-    preview_reviewed: "unverified"
+    roster_reconciled: "verified: 38 distinct GA15 catalogue records match 38 research rows, event bundles, and page-map entries; 248/248 candidate passages reviewed with zero invalid links or orphan reviews (2026-10-14)"
+    event_source_audited: "verified: 186 events have unique IDs, continuous per-record sequences, complete printed/PDF locators, and 186/186 resolving anchors; all 183 quoted events checked against source Markdown, with 176 normalized literal matches and seven page-spanning/list-formatted excerpts manually verified; corrected the GA15 O15 attestation, GA15 O7 excerpt, GA15 O13 direct quotation, and GA15 O10 GA16 adoption locator after PDF/source checks (2026-10-14)"
+    build: "passed: full validating siteBuild -RegenerateOvertures; 10,911 linked HTML files verified, 8,685 search pages indexed, rendered-site validation and 30/30 Node regressions passed (2026-10-14; 5m48s)"
+    preview_reviewed: "verified: all 38 GA15 overture routes returned HTTP 200 with action-heading counts matching event bundles; GA15 O13 direct quote and source range reviewed in preview, and O10 GA16 adoption source link corrected to printed p. 110 (PDF p. 112) (2026-10-14)"
     commit_sha: ""
     pushed: "unverified"
-    blocker: "roster_reconciled unverified; event_source_audited unverified; build unverified; preview_reviewed unverified; commit_sha unverified; pushed unverified"
-    next_step: "Complete packet closeout: roster_reconciled, event_source_audited, build, preview_reviewed, commit_sha, pushed."
+    blocker: "commit_sha unverified; pushed unverified"
+    next_step: "Complete packet closeout: commit_sha, pushed."
     overtures:
       -
         record_id: "overture:ga15_1987:1:p45"

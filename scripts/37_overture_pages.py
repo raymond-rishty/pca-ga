@@ -129,11 +129,11 @@ def existing_source_links():
             if not in_source_links:
                 continue
             if line.startswith("  - "):
-                if current:
+                if current is not None:
                     links.append(current)
                 current = {}
                 line = "    " + line[4:]
-            if current and line.startswith("    ") and ":" in line:
+            if current is not None and line.startswith("    ") and ":" in line:
                 key, value = line.strip().split(":", 1)
                 value = value.strip()
                 if value.startswith('"'):
@@ -143,7 +143,7 @@ def existing_source_links():
                 elif value.isdigit():
                     value = int(value)
                 current[key] = value
-        if current:
+        if current is not None:
             links.append(current)
         by_filename[os.path.basename(path)] = links
     return by_filename
