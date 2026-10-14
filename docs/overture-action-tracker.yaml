@@ -9199,7 +9199,7 @@ assemblies:
   -
     ga_ordinal: 19
     assembly: "GA19"
-    status: "in_progress"
+    status: "closed"
     catalogue_records: 42
     records_complete: 42
     records_in_progress: 0
@@ -9212,14 +9212,14 @@ assemblies:
     candidates_unreviewed: 0
     candidate_invalid_links: 0
     candidate_reviews_orphaned: 0
-    roster_reconciled: "unverified"
-    event_source_audited: "unverified"
-    build: "unverified"
-    preview_reviewed: "unverified"
-    commit_sha: ""
-    pushed: "unverified"
-    blocker: "roster_reconciled unverified; event_source_audited unverified; build unverified; preview_reviewed unverified; commit_sha unverified; pushed unverified"
-    next_step: "Complete packet closeout: roster_reconciled, event_source_audited, build, preview_reviewed, commit_sha, pushed."
+    roster_reconciled: "verified: 42 distinct GA19 catalogue records match 42 research rows, event bundles, and page-map entries; 163/163 candidate passages reviewed with zero invalid links or orphan reviews (2026-10-14)"
+    event_source_audited: "verified: 126 unique events across 42 records have continuous per-record sequences; all 126 event anchors resolve. All 126 action quotations and 4 supporting excerpts match the cited Markdown after removing page markers and formatting; explicit omissions remain marked (2026-10-14)"
+    build: "passed: full validating siteBuild -RegenerateOvertures; 10,911 linked HTML files verified, 8,685 search pages indexed, rendered-site validation and 30/30 Node checks passed (2026-10-14; 5m06s)"
+    preview_reviewed: "verified: all 42 GA19 overture routes returned HTTP 200 with 126 action headings and 172 minutes source links; O38/O39 recommendation, postponement/referral, and later vote stages render separately (2026-10-14)"
+    commit_sha: "ba458b5df7b98fff81dd4e0ffdd0fd8e863ea757"
+    pushed: "pushed"
+    blocker: ""
+    next_step: "No remaining work recorded."
     overtures:
       -
         record_id: "overture:ga19_1991:1:p158"
@@ -9771,7 +9771,7 @@ assemblies:
         research_status: "complete"
         next_step: "No overture-level research remains; packet audits and closeout are tracked at GA level."
         disposition: ""
-        event_count: 2
+        event_count: 3
         last_action_ga: 20
         search_through_assembly: 20
         gap_note: ""
@@ -9786,7 +9786,7 @@ assemblies:
         research_status: "complete"
         next_step: "No overture-level research remains; packet audits and closeout are tracked at GA level."
         disposition: ""
-        event_count: 2
+        event_count: 3
         last_action_ga: 20
         search_through_assembly: 20
         gap_note: ""

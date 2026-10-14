@@ -164,12 +164,12 @@
     "blocker": ""
   },
   "19": {
-    "roster_reconciled": "unverified",
-    "event_source_audited": "unverified",
-    "build": "unverified",
-    "preview_reviewed": "unverified",
-    "commit_sha": "",
-    "pushed": "unverified",
+    "roster_reconciled": "verified: 42 distinct GA19 catalogue records match 42 research rows, event bundles, and page-map entries; 163/163 candidate passages reviewed with zero invalid links or orphan reviews (2026-10-14)",
+    "event_source_audited": "verified: 126 unique events across 42 records have continuous per-record sequences; all 126 event anchors resolve. All 126 action quotations and 4 supporting excerpts match the cited Markdown after removing page markers and formatting; explicit omissions remain marked (2026-10-14)",
+    "build": "passed: full validating siteBuild -RegenerateOvertures; 10,911 linked HTML files verified, 8,685 search pages indexed, rendered-site validation and 30/30 Node checks passed (2026-10-14; 5m06s)",
+    "preview_reviewed": "verified: all 42 GA19 overture routes returned HTTP 200 with 126 action headings and 172 minutes source links; O38/O39 recommendation, postponement/referral, and later vote stages render separately (2026-10-14)",
+    "commit_sha": "ba458b5df7b98fff81dd4e0ffdd0fd8e863ea757",
+    "pushed": "pushed",
     "blocker": ""
   },
   "20": {
