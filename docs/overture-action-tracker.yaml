@@ -6089,7 +6089,7 @@ assemblies:
   -
     ga_ordinal: 14
     assembly: "GA14"
-    status: "in_progress"
+    status: "closed"
     catalogue_records: 54
     records_complete: 54
     records_in_progress: 0
@@ -6106,10 +6106,10 @@ assemblies:
     event_source_audited: "verified: 252 events with unique IDs, continuous per-record sequences, and resolving source anchors; 249 quoted events audited against Markdown (247 contiguous token matches; O27 e04 explicit omission and O28 e09 page-folio interruption manually checked); 178/178 candidates reviewed with zero invalid links or orphan reviews (2026-10-14)"
     build: "passed: full siteBuild -RegenerateOvertures; 10,911 linked HTML files and 8,685 Pagefind-indexed pages validated (2026-10-14)"
     preview_reviewed: "verified: GA14 O6, O27, O36, O37, O43, O45, O50, O53, and O54 returned HTTP 200; each rendered action-heading and source-link count matches its events; O36 and O43 content reviewed in browser (2026-10-14)"
-    commit_sha: ""
-    pushed: "unverified"
-    blocker: "commit_sha unverified; pushed unverified"
-    next_step: "Complete packet closeout: commit_sha, pushed."
+    commit_sha: "03a7f8909"
+    pushed: "pushed"
+    blocker: ""
+    next_step: "No remaining work recorded."
     overtures:
       -
         record_id: "overture:ga14_1986:1:p49"
