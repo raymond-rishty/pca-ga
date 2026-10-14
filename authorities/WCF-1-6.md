@@ -13,6 +13,8 @@
 | 2016 | Overture | explicit_citation | direct_text | high | [Adopt Statement on Repentance, Racial Reconciliation, and Reformation](../markdown/ga44_2016.md#ga44-p606) | Answered by reference |
 | 2002 | Overture | explicit_citation | direct_text | high | [Acknowledge Diversity of Views on Women in Military & Dismiss WIM Committee](../markdown/ga30_2002.md#ga30-p247) | Answered by reference |
 | 2002 | Overture | explicit_citation | direct_text | high | [Acknowledge Diversity of Views on Women in Military and Dismiss WIM Committee](../markdown/ga30_2002.md#ga30-p253) | Answered by reference |
+| 1994 | Overture | explicit_citation | direct_text | high | [Amend BCO 58 to Specify Who May Distribute the Lord's Supper](../markdown/ga22_1994.md#ga22-p249) |  |
+| 1993 | Overture | explicit_citation | direct_text | high | [Amend BCO 3-4 Regarding the Constitution of the State](../markdown/ga21_1993.md#ga21-p122) |  |
 | 1987 | Overture | explicit_citation | direct_text | high | [Reconsider the Assembly's Ruling That Extraordinary Revelatory Gifts Have Ceased](../markdown/ga15_1987.md#ga15-p53) | Answered in the negative |
 | 1986 | Overture | explicit_citation | direct_text | high | [Clarify the Proper Scope of Diaconal Ministry](../markdown/ga14_1986.md#ga14-p58) |  |
 

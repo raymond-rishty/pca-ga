@@ -1,8 +1,8 @@
 # Authority index audit
 
-Catalogue input fingerprint: `d7d1dbad71864773326001e87e7e7e970159a86204a26fc408c5fa683b96719e`.
+Catalogue input fingerprint: `48d52d09e47042554421ee9496b3253cf281b26997edba33840a2118f4f47f75`.
 
-The catalogue contains 1172 provisions, 12679 relationships, 16500 evidence occurrences, and 95 unmatched source references.
+The catalogue contains 1172 provisions, 12735 relationships, 16609 evidence occurrences, and 96 unmatched source references.
 
 Relationship kinds describe why a record is linked. Evidence basis describes the source of that link. Match confidence describes extraction confidence. Reader scope labels the relationship in the Constitution Reader. These fields do not describe legal force.
 
@@ -15,7 +15,7 @@ The Reader includes indexed relationships for its supported record types across 
 | CCB advice | 549 | 549 |
 | Constitutional inquiry | 437 | 437 |
 | Judicial case | 3264 | 3264 |
-| Overture | 1542 | 1542 |
+| Overture | 1598 | 1598 |
 | RPR exception | 6887 | 6887 |
 
 Reader-included relationships by scope:
@@ -25,8 +25,8 @@ Reader-included relationships by scope:
 | CCB advice | `contextual` | 549 |
 | Constitutional inquiry | `primary` | 437 |
 | Judicial case | `primary` | 3264 |
-| Overture | `candidate` | 1486 |
-| Overture | `primary` | 56 |
+| Overture | `candidate` | 1540 |
+| Overture | `primary` | 58 |
 | RPR exception | `candidate` | 136 |
 | RPR exception | `contextual` | 6751 |
 
@@ -36,8 +36,8 @@ Reader-included relationships by scope:
 |-------|------:|
 | `body_mention` | 203 |
 | `exception_target` | 224 |
-| `explicit_citation` | 3910 |
-| `proposal_target` | 470 |
+| `explicit_citation` | 3972 |
+| `proposal_target` | 485 |
 | `structured_case_reference` | 820 |
 | `structured_exception_tag` | 6711 |
 | `structured_provision_tag` | 986 |
@@ -46,25 +46,25 @@ Reader-included relationships by scope:
 
 | Value | Count |
 |-------|------:|
-| `direct_text` | 4311 |
+| `direct_text` | 4373 |
 | `structured_case_metadata` | 820 |
 | `structured_provision_tag` | 7697 |
-| `title_subject_reference` | 470 |
+| `title_subject_reference` | 485 |
 
 ### Relationships by match confidence
 
 | Value | Count |
 |-------|------:|
-| `high` | 4478 |
+| `high` | 4534 |
 | `medium` | 8201 |
 
 ### Relationships by reader scope
 
 | Value | Count |
 |-------|------:|
-| `candidate` | 1622 |
+| `candidate` | 1676 |
 | `contextual` | 7300 |
-| `primary` | 3757 |
+| `primary` | 3759 |
 
 ### Relationships by match method
 
@@ -82,7 +82,7 @@ Reader-included relationships by scope:
 | `case_provision_index:judicial_cases.jsonl:bco_provisions` | 66 |
 | `index/inquiries_search.json:provisions` | 986 |
 | `index/rpr_search.json:provisions` | 6711 |
-| `overture_body_explicit_reference_match` | 1375 |
+| `overture_body_explicit_reference_match` | 1437 |
 | `rpr_markdown_line:100` | 1 |
 | `rpr_markdown_line:104` | 1 |
 | `rpr_markdown_line:105` | 2 |
@@ -170,7 +170,7 @@ Reader-included relationships by scope:
 | `rpr_markdown_line:97` | 1 |
 | `rpr_markdown_line:98` | 2 |
 | `rpr_markdown_line:99` | 6 |
-| `title_subject` | 470 |
+| `title_subject` | 485 |
 
 ### Evidence occurrences by relationship kind
 
@@ -178,8 +178,8 @@ Reader-included relationships by scope:
 |-------|------:|
 | `body_mention` | 366 |
 | `exception_target` | 284 |
-| `explicit_citation` | 6842 |
-| `proposal_target` | 470 |
+| `explicit_citation` | 6936 |
+| `proposal_target` | 485 |
 | `structured_case_reference` | 841 |
 | `structured_exception_tag` | 6711 |
 | `structured_provision_tag` | 986 |
@@ -188,25 +188,25 @@ Reader-included relationships by scope:
 
 | Value | Count |
 |-------|------:|
-| `direct_text` | 7492 |
+| `direct_text` | 7586 |
 | `structured_case_metadata` | 841 |
 | `structured_provision_tag` | 7697 |
-| `title_subject_reference` | 470 |
+| `title_subject_reference` | 485 |
 
 ### Evidence occurrences by match confidence
 
 | Value | Count |
 |-------|------:|
-| `high` | 7962 |
+| `high` | 8071 |
 | `medium` | 8538 |
 
 ### Evidence occurrences by reader scope
 
 | Value | Count |
 |-------|------:|
-| `candidate` | 2796 |
+| `candidate` | 2903 |
 | `contextual` | 7544 |
-| `primary` | 6160 |
+| `primary` | 6162 |
 
 ## Unmatched source references
 
@@ -215,7 +215,7 @@ Reader-included relationships by scope:
 | CCB advice | 14 |
 | Constitutional inquiry | 4 |
 | Judicial case | 16 |
-| Overture | 42 |
+| Overture | 43 |
 | RPR exception | 19 |
 
 | Provision | Record type | Record ID | Evidence | Confidence | Scope | Source |
@@ -273,6 +273,7 @@ Reader-included relationships by scope:
 | BCO 44-3 | Judicial case | `case:cases/ga14_1986__case7.md` | `direct_text` | `high` | `primary` | [Dye et al. v. Missouri Presbytery](../cases/ga14_1986__case7.md) |
 | BCO 45-6 | CCB advice | `ccb_advice:inquiries/ga25_1997__ci04.md` | `structured_provision_tag` | `medium` | `contextual` | [Perfecting amendment language for removing members from the roll](../inquiries/ga25_1997__ci04.md) |
 | BCO 46-51 | Overture | `overture:ga24_1996:6:p298` | `direct_text` | `high` | `candidate` | [Amend BCO 46-5, 38-2 & 38-3 on Member Roll Removal & Discipline](../markdown/ga24_1996.md#ga24-p298) |
+| BCO 46-9 | Overture | `overture:ga21_1993:14:p128` | `direct_text` | `high` | `candidate` | [Amend BCO 38-3 to Clarify Discipline of Members Joining Other Churches](../markdown/ga21_1993.md#ga21-p128) |
 | BCO 48-9 | Judicial case | `case:cases/ga24_1996__1995-01.md` | `direct_text` | `high` | `primary` | [David C. Lachman v. Philadelphia Presbytery](../cases/ga24_1996__1995-01.md) |
 | BCO 5-11.3 | RPR exception | `rpr_exception:rpr/exc/northern-california__021.html` | `structured_provision_tag` | `medium` | `contextual` | [Northern California: Presbytery approved an invalid call (call was voted on by members of the mission church pr](../rpr/exc/northern-california__021.html) |
 | BCO 5-11.3 | RPR exception | `rpr_exception:rpr/exc/pacific-northwest__029.html` | `structured_provision_tag` | `medium` | `contextual` | [Pacific Northwest: Approved TE’s call prior to congregation being particularized. BCO 5-11.3](../rpr/exc/pacific-northwest__029.html) |
@@ -360,7 +361,7 @@ Stored `unrelated_or_mislinked` advisory labels by record type:
 - Overture: 89
 - RPR exception: 118
 
-Assessment status: `stale`; applied 0, stale 11481, unassessed 12679.
+Assessment status: `stale`; applied 0, stale 11481, unassessed 12735.
 
 ## Coverage and spot checks
 

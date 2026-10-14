@@ -10,6 +10,7 @@
 | 2022 | Judicial case | explicit_citation | direct_text | high | [Gordon v. Southern New England Presbytery](../cases/ga49_2022__2020-06.md) | denied |
 | 2018 | Judicial case | explicit_citation | direct_text | high | [Dailey v. Heritage Presbytery](../cases/ga46_2018__2017-01.md) | sustained |
 | 2019 | CCB advice | structured_provision_tag | structured_provision_tag | medium | [5-9.i(1), 7-2, 9-3, 17-3, 24, and Add a Chapter 25 In Order to Allow Local Sessions to Decide Whether Women Are Allowed to Serve as Deacons](../inquiries/ga47_2019__ci17.md) | not in conflict; Adopted by the CCB |
+| 1993 | Overture | explicit_citation | direct_text | high | [Amend BCO 24-1 to Require Training of Officer Nominees](../markdown/ga21_1993.md#ga21-p122) |  |
 | 2025 | RPR exception | structured_exception_tag | structured_provision_tag | medium | [Arizona: Record of petition to particularize not recorded or approved by presbytery. Organizing pas](../rpr/exc/arizona__069.html) | raised |
 | 2025 | RPR exception | structured_exception_tag | structured_provision_tag | medium | [Korean Southwest: Presbytery appears to have particularized a mission church without receiving and approving](../rpr/exc/korean-southwest__259.html) | raised |
 | 2025 | RPR exception | structured_exception_tag | structured_provision_tag | medium | [Korean Southwest: Presbytery particularizes mission works with no evidence that all required procedures were](../rpr/exc/korean-southwest__258.html) | unsatisfactory |

@@ -605,6 +605,44 @@ Every overture recorded across all General Assemblies, grouped by Assembly. Page
 | [36](../overtures/ga11_1983__o36.md) | Remove West Texas Counties from Texas Presbytery to Allow New Presbytery Formation | Adopted (final) | the Presbytery of Texas | [p.51](../markdown/ga11_1983.md#ga11-p51) |
 | [37](../overtures/ga11_1983__o37.md) | Share St. Louis Presbytery Study on Confessional Subscription with Other Presbyteries | Adopted (final) | the Presbytery of St. Louis. Whereas, the IOth General Assembly of the Presbyterian Church | [p.49](../markdown/ga11_1983.md#ga11-p49) |
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## 12th General Assembly (1984)  ·  `ga12_1984`
 
 
@@ -1559,18 +1597,50 @@ Every overture recorded across all General Assemblies, grouped by Assembly. Page
 
 | [1](../overtures/ga22_1994__o1__p65.md) | Continue Korean Language Presbyteries on Semi-Permanent Status |  | OVERTURE 1 From Korean Central Presbytery (to MNA) | [p.65](../markdown/ga22_1994.md#ga22-p65) |
 | [1](../overtures/ga22_1994__o1__p323.md) | Continue Korean Language Presbyteries on Semi-Permanent Status |  | OVERTURE 1 From Korean Capital Presbytery | [p.323](../markdown/ga22_1994.md#ga22-p323) |
+| [2](../overtures/ga22_1994__o2.md) | Amend BCO 14-1(11) and RAO 4-6 to Limit Membership on Nominating Committee and Review of Presbytery Records Committee |  | North Georgia Presbytery | [p.232](../markdown/ga22_1994.md#ga22-p232) |
+| [4](../overtures/ga22_1994__o4.md) | Adopt Cost-of-Living Method for Annual Staff Budget Increases |  | Western Carolina Presbytery | [p.258](../markdown/ga22_1994.md#ga22-p258) |
+| [5](../overtures/ga22_1994__o5.md) | Include Complaints, Appeals, and Briefs in Printed Minutes of the General Assembly |  | Northeast Presbytery | [p.259](../markdown/ga22_1994.md#ga22-p259) |
+| [6](../overtures/ga22_1994__o6.md) | Amend BCO 13 to Include Instructions on Dissolving Churches | GA22 adopted the BCO 13-10 response and sent it for advice and consent; GA23 reported 48-3 presbytery approval and adopted the text. | OVERTURE 6 from Northeast Presbytery | [p.69](../markdown/ga22_1994.md#ga22-p69) |
+| [7](../overtures/ga22_1994__o7.md) | Encourage All PCA Churches to Develop a Ministry of Spiritual Mothering |  | Southeast Alabama Presbytery | [p.220](../markdown/ga22_1994.md#ga22-p220) |
+| [8](../overtures/ga22_1994__o8.md) | Encourage PCA Churches to Appoint Godly Men and Women to Assist Deacons per BCO 9-7 |  | Southeast Alabama Presbytery | [p.242](../markdown/ga22_1994.md#ga22-p242) |
+| [9](../overtures/ga22_1994__o9.md) | Reaffirm That the Offices of Elder and Deacon Are Open to Men Only |  | Southeast Alabama Presbytery | [p.243](../markdown/ga22_1994.md#ga22-p243) |
+| [10](../overtures/ga22_1994__o10.md) | Require Cross-Cultural Ministry Training and Internship Before Ordination |  | Presbytery of Southern Florida | [p.221](../markdown/ga22_1994.md#ga22-p221) |
+| [11](../overtures/ga22_1994__o11.md) | Mandate Pre-Ordination Training for All Elders and Deacons |  | Presbytery of Southern Florida | [p.222](../markdown/ga22_1994.md#ga22-p222) |
+| [12](../overtures/ga22_1994__o12.md) | Amend RAO 13 and 14 Regarding Minutes, Exceptions, and Notations |  | Potomac Presbytery | [p.233](../markdown/ga22_1994.md#ga22-p233) |
+| [13](../overtures/ga22_1994__o13.md) | Amend RAO 13-6(e) to Require Special Style in Reporting BCO Amendments |  | Potomac Presbytery | [p.234](../markdown/ga22_1994.md#ga22-p234) |
+| [14](../overtures/ga22_1994__o14.md) | Amend BCO 15-3 to Permit Debate on Facts |  | Eastern Canada Presbytery | [p.241](../markdown/ga22_1994.md#ga22-p241) |
 | [15](../overtures/ga22_1994__o15.md) | Require Interchurch Relations Committee of Commissioners to Investigate IRC | Answered by GA22 substitute; GA23 directed correction of M22GA and no further action | OVERTURE 15 From Eastern Canada (to IRC) | [p.486](../markdown/ga23_1995.md#ga23-p486) |
+| [16](../overtures/ga22_1994__o16.md) | Amend BCO 32-3b to Permit Waiving the Waiting Period |  | Eastern Canada Presbytery | [p.244](../markdown/ga22_1994.md#ga22-p244) |
+| [17](../overtures/ga22_1994__o17.md) | Endorse SBC's 'True Love Waits' Campaign and Direct CE&P to Use It |  | Covenant Presbytery | [p.224](../markdown/ga22_1994.md#ga22-p224) |
+| [18](../overtures/ga22_1994__o18.md) | Direct MNA to Recruit, Train, and Deploy Home Missionaries |  | Covenant Presbytery | [p.176](../markdown/ga22_1994.md#ga22-p176) |
+| [19](../overtures/ga22_1994__o19.md) | Divide Calvary Presbytery to Form a New Fellowship Presbytery |  | Calvary Presbytery | [p.173](../markdown/ga22_1994.md#ga22-p173) |
+| [20](../overtures/ga22_1994__o20.md) | Establish a New Permanent Committee on Mercy and Amend BCO 14-1 |  | Presbytery of Northern California | [p.247](../markdown/ga22_1994.md#ga22-p247) |
+| [21](../overtures/ga22_1994__o21.md) | Amend BCO 15-4 to Reform General Assembly Judicial Procedures |  | Western Carolina Presbytery | [p.244](../markdown/ga22_1994.md#ga22-p244) |
 | [22](../overtures/ga22_1994__o22__p66.md) | Amend BCO 56-5 Covenant Baptism Questions for Parents |  | OVERTURE 22 From Covenant Presbytery (to CCB & B&O) | [p.66](../markdown/ga22_1994.md#ga22-p66) |
 | [22](../overtures/ga22_1994__o22__p249.md) | Amend BCO 56-5 Covenant Baptism Questions for Parents |  | OVERTURE 22 From Western Carolina Presbytery | [p.249](../markdown/ga22_1994.md#ga22-p249) |
+| [23](../overtures/ga22_1994__o23.md) | Release Trinity Presbyterian Church to Join the New Calvary Division Presbytery |  | Presbytery of Palmetto | [p.174](../markdown/ga22_1994.md#ga22-p174) |
 | [24](../overtures/ga22_1994__o24.md) | Amend BCO 32-18 to Clarify the Written Record of the Case |  | Philadelphia Presbytery "Amend BCO 32-18 to Clarify the 'Record of the Case" | [p.246](../markdown/ga22_1994.md#ga22-p246) |
 | [25](../overtures/ga22_1994__o25.md) | Set a Day of Prayer and Develop Ministry Strategy for North Korea |  | Philadelphia Presbytery "Set a Day of Prayer for and Develop Strategy for Ministry in Nort | [p.211](../markdown/ga22_1994.md#ga22-p211) |
+| [26](../overtures/ga22_1994__o26.md) | Expand the Geographical Boundaries of Philadelphia Presbytery |  | Philadelphia Presbytery | [p.174](../markdown/ga22_1994.md#ga22-p174) |
 | [27](../overtures/ga22_1994__o27.md) | Divide Tennessee Valley Presbytery to Form Nashville Presbytery | Approved in the affirmative; Nashville Presbytery established | OVERTURE 27 From Tennessee Valley Presbytery | [p.175](../markdown/ga22_1994.md#ga22-p175) |
+| [28](../overtures/ga22_1994__o28.md) | Amend BCO 58 to Specify Who May Distribute the Lord's Supper |  | Eastern Carolina Presbytery | [p.249](../markdown/ga22_1994.md#ga22-p249) |
 | [29](../overtures/ga22_1994__o29.md) | If IRC Does Not Report on CRC Issues, GA Should Replace IRC Membership | Answered by GA22 substitute; GA23 directed correction of M22GA and no further action | OVERTURE 29 From Westminster Presbytery (to IRC) | [p.486](../markdown/ga23_1995.md#ga23-p486) |
 | [30](../overtures/ga22_1994__o30.md) | Instruct MNA to Dismiss Its Subcommittee on Worship | Answered in the negative | OVERTURE 30 From Westminster Presbytery | [p.177](../markdown/ga22_1994.md#ga22-p177) |
+| [31](../overtures/ga22_1994__o31.md) | Establish a Study Committee on Voting Age of Communicant Members |  | Heartland Presbytery | [p.248](../markdown/ga22_1994.md#ga22-p248) |
+| [32](../overtures/ga22_1994__o32.md) | Clarify Distinction Between Biblical & Organizational BCO Violations |  | Heartland Presbytery | [p.67](../markdown/ga22_1994.md#ga22-p67) |
+| [33](../overtures/ga22_1994__o33.md) | Amend BCO 15-3 to Preclude Commission Conflict of Interest |  | Heartland Presbytery | [p.251](../markdown/ga22_1994.md#ga22-p251) |
+| [34](../overtures/ga22_1994__o34.md) | Call for Special Prayer for Peace on the Korean Peninsula |  | North Georgia Presbytery | [p.243](../markdown/ga22_1994.md#ga22-p243) |
+| [35](../overtures/ga22_1994__o35.md) | Amend BCO 7-1 to Make Cessation of Spiritual Gifts Explicit |  | Presbytery of the Ascension | [p.240](../markdown/ga22_1994.md#ga22-p240) |
 | [36](../overtures/ga22_1994__o36.md) | Amend BCO 14-1.11 to Limit Floor Nominations at General Assembly | Denied | OVERTURE 36 From Presbytery of the Ascension | [p.241](../markdown/ga22_1994.md#ga22-p241) |
+| [37](../overtures/ga22_1994__o37.md) | Continue Korean Language Presbyteries for Another Ten Years |  | Korean Southeastern Presbytery | [p.172](../markdown/ga22_1994.md#ga22-p172) |
 | [38](../overtures/ga22_1994__o38.md) | Investigate Conflict of Interest of Non-PCA Corporations Using PCA Address |  | the Presbytery of Northern Illinois "Investigate Potential Conflict of Interest of Individ | [p.275](../markdown/ga22_1994.md#ga22-p275) |
+| [39](../overtures/ga22_1994__o39.md) | Adopt Strict Subscription to Westminster Standards, Delimit New Revelation, and Repudiate Drama in Worship | Answered with adopted Recommendation 5; see the cited Assembly response. | Presbytery of the Ascension | [p.236](../markdown/ga22_1994.md#ga22-p236) |
 | [40](../overtures/ga22_1994__o40.md) | Require Presentation of Legal Audit to General Assembly in Executive Session |  | the Presbytery of the Ascension "Make Legal Audit Public" | [p.272](../markdown/ga22_1994.md#ga22-p272) |
+| [41](../overtures/ga22_1994__o41.md) | Require MTW to Notify Presbyteries of Changes in Missionary Calls | Answered in the affirmative with a two-part response. | Presbytery of the Ascension | [p.211](../markdown/ga22_1994.md#ga22-p211) |
+| [42](../overtures/ga22_1994__o42.md) | Investigate MTW's Relationship with Affiliated Non-Profit Corporations | Answered in the negative. | Presbytery of Southern Florida | [p.212](../markdown/ga22_1994.md#ga22-p212) |
 | [43](../overtures/ga22_1994__o43.md) | Instruct IRC to Be More Circumspect | Answered by GA22 substitute; GA23 directed correction of M22GA and no further action | OVERTURE 43 From South Texas Presbytery (to IRC) | [p.487](../markdown/ga23_1995.md#ga23-p487) |
+| [44](../overtures/ga22_1994__o44.md) | Adopt Strict Subscription, Delimit New Revelation & Repudiate Drama in Worship | Answered by reference to Recommendation 5. | South Hills RPCA, Upper St. Clair, PA | [p.237](../markdown/ga22_1994.md#ga22-p237) |
+| [45](../overtures/ga22_1994__o45.md) | Require Presentation of Full Legal Audit to General Assembly | Answered by reference to Recommendation 6. | South Hills RPCA, Upper St. Clair, PA | [p.273](../markdown/ga22_1994.md#ga22-p273) |
 
 
 

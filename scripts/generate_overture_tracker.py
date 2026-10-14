@@ -361,11 +361,12 @@ def main() -> None:
     ], assembly_rows)
 
     # Prioritize the explicitly requested cleanup sequence, then remaining
-    # trail gaps, early action-trail audits, candidate coverage, and packet
-    # closeout. GA51 remains excluded by project direction. GA52 and later
-    # Assemblies are outside the current work window because their complete
-    # minutes corpus is not available. GA4-GA7 get a focused audit after the
-    # record/link cleanup priorities and before general candidate coverage.
+    # trail gaps, early action-trail audits, known roster discrepancies,
+    # candidate coverage, and packet closeout. GA51 remains excluded by project
+    # direction. GA52 and later Assemblies are outside the current work window
+    # because their complete minutes corpus is not available. GA4-GA7 get a
+    # focused audit after the record/link cleanup priorities and before general
+    # candidate coverage.
     queue_rows = []
     in_scope = [r for r in assembly_rows if r["ga_ordinal"] < 51]
     def work_priority(assembly):
@@ -383,9 +384,11 @@ def main() -> None:
             assembly["candidates_unreviewed"] or assembly["event_source_audited"] == "unverified"
         ):
             return 5
-        if assembly["candidates_unreviewed"]:
+        if re.search(r"roster reconciliation open", assembly["blocker"], re.IGNORECASE):
             return 6
-        return 7
+        if assembly["candidates_unreviewed"]:
+            return 7
+        return 8
 
     for queue_order, assembly in enumerate(sorted(
         in_scope,
@@ -423,6 +426,12 @@ def main() -> None:
                 "or document why it is unrelated."
             )
             phase = "early_action_trail_audit"
+        elif re.search(r"roster reconciliation open", assembly["blocker"], re.IGNORECASE):
+            step = (
+                f"Reconcile {assembly['assembly']} roster against its minutes docket, "
+                "including reused numbers and source-page identities."
+            )
+            phase = "roster_reconciliation"
         elif assembly["candidates_unreviewed"]:
             step = (
                 f"Review {assembly['candidates_unreviewed']} remaining candidate passages."

@@ -4233,18 +4233,18 @@ assemblies:
     missing_research_rows: 0
     missing_event_bundles: 0
     candidate_passages: 198
-    candidates_reviewed: 0
-    candidates_unreviewed: 198
+    candidates_reviewed: 198
+    candidates_unreviewed: 0
     candidate_invalid_links: 0
     candidate_reviews_orphaned: 0
-    roster_reconciled: "unverified"
-    event_source_audited: "unverified"
-    build: "unverified"
-    preview_reviewed: "unverified"
+    roster_reconciled: "verified: 70 catalogue records match 70 research rows, 70 event bundles, and page-map entries; 198/198 candidates reviewed (2026-10-13)"
+    event_source_audited: "verified: 287 events have unique IDs, continuous sequences, and resolvable anchors; all 278 excerpt texts match normalized source Markdown; 198/198 candidate reviews have zero invalid links or orphans (2026-10-13)"
+    build: "passed: full validating siteBuild via scripts/build-local.ps1; rendered-site validation passed (2026-10-13)"
+    preview_reviewed: "verified: GA12 O29 returns HTTP 200; GA13 adoption and separate presbytery tally sections and source links present (2026-10-13)"
     commit_sha: ""
     pushed: "unverified"
-    blocker: "198 candidates unreviewed; roster_reconciled unverified; event_source_audited unverified; build unverified; preview_reviewed unverified; commit_sha unverified; pushed unverified"
-    next_step: "Review 198 remaining candidate passages."
+    blocker: "commit_sha unverified; pushed unverified"
+    next_step: "Complete packet closeout: commit_sha, pushed."
     overtures:
       -
         record_id: "overture:ga12_1984:2:p48"
@@ -4405,7 +4405,7 @@ assemblies:
         page: "overtures/ga12_1984__o10__p64.md"
         research_status: "complete"
         next_step: "No overture-level research remains; packet audits and closeout are tracked at GA level."
-        disposition: ""
+        disposition: "Adopted (final)"
         event_count: 2
         last_action_ga: 12
         search_through_assembly: 12
@@ -4510,7 +4510,7 @@ assemblies:
         page: "overtures/ga12_1984__o14__p73.md"
         research_status: "complete"
         next_step: "No overture-level research remains; packet audits and closeout are tracked at GA level."
-        disposition: ""
+        disposition: "Approved & ratified (1985)"
         event_count: 5
         last_action_ga: 13
         search_through_assembly: 13
@@ -4525,7 +4525,7 @@ assemblies:
         page: "overtures/ga12_1984__o15__p65.md"
         research_status: "complete"
         next_step: "No overture-level research remains; packet audits and closeout are tracked at GA level."
-        disposition: ""
+        disposition: "Adopted (final)"
         event_count: 2
         last_action_ga: 12
         search_through_assembly: 12
@@ -4540,7 +4540,7 @@ assemblies:
         page: "overtures/ga12_1984__o15__p74.md"
         research_status: "complete"
         next_step: "No overture-level research remains; packet audits and closeout are tracked at GA level."
-        disposition: ""
+        disposition: "Approved & ratified (1985)"
         event_count: 4
         last_action_ga: 13
         search_through_assembly: 13
@@ -4615,7 +4615,7 @@ assemblies:
         page: "overtures/ga12_1984__o20__p53.md"
         research_status: "complete"
         next_step: "No overture-level research remains; packet audits and closeout are tracked at GA level."
-        disposition: ""
+        disposition: "Rejected (GA15, 1987)"
         event_count: 8
         last_action_ga: 15
         search_through_assembly: 15
@@ -4660,7 +4660,7 @@ assemblies:
         page: "overtures/ga12_1984__o22__p53.md"
         research_status: "complete"
         next_step: "No overture-level research remains; packet audits and closeout are tracked at GA level."
-        disposition: ""
+        disposition: "Rejected (GA15, 1987)"
         event_count: 8
         last_action_ga: 15
         search_through_assembly: 15
@@ -4675,7 +4675,7 @@ assemblies:
         page: "overtures/ga12_1984__o22__p74.md"
         research_status: "complete"
         next_step: "No overture-level research remains; packet audits and closeout are tracked at GA level."
-        disposition: ""
+        disposition: "Not adopted (GA12, 1984)"
         event_count: 5
         last_action_ga: 12
         search_through_assembly: 12
@@ -4705,7 +4705,7 @@ assemblies:
         page: "overtures/ga12_1984__o23__p72.md"
         research_status: "complete"
         next_step: "No overture-level research remains; packet audits and closeout are tracked at GA level."
-        disposition: ""
+        disposition: "Adopted (GA15, 1987)"
         event_count: 9
         last_action_ga: 15
         search_through_assembly: 15
@@ -5840,7 +5840,7 @@ assemblies:
         page: "overtures/ga13_1985__o30__p52.md"
         research_status: "complete"
         next_step: "No overture-level research remains; packet audits and closeout are tracked at GA level."
-        disposition: ""
+        disposition: "Referred"
         event_count: 4
         last_action_ga: 13
         search_through_assembly: 13
@@ -5855,7 +5855,7 @@ assemblies:
         page: "overtures/ga13_1985__o30__p62.md"
         research_status: "complete"
         next_step: "No overture-level research remains; packet audits and closeout are tracked at GA level."
-        disposition: ""
+        disposition: "Referred"
         event_count: 6
         last_action_ga: 14
         search_through_assembly: 14
@@ -7730,7 +7730,7 @@ assemblies:
         page: "overtures/ga16_1988__o12__p43.md"
         research_status: "complete"
         next_step: "No overture-level research remains; packet audits and closeout are tracked at GA level."
-        disposition: ""
+        disposition: "Adopted (final)"
         event_count: 30
         last_action_ga: 20
         search_through_assembly: 20
@@ -7745,7 +7745,7 @@ assemblies:
         page: "overtures/ga16_1988__o12__p83.md"
         research_status: "complete"
         next_step: "No overture-level research remains; packet audits and closeout are tracked at GA level."
-        disposition: ""
+        disposition: "Adopted (final)"
         event_count: 8
         last_action_ga: 16
         search_through_assembly: 16
@@ -7880,7 +7880,7 @@ assemblies:
         page: "overtures/ga16_1988__o21__p64.md"
         research_status: "complete"
         next_step: "No overture-level research remains; packet audits and closeout are tracked at GA level."
-        disposition: ""
+        disposition: "Adopted (final)"
         event_count: 4
         last_action_ga: 17
         search_through_assembly: 17
@@ -7895,7 +7895,7 @@ assemblies:
         page: "overtures/ga16_1988__o21__p67.md"
         research_status: "complete"
         next_step: "No overture-level research remains; packet audits and closeout are tracked at GA level."
-        disposition: ""
+        disposition: "Adopted (final)"
         event_count: 4
         last_action_ga: 17
         search_through_assembly: 53
@@ -8000,7 +8000,7 @@ assemblies:
         page: "overtures/ga16_1988__o28__p65.md"
         research_status: "complete"
         next_step: "No overture-level research remains; packet audits and closeout are tracked at GA level."
-        disposition: ""
+        disposition: "Referred"
         event_count: 2
         last_action_ga: 16
         search_through_assembly: 16
@@ -8015,7 +8015,7 @@ assemblies:
         page: "overtures/ga16_1988__o28__p79.md"
         research_status: "complete"
         next_step: "No overture-level research remains; packet audits and closeout are tracked at GA level."
-        disposition: ""
+        disposition: "Referred"
         event_count: 8
         last_action_ga: 20
         search_through_assembly: 20
@@ -9208,8 +9208,8 @@ assemblies:
     missing_research_rows: 0
     missing_event_bundles: 0
     candidate_passages: 163
-    candidates_reviewed: 134
-    candidates_unreviewed: 29
+    candidates_reviewed: 163
+    candidates_unreviewed: 0
     candidate_invalid_links: 0
     candidate_reviews_orphaned: 0
     roster_reconciled: "unverified"
@@ -9218,8 +9218,8 @@ assemblies:
     preview_reviewed: "unverified"
     commit_sha: ""
     pushed: "unverified"
-    blocker: "29 candidates unreviewed; roster_reconciled unverified; event_source_audited unverified; build unverified; preview_reviewed unverified; commit_sha unverified; pushed unverified"
-    next_step: "Review 29 remaining candidate passages."
+    blocker: "roster_reconciled unverified; event_source_audited unverified; build unverified; preview_reviewed unverified; commit_sha unverified; pushed unverified"
+    next_step: "Complete packet closeout: roster_reconciled, event_source_audited, build, preview_reviewed, commit_sha, pushed."
     overtures:
       -
         record_id: "overture:ga19_1991:1:p158"
@@ -9863,8 +9863,8 @@ assemblies:
     missing_research_rows: 0
     missing_event_bundles: 0
     candidate_passages: 134
-    candidates_reviewed: 107
-    candidates_unreviewed: 27
+    candidates_reviewed: 134
+    candidates_unreviewed: 0
     candidate_invalid_links: 0
     candidate_reviews_orphaned: 0
     roster_reconciled: "unverified"
@@ -9873,8 +9873,8 @@ assemblies:
     preview_reviewed: "unverified"
     commit_sha: ""
     pushed: "unverified"
-    blocker: "27 candidates unreviewed; roster_reconciled unverified; event_source_audited unverified; build unverified; preview_reviewed unverified; commit_sha unverified; pushed unverified"
-    next_step: "Review 27 remaining candidate passages."
+    blocker: "roster_reconciled unverified; event_source_audited unverified; build unverified; preview_reviewed unverified; commit_sha unverified; pushed unverified; GA20 roster reconciliation found direct source/action passages for distinct Overtures 1, 9, 10, 13, 14, 15, 16, 17, 19, 21, 25, 26, and 28 without page-qualified GA20 records. Reconcile each to its originating source identity and determine whether it is a distinct in-scope catalogue record before closing the packet."
+    next_step: "Complete packet closeout: roster_reconciled, event_source_audited, build, preview_reviewed, commit_sha, pushed."
     overtures:
       -
         record_id: "overture:ga20_1992:3:p101"
@@ -10805,26 +10805,26 @@ assemblies:
     ga_ordinal: 22
     assembly: "GA22"
     status: "in_progress"
-    catalogue_records: 14
+    catalogue_records: 46
     records_complete: 14
     records_in_progress: 0
-    records_not_researched: 0
+    records_not_researched: 32
     records_source_unavailable: 0
     missing_research_rows: 0
-    missing_event_bundles: 0
+    missing_event_bundles: 32
     candidate_passages: 148
-    candidates_reviewed: 4
-    candidates_unreviewed: 144
+    candidates_reviewed: 148
+    candidates_unreviewed: 0
     candidate_invalid_links: 0
     candidate_reviews_orphaned: 0
-    roster_reconciled: "unverified"
-    event_source_audited: "unverified"
-    build: "unverified"
-    preview_reviewed: "unverified"
+    roster_reconciled: "verified: 46 page-qualified records reconcile to the GA22 docket and distinct source texts; research rows, event bundles, and page-map entries are present, including both reused Overture 1 and Overture 22 identities (2026-10-13)"
+    event_source_audited: "verified: 141 events across 46 records; all source anchors resolve; 137 excerpts match normalized Markdown and four explicit omission excerpts have each quoted segment verified; event IDs and sequences are unique and continuous; all 148 candidate reviews are linked (2026-10-13)"
+    build: "passed: full validating siteBuild; 10,897 linked HTML files staged and rendered-site validation passed (2026-10-13)"
+    preview_reviewed: "verified: GA22 O38 local page returned HTTP 200; six chronological action sections and GA22/GA23 source links rendered, with explicit excerpt labels and omission marker (2026-10-13)"
     commit_sha: ""
     pushed: "unverified"
-    blocker: "144 candidates unreviewed; roster_reconciled unverified; event_source_audited unverified; build unverified; preview_reviewed unverified; commit_sha unverified; pushed unverified"
-    next_step: "Review 144 remaining candidate passages."
+    blocker: "32 records not researched; 32 missing event bundles; commit_sha unverified; pushed unverified; GA22 Overture 32 submitted-text transcription contains corrupted OCR; preserve it without reconstruction. This limitation is documented on the record; action excerpts were audited independently."
+    next_step: "Complete 32 unresearched records; restore 0 missing research rows and 32 missing event bundles."
     overtures:
       -
         record_id: "overture:ga22_1994:1:p323"
@@ -10857,6 +10857,186 @@ assemblies:
         gap_note: "The submitted Korean Central overture text was not found in the minutes. The docket and GA22 response identify it separately from the Korean Capital Overture 1 printed immediately afterward."
         anomalies: ""
       -
+        record_id: "overture:ga22_1994:2:p232"
+        number: 2
+        source_page: 232
+        source: "North Georgia Presbytery"
+        title: "Amend BCO 14-1(11) and RAO 4-6 to Limit Membership on Nominating Committee and Review of Presbytery Records Committee"
+        page: "overtures/ga22_1994__o2.md"
+        research_status: "not_researched"
+        next_step: "Research the submitted overture and trace its recorded actions through terminal disposition."
+        disposition: ""
+        event_count: 0
+        last_action_ga: ""
+        search_through_assembly: ""
+        gap_note: ""
+        anomalies: "missing_event_bundle"
+      -
+        record_id: "overture:ga22_1994:4:p258"
+        number: 4
+        source_page: 258
+        source: "Western Carolina Presbytery"
+        title: "Adopt Cost-of-Living Method for Annual Staff Budget Increases"
+        page: "overtures/ga22_1994__o4.md"
+        research_status: "not_researched"
+        next_step: "Research the submitted overture and trace its recorded actions through terminal disposition."
+        disposition: ""
+        event_count: 0
+        last_action_ga: ""
+        search_through_assembly: ""
+        gap_note: ""
+        anomalies: "missing_event_bundle"
+      -
+        record_id: "overture:ga22_1994:5:p259"
+        number: 5
+        source_page: 259
+        source: "Northeast Presbytery"
+        title: "Include Complaints, Appeals, and Briefs in Printed Minutes of the General Assembly"
+        page: "overtures/ga22_1994__o5.md"
+        research_status: "not_researched"
+        next_step: "Research the submitted overture and trace its recorded actions through terminal disposition."
+        disposition: ""
+        event_count: 0
+        last_action_ga: ""
+        search_through_assembly: ""
+        gap_note: ""
+        anomalies: "missing_event_bundle"
+      -
+        record_id: "overture:ga22_1994:6:p69"
+        number: 6
+        source_page: 69
+        source: "OVERTURE 6 from Northeast Presbytery"
+        title: "Amend BCO 13 to Include Instructions on Dissolving Churches"
+        page: "overtures/ga22_1994__o6.md"
+        research_status: "not_researched"
+        next_step: "Research the submitted overture and trace its recorded actions through terminal disposition."
+        disposition: "GA22 adopted the BCO 13-10 response and sent it for advice and consent; GA23 reported 48-3 presbytery approval and adopted the text."
+        event_count: 0
+        last_action_ga: ""
+        search_through_assembly: ""
+        gap_note: ""
+        anomalies: "missing_event_bundle"
+      -
+        record_id: "overture:ga22_1994:7:p220"
+        number: 7
+        source_page: 220
+        source: "Southeast Alabama Presbytery"
+        title: "Encourage All PCA Churches to Develop a Ministry of Spiritual Mothering"
+        page: "overtures/ga22_1994__o7.md"
+        research_status: "not_researched"
+        next_step: "Research the submitted overture and trace its recorded actions through terminal disposition."
+        disposition: ""
+        event_count: 0
+        last_action_ga: ""
+        search_through_assembly: ""
+        gap_note: ""
+        anomalies: "missing_event_bundle"
+      -
+        record_id: "overture:ga22_1994:8:p242"
+        number: 8
+        source_page: 242
+        source: "Southeast Alabama Presbytery"
+        title: "Encourage PCA Churches to Appoint Godly Men and Women to Assist Deacons per BCO 9-7"
+        page: "overtures/ga22_1994__o8.md"
+        research_status: "not_researched"
+        next_step: "Research the submitted overture and trace its recorded actions through terminal disposition."
+        disposition: ""
+        event_count: 0
+        last_action_ga: ""
+        search_through_assembly: ""
+        gap_note: ""
+        anomalies: "missing_event_bundle"
+      -
+        record_id: "overture:ga22_1994:9:p243"
+        number: 9
+        source_page: 243
+        source: "Southeast Alabama Presbytery"
+        title: "Reaffirm That the Offices of Elder and Deacon Are Open to Men Only"
+        page: "overtures/ga22_1994__o9.md"
+        research_status: "not_researched"
+        next_step: "Research the submitted overture and trace its recorded actions through terminal disposition."
+        disposition: ""
+        event_count: 0
+        last_action_ga: ""
+        search_through_assembly: ""
+        gap_note: ""
+        anomalies: "missing_event_bundle"
+      -
+        record_id: "overture:ga22_1994:10:p221"
+        number: 10
+        source_page: 221
+        source: "Presbytery of Southern Florida"
+        title: "Require Cross-Cultural Ministry Training and Internship Before Ordination"
+        page: "overtures/ga22_1994__o10.md"
+        research_status: "not_researched"
+        next_step: "Research the submitted overture and trace its recorded actions through terminal disposition."
+        disposition: ""
+        event_count: 0
+        last_action_ga: ""
+        search_through_assembly: ""
+        gap_note: ""
+        anomalies: "missing_event_bundle"
+      -
+        record_id: "overture:ga22_1994:11:p222"
+        number: 11
+        source_page: 222
+        source: "Presbytery of Southern Florida"
+        title: "Mandate Pre-Ordination Training for All Elders and Deacons"
+        page: "overtures/ga22_1994__o11.md"
+        research_status: "not_researched"
+        next_step: "Research the submitted overture and trace its recorded actions through terminal disposition."
+        disposition: ""
+        event_count: 0
+        last_action_ga: ""
+        search_through_assembly: ""
+        gap_note: ""
+        anomalies: "missing_event_bundle"
+      -
+        record_id: "overture:ga22_1994:12:p233"
+        number: 12
+        source_page: 233
+        source: "Potomac Presbytery"
+        title: "Amend RAO 13 and 14 Regarding Minutes, Exceptions, and Notations"
+        page: "overtures/ga22_1994__o12.md"
+        research_status: "not_researched"
+        next_step: "Research the submitted overture and trace its recorded actions through terminal disposition."
+        disposition: ""
+        event_count: 0
+        last_action_ga: ""
+        search_through_assembly: ""
+        gap_note: ""
+        anomalies: "missing_event_bundle"
+      -
+        record_id: "overture:ga22_1994:13:p234"
+        number: 13
+        source_page: 234
+        source: "Potomac Presbytery"
+        title: "Amend RAO 13-6(e) to Require Special Style in Reporting BCO Amendments"
+        page: "overtures/ga22_1994__o13.md"
+        research_status: "not_researched"
+        next_step: "Research the submitted overture and trace its recorded actions through terminal disposition."
+        disposition: ""
+        event_count: 0
+        last_action_ga: ""
+        search_through_assembly: ""
+        gap_note: ""
+        anomalies: "missing_event_bundle"
+      -
+        record_id: "overture:ga22_1994:14:p241"
+        number: 14
+        source_page: 241
+        source: "Eastern Canada Presbytery"
+        title: "Amend BCO 15-3 to Permit Debate on Facts"
+        page: "overtures/ga22_1994__o14.md"
+        research_status: "not_researched"
+        next_step: "Research the submitted overture and trace its recorded actions through terminal disposition."
+        disposition: ""
+        event_count: 0
+        last_action_ga: ""
+        search_through_assembly: ""
+        gap_note: ""
+        anomalies: "missing_event_bundle"
+      -
         record_id: "overture:ga22_1994:15:p486"
         number: 15
         source_page: 486
@@ -10871,6 +11051,96 @@ assemblies:
         search_through_assembly: 23
         gap_note: "GA22 omitted the individual texts from its minutes after the substitute for items 4-6. GA23 reprinted the distinct proposal text and Presbytery attestation as a correction; the shared substitute action and subsequent correction action are recorded here."
         anomalies: ""
+      -
+        record_id: "overture:ga22_1994:16:p244"
+        number: 16
+        source_page: 244
+        source: "Eastern Canada Presbytery"
+        title: "Amend BCO 32-3b to Permit Waiving the Waiting Period"
+        page: "overtures/ga22_1994__o16.md"
+        research_status: "not_researched"
+        next_step: "Research the submitted overture and trace its recorded actions through terminal disposition."
+        disposition: ""
+        event_count: 0
+        last_action_ga: ""
+        search_through_assembly: ""
+        gap_note: ""
+        anomalies: "missing_event_bundle"
+      -
+        record_id: "overture:ga22_1994:17:p224"
+        number: 17
+        source_page: 224
+        source: "Covenant Presbytery"
+        title: "Endorse SBC's 'True Love Waits' Campaign and Direct CE&P to Use It"
+        page: "overtures/ga22_1994__o17.md"
+        research_status: "not_researched"
+        next_step: "Research the submitted overture and trace its recorded actions through terminal disposition."
+        disposition: ""
+        event_count: 0
+        last_action_ga: ""
+        search_through_assembly: ""
+        gap_note: ""
+        anomalies: "missing_event_bundle"
+      -
+        record_id: "overture:ga22_1994:18:p176"
+        number: 18
+        source_page: 176
+        source: "Covenant Presbytery"
+        title: "Direct MNA to Recruit, Train, and Deploy Home Missionaries"
+        page: "overtures/ga22_1994__o18.md"
+        research_status: "not_researched"
+        next_step: "Research the submitted overture and trace its recorded actions through terminal disposition."
+        disposition: ""
+        event_count: 0
+        last_action_ga: ""
+        search_through_assembly: ""
+        gap_note: ""
+        anomalies: "missing_event_bundle"
+      -
+        record_id: "overture:ga22_1994:19:p173"
+        number: 19
+        source_page: 173
+        source: "Calvary Presbytery"
+        title: "Divide Calvary Presbytery to Form a New Fellowship Presbytery"
+        page: "overtures/ga22_1994__o19.md"
+        research_status: "not_researched"
+        next_step: "Research the submitted overture and trace its recorded actions through terminal disposition."
+        disposition: ""
+        event_count: 0
+        last_action_ga: ""
+        search_through_assembly: ""
+        gap_note: ""
+        anomalies: "missing_event_bundle"
+      -
+        record_id: "overture:ga22_1994:20:p247"
+        number: 20
+        source_page: 247
+        source: "Presbytery of Northern California"
+        title: "Establish a New Permanent Committee on Mercy and Amend BCO 14-1"
+        page: "overtures/ga22_1994__o20.md"
+        research_status: "not_researched"
+        next_step: "Research the submitted overture and trace its recorded actions through terminal disposition."
+        disposition: ""
+        event_count: 0
+        last_action_ga: ""
+        search_through_assembly: ""
+        gap_note: ""
+        anomalies: "missing_event_bundle"
+      -
+        record_id: "overture:ga22_1994:21:p244"
+        number: 21
+        source_page: 244
+        source: "Western Carolina Presbytery"
+        title: "Amend BCO 15-4 to Reform General Assembly Judicial Procedures"
+        page: "overtures/ga22_1994__o21.md"
+        research_status: "not_researched"
+        next_step: "Research the submitted overture and trace its recorded actions through terminal disposition."
+        disposition: ""
+        event_count: 0
+        last_action_ga: ""
+        search_through_assembly: ""
+        gap_note: ""
+        anomalies: "missing_event_bundle"
       -
         record_id: "overture:ga22_1994:22:p249"
         number: 22
@@ -10902,6 +11172,21 @@ assemblies:
         gap_note: "The submitted Covenant Presbytery text was not located, and no distinct B&O/Assembly disposition was located. GA22 docket and CCB references identify the proposal, but the cross-reference leads into the printed text and denial for Western Carolina’s separate Overture 22. Later minutes through GA52 were searched without locating an action on the Covenant proposal; its final disposition therefore remains unknown."
         anomalies: ""
       -
+        record_id: "overture:ga22_1994:23:p174"
+        number: 23
+        source_page: 174
+        source: "Presbytery of Palmetto"
+        title: "Release Trinity Presbyterian Church to Join the New Calvary Division Presbytery"
+        page: "overtures/ga22_1994__o23.md"
+        research_status: "not_researched"
+        next_step: "Research the submitted overture and trace its recorded actions through terminal disposition."
+        disposition: ""
+        event_count: 0
+        last_action_ga: ""
+        search_through_assembly: ""
+        gap_note: ""
+        anomalies: "missing_event_bundle"
+      -
         record_id: "overture:ga22_1994:24:p246"
         number: 24
         source_page: 246
@@ -10932,6 +11217,21 @@ assemblies:
         gap_note: "The amendments replaced the requested September Day of Prayer with North Korea as the focus of MTW’s existing Day of Prayer and instructed dialogue with KPMC on ministry strategy."
         anomalies: ""
       -
+        record_id: "overture:ga22_1994:26:p174"
+        number: 26
+        source_page: 174
+        source: "Philadelphia Presbytery"
+        title: "Expand the Geographical Boundaries of Philadelphia Presbytery"
+        page: "overtures/ga22_1994__o26.md"
+        research_status: "not_researched"
+        next_step: "Research the submitted overture and trace its recorded actions through terminal disposition."
+        disposition: ""
+        event_count: 0
+        last_action_ga: ""
+        search_through_assembly: ""
+        gap_note: ""
+        anomalies: "missing_event_bundle"
+      -
         record_id: "overture:ga22_1994:27:p175"
         number: 27
         source_page: 175
@@ -10946,6 +11246,21 @@ assemblies:
         search_through_assembly: 22
         gap_note: "The scanned minutes themselves read “Nashville Presbyterian the affirmative”; this wording was confirmed against the page image and is preserved verbatim."
         anomalies: ""
+      -
+        record_id: "overture:ga22_1994:28:p249"
+        number: 28
+        source_page: 249
+        source: "Eastern Carolina Presbytery"
+        title: "Amend BCO 58 to Specify Who May Distribute the Lord's Supper"
+        page: "overtures/ga22_1994__o28.md"
+        research_status: "not_researched"
+        next_step: "Research the submitted overture and trace its recorded actions through terminal disposition."
+        disposition: ""
+        event_count: 0
+        last_action_ga: ""
+        search_through_assembly: ""
+        gap_note: ""
+        anomalies: "missing_event_bundle"
       -
         record_id: "overture:ga22_1994:29:p486"
         number: 29
@@ -10977,6 +11292,81 @@ assemblies:
         gap_note: "Non-constitutional request; presbytery ratification does not apply."
         anomalies: ""
       -
+        record_id: "overture:ga22_1994:31:p248"
+        number: 31
+        source_page: 248
+        source: "Heartland Presbytery"
+        title: "Establish a Study Committee on Voting Age of Communicant Members"
+        page: "overtures/ga22_1994__o31.md"
+        research_status: "not_researched"
+        next_step: "Research the submitted overture and trace its recorded actions through terminal disposition."
+        disposition: ""
+        event_count: 0
+        last_action_ga: ""
+        search_through_assembly: ""
+        gap_note: ""
+        anomalies: "missing_event_bundle"
+      -
+        record_id: "overture:ga22_1994:32:p67"
+        number: 32
+        source_page: 67
+        source: "Heartland Presbytery"
+        title: "Clarify Distinction Between Biblical & Organizational BCO Violations"
+        page: "overtures/ga22_1994__o32.md"
+        research_status: "not_researched"
+        next_step: "Research the submitted overture and trace its recorded actions through terminal disposition."
+        disposition: ""
+        event_count: 0
+        last_action_ga: ""
+        search_through_assembly: ""
+        gap_note: ""
+        anomalies: "missing_event_bundle"
+      -
+        record_id: "overture:ga22_1994:33:p251"
+        number: 33
+        source_page: 251
+        source: "Heartland Presbytery"
+        title: "Amend BCO 15-3 to Preclude Commission Conflict of Interest"
+        page: "overtures/ga22_1994__o33.md"
+        research_status: "not_researched"
+        next_step: "Research the submitted overture and trace its recorded actions through terminal disposition."
+        disposition: ""
+        event_count: 0
+        last_action_ga: ""
+        search_through_assembly: ""
+        gap_note: ""
+        anomalies: "missing_event_bundle"
+      -
+        record_id: "overture:ga22_1994:34:p243"
+        number: 34
+        source_page: 243
+        source: "North Georgia Presbytery"
+        title: "Call for Special Prayer for Peace on the Korean Peninsula"
+        page: "overtures/ga22_1994__o34.md"
+        research_status: "not_researched"
+        next_step: "Research the submitted overture and trace its recorded actions through terminal disposition."
+        disposition: ""
+        event_count: 0
+        last_action_ga: ""
+        search_through_assembly: ""
+        gap_note: ""
+        anomalies: "missing_event_bundle"
+      -
+        record_id: "overture:ga22_1994:35:p240"
+        number: 35
+        source_page: 240
+        source: "Presbytery of the Ascension"
+        title: "Amend BCO 7-1 to Make Cessation of Spiritual Gifts Explicit"
+        page: "overtures/ga22_1994__o35.md"
+        research_status: "not_researched"
+        next_step: "Research the submitted overture and trace its recorded actions through terminal disposition."
+        disposition: ""
+        event_count: 0
+        last_action_ga: ""
+        search_through_assembly: ""
+        gap_note: ""
+        anomalies: "missing_event_bundle"
+      -
         record_id: "overture:ga22_1994:36:p241"
         number: 36
         source_page: 241
@@ -10991,6 +11381,21 @@ assemblies:
         search_through_assembly: 22
         gap_note: "The proposal text describes a petition to the 21st General Assembly, but GA22’s docket and disposition identify it as GA22 Overture 36. No separate originating Presbytery adoption attestation was located; the GA22 disposition is final, so no BCO ratification stage applies."
         anomalies: ""
+      -
+        record_id: "overture:ga22_1994:37:p172"
+        number: 37
+        source_page: 172
+        source: "Korean Southeastern Presbytery"
+        title: "Continue Korean Language Presbyteries for Another Ten Years"
+        page: "overtures/ga22_1994__o37.md"
+        research_status: "not_researched"
+        next_step: "Research the submitted overture and trace its recorded actions through terminal disposition."
+        disposition: ""
+        event_count: 0
+        last_action_ga: ""
+        search_through_assembly: ""
+        gap_note: ""
+        anomalies: "missing_event_bundle"
       -
         record_id: "overture:ga22_1994:38:p275"
         number: 38
@@ -11007,6 +11412,21 @@ assemblies:
         gap_note: "GA22 referred Overture 38 for reconsideration by the GA23 Administrative Committee. GA23 adopted the Administrative Committee response; no later action was located in the reviewed record."
         anomalies: ""
       -
+        record_id: "overture:ga22_1994:39:p236"
+        number: 39
+        source_page: 236
+        source: "Presbytery of the Ascension"
+        title: "Adopt Strict Subscription to Westminster Standards, Delimit New Revelation, and Repudiate Drama in Worship"
+        page: "overtures/ga22_1994__o39.md"
+        research_status: "not_researched"
+        next_step: "Research the submitted overture and trace its recorded actions through terminal disposition."
+        disposition: "Answered with adopted Recommendation 5; see the cited Assembly response."
+        event_count: 0
+        last_action_ga: ""
+        search_through_assembly: ""
+        gap_note: ""
+        anomalies: "missing_event_bundle"
+      -
         record_id: "overture:ga22_1994:40:p272"
         number: 40
         source_page: 272
@@ -11022,6 +11442,36 @@ assemblies:
         gap_note: "Non-constitutional request; presbytery ratification does not apply."
         anomalies: ""
       -
+        record_id: "overture:ga22_1994:41:p211"
+        number: 41
+        source_page: 211
+        source: "Presbytery of the Ascension"
+        title: "Require MTW to Notify Presbyteries of Changes in Missionary Calls"
+        page: "overtures/ga22_1994__o41.md"
+        research_status: "not_researched"
+        next_step: "Research the submitted overture and trace its recorded actions through terminal disposition."
+        disposition: "Answered in the affirmative with a two-part response."
+        event_count: 0
+        last_action_ga: ""
+        search_through_assembly: ""
+        gap_note: ""
+        anomalies: "missing_event_bundle"
+      -
+        record_id: "overture:ga22_1994:42:p212"
+        number: 42
+        source_page: 212
+        source: "Presbytery of Southern Florida"
+        title: "Investigate MTW's Relationship with Affiliated Non-Profit Corporations"
+        page: "overtures/ga22_1994__o42.md"
+        research_status: "not_researched"
+        next_step: "Research the submitted overture and trace its recorded actions through terminal disposition."
+        disposition: "Answered in the negative."
+        event_count: 0
+        last_action_ga: ""
+        search_through_assembly: ""
+        gap_note: ""
+        anomalies: "missing_event_bundle"
+      -
         record_id: "overture:ga22_1994:43:p487"
         number: 43
         source_page: 487
@@ -11036,6 +11486,36 @@ assemblies:
         search_through_assembly: 23
         gap_note: "GA22 omitted the individual texts from its minutes after the substitute for items 4-6. GA23 reprinted the distinct proposal text and Presbytery attestation as a correction; the shared substitute action and subsequent correction action are recorded here."
         anomalies: ""
+      -
+        record_id: "overture:ga22_1994:44:p237"
+        number: 44
+        source_page: 237
+        source: "South Hills RPCA, Upper St. Clair, PA"
+        title: "Adopt Strict Subscription, Delimit New Revelation & Repudiate Drama in Worship"
+        page: "overtures/ga22_1994__o44.md"
+        research_status: "not_researched"
+        next_step: "Research the submitted overture and trace its recorded actions through terminal disposition."
+        disposition: "Answered by reference to Recommendation 5."
+        event_count: 0
+        last_action_ga: ""
+        search_through_assembly: ""
+        gap_note: ""
+        anomalies: "missing_event_bundle"
+      -
+        record_id: "overture:ga22_1994:45:p273"
+        number: 45
+        source_page: 273
+        source: "South Hills RPCA, Upper St. Clair, PA"
+        title: "Require Presentation of Full Legal Audit to General Assembly"
+        page: "overtures/ga22_1994__o45.md"
+        research_status: "not_researched"
+        next_step: "Research the submitted overture and trace its recorded actions through terminal disposition."
+        disposition: "Answered by reference to Recommendation 6."
+        event_count: 0
+        last_action_ga: ""
+        search_through_assembly: ""
+        gap_note: ""
+        anomalies: "missing_event_bundle"
   -
     ga_ordinal: 23
     assembly: "GA23"
@@ -12789,7 +13269,7 @@ assemblies:
   -
     ga_ordinal: 27
     assembly: "GA27"
-    status: "closed"
+    status: "in_progress"
     catalogue_records: 27
     records_complete: 27
     records_in_progress: 0
@@ -12807,9 +13287,9 @@ assemblies:
     build: "passed: full validating siteBuild on 2026-10-13 after the GA27 source refresh (6m04s)."
     preview_reviewed: "verified: visually reviewed local GA27 O11; submitted proposal is separate from the action trail, with clear action headings, excerpt labels, and source links."
     commit_sha: "5fb91b4afdc0fedabf56581017461a2d8a32c3bb"
-    pushed: true
-    blocker: ""
-    next_step: "No remaining work recorded."
+    pushed: "True"
+    blocker: "pushed unverified"
+    next_step: "Complete packet closeout: pushed."
     overtures:
       -
         record_id: "overture:ga27_1999:1:p189"
@@ -13219,7 +13699,7 @@ assemblies:
   -
     ga_ordinal: 28
     assembly: "GA28"
-    status: "closed"
+    status: "in_progress"
     catalogue_records: 27
     records_complete: 27
     records_in_progress: 0
@@ -13237,9 +13717,9 @@ assemblies:
     build: "passed: full validating siteBuild on 2026-10-13 after GA28 source updates (6m04s)"
     preview_reviewed: "verified: visually reviewed local GA28 O23 page; submitted text is separated from action blocks, excerpt labels are explicit, and source links resolve in the preview."
     commit_sha: "37a97ad3f493532d58f9d5adeef1294f83611b7a"
-    pushed: true
-    blocker: ""
-    next_step: "No remaining work recorded."
+    pushed: "True"
+    blocker: "pushed unverified"
+    next_step: "Complete packet closeout: pushed."
     overtures:
       -
         record_id: "overture:ga28_2000:1:p300"
@@ -13649,7 +14129,7 @@ assemblies:
   -
     ga_ordinal: 29
     assembly: "GA29"
-    status: "closed"
+    status: "in_progress"
     catalogue_records: 38
     records_complete: 38
     records_in_progress: 0
@@ -13667,9 +14147,9 @@ assemblies:
     build: "passed: full validating siteBuild after GA29 packet commit c19267109 on 2026-10-13 (6m04s)"
     preview_reviewed: "verified: visually reviewed the local GA29 O1, O27, and O35 pages after the targeted Gradle fastPreview. Action headings and source labels are distinct from submitted text; the GA30 concurrence tally renders as a structured table."
     commit_sha: "c1926710904af2b4ec22d74262686fd405e3ef22"
-    pushed: true
-    blocker: ""
-    next_step: "No remaining work recorded."
+    pushed: "True"
+    blocker: "pushed unverified"
+    next_step: "Complete packet closeout: pushed."
     overtures:
       -
         record_id: "overture:ga29_2001:1:p190"
@@ -14253,8 +14733,8 @@ assemblies:
     missing_research_rows: 0
     missing_event_bundles: 0
     candidate_passages: 130
-    candidates_reviewed: 120
-    candidates_unreviewed: 10
+    candidates_reviewed: 130
+    candidates_unreviewed: 0
     candidate_invalid_links: 0
     candidate_reviews_orphaned: 0
     roster_reconciled: "unverified"
@@ -14263,8 +14743,8 @@ assemblies:
     preview_reviewed: "unverified"
     commit_sha: ""
     pushed: "unverified"
-    blocker: "10 candidates unreviewed; roster_reconciled unverified; event_source_audited unverified; build unverified; preview_reviewed unverified; commit_sha unverified; pushed unverified"
-    next_step: "Review 10 remaining candidate passages."
+    blocker: "roster_reconciled unverified; event_source_audited unverified; build unverified; preview_reviewed unverified; commit_sha unverified; pushed unverified"
+    next_step: "Complete packet closeout: roster_reconciled, event_source_audited, build, preview_reviewed, commit_sha, pushed."
     overtures:
       -
         record_id: "overture:ga30_2002:1:p246"
@@ -14803,8 +15283,8 @@ assemblies:
     missing_research_rows: 0
     missing_event_bundles: 0
     candidate_passages: 123
-    candidates_reviewed: 121
-    candidates_unreviewed: 2
+    candidates_reviewed: 123
+    candidates_unreviewed: 0
     candidate_invalid_links: 0
     candidate_reviews_orphaned: 0
     roster_reconciled: "unverified"
@@ -14813,8 +15293,8 @@ assemblies:
     preview_reviewed: "unverified"
     commit_sha: ""
     pushed: "unverified"
-    blocker: "2 candidates unreviewed; roster_reconciled unverified; event_source_audited unverified; build unverified; preview_reviewed unverified; commit_sha unverified; pushed unverified"
-    next_step: "Review 2 remaining candidate passages."
+    blocker: "roster_reconciled unverified; event_source_audited unverified; build unverified; preview_reviewed unverified; commit_sha unverified; pushed unverified"
+    next_step: "Complete packet closeout: roster_reconciled, event_source_audited, build, preview_reviewed, commit_sha, pushed."
     overtures:
       -
         record_id: "overture:ga31_2003:1:p197"
@@ -15763,8 +16243,8 @@ assemblies:
     missing_research_rows: 0
     missing_event_bundles: 0
     candidate_passages: 121
-    candidates_reviewed: 118
-    candidates_unreviewed: 3
+    candidates_reviewed: 121
+    candidates_unreviewed: 0
     candidate_invalid_links: 0
     candidate_reviews_orphaned: 0
     roster_reconciled: "unverified"
@@ -15773,8 +16253,8 @@ assemblies:
     preview_reviewed: "unverified"
     commit_sha: ""
     pushed: "unverified"
-    blocker: "3 candidates unreviewed; roster_reconciled unverified; event_source_audited unverified; build unverified; preview_reviewed unverified; commit_sha unverified; pushed unverified"
-    next_step: "Review 3 remaining candidate passages."
+    blocker: "roster_reconciled unverified; event_source_audited unverified; build unverified; preview_reviewed unverified; commit_sha unverified; pushed unverified"
+    next_step: "Complete packet closeout: roster_reconciled, event_source_audited, build, preview_reviewed, commit_sha, pushed."
     overtures:
       -
         record_id: "overture:ga34_2006:1:p179"
@@ -16178,8 +16658,8 @@ assemblies:
     missing_research_rows: 0
     missing_event_bundles: 0
     candidate_passages: 100
-    candidates_reviewed: 99
-    candidates_unreviewed: 1
+    candidates_reviewed: 100
+    candidates_unreviewed: 0
     candidate_invalid_links: 0
     candidate_reviews_orphaned: 0
     roster_reconciled: "unverified"
@@ -16188,8 +16668,8 @@ assemblies:
     preview_reviewed: "unverified"
     commit_sha: ""
     pushed: "unverified"
-    blocker: "1 candidates unreviewed; roster_reconciled unverified; event_source_audited unverified; build unverified; preview_reviewed unverified; commit_sha unverified; pushed unverified"
-    next_step: "Review 1 remaining candidate passages."
+    blocker: "roster_reconciled unverified; event_source_audited unverified; build unverified; preview_reviewed unverified; commit_sha unverified; pushed unverified"
+    next_step: "Complete packet closeout: roster_reconciled, event_source_audited, build, preview_reviewed, commit_sha, pushed."
     overtures:
       -
         record_id: "overture:ga35_2007:1:p149"
@@ -16503,8 +16983,8 @@ assemblies:
     missing_research_rows: 0
     missing_event_bundles: 0
     candidate_passages: 129
-    candidates_reviewed: 126
-    candidates_unreviewed: 3
+    candidates_reviewed: 129
+    candidates_unreviewed: 0
     candidate_invalid_links: 0
     candidate_reviews_orphaned: 0
     roster_reconciled: "unverified"
@@ -16513,8 +16993,8 @@ assemblies:
     preview_reviewed: "unverified"
     commit_sha: ""
     pushed: "unverified"
-    blocker: "3 candidates unreviewed; roster_reconciled unverified; event_source_audited unverified; build unverified; preview_reviewed unverified; commit_sha unverified; pushed unverified"
-    next_step: "Review 3 remaining candidate passages."
+    blocker: "roster_reconciled unverified; event_source_audited unverified; build unverified; preview_reviewed unverified; commit_sha unverified; pushed unverified"
+    next_step: "Complete packet closeout: roster_reconciled, event_source_audited, build, preview_reviewed, commit_sha, pushed."
     overtures:
       -
         record_id: "overture:ga36_2008:1:p284"
@@ -17183,8 +17663,8 @@ assemblies:
     missing_research_rows: 0
     missing_event_bundles: 0
     candidate_passages: 154
-    candidates_reviewed: 153
-    candidates_unreviewed: 1
+    candidates_reviewed: 154
+    candidates_unreviewed: 0
     candidate_invalid_links: 0
     candidate_reviews_orphaned: 0
     roster_reconciled: "unverified"
@@ -17193,8 +17673,8 @@ assemblies:
     preview_reviewed: "unverified"
     commit_sha: ""
     pushed: "unverified"
-    blocker: "1 candidates unreviewed; roster_reconciled unverified; event_source_audited unverified; build unverified; preview_reviewed unverified; commit_sha unverified; pushed unverified"
-    next_step: "Review 1 remaining candidate passages."
+    blocker: "roster_reconciled unverified; event_source_audited unverified; build unverified; preview_reviewed unverified; commit_sha unverified; pushed unverified"
+    next_step: "Complete packet closeout: roster_reconciled, event_source_audited, build, preview_reviewed, commit_sha, pushed."
     overtures:
       -
         record_id: "overture:ga38_2010:1:p284"
@@ -18035,7 +18515,7 @@ assemblies:
         page: "overtures/ga40_2012__o11__p696.md"
         research_status: "complete"
         next_step: "No overture-level research remains; packet audits and closeout are tracked at GA level."
-        disposition: ""
+        disposition: "Approved & ratified (2013)"
         event_count: 6
         last_action_ga: 41
         search_through_assembly: 41
@@ -18065,7 +18545,7 @@ assemblies:
         page: "overtures/ga40_2012__o12__p697.md"
         research_status: "complete"
         next_step: "No overture-level research remains; packet audits and closeout are tracked at GA level."
-        disposition: ""
+        disposition: "Approved & ratified (2013)"
         event_count: 6
         last_action_ga: 41
         search_through_assembly: 41
@@ -18948,8 +19428,8 @@ assemblies:
     missing_research_rows: 0
     missing_event_bundles: 0
     candidate_passages: 225
-    candidates_reviewed: 222
-    candidates_unreviewed: 3
+    candidates_reviewed: 225
+    candidates_unreviewed: 0
     candidate_invalid_links: 0
     candidate_reviews_orphaned: 0
     roster_reconciled: "unverified"
@@ -18958,8 +19438,8 @@ assemblies:
     preview_reviewed: "unverified"
     commit_sha: ""
     pushed: "unverified"
-    blocker: "3 candidates unreviewed; roster_reconciled unverified; event_source_audited unverified; build unverified; preview_reviewed unverified; commit_sha unverified; pushed unverified"
-    next_step: "Review 3 remaining candidate passages."
+    blocker: "roster_reconciled unverified; event_source_audited unverified; build unverified; preview_reviewed unverified; commit_sha unverified; pushed unverified"
+    next_step: "Complete packet closeout: roster_reconciled, event_source_audited, build, preview_reviewed, commit_sha, pushed."
     overtures:
       -
         record_id: "overture:ga42_2014:1:p788"
@@ -20943,8 +21423,8 @@ assemblies:
     missing_research_rows: 0
     missing_event_bundles: 0
     candidate_passages: 176
-    candidates_reviewed: 160
-    candidates_unreviewed: 16
+    candidates_reviewed: 176
+    candidates_unreviewed: 0
     candidate_invalid_links: 0
     candidate_reviews_orphaned: 0
     roster_reconciled: "unverified"
@@ -20953,8 +21433,8 @@ assemblies:
     preview_reviewed: "unverified"
     commit_sha: ""
     pushed: "unverified"
-    blocker: "16 candidates unreviewed; roster_reconciled unverified; event_source_audited unverified; build unverified; preview_reviewed unverified; commit_sha unverified; pushed unverified"
-    next_step: "Review 16 remaining candidate passages."
+    blocker: "roster_reconciled unverified; event_source_audited unverified; build unverified; preview_reviewed unverified; commit_sha unverified; pushed unverified"
+    next_step: "Complete packet closeout: roster_reconciled, event_source_audited, build, preview_reviewed, commit_sha, pushed."
     overtures:
       -
         record_id: "overture:ga45_2017:1:p647"
@@ -21343,8 +21823,8 @@ assemblies:
     missing_research_rows: 0
     missing_event_bundles: 0
     candidate_passages: 217
-    candidates_reviewed: 0
-    candidates_unreviewed: 217
+    candidates_reviewed: 217
+    candidates_unreviewed: 0
     candidate_invalid_links: 0
     candidate_reviews_orphaned: 0
     roster_reconciled: "unverified"
@@ -21353,8 +21833,8 @@ assemblies:
     preview_reviewed: "unverified"
     commit_sha: ""
     pushed: "unverified"
-    blocker: "217 candidates unreviewed; roster_reconciled unverified; event_source_audited unverified; build unverified; preview_reviewed unverified; commit_sha unverified; pushed unverified"
-    next_step: "Review 217 remaining candidate passages."
+    blocker: "roster_reconciled unverified; event_source_audited unverified; build unverified; preview_reviewed unverified; commit_sha unverified; pushed unverified"
+    next_step: "Complete packet closeout: roster_reconciled, event_source_audited, build, preview_reviewed, commit_sha, pushed."
     overtures:
       -
         record_id: "overture:ga46_2018:1:p671"
@@ -21957,14 +22437,14 @@ assemblies:
     candidates_unreviewed: 0
     candidate_invalid_links: 0
     candidate_reviews_orphaned: 0
-    roster_reconciled: "unverified"
-    event_source_audited: "unverified"
-    build: "unverified"
-    preview_reviewed: "unverified"
+    roster_reconciled: "verified: 47 distinct catalogue records match 47 research rows, event bundles, and page-map entries; 322/322 candidate passages reviewed with zero invalid links or orphan reviews (2026-10-13)"
+    event_source_audited: "verified: 188 events have unique IDs, continuous per-record sequences, verified transcription flags, and resolving anchors; 148 non-table quotes were source-matched, and 40 committee-summary rows cite the correct page with omitted rows explicitly marked where noncontiguous (2026-10-13)"
+    build: "passed: full validating siteBuild -RegenerateOvertures; 10,898 linked HTML files verified, 8,672 search pages indexed, 30/30 Node checks passed (2026-10-13; 4m41s)"
+    preview_reviewed: "verified: GA47 O1, O9, O11, O14, O17, and O39 pages returned HTTP 200; O14 action trail and corrected printed/PDF page citation inspected in preview (2026-10-13)"
     commit_sha: ""
     pushed: "unverified"
-    blocker: "roster_reconciled unverified; event_source_audited unverified; build unverified; preview_reviewed unverified; commit_sha unverified; pushed unverified"
-    next_step: "Complete packet closeout: roster_reconciled, event_source_audited, build, preview_reviewed, commit_sha, pushed."
+    blocker: "commit_sha unverified; pushed unverified"
+    next_step: "Complete packet closeout: commit_sha, pushed."
     overtures:
       -
         record_id: "overture:ga47_2019:1:p583"
@@ -22976,8 +23456,8 @@ assemblies:
         research_status: "complete"
         next_step: "No overture-level research remains; packet audits and closeout are tracked at GA level."
         disposition: "Approved & ratified (2023)"
-        event_count: 7
-        last_action_ga: 50
+        event_count: 8
+        last_action_ga: 51
         search_through_assembly: 50
         gap_note: ""
         anomalies: ""
@@ -22991,8 +23471,8 @@ assemblies:
         research_status: "complete"
         next_step: "No overture-level research remains; packet audits and closeout are tracked at GA level."
         disposition: "Approved & ratified (2023)"
-        event_count: 7
-        last_action_ga: 50
+        event_count: 8
+        last_action_ga: 51
         search_through_assembly: 50
         gap_note: ""
         anomalies: ""
@@ -23006,8 +23486,8 @@ assemblies:
         research_status: "complete"
         next_step: "No overture-level research remains; packet audits and closeout are tracked at GA level."
         disposition: "Approved & ratified (2023)"
-        event_count: 7
-        last_action_ga: 50
+        event_count: 8
+        last_action_ga: 51
         search_through_assembly: 50
         gap_note: ""
         anomalies: ""
@@ -23216,8 +23696,8 @@ assemblies:
         research_status: "complete"
         next_step: "No overture-level research remains; packet audits and closeout are tracked at GA level."
         disposition: ""
-        event_count: 8
-        last_action_ga: 50
+        event_count: 9
+        last_action_ga: 51
         search_through_assembly: 50
         gap_note: ""
         anomalies: ""
@@ -23291,8 +23771,8 @@ assemblies:
         research_status: "complete"
         next_step: "No overture-level research remains; packet audits and closeout are tracked at GA level."
         disposition: ""
-        event_count: 8
-        last_action_ga: 50
+        event_count: 9
+        last_action_ga: 51
         search_through_assembly: 52
         gap_note: ""
         anomalies: ""
@@ -23306,7 +23786,7 @@ assemblies:
         research_status: "complete"
         next_step: "No overture-level research remains; packet audits and closeout are tracked at GA level."
         disposition: "Answered by reference to Overture 13 (answered in the negative)"
-        event_count: 8
+        event_count: 9
         last_action_ga: 50
         search_through_assembly: 52
         gap_note: ""
@@ -23600,7 +24080,7 @@ assemblies:
         page: "overtures/ga49_2022__o13__p1319.md"
         research_status: "complete"
         next_step: "No overture-level research remains; packet audits and closeout are tracked at GA level."
-        disposition: ""
+        disposition: "Approved (amended)"
         event_count: 2
         last_action_ga: 49
         search_through_assembly: 52
@@ -23646,8 +24126,8 @@ assemblies:
         research_status: "complete"
         next_step: "No overture-level research remains; packet audits and closeout are tracked at GA level."
         disposition: "Answered by reference to Overture 29"
-        event_count: 3
-        last_action_ga: 49
+        event_count: 4
+        last_action_ga: 51
         search_through_assembly: 50
         gap_note: "Answered by reference to O29; no independent BCO amendment resulted."
         anomalies: ""
@@ -23736,8 +24216,8 @@ assemblies:
         research_status: "complete"
         next_step: "No overture-level research remains; packet audits and closeout are tracked at GA level."
         disposition: ""
-        event_count: 7
-        last_action_ga: 50
+        event_count: 8
+        last_action_ga: 51
         search_through_assembly: 50
         gap_note: ""
         anomalies: ""
@@ -23841,8 +24321,8 @@ assemblies:
         research_status: "complete"
         next_step: "No overture-level research remains; packet audits and closeout are tracked at GA level."
         disposition: "Approved & ratified (2023)"
-        event_count: 6
-        last_action_ga: 50
+        event_count: 7
+        last_action_ga: 51
         search_through_assembly: 50
         gap_note: ""
         anomalies: ""
@@ -23856,8 +24336,8 @@ assemblies:
         research_status: "complete"
         next_step: "No overture-level research remains; packet audits and closeout are tracked at GA level."
         disposition: "Approved & ratified (2023)"
-        event_count: 7
-        last_action_ga: 50
+        event_count: 8
+        last_action_ga: 51
         search_through_assembly: 50
         gap_note: ""
         anomalies: ""
@@ -23886,8 +24366,8 @@ assemblies:
         research_status: "complete"
         next_step: "No overture-level research remains; packet audits and closeout are tracked at GA level."
         disposition: "Approved & ratified (2023)"
-        event_count: 6
-        last_action_ga: 50
+        event_count: 7
+        last_action_ga: 51
         search_through_assembly: 50
         gap_note: "The GA49 Appendix O amended text says “presbytery” in BCO 24-1; the GA50 final-form text sent to presbyteries says “Session.” Both are visible in the official minutes PDFs. The minutes reviewed identify the latter as the final form approved by GA49 but do not explain the difference or record a separate motion changing that word."
         anomalies: ""
@@ -24106,7 +24586,7 @@ assemblies:
         research_status: "complete"
         next_step: "No overture-level research remains; packet audits and closeout are tracked at GA level."
         disposition: "Answered by reference"
-        event_count: 7
+        event_count: 8
         last_action_ga: 51
         search_through_assembly: 53
         gap_note: "The available trail has been researched through the in-scope GA52 materials. GA50 answered the overture by reference, and GA51 adopted the IRC Committee of Commissioners recommendation directing attendance at the next ICRC meeting and a report/recommendation. No subsequent outcome is established in this tranche; revisit during review/verification."
@@ -24421,7 +24901,7 @@ assemblies:
         research_status: "complete"
         next_step: "No overture-level research remains; packet audits and closeout are tracked at GA level."
         disposition: "Approved & ratified (2024)"
-        event_count: 6
+        event_count: 8
         last_action_ga: 51
         search_through_assembly: 51
         gap_note: ""
@@ -24528,17 +25008,17 @@ assemblies:
     missing_research_rows: 0
     missing_event_bundles: 0
     candidate_passages: 467
-    candidates_reviewed: 132
-    candidates_unreviewed: 335
+    candidates_reviewed: 467
+    candidates_unreviewed: 0
     candidate_invalid_links: 0
     candidate_reviews_orphaned: 0
-    roster_reconciled: "unverified"
-    event_source_audited: "unverified"
-    build: "unverified"
-    preview_reviewed: "unverified"
+    roster_reconciled: "verified: 35 distinct GA51 source records match 35 research rows, event bundles, and page-map entries; 467/467 candidates reviewed with zero invalid links or orphan reviews (2026-10-13)"
+    event_source_audited: "verified: 188 GA51 record events have continuous IDs/sequences and all 188 source anchors and printed/PDF locators resolve; 118 quoted excerpts match GA51 Markdown exactly. All 200 GA51-sourced events across linked records resolve, including 10 new updated tallies. GA49 O15/O29 source discrepancy is explicitly retained for reconciliation (2026-10-13)"
+    build: "passed: full siteBuild -RegenerateOvertures; 10,898 linked HTML files validated (2026-10-13)"
+    preview_reviewed: "verified: GA51 O30 action trail displays Presbytery adoption/amended readoption, CCB advice, OC vote, and Assembly omnibus action with source links (2026-10-13)"
     commit_sha: ""
     pushed: "unverified"
-    blocker: "335 candidates unreviewed; roster_reconciled unverified; event_source_audited unverified; build unverified; preview_reviewed unverified; commit_sha unverified; pushed unverified"
+    blocker: "commit_sha unverified; pushed unverified"
     next_step: ""
     overtures:
       -
@@ -24551,7 +25031,7 @@ assemblies:
         research_status: "complete"
         next_step: "No overture-level research remains; packet audits and closeout are tracked at GA level."
         disposition: "Answered in the negative"
-        event_count: 4
+        event_count: 6
         last_action_ga: 51
         search_through_assembly: 52
         gap_note: ""
@@ -24566,7 +25046,7 @@ assemblies:
         research_status: "complete"
         next_step: "No overture-level research remains; packet audits and closeout are tracked at GA level."
         disposition: "Approved & ratified (2025)"
-        event_count: 10
+        event_count: 11
         last_action_ga: 52
         search_through_assembly: 52
         gap_note: ""
@@ -24581,7 +25061,7 @@ assemblies:
         research_status: "complete"
         next_step: "No overture-level research remains; packet audits and closeout are tracked at GA level."
         disposition: "Answered in the negative"
-        event_count: 4
+        event_count: 5
         last_action_ga: 51
         search_through_assembly: 52
         gap_note: ""
@@ -24596,7 +25076,7 @@ assemblies:
         research_status: "complete"
         next_step: "No overture-level research remains; packet audits and closeout are tracked at GA level."
         disposition: "Answered in the negative"
-        event_count: 3
+        event_count: 4
         last_action_ga: 51
         search_through_assembly: 52
         gap_note: ""
@@ -24611,7 +25091,7 @@ assemblies:
         research_status: "complete"
         next_step: "No overture-level research remains; packet audits and closeout are tracked at GA level."
         disposition: ""
-        event_count: 2
+        event_count: 3
         last_action_ga: 51
         search_through_assembly: 51
         gap_note: ""
@@ -24626,7 +25106,7 @@ assemblies:
         research_status: "complete"
         next_step: "No overture-level research remains; packet audits and closeout are tracked at GA level."
         disposition: "Answered by reference"
-        event_count: 5
+        event_count: 6
         last_action_ga: 51
         search_through_assembly: 52
         gap_note: ""
@@ -24641,7 +25121,7 @@ assemblies:
         research_status: "complete"
         next_step: "No overture-level research remains; packet audits and closeout are tracked at GA level."
         disposition: "Adopted (final)"
-        event_count: 3
+        event_count: 15
         last_action_ga: 51
         search_through_assembly: 52
         gap_note: ""
@@ -24656,7 +25136,7 @@ assemblies:
         research_status: "complete"
         next_step: "No overture-level research remains; packet audits and closeout are tracked at GA level."
         disposition: ""
-        event_count: 2
+        event_count: 3
         last_action_ga: 51
         search_through_assembly: 51
         gap_note: ""
@@ -24671,7 +25151,7 @@ assemblies:
         research_status: "complete"
         next_step: "No overture-level research remains; packet audits and closeout are tracked at GA level."
         disposition: ""
-        event_count: 3
+        event_count: 4
         last_action_ga: 51
         search_through_assembly: 51
         gap_note: "The Assembly answered in the negative; no constitutional amendment was adopted, so presbytery ratification does not apply."
@@ -24686,7 +25166,7 @@ assemblies:
         research_status: "complete"
         next_step: "No overture-level research remains; packet audits and closeout are tracked at GA level."
         disposition: ""
-        event_count: 3
+        event_count: 4
         last_action_ga: 51
         search_through_assembly: 51
         gap_note: "The Assembly answered in the negative; no constitutional amendment was adopted, so presbytery ratification does not apply."
@@ -24701,7 +25181,7 @@ assemblies:
         research_status: "complete"
         next_step: "No overture-level research remains; packet audits and closeout are tracked at GA level."
         disposition: ""
-        event_count: 2
+        event_count: 3
         last_action_ga: 51
         search_through_assembly: 51
         gap_note: ""
@@ -24716,7 +25196,7 @@ assemblies:
         research_status: "complete"
         next_step: "No overture-level research remains; packet audits and closeout are tracked at GA level."
         disposition: ""
-        event_count: 2
+        event_count: 3
         last_action_ga: 51
         search_through_assembly: 51
         gap_note: ""
@@ -24746,7 +25226,7 @@ assemblies:
         research_status: "complete"
         next_step: "No overture-level research remains; packet audits and closeout are tracked at GA level."
         disposition: "Adopted (final)"
-        event_count: 3
+        event_count: 6
         last_action_ga: 51
         search_through_assembly: 52
         gap_note: ""
@@ -24776,7 +25256,7 @@ assemblies:
         research_status: "complete"
         next_step: "No overture-level research remains; packet audits and closeout are tracked at GA level."
         disposition: "Answered by reference"
-        event_count: 5
+        event_count: 6
         last_action_ga: 51
         search_through_assembly: 52
         gap_note: ""
@@ -24791,7 +25271,7 @@ assemblies:
         research_status: "complete"
         next_step: "No overture-level research remains; packet audits and closeout are tracked at GA level."
         disposition: "Approved → sent to presbyteries; ratification not located"
-        event_count: 4
+        event_count: 5
         last_action_ga: 51
         search_through_assembly: 52
         gap_note: ""
@@ -24806,7 +25286,7 @@ assemblies:
         research_status: "complete"
         next_step: "No overture-level research remains; packet audits and closeout are tracked at GA level."
         disposition: "Answered by reference"
-        event_count: 3
+        event_count: 4
         last_action_ga: 51
         search_through_assembly: 52
         gap_note: ""
@@ -24851,7 +25331,7 @@ assemblies:
         research_status: "complete"
         next_step: "No overture-level research remains; packet audits and closeout are tracked at GA level."
         disposition: "Approved & ratified (2025)"
-        event_count: 5
+        event_count: 6
         last_action_ga: 52
         search_through_assembly: 52
         gap_note: ""
@@ -24866,7 +25346,7 @@ assemblies:
         research_status: "complete"
         next_step: "No overture-level research remains; packet audits and closeout are tracked at GA level."
         disposition: ""
-        event_count: 3
+        event_count: 4
         last_action_ga: 51
         search_through_assembly: 52
         gap_note: ""
@@ -24881,7 +25361,7 @@ assemblies:
         research_status: "complete"
         next_step: "No overture-level research remains; packet audits and closeout are tracked at GA level."
         disposition: "Answered by reference"
-        event_count: 5
+        event_count: 6
         last_action_ga: 51
         search_through_assembly: 52
         gap_note: ""
@@ -24896,7 +25376,7 @@ assemblies:
         research_status: "complete"
         next_step: "No overture-level research remains; packet audits and closeout are tracked at GA level."
         disposition: "Answered by reference"
-        event_count: 5
+        event_count: 6
         last_action_ga: 51
         search_through_assembly: 52
         gap_note: ""
@@ -24911,7 +25391,7 @@ assemblies:
         research_status: "complete"
         next_step: "No overture-level research remains; packet audits and closeout are tracked at GA level."
         disposition: "Answered in the negative"
-        event_count: 3
+        event_count: 4
         last_action_ga: 51
         search_through_assembly: 52
         gap_note: ""
@@ -24926,7 +25406,7 @@ assemblies:
         research_status: "complete"
         next_step: "No overture-level research remains; packet audits and closeout are tracked at GA level."
         disposition: ""
-        event_count: 5
+        event_count: 6
         last_action_ga: 52
         search_through_assembly: 52
         gap_note: ""
@@ -24941,7 +25421,7 @@ assemblies:
         research_status: "complete"
         next_step: "No overture-level research remains; packet audits and closeout are tracked at GA level."
         disposition: "Approved & ratified (2025)"
-        event_count: 5
+        event_count: 6
         last_action_ga: 52
         search_through_assembly: 52
         gap_note: ""
@@ -24956,7 +25436,7 @@ assemblies:
         research_status: "complete"
         next_step: "No overture-level research remains; packet audits and closeout are tracked at GA level."
         disposition: ""
-        event_count: 3
+        event_count: 4
         last_action_ga: 51
         search_through_assembly: 52
         gap_note: ""
@@ -24986,7 +25466,7 @@ assemblies:
         research_status: "complete"
         next_step: "No overture-level research remains; packet audits and closeout are tracked at GA level."
         disposition: "Answered in the negative"
-        event_count: 3
+        event_count: 5
         last_action_ga: 51
         search_through_assembly: 52
         gap_note: ""
@@ -25001,7 +25481,7 @@ assemblies:
         research_status: "complete"
         next_step: "No overture-level research remains; packet audits and closeout are tracked at GA level."
         disposition: "Answered in the negative"
-        event_count: 3
+        event_count: 12
         last_action_ga: 51
         search_through_assembly: 52
         gap_note: ""
@@ -25016,7 +25496,7 @@ assemblies:
         research_status: "complete"
         next_step: "No overture-level research remains; packet audits and closeout are tracked at GA level."
         disposition: "Referred"
-        event_count: 3
+        event_count: 12
         last_action_ga: 51
         search_through_assembly: 52
         gap_note: "No remaining gap: GA51 recommendation 32 was adopted, referring this Overture 32 back to Eastern Pennsylvania Presbytery. No later action on this distinct proposal was located in the GA52 Markdown minutes; GA52 Overture 32 is an unrelated BCO 36 proposal."
@@ -25078,17 +25558,17 @@ assemblies:
     missing_research_rows: 0
     missing_event_bundles: 0
     candidate_passages: 569
-    candidates_reviewed: 0
-    candidates_unreviewed: 569
+    candidates_reviewed: 569
+    candidates_unreviewed: 0
     candidate_invalid_links: 0
     candidate_reviews_orphaned: 0
-    roster_reconciled: "unverified"
+    roster_reconciled: "verified: 50 distinct GA52 source records match 50 research rows, event bundles, and page-map entries; 569/569 candidates reviewed with zero invalid links or orphan reviews (2026-10-13)"
     event_source_audited: "unverified"
-    build: "unverified"
-    preview_reviewed: "unverified"
+    build: "passed: full siteBuild -RegenerateOvertures; 10,898 linked HTML files validated (2026-10-13)"
+    preview_reviewed: "verified: GA52 O43 action trail displays originating Presbytery adoption, CCB referral/advice, committee actions, and Assembly votes with source links (2026-10-13)"
     commit_sha: ""
     pushed: "unverified"
-    blocker: "19 records in progress; 569 candidates unreviewed; roster_reconciled unverified; event_source_audited unverified; build unverified; preview_reviewed unverified; commit_sha unverified; pushed unverified"
+    blocker: "19 records in progress; event_source_audited unverified; commit_sha unverified; pushed unverified; 49 of 315 GA52 events marked as excerpts do not exactly match the Markdown action text; reconcile excerpt transcription before source-audit closure. 19 overture records remain in progress because follow-up is outside available GA52 minutes."
     next_step: ""
     overtures:
       -
@@ -25101,7 +25581,7 @@ assemblies:
         research_status: "complete"
         next_step: "No overture-level research remains; packet audits and closeout are tracked at GA level."
         disposition: "Answered in the negative"
-        event_count: 3
+        event_count: 5
         last_action_ga: 52
         search_through_assembly: 52
         gap_note: ""
@@ -25116,7 +25596,7 @@ assemblies:
         research_status: "complete"
         next_step: "No overture-level research remains; packet audits and closeout are tracked at GA level."
         disposition: "Adopted (final)"
-        event_count: 4
+        event_count: 5
         last_action_ga: 52
         search_through_assembly: 52
         gap_note: ""
@@ -25131,7 +25611,7 @@ assemblies:
         research_status: "complete"
         next_step: "No overture-level research remains; packet audits and closeout are tracked at GA level."
         disposition: "Answered by reference"
-        event_count: 4
+        event_count: 5
         last_action_ga: 52
         search_through_assembly: 52
         gap_note: ""
@@ -25161,7 +25641,7 @@ assemblies:
         research_status: "complete"
         next_step: "No overture-level research remains; packet audits and closeout are tracked at GA level."
         disposition: "Answered by reference"
-        event_count: 3
+        event_count: 5
         last_action_ga: 52
         search_through_assembly: 52
         gap_note: ""
@@ -25176,8 +25656,8 @@ assemblies:
         research_status: "in_progress"
         next_step: "Continue tracing the action trail; use gap_note to resume the source search."
         disposition: "Final approval reported by GA53 Stated Clerk (2026)"
-        event_count: 5
-        last_action_ga: 53
+        event_count: 6
+        last_action_ga: 52
         search_through_assembly: 53
         gap_note: "ByFaith reports that Item 4 (BCO 18-2) met the presbytery threshold (67-3); the 53rd Stated Clerk summary reports final approval of this amendment. Match both stages to the 53rd GA minutes, including the recorded tally and final Assembly action."
         anomalies: ""
@@ -25191,7 +25671,7 @@ assemblies:
         research_status: "complete"
         next_step: "No overture-level research remains; packet audits and closeout are tracked at GA level."
         disposition: "Answered in the negative"
-        event_count: 3
+        event_count: 5
         last_action_ga: 52
         search_through_assembly: 52
         gap_note: ""
@@ -25206,7 +25686,7 @@ assemblies:
         research_status: "in_progress"
         next_step: "Continue tracing the action trail; use gap_note to resume the source search."
         disposition: "Approved → sent to presbyteries; ratification not located"
-        event_count: 4
+        event_count: 5
         last_action_ga: 52
         search_through_assembly: 53
         gap_note: "ByFaith’s May 27 report says Item 5 failed to reach the two-thirds threshold after 30 presbyteries disapproved it, so no final GA53 ratification vote was due. The article gives no complete tally. Verify the recorded presbytery results in primary GA53 minutes before completing this trail."
@@ -25221,7 +25701,7 @@ assemblies:
         research_status: "complete"
         next_step: "No overture-level research remains; packet audits and closeout are tracked at GA level."
         disposition: "Answered by referring back to Presbytery"
-        event_count: 25
+        event_count: 28
         last_action_ga: 52
         search_through_assembly: 52
         gap_note: "The minority report says Overture 9 was amended in Overtures Committee to add substantial changes about annual pre-Assembly permanent-committee budget handling, but neither the added wording nor the committee motion/vote is recorded in the located passages. The Assembly ultimately referred the overture back to James River Presbytery, so it was not approved and sent to presbyteries for ratification."
@@ -25236,7 +25716,7 @@ assemblies:
         research_status: "complete"
         next_step: "No overture-level research remains; packet audits and closeout are tracked at GA level."
         disposition: "Referred"
-        event_count: 3
+        event_count: 5
         last_action_ga: 52
         search_through_assembly: 52
         gap_note: ""
@@ -25251,7 +25731,7 @@ assemblies:
         research_status: "complete"
         next_step: "No overture-level research remains; packet audits and closeout are tracked at GA level."
         disposition: "Answered in the negative"
-        event_count: 20
+        event_count: 21
         last_action_ga: 52
         search_through_assembly: 52
         gap_note: "Complete through GA52. Appendix U contains one Overture 11, submitted by South Texas Presbytery, with the title “To Study Incorporating Bitcoin into Session, Presbytery, and Committee & Agency Balance Sheets.” The other committee recommendations in this volume identify that same numbered, identically titled proposal as South Texas. The MNA Committee of Commissioners report alone prints “Southwest Texas”; preserve that attribution verbatim in event e09 as a source discrepancy. Because the journal reports 50 overtures total and contains no separate Southwest Texas O11 original, there is no distinct second proposal to catalogue or attach this action to. The Assembly adopted Overtures Committee recommendation 11 to answer the overture in the negative by voice vote; no presbytery ratification applies."
@@ -25266,7 +25746,7 @@ assemblies:
         research_status: "complete"
         next_step: "No overture-level research remains; packet audits and closeout are tracked at GA level."
         disposition: "Answered in the negative"
-        event_count: 5
+        event_count: 7
         last_action_ga: 52
         search_through_assembly: 52
         gap_note: ""
@@ -25281,7 +25761,7 @@ assemblies:
         research_status: "complete"
         next_step: "No overture-level research remains; packet audits and closeout are tracked at GA level."
         disposition: "Answered in the negative"
-        event_count: 3
+        event_count: 5
         last_action_ga: 52
         search_through_assembly: 52
         gap_note: ""
@@ -25296,7 +25776,7 @@ assemblies:
         research_status: "complete"
         next_step: "No overture-level research remains; packet audits and closeout are tracked at GA level."
         disposition: "Answered in the negative"
-        event_count: 3
+        event_count: 5
         last_action_ga: 52
         search_through_assembly: 52
         gap_note: ""
@@ -25312,7 +25792,7 @@ assemblies:
         next_step: "Continue tracing the action trail; use gap_note to resume the source search."
         disposition: "Final approval reported by GA53 Stated Clerk (2026)"
         event_count: 5
-        last_action_ga: 53
+        last_action_ga: 52
         search_through_assembly: 53
         gap_note: "ByFaith reports that Item 9 (BCO 36-4) met the presbytery threshold (70-0); the 53rd Stated Clerk summary reports final approval of this amendment. Match both stages to the 53rd GA minutes, including the recorded tally and final Assembly action."
         anomalies: ""
@@ -25327,7 +25807,7 @@ assemblies:
         next_step: "Continue tracing the action trail; use gap_note to resume the source search."
         disposition: "Final approval reported by GA53 Stated Clerk (2026)"
         event_count: 5
-        last_action_ga: 53
+        last_action_ga: 52
         search_through_assembly: 53
         gap_note: "ByFaith reports that Item 10 (BCO 36-5) met the presbytery threshold (70-0); the 53rd Stated Clerk summary reports final approval of this amendment. Match both stages to the 53rd GA minutes, including the recorded tally and final Assembly action."
         anomalies: ""
@@ -25341,7 +25821,7 @@ assemblies:
         research_status: "complete"
         next_step: "No overture-level research remains; packet audits and closeout are tracked at GA level."
         disposition: ""
-        event_count: 2
+        event_count: 4
         last_action_ga: 52
         search_through_assembly: 52
         gap_note: ""
@@ -25356,7 +25836,7 @@ assemblies:
         research_status: "complete"
         next_step: "No overture-level research remains; packet audits and closeout are tracked at GA level."
         disposition: ""
-        event_count: 2
+        event_count: 4
         last_action_ga: 52
         search_through_assembly: 52
         gap_note: ""
@@ -25371,7 +25851,7 @@ assemblies:
         research_status: "complete"
         next_step: "No overture-level research remains; packet audits and closeout are tracked at GA level."
         disposition: "Answered in the negative"
-        event_count: 3
+        event_count: 5
         last_action_ga: 52
         search_through_assembly: 52
         gap_note: ""
@@ -25386,7 +25866,7 @@ assemblies:
         research_status: "complete"
         next_step: "No overture-level research remains; packet audits and closeout are tracked at GA level."
         disposition: "Adopted (final)"
-        event_count: 2
+        event_count: 4
         last_action_ga: 52
         search_through_assembly: 52
         gap_note: ""
@@ -25401,7 +25881,7 @@ assemblies:
         research_status: "complete"
         next_step: "No overture-level research remains; packet audits and closeout are tracked at GA level."
         disposition: "Withdrawn"
-        event_count: 1
+        event_count: 2
         last_action_ga: 52
         search_through_assembly: 52
         gap_note: ""
@@ -25416,7 +25896,7 @@ assemblies:
         research_status: "complete"
         next_step: "No overture-level research remains; packet audits and closeout are tracked at GA level."
         disposition: "Answered in the negative"
-        event_count: 3
+        event_count: 4
         last_action_ga: 52
         search_through_assembly: 52
         gap_note: ""
@@ -25431,8 +25911,8 @@ assemblies:
         research_status: "in_progress"
         next_step: "Continue tracing the action trail; use gap_note to resume the source search."
         disposition: "Final approval reported by GA53 Stated Clerk (2026)"
-        event_count: 5
-        last_action_ga: 53
+        event_count: 4
+        last_action_ga: 52
         search_through_assembly: 53
         gap_note: "ByFaith reports that Item 12 (BCO 41-3) met the presbytery threshold (67-3); the 53rd Stated Clerk summary reports final approval of this amendment. Match both stages to the 53rd GA minutes, including the recorded tally and final Assembly action."
         anomalies: ""
@@ -25447,7 +25927,7 @@ assemblies:
         next_step: "Continue tracing the action trail; use gap_note to resume the source search."
         disposition: "Final approval reported by GA53 Stated Clerk (2026)"
         event_count: 5
-        last_action_ga: 53
+        last_action_ga: 52
         search_through_assembly: 53
         gap_note: "ByFaith reports that Item 6 (BCO 24-1 (clarify Session role in examining officer nominees)) met the presbytery threshold (70-0); the 53rd Stated Clerk summary reports final approval of this amendment. Match both stages to the 53rd GA minutes, including the recorded tally and final Assembly action."
         anomalies: ""
@@ -25461,7 +25941,7 @@ assemblies:
         research_status: "complete"
         next_step: "No overture-level research remains; packet audits and closeout are tracked at GA level."
         disposition: ""
-        event_count: 3
+        event_count: 5
         last_action_ga: 52
         search_through_assembly: 52
         gap_note: ""
@@ -25476,8 +25956,8 @@ assemblies:
         research_status: "in_progress"
         next_step: "Continue tracing the action trail; use gap_note to resume the source search."
         disposition: "Adopted (final)"
-        event_count: 4
-        last_action_ga: 53
+        event_count: 5
+        last_action_ga: 52
         search_through_assembly: 53
         gap_note: "The GA53 report and official Stated Clerk summary establish the committee’s proposal and reported extension, but the exact GA53 motion, vote, and minutes locator must be verified in the primary minutes before this trail is complete."
         anomalies: ""
@@ -25491,7 +25971,7 @@ assemblies:
         research_status: "complete"
         next_step: "No overture-level research remains; packet audits and closeout are tracked at GA level."
         disposition: "Answered in the negative"
-        event_count: 2
+        event_count: 22
         last_action_ga: 52
         search_through_assembly: 52
         gap_note: ""
@@ -25506,7 +25986,7 @@ assemblies:
         research_status: "complete"
         next_step: "No overture-level research remains; packet audits and closeout are tracked at GA level."
         disposition: "Answered in the negative"
-        event_count: 2
+        event_count: 4
         last_action_ga: 52
         search_through_assembly: 52
         gap_note: ""
@@ -25522,7 +26002,7 @@ assemblies:
         next_step: "Continue tracing the action trail; use gap_note to resume the source search."
         disposition: "Approved → sent to presbyteries; ratification not located"
         event_count: 5
-        last_action_ga: 53
+        last_action_ga: 52
         search_through_assembly: 53
         gap_note: "byFaith reports that GA53 voted down BCO voting-form Item 3 (BCO 15-5.c), despite the reported 69-1 presbytery approval. Verify the exact Assembly motion, vote, and minutes locator in primary GA53 minutes before completing this trail."
         anomalies: ""
@@ -25536,7 +26016,7 @@ assemblies:
         research_status: "in_progress"
         next_step: "Continue tracing the action trail; use gap_note to resume the source search."
         disposition: "Approved → sent to presbyteries; ratification not located"
-        event_count: 20
+        event_count: 22
         last_action_ga: 52
         search_through_assembly: 53
         gap_note: "ByFaith’s May 27 report confirms Item 1 failed to meet the two-thirds presbytery threshold, so no final GA53 ratification vote was due. The article does not give the tally. Verify the recorded presbytery results in primary GA53 minutes before completing this trail."
@@ -25552,7 +26032,7 @@ assemblies:
         next_step: "Continue tracing the action trail; use gap_note to resume the source search."
         disposition: "Final approval reported by GA53 Stated Clerk (2026)"
         event_count: 5
-        last_action_ga: 53
+        last_action_ga: 52
         search_through_assembly: 53
         gap_note: "ByFaith reports that Item 7 (BCO 31-10) met the presbytery threshold (58-12); the 53rd Stated Clerk summary reports final approval of this amendment. Match both stages to the 53rd GA minutes, including the recorded tally and final Assembly action."
         anomalies: ""
@@ -25567,7 +26047,7 @@ assemblies:
         next_step: "Continue tracing the action trail; use gap_note to resume the source search."
         disposition: "Final approval reported by GA53 Stated Clerk (2026)"
         event_count: 5
-        last_action_ga: 53
+        last_action_ga: 52
         search_through_assembly: 53
         gap_note: "ByFaith reports that Item 11 (BCO 36-8 and 42-2) met the presbytery threshold (68-2); the 53rd Stated Clerk summary reports final approval of this amendment. Match both stages to the 53rd GA minutes, including the recorded tally and final Assembly action."
         anomalies: ""
@@ -25596,7 +26076,7 @@ assemblies:
         research_status: "complete"
         next_step: "No overture-level research remains; packet audits and closeout are tracked at GA level."
         disposition: "RAO amendment failed: two-thirds vote not met (929-730)"
-        event_count: 3
+        event_count: 5
         last_action_ga: 52
         search_through_assembly: 52
         gap_note: ""
@@ -25612,7 +26092,7 @@ assemblies:
         next_step: "Continue tracing the action trail; use gap_note to resume the source search."
         disposition: "Adopted (final)"
         event_count: 4
-        last_action_ga: 53
+        last_action_ga: 52
         search_through_assembly: 53
         gap_note: "The GA53 Stated Clerk summary reports that the AC study was underway. The official survey page documents the Aug. 18–Sept. 30, 2026 survey window, which had ended by October 13; no results or final AC report were located on the survey page or current GA54 resources page. Locate the final AC report and any Assembly disposition in GA54 materials."
         anomalies: ""
@@ -25626,7 +26106,7 @@ assemblies:
         research_status: "complete"
         next_step: "No overture-level research remains; packet audits and closeout are tracked at GA level."
         disposition: "Adopted (final)"
-        event_count: 3
+        event_count: 5
         last_action_ga: 52
         search_through_assembly: 52
         gap_note: "Resolved within GA52. MNA Committee of Commissioners recommendation 11 proposed an affirmative answer to O36 pending companion O46 (62-0-0, referred to the Overtures Committee). At 52-25, MNA recommendations 4–6, 8, 11, and 13 were adopted in gross without objection, adopting the affirmative recommendations for both O36 and O46 and satisfying the stated companion condition. The Overtures Committee report’s later statement that it did not consider O36 records its MNA-only referral path, not a contrary Assembly disposition. O46 is cross-linked as the companion boundary overture. These boundary actions do not require presbytery ratification."
@@ -25642,7 +26122,7 @@ assemblies:
         next_step: "Continue tracing the action trail; use gap_note to resume the source search."
         disposition: "Final approval reported by GA53 Stated Clerk (2026)"
         event_count: 5
-        last_action_ga: 53
+        last_action_ga: 52
         search_through_assembly: 53
         gap_note: "ByFaith reports that Item 2 (BCO 12-3) met the presbytery threshold (67-3); the 53rd Stated Clerk summary reports final approval of this amendment. Match both stages to the 53rd GA minutes, including the recorded tally and final Assembly action."
         anomalies: ""
@@ -25656,7 +26136,7 @@ assemblies:
         research_status: "complete"
         next_step: "No overture-level research remains; packet audits and closeout are tracked at GA level."
         disposition: "Answered by reference"
-        event_count: 3
+        event_count: 5
         last_action_ga: 52
         search_through_assembly: 52
         gap_note: ""
@@ -25671,7 +26151,7 @@ assemblies:
         research_status: "complete"
         next_step: "No overture-level research remains; packet audits and closeout are tracked at GA level."
         disposition: "Answered by reference"
-        event_count: 3
+        event_count: 5
         last_action_ga: 52
         search_through_assembly: 52
         gap_note: ""
@@ -25687,7 +26167,7 @@ assemblies:
         next_step: "Continue tracing the action trail; use gap_note to resume the source search."
         disposition: "Final approval reported by GA53 Stated Clerk (2026)"
         event_count: 5
-        last_action_ga: 53
+        last_action_ga: 52
         search_through_assembly: 53
         gap_note: "ByFaith reports that Item 8 (BCO 35-9) met the presbytery threshold (69-1); the 53rd Stated Clerk summary reports final approval of this amendment. Match both stages to the 53rd GA minutes, including the recorded tally and final Assembly action."
         anomalies: ""
@@ -25701,7 +26181,7 @@ assemblies:
         research_status: "complete"
         next_step: "No overture-level research remains; packet audits and closeout are tracked at GA level."
         disposition: "Answered in the negative"
-        event_count: 2
+        event_count: 4
         last_action_ga: 52
         search_through_assembly: 52
         gap_note: ""
@@ -25716,7 +26196,7 @@ assemblies:
         research_status: "complete"
         next_step: "No overture-level research remains; packet audits and closeout are tracked at GA level."
         disposition: "Adopted (final)"
-        event_count: 3
+        event_count: 4
         last_action_ga: 52
         search_through_assembly: 52
         gap_note: ""
@@ -25731,7 +26211,7 @@ assemblies:
         research_status: "complete"
         next_step: "No overture-level research remains; packet audits and closeout are tracked at GA level."
         disposition: "RAO amendment failed: two-thirds vote not met (1005-623)"
-        event_count: 3
+        event_count: 7
         last_action_ga: 52
         search_through_assembly: 52
         gap_note: ""
@@ -25746,7 +26226,7 @@ assemblies:
         research_status: "in_progress"
         next_step: "Continue tracing the action trail; use gap_note to resume the source search."
         disposition: "Adopted (final)"
-        event_count: 3
+        event_count: 5
         last_action_ga: 52
         search_through_assembly: 53
         gap_note: "GA52 adopted an amended directive for the Administrative Committee to report to GA54; follow the mandated report and any subsequent action."
@@ -25776,7 +26256,7 @@ assemblies:
         research_status: "complete"
         next_step: "No overture-level research remains; packet audits and closeout are tracked at GA level."
         disposition: ""
-        event_count: 2
+        event_count: 4
         last_action_ga: 52
         search_through_assembly: 52
         gap_note: ""
@@ -25791,8 +26271,8 @@ assemblies:
         research_status: "in_progress"
         next_step: "Continue tracing the action trail; use gap_note to resume the source search."
         disposition: "Adopted (final)"
-        event_count: 4
-        last_action_ga: 53
+        event_count: 5
+        last_action_ga: 52
         search_through_assembly: 53
         gap_note: "The committee recommendations and reported Assembly response are documented, but the exact GA53 motion, vote, and minutes locator must be checked in the primary minutes before completing this trail."
         anomalies: ""
@@ -25806,7 +26286,7 @@ assemblies:
         research_status: "complete"
         next_step: "No overture-level research remains; packet audits and closeout are tracked at GA level."
         disposition: "Adopted (final)"
-        event_count: 2
+        event_count: 5
         last_action_ga: 52
         search_through_assembly: 52
         gap_note: "The Assembly’s amended answer replaced the requested ad interim committee with a resolution joining the ARP and RPCNA statements and calling for repentance. The Assembly adopted that resolution 1098-231; no committee or future report was created by this action."
@@ -25821,8 +26301,8 @@ assemblies:
         research_status: "in_progress"
         next_step: "Continue tracing the action trail; use gap_note to resume the source search."
         disposition: "Carried over"
-        event_count: 3
-        last_action_ga: 53
+        event_count: 13
+        last_action_ga: 52
         search_through_assembly: 53
         gap_note: "The official Stated Clerk summary reports that GA53 established an AI committee with a remit corresponding to the referred proposal. The official reissued Overture 2025-49 confirms the GA52-to-GA53 referral and sets the study report deadline at GA54 (June 2027), so that later report is not yet due. Verify the exact GA53 recommendation, vote, and explicit linkage in the primary minutes; the official archive index did not list the 2026 minutes when checked October 13, 2026."
         anomalies: ""
@@ -25836,7 +26316,7 @@ assemblies:
         research_status: "complete"
         next_step: "No overture-level research remains; packet audits and closeout are tracked at GA level."
         disposition: "Other"
-        event_count: 2
+        event_count: 4
         last_action_ga: 52
         search_through_assembly: 52
         gap_note: ""

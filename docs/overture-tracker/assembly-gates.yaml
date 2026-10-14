@@ -101,10 +101,10 @@
     "blocker": ""
   },
   "12": {
-    "roster_reconciled": "unverified",
-    "event_source_audited": "unverified",
-    "build": "unverified",
-    "preview_reviewed": "unverified",
+    "roster_reconciled": "verified: 70 catalogue records match 70 research rows, 70 event bundles, and page-map entries; 198/198 candidates reviewed (2026-10-13)",
+    "event_source_audited": "verified: 287 events have unique IDs, continuous sequences, and resolvable anchors; all 278 excerpt texts match normalized source Markdown; 198/198 candidate reviews have zero invalid links or orphans (2026-10-13)",
+    "build": "passed: full validating siteBuild via scripts/build-local.ps1; rendered-site validation passed (2026-10-13)",
+    "preview_reviewed": "verified: GA12 O29 returns HTTP 200; GA13 adoption and separate presbytery tally sections and source links present (2026-10-13)",
     "commit_sha": "",
     "pushed": "unverified",
     "blocker": ""
@@ -179,7 +179,7 @@
     "preview_reviewed": "unverified",
     "commit_sha": "",
     "pushed": "unverified",
-    "blocker": ""
+    "blocker": "GA20 roster reconciliation found direct source/action passages for distinct Overtures 1, 9, 10, 13, 14, 15, 16, 17, 19, 21, 25, 26, and 28 without page-qualified GA20 records. Reconcile each to its originating source identity and determine whether it is a distinct in-scope catalogue record before closing the packet."
   },
   "21": {
     "roster_reconciled": "unverified",
@@ -191,13 +191,13 @@
     "blocker": ""
   },
   "22": {
-    "roster_reconciled": "unverified",
-    "event_source_audited": "unverified",
-    "build": "unverified",
-    "preview_reviewed": "unverified",
+    "roster_reconciled": "verified: 46 page-qualified records reconcile to the GA22 docket and distinct source texts; research rows, event bundles, and page-map entries are present, including both reused Overture 1 and Overture 22 identities (2026-10-13)",
+    "event_source_audited": "verified: 141 events across 46 records; all source anchors resolve; 137 excerpts match normalized Markdown and four explicit omission excerpts have each quoted segment verified; event IDs and sequences are unique and continuous; all 148 candidate reviews are linked (2026-10-13)",
+    "build": "passed: full validating siteBuild; 10,897 linked HTML files staged and rendered-site validation passed (2026-10-13)",
+    "preview_reviewed": "verified: GA22 O38 local page returned HTTP 200; six chronological action sections and GA22/GA23 source links rendered, with explicit excerpt labels and omission marker (2026-10-13)",
     "commit_sha": "",
     "pushed": "unverified",
-    "blocker": ""
+    "blocker": "GA22 Overture 32 submitted-text transcription contains corrupted OCR; preserve it without reconstruction. This limitation is documented on the record; action excerpts were audited independently."
   },
   "23": {
     "roster_reconciled": "unverified",
@@ -241,7 +241,7 @@
     "build": "passed: full validating siteBuild on 2026-10-13 after the GA27 source refresh (6m04s).",
     "preview_reviewed": "verified: visually reviewed local GA27 O11; submitted proposal is separate from the action trail, with clear action headings, excerpt labels, and source links.",
     "commit_sha": "5fb91b4afdc0fedabf56581017461a2d8a32c3bb",
-    "pushed": true,
+    "pushed": "True",
     "blocker": ""
   },
   "28": {
@@ -250,16 +250,16 @@
     "build": "passed: full validating siteBuild on 2026-10-13 after GA28 source updates (6m04s)",
     "preview_reviewed": "verified: visually reviewed local GA28 O23 page; submitted text is separated from action blocks, excerpt labels are explicit, and source links resolve in the preview.",
     "commit_sha": "37a97ad3f493532d58f9d5adeef1294f83611b7a",
-    "pushed": true,
+    "pushed": "True",
     "blocker": ""
   },
   "29": {
     "roster_reconciled": "verified: 38 page-qualified records match the reconciled GA29 catalogue and page map",
-    "event_source_audited": "verified: 190 events across 38 trails; all source anchors and exact excerpts audited in GA29\u2013GA31 Markdown minutes",
+    "event_source_audited": "verified: 190 events across 38 trails; all source anchors and exact excerpts audited in GA29–GA31 Markdown minutes",
     "build": "passed: full validating siteBuild after GA29 packet commit c19267109 on 2026-10-13 (6m04s)",
     "preview_reviewed": "verified: visually reviewed the local GA29 O1, O27, and O35 pages after the targeted Gradle fastPreview. Action headings and source labels are distinct from submitted text; the GA30 concurrence tally renders as a structured table.",
     "commit_sha": "c1926710904af2b4ec22d74262686fd405e3ef22",
-    "pushed": true,
+    "pushed": "True",
     "blocker": ""
   },
   "30": {
@@ -416,10 +416,10 @@
     "blocker": ""
   },
   "47": {
-    "roster_reconciled": "unverified",
-    "event_source_audited": "unverified",
-    "build": "unverified",
-    "preview_reviewed": "unverified",
+    "roster_reconciled": "verified: 47 distinct catalogue records match 47 research rows, event bundles, and page-map entries; 322/322 candidate passages reviewed with zero invalid links or orphan reviews (2026-10-13)",
+    "event_source_audited": "verified: 188 events have unique IDs, continuous per-record sequences, verified transcription flags, and resolving anchors; 148 non-table quotes were source-matched, and 40 committee-summary rows cite the correct page with omitted rows explicitly marked where noncontiguous (2026-10-13)",
+    "build": "passed: full validating siteBuild -RegenerateOvertures; 10,898 linked HTML files verified, 8,672 search pages indexed, 30/30 Node checks passed (2026-10-13; 4m41s)",
+    "preview_reviewed": "verified: GA47 O1, O9, O11, O14, O17, and O39 pages returned HTTP 200; O14 action trail and corrected printed/PDF page citation inspected in preview (2026-10-13)",
     "commit_sha": "",
     "pushed": "unverified",
     "blocker": ""
@@ -452,21 +452,21 @@
     "blocker": ""
   },
   "51": {
-    "roster_reconciled": "unverified",
-    "event_source_audited": "unverified",
-    "build": "unverified",
-    "preview_reviewed": "unverified",
+    "roster_reconciled": "verified: 35 distinct GA51 source records match 35 research rows, event bundles, and page-map entries; 467/467 candidates reviewed with zero invalid links or orphan reviews (2026-10-13)",
+    "event_source_audited": "verified: 188 GA51 record events have continuous IDs/sequences and all 188 source anchors and printed/PDF locators resolve; 118 quoted excerpts match GA51 Markdown exactly. All 200 GA51-sourced events across linked records resolve, including 10 new updated tallies. GA49 O15/O29 source discrepancy is explicitly retained for reconciliation (2026-10-13)",
+    "build": "passed: full siteBuild -RegenerateOvertures; 10,898 linked HTML files validated (2026-10-13)",
+    "preview_reviewed": "verified: GA51 O30 action trail displays Presbytery adoption/amended readoption, CCB advice, OC vote, and Assembly omnibus action with source links (2026-10-13)",
     "commit_sha": "",
     "pushed": "unverified",
     "blocker": ""
   },
   "52": {
-    "roster_reconciled": "unverified",
+    "roster_reconciled": "verified: 50 distinct GA52 source records match 50 research rows, event bundles, and page-map entries; 569/569 candidates reviewed with zero invalid links or orphan reviews (2026-10-13)",
     "event_source_audited": "unverified",
-    "build": "unverified",
-    "preview_reviewed": "unverified",
+    "build": "passed: full siteBuild -RegenerateOvertures; 10,898 linked HTML files validated (2026-10-13)",
+    "preview_reviewed": "verified: GA52 O43 action trail displays originating Presbytery adoption, CCB referral/advice, committee actions, and Assembly votes with source links (2026-10-13)",
     "commit_sha": "",
     "pushed": "unverified",
-    "blocker": ""
+    "blocker": "49 of 315 GA52 events marked as excerpts do not exactly match the Markdown action text; reconcile excerpt transcription before source-audit closure. 19 overture records remain in progress because follow-up is outside available GA52 minutes."
   }
 }
