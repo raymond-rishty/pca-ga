@@ -465,7 +465,7 @@
     "event_source_audited": "verified: 318 events across 50 GA52 records have unique IDs, continuous sequences, complete printed/PDF locators, and 318/318 resolving Markdown anchors; all 315 excerpts now match contiguous cited Markdown text, including 11 passages spanning pages (2026-10-13)",
     "build": "passed: full siteBuild -RegenerateOvertures; 10,898 linked HTML files validated (2026-10-13)",
     "preview_reviewed": "verified: GA52 O27 action trail displays originating Presbytery adoption, committee advice, recommendation, and Assembly vote with source links; page-spanning RUF excerpt displays with corrected word spacing checked against PDF p. 483 (2026-10-13)",
-    "commit_sha": "c06f3d7c44a94a91c3f846f4562ad9cbd44f44e6",
+    "commit_sha": "8b1d4068186a004b74b751c3165fd235b190f702",
     "pushed": "pushed",
     "blocker": "19 records remain in progress because their later action or final ratification falls beyond the GA52 minutes currently in the repository."
   }
