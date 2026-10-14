@@ -371,12 +371,12 @@
     "blocker": ""
   },
   "42": {
-    "roster_reconciled": "unverified",
-    "event_source_audited": "unverified",
-    "build": "unverified",
-    "preview_reviewed": "unverified",
-    "commit_sha": "",
-    "pushed": "unverified",
+    "roster_reconciled": "verified: 55 distinct GA42 records match 55 research rows, event bundles, and page-map entries; 225/225 candidate passages reviewed with no missing linked record targets (2026-10-14)",
+    "event_source_audited": "verified: 222 events have unique IDs and continuous per-record sequences; all 222 event anchors and 8 supporting-excerpt anchors resolve; 230/230 quoted excerpts match their source-volume Markdown after accounting for formatting, page folios, and explicit omissions (2026-10-14)",
+    "build": "passed: full validating siteBuild -RegenerateOvertures; 10,911 linked HTML files verified, 8,685 search pages indexed, rendered-site validation and 30/30 Node checks passed (2026-10-14; 5m59s)",
+    "preview_reviewed": "verified: GA42 O37 and O49 pages returned HTTP 200 with action sections and GA43 presbytery vote table source links; corrected table headings inspected (2026-10-14)",
+    "commit_sha": "ee15d32a28392ea93a3feb697055dc8207d97b09",
+    "pushed": "pushed",
     "blocker": ""
   },
   "43": {
