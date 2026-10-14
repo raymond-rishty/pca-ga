@@ -2829,7 +2829,7 @@ assemblies:
   -
     ga_ordinal: 9
     assembly: "GA9"
-    status: "in_progress"
+    status: "closed"
     catalogue_records: 27
     records_complete: 27
     records_in_progress: 0
@@ -2842,14 +2842,14 @@ assemblies:
     candidates_unreviewed: 0
     candidate_invalid_links: 0
     candidate_reviews_orphaned: 0
-    roster_reconciled: "unverified"
-    event_source_audited: "unverified"
-    build: "unverified"
-    preview_reviewed: "unverified"
-    commit_sha: ""
-    pushed: "unverified"
-    blocker: "roster_reconciled unverified; event_source_audited unverified; build unverified; preview_reviewed unverified; commit_sha unverified; pushed unverified"
-    next_step: "Complete packet closeout: roster_reconciled, event_source_audited, build, preview_reviewed, commit_sha, pushed."
+    roster_reconciled: "verified: 27 distinct GA9 source records match 27 research rows, event bundles, and page-map entries; 117/117 candidate passages reviewed with zero invalid links or orphan reviews (2026-10-14)"
+    event_source_audited: "verified: 154 GA9 events have unique IDs, continuous per-record sequences, and resolving source anchors; five PDF page locators were corrected after scan review (2026-10-14)"
+    build: "passed: full siteBuild -RegenerateOvertures; 10,911 linked HTML files, 8,685 indexed pages, 30/30 Node regressions (2026-10-14)"
+    preview_reviewed: "verified: all 27 GA9 routes returned HTTP 200; all 154 action headings, source links, and minute-page anchors resolved (2026-10-14)"
+    commit_sha: "f491497f4"
+    pushed: "pushed"
+    blocker: ""
+    next_step: "No remaining work recorded."
     overtures:
       -
         record_id: "overture:ga09_1981:1:p41"
