@@ -83,12 +83,12 @@
     "blocker": ""
   },
   "10": {
-    "roster_reconciled": "unverified",
-    "event_source_audited": "unverified",
-    "build": "unverified",
-    "preview_reviewed": "unverified",
-    "commit_sha": "",
-    "pushed": "unverified",
+    "roster_reconciled": "verified: 23 distinct GA10 source-page records match 23 research rows, event bundles, and page-map entries; 105/105 candidate passages reviewed with zero invalid links or orphan reviews (2026-10-14)",
+    "event_source_audited": "verified: 102 events have unique IDs, continuous per-record sequences, and resolving anchors; all 101 quote sequences occur in their cited Markdown page spans. Corrected GA10 Overture 4 adoption and GA11 disposition locators (2026-10-14)",
+    "build": "passed: full siteBuild -RegenerateOvertures; 10,911 linked HTML files, 8,685 indexed pages, 30/30 Node regressions; 5m22s (2026-10-14)",
+    "preview_reviewed": "verified: all 23 GA10 routes returned HTTP 200; action-heading counts matched event totals and all 81 distinct minute-page source links and fragments resolved (2026-10-14)",
+    "commit_sha": "eb2e778d6",
+    "pushed": "pushed",
     "blocker": ""
   },
   "11": {

@@ -3259,7 +3259,7 @@ assemblies:
   -
     ga_ordinal: 10
     assembly: "GA10"
-    status: "in_progress"
+    status: "closed"
     catalogue_records: 23
     records_complete: 23
     records_in_progress: 0
@@ -3272,14 +3272,14 @@ assemblies:
     candidates_unreviewed: 0
     candidate_invalid_links: 0
     candidate_reviews_orphaned: 0
-    roster_reconciled: "unverified"
-    event_source_audited: "unverified"
-    build: "unverified"
-    preview_reviewed: "unverified"
-    commit_sha: ""
-    pushed: "unverified"
-    blocker: "roster_reconciled unverified; event_source_audited unverified; build unverified; preview_reviewed unverified; commit_sha unverified; pushed unverified"
-    next_step: "Complete packet closeout: roster_reconciled, event_source_audited, build, preview_reviewed, commit_sha, pushed."
+    roster_reconciled: "verified: 23 distinct GA10 source-page records match 23 research rows, event bundles, and page-map entries; 105/105 candidate passages reviewed with zero invalid links or orphan reviews (2026-10-14)"
+    event_source_audited: "verified: 102 events have unique IDs, continuous per-record sequences, and resolving anchors; all 101 quote sequences occur in their cited Markdown page spans. Corrected GA10 Overture 4 adoption and GA11 disposition locators (2026-10-14)"
+    build: "passed: full siteBuild -RegenerateOvertures; 10,911 linked HTML files, 8,685 indexed pages, 30/30 Node regressions; 5m22s (2026-10-14)"
+    preview_reviewed: "verified: all 23 GA10 routes returned HTTP 200; action-heading counts matched event totals and all 81 distinct minute-page source links and fragments resolved (2026-10-14)"
+    commit_sha: "eb2e778d6"
+    pushed: "pushed"
+    blocker: ""
+    next_step: "No remaining work recorded."
     overtures:
       -
         record_id: "overture:ga10_1982:1:p44"

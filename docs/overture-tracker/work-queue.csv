@@ -39,7 +39,7 @@
 38,assembly_packet,GA13,closed,done,51/51,162/162,No remaining work recorded.,
 39,assembly_packet,GA12,closed,done,70/70,198/198,No remaining work recorded.,
 40,assembly_packet,GA11,closed,done,38/38,127/127,No remaining work recorded.,
-41,assembly_packet,GA10,in_progress,packet_closeout,23/23,105/105,"Complete packet closeout: roster_reconciled, event_source_audited, build, preview_reviewed, commit_sha, pushed.",
+41,assembly_packet,GA10,closed,done,23/23,105/105,No remaining work recorded.,
 42,assembly_packet,GA9,in_progress,packet_closeout,27/27,117/117,"Complete packet closeout: roster_reconciled, event_source_audited, build, preview_reviewed, commit_sha, pushed.",
 43,assembly_packet,GA8,closed,done,34/34,123/123,No remaining work recorded.,
 44,assembly_packet,GA7,closed,done,31/31,86/86,No remaining work recorded.,
