@@ -420,8 +420,8 @@
     "event_source_audited": "verified: 188 events have unique IDs, continuous per-record sequences, verified transcription flags, and resolving anchors; 148 non-table quotes were source-matched, and 40 committee-summary rows cite the correct page with omitted rows explicitly marked where noncontiguous (2026-10-13)",
     "build": "passed: full validating siteBuild -RegenerateOvertures; 10,898 linked HTML files verified, 8,672 search pages indexed, 30/30 Node checks passed (2026-10-13; 4m41s)",
     "preview_reviewed": "verified: GA47 O1, O9, O11, O14, O17, and O39 pages returned HTTP 200; O14 action trail and corrected printed/PDF page citation inspected in preview (2026-10-13)",
-    "commit_sha": "",
-    "pushed": "unverified",
+    "commit_sha": "a92de5dfafb2882b07b82085fce927a943b70d85",
+    "pushed": "pushed",
     "blocker": ""
   },
   "48": {
