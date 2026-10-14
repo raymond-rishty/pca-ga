@@ -17494,7 +17494,7 @@ assemblies:
   -
     ga_ordinal: 37
     assembly: "GA37"
-    status: "in_progress"
+    status: "closed"
     catalogue_records: 22
     records_complete: 22
     records_in_progress: 0
@@ -17507,14 +17507,14 @@ assemblies:
     candidates_unreviewed: 0
     candidate_invalid_links: 0
     candidate_reviews_orphaned: 0
-    roster_reconciled: "unverified"
-    event_source_audited: "unverified"
-    build: "unverified"
-    preview_reviewed: "unverified"
-    commit_sha: ""
-    pushed: "unverified"
-    blocker: "roster_reconciled unverified; event_source_audited unverified; build unverified; preview_reviewed unverified; commit_sha unverified; pushed unverified"
-    next_step: "Complete packet closeout: roster_reconciled, event_source_audited, build, preview_reviewed, commit_sha, pushed."
+    roster_reconciled: "verified: 22 distinct GA37 catalogue records match 22 research rows, 22 event bundles, and 22 page-map entries; 127/127 candidate passages reviewed with zero invalid links or orphan reviews (2026-10-14)"
+    event_source_audited: "verified: 124 events have unique IDs and continuous per-record sequences; all 124 source anchors resolve and quoted excerpts match the cited Markdown/PDF source, including page-spanning Overture 6 excerpts (2026-10-14)"
+    build: "passed: full validating siteBuild -RegenerateOvertures; 10,911 linked HTML files verified, 8,685 search pages indexed, rendered-site validation and 30/30 Node checks passed (2026-10-14; 15m06s)"
+    preview_reviewed: "verified: all 22 GA37 overture routes returned HTTP 200 with 124 total action sections and source links; Overture 6 page-break continuation and editorial note inspected (2026-10-14)"
+    commit_sha: "8089cb501"
+    pushed: "pushed"
+    blocker: ""
+    next_step: "No remaining work recorded."
     overtures:
       -
         record_id: "overture:ga37_2009:1:p263"
@@ -17811,7 +17811,7 @@ assemblies:
         research_status: "complete"
         next_step: "No overture-level research remains; packet audits and closeout are tracked at GA level."
         disposition: "Adopted (final)"
-        event_count: 7
+        event_count: 6
         last_action_ga: 37
         search_through_assembly: 37
         gap_note: ""
