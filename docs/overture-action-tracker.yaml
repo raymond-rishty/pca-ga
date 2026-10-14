@@ -4238,9 +4238,9 @@ assemblies:
     candidate_invalid_links: 0
     candidate_reviews_orphaned: 0
     roster_reconciled: "verified: 70 catalogue records match 70 research rows, 70 event bundles, and page-map entries; 198/198 candidates reviewed (2026-10-13)"
-    event_source_audited: "verified: 287 events have unique IDs, continuous sequences, and resolvable anchors; all 278 excerpt texts match normalized source Markdown; 198/198 candidate reviews have zero invalid links or orphans (2026-10-13)"
-    build: "passed: full validating siteBuild via scripts/build-local.ps1; rendered-site validation passed (2026-10-13)"
-    preview_reviewed: "verified: GA12 O29 returns HTTP 200; GA13 adoption and separate presbytery tally sections and source links present (2026-10-13)"
+    event_source_audited: "verified: 287 events have unique IDs, continuous sequences, and resolvable anchors; all 278 excerpt texts match normalized source Markdown; 198/198 candidate reviews have zero invalid links or orphans. Corrected the shared GA15 minority-report quotation in GA12 O20, O22, O27, and O51 after the source OCR fix (2026-10-14)"
+    build: "passed: full validating siteBuild -RegenerateOvertures; 10,911 linked HTML files, 8,685 indexed pages, rendered-site validation, and 30/30 Node regressions passed (2026-10-14; 6m06s)"
+    preview_reviewed: "verified: GA12 O29 and GA13 ratification pages returned HTTP 200; updated GA12 O20, O22, O27, and O51 routes returned HTTP 200 with action-heading counts matching events; shared GA15 p. 107 quotation renders correctly (2026-10-14)"
     commit_sha: ""
     pushed: "unverified"
     blocker: "commit_sha unverified; pushed unverified"
@@ -5312,14 +5312,14 @@ assemblies:
     candidates_unreviewed: 0
     candidate_invalid_links: 0
     candidate_reviews_orphaned: 0
-    roster_reconciled: "unverified"
-    event_source_audited: "unverified"
-    build: "unverified"
-    preview_reviewed: "unverified"
+    roster_reconciled: "verified: 51 distinct GA13 catalogue records match 51 research rows, event bundles, and page-map entries; all 51 records complete and 162/162 GA13 candidates reviewed with zero invalid links or orphan reviews (2026-10-14)"
+    event_source_audited: "verified: 259 events across 51 records have unique IDs, continuous sequences, and resolving anchors; all 257 quoted events match normalized cited-volume Markdown. Corrected GA13/GA15 OCR excerpts and GA12/GA14 page locators; GA14 vote tables on PDF pp. 87 and 99 were checked against the source and their Markdown names corrected (2026-10-14)"
+    build: "passed: full validating siteBuild -RegenerateOvertures; 10,911 linked HTML files validated, 8,685 Pagefind-indexed pages, rendered-site checks passed, and 30/30 Node regressions passed (2026-10-14; 6m06s)"
+    preview_reviewed: "verified: all 51 GA13 overture routes returned HTTP 200 with action-heading counts matching their event bundles; O11 and O40 reviewed in preview, including GA12 PDF p. 143 start-page and GA14 PDF p. 99 vote-table links (2026-10-14)"
     commit_sha: ""
     pushed: "unverified"
-    blocker: "roster_reconciled unverified; event_source_audited unverified; build unverified; preview_reviewed unverified; commit_sha unverified; pushed unverified"
-    next_step: "Complete packet closeout: roster_reconciled, event_source_audited, build, preview_reviewed, commit_sha, pushed."
+    blocker: "commit_sha unverified; pushed unverified"
+    next_step: "Complete packet closeout: commit_sha, pushed."
     overtures:
       -
         record_id: "overture:ga13_1985:1:p45"
@@ -6103,9 +6103,9 @@ assemblies:
     candidate_invalid_links: 0
     candidate_reviews_orphaned: 0
     roster_reconciled: "verified: 54 distinct GA14 catalogue IDs match 54 research rows, event bundles, and page-map entries; all 54 records complete (2026-10-14)"
-    event_source_audited: "verified: 252 events with unique IDs, continuous per-record sequences, and resolving source anchors; 249 quoted events audited against Markdown (247 contiguous token matches; O27 e04 explicit omission and O28 e09 page-folio interruption manually checked); 178/178 candidates reviewed with zero invalid links or orphan reviews (2026-10-14)"
-    build: "passed: full siteBuild -RegenerateOvertures; 10,911 linked HTML files and 8,685 Pagefind-indexed pages validated (2026-10-14)"
-    preview_reviewed: "verified: GA14 O6, O27, O36, O37, O43, O45, O50, O53, and O54 returned HTTP 200; each rendered action-heading and source-link count matches its events; O36 and O43 content reviewed in browser (2026-10-14)"
+    event_source_audited: "verified: 252 events with unique IDs, continuous per-record sequences, and resolving source anchors; 249 quoted events audited against Markdown (247 contiguous token matches; O27 e04 explicit omission and O28 e09 page-folio interruption manually checked); corrected the shared GA15 minority-report quote in GA14 O6 e09 (2026-10-14)"
+    build: "passed: full validating siteBuild -RegenerateOvertures; 10,911 linked HTML files, 8,685 Pagefind-indexed pages, rendered-site validation, and 30/30 Node regressions passed (2026-10-14; 6m06s)"
+    preview_reviewed: "verified: GA14 O6, O27, O36, O37, O43, O45, O50, O53, and O54 returned HTTP 200; each rendered action-heading and source-link count matches its events; O6 includes the corrected shared GA15 quote; O36 and O43 content reviewed in browser (2026-10-14)"
     commit_sha: "03a7f8909"
     pushed: "pushed"
     blocker: ""
@@ -6932,15 +6932,15 @@ assemblies:
     records_source_unavailable: 0
     missing_research_rows: 0
     missing_event_bundles: 0
-    candidate_passages: 248
-    candidates_reviewed: 248
+    candidate_passages: 249
+    candidates_reviewed: 249
     candidates_unreviewed: 0
     candidate_invalid_links: 0
     candidate_reviews_orphaned: 0
-    roster_reconciled: "verified: 38 distinct GA15 catalogue records match 38 research rows, event bundles, and page-map entries; 248/248 candidate passages reviewed with zero invalid links or orphan reviews (2026-10-14)"
-    event_source_audited: "verified: 186 events have unique IDs, continuous per-record sequences, complete printed/PDF locators, and 186/186 resolving anchors; all 183 quoted events checked against source Markdown, with 176 normalized literal matches and seven page-spanning/list-formatted excerpts manually verified; corrected the GA15 O15 attestation, GA15 O7 excerpt, GA15 O13 direct quotation, and GA15 O10 GA16 adoption locator after PDF/source checks (2026-10-14)"
-    build: "passed: full validating siteBuild -RegenerateOvertures; 10,911 linked HTML files verified, 8,685 search pages indexed, rendered-site validation and 30/30 Node regressions passed (2026-10-14; 5m48s)"
-    preview_reviewed: "verified: all 38 GA15 overture routes returned HTTP 200 with action-heading counts matching event bundles; GA15 O13 direct quote and source range reviewed in preview, and O10 GA16 adoption source link corrected to printed p. 110 (PDF p. 112) (2026-10-14)"
+    roster_reconciled: "verified: 38 distinct GA15 catalogue records match 38 research rows, event bundles, and page-map entries; 249/249 candidate passages reviewed with zero invalid links or orphan reviews. One newly recognized GA15 p. 107 candidate is linked to all 14 distinct overture trails citing the action (2026-10-14)"
+    event_source_audited: "verified: 186 events have unique IDs, continuous per-record sequences, complete printed/PDF locators, and 186/186 resolving anchors; all 183 quoted events checked against source Markdown, with 176 normalized literal matches and seven page-spanning/list-formatted excerpts manually verified; corrected the GA15 O15 attestation, GA15 O7 excerpt, GA15 O13 direct quotation, GA15 O10 GA16 adoption locator, and shared GA15 p. 107 minority-report quote in the source and linked trails (2026-10-14)"
+    build: "passed: full validating siteBuild -RegenerateOvertures; 10,911 linked HTML files verified, 8,685 search pages indexed, rendered-site validation and 30/30 Node regressions passed (2026-10-14; 6m06s)"
+    preview_reviewed: "verified: all 38 GA15 overture routes previously returned HTTP 200 with action-heading counts matching event bundles; updated p. 107 action routes for O27 and O51 validated, and O27 visually reviewed with the corrected minority-report quote (2026-10-14)"
     commit_sha: "4f535bee1"
     pushed: "pushed"
     blocker: ""
