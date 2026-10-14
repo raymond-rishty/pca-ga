@@ -146,12 +146,12 @@
     "blocker": ""
   },
   "17": {
-    "roster_reconciled": "unverified",
-    "event_source_audited": "unverified",
-    "build": "unverified",
-    "preview_reviewed": "unverified",
-    "commit_sha": "",
-    "pushed": "unverified",
+    "roster_reconciled": "verified: 40 distinct GA17 catalogue records match 40 research rows, 40 event bundles, and 40 page-map entries; 188/188 candidate passages reviewed with zero invalid links or orphan reviews (2026-10-14)",
+    "event_source_audited": "verified: 153 events have unique IDs, continuous per-record sequences, and all source anchors resolve; all substantial excerpts match normalized Markdown or were checked against cited PDF page windows where Markdown differed; 188/188 candidate reviews complete (2026-10-14)",
+    "build": "passed: full validating siteBuild -RegenerateOvertures; 10,911 linked HTML files verified, 8,685 search pages indexed, rendered-site validation and 30/30 Node checks passed (2026-10-14; 14m52s)",
+    "preview_reviewed": "verified: all 13 changed GA17 routes returned HTTP 200 with 57 rendered action sections matching source events; GA17 O19 page visually inspected for page-spanning quote, source range, and table tally (2026-10-14)",
+    "commit_sha": "8bf4fb16b",
+    "pushed": "pushed",
     "blocker": ""
   },
   "18": {
