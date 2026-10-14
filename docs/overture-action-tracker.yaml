@@ -11519,7 +11519,7 @@ assemblies:
   -
     ga_ordinal: 23
     assembly: "GA23"
-    status: "in_progress"
+    status: "closed"
     catalogue_records: 24
     records_complete: 24
     records_in_progress: 0
@@ -11536,10 +11536,10 @@ assemblies:
     event_source_audited: "verified: 106 events across 24 records; event IDs unique and sequences continuous; all source anchors resolve across GA23 and cited GA24 minutes; all 106 quoted excerpts match normalized Markdown after removing printed page-number markers (2026-10-14)"
     build: "passed: full validating siteBuild; 10,898 linked HTML files validated, rendered-site validation passed (2026-10-14; GA23 pages included)"
     preview_reviewed: "verified: all 24 GA23 overture pages returned HTTP 200 locally; rendered action-heading counts match the 106 event records; source links and cross-Assembly ratification excerpts resolve (2026-10-14)"
-    commit_sha: ""
-    pushed: "unverified"
-    blocker: "commit_sha unverified; pushed unverified"
-    next_step: "Complete packet closeout: commit_sha, pushed."
+    commit_sha: "1262ee8959d88d04ce8f802f7b4ea01a365924d6"
+    pushed: "pushed"
+    blocker: ""
+    next_step: "No remaining work recorded."
     overtures:
       -
         record_id: "overture:ga23_1995:1:p417"
