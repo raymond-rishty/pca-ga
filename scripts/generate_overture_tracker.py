@@ -19,6 +19,7 @@ GATE_FILE = TRACKER_DIR / "assembly-gates.yaml"
 RECORD_OUT = TRACKER_DIR / "overtures.csv"
 ASSEMBLY_OUT = TRACKER_DIR / "assemblies.csv"
 QUEUE_OUT = TRACKER_DIR / "work-queue.csv"
+INVENTORY_RECONCILIATION = TRACKER_DIR / "inventory-reconciliation.csv"
 TRACKER_OUT = DOCS / "overture-action-tracker.yaml"
 
 
@@ -460,6 +461,25 @@ def main() -> None:
             "next_step": step,
             "follow_up": "",
         })
+    inventory_rows = []
+    if INVENTORY_RECONCILIATION.exists():
+        with INVENTORY_RECONCILIATION.open(encoding="utf-8-sig", newline="") as stream:
+            inventory_rows = list(csv.DictReader(stream))
+    inventory_statuses = Counter(row.get("review_status", "unreviewed") for row in inventory_rows)
+    inventory_unreviewed = inventory_statuses.get("unreviewed", 0)
+    inventory_resolved = len(inventory_rows) - inventory_unreviewed
+    baseline_commit = inventory_rows[0].get("baseline_commit", "") if inventory_rows else ""
+    current_snapshot = inventory_rows[0].get("current_snapshot_commit", "") if inventory_rows else ""
+    current_only = sum(row.get("delta_type") == "current_only" for row in inventory_rows)
+    baseline_only = sum(row.get("delta_type") == "baseline_only" for row in inventory_rows)
+    shared_ids = len(catalogue_ids) - current_only
+    baseline_total = shared_ids + baseline_only
+    resolution_summary = ", ".join(
+        f"{count} {status.replace('_', ' ')}"
+        for status, count in sorted(inventory_statuses.items())
+        if status != "unreviewed"
+    ) or "none"
+
     queue_rows.extend([
         {
             "queue_order": len(queue_rows) + 1,
@@ -469,8 +489,8 @@ def main() -> None:
             "phase": "inventory_reconciliation",
             "records_complete_total": "",
             "candidates_reviewed_total": "",
-            "next_step": f"Reconcile the {len(catalogue_ids)} page-qualified catalogue records against the 1,537-entry action-trail target by source identity; preserve verified distinct proposals and explain the current {len(catalogue_ids) - 1537}-record difference.",
-            "follow_up": "Do not drop records or merge reused numbers to force the count.",
+            "next_step": f"Review {inventory_unreviewed} of {len(inventory_rows)} unresolved identity deltas in inventory-reconciliation.csv against the cited source pages. Classify each as a distinct proposal, locator correction, reprint/duplicate, or locator-only occurrence.",
+            "follow_up": f"Snapshot {baseline_commit} ({baseline_total} IDs) to {current_snapshot} ({len(catalogue_ids)} IDs): {shared_ids} shared, {current_only} current-only, {baseline_only} baseline-only. Reviewed {inventory_resolved}/{len(inventory_rows)} deltas ({resolution_summary}); possible subject matches are leads only. Preserve verified proposals and reused numbers.",
         },
         {
             "queue_order": len(queue_rows) + 2,

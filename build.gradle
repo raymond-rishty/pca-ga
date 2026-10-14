@@ -106,7 +106,8 @@ def generateOvertureTracker = registerCommand(
      file('index/overture_events.jsonl'), file('index/overture_action_candidates.jsonl'),
      file('index/overture_action_candidate_reviews.jsonl'),
      file('index/overture_catalogue_corrections.jsonl'),
-     file('docs/overture-tracker/assembly-gates.yaml')],
+     file('docs/overture-tracker/assembly-gates.yaml'),
+     file('docs/overture-tracker/inventory-reconciliation.csv')],
     [file('docs/overture-action-tracker.yaml'), file('docs/overture-tracker/overtures.csv'),
      file('docs/overture-tracker/assemblies.csv'), file('docs/overture-tracker/work-queue.csv')]
 )

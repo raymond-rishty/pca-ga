@@ -22,6 +22,12 @@ Spreadsheet exports are in this directory:
   GA51 remains excluded by project direction. Within each ordinary priority,
   Assemblies remain in backward order. The generated queue is the source of
   truth for the current next packet and its outstanding work.
+- [`inventory-reconciliation.csv`](inventory-reconciliation.csv): source-page
+  identities present in either the 1,537-record baseline (`db7c8c93c858`) or the
+  current catalogue snapshot (`5ac87b015`), but not both. It lists 207 current-only
+  and 63 baseline-only identities; possible subject matches are leads for review,
+  not automatic merges or exclusions. `review_status` records source-checked
+  outcomes, and the generated work queue reports how many deltas remain open.
 - [`assembly-gates.yaml`](assembly-gates.yaml): human-evidenced packet checks;
   counts, statuses, and next steps are generated from the evidence ledgers.
 
