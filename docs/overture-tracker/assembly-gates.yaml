@@ -272,12 +272,12 @@
     "blocker": ""
   },
   "31": {
-    "roster_reconciled": "unverified",
-    "event_source_audited": "unverified",
-    "build": "unverified",
-    "preview_reviewed": "unverified",
-    "commit_sha": "",
-    "pushed": "unverified",
+    "roster_reconciled": "verified: 28 distinct GA31 catalogue records match 28 research rows, event bundles, and page-map entries; 123/123 candidate passages reviewed with zero invalid links or orphan reviews (2026-10-14)",
+    "event_source_audited": "verified: 121 unique events have continuous per-record sequences; all 121 source anchors and locators resolve, and all long quoted excerpts match the cited Markdown after normalization (2026-10-14)",
+    "build": "passed: full validating siteBuild -RegenerateOvertures; 10,911 linked HTML files verified, 8,685 search pages indexed, rendered-site validation and 30/30 Node checks passed (2026-10-14; 6m04s)",
+    "preview_reviewed": "verified: all 28 GA31 overture routes returned HTTP 200 with 121 action headings and source links (2026-10-14)",
+    "commit_sha": "827b5a2fb",
+    "pushed": "pushed",
     "blocker": ""
   },
   "32": {
