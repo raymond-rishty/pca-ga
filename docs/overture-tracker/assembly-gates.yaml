@@ -317,10 +317,10 @@
     "blocker": ""
   },
   "36": {
-    "roster_reconciled": "unverified",
-    "event_source_audited": "unverified",
-    "build": "unverified",
-    "preview_reviewed": "unverified",
+    "roster_reconciled": "verified: 20 distinct GA36 catalogue records match 20 research rows, event bundles, and page-map entries; 129/129 candidate passages reviewed with zero invalid links or orphan reviews (2026-10-14)",
+    "event_source_audited": "verified: 112 events have unique IDs and continuous per-record sequences; all source anchors and printed/PDF locators resolve, and quoted excerpts match cited GA36 Markdown, including page-spanning excerpts and corrected Overture 7 candidate association (2026-10-14)",
+    "build": "passed: full validating siteBuild -RegenerateOvertures; 10,911 linked HTML files verified, 8,685 search pages indexed, rendered-site validation and 30/30 Node checks passed (2026-10-14; 6m12s)",
+    "preview_reviewed": "verified: all 20 GA36 overture routes returned HTTP 200; O1, O4, O6, and O11 corrected citations, referral, and page-spanning excerpts inspected (2026-10-14)",
     "commit_sha": "",
     "pushed": "unverified",
     "blocker": ""
