@@ -434,10 +434,10 @@
     "blocker": ""
   },
   "49": {
-    "roster_reconciled": "verified: 41 distinct records match research rows, event bundles, and page-map entries; 337/337 candidate passages reviewed with zero invalid record links (2026-10-13)",
+    "roster_reconciled": "verified: 40 distinct GA49 proposals match 40 research rows, event bundles, and page-map entries; 337/337 candidate passages reviewed with zero invalid links after excluding the GA48 O13 attachment (2026-10-14)",
     "event_source_audited": "verified: 230 event source anchors/locators in GA48–GA50 resolve in Markdown; 11 later-volume follow-up events excluded from this pass under project scope (2026-10-13)",
-    "build": "passed: full siteBuild -RegenerateOvertures 2026-10-13",
-    "preview_reviewed": "verified: GA49 O8 page returned HTTP 200; seven chronological action sections and source links rendered (2026-10-13)",
+    "build": "passed: full siteBuild -RegenerateOvertures; 10,910 linked HTML files validated, 8,684 indexed pages, rendered-site validation passed (2026-10-14; 9m43s)",
+    "preview_reviewed": "verified: GA49 O13 canonical page shows the distinct Ascension submission and two GA49 actions; GA48 O13 page shows the GA49 MNA implementation at PDF p. 59 under its originating proposal (2026-10-14)",
     "commit_sha": "3563e7bed",
     "pushed": "pushed",
     "blocker": ""
