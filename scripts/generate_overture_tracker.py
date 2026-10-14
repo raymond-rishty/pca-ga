@@ -465,7 +465,15 @@ def main() -> None:
         with INVENTORY_RECONCILIATION.open(encoding="utf-8-sig", newline="") as stream:
             inventory_rows = list(csv.DictReader(stream))
     inventory_statuses = Counter(row.get("review_status", "unreviewed") for row in inventory_rows)
-    inventory_unreviewed = inventory_statuses.get("unreviewed", 0)
+    resolved_inventory_statuses = {
+        "verified_distinct",
+        "resolved_exclusion",
+        "resolved_locator_correction",
+    }
+    inventory_unreviewed = sum(
+        1 for row in inventory_rows
+        if row.get("review_status", "unreviewed") not in resolved_inventory_statuses
+    )
     inventory_resolved = len(inventory_rows) - inventory_unreviewed
     baseline_commit = inventory_rows[0].get("baseline_commit", "") if inventory_rows else ""
     current_snapshot = inventory_rows[0].get("current_snapshot_commit", "") if inventory_rows else ""
@@ -479,16 +487,23 @@ def main() -> None:
         if status != "unreviewed"
     ) or "none"
 
+    inventory_next_step = (
+        f"Review {inventory_unreviewed} of {len(inventory_rows)} unresolved identity deltas "
+        "in inventory-reconciliation.csv against the cited source pages. Classify each as a "
+        "distinct proposal, locator correction, reprint/duplicate, or locator-only occurrence."
+        if inventory_unreviewed
+        else f"All {len(inventory_rows)} inventory identity deltas are reviewed and classified."
+    )
     queue_rows.extend([
         {
             "queue_order": len(queue_rows) + 1,
             "scope": "project_wide",
             "assembly": "All GAs",
-            "status": "open",
-            "phase": "inventory_reconciliation",
+            "status": "open" if inventory_unreviewed else "closed",
+            "phase": "inventory_reconciliation" if inventory_unreviewed else "done",
             "records_complete_total": "",
             "candidates_reviewed_total": "",
-            "next_step": f"Review {inventory_unreviewed} of {len(inventory_rows)} unresolved identity deltas in inventory-reconciliation.csv against the cited source pages. Classify each as a distinct proposal, locator correction, reprint/duplicate, or locator-only occurrence.",
+            "next_step": inventory_next_step,
             "follow_up": f"Snapshot {baseline_commit} ({baseline_total} IDs) to {current_snapshot} ({len(catalogue_ids)} IDs): {shared_ids} shared, {current_only} current-only, {baseline_only} baseline-only. Reviewed {inventory_resolved}/{len(inventory_rows)} deltas ({resolution_summary}); possible subject matches are leads only. Preserve verified proposals and reused numbers.",
         },
         {
