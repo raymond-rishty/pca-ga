@@ -9854,7 +9854,7 @@ assemblies:
   -
     ga_ordinal: 20
     assembly: "GA20"
-    status: "in_progress"
+    status: "closed"
     catalogue_records: 28
     records_complete: 28
     records_in_progress: 0
@@ -9871,10 +9871,10 @@ assemblies:
     event_source_audited: "verified: 73 events have unique IDs, continuous per-record sequences, and 73/73 resolving anchors; all 72 quoted passages match cited Markdown; GA20 O35 presbytery tally is a structured table verified against GA22 minutes (2026-10-14)"
     build: "passed: full siteBuild via scripts/build-local.ps1; 10,911 rendered HTML files validated and 8,685 indexed (2026-10-14)"
     preview_reviewed: "verified: all 28 GA20 overture routes returned HTTP 200 with action sections and source links; O35 tally renders once as a structured table, O20 attestation and O36 cross-page decision excerpts checked (2026-10-14)"
-    commit_sha: ""
-    pushed: "unverified"
-    blocker: "commit_sha unverified; pushed unverified"
-    next_step: "Complete packet closeout: commit_sha, pushed."
+    commit_sha: "29d9a6956"
+    pushed: "pushed"
+    blocker: ""
+    next_step: "No remaining work recorded."
     overtures:
       -
         record_id: "overture:ga20_1992:1:p100"
@@ -10249,7 +10249,7 @@ assemblies:
         event_count: 2
         last_action_ga: 20
         search_through_assembly: 20
-        gap_note: "The adopted recommendation expressly covers both Overture 38 (Philadelphia) and distinct Overture 25 (Pacific); the current catalogue contains the O38 record but not a separate O25 page."
+        gap_note: "The adopted recommendation covers both distinct overtures through one action; Overture 25 (Pacific) and Overture 38 (Philadelphia) now have separate source-page records and trails."
         anomalies: ""
       -
         record_id: "overture:ga20_1992:39:p78"
