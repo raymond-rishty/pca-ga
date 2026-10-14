@@ -6,8 +6,8 @@
     "event_source_audited": "verified: research and event ledgers synchronized; 65 sourced events; GA1 packet closure note 2026-10-12",
     "build": "passed: full siteBuild 2026-10-12",
     "preview_reviewed": "verified: GA1 action sections and source links; packet closure note 2026-10-12",
-    "commit_sha": "",
-    "pushed": "unverified",
+    "commit_sha": "627f35b51",
+    "pushed": "pushed",
     "blocker": ""
   },
   "2": {

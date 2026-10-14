@@ -4,7 +4,7 @@ assemblies:
   -
     ga_ordinal: 1
     assembly: "GA1"
-    status: "in_progress"
+    status: "closed"
     catalogue_records: 15
     records_complete: 15
     records_in_progress: 0
@@ -21,10 +21,10 @@ assemblies:
     event_source_audited: "verified: research and event ledgers synchronized; 65 sourced events; GA1 packet closure note 2026-10-12"
     build: "passed: full siteBuild 2026-10-12"
     preview_reviewed: "verified: GA1 action sections and source links; packet closure note 2026-10-12"
-    commit_sha: ""
-    pushed: "unverified"
-    blocker: "commit_sha unverified; pushed unverified"
-    next_step: "Complete packet closeout: commit_sha, pushed."
+    commit_sha: "627f35b51"
+    pushed: "pushed"
+    blocker: ""
+    next_step: "No remaining work recorded."
     overtures:
       -
         record_id: "overture:ga01_1973:1:p19"
