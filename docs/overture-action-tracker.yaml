@@ -13894,7 +13894,7 @@ assemblies:
   -
     ga_ordinal: 28
     assembly: "GA28"
-    status: "in_progress"
+    status: "closed"
     catalogue_records: 27
     records_complete: 27
     records_in_progress: 0
@@ -13907,14 +13907,14 @@ assemblies:
     candidates_unreviewed: 0
     candidate_invalid_links: 0
     candidate_reviews_orphaned: 0
-    roster_reconciled: "verified: 27 GA28 records match the catalogue, page map, and research ledger; all 148 candidate passages reviewed with no unresolved links or orphaned reviews"
-    event_source_audited: "verified: 120 events across 27 trails; record IDs, sequences, source anchors, and exact excerpts checked against GA28-GA30 Markdown. GA28 O23 e02 was checked against the PDF image because its Markdown passage is garbled."
-    build: "passed: full validating siteBuild on 2026-10-13 after GA28 source updates (6m04s)"
-    preview_reviewed: "verified: visually reviewed local GA28 O23 page; submitted text is separated from action blocks, excerpt labels are explicit, and source links resolve in the preview."
-    commit_sha: "37a97ad3f493532d58f9d5adeef1294f83611b7a"
-    pushed: "True"
-    blocker: "pushed unverified"
-    next_step: "Complete packet closeout: pushed."
+    roster_reconciled: "verified: 27 distinct GA28 catalogue records match 27 research rows, event bundles, and page-map entries; 148/148 candidate passages reviewed with zero invalid links or orphan reviews (2026-10-14)"
+    event_source_audited: "verified: 120 unique events have continuous per-record sequences; all 128 main/support citation anchors resolve. Split the page-spanning O8 adopted response and O10 CCB opinion into explicit source-linked continuations; GA28 O23 e02 remains checked against the PDF because its Markdown passage is garbled (2026-10-14)"
+    build: "passed: full validating siteBuild -RegenerateOvertures; 10,911 linked HTML files verified, 8,685 search pages indexed, rendered-site validation and 30/30 Node checks passed (2026-10-14; 5m58s)"
+    preview_reviewed: "verified: all 27 GA28 overture routes returned HTTP 200 with 120 action headings; O8 and O10 continuation labels and PDF links inspected (2026-10-14)"
+    commit_sha: "dd00131ac"
+    pushed: "pushed"
+    blocker: ""
+    next_step: "No remaining work recorded."
     overtures:
       -
         record_id: "overture:ga28_2000:1:p300"
