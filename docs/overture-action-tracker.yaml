@@ -16844,7 +16844,7 @@ assemblies:
   -
     ga_ordinal: 35
     assembly: "GA35"
-    status: "in_progress"
+    status: "closed"
     catalogue_records: 20
     records_complete: 20
     records_in_progress: 0
@@ -16857,14 +16857,14 @@ assemblies:
     candidates_unreviewed: 0
     candidate_invalid_links: 0
     candidate_reviews_orphaned: 0
-    roster_reconciled: "unverified"
-    event_source_audited: "unverified"
-    build: "unverified"
-    preview_reviewed: "unverified"
-    commit_sha: ""
-    pushed: "unverified"
-    blocker: "roster_reconciled unverified; event_source_audited unverified; build unverified; preview_reviewed unverified; commit_sha unverified; pushed unverified"
-    next_step: "Complete packet closeout: roster_reconciled, event_source_audited, build, preview_reviewed, commit_sha, pushed."
+    roster_reconciled: "verified: 20 distinct GA35 catalogue records match 20 research rows, event bundles, and page-map entries; 100/100 candidate passages reviewed with zero invalid links or orphan reviews (2026-10-14)"
+    event_source_audited: "verified: 98 unique events have continuous per-record sequences; all 103 main/support excerpt anchors resolve. Split five page-spanning recommendation/amended-text excerpts across GA35 pp. 105-108, 111-112, and 144-145 with direct continuation citations (2026-10-14)"
+    build: "passed: full validating siteBuild -RegenerateOvertures; 10,911 linked HTML files verified, 8,685 search pages indexed, rendered-site validation and 30/30 Node checks passed (2026-10-14; 5m20s)"
+    preview_reviewed: "verified: all 20 GA35 overture routes returned HTTP 200 with 98 action headings; O11, O12, O16, and O19 page-spanning excerpts and continuation links inspected (2026-10-14)"
+    commit_sha: "2a917e721"
+    pushed: "pushed"
+    blocker: ""
+    next_step: "No remaining work recorded."
     overtures:
       -
         record_id: "overture:ga35_2007:1:p149"
