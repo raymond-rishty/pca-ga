@@ -195,8 +195,8 @@
     "event_source_audited": "verified: 200 events across all 46 distinct GA22 records; 197 quoted excerpts match normalized Markdown and 3 vote tables are represented as verified table transcriptions where the Markdown joins labels to values; all 200 source anchors resolve; event IDs and sequences are unique and continuous; 148/148 candidate reviews linked (2026-10-14)",
     "build": "passed: full validating siteBuild; 10,898 linked HTML files validated, rendered-site validation passed (2026-10-14; 15m35s)",
     "preview_reviewed": "verified: all 46 GA22 overture pages returned HTTP 200 locally; rendered action-heading counts match all 200 event records; checked source/excerpt labels, related-record links, vote-table transcriptions, and Overture 32 OCR limitation (2026-10-14)",
-    "commit_sha": "",
-    "pushed": "unverified",
+    "commit_sha": "ea33730910b8657892df965c6c342871c25bd371",
+    "pushed": "pushed",
     "blocker": "GA22 Overture 32 submitted-text transcription contains corrupted OCR; preserve it without reconstruction. This limitation is documented on the record; action excerpts were audited independently."
   },
   "23": {
