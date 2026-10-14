@@ -155,12 +155,12 @@
     "blocker": ""
   },
   "18": {
-    "roster_reconciled": "unverified",
-    "event_source_audited": "unverified",
-    "build": "unverified",
-    "preview_reviewed": "unverified",
-    "commit_sha": "",
-    "pushed": "unverified",
+    "roster_reconciled": "verified: 29 distinct GA18 catalogue records match 29 research rows, event bundles, and page-map entries; 113/113 candidate passages reviewed with zero invalid links or orphan reviews (2026-10-14)",
+    "event_source_audited": "verified: 113 unique events have continuous per-record sequences; all 113 source anchors and printed/PDF locators resolve. All 112 quoted passages match cited Markdown; the one editorial note is clearly labeled (2026-10-14)",
+    "build": "passed: full validating siteBuild -RegenerateOvertures; 10,911 linked HTML files verified, 8,685 search pages indexed, rendered-site validation and 30/30 Node checks passed (2026-10-14; 5m06s)",
+    "preview_reviewed": "verified: all 29 GA18 overture routes returned HTTP 200 with 113 action headings and 142 minutes source links; heading counts match the event records (2026-10-14)",
+    "commit_sha": "08ff6574a12f23f7e7a0add45fa01c02debc6015",
+    "pushed": "pushed",
     "blocker": ""
   },
   "19": {

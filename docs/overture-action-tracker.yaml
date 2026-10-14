@@ -8739,7 +8739,7 @@ assemblies:
   -
     ga_ordinal: 18
     assembly: "GA18"
-    status: "in_progress"
+    status: "closed"
     catalogue_records: 29
     records_complete: 29
     records_in_progress: 0
@@ -8752,14 +8752,14 @@ assemblies:
     candidates_unreviewed: 0
     candidate_invalid_links: 0
     candidate_reviews_orphaned: 0
-    roster_reconciled: "unverified"
-    event_source_audited: "unverified"
-    build: "unverified"
-    preview_reviewed: "unverified"
-    commit_sha: ""
-    pushed: "unverified"
-    blocker: "roster_reconciled unverified; event_source_audited unverified; build unverified; preview_reviewed unverified; commit_sha unverified; pushed unverified"
-    next_step: "Complete packet closeout: roster_reconciled, event_source_audited, build, preview_reviewed, commit_sha, pushed."
+    roster_reconciled: "verified: 29 distinct GA18 catalogue records match 29 research rows, event bundles, and page-map entries; 113/113 candidate passages reviewed with zero invalid links or orphan reviews (2026-10-14)"
+    event_source_audited: "verified: 113 unique events have continuous per-record sequences; all 113 source anchors and printed/PDF locators resolve. All 112 quoted passages match cited Markdown; the one editorial note is clearly labeled (2026-10-14)"
+    build: "passed: full validating siteBuild -RegenerateOvertures; 10,911 linked HTML files verified, 8,685 search pages indexed, rendered-site validation and 30/30 Node checks passed (2026-10-14; 5m06s)"
+    preview_reviewed: "verified: all 29 GA18 overture routes returned HTTP 200 with 113 action headings and 142 minutes source links; heading counts match the event records (2026-10-14)"
+    commit_sha: "08ff6574a12f23f7e7a0add45fa01c02debc6015"
+    pushed: "pushed"
+    blocker: ""
+    next_step: "No remaining work recorded."
     overtures:
       -
         record_id: "overture:ga18_1990:1:p123"
