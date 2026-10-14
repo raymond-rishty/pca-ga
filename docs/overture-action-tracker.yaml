@@ -21609,7 +21609,7 @@ assemblies:
   -
     ga_ordinal: 45
     assembly: "GA45"
-    status: "in_progress"
+    status: "closed"
     catalogue_records: 25
     records_complete: 25
     records_in_progress: 0
@@ -21622,14 +21622,14 @@ assemblies:
     candidates_unreviewed: 0
     candidate_invalid_links: 0
     candidate_reviews_orphaned: 0
-    roster_reconciled: "unverified"
-    event_source_audited: "unverified"
-    build: "unverified"
-    preview_reviewed: "unverified"
-    commit_sha: ""
-    pushed: "unverified"
-    blocker: "roster_reconciled unverified; event_source_audited unverified; build unverified; preview_reviewed unverified; commit_sha unverified; pushed unverified"
-    next_step: "Complete packet closeout: roster_reconciled, event_source_audited, build, preview_reviewed, commit_sha, pushed."
+    roster_reconciled: "verified: 25 distinct GA45 source records match 25 research rows, event bundles, and page-map entries; 176/176 candidate passages reviewed with zero invalid record links or orphan reviews (2026-10-14)"
+    event_source_audited: "verified: 84 events have unique IDs, continuous per-record sequences, and 84/84 resolving source anchors; all 83 quoted events match GA45 Markdown after removing Markdown formatting and printed folio markers; five excerpts and one OCR hyphen corrected against the minutes (2026-10-14)"
+    build: "passed: full validating siteBuild -RegenerateOvertures; 10,911 linked HTML files verified, 8,685 search pages indexed, rendered-site validation and 30/30 Node checks passed (2026-10-14; 6m27s)"
+    preview_reviewed: "verified: GA45 O2, O7, O18, O21, and O22 pages returned HTTP 200 with action sections and source links; corrected excerpts inspected in preview (2026-10-14)"
+    commit_sha: "b43144758680264a6cbfc96f61beabe6a3a3c1f2"
+    pushed: "pushed"
+    blocker: ""
+    next_step: "No remaining work recorded."
     overtures:
       -
         record_id: "overture:ga45_2017:1:p647"
