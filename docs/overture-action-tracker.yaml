@@ -25563,12 +25563,12 @@ assemblies:
     candidate_invalid_links: 0
     candidate_reviews_orphaned: 0
     roster_reconciled: "verified: 50 distinct GA52 source records match 50 research rows, event bundles, and page-map entries; 569/569 candidates reviewed with zero invalid links or orphan reviews (2026-10-13)"
-    event_source_audited: "unverified"
+    event_source_audited: "verified: 318 events across 50 GA52 records have unique IDs, continuous sequences, complete printed/PDF locators, and 318/318 resolving Markdown anchors; all 315 excerpts now match contiguous cited Markdown text, including 11 passages spanning pages (2026-10-13)"
     build: "passed: full siteBuild -RegenerateOvertures; 10,898 linked HTML files validated (2026-10-13)"
-    preview_reviewed: "verified: GA52 O43 action trail displays originating Presbytery adoption, CCB referral/advice, committee actions, and Assembly votes with source links (2026-10-13)"
+    preview_reviewed: "verified: GA52 O27 action trail displays originating Presbytery adoption, committee advice, recommendation, and Assembly vote with source links; page-spanning RUF excerpt displays with corrected word spacing checked against PDF p. 483 (2026-10-13)"
     commit_sha: "c06f3d7c44a94a91c3f846f4562ad9cbd44f44e6"
     pushed: "pushed"
-    blocker: "19 records in progress; event_source_audited unverified; 49 of 315 GA52 events marked as excerpts do not exactly match the Markdown action text; reconcile excerpt transcription before source-audit closure. 19 overture records remain in progress because follow-up is outside available GA52 minutes."
+    blocker: "19 records in progress; 19 records remain in progress because their later action or final ratification falls beyond the GA52 minutes currently in the repository."
     next_step: ""
     overtures:
       -
