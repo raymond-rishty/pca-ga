@@ -335,12 +335,12 @@
     "blocker": ""
   },
   "38": {
-    "roster_reconciled": "unverified",
-    "event_source_audited": "unverified",
-    "build": "unverified",
-    "preview_reviewed": "unverified",
-    "commit_sha": "",
-    "pushed": "unverified",
+    "roster_reconciled": "verified: 27 distinct GA38 records match 27 research rows, event bundles, and page-map entries; 154/154 candidate passages reviewed with no invalid links or orphan reviews (2026-10-14)",
+    "event_source_audited": "verified: 140 events have unique IDs and continuous per-record sequences; all 140 source anchors resolve and all 132 quoted excerpts match the source Markdown after accounting for formatting, page folios, and explicit omissions (2026-10-14)",
+    "build": "passed: full validating siteBuild -RegenerateOvertures; 10,911 linked HTML files verified, 8,685 search pages indexed, rendered-site validation and 30/30 Node checks passed (2026-10-14; 6m05s)",
+    "preview_reviewed": "verified: GA38 O1, O3, O10, O12, O14, and O25 pages returned HTTP 200 with action sections and source links; corrected excerpts inspected in preview (2026-10-14)",
+    "commit_sha": "69c95bed5",
+    "pushed": "pushed",
     "blocker": ""
   },
   "39": {
