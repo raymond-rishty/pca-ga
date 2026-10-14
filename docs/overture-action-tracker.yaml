@@ -254,7 +254,7 @@ assemblies:
   -
     ga_ordinal: 2
     assembly: "GA2"
-    status: "in_progress"
+    status: "closed"
     catalogue_records: 13
     records_complete: 13
     records_in_progress: 0
@@ -271,10 +271,10 @@ assemblies:
     event_source_audited: "verified: 44 complete trails; record-to-bundle, anchor, quote, sequence, and event-ID audit passed"
     build: "passed: siteBuild -RegenerateOvertures 2026-10-12"
     preview_reviewed: "verified: GA2 O12 sections and direct PDF links; packet closure note 2026-10-12"
-    commit_sha: ""
-    pushed: "unverified"
-    blocker: "commit_sha unverified; pushed unverified"
-    next_step: "Complete packet closeout: commit_sha, pushed."
+    commit_sha: "627f35b51"
+    pushed: "pushed"
+    blocker: ""
+    next_step: "No remaining work recorded."
     overtures:
       -
         record_id: "overture:ga02_1974:1:p25"
