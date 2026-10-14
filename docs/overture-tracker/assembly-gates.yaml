@@ -290,12 +290,12 @@
     "blocker": ""
   },
   "33": {
-    "roster_reconciled": "unverified",
-    "event_source_audited": "unverified",
-    "build": "unverified",
-    "preview_reviewed": "unverified",
-    "commit_sha": "",
-    "pushed": "unverified",
+    "roster_reconciled": "verified: 15 distinct GA33 catalogue records match 15 research rows, event bundles, and page-map entries; 63/63 candidate passages reviewed with zero invalid links or orphan reviews (2026-10-14)",
+    "event_source_audited": "verified: 64 unique events have continuous per-record sequences; all 66 main/support excerpt anchors resolve, including newly split GA33 O14 and GA34 communication continuation excerpts linked to GA33 O2 (2026-10-14)",
+    "build": "passed: full validating siteBuild -RegenerateOvertures; 10,911 linked HTML files verified, 8,685 search pages indexed, rendered-site validation and 30/30 Node checks passed (2026-10-14; 6m04s)",
+    "preview_reviewed": "verified: all 15 GA33 overture routes returned HTTP 200 with 64 action headings; O14 debate and O2 ratification continuations inspected (2026-10-14)",
+    "commit_sha": "039a2a18f",
+    "pushed": "pushed",
     "blocker": ""
   },
   "34": {
