@@ -29,7 +29,7 @@
 28,assembly_packet,GA23,closed,done,24/24,126/126,No remaining work recorded.,
 29,assembly_packet,GA22,closed,done,46/46,148/148,No remaining work recorded.,
 30,assembly_packet,GA21,closed,done,45/45,147/147,No remaining work recorded.,
-31,assembly_packet,GA20,in_progress,packet_closeout,15/15,134/134,"Complete packet closeout: roster_reconciled, event_source_audited, build, preview_reviewed, commit_sha, pushed.",
+31,assembly_packet,GA20,in_progress,packet_closeout,28/28,134/134,"Complete packet closeout: commit_sha, pushed.",
 32,assembly_packet,GA19,in_progress,packet_closeout,42/42,163/163,"Complete packet closeout: roster_reconciled, event_source_audited, build, preview_reviewed, commit_sha, pushed.",
 33,assembly_packet,GA18,in_progress,packet_closeout,29/29,113/113,"Complete packet closeout: roster_reconciled, event_source_audited, build, preview_reviewed, commit_sha, pushed.",
 34,assembly_packet,GA17,in_progress,packet_closeout,40/40,188/188,"Complete packet closeout: roster_reconciled, event_source_audited, build, preview_reviewed, commit_sha, pushed.",
@@ -49,5 +49,5 @@
 48,assembly_packet,GA3,in_progress,packet_closeout,19/19,48/48,"Complete packet closeout: commit_sha, pushed.",
 49,assembly_packet,GA2,in_progress,packet_closeout,13/13,36/36,"Complete packet closeout: commit_sha, pushed.",
 50,assembly_packet,GA1,in_progress,packet_closeout,15/15,23/23,"Complete packet closeout: commit_sha, pushed.",
-51,project_wide,All GAs,open,inventory_reconciliation,,,"Reconcile the 1668 page-qualified catalogue records against the 1,537-entry action-trail target by source identity; preserve verified distinct proposals and explain the current 131-record difference.",Do not drop records or merge reused numbers to force the count.
+51,project_wide,All GAs,open,inventory_reconciliation,,,"Reconcile the 1681 page-qualified catalogue records against the 1,537-entry action-trail target by source identity; preserve verified distinct proposals and explain the current 144-record difference.",Do not drop records or merge reused numbers to force the count.
 52,project_wide,All GAs,open,completion_audit,,,"Audit every in-scope distinct record, source quote, page anchor, chronological order, and rendered page; run the full validating site build after the last Assembly packet.","Active work window: GA1-GA50, excluding GA51. Resume GA52 and later when their minutes are available."

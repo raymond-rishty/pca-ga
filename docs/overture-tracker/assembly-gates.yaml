@@ -173,13 +173,13 @@
     "blocker": ""
   },
   "20": {
-    "roster_reconciled": "unverified",
-    "event_source_audited": "unverified",
-    "build": "unverified",
-    "preview_reviewed": "unverified",
+    "roster_reconciled": "verified: 28 distinct page-qualified GA20 records match 28 research rows, event bundles, and page-map entries; 28/28 complete and 134/134 candidate passages reviewed with zero invalid links or orphan reviews (2026-10-14)",
+    "event_source_audited": "verified: 73 events have unique IDs, continuous per-record sequences, and 73/73 resolving anchors; all 72 quoted passages match cited Markdown; GA20 O35 presbytery tally is a structured table verified against GA22 minutes (2026-10-14)",
+    "build": "passed: full siteBuild via scripts/build-local.ps1; 10,911 rendered HTML files validated and 8,685 indexed (2026-10-14)",
+    "preview_reviewed": "verified: all 28 GA20 overture routes returned HTTP 200 with action sections and source links; O35 tally renders once as a structured table, O20 attestation and O36 cross-page decision excerpts checked (2026-10-14)",
     "commit_sha": "",
     "pushed": "unverified",
-    "blocker": "GA20 roster reconciliation found direct source/action passages for distinct Overtures 1, 9, 10, 13, 14, 15, 16, 17, 19, 21, 25, 26, and 28 without page-qualified GA20 records. Reconcile each to its originating source identity and determine whether it is a distinct in-scope catalogue record before closing the packet."
+    "blocker": ""
   },
   "21": {
     "roster_reconciled": "verified: 45 distinct page-qualified GA21 records reconcile to the catalogue, research rows, and event bundles; all 45 records complete and 147/147 candidate reviews recorded with zero invalid links or orphan reviews (2026-10-14)",

@@ -1455,15 +1455,28 @@ Every overture recorded across all General Assemblies, grouped by Assembly. Page
 
 |---:|---|---|---|---|
 
+| [1](../overtures/ga20_1992__o1.md) | Amend BCO 20-1 to Clarify Presbyterial Approval of Pastoral Call Amendments | Answered in the negative | OVERTURE 1 From Presbytery of Southern Florida | [p.100](../markdown/ga20_1992.md#ga20-p100) |
 | [3](../overtures/ga20_1992__o3.md) | Place Committees of Commissioners on Two-Year Terms | Answered in the negative | OVERTURE 3 From Missouri Presbytery | [p.101](../markdown/ga20_1992.md#ga20-p101) |
 | [4](../overtures/ga20_1992__o4.md) | Amend RAO 9-3 to Require Sermons in Daily Worship at General Assembly |  | New Jersey Presbytery "Worship Services at General Assembly" Whereas, each morning session | [p.133](../markdown/ga20_1992.md#ga20-p133) |
 | [7](../overtures/ga20_1992__o7.md) | Amend BCO 43-2 and 43-3 to Begin Complaint Period at Minutes Approval |  | Northeast Presbytery "Amend BCO 43-2 and 43-3" | [p.103](../markdown/ga20_1992.md#ga20-p103) |
+| [9](../overtures/ga20_1992__o9.md) | Divide Korean Southeastern Presbytery into Two | Adopted (final) | OVERTURE 9 From Korean Southeastern Presbytery | [p.74](../markdown/ga20_1992.md#ga20-p74) |
+| [10](../overtures/ga20_1992__o10.md) | Continue the Existence of Korean Language Presbyteries | Adopted (final) | OVERTURE 10 From Korean Southeastern Presbytery (to MNA) | [p.73](../markdown/ga20_1992.md#ga20-p73) |
 | [12](../overtures/ga20_1992__o12.md) | Continue Korean Language Presbyteries |  | Korean Southern Presbytery "Continue Korean Language Presbyteries" (same as Overture 10) A | [p.73](../markdown/ga20_1992.md#ga20-p73) |
+| [13](../overtures/ga20_1992__o13.md) | Divide Louisiana Presbytery to Form Southeast Louisiana Presbytery | Adopted (final) | OVERTURE 13 From Louisiana Presbytery | [p.75](../markdown/ga20_1992.md#ga20-p75) |
+| [14](../overtures/ga20_1992__o14.md) | Amend SJC Manual 7.3(c) Regarding Convener Pre-Hearing Reconciliation | Answered in the negative | OVERTURE 14 From Potomac Presbytery | [p.106](../markdown/ga20_1992.md#ga20-p106) |
+| [15](../overtures/ga20_1992__o15.md) | Amend BCO 32-2 and 32-3 to Clarify Charges and Trial Procedures | Declared unconstitutional; recommendation not before the Assembly for action | OVERTURE 15 From Presbytery of Southern Florida | [p.108](../markdown/ga20_1992.md#ga20-p108) |
+| [16](../overtures/ga20_1992__o16.md) | Amend BCO 43-3 to Clarify Court's Duty to Act on Complaints | Answered in the negative | OVERTURE 16 From Presbytery of New River | [p.109](../markdown/ga20_1992.md#ga20-p109) |
+| [17](../overtures/ga20_1992__o17.md) | Require Annual IRC Reporting on the Work of the NAE | Adopted (final) | OVERTURE 17 From Heritage Presbytery (to IRC) | [p.68](../markdown/ga20_1992.md#ga20-p68) |
 | [18](../overtures/ga20_1992__o18.md) | Continue Korean Language Presbyteries |  | the Korean Eastern Presbytery "Continue Korean Language Presbyteries" (same as Overture 10 | [p.74](../markdown/ga20_1992.md#ga20-p74) |
+| [19](../overtures/ga20_1992__o19.md) | Continue Korean Language Presbyteries | Adopted (final) | OVERTURE 19 From the Korean Central Presbytery | [p.74](../markdown/ga20_1992.md#ga20-p74) |
 | [20](../overtures/ga20_1992__o20.md) | Continue Korean Language Presbyteries | Continued for five-year periods; GA22 later answered a related overture by reference to this action | the Korean Southwestern Presbytery "Continue Korean Language Presbyteries" (same as Overture 10) | [p.74](../markdown/ga20_1992.md#ga20-p74) |
+| [21](../overtures/ga20_1992__o21.md) | Instruct Administrative Committee to Appoint a Committee to Revise the RAO | Answered in the negative | OVERTURE 21 From Grace Presbytery | [p.110](../markdown/ga20_1992.md#ga20-p110) |
 | [23](../overtures/ga20_1992__o23.md) | Amend BCO 16-3 to Require Recorded Grounds When Denying Ordination Exam |  | New River Presbytery | [p.112](../markdown/ga20_1992.md#ga20-p112) |
 | [24](../overtures/ga20_1992__o24.md) | Divide the Presbytery of the Ascension into Two Presbyteries |  | the Presbytery of the Ascension "Divide Ascension Presbytery into Two" | [p.76](../markdown/ga20_1992.md#ga20-p76) |
+| [25](../overtures/ga20_1992__o25.md) | Reaffirm the Gospel Call to Evangelize Jewish People | Adopted (final) | OVERTURE 25 From Pacific Presbytery | [p.113](../markdown/ga20_1992.md#ga20-p113) |
+| [26](../overtures/ga20_1992__o26.md) | Divide Korean Southwest Presbytery into Two Presbyteries | Adopted (final) | OVERTURE 26 From Korean Southwest Presbytery | [p.77](../markdown/ga20_1992.md#ga20-p77) |
 | [27](../overtures/ga20_1992__o27.md) | Make Participation in the PCA Health Plan Mandatory | Answered in the negative | OVERTURE 27 From the Central Georgia Presbytery | [p.95](../markdown/ga20_1992.md#ga20-p95) |
+| [28](../overtures/ga20_1992__o28.md) | Direct Administrative Committee to Study Clergy Burnout and Stress | Answered in the negative | OVERTURE 28 From Central Georgia Presbytery | [p.114](../markdown/ga20_1992.md#ga20-p114) |
 | [35](../overtures/ga20_1992__o35.md) | Amend BCO 37-4 to Apply Restoration Process to Presbyteries |  | OVERTURE 35 From Delmarva Presbytery | [p.120](../markdown/ga20_1992.md#ga20-p120) |
 | [36](../overtures/ga20_1992__o36.md) | Require IAR to Produce Legal Opinions and Appoint Interim Board |  | OVERTURE 36 From Central Carolina Presbytery | [p.96](../markdown/ga20_1992.md#ga20-p96) |
 | [38](../overtures/ga20_1992__o38.md) | Affirm Commitment to Evangelize Jewish People |  | Philadelphia Presbytery "Regarding Evangelism of Jewish People" (same as Overture 25) | [p.114](../markdown/ga20_1992.md#ga20-p114) |

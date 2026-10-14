@@ -9855,8 +9855,8 @@ assemblies:
     ga_ordinal: 20
     assembly: "GA20"
     status: "in_progress"
-    catalogue_records: 15
-    records_complete: 15
+    catalogue_records: 28
+    records_complete: 28
     records_in_progress: 0
     records_not_researched: 0
     records_source_unavailable: 0
@@ -9867,15 +9867,30 @@ assemblies:
     candidates_unreviewed: 0
     candidate_invalid_links: 0
     candidate_reviews_orphaned: 0
-    roster_reconciled: "unverified"
-    event_source_audited: "unverified"
-    build: "unverified"
-    preview_reviewed: "unverified"
+    roster_reconciled: "verified: 28 distinct page-qualified GA20 records match 28 research rows, event bundles, and page-map entries; 28/28 complete and 134/134 candidate passages reviewed with zero invalid links or orphan reviews (2026-10-14)"
+    event_source_audited: "verified: 73 events have unique IDs, continuous per-record sequences, and 73/73 resolving anchors; all 72 quoted passages match cited Markdown; GA20 O35 presbytery tally is a structured table verified against GA22 minutes (2026-10-14)"
+    build: "passed: full siteBuild via scripts/build-local.ps1; 10,911 rendered HTML files validated and 8,685 indexed (2026-10-14)"
+    preview_reviewed: "verified: all 28 GA20 overture routes returned HTTP 200 with action sections and source links; O35 tally renders once as a structured table, O20 attestation and O36 cross-page decision excerpts checked (2026-10-14)"
     commit_sha: ""
     pushed: "unverified"
-    blocker: "roster_reconciled unverified; event_source_audited unverified; build unverified; preview_reviewed unverified; commit_sha unverified; pushed unverified; GA20 roster reconciliation found direct source/action passages for distinct Overtures 1, 9, 10, 13, 14, 15, 16, 17, 19, 21, 25, 26, and 28 without page-qualified GA20 records. Reconcile each to its originating source identity and determine whether it is a distinct in-scope catalogue record before closing the packet."
-    next_step: "Complete packet closeout: roster_reconciled, event_source_audited, build, preview_reviewed, commit_sha, pushed."
+    blocker: "commit_sha unverified; pushed unverified"
+    next_step: "Complete packet closeout: commit_sha, pushed."
     overtures:
+      -
+        record_id: "overture:ga20_1992:1:p100"
+        number: 1
+        source_page: 100
+        source: "OVERTURE 1 From Presbytery of Southern Florida"
+        title: "Amend BCO 20-1 to Clarify Presbyterial Approval of Pastoral Call Amendments"
+        page: "overtures/ga20_1992__o1.md"
+        research_status: "complete"
+        next_step: "No overture-level research remains; packet audits and closeout are tracked at GA level."
+        disposition: "Answered in the negative"
+        event_count: 2
+        last_action_ga: 20
+        search_through_assembly: 20
+        gap_note: ""
+        anomalies: ""
       -
         record_id: "overture:ga20_1992:3:p101"
         number: 3
@@ -9922,6 +9937,36 @@ assemblies:
         gap_note: "The CCB finding and GA20 plenary ruling explain why the negative-answer recommendation received no Assembly vote. No later action was located in GA21–GA52."
         anomalies: ""
       -
+        record_id: "overture:ga20_1992:9:p74"
+        number: 9
+        source_page: 74
+        source: "OVERTURE 9 From Korean Southeastern Presbytery"
+        title: "Divide Korean Southeastern Presbytery into Two"
+        page: "overtures/ga20_1992__o9.md"
+        research_status: "complete"
+        next_step: "No overture-level research remains; packet audits and closeout are tracked at GA level."
+        disposition: "Adopted (final)"
+        event_count: 1
+        last_action_ga: 20
+        search_through_assembly: 20
+        gap_note: ""
+        anomalies: ""
+      -
+        record_id: "overture:ga20_1992:10:p73"
+        number: 10
+        source_page: 73
+        source: "OVERTURE 10 From Korean Southeastern Presbytery (to MNA)"
+        title: "Continue the Existence of Korean Language Presbyteries"
+        page: "overtures/ga20_1992__o10.md"
+        research_status: "complete"
+        next_step: "No overture-level research remains; packet audits and closeout are tracked at GA level."
+        disposition: "Adopted (final)"
+        event_count: 2
+        last_action_ga: 20
+        search_through_assembly: 20
+        gap_note: ""
+        anomalies: ""
+      -
         record_id: "overture:ga20_1992:12:p73"
         number: 12
         source_page: 73
@@ -9932,8 +9977,83 @@ assemblies:
         next_step: "No overture-level research remains; packet audits and closeout are tracked at GA level."
         disposition: ""
         event_count: 3
-        last_action_ga: 22
+        last_action_ga: 20
         search_through_assembly: 22
+        gap_note: ""
+        anomalies: ""
+      -
+        record_id: "overture:ga20_1992:13:p75"
+        number: 13
+        source_page: 75
+        source: "OVERTURE 13 From Louisiana Presbytery"
+        title: "Divide Louisiana Presbytery to Form Southeast Louisiana Presbytery"
+        page: "overtures/ga20_1992__o13.md"
+        research_status: "complete"
+        next_step: "No overture-level research remains; packet audits and closeout are tracked at GA level."
+        disposition: "Adopted (final)"
+        event_count: 3
+        last_action_ga: 20
+        search_through_assembly: 20
+        gap_note: ""
+        anomalies: ""
+      -
+        record_id: "overture:ga20_1992:14:p106"
+        number: 14
+        source_page: 106
+        source: "OVERTURE 14 From Potomac Presbytery"
+        title: "Amend SJC Manual 7.3(c) Regarding Convener Pre-Hearing Reconciliation"
+        page: "overtures/ga20_1992__o14.md"
+        research_status: "complete"
+        next_step: "No overture-level research remains; packet audits and closeout are tracked at GA level."
+        disposition: "Answered in the negative"
+        event_count: 3
+        last_action_ga: 20
+        search_through_assembly: 20
+        gap_note: ""
+        anomalies: ""
+      -
+        record_id: "overture:ga20_1992:15:p108"
+        number: 15
+        source_page: 108
+        source: "OVERTURE 15 From Presbytery of Southern Florida"
+        title: "Amend BCO 32-2 and 32-3 to Clarify Charges and Trial Procedures"
+        page: "overtures/ga20_1992__o15.md"
+        research_status: "complete"
+        next_step: "No overture-level research remains; packet audits and closeout are tracked at GA level."
+        disposition: "Declared unconstitutional; recommendation not before the Assembly for action"
+        event_count: 3
+        last_action_ga: 20
+        search_through_assembly: 20
+        gap_note: ""
+        anomalies: ""
+      -
+        record_id: "overture:ga20_1992:16:p109"
+        number: 16
+        source_page: 109
+        source: "OVERTURE 16 From Presbytery of New River"
+        title: "Amend BCO 43-3 to Clarify Court's Duty to Act on Complaints"
+        page: "overtures/ga20_1992__o16.md"
+        research_status: "complete"
+        next_step: "No overture-level research remains; packet audits and closeout are tracked at GA level."
+        disposition: "Answered in the negative"
+        event_count: 2
+        last_action_ga: 20
+        search_through_assembly: 20
+        gap_note: ""
+        anomalies: ""
+      -
+        record_id: "overture:ga20_1992:17:p68"
+        number: 17
+        source_page: 68
+        source: "OVERTURE 17 From Heritage Presbytery (to IRC)"
+        title: "Require Annual IRC Reporting on the Work of the NAE"
+        page: "overtures/ga20_1992__o17.md"
+        research_status: "complete"
+        next_step: "No overture-level research remains; packet audits and closeout are tracked at GA level."
+        disposition: "Adopted (final)"
+        event_count: 2
+        last_action_ga: 20
+        search_through_assembly: 20
         gap_note: ""
         anomalies: ""
       -
@@ -9947,8 +10067,23 @@ assemblies:
         next_step: "No overture-level research remains; packet audits and closeout are tracked at GA level."
         disposition: ""
         event_count: 3
-        last_action_ga: 22
+        last_action_ga: 20
         search_through_assembly: 22
+        gap_note: ""
+        anomalies: ""
+      -
+        record_id: "overture:ga20_1992:19:p74"
+        number: 19
+        source_page: 74
+        source: "OVERTURE 19 From the Korean Central Presbytery"
+        title: "Continue Korean Language Presbyteries"
+        page: "overtures/ga20_1992__o19.md"
+        research_status: "complete"
+        next_step: "No overture-level research remains; packet audits and closeout are tracked at GA level."
+        disposition: "Adopted (final)"
+        event_count: 3
+        last_action_ga: 20
+        search_through_assembly: 20
         gap_note: ""
         anomalies: ""
       -
@@ -9962,8 +10097,23 @@ assemblies:
         next_step: "No overture-level research remains; packet audits and closeout are tracked at GA level."
         disposition: "Continued for five-year periods; GA22 later answered a related overture by reference to this action"
         event_count: 3
-        last_action_ga: 22
+        last_action_ga: 20
         search_through_assembly: 22
+        gap_note: ""
+        anomalies: ""
+      -
+        record_id: "overture:ga20_1992:21:p110"
+        number: 21
+        source_page: 110
+        source: "OVERTURE 21 From Grace Presbytery"
+        title: "Instruct Administrative Committee to Appoint a Committee to Revise the RAO"
+        page: "overtures/ga20_1992__o21.md"
+        research_status: "complete"
+        next_step: "No overture-level research remains; packet audits and closeout are tracked at GA level."
+        disposition: "Answered in the negative"
+        event_count: 2
+        last_action_ga: 20
+        search_through_assembly: 20
         gap_note: ""
         anomalies: ""
       -
@@ -9997,12 +10147,57 @@ assemblies:
         gap_note: ""
         anomalies: ""
       -
+        record_id: "overture:ga20_1992:25:p113"
+        number: 25
+        source_page: 113
+        source: "OVERTURE 25 From Pacific Presbytery"
+        title: "Reaffirm the Gospel Call to Evangelize Jewish People"
+        page: "overtures/ga20_1992__o25.md"
+        research_status: "complete"
+        next_step: "No overture-level research remains; packet audits and closeout are tracked at GA level."
+        disposition: "Adopted (final)"
+        event_count: 2
+        last_action_ga: 20
+        search_through_assembly: 20
+        gap_note: ""
+        anomalies: ""
+      -
+        record_id: "overture:ga20_1992:26:p77"
+        number: 26
+        source_page: 77
+        source: "OVERTURE 26 From Korean Southwest Presbytery"
+        title: "Divide Korean Southwest Presbytery into Two Presbyteries"
+        page: "overtures/ga20_1992__o26.md"
+        research_status: "complete"
+        next_step: "No overture-level research remains; packet audits and closeout are tracked at GA level."
+        disposition: "Adopted (final)"
+        event_count: 2
+        last_action_ga: 20
+        search_through_assembly: 20
+        gap_note: ""
+        anomalies: ""
+      -
         record_id: "overture:ga20_1992:27:p95"
         number: 27
         source_page: 95
         source: "OVERTURE 27 From the Central Georgia Presbytery"
         title: "Make Participation in the PCA Health Plan Mandatory"
         page: "overtures/ga20_1992__o27.md"
+        research_status: "complete"
+        next_step: "No overture-level research remains; packet audits and closeout are tracked at GA level."
+        disposition: "Answered in the negative"
+        event_count: 2
+        last_action_ga: 20
+        search_through_assembly: 20
+        gap_note: ""
+        anomalies: ""
+      -
+        record_id: "overture:ga20_1992:28:p114"
+        number: 28
+        source_page: 114
+        source: "OVERTURE 28 From Central Georgia Presbytery"
+        title: "Direct Administrative Committee to Study Clergy Burnout and Stress"
+        page: "overtures/ga20_1992__o28.md"
         research_status: "complete"
         next_step: "No overture-level research remains; packet audits and closeout are tracked at GA level."
         disposition: "Answered in the negative"
@@ -10021,7 +10216,7 @@ assemblies:
         research_status: "complete"
         next_step: "No overture-level research remains; packet audits and closeout are tracked at GA level."
         disposition: ""
-        event_count: 4
+        event_count: 5
         last_action_ga: 22
         search_through_assembly: 22
         gap_note: "The GA20 proposal to edit BCO 37-4 was not adopted in that form. GA20 referred the matter for redrafting; GA21 adopted a replacement new BCO 37-9."

@@ -9,6 +9,7 @@
 | 2001 | Overture | explicit_citation | direct_text | high | [Amend BCO 32-3 Regarding Sequence of Meetings in Judicial Process](../markdown/ga29_2001.md#ga29-p208) | Approved & ratified (2002) |
 | 1996 | Overture | explicit_citation | direct_text | high | [Amend BCO 46-5, 38-2 & 38-3 on Member Roll Removal & Discipline](../markdown/ga24_1996.md#ga24-p298) |  |
 | 1996 | Overture | explicit_citation | direct_text | high | [Delete BCO 46-5 and Amend BCO 38 and 46-2 on Church Membership](../markdown/ga24_1996.md#ga24-p297) |  |
+| 1992 | Overture | explicit_citation | direct_text | high | [Amend BCO 32-2 and 32-3 to Clarify Charges and Trial Procedures](../markdown/ga20_1992.md#ga20-p108) | Declared unconstitutional; recommendation not before the Assembly for action |
 
 ---
 *[← Authority Index](../index/AUTHORITY-BY-PROVISION.md)*
