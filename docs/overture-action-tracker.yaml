@@ -22009,7 +22009,7 @@ assemblies:
   -
     ga_ordinal: 46
     assembly: "GA46"
-    status: "in_progress"
+    status: "closed"
     catalogue_records: 39
     records_complete: 39
     records_in_progress: 0
@@ -22022,14 +22022,14 @@ assemblies:
     candidates_unreviewed: 0
     candidate_invalid_links: 0
     candidate_reviews_orphaned: 0
-    roster_reconciled: "unverified"
-    event_source_audited: "unverified"
-    build: "unverified"
-    preview_reviewed: "unverified"
-    commit_sha: ""
-    pushed: "unverified"
-    blocker: "roster_reconciled unverified; event_source_audited unverified; build unverified; preview_reviewed unverified; commit_sha unverified; pushed unverified"
-    next_step: "Complete packet closeout: roster_reconciled, event_source_audited, build, preview_reviewed, commit_sha, pushed."
+    roster_reconciled: "verified: 39 distinct GA46 source records match 39 research rows, event bundles, and page-map entries; 217/217 candidate passages reviewed with zero invalid record links or orphan reviews (2026-10-14)"
+    event_source_audited: "verified: 119 events have unique IDs, continuous per-record sequences, and 119/119 resolving source anchors; all 117 quoted events match GA46 Markdown after removing Markdown formatting and printed folio markers; GA46 O21 page-reference punctuation corrected to match the minutes (2026-10-14)"
+    build: "passed: full validating siteBuild -RegenerateOvertures; 10,911 linked HTML files verified, 8,685 search pages indexed, rendered-site validation and 30/30 Node checks passed (2026-10-14; 6m47s)"
+    preview_reviewed: "verified: GA46 O1, O21, O24, O33, and O34 pages returned HTTP 200 with action sections and source links; O21 corrected locator and shared O33/O34 action inspected (2026-10-14)"
+    commit_sha: "2b619d66effaa9b1e29b6f915242fabae6e83d65"
+    pushed: "pushed"
+    blocker: ""
+    next_step: "No remaining work recorded."
     overtures:
       -
         record_id: "overture:ga46_2018:1:p671"
