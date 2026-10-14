@@ -182,10 +182,10 @@
     "blocker": "GA20 roster reconciliation found direct source/action passages for distinct Overtures 1, 9, 10, 13, 14, 15, 16, 17, 19, 21, 25, 26, and 28 without page-qualified GA20 records. Reconcile each to its originating source identity and determine whether it is a distinct in-scope catalogue record before closing the packet."
   },
   "21": {
-    "roster_reconciled": "unverified",
-    "event_source_audited": "unverified",
-    "build": "unverified",
-    "preview_reviewed": "unverified",
+    "roster_reconciled": "verified: 45 distinct page-qualified GA21 records reconcile to the catalogue, research rows, and event bundles; all 45 records complete and 147/147 candidate reviews recorded with zero invalid links or orphan reviews (2026-10-14)",
+    "event_source_audited": "verified: 212 events across 45 records; event IDs unique and sequences continuous; all source anchors resolve across GA21 and cited GA22-GA24 minutes; 205 quoted excerpts match normalized Markdown, with 5 minutes tables and 2 paraphrases explicitly verified (2026-10-14)",
+    "build": "passed: full validating siteBuild; 10,898 linked HTML files validated, rendered-site validation passed (2026-10-14; GA21 pages included)",
+    "preview_reviewed": "verified: all 45 GA21 overture pages returned HTTP 200 locally; rendered action-heading counts match the 212 event records; source links and cross-Assembly ratification excerpts resolve (2026-10-14)",
     "commit_sha": "",
     "pushed": "unverified",
     "blocker": ""
