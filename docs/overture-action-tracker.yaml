@@ -14324,7 +14324,7 @@ assemblies:
   -
     ga_ordinal: 29
     assembly: "GA29"
-    status: "in_progress"
+    status: "closed"
     catalogue_records: 38
     records_complete: 38
     records_in_progress: 0
@@ -14337,14 +14337,14 @@ assemblies:
     candidates_unreviewed: 0
     candidate_invalid_links: 0
     candidate_reviews_orphaned: 0
-    roster_reconciled: "verified: 38 page-qualified records match the reconciled GA29 catalogue and page map"
-    event_source_audited: "verified: 190 events across 38 trails; all source anchors and exact excerpts audited in GA29–GA31 Markdown minutes"
-    build: "passed: full validating siteBuild after GA29 packet commit c19267109 on 2026-10-13 (6m04s)"
-    preview_reviewed: "verified: visually reviewed the local GA29 O1, O27, and O35 pages after the targeted Gradle fastPreview. Action headings and source labels are distinct from submitted text; the GA30 concurrence tally renders as a structured table."
+    roster_reconciled: "verified: 38 distinct GA29 catalogue records match 38 research rows, event bundles, and page-map entries; 165/165 candidate passages reviewed with zero invalid links or orphan reviews (2026-10-14)"
+    event_source_audited: "verified: 190 unique events have continuous per-record sequences; all 190 source anchors and locators resolve, and all long quoted excerpts match cited Markdown after normalization (2026-10-14)"
+    build: "passed: full validating siteBuild -RegenerateOvertures; 10,911 linked HTML files verified, 8,685 search pages indexed, rendered-site validation and 30/30 Node checks passed (2026-10-14; 6m)"
+    preview_reviewed: "verified: all 38 GA29 overture routes returned HTTP 200 with 190 action headings and source links; previously inspected GA29 O1, O27, and O35 content remains rendered correctly (2026-10-14)"
     commit_sha: "c1926710904af2b4ec22d74262686fd405e3ef22"
-    pushed: "True"
-    blocker: "pushed unverified"
-    next_step: "Complete packet closeout: pushed."
+    pushed: "pushed"
+    blocker: ""
+    next_step: "No remaining work recorded."
     overtures:
       -
         record_id: "overture:ga29_2001:1:p190"
