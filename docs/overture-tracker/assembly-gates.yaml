@@ -263,12 +263,12 @@
     "blocker": ""
   },
   "30": {
-    "roster_reconciled": "unverified",
-    "event_source_audited": "unverified",
-    "build": "unverified",
-    "preview_reviewed": "unverified",
-    "commit_sha": "",
-    "pushed": "unverified",
+    "roster_reconciled": "verified: 35 distinct GA30 catalogue records match 35 research rows, event bundles, and page-map entries; 130/130 candidate passages reviewed with zero invalid links or orphan reviews (2026-10-14)",
+    "event_source_audited": "verified: 141 unique events have continuous per-record sequences; all 149 main/support excerpt anchors resolve. Split and linked the shared Recommendation 2 continuation across eight related overture records (2026-10-14)",
+    "build": "passed: full validating siteBuild -RegenerateOvertures; 10,911 linked HTML files verified, 8,685 search pages indexed, rendered-site validation and 30/30 Node checks passed (2026-10-14; 6m)",
+    "preview_reviewed": "verified: all 35 GA30 overture routes returned HTTP 200 with 141 action headings; all eight Recommendation 2 trails show the p. 219 continuation citation (2026-10-14)",
+    "commit_sha": "36334c91d",
+    "pushed": "pushed",
     "blocker": ""
   },
   "31": {
