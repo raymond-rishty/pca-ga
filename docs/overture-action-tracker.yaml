@@ -20639,7 +20639,7 @@ assemblies:
   -
     ga_ordinal: 44
     assembly: "GA44"
-    status: "in_progress"
+    status: "closed"
     catalogue_records: 63
     records_complete: 63
     records_in_progress: 0
@@ -20652,14 +20652,14 @@ assemblies:
     candidates_unreviewed: 0
     candidate_invalid_links: 0
     candidate_reviews_orphaned: 0
-    roster_reconciled: "unverified"
-    event_source_audited: "unverified"
-    build: "unverified"
-    preview_reviewed: "unverified"
-    commit_sha: ""
-    pushed: "unverified"
-    blocker: "roster_reconciled unverified; event_source_audited unverified; build unverified; preview_reviewed unverified; commit_sha unverified; pushed unverified"
-    next_step: "Complete packet closeout: roster_reconciled, event_source_audited, build, preview_reviewed, commit_sha, pushed."
+    roster_reconciled: "verified: 63 distinct GA44 records match 63 research rows, event bundles, and page-map entries; 202/202 candidate passages reviewed with no missing linked record targets (2026-10-14)"
+    event_source_audited: "verified: 216 events have unique IDs and continuous per-record sequences; all 216 event anchors and 101 supporting-excerpt anchors resolve; 317/317 quoted excerpts match their source-volume Markdown after accounting for formatting, page folios, and explicit omissions. Corrected four GA44 MNA source-volume links (2026-10-14)"
+    build: "passed: full validating siteBuild -RegenerateOvertures; 10,911 linked HTML files verified, 8,685 search pages indexed, rendered-site validation and 30/30 Node checks passed (2026-10-14; 6m3s)"
+    preview_reviewed: "verified: GA44 O2, O5, O14, O20, O24, O37, O38, O44, O54, O61, and O62 pages returned HTTP 200 with action sections and source links; corrected excerpt and MNA minutes links inspected (2026-10-14)"
+    commit_sha: "07432a02635ac45ad9e2fa5b9505352ba7fbdba2"
+    pushed: "pushed"
+    blocker: ""
+    next_step: "No remaining work recorded."
     overtures:
       -
         record_id: "overture:ga44_2016:1:p572"
