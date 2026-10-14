@@ -24,8 +24,8 @@
     "event_source_audited": "verified: 19 complete trails and 48 reviewed candidates; exact excerpts and anchors checked",
     "build": "passed: full siteBuild 2026-10-12",
     "preview_reviewed": "verified: GA3 O14 action headings and quote distinctions; GA1 O11 cross-Assembly preview checked",
-    "commit_sha": "",
-    "pushed": "unverified",
+    "commit_sha": "627f35b51",
+    "pushed": "pushed",
     "blocker": ""
   },
   "4": {

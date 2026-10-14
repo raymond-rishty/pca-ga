@@ -474,7 +474,7 @@ assemblies:
   -
     ga_ordinal: 3
     assembly: "GA3"
-    status: "in_progress"
+    status: "closed"
     catalogue_records: 19
     records_complete: 19
     records_in_progress: 0
@@ -491,10 +491,10 @@ assemblies:
     event_source_audited: "verified: 19 complete trails and 48 reviewed candidates; exact excerpts and anchors checked"
     build: "passed: full siteBuild 2026-10-12"
     preview_reviewed: "verified: GA3 O14 action headings and quote distinctions; GA1 O11 cross-Assembly preview checked"
-    commit_sha: ""
-    pushed: "unverified"
-    blocker: "commit_sha unverified; pushed unverified"
-    next_step: "Complete packet closeout: commit_sha, pushed."
+    commit_sha: "627f35b51"
+    pushed: "pushed"
+    blocker: ""
+    next_step: "No remaining work recorded."
     overtures:
       -
         record_id: "overture:ga03_1975:1:p32"
