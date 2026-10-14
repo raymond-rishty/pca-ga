@@ -6102,14 +6102,14 @@ assemblies:
     candidates_unreviewed: 0
     candidate_invalid_links: 0
     candidate_reviews_orphaned: 0
-    roster_reconciled: "unverified"
-    event_source_audited: "unverified"
-    build: "unverified"
-    preview_reviewed: "unverified"
+    roster_reconciled: "verified: 54 distinct GA14 catalogue IDs match 54 research rows, event bundles, and page-map entries; all 54 records complete (2026-10-14)"
+    event_source_audited: "verified: 252 events with unique IDs, continuous per-record sequences, and resolving source anchors; 249 quoted events audited against Markdown (247 contiguous token matches; O27 e04 explicit omission and O28 e09 page-folio interruption manually checked); 178/178 candidates reviewed with zero invalid links or orphan reviews (2026-10-14)"
+    build: "passed: full siteBuild -RegenerateOvertures; 10,911 linked HTML files and 8,685 Pagefind-indexed pages validated (2026-10-14)"
+    preview_reviewed: "verified: GA14 O6, O27, O36, O37, O43, O45, O50, O53, and O54 returned HTTP 200; each rendered action-heading and source-link count matches its events; O36 and O43 content reviewed in browser (2026-10-14)"
     commit_sha: ""
     pushed: "unverified"
-    blocker: "roster_reconciled unverified; event_source_audited unverified; build unverified; preview_reviewed unverified; commit_sha unverified; pushed unverified"
-    next_step: "Complete packet closeout: roster_reconciled, event_source_audited, build, preview_reviewed, commit_sha, pushed."
+    blocker: "commit_sha unverified; pushed unverified"
+    next_step: "Complete packet closeout: commit_sha, pushed."
     overtures:
       -
         record_id: "overture:ga14_1986:1:p49"
@@ -6736,7 +6736,7 @@ assemblies:
         research_status: "complete"
         next_step: "No overture-level research remains; packet audits and closeout are tracked at GA level."
         disposition: "Referred"
-        event_count: 8
+        event_count: 9
         last_action_ga: 17
         search_through_assembly: 53
         gap_note: "GA14 cited 14-66, p. 144 as the interpretation report, but that material does not provide an O43-specific interpretation. GA15 referred its draft and a substitute to GA16. GA17 records presbytery advice and consent and the second approval; its adopted Item 7 also directs refinement for GA18, but no later refinement was located in the searched minutes."
