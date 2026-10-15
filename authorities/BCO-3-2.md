@@ -13,6 +13,10 @@
 | 1991 | Judicial case | structured_case_reference | structured_case_metadata | medium | [Marshall v. Eastern Carolina Presbytery](../cases/ga19_1991__1990-04a.md) | sustained |
 | 1987 | Constitutional inquiry | structured_provision_tag | structured_provision_tag | medium | [Role of a presbytery evangelist in church discipline and membership actions](../inquiries/ga15_1987__ci04.md) | advice given |
 | 2005 | CCB advice | structured_provision_tag | structured_provision_tag | medium | [Relationship of Assistant Pastor to the Church](../inquiries/ga33_2005__ci02.md) | in conflict |
+| 2019 | Overture | explicit_citation | direct_text | high | [Amend BCO 14-1.10, 14-1.11, and 14-1.12 to Allow Non-ordained Persons on Committees and Boards](../markdown/ga47_2019.md#ga47-p621) | Answered by reference |
+| 2019 | Overture | explicit_citation | direct_text | high | [Amend BCO 14-1.10, 14-1.11, and 14-1.12 to Allow Non-ordained Persons on Committees and Boards](../markdown/ga47_2019.md#ga47-p633) | Answered by reference |
+| 2019 | Overture | explicit_citation | direct_text | high | [Amend BCO 14-1.10, 14-1.11, and 14-1.12 to Allow Non-ordained Persons on Committees and Boards](../markdown/ga47_2019.md#ga47-p641) | Answered by reference |
+| 2019 | Overture | explicit_citation | direct_text | high | [Amend BCO 14-1.10, 14-1.11, and 14-1.12 to Allow Non-ordained Persons on Committees and Boards](../markdown/ga47_2019.md#ga47-p603) | Answered in the negative |
 | 2005 | Overture | explicit_citation | direct_text | high | [Amend BCO 24-1 to Require Bible Content Examination for Elders and Deacons](../markdown/ga33_2005.md#ga33-p202) | Approved & ratified (2006) |
 
 ---

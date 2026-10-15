@@ -4,7 +4,7 @@
 
 | Year | Record type | Relationship | Evidence | Confidence | Title | Disposition |
 |------|-------------|--------------|----------|------------|-------|-------------|
-| 1999 | Overture | explicit_citation | direct_text | high | [Amend BCO 30-1 and 30-3 to Clarify Suspension From Office and Sacraments](../markdown/ga27_1999.md#ga27-p168) | Answered in the negative |
+| 1999 | Overture | explicit_citation | direct_text | high | [Amend BCO to Permit Minimum Voting Age in Congregational Meetings](../markdown/ga27_1999.md#ga27-p168) | Answered in the negative |
 
 ---
 *[← Authority Index](../index/AUTHORITY-BY-PROVISION.md)*

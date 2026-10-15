@@ -11,6 +11,7 @@ from pathlib import Path
 from typing import Any
 from urllib.parse import urlsplit, urlunsplit
 
+from atomic_output import write_bytes_atomic
 from provision_catalogue import load_catalogue, reference_presentation
 
 
@@ -141,11 +142,10 @@ def bco_alias_slug(unit: dict[str, Any]) -> str:
 
 
 def _write(path: Path, payload: Any, pretty: bool) -> bytes:
-    path.parent.mkdir(parents=True, exist_ok=True)
     text = json.dumps(payload, ensure_ascii=False, indent=2 if pretty else None,
                       separators=None if pretty else (",", ":")) + "\n"
     data = text.encode("utf-8")
-    path.write_bytes(data)
+    write_bytes_atomic(path, data)
     return data
 
 
@@ -183,7 +183,7 @@ def project_catalogue(root: Path, catalogue: dict[str, Any], bco_out: Path,
             expected_bco_paths.add(bco_path)
             # Compatibility endpoint is a byte-identical copy of the canonical API payload.
             bco_path.parent.mkdir(parents=True, exist_ok=True)
-            bco_path.write_bytes(contents)
+            write_bytes_atomic(bco_path, contents)
             bco_url = f"{SITE}/api/bco/{bco_slug}.json"
             bco_entries.append({
                 "id": unit["id"],

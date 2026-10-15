@@ -9,11 +9,7 @@
 | 2023 | CCB advice | structured_provision_tag | structured_provision_tag | medium | [Amend BCO 7 to Codify the Biblical Standard for Church Officers Related to Human Sexuality](../inquiries/ga50_2023__ci06.md) | not in conflict; Adopted 8-0-0 |
 | 2022 | CCB advice | structured_provision_tag | structured_provision_tag | medium | [Amend BCO 7 to Disqualify from Office Men Identifying as Homosexual](../inquiries/ga49_2022__ci09.md) | not in conflict; Adopted by the CCB |
 | 2021 | CCB advice | structured_provision_tag | structured_provision_tag | medium | [Amend BCO 7 by Addition to Disqualify Same-sex Attracted Men from Ordination](../inquiries/ga48_2021__ci11.md) | in conflict; Adopted |
-| 2023 | Overture | proposal_target | overture_action_target | high | [Amend BCO 35-1 and 35-7 to Allow All Persons as Witnesses in Cases of Process](../markdown/ga50_2023.md#ga50-p1003) | Approved & ratified (2024) |
-| 2023 | Overture | proposal_target | overture_action_target | high | [Amend BCO 53 to Disallow Women from Preaching or Teaching in Worship](../markdown/ga50_2023.md#ga50-p1010) | Referred |
-| 2023 | Overture | proposal_target | overture_action_target | high | [Amend BCO 8-2 and 9-3 to Require Officers' Conformity to Biblical Standards for Chastity in Self-Description](../markdown/ga50_2023.md#ga50-p1030) | Approved & ratified (2024) |
-| 2022 | Overture | explicit_citation | direct_text | high | [Amend BCO 7-4 to Disqualify Men Describing Themselves as Homosexual](../markdown/ga49_2022.md#ga49-p128) | Answered by reference |
-| 2017 | Overture | proposal_target | overture_action_target | high | [Amend BCO 7 to Prohibit Simultaneous Service in Both Elder and Deacon Offices](../markdown/ga45_2017.md#ga45-p658) | Answered in the negative |
+| 2023 | Overture | explicit_citation | direct_text | high | [Amend BCO 7 to Codify Biblical Standard for Church Officers Regarding Self-Description by Biblical Sins](../markdown/ga50_2023.md#ga50-p1012) | Answered by reference |
 
 ---
 *[← Authority Index](../index/AUTHORITY-BY-PROVISION.md)*

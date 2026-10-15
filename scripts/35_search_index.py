@@ -17,6 +17,7 @@ from __future__ import annotations
 import json, os, re, sys
 from glob import glob
 from pathlib import Path
+from atomic_output import write_text_atomic
 
 ROOT = sys.argv[1] if len(sys.argv) > 1 else "/workspace"
 IDX = os.path.join(ROOT, "index")
@@ -254,23 +255,23 @@ def main():
                      "url": f"studies/{r['file']}"})
 
     os.makedirs(APP, exist_ok=True)
-    with open(os.path.join(APP, "search_index.json"), "w", encoding="utf-8") as output:
-        json.dump(rows, output, ensure_ascii=False, separators=(",", ":"))
+    write_text_atomic(Path(APP) / "search_index.json",
+                      json.dumps(rows, ensure_ascii=False, separators=(",", ":")))
     for path in glob(os.path.join(APP, "case_summaries_*.json")):
         os.remove(path)
     summary_items = sorted(case_summaries.items())
     for part, offset in enumerate(range(0, len(summary_items), CASE_SUMMARY_CHUNK_SIZE), start=1):
         summary_chunk = dict(summary_items[offset:offset + CASE_SUMMARY_CHUNK_SIZE])
-        with open(os.path.join(APP, f"case_summaries_{part}.json"), "w", encoding="utf-8") as output:
-            json.dump(summary_chunk, output, ensure_ascii=False, separators=(",", ":"))
+        write_text_atomic(Path(APP) / f"case_summaries_{part}.json",
+                          json.dumps(summary_chunk, ensure_ascii=False, separators=(",", ":")))
     from provision_catalogue import load_catalogue, provision_search_rows
     catalogue_path = os.path.join(IDX, "provision_catalogue.json")
     provision_rows = []
     if os.path.exists(catalogue_path):
         catalogue = load_catalogue(Path(catalogue_path))
         provision_rows = provision_search_rows(catalogue)
-    with open(os.path.join(APP, "provision_search.json"), "w", encoding="utf-8") as output:
-        json.dump(provision_rows, output, ensure_ascii=False, separators=(",", ":"))
+    write_text_atomic(Path(APP) / "provision_search.json",
+                      json.dumps(provision_rows, ensure_ascii=False, separators=(",", ":")))
     sz = os.path.getsize(os.path.join(APP, "search_index.json"))
     import collections
     by = collections.Counter(r["type"] for r in rows)

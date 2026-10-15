@@ -8,9 +8,9 @@
 | 2014 | Judicial case | structured_case_reference | structured_case_metadata | medium | [the Session of Hope Community Church v. Central Carolina Presbytery](../cases/ga42_2014__2013-04.md) | sustained |
 | 1994 | Judicial case | explicit_citation | direct_text | high | [Smith v. Northeast Presbytery](../cases/ga22_1994__1993-01.md) | denied |
 | 2016 | CCB advice | structured_provision_tag | structured_provision_tag | medium | [Requirements for Reporting and Reviewing Minutes of a Mission Church](../inquiries/ga44_2016__ci02.md) | in conflict |
-| 2016 | Overture | proposal_target | overture_action_target | high | [Amend BCO 5-3 to Require Minute Reporting for Mission Church Governments](../markdown/ga44_2016.md#ga44-p640) | Approved & ratified (2017) |
-| 2010 | Overture | proposal_target | overture_action_target | high | [Amend BCO 5-3 to Allow Latitude in Oversight of Mission Churches](../markdown/ga38_2010.md#ga38-p358) | Approved & ratified (2011) |
-| 2010 | Overture | proposal_target | overture_action_target | high | [Revise BCO 5-2 Through 5-11 and Add New BCO 5-5 Regarding Church Organization](../markdown/ga38_2010.md#ga38-p370) | Approved & ratified (2011) |
+| 2016 | Overture | multiple | multiple | high | [Amend BCO 5-3 to Require Minute Reporting for Mission Church Governments](../markdown/ga44_2016.md#ga44-p640) | Approved & ratified (2017) |
+| 2011 | Overture | explicit_citation | direct_text | high | [Amend BCO 12 to Provide Temporary Governance for Churches Without Ruling Elders](../markdown/ga39_2011.md#ga39-p628) |  |
+| 2010 | Overture | proposal_target | title_subject_reference | high | [Amend BCO 5-3 to Allow Latitude in Oversight of Mission Churches](../markdown/ga38_2010.md#ga38-p358) | Approved & ratified (2011) |
 | 2025 | RPR exception | structured_exception_tag | structured_provision_tag | medium | [New River: Presbytery appointed a commission with only one teaching elder and one ruling elder. No re](../rpr/exc/new-river__090.html) | raised |
 | 2025 | RPR exception | structured_exception_tag | structured_provision_tag | medium | [Providence: ( BCO 40, BCO 5-3; Providence Presbytery Bylaws) — Incomplete record of review of records](../rpr/exc/providence__072.html) | raised |
 | 2025 | RPR exception | structured_exception_tag | structured_provision_tag | medium | [Rio Grande: No record that members of interim/provisional Session were called by the congregation.](../rpr/exc/rio-grande__072.html) | raised |

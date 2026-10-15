@@ -5,6 +5,7 @@
 | Year | Record type | Relationship | Evidence | Confidence | Title | Disposition |
 |------|-------------|--------------|----------|------------|-------|-------------|
 | 2022 | Judicial case | explicit_citation | direct_text | high | [Miller v. Ohio Valley Presbytery](../cases/ga49_2022__2021-09.md) | denied |
+| 2024 | Overture | explicit_citation | direct_text | high | [Erect Ad Interim Committee on the Book Jesus Calling](../markdown/ga51_2024.md#ga51-p1201) |  |
 | 2025 | RPR exception | multiple | multiple | high | [Korean Capital: Presbytery ruled the following stated difference put forth by a candidate for licensure to](../rpr/exc/korean-capital__115.html) | raised |
 | 2025 | RPR exception | body_mention | direct_text | high | [Rio Grande: Presbytery appears to have incorrectly judged that a candidate’s stated difference is not](../rpr/exc/rio-grande__062.html) | raised |
 | 2022 | RPR exception | body_mention | direct_text | high | [Chicago Metro: Presbytery granted a doctrinal exception that may be hostile to our system of doctrine (ca](../rpr/exc/chicago-metro__037.html) | satisfactory |

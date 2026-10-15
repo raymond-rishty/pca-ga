@@ -6,9 +6,11 @@
 |------|-------------|--------------|----------|------------|-------|-------------|
 | 2014 | Constitutional inquiry | structured_provision_tag | structured_provision_tag | medium | [Defining the Term "Labor"](../inquiries/ga42_2014__ci04.md) | advice given |
 | 2025 | CCB advice | structured_provision_tag | structured_provision_tag | medium | [20-1, 21-1, 21-12, and 23-1 re the Calling and Dissolution of TE Relationships for Needful Work](../inquiries/ga52_2025__ci21.md) | in conflict (and ambiguous); Adopted 8-0-0 |
-| 2025 | Overture | proposal_target | overture_action_target | high | [Amend BCO 8-4, 20-1, 21-1, 21-12, and 23-1 re Calling and Dissolution of TE Relationships for Needful Works](../markdown/ga52_2025.md#ga52-p1254) | Approved → sent to presbyteries; ratification not located |
-| 1996 | Overture | explicit_citation | direct_text | high | [Amend BCO 7-2 to Limit Voting Members on Permanent Committees](../markdown/ga24_1996.md#ga24-p289) | Answered in the negative |
-| 1996 | Overture | explicit_citation | direct_text | high | [Retain BCO 46-5 Without Change](../markdown/ga24_1996.md#ga24-p302) | Answered by reference |
+| 2025 | Overture | multiple | multiple | high | [Amend BCO 8-4, 20-1, 21-1, 21-12, and 23-1 re Calling and Dissolution of TE Relationships for Needful Works](../markdown/ga52_2025.md#ga52-p1254) | Approved → sent to presbyteries; ratification not located |
+| 2023 | Overture | explicit_citation | direct_text | high | [Request Administrative Committee to Address Presbytery Jurisdiction and Agency Employment Questions](../markdown/ga50_2023.md#ga50-p1021) | Answered in the negative |
+| 2016 | Overture | explicit_citation | direct_text | high | [Amend BCO 13-2 to Require Annual Reports from Ministers Without Call](../markdown/ga44_2016.md#ga44-p639) | Approved & ratified (2017) |
+| 1996 | Overture | explicit_citation | direct_text | high | [Amend BCO 7-2 to Restrict Permanent Committee Voting to Ordained Officers](../markdown/ga24_1996.md#ga24-p289) |  |
+| 1996 | Overture | explicit_citation | direct_text | high | [Reject All Overtures Changing BCO 46-5](../markdown/ga24_1996.md#ga24-p302) |  |
 | 2025 | RPR exception | structured_exception_tag | structured_provision_tag | medium | [Central Indiana: No record of reports from TEs in work needful to the Church received.](../rpr/exc/central-indiana__027.html) | raised |
 | 2025 | RPR exception | structured_exception_tag | structured_provision_tag | medium | [Georgia Foothills: No record that the Presbytery found out-of-bounds works to be needful, nor that it is assu](../rpr/exc/georgia-foothills__054.html) | raised |
 | 2025 | RPR exception | structured_exception_tag | structured_provision_tag | medium | [Korean Southwest: No record that Presbytery gave at least 60-days notice of decision to dissolve a church.](../rpr/exc/korean-southwest__261.html) | raised |

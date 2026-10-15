@@ -4,6 +4,7 @@
 
 | Year | Record type | Relationship | Evidence | Confidence | Title | Disposition |
 |------|-------------|--------------|----------|------------|-------|-------------|
+| 2016 | Overture | explicit_citation | direct_text | high | [Petition Government Leaders to Protect Religious Liberty](../markdown/ga44_2016.md#ga44-p588) | Referred |
 | 2004 | RPR exception | body_mention | direct_text | high | [Iowa: Presbytery determined TE’s view on marrying “papists” was not an exception to WCF 24-3.](../rpr/exc/iowa__001.html) | satisfactory |
 
 ---

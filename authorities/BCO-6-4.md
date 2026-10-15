@@ -10,7 +10,7 @@
 | 1984 | Constitutional inquiry | structured_provision_tag | structured_provision_tag | medium | [Whether congregation may set minimum voting age for elections](../inquiries/ga12_1984__ci07.md) | advice given |
 | 2025 | CCB advice | structured_provision_tag | structured_provision_tag | medium | [24-3 and 25-1 to Clarify 'Regular Standing' re Minimum Voting Age](../inquiries/ga52_2025__ci16.md) | in conflict; Adopted 8-0-0 |
 | 1999 | CCB advice | structured_provision_tag | structured_provision_tag | medium | [Minimum Voting Age in Congregational Meetings](../inquiries/ga27_1999__ci05.md) | in conflict |
-| 1999 | Overture | explicit_citation | direct_text | high | [Amend BCO 30-1 and 30-3 to Clarify Suspension From Office and Sacraments](../markdown/ga27_1999.md#ga27-p168) | Answered in the negative |
+| 1999 | Overture | explicit_citation | direct_text | high | [Amend BCO to Permit Minimum Voting Age in Congregational Meetings](../markdown/ga27_1999.md#ga27-p168) | Answered in the negative |
 
 ---
 *[← Authority Index](../index/AUTHORITY-BY-PROVISION.md)*

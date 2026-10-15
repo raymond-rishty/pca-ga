@@ -1054,6 +1054,13 @@
       },
       {
        "type": "overture",
+       "number": 41,
+       "source": "North Texas Presbytery (to MNA) \"Expand North Texas Presbytery Upon Dissolution of Louisiana Presbytery\"",
+       "pdf_page": 748,
+       "printed_page": 746
+      },
+      {
+       "type": "overture",
        "number": 42,
        "source": "Covenant Presbytery (to MNA) \"Expand Covenant Presbytery Upon Dissolution of Louisiana Pre",
        "pdf_page": 749,
@@ -1768,6 +1775,16 @@
    "in": "Appendix W",
    "pages": [
     747
+   ]
+  },
+  {
+   "number": 41,
+   "source": "North Texas Presbytery (to MNA) \"Expand North Texas Presbytery Upon Dissolution of Louisiana Presbytery\"",
+   "pdf_page": 748,
+   "printed_page": 746,
+   "in": "Appendix W",
+   "pages": [
+    748
    ]
   },
   {

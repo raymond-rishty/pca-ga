@@ -19,7 +19,10 @@
 | 2002 | Constitutional inquiry | structured_provision_tag | structured_provision_tag | medium | [Presbytery's Right to Take Back a Matter from a Commission and Render a Decision](../inquiries/ga30_2002__ci08.md) | advice given |
 | 1986 | Constitutional inquiry | structured_provision_tag | structured_provision_tag | medium | [Book of Church Order / BCO 3-1](../inquiries/ga14_1986__ci10.md) | advice given |
 | 1986 | Constitutional inquiry | structured_provision_tag | structured_provision_tag | medium | [Congregational vote to rotate entire session or diaconate off](../inquiries/ga14_1986__ci08.md) | advice given |
-| 2002 | Overture | explicit_citation | direct_text | high | [Specify Good Faith Subscription (Version 7)](../markdown/ga30_2002.md#ga30-p105) | Answered by reference |
+| 2022 | Overture | explicit_citation | direct_text | high | [Amend BCO 15-1 and 15-3 to Clarify Role of Presbytery Commission](../markdown/ga49_2022.md#ga49-p1351) | Approved & ratified (2023) |
+| 2022 | Overture | explicit_citation | direct_text | high | [Amend BCO 15-1 and 15-3 to Clarify Role of Presbytery Commission](../markdown/ga49_2022.md#ga49-p1356) |  |
+| 2019 | Overture | explicit_citation | direct_text | high | [Amend BCO 40-4 and 40-5 to Clarify the Meaning of 'Credible Report'](../markdown/ga47_2019.md#ga47-p686) | Answered in the negative |
+| 2015 | Overture | explicit_citation | direct_text | high | [Amend BCO 13-2, 34-10, 24-7 and 24-9 Regarding Ministers, Ruling Elders, and Deacons Without Call](../markdown/ga43_2015.md#ga43-p612) | Answered in the negative |
 
 ---
 *[← Authority Index](../index/AUTHORITY-BY-PROVISION.md)*

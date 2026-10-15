@@ -429,12 +429,58 @@ def _dedupe_entries(entries: list[dict[str, Any]]) -> list[dict[str, Any]]:
     result: list[dict[str, Any]] = []
     seen: set[tuple[Any, ...]] = set()
     for entry in entries:
-        key = (entry.get("source_id"), entry.get("pdf_page"), entry.get("url"))
+        source_id = entry.get("source_id")
+        if isinstance(source_id, str) and source_id.startswith("minutes:"):
+            volume = source_id.removeprefix("minutes:")
+            try:
+                ga, year = volume_parts(volume)
+                source_id = f"minutes:ga{ga:02d}_{year}"
+            except ValueError:
+                pass
+        key = (source_id, entry.get("pdf_page"), entry.get("url"))
         if key in seen:
             continue
         seen.add(key)
         result.append(entry)
     return result
+
+
+def _front_matter_source_entries(text: str) -> list[dict[str, Any]]:
+    """Read normalized source-link entries already curated in page front matter."""
+    if not text.startswith("---\n"):
+        return []
+    end = text.find("\n---\n", 4)
+    if end < 0:
+        return []
+    entries: list[dict[str, Any]] = []
+    current: dict[str, Any] | None = None
+    in_source_links = False
+    for line in text[4:end].splitlines():
+        if line == "source_links:":
+            in_source_links = True
+            continue
+        if in_source_links and line and not line[0].isspace():
+            break
+        if not in_source_links:
+            continue
+        if line.startswith("  - "):
+            if current is not None:
+                entries.append(current)
+            current = {}
+            line = "    " + line[4:]
+        if current is not None and line.startswith("    ") and ":" in line:
+            key, value = line.strip().split(":", 1)
+            value = value.strip()
+            if value.startswith('"'):
+                value = json.loads(value)
+            elif value.startswith("'") and value.endswith("'"):
+                value = value[1:-1].replace("''", "'")
+            elif value.isdigit():
+                value = int(value)
+            current[key] = value
+    if current is not None:
+        entries.append(current)
+    return entries
 
 
 def source_entries_for_path(root: Path, path: Path, text: str) -> list[dict[str, Any]]:
@@ -489,7 +535,9 @@ def _replace_source_front_matter(text: str, entries: list[dict[str, Any]]) -> st
 
 def normalize_text(root: Path, text: str, path: Path | None = None) -> tuple[str, bool]:
     """Add or refresh source_links front matter while preserving page content."""
-    entries = source_entries_for_path(root, path or Path(), text)
+    entries = _dedupe_entries(
+        _front_matter_source_entries(text) + source_entries_for_path(root, path or Path(), text)
+    )
     if not entries:
         return text, False
 

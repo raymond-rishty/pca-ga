@@ -11,8 +11,10 @@
 | 2022 | CCB advice | structured_provision_tag | structured_provision_tag | medium | [Amend BCO 8-7 by Adding Chaplain Endorsement Requirements and Recommendations](../inquiries/ga49_2022__ci21.md) | in conflict; Adopted by the CCB |
 | 2021 | CCB advice | structured_provision_tag | structured_provision_tag | medium | [Amend BCO 8-7 Regarding Chaplains](../inquiries/ga48_2021__ci01.md) | not in conflict; Adopted |
 | 2025 | Overture | explicit_citation | direct_text | high | [Amend BCO 8-4, 20-1, 21-1, 21-12, and 23-1 re Calling and Dissolution of TE Relationships for Needful Works](../markdown/ga52_2025.md#ga52-p1254) | Approved → sent to presbyteries; ratification not located |
-| 2022 | Overture | proposal_target | overture_action_target | high | [Amend BCO 8-7 by Adding Chaplain Endorsement Requirements](../markdown/ga49_2022.md#ga49-p1359) |  |
-| 2021 | Overture | proposal_target | overture_action_target | high | [Amend BCO 8-7 Regarding Chaplains](../markdown/ga48_2021.md#ga48-p966) | Answered in the negative |
+| 2024 | Overture | explicit_citation | direct_text | high | [Amend BCO 13-2 to Require Teaching Elder Membership Where He Labors](../markdown/ga51_2024.md#ga51-p1174) |  |
+| 2022 | Overture | multiple | multiple | high | [Amend BCO 8-7 by Adding Chaplain Endorsement Requirements](../markdown/ga49_2022.md#ga49-p1359) | Approved & ratified (2023) |
+| 2021 | Overture | proposal_target | title_subject_reference | high | [Amend BCO 8-7 Regarding Chaplains](../markdown/ga48_2021.md#ga48-p966) | Answered in the negative |
+| 2015 | Overture | explicit_citation | direct_text | high | [Amend BCO 13-2, 34-10, 24-7 and 24-9 Regarding Ministers, Ruling Elders, and Deacons Without Call](../markdown/ga43_2015.md#ga43-p612) | Answered in the negative |
 | 2025 | RPR exception | structured_exception_tag | structured_provision_tag | medium | [Blue Ridge: No record of annual report of TE laboring out of bounds.](../rpr/exc/blue-ridge__054.html) | raised |
 | 2025 | RPR exception | structured_exception_tag | structured_provision_tag | medium | [Central Georgia: No record of annual report(s) of TE(s) laboring out of bounds.](../rpr/exc/central-georgia__042.html) | raised |
 | 2025 | RPR exception | structured_exception_tag | structured_provision_tag | medium | [Central Georgia: No record of annual report(s) of TE(s) without a call.](../rpr/exc/central-georgia__043.html) | raised |

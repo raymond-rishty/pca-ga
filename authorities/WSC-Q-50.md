@@ -4,7 +4,7 @@
 
 | Year | Record type | Relationship | Evidence | Confidence | Title | Disposition |
 |------|-------------|--------------|----------|------------|-------|-------------|
-| 1993 | Overture | explicit_citation | direct_text | high | [Direct Review of Presbytery Records Committee to Remove Unwarranted Clerk Requirements](../markdown/ga21_1993.md#ga21-p150) | Adopted (final) |
+| 1993 | Overture | explicit_citation | direct_text | high | [Spread Memorial Calling PCA to Fidelity to Its Founding Declarations](../markdown/ga21_1993.md#ga21-p150) |  |
 
 ---
 *[← Authority Index](../index/AUTHORITY-BY-PROVISION.md)*

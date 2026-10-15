@@ -4,6 +4,8 @@
 
 | Year | Record type | Relationship | Evidence | Confidence | Title | Disposition |
 |------|-------------|--------------|----------|------------|-------|-------------|
+| 2015 | Overture | explicit_citation | direct_text | high | [Establish Study Committee on Westminster Standards & the Sabbath](../markdown/ga43_2015.md#ga43-p615) | Answered by reference |
+| 2015 | Overture | explicit_citation | direct_text | high | [Form Ad Interim Committee to Revise Westminster Standards on Sabbath](../markdown/ga43_2015.md#ga43-p601) | Answered in the negative |
 | 2024 | RPR exception | body_mention | direct_text | high | [Korean Central: ( BCO 21-4; RAO 16-3.e.5) — Stated differences not recorded in the minister’s/candidates o](../rpr/exc/korean-central__121.html) | satisfactory |
 | 2022 | RPR exception | exception_target | direct_text | high | [Arizona: Sabbath” Games/activities on the Sabbath. “I believe it is lawful, and restful for people](../rpr/exc/arizona__018.html) | satisfactory |
 | 2021 | RPR exception | body_mention | direct_text | high | [Philadelphia: Candidate [name omitted]’s exceptions noted, but not recorded in his own words.](../rpr/exc/philadelphia__046.html) | satisfactory |

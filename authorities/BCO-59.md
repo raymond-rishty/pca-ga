@@ -8,8 +8,8 @@
 | 2018 | CCB advice | structured_provision_tag | structured_provision_tag | medium | [Granting BCO 59 Full Constitutional Status](../inquiries/ga46_2018__ci01.md) | in conflict |
 | 2018 | CCB advice | structured_provision_tag | structured_provision_tag | medium | [Granting BCO 59 Full Constitutional Status](../inquiries/ga46_2018__ci08.md) | in conflict |
 | 2017 | CCB advice | structured_provision_tag | structured_provision_tag | medium | [Granting BCO 59 Full Constitutional Status](../inquiries/ga45_2017__ci02.md) | in conflict |
-| 2017 | Overture | proposal_target | overture_action_target | high | [Grant BCO 59 on Solemnization of Marriage Full Constitutional Status](../markdown/ga45_2017.md#ga45-p648) | Recommitted |
-| 2011 | Overture | proposal_target | overture_action_target | high | [Grant BCO Chapter 59 on Solemnization of Marriage Full Constitutional Status](../markdown/ga39_2011.md#ga39-p80) | Other |
+| 2018 | Overture | explicit_citation | direct_text | high | [Amend BCO Chapter 59 and Grant It Full Constitutional Authority](../markdown/ga46_2018.md#ga46-p673) | Answered by reference |
+| 2018 | Overture | explicit_citation | direct_text | high | [Grant BCO 59 on Solemnization of Marriage Full Constitutional Status](../markdown/ga46_2018.md#ga46-p720) | Adopted (final) |
 
 ---
 *[← Authority Index](../index/AUTHORITY-BY-PROVISION.md)*
