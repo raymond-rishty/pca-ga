@@ -453,9 +453,9 @@
   },
   "51": {
     "roster_reconciled": "verified: 35 distinct GA51 source records match 35 research rows, event bundles, and page-map entries; 467/467 candidates reviewed with zero invalid links or orphan reviews (2026-10-13)",
-    "event_source_audited": "verified: 188 GA51 record events have continuous IDs/sequences and all 188 source anchors and printed/PDF locators resolve; 118 quoted excerpts match GA51 Markdown exactly. All 200 GA51-sourced events across linked records resolve, including 10 new updated tallies. GA49 O15/O29 source discrepancy is explicitly retained for reconciliation (2026-10-13)",
-    "build": "passed: full siteBuild -RegenerateOvertures; 10,898 linked HTML files validated (2026-10-13)",
-    "preview_reviewed": "verified: GA51 O30 action trail displays Presbytery adoption/amended readoption, CCB advice, OC vote, and Assembly omnibus action with source links (2026-10-13)",
+    "event_source_audited": "verified: 188 GA51 record events have continuous IDs/sequences and all 188 source anchors and printed/PDF locators resolve; 119 explicitly typed quoted excerpts match GA51 Markdown exactly, including O32 recommendation 32 at printed p. 96 (PDF p. 99). All 200 GA51-sourced events across linked records resolve, including 10 new updated tallies. GA49 O15/O29 source discrepancy is explicitly retained for reconciliation (2026-10-14)",
+    "build": "passed: full siteBuild -RegenerateOvertures; 10,910 linked HTML files validated and 8,684 indexed pages (2026-10-14; 15m34s)",
+    "preview_reviewed": "verified: GA51 O32 page displays the submitted proposal without printed folio artifacts, originating-presbytery adoption, CCB advice, committee recommendations, GA51 referral-back decision, and all source links (2026-10-14)",
     "commit_sha": "c06f3d7c44a94a91c3f846f4562ad9cbd44f44e6",
     "pushed": "pushed",
     "blocker": ""

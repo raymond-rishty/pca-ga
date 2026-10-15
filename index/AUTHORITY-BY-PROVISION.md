@@ -106,14 +106,14 @@ Indexed PCA records associated with each provision. Relationship type, evidence,
 | [BCO 13-6](../authorities/BCO-13-6.md) | 13 | 4 | 10 | 17 | 323 | 367 |
 | [BCO 13-7](../authorities/BCO-13-7.md) | 0 | 0 | 0 | 1 | 122 | 123 |
 | [BCO 13-8](../authorities/BCO-13-8.md) | 1 | 1 | 0 | 2 | 34 | 38 |
-| [BCO 13-9](../authorities/BCO-13-9.md) | 69 | 7 | 5 | 12 | 253 | 346 |
+| [BCO 13-9](../authorities/BCO-13-9.md) | 69 | 7 | 5 | 13 | 253 | 347 |
 | [BCO 13-10](../authorities/BCO-13-10.md) | 3 | 1 | 0 | 3 | 71 | 78 |
 | [BCO 13-11](../authorities/BCO-13-11.md) | 3 | 0 | 0 | 0 | 213 | 216 |
 | [BCO 13-12](../authorities/BCO-13-12.md) | 6 | 0 | 1 | 5 | 128 | 140 |
 | [BCO 13-13](../authorities/BCO-13-13.md) | 1 | 0 | 0 | 0 | 0 | 1 |
 | [BCO 13-19.b](../authorities/BCO-13-19-b.md) | 0 | 0 | 0 | 0 | 1 | 1 |
 | [BCO 14](../authorities/BCO-14.md) | 0 | 0 | 0 | 6 | 0 | 6 |
-| [BCO 14-1](../authorities/BCO-14-1.md) | 2 | 8 | 10 | 46 | 1 | 67 |
+| [BCO 14-1](../authorities/BCO-14-1.md) | 2 | 8 | 10 | 47 | 1 | 68 |
 | [BCO 14-2](../authorities/BCO-14-2.md) | 2 | 0 | 4 | 26 | 0 | 32 |
 | [BCO 14-3](../authorities/BCO-14-3.md) | 1 | 0 | 0 | 2 | 0 | 3 |
 | [BCO 14-4](../authorities/BCO-14-4.md) | 1 | 0 | 0 | 0 | 0 | 1 |

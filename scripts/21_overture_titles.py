@@ -39,6 +39,7 @@ _BRACKETED_OVERTURE = re.compile(
     r"^\[OVERTURE\s+(\d+)\s*,?\s+from\s+(.+[“\"].+)$", re.I
 )
 _APPENDIX_SOURCE = re.compile(r"^#{1,6}\s*APPENDIX\s+([A-Z0-9]+)\b", re.I)
+_REFERRAL_FRAGMENT = re.compile(r"^[A-Z0-9&/ .,-]+[,)]+$")
 _PAGE = re.compile(r"<!--\s*PAGE\s+ga=\d+\s+pdf_page=(\w+)")
 _NOISE = re.compile(r"^\s*(<a id=|<!--\s*PAGE|#*\s*\d*\s*MINUTES OF THE GENERAL ASSE|JOURNAL OF THE)")
 # Committee-report numbered disposition: "4. That Overture 4 ... be answered in..." or
@@ -160,11 +161,55 @@ def extract():
                        "pdf_page": cur_page, "source": src, "_lines": [],
                        "_end": ENDS.get(f"{vol}__o{num}@{i}"),
                        "_table_header": bool(table_header or plain_revised),
-                       "_bracketed_source": bool(bracketed_overture)}
+                       "_bracketed_source": bool(bracketed_overture),
+                       "_source_header_pending": bool(
+                           plain_source and source_text.rfind("“") > max(
+                               source_text.rfind("”"), source_text.rfind('"')
+                           )
+                       ),
+                       "_source_header_open": False,
+                       "_source_header_quote_closed": False}
                 if plain_source and inline_body:
                     cur["_lines"].append(inline_body)
                 continue
             if cur is not None:
+                # GA51 O32's source spans page breaks; the Markdown renderer emits
+                # the printed folio as a standalone paragraph immediately before
+                # the next page anchor. Do not include those folios in the proposal.
+                if (vol == "ga51_2024" and cur.get("pdf_page") == 1199
+                        and re.fullmatch(r"\s*\d+\s*", ln)):
+                    following = next((candidate for candidate in lines[i:]
+                                      if candidate.strip()), "")
+                    if re.match(r"^<a id=\"ga51-p\d+\"", following):
+                        continue
+                if cur.get("_source_header_open"):
+                    if not ln.strip() or _NOISE.match(ln):
+                        continue
+                    if _HEAD.match(ln):
+                        fragment = re.sub(r"^#{1,6}\s*", "", ln).strip()
+                        if _REFERRAL_FRAGMENT.fullmatch(fragment) and not _APPENDIX_SOURCE.match(ln):
+                            cur["source"] = (cur["source"] + " " + fragment).strip()
+                            continue
+                        cur["_source_header_open"] = False
+                    elif (not cur.get("_source_header_quote_closed")
+                          and not re.match(r"(?i)^(whereas|therefore|be it resolved)\b", ln.strip())):
+                        cur["source"] = (cur["source"] + " " + ln.strip()).strip()
+                        if ln.rstrip().endswith(('"', "”")):
+                            cur["_source_header_quote_closed"] = True
+                        continue
+                    else:
+                        cur["_source_header_open"] = False
+                elif cur.get("_source_header_pending"):
+                    if not ln.strip() or _NOISE.match(ln):
+                        continue
+                    fragment = re.sub(r"^#{1,6}\s*", "", ln).strip()
+                    if (_HEAD.match(ln) and _REFERRAL_FRAGMENT.fullmatch(fragment)
+                            and not _APPENDIX_SOURCE.match(ln)):
+                        cur["source"] = (cur["source"] + " " + fragment).strip()
+                        cur["_source_header_pending"] = False
+                        cur["_source_header_open"] = True
+                        continue
+                    cur["_source_header_pending"] = False
                 if _HEAD.match(ln) and re.match(r"(?i)^#{1,6}\s*APPENDIX\s+[A-Z0-9]+\b", ln):
                     # Appendix headings repeat at printed-page breaks inside a long submission.
                     continue
@@ -215,9 +260,21 @@ def extract():
         had_end = r.pop("_end", None)
         r.pop("_table_header", None)
         r.pop("_bracketed_source", None)
+        r.pop("_source_header_pending", None)
+        r.pop("_source_header_open", None)
+        r.pop("_source_header_quote_closed", None)
         body = preserve_markdown(r.pop("_lines"))
         # Page headers can be joined to proposal text when Markdown extraction has no line break.
         body = re.sub(r"\bMINUTES OF (?:THE )?GENERAL ASSEMBLY\b", "", body, flags=re.I)
+        # GA51 O32's source heading is column-interleaved in the Markdown export.
+        # Reassemble its committee recipients and title in their printed order.
+        if (r.get("vol") == "ga51_2024" and int(r.get("number") or 0) == 32
+                and r.get("pdf_page") == 1199):
+            r["source"] = (
+                "the Presbytery of Eastern Pennsylvania (to CCB, OC, AC, CC, CDM, CTS, "
+                "GEN, MNA, MTW, PCAF, RH, RUF) “Amend BCO 23 to Address Dissolution "
+                "of Call for those employed by a Committee or Agency”"
+            )
         # A located true end is trusted (just a generous safety ceiling); otherwise bound runaway
         # over-extraction at 6000. Either way cut on a word boundary with an ellipsis, never
         # mid-word — and the full text is always one click away at the page's deep-link.
@@ -249,7 +306,12 @@ def extract():
                 bool(re.match(r"(?i)^OVERTURE\s+\d+\s+from\s+", old_source))
                 or len(old_source) > 180
             )
-            if key in table_keys or source_contains_body:
+            fills_blank_body = (
+                key == ("ga51_2024", 32, 1199)
+                and not str(old.get("body") or "").strip()
+                and bool(r.get("body"))
+            )
+            if key in table_keys or source_contains_body or fills_blank_body:
                 existing[positions[key]] = r
                 refreshed += 1
         else:
