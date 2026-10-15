@@ -135,6 +135,13 @@ decision, presbytery vote, and later Assembly confirmation are not interchangeab
 the action's actual session/minute sequence; do not sort by PDF page alone when a report reprints an
 earlier action.
 
+When the Assembly refers an overture to or establishes a study committee, that referral or
+establishment is the end of the overture's action trail. Later committee reports, continuations,
+funding, recommendations, and Assembly actions on the committee's work belong in a separately
+labeled related-actions section when useful; they must not extend the overture's action trail. Store
+retained excerpts in a `related_actions` group with a heading and note that identifies the separate
+committee or follow-up history.
+
 ## 7b. Evidence and transcription rules
 
 The adopted Assembly minutes are authoritative for Assembly action; the recorded presbytery tally

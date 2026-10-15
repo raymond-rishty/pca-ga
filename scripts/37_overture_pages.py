@@ -189,6 +189,7 @@ def main():
     events = {}
     event_bundles = {}
     related_records = {}
+    related_actions = {}
     catalogue_ids = set(record_ids)
     for row in load_jsonl("overture_events.jsonl"):
         # Migrate the unique-key prototype in memory. Ambiguous legacy rows are an error.
@@ -212,6 +213,7 @@ def main():
         events[rid] = row.get("events", [])
         event_bundles[rid] = row
         related_records[rid] = row.get("related_records", [])
+        related_actions[rid] = row.get("related_actions", [])
 
     def page_path(record):
         slug = f"{record['vol']}__o{record['number']}"
@@ -233,6 +235,84 @@ def main():
         return (1 if _OVERTUREY.search(b) else 0, len(b))
     def _source_key(source):
         return re.sub(r"[^a-z0-9]+", " ", (source or "").lower()).strip()
+
+    def render_action_events(action_events, default_volume):
+        rendered = []
+        for event in action_events:
+            heading = (event.get("heading") or "Overture action").strip()
+            action_text = (event.get("action_text") or "").strip()
+            source_volume = (event.get("source_volume") or default_volume).strip()
+            source_page = event.get("source_pdf_page")
+            source_label = event.get("source_label") or (
+                f"{source_volume} PDF p. {source_page}" if source_page else source_volume
+            )
+            source_url = (event.get("source_url") or "").strip()
+            source_match = re.search(r"ga(\d+)", source_volume)
+            source_anchor = (pdf_page_anchor(source_volume, source_page)
+                             if source_page and source_match else "")
+            rendered += [f'<h3 class="overture-action-heading">{escape(heading)}</h3>', ""]
+            if action_text:
+                quoted = "<br>\n".join(escape_minutes_quote(line) for line in action_text.splitlines())
+                text_kind = event.get("text_kind")
+                if text_kind is None:
+                    text_kind = "minutes_quote" if event.get("is_excerpt", True) else "editorial_note"
+                if text_kind in {"minutes_quote", "minutes_table"}:
+                    table = event.get("table") or {}
+                    headers = table.get("headers", [])
+                    rows = table.get("rows", [])
+                    if text_kind == "minutes_table" and headers and rows:
+                        rendered += ['<table class="overture-action-table">', "<thead>", "<tr>"]
+                        rendered.extend(f"<th>{escape(str(cell))}</th>" for cell in headers)
+                        rendered += ["</tr>", "</thead>", "<tbody>"]
+                        for row in rows:
+                            rendered.append("<tr>")
+                            rendered.extend(f"<td>{escape(str(cell))}</td>" for cell in row)
+                            rendered.append("</tr>")
+                        rendered += ["</tbody>", "</table>", ""]
+                    else:
+                        rendered += ['<blockquote class="overture-action-text">', quoted,
+                                     "</blockquote>", ""]
+                elif text_kind in {"editorial_note", "minutes_paraphrase", "minutes_note"}:
+                    labels = {
+                        "editorial_note": "Source note; not a minutes quotation.",
+                        "minutes_paraphrase": "Paraphrase of the minutes; not a quotation.",
+                        "minutes_note": "Minutes status note; not a separate Assembly action.",
+                    }
+                    rendered += [f"*{labels[text_kind]}*", "",
+                                 f'<p class="overture-action-note">{quoted}</p>', ""]
+                else:
+                    raise ValueError(f"unsupported overture event text_kind: {text_kind!r}")
+            source_href = source_url or f"../markdown/{source_volume}.md{source_anchor}"
+            rendered += [f"*Source: [{escape(source_label)}]({source_href})*", ""]
+            for support in event.get("supporting_excerpts", []):
+                support_text = (support.get("action_text") or "").strip()
+                support_volume = (support.get("source_volume") or default_volume).strip()
+                support_page = support.get("source_pdf_page")
+                support_label = (support.get("source_label") or
+                                 f"{support_volume} PDF p. {support_page}").strip()
+                support_match = re.search(r"ga(\d+)", support_volume)
+                support_anchor = (pdf_page_anchor(support_volume, support_page)
+                                  if support_page and support_match else "")
+                if support_text:
+                    table_html = (render_minutes_table(support_text)
+                                  if support.get("text_kind") == "minutes_table" else None)
+                    rendered += [f"*{escape(support.get('label') or 'Supporting excerpt')}:*", ""]
+                    if table_html:
+                        rendered += ['<div class="overture-action-table-wrap">', table_html,
+                                     "</div>", ""]
+                    else:
+                        quoted_support = "<br>\n".join(
+                            escape_minutes_quote(line) for line in support_text.splitlines())
+                        rendered += ['<blockquote class="overture-action-text">', quoted_support,
+                                     "</blockquote>", ""]
+                rendered += [f"*Source: [{escape(support_label)}]"
+                             f"(../markdown/{support_volume}.md{support_anchor})*", ""]
+            related_page = (event.get("related_page") or "").strip()
+            if related_page:
+                related_label = (event.get("related_label") or "Related overture").strip()
+                rendered += [f"*Related record: [{related_label}]({related_page})*", ""]
+        return rendered
+
     candidates: dict[tuple, list[dict]] = defaultdict(list)
     for r in load_jsonl("overture_bodies.jsonl"):
         key = (r["vol"], str(r["number"]), int(r.get("pdf_page") or -1))
@@ -333,92 +413,19 @@ def main():
                 page_md += ["*The submitted text is not available in the extracted catalogue; "
                             "consult the cited minutes.*"]
             page_md += ["", "## Action history", ""]
-            for event in record_events:
-                heading = (event.get("heading") or "Overture action").strip()
-                action_text = (event.get("action_text") or "").strip()
-                source_volume = (event.get("source_volume") or vol).strip()
-                source_page = event.get("source_pdf_page")
-                source_label = event.get("source_label") or (
-                    f"{source_volume} PDF p. {source_page}" if source_page else source_volume
-                )
-                source_url = (event.get("source_url") or "").strip()
-                source_match = re.search(r"ga(\d+)", source_volume)
-                source_anchor = (pdf_page_anchor(source_volume, source_page)
-                                 if source_page and source_match else "")
-                page_md += [f'<h3 class="overture-action-heading">{escape(heading)}</h3>', ""]
-                if action_text:
-                    quoted = "<br>\n".join(escape_minutes_quote(line) for line in action_text.splitlines())
-                    text_kind = event.get("text_kind")
-                    if text_kind is None:
-                        # Compatibility for older rows: is_excerpt used to double
-                        # as a quote/note switch. New rows should set text_kind.
-                        text_kind = "minutes_quote" if event.get("is_excerpt", True) else "editorial_note"
-                    if text_kind == "minutes_quote":
-                        # Keep transcribed minutes text visibly distinct from research notes.
-                        page_md += ['<blockquote class="overture-action-text">', quoted,
-                                    "</blockquote>", ""]
-                    elif text_kind == "minutes_table":
-                        # Preserve the source table's rows and columns when the research record
-                        # supplies structured cells; retain a quoted fallback for older rows.
-                        table = event.get("table") or {}
-                        headers = table.get("headers", [])
-                        rows = table.get("rows", [])
-                        if headers and rows:
-                            page_md += ['<table class="overture-action-table">', "<thead>", "<tr>"]
-                            page_md.extend(f"<th>{escape(str(cell))}</th>" for cell in headers)
-                            page_md += ["</tr>", "</thead>", "<tbody>"]
-                            for row in rows:
-                                page_md.append("<tr>")
-                                page_md.extend(f"<td>{escape(str(cell))}</td>" for cell in row)
-                                page_md.append("</tr>")
-                            page_md += ["</tbody>", "</table>", ""]
-                        else:
-                            page_md += ['<blockquote class="overture-action-text">', quoted,
-                                        "</blockquote>", ""]
-                    elif text_kind == "editorial_note":
-                        page_md += ["*Source note; not a minutes quotation.*", "",
-                                    f'<p class="overture-action-note">{quoted}</p>', ""]
-                    elif text_kind == "minutes_paraphrase":
-                        page_md += ["*Paraphrase of the minutes; not a quotation.*", "",
-                                    f'<p class="overture-action-note">{quoted}</p>', ""]
-                    elif text_kind == "minutes_note":
-                        page_md += ["*Minutes status note; not a separate Assembly action.*", "",
-                                    f'<p class="overture-action-note">{quoted}</p>', ""]
-                    else:
-                        raise ValueError(f"unsupported overture event text_kind: {text_kind!r}")
-                source_href = source_url or f"../markdown/{source_volume}.md{source_anchor}"
-                page_md += [f"*Source: [{escape(source_label)}]({source_href})*", ""]
-                for support in event.get("supporting_excerpts", []):
-                    support_text = (support.get("action_text") or "").strip()
-                    support_volume = (support.get("source_volume") or vol).strip()
-                    support_page = support.get("source_pdf_page")
-                    support_label = (support.get("source_label") or
-                                     f"{support_volume} PDF p. {support_page}").strip()
-                    support_match = re.search(r"ga(\d+)", support_volume)
-                    support_anchor = (pdf_page_anchor(support_volume, support_page)
-                                      if support_page and support_match else "")
-                    if support_text:
-                        table_html = (render_minutes_table(support_text)
-                                      if support.get("text_kind") == "minutes_table" else None)
-                        page_md += [f"*{escape(support.get('label') or 'Supporting excerpt')}:*", ""]
-                        if table_html:
-                            page_md += ['<div class="overture-action-table-wrap">', table_html,
-                                        "</div>", ""]
-                        else:
-                            quoted_support = "<br>\n".join(escape_minutes_quote(line) for line in support_text.splitlines())
-                            page_md += ['<blockquote class="overture-action-text">', quoted_support,
-                                        "</blockquote>", ""]
-                    page_md += [f"*Source: [{escape(support_label)}]"
-                                f"(../markdown/{support_volume}.md{support_anchor})*", ""]
-                related_page = (event.get("related_page") or "").strip()
-                if related_page:
-                    related_label = (event.get("related_label") or "Related overture").strip()
-                    page_md += [f"*Related record: [{related_label}]({related_page})*", ""]
+            page_md.extend(render_action_events(record_events, vol))
         else:
             page_md += ratnote
             page_md += ([para_clauses(body)] if body_available else
                         ["*The submitted text is not available in the extracted catalogue; "
                          "consult the cited minutes.*"])
+        for group in related_actions.get(record["record_id"], []):
+            group_heading = (group.get("heading") or "Related actions").strip()
+            group_note = (group.get("note") or "").strip()
+            page_md += ["", f"## {escape(group_heading)}", ""]
+            if group_note:
+                page_md += [f"*{escape(group_note)}*", ""]
+            page_md.extend(render_action_events(group.get("events", []), vol))
         related = related_records.get(record["record_id"], [])
         if related:
             page_md += ["", "## Related records", ""]
