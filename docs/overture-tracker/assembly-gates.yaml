@@ -462,11 +462,11 @@
   },
   "52": {
     "roster_reconciled": "verified: 50 distinct GA52 source records match 50 research rows, event bundles, and page-map entries; 569/569 candidates reviewed with zero invalid links or orphan reviews (2026-10-13)",
-    "event_source_audited": "verified: 318 events across 50 GA52 records have unique IDs, continuous sequences, complete printed/PDF locators, and 318/318 resolving Markdown anchors; all 315 excerpts now match contiguous cited Markdown text, including 11 passages spanning pages (2026-10-13)",
-    "build": "passed: full siteBuild -RegenerateOvertures; 10,898 linked HTML files validated (2026-10-13)",
-    "preview_reviewed": "verified: GA52 O27 action trail displays originating Presbytery adoption, committee advice, recommendation, and Assembly vote with source links; page-spanning RUF excerpt displays with corrected word spacing checked against PDF p. 483 (2026-10-13)",
+    "event_source_audited": "verified: 318 events across 50 GA52 records have unique IDs, continuous sequences, complete printed/PDF locators, and 318/318 resolving Markdown anchors; all 315 explicitly typed minutes quotes match contiguous cited Markdown text, including 11 passages spanning pages (2026-10-14)",
+    "build": "passed: full siteBuild -RegenerateOvertures; 10,910 linked HTML files validated and 8,684 indexed pages (2026-10-14; 14m29s)",
+    "preview_reviewed": "verified: GA52 O27 action trail displays originating Presbytery adoption, committee advice, recommendation, and Assembly vote with source links; O6 displays six chronological actions with explicit quote excerpts and source links (2026-10-14)",
     "commit_sha": "8b1d4068186a004b74b751c3165fd235b190f702",
     "pushed": "pushed",
-    "blocker": "19 records remain in progress because their later action or final ratification falls beyond the GA52 minutes currently in the repository."
+    "blocker": "19 records remain in progress: 18 have a GA52 Assembly decision but need a later stage or final ratification; O45 has only the Stated Clerk referral to MNA in GA52, with no MNA or Overtures Committee recommendation or Assembly disposition located in those minutes."
   }
 }
