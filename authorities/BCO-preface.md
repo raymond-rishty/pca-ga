@@ -14,7 +14,7 @@
 | 2006 | CCB advice | structured_provision_tag | structured_provision_tag | medium | [Teaching Approved Exceptions](../inquiries/ga34_2006__ci02.md) | in conflict |
 | 2005 | CCB advice | structured_provision_tag | structured_provision_tag | medium | [Teaching Approved Exceptions](../inquiries/ga33_2005__ci03.md) | in conflict |
 | 2004 | CCB advice | structured_provision_tag | structured_provision_tag | medium | [Subscription and Stating Exceptions to the Standards](../inquiries/ga32_2004__ci05.md) | in conflict |
-| 2025 | Overture | explicit_citation | direct_text | high | [Amend BCO 24-1 to Clarify a Session's Role in Examining Officer Nominees](../markdown/ga52_2025.md#ga52-p1237) | Approved & ratified (2026) |
+| 2025 | Overture | explicit_citation | direct_text | high | [Amend BCO 24-1 to Clarify a Session's Role in Examining Officer Nominees](../markdown/ga52_2025.md#ga52-p1237) | Approved; sent to presbyteries |
 | 2025 | Overture | explicit_citation | direct_text | high | [Amend BCO 24-1 to Require REs and Deacons to State Confessional Differences](../markdown/ga52_2025.md#ga52-p1180) | Approved → sent to presbyteries; ratification not located |
 | 2025 | Overture | explicit_citation | direct_text | high | [Erect Ad Interim Committee to Revise the Directory for Worship for Authoritative Use](../markdown/ga52_2025.md#ga52-p1242) | Adopted as amended |
 | 2025 | Overture | explicit_citation | direct_text | high | [Grant BCO 60-63 Full Constitutional Status](../markdown/ga52_2025.md#ga52-p1172) | Answered by reference to Overture 26 |

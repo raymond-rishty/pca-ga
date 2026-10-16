@@ -8,7 +8,7 @@
 | 1992 | Judicial case | explicit_citation | direct_text | high | [Conrad et al. v. Central Carolina Presbytery. (Case #1)](../cases/ga21_1993__1992-06.md) | administrative |
 | 2021 | CCB advice | structured_provision_tag | structured_provision_tag | medium | [Amend BCO 21 and 24 to Clarify Moral Requirements for Church Office](../inquiries/ga48_2021__ci23.md) | not in conflict; Adopted |
 | 2019 | CCB advice | structured_provision_tag | structured_provision_tag | medium | [5-9.i(1), 7-2, 9-3, 17-3, 24, and Add a Chapter 25 In Order to Allow Local Sessions to Decide Whether Women Are Allowed to Serve as Deacons](../inquiries/ga47_2019__ci17.md) | not in conflict; Adopted by the CCB |
-| 2025 | Overture | explicit_citation | direct_text | high | [Amend BCO 24-1 to Clarify a Session's Role in Examining Officer Nominees](../markdown/ga52_2025.md#ga52-p1237) | Approved & ratified (2026) |
+| 2025 | Overture | explicit_citation | direct_text | high | [Amend BCO 24-1 to Clarify a Session's Role in Examining Officer Nominees](../markdown/ga52_2025.md#ga52-p1237) | Approved; sent to presbyteries |
 | 2022 | Overture | explicit_citation | direct_text | high | [Amend BCO 25-2 to Require Annual Congregational Meeting and Reporting Standards](../markdown/ga49_2022.md#ga49-p1331) | Answered in the negative |
 | 2018 | Overture | explicit_citation | direct_text | high | [Amend BCO 9-7 and Add BCO 24-11 Regarding Women Serving as Deaconesses](../markdown/ga46_2018.md#ga46-p686) | Answered in the negative |
 | 2004 | Overture | explicit_citation | direct_text | high | [Amend BCO 24-3 Regarding Election of Ruling Elders and Deacons](../markdown/ga32_2004.md#ga32-p156) | Approved & ratified (2005) |

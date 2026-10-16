@@ -16,7 +16,7 @@
 | 2019 | CCB advice | structured_provision_tag | structured_provision_tag | medium | [5-9.i(1), 7-2, 9-3, 17-3, 24, and Add a Chapter 25 In Order to Allow Local Sessions to Decide Whether Women Are Allowed to Serve as Deacons](../inquiries/ga47_2019__ci17.md) | not in conflict; Adopted by the CCB |
 | 2017 | CCB advice | structured_provision_tag | structured_provision_tag | medium | [Sabbaticals for Officers in the Church](../inquiries/ga45_2017__ci04.md) | in conflict |
 | 2010 | CCB advice | structured_provision_tag | structured_provision_tag | medium | [Unordained Men and Women Carrying Out Diaconal Ministry](../inquiries/ga38_2010__ci04.md) | in conflict |
-| 2025 | Overture | explicit_citation | direct_text | high | [Amend BCO 24-1 to Clarify a Session's Role in Examining Officer Nominees](../markdown/ga52_2025.md#ga52-p1237) | Approved & ratified (2026) |
+| 2025 | Overture | explicit_citation | direct_text | high | [Amend BCO 24-1 to Clarify a Session's Role in Examining Officer Nominees](../markdown/ga52_2025.md#ga52-p1237) | Approved; sent to presbyteries |
 | 2024 | Overture | multiple | multiple | high | [Amend BCO 7-2 to Specify Ordination for Biological Males Only](../markdown/ga51_2024.md#ga51-p1102) | Answered in the negative |
 | 2018 | Overture | explicit_citation | direct_text | high | [Amend BCO 9-7 and Add BCO 24-11 Regarding Women Serving as Deaconesses](../markdown/ga46_2018.md#ga46-p686) | Answered in the negative |
 | 2018 | Overture | explicit_citation | direct_text | high | [Amend RAO 9-4 to Require Three Ruling Elders on Each Ad Interim Committee](../markdown/ga46_2018.md#ga46-p676) | Answered in the negative |
