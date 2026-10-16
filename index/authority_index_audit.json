@@ -1,6 +1,6 @@
 {
  "schema_version": 2,
- "catalogue_input_fingerprint": "73c531cf390e54ae344f2146cc08c2c85ddfcb58867771cc122937006ad69be0",
+ "catalogue_input_fingerprint": "9addcf05a9f24e115c61c512593ea17c5c16351273c5ead137945d44a0b0a071",
  "provision_count": 1172,
  "relationship_count": 12750,
  "occurrence_count": 16635,
@@ -1280,8 +1280,8 @@
    "primary": 3264
   },
   "Overture": {
-   "candidate": 1526,
-   "primary": 87
+   "candidate": 1518,
+   "primary": 95
   },
   "RPR exception": {
    "candidate": 136,
@@ -1309,9 +1309,9 @@
    "medium": 8201
   },
   "reader_scope": {
-   "candidate": 1662,
+   "candidate": 1654,
    "contextual": 7300,
-   "primary": 3788
+   "primary": 3796
   },
   "match_method": {
    "case_provision_index:case_markdown_text": 940,
@@ -1438,9 +1438,9 @@
    "medium": 8538
   },
   "reader_scope": {
-   "candidate": 2900,
+   "candidate": 2892,
    "contextual": 7544,
-   "primary": 6191
+   "primary": 6199
   },
   "match_method": {
    "case_provision_index:case_markdown_text": 1407,

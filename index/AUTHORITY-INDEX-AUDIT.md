@@ -1,6 +1,6 @@
 # Authority index audit
 
-Catalogue input fingerprint: `73c531cf390e54ae344f2146cc08c2c85ddfcb58867771cc122937006ad69be0`.
+Catalogue input fingerprint: `9addcf05a9f24e115c61c512593ea17c5c16351273c5ead137945d44a0b0a071`.
 
 The catalogue contains 1172 provisions, 12750 relationships, 16635 evidence occurrences, and 96 unmatched source references.
 
@@ -25,8 +25,8 @@ Reader-included relationships by scope:
 | CCB advice | `contextual` | 549 |
 | Constitutional inquiry | `primary` | 437 |
 | Judicial case | `primary` | 3264 |
-| Overture | `candidate` | 1526 |
-| Overture | `primary` | 87 |
+| Overture | `candidate` | 1518 |
+| Overture | `primary` | 95 |
 | RPR exception | `candidate` | 136 |
 | RPR exception | `contextual` | 6751 |
 
@@ -62,9 +62,9 @@ Reader-included relationships by scope:
 
 | Value | Count |
 |-------|------:|
-| `candidate` | 1662 |
+| `candidate` | 1654 |
 | `contextual` | 7300 |
-| `primary` | 3788 |
+| `primary` | 3796 |
 
 ### Relationships by match method
 
@@ -204,9 +204,9 @@ Reader-included relationships by scope:
 
 | Value | Count |
 |-------|------:|
-| `candidate` | 2900 |
+| `candidate` | 2892 |
 | `contextual` | 7544 |
-| `primary` | 6191 |
+| `primary` | 6199 |
 
 ## Unmatched source references
 

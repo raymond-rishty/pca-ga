@@ -12,7 +12,7 @@
 | 2019 | Overture | explicit_citation | direct_text | high | [Establish Study Committee on Domestic Abuse](../markdown/ga47_2019.md#ga47-p639) | Answered by reference to Overture 7 |
 | 2019 | Overture | explicit_citation | direct_text | high | [Establish Study Committee on Domestic Abuse](../markdown/ga47_2019.md#ga47-p657) | Answered by reference to Overture 7 |
 | 2019 | Overture | explicit_citation | direct_text | high | [Form a Study Committee on Domestic Abuse and Sexual Assault](../markdown/ga47_2019.md#ga47-p713) | Answered by reference to Overture 7 |
-| 2019 | Overture | explicit_citation | direct_text | high | [Form a Study Committee on Domestic Abuse and Sexual Assault](../markdown/ga47_2019.md#ga47-p598) | Answered in the affirmative as amended |
+| 2019 | Overture | explicit_citation | direct_text | high | [Form a Study Committee on Domestic Abuse and Sexual Assault](../markdown/ga47_2019.md#ga47-p598) | Adopted as amended |
 | 2019 | Overture | explicit_citation | direct_text | high | [Form Ad Interim Committee to Address Domestic Abuse, Domestic Oppression, and Sexual Assault](../markdown/ga47_2019.md#ga47-p662) | Answered by reference to Overture 7 |
 | 2019 | Overture | explicit_citation | direct_text | high | [Form an Ad Interim Committee on Domestic Abuse and Sexual Assault](../markdown/ga47_2019.md#ga47-p619) | Answered by reference to Overture 7 |
 | 2016 | Overture | explicit_citation | direct_text | high | [Confess Covenantal and Generational Sins During the Civil Rights Period](../markdown/ga44_2016.md#ga44-p610) | Answered by reference to Overture 43 |

@@ -24,6 +24,49 @@ class OvertureOutcomeTests(unittest.TestCase):
         ]}
         self.assertEqual(LINKER.concise_outcome(bundle, "Adopted (final)"), "Answered in the negative")
 
+    def test_adopted_amended_recommendation_uses_minutes_disposition(self):
+        bundle = {"events": [
+            event("committee recommendation", "Recommended an affirmative answer as amended."),
+            event("Assembly adoption", "The Assembly adopted this recommendation in gross."),
+        ]}
+        self.assertEqual(LINKER.concise_outcome(bundle, "Answered in the affirmative as amended"),
+                         "Adopted as amended")
+
+    def test_recommendation_to_amend_and_answer_is_adopted_as_amended(self):
+        bundle = {"events": [
+            event("Assembly committee recommendation, amendment, and answer",
+                  "Recommended a materially revised rule and an affirmative answer.",
+                  "That Overture 24 be amended and answered in the affirmative. Amended Overture 24."),
+            event("Assembly decision", "Adopted the amended rule and answered Overture 24 in the affirmative."),
+        ]}
+        self.assertEqual(LINKER.concise_outcome(bundle, "Amended and answered in the affirmative"),
+                         "Adopted as amended")
+
+    def test_generic_affirmative_label_uses_adopted_amended_recommendation_evidence(self):
+        bundle = {"events": [
+            event("committee recommendation", "Recommended a materially revised rule and an affirmative answer.",
+                  "That Overture 24 be amended and answered in the affirmative. Amended Overture 24."),
+            event("Assembly decision", "Adopted the amended rule and answered Overture 24 in the affirmative."),
+        ]}
+        self.assertEqual(LINKER.concise_outcome(bundle, "Answered in the affirmative"),
+                         "Adopted as amended")
+
+    def test_rejected_amended_recommendation_keeps_negative_disposition(self):
+        bundle = {"events": [
+            event("committee recommendation", "Recommended an affirmative answer as amended."),
+            event("Assembly decision", "Answered in the negative; Minority Report adopted."),
+        ]}
+        self.assertEqual(LINKER.concise_outcome(bundle, "Answered in the affirmative as amended"),
+                         "Answered in the negative")
+
+    def test_amended_reference_response_keeps_reference_disposition(self):
+        bundle = {"events": [
+            event("committee recommendation", "Recommended answering by reference to Overture 16 as amended."),
+            event("Assembly decision", "Adopted as amended; Overture 12 answered by reference to Overture 16."),
+        ]}
+        self.assertEqual(LINKER.concise_outcome(bundle, "Answered in the affirmative as amended"),
+                         "Answered by reference to Overture 16")
+
     def test_reference_answer_is_kept_short_and_specific(self):
         bundle = {"events": [
             event("committee recommendation", "Recommendation to answer by reference to Overture 29."),

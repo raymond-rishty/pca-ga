@@ -14,9 +14,9 @@
 | 2006 | CCB advice | structured_provision_tag | structured_provision_tag | medium | [Teaching Approved Exceptions](../inquiries/ga34_2006__ci02.md) | in conflict |
 | 2005 | CCB advice | structured_provision_tag | structured_provision_tag | medium | [Teaching Approved Exceptions](../inquiries/ga33_2005__ci03.md) | in conflict |
 | 2004 | CCB advice | structured_provision_tag | structured_provision_tag | medium | [Subscription and Stating Exceptions to the Standards](../inquiries/ga32_2004__ci05.md) | in conflict |
-| 2025 | Overture | explicit_citation | direct_text | high | [Amend BCO 24-1 to Clarify a Session's Role in Examining Officer Nominees](../markdown/ga52_2025.md#ga52-p1237) | Final approval reported by GA53 Stated Clerk (2026) |
+| 2025 | Overture | explicit_citation | direct_text | high | [Amend BCO 24-1 to Clarify a Session's Role in Examining Officer Nominees](../markdown/ga52_2025.md#ga52-p1237) | Approved & ratified (2026) |
 | 2025 | Overture | explicit_citation | direct_text | high | [Amend BCO 24-1 to Require REs and Deacons to State Confessional Differences](../markdown/ga52_2025.md#ga52-p1180) | Approved → sent to presbyteries; ratification not located |
-| 2025 | Overture | explicit_citation | direct_text | high | [Erect Ad Interim Committee to Revise the Directory for Worship for Authoritative Use](../markdown/ga52_2025.md#ga52-p1242) | Answered in the affirmative as amended |
+| 2025 | Overture | explicit_citation | direct_text | high | [Erect Ad Interim Committee to Revise the Directory for Worship for Authoritative Use](../markdown/ga52_2025.md#ga52-p1242) | Adopted as amended |
 | 2025 | Overture | explicit_citation | direct_text | high | [Grant BCO 60-63 Full Constitutional Status](../markdown/ga52_2025.md#ga52-p1172) | Answered by reference to Overture 26 |
 | 2024 | Overture | explicit_citation | direct_text | high | [Grant Constitutional Status to BCO 53 Regarding Preaching](../markdown/ga51_2024.md#ga51-p1069) | Answered in the negative |
 | 2022 | Overture | explicit_citation | direct_text | high | [Amend BCO 21-4 and 24-1 Adding Ordination Examination Requirements](../markdown/ga49_2022.md#ga49-p1365) | Approved & ratified (2023) |
@@ -32,7 +32,7 @@
 | 2002 | Overture | explicit_citation | direct_text | high | [Amend BCO 21-4 to Clarify Good Faith Subscription Standards](../markdown/ga30_2002.md#ga30-p233) | Answered by reference |
 | 2002 | Overture | explicit_citation | direct_text | high | [Amend BCO 21-4 to Define Good Faith Subscription and Allowable Exceptions](../markdown/ga30_2002.md#ga30-p236) | Answered by reference |
 | 2002 | Overture | explicit_citation | direct_text | high | [Amend BCO 21-4 to Specify Handling and Recording of Exceptions to Standards](../markdown/ga30_2002.md#ga30-p223) | Answered by reference |
-| 2002 | Overture | explicit_citation | direct_text | high | [Specify Good Faith Subscription (Version 2) in BCO](../markdown/ga30_2002.md#ga30-p221) | Answered in the affirmative as amended |
+| 2002 | Overture | explicit_citation | direct_text | high | [Specify Good Faith Subscription (Version 2) in BCO](../markdown/ga30_2002.md#ga30-p221) | Adopted as amended |
 | 2002 | Overture | explicit_citation | direct_text | high | [Specify Good Faith Subscription (Version 3) in BCO](../markdown/ga30_2002.md#ga30-p226) | Answered by reference |
 | 2002 | Overture | explicit_citation | direct_text | high | [Specify Good Faith Subscription (Version 4) in BCO](../markdown/ga30_2002.md#ga30-p228) | Answered by reference |
 | 1999 | Overture | explicit_citation | direct_text | high | [Amend RAO 15-1 and BCO 39-3 to Reference Scripture in SJC Judge Vows](../markdown/ga27_1999.md#ga27-p159) | Answered in the negative |

@@ -10,12 +10,24 @@ class OvertureTaxonomyTests(unittest.TestCase):
         self.assertEqual(result["instrument"], "BCO")
         self.assertEqual(result["bco_stage"], "Presbytery review recorded")
 
-    def test_struck_bco_amendment_has_no_presbytery_ratification_stage(self):
+    def test_curated_bco_stage_survives_concise_amended_disposition(self):
         result = classify(
             "Amend BCO 13-6 and 21-4",
-            "Encouraged Presbyteries and Sessions to Adopt Policies; BCO amendments not sent down",
+            "Adopted as amended",
+            bco_stage_override="Not sent down for ratification",
         )
         self.assertEqual(result["bco_stage"], "Not sent down for ratification")
+
+    def test_reported_final_assembly_approval_is_not_left_unclear(self):
+        result = classify(
+            "Amend BCO 18-2 to Allow Flexibility on Applications to Come Under Care",
+            "Final approval reported by GA53 Stated Clerk (2026)",
+        )
+        self.assertEqual(result["bco_stage"], "Ratification or enactment recorded")
+
+    def test_failed_bco_ratification_is_visible_as_final_stage(self):
+        result = classify("Amend BCO 15-5.c", "Approved but not ratified (2026)")
+        self.assertEqual(result["bco_stage"], "Not ratified")
 
     def test_adopted_report_amended_is_not_an_amendment_type(self):
         result = classify("Appoint a committee to study ministerial training", "Committee report adopted as amended")

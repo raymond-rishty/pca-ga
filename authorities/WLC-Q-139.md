@@ -13,7 +13,7 @@
 | 2022 | Overture | explicit_citation | direct_text | high | [Commend the Human Sexuality Report for Study, Examination, and Conciliation](../markdown/ga49_2022.md#ga49-p1372) | Answered by reference to Overture 29 |
 | 2022 | Overture | explicit_citation | direct_text | high | [Commend the Human Sexuality Report for Study, Examination, and Conciliation](../markdown/ga49_2022.md#ga49-p1377) | Answered by reference to Overture 29 |
 | 2021 | Overture | explicit_citation | direct_text | high | [Amend BCO 17 to Prohibit Ordination of Men Who Self-Identify as Gay Christians](../markdown/ga48_2021.md#ga48-p1020) | Approved but not ratified |
-| 2014 | Overture | explicit_citation | direct_text | high | [Adopt Child Protection Measures in the PCA](../markdown/ga42_2014.md#ga42-p800) | Adopted |
+| 2014 | Overture | explicit_citation | direct_text | high | [Adopt Child Protection Measures in the PCA](../markdown/ga42_2014.md#ga42-p800) | Adopted as amended |
 | 2014 | Overture | explicit_citation | direct_text | high | [Exhort Church Leaders to Actively Prevent Child Sexual Abuse](../markdown/ga42_2014.md#ga42-p838) | Answered by reference to Overture 6 |
 
 ---

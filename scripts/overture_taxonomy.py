@@ -8,7 +8,7 @@ from __future__ import annotations
 import re
 
 
-def classify(title: str, outcome: str = "") -> dict[str, str]:
+def classify(title: str, outcome: str = "", bco_stage_override: str = "") -> dict[str, str]:
     text = re.sub(r"\s+", " ", title).strip()
     low = text.lower()
     process_text = f"{title} {outcome}"
@@ -54,7 +54,10 @@ def classify(title: str, outcome: str = "") -> dict[str, str]:
         kind = "Other or unclear request"
 
     if kind == "Amendment" and instrument == "BCO":
-        if re.search(r"\b(two-thirds|2/3).{0,100}\bpresbyter", process_text, re.I) or re.search(r"\b(enacted|ratified)\b", process_text, re.I):
+        if re.search(r"\bnot ratified\b|\bconcurrence was not received\b|\bfailed to receive.{0,80}presbyter", process_text, re.I):
+            stage = "Not ratified"
+        elif (re.search(r"\b(two-thirds|2/3).{0,100}\bpresbyter", process_text, re.I)
+                or re.search(r"\b(enacted|ratified|final approval|final adoption)\b", process_text, re.I)):
             stage = "Ratification or enactment recorded"
         elif re.search(r"\bamendments?\b.{0,60}\bnot sent (?:down )?(?:to presbyteries|for ratification)?\b|\bnot sent (?:down )?for ratification\b", process_text, re.I):
             stage = "Not sent down for ratification"
@@ -66,6 +69,8 @@ def classify(title: str, outcome: str = "") -> dict[str, str]:
             stage = "BCO amendment; stage unclear"
     else:
         stage = "—"
+    if bco_stage_override:
+        stage = bco_stage_override
 
     topics = []
     topic_rules = [

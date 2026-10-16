@@ -29,6 +29,14 @@ def _needs_outcome_projection(current):
     if value.startswith("committee report adopted as amended"):
         # The amendment to the report may have changed the answer itself.
         return False
+    if value in {
+        "answered in the affirmative",
+        "answered in the affirmative as amended",
+        "answered in the affirmative, adopted as amended",
+        "amended and answered in the affirmative",
+        "approved (amended)",
+    }:
+        return True
     if re.search(r"\b(answered|negative|affirmative|by reference|referred|returned|withdrawn|approved|ratified|defeated|moot|out of order|unconstitutional)\b", value):
         if re.search(r"\bas recommended\b", value) and re.search(r"\badopted\b", value):
             return True
@@ -46,6 +54,34 @@ def _needs_outcome_projection(current):
 def _recommendation_outcome(bundle):
     """Infer an overture-level result only from its adopted recommendation text."""
     events = bundle.get("events", [])
+
+    def adopted_amended_recommendation():
+        """Use the Assembly's adopted-as-amended wording for amended committee actions."""
+        recommendations = [event for event in events
+                           if "recommendation" in (event.get("phase") or "").lower()]
+        amended_recommendation = any(re.search(
+            r"\b(?:as amended|with (?:an )?amendment|amended version|amended response|amended recommendation|"
+            r"amended overture|amended answer|revised response|revised rule)\b|"
+            r"\b(?:overture|recommendation|answer|response)\b.{0,80}\b(?:amended|revised)\b|"
+            r"\b(?:be )?amended and answered\b",
+            " ".join((event.get("outcome") or "", event.get("action_text") or "")), re.I,
+        ) for event in recommendations)
+        if not amended_recommendation:
+            return False
+        assembly_events = [event for event in events
+                           if "assembly" in (event.get("phase") or "").lower()
+                           and not re.search(r"deferral|referral|implementation|procedural",
+                                             event.get("phase") or "", re.I)]
+        for event in reversed(assembly_events):
+            text = " ".join((event.get("heading") or "", event.get("outcome") or "",
+                             event.get("action_text") or ""))
+            if re.search(r"\b(?:defeated|failed to (?:receive|pass)|not adopted|answered in the negative|negative answer|moot)\b", text, re.I):
+                return False
+            if re.search(r"\bby reference\b", text, re.I):
+                return False
+            if re.search(r"\b(?:adopted|approved|affirmative answer|affirmatively)\b", text, re.I):
+                return True
+        return False
 
     def summarize(text):
         text = re.sub(r"\s+", " ", (text or "")).strip()
@@ -108,8 +144,12 @@ def _recommendation_outcome(bundle):
         # lists. Use the curated event outcome here; recommendation text below
         # is linked to this overture and can supply the answer when needed.
         label = summarize(event.get("outcome", ""))
+        if label.startswith("Answered in the affirmative") and adopted_amended_recommendation():
+            return "Adopted as amended"
         if label and label not in {"Adopted", "Adopted as amended"}:
             return label
+        if adopted_amended_recommendation():
+            return "Adopted as amended"
 
     # A generic Assembly adoption often points to the Committee of Commissioners'
     # report. Prefer that recommendation when both permanent and commissioner
@@ -144,6 +184,8 @@ def _recommendation_outcome(bundle):
             # have more than one kind of answer; keep the curated summary.
             return ""
     if inferred and len(set(inferred)) == 1:
+        if inferred[0] == "Answered in the affirmative as amended" and adopted_amended_recommendation():
+            return "Adopted as amended"
         return inferred[0]
     return ""
 
@@ -322,11 +364,28 @@ def action_dispositions():
     return dispositions
 
 
+def catalogue_bco_stage_overrides():
+    """Read page-occurrence keyed BCO stage decisions from reviewed corrections."""
+    path = os.path.join(ROOT, "index", "overture_catalogue_corrections.jsonl")
+    if not os.path.exists(path):
+        return {}
+    overrides = {}
+    with open(path, encoding="utf-8") as stream:
+        for raw in stream:
+            if not raw.strip():
+                continue
+            row = json.loads(raw)
+            if row.get("action") == "include" and row.get("record_id") and row.get("bco_stage"):
+                overrides[row["record_id"]] = row["bco_stage"]
+    return overrides
+
+
 def main():
     if not (os.path.exists(CAT) and os.path.exists(MAP)):
         print(f"[{ROOT}] OVERTURES.md or map missing — skip"); return
     pmap = json.load(open(MAP))
     action_summary_by_id = action_dispositions()
+    bco_stage_overrides = catalogue_bco_stage_overrides()
     vol = None; linked = 0; filled = 0; compacted = 0
     taxonomy_added = 0; taxonomy_updated = 0
     out = []
@@ -358,12 +417,12 @@ def main():
                     if was_blank and cells[2].strip():
                         filled += 1
                 if len(cells) == 5:
-                    facets = classify(cells[1], cells[2])
+                    facets = classify(cells[1], cells[2], bco_stage_overrides.get(record_id, ""))
                     cells.extend([facets["type"], facets["instrument"], facets["topic"], facets["bco_stage"]])
                     line = "| " + " | ".join(cells) + " |"
                     taxonomy_added += 1
                 elif len(cells) >= 9:
-                    facets = classify(cells[1], cells[2])
+                    facets = classify(cells[1], cells[2], bco_stage_overrides.get(record_id, ""))
                     cells[5:9] = [facets["type"], facets["instrument"], facets["topic"], facets["bco_stage"]]
                     line = "| " + " | ".join(cells) + " |"
                     taxonomy_updated += 1
