@@ -597,8 +597,25 @@
   }
 
   function catalogueCellText(cell) {
-    return cell ? cell.textContent.replace(/\s+/g, ' ').trim() : '';
+    if (!cell) return '';
+    const copy = cell.cloneNode(true);
+    copy.querySelectorAll('.result-actions').forEach((item) => item.remove());
+    return copy.textContent.replace(/\s+/g, ' ').trim();
   }
+
+  function overtureDispositionFilter(value) {
+    const text = String(value || '').toLocaleLowerCase();
+    if (!text) return 'unrecorded';
+    if (/negative|denied|declined|rejected|not adopted|failed|defeated|not sustained/.test(text)) return 'negative';
+    if (/affirmative|adopted|approved|ratified|sustained|affirmed/.test(text)) return 'approved';
+    if (/referred|received|continued|carried over|pending|deferred|recommitted|moot/.test(text)) return 'referred';
+    return 'other';
+  }
+
+  const OVERTURE_DISPOSITION_LABELS = {
+    approved: 'Approved / affirmative', negative: 'Negative / declined',
+    referred: 'Referred / pending', other: 'Other recorded outcome', unrecorded: 'No outcome recorded',
+  };
 
   function catalogueDigestCitation(numberText, sourceCell) {
     const sourceAnchor = sourceCell?.querySelector('a[href]');
@@ -626,7 +643,7 @@
   }
 
   function catalogueDispositionClass(value) {
-    if (/conflict|denied|declined|negative|rejected|not sustained/.test(value)) return 'catalogue-record__badge--negative';
+    if (/conflict|denied|declined|negative|rejected|not sustained|not adopted|failed|defeated/.test(value)) return 'catalogue-record__badge--negative';
     if (/adopted|approved|answered|sustained|affirmed|in accord/.test(value)) return 'catalogue-record__badge--positive';
     if (/referred|received|continued|pending|moot/.test(value)) return 'catalogue-record__badge--neutral';
     return '';
@@ -667,11 +684,11 @@
     const synopsisCell = catalogueCell(cells, labels, /^synopsis$/);
     const provisionsCell = catalogueCell(cells, labels, /^provisions?$/);
     const outcomeCell = catalogueCell(cells, labels, /^(outcome|disposition)$/);
-    const fromCell = catalogueCell(cells, labels, /^(from|originating|source body)$/);
+    const fromCell = catalogueCell(cells, labels, variant === 'overture' ? /^source$/ : /^(from|originating|source body)$/);
     const assemblyCell = catalogueCell(cells, labels, /^assembly$/);
     const typeCell = catalogueCell(cells, labels, /^type$/);
     const provenanceCell = catalogueCell(cells, labels, /^provenance$/);
-    const sourceCell = catalogueCell(cells, labels, /^(minutes|source)$/);
+    const sourceCell = catalogueCell(cells, labels, variant === 'overture' ? /^pages?$/ : /^(minutes|source)$/);
     const numberText = catalogueCellText(numberCell);
     const titleText = catalogueCellText(titleCell);
     const synopsisText = catalogueCellText(synopsisCell);
@@ -680,12 +697,16 @@
     const statusText = variant === 'study'
       ? outcomeText.replace(/\s*\([^)]*\)\s*$/, '')
       : outcomeText;
-    const primaryAnchor = titleCell?.querySelector('a[href]');
+    const primaryAnchor = variant === 'overture'
+      ? numberCell?.querySelector('a[href]') || titleCell?.querySelector('a[href]')
+      : titleCell?.querySelector('a[href]');
     const sourceAnchor = sourceCell?.querySelector('a[href]');
     const record = document.createElement('article');
     record.className = 'catalogue-record catalogue-record--' + variant;
     record.dataset.catalogueRecord = '';
-    record.dataset.catalogueStatus = statusText.toLocaleLowerCase();
+    record.dataset.catalogueStatus = variant === 'overture'
+      ? overtureDispositionFilter(statusText)
+      : statusText.toLocaleLowerCase();
     record.dataset.searchText = [
       groupLabel, numberText, titleText, synopsisText, catalogueCellText(provisionsCell),
       outcomeText, catalogueCellText(fromCell), catalogueCellText(assemblyCell),
@@ -712,6 +733,11 @@
       assembly.className = 'catalogue-record__eyebrow-context';
       assembly.textContent = [typeText, assemblyLabel].filter(Boolean).join(' · ');
       eyebrow.append(assembly);
+    } else if (variant === 'overture' && groupLabel) {
+      const group = document.createElement('span');
+      group.className = 'catalogue-record__eyebrow-context';
+      group.textContent = groupLabel;
+      eyebrow.append(group);
     } else if (groupLabel) {
       const group = document.createElement('span');
       group.className = 'catalogue-record__eyebrow-context';
@@ -721,7 +747,7 @@
     if (numberText) {
       const number = document.createElement('span');
       number.className = 'catalogue-record__eyebrow-id';
-      number.textContent = numberText;
+      number.textContent = variant === 'overture' ? `Overture ${numberText}` : numberText;
       eyebrow.append(number);
     }
     main.append(eyebrow);
@@ -734,7 +760,7 @@
     const resultCitation = variant === 'study' ? '' : catalogueDigestCitation(numberText, sourceCell);
     record.dataset.resultItem = '';
     record.dataset.resultTitle = resultTitle;
-    record.dataset.resultType = variant === 'study' ? 'Study report' : variant === 'ccb' ? 'CCB advice' : 'Constitutional inquiry';
+    record.dataset.resultType = variant === 'overture' ? 'Overture' : variant === 'study' ? 'Study report' : variant === 'ccb' ? 'CCB advice' : 'Constitutional inquiry';
     if (resultCitation) record.dataset.resultCitation = resultCitation;
     const resultPrimary = title.querySelector('a[href]');
     if (resultPrimary) {
@@ -770,20 +796,40 @@
     } else {
       const statusLabel = document.createElement('span');
       statusLabel.className = 'catalogue-record__status-label';
-      statusLabel.textContent = 'Disposition';
+      statusLabel.textContent = variant === 'overture' ? 'Assembly action' : 'Disposition';
       status.append(statusLabel);
     }
     if (statusText) {
       const badge = document.createElement('span');
-      badge.className = ('catalogue-record__badge ' + catalogueDispositionClass(statusText)).trim();
+      badge.className = ('catalogue-record__badge ' + catalogueDispositionClass(statusText) + (variant === 'overture' ? ' catalogue-record__badge--overture' : '')).trim();
       badge.textContent = statusText;
+      status.append(badge);
+    } else if (variant === 'overture') {
+      const badge = document.createElement('span');
+      badge.className = 'catalogue-record__badge catalogue-record__badge--unrecorded';
+      badge.textContent = 'No outcome recorded';
       status.append(badge);
     }
     if (status.children.length) main.append(status);
 
     const meta = document.createElement('div');
     meta.className = 'catalogue-record__meta';
-    if (variant !== 'study') {
+    if (variant === 'overture') {
+      catalogueMeta(meta, 'From', catalogueCellText(fromCell));
+      if (sourceCell) {
+        const item = document.createElement('span');
+        item.className = 'catalogue-record__meta-item catalogue-record__meta-pages';
+        const label = document.createElement('span');
+        label.className = 'catalogue-record__meta-label';
+        label.textContent = 'Minutes';
+        item.append(label);
+        sourceCell.querySelectorAll('a[href]').forEach((anchor, index) => {
+          if (index) item.append(document.createTextNode(', '));
+          item.append(catalogueAction(anchor, anchor.textContent.trim(), false));
+        });
+        if (sourceCell.querySelector('a[href]')) meta.append(item);
+      }
+    } else if (variant !== 'study') {
       catalogueMeta(meta, 'Provisions', catalogueCellText(provisionsCell));
       catalogueMeta(meta, 'From', catalogueCellText(fromCell));
     }
@@ -791,8 +837,14 @@
 
     const rail = document.createElement('aside');
     rail.className = 'catalogue-record__rail';
-    const primaryLabel = variant === 'ccb' ? 'Read advice' : variant === 'study' ? 'Read report' : 'Read inquiry';
+    const primaryLabel = variant === 'overture' ? 'Read overture' : variant === 'ccb' ? 'Read advice' : variant === 'study' ? 'Read report' : 'Read inquiry';
     const primary = catalogueAction(primaryAnchor, primaryLabel, true);
+    if (primary) {
+      primary.dataset.resultPrimary = '';
+      primary.dataset.resultTitle = resultTitle;
+      primary.dataset.resultType = record.dataset.resultType;
+      if (resultCitation) primary.dataset.resultCitation = resultCitation;
+    }
     if (primary) rail.append(primary);
     if (sourceAnchor) {
       const sourceLabel = variant === 'study'
@@ -811,7 +863,9 @@
     const root = document.querySelector('.reading-col--catalogue-index:not(.reading-col--case-index)');
     if (!root) return;
     const path = location.pathname;
-    const variant = /\/index\/CCB-OVERTURE-ADVICE\.html$/i.test(path)
+    const variant = /\/index\/OVERTURES\.html$/i.test(path)
+      ? 'overture'
+      : /\/index\/CCB-OVERTURE-ADVICE\.html$/i.test(path)
       ? 'ccb'
       : /\/index\/INQUIRIES\.html$/i.test(path)
         ? 'inquiry'
@@ -899,19 +953,26 @@
 
     const toolbar = document.createElement('div');
     toolbar.className = 'catalogue-tools';
+    const isOvertureCatalogue = /\/index\/OVERTURES\.html$/i.test(location.pathname);
+    if (isOvertureCatalogue) toolbar.classList.add('catalogue-tools--overture');
     toolbar.setAttribute('role', 'search');
-    const placeholder = usesCards
+    const placeholder = isOvertureCatalogue
+      ? 'Search subject, outcome, presbytery, or source page'
+      : usesCards
       ? (cardRecords.some((record) => record.classList.contains('catalogue-record--study'))
         ? 'Search title, topic, type, or source'
         : 'Search subject, synopsis, provision, or source')
       : 'Search title, subject, provision, or source';
-    toolbar.innerHTML = '<div class="catalogue-tools__field"><label for="catalogueSearch">Search this catalogue</label><input id="catalogueSearch" type="search" placeholder="' + placeholder + '" autocomplete="off"></div><div class="catalogue-tools__field"><label for="catalogueStatus">Filter by status</label><select id="catalogueStatus"><option value="">All statuses</option></select></div><output id="catalogueResultCount" aria-live="polite"></output>';
+    toolbar.innerHTML = '<div class="catalogue-tools__field"><label for="catalogueSearch">Search this catalogue</label><input id="catalogueSearch" type="search" placeholder="' + placeholder + '" autocomplete="off"></div>'
+      + (isOvertureCatalogue ? '<div class="catalogue-tools__field"><label for="catalogueAssembly">Jump to Assembly</label><select id="catalogueAssembly"><option value="">Choose an Assembly…</option></select></div>' : '')
+      + '<div class="catalogue-tools__field"><label for="catalogueStatus">' + (isOvertureCatalogue ? 'Filter by action' : 'Filter by status') + '</label><select id="catalogueStatus"><option value="">' + (isOvertureCatalogue ? 'All action types' : 'All statuses') + '</option></select></div><output id="catalogueResultCount" aria-live="polite"></output>';
     const insertionPoint = root.querySelector('h2, h3, table, .catalogue-records');
     insertionPoint?.before(toolbar);
     if (!insertionPoint) return;
 
     const search = toolbar.querySelector('#catalogueSearch');
     const status = toolbar.querySelector('#catalogueStatus');
+    const assemblyJump = toolbar.querySelector('#catalogueAssembly');
     const count = toolbar.querySelector('#catalogueResultCount');
     const statusIndex = tables.map((table) => {
       const header = table.tHead?.rows[0] || table.rows[0];
@@ -931,11 +992,13 @@
         const rowStatus = cellIndex >= 0 ? row.cells[cellIndex]?.textContent.trim().toLocaleLowerCase() : '';
         return { row, text, rowStatus };
       });
-    const statuses = new Set(rowRecords.map(({ rowStatus }) => rowStatus).filter(Boolean));
+    const statuses = isOvertureCatalogue
+      ? new Set(Object.keys(OVERTURE_DISPOSITION_LABELS).filter((key) => rowRecords.some(({ rowStatus }) => rowStatus === key)))
+      : new Set(rowRecords.map(({ rowStatus }) => rowStatus).filter(Boolean));
     [...statuses].sort((a, b) => a.localeCompare(b)).forEach((value) => {
       const option = document.createElement('option');
       option.value = value.toLocaleLowerCase();
-      option.textContent = value;
+      option.textContent = isOvertureCatalogue ? OVERTURE_DISPOSITION_LABELS[value] : value;
       status.append(option);
     });
     status.hidden = statuses.size < 2;
@@ -953,6 +1016,34 @@
         while (heading && !/^H[23]$/.test(heading.tagName)) heading = heading.previousElementSibling;
         return { scroller, heading };
       });
+    if (assemblyJump) {
+      groups.forEach(({ heading }) => {
+        if (!heading?.matches('h2')) return;
+        const option = document.createElement('option');
+        option.value = heading.id;
+        option.textContent = heading.textContent.replace(/\s+/g, ' ').trim().split('·')[0].trim();
+        assemblyJump.append(option);
+      });
+    }
+    const syncCatalogueUrl = () => {
+      const url = new URL(location.href);
+      if (search.value.trim()) url.searchParams.set('q', search.value.trim());
+      else url.searchParams.delete('q');
+      if (status.value) url.searchParams.set('action', status.value);
+      else url.searchParams.delete('action');
+      if (assemblyJump?.value) url.searchParams.set('ga', assemblyJump.value);
+      else url.searchParams.delete('ga');
+      history.replaceState({}, '', `${url.pathname}${url.search}${url.hash}`);
+    };
+    if (isOvertureCatalogue) {
+      const initialUrl = new URL(location.href);
+      if (initialUrl.searchParams.has('q')) search.value = initialUrl.searchParams.get('q');
+      if (initialUrl.searchParams.has('action')) status.value = initialUrl.searchParams.get('action');
+      if (initialUrl.searchParams.has('ga')) {
+        const match = groups.find(({ heading }) => heading?.id === initialUrl.searchParams.get('ga'));
+        if (match?.heading) assemblyJump.value = match.heading.id;
+      }
+    }
     const update = () => {
       const query = search.value.toLocaleLowerCase().trim();
       const selectedStatus = status.value;
@@ -969,11 +1060,17 @@
         scroller.hidden = !hasVisible;
         if (heading) heading.hidden = !hasVisible;
       });
-      count.textContent = `${visible} ${visible === 1 ? 'record' : 'records'}`;
+      const itemLabel = isOvertureCatalogue ? 'overtures' : 'records';
+      count.textContent = `${visible} ${visible === 1 ? itemLabel.slice(0, -1) : itemLabel}`;
     };
-    search.addEventListener('input', update);
-    status.addEventListener('change', update);
+    search.addEventListener('input', () => { update(); if (isOvertureCatalogue) syncCatalogueUrl(); });
+    status.addEventListener('change', () => { update(); if (isOvertureCatalogue) syncCatalogueUrl(); });
+    assemblyJump?.addEventListener('change', () => {
+      syncCatalogueUrl();
+      if (assemblyJump.value) document.getElementById(assemblyJump.value)?.scrollIntoView({ behavior: scrollBehavior(), block: 'start' });
+    });
     update();
+    if (assemblyJump?.value) document.getElementById(assemblyJump.value)?.scrollIntoView({ behavior: 'auto', block: 'start' });
   }
   function enhanceJudicialCatalogue() {
     const catalogue = document.getElementById('judicialCatalogue');
