@@ -9,8 +9,8 @@
 | 1999 | Constitutional inquiry | structured_provision_tag | structured_provision_tag | medium | [Authority to Sell Church Property](../inquiries/ga27_1999__ci01.md) | advice given |
 | 2025 | CCB advice | structured_provision_tag | structured_provision_tag | medium | [Amend RAO 16 to Require Reporting on Session and Diaconate Membership and Duties](../inquiries/ga52_2025__ci25.md) | in conflict; Adopted 8-0-0 |
 | 2010 | CCB advice | structured_provision_tag | structured_provision_tag | medium | [Unordained Men and Women Carrying Out Diaconal Ministry](../inquiries/ga38_2010__ci04.md) | in conflict |
-| 2018 | Overture | explicit_citation | direct_text | high | [Address the Unordained Diaconate](../markdown/ga46_2018.md#ga46-p723) |  |
-| 1986 | Overture | explicit_citation | direct_text | high | [Clarify the Proper Scope of Diaconal Ministry](../markdown/ga14_1986.md#ga14-p58) |  |
+| 2018 | Overture | explicit_citation | direct_text | high | [Address the Unordained Diaconate](../markdown/ga46_2018.md#ga46-p723) | Answered Overture 25 in the negative. |
+| 1986 | Overture | explicit_citation | direct_text | high | [Clarify the Proper Scope of Diaconal Ministry](../markdown/ga14_1986.md#ga14-p58) | Referred for study; no explicit answer located |
 | 1982 | Overture | explicit_citation | direct_text | high | [Amend BCO 25-6 and 25-7 to Permit Trustees to Assume Deacon Administrative Duties](../markdown/ga10_1982.md#ga10-p47) | Answered in the negative |
 | 2010 | RPR exception | structured_exception_tag | structured_provision_tag | medium | [Metro Atlanta: (In reference to practice #5 of the resolution) Given the means of selection (election by](../rpr/exc/metro-atlanta__019.html) | raised |
 | 2010 | RPR exception | structured_exception_tag | structured_provision_tag | medium | [Metro Atlanta: (In reference to practice #6 of the resolution) This practice again denies the BCO provisi](../rpr/exc/metro-atlanta__020.html) | raised |

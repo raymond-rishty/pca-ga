@@ -4,7 +4,7 @@
 
 | Year | Record type | Relationship | Evidence | Confidence | Title | Disposition |
 |------|-------------|--------------|----------|------------|-------|-------------|
-| 2023 | Overture | explicit_citation | direct_text | high | [Petition Government to End Sex-Change Procedures for Minors](../markdown/ga50_2023.md#ga50-p997) | Adopted (final) |
+| 2023 | Overture | explicit_citation | direct_text | high | [Petition Government to End Sex-Change Procedures for Minors](../markdown/ga50_2023.md#ga50-p997) | Adopted as amended |
 
 ---
 *[← Authority Index](../index/AUTHORITY-BY-PROVISION.md)*

@@ -4,7 +4,7 @@
 
 | Year | Record type | Relationship | Evidence | Confidence | Title | Disposition |
 |------|-------------|--------------|----------|------------|-------|-------------|
-| 1993 | Overture | explicit_citation | direct_text | high | [Spread Memorial Calling PCA to Fidelity to Its Founding Declarations](../markdown/ga21_1993.md#ga21-p150) |  |
+| 1993 | Overture | explicit_citation | direct_text | high | [Spread Memorial Calling PCA to Fidelity to Its Founding Declarations](../markdown/ga21_1993.md#ga21-p150) | Answered in the affirmative |
 
 ---
 *[← Authority Index](../index/AUTHORITY-BY-PROVISION.md)*

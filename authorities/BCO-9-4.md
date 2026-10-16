@@ -7,7 +7,7 @@
 | 2023 | Judicial case | explicit_citation | direct_text | high | [Wilson et al. v. Pacific Northwest Presbytery](../cases/ga50_2023__2022-20.md) | dismissed |
 | 2011 | Judicial case | structured_case_reference | structured_case_metadata | medium | [Brown v. Northern California Presbytery](../cases/ga39_2011__2009-25_2009-26.md) | sustained |
 | 1987 | Constitutional inquiry | structured_provision_tag | structured_provision_tag | medium | [Deacons delegating the treasurer role to a non-deacon congregation member](../inquiries/ga15_1987__ci07.md) | advice given |
-| 2018 | Overture | explicit_citation | direct_text | high | [Address the Unordained Diaconate](../markdown/ga46_2018.md#ga46-p723) |  |
+| 2018 | Overture | explicit_citation | direct_text | high | [Address the Unordained Diaconate](../markdown/ga46_2018.md#ga46-p723) | Answered Overture 25 in the negative. |
 | 1991 | Overture | multiple | multiple | high | [Declare Ordination of Deaconesses a Violation of BCO 9-4, 9-7, and 17-2](../markdown/ga19_1991.md#ga19-p173) | No action under RAO 10-10; Northeast Presbytery had not acted |
 | 1981 | Overture | proposal_target | title_subject_reference | high | [Amend BCO 9-4 to Clarify Election of the Board of Deacons Treasurer](../markdown/ga09_1981.md#ga09-p47) | Approved → sent to presbyteries; ratification not located |
 

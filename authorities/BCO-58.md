@@ -4,7 +4,7 @@
 
 | Year | Record type | Relationship | Evidence | Confidence | Title | Disposition |
 |------|-------------|--------------|----------|------------|-------|-------------|
-| 1994 | Overture | explicit_citation | direct_text | high | [Amend BCO 58 to Specify Who May Distribute the Lord's Supper](../markdown/ga22_1994.md#ga22-p249) |  |
+| 1994 | Overture | explicit_citation | direct_text | high | [Amend BCO 58 to Specify Who May Distribute the Lord's Supper](../markdown/ga22_1994.md#ga22-p249) | Adopted |
 | 2011 | RPR exception | structured_exception_tag | structured_provision_tag | medium | [Ohio Valley: Presbytery approved practice of TEs administering communion via web video conferencing for](../rpr/exc/ohio-valley__019.html) | satisfactory |
 
 ---

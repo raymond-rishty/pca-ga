@@ -8,7 +8,7 @@
 | 2022 | Judicial case | explicit_citation | direct_text | high | [Gordon v. Southern New England Presbytery](../cases/ga49_2022__2020-06.md) | denied |
 | 2012 | Judicial case | explicit_citation | direct_text | high | [Jennings v. North Florida Presbytery](../cases/ga40_2012__2011-09.md) | sustained |
 | 2007 | Judicial case | explicit_citation | direct_text | high | [Michael Chastain v. Heritage Presbytery](../cases/ga35_2007__2006-07.md) | out_of_order |
-| 1992 | Overture | explicit_citation | direct_text | high | [Amend BCO 37-4 to Apply Restoration Process to Presbyteries](../markdown/ga20_1992.md#ga20-p120) |  |
+| 1992 | Overture | explicit_citation | direct_text | high | [Amend BCO 37-4 to Apply Restoration Process to Presbyteries](../markdown/ga20_1992.md#ga20-p120) | Adopted |
 | 1989 | Overture | explicit_citation | direct_text | high | [Amend BCO 37-3 to Apply to Presbyteries as Well as Sessions](../markdown/ga17_1989.md#ga17-p168) | Revised BCO amendment enacted at GA22 after related Delmarva referral |
 
 ---

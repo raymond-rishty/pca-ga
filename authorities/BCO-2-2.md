@@ -9,15 +9,15 @@
 | 2021 | Judicial case | explicit_citation | direct_text | high | [Gendy v. Central Florida Presbytery](../cases/ga48_2021__2019-13.md) | sustained |
 | 2009 | Constitutional inquiry | structured_provision_tag | structured_provision_tag | medium | [Whether the Beliefs of a Non-PCA Body Satisfy BCO 2](../inquiries/ga37_2009__ci05.md) | advice given |
 | 1997 | CCB advice | structured_provision_tag | structured_provision_tag | medium | [BCO 38-3 - Removing Members from the Roll](../inquiries/ga25_1997__ci05.md) | advice given |
-| 2012 | Overture | explicit_citation | direct_text | high | [Amend BCO 38-3a, 46-6, 46-7, and Remove BCO 57-6 on Church Membership Transfer](../markdown/ga40_2012.md#ga40-p735) |  |
+| 2012 | Overture | explicit_citation | direct_text | high | [Amend BCO 38-3a, 46-6, 46-7, and Remove BCO 57-6 on Church Membership Transfer](../markdown/ga40_2012.md#ga40-p735) | Answered in the negative |
 | 2012 | Overture | explicit_citation | direct_text | high | [Amend BCO 6 Regarding Methods of Joining a Particular Church](../markdown/ga40_2012.md#ga40-p733) | Answered in the negative |
 | 2000 | Overture | explicit_citation | direct_text | high | [Amend BCO 38-4 by Deletion](../markdown/ga28_2000.md#ga28-p297) | Answered in the negative |
-| 1998 | Overture | explicit_citation | direct_text | high | [Commend Dr. Paul Gilchrist for Exemplary Service as Stated Clerk](../markdown/ga26_1998.md#ga26-p54) |  |
-| 1996 | Overture | explicit_citation | direct_text | high | [Amend BCO 38-3 Regarding Renouncing Church Membership](../markdown/ga24_1996.md#ga24-p311) |  |
-| 1996 | Overture | explicit_citation | direct_text | high | [Amend BCO 46-5, 38-2 & 38-3 on Member Roll Removal & Discipline](../markdown/ga24_1996.md#ga24-p298) |  |
-| 1996 | Overture | explicit_citation | direct_text | high | [Amend BCO by Striking 46-5 and Adding New BCO 38-2 and 46-2](../markdown/ga24_1996.md#ga24-p303) |  |
-| 1996 | Overture | explicit_citation | direct_text | high | [Delete BCO 46-5 and Amend BCO 38 and 46-2 on Church Membership](../markdown/ga24_1996.md#ga24-p297) |  |
-| 1995 | Overture | explicit_citation | direct_text | high | [Consider Alternative Amendments to BCO 46-5 on Church Membership Rolls](../markdown/ga23_1995.md#ga23-p223) | The Assembly adopted the recommendation as amended, requesting discussion and sending examples to Presbyteries; it did not send a BCO amendment for advice and consent. |
+| 1998 | Overture | explicit_citation | direct_text | high | [Commend Dr. Paul Gilchrist for Exemplary Service as Stated Clerk](../markdown/ga26_1998.md#ga26-p54) | Answered in the affirmative |
+| 1996 | Overture | explicit_citation | direct_text | high | [Amend BCO 38-3 Regarding Renouncing Church Membership](../markdown/ga24_1996.md#ga24-p311) | Approved and ratified |
+| 1996 | Overture | explicit_citation | direct_text | high | [Amend BCO 46-5, 38-2 & 38-3 on Member Roll Removal & Discipline](../markdown/ga24_1996.md#ga24-p298) | Answered by reference to Overture 27 |
+| 1996 | Overture | explicit_citation | direct_text | high | [Amend BCO by Striking 46-5 and Adding New BCO 38-2 and 46-2](../markdown/ga24_1996.md#ga24-p303) | Answered by reference to Overture 27 |
+| 1996 | Overture | explicit_citation | direct_text | high | [Delete BCO 46-5 and Amend BCO 38 and 46-2 on Church Membership](../markdown/ga24_1996.md#ga24-p297) | Approved and ratified |
+| 1995 | Overture | explicit_citation | direct_text | high | [Consider Alternative Amendments to BCO 46-5 on Church Membership Rolls](../markdown/ga23_1995.md#ga23-p223) | Adopted as amended |
 
 ---
 *[← Authority Index](../index/AUTHORITY-BY-PROVISION.md)*

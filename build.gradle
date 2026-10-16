@@ -138,8 +138,8 @@ prepareOvertureActionResearch.configure { dependsOn extractOvertureActionCandida
 
 def linkOvertureCatalogue = registerCommand(
     'linkOvertureCatalogue', [pythonCommand, 'scripts/42_link_overture_catalogue.py', '.'],
-    [generatorScripts, file('scripts/42_link_overture_catalogue.py'), file('index/OVERTURES.md'),
-     file('index/overture_pages_map.json')],
+    [generatorScripts, file('scripts/42_link_overture_catalogue.py'), file('scripts/overture_taxonomy.py'), file('index/OVERTURES.md'),
+     file('index/overture_pages_map.json'), file('index/overture_events.jsonl')],
     [file('index/OVERTURES.md')]
 )
 linkOvertureCatalogue.configure { dependsOn reconcileOvertureCatalogue, regenerateOvertures }
@@ -329,6 +329,13 @@ def testAuthorityIndexFeedback = registerCommand(
 )
 testAuthorityIndexFeedback.configure { dependsOn testProvisionCatalogue }
 
+def testOvertureOutcomes = registerCommand(
+    'testOvertureOutcomes', [pythonCommand, '-m', 'unittest',
+                             'tests.test_overture_outcomes', 'tests.test_overture_taxonomy'],
+    [generatorScripts, file('tests/test_overture_outcomes.py'), file('tests/test_overture_taxonomy.py')]
+)
+testOvertureOutcomes.configure { dependsOn testAuthorityIndexFeedback }
+
 def testMinutesPageAnchors = registerCommand(
     'testMinutesPageAnchors', [pythonCommand, 'tests/test_minutes_page_anchors.py'],
     [generatorScripts, file('scripts/minutes_page_locators.py'),
@@ -342,7 +349,7 @@ def nodeRegression = registerCommand(
      'tests/search-index-overtures.test.js', 'tests/pagefind-search.test.js', 'tests/result-navigation.test.js'],
     [fileTree('tests'), fileTree('app'), fileTree('assets')]
 )
-nodeRegression.configure { dependsOn testAuthorityIndexFeedback, testMinutesPageAnchors }
+nodeRegression.configure { dependsOn testAuthorityIndexFeedback, testOvertureOutcomes, testMinutesPageAnchors }
 nodeRegression.configure { dependsOn searchIndex }
 
 def addExtractedMetadata = registerCommand(

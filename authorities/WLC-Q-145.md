@@ -14,10 +14,10 @@
 | 1989 | Judicial case | explicit_citation | direct_text | high | [TE John T. DeBardeleben v. Philadelphia Presbytery](../cases/ga17_1989__case3.md) | sustained |
 | 2002 | Constitutional inquiry | structured_provision_tag | structured_provision_tag | medium | [Access to Financial and Attendance Records of the Congregation](../inquiries/ga30_2002__ci06.md) | advice given |
 | 2024 | Overture | explicit_citation | direct_text | high | [Amend BCO Sections to Require Background Checks for Church Office](../markdown/ga51_2024.md#ga51-p1086) | Answered by reference |
-| 2022 | Overture | explicit_citation | direct_text | high | [Commend the Human Sexuality Report for Study, Assessment, and Conciliation](../markdown/ga49_2022.md#ga49-p1382) | Answered by reference |
+| 2022 | Overture | explicit_citation | direct_text | high | [Commend the Human Sexuality Report for Study, Assessment, and Conciliation](../markdown/ga49_2022.md#ga49-p1382) | Answered by reference to Overture 29 |
 | 2021 | Overture | explicit_citation | direct_text | high | [Form Ad Interim Committee to Study Biblical Ethics in Digital Media](../markdown/ga48_2021.md#ga48-p1077) | Answered in the negative |
-| 2016 | Overture | explicit_citation | direct_text | high | [Confess Covenantal and Generational Sins During the Civil Rights Period](../markdown/ga44_2016.md#ga44-p610) | Answered by reference |
-| 2002 | Overture | explicit_citation | direct_text | high | [Add to BCO 26-1 a Procedure for Alleged Conflicts Between Scripture and the Constitution](../markdown/ga30_2002.md#ga30-p275) |  |
+| 2016 | Overture | explicit_citation | direct_text | high | [Confess Covenantal and Generational Sins During the Civil Rights Period](../markdown/ga44_2016.md#ga44-p610) | Answered by reference to Overture 43 |
+| 2002 | Overture | explicit_citation | direct_text | high | [Add to BCO 26-1 a Procedure for Alleged Conflicts Between Scripture and the Constitution](../markdown/ga30_2002.md#ga30-p275) | Answered in the negative |
 
 ---
 *[← Authority Index](../index/AUTHORITY-BY-PROVISION.md)*

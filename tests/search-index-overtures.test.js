@@ -43,10 +43,13 @@ test('search-index build retains linked overtures', () => {
       sub: 'Overture 2 · First Presbyterian Church, Belzoni, Mississippi',
       identifier: 'Overture 2',
       identifiers: ['Overture 2'],
-      topics: ['Appoint Committee to Explore and Establish Reformed Ministerial Training'],
+      topics: ['Appoint Committee to Explore and Establish Reformed Ministerial Training', 'Church office', 'Ministerial education'],
+      overture_type: 'Study or committee request',
+      instrument: '—',
+      bco_amendment_stage: '—',
       provisions: [],
       year: 1973,
-      disposition: '',
+      disposition: 'committee report adopted as amended',
       url: 'markdown/ga01_1973.md#ga01-p23',
     });
   } finally {

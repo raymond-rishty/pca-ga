@@ -5,7 +5,7 @@
 | Year | Record type | Relationship | Evidence | Confidence | Title | Disposition |
 |------|-------------|--------------|----------|------------|-------|-------------|
 | 2025 | Overture | explicit_citation | direct_text | high | [Amend BCO 58-5 to Restrict Distribution of Lord's Supper to Officers](../markdown/ga52_2025.md#ga52-p1191) | Answered in the negative |
-| 2012 | Overture | explicit_citation | direct_text | high | [Amend BCO 58-5 to Prohibit Intinction](../markdown/ga40_2012.md#ga40-p729) |  |
+| 2012 | Overture | explicit_citation | direct_text | high | [Amend BCO 58-5 to Prohibit Intinction](../markdown/ga40_2012.md#ga40-p729) | Approved and ratified |
 
 ---
 *[← Authority Index](../index/AUTHORITY-BY-PROVISION.md)*

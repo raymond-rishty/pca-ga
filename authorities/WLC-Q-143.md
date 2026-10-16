@@ -4,7 +4,7 @@
 
 | Year | Record type | Relationship | Evidence | Confidence | Title | Disposition |
 |------|-------------|--------------|----------|------------|-------|-------------|
-| 2021 | Overture | explicit_citation | direct_text | high | [Add BCO Appendix K of Court Investigation Suggestions Before Process](../markdown/ga48_2021.md#ga48-p1063) |  |
+| 2021 | Overture | explicit_citation | direct_text | high | [Add BCO Appendix K of Court Investigation Suggestions Before Process](../markdown/ga48_2021.md#ga48-p1063) | Overtures Committee recommendation 29 adopted in gross |
 
 ---
 *[← Authority Index](../index/AUTHORITY-BY-PROVISION.md)*

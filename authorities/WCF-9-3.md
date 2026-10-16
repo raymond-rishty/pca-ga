@@ -4,8 +4,8 @@
 
 | Year | Record type | Relationship | Evidence | Confidence | Title | Disposition |
 |------|-------------|--------------|----------|------------|-------|-------------|
-| 2022 | Overture | explicit_citation | direct_text | high | [Amend BCO 16 by Adding Paragraph 16-4 on Qualifications for Ordination](../markdown/ga49_2022.md#ga49-p1341) |  |
-| 2022 | Overture | explicit_citation | direct_text | high | [Amend BCO 16 by Adding Paragraph 16-4 on Qualifications for Ordination](../markdown/ga49_2022.md#ga49-p1346) |  |
+| 2022 | Overture | explicit_citation | direct_text | high | [Amend BCO 16 by Adding Paragraph 16-4 on Qualifications for Ordination](../markdown/ga49_2022.md#ga49-p1341) | Answered by reference to Overture 29 |
+| 2022 | Overture | explicit_citation | direct_text | high | [Amend BCO 16 by Adding Paragraph 16-4 on Qualifications for Ordination](../markdown/ga49_2022.md#ga49-p1346) | Answered by reference to Overture 29 |
 
 ---
 *[← Authority Index](../index/AUTHORITY-BY-PROVISION.md)*

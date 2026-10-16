@@ -7,10 +7,10 @@
 | 2023 | Judicial case | explicit_citation | direct_text | high | [Sheppard v. Highlands Presbytery](../cases/ga50_2023__2022-04.md) | sustained |
 | 2022 | Judicial case | explicit_citation | direct_text | high | [Speck v. Missouri Presbytery](../cases/ga49_2022__2020-05.md) | sustained |
 | 2021 | Judicial case | structured_case_reference | structured_case_metadata | medium | [Fozard v. North Texas Presbytery](../cases/ga48_2021__2019-07.md) | denied |
-| 2024 | Overture | explicit_citation | direct_text | high | [Add Presbytery TE Care to BCO 13-9](../markdown/ga51_2024.md#ga51-p1094) |  |
+| 2024 | Overture | explicit_citation | direct_text | high | [Add Presbytery TE Care to BCO 13-9](../markdown/ga51_2024.md#ga51-p1094) | Answered in the negative |
 | 2024 | Overture | explicit_citation | direct_text | high | [Amend BCO 13-6, 21-4, and 24-1 to Require Background Checks](../markdown/ga51_2024.md#ga51-p1103) | Answered by reference |
 | 2024 | Overture | explicit_citation | direct_text | high | [Amend BCO 13-6, 21-4, and 24-1 to Require Background Checks for Church Office](../markdown/ga51_2024.md#ga51-p1179) | Answered by reference |
-| 1994 | Overture | explicit_citation | direct_text | high | [Amend BCO 13 to Include Instructions on Dissolving Churches](../markdown/ga22_1994.md#ga22-p69) | GA22 adopted the BCO 13-10 response and sent it for advice and consent; GA23 reported 48-3 presbytery approval and adopted the text. |
+| 1994 | Overture | explicit_citation | direct_text | high | [Amend BCO 13 to Include Instructions on Dissolving Churches](../markdown/ga22_1994.md#ga22-p69) | Approved and ratified |
 | 1989 | Overture | explicit_citation | direct_text | high | [Disapprove Restructure Amendments and Substitute a New BCO 13-10](../markdown/ga17_1989.md#ga17-p161) | Answered in the negative |
 | 1983 | Overture | explicit_citation | direct_text | high | [Amend BCO 24 and BCO 13 Regarding Elder Rotation and Pastoral Dissolution](../markdown/ga11_1983.md#ga11-p48) | Referred |
 | 2016 | RPR exception | structured_exception_tag | structured_provision_tag | medium | [Calvary: Incomplete record of transfer exam for minister from another denomination (No record of or](../rpr/exc/calvary__095.html) | raised |
