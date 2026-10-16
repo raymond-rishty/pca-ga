@@ -1527,10 +1527,10 @@ textarea:focus-visible {
 /* Overture records stay compact because this catalogue spans 52 Assemblies. */
 .reading-col--catalogue-index.catalogue-cards-ready .catalogue-records--overture { margin-bottom: 1.5rem; }
 .reading-col--catalogue-index.catalogue-cards-ready .catalogue-records--overture .catalogue-record { padding: .7rem 0 .8rem; }
-.catalogue-record--overture .catalogue-record__eyebrow { margin-bottom: .2rem; }
+.catalogue-record--overture .catalogue-record__eyebrow { margin-bottom: .05rem; }
 .catalogue-record--overture .catalogue-record__eyebrow {
   color: var(--ink-muted);
-  font-size: .72rem;
+  font-size: .78rem;
   font-weight: 400;
   letter-spacing: 0;
   text-transform: none;
