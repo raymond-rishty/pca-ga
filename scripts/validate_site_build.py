@@ -47,6 +47,21 @@ def main() -> int:
     root = args.root.resolve()
     site = args.site.resolve()
 
+    # A blank line before a Markdown table delimiter turns the catalogue into
+    # prose while leaving all its links intact. Verify actual rendered tables.
+    overtures = site / "index/OVERTURES.html"
+    require_file(overtures)
+    catalogue = (root / "index/OVERTURES.md").read_text(encoding="utf-8")
+    expected_tables = len(re.findall(r"^\| Overture \|", catalogue, re.M))
+    expected_rows = len(re.findall(r"^\| \[\d+\]\(", catalogue, re.M))
+    tables = re.findall(r"<table\b[^>]*>.*?</table>", overtures.read_text(encoding="utf-8"), re.S)
+    rendered_rows = sum(len(re.findall(r"<tr\b[^>]*>\s*<td\b", table)) for table in tables)
+    if not expected_tables or len(tables) != expected_tables or rendered_rows != expected_rows:
+        raise SystemExit(
+            f"Overture catalogue tables failed to render: expected {expected_tables} tables "
+            f"and {expected_rows} records; found {len(tables)} tables and {rendered_rows} records."
+        )
+
     # The schema-v3 BCO compatibility endpoint must match its canonical provision copy.
     bco_index = site / "api/bco/index.json"
     bco_manifest = site / "api/bco/38-1.json"
