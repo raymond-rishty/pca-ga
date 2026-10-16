@@ -824,10 +824,11 @@
       badge.textContent = 'No final action located';
       status.append(badge);
     }
-    if (variant === 'overture' && overtureTypeCell) {
+    const overtureType = catalogueCellText(overtureTypeCell);
+    if (variant === 'overture' && overtureTypeCell && overtureType && overtureType.toLocaleLowerCase() !== 'other or unclear request') {
       const typeBadge = document.createElement('span');
       typeBadge.className = 'catalogue-record__badge catalogue-record__badge--type';
-      typeBadge.textContent = 'Type · ' + catalogueCellText(overtureTypeCell);
+      typeBadge.textContent = 'Type · ' + overtureType;
       status.append(typeBadge);
     }
     if (status.children.length) main.append(status);
