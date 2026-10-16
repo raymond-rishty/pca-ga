@@ -315,7 +315,13 @@ def main() -> None:
         output.extend(group["head"])
         output.extend(_render_row(row) for row in group["rows"])
         output.extend(group["tail"])
-    CATALOGUE.write_text("\n".join(output).rstrip() + "\n", encoding="utf-8")
+    # Keep Markdown tables contiguous, including when an earlier edit inserted
+    # blank lines between the header and delimiter. Otherwise Jekyll renders
+    # the entire Assembly catalogue as pipe-delimited prose.
+    text = "\n".join(output).rstrip() + "\n"
+    text = re.sub(r"(?m)(^\|[^\n]*\n)(?:[ \t]*\n)+(?=\|)", r"\1", text)
+    text = re.sub(r"\n{3,}", "\n\n", text)
+    CATALOGUE.write_text(text, encoding="utf-8", newline="\n")
     print(f"wrote {len(includes)} reviewed restorations; removed {len(excludes)} index-only locators -> {CATALOGUE}")
 
 if __name__ == "__main__":

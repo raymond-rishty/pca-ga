@@ -1,21 +1,11 @@
 # Overture Catalogue
 
-
-
 Every overture recorded across all General Assemblies, grouped by Assembly. Page numbers link to the volume; cite as `<volume> p.<pdf_page>`.
-
-
-
-
 
 ## 1st General Assembly (1973)  ·  `ga01_1973`
 
-
-
 | Overture | Subject | Outcome | Source | Pages |
-
 |---:|---|---|---|---|
-
 | [1](../overtures/ga01_1973__o1.md) | Leave Presbytery Boundaries Fluid Through 1974 and Consult Before Changes | GA2 approved tentative presbytery boundaries, then reconsidered the report; the minutes located do not establish the final post-reconsideration disposition. | Gulf Coast Presbytery | [p.19](../markdown/ga01_1973.md#ga01-p19) |
 | [2](../overtures/ga01_1973__o2.md) | Appoint Committee to Explore and Establish Reformed Ministerial Training |  | First Presbyterian Church, Belzoni, Mississippi | [p.23](../markdown/ga01_1973.md#ga01-p23) |
 | [3](../overtures/ga01_1973__o3.md) | Appoint Committee to Prepare Scripture Proof Texts for the BCO |  | First Presbyterian Church, Belzoni, Mississippi | [p.20](../markdown/ga01_1973.md#ga01-p20) |
@@ -32,30 +22,10 @@ Every overture recorded across all General Assemblies, grouped by Assembly. Page
 | [14](../overtures/ga01_1973__o14.md) | Provide in the BCO for Optional Rotation of Ruling Elders and Deacons |  | Calvary Presbytery | [p.22](../markdown/ga01_1973.md#ga01-p22) |
 | [15](../overtures/ga01_1973__o15.md) | Leave Presbytery Boundaries Fluid Through 1974 and Consult Before Changes | GA2 approved tentative presbytery boundaries, then reconsidered the report; the minutes located do not establish the final post-reconsideration disposition. | Gulf Coast Presbytery | [p.19](../markdown/ga01_1973.md#ga01-p19) |
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## 2nd General Assembly (1974)  ·  `ga02_1974`
 
-
-
 | Overture | Subject | Outcome | Source | Pages |
-
 |---:|---|---|---|---|
-
 | [1](../overtures/ga02_1974__o1.md) | Call Sessions to Prayer for Laborers and Appoint a Day of Prayer for Missions | Answered by reference | Rev. William Rose | [p.25](../markdown/ga02_1974.md#ga02-p25) |
 | [2](../overtures/ga02_1974__o2.md) | Amend BCO to Clarify Session Authority Over Guest Preachers |  | the McIlwain Memorial Church, Pensacola | [p.31](../markdown/ga02_1974.md#ga02-p31) |
 | [3](../overtures/ga02_1974__o3.md) | Affirm Members' Right to Hold Membership in Secret Societies | Other | Rev. Eurie Hayes Smith, III et al | [p.25](../markdown/ga02_1974.md#ga02-p25) |
@@ -70,28 +40,10 @@ Every overture recorded across all General Assemblies, grouped by Assembly. Page
 | [12](../overtures/ga02_1974__o12.md) | Direct Mission to the World to Sever Ties with World Council of Churches Agencies | Answered by reference | Westminster Presbytery | [p.29](../markdown/ga02_1974.md#ga02-p29) |
 | [13](../overtures/ga02_1974__o13.md) | Encourage the Theological Committee to Consider a Specific Resolution | Answered by reference | Westminster Presbytery Adopted at its Meeting, July 20, 1974 We, the members of Westminste | [p.26](../markdown/ga02_1974.md#ga02-p26) |
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## 3rd General Assembly (1975)  ·  `ga03_1975`
 
-
-
 | Overture | Subject | Outcome | Source | Pages |
-
 |---:|---|---|---|---|
-
 | [1](../overtures/ga03_1975__o1.md) | Encourage Presbyteries to Examine Candidates in the Shorter Catechism | Adopted (final) | Central Georgia Presbytery | [p.32](../markdown/ga03_1975.md#ga03-p32) |
 | [2](../overtures/ga03_1975__o2.md) | Study and Reduce the Number of General Assembly Commissioners | Answered by reference | Central Georgia Presbytery | [p.29](../markdown/ga03_1975.md#ga03-p29) |
 | [3](../overtures/ga03_1975__o3.md) | Convert General Assembly to a Delegated Assembly | Answered by reference | Calvary Presbytery | [p.29](../markdown/ga03_1975.md#ga03-p29) |
@@ -112,34 +64,10 @@ Every overture recorded across all General Assemblies, grouped by Assembly. Page
 | [19](../overtures/ga03_1975__o19.md) | Immediately Invoke BCO 27-2 Constitutional Amendment Procedure | Answered in the affirmative | Presbytery of Southern Florida | [p.36](../markdown/ga03_1975.md#ga03-p36) |
 | [20](../overtures/ga03_1975__o20.md) | Call for a Day of Prayer and Fasting on July 4, 1976 | Adopted (final) | Grace Presbytery | [p.32](../markdown/ga03_1975.md#ga03-p32) |
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## 4th General Assembly (1976)  ·  `ga04_1976`
 
-
-
 | Overture | Subject | Outcome | Source | Pages |
-
 |---:|---|---|---|---|
-
 | [1](../overtures/ga04_1976__o1.md) | Instruct Mission to the World to Require Full Reformed Freedom in Cooperative Relationships | Answered in the negative | Westminster Presbytery | [p.35](../markdown/ga04_1976.md#ga04-p35) |
 | [2](../overtures/ga04_1976__o2.md) | Study Coordinating All Committee Publications into One Monthly Publication | Answered by reference | Presbytery of Southern Florida | [p.34](../markdown/ga04_1976.md#ga04-p34) |
 | [3](../overtures/ga04_1976__o3.md) | Appoint Committee to Study Consolidating Assembly Committees Under One Roof | Not specifically answered | Presbytery of Southern Florida | [p.30](../markdown/ga04_1976.md#ga04-p30) |
@@ -155,29 +83,10 @@ Every overture recorded across all General Assemblies, grouped by Assembly. Page
 | [13](../overtures/ga04_1976__o13.md) | Appoint a Committee to Study PCA Mission Theology and Practice | Answered by reference to the approved Missions Manual | Charley Chase et al., submitted as individual members of Mississippi Valley Presbytery | [p.35](../markdown/ga04_1976.md#ga04-p35) |
 | [14](../overtures/ga04_1976__o14.md) | Revise the 1977 Undesignated Budget Percentages Among GA Committees | Answered in the negative | New River Presbytery | [p.32](../markdown/ga04_1976.md#ga04-p32) |
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## 5th General Assembly (1977)  ·  `ga05_1977`
 
-
-
 | Overture | Subject | Outcome | Source | Pages |
-
 |---:|---|---|---|---|
-
 | [1](../overtures/ga05_1977__o1.md) | Amend BCO 19-2 to Allow Presbytery Exceptions to the Application Deadline | Answered in the negative | Gulf Coast Presbytery | [p.36](../markdown/ga05_1977.md#ga05-p36) |
 | [2](../overtures/ga05_1977__o2.md) | Allow an Organizing Pastor to Be Installed When a Congregation Is Constituted | Referred | Carolina Presbytery | [p.36](../markdown/ga05_1977.md#ga05-p36) |
 | [3](../overtures/ga05_1977__o3.md) | Express Thanks and Support for the Presbyterian Journal | Received as information | New River Presbytery | [p.33](../markdown/ga05_1977.md#ga05-p33) |
@@ -193,29 +102,10 @@ Every overture recorded across all General Assemblies, grouped by Assembly. Page
 | [13](../overtures/ga05_1977__o13.md) | Prohibit Member Transfers to PCUS and NCC/WCC Member Bodies on Separation Grounds | Answered in the negative | Westminster Presbytery | [p.34](../markdown/ga05_1977.md#ga05-p34) |
 | [14](../overtures/ga05_1977__o14.md) | Decline Participation in Official PCUS Functions | Answered by reference to the Assembly’s decision declining the PCUS invitation | Presbytery of Texas | [p.35](../markdown/ga05_1977.md#ga05-p35) |
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## 6th General Assembly (1978)  ·  `ga06_1978`
 
-
-
 | Overture | Subject | Outcome | Source | Pages |
-
 |---:|---|---|---|---|
-
 | [1](../overtures/ga06_1978__o1.md) |  |  | Gulf Coast Presbytery Whereas, there are many ministers in the Presbyterian Church in Amer | [p.40](../markdown/ga06_1978.md#ga06-p40) |
 | [2](../overtures/ga06_1978__o2.md) | Dissolve Stewardship Ministries Sub-Committee and Consolidate into Permanent Committees |  | Covenant Presbytery Whereas, the Sub-Committee For Stewardship Ministries was formed by th | [p.41](../markdown/ga06_1978.md#ga06-p41) |
 | [3](../overtures/ga06_1978__o3.md) | Amend RAO to Preclude Personal Communications Not Presented by Committee or Presbytery |  | Tennessee Valley Presbytery | [p.30](../markdown/ga06_1978.md#ga06-p30) |
@@ -252,50 +142,10 @@ Every overture recorded across all General Assemblies, grouped by Assembly. Page
 | [34](../overtures/ga06_1978__o34.md) | Approve Palmer Home for Children as a Designated Denominational Benevolence |  | Warrior Presbytery. | [p.39](../markdown/ga06_1978.md#ga06-p39) |
 | [35](../overtures/ga06_1978__o35.md) | Expand Pacific Presbytery Boundaries to Include All Western States | Adopted (final) | Pacific Presbytery. | [p.39](../markdown/ga06_1978.md#ga06-p39) |
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## 7th General Assembly (1979)  ·  `ga07_1979`
 
-
-
 | Overture | Subject | Outcome | Source | Pages |
-
 |---:|---|---|---|---|
-
 | [2](../overtures/ga07_1979__o2.md) | Study the Imbalance Between Ruling and Teaching Elder Representation | Answered in the negative | the Presbytery of Southern Florida | [p.29](../markdown/ga07_1979.md#ga07-p29) |
 | [3](../overtures/ga07_1979__o3.md) | Acknowledge All New Congregations Equally During Assembly Recognition | Adopted (final) | the Presbytery of Westminster | [p.35](../markdown/ga07_1979.md#ga07-p35) |
 | [4](../overtures/ga07_1979__o4.md) | Prohibit Committees from Forwarding Funds to Unapproved Organizations | Answered in the negative | the Presbytery of Westminster | [p.29](../markdown/ga07_1979.md#ga07-p29) |
@@ -328,46 +178,10 @@ Every overture recorded across all General Assemblies, grouped by Assembly. Page
 | [32](../overtures/ga07_1979__o32.md) | Limit the Moderator's Functions to Those Specified in the BCO | Answered in the negative | Grace Presbytery | [p.34](../markdown/ga07_1979.md#ga07-p34) |
 | [33](../overtures/ga07_1979__o33.md) | Amend the 1978 Abortion Statement to Allow a Life-of-Mother Exception | Adopted (final) | the Presbytery of Mid-Atlantic | [p.36](../markdown/ga07_1979.md#ga07-p36) |
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## 8th General Assembly (1980)  ·  `ga08_1980`
 
-
-
 | Overture | Subject | Outcome | Source | Pages |
-
 |---:|---|---|---|---|
-
 | [1](../overtures/ga08_1980__o1.md) | Add BCO 24-2 on ministers compelled to leave office | Approved → sent to presbyteries; ratification not located | Grace Presbytery (Clerk's note: This overture was received too late for consideration by t | [p.38](../markdown/ga08_1980.md#ga08-p38) |
 | [2](../overtures/ga08_1980__o2.md) | Reaffirm the GA's original statement on abortion |  | the Presbytery of Mississippi Valley | [p.34](../markdown/ga08_1980.md#ga08-p34) |
 | [3](../overtures/ga08_1980__o3.md) | Amend BCO 25-6 through 25-9 via BCO 27-2 | Answered in the negative | the Presbytery of Southern Florida | [p.39](../markdown/ga08_1980.md#ga08-p39) |
@@ -403,49 +217,10 @@ Every overture recorded across all General Assemblies, grouped by Assembly. Page
 | [33](../overtures/ga08_1980__o33.md) | Invite the RPCES to join the PCA |  | Mid-Atlantic Presbytery | [p.38](../markdown/ga08_1980.md#ga08-p38) |
 | [34](../overtures/ga08_1980__o34.md) | Erect a presbytery in eastern PA and southern NJ | Answered in the affirmative; Mid-Atlantic Presbytery’s request to erect a Presbytery in Eastern Pennsylvania and Southern New Jersey was adopted. | Mid-Atlantic Presbytery | [p.44](../markdown/ga08_1980.md#ga08-p44) |
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## 9th General Assembly (1981)  ·  `ga09_1981`
 
-
-
 | Overture | Subject | Outcome | Source | Pages |
-
 |---:|---|---|---|---|
-
 | [1](../overtures/ga09_1981__o1.md) | Amend BCO 5-2 to Clarify Presbytery Oversight of Unorganized Congregations | Answered by reference | the Presbytery of the Covenant Whereas, confusion and inconsistency exist between paragrap | [p.41](../markdown/ga09_1981.md#ga09-p41) |
 | [2](../overtures/ga09_1981__o2.md) | Establish a PCA Facility for Care of the Elderly | Answered in the negative | the Presbytery of North Georgia | [p.49](../markdown/ga09_1981.md#ga09-p49) |
 | [3](../overtures/ga09_1981__o3.md) | Require GA Permanent Committees to Copy Sessions on General Communications | Adopted (final) | the Presbytery of the Western Carolinas | [p.42](../markdown/ga09_1981.md#ga09-p42) |
@@ -474,42 +249,10 @@ Every overture recorded across all General Assemblies, grouped by Assembly. Page
 | [26](../overtures/ga09_1981__o26.md) | Amend BCO 14-1(12) to Allow Second Consecutive Terms on GA Committees | Referred | From: The Presbytery of Mid-Atlantic | [p.49](../markdown/ga09_1981.md#ga09-p49) |
 | [27](../overtures/ga09_1981__o27.md) | Retain the Non-Delegated Character of the General Assembly | Answered by reference | the Presbytery of Tennessee Valley | [p.39](../markdown/ga09_1981.md#ga09-p39) |
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## 10th General Assembly (1982)  ·  `ga10_1982`
 
-
-
 | Overture | Subject | Outcome | Source | Pages |
-
 |---:|---|---|---|---|
-
 | [1](../overtures/ga10_1982__o1.md) | Amend Directory of Worship to Give Sessions Oversight of All Church Music | Answered in the negative | the Presbytery of Evangel | [p.44](../markdown/ga10_1982.md#ga10-p44) |
 | [2](../overtures/ga10_1982__o2.md) | Amend BCO 14-1 to Restrict Voting Rights to Teaching Elders Representing Congregations | Answered in the negative | the Presbytery of Texas Whereas, the PCA sets forth in the Book of Church Order (BCO), nam | [p.44](../markdown/ga10_1982.md#ga10-p44) |
 | [3](../overtures/ga10_1982__o3.md) | Amend BCO 11-3 to Allow Presbyteries to Elect a Moderator for One Year | Approved & ratified (1983) | the Presbytery of Pacific Be It Resolved that the Book of Church Order Chapter 11-3 be ame | [p.45](../markdown/ga10_1982.md#ga10-p45) |
@@ -534,38 +277,10 @@ Every overture recorded across all General Assemblies, grouped by Assembly. Page
 | [23](../overtures/ga10_1982__o23.md) | Create a New Delmarva Presbytery Upon Joining and Receiving | Adopted (final) | the Presbytery of Mid-Atlantic In the event that "Joining and Receiving"takes place, the P | [p.49](../markdown/ga10_1982.md#ga10-p49) |
 | [24](../overtures/ga10_1982__o24.md) | Amend Grace Presbytery Boundaries Following Louisiana Presbytery Expansion | Answered by reference | Grace Presbytery | [p.50](../markdown/ga10_1982.md#ga10-p50) |
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## 11th General Assembly (1983)  ·  `ga11_1983`
 
-
-
 | Overture | Subject | Outcome | Source | Pages |
-
 |---:|---|---|---|---|
-
 | [1](../overtures/ga11_1983__o1.md) | Amend BCO 25-11 to Establish Procedure for Congregational Withdrawal | Referred | the Presbytery of the Southwest Whereas, the Ninth General Assembly has asked each Presbyt | [p.43](../markdown/ga11_1983.md#ga11-p43) |
 | [2](../overtures/ga11_1983__o2.md) | Strike BCO 38-2 Regarding Abstention from the Lord's Table |  | the Presbytery of Louisiana Whereas, the only proper reason for abstaining from the Lord's | [p.43](../markdown/ga11_1983.md#ga11-p43) |
 | [3](../overtures/ga11_1983__o3.md) | Add BCO Provision for Removing Inactive Members Without Judicial Process | Referred | the Presbytery of Southern Florida | [p.43](../markdown/ga11_1983.md#ga11-p43) |
@@ -605,52 +320,10 @@ Every overture recorded across all General Assemblies, grouped by Assembly. Page
 | [36](../overtures/ga11_1983__o36.md) | Remove West Texas Counties from Texas Presbytery to Allow New Presbytery Formation | Adopted (final) | the Presbytery of Texas | [p.51](../markdown/ga11_1983.md#ga11-p51) |
 | [37](../overtures/ga11_1983__o37.md) | Share St. Louis Presbytery Study on Confessional Subscription with Other Presbyteries | Adopted (final) | the Presbytery of St. Louis. Whereas, the IOth General Assembly of the Presbyterian Church | [p.49](../markdown/ga11_1983.md#ga11-p49) |
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## 12th General Assembly (1984)  ·  `ga12_1984`
 
-
-
 | Overture | Subject | Outcome | Source | Pages |
-
 |---:|---|---|---|---|
-
 | [2](../overtures/ga12_1984__o2__p48.md) | Amend BCO 21-1 by Striking the Word "Ordinarily" | Answered by reference | the Presbytery of Oklahoma Whereas, the word "ordinarily" as used in the Book of Church Or | [p.48](../markdown/ga12_1984.md#ga12-p48) |
 | [2](../overtures/ga12_1984__o2__p72.md) | Strike BCO 38-2 Regarding Voluntary Abstention from the Lord's Table | Answered by reference | the Presbytery of Louisiana Whereas, the only proper reason for abstaining from the Lord's | [p.72](../markdown/ga12_1984.md#ga12-p72) |
 | [3](../overtures/ga12_1984__o3.md) | Amend BCO 46-5 to Allow Removal of Inactive Members Without Judicial Process |  | the Presbytery of Southern Florida Whereas, the following be added as Paragraph 2 to the p | [p.72](../markdown/ga12_1984.md#ga12-p72) |
@@ -722,85 +395,10 @@ Every overture recorded across all General Assemblies, grouped by Assembly. Page
 | [59](../overtures/ga12_1984__o59.md) | Petition the Civil Magistrate Regarding Church Taxation and State Interference |  | members of Grace Presbytery (Presented to Grace Presbytery, but not adopted) | [p.47](../markdown/ga12_1984.md#ga12-p47) |
 | [60](../overtures/ga12_1984__o60.md) | Amend BCO to Permit Congregations to Set a Minimum Voting Age for Communing Members |  | the Presbytery of Texas | [p.63](../markdown/ga12_1984.md#ga12-p63) |
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## 13th General Assembly (1985)  ·  `ga13_1985`
 
-
-
 | Overture | Subject | Outcome | Source | Pages |
-
 |---:|---|---|---|---|
-
 | [1](../overtures/ga13_1985__o1.md) | Amend BCO 6 to Define Categories of Membership and Allow Communing Children Without Voting Rights |  | the Presbytery of Oklahoma Whereas, the present practice of admitting children to the Lord | [p.45](../markdown/ga13_1985.md#ga13-p45) |
 | [2](../overtures/ga13_1985__o2__p46.md) | Amend BCO 3-4 to Affirm the Church's Call to Civil Government Toward Its God-Ordained Purpose |  | the Presbytery of Oklahoma | [p.46](../markdown/ga13_1985.md#ga13-p46) |
 | [2](../overtures/ga13_1985__o2__p64.md) | Strike BCO 38-2 Regarding Voluntary Abstention from the Lord's Supper |  | the Presbytery of Louisiana | [p.64](../markdown/ga13_1985.md#ga13-p64) |
@@ -853,66 +451,10 @@ Every overture recorded across all General Assemblies, grouped by Assembly. Page
 | [51](../overtures/ga13_1985__o51.md) | Amend BCO 14-2 and 10-6 Regarding General Assembly Commissioner Selection |  | the Presbytery of Westminster | [p.70](../markdown/ga13_1985.md#ga13-p70) |
 | [52](../overtures/ga13_1985__o52.md) | Clarify BCO Requirements for Ministerial Internship |  | the Presbytery of Philadelphia | [p.58](../markdown/ga13_1985.md#ga13-p58) |
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## 14th General Assembly (1986)  ·  `ga14_1986`
 
-
-
 | Overture | Subject | Outcome | Source | Pages |
-
 |---:|---|---|---|---|
-
 | [1](../overtures/ga14_1986__o1.md) | Amend BCO 19-7 to Provide Greater Flexibility in Internship Requirements | Answered by reference | Central Georgia Presbytery | [p.49](../markdown/ga14_1986.md#ga14-p49) |
 | [2](../overtures/ga14_1986__o2.md) | Amend BCO to Require Final Ordination Exams on the Full Presbytery Floor | Answered by reference | the Presbytery of Western Carolina | [p.50](../markdown/ga14_1986.md#ga14-p50) |
 | [3](../overtures/ga14_1986__o3.md) | Produce a Study Paper Guiding PCA Churches in Ministry to the Hungry | Answered by reference | Northeast Presbytery Whereas, the Lord calls His Church to minister to the hungry (Mt. 25) | [p.55](../markdown/ga14_1986.md#ga14-p55) |
@@ -968,69 +510,10 @@ Every overture recorded across all General Assemblies, grouped by Assembly. Page
 | [54](../overtures/ga14_1986__o54.md) | Direct Mission to the World to End Cooperative Contracts with Non-Presbyterian Mission Agencies | Answered in the negative | Philadelphia Presbytery | [p.65](../markdown/ga14_1986.md#ga14-p65) |
 | [55](../overtures/ga14_1986__o55.md) | Direct CE&P to Periodically Review Curricula of Approved Seminaries | Answered in the negative | TE Vaughn E. Hathaway, Jr. | [p.48](../markdown/ga14_1986.md#ga14-p48) |
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## 15th General Assembly (1987)  ·  `ga15_1987`
 
-
-
 | Overture | Subject | Outcome | Source | Pages |
-
 |---:|---|---|---|---|
-
 | [1](../overtures/ga15_1987__o1.md) | Amend BCO to Permit Borrowed Elders for Congregational Discipline Cases |  | Southwest Presbytery Whereas many of our small congregations at times do not have sufficie | [p.45](../markdown/ga15_1987.md#ga15-p45) |
 | [2](../overtures/ga15_1987__o2.md) | Appoint an Ad Hoc Committee to Study and Define Biblical Terms Related to Revelation and Prophecy | Answered in the negative | Calvary Presbytery Whereas it appears that a great deal of confusion has arisen in various | [p.38](../markdown/ga15_1987.md#ga15-p38) |
 | [3](../overtures/ga15_1987__o3.md) | Expand Mid-America Presbytery Bounds to Include the State of Kansas |  | the Presbytery of Mid-America | [p.54](../markdown/ga15_1987.md#ga15-p54) |
@@ -1070,53 +553,10 @@ Every overture recorded across all General Assemblies, grouped by Assembly. Page
 | [37](../overtures/ga15_1987__o37.md) | Amend RAO Article III on GA Coordinator and Stated Clerk Selection | Adopted (final) | Delmarva Presbytery Whereas the coordinators of the committees of the General Assembly are | [p.42](../markdown/ga15_1987.md#ga15-p42) |
 | [51](../overtures/ga15_1987__o51.md) | Amend BCO 14-2 to Base Commissioner Allotment on Church Count |  | the Presbytery of Westminster Westminster Presbytery overtures the General Assembly to pro | [p.83](../markdown/ga15_1987.md#ga15-p83) |
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## 16th General Assembly (1988)  ·  `ga16_1988`
 
-
-
 | Overture | Subject | Outcome | Source | Pages |
-
 |---:|---|---|---|---|
-
 | [1](../overtures/ga16_1988__o1.md) | Amend BCO to Allow Teaching Elders to Serve on Sessions | Answered in the negative | the Session of the Evangelical Presbyterian Church Whereas there are many Teaching Elders | [p.46](../markdown/ga16_1988.md#ga16-p46) |
 | [2](../overtures/ga16_1988__o2.md) | Amend BCO 18-2 to Make Candidate Application Deadline Ordinary Rather Than Mandatory | Answered in the negative | Delmarva Presbytery Whereas, Chapter 18 of the Book of Church Order concerns itself with t | [p.46](../markdown/ga16_1988.md#ga16-p46) |
 | [3](../overtures/ga16_1988__o3.md) | Amend BCO 22-2 to Require Congregational Election of Assistant Pastors | Answered in the negative | Northeast Presbytery Whereas, the Book of Church Order 22-1 notes that the "various pastor | [p.46](../markdown/ga16_1988.md#ga16-p46) |
@@ -1156,53 +596,10 @@ Every overture recorded across all General Assemblies, grouped by Assembly. Page
 | [45](../overtures/ga16_1988__o45.md) | Adopt Guidelines Permitting Border-County Churches to Join an Adjacent Presbytery | Referred | Central Georgia | [p.75](../markdown/ga16_1988.md#ga16-p75) |
 | [49](../overtures/ga16_1988__o49.md) | Encourage PCA Churches to Pray and Give for the Midwest Farm Crisis | Answered by reference | Siouxlands Presbytery | [p.75](../markdown/ga16_1988.md#ga16-p75) |
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## 17th General Assembly (1989)  ·  `ga17_1989`
 
-
-
 | Overture | Subject | Outcome | Source | Pages |
-
 |---:|---|---|---|---|
-
 | [1](../overtures/ga17_1989__o1.md) | Make BCO 19-10 Declaration Optional | Approved and sent down for presbytery advice and consent | Delmarva Presbytery | [p.161](../markdown/ga17_1989.md#ga17-p161) |
 | [2](../overtures/ga17_1989__o2.md) | Disapprove Restructure Amendments and Substitute a New BCO 13-10 | Answered in the negative | Northern Illinois Presbytery | [p.161](../markdown/ga17_1989.md#ga17-p161) |
 | [3](../overtures/ga17_1989__o3.md) | Address Pornography and Hostelries | Answered by reference | Grace Presbytery | [p.162](../markdown/ga17_1989.md#ga17-p162) |
@@ -1244,55 +641,10 @@ Every overture recorded across all General Assemblies, grouped by Assembly. Page
 | [41](../overtures/ga17_1989__o41.md) | Amend RAO 9-13 Rules for Examining Presbytery Minutes | Answered by reference | Presbytery of the Southwest, "Amend rules for Examining Presbytery Minutes" | [p.139](../markdown/ga17_1989.md#ga17-p139) |
 | [42](../overtures/ga17_1989__o42.md) | Fund Ethnic Ministries | Answered in the negative | Northeast Presbytery | [p.100](../markdown/ga17_1989.md#ga17-p100) |
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## 18th General Assembly (1990)  ·  `ga18_1990`
 
-
-
 | Overture | Subject | Outcome | Source | Pages |
-
 |---:|---|---|---|---|
-
 | [1](../overtures/ga18_1990__o1.md) | Amend BCO 14-2 to Increase Ruling Elder Participation at General Assembly | Approved and ratified at GA19 | OVERTURE 1 From the Susquehanna Valley Presbytery (to CCB/B&O) | [p.123](../markdown/ga18_1990.md#ga18-p123) |
 | [2](../overtures/ga18_1990__o2.md) | Amend Bylaws to Reinstate Original Administrative Committee Membership | Answered in the negative | OVERTURE 2 From Covenant Presbytery (to AC) | [p.105](../markdown/ga18_1990.md#ga18-p105) |
 | [3](../overtures/ga18_1990__o3.md) | Amend BCO, RAO, and Bylaws to Restore Original Administrative Committee Structure | Answered in the negative | OVERTURE 3 From New River Presbytery (to AC) | [p.105](../markdown/ga18_1990.md#ga18-p105) |
@@ -1323,44 +675,10 @@ Every overture recorded across all General Assemblies, grouped by Assembly. Page
 | [30](../overtures/ga18_1990__o30.md) | Change the Name of the Presbyterian Church in America | Answered in the negative | OVERTURE 30 From Southwest Presbytery (to B&O) | [p.128](../markdown/ga18_1990.md#ga18-p128) |
 | [31](../overtures/ga18_1990__o31.md) | Fund Nominating Committee Expenses Across Permanent Committees and Agencies | Answered in the affirmative; additional recommendation to increase each permanent committee and agency budget by $1,950 adopted | OVERTURE 31 from Heritage Presbytery (to AC) "Concerning funding the Nominating Committee" | [p.115](../markdown/ga18_1990.md#ga18-p115) |
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## 19th General Assembly (1991)  ·  `ga19_1991`
 
-
-
 | Overture | Subject | Outcome | Source | Pages |
-
 |---:|---|---|---|---|
-
 | [1](../overtures/ga19_1991__o1.md) | Amend BCO 38-2 to Address Reinstatement of Divested Ministers |  | Evangel Presbytery "Restatement of BCO 38-2" | [p.158](../markdown/ga19_1991.md#ga19-p158) |
 | [2](../overtures/ga19_1991__o2.md) | Require CE&P Bookstore to Add Reformed Faith Disclaimer | Answered in the negative; adopted three recommendations. The minority pastoral-letter proposal is not shown adopted. | OVERTURE 2 From Northeast Presbytery | [p.159](../markdown/ga19_1991.md#ga19-p159) |
 | [3](../overtures/ga19_1991__o3.md) | Divide Southwest Presbytery into Southwest and Rocky Mountain Presbyteries | Answered in the affirmative | OVERTURE 3 From the Presbytery of the Southwest | [p.117](../markdown/ga19_1991.md#ga19-p117) |
@@ -1404,57 +722,10 @@ Every overture recorded across all General Assemblies, grouped by Assembly. Page
 | [42](../overtures/ga19_1991__o42.md) | Add Western New York Counties to Boundaries of Ascension Presbytery | Answered in the affirmative (substitute adopted) | OVERTURE 42 From Presbytery of the Ascension | [p.119](../markdown/ga19_1991.md#ga19-p119) |
 | [43](../overtures/ga19_1991__o43.md) | Amend RAO 4-9 to Limit Coordinators and Stated Clerk to Two Four-Year Terms |  | Presbytery of the Ascension "Amend RAO 4-9 to Limit Coordinators and Stated Clerk to two F | [p.136](../markdown/ga19_1991.md#ga19-p136) |
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## 20th General Assembly (1992)  ·  `ga20_1992`
 
-
-
 | Overture | Subject | Outcome | Source | Pages |
-
 |---:|---|---|---|---|
-
 | [1](../overtures/ga20_1992__o1.md) | Amend BCO 20-1 to Clarify Presbyterial Approval of Pastoral Call Amendments | Answered in the negative | OVERTURE 1 From Presbytery of Southern Florida | [p.100](../markdown/ga20_1992.md#ga20-p100) |
 | [3](../overtures/ga20_1992__o3.md) | Place Committees of Commissioners on Two-Year Terms | Answered in the negative | OVERTURE 3 From Missouri Presbytery | [p.101](../markdown/ga20_1992.md#ga20-p101) |
 | [4](../overtures/ga20_1992__o4.md) | Amend RAO 9-3 to Require Sermons in Daily Worship at General Assembly |  | New Jersey Presbytery "Worship Services at General Assembly" Whereas, each morning session | [p.133](../markdown/ga20_1992.md#ga20-p133) |
@@ -1484,30 +755,10 @@ Every overture recorded across all General Assemblies, grouped by Assembly. Page
 | [40](../overtures/ga20_1992__o40.md) | Appoint Study Committee on Drama and Liturgical Dance in Worship |  | Eastern Carolina Presbytery "Appoint Study Committee: 'Are Drama and Liturgical Dance Cons | [p.81](../markdown/ga20_1992.md#ga20-p81) |
 | [41](../overtures/ga20_1992__o41.md) | Establish Ad Interim Committee to Plan 350th Anniversary of WCF | Answered in the negative | Northeast Presbytery "Establish Ad Interim Committee To Plan 350Th Anniversary Of WCF" | [p.81](../markdown/ga20_1992.md#ga20-p81) |
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## 21st General Assembly (1993)  ·  `ga21_1993`
 
-
-
 | Overture | Subject | Outcome | Source | Pages |
-
 |---:|---|---|---|---|
-
 | [1](../overtures/ga21_1993__o1.md) | Call GA to Faithfulness in Preaching, Piety & Mission |  | OVERTURE 1 From the Presbytery of Southwest Florida | [p.118](../markdown/ga21_1993.md#ga21-p118) |
 | [2](../overtures/ga21_1993__o2.md) | Exhort Sessions to Promptly Notify and Transfer Members |  | OVERTURE 2 From Central Georgia Presbytery | [p.120](../markdown/ga21_1993.md#ga21-p120) |
 | [3](../overtures/ga21_1993__o3__p121.md) | Amend BCO 15-5 to Permit Discussion on Judicial Cases |  | OVERTURE 3 From the Presbytery of Westminster | [p.121](../markdown/ga21_1993.md#ga21-p121) |
@@ -1554,60 +805,10 @@ Every overture recorded across all General Assemblies, grouped by Assembly. Page
 | [43](../overtures/ga21_1993__o43.md) | Amend RAO 13-2 to Limit Floor Nominations to Presbytery-Nominated Candidates |  | OVERTURE 43 From the Presbytery of New River | [p.164](../markdown/ga21_1993.md#ga21-p164) |
 | [44](../overtures/ga21_1993__o44.md) | Amend BCO 14-1 to Disband the Theological Examining Committee |  | Western Carolina "Amend BCO 14-1 to Disband Theological Examining Committee" | [p.165](../markdown/ga21_1993.md#ga21-p165) |
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## 22nd General Assembly (1994)  ·  `ga22_1994`
 
-
-
 | Overture | Subject | Outcome | Source | Pages |
-
 |---:|---|---|---|---|
-
 | [1](../overtures/ga22_1994__o1__p65.md) | Continue Korean Language Presbyteries on Semi-Permanent Status |  | OVERTURE 1 From Korean Central Presbytery (to MNA) | [p.65](../markdown/ga22_1994.md#ga22-p65) |
 | [1](../overtures/ga22_1994__o1__p323.md) | Continue Korean Language Presbyteries on Semi-Permanent Status |  | OVERTURE 1 From Korean Capital Presbytery | [p.323](../markdown/ga22_1994.md#ga22-p323) |
 | [2](../overtures/ga22_1994__o2.md) | Amend BCO 14-1(11) and RAO 4-6 to Limit Membership on Nominating Committee and Review of Presbytery Records Committee |  | North Georgia Presbytery | [p.232](../markdown/ga22_1994.md#ga22-p232) |
@@ -1655,29 +856,10 @@ Every overture recorded across all General Assemblies, grouped by Assembly. Page
 | [44](../overtures/ga22_1994__o44.md) | Adopt Strict Subscription, Delimit New Revelation & Repudiate Drama in Worship | Answered by reference to Recommendation 5. | South Hills RPCA, Upper St. Clair, PA | [p.237](../markdown/ga22_1994.md#ga22-p237) |
 | [45](../overtures/ga22_1994__o45.md) | Require Presentation of Full Legal Audit to General Assembly | Answered by reference to Recommendation 6. | South Hills RPCA, Upper St. Clair, PA | [p.273](../markdown/ga22_1994.md#ga22-p273) |
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## 23rd General Assembly (1995)  ·  `ga23_1995`
 
-
-
 | Overture | Subject | Outcome | Source | Pages |
-
 |---:|---|---|---|---|
-
 | [1](../overtures/ga23_1995__o1.md) | Extend Boundary of Susquehanna Valley Presbytery to Include Lycoming and Clinton Counties | Adopted (final) | Susquehanna Valley Presbytery (to MNA) | [p.417](../markdown/ga23_1995.md#ga23-p417) |
 | [2](../overtures/ga23_1995__o2.md) |  |  | Tennessee Valley Presbytery VACATED: Rescinded by Presbytery | [p.49](../markdown/ga23_1995.md#ga23-p49) |
 | [3](../overtures/ga23_1995__o3.md) | Amend BCO 13-9(f) to Clarify Dissolving and Dismissing Churches |  | OVERTURE 3 From Southeast Alabama Presbytery | [p.237](../markdown/ga23_1995.md#ga23-p237) |
@@ -1703,39 +885,10 @@ Every overture recorded across all General Assemblies, grouped by Assembly. Page
 | [23](../overtures/ga23_1995__o23.md) | Give Thanks to God for 200 Years of Faithfulness in Duanesburg, NY | Answered in the affirmative | OVERTURE 23 From Northeast Presbytery | [p.229](../markdown/ga23_1995.md#ga23-p229) |
 | [24](../overtures/ga23_1995__o24.md) | Correct 22nd GA Minutes to Include Previously Omitted Overtures | Minutes corrected to include GA22 Overtures 15, 29, and 43; no further action on those proposals | OVERTURE 24 From the Northeast Presbytery | [p.218](../markdown/ga23_1995.md#ga23-p218) |
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## 24th General Assembly (1996)  ·  `ga24_1996`
 
-
-
 | Overture | Subject | Outcome | Source | Pages |
-
 |---:|---|---|---|---|
-
 | [1](../overtures/ga24_1996__o1.md) | Amend BCO 19-2 Re. Licensure of PCA Ministers From Other Presbyteries |  | the Presbytery of Covenant "Amend BCO 19-2 Re. Licensure of PCA Ministers" | [p.295](../markdown/ga24_1996.md#ga24-p295) |
 | [2](../overtures/ga24_1996__o2.md) | Amend BCO 7-2 to Restrict Permanent Committee Voting to Ordained Officers |  | the Presbytery of Covenant "Amend BCO 7-2 To Limit Voting Members on Permanent Committees" | [p.289](../markdown/ga24_1996.md#ga24-p289) |
 | [3](../overtures/ga24_1996__o3.md) | Amend BCO 8-8 to Recognize Non-Preaching Gospel Ministries |  | the Presbytery of the Pacific Northwest "Amend BCO 8-8 Re. Non Preaching Ministries" | [p.290](../markdown/ga24_1996.md#ga24-p290) |
@@ -1777,55 +930,10 @@ Every overture recorded across all General Assemblies, grouped by Assembly. Page
 | [39](../overtures/ga24_1996__o39.md) | Call PCA Churches to 40 Days of Prayer and Fasting Before the 1996 Election |  | Evangel Presbytery "National Prayer Watch Before We go to the Polls - Let us Go to Our Kne | [p.294](../markdown/ga24_1996.md#ga24-p294) |
 | [40](../overtures/ga24_1996__o40.md) | Transfer Portion of Escambia County from Southeast Alabama to Gulf Coast Presbytery |  | Gulf Coast Presbytery "Change Boundaries of Gulf Coast and SE Alabama" | [p.202](../markdown/ga24_1996.md#ga24-p202) |
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## 25th General Assembly (1997)  ·  `ga25_1997`
 
-
-
 | Overture | Subject | Outcome | Source | Pages |
-
 |---:|---|---|---|---|
-
 | [1](../overtures/ga25_1997__o1.md) | Amend BCO 13-6 to Require Full Examination of Ministers from Other Denominations |  | Southwest Florida "Amend BCO 13-6 To Require Transfers from Other Denominations to be Full | [p.180](../markdown/ga25_1997.md#ga25-p180) |
 | [2](../overtures/ga25_1997__o2.md) | Investigate Alleged Delinquency of the Interchurch Relations Committee |  | Northeast Presbytery "Investigate Alleged Delinquency of IRC" | [p.60](../markdown/ga25_1997.md#ga25-p60) |
 | [3](../overtures/ga25_1997__o3.md) | Erect a New York City Metro Presbytery |  | Northeast Presbytery "Erect a New York City Metro Presbytery" | [p.153](../markdown/ga25_1997.md#ga25-p153) |
@@ -1844,32 +952,10 @@ Every overture recorded across all General Assemblies, grouped by Assembly. Page
 | [16](../overtures/ga25_1997__o16.md) | Investigate Alleged Delinquency of IRC Regarding CRC Membership in NAPARC |  | the Presbytery of Ascension "Investigate Alleged Delinquency of IRC" | [p.62](../markdown/ga25_1997.md#ga25-p62) |
 | [17](../overtures/ga25_1997__o17.md) | Establish Reformed University Ministries as a Permanent GA Committee with Full Agency Status |  | Grace Presbytery "Establish RUM as A Permanent Committee of General Assembly" | [p.168](../markdown/ga25_1997.md#ga25-p168) |
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## 26th General Assembly (1998)  ·  `ga26_1998`
 
-
-
 | Overture | Subject | Outcome | Source | Pages |
-
 |---:|---|---|---|---|
-
 | [1](../overtures/ga26_1998__o1.md) | Amend BCO 13-5 to Clarify Presbytery Membership for Minister Without Call Who Needs to Relocate |  | Potomac Presbytery "Amend BCO 13-5 to Clarify Membership of One Honorably Retired" [Should | [p.200](../markdown/ga26_1998.md#ga26-p200) |
 | [2](../overtures/ga26_1998__o2.md) | Amend BCO 20-2 to Clarify Role of Pastor Search Committee |  | Potomac Presbytery "Amend BCO 20-2 to Clarify Role of Pastor Search Committee" | [p.202](../markdown/ga26_1998.md#ga26-p202) |
 | [3](../overtures/ga26_1998__o3.md) | Amend RAO 4 by Adding New Section 18 Allowing Nominations from Committees and Agencies |  | New River Presbytery "Amend RAO 4, Adding New Section 18, Allowing Nominations From Commit | [p.192](../markdown/ga26_1998.md#ga26-p192) |
@@ -1900,44 +986,10 @@ Every overture recorded across all General Assemblies, grouped by Assembly. Page
 | [28](../overtures/ga26_1998__o28.md) | Express Support for Overtures 16 and 17 Regarding Pacific Presbytery and Worship Practices |  | the Presbytery of Grace "Expression of Support for Overtures 16 and 17 Re. Enlarging Pacif | [p.181](../markdown/ga26_1998.md#ga26-p181) |
 | [29](../overtures/ga26_1998__o29.md) | Commend Dr. Paul Gilchrist for Exemplary Service as Stated Clerk |  | OVERTURE 29 From Grace Presbytery (to AC) | [p.54](../markdown/ga26_1998.md#ga26-p54) |
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## 27th General Assembly (1999)  ·  `ga27_1999`
 
-
-
 | Overture | Subject | Outcome | Source | Pages |
-
 |---:|---|---|---|---|
-
 | [1](../overtures/ga27_1999__o1.md) | Allow Additional Reformed Seminaries to Address the General Assembly |  | Southern Florida Presbytery (to AC) "Allow Additional Reformed Seminaries to Address the G | [p.189](../markdown/ga27_1999.md#ga27-p189) |
 | [2](../overtures/ga27_1999__o2.md) | Change Boundaries Between Susquehanna Valley and Heritage Presbyteries | Adopted (final) | Susquehanna Valley Presbytery (to MNA) | [p.107](../markdown/ga27_1999.md#ga27-p107) |
 | [3](../overtures/ga27_1999__o3.md) | Divide Heartland and Siouxlands Presbyteries into Three Presbyteries | Deferred | Heartland Presbytery (to MNA) | [p.113](../markdown/ga27_1999.md#ga27-p113) |
@@ -1966,42 +1018,10 @@ Every overture recorded across all General Assemblies, grouped by Assembly. Page
 | [26](../overtures/ga27_1999__o26.md) | Change Presbytery Boundaries Between North Texas and Southwest Presbyteries |  | OVERTURE 26 From North Texas Presbytery (to MNA) | [p.113](../markdown/ga27_1999.md#ga27-p113) |
 | [27](../overtures/ga27_1999__o27.md) | Reaffirm PCA's Prior Statements on the Sanctity of Life | Adopted (final) | the Presbytery of Philadelphia, "Reaffirm the Sanctity of Life" | [p.178](../markdown/ga27_1999.md#ga27-p178) |
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## 28th General Assembly (2000)  ·  `ga28_2000`
 
-
-
 | Overture | Subject | Outcome | Source | Pages |
-
 |---:|---|---|---|---|
-
 | [1](../overtures/ga28_2000__o1.md) | Declare Full Preterism a Heresy |  | Heartland Presbytery "Declare Full Preterism a Heresy" | [p.300](../markdown/ga28_2000.md#ga28-p300) |
 | [2](../overtures/ga28_2000__o2.md) | Grant Full Constitutional Status to the Directory for Worship |  | Grace Presbytery "Grant Full Constitutional Status to the Entire Directory of Worship" | [p.282](../markdown/ga28_2000.md#ga28-p282) |
 | [3](../overtures/ga28_2000__o3.md) | Divide Westminster Presbytery into Two Presbyteries | Affirmative recommendation defeated (381-599) | Westminster Presbytery (to MNA) | [p.106](../markdown/ga28_2000.md#ga28-p106) |
@@ -2030,42 +1050,10 @@ Every overture recorded across all General Assemblies, grouped by Assembly. Page
 | [26](../overtures/ga28_2000__o26.md) | Request for General Assembly Action Regarding Central Florida Presbytery's Receiving Former Member of South Coast Presbytery | Referred to SJC; report requested at GA29 | South Coast Presbytery (memorial; to CCB & SJC) | [p.93](../markdown/ga28_2000.md#ga28-p93) |
 | [27](../overtures/ga28_2000__o27.md) | Amend RAO 14-7-3 Regarding Committee on Review of Presbytery Records |  | Gulf Coast Presbytery "Amend RAO 14-7-3 by Adding Another Sentence" | [p.299](../markdown/ga28_2000.md#ga28-p299) |
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## 29th General Assembly (2001)  ·  `ga29_2001`
 
-
-
 | Overture | Subject | Outcome | Source | Pages |
-
 |---:|---|---|---|---|
-
 | [1](../overtures/ga29_2001__o1.md) | Amend BCO 14-1(12) to Increase Committee Size and Extend Terms to Five Years |  | Missouri Presbytery (to CCB & B&O) "Amend BCO 14-1(12), Increase Number on Committees, Ext | [p.190](../markdown/ga29_2001.md#ga29-p190) |
 | [2](../overtures/ga29_2001__o2.md) | Amend BCO 58-5 Regarding Use of Unleavened Bread in Communion | Answered in the negative | New Jersey Presbytery (to CCB & B&O) "Amend BCO 58-5 – Use Unleavened Bread in Communion" | [p.191](../markdown/ga29_2001.md#ga29-p191) |
 | [3](../overtures/ga29_2001__o3.md) | Amend BCO 20-2 to Include Senior Pastor on Associate Search Committee |  | Susquehanna Valley Presbytery (to CCB & B&O) "Amend BCO 20-2 to Include Pastor in Search C | [p.192](../markdown/ga29_2001.md#ga29-p192) |
@@ -2105,53 +1093,10 @@ Every overture recorded across all General Assemblies, grouped by Assembly. Page
 | [37](../overtures/ga29_2001__o37.md) | Divide Potomac Presbytery and Form Chesapeake Presbytery | Answered in the affirmative | Potomac Presbytery (to MNA) | [p.177](../markdown/ga29_2001.md#ga29-p177) |
 | [38](../overtures/ga29_2001__o38.md) | Erect a New Presbytery from Remaining Westminster Presbytery Churches |  | Westminster Presbytery (to MNA) "Erect New Presbytery" | [p.183](../markdown/ga29_2001.md#ga29-p183) |
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## 30th General Assembly (2002)  ·  `ga30_2002`
 
-
-
 | Overture | Subject | Outcome | Source | Pages |
-
 |---:|---|---|---|---|
-
 | [1](../overtures/ga30_2002__o1.md) | Add 'and Unity' to Sixth Ordination Vow in BCO 21-5 | Approved & ratified | OVERTURE 1 from Western Carolina Presbytery (to CCB & B&O) | [p.246](../markdown/ga30_2002.md#ga30-p246) |
 | [2](../overtures/ga30_2002__o2.md) | Acknowledge Diversity of Views on Women in Military & Dismiss WIM Committee | Answered by reference | OVERTURE 2 from Western Carolina Presbytery (to Women in | [p.247](../markdown/ga30_2002.md#ga30-p247) |
 | [3](../overtures/ga30_2002__o3.md) | Amend BCO 21-4 to Specify Handling and Recording of Exceptions to Standards |  | Illiana Presbytery (to CCB & B&O) and Missouri Presbytery, Evangel Presbytery, Susquehanna | [p.223](../markdown/ga30_2002.md#ga30-p223) |
@@ -2188,50 +1133,10 @@ Every overture recorded across all General Assemblies, grouped by Assembly. Page
 | [34](../overtures/ga30_2002__o34.md) | Counsel Assembly-Level Personnel Not to Participate in PPLN or Lose Posts |  | Westminster Presbytery (to B&O) "Counsel Assembly-Level Personnel Not to Participate in PP | [p.281](../markdown/ga30_2002.md#ga30-p281) |
 | [35](../overtures/ga30_2002__o35.md) | Clarify Relationship of Separately Incorporated Agencies to Assembly |  | Ascension Presbytery (to AC) "Clarify Relationship of Separately Incorporated Agencies to | [p.303](../markdown/ga30_2002.md#ga30-p303) |
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## 31st General Assembly (2003)  ·  `ga31_2003`
 
-
-
 | Overture | Subject | Outcome | Source | Pages |
-
 |---:|---|---|---|---|
-
 | [1](../overtures/ga31_2003__o1.md) | Clarify Whether Women-in-Military Statement Carries Disciplinary Force | Answered with a statement concerning the 30th Assembly action | Overture 1 from Potomac Presbytery (to B&O) | [p.197](../markdown/ga31_2003.md#ga31-p197) |
 | [2](../overtures/ga31_2003__o2.md) | Select Moderator-in-Nomination for Following Year via RAO Amendment | Answered in the negative | Overture 2 from Mississippi Valley Presbytery (to B&O, CCB) | [p.174](../markdown/ga31_2003.md#ga31-p174) |
 | [3](../overtures/ga31_2003__o3.md) | Rule That Women-in-Military Report Does Not Require Discipline | Answered by reference to Overture 1 | Overture 3 from Chesapeake Presbytery (to B&O) | [p.200](../markdown/ga31_2003.md#ga31-p200) |
@@ -2261,43 +1166,10 @@ Every overture recorded across all General Assemblies, grouped by Assembly. Page
 | [27](../overtures/ga31_2003__o27.md) | Instruct MNA Not to Form Second-Generation Korean Ethnic Presbyteries |  | Korean Eastern Presbytery (to MNA) “Refrain From 2nd Generation Ethnic Presbyteries” Where | [p.88](../markdown/ga31_2003.md#ga31-p88) |
 | [28](../overtures/ga31_2003__o28.md) | Hire a Conciliation Director for the Administrative Committee | Answered in the negative | Overture 28 from Missouri Presbytery and Rocky Mountain Presbytery (to AC) | [p.149](../markdown/ga31_2003.md#ga31-p149) |
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## 32nd General Assembly (2004)  ·  `ga32_2004`
 
-
-
 | Overture | Subject | Outcome | Source | Pages |
-
 |---:|---|---|---|---|
-
 | [1](../overtures/ga32_2004__o1.md) | Amend BCO 24-1 to Add Knowledge of Holy Scripture as Ordination Examination Requirement | Answered in the negative | OVERTURE 1 from Heritage Presbytery | [p.155](../markdown/ga32_2004.md#ga32-p155) |
 | [2](../overtures/ga32_2004__o2.md) | Amend BCO 24-3 Regarding Election of Ruling Elders and Deacons | Approved & ratified (2005) | OVERTURE 2 from Eastern Canada Presbytery | [p.156](../markdown/ga32_2004.md#ga32-p156) |
 | [3](../overtures/ga32_2004__o3.md) | Transfer Lancaster County, SC from Palmetto to Fellowship Presbytery | Answered in the affirmative, pending Palmetto Presbytery approval | OVERTURE 3 from Fellowship Presbytery (to MNA) | [p.131](../markdown/ga32_2004.md#ga32-p131) |
@@ -2315,31 +1187,10 @@ Every overture recorded across all General Assemblies, grouped by Assembly. Page
 | [15](../overtures/ga32_2004__o15.md) | Affirm Support for a Federal Marriage Amendment Defining Marriage | Answered by reference | Missouri Presbytery “Support Marriage Amendment to U. S. Constitution – Version 4” Whereas | [p.193](../markdown/ga32_2004.md#ga32-p193) |
 | [16](../overtures/ga32_2004__o16.md) | Affirm Biblical Definition of Marriage and Oppose Homosexual Unions | Adopted (final) | OVERTURE 16 from Missouri Presbytery | [p.179](../markdown/ga32_2004.md#ga32-p179) |
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## 33rd General Assembly (2005)  ·  `ga33_2005`
 
-
-
 | Overture | Subject | Outcome | Source | Pages |
-
 |---:|---|---|---|---|
-
 | [1](../overtures/ga33_2005__o1.md) | Annotate 'Papists' in WCF XXIV.3 with Explanatory Footnote | Answered in the negative | OVERTURE 1 from Iowa Presbytery | [p.196](../markdown/ga33_2005.md#ga33-p196) |
 | [2](../overtures/ga33_2005__o2.md) | Adjust the Boundaries of Potomac Presbytery | Adopted (final) | OVERTURE 2 from Potomac Presbytery (to MNA) | [p.164](../markdown/ga33_2005.md#ga33-p164) |
 | [3](../overtures/ga33_2005__o3.md) | Revise BCO 19-12 Regarding Intern Reports in Presbytery Minutes | Answered in the negative | OVERTURE 3 from Central Carolina Presbytery | [p.197](../markdown/ga33_2005.md#ga33-p197) |
@@ -2356,30 +1207,10 @@ Every overture recorded across all General Assemblies, grouped by Assembly. Page
 | [14](../overtures/ga33_2005__o14.md) | Distribute the Mississippi Valley Report on New Perspectives on Paul to Presbytery Clerks | Answered in the negative | Mississippi Valley Presbytery (to B & O) “Mississippi Valley Informational Report on the N | [p.206](../markdown/ga33_2005.md#ga33-p206) |
 | [15](../overtures/ga33_2005__o15.md) | Adjust the Boundaries of Great Lakes and Ascension Presbyteries | Answered in the negative | OVERTURE 15 from Great Lakes Presbytery (to MNA) | [p.170](../markdown/ga33_2005.md#ga33-p170) |
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## 34th General Assembly (2006)  ·  `ga34_2006`
 
-
-
 | Overture | Subject | Outcome | Source | Pages |
-
 |---:|---|---|---|---|
-
 | [1](../overtures/ga34_2006__o1.md) | Enlarge the Boundaries of Covenant Presbytery | Adopted (final) | OVERTURE 1 from Covenant Presbytery (to MNA) | [p.179](../markdown/ga34_2006.md#ga34-p179) |
 | [2](../overtures/ga34_2006__o2.md) | Erect Ad Interim Study Committee on Federal Vision and New Perspective on Paul | Adopted (final) | Rocky Mountain Presbytery | [p.235](../markdown/ga34_2006.md#ga34-p235) |
 | [3](../overtures/ga34_2006__o3.md) | Amend RAO 16-1 to Remove Minutes from Assembly Registration Fee |  | the Susquehanna Valley Presbytery (to AC) “Revise RAO 16-1 to Remove Minutes from Registra | [p.162](../markdown/ga34_2006.md#ga34-p162) |
@@ -2407,41 +1238,10 @@ Every overture recorded across all General Assemblies, grouped by Assembly. Page
 | [25](../overtures/ga34_2006__o25.md) | Issue Statement on Justice and Peace Regarding U.S.-Iran Relations | Out of order | Missouri Presbytery (to B&O) “Justice & Peace Concerning U.S.-Iran Relations" Whereas the | [p.211](../markdown/ga34_2006.md#ga34-p211) |
 | [26](../overtures/ga34_2006__o26.md) | Receive and Commend Missouri Presbytery's Federal Vision Theology Report | Answered in the negative | Missouri Presbytery (to B&O) “Consider and Recommend Missouri Presbytery Report on Federal | [p.212](../markdown/ga34_2006.md#ga34-p212) |
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## 35th General Assembly (2007)  ·  `ga35_2007`
 
-
-
 | Overture | Subject | Outcome | Source | Pages |
-
 |---:|---|---|---|---|
-
 | [1](../overtures/ga35_2007__o1.md) | Amend BCO 35-7 to Remove Mandatory Transcript Requirement for Trial Testimony | Answered in the negative | Southeast Alabama Presbytery (to CCB and OC) “Revise BCO 35-7 to Omit Transcript of Testim | [p.149](../markdown/ga35_2007.md#ga35-p149) |
 | [2](../overtures/ga35_2007__o2.md) | Amend BCO 56-4.d to Clarify Baptism as Sprinkling and Washing | Answered in the negative | Presbytery of New Jersey (to CCB and OC) “Delete ‘or’ and substitute ‘the’ in BCO 56-4.d” | [p.151](../markdown/ga35_2007.md#ga35-p151) |
 | [3](../overtures/ga35_2007__o3.md) | Change Boundaries of Metropolitan New York Presbytery | Adopted (final) | Metropolitan New York Presbytery (to MNA) “Redefine Metropolitan New York Boundary" | [p.105](../markdown/ga35_2007.md#ga35-p105) |
@@ -2463,35 +1263,10 @@ Every overture recorded across all General Assemblies, grouped by Assembly. Page
 | [20](../overtures/ga35_2007__o20.md) | Change the Boundary of Northwest Georgia Presbytery |  | OVERTURE 20 from Northwest Georgia Presbytery (to MNA) | [p.116](../markdown/ga35_2007.md#ga35-p116) |
 | [21](../overtures/ga35_2007__o21.md) | Adopt Overture 4 Affirming Historic Presbyterian Polity on Presbytery Call Powers | Answered in the negative | Tennessee Valley Presbytery (to OC) “Adopt Overture 4” At its Spring Stated Meeting held o | [p.156](../markdown/ga35_2007.md#ga35-p156) |
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## 36th General Assembly (2008)  ·  `ga36_2008`
 
-
-
 | Overture | Subject | Outcome | Source | Pages |
-
 |---:|---|---|---|---|
-
 | [1](../overtures/ga36_2008__o1.md) | Amend BCO 6-1, 6-4 & 6-5 on Methods of Church Membership |  | Southeast Alabama Presbytery (to CCB and OC) “Amend BCO 6-1, 6-4, and 6-5 to Define Method | [p.284](../markdown/ga36_2008.md#ga36-p284) |
 | [2](../overtures/ga36_2008__o2.md) | Amend BCO 57-5 to Require Affirmation of the Apostles' Creed for Membership | Answered in the negative | Southeast Alabama Presbytery (to CCB and OC) “Amend BCO 57-5 to Require Affirmation of the | [p.181](../markdown/ga36_2008.md#ga36-p181) |
 | [3](../overtures/ga36_2008__o3.md) | Amend BCO 38-3a, 46-5, 46-6, and 57-5 to Specify Transfers of Church Membership | Answered by reference | Southeast Alabama Presbytery (to CCB and OC) “Amend BCO 38-3-a, Move BCO 38-3-a to the vac | [p.185](../markdown/ga36_2008.md#ga36-p185) |
@@ -2513,35 +1288,10 @@ Every overture recorded across all General Assemblies, grouped by Assembly. Page
 | [19](../overtures/ga36_2008__o19.md) | Decline to Elect Study Committee on Deaconesses | Answered by reference | OVERTURE 19 from Central Georgia Presbytery (to OC) | [p.212](../markdown/ga36_2008.md#ga36-p212) |
 | [22](../overtures/ga36_2008__o22.md) | Declare Auburn Avenue Session Heterodox and Appoint Commissions to Discipline | Out of order | Suncoast Florida Presbytery (to SJC, pending advice of CCB) | [p.137](../markdown/ga36_2008.md#ga36-p137) |
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## 37th General Assembly (2009)  ·  `ga37_2009`
 
-
-
 | Overture | Subject | Outcome | Source | Pages |
-
 |---:|---|---|---|---|
-
 | [1](../overtures/ga37_2009__o1.md) | Amend BCO 37-7 Regarding Removal of Censure for Persons Who Have Relocated | Approved & ratified (2011) | OVERTURE 1 from Missouri Presbytery (to CCB, OC) | [p.263](../markdown/ga37_2009.md#ga37-p263) |
 | [2](../overtures/ga37_2009__o2.md) | Amend RAO 19-4.d, 14-9.h, and 15-8.g Governing Debate on Minority Reports | Adopted (final) | Potomac Presbytery (to CCB, OC) “Amend RAO 19-4.d, 14-9.h, and 15-8.g Governing Debate on | [p.59](../markdown/ga37_2009.md#ga37-p59) |
 | [3](../overtures/ga37_2009__o3.md) | Amend BCO 34-1 and 33-1 Regarding Assumption of Original Jurisdiction | Answered in the negative | Central Carolina Presbytery (to CCB, OC) “Amend BCO 34-1 and 33-1 Regarding Assumption of | [p.265](../markdown/ga37_2009.md#ga37-p265) |
@@ -2565,37 +1315,10 @@ Every overture recorded across all General Assemblies, grouped by Assembly. Page
 | [21](../overtures/ga37_2009__o21.md) | Concur with Formation of New Ohio Presbytery |  | Ascension Presbytery (to MNA) “Concur with Formation of New Ohio Presbytery” OVERTURE 22 f | [p.311](../markdown/ga37_2009.md#ga37-p311) |
 | [22](../overtures/ga37_2009__o22.md) | Transfer Harnett County from Central Carolina to Eastern Carolina Presbytery | Adopted (final) | Eastern Carolina Presbytery (to MNA) “Concur with Central Carolina Presbytery to Revise Pr | [p.247](../markdown/ga37_2009.md#ga37-p247) |
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## 38th General Assembly (2010)  ·  `ga38_2010`
 
-
-
 | Overture | Subject | Outcome | Source | Pages |
-
 |---:|---|---|---|---|
-
 | [1](../overtures/ga38_2010__o1.md) | Direct CEP to Promote Ministry To and By Senior Members |  | OVERTURE 1 from New Jersey Presbytery | [p.284](../markdown/ga38_2010.md#ga38-p284) |
 | [2](../overtures/ga38_2010__o2.md) | Amend BCO 9-7 to Prohibit Deaconesses |  | OVERTURE 2 from Central Carolina Presbytery | [p.388](../markdown/ga38_2010.md#ga38-p388) |
 | [3](../overtures/ga38_2010__o3.md) | Expand Boundaries of Pacific Northwest Presbytery to Include Alaska, Oregon, and Idaho | Adopted (final) | Pacific Northwest Presbytery "Expand Boundaries of Pacific Northwest Presbytery" Whereas t | [p.299](../markdown/ga38_2010.md#ga38-p299) |
@@ -2624,42 +1347,10 @@ Every overture recorded across all General Assemblies, grouped by Assembly. Page
 | [26](../overtures/ga38_2010__o26.md) | Move Wilkes County from Western Carolina to Piedmont Triad Presbytery | Answered by reference | OVERTURE 26 from Piedmont Triad Presbytery | [p.317](../markdown/ga38_2010.md#ga38-p317) |
 | [28](../overtures/ga38_2010__o28.md) | Adopt Sanctity of Life Resolution Urging Cross-Denominational Action on Abortion | Adopted (final) | the South Florida Presbytery “Sanctity of Life Resolution" Whereas the Holy Spirit, speaki | [p.356](../markdown/ga38_2010.md#ga38-p356) |
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## 39th General Assembly (2011)  ·  `ga39_2011`
 
-
-
 | Overture | Subject | Outcome | Source | Pages |
-
 |---:|---|---|---|---|
-
 | [1](../overtures/ga39_2011__o1.md) | Divide Central Carolina Presbytery into Two Presbyteries |  | Central Carolina Presbytery (To MNA) “Multiply Central Carolina Presbytery” | [p.611](../markdown/ga39_2011.md#ga39-p611) |
 | [2](../overtures/ga39_2011__o2.md) | Amend RAO 4-9 to Set Term Limits for Program Committee Coordinators & Stated Clerk |  | South Florida Presbytery (to CCB, OC) “Amend RAO 4-9 to Set Term Limits for Coordinators o | [p.613](../markdown/ga39_2011.md#ga39-p613) |
 | [3](../overtures/ga39_2011__o3.md) | Adopt an Alternative Administrative Committee Funding Plan |  | Northwest Georgia Presbytery (to AC) “Alternative AC Funding Plan One” | [p.615](../markdown/ga39_2011.md#ga39-p615) |
@@ -2676,30 +1367,10 @@ Every overture recorded across all General Assemblies, grouped by Assembly. Page
 | [14](../overtures/ga39_2011__o14.md) | Discontinue AC Financial Support of byFaith Magazine and byFaithOnline.com |  | Great Lakes Presbytery (to AC) “Discontinue AC Financial Support of by FaithOnline.com and | [p.634](../markdown/ga39_2011.md#ga39-p634) |
 | [15](../overtures/ga39_2011__o15.md) | Adopt Alternative AC Funding Plan Avoiding Mandatory Fees |  | South Coast Presbytery (to AC) “Alternative AC Funding Plan 3” | [p.635](../markdown/ga39_2011.md#ga39-p635) |
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## 40th General Assembly (2012)  ·  `ga40_2012`
 
-
-
 | Overture | Subject | Outcome | Source | Pages |
-
 |---:|---|---|---|---|
-
 | [1](../overtures/ga40_2012__o1.md) | Amend BCO 19-2 to Require Candidates to Disclose Confessional Differences at Licensure |  | Western Carolina Presbytery (to CCB, OC) “Amend BCO 19-2” | [p.684](../markdown/ga40_2012.md#ga40-p684) |
 | [2](../overtures/ga40_2012__o2.md) | Amend BCO 19-2 to Require Candidates to Disclose Confessional Differences at Licensure |  | Presbytery of Northern New England (to CCB, OC) “Amend BCO 19-2” | [p.685](../markdown/ga40_2012.md#ga40-p685) |
 | [3](../overtures/ga40_2012__o3.md) | Amend RAO 12-1 and 15-1 to Refer Constitutional Amendments to the Overtures Committee |  | Potomac Presbytery (to CCB, OC) “Amend RAO 12-1 and 15-1” | [p.686](../markdown/ga40_2012.md#ga40-p686) |
@@ -2747,61 +1418,10 @@ Every overture recorded across all General Assemblies, grouped by Assembly. Page
 | [43](../overtures/ga40_2012__o43.md) | Establish Denominational Funding Strategy for General Assembly Local Arrangements |  | James River Presbytery (to AC) "Funding General Assembly Local Arrangements Committee" | [p.749](../markdown/ga40_2012.md#ga40-p749) |
 | [44](../overtures/ga40_2012__o44.md) | Commemorate the 30th Anniversary of the Joining and Receiving |  | New Jersey (to IRC) "Church Unity and 30th Anniversary of Joining and Receiving" | [p.751](../markdown/ga40_2012.md#ga40-p751) |
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## 41st General Assembly (2013)  ·  `ga41_2013`
 
-
-
 | Overture | Subject | Outcome | Source | Pages |
-
 |---:|---|---|---|---|
-
 | [1](../overtures/ga41_2013__o1.md) | Amend RAO Article One to Set Combined Special Order for Six Items at Each GA | Answered in the negative | Pacific Northwest Presbytery (to AC, CCB) | [p.815](../markdown/ga41_2013.md#ga41-p815) |
 | [2](../overtures/ga41_2013__o2.md) | Amend BCO 5-1, 5-2, 5-9 and Add Sections 5-11 and 5-12 Regarding Mission Churches | Referred | North Texas (to CCB [RAO 8-2.b3], “Amend BCO 5-1, 5-2, 5-9; and | [p.818](../markdown/ga41_2013.md#ga41-p818) |
 | [3](../overtures/ga41_2013__o3.md) | Amend BCO 8-6 Regarding Commissioning an Evangelist |  | North Texas Presbytery (to CCB [RAO 8-2.b3]; “Amend BCO 8-6 Regarding | [p.823](../markdown/ga41_2013.md#ga41-p823) |
@@ -2826,38 +1446,10 @@ Every overture recorded across all General Assemblies, grouped by Assembly. Page
 | [22](../overtures/ga41_2013__o22.md) | Assume Original Jurisdiction per BCO 34-1 and Direct SJC to Hear Pacific Northwest Presbytery vs. Peter Leithart |  | Mississippi Valley Presbytery (to SJC [BCO 15-4, “Assume Original Jurisdiction per BCO 34- | [p.869](../markdown/ga41_2013.md#ga41-p869) |
 | [23](../overtures/ga41_2013__o23.md) | Direct the SJC to Find Case 2012-09 Administratively in Order and Hear the Case | Out of order | Great Lakes Presbytery “Direct the Standing Judicial Commission to Find SJC 2012-09 Administratively in Order and to Hear the Case” | [p.872](../markdown/ga41_2013.md#ga41-p872) |
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## 42nd General Assembly (2014)  ·  `ga42_2014`
 
-
-
 | Overture | Subject | Outcome | Source | Pages |
-
 |---:|---|---|---|---|
-
 | [1](../overtures/ga42_2014__o1.md) | Transfer Certain Missouri Counties from Missouri Presbytery to Covenant Presbytery | Approved | Covenant Presbytery (to MNA), Transfer Certain Missouri Counties from Missouri Presbytery to Covenant Presbytery | [p.788](../markdown/ga42_2014.md#ga42-p788) |
 | [2](../overtures/ga42_2014__o2__p255.md) | Amend BCO 5-1, 5-2, 5-9 and Add Sections 5-11, 5-12 Regarding Mission Churches | Out of order | North Texas (to CCB [RAO 8-2.b3], “Amend BCO 5-1, 5-2, 5-9; and Add | [p.255](../markdown/ga42_2014.md#ga42-p255) |
 | [2](../overtures/ga42_2014__o2__p789.md) | Reaffirm the PCA's Position on Homosexuality and Same-sex Marriage |  | Westminster Presbytery (to OC) “Concerning Same-sex Marriage” | [p.789](../markdown/ga42_2014.md#ga42-p789) |
@@ -2914,70 +1506,10 @@ Every overture recorded across all General Assemblies, grouped by Assembly. Page
 | [51](../overtures/ga42_2014__o51.md) | Affirm Overture 6 on Child Protection in the PCA |  | Blue Ridge Presbytery (to OC) “Affirm Overture 6 Regarding Child Protection in the PCA” Wh | [p.858](../markdown/ga42_2014.md#ga42-p858) |
 | [52](../overtures/ga42_2014__o52.md) | Adopt an Official Seal & Logo for the PCA |  | Southeast Alabama Presbytery (to AC) “Seal/Logo for PCA” Whereas, Christ has given the key | [p.858](../markdown/ga42_2014.md#ga42-p858) |
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## 43rd General Assembly (2015)  ·  `ga43_2015`
 
-
-
 | Overture | Subject | Outcome | Source | Pages |
-
 |---:|---|---|---|---|
-
 | [1](../overtures/ga43_2015__o1.md) | Amend BCO 15-1 & 15-3 to Allow Final-Decision Judicial Commissions | Answered in the negative | Pacific Northwest Presbytery (to CCB, OC) “Amend BCO 15-1 and 15-3 to give Presbyteries th | [p.598](../markdown/ga43_2015.md#ga43-p598) |
 | [2](../overtures/ga43_2015__o2.md) | Form Ad Interim Committee to Revise Westminster Standards on Sabbath | Answered in the negative | OVERTURE 2 from North Texas Presbytery (to OC, CCB, AC) | [p.601](../markdown/ga43_2015.md#ga43-p601) |
 | [3](../overtures/ga43_2015__o3.md) | Amend BCO 56-5 Parental Promises at Baptism of Covenant Children | Answered in the negative | Gulf Coast Presbytery (to OC, CCB) "Change the Wording of Parental Promises upon the Bapti | [p.603](../markdown/ga43_2015.md#ga43-p603) |
@@ -2989,25 +1521,10 @@ Every overture recorded across all General Assemblies, grouped by Assembly. Page
 | [9](../overtures/ga43_2015__o9.md) | Establish Study Committee on Westminster Standards & the Sabbath | Answered by reference | Tennessee Valley Presbytery (to AC, OC) “Establish Study Committee to Recommend Changes to | [p.615](../markdown/ga43_2015.md#ga43-p615) |
 | [10](../overtures/ga43_2015__o10.md) | Memorialize Teaching Elder John Wayne King | Other | Southern Louisiana Presbytery (to OC) “Memorial to Teaching Elder John Wayne King" | [p.622](../markdown/ga43_2015.md#ga43-p622) |
 
-
-
-
-
-
-
-
-
-
-
-
 ## 44th General Assembly (2016)  ·  `ga44_2016`
 
-
-
 | Overture | Subject | Outcome | Source | Pages |
-
 |---:|---|---|---|---|
-
 | [1](../overtures/ga44_2016__o1.md) | Adopt Steps Toward Racial Reconciliation | Answered by reference | OVERTURE 1 from Heartland Presbytery (to OC) | [p.572](../markdown/ga44_2016.md#ga44-p572) |
 | [2](../overtures/ga44_2016__o2.md) | Amend OMSJC 18.12.b and 18.12.c to Publish Opinions with SJC Decisions | Adopted as amended (SJC Manual change E, 704-13-31) | Pacific Northwest Presbytery (revised, to SJC) | [p.574](../markdown/ga44_2016.md#ga44-p574) |
 | [3](../overtures/ga44_2016__o3.md) | Amend BCO 15-3 to Allow Judicial Commission Minority Reports | Referred | Chesapeake Presbytery (to CCB, OC) “Amend BCO 15-3 to Allow Judicial Commission Minority R | [p.577](../markdown/ga44_2016.md#ga44-p577) |
@@ -3072,78 +1589,10 @@ Every overture recorded across all General Assemblies, grouped by Assembly. Page
 | [62](../overtures/ga44_2016__o62.md) | Transfer Sangamon County from Illiana to Northern Illinois Presbytery | Adopted (final) | Northern Illinois Presbytery (to MNA) "Restructure Boundary of Presbytery of Northern Illinois" | [p.706](../markdown/ga44_2016.md#ga44-p706) |
 | [63](../overtures/ga44_2016__o63.md) | Urge GA to Answer Overture 4 on Racial Reconciliation in the Affirmative | Answered by reference | Ohio Valley Presbytery (to OC) “In Support of Overture 4 from Missouri Presbytery" | [p.707](../markdown/ga44_2016.md#ga44-p707) |
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## 45th General Assembly (2017)  ·  `ga45_2017`
 
-
-
 | Overture | Subject | Outcome | Source | Pages |
-
 |---:|---|---|---|---|
-
 | [1](../overtures/ga45_2017__o1.md) | Urge Each Presbytery to Support Financial Funding of Bible Translation | Answered in the negative | the Presbytery of Southwest Florida (to OC) "Financing Bible Translation" | [p.647](../markdown/ga45_2017.md#ga45-p647) |
 | [2](../overtures/ga45_2017__o2.md) | Grant BCO 59 on Solemnization of Marriage Full Constitutional Status | Recommitted | Calvary Presbytery (to CCB, OC) Grant BCO 59, "Solemnization of Marriage," Full Constituti | [p.648](../markdown/ga45_2017.md#ga45-p648) |
 | [3](../overtures/ga45_2017__o3.md) | Declare 44th GA Erred in Forming Ad Interim Committee on Women and Dismiss It | Answered in the negative | Westminster Presbytery | [p.650](../markdown/ga45_2017.md#ga45-p650) |
@@ -3170,40 +1619,10 @@ Every overture recorded across all General Assemblies, grouped by Assembly. Page
 | [24](../overtures/ga45_2017__o24.md) | Transfer Virginia Eastern Shore Counties from Heritage to Tidewater Presbytery | Adopted (final) | Heritage Presbytery (to MNA) “Concur with Overture 13 regarding Changing Boundaries of Her | [p.681](../markdown/ga45_2017.md#ga45-p681) |
 | [25](../overtures/ga45_2017__o25.md) | Promote Wholly Christian Education for All PCA Covenant Children | Answered in the negative | Session of Auburn Road Presbyterian Church, (to CDM) | [p.682](../markdown/ga45_2017.md#ga45-p682) |
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## 46th General Assembly (2018)  ·  `ga46_2018`
 
-
-
 | Overture | Subject | Outcome | Source | Pages |
-
 |---:|---|---|---|---|
-
 | [1](../overtures/ga46_2018__o1.md) | Grant BCO 59 on Solemnization of Marriage Full Constitutional Status | Answered by reference | Calvary Presbytery (to CCB, OC) Grant BCO 59, "Solemnization of Marriage," Full Constituti | [p.671](../markdown/ga46_2018.md#ga46-p671) |
 | [2](../overtures/ga46_2018__o2.md) | Amend BCO Chapter 59 and Grant It Full Constitutional Authority | Answered by reference | Grace Presbytery (to CCB, OC) “Amend BCO Chapter 59 and Grant Full Constitutional Authorit | [p.673](../markdown/ga46_2018.md#ga46-p673) |
 | [3](../overtures/ga46_2018__o3.md) | Amend BCO 32-19 to Allow Counsel by Any Communing Member in All Courts | Approved but not ratified | South Florida Presbytery (to CCB, OC) “Amend BCO 32-19 to Allow Counsel by Any Communing M | [p.675](../markdown/ga46_2018.md#ga46-p675) |
@@ -3244,54 +1663,10 @@ Every overture recorded across all General Assemblies, grouped by Assembly. Page
 | [39](../overtures/ga46_2018__o39.md) | Urge Presbyteries to Fund a Bible Translation | Answered in the negative | Southwest Florida Presbytery (to OC) “Urge Presbyteries to Fund a Bible Translation" Where | [p.746](../markdown/ga46_2018.md#ga46-p746) |
 | [40](../overtures/ga46_2018__o40.md) | Memorialize TE David A. Smith on the Floor of the Assembly | Out of order | Chicago Metro Presbytery (to OC) “Memorial to TE David A. Smith” | [p.747](../markdown/ga46_2018.md#ga46-p747) |
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## 47th General Assembly (2019)  ·  `ga47_2019`
 
-
-
 | Overture | Subject | Outcome | Source | Pages |
-
 |---:|---|---|---|---|
-
 | [1](../overtures/ga47_2019__o1.md) | Amend BCO 14-2 to Permit Additional Ruling Elder Representation at GA | Answered in the negative | Northwest Georgia Presbytery (to CCB, OC) “Revise BCO 14-2 to Permit Additional Ruling Eld | [p.583](../markdown/ga47_2019.md#ga47-p583) |
 | [2](../overtures/ga47_2019__o2.md) | Encourage Covenant Theological Seminary Toward Release from Assembly Oversight | Answered in the negative | Northwest Georgia Presbytery (to CCB, CTS, OC) “Encourage CTS toward Growth and Release fr | [p.586](../markdown/ga47_2019.md#ga47-p586) |
 | [3](../overtures/ga47_2019__o3.md) | Amend RAO 10-3 to Promote Godly Prudence in Planning Corporate Worship at General Assembly | Answered in the negative | Northern New England Presbytery (to AC, CCB) "Amend RAO 10-3 to Promote the Exercise of Go | [p.589](../markdown/ga47_2019.md#ga47-p589) |
@@ -3340,62 +1715,10 @@ Every overture recorded across all General Assemblies, grouped by Assembly. Page
 | [47](../overtures/ga47_2019__o47.md) | Form a Study Committee on Domestic Abuse and Sexual Assault | Answered by reference | Missouri Presbytery (to AC, OC) "Formation of a Study Committee on Domestic Abuse and Sexu | [p.713](../markdown/ga47_2019.md#ga47-p713) |
 | [48](../overtures/ga47_2019__o48.md) | Make a Stronger Statement Regarding Abortion | Answered in the negative | the Session of Christ the King (to OC) Presbyterian Church, Norman, Oklahoma “Make a Stron | [p.714](../markdown/ga47_2019.md#ga47-p714) |
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## 48th General Assembly (2021)  ·  `ga48_2021`
 
-
-
 | Overture | Subject | Outcome | Source | Pages |
-
 |---:|---|---|---|---|
-
 | [1](../overtures/ga48_2021__o1.md) | Amend BCO 8-7 Regarding Chaplains | Answered in the negative | the Presbytery of Potomac (to CCB, OC) “Amend BCO 8-7 Regarding Chaplains” | [p.966](../markdown/ga48_2021.md#ga48-p966) |
 | [2](../overtures/ga48_2021__o2.md) | Assume Original Jurisdiction in Missouri Presbytery Case Regarding TE Greg Johnson | Answered by reference | Central Georgia Presbytery (to SJC) “BCO 34-1 request for General Assembly to Assume Origi | [p.969](../markdown/ga48_2021.md#ga48-p969) |
 | [3](../overtures/ga48_2021__o3.md) | Amend MTW Policy Manual to Restrict Leadership Roles to Ordained Elders | Answered by reference | Heritage Presbytery (to MTW) “Amend MTW Manual” | [p.970](../markdown/ga48_2021.md#ga48-p970) |
@@ -3445,63 +1768,10 @@ Every overture recorded across all General Assemblies, grouped by Assembly. Page
 | [47](../overtures/ga48_2021__o47.md) | Form Study Committee to Examine Critical Race Theory | Answered in the negative | Chesapeake Presbytery (to OC, AC) “Form Study Committee on Critical Race Theory” | [p.1115](../markdown/ga48_2021.md#ga48-p1115) |
 | [48](../overtures/ga48_2021__o48.md) | Repudiate Anti-Asian Racism and Affirm the Dignity of Asian Americans | Adopted (final) | Korean Capital Presbytery (to OC) “Repudiate Anti-Asian Racism” " " | [p.1116](../markdown/ga48_2021.md#ga48-p1116) |
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## 49th General Assembly (2022)  ·  `ga49_2022`
 
-
-
 | Overture | Subject | Outcome | Source | Pages |
-
 |---:|---|---|---|---|
-
 | [1](../overtures/ga49_2022__o1.md) | Docket Overtures Committee Report as Thursday Morning Order of the Day | Answered in the negative | Palmetto Presbytery (to AC) “Docket Overtures Committee Report as a GA Order of the Day” | [p.1303](../markdown/ga49_2022.md#ga49-p1303) |
 | [2](../overtures/ga49_2022__o2.md) | Amend BCO 22-3 to Allow Assistant Pastors to File Complaints Against Sessions |  | the Tennessee Valley Presbytery (to CCB, OC) “Amend BCO 22-3 to allow Assistant Pastors to | [p.1303](../markdown/ga49_2022.md#ga49-p1303) |
 | [3](../overtures/ga49_2022__o3.md) | Withdraw from the National Association of Evangelicals | Adopted (final) | Pee Dee Presbytery (to IRC) “Withdraw from the National Association of Evangelicals” | [p.1304](../markdown/ga49_2022.md#ga49-p1304) |
@@ -3543,56 +1813,10 @@ Every overture recorded across all General Assemblies, grouped by Assembly. Page
 | [41](../overtures/ga49_2022__o41.md) | Declare Critical Race Theory Inconsistent with Biblical and Reformed Theology | Postponed indefinitely | The Session of Bethel Christian Church-Chicago (to OC) | [p.1398](../markdown/ga49_2022.md#ga49-p1398) |
 | [42](../overtures/ga49_2022__o42.md) | Forbid Elder Participation in Secretive Political Groups | Answered in the negative | Session of Bethel Christian Church-Chicago (to OC) | [p.1400](../markdown/ga49_2022.md#ga49-p1400) |
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## 50th General Assembly (2023)  ·  `ga50_2023`
 
-
-
 | Overture | Subject | Outcome | Source | Pages |
-
 |---:|---|---|---|---|
-
 | [1](../overtures/ga50_2023__o1.md) | Restructure the Boundary of the Presbytery of Southwest Florida |  | Presbytery of Southwest Florida (to MNA) (to MNA) "Restructure Boundary of Presbytery of S | [p.975](../markdown/ga50_2023.md#ga50-p975) |
 | [2](../overtures/ga50_2023__o2.md) | Request PCA Join the International Conference of Reformed Churches | Answered by reference | Covenant Presbytery (to IRC, AC) "Request PCA Join International Conference of Reformed Ch | [p.976](../markdown/ga50_2023.md#ga50-p976) |
 | [3](../overtures/ga50_2023__o3.md) | Amend RAO 14-9.h and 15-8.g to Limit General Assembly Debate | Answered in the negative | James River Presbytery (to CCB, OC) "Amend RAO 14-9.h and RAO 15-8.g to Limit General Asse | [p.977](../markdown/ga50_2023.md#ga50-p977) |
@@ -3623,44 +1847,10 @@ Every overture recorded across all General Assemblies, grouped by Assembly. Page
 | [28](../overtures/ga50_2023__o28.md) | Declare 1973 Message to All Churches a Faithful Expression of Biblical Polity Shaping the PCA | Approved (amended) | Calvary Presbytery (to OC, AC) "Declare Message to All Nations a Faithful Expression of Bi | [p.1043](../markdown/ga50_2023.md#ga50-p1043) |
 | [29](../overtures/ga50_2023__o29.md) | Direct the PCA Foundation Board to Adopt a Risk Management Policy | Adopted (final) | Southern New England Presbytery (to PCAF) "Direct the Board of the PCA Foundation to Adopt | [p.1051](../markdown/ga50_2023.md#ga50-p1051) |
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## 51st General Assembly (2024)  ·  `ga51_2024`
 
-
-
 | Overture | Subject | Outcome | Source | Pages |
-
 |---:|---|---|---|---|
-
 | [1](../overtures/ga51_2024__o1.md) | Amend BCO 35-1 and 35-8 Regarding Witness Eligibility | Answered in the negative | Piedmont Triad Presbytery (to CCB, OC) Original Overture #1: Vacated by the Presbytery Cur | [p.1055](../markdown/ga51_2024.md#ga51-p1055) |
 | [2](../overtures/ga51_2024__o2.md) | Amend BCO 13-6 for Clarity in Transfers of Ordination | Approved & ratified (2025) | Northern California Presbytery (to CCB, OC) “Amend BCO 13-6 for Clarity in Transfers of Or | [p.1067](../markdown/ga51_2024.md#ga51-p1067) |
 | [3](../overtures/ga51_2024__o3.md) | Grant Constitutional Status to BCO 53 Regarding Preaching | Answered in the negative | Pee Dee Presbytery (to CCB, OC) “Grant Constitutional Status to BCO 53 re Preaching" | [p.1069](../markdown/ga51_2024.md#ga51-p1069) |
@@ -3697,50 +1887,10 @@ Every overture recorded across all General Assemblies, grouped by Assembly. Page
 | [34](../overtures/ga51_2024__o34.md) | Merge Columbus Metro and Ohio Valley Presbyteries |  | Columbus Metro Presbytery (to MNA) | [p.1207](../markdown/ga51_2024.md#ga51-p1207) |
 | [35](../overtures/ga51_2024__o35.md) | Merge Ohio Valley and Columbus Metro Presbyteries |  | Ohio Valley Presbytery (to MNA) | [p.1208](../markdown/ga51_2024.md#ga51-p1208) |
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## 52nd General Assembly (2025)  ·  `ga52_2025`
 
-
-
 | Overture | Subject | Outcome | Source | Pages |
-
 |---:|---|---|---|---|
-
 | [1](../overtures/ga52_2025__o1.md) | Amend BCO 32-2 to Clarify Court's Authority to Investigate Before Filing Charges | Answered in the negative | OVERTURE 1 from Northern New England Presbytery (to CCB, OC) | [p.1165](../markdown/ga52_2025.md#ga52-p1165) |
 | [2](../overtures/ga52_2025__o2.md) | Expand Boundaries of South Florida Presbytery to Include Puerto Rico & US Virgin Islands | Adopted (final) | South Florida Presbytery (to MNA) “Expand Boundaries of South Florida Presbytery" | [p.1168](../markdown/ga52_2025.md#ga52-p1168) |
 | [3](../overtures/ga52_2025__o3.md) | Erect Ad Interim Study Committee on Christian Nationalism | Answered by reference | Arizona Presbytery (to OC, AC) “Erect Ad Interim Committee on Christian Nationalism” | [p.1169](../markdown/ga52_2025.md#ga52-p1169) |
