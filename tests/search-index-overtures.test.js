@@ -46,7 +46,7 @@ test('search-index build retains linked overtures', () => {
       topics: ['Appoint Committee to Explore and Establish Reformed Ministerial Training'],
       provisions: [],
       year: 1973,
-      disposition: '',
+      disposition: 'committee report adopted as amended',
       url: 'markdown/ga01_1973.md#ga01-p23',
     });
   } finally {

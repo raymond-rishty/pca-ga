@@ -14,13 +14,50 @@ import json, os, re, sys
 ROOT = sys.argv[1] if len(sys.argv) > 1 else "/workspace"
 CAT = os.path.join(ROOT, "index", "OVERTURES.md")
 MAP = os.path.join(ROOT, "index", "overture_pages_map.json")
+EVENTS = os.path.join(ROOT, "index", "overture_events.jsonl")
 
 SEC = re.compile(r"`(ga\d+_\d+)`")
+
+
+def action_dispositions():
+    """Read curated final summaries, with a conservative final-action fallback."""
+    if not os.path.exists(EVENTS):
+        return {}
+    dispositions = {}
+    with open(EVENTS, encoding="utf-8") as stream:
+        for raw in stream:
+            if not raw.strip():
+                continue
+            bundle = json.loads(raw)
+            record_id = bundle.get("record_id")
+            if not record_id:
+                continue
+            summary = (bundle.get("disposition") or "").strip()
+            if not summary:
+                # Event bundles may have a sourced Assembly action without a
+                # separate disposition summary. Use the last non-procedural
+                # Assembly action, never an originating Presbytery or committee
+                # recommendation, as the concise card summary.
+                terminal = [
+                    event for event in bundle.get("events", [])
+                    if "assembly" in (event.get("phase") or "").lower()
+                    and not re.search(r"procedural|debate|committee recommendation|constitutional advice|dissent",
+                                      event.get("phase") or "", re.I)
+                    and (event.get("outcome") or "").strip()
+                ]
+                if terminal:
+                    summary = terminal[-1]["outcome"].strip()
+            if summary:
+                dispositions[record_id] = summary
+    return dispositions
+
+
 def main():
     if not (os.path.exists(CAT) and os.path.exists(MAP)):
         print(f"[{ROOT}] OVERTURES.md or map missing — skip"); return
     pmap = json.load(open(MAP))
-    vol = None; linked = 0
+    action_summary_by_id = action_dispositions()
+    vol = None; linked = 0; filled = 0
     out = []
     for line in open(CAT).read().split("\n"):
         s = SEC.search(line)
@@ -29,11 +66,17 @@ def main():
         m = re.match(r"^\|\s*(?:\[(\d+)\]\([^)]+\)|(\d+))\s*\|", line)
         if m and vol:
             num = m.group(1) or m.group(2)
-            cells = re.split(r"(?<!\\)\|", line.strip().strip("|"))
+            cells = [cell.strip() for cell in re.split(r"(?<!\\)\|", line.strip().strip("|"))]
             page_refs = re.findall(r"\[p\.(\d+)\]\([^)]*#ga\d+-p(\d+)\)", cells[4]) if len(cells) == 5 else []
             source_page = int(page_refs[0][1]) if page_refs else None
             record_id = f"overture:{vol}:{num}:p{source_page}" if source_page else None
             page = pmap.get(record_id) if record_id else None
+            if record_id and len(cells) == 5 and not cells[2].strip():
+                action_summary = action_summary_by_id.get(record_id)
+                if action_summary:
+                    cells[2] = action_summary.replace("|", "\\|").replace("\n", " ").strip()
+                    line = "| " + " | ".join(cells) + " |"
+                    filled += 1
             if page:
                 replacement = f"[{num}](../{page})"
                 first_cell = m.group(0)
@@ -41,7 +84,7 @@ def main():
                 linked += 1
         out.append(line)
     open(CAT, "w").write("\n".join(out))
-    print(f"[{ROOT}] linked {linked} overture-catalogue rows to their pages")
+    print(f"[{ROOT}] linked {linked} overture-catalogue rows; filled {filled} blank outcome cells from action trails")
 
 if __name__ == "__main__":
     main()

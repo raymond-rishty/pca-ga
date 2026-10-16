@@ -736,7 +736,8 @@
     } else if (variant === 'overture' && groupLabel) {
       const group = document.createElement('span');
       group.className = 'catalogue-record__eyebrow-context';
-      group.textContent = groupLabel;
+      const assemblyLabel = groupLabel.replace(/^(\d+)(?:st|nd|rd|th) General Assembly \((\d{4})\)$/, 'GA $1 · $2');
+      group.textContent = [assemblyLabel, numberText ? `Overture ${numberText}` : ''].filter(Boolean).join(' · ');
       eyebrow.append(group);
     } else if (groupLabel) {
       const group = document.createElement('span');
@@ -744,7 +745,7 @@
       group.textContent = groupLabel;
       eyebrow.append(group);
     }
-    if (numberText) {
+    if (numberText && variant !== 'overture') {
       const number = document.createElement('span');
       number.className = 'catalogue-record__eyebrow-id';
       number.textContent = variant === 'overture' ? `Overture ${numberText}` : numberText;
@@ -754,7 +755,14 @@
 
     const title = document.createElement('h3');
     title.className = 'catalogue-record__title';
-    catalogueCopyCell(titleCell, title);
+    if (variant === 'overture' && primaryAnchor) {
+      const titleLink = document.createElement('a');
+      titleLink.href = primaryAnchor.href;
+      titleLink.textContent = titleText;
+      title.append(titleLink);
+    } else {
+      catalogueCopyCell(titleCell, title);
+    }
     if (!title.textContent.trim()) title.textContent = titleText || 'Untitled record';
     const resultTitle = titleText || title.textContent.trim() || 'PCA record';
     const resultCitation = variant === 'study' ? '' : catalogueDigestCitation(numberText, sourceCell);
@@ -796,7 +804,7 @@
     } else {
       const statusLabel = document.createElement('span');
       statusLabel.className = 'catalogue-record__status-label';
-      statusLabel.textContent = variant === 'overture' ? 'Assembly action' : 'Disposition';
+      statusLabel.textContent = variant === 'overture' ? 'Outcome' : 'Disposition';
       status.append(statusLabel);
     }
     if (statusText) {
@@ -807,7 +815,7 @@
     } else if (variant === 'overture') {
       const badge = document.createElement('span');
       badge.className = 'catalogue-record__badge catalogue-record__badge--unrecorded';
-      badge.textContent = 'No outcome recorded';
+      badge.textContent = 'No final action located';
       status.append(badge);
     }
     if (status.children.length) main.append(status);
