@@ -56,6 +56,8 @@ def classify(title: str, outcome: str = "") -> dict[str, str]:
     if kind == "Amendment" and instrument == "BCO":
         if re.search(r"\b(two-thirds|2/3).{0,100}\bpresbyter", process_text, re.I) or re.search(r"\b(enacted|ratified)\b", process_text, re.I):
             stage = "Ratification or enactment recorded"
+        elif re.search(r"\bamendments?\b.{0,60}\bnot sent (?:down )?(?:to presbyteries|for ratification)?\b|\bnot sent (?:down )?for ratification\b", process_text, re.I):
+            stage = "Not sent down for ratification"
         elif re.search(r"\b(advice and consent|approved by.{0,40}presbyter|sent (?:down )?to.{0,40}presbyter|presbyter.{0,40}(approve|ratif))", process_text, re.I):
             stage = "Presbytery review recorded"
         elif re.search(r"\b(adopted|approved|recommended)\b", process_text, re.I):
