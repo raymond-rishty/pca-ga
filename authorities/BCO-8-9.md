@@ -7,7 +7,7 @@
 | 2011 | Judicial case | explicit_citation | direct_text | high | [Phelps v. Pacific Presbytery](../cases/ga39_2011__2009-24.md) | denied |
 | 2023 | CCB advice | structured_provision_tag | structured_provision_tag | medium | [Amend BCO 32-19 Regarding Use of Professional Counsel in Cases of Process](../inquiries/ga50_2023__ci10.md) | in conflict; Adopted 8-0-0 |
 | 2023 | CCB advice | structured_provision_tag | structured_provision_tag | medium | [Amend BCO 32-19 to Clarify Use of Professional Counsel in Cases of Process](../inquiries/ga50_2023__ci07.md) | in conflict; Adopted 8-0-0 |
-| 2025 | Overture | explicit_citation | direct_text | high | [Amend BCO 22 to Require Congregation Consent for Assistant Pastor Calls](../markdown/ga52_2025.md#ga52-p1187) | Referred |
+| 2025 | Overture | explicit_citation | direct_text | high | [Amend BCO 22 to Require Congregation Consent for Assistant Pastor Calls](../markdown/ga52_2025.md#ga52-p1187) | Referred back to Presbytery |
 | 1991 | Overture | explicit_citation | direct_text | high | [Amend BCO 24-5 to Permit Session Members to Ordain Elders and Deacons](../markdown/ga19_1991.md#ga19-p169) | BCO 24-5 amendment approved by GA20 and GA21 after presbytery approval (43–3) |
 | 2022 | RPR exception | structured_exception_tag | structured_provision_tag | medium | [Korean Southwest: Presbytery shall not restrict eligibility for office to teaching elders only. Ruling elder](../rpr/exc/korean-southwest__194.html) | satisfactory |
 

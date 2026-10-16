@@ -6,9 +6,9 @@
 |------|-------------|--------------|----------|------------|-------|-------------|
 | 2025 | Judicial case | explicit_citation | direct_text | high | [Bigelow v. North Florida Presbytery](../cases/ga52_2025__2024-05.md) | granted |
 | 2024 | Judicial case | explicit_citation | direct_text | high | [Psiaki v. Pacific Northwest Presbytery](../cases/ga51_2024__2023-11.md) | sustained |
-| 1996 | Overture | explicit_citation | direct_text | high | [Take No Action to Change BCO 38-2, 46-2, and 46-5 on Member Dismissal](../markdown/ga24_1996.md#ga24-p305) |  |
+| 1996 | Overture | explicit_citation | direct_text | high | [Take No Action to Change BCO 38-2, 46-2, and 46-5 on Member Dismissal](../markdown/ga24_1996.md#ga24-p305) | Answered by reference to Overture 27 |
 | 1984 | Overture | explicit_citation | direct_text | high | [Amend BCO 57-5 to Add Bible Belief Question for Church Membership](../markdown/ga12_1984.md#ga12-p74) | Not adopted (GA12, 1984) |
-| 1983 | Overture | explicit_citation | direct_text | high | [Amend BCO 57-5 to Add Question on Scripture as the Word of God](../markdown/ga11_1983.md#ga11-p47) | Referred |
+| 1983 | Overture | explicit_citation | direct_text | high | [Amend BCO 57-5 to Add Question on Scripture as the Word of God](../markdown/ga11_1983.md#ga11-p47) | Referred for study |
 
 ---
 *[← Authority Index](../index/AUTHORITY-BY-PROVISION.md)*

@@ -12,7 +12,7 @@
 | 1992 | Judicial case | explicit_citation | direct_text | high | [Robert D. Hopper v. James River Presbytery](../cases/ga20_1992__1991-04.md) |  |
 | 2002 | Overture | explicit_citation | direct_text | high | [Acknowledge Diversity of Views on Women in Military & Dismiss WIM Committee](../markdown/ga30_2002.md#ga30-p247) | Answered by reference |
 | 2002 | Overture | explicit_citation | direct_text | high | [Acknowledge Diversity of Views on Women in Military and Dismiss WIM Committee](../markdown/ga30_2002.md#ga30-p253) | Answered by reference |
-| 2001 | Overture | explicit_citation | direct_text | high | [Call the PCA to Repent for Abandonment of Covenantal Patriarchy](../markdown/ga29_2001.md#ga29-p234) |  |
+| 2001 | Overture | explicit_citation | direct_text | high | [Call the PCA to Repent for Abandonment of Covenantal Patriarchy](../markdown/ga29_2001.md#ga29-p234) | Answered in the negative |
 | 1994 | Overture | explicit_citation | direct_text | high | [Adopt Strict Subscription to Westminster Standards, Delimit New Revelation, and Repudiate Drama in Worship](../markdown/ga22_1994.md#ga22-p236) | Answered with adopted Recommendation 5; see the cited Assembly response. |
 | 1994 | Overture | explicit_citation | direct_text | high | [Adopt Strict Subscription, Delimit New Revelation & Repudiate Drama in Worship](../markdown/ga22_1994.md#ga22-p237) | Answered by reference to Recommendation 5. |
 | 1997 | RPR exception | multiple | multiple | high | [Warrior: Presbytery as a body has not taken action on the views of a TE regarding his belief in con](../rpr/exc/warrior__013.html) | satisfactory |

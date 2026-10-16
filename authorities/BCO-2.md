@@ -4,7 +4,7 @@
 
 | Year | Record type | Relationship | Evidence | Confidence | Title | Disposition |
 |------|-------------|--------------|----------|------------|-------|-------------|
-| 2012 | Overture | explicit_citation | direct_text | high | [Amend BCO 38-3a, 46-6, 46-7, and Remove BCO 57-6 on Church Membership Transfer](../markdown/ga40_2012.md#ga40-p735) |  |
+| 2012 | Overture | explicit_citation | direct_text | high | [Amend BCO 38-3a, 46-6, 46-7, and Remove BCO 57-6 on Church Membership Transfer](../markdown/ga40_2012.md#ga40-p735) | Answered in the negative |
 
 ---
 *[← Authority Index](../index/AUTHORITY-BY-PROVISION.md)*

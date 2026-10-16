@@ -1,6 +1,6 @@
 # Authority index audit
 
-Catalogue input fingerprint: `7d85e0e9f8b2985d6984ece945e41619b5e56011725b5a2b83febf282cf8053a`.
+Catalogue input fingerprint: `84ea3a1b3da16587b0906f547814aafd1815491064e765ccc122684d0566c41c`.
 
 The catalogue contains 1172 provisions, 12750 relationships, 16635 evidence occurrences, and 96 unmatched source references.
 
@@ -25,8 +25,8 @@ Reader-included relationships by scope:
 | CCB advice | `contextual` | 549 |
 | Constitutional inquiry | `primary` | 437 |
 | Judicial case | `primary` | 3264 |
-| Overture | `candidate` | 1555 |
-| Overture | `primary` | 58 |
+| Overture | `candidate` | 1526 |
+| Overture | `primary` | 87 |
 | RPR exception | `candidate` | 136 |
 | RPR exception | `contextual` | 6751 |
 
@@ -62,9 +62,9 @@ Reader-included relationships by scope:
 
 | Value | Count |
 |-------|------:|
-| `candidate` | 1691 |
+| `candidate` | 1662 |
 | `contextual` | 7300 |
-| `primary` | 3759 |
+| `primary` | 3788 |
 
 ### Relationships by match method
 
@@ -204,9 +204,9 @@ Reader-included relationships by scope:
 
 | Value | Count |
 |-------|------:|
-| `candidate` | 2929 |
+| `candidate` | 2900 |
 | `contextual` | 7544 |
-| `primary` | 6162 |
+| `primary` | 6191 |
 
 ## Unmatched source references
 
@@ -240,7 +240,7 @@ Reader-included relationships by scope:
 | BCO 24-11 | Overture | `overture:ga45_2017:4:p651` | `title_subject_reference` | `high` | `candidate` | [Add BCO 24-11 Specifying Males Only May Be Ordained as Elders or Deacons](../markdown/ga45_2017.md#ga45-p651) |
 | BCO 24-11 | Overture | `overture:ga46_2018:9:p686` | `title_subject_reference` | `high` | `candidate` | [Amend BCO 9-7 and Add BCO 24-11 Regarding Women Serving as Deaconesses](../markdown/ga46_2018.md#ga46-p686) |
 | BCO 25-14 | Judicial case | `case:cases/ga52_2025__2023-12.md` | `direct_text` | `high` | `primary` | [Flatgard v. Metro Atlanta Presbytery](../cases/ga52_2025__2023-12.md) |
-| BCO 26-11 | Overture | `overture:ga08_1980:8:p40` | `title_subject_reference` | `high` | `candidate` | [Amend BCO 26-11 on congregations withdrawing from the PCA](../markdown/ga08_1980.md#ga08-p40) |
+| BCO 26-11 | Overture | `overture:ga08_1980:8:p40` | `title_subject_reference` | `high` | `primary` | [Amend BCO 26-11 on congregations withdrawing from the PCA](../markdown/ga08_1980.md#ga08-p40) |
 | BCO 26-7 | Constitutional inquiry | `inquiry:inquiries/ga07_1979__ci02.md` | `structured_provision_tag` | `medium` | `primary` | [Eligibility of a female communing member to serve as church trustee](../inquiries/ga07_1979__ci02.md) |
 | BCO 27-11 | Overture | `overture:ga14_1986:37:p55` | `direct_text` | `high` | `candidate` | [Amend BCO 42-4 and 43-2 to Extend Appeal and Complaint Filing Period to Sixty Days](../markdown/ga14_1986.md#ga14-p55) |
 | BCO 27-37 | Constitutional inquiry | `inquiry:inquiries/ga12_1984__ci12.md` | `structured_provision_tag` | `medium` | `primary` | [Handling exceptions at ordination and distinctions between BCO and confessional exceptions](../inquiries/ga12_1984__ci12.md) |

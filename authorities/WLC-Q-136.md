@@ -5,7 +5,7 @@
 | Year | Record type | Relationship | Evidence | Confidence | Title | Disposition |
 |------|-------------|--------------|----------|------------|-------|-------------|
 | 2025 | Overture | explicit_citation | direct_text | high | [Encourage Discernment and Compassion Toward Immigrants](../markdown/ga52_2025.md#ga52-p1305) | Other |
-| 2022 | Overture | explicit_citation | direct_text | high | [Adopt a Statement on Political Violence](../markdown/ga49_2022.md#ga49-p1354) |  |
+| 2022 | Overture | explicit_citation | direct_text | high | [Adopt a Statement on Political Violence](../markdown/ga49_2022.md#ga49-p1354) | answered in the negative, 1108-371 |
 
 ---
 *[← Authority Index](../index/AUTHORITY-BY-PROVISION.md)*

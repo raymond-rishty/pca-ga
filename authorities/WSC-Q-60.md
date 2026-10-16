@@ -4,7 +4,7 @@
 
 | Year | Record type | Relationship | Evidence | Confidence | Title | Disposition |
 |------|-------------|--------------|----------|------------|-------|-------------|
-| 2015 | Overture | explicit_citation | direct_text | high | [Establish Study Committee on Westminster Standards & the Sabbath](../markdown/ga43_2015.md#ga43-p615) | Answered by reference |
+| 2015 | Overture | explicit_citation | direct_text | high | [Establish Study Committee on Westminster Standards & the Sabbath](../markdown/ga43_2015.md#ga43-p615) | Answered by reference to Overture 2 |
 | 2015 | Overture | explicit_citation | direct_text | high | [Form Ad Interim Committee to Revise Westminster Standards on Sabbath](../markdown/ga43_2015.md#ga43-p601) | Answered in the negative |
 | 2022 | RPR exception | body_mention | direct_text | high | [Philadelphia: Licensure candidate stated that he disagrees with the “strictness” of the Westminster Stan](../rpr/exc/philadelphia__050.html) | unsatisfactory |
 | 2021 | RPR exception | body_mention | direct_text | high | [Philadelphia: Candidate [name omitted]’s exceptions noted, but not recorded in his own words.](../rpr/exc/philadelphia__046.html) | satisfactory |

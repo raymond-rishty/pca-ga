@@ -9,7 +9,7 @@
 | 2014 | Judicial case | explicit_citation | direct_text | high | [the Session of Hope Community Church v. Central Carolina Presbytery](../cases/ga42_2014__2013-04.md) | sustained |
 | 1994 | Judicial case | explicit_citation | direct_text | high | [Smith v. Northeast Presbytery](../cases/ga22_1994__1993-01.md) | denied |
 | 2010 | Overture | proposal_target | title_subject_reference | high | [Revise BCO 5-2 Through 5-11 and Add New BCO 5-5 Regarding Church Organization](../markdown/ga38_2010.md#ga38-p370) | Approved & ratified (2011) |
-| 1994 | Overture | explicit_citation | direct_text | high | [Amend BCO 13 to Include Instructions on Dissolving Churches](../markdown/ga22_1994.md#ga22-p69) | GA22 adopted the BCO 13-10 response and sent it for advice and consent; GA23 reported 48-3 presbytery approval and adopted the text. |
+| 1994 | Overture | explicit_citation | direct_text | high | [Amend BCO 13 to Include Instructions on Dissolving Churches](../markdown/ga22_1994.md#ga22-p69) | Approved and ratified |
 | 1981 | Overture | multiple | multiple | high | [Amend BCO 5-2 to Clarify Presbytery Oversight of Unorganized Congregations](../markdown/ga09_1981.md#ga09-p41) | Answered by reference |
 | 2025 | RPR exception | structured_exception_tag | structured_provision_tag | medium | [Korean Southwest: No record of approval to labor out of bounds or that the Presbytery is assured that an out](../rpr/exc/korean-southwest__217.html) | raised |
 | 2025 | RPR exception | structured_exception_tag | structured_provision_tag | medium | [Korean Southwest: Presbytery apparently received organized churches without sessions and without providing r](../rpr/exc/korean-southwest__232.html) | raised |

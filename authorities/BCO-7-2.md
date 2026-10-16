@@ -17,15 +17,15 @@
 | 2017 | CCB advice | structured_provision_tag | structured_provision_tag | medium | [Sabbaticals for Officers in the Church](../inquiries/ga45_2017__ci04.md) | in conflict |
 | 2010 | CCB advice | structured_provision_tag | structured_provision_tag | medium | [Unordained Men and Women Carrying Out Diaconal Ministry](../inquiries/ga38_2010__ci04.md) | in conflict |
 | 2025 | Overture | explicit_citation | direct_text | high | [Amend BCO 24-1 to Clarify a Session's Role in Examining Officer Nominees](../markdown/ga52_2025.md#ga52-p1237) | Final approval reported by GA53 Stated Clerk (2026) |
-| 2024 | Overture | multiple | multiple | high | [Amend BCO 7-2 to Specify Ordination for Biological Males Only](../markdown/ga51_2024.md#ga51-p1102) |  |
+| 2024 | Overture | multiple | multiple | high | [Amend BCO 7-2 to Specify Ordination for Biological Males Only](../markdown/ga51_2024.md#ga51-p1102) | Answered in the negative |
 | 2018 | Overture | explicit_citation | direct_text | high | [Amend BCO 9-7 and Add BCO 24-11 Regarding Women Serving as Deaconesses](../markdown/ga46_2018.md#ga46-p686) | Answered in the negative |
 | 2018 | Overture | explicit_citation | direct_text | high | [Amend RAO 9-4 to Require Three Ruling Elders on Each Ad Interim Committee](../markdown/ga46_2018.md#ga46-p676) | Answered in the negative |
-| 2014 | Overture | explicit_citation | direct_text | high | [Establish a Study Committee on BCO 21-5 Third Ordination Vow and Biblical Polity](../markdown/ga42_2014.md#ga42-p825) |  |
+| 2014 | Overture | explicit_citation | direct_text | high | [Establish a Study Committee on BCO 21-5 Third Ordination Vow and Biblical Polity](../markdown/ga42_2014.md#ga42-p825) | Adopted, answering the overture in the negative. |
 | 1998 | Overture | explicit_citation | direct_text | high | [Amend BCO 24-5 to Remove Obedience Language in Deacon Congregational Vows](../markdown/ga26_1998.md#ga26-p204) | Answered in the negative |
-| 1996 | Overture | multiple | multiple | high | [Amend BCO 7-2 to Restrict Permanent Committee Voting to Ordained Officers](../markdown/ga24_1996.md#ga24-p289) |  |
-| 1996 | Overture | explicit_citation | direct_text | high | [Reject All Overtures Changing BCO 46-5](../markdown/ga24_1996.md#ga24-p302) |  |
-| 1986 | Overture | explicit_citation | direct_text | high | [Clarify the Proper Scope of Diaconal Ministry](../markdown/ga14_1986.md#ga14-p58) |  |
-| 1986 | Overture | explicit_citation | direct_text | high | [Discontinue the Annual GA Memorial Service for Teaching Elders](../markdown/ga14_1986.md#ga14-p44) | Adopted (final) |
+| 1996 | Overture | multiple | multiple | high | [Amend BCO 7-2 to Restrict Permanent Committee Voting to Ordained Officers](../markdown/ga24_1996.md#ga24-p289) | Answered in the negative. |
+| 1996 | Overture | explicit_citation | direct_text | high | [Reject All Overtures Changing BCO 46-5](../markdown/ga24_1996.md#ga24-p302) | Answered by reference to Overture 27 |
+| 1986 | Overture | explicit_citation | direct_text | high | [Clarify the Proper Scope of Diaconal Ministry](../markdown/ga14_1986.md#ga14-p58) | Referred for study; no explicit answer located |
+| 1986 | Overture | explicit_citation | direct_text | high | [Discontinue the Annual GA Memorial Service for Teaching Elders](../markdown/ga14_1986.md#ga14-p44) | Approved |
 | 2024 | RPR exception | structured_exception_tag | structured_provision_tag | medium | [Korean Southern: Church appoints women officers with no response from presbytery.](../rpr/exc/korean-southern__176.html) | satisfactory |
 | 2014 | RPR exception | structured_exception_tag | structured_provision_tag | medium | [Chesapeake: A session was improperly granted four years to come to compliance with BCO 7-2 and 9-3.](../rpr/exc/chesapeake__011.html) | unsatisfactory |
 | 2013 | RPR exception | structured_exception_tag | structured_provision_tag | medium | [Chesapeake: BCO 7-2, 9-3) A Session was improperly granted four years to come into compliance with BCO](../rpr/exc/chesapeake__009.html) | raised |

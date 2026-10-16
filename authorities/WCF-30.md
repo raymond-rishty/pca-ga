@@ -5,7 +5,7 @@
 | Year | Record type | Relationship | Evidence | Confidence | Title | Disposition |
 |------|-------------|--------------|----------|------------|-------|-------------|
 | 1995 | Judicial case | explicit_citation | direct_text | high | [Grace RPC Session v. Heartland Presbytery](../cases/ga23_1995__1993-12_1993-14.md) | sustained |
-| 2002 | Overture | explicit_citation | direct_text | high | [Specify Good Faith Subscription (Version 3) in BCO](../markdown/ga30_2002.md#ga30-p226) |  |
+| 2002 | Overture | explicit_citation | direct_text | high | [Specify Good Faith Subscription (Version 3) in BCO](../markdown/ga30_2002.md#ga30-p226) | Answered by reference |
 | 2002 | Overture | explicit_citation | direct_text | high | [Specify Good Faith Subscription (Version 4) in BCO](../markdown/ga30_2002.md#ga30-p228) | Answered by reference |
 
 ---
