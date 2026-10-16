@@ -689,6 +689,10 @@
     const typeCell = catalogueCell(cells, labels, /^type$/);
     const provenanceCell = catalogueCell(cells, labels, /^provenance$/);
     const sourceCell = catalogueCell(cells, labels, variant === 'overture' ? /^pages?$/ : /^(minutes|source)$/);
+    const overtureTypeCell = variant === 'overture' ? catalogueCell(cells, labels, /^type$/) : null;
+    const overtureInstrumentCell = variant === 'overture' ? catalogueCell(cells, labels, /^instrument$/) : null;
+    const overtureTopicCell = variant === 'overture' ? catalogueCell(cells, labels, /^topics?$/) : null;
+    const overtureStageCell = variant === 'overture' ? catalogueCell(cells, labels, /^bco amendment stage$/) : null;
     const numberText = catalogueCellText(numberCell);
     const titleText = catalogueCellText(titleCell);
     const synopsisText = catalogueCellText(synopsisCell);
@@ -710,8 +714,10 @@
     record.dataset.searchText = [
       groupLabel, numberText, titleText, synopsisText, catalogueCellText(provisionsCell),
       outcomeText, catalogueCellText(fromCell), catalogueCellText(assemblyCell),
-      catalogueCellText(typeCell), provenanceText, catalogueCellText(sourceCell),
+      catalogueCellText(typeCell), catalogueCellText(overtureTypeCell), catalogueCellText(overtureInstrumentCell),
+      catalogueCellText(overtureTopicCell), catalogueCellText(overtureStageCell), provenanceText, catalogueCellText(sourceCell),
     ].join(' ').toLocaleLowerCase();
+    record.dataset.catalogueType = catalogueCellText(overtureTypeCell).toLocaleLowerCase();
 
     const layout = document.createElement('div');
     layout.className = 'catalogue-record__layout';
@@ -818,11 +824,21 @@
       badge.textContent = 'No final action located';
       status.append(badge);
     }
+    if (variant === 'overture' && overtureTypeCell) {
+      const typeBadge = document.createElement('span');
+      typeBadge.className = 'catalogue-record__badge catalogue-record__badge--type';
+      typeBadge.textContent = 'Type · ' + catalogueCellText(overtureTypeCell);
+      status.append(typeBadge);
+    }
     if (status.children.length) main.append(status);
 
     const meta = document.createElement('div');
     meta.className = 'catalogue-record__meta';
     if (variant === 'overture') {
+      catalogueMeta(meta, 'Instrument', catalogueCellText(overtureInstrumentCell) === '—' ? '' : catalogueCellText(overtureInstrumentCell));
+      catalogueMeta(meta, 'Topics', catalogueCellText(overtureTopicCell));
+      const bcoStage = catalogueCellText(overtureStageCell);
+      if (bcoStage && bcoStage !== '—') catalogueMeta(meta, 'BCO process', bcoStage);
       catalogueMeta(meta, 'From', catalogueCellText(fromCell));
       if (sourceCell) {
         const item = document.createElement('span');
@@ -973,6 +989,7 @@
       : 'Search title, subject, provision, or source';
     toolbar.innerHTML = '<div class="catalogue-tools__field"><label for="catalogueSearch">Search this catalogue</label><input id="catalogueSearch" type="search" placeholder="' + placeholder + '" autocomplete="off"></div>'
       + (isOvertureCatalogue ? '<div class="catalogue-tools__field"><label for="catalogueAssembly">Jump to Assembly</label><select id="catalogueAssembly"><option value="">Choose an Assembly…</option></select></div>' : '')
+      + (isOvertureCatalogue ? '<div class="catalogue-tools__field"><label for="catalogueType">Filter by type</label><select id="catalogueType"><option value="">All overture types</option></select></div>' : '')
       + '<div class="catalogue-tools__field"><label for="catalogueStatus">' + (isOvertureCatalogue ? 'Filter by action' : 'Filter by status') + '</label><select id="catalogueStatus"><option value="">' + (isOvertureCatalogue ? 'All action types' : 'All statuses') + '</option></select></div><output id="catalogueResultCount" aria-live="polite"></output>';
     const insertionPoint = root.querySelector('h2, h3, table, .catalogue-records');
     insertionPoint?.before(toolbar);
@@ -981,25 +998,45 @@
     const search = toolbar.querySelector('#catalogueSearch');
     const status = toolbar.querySelector('#catalogueStatus');
     const assemblyJump = toolbar.querySelector('#catalogueAssembly');
+    const typeFilter = toolbar.querySelector('#catalogueType');
     const count = toolbar.querySelector('#catalogueResultCount');
     const statusIndex = tables.map((table) => {
       const header = table.tHead?.rows[0] || table.rows[0];
       const labels = header ? [...header.cells].map((cell) => cell.textContent.trim().toLowerCase()) : [];
       return labels.findIndex((label) => /outcome|disposition|final|provenance/.test(label));
     });
+    const typeIndexes = tables.map((table) => {
+      const header = table.tHead?.rows[0] || table.rows[0];
+      const labels = header ? [...header.cells].map((cell) => cell.textContent.trim().toLowerCase()) : [];
+      return labels.findIndex((label) => label === 'type');
+    });
     const rowRecords = usesCards
       ? cardRecords.map((record) => ({
         row: record,
         text: (record.dataset.searchText || record.textContent).toLocaleLowerCase(),
         rowStatus: record.dataset.catalogueStatus || '',
+        rowType: record.dataset.catalogueType || '',
       }))
       : rows.map((row) => {
         const tableIndex = tables.findIndex((table) => table.contains(row));
         const cellIndex = statusIndex[tableIndex];
+        const typeIndex = typeIndexes[tableIndex];
         const text = row.textContent.replace(/\s+/g, ' ').toLocaleLowerCase();
         const rowStatus = cellIndex >= 0 ? row.cells[cellIndex]?.textContent.trim().toLocaleLowerCase() : '';
-        return { row, text, rowStatus };
+        const rowType = typeIndex >= 0 ? row.cells[typeIndex]?.textContent.trim().toLocaleLowerCase() : '';
+        return { row, text, rowStatus, rowType };
       });
+    const types = [...new Set(rowRecords.map(({ rowType }) => rowType).filter(Boolean))].sort((a, b) => a.localeCompare(b));
+    types.forEach((value) => {
+      const option = document.createElement('option');
+      option.value = value;
+      option.textContent = value.replace(/\b\w/g, (letter) => letter.toLocaleUpperCase());
+      typeFilter?.append(option);
+    });
+    if (typeFilter) {
+      typeFilter.hidden = types.length < 2;
+      typeFilter.parentElement.hidden = types.length < 2;
+    }
     const statuses = isOvertureCatalogue
       ? new Set(Object.keys(OVERTURE_DISPOSITION_LABELS).filter((key) => rowRecords.some(({ rowStatus }) => rowStatus === key)))
       : new Set(rowRecords.map(({ rowStatus }) => rowStatus).filter(Boolean));
@@ -1039,6 +1076,8 @@
       else url.searchParams.delete('q');
       if (status.value) url.searchParams.set('action', status.value);
       else url.searchParams.delete('action');
+      if (typeFilter?.value) url.searchParams.set('type', typeFilter.value);
+      else url.searchParams.delete('type');
       if (assemblyJump?.value) url.searchParams.set('ga', assemblyJump.value);
       else url.searchParams.delete('ga');
       history.replaceState({}, '', `${url.pathname}${url.search}${url.hash}`);
@@ -1047,6 +1086,7 @@
       const initialUrl = new URL(location.href);
       if (initialUrl.searchParams.has('q')) search.value = initialUrl.searchParams.get('q');
       if (initialUrl.searchParams.has('action')) status.value = initialUrl.searchParams.get('action');
+      if (initialUrl.searchParams.has('type') && typeFilter) typeFilter.value = initialUrl.searchParams.get('type');
       if (initialUrl.searchParams.has('ga')) {
         const match = groups.find(({ heading }) => heading?.id === initialUrl.searchParams.get('ga'));
         if (match?.heading) assemblyJump.value = match.heading.id;
@@ -1055,9 +1095,10 @@
     const update = () => {
       const query = search.value.toLocaleLowerCase().trim();
       const selectedStatus = status.value;
+      const selectedType = typeFilter?.value || '';
       let visible = 0;
-      rowRecords.forEach(({ row, text, rowStatus }) => {
-        const match = (!query || text.includes(query)) && (!selectedStatus || rowStatus === selectedStatus);
+      rowRecords.forEach(({ row, text, rowStatus, rowType }) => {
+        const match = (!query || text.includes(query)) && (!selectedStatus || rowStatus === selectedStatus) && (!selectedType || rowType === selectedType);
         row.hidden = !match;
         if (match) visible += 1;
       });
@@ -1073,6 +1114,7 @@
     };
     search.addEventListener('input', () => { update(); if (isOvertureCatalogue) syncCatalogueUrl(); });
     status.addEventListener('change', () => { update(); if (isOvertureCatalogue) syncCatalogueUrl(); });
+    typeFilter?.addEventListener('change', () => { update(); if (isOvertureCatalogue) syncCatalogueUrl(); });
     assemblyJump?.addEventListener('change', () => {
       syncCatalogueUrl();
       if (assemblyJump.value) document.getElementById(assemblyJump.value)?.scrollIntoView({ behavior: scrollBehavior(), block: 'start' });

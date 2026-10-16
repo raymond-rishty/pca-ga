@@ -1547,7 +1547,7 @@ textarea:focus-visible {
 }
 .catalogue-record__meta-pages .catalogue-record__action:hover,
 .catalogue-record__meta-pages .catalogue-record__action:focus-visible { border: 0; background: transparent; color: var(--ink); }
-.catalogue-tools--overture { grid-template-columns: minmax(0, 1fr) minmax(175px, 220px) minmax(170px, 220px) auto; }
+.catalogue-tools--overture { grid-template-columns: minmax(0, 1fr) minmax(155px, 190px) minmax(175px, 220px) minmax(170px, 220px) auto; }
 
 /* Keep each catalogue record visibly separate when the list is dense. */
 .reading-col--catalogue-index.catalogue-cards-ready .catalogue-records--inquiry .catalogue-record,

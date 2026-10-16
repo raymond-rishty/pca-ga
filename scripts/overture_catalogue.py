@@ -9,6 +9,7 @@ from collections import defaultdict
 from pathlib import Path
 from typing import Any
 from overture_identity import load_reconciled_overture_records
+from overture_taxonomy import classify
 
 
 _PROV = re.compile(r"BCO\s+\d+-\d+(?:\.[0-9a-z]+)*", re.I)
@@ -71,6 +72,7 @@ def load_curated_overtures(index_dir: Path) -> list[dict[str, Any]]:
                           if body_key[:2] == (volume, str(number)) for body_row in rows]
         body = max(candidates, key=body_score) if candidates else {}
         title = str(record.get("title") or "").strip()
+        taxonomy = classify(title, record.get("disposition") or "")
         url = f"markdown/{volume}.md"
         if page:
             url += f"#{volume.split('_')[0]}-p{page}"
@@ -110,6 +112,10 @@ def load_curated_overtures(index_dir: Path) -> list[dict[str, Any]]:
             "source": (body.get("source") or record.get("source") or "").strip(),
             "year": record.get("year"),
             "disposition": record.get("disposition") or "",
+            "overture_type": taxonomy["type"],
+            "instrument": taxonomy["instrument"],
+            "topics": [topic.strip() for topic in taxonomy["topic"].split(";")],
+            "bco_amendment_stage": taxonomy["bco_stage"],
             "provisions": sorted(provisions),
             "provision_sources": {
                 provision: sorted(sources)
@@ -142,7 +148,10 @@ def search_rows(index_dir: Path) -> list[dict[str, Any]]:
             "sub": f"Overture {number}" + (f" · {source}" if source else ""),
             "identifier": f"Overture {number}",
             "identifiers": [f"Overture {number}"],
-            "topics": [record["title"]],
+            "topics": [record["title"], *record["topics"]],
+            "overture_type": record["overture_type"],
+            "instrument": record["instrument"],
+            "bco_amendment_stage": record["bco_amendment_stage"],
             "provisions": record["provisions"],
             "year": record["year"],
             "disposition": record["disposition"],

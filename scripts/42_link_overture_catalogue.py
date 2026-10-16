@@ -10,6 +10,7 @@ catalogue aren't regenerated away. Idempotent.
 Usage:  42_link_overture_catalogue.py [ROOT]
 """
 import json, os, re, sys
+from overture_taxonomy import classify
 
 ROOT = sys.argv[1] if len(sys.argv) > 1 else "/workspace"
 CAT = os.path.join(ROOT, "index", "OVERTURES.md")
@@ -120,20 +121,25 @@ def main():
     pmap = json.load(open(MAP))
     action_summary_by_id = action_dispositions()
     vol = None; linked = 0; filled = 0; compacted = 0
+    taxonomy_added = 0; taxonomy_updated = 0
     out = []
     for line in open(CAT).read().split("\n"):
         s = SEC.search(line)
         if line.startswith("## ") and s:
             vol = s.group(1)
+        if line.startswith("| Overture | Subject | Outcome | Source | Pages |") and "| Type | Instrument | Topics | BCO amendment stage |" not in line:
+            line = line[:-1] + "| Type | Instrument | Topics | BCO amendment stage |"
+        elif line.startswith("|---:") and line.count("|") == 6:
+            line = line[:-1] + "|---|---|---|---|"
         m = re.match(r"^\|\s*(?:\[(\d+)\]\([^)]+\)|(\d+))\s*\|", line)
         if m and vol:
             num = m.group(1) or m.group(2)
             cells = [cell.strip() for cell in re.split(r"(?<!\\)\|", line.strip().strip("|"))]
-            page_refs = re.findall(r"\[p\.(\d+)\]\([^)]*#ga\d+-p(\d+)\)", cells[4]) if len(cells) == 5 else []
+            page_refs = re.findall(r"\[p\.(\d+)\]\([^)]*#ga\d+-p(\d+)\)", cells[4]) if len(cells) >= 5 else []
             source_page = int(page_refs[0][1]) if page_refs else None
             record_id = f"overture:{vol}:{num}:p{source_page}" if source_page else None
             page = pmap.get(record_id) if record_id else None
-            if record_id and len(cells) == 5:
+            if record_id and len(cells) >= 5:
                 bundle = action_summary_by_id.get(record_id)
                 if bundle:
                     was_blank = not cells[2].strip()
@@ -144,6 +150,16 @@ def main():
                     line = "| " + " | ".join(cells) + " |"
                     if was_blank and cells[2].strip():
                         filled += 1
+                if len(cells) == 5:
+                    facets = classify(cells[1], cells[2])
+                    cells.extend([facets["type"], facets["instrument"], facets["topic"], facets["bco_stage"]])
+                    line = "| " + " | ".join(cells) + " |"
+                    taxonomy_added += 1
+                elif len(cells) >= 9:
+                    facets = classify(cells[1], cells[2])
+                    cells[5:9] = [facets["type"], facets["instrument"], facets["topic"], facets["bco_stage"]]
+                    line = "| " + " | ".join(cells) + " |"
+                    taxonomy_updated += 1
             if page:
                 replacement = f"[{num}](../{page})"
                 first_cell = m.group(0)
@@ -151,7 +167,7 @@ def main():
                 linked += 1
         out.append(line)
     open(CAT, "w").write("\n".join(out))
-    print(f"[{ROOT}] linked {linked} overture-catalogue rows; filled {filled} blanks and shortened {compacted - filled} long outcomes from action trails")
+    print(f"[{ROOT}] linked {linked} overture-catalogue rows; added taxonomy to {taxonomy_added}, refreshed {taxonomy_updated}; filled {filled} blanks and shortened {compacted - filled} long outcomes from action trails")
 
 if __name__ == "__main__":
     main()

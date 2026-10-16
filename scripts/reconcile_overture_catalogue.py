@@ -196,7 +196,7 @@ def main() -> None:
             intro.append(line)
             continue
         cells = [cell.strip() for cell in line.strip().strip("|").split("|")] if line.startswith("| ") else []
-        if len(cells) == 5 and not line.startswith(("|---", "| Overture")):
+        if len(cells) >= 5 and not line.startswith(("|---", "| Overture")):
             number_match = re.search(r"\d+", cells[0])
             if number_match:
                 number = int(number_match.group())

@@ -138,7 +138,7 @@ prepareOvertureActionResearch.configure { dependsOn extractOvertureActionCandida
 
 def linkOvertureCatalogue = registerCommand(
     'linkOvertureCatalogue', [pythonCommand, 'scripts/42_link_overture_catalogue.py', '.'],
-    [generatorScripts, file('scripts/42_link_overture_catalogue.py'), file('index/OVERTURES.md'),
+    [generatorScripts, file('scripts/42_link_overture_catalogue.py'), file('scripts/overture_taxonomy.py'), file('index/OVERTURES.md'),
      file('index/overture_pages_map.json'), file('index/overture_events.jsonl')],
     [file('index/OVERTURES.md')]
 )

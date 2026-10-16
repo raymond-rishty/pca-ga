@@ -43,7 +43,7 @@ def load_reconciled_overture_records(index_dir: Path) -> list[dict[str, Any]]:
         if not volume or not line.startswith("|") or line.startswith(("|---", "| Overture |")):
             continue
         cells = _cells(line)
-        if len(cells) != 5:
+        if len(cells) < 5:
             continue
         number_match = _NUMBER.search(cells[0])
         page_matches = list(_PAGE_LINK.finditer(cells[4]))
