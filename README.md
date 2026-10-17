@@ -10,6 +10,8 @@ The **[catalogue search](https://raymond-rishty.github.io/pca-ga/)** is the fast
 
 ## 🤖 Ask your AI about the BCO / PCA history
 
+Browser agents supporting [WebMCP](docs/webmcp.md) can start with `prepare_pca_research({question})`, then search public records and read the current article through native page tools.
+
 You don't have to browse this by hand. Point **any AI assistant that can browse the web** (ChatGPT, Claude, Gemini, Perplexity) at this corpus and ask — it will find the relevant case / record / inquiry and answer **with citations to the verbatim minutes**. See **[ASK.md](ASK.md)** for a copy‑paste prompt. For AI tooling, there's an [`llms.txt`](https://raymond-rishty.github.io/pca-ga/llms.txt) map and a one‑file [`llms-full.txt`](https://raymond-rishty.github.io/pca-ga/llms-full.txt) pack (the catalogues in a single fetch).
 
 ## Catalogues

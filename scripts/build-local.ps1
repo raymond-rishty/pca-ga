@@ -49,7 +49,8 @@ try {
         }
     }
     $env:PYTHON = (Get-Command python).Source
-    $gradleWrapper = Join-Path $repoRoot 'gradlew.bat'
+    $wrapperName = if ($IsWindows -or $env:OS -eq 'Windows_NT') { 'gradlew.bat' } else { 'gradlew' }
+    $gradleWrapper = Join-Path $repoRoot $wrapperName
     if (-not (Test-Path -LiteralPath $gradleWrapper -PathType Leaf)) {
         throw 'The Gradle Wrapper is missing. Run the Gradle wrapper setup described in docs/local-build.md.'
     }
@@ -108,7 +109,11 @@ try {
     if ($RegenerateOvertures) { $gradleArgs += '-PregenerateOvertures' }
     if ($Scan) { $gradleArgs += '--scan' }
 
-    & $gradleWrapper @gradleArgs
+    if ($wrapperName -eq 'gradlew.bat') {
+        & $gradleWrapper @gradleArgs
+    } else {
+        & bash $gradleWrapper @gradleArgs
+    }
     if ($LASTEXITCODE -ne 0) {
         throw "Gradle site build failed with exit code ${LASTEXITCODE}."
     }

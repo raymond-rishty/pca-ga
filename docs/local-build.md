@@ -35,6 +35,7 @@ If you changed the curated overture-source files that trigger regeneration in CI
 
 ## Prerequisites
 
+- PowerShell 7 (`pwsh`; the wrapper supports Windows and Linux/macOS)
 - Git
 - Java 17 or newer (the Gradle Wrapper downloads the pinned Gradle distribution on first use)
 - Python 3 and `openpyxl` (`python -m pip install openpyxl`)

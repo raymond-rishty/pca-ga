@@ -1,0 +1,5 @@
+---
+layout: null
+permalink: /assets/pca-research-prompt.txt
+---
+{% include pca-research-prompt.txt %}
