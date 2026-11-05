@@ -1,16 +1,26 @@
 # Judicial-case taxonomy
 
-This is the controlled vocabulary for the canonical judicial-case layer. The
-authoritative checklist is `index/sjc_official/roster.jsonl`; the Minutes remain
-the source for verbatim case text, and `index/cases.jsonl` supplies extracted
-metadata when it has been reconciled to the roster.
+This is the controlled vocabulary for the canonical judicial-case layer. For
+the artifact roles, data flow, and maintenance rules, see
+[Judicial case data flow](JUDICIAL-CASE-DATA-FLOW.md).
+
+The Historical Center roster is an important coverage source, but it is not a
+complete list of the catalogue's dockets. Approved minutes-supported
+supplemental cases and explicitly consolidated companion dockets are also
+included. The Minutes remain the authority for verbatim decision text;
+`index/cases.jsonl` is the legacy case-centric corpus, combining extracted
+records with recovery/enrichment rows where available. It enriches the
+catalogue when a matching record exists.
 
 ## Identity
 
-`index/judicial_cases.jsonl` contains one record per unique rostered case. The
-current saved roster has 480 entries; after source duplicates are collapsed and
-expressly consolidated dockets are expanded, the generator emits 476 records:
-475 canonical IDs plus one era-only record.
+`index/judicial_cases.jsonl` contains one record per unique canonical judicial
+case assembled from the roster, approved supplemental cases, and explicit
+companion-docket rules. Duplicate source rows are collapsed. Therefore its
+record count can differ from the roster's row count and can change as source
+coverage or approved identity rules change. Some catalogue rows have no matching
+minutes-extracted record; `classification_status: roster_only` identifies
+records whose available source does not support fuller classification.
 
 - `case_id` is the stable, human-facing canonical ID: `YYYY-NN` (for example,
   `2023-07` or `1985-06`). A letter suffix is retained for split matters,
