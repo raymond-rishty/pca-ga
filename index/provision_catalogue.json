@@ -13,7 +13,7 @@
    "rao.js": "49808bbb0e95abdc3b07506c87dde0d62d087851e869b49c0f1f2424986450ec"
   }
  },
- "input_fingerprint": "c5016873970a46b3ac70e08348009c802d0dfb187d15e7a464d623be56f69365",
+ "input_fingerprint": "d715a0918d44595bfece20a4642a3777da45a9d09869e91358c6dc949bfd2c47",
  "input_files": [
   {
    "path": "cases/ga03_1975__case1.md",
@@ -777,7 +777,7 @@
   },
   {
    "path": "cases/ga30_2002__2001-10.md",
-   "sha256": "4aabaf7e0a9020b022a8b936184d55d5226284a888d2168b8ce715998ad574f5"
+   "sha256": "a4d1e4d60bd4c24e2f68a68a42a5c1e470ad10b9edc820068498ec70b0879d10"
   },
   {
    "path": "cases/ga30_2002__2001-11.md",
@@ -1597,7 +1597,7 @@
   },
   {
    "path": "cases/ga46_2018__2016-10.md",
-   "sha256": "daa6d14c88301556735d38688462cb00a9990c53b894f918c81d34c9eb15b7d8"
+   "sha256": "df8be353ec8e2c9a8a224fb46a19e0ad7fe8e9ed822a538b0dcd85ae21c6de76"
   },
   {
    "path": "cases/ga46_2018__2016-11.md",
@@ -2072,6 +2072,14 @@
    "sha256": "4b51df2265c2be24cb4dcd8ea27e34bb3192bf1c2dbc77a7052458c27bcf85a6"
   },
   {
+   "path": "data/cases/records/cases.jsonl",
+   "sha256": "a3db6386e0b09f8b9f8202a553c22302ccf2429c4f60d24f834950913565fe0a"
+  },
+  {
+   "path": "data/cases/records/judicial_cases.jsonl",
+   "sha256": "511f1f662bc39bec637c076e179e06051a4942f1369f5c91d347f9dbaf009d85"
+  },
+  {
    "path": "index/OVERTURES.md",
    "sha256": "c470fa990cc3a64d85469515c74a04b18a360b54f652867f1e01c4a60ae0a7fb"
   },
@@ -2089,19 +2097,11 @@
   },
   {
    "path": "index/case_provision_index.json",
-   "sha256": "32ac7115973311b2a3e78b37ff7fcb8f4745b59daacb4f70e20801458d2555ae"
-  },
-  {
-   "path": "index/cases.jsonl",
-   "sha256": "101194afe5be5d6c4ddcdba8da83e5ee62ff3c33c330472932c1df15c8c598bb"
+   "sha256": "e5922ae6ad65f14afc20fc4cf3d5a321308762eb0e248e8516b03fb2db4a4496"
   },
   {
    "path": "index/inquiries_search.json",
    "sha256": "e44a1240e1e33528ba0298f05773be2ad73790647f9191440a9bed8d370191fa"
-  },
-  {
-   "path": "index/judicial_cases.jsonl",
-   "sha256": "591db67c756e7897db30dc377140df1fd266a92c7f0e41211740afe45f05bc43"
   },
   {
    "path": "index/overture_bodies.jsonl",
@@ -27541,11 +27541,11 @@
   },
   {
    "path": "scripts/43_authority_index.py",
-   "sha256": "5cadd9faaf8aecf7952a88c7b30226986c3763bd972becd01cacede7ba822961"
+   "sha256": "e9356b5a67f8a4f5d64d1c34839d4ba940d821d6c443e44cb7bbe54ac865f404"
   },
   {
    "path": "scripts/44_case_provision_index.py",
-   "sha256": "db6bcd1adb9a415370df3cef43b36d59c1ed14472e9a854be6756c46ac9bccab"
+   "sha256": "33eb9d7831d9f3ac17c84fd95900da3dc011afe431975c2a8c4abb88c901e2b5"
   },
   {
    "path": "scripts/overture_catalogue.py",
@@ -27553,7 +27553,7 @@
   },
   {
    "path": "scripts/provision_catalogue.py",
-   "sha256": "3b3b8894fe2da159f6ce5fcc57f5939baf34d13d9953ed5dd51d94ec6e9739d9"
+   "sha256": "38729d8f9393cca39ea49004b554d680d2d86ad114f6d28d93cd58410a5eb42a"
   },
   {
    "path": "scripts/provision_references.py",
@@ -27585,13 +27585,13 @@
   "status": "stale",
   "file": "index/provision_link_adjudications.jsonl",
   "total": 11481,
-  "expected": 12750,
+  "expected": 12774,
   "applied": 0,
   "stale": 11481,
   "unmatched": 0,
-  "unassessed": 12750
+  "unassessed": 12774
  },
- "relationship_count": 12750,
+ "relationship_count": 12774,
  "unmatched_relationships": [
   {
    "provision": "BCO 10-18",
@@ -43949,6 +43949,67 @@
      }
     },
     {
+     "id": "bco:3-1--case:cases/ga34_2006__stub_2005-03.md",
+     "record_id": "case:cases/ga34_2006__stub_2005-03.md",
+     "type": "Judicial case",
+     "title": "Session of Living Word Presbyterian Church v. Pacific Northwest Presbytery",
+     "year": 2005,
+     "disposition": "",
+     "authority_weight": "high",
+     "record_url": "cases/ga34_2006__stub_2005-03.md",
+     "evidence_basis": "structured_case_metadata",
+     "evidence_bases": [
+      "structured_case_metadata"
+     ],
+     "relationship_kind": "structured_case_reference",
+     "relationship_kinds": [
+      "structured_case_reference"
+     ],
+     "match_confidence": "medium",
+     "match_methods": [
+      "case_provision_index:judicial_cases.jsonl:bco_provisions"
+     ],
+     "reader_scope": "primary",
+     "relevance_status": "unreviewed",
+     "occurrences": [
+      {
+       "id": "bco:3-1--case:cases/ga34_2006__stub_2005-03.md:occ-c502764524fd",
+       "url": "cases/ga34_2006__stub_2005-03.md",
+       "locator": {},
+       "excerpt": "",
+       "sources": [
+        "judicial_cases.jsonl:bco_provisions"
+       ],
+       "evidence_basis": "structured_case_metadata",
+       "relationship_kind": "structured_case_reference",
+       "match_method": "case_provision_index:judicial_cases.jsonl:bco_provisions",
+       "match_confidence": "medium",
+       "reader_scope": "primary"
+      }
+     ],
+     "metadata": {
+      "topics": [
+       "dissolution of pastoral relationship",
+       "congregational vote",
+       "presbytery authority",
+       "BCO 23-1",
+       "voluntary fellowship",
+       "church polity",
+       "democratic vs hierarchical church government",
+       "pastoral leave of absence",
+       "ministerial and church relations committee",
+       "judicially out of order complaints",
+       "BCO 43-2 complaint procedure"
+      ],
+      "standard_of_review": "not_reached",
+      "case_numbers": [
+       "2005-3"
+      ],
+      "body": "SJC/CJB",
+      "synopsis": "The Session of Living Word Presbyterian Church brought a complaint against Pacific Northwest Presbytery, but the record does not identify the challenged action. The Standing Judicial Commission found the complaint out of order without specifying an administrative or judicial subtype or providing reasons. No merits determination or further relief is recorded."
+     }
+    },
+    {
      "id": "bco:3-1--case:cases/ga30_2002__2001-07.md",
      "record_id": "case:cases/ga30_2002__2001-07.md",
      "type": "Judicial case",
@@ -45094,6 +45155,67 @@
       ],
       "body": "SJC",
       "synopsis": "A serving deacon nominated for ruling elder complained that his session removed his nomination before BCO 24-1 instruction or examination. The SJC held the session erred by adding an unwritten pre-examination 'vetting' removal and that Northwest Georgia Presbytery erred in approving it: BCO 24-1's sequence—instruction and examination before the session determines eligibility—is mandatory. The ruling reserved the session's sound discretion and the treatment of frivolous or clearly disqualified nominees. The complaint was sustained and remanded for adjudication consistent with the decision."
+     }
+    },
+    {
+     "id": "bco:3-2--case:cases/ga34_2006__stub_2005-03.md",
+     "record_id": "case:cases/ga34_2006__stub_2005-03.md",
+     "type": "Judicial case",
+     "title": "Session of Living Word Presbyterian Church v. Pacific Northwest Presbytery",
+     "year": 2005,
+     "disposition": "",
+     "authority_weight": "high",
+     "record_url": "cases/ga34_2006__stub_2005-03.md",
+     "evidence_basis": "structured_case_metadata",
+     "evidence_bases": [
+      "structured_case_metadata"
+     ],
+     "relationship_kind": "structured_case_reference",
+     "relationship_kinds": [
+      "structured_case_reference"
+     ],
+     "match_confidence": "medium",
+     "match_methods": [
+      "case_provision_index:judicial_cases.jsonl:bco_provisions"
+     ],
+     "reader_scope": "primary",
+     "relevance_status": "unreviewed",
+     "occurrences": [
+      {
+       "id": "bco:3-2--case:cases/ga34_2006__stub_2005-03.md:occ-c502764524fd",
+       "url": "cases/ga34_2006__stub_2005-03.md",
+       "locator": {},
+       "excerpt": "",
+       "sources": [
+        "judicial_cases.jsonl:bco_provisions"
+       ],
+       "evidence_basis": "structured_case_metadata",
+       "relationship_kind": "structured_case_reference",
+       "match_method": "case_provision_index:judicial_cases.jsonl:bco_provisions",
+       "match_confidence": "medium",
+       "reader_scope": "primary"
+      }
+     ],
+     "metadata": {
+      "topics": [
+       "dissolution of pastoral relationship",
+       "congregational vote",
+       "presbytery authority",
+       "BCO 23-1",
+       "voluntary fellowship",
+       "church polity",
+       "democratic vs hierarchical church government",
+       "pastoral leave of absence",
+       "ministerial and church relations committee",
+       "judicially out of order complaints",
+       "BCO 43-2 complaint procedure"
+      ],
+      "standard_of_review": "not_reached",
+      "case_numbers": [
+       "2005-3"
+      ],
+      "body": "SJC/CJB",
+      "synopsis": "The Session of Living Word Presbyterian Church brought a complaint against Pacific Northwest Presbytery, but the record does not identify the challenged action. The Standing Judicial Commission found the complaint out of order without specifying an administrative or judicial subtype or providing reasons. No merits determination or further relief is recorded."
      }
     },
     {
@@ -46303,6 +46425,67 @@
       ],
       "body": "SJC",
       "synopsis": "Chastain appealed Heritage Presbytery’s 2006 excommunication and deposition. The SJC held the appeal judicially out of order because Chastain had renounced PCA jurisdiction on May 8, 2006. Consequently, Presbytery’s later proceedings were moot and SJC 2005-1 remained in effect. The SJC did not reach the merits. A concurrence questioned the discipline process after renunciation; a dissent argued the majority lacked constitutional authority to recognize unilateral withdrawal and thereby undercut discipline."
+     }
+    },
+    {
+     "id": "bco:3-4--case:cases/ga34_2006__stub_2005-03.md",
+     "record_id": "case:cases/ga34_2006__stub_2005-03.md",
+     "type": "Judicial case",
+     "title": "Session of Living Word Presbyterian Church v. Pacific Northwest Presbytery",
+     "year": 2005,
+     "disposition": "",
+     "authority_weight": "high",
+     "record_url": "cases/ga34_2006__stub_2005-03.md",
+     "evidence_basis": "structured_case_metadata",
+     "evidence_bases": [
+      "structured_case_metadata"
+     ],
+     "relationship_kind": "structured_case_reference",
+     "relationship_kinds": [
+      "structured_case_reference"
+     ],
+     "match_confidence": "medium",
+     "match_methods": [
+      "case_provision_index:judicial_cases.jsonl:bco_provisions"
+     ],
+     "reader_scope": "primary",
+     "relevance_status": "unreviewed",
+     "occurrences": [
+      {
+       "id": "bco:3-4--case:cases/ga34_2006__stub_2005-03.md:occ-c502764524fd",
+       "url": "cases/ga34_2006__stub_2005-03.md",
+       "locator": {},
+       "excerpt": "",
+       "sources": [
+        "judicial_cases.jsonl:bco_provisions"
+       ],
+       "evidence_basis": "structured_case_metadata",
+       "relationship_kind": "structured_case_reference",
+       "match_method": "case_provision_index:judicial_cases.jsonl:bco_provisions",
+       "match_confidence": "medium",
+       "reader_scope": "primary"
+      }
+     ],
+     "metadata": {
+      "topics": [
+       "dissolution of pastoral relationship",
+       "congregational vote",
+       "presbytery authority",
+       "BCO 23-1",
+       "voluntary fellowship",
+       "church polity",
+       "democratic vs hierarchical church government",
+       "pastoral leave of absence",
+       "ministerial and church relations committee",
+       "judicially out of order complaints",
+       "BCO 43-2 complaint procedure"
+      ],
+      "standard_of_review": "not_reached",
+      "case_numbers": [
+       "2005-3"
+      ],
+      "body": "SJC/CJB",
+      "synopsis": "The Session of Living Word Presbyterian Church brought a complaint against Pacific Northwest Presbytery, but the record does not identify the challenged action. The Standing Judicial Commission found the complaint out of order without specifying an administrative or judicial subtype or providing reasons. No merits determination or further relief is recorded."
      }
     },
     {
@@ -56303,6 +56486,56 @@
       ],
       "body": "SJC",
       "synopsis": "Members challenged a voting restriction imposed at a congregational meeting. The SJC dismissed the complaint as judicially out of order because BCO 43-1 permits complaints against acts or decisions of church courts, and a congregation is not such a court. It identified other possible routes through a report to Presbytery or review of church records. The adopted decision did not decide whether the voting restriction was constitutionally valid."
+     }
+    },
+    {
+     "id": "bco:6-1--case:cases/ga34_2006__stub_2005-02.md",
+     "record_id": "case:cases/ga34_2006__stub_2005-02.md",
+     "type": "Judicial case",
+     "title": "Andrino v. Southern Florida Presbytery",
+     "year": 2008,
+     "disposition": "dismissed",
+     "authority_weight": "high",
+     "record_url": "cases/ga34_2006__stub_2005-02.md",
+     "evidence_basis": "structured_case_metadata",
+     "evidence_bases": [
+      "structured_case_metadata"
+     ],
+     "relationship_kind": "structured_case_reference",
+     "relationship_kinds": [
+      "structured_case_reference"
+     ],
+     "match_confidence": "medium",
+     "match_methods": [
+      "case_provision_index:cases.jsonl:bco_cited_as,cases.jsonl:bco_cited_current,judicial_cases.jsonl:bco_provisions"
+     ],
+     "reader_scope": "primary",
+     "relevance_status": "unreviewed",
+     "occurrences": [
+      {
+       "id": "bco:6-1--case:cases/ga34_2006__stub_2005-02.md:occ-1331de2bbdc5",
+       "url": "cases/ga34_2006__stub_2005-02.md",
+       "locator": {},
+       "excerpt": "",
+       "sources": [
+        "cases.jsonl:bco_cited_as",
+        "cases.jsonl:bco_cited_current",
+        "judicial_cases.jsonl:bco_provisions"
+       ],
+       "evidence_basis": "structured_case_metadata",
+       "relationship_kind": "structured_case_reference",
+       "match_method": "case_provision_index:cases.jsonl:bco_cited_as,cases.jsonl:bco_cited_current,judicial_cases.jsonl:bco_provisions",
+       "match_confidence": "medium",
+       "reader_scope": "primary"
+      }
+     ],
+     "metadata": {
+      "standard_of_review": "not_reached",
+      "case_numbers": [
+       "2005-2"
+      ],
+      "body": "SJC",
+      "synopsis": "The SJC found RE Hugo Andrino’s complaint against Southern Florida Presbytery out of order. The published record neither identifies the challenged action nor explains the ruling, and it reports no merits determination or further proceedings."
      }
     },
     {
@@ -82331,6 +82564,67 @@
       ],
       "body": "SJC",
       "synopsis": "A presbytery annulled a session's actions after the session added to a petition-called congregational meeting a recommendation that the congregation invoke BCO 24-6 against eleven elders. The SJC sustained the session's complaint: BCO 25-2 permits a session to add agenda items, and BCO 24-6 does not require a member-initiated motion; the congregation's own 503–229 vote began the process. It reinstated the session's actions, declared remaining relief moot, and noted one recorded dissent; no dissent text appears."
+     }
+    },
+    {
+     "id": "bco:11-2--case:cases/ga34_2006__stub_2005-03.md",
+     "record_id": "case:cases/ga34_2006__stub_2005-03.md",
+     "type": "Judicial case",
+     "title": "Session of Living Word Presbyterian Church v. Pacific Northwest Presbytery",
+     "year": 2005,
+     "disposition": "",
+     "authority_weight": "high",
+     "record_url": "cases/ga34_2006__stub_2005-03.md",
+     "evidence_basis": "structured_case_metadata",
+     "evidence_bases": [
+      "structured_case_metadata"
+     ],
+     "relationship_kind": "structured_case_reference",
+     "relationship_kinds": [
+      "structured_case_reference"
+     ],
+     "match_confidence": "medium",
+     "match_methods": [
+      "case_provision_index:judicial_cases.jsonl:bco_provisions"
+     ],
+     "reader_scope": "primary",
+     "relevance_status": "unreviewed",
+     "occurrences": [
+      {
+       "id": "bco:11-2--case:cases/ga34_2006__stub_2005-03.md:occ-c502764524fd",
+       "url": "cases/ga34_2006__stub_2005-03.md",
+       "locator": {},
+       "excerpt": "",
+       "sources": [
+        "judicial_cases.jsonl:bco_provisions"
+       ],
+       "evidence_basis": "structured_case_metadata",
+       "relationship_kind": "structured_case_reference",
+       "match_method": "case_provision_index:judicial_cases.jsonl:bco_provisions",
+       "match_confidence": "medium",
+       "reader_scope": "primary"
+      }
+     ],
+     "metadata": {
+      "topics": [
+       "dissolution of pastoral relationship",
+       "congregational vote",
+       "presbytery authority",
+       "BCO 23-1",
+       "voluntary fellowship",
+       "church polity",
+       "democratic vs hierarchical church government",
+       "pastoral leave of absence",
+       "ministerial and church relations committee",
+       "judicially out of order complaints",
+       "BCO 43-2 complaint procedure"
+      ],
+      "standard_of_review": "not_reached",
+      "case_numbers": [
+       "2005-3"
+      ],
+      "body": "SJC/CJB",
+      "synopsis": "The Session of Living Word Presbyterian Church brought a complaint against Pacific Northwest Presbytery, but the record does not identify the challenged action. The Standing Judicial Commission found the complaint out of order without specifying an administrative or judicial subtype or providing reasons. No merits determination or further relief is recorded."
      }
     },
     {
@@ -138980,6 +139274,67 @@
      }
     },
     {
+     "id": "bco:13-9--case:cases/ga34_2006__stub_2005-03.md",
+     "record_id": "case:cases/ga34_2006__stub_2005-03.md",
+     "type": "Judicial case",
+     "title": "Session of Living Word Presbyterian Church v. Pacific Northwest Presbytery",
+     "year": 2005,
+     "disposition": "",
+     "authority_weight": "high",
+     "record_url": "cases/ga34_2006__stub_2005-03.md",
+     "evidence_basis": "structured_case_metadata",
+     "evidence_bases": [
+      "structured_case_metadata"
+     ],
+     "relationship_kind": "structured_case_reference",
+     "relationship_kinds": [
+      "structured_case_reference"
+     ],
+     "match_confidence": "medium",
+     "match_methods": [
+      "case_provision_index:judicial_cases.jsonl:bco_provisions"
+     ],
+     "reader_scope": "primary",
+     "relevance_status": "unreviewed",
+     "occurrences": [
+      {
+       "id": "bco:13-9--case:cases/ga34_2006__stub_2005-03.md:occ-c502764524fd",
+       "url": "cases/ga34_2006__stub_2005-03.md",
+       "locator": {},
+       "excerpt": "",
+       "sources": [
+        "judicial_cases.jsonl:bco_provisions"
+       ],
+       "evidence_basis": "structured_case_metadata",
+       "relationship_kind": "structured_case_reference",
+       "match_method": "case_provision_index:judicial_cases.jsonl:bco_provisions",
+       "match_confidence": "medium",
+       "reader_scope": "primary"
+      }
+     ],
+     "metadata": {
+      "topics": [
+       "dissolution of pastoral relationship",
+       "congregational vote",
+       "presbytery authority",
+       "BCO 23-1",
+       "voluntary fellowship",
+       "church polity",
+       "democratic vs hierarchical church government",
+       "pastoral leave of absence",
+       "ministerial and church relations committee",
+       "judicially out of order complaints",
+       "BCO 43-2 complaint procedure"
+      ],
+      "standard_of_review": "not_reached",
+      "case_numbers": [
+       "2005-3"
+      ],
+      "body": "SJC/CJB",
+      "synopsis": "The Session of Living Word Presbyterian Church brought a complaint against Pacific Northwest Presbytery, but the record does not identify the challenged action. The Standing Judicial Commission found the complaint out of order without specifying an administrative or judicial subtype or providing reasons. No merits determination or further relief is recorded."
+     }
+    },
+    {
      "id": "bco:13-9--case:cases/ga30_2002__2001-01.md",
      "record_id": "case:cases/ga30_2002__2001-01.md",
      "type": "Judicial case",
@@ -139276,12 +139631,67 @@
      }
     },
     {
+     "id": "bco:13-9--case:cases/ga30_2002__2001-10.md",
+     "record_id": "case:cases/ga30_2002__2001-10.md",
+     "type": "Judicial case",
+     "title": "Charles C. Kim v. Korean Capital Presbytery (Appeal)",
+     "year": 2002,
+     "disposition": "out_of_order",
+     "authority_weight": "high",
+     "record_url": "cases/ga30_2002__2001-10.md",
+     "evidence_basis": "structured_case_metadata",
+     "evidence_bases": [
+      "structured_case_metadata"
+     ],
+     "relationship_kind": "structured_case_reference",
+     "relationship_kinds": [
+      "structured_case_reference"
+     ],
+     "match_confidence": "medium",
+     "match_methods": [
+      "case_provision_index:judicial_cases.jsonl:bco_provisions"
+     ],
+     "reader_scope": "primary",
+     "relevance_status": "unreviewed",
+     "occurrences": [
+      {
+       "id": "bco:13-9--case:cases/ga30_2002__2001-10.md:occ-11ef6f1d564d",
+       "url": "cases/ga30_2002__2001-10.md",
+       "locator": {},
+       "excerpt": "",
+       "sources": [
+        "judicial_cases.jsonl:bco_provisions"
+       ],
+       "evidence_basis": "structured_case_metadata",
+       "relationship_kind": "structured_case_reference",
+       "match_method": "case_provision_index:judicial_cases.jsonl:bco_provisions",
+       "match_confidence": "medium",
+       "reader_scope": "primary"
+      }
+     ],
+     "metadata": {
+      "topics": [
+       "appeal",
+       "original jurisdiction",
+       "Session",
+       "excommunication",
+       "church discipline"
+      ],
+      "standard_of_review": "not_stated",
+      "case_numbers": [
+       "2001-10"
+      ],
+      "body": "SJC",
+      "synopsis": "A communicant member appealed Presbytery’s findings of guilt and censure of excommunication. The SJC reversed Presbytery’s and its Special Judicial Commission’s actions because original jurisdiction over judicial proceedings against a local church’s communicant member belonged to that church’s Session. The decision was jurisdictional: it neither resolved the underlying charges nor directed a remand or acquittal."
+     }
+    },
+    {
      "id": "bco:13-9--case:cases/ga30_2002__2001-04.md",
      "record_id": "case:cases/ga30_2002__2001-04.md",
      "type": "Judicial case",
      "title": "Moon K. Ham v. Korean Capital",
      "year": 2002,
-     "disposition": "sustained",
+     "disposition": "dismissed",
      "authority_weight": "high",
      "record_url": "cases/ga30_2002__2001-04.md",
      "evidence_basis": "structured_case_metadata",
@@ -139597,61 +140007,6 @@
        "2001-8"
       ],
       "body": "SJC"
-     }
-    },
-    {
-     "id": "bco:13-9--case:cases/ga30_2002__2001-10.md",
-     "record_id": "case:cases/ga30_2002__2001-10.md",
-     "type": "Judicial case",
-     "title": "Charles C. Kim v. Korean Capital Presbytery (Appeal)",
-     "year": 2001,
-     "disposition": "sustained",
-     "authority_weight": "high",
-     "record_url": "cases/ga30_2002__2001-10.md",
-     "evidence_basis": "structured_case_metadata",
-     "evidence_bases": [
-      "structured_case_metadata"
-     ],
-     "relationship_kind": "structured_case_reference",
-     "relationship_kinds": [
-      "structured_case_reference"
-     ],
-     "match_confidence": "medium",
-     "match_methods": [
-      "case_provision_index:judicial_cases.jsonl:bco_provisions"
-     ],
-     "reader_scope": "primary",
-     "relevance_status": "unreviewed",
-     "occurrences": [
-      {
-       "id": "bco:13-9--case:cases/ga30_2002__2001-10.md:occ-11ef6f1d564d",
-       "url": "cases/ga30_2002__2001-10.md",
-       "locator": {},
-       "excerpt": "",
-       "sources": [
-        "judicial_cases.jsonl:bco_provisions"
-       ],
-       "evidence_basis": "structured_case_metadata",
-       "relationship_kind": "structured_case_reference",
-       "match_method": "case_provision_index:judicial_cases.jsonl:bco_provisions",
-       "match_confidence": "medium",
-       "reader_scope": "primary"
-      }
-     ],
-     "metadata": {
-      "topics": [
-       "appeal",
-       "original jurisdiction",
-       "Session",
-       "excommunication",
-       "church discipline"
-      ],
-      "standard_of_review": "not_stated",
-      "case_numbers": [
-       "2001-10"
-      ],
-      "body": "SJC",
-      "synopsis": "A communicant member appealed Presbytery’s findings of guilt and censure of excommunication. The SJC reversed Presbytery’s and its Special Judicial Commission’s actions because original jurisdiction over judicial proceedings against a local church’s communicant member belonged to that church’s Session. The decision was jurisdictional: it neither resolved the underlying charges nor directed a remand or acquittal."
      }
     },
     {
@@ -140275,6 +140630,54 @@
        "1993-8"
       ],
       "body": "SJC/CJB"
+     }
+    },
+    {
+     "id": "bco:13-9--case:cases/ga42_2014__stub_2013-09.md",
+     "record_id": "case:cases/ga42_2014__stub_2013-09.md",
+     "type": "Judicial case",
+     "title": "Marshall v. Pacific",
+     "year": 1993,
+     "disposition": "",
+     "authority_weight": "high",
+     "record_url": "cases/ga42_2014__stub_2013-09.md",
+     "evidence_basis": "structured_case_metadata",
+     "evidence_bases": [
+      "structured_case_metadata"
+     ],
+     "relationship_kind": "structured_case_reference",
+     "relationship_kinds": [
+      "structured_case_reference"
+     ],
+     "match_confidence": "medium",
+     "match_methods": [
+      "case_provision_index:judicial_cases.jsonl:bco_provisions"
+     ],
+     "reader_scope": "primary",
+     "relevance_status": "unreviewed",
+     "occurrences": [
+      {
+       "id": "bco:13-9--case:cases/ga42_2014__stub_2013-09.md:occ-5a779a6aff21",
+       "url": "cases/ga42_2014__stub_2013-09.md",
+       "locator": {},
+       "excerpt": "",
+       "sources": [
+        "judicial_cases.jsonl:bco_provisions"
+       ],
+       "evidence_basis": "structured_case_metadata",
+       "relationship_kind": "structured_case_reference",
+       "match_method": "case_provision_index:judicial_cases.jsonl:bco_provisions",
+       "match_confidence": "medium",
+       "reader_scope": "primary"
+      }
+     ],
+     "metadata": {
+      "standard_of_review": "not_reached",
+      "case_numbers": [
+       "2013-9"
+      ],
+      "body": "SJC/CJB",
+      "synopsis": "The 42nd Assembly (2014) disposed of Mr. G. Rick Marshall's appeal against Pacific Presbytery by withdrawal. No separate merits opinion was published, so the source does not disclose the challenged conduct, adopted reasoning, or relief beyond the withdrawal."
      }
     },
     {
@@ -181954,6 +182357,67 @@
      }
     },
     {
+     "id": "bco:14-7--case:cases/ga34_2006__stub_2005-03.md",
+     "record_id": "case:cases/ga34_2006__stub_2005-03.md",
+     "type": "Judicial case",
+     "title": "Session of Living Word Presbyterian Church v. Pacific Northwest Presbytery",
+     "year": 2005,
+     "disposition": "",
+     "authority_weight": "high",
+     "record_url": "cases/ga34_2006__stub_2005-03.md",
+     "evidence_basis": "structured_case_metadata",
+     "evidence_bases": [
+      "structured_case_metadata"
+     ],
+     "relationship_kind": "structured_case_reference",
+     "relationship_kinds": [
+      "structured_case_reference"
+     ],
+     "match_confidence": "medium",
+     "match_methods": [
+      "case_provision_index:judicial_cases.jsonl:bco_provisions"
+     ],
+     "reader_scope": "primary",
+     "relevance_status": "unreviewed",
+     "occurrences": [
+      {
+       "id": "bco:14-7--case:cases/ga34_2006__stub_2005-03.md:occ-c502764524fd",
+       "url": "cases/ga34_2006__stub_2005-03.md",
+       "locator": {},
+       "excerpt": "",
+       "sources": [
+        "judicial_cases.jsonl:bco_provisions"
+       ],
+       "evidence_basis": "structured_case_metadata",
+       "relationship_kind": "structured_case_reference",
+       "match_method": "case_provision_index:judicial_cases.jsonl:bco_provisions",
+       "match_confidence": "medium",
+       "reader_scope": "primary"
+      }
+     ],
+     "metadata": {
+      "topics": [
+       "dissolution of pastoral relationship",
+       "congregational vote",
+       "presbytery authority",
+       "BCO 23-1",
+       "voluntary fellowship",
+       "church polity",
+       "democratic vs hierarchical church government",
+       "pastoral leave of absence",
+       "ministerial and church relations committee",
+       "judicially out of order complaints",
+       "BCO 43-2 complaint procedure"
+      ],
+      "standard_of_review": "not_reached",
+      "case_numbers": [
+       "2005-3"
+      ],
+      "body": "SJC/CJB",
+      "synopsis": "The Session of Living Word Presbyterian Church brought a complaint against Pacific Northwest Presbytery, but the record does not identify the challenged action. The Standing Judicial Commission found the complaint out of order without specifying an administrative or judicial subtype or providing reasons. No merits determination or further relief is recorded."
+     }
+    },
+    {
      "id": "bco:14-7--case:cases/ga30_2002__2001-01.md",
      "record_id": "case:cases/ga30_2002__2001-01.md",
      "type": "Judicial case",
@@ -210101,6 +210565,56 @@
      }
     },
     {
+     "id": "bco:15-3--case:cases/ga34_2006__stub_2005-02.md",
+     "record_id": "case:cases/ga34_2006__stub_2005-02.md",
+     "type": "Judicial case",
+     "title": "Andrino v. Southern Florida Presbytery",
+     "year": 2008,
+     "disposition": "dismissed",
+     "authority_weight": "high",
+     "record_url": "cases/ga34_2006__stub_2005-02.md",
+     "evidence_basis": "structured_case_metadata",
+     "evidence_bases": [
+      "structured_case_metadata"
+     ],
+     "relationship_kind": "structured_case_reference",
+     "relationship_kinds": [
+      "structured_case_reference"
+     ],
+     "match_confidence": "medium",
+     "match_methods": [
+      "case_provision_index:cases.jsonl:bco_cited_as,cases.jsonl:bco_cited_current,judicial_cases.jsonl:bco_provisions"
+     ],
+     "reader_scope": "primary",
+     "relevance_status": "unreviewed",
+     "occurrences": [
+      {
+       "id": "bco:15-3--case:cases/ga34_2006__stub_2005-02.md:occ-1331de2bbdc5",
+       "url": "cases/ga34_2006__stub_2005-02.md",
+       "locator": {},
+       "excerpt": "",
+       "sources": [
+        "cases.jsonl:bco_cited_as",
+        "cases.jsonl:bco_cited_current",
+        "judicial_cases.jsonl:bco_provisions"
+       ],
+       "evidence_basis": "structured_case_metadata",
+       "relationship_kind": "structured_case_reference",
+       "match_method": "case_provision_index:cases.jsonl:bco_cited_as,cases.jsonl:bco_cited_current,judicial_cases.jsonl:bco_provisions",
+       "match_confidence": "medium",
+       "reader_scope": "primary"
+      }
+     ],
+     "metadata": {
+      "standard_of_review": "not_reached",
+      "case_numbers": [
+       "2005-2"
+      ],
+      "body": "SJC",
+      "synopsis": "The SJC found RE Hugo Andrino’s complaint against Southern Florida Presbytery out of order. The published record neither identifies the challenged action nor explains the ruling, and it reports no merits determination or further proceedings."
+     }
+    },
+    {
      "id": "bco:15-3--case:cases/ga36_2008__2006-02.md",
      "record_id": "case:cases/ga36_2008__2006-02.md",
      "type": "Judicial case",
@@ -220990,6 +221504,67 @@
       ],
       "body": "SJC",
       "synopsis": "Case 2002-03 was decided with Cases 2001-34 and 2002-02. The SJC ruled some constituent complaints out of order but sustained the central complaint that James River Presbytery unduly delayed acting on a congregation's proper request to dissolve its pastoral relationship; it denied a related complaint concerning a salary gift. The consolidated decision drew concurring and dissenting opinions."
+     }
+    },
+    {
+     "id": "bco:16-2--case:cases/ga34_2006__stub_2005-03.md",
+     "record_id": "case:cases/ga34_2006__stub_2005-03.md",
+     "type": "Judicial case",
+     "title": "Session of Living Word Presbyterian Church v. Pacific Northwest Presbytery",
+     "year": 2005,
+     "disposition": "",
+     "authority_weight": "high",
+     "record_url": "cases/ga34_2006__stub_2005-03.md",
+     "evidence_basis": "structured_case_metadata",
+     "evidence_bases": [
+      "structured_case_metadata"
+     ],
+     "relationship_kind": "structured_case_reference",
+     "relationship_kinds": [
+      "structured_case_reference"
+     ],
+     "match_confidence": "medium",
+     "match_methods": [
+      "case_provision_index:judicial_cases.jsonl:bco_provisions"
+     ],
+     "reader_scope": "primary",
+     "relevance_status": "unreviewed",
+     "occurrences": [
+      {
+       "id": "bco:16-2--case:cases/ga34_2006__stub_2005-03.md:occ-c502764524fd",
+       "url": "cases/ga34_2006__stub_2005-03.md",
+       "locator": {},
+       "excerpt": "",
+       "sources": [
+        "judicial_cases.jsonl:bco_provisions"
+       ],
+       "evidence_basis": "structured_case_metadata",
+       "relationship_kind": "structured_case_reference",
+       "match_method": "case_provision_index:judicial_cases.jsonl:bco_provisions",
+       "match_confidence": "medium",
+       "reader_scope": "primary"
+      }
+     ],
+     "metadata": {
+      "topics": [
+       "dissolution of pastoral relationship",
+       "congregational vote",
+       "presbytery authority",
+       "BCO 23-1",
+       "voluntary fellowship",
+       "church polity",
+       "democratic vs hierarchical church government",
+       "pastoral leave of absence",
+       "ministerial and church relations committee",
+       "judicially out of order complaints",
+       "BCO 43-2 complaint procedure"
+      ],
+      "standard_of_review": "not_reached",
+      "case_numbers": [
+       "2005-3"
+      ],
+      "body": "SJC/CJB",
+      "synopsis": "The Session of Living Word Presbyterian Church brought a complaint against Pacific Northwest Presbytery, but the record does not identify the challenged action. The Standing Judicial Commission found the complaint out of order without specifying an administrative or judicial subtype or providing reasons. No merits determination or further relief is recorded."
      }
     },
     {
@@ -283678,6 +284253,67 @@
       ],
       "body": "SJC",
       "synopsis": "Case 2002-03 was decided with Cases 2001-34 and 2002-02. The SJC ruled some constituent complaints out of order but sustained the central complaint that James River Presbytery unduly delayed acting on a congregation's proper request to dissolve its pastoral relationship; it denied a related complaint concerning a salary gift. The consolidated decision drew concurring and dissenting opinions."
+     }
+    },
+    {
+     "id": "bco:20-4--case:cases/ga34_2006__stub_2005-03.md",
+     "record_id": "case:cases/ga34_2006__stub_2005-03.md",
+     "type": "Judicial case",
+     "title": "Session of Living Word Presbyterian Church v. Pacific Northwest Presbytery",
+     "year": 2005,
+     "disposition": "",
+     "authority_weight": "high",
+     "record_url": "cases/ga34_2006__stub_2005-03.md",
+     "evidence_basis": "structured_case_metadata",
+     "evidence_bases": [
+      "structured_case_metadata"
+     ],
+     "relationship_kind": "structured_case_reference",
+     "relationship_kinds": [
+      "structured_case_reference"
+     ],
+     "match_confidence": "medium",
+     "match_methods": [
+      "case_provision_index:judicial_cases.jsonl:bco_provisions"
+     ],
+     "reader_scope": "primary",
+     "relevance_status": "unreviewed",
+     "occurrences": [
+      {
+       "id": "bco:20-4--case:cases/ga34_2006__stub_2005-03.md:occ-c502764524fd",
+       "url": "cases/ga34_2006__stub_2005-03.md",
+       "locator": {},
+       "excerpt": "",
+       "sources": [
+        "judicial_cases.jsonl:bco_provisions"
+       ],
+       "evidence_basis": "structured_case_metadata",
+       "relationship_kind": "structured_case_reference",
+       "match_method": "case_provision_index:judicial_cases.jsonl:bco_provisions",
+       "match_confidence": "medium",
+       "reader_scope": "primary"
+      }
+     ],
+     "metadata": {
+      "topics": [
+       "dissolution of pastoral relationship",
+       "congregational vote",
+       "presbytery authority",
+       "BCO 23-1",
+       "voluntary fellowship",
+       "church polity",
+       "democratic vs hierarchical church government",
+       "pastoral leave of absence",
+       "ministerial and church relations committee",
+       "judicially out of order complaints",
+       "BCO 43-2 complaint procedure"
+      ],
+      "standard_of_review": "not_reached",
+      "case_numbers": [
+       "2005-3"
+      ],
+      "body": "SJC/CJB",
+      "synopsis": "The Session of Living Word Presbyterian Church brought a complaint against Pacific Northwest Presbytery, but the record does not identify the challenged action. The Standing Judicial Commission found the complaint out of order without specifying an administrative or judicial subtype or providing reasons. No merits determination or further relief is recorded."
      }
     },
     {
@@ -356794,6 +357430,67 @@
      }
     },
     {
+     "id": "bco:23-1--case:cases/ga34_2006__stub_2005-03.md",
+     "record_id": "case:cases/ga34_2006__stub_2005-03.md",
+     "type": "Judicial case",
+     "title": "Session of Living Word Presbyterian Church v. Pacific Northwest Presbytery",
+     "year": 2005,
+     "disposition": "",
+     "authority_weight": "high",
+     "record_url": "cases/ga34_2006__stub_2005-03.md",
+     "evidence_basis": "structured_case_metadata",
+     "evidence_bases": [
+      "structured_case_metadata"
+     ],
+     "relationship_kind": "structured_case_reference",
+     "relationship_kinds": [
+      "structured_case_reference"
+     ],
+     "match_confidence": "medium",
+     "match_methods": [
+      "case_provision_index:judicial_cases.jsonl:bco_provisions"
+     ],
+     "reader_scope": "primary",
+     "relevance_status": "unreviewed",
+     "occurrences": [
+      {
+       "id": "bco:23-1--case:cases/ga34_2006__stub_2005-03.md:occ-c502764524fd",
+       "url": "cases/ga34_2006__stub_2005-03.md",
+       "locator": {},
+       "excerpt": "",
+       "sources": [
+        "judicial_cases.jsonl:bco_provisions"
+       ],
+       "evidence_basis": "structured_case_metadata",
+       "relationship_kind": "structured_case_reference",
+       "match_method": "case_provision_index:judicial_cases.jsonl:bco_provisions",
+       "match_confidence": "medium",
+       "reader_scope": "primary"
+      }
+     ],
+     "metadata": {
+      "topics": [
+       "dissolution of pastoral relationship",
+       "congregational vote",
+       "presbytery authority",
+       "BCO 23-1",
+       "voluntary fellowship",
+       "church polity",
+       "democratic vs hierarchical church government",
+       "pastoral leave of absence",
+       "ministerial and church relations committee",
+       "judicially out of order complaints",
+       "BCO 43-2 complaint procedure"
+      ],
+      "standard_of_review": "not_reached",
+      "case_numbers": [
+       "2005-3"
+      ],
+      "body": "SJC/CJB",
+      "synopsis": "The Session of Living Word Presbyterian Church brought a complaint against Pacific Northwest Presbytery, but the record does not identify the challenged action. The Standing Judicial Commission found the complaint out of order without specifying an administrative or judicial subtype or providing reasons. No merits determination or further relief is recorded."
+     }
+    },
+    {
      "id": "bco:23-1--case:cases/ga33_2005__2004-03.md",
      "record_id": "case:cases/ga33_2005__2004-03.md",
      "type": "Judicial case",
@@ -382522,6 +383219,54 @@
      }
     },
     {
+     "id": "bco:24-6--case:cases/ga42_2014__stub_2013-09.md",
+     "record_id": "case:cases/ga42_2014__stub_2013-09.md",
+     "type": "Judicial case",
+     "title": "Marshall v. Pacific",
+     "year": 1993,
+     "disposition": "",
+     "authority_weight": "high",
+     "record_url": "cases/ga42_2014__stub_2013-09.md",
+     "evidence_basis": "structured_case_metadata",
+     "evidence_bases": [
+      "structured_case_metadata"
+     ],
+     "relationship_kind": "structured_case_reference",
+     "relationship_kinds": [
+      "structured_case_reference"
+     ],
+     "match_confidence": "medium",
+     "match_methods": [
+      "case_provision_index:judicial_cases.jsonl:bco_provisions"
+     ],
+     "reader_scope": "primary",
+     "relevance_status": "unreviewed",
+     "occurrences": [
+      {
+       "id": "bco:24-6--case:cases/ga42_2014__stub_2013-09.md:occ-5a779a6aff21",
+       "url": "cases/ga42_2014__stub_2013-09.md",
+       "locator": {},
+       "excerpt": "",
+       "sources": [
+        "judicial_cases.jsonl:bco_provisions"
+       ],
+       "evidence_basis": "structured_case_metadata",
+       "relationship_kind": "structured_case_reference",
+       "match_method": "case_provision_index:judicial_cases.jsonl:bco_provisions",
+       "match_confidence": "medium",
+       "reader_scope": "primary"
+      }
+     ],
+     "metadata": {
+      "standard_of_review": "not_reached",
+      "case_numbers": [
+       "2013-9"
+      ],
+      "body": "SJC/CJB",
+      "synopsis": "The 42nd Assembly (2014) disposed of Mr. G. Rick Marshall's appeal against Pacific Presbytery by withdrawal. No separate merits opinion was published, so the source does not disclose the challenged conduct, adopted reasoning, or relief beyond the withdrawal."
+     }
+    },
+    {
      "id": "bco:24-6--case:cases/ga21_1993__1992-05.md",
      "record_id": "case:cases/ga21_1993__1992-05.md",
      "type": "Judicial case",
@@ -391739,6 +392484,67 @@
      }
     },
     {
+     "id": "bco:25-7--case:cases/ga34_2006__stub_2005-03.md",
+     "record_id": "case:cases/ga34_2006__stub_2005-03.md",
+     "type": "Judicial case",
+     "title": "Session of Living Word Presbyterian Church v. Pacific Northwest Presbytery",
+     "year": 2005,
+     "disposition": "",
+     "authority_weight": "high",
+     "record_url": "cases/ga34_2006__stub_2005-03.md",
+     "evidence_basis": "structured_case_metadata",
+     "evidence_bases": [
+      "structured_case_metadata"
+     ],
+     "relationship_kind": "structured_case_reference",
+     "relationship_kinds": [
+      "structured_case_reference"
+     ],
+     "match_confidence": "medium",
+     "match_methods": [
+      "case_provision_index:judicial_cases.jsonl:bco_provisions"
+     ],
+     "reader_scope": "primary",
+     "relevance_status": "unreviewed",
+     "occurrences": [
+      {
+       "id": "bco:25-7--case:cases/ga34_2006__stub_2005-03.md:occ-c502764524fd",
+       "url": "cases/ga34_2006__stub_2005-03.md",
+       "locator": {},
+       "excerpt": "",
+       "sources": [
+        "judicial_cases.jsonl:bco_provisions"
+       ],
+       "evidence_basis": "structured_case_metadata",
+       "relationship_kind": "structured_case_reference",
+       "match_method": "case_provision_index:judicial_cases.jsonl:bco_provisions",
+       "match_confidence": "medium",
+       "reader_scope": "primary"
+      }
+     ],
+     "metadata": {
+      "topics": [
+       "dissolution of pastoral relationship",
+       "congregational vote",
+       "presbytery authority",
+       "BCO 23-1",
+       "voluntary fellowship",
+       "church polity",
+       "democratic vs hierarchical church government",
+       "pastoral leave of absence",
+       "ministerial and church relations committee",
+       "judicially out of order complaints",
+       "BCO 43-2 complaint procedure"
+      ],
+      "standard_of_review": "not_reached",
+      "case_numbers": [
+       "2005-3"
+      ],
+      "body": "SJC/CJB",
+      "synopsis": "The Session of Living Word Presbyterian Church brought a complaint against Pacific Northwest Presbytery, but the record does not identify the challenged action. The Standing Judicial Commission found the complaint out of order without specifying an administrative or judicial subtype or providing reasons. No merits determination or further relief is recorded."
+     }
+    },
+    {
      "id": "bco:25-7--case:cases/ga27_1999__1997-17.md",
      "record_id": "case:cases/ga27_1999__1997-17.md",
      "type": "Judicial case",
@@ -393700,6 +394506,67 @@
       ],
       "body": "SJC",
       "synopsis": "A presbytery annulled a session's actions after the session added to a petition-called congregational meeting a recommendation that the congregation invoke BCO 24-6 against eleven elders. The SJC sustained the session's complaint: BCO 25-2 permits a session to add agenda items, and BCO 24-6 does not require a member-initiated motion; the congregation's own 503–229 vote began the process. It reinstated the session's actions, declared remaining relief moot, and noted one recorded dissent; no dissent text appears."
+     }
+    },
+    {
+     "id": "bco:25-11--case:cases/ga34_2006__stub_2005-03.md",
+     "record_id": "case:cases/ga34_2006__stub_2005-03.md",
+     "type": "Judicial case",
+     "title": "Session of Living Word Presbyterian Church v. Pacific Northwest Presbytery",
+     "year": 2005,
+     "disposition": "",
+     "authority_weight": "high",
+     "record_url": "cases/ga34_2006__stub_2005-03.md",
+     "evidence_basis": "structured_case_metadata",
+     "evidence_bases": [
+      "structured_case_metadata"
+     ],
+     "relationship_kind": "structured_case_reference",
+     "relationship_kinds": [
+      "structured_case_reference"
+     ],
+     "match_confidence": "medium",
+     "match_methods": [
+      "case_provision_index:judicial_cases.jsonl:bco_provisions"
+     ],
+     "reader_scope": "primary",
+     "relevance_status": "unreviewed",
+     "occurrences": [
+      {
+       "id": "bco:25-11--case:cases/ga34_2006__stub_2005-03.md:occ-c502764524fd",
+       "url": "cases/ga34_2006__stub_2005-03.md",
+       "locator": {},
+       "excerpt": "",
+       "sources": [
+        "judicial_cases.jsonl:bco_provisions"
+       ],
+       "evidence_basis": "structured_case_metadata",
+       "relationship_kind": "structured_case_reference",
+       "match_method": "case_provision_index:judicial_cases.jsonl:bco_provisions",
+       "match_confidence": "medium",
+       "reader_scope": "primary"
+      }
+     ],
+     "metadata": {
+      "topics": [
+       "dissolution of pastoral relationship",
+       "congregational vote",
+       "presbytery authority",
+       "BCO 23-1",
+       "voluntary fellowship",
+       "church polity",
+       "democratic vs hierarchical church government",
+       "pastoral leave of absence",
+       "ministerial and church relations committee",
+       "judicially out of order complaints",
+       "BCO 43-2 complaint procedure"
+      ],
+      "standard_of_review": "not_reached",
+      "case_numbers": [
+       "2005-3"
+      ],
+      "body": "SJC/CJB",
+      "synopsis": "The Session of Living Word Presbyterian Church brought a complaint against Pacific Northwest Presbytery, but the record does not identify the challenged action. The Standing Judicial Commission found the complaint out of order without specifying an administrative or judicial subtype or providing reasons. No merits determination or further relief is recorded."
      }
     },
     {
@@ -428196,6 +429063,56 @@
      }
     },
     {
+     "id": "bco:31-2--case:cases/ga34_2006__stub_2005-02.md",
+     "record_id": "case:cases/ga34_2006__stub_2005-02.md",
+     "type": "Judicial case",
+     "title": "Andrino v. Southern Florida Presbytery",
+     "year": 2008,
+     "disposition": "dismissed",
+     "authority_weight": "high",
+     "record_url": "cases/ga34_2006__stub_2005-02.md",
+     "evidence_basis": "structured_case_metadata",
+     "evidence_bases": [
+      "structured_case_metadata"
+     ],
+     "relationship_kind": "structured_case_reference",
+     "relationship_kinds": [
+      "structured_case_reference"
+     ],
+     "match_confidence": "medium",
+     "match_methods": [
+      "case_provision_index:cases.jsonl:bco_cited_as,cases.jsonl:bco_cited_current,judicial_cases.jsonl:bco_provisions"
+     ],
+     "reader_scope": "primary",
+     "relevance_status": "unreviewed",
+     "occurrences": [
+      {
+       "id": "bco:31-2--case:cases/ga34_2006__stub_2005-02.md:occ-1331de2bbdc5",
+       "url": "cases/ga34_2006__stub_2005-02.md",
+       "locator": {},
+       "excerpt": "",
+       "sources": [
+        "cases.jsonl:bco_cited_as",
+        "cases.jsonl:bco_cited_current",
+        "judicial_cases.jsonl:bco_provisions"
+       ],
+       "evidence_basis": "structured_case_metadata",
+       "relationship_kind": "structured_case_reference",
+       "match_method": "case_provision_index:cases.jsonl:bco_cited_as,cases.jsonl:bco_cited_current,judicial_cases.jsonl:bco_provisions",
+       "match_confidence": "medium",
+       "reader_scope": "primary"
+      }
+     ],
+     "metadata": {
+      "standard_of_review": "not_reached",
+      "case_numbers": [
+       "2005-2"
+      ],
+      "body": "SJC",
+      "synopsis": "The SJC found RE Hugo Andrino’s complaint against Southern Florida Presbytery out of order. The published record neither identifies the challenged action nor explains the ruling, and it reports no merits determination or further proceedings."
+     }
+    },
+    {
      "id": "bco:31-2--case:cases/ga36_2008__2007-12.md",
      "record_id": "case:cases/ga36_2008__2007-12.md",
      "type": "Judicial case",
@@ -429049,6 +429966,67 @@
       ],
       "body": "SJC",
       "synopsis": "The SJC found RE Scott Robar's appeal from Central Carolina Presbytery judicially out of order and dismissed it because he filed his notice of appeal only with Presbytery's stated clerk, not also with the General Assembly's stated clerk as BCO 42-4 requires. No merits review of his conviction occurred. Four commissioners dissented, arguing that the presbytery clerk's admittedly incorrect advice, Robar's reliance, and Presbytery's request to treat the appeal as timely should excuse the filing defect under the Plowman precedent and equity or estoppel principles."
+     }
+    },
+    {
+     "id": "bco:31-2--case:cases/ga34_2006__stub_2005-03.md",
+     "record_id": "case:cases/ga34_2006__stub_2005-03.md",
+     "type": "Judicial case",
+     "title": "Session of Living Word Presbyterian Church v. Pacific Northwest Presbytery",
+     "year": 2005,
+     "disposition": "",
+     "authority_weight": "high",
+     "record_url": "cases/ga34_2006__stub_2005-03.md",
+     "evidence_basis": "structured_case_metadata",
+     "evidence_bases": [
+      "structured_case_metadata"
+     ],
+     "relationship_kind": "structured_case_reference",
+     "relationship_kinds": [
+      "structured_case_reference"
+     ],
+     "match_confidence": "medium",
+     "match_methods": [
+      "case_provision_index:judicial_cases.jsonl:bco_provisions"
+     ],
+     "reader_scope": "primary",
+     "relevance_status": "unreviewed",
+     "occurrences": [
+      {
+       "id": "bco:31-2--case:cases/ga34_2006__stub_2005-03.md:occ-c502764524fd",
+       "url": "cases/ga34_2006__stub_2005-03.md",
+       "locator": {},
+       "excerpt": "",
+       "sources": [
+        "judicial_cases.jsonl:bco_provisions"
+       ],
+       "evidence_basis": "structured_case_metadata",
+       "relationship_kind": "structured_case_reference",
+       "match_method": "case_provision_index:judicial_cases.jsonl:bco_provisions",
+       "match_confidence": "medium",
+       "reader_scope": "primary"
+      }
+     ],
+     "metadata": {
+      "topics": [
+       "dissolution of pastoral relationship",
+       "congregational vote",
+       "presbytery authority",
+       "BCO 23-1",
+       "voluntary fellowship",
+       "church polity",
+       "democratic vs hierarchical church government",
+       "pastoral leave of absence",
+       "ministerial and church relations committee",
+       "judicially out of order complaints",
+       "BCO 43-2 complaint procedure"
+      ],
+      "standard_of_review": "not_reached",
+      "case_numbers": [
+       "2005-3"
+      ],
+      "body": "SJC/CJB",
+      "synopsis": "The Session of Living Word Presbyterian Church brought a complaint against Pacific Northwest Presbytery, but the record does not identify the challenged action. The Standing Judicial Commission found the complaint out of order without specifying an administrative or judicial subtype or providing reasons. No merits determination or further relief is recorded."
      }
     },
     {
@@ -519803,6 +520781,56 @@
      }
     },
     {
+     "id": "bco:38-3--case:cases/ga34_2006__stub_2005-02.md",
+     "record_id": "case:cases/ga34_2006__stub_2005-02.md",
+     "type": "Judicial case",
+     "title": "Andrino v. Southern Florida Presbytery",
+     "year": 2008,
+     "disposition": "dismissed",
+     "authority_weight": "high",
+     "record_url": "cases/ga34_2006__stub_2005-02.md",
+     "evidence_basis": "structured_case_metadata",
+     "evidence_bases": [
+      "structured_case_metadata"
+     ],
+     "relationship_kind": "structured_case_reference",
+     "relationship_kinds": [
+      "structured_case_reference"
+     ],
+     "match_confidence": "medium",
+     "match_methods": [
+      "case_provision_index:cases.jsonl:bco_cited_as,cases.jsonl:bco_cited_current,judicial_cases.jsonl:bco_provisions"
+     ],
+     "reader_scope": "primary",
+     "relevance_status": "unreviewed",
+     "occurrences": [
+      {
+       "id": "bco:38-3--case:cases/ga34_2006__stub_2005-02.md:occ-1331de2bbdc5",
+       "url": "cases/ga34_2006__stub_2005-02.md",
+       "locator": {},
+       "excerpt": "",
+       "sources": [
+        "cases.jsonl:bco_cited_as",
+        "cases.jsonl:bco_cited_current",
+        "judicial_cases.jsonl:bco_provisions"
+       ],
+       "evidence_basis": "structured_case_metadata",
+       "relationship_kind": "structured_case_reference",
+       "match_method": "case_provision_index:cases.jsonl:bco_cited_as,cases.jsonl:bco_cited_current,judicial_cases.jsonl:bco_provisions",
+       "match_confidence": "medium",
+       "reader_scope": "primary"
+      }
+     ],
+     "metadata": {
+      "standard_of_review": "not_reached",
+      "case_numbers": [
+       "2005-2"
+      ],
+      "body": "SJC",
+      "synopsis": "The SJC found RE Hugo Andrino’s complaint against Southern Florida Presbytery out of order. The published record neither identifies the challenged action nor explains the ruling, and it reports no merits determination or further proceedings."
+     }
+    },
+    {
      "id": "bco:38-3--case:cases/ga36_2008__2006-02.md",
      "record_id": "case:cases/ga36_2008__2006-02.md",
      "type": "Judicial case",
@@ -579030,7 +580058,7 @@
      "type": "Judicial case",
      "title": "In re Korean Southwest Orange County Presbytery",
      "year": 2022,
-     "disposition": "",
+     "disposition": "administrative",
      "authority_weight": "high",
      "record_url": "cases/ga49_2022__2021-08.md",
      "evidence_basis": "direct_text",
@@ -579068,14 +580096,23 @@
      ],
      "metadata": {
       "topics": [
-       "Korean Southwest Presbytery",
-       "Presbytery organization"
+       "review of presbytery records",
+       "RPR",
+       "exception of substance",
+       "presbytery compliance",
+       "SJC citation of presbytery",
+       "citation",
+       "RPR exceptions",
+       "citation by General Assembly",
+       "presbytery records review",
+       "RPR report",
+       "Korean Southwest Orange County Presbytery"
       ],
       "standard_of_review": "not_reached",
       "case_numbers": [
        "2021-8"
       ],
-      "body": "CJB",
+      "body": "SJC",
       "synopsis": "As of March 3, 2022, Presbytery had not supplied formally adopted responses to records-review exceptions, although its clerk had prepared drafts. The SJC allowed time for adoption and filing by April 1, after which it would forward the responses for records review; failure to file would prompt a called hearing. This was an unfinished compliance process, not approval of the draft responses or a final merits decision."
      }
     },
@@ -582263,6 +583300,67 @@
       ],
       "body": "SJC",
       "synopsis": "Case 2002-03 was decided with Cases 2001-34 and 2002-02. The SJC ruled some constituent complaints out of order but sustained the central complaint that James River Presbytery unduly delayed acting on a congregation's proper request to dissolve its pastoral relationship; it denied a related complaint concerning a salary gift. The consolidated decision drew concurring and dissenting opinions."
+     }
+    },
+    {
+     "id": "bco:43-1--case:cases/ga34_2006__stub_2005-03.md",
+     "record_id": "case:cases/ga34_2006__stub_2005-03.md",
+     "type": "Judicial case",
+     "title": "Session of Living Word Presbyterian Church v. Pacific Northwest Presbytery",
+     "year": 2005,
+     "disposition": "",
+     "authority_weight": "high",
+     "record_url": "cases/ga34_2006__stub_2005-03.md",
+     "evidence_basis": "structured_case_metadata",
+     "evidence_bases": [
+      "structured_case_metadata"
+     ],
+     "relationship_kind": "structured_case_reference",
+     "relationship_kinds": [
+      "structured_case_reference"
+     ],
+     "match_confidence": "medium",
+     "match_methods": [
+      "case_provision_index:judicial_cases.jsonl:bco_provisions"
+     ],
+     "reader_scope": "primary",
+     "relevance_status": "unreviewed",
+     "occurrences": [
+      {
+       "id": "bco:43-1--case:cases/ga34_2006__stub_2005-03.md:occ-c502764524fd",
+       "url": "cases/ga34_2006__stub_2005-03.md",
+       "locator": {},
+       "excerpt": "",
+       "sources": [
+        "judicial_cases.jsonl:bco_provisions"
+       ],
+       "evidence_basis": "structured_case_metadata",
+       "relationship_kind": "structured_case_reference",
+       "match_method": "case_provision_index:judicial_cases.jsonl:bco_provisions",
+       "match_confidence": "medium",
+       "reader_scope": "primary"
+      }
+     ],
+     "metadata": {
+      "topics": [
+       "dissolution of pastoral relationship",
+       "congregational vote",
+       "presbytery authority",
+       "BCO 23-1",
+       "voluntary fellowship",
+       "church polity",
+       "democratic vs hierarchical church government",
+       "pastoral leave of absence",
+       "ministerial and church relations committee",
+       "judicially out of order complaints",
+       "BCO 43-2 complaint procedure"
+      ],
+      "standard_of_review": "not_reached",
+      "case_numbers": [
+       "2005-3"
+      ],
+      "body": "SJC/CJB",
+      "synopsis": "The Session of Living Word Presbyterian Church brought a complaint against Pacific Northwest Presbytery, but the record does not identify the challenged action. The Standing Judicial Commission found the complaint out of order without specifying an administrative or judicial subtype or providing reasons. No merits determination or further relief is recorded."
      }
     },
     {
@@ -588565,6 +589663,67 @@
      }
     },
     {
+     "id": "bco:43-2--case:cases/ga34_2006__stub_2005-03.md",
+     "record_id": "case:cases/ga34_2006__stub_2005-03.md",
+     "type": "Judicial case",
+     "title": "Session of Living Word Presbyterian Church v. Pacific Northwest Presbytery",
+     "year": 2005,
+     "disposition": "",
+     "authority_weight": "high",
+     "record_url": "cases/ga34_2006__stub_2005-03.md",
+     "evidence_basis": "structured_case_metadata",
+     "evidence_bases": [
+      "structured_case_metadata"
+     ],
+     "relationship_kind": "structured_case_reference",
+     "relationship_kinds": [
+      "structured_case_reference"
+     ],
+     "match_confidence": "medium",
+     "match_methods": [
+      "case_provision_index:judicial_cases.jsonl:bco_provisions"
+     ],
+     "reader_scope": "primary",
+     "relevance_status": "unreviewed",
+     "occurrences": [
+      {
+       "id": "bco:43-2--case:cases/ga34_2006__stub_2005-03.md:occ-c502764524fd",
+       "url": "cases/ga34_2006__stub_2005-03.md",
+       "locator": {},
+       "excerpt": "",
+       "sources": [
+        "judicial_cases.jsonl:bco_provisions"
+       ],
+       "evidence_basis": "structured_case_metadata",
+       "relationship_kind": "structured_case_reference",
+       "match_method": "case_provision_index:judicial_cases.jsonl:bco_provisions",
+       "match_confidence": "medium",
+       "reader_scope": "primary"
+      }
+     ],
+     "metadata": {
+      "topics": [
+       "dissolution of pastoral relationship",
+       "congregational vote",
+       "presbytery authority",
+       "BCO 23-1",
+       "voluntary fellowship",
+       "church polity",
+       "democratic vs hierarchical church government",
+       "pastoral leave of absence",
+       "ministerial and church relations committee",
+       "judicially out of order complaints",
+       "BCO 43-2 complaint procedure"
+      ],
+      "standard_of_review": "not_reached",
+      "case_numbers": [
+       "2005-3"
+      ],
+      "body": "SJC/CJB",
+      "synopsis": "The Session of Living Word Presbyterian Church brought a complaint against Pacific Northwest Presbytery, but the record does not identify the challenged action. The Standing Judicial Commission found the complaint out of order without specifying an administrative or judicial subtype or providing reasons. No merits determination or further relief is recorded."
+     }
+    },
+    {
      "id": "bco:43-2--case:cases/ga32_2004__2002-18.md",
      "record_id": "case:cases/ga32_2004__2002-18.md",
      "type": "Judicial case",
@@ -589007,6 +590166,62 @@
       ],
       "body": "SJC",
       "synopsis": "A ruling elder's complaint against Korean Northwest Presbytery was found out of order because it was untimely under BCO 43-2. The action complained of was taken October 10, 2000, but the complaint was filed March 12, 2001, well outside the 30-day filing period, so the SJC reached no merits question. The case illustrates that a complaint failing BCO 43-2 timeliness is dismissed without adjudication of the underlying presbytery action."
+     }
+    },
+    {
+     "id": "bco:43-2--case:cases/ga30_2002__2001-10.md",
+     "record_id": "case:cases/ga30_2002__2001-10.md",
+     "type": "Judicial case",
+     "title": "Charles C. Kim v. Korean Capital Presbytery (Appeal)",
+     "year": 2002,
+     "disposition": "out_of_order",
+     "authority_weight": "high",
+     "record_url": "cases/ga30_2002__2001-10.md",
+     "evidence_basis": "structured_case_metadata",
+     "evidence_bases": [
+      "structured_case_metadata"
+     ],
+     "relationship_kind": "structured_case_reference",
+     "relationship_kinds": [
+      "structured_case_reference"
+     ],
+     "match_confidence": "medium",
+     "match_methods": [
+      "case_provision_index:cases.jsonl:bco_cited_as,cases.jsonl:bco_cited_current"
+     ],
+     "reader_scope": "primary",
+     "relevance_status": "unreviewed",
+     "occurrences": [
+      {
+       "id": "bco:43-2--case:cases/ga30_2002__2001-10.md:occ-02228cd5f525",
+       "url": "cases/ga30_2002__2001-10.md",
+       "locator": {},
+       "excerpt": "",
+       "sources": [
+        "cases.jsonl:bco_cited_as",
+        "cases.jsonl:bco_cited_current"
+       ],
+       "evidence_basis": "structured_case_metadata",
+       "relationship_kind": "structured_case_reference",
+       "match_method": "case_provision_index:cases.jsonl:bco_cited_as,cases.jsonl:bco_cited_current",
+       "match_confidence": "medium",
+       "reader_scope": "primary"
+      }
+     ],
+     "metadata": {
+      "topics": [
+       "appeal",
+       "original jurisdiction",
+       "Session",
+       "excommunication",
+       "church discipline"
+      ],
+      "standard_of_review": "not_stated",
+      "case_numbers": [
+       "2001-10"
+      ],
+      "body": "SJC",
+      "synopsis": "A communicant member appealed Presbytery’s findings of guilt and censure of excommunication. The SJC reversed Presbytery’s and its Special Judicial Commission’s actions because original jurisdiction over judicial proceedings against a local church’s communicant member belonged to that church’s Session. The decision was jurisdictional: it neither resolved the underlying charges nor directed a remand or acquittal."
      }
     },
     {
@@ -610974,6 +612189,56 @@
      }
     },
     {
+     "id": "bco:46-6--case:cases/ga34_2006__stub_2005-02.md",
+     "record_id": "case:cases/ga34_2006__stub_2005-02.md",
+     "type": "Judicial case",
+     "title": "Andrino v. Southern Florida Presbytery",
+     "year": 2008,
+     "disposition": "dismissed",
+     "authority_weight": "high",
+     "record_url": "cases/ga34_2006__stub_2005-02.md",
+     "evidence_basis": "structured_case_metadata",
+     "evidence_bases": [
+      "structured_case_metadata"
+     ],
+     "relationship_kind": "structured_case_reference",
+     "relationship_kinds": [
+      "structured_case_reference"
+     ],
+     "match_confidence": "medium",
+     "match_methods": [
+      "case_provision_index:cases.jsonl:bco_cited_as,cases.jsonl:bco_cited_current,judicial_cases.jsonl:bco_provisions"
+     ],
+     "reader_scope": "primary",
+     "relevance_status": "unreviewed",
+     "occurrences": [
+      {
+       "id": "bco:46-6--case:cases/ga34_2006__stub_2005-02.md:occ-1331de2bbdc5",
+       "url": "cases/ga34_2006__stub_2005-02.md",
+       "locator": {},
+       "excerpt": "",
+       "sources": [
+        "cases.jsonl:bco_cited_as",
+        "cases.jsonl:bco_cited_current",
+        "judicial_cases.jsonl:bco_provisions"
+       ],
+       "evidence_basis": "structured_case_metadata",
+       "relationship_kind": "structured_case_reference",
+       "match_method": "case_provision_index:cases.jsonl:bco_cited_as,cases.jsonl:bco_cited_current,judicial_cases.jsonl:bco_provisions",
+       "match_confidence": "medium",
+       "reader_scope": "primary"
+      }
+     ],
+     "metadata": {
+      "standard_of_review": "not_reached",
+      "case_numbers": [
+       "2005-2"
+      ],
+      "body": "SJC",
+      "synopsis": "The SJC found RE Hugo Andrino’s complaint against Southern Florida Presbytery out of order. The published record neither identifies the challenged action nor explains the ruling, and it reports no merits determination or further proceedings."
+     }
+    },
+    {
      "id": "bco:46-6--overture:ga46_2018:16:p708",
      "record_id": "overture:ga46_2018:16:p708",
      "type": "Overture",
@@ -623176,6 +624441,56 @@
      }
     },
     {
+     "id": "bco:57-5--case:cases/ga34_2006__stub_2005-02.md",
+     "record_id": "case:cases/ga34_2006__stub_2005-02.md",
+     "type": "Judicial case",
+     "title": "Andrino v. Southern Florida Presbytery",
+     "year": 2008,
+     "disposition": "dismissed",
+     "authority_weight": "high",
+     "record_url": "cases/ga34_2006__stub_2005-02.md",
+     "evidence_basis": "structured_case_metadata",
+     "evidence_bases": [
+      "structured_case_metadata"
+     ],
+     "relationship_kind": "structured_case_reference",
+     "relationship_kinds": [
+      "structured_case_reference"
+     ],
+     "match_confidence": "medium",
+     "match_methods": [
+      "case_provision_index:cases.jsonl:bco_cited_as,cases.jsonl:bco_cited_current,judicial_cases.jsonl:bco_provisions"
+     ],
+     "reader_scope": "primary",
+     "relevance_status": "unreviewed",
+     "occurrences": [
+      {
+       "id": "bco:57-5--case:cases/ga34_2006__stub_2005-02.md:occ-1331de2bbdc5",
+       "url": "cases/ga34_2006__stub_2005-02.md",
+       "locator": {},
+       "excerpt": "",
+       "sources": [
+        "cases.jsonl:bco_cited_as",
+        "cases.jsonl:bco_cited_current",
+        "judicial_cases.jsonl:bco_provisions"
+       ],
+       "evidence_basis": "structured_case_metadata",
+       "relationship_kind": "structured_case_reference",
+       "match_method": "case_provision_index:cases.jsonl:bco_cited_as,cases.jsonl:bco_cited_current,judicial_cases.jsonl:bco_provisions",
+       "match_confidence": "medium",
+       "reader_scope": "primary"
+      }
+     ],
+     "metadata": {
+      "standard_of_review": "not_reached",
+      "case_numbers": [
+       "2005-2"
+      ],
+      "body": "SJC",
+      "synopsis": "The SJC found RE Hugo Andrino’s complaint against Southern Florida Presbytery out of order. The published record neither identifies the challenged action nor explains the ruling, and it reports no merits determination or further proceedings."
+     }
+    },
+    {
      "id": "bco:57-5--case:cases/ga36_2008__2006-02.md",
      "record_id": "case:cases/ga36_2008__2006-02.md",
      "type": "Judicial case",
@@ -625141,6 +626456,56 @@
      ],
      "metadata": {
       "summary": "A Southeast Alabama overture adding transfer-of-membership procedures was in conflict because it equated 'profession of faith' with doctrinal subscription and contained internal procedural contradictions."
+     }
+    },
+    {
+     "id": "bco:57-6--case:cases/ga34_2006__stub_2005-02.md",
+     "record_id": "case:cases/ga34_2006__stub_2005-02.md",
+     "type": "Judicial case",
+     "title": "Andrino v. Southern Florida Presbytery",
+     "year": 2008,
+     "disposition": "dismissed",
+     "authority_weight": "high",
+     "record_url": "cases/ga34_2006__stub_2005-02.md",
+     "evidence_basis": "structured_case_metadata",
+     "evidence_bases": [
+      "structured_case_metadata"
+     ],
+     "relationship_kind": "structured_case_reference",
+     "relationship_kinds": [
+      "structured_case_reference"
+     ],
+     "match_confidence": "medium",
+     "match_methods": [
+      "case_provision_index:cases.jsonl:bco_cited_as,cases.jsonl:bco_cited_current,judicial_cases.jsonl:bco_provisions"
+     ],
+     "reader_scope": "primary",
+     "relevance_status": "unreviewed",
+     "occurrences": [
+      {
+       "id": "bco:57-6--case:cases/ga34_2006__stub_2005-02.md:occ-1331de2bbdc5",
+       "url": "cases/ga34_2006__stub_2005-02.md",
+       "locator": {},
+       "excerpt": "",
+       "sources": [
+        "cases.jsonl:bco_cited_as",
+        "cases.jsonl:bco_cited_current",
+        "judicial_cases.jsonl:bco_provisions"
+       ],
+       "evidence_basis": "structured_case_metadata",
+       "relationship_kind": "structured_case_reference",
+       "match_method": "case_provision_index:cases.jsonl:bco_cited_as,cases.jsonl:bco_cited_current,judicial_cases.jsonl:bco_provisions",
+       "match_confidence": "medium",
+       "reader_scope": "primary"
+      }
+     ],
+     "metadata": {
+      "standard_of_review": "not_reached",
+      "case_numbers": [
+       "2005-2"
+      ],
+      "body": "SJC",
+      "synopsis": "The SJC found RE Hugo Andrino’s complaint against Southern Florida Presbytery out of order. The published record neither identifies the challenged action nor explains the ruling, and it reports no merits determination or further proceedings."
      }
     },
     {

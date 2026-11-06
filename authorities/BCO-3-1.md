@@ -5,6 +5,7 @@
 | Year | Record type | Relationship | Evidence | Confidence | Title | Disposition |
 |------|-------------|--------------|----------|------------|-------|-------------|
 | 2024 | Judicial case | explicit_citation | direct_text | high | [Psiaki v. Pacific Northwest Presbytery](../cases/ga51_2024__2023-11.md) | sustained |
+| 2005 | Judicial case | structured_case_reference | structured_case_metadata | medium | [Session of Living Word Presbyterian Church v. Pacific Northwest Presbytery](../cases/ga34_2006__stub_2005-03.md) |  |
 | 2002 | Judicial case | explicit_citation | direct_text | high | [Andy Lee v. Korean Capital Presbytery](../cases/ga30_2002__2001-07.md) | dismissed |
 | 1991 | Judicial case | explicit_citation | direct_text | high | [Chappell v. Eastern Carolina Presbytery](../cases/ga19_1991__1990-04.md) | sustained |
 | 1991 | Judicial case | structured_case_reference | structured_case_metadata | medium | [Marshall v. Eastern Carolina Presbytery](../cases/ga19_1991__1990-04a.md) | sustained |

@@ -5,6 +5,7 @@
 | Year | Record type | Relationship | Evidence | Confidence | Title | Disposition |
 |------|-------------|--------------|----------|------------|-------|-------------|
 | 2023 | Judicial case | explicit_citation | direct_text | high | [Wilson et al. v. Pacific Northwest Presbytery](../cases/ga50_2023__2022-20.md) | dismissed |
+| 2008 | Judicial case | structured_case_reference | structured_case_metadata | medium | [Andrino v. Southern Florida Presbytery](../cases/ga34_2006__stub_2005-02.md) | dismissed |
 | 2008 | Judicial case | structured_case_reference | structured_case_metadata | medium | [Memorial of Central Carolina v. Louisiana](../cases/ga36_2008__2006-02.md) | other |
 | 2023 | CCB advice | structured_provision_tag | structured_provision_tag | medium | [Change BCO 8-6 Regarding Chaplain Administration of Sacraments](../inquiries/ga50_2023__ci02.md) | in conflict; Adopted 8-0-0 |
 | 2025 | Overture | explicit_citation | direct_text | high | [Amend RAO 4-11 to Prohibit Collection of Member Age and Ethnicity Data](../markdown/ga52_2025.md#ga52-p1291) | RAO amendment failed: two-thirds vote not met (1005-623) |

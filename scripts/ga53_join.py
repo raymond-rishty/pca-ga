@@ -86,7 +86,7 @@ def join_cases(secs, chaps):
             except Exception:
                 pass
     out = []
-    for r in (json.loads(l) for l in open(os.path.join(IDX, "cases.jsonl"))):
+    for r in (json.loads(l) for l in open(os.path.join(ROOT, "data", "cases", "records", "cases.jsonl"))):
         cited = set(r.get("bco_cited_current") or []) | set(r.get("bco_cited_as") or [])
         exact = bare & cited
         if not exact:

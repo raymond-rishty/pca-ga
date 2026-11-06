@@ -8,6 +8,7 @@
 | 2024 | Judicial case | structured_case_reference | structured_case_metadata | medium | [Biese et al. v. Tennessee Valley Presbytery](../cases/ga51_2024__2023-04.md) | denied |
 | 2024 | Judicial case | explicit_citation | direct_text | high | [Knox Baird et al. v. Grace Presbytery](../cases/ga51_2024__2023-06_2023-08.md) | partially_sustained |
 | 2021 | Judicial case | explicit_citation | direct_text | high | [Crouse v. Northwest Georgia Presbytery](../cases/ga48_2021__2019-03.md) | sustained |
+| 2005 | Judicial case | structured_case_reference | structured_case_metadata | medium | [Session of Living Word Presbyterian Church v. Pacific Northwest Presbytery](../cases/ga34_2006__stub_2005-03.md) |  |
 | 1994 | Judicial case | explicit_citation | direct_text | high | [Smith v. Northeast Presbytery](../cases/ga22_1994__1993-01.md) | denied |
 | 1991 | Judicial case | structured_case_reference | structured_case_metadata | medium | [Chappell v. Eastern Carolina Presbytery](../cases/ga19_1991__1990-04.md) | sustained |
 | 1991 | Judicial case | structured_case_reference | structured_case_metadata | medium | [Marshall v. Eastern Carolina Presbytery](../cases/ga19_1991__1990-04a.md) | sustained |

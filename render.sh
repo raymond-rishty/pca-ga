@@ -38,7 +38,7 @@ python3 "$S/20_markdown_index.py"                       # ROOT hardcoded /worksp
 
 # Canonical judicial catalogue: structured JSONL -> published HTML.  The HTML is
 # checked in for Pages/review convenience, but is always regenerated here so it
-# cannot drift from index/judicial_cases.jsonl.
+# cannot drift from data/cases/records/judicial_cases.jsonl.
 python3 "$S/13_judicial_taxonomy_index.py" "$BUILD"
 python3 "$S/13_judicial_taxonomy_index.py" "$PUB"
 mkdir -p "$PUB/index/outlines"

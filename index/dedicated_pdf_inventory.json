@@ -2,7 +2,7 @@
   "schema_version": 1,
   "description": "Curated dedicated-PDF inventory. pdf_path is the stable external path beneath pcahistory.org; local_pdf_path is null because this repository does not vendor source PDF binaries.",
   "generated_from": [
-    "index/sjc_official/roster.jsonl",
+    "data/cases/sources/sjc_official/roster.jsonl",
     "index/studies_pdf_manifest.json",
     "index/studies_pcahistory.json"
   ],
@@ -15,7 +15,7 @@
       "url": "https://pcahistory.org/pca/sjc/cases/1983-07_Wilbor_v_NGP.pdf",
       "pdf_path": "pca/sjc/cases/1983-07_Wilbor_v_NGP.pdf",
       "status": "listed",
-      "inventory_source": "index/sjc_official/roster.jsonl",
+      "inventory_source": "data/cases/sources/sjc_official/roster.jsonl",
       "local_pdf_path": null,
       "notes": "Listed by the repository's SJC official roster; PDF binary is external and not vendored."
     },
@@ -26,7 +26,7 @@
       "url": "https://pcahistory.org/pca/sjc/cases/1983-08_Eubanks_v_CentralCarolina.pdf",
       "pdf_path": "pca/sjc/cases/1983-08_Eubanks_v_CentralCarolina.pdf",
       "status": "listed",
-      "inventory_source": "index/sjc_official/roster.jsonl",
+      "inventory_source": "data/cases/sources/sjc_official/roster.jsonl",
       "local_pdf_path": null,
       "notes": "Listed by the repository's SJC official roster; PDF binary is external and not vendored."
     },
@@ -37,7 +37,7 @@
       "url": "https://pcahistory.org/pca/sjc/cases/1983-13_Codling_v_ECanada.pdf",
       "pdf_path": "pca/sjc/cases/1983-13_Codling_v_ECanada.pdf",
       "status": "listed",
-      "inventory_source": "index/sjc_official/roster.jsonl",
+      "inventory_source": "data/cases/sources/sjc_official/roster.jsonl",
       "local_pdf_path": null,
       "notes": "Listed by the repository's SJC official roster; PDF binary is external and not vendored."
     },
@@ -48,7 +48,7 @@
       "url": "https://pcahistory.org/pca/sjc/cases/1983-15_Smith_v_CentralCarolina.pdf",
       "pdf_path": "pca/sjc/cases/1983-15_Smith_v_CentralCarolina.pdf",
       "status": "listed",
-      "inventory_source": "index/sjc_official/roster.jsonl",
+      "inventory_source": "data/cases/sources/sjc_official/roster.jsonl",
       "local_pdf_path": null,
       "notes": "Listed by the repository's SJC official roster; PDF binary is external and not vendored."
     },
@@ -59,7 +59,7 @@
       "url": "https://pcahistory.org/pca/sjc/cases/1988-02_Fox_v_MississippiValley.pdf",
       "pdf_path": "pca/sjc/cases/1988-02_Fox_v_MississippiValley.pdf",
       "status": "listed",
-      "inventory_source": "index/sjc_official/roster.jsonl",
+      "inventory_source": "data/cases/sources/sjc_official/roster.jsonl",
       "local_pdf_path": null,
       "notes": "Listed by the repository's SJC official roster; PDF binary is external and not vendored."
     },
@@ -70,7 +70,7 @@
       "url": "https://pcahistory.org/pca/sjc/cases/1990-08_Bowen_v_EasternCarolina.pdf",
       "pdf_path": "pca/sjc/cases/1990-08_Bowen_v_EasternCarolina.pdf",
       "status": "listed",
-      "inventory_source": "index/sjc_official/roster.jsonl",
+      "inventory_source": "data/cases/sources/sjc_official/roster.jsonl",
       "local_pdf_path": null,
       "notes": "Listed by the repository's SJC official roster; PDF binary is external and not vendored."
     },
@@ -81,7 +81,7 @@
       "url": "https://pcahistory.org/pca/sjc/cases/1995-11_Landrum_v_MississippiValley.pdf",
       "pdf_path": "pca/sjc/cases/1995-11_Landrum_v_MississippiValley.pdf",
       "status": "listed",
-      "inventory_source": "index/sjc_official/roster.jsonl",
+      "inventory_source": "data/cases/sources/sjc_official/roster.jsonl",
       "local_pdf_path": null,
       "notes": "Listed by the repository's SJC official roster; PDF binary is external and not vendored."
     },
@@ -92,7 +92,7 @@
       "url": "https://pcahistory.org/pca/sjc/cases/1997-04_Conrad_v_CentralCarolina.pdf",
       "pdf_path": "pca/sjc/cases/1997-04_Conrad_v_CentralCarolina.pdf",
       "status": "listed",
-      "inventory_source": "index/sjc_official/roster.jsonl",
+      "inventory_source": "data/cases/sources/sjc_official/roster.jsonl",
       "local_pdf_path": null,
       "notes": "Listed by the repository's SJC official roster; PDF binary is external and not vendored."
     },
@@ -103,7 +103,7 @@
       "url": "https://pcahistory.org/pca/sjc/cases/1997-09_Shive_v_CentralCarolina.pdf",
       "pdf_path": "pca/sjc/cases/1997-09_Shive_v_CentralCarolina.pdf",
       "status": "listed",
-      "inventory_source": "index/sjc_official/roster.jsonl",
+      "inventory_source": "data/cases/sources/sjc_official/roster.jsonl",
       "local_pdf_path": null,
       "notes": "Listed by the repository's SJC official roster; PDF binary is external and not vendored."
     },
@@ -114,7 +114,7 @@
       "url": "https://pcahistory.org/pca/sjc/cases/1997-13_Harvestwood_v_NewRiver.pdf",
       "pdf_path": "pca/sjc/cases/1997-13_Harvestwood_v_NewRiver.pdf",
       "status": "listed",
-      "inventory_source": "index/sjc_official/roster.jsonl",
+      "inventory_source": "data/cases/sources/sjc_official/roster.jsonl",
       "local_pdf_path": null,
       "notes": "Listed by the repository's SJC official roster; PDF binary is external and not vendored."
     },
@@ -125,7 +125,7 @@
       "url": "https://pcahistory.org/pca/sjc/cases/2002-10_Goerig_v_PacificNorthwest.pdf",
       "pdf_path": "pca/sjc/cases/2002-10_Goerig_v_PacificNorthwest.pdf",
       "status": "listed",
-      "inventory_source": "index/sjc_official/roster.jsonl",
+      "inventory_source": "data/cases/sources/sjc_official/roster.jsonl",
       "local_pdf_path": null,
       "notes": "Listed by the repository's SJC official roster; PDF binary is external and not vendored."
     },
@@ -136,7 +136,7 @@
       "url": "https://pcahistory.org/pca/sjc/cases/2004-03_Harris_v_Heritage.pdf",
       "pdf_path": "pca/sjc/cases/2004-03_Harris_v_Heritage.pdf",
       "status": "listed",
-      "inventory_source": "index/sjc_official/roster.jsonl",
+      "inventory_source": "data/cases/sources/sjc_official/roster.jsonl",
       "local_pdf_path": null,
       "notes": "Listed by the repository's SJC official roster; PDF binary is external and not vendored."
     },
@@ -147,7 +147,7 @@
       "url": "https://pcahistory.org/pca/sjc/cases/2004-07_FPCAugusta_v_SavannahRiver.pdf",
       "pdf_path": "pca/sjc/cases/2004-07_FPCAugusta_v_SavannahRiver.pdf",
       "status": "listed",
-      "inventory_source": "index/sjc_official/roster.jsonl",
+      "inventory_source": "data/cases/sources/sjc_official/roster.jsonl",
       "local_pdf_path": null,
       "notes": "Listed by the repository's SJC official roster; PDF binary is external and not vendored."
     },
@@ -158,7 +158,7 @@
       "url": "https://pcahistory.org/pca/sjc/cases/2004-08_Thornton_v_Westminster.pdf",
       "pdf_path": "pca/sjc/cases/2004-08_Thornton_v_Westminster.pdf",
       "status": "listed",
-      "inventory_source": "index/sjc_official/roster.jsonl",
+      "inventory_source": "data/cases/sources/sjc_official/roster.jsonl",
       "local_pdf_path": null,
       "notes": "Listed by the repository's SJC official roster; PDF binary is external and not vendored."
     },
@@ -169,7 +169,7 @@
       "url": "https://pcahistory.org/pca/sjc/cases/2005-01_Chastain_v_Heritage.pdf",
       "pdf_path": "pca/sjc/cases/2005-01_Chastain_v_Heritage.pdf",
       "status": "listed",
-      "inventory_source": "index/sjc_official/roster.jsonl",
+      "inventory_source": "data/cases/sources/sjc_official/roster.jsonl",
       "local_pdf_path": null,
       "notes": "Listed by the repository's SJC official roster; PDF binary is external and not vendored."
     },
@@ -180,7 +180,7 @@
       "url": "https://pcahistory.org/pca/sjc/cases/2005-08_Kim_v_KoreanEastern.pdf",
       "pdf_path": "pca/sjc/cases/2005-08_Kim_v_KoreanEastern.pdf",
       "status": "listed",
-      "inventory_source": "index/sjc_official/roster.jsonl",
+      "inventory_source": "data/cases/sources/sjc_official/roster.jsonl",
       "local_pdf_path": null,
       "notes": "Listed by the repository's SJC official roster; PDF binary is external and not vendored."
     },
@@ -191,7 +191,7 @@
       "url": "https://pcahistory.org/pca/sjc/cases/2005-09_Kim_v_KoreanEastern.pdf",
       "pdf_path": "pca/sjc/cases/2005-09_Kim_v_KoreanEastern.pdf",
       "status": "listed",
-      "inventory_source": "index/sjc_official/roster.jsonl",
+      "inventory_source": "data/cases/sources/sjc_official/roster.jsonl",
       "local_pdf_path": null,
       "notes": "Listed by the repository's SJC official roster; PDF binary is external and not vendored."
     },
@@ -202,7 +202,7 @@
       "url": "https://pcahistory.org/pca/sjc/cases/2006-02_Memorial_of_Central_Carolina.pdf",
       "pdf_path": "pca/sjc/cases/2006-02_Memorial_of_Central_Carolina.pdf",
       "status": "listed",
-      "inventory_source": "index/sjc_official/roster.jsonl",
+      "inventory_source": "data/cases/sources/sjc_official/roster.jsonl",
       "local_pdf_path": null,
       "notes": "Listed by the repository's SJC official roster; PDF binary is external and not vendored."
     },
@@ -213,7 +213,7 @@
       "url": "https://pcahistory.org/pca/sjc/cases/2006-06_Ehrlich_v_NorthGeorgia.pdf",
       "pdf_path": "pca/sjc/cases/2006-06_Ehrlich_v_NorthGeorgia.pdf",
       "status": "listed",
-      "inventory_source": "index/sjc_official/roster.jsonl",
+      "inventory_source": "data/cases/sources/sjc_official/roster.jsonl",
       "local_pdf_path": null,
       "notes": "Listed by the repository's SJC official roster; PDF binary is external and not vendored."
     },
@@ -224,7 +224,7 @@
       "url": "https://pcahistory.org/pca/sjc/cases/2006-07_Chastain_v_Heritage_appeal.pdf",
       "pdf_path": "pca/sjc/cases/2006-07_Chastain_v_Heritage_appeal.pdf",
       "status": "listed",
-      "inventory_source": "index/sjc_official/roster.jsonl",
+      "inventory_source": "data/cases/sources/sjc_official/roster.jsonl",
       "local_pdf_path": null,
       "notes": "Listed by the repository's SJC official roster; PDF binary is external and not vendored."
     },
@@ -235,7 +235,7 @@
       "url": "https://pcahistory.org/pca/sjc/cases/2007-01_Lee&Han_v_KoreanEastern.pdf",
       "pdf_path": "pca/sjc/cases/2007-01_Lee&Han_v_KoreanEastern.pdf",
       "status": "listed",
-      "inventory_source": "index/sjc_official/roster.jsonl",
+      "inventory_source": "data/cases/sources/sjc_official/roster.jsonl",
       "local_pdf_path": null,
       "notes": "Listed by the repository's SJC official roster; PDF binary is external and not vendored."
     },
@@ -246,7 +246,7 @@
       "url": "https://pcahistory.org/pca/sjc/cases/2007-02_Malone_v_MetropolitanNY.pdf",
       "pdf_path": "pca/sjc/cases/2007-02_Malone_v_MetropolitanNY.pdf",
       "status": "listed",
-      "inventory_source": "index/sjc_official/roster.jsonl",
+      "inventory_source": "data/cases/sources/sjc_official/roster.jsonl",
       "local_pdf_path": null,
       "notes": "Listed by the repository's SJC official roster; PDF binary is external and not vendored."
     },
@@ -257,7 +257,7 @@
       "url": "https://pcahistory.org/pca/sjc/cases/2007-04_Engel_v_Evangel.pdf",
       "pdf_path": "pca/sjc/cases/2007-04_Engel_v_Evangel.pdf",
       "status": "listed",
-      "inventory_source": "index/sjc_official/roster.jsonl",
+      "inventory_source": "data/cases/sources/sjc_official/roster.jsonl",
       "local_pdf_path": null,
       "notes": "Listed by the repository's SJC official roster; PDF binary is external and not vendored."
     },
@@ -268,7 +268,7 @@
       "url": "https://pcahistory.org/pca/sjc/cases/2007-08_Jones_v_Louisiana.pdf",
       "pdf_path": "pca/sjc/cases/2007-08_Jones_v_Louisiana.pdf",
       "status": "listed",
-      "inventory_source": "index/sjc_official/roster.jsonl",
+      "inventory_source": "data/cases/sources/sjc_official/roster.jsonl",
       "local_pdf_path": null,
       "notes": "Listed by the repository's SJC official roster; PDF binary is external and not vendored."
     },
@@ -279,7 +279,7 @@
       "url": "https://pcahistory.org/pca/sjc/cases/2007-09&10_Lee_v_KoreanEastern.pdf",
       "pdf_path": "pca/sjc/cases/2007-09&10_Lee_v_KoreanEastern.pdf",
       "status": "listed",
-      "inventory_source": "index/sjc_official/roster.jsonl",
+      "inventory_source": "data/cases/sources/sjc_official/roster.jsonl",
       "local_pdf_path": null,
       "notes": "Listed by the repository's SJC official roster; PDF binary is external and not vendored."
     },
@@ -290,7 +290,7 @@
       "url": "https://pcahistory.org/pca/sjc/cases/2007-11_Lee_v_KoreanEastern.pdf",
       "pdf_path": "pca/sjc/cases/2007-11_Lee_v_KoreanEastern.pdf",
       "status": "listed",
-      "inventory_source": "index/sjc_official/roster.jsonl",
+      "inventory_source": "data/cases/sources/sjc_official/roster.jsonl",
       "local_pdf_path": null,
       "notes": "Listed by the repository's SJC official roster; PDF binary is external and not vendored."
     },
@@ -301,7 +301,7 @@
       "url": "https://pcahistory.org/pca/sjc/cases/2007-12_Grady_v_SouthwestFlorida.pdf",
       "pdf_path": "pca/sjc/cases/2007-12_Grady_v_SouthwestFlorida.pdf",
       "status": "listed",
-      "inventory_source": "index/sjc_official/roster.jsonl",
+      "inventory_source": "data/cases/sources/sjc_official/roster.jsonl",
       "local_pdf_path": null,
       "notes": "Listed by the repository's SJC official roster; PDF binary is external and not vendored."
     },
@@ -312,7 +312,7 @@
       "url": "https://pcahistory.org/pca/sjc/cases/2007-13_Kniseley_v_RockyMountain.pdf",
       "pdf_path": "pca/sjc/cases/2007-13_Kniseley_v_RockyMountain.pdf",
       "status": "listed",
-      "inventory_source": "index/sjc_official/roster.jsonl",
+      "inventory_source": "data/cases/sources/sjc_official/roster.jsonl",
       "local_pdf_path": null,
       "notes": "Listed by the repository's SJC official roster; PDF binary is external and not vendored."
     },
@@ -323,7 +323,7 @@
       "url": "https://pcahistory.org/pca/sjc/cases/2007-14_PCA_v_Louisiana.pdf",
       "pdf_path": "pca/sjc/cases/2007-14_PCA_v_Louisiana.pdf",
       "status": "listed",
-      "inventory_source": "index/sjc_official/roster.jsonl",
+      "inventory_source": "data/cases/sources/sjc_official/roster.jsonl",
       "local_pdf_path": null,
       "notes": "Listed by the repository's SJC official roster; PDF binary is external and not vendored."
     },
@@ -334,7 +334,7 @@
       "url": "https://pcahistory.org/pca/sjc/cases/2007-16_Grady_v_SWFlorida.pdf",
       "pdf_path": "pca/sjc/cases/2007-16_Grady_v_SWFlorida.pdf",
       "status": "listed",
-      "inventory_source": "index/sjc_official/roster.jsonl",
+      "inventory_source": "data/cases/sources/sjc_official/roster.jsonl",
       "local_pdf_path": null,
       "notes": "Listed by the repository's SJC official roster; PDF binary is external and not vendored."
     },
@@ -345,7 +345,7 @@
       "url": "https://pcahistory.org/pca/sjc/cases/2008-01_Crossroads_v_Philadelphia.pdf",
       "pdf_path": "pca/sjc/cases/2008-01_Crossroads_v_Philadelphia.pdf",
       "status": "listed",
-      "inventory_source": "index/sjc_official/roster.jsonl",
+      "inventory_source": "data/cases/sources/sjc_official/roster.jsonl",
       "local_pdf_path": null,
       "notes": "Listed by the repository's SJC official roster; PDF binary is external and not vendored."
     },
@@ -356,7 +356,7 @@
       "url": "https://pcahistory.org/pca/sjc/cases/2008-09_RedMountain_v_Evangel.pdf",
       "pdf_path": "pca/sjc/cases/2008-09_RedMountain_v_Evangel.pdf",
       "status": "listed",
-      "inventory_source": "index/sjc_official/roster.jsonl",
+      "inventory_source": "data/cases/sources/sjc_official/roster.jsonl",
       "local_pdf_path": null,
       "notes": "Listed by the repository's SJC official roster; PDF binary is external and not vendored."
     },
@@ -367,7 +367,7 @@
       "url": "https://pcahistory.org/pca/sjc/cases/2008-11_Broadwater_v_Chesapeake.pdf",
       "pdf_path": "pca/sjc/cases/2008-11_Broadwater_v_Chesapeake.pdf",
       "status": "listed",
-      "inventory_source": "index/sjc_official/roster.jsonl",
+      "inventory_source": "data/cases/sources/sjc_official/roster.jsonl",
       "local_pdf_path": null,
       "notes": "Listed by the repository's SJC official roster; PDF binary is external and not vendored."
     },
@@ -378,7 +378,7 @@
       "url": "https://pcahistory.org/pca/sjc/cases/2008-13_Meyerhoff_v_Chesapeake.pdf",
       "pdf_path": "pca/sjc/cases/2008-13_Meyerhoff_v_Chesapeake.pdf",
       "status": "listed",
-      "inventory_source": "index/sjc_official/roster.jsonl",
+      "inventory_source": "data/cases/sources/sjc_official/roster.jsonl",
       "local_pdf_path": null,
       "notes": "Listed by the repository's SJC official roster; PDF binary is external and not vendored."
     },
@@ -389,7 +389,7 @@
       "url": "https://pcahistory.org/pca/sjc/cases/2008-14_White_v_Siouxlands.pdf",
       "pdf_path": "pca/sjc/cases/2008-14_White_v_Siouxlands.pdf",
       "status": "listed",
-      "inventory_source": "index/sjc_official/roster.jsonl",
+      "inventory_source": "data/cases/sources/sjc_official/roster.jsonl",
       "local_pdf_path": null,
       "notes": "Listed by the repository's SJC official roster; PDF binary is external and not vendored."
     },
@@ -400,7 +400,7 @@
       "url": "https://pcahistory.org/pca/sjc/cases/2008-15_and_group_MHSmith_v_WesternCarolina.pdf",
       "pdf_path": "pca/sjc/cases/2008-15_and_group_MHSmith_v_WesternCarolina.pdf",
       "status": "listed",
-      "inventory_source": "index/sjc_official/roster.jsonl",
+      "inventory_source": "data/cases/sources/sjc_official/roster.jsonl",
       "local_pdf_path": null,
       "notes": "Listed by the repository's SJC official roster; PDF binary is external and not vendored."
     },
@@ -411,7 +411,7 @@
       "url": "https://pcahistory.org/pca/sjc/cases/2009-05-08-09-10_Payne_Linton_Lyons_Woodward_v_WesternCarolina.pdf",
       "pdf_path": "pca/sjc/cases/2009-05-08-09-10_Payne_Linton_Lyons_Woodward_v_WesternCarolina.pdf",
       "status": "listed",
-      "inventory_source": "index/sjc_official/roster.jsonl",
+      "inventory_source": "data/cases/sources/sjc_official/roster.jsonl",
       "local_pdf_path": null,
       "notes": "Listed by the repository's SJC official roster; PDF binary is external and not vendored."
     },
@@ -422,7 +422,7 @@
       "url": "https://pcahistory.org/pca/sjc/cases/2009-06_Bordwine_v_PacificNW.pdf",
       "pdf_path": "pca/sjc/cases/2009-06_Bordwine_v_PacificNW.pdf",
       "status": "listed",
-      "inventory_source": "index/sjc_official/roster.jsonl",
+      "inventory_source": "data/cases/sources/sjc_official/roster.jsonl",
       "local_pdf_path": null,
       "notes": "Listed by the repository's SJC official roster; PDF binary is external and not vendored."
     },
@@ -433,7 +433,7 @@
       "url": "https://pcahistory.org/pca/sjc/cases/2009-07_Urish_v_RockyMountain.pdf",
       "pdf_path": "pca/sjc/cases/2009-07_Urish_v_RockyMountain.pdf",
       "status": "listed",
-      "inventory_source": "index/sjc_official/roster.jsonl",
+      "inventory_source": "data/cases/sources/sjc_official/roster.jsonl",
       "local_pdf_path": null,
       "notes": "Listed by the repository's SJC official roster; PDF binary is external and not vendored."
     },
@@ -444,7 +444,7 @@
       "url": "https://pcahistory.org/pca/sjc/cases/2009-11-Edison_v_SouthwestFlorida.pdf",
       "pdf_path": "pca/sjc/cases/2009-11-Edison_v_SouthwestFlorida.pdf",
       "status": "listed",
-      "inventory_source": "index/sjc_official/roster.jsonl",
+      "inventory_source": "data/cases/sources/sjc_official/roster.jsonl",
       "local_pdf_path": null,
       "notes": "Listed by the repository's SJC official roster; PDF binary is external and not vendored."
     },
@@ -455,7 +455,7 @@
       "url": "https://pcahistory.org/pca/sjc/cases/2009-28_Ruff_v_Nashville.pdf",
       "pdf_path": "pca/sjc/cases/2009-28_Ruff_v_Nashville.pdf",
       "status": "listed",
-      "inventory_source": "index/sjc_official/roster.jsonl",
+      "inventory_source": "data/cases/sources/sjc_official/roster.jsonl",
       "local_pdf_path": null,
       "notes": "Listed by the repository's SJC official roster; PDF binary is external and not vendored."
     },
@@ -466,7 +466,7 @@
       "url": "https://pcahistory.org/pca/sjc/cases/2010-04_Sartorius_v_Siouxlands.pdf",
       "pdf_path": "pca/sjc/cases/2010-04_Sartorius_v_Siouxlands.pdf",
       "status": "listed",
-      "inventory_source": "index/sjc_official/roster.jsonl",
+      "inventory_source": "data/cases/sources/sjc_official/roster.jsonl",
       "local_pdf_path": null,
       "notes": "Listed by the repository's SJC official roster; PDF binary is external and not vendored."
     },
@@ -477,7 +477,7 @@
       "url": "https://pcahistory.org/pca/sjc/cases/2010-27_Ruff_v_Nashville.pdf",
       "pdf_path": "pca/sjc/cases/2010-27_Ruff_v_Nashville.pdf",
       "status": "listed",
-      "inventory_source": "index/sjc_official/roster.jsonl",
+      "inventory_source": "data/cases/sources/sjc_official/roster.jsonl",
       "local_pdf_path": null,
       "notes": "Listed by the repository's SJC official roster; PDF binary is external and not vendored."
     },
@@ -488,7 +488,7 @@
       "url": "https://pcahistory.org/pca/sjc/cases/2011-11_Hahn_v_PhilaMetroWest.pdf",
       "pdf_path": "pca/sjc/cases/2011-11_Hahn_v_PhilaMetroWest.pdf",
       "status": "listed",
-      "inventory_source": "index/sjc_official/roster.jsonl",
+      "inventory_source": "data/cases/sources/sjc_official/roster.jsonl",
       "local_pdf_path": null,
       "notes": "Listed by the repository's SJC official roster; PDF binary is external and not vendored."
     },
@@ -499,7 +499,7 @@
       "url": "https://pcahistory.org/pca/sjc/cases/2011-14_Reese&Bech_v_Philadelphia.pdf",
       "pdf_path": "pca/sjc/cases/2011-14_Reese&Bech_v_Philadelphia.pdf",
       "status": "listed",
-      "inventory_source": "index/sjc_official/roster.jsonl",
+      "inventory_source": "data/cases/sources/sjc_official/roster.jsonl",
       "local_pdf_path": null,
       "notes": "Listed by the repository's SJC official roster; PDF binary is external and not vendored."
     },
@@ -510,7 +510,7 @@
       "url": "https://pcahistory.org/pca/sjc/cases/2011-15_Hahn_v_PhilaMetroWest.pdf",
       "pdf_path": "pca/sjc/cases/2011-15_Hahn_v_PhilaMetroWest.pdf",
       "status": "listed",
-      "inventory_source": "index/sjc_official/roster.jsonl",
+      "inventory_source": "data/cases/sources/sjc_official/roster.jsonl",
       "local_pdf_path": null,
       "notes": "Listed by the repository's SJC official roster; PDF binary is external and not vendored."
     },
@@ -521,7 +521,7 @@
       "url": "https://pcahistory.org/pca/sjc/cases/2011-18_Ruff_v_Nashville.pdf",
       "pdf_path": "pca/sjc/cases/2011-18_Ruff_v_Nashville.pdf",
       "status": "listed",
-      "inventory_source": "index/sjc_official/roster.jsonl",
+      "inventory_source": "data/cases/sources/sjc_official/roster.jsonl",
       "local_pdf_path": null,
       "notes": "Listed by the repository's SJC official roster; PDF binary is external and not vendored."
     },
@@ -532,7 +532,7 @@
       "url": "https://pcahistory.org/pca/sjc/cases/2012-03_Tarter_v_Evangel.pdf",
       "pdf_path": "pca/sjc/cases/2012-03_Tarter_v_Evangel.pdf",
       "status": "listed",
-      "inventory_source": "index/sjc_official/roster.jsonl",
+      "inventory_source": "data/cases/sources/sjc_official/roster.jsonl",
       "local_pdf_path": null,
       "notes": "Listed by the repository's SJC official roster; PDF binary is external and not vendored."
     },
@@ -543,7 +543,7 @@
       "url": "https://pcahistory.org/pca/sjc/cases/2012-05_Hedman_v_PacificNorthwest.pdf",
       "pdf_path": "pca/sjc/cases/2012-05_Hedman_v_PacificNorthwest.pdf",
       "status": "listed",
-      "inventory_source": "index/sjc_official/roster.jsonl",
+      "inventory_source": "data/cases/sources/sjc_official/roster.jsonl",
       "local_pdf_path": null,
       "notes": "Listed by the repository's SJC official roster; PDF binary is external and not vendored."
     },
@@ -554,7 +554,7 @@
       "url": "https://pcahistory.org/pca/sjc/cases/2014-01_Aven&Dively_v_OhioValley.pdf",
       "pdf_path": "pca/sjc/cases/2014-01_Aven&Dively_v_OhioValley.pdf",
       "status": "listed",
-      "inventory_source": "index/sjc_official/roster.jsonl",
+      "inventory_source": "data/cases/sources/sjc_official/roster.jsonl",
       "local_pdf_path": null,
       "notes": "Listed by the repository's SJC official roster; PDF binary is external and not vendored."
     },
@@ -565,7 +565,7 @@
       "url": "https://pcahistory.org/pca/sjc/cases/2015-01_Sanfacon_v_Philadelphia.pdf",
       "pdf_path": "pca/sjc/cases/2015-01_Sanfacon_v_Philadelphia.pdf",
       "status": "listed",
-      "inventory_source": "index/sjc_official/roster.jsonl",
+      "inventory_source": "data/cases/sources/sjc_official/roster.jsonl",
       "local_pdf_path": null,
       "notes": "Listed by the repository's SJC official roster; PDF binary is external and not vendored."
     },
@@ -576,7 +576,7 @@
       "url": "https://pcahistory.org/pca/sjc/cases/2015-02_Gearheart_v_ChicagoMetro.pdf",
       "pdf_path": "pca/sjc/cases/2015-02_Gearheart_v_ChicagoMetro.pdf",
       "status": "listed",
-      "inventory_source": "index/sjc_official/roster.jsonl",
+      "inventory_source": "data/cases/sources/sjc_official/roster.jsonl",
       "local_pdf_path": null,
       "notes": "Listed by the repository's SJC official roster; PDF binary is external and not vendored."
     },
@@ -587,7 +587,7 @@
       "url": "https://pcahistory.org/pca/sjc/cases/2015-03_Flesher&Weekly_v_MetroAtlanta.pdf",
       "pdf_path": "pca/sjc/cases/2015-03_Flesher&Weekly_v_MetroAtlanta.pdf",
       "status": "listed",
-      "inventory_source": "index/sjc_official/roster.jsonl",
+      "inventory_source": "data/cases/sources/sjc_official/roster.jsonl",
       "local_pdf_path": null,
       "notes": "Listed by the repository's SJC official roster; PDF binary is external and not vendored."
     },
@@ -598,7 +598,7 @@
       "url": "https://pcahistory.org/pca/sjc/cases/2015-04_Thompson_v_SouthFlorida.pdf",
       "pdf_path": "pca/sjc/cases/2015-04_Thompson_v_SouthFlorida.pdf",
       "status": "listed",
-      "inventory_source": "index/sjc_official/roster.jsonl",
+      "inventory_source": "data/cases/sources/sjc_official/roster.jsonl",
       "local_pdf_path": null,
       "notes": "Listed by the repository's SJC official roster; PDF binary is external and not vendored."
     },
@@ -609,7 +609,7 @@
       "url": "https://pcahistory.org/pca/sjc/cases/2015-05_Application_of_Thompson_v_SouthFlorida.pdf",
       "pdf_path": "pca/sjc/cases/2015-05_Application_of_Thompson_v_SouthFlorida.pdf",
       "status": "listed",
-      "inventory_source": "index/sjc_official/roster.jsonl",
+      "inventory_source": "data/cases/sources/sjc_official/roster.jsonl",
       "local_pdf_path": null,
       "notes": "Listed by the repository's SJC official roster; PDF binary is external and not vendored."
     },
@@ -620,7 +620,7 @@
       "url": "https://pcahistory.org/pca/sjc/cases/2015-06_PCA_v_SouthFlorida.pdf",
       "pdf_path": "pca/sjc/cases/2015-06_PCA_v_SouthFlorida.pdf",
       "status": "listed",
-      "inventory_source": "index/sjc_official/roster.jsonl",
+      "inventory_source": "data/cases/sources/sjc_official/roster.jsonl",
       "local_pdf_path": null,
       "notes": "Listed by the repository's SJC official roster; PDF binary is external and not vendored."
     },
@@ -631,7 +631,7 @@
       "url": "https://pcahistory.org/pca/sjc/cases/2015-07_Thompson_v_SouthFlorida.pdf",
       "pdf_path": "pca/sjc/cases/2015-07_Thompson_v_SouthFlorida.pdf",
       "status": "listed",
-      "inventory_source": "index/sjc_official/roster.jsonl",
+      "inventory_source": "data/cases/sources/sjc_official/roster.jsonl",
       "local_pdf_path": null,
       "notes": "Listed by the repository's SJC official roster; PDF binary is external and not vendored."
     },
@@ -642,7 +642,7 @@
       "url": "https://pcahistory.org/pca/sjc/cases/2015-08_Hardie_v_MetroAtlanta.pdf",
       "pdf_path": "pca/sjc/cases/2015-08_Hardie_v_MetroAtlanta.pdf",
       "status": "listed",
-      "inventory_source": "index/sjc_official/roster.jsonl",
+      "inventory_source": "data/cases/sources/sjc_official/roster.jsonl",
       "local_pdf_path": null,
       "notes": "Listed by the repository's SJC official roster; PDF binary is external and not vendored."
     },
@@ -653,7 +653,7 @@
       "url": "https://pcahistory.org/pca/sjc/cases/2015-09_Bumgarner_v_MSValley.pdf",
       "pdf_path": "pca/sjc/cases/2015-09_Bumgarner_v_MSValley.pdf",
       "status": "listed",
-      "inventory_source": "index/sjc_official/roster.jsonl",
+      "inventory_source": "data/cases/sources/sjc_official/roster.jsonl",
       "local_pdf_path": null,
       "notes": "Listed by the repository's SJC official roster; PDF binary is external and not vendored."
     },
@@ -664,7 +664,7 @@
       "url": "https://pcahistory.org/pca/sjc/cases/2015-10_Thompson_v_SouthFlorida.pdf",
       "pdf_path": "pca/sjc/cases/2015-10_Thompson_v_SouthFlorida.pdf",
       "status": "listed",
-      "inventory_source": "index/sjc_official/roster.jsonl",
+      "inventory_source": "data/cases/sources/sjc_official/roster.jsonl",
       "local_pdf_path": null,
       "notes": "Listed by the repository's SJC official roster; PDF binary is external and not vendored."
     },
@@ -675,7 +675,7 @@
       "url": "https://pcahistory.org/pca/sjc/cases/2015-11_Thompson_v_SouthFlorida.pdf",
       "pdf_path": "pca/sjc/cases/2015-11_Thompson_v_SouthFlorida.pdf",
       "status": "listed",
-      "inventory_source": "index/sjc_official/roster.jsonl",
+      "inventory_source": "data/cases/sources/sjc_official/roster.jsonl",
       "local_pdf_path": null,
       "notes": "Listed by the repository's SJC official roster; PDF binary is external and not vendored."
     },
@@ -686,7 +686,7 @@
       "url": "https://pcahistory.org/pca/sjc/cases/2015-12_Wills_v_MetroAtlanta.pdf",
       "pdf_path": "pca/sjc/cases/2015-12_Wills_v_MetroAtlanta.pdf",
       "status": "listed",
-      "inventory_source": "index/sjc_official/roster.jsonl",
+      "inventory_source": "data/cases/sources/sjc_official/roster.jsonl",
       "local_pdf_path": null,
       "notes": "Listed by the repository's SJC official roster; PDF binary is external and not vendored."
     },
@@ -697,7 +697,7 @@
       "url": "https://pcahistory.org/pca/sjc/cases/2015-13_Barnes_v_Heartland.pdf",
       "pdf_path": "pca/sjc/cases/2015-13_Barnes_v_Heartland.pdf",
       "status": "listed",
-      "inventory_source": "index/sjc_official/roster.jsonl",
+      "inventory_source": "data/cases/sources/sjc_official/roster.jsonl",
       "local_pdf_path": null,
       "notes": "Listed by the repository's SJC official roster; PDF binary is external and not vendored."
     },
@@ -708,7 +708,7 @@
       "url": "https://pcahistory.org/pca/sjc/cases/2016-01_Aven_v_OhioValley.pdf",
       "pdf_path": "pca/sjc/cases/2016-01_Aven_v_OhioValley.pdf",
       "status": "listed",
-      "inventory_source": "index/sjc_official/roster.jsonl",
+      "inventory_source": "data/cases/sources/sjc_official/roster.jsonl",
       "local_pdf_path": null,
       "notes": "Listed by the repository's SJC official roster; PDF binary is external and not vendored."
     },
@@ -719,7 +719,7 @@
       "url": "https://pcahistory.org/pca/sjc/cases/2016-02_Robertstad_v_NorthTexas.pdf",
       "pdf_path": "pca/sjc/cases/2016-02_Robertstad_v_NorthTexas.pdf",
       "status": "listed",
-      "inventory_source": "index/sjc_official/roster.jsonl",
+      "inventory_source": "data/cases/sources/sjc_official/roster.jsonl",
       "local_pdf_path": null,
       "notes": "Listed by the repository's SJC official roster; PDF binary is external and not vendored."
     },
@@ -730,7 +730,7 @@
       "url": "https://pcahistory.org/pca/sjc/cases/2016-05_Troxell_v_Southwest.pdf",
       "pdf_path": "pca/sjc/cases/2016-05_Troxell_v_Southwest.pdf",
       "status": "listed",
-      "inventory_source": "index/sjc_official/roster.jsonl",
+      "inventory_source": "data/cases/sources/sjc_official/roster.jsonl",
       "local_pdf_path": null,
       "notes": "Listed by the repository's SJC official roster; PDF binary is external and not vendored."
     },
@@ -741,7 +741,7 @@
       "url": "https://pcahistory.org/pca/sjc/cases/2016-07_Avery&Lewelling_v_Nashville.pdf",
       "pdf_path": "pca/sjc/cases/2016-07_Avery&Lewelling_v_Nashville.pdf",
       "status": "listed",
-      "inventory_source": "index/sjc_official/roster.jsonl",
+      "inventory_source": "data/cases/sources/sjc_official/roster.jsonl",
       "local_pdf_path": null,
       "notes": "Listed by the repository's SJC official roster; PDF binary is external and not vendored."
     },
@@ -752,7 +752,7 @@
       "url": "https://pcahistory.org/pca/sjc/cases/2016-08_Doty_v_Nashville.pdf",
       "pdf_path": "pca/sjc/cases/2016-08_Doty_v_Nashville.pdf",
       "status": "listed",
-      "inventory_source": "index/sjc_official/roster.jsonl",
+      "inventory_source": "data/cases/sources/sjc_official/roster.jsonl",
       "local_pdf_path": null,
       "notes": "Listed by the repository's SJC official roster; PDF binary is external and not vendored."
     },
@@ -763,7 +763,7 @@
       "url": "https://pcahistory.org/pca/sjc/cases/2016-09_Fordice_v_PacificNW.pdf",
       "pdf_path": "pca/sjc/cases/2016-09_Fordice_v_PacificNW.pdf",
       "status": "listed",
-      "inventory_source": "index/sjc_official/roster.jsonl",
+      "inventory_source": "data/cases/sources/sjc_official/roster.jsonl",
       "local_pdf_path": null,
       "notes": "Listed by the repository's SJC official roster; PDF binary is external and not vendored."
     },
@@ -774,7 +774,7 @@
       "url": "https://pcahistory.org/pca/sjc/cases/2016-10_In_Re_Korean_Northwest.pdf",
       "pdf_path": "pca/sjc/cases/2016-10_In_Re_Korean_Northwest.pdf",
       "status": "listed",
-      "inventory_source": "index/sjc_official/roster.jsonl",
+      "inventory_source": "data/cases/sources/sjc_official/roster.jsonl",
       "local_pdf_path": null,
       "notes": "Listed by the repository's SJC official roster; PDF binary is external and not vendored."
     },
@@ -785,7 +785,7 @@
       "url": "https://pcahistory.org/pca/sjc/cases/2016-11_Frazier_v_Nashville.pdf",
       "pdf_path": "pca/sjc/cases/2016-11_Frazier_v_Nashville.pdf",
       "status": "listed",
-      "inventory_source": "index/sjc_official/roster.jsonl",
+      "inventory_source": "data/cases/sources/sjc_official/roster.jsonl",
       "local_pdf_path": null,
       "notes": "Listed by the repository's SJC official roster; PDF binary is external and not vendored."
     },
@@ -796,7 +796,7 @@
       "url": "https://pcahistory.org/pca/sjc/cases/2016-12_Harwell_v_Nashville.pdf",
       "pdf_path": "pca/sjc/cases/2016-12_Harwell_v_Nashville.pdf",
       "status": "listed",
-      "inventory_source": "index/sjc_official/roster.jsonl",
+      "inventory_source": "data/cases/sources/sjc_official/roster.jsonl",
       "local_pdf_path": null,
       "notes": "Listed by the repository's SJC official roster; PDF binary is external and not vendored."
     },
@@ -807,7 +807,7 @@
       "url": "https://pcahistory.org/pca/sjc/cases/2016-13_Daniels_v_Nashville.pdf",
       "pdf_path": "pca/sjc/cases/2016-13_Daniels_v_Nashville.pdf",
       "status": "listed",
-      "inventory_source": "index/sjc_official/roster.jsonl",
+      "inventory_source": "data/cases/sources/sjc_official/roster.jsonl",
       "local_pdf_path": null,
       "notes": "Listed by the repository's SJC official roster; PDF binary is external and not vendored."
     },
@@ -818,7 +818,7 @@
       "url": "https://pcahistory.org/pca/sjc/cases/2016-14_Wills_v_MetroAtlanta.pdf",
       "pdf_path": "pca/sjc/cases/2016-14_Wills_v_MetroAtlanta.pdf",
       "status": "listed",
-      "inventory_source": "index/sjc_official/roster.jsonl",
+      "inventory_source": "data/cases/sources/sjc_official/roster.jsonl",
       "local_pdf_path": null,
       "notes": "Listed by the repository's SJC official roster; PDF binary is external and not vendored."
     },
@@ -829,7 +829,7 @@
       "url": "https://pcahistory.org/pca/sjc/cases/2016-15_Bachman_v_Nashville.pdf",
       "pdf_path": "pca/sjc/cases/2016-15_Bachman_v_Nashville.pdf",
       "status": "listed",
-      "inventory_source": "index/sjc_official/roster.jsonl",
+      "inventory_source": "data/cases/sources/sjc_official/roster.jsonl",
       "local_pdf_path": null,
       "notes": "Listed by the repository's SJC official roster; PDF binary is external and not vendored."
     },
@@ -840,7 +840,7 @@
       "url": "https://pcahistory.org/pca/sjc/cases/2016-16_Sartorius_v_Siouxlands.pdf",
       "pdf_path": "pca/sjc/cases/2016-16_Sartorius_v_Siouxlands.pdf",
       "status": "listed",
-      "inventory_source": "index/sjc_official/roster.jsonl",
+      "inventory_source": "data/cases/sources/sjc_official/roster.jsonl",
       "local_pdf_path": null,
       "notes": "Listed by the repository's SJC official roster; PDF binary is external and not vendored."
     },
@@ -851,7 +851,7 @@
       "url": "https://pcahistory.org/pca/sjc/cases/2016-17_Webster&Fowler_v_Heritage.pdf",
       "pdf_path": "pca/sjc/cases/2016-17_Webster&Fowler_v_Heritage.pdf",
       "status": "listed",
-      "inventory_source": "index/sjc_official/roster.jsonl",
+      "inventory_source": "data/cases/sources/sjc_official/roster.jsonl",
       "local_pdf_path": null,
       "notes": "Listed by the repository's SJC official roster; PDF binary is external and not vendored."
     },
@@ -862,7 +862,7 @@
       "url": "https://pcahistory.org/pca/sjc/cases/2017-01_Dailey_v_Heritage.pdf",
       "pdf_path": "pca/sjc/cases/2017-01_Dailey_v_Heritage.pdf",
       "status": "listed",
-      "inventory_source": "index/sjc_official/roster.jsonl",
+      "inventory_source": "data/cases/sources/sjc_official/roster.jsonl",
       "local_pdf_path": null,
       "notes": "Listed by the repository's SJC official roster; PDF binary is external and not vendored."
     },
@@ -873,7 +873,7 @@
       "url": "https://pcahistory.org/pca/sjc/cases/2017-02_Postles_v_Heritage.pdf",
       "pdf_path": "pca/sjc/cases/2017-02_Postles_v_Heritage.pdf",
       "status": "listed",
-      "inventory_source": "index/sjc_official/roster.jsonl",
+      "inventory_source": "data/cases/sources/sjc_official/roster.jsonl",
       "local_pdf_path": null,
       "notes": "Listed by the repository's SJC official roster; PDF binary is external and not vendored."
     },
@@ -884,7 +884,7 @@
       "url": "https://pcahistory.org/pca/sjc/cases/2017-06&-07_Clements_v_BlueRidge.pdf",
       "pdf_path": "pca/sjc/cases/2017-06&-07_Clements_v_BlueRidge.pdf",
       "status": "listed",
-      "inventory_source": "index/sjc_official/roster.jsonl",
+      "inventory_source": "data/cases/sources/sjc_official/roster.jsonl",
       "local_pdf_path": null,
       "notes": "Listed by the repository's SJC official roster; PDF binary is external and not vendored."
     },
@@ -895,7 +895,7 @@
       "url": "https://pcahistory.org/pca/sjc/cases/2017-10_In_Re_Korean_Eastern.pdf",
       "pdf_path": "pca/sjc/cases/2017-10_In_Re_Korean_Eastern.pdf",
       "status": "listed",
-      "inventory_source": "index/sjc_official/roster.jsonl",
+      "inventory_source": "data/cases/sources/sjc_official/roster.jsonl",
       "local_pdf_path": null,
       "notes": "Listed by the repository's SJC official roster; PDF binary is external and not vendored."
     },
@@ -906,7 +906,7 @@
       "url": "https://pcahistory.org/pca/sjc/cases/2017-11_In_Re_Korean_Southwest.pdf",
       "pdf_path": "pca/sjc/cases/2017-11_In_Re_Korean_Southwest.pdf",
       "status": "listed",
-      "inventory_source": "index/sjc_official/roster.jsonl",
+      "inventory_source": "data/cases/sources/sjc_official/roster.jsonl",
       "local_pdf_path": null,
       "notes": "Listed by the repository's SJC official roster; PDF binary is external and not vendored."
     },
@@ -917,7 +917,7 @@
       "url": "https://pcahistory.org/pca/sjc/cases/2017-12_In_Re_PlatteValley.pdf",
       "pdf_path": "pca/sjc/cases/2017-12_In_Re_PlatteValley.pdf",
       "status": "listed",
-      "inventory_source": "index/sjc_official/roster.jsonl",
+      "inventory_source": "data/cases/sources/sjc_official/roster.jsonl",
       "local_pdf_path": null,
       "notes": "Listed by the repository's SJC official roster; PDF binary is external and not vendored."
     },
@@ -928,7 +928,7 @@
       "url": "https://pcahistory.org/pca/sjc/cases/2018-01_Mapes_v_MetropolitanNY.pdf",
       "pdf_path": "pca/sjc/cases/2018-01_Mapes_v_MetropolitanNY.pdf",
       "status": "listed",
-      "inventory_source": "index/sjc_official/roster.jsonl",
+      "inventory_source": "data/cases/sources/sjc_official/roster.jsonl",
       "local_pdf_path": null,
       "notes": "Listed by the repository's SJC official roster; PDF binary is external and not vendored."
     },
@@ -939,7 +939,7 @@
       "url": "https://pcahistory.org/pca/sjc/cases/2018-02_Lewis_v_MSValley.pdf",
       "pdf_path": "pca/sjc/cases/2018-02_Lewis_v_MSValley.pdf",
       "status": "listed",
-      "inventory_source": "index/sjc_official/roster.jsonl",
+      "inventory_source": "data/cases/sources/sjc_official/roster.jsonl",
       "local_pdf_path": null,
       "notes": "Listed by the repository's SJC official roster; PDF binary is external and not vendored."
     },
@@ -950,7 +950,7 @@
       "url": "https://pcahistory.org/pca/sjc/cases/2018-03_Durand_v_CentralFlorida.pdf",
       "pdf_path": "pca/sjc/cases/2018-03_Durand_v_CentralFlorida.pdf",
       "status": "listed",
-      "inventory_source": "index/sjc_official/roster.jsonl",
+      "inventory_source": "data/cases/sources/sjc_official/roster.jsonl",
       "local_pdf_path": null,
       "notes": "Listed by the repository's SJC official roster; PDF binary is external and not vendored."
     },
@@ -961,7 +961,7 @@
       "url": "https://pcahistory.org/pca/sjc/cases/2018-04_Mapes_v_MetropolitanNY.pdf",
       "pdf_path": "pca/sjc/cases/2018-04_Mapes_v_MetropolitanNY.pdf",
       "status": "listed",
-      "inventory_source": "index/sjc_official/roster.jsonl",
+      "inventory_source": "data/cases/sources/sjc_official/roster.jsonl",
       "local_pdf_path": null,
       "notes": "Listed by the repository's SJC official roster; PDF binary is external and not vendored."
     },
@@ -972,7 +972,7 @@
       "url": "https://pcahistory.org/pca/sjc/cases/2018-05_McKay_v_Central_Indiana.pdf",
       "pdf_path": "pca/sjc/cases/2018-05_McKay_v_Central_Indiana.pdf",
       "status": "listed",
-      "inventory_source": "index/sjc_official/roster.jsonl",
+      "inventory_source": "data/cases/sources/sjc_official/roster.jsonl",
       "local_pdf_path": null,
       "notes": "Listed by the repository's SJC official roster; PDF binary is external and not vendored."
     },
@@ -983,7 +983,7 @@
       "url": "https://pcahistory.org/pca/sjc/cases/2018-06_Edwards_v_NorthTexas.pdf",
       "pdf_path": "pca/sjc/cases/2018-06_Edwards_v_NorthTexas.pdf",
       "status": "listed",
-      "inventory_source": "index/sjc_official/roster.jsonl",
+      "inventory_source": "data/cases/sources/sjc_official/roster.jsonl",
       "local_pdf_path": null,
       "notes": "Listed by the repository's SJC official roster; PDF binary is external and not vendored."
     },
@@ -994,7 +994,7 @@
       "url": "https://pcahistory.org/pca/sjc/cases/2019-01_Dodson_v_Ohio.pdf",
       "pdf_path": "pca/sjc/cases/2019-01_Dodson_v_Ohio.pdf",
       "status": "listed",
-      "inventory_source": "index/sjc_official/roster.jsonl",
+      "inventory_source": "data/cases/sources/sjc_official/roster.jsonl",
       "local_pdf_path": null,
       "notes": "Listed by the repository's SJC official roster; PDF binary is external and not vendored."
     },
@@ -1005,7 +1005,7 @@
       "url": "https://pcahistory.org/pca/sjc/cases/2019-02_Schrock_v_Philadelphia.pdf",
       "pdf_path": "pca/sjc/cases/2019-02_Schrock_v_Philadelphia.pdf",
       "status": "listed",
-      "inventory_source": "index/sjc_official/roster.jsonl",
+      "inventory_source": "data/cases/sources/sjc_official/roster.jsonl",
       "local_pdf_path": null,
       "notes": "Listed by the repository's SJC official roster; PDF binary is external and not vendored."
     },
@@ -1016,7 +1016,7 @@
       "url": "https://pcahistory.org/pca/sjc/cases/2019-03_Crouse_v_NWGeorgia.pdf",
       "pdf_path": "pca/sjc/cases/2019-03_Crouse_v_NWGeorgia.pdf",
       "status": "listed",
-      "inventory_source": "index/sjc_official/roster.jsonl",
+      "inventory_source": "data/cases/sources/sjc_official/roster.jsonl",
       "local_pdf_path": null,
       "notes": "Listed by the repository's SJC official roster; PDF binary is external and not vendored."
     },
@@ -1027,7 +1027,7 @@
       "url": "https://pcahistory.org/pca/sjc/cases/2019-04_Williams_v_Chesapeake.pdf",
       "pdf_path": "pca/sjc/cases/2019-04_Williams_v_Chesapeake.pdf",
       "status": "listed",
-      "inventory_source": "index/sjc_official/roster.jsonl",
+      "inventory_source": "data/cases/sources/sjc_official/roster.jsonl",
       "local_pdf_path": null,
       "notes": "Listed by the repository's SJC official roster; PDF binary is external and not vendored."
     },
@@ -1038,7 +1038,7 @@
       "url": "https://pcahistory.org/pca/sjc/cases/2019-05_Goggan_v_Missouri.pdf",
       "pdf_path": "pca/sjc/cases/2019-05_Goggan_v_Missouri.pdf",
       "status": "listed",
-      "inventory_source": "index/sjc_official/roster.jsonl",
+      "inventory_source": "data/cases/sources/sjc_official/roster.jsonl",
       "local_pdf_path": null,
       "notes": "Listed by the repository's SJC official roster; PDF binary is external and not vendored."
     },
@@ -1049,7 +1049,7 @@
       "url": "https://pcahistory.org/pca/sjc/cases/2019-06_PCA_v_MSValley.pdf",
       "pdf_path": "pca/sjc/cases/2019-06_PCA_v_MSValley.pdf",
       "status": "listed",
-      "inventory_source": "index/sjc_official/roster.jsonl",
+      "inventory_source": "data/cases/sources/sjc_official/roster.jsonl",
       "local_pdf_path": null,
       "notes": "Listed by the repository's SJC official roster; PDF binary is external and not vendored."
     },
@@ -1060,7 +1060,7 @@
       "url": "https://pcahistory.org/pca/sjc/cases/2019-07_Fozard_v_NorthTX.pdf",
       "pdf_path": "pca/sjc/cases/2019-07_Fozard_v_NorthTX.pdf",
       "status": "listed",
-      "inventory_source": "index/sjc_official/roster.jsonl",
+      "inventory_source": "data/cases/sources/sjc_official/roster.jsonl",
       "local_pdf_path": null,
       "notes": "Listed by the repository's SJC official roster; PDF binary is external and not vendored."
     },
@@ -1071,7 +1071,7 @@
       "url": "https://pcahistory.org/pca/sjc/cases/2019-08_Ganzel_v_CentralFL.pdf",
       "pdf_path": "pca/sjc/cases/2019-08_Ganzel_v_CentralFL.pdf",
       "status": "listed",
-      "inventory_source": "index/sjc_official/roster.jsonl",
+      "inventory_source": "data/cases/sources/sjc_official/roster.jsonl",
       "local_pdf_path": null,
       "notes": "Listed by the repository's SJC official roster; PDF binary is external and not vendored."
     },
@@ -1082,7 +1082,7 @@
       "url": "https://pcahistory.org/pca/sjc/cases/2019-09_Mueller_v_SouthFL.pdf",
       "pdf_path": "pca/sjc/cases/2019-09_Mueller_v_SouthFL.pdf",
       "status": "listed",
-      "inventory_source": "index/sjc_official/roster.jsonl",
+      "inventory_source": "data/cases/sources/sjc_official/roster.jsonl",
       "local_pdf_path": null,
       "notes": "Listed by the repository's SJC official roster; PDF binary is external and not vendored."
     },
@@ -1093,7 +1093,7 @@
       "url": "https://pcahistory.org/pca/sjc/cases/2019-10_Evans_v_Arizona.pdf",
       "pdf_path": "pca/sjc/cases/2019-10_Evans_v_Arizona.pdf",
       "status": "listed",
-      "inventory_source": "index/sjc_official/roster.jsonl",
+      "inventory_source": "data/cases/sources/sjc_official/roster.jsonl",
       "local_pdf_path": null,
       "notes": "Listed by the repository's SJC official roster; PDF binary is external and not vendored."
     },
@@ -1104,7 +1104,7 @@
       "url": "https://pcahistory.org/pca/sjc/cases/2019-11_Crouse_v_NWGeorgia.pdf",
       "pdf_path": "pca/sjc/cases/2019-11_Crouse_v_NWGeorgia.pdf",
       "status": "listed",
-      "inventory_source": "index/sjc_official/roster.jsonl",
+      "inventory_source": "data/cases/sources/sjc_official/roster.jsonl",
       "local_pdf_path": null,
       "notes": "Listed by the repository's SJC official roster; PDF binary is external and not vendored."
     },
@@ -1115,7 +1115,7 @@
       "url": "https://pcahistory.org/pca/sjc/cases/2019-13_Gendy_v_CentralFL.pdf",
       "pdf_path": "pca/sjc/cases/2019-13_Gendy_v_CentralFL.pdf",
       "status": "listed",
-      "inventory_source": "index/sjc_official/roster.jsonl",
+      "inventory_source": "data/cases/sources/sjc_official/roster.jsonl",
       "local_pdf_path": null,
       "notes": "Listed by the repository's SJC official roster; PDF binary is external and not vendored."
     },
@@ -1126,7 +1126,7 @@
       "url": "https://pcahistory.org/pca/sjc/cases/2019-14_Yoo_v_KoreanSWOrange.pdf",
       "pdf_path": "pca/sjc/cases/2019-14_Yoo_v_KoreanSWOrange.pdf",
       "status": "listed",
-      "inventory_source": "index/sjc_official/roster.jsonl",
+      "inventory_source": "data/cases/sources/sjc_official/roster.jsonl",
       "local_pdf_path": null,
       "notes": "Listed by the repository's SJC official roster; PDF binary is external and not vendored."
     },
@@ -1137,7 +1137,7 @@
       "url": "https://pcahistory.org/pca/sjc/cases/2020-02_Original_Jurisdiction.pdf",
       "pdf_path": "pca/sjc/cases/2020-02_Original_Jurisdiction.pdf",
       "status": "listed",
-      "inventory_source": "index/sjc_official/roster.jsonl",
+      "inventory_source": "data/cases/sources/sjc_official/roster.jsonl",
       "local_pdf_path": null,
       "notes": "Listed by the repository's SJC official roster; PDF binary is external and not vendored."
     },
@@ -1148,7 +1148,7 @@
       "url": "https://pcahistory.org/pca/sjc/cases/2020-04_Marusich_v_Central_Indiana.pdf",
       "pdf_path": "pca/sjc/cases/2020-04_Marusich_v_Central_Indiana.pdf",
       "status": "listed",
-      "inventory_source": "index/sjc_official/roster.jsonl",
+      "inventory_source": "data/cases/sources/sjc_official/roster.jsonl",
       "local_pdf_path": null,
       "notes": "Listed by the repository's SJC official roster; PDF binary is external and not vendored."
     },
@@ -1159,7 +1159,7 @@
       "url": "https://pcahistory.org/pca/sjc/cases/2020-05_Speck_v_Missouri.pdf",
       "pdf_path": "pca/sjc/cases/2020-05_Speck_v_Missouri.pdf",
       "status": "listed",
-      "inventory_source": "index/sjc_official/roster.jsonl",
+      "inventory_source": "data/cases/sources/sjc_official/roster.jsonl",
       "local_pdf_path": null,
       "notes": "Listed by the repository's SJC official roster; PDF binary is external and not vendored."
     },
@@ -1170,7 +1170,7 @@
       "url": "https://pcahistory.org/pca/sjc/cases/2020-06_Gordon_v_SNEP.pdf",
       "pdf_path": "pca/sjc/cases/2020-06_Gordon_v_SNEP.pdf",
       "status": "listed",
-      "inventory_source": "index/sjc_official/roster.jsonl",
+      "inventory_source": "data/cases/sources/sjc_official/roster.jsonl",
       "local_pdf_path": null,
       "notes": "Listed by the repository's SJC official roster; PDF binary is external and not vendored."
     },
@@ -1181,7 +1181,7 @@
       "url": "https://pcahistory.org/pca/sjc/cases/2020-07_Wilbourne_v_Pacific.pdf",
       "pdf_path": "pca/sjc/cases/2020-07_Wilbourne_v_Pacific.pdf",
       "status": "listed",
-      "inventory_source": "index/sjc_official/roster.jsonl",
+      "inventory_source": "data/cases/sources/sjc_official/roster.jsonl",
       "local_pdf_path": null,
       "notes": "Listed by the repository's SJC official roster; PDF binary is external and not vendored."
     },
@@ -1192,7 +1192,7 @@
       "url": "https://pcahistory.org/pca/sjc/cases/2020-10_Eagle_v_SavannahRiver.pdf",
       "pdf_path": "pca/sjc/cases/2020-10_Eagle_v_SavannahRiver.pdf",
       "status": "listed",
-      "inventory_source": "index/sjc_official/roster.jsonl",
+      "inventory_source": "data/cases/sources/sjc_official/roster.jsonl",
       "local_pdf_path": null,
       "notes": "Listed by the repository's SJC official roster; PDF binary is external and not vendored."
     },
@@ -1203,7 +1203,7 @@
       "url": "https://pcahistory.org/pca/sjc/cases/2020-11_McWilliams_v_SouthwestFL.pdf",
       "pdf_path": "pca/sjc/cases/2020-11_McWilliams_v_SouthwestFL.pdf",
       "status": "listed",
-      "inventory_source": "index/sjc_official/roster.jsonl",
+      "inventory_source": "data/cases/sources/sjc_official/roster.jsonl",
       "local_pdf_path": null,
       "notes": "Listed by the repository's SJC official roster; PDF binary is external and not vendored."
     },
@@ -1214,7 +1214,7 @@
       "url": "https://pcahistory.org/pca/sjc/cases/2020-12_Speck_v_Missouri.pdf",
       "pdf_path": "pca/sjc/cases/2020-12_Speck_v_Missouri.pdf",
       "status": "listed",
-      "inventory_source": "index/sjc_official/roster.jsonl",
+      "inventory_source": "data/cases/sources/sjc_official/roster.jsonl",
       "local_pdf_path": null,
       "notes": "Listed by the repository's SJC official roster; PDF binary is external and not vendored."
     },
@@ -1225,7 +1225,7 @@
       "url": "https://pcahistory.org/pca/sjc/cases/2020-13_Benyola_v_CentralFL.pdf",
       "pdf_path": "pca/sjc/cases/2020-13_Benyola_v_CentralFL.pdf",
       "status": "listed",
-      "inventory_source": "index/sjc_official/roster.jsonl",
+      "inventory_source": "data/cases/sources/sjc_official/roster.jsonl",
       "local_pdf_path": null,
       "notes": "Listed by the repository's SJC official roster; PDF binary is external and not vendored."
     },
@@ -1236,7 +1236,7 @@
       "url": "https://pcahistory.org/pca/sjc/cases/2021-01_Michelson_v_NWGeorgia.pdf",
       "pdf_path": "pca/sjc/cases/2021-01_Michelson_v_NWGeorgia.pdf",
       "status": "listed",
-      "inventory_source": "index/sjc_official/roster.jsonl",
+      "inventory_source": "data/cases/sources/sjc_official/roster.jsonl",
       "local_pdf_path": null,
       "notes": "Listed by the repository's SJC official roster; PDF binary is external and not vendored."
     },
@@ -1247,7 +1247,7 @@
       "url": "https://pcahistory.org/pca/sjc/cases/2021-02_Tippins_v_NWGeorgia.pdf",
       "pdf_path": "pca/sjc/cases/2021-02_Tippins_v_NWGeorgia.pdf",
       "status": "listed",
-      "inventory_source": "index/sjc_official/roster.jsonl",
+      "inventory_source": "data/cases/sources/sjc_official/roster.jsonl",
       "local_pdf_path": null,
       "notes": "Listed by the repository's SJC official roster; PDF binary is external and not vendored."
     },
@@ -1258,7 +1258,7 @@
       "url": "https://pcahistory.org/pca/sjc/cases/2021-03_DeJong_v_V7PC_Session.pdf",
       "pdf_path": "pca/sjc/cases/2021-03_DeJong_v_V7PC_Session.pdf",
       "status": "listed",
-      "inventory_source": "index/sjc_official/roster.jsonl",
+      "inventory_source": "data/cases/sources/sjc_official/roster.jsonl",
       "local_pdf_path": null,
       "notes": "Listed by the repository's SJC official roster; PDF binary is external and not vendored."
     },
@@ -1269,7 +1269,7 @@
       "url": "https://pcahistory.org/pca/sjc/cases/2021-05_Eudaly_v_SWFlorida.pdf",
       "pdf_path": "pca/sjc/cases/2021-05_Eudaly_v_SWFlorida.pdf",
       "status": "listed",
-      "inventory_source": "index/sjc_official/roster.jsonl",
+      "inventory_source": "data/cases/sources/sjc_official/roster.jsonl",
       "local_pdf_path": null,
       "notes": "Listed by the repository's SJC official roster; PDF binary is external and not vendored."
     },
@@ -1280,7 +1280,7 @@
       "url": "https://pcahistory.org/pca/sjc/cases/2021-06_Herron_v_CIP.pdf",
       "pdf_path": "pca/sjc/cases/2021-06_Herron_v_CIP.pdf",
       "status": "listed",
-      "inventory_source": "index/sjc_official/roster.jsonl",
+      "inventory_source": "data/cases/sources/sjc_official/roster.jsonl",
       "local_pdf_path": null,
       "notes": "Listed by the repository's SJC official roster; PDF binary is external and not vendored."
     },
@@ -1291,7 +1291,7 @@
       "url": "https://pcahistory.org/pca/sjc/cases/2021-07_Acree_v_TNValley.pdf",
       "pdf_path": "pca/sjc/cases/2021-07_Acree_v_TNValley.pdf",
       "status": "listed",
-      "inventory_source": "index/sjc_official/roster.jsonl",
+      "inventory_source": "data/cases/sources/sjc_official/roster.jsonl",
       "local_pdf_path": null,
       "notes": "Listed by the repository's SJC official roster; PDF binary is external and not vendored."
     },
@@ -1302,7 +1302,7 @@
       "url": "https://pcahistory.org/pca/sjc/cases/2021-08_Citation_Korean_SWOrange.pdf",
       "pdf_path": "pca/sjc/cases/2021-08_Citation_Korean_SWOrange.pdf",
       "status": "listed",
-      "inventory_source": "index/sjc_official/roster.jsonl",
+      "inventory_source": "data/cases/sources/sjc_official/roster.jsonl",
       "local_pdf_path": null,
       "notes": "Listed by the repository's SJC official roster; PDF binary is external and not vendored."
     },
@@ -1313,7 +1313,7 @@
       "url": "https://pcahistory.org/pca/sjc/cases/2021-11_Park_v_KCP.pdf",
       "pdf_path": "pca/sjc/cases/2021-11_Park_v_KCP.pdf",
       "status": "listed",
-      "inventory_source": "index/sjc_official/roster.jsonl",
+      "inventory_source": "data/cases/sources/sjc_official/roster.jsonl",
       "local_pdf_path": null,
       "notes": "Listed by the repository's SJC official roster; PDF binary is external and not vendored."
     },
@@ -1324,7 +1324,7 @@
       "url": "https://pcahistory.org/pca/sjc/cases/2021-12_Michelson_v_NWGeorgia.pdf",
       "pdf_path": "pca/sjc/cases/2021-12_Michelson_v_NWGeorgia.pdf",
       "status": "listed",
-      "inventory_source": "index/sjc_official/roster.jsonl",
+      "inventory_source": "data/cases/sources/sjc_official/roster.jsonl",
       "local_pdf_path": null,
       "notes": "Listed by the repository's SJC official roster; PDF binary is external and not vendored."
     },
@@ -1335,7 +1335,7 @@
       "url": "https://pcahistory.org/pca/sjc/cases/2021-13_Dudt_v_NWGA.pdf",
       "pdf_path": "pca/sjc/cases/2021-13_Dudt_v_NWGA.pdf",
       "status": "listed",
-      "inventory_source": "index/sjc_official/roster.jsonl",
+      "inventory_source": "data/cases/sources/sjc_official/roster.jsonl",
       "local_pdf_path": null,
       "notes": "Listed by the repository's SJC official roster; PDF binary is external and not vendored."
     },
@@ -1346,7 +1346,7 @@
       "url": "https://pcahistory.org/pca/sjc/cases/2021-14_Herron_v_CIP_complaint.pdf",
       "pdf_path": "pca/sjc/cases/2021-14_Herron_v_CIP_complaint.pdf",
       "status": "listed",
-      "inventory_source": "index/sjc_official/roster.jsonl",
+      "inventory_source": "data/cases/sources/sjc_official/roster.jsonl",
       "local_pdf_path": null,
       "notes": "Listed by the repository's SJC official roster; PDF binary is external and not vendored."
     },
@@ -1357,7 +1357,7 @@
       "url": "https://pcahistory.org/pca/sjc/cases/2021-15_Barber_v_CIP_complaint.pdf",
       "pdf_path": "pca/sjc/cases/2021-15_Barber_v_CIP_complaint.pdf",
       "status": "listed",
-      "inventory_source": "index/sjc_official/roster.jsonl",
+      "inventory_source": "data/cases/sources/sjc_official/roster.jsonl",
       "local_pdf_path": null,
       "notes": "Listed by the repository's SJC official roster; PDF binary is external and not vendored."
     },
@@ -1368,7 +1368,7 @@
       "url": "https://pcahistory.org/pca/sjc/cases/2022-01_Eagle_v_SavannahRiver.pdf",
       "pdf_path": "pca/sjc/cases/2022-01_Eagle_v_SavannahRiver.pdf",
       "status": "listed",
-      "inventory_source": "index/sjc_official/roster.jsonl",
+      "inventory_source": "data/cases/sources/sjc_official/roster.jsonl",
       "local_pdf_path": null,
       "notes": "Listed by the repository's SJC official roster; PDF binary is external and not vendored."
     },
@@ -1379,7 +1379,7 @@
       "url": "https://pcahistory.org/pca/sjc/cases/2022-02_Herron&Baysinger_v_CIP.pdf",
       "pdf_path": "pca/sjc/cases/2022-02_Herron&Baysinger_v_CIP.pdf",
       "status": "listed",
-      "inventory_source": "index/sjc_official/roster.jsonl",
+      "inventory_source": "data/cases/sources/sjc_official/roster.jsonl",
       "local_pdf_path": null,
       "notes": "Listed by the repository's SJC official roster; PDF binary is external and not vendored."
     },
@@ -1390,7 +1390,7 @@
       "url": "https://pcahistory.org/pca/sjc/cases/2022-03_Klett_v_Philadelphia.pdf",
       "pdf_path": "pca/sjc/cases/2022-03_Klett_v_Philadelphia.pdf",
       "status": "listed",
-      "inventory_source": "index/sjc_official/roster.jsonl",
+      "inventory_source": "data/cases/sources/sjc_official/roster.jsonl",
       "local_pdf_path": null,
       "notes": "Listed by the repository's SJC official roster; PDF binary is external and not vendored."
     },
@@ -1401,7 +1401,7 @@
       "url": "https://pcahistory.org/pca/sjc/cases/2022-04_Sheppard_v_Highlands.pdf",
       "pdf_path": "pca/sjc/cases/2022-04_Sheppard_v_Highlands.pdf",
       "status": "listed",
-      "inventory_source": "index/sjc_official/roster.jsonl",
+      "inventory_source": "data/cases/sources/sjc_official/roster.jsonl",
       "local_pdf_path": null,
       "notes": "Listed by the repository's SJC official roster; PDF binary is external and not vendored."
     },
@@ -1412,7 +1412,7 @@
       "url": "https://pcahistory.org/pca/sjc/cases/2022-05_Crouse_v_NWGeorgia.pdf",
       "pdf_path": "pca/sjc/cases/2022-05_Crouse_v_NWGeorgia.pdf",
       "status": "listed",
-      "inventory_source": "index/sjc_official/roster.jsonl",
+      "inventory_source": "data/cases/sources/sjc_official/roster.jsonl",
       "local_pdf_path": null,
       "notes": "Listed by the repository's SJC official roster; PDF binary is external and not vendored."
     },
@@ -1423,7 +1423,7 @@
       "url": "https://pcahistory.org/pca/sjc/cases/2022-06_Biese_v_TNValley.pdf",
       "pdf_path": "pca/sjc/cases/2022-06_Biese_v_TNValley.pdf",
       "status": "listed",
-      "inventory_source": "index/sjc_official/roster.jsonl",
+      "inventory_source": "data/cases/sources/sjc_official/roster.jsonl",
       "local_pdf_path": null,
       "notes": "Listed by the repository's SJC official roster; PDF binary is external and not vendored."
     },
@@ -1434,7 +1434,7 @@
       "url": "https://pcahistory.org/pca/sjc/cases/2022-07_Harrell_v_Covenant.pdf",
       "pdf_path": "pca/sjc/cases/2022-07_Harrell_v_Covenant.pdf",
       "status": "listed",
-      "inventory_source": "index/sjc_official/roster.jsonl",
+      "inventory_source": "data/cases/sources/sjc_official/roster.jsonl",
       "local_pdf_path": null,
       "notes": "Listed by the repository's SJC official roster; PDF binary is external and not vendored."
     },
@@ -1445,7 +1445,7 @@
       "url": "https://pcahistory.org/pca/sjc/cases/2022-08_Snoke_v_Pittsburgh.pdf",
       "pdf_path": "pca/sjc/cases/2022-08_Snoke_v_Pittsburgh.pdf",
       "status": "listed",
-      "inventory_source": "index/sjc_official/roster.jsonl",
+      "inventory_source": "data/cases/sources/sjc_official/roster.jsonl",
       "local_pdf_path": null,
       "notes": "Listed by the repository's SJC official roster; PDF binary is external and not vendored."
     },
@@ -1456,7 +1456,7 @@
       "url": "https://pcahistory.org/pca/sjc/cases/2022-09_Benyola_v_Central_Florida.pdf",
       "pdf_path": "pca/sjc/cases/2022-09_Benyola_v_Central_Florida.pdf",
       "status": "listed",
-      "inventory_source": "index/sjc_official/roster.jsonl",
+      "inventory_source": "data/cases/sources/sjc_official/roster.jsonl",
       "local_pdf_path": null,
       "notes": "Listed by the repository's SJC official roster; PDF binary is external and not vendored."
     },
@@ -1467,7 +1467,7 @@
       "url": "https://pcahistory.org/pca/sjc/cases/2022-10_PCA_v_Herron.pdf",
       "pdf_path": "pca/sjc/cases/2022-10_PCA_v_Herron.pdf",
       "status": "listed",
-      "inventory_source": "index/sjc_official/roster.jsonl",
+      "inventory_source": "data/cases/sources/sjc_official/roster.jsonl",
       "local_pdf_path": null,
       "notes": "Listed by the repository's SJC official roster; PDF binary is external and not vendored."
     },
@@ -1478,7 +1478,7 @@
       "url": "https://pcahistory.org/pca/sjc/cases/2022-11_Petitions_re_Central_Indiana.pdf",
       "pdf_path": "pca/sjc/cases/2022-11_Petitions_re_Central_Indiana.pdf",
       "status": "listed",
-      "inventory_source": "index/sjc_official/roster.jsonl",
+      "inventory_source": "data/cases/sources/sjc_official/roster.jsonl",
       "local_pdf_path": null,
       "notes": "Listed by the repository's SJC official roster; PDF binary is external and not vendored."
     },
@@ -1489,7 +1489,7 @@
       "url": "https://pcahistory.org/pca/sjc/cases/2022-12_Petitions_re_Missouri_Presbytery.pdf",
       "pdf_path": "pca/sjc/cases/2022-12_Petitions_re_Missouri_Presbytery.pdf",
       "status": "listed",
-      "inventory_source": "index/sjc_official/roster.jsonl",
+      "inventory_source": "data/cases/sources/sjc_official/roster.jsonl",
       "local_pdf_path": null,
       "notes": "Listed by the repository's SJC official roster; PDF binary is external and not vendored."
     },
@@ -1500,7 +1500,7 @@
       "url": "https://pcahistory.org/pca/sjc/cases/2022-13_Miller_v_Hills&Plains.pdf",
       "pdf_path": "pca/sjc/cases/2022-13_Miller_v_Hills&Plains.pdf",
       "status": "listed",
-      "inventory_source": "index/sjc_official/roster.jsonl",
+      "inventory_source": "data/cases/sources/sjc_official/roster.jsonl",
       "local_pdf_path": null,
       "notes": "Listed by the repository's SJC official roster; PDF binary is external and not vendored."
     },
@@ -1511,7 +1511,7 @@
       "url": "https://pcahistory.org/pca/sjc/cases/2022-14_Oh_v_KoreanSE.pdf",
       "pdf_path": "pca/sjc/cases/2022-14_Oh_v_KoreanSE.pdf",
       "status": "listed",
-      "inventory_source": "index/sjc_official/roster.jsonl",
+      "inventory_source": "data/cases/sources/sjc_official/roster.jsonl",
       "local_pdf_path": null,
       "notes": "Listed by the repository's SJC official roster; PDF binary is external and not vendored."
     },
@@ -1522,7 +1522,7 @@
       "url": "https://pcahistory.org/pca/sjc/cases/2022-15_Murdock_v_South_Florida.pdf",
       "pdf_path": "pca/sjc/cases/2022-15_Murdock_v_South_Florida.pdf",
       "status": "listed",
-      "inventory_source": "index/sjc_official/roster.jsonl",
+      "inventory_source": "data/cases/sources/sjc_official/roster.jsonl",
       "local_pdf_path": null,
       "notes": "Listed by the repository's SJC official roster; PDF binary is external and not vendored."
     },
@@ -1533,7 +1533,7 @@
       "url": "https://pcahistory.org/pca/sjc/cases/2022-16_Michelson_v_NWGeorgia.pdf",
       "pdf_path": "pca/sjc/cases/2022-16_Michelson_v_NWGeorgia.pdf",
       "status": "listed",
-      "inventory_source": "index/sjc_official/roster.jsonl",
+      "inventory_source": "data/cases/sources/sjc_official/roster.jsonl",
       "local_pdf_path": null,
       "notes": "Listed by the repository's SJC official roster; PDF binary is external and not vendored."
     },
@@ -1544,7 +1544,7 @@
       "url": "https://pcahistory.org/pca/sjc/cases/2022-17_Benyola_v_Central_Florida.pdf",
       "pdf_path": "pca/sjc/cases/2022-17_Benyola_v_Central_Florida.pdf",
       "status": "listed",
-      "inventory_source": "index/sjc_official/roster.jsonl",
+      "inventory_source": "data/cases/sources/sjc_official/roster.jsonl",
       "local_pdf_path": null,
       "notes": "Listed by the repository's SJC official roster; PDF binary is external and not vendored."
     },
@@ -1555,7 +1555,7 @@
       "url": "https://pcahistory.org/pca/sjc/cases/2022-20_Wilson_v_PacificNW.pdf",
       "pdf_path": "pca/sjc/cases/2022-20_Wilson_v_PacificNW.pdf",
       "status": "listed",
-      "inventory_source": "index/sjc_official/roster.jsonl",
+      "inventory_source": "data/cases/sources/sjc_official/roster.jsonl",
       "local_pdf_path": null,
       "notes": "Listed by the repository's SJC official roster; PDF binary is external and not vendored."
     },
@@ -1566,7 +1566,7 @@
       "url": "https://pcahistory.org/pca/sjc/cases/2022-21_Senters_v_Savannah_River.pdf",
       "pdf_path": "pca/sjc/cases/2022-21_Senters_v_Savannah_River.pdf",
       "status": "listed",
-      "inventory_source": "index/sjc_official/roster.jsonl",
+      "inventory_source": "data/cases/sources/sjc_official/roster.jsonl",
       "local_pdf_path": null,
       "notes": "Listed by the repository's SJC official roster; PDF binary is external and not vendored."
     },
@@ -1577,7 +1577,7 @@
       "url": "https://pcahistory.org/pca/sjc/cases/2022-22_Turner_v_SouthFL.pdf",
       "pdf_path": "pca/sjc/cases/2022-22_Turner_v_SouthFL.pdf",
       "status": "listed",
-      "inventory_source": "index/sjc_official/roster.jsonl",
+      "inventory_source": "data/cases/sources/sjc_official/roster.jsonl",
       "local_pdf_path": null,
       "notes": "Listed by the repository's SJC official roster; PDF binary is external and not vendored."
     },
@@ -1588,7 +1588,7 @@
       "url": "https://pcahistory.org/pca/sjc/cases/2022-23_Woodham_v_SouthFL.pdf",
       "pdf_path": "pca/sjc/cases/2022-23_Woodham_v_SouthFL.pdf",
       "status": "listed",
-      "inventory_source": "index/sjc_official/roster.jsonl",
+      "inventory_source": "data/cases/sources/sjc_official/roster.jsonl",
       "local_pdf_path": null,
       "notes": "Listed by the repository's SJC official roster; PDF binary is external and not vendored."
     },
@@ -1599,7 +1599,7 @@
       "url": "https://pcahistory.org/pca/sjc/cases/2023-02_Reynolds_v_PeeDee.pdf",
       "pdf_path": "pca/sjc/cases/2023-02_Reynolds_v_PeeDee.pdf",
       "status": "listed",
-      "inventory_source": "index/sjc_official/roster.jsonl",
+      "inventory_source": "data/cases/sources/sjc_official/roster.jsonl",
       "local_pdf_path": null,
       "notes": "Listed by the repository's SJC official roster; PDF binary is external and not vendored."
     },
@@ -1610,7 +1610,7 @@
       "url": "https://pcahistory.org/pca/sjc/cases/2023-04_Biese_v_TNValley.pdf",
       "pdf_path": "pca/sjc/cases/2023-04_Biese_v_TNValley.pdf",
       "status": "listed",
-      "inventory_source": "index/sjc_official/roster.jsonl",
+      "inventory_source": "data/cases/sources/sjc_official/roster.jsonl",
       "local_pdf_path": null,
       "notes": "Listed by the repository's SJC official roster; PDF binary is external and not vendored."
     },
@@ -1621,7 +1621,7 @@
       "url": "https://pcahistory.org/pca/sjc/cases/2023-06_Baird_v_Grace.pdf",
       "pdf_path": "pca/sjc/cases/2023-06_Baird_v_Grace.pdf",
       "status": "listed",
-      "inventory_source": "index/sjc_official/roster.jsonl",
+      "inventory_source": "data/cases/sources/sjc_official/roster.jsonl",
       "local_pdf_path": null,
       "notes": "Listed by the repository's SJC official roster; PDF binary is external and not vendored."
     },
@@ -1632,7 +1632,7 @@
       "url": "https://pcahistory.org/pca/sjc/cases/2023-07_Evans_v_Arizona.pdf",
       "pdf_path": "pca/sjc/cases/2023-07_Evans_v_Arizona.pdf",
       "status": "listed",
-      "inventory_source": "index/sjc_official/roster.jsonl",
+      "inventory_source": "data/cases/sources/sjc_official/roster.jsonl",
       "local_pdf_path": null,
       "notes": "Listed by the repository's SJC official roster; PDF binary is external and not vendored."
     },
@@ -1643,7 +1643,7 @@
       "url": "https://pcahistory.org/pca/sjc/cases/2023-09_Myers_v_Illiana.pdf",
       "pdf_path": "pca/sjc/cases/2023-09_Myers_v_Illiana.pdf",
       "status": "listed",
-      "inventory_source": "index/sjc_official/roster.jsonl",
+      "inventory_source": "data/cases/sources/sjc_official/roster.jsonl",
       "local_pdf_path": null,
       "notes": "Listed by the repository's SJC official roster; PDF binary is external and not vendored."
     },
@@ -1654,7 +1654,7 @@
       "url": "https://pcahistory.org/pca/sjc/cases/2023-10_Martinez&Cook_v_Pacific.pdf",
       "pdf_path": "pca/sjc/cases/2023-10_Martinez&Cook_v_Pacific.pdf",
       "status": "listed",
-      "inventory_source": "index/sjc_official/roster.jsonl",
+      "inventory_source": "data/cases/sources/sjc_official/roster.jsonl",
       "local_pdf_path": null,
       "notes": "Listed by the repository's SJC official roster; PDF binary is external and not vendored."
     },
@@ -1665,7 +1665,7 @@
       "url": "https://pcahistory.org/pca/sjc/cases/2023-11_Psiaki_v_PacificNW.pdf",
       "pdf_path": "pca/sjc/cases/2023-11_Psiaki_v_PacificNW.pdf",
       "status": "listed",
-      "inventory_source": "index/sjc_official/roster.jsonl",
+      "inventory_source": "data/cases/sources/sjc_official/roster.jsonl",
       "local_pdf_path": null,
       "notes": "Listed by the repository's SJC official roster; PDF binary is external and not vendored."
     },
@@ -1676,7 +1676,7 @@
       "url": "https://pcahistory.org/pca/sjc/cases/2023-13_BCO40-5_MetroNY.pdf",
       "pdf_path": "pca/sjc/cases/2023-13_BCO40-5_MetroNY.pdf",
       "status": "listed",
-      "inventory_source": "index/sjc_official/roster.jsonl",
+      "inventory_source": "data/cases/sources/sjc_official/roster.jsonl",
       "local_pdf_path": null,
       "notes": "Listed by the repository's SJC official roster; PDF binary is external and not vendored."
     },
@@ -1687,7 +1687,7 @@
       "url": "https://pcahistory.org/pca/sjc/cases/2023-14_BCO40-5_NWGeorgia.pdf",
       "pdf_path": "pca/sjc/cases/2023-14_BCO40-5_NWGeorgia.pdf",
       "status": "listed",
-      "inventory_source": "index/sjc_official/roster.jsonl",
+      "inventory_source": "data/cases/sources/sjc_official/roster.jsonl",
       "local_pdf_path": null,
       "notes": "Listed by the repository's SJC official roster; PDF binary is external and not vendored."
     },
@@ -1698,7 +1698,7 @@
       "url": "https://pcahistory.org/pca/sjc/cases/2023-15_Turner_v_SouthFL.pdf",
       "pdf_path": "pca/sjc/cases/2023-15_Turner_v_SouthFL.pdf",
       "status": "listed",
-      "inventory_source": "index/sjc_official/roster.jsonl",
+      "inventory_source": "data/cases/sources/sjc_official/roster.jsonl",
       "local_pdf_path": null,
       "notes": "Listed by the repository's SJC official roster; PDF binary is external and not vendored."
     },
@@ -1709,7 +1709,7 @@
       "url": "https://pcahistory.org/pca/sjc/cases/2023-19_Huffman_v_TNValley.pdf",
       "pdf_path": "pca/sjc/cases/2023-19_Huffman_v_TNValley.pdf",
       "status": "listed",
-      "inventory_source": "index/sjc_official/roster.jsonl",
+      "inventory_source": "data/cases/sources/sjc_official/roster.jsonl",
       "local_pdf_path": null,
       "notes": "Listed by the repository's SJC official roster; PDF binary is external and not vendored."
     },
@@ -1720,7 +1720,7 @@
       "url": "https://pcahistory.org/pca/sjc/cases/2025-12, -13_Assis_and_Brown_v_SFL_final.pdf",
       "pdf_path": "pca/sjc/cases/2025-12, -13_Assis_and_Brown_v_SFL_final.pdf",
       "status": "listed",
-      "inventory_source": "index/sjc_official/roster.jsonl",
+      "inventory_source": "data/cases/sources/sjc_official/roster.jsonl",
       "local_pdf_path": null,
       "notes": "Listed by the repository's SJC official roster; PDF binary is external and not vendored."
     },

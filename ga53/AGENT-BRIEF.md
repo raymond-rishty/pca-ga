@@ -14,7 +14,7 @@ overture, find **past actions that bear on it** and write a findings file.
 | File | What | How to search |
 |---|---|---|
 | `index/CASES.md` | 647 SJC/CJB cases, by Assembly: number, parties, disposition, link | grep by topic/party |
-| `index/cases.jsonl` | per-case JSON incl. `bco_cited_as_s` (provisions a case construed) | grep provision here to find cases by BCO section |
+| `data/cases/records/cases.jsonl` | per-case JSON incl. `bco_cited_as_s` (provisions a case construed) | grep provision here to find cases by BCO section |
 | `cases/*.md` | full verbatim case text | read when a case looks relevant |
 | `index/INQUIRIES.md` | CCB/CJB constitutional inquiries; **Provisions** column | grep by provision token & topic |
 | `index/CCB-OVERTURE-ADVICE.md` | CCB advice on proposed overtures/amendments; **Provisions** column | grep by provision token & topic |

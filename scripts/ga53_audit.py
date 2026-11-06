@@ -46,7 +46,7 @@ def load_case_universe():
         for k in [num] + info.get("numbers", []):
             norm2file[norm_case(k)] = info["file"]
             known.add(norm_case(k))
-    for l in open(os.path.join(IDX, "cases.jsonl")):
+    for l in open(os.path.join(ROOT, "data", "cases", "records", "cases.jsonl")):
         for m in CASENUM.findall(l):           # scan the whole record (number, title, parties, body)
             known.add(norm_case(m))
     cm = os.path.join(IDX, "CASES.md")
