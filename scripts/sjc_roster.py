@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
 sjc_roster.py — parse the PCA Historical Center's authoritative SJC case index
-(pcahistory.org/pca/sjc/<decade>.html, saved under index/sjc_official/) into a
+(pcahistory.org/pca/sjc/<decade>.html, saved under data/cases/sources/sjc_official/) into a
 canonical roster. This is the GROUND TRUTH list of every ecclesiastical judicial
 case: we reconcile our corpus-derived case index against it for coverage.
 
@@ -9,14 +9,14 @@ Each roster row: case_number (normalized to our scheme), case_number_raw, year,
 title (parties, as the Historical Center names it), citation_raw (M__GA p.X if
 present), has_pdf + pdf_url (the subset with posted full opinions), decade_page.
 
-CLI:  sjc_roster.py build         # parse the saved HTML -> index/sjc_official/roster.jsonl
+CLI:  sjc_roster.py build         # parse the saved HTML -> data/cases/sources/sjc_official/roster.jsonl
       sjc_roster.py show 1990     # print roster rows for a year
 """
 from __future__ import annotations
 import glob, json, os, re, sys
 
-ROOT = "/workspace"
-SRC = os.path.join(ROOT, "index", "sjc_official")
+ROOT = os.environ.get("PCA_GA_ROOT", os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+SRC = os.path.join(ROOT, "data", "cases", "sources", "sjc_official")
 OUT = os.path.join(SRC, "roster.jsonl")
 
 DECADES = ["1975-1984", "1985-1994", "1995-2004", "2005-2014", "2015-2019", "2020-2024"]

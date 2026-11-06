@@ -363,7 +363,7 @@ def main():
     # contradictory answers while preserving their different navigation roles.
     judicial_by_id = {}
     judicial_by_page_all = {}
-    judicial_path = os.path.join(ROOT, "index", "judicial_cases.jsonl")
+    judicial_path = os.path.join(ROOT, "data", "cases", "records", "judicial_cases.jsonl")
     if os.path.exists(judicial_path):
         with open(judicial_path, encoding="utf-8") as source:
             for line in source:

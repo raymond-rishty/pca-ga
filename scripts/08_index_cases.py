@@ -2,7 +2,7 @@
 """
 08_index_cases.py — add a case-lookup layer to index/pca_minutes.db.
 
-Reads index/cases.jsonl (produced by 07_build_cases.py) and builds:
+Reads data/cases/records/cases.jsonl (produced by 07_build_cases.py) and builds:
   * table  `cases`      one row per case + facet columns for cheap membership
                         tests (space-delimited `*_s` scalars for LIKE).
   * table  `cases_fts`  FTS5 over title, parties, description, synopsis, topics
@@ -34,7 +34,7 @@ norm_caseno = build_cases.norm_caseno
 looks_like_caseno = build_cases.looks_like_caseno
 
 ROOT = os.environ.get("PCA_GA_ROOT", os.path.dirname(HERE))
-CASES = os.path.join(ROOT, "index", "cases.jsonl")
+CASES = os.path.join(ROOT, "data", "cases", "records", "cases.jsonl")
 DB_PATH = os.path.join(ROOT, "index", "pca_minutes.db")
 
 

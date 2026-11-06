@@ -147,7 +147,7 @@ def build_case_rows() -> list[dict]:
     """Project case relationships from the audited reverse index only."""
     taxonomy_by_num = {
         norm_case_num(c.get('case_id')): c
-        for c in load_jsonl(os.path.join(IDX, 'judicial_cases.jsonl'))
+        for c in load_jsonl(os.path.join(ROOT, 'data', 'cases', 'records', 'judicial_cases.jsonl'))
         if c.get('case_id')
     }
     rows = []

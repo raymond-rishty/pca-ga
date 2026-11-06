@@ -1,14 +1,14 @@
 #!/usr/bin/env python3
 """
 09_reconcile_roster.py — reconcile our corpus-extracted case index
-(index/cases.jsonl) against the PCA Historical Center's authoritative SJC roster
-(index/sjc_official/roster.jsonl). The roster is GROUND TRUTH: every case it lists
+(data/cases/records/cases.jsonl) against the PCA Historical Center's authoritative SJC roster
+(data/cases/sources/sjc_official/roster.jsonl). The roster is GROUND TRUTH: every case it lists
 should be findable in our conversions.
 
 Produces:
   - coverage stats: matched / missing-from-ours / extra-in-ours
-  - index/sjc_official/missing.jsonl   official cases we did NOT extract (the hunt list)
-  - (with --enrich) rewrites index/cases.jsonl: matched cases gain canonical_title +
+  - data/cases/recovery/sjc_missing.jsonl   official cases we did NOT extract (the hunt list)
+  - (with --enrich) rewrites data/cases/records/cases.jsonl: matched cases gain canonical_title +
     official_pdf_url + official_year; official cases we missed are added as stub rows
     (source="official_roster_only", needs_location=true) so a search still resolves the
     canonical identity and points to where to look.
@@ -20,9 +20,13 @@ from __future__ import annotations
 import json, os, re, sys, collections, difflib
 
 ROOT = os.environ.get("PCA_GA_ROOT", os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
-ROSTER = os.path.join(ROOT, "index", "sjc_official", "roster.jsonl")
-CASES = os.path.join(ROOT, "index", "cases.jsonl")
-MISSING = os.path.join(ROOT, "index", "sjc_official", "missing.jsonl")
+ROSTER = os.path.join(ROOT, "data", "cases", "sources", "sjc_official", "roster.jsonl")
+CASES = os.environ.get(
+    "PCA_CASES_INPUT",
+    os.path.join(ROOT, "data", "cases", "records", "cases.jsonl"),
+)
+CASES_OUT = os.environ.get("PCA_CASES_OUTPUT", CASES)
+MISSING = os.path.join(ROOT, "data", "cases", "recovery", "sjc_missing.jsonl")
 
 
 def norm(raw):
@@ -269,10 +273,10 @@ def main():
                 "topics": [], "precedent_case_ids": [], "cited_by": [],
             })
             stubs += 1
-        with open(CASES, "w") as f:
+        with open(CASES_OUT, "w", encoding="utf-8", newline="\n") as f:
             for c in cases:
                 f.write(json.dumps(c, ensure_ascii=False) + "\n")
-        print(f"            ENRICHED {len(matched)} matched cases; added {stubs} roster stubs -> {CASES}")
+        print(f"            ENRICHED {len(matched)} matched cases; added {stubs} roster stubs -> {CASES_OUT}")
         print("            (re-run scripts/08_index_cases.py build to refresh the lookup table)")
 
 

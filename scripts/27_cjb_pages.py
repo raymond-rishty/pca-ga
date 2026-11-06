@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-27_cjb_pages.py — render per-case pages for the CJB era (GA1-18) from index/cjb_cases.json, the
+27_cjb_pages.py — render per-case pages for the CJB era (GA1-18) from data/cases/sources/cjb_cases.json, the
 agent-LOCATED case spans (complaint + §10-79 adjudication line ranges). The agents only LOCATED
 ranges; here we slice the volume markdown VERBATIM by those ranges, so the page text is the real
 minutes, never model-generated. A CJB case is usually split (complaint summary + a later commission
@@ -43,7 +43,7 @@ def slice_spans(lines, spans):
 
 
 def main():
-    data = json.load(open(f"{ROOT}/index/cjb_cases.json"))
+    data = json.load(open(f"{ROOT}/data/cases/sources/cjb_cases.json"))
     os.makedirs(OUT, exist_ok=True)
     pages = []
     n = 0

@@ -100,7 +100,7 @@ def main():
         return _table(c, name, cols, rows)
 
     n_r = load_jsonl_table(
-        "sjc_roster", os.path.join(IDX, "sjc_official", "roster.jsonl"),
+        "sjc_roster", os.path.join(ROOT, "data", "cases", "sources", "sjc_official", "roster.jsonl"),
         ["canonical_number TEXT", "title TEXT", "pdf_url TEXT", "raw TEXT"],
         lambda d: (d.get("canonical_number"), d.get("title"),
                    d.get("official_pdf_url") or d.get("pdf_url"), json.dumps(d, ensure_ascii=False)))

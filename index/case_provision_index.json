@@ -1164,6 +1164,24 @@
  {
   "provision": "BCO 3-1",
   "case_numbers": [
+   "2005-3"
+  ],
+  "title": "Session of Living Word Presbyterian Church v. Pacific Northwest Presbytery",
+  "body": "SJC/CJB",
+  "year": 2005,
+  "disposition": "",
+  "standard_of_review": "not_reached",
+  "review_standards": [],
+  "synopsis": "The Session of Living Word Presbyterian Church brought a complaint against Pacific Northwest Presbytery, but the record does not identify the challenged action. The Standing Judicial Commission found the complaint out of order without specifying an administrative or judicial subtype or providing reasons. No merits determination or further relief is recorded.",
+  "url": "cases/ga34_2006__stub_2005-03.md",
+  "sources": [
+   "judicial_cases.jsonl:bco_provisions"
+  ],
+  "evidence": []
+ },
+ {
+  "provision": "BCO 3-1",
+  "case_numbers": [
    "2023-11"
   ],
   "title": "Psiaki v. Pacific Northwest Presbytery",
@@ -1268,6 +1286,24 @@
     "snippet": "…when it refers to \"the power of order\" and \"the power of jurisdiction\" in BCO 3-2, which is as follows:"
    }
   ]
+ },
+ {
+  "provision": "BCO 3-2",
+  "case_numbers": [
+   "2005-3"
+  ],
+  "title": "Session of Living Word Presbyterian Church v. Pacific Northwest Presbytery",
+  "body": "SJC/CJB",
+  "year": 2005,
+  "disposition": "",
+  "standard_of_review": "not_reached",
+  "review_standards": [],
+  "synopsis": "The Session of Living Word Presbyterian Church brought a complaint against Pacific Northwest Presbytery, but the record does not identify the challenged action. The Standing Judicial Commission found the complaint out of order without specifying an administrative or judicial subtype or providing reasons. No merits determination or further relief is recorded.",
+  "url": "cases/ga34_2006__stub_2005-03.md",
+  "sources": [
+   "judicial_cases.jsonl:bco_provisions"
+  ],
+  "evidence": []
  },
  {
   "provision": "BCO 3-2",
@@ -1586,6 +1622,24 @@
     "snippet": "- **(d)** \"The power of the church is exclusively spiritual; that of the state includes the exercise of force.\"(BCO 3-4)"
    }
   ]
+ },
+ {
+  "provision": "BCO 3-4",
+  "case_numbers": [
+   "2005-3"
+  ],
+  "title": "Session of Living Word Presbyterian Church v. Pacific Northwest Presbytery",
+  "body": "SJC/CJB",
+  "year": 2005,
+  "disposition": "",
+  "standard_of_review": "not_reached",
+  "review_standards": [],
+  "synopsis": "The Session of Living Word Presbyterian Church brought a complaint against Pacific Northwest Presbytery, but the record does not identify the challenged action. The Standing Judicial Commission found the complaint out of order without specifying an administrative or judicial subtype or providing reasons. No merits determination or further relief is recorded.",
+  "url": "cases/ga34_2006__stub_2005-03.md",
+  "sources": [
+   "judicial_cases.jsonl:bco_provisions"
+  ],
+  "evidence": []
  },
  {
   "provision": "BCO 3-4",
@@ -3502,6 +3556,26 @@
     "snippet": "…a ruling elder if the majority of his church voted otherwise, and contrary to Preliminary Principle 6."
    }
   ]
+ },
+ {
+  "provision": "BCO 6-1",
+  "case_numbers": [
+   "2005-2"
+  ],
+  "title": "Andrino v. Southern Florida Presbytery",
+  "body": "SJC",
+  "year": 2008,
+  "disposition": "dismissed",
+  "standard_of_review": "not_reached",
+  "review_standards": [],
+  "synopsis": "The SJC found RE Hugo Andrino’s complaint against Southern Florida Presbytery out of order. The published record neither identifies the challenged action nor explains the ruling, and it reports no merits determination or further proceedings.",
+  "url": "cases/ga34_2006__stub_2005-02.md",
+  "sources": [
+   "cases.jsonl:bco_cited_as",
+   "cases.jsonl:bco_cited_current",
+   "judicial_cases.jsonl:bco_provisions"
+  ],
+  "evidence": []
  },
  {
   "provision": "BCO 6-1",
@@ -6649,6 +6723,24 @@
     "snippet": "…responsibility of the session to preclude the congregation from such action. (BCO 11-2, Church courts charged to preserve the order of the church and BCO 12-5, Spiritual oversight of the Session). Failure to do so would properly subject a session to…"
    }
   ]
+ },
+ {
+  "provision": "BCO 11-2",
+  "case_numbers": [
+   "2005-3"
+  ],
+  "title": "Session of Living Word Presbyterian Church v. Pacific Northwest Presbytery",
+  "body": "SJC/CJB",
+  "year": 2005,
+  "disposition": "",
+  "standard_of_review": "not_reached",
+  "review_standards": [],
+  "synopsis": "The Session of Living Word Presbyterian Church brought a complaint against Pacific Northwest Presbytery, but the record does not identify the challenged action. The Standing Judicial Commission found the complaint out of order without specifying an administrative or judicial subtype or providing reasons. No merits determination or further relief is recorded.",
+  "url": "cases/ga34_2006__stub_2005-03.md",
+  "sources": [
+   "judicial_cases.jsonl:bco_provisions"
+  ],
+  "evidence": []
  },
  {
   "provision": "BCO 11-2",
@@ -12146,6 +12238,24 @@
  {
   "provision": "BCO 13-9",
   "case_numbers": [
+   "2013-9"
+  ],
+  "title": "Marshall v. Pacific",
+  "body": "SJC/CJB",
+  "year": 1993,
+  "disposition": "",
+  "standard_of_review": "not_reached",
+  "review_standards": [],
+  "synopsis": "The 42nd Assembly (2014) disposed of Mr. G. Rick Marshall's appeal against Pacific Presbytery by withdrawal. No separate merits opinion was published, so the source does not disclose the challenged conduct, adopted reasoning, or relief beyond the withdrawal.",
+  "url": "cases/ga42_2014__stub_2013-09.md",
+  "sources": [
+   "judicial_cases.jsonl:bco_provisions"
+  ],
+  "evidence": []
+ },
+ {
+  "provision": "BCO 13-9",
+  "case_numbers": [
    "1992-5"
   ],
   "title": "Parks et al. v. Central Carolina Presbytery",
@@ -12336,24 +12446,6 @@
  {
   "provision": "BCO 13-9",
   "case_numbers": [
-   "2001-10"
-  ],
-  "title": "Charles C. Kim v. Korean Capital Presbytery (Appeal)",
-  "body": "SJC",
-  "year": 2001,
-  "disposition": "sustained",
-  "standard_of_review": "not_stated",
-  "review_standards": [],
-  "synopsis": "A communicant member appealed Presbytery’s findings of guilt and censure of excommunication. The SJC reversed Presbytery’s and its Special Judicial Commission’s actions because original jurisdiction over judicial proceedings against a local church’s communicant member belonged to that church’s Session. The decision was jurisdictional: it neither resolved the underlying charges nor directed a remand or acquittal.",
-  "url": "cases/ga30_2002__2001-10.md",
-  "sources": [
-   "judicial_cases.jsonl:bco_provisions"
-  ],
-  "evidence": []
- },
- {
-  "provision": "BCO 13-9",
-  "case_numbers": [
    "2001-9"
   ],
   "title": "Charles Kim v. Korean Capital Presbytery",
@@ -12404,12 +12496,30 @@
  {
   "provision": "BCO 13-9",
   "case_numbers": [
+   "2001-10"
+  ],
+  "title": "Charles C. Kim v. Korean Capital Presbytery (Appeal)",
+  "body": "SJC",
+  "year": 2002,
+  "disposition": "out_of_order",
+  "standard_of_review": "not_stated",
+  "review_standards": [],
+  "synopsis": "A communicant member appealed Presbytery’s findings of guilt and censure of excommunication. The SJC reversed Presbytery’s and its Special Judicial Commission’s actions because original jurisdiction over judicial proceedings against a local church’s communicant member belonged to that church’s Session. The decision was jurisdictional: it neither resolved the underlying charges nor directed a remand or acquittal.",
+  "url": "cases/ga30_2002__2001-10.md",
+  "sources": [
+   "judicial_cases.jsonl:bco_provisions"
+  ],
+  "evidence": []
+ },
+ {
+  "provision": "BCO 13-9",
+  "case_numbers": [
    "2001-4"
   ],
   "title": "Moon K. Ham v. Korean Capital",
   "body": "SJC",
   "year": 2002,
-  "disposition": "sustained",
+  "disposition": "dismissed",
   "standard_of_review": "not_stated",
   "review_standards": [],
   "synopsis": "A ruling elder appealed Korean Capital Presbytery’s three-year suspension of him from the sacraments. The SJC sustained the appeal and reversed the Presbytery’s and its Judicial Commission’s actions because original jurisdiction over a communicant member belonged to his local Session. The ruling rests on the identity of the proper court, not the merits of the charges, and orders no remand or further relief.",
@@ -13999,6 +14109,24 @@
  {
   "provision": "BCO 13-9.c",
   "case_numbers": [
+   "2005-3"
+  ],
+  "title": "Session of Living Word Presbyterian Church v. Pacific Northwest Presbytery",
+  "body": "SJC/CJB",
+  "year": 2005,
+  "disposition": "",
+  "standard_of_review": "not_reached",
+  "review_standards": [],
+  "synopsis": "The Session of Living Word Presbyterian Church brought a complaint against Pacific Northwest Presbytery, but the record does not identify the challenged action. The Standing Judicial Commission found the complaint out of order without specifying an administrative or judicial subtype or providing reasons. No merits determination or further relief is recorded.",
+  "url": "cases/ga34_2006__stub_2005-03.md",
+  "sources": [
+   "judicial_cases.jsonl:bco_provisions"
+  ],
+  "evidence": []
+ },
+ {
+  "provision": "BCO 13-9.c",
+  "case_numbers": [
    "2007-16"
   ],
   "title": "Grady v. Southwest Florida",
@@ -14158,6 +14286,24 @@
     "snippet": "- **(1)** \"To constitute MCRC a commission of Presbytery, clothed with judicial authority to visit WEPC under authority of BCO 13-9(f) and 31-2, which commission shall report to JRP by its July meeting\"."
    }
   ]
+ },
+ {
+  "provision": "BCO 13-9.f",
+  "case_numbers": [
+   "2005-3"
+  ],
+  "title": "Session of Living Word Presbyterian Church v. Pacific Northwest Presbytery",
+  "body": "SJC/CJB",
+  "year": 2005,
+  "disposition": "",
+  "standard_of_review": "not_reached",
+  "review_standards": [],
+  "synopsis": "The Session of Living Word Presbyterian Church brought a complaint against Pacific Northwest Presbytery, but the record does not identify the challenged action. The Standing Judicial Commission found the complaint out of order without specifying an administrative or judicial subtype or providing reasons. No merits determination or further relief is recorded.",
+  "url": "cases/ga34_2006__stub_2005-03.md",
+  "sources": [
+   "judicial_cases.jsonl:bco_provisions"
+  ],
+  "evidence": []
  },
  {
   "provision": "BCO 13-9.f",
@@ -16746,6 +16892,24 @@
     "snippet": "We, thereby, invoke the provision of BCO 14-7, that a prior judicial decision \"may be appealed to in subsequent similar cases as to any principle which may have been decided.\""
    }
   ]
+ },
+ {
+  "provision": "BCO 14-7",
+  "case_numbers": [
+   "2005-3"
+  ],
+  "title": "Session of Living Word Presbyterian Church v. Pacific Northwest Presbytery",
+  "body": "SJC/CJB",
+  "year": 2005,
+  "disposition": "",
+  "standard_of_review": "not_reached",
+  "review_standards": [],
+  "synopsis": "The Session of Living Word Presbyterian Church brought a complaint against Pacific Northwest Presbytery, but the record does not identify the challenged action. The Standing Judicial Commission found the complaint out of order without specifying an administrative or judicial subtype or providing reasons. No merits determination or further relief is recorded.",
+  "url": "cases/ga34_2006__stub_2005-03.md",
+  "sources": [
+   "judicial_cases.jsonl:bco_provisions"
+  ],
+  "evidence": []
  },
  {
   "provision": "BCO 14-7",
@@ -19572,6 +19736,26 @@
  {
   "provision": "BCO 15-3",
   "case_numbers": [
+   "2005-2"
+  ],
+  "title": "Andrino v. Southern Florida Presbytery",
+  "body": "SJC",
+  "year": 2008,
+  "disposition": "dismissed",
+  "standard_of_review": "not_reached",
+  "review_standards": [],
+  "synopsis": "The SJC found RE Hugo Andrino’s complaint against Southern Florida Presbytery out of order. The published record neither identifies the challenged action nor explains the ruling, and it reports no merits determination or further proceedings.",
+  "url": "cases/ga34_2006__stub_2005-02.md",
+  "sources": [
+   "cases.jsonl:bco_cited_as",
+   "cases.jsonl:bco_cited_current",
+   "judicial_cases.jsonl:bco_provisions"
+  ],
+  "evidence": []
+ },
+ {
+  "provision": "BCO 15-3",
+  "case_numbers": [
    "2006-2"
   ],
   "title": "Memorial of Central Carolina v. Louisiana",
@@ -22014,6 +22198,24 @@
  {
   "provision": "BCO 16-2",
   "case_numbers": [
+   "2005-3"
+  ],
+  "title": "Session of Living Word Presbyterian Church v. Pacific Northwest Presbytery",
+  "body": "SJC/CJB",
+  "year": 2005,
+  "disposition": "",
+  "standard_of_review": "not_reached",
+  "review_standards": [],
+  "synopsis": "The Session of Living Word Presbyterian Church brought a complaint against Pacific Northwest Presbytery, but the record does not identify the challenged action. The Standing Judicial Commission found the complaint out of order without specifying an administrative or judicial subtype or providing reasons. No merits determination or further relief is recorded.",
+  "url": "cases/ga34_2006__stub_2005-03.md",
+  "sources": [
+   "judicial_cases.jsonl:bco_provisions"
+  ],
+  "evidence": []
+ },
+ {
+  "provision": "BCO 16-2",
+  "case_numbers": [
    "2004-8"
   ],
   "title": "Thornton v. Westminster Presbytery",
@@ -23935,6 +24137,24 @@
     "snippet": "### POINT 3 - BCO 20-4 and 23-1"
    }
   ]
+ },
+ {
+  "provision": "BCO 20-4",
+  "case_numbers": [
+   "2005-3"
+  ],
+  "title": "Session of Living Word Presbyterian Church v. Pacific Northwest Presbytery",
+  "body": "SJC/CJB",
+  "year": 2005,
+  "disposition": "",
+  "standard_of_review": "not_reached",
+  "review_standards": [],
+  "synopsis": "The Session of Living Word Presbyterian Church brought a complaint against Pacific Northwest Presbytery, but the record does not identify the challenged action. The Standing Judicial Commission found the complaint out of order without specifying an administrative or judicial subtype or providing reasons. No merits determination or further relief is recorded.",
+  "url": "cases/ga34_2006__stub_2005-03.md",
+  "sources": [
+   "judicial_cases.jsonl:bco_provisions"
+  ],
+  "evidence": []
  },
  {
   "provision": "BCO 20-4",
@@ -29122,6 +29342,24 @@
  {
   "provision": "BCO 23-1",
   "case_numbers": [
+   "2005-3"
+  ],
+  "title": "Session of Living Word Presbyterian Church v. Pacific Northwest Presbytery",
+  "body": "SJC/CJB",
+  "year": 2005,
+  "disposition": "",
+  "standard_of_review": "not_reached",
+  "review_standards": [],
+  "synopsis": "The Session of Living Word Presbyterian Church brought a complaint against Pacific Northwest Presbytery, but the record does not identify the challenged action. The Standing Judicial Commission found the complaint out of order without specifying an administrative or judicial subtype or providing reasons. No merits determination or further relief is recorded.",
+  "url": "cases/ga34_2006__stub_2005-03.md",
+  "sources": [
+   "judicial_cases.jsonl:bco_provisions"
+  ],
+  "evidence": []
+ },
+ {
+  "provision": "BCO 23-1",
+  "case_numbers": [
    "2004-3"
   ],
   "title": "Tim J. Harris v. Heritage Presbytery",
@@ -30459,6 +30697,24 @@
   "sources": [
    "cases.jsonl:bco_cited_as",
    "cases.jsonl:bco_cited_current",
+   "judicial_cases.jsonl:bco_provisions"
+  ],
+  "evidence": []
+ },
+ {
+  "provision": "BCO 24-6",
+  "case_numbers": [
+   "2013-9"
+  ],
+  "title": "Marshall v. Pacific",
+  "body": "SJC/CJB",
+  "year": 1993,
+  "disposition": "",
+  "standard_of_review": "not_reached",
+  "review_standards": [],
+  "synopsis": "The 42nd Assembly (2014) disposed of Mr. G. Rick Marshall's appeal against Pacific Presbytery by withdrawal. No separate merits opinion was published, so the source does not disclose the challenged conduct, adopted reasoning, or relief beyond the withdrawal.",
+  "url": "cases/ga42_2014__stub_2013-09.md",
+  "sources": [
    "judicial_cases.jsonl:bco_provisions"
   ],
   "evidence": []
@@ -33136,6 +33392,24 @@
  {
   "provision": "BCO 25-7",
   "case_numbers": [
+   "2005-3"
+  ],
+  "title": "Session of Living Word Presbyterian Church v. Pacific Northwest Presbytery",
+  "body": "SJC/CJB",
+  "year": 2005,
+  "disposition": "",
+  "standard_of_review": "not_reached",
+  "review_standards": [],
+  "synopsis": "The Session of Living Word Presbyterian Church brought a complaint against Pacific Northwest Presbytery, but the record does not identify the challenged action. The Standing Judicial Commission found the complaint out of order without specifying an administrative or judicial subtype or providing reasons. No merits determination or further relief is recorded.",
+  "url": "cases/ga34_2006__stub_2005-03.md",
+  "sources": [
+   "judicial_cases.jsonl:bco_provisions"
+  ],
+  "evidence": []
+ },
+ {
+  "provision": "BCO 25-7",
+  "case_numbers": [
    "2022-20"
   ],
   "title": "Wilson et al. v. Pacific Northwest Presbytery",
@@ -33680,6 +33954,24 @@
     "snippet": "…and to affiliate or break affiliation with a larger body of believers (BCO 25-11). Without the ability to inform congregations of these rights and recommend courses of action related to them, sessions would be divested of their ability to provide…"
    }
   ]
+ },
+ {
+  "provision": "BCO 25-11",
+  "case_numbers": [
+   "2005-3"
+  ],
+  "title": "Session of Living Word Presbyterian Church v. Pacific Northwest Presbytery",
+  "body": "SJC/CJB",
+  "year": 2005,
+  "disposition": "",
+  "standard_of_review": "not_reached",
+  "review_standards": [],
+  "synopsis": "The Session of Living Word Presbyterian Church brought a complaint against Pacific Northwest Presbytery, but the record does not identify the challenged action. The Standing Judicial Commission found the complaint out of order without specifying an administrative or judicial subtype or providing reasons. No merits determination or further relief is recorded.",
+  "url": "cases/ga34_2006__stub_2005-03.md",
+  "sources": [
+   "judicial_cases.jsonl:bco_provisions"
+  ],
+  "evidence": []
  },
  {
   "provision": "BCO 25-11",
@@ -41473,6 +41765,24 @@
  {
   "provision": "BCO 31-2",
   "case_numbers": [
+   "2005-3"
+  ],
+  "title": "Session of Living Word Presbyterian Church v. Pacific Northwest Presbytery",
+  "body": "SJC/CJB",
+  "year": 2005,
+  "disposition": "",
+  "standard_of_review": "not_reached",
+  "review_standards": [],
+  "synopsis": "The Session of Living Word Presbyterian Church brought a complaint against Pacific Northwest Presbytery, but the record does not identify the challenged action. The Standing Judicial Commission found the complaint out of order without specifying an administrative or judicial subtype or providing reasons. No merits determination or further relief is recorded.",
+  "url": "cases/ga34_2006__stub_2005-03.md",
+  "sources": [
+   "judicial_cases.jsonl:bco_provisions"
+  ],
+  "evidence": []
+ },
+ {
+  "provision": "BCO 31-2",
+  "case_numbers": [
    "2003-2"
   ],
   "title": "Thornton v. Westminster",
@@ -41672,6 +41982,26 @@
     "snippet": "charge is made or the court finds it necessary to conduct a BCO 31-2"
    }
   ]
+ },
+ {
+  "provision": "BCO 31-2",
+  "case_numbers": [
+   "2005-2"
+  ],
+  "title": "Andrino v. Southern Florida Presbytery",
+  "body": "SJC",
+  "year": 2008,
+  "disposition": "dismissed",
+  "standard_of_review": "not_reached",
+  "review_standards": [],
+  "synopsis": "The SJC found RE Hugo Andrino’s complaint against Southern Florida Presbytery out of order. The published record neither identifies the challenged action nor explains the ruling, and it reports no merits determination or further proceedings.",
+  "url": "cases/ga34_2006__stub_2005-02.md",
+  "sources": [
+   "cases.jsonl:bco_cited_as",
+   "cases.jsonl:bco_cited_current",
+   "judicial_cases.jsonl:bco_provisions"
+  ],
+  "evidence": []
  },
  {
   "provision": "BCO 31-2",
@@ -72154,6 +72484,26 @@
  {
   "provision": "BCO 38-3",
   "case_numbers": [
+   "2005-2"
+  ],
+  "title": "Andrino v. Southern Florida Presbytery",
+  "body": "SJC",
+  "year": 2008,
+  "disposition": "dismissed",
+  "standard_of_review": "not_reached",
+  "review_standards": [],
+  "synopsis": "The SJC found RE Hugo Andrino’s complaint against Southern Florida Presbytery out of order. The published record neither identifies the challenged action nor explains the ruling, and it reports no merits determination or further proceedings.",
+  "url": "cases/ga34_2006__stub_2005-02.md",
+  "sources": [
+   "cases.jsonl:bco_cited_as",
+   "cases.jsonl:bco_cited_current",
+   "judicial_cases.jsonl:bco_provisions"
+  ],
+  "evidence": []
+ },
+ {
+  "provision": "BCO 38-3",
+  "case_numbers": [
    "2007-14"
   ],
   "title": "PCA v. Louisiana Presbytery (Trial)",
@@ -95750,6 +96100,24 @@
  {
   "provision": "BCO 43-1",
   "case_numbers": [
+   "2005-3"
+  ],
+  "title": "Session of Living Word Presbyterian Church v. Pacific Northwest Presbytery",
+  "body": "SJC/CJB",
+  "year": 2005,
+  "disposition": "",
+  "standard_of_review": "not_reached",
+  "review_standards": [],
+  "synopsis": "The Session of Living Word Presbyterian Church brought a complaint against Pacific Northwest Presbytery, but the record does not identify the challenged action. The Standing Judicial Commission found the complaint out of order without specifying an administrative or judicial subtype or providing reasons. No merits determination or further relief is recorded.",
+  "url": "cases/ga34_2006__stub_2005-03.md",
+  "sources": [
+   "judicial_cases.jsonl:bco_provisions"
+  ],
+  "evidence": []
+ },
+ {
+  "provision": "BCO 43-1",
+  "case_numbers": [
    "2006-7"
   ],
   "title": "Michael Chastain v. Heritage Presbytery",
@@ -96883,9 +97251,9 @@
    "2021-8"
   ],
   "title": "In re Korean Southwest Orange County Presbytery",
-  "body": "CJB",
+  "body": "SJC",
   "year": 2022,
-  "disposition": "",
+  "disposition": "administrative",
   "standard_of_review": "not_reached",
   "review_standards": [],
   "synopsis": "As of March 3, 2022, Presbytery had not supplied formally adopted responses to records-review exceptions, although its clerk had prepared drafts. The SJC allowed time for adoption and filing by April 1, after which it would forward the responses for records review; failure to file would prompt a called hearing. This was an unfinished compliance process, not approval of the draft responses or a final merits decision.",
@@ -98272,6 +98640,25 @@
  {
   "provision": "BCO 43-2",
   "case_numbers": [
+   "2001-10"
+  ],
+  "title": "Charles C. Kim v. Korean Capital Presbytery (Appeal)",
+  "body": "SJC",
+  "year": 2002,
+  "disposition": "out_of_order",
+  "standard_of_review": "not_stated",
+  "review_standards": [],
+  "synopsis": "A communicant member appealed Presbytery’s findings of guilt and censure of excommunication. The SJC reversed Presbytery’s and its Special Judicial Commission’s actions because original jurisdiction over judicial proceedings against a local church’s communicant member belonged to that church’s Session. The decision was jurisdictional: it neither resolved the underlying charges nor directed a remand or acquittal.",
+  "url": "cases/ga30_2002__2001-10.md",
+  "sources": [
+   "cases.jsonl:bco_cited_as",
+   "cases.jsonl:bco_cited_current"
+  ],
+  "evidence": []
+ },
+ {
+  "provision": "BCO 43-2",
+  "case_numbers": [
    "2001-32"
   ],
   "title": "Christ Covenant Church Session v. Central Carolina Presbytery",
@@ -98503,6 +98890,24 @@
     "snippet": "> in error (BCO 43-2)\"."
    }
   ]
+ },
+ {
+  "provision": "BCO 43-2",
+  "case_numbers": [
+   "2005-3"
+  ],
+  "title": "Session of Living Word Presbyterian Church v. Pacific Northwest Presbytery",
+  "body": "SJC/CJB",
+  "year": 2005,
+  "disposition": "",
+  "standard_of_review": "not_reached",
+  "review_standards": [],
+  "synopsis": "The Session of Living Word Presbyterian Church brought a complaint against Pacific Northwest Presbytery, but the record does not identify the challenged action. The Standing Judicial Commission found the complaint out of order without specifying an administrative or judicial subtype or providing reasons. No merits determination or further relief is recorded.",
+  "url": "cases/ga34_2006__stub_2005-03.md",
+  "sources": [
+   "judicial_cases.jsonl:bco_provisions"
+  ],
+  "evidence": []
  },
  {
   "provision": "BCO 43-2",
@@ -99853,6 +100258,24 @@
   "review_standards": [],
   "synopsis": "Case 2002-03 was decided with Cases 2001-34 and 2002-02. The SJC ruled some constituent complaints out of order but sustained the central complaint that James River Presbytery unduly delayed acting on a congregation's proper request to dissolve its pastoral relationship; it denied a related complaint concerning a salary gift. The consolidated decision drew concurring and dissenting opinions.",
   "url": "cases/ga33_2005__2001-34_2002-02_2002-03.md",
+  "sources": [
+   "judicial_cases.jsonl:bco_provisions"
+  ],
+  "evidence": []
+ },
+ {
+  "provision": "BCO 43-2.2",
+  "case_numbers": [
+   "2005-3"
+  ],
+  "title": "Session of Living Word Presbyterian Church v. Pacific Northwest Presbytery",
+  "body": "SJC/CJB",
+  "year": 2005,
+  "disposition": "",
+  "standard_of_review": "not_reached",
+  "review_standards": [],
+  "synopsis": "The Session of Living Word Presbyterian Church brought a complaint against Pacific Northwest Presbytery, but the record does not identify the challenged action. The Standing Judicial Commission found the complaint out of order without specifying an administrative or judicial subtype or providing reasons. No merits determination or further relief is recorded.",
+  "url": "cases/ga34_2006__stub_2005-03.md",
   "sources": [
    "judicial_cases.jsonl:bco_provisions"
   ],
@@ -104928,6 +105351,26 @@
  {
   "provision": "BCO 46-6",
   "case_numbers": [
+   "2005-2"
+  ],
+  "title": "Andrino v. Southern Florida Presbytery",
+  "body": "SJC",
+  "year": 2008,
+  "disposition": "dismissed",
+  "standard_of_review": "not_reached",
+  "review_standards": [],
+  "synopsis": "The SJC found RE Hugo Andrino’s complaint against Southern Florida Presbytery out of order. The published record neither identifies the challenged action nor explains the ruling, and it reports no merits determination or further proceedings.",
+  "url": "cases/ga34_2006__stub_2005-02.md",
+  "sources": [
+   "cases.jsonl:bco_cited_as",
+   "cases.jsonl:bco_cited_current",
+   "judicial_cases.jsonl:bco_provisions"
+  ],
+  "evidence": []
+ },
+ {
+  "provision": "BCO 46-6",
+  "case_numbers": [
    "2009-11"
   ],
   "title": "Larry Edison et al. v. Southwest Florida Presbytery",
@@ -106289,6 +106732,26 @@
  {
   "provision": "BCO 57-5",
   "case_numbers": [
+   "2005-2"
+  ],
+  "title": "Andrino v. Southern Florida Presbytery",
+  "body": "SJC",
+  "year": 2008,
+  "disposition": "dismissed",
+  "standard_of_review": "not_reached",
+  "review_standards": [],
+  "synopsis": "The SJC found RE Hugo Andrino’s complaint against Southern Florida Presbytery out of order. The published record neither identifies the challenged action nor explains the ruling, and it reports no merits determination or further proceedings.",
+  "url": "cases/ga34_2006__stub_2005-02.md",
+  "sources": [
+   "cases.jsonl:bco_cited_as",
+   "cases.jsonl:bco_cited_current",
+   "judicial_cases.jsonl:bco_provisions"
+  ],
+  "evidence": []
+ },
+ {
+  "provision": "BCO 57-5",
+  "case_numbers": [
    "2006-2"
   ],
   "title": "Memorial of Central Carolina v. Louisiana",
@@ -106578,6 +107041,26 @@
     "snippet": "…of membership precludes summarily disregarding the session's communication. (BCO 57-5.5; ROC 12, 1.11).\""
    }
   ]
+ },
+ {
+  "provision": "BCO 57-6",
+  "case_numbers": [
+   "2005-2"
+  ],
+  "title": "Andrino v. Southern Florida Presbytery",
+  "body": "SJC",
+  "year": 2008,
+  "disposition": "dismissed",
+  "standard_of_review": "not_reached",
+  "review_standards": [],
+  "synopsis": "The SJC found RE Hugo Andrino’s complaint against Southern Florida Presbytery out of order. The published record neither identifies the challenged action nor explains the ruling, and it reports no merits determination or further proceedings.",
+  "url": "cases/ga34_2006__stub_2005-02.md",
+  "sources": [
+   "cases.jsonl:bco_cited_as",
+   "cases.jsonl:bco_cited_current",
+   "judicial_cases.jsonl:bco_provisions"
+  ],
+  "evidence": []
  },
  {
   "provision": "BCO 58-1",

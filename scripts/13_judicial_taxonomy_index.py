@@ -155,7 +155,7 @@ def citation_key(value):
 
 def load_source_records(root):
     """Load printed-page metadata from the legacy case index."""
-    path = os.path.join(root, "index", "cases.jsonl")
+    path = os.path.join(root, "data", "cases", "records", "cases.jsonl")
     records = {}
     if not os.path.exists(path):
         return records
@@ -308,7 +308,7 @@ def main(argv=None):
     )
     args = parser.parse_args(argv)
     root = os.path.abspath(args.root)
-    source_path = os.path.join(root, "index", "judicial_cases.jsonl")
+    source_path = os.path.join(root, "data", "cases", "records", "judicial_cases.jsonl")
     output_path = os.path.join(root, "index", "JUDICIAL-CASES.html")
     overlays, registry_path = candidate_overlays(root, args.candidate_registry)
 

@@ -2,7 +2,7 @@
 """Build the canonical, one-row-per-case judicial taxonomy.
 
 Inputs are the official SJC/CJB roster plus the reconciled extracted case index.
-The output is intentionally separate from ``index/cases.jsonl``: that file has
+The output is intentionally separate from ``data/cases/records/cases.jsonl``: that file has
 legacy extraction rows and is still consumed by older builders, while this file
 is the stable editorial/search layer for Issue #149.
 
@@ -23,15 +23,17 @@ DEFAULT_ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 # direct command-line execution.
 ROOT = sys.argv[1] if __name__ == "__main__" and len(sys.argv) > 1 else DEFAULT_ROOT
 IDX = os.path.join(ROOT, "index")
-ROSTER = os.path.join(IDX, "sjc_official", "roster.jsonl")
-CASES = os.path.join(IDX, "cases.jsonl")
+CASE_DATA = os.path.join(ROOT, "data", "cases")
+ROSTER = os.path.join(CASE_DATA, "sources", "sjc_official", "roster.jsonl")
+CASES = os.environ.get("PCA_CASES_INPUT", os.path.join(CASE_DATA, "records", "cases.jsonl"))
+CASES_OUT = os.environ.get("PCA_CASES_OUTPUT", CASES)
 CJB_PAGES = os.path.join(IDX, "cjb_pages.json")
-CJB_CASES = os.path.join(IDX, "cjb_cases.json")
+CJB_CASES = os.path.join(CASE_DATA, "sources", "cjb_cases.json")
 PAGE_MAP = os.path.join(IDX, "case_pages_map.json")
-EDITORIAL_OVERRIDES = os.path.join(IDX, "judicial_case_editorial_overrides.json")
-SUMMARY_AUDITS = os.path.join(IDX, "judicial_case_summary_audits.json")
-IDENTITY_OVERRIDES = os.path.join(IDX, "case_identity_overrides.json")
-OUT = os.path.join(IDX, "judicial_cases.jsonl")
+EDITORIAL_OVERRIDES = os.path.join(CASE_DATA, "overrides", "judicial_case_editorial_overrides.json")
+SUMMARY_AUDITS = os.path.join(CASE_DATA, "audits", "judicial_case_summary_audits.json")
+IDENTITY_OVERRIDES = os.path.join(CASE_DATA, "overrides", "case_identity_overrides.json")
+OUT = os.path.join(CASE_DATA, "records", "judicial_cases.jsonl")
 
 MATTER_TYPES = (
     "complaint",
@@ -959,8 +961,8 @@ def main():
         summary = record.get("synopsis") or roster_summary(raw_title) or (cjb or {}).get("notes") or None
         override = editorial_overrides.get(cid, {}) if cid else {}
         audit = summary_audits.get(cid, {}) if cid else {}
-        title = override.get("title") or title
-        summary = override.get("summary") or summary
+        title = override["title"] if "title" in override else title
+        summary = override["summary"] if "summary" in override else summary
         era, era_label, minute_ids, era_file = era_info(raw_title, official.get("year"), cjb_pages)
         page_entry = page_map.get(cid) or page_map.get(legacy_id(cid)) if cid else None
         page_file = page_entry.get("file") if page_entry else era_file
@@ -968,14 +970,15 @@ def main():
         page_header = page_body[:2400]
         page_headings = case_page_headings(page_body)
         era, era_label = page_era_info(page_body, era, era_label)
-        if override.get("era_id"):
+        if "era_id" in override:
             era = override["era_id"]
-            era_label = override.get("era_label") or era_label
+        if "era_label" in override:
+            era_label = override["era_label"]
         inferred_matter_type = classify_matter_type(
             raw_title, title, record.get("title"), page_headings
         )
         legacy_matter_type = override.get("proceeding_type")
-        matter_type = override.get("matter_type") or (
+        matter_type = override["matter_type"] if "matter_type" in override else (
             inferred_matter_type
             if inferred_matter_type == "bco_40_5_matter"
             else legacy_matter_type or inferred_matter_type
@@ -986,7 +989,7 @@ def main():
         if matter_type == "bco_40_5_matter" and not contextual_standard:
             contextual_standard = "important_delinquency_or_grossly_unconstitutional_proceeding"
         detail = page_disposition(page_file) or record.get("disposition") or (cjb or {}).get("disposition") or (raw_title if matches else "")
-        detail = override.get("disposition_detail") or detail
+        detail = override["disposition_detail"] if "disposition_detail" in override else detail
         requested_dispositions = override.get("final_dispositions")
         if requested_dispositions is not None:
             final_dispositions = [
@@ -999,11 +1002,10 @@ def main():
         review_code, review_detail, review_standards = standard_of_review(
             page_file, final_dispositions, matter_type, override, contextual_standard, cid
         )
-        if (
-            override.get("review_standards") is not None
-            and set(override.get("review_standards") or []) == set(review_standards)
-        ):
-            review_detail = override.get("standard_of_review_detail") or review_detail
+        if "standard_of_review" in override:
+            review_code = override["standard_of_review"]
+        if "standard_of_review_detail" in override:
+            review_detail = override["standard_of_review_detail"]
         bco = []
         for raw_code in (record.get("bco_cited_as") or []):
             normalized = normalize_bco_code(raw_code)
@@ -1044,18 +1046,18 @@ def main():
             "standard_of_review_detail": review_detail,
             "review_standards": review_standards,
             "summary": summary,
-            "summary_review_status": override.get("summary_review_status") or audit.get("summary_review_status") or ("audited" if override.get("summary") else "pending_audit"),
+            "summary_review_status": override["summary_review_status"] if "summary_review_status" in override else (audit.get("summary_review_status") or ("audited" if override.get("summary") else "pending_audit")),
             "bco_provisions": bco,
             "topic_tags": topics,
-            "body": override.get("body") or record.get("body") or ("CJB" if int(official.get("year") or 9999) <= 1987 else "SJC"),
-            "decision_year": override.get("decision_year") or record.get("year") or official.get("year"),
-            "assembly": override.get("assembly") or record.get("ga_ordinal"),
+            "body": override["body"] if "body" in override else (record.get("body") or ("CJB" if int(official.get("year") or 9999) <= 1987 else "SJC")),
+            "decision_year": override["decision_year"] if "decision_year" in override else (record.get("year") or official.get("year")),
+            "assembly": override["assembly"] if "assembly" in override else record.get("ga_ordinal"),
             "dissent": override.get("dissent") if "dissent" in override else bool(record.get("has_dissent")),
             "case_page": page_file,
             "official_pdf_url": official.get("pdf_url"),
             "classification_status": classification_status,
-            "summary_source": override.get("summary_source") or audit.get("summary_source") or ("editorial_override" if override.get("summary") else None),
-            "summary_audit_basis": override.get("summary_audit_basis") or audit.get("summary_audit_basis"),
+            "summary_source": override["summary_source"] if "summary_source" in override else (audit.get("summary_source") or ("editorial_override" if override.get("summary") else None)),
+            "summary_audit_basis": override["summary_audit_basis"] if "summary_audit_basis" in override else audit.get("summary_audit_basis"),
         })
 
     rows.sort(key=lambda row: (row["case_id"] is None, row["case_id"] or row["roster_id"] or ""))
@@ -1075,12 +1077,12 @@ def main():
         if clean and record.get("title") != clean:
             record["title"] = clean
             synced += 1
-    if synced:
-        with open(CASES, "w", encoding="utf-8", newline="\n") as target:
+    if synced or os.path.abspath(CASES_OUT) != os.path.abspath(CASES):
+        with open(CASES_OUT, "w", encoding="utf-8", newline="\n") as target:
             for record in legacy_rows:
                 target.write(json.dumps(record, ensure_ascii=False) + "\n")
     print(f"[taxonomy] wrote {len(rows)} canonical judicial cases from {len(load_jsonl(ROSTER))} roster entries -> {OUT}")
-    print(f"           synced_titles={synced} -> {CASES}")
+    print(f"           synced_titles={synced} -> {CASES_OUT}")
     counts = defaultdict(int)
     for row in rows:
         counts[row["classification_status"]] += 1

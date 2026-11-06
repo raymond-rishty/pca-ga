@@ -403,8 +403,9 @@ def text_hits(path: Path) -> dict[str, list[dict[str, Any]]]:
 
 
 def main() -> None:
-    cases = {norm_case_num(c.get("case_number")): c for c in load_jsonl(IDX / "cases.jsonl") if c.get("case_number")}
-    taxonomy = {norm_case_num(c.get("case_id")): c for c in load_jsonl(IDX / "judicial_cases.jsonl") if c.get("case_id")}
+    records = ROOT / "data" / "cases" / "records"
+    cases = {norm_case_num(c.get("case_number")): c for c in load_jsonl(records / "cases.jsonl") if c.get("case_number")}
+    taxonomy = {norm_case_num(c.get("case_id")): c for c in load_jsonl(records / "judicial_cases.jsonl") if c.get("case_id")}
     page_map = load_json(IDX / "case_pages_map.json", {})
 
     rows: list[dict[str, Any]] = []

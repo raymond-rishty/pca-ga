@@ -64,7 +64,10 @@ import time
 ROOT = os.environ.get("PCA_GA_ROOT", os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 CHUNKS = os.path.join(ROOT, "index", "chunks.jsonl")
 DB_PATH = os.path.join(ROOT, "index", "pca_minutes.db")
-PAGE_JSONL_DIR = os.path.join(ROOT, "build", "page_jsonl")
+PAGE_JSONL_DIR = os.environ.get(
+    "PCA_CASE_PAGE_JSONL",
+    os.path.join(ROOT, "build", "page_jsonl"),
+)
 CITATION_CORRECTIONS = os.path.join(ROOT, "index", "citation_corrections.jsonl")
 
 # Facet columns that live as JSON arrays in chunks.jsonl. We store them both as

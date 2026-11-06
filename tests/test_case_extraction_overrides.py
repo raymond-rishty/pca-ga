@@ -14,7 +14,7 @@ SPEC.loader.exec_module(MODULE)
 class CaseExtractionOverrideTests(unittest.TestCase):
     @classmethod
     def setUpClass(cls):
-        cls.rows = json.loads((ROOT / "index" / "case_extraction_overrides.json").read_text(
+        cls.rows = json.loads((ROOT / "data" / "cases" / "overrides" / "case_extraction_overrides.json").read_text(
             encoding="utf-8"))
         cls.by_id = {case_id: row for row in cls.rows for case_id in row["case_ids"]}
 

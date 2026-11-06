@@ -117,8 +117,8 @@ def url_path(url: str) -> str:
 
 
 def build(root: Path) -> tuple[dict[str, Any], dict[str, Any]]:
-    cases = load_jsonl(root / "index/cases.jsonl")
-    roster = load_jsonl(root / "index/sjc_official/roster.jsonl")
+    cases = load_jsonl(root / "data/cases/records/cases.jsonl")
+    roster = load_jsonl(root / "data/cases/sources/sjc_official/roster.jsonl")
     inquiries = load_inquiries(root / "index/inquiries.jsonl")
     studies = load_json(root / "index/studies_pages.json")
     manifest = load_json(root / "index/studies_pdf_manifest.json")
@@ -256,7 +256,7 @@ def build(root: Path) -> tuple[dict[str, Any], dict[str, Any]]:
             row["pdf_url"],
             "case",
             numbers[0],
-            "index/sjc_official/roster.jsonl",
+            "data/cases/sources/sjc_official/roster.jsonl",
             notes="Listed by the repository's SJC official roster; PDF binary is external and not vendored.",
         )
         for number in numbers:
@@ -386,8 +386,8 @@ def build(root: Path) -> tuple[dict[str, Any], dict[str, Any]]:
         "schema_version": 1,
         "description": "Durable source identities for extracted PCA documents. Source IDs separate provenance data from URL rendering.",
         "generated_from": [
-            "index/cases.jsonl",
-            "index/sjc_official/roster.jsonl",
+            "data/cases/records/cases.jsonl",
+            "data/cases/sources/sjc_official/roster.jsonl",
             "index/inquiries.jsonl",
             "index/overture_bodies.jsonl",
             "index/rpr/*.json",
@@ -420,7 +420,7 @@ def build(root: Path) -> tuple[dict[str, Any], dict[str, Any]]:
         "schema_version": 1,
         "description": "Curated dedicated-PDF inventory. pdf_path is the stable external path beneath pcahistory.org; local_pdf_path is null because this repository does not vendor source PDF binaries.",
         "generated_from": [
-            "index/sjc_official/roster.jsonl",
+            "data/cases/sources/sjc_official/roster.jsonl",
             "index/studies_pdf_manifest.json",
             "index/studies_pcahistory.json",
         ],
@@ -523,8 +523,8 @@ def validate_registry(root: Path) -> list[str]:
                 errors.append(f"record {record_id} references unknown source {source_id}")
 
     for relative in (
-        "index/cases.jsonl",
-        "index/sjc_official/roster.jsonl",
+        "data/cases/records/cases.jsonl",
+        "data/cases/sources/sjc_official/roster.jsonl",
         "index/inquiries.jsonl",
         "index/overture_bodies.jsonl",
         "index/studies_pages.json",
@@ -544,7 +544,7 @@ def validate_registry(root: Path) -> list[str]:
         elif item.get("records") != item.get("with_source"):
             errors.append(f"coverage is incomplete for {record_type}")
 
-    case_records = load_jsonl(root / "index/cases.jsonl")
+    case_records = load_jsonl(root / "data/cases/records/cases.jsonl")
     for row in case_records:
         key = f"case:{row.get('case_id')}"
         if key not in record_sources:
@@ -552,7 +552,7 @@ def validate_registry(root: Path) -> list[str]:
 
     roster_urls = {
         canonical_pdf_url(row["pdf_url"])
-        for row in load_jsonl(root / "index/sjc_official/roster.jsonl")
+        for row in load_jsonl(root / "data/cases/sources/sjc_official/roster.jsonl")
         if row.get("has_pdf") and row.get("pdf_url")
     }
     inventory_urls_clean = {canonical_pdf_url(url) for url in inventory_urls}

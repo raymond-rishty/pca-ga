@@ -183,7 +183,7 @@ def test_non_merits_dispositions_do_not_receive_appellate_standards():
 def test_generated_catalog_carries_stable_evans_identity_and_all_roster_rows():
     rows = [
         __import__("json").loads(line)
-        for line in (ROOT / "index" / "judicial_cases.jsonl").read_text(encoding="utf-8").splitlines()
+        for line in (ROOT / "data" / "cases" / "records" / "judicial_cases.jsonl").read_text(encoding="utf-8").splitlines()
         if line.strip()
     ]
     assert len(rows) == 501
@@ -256,7 +256,7 @@ def test_generated_catalog_places_actions_between_heading_and_synopsis():
 def test_previously_unresolved_cases_have_source_grounded_classifications():
     rows = {
         row["case_id"]: row
-        for line in (ROOT / "index" / "judicial_cases.jsonl").read_text(encoding="utf-8").splitlines()
+        for line in (ROOT / "data" / "cases" / "records" / "judicial_cases.jsonl").read_text(encoding="utf-8").splitlines()
         if line.strip()
         for row in [__import__("json").loads(line)]
     }
@@ -291,10 +291,10 @@ def test_editorial_overrides_fill_source_grounded_summaries():
     json = __import__("json")
     rows = [
         json.loads(line)
-        for line in (ROOT / "index" / "judicial_cases.jsonl").read_text(encoding="utf-8").splitlines()
+        for line in (ROOT / "data" / "cases" / "records" / "judicial_cases.jsonl").read_text(encoding="utf-8").splitlines()
         if line.strip()
     ]
-    editorial = json.loads((ROOT / "index" / "judicial_case_editorial_overrides.json").read_text(encoding="utf-8"))
+    editorial = json.loads((ROOT / "data" / "cases" / "overrides" / "judicial_case_editorial_overrides.json").read_text(encoding="utf-8"))
     by_id = {row["case_id"]: row for row in rows if row.get("case_id")}
     assert len(editorial) >= 100
     assert all(by_id[cid]["summary"] == override["summary"] for cid, override in editorial.items() if "summary" in override)
@@ -311,7 +311,7 @@ def test_source_checked_disagreements_use_the_decisions_dispositions():
     json = __import__("json")
     rows = {
         row["case_id"]: row
-        for line in (ROOT / "index" / "judicial_cases.jsonl").read_text(encoding="utf-8").splitlines()
+        for line in (ROOT / "data" / "cases" / "records" / "judicial_cases.jsonl").read_text(encoding="utf-8").splitlines()
         if line.strip()
         for row in [json.loads(line)]
     }
@@ -343,7 +343,7 @@ def test_audited_identity_corrections_survive_auxiliary_case_merge():
     json = __import__("json")
     rows = {
         row["case_number"]: row
-        for line in (ROOT / "index" / "cases.jsonl").read_text(encoding="utf-8").splitlines()
+        for line in (ROOT / "data" / "cases" / "records" / "cases.jsonl").read_text(encoding="utf-8").splitlines()
         if line.strip()
         for row in [json.loads(line)]
         if row.get("case_number")
@@ -409,7 +409,7 @@ def test_public_case_titles_exclude_roster_metadata_and_procedural_labels():
     json = __import__("json")
     rows = [
         json.loads(line)
-        for line in (ROOT / "index" / "judicial_cases.jsonl").read_text(encoding="utf-8").splitlines()
+        for line in (ROOT / "data" / "cases" / "records" / "judicial_cases.jsonl").read_text(encoding="utf-8").splitlines()
         if line.strip()
     ]
     bad = re.compile(
@@ -432,7 +432,7 @@ def test_reported_malformed_titles_have_canonical_captions():
     json = __import__("json")
     canonical = {
         row["case_id"]: row["title"]
-        for line in (ROOT / "index" / "judicial_cases.jsonl").read_text(encoding="utf-8").splitlines()
+        for line in (ROOT / "data" / "cases" / "records" / "judicial_cases.jsonl").read_text(encoding="utf-8").splitlines()
         if line.strip()
         for row in [json.loads(line)]
     }

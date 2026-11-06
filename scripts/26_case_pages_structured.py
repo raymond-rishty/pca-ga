@@ -25,7 +25,7 @@ spec = importlib.util.spec_from_file_location("ce", f"{ROOT}/scripts/25_case_ext
 ce = importlib.util.module_from_spec(spec); spec.loader.exec_module(ce)
 
 OUT = f"{ROOT}/cases"
-TITLE_OVERRIDES = json.load(open(f"{ROOT}/index/case_title_overrides.json"))
+TITLE_OVERRIDES = json.load(open(f"{ROOT}/data/cases/overrides/case_title_overrides.json"))
 _OPIN = re.compile(r"^\**\s*((?:CONCURRING|DISSENTING|MAJORITY|SEPARATE)\s+OPINION[^*\n]*|"
                    r"OPINION OF THE COURT|DECISION(?: ON [A-Z ]+)?)\s*\**\s*$", re.I)
 # A consolidated decision may be printed under only one case-number header even though its holding

@@ -8,13 +8,13 @@ The Historical Center roster is an important coverage source, but it is not a
 complete list of the catalogue's dockets. Approved minutes-supported
 supplemental cases and explicitly consolidated companion dockets are also
 included. The Minutes remain the authority for verbatim decision text;
-`index/cases.jsonl` is the legacy case-centric corpus, combining extracted
-records with recovery/enrichment rows where available. It enriches the
-catalogue when a matching record exists.
+`data/cases/records/cases.jsonl` is the legacy case-centric corpus, combining
+extracted records with recovery/enrichment rows where available. It enriches
+the catalogue when a matching record exists.
 
 ## Identity
 
-`index/judicial_cases.jsonl` contains one record per unique canonical judicial
+`data/cases/records/judicial_cases.jsonl` contains one record per unique canonical judicial
 case assembled from the roster, approved supplemental cases, and explicit
 companion-docket rules. Duplicate source rows are collapsed. Therefore its
 record count can differ from the roster's row count and can change as source
@@ -114,7 +114,7 @@ not be treated as authoritative examples without reconciliation.
   reviewed in this pass.
 - `summary_source` and `summary_audit_basis` record the source layer and the
   repeatable quality gate used for the audit. `scripts/14_judicial_summary_audit.py`
-  writes `index/judicial_case_summary_audits.json`; editorial overrides remain
+  writes `data/cases/audits/judicial_case_summary_audits.json`; editorial overrides remain
   the place for substantive rewriting.
 - `bco_provisions` contains only provisions actually attributed to the case,
   normalized to bare codes such as `38-1` or `43-1`. Non-BCO constitutional

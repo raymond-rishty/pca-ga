@@ -79,7 +79,7 @@ def unique(values):
 
 
 def load_groups(root: Path) -> dict[str, list[dict]]:
-    source = root / "index" / "judicial_cases.jsonl"
+    source = root / "data" / "cases" / "records" / "judicial_cases.jsonl"
     groups: dict[str, list[dict]] = defaultdict(list)
     with source.open(encoding="utf-8") as handle:
         for line in handle:

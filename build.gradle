@@ -60,19 +60,19 @@ def registerCommand = { String taskName, List<String> command, Collection inputF
 }
 
 def sourceRegistryInputs = files(
-    file('index/cases.jsonl'), file('index/sjc_official/roster.jsonl'),
+    file('data/cases/records/cases.jsonl'), file('data/cases/sources/sjc_official/roster.jsonl'),
     file('index/inquiries.jsonl'), file('index/studies_pages.json'),
     file('index/studies_pdf_manifest.json'), file('index/studies_pcahistory.json'),
     file('index/overture_bodies.jsonl'), fileTree('index/rpr') { include 'ga*.json' }
 )
-def provisionCatalogueInputs = fileTree('index') {
+def provisionCatalogueInputs = files(fileTree('index') {
     exclude 'provision_catalogue.json', 'OVERTURES.md', 'overture_catalogue_corrections.jsonl',
         'source_registry.json', 'dedicated_pdf_inventory.json'
-}
-def searchIndexInputs = fileTree('index') {
+}, fileTree('data/cases'))
+def searchIndexInputs = files(fileTree('index') {
     exclude 'source_registry.json', 'dedicated_pdf_inventory.json'
-}
-def judicialCatalogueInputs = files(file('index/judicial_cases.jsonl'), file('index/cases.jsonl'))
+}, fileTree('data/cases'))
+def judicialCatalogueInputs = files(file('data/cases/records/judicial_cases.jsonl'), file('data/cases/records/cases.jsonl'))
 def searchIndexOutputs = fileTree('app') {
     include 'search_index.json', 'case_summaries_*.json', 'provision_search.json'
 }
@@ -147,9 +147,69 @@ linkOvertureCatalogue.configure { dependsOn reconcileOvertureCatalogue, regenera
 def reconcileCases = registerCommand(
     'reconcileCaseArtifacts', [pythonCommand, 'scripts/27_case_index_reconcile.py'],
     [generatorScripts, fileTree('cases'), file('index/CASES.md'), file('index/case_pages_map.json'),
-     file('index/case_pages_overrides.json')]
+     file('data/cases/overrides/case_pages_overrides.json')]
 )
 reconcileCases.configure { dependsOn checkPython }
+
+def buildSjcRoster = registerCommand(
+    'buildSjcRoster', [pythonCommand, 'scripts/sjc_roster.py', 'build'],
+    [generatorScripts, fileTree('data/cases/sources/sjc_official') {
+        exclude 'roster.jsonl'
+    }],
+    [file('data/cases/sources/sjc_official/roster.jsonl')]
+)
+buildSjcRoster.configure { dependsOn checkPython }
+
+def buildPageJsonl = registerCommand(
+    'buildPageJsonl', [pythonCommand, 'scripts/00_build_page_jsonl.py', '--markdown-only',
+                       '--output-root', 'build/case_page_jsonl'],
+    [file('scripts/00_build_page_jsonl.py'), fileTree('markdown') { include 'ga*.md' }],
+    [file('build/case_page_jsonl')]
+)
+buildPageJsonl.configure { dependsOn checkPython }
+
+def buildCaseCorpus = registerCommand(
+    'buildCaseCorpus', [pythonCommand, 'scripts/07_build_cases.py'],
+    [generatorScripts, file('index/chunks.jsonl'), fileTree('index/segments'), fileTree('build/case_page_jsonl'),
+     file('data/cases/overrides/case_metadata_overrides.json'),
+     file('data/cases/sources/sjc_official/roster.jsonl'),
+     fileTree('data/cases/recovery/hunt/found')],
+    [file('data/cases/derived/cases_extracted.jsonl'), file('data/cases/derived/case_citations.jsonl')]
+)
+buildCaseCorpus.configure {
+    dependsOn checkPython, buildSjcRoster, buildPageJsonl
+    environment 'PCA_CASES_RECORDS', file('data/cases/derived/cases_extracted.jsonl').absolutePath
+    environment 'PCA_CASE_CITATIONS', file('data/cases/derived/case_citations.jsonl').absolutePath
+    environment 'PCA_CASE_PAGE_JSONL', file('build/case_page_jsonl').absolutePath
+}
+
+def reconcileCaseRoster = registerCommand(
+    'reconcileCaseRoster', [pythonCommand, 'scripts/09_reconcile_roster.py', '--enrich'],
+    [generatorScripts, file('data/cases/derived/cases_extracted.jsonl'),
+     file('data/cases/sources/sjc_official/roster.jsonl')],
+    [file('data/cases/derived/cases_reconciled.jsonl'), file('data/cases/recovery/sjc_missing.jsonl')]
+)
+reconcileCaseRoster.configure {
+    dependsOn buildCaseCorpus
+    environment 'PCA_CASES_INPUT', file('data/cases/derived/cases_extracted.jsonl').absolutePath
+    environment 'PCA_CASES_OUTPUT', file('data/cases/derived/cases_reconciled.jsonl').absolutePath
+}
+
+def buildJudicialCaseRecords = registerCommand(
+    'buildJudicialCaseRecords', [pythonCommand, 'scripts/12_case_taxonomy.py', '.'],
+    [generatorScripts, file('data/cases/sources/sjc_official/roster.jsonl'),
+     file('data/cases/derived/cases_reconciled.jsonl'), file('data/cases/sources/cjb_cases.json'),
+     file('index/cjb_pages.json'), file('index/case_pages_map.json'),
+     file('data/cases/overrides/case_identity_overrides.json'),
+     file('data/cases/overrides/judicial_case_editorial_overrides.json'),
+     file('data/cases/audits/judicial_case_summary_audits.json')],
+    [file('data/cases/records/judicial_cases.jsonl'), file('data/cases/records/cases.jsonl')]
+)
+buildJudicialCaseRecords.configure {
+    dependsOn reconcileCaseRoster, reconcileCases
+    environment 'PCA_CASES_INPUT', file('data/cases/derived/cases_reconciled.jsonl').absolutePath
+    environment 'PCA_CASES_OUTPUT', file('data/cases/records/cases.jsonl').absolutePath
+}
 if (providers.gradleProperty('regenerateOvertures').isPresent()) {
     reconcileOvertureCatalogue.configure { dependsOn extractOvertureBodies }
     reconcileCases.configure { dependsOn regenerateOvertures }
@@ -157,9 +217,10 @@ if (providers.gradleProperty('regenerateOvertures').isPresent()) {
 
 def syncCaseCards = registerCommand(
     'syncCasePageCards', [pythonCommand, 'scripts/84_sync_case_page_metadata.py', '.'],
-    [generatorScripts, file('index/judicial_cases.jsonl'), fileTree('cases')]
+    [generatorScripts, file('data/cases/records/judicial_cases.jsonl'), fileTree('cases')]
 )
 syncCaseCards.configure { dependsOn reconcileCases }
+syncCaseCards.configure { dependsOn buildJudicialCaseRecords }
 
 def judicialCatalogue = registerCommand(
     'generateJudicialCatalogue', [pythonCommand, 'scripts/13_judicial_taxonomy_index.py', '.'],
@@ -170,7 +231,7 @@ judicialCatalogue.configure { dependsOn syncCaseCards }
 
 def caseProvisionIndex = registerCommand(
     'generateCaseProvisionIndex', [pythonCommand, 'scripts/44_case_provision_index.py', '.'],
-    [generatorScripts, file('index/cases.jsonl'), file('index/judicial_cases.jsonl'),
+    [generatorScripts, file('data/cases/records/cases.jsonl'), file('data/cases/records/judicial_cases.jsonl'),
      file('index/case_pages_map.json'), fileTree('cases')],
     [file('index/case_provision_index.json'), file('index/CASES-BY-PROVISION.md')], true
 )
@@ -274,6 +335,7 @@ def buildSourceRegistry = registerCommand(
 if (providers.gradleProperty('regenerateOvertures').isPresent()) {
     buildSourceRegistry.configure { dependsOn extractOvertureBodies }
 }
+buildSourceRegistry.configure { dependsOn buildJudicialCaseRecords }
 inquiryPages.configure { dependsOn buildSourceRegistry }
 
 // generateLlmPack already reaches the canonical source-registry task through
@@ -423,7 +485,7 @@ def siteSources = fileTree(projectDir) {
             '.claude/**', '.github/**', 'scripts/**', 'tests/**', 'cases-rebuilt/**',
             'evals/**', 'ocr-bakeoff/**', 'outputs/**', 'tmp/**', 'vendor/**',
             '**/*.jsonl', 'index/*.json', 'index/rpr/**', 'index/segments/**',
-            'index/hunt/**', 'index/sjc_official/**', 'index/digest/**',
+            'data/cases/**', 'index/digest/**',
             'index/structure/**', 'index/synopsis_workflow/**',
             'Gemfile', 'Gemfile.lock', 'build.gradle', 'settings.gradle',
             'gradle.properties', 'gradlew', 'gradlew.bat', 'gradle/**'
@@ -624,7 +686,7 @@ def fastPreview = tasks.register('fastPreview', Exec) {
             '.claude/**', '.github/**', 'scripts/**', 'tests/**', 'cases-rebuilt/**',
             'evals/**', 'ocr-bakeoff/**', 'outputs/**', 'tmp/**', 'vendor/**',
             '**/*.jsonl', 'index/*.json', 'index/rpr/**', 'index/segments/**',
-            'index/hunt/**', 'index/sjc_official/**', 'index/digest/**',
+            'data/cases/**', 'index/digest/**',
             'index/structure/**', 'index/synopsis_workflow/**',
             'Gemfile', 'Gemfile.lock', 'build.gradle', 'settings.gradle',
             'gradle.properties', 'gradlew', 'gradlew.bat', 'gradle/**'

@@ -22,6 +22,7 @@ from atomic_output import write_text_atomic
 ROOT = sys.argv[1] if len(sys.argv) > 1 else "/workspace"
 IDX = os.path.join(ROOT, "index")
 APP = os.path.join(ROOT, "app")
+CASE_RECORDS = os.path.join(ROOT, "data", "cases", "records")
 CASE_SUMMARY_CHUNK_SIZE = 200
 
 
@@ -114,7 +115,7 @@ def main():
         mm = re.match(r'^(\d{4})-(\d+)([a-z]?)$', str(n))
         return f"{mm.group(1)}-{int(mm.group(2))}{mm.group(3)}" if mm else str(n)
 
-    cases_jsonl_p = os.path.join(IDX, "cases.jsonl")
+    cases_jsonl_p = os.path.join(CASE_RECORDS, "cases.jsonl")
     case_provs: dict = {}       # norm_num -> list of "BCO X-Y" strings
     case_disps: dict = {}       # norm_num -> disposition string
     case_synopses: dict = {}    # norm_num -> editorial case headnote
@@ -124,7 +125,11 @@ def main():
     case_synopses_by_file = case_index_summaries()
     # Prefer the canonical editorial/search layer when it has been built, while
     # retaining cases.jsonl as a portable fallback for older worktrees.
-    taxonomy_rows = load_jsonl("judicial_cases.jsonl")
+    taxonomy_path = os.path.join(CASE_RECORDS, "judicial_cases.jsonl")
+    taxonomy_rows = []
+    if os.path.exists(taxonomy_path):
+        with open(taxonomy_path, encoding="utf-8") as source:
+            taxonomy_rows = [json.loads(line) for line in source if line.strip()]
     taxonomy_by_key = {
         _norm_num(r["case_id"]): r for r in taxonomy_rows if r.get("case_id")
     }
