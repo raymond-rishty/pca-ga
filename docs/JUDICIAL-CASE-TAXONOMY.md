@@ -121,6 +121,9 @@ not be treated as authoritative examples without reconciliation.
   references remain in prose or topics.
 - `topic_tags` is a small set of subject tags, not a list of every noun in the
   record.
+- `parties` preserves available named participants and respondent/court names
+  from the reconciled case record. Search can use these aliases alongside the
+  canonical title; a missing value does not imply that the title is incomplete.
 - `review_standards` is the single authoritative review facet. Its controlled
   values are `factual_findings`, `discretion_and_judgment`,
   `constitutional_interpretation`, and

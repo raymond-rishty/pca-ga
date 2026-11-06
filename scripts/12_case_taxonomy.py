@@ -1043,6 +1043,14 @@ def main():
             if "bco_provisions" in override
             else bco
         )
+        parties = record.get("parties") or {}
+        if not parties and (cjb or {}).get("parties"):
+            parties = {"raw": (cjb or {}).get("parties")}
+        if isinstance(parties, dict):
+            parties = {key: str(value).strip() for key, value in parties.items()
+                       if value and str(value).strip()}
+        elif parties:
+            parties = {"raw": str(parties).strip()}
         classification_status = "classified"
         if not cid and not (cjb or era_file):
             classification_status = "roster_only"
@@ -1058,6 +1066,7 @@ def main():
             "era_label": era_label,
             "minute_ids": minute_ids,
             "title": title,
+            "parties": parties,
             "matter_type": matter_type,
             "final_dispositions": final_dispositions,
             "disposition_detail": detail or None,

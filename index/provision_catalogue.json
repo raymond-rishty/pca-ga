@@ -13,7 +13,7 @@
    "rao.js": "49808bbb0e95abdc3b07506c87dde0d62d087851e869b49c0f1f2424986450ec"
   }
  },
- "input_fingerprint": "4c08657d5c7c609708ae8de1f9aa15f7eafe0cd658052c80b931380beead7fb4",
+ "input_fingerprint": "b14bda679d6a6f23c8a1b03d625b7a2db90e502f751f61c81582dc67e14bf16e",
  "input_files": [
   {
    "path": "cases/ga03_1975__case1.md",
@@ -2077,7 +2077,7 @@
   },
   {
    "path": "data/cases/records/judicial_cases.jsonl",
-   "sha256": "511f1f662bc39bec637c076e179e06051a4942f1369f5c91d347f9dbaf009d85"
+   "sha256": "75d7b6789f3e51021d5489466e170dcca4c87252d20860b712044457b7bb25a0"
   },
   {
    "path": "index/OVERTURES.md",

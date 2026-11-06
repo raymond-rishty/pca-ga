@@ -70,8 +70,8 @@ def provisionCatalogueInputs = files(fileTree('index') {
         'source_registry.json', 'dedicated_pdf_inventory.json'
 }, fileTree('data/cases'))
 def searchIndexInputs = files(fileTree('index') {
-    exclude 'source_registry.json', 'dedicated_pdf_inventory.json'
-}, fileTree('data/cases'))
+    exclude 'source_registry.json', 'dedicated_pdf_inventory.json', 'CASES.md'
+}, file('data/cases/records/judicial_cases.jsonl'))
 def judicialCatalogueInputs = files(file('data/cases/records/judicial_cases.jsonl'), file('data/cases/records/cases.jsonl'))
 def searchIndexOutputs = fileTree('app') {
     include 'search_index.json', 'case_summaries_*.json', 'provision_search.json'
