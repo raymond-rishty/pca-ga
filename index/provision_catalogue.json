@@ -13,7 +13,7 @@
    "rao.js": "49808bbb0e95abdc3b07506c87dde0d62d087851e869b49c0f1f2424986450ec"
   }
  },
- "input_fingerprint": "d715a0918d44595bfece20a4642a3777da45a9d09869e91358c6dc949bfd2c47",
+ "input_fingerprint": "4c08657d5c7c609708ae8de1f9aa15f7eafe0cd658052c80b931380beead7fb4",
  "input_files": [
   {
    "path": "cases/ga03_1975__case1.md",
@@ -309,23 +309,23 @@
   },
   {
    "path": "cases/ga20_1992__1991-01.md",
-   "sha256": "f3d92683fe92d5a3a1edbc8ac04cb597c2d8c75f196b68175cac7e9242bbc346"
+   "sha256": "9c236156fda3e31a8902aa5c0c5a94c0fadc9e83811f3fd777253645c9530fd8"
   },
   {
    "path": "cases/ga20_1992__1991-02.md",
-   "sha256": "b7884e1baa0044e608a34a398fdaec663f1130ad1f0f49c642d13e1985478593"
+   "sha256": "db113415992ffa267f9f76885b43c941653da49e76b820ee6c50590900d6d8be"
   },
   {
    "path": "cases/ga20_1992__1991-03.md",
-   "sha256": "fd2eca9322905dea0d4cf74aba014b2ecfc129b4210e4fb844eb9ca42e259c36"
+   "sha256": "3dad1c329c1d62c1b9f879d83e5e236a1c9f6d9cf3b362ccc308913f1478739f"
   },
   {
    "path": "cases/ga20_1992__1991-04.md",
-   "sha256": "b4d483837dd4c9aac31e3bbf6770d98554f7611353e85df3c3083c949ba8aacc"
+   "sha256": "8b5bc9f1aa5366f48e30577b12694fa485096a4a5a2ca0d41b652b44f1b2504b"
   },
   {
    "path": "cases/ga20_1992__1991-05.md",
-   "sha256": "ac50e4669d25f066aa38c38c1498c9e9db9797811f2470a73aada346a58dc7e9"
+   "sha256": "5dbe7f7d0e3f45fe1b467c92626472586a3d3854b273ca4301c0a548180d78ab"
   },
   {
    "path": "cases/ga20_1992__1991-06.md",
@@ -333,7 +333,7 @@
   },
   {
    "path": "cases/ga20_1992__1991-07.md",
-   "sha256": "a6d0bb3d6f947e6889d0c490754011e2a671e6ed0d8e8831e748628f1aa4a6f7"
+   "sha256": "e4a3075981dfabd452d20e434a619d40ccb4081ce6fa9690bfecf0b69eeca646"
   },
   {
    "path": "cases/ga20_1992__1992-01.md",
@@ -361,7 +361,7 @@
   },
   {
    "path": "cases/ga21_1993__1992-02.md",
-   "sha256": "aaaf3c3f622b438d038bdc57485853b56a2877448768554e1dd67c0f4e0b9744"
+   "sha256": "d9ed764e4bdf7ed3f9a617fb1e5bfd933579e7e750d02852b360df71e62581b0"
   },
   {
    "path": "cases/ga21_1993__1992-05.md",
@@ -581,7 +581,7 @@
   },
   {
    "path": "cases/ga26_1998__1997-07.md",
-   "sha256": "6e858586511cd1ed6772fa38fc7290a8c1162d34995c5a6b32162087f702306a"
+   "sha256": "5dc59e84bcfc10d622b866a67336a4f214d84c73096fbf762a3206e82386ae64"
   },
   {
    "path": "cases/ga26_1998__1997-08.md",
@@ -1041,7 +1041,7 @@
   },
   {
    "path": "cases/ga34_2006__stub_2005-03.md",
-   "sha256": "c114cf8bf08f1cd8a184085529a2bb2fccce250f0297b08a82dd8bafac441d35"
+   "sha256": "04799317c894378f6a472d19a74d54f16f4c32778ae5aba72ae20570887c8971"
   },
   {
    "path": "cases/ga34_2006__stub_2005-04.md",
@@ -1473,7 +1473,7 @@
   },
   {
    "path": "cases/ga42_2014__stub_2013-09.md",
-   "sha256": "915f3bb7751686672a18f1acb4e77fd4e9c7ae90f91e6ffc88a6c72adf64dae4"
+   "sha256": "95890b1b632e2b0188e86c3e546e9f33dd3dc2e172bded02aaa85111c72db3d2"
   },
   {
    "path": "cases/ga43_2015__2012-08.md",
@@ -2065,7 +2065,7 @@
   },
   {
    "path": "cases/ga52_2025__2025-12_2025-13.md",
-   "sha256": "154a4d8a2fdb5d225c4ee2af46c037bdddda469b50419f16c6b730345e7f4c4a"
+   "sha256": "8c2ba62afdd8e573aabee68eeb344ef561125ba5d8a81e6632e08885f2308bcc"
   },
   {
    "path": "cases/ga52_2025__stub_2025-07.md",
@@ -2097,7 +2097,7 @@
   },
   {
    "path": "index/case_provision_index.json",
-   "sha256": "e5922ae6ad65f14afc20fc4cf3d5a321308762eb0e248e8516b03fb2db4a4496"
+   "sha256": "38eac4be038aa23ea8920c04410d27345e58b986c71dbae76674ce3621ec8322"
   },
   {
    "path": "index/inquiries_search.json",
@@ -31839,11 +31839,11 @@
      "relevance_status": "unreviewed",
      "occurrences": [
       {
-       "id": "bco:pp-1--case:cases/ga20_1992__1991-04.md:occ-75f7000239e1",
+       "id": "bco:pp-1--case:cases/ga20_1992__1991-04.md:occ-aa6ba5bfc901",
        "url": "cases/ga20_1992__1991-04.md",
        "locator": {
         "fragment": null,
-        "line": 374
+        "line": 381
        },
        "excerpt": "2. (Record 6, #3): The Presbytery was never charged with the violation of BCO \"Preliminary Principle 1.\" NOTE NOTHING CORRESPONDING IN ANY SPECIFICATION OF ERROR FOUND IN THE COMPLAINT HEARD BY THE PRESBYTERY (RECORD 149-152).",
        "sources": [
@@ -33377,11 +33377,11 @@
      "relevance_status": "unreviewed",
      "occurrences": [
       {
-       "id": "bco:pp-2--case:cases/ga20_1992__1991-04.md:occ-16eea7a492aa",
+       "id": "bco:pp-2--case:cases/ga20_1992__1991-04.md:occ-de852e3025b7",
        "url": "cases/ga20_1992__1991-04.md",
        "locator": {
         "fragment": null,
-        "line": 788
+        "line": 795
        },
        "excerpt": "…and discipline are adopted freely, without imposition of any kind (cf. BCO Preliminary Principle 2). Full and free exercise of liberty of conscience and submission to God's ordinances of Church government are not in conflict but hold together in…",
        "sources": [
@@ -42700,11 +42700,11 @@
      "relevance_status": "unreviewed",
      "occurrences": [
       {
-       "id": "bco:2-2--case:cases/ga52_2025__2025-12_2025-13.md:occ-1e0631ee5cd0",
+       "id": "bco:2-2--case:cases/ga52_2025__2025-12_2025-13.md:occ-73da9359181e",
        "url": "cases/ga52_2025__2025-12_2025-13.md",
        "locator": {
         "fragment": null,
-        "line": 316
+        "line": 322
        },
        "excerpt": "Church by affiliating with some other branch ( BCO 2-2), if at the time of the",
        "sources": [
@@ -48460,11 +48460,11 @@
      "relevance_status": "unreviewed",
      "occurrences": [
       {
-       "id": "bco:4-4--case:cases/ga20_1992__1991-04.md:occ-a076f459aa8a",
+       "id": "bco:4-4--case:cases/ga20_1992__1991-04.md:occ-fbe0e62fe166",
        "url": "cases/ga20_1992__1991-04.md",
        "locator": {
         "fragment": null,
-        "line": 736
+        "line": 743
        },
        "excerpt": "…ordinances which Christ the Head has instituted in His Church, as listed in BCO 4-4, which does not include prophecy, tongues or interpretation of tongues, is an INADEQUATE STATEMENT of the ordinances of public worship. \"Ordinances\" by definition, are…",
        "sources": [
@@ -48477,11 +48477,11 @@
        "reader_scope": "primary"
       },
       {
-       "id": "bco:4-4--case:cases/ga20_1992__1991-04.md:occ-89f1ee37f395",
+       "id": "bco:4-4--case:cases/ga20_1992__1991-04.md:occ-499595158e71",
        "url": "cases/ga20_1992__1991-04.md",
        "locator": {
         "fragment": null,
-        "line": 852
+        "line": 859
        },
        "excerpt": "* Harrell, et. al cited further that TE Hopper affirmed that BCO 4-4, the paragraph in the Form of Government delineating the ordinances which \"Christ the Head has instituted in His Church,\" IS INADEQUATE AS A LISTING OF ORDINANCES FOR WORSHIP, BECAUSE IT…",
        "sources": [
@@ -58785,11 +58785,11 @@
      "relevance_status": "unreviewed",
      "occurrences": [
       {
-       "id": "bco:7-1--case:cases/ga20_1992__1991-04.md:occ-9cdf60c9efe5",
+       "id": "bco:7-1--case:cases/ga20_1992__1991-04.md:occ-8cd6681eda73",
        "url": "cases/ga20_1992__1991-04.md",
        "locator": {
         "fragment": null,
-        "line": 573
+        "line": 580
        },
        "excerpt": "…since God completed His revelation at the conclusion of the Apostolic Age.\" (BCO 7-1). To be more specific, New Testament prophets have no successors, since they were part of the necessary FOUNDATION of the Church.",
        "sources": [
@@ -58802,11 +58802,11 @@
        "reader_scope": "primary"
       },
       {
-       "id": "bco:7-1--case:cases/ga20_1992__1991-04.md:occ-a9b38bc42b85",
+       "id": "bco:7-1--case:cases/ga20_1992__1991-04.md:occ-fb22daa4534d",
        "url": "cases/ga20_1992__1991-04.md",
        "locator": {
         "fragment": null,
-        "line": 854
+        "line": 861
        },
        "excerpt": "* BCO 7-1, which states that \"such officers and GIFTS related to new revelation have no successors since God completed His revelation at the conclusion of the Apostolic Age\" and the fact that TE Hopper denies that \"the New Testament teaches the necessary…",
        "sources": [
@@ -58819,11 +58819,11 @@
        "reader_scope": "primary"
       },
       {
-       "id": "bco:7-1--case:cases/ga20_1992__1991-04.md:occ-b9e1d204d843",
+       "id": "bco:7-1--case:cases/ga20_1992__1991-04.md:occ-d25c41594295",
        "url": "cases/ga20_1992__1991-04.md",
        "locator": {
         "fragment": null,
-        "line": 902
+        "line": 909
        },
        "excerpt": "…since God completed His revelation at the conclusion of the Apostolic Age.\" BCO 7-1. Every serious view of New Testament prophecy, tongues, and the interpretation of tongues acknowledges that these gifts were RELATED TO new revelation in the New…",
        "sources": [
@@ -59889,11 +59889,11 @@
      "relevance_status": "unreviewed",
      "occurrences": [
       {
-       "id": "bco:7-2--case:cases/ga20_1992__1991-04.md:occ-c8258550d7ae",
+       "id": "bco:7-2--case:cases/ga20_1992__1991-04.md:occ-8dd4e216ffe5",
        "url": "cases/ga20_1992__1991-04.md",
        "locator": {
         "fragment": null,
-        "line": 856
+        "line": 863
        },
        "excerpt": "* BCO 7-2 dealing with officers in the Church necessarily being male, and TE Hopper's view that WOMEN OUGHT TO BE ALLOWED TO PROPHESY IN PUBLIC WORSHIP, such women being permitted to bring a \"counsel of encouragement to the congregation\";",
        "sources": [
@@ -59906,11 +59906,11 @@
        "reader_scope": "primary"
       },
       {
-       "id": "bco:7-2--case:cases/ga20_1992__1991-04.md:occ-fb64522d6640",
+       "id": "bco:7-2--case:cases/ga20_1992__1991-04.md:occ-97d2e74df9dd",
        "url": "cases/ga20_1992__1991-04.md",
        "locator": {
         "fragment": null,
-        "line": 858
+        "line": 865
        },
        "excerpt": "* BCO 7-2 stating that the \"ordinary and perpetual classes of office in the Church are elders and deacons\" and the establishment of a de facto third office in the Church, the office of \"prophet\";",
        "sources": [
@@ -65626,11 +65626,11 @@
      "relevance_status": "unreviewed",
      "occurrences": [
       {
-       "id": "bco:8-7--case:cases/ga52_2025__2025-12_2025-13.md:occ-cbcf4b27afce",
+       "id": "bco:8-7--case:cases/ga52_2025__2025-12_2025-13.md:occ-059cb632efa5",
        "url": "cases/ga52_2025__2025-12_2025-13.md",
        "locator": {
         "fragment": null,
-        "line": 382
+        "line": 388
        },
        "excerpt": "for these men to labor out of bounds per BCO 8-7, consider the options offered in the",
        "sources": [
@@ -84391,11 +84391,11 @@
      "relevance_status": "unreviewed",
      "occurrences": [
       {
-       "id": "bco:11-3--case:cases/ga20_1992__1991-05.md:occ-419f76c56e6f",
+       "id": "bco:11-3--case:cases/ga20_1992__1991-05.md:occ-c928cedae989",
        "url": "cases/ga20_1992__1991-05.md",
        "locator": {
         "fragment": null,
-        "line": 78
+        "line": 85
        },
        "excerpt": "All Church courts are one in nature, constituted of the same elements, possessed inherently of the same kinds of rights and powers, and differing only as the Constitution may provide (BCO 11-3).",
        "sources": [
@@ -88346,11 +88346,11 @@
      "relevance_status": "unreviewed",
      "occurrences": [
       {
-       "id": "bco:11-4--case:cases/ga20_1992__1991-05.md:occ-e404a0040ff3",
+       "id": "bco:11-4--case:cases/ga20_1992__1991-05.md:occ-38df37588721",
        "url": "cases/ga20_1992__1991-05.md",
        "locator": {
         "fragment": null,
-        "line": 85
+        "line": 92
        },
        "excerpt": "the injury of the peace, purity, or progress of the Church (BCO 11-4).",
        "sources": [
@@ -88400,11 +88400,11 @@
      "relevance_status": "unreviewed",
      "occurrences": [
       {
-       "id": "bco:11-4--case:cases/ga20_1992__1991-02.md:occ-5513805ef29d",
+       "id": "bco:11-4--case:cases/ga20_1992__1991-02.md:occ-20316b1ab8df",
        "url": "cases/ga20_1992__1991-02.md",
        "locator": {
         "fragment": null,
-        "line": 130
+        "line": 137
        },
        "excerpt": "…for a 'Session pro tem' in the BCO of the Presbyterian Church in America (BCO 11-4) or for officers to be placed in authority over a congregation without its consent\" (M19GA, Exhibit B, IV, 4; page 492).",
        "sources": [
@@ -101823,11 +101823,11 @@
      "relevance_status": "unreviewed",
      "occurrences": [
       {
-       "id": "bco:13-2--case:cases/ga52_2025__2025-12_2025-13.md:occ-4170c960713d",
+       "id": "bco:13-2--case:cases/ga52_2025__2025-12_2025-13.md:occ-ae768596a89f",
        "url": "cases/ga52_2025__2025-12_2025-13.md",
        "locator": {
         "fragment": null,
-        "line": 215
+        "line": 221
        },
        "excerpt": "BCO 13-2. A minister shall be required to hold his membership in the",
        "sources": [
@@ -101840,11 +101840,11 @@
        "reader_scope": "primary"
       },
       {
-       "id": "bco:13-2--case:cases/ga52_2025__2025-12_2025-13.md:occ-9508fad7904b",
+       "id": "bco:13-2--case:cases/ga52_2025__2025-12_2025-13.md:occ-c3e732c786e1",
        "url": "cases/ga52_2025__2025-12_2025-13.md",
        "locator": {
         "fragment": null,
-        "line": 215
+        "line": 221
        },
        "excerpt": "BCO 13-2. A minister shall be required to hold his membership in the",
        "sources": [
@@ -140755,11 +140755,11 @@
      "relevance_status": "unreviewed",
      "occurrences": [
       {
-       "id": "bco:13-9--case:cases/ga21_1993__1992-02.md:occ-667afb661cd5",
+       "id": "bco:13-9--case:cases/ga21_1993__1992-02.md:occ-6e44cc86b847",
        "url": "cases/ga21_1993__1992-02.md",
        "locator": {
         "fragment": null,
-        "line": 57
+        "line": 64
        },
        "excerpt": "Respondent New River Presbytery has argued that BCO 13-9 \"asserts the power of Presbytery to dissolve the pastoral relation, but not its obligation.\" This section of the Book of Church Order simply enumerates the powers of presbyteries, but cannot be cited to…",
        "sources": [
@@ -140775,11 +140775,11 @@
        "reader_scope": "primary"
       },
       {
-       "id": "bco:13-9--case:cases/ga21_1993__1992-02.md:occ-8f4b60175264",
+       "id": "bco:13-9--case:cases/ga21_1993__1992-02.md:occ-6a7d3525a095",
        "url": "cases/ga21_1993__1992-02.md",
        "locator": {
         "fragment": null,
-        "line": 74
+        "line": 81
        },
        "excerpt": "…given it by the Constitution of the Presbyterian Church in America in The Book of Church Order 13-9, c: \"[t]o establish the pastoral relation and to dissolve it at the request of one or both of the parties, or where the interest of religion demands it.\"…",
        "sources": [
@@ -140836,11 +140836,11 @@
      "relevance_status": "unreviewed",
      "occurrences": [
       {
-       "id": "bco:13-9--case:cases/ga20_1992__1991-07.md:occ-970df5954121",
+       "id": "bco:13-9--case:cases/ga20_1992__1991-07.md:occ-6a10a6dd3bd2",
        "url": "cases/ga20_1992__1991-07.md",
        "locator": {
         "fragment": null,
-        "line": 161
+        "line": 168
        },
        "excerpt": "or documentation relating to a church which had been clearly affected with disorder (BCO 13-9 [f]",
        "sources": [
@@ -140853,11 +140853,11 @@
        "reader_scope": "primary"
       },
       {
-       "id": "bco:13-9--case:cases/ga20_1992__1991-07.md:occ-c639e03b35e8",
+       "id": "bco:13-9--case:cases/ga20_1992__1991-07.md:occ-f5a2abecabdd",
        "url": "cases/ga20_1992__1991-07.md",
        "locator": {
         "fragment": null,
-        "line": 173
+        "line": 180
        },
        "excerpt": "1991. Complaint (R. 3). Appellant asserts that failure of the Presbytery to respond to such a request is in violation of BCO 13-9.",
        "sources": [
@@ -141060,11 +141060,11 @@
      "relevance_status": "unreviewed",
      "occurrences": [
       {
-       "id": "bco:13-9--case:cases/ga20_1992__1991-04.md:occ-7d80369dc971",
+       "id": "bco:13-9--case:cases/ga20_1992__1991-04.md:occ-e5651c487292",
        "url": "cases/ga20_1992__1991-04.md",
        "locator": {
         "fragment": null,
-        "line": 756
+        "line": 763
        },
        "excerpt": "…condemn erroneous opinions which injure the purity and peace of the Church\" (BCO 13-9 f). This is, of course, not only a right but a responsibility. God has given the James River Presbytery an important interest in the preaching of its ministers (cf. Titus…",
        "sources": [
@@ -182881,11 +182881,11 @@
      "relevance_status": "unreviewed",
      "occurrences": [
       {
-       "id": "bco:14-7--case:cases/ga20_1992__1991-04.md:occ-0a7638972f05",
+       "id": "bco:14-7--case:cases/ga20_1992__1991-04.md:occ-b39a5277c613",
        "url": "cases/ga20_1992__1991-04.md",
        "locator": {
         "fragment": null,
-        "line": 826
+        "line": 833
        },
        "excerpt": "…deliverance was given due consideration in the Presbytery debates according to BCO 14-7. We also note however that this was the deliverance of one General Assembly, whereas every one of our constitutional documents was ratified by two General Assemblies and…",
        "sources": [
@@ -218084,11 +218084,11 @@
      "relevance_status": "unreviewed",
      "occurrences": [
       {
-       "id": "bco:15-5--case:cases/ga21_1993__1992-02.md:occ-b965486b05b5",
+       "id": "bco:15-5--case:cases/ga21_1993__1992-02.md:occ-04ad6233866a",
        "url": "cases/ga21_1993__1992-02.md",
        "locator": {
         "fragment": null,
-        "line": 179
+        "line": 186
        },
        "excerpt": "…the Book of Church Order does not allow \"question or debate or discussion\" (BCO 15-5) during the report concening a judicial case it is absolutely essential that the judgment of the Standing Judicial Commission on Case 92-2 be disapproved. The General…",
        "sources": [
@@ -218206,11 +218206,11 @@
      "relevance_status": "unreviewed",
      "occurrences": [
       {
-       "id": "bco:15-5--case:cases/ga20_1992__1991-05.md:occ-f308be70e515",
+       "id": "bco:15-5--case:cases/ga20_1992__1991-05.md:occ-e7271bf2efde",
        "url": "cases/ga20_1992__1991-05.md",
        "locator": {
         "fragment": null,
-        "line": 257
+        "line": 264
        },
        "excerpt": "…The following judgment of the Judicial Panel was not affirmed by the SJC. BCO 15-5 requires that \"any recommended judgment of the judicial panel\" be reported to the General Assembly. The SJC, after a full hearing, returned the judgment found in the…",
        "sources": [
@@ -221936,11 +221936,11 @@
      "relevance_status": "unreviewed",
      "occurrences": [
       {
-       "id": "bco:16-2--case:cases/ga21_1993__1992-02.md:occ-d807ceda7f32",
+       "id": "bco:16-2--case:cases/ga21_1993__1992-02.md:occ-0652ed2e2d06",
        "url": "cases/ga21_1993__1992-02.md",
        "locator": {
         "fragment": null,
-        "line": 138
+        "line": 145
        },
        "excerpt": "…provision for Biblical oversight by the Session is not contrary to BCO 16-2's provision for the congregation to elect its own officers. Even though 24-6 relates only to the Ruling Elder, it sheds light on the case of dissolving the pastoral…",
        "sources": [
@@ -286086,11 +286086,11 @@
      "relevance_status": "unreviewed",
      "occurrences": [
       {
-       "id": "bco:20-8--case:cases/ga52_2025__2025-12_2025-13.md:occ-fa13524c902f",
+       "id": "bco:20-8--case:cases/ga52_2025__2025-12_2025-13.md:occ-49abcf98e697",
        "url": "cases/ga52_2025__2025-12_2025-13.md",
        "locator": {
         "fragment": null,
-        "line": 249
+        "line": 255
        },
        "excerpt": "and the Presbytery (BCO 20-8 and 21-1). Thus, the establishment of a call requires a formal",
        "sources": [
@@ -289145,11 +289145,11 @@
      "relevance_status": "unreviewed",
      "occurrences": [
       {
-       "id": "bco:21-1--case:cases/ga21_1993__1992-02.md:occ-d36b3f5049d4",
+       "id": "bco:21-1--case:cases/ga21_1993__1992-02.md:occ-43725c9d2415",
        "url": "cases/ga21_1993__1992-02.md",
        "locator": {
         "fragment": null,
-        "line": 138
+        "line": 145
        },
        "excerpt": "…into the hands of the person called. The BCO even goes beyond this provision. BCO 21-1 says: \"When a call has been presented to the Presbytery, if found in order and the Presbytery deem it for the good of the Church, they shall place it in the hands of the…",
        "sources": [
@@ -356789,11 +356789,11 @@
      "relevance_status": "unreviewed",
      "occurrences": [
       {
-       "id": "bco:23-1--case:cases/ga52_2025__2025-12_2025-13.md:occ-35a2625d04b3",
+       "id": "bco:23-1--case:cases/ga52_2025__2025-12_2025-13.md:occ-e3317edebca7",
        "url": "cases/ga52_2025__2025-12_2025-13.md",
        "locator": {
         "fragment": null,
-        "line": 251
+        "line": 257
        },
        "excerpt": "necessarily involve a formal action by Presbytery ( BCO 23-1). In this case, the Record",
        "sources": [
@@ -357643,11 +357643,11 @@
      "relevance_status": "unreviewed",
      "occurrences": [
       {
-       "id": "bco:23-1--case:cases/ga21_1993__1992-02.md:occ-990e9b00e94d",
+       "id": "bco:23-1--case:cases/ga21_1993__1992-02.md:occ-bdb43bab98b7",
        "url": "cases/ga21_1993__1992-02.md",
        "locator": {
         "fragment": null,
-        "line": 53
+        "line": 60
        },
        "excerpt": "…with Providence Reformed Presbyterian Church? III. The Judgment Yes. Book of Church Order 23-1 provides that \"When any minister shall tender the resignation of his pastoral charge to his Presbytery, the Presbytery shall cite the church to appear by…",
        "sources": [
@@ -357663,51 +357663,11 @@
        "reader_scope": "primary"
       },
       {
-       "id": "bco:23-1--case:cases/ga21_1993__1992-02.md:occ-763b6af78db9",
+       "id": "bco:23-1--case:cases/ga21_1993__1992-02.md:occ-12175f19a532",
        "url": "cases/ga21_1993__1992-02.md",
        "locator": {
         "fragment": null,
-        "line": 68
-       },
-       "excerpt": "The provision of BCO 23-1 specifically notes that regarding the dissolution of a pastoral relationship: \"If the church fail to appear, or if its reasons for retaining its pastor be deemed insufficient, his resignation shall be accepted and the pastoral…",
-       "sources": [
-        "case_markdown_text",
-        "cases.jsonl:bco_cited_as",
-        "cases.jsonl:bco_cited_current",
-        "judicial_cases.jsonl:bco_provisions"
-       ],
-       "evidence_basis": "direct_text",
-       "relationship_kind": "explicit_citation",
-       "match_method": "case_provision_index:case_markdown_text,cases.jsonl:bco_cited_as,cases.jsonl:bco_cited_current,judicial_cases.jsonl:bco_provisions",
-       "match_confidence": "high",
-       "reader_scope": "primary"
-      },
-      {
-       "id": "bco:23-1--case:cases/ga21_1993__1992-02.md:occ-a20d373c3402",
-       "url": "cases/ga21_1993__1992-02.md",
-       "locator": {
-        "fragment": null,
-        "line": 68
-       },
-       "excerpt": "…relationship dissolved.\" It is interesting that the only specific reference in BCO 23-1 to a determination of whether the dissolution of the pastoral relationship with the senior pastor was brought about in good order is as it relates to the matter of an…",
-       "sources": [
-        "case_markdown_text",
-        "cases.jsonl:bco_cited_as",
-        "cases.jsonl:bco_cited_current",
-        "judicial_cases.jsonl:bco_provisions"
-       ],
-       "evidence_basis": "direct_text",
-       "relationship_kind": "explicit_citation",
-       "match_method": "case_provision_index:case_markdown_text,cases.jsonl:bco_cited_as,cases.jsonl:bco_cited_current,judicial_cases.jsonl:bco_provisions",
-       "match_confidence": "high",
-       "reader_scope": "primary"
-      },
-      {
-       "id": "bco:23-1--case:cases/ga21_1993__1992-02.md:occ-b8cd628119c2",
-       "url": "cases/ga21_1993__1992-02.md",
-       "locator": {
-        "fragment": null,
-        "line": 68
+        "line": 75
        },
        "excerpt": "…and General Assembly affirmed that \"the discretion given to a Presbytery under BCO 23-1 does not give a Presbytery power to prevent the implementation of a valid decision of a congregation.\" That \"valid decision of a congregation\" must be understood to…",
        "sources": [
@@ -357723,13 +357683,13 @@
        "reader_scope": "primary"
       },
       {
-       "id": "bco:23-1--case:cases/ga21_1993__1992-02.md:occ-b1c24331bc25",
+       "id": "bco:23-1--case:cases/ga21_1993__1992-02.md:occ-30855421ec47",
        "url": "cases/ga21_1993__1992-02.md",
        "locator": {
         "fragment": null,
-        "line": 138
+        "line": 75
        },
-       "excerpt": "…The only conclusion that can be made, therefore, is that \"shall\" in BCO 23-1 is used in the descriptive way, not the prescriptive way. Any other interpretation of 23-1 removes the power to dissolve the pastoral relation from the Presbytery. The…",
+       "excerpt": "The provision of BCO 23-1 specifically notes that regarding the dissolution of a pastoral relationship: \"If the church fail to appear, or if its reasons for retaining its pastor be deemed insufficient, his resignation shall be accepted and the pastoral…",
        "sources": [
         "case_markdown_text",
         "cases.jsonl:bco_cited_as",
@@ -357743,13 +357703,53 @@
        "reader_scope": "primary"
       },
       {
-       "id": "bco:23-1--case:cases/ga21_1993__1992-02.md:occ-e130c299648f",
+       "id": "bco:23-1--case:cases/ga21_1993__1992-02.md:occ-46ca9a4a17f7",
        "url": "cases/ga21_1993__1992-02.md",
        "locator": {
         "fragment": null,
-        "line": 138
+        "line": 75
+       },
+       "excerpt": "…relationship dissolved.\" It is interesting that the only specific reference in BCO 23-1 to a determination of whether the dissolution of the pastoral relationship with the senior pastor was brought about in good order is as it relates to the matter of an…",
+       "sources": [
+        "case_markdown_text",
+        "cases.jsonl:bco_cited_as",
+        "cases.jsonl:bco_cited_current",
+        "judicial_cases.jsonl:bco_provisions"
+       ],
+       "evidence_basis": "direct_text",
+       "relationship_kind": "explicit_citation",
+       "match_method": "case_provision_index:case_markdown_text,cases.jsonl:bco_cited_as,cases.jsonl:bco_cited_current,judicial_cases.jsonl:bco_provisions",
+       "match_confidence": "high",
+       "reader_scope": "primary"
+      },
+      {
+       "id": "bco:23-1--case:cases/ga21_1993__1992-02.md:occ-8cb242184b0e",
+       "url": "cases/ga21_1993__1992-02.md",
+       "locator": {
+        "fragment": null,
+        "line": 145
        },
        "excerpt": "…portion of that decision that says \"the discretion given to a Presbytery under BCO 23-1 does not give a Presbytery power to prevent the implementation of a valid decision of a congregation\". The majority applies that \"valid decision of a congregation\" to…",
+       "sources": [
+        "case_markdown_text",
+        "cases.jsonl:bco_cited_as",
+        "cases.jsonl:bco_cited_current",
+        "judicial_cases.jsonl:bco_provisions"
+       ],
+       "evidence_basis": "direct_text",
+       "relationship_kind": "explicit_citation",
+       "match_method": "case_provision_index:case_markdown_text,cases.jsonl:bco_cited_as,cases.jsonl:bco_cited_current,judicial_cases.jsonl:bco_provisions",
+       "match_confidence": "high",
+       "reader_scope": "primary"
+      },
+      {
+       "id": "bco:23-1--case:cases/ga21_1993__1992-02.md:occ-9156b3ad92e9",
+       "url": "cases/ga21_1993__1992-02.md",
+       "locator": {
+        "fragment": null,
+        "line": 145
+       },
+       "excerpt": "…The only conclusion that can be made, therefore, is that \"shall\" in BCO 23-1 is used in the descriptive way, not the prescriptive way. Any other interpretation of 23-1 removes the power to dissolve the pastoral relation from the Presbytery. The…",
        "sources": [
         "case_markdown_text",
         "cases.jsonl:bco_cited_as",
@@ -357862,11 +357862,11 @@
      "relevance_status": "unreviewed",
      "occurrences": [
       {
-       "id": "bco:23-1--case:cases/ga20_1992__1991-02.md:occ-15dd1b63ec17",
+       "id": "bco:23-1--case:cases/ga20_1992__1991-02.md:occ-4aaa7ceaca69",
        "url": "cases/ga20_1992__1991-02.md",
        "locator": {
         "fragment": null,
-        "line": 156
+        "line": 163
        },
        "excerpt": "…be read as indicating that a Presbytery has a wide discretionary power under BCO 23-1, the discretion given to a Presbytery under BCO 23-1 does not give a Presbytery power to prevent the implementation of a valid decision of a congregation.",
        "sources": [
@@ -357882,11 +357882,11 @@
        "reader_scope": "primary"
       },
       {
-       "id": "bco:23-1--case:cases/ga20_1992__1991-02.md:occ-2288e0205aac",
+       "id": "bco:23-1--case:cases/ga20_1992__1991-02.md:occ-575625e353f6",
        "url": "cases/ga20_1992__1991-02.md",
        "locator": {
         "fragment": null,
-        "line": 156
+        "line": 163
        },
        "excerpt": "…discretionary power under BCO 23-1, the discretion given to a Presbytery under BCO 23-1 does not give a Presbytery power to prevent the implementation of a valid decision of a congregation.",
        "sources": [
@@ -357902,11 +357902,11 @@
        "reader_scope": "primary"
       },
       {
-       "id": "bco:23-1--case:cases/ga20_1992__1991-02.md:occ-2df5fd50bca9",
+       "id": "bco:23-1--case:cases/ga20_1992__1991-02.md:occ-a8a238d4fa9e",
        "url": "cases/ga20_1992__1991-02.md",
        "locator": {
         "fragment": null,
-        "line": 255
+        "line": 262
        },
        "excerpt": "…about in Christian love and good order on the part of the parties concenmed.' BCO 23-1.\"",
        "sources": [
@@ -357922,11 +357922,11 @@
        "reader_scope": "primary"
       },
       {
-       "id": "bco:23-1--case:cases/ga20_1992__1991-02.md:occ-1691677efd09",
+       "id": "bco:23-1--case:cases/ga20_1992__1991-02.md:occ-613b1c9b7f62",
        "url": "cases/ga20_1992__1991-02.md",
        "locator": {
         "fragment": null,
-        "line": 263
+        "line": 270
        },
        "excerpt": "…about in Christian love and good order on the part of the parties concerned (BCO 23-1).\"",
        "sources": [
@@ -381231,11 +381231,11 @@
      "relevance_status": "unreviewed",
      "occurrences": [
       {
-       "id": "bco:24-5--case:cases/ga20_1992__1991-05.md:occ-620fcf46ea76",
+       "id": "bco:24-5--case:cases/ga20_1992__1991-05.md:occ-64bbdbc37606",
        "url": "cases/ga20_1992__1991-05.md",
        "locator": {
         "fragment": null,
-        "line": 609
+        "line": 616
        },
        "excerpt": "…the office of elder to serve on the Session, that they could fulfill vow 5 in BCO 24-5: \"Do you promise subjection to your brethren in the Lord?\" Let me read the next vow: Do you promise to strive for the purity, peace, unity, and edification of the…",
        "sources": [
@@ -381282,11 +381282,11 @@
      "relevance_status": "unreviewed",
      "occurrences": [
       {
-       "id": "bco:24-5--case:cases/ga20_1992__1991-02.md:occ-65d09294a673",
+       "id": "bco:24-5--case:cases/ga20_1992__1991-02.md:occ-c67da3b9ebf0",
        "url": "cases/ga20_1992__1991-02.md",
        "locator": {
         "fragment": null,
-        "line": 44
+        "line": 51
        },
        "excerpt": "…were identical; that each ruling elder had violated his ordination vows (BCO 24-5, #4, 5 & 6) and thereby violated the ninth commandment. The Complainants argued that this constituted a dereliction of duty to strive for the peace, unity and purity of…",
        "sources": [
@@ -383382,11 +383382,11 @@
      "relevance_status": "unreviewed",
      "occurrences": [
       {
-       "id": "bco:24-6--case:cases/ga21_1993__1992-02.md:occ-8facd7f323f4",
+       "id": "bco:24-6--case:cases/ga21_1993__1992-02.md:occ-628f3d1e399d",
        "url": "cases/ga21_1993__1992-02.md",
        "locator": {
         "fragment": null,
-        "line": 138
+        "line": 145
        },
        "excerpt": "…was biblically correct. The Respondent's brief is helpful in pointing out that BCO 24-6 gives the Session discretion in dissolving a relationship between a Ruling Elder and a local congregation when the dissolution is requested by the congregation or when…",
        "sources": [
@@ -407716,11 +407716,11 @@
      "relevance_status": "unreviewed",
      "occurrences": [
       {
-       "id": "bco:29-1--case:cases/ga20_1992__1991-04.md:occ-d7c9cc30f57c",
+       "id": "bco:29-1--case:cases/ga20_1992__1991-04.md:occ-ada3a84a1fb6",
        "url": "cases/ga20_1992__1991-04.md",
        "locator": {
         "fragment": null,
-        "line": 756
+        "line": 763
        },
        "excerpt": "…which we take to be a standard exposition of the teaching of Scripture (BCO 29-1), explicitly gives the right to Presbyteries \"to judge ministers,\" (BCO 13-9 a) and \"to condemn erroneous opinions which injure the purity and peace of the Church\" (BCO…",
        "sources": [
@@ -407733,11 +407733,11 @@
        "reader_scope": "primary"
       },
       {
-       "id": "bco:29-1--case:cases/ga20_1992__1991-04.md:occ-b7d639e5a1bb",
+       "id": "bco:29-1--case:cases/ga20_1992__1991-04.md:occ-9d5fbc11aef0",
        "url": "cases/ga20_1992__1991-04.md",
        "locator": {
         "fragment": null,
-        "line": 828
+        "line": 835
        },
        "excerpt": "…because adopted as \"standard exposition[s] of the teaching of Scripture\" (BCO 29-1).",
        "sources": [
@@ -407750,11 +407750,11 @@
        "reader_scope": "primary"
       },
       {
-       "id": "bco:29-1--case:cases/ga20_1992__1991-04.md:occ-7fdef970c0a2",
+       "id": "bco:29-1--case:cases/ga20_1992__1991-04.md:occ-dd26262a3e3a",
        "url": "cases/ga20_1992__1991-04.md",
        "locator": {
         "fragment": null,
-        "line": 878
+        "line": 885
        },
        "excerpt": "…of the teachings of Scripture in relation to both faith and practice\" (BCO 29-1), since all Elders in our Church have taken vows to this effect. In April 1990, Presbytery disallowed the teaching of Mr. Hopper's views for a specific period of time…",
        "sources": [
@@ -418303,11 +418303,11 @@
      "relevance_status": "unreviewed",
      "occurrences": [
       {
-       "id": "bco:31-1--case:cases/ga20_1992__1991-02.md:occ-58fc7f7fdc15",
+       "id": "bco:31-1--case:cases/ga20_1992__1991-02.md:occ-0e1b34a7662a",
        "url": "cases/ga20_1992__1991-02.md",
        "locator": {
         "fragment": null,
-        "line": 46
+        "line": 53
        },
        "excerpt": "…Flye.\" They asserted that their request was made pursuant to the provisions of BCO 31.1.",
        "sources": [
@@ -418323,11 +418323,11 @@
        "reader_scope": "primary"
       },
       {
-       "id": "bco:31-1--case:cases/ga20_1992__1991-02.md:occ-efcc5911d859",
+       "id": "bco:31-1--case:cases/ga20_1992__1991-02.md:occ-f48707d01d0f",
        "url": "cases/ga20_1992__1991-02.md",
        "locator": {
         "fragment": null,
-        "line": 114
+        "line": 121
        },
        "excerpt": "3. BCO 31-1 places original jurisdiction over the charges made against ruling elders Farrington and Flye with the Session of Covenant PC. The Southwest Presbytery had no constitutional authority to assume original jurisdiction over charges which must be…",
        "sources": [
@@ -418343,11 +418343,11 @@
        "reader_scope": "primary"
       },
       {
-       "id": "bco:31-1--case:cases/ga20_1992__1991-02.md:occ-2e492a48e9f0",
+       "id": "bco:31-1--case:cases/ga20_1992__1991-02.md:occ-5d2c0921373f",
        "url": "cases/ga20_1992__1991-02.md",
        "locator": {
         "fragment": null,
-        "line": 142
+        "line": 149
        },
        "excerpt": "As BCO 31-1 places original jurisdiction over the charges made against ruling elders Farrington and Flye with the Session of Covenant PC., the Southwest Presbytery, at no time, had constitutional authority to assume original jurisdiction over charges which…",
        "sources": [
@@ -432003,11 +432003,11 @@
      "relevance_status": "unreviewed",
      "occurrences": [
       {
-       "id": "bco:31-2--case:cases/ga20_1992__1991-02.md:occ-28b021878cfe",
+       "id": "bco:31-2--case:cases/ga20_1992__1991-02.md:occ-f48143105ff0",
        "url": "cases/ga20_1992__1991-02.md",
        "locator": {
         "fragment": null,
-        "line": 192
+        "line": 199
        },
        "excerpt": "- **A.** Process not in accordance with BCO 31-2, 32-3 (see paragraph 1 of complaint dated February 27, 1991).",
        "sources": [
@@ -432023,11 +432023,11 @@
        "reader_scope": "primary"
       },
       {
-       "id": "bco:31-2--case:cases/ga20_1992__1991-02.md:occ-86e94cda4c8c",
+       "id": "bco:31-2--case:cases/ga20_1992__1991-02.md:occ-f8df591f1571",
        "url": "cases/ga20_1992__1991-02.md",
        "locator": {
         "fragment": null,
-        "line": 231
+        "line": 238
        },
        "excerpt": "1. TE Nickoley and Mr. Stephens complain that \"charges were instituted after instituting process, appointing a prosecutor, serving the indictments and setting the trial date\" and that this is a \"violation of the order outlined in BCO 31-2 and 32-3.\"",
        "sources": [
@@ -432043,11 +432043,11 @@
        "reader_scope": "primary"
       },
       {
-       "id": "bco:31-2--case:cases/ga20_1992__1991-02.md:occ-9676f686f685",
+       "id": "bco:31-2--case:cases/ga20_1992__1991-02.md:occ-0dbcbd3a8988",
        "url": "cases/ga20_1992__1991-02.md",
        "locator": {
         "fragment": null,
-        "line": 233
+        "line": 240
        },
        "excerpt": "This is not a violation of the order outlined in BCO 31-2 & 32- 3. In re: BCO 31-2, the Commission which had been hastily appointed in the last 30 minutes of a two day meeting of Presbytery had in its hands only the charges which had been presented by TE…",
        "sources": [
@@ -453485,11 +453485,11 @@
      "relevance_status": "unreviewed",
      "occurrences": [
       {
-       "id": "bco:32-3--case:cases/ga20_1992__1991-02.md:occ-511264a00342",
+       "id": "bco:32-3--case:cases/ga20_1992__1991-02.md:occ-89e245bc3438",
        "url": "cases/ga20_1992__1991-02.md",
        "locator": {
         "fragment": null,
-        "line": 239
+        "line": 246
        },
        "excerpt": "As to BCO 32-3, the Commission believed it to be appropriate to establish a trial date even while working toward a dialogue and reconciliation between parties. Having been appointed during the last minutes of the Presbytery meeting, we felt it necessary to do…",
        "sources": [
@@ -456050,11 +456050,11 @@
      "relevance_status": "unreviewed",
      "occurrences": [
       {
-       "id": "bco:32-5--case:cases/ga20_1992__1991-04.md:occ-b53ad1de86b3",
+       "id": "bco:32-5--case:cases/ga20_1992__1991-04.md:occ-025d8c001bf2",
        "url": "cases/ga20_1992__1991-04.md",
        "locator": {
         "fragment": null,
-        "line": 360
+        "line": 367
        },
        "excerpt": "…when and how did Presbytery allegedly do this? (Compare the principle of BCO 32-5, \"... the times, places and circumstances should, if possible, be particularly stated, that the accused may have an opportunity to make his defense.\")",
        "sources": [
@@ -470691,11 +470691,11 @@
      "relevance_status": "unreviewed",
      "occurrences": [
       {
-       "id": "bco:33-1--case:cases/ga20_1992__1991-02.md:occ-5e1477d7996f",
+       "id": "bco:33-1--case:cases/ga20_1992__1991-02.md:occ-bf7ff6f70dfa",
        "url": "cases/ga20_1992__1991-02.md",
        "locator": {
         "fragment": null,
-        "line": 114
+        "line": 121
        },
        "excerpt": "…or appeals may be brought to the Presbytery under the BCO (e.g under BCO 33-1).",
        "sources": [
@@ -470711,11 +470711,11 @@
        "reader_scope": "primary"
       },
       {
-       "id": "bco:33-1--case:cases/ga20_1992__1991-02.md:occ-e46113f4c62d",
+       "id": "bco:33-1--case:cases/ga20_1992__1991-02.md:occ-842f8ea7d0ac",
        "url": "cases/ga20_1992__1991-02.md",
        "locator": {
         "fragment": null,
-        "line": 148
+        "line": 155
        },
        "excerpt": "that Session has in some way wrongly considered or has in some way failed to consider the charges that complaints or appeals may be brought to the Presbytery under the BCO (e.g under BCO 33-1).",
        "sources": [
@@ -477305,11 +477305,11 @@
      "relevance_status": "unreviewed",
      "occurrences": [
       {
-       "id": "bco:34-1--case:cases/ga20_1992__1991-04.md:occ-7a6f09831141",
+       "id": "bco:34-1--case:cases/ga20_1992__1991-04.md:occ-b0b3047fc1ae",
        "url": "cases/ga20_1992__1991-04.md",
        "locator": {
         "fragment": null,
-        "line": 106
+        "line": 113
        },
        "excerpt": "…jurisdiction to decide cases of judicial process concerning teaching elders (BCO 34-1). Those cases may include doctrinal matters where the presbytery determines that a matter is either erroneous or injurious to the peace and purity of the church.…",
        "sources": [
@@ -481747,11 +481747,11 @@
      "relevance_status": "unreviewed",
      "occurrences": [
       {
-       "id": "bco:34-5--case:cases/ga52_2025__2025-12_2025-13.md:occ-c76f6daff691",
+       "id": "bco:34-5--case:cases/ga52_2025__2025-12_2025-13.md:occ-770c9bc59039",
        "url": "cases/ga52_2025__2025-12_2025-13.md",
        "locator": {
         "fragment": null,
-        "line": 148
+        "line": 154
        },
        "excerpt": "[T]o find a strong presumption of guilt of schism (BCO 34-5) of TE",
        "sources": [
@@ -486572,11 +486572,11 @@
      "relevance_status": "unreviewed",
      "occurrences": [
       {
-       "id": "bco:34-10--case:cases/ga52_2025__2025-12_2025-13.md:occ-66638d116885",
+       "id": "bco:34-10--case:cases/ga52_2025__2025-12_2025-13.md:occ-18a5244d0ac4",
        "url": "cases/ga52_2025__2025-12_2025-13.md",
        "locator": {
         "fragment": null,
-        "line": 155
+        "line": 161
        },
        "excerpt": "Carter Brown of office without censure as laid out in BCO 34-10.\" It was adopted",
        "sources": [
@@ -486592,11 +486592,11 @@
        "reader_scope": "primary"
       },
       {
-       "id": "bco:34-10--case:cases/ga52_2025__2025-12_2025-13.md:occ-fee116ef8b80",
+       "id": "bco:34-10--case:cases/ga52_2025__2025-12_2025-13.md:occ-84c2820fd875",
        "url": "cases/ga52_2025__2025-12_2025-13.md",
        "locator": {
         "fragment": null,
-        "line": 159
+        "line": 165
        },
        "excerpt": "Assis & Brown. The email ended with \" BCO 34-10 says that the ground of the",
        "sources": [
@@ -486612,11 +486612,11 @@
        "reader_scope": "primary"
       },
       {
-       "id": "bco:34-10--case:cases/ga52_2025__2025-12_2025-13.md:occ-2572c5964e67",
+       "id": "bco:34-10--case:cases/ga52_2025__2025-12_2025-13.md:occ-22af806c5783",
        "url": "cases/ga52_2025__2025-12_2025-13.md",
        "locator": {
         "fragment": null,
-        "line": 166
+        "line": 172
        },
        "excerpt": "5/13 stated meeting. It did not mention the provisions of BCO 34-10.",
        "sources": [
@@ -486632,11 +486632,11 @@
        "reader_scope": "primary"
       },
       {
-       "id": "bco:34-10--case:cases/ga52_2025__2025-12_2025-13.md:occ-4e470bb60d98",
+       "id": "bco:34-10--case:cases/ga52_2025__2025-12_2025-13.md:occ-2e8e2a10a068",
        "url": "cases/ga52_2025__2025-12_2025-13.md",
        "locator": {
         "fragment": null,
-        "line": 213
+        "line": 219
        },
        "excerpt": "Both BCO 13-2 and BCO 34-10 were referenced by the parties in this Appeal and are below.",
        "sources": [
@@ -486652,11 +486652,11 @@
        "reader_scope": "primary"
       },
       {
-       "id": "bco:34-10--case:cases/ga52_2025__2025-12_2025-13.md:occ-4cd34f3d6210",
+       "id": "bco:34-10--case:cases/ga52_2025__2025-12_2025-13.md:occ-537f9db33553",
        "url": "cases/ga52_2025__2025-12_2025-13.md",
        "locator": {
         "fragment": null,
-        "line": 224
+        "line": 230
        },
        "excerpt": "procedure as set forth in BCO 34-10 shall be followed. A minister without call",
        "sources": [
@@ -486672,11 +486672,11 @@
        "reader_scope": "primary"
       },
       {
-       "id": "bco:34-10--case:cases/ga52_2025__2025-12_2025-13.md:occ-1e9c66692b08",
+       "id": "bco:34-10--case:cases/ga52_2025__2025-12_2025-13.md:occ-12ee6d73e4c1",
        "url": "cases/ga52_2025__2025-12_2025-13.md",
        "locator": {
         "fragment": null,
-        "line": 227
+        "line": 233
        },
        "excerpt": "BCO 34-10. Whenever a minister of the Gospel shall habitually fail to be",
        "sources": [
@@ -486692,11 +486692,11 @@
        "reader_scope": "primary"
       },
       {
-       "id": "bco:34-10--case:cases/ga52_2025__2025-12_2025-13.md:occ-5d2db2fb5b09",
+       "id": "bco:34-10--case:cases/ga52_2025__2025-12_2025-13.md:occ-4e36dfb92f50",
        "url": "cases/ga52_2025__2025-12_2025-13.md",
        "locator": {
         "fragment": null,
-        "line": 244
+        "line": 250
        },
        "excerpt": "### Specification 1 - \"BCO violation\" - Did Presbytery rightly apply BCO 34-10?",
        "sources": [
@@ -486712,11 +486712,11 @@
        "reader_scope": "primary"
       },
       {
-       "id": "bco:34-10--case:cases/ga52_2025__2025-12_2025-13.md:occ-622d1c120521",
+       "id": "bco:34-10--case:cases/ga52_2025__2025-12_2025-13.md:occ-84797b909256",
        "url": "cases/ga52_2025__2025-12_2025-13.md",
        "locator": {
         "fragment": null,
-        "line": 266
+        "line": 272
        },
        "excerpt": "Further, contrary to Presbytery's action, BCO 34-10 did not apply. For BCO 34-10 to apply, a",
        "sources": [
@@ -494647,11 +494647,11 @@
      "relevance_status": "unreviewed",
      "occurrences": [
       {
-       "id": "bco:35-3--case:cases/ga20_1992__1991-02.md:occ-d18e902b5ea3",
+       "id": "bco:35-3--case:cases/ga20_1992__1991-02.md:occ-d4fba7b0b3f5",
        "url": "cases/ga20_1992__1991-02.md",
        "locator": {
         "fragment": null,
-        "line": 243
+        "line": 250
        },
        "excerpt": "2. TE Nickoley and Mr. Stephens complain that the \"primary case document was ruled inadmissible. though it met all the rules of evidence according to BCO 35- 3\".",
        "sources": [
@@ -494664,11 +494664,11 @@
        "reader_scope": "primary"
       },
       {
-       "id": "bco:35-3--case:cases/ga20_1992__1991-02.md:occ-ed076cfad94d",
+       "id": "bco:35-3--case:cases/ga20_1992__1991-02.md:occ-a8020a10cd16",
        "url": "cases/ga20_1992__1991-02.md",
        "locator": {
         "fragment": null,
-        "line": 247
+        "line": 254
        },
        "excerpt": "Further, the Commission and the Presbytery do not agree with the Complainants that this \"Chronology\" is \"corroborative evidence \"under BCO 35-3.",
        "sources": [
@@ -519735,11 +519735,11 @@
      "relevance_status": "unreviewed",
      "occurrences": [
       {
-       "id": "bco:38-3--case:cases/ga52_2025__2025-12_2025-13.md:occ-a990ac845387",
+       "id": "bco:38-3--case:cases/ga52_2025__2025-12_2025-13.md:occ-b38ad79eea2b",
        "url": "cases/ga52_2025__2025-12_2025-13.md",
        "locator": {
         "fragment": null,
-        "line": 312
+        "line": 318
        },
        "excerpt": "The principle in BCO 38-3.a could have applied in this Case.",
        "sources": [
@@ -519755,11 +519755,11 @@
        "reader_scope": "primary"
       },
       {
-       "id": "bco:38-3--case:cases/ga52_2025__2025-12_2025-13.md:occ-9e981624daba",
+       "id": "bco:38-3--case:cases/ga52_2025__2025-12_2025-13.md:occ-cd57f895ec36",
        "url": "cases/ga52_2025__2025-12_2025-13.md",
        "locator": {
         "fragment": null,
-        "line": 314
+        "line": 320
        },
        "excerpt": "BCO 38-3.a. When a member or officer in the Presbyterian Church in America",
        "sources": [
@@ -521212,13 +521212,13 @@
      "relevance_status": "unreviewed",
      "occurrences": [
       {
-       "id": "bco:38-3--case:cases/ga20_1992__1991-03.md:occ-bc8c23eb34c1",
+       "id": "bco:38-3--case:cases/ga20_1992__1991-03.md:occ-db2b08a31e69",
        "url": "cases/ga20_1992__1991-03.md",
        "locator": {
         "fragment": null,
-        "line": 134
+        "line": 141
        },
-       "excerpt": "…the communion of this church by joining some other evangelical church\" (BCO 38-3). We instruct Dr. Paul Gilchrist as Stated Clerk to notify Covenant Presbytery that BCO § 38-3 is applicable to these 2 Teaching Elders, that Covenant Presbytery should…",
+       "excerpt": "…instruct Dr. Paul Gilchrist as Stated Clerk to notify Covenant Presbytery that BCO § 38-3 is applicable to these 2 Teaching Elders, that Covenant Presbytery should comply therewith by recording the irregularity and erasing their names from its rolls.",
        "sources": [
         "case_markdown_text",
         "judicial_cases.jsonl:bco_provisions"
@@ -521230,13 +521230,13 @@
        "reader_scope": "primary"
       },
       {
-       "id": "bco:38-3--case:cases/ga20_1992__1991-03.md:occ-ee7c6119f9b2",
+       "id": "bco:38-3--case:cases/ga20_1992__1991-03.md:occ-f6ee5916959a",
        "url": "cases/ga20_1992__1991-03.md",
        "locator": {
         "fragment": null,
-        "line": 134
+        "line": 141
        },
-       "excerpt": "…instruct Dr. Paul Gilchrist as Stated Clerk to notify Covenant Presbytery that BCO § 38-3 is applicable to these 2 Teaching Elders, that Covenant Presbytery should comply therewith by recording the irregularity and erasing their names from its rolls.",
+       "excerpt": "…the communion of this church by joining some other evangelical church\" (BCO 38-3). We instruct Dr. Paul Gilchrist as Stated Clerk to notify Covenant Presbytery that BCO § 38-3 is applicable to these 2 Teaching Elders, that Covenant Presbytery should…",
        "sources": [
         "case_markdown_text",
         "judicial_cases.jsonl:bco_provisions"
@@ -558627,11 +558627,11 @@
      "relevance_status": "unreviewed",
      "occurrences": [
       {
-       "id": "bco:41-3--case:cases/ga20_1992__1991-03.md:occ-477bb505b42b",
+       "id": "bco:41-3--case:cases/ga20_1992__1991-03.md:occ-4d97ef512d48",
        "url": "cases/ga20_1992__1991-03.md",
        "locator": {
         "fragment": null,
-        "line": 115
+        "line": 122
        },
        "excerpt": "(BCO 41-3).",
        "sources": [
@@ -558644,11 +558644,11 @@
        "reader_scope": "primary"
       },
       {
-       "id": "bco:41-3--case:cases/ga20_1992__1991-03.md:occ-b59e1a7fd514",
+       "id": "bco:41-3--case:cases/ga20_1992__1991-03.md:occ-c5992426b831",
        "url": "cases/ga20_1992__1991-03.md",
        "locator": {
         "fragment": null,
-        "line": 119
+        "line": 126
        },
        "excerpt": "…is such a mixture that it is properly before us. Further, we note that under BCO § 41-3 Covenant Presbytery has requested that we make a \"final disposition\" of all these issues.",
        "sources": [
@@ -559614,11 +559614,11 @@
      "relevance_status": "unreviewed",
      "occurrences": [
       {
-       "id": "bco:41-5--case:cases/ga20_1992__1991-03.md:occ-d03745533761",
+       "id": "bco:41-5--case:cases/ga20_1992__1991-03.md:occ-59276296f5ad",
        "url": "cases/ga20_1992__1991-03.md",
        "locator": {
         "fragment": null,
-        "line": 123
+        "line": 130
        },
        "excerpt": "We call attention to BCO § 41-5 which provides:",
        "sources": [
@@ -562007,11 +562007,11 @@
      "relevance_status": "unreviewed",
      "occurrences": [
       {
-       "id": "bco:42-2--case:cases/ga52_2025__2025-12_2025-13.md:occ-8f082db3aa09",
+       "id": "bco:42-2--case:cases/ga52_2025__2025-12_2025-13.md:occ-20899a6be194",
        "url": "cases/ga52_2025__2025-12_2025-13.md",
        "locator": {
         "fragment": null,
-        "line": 50
+        "line": 56
        },
        "excerpt": "BCO 42-2.",
        "sources": [
@@ -577356,11 +577356,11 @@
      "relevance_status": "unreviewed",
      "occurrences": [
       {
-       "id": "bco:43--case:cases/ga20_1992__1991-04.md:occ-f9f0f6072dfc",
+       "id": "bco:43--case:cases/ga20_1992__1991-04.md:occ-de12502ff7ae",
        "url": "cases/ga20_1992__1991-04.md",
        "locator": {
         "fragment": null,
-        "line": 121
+        "line": 128
        },
        "excerpt": "…under whose jurisdiction he is has erred, judicial process is provided for in BCO 43 (Complaints).\" (M18GA, p. 205.)",
        "sources": [
@@ -585398,11 +585398,11 @@
      "relevance_status": "unreviewed",
      "occurrences": [
       {
-       "id": "bco:43-1--case:cases/ga20_1992__1991-03.md:occ-a4d5bf43446c",
+       "id": "bco:43-1--case:cases/ga20_1992__1991-03.md:occ-0bebdd45c8de",
        "url": "cases/ga20_1992__1991-03.md",
        "locator": {
         "fragment": null,
-        "line": 93
+        "line": 100
        },
        "excerpt": "BCO 43-1-p. 92 Presbytery improperly ruled the complaint of Grace Presbyterian Church out of order. Rationale: The complaint was againt the action of Presbytery in receiving a protest rather than the protest itself. It is proper to register a complaint…",
        "sources": [
@@ -585510,11 +585510,11 @@
      "relevance_status": "unreviewed",
      "occurrences": [
       {
-       "id": "bco:43-1--case:cases/ga20_1992__1991-01.md:occ-36faf09bdc12",
+       "id": "bco:43-1--case:cases/ga20_1992__1991-01.md:occ-3790b27b09db",
        "url": "cases/ga20_1992__1991-01.md",
        "locator": {
         "fragment": null,
-        "line": 52
+        "line": 59
        },
        "excerpt": "…clerk of the presbytery, although the presbytery was not required to do so by BCO 43-1. The presbytery ruled not to sustain any of the four specifications of error. In her letter of January 23, 1991, the complainant offered no supporting reasons to show how…",
        "sources": [
@@ -590813,11 +590813,11 @@
      "relevance_status": "unreviewed",
      "occurrences": [
       {
-       "id": "bco:43-2--case:cases/ga20_1992__1991-07.md:occ-1318c9678a0b",
+       "id": "bco:43-2--case:cases/ga20_1992__1991-07.md:occ-863a4bb6426e",
        "url": "cases/ga20_1992__1991-07.md",
        "locator": {
         "fragment": null,
-        "line": 32
+        "line": 39
        },
        "excerpt": "…be found not in order (p. 12, 16, and 18) in that they were not timely filed (BCO 43- 2). This Committee, reporting at the 11/12/91 meeting of Potomac Presbytery also ruled Complaint #1 in order, with #2 and #3 not being timely filed.",
        "sources": [
@@ -590833,11 +590833,11 @@
        "reader_scope": "primary"
       },
       {
-       "id": "bco:43-2--case:cases/ga20_1992__1991-07.md:occ-13b1ecd234e6",
+       "id": "bco:43-2--case:cases/ga20_1992__1991-07.md:occ-b2fad0213d2e",
        "url": "cases/ga20_1992__1991-07.md",
        "locator": {
         "fragment": null,
-        "line": 40
+        "line": 47
        },
        "excerpt": "…(See pp. 16, 22) of the amends sought, originally as #2 and #3 (cf. also BCO 43-2). On 2/28/92 the Panel ruled that Complaints #2 and #3 were improperly filed (due to untimeliness), and found such parts of the Complaint to be \"not judicially in order\"…",
        "sources": [
@@ -590887,11 +590887,11 @@
      "relevance_status": "unreviewed",
      "occurrences": [
       {
-       "id": "bco:43-2--case:cases/ga20_1992__1991-01.md:occ-8f4acdf2273a",
+       "id": "bco:43-2--case:cases/ga20_1992__1991-01.md:occ-cec3a6c807c0",
        "url": "cases/ga20_1992__1991-01.md",
        "locator": {
         "fragment": null,
-        "line": 50
+        "line": 57
        },
        "excerpt": "…meet the requirements set down in the Book of Church Order for a complaint. BCO 43-2 requires that a \"complaint shall first be made to the court whose act or decision is alleged to be in error.\" The letter of October 11, 1990 makes reference to…",
        "sources": [
@@ -595093,11 +595093,11 @@
      "relevance_status": "unreviewed",
      "occurrences": [
       {
-       "id": "bco:43-3--case:cases/ga20_1992__1991-04.md:occ-dc72568b4716",
+       "id": "bco:43-3--case:cases/ga20_1992__1991-04.md:occ-1ab9934b1a9e",
        "url": "cases/ga20_1992__1991-04.md",
        "locator": {
         "fragment": null,
-        "line": 358
+        "line": 365
        },
        "excerpt": "…has never been considered by the James River Presbytery. This is contrary to BCO 43-3.",
        "sources": [
@@ -595144,11 +595144,11 @@
      "relevance_status": "unreviewed",
      "occurrences": [
       {
-       "id": "bco:43-3--case:cases/ga20_1992__1991-01.md:occ-2cd85db9e252",
+       "id": "bco:43-3--case:cases/ga20_1992__1991-01.md:occ-e9f601865f9d",
        "url": "cases/ga20_1992__1991-01.md",
        "locator": {
         "fragment": null,
-        "line": 52
+        "line": 59
        },
        "excerpt": "…meet the requirements set down in the Book of Church Order for a complaint. BCO 43-3 requires that \"[w]ritten notice of complaint, together with supporting reasons, shall be filed with both the clerk of the lower court and the clerk of the higher court…",
        "sources": [
@@ -604236,11 +604236,11 @@
      "relevance_status": "unreviewed",
      "occurrences": [
       {
-       "id": "bco:43-10--case:cases/ga20_1992__1991-05.md:occ-324177242b48",
+       "id": "bco:43-10--case:cases/ga20_1992__1991-05.md:occ-883b9d4dc0d7",
        "url": "cases/ga20_1992__1991-05.md",
        "locator": {
         "fragment": null,
-        "line": 51
+        "line": 58
        },
        "excerpt": "…paragraph IV of the Westminster Confession of Faith' be annulled according to BCO 43-10 based on insufficient clarity.\" This action was approved by the Presbytery at its next Stated Meeting.",
        "sources": [
@@ -604256,11 +604256,11 @@
        "reader_scope": "primary"
       },
       {
-       "id": "bco:43-10--case:cases/ga20_1992__1991-05.md:occ-8eb73fa59704",
+       "id": "bco:43-10--case:cases/ga20_1992__1991-05.md:occ-db295eac940b",
        "url": "cases/ga20_1992__1991-05.md",
        "locator": {
         "fragment": null,
-        "line": 548
+        "line": 555
        },
        "excerpt": "2. That the third statement of the Session dated December 6, 1990: \"WHEREAS, theonomy is out of accord with Chapter XIX, Paragraph IV of the Westminster Confession of Faith\" be annulled according to BCO 43-10 based on insufficient clarity.\"",
        "sources": [
@@ -606194,11 +606194,11 @@
      "relevance_status": "unreviewed",
      "occurrences": [
       {
-       "id": "bco:45-4--case:cases/ga20_1992__1991-03.md:occ-8a27aea6f1f1",
+       "id": "bco:45-4--case:cases/ga20_1992__1991-03.md:occ-04de96bf1991",
        "url": "cases/ga20_1992__1991-03.md",
        "locator": {
         "fragment": null,
-        "line": 93
+        "line": 100
        },
        "excerpt": "…against an action of presbytery. The phrase \"Here the matter shall end...\" (BCO 45-4) cited by presbytery in support of its action refers to the subject matter of a protest and not the act of receiving the protest.",
        "sources": [
@@ -606787,11 +606787,11 @@
      "relevance_status": "unreviewed",
      "occurrences": [
       {
-       "id": "bco:45-5--case:cases/ga20_1992__1991-03.md:occ-c52ff4b0e752",
+       "id": "bco:45-5--case:cases/ga20_1992__1991-03.md:occ-9f6a48df452b",
        "url": "cases/ga20_1992__1991-03.md",
        "locator": {
         "fragment": null,
-        "line": 184
+        "line": 191
        },
        "excerpt": "may be done. But then Book of Church Order 45-5 provides that \"here the matter shall",
        "sources": [
@@ -614478,11 +614478,11 @@
      "relevance_status": "unreviewed",
      "occurrences": [
       {
-       "id": "bco:46-7--case:cases/ga52_2025__2025-12_2025-13.md:occ-09686546e1e6",
+       "id": "bco:46-7--case:cases/ga52_2025__2025-12_2025-13.md:occ-833debe0d7ab",
        "url": "cases/ga52_2025__2025-12_2025-13.md",
        "locator": {
         "fragment": null,
-        "line": 329
+        "line": 335
        },
        "excerpt": "BCO 46-7. No certificate of dismission from either a Session or a Presbytery",
        "sources": [
@@ -618042,11 +618042,11 @@
      "relevance_status": "unreviewed",
      "occurrences": [
       {
-       "id": "bco:47-9--case:cases/ga20_1992__1991-04.md:occ-4306118e917a",
+       "id": "bco:47-9--case:cases/ga20_1992__1991-04.md:occ-991417fabb29",
        "url": "cases/ga20_1992__1991-04.md",
        "locator": {
         "fragment": null,
-        "line": 848
+        "line": 855
        },
        "excerpt": "…was contrary to the Book of Church Order in the following particulars: * BCO 47-9 which delineates the Scriptural elements of worship, which do not include \"tongues, the interpretation of tongues, and prophecy\";",
        "sources": [
@@ -631635,11 +631635,11 @@
      "relevance_status": "unreviewed",
      "occurrences": [
       {
-       "id": "wcf:1--case:cases/ga20_1992__1991-04.md:occ-12e2f7d53bf2",
+       "id": "wcf:1--case:cases/ga20_1992__1991-04.md:occ-804f9cd3dcd0",
        "url": "cases/ga20_1992__1991-04.md",
        "locator": {
         "fragment": null,
-        "line": 455
+        "line": 462
        },
        "excerpt": "…does not cover all the negations concerning new revelations from God in the WCF I 1,6, and BCO",
        "sources": [
@@ -632375,11 +632375,11 @@
      "relevance_status": "unreviewed",
      "occurrences": [
       {
-       "id": "wcf:1.1--case:cases/ga20_1992__1991-04.md:occ-a56b1ecc258c",
+       "id": "wcf:1.1--case:cases/ga20_1992__1991-04.md:occ-eb1036a255a1",
        "url": "cases/ga20_1992__1991-04.md",
        "locator": {
         "fragment": null,
-        "line": 628
+        "line": 635
        },
        "excerpt": "…former ways of God's revealing His will unto His people being now ceased\" (WCF 1.1). In the Form of Church Government adopted the same year as the Confession, the Westminster Assembly said this about New Testament prophets,",
        "sources": [
@@ -633020,11 +633020,11 @@
      "relevance_status": "unreviewed",
      "occurrences": [
       {
-       "id": "wcf:1.6--case:cases/ga20_1992__1991-04.md:occ-f44ba585a668",
+       "id": "wcf:1.6--case:cases/ga20_1992__1991-04.md:occ-9157d473605d",
        "url": "cases/ga20_1992__1991-04.md",
        "locator": {
         "fragment": null,
-        "line": 676
+        "line": 683
        },
        "excerpt": "The whole counsel of God concerning all things necessary for His own glory, man's salvation, faith and life, is either expressly set down in Scripture, or by good and necessary consequence may be deduced from Scripture...\" (WCF 1.6).",
        "sources": [
@@ -634048,11 +634048,11 @@
      "relevance_status": "unreviewed",
      "occurrences": [
       {
-       "id": "wcf:1.9--case:cases/ga20_1992__1991-04.md:occ-f70dbe3e9f06",
+       "id": "wcf:1.9--case:cases/ga20_1992__1991-04.md:occ-f4dd2ab0e92c",
        "url": "cases/ga20_1992__1991-04.md",
        "locator": {
         "fragment": null,
-        "line": 559
+        "line": 566
        },
        "excerpt": "…to interpret Scripture by Scripture, or the unclear by the clear (cf. WCF 1.9). For example, Mr. Hopper refuses to interpret 1 Corinthians 12 where there is no definition of the NATURE of prophecy, in the light of Ephesians 2.19,20, which he calls,…",
        "sources": [
@@ -634198,11 +634198,11 @@
      "relevance_status": "unreviewed",
      "occurrences": [
       {
-       "id": "wcf:1.10--case:cases/ga20_1992__1991-04.md:occ-7b77253c14aa",
+       "id": "wcf:1.10--case:cases/ga20_1992__1991-04.md:occ-b81da120a6d1",
        "url": "cases/ga20_1992__1991-04.md",
        "locator": {
         "fragment": null,
-        "line": 634
+        "line": 641
        },
        "excerpt": "…affirmed that God is still speaking to the Church in Holy Scripture (cf. WCF 1.10), but that he is no longer making His will known through the \"former ways\" of revelation previously found in redemptive history, including the agents of it.",
        "sources": [
@@ -642736,11 +642736,11 @@
      "relevance_status": "unreviewed",
      "occurrences": [
       {
-       "id": "wcf:20--case:cases/ga20_1992__1991-04.md:occ-9b1c360f75e9",
+       "id": "wcf:20--case:cases/ga20_1992__1991-04.md:occ-5213fd9fac05",
        "url": "cases/ga20_1992__1991-04.md",
        "locator": {
         "fragment": null,
-        "line": 762
+        "line": 769
        },
        "excerpt": "3. Has the James River Presbytery \"bound\" TE Hopper's conscience, \"contra Romans 14, WCF XX\" disallowing him from preaching and teaching\" the whole counsel of God' (See Acts 20.25,27) as he understands it\" (cf. Record 6)?",
        "sources": [
@@ -643525,11 +643525,11 @@
      "relevance_status": "unreviewed",
      "occurrences": [
       {
-       "id": "wcf:20.2--case:cases/ga20_1992__1991-04.md:occ-e8d0f1581b3b",
+       "id": "wcf:20.2--case:cases/ga20_1992__1991-04.md:occ-c203443827a8",
        "url": "cases/ga20_1992__1991-04.md",
        "locator": {
         "fragment": null,
-        "line": 712
+        "line": 719
        },
        "excerpt": "…and blind obedience, is to destroy liberty of conscience, and reason also. (WCF 20.2)",
        "sources": [
@@ -643542,11 +643542,11 @@
        "reader_scope": "primary"
       },
       {
-       "id": "wcf:20.2--case:cases/ga20_1992__1991-04.md:occ-9160eada0357",
+       "id": "wcf:20.2--case:cases/ga20_1992__1991-04.md:occ-2b303443ab7a",
        "url": "cases/ga20_1992__1991-04.md",
        "locator": {
         "fragment": null,
-        "line": 776
+        "line": 783
        },
        "excerpt": "…and blind obedience, is to destroy liberty of conscience, and reason also. (WCF 20.2)",
        "sources": [
@@ -643559,11 +643559,11 @@
        "reader_scope": "primary"
       },
       {
-       "id": "wcf:20.2--case:cases/ga20_1992__1991-04.md:occ-12b9617192bd",
+       "id": "wcf:20.2--case:cases/ga20_1992__1991-04.md:occ-e0333acd521f",
        "url": "cases/ga20_1992__1991-04.md",
        "locator": {
         "fragment": null,
-        "line": 778
+        "line": 785
        },
        "excerpt": "…with the functioning of his conscience according to its definition in WCF 20.2.",
        "sources": [
@@ -676643,11 +676643,11 @@
      "relevance_status": "unreviewed",
      "occurrences": [
       {
-       "id": "wlc:Q.182--case:cases/ga20_1992__1991-04.md:occ-cf17dad3c2a2",
+       "id": "wlc:Q.182--case:cases/ga20_1992__1991-04.md:occ-20f54a7de711",
        "url": "cases/ga20_1992__1991-04.md",
        "locator": {
         "fragment": null,
-        "line": 652
+        "line": 659
        },
        "excerpt": "On 12 January 1991, Mr. Hopper appealed to Larger Catechism 182 as Constitutional support for this enhanced ability to pray (Record 117). He apparently did not realize that the LC describes the help given to us in prayer by the Spirit in virtually the same…",
        "sources": [

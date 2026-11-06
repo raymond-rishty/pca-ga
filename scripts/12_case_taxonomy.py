@@ -903,8 +903,27 @@ def main():
             unknown_roster.append(official)
             continue
         previous = unique_roster.get(key)
-        if previous is None or len(str(official.get("title") or "")) > len(str(previous.get("title") or "")):
+        if previous is None:
             unique_roster[key] = official
+            continue
+
+        # A case may have duplicate roster rows with different identifiers.
+        # Preserve a linked PDF when the richer row selected for display lacks
+        # one. Never silently discard two different documents assigned to the
+        # same canonical case; that needs an explicit multi-document model.
+        pdf_urls = {
+            str(row.get("pdf_url")).strip()
+            for row in (previous, official)
+            if row.get("pdf_url")
+        }
+        if len(pdf_urls) > 1:
+            raise ValueError(f"multiple roster PDF URLs resolve to canonical case {key}: {sorted(pdf_urls)}")
+        selected = official if len(str(official.get("title") or "")) > len(str(previous.get("title") or "")) else previous
+        selected = dict(selected)
+        if pdf_urls:
+            selected["pdf_url"] = next(iter(pdf_urls))
+            selected["has_pdf"] = True
+        unique_roster[key] = selected
     roster = list(unique_roster.values()) + unknown_roster
     expanded_roster = []
     for official in roster:

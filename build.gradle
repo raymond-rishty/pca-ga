@@ -60,7 +60,7 @@ def registerCommand = { String taskName, List<String> command, Collection inputF
 }
 
 def sourceRegistryInputs = files(
-    file('data/cases/records/cases.jsonl'), file('data/cases/sources/sjc_official/roster.jsonl'),
+    file('data/cases/records/judicial_cases.jsonl'),
     file('index/inquiries.jsonl'), file('index/studies_pages.json'),
     file('index/studies_pdf_manifest.json'), file('index/studies_pcahistory.json'),
     file('index/overture_bodies.jsonl'), fileTree('index/rpr') { include 'ga*.json' }

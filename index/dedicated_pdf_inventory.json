@@ -1,34 +1,34 @@
 {
   "schema_version": 1,
-  "description": "Curated dedicated-PDF inventory. pdf_path is the stable external path beneath pcahistory.org; local_pdf_path is null because this repository does not vendor source PDF binaries.",
+  "description": "Generated inventory of dedicated case and study PDFs. pdf_path is the stable external path beneath pcahistory.org; local_pdf_path is null because this repository does not vendor source PDF binaries.",
   "generated_from": [
-    "data/cases/sources/sjc_official/roster.jsonl",
+    "data/cases/records/judicial_cases.jsonl",
     "index/studies_pdf_manifest.json",
     "index/studies_pcahistory.json"
   ],
-  "verification_policy": "Entries are source-indexed from the committed roster or manifest. The inventory does not claim that external binaries are vendored; content verification can be recorded per entry without changing source IDs.",
+  "verification_policy": "Case entries are sourced from canonical judicial case records and study entries from the committed study manifests. The inventory does not claim that external binaries are vendored; content verification can be recorded per entry without changing source IDs.",
   "sources": [
     {
       "source_id": "case-pdf:1983-07_Wilbor_v_NGP",
       "record_type": "case",
-      "record_id": "1983-7",
+      "record_id": "1983-07",
       "url": "https://pcahistory.org/pca/sjc/cases/1983-07_Wilbor_v_NGP.pdf",
       "pdf_path": "pca/sjc/cases/1983-07_Wilbor_v_NGP.pdf",
-      "status": "listed",
-      "inventory_source": "data/cases/sources/sjc_official/roster.jsonl",
+      "status": "canonical",
+      "inventory_source": "data/cases/records/judicial_cases.jsonl",
       "local_pdf_path": null,
-      "notes": "Listed by the repository's SJC official roster; PDF binary is external and not vendored."
+      "notes": "URL assigned to this canonical docket in the judicial case catalogue."
     },
     {
       "source_id": "case-pdf:1983-08_Eubanks_v_CentralCarolina",
       "record_type": "case",
-      "record_id": "1983-8",
+      "record_id": "1983-08",
       "url": "https://pcahistory.org/pca/sjc/cases/1983-08_Eubanks_v_CentralCarolina.pdf",
       "pdf_path": "pca/sjc/cases/1983-08_Eubanks_v_CentralCarolina.pdf",
-      "status": "listed",
-      "inventory_source": "data/cases/sources/sjc_official/roster.jsonl",
+      "status": "canonical",
+      "inventory_source": "data/cases/records/judicial_cases.jsonl",
       "local_pdf_path": null,
-      "notes": "Listed by the repository's SJC official roster; PDF binary is external and not vendored."
+      "notes": "URL assigned to this canonical docket in the judicial case catalogue."
     },
     {
       "source_id": "case-pdf:1983-13_Codling_v_ECanada",
@@ -36,10 +36,10 @@
       "record_id": "1983-13",
       "url": "https://pcahistory.org/pca/sjc/cases/1983-13_Codling_v_ECanada.pdf",
       "pdf_path": "pca/sjc/cases/1983-13_Codling_v_ECanada.pdf",
-      "status": "listed",
-      "inventory_source": "data/cases/sources/sjc_official/roster.jsonl",
+      "status": "canonical",
+      "inventory_source": "data/cases/records/judicial_cases.jsonl",
       "local_pdf_path": null,
-      "notes": "Listed by the repository's SJC official roster; PDF binary is external and not vendored."
+      "notes": "URL assigned to this canonical docket in the judicial case catalogue."
     },
     {
       "source_id": "case-pdf:1983-15_Smith_v_CentralCarolina",
@@ -47,32 +47,32 @@
       "record_id": "1983-15",
       "url": "https://pcahistory.org/pca/sjc/cases/1983-15_Smith_v_CentralCarolina.pdf",
       "pdf_path": "pca/sjc/cases/1983-15_Smith_v_CentralCarolina.pdf",
-      "status": "listed",
-      "inventory_source": "data/cases/sources/sjc_official/roster.jsonl",
+      "status": "canonical",
+      "inventory_source": "data/cases/records/judicial_cases.jsonl",
       "local_pdf_path": null,
-      "notes": "Listed by the repository's SJC official roster; PDF binary is external and not vendored."
+      "notes": "URL assigned to this canonical docket in the judicial case catalogue."
     },
     {
       "source_id": "case-pdf:1988-02_Fox_v_MississippiValley",
       "record_type": "case",
-      "record_id": "1988-2",
+      "record_id": "1988-02",
       "url": "https://pcahistory.org/pca/sjc/cases/1988-02_Fox_v_MississippiValley.pdf",
       "pdf_path": "pca/sjc/cases/1988-02_Fox_v_MississippiValley.pdf",
-      "status": "listed",
-      "inventory_source": "data/cases/sources/sjc_official/roster.jsonl",
+      "status": "canonical",
+      "inventory_source": "data/cases/records/judicial_cases.jsonl",
       "local_pdf_path": null,
-      "notes": "Listed by the repository's SJC official roster; PDF binary is external and not vendored."
+      "notes": "URL assigned to this canonical docket in the judicial case catalogue."
     },
     {
       "source_id": "case-pdf:1990-08_Bowen_v_EasternCarolina",
       "record_type": "case",
-      "record_id": "1990-8",
+      "record_id": "1990-08",
       "url": "https://pcahistory.org/pca/sjc/cases/1990-08_Bowen_v_EasternCarolina.pdf",
       "pdf_path": "pca/sjc/cases/1990-08_Bowen_v_EasternCarolina.pdf",
-      "status": "listed",
-      "inventory_source": "data/cases/sources/sjc_official/roster.jsonl",
+      "status": "canonical",
+      "inventory_source": "data/cases/records/judicial_cases.jsonl",
       "local_pdf_path": null,
-      "notes": "Listed by the repository's SJC official roster; PDF binary is external and not vendored."
+      "notes": "URL assigned to this canonical docket in the judicial case catalogue."
     },
     {
       "source_id": "case-pdf:1995-11_Landrum_v_MississippiValley",
@@ -80,32 +80,32 @@
       "record_id": "1995-11",
       "url": "https://pcahistory.org/pca/sjc/cases/1995-11_Landrum_v_MississippiValley.pdf",
       "pdf_path": "pca/sjc/cases/1995-11_Landrum_v_MississippiValley.pdf",
-      "status": "listed",
-      "inventory_source": "data/cases/sources/sjc_official/roster.jsonl",
+      "status": "canonical",
+      "inventory_source": "data/cases/records/judicial_cases.jsonl",
       "local_pdf_path": null,
-      "notes": "Listed by the repository's SJC official roster; PDF binary is external and not vendored."
+      "notes": "URL assigned to this canonical docket in the judicial case catalogue."
     },
     {
       "source_id": "case-pdf:1997-04_Conrad_v_CentralCarolina",
       "record_type": "case",
-      "record_id": "1997-4",
+      "record_id": "1997-04",
       "url": "https://pcahistory.org/pca/sjc/cases/1997-04_Conrad_v_CentralCarolina.pdf",
       "pdf_path": "pca/sjc/cases/1997-04_Conrad_v_CentralCarolina.pdf",
-      "status": "listed",
-      "inventory_source": "data/cases/sources/sjc_official/roster.jsonl",
+      "status": "canonical",
+      "inventory_source": "data/cases/records/judicial_cases.jsonl",
       "local_pdf_path": null,
-      "notes": "Listed by the repository's SJC official roster; PDF binary is external and not vendored."
+      "notes": "URL assigned to this canonical docket in the judicial case catalogue."
     },
     {
       "source_id": "case-pdf:1997-09_Shive_v_CentralCarolina",
       "record_type": "case",
-      "record_id": "1997-9",
+      "record_id": "1997-09",
       "url": "https://pcahistory.org/pca/sjc/cases/1997-09_Shive_v_CentralCarolina.pdf",
       "pdf_path": "pca/sjc/cases/1997-09_Shive_v_CentralCarolina.pdf",
-      "status": "listed",
-      "inventory_source": "data/cases/sources/sjc_official/roster.jsonl",
+      "status": "canonical",
+      "inventory_source": "data/cases/records/judicial_cases.jsonl",
       "local_pdf_path": null,
-      "notes": "Listed by the repository's SJC official roster; PDF binary is external and not vendored."
+      "notes": "URL assigned to this canonical docket in the judicial case catalogue."
     },
     {
       "source_id": "case-pdf:1997-13_Harvestwood_v_NewRiver",
@@ -113,10 +113,10 @@
       "record_id": "1997-13",
       "url": "https://pcahistory.org/pca/sjc/cases/1997-13_Harvestwood_v_NewRiver.pdf",
       "pdf_path": "pca/sjc/cases/1997-13_Harvestwood_v_NewRiver.pdf",
-      "status": "listed",
-      "inventory_source": "data/cases/sources/sjc_official/roster.jsonl",
+      "status": "canonical",
+      "inventory_source": "data/cases/records/judicial_cases.jsonl",
       "local_pdf_path": null,
-      "notes": "Listed by the repository's SJC official roster; PDF binary is external and not vendored."
+      "notes": "URL assigned to this canonical docket in the judicial case catalogue."
     },
     {
       "source_id": "case-pdf:2002-10_Goerig_v_PacificNorthwest",
@@ -124,164 +124,164 @@
       "record_id": "2002-10",
       "url": "https://pcahistory.org/pca/sjc/cases/2002-10_Goerig_v_PacificNorthwest.pdf",
       "pdf_path": "pca/sjc/cases/2002-10_Goerig_v_PacificNorthwest.pdf",
-      "status": "listed",
-      "inventory_source": "data/cases/sources/sjc_official/roster.jsonl",
+      "status": "canonical",
+      "inventory_source": "data/cases/records/judicial_cases.jsonl",
       "local_pdf_path": null,
-      "notes": "Listed by the repository's SJC official roster; PDF binary is external and not vendored."
+      "notes": "URL assigned to this canonical docket in the judicial case catalogue."
     },
     {
       "source_id": "case-pdf:2004-03_Harris_v_Heritage",
       "record_type": "case",
-      "record_id": "2004-3",
+      "record_id": "2004-03",
       "url": "https://pcahistory.org/pca/sjc/cases/2004-03_Harris_v_Heritage.pdf",
       "pdf_path": "pca/sjc/cases/2004-03_Harris_v_Heritage.pdf",
-      "status": "listed",
-      "inventory_source": "data/cases/sources/sjc_official/roster.jsonl",
+      "status": "canonical",
+      "inventory_source": "data/cases/records/judicial_cases.jsonl",
       "local_pdf_path": null,
-      "notes": "Listed by the repository's SJC official roster; PDF binary is external and not vendored."
+      "notes": "URL assigned to this canonical docket in the judicial case catalogue."
     },
     {
       "source_id": "case-pdf:2004-07_FPCAugusta_v_SavannahRiver",
       "record_type": "case",
-      "record_id": "2004-7",
+      "record_id": "2004-07",
       "url": "https://pcahistory.org/pca/sjc/cases/2004-07_FPCAugusta_v_SavannahRiver.pdf",
       "pdf_path": "pca/sjc/cases/2004-07_FPCAugusta_v_SavannahRiver.pdf",
-      "status": "listed",
-      "inventory_source": "data/cases/sources/sjc_official/roster.jsonl",
+      "status": "canonical",
+      "inventory_source": "data/cases/records/judicial_cases.jsonl",
       "local_pdf_path": null,
-      "notes": "Listed by the repository's SJC official roster; PDF binary is external and not vendored."
+      "notes": "URL assigned to this canonical docket in the judicial case catalogue."
     },
     {
       "source_id": "case-pdf:2004-08_Thornton_v_Westminster",
       "record_type": "case",
-      "record_id": "2004-8",
+      "record_id": "2004-08",
       "url": "https://pcahistory.org/pca/sjc/cases/2004-08_Thornton_v_Westminster.pdf",
       "pdf_path": "pca/sjc/cases/2004-08_Thornton_v_Westminster.pdf",
-      "status": "listed",
-      "inventory_source": "data/cases/sources/sjc_official/roster.jsonl",
+      "status": "canonical",
+      "inventory_source": "data/cases/records/judicial_cases.jsonl",
       "local_pdf_path": null,
-      "notes": "Listed by the repository's SJC official roster; PDF binary is external and not vendored."
+      "notes": "URL assigned to this canonical docket in the judicial case catalogue."
     },
     {
       "source_id": "case-pdf:2005-01_Chastain_v_Heritage",
       "record_type": "case",
-      "record_id": "2005-1",
+      "record_id": "2005-01",
       "url": "https://pcahistory.org/pca/sjc/cases/2005-01_Chastain_v_Heritage.pdf",
       "pdf_path": "pca/sjc/cases/2005-01_Chastain_v_Heritage.pdf",
-      "status": "listed",
-      "inventory_source": "data/cases/sources/sjc_official/roster.jsonl",
+      "status": "canonical",
+      "inventory_source": "data/cases/records/judicial_cases.jsonl",
       "local_pdf_path": null,
-      "notes": "Listed by the repository's SJC official roster; PDF binary is external and not vendored."
+      "notes": "URL assigned to this canonical docket in the judicial case catalogue."
     },
     {
       "source_id": "case-pdf:2005-08_Kim_v_KoreanEastern",
       "record_type": "case",
-      "record_id": "2005-8",
+      "record_id": "2005-08",
       "url": "https://pcahistory.org/pca/sjc/cases/2005-08_Kim_v_KoreanEastern.pdf",
       "pdf_path": "pca/sjc/cases/2005-08_Kim_v_KoreanEastern.pdf",
-      "status": "listed",
-      "inventory_source": "data/cases/sources/sjc_official/roster.jsonl",
+      "status": "canonical",
+      "inventory_source": "data/cases/records/judicial_cases.jsonl",
       "local_pdf_path": null,
-      "notes": "Listed by the repository's SJC official roster; PDF binary is external and not vendored."
+      "notes": "URL assigned to this canonical docket in the judicial case catalogue."
     },
     {
       "source_id": "case-pdf:2005-09_Kim_v_KoreanEastern",
       "record_type": "case",
-      "record_id": "2005-9",
+      "record_id": "2005-09",
       "url": "https://pcahistory.org/pca/sjc/cases/2005-09_Kim_v_KoreanEastern.pdf",
       "pdf_path": "pca/sjc/cases/2005-09_Kim_v_KoreanEastern.pdf",
-      "status": "listed",
-      "inventory_source": "data/cases/sources/sjc_official/roster.jsonl",
+      "status": "canonical",
+      "inventory_source": "data/cases/records/judicial_cases.jsonl",
       "local_pdf_path": null,
-      "notes": "Listed by the repository's SJC official roster; PDF binary is external and not vendored."
+      "notes": "URL assigned to this canonical docket in the judicial case catalogue."
     },
     {
       "source_id": "case-pdf:2006-02_Memorial_of_Central_Carolina",
       "record_type": "case",
-      "record_id": "2006-2",
+      "record_id": "2006-02",
       "url": "https://pcahistory.org/pca/sjc/cases/2006-02_Memorial_of_Central_Carolina.pdf",
       "pdf_path": "pca/sjc/cases/2006-02_Memorial_of_Central_Carolina.pdf",
-      "status": "listed",
-      "inventory_source": "data/cases/sources/sjc_official/roster.jsonl",
+      "status": "canonical",
+      "inventory_source": "data/cases/records/judicial_cases.jsonl",
       "local_pdf_path": null,
-      "notes": "Listed by the repository's SJC official roster; PDF binary is external and not vendored."
+      "notes": "URL assigned to this canonical docket in the judicial case catalogue."
     },
     {
       "source_id": "case-pdf:2006-06_Ehrlich_v_NorthGeorgia",
       "record_type": "case",
-      "record_id": "2006-6",
+      "record_id": "2006-06",
       "url": "https://pcahistory.org/pca/sjc/cases/2006-06_Ehrlich_v_NorthGeorgia.pdf",
       "pdf_path": "pca/sjc/cases/2006-06_Ehrlich_v_NorthGeorgia.pdf",
-      "status": "listed",
-      "inventory_source": "data/cases/sources/sjc_official/roster.jsonl",
+      "status": "canonical",
+      "inventory_source": "data/cases/records/judicial_cases.jsonl",
       "local_pdf_path": null,
-      "notes": "Listed by the repository's SJC official roster; PDF binary is external and not vendored."
+      "notes": "URL assigned to this canonical docket in the judicial case catalogue."
     },
     {
       "source_id": "case-pdf:2006-07_Chastain_v_Heritage_appeal",
       "record_type": "case",
-      "record_id": "2006-7",
+      "record_id": "2006-07",
       "url": "https://pcahistory.org/pca/sjc/cases/2006-07_Chastain_v_Heritage_appeal.pdf",
       "pdf_path": "pca/sjc/cases/2006-07_Chastain_v_Heritage_appeal.pdf",
-      "status": "listed",
-      "inventory_source": "data/cases/sources/sjc_official/roster.jsonl",
+      "status": "canonical",
+      "inventory_source": "data/cases/records/judicial_cases.jsonl",
       "local_pdf_path": null,
-      "notes": "Listed by the repository's SJC official roster; PDF binary is external and not vendored."
+      "notes": "URL assigned to this canonical docket in the judicial case catalogue."
     },
     {
       "source_id": "case-pdf:2007-01_Lee-Han_v_KoreanEastern",
       "record_type": "case",
-      "record_id": "2007-1",
+      "record_id": "2007-01",
       "url": "https://pcahistory.org/pca/sjc/cases/2007-01_Lee&Han_v_KoreanEastern.pdf",
       "pdf_path": "pca/sjc/cases/2007-01_Lee&Han_v_KoreanEastern.pdf",
-      "status": "listed",
-      "inventory_source": "data/cases/sources/sjc_official/roster.jsonl",
+      "status": "canonical",
+      "inventory_source": "data/cases/records/judicial_cases.jsonl",
       "local_pdf_path": null,
-      "notes": "Listed by the repository's SJC official roster; PDF binary is external and not vendored."
+      "notes": "URL assigned to this canonical docket in the judicial case catalogue."
     },
     {
       "source_id": "case-pdf:2007-02_Malone_v_MetropolitanNY",
       "record_type": "case",
-      "record_id": "2007-2",
+      "record_id": "2007-02",
       "url": "https://pcahistory.org/pca/sjc/cases/2007-02_Malone_v_MetropolitanNY.pdf",
       "pdf_path": "pca/sjc/cases/2007-02_Malone_v_MetropolitanNY.pdf",
-      "status": "listed",
-      "inventory_source": "data/cases/sources/sjc_official/roster.jsonl",
+      "status": "canonical",
+      "inventory_source": "data/cases/records/judicial_cases.jsonl",
       "local_pdf_path": null,
-      "notes": "Listed by the repository's SJC official roster; PDF binary is external and not vendored."
+      "notes": "URL assigned to this canonical docket in the judicial case catalogue."
     },
     {
       "source_id": "case-pdf:2007-04_Engel_v_Evangel",
       "record_type": "case",
-      "record_id": "2007-4",
+      "record_id": "2007-04",
       "url": "https://pcahistory.org/pca/sjc/cases/2007-04_Engel_v_Evangel.pdf",
       "pdf_path": "pca/sjc/cases/2007-04_Engel_v_Evangel.pdf",
-      "status": "listed",
-      "inventory_source": "data/cases/sources/sjc_official/roster.jsonl",
+      "status": "canonical",
+      "inventory_source": "data/cases/records/judicial_cases.jsonl",
       "local_pdf_path": null,
-      "notes": "Listed by the repository's SJC official roster; PDF binary is external and not vendored."
+      "notes": "URL assigned to this canonical docket in the judicial case catalogue."
     },
     {
       "source_id": "case-pdf:2007-08_Jones_v_Louisiana",
       "record_type": "case",
-      "record_id": "2007-8",
+      "record_id": "2007-08",
       "url": "https://pcahistory.org/pca/sjc/cases/2007-08_Jones_v_Louisiana.pdf",
       "pdf_path": "pca/sjc/cases/2007-08_Jones_v_Louisiana.pdf",
-      "status": "listed",
-      "inventory_source": "data/cases/sources/sjc_official/roster.jsonl",
+      "status": "canonical",
+      "inventory_source": "data/cases/records/judicial_cases.jsonl",
       "local_pdf_path": null,
-      "notes": "Listed by the repository's SJC official roster; PDF binary is external and not vendored."
+      "notes": "URL assigned to this canonical docket in the judicial case catalogue."
     },
     {
       "source_id": "case-pdf:2007-09-10_Lee_v_KoreanEastern",
       "record_type": "case",
-      "record_id": "2007-9",
+      "record_id": "2007-09",
       "url": "https://pcahistory.org/pca/sjc/cases/2007-09&10_Lee_v_KoreanEastern.pdf",
       "pdf_path": "pca/sjc/cases/2007-09&10_Lee_v_KoreanEastern.pdf",
-      "status": "listed",
-      "inventory_source": "data/cases/sources/sjc_official/roster.jsonl",
+      "status": "canonical",
+      "inventory_source": "data/cases/records/judicial_cases.jsonl",
       "local_pdf_path": null,
-      "notes": "Listed by the repository's SJC official roster; PDF binary is external and not vendored."
+      "notes": "URL assigned to this canonical docket in the judicial case catalogue."
     },
     {
       "source_id": "case-pdf:2007-11_Lee_v_KoreanEastern",
@@ -289,10 +289,10 @@
       "record_id": "2007-11",
       "url": "https://pcahistory.org/pca/sjc/cases/2007-11_Lee_v_KoreanEastern.pdf",
       "pdf_path": "pca/sjc/cases/2007-11_Lee_v_KoreanEastern.pdf",
-      "status": "listed",
-      "inventory_source": "data/cases/sources/sjc_official/roster.jsonl",
+      "status": "canonical",
+      "inventory_source": "data/cases/records/judicial_cases.jsonl",
       "local_pdf_path": null,
-      "notes": "Listed by the repository's SJC official roster; PDF binary is external and not vendored."
+      "notes": "URL assigned to this canonical docket in the judicial case catalogue."
     },
     {
       "source_id": "case-pdf:2007-12_Grady_v_SouthwestFlorida",
@@ -300,10 +300,10 @@
       "record_id": "2007-12",
       "url": "https://pcahistory.org/pca/sjc/cases/2007-12_Grady_v_SouthwestFlorida.pdf",
       "pdf_path": "pca/sjc/cases/2007-12_Grady_v_SouthwestFlorida.pdf",
-      "status": "listed",
-      "inventory_source": "data/cases/sources/sjc_official/roster.jsonl",
+      "status": "canonical",
+      "inventory_source": "data/cases/records/judicial_cases.jsonl",
       "local_pdf_path": null,
-      "notes": "Listed by the repository's SJC official roster; PDF binary is external and not vendored."
+      "notes": "URL assigned to this canonical docket in the judicial case catalogue."
     },
     {
       "source_id": "case-pdf:2007-13_Kniseley_v_RockyMountain",
@@ -311,10 +311,10 @@
       "record_id": "2007-13",
       "url": "https://pcahistory.org/pca/sjc/cases/2007-13_Kniseley_v_RockyMountain.pdf",
       "pdf_path": "pca/sjc/cases/2007-13_Kniseley_v_RockyMountain.pdf",
-      "status": "listed",
-      "inventory_source": "data/cases/sources/sjc_official/roster.jsonl",
+      "status": "canonical",
+      "inventory_source": "data/cases/records/judicial_cases.jsonl",
       "local_pdf_path": null,
-      "notes": "Listed by the repository's SJC official roster; PDF binary is external and not vendored."
+      "notes": "URL assigned to this canonical docket in the judicial case catalogue."
     },
     {
       "source_id": "case-pdf:2007-14_PCA_v_Louisiana",
@@ -322,10 +322,10 @@
       "record_id": "2007-14",
       "url": "https://pcahistory.org/pca/sjc/cases/2007-14_PCA_v_Louisiana.pdf",
       "pdf_path": "pca/sjc/cases/2007-14_PCA_v_Louisiana.pdf",
-      "status": "listed",
-      "inventory_source": "data/cases/sources/sjc_official/roster.jsonl",
+      "status": "canonical",
+      "inventory_source": "data/cases/records/judicial_cases.jsonl",
       "local_pdf_path": null,
-      "notes": "Listed by the repository's SJC official roster; PDF binary is external and not vendored."
+      "notes": "URL assigned to this canonical docket in the judicial case catalogue."
     },
     {
       "source_id": "case-pdf:2007-16_Grady_v_SWFlorida",
@@ -333,32 +333,32 @@
       "record_id": "2007-16",
       "url": "https://pcahistory.org/pca/sjc/cases/2007-16_Grady_v_SWFlorida.pdf",
       "pdf_path": "pca/sjc/cases/2007-16_Grady_v_SWFlorida.pdf",
-      "status": "listed",
-      "inventory_source": "data/cases/sources/sjc_official/roster.jsonl",
+      "status": "canonical",
+      "inventory_source": "data/cases/records/judicial_cases.jsonl",
       "local_pdf_path": null,
-      "notes": "Listed by the repository's SJC official roster; PDF binary is external and not vendored."
+      "notes": "URL assigned to this canonical docket in the judicial case catalogue."
     },
     {
       "source_id": "case-pdf:2008-01_Crossroads_v_Philadelphia",
       "record_type": "case",
-      "record_id": "2008-1",
+      "record_id": "2008-01",
       "url": "https://pcahistory.org/pca/sjc/cases/2008-01_Crossroads_v_Philadelphia.pdf",
       "pdf_path": "pca/sjc/cases/2008-01_Crossroads_v_Philadelphia.pdf",
-      "status": "listed",
-      "inventory_source": "data/cases/sources/sjc_official/roster.jsonl",
+      "status": "canonical",
+      "inventory_source": "data/cases/records/judicial_cases.jsonl",
       "local_pdf_path": null,
-      "notes": "Listed by the repository's SJC official roster; PDF binary is external and not vendored."
+      "notes": "URL assigned to this canonical docket in the judicial case catalogue."
     },
     {
       "source_id": "case-pdf:2008-09_RedMountain_v_Evangel",
       "record_type": "case",
-      "record_id": "2008-9",
+      "record_id": "2008-09",
       "url": "https://pcahistory.org/pca/sjc/cases/2008-09_RedMountain_v_Evangel.pdf",
       "pdf_path": "pca/sjc/cases/2008-09_RedMountain_v_Evangel.pdf",
-      "status": "listed",
-      "inventory_source": "data/cases/sources/sjc_official/roster.jsonl",
+      "status": "canonical",
+      "inventory_source": "data/cases/records/judicial_cases.jsonl",
       "local_pdf_path": null,
-      "notes": "Listed by the repository's SJC official roster; PDF binary is external and not vendored."
+      "notes": "URL assigned to this canonical docket in the judicial case catalogue."
     },
     {
       "source_id": "case-pdf:2008-11_Broadwater_v_Chesapeake",
@@ -366,10 +366,10 @@
       "record_id": "2008-11",
       "url": "https://pcahistory.org/pca/sjc/cases/2008-11_Broadwater_v_Chesapeake.pdf",
       "pdf_path": "pca/sjc/cases/2008-11_Broadwater_v_Chesapeake.pdf",
-      "status": "listed",
-      "inventory_source": "data/cases/sources/sjc_official/roster.jsonl",
+      "status": "canonical",
+      "inventory_source": "data/cases/records/judicial_cases.jsonl",
       "local_pdf_path": null,
-      "notes": "Listed by the repository's SJC official roster; PDF binary is external and not vendored."
+      "notes": "URL assigned to this canonical docket in the judicial case catalogue."
     },
     {
       "source_id": "case-pdf:2008-13_Meyerhoff_v_Chesapeake",
@@ -377,10 +377,10 @@
       "record_id": "2008-13",
       "url": "https://pcahistory.org/pca/sjc/cases/2008-13_Meyerhoff_v_Chesapeake.pdf",
       "pdf_path": "pca/sjc/cases/2008-13_Meyerhoff_v_Chesapeake.pdf",
-      "status": "listed",
-      "inventory_source": "data/cases/sources/sjc_official/roster.jsonl",
+      "status": "canonical",
+      "inventory_source": "data/cases/records/judicial_cases.jsonl",
       "local_pdf_path": null,
-      "notes": "Listed by the repository's SJC official roster; PDF binary is external and not vendored."
+      "notes": "URL assigned to this canonical docket in the judicial case catalogue."
     },
     {
       "source_id": "case-pdf:2008-14_White_v_Siouxlands",
@@ -388,10 +388,10 @@
       "record_id": "2008-14",
       "url": "https://pcahistory.org/pca/sjc/cases/2008-14_White_v_Siouxlands.pdf",
       "pdf_path": "pca/sjc/cases/2008-14_White_v_Siouxlands.pdf",
-      "status": "listed",
-      "inventory_source": "data/cases/sources/sjc_official/roster.jsonl",
+      "status": "canonical",
+      "inventory_source": "data/cases/records/judicial_cases.jsonl",
       "local_pdf_path": null,
-      "notes": "Listed by the repository's SJC official roster; PDF binary is external and not vendored."
+      "notes": "URL assigned to this canonical docket in the judicial case catalogue."
     },
     {
       "source_id": "case-pdf:2008-15_and_group_MHSmith_v_WesternCarolina",
@@ -399,43 +399,43 @@
       "record_id": "2008-15",
       "url": "https://pcahistory.org/pca/sjc/cases/2008-15_and_group_MHSmith_v_WesternCarolina.pdf",
       "pdf_path": "pca/sjc/cases/2008-15_and_group_MHSmith_v_WesternCarolina.pdf",
-      "status": "listed",
-      "inventory_source": "data/cases/sources/sjc_official/roster.jsonl",
+      "status": "canonical",
+      "inventory_source": "data/cases/records/judicial_cases.jsonl",
       "local_pdf_path": null,
-      "notes": "Listed by the repository's SJC official roster; PDF binary is external and not vendored."
+      "notes": "URL assigned to this canonical docket in the judicial case catalogue."
     },
     {
       "source_id": "case-pdf:2009-05-08-09-10_Payne_Linton_Lyons_Woodward_v_WesternCarolina",
       "record_type": "case",
-      "record_id": "2009-5",
+      "record_id": "2009-05",
       "url": "https://pcahistory.org/pca/sjc/cases/2009-05-08-09-10_Payne_Linton_Lyons_Woodward_v_WesternCarolina.pdf",
       "pdf_path": "pca/sjc/cases/2009-05-08-09-10_Payne_Linton_Lyons_Woodward_v_WesternCarolina.pdf",
-      "status": "listed",
-      "inventory_source": "data/cases/sources/sjc_official/roster.jsonl",
+      "status": "canonical",
+      "inventory_source": "data/cases/records/judicial_cases.jsonl",
       "local_pdf_path": null,
-      "notes": "Listed by the repository's SJC official roster; PDF binary is external and not vendored."
+      "notes": "URL assigned to this canonical docket in the judicial case catalogue."
     },
     {
       "source_id": "case-pdf:2009-06_Bordwine_v_PacificNW",
       "record_type": "case",
-      "record_id": "2009-6",
+      "record_id": "2009-06",
       "url": "https://pcahistory.org/pca/sjc/cases/2009-06_Bordwine_v_PacificNW.pdf",
       "pdf_path": "pca/sjc/cases/2009-06_Bordwine_v_PacificNW.pdf",
-      "status": "listed",
-      "inventory_source": "data/cases/sources/sjc_official/roster.jsonl",
+      "status": "canonical",
+      "inventory_source": "data/cases/records/judicial_cases.jsonl",
       "local_pdf_path": null,
-      "notes": "Listed by the repository's SJC official roster; PDF binary is external and not vendored."
+      "notes": "URL assigned to this canonical docket in the judicial case catalogue."
     },
     {
       "source_id": "case-pdf:2009-07_Urish_v_RockyMountain",
       "record_type": "case",
-      "record_id": "2009-7",
+      "record_id": "2009-07",
       "url": "https://pcahistory.org/pca/sjc/cases/2009-07_Urish_v_RockyMountain.pdf",
       "pdf_path": "pca/sjc/cases/2009-07_Urish_v_RockyMountain.pdf",
-      "status": "listed",
-      "inventory_source": "data/cases/sources/sjc_official/roster.jsonl",
+      "status": "canonical",
+      "inventory_source": "data/cases/records/judicial_cases.jsonl",
       "local_pdf_path": null,
-      "notes": "Listed by the repository's SJC official roster; PDF binary is external and not vendored."
+      "notes": "URL assigned to this canonical docket in the judicial case catalogue."
     },
     {
       "source_id": "case-pdf:2009-11-Edison_v_SouthwestFlorida",
@@ -443,10 +443,10 @@
       "record_id": "2009-11",
       "url": "https://pcahistory.org/pca/sjc/cases/2009-11-Edison_v_SouthwestFlorida.pdf",
       "pdf_path": "pca/sjc/cases/2009-11-Edison_v_SouthwestFlorida.pdf",
-      "status": "listed",
-      "inventory_source": "data/cases/sources/sjc_official/roster.jsonl",
+      "status": "canonical",
+      "inventory_source": "data/cases/records/judicial_cases.jsonl",
       "local_pdf_path": null,
-      "notes": "Listed by the repository's SJC official roster; PDF binary is external and not vendored."
+      "notes": "URL assigned to this canonical docket in the judicial case catalogue."
     },
     {
       "source_id": "case-pdf:2009-28_Ruff_v_Nashville",
@@ -454,21 +454,21 @@
       "record_id": "2009-28",
       "url": "https://pcahistory.org/pca/sjc/cases/2009-28_Ruff_v_Nashville.pdf",
       "pdf_path": "pca/sjc/cases/2009-28_Ruff_v_Nashville.pdf",
-      "status": "listed",
-      "inventory_source": "data/cases/sources/sjc_official/roster.jsonl",
+      "status": "canonical",
+      "inventory_source": "data/cases/records/judicial_cases.jsonl",
       "local_pdf_path": null,
-      "notes": "Listed by the repository's SJC official roster; PDF binary is external and not vendored."
+      "notes": "URL assigned to this canonical docket in the judicial case catalogue."
     },
     {
       "source_id": "case-pdf:2010-04_Sartorius_v_Siouxlands",
       "record_type": "case",
-      "record_id": "2010-4",
+      "record_id": "2010-04",
       "url": "https://pcahistory.org/pca/sjc/cases/2010-04_Sartorius_v_Siouxlands.pdf",
       "pdf_path": "pca/sjc/cases/2010-04_Sartorius_v_Siouxlands.pdf",
-      "status": "listed",
-      "inventory_source": "data/cases/sources/sjc_official/roster.jsonl",
+      "status": "canonical",
+      "inventory_source": "data/cases/records/judicial_cases.jsonl",
       "local_pdf_path": null,
-      "notes": "Listed by the repository's SJC official roster; PDF binary is external and not vendored."
+      "notes": "URL assigned to this canonical docket in the judicial case catalogue."
     },
     {
       "source_id": "case-pdf:2010-27_Ruff_v_Nashville",
@@ -476,10 +476,10 @@
       "record_id": "2010-27",
       "url": "https://pcahistory.org/pca/sjc/cases/2010-27_Ruff_v_Nashville.pdf",
       "pdf_path": "pca/sjc/cases/2010-27_Ruff_v_Nashville.pdf",
-      "status": "listed",
-      "inventory_source": "data/cases/sources/sjc_official/roster.jsonl",
+      "status": "canonical",
+      "inventory_source": "data/cases/records/judicial_cases.jsonl",
       "local_pdf_path": null,
-      "notes": "Listed by the repository's SJC official roster; PDF binary is external and not vendored."
+      "notes": "URL assigned to this canonical docket in the judicial case catalogue."
     },
     {
       "source_id": "case-pdf:2011-11_Hahn_v_PhilaMetroWest",
@@ -487,10 +487,10 @@
       "record_id": "2011-11",
       "url": "https://pcahistory.org/pca/sjc/cases/2011-11_Hahn_v_PhilaMetroWest.pdf",
       "pdf_path": "pca/sjc/cases/2011-11_Hahn_v_PhilaMetroWest.pdf",
-      "status": "listed",
-      "inventory_source": "data/cases/sources/sjc_official/roster.jsonl",
+      "status": "canonical",
+      "inventory_source": "data/cases/records/judicial_cases.jsonl",
       "local_pdf_path": null,
-      "notes": "Listed by the repository's SJC official roster; PDF binary is external and not vendored."
+      "notes": "URL assigned to this canonical docket in the judicial case catalogue."
     },
     {
       "source_id": "case-pdf:2011-14_Reese-Bech_v_Philadelphia",
@@ -498,10 +498,10 @@
       "record_id": "2011-14",
       "url": "https://pcahistory.org/pca/sjc/cases/2011-14_Reese&Bech_v_Philadelphia.pdf",
       "pdf_path": "pca/sjc/cases/2011-14_Reese&Bech_v_Philadelphia.pdf",
-      "status": "listed",
-      "inventory_source": "data/cases/sources/sjc_official/roster.jsonl",
+      "status": "canonical",
+      "inventory_source": "data/cases/records/judicial_cases.jsonl",
       "local_pdf_path": null,
-      "notes": "Listed by the repository's SJC official roster; PDF binary is external and not vendored."
+      "notes": "URL assigned to this canonical docket in the judicial case catalogue."
     },
     {
       "source_id": "case-pdf:2011-15_Hahn_v_PhilaMetroWest",
@@ -509,10 +509,10 @@
       "record_id": "2011-15",
       "url": "https://pcahistory.org/pca/sjc/cases/2011-15_Hahn_v_PhilaMetroWest.pdf",
       "pdf_path": "pca/sjc/cases/2011-15_Hahn_v_PhilaMetroWest.pdf",
-      "status": "listed",
-      "inventory_source": "data/cases/sources/sjc_official/roster.jsonl",
+      "status": "canonical",
+      "inventory_source": "data/cases/records/judicial_cases.jsonl",
       "local_pdf_path": null,
-      "notes": "Listed by the repository's SJC official roster; PDF binary is external and not vendored."
+      "notes": "URL assigned to this canonical docket in the judicial case catalogue."
     },
     {
       "source_id": "case-pdf:2011-18_Ruff_v_Nashville",
@@ -520,142 +520,142 @@
       "record_id": "2011-18",
       "url": "https://pcahistory.org/pca/sjc/cases/2011-18_Ruff_v_Nashville.pdf",
       "pdf_path": "pca/sjc/cases/2011-18_Ruff_v_Nashville.pdf",
-      "status": "listed",
-      "inventory_source": "data/cases/sources/sjc_official/roster.jsonl",
+      "status": "canonical",
+      "inventory_source": "data/cases/records/judicial_cases.jsonl",
       "local_pdf_path": null,
-      "notes": "Listed by the repository's SJC official roster; PDF binary is external and not vendored."
+      "notes": "URL assigned to this canonical docket in the judicial case catalogue."
     },
     {
       "source_id": "case-pdf:2012-03_Tarter_v_Evangel",
       "record_type": "case",
-      "record_id": "2012-3",
+      "record_id": "2012-03",
       "url": "https://pcahistory.org/pca/sjc/cases/2012-03_Tarter_v_Evangel.pdf",
       "pdf_path": "pca/sjc/cases/2012-03_Tarter_v_Evangel.pdf",
-      "status": "listed",
-      "inventory_source": "data/cases/sources/sjc_official/roster.jsonl",
+      "status": "canonical",
+      "inventory_source": "data/cases/records/judicial_cases.jsonl",
       "local_pdf_path": null,
-      "notes": "Listed by the repository's SJC official roster; PDF binary is external and not vendored."
+      "notes": "URL assigned to this canonical docket in the judicial case catalogue."
     },
     {
       "source_id": "case-pdf:2012-05_Hedman_v_PacificNorthwest",
       "record_type": "case",
-      "record_id": "2012-5",
+      "record_id": "2012-05",
       "url": "https://pcahistory.org/pca/sjc/cases/2012-05_Hedman_v_PacificNorthwest.pdf",
       "pdf_path": "pca/sjc/cases/2012-05_Hedman_v_PacificNorthwest.pdf",
-      "status": "listed",
-      "inventory_source": "data/cases/sources/sjc_official/roster.jsonl",
+      "status": "canonical",
+      "inventory_source": "data/cases/records/judicial_cases.jsonl",
       "local_pdf_path": null,
-      "notes": "Listed by the repository's SJC official roster; PDF binary is external and not vendored."
+      "notes": "URL assigned to this canonical docket in the judicial case catalogue."
     },
     {
       "source_id": "case-pdf:2014-01_Aven-Dively_v_OhioValley",
       "record_type": "case",
-      "record_id": "2014-1",
+      "record_id": "2014-01",
       "url": "https://pcahistory.org/pca/sjc/cases/2014-01_Aven&Dively_v_OhioValley.pdf",
       "pdf_path": "pca/sjc/cases/2014-01_Aven&Dively_v_OhioValley.pdf",
-      "status": "listed",
-      "inventory_source": "data/cases/sources/sjc_official/roster.jsonl",
+      "status": "canonical",
+      "inventory_source": "data/cases/records/judicial_cases.jsonl",
       "local_pdf_path": null,
-      "notes": "Listed by the repository's SJC official roster; PDF binary is external and not vendored."
+      "notes": "URL assigned to this canonical docket in the judicial case catalogue."
     },
     {
       "source_id": "case-pdf:2015-01_Sanfacon_v_Philadelphia",
       "record_type": "case",
-      "record_id": "2015-1",
+      "record_id": "2015-01",
       "url": "https://pcahistory.org/pca/sjc/cases/2015-01_Sanfacon_v_Philadelphia.pdf",
       "pdf_path": "pca/sjc/cases/2015-01_Sanfacon_v_Philadelphia.pdf",
-      "status": "listed",
-      "inventory_source": "data/cases/sources/sjc_official/roster.jsonl",
+      "status": "canonical",
+      "inventory_source": "data/cases/records/judicial_cases.jsonl",
       "local_pdf_path": null,
-      "notes": "Listed by the repository's SJC official roster; PDF binary is external and not vendored."
+      "notes": "URL assigned to this canonical docket in the judicial case catalogue."
     },
     {
       "source_id": "case-pdf:2015-02_Gearheart_v_ChicagoMetro",
       "record_type": "case",
-      "record_id": "2015-2",
+      "record_id": "2015-02",
       "url": "https://pcahistory.org/pca/sjc/cases/2015-02_Gearheart_v_ChicagoMetro.pdf",
       "pdf_path": "pca/sjc/cases/2015-02_Gearheart_v_ChicagoMetro.pdf",
-      "status": "listed",
-      "inventory_source": "data/cases/sources/sjc_official/roster.jsonl",
+      "status": "canonical",
+      "inventory_source": "data/cases/records/judicial_cases.jsonl",
       "local_pdf_path": null,
-      "notes": "Listed by the repository's SJC official roster; PDF binary is external and not vendored."
+      "notes": "URL assigned to this canonical docket in the judicial case catalogue."
     },
     {
       "source_id": "case-pdf:2015-03_Flesher-Weekly_v_MetroAtlanta",
       "record_type": "case",
-      "record_id": "2015-3",
+      "record_id": "2015-03",
       "url": "https://pcahistory.org/pca/sjc/cases/2015-03_Flesher&Weekly_v_MetroAtlanta.pdf",
       "pdf_path": "pca/sjc/cases/2015-03_Flesher&Weekly_v_MetroAtlanta.pdf",
-      "status": "listed",
-      "inventory_source": "data/cases/sources/sjc_official/roster.jsonl",
+      "status": "canonical",
+      "inventory_source": "data/cases/records/judicial_cases.jsonl",
       "local_pdf_path": null,
-      "notes": "Listed by the repository's SJC official roster; PDF binary is external and not vendored."
+      "notes": "URL assigned to this canonical docket in the judicial case catalogue."
     },
     {
       "source_id": "case-pdf:2015-04_Thompson_v_SouthFlorida",
       "record_type": "case",
-      "record_id": "2015-4",
+      "record_id": "2015-04",
       "url": "https://pcahistory.org/pca/sjc/cases/2015-04_Thompson_v_SouthFlorida.pdf",
       "pdf_path": "pca/sjc/cases/2015-04_Thompson_v_SouthFlorida.pdf",
-      "status": "listed",
-      "inventory_source": "data/cases/sources/sjc_official/roster.jsonl",
+      "status": "canonical",
+      "inventory_source": "data/cases/records/judicial_cases.jsonl",
       "local_pdf_path": null,
-      "notes": "Listed by the repository's SJC official roster; PDF binary is external and not vendored."
+      "notes": "URL assigned to this canonical docket in the judicial case catalogue."
     },
     {
       "source_id": "case-pdf:2015-05_Application_of_Thompson_v_SouthFlorida",
       "record_type": "case",
-      "record_id": "2015-5",
+      "record_id": "2015-05",
       "url": "https://pcahistory.org/pca/sjc/cases/2015-05_Application_of_Thompson_v_SouthFlorida.pdf",
       "pdf_path": "pca/sjc/cases/2015-05_Application_of_Thompson_v_SouthFlorida.pdf",
-      "status": "listed",
-      "inventory_source": "data/cases/sources/sjc_official/roster.jsonl",
+      "status": "canonical",
+      "inventory_source": "data/cases/records/judicial_cases.jsonl",
       "local_pdf_path": null,
-      "notes": "Listed by the repository's SJC official roster; PDF binary is external and not vendored."
+      "notes": "URL assigned to this canonical docket in the judicial case catalogue."
     },
     {
       "source_id": "case-pdf:2015-06_PCA_v_SouthFlorida",
       "record_type": "case",
-      "record_id": "2015-6",
+      "record_id": "2015-06",
       "url": "https://pcahistory.org/pca/sjc/cases/2015-06_PCA_v_SouthFlorida.pdf",
       "pdf_path": "pca/sjc/cases/2015-06_PCA_v_SouthFlorida.pdf",
-      "status": "listed",
-      "inventory_source": "data/cases/sources/sjc_official/roster.jsonl",
+      "status": "canonical",
+      "inventory_source": "data/cases/records/judicial_cases.jsonl",
       "local_pdf_path": null,
-      "notes": "Listed by the repository's SJC official roster; PDF binary is external and not vendored."
+      "notes": "URL assigned to this canonical docket in the judicial case catalogue."
     },
     {
       "source_id": "case-pdf:2015-07_Thompson_v_SouthFlorida",
       "record_type": "case",
-      "record_id": "2015-7",
+      "record_id": "2015-07",
       "url": "https://pcahistory.org/pca/sjc/cases/2015-07_Thompson_v_SouthFlorida.pdf",
       "pdf_path": "pca/sjc/cases/2015-07_Thompson_v_SouthFlorida.pdf",
-      "status": "listed",
-      "inventory_source": "data/cases/sources/sjc_official/roster.jsonl",
+      "status": "canonical",
+      "inventory_source": "data/cases/records/judicial_cases.jsonl",
       "local_pdf_path": null,
-      "notes": "Listed by the repository's SJC official roster; PDF binary is external and not vendored."
+      "notes": "URL assigned to this canonical docket in the judicial case catalogue."
     },
     {
       "source_id": "case-pdf:2015-08_Hardie_v_MetroAtlanta",
       "record_type": "case",
-      "record_id": "2015-8",
+      "record_id": "2015-08",
       "url": "https://pcahistory.org/pca/sjc/cases/2015-08_Hardie_v_MetroAtlanta.pdf",
       "pdf_path": "pca/sjc/cases/2015-08_Hardie_v_MetroAtlanta.pdf",
-      "status": "listed",
-      "inventory_source": "data/cases/sources/sjc_official/roster.jsonl",
+      "status": "canonical",
+      "inventory_source": "data/cases/records/judicial_cases.jsonl",
       "local_pdf_path": null,
-      "notes": "Listed by the repository's SJC official roster; PDF binary is external and not vendored."
+      "notes": "URL assigned to this canonical docket in the judicial case catalogue."
     },
     {
       "source_id": "case-pdf:2015-09_Bumgarner_v_MSValley",
       "record_type": "case",
-      "record_id": "2015-9",
+      "record_id": "2015-09",
       "url": "https://pcahistory.org/pca/sjc/cases/2015-09_Bumgarner_v_MSValley.pdf",
       "pdf_path": "pca/sjc/cases/2015-09_Bumgarner_v_MSValley.pdf",
-      "status": "listed",
-      "inventory_source": "data/cases/sources/sjc_official/roster.jsonl",
+      "status": "canonical",
+      "inventory_source": "data/cases/records/judicial_cases.jsonl",
       "local_pdf_path": null,
-      "notes": "Listed by the repository's SJC official roster; PDF binary is external and not vendored."
+      "notes": "URL assigned to this canonical docket in the judicial case catalogue."
     },
     {
       "source_id": "case-pdf:2015-10_Thompson_v_SouthFlorida",
@@ -663,10 +663,10 @@
       "record_id": "2015-10",
       "url": "https://pcahistory.org/pca/sjc/cases/2015-10_Thompson_v_SouthFlorida.pdf",
       "pdf_path": "pca/sjc/cases/2015-10_Thompson_v_SouthFlorida.pdf",
-      "status": "listed",
-      "inventory_source": "data/cases/sources/sjc_official/roster.jsonl",
+      "status": "canonical",
+      "inventory_source": "data/cases/records/judicial_cases.jsonl",
       "local_pdf_path": null,
-      "notes": "Listed by the repository's SJC official roster; PDF binary is external and not vendored."
+      "notes": "URL assigned to this canonical docket in the judicial case catalogue."
     },
     {
       "source_id": "case-pdf:2015-11_Thompson_v_SouthFlorida",
@@ -674,10 +674,10 @@
       "record_id": "2015-11",
       "url": "https://pcahistory.org/pca/sjc/cases/2015-11_Thompson_v_SouthFlorida.pdf",
       "pdf_path": "pca/sjc/cases/2015-11_Thompson_v_SouthFlorida.pdf",
-      "status": "listed",
-      "inventory_source": "data/cases/sources/sjc_official/roster.jsonl",
+      "status": "canonical",
+      "inventory_source": "data/cases/records/judicial_cases.jsonl",
       "local_pdf_path": null,
-      "notes": "Listed by the repository's SJC official roster; PDF binary is external and not vendored."
+      "notes": "URL assigned to this canonical docket in the judicial case catalogue."
     },
     {
       "source_id": "case-pdf:2015-12_Wills_v_MetroAtlanta",
@@ -685,10 +685,10 @@
       "record_id": "2015-12",
       "url": "https://pcahistory.org/pca/sjc/cases/2015-12_Wills_v_MetroAtlanta.pdf",
       "pdf_path": "pca/sjc/cases/2015-12_Wills_v_MetroAtlanta.pdf",
-      "status": "listed",
-      "inventory_source": "data/cases/sources/sjc_official/roster.jsonl",
+      "status": "canonical",
+      "inventory_source": "data/cases/records/judicial_cases.jsonl",
       "local_pdf_path": null,
-      "notes": "Listed by the repository's SJC official roster; PDF binary is external and not vendored."
+      "notes": "URL assigned to this canonical docket in the judicial case catalogue."
     },
     {
       "source_id": "case-pdf:2015-13_Barnes_v_Heartland",
@@ -696,76 +696,76 @@
       "record_id": "2015-13",
       "url": "https://pcahistory.org/pca/sjc/cases/2015-13_Barnes_v_Heartland.pdf",
       "pdf_path": "pca/sjc/cases/2015-13_Barnes_v_Heartland.pdf",
-      "status": "listed",
-      "inventory_source": "data/cases/sources/sjc_official/roster.jsonl",
+      "status": "canonical",
+      "inventory_source": "data/cases/records/judicial_cases.jsonl",
       "local_pdf_path": null,
-      "notes": "Listed by the repository's SJC official roster; PDF binary is external and not vendored."
+      "notes": "URL assigned to this canonical docket in the judicial case catalogue."
     },
     {
       "source_id": "case-pdf:2016-01_Aven_v_OhioValley",
       "record_type": "case",
-      "record_id": "2016-1",
+      "record_id": "2016-01",
       "url": "https://pcahistory.org/pca/sjc/cases/2016-01_Aven_v_OhioValley.pdf",
       "pdf_path": "pca/sjc/cases/2016-01_Aven_v_OhioValley.pdf",
-      "status": "listed",
-      "inventory_source": "data/cases/sources/sjc_official/roster.jsonl",
+      "status": "canonical",
+      "inventory_source": "data/cases/records/judicial_cases.jsonl",
       "local_pdf_path": null,
-      "notes": "Listed by the repository's SJC official roster; PDF binary is external and not vendored."
+      "notes": "URL assigned to this canonical docket in the judicial case catalogue."
     },
     {
       "source_id": "case-pdf:2016-02_Robertstad_v_NorthTexas",
       "record_type": "case",
-      "record_id": "2016-2",
+      "record_id": "2016-02",
       "url": "https://pcahistory.org/pca/sjc/cases/2016-02_Robertstad_v_NorthTexas.pdf",
       "pdf_path": "pca/sjc/cases/2016-02_Robertstad_v_NorthTexas.pdf",
-      "status": "listed",
-      "inventory_source": "data/cases/sources/sjc_official/roster.jsonl",
+      "status": "canonical",
+      "inventory_source": "data/cases/records/judicial_cases.jsonl",
       "local_pdf_path": null,
-      "notes": "Listed by the repository's SJC official roster; PDF binary is external and not vendored."
+      "notes": "URL assigned to this canonical docket in the judicial case catalogue."
     },
     {
       "source_id": "case-pdf:2016-05_Troxell_v_Southwest",
       "record_type": "case",
-      "record_id": "2016-5",
+      "record_id": "2016-05",
       "url": "https://pcahistory.org/pca/sjc/cases/2016-05_Troxell_v_Southwest.pdf",
       "pdf_path": "pca/sjc/cases/2016-05_Troxell_v_Southwest.pdf",
-      "status": "listed",
-      "inventory_source": "data/cases/sources/sjc_official/roster.jsonl",
+      "status": "canonical",
+      "inventory_source": "data/cases/records/judicial_cases.jsonl",
       "local_pdf_path": null,
-      "notes": "Listed by the repository's SJC official roster; PDF binary is external and not vendored."
+      "notes": "URL assigned to this canonical docket in the judicial case catalogue."
     },
     {
       "source_id": "case-pdf:2016-07_Avery-Lewelling_v_Nashville",
       "record_type": "case",
-      "record_id": "2016-7",
+      "record_id": "2016-07",
       "url": "https://pcahistory.org/pca/sjc/cases/2016-07_Avery&Lewelling_v_Nashville.pdf",
       "pdf_path": "pca/sjc/cases/2016-07_Avery&Lewelling_v_Nashville.pdf",
-      "status": "listed",
-      "inventory_source": "data/cases/sources/sjc_official/roster.jsonl",
+      "status": "canonical",
+      "inventory_source": "data/cases/records/judicial_cases.jsonl",
       "local_pdf_path": null,
-      "notes": "Listed by the repository's SJC official roster; PDF binary is external and not vendored."
+      "notes": "URL assigned to this canonical docket in the judicial case catalogue."
     },
     {
       "source_id": "case-pdf:2016-08_Doty_v_Nashville",
       "record_type": "case",
-      "record_id": "2016-8",
+      "record_id": "2016-08",
       "url": "https://pcahistory.org/pca/sjc/cases/2016-08_Doty_v_Nashville.pdf",
       "pdf_path": "pca/sjc/cases/2016-08_Doty_v_Nashville.pdf",
-      "status": "listed",
-      "inventory_source": "data/cases/sources/sjc_official/roster.jsonl",
+      "status": "canonical",
+      "inventory_source": "data/cases/records/judicial_cases.jsonl",
       "local_pdf_path": null,
-      "notes": "Listed by the repository's SJC official roster; PDF binary is external and not vendored."
+      "notes": "URL assigned to this canonical docket in the judicial case catalogue."
     },
     {
       "source_id": "case-pdf:2016-09_Fordice_v_PacificNW",
       "record_type": "case",
-      "record_id": "2016-9",
+      "record_id": "2016-09",
       "url": "https://pcahistory.org/pca/sjc/cases/2016-09_Fordice_v_PacificNW.pdf",
       "pdf_path": "pca/sjc/cases/2016-09_Fordice_v_PacificNW.pdf",
-      "status": "listed",
-      "inventory_source": "data/cases/sources/sjc_official/roster.jsonl",
+      "status": "canonical",
+      "inventory_source": "data/cases/records/judicial_cases.jsonl",
       "local_pdf_path": null,
-      "notes": "Listed by the repository's SJC official roster; PDF binary is external and not vendored."
+      "notes": "URL assigned to this canonical docket in the judicial case catalogue."
     },
     {
       "source_id": "case-pdf:2016-10_In_Re_Korean_Northwest",
@@ -773,10 +773,10 @@
       "record_id": "2016-10",
       "url": "https://pcahistory.org/pca/sjc/cases/2016-10_In_Re_Korean_Northwest.pdf",
       "pdf_path": "pca/sjc/cases/2016-10_In_Re_Korean_Northwest.pdf",
-      "status": "listed",
-      "inventory_source": "data/cases/sources/sjc_official/roster.jsonl",
+      "status": "canonical",
+      "inventory_source": "data/cases/records/judicial_cases.jsonl",
       "local_pdf_path": null,
-      "notes": "Listed by the repository's SJC official roster; PDF binary is external and not vendored."
+      "notes": "URL assigned to this canonical docket in the judicial case catalogue."
     },
     {
       "source_id": "case-pdf:2016-11_Frazier_v_Nashville",
@@ -784,10 +784,10 @@
       "record_id": "2016-11",
       "url": "https://pcahistory.org/pca/sjc/cases/2016-11_Frazier_v_Nashville.pdf",
       "pdf_path": "pca/sjc/cases/2016-11_Frazier_v_Nashville.pdf",
-      "status": "listed",
-      "inventory_source": "data/cases/sources/sjc_official/roster.jsonl",
+      "status": "canonical",
+      "inventory_source": "data/cases/records/judicial_cases.jsonl",
       "local_pdf_path": null,
-      "notes": "Listed by the repository's SJC official roster; PDF binary is external and not vendored."
+      "notes": "URL assigned to this canonical docket in the judicial case catalogue."
     },
     {
       "source_id": "case-pdf:2016-12_Harwell_v_Nashville",
@@ -795,10 +795,10 @@
       "record_id": "2016-12",
       "url": "https://pcahistory.org/pca/sjc/cases/2016-12_Harwell_v_Nashville.pdf",
       "pdf_path": "pca/sjc/cases/2016-12_Harwell_v_Nashville.pdf",
-      "status": "listed",
-      "inventory_source": "data/cases/sources/sjc_official/roster.jsonl",
+      "status": "canonical",
+      "inventory_source": "data/cases/records/judicial_cases.jsonl",
       "local_pdf_path": null,
-      "notes": "Listed by the repository's SJC official roster; PDF binary is external and not vendored."
+      "notes": "URL assigned to this canonical docket in the judicial case catalogue."
     },
     {
       "source_id": "case-pdf:2016-13_Daniels_v_Nashville",
@@ -806,10 +806,10 @@
       "record_id": "2016-13",
       "url": "https://pcahistory.org/pca/sjc/cases/2016-13_Daniels_v_Nashville.pdf",
       "pdf_path": "pca/sjc/cases/2016-13_Daniels_v_Nashville.pdf",
-      "status": "listed",
-      "inventory_source": "data/cases/sources/sjc_official/roster.jsonl",
+      "status": "canonical",
+      "inventory_source": "data/cases/records/judicial_cases.jsonl",
       "local_pdf_path": null,
-      "notes": "Listed by the repository's SJC official roster; PDF binary is external and not vendored."
+      "notes": "URL assigned to this canonical docket in the judicial case catalogue."
     },
     {
       "source_id": "case-pdf:2016-14_Wills_v_MetroAtlanta",
@@ -817,10 +817,10 @@
       "record_id": "2016-14",
       "url": "https://pcahistory.org/pca/sjc/cases/2016-14_Wills_v_MetroAtlanta.pdf",
       "pdf_path": "pca/sjc/cases/2016-14_Wills_v_MetroAtlanta.pdf",
-      "status": "listed",
-      "inventory_source": "data/cases/sources/sjc_official/roster.jsonl",
+      "status": "canonical",
+      "inventory_source": "data/cases/records/judicial_cases.jsonl",
       "local_pdf_path": null,
-      "notes": "Listed by the repository's SJC official roster; PDF binary is external and not vendored."
+      "notes": "URL assigned to this canonical docket in the judicial case catalogue."
     },
     {
       "source_id": "case-pdf:2016-15_Bachman_v_Nashville",
@@ -828,10 +828,10 @@
       "record_id": "2016-15",
       "url": "https://pcahistory.org/pca/sjc/cases/2016-15_Bachman_v_Nashville.pdf",
       "pdf_path": "pca/sjc/cases/2016-15_Bachman_v_Nashville.pdf",
-      "status": "listed",
-      "inventory_source": "data/cases/sources/sjc_official/roster.jsonl",
+      "status": "canonical",
+      "inventory_source": "data/cases/records/judicial_cases.jsonl",
       "local_pdf_path": null,
-      "notes": "Listed by the repository's SJC official roster; PDF binary is external and not vendored."
+      "notes": "URL assigned to this canonical docket in the judicial case catalogue."
     },
     {
       "source_id": "case-pdf:2016-16_Sartorius_v_Siouxlands",
@@ -839,10 +839,10 @@
       "record_id": "2016-16",
       "url": "https://pcahistory.org/pca/sjc/cases/2016-16_Sartorius_v_Siouxlands.pdf",
       "pdf_path": "pca/sjc/cases/2016-16_Sartorius_v_Siouxlands.pdf",
-      "status": "listed",
-      "inventory_source": "data/cases/sources/sjc_official/roster.jsonl",
+      "status": "canonical",
+      "inventory_source": "data/cases/records/judicial_cases.jsonl",
       "local_pdf_path": null,
-      "notes": "Listed by the repository's SJC official roster; PDF binary is external and not vendored."
+      "notes": "URL assigned to this canonical docket in the judicial case catalogue."
     },
     {
       "source_id": "case-pdf:2016-17_Webster-Fowler_v_Heritage",
@@ -850,43 +850,43 @@
       "record_id": "2016-17",
       "url": "https://pcahistory.org/pca/sjc/cases/2016-17_Webster&Fowler_v_Heritage.pdf",
       "pdf_path": "pca/sjc/cases/2016-17_Webster&Fowler_v_Heritage.pdf",
-      "status": "listed",
-      "inventory_source": "data/cases/sources/sjc_official/roster.jsonl",
+      "status": "canonical",
+      "inventory_source": "data/cases/records/judicial_cases.jsonl",
       "local_pdf_path": null,
-      "notes": "Listed by the repository's SJC official roster; PDF binary is external and not vendored."
+      "notes": "URL assigned to this canonical docket in the judicial case catalogue."
     },
     {
       "source_id": "case-pdf:2017-01_Dailey_v_Heritage",
       "record_type": "case",
-      "record_id": "2017-1",
+      "record_id": "2017-01",
       "url": "https://pcahistory.org/pca/sjc/cases/2017-01_Dailey_v_Heritage.pdf",
       "pdf_path": "pca/sjc/cases/2017-01_Dailey_v_Heritage.pdf",
-      "status": "listed",
-      "inventory_source": "data/cases/sources/sjc_official/roster.jsonl",
+      "status": "canonical",
+      "inventory_source": "data/cases/records/judicial_cases.jsonl",
       "local_pdf_path": null,
-      "notes": "Listed by the repository's SJC official roster; PDF binary is external and not vendored."
+      "notes": "URL assigned to this canonical docket in the judicial case catalogue."
     },
     {
       "source_id": "case-pdf:2017-02_Postles_v_Heritage",
       "record_type": "case",
-      "record_id": "2017-2",
+      "record_id": "2017-02",
       "url": "https://pcahistory.org/pca/sjc/cases/2017-02_Postles_v_Heritage.pdf",
       "pdf_path": "pca/sjc/cases/2017-02_Postles_v_Heritage.pdf",
-      "status": "listed",
-      "inventory_source": "data/cases/sources/sjc_official/roster.jsonl",
+      "status": "canonical",
+      "inventory_source": "data/cases/records/judicial_cases.jsonl",
       "local_pdf_path": null,
-      "notes": "Listed by the repository's SJC official roster; PDF binary is external and not vendored."
+      "notes": "URL assigned to this canonical docket in the judicial case catalogue."
     },
     {
       "source_id": "case-pdf:2017-06--07_Clements_v_BlueRidge",
       "record_type": "case",
-      "record_id": "2017-6",
+      "record_id": "2017-06",
       "url": "https://pcahistory.org/pca/sjc/cases/2017-06&-07_Clements_v_BlueRidge.pdf",
       "pdf_path": "pca/sjc/cases/2017-06&-07_Clements_v_BlueRidge.pdf",
-      "status": "listed",
-      "inventory_source": "data/cases/sources/sjc_official/roster.jsonl",
+      "status": "canonical",
+      "inventory_source": "data/cases/records/judicial_cases.jsonl",
       "local_pdf_path": null,
-      "notes": "Listed by the repository's SJC official roster; PDF binary is external and not vendored."
+      "notes": "URL assigned to this canonical docket in the judicial case catalogue."
     },
     {
       "source_id": "case-pdf:2017-10_In_Re_Korean_Eastern",
@@ -894,10 +894,10 @@
       "record_id": "2017-10",
       "url": "https://pcahistory.org/pca/sjc/cases/2017-10_In_Re_Korean_Eastern.pdf",
       "pdf_path": "pca/sjc/cases/2017-10_In_Re_Korean_Eastern.pdf",
-      "status": "listed",
-      "inventory_source": "data/cases/sources/sjc_official/roster.jsonl",
+      "status": "canonical",
+      "inventory_source": "data/cases/records/judicial_cases.jsonl",
       "local_pdf_path": null,
-      "notes": "Listed by the repository's SJC official roster; PDF binary is external and not vendored."
+      "notes": "URL assigned to this canonical docket in the judicial case catalogue."
     },
     {
       "source_id": "case-pdf:2017-11_In_Re_Korean_Southwest",
@@ -905,10 +905,10 @@
       "record_id": "2017-11",
       "url": "https://pcahistory.org/pca/sjc/cases/2017-11_In_Re_Korean_Southwest.pdf",
       "pdf_path": "pca/sjc/cases/2017-11_In_Re_Korean_Southwest.pdf",
-      "status": "listed",
-      "inventory_source": "data/cases/sources/sjc_official/roster.jsonl",
+      "status": "canonical",
+      "inventory_source": "data/cases/records/judicial_cases.jsonl",
       "local_pdf_path": null,
-      "notes": "Listed by the repository's SJC official roster; PDF binary is external and not vendored."
+      "notes": "URL assigned to this canonical docket in the judicial case catalogue."
     },
     {
       "source_id": "case-pdf:2017-12_In_Re_PlatteValley",
@@ -916,175 +916,175 @@
       "record_id": "2017-12",
       "url": "https://pcahistory.org/pca/sjc/cases/2017-12_In_Re_PlatteValley.pdf",
       "pdf_path": "pca/sjc/cases/2017-12_In_Re_PlatteValley.pdf",
-      "status": "listed",
-      "inventory_source": "data/cases/sources/sjc_official/roster.jsonl",
+      "status": "canonical",
+      "inventory_source": "data/cases/records/judicial_cases.jsonl",
       "local_pdf_path": null,
-      "notes": "Listed by the repository's SJC official roster; PDF binary is external and not vendored."
+      "notes": "URL assigned to this canonical docket in the judicial case catalogue."
     },
     {
       "source_id": "case-pdf:2018-01_Mapes_v_MetropolitanNY",
       "record_type": "case",
-      "record_id": "2018-1",
+      "record_id": "2018-01",
       "url": "https://pcahistory.org/pca/sjc/cases/2018-01_Mapes_v_MetropolitanNY.pdf",
       "pdf_path": "pca/sjc/cases/2018-01_Mapes_v_MetropolitanNY.pdf",
-      "status": "listed",
-      "inventory_source": "data/cases/sources/sjc_official/roster.jsonl",
+      "status": "canonical",
+      "inventory_source": "data/cases/records/judicial_cases.jsonl",
       "local_pdf_path": null,
-      "notes": "Listed by the repository's SJC official roster; PDF binary is external and not vendored."
+      "notes": "URL assigned to this canonical docket in the judicial case catalogue."
     },
     {
       "source_id": "case-pdf:2018-02_Lewis_v_MSValley",
       "record_type": "case",
-      "record_id": "2018-2",
+      "record_id": "2018-02",
       "url": "https://pcahistory.org/pca/sjc/cases/2018-02_Lewis_v_MSValley.pdf",
       "pdf_path": "pca/sjc/cases/2018-02_Lewis_v_MSValley.pdf",
-      "status": "listed",
-      "inventory_source": "data/cases/sources/sjc_official/roster.jsonl",
+      "status": "canonical",
+      "inventory_source": "data/cases/records/judicial_cases.jsonl",
       "local_pdf_path": null,
-      "notes": "Listed by the repository's SJC official roster; PDF binary is external and not vendored."
+      "notes": "URL assigned to this canonical docket in the judicial case catalogue."
     },
     {
       "source_id": "case-pdf:2018-03_Durand_v_CentralFlorida",
       "record_type": "case",
-      "record_id": "2018-3",
+      "record_id": "2018-03",
       "url": "https://pcahistory.org/pca/sjc/cases/2018-03_Durand_v_CentralFlorida.pdf",
       "pdf_path": "pca/sjc/cases/2018-03_Durand_v_CentralFlorida.pdf",
-      "status": "listed",
-      "inventory_source": "data/cases/sources/sjc_official/roster.jsonl",
+      "status": "canonical",
+      "inventory_source": "data/cases/records/judicial_cases.jsonl",
       "local_pdf_path": null,
-      "notes": "Listed by the repository's SJC official roster; PDF binary is external and not vendored."
+      "notes": "URL assigned to this canonical docket in the judicial case catalogue."
     },
     {
       "source_id": "case-pdf:2018-04_Mapes_v_MetropolitanNY",
       "record_type": "case",
-      "record_id": "2018-4",
+      "record_id": "2018-04",
       "url": "https://pcahistory.org/pca/sjc/cases/2018-04_Mapes_v_MetropolitanNY.pdf",
       "pdf_path": "pca/sjc/cases/2018-04_Mapes_v_MetropolitanNY.pdf",
-      "status": "listed",
-      "inventory_source": "data/cases/sources/sjc_official/roster.jsonl",
+      "status": "canonical",
+      "inventory_source": "data/cases/records/judicial_cases.jsonl",
       "local_pdf_path": null,
-      "notes": "Listed by the repository's SJC official roster; PDF binary is external and not vendored."
+      "notes": "URL assigned to this canonical docket in the judicial case catalogue."
     },
     {
       "source_id": "case-pdf:2018-05_McKay_v_Central_Indiana",
       "record_type": "case",
-      "record_id": "2018-5",
+      "record_id": "2018-05",
       "url": "https://pcahistory.org/pca/sjc/cases/2018-05_McKay_v_Central_Indiana.pdf",
       "pdf_path": "pca/sjc/cases/2018-05_McKay_v_Central_Indiana.pdf",
-      "status": "listed",
-      "inventory_source": "data/cases/sources/sjc_official/roster.jsonl",
+      "status": "canonical",
+      "inventory_source": "data/cases/records/judicial_cases.jsonl",
       "local_pdf_path": null,
-      "notes": "Listed by the repository's SJC official roster; PDF binary is external and not vendored."
+      "notes": "URL assigned to this canonical docket in the judicial case catalogue."
     },
     {
       "source_id": "case-pdf:2018-06_Edwards_v_NorthTexas",
       "record_type": "case",
-      "record_id": "2018-6",
+      "record_id": "2018-06",
       "url": "https://pcahistory.org/pca/sjc/cases/2018-06_Edwards_v_NorthTexas.pdf",
       "pdf_path": "pca/sjc/cases/2018-06_Edwards_v_NorthTexas.pdf",
-      "status": "listed",
-      "inventory_source": "data/cases/sources/sjc_official/roster.jsonl",
+      "status": "canonical",
+      "inventory_source": "data/cases/records/judicial_cases.jsonl",
       "local_pdf_path": null,
-      "notes": "Listed by the repository's SJC official roster; PDF binary is external and not vendored."
+      "notes": "URL assigned to this canonical docket in the judicial case catalogue."
     },
     {
       "source_id": "case-pdf:2019-01_Dodson_v_Ohio",
       "record_type": "case",
-      "record_id": "2019-1",
+      "record_id": "2019-01",
       "url": "https://pcahistory.org/pca/sjc/cases/2019-01_Dodson_v_Ohio.pdf",
       "pdf_path": "pca/sjc/cases/2019-01_Dodson_v_Ohio.pdf",
-      "status": "listed",
-      "inventory_source": "data/cases/sources/sjc_official/roster.jsonl",
+      "status": "canonical",
+      "inventory_source": "data/cases/records/judicial_cases.jsonl",
       "local_pdf_path": null,
-      "notes": "Listed by the repository's SJC official roster; PDF binary is external and not vendored."
+      "notes": "URL assigned to this canonical docket in the judicial case catalogue."
     },
     {
       "source_id": "case-pdf:2019-02_Schrock_v_Philadelphia",
       "record_type": "case",
-      "record_id": "2019-2",
+      "record_id": "2019-02",
       "url": "https://pcahistory.org/pca/sjc/cases/2019-02_Schrock_v_Philadelphia.pdf",
       "pdf_path": "pca/sjc/cases/2019-02_Schrock_v_Philadelphia.pdf",
-      "status": "listed",
-      "inventory_source": "data/cases/sources/sjc_official/roster.jsonl",
+      "status": "canonical",
+      "inventory_source": "data/cases/records/judicial_cases.jsonl",
       "local_pdf_path": null,
-      "notes": "Listed by the repository's SJC official roster; PDF binary is external and not vendored."
+      "notes": "URL assigned to this canonical docket in the judicial case catalogue."
     },
     {
       "source_id": "case-pdf:2019-03_Crouse_v_NWGeorgia",
       "record_type": "case",
-      "record_id": "2019-3",
+      "record_id": "2019-03",
       "url": "https://pcahistory.org/pca/sjc/cases/2019-03_Crouse_v_NWGeorgia.pdf",
       "pdf_path": "pca/sjc/cases/2019-03_Crouse_v_NWGeorgia.pdf",
-      "status": "listed",
-      "inventory_source": "data/cases/sources/sjc_official/roster.jsonl",
+      "status": "canonical",
+      "inventory_source": "data/cases/records/judicial_cases.jsonl",
       "local_pdf_path": null,
-      "notes": "Listed by the repository's SJC official roster; PDF binary is external and not vendored."
+      "notes": "URL assigned to this canonical docket in the judicial case catalogue."
     },
     {
       "source_id": "case-pdf:2019-04_Williams_v_Chesapeake",
       "record_type": "case",
-      "record_id": "2019-4",
+      "record_id": "2019-04",
       "url": "https://pcahistory.org/pca/sjc/cases/2019-04_Williams_v_Chesapeake.pdf",
       "pdf_path": "pca/sjc/cases/2019-04_Williams_v_Chesapeake.pdf",
-      "status": "listed",
-      "inventory_source": "data/cases/sources/sjc_official/roster.jsonl",
+      "status": "canonical",
+      "inventory_source": "data/cases/records/judicial_cases.jsonl",
       "local_pdf_path": null,
-      "notes": "Listed by the repository's SJC official roster; PDF binary is external and not vendored."
+      "notes": "URL assigned to this canonical docket in the judicial case catalogue."
     },
     {
       "source_id": "case-pdf:2019-05_Goggan_v_Missouri",
       "record_type": "case",
-      "record_id": "2019-5",
+      "record_id": "2019-05",
       "url": "https://pcahistory.org/pca/sjc/cases/2019-05_Goggan_v_Missouri.pdf",
       "pdf_path": "pca/sjc/cases/2019-05_Goggan_v_Missouri.pdf",
-      "status": "listed",
-      "inventory_source": "data/cases/sources/sjc_official/roster.jsonl",
+      "status": "canonical",
+      "inventory_source": "data/cases/records/judicial_cases.jsonl",
       "local_pdf_path": null,
-      "notes": "Listed by the repository's SJC official roster; PDF binary is external and not vendored."
+      "notes": "URL assigned to this canonical docket in the judicial case catalogue."
     },
     {
       "source_id": "case-pdf:2019-06_PCA_v_MSValley",
       "record_type": "case",
-      "record_id": "2019-6",
+      "record_id": "2019-06",
       "url": "https://pcahistory.org/pca/sjc/cases/2019-06_PCA_v_MSValley.pdf",
       "pdf_path": "pca/sjc/cases/2019-06_PCA_v_MSValley.pdf",
-      "status": "listed",
-      "inventory_source": "data/cases/sources/sjc_official/roster.jsonl",
+      "status": "canonical",
+      "inventory_source": "data/cases/records/judicial_cases.jsonl",
       "local_pdf_path": null,
-      "notes": "Listed by the repository's SJC official roster; PDF binary is external and not vendored."
+      "notes": "URL assigned to this canonical docket in the judicial case catalogue."
     },
     {
       "source_id": "case-pdf:2019-07_Fozard_v_NorthTX",
       "record_type": "case",
-      "record_id": "2019-7",
+      "record_id": "2019-07",
       "url": "https://pcahistory.org/pca/sjc/cases/2019-07_Fozard_v_NorthTX.pdf",
       "pdf_path": "pca/sjc/cases/2019-07_Fozard_v_NorthTX.pdf",
-      "status": "listed",
-      "inventory_source": "data/cases/sources/sjc_official/roster.jsonl",
+      "status": "canonical",
+      "inventory_source": "data/cases/records/judicial_cases.jsonl",
       "local_pdf_path": null,
-      "notes": "Listed by the repository's SJC official roster; PDF binary is external and not vendored."
+      "notes": "URL assigned to this canonical docket in the judicial case catalogue."
     },
     {
       "source_id": "case-pdf:2019-08_Ganzel_v_CentralFL",
       "record_type": "case",
-      "record_id": "2019-8",
+      "record_id": "2019-08",
       "url": "https://pcahistory.org/pca/sjc/cases/2019-08_Ganzel_v_CentralFL.pdf",
       "pdf_path": "pca/sjc/cases/2019-08_Ganzel_v_CentralFL.pdf",
-      "status": "listed",
-      "inventory_source": "data/cases/sources/sjc_official/roster.jsonl",
+      "status": "canonical",
+      "inventory_source": "data/cases/records/judicial_cases.jsonl",
       "local_pdf_path": null,
-      "notes": "Listed by the repository's SJC official roster; PDF binary is external and not vendored."
+      "notes": "URL assigned to this canonical docket in the judicial case catalogue."
     },
     {
       "source_id": "case-pdf:2019-09_Mueller_v_SouthFL",
       "record_type": "case",
-      "record_id": "2019-9",
+      "record_id": "2019-09",
       "url": "https://pcahistory.org/pca/sjc/cases/2019-09_Mueller_v_SouthFL.pdf",
       "pdf_path": "pca/sjc/cases/2019-09_Mueller_v_SouthFL.pdf",
-      "status": "listed",
-      "inventory_source": "data/cases/sources/sjc_official/roster.jsonl",
+      "status": "canonical",
+      "inventory_source": "data/cases/records/judicial_cases.jsonl",
       "local_pdf_path": null,
-      "notes": "Listed by the repository's SJC official roster; PDF binary is external and not vendored."
+      "notes": "URL assigned to this canonical docket in the judicial case catalogue."
     },
     {
       "source_id": "case-pdf:2019-10_Evans_v_Arizona",
@@ -1092,10 +1092,10 @@
       "record_id": "2019-10",
       "url": "https://pcahistory.org/pca/sjc/cases/2019-10_Evans_v_Arizona.pdf",
       "pdf_path": "pca/sjc/cases/2019-10_Evans_v_Arizona.pdf",
-      "status": "listed",
-      "inventory_source": "data/cases/sources/sjc_official/roster.jsonl",
+      "status": "canonical",
+      "inventory_source": "data/cases/records/judicial_cases.jsonl",
       "local_pdf_path": null,
-      "notes": "Listed by the repository's SJC official roster; PDF binary is external and not vendored."
+      "notes": "URL assigned to this canonical docket in the judicial case catalogue."
     },
     {
       "source_id": "case-pdf:2019-11_Crouse_v_NWGeorgia",
@@ -1103,10 +1103,10 @@
       "record_id": "2019-11",
       "url": "https://pcahistory.org/pca/sjc/cases/2019-11_Crouse_v_NWGeorgia.pdf",
       "pdf_path": "pca/sjc/cases/2019-11_Crouse_v_NWGeorgia.pdf",
-      "status": "listed",
-      "inventory_source": "data/cases/sources/sjc_official/roster.jsonl",
+      "status": "canonical",
+      "inventory_source": "data/cases/records/judicial_cases.jsonl",
       "local_pdf_path": null,
-      "notes": "Listed by the repository's SJC official roster; PDF binary is external and not vendored."
+      "notes": "URL assigned to this canonical docket in the judicial case catalogue."
     },
     {
       "source_id": "case-pdf:2019-13_Gendy_v_CentralFL",
@@ -1114,10 +1114,10 @@
       "record_id": "2019-13",
       "url": "https://pcahistory.org/pca/sjc/cases/2019-13_Gendy_v_CentralFL.pdf",
       "pdf_path": "pca/sjc/cases/2019-13_Gendy_v_CentralFL.pdf",
-      "status": "listed",
-      "inventory_source": "data/cases/sources/sjc_official/roster.jsonl",
+      "status": "canonical",
+      "inventory_source": "data/cases/records/judicial_cases.jsonl",
       "local_pdf_path": null,
-      "notes": "Listed by the repository's SJC official roster; PDF binary is external and not vendored."
+      "notes": "URL assigned to this canonical docket in the judicial case catalogue."
     },
     {
       "source_id": "case-pdf:2019-14_Yoo_v_KoreanSWOrange",
@@ -1125,65 +1125,65 @@
       "record_id": "2019-14",
       "url": "https://pcahistory.org/pca/sjc/cases/2019-14_Yoo_v_KoreanSWOrange.pdf",
       "pdf_path": "pca/sjc/cases/2019-14_Yoo_v_KoreanSWOrange.pdf",
-      "status": "listed",
-      "inventory_source": "data/cases/sources/sjc_official/roster.jsonl",
+      "status": "canonical",
+      "inventory_source": "data/cases/records/judicial_cases.jsonl",
       "local_pdf_path": null,
-      "notes": "Listed by the repository's SJC official roster; PDF binary is external and not vendored."
+      "notes": "URL assigned to this canonical docket in the judicial case catalogue."
     },
     {
       "source_id": "case-pdf:2020-02_Original_Jurisdiction",
       "record_type": "case",
-      "record_id": "2020-2",
+      "record_id": "2020-02",
       "url": "https://pcahistory.org/pca/sjc/cases/2020-02_Original_Jurisdiction.pdf",
       "pdf_path": "pca/sjc/cases/2020-02_Original_Jurisdiction.pdf",
-      "status": "listed",
-      "inventory_source": "data/cases/sources/sjc_official/roster.jsonl",
+      "status": "canonical",
+      "inventory_source": "data/cases/records/judicial_cases.jsonl",
       "local_pdf_path": null,
-      "notes": "Listed by the repository's SJC official roster; PDF binary is external and not vendored."
+      "notes": "URL assigned to this canonical docket in the judicial case catalogue."
     },
     {
       "source_id": "case-pdf:2020-04_Marusich_v_Central_Indiana",
       "record_type": "case",
-      "record_id": "2020-4",
+      "record_id": "2020-04",
       "url": "https://pcahistory.org/pca/sjc/cases/2020-04_Marusich_v_Central_Indiana.pdf",
       "pdf_path": "pca/sjc/cases/2020-04_Marusich_v_Central_Indiana.pdf",
-      "status": "listed",
-      "inventory_source": "data/cases/sources/sjc_official/roster.jsonl",
+      "status": "canonical",
+      "inventory_source": "data/cases/records/judicial_cases.jsonl",
       "local_pdf_path": null,
-      "notes": "Listed by the repository's SJC official roster; PDF binary is external and not vendored."
+      "notes": "URL assigned to this canonical docket in the judicial case catalogue."
     },
     {
       "source_id": "case-pdf:2020-05_Speck_v_Missouri",
       "record_type": "case",
-      "record_id": "2020-5",
+      "record_id": "2020-05",
       "url": "https://pcahistory.org/pca/sjc/cases/2020-05_Speck_v_Missouri.pdf",
       "pdf_path": "pca/sjc/cases/2020-05_Speck_v_Missouri.pdf",
-      "status": "listed",
-      "inventory_source": "data/cases/sources/sjc_official/roster.jsonl",
+      "status": "canonical",
+      "inventory_source": "data/cases/records/judicial_cases.jsonl",
       "local_pdf_path": null,
-      "notes": "Listed by the repository's SJC official roster; PDF binary is external and not vendored."
+      "notes": "URL assigned to this canonical docket in the judicial case catalogue."
     },
     {
       "source_id": "case-pdf:2020-06_Gordon_v_SNEP",
       "record_type": "case",
-      "record_id": "2020-6",
+      "record_id": "2020-06",
       "url": "https://pcahistory.org/pca/sjc/cases/2020-06_Gordon_v_SNEP.pdf",
       "pdf_path": "pca/sjc/cases/2020-06_Gordon_v_SNEP.pdf",
-      "status": "listed",
-      "inventory_source": "data/cases/sources/sjc_official/roster.jsonl",
+      "status": "canonical",
+      "inventory_source": "data/cases/records/judicial_cases.jsonl",
       "local_pdf_path": null,
-      "notes": "Listed by the repository's SJC official roster; PDF binary is external and not vendored."
+      "notes": "URL assigned to this canonical docket in the judicial case catalogue."
     },
     {
       "source_id": "case-pdf:2020-07_Wilbourne_v_Pacific",
       "record_type": "case",
-      "record_id": "2020-7",
+      "record_id": "2020-07",
       "url": "https://pcahistory.org/pca/sjc/cases/2020-07_Wilbourne_v_Pacific.pdf",
       "pdf_path": "pca/sjc/cases/2020-07_Wilbourne_v_Pacific.pdf",
-      "status": "listed",
-      "inventory_source": "data/cases/sources/sjc_official/roster.jsonl",
+      "status": "canonical",
+      "inventory_source": "data/cases/records/judicial_cases.jsonl",
       "local_pdf_path": null,
-      "notes": "Listed by the repository's SJC official roster; PDF binary is external and not vendored."
+      "notes": "URL assigned to this canonical docket in the judicial case catalogue."
     },
     {
       "source_id": "case-pdf:2020-10_Eagle_v_SavannahRiver",
@@ -1191,10 +1191,10 @@
       "record_id": "2020-10",
       "url": "https://pcahistory.org/pca/sjc/cases/2020-10_Eagle_v_SavannahRiver.pdf",
       "pdf_path": "pca/sjc/cases/2020-10_Eagle_v_SavannahRiver.pdf",
-      "status": "listed",
-      "inventory_source": "data/cases/sources/sjc_official/roster.jsonl",
+      "status": "canonical",
+      "inventory_source": "data/cases/records/judicial_cases.jsonl",
       "local_pdf_path": null,
-      "notes": "Listed by the repository's SJC official roster; PDF binary is external and not vendored."
+      "notes": "URL assigned to this canonical docket in the judicial case catalogue."
     },
     {
       "source_id": "case-pdf:2020-11_McWilliams_v_SouthwestFL",
@@ -1202,10 +1202,10 @@
       "record_id": "2020-11",
       "url": "https://pcahistory.org/pca/sjc/cases/2020-11_McWilliams_v_SouthwestFL.pdf",
       "pdf_path": "pca/sjc/cases/2020-11_McWilliams_v_SouthwestFL.pdf",
-      "status": "listed",
-      "inventory_source": "data/cases/sources/sjc_official/roster.jsonl",
+      "status": "canonical",
+      "inventory_source": "data/cases/records/judicial_cases.jsonl",
       "local_pdf_path": null,
-      "notes": "Listed by the repository's SJC official roster; PDF binary is external and not vendored."
+      "notes": "URL assigned to this canonical docket in the judicial case catalogue."
     },
     {
       "source_id": "case-pdf:2020-12_Speck_v_Missouri",
@@ -1213,10 +1213,10 @@
       "record_id": "2020-12",
       "url": "https://pcahistory.org/pca/sjc/cases/2020-12_Speck_v_Missouri.pdf",
       "pdf_path": "pca/sjc/cases/2020-12_Speck_v_Missouri.pdf",
-      "status": "listed",
-      "inventory_source": "data/cases/sources/sjc_official/roster.jsonl",
+      "status": "canonical",
+      "inventory_source": "data/cases/records/judicial_cases.jsonl",
       "local_pdf_path": null,
-      "notes": "Listed by the repository's SJC official roster; PDF binary is external and not vendored."
+      "notes": "URL assigned to this canonical docket in the judicial case catalogue."
     },
     {
       "source_id": "case-pdf:2020-13_Benyola_v_CentralFL",
@@ -1224,87 +1224,87 @@
       "record_id": "2020-13",
       "url": "https://pcahistory.org/pca/sjc/cases/2020-13_Benyola_v_CentralFL.pdf",
       "pdf_path": "pca/sjc/cases/2020-13_Benyola_v_CentralFL.pdf",
-      "status": "listed",
-      "inventory_source": "data/cases/sources/sjc_official/roster.jsonl",
+      "status": "canonical",
+      "inventory_source": "data/cases/records/judicial_cases.jsonl",
       "local_pdf_path": null,
-      "notes": "Listed by the repository's SJC official roster; PDF binary is external and not vendored."
+      "notes": "URL assigned to this canonical docket in the judicial case catalogue."
     },
     {
       "source_id": "case-pdf:2021-01_Michelson_v_NWGeorgia",
       "record_type": "case",
-      "record_id": "2021-1",
+      "record_id": "2021-01",
       "url": "https://pcahistory.org/pca/sjc/cases/2021-01_Michelson_v_NWGeorgia.pdf",
       "pdf_path": "pca/sjc/cases/2021-01_Michelson_v_NWGeorgia.pdf",
-      "status": "listed",
-      "inventory_source": "data/cases/sources/sjc_official/roster.jsonl",
+      "status": "canonical",
+      "inventory_source": "data/cases/records/judicial_cases.jsonl",
       "local_pdf_path": null,
-      "notes": "Listed by the repository's SJC official roster; PDF binary is external and not vendored."
+      "notes": "URL assigned to this canonical docket in the judicial case catalogue."
     },
     {
       "source_id": "case-pdf:2021-02_Tippins_v_NWGeorgia",
       "record_type": "case",
-      "record_id": "2021-2",
+      "record_id": "2021-02",
       "url": "https://pcahistory.org/pca/sjc/cases/2021-02_Tippins_v_NWGeorgia.pdf",
       "pdf_path": "pca/sjc/cases/2021-02_Tippins_v_NWGeorgia.pdf",
-      "status": "listed",
-      "inventory_source": "data/cases/sources/sjc_official/roster.jsonl",
+      "status": "canonical",
+      "inventory_source": "data/cases/records/judicial_cases.jsonl",
       "local_pdf_path": null,
-      "notes": "Listed by the repository's SJC official roster; PDF binary is external and not vendored."
+      "notes": "URL assigned to this canonical docket in the judicial case catalogue."
     },
     {
       "source_id": "case-pdf:2021-03_DeJong_v_V7PC_Session",
       "record_type": "case",
-      "record_id": "2021-3",
+      "record_id": "2021-03",
       "url": "https://pcahistory.org/pca/sjc/cases/2021-03_DeJong_v_V7PC_Session.pdf",
       "pdf_path": "pca/sjc/cases/2021-03_DeJong_v_V7PC_Session.pdf",
-      "status": "listed",
-      "inventory_source": "data/cases/sources/sjc_official/roster.jsonl",
+      "status": "canonical",
+      "inventory_source": "data/cases/records/judicial_cases.jsonl",
       "local_pdf_path": null,
-      "notes": "Listed by the repository's SJC official roster; PDF binary is external and not vendored."
+      "notes": "URL assigned to this canonical docket in the judicial case catalogue."
     },
     {
       "source_id": "case-pdf:2021-05_Eudaly_v_SWFlorida",
       "record_type": "case",
-      "record_id": "2021-5",
+      "record_id": "2021-05",
       "url": "https://pcahistory.org/pca/sjc/cases/2021-05_Eudaly_v_SWFlorida.pdf",
       "pdf_path": "pca/sjc/cases/2021-05_Eudaly_v_SWFlorida.pdf",
-      "status": "listed",
-      "inventory_source": "data/cases/sources/sjc_official/roster.jsonl",
+      "status": "canonical",
+      "inventory_source": "data/cases/records/judicial_cases.jsonl",
       "local_pdf_path": null,
-      "notes": "Listed by the repository's SJC official roster; PDF binary is external and not vendored."
+      "notes": "URL assigned to this canonical docket in the judicial case catalogue."
     },
     {
       "source_id": "case-pdf:2021-06_Herron_v_CIP",
       "record_type": "case",
-      "record_id": "2021-6",
+      "record_id": "2021-06",
       "url": "https://pcahistory.org/pca/sjc/cases/2021-06_Herron_v_CIP.pdf",
       "pdf_path": "pca/sjc/cases/2021-06_Herron_v_CIP.pdf",
-      "status": "listed",
-      "inventory_source": "data/cases/sources/sjc_official/roster.jsonl",
+      "status": "canonical",
+      "inventory_source": "data/cases/records/judicial_cases.jsonl",
       "local_pdf_path": null,
-      "notes": "Listed by the repository's SJC official roster; PDF binary is external and not vendored."
+      "notes": "URL assigned to this canonical docket in the judicial case catalogue."
     },
     {
       "source_id": "case-pdf:2021-07_Acree_v_TNValley",
       "record_type": "case",
-      "record_id": "2021-7",
+      "record_id": "2021-07",
       "url": "https://pcahistory.org/pca/sjc/cases/2021-07_Acree_v_TNValley.pdf",
       "pdf_path": "pca/sjc/cases/2021-07_Acree_v_TNValley.pdf",
-      "status": "listed",
-      "inventory_source": "data/cases/sources/sjc_official/roster.jsonl",
+      "status": "canonical",
+      "inventory_source": "data/cases/records/judicial_cases.jsonl",
       "local_pdf_path": null,
-      "notes": "Listed by the repository's SJC official roster; PDF binary is external and not vendored."
+      "notes": "URL assigned to this canonical docket in the judicial case catalogue."
     },
     {
       "source_id": "case-pdf:2021-08_Citation_Korean_SWOrange",
       "record_type": "case",
-      "record_id": "2021-8",
+      "record_id": "2021-08",
       "url": "https://pcahistory.org/pca/sjc/cases/2021-08_Citation_Korean_SWOrange.pdf",
       "pdf_path": "pca/sjc/cases/2021-08_Citation_Korean_SWOrange.pdf",
-      "status": "listed",
-      "inventory_source": "data/cases/sources/sjc_official/roster.jsonl",
+      "status": "canonical",
+      "inventory_source": "data/cases/records/judicial_cases.jsonl",
       "local_pdf_path": null,
-      "notes": "Listed by the repository's SJC official roster; PDF binary is external and not vendored."
+      "notes": "URL assigned to this canonical docket in the judicial case catalogue."
     },
     {
       "source_id": "case-pdf:2021-11_Park_v_KCP",
@@ -1312,10 +1312,10 @@
       "record_id": "2021-11",
       "url": "https://pcahistory.org/pca/sjc/cases/2021-11_Park_v_KCP.pdf",
       "pdf_path": "pca/sjc/cases/2021-11_Park_v_KCP.pdf",
-      "status": "listed",
-      "inventory_source": "data/cases/sources/sjc_official/roster.jsonl",
+      "status": "canonical",
+      "inventory_source": "data/cases/records/judicial_cases.jsonl",
       "local_pdf_path": null,
-      "notes": "Listed by the repository's SJC official roster; PDF binary is external and not vendored."
+      "notes": "URL assigned to this canonical docket in the judicial case catalogue."
     },
     {
       "source_id": "case-pdf:2021-12_Michelson_v_NWGeorgia",
@@ -1323,10 +1323,10 @@
       "record_id": "2021-12",
       "url": "https://pcahistory.org/pca/sjc/cases/2021-12_Michelson_v_NWGeorgia.pdf",
       "pdf_path": "pca/sjc/cases/2021-12_Michelson_v_NWGeorgia.pdf",
-      "status": "listed",
-      "inventory_source": "data/cases/sources/sjc_official/roster.jsonl",
+      "status": "canonical",
+      "inventory_source": "data/cases/records/judicial_cases.jsonl",
       "local_pdf_path": null,
-      "notes": "Listed by the repository's SJC official roster; PDF binary is external and not vendored."
+      "notes": "URL assigned to this canonical docket in the judicial case catalogue."
     },
     {
       "source_id": "case-pdf:2021-13_Dudt_v_NWGA",
@@ -1334,10 +1334,10 @@
       "record_id": "2021-13",
       "url": "https://pcahistory.org/pca/sjc/cases/2021-13_Dudt_v_NWGA.pdf",
       "pdf_path": "pca/sjc/cases/2021-13_Dudt_v_NWGA.pdf",
-      "status": "listed",
-      "inventory_source": "data/cases/sources/sjc_official/roster.jsonl",
+      "status": "canonical",
+      "inventory_source": "data/cases/records/judicial_cases.jsonl",
       "local_pdf_path": null,
-      "notes": "Listed by the repository's SJC official roster; PDF binary is external and not vendored."
+      "notes": "URL assigned to this canonical docket in the judicial case catalogue."
     },
     {
       "source_id": "case-pdf:2021-14_Herron_v_CIP_complaint",
@@ -1345,10 +1345,10 @@
       "record_id": "2021-14",
       "url": "https://pcahistory.org/pca/sjc/cases/2021-14_Herron_v_CIP_complaint.pdf",
       "pdf_path": "pca/sjc/cases/2021-14_Herron_v_CIP_complaint.pdf",
-      "status": "listed",
-      "inventory_source": "data/cases/sources/sjc_official/roster.jsonl",
+      "status": "canonical",
+      "inventory_source": "data/cases/records/judicial_cases.jsonl",
       "local_pdf_path": null,
-      "notes": "Listed by the repository's SJC official roster; PDF binary is external and not vendored."
+      "notes": "URL assigned to this canonical docket in the judicial case catalogue."
     },
     {
       "source_id": "case-pdf:2021-15_Barber_v_CIP_complaint",
@@ -1356,109 +1356,109 @@
       "record_id": "2021-15",
       "url": "https://pcahistory.org/pca/sjc/cases/2021-15_Barber_v_CIP_complaint.pdf",
       "pdf_path": "pca/sjc/cases/2021-15_Barber_v_CIP_complaint.pdf",
-      "status": "listed",
-      "inventory_source": "data/cases/sources/sjc_official/roster.jsonl",
+      "status": "canonical",
+      "inventory_source": "data/cases/records/judicial_cases.jsonl",
       "local_pdf_path": null,
-      "notes": "Listed by the repository's SJC official roster; PDF binary is external and not vendored."
+      "notes": "URL assigned to this canonical docket in the judicial case catalogue."
     },
     {
       "source_id": "case-pdf:2022-01_Eagle_v_SavannahRiver",
       "record_type": "case",
-      "record_id": "2022-1",
+      "record_id": "2022-01",
       "url": "https://pcahistory.org/pca/sjc/cases/2022-01_Eagle_v_SavannahRiver.pdf",
       "pdf_path": "pca/sjc/cases/2022-01_Eagle_v_SavannahRiver.pdf",
-      "status": "listed",
-      "inventory_source": "data/cases/sources/sjc_official/roster.jsonl",
+      "status": "canonical",
+      "inventory_source": "data/cases/records/judicial_cases.jsonl",
       "local_pdf_path": null,
-      "notes": "Listed by the repository's SJC official roster; PDF binary is external and not vendored."
+      "notes": "URL assigned to this canonical docket in the judicial case catalogue."
     },
     {
       "source_id": "case-pdf:2022-02_Herron-Baysinger_v_CIP",
       "record_type": "case",
-      "record_id": "2022-2",
+      "record_id": "2022-02",
       "url": "https://pcahistory.org/pca/sjc/cases/2022-02_Herron&Baysinger_v_CIP.pdf",
       "pdf_path": "pca/sjc/cases/2022-02_Herron&Baysinger_v_CIP.pdf",
-      "status": "listed",
-      "inventory_source": "data/cases/sources/sjc_official/roster.jsonl",
+      "status": "canonical",
+      "inventory_source": "data/cases/records/judicial_cases.jsonl",
       "local_pdf_path": null,
-      "notes": "Listed by the repository's SJC official roster; PDF binary is external and not vendored."
+      "notes": "URL assigned to this canonical docket in the judicial case catalogue."
     },
     {
       "source_id": "case-pdf:2022-03_Klett_v_Philadelphia",
       "record_type": "case",
-      "record_id": "2022-3",
+      "record_id": "2022-03",
       "url": "https://pcahistory.org/pca/sjc/cases/2022-03_Klett_v_Philadelphia.pdf",
       "pdf_path": "pca/sjc/cases/2022-03_Klett_v_Philadelphia.pdf",
-      "status": "listed",
-      "inventory_source": "data/cases/sources/sjc_official/roster.jsonl",
+      "status": "canonical",
+      "inventory_source": "data/cases/records/judicial_cases.jsonl",
       "local_pdf_path": null,
-      "notes": "Listed by the repository's SJC official roster; PDF binary is external and not vendored."
+      "notes": "URL assigned to this canonical docket in the judicial case catalogue."
     },
     {
       "source_id": "case-pdf:2022-04_Sheppard_v_Highlands",
       "record_type": "case",
-      "record_id": "2022-4",
+      "record_id": "2022-04",
       "url": "https://pcahistory.org/pca/sjc/cases/2022-04_Sheppard_v_Highlands.pdf",
       "pdf_path": "pca/sjc/cases/2022-04_Sheppard_v_Highlands.pdf",
-      "status": "listed",
-      "inventory_source": "data/cases/sources/sjc_official/roster.jsonl",
+      "status": "canonical",
+      "inventory_source": "data/cases/records/judicial_cases.jsonl",
       "local_pdf_path": null,
-      "notes": "Listed by the repository's SJC official roster; PDF binary is external and not vendored."
+      "notes": "URL assigned to this canonical docket in the judicial case catalogue."
     },
     {
       "source_id": "case-pdf:2022-05_Crouse_v_NWGeorgia",
       "record_type": "case",
-      "record_id": "2022-5",
+      "record_id": "2022-05",
       "url": "https://pcahistory.org/pca/sjc/cases/2022-05_Crouse_v_NWGeorgia.pdf",
       "pdf_path": "pca/sjc/cases/2022-05_Crouse_v_NWGeorgia.pdf",
-      "status": "listed",
-      "inventory_source": "data/cases/sources/sjc_official/roster.jsonl",
+      "status": "canonical",
+      "inventory_source": "data/cases/records/judicial_cases.jsonl",
       "local_pdf_path": null,
-      "notes": "Listed by the repository's SJC official roster; PDF binary is external and not vendored."
+      "notes": "URL assigned to this canonical docket in the judicial case catalogue."
     },
     {
       "source_id": "case-pdf:2022-06_Biese_v_TNValley",
       "record_type": "case",
-      "record_id": "2022-6",
+      "record_id": "2022-06",
       "url": "https://pcahistory.org/pca/sjc/cases/2022-06_Biese_v_TNValley.pdf",
       "pdf_path": "pca/sjc/cases/2022-06_Biese_v_TNValley.pdf",
-      "status": "listed",
-      "inventory_source": "data/cases/sources/sjc_official/roster.jsonl",
+      "status": "canonical",
+      "inventory_source": "data/cases/records/judicial_cases.jsonl",
       "local_pdf_path": null,
-      "notes": "Listed by the repository's SJC official roster; PDF binary is external and not vendored."
+      "notes": "URL assigned to this canonical docket in the judicial case catalogue."
     },
     {
       "source_id": "case-pdf:2022-07_Harrell_v_Covenant",
       "record_type": "case",
-      "record_id": "2022-7",
+      "record_id": "2022-07",
       "url": "https://pcahistory.org/pca/sjc/cases/2022-07_Harrell_v_Covenant.pdf",
       "pdf_path": "pca/sjc/cases/2022-07_Harrell_v_Covenant.pdf",
-      "status": "listed",
-      "inventory_source": "data/cases/sources/sjc_official/roster.jsonl",
+      "status": "canonical",
+      "inventory_source": "data/cases/records/judicial_cases.jsonl",
       "local_pdf_path": null,
-      "notes": "Listed by the repository's SJC official roster; PDF binary is external and not vendored."
+      "notes": "URL assigned to this canonical docket in the judicial case catalogue."
     },
     {
       "source_id": "case-pdf:2022-08_Snoke_v_Pittsburgh",
       "record_type": "case",
-      "record_id": "2022-8",
+      "record_id": "2022-08",
       "url": "https://pcahistory.org/pca/sjc/cases/2022-08_Snoke_v_Pittsburgh.pdf",
       "pdf_path": "pca/sjc/cases/2022-08_Snoke_v_Pittsburgh.pdf",
-      "status": "listed",
-      "inventory_source": "data/cases/sources/sjc_official/roster.jsonl",
+      "status": "canonical",
+      "inventory_source": "data/cases/records/judicial_cases.jsonl",
       "local_pdf_path": null,
-      "notes": "Listed by the repository's SJC official roster; PDF binary is external and not vendored."
+      "notes": "URL assigned to this canonical docket in the judicial case catalogue."
     },
     {
       "source_id": "case-pdf:2022-09_Benyola_v_Central_Florida",
       "record_type": "case",
-      "record_id": "2022-9",
+      "record_id": "2022-09",
       "url": "https://pcahistory.org/pca/sjc/cases/2022-09_Benyola_v_Central_Florida.pdf",
       "pdf_path": "pca/sjc/cases/2022-09_Benyola_v_Central_Florida.pdf",
-      "status": "listed",
-      "inventory_source": "data/cases/sources/sjc_official/roster.jsonl",
+      "status": "canonical",
+      "inventory_source": "data/cases/records/judicial_cases.jsonl",
       "local_pdf_path": null,
-      "notes": "Listed by the repository's SJC official roster; PDF binary is external and not vendored."
+      "notes": "URL assigned to this canonical docket in the judicial case catalogue."
     },
     {
       "source_id": "case-pdf:2022-10_PCA_v_Herron",
@@ -1466,10 +1466,10 @@
       "record_id": "2022-10",
       "url": "https://pcahistory.org/pca/sjc/cases/2022-10_PCA_v_Herron.pdf",
       "pdf_path": "pca/sjc/cases/2022-10_PCA_v_Herron.pdf",
-      "status": "listed",
-      "inventory_source": "data/cases/sources/sjc_official/roster.jsonl",
+      "status": "canonical",
+      "inventory_source": "data/cases/records/judicial_cases.jsonl",
       "local_pdf_path": null,
-      "notes": "Listed by the repository's SJC official roster; PDF binary is external and not vendored."
+      "notes": "URL assigned to this canonical docket in the judicial case catalogue."
     },
     {
       "source_id": "case-pdf:2022-11_Petitions_re_Central_Indiana",
@@ -1477,10 +1477,10 @@
       "record_id": "2022-11",
       "url": "https://pcahistory.org/pca/sjc/cases/2022-11_Petitions_re_Central_Indiana.pdf",
       "pdf_path": "pca/sjc/cases/2022-11_Petitions_re_Central_Indiana.pdf",
-      "status": "listed",
-      "inventory_source": "data/cases/sources/sjc_official/roster.jsonl",
+      "status": "canonical",
+      "inventory_source": "data/cases/records/judicial_cases.jsonl",
       "local_pdf_path": null,
-      "notes": "Listed by the repository's SJC official roster; PDF binary is external and not vendored."
+      "notes": "URL assigned to this canonical docket in the judicial case catalogue."
     },
     {
       "source_id": "case-pdf:2022-12_Petitions_re_Missouri_Presbytery",
@@ -1488,10 +1488,10 @@
       "record_id": "2022-12",
       "url": "https://pcahistory.org/pca/sjc/cases/2022-12_Petitions_re_Missouri_Presbytery.pdf",
       "pdf_path": "pca/sjc/cases/2022-12_Petitions_re_Missouri_Presbytery.pdf",
-      "status": "listed",
-      "inventory_source": "data/cases/sources/sjc_official/roster.jsonl",
+      "status": "canonical",
+      "inventory_source": "data/cases/records/judicial_cases.jsonl",
       "local_pdf_path": null,
-      "notes": "Listed by the repository's SJC official roster; PDF binary is external and not vendored."
+      "notes": "URL assigned to this canonical docket in the judicial case catalogue."
     },
     {
       "source_id": "case-pdf:2022-13_Miller_v_Hills-Plains",
@@ -1499,10 +1499,10 @@
       "record_id": "2022-13",
       "url": "https://pcahistory.org/pca/sjc/cases/2022-13_Miller_v_Hills&Plains.pdf",
       "pdf_path": "pca/sjc/cases/2022-13_Miller_v_Hills&Plains.pdf",
-      "status": "listed",
-      "inventory_source": "data/cases/sources/sjc_official/roster.jsonl",
+      "status": "canonical",
+      "inventory_source": "data/cases/records/judicial_cases.jsonl",
       "local_pdf_path": null,
-      "notes": "Listed by the repository's SJC official roster; PDF binary is external and not vendored."
+      "notes": "URL assigned to this canonical docket in the judicial case catalogue."
     },
     {
       "source_id": "case-pdf:2022-14_Oh_v_KoreanSE",
@@ -1510,10 +1510,10 @@
       "record_id": "2022-14",
       "url": "https://pcahistory.org/pca/sjc/cases/2022-14_Oh_v_KoreanSE.pdf",
       "pdf_path": "pca/sjc/cases/2022-14_Oh_v_KoreanSE.pdf",
-      "status": "listed",
-      "inventory_source": "data/cases/sources/sjc_official/roster.jsonl",
+      "status": "canonical",
+      "inventory_source": "data/cases/records/judicial_cases.jsonl",
       "local_pdf_path": null,
-      "notes": "Listed by the repository's SJC official roster; PDF binary is external and not vendored."
+      "notes": "URL assigned to this canonical docket in the judicial case catalogue."
     },
     {
       "source_id": "case-pdf:2022-15_Murdock_v_South_Florida",
@@ -1521,10 +1521,10 @@
       "record_id": "2022-15",
       "url": "https://pcahistory.org/pca/sjc/cases/2022-15_Murdock_v_South_Florida.pdf",
       "pdf_path": "pca/sjc/cases/2022-15_Murdock_v_South_Florida.pdf",
-      "status": "listed",
-      "inventory_source": "data/cases/sources/sjc_official/roster.jsonl",
+      "status": "canonical",
+      "inventory_source": "data/cases/records/judicial_cases.jsonl",
       "local_pdf_path": null,
-      "notes": "Listed by the repository's SJC official roster; PDF binary is external and not vendored."
+      "notes": "URL assigned to this canonical docket in the judicial case catalogue."
     },
     {
       "source_id": "case-pdf:2022-16_Michelson_v_NWGeorgia",
@@ -1532,10 +1532,10 @@
       "record_id": "2022-16",
       "url": "https://pcahistory.org/pca/sjc/cases/2022-16_Michelson_v_NWGeorgia.pdf",
       "pdf_path": "pca/sjc/cases/2022-16_Michelson_v_NWGeorgia.pdf",
-      "status": "listed",
-      "inventory_source": "data/cases/sources/sjc_official/roster.jsonl",
+      "status": "canonical",
+      "inventory_source": "data/cases/records/judicial_cases.jsonl",
       "local_pdf_path": null,
-      "notes": "Listed by the repository's SJC official roster; PDF binary is external and not vendored."
+      "notes": "URL assigned to this canonical docket in the judicial case catalogue."
     },
     {
       "source_id": "case-pdf:2022-17_Benyola_v_Central_Florida",
@@ -1543,10 +1543,10 @@
       "record_id": "2022-17",
       "url": "https://pcahistory.org/pca/sjc/cases/2022-17_Benyola_v_Central_Florida.pdf",
       "pdf_path": "pca/sjc/cases/2022-17_Benyola_v_Central_Florida.pdf",
-      "status": "listed",
-      "inventory_source": "data/cases/sources/sjc_official/roster.jsonl",
+      "status": "canonical",
+      "inventory_source": "data/cases/records/judicial_cases.jsonl",
       "local_pdf_path": null,
-      "notes": "Listed by the repository's SJC official roster; PDF binary is external and not vendored."
+      "notes": "URL assigned to this canonical docket in the judicial case catalogue."
     },
     {
       "source_id": "case-pdf:2022-20_Wilson_v_PacificNW",
@@ -1554,10 +1554,10 @@
       "record_id": "2022-20",
       "url": "https://pcahistory.org/pca/sjc/cases/2022-20_Wilson_v_PacificNW.pdf",
       "pdf_path": "pca/sjc/cases/2022-20_Wilson_v_PacificNW.pdf",
-      "status": "listed",
-      "inventory_source": "data/cases/sources/sjc_official/roster.jsonl",
+      "status": "canonical",
+      "inventory_source": "data/cases/records/judicial_cases.jsonl",
       "local_pdf_path": null,
-      "notes": "Listed by the repository's SJC official roster; PDF binary is external and not vendored."
+      "notes": "URL assigned to this canonical docket in the judicial case catalogue."
     },
     {
       "source_id": "case-pdf:2022-21_Senters_v_Savannah_River",
@@ -1565,10 +1565,10 @@
       "record_id": "2022-21",
       "url": "https://pcahistory.org/pca/sjc/cases/2022-21_Senters_v_Savannah_River.pdf",
       "pdf_path": "pca/sjc/cases/2022-21_Senters_v_Savannah_River.pdf",
-      "status": "listed",
-      "inventory_source": "data/cases/sources/sjc_official/roster.jsonl",
+      "status": "canonical",
+      "inventory_source": "data/cases/records/judicial_cases.jsonl",
       "local_pdf_path": null,
-      "notes": "Listed by the repository's SJC official roster; PDF binary is external and not vendored."
+      "notes": "URL assigned to this canonical docket in the judicial case catalogue."
     },
     {
       "source_id": "case-pdf:2022-22_Turner_v_SouthFL",
@@ -1576,10 +1576,10 @@
       "record_id": "2022-22",
       "url": "https://pcahistory.org/pca/sjc/cases/2022-22_Turner_v_SouthFL.pdf",
       "pdf_path": "pca/sjc/cases/2022-22_Turner_v_SouthFL.pdf",
-      "status": "listed",
-      "inventory_source": "data/cases/sources/sjc_official/roster.jsonl",
+      "status": "canonical",
+      "inventory_source": "data/cases/records/judicial_cases.jsonl",
       "local_pdf_path": null,
-      "notes": "Listed by the repository's SJC official roster; PDF binary is external and not vendored."
+      "notes": "URL assigned to this canonical docket in the judicial case catalogue."
     },
     {
       "source_id": "case-pdf:2022-23_Woodham_v_SouthFL",
@@ -1587,65 +1587,65 @@
       "record_id": "2022-23",
       "url": "https://pcahistory.org/pca/sjc/cases/2022-23_Woodham_v_SouthFL.pdf",
       "pdf_path": "pca/sjc/cases/2022-23_Woodham_v_SouthFL.pdf",
-      "status": "listed",
-      "inventory_source": "data/cases/sources/sjc_official/roster.jsonl",
+      "status": "canonical",
+      "inventory_source": "data/cases/records/judicial_cases.jsonl",
       "local_pdf_path": null,
-      "notes": "Listed by the repository's SJC official roster; PDF binary is external and not vendored."
+      "notes": "URL assigned to this canonical docket in the judicial case catalogue."
     },
     {
       "source_id": "case-pdf:2023-02_Reynolds_v_PeeDee",
       "record_type": "case",
-      "record_id": "2023-2",
+      "record_id": "2023-02",
       "url": "https://pcahistory.org/pca/sjc/cases/2023-02_Reynolds_v_PeeDee.pdf",
       "pdf_path": "pca/sjc/cases/2023-02_Reynolds_v_PeeDee.pdf",
-      "status": "listed",
-      "inventory_source": "data/cases/sources/sjc_official/roster.jsonl",
+      "status": "canonical",
+      "inventory_source": "data/cases/records/judicial_cases.jsonl",
       "local_pdf_path": null,
-      "notes": "Listed by the repository's SJC official roster; PDF binary is external and not vendored."
+      "notes": "URL assigned to this canonical docket in the judicial case catalogue."
     },
     {
       "source_id": "case-pdf:2023-04_Biese_v_TNValley",
       "record_type": "case",
-      "record_id": "2023-4",
+      "record_id": "2023-04",
       "url": "https://pcahistory.org/pca/sjc/cases/2023-04_Biese_v_TNValley.pdf",
       "pdf_path": "pca/sjc/cases/2023-04_Biese_v_TNValley.pdf",
-      "status": "listed",
-      "inventory_source": "data/cases/sources/sjc_official/roster.jsonl",
+      "status": "canonical",
+      "inventory_source": "data/cases/records/judicial_cases.jsonl",
       "local_pdf_path": null,
-      "notes": "Listed by the repository's SJC official roster; PDF binary is external and not vendored."
+      "notes": "URL assigned to this canonical docket in the judicial case catalogue."
     },
     {
       "source_id": "case-pdf:2023-06_Baird_v_Grace",
       "record_type": "case",
-      "record_id": "2023-6",
+      "record_id": "2023-06",
       "url": "https://pcahistory.org/pca/sjc/cases/2023-06_Baird_v_Grace.pdf",
       "pdf_path": "pca/sjc/cases/2023-06_Baird_v_Grace.pdf",
-      "status": "listed",
-      "inventory_source": "data/cases/sources/sjc_official/roster.jsonl",
+      "status": "canonical",
+      "inventory_source": "data/cases/records/judicial_cases.jsonl",
       "local_pdf_path": null,
-      "notes": "Listed by the repository's SJC official roster; PDF binary is external and not vendored."
+      "notes": "URL assigned to this canonical docket in the judicial case catalogue."
     },
     {
       "source_id": "case-pdf:2023-07_Evans_v_Arizona",
       "record_type": "case",
-      "record_id": "2023-7",
+      "record_id": "2023-07",
       "url": "https://pcahistory.org/pca/sjc/cases/2023-07_Evans_v_Arizona.pdf",
       "pdf_path": "pca/sjc/cases/2023-07_Evans_v_Arizona.pdf",
-      "status": "listed",
-      "inventory_source": "data/cases/sources/sjc_official/roster.jsonl",
+      "status": "canonical",
+      "inventory_source": "data/cases/records/judicial_cases.jsonl",
       "local_pdf_path": null,
-      "notes": "Listed by the repository's SJC official roster; PDF binary is external and not vendored."
+      "notes": "URL assigned to this canonical docket in the judicial case catalogue."
     },
     {
       "source_id": "case-pdf:2023-09_Myers_v_Illiana",
       "record_type": "case",
-      "record_id": "2023-9",
+      "record_id": "2023-09",
       "url": "https://pcahistory.org/pca/sjc/cases/2023-09_Myers_v_Illiana.pdf",
       "pdf_path": "pca/sjc/cases/2023-09_Myers_v_Illiana.pdf",
-      "status": "listed",
-      "inventory_source": "data/cases/sources/sjc_official/roster.jsonl",
+      "status": "canonical",
+      "inventory_source": "data/cases/records/judicial_cases.jsonl",
       "local_pdf_path": null,
-      "notes": "Listed by the repository's SJC official roster; PDF binary is external and not vendored."
+      "notes": "URL assigned to this canonical docket in the judicial case catalogue."
     },
     {
       "source_id": "case-pdf:2023-10_Martinez-Cook_v_Pacific",
@@ -1653,10 +1653,10 @@
       "record_id": "2023-10",
       "url": "https://pcahistory.org/pca/sjc/cases/2023-10_Martinez&Cook_v_Pacific.pdf",
       "pdf_path": "pca/sjc/cases/2023-10_Martinez&Cook_v_Pacific.pdf",
-      "status": "listed",
-      "inventory_source": "data/cases/sources/sjc_official/roster.jsonl",
+      "status": "canonical",
+      "inventory_source": "data/cases/records/judicial_cases.jsonl",
       "local_pdf_path": null,
-      "notes": "Listed by the repository's SJC official roster; PDF binary is external and not vendored."
+      "notes": "URL assigned to this canonical docket in the judicial case catalogue."
     },
     {
       "source_id": "case-pdf:2023-11_Psiaki_v_PacificNW",
@@ -1664,10 +1664,10 @@
       "record_id": "2023-11",
       "url": "https://pcahistory.org/pca/sjc/cases/2023-11_Psiaki_v_PacificNW.pdf",
       "pdf_path": "pca/sjc/cases/2023-11_Psiaki_v_PacificNW.pdf",
-      "status": "listed",
-      "inventory_source": "data/cases/sources/sjc_official/roster.jsonl",
+      "status": "canonical",
+      "inventory_source": "data/cases/records/judicial_cases.jsonl",
       "local_pdf_path": null,
-      "notes": "Listed by the repository's SJC official roster; PDF binary is external and not vendored."
+      "notes": "URL assigned to this canonical docket in the judicial case catalogue."
     },
     {
       "source_id": "case-pdf:2023-13_BCO40-5_MetroNY",
@@ -1675,10 +1675,10 @@
       "record_id": "2023-13",
       "url": "https://pcahistory.org/pca/sjc/cases/2023-13_BCO40-5_MetroNY.pdf",
       "pdf_path": "pca/sjc/cases/2023-13_BCO40-5_MetroNY.pdf",
-      "status": "listed",
-      "inventory_source": "data/cases/sources/sjc_official/roster.jsonl",
+      "status": "canonical",
+      "inventory_source": "data/cases/records/judicial_cases.jsonl",
       "local_pdf_path": null,
-      "notes": "Listed by the repository's SJC official roster; PDF binary is external and not vendored."
+      "notes": "URL assigned to this canonical docket in the judicial case catalogue."
     },
     {
       "source_id": "case-pdf:2023-14_BCO40-5_NWGeorgia",
@@ -1686,10 +1686,10 @@
       "record_id": "2023-14",
       "url": "https://pcahistory.org/pca/sjc/cases/2023-14_BCO40-5_NWGeorgia.pdf",
       "pdf_path": "pca/sjc/cases/2023-14_BCO40-5_NWGeorgia.pdf",
-      "status": "listed",
-      "inventory_source": "data/cases/sources/sjc_official/roster.jsonl",
+      "status": "canonical",
+      "inventory_source": "data/cases/records/judicial_cases.jsonl",
       "local_pdf_path": null,
-      "notes": "Listed by the repository's SJC official roster; PDF binary is external and not vendored."
+      "notes": "URL assigned to this canonical docket in the judicial case catalogue."
     },
     {
       "source_id": "case-pdf:2023-15_Turner_v_SouthFL",
@@ -1697,10 +1697,10 @@
       "record_id": "2023-15",
       "url": "https://pcahistory.org/pca/sjc/cases/2023-15_Turner_v_SouthFL.pdf",
       "pdf_path": "pca/sjc/cases/2023-15_Turner_v_SouthFL.pdf",
-      "status": "listed",
-      "inventory_source": "data/cases/sources/sjc_official/roster.jsonl",
+      "status": "canonical",
+      "inventory_source": "data/cases/records/judicial_cases.jsonl",
       "local_pdf_path": null,
-      "notes": "Listed by the repository's SJC official roster; PDF binary is external and not vendored."
+      "notes": "URL assigned to this canonical docket in the judicial case catalogue."
     },
     {
       "source_id": "case-pdf:2023-19_Huffman_v_TNValley",
@@ -1708,10 +1708,10 @@
       "record_id": "2023-19",
       "url": "https://pcahistory.org/pca/sjc/cases/2023-19_Huffman_v_TNValley.pdf",
       "pdf_path": "pca/sjc/cases/2023-19_Huffman_v_TNValley.pdf",
-      "status": "listed",
-      "inventory_source": "data/cases/sources/sjc_official/roster.jsonl",
+      "status": "canonical",
+      "inventory_source": "data/cases/records/judicial_cases.jsonl",
       "local_pdf_path": null,
-      "notes": "Listed by the repository's SJC official roster; PDF binary is external and not vendored."
+      "notes": "URL assigned to this canonical docket in the judicial case catalogue."
     },
     {
       "source_id": "case-pdf:2025-12--13_Assis_and_Brown_v_SFL_final",
@@ -1719,10 +1719,10 @@
       "record_id": "2025-12",
       "url": "https://pcahistory.org/pca/sjc/cases/2025-12, -13_Assis_and_Brown_v_SFL_final.pdf",
       "pdf_path": "pca/sjc/cases/2025-12, -13_Assis_and_Brown_v_SFL_final.pdf",
-      "status": "listed",
-      "inventory_source": "data/cases/sources/sjc_official/roster.jsonl",
+      "status": "canonical",
+      "inventory_source": "data/cases/records/judicial_cases.jsonl",
       "local_pdf_path": null,
-      "notes": "Listed by the repository's SJC official roster; PDF binary is external and not vendored."
+      "notes": "URL assigned to this canonical docket in the judicial case catalogue."
     },
     {
       "source_id": "study-pdf:1-439",

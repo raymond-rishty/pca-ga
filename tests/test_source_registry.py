@@ -44,7 +44,7 @@ class SourceRegistryTests(unittest.TestCase):
         )
         self.assertTrue(inventory_ids <= source_ids)
         expected_coverage = {
-            "cases": jsonl_count(ROOT / "data" / "cases" / "records" / "cases.jsonl"),
+            "cases": jsonl_count(ROOT / "data" / "cases" / "records" / "judicial_cases.jsonl"),
             "inquiries": jsonl_count(ROOT / "index" / "inquiries.jsonl"),
             "overtures": jsonl_count(ROOT / "index" / "overture_bodies.jsonl"),
             "rpr": sum(
@@ -55,6 +55,10 @@ class SourceRegistryTests(unittest.TestCase):
         }
         for record_type, expected in expected_coverage.items():
             self.assertEqual(self.registry["coverage"][record_type]["records"], expected)
+        self.assertNotIn("case:ga03_1975:p87", self.registry["record_sources"])
+        # A roster caption can mention a docket without making that docket a
+        # canonical record or authorizing a record-to-PDF association.
+        self.assertNotIn("case:2019-12", self.registry["record_sources"])
         self.assertGreaterEqual(
             len([key for key in self.registry["record_sources"] if key.startswith("rpr:")]),
             expected_coverage["rpr"],
@@ -90,14 +94,14 @@ class SourceRegistryTests(unittest.TestCase):
                 module.PDF_URL_RE,
             )
 
-    def test_consolidated_case_shorthand_inherits_the_primary_year(self) -> None:
+    def test_case_mappings_use_canonical_docket_aliases(self) -> None:
         self.assertEqual(
-            module.case_numbers({
-                "case_number": "2025-12",
-                "case_number_raw": "2025-12",
-                "title": ", -13_Assis_and_Brown_v_SFL_final",
+            module.canonical_case_numbers({
+                "case_id": "2025-13",
+                "legacy_case_id": "2025-13",
+                "roster_id": "2025-13",
             }),
-            ["2025-12", "2025-13"],
+            ["2025-13"],
         )
 
 
