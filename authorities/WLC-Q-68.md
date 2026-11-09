@@ -4,7 +4,7 @@
 
 | Year | Record type | Relationship | Evidence | Confidence | Title | Disposition |
 |------|-------------|--------------|----------|------------|-------|-------------|
-| 2018 | Judicial case | explicit_citation | direct_text | high | [Sartorius v. Siouxlands Presbytery](../cases/ga46_2018__2016-16.md) | denied |
+| 2018 | Judicial case | explicit_citation | direct_text | high | [Sartorius v. Siouxlands Presbytery](../cases/ga46_2018__2016-16.md) | complaint denied |
 | 2008 | Judicial case | explicit_citation | direct_text | high | [Jones v. Louisiana](../cases/ga36_2008__2007-08.md) | sustained |
 
 ---

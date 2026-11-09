@@ -5,7 +5,7 @@
 | Year | Record type | Relationship | Evidence | Confidence | Title | Disposition |
 |------|-------------|--------------|----------|------------|-------|-------------|
 | 2022 | Judicial case | explicit_citation | direct_text | high | [Speck v. Missouri Presbytery](../cases/ga49_2022__2020-05.md) | sustained |
-| 2014 | Judicial case | structured_case_reference | structured_case_metadata | medium | [Charles Tarter v. Evangel Presbytery](../cases/ga42_2014__2012-03.md) | sustained |
+| 2014 | Judicial case | structured_case_reference | structured_case_metadata | medium | [Charles Tarter v. Evangel Presbytery](../cases/ga42_2014__2012-03.md) | Appeal sustained; judgment and censure vacated and matter remanded for constitutionally compliant proceedings or dismissal |
 | 2014 | Judicial case | explicit_citation | direct_text | high | [Reese and Bech v. Philadelphia Presbytery](../cases/ga42_2014__2011-14.md) | sustained |
 | 2011 | Judicial case | explicit_citation | direct_text | high | [Lyons v. Western Carolina Presbytery](../cases/ga39_2011__2010-16.md) | denied |
 | 2002 | Judicial case | structured_case_reference | structured_case_metadata | medium | [Sang Soo Ryoo v. Korean Capital Presbytery](../cases/ga30_2002__2001-18.md) | sustained |

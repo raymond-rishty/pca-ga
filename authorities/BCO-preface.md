@@ -36,10 +36,10 @@
 | 2002 | Overture | explicit_citation | direct_text | high | [Specify Good Faith Subscription (Version 3) in BCO](../markdown/ga30_2002.md#ga30-p226) | Answered by reference |
 | 2002 | Overture | explicit_citation | direct_text | high | [Specify Good Faith Subscription (Version 4) in BCO](../markdown/ga30_2002.md#ga30-p228) | Answered by reference |
 | 1999 | Overture | explicit_citation | direct_text | high | [Amend RAO 15-1 and BCO 39-3 to Reference Scripture in SJC Judge Vows](../markdown/ga27_1999.md#ga27-p159) | Answered in the negative |
-| 1993 | Overture | explicit_citation | direct_text | high | [Amend BCO 24-1 to Require Training of Officer Nominees](../markdown/ga21_1993.md#ga21-p122) | Adopted the BCO 24-1 amendment after 46–3 presbytery consent. |
+| 1993 | Overture | explicit_citation | direct_text | high | [Amend BCO 24-1 to Require Training of Officer Nominees](../markdown/ga21_1993.md#ga21-p122) | Approved & ratified (1994) |
 | 1991 | Overture | explicit_citation | direct_text | high | [Amend BCO 15-4 to Permit General Assembly to Adjudicate Cases](../markdown/ga19_1991.md#ga19-p166) | Answered in the negative at GA20 by adopted substitute |
 | 1989 | Overture | explicit_citation | direct_text | high | [Reject Proposed BCO Amendment to Preface](../markdown/ga17_1989.md#ga17-p168) | Answered in the negative |
-| 1986 | Overture | explicit_citation | direct_text | high | [Amend BCO Preface to Conform to Westminster Confession on Liberty of Conscience](../markdown/ga14_1986.md#ga14-p54) | Defeated |
+| 1986 | Overture | explicit_citation | direct_text | high | [Amend BCO Preface to Conform to Westminster Confession on Liberty of Conscience](../markdown/ga14_1986.md#ga14-p54) | Read and received as information at the Stated Clerk’s report; no adoption of the proposed BCO Preface amendment is recorded. |
 | 1985 | Overture | explicit_citation | direct_text | high | [Amend BCO Preface III and 26-1 to Affirm Scriptures as Supreme Over Constitutional Standards](../markdown/ga13_1985.md#ga13-p50) | Answered by reference |
 | 2010 | RPR exception | exception_target | direct_text | high | [Western Canada: presbytery may not appoint a session fora church without congregational approval prior to](../rpr/exc/western-canada__006.html) | satisfactory |
 

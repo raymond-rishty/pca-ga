@@ -20,13 +20,13 @@ overture, find **past actions that bear on it** and write a findings file.
 | `index/CCB-OVERTURE-ADVICE.md` | CCB advice on proposed overtures/amendments; **Provisions** column | grep by provision token & topic |
 | `index/OVERTURES.md` | ~2,028 prior overtures, by Assembly: number, Subject, Outcome, Source, page | grep by topic keywords AND provision |
 | `index/RPR-BY-PROVISION.md` | RPR exceptions grouped under `## BCO X-Y` provision headers | grep the provision header + nearby rows |
-| `index/pca_minutes.db` | SQLite FTS over everything (pages_fts, cases_fts, overtures table) | use for full-text when grep misses |
+| `index/pca_minutes.db` | Portable SQLite index with page/section full text, canonical cases, structure, overtures, roster, and concordance layers | use for page-text or structured lookups when grep misses; build with `gradlew buildMinutesDatabase` |
 
-### SQLite recipes (use when grep of the .md is insufficient)
+### Page-search recipe (use when grep of the .md is insufficient)
 ```bash
-sqlite3 /workspace/index/pca_minutes.db "SELECT ga_ordinal,year,number,title,final_disposition FROM overtures WHERE title LIKE '%deacon%' ORDER BY ga_ordinal;"
 sqlite3 /workspace/index/pca_minutes.db "SELECT p.vol,p.pdf_page,snippet(pages_fts,0,'[',']','…',15) FROM pages_fts f JOIN pages p ON p.page_id=f.rowid WHERE pages_fts MATCH '\"original jurisdiction\"' LIMIT 15;"
 ```
+For overture details, query the `overtures` table or use `index/OVERTURES.md`.
 
 ## CRITICAL methodology
 

@@ -2,9 +2,9 @@
 """Build the canonical, one-row-per-case judicial taxonomy.
 
 Inputs are the official SJC/CJB roster plus the reconciled extracted case index.
-The output is intentionally separate from ``data/cases/records/cases.jsonl``: that file has
-legacy extraction rows and is still consumed by older builders, while this file
-is the stable editorial/search layer for Issue #149.
+The canonical output is ``data/cases/records/judicial_cases.jsonl``; the task
+also writes ``data/cases/records/cases.jsonl`` as a legacy extraction layer for
+remaining hunt/recovery workflows, structural indexing, and coverage review.
 
 Usage: python scripts/12_case_taxonomy.py [ROOT]
 """
@@ -1075,11 +1075,21 @@ def main():
             "review_standards": review_standards,
             "summary": summary,
             "summary_review_status": override["summary_review_status"] if "summary_review_status" in override else (audit.get("summary_review_status") or ("audited" if override.get("summary") else "pending_audit")),
+            # Preserve the reconciled extraction's citation observations in the
+            # canonical record. These remain distinct from bco_provisions,
+            # which may contain adjudicated editorial tags.
+            "bco_cited_as": list(record.get("bco_cited_as") or []),
+            "bco_cited_current": list(record.get("bco_cited_current") or []),
             "bco_provisions": bco,
             "topic_tags": topics,
             "body": override["body"] if "body" in override else (record.get("body") or ("CJB" if int(official.get("year") or 9999) <= 1987 else "SJC")),
             "decision_year": override["decision_year"] if "decision_year" in override else (record.get("year") or official.get("year")),
             "assembly": override["assembly"] if "assembly" in override else record.get("ga_ordinal"),
+            "source_assembly": record.get("ga_ordinal"),
+            "source_year": record.get("year"),
+            "source_pdf_page_start": record.get("pdf_page_start"),
+            "source_printed_page_start": record.get("printed_page_start"),
+            "source_printed_page_end": record.get("printed_page_end"),
             "dissent": override.get("dissent") if "dissent" in override else bool(record.get("has_dissent")),
             "case_page": page_file,
             "official_pdf_url": official.get("pdf_url"),

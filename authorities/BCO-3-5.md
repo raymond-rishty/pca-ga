@@ -7,7 +7,7 @@
 | 2013 | Overture | explicit_citation | direct_text | high | [Amend BCO 32 by Adding Section 32-21 Defining Supporting Reasons for a Complaint or Appeal](../markdown/ga41_2013.md#ga41-p824) | Adopted the recommendation; Overture 4 was answered in the negative. |
 | 2013 | Overture | explicit_citation | direct_text | high | [Amend BCO 42 by Adding Section 42-13 to Define Terms Used in Chapter 42](../markdown/ga41_2013.md#ga41-p825) | Adopted the recommendation; Overture 5 was answered in the negative. |
 | 2013 | Overture | explicit_citation | direct_text | high | [Amend BCO 43 by Adding Section 43-11 to Define Certain Terms Used in Chapter 43](../markdown/ga41_2013.md#ga41-p827) | Adopted the recommendation; Overture 6 was answered in the negative. |
-| 1984 | Overture | explicit_citation | direct_text | high | [Direct Committees to Develop a Plan for Adjudicating Cases Between Assemblies](../markdown/ga12_1984.md#ga12-p68) | Answered in the negative (GA12, 1984) |
+| 1984 | Overture | explicit_citation | direct_text | high | [Direct MTW to Assist Presbyteries Sending Missionaries](../markdown/ga12_1984.md#ga12-p68) | Answered in the negative (GA12, 1984) |
 
 ---
 *[← Authority Index](../index/AUTHORITY-BY-PROVISION.md)*

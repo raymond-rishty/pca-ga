@@ -5,7 +5,7 @@
 | Year | Record type | Relationship | Evidence | Confidence | Title | Disposition |
 |------|-------------|--------------|----------|------------|-------|-------------|
 | 2023 | Judicial case | explicit_citation | direct_text | high | [Wilson et al. v. Pacific Northwest Presbytery](../cases/ga50_2023__2022-20.md) | dismissed |
-| 2018 | Judicial case | explicit_citation | direct_text | high | [Sartorius v. Siouxlands Presbytery](../cases/ga46_2018__2016-16.md) | denied |
+| 2018 | Judicial case | explicit_citation | direct_text | high | [Sartorius v. Siouxlands Presbytery](../cases/ga46_2018__2016-16.md) | complaint denied |
 | 2013 | Judicial case | explicit_citation | direct_text | high | [Hedman v. Pacific Northwest Presbytery](../cases/ga41_2013__2012-05.md) | denied |
 | 1991 | Judicial case | explicit_citation | direct_text | high | [Bowen v. Eastern Carolina Presbytery](../cases/ga19_1991__1990-08.md) | sustained |
 | 2015 | Overture | explicit_citation | direct_text | high | [Amend BCO 56-5 Parental Promises at Baptism of Covenant Children](../markdown/ga43_2015.md#ga43-p603) | Answered in the negative |

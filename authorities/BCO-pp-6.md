@@ -6,16 +6,16 @@
 |------|-------------|--------------|----------|------------|-------|-------------|
 | 2025 | Judicial case | explicit_citation | direct_text | high | [Bigelow v. North Florida Presbytery](../cases/ga52_2025__2024-05.md) | granted |
 | 2025 | Judicial case | explicit_citation | direct_text | high | [Gleason v. Houston Metro Presbytery](../cases/ga52_2025__2024-02.md) | dismissed |
-| 2014 | Judicial case | explicit_citation | direct_text | high | [Charles Tarter v. Evangel Presbytery](../cases/ga42_2014__2012-03.md) | sustained |
+| 2014 | Judicial case | explicit_citation | direct_text | high | [Charles Tarter v. Evangel Presbytery](../cases/ga42_2014__2012-03.md) | Appeal sustained; judgment and censure vacated and matter remanded for constitutionally compliant proceedings or dismissal |
 | 2011 | Judicial case | explicit_citation | direct_text | high | [Brown v. Northern California Presbytery](../cases/ga39_2011__2009-25_2009-26.md) | sustained |
 | 2011 | Judicial case | explicit_citation | direct_text | high | [Koerkenmeier v. Illiana Presbytery](../cases/ga39_2011__2009-23.md) | sustained |
 | 2006 | Judicial case | explicit_citation | direct_text | high | [Thornton v. Westminster Presbytery](../cases/ga34_2006__2004-08.md) | sustained |
-| 2005 | Judicial case | explicit_citation | direct_text | high | [Nichols and Couch v. James River Presbytery](../cases/ga33_2005__2001-34_2002-02_2002-03.md) | partially_sustained |
+| 2005 | Judicial case | explicit_citation | direct_text | high | [Nichols and Couch v. James River Presbytery](../cases/ga33_2005__2001-34_2002-02_2002-03.md) | mixed; sustained in part |
 | 2005 | Judicial case | explicit_citation | direct_text | high | [Session of First Presbyterian Augusta v. Savannah River Presbytery](../cases/ga33_2005__2004-07.md) | sustained |
-| 2003 | Judicial case | explicit_citation | direct_text | high | [Charles Kim v. Korean Capital Presbytery](../cases/ga30_2002__2001-01.md) | dismissed |
-| 2002 | Judicial case | explicit_citation | direct_text | high | [Andy Lee v. Korean Capital Presbytery](../cases/ga30_2002__2001-07.md) | dismissed |
-| 2002 | Judicial case | explicit_citation | direct_text | high | [Sung Keon Kim v. Korean Capital Presbytery](../cases/ga30_2002__2000-09.md) |  |
-| 2002 | Judicial case | explicit_citation | direct_text | high | [TE Andy Lee v. Korean Capital Presbytery](../cases/ga30_2002__2001-08.md) |  |
+| 2003 | Judicial case | explicit_citation | direct_text | high | [Charles Kim v. Korean Capital Presbytery](../cases/ga30_2002__2001-01.md) | Presbytery and commission action reversed; original jurisdiction belonged to the local Session |
+| 2002 | Judicial case | explicit_citation | direct_text | high | [Andy Lee v. Korean Capital Presbytery](../cases/ga30_2002__2001-07.md) | Both specifications sustained; intervention and subsequent commission acts annulled |
+| 2002 | Judicial case | explicit_citation | direct_text | high | [CHARLES KIM v. KOREAN CAPITAL PRESBYTERY](../cases/ga30_2002__2001-08.md) | TE Andy Lee v. Korean Capital Presbytery |
+| 2002 | Judicial case | explicit_citation | direct_text | high | [Sung Keon Kim v. Korean Capital Presbytery](../cases/ga30_2002__2000-09.md) | Presbytery action and subsequent commission acts annulled for unauthorized replacement of the Session |
 | 2025 | CCB advice | structured_provision_tag | structured_provision_tag | medium | [24-3 and 25-1 to Clarify 'Regular Standing' re Minimum Voting Age](../inquiries/ga52_2025__ci16.md) | in conflict; Adopted 8-0-0 |
 | 2011 | CCB advice | structured_provision_tag | structured_provision_tag | medium | [Temporary Governance for Churches without Ruling Elders](../inquiries/ga39_2011__ci01.md) | may have been in conflict |
 | 2025 | Overture | explicit_citation | direct_text | high | [Amend BCO 22 to Require Congregation Consent for Assistant Pastor Calls](../markdown/ga52_2025.md#ga52-p1187) | Referred back to Presbytery |

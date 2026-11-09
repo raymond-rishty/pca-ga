@@ -4,7 +4,7 @@
 
 | Year | Record type | Relationship | Evidence | Confidence | Title | Disposition |
 |------|-------------|--------------|----------|------------|-------|-------------|
-| 1989 | Judicial case | explicit_citation | direct_text | high | [TE John T. DeBardeleben v. Philadelphia Presbytery](../cases/ga17_1989__case3.md) | sustained |
+| 1989 | Judicial case | explicit_citation | direct_text | high | [TE John T. DeBardeleben v. Philadelphia Presbytery](../cases/ga17_1989__case3.md) | Complaint sustained and Presbytery's action annulled; trials de novo produced mixed guilty and not-guilty verdicts and censures |
 | 2023 | CCB advice | structured_provision_tag | structured_provision_tag | medium | [Amend BCO 7-3 Regarding Titling of Unordained People](../inquiries/ga50_2023__ci19.md) | not in conflict; Adopted 6-1-1 |
 | 2023 | Overture | multiple | multiple | high | [Amend BCO 7-3 to Prohibit Ecclesiastical Titles for Unordained People](../markdown/ga50_2023.md#ga50-p1036) | Approved & ratified (2024) |
 | 1987 | Overture | explicit_citation | direct_text | high | [Rescind Prohibition on Use of the Word "Reverend"](../markdown/ga15_1987.md#ga15-p56) | Answered by reference to Review and Control Committee General Recommendation V.B.4 |

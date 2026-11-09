@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
 """
-08_index_cases.py — add a case-lookup layer to index/pca_minutes.db.
+08_index_cases.py — add a canonical case-lookup layer to index/pca_minutes.db.
 
-Reads data/cases/records/cases.jsonl (produced by 07_build_cases.py) and builds:
+Reads data/cases/records/judicial_cases.jsonl and builds:
   * table  `cases`      one row per case + facet columns for cheap membership
                         tests (space-delimited `*_s` scalars for LIKE).
   * table  `cases_fts`  FTS5 over title, parties, description, synopsis, topics
@@ -34,7 +34,7 @@ norm_caseno = build_cases.norm_caseno
 looks_like_caseno = build_cases.looks_like_caseno
 
 ROOT = os.environ.get("PCA_GA_ROOT", os.path.dirname(HERE))
-CASES = os.path.join(ROOT, "data", "cases", "records", "cases.jsonl")
+CASES = os.path.join(ROOT, "data", "cases", "records", "judicial_cases.jsonl")
 DB_PATH = os.path.join(ROOT, "index", "pca_minutes.db")
 
 
@@ -142,7 +142,7 @@ CREATE VIRTUAL TABLE cases_fts USING fts5(
 
 def build(db_path=DB_PATH):
     if not os.path.exists(CASES):
-        print(f"[error] {CASES} not found — run 07_build_cases.py first.", file=sys.stderr)
+        print(f"[error] {CASES} not found — run 12_case_taxonomy.py first.", file=sys.stderr)
         sys.exit(1)
     cases = [json.loads(l) for l in open(CASES, encoding="utf-8") if l.strip()]
     con = connect(db_path)
@@ -152,52 +152,61 @@ def build(db_path=DB_PATH):
     for i, c in enumerate(cases, start=1):
         ptxt = party_text(c.get("parties"))
         ptok = party_tokens(c.get("parties"))
-        topics = c.get("topics") or []
+        topics = c.get("topic_tags") or []
+        case_id = c.get("case_id")
+        source_assembly = c.get("source_assembly")
+        source_year = c.get("source_year")
+        bco_as = c.get("bco_cited_as") or []
+        bco_current = c.get("bco_cited_current") or []
+        final_dispositions = c.get("final_dispositions") or []
+        disposition = c.get("disposition_detail") or "; ".join(final_dispositions)
+        chapters_as = sorted({str(value).split("-")[0] for value in bco_as})
+        chapters_current = sorted({str(value).split("-")[0] for value in bco_current})
         rows.append((
             i,
-            c.get("case_id"),
-            c.get("case_number"),
-            norm_caseno(c.get("case_number"), c.get("ga_ordinal")) if c.get("case_number") else None,
-            c.get("canonical_number"),
-            norm_caseno(c.get("canonical_number"), c.get("ga_ordinal")) if c.get("canonical_number") else None,
+            case_id,
+            case_id,
+            norm_caseno(case_id, source_assembly) if case_id else None,
+            case_id,
+            norm_caseno(case_id, source_assembly) if case_id else None,
             c.get("title"),
             ptxt,
             " ".join(ptok),
             scalarize(ptok),
             c.get("body"),
-            c.get("ga_ordinal"),
-            c.get("year"),
-            c.get("source_pdf"),
-            c.get("pdf_page_start"),
-            c.get("pdf_page_end"),
-            c.get("printed_page_start"),
-            c.get("printed_page_end"),
-            c.get("disposition"),
-            c.get("vote"),
-            1 if c.get("has_dissent") else 0,
-            json.dumps(c.get("bco_cited_as") or [], ensure_ascii=False),
-            scalarize(c.get("bco_cited_as")),
-            json.dumps(c.get("bco_cited_current") or [], ensure_ascii=False),
-            scalarize(c.get("bco_cited_current")),
-            json.dumps(c.get("bco_chapters_ascited") or [], ensure_ascii=False),
-            scalarize(c.get("bco_chapters_ascited")),
-            json.dumps(c.get("bco_chapters_current") or [], ensure_ascii=False),
-            scalarize(c.get("bco_chapters_current")),
+            source_assembly,
+            source_year,
+            c.get("official_pdf_url"),
+            c.get("source_pdf_page_start"),
+            c.get("source_pdf_page_start"),
+            c.get("source_printed_page_start"),
+            c.get("source_printed_page_end"),
+            disposition,
+            None,
+            1 if c.get("dissent") else 0,
+            json.dumps(bco_as, ensure_ascii=False),
+            scalarize(bco_as),
+            json.dumps(bco_current, ensure_ascii=False),
+            scalarize(bco_current),
+            json.dumps(chapters_as, ensure_ascii=False),
+            scalarize(chapters_as),
+            json.dumps(chapters_current, ensure_ascii=False),
+            scalarize(chapters_current),
             json.dumps(topics, ensure_ascii=False),
             scalarize(topics),
-            c.get("synopsis"),
-            c.get("description"),
-            json.dumps(c.get("precedent_case_ids") or [], ensure_ascii=False),
-            json.dumps(c.get("cited_by") or [], ensure_ascii=False),
-            json.dumps(c.get("precedent_refs_raw") or [], ensure_ascii=False),
-            json.dumps(c.get("provenance") or {}, ensure_ascii=False),
+            c.get("summary"),
+            c.get("disposition_detail") or "",
+            json.dumps([], ensure_ascii=False),
+            json.dumps([], ensure_ascii=False),
+            json.dumps([], ensure_ascii=False),
+            json.dumps({"case_page": c.get("case_page"), "roster_id": c.get("roster_id")}, ensure_ascii=False),
         ))
-        # fold the canonical (roster) title into the FTS title so the official spelling
-        # also hits (e.g. roster "McCreedy" finds our minutes-spelled "McCready")
-        ct = c.get("canonical_title")
-        fts_title = (c.get("title") or "") + ((" " + ct) if ct and ct != c.get("title") else "")
+        # Preserve the source-era ID as a searchable alias without treating it as
+        # another case record.
+        legacy_id = c.get("legacy_case_id")
+        fts_title = (c.get("title") or "") + ((" " + legacy_id) if legacy_id and legacy_id != case_id else "")
         fts_rows.append((i, fts_title, ptxt,
-                         c.get("description") or "", c.get("synopsis") or "",
+                         c.get("disposition_detail") or "", c.get("summary") or "",
                          " ".join(topics)))
     ncols = len(rows[0]) if rows else 35
     con.executemany(
@@ -210,7 +219,7 @@ def build(db_path=DB_PATH):
     n_sjc = con.execute("SELECT COUNT(*) FROM cases WHERE body='SJC'").fetchone()[0]
     n_cjb = con.execute("SELECT COUNT(*) FROM cases WHERE body='CJB'").fetchone()[0]
     n_num = con.execute("SELECT COUNT(*) FROM cases WHERE case_number IS NOT NULL").fetchone()[0]
-    print(f"[index] {n} cases -> {db_path} (table `cases` + `cases_fts`)")
+    print(f"[index] {n} canonical cases -> {db_path} (table `cases` + `cases_fts`)")
     print(f"        SJC={n_sjc} CJB={n_cjb}; with case_number={n_num}")
     con.close()
 

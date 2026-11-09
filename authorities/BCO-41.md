@@ -9,19 +9,19 @@
 | 2023 | Judicial case | explicit_citation | direct_text | high | [Presbyterian Church in America v. TE Daniel Herron](../cases/ga50_2023__2022-10.md) | other |
 | 2022 | Judicial case | explicit_citation | direct_text | high | [Gordon v. Southern New England Presbytery](../cases/ga49_2022__2020-06.md) | denied |
 | 2022 | Judicial case | explicit_citation | direct_text | high | [Speck v. Missouri Presbytery](../cases/ga49_2022__2020-05.md) | sustained |
-| 2022 | Judicial case | explicit_citation | direct_text | high | [Speck v. Missouri Presbytery](../cases/ga49_2022__2020-12.md) | sustained |
-| 2019 | Judicial case | explicit_citation | direct_text | high | [Anna Lewis v. Presbytery of the Mississippi Valley](../cases/ga47_2019__2018-02.md) | out_of_order |
+| 2022 | Judicial case | explicit_citation | direct_text | high | [Speck v. Missouri Presbytery](../cases/ga49_2022__2020-12.md) | Complaint denied; all stated issues answered no |
+| 2019 | Judicial case | explicit_citation | direct_text | high | [Anna Lewis v. Presbytery of the Mississippi Valley](../cases/ga47_2019__2018-02.md) | BCO 40-5 filing found out of order because Chapter 40 matters reach the SJC only upon General Assembly referral |
 | 2013 | Judicial case | explicit_citation | direct_text | high | [Hedman v. Pacific Northwest Presbytery](../cases/ga41_2013__2012-05.md) | denied |
 | 2011 | Judicial case | explicit_citation | direct_text | high | [Brown v. Northern California Presbytery](../cases/ga39_2011__2009-25_2009-26.md) | sustained |
-| 2010 | Judicial case | explicit_citation | direct_text | high | [Hutchinson & Bulkeley v. Western Carolina](../cases/ga38_2010__2008-15_2008-16_2008-17_2008-18_2009-01_2009-03.md) | out_of_order |
+| 2010 | Judicial case | explicit_citation | direct_text | high | [Hutchinson & Bulkeley v. Western Carolina](../cases/ga38_2010__2008-15_2008-16_2008-17_2008-18_2009-01_2009-03.md) | Complaint denied; presbytery's handling of confession and indefinite suspension affirmed |
 | 2010 | Judicial case | explicit_citation | direct_text | high | [Linton v. Western Carolina Presbytery](../cases/ga38_2010__2009-05_2009-08_2009-09_2009-10.md) | denied |
-| 2010 | Judicial case | explicit_citation | direct_text | high | [Morton Smith v. Western Carolina](../cases/ga38_2010__2009-02.md) | not_sustained |
-| 2008 | Judicial case | explicit_citation | direct_text | high | [PCA v. Louisiana Presbytery (Trial)](../cases/ga36_2008__2007-14.md) | dismissed |
+| 2010 | Judicial case | explicit_citation | direct_text | high | [Morton Smith v. Western Carolina](../cases/ga38_2010__2009-02.md) | sustained in part |
+| 2008 | Judicial case | explicit_citation | direct_text | high | [PCA v. Louisiana Presbytery (Trial)](../cases/ga36_2008__2007-14.md) | Specification 1 dismissed after trial; Louisiana Presbytery's guilty plea to Specification 2 accepted and censure of admonition imposed |
 | 2004 | Judicial case | explicit_citation | direct_text | high | [Lachman v. Philadelphia Presbytery](../cases/ga32_2004__2002-14.md) | denied |
 | 2004 | Judicial case | explicit_citation | direct_text | high | [Wright v. Eastern Carolina](../cases/ga32_2004__2003-06.md) | administrative |
-| 1998 | Judicial case | explicit_citation | direct_text | high | [Session of Harvestwood PCA v. New River Presbytery (Complaint)](../cases/ga26_1998__1997-13.md) | sustained |
-| 1993 | Judicial case | explicit_citation | direct_text | high | [Lovelace v. Northeast Presbytery (Case #2)](../cases/ga21_1993__1991-06.md) | other |
-| 1993 | Judicial case | explicit_citation | direct_text | high | [Reference from Central Carolina Presbytery](../cases/ga21_1993__1992-08.md) | referred |
+| 1998 | Judicial case | explicit_citation | direct_text | high | [Session of Harvestwood PCA v. New River Presbytery (Complaint)](../cases/ga26_1998__1997-13.md) | recommended for remand |
+| 1993 | Judicial case | explicit_citation | direct_text | high | [Lovelace v. Northeast Presbytery (Case #2)](../cases/ga21_1993__1991-06.md) | sustained in part |
+| 1993 | Judicial case | explicit_citation | direct_text | high | [Reference from Central Carolina Presbytery](../cases/ga21_1993__1992-08.md) | Reference declined; all referred matters returned to Central Carolina Presbytery |
 | 1986 | Constitutional inquiry | structured_provision_tag | structured_provision_tag | medium | [Book of Church Order / BCO 3-1](../inquiries/ga14_1986__ci10.md) | advice given |
 | 1986 | Constitutional inquiry | structured_provision_tag | structured_provision_tag | medium | [Congregational vote to rotate entire session or diaconate off](../inquiries/ga14_1986__ci08.md) | advice given |
 | 2025 | Overture | explicit_citation | direct_text | high | [Amend BCO 34-1 Regarding Advisors and Original Jurisdiction in Process Against a TE](../markdown/ga52_2025.md#ga52-p1175) | Answered in the negative |

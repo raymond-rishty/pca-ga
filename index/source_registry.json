@@ -3773,7 +3773,70 @@
     "case:1993-9": [
       "minutes:ga22_1994"
     ],
+    "case:1994-01": [
+      "minutes:ga23_1995"
+    ],
+    "case:1994-02": [
+      "minutes:ga23_1995"
+    ],
+    "case:1994-03": [
+      "minutes:ga23_1995"
+    ],
+    "case:1994-04": [
+      "minutes:ga23_1995"
+    ],
+    "case:1994-05": [
+      "minutes:ga23_1995"
+    ],
+    "case:1994-06": [
+      "minutes:ga23_1995"
+    ],
+    "case:1994-07": [
+      "minutes:ga23_1995"
+    ],
+    "case:1994-08": [
+      "minutes:ga23_1995"
+    ],
+    "case:1994-1": [
+      "minutes:ga23_1995"
+    ],
+    "case:1994-2": [
+      "minutes:ga23_1995"
+    ],
+    "case:1994-3": [
+      "minutes:ga23_1995"
+    ],
+    "case:1994-4": [
+      "minutes:ga23_1995"
+    ],
+    "case:1994-5": [
+      "minutes:ga23_1995"
+    ],
+    "case:1994-6": [
+      "minutes:ga23_1995"
+    ],
+    "case:1994-7": [
+      "minutes:ga23_1995"
+    ],
+    "case:1994-8": [
+      "minutes:ga23_1995"
+    ],
+    "case:1995-01": [
+      "minutes:ga24_1996"
+    ],
+    "case:1995-02": [
+      "minutes:ga24_1996"
+    ],
+    "case:1995-03": [
+      "minutes:ga24_1996"
+    ],
     "case:1995-04": [
+      "minutes:ga24_1996"
+    ],
+    "case:1995-05": [
+      "minutes:ga25_1997"
+    ],
+    "case:1995-06": [
       "minutes:ga24_1996"
     ],
     "case:1995-07": [
@@ -3782,6 +3845,9 @@
     "case:1995-09": [
       "minutes:ga25_1997"
     ],
+    "case:1995-1": [
+      "minutes:ga24_1996"
+    ],
     "case:1995-10": [
       "minutes:ga25_1997"
     ],
@@ -3789,7 +3855,22 @@
       "case-pdf:1995-11_Landrum_v_MississippiValley",
       "minutes:ga25_1997"
     ],
+    "case:1995-12": [
+      "minutes:ga24_1996"
+    ],
+    "case:1995-2": [
+      "minutes:ga24_1996"
+    ],
+    "case:1995-3": [
+      "minutes:ga24_1996"
+    ],
     "case:1995-4": [
+      "minutes:ga24_1996"
+    ],
+    "case:1995-5": [
+      "minutes:ga25_1997"
+    ],
+    "case:1995-6": [
       "minutes:ga24_1996"
     ],
     "case:1995-7": [
@@ -3801,13 +3882,34 @@
     "case:1996-01": [
       "minutes:ga25_1997"
     ],
+    "case:1996-02": [
+      "minutes:ga25_1997"
+    ],
+    "case:1996-03": [
+      "minutes:ga25_1997"
+    ],
+    "case:1996-04": [
+      "minutes:ga25_1997"
+    ],
     "case:1996-05": [
       "minutes:ga25_1997"
     ],
     "case:1996-06": [
       "minutes:ga27_1999"
     ],
+    "case:1996-07": [
+      "minutes:ga25_1997"
+    ],
     "case:1996-1": [
+      "minutes:ga25_1997"
+    ],
+    "case:1996-2": [
+      "minutes:ga25_1997"
+    ],
+    "case:1996-3": [
+      "minutes:ga25_1997"
+    ],
+    "case:1996-4": [
       "minutes:ga25_1997"
     ],
     "case:1996-5": [
@@ -3815,6 +3917,9 @@
     ],
     "case:1996-6": [
       "minutes:ga27_1999"
+    ],
+    "case:1996-7": [
+      "minutes:ga25_1997"
     ],
     "case:1997-01": [
       "minutes:ga26_1998"
@@ -4000,6 +4105,9 @@
     "case:1999-7": [
       "minutes:ga29_2001"
     ],
+    "case:2000-01": [
+      "minutes:ga29_2001"
+    ],
     "case:2000-02": [
       "minutes:ga29_2001"
     ],
@@ -4020,6 +4128,9 @@
     ],
     "case:2000-09": [
       "minutes:ga30_2002"
+    ],
+    "case:2000-1": [
+      "minutes:ga29_2001"
     ],
     "case:2000-10": [
       "minutes:ga29_2001"
@@ -4064,6 +4175,9 @@
       "minutes:ga31_2003"
     ],
     "case:2001-07": [
+      "minutes:ga30_2002"
+    ],
+    "case:2001-08": [
       "minutes:ga30_2002"
     ],
     "case:2001-09": [
@@ -4172,6 +4286,9 @@
       "minutes:ga31_2003"
     ],
     "case:2001-7": [
+      "minutes:ga30_2002"
+    ],
+    "case:2001-8": [
       "minutes:ga30_2002"
     ],
     "case:2001-9": [
@@ -4807,6 +4924,9 @@
     "case:2010-14": [
       "minutes:ga39_2011"
     ],
+    "case:2010-15": [
+      "minutes:ga39_2011"
+    ],
     "case:2010-16": [
       "minutes:ga39_2011"
     ],
@@ -5193,6 +5313,9 @@
       "case-pdf:2016-05_Troxell_v_Southwest",
       "minutes:ga45_2017"
     ],
+    "case:2016-06": [
+      "minutes:ga46_2018"
+    ],
     "case:2016-07": [
       "case-pdf:2016-07_Avery-Lewelling_v_Nashville",
       "minutes:ga45_2017"
@@ -5248,6 +5371,9 @@
     "case:2016-5": [
       "case-pdf:2016-05_Troxell_v_Southwest",
       "minutes:ga45_2017"
+    ],
+    "case:2016-6": [
+      "minutes:ga46_2018"
     ],
     "case:2016-7": [
       "case-pdf:2016-07_Avery-Lewelling_v_Nashville",
@@ -5472,9 +5598,15 @@
       "case-pdf:2019-09_Mueller_v_SouthFL",
       "minutes:ga48_2021"
     ],
+    "case:2020-01": [
+      "minutes:ga48_2021"
+    ],
     "case:2020-02": [
       "case-pdf:2020-02_Original_Jurisdiction",
       "minutes:ga49_2022"
+    ],
+    "case:2020-03": [
+      "minutes:ga48_2021"
     ],
     "case:2020-04": [
       "case-pdf:2020-04_Marusich_v_Central_Indiana",
@@ -5498,6 +5630,9 @@
     "case:2020-09": [
       "minutes:ga49_2022"
     ],
+    "case:2020-1": [
+      "minutes:ga48_2021"
+    ],
     "case:2020-10": [
       "case-pdf:2020-10_Eagle_v_SavannahRiver",
       "minutes:ga49_2022"
@@ -5514,9 +5649,15 @@
       "case-pdf:2020-13_Benyola_v_CentralFL",
       "minutes:ga48_2021"
     ],
+    "case:2020-14": [
+      "minutes:ga49_2022"
+    ],
     "case:2020-2": [
       "case-pdf:2020-02_Original_Jurisdiction",
       "minutes:ga49_2022"
+    ],
+    "case:2020-3": [
+      "minutes:ga48_2021"
     ],
     "case:2020-4": [
       "case-pdf:2020-04_Marusich_v_Central_Indiana",
@@ -5568,8 +5709,14 @@
       "case-pdf:2021-08_Citation_Korean_SWOrange",
       "minutes:ga49_2022"
     ],
+    "case:2021-09": [
+      "minutes:ga49_2022"
+    ],
     "case:2021-1": [
       "case-pdf:2021-01_Michelson_v_NWGeorgia",
+      "minutes:ga49_2022"
+    ],
+    "case:2021-10": [
       "minutes:ga49_2022"
     ],
     "case:2021-11": [
@@ -5614,6 +5761,9 @@
     ],
     "case:2021-8": [
       "case-pdf:2021-08_Citation_Korean_SWOrange",
+      "minutes:ga49_2022"
+    ],
+    "case:2021-9": [
       "minutes:ga49_2022"
     ],
     "case:2022-01": [
@@ -5777,6 +5927,9 @@
       "case-pdf:2023-11_Psiaki_v_PacificNW",
       "minutes:ga51_2024"
     ],
+    "case:2023-12": [
+      "minutes:ga52_2025"
+    ],
     "case:2023-13": [
       "case-pdf:2023-13_BCO40-5_MetroNY",
       "minutes:ga51_2024"
@@ -5789,9 +5942,15 @@
       "case-pdf:2023-15_Turner_v_SouthFL",
       "minutes:ga51_2024"
     ],
+    "case:2023-16": [
+      "minutes:ga52_2025"
+    ],
     "case:2023-17": [
       "case-pdf:2023-15_Turner_v_SouthFL",
       "minutes:ga51_2024"
+    ],
+    "case:2023-18": [
+      "minutes:ga52_2025"
     ],
     "case:2023-19": [
       "case-pdf:2023-19_Huffman_v_TNValley",
@@ -5800,6 +5959,18 @@
     "case:2023-2": [
       "case-pdf:2023-02_Reynolds_v_PeeDee",
       "minutes:ga51_2024"
+    ],
+    "case:2023-20": [
+      "minutes:ga52_2025"
+    ],
+    "case:2023-21": [
+      "minutes:ga52_2025"
+    ],
+    "case:2023-22": [
+      "minutes:ga52_2025"
+    ],
+    "case:2023-23": [
+      "minutes:ga52_2025"
     ],
     "case:2023-4": [
       "case-pdf:2023-04_Biese_v_TNValley",
@@ -5824,12 +5995,72 @@
       "case-pdf:2023-09_Myers_v_Illiana",
       "minutes:ga51_2024"
     ],
+    "case:2024-01": [
+      "minutes:ga52_2025"
+    ],
+    "case:2024-02": [
+      "minutes:ga52_2025"
+    ],
+    "case:2024-04": [
+      "minutes:ga52_2025"
+    ],
+    "case:2024-05": [
+      "minutes:ga52_2025"
+    ],
+    "case:2024-06": [
+      "minutes:ga52_2025"
+    ],
+    "case:2024-08": [
+      "minutes:ga52_2025"
+    ],
+    "case:2024-1": [
+      "minutes:ga52_2025"
+    ],
+    "case:2024-10": [
+      "minutes:ga52_2025"
+    ],
+    "case:2024-13": [
+      "minutes:ga52_2025"
+    ],
+    "case:2024-16": [
+      "minutes:ga52_2025"
+    ],
+    "case:2024-18": [
+      "minutes:ga52_2025"
+    ],
+    "case:2024-2": [
+      "minutes:ga52_2025"
+    ],
+    "case:2024-21": [
+      "minutes:ga52_2025"
+    ],
+    "case:2024-29": [
+      "minutes:ga52_2025"
+    ],
+    "case:2024-4": [
+      "minutes:ga52_2025"
+    ],
+    "case:2024-5": [
+      "minutes:ga52_2025"
+    ],
+    "case:2024-6": [
+      "minutes:ga52_2025"
+    ],
+    "case:2024-8": [
+      "minutes:ga52_2025"
+    ],
+    "case:2025-07": [
+      "minutes:ga52_2025"
+    ],
     "case:2025-12": [
       "case-pdf:2025-12--13_Assis_and_Brown_v_SFL_final",
       "minutes:ga52_2025"
     ],
     "case:2025-13": [
       "case-pdf:2025-12--13_Assis_and_Brown_v_SFL_final",
+      "minutes:ga52_2025"
+    ],
+    "case:2025-7": [
       "minutes:ga52_2025"
     ],
     "inquiry:ga03-3-89--bco-10-2-f24d5899": [
@@ -76733,8 +76964,8 @@
   },
   "coverage": {
     "cases": {
-      "records": 501,
-      "with_source": 501
+      "records": 548,
+      "with_source": 548
     },
     "inquiries": {
       "records": 436,

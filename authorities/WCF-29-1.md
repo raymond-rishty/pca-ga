@@ -4,7 +4,7 @@
 
 | Year | Record type | Relationship | Evidence | Confidence | Title | Disposition |
 |------|-------------|--------------|----------|------------|-------|-------------|
-| 1987 | Overture | explicit_citation | direct_text | high | [Amend BCO 58-4 to Clarify Session Discretion in Inviting Communicants to the Lord's Supper](../markdown/ga15_1987.md#ga15-p45) | GA15 referred the BCO 58-4 matter to an ad interim study committee. |
+| 1987 | Overture | explicit_citation | direct_text | high | [Amend BCO 58-4 to Clarify Session Discretion in Inviting Communicants to the Lord's Supper](../markdown/ga15_1987.md#ga15-p45) | Related BCO 58-4 revision approved by GA18 but not ratified (GA20) |
 
 ---
 *[← Authority Index](../index/AUTHORITY-BY-PROVISION.md)*

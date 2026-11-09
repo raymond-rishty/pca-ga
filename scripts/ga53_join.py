@@ -5,8 +5,8 @@ Given an overture number (O<NN>), print every past action in the corpus that CIT
 overture's target BCO/RAO provisions — the complete, auditable hit-list a workflow agent then
 enriches (semantic links, dedup of incidental hits) into the final per-overture page.
 
-Sources (in /workspace/index):
-  cases.jsonl              cases by `bco_cited_current` / `bco_cited_as`     (+ case_pages_map.json for links)
+Sources:
+  judicial_cases.jsonl     canonical case citations and metadata              (+ case_pages_map.json for page aliases)
   INQUIRIES.md             constitutional inquiries, Provisions column
   CCB-OVERTURE-ADVICE.md   CCB advice on overtures/amendments, Provisions column
   OVERTURES.md             prior overtures (+ overture_bodies.jsonl to match by provision in body)
@@ -18,8 +18,9 @@ Usage:  python3 ga53_join.py O37        # human-readable
 from __future__ import annotations
 import json, os, re, sys
 
-IDX = "/workspace/index"
-SRC = "/workspace/ga53"
+ROOT = os.environ.get("PCA_GA_ROOT", os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+IDX = os.path.join(ROOT, "index")
+SRC = os.path.join(ROOT, "ga53")
 
 
 def load_targets(num):
@@ -86,18 +87,19 @@ def join_cases(secs, chaps):
             except Exception:
                 pass
     out = []
-    for r in (json.loads(l) for l in open(os.path.join(ROOT, "data", "cases", "records", "cases.jsonl"))):
+    for r in (json.loads(l) for l in open(os.path.join(ROOT, "data", "cases", "records", "judicial_cases.jsonl"))):
         cited = set(r.get("bco_cited_current") or []) | set(r.get("bco_cited_as") or [])
         exact = bare & cited
         if not exact:
             continue
-        ga, yr = r.get("ga_ordinal"), r.get("year")
-        page = r.get("pdf_page_start")
+        ga, yr = r.get("source_assembly"), r.get("source_year")
+        page = r.get("source_pdf_page_start")
         vol = f"ga{ga:02d}_{yr}" if ga and yr else None
         anchor = f"{vol}.md#ga{ga}-p{page}" if vol and page else (vol + ".md" if vol else "")
-        cn = r.get("case_number")
+        cn = r.get("legacy_case_id") or r.get("case_id")
         cfile = by_num.get(_norm(cn), {}).get("file") if cn else None
-        out.append({"num": cn, "title": r.get("title"), "disposition": r.get("disposition"),
+        disposition = r.get("disposition_detail") or ", ".join(r.get("final_dispositions") or [])
+        out.append({"num": cn, "title": r.get("title"), "disposition": disposition,
                     "ga": ga, "year": yr, "provisions": sorted(exact),
                     "case_page": f"../cases/{cfile}.md" if cfile else None,
                     "minutes": f"../markdown/{anchor}" if anchor else None})

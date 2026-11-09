@@ -35,6 +35,7 @@ def _source_rows() -> tuple[
     dict[tuple[str, int, int], str],
     dict[tuple[str, int, int], dict],
     dict[tuple[str, int], set[str]],
+    dict[tuple[str, int, int], set[str]],
 ]:
     titles = _jsonl(IDX / "overture_titles.jsonl")
     bodies = _jsonl(IDX / "overture_bodies.jsonl")
@@ -60,7 +61,18 @@ def _source_rows() -> tuple[
         k: {**body_by_key.get(k, {}), **disposition_by_key.get(k, {})}
         for k in body_by_key.keys() | disposition_by_key.keys()
     }
-    return title_by_key, evidence, titles_by_record
+    researched_dispositions: dict[tuple[str, int, int], set[str]] = defaultdict(set)
+    for row in _jsonl(IDX / "overture_action_research.jsonl"):
+        disposition = (row.get("disposition") or "").strip()
+        if not disposition:
+            continue
+        pages = set(row.get("catalogue_pages") or [])
+        if row.get("source_page"):
+            pages.add(row["source_page"])
+        for page in pages:
+            identity = (str(row.get("vol") or ""), int(row.get("number") or 0), int(page))
+            researched_dispositions[identity].add(disposition)
+    return title_by_key, evidence, titles_by_record, researched_dispositions
 
 
 def _source_key(value: Any) -> str:
@@ -84,7 +96,7 @@ def main() -> None:
         (row.get("vol"), int(row.get("number") or 0), int(row.get("pdf_page") or 0))
         for row in corrections if row.get("action") == "exclude" and row.get("pdf_page")
     }
-    titles, evidence, titles_by_record = _source_rows()
+    titles, evidence, titles_by_record, researched_dispositions = _source_rows()
     structural_rows = set()
     for path in (IDX / "structure").glob("ga*.json"):
         structure = json.loads(path.read_text(encoding="utf-8"))
@@ -258,6 +270,10 @@ def main() -> None:
         subject = _md(correction["title"])
         source = _md(correction["source"])
         disposition = _md(correction.get("disposition"))
+        if not disposition:
+            researched = researched_dispositions.get((vol, number, page), set())
+            if len(researched) == 1:
+                disposition = _md(next(iter(researched)))
 
         # When a reviewed correction points to a page already linked in the
         # catalogue, use it to repair the metadata on that row. Otherwise add

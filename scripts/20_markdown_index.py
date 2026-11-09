@@ -4,14 +4,17 @@
 portable MARKDOWN documents: human-presentable, greppable, and directly ingestible by
 another researcher (or their LLM) with no database tooling.
 
-Generates (from pca_minutes.db, the single source of truth after 19_export):
+Generates the minutes volume, overture, and outline views from the portable SQLite
+database, and the Assembly case index from source-located entry JSONL plus the canonical
+case catalogue:
   INDEX.md                 — minutes index: volume cards linking to minutes and outlines
   index/OVERTURES.md       — the 3,075-overture catalogue, grouped by Assembly
-  index/CASES.md           — the legacy Assembly-grouped judicial-case extraction/index view
+  index/CASES.md           — Assembly-grouped canonical case entries plus source reference rows
   index/outlines/ga*.md    — per-volume structural table of contents
 
-The SQLite DB stays as the optional full-text-query layer (see PORTABLE.md); these markdown
-files are the presentable/ingestible layer, regenerated from the same data.
+The SQLite database is built by Gradle task `buildMinutesDatabase`. The Assembly case
+index reads entry observations from assembly_case_entries.jsonl and canonical metadata
+from judicial_cases.jsonl.
 
 CLI:  20_markdown_index.py
 """
@@ -19,9 +22,9 @@ from __future__ import annotations
 import json, os, re, sqlite3
 
 ROOT = os.environ.get("PCA_GA_ROOT", os.getcwd())
-DB = os.path.join(ROOT, "index", "pca_minutes.db")
 OUT_IDX = os.path.join(ROOT, "index")
 OUTLINES = os.path.join(OUT_IDX, "outlines")
+DB = os.path.join(ROOT, "index", "pca_minutes.db")
 
 SUMMARY_OVERRIDES = {
     "ga18_1990__case1": (
@@ -298,7 +301,7 @@ def main():
         "",
         "## Full-text search",
         "",
-        "A SQLite database named pca_minutes.db indexes every page of the minutes. See "
+        "A SQLite database named pca_minutes.db indexes every page of the Minutes. See "
         "[../PORTABLE.md](../PORTABLE.md) for query recipes.",
     ]
     open(os.path.join(OUT_IDX, "INDEX.md"), "w", encoding="utf-8").write("\n".join(L) + "\n")
@@ -390,10 +393,27 @@ def main():
          "and links to where it was actually decided; *reference / no separate decision* — a "
          "cross-reference, roll-up, or out-of-order/withdrawn matter with no published decision; "
          "*not yet re-extracted* — the volume is still pending.", ""]
-    rows = c.execute(
-        "SELECT ga_ordinal, year, case_number, canonical_number, title, parties, "
-        "disposition, has_dissent, pdf_page_start, synopsis FROM cases "
-        "ORDER BY CAST(ga_ordinal AS INT), pdf_page_start").fetchall()
+    entry_path = os.path.join(ROOT, "data", "cases", "derived", "assembly_case_entries.jsonl")
+    with open(entry_path, encoding="utf-8") as source:
+        assembly_entries = []
+        for line in source:
+            if not line.strip():
+                continue
+            entry = json.loads(line)
+            if entry.get("index_decision") != "exclude":
+                assembly_entries.append(entry)
+    rows = [{
+        "ga_ordinal": entry["assembly"],
+        "year": entry.get("assembly_year"),
+        "case_number": entry.get("observed_docket"),
+        "canonical_number": None,
+        "title": entry.get("raw_title"),
+        "parties": entry.get("parties"),
+        "disposition": entry.get("observed_disposition"),
+        "has_dissent": entry.get("observed_dissent"),
+        "pdf_page_start": entry["pdf_page_start"],
+        "synopsis": entry.get("observed_synopsis"),
+    } for entry in assembly_entries]
     yr_of = {int(v["ga_ordinal"]): v["year"] for v in vols}
     # table metadata keyed by normalized number (disposition/dissent/page/synopsis) + table rows per GA
     tmeta = {}
@@ -406,6 +426,17 @@ def main():
             tmeta[nn] = {"disp": r["disposition"] or "", "dissent": r["has_dissent"] in (1, "1"),
                          "page": r["pdf_page_start"], "synopsis": r["synopsis"] or "",
                          "title": r["title"] or r["parties"] or nn}
+    # The extracted Minutes table locates Assembly appearances, including
+    # reference/deferred rows. For any docket represented in the canonical
+    # catalogue, use the audited record for case metadata and resolution.
+    for case_id, canonical in judicial_by_id.items():
+        tmeta[case_id] = {
+            "disp": canonical_disposition(canonical),
+            "dissent": bool(canonical.get("dissent")),
+            "page": canonical.get("source_pdf_page_start"),
+            "synopsis": canonical.get("summary") or "",
+            "title": canonical.get("title") or case_id,
+        }
 
     # invert the SJC structure-page map to unique pages grouped by GA (page == one decision)
     sjc_by_ga = {}
@@ -559,21 +590,38 @@ def main():
             if not lookup and rowkey and any(rowkey <= ck for ck in ga_keys.get(ga, []) if ck):
                 continue                      # numberless row whose parties match an extracted case
             vol = ord2vol.get(str(ga))
-            canonical = judicial_by_id.get(lookup or "")
+            canonical_candidate = judicial_by_id.get(lookup or "")
+            local_identity = _key((r["parties"] or "") + " " + (r["title"] or ""))
+            canonical_identity = _key((canonical_candidate or {}).get("title") or "")
+            # Docket strings in the old Assembly table can be misparsed or
+            # reused. Only overlay canonical case data when the local caption
+            # independently supports the identity match.
+            canonical = (canonical_candidate
+                         if local_identity and canonical_identity & local_identity
+                         else None)
             who = md_escape((canonical or {}).get("title") or r["parties"] or r["title"] or "")[:80]
-            shown = md_escape(num) or (lookup or "")
-            mapped = pages_map.get(lookup or "")
+            shown = md_escape((canonical or {}).get("case_id") or num) or (lookup or "")
+            # A normalized docket alone is not enough to route an old table
+            # row to a case page: the legacy index reuses and misparses docket
+            # numbers. Require the caption-backed canonical match above before
+            # using the page map as a decision destination.
+            mapped = pages_map.get(lookup or "") if canonical else None
             stub = stub_pages.get(lookup or "")
+            canonical_page = (canonical or {}).get("case_page")
             # where the case was actually resolved
-            target = (int(re.match(r"ga(\d+)", mapped["vol"]).group(1)) if mapped
-                      else int(stub["ga"]) if stub else None)
+            target = ((canonical or {}).get("assembly")
+                      or (int(re.match(r"ga(\d+)", mapped["vol"]).group(1)) if mapped
+                          else int(stub["ga"]) if stub else None))
             if target is not None and target < ga:
                 # resolved at an EARLIER Assembly than this one => the case was merely CITED here as
                 # precedent (not introduced-and-deferred), so it is not a case OF this Assembly — omit.
                 continue
             if mapped:
                 # introduced here (or near) and decided at a LATER Assembly — a genuine deferral.
-                pg = f"_decided at {ordinal(target)} GA_ · [full text](../cases/{mapped['file']}.md)"
+                page_file = canonical_page or mapped["file"]
+                pg = f"_decided at {ordinal(target)} GA_ · [full text](../cases/{page_file}.md)"
+            elif canonical_page and target is not None and target > ga:
+                pg = f"_decided at {ordinal(target)} GA_ · [case record](JUDICIAL-CASES.html#case-{lookup})"
             elif stub:
                 pg = f"_disposed at {ordinal(target)} GA_ · [disposition](../cases/{stub['file']}.md)"
             elif ga in (1, 2):                # earliest Assemblies have no judicial-case section
@@ -584,7 +632,11 @@ def main():
             else:
                 pg = (f"_not yet re-extracted_ · {_pagelink(vol, r['pdf_page_start'])}"
                       if vol and r["pdf_page_start"] else "_not yet re-extracted_")
-            L.append(f"| {shown} | {who} | {md_escape(r['disposition'] or '')} | {case_summary(who, r['disposition'] or '', r['synopsis'] or '')} | {pg} |")
+            disposition = canonical_disposition(canonical) if canonical else ""
+            if not disposition:
+                disposition = r["disposition"] or ""
+            summary = canonical_summary(canonical, r["synopsis"] or "")
+            L.append(f"| {shown} | {who} | {md_escape(disposition)} | {summary} | {pg} |")
     open(os.path.join(OUT_IDX, "CASES.md"), "w", encoding="utf-8").write("\n".join(L) + "\n")
     n_ca = n_linked
 

@@ -4,7 +4,7 @@
 For each of the 91 overtures before the 53rd General Assembly (2026), the source findings list the
 PAST ACTIONS bearing on it (SJC/CJB cases, constitutional inquiries + CCB overture-advice, prior
 overtures, RPR exceptions). Unlike the other catalogues, the GA53 findings are RESEARCH PROSE, not
-derived from pca_minutes.db — so the source of truth is a set of per-overture markdown files, and this
+derived from the Minutes SQLite index — so the source of truth is a set of per-overture markdown files, and this
 renderer's job is layout + link-normalization + the catalogue index (it does not extract data).
 
 Reads (from GA53_SRC, default /workspace/ga53 — the BUILD tree; the same source feeds both trees,
@@ -110,7 +110,7 @@ def read_overtures():
 
 
 def normalize_links(body: str, page_rel: str) -> str:
-    body = body.replace("[pca_minutes.db]", "the full-text database")
+    body = body.replace("[pca_minutes.db]", "the local Minutes SQLite index")
 
     def cat_sub(m):
         label = m.group(1)

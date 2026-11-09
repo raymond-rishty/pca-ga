@@ -4,7 +4,7 @@
 
 | Year | Record type | Relationship | Evidence | Confidence | Title | Disposition |
 |------|-------------|--------------|----------|------------|-------|-------------|
-| 2003 | Judicial case | structured_case_reference | structured_case_metadata | medium | [Third Presbyterian Church v. Evangel Presbytery](../cases/ga31_2003__2001-30.md) | dismissed |
+| 2003 | Judicial case | structured_case_reference | structured_case_metadata | medium | [Third Presbyterian Church v. Evangel Presbytery](../cases/ga31_2003__2001-30.md) | not judicially in order |
 
 ---
 *[← Authority Index](../index/AUTHORITY-BY-PROVISION.md)*

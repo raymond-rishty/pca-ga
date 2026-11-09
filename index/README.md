@@ -1,8 +1,9 @@
 # `index/` — Phase 5 search layer
 
 `pca_minutes.db` is a single, portable SQLite database (FTS5, no daemon) built
-from `index/chunks.jsonl` + the per-page `build/page_jsonl/<vol>.pages.jsonl` by
-`scripts/05_index.py`. It makes the 52-volume PCA General Assembly minutes corpus
+by Gradle task `buildMinutesDatabase`. It indexes `index/chunks.jsonl` and the
+Markdown-derived per-page records in `build/case_page_jsonl/`, then adds canonical
+case, structure, and catalogue layers. It makes the 52-volume PCA General Assembly minutes corpus
 scannable for constitutional interpretation, and **every result carries a
 resolvable `GA number + page` citation** (the Phase 5 non-negotiable invariant).
 
@@ -57,13 +58,12 @@ respondent is a person (not a court) and an Appendix-S commission-minutes range
 ## Build / rebuild
 
 ```bash
-/workspace/.venv/bin/python scripts/05_index.py build          # idempotent (skips if current)
-/workspace/.venv/bin/python scripts/05_index.py build --force  # full rebuild
+./gradlew buildMinutesDatabase
 ```
 
 The build reconstructs each section's text from the per-page **source of
-truth** `build/page_jsonl/<vol>.pages.jsonl` (so re-OCR of a page + rebuild
-updates search), then BM25-indexes it.
+truth** `build/case_page_jsonl/<vol>.pages.jsonl` (so a Minutes Markdown edit
+and database rebuild updates search), then BM25-indexes it.
 
 ## Schema
 
@@ -86,8 +86,8 @@ updates search), then BM25-indexes it.
   unicode61')`. External-content linked to `sections` by `rowid`. Supports
   `bm25()`, `snippet()`, `highlight()`.
 - **`pages`** — full-text **base layer** content table, one row per pdf_page
-  that has text, loaded directly from the per-page **source of truth**
-  `build/page_jsonl/<vol>.pages.jsonl`. Columns: `page_id` (== FTS rowid), `vol`
+  that has text, loaded directly from the Markdown-derived per-page source
+  `build/case_page_jsonl/<vol>.pages.jsonl`. Columns: `page_id` (== FTS rowid), `vol`
   (e.g. `ga16_1988`), `ga_ordinal`, `year`, `pdf_page`, `printed_page`,
   `char_count`, `engine`, `source_file`, `text`. Indexed on `vol`, `ga_ordinal`,
   and a `UNIQUE(vol, pdf_page)`. Truly-blank pages (no text) are skipped.
@@ -231,7 +231,7 @@ ORDER BY rank LIMIT 10;
 
 `05_index.py test` runs the 24-query structured known-answer set **plus** 4 page
 base-layer checks. The headline check, `coverage_no_text_page_unsearchable`,
-counts pages in `build/page_jsonl/` with `char_count>300` that are **absent**
+counts pages in `build/case_page_jsonl/` with `char_count>300` that are **absent**
 from the `pages` table:
 
 - **before** the page layer: **1,159** such pages were unsearchable corpus-wide.

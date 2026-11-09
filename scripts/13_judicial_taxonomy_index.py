@@ -154,8 +154,8 @@ def citation_key(value):
 
 
 def load_source_records(root):
-    """Load printed-page metadata from the legacy case index."""
-    path = os.path.join(root, "data", "cases", "records", "cases.jsonl")
+    """Load printed-page metadata carried by the canonical case records."""
+    path = os.path.join(root, "data", "cases", "records", "judicial_cases.jsonl")
     records = {}
     if not os.path.exists(path):
         return records
@@ -167,7 +167,7 @@ def load_source_records(root):
                 record = json.loads(line)
             except json.JSONDecodeError:
                 continue
-            for key in (record.get("case_number"), record.get("case_id")):
+            for key in (record.get("case_id"), record.get("legacy_case_id")):
                 if key:
                     records.setdefault(citation_key(key), record)
     return records
@@ -190,18 +190,18 @@ def source_citation(row, source_records, root=None):
                 page_start = int(pages.group(1).split(".", 1)[1].strip())
                 page_end = int(pages.group(2)) if pages.group(2) else None
     source_matches_page = (
-        source.get("printed_page_start")
-        and (not page_volume or source.get("ga_ordinal") == page_volume)
+        source.get("source_printed_page_start")
+        and (not page_volume or source.get("source_assembly") == page_volume)
     )
-    assembly = page_volume or row.get("assembly") or source.get("ga_ordinal")
+    assembly = page_volume or row.get("assembly") or source.get("source_assembly")
     if source_matches_page:
-        start = source.get("printed_page_start")
-        end = source.get("printed_page_end")
+        start = source.get("source_printed_page_start")
+        end = source.get("source_printed_page_end")
     else:
         start = page_start
         end = page_end
-    start = start or source.get("printed_page_start")
-    end = end or source.get("printed_page_end")
+    start = start or source.get("source_printed_page_start")
+    end = end or source.get("source_printed_page_end")
     if not assembly:
         return ""
     result = f"M{assembly}GA"

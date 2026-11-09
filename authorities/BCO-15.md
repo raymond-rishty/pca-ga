@@ -4,8 +4,8 @@
 
 | Year | Record type | Relationship | Evidence | Confidence | Title | Disposition |
 |------|-------------|--------------|----------|------------|-------|-------------|
-| 2021 | Judicial case | explicit_citation | direct_text | high | [Malone v. Metro NY](../cases/ga36_2008__2007-02.md) |  |
-| 1998 | Judicial case | explicit_citation | direct_text | high | [Mt. Carmel Session v. New Jersey Presbytery](../cases/ga26_1998__1997-05.md) | denied |
+| 2021 | Judicial case | explicit_citation | direct_text | high | [Malone v. Metro NY](../cases/ga36_2008__2007-02.md) | Complaint sustained in part; judgment and censure vacated |
+| 1998 | Judicial case | explicit_citation | direct_text | high | [Mt. Carmel Session v. New Jersey Presbytery](../cases/ga26_1998__1997-05.md) | Assembly rejected the minority report, adopted the majority report, and denied the complaint |
 | 2016 | CCB advice | structured_provision_tag | structured_provision_tag | medium | [General Assembly Directions Regarding SJC Decisions](../inquiries/ga44_2016__ci01.md) | in conflict |
 | 2002 | CCB advice | structured_provision_tag | structured_provision_tag | medium | [Abolishing the SJC](../inquiries/ga30_2002__ci02.md) | in conflict |
 | 2022 | Overture | explicit_citation | direct_text | high | [Amend BCO 15-2 Regarding Presbytery Commission Membership and Quorum](../markdown/ga49_2022.md#ga49-p1340) | Answered in the negative |

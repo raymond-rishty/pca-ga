@@ -1,8 +1,8 @@
 # Authority index audit
 
-Catalogue input fingerprint: `b14bda679d6a6f23c8a1b03d625b7a2db90e502f751f61c81582dc67e14bf16e`.
+Catalogue input fingerprint: `7060073322ab5c0d91cc95b957c4b4c2b0bc5492cefe066a8577b6c6bf45348e`.
 
-The catalogue contains 1172 provisions, 12774 relationships, 16659 evidence occurrences, and 96 unmatched source references.
+The catalogue contains 1172 provisions, 12802 relationships, 16696 evidence occurrences, and 96 unmatched source references.
 
 Relationship kinds describe why a record is linked. Evidence basis describes the source of that link. Match confidence describes extraction confidence. Reader scope labels the relationship in the Constitution Reader. These fields do not describe legal force.
 
@@ -14,7 +14,7 @@ The Reader includes indexed relationships for its supported record types across 
 |-------------|--------------:|----------------:|
 | CCB advice | 549 | 549 |
 | Constitutional inquiry | 437 | 437 |
-| Judicial case | 3288 | 3288 |
+| Judicial case | 3316 | 3316 |
 | Overture | 1613 | 1613 |
 | RPR exception | 6887 | 6887 |
 
@@ -24,9 +24,9 @@ Reader-included relationships by scope:
 |-------------|-------|------:|
 | CCB advice | `contextual` | 549 |
 | Constitutional inquiry | `primary` | 437 |
-| Judicial case | `primary` | 3288 |
-| Overture | `candidate` | 1527 |
-| Overture | `primary` | 86 |
+| Judicial case | `primary` | 3316 |
+| Overture | `candidate` | 1535 |
+| Overture | `primary` | 78 |
 | RPR exception | `candidate` | 136 |
 | RPR exception | `contextual` | 6751 |
 
@@ -37,8 +37,8 @@ Reader-included relationships by scope:
 | `body_mention` | 203 |
 | `exception_target` | 224 |
 | `explicit_citation` | 3987 |
-| `proposal_target` | 488 |
-| `structured_case_reference` | 844 |
+| `proposal_target` | 489 |
+| `structured_case_reference` | 872 |
 | `structured_exception_tag` | 6711 |
 | `structured_provision_tag` | 986 |
 
@@ -47,39 +47,40 @@ Reader-included relationships by scope:
 | Value | Count |
 |-------|------:|
 | `direct_text` | 4388 |
-| `structured_case_metadata` | 844 |
+| `structured_case_metadata` | 872 |
 | `structured_provision_tag` | 7697 |
-| `title_subject_reference` | 488 |
+| `title_subject_reference` | 489 |
 
 ### Relationships by match confidence
 
 | Value | Count |
 |-------|------:|
 | `high` | 4549 |
-| `medium` | 8225 |
+| `medium` | 8253 |
 
 ### Relationships by reader scope
 
 | Value | Count |
 |-------|------:|
-| `candidate` | 1663 |
+| `candidate` | 1671 |
 | `contextual` | 7300 |
-| `primary` | 3811 |
+| `primary` | 3831 |
 
 ### Relationships by match method
 
 | Value | Count |
 |-------|------:|
-| `case_provision_index:case_markdown_text` | 940 |
-| `case_provision_index:case_markdown_text,cases.jsonl:bco_cited_as,cases.jsonl:bco_cited_current` | 279 |
-| `case_provision_index:case_markdown_text,cases.jsonl:bco_cited_as,cases.jsonl:bco_cited_current,judicial_cases.jsonl:bco_provisions` | 1338 |
-| `case_provision_index:case_markdown_text,cases.jsonl:bco_cited_as,judicial_cases.jsonl:bco_provisions` | 6 |
-| `case_provision_index:case_markdown_text,judicial_cases.jsonl:bco_provisions` | 39 |
-| `case_provision_index:cases.jsonl:bco_cited_as,cases.jsonl:bco_cited_current` | 124 |
-| `case_provision_index:cases.jsonl:bco_cited_as,cases.jsonl:bco_cited_current,judicial_cases.jsonl:bco_provisions` | 647 |
-| `case_provision_index:cases.jsonl:bco_cited_as,judicial_cases.jsonl:bco_provisions` | 3 |
-| `case_provision_index:cases.jsonl:bco_cited_current` | 9 |
-| `case_provision_index:judicial_cases.jsonl:bco_provisions` | 82 |
+| `case_provision_index:case_markdown_text` | 941 |
+| `case_provision_index:case_markdown_text,judicial_cases.jsonl:bco_cited_as,judicial_cases.jsonl:bco_cited_current` | 210 |
+| `case_provision_index:case_markdown_text,judicial_cases.jsonl:bco_cited_as,judicial_cases.jsonl:bco_cited_current,judicial_cases.jsonl:bco_provisions` | 1375 |
+| `case_provision_index:case_markdown_text,judicial_cases.jsonl:bco_cited_as,judicial_cases.jsonl:bco_provisions` | 4 |
+| `case_provision_index:case_markdown_text,judicial_cases.jsonl:bco_provisions` | 73 |
+| `case_provision_index:judicial_cases.jsonl:bco_cited_as` | 1 |
+| `case_provision_index:judicial_cases.jsonl:bco_cited_as,judicial_cases.jsonl:bco_cited_current` | 118 |
+| `case_provision_index:judicial_cases.jsonl:bco_cited_as,judicial_cases.jsonl:bco_cited_current,judicial_cases.jsonl:bco_provisions` | 676 |
+| `case_provision_index:judicial_cases.jsonl:bco_cited_as,judicial_cases.jsonl:bco_provisions` | 4 |
+| `case_provision_index:judicial_cases.jsonl:bco_cited_current` | 9 |
+| `case_provision_index:judicial_cases.jsonl:bco_provisions` | 90 |
 | `index/inquiries_search.json:provisions` | 986 |
 | `index/rpr_search.json:provisions` | 6711 |
 | `overture_body_explicit_reference_match` | 1452 |
@@ -170,7 +171,7 @@ Reader-included relationships by scope:
 | `rpr_markdown_line:97` | 1 |
 | `rpr_markdown_line:98` | 2 |
 | `rpr_markdown_line:99` | 6 |
-| `title_subject` | 488 |
+| `title_subject` | 489 |
 
 ### Evidence occurrences by relationship kind
 
@@ -178,9 +179,9 @@ Reader-included relationships by scope:
 |-------|------:|
 | `body_mention` | 366 |
 | `exception_target` | 284 |
-| `explicit_citation` | 6959 |
-| `proposal_target` | 488 |
-| `structured_case_reference` | 865 |
+| `explicit_citation` | 6962 |
+| `proposal_target` | 489 |
+| `structured_case_reference` | 898 |
 | `structured_exception_tag` | 6711 |
 | `structured_provision_tag` | 986 |
 
@@ -188,25 +189,25 @@ Reader-included relationships by scope:
 
 | Value | Count |
 |-------|------:|
-| `direct_text` | 7609 |
-| `structured_case_metadata` | 865 |
+| `direct_text` | 7612 |
+| `structured_case_metadata` | 898 |
 | `structured_provision_tag` | 7697 |
-| `title_subject_reference` | 488 |
+| `title_subject_reference` | 489 |
 
 ### Evidence occurrences by match confidence
 
 | Value | Count |
 |-------|------:|
-| `high` | 8097 |
-| `medium` | 8562 |
+| `high` | 8101 |
+| `medium` | 8595 |
 
 ### Evidence occurrences by reader scope
 
 | Value | Count |
 |-------|------:|
-| `candidate` | 2901 |
+| `candidate` | 2910 |
 | `contextual` | 7544 |
-| `primary` | 6214 |
+| `primary` | 6242 |
 
 ## Unmatched source references
 
@@ -242,7 +243,7 @@ Reader-included relationships by scope:
 | BCO 25-14 | Judicial case | `case:cases/ga52_2025__2023-12.md` | `direct_text` | `high` | `primary` | [Flatgard v. Metro Atlanta Presbytery](../cases/ga52_2025__2023-12.md) |
 | BCO 26-11 | Overture | `overture:ga08_1980:8:p40` | `title_subject_reference` | `high` | `primary` | [Amend BCO 26-11 on congregations withdrawing from the PCA](../markdown/ga08_1980.md#ga08-p40) |
 | BCO 26-7 | Constitutional inquiry | `inquiry:inquiries/ga07_1979__ci02.md` | `structured_provision_tag` | `medium` | `primary` | [Eligibility of a female communing member to serve as church trustee](../inquiries/ga07_1979__ci02.md) |
-| BCO 27-11 | Overture | `overture:ga14_1986:37:p55` | `direct_text` | `high` | `candidate` | [Amend BCO 42-4 and 43-2 to Extend Appeal and Complaint Filing Period to Sixty Days](../markdown/ga14_1986.md#ga14-p55) |
+| BCO 27-11 | Overture | `overture:ga14_1986:37:p55` | `direct_text` | `high` | `candidate` | [Amend BCO 42-4, 43-2, and 43-3 to Extend Filing Periods to Sixty Days](../markdown/ga14_1986.md#ga14-p55) |
 | BCO 27-37 | Constitutional inquiry | `inquiry:inquiries/ga12_1984__ci12.md` | `structured_provision_tag` | `medium` | `primary` | [Handling exceptions at ordination and distinctions between BCO and confessional exceptions](../inquiries/ga12_1984__ci12.md) |
 | BCO 27-37 | Judicial case | `case:cases/ga27_1999__1998-05.md` | `direct_text` | `high` | `primary` | [Long, et al. v. James River Presbytery](../cases/ga27_1999__1998-05.md) |
 | BCO 27-46 | Overture | `overture:ga51_2024:4:p1072` | `title_subject_reference` | `high` | `candidate` | [Establish Study Committee to Review BCO 27-46 Judicial Rules](../markdown/ga51_2024.md#ga51-p1072) |
@@ -361,7 +362,7 @@ Stored `unrelated_or_mislinked` advisory labels by record type:
 - Overture: 89
 - RPR exception: 118
 
-Assessment status: `stale`; applied 0, stale 11481, unassessed 12774.
+Assessment status: `stale`; applied 0, stale 11481, unassessed 12802.
 
 ## Coverage and spot checks
 

@@ -4,7 +4,7 @@
 
 | Year | Record type | Relationship | Evidence | Confidence | Title | Disposition |
 |------|-------------|--------------|----------|------------|-------|-------------|
-| 2022 | Judicial case | explicit_citation | direct_text | high | [Speck v. Missouri Presbytery](../cases/ga49_2022__2020-12.md) | sustained |
+| 2022 | Judicial case | explicit_citation | direct_text | high | [Speck v. Missouri Presbytery](../cases/ga49_2022__2020-12.md) | Complaint denied; all stated issues answered no |
 | 2021 | Judicial case | explicit_citation | direct_text | high | [Evans and Pitts et al. v. Arizona Presbytery](../cases/ga48_2021__2019-10_2019-12.md) | sustained |
 | 2023 | Overture | explicit_citation | direct_text | high | [Amend BCO 7 to Disqualify Officers Who Deviate from Biblical Human Sexuality](../markdown/ga50_2023.md#ga50-p991) | Answered by reference |
 | 2023 | Overture | explicit_citation | direct_text | high | [Amend BCO 8-2 and 9-3 to Require Officers' Conformity to Biblical Standards for Chastity in Self-Description](../markdown/ga50_2023.md#ga50-p1030) | Approved & ratified (2024) |

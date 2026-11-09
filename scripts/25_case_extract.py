@@ -16,6 +16,8 @@ CLI:  25_case_extract.py sjc <vol>     # prototype: print the cases a volume yie
 from __future__ import annotations
 import os, re, sys
 
+from judicial_case_rows import load_judicial_case_rows
+
 ROOT = os.environ.get("PCA_GA_ROOT", os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 # Header recognizers, chosen per-volume by autotune (the case-header format drifts 1973-2025).
 #  STRICT (P1): a "[JUDICIAL] CASE [No.] NN" line — "**CASE 2009-25**", "JUDICIAL CASE 91-1".
@@ -89,14 +91,11 @@ def norm_num(n):
 
 
 def table_meta(ga):
-    """Authoritative case IDENTITY (parties/title/disposition/dissent) from the cases table, keyed
-    by normalized case number, for one GA. The table's LOCATIONS are unreliable, but its metadata
-    is good — so structure extraction owns the text/boundaries and the table owns the title."""
-    import sqlite3
-    c = sqlite3.connect(f"{ROOT}/index/pca_minutes.db"); c.row_factory = sqlite3.Row
+    """Canonical case identity and editorial fields, keyed by docket for one source GA."""
     out = {}
-    for r in c.execute("SELECT canonical_number, case_number, parties, title, disposition, "
-                       "has_dissent FROM cases WHERE ga_ordinal=?", (ga,)):
+    for r in load_judicial_case_rows(ROOT):
+        if r["ga_ordinal"] != ga:
+            continue
         raw = r["canonical_number"] or r["case_number"] or ""
         if not re.match(r"\d{2,4}-\d", raw):
             continue
@@ -106,8 +105,7 @@ def table_meta(ga):
             t = (r["parties"] or "").strip()
         out[norm_num(raw)] = {"title": t, "parties": (r["parties"] or "").strip(),
                               "disposition": (r["disposition"] or "").strip(),
-                              "dissent": r["has_dissent"] in (1, "1")}
-    c.close()
+                              "dissent": bool(r["has_dissent"])}
     return out
 
 
@@ -290,36 +288,28 @@ def extract_sjc(vol, broad=None, marker=None, bare=None):
 
 
 def _all_table_nums():
-    """Every case number anywhere in the table — a block number found here is a REAL case (even if
-    the table filed it under a neighbouring GA); one found nowhere is true junk (listing/OCR noise)."""
-    import sqlite3
-    c = sqlite3.connect(f"{ROOT}/index/pca_minutes.db")
+    """Canonical docket numbers; unlisted numbers remain extraction noise candidates."""
     out = set()
-    for (cn, cnu) in c.execute("SELECT canonical_number, case_number FROM cases"):
-        for raw in (cn, cnu):
+    for row in load_judicial_case_rows(ROOT):
+        for raw in (row["canonical_number"], row["case_number"]):
             if raw and re.match(r"\d{2,4}-\d", raw):
                 out.add(norm_num(raw))
-    c.close()
     return out
 
 
 def global_titles():
-    """number -> best title across the WHOLE table (year-prefixed numbers are ~globally unique), so
-    a block in a volume whose GA the table mis-files still gets a title."""
-    import sqlite3
-    c = sqlite3.connect(f"{ROOT}/index/pca_minutes.db")
+    """Docket -> canonical title, so extracted blocks get catalogue wording."""
     out = {}
-    for cn, cnu, ti, pa in c.execute("SELECT canonical_number, case_number, title, parties FROM cases"):
-        raw = cn or cnu or ""
+    for row in load_judicial_case_rows(ROOT):
+        raw = row["canonical_number"] or row["case_number"] or ""
         if not re.match(r"\d{2,4}-\d", raw):
             continue
-        t = (ti or "").strip()
+        t = (row["title"] or "").strip()
         if len(t) > 70 or re.search(r"(?i)was withdrawn|completed its work|does not (require|involve)", t):
-            t = (pa or "").strip()
+            t = (row["parties"] or "").strip()
         k = norm_num(raw)
         if t and (k not in out or len(t) < len(out[k])):   # prefer a concise "X v. Y" title
             out[k] = t
-    c.close()
     return out
 
 

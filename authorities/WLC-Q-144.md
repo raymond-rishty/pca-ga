@@ -6,9 +6,9 @@
 |------|-------------|--------------|----------|------------|-------|-------------|
 | 2023 | Judicial case | explicit_citation | direct_text | high | [Harrell et al. v. Covenant Presbytery](../cases/ga50_2023__2022-07.md) | sustained |
 | 2023 | Judicial case | explicit_citation | direct_text | high | [Presbyterian Church in America v. TE Daniel Herron](../cases/ga50_2023__2022-10.md) | other |
-| 2018 | Judicial case | explicit_citation | direct_text | high | [Bachmann v. Nashville Presbytery](../cases/ga46_2018__2016-15.md) | sustained |
-| 2005 | Judicial case | explicit_citation | direct_text | high | [Thornton v. Westminster](../cases/ga33_2005__2003-02_2003-05.md) | sustained_in_part |
-| 1989 | Judicial case | explicit_citation | direct_text | high | [TE John T. DeBardeleben v. Philadelphia Presbytery](../cases/ga17_1989__case3.md) | sustained |
+| 2018 | Judicial case | explicit_citation | direct_text | high | [Bachmann v. Nashville Presbytery](../cases/ga46_2018__2016-15.md) | appeal sustained; decision rendered |
+| 2005 | Judicial case | explicit_citation | direct_text | high | [Thornton v. Westminster](../cases/ga33_2005__2003-02_2003-05.md) | remanded |
+| 1989 | Judicial case | explicit_citation | direct_text | high | [TE John T. DeBardeleben v. Philadelphia Presbytery](../cases/ga17_1989__case3.md) | Complaint sustained and Presbytery's action annulled; trials de novo produced mixed guilty and not-guilty verdicts and censures |
 | 2022 | Overture | explicit_citation | direct_text | high | [Commend the Human Sexuality Report for Study, Assessment, and Conciliation](../markdown/ga49_2022.md#ga49-p1382) | Answered by reference to Overture 29 |
 | 2021 | Overture | explicit_citation | direct_text | high | [Form Ad Interim Committee to Study Biblical Ethics in Digital Media](../markdown/ga48_2021.md#ga48-p1077) | Answered in the negative |
 | 2016 | Overture | explicit_citation | direct_text | high | [Confess Covenantal and Generational Sins During the Civil Rights Period](../markdown/ga44_2016.md#ga44-p610) | Answered by reference to Overture 43 |

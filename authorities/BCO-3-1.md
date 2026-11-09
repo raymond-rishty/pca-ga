@@ -5,8 +5,9 @@
 | Year | Record type | Relationship | Evidence | Confidence | Title | Disposition |
 |------|-------------|--------------|----------|------------|-------|-------------|
 | 2024 | Judicial case | explicit_citation | direct_text | high | [Psiaki v. Pacific Northwest Presbytery](../cases/ga51_2024__2023-11.md) | sustained |
-| 2005 | Judicial case | structured_case_reference | structured_case_metadata | medium | [Session of Living Word Presbyterian Church v. Pacific Northwest Presbytery](../cases/ga34_2006__stub_2005-03.md) |  |
-| 2002 | Judicial case | explicit_citation | direct_text | high | [Andy Lee v. Korean Capital Presbytery](../cases/ga30_2002__2001-07.md) | dismissed |
+| 2005 | Judicial case | structured_case_reference | structured_case_metadata | medium | [Session of Living Word Presbyterian Church v. Pacific Northwest Presbytery](../cases/ga34_2006__stub_2005-03.md) | Found out of order; no separate decision or reason published |
+| 2002 | Judicial case | explicit_citation | direct_text | high | [Andy Lee v. Korean Capital Presbytery](../cases/ga30_2002__2001-07.md) | Both specifications sustained; intervention and subsequent commission acts annulled |
+| 1992 | Judicial case | structured_case_reference | structured_case_metadata | medium | [Nickoley and Stephens v. Southwest Presbytery](../cases/ga20_1992__1991-02.md) | not_sustained |
 | 1991 | Judicial case | explicit_citation | direct_text | high | [Chappell v. Eastern Carolina Presbytery](../cases/ga19_1991__1990-04.md) | sustained |
 | 1991 | Judicial case | structured_case_reference | structured_case_metadata | medium | [Marshall v. Eastern Carolina Presbytery](../cases/ga19_1991__1990-04a.md) | sustained |
 | 1998 | Constitutional inquiry | structured_provision_tag | structured_provision_tag | medium | [Dissolution of pastoral call and supermajority vote requirements](../inquiries/ga26_1998__ci01.md) | advice given — BCO 23-1 refers back to BCO 20 for meeting and conduct; 2/3 vote for dissolution requires explicit congregational adoption |

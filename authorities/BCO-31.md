@@ -4,13 +4,13 @@
 
 | Year | Record type | Relationship | Evidence | Confidence | Title | Disposition |
 |------|-------------|--------------|----------|------------|-------|-------------|
-| 2024 | Judicial case | explicit_citation | direct_text | high | [Myers v. Illiana Presbytery](../cases/ga51_2024__2023-09.md) | granted |
-| 2022 | Judicial case | explicit_citation | direct_text | high | [Speck v. Missouri Presbytery](../cases/ga49_2022__2020-12.md) | sustained |
-| 2018 | Judicial case | explicit_citation | direct_text | high | [Frazier v. Nashville Presbytery](../cases/ga46_2018__2016-11.md) | denied |
+| 2024 | Judicial case | explicit_citation | direct_text | high | [Myers v. Illiana Presbytery](../cases/ga51_2024__2023-09.md) | Appeal sustained 21-1; Presbytery's action reversed in whole and prior suspensions restored pending constitutionally adequate process |
+| 2022 | Judicial case | explicit_citation | direct_text | high | [Speck v. Missouri Presbytery](../cases/ga49_2022__2020-12.md) | Complaint denied; all stated issues answered no |
+| 2018 | Judicial case | explicit_citation | direct_text | high | [Frazier v. Nashville Presbytery](../cases/ga46_2018__2016-11.md) | complaint denied |
 | 2017 | Judicial case | explicit_citation | direct_text | high | [Doty v. Nashville Presbytery](../cases/ga45_2017__2016-08.md) | dismissed |
 | 2014 | Judicial case | explicit_citation | direct_text | high | [Reese and Bech v. Philadelphia Presbytery](../cases/ga42_2014__2011-14.md) | sustained |
 | 2010 | Judicial case | explicit_citation | direct_text | high | [White v. Siouxlands Presbytery](../cases/ga38_2010__2008-14.md) | sustained |
-| 1993 | Judicial case | explicit_citation | direct_text | high | [Lovelace v. Northeast Presbytery (Case #2)](../cases/ga21_1993__1991-06.md) | other |
+| 1993 | Judicial case | explicit_citation | direct_text | high | [Lovelace v. Northeast Presbytery (Case #2)](../cases/ga21_1993__1991-06.md) | sustained in part |
 | 1991 | Judicial case | explicit_citation | direct_text | high | [Bowen v. Eastern Carolina Presbytery](../cases/ga19_1991__1990-08.md) | sustained |
 | 1998 | Constitutional inquiry | structured_provision_tag | structured_provision_tag | medium | [Whether presbytery may investigate before proceeding to trial](../inquiries/ga26_1998__ci03.md) | advice given — BCO 31-2 permits investigation before adjudication; amendments recommended |
 | 2023 | CCB advice | structured_provision_tag | structured_provision_tag | medium | [Amend BCO 31 to Require Expedited and Conflict-free Investigations of Cases Involving Moral Failure or Victim(s)](../inquiries/ga50_2023__ci18.md) | in conflict; Adopted 8-0-0 |

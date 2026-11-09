@@ -4,7 +4,7 @@
 
 | Year | Record type | Relationship | Evidence | Confidence | Title | Disposition |
 |------|-------------|--------------|----------|------------|-------|-------------|
-| 2013 | Judicial case | explicit_citation | direct_text | high | [Art Sartorius et al. v. Siouxlands Presbytery](../cases/ga43_2015__2012-08.md) | out_of_order |
+| 2013 | Judicial case | explicit_citation | direct_text | high | [Art Sartorius et al. v. Siouxlands Presbytery](../cases/ga43_2015__2012-08.md) | sustained_in_part |
 
 ---
 *[← Authority Index](../index/AUTHORITY-BY-PROVISION.md)*

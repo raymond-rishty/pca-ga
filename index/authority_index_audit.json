@@ -1,9 +1,9 @@
 {
  "schema_version": 2,
- "catalogue_input_fingerprint": "b14bda679d6a6f23c8a1b03d625b7a2db90e502f751f61c81582dc67e14bf16e",
+ "catalogue_input_fingerprint": "7060073322ab5c0d91cc95b957c4b4c2b0bc5492cefe066a8577b6c6bf45348e",
  "provision_count": 1172,
- "relationship_count": 12774,
- "occurrence_count": 16659,
+ "relationship_count": 12802,
+ "occurrence_count": 16696,
  "unmatched_relationship_count": 96,
  "unmatched_relationships": [
   {
@@ -296,7 +296,7 @@
    "provision": "BCO 27-11",
    "record_type": "Overture",
    "record_id": "overture:ga14_1986:37:p55",
-   "title": "Amend BCO 42-4 and 43-2 to Extend Appeal and Complaint Filing Period to Sixty Days",
+   "title": "Amend BCO 42-4, 43-2, and 43-3 to Extend Filing Periods to Sixty Days",
    "year": 1986,
    "disposition": "Approved & ratified (1987)",
    "url": "markdown/ga14_1986.md#ga14-p55",
@@ -376,7 +376,7 @@
    "record_id": "overture:ga24_1996:14:p303",
    "title": "Amend BCO by Striking 46-5 and Adding New BCO 38-2 and 46-2",
    "year": 1996,
-   "disposition": "Answered by reference to Overture 27",
+   "disposition": "Answered by reference",
    "url": "markdown/ga24_1996.md#ga24-p303",
    "evidence_basis": "direct_text",
    "relationship_kind": "explicit_citation",
@@ -389,7 +389,7 @@
    "record_id": "overture:ga24_1996:27:p297",
    "title": "Delete BCO 46-5 and Amend BCO 38 and 46-2 on Church Membership",
    "year": 1996,
-   "disposition": "Approved and ratified",
+   "disposition": "Parts 1 and 2 (vacating BCO 46-5 and adding BCO 38-4), and part 3 (amending BCO 46-2 paragraph 3), were adopted as amended by GA24, received Presbytery advice and consent, and were ratified by GA25.",
    "url": "markdown/ga24_1996.md#ga24-p297",
    "evidence_basis": "direct_text",
    "relationship_kind": "explicit_citation",
@@ -402,7 +402,7 @@
    "record_id": "overture:ga24_1996:6:p298",
    "title": "Amend BCO 46-5, 38-2 & 38-3 on Member Roll Removal & Discipline",
    "year": 1996,
-   "disposition": "Answered by reference to Overture 27",
+   "disposition": "Answered by reference to Recommendation 15",
    "url": "markdown/ga24_1996.md#ga24-p298",
    "evidence_basis": "direct_text",
    "relationship_kind": "explicit_citation",
@@ -480,7 +480,7 @@
    "record_id": "case:cases/ga23_1995__1993-10.md",
    "title": "Clark v. Southwest Presbytery",
    "year": 1995,
-   "disposition": "not_sustained",
+   "disposition": "remanded for retrial",
    "url": "cases/ga23_1995__1993-10.md",
    "evidence_basis": "structured_case_metadata",
    "relationship_kind": "structured_case_reference",
@@ -493,7 +493,7 @@
    "record_id": "case:cases/ga23_1995__1993-12_1993-14.md",
    "title": "Grace RPC Session v. Heartland Presbytery",
    "year": 1995,
-   "disposition": "sustained",
+   "disposition": "93-12 affirmed; 93-14 reversed",
    "url": "cases/ga23_1995__1993-12_1993-14.md",
    "evidence_basis": "direct_text",
    "relationship_kind": "explicit_citation",
@@ -532,7 +532,7 @@
    "record_id": "overture:ga24_1996:6:p298",
    "title": "Amend BCO 46-5, 38-2 & 38-3 on Member Roll Removal & Discipline",
    "year": 1996,
-   "disposition": "Answered by reference to Overture 27",
+   "disposition": "Answered by reference to Recommendation 15",
    "url": "markdown/ga24_1996.md#ga24-p298",
    "evidence_basis": "direct_text",
    "relationship_kind": "explicit_citation",
@@ -610,7 +610,7 @@
    "record_id": "case:cases/ga23_1995__1993-12_1993-14.md",
    "title": "Grace RPC Session v. Heartland Presbytery",
    "year": 1995,
-   "disposition": "sustained",
+   "disposition": "93-12 affirmed; 93-14 reversed",
    "url": "cases/ga23_1995__1993-12_1993-14.md",
    "evidence_basis": "direct_text",
    "relationship_kind": "explicit_citation",
@@ -623,7 +623,7 @@
    "record_id": "case:cases/ga47_2019__2018-02.md",
    "title": "Anna Lewis v. Presbytery of the Mississippi Valley",
    "year": 2019,
-   "disposition": "out_of_order",
+   "disposition": "BCO 40-5 filing found out of order because Chapter 40 matters reach the SJC only upon General Assembly referral",
    "url": "cases/ga47_2019__2018-02.md",
    "evidence_basis": "direct_text",
    "relationship_kind": "explicit_citation",
@@ -662,7 +662,7 @@
    "record_id": "case:cases/ga14_1986__case7.md",
    "title": "Dye et al. v. Missouri Presbytery",
    "year": 1986,
-   "disposition": "",
+   "disposition": "Specs 1, 2, 4, and 6 sustained. Trial annulled and remanded to Missouri Presbytery for new trial with specific procedural requirements",
    "url": "cases/ga14_1986__case7.md",
    "evidence_basis": "direct_text",
    "relationship_kind": "explicit_citation",
@@ -688,7 +688,7 @@
    "record_id": "overture:ga24_1996:6:p298",
    "title": "Amend BCO 46-5, 38-2 & 38-3 on Member Roll Removal & Discipline",
    "year": 1996,
-   "disposition": "Answered by reference to Overture 27",
+   "disposition": "Answered by reference to Recommendation 15",
    "url": "markdown/ga24_1996.md#ga24-p298",
    "evidence_basis": "direct_text",
    "relationship_kind": "explicit_citation",
@@ -713,8 +713,8 @@
    "record_type": "Judicial case",
    "record_id": "case:cases/ga24_1996__1995-01.md",
    "title": "David C. Lachman v. Philadelphia Presbytery",
-   "year": null,
-   "disposition": "",
+   "year": 1996,
+   "disposition": "sustained",
    "url": "cases/ga24_1996__1995-01.md",
    "evidence_basis": "direct_text",
    "relationship_kind": "explicit_citation",
@@ -1258,14 +1258,14 @@
  "relationships_by_type": {
   "CCB advice": 549,
   "Constitutional inquiry": 437,
-  "Judicial case": 3288,
+  "Judicial case": 3316,
   "Overture": 1613,
   "RPR exception": 6887
  },
  "reader_included_by_type": {
   "CCB advice": 549,
   "Constitutional inquiry": 437,
-  "Judicial case": 3288,
+  "Judicial case": 3316,
   "Overture": 1613,
   "RPR exception": 6887
  },
@@ -1277,11 +1277,11 @@
    "primary": 437
   },
   "Judicial case": {
-   "primary": 3288
+   "primary": 3316
   },
   "Overture": {
-   "candidate": 1527,
-   "primary": 86
+   "candidate": 1535,
+   "primary": 78
   },
   "RPR exception": {
    "candidate": 136,
@@ -1293,37 +1293,38 @@
    "body_mention": 203,
    "exception_target": 224,
    "explicit_citation": 3987,
-   "proposal_target": 488,
-   "structured_case_reference": 844,
+   "proposal_target": 489,
+   "structured_case_reference": 872,
    "structured_exception_tag": 6711,
    "structured_provision_tag": 986
   },
   "evidence_basis": {
    "direct_text": 4388,
-   "structured_case_metadata": 844,
+   "structured_case_metadata": 872,
    "structured_provision_tag": 7697,
-   "title_subject_reference": 488
+   "title_subject_reference": 489
   },
   "match_confidence": {
    "high": 4549,
-   "medium": 8225
+   "medium": 8253
   },
   "reader_scope": {
-   "candidate": 1663,
+   "candidate": 1671,
    "contextual": 7300,
-   "primary": 3811
+   "primary": 3831
   },
   "match_method": {
-   "case_provision_index:case_markdown_text": 940,
-   "case_provision_index:case_markdown_text,cases.jsonl:bco_cited_as,cases.jsonl:bco_cited_current": 279,
-   "case_provision_index:case_markdown_text,cases.jsonl:bco_cited_as,cases.jsonl:bco_cited_current,judicial_cases.jsonl:bco_provisions": 1338,
-   "case_provision_index:case_markdown_text,cases.jsonl:bco_cited_as,judicial_cases.jsonl:bco_provisions": 6,
-   "case_provision_index:case_markdown_text,judicial_cases.jsonl:bco_provisions": 39,
-   "case_provision_index:cases.jsonl:bco_cited_as,cases.jsonl:bco_cited_current": 124,
-   "case_provision_index:cases.jsonl:bco_cited_as,cases.jsonl:bco_cited_current,judicial_cases.jsonl:bco_provisions": 647,
-   "case_provision_index:cases.jsonl:bco_cited_as,judicial_cases.jsonl:bco_provisions": 3,
-   "case_provision_index:cases.jsonl:bco_cited_current": 9,
-   "case_provision_index:judicial_cases.jsonl:bco_provisions": 82,
+   "case_provision_index:case_markdown_text": 941,
+   "case_provision_index:case_markdown_text,judicial_cases.jsonl:bco_cited_as,judicial_cases.jsonl:bco_cited_current": 210,
+   "case_provision_index:case_markdown_text,judicial_cases.jsonl:bco_cited_as,judicial_cases.jsonl:bco_cited_current,judicial_cases.jsonl:bco_provisions": 1375,
+   "case_provision_index:case_markdown_text,judicial_cases.jsonl:bco_cited_as,judicial_cases.jsonl:bco_provisions": 4,
+   "case_provision_index:case_markdown_text,judicial_cases.jsonl:bco_provisions": 73,
+   "case_provision_index:judicial_cases.jsonl:bco_cited_as": 1,
+   "case_provision_index:judicial_cases.jsonl:bco_cited_as,judicial_cases.jsonl:bco_cited_current": 118,
+   "case_provision_index:judicial_cases.jsonl:bco_cited_as,judicial_cases.jsonl:bco_cited_current,judicial_cases.jsonl:bco_provisions": 676,
+   "case_provision_index:judicial_cases.jsonl:bco_cited_as,judicial_cases.jsonl:bco_provisions": 4,
+   "case_provision_index:judicial_cases.jsonl:bco_cited_current": 9,
+   "case_provision_index:judicial_cases.jsonl:bco_provisions": 90,
    "index/inquiries_search.json:provisions": 986,
    "index/rpr_search.json:provisions": 6711,
    "overture_body_explicit_reference_match": 1452,
@@ -1414,45 +1415,46 @@
    "rpr_markdown_line:97": 1,
    "rpr_markdown_line:98": 2,
    "rpr_markdown_line:99": 6,
-   "title_subject": 488
+   "title_subject": 489
   }
  },
  "occurrence_dimensions": {
   "relationship_kind": {
    "body_mention": 366,
    "exception_target": 284,
-   "explicit_citation": 6959,
-   "proposal_target": 488,
-   "structured_case_reference": 865,
+   "explicit_citation": 6962,
+   "proposal_target": 489,
+   "structured_case_reference": 898,
    "structured_exception_tag": 6711,
    "structured_provision_tag": 986
   },
   "evidence_basis": {
-   "direct_text": 7609,
-   "structured_case_metadata": 865,
+   "direct_text": 7612,
+   "structured_case_metadata": 898,
    "structured_provision_tag": 7697,
-   "title_subject_reference": 488
+   "title_subject_reference": 489
   },
   "match_confidence": {
-   "high": 8097,
-   "medium": 8562
+   "high": 8101,
+   "medium": 8595
   },
   "reader_scope": {
-   "candidate": 2901,
+   "candidate": 2910,
    "contextual": 7544,
-   "primary": 6214
+   "primary": 6242
   },
   "match_method": {
-   "case_provision_index:case_markdown_text": 1407,
-   "case_provision_index:case_markdown_text,cases.jsonl:bco_cited_as,cases.jsonl:bco_cited_current": 536,
-   "case_provision_index:case_markdown_text,cases.jsonl:bco_cited_as,cases.jsonl:bco_cited_current,judicial_cases.jsonl:bco_provisions": 2802,
-   "case_provision_index:case_markdown_text,cases.jsonl:bco_cited_as,judicial_cases.jsonl:bco_provisions": 10,
-   "case_provision_index:case_markdown_text,judicial_cases.jsonl:bco_provisions": 71,
-   "case_provision_index:cases.jsonl:bco_cited_as,cases.jsonl:bco_cited_current": 124,
-   "case_provision_index:cases.jsonl:bco_cited_as,cases.jsonl:bco_cited_current,judicial_cases.jsonl:bco_provisions": 647,
-   "case_provision_index:cases.jsonl:bco_cited_as,judicial_cases.jsonl:bco_provisions": 3,
-   "case_provision_index:cases.jsonl:bco_cited_current": 9,
-   "case_provision_index:judicial_cases.jsonl:bco_provisions": 82,
+   "case_provision_index:case_markdown_text": 1413,
+   "case_provision_index:case_markdown_text,judicial_cases.jsonl:bco_cited_as,judicial_cases.jsonl:bco_cited_current": 386,
+   "case_provision_index:case_markdown_text,judicial_cases.jsonl:bco_cited_as,judicial_cases.jsonl:bco_cited_current,judicial_cases.jsonl:bco_provisions": 2884,
+   "case_provision_index:case_markdown_text,judicial_cases.jsonl:bco_cited_as,judicial_cases.jsonl:bco_provisions": 6,
+   "case_provision_index:case_markdown_text,judicial_cases.jsonl:bco_provisions": 140,
+   "case_provision_index:judicial_cases.jsonl:bco_cited_as": 1,
+   "case_provision_index:judicial_cases.jsonl:bco_cited_as,judicial_cases.jsonl:bco_cited_current": 118,
+   "case_provision_index:judicial_cases.jsonl:bco_cited_as,judicial_cases.jsonl:bco_cited_current,judicial_cases.jsonl:bco_provisions": 676,
+   "case_provision_index:judicial_cases.jsonl:bco_cited_as,judicial_cases.jsonl:bco_provisions": 4,
+   "case_provision_index:judicial_cases.jsonl:bco_cited_current": 9,
+   "case_provision_index:judicial_cases.jsonl:bco_provisions": 90,
    "index/inquiries_search.json:provisions": 986,
    "index/rpr_search.json:provisions": 6711,
    "overture_body_explicit_reference_match": 2133,
@@ -1543,7 +1545,7 @@
    "rpr_markdown_line:97": 1,
    "rpr_markdown_line:98": 2,
    "rpr_markdown_line:99": 6,
-   "title_subject": 488
+   "title_subject": 489
   }
  },
  "unmatched_by_type": {
@@ -1558,11 +1560,11 @@
   "status": "stale",
   "file": "index/provision_link_adjudications.jsonl",
   "total": 11481,
-  "expected": 12774,
+  "expected": 12802,
   "applied": 0,
   "stale": 11481,
   "unmatched": 0,
-  "unassessed": 12774
+  "unassessed": 12802
  },
  "stored_advisory_assessments": [
   {

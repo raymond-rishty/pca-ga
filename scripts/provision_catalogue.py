@@ -65,7 +65,6 @@ INPUTS = (
     "scripts/44_case_provision_index.py",
     "scripts/overture_catalogue.py",
     "scripts/provision_references.py",
-    "data/cases/records/cases.jsonl",
     "index/case_pages_map.json",
     "data/cases/records/judicial_cases.jsonl",
     "index/case_provision_index.json",

@@ -5,18 +5,18 @@
 | Year | Record type | Relationship | Evidence | Confidence | Title | Disposition |
 |------|-------------|--------------|----------|------------|-------|-------------|
 | 2024 | Judicial case | explicit_citation | direct_text | high | [BCO 40-5 Matter re Metropolitan NY](../cases/ga51_2024__2023-13.md) | remitted |
-| 2024 | Judicial case | explicit_citation | direct_text | high | [Knox Baird et al. v. Grace Presbytery](../cases/ga51_2024__2023-06_2023-08.md) | partially_sustained |
-| 2024 | Judicial case | explicit_citation | direct_text | high | [Turner v. South Florida Presbytery](../cases/ga51_2024__2022-22.md) | not_sustained |
-| 2022 | Judicial case | explicit_citation | direct_text | high | [Speck v. Missouri Presbytery](../cases/ga49_2022__2020-12.md) | sustained |
+| 2024 | Judicial case | explicit_citation | direct_text | high | [Knox Baird et al. v. Grace Presbytery](../cases/ga51_2024__2023-06_2023-08.md) | Complaints sustained in the main; one specification denied and one not reached |
+| 2024 | Judicial case | explicit_citation | direct_text | high | [Turner v. South Florida Presbytery](../cases/ga51_2024__2022-22.md) | Issue 1 denied; Issue 2 sustained; findings of guilt and censures annulled; matter returned to South Florida Presbytery for constitutionally appropriate proceedings |
+| 2022 | Judicial case | explicit_citation | direct_text | high | [Speck v. Missouri Presbytery](../cases/ga49_2022__2020-12.md) | Complaint denied; all stated issues answered no |
 | 2021 | Judicial case | explicit_citation | direct_text | high | [Schrock et al. v. Philadelphia Presbytery](../cases/ga48_2021__2019-02.md) | sustained |
-| 2019 | Judicial case | explicit_citation | direct_text | high | [Anna Lewis v. Presbytery of the Mississippi Valley](../cases/ga47_2019__2018-02.md) | out_of_order |
+| 2019 | Judicial case | explicit_citation | direct_text | high | [Anna Lewis v. Presbytery of the Mississippi Valley](../cases/ga47_2019__2018-02.md) | BCO 40-5 filing found out of order because Chapter 40 matters reach the SJC only upon General Assembly referral |
 | 2017 | Judicial case | explicit_citation | direct_text | high | [Barnes v. Heartland Presbytery](../cases/ga45_2017__2015-13.md) | sustained |
 | 2017 | Judicial case | explicit_citation | direct_text | high | [Wills v. Metro Atlanta Presbytery](../cases/ga45_2017__2016-14.md) | denied |
 | 2016 | Judicial case | explicit_citation | direct_text | high | [Bumgarner v. Presbytery of the Mississippi Valley](../cases/ga44_2016__2015-09.md) | administrative |
-| 2010 | Judicial case | explicit_citation | direct_text | high | [Hutchinson & Bulkeley v. Western Carolina](../cases/ga38_2010__2008-15_2008-16_2008-17_2008-18_2009-01_2009-03.md) | out_of_order |
+| 2010 | Judicial case | explicit_citation | direct_text | high | [Hutchinson & Bulkeley v. Western Carolina](../cases/ga38_2010__2008-15_2008-16_2008-17_2008-18_2009-01_2009-03.md) | Complaint denied; presbytery's handling of confession and indefinite suspension affirmed |
 | 2010 | Judicial case | explicit_citation | direct_text | high | [White v. Siouxlands Presbytery](../cases/ga38_2010__2008-14.md) | sustained |
-| 2008 | Judicial case | explicit_citation | direct_text | high | [PCA v. Louisiana Presbytery (Trial)](../cases/ga36_2008__2007-14.md) | dismissed |
-| 1995 | Judicial case | explicit_citation | direct_text | high | [Clark v. Southwest Presbytery (Request for Clarification)](../cases/ga22_1994__1993-05.md) | administrative |
+| 2008 | Judicial case | explicit_citation | direct_text | high | [PCA v. Louisiana Presbytery (Trial)](../cases/ga36_2008__2007-14.md) | Specification 1 dismissed after trial; Louisiana Presbytery's guilty plea to Specification 2 accepted and censure of admonition imposed |
+| 1995 | Judicial case | explicit_citation | direct_text | high | [Clark v. Southwest Presbytery (Request for Clarification)](../cases/ga22_1994__1993-05.md) | Sustained; matter remanded |
 | 1991 | Judicial case | explicit_citation | direct_text | high | [Chappell v. Eastern Carolina Presbytery](../cases/ga19_1991__1990-04.md) | sustained |
 | 1991 | Judicial case | explicit_citation | direct_text | high | [Marshall v. Eastern Carolina Presbytery](../cases/ga19_1991__1990-04a.md) | sustained |
 | 2025 | Constitutional inquiry | structured_provision_tag | structured_provision_tag | medium | [Whether Minutes of Congregational Meetings must be submitted as part of Session records reviewed by Presbytery](../inquiries/ga52_2025__ci32.md) | CCB acceded to the reference; Congregational meeting minutes are part of Session records subject to Presbytery review; if Presbytery requires them, Sessions must submit them; Adopted 8-0-0 |

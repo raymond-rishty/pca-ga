@@ -1,12 +1,12 @@
 #!/usr/bin/env bash
 # render.sh — regenerate every markdown CATALOGUE into both trees.
 #
-#   BUILD tree  = /workspace            (regenerable inputs: build/page_jsonl, pca_minutes.db, venv)
+#   BUILD tree  = /workspace            (regenerable inputs: build/page_jsonl, venv)
 #   PUBLISH tree = /workspace/dist/pca-ga (this git repo; what GitHub Pages serves)
 #   markdown/* is HARDLINKED between the two, so corpus text edits land in both automatically.
 #
 # This regenerates the catalogues (INDEX/OVERTURES/CASES/outlines, INQUIRIES + CCB advice, RPR) from
-# the JSON index layers + the markdown corpus. It does NOT re-run the heavy corpus pipeline
+# the SQLite index, JSON layers, and markdown corpus. It does NOT re-run the heavy corpus pipeline
 # (01_extract … → page_jsonl); for that see PORTABLE.md "Provenance / regeneration".
 #
 # .md → .html is automatic: GitHub Pages (Jekyll) rebuilds on push (~3 min). After running this,
@@ -33,8 +33,8 @@ sync_file() {
   cp -f "$1" "$2"
 }
 
-echo "[1/8] INDEX + OVERTURES + CASES + per-volume outlines (DB-backed; build tree only)…"
-python3 "$S/20_markdown_index.py"                       # ROOT hardcoded /workspace (needs pca_minutes.db)
+echo "[1/8] INDEX + OVERTURES + CASES + per-volume outlines (build tree only)…"
+"$BUILD/gradlew" buildMinutesDatabase generateMinutesIndexes
 
 # Canonical judicial catalogue: structured JSONL -> published HTML.  The HTML is
 # checked in for Pages/review convenience, but is always regenerated here so it
@@ -79,7 +79,7 @@ python3 "$S/42_link_overture_catalogue.py" "$BUILD"
 python3 "$S/42_link_overture_catalogue.py" "$PUB"
 
 echo "[5/8] GA53 (2026) overture analysis — per-overture pages + catalogue + combined doc (both trees)…"
-# GA53 source (findings/, overtures_full.tsv, _header.md) lives in the BUILD tree (like 20's pca_minutes.db pin)
+# GA53 source (findings/, overtures_full.tsv, _header.md) lives in the BUILD tree
 GA53_SRC="$BUILD/ga53" python3 "$S/36_ga53_overtures.py" "$BUILD"
 GA53_SRC="$BUILD/ga53" python3 "$S/36_ga53_overtures.py" "$PUB"
 

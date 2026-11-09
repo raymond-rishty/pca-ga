@@ -14,15 +14,15 @@ Run AFTER 26/27/28 (skips any number that already has a full decision page). Emi
 CLI:  29_stub_pages.py
 """
 from __future__ import annotations
-import glob, json, os, re, sqlite3, sys
+import glob, json, os, re, sys
 from pathlib import Path
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from source_links import line_to_pdf_page, source_entries_for_record, source_front_matter
+from judicial_case_rows import load_judicial_case_rows
 
-ROOT = "/workspace"
+ROOT = os.environ.get("PCA_GA_ROOT", os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 OUT = f"{ROOT}/cases"
-DB = f"{ROOT}/index/pca_minutes.db"
 # the disposing phrase (also becomes the corrected disposition label)
 _CUE = re.compile(r"(administratively\s+out\s+of\s+order|judicially\s+out\s+of\s+order|out\s+of\s+order|withdraw\w*|withdrew|"
                   r"abandoned|dismiss\w*|rendered?\s+moot|made\s+moot|moot|not\s+acceded\w*|"
@@ -121,9 +121,7 @@ def main():
     cjb = {p["vol"] for p in json.load(open(f"{ROOT}/index/cjb_pages.json"))} if os.path.exists(f"{ROOT}/index/cjb_pages.json") else set()
     o2v = {str(json.load(open(p))["ga_ordinal"]): json.load(open(p))["volume"]
            for p in glob.glob(f"{ROOT}/index/structure/ga*.json")}
-    c = sqlite3.connect(DB); c.row_factory = sqlite3.Row
-    rows = list(c.execute("SELECT ga_ordinal, year, canonical_number, case_number, parties, title, "
-                          "disposition FROM cases"))
+    rows = load_judicial_case_rows(ROOT)
     def lines_of(vol):
         if vol not in vol_lines:
             p = f"{ROOT}/markdown/{vol}.md"

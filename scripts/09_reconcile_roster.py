@@ -277,7 +277,7 @@ def main():
             for c in cases:
                 f.write(json.dumps(c, ensure_ascii=False) + "\n")
         print(f"            ENRICHED {len(matched)} matched cases; added {stubs} roster stubs -> {CASES_OUT}")
-        print("            (re-run scripts/08_index_cases.py build to refresh the lookup table)")
+        print("            (refresh the Minutes index with Gradle task buildMinutesDatabase)")
 
 
 if __name__ == "__main__":

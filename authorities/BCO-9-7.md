@@ -5,7 +5,7 @@
 | Year | Record type | Relationship | Evidence | Confidence | Title | Disposition |
 |------|-------------|--------------|----------|------------|-------|-------------|
 | 2011 | Judicial case | explicit_citation | direct_text | high | [Brown v. Northern California Presbytery](../cases/ga39_2011__2009-25_2009-26.md) | sustained |
-| 2010 | Judicial case | structured_case_reference | structured_case_metadata | medium | [Bordwine v. Pacific Northwest Presbytery](../cases/ga38_2010__2009-06.md) | sustained |
+| 2010 | Judicial case | structured_case_reference | structured_case_metadata | medium | [Bordwine v. Pacific Northwest Presbytery](../cases/ga38_2010__2009-06.md) | Complaint sustained; presbytery's declaration reversed and matter remanded for counsel or BCO 31-2 action |
 | 2018 | CCB advice | structured_provision_tag | structured_provision_tag | medium | [The Roles and Description of Unordained Deaconesses and Deacon Assistants](../inquiries/ga46_2018__ci04.md) | in conflict |
 | 2010 | CCB advice | structured_provision_tag | structured_provision_tag | medium | [Prohibiting Assistants to Deacons](../inquiries/ga38_2010__ci03.md) | in conflict |
 | 2010 | CCB advice | structured_provision_tag | structured_provision_tag | medium | [Prohibiting Deaconesses](../inquiries/ga38_2010__ci02.md) | in conflict |

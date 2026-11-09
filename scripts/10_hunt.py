@@ -5,7 +5,8 @@ the page layer (no model needed). For each missing official case we search for i
 party surname co-occurring with its presbytery, ranked by year proximity to the
 docket year. Also flags cases already in our index under a divergent number (relink).
 
-Inputs : data/cases/recovery/sjc_missing.jsonl, data/cases/records/cases.jsonl, index/pca_minutes.db
+Inputs : data/cases/recovery/sjc_missing.jsonl, data/cases/records/judicial_cases.jsonl,
+         index/pca_minutes.db (built by Gradle from the Minutes corpus)
 Output : data/cases/recovery/hunt/located.jsonl  (one row per missing case: located | relink | not_found)
 
 CLI:  10_hunt.py            # run the locator over all misses, write located.jsonl
@@ -14,10 +15,10 @@ CLI:  10_hunt.py            # run the locator over all misses, write located.jso
 from __future__ import annotations
 import json, os, re, sqlite3, sys, difflib
 
-ROOT = "/workspace"
+ROOT = os.environ.get("PCA_GA_ROOT", os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 DB = os.path.join(ROOT, "index", "pca_minutes.db")
 MISSING = os.path.join(ROOT, "data", "cases", "recovery", "sjc_missing.jsonl")
-CASES = os.path.join(ROOT, "data", "cases", "records", "cases.jsonl")
+CASES = os.path.join(ROOT, "data", "cases", "records", "judicial_cases.jsonl")
 OUTDIR = os.path.join(ROOT, "data", "cases", "recovery", "hunt")
 OUT = os.path.join(OUTDIR, "located.jsonl")
 

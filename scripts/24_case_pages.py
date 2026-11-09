@@ -11,13 +11,13 @@ labels to headings, and write cases/<case_id>.md. 20_markdown_index then links C
 CLI:  24_case_pages.py
 """
 from __future__ import annotations
-import glob, json, os, re, sqlite3, sys
+import glob, json, os, re, sys
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from source_links import source_entries_for_record, source_front_matter
+from judicial_case_rows import load_judicial_case_rows
 
 ROOT = os.environ.get("PCA_GA_ROOT", os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
-DB = os.path.join(ROOT, "index", "pca_minutes.db")
 MD = os.path.join(ROOT, "markdown")
 OUT = os.path.join(ROOT, "cases")
 
@@ -160,8 +160,7 @@ def ordinal(n):
 
 def main():
     os.makedirs(OUT, exist_ok=True)
-    c = sqlite3.connect(DB); c.row_factory = sqlite3.Row
-    rows = list(c.execute("SELECT rowid, * FROM cases"))
+    rows = load_judicial_case_rows(ROOT)
     # within each volume, order cases by page so we know what the NEXT case is
     byvol = {}
     for r in rows:

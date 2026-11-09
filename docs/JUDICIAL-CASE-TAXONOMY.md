@@ -22,6 +22,19 @@ coverage or approved identity rules change. Some catalogue rows have no matching
 minutes-extracted record; `classification_status: roster_only` identifies
 records whose available source does not support fuller classification.
 
+The catalogue's target is complete coverage of every explicitly attested SJC
+docket, including decisions missing from the Historical Center roster and
+dockets with terminal administrative outcomes. When multiple docket numbers
+share one decision page, each number must remain traceable through a canonical
+row or an explicit page-map alias. A numeric hole between two docket IDs is not
+evidence that another docket was assigned; record it as not found when a source
+search finds no SJC case reference.
+
+Reviewed docket-number findings, including not-found candidates, are retained
+in `data/cases/overrides/case_coverage_reviews.json`. The repeatable coverage
+audit reads this input to produce `docs/audits/CASE-COVERAGE-AUDIT.md`; the
+audit report is a generated view, not the only record of the adjudication.
+
 - `case_id` is the stable, human-facing canonical ID: `YYYY-NN` (for example,
   `2023-07` or `1985-06`). A letter suffix is retained for split matters,
   such as `1992-09a`.
@@ -32,6 +45,11 @@ records whose available source does not support fuller classification.
   `Case #6`.
 - `minute_ids` contains other printed identifiers, such as `5-13` or `5-87`,
   when those identifiers are available. They are aliases, not additional cases.
+- `source_assembly`, `source_year`, and `source_pdf_page_start` preserve the
+  extracted Minutes volume locator. `source_printed_page_start` and
+  `source_printed_page_end` preserve the printed folio range. They support
+  source citations and page links; they do not replace `assembly`, which
+  identifies the catalogue's deciding Assembly.
 - `title` is the clean editorial caption. Roster text, citation brackets,
   disposition notes, and `Summary:` material do not belong in the title.
 
@@ -116,9 +134,15 @@ not be treated as authoritative examples without reconciliation.
   repeatable quality gate used for the audit. `scripts/14_judicial_summary_audit.py`
   writes `data/cases/audits/judicial_case_summary_audits.json`; editorial overrides remain
   the place for substantive rewriting.
-- `bco_provisions` contains only provisions actually attributed to the case,
-  normalized to bare codes such as `38-1` or `43-1`. Non-BCO constitutional
-  references remain in prose or topics.
+- `bco_cited_as` and `bco_cited_current` preserve the reconciled extraction's
+  citation observations for indexing. They retain the source wording and the
+  current-code resolution; they are not adjudicated case classifications.
+- `bco_provisions` contains the catalogue's case-to-provision tags, normalized
+  to bare codes such as `38-1` or `43-1`. The generator derives these from the
+  reconciled citations and case metadata unless an explicit editorial override
+  replaces the list. It is a derived catalogue field, not a pure record of
+  citations in the opinion. Non-BCO constitutional references remain in prose
+  or topics.
 - `topic_tags` is a small set of subject tags, not a list of every noun in the
   record.
 - `parties` preserves available named participants and respondent/court names

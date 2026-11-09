@@ -68,11 +68,11 @@ def sourceRegistryInputs = files(
 def provisionCatalogueInputs = files(fileTree('index') {
     exclude 'provision_catalogue.json', 'OVERTURES.md', 'overture_catalogue_corrections.jsonl',
         'source_registry.json', 'dedicated_pdf_inventory.json'
-}, fileTree('data/cases'))
+}, fileTree('data/cases') { exclude 'records/cases.jsonl' })
 def searchIndexInputs = files(fileTree('index') {
     exclude 'source_registry.json', 'dedicated_pdf_inventory.json', 'CASES.md'
 }, file('data/cases/records/judicial_cases.jsonl'))
-def judicialCatalogueInputs = files(file('data/cases/records/judicial_cases.jsonl'), file('data/cases/records/cases.jsonl'))
+def judicialCatalogueInputs = files(file('data/cases/records/judicial_cases.jsonl'))
 def searchIndexOutputs = fileTree('app') {
     include 'search_index.json', 'case_summaries_*.json', 'provision_search.json'
 }
@@ -130,7 +130,8 @@ def reconcileOvertureCatalogue = registerCommand(
     [generatorScripts, file('scripts/reconcile_overture_catalogue.py'),
      file('index/overture_catalogue_corrections.jsonl'),
      file('index/OVERTURES.md'), file('index/overture_titles.jsonl'),
-     file('index/overture_bodies.jsonl'), file('index/overture_dispositions.jsonl')],
+     file('index/overture_bodies.jsonl'), file('index/overture_dispositions.jsonl'),
+     file('index/overture_action_research.jsonl')],
     [file('index/OVERTURES.md')]
 )
 prepareOvertureActionResearch.configure { dependsOn reconcileOvertureCatalogue }
@@ -167,6 +168,28 @@ def buildPageJsonl = registerCommand(
     [file('build/case_page_jsonl')]
 )
 buildPageJsonl.configure { dependsOn checkPython }
+
+def buildMinutesDatabase = registerCommand(
+    'buildMinutesDatabase', [pythonCommand, 'scripts/build_minutes_database.py'],
+    [file('scripts/build_minutes_database.py'), file('scripts/05_index.py'),
+     file('scripts/07_build_cases.py'), file('scripts/08_index_cases.py'), file('scripts/19_export.py'),
+     file('index/chunks.jsonl'), fileTree('build/case_page_jsonl') {
+        include '*.pages.jsonl'
+     }, file('data/cases/records/judicial_cases.jsonl'),
+     file('data/cases/sources/sjc_official/roster.jsonl'),
+     file('index/overture_titles.jsonl'), file('index/overture_dispositions.jsonl'),
+     file('index/overture_action_research.jsonl'),
+     file('index/bco_changes.jsonl'), file('index/bco_renumberings.jsonl'),
+     file('index/citation_corrections.jsonl'), fileTree('index/structure') { include 'ga*.json' }],
+    [file('index/pca_minutes.db')], true
+)
+def huntMissingCases = registerCommand(
+    'huntMissingCases', [pythonCommand, 'scripts/10_hunt.py'],
+    [file('scripts/10_hunt.py'), file('data/cases/recovery/sjc_missing.jsonl'),
+     file('data/cases/records/judicial_cases.jsonl'), file('index/pca_minutes.db')],
+    [file('data/cases/recovery/hunt/located.jsonl')], true
+)
+huntMissingCases.configure { dependsOn buildMinutesDatabase }
 
 def buildCaseCorpus = registerCommand(
     'buildCaseCorpus', [pythonCommand, 'scripts/07_build_cases.py'],
@@ -210,6 +233,38 @@ buildJudicialCaseRecords.configure {
     environment 'PCA_CASES_INPUT', file('data/cases/derived/cases_reconciled.jsonl').absolutePath
     environment 'PCA_CASES_OUTPUT', file('data/cases/records/cases.jsonl').absolutePath
 }
+buildMinutesDatabase.configure {
+    dependsOn buildPageJsonl
+    environment 'PCA_CASE_PAGE_JSONL', file('build/case_page_jsonl').absolutePath
+}
+buildMinutesDatabase.configure { mustRunAfter buildJudicialCaseRecords }
+huntMissingCases.configure { dependsOn reconcileCaseRoster, buildJudicialCaseRecords }
+def buildAssemblyCaseEntries = registerCommand(
+    'buildAssemblyCaseEntries', [pythonCommand, 'scripts/83_build_assembly_case_entries.py'],
+    [generatorScripts, file('data/cases/derived/cases_reconciled.jsonl'),
+     file('data/cases/overrides/assembly_case_entry_reviews.json')],
+    [file('data/cases/derived/assembly_case_entries.jsonl')], true
+)
+buildAssemblyCaseEntries.configure { dependsOn reconcileCaseRoster }
+def renderMinutesIndexesBase = registerCommand(
+    'renderMinutesIndexesBase', [pythonCommand, 'scripts/20_markdown_index.py'],
+    [generatorScripts, file('index/pca_minutes.db'),
+     file('data/cases/records/judicial_cases.jsonl'),
+     file('data/cases/derived/assembly_case_entries.jsonl'), file('index/case_pages_map.json'),
+     file('index/cjb_pages.json'), file('index/stub_pages.json'),
+     file('index/notlocated_resolved.json'), fileTree('cases'), fileTree('markdown')],
+    [file('index/INDEX.md'), file('index/OVERTURES.md'), file('index/CASES.md'),
+     fileTree('index/outlines')], true
+)
+renderMinutesIndexesBase.configure {
+    dependsOn buildMinutesDatabase, buildJudicialCaseRecords, buildAssemblyCaseEntries
+}
+reconcileOvertureCatalogue.configure { dependsOn renderMinutesIndexesBase }
+tasks.register('generateMinutesIndexes') {
+    group = 'site build'
+    description = 'Build the Minutes database and render the complete index catalogues.'
+    dependsOn linkOvertureCatalogue
+}
 if (providers.gradleProperty('regenerateOvertures').isPresent()) {
     reconcileOvertureCatalogue.configure { dependsOn extractOvertureBodies }
     reconcileCases.configure { dependsOn regenerateOvertures }
@@ -231,7 +286,7 @@ judicialCatalogue.configure { dependsOn syncCaseCards }
 
 def caseProvisionIndex = registerCommand(
     'generateCaseProvisionIndex', [pythonCommand, 'scripts/44_case_provision_index.py', '.'],
-    [generatorScripts, file('data/cases/records/cases.jsonl'), file('data/cases/records/judicial_cases.jsonl'),
+    [generatorScripts, file('data/cases/records/judicial_cases.jsonl'),
      file('index/case_pages_map.json'), fileTree('cases')],
     [file('index/case_provision_index.json'), file('index/CASES-BY-PROVISION.md')], true
 )

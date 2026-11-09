@@ -484,4 +484,4 @@ Browse the **52 published volumes** of the Presbyterian Church in America *Minut
 
 ## Full-text search
 
-A SQLite database named pca_minutes.db indexes every page of the minutes. See [../PORTABLE.md](../PORTABLE.md) for query recipes.
+A SQLite database named pca_minutes.db indexes every page of the Minutes. See [../PORTABLE.md](../PORTABLE.md) for query recipes.

@@ -7,7 +7,7 @@ BCO cites to current numbers, and dedup against cases already present. ``not_fou
 results remain audit evidence under ``data/cases/recovery/hunt/found`` but are not canonical cases.
 Run AFTER 07.
 
-Pipeline:  07_build_cases.py  ->  11_merge_hunt.py  ->  09_reconcile_roster.py --enrich  ->  08_index_cases.py build
+Pipeline:  07_build_cases.py  ->  11_merge_hunt.py  ->  09_reconcile_roster.py --enrich
 
 CLI:  11_merge_hunt.py            # merge found/*.json into cases.jsonl
 """

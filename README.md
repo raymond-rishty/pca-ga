@@ -81,11 +81,11 @@ You don't have to browse this by hand. Point **any AI assistant that can browse 
 
 ## Data & queries
 
-The markdown above is the human-readable corpus. A companion **SQLite full-text database** (`pca_minutes.db`, ~260 MB — over GitHub's file limit) and the per-page source text (`build/page_jsonl/`) are **hosted separately**:
-
-> 📦 **Data download:** _add link here (e.g. Google Drive)_
-
-That DB indexes every page (FTS5) and holds the structured `overtures`, `cases`, and `structure` tables. See **[PORTABLE.md](PORTABLE.md)** for its schema and query recipes. Everything is reproducible from `scripts/` (the build pipeline).
+The Markdown corpus and checked-in catalogues are the readable records. The
+portable SQLite index at `index/pca_minutes.db` supplies full-text search and
+the complete structural and overture layers. Rebuild it through Gradle task
+`buildMinutesDatabase`. See **[PORTABLE.md](PORTABLE.md)** for the data and
+build architecture.
 
 To build and validate the GitHub Pages site locally before pushing, see **[the local build instructions](docs/local-build.md)**.
 
