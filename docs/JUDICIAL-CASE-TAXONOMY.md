@@ -8,9 +8,10 @@ The Historical Center roster is an important coverage source, but it is not a
 complete list of the catalogue's dockets. Approved minutes-supported
 supplemental cases and explicitly consolidated companion dockets are also
 included. The Minutes remain the authority for verbatim decision text;
-`data/cases/records/cases.jsonl` is the legacy case-centric corpus, combining
-extracted records with recovery/enrichment rows where available. It enriches
-the catalogue when a matching record exists.
+`data/cases/derived/cases_reconciled.jsonl` is the reconciled Minutes-derived
+case corpus. The identity audit compares it independently with the roster and
+canonical catalogue. `data/cases/records/cases.jsonl` is a compatibility copy
+whose display titles are synchronized from the canonical catalogue.
 
 ## Identity
 

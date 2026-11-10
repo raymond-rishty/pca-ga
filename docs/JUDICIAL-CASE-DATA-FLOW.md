@@ -26,9 +26,13 @@ flowchart TD
     EO[Adjudication overrides<br/>data/cases/overrides/judicial_case_editorial_overrides.json] --> C
     SA[Summary audits<br/>data/cases/audits/judicial_case_summary_audits.json] --> C
     PM[Case page map<br/>index/case_pages_map.json] --> C
+    R --> IA[Identity audit<br/>scripts/78_audit_case_identities.py]
+    RC --> IA
+    C --> IA
+    IA --> IAR[Identity audit report<br/>index/CASE-IDENTITY-AUDIT.md]
     CR[Reviewed docket coverage findings<br/>data/cases/overrides/case_coverage_reviews.json] --> CA[Coverage audit<br/>scripts/82_audit_case_coverage.py]
     C --> CA
-    F --> CA
+    RC --> CA
     PM --> CA
     CA --> CAR[Coverage audit report<br/>docs/audits/CASE-COVERAGE-AUDIT.md]
     CPI[Located CJB spans<br/>data/cases/sources/cjb_cases.json] --> CPP[Rendered CJB page records<br/>index/cjb_pages.json]
@@ -70,17 +74,21 @@ the GA53 overture research join no longer fall back to `cases.jsonl` for those
 values.
 The roster contributes case PDF links during catalogue construction; downstream
 registry generation reads those links from the canonical records rather than
-re-reading the roster. `cases.jsonl` is still emitted as the merged legacy
-case-centric extraction/recovery layer. Hunt/recovery tooling reads it before
-canonical catalogue generation. `index/CASES.md` reads source-located
+re-reading the roster. `cases.jsonl` is still emitted as a compatibility copy
+with canonical display titles, but the Gradle case pipeline and audits consume
+the earlier extracted/reconciled layers directly. The identity audit compares
+roster captions against `cases_reconciled.jsonl` and the canonical catalogue;
+it does not use `cases.jsonl`, whose titles are synchronized from the canonical
+catalogue. `index/CASES.md` reads source-located
 observations from `assembly_case_entries.jsonl` to locate Assembly appearances
 and uncatalogued reference rows. Where an entry matches a canonical docket and
 its caption supports that identity, the canonical catalogue supplies the
 docket, title, disposition, summary, and decision destination. Unmatched
 entries remain source-derived reference evidence; they are not promoted to
-case records. The coverage audit reads both record layers to find page
-coverage gaps and compare extracted dispositions with the canonical
-catalogue. `judicial_cases.jsonl` records canonical cases, not every Assembly
+case records. The coverage audit reads reconciled extraction records and the
+canonical catalogue to find page-coverage gaps and compare extracted
+dispositions. It no longer depends on the duplicate `cases.jsonl` output.
+`judicial_cases.jsonl` records canonical cases, not every Assembly
 appearance or citation, so those entry observations remain a distinct grain.
 
 `index/pca_minutes.db` is the reusable derived index for page and section FTS,
@@ -152,8 +160,8 @@ docket belongs in `judicial_cases.jsonl`.
 | `data/cases/derived/assembly_case_entries.jsonl` | Source-located Assembly case-listing observations with extracted docket/caption and page provenance; an entry is not itself a canonical case. | Gradle task `buildAssemblyCaseEntries` runs `scripts/83_build_assembly_case_entries.py` from reconciled extraction records and entry-review decisions. | Read by `scripts/20_markdown_index.py` for Assembly appearances and unresolved references. Matched identity and editorial metadata come from `judicial_cases.jsonl`. Generated open-format intermediate. |
 | `index/pca_minutes.db` | Ignored, reusable derived SQLite index containing page/section FTS plus canonical case, structure, overture, roster, and concordance tables. | Gradle task `buildMinutesDatabase` orchestrates `scripts/05_index.py`, `scripts/08_index_cases.py`, and `scripts/19_export.py`. | Read by hunt recovery and the minutes catalogue renderer. Its source data remains in tracked Markdown, JSONL, JSON, and roster snapshots. |
 | `data/cases/derived/cases_extracted.jsonl` | Extracted case-centric records before official-roster enrichment. | Gradle task `buildCaseCorpus` runs `scripts/07_build_cases.py` from page text, chunks, segments, recovery records, and metadata overrides. | Intermediate input to roster reconciliation. |
-| `data/cases/derived/cases_reconciled.jsonl` | Extracted records enriched from the official roster. | Gradle task `reconcileCaseRoster` runs `scripts/09_reconcile_roster.py --enrich`. | Intermediate input to catalogue generation. |
-| `data/cases/records/cases.jsonl` | Final legacy case-centric records with a normalized docket where available. It combines Minutes-derived SJC/CJB cases, hunt recoveries, roster enrichment, and cleaned catalogue titles; source provenance is retained where available. | The case-corpus/recovery workflow builds it; `scripts/12_case_taxonomy.py` synchronizes cleaned catalogue titles into it. | Retained as an independent comparison input to the coverage audit; it no longer supplies the search locator or downstream indexes. |
+| `data/cases/derived/cases_reconciled.jsonl` | Minutes-derived records after roster matching and enrichment; titles remain independent from canonical display-title cleanup. | Gradle task `reconcileCaseRoster` runs `scripts/09_reconcile_roster.py --enrich`. | Input to canonical catalogue generation, Assembly-entry extraction, and both case identity and coverage audits. |
+| `data/cases/records/cases.jsonl` | Final compatibility copy of the case-centric records, with normalized dockets and canonical display titles. | `scripts/12_case_taxonomy.py` writes it from reconciled extraction records and synchronizes canonical titles. | No current Gradle catalogue, site index, or audit reads it; older/manual workflows and compatibility checks may still use it. |
 | `data/cases/records/judicial_cases.jsonl` | One catalogue record per unique canonical judicial docket after roster deduplication, approved supplements, companion-docket expansion, and editorial classification. Not every row must match an extracted row in `cases.jsonl`. | Gradle task `buildJudicialCaseRecords` runs `scripts/12_case_taxonomy.py`. Inputs include the roster, reconciled legacy records, CJB/page data, identity rules, adjudication overrides, and summary audits. | Canonical downstream case source for the public judicial catalogue, case-page extraction helpers, hunt/recovery matching, search case rows, case/provision indexing, source-registry case mappings, and GA53 case joins/audits. It preserves extracted `bco_cited_as` / `bco_cited_current` observations separately from editorial `bco_provisions`, and carries source volume/page and printed-folio provenance. |
 | `index/case_pages_map.json` | Mapping from normalized case identifiers to repository case pages and page metadata. | Written by `scripts/26_case_pages_structured.py`, `scripts/27_case_index_reconcile.py`, and `scripts/28_sjc_located_pages.py`. | Used by case indexes, search/linking, RPR generation, and provision indexing. It remains a checked-in intermediate until its page producers are integrated into Gradle. |
 | `data/cases/sources/cjb_cases.json` | Located CJB case spans and metadata used to slice early committee-era decisions from Minutes. | Maintained locator input; no in-repository producer was identified in this audit. | Read by `scripts/27_cjb_pages.py`; retain as source data for CJB case pages. |
@@ -171,7 +179,9 @@ docket belongs in `judicial_cases.jsonl`.
 
 | Artifact | Role | Producer or editor | Use |
 |---|---|---|---|
-| `scripts/82_audit_case_coverage.py` | Repeatable comparison of final legacy case records, canonical records, and mapped case pages, with reviewed findings from the coverage-review input. | Maintained audit script. | Run with `python scripts/82_audit_case_coverage.py` to refresh the report. It reports pages lacking canonical docket coverage and includes retained findings; it does not modify case records. |
+| `scripts/78_audit_case_identities.py` | Repeatable comparison of the official roster, reconciled Minutes-derived records, and the canonical catalogue, with case-page and citation evidence. | Maintained audit script. | Run with `python scripts/78_audit_case_identities.py` to refresh its JSON and Markdown reports. It proposes review candidates but never changes case identities unless explicitly asked to promote approved candidates. |
+| `scripts/82_audit_case_coverage.py` | Repeatable comparison of reconciled Minutes-derived case records, canonical records, and mapped case pages, with reviewed findings from the coverage-review input. | Maintained audit script. | Run with `python scripts/82_audit_case_coverage.py` to refresh the report. It reports pages lacking canonical docket coverage and includes retained findings; it does not modify case records. |
+| `index/CASE-IDENTITY-AUDIT.md` and `data/cases/review/case_identity_audit.json` | Generated identity-audit findings and candidate mismatches. | `scripts/78_audit_case_identities.py`. | Review source evidence before changing identity rules; the report itself does not adjudicate the roster or catalogue. |
 | `docs/audits/CASE-COVERAGE-AUDIT.md` | Generated view of current page coverage and reviewed docket-number findings. | `scripts/82_audit_case_coverage.py`. | Review after refreshing the audit. Durable adjudications belong in `case_coverage_reviews.json`, not only in this generated report. |
 | `scripts/ga53_join.py` and `scripts/ga53_audit.py` | GA53 overture research helpers: join historical case citations to provisions and check docket references in the research findings. They do not catalogue cases from a 53rd Assembly. | Maintained GA53 workflow scripts. | Read canonical identities, metadata, and citation observations from `judicial_cases.jsonl`; use the page map and rendered `CASES.md` for links and structural cross-checks. |
 
@@ -196,7 +206,7 @@ docket belongs in `judicial_cases.jsonl`.
    consumers, deployment role, and retention purpose. If it is generated but
    has no consumer, remove or retire the producer and the artifact together.
 4. Source shared case metadata from `judicial_cases.jsonl`. Keep
-   `cases.jsonl` for legacy extraction, recovery, and independent coverage
-   comparisons; use `assembly_case_entries.jsonl` for Assembly appearances
+   `cases.jsonl` only as a compatibility output while remaining manual
+   consumers are reviewed; use `assembly_case_entries.jsonl` for Assembly appearances
    and reference rows. Do not use the legacy case file as a competing source
    for canonical case identity or editorial fields.

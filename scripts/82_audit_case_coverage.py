@@ -34,7 +34,7 @@ def case_id(value: Any) -> str | None:
 
 
 def main() -> None:
-    extracted = read_jsonl(ROOT / "data/cases/records/cases.jsonl")
+    extracted = read_jsonl(ROOT / "data/cases/derived/cases_reconciled.jsonl")
     canonical = read_jsonl(ROOT / "data/cases/records/judicial_cases.jsonl")
     coverage_reviews = json.loads(
         (ROOT / "data/cases/overrides/case_coverage_reviews.json")
