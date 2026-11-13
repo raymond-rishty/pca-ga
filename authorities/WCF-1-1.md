@@ -8,8 +8,9 @@
 | 2023 | Judicial case | explicit_citation | direct_text | high | [Herron & Baysinger v. Central Indiana Presbytery](../cases/ga50_2023__2022-02.md) | other |
 | 2023 | Judicial case | explicit_citation | direct_text | high | [Klett et al. v. Philadelphia Presbytery](../cases/ga50_2023__2022-03.md) | sustained |
 | 2021 | Judicial case | explicit_citation | direct_text | high | [Schrock et al. v. Philadelphia Presbytery](../cases/ga48_2021__2019-02.md) | sustained |
-| 1995 | Judicial case | explicit_citation | direct_text | high | [Grace RPC Session v. Heartland Presbytery](../cases/ga23_1995__1993-12_1993-14.md) | sustained |
-| 1992 | Judicial case | explicit_citation | direct_text | high | [Robert D. Hopper v. James River Presbytery](../cases/ga20_1992__1991-04.md) |  |
+| 1995 | Judicial case | explicit_citation | direct_text | high | [Grace RPC Session v. Heartland Presbytery](../cases/ga23_1995__1993-12_1993-14.md) | 93-12 affirmed; 93-14 reversed |
+| 1992 | Judicial case | explicit_citation | direct_text | high | [Robert D. Hopper v. James River Presbytery](../cases/ga20_1992__1991-04.md) | Robert D. Hopper v. James River Presbytery |
+| 1986 | Judicial case | explicit_citation | direct_text | high | [Kenneth L. Gentry, Jr. et al. v. Calvary Presbytery](../cases/ga14_1986__case1.md) | Sustained - Calvary Presbytery erred in sustaining Mr. Hyer's examination; verdict annulled and remanded to presbytery for pastoral counseling and re-examination |
 | 2002 | Overture | explicit_citation | direct_text | high | [Acknowledge Diversity of Views on Women in Military & Dismiss WIM Committee](../markdown/ga30_2002.md#ga30-p247) | Answered by reference |
 | 2002 | Overture | explicit_citation | direct_text | high | [Acknowledge Diversity of Views on Women in Military and Dismiss WIM Committee](../markdown/ga30_2002.md#ga30-p253) | Answered by reference |
 | 2001 | Overture | explicit_citation | direct_text | high | [Call the PCA to Repent for Abandonment of Covenantal Patriarchy](../markdown/ga29_2001.md#ga29-p234) | Answered in the negative |

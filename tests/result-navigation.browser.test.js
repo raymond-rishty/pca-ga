@@ -53,18 +53,18 @@ test('search and catalogue results preserve return state and expose keyboard act
     await assert.doesNotReject(() => actions.locator('[data-result-action="cite"]').waitFor({ state: 'visible' }));
     await assert.doesNotReject(() => actions.locator('[data-result-action="link"]').waitFor({ state: 'visible' }));
 
-    await page.goto(`${baseUrl}/index/CASES.html`, { waitUntil: 'networkidle' });
+    await page.goto(`${baseUrl}/index/JUDICIAL-CASES.html`, { waitUntil: 'networkidle' });
     assert.equal(await page.locator('#recordReturn').count(), 0);
-    await page.waitForSelector('.reading-col table [data-result-primary][href]', { timeout: 30000 });
-    const catalogueResult = page.locator('.reading-col table [data-result-primary][href]').first();
+    await page.waitForSelector('[data-judicial-record] h3 a[href]', { timeout: 30000 });
+    const catalogueResult = page.locator('[data-judicial-record] h3 a[href]').first();
     await catalogueResult.click();
     await page.waitForLoadState('domcontentloaded');
     await waitForReturnLink(page);
-    assert.match(await page.locator('#recordReturnLink').getAttribute('href'), /CASES\.html/);
+    assert.match(await page.locator('#recordReturnLink').getAttribute('href'), /JUDICIAL-CASES\.html/);
 
     await page.goBack({ waitUntil: 'networkidle' });
-    await page.waitForSelector('.reading-col table [data-result-primary][href]');
-    assert.match(new URL(page.url()).pathname, /\/index\/CASES\.html$/i);
+    await page.waitForSelector('[data-judicial-record] h3 a[href]');
+    assert.match(new URL(page.url()).pathname, /\/index\/JUDICIAL-CASES\.html$/i);
   } finally {
     await context.close();
     await browser.close();

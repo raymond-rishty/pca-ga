@@ -107,7 +107,7 @@ def jekyll_input_fingerprint(root: Path) -> str:
         ".sass-cache/", "node_modules/", "_constitution/", ".claude/",
         ".github/", "scripts/", "tests/", "cases-rebuilt/", "evals/",
         "ocr-bakeoff/", "outputs/", "tmp/", "vendor/", "api/", "index/rpr/",
-        "index/segments/", "index/hunt/", "index/sjc_official/",
+        "index/segments/", "data/cases/",
         "index/digest/", "index/structure/", "index/synopsis_workflow/",
         "gradle/",
     )

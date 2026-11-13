@@ -4,8 +4,8 @@
 
 | Year | Record type | Relationship | Evidence | Confidence | Title | Disposition |
 |------|-------------|--------------|----------|------------|-------|-------------|
-| 2018 | Judicial case | explicit_citation | direct_text | high | [Sartorius v. Siouxlands Presbytery](../cases/ga46_2018__2016-16.md) | denied |
-| 2013 | Judicial case | explicit_citation | direct_text | high | [Art Sartorius et al. v. Siouxlands Presbytery](../cases/ga43_2015__2012-08.md) | out_of_order |
+| 2018 | Judicial case | explicit_citation | direct_text | high | [Sartorius v. Siouxlands Presbytery](../cases/ga46_2018__2016-16.md) | complaint denied |
+| 2013 | Judicial case | explicit_citation | direct_text | high | [Art Sartorius et al. v. Siouxlands Presbytery](../cases/ga43_2015__2012-08.md) | sustained_in_part |
 | 2013 | Judicial case | explicit_citation | direct_text | high | [Hedman v. Pacific Northwest Presbytery](../cases/ga41_2013__2012-05.md) | denied |
 
 ---

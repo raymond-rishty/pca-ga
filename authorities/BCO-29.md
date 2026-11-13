@@ -8,8 +8,8 @@
 | 2023 | Judicial case | explicit_citation | direct_text | high | [Herron et al. v. Central Indiana Presbytery](../cases/ga49_2022__2021-06.md) | not_sustained |
 | 2023 | Judicial case | explicit_citation | direct_text | high | [Presbyterian Church in America v. TE Daniel Herron](../cases/ga50_2023__2022-10.md) | other |
 | 2022 | Judicial case | structured_case_reference | structured_case_metadata | medium | [Speck v. Missouri Presbytery](../cases/ga49_2022__2020-05.md) | sustained |
-| 2021 | Judicial case | explicit_citation | direct_text | high | [Dodson et al. v. Ohio Presbytery](../cases/ga48_2021__2019-01.md) | other |
-| 2021 | Judicial case | explicit_citation | direct_text | high | [Marusich v. Central Indiana Presbytery](../cases/ga48_2021__2020-04.md) | other |
+| 2021 | Judicial case | explicit_citation | direct_text | high | [Dodson et al. v. Ohio Presbytery](../cases/ga48_2021__2019-01.md) | Complaint partially sustained; further proceedings moot |
+| 2021 | Judicial case | explicit_citation | direct_text | high | [Marusich v. Central Indiana Presbytery](../cases/ga48_2021__2020-04.md) | Complaint returned to Central Indiana Presbytery with instructions to reinvestigate under BCO 31-2 |
 | 2012 | Judicial case | explicit_citation | direct_text | high | [Lee v. Korean Eastern Presbytery](../cases/ga40_2012__2010-26.md) | sustained |
 | 2024 | Overture | explicit_citation | direct_text | high | [Amend BCO 41 to Allow Venue Change in Judicial Cases](../markdown/ga51_2024.md#ga51-p1119) | Answered in the negative |
 | 2021 | Overture | explicit_citation | direct_text | high | [Amend BCO 31-2 and 32-2 to Clarify That Investigation Shall Precede Process](../markdown/ga48_2021.md#ga48-p989) | Adopted |

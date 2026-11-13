@@ -39,20 +39,25 @@ def norm_case(n):
 
 
 def load_case_universe():
-    pages = json.load(open(os.path.join(IDX, "case_pages_map.json")))
     norm2file = {}
     known = set()
-    for num, info in pages.items():
-        for k in [num] + info.get("numbers", []):
-            norm2file[norm_case(k)] = info["file"]
-            known.add(norm_case(k))
-    for l in open(os.path.join(IDX, "cases.jsonl")):
-        for m in CASENUM.findall(l):           # scan the whole record (number, title, parties, body)
-            known.add(norm_case(m))
-    cm = os.path.join(IDX, "CASES.md")
-    if os.path.exists(cm):
-        for m in CASENUM.findall(open(cm, encoding="utf-8").read()):
-            known.add(norm_case(m))
+    canonical_path = os.path.join(ROOT, "data", "cases", "records", "judicial_cases.jsonl")
+    with open(canonical_path, encoding="utf-8") as source:
+        for line in source:
+            if not line.strip():
+                continue
+            record = json.loads(line)
+            page = record.get("case_page")
+            keys = [record.get("case_id"), record.get("legacy_case_id"),
+                    record.get("roster_id"), record.get("era_id"),
+                    record.get("era_label"), *(record.get("minute_ids") or []),
+                    *(record.get("page_case_numbers") or [])]
+            for key in keys:
+                if key:
+                    identity = norm_case(key)
+                    known.add(identity)
+                    if page:
+                        norm2file[identity] = page
     return norm2file, known
 
 

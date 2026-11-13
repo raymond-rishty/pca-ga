@@ -1,0 +1,27 @@
+{
+  "schema_version": 1,
+  "description": "Reviewed findings about docket-number coverage. A not-found candidate is not a case record and must not be added to the canonical catalogue without source evidence.",
+  "not_found_candidates": [
+    {
+      "candidate_id": "2021-04",
+      "status": "not_found_as_sjc_docket",
+      "reviewed_at": "2026-11-07",
+      "search_scope": [
+        "cases/*.md",
+        "markdown/*.md"
+      ],
+      "search_terms": [
+        "CASE 2021-04",
+        "CASE 2021-4",
+        "Case No. 2021-04",
+        "SJC Case 2021-04"
+      ],
+      "evidence": [
+        "markdown/ga51_2024.md:11124 — 2021-4 is a transfer-record exception.",
+        "markdown/ga51_2024.md:11403 — 2021-4 is a transfer-exam exception.",
+        "markdown/ga52_2025.md:11268,12057 — 2021-04/2021-4 occurs in RPR and transfer-exam references, not an SJC case heading or citation."
+      ],
+      "finding": "No SJC case heading or SJC-case citation for 2021-04 was found. The number sequence alone does not establish that an SJC docket was assigned."
+    }
+  ]
+}

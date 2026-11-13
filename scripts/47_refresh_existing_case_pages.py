@@ -101,7 +101,7 @@ def page_for(block: dict, vol: str, meta: dict, titles: dict, overrides: dict,
 
 def main() -> None:
     page_map = json.loads((ROOT / "index" / "case_pages_map.json").read_text(encoding="utf-8"))
-    overrides = json.loads((ROOT / "index" / "case_title_overrides.json").read_text(encoding="utf-8"))
+    overrides = json.loads((ROOT / "data" / "cases" / "overrides" / "case_title_overrides.json").read_text(encoding="utf-8"))
     titles = ce.global_titles()
     by_file: dict[str, dict] = {}
     for number, entry in page_map.items():

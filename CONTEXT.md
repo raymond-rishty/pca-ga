@@ -28,3 +28,11 @@ _Avoid_: Review standard when used as a second, redundant metadata field.
 the court's action, and the decisive reason or limitation. It does not replace
 the official decision text.
 _Avoid_: Case text or holding when referring to editorial prose.
+
+**Canonical case record**: The catalogue record for one source-attested judicial
+matter under its canonical docket identifier. It describes the matter, not every
+place where the Minutes mention or list it.
+
+**Minutes entry**: A source-located listing or reference in a General Assembly
+Minutes volume. An entry may link to a canonical case, remain unresolved, or be
+reviewed as a false extraction. It is not itself a judicial case record.

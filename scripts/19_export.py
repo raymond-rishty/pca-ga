@@ -43,12 +43,19 @@ def main():
     if os.path.exists(tp):
         for d in _jsonl(tp):
             titles[(d["vol"], d["number"], d.get("pdf_page"))] = d["title"]
-    # overture dispositions + final (cross-GA ratification) disposition, keyed (vol, number)
+    # Explicit overture dispositions + final (cross-GA ratification) disposition, keyed by page.
+    # When the explicit field is blank, exact-page action research supplies its audited result.
     disp = {}
     dp = os.path.join(IDX, "overture_dispositions.jsonl")
     if os.path.exists(dp):
         for d in _jsonl(dp):
             disp[(d["vol"], d["number"], d.get("pdf_page"))] = d
+
+    action_research = {}
+    rp = os.path.join(IDX, "overture_action_research.jsonl")
+    if os.path.exists(rp):
+        for row in _jsonl(rp):
+            action_research.setdefault((row.get("vol"), row.get("number")), []).append(row)
 
     # 1) structure: flatten each volume's tree into nodes with parent linkage + a sequence order
     struct_rows, ov_rows = [], []
@@ -76,10 +83,17 @@ def main():
             title = next((titles[(vol, o["number"], p)] for p in pages
                           if (vol, o["number"], p) in titles), None)
             dd = disp.get((vol, o["number"], o["pdf_page"]), {})
+            research_rows = [row for row in action_research.get((vol, o["number"]), [])
+                             if row.get("source_page") == o.get("pdf_page")
+                             or o.get("pdf_page") in (row.get("catalogue_pages") or [])]
+            research_dispositions = {str(row.get("disposition") or "").strip()
+                                     for row in research_rows if row.get("disposition")}
+            researched_final = (next(iter(research_dispositions))
+                                if len(research_dispositions) == 1 else None)
             ov_rows.append((vol, ordn, year, o["number"], o["source"],
                             o["pdf_page"], o.get("printed_page"), o.get("in"), title,
                             ";".join(str(p) for p in pages),
-                            dd.get("disposition"), dd.get("final_disposition"),
+                            dd.get("disposition"), dd.get("final_disposition") or researched_final,
                             dd.get("ratification_note")))
 
     n_s = _table(c, "structure",
@@ -100,7 +114,7 @@ def main():
         return _table(c, name, cols, rows)
 
     n_r = load_jsonl_table(
-        "sjc_roster", os.path.join(IDX, "sjc_official", "roster.jsonl"),
+        "sjc_roster", os.path.join(ROOT, "data", "cases", "sources", "sjc_official", "roster.jsonl"),
         ["canonical_number TEXT", "title TEXT", "pdf_url TEXT", "raw TEXT"],
         lambda d: (d.get("canonical_number"), d.get("title"),
                    d.get("official_pdf_url") or d.get("pdf_url"), json.dumps(d, ensure_ascii=False)))

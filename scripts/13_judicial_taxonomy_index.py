@@ -1,9 +1,8 @@
 #!/usr/bin/env python3
 """Render the canonical judicial-case taxonomy as a human-readable index.
 
-This is intentionally a separate catalogue from ``index/CASES.md``.  CASES.md
-is the legacy extraction/index view; JUDICIAL-CASES.html is the one-row-per-
-rostered-case editorial view produced by scripts/12_case_taxonomy.py.
+JUDICIAL-CASES.html is the one-row-per-rostered-case editorial view produced
+by scripts/12_case_taxonomy.py.
 """
 from __future__ import annotations
 
@@ -154,8 +153,8 @@ def citation_key(value):
 
 
 def load_source_records(root):
-    """Load printed-page metadata from the legacy case index."""
-    path = os.path.join(root, "index", "cases.jsonl")
+    """Load printed-page metadata carried by the canonical case records."""
+    path = os.path.join(root, "data", "cases", "records", "judicial_cases.jsonl")
     records = {}
     if not os.path.exists(path):
         return records
@@ -167,7 +166,7 @@ def load_source_records(root):
                 record = json.loads(line)
             except json.JSONDecodeError:
                 continue
-            for key in (record.get("case_number"), record.get("case_id")):
+            for key in (record.get("case_id"), record.get("legacy_case_id")):
                 if key:
                     records.setdefault(citation_key(key), record)
     return records
@@ -190,18 +189,18 @@ def source_citation(row, source_records, root=None):
                 page_start = int(pages.group(1).split(".", 1)[1].strip())
                 page_end = int(pages.group(2)) if pages.group(2) else None
     source_matches_page = (
-        source.get("printed_page_start")
-        and (not page_volume or source.get("ga_ordinal") == page_volume)
+        source.get("source_printed_page_start")
+        and (not page_volume or source.get("source_assembly") == page_volume)
     )
-    assembly = page_volume or row.get("assembly") or source.get("ga_ordinal")
+    assembly = page_volume or row.get("assembly") or source.get("source_assembly")
     if source_matches_page:
-        start = source.get("printed_page_start")
-        end = source.get("printed_page_end")
+        start = source.get("source_printed_page_start")
+        end = source.get("source_printed_page_end")
     else:
         start = page_start
         end = page_end
-    start = start or source.get("printed_page_start")
-    end = end or source.get("printed_page_end")
+    start = start or source.get("source_printed_page_start")
+    end = end or source.get("source_printed_page_end")
     if not assembly:
         return ""
     result = f"M{assembly}GA"
@@ -308,7 +307,7 @@ def main(argv=None):
     )
     args = parser.parse_args(argv)
     root = os.path.abspath(args.root)
-    source_path = os.path.join(root, "index", "judicial_cases.jsonl")
+    source_path = os.path.join(root, "data", "cases", "records", "judicial_cases.jsonl")
     output_path = os.path.join(root, "index", "JUDICIAL-CASES.html")
     overlays, registry_path = candidate_overlays(root, args.candidate_registry)
 

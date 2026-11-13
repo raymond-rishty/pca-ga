@@ -4,7 +4,7 @@
 
 | Year | Record type | Relationship | Evidence | Confidence | Title | Disposition |
 |------|-------------|--------------|----------|------------|-------|-------------|
-| 1995 | Judicial case | explicit_citation | direct_text | high | [Grace RPC Session v. Heartland Presbytery](../cases/ga23_1995__1993-12_1993-14.md) | sustained |
+| 1995 | Judicial case | explicit_citation | direct_text | high | [Grace RPC Session v. Heartland Presbytery](../cases/ga23_1995__1993-12_1993-14.md) | 93-12 affirmed; 93-14 reversed |
 
 ---
 *[← Authority Index](../index/AUTHORITY-BY-PROVISION.md)*

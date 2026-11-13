@@ -4,6 +4,7 @@
 
 | Year | Record type | Relationship | Evidence | Confidence | Title | Disposition |
 |------|-------------|--------------|----------|------------|-------|-------------|
+| 1989 | Judicial case | explicit_citation | direct_text | high | [D. Stine (a member) v. Southern Florida Presbytery (regarding Sabbath recreation activities)](../cases/ga17_1989__case5.md) | Presbytery's decision confirmed; complaint denied. Commission votes: Complaint (1) sustained 6, not sustained 13, abstain 1; Complaint (2) sustained 6, not sustained 14 |
 | 2015 | Overture | explicit_citation | direct_text | high | [Establish Study Committee on Westminster Standards & the Sabbath](../markdown/ga43_2015.md#ga43-p615) | Answered by reference to Overture 2 |
 | 2015 | Overture | explicit_citation | direct_text | high | [Form Ad Interim Committee to Revise Westminster Standards on Sabbath](../markdown/ga43_2015.md#ga43-p601) | Answered in the negative |
 | 2022 | RPR exception | body_mention | direct_text | high | [Philadelphia: Licensure candidate stated that he disagrees with the “strictness” of the Westminster Stan](../rpr/exc/philadelphia__050.html) | unsatisfactory |

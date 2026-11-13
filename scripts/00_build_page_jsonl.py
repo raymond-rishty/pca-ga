@@ -178,7 +178,13 @@ def evidence_fields(evidence: dict | None, page_manifest: dict | None, paddle_ro
     return {key: value for key, value in fields.items() if value is not None}
 
 
-def build_one(path: Path, output: Path, paddle_root: Path | None, require_paddle: bool) -> tuple[int, int, int]:
+def build_one(
+    path: Path,
+    output: Path,
+    paddle_root: Path | None,
+    require_paddle: bool,
+    warn_missing: bool = True,
+) -> tuple[int, int, int]:
     meta, rows = parse_markdown(path)
     assembly = path.stem.split("_")[0]
     evidence_count = 0
@@ -204,7 +210,7 @@ def build_one(path: Path, output: Path, paddle_root: Path | None, require_paddle
         for row in rows:
             handle.write(json.dumps(row, ensure_ascii=False, separators=(",", ":")) + "\n")
     temporary.replace(output)
-    if missing:
+    if missing and warn_missing:
         print(f"[warn] {path.stem}: Markdown-only pages={len(missing)}", file=sys.stderr)
     return len(rows), evidence_count, len(missing)
 
@@ -214,6 +220,11 @@ def main() -> int:
     parser.add_argument("--markdown-root", type=Path, default=DEFAULT_MARKDOWN)
     parser.add_argument("--output-root", type=Path, default=DEFAULT_OUTPUT)
     parser.add_argument("--paddle-root", type=Path, default=DEFAULT_PADDLE)
+    parser.add_argument(
+        "--markdown-only",
+        action="store_true",
+        help="Build page text and anchors from Markdown without loading Paddle evidence.",
+    )
     parser.add_argument("--only", nargs="*", help="volume ids such as ga01_1973")
     parser.add_argument("--require-paddle", action="store_true")
     args = parser.parse_args()
@@ -228,7 +239,10 @@ def main() -> int:
     total_pages = total_evidence = total_missing = 0
     for path in files:
         output = args.output_root / f"{path.stem}.pages.jsonl"
-        pages, evidence, missing = build_one(path, output, args.paddle_root, args.require_paddle)
+        paddle_root = None if args.markdown_only else args.paddle_root
+        pages, evidence, missing = build_one(
+            path, output, paddle_root, args.require_paddle, warn_missing=not args.markdown_only
+        )
         total_pages += pages
         total_evidence += evidence
         total_missing += missing

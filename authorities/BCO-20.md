@@ -5,10 +5,10 @@
 | Year | Record type | Relationship | Evidence | Confidence | Title | Disposition |
 |------|-------------|--------------|----------|------------|-------|-------------|
 | 2023 | Judicial case | explicit_citation | direct_text | high | [Harrell et al. v. Covenant Presbytery](../cases/ga50_2023__2022-07.md) | sustained |
-| 2009 | Judicial case | explicit_citation | direct_text | high | [David Kniseley et al. v. Rocky Mountain Presbytery](../cases/ga37_2009__2007-13.md) | denied |
-| 2009 | Judicial case | structured_case_reference | structured_case_metadata | medium | [Eliot Lee v. Korean Eastern](../cases/ga38_2010__stub_2009-16.md) | sustained |
-| 2009 | Judicial case | explicit_citation | direct_text | high | [Lee v. Korean Eastern Presbytery (2007-09 & 2007-10)](../cases/ga37_2009__2007-09_2007-10.md) | sustained |
-| 2007 | Judicial case | explicit_citation | direct_text | high | [Eliot Lee v. Korean Eastern Presbytery](../cases/ga36_2008__2007-01_2007-06_2007-07.md) | not_sustained |
+| 2009 | Judicial case | explicit_citation | direct_text | high | [David Kniseley et al. v. Rocky Mountain Presbytery](../cases/ga37_2009__2007-13.md) | Complaint denied; BCO meaning and generic use of title distinguished; dissent recorded |
+| 2009 | Judicial case | structured_case_reference | structured_case_metadata | medium | [Eliot Lee v. Korean Eastern](../cases/ga38_2010__stub_2009-16.md) | Out of Order |
+| 2009 | Judicial case | explicit_citation | direct_text | high | [Lee v. Korean Eastern Presbytery (2007-09 & 2007-10)](../cases/ga37_2009__2007-09_2007-10.md) | sustained; KEP's decisions annulled in the whole |
+| 2007 | Judicial case | explicit_citation | direct_text | high | [Eliot Lee v. Korean Eastern Presbytery](../cases/ga36_2008__2007-01_2007-06_2007-07.md) | Complaint denied; Korean Eastern Presbytery's decision affirmed |
 | 2006 | Judicial case | explicit_citation | direct_text | high | [Thornton v. Westminster Presbytery](../cases/ga34_2006__2004-08.md) | sustained |
 | 1992 | Judicial case | explicit_citation | direct_text | high | [Conrad et al. v. Central Carolina Presbytery. (Case #1)](../cases/ga21_1993__1992-06.md) | administrative |
 | 1998 | Constitutional inquiry | structured_provision_tag | structured_provision_tag | medium | [Dissolution of pastoral call and supermajority vote requirements](../inquiries/ga26_1998__ci01.md) | advice given — BCO 23-1 refers back to BCO 20 for meeting and conduct; 2/3 vote for dissolution requires explicit congregational adoption |

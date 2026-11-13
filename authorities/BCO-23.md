@@ -4,7 +4,7 @@
 
 | Year | Record type | Relationship | Evidence | Confidence | Title | Disposition |
 |------|-------------|--------------|----------|------------|-------|-------------|
-| 2007 | Judicial case | explicit_citation | direct_text | high | [Eliot Lee v. Korean Eastern Presbytery](../cases/ga36_2008__2007-01_2007-06_2007-07.md) | not_sustained |
+| 2007 | Judicial case | explicit_citation | direct_text | high | [Eliot Lee v. Korean Eastern Presbytery](../cases/ga36_2008__2007-01_2007-06_2007-07.md) | Complaint denied; Korean Eastern Presbytery's decision affirmed |
 | 1992 | Judicial case | explicit_citation | direct_text | high | [Conrad et al. v. Central Carolina Presbytery. (Case #1)](../cases/ga21_1993__1992-06.md) | administrative |
 | 2024 | CCB advice | structured_provision_tag | structured_provision_tag | medium | [Amend BCO 23 to Address Dissolution of Call for those employed by a Committee or Agency](../inquiries/ga51_2024__ci02.md) | in conflict; Adopted 8-0-0 |
 | 2025 | Overture | explicit_citation | direct_text | high | [Amend BCO 22 to Require Congregation Consent for Assistant Pastor Calls](../markdown/ga52_2025.md#ga52-p1187) | Referred back to Presbytery |

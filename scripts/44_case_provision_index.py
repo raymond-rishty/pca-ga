@@ -240,10 +240,6 @@ def meaningful_summary(text):
     return True
 
 
-def case_summary(title: Any, disposition: Any = "", synopsis: Any = "") -> str:
-    return md_summary(synopsis) if synopsis and meaningful_summary(synopsis) else ""
-
-
 def norm_case_num(n: Any) -> str:
     m = re.match(r"^(\d{4})-(\d+)([a-z]?)$", str(n or ""), re.I)
     return f"{m.group(1)}-{int(m.group(2))}{m.group(3).lower()}" if m else str(n or "")
@@ -333,7 +329,7 @@ def norm_metadata(value: Any) -> list[str]:
             if p:
                 out.append(p)
     if not out:
-        # Existing bco_cited_* metadata often stores bare BCO sections like "43-2".
+        # Canonical provision metadata may store bare BCO sections like "43-2".
         p = norm_explicit("BCO", raw)
         if p:
             out.append(p)
@@ -351,10 +347,6 @@ def norm_preface(m: re.Match[str]) -> str | None:
 def prov_sort_key(p: str) -> tuple:
     std = p.split(" ", 1)[0]
     return (STD_RANK.get(std, 9), [int(n) for n in re.findall(r"\d+", p)], p)
-
-
-def load_json(path: Path, default: Any) -> Any:
-    return json.loads(path.read_text(encoding="utf-8")) if path.exists() else default
 
 
 def load_jsonl(path: Path) -> list[dict[str, Any]]:
@@ -403,36 +395,43 @@ def text_hits(path: Path) -> dict[str, list[dict[str, Any]]]:
 
 
 def main() -> None:
-    cases = {norm_case_num(c.get("case_number")): c for c in load_jsonl(IDX / "cases.jsonl") if c.get("case_number")}
-    taxonomy = {norm_case_num(c.get("case_id")): c for c in load_jsonl(IDX / "judicial_cases.jsonl") if c.get("case_id")}
-    page_map = load_json(IDX / "case_pages_map.json", {})
+    records = ROOT / "data" / "cases" / "records"
+    taxonomy = {norm_case_num(c.get("case_id")): c for c in load_jsonl(records / "judicial_cases.jsonl") if c.get("case_id")}
+    by_page: dict[str, list[dict[str, Any]]] = collections.defaultdict(list)
+    for record in taxonomy.values():
+        file_stem = record.get("case_page")
+        if file_stem:
+            by_page[file_stem].append(record)
 
     rows: list[dict[str, Any]] = []
-    seen_files: set[str] = set()
-    for map_num, entry in sorted(page_map.items(), key=lambda kv: (kv[1].get("file", ""), kv[0])):
-        file_stem = entry.get("file")
-        if not file_stem or file_stem in seen_files:
-            continue
-        seen_files.add(file_stem)
+    for file_stem, canonical_records in sorted(by_page.items()):
         case_path = CASES_DIR / f"{file_stem}.md"
-        nums = [norm_case_num(n) for n in entry.get("numbers", [map_num])]
-        case_records = [cases[n] for n in nums if n in cases]
-        canonical_records = [taxonomy[n] for n in nums if n in taxonomy]
-        title = next((c.get("title") for c in canonical_records if c.get("title")), None) or entry.get("title") or next((c.get("title") for c in case_records if c.get("title")), map_num)
-        year = next((c.get("decision_year") for c in canonical_records if c.get("decision_year")), None) or next((c.get("year") for c in case_records if c.get("year")), None)
-        disposition = next((c.get("outcome") for c in canonical_records if c.get("outcome")), None) or next((c.get("disposition") for c in case_records if c.get("disposition")), "")
-        body = next((c.get("body") for c in case_records if c.get("body")), "SJC/CJB")
-        synopsis = SUMMARY_OVERRIDES.get(file_stem) or next((c.get("summary") for c in canonical_records if c.get("summary")), None) or case_summary(title, disposition, next((c.get("synopsis") for c in case_records if c.get("synopsis")), ""))
+        nums = list(dict.fromkeys(
+            norm_case_num(number)
+            for record in canonical_records
+            for number in (record.get("page_case_numbers") or [record.get("case_id")])
+            if number
+        ))
+        title = next((c.get("title") for c in canonical_records if c.get("title")), None) or file_stem
+        year = next((c.get("decision_year") for c in canonical_records if c.get("decision_year")), None)
+        disposition = next((c.get("disposition_detail") for c in canonical_records if c.get("disposition_detail")), "")
+        if not disposition and canonical_records:
+            disposition = ", ".join(sorted({
+                value.replace("_", " ")
+                for c in canonical_records
+                for value in c.get("final_dispositions") or []
+            }))
+        body = next((c.get("body") for c in canonical_records if c.get("body")), "SJC/CJB")
+        synopsis = SUMMARY_OVERRIDES.get(file_stem) or next((c.get("summary") for c in canonical_records if c.get("summary")), None) or ""
 
         by_prov: dict[str, dict[str, Any]] = collections.defaultdict(lambda: {"sources": set(), "evidence": []})
-        for c in case_records:
+        for c in canonical_records:
             for raw in c.get("bco_cited_as") or []:
                 for prov in norm_metadata(raw):
-                    by_prov[prov]["sources"].add("cases.jsonl:bco_cited_as")
+                    by_prov[prov]["sources"].add("judicial_cases.jsonl:bco_cited_as")
             for raw in c.get("bco_cited_current") or []:
                 for prov in norm_metadata(raw):
-                    by_prov[prov]["sources"].add("cases.jsonl:bco_cited_current")
-        for c in canonical_records:
+                    by_prov[prov]["sources"].add("judicial_cases.jsonl:bco_cited_current")
             for raw in c.get("bco_provisions") or []:
                 for prov in norm_metadata(raw):
                     by_prov[prov]["sources"].add("judicial_cases.jsonl:bco_provisions")
@@ -441,19 +440,23 @@ def main() -> None:
             by_prov[prov]["sources"].add("case_markdown_text")
             by_prov[prov]["evidence"].extend(hits[:8])
 
-        targets = case_records if len(case_records) > 1 else [None]
+        targets = canonical_records if len(canonical_records) > 1 else [None]
         for prov, audit in sorted(by_prov.items(), key=lambda kv: prov_sort_key(kv[0])):
             for target in targets:
-                target_nums = [norm_case_num(target["case_number"])] if target else nums
+                target_nums = [norm_case_num(target["case_id"])] if target else nums
                 target_title = (target.get("title") if target else title) or title
-                target_disposition = (target.get("disposition") if target else disposition) or ""
-                target_synopsis = (target.get("synopsis") if target else synopsis) or synopsis
+                target_disposition = (target.get("disposition_detail") if target else disposition) or ""
+                if target and not target_disposition:
+                    target_disposition = ", ".join(sorted({
+                        value.replace("_", " ") for value in target.get("final_dispositions") or []
+                    }))
+                target_synopsis = (target.get("summary") if target else synopsis) or synopsis
                 rows.append({
                     "provision": prov,
                     "case_numbers": target_nums,
                     "title": target_title,
                     "body": (target.get("body") if target else body) or body,
-                    "year": (target.get("year") if target else year) or year,
+                    "year": (target.get("decision_year") if target else year) or year,
                     "disposition": target_disposition,
                     "standard_of_review": (target.get("standard_of_review") if target else next(
                         (c.get("standard_of_review") for c in canonical_records if c.get("standard_of_review")), None

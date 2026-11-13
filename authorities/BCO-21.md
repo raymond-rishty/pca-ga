@@ -5,7 +5,7 @@
 | Year | Record type | Relationship | Evidence | Confidence | Title | Disposition |
 |------|-------------|--------------|----------|------------|-------|-------------|
 | 2017 | Judicial case | explicit_citation | direct_text | high | [Aven v. Ohio Valley Presbytery](../cases/ga45_2017__2016-01.md) | denied |
-| 2007 | Judicial case | explicit_citation | direct_text | high | [Eliot Lee v. Korean Eastern Presbytery](../cases/ga36_2008__2007-01_2007-06_2007-07.md) | not_sustained |
+| 2007 | Judicial case | explicit_citation | direct_text | high | [Eliot Lee v. Korean Eastern Presbytery](../cases/ga36_2008__2007-01_2007-06_2007-07.md) | Complaint denied; Korean Eastern Presbytery's decision affirmed |
 | 2006 | Judicial case | explicit_citation | direct_text | high | [Thornton v. Westminster Presbytery](../cases/ga34_2006__2004-08.md) | sustained |
 | 2021 | CCB advice | structured_provision_tag | structured_provision_tag | medium | [Amend BCO 21 and 24 to Clarify Moral Requirements for Church Office](../inquiries/ga48_2021__ci23.md) | not in conflict; Adopted |
 | 2025 | Overture | explicit_citation | direct_text | high | [Amend BCO 8-4, 20-1, 21-1, 21-12, and 23-1 re Calling and Dissolution of TE Relationships for Needful Works](../markdown/ga52_2025.md#ga52-p1254) | Approved → sent to presbyteries; ratification not located |

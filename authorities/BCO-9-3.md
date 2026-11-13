@@ -6,8 +6,9 @@
 |------|-------------|--------------|----------|------------|-------|-------------|
 | 2021 | Judicial case | explicit_citation | direct_text | high | [Crouse v. Northwest Georgia Presbytery](../cases/ga48_2021__2019-11.md) | denied |
 | 2011 | Judicial case | explicit_citation | direct_text | high | [Brown v. Northern California Presbytery](../cases/ga39_2011__2009-25_2009-26.md) | sustained |
-| 2009 | Judicial case | structured_case_reference | structured_case_metadata | medium | [David Kniseley et al. v. Rocky Mountain Presbytery](../cases/ga37_2009__2007-13.md) | denied |
-| 2009 | Judicial case | structured_case_reference | structured_case_metadata | medium | [Mark Grasso et al. v. Philadelphia Presbytery](../cases/ga37_2009__2008-01_2008-10.md) | denied |
+| 2009 | Judicial case | structured_case_reference | structured_case_metadata | medium | [David Kniseley et al. v. Rocky Mountain Presbytery](../cases/ga37_2009__2007-13.md) | Complaint denied; BCO meaning and generic use of title distinguished; dissent recorded |
+| 2009 | Judicial case | structured_case_reference | structured_case_metadata | medium | [Mark Grasso et al. v. Philadelphia Presbytery](../cases/ga37_2009__2008-01_2008-10.md) | denied; Presbytery's actions affirmed |
+| 1983 | Judicial case | structured_case_reference | structured_case_metadata | medium | [Val H. Barleman et al. v. Presbytery of Ascension](../cases/ga11_1983__case2.md) | Complaint sustained; ordination-trial action annulled, with corrective and pastoral directions; protest recorded |
 | 1984 | Constitutional inquiry | structured_provision_tag | structured_provision_tag | medium | [Ordination of men who believe women may serve as deacons](../inquiries/ga12_1984__ci10.md) | advice given |
 | 2023 | CCB advice | structured_provision_tag | structured_provision_tag | medium | [Amend BCO 8-2 and 9-3 to Require Officers' Conformity to Biblical Standards for Chastity and Sexual Purity in Self-description](../inquiries/ga50_2023__ci16.md) | not in conflict; Adopted 8-0-0 |
 | 2019 | CCB advice | structured_provision_tag | structured_provision_tag | medium | [5-9.i(1), 7-2, 9-3, 17-3, 24, and Add a Chapter 25 In Order to Allow Local Sessions to Decide Whether Women Are Allowed to Serve as Deacons](../inquiries/ga47_2019__ci17.md) | not in conflict; Adopted by the CCB |

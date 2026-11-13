@@ -5,8 +5,8 @@ the freshly-segmented cases (index/segments/*.json) with the already-segmented
 sjc_decision / cjb_decision chunks (index/chunks.jsonl).
 
 Outputs:
-  index/cases.jsonl          one row per case (SJC or pre-SJC CJB)
-  index/case_citations.jsonl precedent edges (from_case -> to_case)
+  data/cases/derived/cases_extracted.jsonl one row per extracted case (SJC or pre-SJC CJB)
+  data/cases/derived/case_citations.jsonl precedent edges (from_case -> to_case)
 
 Sources & merge:
   * Segment files carry the rich, per-case structured fields (title, parties,
@@ -43,9 +43,15 @@ conc = importlib.import_module("bco_concordance")
 ROOT = os.environ.get("PCA_GA_ROOT", os.path.dirname(HERE))
 CHUNKS = os.path.join(ROOT, "index", "chunks.jsonl")
 SEGDIR = os.path.join(ROOT, "index", "segments")
-OUT = os.path.join(ROOT, "index", "cases.jsonl")
-EDGES = os.path.join(ROOT, "index", "case_citations.jsonl")
-OVERRIDES = os.path.join(ROOT, "index", "case_metadata_overrides.json")
+OUT = os.environ.get(
+    "PCA_CASES_RECORDS",
+    os.path.join(ROOT, "data", "cases", "derived", "cases_extracted.jsonl"),
+)
+EDGES = os.environ.get(
+    "PCA_CASE_CITATIONS",
+    os.path.join(ROOT, "data", "cases", "derived", "case_citations.jsonl"),
+)
+OVERRIDES = os.path.join(ROOT, "data", "cases", "overrides", "case_metadata_overrides.json")
 
 DECISION_TYPES = ("sjc_decision", "cjb_decision")
 ADDON_TYPES = ("sjc_dissent", "sjc_concurrence")
@@ -672,11 +678,11 @@ def main():
 
     # --- auxiliary source: hunt-recovered roster cases (NOT golden) ---
     # The golden sources above are the segmentation output + stage-04 decision chunks.
-    # index/hunt/found/*.json holds cases recovered by the roster hunt (Haiku) plus a few
+    # data/cases/recovery/hunt/found/*.json holds cases recovered by the roster hunt (Haiku) plus a few
     # manually confirmed from the minutes. They are a keeper, so a single `07` run folds
     # them back in (via 11_merge_hunt) and reproduces the full index on rebuild. Tagged
     # aux_source=true so they stay distinguishable from golden. Skip with --golden-only.
-    found_dir = os.path.join(ROOT, "index", "hunt", "found")
+    found_dir = os.path.join(ROOT, "data", "cases", "recovery", "hunt", "found")
     if "--golden-only" not in sys.argv and glob.glob(found_dir + "/*.json"):
         print(f"        [aux] folding {len(glob.glob(found_dir + '/*.json'))} hunt-recovered "
               f"cases (auxiliary, not golden) via 11_merge_hunt ...")

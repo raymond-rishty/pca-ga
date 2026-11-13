@@ -4,9 +4,10 @@
 
 | Year | Record type | Relationship | Evidence | Confidence | Title | Disposition |
 |------|-------------|--------------|----------|------------|-------|-------------|
-| 2025 | Judicial case | explicit_citation | direct_text | high | [Felipe Assis and Carter Brown v. South Florida Presbytery](../cases/ga52_2025__2025-12_2025-13.md) | sustained |
+| 2025 | Judicial case | explicit_citation | direct_text | high | [Felipe Assis and Carter Brown v. South Florida Presbytery](../cases/ga52_2025__2025-12_2025-13.md) | Appeal sustained; divestitures reversed and both ministers restored to good standing |
 | 2025 | Judicial case | explicit_citation | direct_text | high | [Gleason v. Houston Metro Presbytery](../cases/ga52_2025__2024-02.md) | dismissed |
-| 2014 | Judicial case | explicit_citation | direct_text | high | [Charles Tarter v. Evangel Presbytery](../cases/ga42_2014__2012-03.md) | sustained |
+| 2014 | Judicial case | explicit_citation | direct_text | high | [Charles Tarter v. Evangel Presbytery](../cases/ga42_2014__2012-03.md) | Appeal sustained; judgment and censure vacated and matter remanded for constitutionally compliant proceedings or dismissal |
+| 1977 | Judicial case | structured_case_reference | structured_case_metadata | medium | [Rev. Thomas Barnes et al. v. Evangel Presbytery](../cases/ga05_1977__case3.md) | Complaint not sustained; written call requirement emphasized and broader question referred to the CJB |
 | 2014 | Constitutional inquiry | structured_provision_tag | structured_provision_tag | medium | [Defining the Term "Labor"](../inquiries/ga42_2014__ci04.md) | advice given |
 | 2022 | CCB advice | structured_provision_tag | structured_provision_tag | medium | [Amend BCO 8-7 by Adding Chaplain Endorsement Requirements and Recommendations](../inquiries/ga49_2022__ci21.md) | in conflict; Adopted by the CCB |
 | 2021 | CCB advice | structured_provision_tag | structured_provision_tag | medium | [Amend BCO 8-7 Regarding Chaplains](../inquiries/ga48_2021__ci01.md) | not in conflict; Adopted |

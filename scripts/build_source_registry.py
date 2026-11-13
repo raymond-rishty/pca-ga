@@ -86,29 +86,26 @@ def normalize_case(value: Any) -> str | None:
     return f"{match.group(1)}-{int(match.group(2))}" if match else str(value).strip()
 
 
-def case_numbers(row: dict[str, Any]) -> list[str]:
-    text = " ".join(str(row[key]) for key in ("case_number", "case_number_raw", "title") if row.get(key))
+def canonical_case_numbers(row: dict[str, Any]) -> list[str]:
+    """Return docket aliases carried by a canonical judicial-case record."""
     values: list[str] = []
-    for match in re.finditer(
-        r"(?:^|[^\d])((?:19|20)\d{2})[-–](\d{1,3})(?:$|[^\d])", text
-    ):
-        value = f"{match.group(1)}-{int(match.group(2))}"
-        if value not in values:
+    for key in ("case_id", "legacy_case_id", "roster_id"):
+        value = normalize_case(row.get(key))
+        if value and re.fullmatch(r"(?:19|20)\d{2}-\d{1,3}", value) and value not in values:
             values.append(value)
-    primary = normalize_case(row.get("case_number")) or normalize_case(row.get("case_number_raw"))
-    if primary and primary not in values:
-        values.append(primary)
-    # Catalog captions for consolidated dockets may abbreviate a companion by
-    # omitting the repeated year (for example, ``2025-12, -13``).  Resolve that
-    # shorthand against the primary docket so both canonical records inherit
-    # the same dedicated source.
-    primary_match = re.fullmatch(r"((?:19|20)\d{2})-(\d{1,3})", str(primary or ""))
-    if primary_match:
-        for match in re.finditer(r"(?:,|&|/)\s*-\s*(\d{1,3})(?:$|[^\d])", text):
-            value = f"{primary_match.group(1)}-{int(match.group(1))}"
-            if value not in values:
-                values.append(value)
     return values
+
+
+def canonical_case_volume(row: dict[str, Any]) -> str | None:
+    """Resolve a catalogue case to its Minutes volume when it has one."""
+    assembly = row.get("assembly")
+    year = row.get("decision_year")
+    if assembly is not None and year is not None:
+        return f"ga{int(assembly):02d}_{int(year)}"
+    page = re.match(r"^ga(\d+)_(\d{4})(?:__|$)", str(row.get("case_page") or ""))
+    if page:
+        return f"ga{int(page.group(1)):02d}_{page.group(2)}"
+    return None
 
 
 def url_path(url: str) -> str:
@@ -117,8 +114,7 @@ def url_path(url: str) -> str:
 
 
 def build(root: Path) -> tuple[dict[str, Any], dict[str, Any]]:
-    cases = load_jsonl(root / "index/cases.jsonl")
-    roster = load_jsonl(root / "index/sjc_official/roster.jsonl")
+    cases = load_jsonl(root / "data/cases/records/judicial_cases.jsonl")
     inquiries = load_inquiries(root / "index/inquiries.jsonl")
     studies = load_json(root / "index/studies_pages.json")
     manifest = load_json(root / "index/studies_pdf_manifest.json")
@@ -230,8 +226,7 @@ def build(root: Path) -> tuple[dict[str, Any], dict[str, Any]]:
         return source_id
 
     for row in cases:
-        if row.get("ga_ordinal") is not None and row.get("year") is not None:
-            add_volume(f"ga{int(row['ga_ordinal']):02d}_{int(row['year'])}")
+        add_volume(canonical_case_volume(row))
     for row in inquiries:
         add_volume(row.get("stem"))
     for row in studies:
@@ -245,25 +240,6 @@ def build(root: Path) -> tuple[dict[str, Any], dict[str, Any]]:
         add_volume(row.get("vol"))
     for volume in sorted(volumes):
         add_minutes(volume)
-
-    roster_by_number: dict[str, list[str]] = {}
-    for row in roster:
-        numbers = case_numbers(row)
-        if not numbers or not row.get("has_pdf") or not row.get("pdf_url"):
-            continue
-        source_id = add_dedicated(
-            "case",
-            row["pdf_url"],
-            "case",
-            numbers[0],
-            "index/sjc_official/roster.jsonl",
-            notes="Listed by the repository's SJC official roster; PDF binary is external and not vendored.",
-        )
-        for number in numbers:
-            roster_by_number.setdefault(number, [])
-            if source_id and source_id not in roster_by_number[number]:
-                roster_by_number[number].append(source_id)
-            add_mapping(f"case:{number}", [source_id])
 
     manifest_by_url: dict[str, str] = {}
     manifest_sources: dict[int, str] = {}
@@ -305,18 +281,33 @@ def build(root: Path) -> tuple[dict[str, Any], dict[str, Any]]:
             notes="Roster-gap study source listed in the PCA Historical Center index; not vendored.",
         )
 
+    case_mapping_count = 0
     for row in cases:
         ids: list[str | None] = []
-        for number in case_numbers(row):
-            ids.extend(roster_by_number.get(number, []))
-        volume = (
-            f"ga{int(row['ga_ordinal']):02d}_{int(row['year'])}"
-            if row.get("ga_ordinal") is not None and row.get("year") is not None else None
-        )
+        numbers = canonical_case_numbers(row)
+        if row.get("official_pdf_url"):
+            ids.append(add_dedicated(
+                "case",
+                row["official_pdf_url"],
+                "case",
+                row.get("case_id"),
+                "data/cases/records/judicial_cases.jsonl",
+                status="canonical",
+                notes="URL assigned to this canonical docket in the judicial case catalogue.",
+            ))
+        volume = canonical_case_volume(row)
         ids.append(add_minutes(volume))
-        add_mapping(f"case:{row.get('case_id')}", ids)
-        for number in case_numbers(row):
+        aliases = [
+            str(row[key]).strip()
+            for key in ("case_id", "legacy_case_id", "roster_id")
+            if row.get(key)
+        ]
+        for alias in aliases:
+            add_mapping(f"case:{alias}", ids)
+        for number in numbers:
             add_mapping(f"case:{number}", ids)
+        if any(ids):
+            case_mapping_count += 1
 
     inquiry_count = 0
     for row in inquiries:
@@ -386,8 +377,7 @@ def build(root: Path) -> tuple[dict[str, Any], dict[str, Any]]:
         "schema_version": 1,
         "description": "Durable source identities for extracted PCA documents. Source IDs separate provenance data from URL rendering.",
         "generated_from": [
-            "index/cases.jsonl",
-            "index/sjc_official/roster.jsonl",
+            "data/cases/records/judicial_cases.jsonl",
             "index/inquiries.jsonl",
             "index/overture_bodies.jsonl",
             "index/rpr/*.json",
@@ -401,7 +391,7 @@ def build(root: Path) -> tuple[dict[str, Any], dict[str, Any]]:
         "coverage": {
             "cases": {
                 "records": len(cases),
-                "with_source": sum(bool(mappings.get(f"case:{row.get('case_id')}")) for row in cases),
+                "with_source": case_mapping_count,
             },
             "inquiries": {"records": inquiry_count, "with_source": inquiry_count},
             "overtures": {"records": len(overtures), "with_source": len(overtures)},
@@ -418,13 +408,13 @@ def build(root: Path) -> tuple[dict[str, Any], dict[str, Any]]:
     }
     inventory_doc = {
         "schema_version": 1,
-        "description": "Curated dedicated-PDF inventory. pdf_path is the stable external path beneath pcahistory.org; local_pdf_path is null because this repository does not vendor source PDF binaries.",
+        "description": "Generated inventory of dedicated case and study PDFs. pdf_path is the stable external path beneath pcahistory.org; local_pdf_path is null because this repository does not vendor source PDF binaries.",
         "generated_from": [
-            "index/sjc_official/roster.jsonl",
+            "data/cases/records/judicial_cases.jsonl",
             "index/studies_pdf_manifest.json",
             "index/studies_pcahistory.json",
         ],
-        "verification_policy": "Entries are source-indexed from the committed roster or manifest. The inventory does not claim that external binaries are vendored; content verification can be recorded per entry without changing source IDs.",
+        "verification_policy": "Case entries are sourced from canonical judicial case records and study entries from the committed study manifests. The inventory does not claim that external binaries are vendored; content verification can be recorded per entry without changing source IDs.",
         "sources": inventory_list,
     }
     return registry, inventory_doc
@@ -504,6 +494,7 @@ def validate_registry(root: Path) -> list[str]:
         if not entry.get("inventory_source"):
             errors.append(f"inventory entry {source_id} has no evidence source")
 
+    inventory_urls_clean = {canonical_pdf_url(url) for url in inventory_urls}
     if {
         source_id for source_id, source in source_map.items()
         if source.get("kind") == "dedicated_pdf"
@@ -523,8 +514,7 @@ def validate_registry(root: Path) -> list[str]:
                 errors.append(f"record {record_id} references unknown source {source_id}")
 
     for relative in (
-        "index/cases.jsonl",
-        "index/sjc_official/roster.jsonl",
+        "data/cases/records/judicial_cases.jsonl",
         "index/inquiries.jsonl",
         "index/overture_bodies.jsonl",
         "index/studies_pages.json",
@@ -544,21 +534,25 @@ def validate_registry(root: Path) -> list[str]:
         elif item.get("records") != item.get("with_source"):
             errors.append(f"coverage is incomplete for {record_type}")
 
-    case_records = load_jsonl(root / "index/cases.jsonl")
+    case_records = load_jsonl(root / "data/cases/records/judicial_cases.jsonl")
     for row in case_records:
         key = f"case:{row.get('case_id')}"
         if key not in record_sources:
             errors.append(f"case index row has no registry mapping: {key}")
 
-    roster_urls = {
-        canonical_pdf_url(row["pdf_url"])
-        for row in load_jsonl(root / "index/sjc_official/roster.jsonl")
-        if row.get("has_pdf") and row.get("pdf_url")
+    canonical_case_pdf_urls = {
+        canonical_pdf_url(row["official_pdf_url"])
+        for row in load_jsonl(root / "data/cases/records/judicial_cases.jsonl")
+        if row.get("official_pdf_url")
     }
-    inventory_urls_clean = {canonical_pdf_url(url) for url in inventory_urls}
-    missing_roster_urls = sorted(roster_urls - inventory_urls_clean)
-    if missing_roster_urls:
-        errors.append(f"{len(missing_roster_urls)} dedicated case PDFs from the roster are not inventoried")
+    inventory_case_pdf_urls = {
+        canonical_pdf_url(entry.get("url", ""))
+        for entry in inventory_entries
+        if entry.get("record_type") == "case"
+    }
+    missing_case_urls = sorted(canonical_case_pdf_urls - inventory_case_pdf_urls)
+    if missing_case_urls:
+        errors.append(f"{len(missing_case_urls)} canonical case PDFs are not inventoried")
 
     manifest = load_json(root / "index/studies_pdf_manifest.json")
     manifest_urls = set()

@@ -1,11 +1,24 @@
 {
  "schema_version": 2,
- "catalogue_input_fingerprint": "c5016873970a46b3ac70e08348009c802d0dfb187d15e7a464d623be56f69365",
+ "catalogue_input_fingerprint": "fe4e56d10f19c5968a40be13896647ca3f001074b9b37494b74566def389d7c2",
  "provision_count": 1172,
- "relationship_count": 12750,
- "occurrence_count": 16635,
- "unmatched_relationship_count": 96,
+ "relationship_count": 12998,
+ "occurrence_count": 16959,
+ "unmatched_relationship_count": 108,
  "unmatched_relationships": [
+  {
+   "provision": "BCO 1-14-4",
+   "record_type": "Judicial case",
+   "record_id": "case:cases/ga03_1975__case1.md",
+   "title": "Rev. Harold L. Webb & Rev. Thomas Miller v. Pacific Presbytery",
+   "year": 1975,
+   "disposition": "dismissed",
+   "url": "cases/ga03_1975__case1.md",
+   "evidence_basis": "structured_case_metadata",
+   "relationship_kind": "structured_case_reference",
+   "match_confidence": "medium",
+   "reader_scope": "primary"
+  },
   {
    "provision": "BCO 10-18",
    "record_type": "Judicial case",
@@ -33,6 +46,19 @@
    "reader_scope": "contextual"
   },
   {
+   "provision": "BCO 14-25",
+   "record_type": "Judicial case",
+   "record_id": "case:cases/ga14_1986__case6.md",
+   "title": "Carl W. Bogue et al. v. Presbytery of the Ascension",
+   "year": 1986,
+   "disposition": "All five specifications sustained - Presbytery instructed to reexamine TE Lutjens and comply with prior General Assembly directives",
+   "url": "cases/ga14_1986__case6.md",
+   "evidence_basis": "structured_case_metadata",
+   "relationship_kind": "structured_case_reference",
+   "match_confidence": "medium",
+   "reader_scope": "primary"
+  },
+  {
    "provision": "BCO 14-46",
    "record_type": "Overture",
    "record_id": "overture:ga19_1991:5:p163",
@@ -55,6 +81,19 @@
    "url": "inquiries/ga15_1987__ci01.md",
    "evidence_basis": "structured_provision_tag",
    "relationship_kind": "structured_provision_tag",
+   "match_confidence": "medium",
+   "reader_scope": "primary"
+  },
+  {
+   "provision": "BCO 14-9",
+   "record_type": "Judicial case",
+   "record_id": "case:cases/ga06_1978__case2.md",
+   "title": "Luther L. Allin Jr. et al. v. Tennessee Valley Presbytery",
+   "year": 1978,
+   "disposition": "Specifications of error sustained regarding lack of 10-day notice, improper participation by Wallace Bristow and Pastor Vitullo; specification regarding mandate of rotation system denied; matter remanded to Tennessee Valley Presbytery for hearing after proper notice",
+   "url": "cases/ga06_1978__case2.md",
+   "evidence_basis": "structured_case_metadata",
+   "relationship_kind": "structured_case_reference",
    "match_confidence": "medium",
    "reader_scope": "primary"
   },
@@ -296,7 +335,7 @@
    "provision": "BCO 27-11",
    "record_type": "Overture",
    "record_id": "overture:ga14_1986:37:p55",
-   "title": "Amend BCO 42-4 and 43-2 to Extend Appeal and Complaint Filing Period to Sixty Days",
+   "title": "Amend BCO 42-4, 43-2, and 43-3 to Extend Filing Periods to Sixty Days",
    "year": 1986,
    "disposition": "Approved & ratified (1987)",
    "url": "markdown/ga14_1986.md#ga14-p55",
@@ -376,7 +415,7 @@
    "record_id": "overture:ga24_1996:14:p303",
    "title": "Amend BCO by Striking 46-5 and Adding New BCO 38-2 and 46-2",
    "year": 1996,
-   "disposition": "Answered by reference to Overture 27",
+   "disposition": "Answered by reference",
    "url": "markdown/ga24_1996.md#ga24-p303",
    "evidence_basis": "direct_text",
    "relationship_kind": "explicit_citation",
@@ -389,7 +428,7 @@
    "record_id": "overture:ga24_1996:27:p297",
    "title": "Delete BCO 46-5 and Amend BCO 38 and 46-2 on Church Membership",
    "year": 1996,
-   "disposition": "Approved and ratified",
+   "disposition": "Parts 1 and 2 (vacating BCO 46-5 and adding BCO 38-4), and part 3 (amending BCO 46-2 paragraph 3), were adopted as amended by GA24, received Presbytery advice and consent, and were ratified by GA25.",
    "url": "markdown/ga24_1996.md#ga24-p297",
    "evidence_basis": "direct_text",
    "relationship_kind": "explicit_citation",
@@ -402,7 +441,7 @@
    "record_id": "overture:ga24_1996:6:p298",
    "title": "Amend BCO 46-5, 38-2 & 38-3 on Member Roll Removal & Discipline",
    "year": 1996,
-   "disposition": "Answered by reference to Overture 27",
+   "disposition": "Answered by reference to Recommendation 15",
    "url": "markdown/ga24_1996.md#ga24-p298",
    "evidence_basis": "direct_text",
    "relationship_kind": "explicit_citation",
@@ -480,7 +519,7 @@
    "record_id": "case:cases/ga23_1995__1993-10.md",
    "title": "Clark v. Southwest Presbytery",
    "year": 1995,
-   "disposition": "not_sustained",
+   "disposition": "remanded for retrial",
    "url": "cases/ga23_1995__1993-10.md",
    "evidence_basis": "structured_case_metadata",
    "relationship_kind": "structured_case_reference",
@@ -493,11 +532,37 @@
    "record_id": "case:cases/ga23_1995__1993-12_1993-14.md",
    "title": "Grace RPC Session v. Heartland Presbytery",
    "year": 1995,
-   "disposition": "sustained",
+   "disposition": "93-12 affirmed; 93-14 reversed",
    "url": "cases/ga23_1995__1993-12_1993-14.md",
    "evidence_basis": "direct_text",
    "relationship_kind": "explicit_citation",
    "match_confidence": "high",
+   "reader_scope": "primary"
+  },
+  {
+   "provision": "BCO 33-12",
+   "record_type": "Judicial case",
+   "record_id": "case:cases/ga08_1980__case1.md",
+   "title": "Teaching Elders Byron Snapp and James M. Hope v. Calvary Presbytery",
+   "year": 1980,
+   "disposition": "Error sustained; ordination matter remanded to Calvary Presbytery for correction",
+   "url": "cases/ga08_1980__case1.md",
+   "evidence_basis": "direct_text",
+   "relationship_kind": "explicit_citation",
+   "match_confidence": "high",
+   "reader_scope": "primary"
+  },
+  {
+   "provision": "BCO 33-19",
+   "record_type": "Judicial case",
+   "record_id": "case:cases/ga08_1980__case3.md",
+   "title": "Teaching Elder Carl W. Bogue et al. v. Presbytery of the Ascension",
+   "year": 1980,
+   "disposition": "Both counts sustained (10-5 and 15-0); matter remanded for corrective action",
+   "url": "cases/ga08_1980__case3.md",
+   "evidence_basis": "structured_case_metadata",
+   "relationship_kind": "structured_case_reference",
+   "match_confidence": "medium",
    "reader_scope": "primary"
   },
   {
@@ -527,12 +592,25 @@
    "reader_scope": "candidate"
   },
   {
+   "provision": "BCO 36-11",
+   "record_type": "Judicial case",
+   "record_id": "case:cases/ga08_1980__case3.md",
+   "title": "Teaching Elder Carl W. Bogue et al. v. Presbytery of the Ascension",
+   "year": 1980,
+   "disposition": "Both counts sustained (10-5 and 15-0); matter remanded for corrective action",
+   "url": "cases/ga08_1980__case3.md",
+   "evidence_basis": "structured_case_metadata",
+   "relationship_kind": "structured_case_reference",
+   "match_confidence": "medium",
+   "reader_scope": "primary"
+  },
+  {
    "provision": "BCO 38-31",
    "record_type": "Overture",
    "record_id": "overture:ga24_1996:6:p298",
    "title": "Amend BCO 46-5, 38-2 & 38-3 on Member Roll Removal & Discipline",
    "year": 1996,
-   "disposition": "Answered by reference to Overture 27",
+   "disposition": "Answered by reference to Recommendation 15",
    "url": "markdown/ga24_1996.md#ga24-p298",
    "evidence_basis": "direct_text",
    "relationship_kind": "explicit_citation",
@@ -610,7 +688,7 @@
    "record_id": "case:cases/ga23_1995__1993-12_1993-14.md",
    "title": "Grace RPC Session v. Heartland Presbytery",
    "year": 1995,
-   "disposition": "sustained",
+   "disposition": "93-12 affirmed; 93-14 reversed",
    "url": "cases/ga23_1995__1993-12_1993-14.md",
    "evidence_basis": "direct_text",
    "relationship_kind": "explicit_citation",
@@ -623,7 +701,7 @@
    "record_id": "case:cases/ga47_2019__2018-02.md",
    "title": "Anna Lewis v. Presbytery of the Mississippi Valley",
    "year": 2019,
-   "disposition": "out_of_order",
+   "disposition": "BCO 40-5 filing found out of order because Chapter 40 matters reach the SJC only upon General Assembly referral",
    "url": "cases/ga47_2019__2018-02.md",
    "evidence_basis": "direct_text",
    "relationship_kind": "explicit_citation",
@@ -662,11 +740,63 @@
    "record_id": "case:cases/ga14_1986__case7.md",
    "title": "Dye et al. v. Missouri Presbytery",
    "year": 1986,
-   "disposition": "",
+   "disposition": "Specs 1, 2, 4, and 6 sustained. Trial annulled and remanded to Missouri Presbytery for new trial with specific procedural requirements",
    "url": "cases/ga14_1986__case7.md",
    "evidence_basis": "direct_text",
    "relationship_kind": "explicit_citation",
    "match_confidence": "high",
+   "reader_scope": "primary"
+  },
+  {
+   "provision": "BCO 44-4",
+   "record_type": "Judicial case",
+   "record_id": "case:cases/ga05_1977__case1.md",
+   "title": "Rev. Paul L. Karlberg and Ruling Elder James G. Luce v. Central Georgia Presbytery",
+   "year": 1977,
+   "disposition": "Complaint not sustained; no substantive reason to remand after presbytery corrected and ended the commission's work",
+   "url": "cases/ga05_1977__case1.md",
+   "evidence_basis": "direct_text",
+   "relationship_kind": "explicit_citation",
+   "match_confidence": "high",
+   "reader_scope": "primary"
+  },
+  {
+   "provision": "BCO 44-4",
+   "record_type": "Judicial case",
+   "record_id": "case:cases/ga08_1980__case3.md",
+   "title": "Teaching Elder Carl W. Bogue et al. v. Presbytery of the Ascension",
+   "year": 1980,
+   "disposition": "Both counts sustained (10-5 and 15-0); matter remanded for corrective action",
+   "url": "cases/ga08_1980__case3.md",
+   "evidence_basis": "direct_text",
+   "relationship_kind": "explicit_citation",
+   "match_confidence": "high",
+   "reader_scope": "primary"
+  },
+  {
+   "provision": "BCO 44-5",
+   "record_type": "Judicial case",
+   "record_id": "case:cases/ga06_1978__case1.md",
+   "title": "James H. Campbell v. Mid-Atlantic Presbytery",
+   "year": 1978,
+   "disposition": "New hearing ordered under BCO 44-5; judicial commission appointed for a potential further appeal",
+   "url": "cases/ga06_1978__case1.md",
+   "evidence_basis": "direct_text",
+   "relationship_kind": "explicit_citation",
+   "match_confidence": "high",
+   "reader_scope": "primary"
+  },
+  {
+   "provision": "BCO 44-5",
+   "record_type": "Judicial case",
+   "record_id": "case:cases/ga06_1978__case2.md",
+   "title": "Luther L. Allin Jr. et al. v. Tennessee Valley Presbytery",
+   "year": 1978,
+   "disposition": "Specifications of error sustained regarding lack of 10-day notice, improper participation by Wallace Bristow and Pastor Vitullo; specification regarding mandate of rotation system denied; matter remanded to Tennessee Valley Presbytery for hearing after proper notice",
+   "url": "cases/ga06_1978__case2.md",
+   "evidence_basis": "structured_case_metadata",
+   "relationship_kind": "structured_case_reference",
+   "match_confidence": "medium",
    "reader_scope": "primary"
   },
   {
@@ -688,7 +818,7 @@
    "record_id": "overture:ga24_1996:6:p298",
    "title": "Amend BCO 46-5, 38-2 & 38-3 on Member Roll Removal & Discipline",
    "year": 1996,
-   "disposition": "Answered by reference to Overture 27",
+   "disposition": "Answered by reference to Recommendation 15",
    "url": "markdown/ga24_1996.md#ga24-p298",
    "evidence_basis": "direct_text",
    "relationship_kind": "explicit_citation",
@@ -713,8 +843,8 @@
    "record_type": "Judicial case",
    "record_id": "case:cases/ga24_1996__1995-01.md",
    "title": "David C. Lachman v. Philadelphia Presbytery",
-   "year": null,
-   "disposition": "",
+   "year": 1996,
+   "disposition": "sustained",
    "url": "cases/ga24_1996__1995-01.md",
    "evidence_basis": "direct_text",
    "relationship_kind": "explicit_citation",
@@ -853,6 +983,19 @@
   },
   {
    "provision": "BCO 56-6",
+   "record_type": "Judicial case",
+   "record_id": "case:cases/ga11_1983__case2.md",
+   "title": "Val H. Barleman et al. v. Presbytery of Ascension",
+   "year": 1983,
+   "disposition": "Complaint sustained; ordination-trial action annulled, with corrective and pastoral directions; protest recorded",
+   "url": "cases/ga11_1983__case2.md",
+   "evidence_basis": "direct_text",
+   "relationship_kind": "explicit_citation",
+   "match_confidence": "high",
+   "reader_scope": "primary"
+  },
+  {
+   "provision": "BCO 56-6",
    "record_type": "Overture",
    "record_id": "overture:ga47_2019:33:p672",
    "title": "Amend BCO 57-5 to Add a Trinitarian Vow for Church Membership",
@@ -953,6 +1096,19 @@
    "evidence_basis": "direct_text",
    "relationship_kind": "explicit_citation",
    "match_confidence": "high",
+   "reader_scope": "primary"
+  },
+  {
+   "provision": "BCO 60-6",
+   "record_type": "Judicial case",
+   "record_id": "case:cases/ga06_1978__case2.md",
+   "title": "Luther L. Allin Jr. et al. v. Tennessee Valley Presbytery",
+   "year": 1978,
+   "disposition": "Specifications of error sustained regarding lack of 10-day notice, improper participation by Wallace Bristow and Pastor Vitullo; specification regarding mandate of rotation system denied; matter remanded to Tennessee Valley Presbytery for hearing after proper notice",
+   "url": "cases/ga06_1978__case2.md",
+   "evidence_basis": "structured_case_metadata",
+   "relationship_kind": "structured_case_reference",
+   "match_confidence": "medium",
    "reader_scope": "primary"
   },
   {
@@ -1258,14 +1414,14 @@
  "relationships_by_type": {
   "CCB advice": 549,
   "Constitutional inquiry": 437,
-  "Judicial case": 3264,
+  "Judicial case": 3512,
   "Overture": 1613,
   "RPR exception": 6887
  },
  "reader_included_by_type": {
   "CCB advice": 549,
   "Constitutional inquiry": 437,
-  "Judicial case": 3264,
+  "Judicial case": 3512,
   "Overture": 1613,
   "RPR exception": 6887
  },
@@ -1277,11 +1433,11 @@
    "primary": 437
   },
   "Judicial case": {
-   "primary": 3264
+   "primary": 3512
   },
   "Overture": {
-   "candidate": 1527,
-   "primary": 86
+   "candidate": 1535,
+   "primary": 78
   },
   "RPR exception": {
    "candidate": 136,
@@ -1292,38 +1448,39 @@
   "relationship_kind": {
    "body_mention": 203,
    "exception_target": 224,
-   "explicit_citation": 3987,
-   "proposal_target": 488,
-   "structured_case_reference": 820,
+   "explicit_citation": 4122,
+   "proposal_target": 489,
+   "structured_case_reference": 935,
    "structured_exception_tag": 6711,
    "structured_provision_tag": 986
   },
   "evidence_basis": {
-   "direct_text": 4388,
-   "structured_case_metadata": 820,
+   "direct_text": 4523,
+   "structured_case_metadata": 935,
    "structured_provision_tag": 7697,
-   "title_subject_reference": 488
+   "title_subject_reference": 489
   },
   "match_confidence": {
-   "high": 4549,
-   "medium": 8201
+   "high": 4684,
+   "medium": 8314
   },
   "reader_scope": {
-   "candidate": 1663,
+   "candidate": 1671,
    "contextual": 7300,
-   "primary": 3787
+   "primary": 4027
   },
   "match_method": {
-   "case_provision_index:case_markdown_text": 940,
-   "case_provision_index:case_markdown_text,cases.jsonl:bco_cited_as,cases.jsonl:bco_cited_current": 279,
-   "case_provision_index:case_markdown_text,cases.jsonl:bco_cited_as,cases.jsonl:bco_cited_current,judicial_cases.jsonl:bco_provisions": 1338,
-   "case_provision_index:case_markdown_text,cases.jsonl:bco_cited_as,judicial_cases.jsonl:bco_provisions": 6,
-   "case_provision_index:case_markdown_text,judicial_cases.jsonl:bco_provisions": 39,
-   "case_provision_index:cases.jsonl:bco_cited_as,cases.jsonl:bco_cited_current": 123,
-   "case_provision_index:cases.jsonl:bco_cited_as,cases.jsonl:bco_cited_current,judicial_cases.jsonl:bco_provisions": 640,
-   "case_provision_index:cases.jsonl:bco_cited_as,judicial_cases.jsonl:bco_provisions": 3,
-   "case_provision_index:cases.jsonl:bco_cited_current": 9,
-   "case_provision_index:judicial_cases.jsonl:bco_provisions": 66,
+   "case_provision_index:case_markdown_text": 1031,
+   "case_provision_index:case_markdown_text,judicial_cases.jsonl:bco_cited_as,judicial_cases.jsonl:bco_cited_current": 213,
+   "case_provision_index:case_markdown_text,judicial_cases.jsonl:bco_cited_as,judicial_cases.jsonl:bco_cited_current,judicial_cases.jsonl:bco_provisions": 1396,
+   "case_provision_index:case_markdown_text,judicial_cases.jsonl:bco_cited_as,judicial_cases.jsonl:bco_provisions": 5,
+   "case_provision_index:case_markdown_text,judicial_cases.jsonl:bco_provisions": 94,
+   "case_provision_index:judicial_cases.jsonl:bco_cited_as": 1,
+   "case_provision_index:judicial_cases.jsonl:bco_cited_as,judicial_cases.jsonl:bco_cited_current": 126,
+   "case_provision_index:judicial_cases.jsonl:bco_cited_as,judicial_cases.jsonl:bco_cited_current,judicial_cases.jsonl:bco_provisions": 719,
+   "case_provision_index:judicial_cases.jsonl:bco_cited_as,judicial_cases.jsonl:bco_provisions": 4,
+   "case_provision_index:judicial_cases.jsonl:bco_cited_current": 10,
+   "case_provision_index:judicial_cases.jsonl:bco_provisions": 101,
    "index/inquiries_search.json:provisions": 986,
    "index/rpr_search.json:provisions": 6711,
    "overture_body_explicit_reference_match": 1452,
@@ -1414,45 +1571,46 @@
    "rpr_markdown_line:97": 1,
    "rpr_markdown_line:98": 2,
    "rpr_markdown_line:99": 6,
-   "title_subject": 488
+   "title_subject": 489
   }
  },
  "occurrence_dimensions": {
   "relationship_kind": {
    "body_mention": 366,
    "exception_target": 284,
-   "explicit_citation": 6959,
-   "proposal_target": 488,
-   "structured_case_reference": 841,
+   "explicit_citation": 7162,
+   "proposal_target": 489,
+   "structured_case_reference": 961,
    "structured_exception_tag": 6711,
    "structured_provision_tag": 986
   },
   "evidence_basis": {
-   "direct_text": 7609,
-   "structured_case_metadata": 841,
+   "direct_text": 7812,
+   "structured_case_metadata": 961,
    "structured_provision_tag": 7697,
-   "title_subject_reference": 488
+   "title_subject_reference": 489
   },
   "match_confidence": {
-   "high": 8097,
-   "medium": 8538
+   "high": 8301,
+   "medium": 8658
   },
   "reader_scope": {
-   "candidate": 2901,
+   "candidate": 2910,
    "contextual": 7544,
-   "primary": 6190
+   "primary": 6505
   },
   "match_method": {
-   "case_provision_index:case_markdown_text": 1407,
-   "case_provision_index:case_markdown_text,cases.jsonl:bco_cited_as,cases.jsonl:bco_cited_current": 536,
-   "case_provision_index:case_markdown_text,cases.jsonl:bco_cited_as,cases.jsonl:bco_cited_current,judicial_cases.jsonl:bco_provisions": 2802,
-   "case_provision_index:case_markdown_text,cases.jsonl:bco_cited_as,judicial_cases.jsonl:bco_provisions": 10,
-   "case_provision_index:case_markdown_text,judicial_cases.jsonl:bco_provisions": 71,
-   "case_provision_index:cases.jsonl:bco_cited_as,cases.jsonl:bco_cited_current": 123,
-   "case_provision_index:cases.jsonl:bco_cited_as,cases.jsonl:bco_cited_current,judicial_cases.jsonl:bco_provisions": 640,
-   "case_provision_index:cases.jsonl:bco_cited_as,judicial_cases.jsonl:bco_provisions": 3,
-   "case_provision_index:cases.jsonl:bco_cited_current": 9,
-   "case_provision_index:judicial_cases.jsonl:bco_provisions": 66,
+   "case_provision_index:case_markdown_text": 1533,
+   "case_provision_index:case_markdown_text,judicial_cases.jsonl:bco_cited_as,judicial_cases.jsonl:bco_cited_current": 389,
+   "case_provision_index:case_markdown_text,judicial_cases.jsonl:bco_cited_as,judicial_cases.jsonl:bco_cited_current,judicial_cases.jsonl:bco_provisions": 2915,
+   "case_provision_index:case_markdown_text,judicial_cases.jsonl:bco_cited_as,judicial_cases.jsonl:bco_provisions": 7,
+   "case_provision_index:case_markdown_text,judicial_cases.jsonl:bco_provisions": 185,
+   "case_provision_index:judicial_cases.jsonl:bco_cited_as": 1,
+   "case_provision_index:judicial_cases.jsonl:bco_cited_as,judicial_cases.jsonl:bco_cited_current": 126,
+   "case_provision_index:judicial_cases.jsonl:bco_cited_as,judicial_cases.jsonl:bco_cited_current,judicial_cases.jsonl:bco_provisions": 719,
+   "case_provision_index:judicial_cases.jsonl:bco_cited_as,judicial_cases.jsonl:bco_provisions": 4,
+   "case_provision_index:judicial_cases.jsonl:bco_cited_current": 10,
+   "case_provision_index:judicial_cases.jsonl:bco_provisions": 101,
    "index/inquiries_search.json:provisions": 986,
    "index/rpr_search.json:provisions": 6711,
    "overture_body_explicit_reference_match": 2133,
@@ -1543,13 +1701,13 @@
    "rpr_markdown_line:97": 1,
    "rpr_markdown_line:98": 2,
    "rpr_markdown_line:99": 6,
-   "title_subject": 488
+   "title_subject": 489
   }
  },
  "unmatched_by_type": {
   "CCB advice": 14,
   "Constitutional inquiry": 4,
-  "Judicial case": 16,
+  "Judicial case": 28,
   "Overture": 43,
   "RPR exception": 19
  },
@@ -1558,11 +1716,11 @@
   "status": "stale",
   "file": "index/provision_link_adjudications.jsonl",
   "total": 11481,
-  "expected": 12750,
+  "expected": 12998,
   "applied": 0,
   "stale": 11481,
   "unmatched": 0,
-  "unassessed": 12750
+  "unassessed": 12998
  },
  "stored_advisory_assessments": [
   {

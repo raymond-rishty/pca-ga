@@ -5,10 +5,11 @@
 | Year | Record type | Relationship | Evidence | Confidence | Title | Disposition |
 |------|-------------|--------------|----------|------------|-------|-------------|
 | 2023 | Judicial case | explicit_citation | direct_text | high | [Wilson et al. v. Pacific Northwest Presbytery](../cases/ga50_2023__2022-20.md) | dismissed |
-| 2009 | Judicial case | explicit_citation | direct_text | high | [David Kniseley et al. v. Rocky Mountain Presbytery](../cases/ga37_2009__2007-13.md) | denied |
-| 2009 | Judicial case | explicit_citation | direct_text | high | [Mark Grasso et al. v. Philadelphia Presbytery](../cases/ga37_2009__2008-01_2008-10.md) | denied |
-| 1992 | Judicial case | explicit_citation | direct_text | high | [Robert D. Hopper v. James River Presbytery](../cases/ga20_1992__1991-04.md) |  |
+| 2009 | Judicial case | explicit_citation | direct_text | high | [David Kniseley et al. v. Rocky Mountain Presbytery](../cases/ga37_2009__2007-13.md) | Complaint denied; BCO meaning and generic use of title distinguished; dissent recorded |
+| 2009 | Judicial case | explicit_citation | direct_text | high | [Mark Grasso et al. v. Philadelphia Presbytery](../cases/ga37_2009__2008-01_2008-10.md) | denied; Presbytery's actions affirmed |
+| 1992 | Judicial case | explicit_citation | direct_text | high | [Robert D. Hopper v. James River Presbytery](../cases/ga20_1992__1991-04.md) | Robert D. Hopper v. James River Presbytery |
 | 1991 | Judicial case | explicit_citation | direct_text | high | [Chappell v. Eastern Carolina Presbytery](../cases/ga19_1991__1990-04.md) | sustained |
+| 1983 | Judicial case | explicit_citation | direct_text | high | [Val H. Barleman et al. v. Presbytery of Ascension](../cases/ga11_1983__case2.md) | Complaint sustained; ordination-trial action annulled, with corrective and pastoral directions; protest recorded |
 | 2014 | Constitutional inquiry | structured_provision_tag | structured_provision_tag | medium | [Whether "Inactive Elders" or Ruling Elders Elected at a Different Church May Serve as Commissioners at General Assembly](../inquiries/ga42_2014__ci03.md) | advice given |
 | 1995 | Constitutional inquiry | structured_provision_tag | structured_provision_tag | medium | [Ordination of candidate with exceptions to six-day creation and male-only office](../inquiries/ga23_1995__ci03.md) | response approved as satisfactory |
 | 1984 | Constitutional inquiry | structured_provision_tag | structured_provision_tag | medium | [Ordination of men who believe women may serve as deacons](../inquiries/ga12_1984__ci10.md) | advice given |
@@ -23,7 +24,7 @@
 | 2014 | Overture | explicit_citation | direct_text | high | [Establish a Study Committee on BCO 21-5 Third Ordination Vow and Biblical Polity](../markdown/ga42_2014.md#ga42-p825) | Adopted, answering the overture in the negative. |
 | 1998 | Overture | explicit_citation | direct_text | high | [Amend BCO 24-5 to Remove Obedience Language in Deacon Congregational Vows](../markdown/ga26_1998.md#ga26-p204) | Answered in the negative |
 | 1996 | Overture | multiple | multiple | high | [Amend BCO 7-2 to Restrict Permanent Committee Voting to Ordained Officers](../markdown/ga24_1996.md#ga24-p289) | Answered in the negative. |
-| 1996 | Overture | explicit_citation | direct_text | high | [Reject All Overtures Changing BCO 46-5](../markdown/ga24_1996.md#ga24-p302) | Answered by reference to Overture 27 |
+| 1996 | Overture | explicit_citation | direct_text | high | [Reject All Overtures Changing BCO 46-5](../markdown/ga24_1996.md#ga24-p302) | Answered by reference |
 | 1986 | Overture | explicit_citation | direct_text | high | [Clarify the Proper Scope of Diaconal Ministry](../markdown/ga14_1986.md#ga14-p58) | Referred for study; no explicit answer located |
 | 1986 | Overture | explicit_citation | direct_text | high | [Discontinue the Annual GA Memorial Service for Teaching Elders](../markdown/ga14_1986.md#ga14-p44) | Approved |
 | 2024 | RPR exception | structured_exception_tag | structured_provision_tag | medium | [Korean Southern: Church appoints women officers with no response from presbytery.](../rpr/exc/korean-southern__176.html) | satisfactory |

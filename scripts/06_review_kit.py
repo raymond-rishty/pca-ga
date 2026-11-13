@@ -230,8 +230,7 @@ def ingest(dry_run=False):
     for vol in sorted(touched_vols):
         print(f"[ingest] re-rendering {vol} ...")
         subprocess.run([PY, "scripts/01_extract.py", "render", vol], cwd=ROOT, check=False)
-    print("[ingest] rebuilding index ...")
-    subprocess.run([PY, "scripts/05_index.py", "build", "--force"], cwd=ROOT, check=False)
+    print("[ingest] rebuild the portable Minutes index with Gradle task buildMinutesDatabase.")
     # drop ingested rows from human_review.csv -> completed.csv
     rows = load_rows()
     done_ids = {iid for iid, *_ in filled}
@@ -387,8 +386,7 @@ def cloud(limit=None, only=None, include_digit_flag=False, dpi=200, dry_run=Fals
         print(f"[cloud] re-rendering {vol} ...")
         subprocess.run([PY, "scripts/01_extract.py", "render", vol], cwd=ROOT, check=False)
     if touched:
-        print("[cloud] rebuilding index ...")
-        subprocess.run([PY, "scripts/05_index.py", "build", "--force"], cwd=ROOT, check=False)
+        print("[cloud] rebuild the portable Minutes index with Gradle task buildMinutesDatabase.")
     keep = [r for r in rows if item_id(r) not in done_ids]
     done = [r for r in rows if item_id(r) in done_ids]
     _rewrite_csv(HR_CSV, rows, keep)

@@ -21,7 +21,6 @@ scripts/14_judicial_summary_audit.py
 scripts/67_audit_case_regressions.py
 scripts/68_repair_case_markdown_structure.py
 scripts/69_reextract_case_overrides.py
-scripts/78_audit_case_identities.py
 scripts/79_prioritize_synopsis_review.py
 scripts/80_publish_synopsis_reviews.py
 scripts/81_plan_deepseek_review.py

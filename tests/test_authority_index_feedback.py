@@ -47,7 +47,9 @@ class AuthorityIndexFeedbackTests(unittest.TestCase):
                 (FIXTURES / "acree-case-provision-index.json").read_text(encoding="utf-8"),
                 encoding="utf-8",
             )
-            (index / "judicial_cases.jsonl").write_text(
+            record_dir = root / "data" / "cases" / "records"
+            record_dir.mkdir(parents=True)
+            (record_dir / "judicial_cases.jsonl").write_text(
                 '{"case_id":"2021-7","title":"RE J. Lance Acree v. Tennessee Valley Presbytery",'
                 '"topic_tags":["standing"]}\n', encoding="utf-8",
             )

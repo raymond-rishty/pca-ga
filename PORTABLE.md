@@ -6,8 +6,8 @@ research (BCO, SJC/CCB cases, overtures, denominational history).
 
 It is designed to be **portable**: everything that matters is **plain markdown** — readable,
 presentable, greppable, and ingestible directly into another researcher's tools or LLM with
-**no Python and none of the build scripts required**. A SQLite database is also included as an
-optional full-text-query layer, generated from the same data.
+**no Python and none of the build scripts required**. A SQLite database can also be rebuilt as a
+full-text-query layer from the same maintained data.
 
 | Artifact | What it is | How you use it |
 |---|---|---|
@@ -18,13 +18,13 @@ optional full-text-query layer, generated from the same data.
 | `index/outlines/ga*.md` | A structural table of contents per volume | Navigate a volume |
 | `index/pca_minutes.db` | *(optional)* One SQLite DB holding every layer for full-text query | Query with any SQLite tool (below) |
 
-The markdown catalogues are **generated from the database**, so the two stay in sync. The source
-PDFs (`minutes/`, ~3 GB) and the per-page working text (`build/page_jsonl/`) are the **regenerable
-inputs**, not part of the deliverable.
+The markdown catalogues are **generated from the database**, so the two stay in sync. Gradle task
+`buildMinutesDatabase` rebuilds the database from tracked Markdown-derived page records, chunks,
+canonical case records, and maintained structure inputs. The source PDFs (`minutes/`, ~3 GB) and
+per-page working text are regenerable inputs, not part of the deliverable.
 
-> **In this Git repository** the SQLite database (`pca_minutes.db`, ~260 MB) and `build/page_jsonl/`
-> are **not committed** (over GitHub's 100 MB file limit). Get the prebuilt DB from the data
-> download linked in the [README](README.md), or regenerate everything from `scripts/`.
+> **In this Git repository** the SQLite database (`pca_minutes.db`) is an ignored build artifact
+> and is not committed. Recreate it with `gradlew buildMinutesDatabase`.
 
 ---
 
@@ -127,22 +127,25 @@ preserving the original wording verbatim — formatting is presentation-only.
 ## Provenance / regeneration
 
 **Two trees.** The *build* tree is `/workspace` — regenerable inputs (`build/page_jsonl/`, the per-page
-source of truth; `index/pca_minutes.db`; the Python venv) and where the scripts run. The *published*
+source of truth; the ignored derived index `index/pca_minutes.db`; the Python venv) and where the scripts run. The *published*
 tree is `/workspace/dist/pca-ga` — this git repo, what GitHub Pages serves. `markdown/*` is **hardlinked**
 between the two (a corpus-text edit lands in both at once); the catalogue scripts take a `ROOT` argument
-and write into whichever tree is named (`20_markdown_index` is the exception — `ROOT` is hardcoded to
-`/workspace` because it reads `pca_minutes.db`, gitignored in the published tree). **`.md` → `.html` is
+and write into whichever tree is named. `20_markdown_index` reads Minutes pages and the overture
+catalogue from `pca_minutes.db`, with canonical judicial metadata from JSONL. **`.md` → `.html` is
 automatic:** GitHub Pages (Jekyll + `jekyll-relative-links`) rebuilds on every push (~3 min lag).
 
 **Corpus pipeline** (heavy; only when re-OCRing or re-segmenting): `01_extract` → `16_domain_despace`
-→ `15_strip_headers` → `01_extract render` → `05_index build` → `07_build_cases` → `09_reconcile_roster`
-→ `12_case_taxonomy` → `13_judicial_taxonomy_index` → `08_index_cases` → `18_structure build` → `21_overture_titles` → `22_dispositions` → **`19_export`**
-(folds the JSON index layers into the DB). A born-digital OCR fix is made in `build/page_jsonl/` (+ the
+→ `15_strip_headers` → `01_extract render` → `07_build_cases` → `09_reconcile_roster`
+→ `12_case_taxonomy` → `13_judicial_taxonomy_index` → `18_structure build` → `21_overture_titles` → `22_dispositions`.
+The Gradle task `buildMinutesDatabase` orchestrates `05_index.py`, `08_index_cases.py`, and
+`19_export.py` so the page, canonical-case, structure, overture, and provenance layers are rebuilt
+together. Do not run those generator scripts individually in place of the Gradle task.
+A born-digital OCR fix is made in `build/page_jsonl/` (+ the
 hardlinked markdown); a scanned-era one via the `domain_terms.json` rules in `16_domain_despace`.
 
 **Catalogue render** (light; after editing index data or a renderer): run **`./render.sh`** — it
-regenerates every catalogue into both trees in order: `20_markdown_index` (INDEX/OVERTURES/CASES +
-per-volume outlines, from the DB) → `30_inquiry_pages` (INQUIRIES + CCB-OVERTURE-ADVICE + per-inquiry
+regenerates every catalogue into both trees in order: `buildMinutesDatabase` → `20_markdown_index`
+(INDEX/OVERTURES/CASES + per-volume outlines, from the database and canonical case records) → `30_inquiry_pages` (INQUIRIES + CCB-OVERTURE-ADVICE + per-inquiry
 pages) → `31_rpr_parse` (GA31-52) + `32_rpr_parse_scanned` (GA18-30) → `33_rpr_build` (RPR.md +
 RPR-BY-PROVISION.md + per-presbytery + per-exception pages). Then `git add -A && commit && push`.
 

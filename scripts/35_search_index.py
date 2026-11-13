@@ -4,7 +4,7 @@
 Combines the compact per-catalogue exports into one client-side search index:
   - RPR exceptions of substance      (index/rpr_search.json, written by 33_rpr_build)
   - Constitutional inquiries         (index/inquiries_search.json, written by 30_inquiry_pages)
-  - Judicial cases                   (index/case_pages_map.json)
+  - Judicial cases                   (data/cases/records/judicial_cases.jsonl)
   - Overtures                        (from curated title/disposition/body metadata, with catalogue fallback)
 Each record has display metadata plus explicit searchable fields. The browser search consumes
 title, identifiers, assembly/year, parties, BCO references, topics, summaries, status, and
@@ -15,14 +15,13 @@ Usage: 35_search_index.py [ROOT]   (default /workspace)
 """
 from __future__ import annotations
 import json, os, re, sys
-from glob import glob
 from pathlib import Path
 from atomic_output import write_text_atomic
 
 ROOT = sys.argv[1] if len(sys.argv) > 1 else "/workspace"
 IDX = os.path.join(ROOT, "index")
 APP = os.path.join(ROOT, "app")
-CASE_SUMMARY_CHUNK_SIZE = 200
+CASE_RECORDS = os.path.join(ROOT, "data", "cases", "records")
 
 
 def load(name):
@@ -41,7 +40,6 @@ def load_jsonl(name):
 _HEAD = re.compile(r"^##\s+.*General Assembly\s*\((\d{4})\)")
 _LINK = re.compile(r"\]\(\.\./([^)#]+(?:#[^)]+)?)\)")   # first ../<path>[#anchor]
 _PROV = re.compile(r"BCO\s+\d+-\d+(?:\.[0-9a-z]+)*", re.I)
-_CASE_PAGE = re.compile(r"\.\./cases/([^)]+\.md)")
 
 
 def parse_overture_catalogue():
@@ -61,28 +59,34 @@ def overture_records():
     return curated_overtures() or parse_overture_catalogue()
 
 
-def case_index_summaries():
-    """Return the editorial case-index summary keyed by its rendered case page."""
-    p = os.path.join(IDX, "CASES.md")
-    if not os.path.exists(p):
-        return {}
-    out = {}
-    for line in open(p, encoding="utf-8"):
-        if not line.startswith("| "):
-            continue
-        cells = [c.strip() for c in line.strip().strip("|").split("|")]
-        if len(cells) < 5:
-            continue
-        match = _CASE_PAGE.search(line)
-        summary = cells[3]
-        if match and summary:
-            out[match.group(1)] = summary
-    return out
+def case_page_summary(root, file_stem):
+    """Use the opening facts paragraphs when a case has no catalogue summary."""
+    path = Path(root) / "cases" / f"{file_stem}.md"
+    if not path.exists():
+        return ""
+    text = path.read_text(encoding="utf-8")
+    match = re.search(
+        r"^###\s+(?:I\.\s+)?(?:A\s+)?Summary of the Facts\s*$\n(.*?)(?=^###?\s|\Z)",
+        text,
+        flags=re.I | re.M | re.S,
+    )
+    if not match:
+        return ""
+    paragraphs = []
+    for block in re.split(r"\n\s*\n", match.group(1)):
+        block = re.sub(r"<!--.*?-->", " ", block, flags=re.S)
+        block = re.sub(r"\[([^\]]+)\]\([^)]*\)", r"\1", block)
+        block = re.sub(r"[*_`>#]", "", block)
+        block = re.sub(r"\s+", " ", block).strip()
+        if block:
+            paragraphs.append(block)
+        if len(paragraphs) == 2:
+            break
+    return " ".join(paragraphs)
 
 
 def main():
     rows = []
-    case_summaries = {}
 
     for r in load("rpr_search.json"):
         exception = re.search(r"__(\d+)\.md$", r["url"])
@@ -109,138 +113,88 @@ def main():
 
     rows.extend(overture_records())
 
-    # Build case_number -> BCO provisions lookup from cases.jsonl
-    def _norm_num(n):
-        mm = re.match(r'^(\d{4})-(\d+)([a-z]?)$', str(n))
-        return f"{mm.group(1)}-{int(mm.group(2))}{mm.group(3)}" if mm else str(n)
+    taxonomy_path = Path(CASE_RECORDS) / "judicial_cases.jsonl"
+    if taxonomy_path.exists():
+        with taxonomy_path.open(encoding="utf-8") as source:
+            taxonomy_rows = [json.loads(line) for line in source if line.strip()]
+    else:
+        taxonomy_rows = []
 
-    cases_jsonl_p = os.path.join(IDX, "cases.jsonl")
-    case_provs: dict = {}       # norm_num -> list of "BCO X-Y" strings
-    case_disps: dict = {}       # norm_num -> disposition string
-    case_synopses: dict = {}    # norm_num -> editorial case headnote
-    case_topics: dict = {}      # norm_num -> topics from the case metadata
-    case_parties: dict = {}     # norm_num -> party/court names from the case metadata
-    case_synopses_by_title: dict = {}
-    case_synopses_by_file = case_index_summaries()
-    # Prefer the canonical editorial/search layer when it has been built, while
-    # retaining cases.jsonl as a portable fallback for older worktrees.
-    taxonomy_rows = load_jsonl("judicial_cases.jsonl")
-    taxonomy_by_key = {
-        _norm_num(r["case_id"]): r for r in taxonomy_rows if r.get("case_id")
-    }
-    if os.path.exists(cases_jsonl_p):
-        for line in open(cases_jsonl_p, encoding="utf-8"):
-            line = line.strip()
-            if not line:
-                continue
-            c = json.loads(line)
-            nn = c.get("case_number")
-            if not nn:
-                continue
-            key = _norm_num(nn)
-            bco = [f"BCO {b}" for b in (c.get("bco_cited_as") or [])
-                   if re.match(r'^[\d]', b)]
-            if bco:
-                case_provs[key] = sorted(set(case_provs.get(key, []) + bco))
-            if c.get("disposition"):
-                case_disps[key] = c["disposition"]
-            topics = [str(topic) for topic in (c.get("topics") or []) if topic]
-            if topics:
-                case_topics[key] = sorted(set(case_topics.get(key, []) + topics))
-            parties = c.get("parties") or {}
+    # The canonical catalogue supplies case metadata and the docket aliases
+    # represented on each full-text page.
+    taxonomy_by_page: dict[str, list[dict]] = {}
+    for item in taxonomy_rows:
+        if item.get("case_page"):
+            taxonomy_by_page.setdefault(item["case_page"], []).append(item)
+
+    for file_stem in sorted(taxonomy_by_page):
+        tax_rows = taxonomy_by_page.get(file_stem, [])
+        tax = tax_rows[0] if tax_rows else {}
+        page_numbers = list(dict.fromkeys(
+            number for item in tax_rows
+            for number in item.get("page_case_numbers", []) if number
+        ))
+        if not page_numbers:
+            page_numbers = [item.get("case_id") for item in tax_rows if item.get("case_id")]
+        identifiers = [f"Case {number}" for number in page_numbers]
+        for item in tax_rows:
+            for value in (item.get("case_id"), item.get("legacy_case_id"),
+                          item.get("roster_id"), item.get("era_label")):
+                if value:
+                    identifiers.append(f"Case {value}" if re.match(r"^\d{4}-", str(value)) else str(value))
+            identifiers.extend(item.get("minute_ids") or [])
+        identifiers = list(dict.fromkeys(identifiers))
+        title = tax.get("title") or file_stem
+        tax_dispositions = list(dict.fromkeys(
+            disposition for item in tax_rows
+            for disposition in (item.get("final_dispositions") or []) if disposition
+        ))
+        tax_provisions = list(dict.fromkeys(
+            f"BCO {provision}"
+            for item in tax_rows for provision in (item.get("bco_provisions") or [])
+            if re.match(r"^[\d]", str(provision))
+        ))
+        tax_topics = list(dict.fromkeys(
+            str(topic) for item in tax_rows for topic in (item.get("topic_tags") or []) if topic
+        ))
+        tax_parties = []
+        for item in tax_rows:
+            parties = item.get("parties") or {}
             if isinstance(parties, dict):
-                party_values = [parties.get(name) for name in (
+                values = [parties.get(key) for key in (
                     "raw", "complainant_or_appellant", "respondent_or_court")]
             else:
-                party_values = [parties]
-            party_values = [str(value) for value in party_values if value]
-            if party_values:
-                case_parties[key] = sorted(set(case_parties.get(key, []) + party_values))
-            if c.get("synopsis"):
-                case_synopses[key] = c["synopsis"]
-                case_synopses_by_title.setdefault(c.get("title"), c["synopsis"])
-
-    cases = {}
-    p = os.path.join(IDX, "case_pages_map.json")
-    if os.path.exists(p):
-        cases = json.load(open(p, encoding="utf-8"))
-    seen = set()
-    for num, c in cases.items():
-        if c["file"] in seen:
-            continue
-        seen.add(c["file"])
-        m = re.match(r"(\d{4})", num or "")
-        # Gather provisions and disposition from all case numbers sharing this file
-        file_provs: list = []
-        file_disp = ""
-        file_topics: list = []
-        file_parties: list = []
-        for n in c.get("numbers", [num]):
-            key = _norm_num(n)
-            file_provs.extend(case_provs.get(key, []))
-            file_topics.extend(case_topics.get(key, []))
-            file_parties.extend(case_parties.get(key, []))
-            if not file_disp:
-                file_disp = case_disps.get(key, "")
-        tax_rows = [taxonomy_by_key[key] for key in dict.fromkeys(
-            _norm_num(n) for n in c.get("numbers", [num])
-        ) if key in taxonomy_by_key]
-        tax = tax_rows[0] if tax_rows else taxonomy_by_key.get(_norm_num(num), {})
-        tax_title = tax.get("title") or ""
-        tax_summary = tax.get("summary") or ""
-        tax_matter_type = tax.get("matter_type") or ""
-        tax_dispositions = tax.get("final_dispositions") or []
-        tax_provisions = [f"BCO {b}" for item in tax_rows
-                          for b in (item.get("bco_provisions") or [])
-                          if re.match(r"^[\d]", str(b))]
-        tax_topics = [str(topic) for item in tax_rows
-                      for topic in (item.get("topic_tags") or []) if topic]
-        tax_identifiers = []
-        for item in tax_rows:
-            for value in (item.get("case_id"), item.get("legacy_case_id"), item.get("era_label")):
-                if value and value not in tax_identifiers:
-                    tax_identifiers.append(value)
-            for value in item.get("minute_ids") or []:
-                if value and value not in tax_identifiers:
-                    tax_identifiers.append(value)
-        title = tax_title or c.get("title") or num
-        identifiers = [f"Case {n}" for n in c.get("numbers", [num])]
-        identifiers.extend(
-            f"Case {value}" if re.match(r"^\d{4}-", str(value)) else str(value)
-            for value in tax_identifiers
-        )
-        identifiers = list(dict.fromkeys(identifiers))
-        summary = tax_summary or case_synopses.get(_norm_num(num), "")
+                values = [parties]
+            tax_parties.extend(str(value) for value in values if value)
+        tax_parties = sorted(set(tax_parties))
+        summary = next((item.get("summary") for item in tax_rows if item.get("summary")), "")
         if not summary:
-            summary = next((case_synopses.get(_norm_num(n), "") for n in c.get("numbers", []) if case_synopses.get(_norm_num(n))), "")
-        if not summary:
-            summary = case_synopses_by_title.get(c.get("title"), "")
-        if not summary:
-            summary = case_synopses_by_file.get(f"{c['file']}.md", "")
+            summary = case_page_summary(ROOT, file_stem)
+        case_id = tax.get("case_id") or (page_numbers[0] if page_numbers else "")
+        page_year = re.search(r"ga\d+_(\d{4})", str(file_stem))
+        year = tax.get("decision_year") or (int(page_year.group(1)) if page_year else None)
         row = {"type": "Judicial case", "title": title,
-               "sub": f"SJC/CJB case {tax.get('case_id') or num}",
-               "identifier": identifiers[0] if identifiers else f"Case {num}",
+               "sub": f"SJC/CJB case {case_id}" if case_id else "Judicial case",
+               "identifier": identifiers[0] if identifiers else "Judicial case",
                "identifiers": identifiers,
-               "parties": sorted(set(file_parties)),
-               "topics": sorted(set(file_topics + tax_topics)),
+               "parties": tax_parties,
+               "topics": tax_topics,
                "summary": summary,
-               "provisions": sorted(set(file_provs + tax_provisions)),
-               "year": int(m.group(1)) if m else None,
-               "disposition": tax_dispositions[0] if tax_dispositions else file_disp,
+               "provisions": tax_provisions,
+               "year": year,
+               "disposition": tax_dispositions[0] if tax_dispositions else "",
                "case_id": tax.get("case_id"),
                "legacy_case_id": tax.get("legacy_case_id"),
                "era_id": tax.get("era_id"),
                "era_label": tax.get("era_label"),
                "minute_ids": tax.get("minute_ids") or [],
-               "matter_type": tax_matter_type,
+               "matter_type": tax.get("matter_type"),
                "final_dispositions": tax_dispositions,
                "standard_of_review": tax.get("standard_of_review"),
                "standard_of_review_detail": tax.get("standard_of_review_detail"),
                "review_standards": tax.get("review_standards") or [],
                "classification_status": tax.get("classification_status"),
-               "url": f"cases/{c['file']}.md"}
-        if summary:
-            case_summaries[num] = summary
+               "url": f"cases/{file_stem}.md"}
         rows.append(row)
 
     for r in load("studies_pages.json"):
@@ -257,13 +211,6 @@ def main():
     os.makedirs(APP, exist_ok=True)
     write_text_atomic(Path(APP) / "search_index.json",
                       json.dumps(rows, ensure_ascii=False, separators=(",", ":")))
-    for path in glob(os.path.join(APP, "case_summaries_*.json")):
-        os.remove(path)
-    summary_items = sorted(case_summaries.items())
-    for part, offset in enumerate(range(0, len(summary_items), CASE_SUMMARY_CHUNK_SIZE), start=1):
-        summary_chunk = dict(summary_items[offset:offset + CASE_SUMMARY_CHUNK_SIZE])
-        write_text_atomic(Path(APP) / f"case_summaries_{part}.json",
-                          json.dumps(summary_chunk, ensure_ascii=False, separators=(",", ":")))
     from provision_catalogue import load_catalogue, provision_search_rows
     catalogue_path = os.path.join(IDX, "provision_catalogue.json")
     provision_rows = []
@@ -276,7 +223,6 @@ def main():
     import collections
     by = collections.Counter(r["type"] for r in rows)
     print(f"[{ROOT}] app/search_index.json: {len(rows)} records {dict(by)} ({sz // 1024}KB); "
-          f"{len(case_summaries)} case summaries in {part if case_summaries else 0} chunks; "
           f"{len(provision_rows)} provision search rows")
 
 

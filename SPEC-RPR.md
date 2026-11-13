@@ -108,7 +108,7 @@ the early-resolved ones.
 5. **Thread across years** (§4) — assemble each exception's timeline and final disposition.
 6. **Born-digital first** (GA31–52), then extend to the scanned GA18–30 with per-era profiles.
 
-## 6. Index (structure-first, like CASES.md / INQUIRIES.md)
+## 6. Index (structure-first, like INQUIRIES.md and the judicial catalogue)
 
 `RPR.md`, the catalogue of **exceptions of substance**, with per-exception pages:
 - grouped by **presbytery** (primary view) and cross-referenced by **provision** (so "which

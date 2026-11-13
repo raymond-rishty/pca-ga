@@ -7,7 +7,7 @@ case: its roster identity + locator, plus the full text of the top candidate pag
 import json, sys
 
 ROOT = "/workspace"
-LOCATED = ROOT + "/index/hunt/located.jsonl"
+LOCATED = ROOT + "/data/cases/recovery/hunt/located.jsonl"
 
 
 def main():

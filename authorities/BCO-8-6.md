@@ -8,10 +8,10 @@
 | 2023 | CCB advice | structured_provision_tag | structured_provision_tag | medium | [Change BCO 8-6 Regarding Chaplain Administration of Sacraments](../inquiries/ga50_2023__ci02.md) | in conflict; Adopted 8-0-0 |
 | 2023 | Overture | multiple | multiple | high | [Amend BCO 8-6 Regarding Chaplain Administration of Sacraments](../markdown/ga50_2023.md#ga50-p980) | Referred |
 | 2016 | Overture | explicit_citation | direct_text | high | [Amend BCO 5-3 to Require Minute Reporting for Mission Church Governments](../markdown/ga44_2016.md#ga44-p640) | Approved & ratified (2017) |
-| 2014 | Overture | proposal_target | title_subject_reference | high | [Amend BCO 8-6 Regarding Commissioning an Evangelist](../markdown/ga42_2014.md#ga42-p261) | Answered by reference |
+| 2014 | Overture | proposal_target | title_subject_reference | high | [Amend BCO 8-6 Regarding Commissioning an Evangelist](../markdown/ga42_2014.md#ga42-p261) | Referred for study |
 | 2013 | Overture | proposal_target | title_subject_reference | high | [Amend BCO 8-6 Regarding Commissioning an Evangelist](../markdown/ga41_2013.md#ga41-p823) | BCO 8-6 adopted after presbytery ratification. |
 | 2000 | Overture | explicit_citation | direct_text | high | [Authorize Formation of a Provisional Presbytery in Russia](../markdown/ga28_2000.md#ga28-p259) | Answered in the negative |
-| 1987 | Overture | explicit_citation | direct_text | high | [Amend BCO 58-4 to Clarify Session Discretion in Inviting Communicants to the Lord's Supper](../markdown/ga15_1987.md#ga15-p45) | GA15 referred the BCO 58-4 matter to an ad interim study committee. |
+| 1987 | Overture | explicit_citation | direct_text | high | [Amend BCO 58-4 to Clarify Session Discretion in Inviting Communicants to the Lord's Supper](../markdown/ga15_1987.md#ga15-p45) | Related BCO 58-4 revision approved by GA18 but not ratified (GA20) |
 | 2025 | RPR exception | structured_exception_tag | structured_provision_tag | medium | [Arizona: Reason for evangelist calls not recorded. Call to “Definite work” and assurance to maintai](../rpr/exc/arizona__070.html) | raised |
 | 2025 | RPR exception | structured_exception_tag | structured_provision_tag | medium | [Korean Capital: There are no annual reports for over half the TEs serving out of bounds (including mission](../rpr/exc/korean-capital__113.html) | raised |
 | 2025 | RPR exception | structured_exception_tag | structured_provision_tag | medium | [Korean Southeastern: Evangelist title granted to TE in area with sufficient REs.](../rpr/exc/korean-southeastern__107.html) | raised |

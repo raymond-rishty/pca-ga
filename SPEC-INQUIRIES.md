@@ -132,7 +132,7 @@ is stamped with its provenance (`headnote_source: digest | generated`).
   referred onward / withdrawn. (The CCB sometimes rules an inquiry isn't a constitutional question
   — "this Constitutional Inquiry is actually a question concerning parliamentary procedure".)
 
-## 6. Record page and index (structure-first, like CASES.md)
+## 6. Record page and index (structure-first, like the judicial catalogue)
 
 `INQUIRIES.md`, grouped by Assembly, one row per inquiry linked to its record page, reusing the
 deep-link page anchors (`#ga<ord>-pN`). The page header contains record metadata and the Digest

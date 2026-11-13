@@ -1,15 +1,15 @@
 #!/usr/bin/env python3
 """
-11_merge_hunt.py — fold hunt results (index/hunt/found/*.json) into the case index.
+11_merge_hunt.py — fold hunt results (data/cases/recovery/hunt/found/*.json) into the case index.
 Each located case carries its canonical identity from the official roster; we add it as
 a real case record (decision) or a findable mention (mention_only/withdrawn), resolve its
 BCO cites to current numbers, and dedup against cases already present. ``not_found``
-results remain audit evidence under ``index/hunt/found`` but are not canonical cases.
+results remain audit evidence under ``data/cases/recovery/hunt/found`` but are not canonical cases.
 Run AFTER 07.
 
-Pipeline:  07_build_cases.py  ->  11_merge_hunt.py  ->  09_reconcile_roster.py --enrich  ->  08_index_cases.py build
+Pipeline:  07_build_cases.py  ->  11_merge_hunt.py  ->  09_reconcile_roster.py --enrich
 
-CLI:  11_merge_hunt.py            # merge found/*.json into cases.jsonl
+CLI:  11_merge_hunt.py            # merge found/*.json into cases_extracted.jsonl
 """
 from __future__ import annotations
 import glob, importlib, json, os, re, sys
@@ -20,9 +20,10 @@ conc = importlib.import_module("bco_concordance")
 rec09 = importlib.import_module("09_reconcile_roster")
 
 ROOT = os.environ.get("PCA_GA_ROOT", os.path.dirname(HERE))
-CASES = ROOT + "/index/cases.jsonl"
-FOUND = ROOT + "/index/hunt/found"
-ROSTER = ROOT + "/index/sjc_official/roster.jsonl"
+CASES = os.environ.get("PCA_CASES_RECORDS", ROOT + "/data/cases/derived/cases_extracted.jsonl")
+PAGE_JSONL_DIR = os.environ.get("PCA_CASE_PAGE_JSONL", ROOT + "/build/page_jsonl")
+FOUND = ROOT + "/data/cases/recovery/hunt/found"
+ROSTER = ROOT + "/data/cases/sources/sjc_official/roster.jsonl"
 
 DISP = re.compile(r"(sustained in part|not sustained|administratively out of order|"
                   r"declared invalid|deemed abandoned|sustained|dismissed|withdrawn|denied|"
@@ -60,7 +61,7 @@ def minutes_caption(vol, cn_raw):
                      % "|".join(re.escape(n) for n in nums), re.I)
     best = None
     try:
-        for l in open(f"{ROOT}/build/page_jsonl/{vol}.pages.jsonl", encoding="utf-8"):
+        for l in open(os.path.join(PAGE_JSONL_DIR, f"{vol}.pages.jsonl"), encoding="utf-8"):
             r = json.loads(l)
             for line in r.get("text", "").split("\n"):
                 mm = pat.match(line.strip())
@@ -77,7 +78,7 @@ def minutes_caption(vol, cn_raw):
 def build_ga_vol_map():
     """ga_ordinal -> canonical vol string (from the page_jsonl filenames)."""
     out = {}
-    for fp in glob.glob(ROOT + "/build/page_jsonl/ga*_*.pages.jsonl"):
+    for fp in glob.glob(os.path.join(PAGE_JSONL_DIR, "ga*_*.pages.jsonl")):
         b = os.path.basename(fp)
         m = re.match(r"(ga(\d+)_\d{4})", b)
         if m:
@@ -128,6 +129,24 @@ def main():
         ros = roster.get(key, {})
         if key in have:
             ex = have[key]
+            # A mention-only hunt recovery locates a docket reference, not the
+            # decision itself. Preserve an extracted decision at this docket;
+            # the recovery JSON remains available as provenance, but must not
+            # demote the located record or replace its assembly/page metadata.
+            # Retain the official roster identity on that extracted row so the
+            # roster reconciler can confirm it without relying on title overlap.
+            provenance = ex.get("provenance") or {}
+            has_extracted_record = bool(
+                provenance.get("chunk_ids") or provenance.get("window_ids")
+            )
+            if status == "mention_only" and has_extracted_record:
+                ex["canonical_number"] = ros.get("case_number_raw")
+                ex["canonical_title"] = ros.get("title")
+                ex["official_pdf_url"] = ros.get("pdf_url")
+                ex["official_year"] = ros.get("year")
+                ex["in_official_roster"] = True
+                skipped += 1
+                continue
             # does the case already at this docket key actually match the roster? (same
             # test the reconciler uses, so 11 and 09 agree on what counts as a match)
             r_lead, r_court = rec09.split_title(ros.get("title") or "")
@@ -191,7 +210,7 @@ def main():
     print(f"[merge-hunt] found={len(found)}  added={added} (mention/withdrawn={mentions})  "
           f"not-found={unresolved}  skipped-correct={skipped}  "
           f"demoted-misnumbered={demoted}")
-    print(f"             cases.jsonl now {len(cases)} rows")
+    print(f"             {CASES} now has {len(cases)} rows")
 
 
 if __name__ == "__main__":

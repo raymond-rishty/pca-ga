@@ -15,7 +15,7 @@ You don't have to browse this by hand. Point **any AI assistant that can browse 
 ## Catalogues
 
 - **[Overtures](index/OVERTURES.md)** — 2,028 overtures across all assemblies, each with a subject and final outcome (incl. cross-GA **ratification** of BCO amendments — 84 confirmed ratified, with evidence). *"Has the PCA considered this before, and how did it end?"*
-- **[Judicial cases](index/JUDICIAL-CASES.html)** — the canonical one-row-per-rostered-case SJC/CJB catalogue, preserving canonical, legacy, era-based, and Minutes IDs, with proceeding types, dispositions, summaries, BCO / Westminster Standards provisions, topic tags, and source records; also **[by constitutional provision](index/CASES-BY-PROVISION.md)** with auditable tag sources and line evidence. The older **[legacy case index](index/CASES.md)** is retained for compatibility. Taxonomy rules are documented in **[the judicial-case taxonomy](docs/JUDICIAL-CASE-TAXONOMY.md)** and data is exported as [`index/judicial_cases.jsonl`](index/judicial_cases.jsonl).
+- **[Judicial cases](index/JUDICIAL-CASES.html)** — the canonical SJC/CJB catalogue, with one row per unique canonical docket assembled from the official roster and approved supplemental cases. It preserves canonical, legacy, era-based, and Minutes IDs, with proceeding types, dispositions, summaries, BCO / Westminster Standards provisions, topic tags, and source records; also **[by constitutional provision](index/CASES-BY-PROVISION.md)** with auditable tag sources and line evidence. Taxonomy rules are documented in **[the judicial-case taxonomy](docs/JUDICIAL-CASE-TAXONOMY.md)** and data is exported as [`data/cases/records/judicial_cases.jsonl`](data/cases/records/judicial_cases.jsonl).
 - **[Constitutional inquiries](index/INQUIRIES.md)** — questions of constitutional interpretation answered by the CCB, each with a Digest-level headnote + the verbatim record. *"What has the CCB said about this provision?"* (CCB advice on overtures/amendments is catalogued separately in **[CCB advice](index/CCB-OVERTURE-ADVICE.md)**.)
 - **[Review of Presbytery Records](index/RPR.md)** — every **exception of substance** taken to a presbytery's minutes (the constitutional-compliance record), threaded across the years it was disputed (raised → satisfactory/unsatisfactory), with the full verbatim text, deep links, and SJC escalations. Also **[by provision](index/RPR-BY-PROVISION.md)**. *"Which presbyteries were cited under this BCO provision, and was it resolved?"*
 - **[Position papers & study committee reports](index/STUDIES.md)** — the denomination's position papers: study-committee / ad-interim reports, pastoral letters, declarations, and adopted resolutions, each linking to the **full verbatim report** in the minutes (grouped by topic, following the PCA Historical Center's *Studies & Reports* index). *"What has the PCA officially said on this topic?"*
@@ -81,11 +81,11 @@ You don't have to browse this by hand. Point **any AI assistant that can browse 
 
 ## Data & queries
 
-The markdown above is the human-readable corpus. A companion **SQLite full-text database** (`pca_minutes.db`, ~260 MB — over GitHub's file limit) and the per-page source text (`build/page_jsonl/`) are **hosted separately**:
-
-> 📦 **Data download:** _add link here (e.g. Google Drive)_
-
-That DB indexes every page (FTS5) and holds the structured `overtures`, `cases`, and `structure` tables. See **[PORTABLE.md](PORTABLE.md)** for its schema and query recipes. Everything is reproducible from `scripts/` (the build pipeline).
+The Markdown corpus and checked-in catalogues are the readable records. The
+portable SQLite index at `index/pca_minutes.db` supplies full-text search and
+the complete structural and overture layers. Rebuild it through Gradle task
+`buildMinutesDatabase`. See **[PORTABLE.md](PORTABLE.md)** for the data and
+build architecture.
 
 To build and validate the GitHub Pages site locally before pushing, see **[the local build instructions](docs/local-build.md)**.
 

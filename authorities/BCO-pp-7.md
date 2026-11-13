@@ -5,23 +5,24 @@
 | Year | Record type | Relationship | Evidence | Confidence | Title | Disposition |
 |------|-------------|--------------|----------|------------|-------|-------------|
 | 2025 | Judicial case | explicit_citation | direct_text | high | [Martinez v. Pacific Presbytery](../cases/ga52_2025__2023-20.md) | sustained |
-| 2024 | Judicial case | explicit_citation | direct_text | high | [Knox Baird et al. v. Grace Presbytery](../cases/ga51_2024__2023-06_2023-08.md) | partially_sustained |
+| 2024 | Judicial case | explicit_citation | direct_text | high | [Knox Baird et al. v. Grace Presbytery](../cases/ga51_2024__2023-06_2023-08.md) | Complaints sustained in the main; one specification denied and one not reached |
 | 2022 | Judicial case | explicit_citation | direct_text | high | [Dudt v. Northwest Georgia Presbytery](../cases/ga49_2022__2021-13.md) | sustained |
-| 2021 | Judicial case | explicit_citation | direct_text | high | [Malone v. Metro NY](../cases/ga36_2008__2007-02.md) |  |
-| 2014 | Judicial case | explicit_citation | direct_text | high | [Charles Tarter v. Evangel Presbytery](../cases/ga42_2014__2012-03.md) | sustained |
-| 2005 | Judicial case | explicit_citation | direct_text | high | [Nichols and Couch v. James River Presbytery](../cases/ga33_2005__2001-34_2002-02_2002-03.md) | partially_sustained |
-| 2003 | Judicial case | explicit_citation | direct_text | high | [Charles Kim v. Korean Capital Presbytery](../cases/ga30_2002__2001-01.md) | dismissed |
-| 2002 | Judicial case | explicit_citation | direct_text | high | [Sung Keon Kim v. Korean Capital Presbytery](../cases/ga30_2002__2000-09.md) |  |
-| 2001 | Judicial case | explicit_citation | direct_text | high | [Robert M. Shive v. Central Carolina Presbytery](../cases/ga26_1998__1997-09.md) | sustained |
-| 1997 | Judicial case | explicit_citation | direct_text | high | [Edgemont Session v. Westminster Presbytery](../cases/ga25_1997__1995-07.md) | sustained |
+| 2021 | Judicial case | explicit_citation | direct_text | high | [Malone v. Metro NY](../cases/ga36_2008__2007-02.md) | Complaint sustained in part; judgment and censure vacated |
+| 2014 | Judicial case | explicit_citation | direct_text | high | [Charles Tarter v. Evangel Presbytery](../cases/ga42_2014__2012-03.md) | Appeal sustained; judgment and censure vacated and matter remanded for constitutionally compliant proceedings or dismissal |
+| 2005 | Judicial case | explicit_citation | direct_text | high | [Nichols and Couch v. James River Presbytery](../cases/ga33_2005__2001-34_2002-02_2002-03.md) | mixed; sustained in part |
+| 2003 | Judicial case | explicit_citation | direct_text | high | [Charles Kim v. Korean Capital Presbytery](../cases/ga30_2002__2001-01.md) | Presbytery and commission action reversed; original jurisdiction belonged to the local Session |
+| 2002 | Judicial case | explicit_citation | direct_text | high | [Sung Keon Kim v. Korean Capital Presbytery](../cases/ga30_2002__2000-09.md) | Presbytery action and subsequent commission acts annulled for unauthorized replacement of the Session |
+| 2001 | Judicial case | explicit_citation | direct_text | high | [Robert M. Shive v. Central Carolina Presbytery](../cases/ga26_1998__1997-09.md) | Excommunication reversed; remanded for indefinite suspension from the sacraments under BCO 36-5 |
+| 1997 | Judicial case | explicit_citation | direct_text | high | [Edgemont Session v. Westminster Presbytery](../cases/ga25_1997__1995-07.md) | complaint denied |
 | 1994 | Judicial case | explicit_citation | direct_text | high | [Smith v. Northeast Presbytery](../cases/ga22_1994__1993-01.md) | denied |
+| 1992 | Judicial case | structured_case_reference | structured_case_metadata | medium | [Nickoley and Stephens v. Southwest Presbytery](../cases/ga20_1992__1991-02.md) | not_sustained |
 | 1991 | Judicial case | explicit_citation | direct_text | high | [Chappell v. Eastern Carolina Presbytery](../cases/ga19_1991__1990-04.md) | sustained |
 | 1991 | Judicial case | explicit_citation | direct_text | high | [Marshall v. Eastern Carolina Presbytery](../cases/ga19_1991__1990-04a.md) | sustained |
 | 2018 | CCB advice | structured_provision_tag | structured_provision_tag | medium | [Altering and Refining the Language of BCO 59](../inquiries/ga46_2018__ci02.md) | in conflict |
 | 2018 | CCB advice | structured_provision_tag | structured_provision_tag | medium | [The Roles and Description of Unordained Deaconesses and Deacon Assistants](../inquiries/ga46_2018__ci04.md) | in conflict |
 | 2002 | CCB advice | structured_provision_tag | structured_provision_tag | medium | [Handling Exceptions to the Westminster Standards](../inquiries/ga30_2002__ci04.md) | in conflict |
 | 2002 | CCB advice | structured_provision_tag | structured_provision_tag | medium | [Recording All Exceptions to Presbytery and the General Assembly](../inquiries/ga30_2002__ci03.md) | in conflict |
-| 2022 | Overture | explicit_citation | direct_text | high | [Adopt a Statement on Political Violence](../markdown/ga49_2022.md#ga49-p1354) | answered in the negative, 1108-371 |
+| 2022 | Overture | explicit_citation | direct_text | high | [Adopt a Statement on Political Violence](../markdown/ga49_2022.md#ga49-p1354) | Answered in the negative |
 | 2015 | Overture | explicit_citation | direct_text | high | [Amend BCO 35-1 to Require Church Officers and Accusers to Testify](../markdown/ga43_2015.md#ga43-p610) | Answered in the negative |
 | 2010 | Overture | explicit_citation | direct_text | high | [Amend BCO 1-4, 4-2, 5-10, 7-2, 9-2, 9-7 and Add BCO 9-8 for Unordained Diaconal Ministry](../markdown/ga38_2010.md#ga38-p394) | Answered in the negative |
 | 2002 | Overture | explicit_citation | direct_text | high | [Amend BCO 21-4 to Clarify Good Faith Subscription Standards](../markdown/ga30_2002.md#ga30-p233) | Answered by reference |
@@ -30,7 +31,7 @@
 | 2002 | Overture | explicit_citation | direct_text | high | [Specify Good Faith Subscription (Version 2) in BCO](../markdown/ga30_2002.md#ga30-p221) | Adopted as amended |
 | 2002 | Overture | explicit_citation | direct_text | high | [Specify Good Faith Subscription (Version 3) in BCO](../markdown/ga30_2002.md#ga30-p226) | Answered by reference |
 | 2002 | Overture | explicit_citation | direct_text | high | [Specify Good Faith Subscription (Version 4) in BCO](../markdown/ga30_2002.md#ga30-p228) | Answered by reference |
-| 1996 | Overture | explicit_citation | direct_text | high | [Take No Action to Change BCO 38-2, 46-2, and 46-5 on Member Dismissal](../markdown/ga24_1996.md#ga24-p305) | Answered by reference to Overture 27 |
+| 1996 | Overture | explicit_citation | direct_text | high | [Take No Action to Change BCO 38-2, 46-2, and 46-5 on Member Dismissal](../markdown/ga24_1996.md#ga24-p305) | Answered by reference |
 | 2022 | RPR exception | exception_target | direct_text | high | [Palmetto: Presbytery prohibited two licentiates from preaching or teaching their views to difference](../rpr/exc/palmetto__043.html) | satisfactory |
 | 2021 | RPR exception | multiple | direct_text | high | [Calvary: Presbytery prohibited TE from teaching his accepted view, contrary to our practice of Good](../rpr/exc/calvary__106.html) | raised |
 | 2021 | RPR exception | multiple | direct_text | high | [Calvary: Presbytery prohibited TE from teaching his accepted view, contrary to our practice of Good](../rpr/exc/calvary__107.html) | raised |

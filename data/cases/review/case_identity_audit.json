@@ -1,0 +1,1476 @@
+{
+  "schema_version": 1,
+  "policy": {
+    "description": "Identity discrepancies are candidates, not automatic corrections.",
+    "evidence_order": [
+      "case's own docket caption at the top of the decision or status notice",
+      "explicit year-based docket in the decision",
+      "later SJC/GA citation pairing caption and year-based docket",
+      "contemporary Case #N era label",
+      "Historical Center roster fallback"
+    ],
+    "title_score_minimum": 0.62,
+    "title_score_strong": 0.82,
+    "max_roster_year": null
+  },
+  "summary": {
+    "roster_rows_checked": 480,
+    "extracted_rows_checked": 829,
+    "canonical_rows_checked": 548,
+    "explicit_citations_scanned": 3603,
+    "findings": 17,
+    "high_confidence": 15,
+    "medium_confidence": 0,
+    "by_kind": {
+      "roster_reconciliation": 14,
+      "unrepresented_extracted_case": 3
+    },
+    "by_flag": {
+      "explicit_citation_disagrees_with_roster": 3,
+      "no_same_id_extracted_case": 3,
+      "possible_cross_id_caption_match": 1,
+      "same_id_caption_conflict": 11,
+      "strong_cross_id_caption_match": 2,
+      "substantive_extracted_case_absent_from_canonical_catalog": 3
+    }
+  },
+  "findings": [
+    {
+      "kind": "roster_reconciliation",
+      "confidence": "high",
+      "roster_id": "1995-10",
+      "roster_id_raw_normalized": "1995-10",
+      "roster_id_raw": "1995-10",
+      "roster_title": "). P then sought to Reference the trial to the SJC, which the SJC declined (Case 1996-07). P declined",
+      "effective_roster_title": "Stuart Merriam v. Tennessee Valley Presbytery (Appeal)",
+      "roster_year": 1995,
+      "roster_source_line": 99,
+      "same_id_title_score": 0.0,
+      "same_id_cases": [
+        {
+          "case_id": "1995-10",
+          "title": "Stuart Merriam vs. Tennessee Valley Presbytery (Appeal)",
+          "source_line": 705
+        },
+        {
+          "case_id": "1995-10",
+          "title": "Stuart Merriam v. Tennessee Valley Presbytery (Appeal)",
+          "source_line": 132
+        }
+      ],
+      "best_extracted_matches": [
+        {
+          "case_id": "2010-06",
+          "title": "Yuan: An appeal to the SJC alleging a \"minister's heresy\"",
+          "score": 0.2353,
+          "source_line": 808,
+          "quality": 2
+        },
+        {
+          "case_id": "2002-04",
+          "title": "Judicial Reference from Evangel Presbytery for Adjudication Not acceded to by the SJC, See 31-35, II, p. 93",
+          "score": 0.2308,
+          "source_line": 747,
+          "quality": 6
+        },
+        {
+          "case_id": null,
+          "title": "Pre-SJC judicial cases (GA 9): Complaint of RE Zeigler v. the Presbytery; to Adjudicate the Case of RE Robert H. Zeigler v. the Presbytery; complaint of re lewis et al. v. Grace Pre",
+          "score": 0.1905,
+          "source_line": 27,
+          "quality": 6
+        }
+      ],
+      "explicit_citations": [],
+      "flags": [
+        "same_id_caption_conflict"
+      ],
+      "suggested_canonical_id": "1995-10",
+      "suggested_corrected_title": "Stuart Merriam vs. Tennessee Valley Presbytery (Appeal)",
+      "suggestion_reasons": [
+        "same docket in the minutes-derived corpus has a conflicting caption"
+      ],
+      "suggested_override": {
+        "status": "needs_review",
+        "roster_id": "1995-10",
+        "title_contains": "07",
+        "canonical_id": "1995-10",
+        "corrected_title": "Stuart Merriam vs. Tennessee Valley Presbytery (Appeal)",
+        "evidence": [
+          "data/cases/derived/cases_reconciled.jsonl:705",
+          "data/cases/derived/cases_reconciled.jsonl:132"
+        ],
+        "note": "same docket in the minutes-derived corpus has a conflicting caption"
+      }
+    },
+    {
+      "kind": "roster_reconciliation",
+      "confidence": "high",
+      "roster_id": "1997-07",
+      "roster_id_raw_normalized": "1997-07",
+      "roster_id_raw": "1997-07",
+      "roster_title": "Black v. Eastern Carolina — M29GA, 2001 Dallas, p. 98. Not sustained 13-3. D-Op Summary: Alleged P failed to consider C, and erred by ruling the licentiate had \"not taken an exception to WCF regarding creation.\" Issues: 1. At its October 1999 meeting, by failing to either sustain or deny TE Black's",
+      "effective_roster_title": "Black v. Eastern Carolina — M29GA, 2001 Dallas, p. 98. Not sustained 13-3. D-Op Summary: Alleged P failed to consider C, and erred by ruling the licentiate had \"not taken an exception to WCF regarding creation.\" Issues: 1. At its October 1999 meeting, by failing to either sustain or deny TE Black's",
+      "roster_year": 1997,
+      "roster_source_line": 109,
+      "same_id_title_score": 0.0,
+      "same_id_cases": [
+        {
+          "case_id": "1997-07",
+          "title": "Steve Farris v. Central Florida Presbytery",
+          "source_line": 711
+        },
+        {
+          "case_id": "1997-07",
+          "title": "Steve Farris v. Central Florida Presbytery",
+          "source_line": 148
+        }
+      ],
+      "best_extracted_matches": [
+        {
+          "case_id": "1999-07",
+          "title": "Jeffrey M. Black v. Eastern Carolina Presbytery",
+          "score": 0.8571,
+          "source_line": 260,
+          "quality": 10
+        },
+        {
+          "case_id": "1990-04",
+          "title": "Chappell v. Eastern Carolina Presbytery",
+          "score": 0.6667,
+          "source_line": 146,
+          "quality": 10
+        },
+        {
+          "case_id": "1990-04a",
+          "title": "Marshall v. Eastern Carolina Presbytery",
+          "score": 0.6667,
+          "source_line": 147,
+          "quality": 10
+        }
+      ],
+      "explicit_citations": [
+        {
+          "case_id": "1997-07",
+          "path": "cases/ga46_2018__2017-01.md",
+          "line": 295,
+          "text": "Case 1997-07: Black v. Eastern Carolina, M29GA, Dallas 2001, p. 98.",
+          "title_score": 1.0
+        },
+        {
+          "case_id": "1999-07",
+          "path": "markdown/ga28_2000.md",
+          "line": 5282,
+          "text": "10. Case 99-7 Jeffrey M. Black vs Eastern Carolina Presbytery (Complaint)",
+          "title_score": 1.0
+        },
+        {
+          "case_id": "1999-07",
+          "path": "markdown/ga29_2001.md",
+          "line": 3177,
+          "text": "5. Case 99-7 Jeffrey M. Black vs. Eastern Carolina Presbytery (Complaint)",
+          "title_score": 1.0
+        },
+        {
+          "case_id": "1999-07",
+          "path": "markdown/ga29_2001.md",
+          "line": 15567,
+          "text": "5. Case 99-7 Jeffrey M. Black vs. Eastern Carolina Presbytery (Complaint)",
+          "title_score": 1.0
+        },
+        {
+          "case_id": "1997-07",
+          "path": "markdown/ga46_2018.md",
+          "line": 10847,
+          "text": "Case 1997-07: Black v. Eastern Carolina, M29GA, Dallas 2001, p. 98.",
+          "title_score": 1.0
+        },
+        {
+          "case_id": "1990-08",
+          "path": "cases/ga19_1991__1990-08.md",
+          "line": 347,
+          "text": "### CONCURRING OPINION CASE 90-8 T.E. DAVID E. BOWEN EASTERN CAROLINA PRESBYTERY",
+          "title_score": 0.6667
+        },
+        {
+          "case_id": "1990-04",
+          "path": "cases/ga25_1997__1995-07.md",
+          "line": 157,
+          "text": "court (see Chappell v. Eastern Carolina Presbytery — SJC Case 90-4 — PCA",
+          "title_score": 0.6667
+        },
+        {
+          "case_id": "1990-08",
+          "path": "cases/ga26_1998__1997-05.md",
+          "line": 299,
+          "text": "1. In Case 90-8 Bowen vs. Eastern Carolina Presbytery, the GA adopted the following: \"For instance, there has always been great leeway in approving men for office in the PCA who hold differing views of eschatology.... However, the church has allowed men to become officers and remain in good standing even though they hold differing views.... The same thing could be said for the subject of divorce.... Other doctrines in which the PCA has granted a measure of freedom are: in the area of creation, w",
+          "title_score": 0.6667
+        }
+      ],
+      "flags": [
+        "same_id_caption_conflict"
+      ],
+      "suggested_canonical_id": "1997-07",
+      "suggested_corrected_title": "Steve Farris v. Central Florida Presbytery",
+      "suggestion_reasons": [
+        "same docket in the minutes-derived corpus has a conflicting caption"
+      ],
+      "suggested_override": {
+        "status": "needs_review",
+        "roster_id": "1997-07",
+        "title_contains": "black",
+        "canonical_id": "1997-07",
+        "corrected_title": "Steve Farris v. Central Florida Presbytery",
+        "evidence": [
+          "cases/ga46_2018__2017-01.md:295",
+          "markdown/ga46_2018.md:10847"
+        ],
+        "note": "same docket in the minutes-derived corpus has a conflicting caption"
+      }
+    },
+    {
+      "kind": "roster_reconciliation",
+      "confidence": "high",
+      "roster_id": "1997-15",
+      "roster_id_raw_normalized": "1997-15",
+      "roster_id_raw": "1997-15",
+      "roster_title": "George v. Central Florida [ M26GA (1998): 148. This case was deemed abandoned due to death of Complainant without heirs",
+      "effective_roster_title": "George v. Central Florida [ M26GA (1998): 148. This case was deemed abandoned due to death of Complainant without heirs",
+      "roster_year": 1997,
+      "roster_source_line": 117,
+      "same_id_title_score": 0.3,
+      "same_id_cases": [
+        {
+          "case_id": "1997-15",
+          "title": "Onda George vs. Central Florida Presbytery (Complaint)",
+          "source_line": 718
+        },
+        {
+          "case_id": "1997-15",
+          "title": "Onda George v. Central Florida Presbytery (Complaint)",
+          "source_line": 156
+        }
+      ],
+      "best_extracted_matches": [
+        {
+          "case_id": "1997-15",
+          "title": "Onda George vs. Central Florida Presbytery (Complaint)",
+          "score": 0.3,
+          "source_line": 718,
+          "quality": 5
+        },
+        {
+          "case_id": "1997-14",
+          "title": "Onda George vs. Central Florida Presbytery (Complaint)",
+          "score": 0.3,
+          "source_line": 717,
+          "quality": 4
+        },
+        {
+          "case_id": "1977-02",
+          "title": "TE John Kim vs. Texas Presbytery [ M5GA (1977): 89-90. Case was deemed abandoned",
+          "score": 0.2308,
+          "source_line": 684,
+          "quality": 9
+        }
+      ],
+      "explicit_citations": [],
+      "flags": [
+        "same_id_caption_conflict"
+      ],
+      "suggested_canonical_id": "1997-15",
+      "suggested_corrected_title": "Onda George vs. Central Florida Presbytery (Complaint)",
+      "suggestion_reasons": [
+        "same docket in the minutes-derived corpus has a conflicting caption"
+      ],
+      "suggested_override": {
+        "status": "needs_review",
+        "roster_id": "1997-15",
+        "title_contains": "148",
+        "canonical_id": "1997-15",
+        "corrected_title": "Onda George vs. Central Florida Presbytery (Complaint)",
+        "evidence": [
+          "data/cases/derived/cases_reconciled.jsonl:718",
+          "data/cases/derived/cases_reconciled.jsonl:156"
+        ],
+        "note": "same docket in the minutes-derived corpus has a conflicting caption"
+      }
+    },
+    {
+      "kind": "roster_reconciliation",
+      "confidence": "high",
+      "roster_id": "2001-01",
+      "roster_id_raw_normalized": "2001-01",
+      "roster_id_raw": "2001-01",
+      "roster_title": "Morrison v. Philadelphia — M29GA, 2001 Dallas, p. 114. Not sustained 18-0 Summary: Alleged P failed to constitutionally handle a \"Memorial\" alleging a S was guilty of a \"grossly unconstitutional proceeding\" involving a dispute between two REs not on the S. Issue: Did P act in an unconstitutional man",
+      "effective_roster_title": "Morrison v. Philadelphia — M29GA, 2001 Dallas, p. 114. Not sustained 18-0 Summary: Alleged P failed to constitutionally handle a \"Memorial\" alleging a S was guilty of a \"grossly unconstitutional proceeding\" involving a dispute between two REs not on the S. Issue: Did P act in an unconstitutional man",
+      "roster_year": 2001,
+      "roster_source_line": 144,
+      "same_id_title_score": 0.0,
+      "same_id_cases": [
+        {
+          "case_id": "2001-01",
+          "title": "Charles Kim v. Korean Capital Presbytery",
+          "source_line": 293
+        },
+        {
+          "case_id": "2001-01",
+          "title": "Charles Kim v. Korean Capital Presbytery",
+          "source_line": 185
+        }
+      ],
+      "best_extracted_matches": [
+        {
+          "case_id": "1989-04",
+          "title": "Morrison v. Philadelphia Presbytery",
+          "score": 1.0,
+          "source_line": 131,
+          "quality": 8
+        },
+        {
+          "case_id": "1989-09",
+          "title": "Morrison v. Philadelphia Presbytery",
+          "score": 1.0,
+          "source_line": 133,
+          "quality": 8
+        },
+        {
+          "case_id": "1987-01",
+          "title": "Morrison et al. v. Philadelphia Presbytery",
+          "score": 1.0,
+          "source_line": 94,
+          "quality": 4
+        }
+      ],
+      "explicit_citations": [
+        {
+          "case_id": "2002-18",
+          "path": "cases/ga32_2004__2002-18.md",
+          "line": 23,
+          "text": "## JUDICIAL CASE 2002-18 COMPLAINT AND REFERENCE TE MARK HERZER AND TE ERWIN MORRISON VS. PHILADELPHIA PRESBYTERY",
+          "title_score": 1.0
+        },
+        {
+          "case_id": "2000-01",
+          "path": "markdown/ga28_2000.md",
+          "line": 5283,
+          "text": "11. Case 00-1 Erwin Morrison, et al. vs Philadelphia Presbytery (Complaint)",
+          "title_score": 1.0
+        },
+        {
+          "case_id": "2000-01",
+          "path": "markdown/ga28_2000.md",
+          "line": 14091,
+          "text": "11. Case 00-1 Erwin Morrison, et al. vs Philadelphia Presbytery (Complaint)",
+          "title_score": 1.0
+        },
+        {
+          "case_id": "2000-01",
+          "path": "markdown/ga29_2001.md",
+          "line": 3178,
+          "text": "6. Case 00-1 Erwin Morrison, et al. vs. Philadelphia Presbytery (Complaint)",
+          "title_score": 1.0
+        },
+        {
+          "case_id": "2000-01",
+          "path": "markdown/ga29_2001.md",
+          "line": 15570,
+          "text": "6. Case 00-1 Erwin Morrison, et al. vs. Philadelphia Presbytery (Complaint)",
+          "title_score": 1.0
+        },
+        {
+          "case_id": "2002-18",
+          "path": "markdown/ga32_2004.md",
+          "line": 2152,
+          "text": "## JUDICIAL CASE 2002-18 COMPLAINT AND REFERENCE TE MARK HERZER AND TE ERWIN MORRISON VS. PHILADELPHIA PRESBYTERY",
+          "title_score": 1.0
+        }
+      ],
+      "flags": [
+        "same_id_caption_conflict"
+      ],
+      "suggested_canonical_id": "2001-01",
+      "suggested_corrected_title": "Charles Kim v. Korean Capital Presbytery",
+      "suggestion_reasons": [
+        "same docket in the minutes-derived corpus has a conflicting caption"
+      ],
+      "suggested_override": {
+        "status": "needs_review",
+        "roster_id": "2001-01",
+        "title_contains": "morrison",
+        "canonical_id": "2001-01",
+        "corrected_title": "Charles Kim v. Korean Capital Presbytery",
+        "evidence": [
+          "data/cases/derived/cases_reconciled.jsonl:293",
+          "data/cases/derived/cases_reconciled.jsonl:185"
+        ],
+        "note": "same docket in the minutes-derived corpus has a conflicting caption"
+      }
+    },
+    {
+      "kind": "roster_reconciliation",
+      "confidence": "high",
+      "roster_id": "2002-02",
+      "roster_id_raw_normalized": "2002-02",
+      "roster_id_raw": "2002-02",
+      "roster_title": "; Complaint 16-01, Judicial Case 2002-03; Complaint 18-01, Judicial Case 2002-03; Complaint 19-01,",
+      "effective_roster_title": "; Complaint 16-01, Judicial Case 2002-03; Complaint 18-01, Judicial Case 2002-03; Complaint 19-01,",
+      "roster_year": 2002,
+      "roster_source_line": 182,
+      "same_id_title_score": 0.0,
+      "same_id_cases": [
+        {
+          "case_id": "2002-02",
+          "title": "Nichols and Couch v. James River Presbytery",
+          "source_line": 315
+        },
+        {
+          "case_id": "2002-02",
+          "title": "Nichols and Couch v. James River Presbytery",
+          "source_line": 223
+        }
+      ],
+      "best_extracted_matches": [
+        {
+          "case_id": "2008-16",
+          "title": "Judicial Case 2008-16",
+          "score": 0.4,
+          "source_line": 391,
+          "quality": 6
+        },
+        {
+          "case_id": null,
+          "title": "Judicial Case 2008-18",
+          "score": 0.4,
+          "source_line": 392,
+          "quality": 6
+        },
+        {
+          "case_id": null,
+          "title": "Judicial Case 32-18",
+          "score": 0.4,
+          "source_line": 187,
+          "quality": 2
+        }
+      ],
+      "explicit_citations": [
+        {
+          "case_id": "2002-03",
+          "path": "cases/ga33_2005__2001-34_2002-02_2002-03.md",
+          "line": 364,
+          "text": "C-18-01 and C-19-01. These complaints were against action by JRP at its July 14, 2001 meeting approving certain actions and recommendations of its Judicial Commission. There is no such action in the ROC (Case 02-03). The action was taken at the January 19-20, 2002 meeting of JRP. The complaints against such action of JRP on February 19, 2002 were filed with SJC of PCA instead of first filing with JRP. Therefore these complaints are judicially out of order.",
+          "title_score": 0.8571
+        },
+        {
+          "case_id": "2002-03",
+          "path": "markdown/ga33_2005.md",
+          "line": 1560,
+          "text": "C-18-01 and C-19-01. These complaints were against action by JRP at its July 14, 2001 meeting approving certain actions and recommendations of its Judicial Commission. There is no such action in the ROC (Case 02-03). The action was taken at the January 19-20, 2002 meeting of JRP. The complaints against such action of JRP on February 19, 2002 were filed with SJC of PCA instead of first filing with JRP. Therefore these complaints are judicially out of order.",
+          "title_score": 0.8571
+        },
+        {
+          "case_id": "2010-27",
+          "path": "markdown/ga40_2012.md",
+          "line": 10029,
+          "text": "Of these, Cases 2011-01, 2011-05, 2011-10 and 2011-19 were found to be Administratively Out of Order; Case 2010-27 was found Judicially Out of Order; Cases 2011-11, 2011-12, 2011-15, 2011-16 [with the same panel], 2011-14, 2011-17, and 2011-18 are with Panels (at time of writing this report); Case 2011-06 is in process; Cases 2010-01 and 2011-13 were dismissed; Cases 2012-01, 2012-02, 2012-03, and 2012-04 are waiting for panel choices. The Standing Judicial Commission has completed its work on 2",
+          "title_score": 0.8571
+        },
+        {
+          "case_id": "2011-06",
+          "path": "markdown/ga40_2012.md",
+          "line": 10029,
+          "text": "Of these, Cases 2011-01, 2011-05, 2011-10 and 2011-19 were found to be Administratively Out of Order; Case 2010-27 was found Judicially Out of Order; Cases 2011-11, 2011-12, 2011-15, 2011-16 [with the same panel], 2011-14, 2011-17, and 2011-18 are with Panels (at time of writing this report); Case 2011-06 is in process; Cases 2010-01 and 2011-13 were dismissed; Cases 2012-01, 2012-02, 2012-03, and 2012-04 are waiting for panel choices. The Standing Judicial Commission has completed its work on 2",
+          "title_score": 0.8571
+        },
+        {
+          "case_id": "2002-03",
+          "path": "cases/ga33_2005__2001-34_2002-02_2002-03.md",
+          "line": 322,
+          "text": "Complaint 16-01, Judicial Case 2002-03",
+          "title_score": 0.7143
+        },
+        {
+          "case_id": "2002-03",
+          "path": "cases/ga33_2005__2001-34_2002-02_2002-03.md",
+          "line": 324,
+          "text": "Complaint 18-01, Judicial Case 2002-03",
+          "title_score": 0.7143
+        },
+        {
+          "case_id": "2002-03",
+          "path": "cases/ga33_2005__2001-34_2002-02_2002-03.md",
+          "line": 326,
+          "text": "Complaint 19-01, Judicial Case 2002-03",
+          "title_score": 0.7143
+        },
+        {
+          "case_id": "2002-03",
+          "path": "markdown/ga33_2005.md",
+          "line": 1516,
+          "text": "Complaint 16-01, Judicial Case 2002-03",
+          "title_score": 0.7143
+        }
+      ],
+      "flags": [
+        "same_id_caption_conflict"
+      ],
+      "suggested_canonical_id": "2002-02",
+      "suggested_corrected_title": "Nichols and Couch v. James River Presbytery",
+      "suggestion_reasons": [
+        "same docket in the minutes-derived corpus has a conflicting caption"
+      ],
+      "suggested_override": {
+        "status": "needs_review",
+        "roster_id": "2002-02",
+        "title_contains": "01",
+        "canonical_id": "2002-02",
+        "corrected_title": "Nichols and Couch v. James River Presbytery",
+        "evidence": [
+          "data/cases/derived/cases_reconciled.jsonl:315",
+          "data/cases/derived/cases_reconciled.jsonl:223"
+        ],
+        "note": "same docket in the minutes-derived corpus has a conflicting caption"
+      }
+    },
+    {
+      "kind": "roster_reconciliation",
+      "confidence": "high",
+      "roster_id": "2002-15",
+      "roster_id_raw_normalized": "2002-15",
+      "roster_id_raw": "2002-15",
+      "roster_title": "Bjork v. Philadelphia",
+      "effective_roster_title": "Bjork v. Philadelphia",
+      "roster_year": 2002,
+      "roster_source_line": 193,
+      "same_id_title_score": 0.0,
+      "same_id_cases": [
+        {
+          "case_id": "2002-15",
+          "title": "Walter Bjorck v. Northern New England Presbytery",
+          "source_line": 750
+        },
+        {
+          "case_id": "2002-15",
+          "title": "Walter Bjorck v. Northern New England Presbytery",
+          "source_line": 235
+        }
+      ],
+      "best_extracted_matches": [
+        {
+          "case_id": "1989-06",
+          "title": "DeBardeleben v. Philadelphia Presbytery",
+          "score": 0.5,
+          "source_line": 132,
+          "quality": 10
+        },
+        {
+          "case_id": "2002-14",
+          "title": "Lachman v. Philadelphia Presbytery",
+          "score": 0.5,
+          "source_line": 304,
+          "quality": 10
+        },
+        {
+          "case_id": "2002-05",
+          "title": "Plowman v. Philadelphia Presbytery",
+          "score": 0.5,
+          "source_line": 308,
+          "quality": 10
+        }
+      ],
+      "explicit_citations": [],
+      "flags": [
+        "same_id_caption_conflict"
+      ],
+      "suggested_canonical_id": "2002-15",
+      "suggested_corrected_title": "Walter Bjorck v. Northern New England Presbytery",
+      "suggestion_reasons": [
+        "same docket in the minutes-derived corpus has a conflicting caption"
+      ],
+      "suggested_override": {
+        "status": "needs_review",
+        "roster_id": "2002-15",
+        "title_contains": "bjork",
+        "canonical_id": "2002-15",
+        "corrected_title": "Walter Bjorck v. Northern New England Presbytery",
+        "evidence": [
+          "data/cases/derived/cases_reconciled.jsonl:750",
+          "data/cases/derived/cases_reconciled.jsonl:235"
+        ],
+        "note": "same docket in the minutes-derived corpus has a conflicting caption"
+      }
+    },
+    {
+      "kind": "roster_reconciliation",
+      "confidence": "high",
+      "roster_id": "2002-26",
+      "roster_id_raw_normalized": "2002-26",
+      "roster_id_raw": "2002-26",
+      "roster_title": "Appeal of Wright v. Northern California",
+      "effective_roster_title": "Appeal of Wright v. Northern California",
+      "roster_year": 2002,
+      "roster_source_line": 197,
+      "same_id_title_score": 0.0,
+      "same_id_cases": [],
+      "best_extracted_matches": [
+        {
+          "case_id": "2002-06",
+          "title": "Appeal of Randall Wright v. Northern California Presbytery",
+          "score": 0.8571,
+          "source_line": 302,
+          "quality": 5
+        },
+        {
+          "case_id": "2009-25",
+          "title": "Brown v. Northern California Presbytery",
+          "score": 0.6667,
+          "source_line": 419,
+          "quality": 10
+        },
+        {
+          "case_id": "2009-26",
+          "title": "Session of Grace Presbyterian Church v. Northern California Presbytery",
+          "score": 0.6667,
+          "source_line": 420,
+          "quality": 10
+        }
+      ],
+      "explicit_citations": [
+        {
+          "case_id": "2002-06",
+          "path": "cases/ga31_2003__2002-06.md",
+          "line": 19,
+          "text": "The SJC docket identifies Case 2002-06 as the appeal of Mr. Randall Wright against Northern California Presbytery. Its report states that Case 2002-06 “was found out of order and withdrawn.” No merits opinion followed.",
+          "title_score": 1.0
+        },
+        {
+          "case_id": "2009-25",
+          "path": "cases/ga39_2011__2009-25_2009-26.md",
+          "line": 23,
+          "text": "CASE 2009-25 COMPLAINT OF TE DAVID BROWN VS. NORTHERN CALIFORNIA PRESBYTERY AND CASE 2009-26 COMPLAINT OF SESSION OF GRACE PRESBYTERIAN CHURCH VS. NORTHERN CALIFORNIA PRESBYTERY",
+          "title_score": 0.6667
+        },
+        {
+          "case_id": "2009-26",
+          "path": "cases/ga39_2011__2009-25_2009-26.md",
+          "line": 23,
+          "text": "CASE 2009-25 COMPLAINT OF TE DAVID BROWN VS. NORTHERN CALIFORNIA PRESBYTERY AND CASE 2009-26 COMPLAINT OF SESSION OF GRACE PRESBYTERIAN CHURCH VS. NORTHERN CALIFORNIA PRESBYTERY",
+          "title_score": 0.6667
+        },
+        {
+          "case_id": "2009-25",
+          "path": "cases/ga39_2011__2009-25_2009-26.md",
+          "line": 157,
+          "text": "CASE 2009-25 COMPLAINT OF TE DAVID BROWN VS. NORTHERN CALIFORNIA PRESBYTERY AND CASE 2009-26 COMPLAINT OF SESSION OF GRACE PRESBYTERIAN CHURCH VS. NORTHERN CALIFORNIA PRESBYTERY CONCURRING OPINION",
+          "title_score": 0.6667
+        },
+        {
+          "case_id": "2009-26",
+          "path": "cases/ga39_2011__2009-25_2009-26.md",
+          "line": 157,
+          "text": "CASE 2009-25 COMPLAINT OF TE DAVID BROWN VS. NORTHERN CALIFORNIA PRESBYTERY AND CASE 2009-26 COMPLAINT OF SESSION OF GRACE PRESBYTERIAN CHURCH VS. NORTHERN CALIFORNIA PRESBYTERY CONCURRING OPINION",
+          "title_score": 0.6667
+        },
+        {
+          "case_id": "2009-24",
+          "path": "markdown/ga38_2010.md",
+          "line": 13920,
+          "text": "Judicial Cases (continued) Case 2009-24 Complaint of RE Roger Phelps vs. Pacific Presbytery In Process, 38-31, p. 129 Case 2009-25 Complaint of David Brown vs. Northern California Presbytery In Process, 38-31, p. 129 Case 2009-26 Complaint of Grace PC Session vs. Northern California Presbytery In Process, 38-31, p. 129 Case 2009-27 Complaint of Dale Cutler vs. Platte Valley Presbytery Ruled Administratively Out of Order, 38-31, p. 129 Case 2009-28 Complaint Matt Ruff vs. Nashville Presbytery In ",
+          "title_score": 0.6667
+        },
+        {
+          "case_id": "2009-25",
+          "path": "markdown/ga38_2010.md",
+          "line": 13920,
+          "text": "Judicial Cases (continued) Case 2009-24 Complaint of RE Roger Phelps vs. Pacific Presbytery In Process, 38-31, p. 129 Case 2009-25 Complaint of David Brown vs. Northern California Presbytery In Process, 38-31, p. 129 Case 2009-26 Complaint of Grace PC Session vs. Northern California Presbytery In Process, 38-31, p. 129 Case 2009-27 Complaint of Dale Cutler vs. Platte Valley Presbytery Ruled Administratively Out of Order, 38-31, p. 129 Case 2009-28 Complaint Matt Ruff vs. Nashville Presbytery In ",
+          "title_score": 0.6667
+        },
+        {
+          "case_id": "2009-26",
+          "path": "markdown/ga38_2010.md",
+          "line": 13920,
+          "text": "Judicial Cases (continued) Case 2009-24 Complaint of RE Roger Phelps vs. Pacific Presbytery In Process, 38-31, p. 129 Case 2009-25 Complaint of David Brown vs. Northern California Presbytery In Process, 38-31, p. 129 Case 2009-26 Complaint of Grace PC Session vs. Northern California Presbytery In Process, 38-31, p. 129 Case 2009-27 Complaint of Dale Cutler vs. Platte Valley Presbytery Ruled Administratively Out of Order, 38-31, p. 129 Case 2009-28 Complaint Matt Ruff vs. Nashville Presbytery In ",
+          "title_score": 0.6667
+        }
+      ],
+      "flags": [
+        "no_same_id_extracted_case",
+        "strong_cross_id_caption_match",
+        "explicit_citation_disagrees_with_roster"
+      ],
+      "suggested_canonical_id": "2002-06",
+      "suggested_corrected_title": null,
+      "suggestion_reasons": [
+        "explicit citation and caption agree"
+      ],
+      "suggested_override": {
+        "status": "needs_review",
+        "roster_id": "2002-26",
+        "title_contains": "california",
+        "canonical_id": "2002-06",
+        "evidence": [
+          "cases/ga31_2003__2002-06.md:19"
+        ],
+        "note": "explicit citation and caption agree"
+      }
+    },
+    {
+      "kind": "roster_reconciliation",
+      "confidence": "high",
+      "roster_id": "2002-27",
+      "roster_id_raw_normalized": "2002-27",
+      "roster_id_raw": "2002-27",
+      "roster_title": "Nichols v. James River",
+      "effective_roster_title": "Nichols v. James River",
+      "roster_year": 2002,
+      "roster_source_line": 198,
+      "same_id_title_score": 0.0,
+      "same_id_cases": [],
+      "best_extracted_matches": [
+        {
+          "case_id": "2001-34",
+          "title": "Nichols and Couch v. James River Presbytery",
+          "score": 0.8571,
+          "source_line": 314,
+          "quality": 10
+        },
+        {
+          "case_id": "2002-02",
+          "title": "Nichols and Couch v. James River Presbytery",
+          "score": 0.8571,
+          "source_line": 315,
+          "quality": 10
+        },
+        {
+          "case_id": "2002-03",
+          "title": "Nichols and Couch v. James River Presbytery",
+          "score": 0.8571,
+          "source_line": 316,
+          "quality": 10
+        }
+      ],
+      "explicit_citations": [
+        {
+          "case_id": "2002-02",
+          "path": "cases/ga30_2002__2002-02_2002-03.md",
+          "line": 28,
+          "text": "40. Case 02-2 Complaint RE Leland Nichols, et al. vs. James River Presbytery",
+          "title_score": 1.0
+        },
+        {
+          "case_id": "2002-03",
+          "path": "cases/ga30_2002__2002-02_2002-03.md",
+          "line": 29,
+          "text": "41. Case 02-3 Complaint RE Leland Nichols, et al. vs. James River Presbytery",
+          "title_score": 1.0
+        },
+        {
+          "case_id": "2002-07",
+          "path": "cases/ga31_2003__2002-07.md",
+          "line": 19,
+          "text": "The SJC docket identifies Case 2002-07 as the complaint of RE Leland Nichols and RE Sam Couch against James River Presbytery. Its report lists Case 2002-07 among the cases “found out of order.” No merits opinion followed under this docket number.",
+          "title_score": 1.0
+        },
+        {
+          "case_id": "2001-34",
+          "path": "cases/ga33_2005__2001-34_2002-02_2002-03.md",
+          "line": 23,
+          "text": "## JUDICIAL CASE 2001-34, JUDICIAL CASE 2002-02, JUDICIAL CASE 2002-03 RE LELAND NICHOLS and RE SAM COUCH VS. JAMES RIVER PRESBYTERY",
+          "title_score": 1.0
+        },
+        {
+          "case_id": "2002-02",
+          "path": "cases/ga33_2005__2001-34_2002-02_2002-03.md",
+          "line": 23,
+          "text": "## JUDICIAL CASE 2001-34, JUDICIAL CASE 2002-02, JUDICIAL CASE 2002-03 RE LELAND NICHOLS and RE SAM COUCH VS. JAMES RIVER PRESBYTERY",
+          "title_score": 1.0
+        },
+        {
+          "case_id": "2002-03",
+          "path": "cases/ga33_2005__2001-34_2002-02_2002-03.md",
+          "line": 23,
+          "text": "## JUDICIAL CASE 2001-34, JUDICIAL CASE 2002-02, JUDICIAL CASE 2002-03 RE LELAND NICHOLS and RE SAM COUCH VS. JAMES RIVER PRESBYTERY",
+          "title_score": 1.0
+        },
+        {
+          "case_id": "2001-34",
+          "path": "markdown/ga30_2002.md",
+          "line": 2425,
+          "text": "35. Case 01-34 Complaint RE Leland Nichols, et al. vs. James River Presbytery",
+          "title_score": 1.0
+        },
+        {
+          "case_id": "2002-02",
+          "path": "markdown/ga30_2002.md",
+          "line": 2430,
+          "text": "40. Case 02-2 Complaint RE Leland Nichols, et al. vs. James River Presbytery",
+          "title_score": 1.0
+        }
+      ],
+      "flags": [
+        "no_same_id_extracted_case",
+        "strong_cross_id_caption_match",
+        "explicit_citation_disagrees_with_roster"
+      ],
+      "suggested_canonical_id": "2001-34",
+      "suggested_corrected_title": null,
+      "suggestion_reasons": [
+        "explicit citation and caption agree"
+      ],
+      "suggested_override": {
+        "status": "needs_review",
+        "roster_id": "2002-27",
+        "title_contains": "james",
+        "canonical_id": "2001-34",
+        "evidence": [
+          "cases/ga33_2005__2001-34_2002-02_2002-03.md:23",
+          "markdown/ga30_2002.md:2425"
+        ],
+        "note": "explicit citation and caption agree"
+      }
+    },
+    {
+      "kind": "unrepresented_extracted_case",
+      "confidence": "high",
+      "case_id": "2005-14",
+      "title": "Judicial Case 2005-14",
+      "year": 2009,
+      "source_line": 368,
+      "quality": 6,
+      "best_catalog_title_score": 0.2222,
+      "best_roster_matches": [
+        {
+          "case_id": "1985-02",
+          "title": "Judicial Reference of Eastern Canada Presbytery",
+          "score": 0.2857,
+          "source_line": 45,
+          "quality": 0
+        },
+        {
+          "case_id": "2002-04",
+          "title": "Judicial Reference from Evangel",
+          "score": 0.2857,
+          "source_line": 185,
+          "quality": 0
+        },
+        {
+          "case_id": "2002-02",
+          "title": "; Complaint 16-01, Judicial Case 2002-03; Complaint 18-01, Judicial Case 2002-03; Complaint 19-01,",
+          "score": 0.2,
+          "source_line": 182,
+          "quality": 0
+        }
+      ],
+      "flags": [
+        "substantive_extracted_case_absent_from_canonical_catalog"
+      ],
+      "suggested_canonical_id": null,
+      "suggested_override": null
+    },
+    {
+      "kind": "roster_reconciliation",
+      "confidence": "high",
+      "roster_id": "2010-14",
+      "roster_id_raw_normalized": "2010-14",
+      "roster_id_raw": "2010-14",
+      "roster_title": "Sartorius v. Siouxlands Presbytery — M39GA, 2011 Virginia Beach, p. 578. Not sustained 19-1. C-Op 8. D-Op. Summary: Alleged P erred in BCO 31-2 investigation of a TE and in failing to find a strong presumption of guilt. Issue: 1. With respect to certain reports concerning TE Joshua Moon, was Siouxla",
+      "effective_roster_title": "Michael A. McNeil v. Chesapeake Presbytery",
+      "roster_year": 2010,
+      "roster_source_line": 307,
+      "same_id_title_score": 0.0,
+      "same_id_cases": [
+        {
+          "case_id": "2010-14",
+          "title": "Michael A. McNeil v. Chesapeake Presbytery",
+          "source_line": 811
+        },
+        {
+          "case_id": "2010-14",
+          "title": "Michael A. McNeil v. Chesapeake Presbytery",
+          "source_line": 346
+        }
+      ],
+      "best_extracted_matches": [
+        {
+          "case_id": "2016-16",
+          "title": "Sartorius v. Siouxlands Presbytery",
+          "score": 1.0,
+          "source_line": 534,
+          "quality": 10
+        },
+        {
+          "case_id": "2012-08",
+          "title": "Art Sartorius et al. v. Siouxlands Presbytery",
+          "score": 0.8,
+          "source_line": 464,
+          "quality": 6
+        },
+        {
+          "case_id": "2008-14",
+          "title": "White v. Siouxlands Presbytery",
+          "score": 0.5,
+          "source_line": 389,
+          "quality": 10
+        }
+      ],
+      "explicit_citations": [
+        {
+          "case_id": "2010-04",
+          "path": "cases/ga39_2011__2010-16.md",
+          "line": 68,
+          "text": "imprudent.\" (See Case 2010-04 Sartorius, et al vs. Siouxlands Presbytery",
+          "title_score": 1.0
+        },
+        {
+          "case_id": "2009-22",
+          "path": "cases/ga42_2014__2011-11_2011-12_2011-15_2011-16.md",
+          "line": 393,
+          "text": "> Sartorius, et al vs. Siouxlands Presbytery and Case 2009-22",
+          "title_score": 1.0
+        },
+        {
+          "case_id": "2012-08",
+          "path": "cases/ga43_2015__2012-08.md",
+          "line": 30,
+          "text": "## CASE 2012-08 TE ART SARTORIUS, ET AL. VS. THE PRESBYTERY OF THE SIOUXLANDS",
+          "title_score": 1.0
+        },
+        {
+          "case_id": "2016-16",
+          "path": "cases/ga46_2018__2016-15.md",
+          "line": 230,
+          "text": "### CASE 2016-16 COMPLAINT OF TE ARTHUR SARTORIUS VS. SIOUXLANDS PRESBYTERY DECISION ON COMPLAINT October 19, 2017",
+          "title_score": 1.0
+        },
+        {
+          "case_id": "2016-16",
+          "path": "cases/ga46_2018__2016-16.md",
+          "line": 28,
+          "text": "### CASE 2016-16 COMPLAINT OF TE ARTHUR SARTORIUS VS. SIOUXLANDS PRESBYTERY DECISION ON COMPLAINT October 19, 2017",
+          "title_score": 1.0
+        },
+        {
+          "case_id": "2012-08",
+          "path": "cases/ga46_2018__2016-16.md",
+          "line": 148,
+          "text": "03/06/14 The full SJC heard the Complaint (instead of an SJC Panel). Case 2012-08: Sartorius, et al., v. Siouxlands, M43GA, 2015 Chattanooga, p. 528)",
+          "title_score": 1.0
+        },
+        {
+          "case_id": "2012-08",
+          "path": "cases/ga46_2018__2016-16.md",
+          "line": 284,
+          "text": "and it became Case 2012-08: Sartorius, et al. v. Siouxlands. (M43GA, 2015,",
+          "title_score": 1.0
+        },
+        {
+          "case_id": "2012-08",
+          "path": "cases/ga46_2018__2016-16.md",
+          "line": 553,
+          "text": "[^fn-ga46-p557-n23]:The transcript of Trial 1 was included as part of the Record to be considered at Trial 2, per SJC instructions in the first Sartorius v. Siouxlands case (Case 2012-08).",
+          "title_score": 1.0
+        }
+      ],
+      "flags": [
+        "same_id_caption_conflict"
+      ],
+      "suggested_canonical_id": "2010-14",
+      "suggested_corrected_title": "Michael A. McNeil v. Chesapeake Presbytery",
+      "suggestion_reasons": [
+        "same docket in the minutes-derived corpus has a conflicting caption"
+      ],
+      "suggested_override": {
+        "status": "needs_review",
+        "roster_id": "2010-14",
+        "title_contains": "sartorius",
+        "canonical_id": "2010-14",
+        "corrected_title": "Michael A. McNeil v. Chesapeake Presbytery",
+        "evidence": [
+          "data/cases/derived/cases_reconciled.jsonl:811",
+          "data/cases/derived/cases_reconciled.jsonl:346"
+        ],
+        "note": "same docket in the minutes-derived corpus has a conflicting caption"
+      }
+    },
+    {
+      "kind": "roster_reconciliation",
+      "confidence": "high",
+      "roster_id": "2010-17",
+      "roster_id_raw_normalized": "2010-17",
+      "roster_id_raw": "2010-17",
+      "roster_title": "Sarafolean Letter — M39GA, 2011 Virginia Beach, p. 594. AOO Summary: TE Sarafolean (a minister in Great Lakes Presbytery) requested GA to cite Siouxlands for alleged failures. TE Sarafolean believed he could do this via a BCO 40-5 letter.",
+      "effective_roster_title": "Sarafolean Letter — M39GA, 2011 Virginia Beach, p. 594. AOO Summary: TE Sarafolean (a minister in Great Lakes Presbytery) requested GA to cite Siouxlands for alleged failures. TE Sarafolean believed he could do this via a BCO 40-5 letter.",
+      "roster_year": 2010,
+      "roster_source_line": 309,
+      "same_id_title_score": 0.25,
+      "same_id_cases": [
+        {
+          "case_id": "2010-17",
+          "title": "David M. Sarafolean Request to Cite Siouxlands Presbytery",
+          "source_line": 812
+        },
+        {
+          "case_id": "2010-17",
+          "title": "David M. Sarafolean Request to Cite Siouxlands Presbytery",
+          "source_line": 349
+        }
+      ],
+      "best_extracted_matches": [
+        {
+          "case_id": "2010-17",
+          "title": "David M. Sarafolean Request to Cite Siouxlands Presbytery",
+          "score": 0.25,
+          "source_line": 812,
+          "quality": 4
+        },
+        {
+          "case_id": null,
+          "title": "Pre-SJC judicial cases (GA 12): serious accusations have been made v. the Presbytery; A letter of complaint v. action of Delmarva Presbytery; serious accusations have been raised v. ",
+          "score": 0.1176,
+          "source_line": 66,
+          "quality": 6
+        }
+      ],
+      "explicit_citations": [],
+      "flags": [
+        "same_id_caption_conflict"
+      ],
+      "suggested_canonical_id": "2010-17",
+      "suggested_corrected_title": "David M. Sarafolean Request to Cite Siouxlands Presbytery",
+      "suggestion_reasons": [
+        "same docket in the minutes-derived corpus has a conflicting caption"
+      ],
+      "suggested_override": {
+        "status": "needs_review",
+        "roster_id": "2010-17",
+        "title_contains": "letter",
+        "canonical_id": "2010-17",
+        "corrected_title": "David M. Sarafolean Request to Cite Siouxlands Presbytery",
+        "evidence": [
+          "data/cases/derived/cases_reconciled.jsonl:812",
+          "data/cases/derived/cases_reconciled.jsonl:349"
+        ],
+        "note": "same docket in the minutes-derived corpus has a conflicting caption"
+      }
+    },
+    {
+      "kind": "roster_reconciliation",
+      "confidence": "high",
+      "roster_id": "2012-13",
+      "roster_id_raw_normalized": "2012-13",
+      "roster_id_raw": "2012-13",
+      "roster_title": "Appeal of Tarter v. Evangel — M42GA, 2014 Houston, p. 539. Sustained 15-0. Summary: TE was laboring out of bounds in Ireland. P instructed him on accountability, but he declined requests. Eventually indicted for failure to submit to P authority, found guilty of two charges at trial, and deposed. He",
+      "effective_roster_title": "Appeal of Tarter v. Evangel — M42GA, 2014 Houston, p. 539. Sustained 15-0. Summary: TE was laboring out of bounds in Ireland. P instructed him on accountability, but he declined requests. Eventually indicted for failure to submit to P authority, found guilty of two charges at trial, and deposed. He",
+      "roster_year": 2012,
+      "roster_source_line": 350,
+      "same_id_title_score": 0.0,
+      "same_id_cases": [],
+      "best_extracted_matches": [
+        {
+          "case_id": "2012-03",
+          "title": "Appeal of TE Charles Tarter v. Evangel Presbytery",
+          "score": 0.8,
+          "source_line": 469,
+          "quality": 10
+        },
+        {
+          "case_id": "2001-30",
+          "title": "Third Presbyterian Church v. Evangel Presbytery",
+          "score": 0.5,
+          "source_line": 294,
+          "quality": 10
+        },
+        {
+          "case_id": "1997-06",
+          "title": "Appeal of Fitzsimmons v. Evangel Presbytery [ M26GA (998): 131]. Sustained 17-0 — Summary: Deacon alleged Session erred in trial procedures on charges of his having falsely accused the Session. (He was excommunicated.) Presbytery judged his appeal out of order. SJC sustained appeal and remanded for",
+          "score": 0.5,
+          "source_line": 710,
+          "quality": 10
+        }
+      ],
+      "explicit_citations": [
+        {
+          "case_id": "2012-03",
+          "path": "cases/ga42_2014__2012-03.md",
+          "line": 28,
+          "text": "### CASE 2012-03 APPEAL OF TE CHARLES TARTER VS. EVANGEL PRESBYTERY",
+          "title_score": 1.0
+        },
+        {
+          "case_id": "2012-03",
+          "path": "markdown/ga42_2014.md",
+          "line": 10244,
+          "text": "### CASE 2012-03 APPEAL OF TE CHARLES TARTER VS. EVANGEL PRESBYTERY",
+          "title_score": 1.0
+        }
+      ],
+      "flags": [
+        "no_same_id_extracted_case",
+        "possible_cross_id_caption_match",
+        "explicit_citation_disagrees_with_roster"
+      ],
+      "suggested_canonical_id": "2012-03",
+      "suggested_corrected_title": null,
+      "suggestion_reasons": [
+        "explicit citation and caption agree"
+      ],
+      "suggested_override": {
+        "status": "needs_review",
+        "roster_id": "2012-13",
+        "title_contains": "evangel",
+        "canonical_id": "2012-03",
+        "evidence": [
+          "cases/ga42_2014__2012-03.md:28",
+          "markdown/ga42_2014.md:10244"
+        ],
+        "note": "explicit citation and caption agree"
+      }
+    },
+    {
+      "kind": "roster_reconciliation",
+      "confidence": "high",
+      "roster_id": "2015-06",
+      "roster_id_raw_normalized": "2015-06",
+      "roster_id_raw": "2015-06",
+      "roster_title": "PCA v. South Florida",
+      "effective_roster_title": "PCA v. South Florida",
+      "roster_year": 2015,
+      "roster_source_line": 369,
+      "same_id_title_score": 0.2571,
+      "same_id_cases": [
+        {
+          "case_id": "2015-06",
+          "title": "Presbyterian Church in America vs. South Florida Presbytery (Citation)",
+          "source_line": 491
+        },
+        {
+          "case_id": "2015-06",
+          "title": "Presbyterian Church in America v. South Florida Presbytery (Citation)",
+          "source_line": 408
+        }
+      ],
+      "best_extracted_matches": [
+        {
+          "case_id": "2012-10",
+          "title": "PCA v. Korean Capital Presbytery",
+          "score": 0.3333,
+          "source_line": 459,
+          "quality": 5
+        },
+        {
+          "case_id": "2015-11",
+          "title": "Thompson v. South Florida Presbytery",
+          "score": 0.3,
+          "source_line": 485,
+          "quality": 10
+        },
+        {
+          "case_id": "2019-09",
+          "title": "Mueller v. South Florida Presbytery",
+          "score": 0.3,
+          "source_line": 574,
+          "quality": 10
+        }
+      ],
+      "explicit_citations": [
+        {
+          "case_id": "1995-10",
+          "path": "cases/ga25_1997__1995-10.md",
+          "line": 89,
+          "text": "18. The judicial panel appointed to hear Judicial Case 95-10 met by teleconference on March19, 1996; and on June 19, 1996 in Ft. Lauderdale, Florida at the PCA General Assembly, heard the case.",
+          "title_score": 0.6667
+        },
+        {
+          "case_id": "1995-10",
+          "path": "markdown/ga25_1997.md",
+          "line": 3021,
+          "text": "18. The judicial panel appointed to hear Judicial Case 95-10 met by teleconference on March19, 1996; and on June 19, 1996 in Ft. Lauderdale, Florida at the PCA General Assembly, heard the case.",
+          "title_score": 0.6667
+        }
+      ],
+      "flags": [
+        "same_id_caption_conflict"
+      ],
+      "suggested_canonical_id": "2015-06",
+      "suggested_corrected_title": "Presbyterian Church in America vs. South Florida Presbytery (Citation)",
+      "suggestion_reasons": [
+        "same docket in the minutes-derived corpus has a conflicting caption"
+      ],
+      "suggested_override": {
+        "status": "needs_review",
+        "roster_id": "2015-06",
+        "title_contains": "pca",
+        "canonical_id": "2015-06",
+        "corrected_title": "Presbyterian Church in America vs. South Florida Presbytery (Citation)",
+        "evidence": [
+          "data/cases/derived/cases_reconciled.jsonl:491",
+          "data/cases/derived/cases_reconciled.jsonl:408"
+        ],
+        "note": "same docket in the minutes-derived corpus has a conflicting caption"
+      }
+    },
+    {
+      "kind": "roster_reconciliation",
+      "confidence": "high",
+      "roster_id": "2020-09",
+      "roster_id_raw_normalized": "2020-09",
+      "roster_id_raw": "2020-09",
+      "roster_title": "Oxbalt et al. v. Pacific Presbytery",
+      "effective_roster_title": "Oxbalt et al. v. Pacific Presbytery",
+      "roster_year": 2020,
+      "roster_source_line": 429,
+      "same_id_title_score": 0.2857,
+      "same_id_cases": [
+        {
+          "case_id": "2020-09",
+          "title": "Sean Ozbalt and Erin Barr v. Pacific Presbytery",
+          "source_line": 827
+        },
+        {
+          "case_id": "2020-09",
+          "title": "Sean Ozbalt and Erin Barr v. Pacific Presbytery",
+          "source_line": 471
+        }
+      ],
+      "best_extracted_matches": [
+        {
+          "case_id": null,
+          "title": "Complaint against Pacific Presbytery",
+          "score": 0.6667,
+          "source_line": 3,
+          "quality": 10
+        },
+        {
+          "case_id": "2009-24",
+          "title": "Phelps v. Pacific Presbytery",
+          "score": 0.5,
+          "source_line": 418,
+          "quality": 10
+        },
+        {
+          "case_id": "2013-03",
+          "title": "Marshall v. Pacific Presbytery",
+          "score": 0.5,
+          "source_line": 479,
+          "quality": 10
+        }
+      ],
+      "explicit_citations": [],
+      "flags": [
+        "same_id_caption_conflict"
+      ],
+      "suggested_canonical_id": "2020-09",
+      "suggested_corrected_title": "Sean Ozbalt and Erin Barr v. Pacific Presbytery",
+      "suggestion_reasons": [
+        "same docket in the minutes-derived corpus has a conflicting caption"
+      ],
+      "suggested_override": {
+        "status": "needs_review",
+        "roster_id": "2020-09",
+        "title_contains": "oxbalt",
+        "canonical_id": "2020-09",
+        "corrected_title": "Sean Ozbalt and Erin Barr v. Pacific Presbytery",
+        "evidence": [
+          "data/cases/derived/cases_reconciled.jsonl:827",
+          "data/cases/derived/cases_reconciled.jsonl:471"
+        ],
+        "note": "same docket in the minutes-derived corpus has a conflicting caption"
+      }
+    },
+    {
+      "kind": "roster_reconciliation",
+      "confidence": "high",
+      "roster_id": "2022-10",
+      "roster_id_raw_normalized": "2022-10",
+      "roster_id_raw": "2022-10",
+      "roster_title": "PCA v. Herron (trial). Decided 04/05/23. Not Guilty",
+      "effective_roster_title": "PCA v. Herron (trial). Decided 04/05/23. Not Guilty",
+      "roster_year": 2022,
+      "roster_source_line": 455,
+      "same_id_title_score": 0.3333,
+      "same_id_cases": [
+        {
+          "case_id": "2022-10",
+          "title": "Presbyterian Church in America v. TE Daniel Herron",
+          "source_line": 623
+        },
+        {
+          "case_id": "2022-10",
+          "title": "Presbyterian Church in America v. TE Daniel Herron",
+          "source_line": 500
+        }
+      ],
+      "best_extracted_matches": [
+        {
+          "case_id": "2021-06",
+          "title": "Herron et al. v. Central Indiana Presbytery",
+          "score": 0.3333,
+          "source_line": 622,
+          "quality": 10
+        },
+        {
+          "case_id": "2022-10",
+          "title": "Presbyterian Church in America v. TE Daniel Herron",
+          "score": 0.3333,
+          "source_line": 623,
+          "quality": 6
+        },
+        {
+          "case_id": "2012-10",
+          "title": "PCA v. Korean Capital Presbytery",
+          "score": 0.3333,
+          "source_line": 459,
+          "quality": 5
+        }
+      ],
+      "explicit_citations": [
+        {
+          "case_id": "2021-06",
+          "path": "cases/ga50_2023__2021-14.md",
+          "line": 30,
+          "text": "In the SJC's June 2, 2022 Decision in Case 2021-06 Herron et al. v. Central Indiana, the SJC \"postponed consideration of all pending (Cases 2021-14, 2021-15 & 2022-02) and future Complaints on any matter related to TE Daniel Herron or related judicial matters.\" Therefore, consideration of this Complaint was postponed until after the final decision was rendered in Case 2022-10 PCA v. Herron (trial). Without objection, the SJC ruled that this Complaint be answered and decided by reference to the A",
+          "title_score": 1.0
+        },
+        {
+          "case_id": "2022-10",
+          "path": "cases/ga50_2023__2021-14.md",
+          "line": 30,
+          "text": "In the SJC's June 2, 2022 Decision in Case 2021-06 Herron et al. v. Central Indiana, the SJC \"postponed consideration of all pending (Cases 2021-14, 2021-15 & 2022-02) and future Complaints on any matter related to TE Daniel Herron or related judicial matters.\" Therefore, consideration of this Complaint was postponed until after the final decision was rendered in Case 2022-10 PCA v. Herron (trial). Without objection, the SJC ruled that this Complaint be answered and decided by reference to the A",
+          "title_score": 1.0
+        },
+        {
+          "case_id": "2021-06",
+          "path": "cases/ga50_2023__2021-15.md",
+          "line": 32,
+          "text": "In the SJC's June 2, 2022 Decision in Case 2021-06 Herron et al. v. Central Indiana, the SJC \"postponed consideration of all pending (Cases 2021-14, 2021-15 & 2022-02) and future Complaints on any matter related to TE Daniel Herron or related judicial matters.\" Therefore, consideration of this Complaint was postponed until after the final decision was rendered in Case 2022-10 PCA v. Herron (trial). Without objection, the SJC ruled that this Complaint be answered and decided by reference to the A",
+          "title_score": 1.0
+        },
+        {
+          "case_id": "2022-10",
+          "path": "cases/ga50_2023__2021-15.md",
+          "line": 32,
+          "text": "In the SJC's June 2, 2022 Decision in Case 2021-06 Herron et al. v. Central Indiana, the SJC \"postponed consideration of all pending (Cases 2021-14, 2021-15 & 2022-02) and future Complaints on any matter related to TE Daniel Herron or related judicial matters.\" Therefore, consideration of this Complaint was postponed until after the final decision was rendered in Case 2022-10 PCA v. Herron (trial). Without objection, the SJC ruled that this Complaint be answered and decided by reference to the A",
+          "title_score": 1.0
+        },
+        {
+          "case_id": "2021-06",
+          "path": "cases/ga50_2023__2022-02.md",
+          "line": 32,
+          "text": "In the SJC's June 2, 2022 Decision in Case 2021-06 Herron et al. v. Central Indiana, the SJC \"postponed consideration of all pending (i.e., Cases. 2021- 14, 2021-15 & 2022-02) and future Complaints on any matter related to TE Daniel Herron or related judicial matters.\" Therefore, consideration of this Complaint was postponed until after the final decision was rendered in Case 2022-10 PCA v. Herron (trial). Without objection, the SJC ruled that this Complaint be answered and decided by reference ",
+          "title_score": 1.0
+        },
+        {
+          "case_id": "2022-10",
+          "path": "cases/ga50_2023__2022-02.md",
+          "line": 32,
+          "text": "In the SJC's June 2, 2022 Decision in Case 2021-06 Herron et al. v. Central Indiana, the SJC \"postponed consideration of all pending (i.e., Cases. 2021- 14, 2021-15 & 2022-02) and future Complaints on any matter related to TE Daniel Herron or related judicial matters.\" Therefore, consideration of this Complaint was postponed until after the final decision was rendered in Case 2022-10 PCA v. Herron (trial). Without objection, the SJC ruled that this Complaint be answered and decided by reference ",
+          "title_score": 1.0
+        },
+        {
+          "case_id": "2021-06",
+          "path": "cases/ga50_2023__2022-11.md",
+          "line": 30,
+          "text": "In the SJC's June 2, 2022 Decision in Case 2021-06 Herron et al. v. Central Indiana, the SJC \"postponed consideration of all pending (Cases 2021-14, 2021-15 & 2022-02) and future Complaints on any matter related to TE Daniel Herron or related judicial matters.\" Therefore, consideration of these Petitions was postponed until after the final decision was rendered in Case 2022-10 PCA v. Herron (trial). Without objection, the SJC ruled that these Petitions be answered and decided by reference to the",
+          "title_score": 1.0
+        },
+        {
+          "case_id": "2022-10",
+          "path": "cases/ga50_2023__2022-11.md",
+          "line": 30,
+          "text": "In the SJC's June 2, 2022 Decision in Case 2021-06 Herron et al. v. Central Indiana, the SJC \"postponed consideration of all pending (Cases 2021-14, 2021-15 & 2022-02) and future Complaints on any matter related to TE Daniel Herron or related judicial matters.\" Therefore, consideration of these Petitions was postponed until after the final decision was rendered in Case 2022-10 PCA v. Herron (trial). Without objection, the SJC ruled that these Petitions be answered and decided by reference to the",
+          "title_score": 1.0
+        }
+      ],
+      "flags": [
+        "same_id_caption_conflict"
+      ],
+      "suggested_canonical_id": "2022-10",
+      "suggested_corrected_title": "Presbyterian Church in America v. TE Daniel Herron",
+      "suggestion_reasons": [
+        "same docket in the minutes-derived corpus has a conflicting caption"
+      ],
+      "suggested_override": {
+        "status": "needs_review",
+        "roster_id": "2022-10",
+        "title_contains": "herron",
+        "canonical_id": "2022-10",
+        "corrected_title": "Presbyterian Church in America v. TE Daniel Herron",
+        "evidence": [
+          "cases/ga50_2023__2021-14.md:30",
+          "cases/ga50_2023__2021-15.md:32",
+          "cases/ga50_2023__2022-02.md:32"
+        ],
+        "note": "same docket in the minutes-derived corpus has a conflicting caption"
+      }
+    },
+    {
+      "kind": "unrepresented_extracted_case",
+      "confidence": "review",
+      "case_id": "2009-26",
+      "title": "Session of Grace Presbyterian Church v. Northern California Presbytery",
+      "year": 2011,
+      "source_line": 420,
+      "quality": 10,
+      "best_catalog_title_score": 0.6667,
+      "best_roster_matches": [
+        {
+          "case_id": "2002-26",
+          "title": "Appeal of Wright v. Northern California",
+          "score": 0.6667,
+          "source_line": 197,
+          "quality": 0
+        },
+        {
+          "case_id": "2004-11",
+          "title": "Appeal of Scott v. Northern California",
+          "score": 0.6667,
+          "source_line": 217,
+          "quality": 0
+        },
+        {
+          "case_id": "2009-25",
+          "title": "Brown v. Northern California (also Case 2009-26 Grace Session v. N. California) — M39GA, 2011 Virginia Beach, p. 548. Sustained 20-0. C-Op 3. Summary: P adopted a recommendation to permit 6 different views and practices related to the diaconate. Complaint alleged some of the views and practices were",
+          "score": 0.6,
+          "source_line": 293,
+          "quality": 0
+        }
+      ],
+      "flags": [
+        "substantive_extracted_case_absent_from_canonical_catalog"
+      ],
+      "suggested_canonical_id": null,
+      "suggested_override": null
+    },
+    {
+      "kind": "unrepresented_extracted_case",
+      "confidence": "review",
+      "case_id": "2019-12",
+      "title": "Pitts et al. v. Arizona Presbytery",
+      "year": 2021,
+      "source_line": 564,
+      "quality": 9,
+      "best_catalog_title_score": 0.8,
+      "best_roster_matches": [
+        {
+          "case_id": "2023-07",
+          "title": "Appeal of TE Evans v. Arizona. Decided 03/08/24. Sustained, with concurring opinions",
+          "score": 0.5,
+          "source_line": 472,
+          "quality": 0
+        },
+        {
+          "case_id": "2019-10",
+          "title": "Evans v. Arizona Presbytery together with 2019-12 Pitts et al. v. Arizona",
+          "score": 0.4444,
+          "source_line": 419,
+          "quality": 0
+        }
+      ],
+      "flags": [
+        "substantive_extracted_case_absent_from_canonical_catalog"
+      ],
+      "suggested_canonical_id": null,
+      "suggested_override": null
+    }
+  ]
+}

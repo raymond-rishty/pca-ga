@@ -7,15 +7,15 @@
 | 2025 | Judicial case | explicit_citation | direct_text | high | [Martinez v. Pacific Presbytery](../cases/ga52_2025__2023-20.md) | sustained |
 | 2021 | Judicial case | explicit_citation | direct_text | high | [Crouse v. Northwest Georgia Presbytery](../cases/ga48_2021__2019-03.md) | sustained |
 | 2021 | Judicial case | explicit_citation | direct_text | high | [Fozard v. North Texas Presbytery](../cases/ga48_2021__2019-07.md) | denied |
-| 2021 | Judicial case | explicit_citation | direct_text | high | [Malone v. Metro NY](../cases/ga36_2008__2007-02.md) |  |
-| 2009 | Judicial case | explicit_citation | direct_text | high | [David Kniseley et al. v. Rocky Mountain Presbytery](../cases/ga37_2009__2007-13.md) | denied |
+| 2021 | Judicial case | explicit_citation | direct_text | high | [Malone v. Metro NY](../cases/ga36_2008__2007-02.md) | Complaint sustained in part; judgment and censure vacated |
+| 2009 | Judicial case | explicit_citation | direct_text | high | [David Kniseley et al. v. Rocky Mountain Presbytery](../cases/ga37_2009__2007-13.md) | Complaint denied; BCO meaning and generic use of title distinguished; dissent recorded |
 | 1994 | Judicial case | structured_case_reference | structured_case_metadata | medium | [Smith v. Northeast Presbytery](../cases/ga22_1994__1993-01.md) | denied |
-| 1992 | Judicial case | explicit_citation | direct_text | high | [Robert D. Hopper v. James River Presbytery](../cases/ga20_1992__1991-04.md) |  |
+| 1992 | Judicial case | explicit_citation | direct_text | high | [Robert D. Hopper v. James River Presbytery](../cases/ga20_1992__1991-04.md) | Robert D. Hopper v. James River Presbytery |
 | 2025 | CCB advice | structured_provision_tag | structured_provision_tag | medium | [Amend BCO 46-4 to Add a Class of Associate Membership for Honorably Retired TEs](../inquiries/ga52_2025__ci19.md) | in conflict; Adopted 8-0-0 |
 | 2011 | CCB advice | structured_provision_tag | structured_provision_tag | medium | [Temporary Governance for Churches without Ruling Elders](../inquiries/ga39_2011__ci01.md) | may have been in conflict |
 | 2003 | CCB advice | structured_provision_tag | structured_provision_tag | medium | [Subscription and Exceptions of Substance](../inquiries/ga31_2003__ci08.md) | not in conflict |
 | 2002 | CCB advice | structured_provision_tag | structured_provision_tag | medium | [Handling Exceptions to the Westminster Standards](../inquiries/ga30_2002__ci04.md) | in conflict |
-| 1996 | Overture | explicit_citation | direct_text | high | [Take No Action to Change BCO 38-2, 46-2, and 46-5 on Member Dismissal](../markdown/ga24_1996.md#ga24-p305) | Answered by reference to Overture 27 |
+| 1996 | Overture | explicit_citation | direct_text | high | [Take No Action to Change BCO 38-2, 46-2, and 46-5 on Member Dismissal](../markdown/ga24_1996.md#ga24-p305) | Answered by reference |
 | 2024 | RPR exception | body_mention | direct_text | high | [Ascension: Presbytery may not permit TE to withdraw if he is not in good standing; furthermore, it ma](../rpr/exc/ascension__016.html) | satisfactory |
 | 2019 | RPR exception | body_mention | direct_text | high | [Calvary: Presbytery adopted a statement asserting its right to “declare certain exceptions unteacha](../rpr/exc/calvary__102.html) | unsatisfactory |
 | 2019 | RPR exception | body_mention | direct_text | high | [Northwest Georgia: Presbytery appears to have bound the conscience of transferring minister by restricting hi](../rpr/exc/northwest-georgia__030.html) | unsatisfactory |

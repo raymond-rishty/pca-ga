@@ -4,7 +4,8 @@
 
 | Year | Record type | Relationship | Evidence | Confidence | Title | Disposition |
 |------|-------------|--------------|----------|------------|-------|-------------|
-| 1987 | Overture | explicit_citation | direct_text | high | [Amend BCO 58-4 to Clarify Session Discretion in Inviting Communicants to the Lord's Supper](../markdown/ga15_1987.md#ga15-p45) | GA15 referred the BCO 58-4 matter to an ad interim study committee. |
+| 1983 | Judicial case | explicit_citation | direct_text | high | [Val H. Barleman et al. v. Presbytery of Ascension](../cases/ga11_1983__case2.md) | Complaint sustained; ordination-trial action annulled, with corrective and pastoral directions; protest recorded |
+| 1987 | Overture | explicit_citation | direct_text | high | [Amend BCO 58-4 to Clarify Session Discretion in Inviting Communicants to the Lord's Supper](../markdown/ga15_1987.md#ga15-p45) | Related BCO 58-4 revision approved by GA18 but not ratified (GA20) |
 
 ---
 *[← Authority Index](../index/AUTHORITY-BY-PROVISION.md)*

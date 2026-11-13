@@ -6,10 +6,14 @@ templates.
 ## Durable data
 
 - `index/source_registry.json` assigns stable `source_id` values to canonical
-  minutes PDFs and dedicated case/study PDFs. Its `record_sources` map associates
-  those IDs with extracted records.
+  minutes PDFs and dedicated case/study PDFs. Its case mappings use canonical
+  judicial dockets and PDF assignments from
+  `data/cases/records/judicial_cases.jsonl`; source links for extracted Minutes
+  pages use their explicit volume and page locators. The SJC roster is an input
+  to building the canonical case catalogue, but the registry does not read the
+  roster directly.
 - `index/dedicated_pdf_inventory.json` is the curated inventory of dedicated
-  PDFs currently known from the SJC roster and study manifest.
+  case PDFs in the canonical case records and study PDFs in the study manifest.
 - `index/studies_pdf_manifest.json` remains the study manifest of record. The
   source registry projects its PDF entries into the common source model; it does
   not create a competing study catalogue.
@@ -57,7 +61,6 @@ carry a source span or occurrence-qualified ID.
 6. Regenerate the affected extracted pages, or run the build-time enrichment
    step for legacy committed pages.
 
-Inventory status is evidence-aware: `listed` means the dedicated PDF is
-listed in the repository's SJC source roster, while `mapped` and
-`pdf_only` come from the study manifest's provenance decisions. The inventory
-does not imply that a remote PDF has been copied into this repository.
+Inventory status records the provenance decision carried by the canonical
+record or study manifest. The inventory does not imply that a remote PDF has
+been copied into this repository.

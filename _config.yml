@@ -327,8 +327,7 @@ exclude:
   - index/*.json
   - index/rpr/
   - index/segments/
-  - index/hunt/
-  - index/sjc_official/
+  - data/cases/
   - index/digest/
   - index/structure/
   - index/synopsis_workflow/

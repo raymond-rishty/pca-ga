@@ -4,7 +4,7 @@
 For each of the 91 overtures before the 53rd General Assembly (2026), the source findings list the
 PAST ACTIONS bearing on it (SJC/CJB cases, constitutional inquiries + CCB overture-advice, prior
 overtures, RPR exceptions). Unlike the other catalogues, the GA53 findings are RESEARCH PROSE, not
-derived from pca_minutes.db — so the source of truth is a set of per-overture markdown files, and this
+derived from the Minutes SQLite index — so the source of truth is a set of per-overture markdown files, and this
 renderer's job is layout + link-normalization + the catalogue index (it does not extract data).
 
 Reads (from GA53_SRC, default /workspace/ga53 — the BUILD tree; the same source feeds both trees,
@@ -13,7 +13,7 @@ mirroring 20_markdown_index.py's build-tree pin):
   - findings/O<NN>.md           : the research body for each overture
   - _header.md                  : the catalogue intro + thematic cluster map (optional)
 
-Writes, mirroring CASES.md / cases/* and INQUIRIES.md / inquiries/*:
+Writes, mirroring the canonical case catalogue / cases/* and INQUIRIES.md / inquiries/*:
   - <ROOT>/ga53/O<NN>.md           : one page per overture (bearing past actions, deep-linked)
   - <ROOT>/index/GA53-OVERTURES.md : the catalogue, with the cluster map + a table linking each page
 
@@ -87,8 +87,8 @@ def rec_detail_block(num):
 
 CATALOGUES = {
     "OVERTURES.md": "OVERTURES.md",
-    "CASES.md": "CASES.md",
-    "cases.jsonl": "CASES.md",
+    "CASES.md": "JUDICIAL-CASES.html",
+    "cases.jsonl": "JUDICIAL-CASES.html",
     "INQUIRIES.md": "INQUIRIES.md",
     "CCB-OVERTURE-ADVICE.md": "CCB-OVERTURE-ADVICE.md",
     "RPR-BY-PROVISION.md": "RPR-BY-PROVISION.md",
@@ -110,14 +110,14 @@ def read_overtures():
 
 
 def normalize_links(body: str, page_rel: str) -> str:
-    body = body.replace("[pca_minutes.db]", "the full-text database")
+    body = body.replace("[pca_minutes.db]", "the local Minutes SQLite index")
 
     def cat_sub(m):
         label = m.group(1)
         target = CATALOGUES.get(label)
         if not target:
             return m.group(0)
-        shown = "CASES.md" if label == "cases.jsonl" else label
+        shown = "JUDICIAL-CASES.html" if label in {"CASES.md", "cases.jsonl"} else label
         return f"[{shown}]({page_rel}index/{target})"
     body = re.sub(r"\[(" + "|".join(re.escape(k) for k in CATALOGUES) + r")\]", cat_sub, body)
 

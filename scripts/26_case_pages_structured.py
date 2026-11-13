@@ -3,13 +3,13 @@
 26_case_pages_structured.py — generate the LIVE cases/ pages from DOCUMENT STRUCTURE (via
 25_case_extract) for the volumes that pass acceptance, replacing the old table-driven pages
 (24_case_pages.py) for those volumes. Volumes that don't yet pass are left for the per-era profile
-work and marked "extraction in progress" in CASES.md (this script writes no page for them).
+work and marked "extraction in progress" in the page map (this script writes no page for them).
 
 A "passing" SJC volume = autotuned with junk==0, recall>=0.7, and >=3 blocks (per
 index/sjc_strategy.json). Each structure block becomes one page (its full text incl. opinions),
 titled from the cases table (authoritative identity). Emits:
   cases/<vol>__<nums>.md          one page per block
-  index/case_pages_map.json       {normalized_number: {vol,file,numbers,title}} for CASES.md
+  index/case_pages_map.json       {normalized_number: {vol,file,numbers,title}} for catalogue aliases
 
 CLI:  26_case_pages_structured.py
 """
@@ -25,7 +25,7 @@ spec = importlib.util.spec_from_file_location("ce", f"{ROOT}/scripts/25_case_ext
 ce = importlib.util.module_from_spec(spec); spec.loader.exec_module(ce)
 
 OUT = f"{ROOT}/cases"
-TITLE_OVERRIDES = json.load(open(f"{ROOT}/index/case_title_overrides.json"))
+TITLE_OVERRIDES = json.load(open(f"{ROOT}/data/cases/overrides/case_title_overrides.json"))
 _OPIN = re.compile(r"^\**\s*((?:CONCURRING|DISSENTING|MAJORITY|SEPARATE)\s+OPINION[^*\n]*|"
                    r"OPINION OF THE COURT|DECISION(?: ON [A-Z ]+)?)\s*\**\s*$", re.I)
 # A consolidated decision may be printed under only one case-number header even though its holding

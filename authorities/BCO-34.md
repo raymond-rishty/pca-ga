@@ -5,10 +5,11 @@
 | Year | Record type | Relationship | Evidence | Confidence | Title | Disposition |
 |------|-------------|--------------|----------|------------|-------|-------------|
 | 2022 | Judicial case | explicit_citation | direct_text | high | [Speck v. Missouri Presbytery](../cases/ga49_2022__2020-05.md) | sustained |
-| 2014 | Judicial case | structured_case_reference | structured_case_metadata | medium | [Charles Tarter v. Evangel Presbytery](../cases/ga42_2014__2012-03.md) | sustained |
+| 2014 | Judicial case | structured_case_reference | structured_case_metadata | medium | [Charles Tarter v. Evangel Presbytery](../cases/ga42_2014__2012-03.md) | Appeal sustained; judgment and censure vacated and matter remanded for constitutionally compliant proceedings or dismissal |
 | 2014 | Judicial case | explicit_citation | direct_text | high | [Reese and Bech v. Philadelphia Presbytery](../cases/ga42_2014__2011-14.md) | sustained |
 | 2011 | Judicial case | explicit_citation | direct_text | high | [Lyons v. Western Carolina Presbytery](../cases/ga39_2011__2010-16.md) | denied |
 | 2002 | Judicial case | structured_case_reference | structured_case_metadata | medium | [Sang Soo Ryoo v. Korean Capital Presbytery](../cases/ga30_2002__2001-18.md) | sustained |
+| 1988 | Judicial case | explicit_citation | direct_text | high | [Robert Jamison v. Western Carolina Presbytery](../cases/ga16_1988__case4.md) | complaint not sustained; decision of lower court confirmed by vote of 13-0 with 1 abstention |
 | 1998 | Constitutional inquiry | structured_provision_tag | structured_provision_tag | medium | [Whether presbytery may investigate before proceeding to trial](../inquiries/ga26_1998__ci03.md) | advice given — BCO 31-2 permits investigation before adjudication; amendments recommended |
 | 2022 | Overture | explicit_citation | direct_text | high | [Amend BCO 34-1 to Establish Percentage Threshold for Original Jurisdiction Requests](../markdown/ga49_2022.md#ga49-p1314) | Answered by reference to Overture 8 |
 | 2018 | Overture | explicit_citation | direct_text | high | [Revise BCO 34-8 and 37-8 Regarding Restoration of a Deposed Minister](../markdown/ga46_2018.md#ga46-p683) | Referred back to Presbytery |

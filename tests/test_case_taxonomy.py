@@ -12,11 +12,6 @@ INDEX_SPEC = importlib.util.spec_from_file_location(
 )
 INDEX_MODULE = importlib.util.module_from_spec(INDEX_SPEC)
 INDEX_SPEC.loader.exec_module(INDEX_MODULE)
-MARKDOWN_INDEX_SPEC = importlib.util.spec_from_file_location(
-    "markdown_index", ROOT / "scripts" / "20_markdown_index.py"
-)
-MARKDOWN_INDEX_MODULE = importlib.util.module_from_spec(MARKDOWN_INDEX_SPEC)
-MARKDOWN_INDEX_SPEC.loader.exec_module(MARKDOWN_INDEX_MODULE)
 
 
 def test_canonical_and_legacy_ids_preserve_aliases():
@@ -183,7 +178,7 @@ def test_non_merits_dispositions_do_not_receive_appellate_standards():
 def test_generated_catalog_carries_stable_evans_identity_and_all_roster_rows():
     rows = [
         __import__("json").loads(line)
-        for line in (ROOT / "index" / "judicial_cases.jsonl").read_text(encoding="utf-8").splitlines()
+        for line in (ROOT / "data" / "cases" / "records" / "judicial_cases.jsonl").read_text(encoding="utf-8").splitlines()
         if line.strip()
     ]
     assert len(rows) == 501
@@ -256,7 +251,7 @@ def test_generated_catalog_places_actions_between_heading_and_synopsis():
 def test_previously_unresolved_cases_have_source_grounded_classifications():
     rows = {
         row["case_id"]: row
-        for line in (ROOT / "index" / "judicial_cases.jsonl").read_text(encoding="utf-8").splitlines()
+        for line in (ROOT / "data" / "cases" / "records" / "judicial_cases.jsonl").read_text(encoding="utf-8").splitlines()
         if line.strip()
         for row in [__import__("json").loads(line)]
     }
@@ -291,10 +286,10 @@ def test_editorial_overrides_fill_source_grounded_summaries():
     json = __import__("json")
     rows = [
         json.loads(line)
-        for line in (ROOT / "index" / "judicial_cases.jsonl").read_text(encoding="utf-8").splitlines()
+        for line in (ROOT / "data" / "cases" / "records" / "judicial_cases.jsonl").read_text(encoding="utf-8").splitlines()
         if line.strip()
     ]
-    editorial = json.loads((ROOT / "index" / "judicial_case_editorial_overrides.json").read_text(encoding="utf-8"))
+    editorial = json.loads((ROOT / "data" / "cases" / "overrides" / "judicial_case_editorial_overrides.json").read_text(encoding="utf-8"))
     by_id = {row["case_id"]: row for row in rows if row.get("case_id")}
     assert len(editorial) >= 100
     assert all(by_id[cid]["summary"] == override["summary"] for cid, override in editorial.items() if "summary" in override)
@@ -311,7 +306,7 @@ def test_source_checked_disagreements_use_the_decisions_dispositions():
     json = __import__("json")
     rows = {
         row["case_id"]: row
-        for line in (ROOT / "index" / "judicial_cases.jsonl").read_text(encoding="utf-8").splitlines()
+        for line in (ROOT / "data" / "cases" / "records" / "judicial_cases.jsonl").read_text(encoding="utf-8").splitlines()
         if line.strip()
         for row in [json.loads(line)]
     }
@@ -339,20 +334,20 @@ def test_source_checked_disagreements_use_the_decisions_dispositions():
     assert rows["1999-07"]["title"] == "Jeffrey M. Black v. Eastern Carolina Presbytery"
 
 
-def test_audited_identity_corrections_survive_auxiliary_case_merge():
+def test_audited_identity_corrections_survive_canonical_catalogue_build():
     json = __import__("json")
     rows = {
-        row["case_number"]: row
-        for line in (ROOT / "index" / "cases.jsonl").read_text(encoding="utf-8").splitlines()
+        row["case_id"]: row
+        for line in (ROOT / "data" / "cases" / "records" / "judicial_cases.jsonl").read_text(encoding="utf-8").splitlines()
         if line.strip()
         for row in [json.loads(line)]
-        if row.get("case_number")
+        if row.get("case_id")
     }
-    assert rows["1992-3"]["title"] == "Richard E. Olson, et al. v. Heritage Presbytery"
-    assert rows["1992-4"]["title"] == "William A. Conrad, et al. v. Central Carolina Presbytery"
-    assert rows["1997-7"]["title"] == "Steve Farris v. Central Florida Presbytery"
-    assert rows["1999-4"]["disposition"] == "administratively_out_of_order"
-    assert rows["1999-7"]["title"] == "Jeffrey M. Black v. Eastern Carolina Presbytery"
+    assert rows["1992-03"]["title"] == "Richard E. Olson, et al. v. Heritage Presbytery"
+    assert rows["1992-04"]["title"] == "William A. Conrad, et al. v. Central Carolina Presbytery"
+    assert rows["1997-07"]["title"] == "Steve Farris v. Central Florida Presbytery"
+    assert rows["1999-04"]["final_dispositions"] == ["administratively_out_of_order"]
+    assert rows["1999-07"]["title"] == "Jeffrey M. Black v. Eastern Carolina Presbytery"
 
 
 def test_human_index_is_generated_from_the_canonical_layer():
@@ -386,30 +381,11 @@ def test_review_basis_groups_shared_deference_language():
     )
 
 
-def test_assembly_index_uses_canonical_answers_with_friendly_labels():
-    index = (ROOT / "index" / "CASES.md").read_text(encoding="utf-8")
-    assert "| [1992-03](../cases/ga20_1992__1992-03.md) | Richard E. Olson, et al. v. Heritage Presbytery | Administratively out of order |" in index
-    assert "| [1992-04](../cases/ga20_1992__1992-04.md) | William A. Conrad, et al. v. Central Carolina Presbytery  ·  *dissent* | Administratively out of order; Remanded |" in index
-    assert "| [1997-07](../cases/ga26_1998__1997-07.md) | Steve Farris v. Central Florida Presbytery | Judicially out of order |" in index
-    assert "| [1999-07](../cases/ga29_2001__1999-07.md) | Jeffrey M. Black v. Eastern Carolina Presbytery  ·  *dissent* | Not sustained |" in index
-    assert "factual_findings" not in index
-    assert "administratively_out_of_order" not in index
-
-
-def test_assembly_index_preserves_full_canonical_summary_but_limits_fallback():
-    canonical = "A" * 400
-    fallback = "Fallback summary text " * 30
-    assert MARKDOWN_INDEX_MODULE.canonical_summary({"summary": canonical}) == canonical
-    compact = MARKDOWN_INDEX_MODULE.canonical_summary({}, fallback)
-    assert compact.endswith("…")
-    assert len(compact) <= 321
-
-
 def test_public_case_titles_exclude_roster_metadata_and_procedural_labels():
     json = __import__("json")
     rows = [
         json.loads(line)
-        for line in (ROOT / "index" / "judicial_cases.jsonl").read_text(encoding="utf-8").splitlines()
+        for line in (ROOT / "data" / "cases" / "records" / "judicial_cases.jsonl").read_text(encoding="utf-8").splitlines()
         if line.strip()
     ]
     bad = re.compile(
@@ -432,7 +408,7 @@ def test_reported_malformed_titles_have_canonical_captions():
     json = __import__("json")
     canonical = {
         row["case_id"]: row["title"]
-        for line in (ROOT / "index" / "judicial_cases.jsonl").read_text(encoding="utf-8").splitlines()
+        for line in (ROOT / "data" / "cases" / "records" / "judicial_cases.jsonl").read_text(encoding="utf-8").splitlines()
         if line.strip()
         for row in [json.loads(line)]
     }
@@ -441,12 +417,6 @@ def test_reported_malformed_titles_have_canonical_captions():
     assert canonical["2002-15"] == "Walter Bjorck v. Northern New England Presbytery"
     assert canonical["2010-17"] == "David M. Sarafolean Request to Cite Siouxlands Presbytery"
     assert canonical["2020-09"] == "Sean Ozbalt and Erin Barr v. Pacific Presbytery"
-
-
-def test_assembly_index_does_not_repeat_robar_for_numberless_rows():
-    index = (ROOT / "index" / "CASES.md").read_text(encoding="utf-8")
-    caption = "APPEAL OF RE SCOTT ROBAR VS. CENTRAL CAROLINA PRESBYTERY"
-    assert index.count(caption) == 1
 
 
 def test_derived_case_titles_do_not_repeat_court_names():

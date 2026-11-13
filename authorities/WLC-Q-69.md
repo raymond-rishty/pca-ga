@@ -5,7 +5,7 @@
 | Year | Record type | Relationship | Evidence | Confidence | Title | Disposition |
 |------|-------------|--------------|----------|------------|-------|-------------|
 | 2013 | Judicial case | explicit_citation | direct_text | high | [Hedman v. Pacific Northwest Presbytery](../cases/ga41_2013__2012-05.md) | denied |
-| 2008 | Judicial case | explicit_citation | direct_text | high | [Memorial of Central Carolina v. Louisiana](../cases/ga36_2008__2006-02.md) | other |
+| 2008 | Judicial case | explicit_citation | direct_text | high | [Memorial of Central Carolina v. Louisiana](../cases/ga36_2008__2006-02.md) | sustained |
 
 ---
 *[← Authority Index](../index/AUTHORITY-BY-PROVISION.md)*

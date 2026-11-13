@@ -90,7 +90,7 @@ def old_body(text: str) -> str:
     parts = text.split("\n---\n", 1)
     body = parts[1] if len(parts) == 2 else text
     body = body.rsplit("\n---\n", 1)[0]
-    return body.replace("[← Judicial case index](../index/CASES.md)", "").replace("[← Judicial case index](../index/JUDICIAL-CASES.html)", "")
+    return body.replace("[← Judicial case index](../index/JUDICIAL-CASES.html)", "")
 
 
 def case_signals(text: str):
