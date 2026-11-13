@@ -6,7 +6,7 @@ the majority/concurring/dissenting opinions), so the case index can link straigh
 For each row in the `cases` table, extract the verbatim text of its page range
 (pdf_page_start..pdf_page_end) from the volume markdown, add a metadata header (court, GA, parties,
 disposition, vote, BCO cited, dissent) + a back-link to the source volume, promote inline opinion
-labels to headings, and write cases/<case_id>.md. 20_markdown_index then links CASES.md to these.
+labels to headings, and write cases/<case_id>.md. The canonical catalogue links to these pages.
 
 CLI:  24_case_pages.py
 """

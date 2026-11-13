@@ -65,7 +65,7 @@ def extract_provisions(text: str) -> list[str]:
     return sorted({norm_prov(m.group(0)) for m in _PROV_RE.finditer(text)})
 
 def norm_case_num(n: str) -> str:
-    """'1990-08' -> '1990-8' to match cases.jsonl format."""
+    """Normalize docket numbers for matching against judicial_cases.jsonl."""
     m = re.match(r'^(\d{4})-(\d+)([a-z]?)$', str(n))
     return f"{m.group(1)}-{int(m.group(2))}{m.group(3)}" if m else str(n)
 

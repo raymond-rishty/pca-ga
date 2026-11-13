@@ -3,8 +3,8 @@
 28_sjc_located_pages.py — render per-case pages for the SJC-era straggler volumes from
 index/sjc_located.json (agent-LOCATED decision spans for the volumes the regex autotuner couldn't
 segment cleanly). Like the CJB renderer, the agents only LOCATED line ranges; here we slice the
-volume markdown VERBATIM and MERGE the pages into index/case_pages_map.json so CASES.md links them
-through the existing SJC path. Run AFTER 26 (which clears cases/ and writes the regex-promoted SJC
+volume markdown VERBATIM and MERGE the pages into index/case_pages_map.json for catalogue metadata.
+Run AFTER 26 (which clears cases/ and writes the regex-promoted SJC
 pages) and 27 (CJB).
 
 CLI:  28_sjc_located_pages.py

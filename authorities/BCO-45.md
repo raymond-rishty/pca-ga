@@ -8,6 +8,7 @@
 | 2025 | Judicial case | structured_case_reference | structured_case_metadata | medium | [Flatgard v. Metro Atlanta Presbytery](../cases/ga52_2025__2023-12.md) | sustained |
 | 2008 | Judicial case | explicit_citation | direct_text | high | [PCA v. Louisiana Presbytery (Trial)](../cases/ga36_2008__2007-14.md) | Specification 1 dismissed after trial; Louisiana Presbytery's guilty plea to Specification 2 accepted and censure of admonition imposed |
 | 2006 | Judicial case | explicit_citation | direct_text | high | [Chastain v. Heritage Presbytery](../cases/ga34_2006__2005-01.md) | affirmed in part |
+| 1980 | Judicial case | explicit_citation | direct_text | high | [Teaching Elder Carl W. Bogue et al. v. Presbytery of the Ascension](../cases/ga08_1980__case3.md) | Both counts sustained (10-5 and 15-0); matter remanded for corrective action |
 | 2001 | Constitutional inquiry | structured_provision_tag | structured_provision_tag | medium | [Procedure for Suspending Rules](../inquiries/ga29_2001__ci09.md) | advice given |
 | 1990 | Constitutional inquiry | structured_provision_tag | structured_provision_tag | medium | [Proper use of memorials and finality of adjudicated GA decisions](../inquiries/ga18_1990__ci01.md) | advice given |
 | 1984 | Constitutional inquiry | structured_provision_tag | structured_provision_tag | medium | [Recourse when General Assembly may have erred in a decision](../inquiries/ga12_1984__ci03.md) | advice given |

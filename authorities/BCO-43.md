@@ -51,6 +51,7 @@
 | 1994 | Judicial case | explicit_citation | direct_text | high | [George L. Cox v. Mid-America Presbytery](../cases/ga22_1994__1993-04.md) | Complaint denied; issues answered in negative |
 | 1992 | Judicial case | explicit_citation | direct_text | high | [Robert D. Hopper v. James River Presbytery](../cases/ga20_1992__1991-04.md) | Robert D. Hopper v. James River Presbytery |
 | 1991 | Judicial case | structured_case_reference | structured_case_metadata | medium | [Melton et al. v. Tennessee Valley Presbytery](../cases/ga19_1991__1990-05.md) | denied |
+| 1988 | Judicial case | explicit_citation | direct_text | high | [Robert G. Rayburn et al. v. Missouri Presbytery](../cases/ga16_1988__case3.md) | complaint not sustained; decision of lower court confirmed by vote of 7-4 |
 | 1986 | Constitutional inquiry | structured_provision_tag | structured_provision_tag | medium | [Book of Church Order / BCO 3-1](../inquiries/ga14_1986__ci10.md) | advice given |
 | 1986 | Constitutional inquiry | structured_provision_tag | structured_provision_tag | medium | [Congregational vote to rotate entire session or diaconate off](../inquiries/ga14_1986__ci08.md) | advice given |
 | 2024 | CCB advice | structured_provision_tag | structured_provision_tag | medium | [32, and 35](../inquiries/ga51_2024__ci16.md) | in grave conflict; Adopted 8-0-0 |

@@ -120,7 +120,7 @@ The minutes stay the content source; the Digest never supplies page text (it's a
 
 ## 6. Index (`20_markdown_index.py`) — structure-first
 
-`CASES.md` is built **from the extracted pages**, per Assembly, not from the table:
+The former `CASES.md` index was built **from the extracted pages**, per Assembly, not from the table. It has been retired; the current public catalogue is `index/JUDICIAL-CASES.html`:
 - decided cases (CJB located + SJC structure) and stubs are listed and linked;
 - a leftover table row is labeled by what it actually is: **decided at GA N** / **disposed at GA N**
   (the case was only *listed* here — deferred to a later GA or cited from an earlier one — and links
@@ -130,7 +130,7 @@ The minutes stay the content source; the Digest never supplies page text (it's a
 
 ## 6a. Index summaries (editorial, not verbatim)
 
-The `Summary` column in `index/CASES.md` is an editorial aid for scanning the index. It is not part
+The `Summary` column in the retired `index/CASES.md` was an editorial aid for scanning that index. It was not part
 of the verbatim case page and should be treated as a concise human-written synopsis. A useful summary
 should answer, in one sentence where practical:
 

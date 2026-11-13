@@ -4,7 +4,7 @@
 Reads canonical inquiry records from <ROOT>/index/inquiries.jsonl. Each JSONL
 row combines the Digest/headnote metadata with a stable ID and its source locator.
 
-Slices the verbatim record from <ROOT>/markdown/ and writes, mirroring CASES.md / cases/*:
+Slices the verbatim record from <ROOT>/markdown/ and writes inquiry pages alongside the case pages:
   - <ROOT>/inquiries/<stem>__ci<NN>.md  : one page per inquiry (structured editorial header + minutes transcript)
   - <ROOT>/index/INQUIRIES.md           : the catalogue, grouped by Assembly
 

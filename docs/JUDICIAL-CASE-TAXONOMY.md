@@ -10,8 +10,7 @@ supplemental cases and explicitly consolidated companion dockets are also
 included. The Minutes remain the authority for verbatim decision text;
 `data/cases/derived/cases_reconciled.jsonl` is the reconciled Minutes-derived
 case corpus. The identity audit compares it independently with the roster and
-canonical catalogue. `data/cases/records/cases.jsonl` is a compatibility copy
-whose display titles are synchronized from the canonical catalogue.
+canonical catalogue.
 
 ## Identity
 

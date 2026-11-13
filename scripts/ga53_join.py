@@ -6,7 +6,7 @@ overture's target BCO/RAO provisions — the complete, auditable hit-list a work
 enriches (semantic links, dedup of incidental hits) into the final per-overture page.
 
 Sources:
-  judicial_cases.jsonl     canonical case citations and metadata              (+ case_pages_map.json for page aliases)
+  judicial_cases.jsonl     canonical case citations, metadata, and page aliases
   INQUIRIES.md             constitutional inquiries, Provisions column
   CCB-OVERTURE-ADVICE.md   CCB advice on overtures/amendments, Provisions column
   OVERTURES.md             prior overtures (+ overture_bodies.jsonl to match by provision in body)
@@ -75,17 +75,9 @@ def sec_bare(s):  # 'BCO 9-3' -> '9-3'
 def join_cases(secs, chaps):
     bare = {sec_bare(s) for s in secs if s.startswith("BCO")}
     chap_nums = {c for (k, c) in chaps if k == "BCO"}
-    cmap = json.load(open(os.path.join(IDX, "case_pages_map.json")))
     def _norm(n):
         a = n.split("-")
         return a[0] + "-" + str(int(re.sub(r"[A-Za-z].*", "", a[1]))) if len(a) == 2 and a[1][:1].isdigit() else n
-    by_num = {}
-    for n, v in cmap.items():
-        for k in [n] + v.get("numbers", []):
-            try:
-                by_num[_norm(k)] = v
-            except Exception:
-                pass
     out = []
     for r in (json.loads(l) for l in open(os.path.join(ROOT, "data", "cases", "records", "judicial_cases.jsonl"))):
         cited = set(r.get("bco_cited_current") or []) | set(r.get("bco_cited_as") or [])
@@ -97,7 +89,7 @@ def join_cases(secs, chaps):
         vol = f"ga{ga:02d}_{yr}" if ga and yr else None
         anchor = f"{vol}.md#ga{ga}-p{page}" if vol and page else (vol + ".md" if vol else "")
         cn = r.get("legacy_case_id") or r.get("case_id")
-        cfile = by_num.get(_norm(cn), {}).get("file") if cn else None
+        cfile = r.get("case_page")
         disposition = r.get("disposition_detail") or ", ".join(r.get("final_dispositions") or [])
         out.append({"num": cn, "title": r.get("title"), "disposition": disposition,
                     "ga": ga, "year": yr, "provisions": sorted(exact),

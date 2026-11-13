@@ -1,9 +1,8 @@
 #!/usr/bin/env python3
 """Render the canonical judicial-case taxonomy as a human-readable index.
 
-This is intentionally a separate catalogue from ``index/CASES.md``.  CASES.md
-is the legacy extraction/index view; JUDICIAL-CASES.html is the one-row-per-
-rostered-case editorial view produced by scripts/12_case_taxonomy.py.
+JUDICIAL-CASES.html is the one-row-per-rostered-case editorial view produced
+by scripts/12_case_taxonomy.py.
 """
 from __future__ import annotations
 

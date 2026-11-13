@@ -1,8 +1,8 @@
 # Authority index audit
 
-Catalogue input fingerprint: `7060073322ab5c0d91cc95b957c4b4c2b0bc5492cefe066a8577b6c6bf45348e`.
+Catalogue input fingerprint: `fe4e56d10f19c5968a40be13896647ca3f001074b9b37494b74566def389d7c2`.
 
-The catalogue contains 1172 provisions, 12802 relationships, 16696 evidence occurrences, and 96 unmatched source references.
+The catalogue contains 1172 provisions, 12998 relationships, 16959 evidence occurrences, and 108 unmatched source references.
 
 Relationship kinds describe why a record is linked. Evidence basis describes the source of that link. Match confidence describes extraction confidence. Reader scope labels the relationship in the Constitution Reader. These fields do not describe legal force.
 
@@ -14,7 +14,7 @@ The Reader includes indexed relationships for its supported record types across 
 |-------------|--------------:|----------------:|
 | CCB advice | 549 | 549 |
 | Constitutional inquiry | 437 | 437 |
-| Judicial case | 3316 | 3316 |
+| Judicial case | 3512 | 3512 |
 | Overture | 1613 | 1613 |
 | RPR exception | 6887 | 6887 |
 
@@ -24,7 +24,7 @@ Reader-included relationships by scope:
 |-------------|-------|------:|
 | CCB advice | `contextual` | 549 |
 | Constitutional inquiry | `primary` | 437 |
-| Judicial case | `primary` | 3316 |
+| Judicial case | `primary` | 3512 |
 | Overture | `candidate` | 1535 |
 | Overture | `primary` | 78 |
 | RPR exception | `candidate` | 136 |
@@ -36,9 +36,9 @@ Reader-included relationships by scope:
 |-------|------:|
 | `body_mention` | 203 |
 | `exception_target` | 224 |
-| `explicit_citation` | 3987 |
+| `explicit_citation` | 4122 |
 | `proposal_target` | 489 |
-| `structured_case_reference` | 872 |
+| `structured_case_reference` | 935 |
 | `structured_exception_tag` | 6711 |
 | `structured_provision_tag` | 986 |
 
@@ -46,8 +46,8 @@ Reader-included relationships by scope:
 
 | Value | Count |
 |-------|------:|
-| `direct_text` | 4388 |
-| `structured_case_metadata` | 872 |
+| `direct_text` | 4523 |
+| `structured_case_metadata` | 935 |
 | `structured_provision_tag` | 7697 |
 | `title_subject_reference` | 489 |
 
@@ -55,8 +55,8 @@ Reader-included relationships by scope:
 
 | Value | Count |
 |-------|------:|
-| `high` | 4549 |
-| `medium` | 8253 |
+| `high` | 4684 |
+| `medium` | 8314 |
 
 ### Relationships by reader scope
 
@@ -64,23 +64,23 @@ Reader-included relationships by scope:
 |-------|------:|
 | `candidate` | 1671 |
 | `contextual` | 7300 |
-| `primary` | 3831 |
+| `primary` | 4027 |
 
 ### Relationships by match method
 
 | Value | Count |
 |-------|------:|
-| `case_provision_index:case_markdown_text` | 941 |
-| `case_provision_index:case_markdown_text,judicial_cases.jsonl:bco_cited_as,judicial_cases.jsonl:bco_cited_current` | 210 |
-| `case_provision_index:case_markdown_text,judicial_cases.jsonl:bco_cited_as,judicial_cases.jsonl:bco_cited_current,judicial_cases.jsonl:bco_provisions` | 1375 |
-| `case_provision_index:case_markdown_text,judicial_cases.jsonl:bco_cited_as,judicial_cases.jsonl:bco_provisions` | 4 |
-| `case_provision_index:case_markdown_text,judicial_cases.jsonl:bco_provisions` | 73 |
+| `case_provision_index:case_markdown_text` | 1031 |
+| `case_provision_index:case_markdown_text,judicial_cases.jsonl:bco_cited_as,judicial_cases.jsonl:bco_cited_current` | 213 |
+| `case_provision_index:case_markdown_text,judicial_cases.jsonl:bco_cited_as,judicial_cases.jsonl:bco_cited_current,judicial_cases.jsonl:bco_provisions` | 1396 |
+| `case_provision_index:case_markdown_text,judicial_cases.jsonl:bco_cited_as,judicial_cases.jsonl:bco_provisions` | 5 |
+| `case_provision_index:case_markdown_text,judicial_cases.jsonl:bco_provisions` | 94 |
 | `case_provision_index:judicial_cases.jsonl:bco_cited_as` | 1 |
-| `case_provision_index:judicial_cases.jsonl:bco_cited_as,judicial_cases.jsonl:bco_cited_current` | 118 |
-| `case_provision_index:judicial_cases.jsonl:bco_cited_as,judicial_cases.jsonl:bco_cited_current,judicial_cases.jsonl:bco_provisions` | 676 |
+| `case_provision_index:judicial_cases.jsonl:bco_cited_as,judicial_cases.jsonl:bco_cited_current` | 126 |
+| `case_provision_index:judicial_cases.jsonl:bco_cited_as,judicial_cases.jsonl:bco_cited_current,judicial_cases.jsonl:bco_provisions` | 719 |
 | `case_provision_index:judicial_cases.jsonl:bco_cited_as,judicial_cases.jsonl:bco_provisions` | 4 |
-| `case_provision_index:judicial_cases.jsonl:bco_cited_current` | 9 |
-| `case_provision_index:judicial_cases.jsonl:bco_provisions` | 90 |
+| `case_provision_index:judicial_cases.jsonl:bco_cited_current` | 10 |
+| `case_provision_index:judicial_cases.jsonl:bco_provisions` | 101 |
 | `index/inquiries_search.json:provisions` | 986 |
 | `index/rpr_search.json:provisions` | 6711 |
 | `overture_body_explicit_reference_match` | 1452 |
@@ -179,9 +179,9 @@ Reader-included relationships by scope:
 |-------|------:|
 | `body_mention` | 366 |
 | `exception_target` | 284 |
-| `explicit_citation` | 6962 |
+| `explicit_citation` | 7162 |
 | `proposal_target` | 489 |
-| `structured_case_reference` | 898 |
+| `structured_case_reference` | 961 |
 | `structured_exception_tag` | 6711 |
 | `structured_provision_tag` | 986 |
 
@@ -189,8 +189,8 @@ Reader-included relationships by scope:
 
 | Value | Count |
 |-------|------:|
-| `direct_text` | 7612 |
-| `structured_case_metadata` | 898 |
+| `direct_text` | 7812 |
+| `structured_case_metadata` | 961 |
 | `structured_provision_tag` | 7697 |
 | `title_subject_reference` | 489 |
 
@@ -198,8 +198,8 @@ Reader-included relationships by scope:
 
 | Value | Count |
 |-------|------:|
-| `high` | 8101 |
-| `medium` | 8595 |
+| `high` | 8301 |
+| `medium` | 8658 |
 
 ### Evidence occurrences by reader scope
 
@@ -207,7 +207,7 @@ Reader-included relationships by scope:
 |-------|------:|
 | `candidate` | 2910 |
 | `contextual` | 7544 |
-| `primary` | 6242 |
+| `primary` | 6505 |
 
 ## Unmatched source references
 
@@ -215,16 +215,19 @@ Reader-included relationships by scope:
 |-------------|------:|
 | CCB advice | 14 |
 | Constitutional inquiry | 4 |
-| Judicial case | 16 |
+| Judicial case | 28 |
 | Overture | 43 |
 | RPR exception | 19 |
 
 | Provision | Record type | Record ID | Evidence | Confidence | Scope | Source |
 |-----------|-------------|-----------|----------|------------|-------|--------|
+| BCO 1-14-4 | Judicial case | `case:cases/ga03_1975__case1.md` | `structured_case_metadata` | `medium` | `primary` | [Rev. Harold L. Webb & Rev. Thomas Miller v. Pacific Presbytery](../cases/ga03_1975__case1.md) |
 | BCO 10-18 | Judicial case | `case:cases/ga36_2008__2007-08.md` | `structured_case_metadata` | `medium` | `primary` | [Jones v. Louisiana](../cases/ga36_2008__2007-08.md) |
 | BCO 13-19.b | RPR exception | `rpr_exception:rpr/exc/korean-eastern__038.html` | `structured_provision_tag` | `medium` | `contextual` | [Korean Eastern: BCO 13-19b. No record of Presbytery reviewing minutes of church sessions.](../rpr/exc/korean-eastern__038.html) |
+| BCO 14-25 | Judicial case | `case:cases/ga14_1986__case6.md` | `structured_case_metadata` | `medium` | `primary` | [Carl W. Bogue et al. v. Presbytery of the Ascension](../cases/ga14_1986__case6.md) |
 | BCO 14-46 | Overture | `overture:ga19_1991:5:p163` | `direct_text` | `high` | `candidate` | [Direct GA Committees Not to Initiate Changes to BCO or RAO](../markdown/ga19_1991.md#ga19-p163) |
 | BCO 14-71 | Constitutional inquiry | `inquiry:inquiries/ga15_1987__ci01.md` | `structured_provision_tag` | `medium` | `primary` | [Informal versus formal admonition and due-process requirements under BCO 27-5](../inquiries/ga15_1987__ci01.md) |
+| BCO 14-9 | Judicial case | `case:cases/ga06_1978__case2.md` | `structured_case_metadata` | `medium` | `primary` | [Luther L. Allin Jr. et al. v. Tennessee Valley Presbytery](../cases/ga06_1978__case2.md) |
 | BCO 14-9.b | RPR exception | `rpr_exception:rpr/exc/nashville__064.html` | `structured_provision_tag` | `medium` | `contextual` | [Nashville: No record of Presbytery action on review of Session records.](../rpr/exc/nashville__064.html) |
 | BCO 15-15 | Constitutional inquiry | `inquiry:inquiries/ga20_1992__ci02.md` | `structured_provision_tag` | `medium` | `primary` | [SJC authority to issue decisions contradicting prior General Assembly actions](../inquiries/ga20_1992__ci02.md) |
 | BCO 18-19 | RPR exception | `rpr_exception:rpr/exc/rio-grande__011.html` | `structured_provision_tag` | `medium` | `contextual` | [Rio Grande: No record of candidate coming under care, licensure or ordination exams, or internship.](../rpr/exc/rio-grande__011.html) |
@@ -259,8 +262,11 @@ Reader-included relationships by scope:
 | BCO 32-21 | CCB advice | `ccb_advice:inquiries/ga41_2013__ci01.md` | `structured_provision_tag` | `medium` | `contextual` | [Defining Supporting Reasons for a Complaint or Appeal](../inquiries/ga41_2013__ci01.md) |
 | BCO 32-30 | Judicial case | `case:cases/ga23_1995__1993-10.md` | `structured_case_metadata` | `medium` | `primary` | [Clark v. Southwest Presbytery](../cases/ga23_1995__1993-10.md) |
 | BCO 32-30 | Judicial case | `case:cases/ga23_1995__1993-12_1993-14.md` | `direct_text` | `high` | `primary` | [Grace RPC Session v. Heartland Presbytery](../cases/ga23_1995__1993-12_1993-14.md) |
+| BCO 33-12 | Judicial case | `case:cases/ga08_1980__case1.md` | `direct_text` | `high` | `primary` | [Teaching Elders Byron Snapp and James M. Hope v. Calvary Presbytery](../cases/ga08_1980__case1.md) |
+| BCO 33-19 | Judicial case | `case:cases/ga08_1980__case3.md` | `structured_case_metadata` | `medium` | `primary` | [Teaching Elder Carl W. Bogue et al. v. Presbytery of the Ascension](../cases/ga08_1980__case3.md) |
 | BCO 33-5 | CCB advice | `ccb_advice:inquiries/ga52_2025__ci28.md` | `structured_provision_tag` | `medium` | `contextual` | [Amend BCO 34-8 and add BCO 33-5 to Clarify the Process for Elevating Suspension from Office to Deposition](../inquiries/ga52_2025__ci28.md) |
 | BCO 33-5 | Overture | `overture:ga52_2025:39:p1280` | `direct_text` | `high` | `candidate` | [Amend BCO 34-8 and Add BCO 33-5 to Clarify Process for Elevating Suspension to Deposition](../markdown/ga52_2025.md#ga52-p1280) |
+| BCO 36-11 | Judicial case | `case:cases/ga08_1980__case3.md` | `structured_case_metadata` | `medium` | `primary` | [Teaching Elder Carl W. Bogue et al. v. Presbytery of the Ascension](../cases/ga08_1980__case3.md) |
 | BCO 38-31 | Overture | `overture:ga24_1996:6:p298` | `direct_text` | `high` | `candidate` | [Amend BCO 46-5, 38-2 & 38-3 on Member Roll Removal & Discipline](../markdown/ga24_1996.md#ga24-p298) |
 | BCO 39-4 | Judicial case | `case:cases/ga41_2013__2012-05.md` | `direct_text` | `high` | `primary` | [Hedman v. Pacific Northwest Presbytery](../cases/ga41_2013__2012-05.md) |
 | BCO 39-4 | Overture | `overture:ga41_2013:19:p860` | `direct_text` | `high` | `candidate` | [Request Rehearing of SJC Case 2012-05](../markdown/ga41_2013.md#ga41-p860) |
@@ -272,6 +278,10 @@ Reader-included relationships by scope:
 | BCO 42-13 | CCB advice | `ccb_advice:inquiries/ga41_2013__ci02.md` | `structured_provision_tag` | `medium` | `contextual` | [Defining the Terms Used in BCO 42](../inquiries/ga41_2013__ci02.md) |
 | BCO 43-11 | CCB advice | `ccb_advice:inquiries/ga41_2013__ci03.md` | `structured_provision_tag` | `medium` | `contextual` | [Defining the Terms Used in BCO 43](../inquiries/ga41_2013__ci03.md) |
 | BCO 44-3 | Judicial case | `case:cases/ga14_1986__case7.md` | `direct_text` | `high` | `primary` | [Dye et al. v. Missouri Presbytery](../cases/ga14_1986__case7.md) |
+| BCO 44-4 | Judicial case | `case:cases/ga05_1977__case1.md` | `direct_text` | `high` | `primary` | [Rev. Paul L. Karlberg and Ruling Elder James G. Luce v. Central Georgia Presbytery](../cases/ga05_1977__case1.md) |
+| BCO 44-4 | Judicial case | `case:cases/ga08_1980__case3.md` | `direct_text` | `high` | `primary` | [Teaching Elder Carl W. Bogue et al. v. Presbytery of the Ascension](../cases/ga08_1980__case3.md) |
+| BCO 44-5 | Judicial case | `case:cases/ga06_1978__case1.md` | `direct_text` | `high` | `primary` | [James H. Campbell v. Mid-Atlantic Presbytery](../cases/ga06_1978__case1.md) |
+| BCO 44-5 | Judicial case | `case:cases/ga06_1978__case2.md` | `structured_case_metadata` | `medium` | `primary` | [Luther L. Allin Jr. et al. v. Tennessee Valley Presbytery](../cases/ga06_1978__case2.md) |
 | BCO 45-6 | CCB advice | `ccb_advice:inquiries/ga25_1997__ci04.md` | `structured_provision_tag` | `medium` | `contextual` | [Perfecting amendment language for removing members from the roll](../inquiries/ga25_1997__ci04.md) |
 | BCO 46-51 | Overture | `overture:ga24_1996:6:p298` | `direct_text` | `high` | `candidate` | [Amend BCO 46-5, 38-2 & 38-3 on Member Roll Removal & Discipline](../markdown/ga24_1996.md#ga24-p298) |
 | BCO 46-9 | Overture | `overture:ga21_1993:14:p128` | `direct_text` | `high` | `candidate` | [Amend BCO 38-3 to Clarify Discipline of Members Joining Other Churches](../markdown/ga21_1993.md#ga21-p128) |
@@ -286,6 +296,7 @@ Reader-included relationships by scope:
 | BCO 56-58 | Overture | `overture:ga13_1985:40:p62` | `title_subject_reference` | `high` | `candidate` | [Remove Constitutional Force from BCO 56-58 Directory for Worship Chapters](../markdown/ga13_1985.md#ga13-p62) |
 | BCO 56-58 | Overture | `overture:ga13_1985:7:p47` | `direct_text` | `high` | `candidate` | [Remove Constitutional Force from BCO 56-58 Worship Directory Chapters](../markdown/ga13_1985.md#ga13-p47) |
 | BCO 56-58 | Overture | `overture:ga50_2023:5:p980` | `direct_text` | `high` | `candidate` | [Amend BCO 8-6 Regarding Chaplain Administration of Sacraments](../markdown/ga50_2023.md#ga50-p980) |
+| BCO 56-6 | Judicial case | `case:cases/ga11_1983__case2.md` | `direct_text` | `high` | `primary` | [Val H. Barleman et al. v. Presbytery of Ascension](../cases/ga11_1983__case2.md) |
 | BCO 56-6 | Overture | `overture:ga47_2019:33:p672` | `direct_text` | `high` | `candidate` | [Amend BCO 57-5 to Add a Trinitarian Vow for Church Membership](../markdown/ga47_2019.md#ga47-p672) |
 | BCO 57-7.5 | Overture | `overture:ga14_1986:24:p52` | `direct_text` | `high` | `candidate` | [Amend BCO 57-5 Membership Vow Regarding Scripture and Church Government](../markdown/ga14_1986.md#ga14-p52) |
 | BCO 6-5 | CCB advice | `ccb_advice:inquiries/ga49_2022__ci23.md` | `structured_provision_tag` | `medium` | `contextual` | [20-3, 25-1, and 24-3, Allowing Congregations to Establish Voting Age Restrictions](../inquiries/ga49_2022__ci23.md) |
@@ -294,6 +305,7 @@ Reader-included relationships by scope:
 | BCO 6-5 | Overture | `overture:ga12_1984:46:p61` | `title_subject_reference` | `high` | `candidate` | [Amend BCO 6-5, 20-3, 24-3, and 25-1 to Allow Congregations to Set a Minimum Voting Age](../markdown/ga12_1984.md#ga12-p61) |
 | BCO 6-5 | Overture | `overture:ga49_2022:30:p1362` | `direct_text` | `high` | `candidate` | [Amend BCO 6-5, 20-3, 24-3, and 25-1 Allowing Congregations to Establish Voting Age Restrictions](../markdown/ga49_2022.md#ga49-p1362) |
 | BCO 6-5.a | Judicial case | `case:cases/ga51_2024__2023-11.md` | `direct_text` | `high` | `primary` | [Psiaki v. Pacific Northwest Presbytery](../cases/ga51_2024__2023-11.md) |
+| BCO 60-6 | Judicial case | `case:cases/ga06_1978__case2.md` | `structured_case_metadata` | `medium` | `primary` | [Luther L. Allin Jr. et al. v. Tennessee Valley Presbytery](../cases/ga06_1978__case2.md) |
 | BCO 60-63 | Overture | `overture:ga52_2025:5:p1172` | `title_subject_reference` | `high` | `candidate` | [Grant BCO 60-63 Full Constitutional Status](../markdown/ga52_2025.md#ga52-p1172) |
 | BCO 7-4 | Overture | `overture:ga23_1995:15:p240` | `direct_text` | `high` | `candidate` | [Amend BCO 7-4 to Confine Doctrinal Requirements to Westminster Standards](../markdown/ga23_1995.md#ga23-p240) |
 | BCO 7-4 | Overture | `overture:ga49_2022:15:p1329` | `direct_text` | `high` | `candidate` | [Amend BCO 7 to Disqualify from Office Men Identifying as Homosexual](../markdown/ga49_2022.md#ga49-p1329) |
@@ -362,7 +374,7 @@ Stored `unrelated_or_mislinked` advisory labels by record type:
 - Overture: 89
 - RPR exception: 118
 
-Assessment status: `stale`; applied 0, stale 11481, unassessed 12802.
+Assessment status: `stale`; applied 0, stale 11481, unassessed 12998.
 
 ## Coverage and spot checks
 

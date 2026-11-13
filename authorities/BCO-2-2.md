@@ -7,6 +7,7 @@
 | 2025 | Judicial case | explicit_citation | direct_text | high | [Felipe Assis and Carter Brown v. South Florida Presbytery](../cases/ga52_2025__2025-12_2025-13.md) | Appeal sustained; divestitures reversed and both ministers restored to good standing |
 | 2024 | Judicial case | explicit_citation | direct_text | high | [Evans v. Arizona Presbytery](../cases/ga51_2024__2023-07.md) | granted |
 | 2021 | Judicial case | explicit_citation | direct_text | high | [Gendy v. Central Florida Presbytery](../cases/ga48_2021__2019-13.md) | sustained |
+| 1977 | Judicial case | structured_case_reference | structured_case_metadata | medium | [Rev. Thomas Barnes et al. v. Evangel Presbytery](../cases/ga05_1977__case3.md) | Complaint not sustained; written call requirement emphasized and broader question referred to the CJB |
 | 2009 | Constitutional inquiry | structured_provision_tag | structured_provision_tag | medium | [Whether the Beliefs of a Non-PCA Body Satisfy BCO 2](../inquiries/ga37_2009__ci05.md) | advice given |
 | 1997 | CCB advice | structured_provision_tag | structured_provision_tag | medium | [BCO 38-3 - Removing Members from the Roll](../inquiries/ga25_1997__ci05.md) | advice given |
 | 2012 | Overture | explicit_citation | direct_text | high | [Amend BCO 38-3a, 46-6, 46-7, and Remove BCO 57-6 on Church Membership Transfer](../markdown/ga40_2012.md#ga40-p735) | Answered in the negative |

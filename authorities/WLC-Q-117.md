@@ -5,6 +5,7 @@
 | Year | Record type | Relationship | Evidence | Confidence | Title | Disposition |
 |------|-------------|--------------|----------|------------|-------|-------------|
 | 2024 | Judicial case | explicit_citation | direct_text | high | [Biese et al. v. Tennessee Valley Presbytery](../cases/ga51_2024__2023-04.md) | denied |
+| 1989 | Judicial case | explicit_citation | direct_text | high | [D. Stine (a member) v. Southern Florida Presbytery (regarding Sabbath recreation activities)](../cases/ga17_1989__case5.md) | Presbytery's decision confirmed; complaint denied. Commission votes: Complaint (1) sustained 6, not sustained 13, abstain 1; Complaint (2) sustained 6, not sustained 14 |
 | 2025 | Overture | explicit_citation | direct_text | high | [Direct the AC to Collect and Report Each Congregation's Public Worship Service Times](../markdown/ga52_2025.md#ga52-p1288) | Answered in the negative |
 | 2015 | Overture | explicit_citation | direct_text | high | [Establish Study Committee on Westminster Standards & the Sabbath](../markdown/ga43_2015.md#ga43-p615) | Answered by reference to Overture 2 |
 | 2015 | Overture | explicit_citation | direct_text | high | [Form Ad Interim Committee to Revise Westminster Standards on Sabbath](../markdown/ga43_2015.md#ga43-p601) | Answered in the negative |

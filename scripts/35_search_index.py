@@ -4,7 +4,7 @@
 Combines the compact per-catalogue exports into one client-side search index:
   - RPR exceptions of substance      (index/rpr_search.json, written by 33_rpr_build)
   - Constitutional inquiries         (index/inquiries_search.json, written by 30_inquiry_pages)
-  - Judicial cases                   (index/case_pages_map.json)
+  - Judicial cases                   (data/cases/records/judicial_cases.jsonl)
   - Overtures                        (from curated title/disposition/body metadata, with catalogue fallback)
 Each record has display metadata plus explicit searchable fields. The browser search consumes
 title, identifiers, assembly/year, parties, BCO references, topics, summaries, status, and
@@ -123,25 +123,22 @@ def main():
     else:
         taxonomy_rows = []
 
-    # The canonical catalogue supplies case metadata. The page map keeps pages
-    # searchable where a page has not yet been represented in the catalogue.
+    # The canonical catalogue supplies case metadata and the docket aliases
+    # represented on each full-text page.
     taxonomy_by_page: dict[str, list[dict]] = {}
     for item in taxonomy_rows:
         if item.get("case_page"):
             taxonomy_by_page.setdefault(item["case_page"], []).append(item)
-    page_entries = {}
-    page_map_path = Path(IDX) / "case_pages_map.json"
-    if page_map_path.exists():
-        for entry in json.loads(page_map_path.read_text(encoding="utf-8")).values():
-            file_stem = entry.get("file")
-            if file_stem:
-                page_entries.setdefault(file_stem, entry)
 
-    for file_stem in sorted(set(taxonomy_by_page) | set(page_entries)):
+    for file_stem in sorted(taxonomy_by_page):
         tax_rows = taxonomy_by_page.get(file_stem, [])
-        page_entry = page_entries.get(file_stem, {})
         tax = tax_rows[0] if tax_rows else {}
-        page_numbers = page_entry.get("numbers") or []
+        page_numbers = list(dict.fromkeys(
+            number for item in tax_rows
+            for number in item.get("page_case_numbers", []) if number
+        ))
+        if not page_numbers:
+            page_numbers = [item.get("case_id") for item in tax_rows if item.get("case_id")]
         identifiers = [f"Case {number}" for number in page_numbers]
         for item in tax_rows:
             for value in (item.get("case_id"), item.get("legacy_case_id"),
@@ -150,7 +147,7 @@ def main():
                     identifiers.append(f"Case {value}" if re.match(r"^\d{4}-", str(value)) else str(value))
             identifiers.extend(item.get("minute_ids") or [])
         identifiers = list(dict.fromkeys(identifiers))
-        title = tax.get("title") or page_entry.get("title") or file_stem
+        title = tax.get("title") or file_stem
         tax_dispositions = list(dict.fromkeys(
             disposition for item in tax_rows
             for disposition in (item.get("final_dispositions") or []) if disposition
@@ -177,7 +174,7 @@ def main():
         if not summary:
             summary = case_page_summary(ROOT, file_stem)
         case_id = tax.get("case_id") or (page_numbers[0] if page_numbers else "")
-        page_year = re.search(r"ga\d+_(\d{4})", str(page_entry.get("vol") or file_stem))
+        page_year = re.search(r"ga\d+_(\d{4})", str(file_stem))
         year = tax.get("decision_year") or (int(page_year.group(1)) if page_year else None)
         row = {"type": "Judicial case", "title": title,
                "sub": f"SJC/CJB case {case_id}" if case_id else "Judicial case",

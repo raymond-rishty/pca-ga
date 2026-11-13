@@ -1,20 +1,19 @@
 #!/usr/bin/env python3
 """
 09_reconcile_roster.py — reconcile our corpus-extracted case index
-(data/cases/records/cases.jsonl) against the PCA Historical Center's authoritative SJC roster
+(data/cases/derived/cases_extracted.jsonl) against the PCA Historical Center's SJC roster
 (data/cases/sources/sjc_official/roster.jsonl). The roster is GROUND TRUTH: every case it lists
 should be findable in our conversions.
 
 Produces:
   - coverage stats: matched / missing-from-ours / extra-in-ours
   - data/cases/recovery/sjc_missing.jsonl   official cases we did NOT extract (the hunt list)
-  - (with --enrich) rewrites data/cases/records/cases.jsonl: matched cases gain canonical_title +
-    official_pdf_url + official_year; official cases we missed are added as stub rows
-    (source="official_roster_only", needs_location=true) so a search still resolves the
-    canonical identity and points to where to look.
+  - (with --enrich) writes data/cases/derived/cases_reconciled.jsonl: matched cases gain
+    canonical_title + official_pdf_url + official_year; optional roster stubs are retained
+    in the reconciliation layer for coverage workflows.
 
 CLI:  09_reconcile_roster.py            # report coverage only
-      09_reconcile_roster.py --enrich   # also enrich/stub cases.jsonl
+      09_reconcile_roster.py --enrich   # write the reconciled extraction layer
 """
 from __future__ import annotations
 import json, os, re, sys, collections, difflib
@@ -23,9 +22,12 @@ ROOT = os.environ.get("PCA_GA_ROOT", os.path.dirname(os.path.dirname(os.path.abs
 ROSTER = os.path.join(ROOT, "data", "cases", "sources", "sjc_official", "roster.jsonl")
 CASES = os.environ.get(
     "PCA_CASES_INPUT",
-    os.path.join(ROOT, "data", "cases", "records", "cases.jsonl"),
+    os.path.join(ROOT, "data", "cases", "derived", "cases_extracted.jsonl"),
 )
-CASES_OUT = os.environ.get("PCA_CASES_OUTPUT", CASES)
+CASES_OUT = os.environ.get(
+    "PCA_CASES_OUTPUT",
+    os.path.join(ROOT, "data", "cases", "derived", "cases_reconciled.jsonl"),
+)
 MISSING = os.path.join(ROOT, "data", "cases", "recovery", "sjc_missing.jsonl")
 
 

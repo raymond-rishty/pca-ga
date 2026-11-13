@@ -9,7 +9,7 @@ Run AFTER 07.
 
 Pipeline:  07_build_cases.py  ->  11_merge_hunt.py  ->  09_reconcile_roster.py --enrich
 
-CLI:  11_merge_hunt.py            # merge found/*.json into cases.jsonl
+CLI:  11_merge_hunt.py            # merge found/*.json into cases_extracted.jsonl
 """
 from __future__ import annotations
 import glob, importlib, json, os, re, sys
@@ -20,7 +20,7 @@ conc = importlib.import_module("bco_concordance")
 rec09 = importlib.import_module("09_reconcile_roster")
 
 ROOT = os.environ.get("PCA_GA_ROOT", os.path.dirname(HERE))
-CASES = os.environ.get("PCA_CASES_RECORDS", ROOT + "/data/cases/records/cases.jsonl")
+CASES = os.environ.get("PCA_CASES_RECORDS", ROOT + "/data/cases/derived/cases_extracted.jsonl")
 PAGE_JSONL_DIR = os.environ.get("PCA_CASE_PAGE_JSONL", ROOT + "/build/page_jsonl")
 FOUND = ROOT + "/data/cases/recovery/hunt/found"
 ROSTER = ROOT + "/data/cases/sources/sjc_official/roster.jsonl"
@@ -210,7 +210,7 @@ def main():
     print(f"[merge-hunt] found={len(found)}  added={added} (mention/withdrawn={mentions})  "
           f"not-found={unresolved}  skipped-correct={skipped}  "
           f"demoted-misnumbered={demoted}")
-    print(f"             cases.jsonl now {len(cases)} rows")
+    print(f"             {CASES} now has {len(cases)} rows")
 
 
 if __name__ == "__main__":

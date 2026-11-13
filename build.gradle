@@ -67,10 +67,10 @@ def sourceRegistryInputs = files(
 )
 def provisionCatalogueInputs = files(fileTree('index') {
     exclude 'provision_catalogue.json', 'OVERTURES.md', 'overture_catalogue_corrections.jsonl',
-        'source_registry.json', 'dedicated_pdf_inventory.json'
-}, fileTree('data/cases') { exclude 'records/cases.jsonl' })
+        'source_registry.json', 'dedicated_pdf_inventory.json', 'case_pages_map.json'
+}, fileTree('data/cases'))
 def searchIndexInputs = files(fileTree('index') {
-    exclude 'source_registry.json', 'dedicated_pdf_inventory.json', 'CASES.md'
+    exclude 'source_registry.json', 'dedicated_pdf_inventory.json', 'case_pages_map.json'
 }, file('data/cases/records/judicial_cases.jsonl'))
 def judicialCatalogueInputs = files(file('data/cases/records/judicial_cases.jsonl'))
 def searchIndexOutputs = fileTree('app') {
@@ -147,7 +147,7 @@ linkOvertureCatalogue.configure { dependsOn reconcileOvertureCatalogue, regenera
 
 def reconcileCases = registerCommand(
     'reconcileCaseArtifacts', [pythonCommand, 'scripts/27_case_index_reconcile.py'],
-    [generatorScripts, fileTree('cases'), file('index/CASES.md'), file('index/case_pages_map.json'),
+    [generatorScripts, fileTree('cases'), file('index/case_pages_map.json'),
      file('data/cases/overrides/case_pages_overrides.json')]
 )
 reconcileCases.configure { dependsOn checkPython }
@@ -226,12 +226,11 @@ def buildJudicialCaseRecords = registerCommand(
      file('data/cases/overrides/case_identity_overrides.json'),
      file('data/cases/overrides/judicial_case_editorial_overrides.json'),
      file('data/cases/audits/judicial_case_summary_audits.json')],
-    [file('data/cases/records/judicial_cases.jsonl'), file('data/cases/records/cases.jsonl')]
+    [file('data/cases/records/judicial_cases.jsonl')]
 )
 buildJudicialCaseRecords.configure {
     dependsOn reconcileCaseRoster, reconcileCases
     environment 'PCA_CASES_INPUT', file('data/cases/derived/cases_reconciled.jsonl').absolutePath
-    environment 'PCA_CASES_OUTPUT', file('data/cases/records/cases.jsonl').absolutePath
 }
 buildMinutesDatabase.configure {
     dependsOn buildPageJsonl
@@ -239,25 +238,13 @@ buildMinutesDatabase.configure {
 }
 buildMinutesDatabase.configure { mustRunAfter buildJudicialCaseRecords }
 huntMissingCases.configure { dependsOn reconcileCaseRoster, buildJudicialCaseRecords }
-def buildAssemblyCaseEntries = registerCommand(
-    'buildAssemblyCaseEntries', [pythonCommand, 'scripts/83_build_assembly_case_entries.py'],
-    [generatorScripts, file('data/cases/derived/cases_reconciled.jsonl'),
-     file('data/cases/overrides/assembly_case_entry_reviews.json')],
-    [file('data/cases/derived/assembly_case_entries.jsonl')], true
-)
-buildAssemblyCaseEntries.configure { dependsOn reconcileCaseRoster }
 def renderMinutesIndexesBase = registerCommand(
     'renderMinutesIndexesBase', [pythonCommand, 'scripts/20_markdown_index.py'],
-    [generatorScripts, file('index/pca_minutes.db'),
-     file('data/cases/records/judicial_cases.jsonl'),
-     file('data/cases/derived/assembly_case_entries.jsonl'), file('index/case_pages_map.json'),
-     file('index/cjb_pages.json'), file('index/stub_pages.json'),
-     file('index/notlocated_resolved.json'), fileTree('cases'), fileTree('markdown')],
-    [file('index/INDEX.md'), file('index/OVERTURES.md'), file('index/CASES.md'),
-     fileTree('index/outlines')], true
+    [generatorScripts, file('index/pca_minutes.db'), fileTree('markdown')],
+    [file('index/INDEX.md'), file('index/OVERTURES.md'), fileTree('index/outlines')], true
 )
 renderMinutesIndexesBase.configure {
-    dependsOn buildMinutesDatabase, buildJudicialCaseRecords, buildAssemblyCaseEntries
+    dependsOn buildMinutesDatabase, buildJudicialCaseRecords
 }
 reconcileOvertureCatalogue.configure { dependsOn renderMinutesIndexesBase }
 tasks.register('generateMinutesIndexes') {
@@ -286,8 +273,7 @@ judicialCatalogue.configure { dependsOn syncCaseCards }
 
 def caseProvisionIndex = registerCommand(
     'generateCaseProvisionIndex', [pythonCommand, 'scripts/44_case_provision_index.py', '.'],
-    [generatorScripts, file('data/cases/records/judicial_cases.jsonl'),
-     file('index/case_pages_map.json'), fileTree('cases')],
+    [generatorScripts, file('data/cases/records/judicial_cases.jsonl'), fileTree('cases')],
     [file('index/case_provision_index.json'), file('index/CASES-BY-PROVISION.md')], true
 )
 caseProvisionIndex.configure { dependsOn judicialCatalogue }

@@ -2,9 +2,7 @@
 """Build the canonical, one-row-per-case judicial taxonomy.
 
 Inputs are the official SJC/CJB roster plus the reconciled extracted case index.
-The canonical output is ``data/cases/records/judicial_cases.jsonl``; the task
-also writes ``data/cases/records/cases.jsonl`` as a legacy extraction layer for
-remaining hunt/recovery workflows, structural indexing, and coverage review.
+The canonical output is ``data/cases/records/judicial_cases.jsonl``.
 
 Usage: python scripts/12_case_taxonomy.py [ROOT]
 """
@@ -25,8 +23,7 @@ ROOT = sys.argv[1] if __name__ == "__main__" and len(sys.argv) > 1 else DEFAULT_
 IDX = os.path.join(ROOT, "index")
 CASE_DATA = os.path.join(ROOT, "data", "cases")
 ROSTER = os.path.join(CASE_DATA, "sources", "sjc_official", "roster.jsonl")
-CASES = os.environ.get("PCA_CASES_INPUT", os.path.join(CASE_DATA, "records", "cases.jsonl"))
-CASES_OUT = os.environ.get("PCA_CASES_OUTPUT", CASES)
+CASES = os.environ.get("PCA_CASES_INPUT", os.path.join(CASE_DATA, "derived", "cases_reconciled.jsonl"))
 CJB_PAGES = os.path.join(IDX, "cjb_pages.json")
 CJB_CASES = os.path.join(CASE_DATA, "sources", "cjb_cases.json")
 PAGE_MAP = os.path.join(IDX, "case_pages_map.json")
@@ -949,6 +946,16 @@ def main():
     if os.path.exists(PAGE_MAP):
         with open(PAGE_MAP, encoding="utf-8") as source:
             page_map = json.load(source)
+    page_case_numbers_by_file = defaultdict(list)
+    for map_number, page_entry in page_map.items():
+        page_file = page_entry.get("file")
+        if not page_file:
+            continue
+        numbers = page_entry.get("numbers") or [map_number]
+        for number in numbers:
+            number = str(number).strip()
+            if number and number not in page_case_numbers_by_file[page_file]:
+                page_case_numbers_by_file[page_file].append(number)
     editorial_overrides = {}
     if os.path.exists(EDITORIAL_OVERRIDES):
         with open(EDITORIAL_OVERRIDES, encoding="utf-8") as source:
@@ -1094,6 +1101,7 @@ def main():
             "case_page": page_file,
             "official_pdf_url": official.get("pdf_url"),
             "classification_status": classification_status,
+            "page_case_numbers": page_case_numbers_by_file.get(page_file, []),
             "summary_source": override["summary_source"] if "summary_source" in override else (audit.get("summary_source") or ("editorial_override" if override.get("summary") else None)),
             "summary_audit_basis": override["summary_audit_basis"] if "summary_audit_basis" in override else audit.get("summary_audit_basis"),
         })
@@ -1102,25 +1110,7 @@ def main():
     with open(OUT, "w", encoding="utf-8", newline="\n") as target:
         for row in rows:
             target.write(json.dumps(row, ensure_ascii=False) + "\n")
-    # Keep the legacy extraction layer's display title aligned with the
-    # canonical taxonomy. Raw roster wording remains available in
-    # ``canonical_title`` for provenance, but should not leak into search or
-    # downstream public indexes through the generic ``title`` field.
-    canonical_titles = {row["case_id"]: row["title"] for row in rows if row.get("case_id")}
-    legacy_rows = load_jsonl(CASES)
-    synced = 0
-    for record in legacy_rows:
-        cid = canonical_id(record.get("canonical_number") or record.get("case_number"))
-        clean = canonical_titles.get(cid)
-        if clean and record.get("title") != clean:
-            record["title"] = clean
-            synced += 1
-    if synced or os.path.abspath(CASES_OUT) != os.path.abspath(CASES):
-        with open(CASES_OUT, "w", encoding="utf-8", newline="\n") as target:
-            for record in legacy_rows:
-                target.write(json.dumps(record, ensure_ascii=False) + "\n")
     print(f"[taxonomy] wrote {len(rows)} canonical judicial cases from {len(load_jsonl(ROSTER))} roster entries -> {OUT}")
-    print(f"           synced_titles={synced} -> {CASES_OUT}")
     counts = defaultdict(int)
     for row in rows:
         counts[row["classification_status"]] += 1

@@ -4,6 +4,7 @@
 
 | Year | Record type | Relationship | Evidence | Confidence | Title | Disposition |
 |------|-------------|--------------|----------|------------|-------|-------------|
+| 1986 | Judicial case | explicit_citation | direct_text | high | [Carl W. Bogue et al. v. Presbytery of the Ascension](../cases/ga14_1986__case6.md) | All five specifications sustained - Presbytery instructed to reexamine TE Lutjens and comply with prior General Assembly directives |
 | 2013 | Overture | explicit_citation | direct_text | high | [Amend BCO 32 by Adding Section 32-21 Defining Supporting Reasons for a Complaint or Appeal](../markdown/ga41_2013.md#ga41-p824) | Adopted the recommendation; Overture 4 was answered in the negative. |
 | 2013 | Overture | explicit_citation | direct_text | high | [Amend BCO 42 by Adding Section 42-13 to Define Terms Used in Chapter 42](../markdown/ga41_2013.md#ga41-p825) | Adopted the recommendation; Overture 5 was answered in the negative. |
 | 2013 | Overture | explicit_citation | direct_text | high | [Amend BCO 43 by Adding Section 43-11 to Define Certain Terms Used in Chapter 43](../markdown/ga41_2013.md#ga41-p827) | Adopted the recommendation; Overture 6 was answered in the negative. |

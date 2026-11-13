@@ -8,10 +8,7 @@
       "title_contains": "07",
       "canonical_id": "1995-10",
       "corrected_title": "Stuart Merriam vs. Tennessee Valley Presbytery (Appeal)",
-      "evidence": [
-        "data/cases/records/cases.jsonl:707",
-        "data/cases/records/cases.jsonl:119"
-      ],
+      "evidence": [],
       "note": "same docket in the minutes-derived corpus has a conflicting caption"
     },
     {
@@ -32,10 +29,7 @@
       "title_contains": "148",
       "canonical_id": "1997-15",
       "corrected_title": "Onda George vs. Central Florida Presbytery (Complaint)",
-      "evidence": [
-        "data/cases/records/cases.jsonl:721",
-        "data/cases/records/cases.jsonl:138"
-      ],
+      "evidence": [],
       "note": "same docket in the minutes-derived corpus has a conflicting caption"
     },
     {
@@ -44,10 +38,7 @@
       "title_contains": "morrison",
       "canonical_id": "2001-01",
       "corrected_title": "Case 2001-01: Appeal of RE Charles Kim vs. Korean Capital Presbytery and related cases, the responsibility for calling a congregational meeting rests with the Session. The proper course of action in this instance w",
-      "evidence": [
-        "data/cases/records/cases.jsonl:293",
-        "data/cases/records/cases.jsonl:166"
-      ],
+      "evidence": [],
       "note": "same docket in the minutes-derived corpus has a conflicting caption"
     },
     {
@@ -82,10 +73,7 @@
       "title_contains": "01",
       "canonical_id": "2002-02",
       "corrected_title": "Nichols and Couch v. James River Presbytery (Case 2002-02)",
-      "evidence": [
-        "data/cases/records/cases.jsonl:315",
-        "data/cases/records/cases.jsonl:203"
-      ],
+      "evidence": [],
       "note": "same docket in the minutes-derived corpus has a conflicting caption"
     },
     {
@@ -94,10 +82,7 @@
       "title_contains": "bjork",
       "canonical_id": "2002-15",
       "corrected_title": "Complaint of TE Walter Bjorck vs. Northern New England Presbytery Found out of order, See 31-35, II, p. 93",
-      "evidence": [
-        "data/cases/records/cases.jsonl:762",
-        "data/cases/records/cases.jsonl:215"
-      ],
+      "evidence": [],
       "note": "same docket in the minutes-derived corpus has a conflicting caption"
     },
     {
@@ -116,10 +101,7 @@
       "title_contains": "sartorius",
       "canonical_id": "2010-14",
       "corrected_title": "Michael A. McNeil v. Chesapeake Presbytery",
-      "evidence": [
-        "data/cases/records/cases.jsonl:830",
-        "data/cases/records/cases.jsonl:326"
-      ],
+      "evidence": [],
       "note": "same docket in the minutes-derived corpus has a conflicting caption"
     },
     {
@@ -128,10 +110,7 @@
       "title_contains": "letter",
       "canonical_id": "2010-17",
       "corrected_title": "Request to General Assembly/Standing Judicial Commission by TE David M. Sarafolean to cite Siouxlands Presbytery, per BCO 40- 4 and -5 Ruled Administratively Out of Order, 528 2010-18 Gulfstream Presb",
-      "evidence": [
-        "data/cases/records/cases.jsonl:831",
-        "data/cases/records/cases.jsonl:328"
-      ],
+      "evidence": [],
       "note": "same docket in the minutes-derived corpus has a conflicting caption"
     },
     {
@@ -164,10 +143,7 @@
       "title_contains": "pca",
       "canonical_id": "2015-06",
       "corrected_title": "Presbyterian Church in America vs. South Florida Presbytery (Citation)",
-      "evidence": [
-        "data/cases/records/cases.jsonl:491",
-        "data/cases/records/cases.jsonl:387"
-      ],
+      "evidence": [],
       "note": "same docket in the minutes-derived corpus has a conflicting caption"
     },
     {

@@ -3,13 +3,13 @@
 26_case_pages_structured.py — generate the LIVE cases/ pages from DOCUMENT STRUCTURE (via
 25_case_extract) for the volumes that pass acceptance, replacing the old table-driven pages
 (24_case_pages.py) for those volumes. Volumes that don't yet pass are left for the per-era profile
-work and marked "extraction in progress" in CASES.md (this script writes no page for them).
+work and marked "extraction in progress" in the page map (this script writes no page for them).
 
 A "passing" SJC volume = autotuned with junk==0, recall>=0.7, and >=3 blocks (per
 index/sjc_strategy.json). Each structure block becomes one page (its full text incl. opinions),
 titled from the cases table (authoritative identity). Emits:
   cases/<vol>__<nums>.md          one page per block
-  index/case_pages_map.json       {normalized_number: {vol,file,numbers,title}} for CASES.md
+  index/case_pages_map.json       {normalized_number: {vol,file,numbers,title}} for catalogue aliases
 
 CLI:  26_case_pages_structured.py
 """

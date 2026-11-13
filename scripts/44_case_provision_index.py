@@ -349,10 +349,6 @@ def prov_sort_key(p: str) -> tuple:
     return (STD_RANK.get(std, 9), [int(n) for n in re.findall(r"\d+", p)], p)
 
 
-def load_json(path: Path, default: Any) -> Any:
-    return json.loads(path.read_text(encoding="utf-8")) if path.exists() else default
-
-
 def load_jsonl(path: Path) -> list[dict[str, Any]]:
     if not path.exists():
         return []
@@ -401,19 +397,22 @@ def text_hits(path: Path) -> dict[str, list[dict[str, Any]]]:
 def main() -> None:
     records = ROOT / "data" / "cases" / "records"
     taxonomy = {norm_case_num(c.get("case_id")): c for c in load_jsonl(records / "judicial_cases.jsonl") if c.get("case_id")}
-    page_map = load_json(IDX / "case_pages_map.json", {})
+    by_page: dict[str, list[dict[str, Any]]] = collections.defaultdict(list)
+    for record in taxonomy.values():
+        file_stem = record.get("case_page")
+        if file_stem:
+            by_page[file_stem].append(record)
 
     rows: list[dict[str, Any]] = []
-    seen_files: set[str] = set()
-    for map_num, entry in sorted(page_map.items(), key=lambda kv: (kv[1].get("file", ""), kv[0])):
-        file_stem = entry.get("file")
-        if not file_stem or file_stem in seen_files:
-            continue
-        seen_files.add(file_stem)
+    for file_stem, canonical_records in sorted(by_page.items()):
         case_path = CASES_DIR / f"{file_stem}.md"
-        nums = [norm_case_num(n) for n in entry.get("numbers", [map_num])]
-        canonical_records = [taxonomy[n] for n in nums if n in taxonomy]
-        title = next((c.get("title") for c in canonical_records if c.get("title")), None) or entry.get("title") or map_num
+        nums = list(dict.fromkeys(
+            norm_case_num(number)
+            for record in canonical_records
+            for number in (record.get("page_case_numbers") or [record.get("case_id")])
+            if number
+        ))
+        title = next((c.get("title") for c in canonical_records if c.get("title")), None) or file_stem
         year = next((c.get("decision_year") for c in canonical_records if c.get("decision_year")), None)
         disposition = next((c.get("disposition_detail") for c in canonical_records if c.get("disposition_detail")), "")
         if not disposition and canonical_records:

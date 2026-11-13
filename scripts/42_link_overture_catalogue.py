@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Link the OVERTURES.md catalogue's Overture-number cell to each overture's
 individual page (overtures/<vol>__o<num>.md), where one exists — mirroring how
-CASES.md links to case pages. The Pages column keeps its minutes deep-link.
+case catalogue entries link to case pages. The Pages column keeps its minutes deep-link.
 
 Post-process (run AFTER 20_markdown_index.py, both trees) rather than baked into
 the DB generator, so a re-render can't revert it and corpus text edits in the

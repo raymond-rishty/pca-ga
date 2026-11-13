@@ -1,20 +1,16 @@
 #!/usr/bin/env python3
-"""Reconcile checked-in judicial-case artefacts without rebuilding the SQLite corpus.
+"""Reconcile docket-to-page mappings without rebuilding the SQLite corpus.
 
 The structure-first publisher normally owns case pages and the case-page map, but a clean GitHub
 Pages checkout intentionally does not contain the analysis database/caches needed to rerun that
 publisher. This pass therefore treats the checked-in ``cases/*.md`` pages as evidence it can safely
 inspect during deployment.
 
-It repairs two recurring extraction artefacts:
+It repairs a recurring extraction artefact:
 
 1. A consolidated SJC decision may be printed under only one docket-number heading while its
    holding expressly disposes of sibling dockets. Add those sibling numbers to the existing
-   case-page map and index row, and make the case-page heading reflect the consolidated decision.
-2. The cases table contains duplicate/mis-paged fallback rows. Suppress anonymous synthetic
-   ``SJC judicial decision (GA ..., p....)`` rows, plus other rows we can safely identify as
-   duplicates or audited false positives; a valid named/docketed matter that is not mapped to a
-   decision is preserved for review.
+   case-page map and make the case-page heading reflect the consolidated decision.
 
 Discovery scans every checked-in case page instead of relying on case_pages_map.json. An omitted
 docket can coincide with an incomplete map, so the defect itself must not prevent discovery.
@@ -27,12 +23,10 @@ import os
 import re
 
 ROOT = os.environ.get("PCA_GA_ROOT", os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
-INDEX = os.path.join(ROOT, "index", "CASES.md")
 PMAP = os.path.join(ROOT, "index", "case_pages_map.json")
 PMAP_OVERRIDES = os.path.join(ROOT, "data", "cases", "overrides", "case_pages_overrides.json")
 CASES = os.path.join(ROOT, "cases")
 
-PAGE_MARKER = re.compile(r"<!--\s*PAGE\b[^>]*\bpdf_page=(\d+)\b", re.I)
 CASE_NUM = re.compile(r"\b(\d{4})-(\d{1,3}[A-Za-z]?)\b")
 DISPOSITION = re.compile(
     r"(?i)\b(?:is|are|be|was|were)\s+(?:partially\s+|in\s+part\s+)?"
@@ -42,46 +36,7 @@ DISPOSITION = re.compile(
 HOLDING_CASE = re.compile(
     r"(?i)\b(?:complaints?|appeals?|petitions?)\b[^.!?]{0,260}?\bcase\s+nos?(?:\s|$)"
 )
-FALLBACK = re.compile(
-    r"_no separate decision located_\s*·\s*\[(ga\d+_\d+)\s+p\.(\d+)\]",
-    re.I,
-)
-ANONYMOUS_SYNTHETIC = re.compile(r"\|\s*\|\s*SJC judicial decision \(GA \d+, p\.\d+\)\s*\|", re.I)
 FILE_VOL = re.compile(r"^(ga\d+_\d+)__(.+)$")
-
-# Manually verified fallback rows that are not separate judicial decisions. Most anonymous rows are
-# now removed by ANONYMOUS_SYNTHETIC; this set remains for any audited non-anonymous anomalies.
-AUDITED_FALSE_FALLBACK_PAGES = {
-    ("ga20_1992", 195),
-    ("ga26_1998", 120),
-    ("ga29_2001", 108),
-    ("ga30_2002", 177),
-    ("ga37_2009", 154),
-    ("ga37_2009", 187),
-    ("ga46_2018", 533),
-    ("ga48_2021", 546),
-    ("ga48_2021", 548),
-    ("ga48_2021", 550),
-    ("ga48_2021", 576),
-    ("ga48_2021", 580),
-    ("ga48_2021", 651),
-    ("ga48_2021", 657),
-    ("ga48_2021", 660),
-    ("ga48_2021", 675),
-    ("ga48_2021", 677),
-    ("ga48_2021", 680),
-    ("ga48_2021", 693),
-    ("ga48_2021", 697),
-    ("ga48_2021", 733),
-    ("ga48_2021", 797),
-    ("ga48_2021", 811),
-    ("ga48_2021", 1065),
-    ("ga48_2021", 1068),
-    ("ga48_2021", 1115),
-}
-PRESERVE_FALLBACK_PAGES = {
-    ("ga49_2022", 886),  # 2021-7, Acree complaint administratively out of order
-}
 
 
 def norm_num(raw: str) -> str:
@@ -134,50 +89,11 @@ def page_identity(path: str, page_map: dict[str, dict]) -> tuple[str, list[str],
     return vol, nums, title
 
 
-def row_docket(line: str) -> str | None:
-    cells = line.split("|")
-    if len(cells) < 3:
-        return None
-    m = CASE_NUM.search(cells[1])
-    return norm_num(m.group(0)) if m else None
-
-
-def normalize_consolidated_row(index_text: str, case_file: str, numbers: list[str]) -> str:
-    """Normalize the two links in a consolidated CASES.md row without touching other columns."""
-    target = f"../cases/{case_file}.md"
-    joined = "/".join(numbers)
-    out = []
-    for line in index_text.splitlines():
-        if target not in line or not line.startswith("|"):
-            out.append(line)
-            continue
-        cells = line.split("|")
-        if len(cells) >= 7 and target in cells[1]:
-            cells[1] = re.sub(
-                r"\[[^\]]+\](\(" + re.escape(target) + r"\))",
-                lambda m: f"[{joined}]{m.group(1)}",
-                cells[1],
-                count=1,
-            )
-            if target in cells[5]:
-                cells[5] = re.sub(
-                    r"\[[^\]]+\](\(" + re.escape(target) + r"\))",
-                    lambda m: f"[full text]{m.group(1)}",
-                    cells[5],
-                    count=1,
-                )
-            line = "|".join(cells)
-        out.append(line)
-    return "\n".join(out) + ("\n" if index_text.endswith("\n") else "")
-
-
 def main() -> None:
-    if not os.path.exists(INDEX) or not os.path.exists(PMAP):
-        raise SystemExit("CASES.md and case_pages_map.json must exist")
+    if not os.path.exists(PMAP):
+        raise SystemExit("case_pages_map.json must exist")
 
     page_map = json.load(open(PMAP, encoding="utf-8"))
-    index_text = open(INDEX, encoding="utf-8").read()
-    occupied: set[tuple[str, int]] = set()
     expanded: list[tuple[str, list[str]]] = []
     consolidated: dict[str, dict] = {}
 
@@ -190,9 +106,6 @@ def main() -> None:
         if not vol or not nums:
             continue
         text = open(path, encoding="utf-8").read()
-        for raw in PAGE_MARKER.findall(text):
-            occupied.add((vol, int(raw)))
-
         nums = sorted(dict.fromkeys(nums))
         siblings = expressly_decided_siblings(text, nums)
         merged = sorted(dict.fromkeys(nums + siblings))
@@ -206,7 +119,6 @@ def main() -> None:
             expanded.append((case_file, merged))
 
         if len(merged) > 1:
-            index_text = normalize_consolidated_row(index_text, case_file, merged)
             for n in merged:
                 consolidated[n] = dict(canonical)
 
@@ -223,42 +135,8 @@ def main() -> None:
         json.dump(page_map, f, indent=1)
         f.write("\n")
 
-    lines = index_text.splitlines()
-    kept: list[str] = []
-    removed: list[tuple[str, int]] = []
-    for line in lines:
-        m = FALLBACK.search(line)
-        if not m:
-            kept.append(line)
-            continue
-        source = (m.group(1), int(m.group(2)))
-        if source in PRESERVE_FALLBACK_PAGES:
-            kept.append(line)
-            continue
-        # Anonymous generic rows are synthetic detector output, not usable case records. A real
-        # unresolved matter must retain some identity (docket, parties, or a substantive title).
-        if ANONYMOUS_SYNTHETIC.search(line):
-            removed.append(source)
-            continue
-        if source in AUDITED_FALSE_FALLBACK_PAGES:
-            removed.append(source)
-            continue
-        docket = row_docket(line)
-        if source in occupied and docket is not None and docket in page_map:
-            removed.append(source)
-            continue
-        kept.append(line)
-
-    with open(INDEX, "w", encoding="utf-8", newline="\n") as f:
-        f.write("\n".join(kept) + "\n")
-
     if expanded:
         print("expanded consolidated decisions:", " ".join(f"{f}={'/'.join(ns)}" for f, ns in expanded))
-    unique = sorted(set(removed))
-    print(f"suppressed {len(removed)} anonymous/duplicate/mis-paged fallback rows "
-          f"({len(unique)} unique source pages)")
-    if unique:
-        print("resolved:", " ".join(f"{v}:p{p}" for v, p in unique))
 
     ga49 = [page_map.get(n) for n in ("2020-07", "2020-08", "2020-09")]
     if not all(x and x.get("file") == "ga49_2022__2020-09" for x in ga49):

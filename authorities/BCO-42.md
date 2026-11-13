@@ -16,6 +16,7 @@
 | 2005 | Judicial case | explicit_citation | direct_text | high | [Scott Robar v. Central Carolina Presbytery](../cases/ga33_2005__2004-09.md) | dismissed |
 | 1997 | Judicial case | explicit_citation | direct_text | high | [David Stockment v. Southern Florida Presbytery](../cases/ga25_1997__1995-09.md) | remanded |
 | 1996 | Judicial case | explicit_citation | direct_text | high | [John T. DeBardeleben, III v. Philadelphia Presbytery](../cases/ga24_1996__1995-03.md) | dismissed |
+| 1983 | Judicial case | explicit_citation | direct_text | high | [Session of Village Chapel Presbyterian Church v. Presbytery of Eastern Carolina](../cases/ga11_1983__case9.md) | Complaint abandoned for nonappearance under BCO 42-10; interim advice on Reference 8 confirmed |
 | 2002 | Constitutional inquiry | structured_provision_tag | structured_provision_tag | medium | [Presbytery's Right to Take Back a Matter from a Commission and Render a Decision](../inquiries/ga30_2002__ci08.md) | advice given |
 | 1986 | Constitutional inquiry | structured_provision_tag | structured_provision_tag | medium | [Book of Church Order / BCO 3-1](../inquiries/ga14_1986__ci10.md) | advice given |
 | 1986 | Constitutional inquiry | structured_provision_tag | structured_provision_tag | medium | [Congregational vote to rotate entire session or diaconate off](../inquiries/ga14_1986__ci08.md) | advice given |

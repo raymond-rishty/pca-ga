@@ -5,7 +5,7 @@ the freshly-segmented cases (index/segments/*.json) with the already-segmented
 sjc_decision / cjb_decision chunks (index/chunks.jsonl).
 
 Outputs:
-  data/cases/records/cases.jsonl          one row per case (SJC or pre-SJC CJB)
+  data/cases/derived/cases_extracted.jsonl one row per extracted case (SJC or pre-SJC CJB)
   data/cases/derived/case_citations.jsonl precedent edges (from_case -> to_case)
 
 Sources & merge:
@@ -45,7 +45,7 @@ CHUNKS = os.path.join(ROOT, "index", "chunks.jsonl")
 SEGDIR = os.path.join(ROOT, "index", "segments")
 OUT = os.environ.get(
     "PCA_CASES_RECORDS",
-    os.path.join(ROOT, "data", "cases", "records", "cases.jsonl"),
+    os.path.join(ROOT, "data", "cases", "derived", "cases_extracted.jsonl"),
 )
 EDGES = os.environ.get(
     "PCA_CASE_CITATIONS",
