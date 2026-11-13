@@ -64,7 +64,7 @@ test('search and catalogue results preserve return state and expose keyboard act
 
     await page.goBack({ waitUntil: 'networkidle' });
     await page.waitForSelector('[data-judicial-record] h3 a[href]');
-    assert.match(new URL(page.url()).pathname, /\/index\/CASES\.html$/i);
+    assert.match(new URL(page.url()).pathname, /\/index\/JUDICIAL-CASES\.html$/i);
   } finally {
     await context.close();
     await browser.close();
