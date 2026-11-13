@@ -15,7 +15,6 @@ Usage: 35_search_index.py [ROOT]   (default /workspace)
 """
 from __future__ import annotations
 import json, os, re, sys
-from glob import glob
 from pathlib import Path
 from atomic_output import write_text_atomic
 
@@ -23,7 +22,6 @@ ROOT = sys.argv[1] if len(sys.argv) > 1 else "/workspace"
 IDX = os.path.join(ROOT, "index")
 APP = os.path.join(ROOT, "app")
 CASE_RECORDS = os.path.join(ROOT, "data", "cases", "records")
-CASE_SUMMARY_CHUNK_SIZE = 200
 
 
 def load(name):
@@ -89,7 +87,6 @@ def case_page_summary(root, file_stem):
 
 def main():
     rows = []
-    case_summaries = {}
 
     for r in load("rpr_search.json"):
         exception = re.search(r"__(\d+)\.md$", r["url"])
@@ -198,8 +195,6 @@ def main():
                "review_standards": tax.get("review_standards") or [],
                "classification_status": tax.get("classification_status"),
                "url": f"cases/{file_stem}.md"}
-        if summary:
-            case_summaries[str(case_id or file_stem)] = summary
         rows.append(row)
 
     for r in load("studies_pages.json"):
@@ -216,13 +211,6 @@ def main():
     os.makedirs(APP, exist_ok=True)
     write_text_atomic(Path(APP) / "search_index.json",
                       json.dumps(rows, ensure_ascii=False, separators=(",", ":")))
-    for path in glob(os.path.join(APP, "case_summaries_*.json")):
-        os.remove(path)
-    summary_items = sorted(case_summaries.items())
-    for part, offset in enumerate(range(0, len(summary_items), CASE_SUMMARY_CHUNK_SIZE), start=1):
-        summary_chunk = dict(summary_items[offset:offset + CASE_SUMMARY_CHUNK_SIZE])
-        write_text_atomic(Path(APP) / f"case_summaries_{part}.json",
-                          json.dumps(summary_chunk, ensure_ascii=False, separators=(",", ":")))
     from provision_catalogue import load_catalogue, provision_search_rows
     catalogue_path = os.path.join(IDX, "provision_catalogue.json")
     provision_rows = []
@@ -235,7 +223,6 @@ def main():
     import collections
     by = collections.Counter(r["type"] for r in rows)
     print(f"[{ROOT}] app/search_index.json: {len(rows)} records {dict(by)} ({sz // 1024}KB); "
-          f"{len(case_summaries)} case summaries in {part if case_summaries else 0} chunks; "
           f"{len(provision_rows)} provision search rows")
 
 

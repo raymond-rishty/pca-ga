@@ -35,19 +35,46 @@ flowchart TD
     RC --> CA
     PM --> CA
     CA --> CAR[Coverage audit report<br/>docs/audits/CASE-COVERAGE-AUDIT.md]
-    CPI[Located CJB spans<br/>data/cases/sources/cjb_cases.json] --> CPP[Rendered CJB page records<br/>index/cjb_pages.json]
+    CJBS[Located CJB spans<br/>data/cases/sources/cjb_cases.json] --> CPP[Rendered CJB page records<br/>index/cjb_pages.json]
     CPP --> C
     C --> V[Judicial catalogue HTML<br/>index/JUDICIAL-CASES.html]
-    C --> V2[Case page cards<br/>cases/*.md]
+    C --> V2[Case Markdown pages<br/>cases/*.md]
     C --> BSR[Build source registry<br/>scripts/build_source_registry.py]
-    BSR --> SR[Case source registry<br/>index/source_registry.json]
+    BSR --> SR[Source registry<br/>index/source_registry.json]
     BSR --> PI[Dedicated PDF inventory<br/>index/dedicated_pdf_inventory.json]
-    C --> P[Case-provision index<br/>index/case_provision_index.json<br/>index/CASES-BY-PROVISION.md]
-    V2 --> P
-    C --> S[Search records<br/>app/search_index.json<br/>app/case_summaries_*.json]
+    SR --> SLE[Add source-link metadata<br/>scripts/add_extracted_source_pdf_metadata.py]
+    SLE --> V2
+    V2 --> VP[Rendered case decision pages<br/>site output]
+    C --> CPIDX[Case-provision data<br/>index/case_provision_index.json]
+    V2 --> CPIDX
+    CPIDX --> P[Case-by-provision page<br/>index/CASES-BY-PROVISION.md]
+    CPIDX --> AI[Authority index<br/>index/authority_index.json]
+    AI --> CRB[Reader citation rebuild<br/>external repository workflow]
+    CRB --> CRA[Reader citation assets<br/>content/citations-counts.js<br/>content/cit/*.js]
+    CPIDX --> API[BCO API files<br/>api/bco/*]
+    C --> S[Search catalogue<br/>app/search_index.json]
     V2 --> S
-    P --> A[Authority and BCO outputs<br/>index/authority_index.json<br/>api/bco/*]
+
+    classDef site fill:#dbeafe,stroke:#2563eb,color:#172554
+    classDef api fill:#dcfce7,stroke:#16a34a,color:#14532d
+    classDef runtime fill:#f3e8ff,stroke:#9333ea,color:#581c87
+    classDef audit fill:#fef3c7,stroke:#d97706,color:#78350f
+    classDef support fill:#e5e7eb,stroke:#6b7280,color:#111827
+    classDef integration fill:#fce7f3,stroke:#db2777,color:#831843
+    class V,VP,P site
+    class API api
+    class S,CRA runtime
+    class IAR,CAR,PI audit
+    class CPJ,SR,SLE,V2,CPIDX,CRB,CPP support
+    class AI integration
 ```
+
+Colors distinguish rendered site pages, public API files, browser runtime data,
+audit outputs, internal build/support data, and cross-repository integration
+feeds. Source and review inputs are left uncolored. The Reader workflow checks
+out this repository and reads `index/authority_index.json` to regenerate its
+own citation assets; the JSON is excluded from Jekyll output and is not a site
+API endpoint.
 
 The roster and reconciled case corpus answer different questions. The roster
 helps track official judicial matters; the reconciled corpus combines
@@ -64,14 +91,17 @@ fields used for citation display and source links. Downstream renderers and the
 GA53 overture research join read those values from the canonical catalogue.
 The roster contributes case PDF links during catalogue construction; downstream
 registry generation reads those links from the canonical records rather than
-re-reading the roster. The identity audit compares roster captions against
-`cases_reconciled.jsonl` and the canonical catalogue. The canonical records
-carry page assignments and all docket numbers associated with each decision
-page, so the provision index and search records do not need to reread the page
-map. Case text remains an input for direct provision citations and fallback
-summaries. The coverage audit reads reconciled extraction records and the
-canonical catalogue to find page-coverage gaps and compare extracted
-dispositions.
+re-reading the roster. The registry is an intermediate lookup, not a terminal
+site artifact: Gradle task `addExtractedSourcePdfMetadata` reads it through
+`scripts/source_links.py` and writes source-link metadata into case and other
+extracted Markdown pages before Jekyll renders them. The identity audit
+compares roster captions against `cases_reconciled.jsonl` and the canonical
+catalogue. The canonical records carry page assignments and all docket numbers
+associated with each decision page, so the provision index and search records
+do not need to reread the page map. Case text remains an input for direct
+provision citations and fallback summaries. The coverage audit reads
+reconciled extraction records and the canonical catalogue to find page-coverage
+gaps and compare extracted dispositions.
 `judicial_cases.jsonl` records canonical cases and page-level docket aliases.
 It does not attempt to reproduce every Assembly appearance or citation in the
 Minutes; the retired `CASES.md` view and its extracted-entry sidecar are not
@@ -152,11 +182,11 @@ docket belongs in `judicial_cases.jsonl`.
 | `index/case_provision_index.json` | Auditable case-to-constitutional-provision rows, including evidence sources. | `scripts/44_case_provision_index.py`. | Consumed by authority/provision catalogue and site builds. Regenerate from `judicial_cases.jsonl` and case-page text. |
 | `index/JUDICIAL-CASES.html` | Rendered one-row-per-catalogue-case public view. | `scripts/13_judicial_taxonomy_index.py`; Gradle task `generateJudicialCatalogue`. | Site output generated from `judicial_cases.jsonl` and case pages. Printed-page citations use source-page fields in the canonical records, with case-page source text as a fallback. Do not hand-edit. |
 | `index/CASES-BY-PROVISION.md` | Human-readable case and provision view. | `scripts/44_case_provision_index.py`. | Generated from the canonical catalogue and case-page text. |
-| `index/source_registry.json` | Registry of durable case and other source identities, including canonical docket-to-source mappings. | `scripts/build_source_registry.py`; Gradle task `buildSourceRegistry`. | Case entries and PDF links are generated from `judicial_cases.jsonl`; it is not independently sourced from `sjc_official/roster.jsonl`. |
+| `index/source_registry.json` | Build-time lookup of durable source identities and record-to-source mappings. | `scripts/build_source_registry.py`; Gradle task `buildSourceRegistry`. | Read by `scripts/source_links.py` and Gradle task `addExtractedSourcePdfMetadata` to add source-link metadata to case and other extracted Markdown pages. Case entries and PDF links come from `judicial_cases.jsonl`, not a downstream reread of the roster. |
 | `index/dedicated_pdf_inventory.json` | Inventory of source PDFs assigned to canonical records. | `scripts/build_source_registry.py`; Gradle task `buildSourceRegistry`. | Generated alongside the source registry from canonical source assignments. |
 | `app/search_index.json` | Search rows consumed by the web app. | `scripts/35_search_index.py`; Gradle task `rebuildSearchIndex`. | Runtime search data. Case metadata, page assignments, and docket aliases come from `judicial_cases.jsonl`; case text supplies fallback summaries. Generated output. |
-| `app/case_summaries_*.json` | Chunked case-summary payloads generated alongside search rows. | `scripts/35_search_index.py`; tracked as outputs of Gradle task `rebuildSearchIndex`. | `sw.js` precaches chunks 1 and 2. No code path that fetches or reads the chunks was found in this audit, so the runtime consumer is unresolved; verify before treating them as removable or required. |
-| `index/authority_index.json`, `api/bco/*`, and related provision outputs | Downstream authority, BCO, and search representations that can include case-derived evidence. | Authority, provision, and BCO manifest generators in the Gradle graph. | Derived from the provision catalogue and case provision index. Regenerate through the Gradle build graph. |
+| `index/authority_index.json` | Flat projection with one row per provision-authority relationship, including evidence and locator data. | `scripts/43_authority_index.py`; Gradle task `projectAuthorityIndex`, from `index/provision_catalogue.json`. | The Constitution Reader's scheduled/manual citation-refresh workflow checks out this repository and reads the JSON to generate `content/citations-counts.js` and `content/cit/*.js` in its own repository. Jekyll excludes this JSON, so it is not served as a site API endpoint. |
+| `api/bco/*` and related provision API files | Versioned machine-readable provision records and compatibility routes. | BCO and provision manifest generators in the Gradle graph. | Public API output derived from the provision catalogue; regenerate through the Gradle build graph. |
 
 ## Coverage review
 

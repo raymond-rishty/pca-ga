@@ -74,7 +74,7 @@ def searchIndexInputs = files(fileTree('index') {
 }, file('data/cases/records/judicial_cases.jsonl'))
 def judicialCatalogueInputs = files(file('data/cases/records/judicial_cases.jsonl'))
 def searchIndexOutputs = fileTree('app') {
-    include 'search_index.json', 'case_summaries_*.json', 'provision_search.json'
+    include 'search_index.json', 'provision_search.json'
 }
 
 def checkPython = registerCommand('checkPythonDependencies', [pythonCommand, '-c', 'import openpyxl'])

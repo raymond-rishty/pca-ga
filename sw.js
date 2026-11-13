@@ -1,4 +1,4 @@
-const CACHE = 'pca-ga-v18';
+const CACHE = 'pca-ga-v19';
 const STATIC = [
   './',
   './research.html',
@@ -23,9 +23,7 @@ const STATIC = [
   './assets/pagefind-search.js',
   './assets/home-search.js',
   './app/search_index.json',
-  './app/provision_search.json',
-  './app/case_summaries_1.json',
-  './app/case_summaries_2.json'
+  './app/provision_search.json'
 ];
 
 self.addEventListener('install', e => {
