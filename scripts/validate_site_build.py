@@ -80,6 +80,19 @@ def main() -> int:
     if "/api/provisions/index.json" not in llms.read_text(encoding="utf-8"):
         raise SystemExit("llms.txt does not reference the canonical provision index.")
 
+    # Keep source Markdown available at the same published path as its HTML page.
+    for relative in (
+        "markdown/ga52_2025.md",
+        "cases/ga03_1975__case1.md",
+        "index/INDEX.md",
+    ):
+        source = root / relative
+        published = site / relative
+        require_file(source)
+        require_file(published)
+        if source.read_bytes() != published.read_bytes():
+            raise SystemExit(f"Published Markdown source differs from its repository source: {relative}.")
+
     # Extracted corpus pages need working source-PDF actions and a known judicial page link.
     extracted_dirs = ("cases", "inquiries", "overtures", "rpr", "studies")
     extracted_pages: list[Path] = []
