@@ -7,7 +7,7 @@ const baseUrl = process.env.PCA_TEST_BASE_URL || 'http://127.0.0.1:4173';
 async function waitForReturnLink(page) {
   await page.waitForFunction(() => {
     const link = document.querySelector('#recordReturnLink');
-    return link && !link.hidden && link.getAttribute('href');
+    return link && !link.closest('[hidden]') && link.getAttribute('href') !== '#';
   }, null, { timeout: 15000 });
 }
 
@@ -33,6 +33,7 @@ test('search and catalogue results preserve return state and expose keyboard act
     await page.reload({ waitUntil: 'networkidle' });
     await page.waitForSelector('.home-result__link[data-result-primary][href]', { timeout: 30000 });
     assert.equal(await page.locator('#recordReturn').count(), 0);
+    assert.equal(await page.locator('#readingBack').isVisible(), false);
     const searchResult = page.locator('.home-result__link[data-result-primary][href]').first();
     const searchHref = await searchResult.getAttribute('href');
     assert.match(searchHref, /\/?(?:cases|inquiries|overtures|rpr\/exc|studies|markdown)\//i);
@@ -41,6 +42,18 @@ test('search and catalogue results preserve return state and expose keyboard act
     await page.waitForLoadState('domcontentloaded');
     await waitForReturnLink(page);
     assert.match(await page.locator('#recordReturnLink').getAttribute('href'), /[?&]q=Woodham/);
+
+    const recordUrl = page.url();
+    const source = page.locator('main a[href*="/markdown/"]:not([target="_blank"])').first();
+    await source.click();
+    await waitForReturnLink(page);
+    assert.match(new URL(page.url()).pathname, /\/markdown\//);
+    assert.match(await page.locator('#recordReturnLink').getAttribute('href'), /[?&]q=Woodham/);
+    await page.locator('#readingBack').click();
+    await page.waitForURL(recordUrl);
+    await waitForReturnLink(page);
+    await page.goForward();
+    await waitForReturnLink(page);
 
     await page.locator('#recordReturnLink').click();
     await page.waitForLoadState('networkidle');
@@ -67,6 +80,30 @@ test('search and catalogue results preserve return state and expose keyboard act
     assert.match(new URL(page.url()).pathname, /\/index\/JUDICIAL-CASES\.html$/i);
   } finally {
     await context.close();
+    await browser.close();
+  }
+});
+
+test('Back restores the expanded case list on a provision page', async () => {
+  const browser = await chromium.launch({ headless: true });
+  try {
+    const page = await browser.newPage({ reducedMotion: 'reduce' });
+    const provision = baseUrl + '/provisions/bco/24-1/';
+    await page.goto(provision);
+    const record = page.locator('main a[href*="/cases/"]').first();
+    const summaries = record.locator('xpath=ancestor::details/summary');
+    for (const summary of await summaries.all()) {
+      if (!await summary.evaluate(el => el.parentElement.open)) await summary.click();
+    }
+    await record.scrollIntoViewIfNeeded();
+    const position = await page.evaluate(() => scrollY);
+    await record.click();
+    await page.waitForURL('**/cases/**');
+    await page.locator('#readingBack').click();
+    await page.waitForURL(provision);
+    assert.equal(await record.isVisible(), true);
+    await page.waitForFunction(y => Math.abs(scrollY - y) < 24, position);
+  } finally {
     await browser.close();
   }
 });

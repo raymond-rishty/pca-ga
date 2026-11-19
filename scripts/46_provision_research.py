@@ -456,6 +456,7 @@ def _site_shell_open(baseurl: str, breadcrumb: str, page_title: str,
   <div class="layout">
     <header class="topbar">
       <button class="menu-btn" id="menuBtn" aria-label="Open navigation" aria-expanded="false" aria-controls="sidebar"><span></span><span></span><span></span></button>
+      <button type="button" id="readingBack" class="reading-back" aria-label="Back to previous location" title="Back to previous location" hidden><span aria-hidden="true">←</span> Back</button>
       <a class="topbar-brand" href="{baseurl}/" aria-label="PCA General Assembly Minutes home">
         <svg class="brand-mark" width="28" height="28" viewBox="0 0 100 100" fill="none" aria-hidden="true"><circle cx="50" cy="50" r="41" stroke="#C8993A" stroke-width="4"/><path d="M50 21v58M21 50h58" stroke="#C8993A" stroke-width="7" stroke-linecap="round"/><circle cx="50" cy="50" r="11" fill="#C8993A"/></svg>
         <span class="brand-text"><span class="brand-title">PCA General Assembly</span><span class="brand-sub">Minutes 1973–2025</span></span>

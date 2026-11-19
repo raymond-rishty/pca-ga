@@ -1307,6 +1307,35 @@
     });
   }
 
+  function restoreProvisionSections() {
+    const article = document.querySelector('.provision-page');
+    if (!article) return;
+    const sections = [...article.querySelectorAll('details')];
+    const saved = history.state?.openProvisionSections;
+    if (Array.isArray(saved)) sections.forEach((section, index) => { section.open = saved.includes(index); });
+    article.addEventListener('toggle', (event) => {
+      if (event.target.tagName !== 'DETAILS') return;
+      const openProvisionSections = sections.flatMap((section, index) => section.open ? [index] : []);
+      try { history.replaceState({ ...history.state, openProvisionSections }, ''); } catch (_) { /* Reading works without persisted sections. */ }
+    }, true);
+  }
+
+  function setupReadingBack() {
+    const button = document.getElementById('readingBack');
+    const root = document.querySelector('.topbar-brand')?.href;
+    const navigation = window.navigation;
+    if (!button || !root || !navigation) return;
+    function update() {
+      const index = navigation.currentEntry?.index;
+      const previous = index > 0 && navigation.entries()[index - 1];
+      button.hidden = !previous?.url || !previous.url.startsWith(root);
+    }
+    button.addEventListener('click', () => history.back());
+    navigation.addEventListener('currententrychange', update);
+    window.addEventListener('pageshow', update);
+    update();
+  }
+
   function contextLabel() {
     const query = document.querySelector('#home-search-input')?.value.trim();
     if (query) return `Back to “${query}” results`;
@@ -1361,20 +1390,27 @@
     }
   });
 
+  let documentReturnContext;
+
   function recordContext(event) {
     const link = event.target.closest('a[href]');
-    if (!link || link.closest('#recordSequence') || event.defaultPrevented || event.button || event.metaKey || event.ctrlKey || event.shiftKey || event.altKey) return;
+    if (event.defaultPrevented || event.button || event.metaKey || event.ctrlKey || event.shiftKey || event.altKey) return;
+    if (!link || link.id === 'recordReturnLink' || link.hasAttribute('download')) return;
+    if (link.target && link.target !== '_self') return;
     const target = new URL(link.href, location.href);
     if (target.origin !== location.origin || !isRecordPath(target.pathname)) return;
-    const resultLinks = resultLinksForContext();
-    const position = resultLinks.findIndex((item) => item.href === target.href);
+    if (target.pathname === location.pathname && target.search === location.search) return;
+    const parent = documentReturnContext;
+    const items = parent ? parent.items : resultLinksForContext();
+    const position = items.findIndex(item => item.href === target.href);
+    if (!parent && position < 0 && isRecordPath(location.pathname)) return;
     const context = {
-      version: 2,
-      href: location.href,
+      href: parent?.href || location.href,
+      label: parent?.label || contextLabel(),
+      y: parent?.y ?? window.scrollY,
+      source: location.href.split('#')[0],
       destination: target.pathname,
-      label: contextLabel(),
-      y: window.scrollY,
-      items: resultLinks,
+      items,
       position,
     };
     try { sessionStorage.setItem('pca-ga-return-context', JSON.stringify(context)); } catch (_) { /* Context is a convenience. */ }
@@ -1392,27 +1428,31 @@
       container.hidden = true;
       return;
     }
-    let context;
-    try { context = JSON.parse(sessionStorage.getItem('pca-ga-return-context')); } catch (_) { context = null; }
-    const currentIndex = context?.items?.findIndex((item) => new URL(item.href, location.href).pathname === location.pathname) ?? -1;
+    let context = history.state?.recordReturn || documentReturnContext;
+    if (!context) {
+      try {
+        const pending = JSON.parse(sessionStorage.getItem('pca-ga-return-context'));
+        sessionStorage.removeItem('pca-ga-return-context');
+        if (pending?.source === document.referrer.split('#')[0] && pending.destination === location.pathname) {
+          context = pending;
+          history.replaceState({ ...history.state, recordReturn: context }, '');
+        }
+      } catch (_) { /* Native Back remains available. */ }
+    }
+    documentReturnContext = context;
+    const currentIndex = context?.items?.findIndex((item) => item.href === location.href) ?? -1;
     if (!context?.href || (context.destination && context.destination !== location.pathname && currentIndex < 0)) return;
-    const activePosition = currentIndex >= 0 ? currentIndex : (context.position || 0);
+    const activePosition = currentIndex >= 0 ? currentIndex : context.position;
     link.textContent = `← ${context.label || 'Back to results'}`;
     link.href = context.href;
-    link.addEventListener('click', () => {
+    link.onclick = () => {
       try { sessionStorage.setItem('pca-ga-restore-scroll', JSON.stringify({ href: context.href, y: context.y || 0 })); } catch (_) { /* No persistence needed. */ }
-    });
-    if (context.items?.length && context.position >= 0 && sequence) {
+    };
+    if (context.items?.length && activePosition >= 0 && sequence) {
       const previous = context.items[activePosition - 1];
       const next = context.items[activePosition + 1];
       sequence.hidden = false;
       sequence.innerHTML = `${activePosition + 1} of ${context.items.length}${previous ? ` <a href="${previous.href}" aria-label="Previous result">‹</a>` : ''}${next ? ` <a href="${next.href}" aria-label="Next result">›</a>` : ''}`;
-      sequence.querySelectorAll('a[href]').forEach((resultLink) => resultLink.addEventListener('click', () => {
-        const target = new URL(resultLink.href, location.href);
-        context.destination = target.pathname;
-        context.position = context.items.findIndex((item) => item.href === target.href);
-        try { sessionStorage.setItem('pca-ga-return-context', JSON.stringify(context)); } catch (_) { /* Context is a convenience. */ }
-      }));
     }
     container.hidden = false;
   }
@@ -1420,7 +1460,7 @@
   function restoreScroll() {
     let restore;
     try { restore = JSON.parse(sessionStorage.getItem('pca-ga-restore-scroll')); } catch (_) { restore = null; }
-    if (!restore || new URL(restore.href, location.href).pathname !== location.pathname) return;
+    if (!restore || restore.href !== location.href) return;
     sessionStorage.removeItem('pca-ga-restore-scroll');
     const apply = () => window.requestAnimationFrame(() => window.scrollTo({ top: restore.y || 0, behavior: 'auto' }));
     const isSearchHydration = document.body.dataset.pageType === 'home' && new URLSearchParams(location.search).has('q');
@@ -1469,7 +1509,10 @@
   enhanceProvisionIndex();
   enhanceJudicialCatalogue();
   injectBadges();
+  restoreProvisionSections();
+  setupReadingBack();
   restoreContext();
+  window.addEventListener('hashchange', restoreContext);
   restoreScroll();
   renderBrowseRecent();
 
