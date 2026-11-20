@@ -79,6 +79,10 @@
     {% if page.title %}<meta data-pagefind-meta="title[content]" content="{{ page.title | escape }}">{% endif %}
     {% if page_ga_year %}<meta data-pagefind-meta="year[content]" data-pagefind-filter="year[content]" content="{{ page_ga_year }}">{% endif %}
   {% endif %}
+  {% if page_type == 'volume' %}
+    <link rel="stylesheet" href="{{ '/assets/volume-navigation.css' | relative_url }}">
+    <script defer src="{{ '/assets/volume-navigation.js' | relative_url }}"></script>
+  {% endif %}
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Crimson+Pro:ital,wght@0,300;0,400;0,500;0,600;1,300;1,400&family=DM+Sans:wght@300;400;500&display=swap" rel="stylesheet">
@@ -208,9 +212,11 @@
       </button>
     </header>
 
+    {% if page_type == 'volume' %}{% include volume-navigation.html %}{% endif %}
     <main class="page-main{% if page_type == 'home' %} page-main--home{% endif %}{% if page_type == 'browse' or page_type == 'research' %} page-main--workspace{% endif %}" id="content">
       <article class="reading-col{% if page_type == 'home' %} reading-col--home{% endif %}{% if page_type == 'browse' or page_type == 'research' %} reading-col--workspace{% endif %}{% if index_variant != '' %} reading-col--catalogue-index reading-col--index-{{ index_variant }}{% endif %}{% if page.url == '/index/CASES.html' or page.url == '/index/JUDICIAL-CASES.html' %} reading-col--case-index{% endif %}"{% if pagefind_type != '' %} data-pagefind-body{% endif %}>
         {% if page_type == 'case' or page_type == 'rpr-exception' or page_type == 'overture' or page_type == 'study' or page_type == 'volume' or page.layout == 'inquiry' %}
+        {% unless page_type == 'volume' %}{% include record-navigation.html %}{% endunless %}
         <div class="record-return" id="recordReturn" hidden>
           <a id="recordReturnLink" href="#">← Back to results</a>
           <span class="record-return__sequence" id="recordSequence" hidden></span>

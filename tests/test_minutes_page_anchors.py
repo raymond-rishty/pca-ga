@@ -39,6 +39,18 @@ def volume_html(pages: list[tuple[int, str]], ga: int = 51) -> str:
 
 
 class MinutesPageAnchorTests(unittest.TestCase):
+    def test_outline_uses_physical_coordinates_and_keeps_unlocated_groups(self):
+        from volume_outlines import make_outline
+        html, _, _ = markup.transform_volume(volume_html([(1, "iv"), (2, "iv"), (3, "null")]), Path("test"))
+        rows = [{"title": "Group", "children": [
+            {"label": "First", "pdf_page": 2, "printed_page": "wrong"},
+            {"label": "Second", "pdf_page": 3}]}]
+        group, = make_outline("ga51_2024", {"parts": rows}, html)["nodes"]
+        self.assertIsNone(group["target"])
+        first, second = group["children"]
+        self.assertEqual((first["folio"], first["target"]), ("iv", "ga51-piv-at-pdf2"))
+        self.assertEqual((second["folio"], second["target"]), (None, "ga51-pdf-p3"))
+
     def test_pdf_and_printed_targets_are_distinct_and_migrate_legacy_collision(self) -> None:
         source = volume_html([(808, "801"), (815, "808")])
         rendered, _, wrappers = markup.transform_volume(source, Path("ga51_2024.html"))

@@ -325,7 +325,7 @@
 
   function collectionCitation(header) {
     const title = header.querySelector('h1')?.textContent.trim() || header.dataset.recordKind || 'PCA record';
-    const source = header.querySelector('a[href*="/markdown/"]') || document.querySelector('.reading-col a[href*="/markdown/"]');
+    const source = header.querySelector('a[href*="/markdown/"]') || document.querySelector('.reading-col p a[href*="/markdown/"]');
     const href = source?.getAttribute('href') || '';
     const sourceText = source?.textContent || '';
     const ga = (href.match(/ga0?(\d+)_/i) || href.match(/#ga0?(\d+)-p/i) || sourceText.match(/ga0?(\d+)/i))?.[1];
@@ -368,9 +368,58 @@
     setupRecordActions(header, collectionCitation(header));
   }
 
-  function pageMeta(ga, page, { printed = true, printedSource = null } = {}) {
+  function addMinutesSources() {
+    const locationNav = document.getElementById('recordLocation');
+    if (!locationNav || locationNav.hasAttribute('data-volume-only')) return;
+    const article = locationNav.closest('article');
+    const passages = new Map();
+    const add = (url, label) => { if (!passages.has(url.href)) passages.set(url.href, label); };
+    for (const anchor of article.querySelectorAll('p a[href*="/markdown/"]')) {
+      const url = new URL(anchor.href);
+      const volume = url.pathname.match(/\/markdown\/ga(\d+)_(\d{4})\.html$/);
+      if (!volume || url.origin !== location.origin) continue;
+      const fragment = url.hash.match(/^#ga\d+-(pdf-)?p([\w.-]+?)(?:-at-pdf\d+)?$/);
+      if (!fragment) continue;
+      const paragraph = anchor.closest('p');
+      const text = paragraph.textContent.trim();
+      if (!/^(?:source\b|📄|ga\d+_|m\d+ga|read the full report)/i.test(text) && !paragraph.classList.contains('inquiry-header__minutes')) continue;
+      const range = text.match(/(?:printed\s+)?\bpp?\.\s*([\d]+(?:\s*[–—-]\s*\d+)?)/i);
+      const physical = fragment[1];
+      const printedInText = text.match(/printed\s+p(?:p)?\.\s*([\d]+(?:\s*[–—-]\s*\d+)?)/i);
+      const folio = physical ? printedInText?.[1] : range?.[1] || fragment[2];
+      const pageLabel = folio ? (/[-–—]/.test(folio) ? 'pp. ' : 'p. ') + folio : 'PDF p. ' + fragment[2];
+      add(url, 'GA ' + Number(volume[1]) + ', ' + pageLabel);
+    }
+    if (!passages.size) {
+      for (const source of article.querySelectorAll('.source-pdf-link[data-source-id^="minutes:"][data-pdf-page]')) {
+        const volume = source.dataset.sourceId.slice(8);
+        const volumeLink = [...locationNav.querySelectorAll('a')].find(a => a.pathname.endsWith('/' + volume + '.html'));
+        const pdf = source.dataset.pdfPage;
+        if (!volumeLink || !/^\d+$/.test(pdf)) continue;
+        const url = new URL(volumeLink.href);
+        const ga = Number(volume.split('_')[0].slice(2));
+        url.hash = 'ga' + ga + '-pdf-p' + pdf;
+        add(url, 'GA ' + ga + ', PDF p. ' + pdf);
+      }
+    }
+    const more = document.createElement('details');
+    const summary = document.createElement('summary');
+    summary.textContent = 'Additional Minutes passages';
+    more.append(summary);
+    let first = true;
+    for (const [href, label] of passages) {
+      const anchor = document.createElement('a');
+      anchor.href = href;
+      anchor.textContent = first ? 'Read in the Minutes · ' + label : label;
+      (first ? locationNav : more).append(anchor);
+      first = false;
+    }
+    if (passages.size > 1) locationNav.append(more);
+  }
+
+  function pageMeta(ga, page, { printed = true, printedSource = null, fragment } = {}) {
     const short = `M${ga}GA ${printed ? 'p.' : 'PDF p.'}${page}`;
-    const anchor = printed ? `ga${ga}-p${page}` : `ga${ga}-pdf-p${page}`;
+    const anchor = fragment || (printed ? `ga${ga}-p${page}` : `ga${ga}-pdf-p${page}`);
     const url = `${pageUrl()}#${anchor}`;
     const recordTitle = document.querySelector('.record-header h1, .reading-col > h1')?.textContent.trim() || 'PCA General Assembly Minutes';
     return {
@@ -1476,7 +1525,8 @@
     const { ga, pdfPage, printedPage, printedSource } = marker.dataset;
     const printed = printedPage.toLowerCase() !== 'null';
     const page = printed ? printedPage : pdfPage;
-    const meta = pageMeta(ga, page, { printed, printedSource });
+    const fragment = marker.querySelector('a[href^="#"]')?.hash.slice(1);
+    const meta = pageMeta(ga, page, { printed, printedSource, fragment });
     meta.pdfPage = Number(pdfPage);
     meta.printedPage = printed ? printedPage : null;
     openPageActions(meta, button);
@@ -1501,6 +1551,7 @@
     } catch (_) { /* A dismissed share sheet is not an error state. */ }
   }));
 
+  addMinutesSources();
   enhanceCaseHeader();
   enhanceCollectionHeader();
   makeTablesResponsive();

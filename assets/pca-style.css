@@ -1659,3 +1659,9 @@ textarea:focus-visible {
   .minutes-volume-grid { grid-template-columns: 1fr; gap: .9rem; }
   .minutes-volume-card { min-height: 132px; }
 }
+
+#recordLocation { display:flex; gap:.25rem .9rem; flex-wrap:wrap; align-items:baseline; margin-bottom:.8rem; color:var(--ink-muted); font:500 .85rem var(--sans); }
+#recordLocation a, #recordLocation summary {display:inline-block; padding:.45rem 0}
+#recordLocation details {width:100%}
+#recordLocation summary {display:list-item;cursor:pointer}
+#recordLocation details a {display:block}

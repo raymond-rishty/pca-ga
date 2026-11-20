@@ -68,8 +68,8 @@ def page_link(vol, page, label=None):
 
 
 def outline_page_link(vol, page, label=None):
-    a = page_anchor(vol, page)
-    return f"[{label or ('p.' + str(page))}](../../markdown/{vol}.html{'#' + a if a else ''})"
+    ga = int(vol.split("_")[0][2:])
+    return f"[{label or ('PDF p.' + str(page))}](../../markdown/{vol}.html#ga{ga}-pdf-p{int(page)})"
 
 
 def main():
@@ -160,8 +160,8 @@ def main():
             for n in kids.get(parent, []):
                 pg = ""
                 if n["pdf_page"]:
-                    shown_page = n["printed_page"] or n["pdf_page"]
-                    pg = f" *({outline_page_link(stem, n['pdf_page'], f'p.{shown_page}')})*"
+                    shown = f"p.{n['printed_page']}" if n["printed_page"] else f"PDF p.{n['pdf_page']}"
+                    pg = f" *({outline_page_link(stem, n['pdf_page'], shown)})*"
                 if n["type"] == "overture":
                     label = f"Overture {n['number']}: {n['source'] or ''}".strip()
                 elif n["type"] == "case":

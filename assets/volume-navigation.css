@@ -1,0 +1,29 @@
+.volume-nav { position:sticky; top:var(--topbar-h); z-index:35; background:var(--parch); border-bottom:1px solid var(--parch-deep); display:flex; gap:.75rem; flex-wrap:wrap; align-items:center; padding:0 clamp(.65rem,3vw,2rem); font:500 .85rem var(--sans); }
+.volume-nav strong {margin-right:auto}
+.volume-nav :is(a,button), .volume-dialog :is(button,summary,li a) {min-height:44px; padding:.55rem .4rem; align-content:center; color:var(--ink);cursor:pointer}
+.volume-nav button, .volume-dialog button {text-decoration:underline}
+.volume-nav [hidden], .volume-dialog [hidden] {display:none}
+body[data-page-type="volume"] .page-marker {top:calc(var(--topbar-h) + var(--volume-nav-height,44px))}
+body[data-page-type="volume"] .minutes-page__anchor {scroll-margin-top:calc(var(--topbar-h) + var(--volume-nav-height,44px))}
+.volume-dialog {position:fixed;inset:calc(var(--topbar-h) + 3rem) 1rem auto auto; margin:0; width:min(28rem,95vw);max-height:70dvh;overflow:auto;padding:0 1rem 1rem;border:1px solid var(--parch-deep);background:var(--parch);color:var(--ink);z-index:120;font-family:var(--sans)}
+.volume-dialog header {position:sticky;top:0;background:var(--parch);display:flex;align-items:center;justify-content:space-between;border-bottom:1px solid var(--parch-deep)}
+.volume-dialog h2 {font:600 1.25rem var(--serif)}
+.volume-dialog ul {list-style:none;padding-left:1rem}
+.volume-dialog section>ul {padding-left:0}
+.volume-dialog li {margin:.25rem 0}
+.volume-dialog li a {display:inline-block}
+.volume-dialog summary {font-weight:600}
+.volume-dialog [aria-current] {font-weight:bold;border-inline-start:3px solid var(--gold)}
+.volume-dialog form label {display:block;margin-top:1rem}
+.volume-dialog :is(input,select) {max-width:100%;font:inherit;padding:.5rem;min-height:44px}
+.volume-dialog::backdrop {background:#17203677}
+html:has(.volume-dialog:modal) {overflow:hidden}
+@media(max-width:640px){.volume-dialog{inset:auto 0 0;width:100%;max-width:100%;max-height:80dvh;padding-bottom:calc(1rem + env(safe-area-inset-bottom))}.volume-nav{gap:.25rem}}
+
+
+@media (max-width:420px) {
+  :root {--volume-nav-height:70px}
+  .volume-nav {display:grid;grid-template-columns:auto 1fr;gap:0 .9rem}
+  .volume-nav strong {grid-column:1 / -1;line-height:25px}
+  .volume-nav button {justify-self:start}
+}
