@@ -1,0 +1,16 @@
+<nav class="volume-nav" id="volumeNav" aria-label="Volume navigation" data-volume="{{ vol_slug }}" data-outline="{{ '/assets/volume-outlines/' | append: vol_slug | append: '.json' | relative_url }}" data-pagefind-ignore>
+  <strong>{{ page_ga_num }}{{ page_ga_suffix }} GA · {{ page_ga_year }}<span id="volumeFolio"></span></strong>
+  <a href="{{ '/index/outlines/' | append: vol_slug | append: '.html' | relative_url }}" id="volumeContents">Contents</a>
+  <button type="button" id="volumeLookup" hidden>Go to page</button>
+</nav>
+<dialog class="volume-dialog" aria-labelledby="volumePanelTitle" id="volumePanel" data-pagefind-ignore>
+  <header><h2 id="volumePanelTitle">Contents</h2><button type="button" data-close>Close</button></header>
+  <section id="volumeTree" aria-label="Volume outline"></section>
+  <form id="volumeForm" hidden>
+    <label for="volumeMode">Page numbering</label>
+    <select id="volumeMode"><option value="printed">Printed page</option><option value="pdf">PDF page</option></select>
+    <label for="volumeNumber">Page</label><input id="volumeNumber" required autocomplete="off">
+    <button type="submit">Go</button>
+    <p role="status" id="volumeMessage"></p><div id="volumeChoices"></div>
+  </form>
+</dialog>

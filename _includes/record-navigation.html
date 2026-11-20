@@ -1,0 +1,17 @@
+{% case page_type %}
+  {% when 'case' %}{% assign family = 'Judicial cases' %}{% assign catalogue = '/index/JUDICIAL-CASES.html' %}
+  {% when 'overture' %}{% assign family = 'Overtures' %}{% assign catalogue = '/index/OVERTURES.html' %}
+  {% when 'rpr-exception' %}{% assign family = 'RPR exceptions' %}{% assign catalogue = '/index/RPR.html' %}
+  {% when 'study' %}{% assign family = 'Study papers' %}{% assign catalogue = '/index/STUDIES.html' %}
+  {% else %}
+    {% if page.inquiry_record == nil or page.inquiry_record.type contains 'advice' %}{% assign family = 'CCB overture advice' %}{% assign catalogue = '/index/CCB-OVERTURE-ADVICE.html' %}
+    {% else %}{% assign family = 'Constitutional inquiries' %}{% assign catalogue = '/index/INQUIRIES.html' %}{% endif %}
+{% endcase %}
+<nav id="recordLocation"{% if page.inquiry_record.source_status contains 'not yet verified' %} data-volume-only{% endif %} aria-label="Record location and Minutes sources" data-pagefind-ignore>
+  <a href="{{ catalogue | relative_url }}">{{ family }}</a>
+  {% assign volumes = page.source_links | where: 'type', 'minutes' | map: 'volume' | uniq %}
+  {% for volume in volumes %}
+    {% assign parts = volume | split: '_' %}{% assign ga = parts[0] | remove: 'ga' | plus: 0 %}
+    <a href="{{ '/markdown/' | append: volume | append: '.html' | relative_url }}" aria-label="Open Assembly volume, GA {{ ga }} ({{ parts[1] }})">GA {{ ga }} ({{ parts[1] }})</a>
+  {% endfor %}
+</nav>

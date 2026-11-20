@@ -44,10 +44,18 @@ test('search and catalogue results preserve return state and expose keyboard act
     assert.match(await page.locator('#recordReturnLink').getAttribute('href'), /[?&]q=Woodham/);
 
     const recordUrl = page.url();
-    const source = page.locator('main a[href*="/markdown/"]:not([target="_blank"])').first();
+    const source = page.locator('#recordLocation').getByRole('link', {name: /Read in the Minutes/}).first();
     await source.click();
     await waitForReturnLink(page);
     assert.match(new URL(page.url()).pathname, /\/markdown\//);
+    const citedPage = page.url();
+    await page.locator('#volumeLookup').click();
+    await page.locator('#volumeMode').selectOption('pdf');
+    await page.locator('#volumeNumber').fill('20');
+    await page.locator('#volumeNumber').press('Enter');
+    await page.waitForURL(url => url.hash.endsWith('-pdf-p20'));
+    await page.locator('#readingBack').click();
+    await page.waitForURL(citedPage);
     assert.match(await page.locator('#recordReturnLink').getAttribute('href'), /[?&]q=Woodham/);
     await page.locator('#readingBack').click();
     await page.waitForURL(recordUrl);

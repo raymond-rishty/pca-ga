@@ -10,6 +10,7 @@ keep_files:
   - pagefind
   - provisions
   - assets/constitution
+  - assets/volume-outlines
   - assets/minutes-pages.json
   - assets/scripture-audit.json
   - assets/scripture-audit-summary.json

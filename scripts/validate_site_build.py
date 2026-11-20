@@ -3,6 +3,7 @@
 from __future__ import annotations
 
 import argparse
+import json
 from collections import Counter
 from pathlib import Path
 import re
@@ -147,6 +148,17 @@ def main() -> int:
         if duplicates:
             raise SystemExit(f"Duplicate Minutes page targets in {path.name}: {', '.join(duplicates[:8])}.")
         identifiers = set(id_audit.ids)
+        outline = site / "assets" / "volume-outlines" / (path.stem + ".json")
+        require_file(outline)
+        payload = json.loads(outline.read_text(encoding="utf-8"))
+        if payload["version"] != 1 or payload["volume"] != path.stem or 'id="volumeNav"' not in volume_html:
+            raise SystemExit(f"Invalid volume navigation in {path.name}")
+        stack = list(payload["nodes"])
+        while stack:
+            node = stack.pop()
+            if node["target"] is not None and node["target"] not in identifiers:
+                raise SystemExit(f"Missing outline target {node['target']} in {path.name}")
+            stack.extend(node["children"])
         markers = list(re.finditer(
             r'<!--\s*PAGE\s+ga=(\d+)\s+pdf_page=(\d+)\s+printed_page=([^\s>]+)'
             r'(?:\s+[A-Za-z_][A-Za-z0-9_-]*=[^\s>]+)*\s*-->'

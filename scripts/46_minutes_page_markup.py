@@ -9,6 +9,7 @@ import json
 from pathlib import Path
 import re
 
+from volume_outlines import publish_outlines
 from minutes_page_locators import count_printed_pages, page_identifiers
 
 
@@ -326,6 +327,7 @@ def main() -> int:
             changed_files.append(path.relative_to(site).as_posix())
         marker_count += count
         wrapper_count += wrappers
+    publish_outlines(site, all_volumes)
     print(f"Generated {marker_count} printed-page markers and {wrapper_count} .minutes-page wrappers across {len(volumes)} Minutes volumes.")
     if args.changed_files_output:
         args.changed_files_output.parent.mkdir(parents=True, exist_ok=True)

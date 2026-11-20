@@ -654,10 +654,14 @@ linkAuthorityPages.configure { dependsOn renderJekyll, provisionPages }
 def markMinutesPages = registerCommand(
     'markMinutesPages', stageArgs('minutes-markup'),
     [file('scripts/run_site_stage.py'), file('scripts/46_minutes_page_markup.py'),
-     file('scripts/minutes_page_locators.py'), jekyllChanges, jekyllGeneration],
+     file('scripts/minutes_page_locators.py'), file('scripts/volume_outlines.py'),
+     fileTree('index/structure') { include 'ga*.json' }, jekyllChanges, jekyllGeneration],
     [minutesChanges, minutesMarkupCodeState, minutesMarkupGenerationState]
 )
-markMinutesPages.configure { dependsOn renderJekyll }
+markMinutesPages.configure {
+    dependsOn renderJekyll
+    outputs.dir(new File(siteDir, 'assets/volume-outlines'))
+}
 
 def normalizeCitations = registerCommand(
     'normalizeBcoCitations', stageArgs('normalize'),
@@ -740,6 +744,8 @@ def fastPreview = tasks.register('fastPreview', Exec) {
             }
         }
     }
+    inputs.files(fileTree('index/structure') { include 'ga*.json' }).withPropertyName('fastVolumeOutlines')
+    outputs.dir(new File(siteDir, 'assets/volume-outlines'))
     inputs.files(fastSiteInputs)
         .withPropertyName('fastSiteSources')
         .withPathSensitivity(PathSensitivity.RELATIVE)

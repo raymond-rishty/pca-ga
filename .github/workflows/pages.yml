@@ -131,7 +131,7 @@ jobs:
             fi
             sleep 1
           done
-          PCA_TEST_BASE_URL=http://127.0.0.1:4173/pca-ga node tests/result-navigation.browser.test.js
+          PCA_TEST_BASE_URL=http://127.0.0.1:4173/pca-ga node --test tests/result-navigation.browser.test.js tests/volume-navigation.browser.test.js
       - uses: actions/upload-pages-artifact@v3
         with:
           path: _site
